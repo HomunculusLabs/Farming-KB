@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**5269 pages**
+**5274 pages**
 
 ## #
 
@@ -593,6 +593,7 @@
 - [[auricularia-auricula]]
 - [[auricularia-auricula-judae]]
 - [[auricularia-delicata]]
+- [[auricularia-fuscosuccinea]]
 - [[auricularia-polytricha]]
 - [[auriscalpium-vulgare]]
 - [[australorp]]
@@ -1316,6 +1317,7 @@
 - [[clitopilus-prunulus]]
 - [[clitoria-ternatea]]
 - [[clonostachys-rosea]]
+- [[clopyralid]]
 - [[closed-recycling-irrigation]]
 - [[clothesline-effect]]
 - [[clothesline-effect-agriculture]]
@@ -1830,6 +1832,7 @@
 - [[earthbank]]
 - [[earthworms]]
 - [[earthworms-soil]]
+- [[easygel-coliform-detection]]
 - [[echeveria-agavoides]]
 - [[echeveria-derenbergii]]
 - [[echeveria-elegans]]
@@ -2331,6 +2334,7 @@
 - [[gracilaria-verrucosa]]
 - [[graham-burnett]]
 - [[grain-spawn]]
+- [[gram-stain-testing]]
 - [[gramine]]
 - [[granddaddy-purple]]
 - [[granitic-landscape-permaculture-mollison]]
@@ -4321,6 +4325,7 @@
 - [[ring-garden-atoll-mollison]]
 - [[rivea-corymbosa]]
 - [[robert-clarke]]
+- [[robert-rogers]]
 - [[robin-carhart-harris]]
 - [[robinia-hispida]]
 - [[robinia-pseudoacacia]]

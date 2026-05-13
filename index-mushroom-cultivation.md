@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1708 pages**
+**1710 pages**
 
 ## #
 
@@ -227,6 +227,8 @@
 - [[cotter-substrate-preparation]]
 - [[cotter-urban-mushroom-cultivation]]
 - [[cotter-wood-chip-cultivation-outdoor-beds]]
+- [[cultivated-mushroom-difficulty-ranking]]
+- [[cultivated-mushroom-difficulty-rankings]]
 - [[cultivation-of-oyster-mushrooms]]
 - [[cultivation-of-shiitake]]
 - [[cultivator-contaminants-of-mushroom-culture]]
