@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1370 pages**
+**1374 pages**
 
 ## A
 
@@ -193,6 +193,7 @@
 - [[edge-harmonics-in-permaculture]]
 - [[energy-descent-action-planning]]
 - [[energy-descent-and-permaculture]]
+- [[energy-descent-permaculture-adaptation]]
 - [[energy-descent-permaculture-response]]
 - [[ethical-investment-and-earth-banking]]
 - [[eucalypts-and-f-section-permaculture-plants]]
@@ -209,7 +210,6 @@
 - [[faires-water-harvesting-and-swales]]
 - [[farm-forestry-design-mollison]]
 - [[farm-strategies-and-yield-extension-in-permaculture]]
-- [[farming-with-air-water-and-sunlight]]
 - [[farming-with-air-water-sunlight]]
 - [[field-observation-permaculture-design]]
 - [[fish-yield-factors-and-polyculture]]
@@ -901,6 +901,7 @@
 - [[permaculture-design-methods-summary]]
 - [[permaculture-design-philosophy]]
 - [[permaculture-design-principles]]
+- [[permaculture-design-principles-and-social-change]]
 - [[permaculture-design-principles-and-sustainability]]
 - [[permaculture-design-principles-beginners]]
 - [[permaculture-design-principles-energy-diversity-yield]]
@@ -1023,6 +1024,7 @@
 - [[permaculture-introduction-and-ethics]]
 - [[permaculture-invisible-structures-economics]]
 - [[permaculture-japanese-raisin-tree-hovenia-dulcis]]
+- [[permaculture-key-references]]
 - [[permaculture-landscape-energy-storage-water-soil-trees-seed]]
 - [[permaculture-landscape-society-anthropocentric-nature-centered-design]]
 - [[permaculture-landscape-society-design]]
@@ -1120,6 +1122,7 @@
 - [[permaculture-principle-use-small-and-slow-solutions]]
 - [[permaculture-principles]]
 - [[permaculture-principles-ethical-foundations-holmgren]]
+- [[permaculture-principles-pathways-beyond-sustainability]]
 - [[permaculture-pyrethrum-daisy]]
 - [[permaculture-quinoa-growing-guide]]
 - [[permaculture-resource-assessment-and-client-consultation]]
@@ -1259,6 +1262,7 @@
 - [[science-living-systems-permaculture]]
 - [[seed-saving-in-permaculture]]
 - [[seed-selection-breeding-holzer]]
+- [[self-reliance-community-permaculture]]
 - [[sepp-holzer-cattle-and-poultry-management]]
 - [[sepp-holzer-composting-mulching-and-liquid-fertiliser]]
 - [[sepp-holzer-earth-cellars-and-philosophy]]

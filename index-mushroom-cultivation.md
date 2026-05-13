@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1722 pages**
+**1721 pages**
 
 ## #
 
@@ -213,7 +213,6 @@
 - [[cotter-mushroom-composting]]
 - [[cotter-mushroom-cultivation-emergency-scavenged-containers]]
 - [[cotter-mushroom-garden-design]]
-- [[cotter-mushroom-infused-beer-wine-and-spirits]]
 - [[cotter-mushroom-nutrition-medicinal-compounds]]
 - [[cotter-mushroom-products-and-value-added-applications]]
 - [[cotter-mushroom-rescue-modules-disaster-relief]]

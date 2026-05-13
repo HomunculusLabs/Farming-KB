@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1351 pages**
+**1352 pages**
 
 ## A
 
@@ -59,6 +59,7 @@
 - [[comparison-ashwagandha-vs-echinacea]]
 - [[comparison-ashwagandha-vs-rhodiola-cultivation]]
 - [[comparison-ashwagandha-vs-tulsi]]
+- [[comparison-astragalus-vs-ashwagandha]]
 - [[comparison-astragalus-vs-echinacea]]
 - [[comparison-astragalus-vs-reishi]]
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
