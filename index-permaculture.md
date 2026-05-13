@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1374 pages**
+**1375 pages**
 
 ## A
 
@@ -1443,6 +1443,7 @@
 
 - [[zeri-circular-economy-systems]]
 - [[zeri-organization]]
+- [[zero-emissions-research-initiatives-zeri]]
 - [[zone-5-wilderness]]
 - [[zone-and-sector-planning-permaculture-design]]
 - [[zone-one-garden-design-permaculture]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1809 pages**
+**1812 pages**
 
 ## #
 
@@ -1421,6 +1421,8 @@
 - [[psilocybin-dosage-guidelines-australian-species]]
 - [[psilocybin-ego-dissolution-mechanisms]]
 - [[psilocybin-end-of-life-care]]
+- [[psilocybin-extraction-alcohol-method]]
+- [[psilocybin-extraction-ethyl-alcohol]]
 - [[psilocybin-extraction-guide]]
 - [[psilocybin-extraterrestrial-hypothesis]]
 - [[psilocybin-image-identification-guide]]
@@ -1448,6 +1450,7 @@
 - [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]]
 - [[psilocybin-phosphorylation-via-zwitterionic-intermediate]]
 - [[psilocybin-potency-dosage-guide]]
+- [[psilocybin-potency-harvesting-and-extraction]]
 - [[psilocybin-potency-variation]]
 - [[psilocybin-potency-variation-species-strain-growth-conditions]]
 - [[psilocybin-psilocin-biosynthetic-timing-first-flush-absence]]
