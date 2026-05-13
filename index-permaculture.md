@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1348 pages**
+**1362 pages**
 
 ## A
 
@@ -851,10 +851,12 @@
 - [[permaculture-beginners-guide-soil-building-basics]]
 - [[permaculture-beginners-guide-zones-and-sectors]]
 - [[permaculture-black-locust]]
+- [[permaculture-book-structure-design-framework-holmgren]]
 - [[permaculture-broadscale-no-till-grain-production]]
 - [[permaculture-buckwheat]]
 - [[permaculture-building-design]]
 - [[permaculture-built-environment-design]]
+- [[permaculture-care-earth-biodiversity-limits]]
 - [[permaculture-castor-oil-plant]]
 - [[permaculture-catch-and-store-energy]]
 - [[permaculture-cattail]]
@@ -883,6 +885,7 @@
 - [[permaculture-daylily]]
 - [[permaculture-deduction-from-nature]]
 - [[permaculture-definition-and-philosophy]]
+- [[permaculture-definition-vision-movement-history]]
 - [[permaculture-design]]
 - [[permaculture-design-concepts-and-methods-overview]]
 - [[permaculture-design-concepts-themes]]
@@ -964,6 +967,7 @@
 - [[permaculture-energy-descent-planning]]
 - [[permaculture-energy-hierarchy]]
 - [[permaculture-energy-systems-and-conversion-efficiency]]
+- [[permaculture-ethical-principles-care-earth-people-limits]]
 - [[permaculture-ethical-principles-holmgren]]
 - [[permaculture-ethics]]
 - [[permaculture-ethics-and-design-principles]]
@@ -1004,6 +1008,7 @@
 - [[permaculture-herb-spiral-details]]
 - [[permaculture-honey-locust-pod-fodder-system]]
 - [[permaculture-hops]]
+- [[permaculture-household-energy-storage-built-environment]]
 - [[permaculture-humid-landscapes-keypoint-keyline]]
 - [[permaculture-in-landscape-and-society]]
 - [[permaculture-in-urban-areas]]
@@ -1015,6 +1020,7 @@
 - [[permaculture-introduction-and-ethics]]
 - [[permaculture-invisible-structures-economics]]
 - [[permaculture-japanese-raisin-tree-hovenia-dulcis]]
+- [[permaculture-landscape-energy-storage-water-soil-trees-seed]]
 - [[permaculture-landscape-society-anthropocentric-nature-centered-design]]
 - [[permaculture-landscape-society-design]]
 - [[permaculture-livestock-forage-systems]]
@@ -1092,6 +1098,11 @@
 - [[permaculture-polycultures]]
 - [[permaculture-pond-and-water-garden]]
 - [[permaculture-pond-construction]]
+- [[permaculture-principle-1-observe-interact]]
+- [[permaculture-principle-2-catch-store-energy]]
+- [[permaculture-principle-3-obtain-yield]]
+- [[permaculture-principle-4-self-regulation-feedback]]
+- [[permaculture-principle-5-renewable-resources-services]]
 - [[permaculture-principle-apply-self-regulation]]
 - [[permaculture-principle-catch-and-store-energy]]
 - [[permaculture-principle-creatively-use-and-respond-to-change]]
@@ -1105,6 +1116,7 @@
 - [[permaculture-principle-use-edges-and-value-the-marginal]]
 - [[permaculture-principle-use-small-and-slow-solutions]]
 - [[permaculture-principles]]
+- [[permaculture-principles-ethical-foundations-holmgren]]
 - [[permaculture-pyrethrum-daisy]]
 - [[permaculture-quinoa-growing-guide]]
 - [[permaculture-resource-assessment-and-client-consultation]]
@@ -1117,6 +1129,7 @@
 - [[permaculture-seed-saving-and-selection]]
 - [[permaculture-seed-saving-breeding]]
 - [[permaculture-seed-saving-networks]]
+- [[permaculture-self-regulation-energy-hierarchy-personal-responsibility]]
 - [[permaculture-settlement-design]]
 - [[permaculture-settlement-siting-fire]]
 - [[permaculture-sheep-raising]]
@@ -1138,6 +1151,7 @@
 - [[permaculture-species-selection-urban]]
 - [[permaculture-succession]]
 - [[permaculture-support-species-and-wetland-plants]]
+- [[permaculture-sustainable-culture-energy-descent]]
 - [[permaculture-system-establishment-and-design-principles]]
 - [[permaculture-tagasaste]]
 - [[permaculture-taro-guide]]

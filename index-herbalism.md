@@ -2,7 +2,7 @@
 
 > Medicinal plants, herbal preparations, functional mushrooms, and traditional plant medicine
 
-**59 pages**
+**60 pages**
 
 ## A
 
@@ -62,6 +62,7 @@
 - [[lentinan-clinical-research]]
 - [[lentinan-gastric-cancer-combination-therapy]]
 - [[lentinan-pre-clinical-antitumour-models]]
+- [[lions-mane-brick-top-cultivation-hericium-hypholoma]]
 - [[lions-mane-cultivation]]
 - [[lions-mane-guide]]
 - [[lions-mane-indoor-cultivation]]

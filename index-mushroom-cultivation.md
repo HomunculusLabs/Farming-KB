@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1710 pages**
+**1722 pages**
 
 ## #
 
@@ -150,6 +150,7 @@
 - [[casing-soils-microbial-fruiting-induction]]
 - [[casing-surface-roughness-technique-mushroom-fruiting]]
 - [[catastrophia-substrate-supplier]]
+- [[cauliflower-mushroom-cultivation-sparassis]]
 - [[ceremonial-shamanic-use-psychoactive-mushrooms]]
 - [[cervantes-cannabis-contamination-prevention]]
 - [[cervantes-hydrogen-peroxide-sterilization]]
@@ -341,6 +342,7 @@
 - [[enoki-cultivation]]
 - [[enoki-cultivation-guide]]
 - [[enoki-mushroom-cultivation]]
+- [[enoki-mushroom-flammulina-velutipes]]
 - [[enriched-sawdust-cultivation]]
 - [[enriched-sawdust-cultivation-and-spawn-production-methods]]
 - [[enterprise-development-mushroom-growers]]
@@ -440,6 +442,7 @@
 - [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]
 - [[gartz-wasson-mexican-mushroom-cult-rediscovery]]
 - [[gasteromycete-fruiting-bodies]]
+- [[giant-macrocybe-and-parasol-mushroom-cultivation]]
 - [[global-distribution-psilocybin-mushrooms]]
 - [[global-psychedelic-mushroom-species-diversity]]
 - [[global-wild-mushroom-trade]]
@@ -652,6 +655,7 @@
 - [[humidity-chamber-designs-jarrold-mushroom-cultivation]]
 - [[humidity-chamber-mushroom-fruiting]]
 - [[hydro-pellet-fish-tank-humidity-chamber-mushroom-fruiting]]
+- [[hypsizygus-elm-oyster-and-shimeji-cultivation]]
 
 ## I
 
@@ -1261,6 +1265,7 @@
 - [[oyster-mushroom-contamination-prevention]]
 - [[oyster-mushroom-cultivation]]
 - [[oyster-mushroom-cultivation-methods]]
+- [[oyster-mushroom-cultivation-pleurotus]]
 - [[oyster-mushroom-fruiting-chamber-environment]]
 - [[oyster-mushroom-fruiting-conditions]]
 - [[oyster-mushroom-fruiting-environment]]
@@ -1319,10 +1324,12 @@
 - [[panaeolus-antillarum-misidentification-copelandia-confusion]]
 - [[panaeolus-cyanescens-bali-omelette]]
 - [[panaeolus-cyanescens-cultivation-guide]]
+- [[panaeolus-cyanescens-tropicalis-cultivation]]
 - [[panaeolus-foenisecii-taxonomy-debate]]
 - [[panaeolus-mushroom-intoxication-history]]
 - [[panaeolus-subbalteatus-profile]]
 - [[panaeolus-tropicalis-cultivation-differences]]
+- [[parasol-mushroom-cultivation]]
 - [[paris-mushroom-caves-champignonieres]]
 - [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]
 - [[pasteurization-in-mushroom-cultivation]]
@@ -1590,11 +1597,15 @@
 - [[secret-societies-mushroom-suppression]]
 - [[selecting-trainees-mushroom-cultivation]]
 - [[sepp-holzer-mushroom-cultivation]]
+- [[shaggy-mane-coprinus-comatus]]
 - [[shakespeare-mushrooms]]
 - [[shiitake-cultivation-guide]]
 - [[shiitake-cultivation-log-method]]
+- [[shiitake-cultivation-methods]]
 - [[shiitake-cultivation-on-sawdust]]
 - [[shiitake-cultivation-parameters]]
+- [[shiitake-cultivation-techniques]]
+- [[shiitake-indoor-cultivation]]
 - [[shiitake-medicinal-compounds]]
 - [[shiitake-mushroom-cultivation]]
 - [[shiitake-strain-classification-and-substrate-formulas]]
@@ -1747,6 +1758,7 @@
 - [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]]
 - [[tropical-shiitake-cultivation-sawdust-substrate-low-cost]]
 - [[turkey-tail-mushroom-cancer-research]]
+- [[turkey-tail-paddy-straw-cultivation]]
 
 ## V
 

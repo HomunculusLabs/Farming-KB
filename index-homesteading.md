@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**257 pages**
+**259 pages**
 
 ## A
 
@@ -44,6 +44,8 @@
 - [[chicken-keeping]]
 - [[chicken-keeping-basics]]
 - [[chicken-keeping-guide]]
+- [[chicken-of-the-woods-cultivation]]
+- [[chicken-of-the-woods-laetiporus-cultivation]]
 - [[chickshaw-and-poultry-tractors]]
 - [[cob-building]]
 - [[cob-building-basics-detailed]]

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1342 pages**
+**1345 pages**
 
 ## A
 
@@ -310,6 +310,7 @@
 - [[comparison-greywater-vs-rainwater-harvesting]]
 - [[comparison-guava-vs-passion-fruit-cultivation]]
 - [[comparison-gypsum-vs-dolomite]]
+- [[comparison-gypsum-vs-kelp-meal]]
 - [[comparison-gypsum-vs-rock-phosphate]]
 - [[comparison-gypsum-vs-sulfur]]
 - [[comparison-hardneck-vs-softneck-garlic]]
@@ -511,6 +512,7 @@
 - [[comparison-raised-beds-vs-wicking-beds]]
 - [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]]
 - [[comparison-reciprocal-roof-vs-timber-frame]]
+- [[comparison-reed-bed-filtration-vs-bioswales]]
 - [[comparison-regenerative-vs-biodynamic]]
 - [[comparison-reishi-vs-chaga-medicinal-mushrooms]]
 - [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
@@ -849,6 +851,7 @@
 - [[query-how-do-i-grow-horseradish-and-prevent-it-from-spreading]]
 - [[query-how-do-i-grow-king-oyster-mushrooms]]
 - [[query-how-do-i-grow-lavender-and-what-are-its-uses]]
+- [[query-how-do-i-grow-melons-in-my-garden-or-backyard]]
 - [[query-how-do-i-grow-mulberry-trees]]
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
