@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1367 pages**
+**1370 pages**
 
 ## A
 
@@ -461,6 +461,7 @@
 - [[hugelkultur-bed-construction-detailed]]
 - [[hugelkultur-beds]]
 - [[hugelkultur-guide]]
+- [[human-diversity-and-multiculturalism-in-permaculture]]
 - [[humid-cool-climate-characteristics-mollison]]
 
 ## I
@@ -1242,6 +1243,7 @@
 - [[rainwater-harvesting-systems]]
 - [[rangeland-polyculture-management]]
 - [[reading-the-landscape]]
+- [[rebuilding-diversity-in-permaculture]]
 - [[resource-classification-and-management-in-permaculture]]
 - [[right-not-to-be-in-debt-permaculture]]
 
@@ -1363,6 +1365,7 @@
 
 ## V
 
+- [[value-of-marginal-systems-in-permaculture]]
 - [[vegetative-propagation-methods-mollison]]
 - [[village-development-in-permaculture]]
 - [[village-polyculture-species-richness-and-site-planning]]

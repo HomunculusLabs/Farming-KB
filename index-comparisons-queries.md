@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1348 pages**
+**1351 pages**
 
 ## A
 
@@ -288,6 +288,7 @@
 - [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 - [[comparison-fukuoka-vs-holzer]]
 - [[comparison-fukuoka-vs-jadam-farming]]
+- [[comparison-gabion-and-check-dams-vs-rain-garden-design]]
 - [[comparison-gabion-and-check-dams-vs-swale-design]]
 - [[comparison-gabions-vs-check-dams]]
 - [[comparison-garlic-vs-onion-growing]]
@@ -524,6 +525,7 @@
 - [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]]
 - [[comparison-rhizofiltration-vs-phytoextraction]]
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
+- [[comparison-rhodiola-vs-tulsi]]
 - [[comparison-rock-phosphate-vs-sulfur-plant-nutrition]]
 - [[comparison-rocket-stove-vs-masonry-heater]]
 - [[comparison-rocket-stove-vs-pellet-stove]]
@@ -845,6 +847,7 @@
 - [[query-how-do-i-grow-carrots-successfully-and-troubleshoot-common-problems]]
 - [[query-how-do-i-grow-cordyceps-mushrooms]]
 - [[query-how-do-i-grow-echinacea-and-what-are-its-medicinal-benefits]]
+- [[query-how-do-i-grow-eggplant-successfully]]
 - [[query-how-do-i-grow-elderberries-and-what-are-their-medicinal-uses]]
 - [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]]
