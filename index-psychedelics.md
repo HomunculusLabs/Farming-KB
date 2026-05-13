@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1804 pages**
+**1805 pages**
 
 ## #
 
@@ -1258,6 +1258,7 @@
 - [[permaculture-duck-orchard-integration]]
 - [[permaculture-functional-design-integration]]
 - [[permaculture-poultry-orchard-integration]]
+- [[permaculture-zone-three-wildlife-integration]]
 - [[persephone-abduction-and-narkissos]]
 - [[persephone-and-demeter-in-the-mysteries]]
 - [[peruvian-ayahuasca-government-festivals-and-presidential-ceremony]]

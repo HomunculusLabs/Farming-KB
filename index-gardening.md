@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1211 pages**
+**1213 pages**
 
 ## A
 
@@ -1292,3 +1292,5 @@
 ## Z
 
 - [[zone-1-intensive-garden]]
+- [[zone-one-intensive-garden-design]]
+- [[zone-two-orchard-and-main-crops]]
