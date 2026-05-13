@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**1083 pages**
+**1085 pages**
 
 ## A
 
@@ -1014,6 +1014,7 @@
 - [[natural-farming-guide-zone-design-system]]
 - [[natural-farming-imo-collection-and-cultivation]]
 - [[natural-farming-inputs-cho]]
+- [[natural-farming-inputs-imo-fpj-ffj-and-ohn-preparation]]
 - [[natural-farming-knf-overview]]
 - [[natural-farming-lab-preparation]]
 - [[natural-farming-no-till-method]]
@@ -1038,6 +1039,7 @@
 - [[natural-farming-vs-organic-farming]]
 - [[natural-farming-vs-organic-vs-conventional]]
 - [[natural-farming-vs-scientific-agriculture]]
+- [[natural-farming-water-soluble-minerals-seawater-and-brv]]
 - [[natural-ground-cover-and-straw-mulching]]
 - [[natural-way-of-farming-guide]]
 

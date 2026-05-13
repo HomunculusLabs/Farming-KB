@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**255 pages**
+**257 pages**
 
 ## A
 
@@ -94,6 +94,7 @@
 - [[food-dehydration-guide]]
 - [[food-preservation-canning]]
 - [[free-range-pig-management]]
+- [[free-range-poultry-forage-systems-design]]
 - [[free-range-poultry-management]]
 
 ## G
@@ -222,6 +223,7 @@
 - [[pig-range-systems]]
 - [[pond-design-and-construction]]
 - [[pond-edges-interfaces-and-energy-efficiency]]
+- [[poultry-forage-species-compendium]]
 - [[poultry-housing-guide]]
 - [[poultry-range-management]]
 - [[preserving-wood-timber-framing]]

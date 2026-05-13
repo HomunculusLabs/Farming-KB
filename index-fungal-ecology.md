@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2624 pages**
+**2631 pages**
 
 ## #
 
@@ -259,6 +259,7 @@
 - [[biogeography-austral-hemisphere-fungi]]
 - [[biological-nitrogen-fixation-agriculture]]
 - [[biological-slime-mold-computing]]
+- [[biology-of-fungi-and-mushroom-structure]]
 - [[bioluminescent-fungi]]
 - [[bioremediation-fenton-chemistry-brown-rot-fungi]]
 - [[bioremediation-fungal-biomass-biosorbent-material]]
@@ -457,6 +458,7 @@
 - [[chitin-chitosan-fungal-cell-wall]]
 - [[chlorobenzene-chlorophenoxy-fungal-degradation]]
 - [[cho-nutritive-cycle-theory]]
+- [[chos-global-natural-farming-philosophy-and-nutritive-cycle-theory]]
 - [[chos-natural-farming-nutritive-cycle-theory]]
 - [[chytrid-fungi-guide]]
 - [[chytrid-phylogeny-zoospore-diversity-basal-fungi]]
@@ -494,6 +496,7 @@
 - [[cordyceps-militaris-cultivation]]
 - [[cordyceps-neurotropic-fungi-mexican-indigenous-ceremonies]]
 - [[cordyceps-research-cancer]]
+- [[cordyceps-schizophyllum-and-agaricus-blazei-medicinal-profiles]]
 - [[cortes-island-mycoforestry-project]]
 - [[cost-effectiveness-fungal-remediation]]
 - [[cotter-fungi-in-the-classroom-education]]
@@ -907,6 +910,7 @@
 - [[fungal-ecology-extreme-environments]]
 - [[fungal-ecology-forest-ecosystems]]
 - [[fungal-ecology-forest-floor]]
+- [[fungal-ecology-saprophytes-parasites-and-mycorrhizae]]
 - [[fungal-ecosystem-indicator-species]]
 - [[fungal-ecosystem-processes-overview]]
 - [[fungal-ecosystem-roles]]
@@ -1759,6 +1763,7 @@
 - [[mycelial-nutrient-transport-network-dynamics-gadd]]
 - [[mycelium-as-natures-internet]]
 - [[mycelium-as-network-organism]]
+- [[mycelium-based-materials-and-products]]
 - [[mycelium-colonization]]
 - [[mycelium-composites-materials]]
 - [[mycelium-digestive-membrane-information-network]]
@@ -2026,6 +2031,7 @@
 - [[orchard-fungal-ecology]]
 - [[orchid-mycorrhiza]]
 - [[orchid-mycorrhiza-protocorm-development]]
+- [[organic-mushroom-farming-and-mycoremediation-overview]]
 - [[osmophilic-osmotolerant-fungi-low-water-activity]]
 - [[osmotolerant-osmophilic-fungi]]
 - [[oyster-mushroom-green-mold-disease-trichoderma-hypocrea-control]]
@@ -2106,6 +2112,7 @@
 - [[plants-without-mycorrhizal-associations]]
 - [[pleosporales-loculoascomycete-diversity-ecology]]
 - [[pleurotoid-mushroom-morphology-gilled-fungi]]
+- [[pleurotus-trametes-and-tremella-medicinal-species-profiles]]
 - [[pluteus-salicinus-profile]]
 - [[polyporales-order]]
 - [[polypore-fungi-eastern-north-america]]

@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1213 pages**
+**1216 pages**
 
 ## A
 
@@ -29,6 +29,7 @@
 - [[aquaponics-system-design]]
 - [[aquatic-margin-plants]]
 - [[aquatic-marginal-plants]]
+- [[aquatic-plant-systems]]
 - [[ashwagandha-growing-guide]]
 - [[avenue-cropping-and-barrier-plants]]
 
@@ -896,6 +897,7 @@
 - [[plant-sensory-perception]]
 - [[plant-sensory-systems]]
 - [[plant-signaling-pathways]]
+- [[plant-stacking-and-plant-animal-interactions]]
 - [[plant-thigmomorphogenesis-and-mechanosensing]]
 - [[plant-thigmomorphogenesis-mechanosensing]]
 - [[plant-thigmomorphogenesis-what-a-plant-feels]]
@@ -1279,6 +1281,7 @@
 - [[winter-squash-guide]]
 - [[winter-succession-planting]]
 - [[winter-succession-planting-schedule]]
+- [[woodlots-hedgerows-and-plant-barriers]]
 
 ## X
 

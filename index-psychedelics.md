@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1805 pages**
+**1807 pages**
 
 ## #
 
@@ -210,6 +210,7 @@
 - [[complexity-connections-and-permitted-functions]]
 - [[computational-fluid-dynamics]]
 - [[computational-universe-and-natural-intelligence]]
+- [[concise-large-scale-synthesis-of-psilocin-and-psilocybin]]
 - [[consciousness-and-psychedelics]]
 - [[consciousness-as-fundamental-property]]
 - [[consumer-versus-conserver-society]]
@@ -1559,6 +1560,7 @@
 - [[random-assembly-creative-design]]
 - [[rarian-plain-sacred-grain-eleusis]]
 - [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
+- [[reactive-house-design-and-building-integration]]
 - [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]]
 - [[reversed-phase-hplc-tlc-confirmation-psilocybin-psilocin-quantification-bigwood-beug]]
 - [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]]

@@ -2,7 +2,7 @@
 
 > Medicinal plants, herbal preparations, functional mushrooms, and traditional plant medicine
 
-**58 pages**
+**59 pages**
 
 ## A
 
@@ -83,6 +83,7 @@
 
 ## P
 
+- [[psk-and-psp-clinical-trials-and-cancer-treatment-outcomes]]
 - [[psk-breast-lung-cancer-clinical-trials]]
 - [[psk-gastric-cancer-clinical-trials]]
 - [[psk-psp-polysaccharide-peptides]]
