@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1347 pages**
+**1348 pages**
 
 ## A
 
@@ -524,6 +524,7 @@
 - [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]]
 - [[comparison-rhizofiltration-vs-phytoextraction]]
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
+- [[comparison-rock-phosphate-vs-sulfur-plant-nutrition]]
 - [[comparison-rocket-stove-vs-masonry-heater]]
 - [[comparison-rocket-stove-vs-pellet-stove]]
 - [[comparison-rocket-stove-vs-rocket-mass-heater]]

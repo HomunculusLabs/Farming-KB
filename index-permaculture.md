@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1364 pages**
+**1367 pages**
 
 ## A
 
@@ -163,6 +163,7 @@
 - [[coppice-management-permaculture]]
 - [[creatively-use-and-respond-to-change]]
 - [[csa-farm-share-model]]
+- [[cultural-diversity-self-reliance-permaculture]]
 - [[cycles-in-permaculture]]
 
 ## D
@@ -1278,6 +1279,8 @@
 - [[shelterbelt-species-and-design]]
 - [[slope-analysis-in-permaculture]]
 - [[slope-terracing-earthworks]]
+- [[slow-food-information-economy-permaculture]]
+- [[slow-growth-strategies-permaculture]]
 - [[small-scale-intensive-food-systems-mollison]]
 - [[small-scale-pond-aquaculture-design]]
 - [[social-hierarchy-patterns-and-arts-in-permaculture]]

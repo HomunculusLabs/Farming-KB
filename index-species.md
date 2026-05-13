@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**5321 pages**
+**5322 pages**
 
 ## #
 
@@ -3471,6 +3471,7 @@
 - [[net-entity-tihkal]]
 - [[neurospora-crassa]]
 - [[new-alchemy-institute]]
+- [[new-zealand-flax]]
 - [[nicholas-money]]
 - [[nicolas-flamel]]
 - [[nicolas-flamel-pseudonym]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1807 pages**
+**1808 pages**
 
 ## #
 
@@ -729,6 +729,7 @@
 - [[information-paradigm-of-consciousness]]
 - [[informational-monism]]
 - [[ingham-aact-hydroponic-integration-microbe-restoration]]
+- [[integration-and-segregation-in-permaculture]]
 - [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]]
 - [[iochroma-fuchsioides-borrachera-ethnobotany]]
 
