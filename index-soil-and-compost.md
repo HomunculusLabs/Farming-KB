@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**687 pages**
+**693 pages**
 
 ## A
 
@@ -132,6 +132,8 @@
 - [[coleman-winter-soil-health]]
 - [[comfrey-tea-liquid-fertilizer]]
 - [[complete-organic-fertilizer-cof]]
+- [[complete-organic-fertilizer-cof-formula]]
+- [[complete-organic-fertilizer-cof-recipe-and-application]]
 - [[complete-organic-fertilizer-cof-recipe-solomon]]
 - [[complete-organic-fertilizer-cof-solomon]]
 - [[complete-organic-fertilizer-formulation]]
@@ -436,6 +438,8 @@
 - [[magnesium-aluminium-silicon-phosphorus-in-soils]]
 - [[maintaining-organic-matter-in-vegetable-gardens]]
 - [[manure-antibiotics-persistent-chemical-breakdown]]
+- [[manure-quality-and-fertilizer-values]]
+- [[manure-quality-and-soil-amendment-variability]]
 - [[manure-quality-and-soil-fertility]]
 - [[manure-quality-variability-and-fertilizer-value]]
 - [[mechanical-soil-conditioning]]
@@ -494,6 +498,7 @@
 - [[organic-garden-soil-preparation]]
 - [[organic-mulching-techniques]]
 - [[organic-soil-management]]
+- [[organic-vs-chemical-fertilizers-and-manure-quality]]
 
 ## P
 
@@ -572,6 +577,7 @@
 - [[soil-erosion-control]]
 - [[soil-erosion-processes-and-control]]
 - [[soil-erosion-water-crisis-salination]]
+- [[soil-fertility-and-vegetable-nutritional-quality]]
 - [[soil-fertility-building-gradient-solomon]]
 - [[soil-fertility-gradient-approach]]
 - [[soil-fertility-gradient-solomon]]

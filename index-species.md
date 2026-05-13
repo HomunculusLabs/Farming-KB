@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**5607 pages**
+**5615 pages**
 
 ## #
 
@@ -366,6 +366,7 @@
 - [[allium-tricoccum]]
 - [[allium-tuberosum]]
 - [[allium-ursinum]]
+- [[allotment-gardening]]
 - [[allylescaline]]
 - [[alnus-glutinosa]]
 - [[alnus-rubra]]
@@ -795,6 +796,7 @@
 - [[bom-entity-pihkal]]
 - [[boma-fence]]
 - [[bondarzewia-berkeleyi]]
+- [[bonemeal-fertilizer]]
 - [[boomerang-planting]]
 - [[borago-officinalis]]
 - [[borassus-aethiopum]]
@@ -1122,6 +1124,7 @@
 - [[caryota-gigas]]
 - [[caryota-mitis]]
 - [[caryota-urens]]
+- [[cascadia-bioregion]]
 - [[casing-mushroom-cultivation]]
 - [[casing-soil]]
 - [[casing-soil-microbiome]]
@@ -1435,6 +1438,7 @@
 - [[companion-planting-guild]]
 - [[companion-planting-guilds]]
 - [[compass-pathways]]
+- [[complete-organic-fertilizer]]
 - [[compost]]
 - [[compost-process-materials-mollison]]
 - [[comptonia-peregrina]]
@@ -1473,6 +1477,7 @@
 - [[copper-impact-soil-biology]]
 - [[coppice-forestry-permaculture]]
 - [[coppice-fuel-forest]]
+- [[coprameal]]
 - [[coprinellus-disseminatus]]
 - [[coprinellus-micaceus]]
 - [[coprinopsis-atramentaria]]
@@ -1573,6 +1578,7 @@
 - [[cryptotaenia-japonica]]
 - [[cs-holling]]
 - [[csiro]]
+- [[cuban-urban-agriculture]]
 - [[cucumis-melo]]
 - [[cucumis-sativus]]
 - [[cucurbita-maxima]]
@@ -2145,7 +2151,6 @@
 
 - [[f-2-entity-pihkal]]
 - [[f-22-entity-pihkal]]
-- [[f-c-ghouled]]
 - [[f-h-king]]
 - [[fabiana-imbricata]]
 - [[facial-eczema]]
@@ -2942,6 +2947,7 @@
 - [[kava]]
 - [[kavain]]
 - [[kavalactones]]
+- [[kelpmeal]]
 - [[ken-watt-ecology]]
 - [[kenneth-d-nelson-mollison]]
 - [[kenneth-watt]]
@@ -4472,7 +4478,6 @@
 
 ## R
 
-- [[r-g-wasson]]
 - [[r-gordon-wasson]]
 - [[rainbow-chips]]
 - [[rainbow-gtz]]
@@ -4792,6 +4797,7 @@
 - [[seed-pelleting]]
 - [[seed-shaker-tray]]
 - [[seed-stratification]]
+- [[seedmeal]]
 - [[selaginella-moellendorffii]]
 - [[selegiline]]
 - [[selman-waksman]]
@@ -5134,6 +5140,7 @@
 - [[tanacetum-vulgare]]
 - [[tangerine-dream]]
 - [[tangie-cannabis]]
+- [[tankage-fertilizer]]
 - [[taphrina-deformans]]
 - [[taraxacum-kok-saghyz]]
 - [[taraxacum-officinale]]
@@ -5600,6 +5607,7 @@
 - [[wiggle-wire]]
 - [[wildfire]]
 - [[wilhelm-reich]]
+- [[william-albrecht]]
 - [[william-falconer]]
 - [[william-ozier-williams]]
 - [[william-robinson]]

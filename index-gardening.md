@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1275 pages**
+**1282 pages**
 
 ## A
 
@@ -448,10 +448,14 @@
 - [[garden-myths-weeds-and-pest-management]]
 - [[garden-nutrition-and-diet]]
 - [[garden-plant-groupings]]
+- [[garden-size-and-food-self-sufficiency]]
+- [[garden-size-planning-and-food-self-sufficiency]]
+- [[garden-sizing-and-land-requirements]]
 - [[garden-tool-innovation-modification]]
 - [[garden-tool-selection-sharpening-solomon]]
 - [[garden-tools-selection]]
 - [[gardening-in-hard-times]]
+- [[gardening-when-it-counts]]
 - [[gardening-when-it-counts-introduction]]
 - [[garlic-growing-guide]]
 - [[geodesic-greenhouse-design]]
@@ -648,6 +652,7 @@
 - [[intensive-gardening-critique-solomon]]
 - [[intensive-planting-spacing]]
 - [[intensive-vegetable-spacing-systems]]
+- [[intensive-vs-row-gardening-methods]]
 - [[intercropping-systems]]
 - [[invasive-species-management]]
 - [[irrigation-systems]]
@@ -1253,11 +1258,13 @@
 - [[variety-trials-seed-company-quality-solomon]]
 - [[vegetable-crop-demand-classification-fertility-matching-solomon]]
 - [[vegetable-demand-classification]]
+- [[vegetable-domestication-and-gardening-basics]]
 - [[vegetable-garden-fertilization]]
 - [[vegetable-garden-guide]]
 - [[vegetable-garden-harvest]]
 - [[vegetable-garden-spacing-systems-solomon]]
 - [[vegetable-garden-watering-systems-spacing]]
+- [[vegetable-gardening-fundamentals]]
 - [[vegetable-gardening-in-hard-times]]
 - [[vegetable-growing-guide]]
 - [[vegetable-growing-guide-solomon]]

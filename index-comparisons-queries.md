@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1366 pages**
+**1367 pages**
 
 ## A
 
@@ -430,6 +430,7 @@
 - [[comparison-mulch-vs-cover-crops]]
 - [[comparison-mulch-vs-living-mulch]]
 - [[comparison-mulching-guide-vs-green-manure-guide]]
+- [[comparison-mullein-vs-ashwagandha]]
 - [[comparison-mullein-vs-calendula]]
 - [[comparison-mullein-vs-chamomile]]
 - [[comparison-mullein-vs-comfrey]]
