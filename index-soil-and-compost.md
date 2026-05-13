@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**662 pages**
+**680 pages**
 
 ## A
 
@@ -19,19 +19,23 @@
 - [[aact-brewing-ingredients-molasses-humic-kelp-fish-ingham]]
 - [[aact-brewing-methodology]]
 - [[aact-brewing-science]]
+- [[aact-brewing-techniques-and-oxygen-management]]
 - [[aact-brix-soil-foodweb-health-indicator-ingham]]
 - [[aact-cn-ratios-brewing-ingredients-microbial-balance-ingham]]
 - [[aact-compost-extract-leachate-tea-distinctions-ingham]]
 - [[aact-compost-feedstock-paper-wood-chips-worm-thermal-ingham]]
 - [[aact-compost-organism-levels]]
 - [[aact-compost-quality-standards-ingham]]
+- [[aact-crop-specific-applications]]
 - [[aact-definitions-and-types-ingham]]
+- [[aact-disease-suppression-mechanisms]]
 - [[aact-disease-suppression-mechanisms-ingham]]
 - [[aact-disease-suppression-recipes]]
 - [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]
 - [[aact-fermentative-and-anaerobic-tea-types-ingham]]
 - [[aact-fish-hydrolysate-marine-brewing-ingredients-ingham]]
 - [[aact-foam-management-troubleshooting-ingham]]
+- [[aact-foliar-application-and-sticker-spreaders]]
 - [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]
 - [[aact-ingredients-and-tea-recipes]]
 - [[aact-insect-pest-suppression-grubs-caterpillars-mites-ingham]]
@@ -42,6 +46,7 @@
 - [[aact-npk-game-critique-nutrient-cycling-organic-conversion-ingham]]
 - [[aact-nutrient-available-forms-microbial-chelation-plant-uptake-ingham]]
 - [[aact-pathogen-safety-ingham]]
+- [[aact-ph-and-anaerobic-conditions]]
 - [[aact-ph-water-quality-ingham]]
 - [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]]
 - [[aact-soil-food-web-twelve-step-balancing-protocol]]
@@ -51,14 +56,18 @@
 - [[aact-vermicompost-vs-thermal-compost-ingham]]
 - [[aact-vineyard-disease-suppression-protocols-ingham]]
 - [[aact-water-quality-chlorine-removal-brewing-standards-ingham]]
+- [[aact-weed-control-and-soil-testing]]
 - [[acid-and-alkaline-soil-management]]
 - [[actinomycetes-soil-biology]]
 - [[actively-aerated-compost-tea-aact-brewing]]
 - [[actively-aerated-compost-tea-introduction]]
 - [[actively-aerated-compost-tea-overview]]
+- [[aerobic-vs-anaerobic-compost-tea-benefits]]
 - [[aerobic-vs-fermentative-compost-tea]]
 - [[alkaline-soil-plants]]
+- [[anaerobic-conditions-oxygen-thresholds-compost-tea]]
 - [[animal-manure-guide]]
+- [[antibiotic-residues-and-compost-contaminant-management]]
 - [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - [[arid-soil-fertility-and-mineral-management]]
 - [[azomite-mineral-amendment]]
@@ -83,6 +92,7 @@
 - [[black-soldier-fly-composting]]
 - [[bokashi-compost-method]]
 - [[bokashi-composting]]
+- [[brix-testing-foliar-nutrient-uptake]]
 - [[building-soil]]
 - [[building-soil-fertility-long-term]]
 
@@ -131,12 +141,16 @@
 - [[compost-quality-standards]]
 - [[compost-tea-aact]]
 - [[compost-tea-application-methods]]
+- [[compost-tea-application-methods-and-rates]]
 - [[compost-tea-application-rates]]
 - [[compost-tea-brewing]]
 - [[compost-tea-brewing-equipment-ingham]]
 - [[compost-tea-brewing-methods]]
 - [[compost-tea-brewing-methods-aact]]
+- [[compost-tea-definitions-and-classification]]
 - [[compost-tea-disease-suppression]]
+- [[compost-tea-disease-suppression-mechanisms]]
+- [[compost-tea-disease-suppression-pest-management]]
 - [[compost-tea-for-specific-crops]]
 - [[compost-tea-guide]]
 - [[compost-tea-ingredients-and-recipes]]
@@ -202,6 +216,7 @@
 - [[endorhiza-bacterial-communities]]
 - [[essential-plant-elements-hydrogen-boron-carbon-nitrogen]]
 - [[essential-soil-macronutrients-hydrogen-boron-carbon-nitrogen]]
+- [[establishing-healthy-soil-foodweb]]
 
 ## F
 
@@ -212,7 +227,9 @@
 - [[flocculation-and-natural-subsoil-loosening-solomon]]
 - [[flushing-nutrients]]
 - [[foliar-nutrient-diagnosis-deficiency-identification]]
+- [[foliar-nutrient-uptake-plant-control]]
 - [[foliar-pest-deterrence-aact-mechanisms]]
+- [[foliar-tea-application-and-plant-nutrient-regulation]]
 - [[forest-water-interaction-and-soil-storage]]
 
 ## G
@@ -411,6 +428,7 @@
 
 - [[magnesium-aluminium-silicon-phosphorus-in-soils]]
 - [[maintaining-organic-matter-in-vegetable-gardens]]
+- [[manure-antibiotics-persistent-chemical-breakdown]]
 - [[manure-quality-and-soil-fertility]]
 - [[manure-quality-variability-and-fertilizer-value]]
 - [[mechanical-soil-conditioning]]
@@ -424,7 +442,6 @@
 - [[mineral-nutrients-magnesium-aluminium-silicon-phosphorus]]
 - [[mineral-sources-for-soils]]
 - [[molasses-and-sugars-in-compost-tea-brewing]]
-- [[molasses-sugars-compost-tea-brewing]]
 - [[mulch-gardening-critique]]
 - [[mulch-producing-plants]]
 - [[mulch-systems-and-earth-shaping-tropics]]
@@ -481,6 +498,7 @@
 - [[plant-available-nitrogen-ammonium-nitrate]]
 - [[plant-macronutrient-functions]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
+- [[plant-microbe-nutrient-exchange]]
 - [[plant-micronutrient-functions]]
 - [[plant-micronutrients-and-their-essential-functions]]
 - [[plant-nutrient-deficiency-diagnosis]]

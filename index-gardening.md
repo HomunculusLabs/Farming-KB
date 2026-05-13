@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1217 pages**
+**1219 pages**
 
 ## A
 
@@ -14,6 +14,7 @@
 - [[alliums-growing-guide]]
 - [[alpine-plant-cultivation-guide]]
 - [[amphibian-habitat-creation]]
+- [[anaerobic-conditions-oxygen-thresholds-tea-brewing]]
 - [[anaerobic-digestion-biogas-production]]
 - [[anaerobic-sewage-digesters]]
 - [[anaerobic-sewage-digestion-and-biogas-production]]
@@ -106,6 +107,7 @@
 - [[chamovitz-ultraviolet-and-infrared-plant-light-perception]]
 - [[chamovitz-what-a-plant-knows-overview]]
 - [[chelation-and-metal-binding-in-plants]]
+- [[chelation-and-mineral-uptake-in-plants]]
 - [[chrysanthemum-greenhouse-photoperiod-manipulation]]
 - [[chrysanthemum-greenhouse-photoperiod-manipulation-detailed]]
 - [[clay-pellet-seed-ball-method-for-desert-revegetation]]

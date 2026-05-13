@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2667 pages**
+**2673 pages**
 
 ## #
 
@@ -623,7 +623,6 @@
 - [[ectomycorrhizal-associations]]
 - [[ectomycorrhizal-ecology]]
 - [[ectomycorrhizal-fungal-ecology]]
-- [[ectomycorrhizal-fungi]]
 - [[ectomycorrhizal-host-tree-partnerships]]
 - [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]]
 - [[ectomycorrhizal-morphological-structures]]
@@ -824,6 +823,7 @@
 - [[fungal-biogeography]]
 - [[fungal-biogeography-distribution-patterns]]
 - [[fungal-biology-fundamentals]]
+- [[fungal-biology-in-soil-health]]
 - [[fungal-biomass-estimation-methods]]
 - [[fungal-biomechanical-biochemical-weathering-mechanisms-gadd]]
 - [[fungal-biomonitoring]]
@@ -1335,6 +1335,7 @@
 - [[geotropism-in-basidiomycetes]]
 - [[global-distribution-of-neurotropic-fungi]]
 - [[glomalin-and-soil-carbon]]
+- [[glomalin-and-soil-glues]]
 - [[glomalin-mycorrhizal-soil-aggregate-stabilizer-ingham]]
 - [[glomalin-mycorrhizal-soil-health]]
 - [[glomeromycota-arbuscular-mycorrhizae]]
@@ -1451,6 +1452,7 @@
 - [[human-fungal-pathogens]]
 - [[human-uses-fungi-history]]
 - [[humus-formation-and-soil-organic-matter]]
+- [[humus-formation-bacteria-fungi-cycle]]
 - [[humus-humic-acid-fulvic-acid-distinctions]]
 - [[humus-sources-and-mulch-systems-tropics]]
 - [[hydnum-tooth-fungi-and-clavaria-coral-fungi]]
@@ -1931,6 +1933,7 @@
 - [[mycorrhizal-carbon-phosphorus-exchange]]
 - [[mycorrhizal-carbon-sequestration]]
 - [[mycorrhizal-carbon-sequestration-mechanisms]]
+- [[mycorrhizal-colonization-thresholds]]
 - [[mycorrhizal-crop-rotation-guide]]
 - [[mycorrhizal-crop-studies]]
 - [[mycorrhizal-diversity-assessment]]
@@ -1940,6 +1943,10 @@
 - [[mycorrhizal-fertilizer-reduction]]
 - [[mycorrhizal-fungal-diversity]]
 - [[mycorrhizal-fungi-and-carbon-cycling]]
+- [[mycorrhizal-fungi-and-soil-food-web]]
+- [[mycorrhizal-fungi-and-whole-soil-food-web]]
+- [[mycorrhizal-fungi-application-and-colonization]]
+- [[mycorrhizal-fungi-application-and-food-web-integration]]
 - [[mycorrhizal-fungi-biogeochemistry]]
 - [[mycorrhizal-fungi-biome-surveys]]
 - [[mycorrhizal-fungi-bioremediation]]
@@ -2252,7 +2259,6 @@
 - [[santa-claus-and-fly-agaric-shaman-myth]]
 - [[saprobic-soil-fungi]]
 - [[saprobic-soil-fungi-ecology-survey]]
-- [[saprophytic-fungi]]
 - [[saprotrophic-decomposition]]
 - [[saprotrophic-fungal-ecology]]
 - [[saprotrophic-fungi]]

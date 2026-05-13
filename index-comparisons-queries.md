@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1352 pages**
+**1357 pages**
 
 ## A
 
@@ -527,6 +527,7 @@
 - [[comparison-rhizofiltration-vs-phytoextraction]]
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
 - [[comparison-rhodiola-vs-tulsi]]
+- [[comparison-rhodiola-vs-valerian]]
 - [[comparison-rock-phosphate-vs-sulfur-plant-nutrition]]
 - [[comparison-rocket-stove-vs-masonry-heater]]
 - [[comparison-rocket-stove-vs-pellet-stove]]
@@ -636,6 +637,7 @@
 - [[comparison-tulsi-vs-lemon-balm]]
 - [[comparison-turkey-tail-vs-maitake]]
 - [[comparison-turkey-tail-vs-oyster-mushroom]]
+- [[comparison-turmeric-vs-ashwagandha]]
 - [[comparison-turmeric-vs-ginger]]
 - [[comparison-two-row-vs-six-row-barley]]
 - [[comparison-valerian-vs-ashwagandha]]
@@ -839,6 +841,7 @@
 - [[query-how-do-i-grow-and-use-edible-flowers-in-my-garden]]
 - [[query-how-do-i-grow-and-use-ginger-and-turmeric]]
 - [[query-how-do-i-grow-bananas-in-a-subtropical-climate]]
+- [[query-how-do-i-grow-beans-in-my-garden]]
 - [[query-how-do-i-grow-berries-and-soft-fruit-in-my-garden]]
 - [[query-how-do-i-grow-berries-in-my-backyard]]
 - [[query-how-do-i-grow-brassicas-successfully]]
@@ -846,6 +849,7 @@
 - [[query-how-do-i-grow-cannabis-in-a-greenhouse]]
 - [[query-how-do-i-grow-carnivorous-plants-outdoors]]
 - [[query-how-do-i-grow-carrots-successfully-and-troubleshoot-common-problems]]
+- [[query-how-do-i-grow-cool-season-brassicas-cabbage-broccoli-cauliflower-kale]]
 - [[query-how-do-i-grow-cordyceps-mushrooms]]
 - [[query-how-do-i-grow-echinacea-and-what-are-its-medicinal-benefits]]
 - [[query-how-do-i-grow-eggplant-successfully]]
@@ -867,6 +871,7 @@
 - [[query-how-do-i-grow-perennial-vegetables-in-my-garden]]
 - [[query-how-do-i-grow-persimmons-and-which-variety-should-i-choose]]
 - [[query-how-do-i-grow-salad-greens-and-lettuce-year-round]]
+- [[query-how-do-i-grow-spinach-successfully]]
 - [[query-how-do-i-grow-squash-pumpkins-and-cucumbers-successfully]]
 - [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]]
 - [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]
