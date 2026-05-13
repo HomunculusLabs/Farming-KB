@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1339 pages**
+**1340 pages**
 
 ## A
 
@@ -176,6 +176,7 @@
 - [[comparison-chop-and-drop-vs-cover-crops]]
 - [[comparison-chop-and-drop-vs-sheet-mulching]]
 - [[comparison-cicadas-vs-locusts]]
+- [[comparison-cider-making-vs-wine-making]]
 - [[comparison-cider-vs-mead-making]]
 - [[comparison-citrus-vs-mango-cultivation]]
 - [[comparison-cmh-vs-hps-grow-lights]]

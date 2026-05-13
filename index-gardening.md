@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1208 pages**
+**1211 pages**
 
 ## A
 
@@ -319,7 +319,9 @@
 - [[desert-garden-design]]
 - [[desert-garden-earthshaping-and-bed-systems]]
 - [[desert-gardening]]
+- [[desert-gardening-techniques]]
 - [[desert-home-gardens]]
+- [[desert-water-conservation-garden-design]]
 - [[desert-water-storage-evaporation]]
 - [[desert-water-storage-evaporation-control]]
 - [[difficult-site-planting]]
@@ -575,6 +577,7 @@
 - [[hamilton-wildflower-meadow]]
 - [[hamilton-wildlife-gardening-biodiversity]]
 - [[hand-watering-garden]]
+- [[hawaiian-ohana-watershed-system]]
 - [[hawthorn-berry-guide]]
 - [[hay-and-forage-management]]
 - [[hedgerow-planting]]
