@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**686 pages**
+**687 pages**
 
 ## A
 
@@ -259,6 +259,7 @@
 - [[green-manure-crops-detailed]]
 - [[green-manure-guide]]
 - [[green-manures-organic-gardening]]
+- [[greenhouse-soil-preparation-fertility]]
 - [[greg-green-npk-and-nutrient-deficiency]]
 - [[growing-vegetables-with-less-fertilizer]]
 

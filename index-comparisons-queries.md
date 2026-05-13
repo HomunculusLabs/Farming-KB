@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1358 pages**
+**1360 pages**
 
 ## A
 
@@ -545,6 +545,7 @@
 - [[comparison-scented-geraniums-vs-edible-flowers]]
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
 - [[comparison-schisandra-vs-rhodiola]]
+- [[comparison-schisandra-vs-tulsi]]
 - [[comparison-sea-buckthorn-vs-aronia]]
 - [[comparison-sea-of-green-vs-screen-of-green]]
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
@@ -855,6 +856,7 @@
 - [[query-how-do-i-grow-echinacea-and-what-are-its-medicinal-benefits]]
 - [[query-how-do-i-grow-eggplant-successfully]]
 - [[query-how-do-i-grow-elderberries-and-what-are-their-medicinal-uses]]
+- [[query-how-do-i-grow-fennel-in-my-garden]]
 - [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]]
 - [[query-how-do-i-grow-goji-berries-at-home]]

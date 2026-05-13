@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1808 pages**
+**1809 pages**
 
 ## #
 
@@ -1263,6 +1263,7 @@
 - [[permaculture-zone-three-wildlife-integration]]
 - [[persephone-abduction-and-narkissos]]
 - [[persephone-and-demeter-in-the-mysteries]]
+- [[persephone-period-and-day-length]]
 - [[peruvian-ayahuasca-government-festivals-and-presidential-ceremony]]
 - [[peruvian-drug-war-and-ayahuasca-acceptance]]
 - [[peruvian-drug-war-ayahuasca-legal-acceptance-contrast]]

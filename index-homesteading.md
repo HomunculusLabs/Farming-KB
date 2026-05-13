@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**258 pages**
+**260 pages**
 
 ## A
 
@@ -180,6 +180,8 @@
 - [[making-ghee-and-clarified-fats]]
 - [[mangalitza-pig-breeds]]
 - [[maple-syrup-production]]
+- [[marketing-economics-small-scale-farms]]
+- [[marketing-economics-small-scale-winter-produce]]
 - [[mason-jar-preserving-guide]]
 - [[masonry-heater-design]]
 - [[micro-hydro-power]]
