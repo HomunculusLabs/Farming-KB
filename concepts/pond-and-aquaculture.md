@@ -114,12 +114,8 @@ Ducks and ponds are synergistic — see [[duck-keeping]] for duck-specific care.
 
 ## See Also
 
-- [[pond-climatic-orientation]]
-- [[pond-depth-zones-water-stratification]]
-- [[pond-edge-effect-design]]
-- [[pond-edge-effects-landscape-mosaics]]
-- [[pond-furniture-and-structures]]
-- [[pond-orientation-and-site-selection]]
-- [[pond-series-flow-evolutionary-systems]]
-- [[pond-shape-edge-effects-aquaculture]]
-- [[pond-sizing-from-garden-to-commercial-scale]]
+- [[pond-edges-interfaces-energy]]
+- [[pond-fertilisation-and-shelter]]
+- [[pond-fertilizers-waste-management]]
+- [[pond-maintenance-fertilisers-and-shelter]]
+- [[pond-polyculture-design]]

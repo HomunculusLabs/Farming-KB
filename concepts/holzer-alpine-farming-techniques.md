@@ -147,3 +147,9 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
+
+- [[holzer-brandroggen-fire-rye]]
+- [[holzer-fish-farming]]
+- [[holzer-past-mistakes-modern-agriculture]]
+- [[holzer-saving-ancient-trees]]
+- [[holzer-self-sufficiency-garden-plan]]

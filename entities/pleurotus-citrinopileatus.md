@@ -127,8 +127,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
-- [[pleurotus-djamor]]
-- [[pleurotus-eryngii]]
-- [[pleurotus-species]]
-- [[tricholoma-pleurotus-and-white-spored-edible-genera]]
+- [[pleurotus-natural-log-cultivation-methods]]
+- [[pleurotus-nebrodensis]]
+- [[pleurotus-trametes-and-tremella-medicinal-species-profiles]]

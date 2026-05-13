@@ -84,7 +84,7 @@ Small-holders on very steep hillsides can work with slopes using a cascading sys
 
 ### Potential and Stability
 
-Terraced lands, given a reserve of local [[cover-crops-and-green-manures]] or composts and adequate water, are potentially very stable production systems. Terraces have [[community-supported-agriculture-csa]] for thousands of years across Asia, the Mediterranean, the Andes, and elsewhere.
+Terraced lands, given a reserve of local [[cover-crops]] or composts and adequate water, are potentially very stable production systems. Terraces have [[community-supported-agriculture-csa]] for thousands of years across Asia, the Mediterranean, the Andes, and elsewhere.
 
 ### Conditions for Failure
 

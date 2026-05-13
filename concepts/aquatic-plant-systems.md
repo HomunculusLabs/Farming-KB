@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Water is the scarcest and most critical resource in most landscapes, yet its management is often neglected in favor of above-ground systems. Bill Mollison's approach to water in permaculture treats every water body as a highly productive system, not merely a storage or livestock watering facility. Aquatic plants are described as "a neglected part of aquaculture" that can yield more productive output than animals. The design of ponds, bogs, marshes, and water edges integrates food production, habitat creation, water purification, and microclimate modification into a single system.
+Water is the scarcest and most critical resource in most landscapes, yet its management is often neglected in favor of above-ground systems. [[bill-mollison]]'s approach to water in permaculture treats every water body as a highly productive system, not merely a storage or livestock watering facility. Aquatic plants are described as "a neglected part of aquaculture" that can yield more productive output than animals. The design of ponds, bogs, marshes, and water edges integrates food production, habitat creation, water purification, and microclimate modification into a single system.
 
 ## Global Water Context
 
@@ -167,3 +167,8 @@ Every pond should be designed for multiple simultaneous functions:
 - **Water cleaning**: Efficiently collects essential nutrients in mud
 - **Manuring**: Chinese canals and ponds are valued primarily for field manuring
 - **Edge maximization**: Islands and peninsulas increase productive edge habitat
+
+## See Also
+- [[permaculture-plants-aquatic-and-wetland-species]]
+- [[duckweed-and-aquatic-plants-permaculture-systems]]
+- [[hamilton-garden-ponds-and-aquatic-plants]]

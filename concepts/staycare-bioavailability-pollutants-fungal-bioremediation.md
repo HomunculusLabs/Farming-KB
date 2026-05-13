@@ -25,7 +25,7 @@ variety of sorption mechanisms, including covalent bonding and
 electrostatic interactions. The extent of sorption depends on the
 chemical nature of the pollutant and the amount of [[comparison-liquid-culture-vs-grain-spawn]].
 
-pH significantly influences sorption behavior. PCP, for example,
+pH significantly influences sorption behavior. [[pcp]], for example,
 becomes a water-soluble salt at high pH, increasing its mobility and
 bioavailability. In contrast, at lower pH the neutral form predominates
 and sorption to organic matter increases. Understanding these

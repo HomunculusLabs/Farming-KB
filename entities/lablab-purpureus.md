@@ -25,7 +25,7 @@ sources:
 Lablab purpureus is a fast-growing, nitrogen-fixing legume native to
 Africa and widely cultivated across tropical and subtropical regions.
 It produces edible beans, tender young pods, nutritious foliage for
-forage, and serves as a dual-purpose [[comparison-pigeon-pea-vs-cowpea]], another [[glycine-max]] — Soybean permaculture
+forage, and serves as a dual-purpose [[comparison-pigeon-pea-vs-cowpea]], another [[glycine-max]] — [[soybean]] [[permaculture]]
   applications and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 ## Practical Applications
 

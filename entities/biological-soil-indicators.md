@@ -14,12 +14,12 @@ A framework for using plants, animals, and ecological patterns to assess soil an
 - **Category:** Diagnostic technique / observational framework
 - **Scale:** Site assessment from garden to landscape
 - **Practitioner level:** Accessible to non-scientists
-- **Section:** 8.15 in Permaculture: A Designer's Manual
+- **Section:** 8.15 in [[permaculture]]: A Designer's Manual
 
 ## Ten Indicators and Their Readings
 
 ### 1. Soil Depth
-- **Method:** Compare height and spread of a single tree species (e.g., Acacia, Prosopis, honey locust) across a site
+- **Method:** Compare height and spread of a single tree species (e.g., [[acacia]], Prosopis, honey locust) across a site
 - **Reading:** Largest specimens mark deepest soils; dwarfish specimens on same rock type indicate shallow soils
 
 ### 2. Water Reserves

@@ -6,7 +6,7 @@ type: concept
 
 # Tidal Aquaculture and Salt Marsh Systems
 
-Permaculture does not stop at the shoreline. The intertidal zone — the area between high and low tide — represents an enormously productive and often underutilized resource for food production, including fish, shellfish, crustaceans, and specialized salt-tolerant plants. Tidal systems can be designed to be self-flushing, self-feeding, and largely self-maintaining.
+[[permaculture]] does not stop at the shoreline. The intertidal zone — the area between high and low tide — represents an enormously productive and often underutilized resource for food production, including fish, shellfish, crustaceans, and specialized salt-tolerant plants. Tidal systems can be designed to be self-flushing, self-feeding, and largely self-maintaining.
 
 ## Tidal Basics
 
@@ -152,8 +152,13 @@ Sewage should be turned into a marsh, not a pond. The treatment sequence is:
 3. **Tree marsh**: Larger wetland trees provide final polishing
 4. **Discharge pond**: Water reaching this stage contains no solids, only dissolved nutrients (mainly phosphates and nitrates)
 
-A holding pond is necessary because in winter, marsh plants are dormant and cannot purify water. Rush (*Juncus* spp.) has been identified in Swiss studies as the most efficient water-cleansing plant.
+A holding pond is necessary because in winter, marsh plants are dormant and cannot purify water. Rush (*[[juncus]]* spp.) has been identified in Swiss studies as the most efficient water-cleansing plant.
 
 A case study of a town of 8,000 people demonstrated that a permaculture sewage system saved $30,000 annually in engineering costs and a similar amount in fuel costs. The system became an industrial base for the town through mint and bamboo production, starting on 50 acres and expanding to 1,500 additional acres. The system also supported vast numbers of black swans and teal.
 
 This contrasts sharply with conventional approaches: Canberra installed a $700,000 sewage plant that produces poisonous water, while the permaculture approach requires only a bulldozer and a sloping site.
+
+## See Also
+- [[tidal-estuarine-aquaculture-mollison]]
+- [[mollison-designers-aquatic-edge-planted-wetland-design]]
+- [[biological-sewage-treatment-with-aquatic-plants]]

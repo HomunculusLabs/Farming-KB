@@ -142,3 +142,4 @@ Key principles for zone one design:
   home for efficiency.
 - **Reject ornamental waste**: Every element in zone one should serve multiple
   functions — food, medicine, mulch, habitat, or soil building.
+- [[permaculture-plants-aquatic-systems-water-plants]]

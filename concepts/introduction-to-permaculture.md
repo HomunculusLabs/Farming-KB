@@ -73,8 +73,6 @@ The response he proposed was systematic and cooperative: converting high-energy 
 
 ## See Also
 
-- [[permaculture-design-principles]]
-- forest ecology and climate
-- soil erosion and salinity
-- water harvesting and storage
-- keystone species in ecosystems
+- [[introduction-to-aquaculture-and-wetland-systems]]
+- [[introduction-to-aquaculture-in-permaculture]]
+- [[introduction-to-permaculture-origins]]

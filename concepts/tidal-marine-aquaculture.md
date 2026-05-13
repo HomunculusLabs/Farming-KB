@@ -6,7 +6,7 @@ type: concept
 
 # Tidal and Marine Aquaculture
 
-Tidal and marine aquaculture in permaculture design leverages the natural energy of tides, salt marsh ecosystems, and estuarine environments to produce food, treat waste, and create multifunctional landscape elements. Bill Mollison presents these systems as among the most productive and self-maintaining aquatic strategies available to the permaculture designer.
+Tidal and marine aquaculture in [[permaculture-design]] leverages the natural energy of tides, salt marsh ecosystems, and estuarine environments to produce food, treat waste, and create multifunctional landscape elements. Bill Mollison presents these systems as among the most productive and self-maintaining aquatic strategies available to the permaculture designer.
 
 ## Polyculture Aquaculture Design
 
@@ -84,7 +84,7 @@ Mollison describes **inland oyster ponds** where the tide is regulated artificia
 
 ## Tidal Inlet Design
 
-Tidal inlets can be designed with **funnels** that channel fish into capture zones as tides ebb and flow. Combined with **longshore drift traps** — structures that intercept the natural movement of sediment along coastlines — these systems passively collect shell, limestone, and other valuable materials carried by currents.
+Tidal inlets can be designed with **funnels** that channel fish into capture zones as tides [[ebb-and-flow]]. Combined with **longshore drift traps** — structures that intercept the natural movement of sediment along coastlines — these systems passively collect shell, limestone, and other valuable materials carried by currents.
 
 ## Self-Flushing Inland Tidal Ponds
 
@@ -136,3 +136,8 @@ Mollison recounts the story of a farmer who was growing grasshoppers as animal f
 | Mimic natural structures | Stone traps and lobster cities based on animal behavior |
 | Multifunctional design | Every water element serves production, protection, and ecological roles |
 | Minimal energy input | Gravity, tides, and biological processes do the work |
+
+## See Also
+- [[tidal-estuarine-aquaculture-mollison]]
+- [[mollison-designers-aquatic-edge-planted-wetland-design]]
+- [[biological-sewage-treatment-with-aquatic-plants]]

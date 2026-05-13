@@ -13,7 +13,7 @@ created: 2026-04-28
 
 Momordica charantia, commonly known as bitter melon or bitter gourd, is a tropical and subtropical vine in the family Cucurbitaceae.
 
-It is widely cultivated across South and fukuoka-natural-farming-tropical-climates.
+It is widely cultivated across South and [[fukuoka-natural-farming-tropical-climates]].
 
 Seeds germinate in 7–14 days at soil temperatures above 20°C.
 
@@ -23,7 +23,7 @@ Fruiting begins 60–70 days after sowing, with harvest continuing for 2–3 mon
 
 Yields range from 10–20 tonnes per hectare under good management.
 
-Common pests include fruit flies, aphids, and comparison-companion-planting-reference-vs-jadam-monoculture-critique with allium species can help deter certain mushroom-cancer-clinical-trials-overview have shown bitter melon reduces fasting blood glucose in type 2 diabetics.
+Common pests include fruit flies, aphids, and comparison-companion-planting-reference-vs-jadam-monoculture-critique with allium species can help deter certain [[mushroom-cancer-clinical-trials-overview]] have shown bitter melon reduces fasting blood glucose in type 2 diabetics.
 
 ## Overview
 

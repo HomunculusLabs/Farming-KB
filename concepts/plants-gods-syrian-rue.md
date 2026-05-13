@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-Syrian Rue ([[mckenna-food-gods-peganum-harmala-soma]] L. belongs to the Zygophyllaceae (Caltrop Family). The
+[[syrian-rue]] ([[mckenna-food-gods-peganum-harmala-soma]] L. belongs to the Zygophyllaceae (Caltrop Family). The
 Syrian Rue is an herb native to desert areas, a bushy shrub attaining a
 height of 3 ft (1 m). The leaves are cut into narrowly linear segments,
 and the small white flowers occur in the axils of branches. The globose,
@@ -26,7 +26,7 @@ psychoactive purposes.
 
 ## Traditional and Indigenous Use
 
-The high esteem that Peganum harmala enjoys in folk medicine wherever
+The high esteem that [[peganum-harmala]] enjoys in folk medicine wherever
 the plant occurs may indicate a former semisacred use as a hallucinogen
 in native religion and magic. Syrian Rue has many uses in folk medicine
 across its vast range, serving as an emmenagogue, abortifacient,

@@ -13,7 +13,7 @@ Spawn is the essential inoculum of commercial [[mushroom-compost-preparation-his
 - [[french-flake-spawn-vs-brick-spawn]] — Detailed comparison of spawn types
 ## Practical Applications
 
-Mushroom Spawn Making and Pure Culture Methods has a range of practical applications that make it relevant to
+[[mushroom-spawn]] Making and Pure Culture Methods has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

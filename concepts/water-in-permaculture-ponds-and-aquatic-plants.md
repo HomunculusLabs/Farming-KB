@@ -6,7 +6,7 @@ type: concept
 
 # Water in Permaculture — Ponds and Aquatic Plants
 
-Water is the foundation of productive permaculture systems. Understanding the global water cycle, designing effective water storage, and managing productive pond systems are essential skills. Permaculture treats ponds not merely as cattle watering points but as highly productive integrated systems yielding food, fuel, fertilizer, and ecological services simultaneously.
+Water is the foundation of productive [[permaculture]] systems. Understanding the global water cycle, designing effective water storage, and managing productive pond systems are essential skills. Permaculture treats ponds not merely as cattle watering points but as highly productive integrated systems yielding food, fuel, fertilizer, and ecological services simultaneously.
 
 ## Global Water Context
 
@@ -153,3 +153,8 @@ Duck protection requires either island refuge, netting over the pond, or a fence
 ### Frogs
 
 Frogs are essential in greenhouse systems for controlling slugs and cutworms — both nocturnal pests that bullfrogs (which feed in daylight) do not address effectively.
+
+## See Also
+- [[permaculture-plants-aquatic-and-wetland-species]]
+- [[duckweed-and-aquatic-plants-permaculture-systems]]
+- [[hamilton-garden-ponds-and-aquatic-plants]]

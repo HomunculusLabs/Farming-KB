@@ -29,7 +29,7 @@ colonization, tiny white pin-like structures appear — this is called
 Soon after pinning, small round fungus growths appear that begin to turn
 yellow. These develop into primordia — tiny worm-like structures with tiny
 reddish heads. These are the first recognizable mushrooms, and they represent
-the earliest stage of actual fruiting body development. PF considers
+the earliest stage of actual [[fruiting-body-development]]. PF considers
 primordia to be the optimal stage for harvesting in terms of potency.
 
 ### Normal Fruiting Bodies

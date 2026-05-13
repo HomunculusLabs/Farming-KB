@@ -21,7 +21,7 @@ human body. Its name derives from the Sanskrit word "ananda" meaning
 "bliss" or "joy," reflecting its role in mood regulation and pleasure.
 Discovered in the 1990s, anandamide was a landmark finding that led to
 the identification of the entire [[two-ag]]
-- endocannabinoid system (ECS)
+- [[endocannabinoid-system]] (ECS)
 - fatty [[blesching-cannabis-anandamide]]
 ## Practical Applications
 

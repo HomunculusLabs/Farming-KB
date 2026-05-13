@@ -46,3 +46,7 @@ Bill Mollison, *Permaculture Design Course Pamphlet IX — Permaculture Techniqu
 - Nutrient cycling in food forests
 - Mycorrhizal networks
 - Forest ecosystem health
+
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
+- [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]
+- [[permaculture-food-forests-design-course]]

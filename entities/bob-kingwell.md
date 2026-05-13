@@ -35,7 +35,7 @@ Australia**, recognised by [[water-management]]
 - Flood irrigation cycles create **alternating wet-dry soil conditions** that
   can stimulate fungal fruiting in interplanted mushroom beds.
 - The Atherton Tablelands climate (warm, wet tropics) is ideal for **tropical
-  mushroom cultivation** — species such as *Pleurotus pulmonarius* and
+  [[mushroom-cultivation]]** — species such as *Pleurotus pulmonarius* and
   *Volvariella volvacea* thrive in these conditions.
 - Irrigated papaya systems interplanted with **Desmodium** ground cover and
   **comfrey** mulch interplants create multi-layered fungal habitat in the
@@ -65,7 +65,7 @@ Regional differences necessitate site-specific approaches.
 
 ## Practical Applications
 Bob Kingwell has several practical applications in sustainable systems.
-Integration with permaculture design principles enhances its utility.
+Integration with [[permaculture-design-principles]] enhances its utility.
 Consideration of local climate and soil conditions is essential.
 Multiple functions can be served within a single system design.
 

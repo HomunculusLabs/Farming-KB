@@ -57,7 +57,7 @@ Chaga is renowned for its exceptional antioxidant profile:
 - Anti-inflammatory compounds reduce skin redness and irritation.
 
 ### Anti-Aging and Longevity
-- [[ashwagandha-cultivation-uses-and-adaptogenic-properties]] in traditional use.
+- [[ashwagandha]] in traditional use.
 - Antioxidant protection against cellular aging.
 - Siberian folk tradition associates chaga with longevity.
 

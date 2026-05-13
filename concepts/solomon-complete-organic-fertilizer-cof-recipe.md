@@ -9,7 +9,7 @@ tags: [fertilizer, organic, COF, complete-fertilizer, soil-fertility, steve-solo
 
 ## Overview
 
-Steve Solomon's Complete Organic Fertilizer (COF) is a custom organic fertilizer blend
+[[steve-solomon]]'s Complete Organic Fertilizer (COF) is a custom organic fertilizer blend
 designed to provide balanced plant nutrition for [[seed-company-supplier-reference]] [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] for crop nutrition.
 
 ## The Problem with Manure and Compost Alone

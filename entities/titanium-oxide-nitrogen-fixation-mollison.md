@@ -53,4 +53,5 @@ Mollison frames this as an example of natural "factories" working everywhere —
 ## See Also
 
 - [[azolla]] — biological nitrogen fixation via aquatic fern
-- [[soil-nitrogen-dynamics-mollison]] — nitrogen in soil systems
+- [[legume-nitrogen-dynamics]] — nitrogen in soil systems
+- [[permaculture-plants-aquatic-systems-water-plants]]

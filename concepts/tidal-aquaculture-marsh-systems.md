@@ -6,7 +6,7 @@ type: concept
 
 # Tidal Aquaculture and Marsh Systems
 
-Permaculture design extends beyond the shoreline into intertidal zones, salt marshes, and shallow coastal waters. These edge environments are among the most productive on Earth, offering opportunities for polyculture aquaculture, forage production, and mineral harvesting that require minimal external inputs once established.
+[[permaculture-design]] extends beyond the shoreline into intertidal zones, salt marshes, and shallow coastal waters. These edge environments are among the most productive on Earth, offering opportunities for polyculture aquaculture, forage production, and mineral harvesting that require minimal external inputs once established.
 
 ## Tide Range Requirements
 
@@ -133,4 +133,9 @@ Each level supports the next, creating self-regulating food webs that produce mu
 
 ## Design Philosophy
 
-The overarching principle of tidal aquaculture in permaculture is to work with natural tidal energy rather than against it. The tide brings water, nutrients, organisms, and shell material. The designer's role is to direct these flows into productive configurations using simple barriers, channels, and substrate provisions — not to fight the sea with pumps, concrete, and energy-intensive systems. As Mollison emphasizes: permaculture does not stop at the shoreline.
+The overarching principle of tidal aquaculture in [[permaculture]] is to work with natural tidal energy rather than against it. The tide brings water, nutrients, organisms, and shell material. The designer's role is to direct these flows into productive configurations using simple barriers, channels, and substrate provisions — not to fight the sea with pumps, concrete, and energy-intensive systems. As Mollison emphasizes: permaculture does not stop at the shoreline.
+
+## See Also
+- [[tidal-estuarine-aquaculture-mollison]]
+- [[mollison-designers-aquatic-edge-planted-wetland-design]]
+- [[biological-sewage-treatment-with-aquatic-plants]]

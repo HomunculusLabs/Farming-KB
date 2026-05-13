@@ -69,7 +69,7 @@ Any surplus [[using-accumulators-in-compost-and-mulch]] is used to carpet a **zi
 - Concrete
 - Clean fill
 
-As the ziggurat ascends, community [[plant-disease-management-in-organic-gardens]] follow the fill, creating:
+As the ziggurat ascends, community [[plant-disease-management-solomon]] follow the fill, creating:
 - A terraced growing space from waste materials
 - A productive landscape feature from construction debris
 - A visual landmark and community gathering point

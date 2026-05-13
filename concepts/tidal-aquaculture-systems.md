@@ -6,7 +6,7 @@ type: concept
 
 # Tidal Aquaculture Systems
 
-Permaculture design extends beyond the shoreline into intertidal zones, salt marshes, and shallow marine environments. These areas offer extraordinary productivity for food production, building materials, and mineral harvesting — yet they remain among the most underutilized landscapes in modern agriculture. Tidal systems require minimal external inputs because the sea delivers nutrients, organisms, and water movement for free.
+[[permaculture-design]] extends beyond the shoreline into intertidal zones, salt marshes, and shallow marine environments. These areas offer extraordinary productivity for food production, building materials, and mineral harvesting — yet they remain among the most underutilized landscapes in modern agriculture. Tidal systems require minimal external inputs because the sea delivers nutrients, organisms, and water movement for free.
 
 ## The Tidal Zone
 
@@ -152,4 +152,9 @@ Maximizing edges through islands and peninsulas increases the productive interfa
 
 The fundamental insight of tidal aquaculture is that **the sea does the work**. It delivers water, nutrients, organisms, and energy for free. The designer's role is to create the structures — channels, ponds, barriers, funnels — that capture and organize this natural abundance into productive systems. This stands in sharp contrast to conventional aquaculture, which pumps, feeds, heats, and medicates at enormous energy cost.
 
-A single bulldozer and a sloping site are, in Bill Mollison's estimation, sufficient to design and build sewage treatment and food production systems for entire towns — replacing millions of dollars in engineering infrastructure with productive wetland systems that generate employment, food, and raw materials while purifying water.
+A single bulldozer and a sloping site are, in [[bill-mollison]]'s estimation, sufficient to design and build sewage treatment and food production systems for entire towns — replacing millions of dollars in engineering infrastructure with productive wetland systems that generate employment, food, and raw materials while purifying water.
+
+## See Also
+- [[tidal-estuarine-aquaculture-mollison]]
+- [[mollison-designers-aquatic-edge-planted-wetland-design]]
+- [[biological-sewage-treatment-with-aquatic-plants]]

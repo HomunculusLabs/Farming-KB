@@ -72,7 +72,7 @@ incurred on that increase if the property is held for 10 or more years.
 
 ## Overview
 
-[[bill-mollison-permaculture-designers-manual]] Legal Structures represents an important element within sustainable
+[[bill-mollison]] Legal Structures represents an important element within sustainable
 design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

@@ -13,7 +13,7 @@ sources:
 updated: 2026-04-24
 
 Magic mushrooms played a vital supporting role in the psychedelic
-counterculture of the 1960s. While LSD was the undisputed star of the
+counterculture of the 1960s. While [[lsd]] was the undisputed star of the
 movement, mushrooms provided the initial spark for several key figures
 and maintained a persistent presence throughout the decade. The story of
 how mushrooms spread from Mexican Indian villages to become a staple of

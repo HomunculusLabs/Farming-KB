@@ -147,3 +147,9 @@ Successful integration of mycofiltration into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
+
+## See Also
+
+- [[mycofiltration-of-water-contaminants]]
+- [[mycofiltration-of-water-stamets]]
+- [[mycofiltration-silt-barrier-design]]

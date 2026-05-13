@@ -54,7 +54,7 @@ Procreative assets are **living systems** that grow, reproduce, and yield ongoin
 
 Examples include:
 
-- Trees and [[perennial-vegetables-and-edible-perennial-crops]]
+- Trees and [[perennial-vegetables]]
 - Wildlife, fish, and invertebrate populations
 - Mammals and domestic livestock
 - Pastures, wetlands, and healthy soil ecologies

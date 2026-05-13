@@ -9,7 +9,7 @@ created: 2026-05-09
 
 ## Overview
 
-Spore inoculation is the process of introducing [[mycelial-colonization]] phase. The PF TEK employs a mass
+Spore inoculation is the process of introducing [[mycelial-colonization]] phase. The [[pf-tek]] employs a mass
 spore inoculation approach where spores are delivered via syringe directly to the
 [[mushroom-casing-moisture-management]].
 

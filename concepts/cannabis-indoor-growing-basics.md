@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-indoor-growing-guide]] Basics
+title: cannabis indoor growing basics Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

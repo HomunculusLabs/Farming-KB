@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Pond polyculture in permaculture involves designing interconnected aquatic systems where each element supports the others, creating cascading yields from ponds, marshes, and tidal areas. Rather than monoculture fish farming, Mollison advocates for linked systems where ducks, wild rice, mussels, shrimp, fish, and edge plants form integrated food webs. The design principle is to have small specialized ponds at different conditions that flow into each other, with each producing different crops while enriching water for downstream systems.
+Pond polyculture in [[permaculture]] involves designing interconnected aquatic systems where each element supports the others, creating cascading yields from ponds, marshes, and tidal areas. Rather than monoculture fish farming, Mollison advocates for linked systems where ducks, wild rice, mussels, shrimp, fish, and edge plants form integrated food webs. The design principle is to have small specialized ponds at different conditions that flow into each other, with each producing different crops while enriching water for downstream systems.
 
 ## The Polyculture Model
 
@@ -195,3 +195,8 @@ Every pond should be designed to serve:
 - Recreation
 - Water purification and nutrient collection
 - Wildlife habitat
+
+## See Also
+- [[permaculture-duck-pond-systems]]
+- [[permaculture-plants-aquatic-systems-water-plants]]
+- [[mollison-water-harvesting-management-permaculture]]

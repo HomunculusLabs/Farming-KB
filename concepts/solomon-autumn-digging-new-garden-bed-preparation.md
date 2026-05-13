@@ -82,13 +82,7 @@ Vegetables need loose soil to a depth of at least 12 inches. A 4-5 inch tilled d
 
 ## See Also
 
-- [[solomon-ley-farming-grass-clover-rotation-soil-restoration]]
-- [[solomon-on-root-cellaring]]
-- [[solomon-pest-management-organic]]
-- [[solomon-root-cellaring-food-preservation]]
-- [[solomon-thinning-overseeding-stand-establishment]]
-- [[solomon-tool-care-sharpening-shovels-hoes-essential-gardening]]
-- [[solomon-variety-degradation-home-seed-trade]]
-- [[solomon-vegetable-demand-classification-soil-fertility]]
-- [[solomon-watering-and-dry-farming]]
-- [[solomon-watering-strategies-and-dry-farming-techniques]]
+- [[solomon-green-manure-cover-crop-techniques]]
+- [[solomon-organic-root-maggot-management]]
+- [[solomon-seed-sprouting-paste-technique]]
+- [[solomon-variety-trial-methodology]]

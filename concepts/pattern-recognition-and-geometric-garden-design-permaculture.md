@@ -88,8 +88,8 @@ This illustrates that pattern in design is not merely functional but cultural an
 
 ## See Also
 
-- [[[applied-pattern-design-in-permaculture]]]([[applied-pattern-design-in-permaculture]].md)
-- [[[permaculture-pattern-literacy]]]([[permaculture-pattern-literacy]].md)
-- [[[permaculture-pattern-understanding-design-process]]]([[permaculture-pattern-understanding-design-process]].md)
-- [[[permaculture-patterns-in-nature]]](permaculture-[[patterns-in-nature]].md)
+- [[applied-pattern-design-in-permaculture]]
+- [[permaculture-pattern-literacy]]
+- [[permaculture-pattern-understanding-design-process]]
+- [[patterns-in-nature]]](permaculture-[[patterns-in-nature]].md)
 - [Edge Effect and Ecotone Design](bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design.md)

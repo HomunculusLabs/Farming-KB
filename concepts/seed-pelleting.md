@@ -104,7 +104,7 @@ The combination of rhizobial inoculation and nutrient supply in the pellet makes
 
 Seed treatment techniques improve germination rates and early plant establishment,
 particularly in challenging soil conditions. These methods are widely used in
-[[biochar-in-regenerative-agriculture]] and permaculture systems.
+[[biochar]] and permaculture systems.
 
 ## Implementation Methods
 

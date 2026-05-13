@@ -67,8 +67,9 @@ communities, and systematic experimentation to build expertise.
 
 ## See Also
 
-- [[urban-permaculture-and-integrated-land-management]]
-- [[urban-permaculture-systems]]
+- [[urban-agriculture-organizations-and-networks]]
+- [[urban-permaculture-passive-solar-cistern-design]]
+- [[urban-rural-linkages-and-direct-marketing]]
 
 ## Overview
 

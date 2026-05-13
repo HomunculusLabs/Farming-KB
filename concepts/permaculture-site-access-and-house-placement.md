@@ -98,9 +98,9 @@ After laying out water, access, and house sites, the designer should look at spe
 
 ## See Also
 
-- [[[permaculture-access-and-circulation-design]]]([[permaculture-access-and-circulation-design]].md)
+- [[permaculture-access-and-circulation-design]]
 - [Permaculture Zone 0 House Design](permaculture-zone-0-house-design.md)
-- [[[permaculture-design-process]]]([[permaculture-design-process]].md)
-- [[[permaculture-zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
+- [[permaculture-design-process]]
+- [[zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
 - [Permaculture Resource Assessment and Client Consultation](permaculture-resource-assessment-and-client-consultation.md)
 - [Climate Site Analysis]([[mollison-climate-site-analysis-permaculture]].md)

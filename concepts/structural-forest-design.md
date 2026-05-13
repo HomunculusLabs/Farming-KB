@@ -12,7 +12,7 @@ Structural forests are a foundational concept in permaculture, focusing on the p
 
 The strongest structural timber is **growing round timber** — wood that has not been cut and processed into dimensional lumber. Pioneer and edge species are the primary candidates for structural production. The advantage of round timber lies in its intact fiber structure, which gives it superior impact loading strength compared to milled lumber.
 
-Black locust (*Robinia pseudoacacia*) stands as a premier example in North America. It is a pioneer species, a soil builder, and produces fence posts that have been documented setting in the ground for 90 to 100 years while still retaining near-maximum strength. Black locust has the highest impact loading strength of any timber known. Posts can be planted at densities of 4,000 to 5,000 per acre and harvested in only four to six years. Crucially, black locust **coppices vigorously** — the more you cut, the more you get — and the foliage provides excellent chicken forage, creating a synergistic livestock-forestry system.
+Black locust (*[[robinia-pseudoacacia]]*) stands as a premier example in North America. It is a pioneer species, a soil builder, and produces fence posts that have been documented setting in the ground for 90 to 100 years while still retaining near-maximum strength. Black locust has the highest impact loading strength of any timber known. Posts can be planted at densities of 4,000 to 5,000 per acre and harvested in only four to six years. Crucially, black locust **coppices vigorously** — the more you cut, the more you get — and the foliage provides excellent chicken forage, creating a synergistic livestock-forestry system.
 
 ## Bamboo as Structural Material
 
@@ -49,7 +49,7 @@ If a stump must be prevented from regrowing, the simplest method is to **exclude
 
 ## Forest Architecture: Crown and Edge Species
 
-When designing a food forest, tree placement must account for whether species are **crown bearers** (bearing fruit/nuts within the canopy interior) or **edge bearers** (requiring exposure at the forest margin). Most nut trees bear on the crown, while many fruit trees are edge species.
+When designing a [[food-forest]], tree placement must account for whether species are **crown bearers** (bearing fruit/nuts within the canopy interior) or **edge bearers** (requiring exposure at the forest margin). Most nut trees bear on the crown, while many fruit trees are edge species.
 
 ### Buffer Zones
 
@@ -105,3 +105,8 @@ Australians have pioneered pole-frame construction where entire house frameworks
 The establishment of structural forests benefits enormously from modern nursery techniques. In a nursery, trees can be grown to a size that would take eight years in the field. Container specimens can be shipped the year before they yield. While nursery preparation proceeds, the land can be simultaneously prepared and even cropped, using the cropping cycle to manure the planting site.
 
 A portable nursery kit — fitting on the back of a truck — can include drip lines, sprinklers, and shade houses. This approach has been successfully used with Aboriginal communities in central Australia, where a trained "tribal nurseryman" establishes nurseries at outstation camps and propagates trees from tamarisk cuttings and grape cuttings suited to the local area.
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[structural-forests-permaculture]]

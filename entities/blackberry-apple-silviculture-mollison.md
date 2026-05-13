@@ -47,3 +47,7 @@ Bill Mollison, *Permaculture Design Course Pamphlet IX — Permaculture Techniqu
 - Sheet mulching
 - Food forest design
 - Pioneer species in succession
+
+- [[permaculture-zone-two-orchard-and-animal-systems]]
+- [[coppice-and-pollard-systems]]
+- [[blackberry-apple-cattle-succession-mollison]]

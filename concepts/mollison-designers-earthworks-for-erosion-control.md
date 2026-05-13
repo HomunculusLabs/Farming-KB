@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-mollison designers earthworks for [[soil-erosion-control-and-landscape-restoration]] its applications. Active investigation
+mollison designers earthworks for [[soil-erosion-control]] its applications. Active investigation
 areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 

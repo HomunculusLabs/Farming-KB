@@ -80,3 +80,8 @@ sources:
 
 ## Cultural Significance
 - Three-time consecutive High Times Cannabis Cup champion (1997, 1998, 1999) — unprecedented in Cup history at the time; only a handful of strains have achieved back-to-back wins
+
+## See Also
+- [[cannabis-breeding-basics]]
+- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]
+- [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]]

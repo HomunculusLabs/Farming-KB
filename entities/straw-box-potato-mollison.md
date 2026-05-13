@@ -56,3 +56,4 @@ Mollison reports: "We have had potatoes growing for 12 years in straw boxes. Som
 
 - [[comfrey]] — companion plant for potato system
 - [[sheet-mulching]] — related mulching technique
+- [[mollison-barrier-plants-in-garden-design]]

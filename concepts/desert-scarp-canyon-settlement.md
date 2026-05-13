@@ -132,3 +132,4 @@ Desert settlements face threats from feral animals, particularly in Australia:
 6. **Bore near the pediment** — closest to fresh water with lowest salinity
 7. **Design for three-year drought cycles** — storage systems must sustain settlement through extended dry periods
 8. **Use the complete desert ecology** — integrate plants, animals, and storage strategies into a self-sustaining system
+- [[arid-landscape-scarp-wadi-desert-settlement]]

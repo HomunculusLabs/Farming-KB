@@ -176,10 +176,10 @@ The three case studies demonstrate totally different solutions for three differe
 
 ## Related Concepts
 
-- [[swale-systems|Swale Systems]]
+- [[swale-systems-and-slope-design]]
 - [[keyline-design|Keyline Design]]
-- [[fire-resistant-landscape-design|Fire-Resistant Landscape Design]]
+- [[mollison-designers-fire-resistant-landscape-design|Fire-Resistant Landscape Design]]
 - [[earth-sheltered-housing|Earth-Sheltered Housing]]
-- [[water-harvesting-techniques|Water Harvesting Techniques]]
-- [[windbreak-design|Windbreak Design]]
-- [[net-and-pan-slopes|Net and Pan Slopes]]
+- [[water-harvesting-techniques-comparison]]
+- [[windbreak-permaculture|Windbreak Design]]
+- [[net-and-pan-planting]]

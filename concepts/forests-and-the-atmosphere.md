@@ -67,7 +67,7 @@ The forest is an enormous water mass. Approximately 86% of forest mass is water,
 
 Below the canopy, the forest floor provides additional water storage:
 
-1. **Litter and humus layer**: Absorbs water until fully charged, representing a significant mass of stored water (potentially 6 inches to a foot)
+1. **Litter and [[humus]] layer**: Absorbs water until fully charged, representing a significant mass of stored water (potentially 6 inches to a foot)
 2. **Mineral soil**: Every foot of soil holds approximately one inch of rain; with 30 inches of soil, a 3-inch rainfall produces zero surface movement
 3. **Root channels**: Old rotted root traces create conduits allowing rapid percolation to deeper levels
 4. **Deep storage**: Up to 60 inches of rain can be held in deep forest soils with good structure
@@ -142,3 +142,8 @@ The removal of forests triggers cascading collapse:
 - **Civilizational collapse**: The removal of forests has been the main cause of the collapse of nations — without forests, there is insufficient water, soil, or climate quality to sustain human life
 
 The continents themselves are affected: forests represent an enormous water mass, and loading and unloading this mass through deforestation can cause Earth movements. Modest dams are known to cause local earthquakes; the far greater water mass of continental forests, when removed, may contribute to geological instability.
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[structural-forests-permaculture]]

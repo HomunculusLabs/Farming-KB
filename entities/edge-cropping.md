@@ -33,9 +33,9 @@ Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 4 — Edge Cropping 
 
 ## See Also
 
-- Edge Effect
-- Keyhole Bed
-- Polyculture Guilds
+- [[edge-effect-and-pattern-in-design]]
+- [[edge-effect-in-permaculture-design]]
+- [[edge-harmonics-in-permaculture]]
 
 ## Historical Context
 - Emerged from observations of natural systems and ecological patterns

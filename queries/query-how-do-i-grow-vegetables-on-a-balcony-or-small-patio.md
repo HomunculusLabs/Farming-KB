@@ -42,7 +42,7 @@ The [[holzer-balcony-garden|Sepp Holzer's balcony garden approach]] emphasizes u
 ### What About Growing on a Rooftop Instead?
 
 If you have rooftop access, you may have more space and sunlight than a typical balcony provides.
-The [[urban-agriculture-and-rooftop-farming|Rooftop farming]] can range from a few containers to a full production garden depending on available space and building rules.
+The [[urban-agriculture-organizations-and-networks]] can range from a few containers to a full production garden depending on available space and building rules.
 [[comparison-vertical-gardening-vs-container-gardening|Vertical gardening and container gardening]] can be combined for maximum production.
 - Container soil dries out fast — use quality potting mix, mulch the surface, and consider self-watering designs.
 - Protect plants from wind with screens and from cold by moving containers or using microclimates.

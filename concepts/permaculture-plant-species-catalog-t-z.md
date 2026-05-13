@@ -60,7 +60,7 @@ Clovers are versatile leguminous ground covers that fix nitrogen, suppress weeds
 Fenugreek is an annual legume cultivated for its aromatic seeds and edible leaves, used extensively in cooking and traditional medicine. As a nitrogen fixer, it contributes to soil fertility while providing a culinary crop. Its leaves can be harvested repeatedly as a cut-and-come-again green.
 
 ### Vetch (*Vicia spp.*)
-Vetches are vigorous climbing or trailing legumes used extensively as [[cover-crops-and-green-manures]]. They are among the most effective cool-season nitrogen fixers and are often planted in fallow periods to protect and enrich soil. Common vetch and hairy vetch are particularly valuable in temperate permaculture rotations.
+Vetches are vigorous climbing or trailing legumes used extensively as [[cover-crops]]. They are among the most effective cool-season nitrogen fixers and are often planted in fallow periods to protect and enrich soil. Common vetch and hairy vetch are particularly valuable in temperate permaculture rotations.
 
 ## Pasture and Forage Grasses
 

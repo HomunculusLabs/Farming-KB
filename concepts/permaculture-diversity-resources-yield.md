@@ -115,3 +115,4 @@ Often, what limits yield is not the basic factor of food (food ceilings are rare
 The probability of species extinction is greatest at both very high and very low population densities. High density causes rapid transmission of disease through exhaustion of critical resources. Low density is more difficult to observe but equally critical — small populations lose genetic diversity and become vulnerable to random events.
 
 No human society dependent on its own genetic health can persist below approximately 300 individuals, and not even at that number without rigorous genetic management. High-density populations accumulate genetic disasters and mutations. Both extremes are dangerous, and the factor of number is one that most intentional communities ignore.
+- [[mollison-co-action-analysis-and-species-interaction-in-guild-design]]

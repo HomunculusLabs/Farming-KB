@@ -22,7 +22,7 @@ Mycorrhizal fungi form symbiotic associations with the roots of approximately 90
 - Extensive external hyphal network extends into the soil from the root surface
 - Do not produce visible fruiting bodies; identification requires molecular methods or root staining and microscopy
 
-**[[lichen-biology-and-ecological-significance]]**:
+**[[lichen-biology-guide]]**:
 - Primarily enhance phosphorus uptake, which is often the limiting nutrient in both natural and [[fungi-grassland-agricultural-ecosystems-dighton]]
 - Also improve uptake of zinc, copper, and other micronutrients
 - The external hyphal network effectively extends the root system by 10–100x, greatly increasing the soil volume explored for nutrients

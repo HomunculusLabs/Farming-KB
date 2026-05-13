@@ -127,7 +127,7 @@ Desert gardens excel with cool-season crops grown fall through spring:
 ## Soil Building in the Desert
 
 ### Organic Matter
-Building [[humus-and-soil-organic-matter]] in deserts is challenging but essential:
+Building [[humus]] in deserts is challenging but essential:
 
 - Compost decomposes rapidly in heat; apply 2-4 inches annually
 - Mulch heavily (3-6 inches) to reduce evaporation and moderate soil temperature

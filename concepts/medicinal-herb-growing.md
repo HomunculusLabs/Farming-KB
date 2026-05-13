@@ -94,3 +94,12 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 - [[greenhouse-growing-guide]] -- many medicinal herbs can be grown year-round in a greenhouse
 - [[wild-foraging-guide]] -- some medicinal herbs can also be wildcrafted
 - [[saving-seeds]] -- save seeds from your best medicinal herb specimens
+
+## See Also
+
+- [[medicinal-mushroom-derived-polysaccharides-and-immune-modulation]]
+- [[medicinal-mushroom-dietary-supplements-and-future-development]]
+- [[medicinal-mushrooms-and-cancer-chemoprevention]]
+- [[medicinal-mushrooms-beyond-cancer-cardiovascular-antidiabetic-antimicrobial]]
+- [[medicinal-mushrooms-compounds-and-benefits]]
+- [[medicinal-mushrooms-overview-and-cancer-treatment-potential]]

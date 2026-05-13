@@ -18,7 +18,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 - [[5-meo-dmt-compound-profile]] — parent compound
 ## Practical Applications
 
-4 Ho Dipt (Tihkal) has a range of practical applications that make it relevant to
+4 Ho [[dipt]] (Tihkal) has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

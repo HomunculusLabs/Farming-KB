@@ -75,3 +75,4 @@ Asparagus benefits from ducks and chickens, which eat the asparagus beetle and a
 ## The Key Design Rule
 
 The purposes of the zones are to **design distances properly**. When this is done, it pays hundreds of times over. Every time a designer breaks the zone rules, there are consequences — neglected crops, unreached harvests, uncollected manure. The zone system is not about rigid circles but about optimizing the relationship between human attention frequency and the needs of each element in the design.
+- [[mollison-designers-domestic-animal-integration-design]]

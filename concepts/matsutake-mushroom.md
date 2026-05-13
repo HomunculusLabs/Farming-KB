@@ -1,5 +1,5 @@
 ---
-title: [[matsutake-mushroom-ecology-and-culture]]
+title: matsutake mushroom
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

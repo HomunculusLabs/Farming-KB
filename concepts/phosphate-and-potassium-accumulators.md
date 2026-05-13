@@ -21,7 +21,7 @@ notoriously difficult to liberate from their mineral forms in soil.
 While these elements may be present in adequate total quantities, they
 are often locked in compounds that plants cannot readily absorb. Dynamic
 accumulator plants that specialize in accessing and concentrating these
-minerals provide a valuable biological tool for building soil fertility
+minerals provide a valuable biological tool for [[building-soil]] fertility
 without relying on imported fertilizers.
 
 ## The Challenge of [[knf-potassium-deficiency-and-excess]]

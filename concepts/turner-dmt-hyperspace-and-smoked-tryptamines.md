@@ -12,7 +12,7 @@ type: concept
 
 ## Introduction
 
-N,N-Dimethyltryptamine (DMT) and 5-Methoxy-DMT (5-MeO-DMT) are
+N,N-Dimethyltryptamine ([[dmt]]) and 5-Methoxy-DMT (5-MeO-DMT) are
 naturally occurring psychedelics found in plants [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], correlated to the
 "third eye" or Ajna Chakra in the Indian spiritual system. Turner
 rated DMT at intensity 9 to 10 and titled it "Candy for the Mind."

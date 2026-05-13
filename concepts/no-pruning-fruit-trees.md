@@ -125,8 +125,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
-- [[fukuoka-orchard-management-without-pruning]]
-- [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
-- [[green-cannabis-topping-pruning-training]]
-- [[pruning-fruit-trees]]
+- [[no-till-agriculture]]
+- [[no-till-grain-strategy]]
+- [[no-tillage-grain-cropping-and-simultaneous-rotation]]

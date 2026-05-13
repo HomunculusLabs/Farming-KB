@@ -111,3 +111,5 @@ Maca's dense spacing reflects its smaller mature size and single-season lifecycl
 
 ### Maca — Challenges
 - Requires a full 8–10 month cool growing season; difficult in areas with hot summers
+- [[leaf-senescence-autumn-colour-change-active-plant-process]]
+- [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]

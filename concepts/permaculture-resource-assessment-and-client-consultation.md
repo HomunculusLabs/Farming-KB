@@ -64,9 +64,9 @@ The overarching goal of resource assessment is to identify every avenue by which
 
 ## See Also
 
-- [[[permaculture-design-process]]]([[permaculture-design-process]].md)
+- [[permaculture-design-process]]
 - [Permaculture Zone Planning]([[permaculture-zone-planning-guide]].md)
-- [[[permaculture-access-and-circulation-design]]]([[permaculture-access-and-circulation-design]].md)
-- [[[permaculture-zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
+- [[permaculture-access-and-circulation-design]]
+- [[zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
 - [Earthworking and Earth Resources](bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources.md)
 - [Broadacre and Rural Design](bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design.md)

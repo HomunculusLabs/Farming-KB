@@ -21,7 +21,7 @@ These two methods have been paired together for millennia. English
 half-timber houses, German Fachwerk, and Japanese nuriya walls all use
 timber frames filled with wattle-and-daub panels. Understanding each
 method on its own terms helps builders decide how to use them — whether
-together, separately, or combined with other [[natural-building-techniques]].
+together, separately, or combined with other [[natural-building]].
 
 ## Timber Frame Construction
 

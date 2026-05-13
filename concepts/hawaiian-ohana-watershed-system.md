@@ -145,3 +145,4 @@ The Ohana system remains a powerful model for how human communities can design
 settlements that regenerate rather than degrade their environments, and it
 continues to inspire permaculture designers working in tropical and island
 ecosystems worldwide.
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]

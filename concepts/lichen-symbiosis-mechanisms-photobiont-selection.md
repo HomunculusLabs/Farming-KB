@@ -66,7 +66,7 @@ partners involves several levels of specificity:
 
 ## Comparison with Geosiphon: An Endocytobiotic Analog
 
-The comparison between lichen symbiosis and the Geosiphon-Nostoc symbiosis
+The comparison between [[lichen-symbiosis]] and the Geosiphon-Nostoc symbiosis
 illuminates the range of fungal-algal partnership strategies:
 
 - **Lichens**: The photobiont lives outside the [[endophytic-fungi-living-inside-plants]] the fungal cell. [[hamilton-vegetative-propagation]] of the entire

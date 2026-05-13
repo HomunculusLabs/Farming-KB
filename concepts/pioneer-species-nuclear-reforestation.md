@@ -6,7 +6,7 @@ type: concept
 
 # Pioneer Species and Nuclear Reforestation
 
-Pioneer species are the first colonizers of degraded, barren, or disturbed land. In permaculture, understanding how to deploy them strategically—particularly through **nuclear reforestation**—is essential for restoring landscapes that have been cleared, overgrazed, or otherwise damaged. Bill Mollison emphasizes that forest re-establishment is not a matter of planting scattered individuals across a landscape, but of creating concentrated nuclei from which forests can expand naturally and powerfully.
+Pioneer species are the first colonizers of degraded, barren, or disturbed land. In permaculture, understanding how to deploy them strategically—particularly through **nuclear reforestation**—is essential for restoring landscapes that have been cleared, overgrazed, or otherwise damaged. [[bill-mollison]] emphasizes that forest re-establishment is not a matter of planting scattered individuals across a landscape, but of creating concentrated nuclei from which forests can expand naturally and powerfully.
 
 ## Forest Water Mass and Geothermal Effects
 
@@ -44,7 +44,7 @@ Key pioneer genera mentioned by Mollison include **acacias** and **red cedars**,
 
 ### Pioneers as Manurial Crops
 
-Mollison frames pioneer species as **manurial crops**—plants grown specifically to prepare the site for the desired forest species. Just as a farmer might grow a cover crop of legumes before planting corn, the permaculture designer uses pioneers to build soil fertility, modify microclimate, suppress grass competition, and create the conditions under which valuable timber or food-producing species can then be established. The pioneers are eventually shaded out or harvested as the canopy closes.
+Mollison frames pioneer species as **manurial crops**—plants grown specifically to prepare the site for the desired forest species. Just as a farmer might grow a [[cover-crop]] of legumes before planting corn, the permaculture designer uses pioneers to build soil fertility, modify microclimate, suppress grass competition, and create the conditions under which valuable timber or food-producing species can then be established. The pioneers are eventually shaded out or harvested as the canopy closes.
 
 ## The Multinuclei Approach to Forest Establishment
 
@@ -113,3 +113,8 @@ Mollison synthesizes the practical techniques for successful tree establishment:
 3. **Work with expansion dynamics:** Forests want to expand; the designer's job is to establish the starting nuclei and remove barriers.
 4. **Minimal tools, maximum understanding:** The Teaspoons and Butter Knives story demonstrates that ecological knowledge matters more than equipment or capital.
 5. **Forest systems are interconnected:** Water, minerals, light, air quality, and soil form a web of relationships that the forest maintains. Restoring forest restores all of these simultaneously.
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[pioneer-species-for-land-reclamation]]

@@ -26,7 +26,7 @@ only a few seconds of either color being sufficient to toggle the state.
 
 ## Ecological Logic of Dusk and Dawn
 
-In nature, this toggle mechanism has clear [[lichen-biology-and-ecological-significance]]. The last light
+In nature, this toggle mechanism has clear [[lichen-biology-guide]]. The last light
 any plant perceives at the end of the day is dominated by far-red wavelengths, which
 tells the plant it should "turn off" its active phytochrome state. In the morning,
 the incoming sunlight is rich in red light, which activates phytochrome and signals

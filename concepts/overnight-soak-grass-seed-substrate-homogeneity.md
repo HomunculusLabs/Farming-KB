@@ -148,3 +148,8 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+- [[mushroom-substrates]]
+- [[psilocybin-mushroom-cultivation]]
+- [[sclerotia-cultivation]]

@@ -12,7 +12,7 @@ type: entity
 
 **Type:** Species
 **Category:** Nitrogen-fixing fodder shrub/tree
-**Also known as:** permaculture. In Western Australia alone, 50,000 hectares of
+**Also known as:** [[permaculture]]. In Western Australia alone, 50,000 hectares of
 marginal farmland have been planted to tagasaste, with an estimated 1.5
 million hectares that could benefit. It is a fast-growing, highly
 productive stock feed with exceptional [[det]] ails

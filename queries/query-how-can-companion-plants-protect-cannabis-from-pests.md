@@ -61,7 +61,6 @@ interference to light penetration and airflow around your cannabis canopy.
 - [[query-how-do-i-grow-lavender-and-what-are-its-uses]]
 - [[query-how-do-i-grow-perennial-vegetables-in-my-garden]]
 - [[query-how-do-i-grow-persimmons-and-which-variety-should-i-choose]]
-- [[query-how-do-i-grow-tomatoes-organically]]
 - [[query-how-do-i-identify-and-control-whiteflies-on-cannabis]]
 - [[query-how-do-i-make-a-johnson-su-bioreactor]]
 - [[query-how-do-i-make-koji-at-home-for-beginners]]

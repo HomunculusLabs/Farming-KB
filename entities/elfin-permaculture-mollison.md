@@ -59,3 +59,4 @@ Elfin Permaculture is a permaculture design and education organization founded b
 
 - [[bill-mollison]] — course originator
 - [[masanobu-fukuoka]] — related permaculture figure
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

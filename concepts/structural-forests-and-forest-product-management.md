@@ -16,7 +16,7 @@ Australian builders have demonstrated that an entire house framework can be cons
 
 ## Black Locust: The Premier Structural Tree
 
-Black locust (*Robinia pseudoacacia*) stands as perhaps the most valuable structural tree in North America:
+Black locust (*[[robinia-pseudoacacia]]*) stands as perhaps the most valuable structural tree in North America:
 
 - **Durability**: Posts have been documented lasting 90-100 years while still near maximum strength
 - **Impact strength**: The highest of any timber known — it is the traditional mallet head wood
@@ -120,3 +120,8 @@ The highest priority in any forest is removing fallen trunks from contact with l
 ### Wild Rose Hedges and Livestock
 
 Wild rose hedges serve as effective livestock barriers while producing rose hips for vitamin C. Geese can be trained to run along wild rose hedges for pest control, creating an additional productive interaction.
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[structural-forests-permaculture]]

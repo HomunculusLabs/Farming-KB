@@ -75,10 +75,10 @@ Zone one is not separate from the house — it is an extension of it. The garden
 
 ## See Also
 
-- [[[permaculture-zone-planning-guide]]]([[permaculture-zone-planning-guide]].md)
-- [[[permaculture-zones-and-sectors]]]([[permaculture-zones-and-sectors]].md)
-- [[[permaculture-zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
+- [[permaculture-zone-planning-guide]]
+- [[permaculture-zones-and-sectors]]
+- [[zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
 - [Mollison PDC Zone One Vegetable Bed Design](mollison-pdc-zone-one-vegetable-bed-design.md)
 - [Permaculture Zone 0 House Design](permaculture-zone-0-house-design.md)
-- [[[permaculture-zones-in-practice]]]([[permaculture-zones-in-practice]].md)
+- [[permaculture-zones-in-practice]]
 - [Mulch Gardening Critique](mulch-gardening-critique.md)

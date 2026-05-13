@@ -26,7 +26,7 @@ The approach involves raising trees in optimal nursery conditions while simultan
 
 ### Slowgrove's Nursery Kit Approach
 
-Slowgrove developed a portable nursery kit system designed for community-scale food forest establishment. For a 4,000-acre community project, the approach is to start the nursery running first while ground preparation proceeds. The entire nursery kit fits on the back of a truck and includes drip lines, sprinklers, and shade house infrastructure.
+Slowgrove developed a portable nursery kit system designed for community-scale [[food-forest-establishment]]. For a 4,000-acre community project, the approach is to start the nursery running first while ground preparation proceeds. The entire nursery kit fits on the back of a truck and includes drip lines, sprinklers, and shade house infrastructure.
 
 This system was adapted for use with Aboriginal communities in central Australia. A trained tribal nurseryman travels with the group to outstations, setting up the complete nursery at camp. Propagation begins with simple techniques:
 
@@ -54,7 +54,7 @@ The design process involves establishing structural timber as a core, then thinn
 
 ### Tropical vs. Temperate Considerations
 
-Tropical forests offer advantages for food forest design because stem-bearing species like cocoa and palms are naturally crown-bearing within the canopy. Temperate forests require more careful positioning, though oaks bear quite well within the canopy and can serve dual roles as forage and structural timber.
+Tropical forests offer advantages for [[food-forest-design]] because stem-bearing species like cocoa and palms are naturally crown-bearing within the canopy. Temperate forests require more careful positioning, though oaks bear quite well within the canopy and can serve dual roles as forage and structural timber.
 
 ### The Fig-Grape Combination
 
@@ -107,3 +107,8 @@ The large nut trees (hickories, pecans, walnuts — *Juglans*, meaning "balls of
 - **Mulberry**: Stands directly against nut trees with no crop loss, and against fruit trees without impairment
 - **Elderberry**: Snuggles up to both nut and fruit tree groups
 - **Black locust**: Another effective buffering species
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[permaculture-designers-manual-plant-nursery]]

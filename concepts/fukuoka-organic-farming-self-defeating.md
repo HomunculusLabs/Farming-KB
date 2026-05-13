@@ -2,7 +2,7 @@
 title: "Fukuoka's [[fukuoka-critique-of-organic-farming]] Farming as Self-Defeating"
 source: "The Road Back to Nature by Masanobu Fukuoka (1987)"
 source_chapter: "Chapter 6: Seeding a Real Green Revolution"
-source_section: "[[eliot-coleman-deep-organic-farming-and-winter-harvest]] Ecology Are Self-Defeating"
+source_section: "[[eliot-coleman]] Ecology Are Self-Defeating"
 topic_tags:
   - natural-farming
   - organic-farming
@@ -124,7 +124,7 @@ those techniques unnecessary. The techniques become just another set of inputs.
 
 ## Relevance to Modern Movements
 
-Fukuoka's critique remains relevant to permaculture and [[biochar-in-regenerative-agriculture]].
+Fukuoka's critique remains relevant to permaculture and [[biochar]].
 While sharing his ecological commitments, many practitioners fall into the same
 patterns — elaborate composting, intensive soil management, complex planting
 schemes requiring ongoing intervention. The most thoughtful elements of

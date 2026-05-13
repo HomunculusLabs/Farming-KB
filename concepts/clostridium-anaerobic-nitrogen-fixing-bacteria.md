@@ -4,7 +4,8 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [soil-microbiology, nitrogen-fixation, anaerobic-bacteria, soil-anaerobe]
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 
 # Clostridium — Anaerobic Nitrogen-Fixing Bacteria

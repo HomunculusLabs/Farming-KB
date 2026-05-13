@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Forests exert profound and complex influences on the atmosphere, rainfall, wind, humidity, temperature, and the entire hydrological cycle. Bill Mollison described these interactions as "very, very complicated — not simple," emphasizing that the full scope of forest-atmosphere dynamics is still poorly understood by science. What is clear, however, is that forests are among the most powerful regulators of climate and water on Earth, and their removal has catastrophic consequences that extend far beyond the loss of trees themselves.
+Forests exert profound and complex influences on the atmosphere, rainfall, wind, humidity, temperature, and the entire hydrological cycle. [[bill-mollison]] described these interactions as "very, very complicated — not simple," emphasizing that the full scope of forest-atmosphere dynamics is still poorly understood by science. What is clear, however, is that forests are among the most powerful regulators of climate and water on Earth, and their removal has catastrophic consequences that extend far beyond the loss of trees themselves.
 
 ## Wind and the Forest
 
@@ -154,7 +154,7 @@ Two elderly women near Sydney re-established 1,500 acres of native Australian bu
 5. **Expand outward**: Work from the perimeter of established nuclei — the ecology helps itself expand
 6. **Begin where desired species already exist**: Start with remaining patches of natives
 
-The same approach was used by Marjorie Spear (over 80 years old) in reverse — she expanded an exotic food forest into degraded native forest using densely planted nuclei.
+The same approach was used by Marjorie Spear (over 80 years old) in reverse — she expanded an exotic [[food-forest]] into degraded native forest using densely planted nuclei.
 
 ### Pioneer Species
 
@@ -169,3 +169,8 @@ The strategy is to run pioneer species across land while planning for the desire
 ### Nutrient Amendments
 
 In sandy soils, basic nutrients may need to be added — particularly on acid or alkaline soils. Superphosphate in sands and dunes can produce three to four times normal growth rates from a single handful per tree, though additional superphosphate provides no further benefit. In general, pH adjustment is more often the issue than missing elements — except in sands, where zinc, iron, and other minerals are locked up by high calcium.
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[structural-forests-permaculture]]

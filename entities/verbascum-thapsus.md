@@ -148,3 +148,5 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+- [[permaculture-designers-manual-cold-climate-design]]
+- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]

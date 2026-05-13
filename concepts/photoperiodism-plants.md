@@ -47,7 +47,7 @@ shortening their exposure to light.
 
 The results were dramatic. The plants left outside in the long days of
 summer continued their relentless [[coleman-persephone-months-winter-day-length]] controls flowering.
-They named this phenomenon photoperiodism, and it provided the first
+They named this phenomenon [[photoperiodism]], and it provided the first
 strong evidence that plants actively measure how much light they take
 in. Photoperiodism was not a passive response to light intensity or
 temperature — it was a precise measurement of the duration of light.

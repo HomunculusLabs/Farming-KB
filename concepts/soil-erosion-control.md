@@ -58,7 +58,7 @@ A = R x K x LS x C x P
 1. Any exposed soil is vulnerable to erosion
 2. Erosion increases exponentially with slope steepness and length
 3. Vegetation cover is the single most effective erosion control measure
-4. [[humus-and-soil-organic-matter]] and aggregation dramatically reduce erodibility
+4. [[humus]] and aggregation dramatically reduce erodibility
 5. Concentrated water flow is far more erosive than sheet flow
 
 ## Vegetative Control Measures
@@ -101,7 +101,7 @@ Swales are shallow channels on contour that slow, spread, and sink runoff:
 - Intercept runoff before it concentrates and erodes
 - Allow water to infiltrate into the soil, recharging groundwater
 - Can be planted with grasses, shrubs, or trees
-- See [[swale-design-construction|swales]] for detailed [[farm-pond-design-and-construction]] guidance
+- See [[swale-design-construction|swales]] for detailed [[pond-design-and-construction]] guidance
 
 ### Diversion Structures
 - **Diversions**: Channels that divert water away from vulnerable areas to safe discharge points

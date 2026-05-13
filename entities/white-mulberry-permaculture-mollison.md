@@ -49,3 +49,7 @@ Bill Mollison, *Permaculture Design Course Pamphlet IX — Permaculture Techniqu
 - Hawthorn (winter forage)
 - Comfrey (summer greens forage)
 - Chicken forage systems in permaculture
+
+- [[permaculture-zone-two-orchard-and-animal-systems]]
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]

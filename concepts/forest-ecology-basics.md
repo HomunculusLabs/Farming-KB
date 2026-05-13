@@ -30,7 +30,7 @@ Composed of woody plants under 15-20 feet. This layer includes berry-producing s
 Non-woody plants including ferns, wildflowers, and grasses. This layer is most diverse in spring before canopy leaf-out creates deep shade. Many spring ephemerals complete their entire life cycle in this brief window.
 
 ### Forest Floor and Litter Layer
-The ground layer includes leaf litter, downed wood, and [[humus-and-soil-organic-matter]]. This zone hosts the majority of forest [[fungal-decomposition|decomposition]] [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]. Fungal networks ([[mycorrhizal-types|mycorrhizae]]) are concentrated here, connecting trees and facilitating nutrient exchange.
+The ground layer includes leaf litter, downed wood, and [[humus]]. This zone hosts the majority of forest [[fungal-decomposition|decomposition]] [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]. Fungal networks ([[mycorrhizal-types|mycorrhizae]]) are concentrated here, connecting trees and facilitating nutrient exchange.
 
 ### Root Zone
 Below ground, root systems create a complex network. Most tree roots are in the top 2-3 feet of soil, though taproots can extend much deeper. The root zone is the primary interface between plants and soil [[fungal-biology-fundamentals|biology]].

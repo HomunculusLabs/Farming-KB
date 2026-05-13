@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-GMO, also known as "Garlic Cookies" or "GMO Cookies," is a highly potent indica-dominant [[girl-scout-cookies]] (GSC) with Chemdawg. Bred by Mamiko Seeds and popularized by Divine Genetics, it has become one of the most sought-after strains of the 2020s for its exceptionally high THC content, unique savory pungent aroma, and deeply relaxing body effects. The "GMO" name stands for "Garlic, Mushroom, Onion" — a reference to its complex umami-forward [[cannabis-glandular-trichome-types-resin-production-clarke]]; indica body effects |
+GMO, also known as "Garlic Cookies" or "[[gmo-cookies]]," is a highly potent indica-dominant [[girl-scout-cookies]] (GSC) with Chemdawg. Bred by Mamiko Seeds and popularized by Divine Genetics, it has become one of the most sought-after strains of the 2020s for its exceptionally high THC content, unique savory pungent aroma, and deeply relaxing body effects. The "GMO" name stands for "Garlic, Mushroom, Onion" — a reference to its complex umami-forward [[cannabis-glandular-trichome-types-resin-production-clarke]]; indica body effects |
 | **Chemdawg** | Balanced hybrid (Nigerian × Thai landrace × Chemdog lineage) | Diesel, chemical pungency; potency; complex terpene depth |
 
 - **Genetic ratio:** Approximately 90% indica / 10% sativa

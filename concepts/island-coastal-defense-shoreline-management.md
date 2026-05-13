@@ -189,34 +189,11 @@ Islands often start from a sterile environment:
 The horse-radish tree (Moringa) is recommended for island gardens:
 
 - Edible **leaves, flowers, and pods**
-- Functions as a **vegetable hedge**
-- Grows to 20-30 feet tall
-- Provides continuous harvestable green vegetable material
 
 ## Water Balance Management
 
 ### The Freshwater Threat
-- Excessive water use draws down the freshwater lens, allowing **saltwater intrusion**
-- This is first signified by the **death of trees** from salt effects
-- Pollutants from septic systems create a **reverse flow** toward the island center
-- Beaches become unusable when too many people occupy an island — pollutants appear in the sparkling green waters
 
 ### Design Responses
-- **Minimal water use** — recommend conservative consumption
-- **Maximum surface storage** — maintain potential surface storage at all times
-- **Peripheral settlement** — houses on the periphery, water drawn from the center
-- **Dry toilets** — prevent contamination of the freshwater lens
-- **Careful septic placement** — only at the island perimeter if absolutely necessary
 
 ## Key Design Principles
-
-1. **Never clear coastline vegetation** without engineered alternatives in place
-2. **Build defense in successive lines** — ocean-front species, then tall canopy, then productive species
-3. **Match species to salt tolerance** — position sensitive species well behind the front line
-4. **Orient airstrips at angles to wind** and contain them within vegetation
-5. **Encourage mangroves** — they build land, support fisheries, and protect shorelines
-6. **Import soil biology** — islands may be sterile; bring worms, compost, and soil associates
-7. **Manage water conservatively** — the freshwater lens is finite and easily contaminated
-8. **Settle on the periphery** — protect central freshwater from waste
-9. **Use mulch-producing species** as front-line defense — they protect while [[building-soil]]
-10. **Think in terms of habitat similarity** — desert and coastal island environments share more in common than is generally recognized

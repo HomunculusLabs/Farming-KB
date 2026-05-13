@@ -55,7 +55,7 @@ About 60% of inland rain falls from forest-generated clouds, not sea clouds. Whi
 ## Water Storage and Movement
 
 ### The Forest as a Water Mass
-Eighty-six percent of a forest's mass is water. Ninety-six percent of leaves and twigs are water. This represents an enormous weight on the Earth's surface — effectively, forests are vast vertical water storage tanks.
+Eighty-six percent of a forest's mass is water. Ninety-six percent of leaves and twigs are water. This represents an enormous weight on the Earth's surface — effectively, forests are vast vertical [[water-storage-tanks]].
 
 ### Rainfall Interception by Canopy
 - **Light rain**: The canopy may absorb 100% of rainfall — roads under trees stay dry in light rain
@@ -95,3 +95,8 @@ Forests represent enormous water masses. Loading and unloading this mass through
 ## The Critical Conclusion
 
 Bill Mollison states with certainty: **By the removal of ridge forests alone, we can produce deserts in any climate. By the removal of forests alone, we can remove soils.** The removal of forests has been the main cause of the collapse of nations. When forests go, there is insufficient water, soil, or climate quality to sustain human life. The imperative is not to learn to live without forests, but to learn to live with them.
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[structural-forests-permaculture]]

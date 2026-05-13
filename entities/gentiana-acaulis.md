@@ -37,9 +37,15 @@ Propagation by seed requires cold stratification for 6–8 weeks at 0–4 °C. G
 
 ## See Also
 
-- [[gentiana-cachemirica]]
-- [[gentiana-linearis]]
-- [[gentiana-quinquefolia]]
+- [[gentiana-amarella]]
+- [[gentiana-angustifolia]]
+- [[gentiana-calycosa]]
+- [[gentiana-ochroleuca]]
+- [[gentiana-parryi]]
+- [[gentiana-purpurea]]
+- [[gentiana-siphonantha]]
+- [[gentiana-thunbergii]]
+- [[gentiana-vernayi]]
 
 ## Overview
 

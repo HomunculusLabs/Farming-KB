@@ -49,3 +49,7 @@ Bill Mollison, *Permaculture Design Course Pamphlet IX — Permaculture Techniqu
 - Sheet mulching
 - No-dig gardening
 - Zone one garden design
+
+- [[permaculture-zone-one-design]]
+- [[mollison-designers-community-garden-design-urban-permaculture]]
+- [[mollison-permaculture-design-course-curriculum]]

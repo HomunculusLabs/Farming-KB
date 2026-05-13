@@ -73,7 +73,7 @@ Proper timing of calcium phosphate application during this narrow window improve
 
 **Ginger-garlic extract** serves as a broad-spectrum natural antibiotic and fungicide for both plants and animals. Garlic's high **sulfur content** gives it potent antifungal properties, while ginger contributes additional antimicrobial and medicinal compounds.
 
-The original [[korean-natural-farming-and-jadam]] recipe incorporates Chinese herbs (*Angelica acutiloba, [[glycyrrhiza-uralensis]], Cinnamomum loureirii*) valued for their digestive benefits, but a simplified version uses only equal parts ginger and garlic:
+The original [[korean-natural-farming]] recipe incorporates Chinese herbs (*Angelica acutiloba, [[glycyrrhiza-uralensis]], Cinnamomum loureirii*) valued for their digestive benefits, but a simplified version uses only equal parts ginger and garlic:
 
 1. **Chop** ginger and garlic into small pieces.
 2. **Soak** in **beer or wine** for 12 hours (overnight) to begin extracting active compounds.

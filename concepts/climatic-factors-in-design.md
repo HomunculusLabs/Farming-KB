@@ -61,7 +61,7 @@ climatic character.
 
 The Holdridge system uses a three-axis matrix relating precipitation, temperature,
 and potential evapotranspiration to define plant climatic keys. It is particularly
-useful for [[bill-mollison-permaculture-designers-manual]] because it directly links climate parameters to
+useful for [[bill-mollison]] because it directly links climate parameters to
 vegetation types and potential biological productivity.
 
 ## Broad Climatic Zone Groupings

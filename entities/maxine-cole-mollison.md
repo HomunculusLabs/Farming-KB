@@ -76,4 +76,4 @@ published literature on sustainable systems, and community networks.
 ## Contemporary Relevance
 These concepts remain highly relevant to modern sustainability discourse
 and ecological design practice. Their integration into contemporary
-permaculture and [[biochar-in-regenerative-agriculture]] frameworks continues to evolve.
+permaculture and [[biochar]] frameworks continues to evolve.

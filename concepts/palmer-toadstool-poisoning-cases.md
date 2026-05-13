@@ -72,7 +72,7 @@ different from those of Asiatic cholera."
 known. When young they could be eaten safely, but when old they had
 been burnt to stupefy bees, and surgical operations had been
 performed on patients under their influence. This complicated the
-Chelsea case, since the stew mixed puffballs with Amanita for
+Chelsea case, since the stew mixed puffballs with [[amanita]] for
 twelve hours before consumption.
 
 ## The Farris Family Case (Shenandoah, 1885)

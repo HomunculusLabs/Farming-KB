@@ -98,7 +98,7 @@ the [[holzer-permaculture-landscape-design]]. Money functions as the transport a
 value from where it is generated to where it is spent, and its flow patterns determine which
 activities are nourished and which wither.
 
-Just as [[bill-mollison-permaculture-designers-manual]] shape water flows through swales, dams, and keyline systems
+Just as [[bill-mollison]] shape water flows through swales, dams, and keyline systems
 to maximize retention, communities must shape monetary flows to prevent leakage and ensure
 wealth circulates locally. When money flows outward — paying distant corporations, importing
 locally-producible goods, or servicing external debt — it drains the community's economic

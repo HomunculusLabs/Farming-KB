@@ -35,9 +35,11 @@ Understanding the range of possible applications helps practitioners
 identify opportunities for implementation in their own contexts.
 
 ## See Also
-- [[mollison-designers-trout-and-cool-water-aquaculture-species]]
-- [[permaculture-aquaculture-guide]]
-- [[holzer-aquaculture-fish-farming]]
+
+- [[tidal-aquaculture-and-salt-marsh-systems]]
+- [[tidal-aquaculture-marsh-systems]]
+- [[tidal-aquaculture-systems]]
+- [[tidal-marine-aquaculture]]
 
 ## Overview
 

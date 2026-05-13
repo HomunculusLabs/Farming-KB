@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-
 ## See Also
 
 - [[permaculture-fruit-tree-guide]]
-- aquatic plants and pond ecosystems
+- [[aquatic-plants-and-pond-ecosystems]]
 - [[permaculture-salt-tolerant-fodder-plants]]
 ## Practical Applications
 

@@ -35,7 +35,7 @@ Deep soil preparation following keyline principles:
 1. **Product increase:** Deeper root penetration accesses more nutrients and moisture
 2. **Zero runoff:** Water infiltration through absorption, eliminating wasteful surface flow
 3. **Microclimate buffering:** Improved soil structure moderates [[mushroom-growing-temperature-and-moisture]] fluctuations
-4. **Nutrient supply:** Decomposition of [[humus-and-soil-organic-matter]] releases essential elements
+4. **Nutrient supply:** Decomposition of [[humus]] releases essential elements
 
 ## Forestry and Tree Systems (20–30% of Landscape)
 

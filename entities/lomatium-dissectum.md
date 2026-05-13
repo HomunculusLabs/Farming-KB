@@ -21,7 +21,7 @@ tags:
 ## Overview
 
 **Lomatium dissectum** is a perennial herbaceous plant in the carrot family
-(Apiaceae), native to western dmt-containing-plants-united-states-halpern used L. dissectum
+(Apiaceae), native to western [[dmt]]-containing-plants-united-states-halpern used L. dissectum
 extensively. The Northern Paiute, Shoshone, Washoe, and Nez Perce
 prepared the root as a decoction or poultice for respiratory ailments.
 The root was chewed raw for sore throat, boiled into tea for colds,
@@ -54,7 +54,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Lomatium Dissectum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

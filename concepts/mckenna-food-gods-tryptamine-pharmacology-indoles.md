@@ -16,7 +16,7 @@ In the closing sections of *Food of the Gods*, [[mckenna-food-gods-tryptamine-di
 - [[mckenna-food-gods-designer-states-of-consciousness]]
 ## Practical Applications
 
-tryptamine Pharmacology and the Case for Indoles in Food of the Gods has a range of practical applications that make it relevant to
+[[tryptamine]] Pharmacology and the Case for Indoles in Food of the Gods has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

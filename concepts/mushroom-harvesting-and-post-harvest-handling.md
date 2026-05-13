@@ -23,7 +23,7 @@ premium products. For [[query-what-are-the-main-bioactive-compounds-in-medicinal
 The optimal harvest window varies by species and market requirements.
 Key indicators of harvest maturity:
 
-- **Oyster mushrooms (Pleurotus spp.)**: Harvest when the cap margin
+- **[[oyster-mushrooms]] (Pleurotus spp.)**: Harvest when the cap margin
   begins to flatten from convex to plane, typically 3-5 days after
   pinning. Waiting too long results in dry, tough textures and massive
   spore release.

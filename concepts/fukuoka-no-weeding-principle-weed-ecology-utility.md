@@ -75,7 +75,7 @@ Rather than engaging in an endless battle of manual removal, the farmer can harn
 
 - The no-weeding principle reframes weeds as ecological information.
 - It treats plant diversity as a source of fertility and resilience.
-- It uses [[cover-crops-and-green-manures]] succession to guide fields instead of repeatedly clearing them.
+- It uses [[cover-crops]] succession to guide fields instead of repeatedly clearing them.
 - It protects soil from erosion and biological decline.
 - It also reduces labor by replacing constant removal with system design.
 - In Fukuoka's view, the mature field is not weed-free.

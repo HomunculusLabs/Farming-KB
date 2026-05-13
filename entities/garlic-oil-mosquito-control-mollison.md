@@ -45,3 +45,7 @@ Bill Mollison, *Permaculture Design Course Pamphlet IX — Permaculture Techniqu
 - Frog ponds in permaculture
 - Biological pest control
 - Zone one garden design
+
+- [[mosquito-control-pond-mollison]]
+- [[mollison-course-aquatic-plant-systems-ponds]]
+- [[mollison-designers-community-garden-design-urban-permaculture]]

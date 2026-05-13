@@ -66,10 +66,14 @@ The compound gained significant popularity in the  community during [[mushroom-t
 
 ## See Also
 
-- [[2c-n-entity-pihkal]]
-- [[2c-se-entity-pihkal]]
-- [[2c-t-21-entity-pihkal]]
-- [[2c-t-8-entity-pihkal]]
+- [[2c-b-erotic-empathogen]]
+- [[2c-f-entity]]
+- [[2c-f-entity-pihkal]]
+- [[2c-g-3-entity-pihkal]]
+- [[2c-g-n-entity]]
+- [[2c-h-entity]]
+- [[2c-n-entity]]
+- [[2c-se-entity]]
 
 ## Overview
 

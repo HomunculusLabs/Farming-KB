@@ -65,3 +65,4 @@ Mollison notes that Geoff Wallace applies this pattern deliberately, having "com
 
 - [[geoff-wallace]] — practitioner of this succession technique
 - [[chicken-forage-system-mollison]] — another integrated animal-plant system
+- [[coppice-and-pollard-systems]]

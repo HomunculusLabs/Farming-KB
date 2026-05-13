@@ -47,3 +47,7 @@ Bill Mollison, *Permaculture Design Course Pamphlet IX — Permaculture Techniqu
 - White mulberry (chicken forage)
 - Siberian pea tree (drought forage)
 - Black locust (fence post / nitrogen fixer)
+
+- [[permaculture-zone-two-orchard-and-animal-systems]]
+- [[nitrogen-fixing-plants-in-permaculture]]
+- [[caragana-arborescens]]

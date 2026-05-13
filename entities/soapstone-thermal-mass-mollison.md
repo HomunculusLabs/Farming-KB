@@ -43,3 +43,4 @@ Mollison contrasts soapstone thermal mass with expensive metal solar collectors 
 
 - [[sheet-mulching]] - another low-tech permaculture technique
 - [[titanium-oxide-nitrogen-fixation-mollison]] - another Mollison invention
+- [[mollison-designers-passive-solar-heating-building-design]]

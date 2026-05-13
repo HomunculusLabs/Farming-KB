@@ -148,3 +148,5 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
+- [[permaculture-functional-design-integration]]
+- [[water-permaculture-global-local-strategies]]

@@ -108,3 +108,14 @@ For existing houses, Mollison emphasises that retrofits are cost-effective:
 - [[permaculture-fire-management]] -- fire-resistant house design
 - [[permaculture-temperate-design-strategies]] -- climate-specific approaches
 - [[permaculture-waste-management]] -- waste recycling within Zone 0
+
+## See Also
+
+- [[permaculture-zone-design-comparison]]
+- [[permaculture-zone-one-design]]
+- [[permaculture-zone-one-garden-design]]
+- [[permaculture-zone-one-zone-two-design]]
+- [[permaculture-zone-three-extrinsic-energies]]
+- [[permaculture-zone-three-wildlife-integration]]
+- [[permaculture-zone-two-and-three-design]]
+- [[permaculture-zone-two-orchard-and-animal-systems]]

@@ -14,7 +14,7 @@ The establishment of productive food forests depends heavily on modern nursery t
 
 A nursery is fundamentally a sheltered, ideal environment for getting plants started. While trees are growing in the nursery, the land they will eventually occupy can be cropped and used for other purposes, potentially even being manured in preparation. Modern nurserymen using adjusted shade and nutrient regimes can achieve four to five times the growth rates of old open-bed nursery conditions. Revolutionary techniques now include cloning by root tip and single-cell generation of plants.
 
-The permaculture approach predicates reduced fuel consumption for cooking, since most food forest crops are non-cook foods. In Mollison's view, there is no reason for using fuels for much of anything if food forests are properly established. This has profound implications for tropical island nations where cooking rice requires cutting trees for fuel, creating a destructive cycle of deforestation.
+The permaculture approach predicates reduced fuel consumption for cooking, since most [[food-forest]] crops are non-cook foods. In Mollison's view, there is no reason for using fuels for much of anything if food forests are properly established. This has profound implications for tropical island nations where cooking rice requires cutting trees for fuel, creating a destructive cycle of deforestation.
 
 ## Slowgrove's Approach and Nursery Kits
 
@@ -71,7 +71,7 @@ Large nut trees (hickories, pecans, walnuts — the *Juglans* genus) produce roo
 
 About a decade before Mollison's lecture, investors bought an overcrowded island and planted it with black walnut as a veneer trade investment. The walnuts began producing, and some proved excellent. The investors began freeing the best selections and found themselves making substantial income from crushed nuts — they never even bothered with the veneer trade.
 
-This illustrates the principle that a graded approach to food forest establishment doesn't take as long as one might expect: plant densely, select for early bearing and desirable characteristics, gradually thin to leave the best individuals, then allow crown development.
+This illustrates the principle that a graded approach to [[food-forest-establishment]] doesn't take as long as one might expect: plant densely, select for early bearing and desirable characteristics, gradually thin to leave the best individuals, then allow crown development.
 
 ## Planting for Selection
 
@@ -93,3 +93,8 @@ The ideal sequence for establishing a food forest through selection:
 - **Tree combinations reduce labor**: Fig-grape, walnut-grape, and other pairings eliminate pruning needs
 - **Buffer species enable diversity**: Juglone-producing nut trees can coexist with fruits when properly buffered
 - **Non-cook foods reduce fuel dependency**: Avocados, nuts, and fruits eliminate the need for cooking fuel
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[permaculture-designers-manual-plant-nursery]]

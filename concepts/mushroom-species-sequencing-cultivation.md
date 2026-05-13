@@ -1,6 +1,6 @@
 ---
 title: Mushroom Species Sequencing Cultivation
-source: "Growing Gourmet and [[cancer-medicinal-mushrooms]] (Stamets)"
+source: "Growing Gourmet and [[medicinal-mushrooms]] (Stamets)"
 tags: [mycology, mushroom-cultivation, substrate, species-sequencing, sustainability]
 created: 2026-05-09
 ---

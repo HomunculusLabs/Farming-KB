@@ -181,58 +181,15 @@ Mangroves are perhaps the highest biomass turnover system of any on Earth:
 - **Genera**: Sonnerata, Rhizopodia, Aegiceras, Nipa, Avicenna (reaches latitude 40)
 - **Nipa palms** are true mangroves
 - All have twisty stems and leathery leaves, standing in quiet tidal waters
-- They lay thick leaf mulch in the sea among their roots, creating rich loose mud
-- The whole food chain starts within mangrove systems — shrimp, anthropods, diatoms
-- **Aegiceras** is a superb honey plant, responsible for most tropical honey
-- Mangrove jacks and specific fish are associated with mangrove stands
-- The system is responsible for most offshore shrimp fisheries
 
 ### Mangrove Products
-- Useful fruits (some edible if not delicious)
-- Honey yields (Aegiceras)
-- Durable woods and timbers
-- Stem products
 
 ### Degradation
-Mangroves are everywhere being degraded, filled in, drained, and chopped. When they are removed, people get washed away — then wonder why fish are getting scarce.
 
 ### Island Extension
-Mangroves can carry an island out into the lagoon:
-- Place mangroves along raised barriers made from logs and sand
-- These form fish-trap enclosures that may increase fish populations
-- The mangrove root systems build land outward
 
 ## Island Soil Biology
 
-Starting from a potentially sterile environment:
-
-- **Bring in worms** — they may not be present
-- **Bring a handful of compost** — introduce bacterial, fungal, and algal forms
-- **Bring soil with each plant** — plants have soil associates
-- **Nitrogen-fixing bacteria** for legumes may not be present
-- Some tree varieties won't grow from seed unless started in their own soil
-- Many **island legumes** are available — vines, ground vines, small trees, and tall trees
-- The **horse-radish tree (Moringa)** provides edible leaves, flowers, and pods as a vegetable hedge growing 20-30 feet tall
-
 ## Animal Integration
 
-Islands can support a variety of useful animals:
-
-- **Giant tortoises**: Excellent lawn mowers, convert table scraps to fertilizer, clean up fallen coconuts
-- **Land crabs**: Compost shredders and insectivores, consume wood beetle larvae, reduce infestation
-- **Pigs**: Useful and fairly easily controlled
-- **Ducks**: Do well in island systems
-- **Chickens**: Standard integration
-
 ## Key Design Principles
-
-1. **Protect the freshwater lens** — it is the island's most precious and fragile resource
-2. **Break the platen permanently** — use living tree roots, not one-time mechanical breaking
-3. **Use wick-drip systems** — never sprinklers on coral atolls
-4. **Settle on the periphery** — keep waste away from central freshwater
-5. **Maximize surface water storage** — every roof, every pond, every tank counts
-6. **Preserve coastline vegetation** — it is your primary erosion defense
-7. **Encourage mangroves** — they build land, support fisheries, and cycle nutrients
-8. **Introduce soil biology** — bring worms, compost, and soil associates with every plant
-9. **Think about nitrogen** — plant legume species throughout the system
-10. **Use every linear foot efficiently** — in ring gardens, maximize row crop per drip point

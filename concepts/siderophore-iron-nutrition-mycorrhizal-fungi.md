@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Mycorrhizal fungi produce specialized iron-chelating compounds called
+[[mycorrhizal-fungi]] produce specialized iron-chelating compounds called
 siderophores to acquire iron from soil environments where this essential
 nutrient is often poorly available. Research across the major mycorrhizal
 types has revealed distinct siderophore profiles: [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
@@ -66,7 +66,7 @@ solution and potentially transfer it to their host trees.
 
 Phialocephala fortinii, a widespread dark septate root endophyte,
 produces ferricrocin as its main siderophore. This finding is
-significant because dark septate endophytes occupy an ecological niche
+significant because [[dark-septate-endophytes]] occupy an ecological niche
 intermediate between pathogenic and mutualistic fungi, colonizing root
 cortical cells of diverse plant species in stressed environments. The
 production of ferricrocin by P. fortinii suggests that iron acquisition

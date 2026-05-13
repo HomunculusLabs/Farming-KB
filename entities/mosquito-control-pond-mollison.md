@@ -48,3 +48,4 @@ A biological mosquito control system designed around small garden ponds (4 feet 
 
 - [[azolla]] — nitrogen-fixing aquatic fern for ponds
 - [[comfrey]] — pond-edge companion plant
+- [[water-in-permaculture-ponds-and-aquatic-plants]]

@@ -6,7 +6,7 @@ type: concept
 
 # Forest Management Strategies
 
-Effective forest management in permaculture requires a multi-layered approach that values standing biomass, diversifies products, and maintains ecological function. Rather than single-purpose extraction, permaculture forestry aims to maximize the value derived from every acre while preserving the forest's capacity for regeneration, water management, and wildlife habitat.
+Effective forest management in permaculture requires a multi-layered approach that values standing biomass, diversifies products, and maintains ecological function. Rather than single-purpose extraction, permaculture forestry aims to maximize the value derived from every acre while preserving the forest's capacity for regeneration, [[water-management]], and wildlife habitat.
 
 ## Dry Distillation of Wood
 
@@ -117,3 +117,8 @@ At any time, the forest manager's priorities are:
 6. Continuously assess market values for all forest products
 
 The central principle: leave as much biomass in place as possible while extracting the smallest, highest-value products. A well-managed permaculture forest should keep the forester very busy year-round.
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[structural-forests-permaculture]]

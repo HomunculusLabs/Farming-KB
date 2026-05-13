@@ -48,8 +48,9 @@ In agroforestry, the species is planted for windbreaks, [[biodiversity-of-fungi-
 
 ## See Also
 
-- [[eucalyptus-obliqua]]
-- [[eucalyptus-sideroxylon]]
+- [[eucalyptus-diversicolor]]
+- [[eucalyptus-oil-mollison]]
+- [[eucalyptus-salmonophloia]]
 
 ## Overview
 

@@ -16,7 +16,7 @@ type: concept
 
 # Ergot Alkaloid Fungal Secondary Metabolites
 
-Ergot alkaloids are a structurally diverse group of indole-derived
+Ergot alkaloids are a structurally diverse group of [[indole]]-derived
 secondary metabolites produced primarily by fungi in the Clavicipitaceae
 family. These compounds have profoundly shaped human history through
 epidemics of ergotism, contributed to modern pharmaceutical development,

@@ -1,101 +1,132 @@
 ---
-title: "Laminar Flow Hood Construction"
-source: 2-laminar-flow-hood-construction.md
+title: Laminar Flow Hood Construction
+source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
 # Laminar Flow Hood Construction
 
-A laminar flow hood is an enclosed workspace designed to maintain a sterile environment by continuously passing filtered air across the work surface. It is essential for [[vermiculite-particle-size-water-retention-calibration-pf-tek]])
-2. **Airflow velocity** — must maintain approximately 0.5 m/s in the working area; too slow and contaminants can drift in, too fast and turbulence disrupts the laminar flow
+A laminar flow hood is the single most important investment for anyone serious about
+mushroom cultivation, tissue culture, or any work requiring a sterile environment. It
+provides a continuous stream of HEPA-filtered air across a work surface, creating a
+clean zone free of airborne contaminants such as mold spores and bacteria.
 
-## Flow Configurations
+## What Is a Laminar Flow Hood?
 
-Laminar flow hoods come in two configurations:
+A laminar flow hood is essentially a bench or small work surface surrounded by an open
+cabinet or hood equipped with a HEPA-filtered air supply. The unit pulls in ambient room
+air, passes it through a high-efficiency particulate air (HEPA) filter, and then blows
+the clean, filtered air in a smooth, unidirectional stream across the entire work
+surface. This constant outward flow of filtered air prevents ambient contamination from
+airborne microorganisms from entering the sterile work zone.
 
-### Horizontal Flow
+In home labs and small-scale commercial operations, a well-built laminar flow hood can
+handle round-the-clock air purification, enabling continuous sterile work sessions. Many
+experienced cultivators set up two laminar hoods side by side: one dedicated to cooling
+sterilized substrate containers and another used as the primary workspace for transfers,
+inoculations, and other sterile procedures. This separation further reduces cross-
+contamination risk and streamlines the workflow.
 
-Air moves from the back of the working area toward the front (the operator). This is the most common configuration for mycology and plant tissue culture work. The operator works with their hands between themselves and the sterile air stream.
+## Purchasing vs. Building
 
-### Vertical Flow
+Commercial prefabricated laminar flow hood kits are available, typically starting at
+$1,000 or more for small benchtop units that you screw together and plug in. While
+convenient, these prebuilt units carry a significant price premium and may not offer the
+customization needed for specific lab layouts or workflows.
 
-Air moves from the top of the working area downward, exiting through a perforated base. This configuration is preferred for applications where the product (not the operator) must remain in the sterile airstream, such as electronics manufacturing and some pharmaceutical compounding.
+Building your own laminar flow hood is a highly practical alternative. A high-quality
+DIY unit can be assembled for roughly $400, covering the cost of a HEPA filter and a
+blower or fan, plus wood for the enclosure, a work surface, and fasteners. The savings
+are substantial, and the builder gains intimate knowledge of the unit's construction,
+which is invaluable for maintenance and troubleshooting down the road.
 
-## Advantages Over the Steam Method
+## HEPA Filter Selection
 
-| Aspect | Steam Method | Laminar Flow Hood |
-|--------|-------------|-------------------|
-| Sterile area size | Limited | Ample |
-| Temperature | Hot (limits exposure time) | Room temperature (extended work sessions) |
-| Flask compatibility | Wide lids problematic | Accommodates wide-lid flasks |
-| Cost | Low | Higher (~€300) |
-| Space requirement | Minimal | Needs dedicated space |
-| Best for | Home propagation | High-volume or precision work |
+The heart of any laminar flow hood is the HEPA filter. Select a gasketed HEPA filter
+rated for 99.997% efficiency at 0.3 microns. The gasketing is critical because it
+allows a perfect seal between the filter and the enclosure, eliminating unfiltered air
+leakage around the filter edges. Without a proper gasket seal, even the best HEPA filter
+is compromised by unfiltered air bypassing it.
 
-## Sizing the Blower and Filter
+The preferred size for a full-size laminar flow hood is approximately 2 feet high by 3
+feet wide. This provides ample work surface area while remaining manageable in a home or
+small commercial lab setting. A smaller, separate laminar flow hood is also recommended
+for isolating wild specimens, molds, and sporulating cultures. Using a dedicated hood
+for dirty work protects the main filter from excessive spore loading and extends its
+service life.
 
-### Choosing the HEPA Filter
+## Blower/Fan Selection
 
-The HEPA filter should be selected based on:
+The air mover is the other critical component. A furnace-type "squirrel-cage" blower,
+readily available at most hardware stores, is the standard choice. These blowers move
+large volumes of air at moderate pressure, which is exactly what a HEPA filter demands.
+The blower must have the proper electrical rating for safe, reliable operation.
 
-- **Filtration class**: H14 per EN 1822 (removes 99.995% of particles ≥0.1 μm)
-- **Physical dimensions**: large enough to provide adequate working area. A common size is 305 mm × 610 mm × 78 mm
-- **Pressure drop**: typically around 150 Pa at 60% of nominal airflow
+Matching the blower's CFM (cubic feet per minute) output to the HEPA filter is
+essential. Too little force results in inadequate airflow that cannot maintain a sterile
+laminar stream across the work surface. Too much force can damage delicate tissues and
+create turbulent whirlwinds that actually pull contamination into the work area. The
+ideal commercial airflow rate is approximately 550 CFM, with an acceptable operating
+range of 100 to 600 CFM depending on the filter size and lab requirements.
 
-### Calculating Required Airflow
+## Building the Box
 
-The blower must deliver sufficient air volume at the pressure drop imposed by the filters. The calculation proceeds as follows:
+Construction begins with measuring the exact dimensions of the HEPA filter, as the box
+must fit the filter precisely. The box extends roughly 8 to 10 inches from the back of
+the filter and 18 to 24 inches from the front. The deeper front section serves as the
+primary work space, while the shallower back section houses the blower assembly.
 
-```
-Required air speed: 0.5 m/s
-Filter face area: 0.305 m × 0.61 m = 0.186 m²
+The blower is mounted through a cutout hole, usually on top of the box. In some designs,
+the blower sits in a separate box or plenum chamber that also holds a coarse prefilter
+to catch large dust particles before they reach the HEPA element. This prefilter
+dramatically extends HEPA life.
 
-Volumetric flow = area × velocity
-                = 0.186 m² × 0.5 m/s
-                = 0.093 m³/s
-                = 335 m³/h (× 3600 s/h)
-                ≈ 198 CFM (× 0.5886)
-```
+The work surface should be a stainless steel sheet or any comparable smooth,
+disinfectable surface. Old tabletops or salvaged commercial kitchen components can be
+converted for this purpose with good results. The HEPA filter is fastened using small
+bolts, wing nuts, and compression washers, which allow for easy removal and replacement.
+A removable lid design is strongly recommended because it lets you slip the filter out
+without disassembling the entire unit.
 
-### Unit Conversions
+With heavy daily use, expect to replace the HEPA filter annually. With a prefilter in
+place and moderate use, a HEPA can last 2 to 3 years before replacement is necessary.
 
-- 1 m³/h = 0.5886 CFM
-- 1 CFM = 1.699 m³/h
+## Box Materials and Sealing
 
-### Selecting the Blower
+The enclosure can be built from wood, scrap metal, galvanized steel, or any sturdy
+material that holds its shape. Whatever material is chosen, the interior must be
+impervious to water for easy cleaning and disinfection. Wood enclosures can be sealed
+with epoxy resin or covered with laminate to create a waterproof barrier.
 
-With the required airflow (335 m³/h) and pressure drop (~150 Pa for the HEPA plus ~10–20 Pa for the pre-filter), select a [[mycoremediation-bioreactor-design-considerations]]:
+All joints and seams must be sealed to create an airtight enclosure. Aluminum tape —
+the same HVAC ductwork tape used in heating and cooling installations — is strongly
+preferred over silicone caulk. Aluminum tape provides a more reliable, uniform seal and
+is easier to inspect and reapply if needed. Tape all joints and junctions between the
+box and the HEPA filter, extending the tape over the filter frame edges and along the
+entire inside perimeter of the enclosure.
 
-- **Top panel**: Transparent plexiglass to maximize light in the working area
-- **Sealed enclosure**: All joints must be airtight to prevent unfiltered air bypassing the HEPA filter
-- **HEPA filter mounting**: Gasket-sealed frame to ensure all air passes through the filter media
-- **Blower housing**: Located upstream of the pre-filter, securely mounted to minimize vibration
+## Testing for Air Leaks
 
-### Typical Bill of Materials
+Once construction is complete, turn on the blower and verify that adequate airflow is
+reaching the work surface. The definitive leak test uses a smoldering incense stick.
+Pass the smoldering end slowly along every seam, joint, and edge of the enclosure. If
+the smoldering end brightens or the smoke trail is drawn inward at any point, unfiltered
+air is being pulled in at that location, and the seal must be reinforced.
 
-| Component | Example | Cost |
-|-----------|---------|------|
-| Centrifugal blower | G2E140-AI28-01 | ~€114 |
-| Pre-filter pad | HS-E/360 | ~€15 |
-| HEPA filter | HS Mikro SF 305×610×78 mm | ~€131 |
-| Press boards / sheet material | 19 mm | ~€24 |
-| Hardware (screws, gaskets, etc.) | — | ~€20 |
-| **Total** | | **~€304** |
+Check the entire construction methodically — top, bottom, sides, back, and all filter
+frame edges. Even a small leak can compromise the sterile field, so thoroughness here
+pays dividends in every subsequent culture session.
 
-## Operating Procedure
+## Key Philosophy
 
-Proper use is critical to maintaining sterility:
+A laminar flow hood does not need to look pretty — it needs to work. The goal is
+functional sterility, not aesthetic refinement. You do not need an expensive prebuilt
+laminar flow hood to become a proficient tissue culturist. A simple, well-sealed box
+built from readily available materials, paired with a quality HEPA filter and an
+appropriately rated blower, will provide years of reliable sterile workflow.
 
-1. **Pre-run cleaning**: Turn on the blower and wipe the entire sterile working area with 70% isopropyl alcohol on clean kitchen paper
-2. **Purge period**: Let the blower run continuously for 30 minutes to flush any residual airborne contaminants
-3. **Second wipe**: After 30 minutes, repeat the alcohol wipe of the working surface
-4. **Work surface**: Use sterilizable tools (e.g., glass Petri dishes wiped with alcohol) for all manipulations
-
-### Best Practices
-
-- Never block the airflow path with objects
-- Work slowly and deliberately to minimize air turbulence
-- Keep hands downstream of (or at the same level as) the work materials in horizontal-flow hoods
-- Replace pre-filter pads regularly (monthly under heavy use)
-- HEPA filters typically last 3–5 years depending on use and ambient [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
-- [[mushroom-cultivation-equipment-sourcing-jarrold]]
+The emphasis on easy-to-remove components — wing nuts, compression washers, removable
+lids — ensures that maintenance is straightforward and that the unit can serve a lab for
+many years with minimal downtime. Invest the effort in proper sealing and component
+selection upfront, and the laminar flow hood will become the most dependable tool in the
+cultivation lab.

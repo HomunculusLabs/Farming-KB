@@ -11,12 +11,12 @@ sources:
 
 # Lactobacillus plantarum
 
-Lactobacillus plantarum (recently reclassified as Lactiplantibacillus
+[[lactobacillus]] plantarum (recently reclassified as Lactiplantibacillus
 plantarum) is a widespread Gram-positive, facultative heterofermentative
 lactic acid bacterium. It is one of the most versatile species in the genus
 Lactobacillus, found in a diverse range of ecological niches including the
 human gastrointestinal tract, fermented foods, soil, and plant material. It
-is one of the most extensively studied lactic acid bacteria due to its
+is one of the most extensively studied [[lactic-acid-bacteria]] due to its
 significant roles in food fermentation and its probiotic properties.
 
 ## Taxonomy and Classification

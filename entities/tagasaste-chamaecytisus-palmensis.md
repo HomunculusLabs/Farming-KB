@@ -11,7 +11,7 @@ sources: [knowledge]
 
 ## Overview
 
-Chamaecytisus palmensis, commonly known as tagasaste or tree lucerne, is a fast-growing
+[[chamaecytisus-palmensis]], commonly known as tagasaste or tree lucerne, is a fast-growing
 evergreen shrub or small tree in the family Fabaceae. Native to the arid volcanic
 slopes of the Canary Islands (particularly La Palma), it has been widely planted in
 Australia, New Zealand, and parts of Africa as a drought-resistant fodder tree and

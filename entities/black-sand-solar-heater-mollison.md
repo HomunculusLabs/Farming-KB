@@ -48,3 +48,4 @@ A passive solar water heating system invented by Bill Mollison, inspired by walk
 
 - [[soapstone-thermal-mass-mollison]] - thermal mass heating
 - [[titanium-oxide-nitrogen-fixation-mollison]] - another Mollison invention
+- [[mollison-designers-passive-solar-heating-building-design]]

@@ -6,7 +6,7 @@ type: concept
 
 # Structural Forests in Permaculture
 
-Structural forests are a cornerstone of permaculture design, providing timber, fencing, building materials, and forage through carefully selected pioneer and edge species. Unlike conventional forestry focused on saw logs, permaculture emphasizes round pole timber and coppice systems that yield continuous, diversified products while building soil and supporting livestock.
+Structural forests are a cornerstone of [[permaculture-design]], providing timber, fencing, building materials, and forage through carefully selected pioneer and edge species. Unlike conventional forestry focused on saw logs, permaculture emphasizes round pole timber and coppice systems that yield continuous, diversified products while [[building-soil]] and supporting livestock.
 
 ## Black Locust: The Premier Structural Tree
 
@@ -153,8 +153,6 @@ The key principle is that forest product uses should not conflict with wildlife 
 
 ## See Also
 
-- [[Food Forests]]
-- [[Forests and the Atmosphere]]
-- [[Pioneer Species and Nuclear Reforestation]]
-- [[Coppice Systems]]
-- [[Aquatic Plant Systems in Permaculture]]
+- [[structural-forest-design]]
+- [[structural-forest-management]]
+- [[structural-forests-and-forest-product-management]]

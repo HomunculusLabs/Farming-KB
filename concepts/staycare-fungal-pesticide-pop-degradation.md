@@ -15,7 +15,7 @@ Fungi possess unique capabilities for degrading pesticides and persistent organi
 - [[staycare-fungal-formulation-in-situ-bioremediation]]
 ## Practical Applications
 
-Fungal Degradation of Pesticides and Persistent Organic Pollutants has a range of practical applications that make it relevant to
+[[fungal-degradation-of-pesticides]] and Persistent Organic Pollutants has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

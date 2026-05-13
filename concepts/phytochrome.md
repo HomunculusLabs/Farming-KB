@@ -147,4 +147,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[phytochrome-distributed-leaf-perception-vs-localized-tip-phototropism]]
+- [[phytochrome-and-photoperiodism]]
+- [[phytochrome-photoperiodism-plant-flowering]]
+- [[phytochrome-plant-light-sensing]]

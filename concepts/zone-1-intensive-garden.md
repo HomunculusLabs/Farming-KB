@@ -50,8 +50,11 @@ Zone 1's proximity to the house creates unique microclimate opportunities. South
 
 ## See Also
 
-faires-garden-design-zone-1-layout
-- [[chicken-keeping-guide]]
+- [[zone-one-garden-design-permaculture]]
+- [[zone-one-intensive-garden-design]]
+- [[zone-two-and-zone-three-design-permaculture]]
+- [[zone-two-orchard-and-main-crops]]
+
 ## Practical Considerations
 
 Successful implementation of Zone 1 Intensive Garden requires attention to

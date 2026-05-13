@@ -27,7 +27,7 @@ of use.
 spade and the shovel do, but in one tool. The blade is somewhat pointed
 with a curved edge that is as effective as a spade for cutting into
 soil, but will move soil better than a spade. It can also scoop up and
-move loose materials like compost or sand.
+move loose materials like [[compost]] or sand.
 
 **The garden hoe:** The primary weeding and cultivation tool. Solomon
 emphasizes that a sharp hoe transforms weeding from exhausting labor

@@ -33,7 +33,7 @@ Without adequate [[agaricus-campestris]].
 
 ## Influence on American Cultivation
 
-In the [[urban-agriculture-and-rooftop-farming]] industrial mycology. At their peak around 1900, the
+In the [[urban-agriculture-organizations-and-networks]] industrial mycology. At their peak around 1900, the
 Paris mushroom caves produced an estimated 1,000 metric tons of mushrooms
 annually, making the city the world's largest single source of cultivated
 mushrooms.

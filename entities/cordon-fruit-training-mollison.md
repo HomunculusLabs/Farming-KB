@@ -46,3 +46,7 @@ Bill Mollison, *Permaculture Design Course Pamphlet IX — Permaculture Techniqu
 - Dwarf fruit trees in permaculture
 - Zone one garden design
 - Espalier techniques
+
+- [[permaculture-zone-two-orchard-and-animal-systems]]
+- [[mollison-designers-community-garden-design-urban-permaculture]]
+- [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]

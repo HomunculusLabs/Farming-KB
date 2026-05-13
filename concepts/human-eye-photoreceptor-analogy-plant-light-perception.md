@@ -148,3 +148,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
+
+- [[human-eye-plant-photoreceptor-comparative-analysis]]
+- [[human-retina-photoreceptors-vs-plant-light-perception]]
+- [[human-uses-fungi-history]]

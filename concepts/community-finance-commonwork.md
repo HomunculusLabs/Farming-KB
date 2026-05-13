@@ -14,7 +14,7 @@ Mollison is emphatic that money itself is not intrinsically evil. What is destru
 
 ### The Fragility of Fiscal Systems
 
-Conventional fiscal systems provide a false sense of security. Historical analysis shows that monetary systems tend to **collapse approximately every 40 years**, driven by cycles of inflation, speculation, and greed. These periodic crises devastate communities that have organized their livelihoods entirely around cash economies, while those with diversified, land-based, and community-based systems fare far better. The lesson for [[bill-mollison-permaculture-designers-manual]] is clear: build economic resilience through diversity of systems — [[local-currencies]], barter networks, mutual credit, and direct exchange — rather than dependence on a single fragile currency controlled by distant institutions.
+Conventional fiscal systems provide a false sense of security. Historical analysis shows that monetary systems tend to **collapse approximately every 40 years**, driven by cycles of inflation, speculation, and greed. These periodic crises devastate communities that have organized their livelihoods entirely around cash economies, while those with diversified, land-based, and community-based systems fare far better. The lesson for [[bill-mollison]] is clear: build economic resilience through diversity of systems — [[local-currencies]], barter networks, mutual credit, and direct exchange — rather than dependence on a single fragile currency controlled by distant institutions.
 
 ### Money as a Substitute for Fair Dealing
 

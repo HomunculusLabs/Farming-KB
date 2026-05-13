@@ -110,3 +110,8 @@ Free water that moves beyond the root zone does not reach streams quickly. In fo
 - Peak rainfall events produce muted stream responses compared to deforested catchments
 - Dry-season baseflows in streams are sustained by slow release from forest soils
 - The forest is effectively a distributed reservoir, releasing water gradually over decades
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[mollison-humus-and-organic-matter-in-soils]]

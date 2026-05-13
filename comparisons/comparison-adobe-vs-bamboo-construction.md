@@ -119,8 +119,13 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[comparison-annual-vs-perennial]]
-- [[comparison-cavendish-vs-east-african-highland-bananas]]
-- [[comparison-chamomile-vs-st-johns-wort]]
-- [[comparison-drip-irrigation-vs-rainwater-harvesting]]
-- [[comparison-mead-making-vs-beer-brewing]]
+- [[comparison-biogas-digester-basics-vs-charcoal-production-for-cooking]]
+- [[comparison-biogas-digester-basics-vs-solar-cooking-methods]]
+- [[comparison-biomass-compost-greenhouse-heating-systems-vs-solar-cooking-methods]]
+- [[comparison-charcoal-production-for-cooking-vs-masonry-heater-design]]
+- [[comparison-cider-making-vs-wine-making]]
+- [[comparison-heirloom-vs-hybrid-vs-open-pollinated-seeds]]
+- [[comparison-kelp-meal-fertilizer-vs-rock-phosphate]]
+- [[comparison-masonry-heater-design-vs-solar-cooking-methods]]
+- [[comparison-micro-hydro-power-vs-solar-cooking-methods]]
+- [[comparison-pellet-stove-heating-vs-charcoal-production-for-cooking]]

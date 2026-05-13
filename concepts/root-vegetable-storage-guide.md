@@ -126,4 +126,5 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - [[vegetable-harvest-and-storage-guide]]
 - [[purdue-vegetable-harvest-and-storage-guide]]
 ## See Also
-- [[root-vegetable-growing-guide-carrots-beets-turnips-parsnips-radishes]]
+- root vegetable storage guide
+- [[vegetable-storage-conditions-by-temperature-and-humidity]]

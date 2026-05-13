@@ -142,3 +142,8 @@ Earth dams should never be designed in isolation. They are one component of a co
 |---|---|
 | Minimum clay fraction | >50% |
 | Maximum wall height (tamped earth) | 3.6 m (12 feet) |
+
+## See Also
+- [[swale-design-water-harvesting]]
+- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[pdc-water-harvesting-earthworks-design]]

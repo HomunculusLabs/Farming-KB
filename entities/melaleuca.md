@@ -25,7 +25,7 @@ tags: [species, genus, myrtaceae, paperbark, wetland, salt-sensitive, australia,
 Mollison groups *Melaleuca* with other natural valley vegetation genera:
 
 - **[[dryland-salting-mollison]] — death of natural *Melaleuca* stands signals rising water tables
-- Can be **re-established** once uphill effects are controlled through interceptor banks
+- Can be **re-established** once uphill effects are controlled through [[interceptor-banks]]
 - Naturally occupies freshwater swamp and wetland habitats
 
 ## Habitat and Distribution
@@ -73,7 +73,7 @@ In Mollison's dryland management framework, *Melaleuca* serves as a diagnostic t
 
 ## Relevance to Cultivation and Permaculture
 
-*Melaleuca* occupies a critical niche in permaculture dryland design as both a productive species and a salinity bioindicator. Its natural role as the dominant tree of freshwater swamps makes it ideally suited to valley floor plantings in permaculture systems where interceptor banks have restored fresh water conditions. Its death provides early warning of salinity problems; its recovery confirms successful remediation. Designers should retain existing *Melaleuca* stands and use them as living monitors of landscape health.
+*Melaleuca* occupies a critical niche in [[permaculture]] dryland design as both a productive species and a salinity bioindicator. Its natural role as the dominant tree of freshwater swamps makes it ideally suited to valley floor plantings in permaculture systems where interceptor banks have restored fresh water conditions. Its death provides early warning of salinity problems; its recovery confirms successful remediation. Designers should retain existing *Melaleuca* stands and use them as living monitors of landscape health.
 
 ## Source Reference
 

@@ -132,3 +132,9 @@ hoarfrost and dry snow, light reaches 30–60 cm. About 30% of outgoing radiatio
 as heat (long wavelength). Snow is completely non-transparent to incoming long-wave
 radiation, so melting more commonly occurs from below due to earth heat. This basal
 melting causes poor snow-mass cohesion and may trigger snow creep or avalanche.
+
+## See Also
+
+- [[cold-area-grazing-and-wildfire]]
+- [[cold-shock-stratification-protocol-mushroom-fruiting-induction]]
+- [[cold-shocking-mushrooms]]

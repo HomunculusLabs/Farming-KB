@@ -43,7 +43,7 @@ These methods crack hard seed coats and promote germination in species adapted t
 
 - **Essential for**: Apple, chestnut, berry seeds, wild rice, cold-climate tree species
 - **Practical application**: Refrigerator stratification in warm climates; outdoor sand/peat beds in cool climates
-- **Design implication**: [[bill-mollison-permaculture-designers-manual]] must account for vernalisation requirements when selecting species for warm-climate installations that originate from cold climates
+- **Design implication**: [[bill-mollison]] must account for vernalisation requirements when selecting species for warm-climate installations that originate from cold climates
 - **Companion technique**: Works alongside scarification (acid/alkali treatment, mechanical cracking, passage through animal digestive systems) for comprehensive seed preparation
 
 ## Species Examples Requiring Vernalisation

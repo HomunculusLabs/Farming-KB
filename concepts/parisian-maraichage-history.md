@@ -8,7 +8,7 @@ created: 2026-05-10
 # Parisian Maraichage History
 
 La culture maraichère — the intensive market gardening tradition of Paris — represents
-one of the most remarkable achievements in the history [[urban-agriculture-and-rooftop-farming]]. Between
+one of the most remarkable achievements in the history [[urban-agriculture-organizations-and-networks]]. Between
 1850 and 1900, the Parisian maraichers (market gardeners) developed a system of
 year-round [[coleman-rye-straw-mat-cold-frame-insulation]]).
 

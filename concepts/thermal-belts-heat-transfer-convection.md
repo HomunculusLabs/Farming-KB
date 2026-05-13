@@ -105,8 +105,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[albedo-heat-transfer-and-thermal-belts]]
-- [[comparison-windbreak-vs-thermal-mass]]
-- [[ingham-thermal-compost-process-standards]]
-- [[ingham-thermal-worm-compost-comparison]]
-- [[mollison-frost-protection-and-thermal-belt-design]]
+- [[thermal-belts-and-frost-microclimates]]
+- [[thermal-belts-and-house-siting]]
+- [[thermal-belts-and-soil-conditioning]]

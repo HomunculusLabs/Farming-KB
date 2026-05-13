@@ -8,7 +8,7 @@ sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
 # Sector Analysis in Permaculture Design
- Permaculture sectors are an analytical tool to help understand the flow of forces across a site, using a circular diagram centered on the home to map
+ [[permaculture]] sectors are an analytical tool to help understand the flow of forces across a site, using a circular diagram centered on the home to map
 energies like sun, wind, fire, and noise that shape the design. Sector analysis is one of the foundational [[permaculture-design]], providing a systematic framework for understanding
 external energies that influence the design.
 

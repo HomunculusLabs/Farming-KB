@@ -148,3 +148,11 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
+
+## See Also
+
+- [[aquatic-margin-plants]]
+- [[aquatic-marginal-plants]]
+- [[aquatic-plant-systems]]
+- [[aquatic-plant-systems-permaculture]]
+- [[aquatic-waste-treatment-systems]]

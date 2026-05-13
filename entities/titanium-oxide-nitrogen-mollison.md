@@ -51,3 +51,5 @@ Mollison frames this as an example of natural factories working everywhere — t
 ## See Also
 
 - [[azolla]] - biological nitrogen fixation via aquatic fern
+- [[titanium-oxide-nitrogen-fixation-mollison]]
+- [[natural-farming-guide-permaculture-design-for-small-holdings]]

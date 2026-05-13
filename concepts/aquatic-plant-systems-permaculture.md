@@ -6,7 +6,7 @@ type: concept
 
 # Aquatic Plant Systems in Permaculture
 
-Aquatic plant systems are among the most productive and underutilized elements in permaculture design. Bill Mollison emphasized that plant aquaculture has been neglected compared to fish aquaculture, yet aquatic plants can yield extraordinary biomass, filter water, cycle nutrients, and provide food, fodder, and construction materials. Ponds and water systems designed as integrated polycultures become multi-functional engines of productivity within a permaculture landscape.
+[[aquatic-plant-systems]] are among the most productive and underutilized elements in [[permaculture-design]]. Bill Mollison emphasized that plant aquaculture has been neglected compared to fish aquaculture, yet aquatic plants can yield extraordinary biomass, filter water, cycle nutrients, and provide food, fodder, and construction materials. Ponds and water systems designed as integrated polycultures become multi-functional engines of productivity within a permaculture landscape.
 
 ## Water Storage Principles
 
@@ -134,3 +134,8 @@ The pond edge — the **ecotone** between water and land — is the most product
 5. **Cycle and reset**: Periodic wet/dry cycling prevents stagnation and yields valuable fertilizer.
 6. **Integrate animals**: Ducks, fish, and invertebrates create synergistic food webs that reduce management inputs.
 7. **Use natural sealing**: Gleying provides durable, self-healing pond liners from on-site materials.
+
+## See Also
+- [[permaculture-plants-aquatic-and-wetland-species]]
+- [[duckweed-and-aquatic-plants-permaculture-systems]]
+- [[hamilton-garden-ponds-and-aquatic-plants]]

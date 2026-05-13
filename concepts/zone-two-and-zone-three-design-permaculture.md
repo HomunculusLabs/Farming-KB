@@ -73,9 +73,9 @@ After pointing out resources and adjusting the client's expectations, the design
 
 ## See Also
 
-- [[[permaculture-zone-planning-guide]]]([[permaculture-zone-planning-guide]].md)
-- [[[permaculture-zones-in-practice]]]([[permaculture-zones]]-in-practice.md)
-- [[[permaculture-zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
+- [[permaculture-zone-planning-guide]]
+- [[permaculture-zones-in-practice]]
+- [[zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
 - [Forest Gardens and Food Forests](bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests.md)
 - [Guild Design in Permaculture](bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture.md)
 - [Broadacre and Rural Design](bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design.md)

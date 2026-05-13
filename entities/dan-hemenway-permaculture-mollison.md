@@ -47,3 +47,7 @@ Bill Mollison, *Permaculture Design Course Pamphlet VIII — Designing for Perma
 - Elfin Permaculture (organization)
 - Forest Ecosystem Rescue Network (FERN)
 - Yankee Permaculture (publisher)
+
+- [[permaculture-design-process]]
+- [[introduction-to-permaculture]]
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

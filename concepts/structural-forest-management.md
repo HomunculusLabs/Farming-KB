@@ -152,3 +152,8 @@ A strategy emerging in North Carolina assembles people in touch with the forest 
 | **Combined** | Manage for both poles and sawlogs on larger holdings (7-8+ acres) | Mixed |
 
 The combined approach is recommended for any holding over seven or eight acres, providing both immediate pole production and long-term timber investment.
+
+## See Also
+- [[food-forest-layers-and-species]]
+- [[canopy-layer-design-food-forests]]
+- [[structural-forests-permaculture]]

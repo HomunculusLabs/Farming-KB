@@ -120,8 +120,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[cancer-medicinal-mushrooms-psk-gastric-cancer]]
-- [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
-- [[holzer-medicinal-and-culinary-herbs-compendium]]
-- [[medicinal-mushroom-cancer-chemoprevention]]
-- [[medicinal-plant-guide]]
+- [[medicinal-mushrooms-and-cancer-chemoprevention]]
+- [[medicinal-mushrooms-beyond-cancer-cardiovascular-antidiabetic-antimicrobial]]
+- [[medicinal-mushrooms-compounds-and-benefits]]
+- [[medicinal-mushrooms-overview-and-cancer-treatment-potential]]

@@ -25,7 +25,7 @@ psychedelic counterculture.
 
 ## Early Experimentation with Cannabis
 
-Ludlow's introduction to hashish came in 1855, during his freshman year at
+Ludlow's introduction to [[hashish]] came in 1855, during his freshman year at
 Union College in Schenectady, New York. He described his first experience at a
 student tea gathering, where the effects arrived without warning:
 

@@ -73,7 +73,7 @@ Achieving bioregional organization requires deliberate community-building strate
 
 ## Practical Applications
 Understanding this concept enables better integration of sustainable
-practices into land [[weed-management-and-ecological-weed-control]] design systems.
+practices into land [[weed-management-strategies]] design systems.
 
 ## Ecological Context
 This topic relates to broader patterns of natural resource management,

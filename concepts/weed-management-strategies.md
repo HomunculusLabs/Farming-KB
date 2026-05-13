@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-control, gardening, agriculture, no-till, living-soil, regenerative, troubleshooting]
-sources: []
+sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 
 # Weed Management Strategies

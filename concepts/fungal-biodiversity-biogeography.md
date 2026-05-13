@@ -69,7 +69,7 @@ DNA-based methods are transforming our understanding of fungal biogeography:
 - **Estimated diversity**: ~30,000 described species; likely 100,000-200,000 total
 - **Key groups**: Agaricales (gilled mushrooms), Polyporales (bracket fungi), Boletales (boletes), Russulales, Cantharellales
 - **Ecological roles**: Dominant wood decomposers, all ectomycorrhizal fungi, many plant pathogens (rusts, smuts), some lichen-forming fungi
-- **[[lichen-biology-and-ecological-significance]]**: Primary decomposers of lignin, major mycorrhizal partners in boreal/temperate forests
+- **[[lichen-biology-guide]]**: Primary decomposers of lignin, major mycorrhizal partners in boreal/temperate forests
 
 ### Ascomycota
 
@@ -114,7 +114,7 @@ Soil harbors the greatest fungal diversity of any habitat:
 
 Dead wood supports highly diverse fungal communities that change with decomposition stage:
 
-1. **Fresh wood**: Primary colonizers (Ascomycetes, some Basidiomycetes) that tolerate high C:N ratios [[plant-defense-chemistry-and-secondary-metabolites]]
+1. **Fresh wood**: Primary colonizers (Ascomycetes, some Basidiomycetes) that tolerate high C:N ratios [[plant-defense-mechanisms]]
 2. **Partially decomposed**: Brown-rot and white-rot fungi become dominant, breaking down cellulose and lignin
 3. **Advanced decay**: Specialized fungi utilizing remaining nutrients; succession toward humus formation
 4. **Very decayed**: Transition to soil fungal community as wood becomes incorporated into humus

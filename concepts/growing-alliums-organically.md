@@ -147,3 +147,9 @@ Successful integration of growing alliums organically into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
+
+## See Also
+
+- [[growing-by-chunking-guide]]
+- [[growing-chicories-endive-radicchio]]
+- [[growing-legumes-organically]]
