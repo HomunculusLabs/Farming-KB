@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1340 pages**
+**1342 pages**
 
 ## A
 
@@ -286,6 +286,7 @@
 - [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 - [[comparison-fukuoka-vs-holzer]]
 - [[comparison-fukuoka-vs-jadam-farming]]
+- [[comparison-gabion-and-check-dams-vs-swale-design]]
 - [[comparison-gabions-vs-check-dams]]
 - [[comparison-garlic-vs-onion-growing]]
 - [[comparison-ginkgo-biloba-vs-panax-ginseng]]
@@ -855,6 +856,7 @@
 - [[query-how-do-i-grow-peppers-from-seed-to-harvest]]
 - [[query-how-do-i-grow-perennial-vegetables-in-my-garden]]
 - [[query-how-do-i-grow-persimmons-and-which-variety-should-i-choose]]
+- [[query-how-do-i-grow-salad-greens-and-lettuce-year-round]]
 - [[query-how-do-i-grow-squash-pumpkins-and-cucumbers-successfully]]
 - [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]]
 - [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]

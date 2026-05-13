@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1351 pages**
+**1348 pages**
 
 ## A
 
@@ -193,7 +193,6 @@
 - [[energy-descent-action-planning]]
 - [[energy-descent-and-permaculture]]
 - [[energy-descent-permaculture-response]]
-- [[ethical-basis-alternative-nation-permaculture]]
 - [[ethical-investment-and-earth-banking]]
 - [[eucalypts-and-f-section-permaculture-plants]]
 - [[eucalyptus-in-permaculture]]
@@ -1316,8 +1315,6 @@
 - [[tropical-humid-and-coastal-climate-permaculture-design]]
 - [[tropical-polyculture-evolution-and-pest-management]]
 - [[trusts-and-legal-strategies-for-permaculture]]
-- [[trusts-and-legal-strategies-permaculture]]
-- [[trusts-legal-strategies-permaculture]]
 - [[types-of-earthworks-banks-benches-terraces]]
 
 ## U

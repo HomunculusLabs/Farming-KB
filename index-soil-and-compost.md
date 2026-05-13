@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**650 pages**
+**649 pages**
 
 ## A
 
@@ -67,7 +67,6 @@
 - [[biochar-soil-remediation]]
 - [[biodiversity-soil-life]]
 - [[biological-element-transport-and-soil-ph]]
-- [[biological-element-transport-soil-ph]]
 - [[biological-indicators-of-soil-and-site]]
 - [[biological-indicators-of-soil-conditions]]
 - [[biomass-compost-greenhouse-heating-systems]]
