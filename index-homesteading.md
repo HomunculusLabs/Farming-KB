@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**260 pages**
+**261 pages**
 
 ## A
 
@@ -255,6 +255,7 @@
 - [[rocket-stove]]
 - [[rocket-stove-design]]
 - [[root-cellar-design-and-construction]]
+- [[root-cellaring]]
 - [[root-cellaring-and-no-energy-food-storage]]
 - [[root-cellaring-guide]]
 - [[roundwood-shelter-building]]

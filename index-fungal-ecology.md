@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2674 pages**
+**2676 pages**
 
 ## #
 
@@ -1372,6 +1372,7 @@
 - [[growing-gourmet-spore-mass-inoculation-techniques]]
 - [[growing-gourmet-trichoderma-green-mold-management]]
 - [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
+- [[growing-legumes-beans-and-peas]]
 - [[growing-legumes-organically]]
 - [[guttation-root-pressure-and-maple-sap-physiology]]
 - [[guzman-africa-neurotropic-fungi-underexplored-biodiversity]]
@@ -2666,6 +2667,7 @@
 - [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
 - [[techniques-arbuscular-mycorrhiza-inoculum-reduction]]
 - [[telluride-mushroom-festival-modern-mycological-culture]]
+- [[temperature-and-decomposition-in-composting]]
 - [[terence-ingold-mycologist]]
 - [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]
 - [[thermophilic-and-psychrophilic-fungi-in-bioremediation]]

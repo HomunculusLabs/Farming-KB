@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1367 pages**
+**1369 pages**
 
 ## A
 
@@ -80,6 +80,7 @@
 - [[comparison-basalt-rock-dust-vs-rock-dust-remineralization]]
 - [[comparison-bats-vs-purple-martins-vs-dragonflies-pest-control]]
 - [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
+- [[comparison-beauveria-bassiana-vs-metarhizium-anisopliae]]
 - [[comparison-beekeeping-basics-vs-top-bar-hive]]
 - [[comparison-beer-brewing-vs-cider-making]]
 - [[comparison-beer-vs-wine-making]]
@@ -685,6 +686,7 @@
 - [[comparison-worm-farming-vs-bsf-larvae]]
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[comparison-xeriscaping-vs-drought-gardening]]
+- [[comparison-yarrow-vs-rhodiola]]
 - [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
 - [[complete-knf-input-reference]]
 - [[composting-systems-design-comparison]]
