@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2673 pages**
+**2674 pages**
 
 ## #
 
@@ -17,6 +17,7 @@
 - [[aact-fungal-foods-chitin-rock-dust-protozoa-nematodes-ingham]]
 - [[aact-glomalin-and-soil-aggregation-ingham]]
 - [[aact-ingredients-bacterial-fungal-teas]]
+- [[aact-mite-management-and-biocontrol-fungi]]
 - [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]]
 - [[aact-nematode-protozoa-management-ingham]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

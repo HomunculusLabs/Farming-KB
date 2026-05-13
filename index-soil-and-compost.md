@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**680 pages**
+**686 pages**
 
 ## A
 
@@ -36,8 +36,12 @@
 - [[aact-fish-hydrolysate-marine-brewing-ingredients-ingham]]
 - [[aact-foam-management-troubleshooting-ingham]]
 - [[aact-foliar-application-and-sticker-spreaders]]
+- [[aact-foliar-disease-control]]
 - [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]
+- [[aact-ingredient-ratios-compost-volume-and-recipes]]
+- [[aact-ingredients-and-food-webs]]
 - [[aact-ingredients-and-tea-recipes]]
+- [[aact-ingredients-sugar-kelp-lignite-soil-amendments]]
 - [[aact-insect-pest-suppression-grubs-caterpillars-mites-ingham]]
 - [[aact-microbial-chelation-of-minerals-ingham]]
 - [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]
@@ -155,6 +159,8 @@
 - [[compost-tea-guide]]
 - [[compost-tea-ingredients-and-recipes]]
 - [[compost-tea-recipe-guide]]
+- [[compost-tea-recipes-and-ratios]]
+- [[compost-tea-specific-disease-management]]
 - [[composting]]
 - [[composting-materials-alternative]]
 - [[composting-methods-comparison]]

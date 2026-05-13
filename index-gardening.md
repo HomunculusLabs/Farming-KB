@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1219 pages**
+**1222 pages**
 
 ## A
 
@@ -380,6 +380,8 @@
 - [[fodder-growing-guide]]
 - [[forest-bamboo-plant-specific-microorganism-culturing]]
 - [[forest-ecology-basics]]
+- [[french-garden-system-british-adaptation]]
+- [[french-intensive-market-gardening]]
 - [[frost-protection-and-radiation-management]]
 - [[frost-protection-and-thermal-belts]]
 - [[frost-protection-strategies]]
@@ -1281,6 +1283,7 @@
 - [[winter-gardening-season-extension]]
 - [[winter-gardening-techniques]]
 - [[winter-harvest-scheduling-year-round]]
+- [[winter-harvest-system]]
 - [[winter-squash-guide]]
 - [[winter-succession-planting]]
 - [[winter-succession-planting-schedule]]

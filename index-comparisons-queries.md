@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1357 pages**
+**1358 pages**
 
 ## A
 
@@ -526,6 +526,7 @@
 - [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]]
 - [[comparison-rhizofiltration-vs-phytoextraction]]
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
+- [[comparison-rhodiola-vs-ashwagandha]]
 - [[comparison-rhodiola-vs-tulsi]]
 - [[comparison-rhodiola-vs-valerian]]
 - [[comparison-rock-phosphate-vs-sulfur-plant-nutrition]]
