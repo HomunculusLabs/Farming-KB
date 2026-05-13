@@ -6,15 +6,7 @@ type: concept
 
 # Fukuoka Mu Economics and Natural Economy
 
-Masanobu Fukuoka's concept of **Mu economics** is a radical reconception of economic life rooted in the philosophy [[four-principles-of-natural-farming]]. Drawing on the Mahayana Buddhist concept of *Mu* — cosmic nothingness, or the state where willful human actions are cast aside — Fukuoka proposed an economy that transcends monetary systems entirely, one in which the true value of agriculture emerges only when human contrivance is abandoned.
-
-## Mu Economics Defined
-
-Fukuoka argued that the products of natural farming cannot meaningfully be assessed within the framework of a monetary economy. They demand an entirely different system of valuation:
-
-> "Agricultural crops grown by natural farming should be assessed on the basis of a natural economy, not a monetary economy."
-
-This is not a minor policy adjustment but a fundamental paradigm shift. The existing economic order, built on production costs, market pricing, and profit maximization, is structurally incapable of recognizing the worth of food grown in harmony with nature. [[query-how-do-clay-seed-balls-work-for-natural-farming]] to be understood on its own terms:
+[[masanobu-fukuoka]]'s concept of **Mu economics** is a radical reconception of economic life rooted in the philosophy [[query-how-do-clay-seed-balls-work-for-natural-farming]] to be understood on its own terms:
 
 > "For this to happen, it is necessary that a new system of economics founded on Mu be developed."
 
@@ -34,9 +26,7 @@ By "Mu government," Fukuoka envisions governance that does not interfere with na
 
 Central to Fukuoka's economic thought is the observation that prices are a human invention with no basis in the natural world. The natural farmer, working without purchased inputs and without calculating the value of his own labor, operates outside the price system entirely:
 
-> "When I say that crops do not need to be priced, I mean that whether they have prices or not make no difference to the farmer who dedicates himself [[fukuoka-organic-to-natural-farming-transition]]."
-
-This is not idealism but a practical description. The natural farmer does not buy [[cannabis-chemical-fertilizers]], pesticides, or herbicides. He does not purchase machinery or fuel. He does not hire labor at market rates. His household labor is part of his way of life, not a cost to be reckoned:
+> "When I say that crops do not need to be priced, I mean that whether they have prices or not make no difference to the farmer who dedicates himself [[cannabis-chemical-fertilizers]], pesticides, or herbicides. He does not purchase machinery or fuel. He does not hire labor at market rates. His household labor is part of his way of life, not a cost to be reckoned:
 
 > "Because he has no use for various chemical-based farming materials and does not reckon household labor into his expenses, then his production costs are zero."
 

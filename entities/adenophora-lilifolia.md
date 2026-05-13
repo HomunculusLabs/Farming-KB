@@ -109,13 +109,8 @@ The European Campanula species most similar to Adenophora lilifolia include Camp
 
 ## See Also
 
-- [[campanula-rotundifolia]]
 - [[campanula-trachelium]]
-- [[campanula-latifolia]]
 - [[campanula-persicifolia]]
-- [[platycodon-grandiflorus]]
 - [[codonopsis-pilosula]]
-- [[lobelia-dortmanna]]
 - [[phyteuma-spicatum]]
-- [[campanula-alliariifolia]]
 - [[campanula-carpatica]]

@@ -13,13 +13,7 @@ tags: [cannabis]
 
 ## Overview
 
-Rosin pressing is a solventless [[lemon-cannabis-alchemy-high-volume-extraction-method]] that uses heat and pressure to squeeze resin from [[cervantes-cannabis-flower-anatomy]] or hash. While the term "rosin" as specifically applied to [[comparison-cannabis-extraction-basics-vs-extraction-methods]] post-dates the primary edition of Cervantes's "Marijuana Horticulture," the fundamental techniques of heat-pressing resin powder described in the book form the conceptual and practical basis for modern rosin production. The book provides detailed guidance on pressing collected resin that applies directly to rosin techniques.
-
-## Principles of Heat and Pressure Pressing
-
-Cervantes describes several core principles that underlie modern rosin pressing:
-
-- Pressing ruptures [[greg-green-trichomes-and-resin-glands]] and warms the resin, causing volatile aromatic terpenoids to release
+Rosin pressing is a solventless [[cervantes-cannabis-flower-anatomy]] or hash. While the term "rosin" as specifically applied to [[greg-green-trichomes-and-resin-glands]] and warms the resin, causing volatile aromatic terpenoids to release
 - Heat causes the outer layer of pressed material to oxidize and darken
 - Hash can have a dark exterior and a blonde interior packed with creamy resin glands
 - Relatively pure resin powder congeals faster than less-potent powders with impurities
@@ -41,38 +35,9 @@ From Cervantes's descriptions of cannabis processing:
 
 - Temperatures above 80F (27C) degrade THC during storage and handling
 - The oven drying method should not exceed 200F (93C) or THC will vaporize into the air
-- Slow drying at 65-75F (18-24C) preserves [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]
-- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] in cannabis volatilize and release fragrance above 70F (21C)
+- Slow drying at 65-75F (18-24C) preserves [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] in cannabis volatilize and release fragrance above 70F (21C)
 
-Modern rosin pressing applies these principles with precise [[hamilton-greenhouse-heating-and-temperature-control]], typically ranging from 180F to 220F for flower and lower temperatures for kief and hash, balancing extraction efficiency against cannabinoid preservation.
-
-## Manual Pressing Techniques
-
-### Bottle Pressing Method
-
-The book describes pressing resin powder by wrapping it in cellophane and rolling a cylindrical bottle filled with warm water over it to create a cohesive pressed product. This combines gentle heat and pressure in a technique that is essentially a manual precursor to rosin pressing. The warm bottle provides both the heat to soften the resin and the weight to press it.
-
-### Hand Pressing
-
-Cervantes describes hand pressing 1-4 grams of resin powder between palms for 10-30 minutes until completely pliable. Heat is generated through friction and helps rupture and meld the resin glands together. This demonstrates that human-scale pressure and body heat are sufficient to transform resin powder into a cohesive product.
-
-### Shoe Hash
-
-Placing cellophane-wrapped resin under the heel inside a shoe and walking for an hour uses body heat and sustained pressure to create pressed hash. This folk method illustrates how moderate heat and pressure over time can effectively process resin.
-
-## Mechanical Pressing Methods
-
-### Hydraulic Presses
-
-Mechanical presses use hydraulic jacks with 10-20 tons capacity mounted to heavy-duty steel frames with 100-gram molds. Pressure is contingent upon the purity of the material; more pure resin requires less pressure to form a block. Mechanical presses must be precise and align well so pressed hash does not ooze out seams.
-
-### Laminator Pressing
-
-A photo laminator can press resin powder between two sheets of cellophane. The heated rollers apply both pressure and controlled heat, making this one of the closest historical analogues to modern rosin press technology.
-
-## Resin Powder as Rosin Precursor
-
-The dry-sieved [[oner-cannabis-water-extraction-ice-water-hash]] pressing methods described by Cervantes are direct ancestors of rosin pressing:
+Modern rosin pressing applies these principles with precise [[oner-cannabis-water-extraction-ice-water-hash]] pressing methods described by Cervantes are direct ancestors of rosin pressing:
 
 - Hand pressing works dried resin powder between palms
 - Potent resin powder is creamy white to gold, darkening through oxidation
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[neem]]
-- [[rosin-pressing-technology]]
 - [[cannabis-hashish-screening-and-pressing]]
 - [[cervantes-pressing-hash]]

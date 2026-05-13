@@ -10,27 +10,8 @@ created: 2026-05-08
 
 ## Overview
 
-[[ralph-metzner]] proposed a four-paradigm framework for understanding the use of
-psychoactive drugs and plants across different cultural and therapeutic contexts.
-First articulated in his 1998 paper "[[hallucinogenic-drugs]] and Plants in
-[[metzner-hallucinogens-psychotherapy-and-shamanism]]," published in the *Journal of Psychoactive Drugs*,
-this framework organizes the diverse practices involving hallucinogenic
-substances into four distinct but overlapping categories, each with its own
-underlying worldview, therapeutic rationale, and ceremonial structure.
-
-## Paradigm 2: Shamanic Rituals of Healing and Divination
-
-### Overview
-
-Shamanic rituals represent the oldest and most widespread use of
-hallucinogenic plants, reaching into prehistoric times. In these contexts,
-the primary purpose is healing (treating illness) and divination (obtaining
-hidden knowledge). The shaman or healer typically takes the medicine to "see"
-the causes of illness and determine appropriate remedies.
-
-### Three Distinctive Features
-
-Shamanic [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] differ from Western psychotherapy sessions
+[[hallucinogenic-drugs]] and Plants in
+[[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] differ from Western psychotherapy sessions
 in three significant ways:
 
 1. **Minimal verbal interaction**: Very little or no talking occurs among
@@ -60,27 +41,10 @@ hallucinogenic plant use worldwide:
 4. **Access to metaphysical realms**: Multiple worlds or dimensions are
    accessible — referred to as "inner world," "spirit world," "upper or
    lower world," "dreamtime," or "nonordinary reality."
-5. **Perception of [[metzner-spirit-beings-multiple-realities-entheogens]]**: Nonmaterial entities associated with
-   animals, plants, places, ancestors, or other nonordinary beings are
-   encountered and may assist in healing.
-
-## Paradigm 3: Syncretic Folk Religious Ceremonies
-
-### Overview
-
-Syncretic folk religious ceremonies represent a blending of indigenous
-shamanic practices with organized religion. The emphasis shifts from
-healing and divination toward community bonding, group worship, and
-celebration. These ceremonies typically involve larger groups (20 to
-several hundred participants) and feature priests or officiants rather
-than shamans.
-
-### Major Examples
-
-- **[[halpern-sacramental-peyote-and-native-american-church]] (NAC)**: Uses peyote as a sacrament in all-night
+5. **Perception of [[halpern-sacramental-peyote-and-native-american-church]] (NAC)**: Uses peyote as a sacrament in all-night
   ceremonies conducted in tipis around a central fire, with a roadman
   presiding and almost constant singing of traditional peyote songs.
-- **[[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] Churches**: Three major churches — [[brazilian-ayahuasca-churches-santo-daime-udv-barquinha-structural-comparison]],
+- **[[brazilian-ayahuasca-churches-santo-daime-udv-barquinha-structural-comparison]],
   Uniao de Vegetal (UDV), and Barquinia — use ayahuasca as their central
   sacrament in weekly temple ceremonies. Research has confirmed that
   membership is associated with no adverse health effects and a reduction
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[iboga]]
-- [[det]]
 - [[shamanism]]
 - [[icaros]]

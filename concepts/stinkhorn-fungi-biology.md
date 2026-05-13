@@ -14,28 +14,7 @@ updated: 2026-05-11
 sources:
   - Nicholas P. Money (2002). "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists." Oxford University Press.
   - T. Ingold (1971). "Fungal Spores: Their Liberation and Dispersal." Clarendon Press, Oxford.
-  - Krebs, H.A. (2020). "[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]: The Common Stinkhorn." Field Mycology.
----
-
-# Stinkhorn Fungi: Biology, Evolution, and Ecology
-
-Stinkhorn fungi are among the most conspicuous and bizarre organisms in the
-fungal kingdom. Their phallic fruiting bodies emerge from underground eggs,
-release foul-smelling spore slime, and attract insects for dispersal. The
-group has fascinated and repelled observers from Pliny the Elder to Charles
-Darwin's daughter Etty, who mounted a personal campaign to destroy them.
-
-## Life Cycle: From Egg to Erection
-
-The stinkhorn begins life as a whitish egg partially buried in soil or leaf
-litter. Inside the egg, the entire fruiting body exists in prefabricated
-form. A hollow shaft of white spongy tissue called the receptacle runs
-through the center, surrounded by a green-black mass of developing spores
-called the gleba.
-
-The gleba is cased in clear jelly and veiled with white skin. When the egg
-hatches, typically beginning in the cool of night, the receptacle absorbs
-water and expands by [[fungal-fruiting-body-mechanics-osmotic-pressure]], rupturing the outer skin and
+  - Krebs, H.A. (2020). "[[fungal-fruiting-body-mechanics-osmotic-pressure]], rupturing the outer skin and
 carrying the spore mass aloft. The process is analogous to the mechanics
 of a mammalian erection, though driven by osmotic rather than muscular
 pressure.
@@ -69,8 +48,7 @@ eaten without much suffering.
 
 ## Ecological Role: Decomposition and Soil Ecology
 
-Stinkhorns are saprotrophic fungi that decompose dead [[maintaining-organic-matter-in-vegetable-gardens]]
-soil and leaf litter. Their [[fungal-mycelial-networks-nutrient-translocation]] spread through decomposing
+Stinkhorns are saprotrophic fungi that decompose dead [[fungal-mycelial-networks-nutrient-translocation]] spread through decomposing
 wood and forest floor material, recycling nutrients and contributing to
 soil structure. The visible fruiting body represents only the reproductive
 phase of a much larger underground organism.
@@ -78,18 +56,7 @@ phase of a much larger underground organism.
 Their ecological importance extends beyond decomposition. By attracting
 insects to specific locations, stinkhorns may influence insect foraging
 patterns and the distribution of other soil organisms. The nutrient-rich
-spore deposits left by visiting [[fukuoka-insects-create-new-rice-varieties]] localized hotspots of
-organic matter.
-
-## Evolutionary History
-
-Stinkhorns belong to the gasteromycete section of the Basidiomycota, fungi
-whose spores form internally rather than on exposed gill surfaces. The
-gasteromycetes are a polyphyletic group, meaning they evolved from
-multiple different lineages of gilled mushroom ancestors that
-independently evolved enclosed spore production.
-
-Small changes in enzyme activity during [[fruiting-body-development]] can
+spore deposits left by visiting [[fruiting-body-development]] can
 produce dramatic morphological differences. Weakening of tissue along
 specific tracks would cause a shaft to split into arms, transforming a
 Phallus-type body into an Anthurus-type cage fungus. Adding pigmentation
@@ -115,8 +82,4 @@ Fuller's geodesic domes and to the buckminsterfullerene carbon molecules.
 
 ## See Also
 
-- [[gasteromycete-spore-dispersal]]
-- fungal fruiting body evolution
-- basidiomycete life cycle
-- ingold spore dispersal
 - [[clathrus-ruber]]

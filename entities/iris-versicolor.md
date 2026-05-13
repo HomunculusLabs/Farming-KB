@@ -19,43 +19,7 @@ sources:
 
 ## Overview
 
-Iris versicolor is a perennial herbaceous plant in the family Iridaceae, commonly known as blue flag iris or harlequin blueflag. It is native to wetland habitats across [[polypore-fungi-eastern-north-america]].
-
-The species produces showy blue-violet flowers with distinctive falls marked by yellow and white patterning. It is widely cultivated for water gardens and naturalized wetland plantings.
-
-All parts of the plant, particularly the rhizome, contain toxic iridin compounds. Despite this toxicity, the species has a documented history of use in indigenous North American and European herbal medicine.
-
-The species is the provincial flower of Quebec, where it is known as iris versicolore. It has also been adopted as the official wildflower of several U.S. states and conservation organizations.
-
-The species is native to wetland habitats across eastern North America.
-
-Iris versicolor has been widely planted beyond its native range for ornamental and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] purposes. It is naturalized in parts of western Europe and the [[psilocybin-north-america-pacific-northwest]] of North America.
-
-Numerous cultivars have been selected for flower color and garden performance. Notable selections include 'Kermesina' (deep crimson), 'Gerald Darby' (purple with blue tints), and 'Purple Flame'.
-
-## Taxonomy
-
-**Kingdom:** Plantae
-
-**Division:** Angiospermae
-
-**Class:** Liliopsida
-
-**Order:** Asparagales
-
-**Family:** Iridaceae
-
-**Genus:** Iris
-
-**Subgenus:** Limniris
-
-**Section:** Limniris
-
-**Species:** I. versicolor
-
-**Authority:** Linnaeus (1753)
-
-Iris versicolor is the type species of the subsection Versicolores within Limniris. The genus Iris contains approximately 300 species distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
+Iris versicolor is a perennial herbaceous plant in the family Iridaceae, commonly known as blue flag iris or harlequin blueflag. It is native to wetland habitats across [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] purposes. It is naturalized in parts of western Europe and the [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 The specific epithet "versicolor" means "variously colored" in Latin, referring to the range of blue, purple, and violet shades found in natural populations.
 
@@ -79,12 +43,93 @@ Seeds require cold stratification for germination and may remain viable in the s
 
 Iris versicolor is native to eastern North America, ranging from Newfoundland and Labrador west to Minnesota and south to Virginia and Arkansas. It is most abundant in the Great Lakes region and northeastern United States.
 
-The species inhabits marshes, wet meadows, shorelines, swamps, and stream margins. It tolerates water depths up to 15 centimeters during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
-
-Preferred soils are organic-rich loams and mucks with pH ranging from slightly acidic to neutral. Plants perform best in full sun but tolerate partial shade in southern portions of their range.
-
-The species spreads through both rhizome extension and seed dispersal. [[hamilton-vegetative-propagation]] produces dense clumps within 3 to 5 years in favorable conditions.
+The species inhabits marshes, wet meadows, shorelines, swamps, and stream margins. It tolerates water depths up to 15 centimeters during [[hamilton-vegetative-propagation]] produces dense clumps within 3 to 5 years in favorable conditions.
 
 ## Ecological Role
 
 Blue flag iris provides habitat structure in wetland communities, offering cover for amphibians, small mammals, and aquatic invertebrates. The dense root mat contributes to shoreline stabilization.
+
+## Overview
+
+Iris Versicolor represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish iris versicolor
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving iris extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Iris Versicolor finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for iris versicolor. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+iris versicolor and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Iris Versicolor has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of iris versicolor into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[iris-ensata]]
+- [[iris-entity-pihkal]]
+- [[iris-foetidissima]]
+- [[iris-pseudacorus]]
+- [[iris-pseudocorus-mollison]]

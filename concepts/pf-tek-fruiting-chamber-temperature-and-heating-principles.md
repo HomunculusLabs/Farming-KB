@@ -1,7 +1,7 @@
 ---
 title: Pf Tek Fruiting Chamber Temperature And Heating Principles
 created: 2026-04-28
-tags: [mycology, pf tek, [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]], fruiting, temperature,  humidity, cultivation, [[duggar-mushroom-growing-history-and-methods]]
+tags: [mycology, pf tek, duggar-mushroom-growing-history-and-methods
 date: 2026-04-28
 updated: 2026-05-09
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
@@ -10,10 +10,10 @@ type: concept
 
 # PF TEK Fruiting Chamber Temperature and Heating Principles
 
-The dual [[dual-chambered-terrarium-design]] [[fruiting-environment-parameters]] operates on a
+The dual [[fruiting-environment-parameters]] operates on a
 counterintuitive principle: direct heating works against humidification and
 adds a drying influence. This is one of the most commonly violated rules in
-home [[accessible-mushroom-cultivation-for-disabilities]], and [[psylocybe-fanaticus]] was explicit that heating
+home [[psylocybe-fanaticus]] was explicit that heating
 cables, heat pads, heat blankets, and direct light should never be used in
 the fruiting chamber.
 
@@ -28,13 +28,7 @@ briefly spikes.
 
 The fungus requires bathing in a "shroud of floating water molecules" at or
 near 100% humidity. Molecularized water (evaporated humidity) is what the fine
-[[fungal-mycelial-networks-nutrient-translocation]] need. Direct water droplets from spraying can actually drown
-the delicate fungal structures and inhibit or contaminate growth.
-
-### The Physics of Sealed Chamber Heating
-
-The physics are straightforward: warmer air holds more water vapor before
-reaching saturation. In an open system like a [[mollison-designers-tropical-pasture-grass-species-and-establishment]], warm air
+[[mollison-designers-tropical-pasture-grass-species-and-establishment]], warm air
 continuously draws moisture from the surrounding environment. In a sealed
 terrarium, warm air draws moisture only from the surfaces inside until the
 internal moisture reservoir is exhausted. At that point the relative humidity

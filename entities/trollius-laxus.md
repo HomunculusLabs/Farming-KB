@@ -108,13 +108,8 @@ The species has received attention from native plant societies as a candidate fo
 
 ## See Also
 
-- [[trollius-europaeus]]
 - [[trollius-chinensis]]
-- [[caltha-palustris]]
 - [[ranunculus-acris]]
-- [[anemone-nemorosa]]
 - [[pulsatilla-vulgaris]]
-- [[helleborus-orientalis]]
 - [[clematis-vitalba]]
-- [[aconitum-napellus]]
 - [[ranunculus-repens]]

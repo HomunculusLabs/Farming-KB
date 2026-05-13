@@ -109,13 +109,8 @@ A population genetics study published in 2021 found low genetic diversity within
 
 ## See Also
 
-- [[campanula-latifolia]]
 - [[campanula-punctata]]
-- [[campanula-pyramidalis]]
 - [[campanula-thyrsoidea]]
-- [[phyteuma-spicatum]]
 - [[lobelia-cardinalis]]
-- [[adenophora-stricta]]
 - [[codonopsis-pilosula]]
-- [[platycodon-grandiflorus]]
 - [[campanula-persicifolia]]

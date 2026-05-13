@@ -4,15 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [psychology, therapy, consciousness, psychedelics, health, methods, entheogen-research, safety]
-sources:
-  - "raw/papers/leary-t-the-psychedelic-experience.md"
+sources: []
 ---
 
 # Psychedelic Integration Guide
 
 ## Overview
 
-Psychedelic integration is the process of incorporating insights, emotions, and experiences from psychedelic or entheogenic journeys into everyday life. The [[leary-psychedelic-experience-bardo-mapping]] itself is often just the beginning; the real therapeutic work happens in the days, weeks, and months afterward. Without intentional integration, powerful experiences may fade or even become sources of confusion and distress.
+Psychedelic integration is the process of incorporating insights, emotions, and experiences from psychedelic or entheogenic journeys into everyday life. The psychedelic experience itself is often just the beginning; the real therapeutic work happens in the days, weeks, and months afterward. Without intentional integration, powerful experiences may fade or even become sources of confusion and distress.
 
 ## Why Integration Matters
 
@@ -20,10 +19,10 @@ Psychedelics can produce experiences that feel more real and significant than or
 
 - Profound insights about oneself, relationships, or life direction
 - Emotional release of suppressed grief, trauma, or fear
-- [[default-mode-network-and-ego-dissolution]] experiences that challenge habitual self-concepts
+- Ego dissolution experiences that challenge habitual self-concepts
 - Visions, metaphors, or symbolic content demanding interpretation
 - Mystical or transcendent experiences that defy language
-- Difficult or challenging experiences ([[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]) that leave lingering fear or confusion
+- Difficult or challenging experiences (bad trips) that leave lingering fear or confusion
 
 Without integration, these experiences can feel isolated, overwhelming, or ultimately meaningless. Integration bridges the gap between the extraordinary state and ordinary life.
 
@@ -56,7 +55,7 @@ The body stores and processes experience; somatic practices are essential:
 - Yoga, tai chi, or qigong — gentle movement that integrates body and mind
 - Time in nature — many psychedelic experiences connect people to the natural world
 - Exercise — running, swimming, hiking can help process emotional energy
-- Breathwork — [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] or other structured breathing practices
+- Breathwork — holotropic breathwork or other structured breathing practices
 - Body work — massage, somatic experiencing, or fascial release
 
 ### Creative Expression
@@ -75,7 +74,7 @@ Isolation is the enemy of integration:
 
 - Integration circles — facilitated group sharing with other psychedelic journeyers
 - Trusted friends or partners — sharing experiences with understanding listeners
-- [[internet-mushroom-information-repositories-online-communities-emcdda-2006]] — forums, groups (exercise caution with anonymity)
+- Online communities — forums, groups (exercise caution with anonymity)
 - Ceremony or ritual — structured communal practices for processing
 - Mentors or guides — experienced practitioners who can offer perspective
 
@@ -141,10 +140,11 @@ The ego's attempt to co-opt a transcendent experience, leading to:
 The sense that the psychedelic experience exists in a separate reality from daily life:
 
 - Feeling that the experience was "more real" than ordinary life
-- Difficulty returning to work, relationships, or routine
-- Persistent longing to return to the altered state
-- Neglecting practical responsibilities
 
-## Integration Timeline
+## See Also
 
-| Timeframe | Focus | Practices |
+- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
+- [[psychedelic-1960s-counterculture]]
+- [[psychedelic-consciousness-expansion]]
+- [[psychedelic-prohibition-and-the-war-on-consciousness]]
+- [[psychedelic-therapy-set-and-setting]]

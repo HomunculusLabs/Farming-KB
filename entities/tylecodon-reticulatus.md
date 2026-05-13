@@ -108,13 +108,8 @@ It is displayed in botanical gardens specializing in southern African flora. Sev
 
 ## See Also
 
-- [[cotyledon-tomentosa]]
 - [[crassula-ovata]]
-- [[euphorbia-obesa]]
 - [[kalanchoe-blossfeldiana]]
-- [[aeonium-arboreum]]
 - [[echeveria-elegans]]
-- [[haworthia-fasciata]]
 - [[sedum-acre]]
-- [[pachyphytum-oviferum]]
 - [[dudleya-farinosa]]

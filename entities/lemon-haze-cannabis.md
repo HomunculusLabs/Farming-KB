@@ -16,17 +16,16 @@ created: 2026-05-07
 
 ## Overview
 
-Lemon Haze is a popular sativa-dominant [[cannabis-hybrid-vigor-and-phenotypes-clarke]] created by crossing **Silver Haze** with **Lemon Skunk**. Known for its bright citrus aroma, energetic cerebral effects, and mood-enhancing properties, Lemon Haze has become one of the most widely recognized and commercially successful [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] worldwide. It won the High Times Cannabis Cup in 2008, cementing its status among elite cannabis varieties.
+Lemon Haze is a popular sativa-dominant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] worldwide. It won the High Times Cannabis Cup in 2008, cementing its status among elite cannabis varieties.
 
-The strain exemplifies the modern approach to [[oner-cannabis-breeding-fundamentals]], where specific [[cannabis-terpene-profiles-sativa]] are selected alongside cannabinoid content to create targeted experiential outcomes.
+The strain exemplifies the modern approach to [[cannabis-terpene-profiles-sativa]] are selected alongside cannabinoid content to create targeted experiential outcomes.
 
 ## Genetic Lineage
 
 ### Parent Strains
 
 **Silver Haze (Sativa-dominant)**
-- Lineage:  reen (SCROG)**: Ideal for managing the strain's tall stature indoo [[cannabis-endocannabinoid-system]]
-- [[cannabis-terpene-profiles]]
+- Lineage:  reen (SCROG)**: Ideal for managing the strain's tall stature indoo [[cannabis-terpene-profiles]]
 ## Practical Applications
 
 Lemon Haze (Cannabis Strain) has a range of practical applications that make it relevant to

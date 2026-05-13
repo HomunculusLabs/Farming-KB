@@ -20,7 +20,7 @@ and the transition from primary growth to spore-directed orientation.
 
 The concept of mushroom hormones emerged independently in several laboratories:
 
-- **Gruen (1963)**: Demonstrated endogenous growth regulation in *Agaricus bisporus*
+- **Gruen (1963)**: Demonstrated endogenous growth regulation in *[[agaricus-bisporus]]*
   carpophores, showing that some factor from the pileus influenced stipe elongation.
   Removal of the pileus altered growth patterns, suggesting a top-down regulatory
   signal.
@@ -53,7 +53,7 @@ for demonstrating gill-derived hormonal regulation:
   factor from the gills is involved.
 
 This experimental paradigm has been replicated across multiple species including
-*Agaricus bisporus*, *Coprinus* spp., and *Psilocybe cubensis*, suggesting a
+*Agaricus bisporus*, *Coprinus* spp., and *[[psilocybe-cubensis]]*, suggesting a
 conserved mechanism among agarics.
 
 ## Connection to Spore Production in Psilocybe Cubensis
@@ -136,8 +136,6 @@ spores must reach fresh herbivore dung to complete their life cycle.
 
 ## See Also
 
-- [[sporulation-linked-geotropism-psilocybe-cubensis-gill-hormone]] — Direct coupling
 - [[sporeless-mutant-tropism-deficiency-psilocybe-cubensis]] — Sterile mutant evidence
-- [[mushroom-geotropism-spore-formation]] — Geotropic response overview
 - [[negative-geotropism-in-mushroom-fruiting]] — Negative geotropism mechanism
 - [[evaporative-demand-hypothesis-mushroom-tropism]] — Primary tropism model

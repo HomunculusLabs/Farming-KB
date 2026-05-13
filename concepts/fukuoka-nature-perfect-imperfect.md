@@ -11,11 +11,7 @@ sources:
 
 # Nature Perfect and Imperfect
 
-A fundamental principle in Masanobu Fukuoka's [[fukuoka-what-is-nature]].
-
-## Seeing Nature as Wholistic
-
-The central truth of [[comparison-natural-farming-vs-permaculture]], Fukuoka insisted, is that nothing need be done to grow crops. This conviction came not from theoretical speculation but from what he called "a total, intuitive understanding of the reality about self and nature wrested from the depths of doubt and skepticism in a deeply earnest struggle over the meaning of life."
+A fundamental principle in Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]], Fukuoka insisted, is that nothing need be done to grow crops. This conviction came not from theoretical speculation but from what he called "a total, intuitive understanding of the reality about self and nature wrested from the depths of doubt and skepticism in a deeply earnest struggle over the meaning of life."
 
 This is not the theoretical hypothesis of a scholar in his study or the wishful thinking of an idler with an aversion to work. It is based on raw personal experience of things grounded solidly in reality.
 
@@ -57,8 +53,7 @@ Natural farming begins with the conviction that barley seeds which fall to the e
 
 ## The Absolute Perspective
 
-From the absolute perspective -- the standpoint of [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-natures-self-organizing-principles]], [[fukuoka-what-is-nature]]
-- [[fukuoka-nature-transcends-human-knowledge]]
+From the absolute perspective -- the standpoint of [[fukuoka-natures-self-organizing-principles]], [[fukuoka-nature-transcends-human-knowledge]]
 
 ## Practical Considerations
 
@@ -93,29 +88,8 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[fukuoka-nature-perfect-imperfect-philosophical-perspective]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
-- [[fukuoka-wholistic-nature-perception]]
 - [[fukuoka-what-is-nature]]
-- [[fukuoka-view-of-nature-and-human-hubris]]
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[masanobu-fukuoka]]
-- [[dom]]
 - [[permaculture]]
-- [[natural-farming]]
 - [[fukuoka-nature-perfect-imperfect-philosophical-perspective]]

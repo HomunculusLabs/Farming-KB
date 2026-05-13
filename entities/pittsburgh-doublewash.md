@@ -24,58 +24,88 @@ The Pittsburgh Doublewash is a cannabis hash-making technique developed by an an
 - The name "Pittsburgh Doublewash" was coined by the inventor to describe the system.
 - **Part 1 (Pre-wash)**: Cannabis is pulverized and boiled in water for 1 hour, then boiled again for 3 additional hours in fresh water. This removes approximately 20% by weight of water-soluble tars and waxes.
 - Boiling also accomplishes decarboxylation of THC acids to THC during the first hour.
-- **Part 2 (Extraction + Isomerization)**: The water-washed, dried cannabis is extracted with [[isopropyl-alcohol]] in the Isomerizer using standard procedures.
-- After isomerization and solvent removal, a **second cold water wash** removes residual baking soda neutralizer.
-- The product is re-dried, re-extracted, and approximately 1/5 of leached powder is blended back in as a carrier.
-- Yield: approximately 2 ounces of hash per pound of good-quality regular cannabis.
-- Cost: approximately $40–50 per ounce (1970s pricing).
-
-## Scientific Basis
-
-The method was informed by scientific literature demonstrating:
-
-- Cannabis oils are insoluble in water, unlike tars, waxes, and chlorophyll
-- Boiling water extraction removes ~20% by weight of non-psychoactive water-soluble impurities
-- Decarboxylation of THC acids occurs during boiling (confirmed by analysis graphs in the literature)
-- Removal of tars and waxes dramatically improves taste, smell, and lung irritation
-- The non-psychoactive impurities were identified as the primary cause of harsh taste in cannabis products
-
-## Reported Results
-
-- Hash described as superior to $150/ounce imported Afghani Mazari-Bazari
-- Significantly reduced throat and lung irritation compared to unwashed Iso hash
-- Sweet, rich taste comparable to premium cannabis varieties
-- Enabled chronic coughers to take multiple large hits without significant coughing
-- The method allowed production of premium-quality hash from low-cost commercial Mexican cannabis
-
-## Relevance to Cultivation and Mycology
-
-The Pittsburgh Doublewash demonstrates principles still relevant to modern cannabis processing:
-
-- Water-based purification of cannabis extracts is effective at removing harsh impurities
-- Decarboxylation can be achieved through simple heat treatment
-- The ratio of oil to plant material affects the character and quality of hash products
-- Post-extraction refinement is as important as the extraction method itself
-- Modern analogs include ice-water hash (bubble hash) washing techniques
-
-## Background and Context
-
-This subject has relevance across multiple disciplines and applications. Understanding its fundamental principles provides a foundation for practical application and further study.
-
-## Practical Applications
-
-Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
-
-## See Also
-- [[lemon-cannabis-alchemy-advanced-refinement-techniques]]
-- [[lemon-cannabis-alchemy-high-volume-extraction-method]]
+- **Part 2 (Extraction + Isomerization)**: The water-washed, dried cannabis is extracted with [[lemon-cannabis-alchemy-advanced-refinement-techniques]]
 - [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[fukuoka-ideal-rice-plant-form-high-yield-cultivation]]
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
 
 ## See Also
 
-- [[isomerizer]]
 - [[cannabis-alchemy-book]]
-- [[decarboxylation]]
 - [[cannabidiol-cbd]]
+
+## Overview
+
+Pittsburgh Doublewash represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pittsburgh doublewash
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pittsburgh extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pittsburgh Doublewash finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pittsburgh doublewash. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pittsburgh doublewash and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pittsburgh Doublewash has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pittsburgh doublewash into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

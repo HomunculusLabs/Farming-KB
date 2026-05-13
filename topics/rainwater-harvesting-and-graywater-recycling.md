@@ -1,6 +1,6 @@
 ---
 title: Rainwater rainwater harvesting and graywater recycling Recycling
-subtitle: Capturing, storing, and reusing household water for [[natural-farming-sustainable-living-principles]]
+subtitle: Capturing, storing, and reusing household water for natural-farming-sustainable-living-principles
 tags: [water, conservation, permaculture, homesteading, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
@@ -46,9 +46,7 @@ which water is captured on site, used as many times as practical, and returned
 to the soil where it recharges groundwater and supports plant growth.
 
 The scale of the opportunity is remarkable. Research demonstrates that a mere 1%
-increase in soil [[hamilton-composting-and-organic-matter-management]] enables the soil to hold an additional 20,000
-or more gallons of water per acre. On a small homestead of one to five acres,
-building soil organic matter through mulching, composting, and [[fukuoka-clover-cover-cropping-soil-ecology]]
+increase in soil [[fukuoka-clover-cover-cropping-soil-ecology]]
 can effectively create a distributed reservoir that dwarfs any tank or cistern.
 This is why Mollison and subsequent designers place such emphasis on earthworks
 like swales, contour berms, and keyline patterns that slow, spread, and sink
@@ -60,36 +58,7 @@ carrying pollutants into waterways and causing erosion. A 1,000-square-foot
 roof in a region receiving 30 inches of annual rainfall sheds roughly 18,700
 gallons per year. If captured and infiltrated, that water becomes a resource
 rather than a liability. The shift from viewing water as a problem to viewing
-it as an asset is at the heart of [[williams-pdc-ecological-design-principles]].
-
-Trees play an underappreciated role in this paradigm. Beyond their root
-systems' capacity to stabilize soil and draw water from deep layers, trees
-actively generate water through condensation. On sea-facing slopes, fog drip
-from tree canopies can account for 80 to 86% of total precipitation, meaning
-trees themselves are effectively harvesting atmospheric moisture. This has
-profound implications for reforestation and water management in coastal and
-montane environments where fog is common.
-
-## Rainwater Harvesting: From Roof to Tank
-
-Rainwater harvesting begins with the catchment surface, which in most
-residential settings is the roof. The catchment area is the horizontal
-projection of the roof, not the actual surface area. A simple but powerful
-formula governs the potential yield:
-
-Roof area (sq ft) x Rainfall (inches) x 0.623 = Gallons captured
-
-The factor 0.623 converts the inch-foot unit mismatch into gallons. A
-1,200-square-foot roof in a region receiving 25 inches of annual rainfall can
-theoretically yield 18,690 gallons per year. Even in semi-arid regions
-receiving only 12 inches, the same roof produces nearly 9,000 gallons annually,
-enough to meaningfully supplement irrigation needs through the dry season.
-
-The catchment surface material affects water quality. Metal roofs (steel,
-aluminum, zincalume) are generally best for harvesting potable water because
-they are smooth, inert, and do not shed fibers or granules. Clay tile and
-concrete tile are also excellent but expensive and heavy. Asphalt shingles, the
-most common roofing in [[psilocybin-north-america-pacific-northwest]], are usable for non-potable applications
+it as an asset is at the heart of [[psilocybin-north-america-pacific-northwest]], are usable for non-potable applications
 but may leach petroleum compounds and heavy metals that complicate potable
 treatment.
 
@@ -121,18 +90,12 @@ and tanks should be sealed or fitted with tight-fitting lids.
 
 ## See Also
 
-- [[rainwater-harvesting-systems]]
 - [[water-tank-selection-and-construction]]
-- [[water-storage-techniques]]
 - [[graywater-systems]]
-- [[graywater-systems-for-homesteads]]
 - [[greywater-systems-detailed]]
-- [[graywater-wetland-marsh-filtration-systems]]
 - [[rain-garden-design]]
 - water-catchment-permaculture
-- [[water-catchment-urban-permaculture]]
 - [[mollison-designers-wastewater-treatment-wetlands]]
-- [[swale-design-construction]]
 - [[keyline-design]]
 
 ## References

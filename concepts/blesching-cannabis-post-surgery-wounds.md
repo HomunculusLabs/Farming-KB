@@ -21,17 +21,7 @@ type: concept
 Wounds caused by surgical interventions require careful attention to
 possible complications signaled by an increase in pain, the presence of
 inflammation, swelling, discharge, discoloration, and/or heat. Post-surgical
-[[cannabis-pain-management-protocols]] is a critical component of recovery, and many patients
-find conventional analgesics insufficient or burdened with significant side
-effects. The search for effective alternatives has led researchers to
-investigate cannabinoids for their potential role in managing
-post-operative pain and inflammation.
-
-Surgical wounds differ from other wounds in that they are intentionally
-created under controlled conditions. However, the body's inflammatory
-response to surgical tissue damage follows the same general pathways as
-traumatic injuries. Key complications include infection, poor wound
-healing, excessive scarring, and [[cannabis-chronic-pain-management]] at the surgical site.
+[[cannabis-chronic-pain-management]] at the surgical site.
 Effective pain management not only improves patient comfort but also
 facilitates faster recovery by enabling earlier mobilization and reducing
 stress responses that can impair healing.
@@ -48,35 +38,8 @@ Cannabis that show anti-inflammatory action."
 Results revealed that all types of cannabinoids as well as non-cannabinoid
 parts of the plant effectively reduce pain from inflammation associated
 with post-surgery patients, rheumatism, rheumatoid arthritis, chronic
-neuropathic pain, and [[blesching-cannabis-wound-care]]
-
-### Practical Considerations for Post-Surgical Use
-
-- Coordinate cannabis use with surgical team and pain management
-  physicians
-- Inhaled cannabis provides rapid onset for breakthrough pain episodes
-- Oral or sublingual cannabis may provide longer-lasting baseline pain
-  relief
-- Topical applications at the surgical site may reduce local inflammation
-  without systemic effects
-- Start with low doses and titrate slowly to find the [[blesching-cannabis-therapeutic-window-dosing]]
-  (see [[blesching-cannabis-wound-care]] for detailed mind-body perspectives
-on wound healing. The psychological state of the patient significantly
-influences surgical outcomes. Pre-operative anxiety and post-operative
-stress can elevate cortisol levels, impair immune function, and slow wound
-healing. Patients who approach surgery with a sense of empowerment and
-trust in their body's healing capacity tend to have better outcomes.
-
-Examination of beliefs about punishment, self-worth, and the body's
-ability to heal may reveal underlying psychological factors affecting
-recovery. Practices such as visualization, meditation, and guided imagery
-have been shown to complement pharmacological pain management and may
-enhance the therapeutic effects of cannabinoid-based treatments.
-
-### Related Topics
-
-- [[cannabis-chronic-pain-management]]
-- [[blesching-cannabis-dosing-strategies]]
+neuropathic pain, and [[blesching-cannabis-therapeutic-window-dosing]]
+  (see [[cannabis-chronic-pain-management]]
 - [[cannabis-and-fibromyalgia]]
 
 ### Key Takeaways
@@ -123,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[anandamide]]
-- [[cannabis-for-post-surgery-wounds]]
 - [[blesching-cannabis-tourette-syndrome]]
 - [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]

@@ -6,7 +6,7 @@ type: concept
 
 # Resource Classification in Permaculture
 
-[[permaculture]]'s approach to resources is grounded in a systems-level understanding of how energy flows through natural and designed environments. [[bill-mollison]]'s framework for classifying resources provides designers with an ethical and practical lens for evaluating what we use, how we use it, and what consequences follow. This classification is central to [[savory-holistic-resource-management-animal-impact]] in any permaculture system.
+[[bill-mollison]]'s framework for classifying resources provides designers with an ethical and practical lens for evaluating what we use, how we use it, and what consequences follow. This classification is central to [[savory-holistic-resource-management-animal-impact]] in any permaculture system.
 
 ## The "Everything Gardens" Principle
 
@@ -131,3 +131,11 @@ Mollison's resource classification provides a decision-making framework for desi
 | 5 | Pollutes | Eliminate entirely |
 
 By classifying resources this way and applying the principle of enough, permaculture designers create systems that are regenerative, ethical, and capable of sustained productivity over generations.
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[stametsian-permaculture-model]]
+- [[permaculture-farm-design-principles]]
+- [[nitrogen-fixing-plants-in-permaculture]]
+- [[urban-permaculture-and-integrated-land-management]]

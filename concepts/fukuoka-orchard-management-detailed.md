@@ -71,23 +71,12 @@ The beneficial effects of natural soil management show up in the longer lifetime
 
 ---
 
-Source: [[masanobu-fukuoka]], The Natural Way of Farming: The [[microdosing-theory-and-practice]] of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
+Source: [[microdosing-theory-and-practice]] of [[fukuoka-natural-orchard-development]] produces fruit that may be smaller and less cosmetically perfect than conventionally grown fruit, but he argued it is more flavorful and nutritious. Key harvest observations:
 
-## Harvesting Without Spraying
+- Fruit from trees in biologically active soil develops thicker skins [[fukuoka-natural-fruit-tree-pest-control]] drop regulates the crop
+- [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]:
 
-Fukuoka's [[fukuoka-natural-orchard-development]] produces fruit that may be smaller and less cosmetically perfect than conventionally grown fruit, but he argued it is more flavorful and nutritious. Key harvest observations:
-
-- Fruit from trees in biologically active soil develops thicker skins [[jeavons-natural-pest-control]] resistance
-- Thinning is not practiced — [[fukuoka-natural-fruit-tree-pest-control]] drop regulates the crop
-- [[cannabis-harvest-timing-visual-cues]] follows natural ripening rather than market schedules
-- Mixed orchards (deciduous and evergreen together) spread the harvest across seasons
-
-## Integration with Grain Production
-
-Fukuoka's system does not treat the orchard in isolation. His complete food production cycle links orchard, grain fields, and [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]:
-
-- Straw and hulls from [[fukuoka-rice-and-barley-natural-farming]] paddies are carried up to the orchard as mulch
-- Leguminous ground cover (clover) in the orchard fixes nitrogen for the grain fields through [[using-accumulators-in-compost-and-mulch]] exchange
+- Straw and hulls from [[using-accumulators-in-compost-and-mulch]] exchange
 
 ## Practical Applications
 
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[orchard-management]]
 - [[masanobu-fukuoka]]
-- [[doc]]
 - [[acacia]]
 - [[det]]

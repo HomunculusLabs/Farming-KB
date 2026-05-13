@@ -27,35 +27,13 @@ sources:
 
 ## Chemical Identity
 
-PRO-LAD is 6-propyl-nor-lysergic [[lsd-lysergic-acid-diethylamide-experience-guide]], also known as 6-propyl-N,N-diethylnorlysergamide. The full chemical name is 9,10-didehydro-6-propyl-N,N-diethylergoline-8b-carboxamide. It is a 6-substituted nor-LSD homologue in which the 6-position of the lysergamide skeleton carries a propyl group.
-
-The compound is a member of the lysergamide family, closely related to [[al-lad-entity-tihkal]], and [[tihkal-introduction-and-methodology]] as entry #51, and is one of several 6-substituted nor-LSD compounds explored by the Shulgins.
-
-## Dosage and Administration
-
-The active dosage range for PRO-LAD is 100 to 200 micrograms when taken orally.
-
-Duration of effects is approximately 6 to 8 hours.
-
-At 80 micrograms orally, initial awareness of change occurs within a quarter hour, followed by a plateau. The experience at this level is subtle and not clearly psychedelic in character, with subjects comparing it to MDMA in terms of the uncertainty about whether it is genuinely psychedelic. No visuals are produced at this dose.
-
-At 135 micrograms, the experience develops into what is described as "a sort of paranoia place" without reasonable dialog. A light-headed quality characterizes the early phase. At approximately mid-experience, considerable visual effects emerge, with elaborate fantasy imagery interlocking with music. One subject described extraordinary visual imagery evoked by Brahms' Viola Quintet in A, producing "castle frames within castle walls." The experience eventually becomes more comfortable, with emotions reknitting and food tasting good. Sleep is possible by the 8th or 9th hour.
-
-At 175 micrograms, the experience reaches a +++ on the [[lsd-entity-tihkal]]. Subjects consistently report that it does not have the characteristic flavor of LSD, despite belonging to the same chemical family.
+PRO-LAD is 6-propyl-nor-lysergic [[al-lad-entity-tihkal]], and [[lsd-entity-tihkal]]. Subjects consistently report that it does not have the characteristic flavor of LSD, despite belonging to the same chemical family.
 
 The visual effects, when they emerge, tend to appear later in the experience (around mid-duration) rather than at the onset. The visuals are described as elaborate and fantasy-like, with strong synesthetic connections to music. Unlike LSD, the visual component is not the dominant feature of the experience.
 
 The emotional character is described as initially somewhat uncomfortable or paranoid, but gradually smoothing out over the course of the experience. The compound produces intellectual clarity without the cosmic or mystical overtones associated with LSD at comparable intensity levels.
 
-One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] is the compound's suitability for humor and social interaction. Subjects report that it is excellent for "fooling around" and "clear thinking," producing a comfortable and non-threatening psychedelic state that could be characterized as recreational rather than exploratory.
-
-The overall quality has been memorably described as a "nice, comfortable, middle-American, July-Fourth-Picnic, apple-pie with ice cream sort of psychedelic" that is pleasant and enjoyable but lacks the profound depth that more experienced psychonauts might seek.
-
-The compound does not appear to produce significant euphoria, anxiety, or the characteristic LSD-like dissolution of ego boundaries. The intellectual function remains intact throughout the experience, which is both a strength (for creative or social applications) and a limitation (for those seeking transformative experiences).
-
-## Pharmacology and Structure-Activity Relationships
-
-PRO-LAD is synthesized from nor-LSD, which itself is prepared from LSD (see [[lsd-entity-tihkal]] - the parent compound with a methyl group at the 6-position
+One of the most [[lsd-entity-tihkal]] - the parent compound with a methyl group at the 6-position
 - [[eth-lad-entity-tihkal]] - 6-ethyl-nor-LSD, the direct lower homologue
 
 The compound serves as a reference point for understanding how alkyl substitution at the 6-position of the lysergamide skeleton affects potency and qualitative character of psychedelic effects.
@@ -85,3 +63,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Pro Lad Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pro lad entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pro extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pro Lad Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pro lad entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pro lad entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pro Lad Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pro lad entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[pyrethrum-entity]]

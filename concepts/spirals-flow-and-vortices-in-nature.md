@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Spirals are among the most ubiquitous and functionally important [[patterns-in-nature]]. They arise from the interaction of streaming flows and their subsequent deflection around obstacles, from orbital mechanics, and from organisms developing compact form. Understanding spiral phenomena \u2014 their geometry, their role in flow dynamics, and their practical applications \u2014 provides [[permaculture]] designers with powerful tools for guiding water, directing wind, creating compact arrangements, and increasing exchange efficiency.
+Spirals are among the most ubiquitous and functionally important [[permaculture]] designers with powerful tools for guiding water, directing wind, creating compact arrangements, and increasing exchange efficiency.
 
 ## Types of Spirals
 
@@ -25,43 +25,9 @@ Dynamic spirals can revolve in two senses: organizing material to a pivot point 
 ### Static (Fixed) Spirals
 These are spiral forms preserved in physical structure:
 
-- **Mollusc shells** \u2014 Compact coiled forms analogous to [[annidation]]
-- **Plant leaf whorls** \u2014 Arrangements of leaves spiraling up stems
-- **Branch patterns** \u2014 The spiral ascent of branches in many tree species
-- **DNA** \u2014 The double-helix spiral at the molecular level of all living organisms
-- **Galaxies** \u2014 Elliptical, spiral, or barred spiral forms with slow rotations
+- **Mollusc shells** \u2014 Compact coiled forms analogous to [[overbeck-jet]]" by D\u2019Arcy Thompson (1942), occurs commonly in nature as:
 
-### Spiral Forms in Design
-- **Screws, propellers, impellers, turbines, and gears** \u2014 Technology built on spiral geometry
-- **Spiral gut linings** \u2014 Found in some sharks and invertebrates to increase absorption surface area
-- **Spiral cilia** \u2014 Used by organisms to convey mucus, food, or particles in or out
-- **Spiral anchors** \u2014 Used by plants like *Convolvulus* and some parasites to grip earth or flesh
-
-## The Fibonacci Spiral in Nature
-
-The spiral arrangement of leaves in many plants follows precise mathematical relationships. Leaves are placed at fractional distances around the stem from the preceding leaf \u2014 one-half way, one-third way, and so on. These placements progress in a regular **Fibonacci series**, where each ratio follows from the sum of the two preceding:
-
-1:2 + 1:3 = 2:5 \u2192 1:3 + 2:5 = 3:8 \u2192 5:13 \u2192 8:21 \u2192 13:34
-
-These sequences appear in both plants and planetary orbits. Venus forms five loops (retrogressions) below the ecliptic in eight years, echoing the same mathematical progression. Storl (1978) saw a relation between the forms of plants and of planets in these progressions.
-
-### Imperfection in Natural Spirals
-
-Natural spirals are not "perfect" mathematical forms \u2014 they "show slight progression" and gradually lose phase over long periods. This imperfection is itself informative: natural systems approximate but do not rigidly follow mathematical ideals, allowing for adaptation and variation.
-
-## The Yin-Yang and the "S" Form
-
-A long spiral in section produces the "S" form \u2014 visible in humid landscape slopes and famously represented by the yin-yang symbol. Three-dimensional spirals form long ribbons of complex shape. The "S" curve represents the cross-section of a toroidal flow, where material moves up one side and down the other in a continuous cycle.
-
-This connects the spiral directly to the core permaculture model, where the "S" streamlines of flow define the fundamental pattern of energy movement through systems.
-
-## Spirals in Landscape Flow
-
-### The Overbeck Jet
-
-The simple involuted mushroom form, called an "[[overbeck-jet]]" by D\u2019Arcy Thompson (1942), occurs commonly in nature as:
-
-- Mushrooms and fungal fruiting bodies
+- Mushrooms and [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] bodies
 - Rivers flooding into the sea
 - Jellyfish bell forms
 - Smoke, fluid, gas, or oil jets entering other media
@@ -72,7 +38,7 @@ These "apple core" models arise naturally from the streaming of fluids and gases
 
 ### Vortex Shedding
 
-**Whirlpools or vortices** are shed alternately from a fixed bluff body located in flow. Each side generates its own vortex, each with different rotation, creating beautiful and complex forms. These are the basis of the work at the Virbela Institute on **flowforms** \u2014 sculpted vessels designed to create specific vortex patterns for water treatment and aeration.
+**Whirlpools or vortices** are shed alternately from a fixed bluff body located in flow. Each side generates its own vortex, each with different rotation, creating beautiful and complex forms. These are the basis of the work at the [[virbela-institute]] on **flowforms** \u2014 sculpted vessels designed to create specific vortex patterns for water treatment and aeration.
 
 The sets of vortices shed from obstacles in flow are fundamental to:
 
@@ -89,7 +55,7 @@ Spirals are found wherever nature needs:
 1. **Harmonic flow** \u2014 Smooth, efficient movement of fluids or energy
 2. **Compact form** \u2014 Fitting maximum surface area or structure into minimum space
 3. **Efficient array** \u2014 Optimal spatial arrangement (leaf display, seed packing)
-4. **Increased exchange** \u2014 Maximizing surface contact for absorption, gas exchange, or heat transfer
+4. **Increased exchange** \u2014 Maximizing surface contact for absorption, [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]], or heat transfer
 5. **Transport** \u2014 Moving materials along defined paths (gut, vessels, currents)
 6. **Anchoring** \u2014 Secure attachment in substrate (root systems, holdfasts)
 
@@ -115,8 +81,8 @@ Spirals are found wherever nature needs:
 ### Flowform Technology
 Flowforms are sculpted vessels designed to create specific vortex patterns. They have been developed for:
 - Water oxygenation and revitalization
-- Sewage treatment
-- Irrigation system design
+- [[biological-sewage-treatment-plants]]
+- [[solomon-sprinkler-irrigation-system-design]]
 - Creating rhythmic water movement that mimics natural stream flow
 
 ### Architectural Applications
@@ -128,8 +94,8 @@ Flowforms are sculpted vessels designed to create specific vortex patterns. They
 
 Spirals are, in effect, single streamlines of vortices, tori, or sap flows. This connects them directly to:
 
-- **Pulsers** \u2014 The spiraling chemical reactions that drive biological rhythms and peristalsis
-- **Tori** \u2014 The donut-shaped flow patterns that underlie the core permaculture model
+- **Pulsers** \u2014 The spiraling chemical reactions that drive [[pulsers-biological-rhythms-and-growth]] peristalsis
+- **Tori** \u2014 The donut-shaped flow patterns that underlie the core [[growing-gourmet-stametsian-permaculture-model]]
 - **Core models** \u2014 The fundamental tree/vortex pattern from which all other patterns derive
 
 DNA itself is coiled around a plus-torus like a ribbon around a doughnut, literally encoding the spiral-torus relationship into the genetic material of every living organism.

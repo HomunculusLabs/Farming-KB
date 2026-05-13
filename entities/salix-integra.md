@@ -11,33 +11,14 @@ updated: 2026-05-08
 sources:
   - Argus, G.W. (2010). "Salix of psilocybin-north-america-pacific-northwest." University of Michigan Press.
   - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford.
-  - Fang, S. et al. (2017). "Phytoremediation [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] by Salix integra." Environmental Science and Pollution Research, 24(20), 16884–16892.
-  - Kuzovkina, Y.A. & Quigley, M.F. (2005). "Willows beyond wetland uses in [[guzman-psilocybin-mushrooms-north-america]]." Journal of Environmental Horticulture, 23(1), 15–21.
+  - Fang, S. et al. (2017). "Phytoremediation guzman-psilocybin-mushrooms-north-america." Journal of Environmental Horticulture, 23(1), 15–21.
 ---
 
 ## Overview
 
 Salix integra, commonly known as the dappled willow or flamingo willow, is a deciduous shrub species in the family Salicaceae. It is native to eastern Asia, primarily Japan, Korea, and northeastern China.
 
-The species is one of approximately 400 species in the genus Salix, which has a nearly [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] across temperate and cold-climate regions of both hemispheres.
-
-The species is widely cultivated as an ornamental plant for its striking variegated foliage, which emerges pink in spring before maturing to white and green. It is also valued in riparian restoration and phytoremediation projects for its fast growth and tolerance of wet soils.
-
-## Taxonomy and Morphology
-
-Salix integra was described by the Swedish botanist Carl Peter Thunberg in 1784. It belongs to the genus Salix, subgenus Salix, section Vetrix.
-
-Recent molecular phylogenetic studies place it in a clade with Salix suchowensis and Salix triandra, though morphological distinctions remain the primary basis for identification.
-
-The species epithet "integra" refers to the entire (untoothed) leaf margins, distinguishing it from many related willows. This characteristic is unusual within the Vetrix section, where serrate margins are more typical.
-
-The shrub typically reaches 1.5 to 4 meters in height, with a spreading, multi-stemmed habit. Young branches are slender and flexible, often displaying a reddish or purplish tint.
-
-Leaves are lanceolate to narrowly elliptic, 4 to 10 cm long and 1 to 2.5 cm wide, with entire margins. The foliage of the popular cultivar 'Hakuro-nishiki' emerges bright pink, fading to creamy white and soft green as the season progresses.
-
-Catkins appear in early spring before or with the leaves, measuring 2 to 4 cm in length. Staminate catkins are yellow with prominent stamens, while pistillate catkins are greenish and shorter.
-
-The bark is smooth and grayish-green on young stems, becoming rougher and darker with age. Branches are brittle at the base but highly flexible at the tips, a characteristic that facilitates [[hamilton-vegetative-propagation]].
+The species is one of approximately 400 species in the genus Salix, which has a nearly [[hamilton-vegetative-propagation]].
 
 Winter buds are small, reddish-brown, and appressed to the stem, with a single visible bud scale. Bud break occurs early in spring, making the species susceptible to late frost damage in colder regions.
 
@@ -59,13 +40,7 @@ Salix integra provides important ecological services in riparian and wetland eco
 
 The catkins are an early-season nectar and pollen source for bees and other pollinators. Foliage serves as browse for deer, rabbits, and other herbivores.
 
-The species is a noted accumulator of heavy metals, particularly cadmium, lead, and zinc. This phytoaccumulation capacity makes it useful in [[comparison-constructed-wetlands-vs-bioswales]] and brownfield remediation sites.
-
-Like many willows, Salix integra supports a diverse community of phytophagous insects, including specialist leaf beetles and sawfly larvae. These in turn provide food for insectivorous birds.
-
-The species contributes to riparian food webs by shedding leaves that feed aquatic detritivores. Fallen leaves break down rapidly in water, releasing nutrients that support stream productivity.
-
-Willow roots form associations with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, enhancing [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in nutrient-poor alluvial soils. These [[dighton-mycorrhizal-networks-carbon-transfer]] may also connect individual plants across riparian corridors.
+The species is a noted accumulator of heavy metals, particularly cadmium, lead, and zinc. This phytoaccumulation capacity makes it useful in [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, enhancing [[dighton-mycorrhizal-networks-carbon-transfer]] may also connect individual plants across riparian corridors.
 
 ## Cultivation and Uses
 
@@ -85,6 +60,89 @@ Regular renewal pruning — removing one-third of the oldest stems at ground lev
 
 The species responds well to coppicing, producing long, straight shoots suitable for living willow structures and garden features. In commercial production, plants are often grown as standards with a 60 to 90 cm clear stem.
 
-Container cultivation is successful provided plants are watered frequently during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. A slow-release fertilizer applied in spring supports vigorous foliar display.
+Container cultivation is successful provided plants are watered frequently during [[fungal-competition-survival-contaminated-soils]]. Harvested biomass can be safely disposed of or processed for metal recovery.
 
-In phytoremediation, Salix integra has demonstrated effective uptake of cadmium and lead from [[fungal-competition-survival-contaminated-soils]]. Harvested biomass can be safely disposed of or processed for metal recovery.
+## Overview
+
+Salix Integra represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish salix integra
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving salix extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Salix Integra finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for salix integra. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+salix integra and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Salix Integra has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of salix integra into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[permplant-willows-salix-erosion-control-fodder]]
+- [[salix-alba]]
+- [[salix-babylonica]]
+- [[salix-discolor]]
+- [[salix-nigra]]

@@ -19,9 +19,7 @@ sources:
 
 ## Overview
 
-**Psilocybe semilanceata** (Fr.) P. Kumm., commonly known as the liberty cap, is a small psilocybin-containing mushroom in the family Hymenogastraceae. It is the most widely distributed and commonly consumed [[archaeology-of-psychedelic-mushroom-use]] in Europe, and among the most potent naturally occurring psilocybin-containing species.
-
-The liberty cap has a long history of use in indigenous European contexts and became prominent in Western counterculture during the 1960s–1970s. Its reputation as a potent entheogen has made it one of the most studied psychedelic fungi in modern [[hofmann-lsd-clinical-research-early-studies]] on psilocybin-assisted therapy.
+**Psilocybe semilanceata** (Fr.) P. Kumm., commonly known as the liberty cap, is a small psilocybin-containing mushroom in the family Hymenogastraceae. It is the most widely distributed and commonly consumed [[hofmann-lsd-clinical-research-early-studies]] on psilocybin-assisted therapy.
 
 ## Taxonomy and Morphology
 
@@ -55,36 +53,97 @@ The species epithet *semilanceata* refers to the distinctive lance-shaped (semi-
 
 ## Distribution and Habitat
 
-P. semilanceata has a circumpolar distribution across temperate and subarctic regions of the Northern Hemisphere. It is found throughout Europe (from the Mediterranean to Scandinavia), the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]], and has been reported from parts of South America, New Zealand, and Australia as an introduced species.
+P. semilanceata has a circumpolar distribution across temperate and subarctic regions of the Northern Hemisphere. It is found throughout Europe (from the Mediterranean to Scandinavia), the [[berry-growing]], and has been reported from parts of South America, New Zealand, and Australia as an introduced species.
 
-The species is strongly associated with [[biodiversity-fungi-grassland-ecosystems]]. It fruits in pastures, meadows, lawns, parkland, and along paths in upland areas. Unlike many psilocybin mushrooms, it does NOT grow directly on dung — it is a saprotroph on decaying grass roots and accumulated organic matter in soil.
+The species is strongly associated with [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes with lower affinity.
 
-Optimal habitat includes nutrient-poor to moderately fertile grasslands with acidic to neutral soils. It is particularly abundant in sheep pastures and upland moorland. Fruiting occurs from late summer through early winter, with peak season in September–November in the Northern Hemisphere.
-
-Elevation range spans from sea level to approximately 2,000 m in mountainous regions. The fungus tolerates cold temperatures and is among the last agarics fruiting in autumn.
-
-It has been reported fruiting as late as January in mild coastal climates of the Pacific Northwest. In Europe, autumn rains trigger prolific fruiting events, with hundreds of specimens appearing in favorable pastures within days.
-
-## Bioactive Compounds
-
-P. semilanceata is among the most potent psilocybin-containing mushrooms, with consistently higher tryptamine alkaloid content than *Psilocybe cubensis*.
-
-**Primary alkaloids:**
-- **Psilocybin:** 0.6–2.0% dry weight (average ~1.1%). The primary prodrug, dephosphorylated to psilocin in vivo by alkaline phosphatase enzymes.
-- **Psilocin:** 0.1–0.6% dry weight (average ~0.3%). The active metabolite and primary psychoactive compound.
-- **Baeocystin:** 0.05–0.3% dry weight. A less-studied tryptamine alkaloid, possibly contributing to the overall effect profile.
-- **Norbaeocystin:** Present in trace amounts. Pharmacological significance remains unclear.
-
-**Variability:** Alkaloid content varies significantly based on geographic origin, growth conditions, and developmental stage. Specimens from cooler, northern populations tend to have higher psilocybin concentrations.
-
-## Pharmacology
-
-Psilocybin is a serotonergic psychedelic acting primarily as a partial agonist at the 5-HT2A receptor. It also binds to 5-HT2C, 5-HT1A, and other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes with lower affinity.
-
-The [[leary-psychedelic-experience-bardo-mapping]] from P. semilanceata is characterized by altered perception, synesthesia, enhanced introspection, and mystical-type experiences. Effects typically begin 20–60 minutes after ingestion and last 4–6 hours.
-
-**Clinical research:** Psilocybin has demonstrated efficacy in clinical trials for treatment-resistant depression, end-of-life anxiety, nicotine addiction, and [[cannabis-for-alcohol-dependence]]. The psilocybin from P. semilanceata is chemically identical to that used in clinical formulations.
+The [[cannabis-for-alcohol-dependence]]. The psilocybin from P. semilanceata is chemically identical to that used in clinical formulations.
 
 **Toxicity:** The species has very low physiological toxicity. LD50 of psilocybin in mice is 280 mg/kg (oral). There are no confirmed human deaths from psilocybin mushroom toxicity alone.
 
 ## Cultivation
+
+## Overview
+
+Psilocybe Semilanceata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe semilanceata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Semilanceata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe semilanceata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe semilanceata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Semilanceata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe semilanceata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[grass-seed-cultivation-of-psilocybe-species]]
+- [[psilocybe-fascicata]]
+- [[psilocybe-plutonia]]
+- [[psilocybe-strictipes-entity]]
+- [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]

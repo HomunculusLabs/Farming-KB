@@ -78,12 +78,7 @@ On sea-facing coasts of islands and continents, the relatively warmer land surfa
 Condensation can be an extraordinarily significant water source:
 
 - **On upland slopes** of islands or sea coasts, condensation drip can constitute 80-86% of total precipitation
-- On [[table-mountain]] (South Africa) and Lanai (Hawaii), fog drip has been measured at 130-330 cm per year — in both cases exceeding rainfall
-- Newfoundland gets 158 days of fog per year; wherever mountains face onshore night winds, fog condensation probably exceeds rainfall
-
-### The Scale of Condensation Surfaces
-
-A single giant tree such as the Til (*[[ocotea-foetens]]*) may present 16 hectares of laminate leaf surface to sea air, and there can be 100 or more such trees per surface hectare. Trees enormously magnify the available condensation surface. The taller the trees — as with giant redwoods and white pines — the larger the volume of moist air intercepted, and the greater the resulting precipitation.
+- On [[ocotea-foetens]]*) may present 16 hectares of laminate leaf surface to sea air, and there can be 100 or more such trees per surface hectare. Trees enormously magnify the available condensation surface. The taller the trees — as with giant redwoods and white pines — the larger the volume of moist air intercepted, and the greater the resulting precipitation.
 
 All types of trees act as condensers: Canary Island pines, laurels, holm oaks, redwoods, eucalypts, and Oregon pines. Evergreens work year-round, but even deciduous trees catch moisture in winter.
 
@@ -95,9 +90,8 @@ Condensation produced the dense rainforests of Tasmania, Chile, Hawaii, Washingt
 
 The effects of condensation can be quickly destroyed. Felling of forests causes rivers to dry up, swamps to evaporate, shallow water to dry out, and drought to grip the land. All of this can occur within a single human lifetime.
 
-Precipitation from clear air is much less than from fog. Advection fogs are most noticeable where cold currents — such as the Oya Shio off East Asia and the Labrador current off northeast America — cause humid inland airstreams in spring and summer.
+Precipitation from clear air is much less than from fog. Advection fogs are most noticeable where cold currents — such as the [[oya-shio]] off East Asia and the Labrador current off northeast America — cause humid inland airstreams in spring and summer.
 
 ## See Also
-- [[trees-and-precipitation]]
 - [[trees-and-precipitation-cycle]]
 - [[trees-and-precipitation-generation]]

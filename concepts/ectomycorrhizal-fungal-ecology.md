@@ -17,54 +17,13 @@ Ectomycorrhizal (ECM) fungi form symbiotic associations primarily with woody pla
 
 The ECM association involves:
 - **Fungal mantle**: Dense layer of hyphae enveloping the root tip, acting as a physical barrier and modified absorptive surface
-- **Hartig net**: Labyrinthine network of hyphae between root cortical cells, the primary site of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
-- **Extraradical mycelium**: Extensive network of hyphae and hyphal cords extending into soil, sometimes for meters from the root
-- **Fruiting bodies**: Above-ground mushrooms produced by basidiomycete and ascomycete ECM fungi
-
-A.B. Frank (1885) first described these widespread associations on tree roots, hypothesizing that mycorrhizae represent mutualistic symbiosis where the fungus extracts nutrients from mineral soil and humus while the host tree nourishes the fungus. Modern research has largely confirmed Frank's hypothesis.
-
-## Nutrient Acquisition Strategies
-
-### Organic Nitrogen Acquisition
-
-ECM fungi are particularly notable for their ability to access organic nitrogen:
-- Production of proteases, peptidases, and oxidative enzymes for accessing nitrogen from soil organic matter
-- Capability to use amino acids, peptides, and proteins directly
-- Critical in boreal and temperate forests where most nitrogen is in organic forms
-
-### Phosphorus Acquisition
-
-ECM fungi enhance phosphorus uptake through:
-- Extensive extraradical mycelium exploring soil volumes far beyond root zones
-- Production of acid phosphatases
-- Solubilization of mineral phosphates through organic acid exudation
-- Hyphal translocation from nutrient-rich to nutrient-poor zones
-
-### Enzymatic Capabilities
-
-ECM diversity includes species with varying enzymatic repertoires. Some ECM species produce lignin-degrading enzymes (peroxidases, laccases), allowing them to function as saprotrophs in addition to symbionts. This [[fungal-enzymatic-diversity-decomposition]] is critical in ecosystems where [[dighton-litter-quality-fungal-decomposition-rates]] is low (high C:N, high lignin content).
-
-## Community Structure and Succession
-
-ECM communities change predictably during forest development:
-- **Early-stage fungi** (Laccaria, Hebeloma, Thelephora): Rapid colonizers, broad host range, tolerant of disturbance
-- **Late-stage fungi** (Amanita, Cortinarius, Russula): Slower to establish, narrower host preferences, form long-term associations
-
-Last et al. (1987) described successions of sheathing mycorrhizal fungi where the [[core-endorhiza-bacterial-community-composition-cannabis]] shifts as stands mature. This succession reflects both changes in soil chemistry and competitive interactions among fungal species.
+- **Hartig net**: Labyrinthine network of hyphae between root cortical cells, the primary site of [[fungal-enzymatic-diversity-decomposition]] is critical in ecosystems where [[core-endorhiza-bacterial-community-composition-cannabis]] shifts as stands mature. This succession reflects both changes in soil chemistry and competitive interactions among fungal species.
 
 ## Interplant Connections
 
 ECM networks connect trees of the same or different species:
 - Read et al. (1985) showed preferential 14C transfer between pine seedlings sharing the same ECM association compared to plants with arbuscular mycorrhizae
-- Simard et al. (1997) demonstrated field [[singh-mycorrhizal-network-carbon-transfer-plants]] from paper birch to Douglas-fir, with transferred carbon constituting 13% of fir and 45% of birch shoot carbon
-- Amaranthus and Perry (1989) showed that remnant ECM networks in partially cleared sites support 90% tree survival vs. 50% in fully cleared sites
-
-## Ecosystem Roles
-
-### Forest Regeneration
-
-ECM networks facilitate forest regeneration by:
-- Connecting seedlings to established trees for [[mycelial-network-resource-sharing-plants]]
+- Simard et al. (1997) demonstrated field [[mycelial-network-resource-sharing-plants]]
 - Providing established nutrient pools to establishing individuals
 - Enhancing seedling survival during competitive establishment
 - Onguene and Kuyper (2002) showed ECM networks enhance seedling survival and mycorrhiza formation in Cameroon rain forests
@@ -118,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-ecology]]
 - [[laccase]]
-- [[g-13]]
 - [[saprotrophic-fungi]]
 - [[mycelium]]

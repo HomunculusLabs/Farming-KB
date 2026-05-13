@@ -27,12 +27,11 @@ sources:
 
 Erythrina fusca, known as coral bean, immortelle, or bucayo, is a tropical
 deciduous tree in the Fabaceae (legume) family native to tropical America,
-from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern [[guzman-psilocybin-mushrooms-south-america]], and
+from southern Mexico through [[guzman-psilocybin-mushrooms-south-america]], and
 widely naturalized across the tropics.
 
 Reaching heights of 15–25 m, E. fusca is valued in agroforestry and
-permaculture for rapid growth, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], shade provision, and
-use as a support tree for [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], vanilla, and yam.
+permaculture for rapid growth, [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], vanilla, and yam.
 
 The species contains erythrina alkaloids (erythraline, erythrinine) in
 seeds and bark with traditional medicinal and toxicological significance.
@@ -75,11 +74,7 @@ profusely with Bradyrhizobium spp.
 
 ## Distribution and Habitat
 
-Native from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], Caribbean, to Colombia,
-Venezuela, the Guianas, and Amazon basin. Widely naturalized in West Africa,
-[[psilocybe-southeast-asia-pacific]], and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
-
-Found in seasonally [[mollison-wet-dry-tropical-design-strategies]] forests, river margins, coastal areas, and
+Native from southern Mexico through [[psilocybe-southeast-asia-pacific]], and [[mollison-wet-dry-tropical-design-strategies]] forests, river margins, coastal areas, and
 disturbed sites from sea level to 500 m. Tolerates waterlogging and saline
 conditions. USDA Zones 10–12, minimum ~2°C.
 

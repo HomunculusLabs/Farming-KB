@@ -16,39 +16,7 @@ sources:
 
 # Physarum polycephalum
 
-Physarum polycephalum is a plasmodial [[biological-slime-mold-computing]] (myxomycete) that has become one of the most important model organisms in cell biology, protistology, and biologically inspired computing. It is easily recognized by its bright yellow, multinucleate plasmodium that can reach impressive sizes and exhibits remarkable information-processing capabilities that have attracted attention from fields ranging from molecular biology to computer science and urban planning.
-
-## Taxonomy and Classification
-
-P. polycephalum (Schweinitz) belongs to the Myxogastria (Myxomycetes) within the Amoebozoa. Phylogenetic analyses using EF-1 alpha [[cho-fish-amino-acid-preparation]] sequences indicate that plasmodial and cellular [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]] comprise a monophyletic group (Baldauf and Doolittle 1997; Baldauf et al. 2000). While historically studied by mycologists due to their spore-producing fruiting bodies, molecular evidence has conclusively demonstrated that slime molds are not true fungi but belong to a separate eukaryotic lineage, the Amoebozoa, which is more closely related to animals and fungi than to plants.
-
-## Morphology and Life Cycle
-
-The life cycle of P. polycephalum is complex and involves several distinct morphological stages, each adapted to different environmental conditions:
-
-### Plasmodium
-
-The dominant, conspicuous feeding stage is a bright yellow, fan-shaped phaneroplasmodium that migrates across surfaces in search of food. It has a feeding anterior edge and a posterior trailing network of veins (Fig. 25.9 in the source). The plasmodium is coenocytic, containing thousands of nuclei within a single cytoplasmic mass that is not divided by cell walls. This multinucleate condition allows for rapid cytoplasmic streaming and efficient distribution of nutrients throughout the organism. Plasmodia can reach sizes of up to a square meter or more under laboratory conditions.
-
-### Sporulation
-
-Under appropriate conditions of light, moisture, and nutrient depletion, the plasmodium converts into sporangia, which are stalked fruiting structures containing spores. The sporangia are typically small (1 to 3 mm) and contain dark spores borne on capillitium threads. This is the stage traditionally recognized by mycologists and field biologists.
-
-### Germination
-
-Spores germinate to release myxamoebae, which are small, unicellular, amoeboid cells that can move by pseudopodia. Under certain conditions, the myxamoebae can transform into flagellated swarm cells that swim in films of water, providing a dispersal mechanism.
-
-### Zygote Formation
-
-Myxamoebae of compatible mating types fuse to form a zygote, which then undergoes repeated nuclear divisions without cytokinesis to develop into a new multinucleate plasmodium. This cycle can repeat indefinitely under favorable conditions.
-
-## Habitat and Distribution
-
-P. polycephalum is commonly found on rotting wood, [[dighton-fungal-decomposition-leaf-litter-dynamics]], and other decaying [[hamilton-composting-and-organic-matter-management]] in temperate forests worldwide. In the field, large plasmodia are often seen on rotting wood or feeding on wood-rotting basidiomycetes, where they exploit the partially decayed wood as a nutrient source. Plasmodia can also be located by the distinctive slime trails they leave behind as they migrate across surfaces.
-
-### Moist Chamber Cultivation
-
-The moist [[moist-chamber-technique-fungal-fruiting]] works well for culturing P. polycephalum when harsh environmental conditions prevent fruiting in the field (Braun and Keller 1993). Moist chambers consist of Petri dishes or fingerbowls in which substrata are placed onto an appropriate source of moisture, either moistened paper or agar. This technique is a standard method for collecting and studying myxomycetes from field samples.
+Physarum polycephalum is a plasmodial [[cho-fish-amino-acid-preparation]] sequences indicate that plasmodial and cellular [[dighton-fungal-decomposition-leaf-litter-dynamics]], and other decaying [[moist-chamber-technique-fungal-fruiting]] works well for culturing P. polycephalum when harsh environmental conditions prevent fruiting in the field (Braun and Keller 1993). Moist chambers consist of Petri dishes or fingerbowls in which substrata are placed onto an appropriate source of moisture, either moistened paper or agar. This technique is a standard method for collecting and studying myxomycetes from field samples.
 
 ## Biological Problem-Solving
 
@@ -74,7 +42,86 @@ Researchers have used P. polycephalum to model biological computing and unconven
 
 P. polycephalum has been an important model for studying mitochondrial genetics and evolution. Key findings include:
 
-- Mitochondrial genes for cytochrome B, ATPases 6 and 9, cox I and cox II from [[saccharomyces-cerevisiae]] — yeast, used in comparative mitochondrial genetics studies
-- [[podospora-anserina]] — model ascomycete for mitochondrial genetics research
-- [[mycelial-networks-and-intelligence]]
+- Mitochondrial genes for cytochrome B, ATPases 6 and 9, cox I and cox II from [[podospora-anserina]] — model ascomycete for mitochondrial genetics research
 - [[mycetozoans-slime-molds]]
+
+## Overview
+
+Physarum Polycephalum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish physarum polycephalum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving physarum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Physarum Polycephalum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for physarum polycephalum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+physarum polycephalum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Physarum Polycephalum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of physarum polycephalum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[physarum-computation]]

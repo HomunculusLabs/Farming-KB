@@ -15,10 +15,10 @@ Kombucha is a fermented tea beverage produced using a symbiotic culture of bacte
 
 The SCOBY (Symbiotic Culture of Bacteria and Yeast) is a gelatinous cellulose mat that forms on the surface of fermenting kombucha. It houses:
 
-- Acetobacter species (acetic [[bionutrients-lab-lactic-acid-bacteria-serum]]) — produce acetic acid, giving kombucha its tang
+- Acetobacter species (acetic acid bacteria) — produce acetic acid, giving kombucha its tang
 - Gluconacetobacter — produces gluconic acid and builds the cellulose pellicle
-- Various yeast strains (Saccharomyces, Zygosaccharomyces) — consume sugar and produce ethanol and CO2
-- Lactobacillus species — contribute [[cho-lactic-acid-bacteria-preparation]] and additional probiotics
+- Various yeast strains (Saccharomyces, Zygosaccharomyces) — consume sugar and produce [[ethanol]] and CO2
+- Lactobacillus species — contribute lactic acid and additional probiotics
 
 A healthy SCOBY is opaque, cream-colored, and smooth. Dark spots, mold (fuzzy and dry), or an unusually foul smell indicate contamination — discard the batch and start fresh.
 
@@ -41,7 +41,7 @@ The SCOBY needs sugar as fuel. Most sugar is consumed during fermentation; finis
 - White cane sugar — standard, cleanest fermentation
 - Organic evaporated cane juice — slight mineral benefit
 - Honey — use raw and unfiltered; may slow fermentation initially
-- Avoid artificial sweeteners, stevia, or [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]] — the SCOBY cannot metabolize them
+- Avoid artificial sweeteners, stevia, or monk fruit — the SCOBY cannot metabolize them
 
 Typical ratio: 1 cup sugar per gallon of tea. Dissolve sugar fully in hot tea before cooling.
 
@@ -78,7 +78,7 @@ The second ferment (2F) is where kombucha becomes fizzy and flavored.
 
 1. Remove the SCOBY and 1/2 cup starter liquid — set aside for the next batch
 2. Strain the kombucha into bottles (swing-top glass bottles work best)
-3. Add flavorings: fresh fruit, [[bionutrients-lab-fermented-fruit-juice-ffj]], herbs, spices, ginger, etc.
+3. Add flavorings: fresh fruit, fruit juice, herbs, spices, ginger, etc.
 4. Leave 1-2 inches of headspace in each bottle
 5. Seal tightly and ferment at room temperature for 2-7 days
 6. "Burp" bottles daily to release excess pressure and avoid explosions
@@ -120,4 +120,4 @@ The second ferment (2F) is where kombucha becomes fizzy and flavored.
 
 - [[kefir-making]] — another cultured beverage using grains
 - [[vinegar-making]] — related acetic acid fermentation process
-- [[pickle-making]] — vegetable fermentation using similar [[knf-lactic-acid-bacteria-serum]]
+- [[pickle-making]] — vegetable fermentation using similar [[lactic-acid-bacteria]]

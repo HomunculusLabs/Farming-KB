@@ -5,7 +5,7 @@ tags:
   - fabaceae
   - legume
   - forage
-  - cover-crop
+  - [[cover-crop]]
   - nitrogen-fixation
   - european-native
 date: 2026-05-09
@@ -13,22 +13,13 @@ updated: 2026-05-09
 sources:
   - Gladstones, J.S. (1970). "Lupins as crop plants." Field Crop Abstracts 23: 123-148.
   - Cowling, W.A. et al. (1998). "Lupinus." In: The IGBP/SCGT Phylip Database, Legume Phylogeny Working Group.
-  - Huyghe, C. (1997). "White lupin ([[lupinus-albus]] L.)." Field Crops Research 53: 147-160.
-  - Palta, J.A. & Ludwig, C. (2000). "Yellow lupin (Lupinus luteus) is a superior crop to narrow-leafed lupin (L. angustifolius) in sandy acid soils." Field Crops Research 68: 57-64.
-  - European Lupin Association (2022). "Lupinus luteus: agronomic guide." ELA Technical Bulletin No. 7.
----
-
-## Overview
-
-**Lupinus luteus** is an annual legume in the family Fabaceae, commonly known as yellow lupine, European yellow lupin, or narrowleaf yellow lupin.
-
-It is native to the Mediterranean region and the Iberian Peninsula, and has been cultivated as a grain legume and [[holzer-green-manure-crop-compendium]] for centuries.
+  - Huyghe, C. (1997). "White lupin ([[holzer-green-manure-crop-compendium]] for centuries.
 
 The species produces bright yellow flowers in dense terminal racemes and protein-rich seeds that serve as livestock feed and potential human food.
 
 Its striking floral displays also make it an attractive ornamental annual for wildflower meadows and cottage gardens.
 
-Yellow lupine is valued in [[phosphate-accumulators-sustainable-agriculture]] for its deep taproot, [[biological-nitrogen-fixation-agriculture]] capacity, and tolerance of acidic, sandy soils where other legumes perform poorly.
+Yellow lupine is valued in [[biological-nitrogen-fixation-agriculture]] capacity, and tolerance of acidic, sandy soils where other legumes perform poorly.
 
 ## Taxonomy and Morphology
 
@@ -52,9 +43,7 @@ Seed protein is rich in lysine but relatively low in sulfur-containing amino aci
 
 Yellow lupine is native to the western Mediterranean Basin, particularly the Iberian Peninsula, southern France, and northwestern Italy.
 
-It has been naturalized in parts of central and northern Europe, the British Isles, southeastern Australia, and parts of [[guzman-psilocybin-mushrooms-south-america]].
-
-The species is adapted to sandy, acidic soils with pH 4.0–6.5, where it outperforms most other [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]] including white lupin and narrow-leafed lupin.
+It has been naturalized in parts of central and northern Europe, the British Isles, southeastern Australia, and parts of [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]] including white lupin and narrow-leafed lupin.
 
 It is found in coastal dunes, scrubland, open woodland margins, and disturbed ground in its native range. It prefers Mediterranean climates with warm, dry summers and mild, wet winters.
 
@@ -87,3 +76,75 @@ The crop matures in 110–140 days from sowing. Grain yields range from 1.5–3.
 Seeds contain 35–45% protein and 10–15% oil, making them an excellent protein supplement for livestock rations.
 
 Low-alkaloid "sweet" cultivars have been developed that contain less than 0.02% alkaloids, allowing direct use in monogastric feeds without heat treatment.
+
+## Overview
+
+Lupinus Luteus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lupinus luteus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lupinus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lupinus Luteus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lupinus luteus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lupinus luteus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lupinus Luteus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lupinus luteus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

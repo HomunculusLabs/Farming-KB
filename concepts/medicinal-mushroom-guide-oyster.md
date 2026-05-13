@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide Oyster
+title: Oyster Mushroom (Pleurotus ostreatus) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ sources: []
 
 The oyster mushroom (Pleurotus ostreatus) is one of the most widely cultivated and recognized edible mushrooms worldwide. Named for its oyster shell-shaped cap, it grows in shelf-like clusters on dead or dying hardwood trees across temperate and subtropical forests globally.
 
-While primarily known as a culinary mushroom, oyster mushrooms possess significant [[ginseng-cultivation-and-medicinal-properties]] that are increasingly supported by research. They are particularly notable for their cholesterol-lowering effects (producing natural statins), anti-tumor activity, and environmental applications in mycoremediation.
+While primarily known as a culinary mushroom, oyster mushrooms possess significant medicinal properties that are increasingly supported by research. They are particularly notable for their cholesterol-lowering effects (producing natural statins), anti-tumor activity, and environmental applications in mycoremediation.
 
 ## Key Compounds
 
@@ -22,9 +22,9 @@ While primarily known as a culinary mushroom, oyster mushrooms possess significa
 - **Pleuran:** A specific beta-glucan from P. ostreatus with documented immune-enhancing effects.
 - **Ergothioneine:** A powerful antioxidant amino acid, found at high levels in oyster mushrooms.
 - **Lectins:** Proteins with anti-tumor and immunomodulatory activity.
-- **[[chitin-and-chitosan-in-agriculture]]:** Structural polysaccharides that act as dietary fiber and have cholesterol-binding properties.
+- **Chitin and chitosan:** Structural polysaccharides that act as dietary fiber and have cholesterol-binding properties.
 - **Mevalonate pathway intermediates:** Various compounds involved in the lovastatin biosynthetic pathway.
-- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and flavonoids:** Contribute antioxidant capacity.
+- **Phenolic compounds and flavonoids:** Contribute antioxidant capacity.
 
 ## Cholesterol-Lowering Effects
 
@@ -118,7 +118,7 @@ Oyster mushrooms are nutritionally dense:
 
 ### Dual Extraction Tincture
 1. Hot water extraction for polysaccharides.
-2. [[pf-tek-alcohol-extraction-method]] for lovastatin and other lipophilic compounds.
+2. Alcohol extraction for lovastatin and other lipophilic compounds.
 3. Combine extracts.
 
 ## Dosing Guidelines
@@ -137,14 +137,13 @@ Oyster mushrooms are among the easiest mushrooms to cultivate, making them ideal
 - **Colonization:** 10-21 days at 72-78°F (22-26°C).
 - **Fruiting:** Requires high humidity (85-95%), fresh air, and indirect light.
 - **Temperature:** Varies by species (P. ostreatus fruits at 55-75°F).
-- **[[biological-efficiency]]:** 50-200% depending on substrate.
-- **Methods:** Bucket tek, straw logs, monotubs, [[growing-gourmet-outdoor-log-inoculation-techniques]].
+- **Biological efficiency:** 50-200% depending on substrate.
+- **Methods:** Bucket tek, straw logs, monotubs, outdoor log inoculation.
 
-## Mycoremediation Applications
+## See Also
 
-Oyster mushrooms have significant environmental applications:
-- Breaks down [[mycoremediation-petroleum-hydrocarbons]] (oil spills).
-- Degrades [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs).
-- Absorbs and concentrates heavy metals (bioaccumulation).
-- Degrades plastic and synthetic dyes in laboratory settings.
-- Used in greywater filtration systems and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
+- [[medicinal-mushrooms]]
+- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
+- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]

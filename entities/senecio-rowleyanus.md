@@ -106,13 +106,8 @@ The three Senecio "string" species hybridize readily in cultivation. Intergeneri
 
 ## See Also
 
-- [[ceropegia-woodii]]
 - [[sedum-rupestre]]
-- [[haworthia-fasciata]]
 - [[crassula-ovata]]
-- [[echeveria-elegans]]
 - [[kalanchoe-blossfeldiana]]
-- [[portulacaria-afra]]
 - [[delosperma-cooperi]]
-- [[aeonium-arboreum]]
 - [[cotyledon-tomentosa]]

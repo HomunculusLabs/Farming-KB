@@ -13,14 +13,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Classification
 
-- Family: [[mdma-compound-profile]].
-
-## Potential for Misidentification
-
-2C-T-2 has occasionally been called, simply, T-2. This abbreviated nickname
-has also been used for T-2 Toxin, a mycotoxin of the Trichothecene group,
-formed mainly by Fusarium spp. This is the infamous "warfare agent" in
-[[psilocybe-southeast-asia-pacific]], which was finally identified as bee feces rather than a
+- Family: [[psilocybe-southeast-asia-pacific]], which was finally identified as bee feces rather than a
 Soviet military adventure. T-2 and 2C-T-2 are radically different compounds.
 
 ## Tweetio Homologues
@@ -50,15 +43,9 @@ All three Tweetio homologues of 2C-T-2 have been synthesized and evaluated:
 2,5-Dimethoxythiophenol, prepared from 2,5-dimethoxybenzenesulfonyl chloride
 via zinc dust reduction, is the key common precursor to all members of the
 2C-T family. This valuable intermediate is prepared by chlorosulfonation of
-1,4-dimethoxybenzene followed by zinc reduction in [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]].
-
-## Related Compounds
-
-- 2c-t-7-compound-profile|2C-T-7: The heptylthio homologue; more
-  commonly used therapeutically due to fewer physical side effects
-- [[2c-d-pihkal-entry-23]]: The isopropylthio homologue; longer-acting
+1,4-dimethoxybenzene followed by zinc reduction in [[2c-d-pihkal-entry-23]]: The isopropylthio homologue; longer-acting
   (12-18 h)
-- [[pihkal-introduction-and-methodology]] by Alexander and [[ann-shulgin]],
+- [[ann-shulgin]],
 Entry #40
 ## Practical Considerations
 
@@ -110,15 +97,8 @@ to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
 
 ## See Also
-- [[pihkal-entry-44]]
 - [[bom-pihkal-entry-17]]
-- [[asb-pihkal-entry-9]]
 - [[aleph-pihkal-entry-3]]
-- [[beatrice-pihkal-entry-11]]
-## See Also
-
 - [[pihkal-entry-44]]
-- [[aem-pihkal-entry-1]]
 - [[2c-i-pihkal-entry-33]]
-- [[b-pihkal-entry-10]]
 - [[asb-pihkal-entry-9]]

@@ -8,73 +8,89 @@ type: entity
 
 ## Description
 
-*Tetragonia* is a genus of succulent or semi-succulent plants in the family Aizoaceae, native to the Southern Hemisphere. The most widely known species, *[[tetragonia-tetragonioides]]* (New Zealand spinach or warrigal greens), is an edible groundcover that also serves as a tough coastal windbreak component. Mollison lists Tetragonia among the semi-succulents used to mound over structural windbreaks in harsh coastal environments.
-
-## Classification
-
-- **Kingdom:** Plantae
-- **Family:** Aizoaceae
-- **Genus:** Tetragonia
-- **Notable species:** T. tetragonioides (New Zealand spinach, warrigal greens), T. implexicoma (bower spinach), T. decumbens (sea spinach)
-- **Common names:** New Zealand spinach, warrigal greens, Botany Bay spinach, sea spinach
-
-## Key Characteristics
-
-- **Growth habit:** Low-growing, spreading, scrambling groundcover
-- **Leaves:** Thick, fleshy, triangular to rounded, bright green
-- **Salt tolerance:** Highly halophytic, tolerates direct coastal salt spray
-- **Wind tolerance:** Low, spreading form resists mechanical wind damage
-- **Edibility:** Leaves are edible when blanched (raw leaves contain oxalates)
-- **Growth rate:** Fast, forms dense mats
-
-## Relevance to Cultivation and Permaculture
-
-### Coastal Windbreak Groundcover
-
-Mollison names Tetragonia alongside [[rhagodia]], [[carpobrotus]], and Mesembryanthemum as semi-succulents that mound over mesh fences, rock walls, and tyre walls in coastal windbreak systems. Functions include:
-
-- Living cover for structural windbreak materials
-- Tolerates salt spray and wind exposure that kills most crop plants
-- Provides edible greens as a secondary yield from windbreak zones
-- Dense growth suppresses weeds and stabilizes soil
-
-### Edible Landscaping
-
-- **Warrigal greens (T. tetragonioides):** Cultivated as a spinach substitute
-- Leaves must be blanched for 1-3 minutes to remove soluble oxalates
-- High in vitamins A, C, and minerals
-- Can be harvested continuously from established plants
-- Grows through summer when true spinach bolts
-
-### Additional Design Functions
-
-1. **Living mulch:** Dense mat retains soil moisture and suppresses weeds
-2. **Dune stabilization:** Roots bind loose coastal sands
-3. **Pioneer species:** Establishes quickly in disturbed coastal sites
-4. **Wildlife value:** Berries and foliage provide food for birds and lizards
-
-## Key Facts
-
-- Semi-succulent groundcover genus in Aizoaceae
-- Native to Southern Hemisphere coastal regions
-- Edible species (warrigal greens) used as spinach substitute
-- Extremely salt and wind tolerant
-- Used in coastal windbreak systems as living fence cover
-- Fast-growing, low-maintenance groundcover
-
-## Cultivation
-
-- Full sun to partial shade
-- Any well-drained soil including sandy and saline types
-- Drought tolerant once established
-- Propagation from seed or cuttings
-- USDA zones 8-11
-- Blanch leaves before eating to remove oxalates
-
-## Practical Significance
-- Relevant to sustainable land management and design
-- Applications in [[permaculture]] and ecological systems
+*Tetragonia* is a genus of succulent or semi-succulent plants in the family Aizoaceae, native to the Southern Hemisphere. The most widely known species, *[[rhagodia]], [[permaculture]] and ecological systems
 - Connected to broader themes of resource management
 
 ## See Also
+- [[tetragonia-tetragonioides]]
+
+## Overview
+
+Tetragonia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tetragonia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tetragonia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tetragonia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tetragonia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tetragonia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tetragonia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tetragonia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
 - [[tetragonia-tetragonioides]]

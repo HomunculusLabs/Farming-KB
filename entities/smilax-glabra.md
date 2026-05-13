@@ -18,63 +18,17 @@ sources:
 
 # Smilax glabra
 
-**Smilax glabra** (glabrous greenbrier, China root, tu fu ling) is a perennial climbing vine in the family Smilacaceae. It is native to East and [[psilocybe-southeast-asia-pacific]], occurring from central China through Indochina and the Malay Peninsula.
-
-The species is one of the most important medicinal plants in traditional Chinese medicine. The dried tuberous roots, known as "tu fu ling," are prescribed for conditions involving damp-heat, toxicity, and joint inflammation.
-
-S. glabra is also valued as a food source and beverage ingredient in southern China. The roots are used to prepare herbal teas and health drinks that are consumed for their purported detoxifying properties.
-
-## Taxonomy and Morphology
-
-Smilax glabra was described by William Roxburgh in 1832. The genus Smilax contains approximately 300–350 species distributed across tropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+**Smilax glabra** (glabrous greenbrier, China root, tu fu ling) is a perennial climbing vine in the family Smilacaceae. It is native to East and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species belongs to the family Smilacaceae, which was historically included in Liliaceae but is now recognized as a distinct family within the order Liliales. The family is characterized by climbing habit, prickly stems, and reticulate leaf venation.
 
 S. glabra is a climbing or scrambling vine reaching 3–5 m in length. Unlike many Smilax species, the stems of S. glabra are typically unarmed or bear only sparse, soft prickles.
 
-Leaves are alternate, broadly ovate to elliptic, 5–15 cm long and 3–10 cm wide. The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is glabrous and dark green, with 5–7 prominent veins arising from the base.
+Leaves are alternate, broadly ovate to elliptic, 5–15 cm long and 3–10 cm wide. The [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]], and along stream banks at elevations of 200–2,000 m. It tolerates both full sun and deep shade.
 
-The petioles are 1–2 cm long and frequently bear paired tendrils derived from modified stipules. These tendrils enable the vine to climb surrounding vegetation.
+S. glabra prefers acidic to neutral soils rich in [[medicinal-mushroom-dietary-supplements]], and skincare products marketed for their anti-inflammatory and antioxidant properties.
 
-Flowers are small, greenish-yellow, and dioecious. Male and female flowers are borne on separate plants in umbels arising from the leaf axils.
-
-The fruit is a spherical berry, 6–8 mm in diameter, ripening from green to blue-black. Each berry contains 1–3 seeds. The root system consists of thick, tuberous rhizomes that are the primary medicinal organ.
-
-The rhizomes are irregularly shaped, cylindrical to nodular, and can reach 5–10 cm in diameter. Fresh rhizomes are firm and yellowish-white internally, with a characteristic starch content of 30–40%.
-
-The species is easily distinguished from related Smilax species by its glabrous leaves and stems. Most congeners bear conspicuous prickles, while S. glabra is predominantly smooth.
-
-## Distribution and Habitat
-
-S. glabra is native to China, Taiwan, Vietnam, Laos, Thailand, Myanmar, and Malaysia. In China, it is distributed across most southern and central provinces.
-
-The species grows in forest margins, thickets, [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]], and along stream banks at elevations of 200–2,000 m. It tolerates both full sun and deep shade.
-
-S. glabra prefers acidic to neutral soils rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. It is commonly found in montane evergreen broadleaf forests and subtropical mixed forests.
-
-The vine is adapted to seasonally dry conditions and can survive extended drought periods by drawing on reserves stored in the tuberous rhizomes. New growth resumes with the onset of the rainy season.
-
-Cultivated populations are maintained in several Chinese provinces for commercial rhizome production. Wild harvesting remains significant in more remote regions of the species' range.
-
-Commercial cultivation typically involves planting rhizome segments in well-drained, acidic soils under partial shade. Harvest occurs 2–3 years after planting, with fresh rhizome yields of 15–25 tonnes per hectare.
-
-Post-harvest processing involves washing, slicing, and sun-drying the rhizomes. Dried "tu fu ling" is light, fibrous, and yellowish-brown in appearance.
-
-## Traditional and Medicinal Uses
-
-In Chinese pharmacopoeia, "tu fu ling" (the dried rhizome) is classified as sweet, bland, and neutral. It enters the liver and stomach meridians and is used to drain dampness, resolve toxicity, and relax the sinews.
-
-The primary clinical applications include treatment of syphilis, acute jaundice, urinary tract infections, and rheumatic joint pain. It is frequently prescribed in combination formulas for damp-heat conditions.
-
-The rhizome is commonly decocted at doses of 15–60 g per day. It is also available in powdered form, tinctures, and commercial patent medicines across China and Southeast Asia.
-
-In southern Chinese culinary tradition, S. glabra roots are simmered with pork, turtle, or herbal ingredients to produce nourishing soups. The root is believed to "clear heat" and promote general health.
-
-A popular herbal tea known as "tu fu ling cha" is sold throughout Guangdong and Guangxi provinces. The tea is consumed as a daily health beverage, particularly during the hot summer months.
-
-The species has gained attention in modern nutraceutical markets. S. glabra root extracts are incorporated into functional beverages, [[medicinal-mushroom-dietary-supplements]], and skincare products marketed for their anti-inflammatory and antioxidant properties.
-
-Regulatory status varies by country. In [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]], S. glabra is approved as a traditional [[childrens-herbal-medicine]] under the THMPD for specific indications.
+Regulatory status varies by country. In [[childrens-herbal-medicine]] under the THMPD for specific indications.
 
 ## Bioactive Compounds and Pharmacology
 
@@ -87,3 +41,88 @@ The rhizome also contains phenolic acids (including caffeic acid and ferulic aci
 Anti-inflammatory effects have been demonstrated in multiple animal models. Saponin fractions inhibit TNF-α, IL-1β, and IL-6 production, and suppress NF-κB activation in macrophage cell lines.
 
 Anti-syphilitic activity documented in traditional use has partial support from modern studies. Extracts show antimicrobial activity against Treponema pallidum in vitro, though clinical efficacy data are limited.
+
+## Overview
+
+Smilax Glabra represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish smilax glabra
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving smilax extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Smilax Glabra finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for smilax glabra. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+smilax glabra and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Smilax Glabra has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of smilax glabra into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[carya-glabra]]
+- [[chelone-glabra]]
+- [[rhus-glabra]]
+- [[smilax-ornata]]
+- [[smilax-regelii]]

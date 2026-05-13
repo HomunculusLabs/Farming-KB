@@ -23,31 +23,7 @@ Fungus-growing ants (Attini) and fungus-growing termites (Macrotermitinae) repre
 
 ### The Symbiosis
 
-- Ants provide plant material as substrate for [[brassinosteroid-fungal-growth-promotion]]
-- Fungus degrades plant material and serves as primary food source for ant colonies
-- Some specific associations rank among the most important causes of crop loss in Latin America
-- Worker ants actively tend and weed the fungus garden
-
-### Cultivated Fungi
-
-**Higher Attines**: Cultivate Leucoagaricus gongylophorus, which is most probably a single species in which all representatives may be clonal descendants of a common ancestor. The fungus:
-
-- Grows well on most general media (PDA, MEA)
-- Cannot withstand temperatures below 4C
-- No cryopreservation regimen has been developed
-- Loses viability relatively quickly; best subcultured every 3 months
-- Forms diagnostic clamp connections only in Apterostigma species
-
-**Lower Attines**: Fungi eventually produce basidiocarps in culture, consistent with Leucoagaricus or Leucocoprinus species. Specific associations remain unknown. Each basidiocarp appears distinct at species level.
-
-### Sampling and Cultivation
-
-- Locate nests by following worker ants or baiting with starchy substrata (oat flakes, cream of wheat, pasta)
-- Many attine ants more active at night; headlamp searches more successful
-- Excavation of nests can take days
-- Direct isolation from field nests usually fails (contamination by faster-growing fungi)
-- Keep ant workers with nest material in moist container for ~3 days; workers reconstitute quasi-axenic conditions
-- Alternative method: Trap inseminated queens after nuptial flights; queens carry [[mycelium]] pellets
+- Ants provide plant material as substrate for [[mycelium]] pellets
 - Queens maintained in plaster-bottom jars with 15cm deep moist sandy soil
 - Time for fungus culture to mature: 4 days to 7 weeks depending on species
 - Nuptial flights occur only at certain periods; sometimes only a single night
@@ -57,27 +33,8 @@ Fungus-growing ants (Attini) and fungus-growing termites (Macrotermitinae) repre
 Some Cyphomyrmex species cultivate yeasts:
 - 1-4mm diameter pellets develop short (1mm) hyphal tips but stop growing within 48 hours
 - Pellets must be broken into smaller pieces and strewn over isolation plate
-- After repeated subculturing, yeasts return to [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
-
-### Nest Microbiota
-
-Attine nests maintained under axenic or quasi-axenic conditions -- mostly a single basidiomycete strain. Other fungi are uncommon and of two types:
-
-1. **[[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]** (e.g., xylariaceous species): Probably introduced with leaf substrata
-2. **Specialized parasites**: Escovopsis -- a recently described genus, restricted to attine [[termite-ant-fungus-gardens]], rarely isolated
-
-### Collection Preservation
-
-- Basidiocarps: Dry and place in packets as with other agarics
-- Nests: Keep dry and free of insects; material is fragile
-- DNA should be extracted from hyphae or basidiocarps whenever possible
-- Collections of viable cultures are rare and easily lost
-
-## Fungus-Growing Termites (Macrotermitinae)
-
-### Distribution
-
-- Restricted to [[datura-metel-old-world-ethnobotany]] higher termites (tribe Macrotermitinae, family Termitidae)
+- After repeated subculturing, yeasts return to [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]** (e.g., xylariaceous species): Probably introduced with leaf substrata
+2. **Specialized parasites**: Escovopsis -- a recently described genus, restricted to attine [[datura-metel-old-world-ethnobotany]] higher termites (tribe Macrotermitinae, family Termitidae)
 - Range: Tropical Africa eastward to southeastern Asia
 - Nests can be large structures extending above ground to dominate landscapes
 - Termites often interfere with agriculture by attacking crops
@@ -87,39 +44,91 @@ Attine nests maintained under axenic or quasi-axenic conditions -- mostly a sing
 - Termites construct "combs" of fecal pellets on which the fungus grows (the "fungus garden")
 - Fungal associates are species of Termitomyces (Basidiomycota, Lepiotaceae) -- same family as most attine ant fungi
 - Most species form basidiocarps annually at onset of rainy season
-- [[ingham-fungal-inoculum-sourcing]] dispersed in guts of alates (winged reproductives) in some species
+- [[fungal-symbiosis]]
+- [[brassinosteroid]]
+- [[mycorrhiza]]
+
+## Overview
+
+Ant Termite Fungal Symbiosis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ant termite fungal symbiosis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ant extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Ant Termite Fungal Symbiosis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ant termite fungal symbiosis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ant termite fungal symbiosis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Ant Termite Fungal Symbiosis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of ant termite fungal symbiosis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[fungal-symbiosis]]
-- [[dom]]
-- [[brassinosteroid]]
-- [[mycelium]]
-- [[mycorrhiza]]
+
+- [[fungal-phylogeny-classification]]
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[termite-and-ant-ecology-in-tropical-agriculture]]
+- [[termite-ant-fungus-gardens]]
+- [[termite-mound-gardening-mollison]]

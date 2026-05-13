@@ -18,68 +18,16 @@ sources:
 
 # Boletus regius
 
-**Boletus regius**, commonly known as the **royal bolete**, is a species of [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Boletaceae. It is one of the most visually striking boletes found in Europe, recognized by its vivid pink to rose-red cap and yellow pore surface. Despite its beauty and edibility, it has become increasingly rare across much of its range and is considered a threatened species in several European countries.
-
-## Taxonomy and Nomenclature
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Boletales
-- **Family:** Boletaceae
-- **Genus:** Boletus
-- **Species:** B. regius
-
-The species was originally described by Julius Vincenz von Krombholz in 1832. The specific epithet *regius* means "royal" in Latin, referring to the mushroom's regal appearance. Some historical synonymy exists with earlier classifications, but modern molecular phylogenetics has confirmed its placement within the *Boletus* sensu stricto clade, closely related to *B. edulis* and *B. reticulatus*.
-
-## Description
-
-### Cap
-The cap measures 5–20 cm in diameter, starting hemispherical and expanding to convex. The surface is smooth and dry, colored a distinctive rose-pink to salmon-red when young, often fading to a paler pinkish-tan with age. The cap margin is typically inrolled when young. The cuticle does not peel easily, which distinguishes it from some similar species.
-
-### Pore Surface
-The pore surface is initially bright yellow, becoming olive-yellow to yellowish-green with maturity. Pores are small and round (1–2 per mm), and do not stain blue when bruised — a critical identification feature separating it from potentially toxic boletes like *B. satanas* and *B. legaliae*. Tubes are 8–15 mm long, adnate to slightly depressed around the stipe.
-
-### Stipe
-The stipe is 6–12 cm tall and 2–5 cm thick, clavate to bulbous in shape. It is pale yellow to lemon-yellow above, often with a fine reticulation (net pattern) near the apex that may extend partway down. The base frequently shows a reddish or pinkish tint. The flesh is firm and white to pale yellow.
-
-### Flesh
-The flesh is thick, firm, and white to pale yellow. It does not change color significantly when cut or exposed to air. It has a pleasant, mild fungal odor and a sweetish taste. This is in contrast to *B. satanas*, whose flesh often turns blue and has a distinctly unpleasant smell.
-
-### Spore Print
-Olive-brown (olivaceous-brown).
-
-### Spores
-Spores are 12–16 × 4.5–6 µm, fusiform to elliptical, smooth, and inamyloid.
-
-## Distribution and Habitat
-
-*Boletus regius* is found primarily in southern and central Europe, including France, Italy, Spain, Portugal, and extending eastward into parts of the Balkans. It is less common in northern Europe, where it reaches its northern limit. Isolated populations have been reported from North Africa.
-
-The species is ectomycorrhizal, forming associations primarily with broadleaf trees. Its preferred partners include:
-
-- **Oak** (*Quercus* spp.) — most commonly reported host
-- **Beech** (*[[fagus-sylvatica]]*)
-- **Chestnut** (*[[castanea-sativa]]*)
-- **Hornbeam** (*[[carpinus-betulus]]*)
-- Occasionally **spruce** (*[[picea-abies]]*) in mixed forests
-
-It fruits from late summer through autumn (August to November), typically in warm, dry years. It favors calcareous or neutral soils in mature, thermophilous (warm-loving) deciduous and mixed forests, often on well-drained slopes and forest edges.
-
-## Ecology
-
-As an ectomycorrhizal species, *B. regius* plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between its host trees and the soil. The [[fungal-mycelium-hyphae-and-the-feeding-phase]] extends the effective root zone of the host tree, improving access to phosphorus, nitrogen, and micronutrients. In return, the fungus receives carbohydrates (primarily glucose) produced through photosynthesis.
+**Boletus regius**, commonly known as the **royal bolete**, is a species of [[fagus-sylvatica]]*)
+- **Chestnut** (*[[carpinus-betulus]]*)
+- Occasionally **spruce** (*[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by facilitating [[fungal-mycelium-hyphae-and-the-feeding-phase]] extends the effective root zone of the host tree, improving access to phosphorus, nitrogen, and micronutrients. In return, the fungus receives carbohydrates (primarily glucose) produced through photosynthesis.
 
 *Boletus regius* is sensitive to environmental disturbance, including:
 
 - **Soil compaction** from forestry operations and recreational use
 - **Acidification** from atmospheric deposition and conifer plantation
 - **Habitat fragmentation** from land-use change
-- **Prolonged drought** exacerbated by [[dighton-fungi-climate-change-feedback]]
-
-## Edibility and Culinary Use
-
-*Boletus regius* is considered an excellent [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]], often ranked alongside *B. edulis* in culinary quality. The flesh is firm, with a delicate, slightly sweet flavor that holds up well to cooking. It is suitable for:
+- **Prolonged drought** exacerbated by [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]], often ranked alongside *B. edulis* in culinary quality. The flesh is firm, with a delicate, slightly sweet flavor that holds up well to cooking. It is suitable for:
 
 - Fresh preparation (sautéed, grilled)
 - Drying and reconstitution
@@ -87,3 +35,88 @@ As an ectomycorrhizal species, *B. regius* plays a role in forest [[comparison-n
 - Use in soups, risottos, and sauces
 
 **Important identification notes:** The royal bolete must be confidently distinguished from potentially toxic species with similar pinkish caps, particularly:
+
+## Overview
+
+Boletus Regius represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish boletus regius
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving boletus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Boletus Regius finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for boletus regius. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+boletus regius and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Boletus Regius has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of boletus regius into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[boletus-aereus]]
+- [[boletus-manicus-new-guinea-psychoactive-bolete]]
+- [[boletus-pinophilus]]
+- [[guzman-allen-gartz-new-guinea-sacred-fungi-boletus-russula-controversy]]
+- [[porcini-boletus-guide]]

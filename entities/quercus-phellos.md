@@ -78,9 +78,7 @@ The species is a dominant component of bottomland hardwood forests along river f
 
 It also occurs on moist upland sites, terraces, and well-drained alluvial soils.
 
-Common associates include [[taxodium-distichum]], [[liquidambar-styraciflua]], and [[nyssa-sylvatica]].
-
-Other companion species include [[quercus-robur]], [[quercus-falcata]], and [[platanus-occidentalis]].
+Common associates include [[liquidambar-styraciflua]], and [[quercus-robur]], [[platanus-occidentalis]].
 
 It prefers moist, well-drained, loamy to clay-loam soils with pH 4.5-6.5.
 

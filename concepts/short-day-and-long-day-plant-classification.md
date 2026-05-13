@@ -5,16 +5,10 @@
 
 The classification of plants into short-day and long-day categories
 emerged from the discovery of photoperiodism by Wightman W. Garner
-and Harry A. Allard in 1918. Their work with the [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
-tobacco strain revealed that plants use the duration of darkness to
-regulate their transition from [[cannabis-vegetative-growth-stage]] to flowering. This
+and Harry A. Allard in 1918. Their work with the [[cannabis-vegetative-growth-stage]] to flowering. This
 simple dichotomy, plants that flower when days are short versus
 those that flower when days are long, became one of the most
-practical and [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] -
-  Original photoperiodism discovery
-- chamovitz photoperiodism phytochrome plant vision -
-  Photoperiodism and phytochrome
-- [[cannabis-photoperiodism-and-light-cycles]] - Cannabis
+practical and [[cannabis-photoperiodism-and-light-cycles]] - Cannabis
   photoperiod responses
 
 ## See Also

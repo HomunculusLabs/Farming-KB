@@ -11,17 +11,14 @@ created: 2026-05-08
 ## Overview
 
 Hybrid shamanic therapeutic rituals represent a contemporary synthesis of
-indigenous [[metzner-shamanic-healing-and-divination-paradigm]] practices and Western psychotherapeutic
-approaches to working with entheogenic plant medicines. [[ralph-metzner]]
+indigenous [[ralph-metzner]]
 documented these emerging practices through participant observation in over
-100 circle rituals across Europe and [[psilocybin-north-america-pacific-northwest]], involving several hundred
-participants, many of them repeatedly. These ceremonies represent what
-Metzner called "[[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles" — a conscious blending of
+100 circle rituals across Europe and [[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles" — a conscious blending of
 the oldest and newest traditions of psychedelic work.
 
 ## Structural Elements
 
-[[metzner-talking-staff-and-preparation-integration-in-hybrid-ceremonies]] preserve core elements from traditional [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
+[[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
 while incorporating Western therapeutic sensibilities:
 
 ### Circle Structure
@@ -118,8 +115,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[hybrid-shamanic-therapeutic-rituals-metzner]]
 - [[shamanic-entheogenic-healing-rituals]]

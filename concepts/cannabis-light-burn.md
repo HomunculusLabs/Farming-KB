@@ -10,11 +10,7 @@ tags: [cannabis]
 
 # Cannabis Light Burn
 
-Light burn occurs when cannabis plants receive excessive light intensity, typically from being placed too close to high-intensity discharge (HID) lamps or other powerful grow lights. The symptoms can resemble other problems such as nutrient burn or heat stress, making proper diagnosis important for effective treatment. Burned foliage from light burn is also susceptible to [[hamilton-pest-and-disease-control-organic]] attack, creating secondary problems if not addressed.
-
-## Understanding Light Intensity
-
-HID lamps (metal halide and high-pressure sodium) produce intense light and significant heat. The temperature within [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] can climb to an excess of 110°F (43°C) because leaves store heat radiated by the lamp. At this temperature, the internal chemistry of a marijuana leaf is disrupted:
+Light burn occurs when cannabis plants receive excessive light intensity, typically from being placed too close to high-intensity discharge (HID) lamps or other powerful grow lights. The symptoms can resemble other problems such as nutrient burn or heat stress, making proper diagnosis important for effective treatment. Burned foliage from light burn is also susceptible to [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] can climb to an excess of 110°F (43°C) because leaves store heat radiated by the lamp. At this temperature, the internal chemistry of a marijuana leaf is disrupted:
 
 - Manufactured proteins are broken down and become unavailable to the plant
 - As internal leaf temperature climbs, plants are forced to use and evaporate more water
@@ -43,54 +39,11 @@ Light burn can be confused with several other cannabis problems:
 - **Heat stress**: Often occurs simultaneously — both conditions are caused by proximity to the lamp; heat stress causes more general wilting while light burn causes localized bleaching
 - **Nitrogen deficiency**: Both cause yellowing, but deficiency progresses from older to newer leaves (mobile nutrient), while light burn is localized to the canopy top
 - **Wind burn**: From fans directed too strongly at foliage; causes similar edge damage but affects leaves on one side or in the fan's path
-- **[[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]**: Light burn can be mistaken for fungus; do not confuse [[hamilton-nutrient-deficiencies-and-treatment]] or toxicities with [[vegetable-insect-and-disease-control]] damage or poor cultural practices
-
-Key diagnostic: Light burn only affects the top portion of the plant closest to the light source, while nutrient problems typically show more uniformly across the plant or on lower foliage first.
-
-## Causes of Light Burn
-
-- **Excessive proximity to lamps**: The most common cause; HID lamps placed too close to the canopy
-- **High wattage lamps**: More powerful lamps produce more intense light and heat at any given distance
-- **No light mover**: Stationary lights create hot spots directly beneath the fixture where intensity is highest
-- **Reflective surfaces too close**: Mylar or white walls close to the canopy can increase light intensity beyond intended levels
-- **New lamps**: Brand new HID bulbs produce more intense light than aged bulbs; distance may need adjustment after bulb replacement
-- **Lack of air cooling**: Uncooled reflectors radiate more heat to the canopy, increasing the combined heat and light stress
-- **Genetic sensitivity**: Some strains are more sensitive to intense light than others; sativa-dominant strains tend to be more light-tolerant
-
-## Prevention
-
-- **Proper lamp distance**: Follow manufacturer recommendations for hanging height based on wattage; 400W HPS: 12-18 inches, 600W HPS: 14-24 inches, 1000W HPS: 18-30 inches (adjust based on plant response)
-- **Hand test**: Place your hand at canopy level under the light — if it's too hot for your hand, it's too hot for the plants
-- **Ventilation**: Adequate air movement helps dissipate heat from leaf surfaces; oscillating fans at canopy level are essential
-- **Air-cooled reflectors**: Use air-cooled hoods to reduce radiant heat reaching the canopy
-- **Light movers**: Moving lights distribute intensity more evenly across the canopy and reduce hot spots
-- **Gradual acclimation**: When moving lights closer, do so gradually over several days to allow plants to adapt
-- **Monitor new bulbs**: Adjust distance when replacing old bulbs with new ones, as new bulbs are more intense
-- **Use the back of your hand**: The back of the hand is more sensitive to heat than the palm; use it for testing
-
-## Treatment
-
-- Move the light fixture further from the canopy — this is the single most effective treatment
-- Increase ventilation and air circulation at the canopy level to help dissipate heat
-- Do not remove damaged leaves unless they are more than 50% damaged — remaining leaf tissue still photosynthesizes
-- Plants will recover if the stress is corrected before severe damage occurs
-- Avoid further stressors (nutrient adjustments, transplanting, training) while plants recover
-- Burned foliage is susceptible to pest and disease attack — monitor affected areas for secondary problems
-- Once a plant shows symptoms, it has already undergone severe stress; it will take time to resume vigorous growth
-
-## Relationship to Heat Stress
-
-Light burn and [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
+- **[[hamilton-nutrient-deficiencies-and-treatment]] or toxicities with [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 - In extreme cases, cause tissue death on the most affected leaves
-- Create entry points for [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]
-
-- [[query-what-is-lollipopping-cannabis-and-when-should-you-do-it]]
-
-- [[query-how-to-use-neem-oil-for-cannabis-pest-control]]
+- Create entry points for [[query-what-is-lollipopping-cannabis-and-when-should-you-do-it]]
 
 - [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]
-
-- [[query-how-to-fix-phosphorus-deficiency-in-cannabis]]
 
 - [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]]
 
@@ -123,8 +76,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[neem]]
-- [[lollipopping]]
 - [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]
 - [[cannabis-nutrient-burn-and-toxicity]]

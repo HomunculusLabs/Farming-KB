@@ -45,9 +45,7 @@ visual perception, analogous to the most basic light-sensing
 capabilities found in microorganisms and plants. When we consider
 that a person born totally blind, granted only the ability to
 distinguish light from shadow, would gain rudimentary sight, the
-parallels with [[what-a-plant-knows-plant-vision-and-light-perception]]
-work. Phytochromes absorb red and far-red light, cryptochromes
-absorb blue and UV light, and phototropins respond to [[chamovitz-julius-von-sachs-blue-light-phototropism]].
+parallels with [[chamovitz-julius-von-sachs-blue-light-phototropism]].
 In both systems, the molecular structure of the photoreceptive
 pigment determines which wavelengths can be detected, and the
 information is then transduced into a biochemical signal that
@@ -67,11 +65,8 @@ Beyond the visible spectrum, ultraviolet light has shorter
 
 ## See Also
 
-- [[human-photoreception-rods-cones-visual-spectrum]]
-
 - [[phytochrome-photoreception]] - Phytochrome photoreceptor systems
-- phytochrome and plant [[plant-vision-and-light-perception-mechanisms]] - Plant light sensing
-- [[darwin-phototropism-discovery-plant-light-perception]] - Darwin's
+- phytochrome and plant [[darwin-phototropism-discovery-plant-light-perception]] - Darwin's
   phototropism experiments
 ## Practical Considerations
 
@@ -121,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[human-photoreception-rods-cones-visual-spectrum]]
 - [[det]]
-- [[phytochrome-photoreceptor]]
 - [[phototropism]]
 - [[phytochrome]]

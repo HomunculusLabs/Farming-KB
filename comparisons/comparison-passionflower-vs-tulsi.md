@@ -23,36 +23,6 @@ between targeted nervous system calming and whole-body stress adaptation.
 
 ## Passionflower
 
-[[passionflower-passiflora]]
-
-Passionflower is a perennial climbing vine in the family Passifloraceae,
-native to the southeastern United States and parts of Central and South
-America. It produces strikingly complex flowers with a purple-and-white
-corona of approximately 70 filaments, and bears edible egg-shaped fruits
-called maypops. The vine grows vigorously, reaching 3 to 6 meters per
-season, and dies back to its rhizomatous rootstock each winter in colder
-zones (USDA 5 through 9).
-
-The primary medicinal action of passionflower is GABAergic modulation.
-Flavonoids including chrysin, apigenin, vitexin, and orientin bind to the
-benzodiazepine site on GABA_A receptors, enhancing chloride ion influx and
-producing anxiolytic and sedative effects. Unlike pharmaceutical
-benzodiazepines, passionflower does not produce significant tolerance,
-dependence, or withdrawal at therapeutic doses. The herb also contains
-measurable GABA in its aerial parts and trace amounts of beta-carboline
-alkaloids (harmine, harmaline) with mild MAO-inhibiting properties.
-
-Clinical evidence supports passionflower for generalized anxiety disorder,
-insomnia, opiate withdrawal symptom management, and attention difficulties.
-A widely cited double-blind trial found passionflower extract as effective
-as oxazepam for generalized anxiety, with fewer side effects. The herb is
-typically prepared as a tea (dried leaves and flowers steeped 10 to 15
-minutes), fresh vine tincture (1:2 in 50 to 60 percent alcohol, 20 to 60
-drops), or capsules. It pairs synergistically with valerian, lemon balm,
-and chamomile for enhanced calming effects.
-
-## Tulsi
-
 [[tulsi]]
 
 Tulsi, also known as holy basil or sacred basil, is an aromatic herb in the
@@ -140,8 +110,6 @@ added to the evening blend for sleep support.
 
 ## See Also
 
-- [[comparison-valerian-vs-passionflower]]
 - [[comparison-ashwagandha-vs-tulsi]]
-- [[comparison-chamomile-vs-passionflower]]
 - [[comparison-lemon-balm-vs-passionflower]]
 - [[comparison-tulsi-vs-lemon-balm]]

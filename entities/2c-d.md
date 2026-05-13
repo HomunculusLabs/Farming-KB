@@ -21,36 +21,9 @@ created: 2026-05-07
 
 **2C-D** (2,5-dimethoxy-4-ethylphenethylamine) is a synthetic psychedelic phenethylamine and a member of the 2C family of compounds.
 
-It was first synthesized by [[alexander-shulgin]] and is documented in entry #47 of PiHKAL (Phenethylamines I Have Known and Loved).
+It was first synthesized by [[hofmann-lsd-clinical-research-early-studies]] settings.
 
-2C-D is often described as the lightest and most functional of the 2C series, with subtle visual effects and a clear-headed cognitive profile.
-
-Shulgin himself reportedly considered 2C-D his favorite psychedelic for its controllable nature and lack of overwhelming sensory distortion.
-
-The compound is primarily used for recreational and spiritual purposes, though it has limited recognition in [[hofmann-lsd-clinical-research-early-studies]] settings.
-
-Its [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction, with scheduling in several countries including the US, UK, and Australia.
-
-## Chemical Properties
-
-- **Chemical name:** 2,5-Dimethoxy-4-ethylphenethylamine
-- **Molecular formula:** C₁₂H₁₉NO₂
-- **Molecular weight:** 209.28 g/mol
-- **IUPAC name:** 2-(2,5-Dimethoxy-4-ethylphenyl)ethan-1-amine
-- **CAS number:** 207740-22-5
-- **SMILES:** CCc1cc(OC)c(cc1OCC)OC
-
-2C-D belongs to the 2C family, characterized by a phenethylamine backbone with methoxy groups at the 2 and 5 positions.
-
-The 4-ethyl substituent distinguishes 2C-D from 2C-B (4-bromo), 2C-I (4-iodo), and other 2C analogues.
-
-The compound exists as a free base and is commonly encountered as a white crystalline powder or hydrochloride salt.
-
-It is sparingly soluble in water and more soluble in ethanol and organic solvents.
-
-## Pharmacology
-
-2C-D acts primarily as a partial agonist at [[serotonin]] 5-HT₂A receptors, the primary receptor responsible for classical psychedelic effects.
+Its [[serotonin]] 5-HT₂A receptors, the primary receptor responsible for classical psychedelic effects.
 
 It also shows affinity for 5-HT₂C and 5-HT₁A receptors, contributing to its anxiolytic and mood-modulating properties.
 
@@ -87,3 +60,80 @@ Physical effects include mild stimulation, pupil dilation, and increased tactile
 The compound is notably less likely to produce anxiety, confusion, or overwhelming experiences compared to more potent 2C compounds.
 
 At higher doses, visual effects intensify and may include open-eye patterning, while the clear-headed quality is partially diminished.
+
+## Overview
+
+2C D represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c d
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C D finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c d. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c d and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2C D has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c d into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

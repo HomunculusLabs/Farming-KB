@@ -13,16 +13,11 @@ Season extension techniques allow gardeners and growers to start planting earlie
 This effectively expands the productive growing window by weeks or even months beyond what the local climate would naturally permit.
 The fundamental principle behind all season extension is creating a microclimate that is warmer, more sheltered, and more controlled than the surrounding ambient environment.
 This protects plants from frost, wind, and extreme temperature fluctuations that would otherwise kill or damage them.
-Choosing the right combination of techniques depends on your [[holzer-climate-zone-microclimate-creation]], budget, available space, the crops you want to grow, and how much active management you are willing to invest.
-Even a few degrees of [[holzer-frost-protection-techniques]] can mean the difference between a lost crop and a successful harvest, particularly during the volatile spring and fall shoulder seasons.
+Choosing the right combination of techniques depends on your [[holzer-frost-protection-techniques]] can mean the difference between a lost crop and a successful harvest, particularly during the volatile spring and fall shoulder seasons.
 Most season extension methods are modular and can be combined in layers for progressively greater protection against cold, wind, and other environmental stressors.
 A well-planned season extension strategy can effectively add 30-90+ days to the growing season depending on the climate zone and the methods employed.
 ### Cold Frames
-Cold frames are bottomless boxes with a transparent lid that sit directly on the soil and capture solar energy to create a warm, sheltered [[cannabis-growing-environment-setup]].
-Traditional lids are made of glass (often salvaged from old windows), but modern alternatives include polycarbonate panels, twin-wall greenhouse plastic, and heavy-duty clear vinyl.
-They are one of the simplest and most cost-effective season extension tools, capable of raising the internal temperature by 10-20°F above the outside air temperature on sunny days.
-Cold frames are traditionally used in spring for hardening off seedlings started indoors and in fall/winter for growing cold-hardy crops like lettuce, spinach, kale, radishes, and carrots well past the first frost date.
-The [[cold-frame-construction]] page provides detailed building plans using both reclaimed materials and new lumber, with options for permanent and portable designs that can be moved to follow the sun.
+Cold frames are bottomless boxes with a transparent lid that sit directly on the soil and capture solar energy to create a warm, sheltered [[cold-frame-construction]] page provides detailed building plans using both reclaimed materials and new lumber, with options for permanent and portable designs that can be moved to follow the sun.
 Orienting a cold frame with the glazed lid angled toward the south (in the Northern Hemisphere) maximizes solar gain during the shorter days of spring and fall when the sun is lower in the sky.
 A simple cold frame can be built from a single sheet of plywood and an old window sash in under an hour, making it one of the most accessible DIY projects for beginning gardeners.
 The ideal depth for a cold frame is 12-18 inches from the soil surface to the lid, which provides enough headroom for most seedlings and small transplants without creating excessive air volume.
@@ -33,14 +28,11 @@ Low tunnels can be installed over existing garden rows in a matter of minutes, m
 Low tunnels covered with clear polyethylene film provide the greatest temperature boost (10-15°F) and are ideal for early spring planting and late fall harvest of frost-sensitive crops like tomatoes, peppers, and cucumbers.
 Switching to spun-bonded row cover fabric instead of plastic provides less warming (4-8°F) but allows light and water to pass through, eliminating the need for irrigation lines inside the tunnel and reducing overheating risk.
 Low tunnels require anchoring at both ends and along the sides to prevent wind damage; sandbags, earth staples, and burying the edges of the cover material in soil are all effective anchoring methods.
-The [[seed-saving-techniques]] and [[greenhouse-growing]] and [[greenhouse-growing-essentials]] page covers crop selection, soil management, pest control, and environmental monitoring specifically for greenhouse environments.
-For cannabis cultivators, permaculture approach to season extension emphasizes integrating protective structures into the overall garden design, using windbreaks, thermal mass, and strategic placement to reduce energy inputs.
-For water management in extended-season growing, [[wicking-bed-construction]] technique pairs well with season extension structures by providing consistent bottom-up moisture that reduces the frequency of watering needed inside cold frames and low tunnels.
+The [[greenhouse-growing]] and [[wicking-bed-construction]] technique pairs well with season extension structures by providing consistent bottom-up moisture that reduces the frequency of watering needed inside cold frames and low tunnels.
 Monitoring soil temperature with a simple probe thermometer is more useful than tracking air temperature when deciding when to plant, because seeds germinate and roots grow based on soil warmth rather than the air above them.
 Keeping detailed records of planting dates, first and last frost dates, harvest dates, and the season extension methods used each year allows you to continuously refine your strategy and push your growing season further every year.
 ### Related
 
-- [[season-extension-techniques]] provides a comprehensive overview of all major approaches to extending the growing season.
 - [[greenhouse-design]] covers the principles of designing an efficient greenhouse for year-round production.
 - permaculture discusses holistic design approaches that integrate season extension into sustainable growing systems.
 ## Practical Considerations

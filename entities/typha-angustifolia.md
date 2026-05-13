@@ -23,7 +23,7 @@ sources:
 
 **Typha angustifolia**, commonly known as narrowleaf cattail or lesser bulrush, is a perennial emergent aquatic plant in the family Typhaceae. It is one of the most widely distributed wetland species in the Northern Hemisphere, forming dense monospecific stands along lake margins, marshes, and slow-moving waterways.
 
-The species is distinguished from the closely related *Typha latifolia* by its narrower leaves (less than 1 cm wide) and the gap between the male and female flower spikes. *T. angustifolia* frequently hybridizes with *T. latifolia* to form *Typha × glauca*, a vigorous hybrid that has become invasive in parts of North America.
+The species is distinguished from the closely related *[[typha-latifolia]]* by its narrower leaves (less than 1 cm wide) and the gap between the male and female flower spikes. *T. angustifolia* frequently hybridizes with *T. latifolia* to form *Typha × glauca*, a vigorous hybrid that has become invasive in parts of North America.
 
 ## Taxonomy and Morphology
 
@@ -51,17 +51,7 @@ The species prefers shallow standing water (0–50 cm depth) with mineral or org
 
 Compared to *T. latifolia*, narrowleaf cattail occupies slightly deeper water and more nutrient-poor sites. The hybrid *T. × glauca* occupies intermediate conditions and often outcompetes both parents through heterosis.
 
-In Eurasia, the species is considered a native component of healthy wetland ecosystems. However, it can become dominant in eutrophic conditions where nutrient loading favors rapid growth. Seasonal [[dighton-fungal-biomass-production-aquatic-ecosystems]] ranges from 1.5 to 4.0 kg dry weight per square meter in temperate climates.
-
-## Ecological Role
-
-Cattail stands provide critical habitat for wetland birds, including red-winged blackbirds, marsh wrens, and bitterns. The dense vegetation offers nesting sites, cover from predators, and foraging substrate for rails and herons.
-
-The rhizome system stabilizes shorelines and reduces erosion by binding sediments. Decomposing cattail litter contributes organic matter to wetland soils, supporting detrital food webs. However, dense monospecific stands can reduce plant diversity by excluding shorter wetland species through competition for light and space.
-
-*T. angustifolia* serves as a larval host for several moth species, including the cattail moth (*Limnaecia phragmitella*). The pollen is an important early-summer food source for bees and other pollinators.
-
-The dense above-ground litter layer created by senescing cattail foliage modifies the microhabitat by insulating the soil and retaining moisture. This litter layer influences decomposition rates and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the wetland. Invertebrate communities within cattail stands include chironomids, dragonfly nymphs, and aquatic snails that form the base of the wetland food web.
+In Eurasia, the species is considered a native component of healthy wetland ecosystems. However, it can become dominant in eutrophic conditions where nutrient loading favors rapid growth. Seasonal [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the wetland. Invertebrate communities within cattail stands include chironomids, dragonfly nymphs, and aquatic snails that form the base of the wetland food web.
 
 ## Ethnobotanical Uses
 
@@ -69,15 +59,9 @@ The rhizomes are rich in starch (approximately 30–45% dry weight) and have bee
 
 The pollen has been used traditionally as a coagulant and protein supplement in Chinese cuisine, where it is collected in late spring. Young shoots (0.3–0.6 m tall) are edible when peeled and cooked, resembling asparagus in texture and flavor.
 
-Mature leaves have been used for thatching, mat weaving, and basket-making across cultures. The seed fluff was historically used as stuffing for pillows and as tinder for fire-starting. The dried stalks have served as lightweight [[fungal-building-material-deterioration]] for temporary shelters.
+Mature leaves have been used for thatching, mat weaving, and basket-making across cultures. The seed fluff was historically used as stuffing for pillows and as tinder for fire-starting. The dried stalks have served as lightweight [[comparison-constructed-wetland-vs-backyard-pond]] remediation systems.
 
-The rhizome starch has also been fermented to produce alcoholic beverages in parts of eastern Europe and Russia. Medicinally, the powdered pollen has been applied to wounds as a hemostatic agent in traditional Chinese medicine. The gelatinous interior of young shoots was used by Native American peoples as a topical poultice for burns and insect bites.
-
-## Phytoremediation
-
-*T. angustifolia* demonstrates significant capacity for heavy metal accumulation, particularly lead, cadmium, zinc, and copper. Studies have shown bioconcentration factors exceeding 1.0 for lead in root tissues, making it a candidate for [[comparison-constructed-wetland-vs-backyard-pond]] remediation systems.
-
-The species is effective at nutrient removal in [[mollison-designers-wastewater-treatment-wetlands]] wetlands, absorbing nitrogen and phosphorus through both root uptake and microbial interactions in the rhizosphere. [[comparison-constructed-wetlands-vs-bioswales]] planted with *Typha* species achieve 60–90% nitrogen removal and 70–95% phosphorus removal under optimal conditions.
+The species is effective at nutrient removal in [[comparison-constructed-wetlands-vs-bioswales]] planted with *Typha* species achieve 60–90% nitrogen removal and 70–95% phosphorus removal under optimal conditions.
 
 Root-zone oxidation by radial oxygen release from *Typha* roots creates aerobic microsites in otherwise anoxic sediments. This oxygen leakage supports nitrifying bacteria that convert ammonium to nitrate, enabling coupled nitrification-denitrification processes that remove nitrogen as nitrogen gas.
 
@@ -88,3 +72,79 @@ The species also shows promise for organic pollutant removal, including petroleu
 *T. angustifolia* is readily propagated from rhizome divisions planted in shallow water (5–30 cm depth) during spring. Established stands spread rapidly through rhizomatous growth, often expanding 0.5–1.5 m per year. Seed germination requires moist, exposed sediment and is less reliable than vegetative propagation.
 
 In constructed treatment wetlands, cattail is planted at densities of 4–8 plants per square meter. Stands reach full coverage within 2–3 growing seasons. Harvesting above-ground biomass annually removes accumulated nutrients and prevents excessive litter buildup that can impede water flow.
+
+## Overview
+
+Typha Angustifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish typha angustifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving typha extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Typha Angustifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for typha angustifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+typha angustifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Typha Angustifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of typha angustifolia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

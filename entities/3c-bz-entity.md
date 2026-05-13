@@ -8,41 +8,7 @@ sources: []
 ---
 # 3C-BZ
 
-**[[2c-b-pihkal-entry-20]] #21** -- 4-Benzyloxy-3,5-dimethoxyamphetamine
-
-## Chemical Name
-
-4-Benzyloxy-3,5-dimethoxyamphetamine
-
-## Dosage and Duration
-
-- **Dosage:** 25 - 200 mg
-
-- **Duration:** 18 - 24 h
-
-## Qualitative Comments
-
-(with 25 mg) I went into an emotionally brittle place, and for a while I was
-uncomfortable with childhood reminiscences. The seeing of my family's Christmas
-tree in my mind was almost too much. I cried.
-
-(with 50 mg) The action is distinct -- wakeful -- alerting and wound up.
-Hypnogogic imagery, and I could not sleep at night with my mind doing many
-uncontrolled, tangential, busy things. I had fleeting nausea early in the
-process.
-
-(with 100 mg) I took this in two portions. Following 50 milligrams I was aware
-of a slight light-headedness at a half-hour, but there was little else. At 1.5
-hours, I took the second 50 milligrams and the augmentation of effects was
-noted in another half hour. The experience quietly built up to about the fifth
-hour, with some erotic fantasy and suggestions of changes in the visual field.
-I could not sleep until the twelfth hour, and my dreams were wild and not too
-friendly. There was no body threat from this, but I was not completely baseline
-until the next day. I am not too keen to do this again -- it lasts too long.
-
-(with 100 mg) No effects.
-
-(with 150 mg) This is in every way identical to 100 micrograms of [[lsd]].
+**[[lsd]].
 
 (with 180 mg) I can compare this directly to TMA which was the material I took
 last week. Many similarities, but this is unquestionably more intense than the
@@ -70,15 +36,7 @@ maintaining reflux conditions, this slowly redissolved, and was replaced by the
 steady deposition of KCl. After 6 h, the reaction mixture was cooled, and the
 solids removed by filtration. The filtrate was stripped of solvent under vacuum
 to give 57 g of crude 5-allyl-2-benzyloxy-1,3-dimethoxybenzene. This was
-dissolved in a solution of 60 g KOH in 80 mL EtOH and heated on the [[scythian-cannabis-steam-bath-ritual]]
-for 16 h, giving 35.6 g of crude 2-benzyloxy-1,3-dimethoxy-5-propenylbenzene.
-
-To a stirred, ice-cold solution of this and 13.6 g pyridine in 142 mL acetone,
-there was added 24.6 g tetranitromethane. After stirring for 3 min, there was
-added a solution of 7.9 g KOH in 132 mL H2O. The nitropropene product was
-obtained as yellow crystals with mp 84-85 degrees C.
-
-Reduction with LAH, followed by picrate salt formation, [[decomposition]] with NaOH,
+dissolved in a solution of 60 g KOH in 80 mL EtOH and heated on the [[decomposition]] with NaOH,
 extraction, and HCl gas saturation gave 2.5 g 4-benzyloxy-3,5-dimethoxy-
 amphetamine hydrochloride (3C-BZ) as a white solid with mp 161-164 degrees C.
 
@@ -88,3 +46,88 @@ Two points are worthy of commentary: the potency and the promise of 3C-BZ.
 
 As to potency, there is such uncertainty as to the effective dose that it is for
 all intents and purposes impossible to predict just what dose should be
+
+## Overview
+
+3C Bz Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 3c bz entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 3c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+3C Bz Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 3c bz entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+3c bz entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+3C Bz Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 3c bz entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

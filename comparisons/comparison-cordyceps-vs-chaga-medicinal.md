@@ -20,50 +20,11 @@ you choose the right mushroom — or combine both — for your needs.
 
 ## Cordyceps
 
-[[medicinal-mushroom-guide-cordyceps]]
-
-Cordyceps is a genus of parasitic fungi that infect insects and other
-arthropods. The two most medicinally relevant species are C. militaris,
-which is bright orange and commercially cultivable, and O. sinensis,
-the legendary "caterpillar fungus" wild-harvested from the Tibetan
-Plateau at prices exceeding $50,000 per kilogram.
-
-The signature compound is cordycepin (3'-deoxyadenosine), a nucleoside
-analog with antibacterial, antiviral, anti-inflammatory, and anti-tumor
-properties. Cordyceps also contains adenosine, beta-glucans, and
-cordycepic acid (D-mannitol). Its primary mechanisms involve enhancing
-cellular ATP production, improving oxygen utilization (VO2 max), and
-activating the AMPK energy-sensing pathway — essentially mimicking
-exercise at the cellular level.
-
-Cordyceps excels as an ergogenic aid. Human studies show improved VO2
-max, increased time to exhaustion, and enhanced aerobic capacity after
-2-4 weeks of supplementation at 1000-3000mg per day. It also supports
-respiratory health through bronchodilatory effects and has traditional
-use as a kidney tonic and aphrodisiac in Chinese medicine. See also
 [[cordyceps-militaris-cultivation]] for growing your own.
 
 ## Chaga
 
-[[medicinal-mushroom-guide-chaga]]
-
-Chaga is not a typical fruiting body but a dense sclerotium — a mass of
-mycelium — that forms on living birch trees in cold northern climates
-over 10-15 years. Its dark, cracked exterior is concentrated melanin,
-and it draws betulin and betulinic acid directly from its birch host.
-
-Chaga's claim to fame is its extraordinary antioxidant capacity. It has
-some of the highest ORAC (Oxygen Radical Absorbance Capacity) values of
-any tested natural substance, powered by three antioxidant systems:
-melanin, superoxide dismutase (SOD), and polyphenols. The triterpene
-inotodiol, unique to Inonotus species, shows anti-tumor and
-anti-inflammatory activity in research. Betulinic acid from birch
-induces apoptosis in cancer cells and inhibits tumor angiogenesis.
-
-Preparation matters: hot water extraction pulls out water-soluble
-polysaccharides, while alcohol extraction captures triterpenes and
-sterols. Dual extraction combines both. Chaga can be re-steeped 3-5
-times. See [[chaga-inonotus-obliquus-medicinal-profile]] for the full
+[[chaga-inonotus-obliquus-medicinal-profile]] for the full
 pharmacological breakdown.
 
 ## Key Differences
@@ -118,13 +79,6 @@ paired with chaga tea sipped throughout the day for antioxidant
 protection covers both bases. Many commercial medicinal mushroom
 blends already combine them. Dose both at the lower end of their
 ranges if combining (500-1000mg cordyceps extract + 500-1000mg chaga
-extract daily). See [[adaptogenic-herbs-guide]] for complementary
-herbs that pair well with both.
-
-## See Also
-
-- [[comparison-chaga-vs-reishi-medicinal]]
-- [[comparison-cordyceps-vs-reishi-cultivation]]
+extract daily). See [[comparison-chaga-vs-reishi-medicinal]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
-- [[medicinal-mushroom-guide-chaga]]
 - [[medicinal-mushroom-guide-cordyceps]]

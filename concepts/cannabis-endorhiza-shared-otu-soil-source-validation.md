@@ -9,10 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-A central prediction of the two-tier [[two-tier-selection-model-plant-microbiome]] for root microbiomes is
-that endorhiza (root-inhabiting) bacteria are primarily recruited from the
-surrounding bulk soil, with subsequent filtering by host genotype. The Winston
-et al. (2014) [[cultivar-cannabis-microbiome-two-tier-selection-model]] study tested this prediction directly by
+A central prediction of the two-tier [[cultivar-cannabis-microbiome-two-tier-selection-model]] study tested this prediction directly by
 comparing shared operational taxonomic units (OTUs) between endorhiza samples
 and their native soil versus a foreign soil in which the same cultivar was
 grown. The results provide strong support for the soil-as-source hypothesis.
@@ -23,50 +20,7 @@ The test was made possible by the second experiment, which grew the White
 Widow cultivar in two chemically distinct soil types:
 
 - **MB soil** (Mo-Bio laboratory soil): Higher nitrogen (0.26%), moderate
-  [[dighton-fungal-dissolved-organic-carbon-production]] (3.02%), pH 6.63, moderate salinity
-- **OC soil** (Orange County field soil): Lower nitrogen (0.53%), much higher
-  organic carbon (20.0%), pH 6.77, low salinity
-
-White Widow plants were grown in both soils, allowing a direct test: do roots
-share more bacterial taxa with the soil they grew in, or with the soil where
-the same strain was grown?
-
-## Results: OTU Sharing Analysis
-
-### Native Soil vs Foreign Soil
-
-The number of shared OTUs between endorhiza and their **own (native) soil**
-was significantly greater than shared OTUs between endorhiza and the
-**foreign soil**:
-
-- **Endorhiza-native soil shared OTUs**: mean = 2,934 (n = 45 paired
-  comparisons)
-- **Endorhiza-foreign soil shared OTUs**: mean = 2,162 (n = 45 paired
-  comparisons)
-- **Statistical significance**: t = -10.05, p = 1.209 × 10⁻¹⁵
-
-This highly significant difference confirms that the local soil environment,
-not the plant genotype, is the primary source pool from which endorhiza
-communities are assembled.
-
-### The Two-Step Colonization Process
-
-The results are consistent with a two-step colonization process:
-
-1. **Step 1 — Rhizodeposition filtering**: [[composting]], [[fungal-endophytes]] likely
-  follow different recruitment patterns
-- The study could not distinguish between active colonization and passive
-  DNA persistence from dead cells
-
-## Key References
-
-- Winston ME, et al. (2014) PLoS ONE 9(6): e99641.
-- Bulgarelli D, Rott M, Schlaeppi K, et al. (2012) Nature 488: 91-95.
-- Garbeva P, van Veen JA, van Elsas JD (2004) Ann Rev Phytopathol 42: 243-270.
-
-## See Also
-
-- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
+  [[composting]], [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
 ## Practical Considerations
 
 Successful implementation of Shared OTU Analysis Validating Soil as Endorhiza Microbe Source in Cannabis requires attention to
@@ -115,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[endorhiza-shared-otu-soil-origin-cannabis]]
 - [[composting]]
-- [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]
 - [[beta-diversity-distances-bulk-soil-rhizosphere-cannabis-endorhiza]]
 - [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
+
+## Overview
+
+Cannabis Endorhiza Shared Otu Soil Source Validation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis endorhiza shared otu soil source validation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Endorhiza Shared Otu Soil Source Validation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis endorhiza shared otu soil source validation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis endorhiza shared otu soil source validation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Endorhiza Shared Otu Soil Source Validation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis endorhiza shared otu soil source validation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

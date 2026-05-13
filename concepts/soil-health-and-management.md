@@ -24,10 +24,7 @@ drain quickly but retain few nutrients. Clay soils hold nutrients and water but
 drain poorly and can become compacted. Loam, a balanced mixture of all three
 particles, is considered ideal for most garden plants.
 
-[[hamilton-composting-and-organic-matter-management]], though typically composing only a small percentage of the soil
-by weight, is critical to soil health. It improves structure in both sandy and
-clay soils, increases water-holding capacity, provides nutrients as it
-decomposes, and supports the diverse [[edaphic-factors-microbial-community-structure]] essential for nutrient
+[[edaphic-factors-microbial-community-structure]] essential for nutrient
 cycling.
 
 ## Soil pH and Nutrient Availability
@@ -62,7 +59,7 @@ volatilization as ammonia gas, and denitrification in waterlogged conditions.
 
 Phosphorus is essential for energy transfer (ATP), root development, flowering,
 and fruit production. It is relatively immobile in soil and tends to accumulate
-near the surface. [[fungi-in-the-environment-symbiotic-relationships]] with plant roots. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], for example,
+near the surface. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], for example,
 extend root networks and improve nutrient and water uptake in exchange for
 carbon from the host plant.
 

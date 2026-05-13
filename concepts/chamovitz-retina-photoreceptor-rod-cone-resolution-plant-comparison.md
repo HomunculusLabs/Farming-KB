@@ -6,25 +6,7 @@ tags: [photoreceptor, retina, rod, cone, rhodopsin, photopsin, plant-perception,
 
 # Retinal Photoreceptors — Rods, Cones, and Resolution Compared to Plant Light Perception
 
-[[daniel-chamovitz]], in *What a Plant Knows*, draws a striking comparison between the extraordinary density of the human retina's photoreceptors and the sophisticated — if fundamentally different — light perception systems found in plants. This concept page explores both systems side by side.
-
-## The Human Retina: An Astonishing Sensor
-
-The human retina is a remarkably dense photoreceptive surface packed into an area roughly the size of a passport photo. Within that tiny patch of tissue reside approximately **125 million rods** and **6 million cones**, yielding a combined resolution equivalent to roughly **130 megapixels**.
-
-To put that figure in perspective:
-
-- A typical smartphone camera captures around **8 megapixels**
-- A high-density LED display packs roughly **10,000 LEDs per square metre**
-- The human retina outperforms both by more than an order of magnitude
-
-This extraordinary resolution is the raw hardware behind human sight, though as Chamovitz emphasises, the full experience of vision also depends on the brain's ability to process the signals these cells generate.
-
-## Rods: The Universal Light Detectors
-
-Rods are the more abundant photoreceptor type by a wide margin. Their key characteristics:
-
-- **Sensitive to all [[electromagnetic-spectrum-visible-light-plant-perception]]** — they do not discriminate by wavelength
+[[electromagnetic-spectrum-visible-light-plant-perception]]** — they do not discriminate by wavelength
 - **Enable night and low-light vision** — rods are the reason humans can see in dim conditions
 - **Do not contribute to colour perception** — the world seen by rods alone is monochrome
 - **Contain the pigment rhodopsin**, a light-absorbing protein that triggers the visual signal cascade when struck by photons
@@ -87,7 +69,7 @@ Plants do not see images or form pictures in any sense analogous to human vision
 - **Infrared light** — plants also sense infrared radiation beyond the red end of the visible spectrum
 - **Light direction** — plants can determine where light is coming from (left, right, above)
 - **Light obstruction** — plants detect when their access to light has been blocked by another object
-- **Light duration** — plants measure how long they have been exposed to light, a capacity central to photoperiodism and seasonal responses
+- **Light duration** — plants measure how long they have been exposed to light, a capacity central to [[photoperiodism]] and seasonal responses
 
 Where human vision trades spectral breadth for image-forming resolution, plant light perception trades image formation for spectral range and functional adaptiveness. A plant does not need to recognise a face; it needs to know whether it is in shade, which direction the sun is moving, and how long the day lasts.
 
@@ -101,14 +83,7 @@ Chamovitz's broader argument is that the word "see" need not be reserved exclusi
 |---|---|---|---|
 | Primary pigment | Rhodopsin | Photopsins (R/G/B) | Various (phytochromes, cryptochromes, phototropins) |
 | Spectral range | All visible light | Narrow bands (R/G/B) | UV, visible, infrared |
-| Function | Low-light detection | Colour vision in bright light | [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]], direction sensing, timing |
-| Image formation | No (monochrome) | Yes (with brain) | No |
-| Direction sensing | No (requires brain processing) | No (requires brain processing) | Yes (intrinsic) |
-| Quantity (human) | ~125 million | ~6 million | N/A |
-
-## See Also
-
-- Phototropism and plant directional [[phototropism-and-plant-light-responses]]
+| Function | Low-light detection | Colour vision in bright light | [[phototropism-and-plant-light-responses]]
 - Phytochromes and plant photoperiodism
 - Cryptochromes and blue [[darwin-phototropism-experiments-plant-light-sensing]] in plants
 - Phototropins and plant UV-A response mechanisms

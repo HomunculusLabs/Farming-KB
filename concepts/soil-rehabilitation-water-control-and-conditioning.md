@@ -19,56 +19,11 @@ Effective soil rehabilitation proceeds through four interconnected stages:
 
 ## Water Control
 
-Water is the primary agent of both soil degradation and soil recovery. Proper [[water-management]] is the foundation of all rehabilitation efforts.
-
-### Draining Waterlogged Soils
-
-Although many sands and deeply weathered soils are naturally free-draining, waterlogging can occur wherever soil water lies over an impermeable layer or where water backs up behind a clay or rock barrier. Anaerobic conditions result, killing beneficial soil organisms and creating conditions hostile to most crop plants. Three primary drainage techniques are available:
-
-**Raised garden beds** involve digging paths down to serve as drains while raising the planting beds above them. In very wet areas, paths should be given a 1:500 slope to prevent erosion while still allowing drainage. This method is ideal for garden-scale rehabilitation and creates well-drained, aerated root zones.
-
-**Deep open drains** are installed every 10 to 80 metres on clay-sand soils, positioned upslope and downslope or on either side of garden beds. They intercept and redirect excess water away from planting areas. Spacing depends on soil type and the severity of waterlogging.
-
-**Underground pipes** (tile drains or fluted plastic pipes, which are most effective) are laid in trenches approximately 1.5 metres deep, backfilled, and spaced 10 to 80 metres apart. They should start at a drain or stream and fall gently at a slope of 1:1000 to 1:600 toward the ridge. This method is the most permanent and least disruptive of surface activities.
-
-### Water Retention
-
-Water retention in soil is greatly aided by long-term soil additives in the form of hydrophilic gels. These gels absorb and release water over many cycles of rain, acting as moisture reservoirs within the soil profile. This is a practical system for gardens or high-value tree crops where the cost amortises over the productive life of the planting. The gels can reduce irrigation frequency and help plants survive dry periods between rainfall events.
-
-### Rainfall-Dependent Systems
-
-Drought is only a problem where poor or no water storage has been developed, where tree crops have been sacrificed for fodder or fuel, and where grain crops are entirely dependent on annual rains. Rehabilitation should aim to rely much more on natural rainfall and water harvesting than on groundwater extraction, which can be unsustainable and lead to further degradation.
-
-## Soil Conditioning
-
-Compacted, collapsed, and eroded soils need rehabilitative aeration and a fundamental change in land use. Soil conditioning addresses the physical structure of degraded soils.
-
-### The Role of Soil Biota
-
-Worms, termites, grubs, and burrowers create soil crumbs as small bolus or manure piles, and they will eventually recreate loose soils if left undisturbed in pasture. These organisms work continuously to aerate soil, process organic matter, and create channels for water infiltration and root penetration.
-
-### Biological Soil Conditioning
-
-People like [[masanobu-fukuoka]] demonstrate patient and effective biological soil conditioning by casting out strong-rooted radish seed (daikon varieties), tree legume seed, and deep-rooted plants such as comfrey, lucerne, and Acacias, eventually followed by forest trees. The same subsurface shattering that mechanical implements achieve occurs slowly and noiselessly through root action. The soil regains structure, aeration, and permits water infiltration without the energy input and potential disruption of mechanical methods.
+Water is the primary agent of both soil degradation and soil recovery. Proper [[masanobu-fukuoka]] demonstrate patient and effective biological soil conditioning by casting out strong-rooted radish seed (daikon varieties), tree legume seed, and deep-rooted plants such as comfrey, lucerne, and Acacias, eventually followed by forest trees. The same subsurface shattering that mechanical implements achieve occurs slowly and noiselessly through root action. The soil regains structure, aeration, and permits water infiltration without the energy input and potential disruption of mechanical methods.
 
 ### Evidence for Mulching and Green Manure
 
-[[erik-van-der-werf]] documented the improvement of crumb structure at the Agomeda Agricultural Project in Ghana by measuring bulk density (weight per volume ratio in g/cc) of soil samples under different treatments:
-
-| Soil Treatment | Bulk Density |
-|---|---|
-| Annually burnt bush | 1.35 |
-| Bush left 2 years without fire | 1.27 |
-| Farmland, cultivated 2 years | 1.29 |
-| Farmland, permanently mulched and cropped for 3 years | 0.92 |
-
-The mulched soils, even with continuous cropping, demonstrate how humus alone restores good aeration. Soil temperatures were 10°C lower under mulch, and both crop grain yields and organic matter production increased threefold. These results confirm that mulching is one of the most powerful and accessible tools for soil rehabilitation.
-
-## Fertilisation Strategy
-
-Rehabilitation involves reducing and replacing past wasteful or polluting fertilisation practices with sensible trace element adjustment via foliar sprays, once undisturbed soil systems and permanent crops have been established. Foliar sprays of very small amounts of key elements greatly assist plant establishment, as does seed pelleting using key elements that are deficient in local soils.
-
-This approach allows utilisation of phosphate that is locked up in clays, and using legumes to create net nitrogen for food crops through sophisticated interplant and [[green-manure]] systems. The goal is to shift from external chemical inputs to internal biological nutrient cycling.
+[[green-manure]] systems. The goal is to shift from external chemical inputs to internal biological nutrient cycling.
 
 ## Crop and Plant Species Selection
 
@@ -102,3 +57,88 @@ Key biological agents for farm-scale rehabilitation include daikon radish for de
 In any specific soil rehabilitation project, priorities should be set for erosion control on specific sites and slopes, with earthworks or planting sequences designed to establish soil stability first. If soil losses are allowed to continue or worsen, all other investments are at risk. The next stage is to assess the capacity of soils for dams, swales, foundations, or specific crops, which may require further analysis through test holes, auger borings, or soil pit inspection.
 
 When a predetermined set of values based on soil and water conservation and appropriate use of sites is adopted, any site with its water lines and soil types noted starts to define itself in appropriate usages. This approach allows the landscape itself to guide design decisions, rather than imposing arbitrary land use patterns.
+
+## Overview
+
+Soil Rehabilitation Water Control And Conditioning represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil rehabilitation water control and conditioning
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Rehabilitation Water Control And Conditioning finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil rehabilitation water control and conditioning. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil rehabilitation water control and conditioning and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Rehabilitation Water Control And Conditioning has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil rehabilitation water control and conditioning into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cool-temperate-soil-characteristics]]
+- [[jeavons-soil-ph-testing-balancing]]
+- [[lowenfels-tilling-no-till-soil-health]]
+- [[query-what-are-the-best-indicator-plants-for-soil-health]]
+- [[query-what-is-the-best-soil-mix-for-growing-cannabis]]

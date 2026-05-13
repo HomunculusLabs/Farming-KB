@@ -65,17 +65,7 @@ Campanula pyramidalis is a polycarpic perennial, flowering repeatedly over many 
 
 Flowering occurs from July to September, with individual flowers lasting 3–5 days. The flowers are bee-pollinated, with the long corolla tube favoring longer-tongued species.
 
-[[cannabis-controlled-pollination-seed-production]] is prolific, with each capsule containing 50–100 seeds. Seeds are dispersed by gravity and wind, often falling into crevices near the parent plant.
-
-The species exhibits a degree of [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, owing to its deep root system. However, seedlings require consistent moisture during their first [[extending-growing-season]].
-
-## Cultivation
-
-Chimney bellflower has a long history of cultivation in European gardens. It is prized for its dramatic flower spikes and suitability to shaded sites.
-
-- **Soil:** Well-drained, humus-rich loam, pH 7.0–8.0
-- **Light:** Partial shade to full shade; tolerates morning sun
-- **Watering:** Regular during [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]; reduce in winter
+[[dighton-fungal-drought-tolerance-plant-water-relations]] once established, owing to its deep root system. However, seedlings require consistent moisture during their first [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]; reduce in winter
 - **Hardiness:** USDA zones 5–8
 - **Propagation:** Seed (cold stratification beneficial), basal cuttings in spring
 

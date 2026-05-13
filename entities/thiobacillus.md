@@ -7,7 +7,7 @@ tags: [microbiology, soil-science, bacteria, sulphur-cycle, permaculture]
 
 ## Description
 
-Thiobacillus is a genus of Gram-negative, rod-shaped bacteria that play a critical role in the sulphur cycle within soils and aquatic environments. These chemoautotrophic organisms derive energy from the oxidation of reduced sulphur compounds, converting them to sulphates and sulphuric acid. In permaculture and soil science, thiobacilli are significant because they contribute to soil acidification, mineral solubilisation, and the production of gases found in anaerobic soil microsites. Mollison references thiobacillus action as part of the complex biochemical processes operating in waterlogged and anaerobic soils.
+Thiobacillus is a genus of Gram-negative, rod-shaped bacteria that play a critical role in the sulphur cycle within soils and aquatic environments. These chemoautotrophic organisms derive energy from the oxidation of reduced sulphur compounds, converting them to sulphates and sulphuric acid. In [[permaculture]] and soil science, thiobacilli are significant because they contribute to soil acidification, mineral solubilisation, and the production of gases found in anaerobic soil microsites. Mollison references thiobacillus action as part of the complex biochemical processes operating in waterlogged and anaerobic soils.
 
 ## Classification
 
@@ -34,7 +34,7 @@ Thiobacillus is a genus of Gram-negative, rod-shaped bacteria that play a critic
 
 ### Habitat
 - Found in soils, muds, hot springs, mine drainage waters, and any environment containing reduced sulphur compounds.
-- Particularly active in waterlogged soils, hydrophobic clays in winter, and soils where crumb structure has been destroyed.
+- Particularly active in waterlogged soils, hydrophobic clays in winter, and soils where [[crumb-structure]] has been destroyed.
 - Also found in salt-deflocculated collapsed soils and periodically flooded soils.
 - Active in the mottled colour zones of hydromorphic soils.
 
@@ -61,9 +61,7 @@ Thiobacillus bacteria illustrate the extraordinary chemical complexity occurring
 
 ## See Also
 
-- [[soil-biota]]
 - [[ethylene-oxygen-cycle]]
-- [[soil-colloids]]
 - [[soil-ph]]
 - [[humus]]
 

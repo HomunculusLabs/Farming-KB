@@ -17,61 +17,17 @@ sources:
 
 ## Overview
 
-**Asplenium platyneuron**, commonly known as ebony spleenwort, is a small evergreen fern native to [[polypore-fungi-eastern-north-america]]. It is one of the most widespread and adaptable ferns on the continent, occurring from New England to Florida and west to Texas.
-
-The species is easily recognized by its dark, shiny stipe (rachis) and narrow, once-pinnate fronds. It grows in a remarkable range of habitats, from acidic rock outcrops to disturbed soils and brick walls.
-
-Its evergreen fronds remain attractive throughout the winter in southern portions of its range, providing visual interest in the dormant landscape. The dark stipe contrasts sharply with the bright green pinnae, creating a distinctive two-toned appearance.
-
-Ebony spleenwort is a member of the spleenwort family (Aspleniaceae), one of the largest fern families with roughly 700 species worldwide. Its scientific name refers to the dark-colored midrib (*platyneuron* meaning "broad nerve") and the traditional belief that spleenworts could cure disorders of the spleen.
-
-Historically, [[halpern-sacramental-peyote-and-native-american-church]] peoples including the Cherokee and Iroquois used preparations of the fronds to treat various ailments, including lung congestion and rheumatism. The Cherokee also used the roots in a poultice for snakebites, though these ethnobotanical uses are not supported by modern pharmacological evidence.
+**Asplenium platyneuron**, commonly known as ebony spleenwort, is a small evergreen fern native to [[halpern-sacramental-peyote-and-native-american-church]] peoples including the Cherokee and Iroquois used preparations of the fronds to treat various ailments, including lung congestion and rheumatism. The Cherokee also used the roots in a poultice for snakebites, though these ethnobotanical uses are not supported by modern pharmacological evidence.
 
 ## Taxonomy and Morphology
 
 **Asplenium platyneuron** (L.) Britton, Sterns & Poggenb. belongs to family Aspleniaceae, order Polypodiales. The basionym is *Polypodium platyneuron* L., published by Linnaeus in 1753.
 
-The species was transferred to *Asplenium* by Britton, Sterns, and Poggenberg in 1888. No significant synonyms are in current use, though early [[growing-gourmet-north-american-reishi-species]] floras sometimes listed it as *Asplenium ebeneum* Aiton.
-
-Molecular phylogenetic studies place *A. platyneuron* within the *A. scolopendrium* clade of Aspleniaceae. This clade includes species with morphologically diverse frond architectures, suggesting that simple pinnate fronds are a derived rather than ancestral condition.
-
-Fronds are 10–50 cm long, with the sterile fronds typically shorter and more erect than the fertile ones. The stipe is dark brown to nearly black, polished, and comprises roughly one-third to one-half of the total frond length.
-
-The lamina is linear-lanceolate, once-pinnate, with 10–30 pairs of pinnae. Pinnae are alternate, oblong to lanceolate, and often slightly auriculate at the base on the acroscopic side.
-
-The rachis is conspicuously dark and shiny throughout, a key diagnostic character that separates it from superficially similar species like *Asplenium rhizophyllum*. Sori are linear, running along the veins on the underside of pinnae, with indusia attached along one side.
-
-The spores are reniform, averaging 28–35 μm in diameter, with a perispore that is prominently folded or cristate. Spore production peaks from June through September in most of its range.
-
-*Asplenium platyneuron* is a diploid species with a chromosome count of 2n = 72. It is one of the progenitor species of the tetraploid hybrid *Asplenium × ebenoides* (scott's spleenwort), a cross between *A. platyneuron* and *A. rhizophyllum* that is intermediate in morphology between its parents.
-
-This species also hybridizes with *Camptosorus rhizophyllus* (walking fern) to produce *×Asplenosorus ebenoides*, a rare sterile hybrid known from limestone outcrops in the eastern United States. These hybrid individuals are morphologically distinctive, combining the narrow fronds of ebony spleenwort with the walking fern's leaf-tip proliferations.
-
-## Distribution and Habitat
-
-Ebony spleenwort ranges from southern Ontario and Maine south to Florida, and west to eastern Texas, Oklahoma, and Kansas. Disjunct populations occur in Arizona, New Mexico, and northeastern Mexico.
-
-The species is remarkably tolerant of diverse substrates and moisture regimes. It colonizes acidic rock outcrops (sandstone, granite, gneiss), cliff faces, talus slopes, old stone walls, and even brickwork in urban settings.
-
-In forested habitats, it grows on rocky banks, the bases of trees, and decaying logs. It is particularly common in oak-hickory forests, pine barrens, and along stream corridors where rock is exposed.
-
-The species shows a strong preference for thin, well-drained soils over bedrock. It rarely occurs in deep humus or rich alluvial soils where more competitive ferns such as *[[osmundastrum-cinnamomeum]]* dominate the understory.
+The species was transferred to *Asplenium* by Britton, Sterns, and Poggenberg in 1888. No significant synonyms are in current use, though early [[osmundastrum-cinnamomeum]]* dominate the understory.
 
 Ebony spleenwort tolerates both full shade and partial sun, though it is most vigorous in dappled light. It prefers acidic to circumneutral soils (pH 4.5–6.5) but can persist on calcareous substrates in sheltered microsites.
 
-Precipitation requirements are modest, with the species thriving in areas receiving 800–1,600 mm of annual rainfall. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] is exceptional among ferns, surviving extended dry periods by curling its fronds and entering temporary dormancy.
-
-The species is considered an early colonizer of disturbed rocky habitats. It frequently appears on newly exposed roadcuts, quarry walls, and construction sites, often serving as a nurse plant for subsequent fern colonization.
-
-Elevation range spans from sea level to approximately 1,500 meters in the southern Appalachian Mountains. At higher elevations, populations are typically restricted to south-facing rock outcrops where [[fao-solar-heating-pasteurization-mushroom-cultivation]] extends [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
-
-## Ecological Role
-
-As an evergreen fern, ebony spleenwort provides year-round ground cover in rocky woodland understories. Its persistent fronds offer shelter for small invertebrates during winter months.
-
-The species contributes to soil formation on rock outcrops through the gradual accumulation of organic matter from decomposing fronds. This creates microsites that other, less tolerant plant species can eventually colonize.
-
-In oak-pine forests of the [[bolete-fungi-appalachian-region]], ebony spleenwort is a common component of the lithophytic (rock-dwelling) fern community. It frequently grows alongside *Asplenium montanum*, *Polypodium virginianum*, and *Cystopteris tenuis*.
+Precipitation requirements are modest, with the species thriving in areas receiving 800–1,600 mm of annual rainfall. Its [[fao-solar-heating-pasteurization-mushroom-cultivation]] extends [[bolete-fungi-appalachian-region]], ebony spleenwort is a common component of the lithophytic (rock-dwelling) fern community. It frequently grows alongside *Asplenium montanum*, *Polypodium virginianum*, and *Cystopteris tenuis*.
 
 The fern's clumping growth habit creates small humus pockets that support mosses, liverworts, and seedling establishment of other plants. Over decades, these microhabitats can develop into substantial soil mats on otherwise barren rock faces.
 
@@ -79,7 +35,7 @@ White-tailed deer generally avoid browsing ebony spleenwort, making it relativel
 
 The sori are consumed by several species of specialist herbivorous insects, including sawfly larvae (family Tenthredinidae) that feed exclusively on *Asplenium* species. Spore dispersal is primarily wind-mediated.
 
-The fern's [[plants-without-mycorrhizal-associations]] have received limited study, but like most leptosporangiate ferns, *A. platyneuron* associates with [[arbuscular-mycorrhizal-fungi]] (Glomeromycota). These associations enhance phosphorus uptake on nutrient-poor rock substrates.
+The fern's [[arbuscular-mycorrhizal-fungi]] (Glomeromycota). These associations enhance phosphorus uptake on nutrient-poor rock substrates.
 
 ## Cultivation
 
@@ -88,3 +44,88 @@ Ebony spleenwort is widely regarded as one of the easiest native ferns to cultiv
 Propagation is most commonly achieved through spore sowing. Spores germinate readily on a peat-perlite mix under high humidity, producing prothalli within 4–8 weeks. Gametophytes are relatively robust and produce sporophytes within 3–6 months.
 
 Division of established clumps is also possible, though the compact root system makes this slower than spore propagation. Mature plants rarely produce offsets, limiting vegetative spread in garden settings.
+
+## Overview
+
+Asplenium Platyneuron represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish asplenium platyneuron
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving asplenium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Asplenium Platyneuron finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for asplenium platyneuron. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+asplenium platyneuron and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Asplenium Platyneuron has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of asplenium platyneuron into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[asplenium-adiantum-nigrum]]
+- [[asplenium-nidus]]
+- [[asplenium-ruta-muraria]]
+- [[asplenium-scolopendrium]]
+- [[asplenium-trichomanes]]

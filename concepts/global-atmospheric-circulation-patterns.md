@@ -90,8 +90,6 @@ knowledge to extend growing seasons, reduce energy consumption, and create
 favorable conditions for cultivated ecosystems in diverse climate zones.
 
 ## See Also
-- [[global-weather-patterns-atmospheric-circulation]]
 - [[global-weather-patterns-and-atmospheric-engines]]
-- [[climatic-zones-and-global-weather-patterns]]
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
 - [[guzman-global-distribution-patterns-neurotropic-fungi]]

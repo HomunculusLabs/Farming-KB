@@ -11,8 +11,7 @@ created: 2026-05-08
 
 Psilocybin and psilocin are the primary psychoactive compounds in hallucinogenic
 mushrooms. They belong to the indolealkylamine (tryptamine) class, the same chemical
-family as serotonin, LSD, and DMT. Understanding their [[amanita-muscaria-chemistry-and-pharmacology]] is
-essential for explaining both their effects and their relative [[cannabis-safety-profile-and-overdose-risk]] compared
+family as serotonin, LSD, and DMT. Understanding their [[cannabis-safety-profile-and-overdose-risk]] compared
 to other hallucinogenic substances.
 
 ## Chemical Classification
@@ -41,10 +40,7 @@ pharmacological activity.
 - **Molecular formula**: C₁₂H₁₆N₂O
 - **Molecular weight**: 204.27 g/mol
 - **Properties**: Less stable than psilocybin; the pharmacologically active compound
-  that acts on [[psilocybin-pharmacology-and-serotonin-receptors]]
-
-### Baeocystin and Norbaeocystin
-Two additional tryptamines may be present in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
+  that acts on [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
 - **Baeocystin**: 4-Phosphoryloxy-N-methyltryptamine (4-PO-NMT)
 - **Norbaeocystin**: 4-Phosphoryloxytryptamine (4-PO-T)
 

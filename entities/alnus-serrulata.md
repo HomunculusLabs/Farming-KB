@@ -12,20 +12,20 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Schopmeyer, C.S. (1974). "Alnus serrulata (Ait.) Willd., hazel alder." In: Seeds of Woody Plants in the United States, USDA Forest Service.
-  - Kruckeberg, A.R. (2008). "Trees of the Pacific Northwest and the Rest of North America." Timber Press.
+  - Kruckeberg, A.R. (2008). "Trees of the [[psilocybin-north-america-pacific-northwest]] and the Rest [[huckleberries-and-wild-berries-of-north-america]]." Timber Press.
   - Elias, T.S. (1980). "The Complete Trees of North America." Van Nostrand Reinhold.
-  - Dawson, J.O. (1990). "Nitrogen fixation by actinorhizal plants in temperate forestry." In: Nitrogen Fixation: Achievements and Objectives, Chapman and Hall.
+  - Dawson, J.O. (1990). "[[biological-nitrogen-fixation-agriculture]] by actinorhizal plants in temperate forestry." In: Nitrogen Fixation: Achievements and Objectives, Chapman and Hall.
 ---
 
 ## Overview
 
-Alnus serrulata, commonly known as hazel alder or smooth alder, is a deciduous shrub or small tree native to eastern North America.
+Alnus serrulata, commonly known as hazel alder or smooth alder, is a deciduous shrub or small tree native to [[polypore-fungi-eastern-north-america]].
 
 It is a actinorhizal plant capable of fixing atmospheric nitrogen through symbiosis with Frankia bacteria.
 
 The species is ecologically important in riparian and wetland habitats throughout its range.
 
-Hazel alder is used in streambank restoration, erosion control, and riparian buffer plantings.
+Hazel alder is used in streambank restoration, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], and riparian buffer plantings.
 
 ## Taxonomy and Morphology
 
@@ -55,7 +55,7 @@ The upper leaf surface is dark green and glabrous; the lower surface is pale gre
 
 Petioles are slender, 5-15 mm long, often slightly winged near the base.
 
-Male catkins are pendulous, cylindrical, 5-10 cm long, formed in the previous growing season.
+Male catkins are pendulous, cylindrical, 5-10 cm long, formed in the previous [[extending-growing-season]].
 
 Female catkins are small, erect, cone-like structures 8-15 mm long, borne in clusters of 2-5.
 
@@ -77,9 +77,7 @@ It commonly grows along the edges of ponds, marshes, and other freshwater wetlan
 
 The species frequently colonizes disturbed sites including road cuts, old fields, and gravel bars.
 
-Common associates include [[salix-alba]], [[betula-pendula]], and [[quercus-robur]].
-
-Other companion species include [[vaccinium-corymbosum-entity|Vaccinium corymbosum]], [[kalmia-latifolia]], and [[rhododendron-maximum]].
+Common associates include [[betula-pendula]], and [[vaccinium-corymbosum-entity|Vaccinium corymbosum]], [[rhododendron-maximum]].
 
 It prefers moist to wet soils with pH 5.0-7.0 and tolerates seasonal inundation.
 

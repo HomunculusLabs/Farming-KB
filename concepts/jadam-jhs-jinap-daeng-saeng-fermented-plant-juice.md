@@ -12,34 +12,7 @@ tags: [fermentation, jadam, plants]
 # JADAM Herb Solution (JHS) - Fermented Plant Juice for Pest Control
 
 JADAM Herb Solution (JHS) is a boiled herbal extract used primarily for
-its insect-controlling effect in the JADAM [[jadam-natural-pesticide-institute-and-research]] system.
-Unlike Korean [[comparison-natural-farming-vs-permaculture]]'s [[jadam-wetting-agent-jwa]], forming foam readily, whereas
-herbal solutions brewed in vinegar or wood vinegar do not mix as well.
-
-Fermented extracts from vinegar or alcohol can work but add complexity
-and cost. A "fresh juice" method using blended raw herbs is explicitly
-discouraged as hard work, less effective, and prone to leaving sticky
-residue on fruit surfaces.
-
-## Herb Selection and Potency Scale
-
-JHS herbs are ranked by increasing pesticidal strength:
-
-### Basic Level: Jerusalem Artichoke
-
-Jerusalem artichoke (Helianthus tuberosus) is the foundational JHS
-herb. Despite being edible food for humans, it possesses significant
-pesticidal properties. The entire plant including branches, leaves, and
-roots is used. It is assumed that inulin, a substance good for diabetes
-found in the plant, somehow acts as a pesticide. Jerusalem artichoke is
-easily grown anywhere in the world, grows tall (eliminating the need for
-weeding), and can be cut in autumn, dried, and stored. It controls
-aphids, mites, and most moth species.
-
-### Medium Level: Gingko
-
-The gingko tree has what Cho calls "the perfect defense mechanism
-against [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]." Fresh leaves, fallen leaves, and fruits are
+its insect-controlling effect in the JADAM [[comparison-natural-farming-vs-permaculture]]'s [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]." Fresh leaves, fallen leaves, and fruits are
 all used for JHS production.
 
 ### Strong Level: Korean Pasque Flower Root (KPFR)
@@ -70,11 +43,8 @@ Mix 3 to 20 liters of JHS with water to make 500 liters (132 gal) of
 finished spray solution. The concentration is adjusted based on pest
 severity. For fog machines, use 10 L of JHS per 17 L of water.
 
-JHS also functions as an excellent [[jadam-liquid-fertilizer-nutritional-perspective]], providing nutrients
-unimaginable with chemical pesticides. [[jadam-herb-solution-jhs]]
-- [[jadam-jhs-nutritional-analysis]]
+JHS also functions as an excellent [[jadam-herb-solution-jhs]]
 - [[jadam-jms-jhs-pesticide]]
-- [[cho-fermented-plant-juice-preparation]]
 - [[fermented-plant-extract-fpe]]
 ## Practical Considerations
 
@@ -117,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fermented-plant-juice]]
 - [[digitalis-purpurea]]
-- [[jerusalem-artichoke]]
 - [[lycoris-radiata]]
 - [[helianthus-tuberosus]]

@@ -12,18 +12,13 @@ type: concept
 
 # Random Assembly Design Technique
 
-[[toby-hemenway]] describes a creative design tool called random
-assembly that helps gardeners break through creative blocks and
-discover unexpected but useful connections between design
-elements. This technique is used during the planning phase of
-the [[hemenway-garden-design-process-observation-and-visioning]], after observations have been made and visions
+[[hemenway-garden-design-process-observation-and-visioning]], after observations have been made and visions
 articulated, but before the final layout is determined.
 
 ## The Problem It Solves
 
 Garden designers often get stuck in conventional thinking
-patterns. We place the greenhouse here, the [[mushroom-cultivator-compost-pile-management]] there,
-the [[comparison-berry-growing-vs-fruit-tree-pruning]] over there, without considering the hundreds of
+patterns. We place the greenhouse here, the [[comparison-berry-growing-vs-fruit-tree-pruning]] over there, without considering the hundreds of
 possible relationships between elements. Random assembly forces
 the designer to think in terms of connections rather than
 isolated placements, often yielding surprising and innovative
@@ -34,8 +29,7 @@ design solutions.
 The technique consists of three steps:
 
 **Step 1: List the design elements.** Write down every major
-element that will be in the design: [[comparison-central-leader-vs-open-center-fruit-tree-training]], greenhouse,
-hedgerow, pond, trellis, [[query-how-to-build-a-compost-pile-that-works]], chicken coop, herb
+element that will be in the design: [[query-how-to-build-a-compost-pile-that-works]], chicken coop, herb
 garden, etc. Continue until all major elements are listed.
 
 **Step 2: Create connecting word lists.** Make a list of
@@ -75,12 +69,7 @@ that conventional thinking would never reach.
 Random assembly works because it suspends judgment and forces
 the brain to process unusual combinations. Most garden designs
 are constrained by habit: we put the compost pile in the back
-corner, the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] in full sun, the herbs near the
-kitchen door. These conventions exist for good reasons, but
-they also prevent us from seeing unconventional solutions that
-might be equally or more effective.
-
-The technique also embodies the [[permaculture-principle-apply-self-regulation]] of
+corner, the [[permaculture-principle-apply-self-regulation]] of
 integrating rather than segregating. When we think about
 elements in isolation, we place them in separate locations. But
 when we think about how elements relate to each other, we begin
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[permaculture]]
 - [[hemenway-apple-tree-guild-design]]
 - [[hemenway-greywater-design-philosophy]]

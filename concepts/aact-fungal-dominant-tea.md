@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Fungal dominant compost tea is an actively [[actively-aerated-compost-tea]] tea (AACT) formulation that promotes high fungal biomass. It is essential for perennial plant systems, [[aact-disease-suppression-mechanisms-ingham]] against mildew and other fungal pathogens, and building soil structure in mature ecosystems.
+Fungal dominant compost tea is an actively [[aact-disease-suppression-mechanisms-ingham]] against mildew and other fungal pathogens, and building soil structure in mature ecosystems.
 
 ## When to Use Fungal Tea
 
@@ -21,53 +21,14 @@ Fungal dominant tea is appropriate when:
 - Managing fungal diseases such as mildew, botrytis, and fusarium
 - Growing perennial plants, trees, shrubs, and vines (which prefer fungal soils)
 - Building soil structure in perennial systems (fungal hyphae bind soil aggregates)
-- Transitioning from [[ingham-bacterial-to-fungal-succession-soil-food-web]] soil dominance for succession
-- Decomposing thatch in turf systems
-- Inoculating with [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] partners
+- Transitioning from [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] partners
 - Managing root-feeding pests (certain fungi are predators of root-feeding nematodes)
 
 ## Core Recipe
 
 The fungal dominant AACT recipe differs from bacterial tea primarily in food selection:
 
-Compost base: Use compost known to contain high fungal biomass. [[ingham-thermal-compost-versus-worm-compost]] with woody materials and worm compost that includes woody debris are good sources. The compost must contain adequate fungi to extract -- test with SFI if possible. Use approximately 1 pound of compost per 5 gallons of water.
-
-Foods for fungi:
-- Humic acid: 1-4 tablespoons per 5 gallons (the primary fungal food)
-- Fish hydrolysate: 1-2 ounces per 5 gallons (provides amino acids; must be hydrolysate, not fish emulsion, to avoid anaerobic conditions)
-- Kelp meal or liquid kelp: 1 tablespoon per 5 gallons (provides micronutrients)
-- Fish oil: small amounts (optional, provides additional fungal nutrition)
-- Citric acid: small amounts per manufacturer recommendation
-
-Minimize or eliminate molasses when brewing for fungal dominance, as molasses selectively feeds bacteria and can cause bacterial overgrowth that competes with fungi.
-
-## Fungal Food Options
-
-Ingham describes several fungal food sources:
-- Humic acids: extracted from leonardite or similar materials
-- Fish hydrolysate: cold-processed fish that retains oils and proteins
-- Kelp: provides minerals and growth stimulants
-- Nuts, seed meals, and legume meals: protein-rich materials that feed fungi
-- Oatmeal or oat bran: fungal food for pre-activation of compost
-
-## Pre-activation
-
-To boost fungal biomass before brewing, Ingham recommends pre-activating the compost:
-
-1. Two to three days before brewing, mix compost with a fungal food (such as oatmeal or oat bran)
-2. Keep the pre-activation mix moist but aerobic
-3. The fungi will grow through the food material, increasing total fungal biomass
-4. Use this pre-activated compost in the tea brew
-
-This step is particularly important when the starting compost has low fungal biomass.
-
-## Brewing Process
-
-1. Start with chlorine-free water
-2. Add pre-activated compost (or regular compost) to the brewer basket
-3. Add fungal foods to the water
-4. Brew for 24-48 hours (fungal tea may benefit from longer brewing than bacterial tea)
-5. Maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 ppm throughout
+Compost base: Use compost known to contain high fungal biomass. [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 ppm throughout
 6. The tea should smell earthy, like forest floor -- never sour or putrid
 7. Apply immediately
 
@@ -96,36 +57,93 @@ Aact Fungal Dominant Tea has significant applications in sustainable agriculture
 The development and understanding of aact fungal dominant tea has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[ingham-aact-vineyard-fungal-dominant-mildew-elimination]]
 - [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
-- [[aact-soil-succession-bacterial-fungal-plant-community-shifts-ingham]]
 - [[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose]]
-- [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]]
+- [[fungal-hyphae]]
+- [[trichoderma]]
+- [[mycorrhiza]]
 
-## Key Considerations
+## Overview
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Aact Fungal Dominant Tea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aact fungal dominant tea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aact extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aact Fungal Dominant Tea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aact fungal dominant tea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aact fungal dominant tea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Aact Fungal Dominant Tea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of aact fungal dominant tea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[fungal-hyphae]]
-- [[dom]]
-- [[trichoderma]]
-- [[building-soil]]
-- [[mycorrhiza]]
+
+- [[aact-brewer-machine-design-testing-standards-ingham]]
+- [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
+- [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]
+- [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
+- [[actively-aerated-compost-tea-aact-brewing]]

@@ -18,12 +18,7 @@ type: concept
 
 ## A Taxonomic Dispute That Rumbled for Decades
 
-The scientific investigation of [[guzman-magic-mushrooms-african-species]] was marked not only by
-groundbreaking discoveries but also by fierce personal rivalries. One of
-the most notable was the dispute between Rolf Singer's team and the
-combined forces of [[shroom-cultural-history-western-discovery-valentina-wasson]] over the naming and classification of [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
-species. This seemingly dry taxonomic quarrel had lasting consequences
-for the nomenclature of [[cattle-dispersal-psychoactive-fungi-australia]].
+The scientific investigation of [[shroom-cultural-history-western-discovery-valentina-wasson]] over the naming and classification of [[cattle-dispersal-psychoactive-fungi-australia]].
 
 ## The Key Players and Their Motivations
 

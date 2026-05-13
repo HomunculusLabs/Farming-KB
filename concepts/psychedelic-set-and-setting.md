@@ -10,80 +10,105 @@ sources:
 
 # Psychedelic Set and Setting
 
-The concept of "set and setting"--the recognition that the psychological and physical context of psychedelic use is at least as important as the pharmacological properties of the substance itself--is one of the foundational insights of [[mckenna-suppression-psychedelic-research-lsd-therapy]]. Powell's The [[psilocybin]] Solution emphasizes this principle throughout, drawing on the [[leary-harvard-psilocybin-project]] Project's research and the broader psychedelic literature.
-
-## Definition
-
-- **Set**: The subject's mental state, expectations, personality, mood, preparation, and intention prior to the [[leary-psychedelic-experience-bardo-mapping]]
+The concept of "set and setting"--the recognition that the psychological and physical context of psychedelic use is at least as important as the pharmacological properties of the substance itself--is one of the foundational insights of [[psilocybin]] Solution emphasizes this principle throughout, drawing on the [[leary-psychedelic-experience-bardo-mapping]]
 - **Setting**: The physical, social, and cultural environment in which the experience takes place
 
-The term was coined by [[ralph-metzner]] in the context of their Harvard research, though the principle had been implicitly recognized by indigenous shamanic traditions for millennia.
-
-## The Harvard Demonstration
-
-Powell documents the critical importance of set and setting through the Harvard Psilocybin Project's systematic study of 175 subjects:
-
-"This important notion of set and setting--the subject's mental and physical environment prior to taking the psilocybin--can never be stressed enough as they are crucial factors determining the subsequent psychedelic experience. Leary and his co-workers had already established these facts amongst themselves prior to their official experimentation and they were at pains to point out how set and setting played a key role in whether the psilocybin experience proved well or ill."
-
-"It is almost certain that had someone without Leary's temperament and intimate knowledge of psilocybin organised the experiments instead, then more negative experiences would have been reported."
-
-The results under favorable conditions were overwhelmingly positive: "most of the subjects reported a pleasant or ecstatic experience, that the psilocybin experience had changed their lives for the better. No psychological casualties were reported even though more moderate doses had been used than in previous experimentation."
-
-## Favorable vs. Unfavorable Conditions
-
-Under favorable conditions (relaxed environment, supportive guides, positive expectations, adequate preparation):
-- Pleasant or ecstatic experiences predominate
-- Life-enhancing insights are common
-- No psychological casualties reported in the Harvard study
-- No evidence of psychological or physical addiction
-- No hangovers
-- No enduring psychotic or neurotic symptoms in six-month follow-up
-
-Under unfavorable conditions (anxiety-producing setting, lack of guidance, forced administration, clinical environment):
-- The same substance can produce terror, panic, and lasting psychological distress
-- The content of the experience reflects the anxieties and fears of the subject
-- "Bad trips" are almost invariably associated with poor set and/or setting
-
-## The Archaic vs. Modern Paradigm
-
-Powell contrasts the indigenous approach to set and setting with modern recreational use:
-
-**Indigenous/Shamanic model**:
-- Ritual, isolation, and sensory deprivation are the techniques used by the Archaic shaman
-- Careful preparation including dietary restrictions, fasting, and purification
-- Specific ceremonial contexts with music, chanting, and traditional symbolism
-- Guidance by an experienced practitioner (curandero/a, shaman)
-- Therapeutic or divinatory intention
-
-**Modern recreational model**:
-- "An environment dense with social signals, noise, and visual distraction--a nightclub, for example--is typical of the culturally validated context for use of recreational drugs"
-- Little or no preparation
-- Hedonistic intention
-- No guidance structure
-- The experience is "trivialized" by the context
-
-McKenna, as quoted by Powell, notes that "private drug taking is viewed as dubious; solitary drug use is viewed as positively morbid; and, indeed, all introspection is seen this way" in [[mckenna-dominator-culture-and-suppression-of-ecstasy]].
+The term was coined by [[mckenna-dominator-culture-and-suppression-of-ecstasy]].
 
 ## Therapeutic Implications
 
-The set and setting principle has direct implications for [[metzner-psycholytic-psychedelic-therapy-models]]:
-
-1. **Therapeutic alliance**: The relationship between guide/therapist and subject is paramount
-2. **Preparation**: Extensive preparation sessions help establish positive expectations and address fears
-3. **Environment**: Comfortable, aesthetically pleasing, quiet spaces with access to nature
-4. **Music**: Carefully selected music can powerfully shape the experiential trajectory
-5. **Integration**: Post-session integration is critical for translating peak experiences into lasting change
-
-## The Context Determines the Content
-
-A fundamental insight: the pharmacological profile of psilocybin defines only some of the parameters of the experience. The context (setting) is "at least as important." The same molecule can produce a mystical union with the divine (in a chapel on Good Friday) or a terrifying [[psilocybin-ego-dissolution-mechanisms]] (in a sterile clinical setting without preparation). The drug opens the door, but set and setting determine what is found on the other side.
+The set and setting principle has direct implications for [[psilocybin-ego-dissolution-mechanisms]] (in a sterile clinical setting without preparation). The drug opens the door, but set and setting determine what is found on the other side.
 
 ## See Also
 
-- [[psychedelic-therapeutic-frameworks]]
 - [[philosophical-implications-of-psychedelics]]
 ## Merged: Boundary Dissolution in Psychedelic Experience
 
 # Boundary Dissolution in Psychedelic Experience
 
 Boundary dissolution is a central concept in McKenna's Food of the Gods, describing the psychological and social effects of psychedelic compounds that dissolve the boundaries between self and other, individual and group, human and nature, and conscious and unconscious. McKenna argues that this boundary-dissolving capacity is the fundamental reason why psychedelic plants have been both venerated and suppressed throughout human history.
+
+## Overview
+
+Psychedelic Set And Setting represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic set and setting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Set And Setting finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic set and setting. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic set and setting and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Set And Setting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic set and setting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ethnobotany-of-psychedelic-fungi]]
+- [[mckenna-psychedelic-terror-and-existential-authenticity]]
+- [[metzner-psychedelic-psychotherapy-clinical-history]]
+- [[psychedelic-mushroom-taxonomy]]
+- [[psychedelic-prohibition-and-the-war-on-consciousness]]

@@ -19,8 +19,7 @@ sources:
 ## Overview
 
 Thelypteris noveboracensis, commonly known as the New York fern, is a
-deciduous perennial fern native to [[polypore-fungi-eastern-north-america]]. It is one of the
-most recognizable woodland ferns in the northeastern [[dmt-containing-plants-united-states-halpern]] due to its
+deciduous perennial fern native to [[dmt-containing-plants-united-states-halpern]] due to its
 distinctive tapering fronds that are noticeably shorter at the base.
 
 The species epithet "noveboracensis" means "of New York," reflecting the
@@ -29,8 +28,7 @@ describes the frond shape: "New York fern tapers at both ends," contrasting
 with the evenly sized pinnae of many co-occurring ferns.
 
 New York fern often forms extensive colonies through its creeping rhizome,
-creating dense [[fukuoka-citrus-orchard-ground-cover-cultivation]] in moist woodlands. This colonial habit makes it
-an effective species [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] and naturalistic landscaping.
+creating dense [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] and naturalistic landscaping.
 
 The species is considered an indicator of rich, moist forest habitats and is
 frequently used in ecological assessments to evaluate [[fungal-ecology-forest-floor]] conditions.

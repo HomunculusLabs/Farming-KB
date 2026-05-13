@@ -23,27 +23,6 @@ for their setup, climate, and market.
 
 ## Nameko Cultivation
 
-[[nameko-cultivation]]
-
-Nameko produces small amber-to-orange caps (2-5 cm) with a characteristic
-gelatinous, slippery surface. It is the third most cultivated mushroom in
-Japan, deeply embedded in traditional cuisine as a key ingredient in miso
-soup and nabemono hot pot dishes. The species fruits in cool conditions
-(50-65°F / 10-18°C) and requires high humidity (85-95% RH) to develop its
-signature gel coating. Without adequate moisture, the gelatinous layer thins
-or disappears, reducing both visual appeal and culinary quality.
-
-Nameko can be cultivated on supplemented hardwood sawdust blocks or on natural
-hardwood logs using methods similar to shiitake. Sawdust blocks use a formula
-of roughly 3-4 parts hardwood sawdust to 1 part wheat bran, sterilized at
-15 psi for 60-90 minutes. Colonization takes 20-30 days at 70-75°F
-(21-24°C). Cold shock at 50-54°F (10-12°C) for 24-48 hours triggers
-primordia. Biological efficiency ranges from 60-100% on blocks, with 2-3
-flushes. The log method produces lower yields but requires minimal equipment,
-making it well-suited for home cultivators.
-
-## Enoki Cultivation
-
 [[enoki-cultivation]]
 
 Enoki is one of the most commercially significant mushrooms globally. Its
@@ -116,8 +95,6 @@ for distribution over longer distances than the highly perishable Nameko.
 
 ## See Also
 
-- [[nameko-mushroom-cultivation]]
 - [[enoki-mushroom-cultivation]]
-- [[growing-gourmet-nameko-pholiota-cultivation]]
 - [[mushroom-cultivation-basics]]
 - [[comparison-enoki-vs-shiitake-cultivation]]

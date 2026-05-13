@@ -36,14 +36,7 @@ to the other two multicellular kingdoms most people know:
   photosynthesis, converting sunlight, water, and carbon dioxide into sugars.
 
 - **Waste production**: Both animals and fungi produce metabolic waste as a byproduct
-  of breaking down [[chamovitz-plant-scent-communication-volatile-organic-compounds]]. Plants generally do not produce metabolic waste in
-  the same sense — they synthesize what they need and store or recycle the rest.
-
-- **Mobility and foraging**: Plants are sessile — they do not move. They draw water and
-  minerals from the soil through roots and energy from the sun through leaves. Animals
-  and fungi, however, must actively **spread toward and locate** their food sources.
-  Animals do this through locomotion; fungi achieve it through the directed growth of
-  their [[fungal-mycelial-networks-nutrient-translocation]], extending outward into nutrient-rich zones.
+  of breaking down [[fungal-mycelial-networks-nutrient-translocation]], extending outward into nutrient-rich zones.
 
 - **Cell biology**: Fungal cells store energy as **glycogen** (like animals), not starch
   (like plants). Fungal cell walls are made of **chitin** — the same structural polymer
@@ -61,51 +54,7 @@ to be seen with the naked eye, but collectively they form a dense, web-like mat 
 spread through soil, decaying wood, and root zones over enormous areas.
 
 Mycelium can live for **decades, even centuries**, making it effectively perennial. This
-is the "immortal" aspect referenced in [[sacred-meal-ancient-traditions]]. While the mushroom fruit
-appears briefly and then dissolves back into the earth, the mycelial body persists
-underground year after year, season after season, silently expanding its reach.
-
-The mushroom is merely the **reproductive fruit** of this hidden organism — analogous to
-an apple on a tree. It emerges above ground under specific environmental conditions
-(usually cool, damp weather in autumn), disperses its spores, and then rots away. The
-fungus itself never leaves the ground; only its fruit does.
-
-This biology gives rise to the description "Fruit of the Trees of Life." The mycelium
-of *Amanita muscaria* does not live in isolation — it lives in intimate, mutually
-beneficial partnership with the roots of living trees. The mushroom is literally the
-fruit of a fungus whose body is entwined with the roots of the forest.
-
-## Ectomycorrhizal Symbiosis
-
-*Amanita muscaria* is an **ectomycorrhizal** fungus — one of the most important and
-widespread types of mutualistic relationships in forest ecosystems. The term
-"ectomycorrhizal" (from Greek *ektos*, "outside," *mykes*, "fungus," and *rhiza*,
-"root") describes the way the fungal hyphae interact with tree roots: rather than
-penetrating individual root cells (as endomycorrhizal fungi do), the fungus forms a
-dense sheath, or **mantle**, around the outside of fine tree root tips.
-
-### How the Partnership Works
-
-The relationship is a true mutualism — both partners benefit, and neither can thrive as
-well alone:
-
-1. **Tree provides carbohydrates**: Through photosynthesis, trees convert sunlight into
-   glucose and other sugars. A significant portion of these carbohydrates — estimates
-   range from 10% to 30% of the tree's total photosynthetic output — is transported
-   down to the roots and transferred to the fungal partner. For the fungus, which
-   cannot photosynthesize, these sugars are the primary energy source.
-
-2. **Fungus provides minerals, water, and nutrients**: The mycelial network extends far
-   beyond the reach of the tree's own root system, exploring soil volumes the roots
-   alone could never access. Fungal hyphae can absorb phosphorus, nitrogen, potassium,
-   calcium, and trace minerals from the soil — often in forms that roots cannot directly
-   take up — and transport them back to the tree. The fungal mantle also greatly
-   increases the root's effective surface area for water absorption, improving drought
-   resilience.
-
-### Tree Partners
-
-*Amanita muscaria* typically forms [[ectomycorrhizal-associations]] with **birch** (*Betula*
+is the "immortal" aspect referenced in [[ectomycorrhizal-associations]] with **birch** (*Betula*
 spp.), **pine** (*Pinus* spp.), **spruce** (*Picea* spp.), **fir** (*Abies* spp.), and
 a variety of other coniferous and deciduous trees. The fly agaric is especially common
 in birch and pine forests across the Northern Hemisphere — its global distribution
@@ -117,7 +66,7 @@ without its arboreal partner.
 The mycelial network of a single *Amanita muscaria* individual can be remarkably vast.
 A single fungal genet (genetically identical individual) may spread across hundreds of
 square meters of forest floor, connecting to the root systems of many different trees.
-In this way, ectomycorrhizal fungi create a hidden **"wood wide web"** — an underground
+In this way, ectomycorrhizal fungi create a hidden **"[[wood-wide-web]]"** — an underground
 network through which nutrients, chemical signals, and possibly even resources can be
 transferred between trees. This network is essential to overall forest health, stability,
 and resilience.

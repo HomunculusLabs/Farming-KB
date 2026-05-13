@@ -11,9 +11,7 @@ tags: [spore-syringe, sterile-technique, inoculation, mushroom-cultivation, spor
 ## Overview
 
 Spore syringe preparation is the critical bridge between harvesting spore
-prints and inoculating sterile substrate [[contamination-prevention-in-mushroom-cultivation]]. The process
-requires careful sterile technique to prevent contamination, as the spore
-suspension is highly vulnerable to [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] competitors. The
+prints and inoculating sterile substrate [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] competitors. The
 Jarrold method provides a detailed, low-cost approach using household and
 readily available materials, emphasizing flame sterilization and respiratory
 protection to maintain spore solution purity.
@@ -22,12 +20,7 @@ protection to maintain spore solution purity.
 
 The following equipment is required for spore syringe preparation:
 
-- **[[sterile-spore-print-collection-glass-jar-technique]]** in a clean glass jar with metal screw lid
-- **Syringe** (typically 10-20 mL capacity) with removable needle
-- **Long syringe needle** (custom-made from thin stainless steel tubing)
-- **Flat-ended metal scraper** for loosening spores from the jar bottom
-- **Spirit burner** (meths burner) or alcohol lamp for flame sterilization
-- **Isopropyl (propyl) alcohol** for [[challenge-microorganisms-microwave-surface-sterilization]]
+- **[[challenge-microorganisms-microwave-surface-sterilization]]
 - **Pyrex or heat-safe glass container** for sterilizing water
 - **Aluminum foil** for wrapping equipment
 - **Protective breathing mask or clean handkerchief** to prevent
@@ -88,3 +81,11 @@ water. The scraper is used to free them:
 ## Critical Contamination Prevention Points
 
 ### Respiratory Protection
+
+## See Also
+
+- [[comparison-spore-print-vs-agar-culture]]
+- [[mushroom-spore-printing-and-storage]]
+- [[spore-syringe-preparation]]
+- [[fungal-spore-discharge-mechanism]]
+- [[spore-print]]

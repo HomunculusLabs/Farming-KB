@@ -22,45 +22,7 @@ sources:
 
 ## Overview
 
-Osmorhiza claytonii, commonly known as sweet cicely, Clayton's sweetroot, or mountain sweet cicely, is a perennial herbaceous plant in the family Apiaceae native to deciduous forests of [[polypore-fungi-eastern-north-america]] America. It is closely related to the European sweet cicely ([[myrrhis-odorata]]) but is a distinct species native to the [[growing-gourmet-north-american-reishi-species]] continent.
-
-The plant is valued for its anise-scented roots, which have been used traditionally as both food and medicine by Indigenous peoples and early European settlers.
-
-Its name derives from the Greek "osme" (odor) and "rhiza" (root), referring to the pleasantly fragrant rootstock.
-
-## Taxonomy and Morphology
-
-### Taxonomy
-
-- **Kingdom:** Plantae
-- **Division:** Tracheophyta
-- **Class:** Magnoliopsida
-- **Order:** Apiales
-- **Family:** Apiaceae
-- **Genus:** Osmorhiza
-- **Species:** O. claytonii
-- **Authority:** (Michx.) C.B. Clarke
-- **Synonyms:** Osmorhiza longistylis var. claytonii (Michx.) Fernald
-
-### Morphology
-
-Osmorhiza claytonii is a perennial herb growing 30–80 cm tall from a thick, fibrous rootstock. The rootstock produces a distinctive sweet anise or licorice fragrance when broken, which is the most reliable identifying feature of the genus.
-
-The basal leaves are compound, ternately divided 2–3 times into ovate to broadly lanceolate leaflets 3–8 cm long. The leaflets are irregularly toothed and often somewhat asymmetric at the base. The petioles are long and sheathing at the base.
-
-The stem leaves are alternate, reduced in size, and less divided than the basal leaves. The stems are typically erect, slightly angled, and sparsely hairy to glabrous.
-
-Flowers are arranged in compound umbels 2–5 cm across, with 3–6 primary rays. Individual flowers are small, white to cream, with petals about 1–2 mm long. The involucel bractlets are present but small and inconspicuous.
-
-The fruit is a schizocarp (splitting fruit) 12–25 mm long, linear and elongated with hooked or bristly prickles on the ribs. This distinguishes it from the related O. longistylis, which has shorter, less bristly fruits.
-
-## Distribution and Habitat
-
-Osmorhiza claytonii is native to eastern [[guzman-psilocybin-mushrooms-north-america]], ranging from Quebec and Ontario south to Georgia and Alabama, and west to Minnesota and Iowa. It is most abundant in the [[bolete-fungi-appalachian-region]] and the mixed hardwood forests of the Great Lakes states.
-
-The species is an understory plant of rich, moist deciduous forests.
-
-It is most commonly found in mature woodlands with deep, well-drained loamy soils high in [[hamilton-composting-and-organic-matter-management]]. Typical canopy associates include sugar maple (Acer saccharum), American beech ([[fagus-grandifolia]]), basswood ([[tilia-americana]]), and various oaks (Quercus spp.).
+Osmorhiza claytonii, commonly known as sweet cicely, Clayton's sweetroot, or mountain sweet cicely, is a perennial herbaceous plant in the family Apiaceae native to deciduous forests of [[myrrhis-odorata]]) but is a distinct species native to the [[guzman-psilocybin-mushrooms-north-america]], ranging from Quebec and Ontario south to Georgia and Alabama, and west to Minnesota and Iowa. It is most abundant in the [[hamilton-composting-and-organic-matter-management]]. Typical canopy associates include sugar maple (Acer saccharum), American beech ([[tilia-americana]]), and various oaks (Quercus spp.).
 
 It tolerates moderate shade but can also persist in woodland edges and semi-open conditions.
 
@@ -79,11 +41,85 @@ The root of Osmorhiza claytonii is the primary part used for both food and medic
 
 ### Medicinal Uses
 
-Traditional medicinal applications documented among [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] Indigenous peoples include:
-
-- Treatment of digestive complaints including flatulence, colic, and indigestion.
-- Use as a carminative and stomachic, consistent with the anise-like [[permaculture-designers-manual-essential-oil-plants]] content.
+Traditional medicinal applications documented among [[permaculture-designers-manual-essential-oil-plants]] content.
 - Topical application of root preparations for snakebites and wounds.
 - Use as a general tonic and cold remedy among the Cherokee and Iroquois.
 
 The essential oil of Osmorhiza species contains anethole and related compounds, which likely account for the carminative properties. Modern pharmacological studies are limited.
+
+## Overview
+
+Osmorhiza Claytonii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish osmorhiza claytonii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving osmorhiza extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Osmorhiza Claytonii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for osmorhiza claytonii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+osmorhiza claytonii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Osmorhiza Claytonii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of osmorhiza claytonii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -10,20 +10,11 @@ sources:
 ---
 # One Straw Revolution Key Concepts
 
-"The One Straw Revolution" (1978) is Masanobu Fukuoka's seminal work on [[comparison-natural-farming-vs-permaculture]]. Written in a philosophical, almost spiritual tone, it presents farming as a path to understanding nature and humanity's place within it. The book distills decades of experimentation on Fukuoka's farm in Shikoku, Japan.
-
-## The Four Principles
-
-1. **No cultivation** — don't plow or till the soil
-2. **No chemical fertilizer** — no prepared compost either
-3. **No weeding** — let weeds grow, control with [[fukuoka-citrus-orchard-ground-cover-cultivation]]
+"The One Straw Revolution" (1978) is Masanobu Fukuoka's seminal work on [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 4. **No pesticides** — let nature find its own balance
 
-These are explored in detail in [[fukuoka-one-straw-revolution-philosophy]] for deeper exploration
-- [[fukuoka-natural-farming-four-principles]] — for the four principles
-- [[fukuoka-rice-and-barley-natural-farming]] — for the rice/barley system
-- [[natural-farming-seed-balls]] — for [[clay-pellet-seed-ball-method-for-desert-revegetation]] details
-- [[fukuoka-white-clover-ground-cover]]
+These are explored in detail in [[fukuoka-natural-farming-four-principles]] — for the four principles
+- [[natural-farming-seed-balls]] — for [[fukuoka-white-clover-ground-cover]]
 ## Practical Applications
 
 One Straw Revolution Key Concepts has a range of practical applications that make it relevant to

@@ -11,43 +11,9 @@ type: concept
 
 ## The Philosophy: Watering as the Most Important Decision
 
-Solomon emphasizes that how you choose to handle watering is the single most important decision the gardener will make. Before piped water was normal, over 90% of [[maintaining-organic-matter-in-vegetable-gardens]] were grown without running water, and many gardeners didn't consider the occasional dry spell to be a "drought."
+Solomon emphasizes that how you choose to handle watering is the single most important decision the gardener will make. Before piped water was normal, over 90% of [[solomon-wide-spacing-versus-intensive-gardening-debate]] can draw from an enormous soil volume
 
-## John Widstoe's Four Principles
-
-From Widstoe's 1911 "Dry Farming":
-1. The conservation of soil moisture
-2. The most efficient use of the moisture in the soil
-3. Growing plants that can produce food with a minimum of moisture
-4. Methods for keeping the moisture in the soil until needed
-
-## Root Systems and Soil Moisture Access
-
-Solomon provides detailed root system drawings showing how extensive the root systems of vegetables actually are when given room to grow:
-- A beet root system at 110 days extends over 4 feet across and 7 feet deep, making use of all moisture and nutrition from a large soil volume
-- Corn roots at 8 weeks old extend far beyond the above-ground plant
-- Tomato roots in [[solomon-wide-spacing-versus-intensive-gardening-debate]] can draw from an enormous soil volume
-
-The key insight: when plants are widely spaced, their root systems can access soil moisture that would be unavailable to a crowded plant. This is why Solomon's [[solomon-intensive-vs-extensive-spacing]] system can grow vegetables through rainless periods that would kill an intensively planted garden.
-
-## How Much to Water
-
-When watering is needed:
-- Apply water deeply and infrequently rather than shallowly and frequently
-- Deep watering encourages roots to grow down into the soil where moisture is more stable
-- Shallow, frequent watering keeps roots near the surface where they are vulnerable to drying out
-- The goal is to wet the soil to the full depth of the root zone
-
-## Intensive vs Extensive Water Requirements
-
-### Intensive Gardens (raised beds, close spacing)
-- May need half an inch (1.25 cm) of water every few days
-- Sandy soils may need irrigation every single day in hot weather
-- The cost of this water will increase with inevitable price increases
-- The gardener is essentially shackled to the garden during summer
-
-### Extensive Gardens (Solomon's wide spacing)
-- With wide spacing, the soil holds enough moisture for the entire [[savory-growing-season-and-non-growing-season-management]] in areas with reasonable rainfall
+The key insight: when plants are widely spaced, their root systems can access soil moisture that would be unavailable to a crowded plant. This is why Solomon's [[savory-growing-season-and-non-growing-season-management]] in areas with reasonable rainfall
 - Plants survive short dry spells without any irrigation
 - When irrigation is needed, much less water is required per plant
 - The gardener can take a holiday during summer without the garden dying
@@ -64,7 +30,7 @@ NOTE: Lack of nutrients can sometimes be mistaken for drought stress. Before inc
 
 ## Fertigation
 
-Fertigation means applying [[jadam-liquid-fertilizer-nutritional-perspective]] through irrigation water. Solomon provides a specific organic fertigation formula for use with [[cervantes-drip-irrigation-systems]] or watering cans. This is particularly useful for:
+Fertigation means applying [[cervantes-drip-irrigation-systems]] or watering cans. This is particularly useful for:
 - Large plants with extensive root systems
 - Situations where rapid growth is needed
 - Supplementing soil that may be deficient in certain nutrients
@@ -77,14 +43,90 @@ For gardeners without irrigation or who want to minimize water use:
 2. **Soil preparation:** Deep loosening allows roots to penetrate to moisture reserves
 3. **Surface mulching:** Dead mulch (straw, leaves) reduces evaporation from the soil surface
 4. **Timing:** Plant so the crop's peak water demand coincides with your rainiest season
-5. **[[coleman-winter-greens-variety-selection]]:** Choose drought-tolerant varieties
-6. **Weed control:** Weeds compete for the same soil moisture -- keep them down
-7. **Minimum tillage:** Avoid unnecessary tillage that exposes moist soil to the air
-
-## Mulch for Moisture Conservation
-
-Solomon discusses the importance of mulch for reducing evaporation:
-- A thick layer of organic mulch can reduce evaporation by 50-75%
-- Mulch also moderates soil temperature, reducing moisture loss from heat
-- As mulch decomposes, it adds [[hamilton-composting-and-organic-matter-management]] to the soil surface
+5. **[[hamilton-composting-and-organic-matter-management]] to the soil surface
 - In areas with summer rain, mulch helps soil absorb rain slowly rather than running off
+
+## Overview
+
+Solomon Watering And Dry Farming represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon watering and dry farming
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Watering And Dry Farming finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon watering and dry farming. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon watering and dry farming and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Watering And Dry Farming has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon watering and dry farming into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

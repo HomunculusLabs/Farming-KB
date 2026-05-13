@@ -34,17 +34,7 @@ The book provides a detailed recipe for making cannabis vegetable oil, which ser
 
 ### Cannabis Butter Base
 
-[[cervantes-cannabis-tinctures]], made by dissolving resin glands in alcohol, can be incorporated into topical formulations. The alcohol-based extraction retains 60 percent or more of the THC from raw material. Tinctures can be added to oil-based topicals for additional cannabinoid content.
-
-## Types of Topical Preparations
-
-### Salves and Balms
-
-Salves combine cannabis-infused oil with beeswax to create a semi-solid preparation that stays on the skin:
-
-- Cannabis-infused oil provides the active cannabinoids
-- Beeswax adds structure and helps the preparation adhere to skin
-- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] can be added for additional therapeutic benefits
+[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] can be added for additional therapeutic benefits
 - Coconut oil is a popular carrier due to its skin-friendly properties
 - The ratio of wax to oil determines the firmness of the final product
 
@@ -68,13 +58,8 @@ For topicals, cannabis material should be carefully prepared:
 - Clean stems and large debris from leaf material
 - Ensure foliage is free of pesticide residues (use only water-based products before harvest)
 - Flush with water for 7-10 days before harvest to remove fertilizers
-- Dry foliage thoroughly before use to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] in the final product
-- Remove brown, crisp, and dead foliage before processing
-
-Trim leaves from [[cannabis-cannabutter-preparation]]
-- [[cannabis-tincture-preparation]]
+- Dry foliage thoroughly before use to [[cannabis-cannabutter-preparation]]
 - [[cannabis-quality-testing]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-topical-applications]]
 ## Practical Considerations
 
@@ -117,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[neem]]
-- [[blesching-cannabis-tinctures-infused-oils-topical-preparations]]
 - [[blesching-cannabis-herpes-topical-antiviral-nerve-pain]]
 - [[cannabis-topical-applications]]

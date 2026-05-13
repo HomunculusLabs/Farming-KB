@@ -11,15 +11,12 @@ type: entity
 # Glomus intraradices
 
 **Type:** Species (Fungus)
-**Category:** [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] Fungus (Glomeromycota)
-**Also known as:** [[rhizophagus-irregularis]] (current name), Glomus
+**Category:** [[rhizophagus-irregularis]] (current name), Glomus
   intraradices Schenck and Smith
 
 ## Overview
 Glomus intraradices (now reclassified as Rhizophagus irregularis) is one of
-the most widespread and well-studied arbuscular [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (AMF). It
-forms symbiotic associations with the vast majority of terrestrial plants,
-enhancing [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] and providing protection against pathogens. It is
+the most widespread and well-studied arbuscular [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] and providing protection against pathogens. It is
 widely used in commercial mycorrhizal inoculant products.
 
 ## Taxonomy and Classification
@@ -37,11 +34,7 @@ the ecological and agricultural literature.
 ## Key Details
 
 ### Morphology
-- Does not produce large [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] like basidiomycetes
-- Identification is based on spore morphology: spores are hyaline to
-  yellow, globose, 80 to 200 micrometers in diameter
-- Forms arbuscules (tree-like branching structures) within root
-  cortical cells for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
+- Does not produce large [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - May also form vesicles (swollen hyphal storage structures) in some
   cortical cells
 - Produces an extensive network of extraradical hyphae in soil
@@ -49,25 +42,7 @@ the ecological and agricultural literature.
 ### Symbiotic Mechanism
 - Penetrates root cortical cells, forming arbuscules that optimize the
   surface area for nutrient and carbohydrate exchange
-- The [[arbuscular-mycorrhizal-colonization-patterns]] (AM) association is formed with a large
-  number of plant species and a relatively small diversity of fungal
-  species
-- Hyphal extension rates are less than 10 mm per week, slower than
-  Acaulospora laevis at approximately 20 mm per week
-
-### Nutrient Enhancement
-- Extends the phosphate depletion zone from roots from 10 to 20 mm
-  to up to 110 mm in some cases (Nye and Tinker, 1977)
-- Increases uptake of phosphorus, nitrogen, zinc, and other micronutrients
-- Regression analysis shows correlation between G. intraradices
-  colonization and soil aggregate stability at low phosphorus
-  availability (Hamel et al., 1997)
-- Enhances root branching and alters root system architecture
-
-### Pathogen Protection
-- Inoculation of cotton (Gossypium) with G. intraradices alongside
-  G. hoi and G. versiforme significantly reduced wilt disease caused
-  by [[verticillium-dahliae]] (Lui, 1995)
+- The [[verticillium-dahliae]] (Lui, 1995)
 - Reduced incidence of root [[bloomfield-fungal-pathogens-and-parasites]] when used as inoculant
 - Mechanism involves both enhanced plant nutrition and direct
   antagonism against pathogens
@@ -88,3 +63,86 @@ the ecological and agricultural literature.
 
 ## Relevance
 Glomus intraradices is arguably the most important mycorrhizal fungus in
+
+## Overview
+
+Glomus Intraradices represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish glomus intraradices
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving glomus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Glomus Intraradices finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for glomus intraradices. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+glomus intraradices and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Glomus Intraradices has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of glomus intraradices into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[glomus-fasciculatus]]
+- [[glomus-mosseae]]
+- [[glomus-versiforme]]

@@ -80,15 +80,13 @@ One of the 50 fundamental herbs; superior herb in the *Shennong Bencao Jing* (~2
 - **Lung tonic** — calms wheezing, stops chronic cough, retains fluids
 - **Calms the shen** — insomnia, irritability, dream-disturbed sleep
 - **Adaptogen** — qi tonic restoring depleted vitality
-- Indications: chronic cough, [[blesching-cannabis-cancer-night-sweats]], diarrhea, frequent urination, seminal emission, palpitations
-
-## Phytochemistry
-
-Over 40 bioactive lignans; the dibenzocyclooctadiene (DBCOD) skeleton is unique to Schisandraceae.
-
-| Compound | Abundance | Key Activity |
-|----------|-----------|-------------|
+- Indications: chronic cough, [[actinidia-chinensis]]
+- [[dianthus-chinensis]]
 
 ## See Also
-- [[actinidia-chinensis]]
+
+- [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
+- [[comparison-schisandra-vs-rhodiola]]
+- [[schisandra-sphenanthera]]
+- [[simmondsia-chinensis]]
 - [[dianthus-chinensis]]

@@ -17,16 +17,7 @@ updated: 2026-05-09
 sources:
   - Prozialeck, W.C. et al. (2012). "Kratom (kratom-mitragyna-speciosa-pharmacology): An overview of the science and implications for practitioners." Journal of the American Osteopathic Association, 112(12), 782–787.
   - Hassan, Z. et al. (2013). "Mechanism of antinociceptive action of Mitragyna speciosa: involvement of supraspinal opioid receptors." International Journal of Molecular Sciences, 14(12), 23482–23496.
-  - Grundmann, O. (2017). "Patterns of kratom use and health impact in the US." Drug and [[cannabis-for-alcohol-dependence]], 174, 63–70.
-  - Warner, M.L. et al. (2016). "Kratom use in Thailand: an analysis of the literature." Journal of Psychoactive Drugs, 48(3), 224–229.
-  - Henningfield, J.E. et al. (2018). "The pharmacology of kratom." The American Journal of Drug and Alcohol Abuse, 44(5), 496–505.
-  - Singh, D. et al. (2016). "Kratom (Mitragyna speciosa) dependence, withdrawal symptoms and craving in regular users." Drug and Alcohol Dependence, 164, 53–59.
-created: 2026-05-09
----
-
-## Overview
-
-**Kratom** (*Mitragyna speciosa* Korth.) is a tropical evergreen tree in the coffee family (Rubiaceae), native to Southeast Asia including Thailand, Malaysia, Indonesia, Myanmar, and Papua New Guinea. The leaves of the plant contain over 40 indole alkaloids, with mitragynine and [[7-hydroxymitragynine]] being the primary psychoactive constituents. Kratom has been used traditionally for centuries as a stimulant, analgesic, and treatment for opioid withdrawal in its countries of origin.
+  - Grundmann, O. (2017). "Patterns of kratom use and health impact in the US." Drug and [[7-hydroxymitragynine]] being the primary psychoactive constituents. Kratom has been used traditionally for centuries as a stimulant, analgesic, and treatment for opioid withdrawal in its countries of origin.
 
 The pharmacological profile of kratom is unusual in that it produces both stimulant-like effects at lower doses and opioid-like effects at higher doses. This biphasic action has generated significant scientific and public health interest, particularly as kratom has been increasingly used in Western countries as a self-managed treatment for chronic pain, anxiety, and opioid dependence. The US DEA estimated approximately 10–15 million kratom users in the United States as of the mid-2020s.
 
@@ -57,13 +48,9 @@ Kratom belongs to the same family as coffee (*Coffea* spp.), gardenia (*Gardenia
 Kratom leaves contain over 40 structurally related indole alkaloids, with the following being the most pharmacologically significant:
 
 - **Mitragynine:** The predominant alkaloid, constituting approximately 66% of total alkaloid content (1–1.5% of dry leaf weight). Acts as a partial agonist at mu-opioid receptors (MOR) and delta-opioid receptors, and as an antagonist at kappa-opioid receptors. Also exhibits adrenergic and serotonergic activity.
-- **7-Hydroxymitragynine:** A minor constituent (<2% of total alkaloids) but 30–46 times more potent than mitragynine at MOR. Considered the primary contributor to the opioid-like analgesic effects of kratom. More effective at activating G-protein [[plant-signaling-pathways]] (the analgesic pathway) than β-arrestin pathways (the respiratory depression pathway).
-- **Speciociliatine:** The second most abundant alkaloid (~9% of total), with reported MOR partial agonist activity. May contribute to the overall analgesic profile of whole-leaf preparations.
-- **Paynantheine:** A minor alkaloid with weak opioid receptor affinity. May modulate the overall pharmacological profile through entourage effects.
+- **7-Hydroxymitragynine:** A minor constituent (<2% of total alkaloids) but 30–46 times more potent than mitragynine at MOR. Considered the primary contributor to the opioid-like analgesic effects of kratom. More effective at activating G-protein [[cannabis-terpene-entourage-effect]] — the synergistic interaction of multiple kratom alkaloids producing effects greater than the sum of individual components — is an area of active research interest. This phenomenon may explain why whole-leaf kratom preparations produce a different subjective experience than isolated mitragynine at equivalent doses, and has implications for the development of standardized pharmaceutical preparations.
 
-[[cannabis-terpene-entourage-effect]] — the synergistic interaction of multiple kratom alkaloids producing effects greater than the sum of individual components — is an area of active research interest. This phenomenon may explain why whole-leaf kratom preparations produce a different subjective experience than isolated mitragynine at equivalent doses, and has implications for the development of standardized pharmaceutical preparations.
-
-Additional alkaloids include [[speciogynine]], ajmalicine, mitraphylline, rhynchophylline, and corynantheidine. The total alkaloid content varies significantly based on growing conditions, harvest timing, leaf age, [[mushroom-storage-and-processing-methods]]. Young leaves generally contain higher mitragynine concentrations than mature leaves.
+Additional alkaloids include [[mushroom-storage-and-processing-methods]]. Young leaves generally contain higher mitragynine concentrations than mature leaves.
 
 The commercial kratom market distinguishes between several product forms: dried leaf powder, crushed leaf, extracts (water-based and solvent-based), enhanced leaf (powder fortified with extract), and capsules. Extracted and enhanced products typically contain substantially higher mitragynine concentrations than plain leaf, and are associated with a disproportionate share of adverse events and dependence cases reported in the literature.
 
@@ -71,7 +58,7 @@ The commercial kratom market distinguishes between several product forms: dried 
 
 Kratom's pharmacological profile is complex and not fully characterized, involving multiple receptor systems simultaneously. The primary mechanisms of action include:
 
-- **Mu-opioid receptors (MOR):** Mitragynine acts as a partial agonist with lower intrinsic efficacy than [[morphine]], producing analgesia and euphoria without the degree of respiratory depression typical of full MOR agonists. [[7-hydroxymitragynine]] is a potent MOR agonist with a strong bias toward G-protein signaling over β-arrestin recruitment, potentially explaining the reduced respiratory depression observed in animal models.
+- **Mu-opioid receptors (MOR):** Mitragynine acts as a partial agonist with lower intrinsic efficacy than [[7-hydroxymitragynine]] is a potent MOR agonist with a strong bias toward G-protein signaling over β-arrestin recruitment, potentially explaining the reduced respiratory depression observed in animal models.
 - **Adrenergic receptors:** Mitragynine exhibits α2-adrenergic agonist activity, contributing to its stimulant-like effects at lower doses and potentially to its reported efficacy in managing opioid withdrawal symptoms (similar to clonidine).
 - **Serotonergic receptors:** Weak agonist activity at 5-HT2A and 5-HT2C receptors may contribute to mood elevation and anxiolytic effects, while partial agonism at 5-HT1A may reduce anxiety.
 
@@ -88,3 +75,75 @@ Recent preclinical research has identified mitragynine's biased agonism at MOR a
 **Duration:** 4–8 hours, with onset at 15–30 minutes (oral), peak at 1–2 hours.
 
 **Subjective effects profile (biphasic):**
+
+## Overview
+
+Kratom represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish kratom
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving kratom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Kratom finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for kratom. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+kratom and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Kratom has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of kratom into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

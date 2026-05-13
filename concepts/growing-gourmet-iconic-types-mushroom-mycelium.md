@@ -30,19 +30,7 @@ Linear mycelium is arranged as diverging, longitudinal strands. Typically, the m
 
 ## Rhizomorphic Mycelium
 
-Often called "ropey," rhizomorphic mycelium is composed of braided, twisted strands of varying diameters. This type of mycelium supports [[growing-gourmet-primordia-formation-pinning]] and is considered a sign of vigorous, fruiting-capable mycelium.
-
-**Key characteristics:**
-- Its presence is encouraged by selecting rhizomorphic zones for further transfer
-- The disappearance of rhizomorphs is an indication of loss of vigor and genetic decline
-- Some types take on a highly reflective, silk-like sheen
-
-**Species examples:**
-- **Lion's Mane** (Hericium erinaceus)
-- **King Stropharia** (Stropharia rugoso-annulata)
-- **Button Mushrooms** (Agaricus brunnescens, A. bitorquis)
-- **Psilocybe** species (P. cubensis, P. cyanescens)
-- **Clustered Woodlovers** ([[growing-gourmet-hypholoma-capnoides-cultivation]], H. sublateritium)
+Often called "ropey," rhizomorphic mycelium is composed of braided, twisted strands of varying diameters. This type of mycelium supports [[growing-gourmet-hypholoma-capnoides-cultivation]], H. sublateritium)
 
 Rhizomorphic mycelium often diverges from cottony mycelium soon after spore germination, as the dikaryotic mycelium establishes itself and begins organizing into fruiting-capable structures. The transition from cottony to rhizomorphic growth is a hallmark of dikaryotization — the point at which compatible monokaryons fuse and form the fertile, fruiting-capable mycelium.
 
@@ -52,8 +40,7 @@ Looking like tufts of cotton, cottony mycelium is nearly aerial in its growth. T
 
 **Species examples:**
 - **Oyster Mushrooms** (Pleurotus species)
-- **Shaggy Manes** ([[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]])
-- **Hen-of-the-Woods** ([[maitake-grifola-frondosa-comprehensive-profile]])
+- **Shaggy Manes** ([[maitake-grifola-frondosa-comprehensive-profile]])
 
 **Important relationship to strain health:** When a rhizomorphic mycelium degenerates with age, tomentose (cottony) formations typically take over. The transition from rhizomorphic to cottony growth is a warning sign of genetic decline and reduced fruiting potential. strain evaluation.
 
@@ -67,9 +54,7 @@ As mycelium ages, predictable color changes occur that serve as diagnostic indic
 - **Pleurotus djamor** (Pink Oyster) — white at first, developing strong pinkish tones as primordia form, especially at sites of primordia formation
 - **Morchella** species — initially gray, soon thickening to gray-brown with brown orangish to golden nodules (micro-sclerotia)
 
-These color changes are not random — they reflect [[arbuscule-isolation-metabolic-activity-assays]] within the mycelium, including the accumulation of pigments, the production of [[antifungal-secondary-metabolites-coprophilous-fungi]], and the formation of specialized structures like [[growing-gourmet-strain-senescence-degeneration|strain senescence]] or contamination. Cultivators should record growth rates at each 28 Features for Strain Evaluation
-- Dikaryotic Mycelium and Clamp Connections
-- [[growing-gourmet-stamets-p-value-strain-age-system|Stamets P-Value System]]
+These color changes are not random — they reflect [[antifungal-secondary-metabolites-coprophilous-fungi]], and the formation of specialized structures like [[growing-gourmet-stamets-p-value-strain-age-system|Stamets P-Value System]]
 - Nutrified Agar Media Formulas and Preparation
 ## Practical Considerations
 
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-life-cycle]]
 - [[oyster-mushroom]]
-- [[mycelium]]
 - [[pleurotus-ostreatus]]
 - [[dom]]

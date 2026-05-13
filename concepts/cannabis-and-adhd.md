@@ -12,44 +12,7 @@ sources:
 
 ## Overview
 
-Attention deficit hyperactivity disorder (ADHD) is defined by symptoms of inattention, poor concentration, distractibility, hyperactivity, and poor impulse control. The CDC estimates 1 in 10 children (ages 3-17) have been diagnosed with ADHD, with boys three times more likely to be diagnosed. Up to 5% of the US adult population has ADD. See also [[cannabis-and-ptsd]], and cannabinoid-receptors.
-
-## Clinical Evidence
-
-### CHI Score: 15 (Moderate Evidence)
-
-Six studies support cannabis for ADHD — notably the highest CHI value among psychiatric conditions reviewed.
-
-### Key Findings
-
-**ECS Modulation of Impulse and Novelty-Seeking (2009, Bordeaux, France)**
-- The endocannabinoid system (ECS) influences levels of impulse behavior and novelty seeking
-- Balance achieved via CB1 receptors using cortical glutamate (excitatory) for novelty-seeking and GABA (inhibitory) for controlling behavior
-- The dual capacity of the ECS to balance upper and downer effects simultaneously may present a new approach to treating ADHD
-- FAAH inhibitor URB597 (increases anandamide) and CB1 inverse agonist AM251 tested
-- CHI contribution: 2
-
-**CB1 Receptors as Molecular Players (2011, Rome, Italy)**
-- Abnormal dopamine transmission in the striatum (modulates the ECS) plays a pivotal role in ADHD
-- CB1 receptors identified as novel molecular players in ADHD
-- Therapeutic strategies aimed at engaging the ECS may prove effective
-- CHI contribution: 2
-
-**CBD Normalizes Hyperactivity (2012, Melbourne, Australia)**
-- Chemically induced ADHD-like symptoms in rats treated with CBD (3 mg/kg) and clozapine
-- CBD and clozapine normalized social investigative behavior and reduced hyperactivity
-- No effects on impairment to attention span
-- CHI contribution: 2
-
-**Human Case Study — Dronabinol (2008, Heidelberg, Germany)**
-- 28-year-old male with ADHD: initially pushy, demanding, lacking distance, drumming fingers, shifting position
-- After Dronabinol (THC): appeared "calm, but not sedated, organized and restrained"
-- Cannabis appeared to regulate activation to "optimum for performance"
-- CHI contribution: 3
-
-**National Survey Data (2014, Albany, New York)**
-- 2,811 cannabis users: daily users self-medicated for hyperactive-impulsive symptoms of ADHD
-- Findings indirectly support [[cannabis-cannabinoid-receptor-pharmacology]] involvement in regulatory control
+Attention deficit hyperactivity disorder (ADHD) is defined by symptoms of inattention, poor concentration, distractibility, hyperactivity, and poor impulse control. The CDC estimates 1 in 10 children (ages 3-17) have been diagnosed with ADHD, with boys three times more likely to be diagnosed. Up to 5% of the US adult population has ADD. See also [[cannabis-cannabinoid-receptor-pharmacology]] involvement in regulatory control
 - CHI contribution: 3
 
 **Gender Differences (2013, UC Irvine)**
@@ -72,55 +35,93 @@ Six studies support cannabis for ADHD — notably the highest CHI value among ps
 ## Conventional Treatment Concerns
 
 - Standard ADHD medications (Adderall, Desoxyn, Ritalin, Strattera) are essentially legal stimulants
-- [[blesching-cannabis-safety-adverse-effects-evidence]] include: lack of appetite, insomnia, tics, psychotic episodes, cardiovascular problems
-- High risk for abuse and addiction
-- Cannabis may offer a lower-risk alternative with fewer adverse effects
-
-## Limitations
-
-- No large-scale randomized controlled trials yet
-- Most evidence from animal studies and case reports
-- Optimal cannabinoid ratios not established
-- Long-term effects on developing brains not well characterized
-
-## Related Topics
-
 - [[cannabis-and-ptsd]]
-- [[cannabis-for-parkinsons-disease]]
 - [[cannabis-therapeutic-index-overview]]
-- [[cannabis-dosing-and-titration]]
+- [[doc]]
+- [[dom]]
+- [[endocannabinoid-system]]
+
+## Overview
+
+Cannabis And Adhd represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis and adhd
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Cannabis And Adhd finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis and adhd. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis and adhd and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Cannabis And Adhd has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of cannabis and adhd into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[doc]]
-- [[uwe-blesching]]
-- [[dom]]
-- [[dronabinol]]
-- [[endocannabinoid-system]]
+
+- [[blesching-cannabis-cancer-symptoms]]
+- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[cannabis-musculoskeletal-conditions]]
+- [[cannabis-oil-consumption-methods]]
+- [[green-cannabis-dry-sift-water-extraction]]

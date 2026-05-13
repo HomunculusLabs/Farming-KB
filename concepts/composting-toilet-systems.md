@@ -9,15 +9,15 @@ sources: []
 
 # Composting Toilet Systems
 
-[[comparison-composting-toilets-vs-greywater-systems-detailed]] treat human waste on-site through aerobic decomposition,
+Composting toilets treat human waste on-site through aerobic decomposition,
 converting it into a safe, nutrient-rich soil amendment. They eliminate the
 need for conventional septic systems, reduce water consumption, and are a
 key component of off-grid sanitation infrastructure. This guide covers
-system types, design, maintenance, and [[homesteading-legal-considerations]].
+system types, design, maintenance, and legal considerations.
 
 ## Why Composting Toilets
 
-- **[[water-conservation]]** — eliminates 20-30% of indoor water use (toilet
+- **Water conservation** — eliminates 20-30% of indoor water use (toilet
   flushing)
 - **Off-grid viability** — no water, septic, or sewer connection required
 - **Nutrient recovery** — returns nitrogen, phosphorus, and potassium to
@@ -88,17 +88,17 @@ processed separately, dramatically improving composting efficiency.
 **How it works:**
 - The toilet bowl has two compartments: urine drains forward to a collection
   pipe or container; feces drop into a composting chamber behind
-- Bulking material (sawdust, [[query-what-is-the-difference-between-coco-coir-and-peat-moss]], coconut coir) is added after each
+- Bulking material (sawdust, peat moss, coconut coir) is added after each
   feces deposit to cover and provide carbon
 - Urine is either diverted to a leach field, diluted for direct soil
   application (1:5-1:10 with water), or collected in a tank
 - Feces decompose aerobically in the composting chamber over 6-12 months
 
 **Advantages:**
-- Faster, cleaner composting — no excess liquid in the [[mushroom-cultivator-compost-pile-management]]
+- Faster, cleaner composting — no excess liquid in the compost pile
 - Minimal odor when managed properly
-- Urine (diluted) is an excellent [[jadam-natural-nitrogen-fertilizer]]
-- [[coleman-quick-hoops-low-cost-season-extension-structures-design]] — DIY versions can be built for $100-500
+- Urine (diluted) is an excellent nitrogen fertilizer
+- Low cost — DIY versions can be built for $100-500
 - No electricity required
 
 **Disadvantages:**
@@ -121,7 +121,7 @@ The most basic and affordable composting toilet:
 1. Urinate in the urine bucket (or separate container)
 2. Defecate in the solids bucket
 3. Add 1-2 cups of sawdust after each use
-4. When the solids bucket is full, empty into an outdoor [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
+4. When the solids bucket is full, empty into an outdoor compost bin
 5. Let the outdoor compost cure for 12-18 months before garden use
 6. Dilute urine 1:10 and apply directly to non-food plants
 
@@ -140,11 +140,11 @@ A permanent installation with a larger composting chamber:
 - Add bulking material (peat moss mix) as needed per manufacturer instructions
 - Rotate or agitate compost every 2-3 days (electric models)
 - Empty the finishing drawer when full (every 4-6 weeks for 2-person use)
-- Clean [[cervantes-ventilation-fan-carbon-filter-setup]] and filter annually
-- Check for plumbing blockages in urine line
 
-### Centralized Systems
-- Add bulking material weekly
-- Rotate drum or rake compost monthly
-- Empty finished compost annually (or per manufacturer schedule)
-- Inspect and clean ventilation system annually
+## See Also
+
+- [[comparison-bsf-composting-vs-earthworm-breeding]]
+- [[humanure-composting]]
+- [[comparison-vermicomposting-vs-composting-organic-garden]]
+- [[mushroom-substrate-preparation-composting]]
+- [[ingham-manure-antibiotics-chemical-residues-composting]]

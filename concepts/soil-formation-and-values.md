@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Soil is the foundational living system upon which all terrestrial life depends. In [[permaculture-design]], understanding how soils form, [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control|what]] threatens [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them|them]], and how to value them is essential to creating sustainable and regenerative systems. [[bill-mollison]] frames soil not merely as a substrate for growing plants but as a complex, living medium with deep connections to human health, ecological stability, and ethical responsibility.
+Soil is the foundational living system upon which all terrestrial life depends. In [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control|what]] threatens [[bill-mollison]] frames soil not merely as a substrate for growing plants but as a complex, living medium with deep connections to human health, ecological stability, and ethical responsibility.
 
 ## Soil Formation Processes
 
@@ -52,65 +52,9 @@ One of the most critical insights in permaculture is the stark imbalance between
 
 Mollison identifies specific environments where soils are naturally conserved or actively increased:
 
-- **Uncut forests** — The forest canopy and understorey [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season|protect]] soil from rain impact, while continuous leaf litter adds organic matter and roots stabilise the soil structure.
-- **Quiet water of lakes and ponds** — Aquatic environments trap sediment and organic matter, building fertile bottom deposits over time.
-- **Prairies and meadows of permanent plants** — Deep-rooted perennial grasses maintain soil structure, cycle nutrients, and prevent erosion through continuous ground cover.
-- **Mulched or no-tillage systems** — By eliminating mechanical disturbance and maintaining organic surface cover, these systems preserve soil structure and allow natural accumulation.
-
-## Four Value Perspectives on Soil
-
-Mollison proposes examining soil through four distinct but interconnected value lenses:
-
-### Health
-
-- Soil health directly determines human and plant health.
-- Nutrient-dense soils produce nutrient-dense foods; depleted soils yield deficient crops regardless of caloric output.
-- The connection between soil mineral balance and human nutritional status is well-documented but often ignored by industrial agriculture.
-
-### Yield
-
-- While yield is the primary metric of conventional agriculture, permaculture raises fundamental sustainability questions about yield.
-- High short-term yields achieved through soil mining are inherently unsustainable.
-- True yield must be measured over decades and centuries, accounting for the degradation or improvement of the soil resource base.
-
-### Life in Soil
-
-- A single teaspoon of healthy soil contains billions of organisms including bacteria, fungi, protozoa, nematodes, and arthropods.
-- These organisms regulate [[soil-ph]], cycle minerals, create soil structure through aggregation, and significantly reduce erosion risk.
-- [[soil-life]] is the engine of fertility; without it, soil is merely inert mineral dust.
-
-### Ethics
-
-- Only approximately **4% of the Earth's land surface** is suitable for food production.
-- An estimated **60% of agricultural soils worldwide** have already been significantly degraded or ruined.
-- This presents a profound ethical imperative: the remaining fertile soils must be stewarded with the utmost care for future generations.
-
-## Gardening and Human Health
-
-Beyond food production, gardening provides significant health benefits:
-
-- **Mild regular exercise** from digging, planting, weeding, and harvesting.
-- **Meditative quality** — the rhythmic, focused nature of garden work promotes mental calm and reduces stress.
-- **Meaning and livelihood** — growing food connects people to their sustenance and provides a sense of purpose.
-- **Life interest** — gardens foster ongoing curiosity about natural systems, seasons, and ecology.
-
-These benefits stand in direct contrast to the physical and social degradation associated with plough-based monocultures.
-
-## Plough Cultures and Their Consequences
-
-Mollison identifies plough-based agriculture as a destructive force that undermines both soils and the societies dependent on them:
-
-- Tillage destroys soil structure, exposes organic matter to rapid oxidation, and leaves soil bare and vulnerable to erosion.
-- Historically, plough cultures have expanded until they exhaust their soil base, then collapsed or migrated.
-- The social pattern repeats: deforestation for agriculture, soil degradation, declining yields, food insecurity, conflict, and civilisational decline.
-
-## Soil Rehabilitation
-
-Despite the severity of soil degradation, rehabilitation is possible within human timescales:
-
-- **Building a productive garden from average land**: approximately **3–4 years** with appropriate mulching, composting, and minimal disturbance techniques.
-- **Restoring devastated soil**: approximately **5–15 years** of dedicated effort using [[succession-planting]], green manures, composting, and erosion control.
-- Rehabilitation requires patience and consistent application of permaculture principles, but the results demonstrate nature's inherent resilience when given the right conditions.
+- **Uncut forests** — The forest canopy and understorey [[soil-ph]], cycle minerals, create soil structure through aggregation, and significantly reduce erosion risk.
+- [[succession-planting]], green manures, composting, and erosion control.
+- Rehabilitation requires patience and consistent application of [[permaculture-principles]], but the results demonstrate nature's inherent resilience when given the right conditions.
 
 ## The Soil-Plant-Animal Health Triangle
 
@@ -139,7 +83,7 @@ In contrast to global supply chains, the house garden represents a model of **li
 
 ## The Jeavons Estimate
 
-John Jeavons, founder of the Grow Biointensive method, estimates that with intensive small-scale food production:
+[[john-jeavons]], founder of the Grow Biointensive method, estimates that with intensive small-scale food production:
 
 - Only **6% of current agricultural land** would be needed to feed the human population using biointensive methods.
 - This implies that approximately **94% of agricultural land** could be returned to nature — reforested, allowed to revert to prairie, or designated as wildlife habitat.

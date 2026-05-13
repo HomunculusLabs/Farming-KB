@@ -14,8 +14,7 @@ The nightshade family (Solanaceae) contributed several of the most
 important ingredients to the hallucinogenic brews and ointments of
 medieval European witchcraft. Belladonna, henbane, mandrake, and datura
 formed the core pharmacopoeia of the so-called witches' brews, all
-sharing a common chemistry of [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] that induce vivid
-hallucinations, sensations of flight, and [[weil-the-natural-mind-altered-states-normalcy]] of
+sharing a common chemistry of [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness.
 
 ## Belladonna (Atropa belladonna)
@@ -65,8 +64,7 @@ ingredients in the witches' brews of Europe.
 
 ## Datura (Datura metel)
 
-[[datura-metel]], known as dhatura and dutra in India, is an important Old
-World species of the [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] family. Its narcotic properties
+[[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] family. Its narcotic properties
 have been known and valued in India since prehistory. Some writers have
 credited it with causing the intoxicating smoke associated with the
 Oracle of Delphi. Early Chinese writings report a hallucinogen

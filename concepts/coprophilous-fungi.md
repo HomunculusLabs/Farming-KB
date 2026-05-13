@@ -15,7 +15,7 @@ updated: 2026-04-12
 
 # Coprophilous Fungi
 
-Coprophilous (dung-inhabiting) fungi represent one of the most diverse and specialized ecological guilds in the fungal kingdom. They colonize the dung of herbivorous mammals, birds, and other animals, playing critical roles in [[soil-protozoa-nutrient-cycling-and-mineralization]] decomposition of herbivore waste.
+Coprophilous (dung-inhabiting) fungi represent one of the most diverse and specialized ecological guilds in the fungal kingdom. They colonize the dung of herbivorous mammals, birds, and other animals, playing critical roles in nutrient cycling and decomposition of herbivore waste.
 
 ## Overview
 
@@ -64,7 +64,7 @@ The Zygomycetes include 10 orders with coprophilous representatives. Key genera:
 - Helicocephalum, Rhopalomyces (Zoopagales) - predators of other fungi
 - Piptocephalis, Syncephalis (Piptocephalidaceae) - mycoparasites
 
-**[[clarke-marijuana-botany-sex-determination-reproductive-biology]]**: Most [[biodiversity-coprophilous-zygomycetes-dung]] are heterothallic (requiring + and - mating types). On dung, usually only one mating type is present, so reproduction is asexual. [[basidiomycete-mating-systems-sexual-reproduction]] (zygospore formation) requires both mating types in proximity, mediated by trisporic acid.
+**Reproductive biology**: Most coprophilous Zygomycetes are heterothallic (requiring + and - mating types). On dung, usually only one mating type is present, so reproduction is asexual. Sexual reproduction (zygospore formation) requires both mating types in proximity, mediated by trisporic acid.
 
 ### Ascomycetes
 
@@ -83,7 +83,7 @@ The most species-rich group of coprophilous fungi, spanning 15+ orders:
 
 *Xylariales*:
 - Xylaria, Poronia, Hypocopra, Podosordaria, Wawelia
-- [[poronia-punctata]] - the distinctive "nail fungus" with stalked stromata on horse dung
+- Poronia punctata - the distinctive "nail fungus" with stalked stromata on horse dung
 
 *Leotiales*:
 - Thelebolus, Ascozonus, Caccobius (Thelebolaceae)
@@ -140,11 +140,11 @@ Coprophilous fungi have evolved remarkable dispersal strategies:
 ## Ecological Significance
 
 - Primary decomposers of herbivore waste, recycling nutrients in grassland and forest ecosystems
-- Spore dispersal depends on herbivore behavior, linking fungal and animal ecology
-- Mycoparasitic species (Piptocephalis, Syncephalis) regulate other fungal populations in dung communities
-- Predaceous fungi (Stylopage, Zoopagales) prey on nematodes and amoebae in dung microfauna
-- Some species are indicators of herbivore presence and ecosystem health
 
-## Biogeography
+## See Also
 
-Most coprophilous fungi are thought to be cosmopolitan, distributed worldwide alongside their herbivore hosts. However, some tropical species have [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]]. The composition of dung fungal communities varies with:
+- [[coprophilous-fungi-succession]]
+- [[coprophilous-fungi-taxonomic-groups-distribution]]
+- [[coprophilous-fungi-biodiversity-indicators]]
+- [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]
+- [[biodiversity-coprophilous-zygomycetes-dung]]

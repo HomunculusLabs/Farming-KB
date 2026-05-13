@@ -13,7 +13,7 @@ tags:
 
 ## The Harvest Schedule
 
-Eliot Coleman's winter harvest operation runs on a strict twice-weekly schedule:
+[[eliot-coleman]]'s winter harvest operation runs on a strict twice-weekly schedule:
 Mondays and Thursdays. This rhythm provides customers with fresh produce at
 regular intervals, gives greenhouse crops adequate recovery time between
 harvests, and structures the farm crew's work week around a predictable cadence.
@@ -120,8 +120,6 @@ using the right tools, and structuring workflow so speed emerges from
 organization rather than haste.
 
 ## See Also
-- [[coleman-winter-harvesting-techniques]]
 - [[coleman-sweet-winter-carrots-cold-sweetening]]
-- [[coleman-winter-greens-nutritional-quality-cold-sweetening]]
 - [[coleman-backwards-farm-winter-only-summer-fallow]]
 - [[coleman-semi-hibernating-winter-crops-harvest-extension]]

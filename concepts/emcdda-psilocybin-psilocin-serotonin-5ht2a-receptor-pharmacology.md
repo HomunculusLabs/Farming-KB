@@ -9,7 +9,7 @@ tags: [pharmacology, psilocybin, psilocin, serotonin, 5-HT2A, hallucinogen, neur
 
 ## Chemical Classification
 
-Psilocybin and psilocin belong to the **indolealkylamine** (tryptamine) class of hallucinogens, the same broad chemical category as LSD ([[lsd-d-lysergic-acid-diethylamide]]) and DMT (N,N-dimethyltryptamine). This classification is based on shared [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]: all contain an indole ring system with an ethylamine side chain.
+Psilocybin and psilocin belong to the **indolealkylamine** (tryptamine) class of hallucinogens, the same broad chemical category as LSD ([[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]: all contain an indole ring system with an ethylamine side chain.
 
 The EMCDDA (2006) identified three major chemical groups of hallucinogens:
 1. **Indolealkylamines (tryptamines)**: LSD, psilocin, psilocybin, DMT
@@ -36,27 +36,7 @@ These chemically related substances tend to exhibit similar pharmacological effe
 - The actual compound responsible for the psychoactive effects
 
 ### Structural Relationship to Serotonin
-Both psilocybin and psilocin are structurally similar to the neurotransmitter **serotonin (5-hydroxytryptamine, 5-HT)**. The key structural similarity is the indole ring with a hydroxyl group at the 4-position of the benzene portion. This structural mimicry allows psilocin to interact with [[psilocybin-pharmacology-and-serotonin-receptors]] in the brain, producing its characteristic effects.
-
-## Pharmacokinetics: Conversion of Psilocybin to Psilocin
-
-When ingested, psilocybin is not the active compound that reaches the brain. Instead, it undergoes enzymatic dephosphorylation, primarily in the liver and possibly in the gut wall, converting to psilocin:
-
-**Psilocybin (4-PO-DMT) → Psilocin (4-HO-DMT)**
-
-This conversion is rapid and efficient. Alkaline phosphatase enzymes cleave the phosphate group, yielding the active metabolite. The reason mushrooms contain psilocybin (the relatively inactive prodrug) rather than psilocin directly is likely related to chemical stability — psilocybin is more stable during storage, particularly in the mushroom tissue, while psilocin oxidizes more readily. This natural prodrug strategy ensures the psychoactive compound is preserved until consumption.
-
-## Mechanism of Action: 5-HT2A Receptor
-
-Psilocin acts primarily as a **5-HT2A post-synaptic receptor agonist or partial agonist**. The 5-HT2A receptor is a G-protein coupled receptor (GPCR) widely distributed throughout the cerebral cortex, particularly in layer V pyramidal neurons of the prefrontal cortex.
-
-### Key aspects of the receptor interaction:
-
-1. **Agonist activity**: Psilocin binds to the 5-HT2A receptor and activates it, mimicking the action of endogenous serotonin but with different downstream signaling consequences.
-
-2. **Partial agonism**: Psilocin may act as a partial agonist at some serotonin receptor subtypes, meaning it does not fully activate the receptor even at saturating concentrations. This partial activation profile may contribute to the qualitative differences between psilocin's effects and those of full agonists like LSD.
-
-3. **Receptor specificity**: While 5-HT2A is the primary target, psilocin also interacts with other serotonin receptor subtypes (5-HT1A, 5-HT2C, 5-HT2B), dopamine receptors, and possibly other neurotransmitter systems. The complex [[beta-glucan-receptor-binding]] profile contributes to the multifaceted nature of the mushroom experience.
+Both psilocybin and psilocin are structurally similar to the neurotransmitter **serotonin (5-hydroxytryptamine, 5-HT)**. The key structural similarity is the indole ring with a hydroxyl group at the 4-position of the benzene portion. This structural mimicry allows psilocin to interact with [[beta-glucan-receptor-binding]] profile contributes to the multifaceted nature of the mushroom experience.
 
 4. **Cortical effects**: Activation of 5-HT2A receptors in the prefrontal cortex disrupts normal thalamocortical signaling, leading to increased sensory gating permeability. This is thought to underlie the characteristic sensory distortions, synesthesia, and altered perception of reality.
 
@@ -99,16 +79,9 @@ Understanding the fundamental principles underlying this topic enables more effe
 Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
 
 ## See Also
-- [[5-methoxy-dmt-pharmacology]]
 - [[allegro-amanita-muscaria-properties-and-pharmacology]]
-- [[amanita-muscaria-chemistry-and-pharmacology]]
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
-- [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]
-
-## See Also
-
 - [[emcdda-hallucinogenic-mushroom-chemistry-psilocybin-5ht2a-pharmacology]] — EMCDDA-specific chemistry section
-- [[emcdda-hallucinogenic-mushroom-dose-effects]] — Dosage and acute effects
 - [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] — Biosynthesis of minor tryptamine alkaloids
 
 ## References

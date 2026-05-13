@@ -8,13 +8,8 @@ sources:
   - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
-# [[cervantes-cannabis-seed-purchasing-storage]]
-
-- [[oner-cannabis-phenotypes-genetic-expression]]
-- [[cannabis-seed-scuffing-and-preparation]]
-## Background and Context
-
-[[cannabis-seed-production]] and Storage is an important subject that has garnered significant attention
+# [[oner-cannabis-phenotypes-genetic-expression]]
+- [[cannabis-seed-production]] and Storage is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

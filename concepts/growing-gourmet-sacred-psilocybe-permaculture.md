@@ -30,13 +30,9 @@ within their ecosystem.
 
 Several Psilocybe species are common in the Pacific Northwest:
 
-- [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] (Wavy-Capped Psilocybe): the most prolific,
-  with caramel-colored caps that bruise vividly blue when handled
 - [[stamets-psi-psilocybe-azurescens-species-guide]]: considered the most potent species, found
   in coastal dune grasses
-- [[stamets-psi-psilocybe-stuntzii-blue-ringers]]: "Blue Ringers," common in newly laid bark
 - [[stamets-psi-psilocybe-baeocystis-knobby-tops]]: "Knobby Tops," found in conifer debris
-- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]: "Liberty Caps," grassland species
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]: tropical species, the most widely cultivated
 
 ## Mycelial Characteristics
@@ -117,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[psilocybe-mexicana]]
-- [[psilocybe-cyanescens]]
 - [[spawn-preparation]]
 - [[grain-spawn-preparation]]

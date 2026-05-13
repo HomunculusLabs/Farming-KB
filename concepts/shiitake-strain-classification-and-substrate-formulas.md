@@ -11,7 +11,7 @@ sources: []
 
 Updated: 2026-04-18
 
-Shiitake ([[fukuoka-natural-farming-in-tropical-regions]], through careful [[blesching-cannabis-strain-selection-receptor-targeting]] and controlled environment management.
+Shiitake ([[blesching-cannabis-strain-selection-receptor-targeting]] and controlled environment management.
 
 ## Strain Classification by Fruiting Temperature
 
@@ -22,9 +22,7 @@ Based on the Chinese system, shiitake strains are classified into four categorie
 | **Low temperature** | 10C | Best quality; produces dongu (winter shiitake) with thick, meaty texture |
 | **Mid temperature** | 10-18C | Most common commercial strains; good quality range |
 | **High temperature** | 20C+ | Suited to warmer climates; faster but lower quality |
-| **Wide-range temperature** | 5-35C | Versatile; can fruit across broad [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] |
-
-Japanese growers have developed [[cannabis-seed-selection-and-strain-types]]
+| **Wide-range temperature** | 5-35C | Versatile; can fruit across broad [[cannabis-seed-selection-and-strain-types]]
 
 See also: [[shiitake-cultivation-guide]]
 ## Practical Applications

@@ -31,29 +31,7 @@ Cultivation parameters for *P. ostreatus*:
 
 - **CO2 tolerance**: Moderate. Some CO2 during fruiting produces desirable stem elongation in certain market forms, but excessive CO2 causes abnormal, coral-like growth.
 
-*P. ostreatus* is one of the few gourmet mushrooms that can be successfully cultivated on pasteurized (rather than sterilized) substrate, making it accessible to low-input growers. It is also one of the most studied species for mycoremediation, demonstrating the ability to break down [[mycoremediation-petroleum-hydrocarbons]], PAHs, and even some pesticides.
-
-## Pleurotus pulmonarius: The Phoenix / Indian Oyster
-
-*Pleurotus pulmonarius* (often sold as *P. sajor-caju*) is closely related to *P. ostreatus* but prefers warmer temperatures and tends to produce a paler, more cream-colored mushroom with a finer texture. It is one of the most commercially important oyster mushrooms in tropical and subtropical regions.
-
-Key differences from *P. ostreatus*:
-
-- **Fruiting temperature**: 65–85°F (18–29°C). Significantly warmer than *P. ostreatus*, making it the preferred choice for summer production and tropical cultivation.
-
-- **Growth speed**: Extremely fast colonizer, often outpacing *P. ostreatus* on the same substrate.
-
-- **Substrate**: Similar broad substrate tolerance — straw, sawdust, bagasse, coffee grounds.
-
-- **Appearance**: Lighter colored cap (cream to light tan), thinner flesh, more delicate texture than *P. ostreatus*.
-
-## Pleurotus eryngii: The King Oyster
-
-*Pleurotus eryngii* stands apart from other oyster mushrooms in both appearance and cultivation requirements. Rather than growing in shelf-like clusters, the king oyster produces a thick, solitary stem topped by a small, firm cap. The stem is the primary edible portion — thick, meaty, and with a texture reminiscent of abalone or scallops when cooked. This unique morphology and texture make it one of the highest-value cultivated mushrooms.
-
-Cultivation differences from other *Pleurotus* species:
-
-- **Substrate**: Prefers [[oyster-mushroom-supplemented-sawdust-blocks]] (hardwood) rather than straw. Oak, alder, or mixed hardwood sawdust supplemented with 15–20% bran produces the best results.
+*P. ostreatus* is one of the few gourmet mushrooms that can be successfully cultivated on pasteurized (rather than sterilized) substrate, making it accessible to low-input growers. It is also one of the most studied species for mycoremediation, demonstrating the ability to break down [[oyster-mushroom-supplemented-sawdust-blocks]] (hardwood) rather than straw. Oak, alder, or mixed hardwood sawdust supplemented with 15–20% bran produces the best results.
 
 - **Temperature**: Cooler fruiting range of 50–65°F (10–18°C). Warmer temperatures produce thin, poorly developed stems.
 
@@ -101,8 +79,6 @@ Stamets introduces the concept of **species sequencing** — cultivating multipl
 
 Beyond the major commercial species, Stamets describes several additional *Pleurotus* species of interest to cultivators and researchers:
 
-**[[pleurotus-cystidiosus]]** (the abalone mushroom) produces thick, white to tan mushrooms with a distinctive anise-like aroma. It is native to subtropical and tropical hardwood forests and is commercially cultivated in Southeast Asia. The species name refers to the prominent cystidia (sterile cells on the gill surface) visible under magnification. Fruiting temperature: 60–75°F (16–24°C).
-
 **[[pleurotus-euosmus]]** (the tarragon oyster) is notable for its strong tarragon-like aroma, making it interesting for culinary applications. It is less commonly cultivated commercially but valued by specialty growers for its unique flavor profile. The aroma is caused by specific aromatic compounds (methyl anthranilate and related esters) produced by the mycelium and fruiting body. Fruiting temperature: 55–70°F (13–21°C).
 
 ## Nutritional and Medicinal Value
@@ -115,13 +91,5 @@ Medicinal research on *Pleurotus* species has focused on several areas:
 
 - **Immune stimulation**: Beta-glucans and other polysaccharides from *Pleurotus* species activate macrophages and natural killer cells, enhancing immune function. *P. ostreatus* extracts have shown anti-tumor activity in animal studies.
 
-- **Antioxidant activity**: [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], ergothioneine, and other antioxidants in oyster mushrooms provide cellular protection against oxidative stress.
-
-- **Anti-inflammatory**: Various *Pleurotus* extracts have demonstrated anti-inflammatory effects in laboratory studies, suggesting potential applications in managing chronic inflammatory conditions.
-
-## See Also
-
-- mushroom substrate preparation heat treatment
-- mushroom spawn production grain to bulk
-- [[shiitake-cultivation-parameters]]
-- mycoremediation fungal biodegradation toxic waste
+- **Antioxidant activity**: [[shiitake-cultivation-parameters]]
+- [[mycoremediation-fungal-biodegradation-toxic-waste]]

@@ -1,6 +1,6 @@
 ---
 title: "Fukuoka Pesticide Carnage Spider Firefly Dragonfly"
-source: The Natural Way of Farming - [[masanobu-fukuoka]]
+source: The Natural Way of Farming - masanobu-fukuoka
 tags: [fukuoka, natural-farming, pesticides, spiders, fireflies, dragonflies, rice-farming, ecological-balance, biodiversity]
 created: 2026-05-11
 ---
@@ -58,35 +58,7 @@ natural predators, and leaves victim dragonfly larvae, tadpoles, and loaches."
 
 Each successive application of pesticide strips away another layer of the
 ecological protection system. Chalcid flies are parasitoid wasps that lay
-their eggs inside pest insects, providing [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] that no
-chemical can match. Dragonfly larvae are aquatic predators that consume
-mosquito larvae and other pests in the paddy water. Tadpoles and loaches are
-part of the aquatic food web that maintains water quality and controls
-insect populations.
-
-Fukuoka's verdict is unequivocal: "Just one look at this slaughter would
-suffice to show the insanity of the blanket application of pesticides."
-
-## The Broader Pattern: Pollinators Destroyed
-
-Fukuoka extends this analysis beyond rice to other crops. "A case in point
-is the application of toxic pesticides to apple trees and hothouse
-strawberries. This kills off pollinating insects such as bees and gadflies,
-forcing man to collect the pollen himself and artificially pollinate each of
-the blossoms."
-
-The pattern is consistent: pesticides kill beneficial organisms while
-failing to control target pests, and the farmer must then perform manually
-the services that nature once provided for free. "Although he cannot even
-hope to replace the myriad activities of all the plants, animals, and
-microorganisms in nature, man goes out of his way to block their activities,
-then studies each of these functions carefully and attempts to find
-substitutes. What a ridiculous waste of effort."
-
-## The Natural Alternative
-
-Fukuoka contrasts this carnage with the functioning of his natural rice
-field. There, a [[fukuoka-pesticide-cascade-collapse-natural-balance]] asserts itself without any chemical
+their eggs inside pest insects, providing [[fukuoka-pesticide-cascade-collapse-natural-balance]] asserts itself without any chemical
 intervention. "No matter that there are insect pests here. As long as their
 natural enemies are also present, a natural balance asserts itself." The
 field produces roughly 250 heads of grain per square yard, or about 33
@@ -116,16 +88,9 @@ the form of reduced yields, degraded soil, and escalating chemical dependence.
 
 ## The Cost in Energy and Money
 
-Beyond the ecological destruction, Fukuoka notes that [[cho-loess-powder-in-natural-farming]]
-produces 130 pounds of rice—200,000 kilocalories of energy—per man-day of
-labor, without the input of any outside materials. This is about 100 times
-the daily caloric intake of a farmer on a natural diet. Each doubling of
-energy input through mechanization and chemicals has brought diminishing
-returns while increasing costs and environmental harm.
-
-The farmer who applies pesticides eight times per year is not increasing his
-productivity; he is spending money to destroy the free pest control services
-that nature provides, then spending more money to replace them with inferior
-chemical substitutes. The economics of this arrangement benefit only the
-manufacturers of [[agricultural-chemicals-mycorrhizal-impact]], not the farmer, the consumer, or
+Beyond the ecological destruction, Fukuoka notes that [[agricultural-chemicals-mycorrhizal-impact]], not the farmer, the consumer, or
 the land.
+
+## See Also
+
+- [[fukuoka-textdoc-pesticide-spider-firefly-destruction]]

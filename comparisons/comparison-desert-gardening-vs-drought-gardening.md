@@ -25,15 +25,7 @@ Desert gardening operates in true arid environments where evapotranspiration far
 The constraints are structural and permanent, not seasonal. A desert gardener cannot wait for a wet season to compensate; every drop of water must be actively managed through harvesting, storage, and efficient delivery systems.
 
 ### Drought Gardening
-[[drought-gardening-strategies]] from Geoff Hamilton extends this framework to any gardener facing temporary water restrictions.
-
-The moisture availability window — the range between field capacity and permanent wilting point — is the central concept. Solomon defines 70% of field capacity as the ideal growth zone, 60% as the threshold to water, and below 50% as the point where vegetables experience significant stress even without visible wilting. The challenge is managing plants through a dry window, not adapting to an inherently waterless environment.
-
-## Core Philosophy
-
-Desert gardening begins with the premise that the environment is hostile to most cultivated plants and that the gardener must engineer favorable conditions through infrastructure, plant selection, and precise water management. Every element — shade structures, soil amendments, irrigation timing — exists to mitigate harsh baseline conditions.
-
-Drought gardening begins with the opposite premise: standard gardening is possible with far less water than commonly assumed, provided plants are spaced widely enough to access deeper soil moisture. The philosophy is one of reduction rather than engineering. Do less — fewer plants, less water, less intervention — rather than build more infrastructure. Solomon frames it as recovering ancestral knowledge: [[container-growing-vegetables-herbs]] without piped water by putting plants extremely far apart.
+[[container-growing-vegetables-herbs]] without piped water by putting plants extremely far apart.
 
 | Aspect | Desert Gardening | Drought Gardening |
 |--------|-----------------|-------------------|
@@ -47,23 +39,13 @@ Drought gardening begins with the opposite premise: standard gardening is possib
 ## Water Management
 
 ### Desert: Harvest and Deliver
-Water in the desert must be captured, stored, and precisely delivered. Passive [[gaias-garden-water-harvesting-swales-and-greywater]] diversion.
-
-Irrigation efficiency is critical. Drip irrigation delivers water at 90%+ efficiency directly to root zones, compared to roughly 50% for sprinklers. Ollas (unglazed clay pots buried in soil) provide slow subsurface seepage. Timer-based systems water in pre-dawn hours to minimize evaporative loss. Every drop must reach the root zone with minimal waste.
-
-### Drought: Space and Access
-Drought gardening relies on spacing plants far apart so each accesses a larger soil moisture volume. Solomon showed that traditional [[halpern-sacramental-peyote-and-native-american-church]] corn at four-foot centers (one seed per hill — "one for the worm, one for the crow, one to rot, and one to grow") required virtually no irrigation.
+Water in the desert must be captured, stored, and precisely delivered. Passive [[halpern-sacramental-peyote-and-native-american-church]] corn at four-foot centers (one seed per hill — "one for the worm, one for the crow, one to rot, and one to grow") required virtually no irrigation.
 
 When watering is needed, the protocol is infrequent and deep, maintaining soil above 70% of field capacity. Solomon's soil ball test provides a practical gauge: dig 5-6 inches, squeeze a handful. If it holds together solidly, moisture is adequate. If it barely holds together under pressure, it is time to water.
 
-[[comparison-foliar-feeding-vs-compost-tea-nutrients]] with fish emulsion or kelp tea can substitute for fertigation when water is extremely scarce, delivering nutrients through leaves with just a few gallons per week. Even half-strength Coca Cola has been used as an effective foliar spray, providing phosphoric acid and sugars.
+[[hamilton-composting-and-organic-matter-management]] is often under 1%, and salinity accumulates from high evaporation. Nitrogen, phosphorus, iron, and zinc are commonly deficient.
 
-## Soil Challenges
-
-### Desert Soils: A Chemical Puzzle
-Desert soils present obstacles temperate gardeners rarely encounter. pH is high (7.5-8.5+), caliche layers of hardened calcium carbonate impede root penetration, [[hamilton-composting-and-organic-matter-management]] is often under 1%, and salinity accumulates from high evaporation. Nitrogen, phosphorus, iron, and zinc are commonly deficient.
-
-Sulfur lowers pH but takes months to show effect (5-10 lbs per 100 sq ft). Gypsum improves sodic soil structure without changing pH. Chelated iron corrects iron chlorosis, where leaves yellow between veins despite adequate nitrogen. Compost decomposes rapidly in heat, requiring annual 2-4 inch applications. Mulch at 3-6 inches reduces evaporation, though wood chips should not touch stems (termite risk). Caliche within 12 inches of the surface must be broken through or bypassed with raised beds. See [[drought-gardening-strategies]] focuses on improving existing soil water-holding capacity through organic matter additions. Organic matter acts like a sponge, particularly important on sandy or chalky soils that drain rapidly. The emphasis is on keeping ground covered at all times with crops, [[comparison-drip-irrigation-vs-rainwater-harvesting]] systems
+Sulfur lowers pH but takes months to show effect (5-10 lbs per 100 sq ft). Gypsum improves sodic soil structure without changing pH. Chelated iron corrects iron chlorosis, where leaves yellow between veins despite adequate nitrogen. Compost decomposes rapidly in heat, requiring annual 2-4 inch applications. Mulch at 3-6 inches reduces evaporation, though wood chips should not touch stems (termite risk). Caliche within 12 inches of the surface must be broken through or bypassed with raised beds. See [[comparison-drip-irrigation-vs-rainwater-harvesting]] systems
 - Keeping the ground covered at all times to prevent evaporative moisture loss
 - Building soil organic matter as the foundation of water-holding capacity
 
@@ -71,9 +53,7 @@ Both reject the assumption that abundant piped irrigation is necessary for food 
 
 ## See Also
 
-- [[drought-gardening-strategies]] for Hamilton's drought-specific techniques
 - [[contour-line-water-management]] for passive water management
-- [[graywater-systems]] for household water reuse
 - [[acid-and-alkaline-soil-management]] for desert soil amendment guidance
 ## Practical Considerations
 
@@ -93,3 +73,78 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Comparison Desert Gardening Vs Drought Gardening represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison desert gardening vs drought gardening
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Desert Gardening Vs Drought Gardening finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison desert gardening vs drought gardening. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison desert gardening vs drought gardening and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Desert Gardening Vs Drought Gardening has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison desert gardening vs drought gardening into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

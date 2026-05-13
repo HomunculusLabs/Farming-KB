@@ -21,61 +21,13 @@ sources:
 
 Clematis terniflora, commonly known as sweet autumn clematis or sweet autumn virgin's bower, is a vigorous deciduous climbing vine in the family Ranunculaceae.
 
-Native to East Asia, it is widely cultivated for its profuse display of small, fragrant white flowers that blanket the plant in late summer and early autumn. The species has naturalized aggressively in [[polypore-fungi-eastern-north-america]], where it is considered an invasive plant in several states.
-
-Its dense, twining growth habit allows it to smother shrubs and small trees, forming thick mats that shade out native vegetation. Despite its invasive tendencies, it remains one of the most popular and widely sold clematis species in the nursery trade.
-
-The plant was introduced to Western horticulture from Japan in the mid-19th century and has since become a garden staple worldwide. It belongs to Clematis Section Clematis, characterized by opposite pinnate leaves and paniculate inflorescences.
-
-## Taxonomy and Morphology
-
-**Kingdom:** Plantae | **Family:** Ranunculaceae | **Genus:** Clematis | **Species:** C. terniflora DC.
-
-Synonyms include Clematis paniculata (non-Thunb., misapplied in horticulture) and Clematis maximowicziana. The species epithet "terniflora" refers to the three-flowered cymes in the inflorescence.
-
-The genus Clematis contains approximately 300 species distributed across temperate and subtropical regions worldwide. Clematis terniflora is placed in Section Clematis based on molecular phylogenetic analyses using chloroplast markers.
-
-Leaves are opposite, pinnately compound with 3-5 leaflets, each leaflet ovate to lanceolate, 3-8 cm long, with entire or slightly toothed margins. The foliage is dark green and glabrous above, paler beneath.
-
-Stems are slender, woody at the base, reaching 6-9 meters in length with the ability to climb via twining petioles that wrap around supports.
-
-Flowers are small (2-3 cm diameter), pure white, with four petal-like sepals and prominent creamy stamens. They are borne in large, showy panicles that create a spectacular late-season display.
-
-The flowers emit a strong, sweet fragrance detectable from considerable distance, which is the primary ornamental attribute of the species.
-
-Bloom time extends from August through October in the Northern Hemisphere, providing late-season color when most garden perennials have finished flowering. Each panicle may contain 50-100 individual flowers.
-
-Fruit is a compressed achene with a persistent, plumose style forming a silky tail 2-4 cm long. These feathery seed heads create a secondary ornamental display lasting into early winter.
-
-## Distribution and Habitat
-
-Clematis terniflora is native to Japan, Korea, China (including Taiwan), and parts of [[psilocybe-southeast-asia-pacific]] including Vietnam and Laos.
+Native to East Asia, it is widely cultivated for its profuse display of small, fragrant white flowers that blanket the plant in late summer and early autumn. The species has naturalized aggressively in [[psilocybe-southeast-asia-pacific]] including Vietnam and Laos.
 
 In its native range, it inhabits forest edges, thickets, streambanks, and disturbed areas at elevations from sea level to 1,500 meters. The species thrives in full sun to partial shade on a variety of soil types.
 
 It shows a preference for moist, fertile, slightly acidic to neutral soils but tolerates clay, loam, and sandy substrates. Seasonal flooding of riparian habitats does not appear to limit establishment in its native range.
 
-In North America, it has naturalized from New York to Florida and west to Texas and Missouri, with scattered populations in the [[psilocybin-north-america-pacific-northwest]]. It colonizes roadsides, fence rows, forest margins, and riparian corridors.
-
-The species is classified as invasive in Delaware, Maryland, Virginia, Pennsylvania, New Jersey, and several other eastern states due to its rapid spread.
-
-Climatic modeling suggests the potential range could extend into the upper Midwest and Pacific Northwest as warming winters reduce cold-temperature mortality in seedlings. Early detection and rapid response programs are recommended for states at the invasion front.
-
-## Cultivation
-
-Sweet autumn clematis is among the easiest Clematis species to grow, tolerant of a wide range of conditions and soils provided drainage is adequate.
-
-It prefers moist, well-drained, slightly alkaline to neutral soil (pH 6.5-7.5) in full sun to part shade. Unlike many clematis, it tolerates full sun on both roots and foliage without scorching.
-
-Hardy in USDA zones 5-9, the plant is remarkably disease-resistant and largely untroubled by the clematis wilt (Phoma clematidina) that affects large-flowered hybrids. Pruning is simple: cut all stems to 30-60 cm in late winter or early spring before new growth begins.
-
-The species flowers on new wood (current season's growth), making hard pruning both acceptable and beneficial. Unlike Group 1 and Group 2 clematis, no careful selective pruning is needed.
-
-Propagation is by seed, softwood cuttings in early summer, or semi-hardwood cuttings in late summer. Seeds require cold stratification for 2-3 months at 4°C for reliable germination.
-
-Growth rate is vigorous, with established vines capable of adding 3-5 meters of new growth per season. The vine readily self-seeds in favorable conditions, which gardeners may welcome or find problematic.
-
-The species tolerates urban pollution, salt spray near coasts, and drought once established. This resilience makes it a common choice for [[permaculture-difficult-sites-plant-guide]] including chain-link fences, embankments, and retaining walls.
+In North America, it has naturalized from New York to Florida and west to Texas and Missouri, with scattered populations in the [[permaculture-difficult-sites-plant-guide]] including chain-link fences, embankments, and retaining walls.
 
 ## Ecological Role
 
@@ -87,4 +39,89 @@ The plumed achenes provide nesting material for birds and small mammals. The den
 
 In North America, its invasive impacts include suppression of native shrubs and herbaceous plants through shading and mechanical weight. It can topple small trees under the sheer mass of its growth, opening canopy gaps that favor further invasion.
 
-[[weed-management-strategies]] include hand-pulling young plants, cutting vines at the base before seed set, and targeted herbicide application to cut stems during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+
+## Overview
+
+Clematis Terniflora represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish clematis terniflora
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving clematis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Clematis Terniflora finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for clematis terniflora. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+clematis terniflora and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Clematis Terniflora has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of clematis terniflora into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[clematis-alpina]]
+- [[clematis-flammula]]
+- [[clematis-integrifolia]]
+- [[clematis-tangutica]]
+- [[clematis-vitalba]]

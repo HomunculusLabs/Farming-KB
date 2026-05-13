@@ -10,30 +10,11 @@ sources:
 
 Fungal mycelia are not passive decomposers — they are active foragers that
 demonstrate sophisticated resource acquisition strategies, decision-making
-capabilities, and [[mycelial-nutrient-translocation-networks]] that rival those of animal nervous
-systems in complexity. The study of mycelial [[root-foraging-behavior]] reveals fungi as
+capabilities, and [[root-foraging-behavior]] reveals fungi as
 intelligent biological agents that optimize resource capture, allocate biomass
 strategically, and integrate information across large spatial scales through their
-[[mycelial-network-architecture]]. This perspective has transformed our understanding of fungal
-ecology and has implications for everything from forest management to computer
-network design.
-
-## Network Architecture
-
-Fungal mycelia grow as branching networks of hyphae that explore and colonize
-their environment. The branching pattern is not random — it follows mathematical
-rules that optimize coverage of space while minimizing the total length of
-connections. When a mycelium encounters a resource (organic matter, mineral
-nutrients), it responds by redirecting growth toward the resource, thickening
-the connecting hyphae, and establishing persistent [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]. Over time,
-the [[gadd-mycelial-network-dynamics]] develops differentiated structures: thin, rapidly growing
-exploratory hyphae at the colony margin for resource discovery, and thicker,
-more persistent cords, strands, or rhizomorphs for long-distance translocation
-between resource patches.
-
-The network architecture of cord-forming fungi such as Marasmius and
-Armillaria has been studied extensively using microcosm experiments and
-mathematical modeling. These studies reveal that [[fungal-mycelial-networks-nutrient-translocation]] can
+[[the-apoplastic-symplastic-and-transcellular-transport-pathways]]. Over time,
+the [[fungal-mycelial-networks-nutrient-translocation]] can
 reorganize themselves in response to changing resource distributions —
 strengthening connections to productive patches and abandoning connections to
 depleted ones — in a manner analogous to the adaptive optimization observed in
@@ -45,8 +26,7 @@ One of the most remarkable capabilities of mycelial networks is the ability to
 translocate materials — carbon, nitrogen, phosphorus, water, and even heavy
 metals — over distances of centimeters to meters. This translocation occurs
 through cytoplasmic streaming within hyphae, bulk flow through hollow cords, and
-osmotic gradients along concentration differentials. The [[brassinosteroid-physiological-mechanisms-cell-elongation-division]]
-include both passive diffusion and [[diffusion-osmosis-and-active-transport-in-plants]] processes that require
+osmotic gradients along concentration differentials. The [[diffusion-osmosis-and-active-transport-in-plants]] processes that require
 metabolic energy.
 
 Resource translocation enables several ecologically important functions. Carbon
@@ -60,13 +40,7 @@ moisture conditions.
 
 ## Decision-Making and Learning
 
-Experiments with saprotrophic fungi (particularly [[physarum-polycephalum]], a
-slime mold, and cord-forming basidiomycetes) have demonstrated that mycelial
-networks can "solve" spatial optimization problems. In classic experiments,
-Physarum placed in a maze with food at two exits reorganizes its network to find
-the shortest path between the food sources, abandoning longer connections. When
-food sources are distributed across a landscape at varying distances, the fungus
-allocates biomass to create an efficient [[mycelial-nutrient-transport-network-dynamics-gadd]] that balances path
+Experiments with saprotrophic fungi (particularly [[mycelial-nutrient-transport-network-dynamics-gadd]] that balances path
 length against reliability, just as human engineers design transportation
 grids.
 
@@ -88,3 +62,88 @@ several ecological consequences. Carbon fixed in one location can be redistribut
 through the network, supporting fungal growth and decomposition activity in areas
 where local carbon supplies are insufficient. This resource sharing can buffer the
 effects of spatial heterogeneity in resource distribution, enabling fungi to
+
+## Overview
+
+Mycelial Foraging Resource Allocation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycelial foraging resource allocation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycelial extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycelial Foraging Resource Allocation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycelial foraging resource allocation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycelial foraging resource allocation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycelial Foraging Resource Allocation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycelial foraging resource allocation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fungal-mycelial-networks-nutrient-translocation]]
+- [[mycelial-colonization]]
+- [[mycelial-growth-promotion]]
+- [[mycelial-network-communication]]
+- [[mycelial-nutrient-translocation-networks]]

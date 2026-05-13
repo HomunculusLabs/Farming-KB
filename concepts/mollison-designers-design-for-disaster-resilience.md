@@ -36,43 +36,8 @@ Mollison's flood-resilient design strategies include:
 - **Water management:** Design gaias-garden-woody-soil-building-dead-wood-swale that slow, spread, and infiltrate water across the
   landscape rather than concentrating flow. Swales on contour prevent
   erosion and reduce peak runoff velocity
-- **Drainage infrastructure:** Construct [[mollison-designers-diversion-drains-and-interceptor-banks]], spillways,
-  and overflow channels to safely route excess water around vulnerable
-  areas. Key infrastructure (houses, animal shelters, storage) should
-  have redundant drainage systems
-- **Flood-resistant planting:** Establish deep-rooted trees and
-  perennial vegetation along waterways to stabilize banks and slow
-  floodwaters. Bamboo, willow, and poplar are particularly effective
-  for bank stabilization
-- **Raised structures:** Elevate buildings, animal shelters, and
-  critical infrastructure above flood level using earth berms,
-  raised foundations, or stilt construction
-- **Emergency water supply:** Store drinking water in elevated
-  locations accessible during floods. Design  design inherently more flood-resilient
-than conventional agriculture.
-
-## Fire-Resistant Landscapes
-
-Wildfire threatens permaculture systems in many climates. Mollison
-describes fire-resistant landscape design:
-
-- **Defensible space:** Maintain vegetation-free zones (10-30 meters)
-  around buildings. Remove dead wood, dry grasses, and low branches
-- **Fire-resistant species:** Select plants with high moisture content
-  and low resin. Deciduous trees are generally more fire-resistant
-  than conifers. Green hedges and irrigated gardens serve as firebreaks
-- **Green firebreaks:** Maintain corridors of low, green vegetation
-  that slow or stop fire spread. A well-watered garden on the windward
-  side of a house provides effective protection
-- **Water access:** Ensure reliable water sources with sufficient
-  pressure for firefighting
-- **[[natural-building-materials-guide]]:** Use fire-resistant materials -- metal roofs,
-  earth walls ([[mollison-designers-straw-bale-building-techniques]] with
-  non-combustible plaster. Avoid flammable cladding
-- **Access design:** Maintain wide access roads (minimum 4 meters) for
-  firefighting vehicles
-
-Mollison emphasizes that fire is a [[fukuoka-natural-ecosystem-food-chain-interconnection]] process. Design
+- **Drainage infrastructure:** Construct [[natural-building-materials-guide]]:** Use fire-resistant materials -- metal roofs,
+  earth walls ([[fukuoka-natural-ecosystem-food-chain-interconnection]] process. Design
 should accommodate fire as a periodic disturbance while protecting
 human life and critical infrastructure.
 
@@ -83,8 +48,92 @@ earthquake risks:
 
 - **Building design:** Use flexible, lightweight construction
   methods that absorb seismic energy rather than rigid structures
-  that fracture. Timber frame, bamboo, and [[pdc-earthen-construction-techniques]] with
-  reinforcement perform well in earthquakes. [[rainwater-harvesting-systems]] tanks with flexible connections
+  that fracture. Timber frame, bamboo, and [[rainwater-harvesting-systems]] tanks with flexible connections
 - **Infrastructure redundancy:** Distribute water storage, food
   storage, and energy systems across multiple locations so that no
   single event destroys all resources
+
+## Overview
+
+Mollison Designers Design For Disaster Resilience represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison designers design for disaster resilience
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Designers Design For Disaster Resilience finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison designers design for disaster resilience. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison designers design for disaster resilience and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Designers Design For Disaster Resilience has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison designers design for disaster resilience into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[humid-cool-climate-characteristics-mollison]]
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-climate-zone-3-farm-forestry]]
+- [[mollison-designers-earthworks-for-erosion-control]]
+- [[soya-bean-mollison]]

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Echium fastuosum (syn. *Echium candicans*), commonly known as pride of Madeira, is a tall, evergreen subshrub in the Boraginaceae family, native to the island of Madeira. In permaculture design, it is specifically recommended by Bill Mollison as a low-shrub component in compound windbreak systems for coastal and exposed sites. Its rapid growth, drought tolerance, and dense flowering habit make it valuable for both wind protection and beneficial insect attraction in integrated shelterbelt designs.
+Echium fastuosum (syn. *[[echium-candicans]]*), commonly known as pride of Madeira, is a tall, evergreen subshrub in the Boraginaceae family, native to the island of Madeira. In permaculture design, it is specifically recommended by Bill Mollison as a low-shrub component in compound windbreak systems for coastal and exposed sites. Its rapid growth, drought tolerance, and dense flowering habit make it valuable for both wind protection and beneficial insect attraction in integrated shelterbelt designs.
 
 ## Classification
 
@@ -39,7 +39,7 @@ Echium fastuosum fills an important niche in multi-tiered windbreak systems:
 
 - **Windbreak mid-layer**: Provides intermediate-height wind filtering between ground covers and tall trees, creating a graduated wind profile that lifts wind smoothly over protected areas rather than creating turbulent eddies.
 - **Pollinator enhancement**: The abundant nectar production supports honeybee populations that improve pollination in adjacent orchards. Mollison notes that bee-pollinated crops show "much greater fruit or seed set" when sheltered by well-designed windbreak systems.
-- **Integrated pest management**: By attracting predatory insects (hoverflies, lacewings), it supports biological control of crop pests within the windbreak zone.
+- **[[integrated-pest-management]]**: By attracting predatory insects (hoverflies, lacewings), it supports biological control of crop pests within the windbreak zone.
 - **Soil stabilization**: The root system helps bind coastal soils and prevent erosion, working in concert with ground covers to protect the soil surface.
 - **Biomass production**: Regular pruning of spent flower spikes and leggy growth generates material for composting or direct mulch application to crop trees.
 - **Fire resistance**: Relatively low flammability compared to many Mediterranean shrubs; the fleshy foliage contains moisture that resists ignition.
@@ -75,8 +75,6 @@ Echium fastuosum fills an important niche in multi-tiered windbreak systems:
 - Understanding enables better design decisions
 
 ## See Also
-- [[echium-candicans]]
 - [[echium-plantagineum]]
-- [[echium-wildpretii]]
 - [[echium-vulgare]]
 - [[echium-pininana]]

@@ -1,41 +1,13 @@
 ---
 title: "Fukuoka on Nature's Fundamental Perfection"
-aliases: [[fukuoka-nature-as-teacher]] perfection and imperfection imperfection, Darwin critique, natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] nature]
+aliases: fukuoka-do-nothing-farming-philosophy-and-practice nature]
 tags: [natural-farming, philosophy, ecology, fukuoka, nature-study]
 source: masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
 # Nature's Fundamental Perfection
 
-[[masanobu-fukuoka]]'s philosophical framework rests on a radical assertion:
-**nature is always and absolutely perfect**. This is not a sentimental
-claim about beauty but an ontological statement about reality itself. In
-"The Road Back to Nature," Fukuoka develops this idea as the foundation
-for all of his farming practice and his broader critique of civilization.
-
-## The Immutability of Nature
-
-Fukuoka states that nature does not advance or retreat in any meaningful
-sense. While the external form changes over time, nature itself is
-immutable and unmoving. There is no superior or inferior in God and
-nature because the opposite states of perfection and imperfection do not
-exist.
-
-Viewed scientifically and myopically, nature may appear to move from
-simple to complex, from imperfection toward perfection — this is what
-Darwin's theory of evolution implies. But Fukuoka insists this describes
-only outward form, not the true state of nature.
-
-The scientist who breaks nature into parts examines something dead — a
-fragmented remnant that no longer functions as nature. The analytical
-method, no matter how rational, leads to wrong conclusions because it
-begins with misconceptions about reality itself.
-
-## Discriminating vs. Non-Discriminating Knowledge
-
-Fukuoka draws on Buddhist philosophy for his epistemology. Knowledge
-that splits apart self and object is "discriminating knowledge" — the
-domain [[fukuoka-road-critique-of-modern-science]]. Knowledge that treats self and object as a
+[[fukuoka-road-critique-of-modern-science]]. Knowledge that treats self and object as a
 unified whole is "non-discriminating knowledge" — the highest wisdom.
 
 The "discriminating adult" is inferior to the "non-discriminating
@@ -66,21 +38,7 @@ between primitive existence and truly natural conditions. The Bushman
 himself appeared fine — his bright, cheerful face suggesting a natural
 man immersed in joy. But his environment was barren and scarce.
 
-If the Bushman practiced [[cho-loess-powder-in-natural-farming]], Fukuoka reasoned, there would
-be far greater abundance around him. His existence appeared natural but
-was not — the balance of people, animals, and plants with nature had
-been destroyed. A hunter-gatherer in a degraded landscape is not
-experiencing natural farming but surviving in the wreckage of what was
-once a thriving ecosystem.
-
-## Critique of Darwinian Evolution
-
-Fukuoka directly challenges Darwin's theory as a fundamental
-misunderstanding. Where Darwin saw progressive development from simple
-to complex forms, Fukuoka sees only changes in outward appearance. The
-underlying reality remains constant and perfect.
-
-He offers evidence from his fields: [[fukuoka-insects-create-new-rice-varieties]] new rice varieties.
+If the Bushman practiced [[fukuoka-insects-create-new-rice-varieties]] new rice varieties.
 This might support the idea of random creation and increasing abundance,
 but Fukuoka interprets it as evidence of nature's inherent capacity for
 thriving — not a progression from imperfection.
@@ -118,8 +76,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[acacia]]
-- [[natural-farming]]
 - [[fukuoka-nature-no-cause-and-effect]]
 - [[fukuoka-incomprehensibility-and-inviolability-of-nature]]

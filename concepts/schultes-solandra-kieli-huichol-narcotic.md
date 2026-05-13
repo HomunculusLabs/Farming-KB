@@ -12,67 +12,16 @@ type: concept
 
 The Huichol Indians of Mexico worship and fear Solandra as a
 god-narcotic, *Kieli*, a powerful aid in sorcery. Realizing the close
-relationship of Solandra to [[plants-of-the-gods-brugmansia-angels-trumpet]], the Huichol
-sometimes combine their use: they distinguish between *[[schultes-mandrake-mandragora-officinarum]].
+relationship of Solandra to [[schultes-mandrake-mandragora-officinarum]].
 Two species are known to be employed for psychoactive purposes:
 
 - *Solandra brevicalyx* Standl.: known among Huichol and other
   Chol and Nahua tribes as an intoxicant plant of considerable
-  [[ethnomycology-cultural-significance-sacred-fungi]].
-
-- *Solandra guerrerensis*: used as an intoxicant in the state of
-  Guerrero, Mexico. Mentioned by the colonial physician Hernandez as
-  *Tecomaxochitl* or *Hueipatl* of the Aztecs, indicating a
-  pre-Hispanic tradition of use extending back centuries.
-
-Both species are showy, erect, or scandent shrubs with thick elliptic
-leaves up to about 7 in. (18 cm) in length and with large,
-cream-colored or yellow, fragrant, funnel-form flowers up to 10 in.
-(25 cm) in length that open wide at maturity. Their spectacular floral
-displays make them easily identifiable in the field. The luxuriant
-climbing bush with showy flowers resembling those of Brugmansia is
-valued for its hallucinogenic properties in Mexico.
-
-## Methods of Preparation and Use
-
-A tea made from the juice of the branches of both *S. brevicalyx* and
-*S. guerrerensis* is known to be employed as an intoxicant. The
-preparation follows patterns common to solanaceous hallucinogens in
-[[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] practice: plant material is extracted in water to
+  [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] practice: plant material is extracted in water to
 produce a bitter liquid that is consumed in ceremonial contexts.
 
 The Huichol use of Solandra is embedded within a broader system of
-psychoactive plant employment that includes [[schultes-peyote-tracks-little-deer]],
-tobacco, and several species of Datura and Brugmansia. Each plant has
-its specific ceremonial context and spiritual associations, and the
-choice of which plant to employ depends on the purpose of the ritual,
-the experience of the practitioner, and the desired intensity of the
-visionary experience.
-
-## Chemistry
-
-The genus *Solandra*, as would be expected in view of its close
-relationship to Datura and Brugmansia, contains tropane alkaloids:
-hyoscyamine, scopolamine, nortropine, tropine, cuscohygrine, and
-other bases have been reported. These are the same active principles
-found throughout the Nightshade family, though the relative
-concentrations vary among species.
-
-Scopolamine is likely the primary hallucinogenic agent, as is the case
-with other solanaceous psychoactive plants. The tropane alkaloids
-produce effects including visual hallucinations, distortion of sensory
-perception, and a characteristic delirious state in which the user
-may lose contact with ordinary reality.
-
-## Aztec Antecedents
-
-The mention of Solandra (*Tecomaxochitl*, *Hueipatl*) by the
-sixteenth-century physician Francisco Hernandez places it among the
-sacred intoxicating plants of the Aztec pharmacopoeia. Hernandez's
-extensive documentation of Aztec ethnobotany provides invaluable
-evidence of a rich tradition of psychoactive plant use in
-pre-Columbian Mesoamerica that included not only well-known plants
-like teonanacatl ([[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]) and peyote but also numerous
+psychoactive plant employment that includes [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]) and peyote but also numerous
 solanaceous species.
 
 ## Cultural Significance
@@ -88,3 +37,88 @@ The distinction between "good Kieli" (Solandra) and "bad Kieli"
 the dose-response relationship and side-effect profiles of related
 psychoactive species. This folk taxonomic knowledge parallels modern
 pharmacological understanding, in which the ratio of scopolamine to
+
+## Overview
+
+Schultes Solandra Kieli Huichol Narcotic represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish schultes solandra kieli huichol narcotic
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving schultes extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Schultes Solandra Kieli Huichol Narcotic finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for schultes solandra kieli huichol narcotic. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+schultes solandra kieli huichol narcotic and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Schultes Solandra Kieli Huichol Narcotic has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of schultes solandra kieli huichol narcotic into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[richard-evans-schultes]]
+- [[richard-evans-schultes-updated]]
+- [[schultes-ergot-st-anthonys-fire]]
+- [[schultes-panaeolus-mushrooms-shamanic]]
+- [[schultes-psilocybe-little-flowers-gods]]

@@ -10,17 +10,12 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis and cannabinoids show promise for diabetes management through multiple mechanisms including blood sugar regulation, diabetic neuropathy relief, retinopathy prevention, and [[cancer-immune-modulation-mechanisms]]. The [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-chronic-pain]]
+Cannabis and cannabinoids show promise for diabetes management through multiple mechanisms including blood sugar regulation, diabetic neuropathy relief, retinopathy prevention, and [[cannabis-endocannabinoid-system]]
 - [[cannabis-neuroprotection]]
 
 ## Source
 
-Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Diabetes." North Atlantic Books.
-
-## Related
-
-- [[blesching-cannabis-neuropathic-pain]]
+Blesching, U. (2015). *The [[blesching-cannabis-neuropathic-pain]]
 ## Practical Applications
 
 Cannabis for Diabetes has a range of practical applications that make it relevant to
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[cannabis-for-diabetes-and-metabolic-syndrome]]
 - [[cannabis-for-viral-infections]]
 - [[query-how-to-choose-the-right-pot-size-for-cannabis]]

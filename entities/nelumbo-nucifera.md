@@ -13,78 +13,95 @@ sources:
   - Shen-Miller J (2002). "Long-living lotus: germination and soil irradiation of centuries-old fruits from a habitable lake." American Journal of Botany.
   - Mukherjee PK et al. (2009). "Studies on anti-inflammatory, analgesic and antipyretic properties of Nelumbo nucifera rhizome extract." Journal of Ethnopharmacology.
   - Sridhar KR, Bhat R (2007). "Aquatic macrophytes as sources of food and nutrition." Journal of Food Science and Technology.
-  - Tung YT et al. (2008). "Anti-inflammatory activities of [[permaculture-designers-manual-essential-oil-plants]] and its constituents from Calocedrus formosana leaf." Journal of Agricultural and Food Chemistry.
----
-
-# Nelumbo nucifera
-
-## Overview
-
-**Nelumbo nucifera**, commonly known as sacred lotus or Indian lotus, is an aquatic perennial
-plant in the family Nelumbonaceae. It is revered across South and East Asian cultures as a
-symbol of purity, spiritual awakening, and divine beauty.
-
-The species produces large pink-to-white fragrant flowers held above the water on stout stems,
-and nearly circular peltate leaves up to 80 cm in diameter. All parts of the plant are edible,
-and it has been cultivated for food, medicine, and ornamental purposes for over 3,000 years.
-
-Lotus seeds hold the record for the longest documented seed viability, with successful
-germination reported from fruits carbon-dated to approximately 1,300 years old.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- **Kingdom:** Plantae
-- **Order:** Proteales
-- **Family:** Nelumbonaceae
-- **Genus:** Nelumbo
-- **Species:** N. nucifera
-- **Authority:** Gaertn.
-
-**Synonyms:** Nelumbium speciosum (Willd.), Nymphaea nelumbo (L.)
-
-The plant grows from a branched, tuberous rhizome embedded in anaerobic mud at the bottom of
-shallow water bodies. Rhizomes are creamy-white, segmented, and can extend over 1 meter in
-length. They serve as the primary storage organ and [[hamilton-vegetative-propagation]] structure.
+  - Tung YT et al. (2008). "Anti-inflammatory activities of [[hamilton-vegetative-propagation]] structure.
 
 Leaves are peltate (petiole attached to the center rather than the margin), circular, and 30–80
 cm in diameter. Young leaves float flat on the water surface, while mature leaves are held
-40–150 cm above the surface on rigid, pubescent petioles. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is
-water-repellent due to a superhydrophobic wax coating known as the "lotus effect."
-
-Flowers are hermaphroditic, 15–25 cm in diameter, with 12–20 pink or white petals arranged
-in multiple whorls around a flat yellow receptacle. Flowers are thermogenic, maintaining
-temperatures 5–10°C above ambient during anthesis, which aids volatile emission for pollinator
-attraction. Each flower produces 15–25 nut-like seeds embedded in a flat, spongy receptacle.
-
-The plant exhibits structural adaptations for survival in stagnant, hypoxic aquatic
-environments, including aerenchyma tissue that channels oxygen from aerial leaves to submerged
-rhizomes.
-
-## Distribution and Habitat
-
-Nelumbo nucifera is native to tropical and subtropical Asia, with a natural range spanning
-from India and Sri Lanka eastward through southern China, Korea, and Japan, and southward
-to northern Australia. It has been widely introduced as an ornamental and food crop throughout
-the world's warm temperate and [[fukuoka-natural-farming-in-tropical-regions]].
+40–150 cm above the surface on rigid, pubescent petioles. The upper [[fukuoka-natural-farming-in-tropical-regions]].
 
 The species grows in shallow, still or slow-moving freshwater habitats including ponds,
 oxbow lakes, marshes, and the margins of rivers and reservoirs. It prefers water depths
 of 30–150 cm, full sun exposure, and nutrient-rich muddy substrates.
 
-Lotus thrives in warm conditions with an optimal [[mushroom-growing-temperature-and-moisture]] range of 25–35°C. Growth
-ceases below 15°C, and aerial parts die back in temperate winters, with the rhizome surviving
-dormant in the mud. The plant tolerates a wide pH range (5.5–8.0) and is tolerant of moderate
-water pollution.
+Lotus thrives in warm conditions with an optimal [[cervantes-seed-production-storage]] targets the large-seeded cultivars grown in
 
-## Cultivation and Uses
+## Overview
 
-**Cultivation:** Lotus is propagated vegetatively from rhizome segments containing at least
-two nodes, typically planted in spring when water temperatures exceed 18°C. In traditional
-Asian cultivation, rhizomes are planted in flooded paddies or constructed ponds at a spacing
-of 0.5–1.0 m. Flowering begins 60–90 days after planting and continues through summer.
+Nelumbo Nucifera represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Rhizome harvest occurs in autumn after foliage dieback. Commercial rhizome production is
-concentrated in China, Japan, and Korea, where cultivated varieties produce enlarged, straight
-rhizomes preferred for market. [[cervantes-seed-production-storage]] targets the large-seeded cultivars grown in
+## Key Characteristics
+
+Several defining characteristics distinguish nelumbo nucifera
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nelumbo extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nelumbo Nucifera finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nelumbo nucifera. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nelumbo nucifera and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nelumbo Nucifera has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nelumbo nucifera into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cocos-nucifera]]

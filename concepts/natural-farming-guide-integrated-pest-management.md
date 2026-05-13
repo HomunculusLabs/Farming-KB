@@ -10,21 +10,7 @@ tags: [natural-farming]
 
 # Integrated Pest Management
 
-In permaculture and [[natural-farming]], [[fungal-pest-control]] s, [[companion-planting]], strategic animal integration, and forest garden diversity keeps pests in balance.
-
-## Plant-Based Pest Control Strategies
-
-### Attracting Predators
-
-Plants provide food or shelter to friendly insects that eat pests. Dill, fennel, tansy, carrot, Queen Anne's lace, catnip, and daisy all attract [[parasitic-wasps-biological-pest-control]], bees, and friendly birds. In the Zone 1 garden, dill, fennel, and carrots are specifically left to go to seed to attract parasitic wasps. Yarrow provides ground cover that gives a home to [[hamilton-beneficial-insects-and-biological-pest-control]] has many herbal medicinal uses.
-
-### Sacrificial Plants (Trap Crops)
-
-These plants attract pests so they leave other crops alone. Care must be taken to avoid providing a hotel for pests. Some plants provide a nice home for pests to live in all winter, giving them even more opportunity to destroy crops in summer.
-
-### Pest-Repelling and Pest-Killing Plants
-
-Pyretheum Daisy (Chrysanthemum cinerariifolium) is one of the most important [[jeavons-natural-pest-control]] plants. The flowers prefer dry and somewhat sandy soils. To harvest for use as a [[jadam-natural-pesticide-institute-and-research]], wait for a warm, sunny day when the flowers have been open for a few days. Dry them by hanging upside down or removing the heads and drying in the sun. Store whole in a dark, airtight container. When ready to use, grind into a fine powder and dust or spray (mixed with water) on affected plants. Insects should die almost immediately, without harm to humans.
+In permaculture and [[fungal-pest-control]] s, [[parasitic-wasps-biological-pest-control]], bees, and friendly birds. In the Zone 1 garden, dill, fennel, and carrots are specifically left to go to seed to attract parasitic wasps. Yarrow provides ground cover that gives a home to [[jeavons-natural-pest-control]] plants. The flowers prefer dry and somewhat sandy soils. To harvest for use as a [[jadam-natural-pesticide-institute-and-research]], wait for a warm, sunny day when the flowers have been open for a few days. Dry them by hanging upside down or removing the heads and drying in the sun. Store whole in a dark, airtight container. When ready to use, grind into a fine powder and dust or spray (mixed with water) on affected plants. Insects should die almost immediately, without harm to humans.
 
 Neem is a sub-tropical evergreen tree that grows quickly, is tolerant to drought, and prefers well-drained soil. The entire tree has antifungal, antibacterial, sedative, and antiviral properties and is commonly used as a natural pesticide. Extracts have been used to make toothpaste, skin creams, sprays, and many other products.
 
@@ -88,3 +74,77 @@ Observation is key. Track what plants grow well together over time and what plan
 Diversity provides inherent pest resistance. When many species grow together in a forest-like pattern, pest outbreaks are naturally limited. If you have a bad year for vegetables, tree fruits, nuts, or other crops may still succeed. This approach yields more total food per area than monoculture, even though individual plants may not produce as much. The key advantage is that forest gardens require very little labor compared to conventional farms, which typically demand 80+ hours per week.
 
 ## Weed Management Without Chemicals
+
+## Overview
+
+Natural Farming Guide Integrated Pest Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish natural farming guide integrated pest management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving natural extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Natural Farming Guide Integrated Pest Management finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for natural farming guide integrated pest management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+natural farming guide integrated pest management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Natural Farming Guide Integrated Pest Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of natural farming guide integrated pest management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

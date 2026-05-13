@@ -10,14 +10,7 @@ tags: [darwin, phototropism, phototropin, coleoptile, plant-vision, light-sensin
 
 ## Overview
 
-In 1880, Charles Darwin and his son Francis published "The [[darwin-power-of-movement-in-plants]]
-in Plants," which contained a landmark series of experiments demonstrating that
-plants sense light direction through the tip of their shoots, not through
-general photosynthesis. These experiments, conducted over twenty years after
-"On the Origin of Species," established the foundation for understanding
-plant photoreception and remained influential for over a century. The Darwins
-proved that phototropism -- the bending of plants toward light -- requires
-[[chamovitz-ultraviolet-and-infrared-plant-light-perception]] at the shoot tip followed by signal transmission to the
+In 1880, Charles Darwin and his son Francis published "The [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] at the shoot tip followed by signal transmission to the
 bending region below.
 
 ## Historical Context
@@ -28,31 +21,7 @@ the final two decades of his life investigating plant behaviors including
 phototropism, gravitropism, and circumnutation. His contemporary, Julius von
 Sachs, had already established in 1864 that blue light is the primary color
 inducing phototropism in plants, while other colors had minimal effect on
-bending. However, the [[plant-photoreceptors-and-mechanism-of-light-perception]] detection -- which part of the plant
-sensed light and how this information was communicated -- remained unknown.
-
-## The Canary Grass Experiments
-
-The Darwins used canary grass (Phalaris canariensis) seedlings for their
-experiments. They grew plants in total darkness for several days to eliminate
-any pre-existing directional light cues, then exposed them to extremely dim
-gas lamp light from twelve feet (3.5 meters) away. The light was so dim that
-the experimenters "could not see the seedlings themselves, nor see a pencil
-line on paper." Despite this minimal stimulus, after only three hours the
-seedlings had visibly curved toward the light source.
-
-This result established two key facts: first, that plants can detect
-extraordinarily low light levels; and second, that the bending response
-occurred consistently at the same location on the seedling, approximately
-one inch (two centimeters) below the tip.
-
-## The Five-Treatment Experiment
-
-The core of Darwin's phototropism work was a five-treatment experiment
-designed to identify which part of the plant perceived light direction:
-
-1. **Untreated control** - The seedling was left intact and bent normally
-   toward the light, confirming that [[darwin-five-seedling-phototropism-experimental-conditions]] were conducive
+bending. However, the [[darwin-five-seedling-phototropism-experimental-conditions]] were conducive
    to phototropism.
 
 2. **Tip removed (decapitated)** - The seedling had its coleoptile tip
@@ -110,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[phototropism]]
 - [[phototropism-in-plants]]
-- [[plant-photoreception]]
 - [[phototropism-darwin-plant-light-sensing]]
 - [[det]]

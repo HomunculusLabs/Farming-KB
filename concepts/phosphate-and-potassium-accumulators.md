@@ -24,14 +24,11 @@ accumulator plants that specialize in accessing and concentrating these
 minerals provide a valuable biological tool for building soil fertility
 without relying on imported fertilizers.
 
-## The Challenge of [[calcium-accumulators-and-oak-leaves]]
-- [[knf-potassium-deficiency-and-excess]]
+## The Challenge of [[knf-potassium-deficiency-and-excess]]
 
-- [[dynamic-accumulators-overview]] covers the broader concept of
-  nutrient-concentrating plants.
-- Calcium [[calcium-accumulators-and-oak-leaves]] leaves describes another important
+- [[calcium-accumulators-and-oak-leaves]] leaves describes another important
   category of mineral-accumulating plants.
-- [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and [[coleman-cover-crop-rotation-and-soil-health]] strategies explains practical methods
+- [[coleman-cover-crop-rotation-and-soil-health]] strategies explains practical methods
   for incorporating accumulator plants into garden rotations.
 ## Practical Applications
 

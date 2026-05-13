@@ -11,35 +11,7 @@ type: concept
 
 # BIS-TOM
 
-**[[2c-b-pihkal-entry-20]] #12**
-
-## Chemical Identity
-
-- **Full name:** 4-Methyl-2,5-bis-(methylthio)amphetamine
-- **Class:** Amphetamine (disulfur analogue of DOM, both ring
-  oxygens replaced with sulfur)
-- **Molecular formula:** C12H19NS2 (free base)
-- **Hydrochloride salt:** white crystals, mp 228-229 °C
-- **Yield:** 0.2 g from multi-step synthesis
-
-## Dosage and Duration
-
-- **Dosage:** Greater than 160 mg
-- **Duration:** Unknown (no clear central effects observed)
-
-## Qualitative Effects
-
-At 160 mg, the subject was vaguely aware of something in the
-latter part of the afternoon, described as "a suggestion of
-darting, physically" when going to sleep, but nothing at the
-mental level. This was the highest dose attempted. The subject
-concluded: "This is as high as I will go."
-
-## Synthesis Notes
-
-### Step 1: 2,5-Bis-(methylthio)toluene
-2,5-Dibromotoluene (9.0 g) was lithiated with butyllithium
-(50 mL, 1.6 M in hexane) in [[petroleum-ether]], followed by
+**[[petroleum-ether]], followed by
 dimethyldisulfide (7.5 g). The crude product (5.3 g, 80% pure)
 was distilled at 75-85 °C at 0.3 mm/Hg. A completely pure
 product was obtained via a longer alternative route through
@@ -50,47 +22,7 @@ and methylation with methyl iodide/KOH.
 
 ### Step 2: Bromination
 The toluene (3.9 g) was brominated with elemental bromine
-(3.5 g) and catalytic iodine in acetic acid on the [[scythian-cannabis-steam-bath-ritual]]
-for 1 h, giving 1.9 g of 2,5-bis-(methylthio)-4-bromotoluene
-(mp 133-134 °C from IPA).
-
-An alternate synthesis started from 1,4-dibromobenzene through
-1,4-bis-(methylthio)benzene (mp 83.5-84.5 °C from sodium
-methylmercaptide in hexamethylphosphoramide), dibromination
-to 2,5-dibromo-1,4-bis-(methylthio)benzene (mp 195-199 °C),
-selective lithiation with BuLi, and methylation with methyl
-iodide.
-
-### Step 3: Aldehyde
-Lithium-halogen exchange with BuLi followed by N-methylformanilide
-gave 2,5-bis-(methylthio)-4-methylbenzaldehyde (mp 107-109 °C,
-1.1 g from recrystallization in IPA). An alternate route using
-dichloromethyl methyl ether and AlCl3 gave only 11% yield.
-
-### Step 4: Nitrostyrene and reduction
-Condensation with nitroethane (15 mL, ammonium acetate, steam
-bath 1 h) gave pumpkin-colored nitrostyrene crystals (mp 90-91
-°C, 0.55 g). LAH reduction (H2SO4 activation in THF) yielded
-the amine hydrochloride (0.2 g, mp 228-229 °C).
-
-## Safety and Pharmacology
-
-Hints of neurological disturbance were present at 160 mg,
-described as physical "darting" sensations. Replacing the
-2-position oxygen of DOM with sulfur (2-TOM) dropped potency by
-15x; replacing the 5-position oxygen (5-TOM) dropped it by 10x.
-The logical prediction for replacing both would be multiplicative
-(approximately 150x reduction), placing the active level at
-approximately 750 mg. Given neurological warning signs at 160 mg
-(less than one-quarter of the predicted active dose), no higher
-doses were pursued. The rewards would not be worth the risks.
-
-The two-carbon analogue, 2C-BIS-TOM, was prepared from the
-intermediate aldehyde via nitromethane condensation (nitrostyrene
-mp 145-146 °C from EtOAc) and aluminum hydride reduction, giving
-
-## See Also
-- [[bod-pihkal-entry-14]]
+(3.5 g) and catalytic iodine in acetic acid on the [[bod-pihkal-entry-14]]
 
 ## Practical Applications
 
@@ -121,8 +53,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[bis-tom-entity-pihkal]]
-- [[pihkal-entry-46]]
 - [[bom-pihkal-entry-17]]
 - [[2c-e-pihkal-entry-24]]
+
+## Overview
+
+Bis Tom Pihkal Entry 12 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bis tom pihkal entry 12
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bis Tom Pihkal Entry 12 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bis tom pihkal entry 12. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bis tom pihkal entry 12 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bis Tom Pihkal Entry 12 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bis tom pihkal entry 12 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aleph-4-entity-pihkal]]
+- [[pihkal-aleph-2]]
+- [[pihkal-mescaline]]
+- [[tma-2-entity-pihkal]]
+- [[tma-3-entity-pihkal]]

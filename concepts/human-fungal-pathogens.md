@@ -13,28 +13,9 @@ Every day of a person's life, fungal spores pass into the nostrils and lungs.
 These spores are ubiquitous in the environment — present in soil, on decaying
 plant matter, in the air, and on surfaces. Given the opportunity, some of these
 spores may germinate and turn human tissue into food. The immune system normally
-eliminates these invaders, but when it is compromised, [[blesching-cannabis-fungal-infections-candida]] can
-become devastating.
-
-## Histoplasmosis (Ohio Valley Disease)
-
-[[histoplasma-capsulatum]] is a dimorphic fungus found in soil enriched with
+eliminates these invaders, but when it is compromised, [[histoplasma-capsulatum]] is a dimorphic fungus found in soil enriched with
 bird and bat droppings, particularly in the Ohio and Mississippi River valleys
-of the [[dmt-containing-plants-united-states-halpern]]. Outbreaks of histoplasmosis have been associated with
-starling roosts and disturbance of contaminated soil during construction or
-cave exploration.
-
-The sexual stage of this pathogen is an ascospore-producing organism named
-Ajellomyces, discovered by June Kwon-Chung. Ordinarily, infection with
-Histoplasma produces few or no symptoms. When the fungus grows in the lungs,
-it becomes encapsulated in small calcified nodules. But should the immune
-system lose power, the pathogen can become extremely aggressive, spreading from
-the lungs to penetrate virtually any tissue in the body. Most residents of the
-Ohio Valley have been silently colonized by this species without ever knowing it.
-
-## Cryptococcosis
-
-[[cryptococcus-neoformans]] is a yeast-like fungus found worldwide in soil
+of the [[cryptococcus-neoformans]] is a yeast-like fungus found worldwide in soil
 contaminated with pigeon droppings. It causes cryptococcosis, a potentially
 fatal infection that primarily affects the lungs and central nervous system.
 The most severe form is cryptococcal meningitis, an inflammation of the
@@ -80,46 +61,90 @@ system without consequence.
 
 ## Candidiasis
 
-Candida species, particularly [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], are part of the normal human
-microbiota but can cause opportunistic infections when the balance of
-microorganisms is disrupted. Candidiasis ranges from superficial infections
-(oral thrush, vaginal yeast infections) to life-threatening systemic
-candidiasis in immunocompromised patients. In severe cases, Candidia can
-colonize the throat, nasal passages, and internal organs.
+Candida species, particularly [[doc]]
+- [[mycology]]
+- [[ergosterol]]
 
-## Diagnostic Challenges
+## Overview
+
+Human Fungal Pathogens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish human fungal pathogens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving human extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Human Fungal Pathogens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for human fungal pathogens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+human fungal pathogens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Human Fungal Pathogens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of human fungal pathogens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[doc]]
-- [[spore]]
-- [[mycology]]
-- [[dmt]]
-- [[ergosterol]]
+
+- [[human-eye-photoreceptor-analogy-plant-light-perception]]
+- [[human-vs-plant-photoreception-comparison]]
+- [[indole-hallucinogens-and-human-evolution]]
+- [[mckenna-diet-symbiosis-human-evolution]]

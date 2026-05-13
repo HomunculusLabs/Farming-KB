@@ -10,23 +10,7 @@ sources:
 
 # New Testament Names as Mushroom Cryptograms
 
-Allegro systematically decodes the names of New [[allegro-old-testament-figures-as-fertility-deities]] — apostles, disciples, and characters in the passion narrative — showing that they are not historical names but constructed mushroom cryptograms.
-
-## The Twelve Apostles
-
-The twelve apostles represent, in Allegro's reading, twelve aspects of the mushroom or twelve stages in its growth and consumption cycle. Their names, when decoded through Sumerian, all refer to the sacred fungus or its cultic use:
-
-### Simon Peter
-The most important apostolic name. Peter (Greek Petros, Aramaic Kêpha') means "rock," but derives from a Sumerian mushroom name meaning "erect, standing." Simon is connected to the Sumerian word for "penis." The "rock upon which I will build my church" (Matt 16:18) is the mushroom itself — the foundation of the cult.
-
-### James and John: Boanerges
-Jesus names James and John Boanerges, "Sons of Thunder" (Mark 3:17). Allegro reads this as a Sumerian mushroom name: the "sons" are the young mushrooms springing from the mycelium; the "thunder" is the storm-god whose voice calls them forth. Thunder and lightning are the god's ejaculation — the rain that causes the mushroom to fruit.
-
-### Judas Iscariot
-Iscariot derives from Ish-Kerioth ("man of Kerioth"), but Allegro connects it to Mezar (the "Egyptian mushroom") and the root m-s-r ("to betray, hand over"). Judas is the personification of the mushroom's betrayal by those who exposed and destroyed the cult.
-
-### Bartholomew
-The name Bartholomew (Aramaic Bar-Talmai, "son of Talmai") is connected to the Sumerian word for "mushroom mound" or "mushroom hill." The "son" prefix (bar) indicates the young [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]] from the mound.
+Allegro systematically decodes the names of New [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]] from the mound.
 
 ### Thomas (Didymus)
 Thomas means "twin" in Aramaic; Didymus is the Greek equivalent. The "twin" motif connects to the mushroom's hermaphroditic nature — it is simultaneously phallus and vulva, stem and cap, sperm and womb. Thomas the doubter, who needed to touch Jesus' wounds (John 20:24-29), personifies the initiate's need for direct experience of the mushroom.
@@ -43,83 +27,93 @@ The name Lazarus (Hebrew Eleazar, "God has helped") encodes a Sumerian mushroom 
 Barabbas (Aramaic Bar-Abbas, "son of the father") is the exact Aramaic equivalent of the mushroom phrase AB-BA-T-BA-RI. The crowd's choice of Barabbas over Jesus (Matt 27:15-26) is a word-play: both names encode the same mushroom, and the "choice" between them is a cryptographic device, not a historical event.
 
 ### Nicodemus
-Nicodemus, who came to Jesus "by night" (John 3:1-21), has a name that connects to the Greek nikos ("victory") and demos ("people") on the surface, but encodes a Sumerian mushroom name related to the "victory" of the fungus over death. The nocturnal visit reflects the [[african-mushroom-cult-history]]'s preference for nighttime ceremonies.
-
-### Joseph of Arimathea
-Arimathea connects to the Sumerian word for "mushroom mound" or "high place." Joseph's role in providing the tomb (Matt 27:57-60) — the mushroom's "womb" — is encoded in his name.
-
-## Women in the New Testament
-
-### Mary Magdalene
-Magdalene means "of Magdala" (a place name), but connects to the Sumerian word for "tower" or "elevated" — the mushroom's erect stem. Mary (Mariam) derives from Sumerian words for "womb." Mary Magdalene is thus "the womb of the elevated mushroom" — the volva from which the phallus emerges.
-
-### Martha and Mary
-The sisters Martha and Mary (Luke 10:38-42) encode two aspects of the mushroom: Martha ("lady, mistress," connected to the Sumerian word for "womb") is the volva; Mary is the stem/phallus. Jesus' declaration that "Mary has chosen the good portion" (Luke 10:42) privileges the phallic aspect.
-
-## The Pattern
-
-What emerges is a consistent pattern: no New Testament name is an ordinary personal name. Every name, when traced back through Aramaic to Sumerian, reveals a mushroom reference. This is not coincidence but deliberate cryptographic construction.
-
-## Scholarly Significance and Criticism
-
-Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
-
-## See Also
-
-- [[sacred-mushroom-and-the-cross]]
-- [[allegro-soma-and-vedic-traditions]]
+Nicodemus, who came to Jesus "by night" (John 3:1-21), has a name that connects to the Greek nikos ("victory") and demos ("people") on the surface, but encodes a Sumerian mushroom name related to the "victory" of the fungus over death. The nocturnal visit reflects the [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[sacred-mushroom-and-the-cross]]
 - [[allegro-biblical-references-to-mushrooms-and-fungi]]
-- [[sacred-mushroom-hypothesis]]
-## Practical Considerations
+- [[soma]]
+- [[allegro-plant-names-mushroom-mystery-cult-secrecy]]
+- [[allegro-key-kingdom-wordplay-new-testament-three-levels]]
 
-Successful implementation of New Testament Names as Mushroom Cryptograms (Allegro) requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
+## Overview
 
-## Future Directions
+Allegro New Testament Names As Mushroom Cryptograms represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+## Key Characteristics
+
+Several defining characteristics distinguish allegro new testament names as mushroom cryptograms
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving allegro extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Allegro New Testament Names As Mushroom Cryptograms finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for allegro new testament names as mushroom cryptograms. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+allegro new testament names as mushroom cryptograms and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Allegro New Testament Names As Mushroom Cryptograms has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of allegro new testament names as mushroom cryptograms into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[soma]]
-- [[mycelium]]
-- [[allegro-plant-names-mushroom-mystery-cult-secrecy]]
-- [[allegro-secret-mushroom-names-korkoron-balag-nomenclature]]
-- [[allegro-key-kingdom-wordplay-new-testament-three-levels]]
+
+- [[allegro-bible-morals-ten-commandments-mushroom-word-play]]
+- [[allegro-fungal-iconography-in-ancient-art]]
+- [[allegro-religion-prehistory-oral-tradition-etymology]]
+- [[allegro-the-sacred-mushroom-amanita-identification]]
+- [[allegro-word-play-and-secret-names-in-scripture]]

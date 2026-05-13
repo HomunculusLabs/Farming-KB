@@ -9,40 +9,11 @@ sources:
 ---
 # Cannabis Drug Interactions and Contraindications
 
-Understanding how cannabis interacts with pharmaceutical medications and when it should be avoided is essential for safe therapeutic use. The [[cannabis-health-index]] documents both the pharmacological basis for drug interactions and specific contraindications that patients and providers should know.
-
-## The Subjective Therapeutic Window
-
-The [[blesching-cannabis-health-index-autoimmune-conditions]] introduces the concept of the "subjective therapeutic window" -- the dose range at which [[cervantes-terpenoid-pharmacology-therapeutic-effects]] occur without [[adverse-effects-and-harm-reduction-psilocybin]]. This window is:
+Understanding how cannabis interacts with pharmaceutical medications and when it should be avoided is essential for safe therapeutic use. The [[blesching-cannabis-health-index-autoimmune-conditions]] introduces the concept of the "subjective therapeutic window" -- the dose range at which [[adverse-effects-and-harm-reduction-psilocybin]]. This window is:
 - **Highly individual**: What works for one person may be too much or too little for another
 - **Condition-dependent**: The optimal range differs for pain, anxiety, sleep, etc.
 - **Time-variable**: The window can shift with tolerance, stress, food intake, and other factors
-- **Narrow for some**: Particularly for anxiety, PTSD, and in [[cannabis-elderly-patients]]
-
-Exceeding the therapeutic window does not provide additional benefit and may produce adverse effects including increased anxiety, cognitive impairment, tachycardia, orthostatic hypotension, and sedation.
-
-## Pharmacokinetic Interactions (CYP450 Enzyme System)
-
-The most significant drug interaction mechanism involves the cytochrome P450 (CYP450) liver enzyme system, which metabolizes both cannabinoids and approximately 60% of all pharmaceutical medications.
-
-### THC and CYP450
-- **Inhibits CYP3A4**: This enzyme metabolizes many medications including benzodiazepines, some statins, calcium channel blockers, and certain antihistamines
-- **Inhibits CYP2C9**: Metabolizes warfarin, phenytoin, and NSAIDs
-- **Inhibits CYP2C19**: Metabolizes proton pump inhibitors (omeprazole), antidepressants, and benzodiazepines
-
-### CBD and CYP450
-- **Strong inhibitor of CYP3A4**: More potent than THC in inhibiting this enzyme
-- **Inhibits CYP2C19**: Similar to THC
-- **Inhibits CYP2D6**: Metabolizes many antidepressants, antipsychotics, and beta-blockers
-- **Inhibits CYP1A2**: Metabolizes caffeine, theophylline, and some antidepressants
-
-### Practical Implications
-When cannabis inhibits a CYP450 enzyme that metabolizes a pharmaceutical, the pharmaceutical's blood levels can rise, potentially causing toxicity or exaggerated effects. Conversely, if cannabis induces enzyme activity, pharmaceutical levels may drop below therapeutic range.
-
-## Specific Pharmaceutical Interactions
-
-### Blood Thinners (Anticoagulants)
-- **Warfarin (Coumadin)**: Both THC and CBD inhibit CYP2C9, which metabolizes warfarin. This can increase INR (blood [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]]) and bleeding risk. Close INR monitoring is essential.
+- **Narrow for some**: Particularly for anxiety, PTSD, and in [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]]) and bleeding risk. Close INR monitoring is essential.
 - **Clopidogrel**: CBD may interfere with activation of this antiplatelet drug.
 
 ### Sedatives and CNS Depressants
@@ -118,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[caffeine]]
 - [[serotonin]]
 - [[ayahuasca-pharmacology-and-drug-interactions]]

@@ -24,29 +24,7 @@ Vines can inhibit growth of supporting trees by reducing sunlight. To overcome t
 
 - **Purple Passionfruit (P. edulis)** -- Native to Brazil. Subtropical, densely growing, evergreen. Prefers moist, well-drained, fertile, neutral to slightly alkaline soil. Withstands occasional light frosts. Often two crops per year; in warm conditions seasons extend into year-round fruiting. Eaten raw, juiced, bottled, into sauces, cakes, jellies. Seeds yield edible oil comparable to sunflower and soybean oil (12% protein, 50% fibre). Juice used medicinally as digestive stimulant.
 
-- **Yellow Passionfruit (P. edulis var. flavicarpa)** -- Slightly less cold-tolerant but resists Fusarium wilt and nematodes. Does better climbing a tall tree rather than trellis. Tall acacias recommended as support, adding [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] and long-term timber functions. More juice to pulp than purple.
-
-- **Banana Passionfruit (P. mollissima)** -- Native to the Andes (1800-3200 m). Straggly, rampant vine that can climb to cover trees. Cold tolerant to -2 C. Best-tasting juice of all passionfruit in the Andes. Made into highly prized wine and liqueur (crema de curuba).
-
-- **Maypop (P. incarnata)** -- Most cold-tolerant species, native to southeastern USA. Dies back to ground in winter, shoots new growth in spring. Disturbed roots send out new shoots. Fruit eaten raw, into jellies, jams, fruit salads, wine. Leaves eaten raw in salads and cooked as green. Flowers made into syrup and eaten as vegetable. Passiflorine extracted as sedative/tranquilliser.
-
-- **Sweet Granadilla (P. ligularis)** -- Native to central Mexico through western South America. Vigorous climber capable of shading and killing understorey. Can climb tallest trees. Orange-yellow fruit with translucent perfumed pulp comparable to purple passionfruit. Withstands light frosts, not extended below -1 C.
-
-- **Giant Granadilla (P. quadrangularis)** -- Native to tropical America. Fast-growing vine climbing trees up to 45 m. Largest passionfruit: up to 15 cm wide, 30 cm long. Melon-like, pleasantly aromatic but bland -- requires lime or lemon juice. Unripe fruits used in soups, steamed and boiled with butter, nutmeg, and pepper. Roots of old vines eaten roasted or baked like yams.
-
-- **Blue Crown Passionflower (P. caerulea)** -- Vigorous, hardy, native to south Brazil and Argentina. Small, edible, flavoursome fruits with little juice. Used as rootstock for grafted purple passionfruit, but root suckers often escape and become nuisance.
-
-- **Columbian Passionfruit (P. antioquiensis)** -- Similar to curuba but with red flower. Less cold-tolerant but juicier and better eating quality. Thick skin can make pulp extraction difficult.
-
-- **Herbert River Passionfruit (P. herbertiana)** -- Native to northern Queensland. Unusual burnt flavour not enjoyed by all. Light frost tolerance. Difficult to germinate.
-
-### Propagation
-
-All passionfruit can be grown from seed (fresh seed gives best results). Passing seed through digestive tract of animal (duck or human) aids germination. Hydrochloric acid treatment also gives results. Some grafted cultivars available but rootstock can become problematic (see P. caerulea). Most species also propagated from cuttings.
-
-### Medicinal Uses of Passionfruit
-
-- **P. edulis** -- Juice used as digestive stimulant and treatment for [[lentinan-gastric-cancer-combination-therapy]]. Unripe fruit contain cyanogenic glycosides requiring caution.
+- **Yellow Passionfruit (P. edulis var. flavicarpa)** -- Slightly less cold-tolerant but resists Fusarium wilt and nematodes. Does better climbing a tall tree rather than trellis. Tall acacias recommended as support, adding [[lentinan-gastric-cancer-combination-therapy]]. Unripe fruit contain cyanogenic glycosides requiring caution.
 - **P. incarnata** -- Passiflorine extracted as pharmaceutical sedative and tranquilliser.
 - **P. quadrangularis** -- Pulp contains passiflorine (lethargy and drowsiness in large doses). Used as preventative for scurvy and as stomachic. Flesh used as sedative for headache, asthma, diarrhoea, insomnia. Seeds are cardiotonic. Leaf decoction is vermifuge and used for bathing skin problems. Root used as vermifuge, emetic, and diuretic.
 
@@ -56,31 +34,91 @@ All passionfruit can be grown from seed (fresh seed gives best results). Passing
 Family: Convolvulaceae. Tropical trailing herb found in muddy streams, freshwater ponds, and marshes. Annual yields up to 90,000 kg/ha. Protein 1.9-4.6%, rich in vitamins A, C, E, iron, and minerals. One of the most productive leaf vegetables known (up to 60 t/ha). Young leaves and shoots boiled or cooked in oil. Cold sensitive, usually grown as annual in cooler climates.
 
 ### Mulberry as Vine Support
-Mulberries are noted as good companion plants for grapes, and the tree itself can form a trellis structure. This illustrates the permaculture principle of [[gaias-garden-stacking-functions-detailed]] -- the mulberry provides fruit, fodder, and structural support simultaneously.
+Mulberries are noted as good companion plants for grapes, and the tree itself can form a trellis structure. This illustrates the permaculture principle of [[permaculture-plants-bamboo-varieties-uses]]
 
-## Vine Support Strategies
-
-- **Living trellis**: Use nitrogen-fixing trees (acacias) as support for passionfruit vines, adding multiple functions
-- **Tree clumps**: Plant vines among groups of trees so no single tree is over-shaded
-- **Fencing**: Vines can be trained along fences as productive boundary plantings
-- **Dense planting with management**: Prune vines to prevent them from smothering support trees
-
-## Vine Species for Different Climates
-
-| Species | Cold Tolerance | Climate Range | Fruit Size | Key Feature |
-|---------|---------------|---------------|------------|-------------|
-| P. incarnata (maypop) | Dies back, reshoots | SE USA | Small | Most cold-tolerant; medicinal sedative |
-| P. mollissima (banana) | To -2 C | Andean highlands 1800-3200 m | Long, elliptical | Best-tasting juice in Andes |
-| P. edulis (purple) | Light frosts | Subtropical Brazil | Medium | Best known; two crops/year possible |
-| P. edulis var. flavicarpa | Less cold | Tropical | Medium | Resists Fusarium wilt and nematodes |
-| P. ligularis (sweet granadilla) | Light frosts, not below -1 C | Central Mexico to S. America | Orange-yellow | Perfumed pulp |
-| P. caerulea (blue crown) | Hardy | South Brazil, Argentina | Small | Hardy rootstock; nuisance suckers |
-| P. quadrangularis (giant) | None | Tropical America | Up to 30 cm long | Largest fruit; edible roots |
-| P. antioquiensis | Moderate | Colombia | Medium-thick skin | Juiciest, best eating quality |
-
-## Integration with Bee Forage Systems
-
-Many climbing plants provide nectar and pollen for bees. Passionfruit flowers are visited by pollinators, and vine support trees ([[permaculture-plants-bamboo-varieties-uses]]
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[permaculture-design]]
+
+## Overview
+
+Permaculture Plants Climbers And Vines represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture plants climbers and vines
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Plants Climbers And Vines finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture plants climbers and vines. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture plants climbers and vines and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Plants Climbers And Vines has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture plants climbers and vines into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holzer-permaculture-landscape-design]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-methods-summary]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-designers-manual-wildlife-corridors]]

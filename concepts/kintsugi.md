@@ -28,41 +28,7 @@ It is durable, glossy, adhesive, and resistant to water when properly cured.
 Raw urushi can irritate skin because it contains urushiol compounds.
 Craftspeople handle it carefully and allow repaired objects to cure in a humid cabinet.
 Gold powder is the iconic surface material, but silver, brass, tin, or colored powders may be used.
-[[jadam-red-clay-powder-method]], wood powder, and other fillers can thicken lacquer for different repair stages.
-The ceramic object may be porcelain, stoneware, earthenware, or raku ware.
-The best material choice depends on the object's value, intended use, break pattern, and ceramic body.
-Modern hobby kits sometimes substitute epoxy and metallic pigments.
-Those substitutes can imitate the appearance but are not the same craft materially or historically.
-
-## Basic process
-The fragments are first examined to understand the break sequence.
-Edges are cleaned without removing important material.
-A lacquer adhesive is prepared and applied thinly to the fracture surfaces.
-The pieces are aligned and held until the joint sets.
-Missing chips may be filled with lacquer putty.
-After curing, excess material is trimmed or polished away.
-Several layers may be added to refine the seam profile.
-A final lacquer layer is applied where the metallic powder will adhere.
-Gold or other powder is brushed onto the tacky surface.
-The object then cures again under controlled humidity.
-Final polishing adjusts the sheen and line quality.
-A complex repair can take weeks or months because each lacquer layer needs time.
-
-## Aesthetic principles
-Kintsugi is often linked to wabi-sabi.
-Wabi-sabi values transience, modesty, weathering, asymmetry, and the beauty of incomplete things.
-The repaired ceramic does not pretend to be new.
-Instead, it displays the event of damage and the labor of repair.
-This visibility can create a stronger emotional bond between owner and object.
-The gold seams may contrast sharply with muted clay or glaze.
-The repair can therefore intensify attention rather than minimize it.
-The line of a crack becomes a compositional element.
-Some repairs are quiet and restrained.
-Others are bold, branching, and almost cartographic.
-The aesthetic power lies in the tension between fragility and renewed usefulness.
-
-## History 
-Kintsugi is commonly associated with the Mukombucha-brewing-and-fermented-tea-cultur [[query-how-does-kombucha-brewing-work]] and [[kombucha-and-fermented-teas-guide]] culture e rise of [[kombucha-brewing]].
+[[query-how-does-kombucha-brewing-work]] and [[kombucha-brewing]].
 One often repeated story concerns shogun Ashikaga Yoshimasa and a damaged Chinese tea bowl.
 According to the story, unsatisfactory metal staple repairs encouraged Japanese artisans to develop a more refined method.
 The historical details are difficult to verify, but the tale captures a real cultural shift.
@@ -118,5 +84,4 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]

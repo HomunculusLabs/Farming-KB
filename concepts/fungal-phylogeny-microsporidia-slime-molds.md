@@ -10,36 +10,7 @@ sources: []
 
 Molecular phylogenetics has revolutionized understanding of fungal
 evolutionary relationships, revealing surprising connections and
-redefining the boundaries of [[fungal-taxonomy-and-kingdom-fungi]]. Key discoveries include the
-Fungi-Microsporidia link and the phylogenetic placement of slime molds.
-
-## The Fungi-Microsporidia Connection
-
-One of the most significant phylogenetic discoveries in recent
-mycology is the evolutionary link between Fungi and Microsporidia:
-
-- **Microsporidia** are obligate intracellular parasites long
-  considered protozoa
-- Molecular phylogenetic analyses have shown that Microsporidia are
-  actually highly derived fungi
-- They represent a fungal lineage that has undergone extreme adaptation
-  to parasitism
-- Their highly reduced genomes and loss of mitochondria initially
-  obscured their fungal affinities
-- This reclassification has implications for treating microsporidian
-  infections using antifungal rather than antiprotozoal drugs
-
-## Slime Mold Phylogeny
-
-The phylogenetic position of slime molds has been clarified by
-molecular data:
-
-### Dictyostelid and Plasmodial Slime Molds
-
-Molecular analyses group dictyostelid (cellular) slime molds and
-plasmodial (true) slime molds together, supporting their traditional
-grouping in the now-obsolete phylum Myxomycota. These organisms show
-both fungal-like ([[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]]) and animal-like (amoeboid movement)
+redefining the boundaries of [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]]) and animal-like (amoeboid movement)
 characteristics.
 
 ### Acrasid Slime Molds
@@ -53,16 +24,7 @@ social behavior in eukaryotes.
 
 The slime molds are now understood to be outside Kingdom Fungi,
 belonging to separate eukaryotic lineages (Amoebozoa). However, their
-[[ecological-roles-fungi-ecosystems]] and morphological similarities to fungi have
-historically linked them in mycological study.
-
-## Phylogenetic Methods
-
-### Molecular Markers
-
-Standard molecular markers for fungal phylogeny include:
-
-- [[ribosomal-rna-sequencing-yeast-identification]] genes (SSU, LSU, ITS) -- the primary barcoding regions
+[[ribosomal-rna-sequencing-yeast-identification]] genes (SSU, LSU, ITS) -- the primary barcoding regions
 - Protein-coding genes (EF-1&, RPB1, RPB2, &-tubulin) -- for
   resolving deeper nodes
 - Mitochondrial genes -- for population-level and species-level studies
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[slime-molds]]
 - [[dom]]
-- [[soma]]
 - [[spore]]
 - [[mycology]]

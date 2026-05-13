@@ -140,10 +140,7 @@ The first watering or rain after tilling begins a compaction cycle that continue
 Tilling also resets the soil food web toward bacterial dominance. With fungal hyphae destroyed, bacteria recolonize faster than fungi can regrow. This is beneficial in the short term for vegetables and row crops that prefer bacterial soils, but it is a long-term loss for soil health. For perennial plantings, the book strongly recommends no-till approaches, using mulch layers and compost applications on the soil surface to build biology without disturbance.
 
 ## See Also
-- [[hamilton-composting-and-organic-matter-management]]
 - [[beneficial-insects-pollinators]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[cannabis-living-soil-guide]]
-- [[sheet-mulching]]
 - [[companion-planting-with-fungi]]
 - [[sphagnum-palustre]]

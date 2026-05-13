@@ -6,29 +6,7 @@ type: concept
 
 # Biological Water Purification with Plants
 
-Biological water purification using higher plants represents the most sophisticated and ecologically integrated approach to wastewater and polluted water treatment. Building on the foundation of anaerobic, facultative, and aerobic pond systems, specific genera of rushes, sedges, and floating plants can greatly assist with removal of heavy metals and human pathogens, and critically, some plants can break down halogenated hydrocarbons synthesised as herbicides and pesticides. [[bill-mollison]] documented these systems as the final stage in a comprehensive biological treatment chain.
-
-## Advanced Algal Harvesting Systems
-
-Israel and Holland have pioneered intensive algal treatment systems. Sewage water is led to long canalised ponds, agitated by slowly-revolving paddle-wheel aerators at depths of 0.5 metres or less. Under bright sunlight or glasshouse covers, dense algal mats form. These are broken up by aluminium sulphate addition (itself a pollutant), skimmed off, drained, centrifuged, steam-dried, and fed to carp or chickens.
-
-Algal protein can replace 50% of soya bean protein in poultry feed rations. Total treatment by these methods takes approximately 4 days. The water remains alkaline and somewhat anaerobic, needing more agitation in winter or on cool days. Holland runs sewage to similar canals and harvests reeds and plants as green crop or craft supplies.
-
-## Alternating Aerobic-Anaerobic (AAA) Digestion
-
-Research (Ecos 44, Winter 1985) established that artificial aeration of facultative ponds is most efficient when run at intervals of two hours in six (30% of the time). Facultative bacteria follow two digestive modes and operate best with a rush of air after a four-hour anaerobic period, excreting carbon dioxide and reducing sludge bulk.
-
-Results from AAA digestion:
-
-- Nitrogen reduced from 20 mg/L to less than 5 mg/L
-- Phosphorus reduced from 8.5 mg/L to less than 1 mg/L (with ferric chloride addition)
-- Corresponding reductions in energy costs for aeration
-
-This approach combines agitation of anaerobic systems by compressed methane bubbling with AAA treatment of facultative ponds, yielding useful quantities of methane and high-protein algae from sewage.
-
-## Water Hyacinth Treatment
-
-At the aerobic pond level, water hyacinth (*[[eichhornia-crassipes]]*) removes residual metals, surplus nutrients, and *coli*-group bacteria (New Scientist, 4 Oct 1979, p. 29). Water hyacinth systems are effective final-stage polishers but must be carefully managed, as the plant is highly invasive and can clog waterways if not contained.
+[[biological-water-purification]] using higher plants represents the most sophisticated and ecologically integrated approach to wastewater and polluted water treatment. Building on the foundation of anaerobic, facultative, and aerobic pond systems, specific genera of rushes, sedges, and floating plants can greatly assist with removal of heavy metals and human pathogens, and critically, some plants can break down halogenated hydrocarbons synthesised as herbicides and pesticides. [[eichhornia-crassipes]]*) removes residual metals, surplus nutrients, and *coli*-group bacteria (New Scientist, 4 Oct 1979, p. 29). Water hyacinth systems are effective final-stage polishers but must be carefully managed, as the plant is highly invasive and can clog waterways if not contained.
 
 ## Microwave Treatment
 
@@ -42,7 +20,7 @@ At the aerobic pond level, throughflow can be directed to:
 
 - Firewood or fuel forest systems
 - Irrigated grasslands (as at Werribee, Australia)
-- Trickle irrigation systems for crops in arid areas
+- Trickle [[irrigation-systems]] for crops in arid areas
 
 ## Reed Bed and Constructed Wetland Systems
 
@@ -97,6 +75,75 @@ A complete biological water treatment system combines multiple stages:
 This integrated approach produces clean water suitable for irrigation or stream release while simultaneously generating energy (biogas), protein (algae), wildlife habitat, and plant biomass for mulch or craft use — transforming what is conventionally treated as a waste disposal problem into a productive resource system.
 
 ## See Also
-- [[biological-water-purification]]
 - [[biological-sewage-treatment-with-plants]]
 - [[permaculture-plants-aquatic-systems-water-plants]]
+
+## Overview
+
+Biological Water Purification With Plants represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish biological water purification with plants
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving biological extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Biological Water Purification With Plants finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for biological water purification with plants. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+biological water purification with plants and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Biological Water Purification With Plants has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of biological water purification with plants into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

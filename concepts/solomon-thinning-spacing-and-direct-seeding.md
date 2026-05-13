@@ -10,9 +10,7 @@ sources:
 
 # Solomon on Thinning, Spacing, and Direct Seeding
 
-From [[solomon-transplanting-and-hardening-off]]
-- [[solomon-row-covers-and-season-extension]]
-- [[root-competition-plant-spacing-solomon]]
+From [[solomon-row-covers-and-season-extension]]
 - [[solomon-gardening-when-it-counts-index]]
 ## Background and Context
 

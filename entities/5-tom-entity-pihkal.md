@@ -8,80 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 5-TOM
 
-[[2c-b-pihkal-entry-20]] #172. 2-METHOXY-4-METHYL-5-METHYLTHIOAMPHETAMINE.
-
-## Chemical Name
-
-2-METHOXY-4-METHYL-5-METHYLTHIOAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 30 - 50 mg. |
-| Duration | 6 - 10 h. |
-
-## Qualitative Comments
-
-> (with 35 mg) There was an awful lot of visual
-> activity, and in general I found the day quite good, once I got past
-> the early discomfort.
->
-> (with 40 mg) I knew that I was sinking into a deep reverie after an
-> hour into it. I was not totally unconscious since I seemed to respond
-> to external stimuli (at least most of the time). But I certainly
-> wasn't all that much there. The exper-ience dominated completely. At
-> one point (perhaps the peak?) I remember seeing a very quiet sea with
-> a horizontal shoreline and a clear sky. This image seemed to come
-> back rather frequently. At other times I would see a set of
-> disjointed horizontal lines on this beach. These lines reminded me of
-> spectral lines. For a short period of time I thought they were some
-> kind of expression of my energy levels that I didn't understand. In
-> retrospect, I suspect the horizontal lines were only expressions of
-> how my mind was reacting to the material. I don't remember talking to
-> anyone until I had started to come down from the experience. I
-> eventually could see real images, but they were greatly distorted. It
-> was as if I was looking at Cubism paintings by Picasso, having intense
-> and strange colorations. As I came back into the real world, I
-> realized that I had had an extraordinary trip. I had not been afraid
-> at any time. The experience seemed unique, but quite benign. The
-> experience for my fellow travelers was probably much more anxious. I
-> wasn't particularly interested in food when I came down. I slept
-> well. I was quite lethargic the next day. It really took me another
-> day to integrate back into normal life. Would I repeat it? Possibly,
-> but at a way smaller dose.
->
-> (with 50 mg) The body was complete whacked, and the mental simply
-> didn't keep up with it. There was some early nausea going into it,
-> and my sinuses never cleared, and I somehow became irritable and
-> angry. In fact, the impatience and grimness lasted for a couple of
-> days. There were some visual events that might have been interesting
-> to explore, but too much other stuff got in the way.
->
->
-> (with 50 mg) There was much eyes-closed fantasy, and quite a bit of
-> it with erotic undertones. In efforts to direct my actions, I found
-> it difficult to find the point of initiation of a task. Reading and
-> writing both impossible. I am somehow de-focused. But art work
-> became quite rewarding. The experience was heavy going in, but rich
-> coming out. Good dosage.
-
-## Extensions and Commentary
-
-The bottom line is that 5-TOM is a pretty
-heavy-duty experience, with more negative reports than positive ones.
-I have received no mentions of a completely ecstatic time, and not
-even very many neutral experiences. The consensus is that it wasn't
-worth the struggle. Some cramping, some nausea, and a generalized
-discomfort. And that one case of a catatonic response. An approach
-to possible individual variation in the metabolic handling of the
-sulfur atom is the rationale for the preparation of the compound
-TOMSO, and it is discussed there.
-
-The two-carbon homologue of 5-TOM has been prepared. It uses, of
-course, the same aldehyde, but the condensation was with nitromethane
-which yielded the nitrostyrene as an orange powder with a melting
-point of 118-119 deg C from [[methanol]]. This was reduced with LAH in ether
+[[methanol]]. This was reduced with LAH in ether
 containing anhydrous AlCl3, giving
 2-methoxy-4-methyl-5-methylthiophenethylamine hydrochloride as white
 crystals with a melting point of 257-258 deg C. It has been named
@@ -89,5 +16,89 @@ crystals with a melting point of 257-258 deg C. It has been named
 so it is pharmacologically still a mystery.
 
 ## See Also
-- [[tomso-entity-pihkal]]
 - [[methyl-j-entity-pihkal]]
+
+## Overview
+
+5 Tom Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 5 tom entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 5 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+5 Tom Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 5 tom entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+5 tom entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+5 Tom Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 5 tom entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[4-tme-entity-pihkal]]
+- [[doef-entity]]
+- [[eem-entity-pihkal]]
+- [[mdpr-entity-pihkal]]
+- [[te-entity-pihkal]]

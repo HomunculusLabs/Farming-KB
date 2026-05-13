@@ -8,50 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # beta-D
 
-[[2c-b-pihkal-entry-20]] #51. 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE.
-
-## Chemical Name
-
-3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 200 - 400 mg (as the sulfate salt); 178 - 356 mg (as the |
-| Duration | 12 h. |
-
-## Qualitative Comments
-
-> (with 200 mg) The onset was very gradual and
-> very gentle. At about an hour and a half I was rather out of my body
-> (at least I wasn't aware of my body, it felt so light). I was
-> listening to Berlioz Requiem, and it took me to the highest realm. I
-> was totally caught up in the magnificence of the music, of the genius
-> it took to compose it, the love it took to complete it, and the
-> devotion of the composer. I felt as though this music had been
-> written for me. What came next is hard to remember because I was so
-> taken with this experience which came only 1 1/2 hours after
-> ingestion. I wondered what time it was and how come I was having a
-> peak experience so soon, because this material was supposed to reach
-> its peak after two hours. Well, now we can revise the records, heh?
-> Incidentally this material is really good for interior work. It was a
-> magnificent experience -- one of the best.
->
-> (with 275 mg) I begin to feel it in 15 minutes, stomach getting
-> squeamish. Looking up into the clouds, becoming absorbed in them,
-> watching light grow in intensity, stomach feelings disappeared.
-> Became totally absorbed by the music. Listening to Boito's Prologue
-> to Mephistopheles -- exquisitely beautiful, dramatic. Lying on the
-> couch, the music continuing, I was suddenly filled with enormous
-> power. I realized that raw, male power was pouring through me as I
-> had never before experienced it. I was wild, totally self satisfied,
-> and completely oblivious of others and their needs. I wanted to
-> strike out, to win, to conquer. I felt what conquerers have felt in
-> the past, the unbridled passion to vanquish everything. I could see
-> how such misguided power could lead nations to war. Wanting still
-> more power, I was about to find out if God would grant me the power to
-> destroy [[permaculture]]-cycles-and-niches-in-time to save the world.
+[[permaculture]]-cycles-and-niches-in-time to save the world.
 >
 > (with 275 mg) Never had I had such a magnificent appreciation of God.
 > It was clear that if I minded my business and turned to Him to learn
@@ -90,5 +47,89 @@ sources: ["Shulgin - PIHKAL"]
 > matter of fact I haven't had those dreams for some time now. This
 
 ## See Also
-- [[beta-d-entity]]
 - [[pihkal-beta-substituted-phenethylamines]]
+
+## Overview
+
+Beta D Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish beta d entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving beta extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Beta D Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for beta d entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+beta d entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Beta D Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of beta d entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[beta-caryophyllene]]
+- [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]]
+- [[cancer-beta-glucan-pharmacology]]
+- [[fungal-beta-diversity-similarity-indices-zak-willig]]
+- [[fungal-beta-diversity-species-turnover]]

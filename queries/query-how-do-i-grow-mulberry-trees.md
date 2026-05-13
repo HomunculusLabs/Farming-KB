@@ -26,7 +26,6 @@ Mulberries are among the easiest fruit trees to grow, tolerating a wide range of
 
 Three species dominate cultivation, each with distinct strengths:
 
-- **[[morus-nigra]] (Black Mulberry)** — Zones 6–10. Native to Southwest Asia. Slow-growing but produces the richest, most complex fruit flavor — often compared to fig or blackberry. Less cold-hardy; prefers longer, hotter summers for best fruit. Ideal for orchards and food gardens where flavor is paramount. Typically stays under 30 ft.
 - **[[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]
 
 ## What Are the Best Mulberry Cultivars?
@@ -94,33 +93,10 @@ Grafted cultivars, especially **Illinois Everbearing**, can produce a small crop
 - **Birds** — The most common "pest." Net trees or plant enough to share — mulberries are an outstanding wildlife food.
 - **Powdery mildew** — Common in humid climates on new growth; treat with potassium bicarbonate spray.
 
-Mulberries are generally pest-free compared to most fruit trees. They have no serious disease issues in most of North America. See also: [[cervantes-companion-planting-pest-deterrent]] and polycultures
-
-## How Do I Harvest and Use Mulberries?
-
-- **Picking** — Ripe berries drop naturally. Lay tarps under the tree and shake branches gently, or pick by hand daily during peak season. Berries don't all ripen at once.
-- **Storage** — Refrigerate immediately; lasts 2–4 days. Freeze on sheet pans, then transfer to bags for long-term storage (up to 6 months).
-- **Recipe ideas** — Mulberry pie, jam, wine, mead, smoothies, dried fruit leather, cobbler, and fermented shrub. The fruit pairs well with vanilla, lemon, and ginger.
-- **Drying** — Dehydrate at 130°F until leathery; excellent as a snack or trail food. Dried mulberries are a traditional superfood in Turkey and Central Asia.
-- **Freezing tip** — Freeze berries in a single layer on a baking sheet first, then transfer to bags — this prevents clumping and preserves shape.
-
-## Are Mulberries Good for Permaculture?
-
-Absolutely — mulberries are a keystone species in food forests and forest gardening and food forests:
-
-- **Multi-function** — Fruit, fodder, shade, timber, and soil improvement all from one tree.
-- **Animal feed** — Leaves are 15–28% protein; excellent poultry, goat, and cattle fodder. Silkworms eat only M. alba.
-- **Wildlife value** — Berries feed 60+ bird species, deer, raccoons, foxes, and pollinators.
-- **[[fungal-role-in-nitrogen-cycling]]** — Deep taproots mine subsoil nutrients and bring them to the surface via leaf fall.
+Mulberries are generally pest-free compared to most fruit trees. They have no serious disease issues in most of North America. See also: [[fungal-role-in-nitrogen-cycling]]** — Deep taproots mine subsoil nutrients and bring them to the surface via leaf fall.
 - **Pioneer role** — Fast growth makes mulberries ideal for establishing canopy quickly in young food forests.
 - **Chop-and-drop** — Regular pruning provides abundant mulch material for garden beds.
-- **[[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]** — Deep, vigorous root systems stabilize slopes and stream banks.
-- **Speed to canopy** — One of the fastest-growing fruit trees; can provide shade and fruit within 3–5 years from planting.
-
-## Common Mistakes
-
-1. **Planting too close to structures** — Mulberries grow fast and large. Give them room or choose a dwarf cultivar.
-2. **Overwatering** — Established trees need almost no supplemental irrigation in [[fukuoka-natural-farming-temperate-climates]].
+- **[[fukuoka-natural-farming-temperate-climates]].
 3. **Ignoring staining risk** — Unripe and ripe fruit will stain sidewalks, cars, and clothing. Plan accordingly.
 4. **Growing from seed for named cultivars** — Seeds don't come true; always use cuttings or buy grafted trees for specific varieties.
 5. **Fertilizing excessively** — Mulberries perform best in average to poor soils. Excess nitrogen promotes vegetative growth over fruit production. If you must fertilize, a single application of compost in spring is sufficient.

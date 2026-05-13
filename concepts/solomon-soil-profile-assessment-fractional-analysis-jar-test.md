@@ -7,51 +7,8 @@
 Solomon insists that every gardener should assess the soil resource beneath
 their feet before committing to a garden site. The assessment involves two
 steps: digging a soil profile hole to examine the layers below the surface,
-and performing a simple "soil fractional analysis" test ([[mason-jar-preserving-guide]] method) to
-determine the exact proportions of sand, silt, and clay. "I wouldn't want to
-garden anywhere without having this valuable information."
-
-## Step 1: The Soil Profile Hole
-
-### How to Dig It
-Using a soil auger, posthole digger, or shovel, excavate a hole at least 36
-inches (90 cm) deep. If using an auger or posthole digger, the hole need not
-be larger in diameter than the tool.
-
-### What to Look For
-As you dig, ask yourself these questions at each depth:
-- Is this soil loose and friable enough for roots to penetrate?
-- Am I finding layers that are so dense and airless that almost no roots can
-  exist?
-- Is there an abrupt change in soil type at any depth?
-- Is there a layer of clay creating a barrier to moisture rising by capillarity?
-- How deep does the topsoil layer extend (typically darker in color)?
-
-### Typical Soil Profile
-In climates with 28+ inches (70 cm) of annual rainfall, you will typically
-find:
-- **Top 6-12 inches (15-30 cm):** Topsoil — darker due to [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
-- **Below topsoil:** Subsoil — lighter in color, less [[hamilton-composting-and-organic-matter-management]]
-- **Variable depth:** A clay layer, hardpan, or other barrier may appear
-- **Bottom:** Parent material or bedrock
-
-In drier climates, the profile may differ, with caliche layers, hardpan, or
-deep clay being common. If a hardpan or clay barrier prevents moisture from
-rising by capillarity, the garden will require considerable irrigation
-regardless of rainfall.
-
-### Sampling
-If you encounter different soil types as you dig, take a pint-sized (600 ml)
-sample of each distinct layer. These samples will be used for the fractional
-analysis test.
-
-## Step 2: The Mason Jar Soil Test
-
-This test separates soil into its constituent particles by size. The smaller
-the particle, the longer it stays suspended in water.
-
-### Equipment
-- Quart (liter) [[pf-tek-canning-jar-lid-configuration]] with tight-fitting lid
+and performing a simple "soil fractional analysis" test ([[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
+- **Below topsoil:** Subsoil — lighter in color, less [[pf-tek-canning-jar-lid-configuration]] with tight-fitting lid
 - Ruler or measuring tape
 - Felt pen or adhesive tape for marking
 - Teaspoon of ordinary dishwashing detergent (low-suds type preferred)
@@ -88,3 +45,88 @@ settled layer and calculate percentages:
 ```
 
 Millimeters make the math easier than inches.
+
+## Overview
+
+Solomon Soil Profile Assessment Fractional Analysis Jar Test represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon soil profile assessment fractional analysis jar test
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Soil Profile Assessment Fractional Analysis Jar Test finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon soil profile assessment fractional analysis jar test. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon soil profile assessment fractional analysis jar test and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Soil Profile Assessment Fractional Analysis Jar Test has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon soil profile assessment fractional analysis jar test into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

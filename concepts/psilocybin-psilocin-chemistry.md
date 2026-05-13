@@ -8,8 +8,7 @@ created: 2026-05-09
 # Psilocybin and Psilocin Chemistry
 
 Psilocybin and psilocin are the primary psychoactive compounds found in
-[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of the genera [[psilocybe-cubensis]], [[conocybe-cyanopus-profile]],
-[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], [[panaeolus-tropicalis-cultivation-differences]], and [[inocybe-aeruginascens-and-neurotropic-inocybe-species]]. These indolealkylamine
+[[psilocybe-cubensis]], [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], [[inocybe-aeruginascens-and-neurotropic-inocybe-species]]. These indolealkylamine
 tryptamines are structurally related to serotonin (5-HT) and are
 responsible for the perceptual distortions, altered mood, and thought
 changes produced by these fungi.
@@ -67,10 +66,7 @@ Potency varies significantly by species, growing conditions, and age:
 
 | Species | Approximate Psilocybin Content (dry) |
 |---------|--------------------------------------|
-| [[stamets-psi-psilocybe-azurescens-species-guide]] | Up to 1.78% |
 | [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] | Up to ~1% |
-| [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] | 0.3-1.0% |
-| Psilocybe cubensis | 0.1-0.6% |
 | [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] | 0.5-1.0% |
 
 P. cubensis, the most commonly cultivated species, is relatively low in

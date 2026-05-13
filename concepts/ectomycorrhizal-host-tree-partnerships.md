@@ -16,17 +16,7 @@ Approximately 2% of all plant species form ectomycorrhizal (ECM) associations, b
 
 The tree provides carbohydrates (sugars from photosynthesis) to the fungus, while the fungus provides water, phosphorus, nitrogen, and other minerals from the soil. This exchange dramatically enhances the tree's ability to access soil resources, particularly on nutrient-poor sites.
 
-The specificity of ECM partnerships varies from highly specific (one fungal species with one tree species) to broadly generalist (one fungal species with many tree species). This specificity determines which mushroom species can be expected in a given forest type. See [[mycorrhizal-fungi]] for mycorrhizal biology fundamentals.
-
-## Major Host Tree Families
-
-### Pinaceae (Pine Family)
-
-The Pinaceae is the most important ectomycorrhizal host family, containing pines (Pinus), spruces (Picea), firs (Abies), larches (Larix), Douglas fir (Pseudotsuga), hemlocks (Tsuga), and cedars (Cedrus). Most Pinaceae species are strongly dependent on ectomycorrhizal associations and show limited capacity for other mycorrhizal types.
-
-Pine forests support distinctive ECM fungal communities including Suillus species (slippery jacks), Tricholoma matsutake (matsutake), various bolete species, and truffle species in some regions. The genus Suillus is particularly associated with Pinaceae, with many species showing strong host specificity to particular pine species.
-
-The association between pines and matsutake is one of the most economically significant ECM partnerships. Matsutake fruiting is closely tied to the health and age of pine forests, and forest management practices that affect pine health directly impact matsutake productivity. See [[matsutake-mushroom]] for matsutake-pine relationships.
+The specificity of ECM partnerships varies from highly specific (one fungal species with one tree species) to broadly generalist (one fungal species with many tree species). This specificity determines which mushroom species can be expected in a given forest type. See [[matsutake-mushroom]] for matsutake-pine relationships.
 
 ### Fagaceae (Beech and Oak Family)
 
@@ -40,54 +30,11 @@ Beech forests support diverse ECM communities including boletes (particularly Bo
 
 The Betulaceae includes birches (Betula), alders (Alnus), and hazelnuts (Corylus). Birches are important ECM hosts in boreal and temperate forests, supporting species such as Leccinum (birch boletes), various Amanita species, and Cantharellus species.
 
-Hazelnut (Corylus avellana) is particularly important as a host for [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]]. Hazelnut forms mycorrhizal associations readily with Tuber melanosporum and grows quickly, making it the preferred host species for Perigord black truffle orchards in many regions. See [[truffle-orchard-design-establishment]] for hazelnut-truffle partnerships.
+Hazelnut (Corylus avellana) is particularly important as a host for [[truffle-orchard-design-establishment]] for hazelnut-truffle partnerships.
 
 ### Myrtaceae
 
-The Myrtaceae is an important ECM host family in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], particularly in Australia, South America, and Southeast Asia. Eucalyptus species form ECM associations with diverse fungal partners, many of which are endemic to Australasian ecosystems.
-
-Eucalyptus plantations have been established worldwide, and their ECM fungal associates have been introduced along with the trees. In some cases, introduced ECM fungi have established in native ecosystems, with ecological consequences that are not fully understood.
-
-### Cistaceae and Other Non-Tree Hosts
-
-While most ECM hosts are trees, some non-tree plants also form ectomycorrhizal associations. The Cistaceae (rock rose family) is notable as the primary host for desert truffle species (Terfezia and Tirmania) in arid regions of the Middle East and North Africa.
-
-Certain shrubs in the Ericaceae, Polygonaceae, and other families can also form ectomycorrhizal associations, expanding the range of habitats where ECM fungi occur beyond forest ecosystems.
-
-## Host Specificity and Fungal Diversity
-
-### Host Specificity Spectrum
-
-ECM fungi show a spectrum of host specificity. At one extreme, some species are highly specific to a single host tree species. Suillus americanus, for example, associates almost exclusively with eastern white pine (Pinus strobus). At the other extreme, generalist species like Laccaria laccata and Hebeloma crustuliniforme can form mycorrhizae with a wide range of host trees.
-
-Most commercially important edible ECM mushrooms fall in the middle of this spectrum. Boletus edulis (porcini) associates with many tree species including oaks, pines, spruces, and birches, contributing to its wide distribution. Tricholoma matsutake is more specific, primarily associating with certain Pinus species.
-
-### Tree Species Diversity and Mushroom Diversity
-
-Forest stands with higher tree species diversity generally support higher ECM fungal diversity. Mixed-species forests with oaks, pines, beeches, and birches support more mushroom species than monoculture stands of any single tree species.
-
-This relationship has practical implications for both mushroom foraging and forest management. Forests managed for maximum mushroom diversity should maintain or increase tree species diversity. Monoculture plantations, while efficient for timber production, support limited ECM fungal diversity and may be more vulnerable to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. See ethnomycology and mycorrhizal-inoculation-techniques for applied [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]].
-
-## Economic Importance
-
-ECM partnerships have direct economic value in commercial forestry,
-timber production, and non-timber forest products such as wild
-mushrooms and truffles.
-
-In reforestation and plantation forestry, ECM inoculation of seedlings
-reduces transplant shock and improves survival on disturbed or
-nutrient-poor sites. Nursery practices that maintain native ECM
-communities on seedling root systems outperform bare-root planting
-without mycorrhizae in field trials across boreal and temperate zones.
-
-Truffle cultivation represents the highest-value application of ECM
-host tree management. Truffle orchards in Europe, Australia, and North
-America generate premium crops by pairing carefully selected host trees
-(oaks, hazelnuts, pines) with inoculated truffle species. See
-[[truffle-orchard-design-establishment]] for [[fukuoka-citrus-orchard-establishment-bare-hillside]]
-methods.
-
-Wild [[oyster-mushroom-harvesting-post-harvest]] from managed forests provides supplementary
+The Myrtaceae is an important ECM host family in the [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. See ethnomycology and mycorrhizal-inoculation-techniques for applied [[truffle-orchard-design-establishment]] for [[oyster-mushroom-harvesting-post-harvest]] from managed forests provides supplementary
 
 ## Practical Applications
 
@@ -118,8 +65,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ectomycorrhizal-fungi]]
 - [[ectomycorrhizal-associations]]
-- [[tricholoma-matsutake]]
 - [[tuber-aestivum]]
 - [[det]]
+
+## Overview
+
+Ectomycorrhizal Host Tree Partnerships represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ectomycorrhizal host tree partnerships
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ectomycorrhizal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ectomycorrhizal Host Tree Partnerships finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ectomycorrhizal host tree partnerships. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ectomycorrhizal host tree partnerships and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ectomycorrhizal Host Tree Partnerships has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ectomycorrhizal host tree partnerships into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

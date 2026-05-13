@@ -20,17 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Orellanine** is a highly nephrotoxic bipyridyl compound produced by several species of mushrooms in the genus *Cortinarius* (Section Orellani). It is the principal toxin responsible for **Cortinarius poisoning syndrome**, a delayed-onset renal failure that has caused numerous fatalities across Europe. Orellanine was first isolated and characterized in the 1960s following a series of fatal poisonings in Poland linked to *[[cortinarius-orellanus]]*.
-
-The compound is unusual among natural fungal toxins for its exceptionally long latency period between ingestion and symptom onset, typically 2–14 days. This delayed presentation frequently leads to misdiagnosis and delayed treatment, contributing to its high mortality rate.
-
-## Chemical Properties
-
-Orellanine is 3,3',4,4'-tetrahydroxy-2,2'-bipyridine-1,1',6,6'-tetraone, with molecular formula **C₁₂H₆N₂O₈** and molecular weight 306.17 g/mol. The compound exists as yellow needle-shaped crystals when purified.
-
-The bipyridine core is unique among naturally occurring compounds. Orellanine is the di-N-oxide of orelline, its reduced and comparatively non-toxic metabolite. The N-oxide moieties are essential for nephrotoxic activity; reduction to orelline inactivates the compound.
-
-It is soluble in water, methanol, and ethanol, but poorly soluble in non-polar organic solvents. The compound is relatively heat-stable, surviving cooking temperatures, which explains why [[duggar-mushroom-culinary-preparation-and-cooking]] does not neutralize the toxin. It is sensitive to strong light and alkaline conditions, which promote degradation to orelline and other products.
+**Orellanine** is a highly nephrotoxic bipyridyl compound produced by several species of mushrooms in the genus *Cortinarius* (Section Orellani). It is the principal toxin responsible for **Cortinarius poisoning syndrome**, a delayed-onset renal failure that has caused numerous fatalities across Europe. Orellanine was first isolated and characterized in the 1960s following a series of fatal poisonings in Poland linked to *[[duggar-mushroom-culinary-preparation-and-cooking]] does not neutralize the toxin. It is sensitive to strong light and alkaline conditions, which promote degradation to orelline and other products.
 
 Structural analogues include **orelline** (3,3',4,4'-tetrahydroxy-2,2'-bipyridine), the non-oxidized form, and minor metabolites orellinine and cortinarin. Orelline shows minimal nephrotoxicity and is considered the primary detoxification product.
 
@@ -40,50 +30,93 @@ Orellanine exerts its toxicity primarily through selective damage to the proxima
 
 The compound acts as a potent inhibitor of protein synthesis in renal tubular cells. It interferes with both DNA and RNA synthesis, leading to disruption of ribosomal function and translational arrest. This inhibition is relatively selective for renal tubular cells, possibly due to active uptake and concentration mechanisms in the proximal tubule.
 
-Orellanine generates [[reactive-oxygen-species-and-oxidative-stress]] (ROS) through redox cycling of its bipyridyl N-oxide moieties. The resulting [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] causes lipid peroxidation of tubular cell membranes, mitochondrial dysfunction, and activation of apoptotic pathways. Glutathione depletion has been observed in affected renal tissue.
+Orellanine generates [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] causes lipid peroxidation of tubular cell membranes, mitochondrial dysfunction, and activation of apoptotic pathways. Glutathione depletion has been observed in affected renal tissue.
 
-Additional proposed mechanisms include disruption of cellular energy metabolism through interference with the electron [[electron-transport-chain-mitochondrial-respiration]], and direct tubulointerstitial inflammation mediated by cytokine release from damaged epithelial cells. The combination of metabolic inhibition, oxidative damage, and inflammatory response produces irreversible acute tubular necrosis.
+Additional proposed mechanisms include disruption of cellular energy metabolism through interference with the electron [[cortinarius-rubellus]]* (syn. *C. speciosissimus*), both native to Europe.
 
-## Toxicokinetics and Clinical Presentation
-
-Absorption of orellanine from the gastrointestinal tract is relatively slow, contributing to the characteristic delayed onset. Bioavailability in humans has not been precisely quantified but is estimated at 30–50% based on animal models.
-
-Distribution is primarily to the kidneys, with renal tissue concentrations 10–50 times higher than serum levels. Minimal distribution to other organs has been observed, which accounts for the selective nephrotoxicity. The compound undergoes partial hepatic metabolism to orelline via enzymatic reduction.
-
-Elimination half-life is prolonged at approximately 72–96 hours in humans, explaining the extended period of risk after exposure. Both unchanged orellanine and orelline are excreted renally, but impaired renal function further extends the elimination period, creating a self-reinforcing cycle of toxicity.
-
-Clinical presentation follows a characteristic three-phase pattern. An initial phase (12–48 hours post-ingestion) may include nausea, vomiting, headache, and flu-like symptoms, often leading patients to believe they have a mild gastrointestinal illness.
-
-An asymptomatic latent phase follows, lasting 3–14 days, during which progressive renal damage occurs without symptoms. This phase is responsible for most treatment delays. Urinalysis during this period may show proteinuria, glycosuria, and microscopic hematuria.
-
-The oliguric or anuric renal failure phase manifests with rising serum creatinine and blood urea nitrogen, sometimes requiring emergency hemodialysis. Approximately 30–50% of severe cases progress to chronic kidney disease or end-stage renal disease requiring long-term dialysis or transplantation.
-
-## Sources and Species
-
-Orellanine is produced by several *Cortinarius* species in Section Orellani. The primary species are *Cortinarius orellanus* (the type species, known as the Fool's Webcap) and *[[cortinarius-rubellus]]* (syn. *C. speciosissimus*), both native to Europe.
-
-Additional orellanine-producing species include *C. henryi* ([[psilocybin-north-america-pacific-northwest]]), *C. rainierensis* (Pacific Northwest), and *C. orellanus* f. *sterilis*. The concentration of orellanine varies significantly among species, with *C. rubellus* generally containing higher levels than *C. orellanus*.
-
-The toxin is concentrated primarily in the cap and gill tissue, with lower levels in the stipe. Mycelial cultures produce only trace amounts, suggesting that orellanine biosynthesis is tied to [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. [[duggar-mushroom-environmental-factors-temperature-moisture-light]] including substrate composition and temperature influence toxin production.
-
-## Treatment and Prognosis
-
-No specific antidote for orellanine poisoning exists. Treatment is primarily supportive, with renal replacement therapy (hemodialysis or hemofiltration) as the main intervention for acute kidney injury. Early hemodialysis may reduce circulating orellanine levels, though its efficacy in preventing progression is debated.
-
-Corticosteroids have been used empirically to reduce tubulointerstitial inflammation, but evidence from controlled trials is lacking. N-acetylcysteine and other antioxidants have been proposed based on the oxidative stress mechanism but remain unproven.
-
-Prognosis depends on the ingested dose and the interval before dialysis initiation. Patients who receive early dialysis have significantly better outcomes. Approximately 50–60% of symptomatic patients recover normal renal function within 1–6 months, while 30–40% develop chronic kidney disease. Mortality rates in published series range from 5–15%.
-
-## History of Discovery
-
-Orellanine was first identified following a mass poisoning event in 1952 in Poznań, Poland, where approximately 102 people became ill and 11 died after consuming *Cortinarius orellanus* mistaken for edible *Tricholoma* species. The delayed onset of symptoms initially confounded physicians, and the causative agent was not identified for over a decade.
-
-Stanislaw Grzymala and colleagues isolated the toxic principle from Polish *C. orellanus* specimens in the late 1960s. The compound was initially named "orellanine" after the source species. Complete structural elucidation by Antkowiak and Gessner in 1979 confirmed the novel bipyridyl di-N-oxide structure.
-
-Subsequent investigations in the 1980s, particularly following Scandinavian outbreaks, established *C. rubellus* as a more potent source of the toxin. The species was responsible for several high-profile cases in Finland and Sweden, prompting public health campaigns about the dangers of foraging Cortinarius species.
-
-Modern [[analytical-methods-psilocybin-psilocin-quantification]] have since identified additional orellanine-producing species and refined understanding of the toxin's pharmacokinetics. Despite this, Cortinarius poisoning continues to occur, particularly among immigrants from regions where *Cortinarius* species are not traditionally consumed.
+Additional orellanine-producing species include *C. henryi* ([[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. [[analytical-methods-psilocybin-psilocin-quantification]] have since identified additional orellanine-producing species and refined understanding of the toxin's pharmacokinetics. Despite this, Cortinarius poisoning continues to occur, particularly among immigrants from regions where *Cortinarius* species are not traditionally consumed.
 
 ## Chemical Synthesis and Detection
 
 Total synthesis of orellanine has been achieved but is not performed commercially due to the compound's toxic nature and limited research demand. Semi-synthetic routes from simpler bipyridine precursors have been described in the literature.
+
+## Overview
+
+Orellanine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish orellanine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving orellanine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Orellanine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for orellanine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+orellanine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Orellanine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of orellanine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bloomfield-cortinarius-webcap-orellanine-kidney-poisoning]]

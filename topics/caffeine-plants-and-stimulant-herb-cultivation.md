@@ -24,9 +24,7 @@ sources:
 
 ## Introduction
 
-Caffeine (1,3,7-trimethylxanthine) is the world's most widely consumed psychoactive substance, produced as a [[fungal-elicitors-enhanced-secondary-metabolite-production]] by over 60 plant species across at least six plant families. Its ecological function in plants includes insecticidal and allelopathic properties — caffeine is toxic to herbivorous insects and inhibits seed germination of competing plants in the root zone. Humans have co-opted this chemical defense into a global cultural phenomenon spanning millennia.
-
-The major caffeinated beverage plants — *[[tea-cultivation-and-camellia-sinensis-processing]]* (tea), *Coffea* spp. (coffee), *Ilex paraguariensis* (yerba mate), *Ilex guayusa* (guayusa), and *Ilex vomitoria* (yaupon) — each evolved caffeine biosynthesis independently through convergent evolution. This page focuses on the underappreciated caffeine plants beyond coffee and standard tea, with detailed cultivation guidance for temperate and subtropical growers.
+Caffeine (1,3,7-trimethylxanthine) is the world's most widely consumed psychoactive substance, produced as a [[tea-cultivation-and-camellia-sinensis-processing]]* (tea), *Coffea* spp. (coffee), *Ilex paraguariensis* (yerba mate), *Ilex guayusa* (guayusa), and *Ilex vomitoria* (yaupon) — each evolved caffeine biosynthesis independently through convergent evolution. This page focuses on the underappreciated caffeine plants beyond coffee and standard tea, with detailed cultivation guidance for temperate and subtropical growers.
 
 ## Caffeine Biosynthesis and Plant Evolution
 
@@ -112,38 +110,13 @@ Mate thrives in well-drained, slightly acidic soils rich in organic matter:
 - Incorporate 5–10 cm of compost into planting holes
 - Mulch heavily (10–15 cm) with leaves, straw, or wood chips
 - Avoid heavy clay or waterlogged soils — root rot from *Phytophthora* is the most common disease issue
-- Annual top-dressing with [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] or balanced [[complete-organic-fertilizer-cof-recipe-solomon]] (NPK 5-3-4) in early spring
+- Annual top-dressing with [[complete-organic-fertilizer-cof-recipe-solomon]] (NPK 5-3-4) in early spring
 - Foliar micronutrient sprays (boron, zinc, manganese) can improve leaf quality in deficient soils
 
 ### Pruning and Harvest
 
 - First pruning at 2–3 years to shape the canopy
 - Mechanized or manual harvesting begins when plants reach 1–1.5 m height
-- Traditional [[chiric-caspi-brunfelsia-south-american-hallucinogen]] practice: annual or biennial "prune-harvest" where branches are cut to 30–50 cm from the main stem, and all leaves on cut branches are processed
-- This stimulates vigorous regrowth and keeps plants manageable
-- Leaf yield: 1.5–3 kg dried leaf per plant per harvest, increasing with age
-- Economic lifespan: 25–40 years with good management
-
-### Processing
-
-Traditional processing (*sapeco* and *secado*):
-
-1. **Sapeco**: Flash-drying over open flame (500–600°C for 20–30 seconds) — destroys enzymes, "fixes" the green color, and imparts characteristic smoky flavor
-2. **Secado**: Slow drying over lower heat or in drying chambers for 8–24 hours until moisture reaches 8–10%
-3. **Cancheado**: Grinding/crushing dried leaves and twigs to coarse fragments
-4. **Aging (estacionamiento)**: Storing in bulk for 6–24 months — flavor develops, bitterness decreases, and the characteristic mate aroma emerges
-
-Modern commercial processing may use drum dryers or belt dryers instead of open flame, producing a less smoky product. "Unsmoked" or "sin humo" mate is increasingly popular.
-
-### Pests and Diseases
-
-| Issue | Symptoms | Management |
-|-------|----------|------------|
-| *Phytophthora* root rot | Wilting, blackened roots, plant death | Well-draining soil, biochar amendment, *Trichoderma* inoculants |
-## See Also
-
-- [[fermented-foods-and-beverages]]
-- [[medicinal-herb-growing-guide]]
+- Traditional [[fermented-foods-and-beverages]]
 - [[forest-gardening-and-food-forests]]
-- [[companion-planting-and-polycultures]]
 - [[microclimate-design-for-garden-and-farm]]

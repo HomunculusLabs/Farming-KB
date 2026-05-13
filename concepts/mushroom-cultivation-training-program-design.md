@@ -6,45 +6,7 @@ type: concept
 
 # Mushroom Cultivation Training Program Design
 
-A structured training program [[grass-seed-substrate-for-mushroom-cultivation]] tailored to the needs and capacities of people with disabilities. The program integrates vocational skill-building with rehabilitation, aiming for social re-integration and economic self-sufficiency.
-
-## Training Philosophy
-
-Effective trainers must possess solid knowledge across all core areas of mushroom cultivation, including the health properties of mushrooms, various cultivation methods, post-harvest processing, and farm management. Without this comprehensive expertise, trainers cannot adapt instruction to the diverse and often complex needs of disabled learners.
-
-Training is divided into two complementary components: **theory** and practical **hands-on** experience. Both are essential — theory provides the conceptual foundation for understanding why each step matters, while hands-on practice builds muscle memory, confidence, and real-world competence that translates directly to independent production.
-
-For trainees with disabilities, **alternative approaches** must be developed for every task in the cultivation cycle. No single method works universally. Trainers must carefully observe each trainee's physical and cognitive capacities and design workarounds accordingly. This may mean adapting tools with ergonomic grips, modifying workflows to reduce unnecessary transfers, pairing trainees for collaborative tasks where one compensates for the other's limitations, or substituting entirely different techniques to achieve the same outcome.
-
-A powerful principle of this program is that **trainees who become trainers** are best positioned to teach others about adaptive methods. Having lived with their own disabilities, they possess firsthand experience of the challenges and have already invented or learned the workarounds that actually work in practice. Peer training by disabled instructors builds trust, credibility, and practical relevance in ways that able-bodied trainers alone cannot match.
-
-Beyond vocational skills, the training program also serves as a form of **rehabilitation towards re-integration into society**. The structured daily routine, meaningful social interaction, productive tangible output, and genuine economic potential all contribute to restoring confidence, self-worth, and a sense of community belonging that many trainees may have lost.
-
-## Capacities to Evaluate in Trainees
-
-Before and during training, each trainee's functional capacities should be assessed to determine appropriate task assignments and identify necessary accommodations. The following areas are evaluated:
-
-- **Manual dexterity** — Is the trainee capable of using their hands (or an artificial limb) for gripping, pouring, tying bags, and performing other fine motor tasks involved in cultivation?
-
-- **Mobility** — Is the trainee capable of moving freely within the training environment, whether using their legs, a wheelchair, or a tricycle? Workspace layouts must accommodate mobility aids.
-
-- **Vision** — Is the trainee capable of seeing well enough to identify contamination, judge fruiting stage, and read labels? The degree of visual impairment should be assessed and tactile or auditory alternatives provided where needed.
-
-- **Hearing** — Is the trainee capable of hearing verbal instructions? Visual demonstrations, written guides, and sign language support can supplement verbal communication for those with hearing impairments.
-
-- **Speech** — Is the trainee capable of speaking clearly enough to communicate needs, ask questions, and report problems? Non-verbal communication methods and assistive devices should be supported for those who cannot.
-
-- **Cognitive comprehension** — Is the trainee capable of basic understanding of cultivation concepts, sequential procedures, and safety protocols? Simplified instructions and repeated practice help reinforce learning.
-
-- **Decision making** — Is the trainee capable of making independent decisions about timing, quality assessment, and problem-solving during day-to-day cultivation? Some tasks may require supervisory support.
-
-- **Alternate pathways** — Where a trainee is incapacitated in any of the above areas, alternate ways must be developed to enable participation. No capacity limitation should be treated as an automatic exclusion; instead, it becomes a design constraint for creative adaptation.
-
-## Training Approach
-
-The program emphasizes **hands-on practice with basic theory** woven throughout each week. Trainees learn primarily by doing, with just enough conceptual grounding to understand the biological and practical reasons behind each step.
-
-Importantly, not all trainees need to learn every complex task. Spawn [[pf-tek-spore-syringe-preparation-and-inoculation]], for example, require precise sterile technique that some trainees may find difficult or unnecessary for their personal goals. The program accommodates multiple skill tiers and ambitions:
+A structured training program [[pf-tek-spore-syringe-preparation-and-inoculation]], for example, require precise sterile technique that some trainees may find difficult or unnecessary for their personal goals. The program accommodates multiple skill tiers and ambitions:
 
 - **Most trainees** will want to buy inoculated bags that are ready for fruiting. For them, mastering growing conditions, environmental management, harvesting, and marketing is sufficient to run a successful small enterprise.
 
@@ -72,15 +34,11 @@ The program follows a structured 9-week timeline that progressively builds skill
 
 - **Week 1** — Registration and intake assessment of each trainee's capacities and goals. Initial motivational sessions to build group cohesion and personal commitment. Hands-on practice begins with basic introductory tasks across all four sectors.
 
-- **Week 2** — Formal opening ceremony with stakeholders and community members. Comprehensive overview on mushrooms covering their nature and biology, humidity and ventilation requirements, light needs, common diseases and insects, nutritional [[ginseng-cultivation-and-medicinal-properties]], identification of poisonous versus non-poisonous species, and basic culinary recipes.
-
-- **Week 3** — "Mushroom lovers" session focused on estimating manageable production amounts for home-scale cultivation. Introduction to General Microbiology and Mushroom Culture theory. Continued hands-on rotation through all four sectors.
-
-- **Week 4** — Detailed instruction on cultivation in plastic bags (the primary method for most trainees). Bag preparation and management techniques. [[solomon-disease-identification-and-organic-remedies]] pest control measures specific to bag-based cultivation systems.
+- **Week 2** — Formal opening ceremony with stakeholders and community members. Comprehensive overview on mushrooms covering their nature and biology, humidity and ventilation requirements, light needs, common diseases and insects, nutritional [[solomon-disease-identification-and-organic-remedies]] pest control measures specific to bag-based cultivation systems.
 
 - **Week 5** — Second series of motivational sessions to sustain energy and commitment at the program's midpoint. Continued hands-on rotation with trainees taking on increasing responsibility and independence in their assigned sector tasks.
 
-- **Week 6** — Spawn production covering both agar culture techniques and grain spawn preparation. Instruction on packaging techniques for substrate bags and spawn. Introduction to marketing fundamentals and pricing strategies for mushroom products.
+- **Week 6** — Spawn production covering both agar culture techniques and [[grain-spawn-preparation]]. Instruction on packaging techniques for substrate bags and spawn. Introduction to marketing fundamentals and pricing strategies for mushroom products.
 
 - **Week 7** — Alternative cultivation methods including log cultivation and straw mushroom techniques. Waste management through composting of spent substrate. Post-harvest processing methods including drying, powdering, and pickling for product diversification.
 

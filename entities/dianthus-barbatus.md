@@ -66,7 +66,7 @@ Seed is sown in late spring or early summer for flowers the following year. Germ
 
 In the garden, Sweet William is used in mixed herbaceous borders, cottage-garden plantings, and cut-flower production. The flowers have a vase life of 7 to 10 days and are fragrant, making them popular in bridal and informal arrangements.
 
-The species combines well with [[lavandula-angustifolia]], [[salvia-officinalis]], and [[rosmarinus-officinalis-entity]] in Mediterranean-style plantings. In cottage gardens, traditional companions include [[calendula-officinalis]], [[centaurea-cyanus]], and [[achillea-millefolium]].
+The species combines well with [[salvia-officinalis]], and [[calendula-officinalis]], [[achillea-millefolium]].
 
 Deadheading extends the bloom period by several weeks and prevents excessive self-seeding. Left unchecked, plants naturalize freely in favorable sites, sometimes becoming persistent in meadow plantings.
 

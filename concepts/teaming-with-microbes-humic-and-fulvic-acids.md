@@ -9,7 +9,7 @@ sources: [raw/papers/lowenfels-teaming-with-microbes.md]
 
 # Humic and Fulvic Acids
 
-Humic and fulvic acids are [[fungal-volatile-organic-compounds-communication]] derived from the decomposition of plant and animal matter. They are the primary components of humus and play central roles in [[teaming-with-microbes-bacterial-vs-fungal-dominance]] approach.
+Humic and fulvic acids are [[teaming-with-microbes-bacterial-vs-fungal-dominance]] approach.
 
 ## What Are Humic and Fulvic Acids?
 
@@ -33,29 +33,18 @@ Fungi thrive on complex organic molecules, and humic acids represent some of the
 
 Both bacteria and fungi can degrade pesticides, but fungi are particularly effective at attacking and breaking up complicated chlorinated carbon rings. To support this bioremediation capacity, soil should be inoculated with organic food resources containing complex proteins — the kind fungi prefer. Humic acids are among these complex protein sources, along with kelp and fish hydrolysate.
 
-In contaminated soils, humic acids also bind heavy metals and pesticides, reducing their bioavailability and toxicity. This binding capacity makes them useful partners in [[humus-formation-and-soil-organic-matter]]. All tiny soil particles carry electrical charges. Humus particles are small enough to have abundant negatively charged anions that attract positively charged cations (calcium, potassium, sodium, magnesium, iron, ammonium, and hydrogen).
-
-This cation exchange capacity (CEC) is a key mechanism by which soil retains nutrients. Humus has a CEC 20-100 times higher than clay minerals, making it the most important [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] in most soils. A single gram of humus can have a surface area of 800-900 square meters.
+In contaminated soils, humic acids also bind heavy metals and pesticides, reducing their bioavailability and toxicity. This binding capacity makes them useful partners in [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] in most soils. A single gram of humus can have a surface area of 800-900 square meters.
 
 ## Connection to Soil Aggregates
 
-The biological production of humic substances contributes directly to soil [[soil-aggregate-formation-fungal-contributions]]. As organic matter decomposes, humic acids act as glue, binding soil mineral particles together into stable aggregates. These aggregates improve soil structure, water retention, aeration, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The sticky, gummy nature of humic acids is what gives good soil its characteristic crumb structure.
+The biological production of humic substances contributes directly to soil [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The sticky, gummy nature of humic acids is what gives good soil its characteristic crumb structure.
 
 ## Practical Application Rates
 
 For garden-scale applications, humic acid products are typically applied at the following rates:
 
 - **Soil drench for trees and shrubs:** 1-3 tablespoons of humic acid powder per gallon of water, applied to the root zone in spring and fall. For established trees, use 5-10 gallons of solution per tree.
-- **Foliar spray (fulvic acid):** 1-2 teaspoons of fulvic acid per gallon of water. Apply to leaf surfaces in early morning or late evening for best absorption. Can be combined with [[cervantes-compost-tea-organic-brewing]] intended for woody plants.
-
-Overapplication is rarely harmful but wasteful. Soils with existing high organic matter (above 5% organic matter) show diminishing returns from humic acid additions compared to degraded or sandy soils.
-
-## Effects on Nutrient Uptake
-
-Humic and fulvic acids enhance nutrient uptake through several distinct mechanisms:
-
-- **Chelation:** Both compounds bind to metal micronutrients (iron, zinc, manganese, copper, boron) forming stable complexes that remain soluble and plant-available even at pH levels where these nutrients would otherwise precipitate. This is particularly valuable in alkaline soils where iron chlorosis is common.
-- **Root membrane permeability:** Fulvic acids have been shown to increase cell membrane permeability in plant roots, facilitating more efficient [[mycelial-network-nutrient-transport-imaging-gadd]] across root cell walls. Studies have measured 10-30% increases in uptake of nitrogen, phosphorus, and potassium when fulvic acid is applied.
+- **Foliar spray (fulvic acid):** 1-2 teaspoons of fulvic acid per gallon of water. Apply to leaf surfaces in early morning or late evening for best absorption. Can be combined with [[mycelial-network-nutrient-transport-imaging-gadd]] across root cell walls. Studies have measured 10-30% increases in uptake of nitrogen, phosphorus, and potassium when fulvic acid is applied.
 - **Stimulation of root growth:** Humic acids stimulate root initiation and lateral root development. Treated plants typically show 20-40% greater root mass compared to untreated controls, which translates to a larger effective zone of nutrient extraction.
 - **Nitrogen use efficiency:** Humic acids slow the release of nitrogen fertilizers by binding ammonium ions, reducing leaching losses by 15-25%. This extends the availability of nitrogen to plants over a longer period.
 
@@ -69,9 +58,7 @@ Humic acids function as natural pH buffers, helping to moderate both acidic and 
 
 ## Compost Tea Integration
 
-Humic acids are among the most valuable additives for [[humic-acids-soil-biology-ingham]]
-- [[mulching-guide]]
-- [[soil-food-web-nutrient-cycling]]
+Humic acids are among the most valuable additives for [[mulching-guide]]
 - [[compost-tea-aact]]
 - [[mycorrhizal-fungi-bioremediation]]
 ## Practical Considerations

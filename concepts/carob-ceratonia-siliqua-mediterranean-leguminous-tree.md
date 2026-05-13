@@ -23,9 +23,7 @@ Carobs are remarkably resilient:
 
 ## Root System
 
-Carobs develop extraordinarily deep tap roots. Mature tree tap roots have been traced to 20 meters depth. A seedling develops approximately 250 mm of tap root in the first two weeks after germination. This deep rooting is the basis of their legendary [[dighton-fungal-drought-tolerance-plant-water-relations]].
-
-**Critical cultivation note**: Trees that remain in shallow pots do not develop ideal root systems and permanently lose the drought tolerance advantage. Deep pots (such as 1-liter milk cartons with drainage holes) are essential for [[coleman-sowing-seedling-production]].
+Carobs develop extraordinarily deep tap roots. Mature tree tap roots have been traced to 20 meters depth. A seedling develops approximately 250 mm of tap root in the first two weeks after germination. This deep rooting is the basis of their legendary [[coleman-sowing-seedling-production]].
 
 ## Pod Composition and Uses
 
@@ -61,19 +59,7 @@ Australia spends approximately $60,000 annually on imported carob powder, with d
 
 ## Propagation
 
-Carobs are generally dioecious, requiring both male and female trees for pod production, though occasional hermaphroditic individuals occur. [[organic-propagation-methods]]:
-
-1. **Seed**: Seeds have very hard protective cases requiring scarification — pour boiling water over seeds and soak overnight. Repeat for any unswollen seeds.
-2. **Direct seeding**: Possible using protective markers such as old tires; moisture must be maintained during germination
-3. **Transplanting**: Start seedlings in deep pots (minimum 2 weeks), then transplant. Cut the base from the pot, slit one side, place in hole, and slide the pot up while holding the seedling
-4. **Grafting**: Known cultivars can be grafted onto rootstock for earlier and more reliable production
-
-**Planting strategy**: Plant seedlings closer together than the final spacing to allow for natural deaths and later selection of superior fruiting females and well-placed males. Selection occurs after the first couple of seasons of fruiting (7–8 years).
-
-## Companion Planting
-
-Carobs grow well with:
-- **Tagasaste** (*[[chamaecytisus-palmensis]]*) as a nurse crop
+Carobs are generally dioecious, requiring both male and female trees for pod production, though occasional hermaphroditic individuals occur. [[chamaecytisus-palmensis]]*) as a nurse crop
 - **Albizia lophantha** as a nurse crop
 - **Acacia decurrens** as a nurse crop
 - **Grape vines** — grown together with good results in Algeria
@@ -83,13 +69,7 @@ Carobs grow well with:
 1. **Plan for the long term**: 500+ year lifespan means planting decisions are essentially permanent
 2. **Ensure deep rooting**: Never allow seedlings to become root-bound in shallow containers
 3. **Plant both sexes**: Allow for natural selection among seedlings, or graft known female cultivars
-4. **[[savory-drought-planning-and-reserves]]**: Carobs thrive where most fruit trees fail, making them ideal for dryland food systems
-5. **Pod processing**: Invest in simple milling equipment to access the premium human food market
-
-## See Also
-
-- [[permaculture-plants-tagasaste-comprehensive-profile]] — Tagasaste, a companion nurse crop
-- [[honey-locust-pod-fodder-timber-production]] — Another leguminous pod-bearing tree
+4. **[[permaculture-plants-tagasaste-comprehensive-profile]] — Tagasaste, a companion nurse crop
 - [[acacia-species-permaculture-pioneer-fodder-timber]] — Nitrogen-fixing companions
 
 ## Practical Applications
@@ -121,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ceratonia-siliqua]]
 - [[acacia]]
-- [[permaculture]]
 - [[companion-planting]]
 - [[permplant-carob-drought-tolerant-food-tree]]

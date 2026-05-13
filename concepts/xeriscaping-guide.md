@@ -35,7 +35,7 @@ This approach reduces overall water use by concentrating irrigation where it mat
 
 ### Soil Improvement for Water Retention
 
-- Incorporate 2-4 inches of compost into planting areas to [[query-how-do-fungi-improve-soil-structure]]
+- Incorporate 2-4 inches of compost into planting areas to improve soil structure
 - Compost acts as a sponge, holding several times its weight in water
 - Avoid excessive tilling, which destroys soil structure and accelerates moisture loss
 - In very sandy soils, add biochar (charged with compost tea) for improved water retention
@@ -87,9 +87,9 @@ Native plants adapted to dry conditions are the backbone of successful xeriscapi
 
 ### General Drought-Tolerant Ornamentals
 - Russian sage (Perovskia atriplicifolia)
-- Coneflowers ([[echinacea-purpurea]] and hybrids)
-- Black-eyed Susan ([[rudbeckia-fulgida]])
-- Yarrow ([[achillea-millefolium]])
+- Coneflowers (Echinacea purpurea and hybrids)
+- Black-eyed Susan (Rudbeckia fulgida)
+- Yarrow (Achillea millefolium)
 - Catmint (Nepeta faassenii)
 - Ornamental onions (Allium spp.)
 - Sedum 'Autumn Joy'
@@ -100,7 +100,7 @@ Native plants adapted to dry conditions are the backbone of successful xeriscapi
 - **Drip irrigation**: Delivers water directly to root zones, 90% efficient vs 50% for sprinklers
 - **Soaker hoses**: Porous hoses that weep water along their length, simple and effective
 - **Olla irrigation**: Unglazed clay pots buried in soil, filled with water that seeps to roots
-- **[[comparison-drip-irrigation-vs-rainwater-harvesting]]**: Collect roof runoff in barrels or cisterns for supplemental irrigation
+- **Rainwater harvesting**: Collect roof runoff in barrels or cisterns for supplemental irrigation
 
 ### Water-Saving Practices
 - Water deeply and infrequently (once per week in summer, less in cooler months)
@@ -122,7 +122,7 @@ Native plants adapted to dry conditions are the backbone of successful xeriscapi
 - Weed control in the first 2-3 years (once established, drought-tolerant plants outcompete weeds)
 - Prune to maintain shape and remove dead wood in early spring
 - Replenish mulch annually (organic mulches decompose; stone mulches stay put)
-- Monitor for [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]] — stressed plants are more vulnerable
+- Monitor for pests and disease — stressed plants are more vulnerable
 - Deep water occasionally during extended droughts, even for established drought-tolerant plants
 - Divide overgrown perennials every 3-5 years
 

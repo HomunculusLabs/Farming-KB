@@ -21,15 +21,7 @@ Dimethyltryptamine (DMT) is a powerful tryptamine hallucinogen that produces one
 
 ## Pharmacological Profile
 
-DMT (N,N-dimethyltryptamine) is a simple tryptamine molecule structurally similar to serotonin (5-hydroxytryptamine) and the neurotransmitter psilocin (the active metabolite of psilocybin). It is found endogenously in mammalian brains, including human cerebrospinal fluid, though its natural function remains debated. DMT acts primarily as a serotonin 5-HT2A receptor agonist, though it also interacts with other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes, sigma receptors, and trace amine-associated receptors.
-
-When smoked or vaporized, DMT has an exceptionally rapid onset—the subjective effects begin within 15-30 seconds of inhalation, making it one of the fastest-acting psychedelics known. The experience typically reaches peak intensity within 1-2 minutes and subsides over approximately 10-15 minutes. When taken orally (as in ayahuasca), DMT is inactive without a monoamine oxidase inhibitor (MAOI), which prevents its rapid metabolic breakdown in the gut and liver. Oral DMT with an MAOI produces a much longer experience (2-6 hours) with a different phenomenological character.
-
-## The Onset: Transition and Displacement
-
-The onset of the DMT experience is characterized by a rapid transition from ordinary waking consciousness into an entirely different mode of experience. This transition is often accompanied by distinctive sensory phenomena:
-
-- **Auditory phenomena**: A characteristic sound described as "[[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or crumpling plastic film, accompanied by an ascending tone. Terence McKenna suggested this might represent "our radio entelechy ripping out of the organic matrix."
+DMT (N,N-dimethyltryptamine) is a simple tryptamine molecule structurally similar to serotonin (5-hydroxytryptamine) and the neurotransmitter psilocin (the active metabolite of psilocybin). It is found endogenously in mammalian brains, including human cerebrospinal fluid, though its natural function remains debated. DMT acts primarily as a serotonin 5-HT2A receptor agonist, though it also interacts with other [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or crumpling plastic film, accompanied by an ascending tone. Terence McKenna suggested this might represent "our radio entelechy ripping out of the organic matrix."
 
 - **Visual phenomena**: Shifting geometric surfaces of migrating and changing colored forms, typical of classical hallucinogenic visual phenomenology. These geometric patterns undergo a progressive transformation from two-dimensional patterns to three-dimensional and then apparently four-dimensional structures.
 
@@ -73,15 +65,7 @@ The Logos experience involves the perception that reality itself is fundamentall
 
 ## Glossolalia and Language
 
-One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the DMT experience is the spontaneous emergence of glossolalia (speaking in tongues) that is qualitatively different from the classical glossolalia observed in religious contexts. Classical glossolaliasts often turn to nearby people and ask, "Did I do it?" In contrast, DMT-induced glossolalia is a direct expression of the translinguistic content of the experience—a brain state that allows the expression of an "assembly language" behind ordinary language.
-
-McKenna described this as a primal "Ursprache" (proto-language) of the sort discussed by Robert Graves in The White Goddess or described in the Kabbalistic text the Zohar—a language that comes out of oneself and seems to access a deeper layer of linguistic capacity than ordinary speech.
-
-The DMT experience also enables the spontaneous creation of visible, three-dimensional linguistic objects—"feeling-toned, meaning-toned, rotating complexes of transforming light and color" that can be summoned by vocalization. This blurring of the boundary between language and vision suggests that DMT may be acting on brain regions involved in both linguistic and visual processing.
-
-## Cognitive Dissonance and the Translinguistic Object
-
-When encountering the [[glossolalia-translinguistic-objects]] and alien communication of the DMT state, users experience a profound cognitive dissonance—a "wow" or "flutter" that builds at the brink of terror. McKenna described this as arising because "we are monkeys" encountering a translinguistic object: the brain tries to pour language over the experience, but it sheds the language like water off a duck's back, creating a feedback loop of failed comprehension that generates wonder, astonishment, and awe.
+One of the most [[glossolalia-translinguistic-objects]] and alien communication of the DMT state, users experience a profound cognitive dissonance—a "wow" or "flutter" that builds at the brink of terror. McKenna described this as arising because "we are monkeys" encountering a translinguistic object: the brain tries to pour language over the experience, but it sheds the language like water off a duck's back, creating a feedback loop of failed comprehension that generates wonder, astonishment, and awe.
 
 The entities seem aware of this problem and actively encourage the experiencer to "not get a loop of wonder going that quenches your ability to understand." Instead, they encourage focused observation and participation in what they are doing, rather than passive amazement.
 
@@ -112,11 +96,9 @@ While DMT has a remarkably low physiological toxicity profile and no known letha
 
 ## References
 
-- McKenna T. (1992) [[mckenna-tryptamine-hallucinogens-and-consciousness]] Consciousness. In: The [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
+- McKenna T. (1992) [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
 
 ## See Also
 
-- [[tryptamine-hallucinogens-and-consciousness]]
 - [[psilocybin-mushrooms]]
-- [[ayahuasca-pharmacology]]
 - [[glossolalia-and-altered-states]]

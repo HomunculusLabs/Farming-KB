@@ -12,22 +12,14 @@ tags: [reference]
 
 ## The Root Cellar as Essential Infrastructure
 
-[[mushroom-long-term-storage]] solution.
-
-## The Broader Preservation Strategy
-
-Solomon ties preservation to [[hamilton-garden-planning-and-site-assessment]]: if your goal is to produce nearly
+[[hamilton-garden-planning-and-site-assessment]]: if your goal is to produce nearly
 all the family's calories, and if you can depend on the garden producing enough
 nutritious potatoes or sweet potatoes, then the storage strategy is
-straightforward. Root cellared potatoes, supplemented by [[growing-root-vegetables-guide]],
-cabbage, and preserved greens, can carry a family through winter. Adding cereal
-grains would require five to ten times as much land per person -- the healthful
-potato is far more efficient for home-scale [[solomon-self-sufficiency-calorie-production-economics]].
+straightforward. Root cellared potatoes, supplemented by [[solomon-self-sufficiency-calorie-production-economics]].
 
 ## See Also
 
-- [[solomon-garden-planning-calorie-production]] for calculating storage needs -
-[[solomon-vegetable-varieties-self-sufficiency]] for choosing storage-worthy
+- [[solomon-vegetable-varieties-self-sufficiency]] for choosing storage-worthy
 varieties
 ## Practical Applications
 

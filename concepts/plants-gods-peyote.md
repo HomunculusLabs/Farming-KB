@@ -22,17 +22,9 @@ The genus Lophophora (Coult.) contains two recognized species that differ morpho
 
 Lophophora williamsii is usually blue-green with from 5 to 13 ribs and normally straight furrows. L. diffusa has a gray-green, sometimes yellowish green crown with indefinite ribs and sinuate furrows, and its flowers are usually much larger than in L. williamsii. The chemical constitution of L. diffusa is much simpler than that of L. williamsii, containing only trace amounts of mescaline and primarily pellotine and other tetrahydroisoquinoline alkaloids.
 
-Both species inhabit the driest and stoniest of desert regions, usually on calcareous soil. When the crown is removed, the plant will often grow new crowns, and Peyotes with multiple heads are commonly seen. This regenerative capacity has important implications for sustainable harvesting — when harvesters cut the crown above the root zone, the plant can survive and produce new crowns for future harvest. The root system is remarkably extensive for such a small plant, with a large taproot that can extend several times the diameter of the visible crown, storing water and nutrients that sustain the plant through extended drought periods. The [[psychoactive-cacti-of-central-mexico]] for a broader survey of psychoactive cactus species in the region.
+Both species inhabit the driest and stoniest of desert regions, usually on calcareous soil. When the crown is removed, the plant will often grow new crowns, and Peyotes with multiple heads are commonly seen. This regenerative capacity has important implications for sustainable harvesting — when harvesters cut the crown above the root zone, the plant can survive and produce new crowns for future harvest. The root system is remarkably extensive for such a small plant, with a large taproot that can extend several times the diameter of the visible crown, storing water and nutrients that sustain the plant through extended drought periods. The [[kava-traditional-preparation-ceremonial-context]] methods include drying fresh crowns in the sun or over low heat, grinding dried buttons into powder for capsules, or steeping buttons in water to produce a bitter infusion. The taste is intensely bitter and nauseating, which is partly why many ceremonies incorporate rituals around the difficult consumption process. For more on cactus alkaloid preparation, see [[false-peyotes-mexican-cactus-ethnobotany]] for detailed coverage of these species.
 
-## Harvest and Preparation
-
-The Indians cut off the crown and dry it for ingestion as a hallucinogen. This dry, disklike head is known as the Mescal Button or Peyote Button. The buttons are typically chewed or soaked in water to produce a bitter-tasting liquid that is consumed during all-night ceremonial sessions. Among the Huichol, the annual pilgrimage to collect Peyote in Wirikuta — their original paradisiacal home of the ancestors — is considered a holy journey of profound spiritual significance.
-
-[[kava-traditional-preparation-ceremonial-context]] methods include drying fresh crowns in the sun or over low heat, grinding dried buttons into powder for capsules, or steeping buttons in water to produce a bitter infusion. The taste is intensely bitter and nauseating, which is partly why many ceremonies incorporate rituals around the difficult consumption process. For more on cactus alkaloid preparation, see [[cactus-alkaloids-reference]] provides a comprehensive listing of known cactus alkaloids and their properties. Mescaline belongs to the [[false-peyotes-mexican-cactus-ethnobotany]] for detailed coverage of these species.
-
-The chemical profiles of false peyotes vary widely. Some contain mescaline in small quantities, while others produce entirely different alkaloid profiles. Lophophora diffusa, the closest relative of true Peyote, contains primarily pellotine (a tetrahydroisoquinoline alkaloid with sedative properties) rather than mescaline, which may explain its different subjective effects. The diversity of psychoactive cactus species in Mexico reflects the long history of experimentation with cactus alkaloids by indigenous peoples, who developed sophisticated ethnopharmacological knowledge through centuries of careful observation and use. The [[mescaline-compound-profile]] provides a complete pharmacological overview.
-
-The typical ceremonial dose of mescaline is 200-500 mg, equivalent to approximately 5-15 dried Peyote buttons depending on alkaloid content. The onset of effects occurs within 30-90 minutes of ingestion, with peak effects at 2-4 hours and a total duration of 8-12 hours. Mescaline's relatively long duration compared to psilocybin (4-6 hours) contributes to the all-night ceremonial format characteristic of both Huichol and [[halpern-sacramental-peyote-and-native-american-church]] Church practices. The [[cactus-cultivation-seed-cutting]] page provides cultivation guidelines for Peyote and related species. Several organizations in the [[dmt-containing-plants-united-states-halpern]] and Mexico now cultivate Peyote specifically for Native American Church use, reducing pressure on wild populations.
+The chemical profiles of false peyotes vary widely. Some contain mescaline in small quantities, while others produce entirely different alkaloid profiles. Lophophora diffusa, the closest relative of true Peyote, contains primarily pellotine (a tetrahydroisoquinoline alkaloid with sedative properties) rather than mescaline, which may explain its different subjective effects. The diversity of psychoactive cactus species in Mexico reflects the long history of experimentation with cactus alkaloids by indigenous peoples, who developed sophisticated ethnopharmacological knowledge through centuries of careful observation and use. The [[halpern-sacramental-peyote-and-native-american-church]] Church practices. The [[dmt-containing-plants-united-states-halpern]] and Mexico now cultivate Peyote specifically for Native American Church use, reducing pressure on wild populations.
 
 ## Ethnobotanical Context: Peyote Among the Cora and Tarahumara
 
@@ -42,11 +34,8 @@ The Wixárika (Huichol) Peyote pilgrimage to Wirikuta is among the most complex 
 
 ## See Also
 
-- [[psychoactive-cacti-of-central-mexico]] — Survey of psychoactive cactus species
 - [[mescaline-biosynthesis-and-precursor-enhancement]] — Cactus alkaloid biosynthesis
-- [[mescaline-peyote-san-pedro-cactus]] — Andean mescaline-containing cactus
-- [[plants-gods-ololiuqui]] — [[golden-guide-morning-glory-and-ololiuqui]] seeds in Aztec culture
-- [[plants-gods-ayahuasca]]
+- [[plants-gods-ololiuqui]] — [[plants-gods-ayahuasca]]
 ## Practical Considerations
 
 When working with Peyote and Lophophora williamsii, several practical factors should be
@@ -87,3 +76,75 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Plants Gods Peyote represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plants gods peyote
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plants extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plants Gods Peyote finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plants gods peyote. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plants gods peyote and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plants Gods Peyote has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plants gods peyote into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

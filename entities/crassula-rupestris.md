@@ -109,13 +109,8 @@ The closely related subsp. *marnieriana* is sometimes sold as "Jade Necklace" or
 
 ## See Also
 
-- [[crassula-ovata]]
 - [[crassula-perforata]]
-- [[crassula-brevifolia]]
 - [[adromischus-cristatus]]
-- [[cotyledon-orbiculata]]
 - [[portulacaria-afra]]
-- [[sedum-rupestre]]
 - [[kalanchoe-tomentosa]]
-- [[aeonium-arboreum]]
 - [[echeveria-elegans]]

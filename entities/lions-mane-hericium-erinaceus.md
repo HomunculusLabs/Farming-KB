@@ -34,7 +34,6 @@ Lion's Mane is a species of edible and medicinal mushroom belonging to the tooth
 
 ### Related Species
 
-- *[[hericium-coralloides]]* (Coral Hedgehog Mushroom)
 - *[[hericium-americanum]]* (Bear's Head Tooth)
 - *Hericium erinaceus* var. *novae-zealandiae* (New Zealand variant)
 
@@ -60,14 +59,7 @@ Lion's Mane is primarily found on dead or dying hardwood trees, especially oak (
 
 ### Hericenones and Erinacines
 
-The most significant [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] Lion's Mane are hericenones (found in the fruiting body) and erinacines (found in the mycelium). These are small, lipid-soluble molecules that can cross the blood-brain barrier and stimulate **Nerve Growth Factor (NGF)** synthesis in the brain.
-
-- **Hericenones C–H:** Isolated from the fruiting body, these stimulate NGF production in astrocytes
-- **Erinacines A–I:** Isolated from the mycelium, particularly erinacine A, which shows potent NGF-inducing activity
-
-### Beta-Glucans
-
-Lion's Mane contains significant levels of β-(1,3)/(1,6)-D-glucans, which contribute to its immunomodulatory effects. These polysaccharides activate macrophages, NK cells, and dendritic cells through Dectin-1 and complement receptor 3 [[plant-signaling-pathways]].
+The most significant [[plant-signaling-pathways]].
 
 ### Other Compounds
 

@@ -6,11 +6,7 @@ type: concept
 
 # Permaculture Functional Design and Integration
 
-Functional design in [[permaculture]] is the process of placing essential system components in careful relation to one another so that maintenance work is minimized, energy imports are greatly reduced, and modest surpluses can be generated for sale, trade, or export. It represents the practical application of permaculture's core ethics — care of the earth, care of people, and fair distribution of surplus — at the level of physical landscape design.
-
-## The Transformation from Isolated to Integrated Systems
-
-The fundamental shift in functional design is moving from isolated, single-purpose components to an integrated web of mutually supporting elements. In a conventional farm layout, each element operates independently: chickens are kept in a coop separate from the orchard, the greenhouse stands alone, and wastes from one system become pollution rather than resources. In an integrated [[permaculture-design]], these same components are placed so that the output of one becomes the input of another.
+Functional design in [[permaculture-design]], these same components are placed so that the output of one becomes the input of another.
 
 Consider the classic example: a chicken-house that heats (and is heated by) a glasshouse, with both receiving additional warmth from a chimney. The chickens range freely through the orchard, providing manure for the fruit trees while consuming orchard wastes and pest insects. A glasshouse also contributes heat to the main house. Part of the surrounding woodlot functions as both forage and shelter-belt. Market management and investment decisions are centralized in the house alongside an information system.
 
@@ -85,8 +81,6 @@ The ultimate goal is a system where nature does most of the work, where human ma
 - Understanding improves capacity for sustainable resource management
 
 ## Related Concepts
-- [[mollison-animal-integration-permaculture-design]]
 - [[functional-design-component-placement]]
-- [[permaculture-guild-design-method]]
 - [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 - [[applied-pattern-design-in-permaculture]]

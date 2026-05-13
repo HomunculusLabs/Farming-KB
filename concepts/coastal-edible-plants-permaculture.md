@@ -62,25 +62,7 @@ A small shrub to 1 meter found throughout arid Australia in nearly all habitats.
 
 ### Elaeagnus angustifolia (Russian Olive, Bohemian Olive)
 
-Yellow, sweet berries are eaten fresh or made into pies, sauces, jams, jellies, sherbets, and wines. The berries also provide poultry forage in late summer. This nitrogen-fixing tree is extremely cold-hardy (to -34°C) and grows right to the sea, making it one of the most versatile coastal fruit producers for [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
-
-### Nyssa sylvatica (Black Tupelo, Pepperidge)
-
-A frost-hardy tree to 30 meters with edible raw fruit useful in preserves. The tart fruit can be made into jelly and is valued by wildlife. Related species *Nyssa aquatica* and *Nyssa ogeche* are also worthy of trial in coastal settings.
-
-### Persea borbonica (Red Bay, Bull Bay)
-
-An evergreen, frost-hardy tree of low coastal areas along the eastern USA. A relative of avocado, its leaves are used as flavouring similar to bay leaves and can also be made into tea. While not a direct food crop, it provides an important culinary herb for coastal kitchens.
-
-## Honey and Nectar Producing Coastal Plants
-
-Coastal environments support significant honey production through adapted flowering plants:
-
-- **Leptospermum laevigatum** (coast tea tree): A good honey plant; dried leaves used as tea.
-- **Melaleuca spp** (paperbarks): Many species produce honey and essential oils. *Melaleuca lanceolata* produces light amber honey in summer.
-- **Hakea suaveolens**: A noted honey plant for coastal gardens.
-- **Banksia integrifolia** (coast banksia): Produces good dark honey in autumn to winter — valuable for filling the winter honey gap.
-- **[[euphorbia-tirucalli]]**: Probably a good honey plant for tropical coastal areas.
+Yellow, sweet berries are eaten fresh or made into pies, sauces, jams, jellies, sherbets, and wines. The berries also provide poultry forage in late summer. This nitrogen-fixing tree is extremely cold-hardy (to -34°C) and grows right to the sea, making it one of the most versatile coastal fruit producers for [[euphorbia-tirucalli]]**: Probably a good honey plant for tropical coastal areas.
 - **Correa alba** (Cape Barren tea): Provides nectar and its leaves serve as a tea substitute.
 
 ## Coastal Grain and Forage Crops
@@ -110,20 +92,13 @@ The edible plants of coastal zones have sustained human populations for thousand
 - **Seminole Indian** use of cocoa plum fruit as a staple food, prepared in multiple ways.
 - **Early European settlers** used sea blight and sea purslane as vegetables and pickle ingredients, and bearberry for jams and teas.
 
-This traditional knowledge provides a foundation for modern coastal food production and should guide species [[falconer-mushroom-cooking-selection-and-preparation]] methods in contemporary permaculture design.
-
-## Designing a Coastal Food System
-
-A productive coastal food garden integrates multiple layers:
-
-1. **Canopy**: Russian olive (fruit, [[biological-nitrogen-fixation-agriculture]]), New Zealand Christmas tree (windbreak, nectar), sea grape (fruit).
+This traditional knowledge provides a foundation for modern coastal food production and should guide species [[biological-nitrogen-fixation-agriculture]]), New Zealand Christmas tree (windbreak, nectar), sea grape (fruit).
 2. **Understory**: Cocoa plum (fruit), natal plum (fruit, hedge), red bay (flavouring herb).
 3. **Shrub layer**: Ruby saltbush (fruit, vegetable), coastal tea tree (honey, tea), pigface (fruit, medicinal).
 4. **Ground cover**: Warrigal cabbage (spinach substitute), sea purslane (vegetable, pickle), sea celery (seasoning), glasswort (pickle).
 5. **Edge/forage**: Palmer saltgrass (grain), kallar grass (fodder).
 
-By selecting species from each layer, a coastal permaculture system can produce vegetables, fruits, honey, tea, grain, and forage while simultaneously providing wind protection, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], soil building, and [[amphibian-habitat-creation]].
+By selecting species from each layer, a coastal permaculture system can produce vegetables, fruits, honey, tea, grain, and forage while simultaneously providing wind protection, [[amphibian-habitat-creation]].
 ## See Also
-- [[coastal-permaculture-plants]]
 - [[permaculture-plants-edible-perennials-understory]]
 - [[coastal-plant-communities-permaculture]]

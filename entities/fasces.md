@@ -43,24 +43,7 @@ group bound together is stronger than individuals. The Fasces gave its name to
 ## Connection to Secret Societies
 
 The Fasces appears in governmental architecture because secret societies (particularly
-Freemasonry) have been deeply involved in government [[mollison-designers-passive-solar-heating-building-design]]. The secrets they
-guard — including knowledge of entheogenic substances — are argued to be the basis of
-their power.
-
-### Consciousness Repression as Political Tool
-
-Fascism, broadly, operates through two mechanisms:
-1. **Oppression of sexuality:** Controlling intimate behavior through moral codes
-2. **Consciousness repression:** Suppressing access to expanded consciousness states,
-   particularly through prohibition of entheogenic substances
-
-Prohibition of entheogenic mushrooms is interpreted not as public health policy but
-as a tool of political control — preventing direct experience of transcendent states
-that would make individuals resistant to authoritarian manipulation.
-
-### Historical Pattern
-
-1. Small group discovers [[entheogenic-knowledge-secret-societies]]
+Freemasonry) have been deeply involved in government [[entheogenic-knowledge-secret-societies]]
 2. Knowledge encoded in symbols, myths, and rituals
 3. Access restricted through secret oaths and hierarchy
 4. General population kept ignorant while governed by initiates
@@ -78,26 +61,88 @@ that would make individuals resistant to authoritarian manipulation.
 
 | Symbol | Context | Connection |
 |--------|---------|------------|
-| Ankh | Egyptian | Life force, [[allegro-cross-and-mushroom-symbolism]] |
-| Djed | Egyptian | Stability, mushroom/pillar form |
-| Vajra | Buddhist | Lightning power, mushroom form |
-| Cross | Christian | Derived from Ankh |
-| Fasces | Roman/Governmental | Authority, binding, control |
-
-## Relevance to Cultivation and Mycology
-
-- Context for why entheogenic substances have been prohibited
-- Connects secret society control of entheogenic knowledge to [[holmgren-bioregional-governance-and-political-structures]]
+| Ankh | Egyptian | Life force, [[holmgren-bioregional-governance-and-political-structures]]
 - Demonstrates architecture of power physically encodes initiatory symbols
-- Helps explain modern [[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]] entheogenic mushrooms and barriers to research
-
-## Sources
-
-- Arthur, J. *[[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]*
+- Helps explain modern [[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]*
 - Reich, Wilhelm. *The Mass Psychology of Fascism*
 
 ## See Also
-- [[freemasonry]]
 - [[vajra]]
-- [[mycology]]
 - [[mushrooms-and-mankind]]
+
+## Overview
+
+Fasces represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fasces
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fasces extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fasces finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fasces. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fasces and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fasces has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fasces into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

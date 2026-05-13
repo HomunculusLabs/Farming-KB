@@ -19,13 +19,7 @@ distinguishes stages by pileus (cap) morphology and correlates each stage
 with distinct tropic behaviours. Understanding these stages is essential
 for interpreting experimental results, optimising cultivation conditions,
 and predicting how environmental variables (wind, light, gravity, humidity)
-will influence [[pf-tek-mushroom-morphology-aborts-sporocarps]] at each phase.
-
-## Stage 1: Initial Pileus Swelling
-
-Stage 1 is characterised by a slight swelling of the pileus at the apex
-of the stipe (stem). At this point the primordium has emerged from the
-substrate or [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] is approximately 15-25 mm in total height.
+will influence [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] is approximately 15-25 mm in total height.
 The stipe is relatively thin and the pileus is not yet differentiated
 into a distinct cap structure. During this stage, the mushroom is highly
 responsive to environmental stimuli, particularly wind and evaporative
@@ -47,11 +41,7 @@ second tropic response becomes apparent: a negative geotropic (upward-
 turning) curvature of the stipe that begins to override the anemotropic
 response of Stage 1. The pileus turns upward from whatever direction it
 was growing and begins to open with the lamellae facing downward. This
-[[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] is linked to spore production and does not occur in
-sporeless mutants or in the absence of light (which is required for
-sporulation). Stage 2 represents a critical transition point where the
-mushroom shifts from growth directed by physical environmental stimuli
-(wind, [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]]) to growth directed by its own reproductive
+[[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]]) to growth directed by its own reproductive
 program (spore production and dispersal).
 
 ## Stage 3: Maturity and Sporulation
@@ -112,29 +102,6 @@ stimuli. At Stage 2-3, a new tropic programme emerges: negative
 geotropism linked to spore production. This internal programme overrides
 external stimuli and directs the cap upward regardless of wind direction.
 The fact that this transition does not occur in sporeless mutants
-demonstrates that spore production and [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]] are
-biochemically linked, possibly through a gill-derived hormone or
-signalling molecule that is only produced when spore development is
-underway.
-
-## Relevance to Mushroom Cultivation
-
-Understanding the four-stage model has practical implications for
-cultivation. The sensitivity of Stage 1-2 mushrooms to wind and
-evaporative demand means that air circulation patterns in the growing
-environment directly influence stem direction and length. Excessive
-wind during early stages produces curved stems that grow toward the
-airflow, while still air allows upright growth. The transition at
-Stage 2 means that interventions to improve cap orientation or stem
-straightness must be applied early, before the geotropic programme
-takes over. The model also explains why sporeless mutant strains used
-for cultivation (chosen because they do not deposit spores on
-neighbouring mushrooms) may show different growth patterns compared
-to fertile strains, including reduced geotropic response.
-
-## See Also
-
-- [[anemotropism-in-fungi]]
-- [[mushroom-geotropism]]
+demonstrates that spore production and [[anemotropism-in-fungi]]
 - [[psilocybe-cubensis-tropisms]]
 - [[boundary-layer-redistribution-fungal-tropism]]

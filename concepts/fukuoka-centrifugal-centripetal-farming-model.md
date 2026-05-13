@@ -5,14 +5,9 @@ tags: [natural-farming, scientific-farming, centrifugal, centripetal, farming-ph
 created: 2026-05-08
 ---
 
-# Centrifugal vs Centripetal Farming: Natural [[natural-farming]] with scientific (conventional) agriculture using the metaphors of centripetal (inward-moving, converging) and centrifugal (outward-moving, diverging) forces. This framework, presented with accompanying figures in *The Natural Way of Farming: The Theory*, reveals fundamental structural differences between the two approaches that explain why scie [[fukuoka-naming-problem-of-natural-farming]]
+# Centrifugal vs Centripetal Farming: Natural [[fukuoka-naming-problem-of-natural-farming]]
 
-[[comparison-natural-farming-vs-permaculture]] is characterized by **convergence and simplification**:
-
-- **Objective**: Non-action and a return to nature.
-- **Direction**: Inward — moving toward the center, toward simplicity, toward nature's original state.
-- **Process**: Reducing inputs, reducing complexity, reducing labor.
-- **[[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] of nature, the unmoving way of Bodhidharma."
+[[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] of nature, the unmoving way of Bodhidharma."
 
 Natural farming appears "fragile and vulnerable" but is actually potent — "it brings victory unfought." It does not compete with nature but works within its existing systems. Because it is founded on principles derived from a fundamental view of nature, it "remains current and applicable in any age. Although ancient, it is also forever new."
 
@@ -20,14 +15,7 @@ Natural farming appears "fragile and vulnerable" but is actually potent — "it 
 
 Scientific farming is characterized by **divergence and expansion**:
 
-- **Objective**: [[fukuoka-textdoc-increased-production-not-increased-yields]] through technological intervention.
-- **Direction**: Outward — moving away from nature, expanding human wants and desires.
-- **Process**: Adding technology, increasing complexity, generating ever-increasing expense and labor.
-- **Energy flow**: Wasteful — each technological leap geometrically increases energy input.
-- **Knowledge requirement**: Ever-expanding — more research, more specialists, more data, yet understanding of nature diminishes.
-- **Terminal condition**: "Doomed to extinction" because the outward expansion cannot be stopped.
-
-The key contradiction of scientific farming is that it creates adverse conditions and then celebrates the "conquest" of those conditions. High-yield technologies are "no more than glorified attempts to stave off reductions in productivity" that the [[natural-farming-methods-comparison]] themselves caused. Fukuoka writes: "Man creates adverse conditions, then rejoices later at his 'conquest' of nature." The farmer weakens the soil with plows and chemicals, then marvels at the tools needed to repair the damage he created.
+- **Objective**: [[natural-farming-methods-comparison]] themselves caused. Fukuoka writes: "Man creates adverse conditions, then rejoices later at his 'conquest' of nature." The farmer weakens the soil with plows and chemicals, then marvels at the tools needed to repair the damage he created.
 
 ## The Energy Paradox
 
@@ -55,21 +43,7 @@ This geometric progression — each technological leap doubling energy input —
 
 ## The Mechanization Trap
 
-Fukuoka describes a self-reinforcing cycle that prevents farmers from escaping [[fukuoka-critique-scientific-agriculture-civilization]]:
-
-1. **New technology creates new needs**: The chain saw requires fuel and maintenance; the tractor requires diesel and repairs.
-2. **Free time becomes work time**: Labor-saving devices free the farmer from the land but create the need for off-farm income to pay for them.
-3. **Knowledge fragmentation**: Specialists in narrow fields replace holistic understanding.
-4. **Dependency increases**: Each technology creates dependency on external systems (fuel, chemicals, parts, financing).
-5. **The farmer becomes a "hired hand of industrialized society"**: Trying to make money with synthetic chemicals, "a feat that would tax even the powers of the Thousand-Handed Goddess of Mercy."
-
-## Why People Cannot Walk Away
-
-Despite the clear advantages of natural farming, Fukuoka identifies why people remain trapped in the centrifugal spiral:
-
-- **"Doing nothing" appears defeatist**: People believe non-action hurts production and productivity, even though the opposite is true.
-- **Faith in the omnipotence of science**: Until people understand the ultimate goal of "doing nothing," they will not relinquish their faith in science.
-- **Researchers add rather than subtract**: Even researchers studying natural farming "make not the slightest reduction in the use of [[cervantes-chemical-fertilizers-guide]] and pesticides."
+Fukuoka describes a self-reinforcing cycle that prevents farmers from escaping [[cervantes-chemical-fertilizers-guide]] and pesticides."
 - **Equipment keeps getting larger**: Research within the scientific framework only increases complexity.
 
 ## Food Quality Degradation
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]
-- [[doc]]
 - [[permaculture]]
 - [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]

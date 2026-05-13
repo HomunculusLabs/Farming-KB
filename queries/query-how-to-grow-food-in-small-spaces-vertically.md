@@ -13,23 +13,16 @@ type: query
 ## Short Answer
 Vertical growing maximizes food production in small spaces by training plants
 upward on trellises, walls, and stacked systems. Key strategies include
-using [[vertical-gardening-guide]] outlines several
-approaches to growing up rather than out. The simplest is training vining
-plants like tomatoes, cucumbers, beans, and peas onto trellises, stakes, or
-cages. This not only saves ground space but also improves [[stamets-growing-room-air-circulation-co2-management]],
+using [[stamets-growing-room-air-circulation-co2-management]],
 reduces disease pressure, and makes harvesting easier. Indeterminate
 tomatoes, for example, can produce 20 to 30 pounds of fruit per plant when
 trained vertically, taking up only one to two square feet of ground space.
 
 Trellis systems range from simple bamboo teepees to elaborate wall-mounted
-structures. The [[cervantes-plant-support-trellis-stakes-cages]] provide structured guidance for keeping heavy buds
-upright and maximizing light penetration through the canopy.
-
-[[comparison-cold-frame-gardening-vs-container-gardening-guide]] is the foundation of most small-space vertical systems.
+structures. The [[comparison-cold-frame-gardening-vs-container-gardening-guide]] is the foundation of most small-space vertical systems.
 Almost anything can be grown in containers if the pot is large enough, the
 soil mix is appropriate, and watering and fertilizing are managed
-consistently. The [[permaculture-plant-stacking-vertical-guilds]] concept assigns plants to canopy,
-understory, herbaceous, [[fukuoka-citrus-orchard-ground-cover-cultivation]], and root layers, each capturing
+consistently. The [[fukuoka-citrus-orchard-ground-cover-cultivation]], and root layers, each capturing
 light and nutrients at different heights. A small balcony can host a dwarf
 fruit tree in a large pot (canopy), herbs at its base (herbaceous),
 trailing strawberries (ground cover), and even edible flowers in hanging
@@ -38,18 +31,14 @@ baskets above for maximum production.
 Wall-mounted and living wall systems push vertical growing even further by
 using the vertical surfaces of buildings, fences, and balconies as growing
 space. These systems range from simple pocket planters made from felt or
-[[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]] to elaborate hydroponic wall panels. The key challenge is
-ensuring adequate water distribution and weight support.
 [[trellis-shadehouse-design-mollison]]
-  to multiply productive area per [[comparison-biointensive-vs-square-foot-gardening]] of garden space
-- Use [[permaculture-plant-stacking-vertical-guilds]] to layer plants from canopy to ground cover
+  to multiply productive area per [[permaculture-plant-stacking-vertical-guilds]] to layer plants from canopy to ground cover
 - Select compact and vining varieties suited to the available light and
   support structures in your space
 - Manage light distribution by rotating containers and placing
   shade-tolerant plants in lower positions
 
 ## Related Questions
-- [[query-how-to-build-a-raised-bed-garden]]
 - [[query-what-is-the-difference-between-aeroponics-and-hydroponics-for-cannabis]]
 ## Practical Considerations
 

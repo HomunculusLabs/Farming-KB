@@ -2,26 +2,7 @@
 
 ## Overview
 
-Mexico possesses the highest number of neurotropic (hallucinogenic) fungal species of any country on Earth. According to the comprehensive survey by Guzmán, Allen & Gartz (1998), Mexico hosts 76 species [[distribution-of-neurotropic-fungi]], of which 44 belong to the genus *Psilocybe* — representing 39% of all known psilocybian species worldwide. This extraordinary concentration of biodiversity is tightly linked to Mexico's unique forest ecology, particularly its mesophytic (cloud) forests.
-
-## Species Counts by Country
-
-The disparity between Mexico and other countries is striking:
-
-- **Mexico**: 76 total neurotropic species (44 *Psilocybe* taxa)
-- **USA and Canada combined**: 21 *Psilocybe* taxa
-- **Europe**: 14 neurotropic *Psilocybe* species
-- **Colombia**: 12 neurotropic *Psilocybe* species (notably high for South America)
-- **Africa**: Only 6–8 known neurotropic *Psilocybe* species (severely under-explored)
-
-Mexico's dominance persists even when considering all genera of neurotropic fungi, not just *Psilocybe*. The country is home to species across *Conocybe*, *Gymnopilus*, *Panaeolus*, *Pluteus*, *Gerronema*, *Inocybe*, *Hypholoma*, and others.
-
-## The Mesophytic Forest Connection
-
-Guzmán's 1983 monograph on Mexican *Psilocybe* species revealed a critical ecological pattern. Of the 42 neurotropic *Psilocybe* species documented in Mexico:
-
-- **34 species** are associated with mesophytic (cloud) forests
-- **4 species** grow in [[fungal-biodiversity-tropical-forests]]
+Mexico possesses the highest number of neurotropic (hallucinogenic) fungal species of any country on Earth. According to the comprehensive survey by Guzmán, Allen & Gartz (1998), Mexico hosts 76 species [[fungal-biodiversity-tropical-forests]]
 - **4 species** occur in coniferous forests
 
 This is particularly remarkable because coniferous forests in Mexico have been more intensively studied mycologically than mesophytic forests, yet they yield far fewer neurotropic species. The implication is that mesophytic forests are the primary ecological niche for psilocybian mushrooms.
@@ -42,35 +23,10 @@ These conditions create the persistently moist, shaded microenvironments that fa
 
 Mexico occupies a unique biogeographic position as a zone where northern hemisphere (Nearctic) and southern hemisphere (Neotropical) mycobiotas converge. This convergence is directly observable in the distribution of *Psilocybe* species:
 
-- **Northern species** like *P. caerulipes*, common in deciduous forests of [[polypore-fungi-eastern-north-america]], reach northeastern Mexico (Zacualtipan, Hidalgo) through the same type of vegetation — mesophytic forest with *Fagus*.
-- **Southern species** like *P. yungensis* and *P. subyungensis*, common in South America, reach Mexico through mesophytic forests but with *Alnus* as the dominant tree.
-
-Guzmán noted that Mexico represents a "conjugation of both northern and southern mycobiotas," making it a biogeographic crossroads that amplifies fungal diversity beyond what either hemisphere contributes alone.
-
-## Indigenous Use and Ethnomycological Significance
-
-The concentration of neurotropic species in Mexico correlates with the most well-documented indigenous mushroom-using cultures in the world. Guzmán (1997) catalogued more than 200 common names for sacred mushrooms in Mexico, many in indigenous languages:
-
-- **Nahuatl**: *teonanácatl* ("divine flesh" or "flesh of the gods")
-- **Mazatec**: *nti xhi tho* ("that eruptions thing")
-- **Other names**: *apipiltzin* ("kid or little boy"), *atkad* ("mayor or leader"), *di nizé taaya* ("fungus of the genius"), *teotlaquilnanácatl* ("divine fungus")
-
-Common Spanish names include *san isidros* (after Saint Isidro, patron of agriculture), *pajaritos* (little birds), and *derrumbes* (landslides), used respectively for *P. cubensis*, *P. mexicana*, and *P. zapotecorum*.
-
-Key indigenous groups with documented ceremonial use include the Mazatec, Zapotec, Mixtec, Chinantec, and Nahuatl peoples of Oaxaca and surrounding states. The correspondence between high species diversity and sustained indigenous use suggests a deep co-evolutionary relationship between these fungi and human cultures in the region.
-
-## Key Mexican *Psilocybe* Species
-
-Several of Mexico's 44 *Psilocybe* taxa are of particular significance:
-
-- **Psilocybe mexicana** — The type species for Section *Mexicanae*, first studied scientifically by Roger Heim. Forms sclerotia ("philosopher's stones"). Used by the Mazatec.
-- **[[psilocybe-zapotecorum]]** — Used by the Zapotec people; gives its name to Section *Zapotecorum*. Related species found as far away as New Zealand (*P. aucklandii*).
-- **[[psilocybe-caerulescens]]** — Known from several varieties including var. *mazatecorum*. Used by Mazatec healers.
+- **Northern species** like *P. caerulipes*, common in deciduous forests of [[psilocybe-zapotecorum]]** — Used by the Zapotec people; gives its name to Section *Zapotecorum*. Related species found as far away as New Zealand (*P. aucklandii*).
 - **[[psilocybe-hoogshagenii]]** — With two varieties (var. *hoogshagenii* and var. *convexa*). Significant in Oaxaca.
 - **Psilocybe aztecorum** — Named for the Aztec civilization; grows in subalpine and alpine habitats of Mexico's high mountains (Section *Aztecorum*).
-- **Psilocybe muliercula** — An [[hypholoma-naematoliformis-endemic-mexican-neurotropic-fungi-guzman-1998]] species, also known as *P. wassonii*.
-- **Psilocybe sanctorum** — A species named for its sacred significance.
-- **[[psilocybe-wassoniorum]]** — Named in honor of R. Gordon Wasson.
+- **Psilocybe muliercula** — An [[psilocybe-wassoniorum]]** — Named in honor of R. Gordon Wasson.
 
 ## Comparison with Other Global Hotspots
 
@@ -84,7 +40,7 @@ While Mexico leads in total species count, other regions also show notable conce
 
 ## The Exploration Gap
 
-Guzmán emphasized that the apparent dominance of Mexico partly reflects differential [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]. Northern America and Europe have been far more intensively collected and studied than tropical and subtropical regions of South America, Africa, and Southeast Asia. The high species count in Mexico, despite its mesophytic forests being *less* thoroughly explored than its coniferous forests, suggests that even more species likely await discovery in under-explored [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]].
+Guzmán emphasized that the apparent dominance of Mexico partly reflects differential [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]].
 
 Africa exemplifies this exploration gap most dramatically. Despite being a continent of extraordinary biodiversity, only 6–8 neurotropic *Psilocybe* species have been documented from Africa. The sole confirmed species from South Africa, *P. natalensis*, was described only in 1995 (Gartz et al.). Northern Africa has *P. mairei* from Morocco and Algeria. Kenya has *P. aquamarina*, closely related to *P. cubensis*. This paucity of records almost certainly reflects mycological neglect rather than genuine absence of species.
 
@@ -117,8 +73,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
 - [[neurotropic-fungi]]
-- [[guzman-allen-gartz-mexico-center-neurotropic-diversity]]
 - [[guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot]]
 - [[doc]]
+
+## Overview
+
+Guzman Allen Gartz Mexico Mesophytic Forest Neurotropic Hotspot represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish guzman allen gartz mexico mesophytic forest neurotropic hotspot
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving guzman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Guzman Allen Gartz Mexico Mesophytic Forest Neurotropic Hotspot finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for guzman allen gartz mexico mesophytic forest neurotropic hotspot. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+guzman allen gartz mexico mesophytic forest neurotropic hotspot and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Guzman Allen Gartz Mexico Mesophytic Forest Neurotropic Hotspot has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of guzman allen gartz mexico mesophytic forest neurotropic hotspot into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

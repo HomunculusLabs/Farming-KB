@@ -29,12 +29,7 @@ sources:
 
 ## Overview
 
-*Termitomyces heimii* is a highly prized [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Lyophyllaceae,
-notable for its obligate mutualistic symbiosis with fungus-growing termites
-(Macrotermitinae). The genus *Termitomyces* contains approximately 30 species, all of
-which are cultivated by termites within their subterranean comb structures. *T. heimii*
-is one of the most widely consumed species, harvested from termite mounds across
-tropical Africa and South and [[psilocybe-southeast-asia-pacific]]. The mushroom commands premium prices
+*Termitomyces heimii* is a highly prized [[psilocybe-southeast-asia-pacific]]. The mushroom commands premium prices
 in local markets and is culturally significant in many rural communities. Recent
 interest in its cultivation potential and unique biology has made it a subject of
 intensive mycological research.
@@ -44,36 +39,10 @@ intensive mycological research.
 Basidiomycota → Agaricomycetes → Agaricales → **Lyophyllaceae → *Termitomyces → *T.
 heimii***
 
-Described by [[roger-heim]] in 1942 from West African collections. The genus
-*Termitomyces* was established by Heim to accommodate fungi growing exclusively in
-association with fungus-growing termites. Molecular phylogenetics places
-*Termitomyces* within Lyophyllaceae, sister to the genus *Lyophyllum*. The obligate
-symbiosis with termites is believed to have evolved once, approximately 30 million
-years ago in tropical Africa, co-diversifying with their termite hosts.
-
-### Synonyms
-
-- *Podabrella microcarpa* (Berk. & Broome) Pegler (1965)
-- *Termitomyces microcarpus* sensu auct. non (Berk. & Broome) Heim
-
-## Morphology
-
-- **Cap**: 3–15 cm diameter, convex expanding to plano-convex, often with a
-  pronounced umbo. Surface smooth, dry, grayish-brown to pale brown, sometimes
-  cracking in age. The most distinctive feature is a prominent **pseudo-stipe**
-  (also called a "root" or "termitophore") — a long, cylindrical extension of the
-  stipe base that penetrates through the termite mound to the fungal comb, up to
-  50–100 cm long in some species.
-- **Gills**: White, free to adnexed, crowded, with lamellulae. Edge even.
-- **Stipe**: 5–15 cm long, 0.5–2 cm thick, central, cylindrical, white to pale
-  brown, with a [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] (ring) that often disappears with age.
+Described by [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] (ring) that often disappears with age.
 - **Flesh**: White, thick, firm, with a pleasant nutty or mild farinaceous odor
   and taste.
-- **[[boil-a-bag-spore-print-technique-jarrold]]**: White to pale pinkish. **Spores**: Broadly ellipsoid, 7–9 ×
-  5.5–7 µm, smooth, thin-walled, non-amyloid.
-- **Pseudo-stipe**: The elongated subterranean extension distinguishes
-  *Termitomyces* from all other agaric genera. It connects the above-ground
-  [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] to the fungus comb within the termite nest.
+- **[[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] to the fungus comb within the termite nest.
 
 ## Distribution and Habitat
 
@@ -82,9 +51,93 @@ South and Southeast Asia (India, Sri Lanka, Thailand, Malaysia, Indonesia).
 Exclusively associated with fungus-growing termites (*Macrotermes*, *Odontotermes*,
 *Microtermes* genera). Fruit bodies emerge from termite mounds during or
 immediately after heavy rains, typically at the onset of the rainy season. The
-mushroom appears suddenly, often overnight, and has a short [[ingham-aact-holding-time-shelf-life-decay]] of 1–2 days
-before deterioration, which limits [[magic-mushroom-retail-markets-and-commercial-distribution-channels]].
+mushroom appears suddenly, often overnight, and has a short [[magic-mushroom-retail-markets-and-commercial-distribution-channels]].
 
 ## Termite Symbiosis
 
 The mutualism between *Termitomyces* and fungus-growing termites is one of the
+
+## Overview
+
+Termitomyces Heimii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish termitomyces heimii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving termitomyces extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Termitomyces Heimii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for termitomyces heimii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+termitomyces heimii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Termitomyces Heimii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of termitomyces heimii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[termitomyces-african-mushrooms]]
+- [[termitomyces-clypeatus]]
+- [[termitomyces-eurhizus]]
+- [[termitomyces-eurrhizus]]
+- [[termitomyces-titanicus]]

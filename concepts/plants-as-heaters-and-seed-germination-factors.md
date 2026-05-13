@@ -6,15 +6,7 @@ type: concept
 
 # Plants as Heaters and Seed Germination Factors
 
-The relationship between plants and thermal conditions extends far beyond passive responses to temperature. Certain plants actively generate heat, while all seeds have specific thermal and light requirements for successful germination. Understanding these mechanisms allows [[permaculture]] designers to manipulate microclimates and improve propagation success.
-
-## Thermogenic Plants — Plants That Generate Heat
-
-Several plant species possess the remarkable ability to generate their own heat through metabolic processes, burning stored fats to raise tissue temperatures well above ambient air temperature.
-
-### Arum Lilies and Philodendrons
-
-Most or all Arum lilies and species such as *[[philodendron-selloum]]* store fats that are metabolically "burnt" to create heat, causing flowers to heat up significantly. *Philodendron selloum* may register **46 degrees C (115 degrees F)** when surrounding air is only **4 degrees C (39 degrees F)** — a temperature differential of 42 degrees C. Crocuses can heat up to **15 degrees C (27 degrees F)** above ambient air temperature.
+The relationship between plants and thermal conditions extends far beyond passive responses to temperature. Certain plants actively generate heat, while all seeds have specific thermal and light requirements for successful germination. Understanding these mechanisms allows [[philodendron-selloum]]* store fats that are metabolically "burnt" to create heat, causing flowers to heat up significantly. *Philodendron selloum* may register **46 degrees C (115 degrees F)** when surrounding air is only **4 degrees C (39 degrees F)** — a temperature differential of 42 degrees C. Crocuses can heat up to **15 degrees C (27 degrees F)** above ambient air temperature.
 
 ### Skunk Cabbage (*Symplocarpus foetidus*)
 
@@ -130,3 +122,11 @@ In New Guinea highlands (short days), cabbages from long-day climates may never 
 ### Implications for Seed Saving
 
 Photoperiod sensitivity is the primary reason for choosing varieties from local growers or selecting for flowering in new introductions. A **local seed source** is essential for all crops wanted in seed, as varieties adapted to different latitudes may fail to flower or produce seed when grown outside their photoperiod range.
+
+## See Also
+
+- [[water-use-efficiency-plants]]
+- [[us-native-hallucinogenic-dissociative-plants]]
+- [[query-how-to-make-lactobacillus-serum-for-plants]]
+- [[permaculture-plants-ground-covers-living-mulches]]
+- [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]

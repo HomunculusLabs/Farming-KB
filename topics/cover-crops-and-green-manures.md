@@ -73,27 +73,8 @@ and fed. Leaving soil bare between crops is one of the most damaging things a
 grower can do: rain compacts the surface, wind blows away topsoil, and soil
 organisms die without the food and shelter that living roots and plant
 residues provide. Cover crops maintain living roots year-round, feeding the
-[[edaphic-factors-microbial-community-structure]] through root exudates and protecting the soil food web.
-
-The modern science of cover cropping draws from multiple traditions. The
-Parisian maraichers of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] included green manure crops as
-a foundation of their intensive [[dry-gardening-unirrigated-vegetable-production-solomon]]. Masanobu Fukuoka
-elevated cover cropping to an art form through his "clover revolution" in
-rice and barley cultivation, using living white clover as a permanent ground
-cover that replaced both tillage and weeding. Permaculture designers such as
-Bill Mollison and Toby Hemenway further refined multi-species cover crop
-mixtures that stack multiple ecological functions. Today, cover crops are
-recognized as essential not only for soil health but also for carbon
-sequestration, water quality protection, and climate resilience.
-
-## Nitrogen Fixation and the Rhizobium Symbiosis
-
-Nitrogen is the most critical nutrient for plant growth and is often the
-limiting factor in agricultural productivity. Leguminous cover crops address
-this through one of the most remarkable symbioses in biology: the association
-between legume roots and Rhizobium bacteria. These bacteria colonize root
-nodules and convert atmospheric nitrogen gas into ammonium, a plant-available
-form. This process, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation, is the primary way new
+[[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] included green manure crops as
+a foundation of their intensive [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation, is the primary way new
 nitrogen enters terrestrial ecosystems.
 
 Different legume species fix nitrogen at vastly different rates. Field beans
@@ -116,32 +97,13 @@ followed by nitrogen-demanding crops in subsequent seasons. For maximum
 nitrogen contribution, legume cover crops should be terminated at early
 ## See Also
 
-- [[cover-crops]] — foundational concept page on cover crops
 - [[cover-crops-green-manures]] — permaculture perspective on cover crops
-- [[cover-crops-soil-health]] — how cover crops support the soil food web
 - [[cover-cropping-guide]] — detailed species and strategy guide
-- [[cover-cropping-systems]] — cover cropping within permaculture design
 - [[dynamic-accumulators]] — plants that concentrate and cycle nutrients
-- [[crop-rotation-benefits]] — rotation for [[cervantes-pest-disease-prevention-overview]] and nutrient
+- [[cervantes-pest-disease-prevention-overview]] and nutrient
   balance
-- [[coleman-cover-crop-rotation-and-soil-health]] — Eliot Coleman's intensive
-  production approach
 - [[cover-crop-selection-guide]] — matching species to goals and conditions
-- [[cover-crop-termination]] — methods and timing for ending cover crop growth
-
-## References
-
-- Hemenway, Toby. *Gaia's Garden: A Guide to Home-Scale Permaculture*,
-  Chapter 4: Bringing the Soil to Life.
-- Mollison, Bill. *Permaculture: A Designer's Manual*. Tagari Publications.
-- Mollison, Bill. *Permaculture Two: Practical Design for Town and Country
-  in Permanent Agriculture*. Tagari Publications.
-- Fukuoka, Masanobu. *The Natural Way of Farming: The Theory and Practice of
-  Green Philosophy*. Japan Publications.
-- Fukuoka, Masanobu. *The One-Straw Revolution*. Rodale Press.
-- Coleman, Eliot. *The Winter Harvest Handbook*. Chelsea Green Publishing.
-- Lowenfels, Jeff and Lewis, Wayne. *Teaming with Microbes*. Timber Press.
-- Hamilton, Geoff. *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]*. BBC Books.
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]*. BBC Books.
 - Faires, Nicole. *The Ultimate Guide to Natural Farming and Sustainable
   Living*. Skyhorse Publishing.
 - Solomon, Steve. *Gardening When It Counts*. New Society Publishers.

@@ -21,13 +21,7 @@ sources:
 
 Spiranthes romanzoffiana, commonly known as the hooded ladies'-tresses, is a perennial terrestrial orchid in the family Orchidaceae.
 
-It is native to [[guzman-psilocybin-mushrooms-north-america]] and occurs disjunctly in Europe and Iceland.
-
-The species is recognized by its distinctive spiral inflorescence of small, white, hooded flowers.
-
-Spiranthes romanzoffiana is considered threatened or endangered throughout much of its European range.
-
-In [[berry-growing]], the species is more widespread but has experienced localized declines.
+It is native to [[berry-growing]], the species is more widespread but has experienced localized declines.
 
 It is strongly associated with wetland habitats including fens, marshes, and stream margins.
 
@@ -63,11 +57,7 @@ The column is short and green, with viscidia that adhere to pollinators.
 
 Spiranthes romanzoffiana has a distinctive amphi-Atlantic distribution.
 
-In [[huckleberries-and-wild-berries-of-north-america]], the species ranges from Alaska across Canada to Newfoundland.
-
-It occurs southward through the Rocky Mountains to New Mexico and through the Appalachians to Georgia.
-
-Disjunct populations are found in the Great Lakes region and the northeastern [[dmt-containing-plants-united-states-halpern]].
+In [[dmt-containing-plants-united-states-halpern]].
 
 In Europe, the species occurs in Scotland, Ireland, Iceland, and isolated stations in western Norway.
 

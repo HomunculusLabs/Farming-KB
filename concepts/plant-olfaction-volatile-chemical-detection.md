@@ -11,11 +11,7 @@ their environment, a capacity that Daniel Chamovitz explores in Chapter 2 of
 "What a Plant Knows." Plant olfaction, while fundamentally different from
 animal smell, enables plants to perceive neighboring organisms, respond to
 herbivore attacks, coordinate ripening, and engage in complex ecological
-interactions through airborne [[bloomfield-fungal-reproduction-and-chemical-communication]].
-
-## The Mechanism of Plant Smell
-
-Plants detect [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs) through receptor proteins in
+interactions through airborne [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs) through receptor proteins in
 their cell membranes. When a volatile molecule binds to these receptors, it
 triggers intracellular signaling cascades that alter gene expression and
 physiological responses. Unlike animals, which have specialized olfactory
@@ -24,8 +20,7 @@ roots all possess chemosensory capabilities.
 
 The plant equivalent of an olfactory receptor is typically a membrane-bound
 protein that undergoes a conformational change when it binds a specific
-[[fungal-btex-volatile-compound-degradation]]. This change initiates a signal transduction pathway
-involving secondary messengers such as calcium ions, [[reactive-oxygen-species-and-oxidative-stress]],
+[[reactive-oxygen-species-and-oxidative-stress]],
 and phytohormones like ethylene, jasmonic acid, and salicylic acid.
 
 ## Key Examples of Plant Olfaction
@@ -71,8 +66,7 @@ plant-microbe communication, and belowground ecological relationships:
   paradoxically also trigger germination of parasitic witchweed seeds.
 - **Allelochemicals**: Some plants release compounds that inhibit the
   growth of competing species through root-level chemical detection.
-- **Microbe signaling**: Roots detect [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] volatile
-  compounds to modulate immune responses and [[fungi-in-the-environment-symbiotic-relationships]].
+- **Microbe signaling**: Roots detect [[fungi-in-the-environment-symbiotic-relationships]].
 
 ## Molecular Basis of Volatile Detection
 

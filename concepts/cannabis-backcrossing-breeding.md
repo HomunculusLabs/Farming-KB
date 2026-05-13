@@ -11,7 +11,7 @@ sources:
 
 # Cannabis Backcrossing Breeding
 
-[[cervantes-backcross-breeding-methods]] involves repeated crossing of progeny with one of the original parental genotypes. In [[oner-cannabis-breeding-fundamentals]], this most often means crossing progeny back to the mother plant. The parent that is used repeatedly is called the recurrent parent, while the other contributing parent is called the donor parent. Backcross breeding has become one of the staple methods used by clandestine cannabis breeders because it is a simple, rapid method that requires only small populations and works well in controlled indoor environments.
+[[oner-cannabis-breeding-fundamentals]], this most often means crossing progeny back to the mother plant. The parent that is used repeatedly is called the recurrent parent, while the other contributing parent is called the donor parent. Backcross breeding has become one of the staple methods used by clandestine cannabis breeders because it is a simple, rapid method that requires only small populations and works well in controlled indoor environments.
 
 The technique is widely used in conventional plant breeding as well as cannabis, and its predictability makes it especially valuable when the breeder wants to improve a proven cultivar without dramatically altering its characteristics. The method was formalized in the early 20th century by crop geneticists working with cereal grains, and has since been applied to virtually every major agricultural crop. In cannabis, where the breeding community has historically operated outside formal agricultural institutions, backcrossing was adopted independently and remains one of the most commonly employed techniques.
 
@@ -19,7 +19,7 @@ The technique is widely used in conventional plant breeding as well as cannabis,
 
 The principal goal of backcross breeding is to create a population of individuals derived mainly from the genetics of one single parent (the recurrent parent) while incorporating a specific desirable trait from the donor parent. The recurrent parent should be a highly acceptable or nearly ideal genotype — for example, an existing commercial cultivar or inbred line. The trait being introgressed from the donor parent should be simply inherited and easily scored for phenotype.
 
-For example, a breeder might have an excellent yielding strain that lacks resistance to a particular mold. By crossing it with a mold-resistant donor parent and then repeatedly backcrossing to the high-yielding recurrent parent while selecting for mold resistance, the breeder can create a new line that retains most of the original genetics but now carries the resistance trait. Other commonly introgressed traits include altered flowering time, specific [[cannabis-terpene-profiles-sativa]], plant height modification, and [[cannabis-disease-pest-resistance-breeding-clarke]]. The key requirement is that the trait must be simply inherited — controlled by one or a few genes — so that selection is reliable at each generation.
+For example, a breeder might have an excellent yielding strain that lacks resistance to a particular mold. By crossing it with a mold-resistant donor parent and then repeatedly backcrossing to the high-yielding recurrent parent while selecting for mold resistance, the breeder can create a new line that retains most of the original genetics but now carries the resistance trait. Other commonly introgressed traits include altered flowering time, specific [[cannabis-disease-pest-resistance-breeding-clarke]]. The key requirement is that the trait must be simply inherited — controlled by one or a few genes — so that selection is reliable at each generation.
 
 ## Backcrossing Dominant Traits
 
@@ -53,25 +53,7 @@ The additional F2 generation required at each backcross step substantially incre
 
 ## Practical Considerations
 
-Backcross derived lines are well-adapted to the environment in which they were bred, which is why backcrossing is particularly popular among [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] breeders. Indoor grow rooms are easily replicated worldwide, so progeny need less extensive field-testing across diverse environments compared to outdoor-bred varieties.
-
-If two or more traits are to be introgressed into a new seed line, these are typically tracked in separate backcross programs, and the individual products are combined in a final set of crosses after the new populations have been created. This approach ensures that each trait is cleanly introgressed without genetic linkage dragging unwanted donor genes into the final product.
-
-The number of backcross generations required depends on the breeder's goals. After BC1, the population is approximately 75% recurrent parent; after BC2, 87.5%; after BC3, 93.75%; and after BC4, 96.875%. Most breeders stop at BC3 or BC4, as further backcrossing yields diminishing returns. The additional time required for each generation must be weighed against the small incremental gain in recurrent parent recovery — particularly in cannabis where generation time can be 3-4 months from seed to harvestable pollen.
-
-## Linkage Drag and Its Consequences
-
-A significant risk in backcrossing is linkage drag — the unintentional transfer of undesirable genes located near the target trait on the same chromosome. Because genes that are physically close on a chromosome tend to be inherited together, selecting for a desirable trait may also bring along neighboring genes from the donor parent that reduce yield, potency, or vigor. This problem is especially acute in cannabis where dense gene clusters around loci controlling cannabinoid synthesis may also carry genes affecting growth habit or disease susceptibility. Large population sizes at each backcross generation increase the probability of finding rare recombinant individuals where a crossover event has separated the target gene from unwanted linked genes.
-
-The severity of linkage drag depends on the genetic distance between the target gene and the nearest undesirable donor alleles. In cannabis, the THCAS and CBDAS genes (which encode the synthases converting CBGA to THCA and CBDA respectively) are located in close proximity on chromosome 7. Introgressing a CBD-dominant allele into a THC-dominant background can inadvertently drag linked regulatory elements that modify the overall cannabinoid profile. Marker-assisted backcrossing mitigates this problem by allowing breeders to screen specifically for recombinant individuals that have retained the target gene while shedding flanking donor sequences.
-
-## Limitations of Backcrossing
-
-When the recurrent parent is not very true-breeding, the resulting backcross generations segregate, and many desirable traits fail to be reproduced reliably. This makes selecting a stable, homozygous recurrent parent essential before beginning a backcross program.
-
-Another limitation is that the improved variety differs only slightly from the recurrent parent, which limits the genetic diversity introduced. Backcrossing is not suitable for creating entirely new varieties — it is best used for refining an already excellent line by adding one or two specific traits. In a market that increasingly values novel combinations of effects, flavors, and aromas, backcross-derived varieties may be seen as incremental improvements rather than exciting new offerings.
-
-For breeders seeking to develop entirely new combinations of traits rather than refine existing lines, [[cannabis-chemotype-classification-cannabinoid-breeding]] that rely on understanding the genetic basis of chemical phenotypes.
+Backcross derived lines are well-adapted to the environment in which they were bred, which is why backcrossing is particularly popular among [[cannabis-chemotype-classification-cannabinoid-breeding]] that rely on understanding the genetic basis of chemical phenotypes.
 
 The most commonly used markers in cannabis include simple sequence repeats (SSRs) and single nucleotide polymorphisms (SNPs). SNP arrays and genotyping-by-sequencing (GBS) have made high-density marker screening cost-effective for cannabis breeding programs. These tools allow simultaneous tracking of the target trait and monitoring of the overall recurrent parent genome recovery across all chromosomes, dramatically accelerating the pace of variety development.
 
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-backcrossing]]
 - [[dom]]
-- [[det]]
 - [[ghb]]
 - [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]

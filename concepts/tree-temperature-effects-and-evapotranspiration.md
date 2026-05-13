@@ -77,20 +77,18 @@ These colour properties have direct practical applications:
 Trees thus serve as living climate-control systems, passively moderating temperature extremes through multiple simultaneous mechanisms. Understanding these effects allows permaculture designers to strategically place trees, vines, and water features for maximum thermal comfort in human settlements.
 
 ## Ecological Significance
-The principles described in relation to tree temperature effects and evapotranspiration
+The principles described in relation to [[tree-temperature-effects]] and evapotranspiration
 are fundamental to understanding how natural systems maintain equilibrium.
 Forests and vegetation play critical roles in water cycling, temperature
 regulation, and atmospheric processes that sustain regional climate patterns.
 
 ## Practical Applications
-These concepts apply directly to permaculture design, agroforestry systems,
+These concepts apply directly to [[permaculture-design]], agroforestry systems,
 and watershed management. Understanding the interactions between vegetation,
 water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
 ## See Also
-- [[tree-temperature-effects]]
 - [[tree-temperature-effects-and-microclimate-modification]]
-- [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
 - [[tree-biomass-and-wind-effects]]
 - [[tree-effects-on-precipitation]]

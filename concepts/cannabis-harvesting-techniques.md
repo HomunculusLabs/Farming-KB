@@ -10,32 +10,11 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 12)
-
-Harvesting at the right time and using proper techniques directly impacts the potency, flavor, and quality of your final product. Green covers the full harvest process from timing to cutting.
-
-## Harvest Timing
-
-The ideal harvest window depends on the desired effect:
-
-### By Pistil Color
-- **Mostly white pistils (0–10% brown)**: Not ready — THC is still building
-- **50% brown/orange pistils**: Early harvest — more cerebral, energetic high, less sedation
-- **60–70% brown/orange pistils**: Peak harvest window — balanced potency and effect
-- **70–80%+ brown pistils**: Late harvest — more body-heavy, sedative effect, higher CBN, may be slightly less potent in THC
-
-### By Trichome Color
-See [[cannabis-flushing-before-harvest]].
-2. **Dark period**: Some growers give plants 24–48 hours of complete darkness before harvest. The theory is that this boosts resin and terpene production as a [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
-3. **Prepare drying space**: Set up your drying area before cutting — see [[cannabis-drying-and-curing-guide]] for drying procedures
+Source: The [[cannabis-flushing-before-harvest]].
+2. **Dark period**: Some growers give plants 24–48 hours of complete darkness before harvest. The theory is that this boosts resin and terpene production as a [[cannabis-drying-and-curing-guide]] for drying procedures
 2. **Do NOT rush drying**: Slow, controlled drying preserves terpenes and prevents mold
-3. **Cure properly**: Curing develops flavor and smoothness over weeks. See [[cannabis-harvest-timing-visual-cues]] — determining the [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] time
-- [[cannabis-drying-and-curing-guide]] — post-harvest processing for quality
+3. **Cure properly**: Curing develops flavor and smoothness over weeks. See [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] time
 - [[cannabis-flowering-stage]] — flowering phase management
-- [[cannabis-chronic-pain-management]]
-
-## See Also
-
 - [[cannabis-manicuring-techniques]]
 ## Practical Applications
 
@@ -97,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[greg-green]]
 - [[cannabis-harvesting-and-curing-techniques]]
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]

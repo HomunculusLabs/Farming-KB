@@ -36,15 +36,11 @@ sources:
 - **Common names:** Conifer coral mushroom, western bear's head, bear's head tooth
 - **Family:** Hericiaceae | **Order:** Russulales | **Phylum:** Basidiomycota
 - **Growth form:** Tooth fungus — pendant spines from branched coral-like base
-- **Native range:** Pacific Northwest [[psilocybin-north-america-pacific-northwest]]; also Scandinavia
-- **Fruiting season:** Late summer to autumn (September–November)
-- **Rarity:** Uncommon to rare; declining due to old-growth habitat loss
-- **[[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]:** Multiple branches from common base, 5–25 cm broad
+- **Native range:** Pacific Northwest [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]:** Multiple branches from common base, 5–25 cm broad
 - **Spines:** White to cream, pendant, soft, 0.5–2.5 cm, cascading
 - **Flesh:** White, soft, watery fresh; fibrous dried
 - **Odor:** Pleasant, mild, seafood-like | **Taste:** Sweet, lobster-like
-- **[[boil-a-bag-spore-print-technique-jarrold]]:** White | **Spores:** Globose, smooth, 5–7 µm, amyloid
-- **Ecological role:** Saprotrophic ([[bioremediation-fenton-chemistry-brown-rot-fungi]] of conifer heartwood)
+- **[[bioremediation-fenton-chemistry-brown-rot-fungi]] of conifer heartwood)
 
 ## Taxonomy & Classification
 
@@ -72,11 +68,7 @@ sources:
 
 - **Erinacines** (cyathane diterpenoids): Mycelial culture; NGF stimulators;
   erinacine A promotes neurite outgrowth; comparable to H. erinaceus
-- **Hericenones** (aromatic compounds): [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]; C–H detected via
-  HPLC-MS; NGF-enhancing activity
-- **β-Glucans** ((1→3)(1→6)-linked): ~15–20% dry weight; immunomodulatory
-  via macrophage activation; potential antitumor
-- **Other:** Ergosterol (vitamin D₂), phenolics (antioxidant), [[carbon-isotope-labelling-mycorrhizal-fatty-acids]],
+- **Hericenones** (aromatic compounds): [[carbon-isotope-labelling-mycorrhizal-fatty-acids]],
   glutamic acid (umami)
 
 ## Edible & Medicinal Properties

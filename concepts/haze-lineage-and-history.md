@@ -17,21 +17,9 @@ type: concept
 
 # Haze Lineage and History
 
-The Haze family is perhaps the most celebrated and influential lineage in [[vic-high-cannabis-genetics-mendelian-inheritance]].
-Originating in California during the 1960s and 1970s, Haze strains have defined the modern sativa
-experience and served as genetic building blocks for hundreds of [[cervantes-hybrid-varieties-types]]. From coffee
+The Haze family is perhaps the most celebrated and influential lineage in [[cervantes-hybrid-varieties-types]]. From coffee
 shop menus to medical dispensaries, the Haze name carries an almost mythic weight in cannabis
-culture, representing the pinnacle of [[cannabis-sativa-breeding-evolution]] achievement.
-
-## Origins of Haze
-
-Haze was originally created in Santa Cruz, California in the early 1970s by a group of brothers
-known as the Haze Brothers. They combined genetics from four distinct geographic sources: Mexico,
-Colombia, Thailand, and southern India. This ambitious four-way hybrid produced a plant with
-extraordinary potency and a soaring cerebral high unlike anything that had come before.
-The original Haze became legendary on the West Coast but was notoriously difficult to grow,
-requiring long flowering times of 14 to 16 weeks and reaching enormous heights that made indoor
-cultivation nearly impossible in the era before modern [[cannabis-training-techniques-comparison]] were developed.
+culture, representing the pinnacle of [[cannabis-training-techniques-comparison]] were developed.
 The Haze Brothers' creation would go on to influence virtually every major sativa-dominant
 strain developed in the subsequent decades. Dutch breeders, particularly Neville Schoenmaker and
 the team at Positronics Seeds, obtained Haze genetics in the 1980s and began incorporating them
@@ -69,21 +57,9 @@ high. THC content is approximately 16%.
 The Amnesia family represents one of the most commercially successful branches of the Haze
 tree, particularly in European markets where it dominates coffee shop menus.
 
-### [[low-stress-training]] techniques.
-Flowering runs 90 days, with every inch of stem covered in thick white-haired buds by the end.
-The classic Haze scent sends expectations soaring, and then the high throws you up into the air
-to smash them into a million pieces — a bolt of energy followed by a gentle descent into a
-relaxing bubble hours later. As with all Medical Seeds Company strains, Y Griega makes excellent
-hash and oil.
-(Section truncated for length.)
-
-## [[super-silver-haze]] Descendants
+### [[super-silver-haze]] Descendants
 
 ## See Also
-
-- [[african-landrace-sativa-strains]]
-
-- Thai Landrace Sativas
 
 - [[jack-herer-cannabis-strain]]
 
@@ -116,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[haze-genetics]]
 - [[dom]]
-- [[haze-cannabis-lineage-and-breeding-history]]
 - [[haze-lineage-and-genetic-history]]
 - [[haze-lineage-and-legacy-in-modern-breeding]]

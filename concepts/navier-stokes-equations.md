@@ -2,9 +2,9 @@
 title: "Navier-Stokes Equations"
 created: 2026-04-28
 updated: 2026-05-06
-aliases: [[navier-stokes-equations-fluid-dynamics]], [[computational-fluid-dynamics]] equations, NS equations]
+aliases: [[computational-fluid-dynamics]] equations, NS equations]
 tags: [physics, fluid-dynamics, engineering, partial-differential-equations]
-related: [reynolds-number-and-flow-regimes, [[heat-transfer-mechanisms]], [[laws-of-thermodynamics]]
+related: [reynolds-number-and-flow-regimes, [[laws-of-thermodynamics]]
 type: concept
 sources: []
 ---
@@ -13,7 +13,7 @@ sources: []
 
 The Navier-Stokes equations are the fundamental partial differential equations governing the motion of viscous fluid substances. Derived from Newton's
 second law applied to fluid elements, they describe how the velocity field, pressure, temperature, and density of a moving fluid evolve in space and
-time. Together with an equation of state and appropriate boundary conditions, they form a complete mathematical description of fluid flow. The
+time. Together with an equation of state and appropriate [[boundary-conditions-and-edge-effect]], they form a complete mathematical description of [[von-karman-trails-and-fluid-flow-patterns]]. The
 equations are central to aerodynamics, meteorology, oceanography, biomedical engineering, chemical processing, and astrophysics. Their mathematical
 complexity — arising primarily from the nonlinear convective acceleration term — makes them among the most important and challenging equations in all
 of mathematical physics. Despite being formulated in the 19th century, fundamental questions about their solutions remain unanswered, including
@@ -58,17 +58,7 @@ Each term in the momentum equation has a distinct physical role. The unsteady ac
 convective acceleration ρ(u·∇)u represents nonlinear momentum transport by the flow itself — the sole source of nonlinearity, responsible for boundary
 layer separation, vortex shedding, and turbulence. The pressure gradient −∇p drives fluid from high to low pressure. The viscous diffusion μ∇²u
 represents molecular friction diffusing momentum, smoothing velocity gradients; it dominates at low Reynolds numbers and is mathematically analogous
-to [[fouriers-law-heat-conduction]]. Body forces ρf include gravity, Lorentz forces in magnetohydrodynamics, Coriolis forces in rotating frames, and buoyancy via the
-Boussinesq approximation.
-
-## Boundary Conditions
-
-The equations require initial velocity data and boundary conditions. The no-slip condition (u = 0 at walls) is standard for Newtonian fluids when the
-Knudsen number (mean free path / characteristic length) is below ~0.01; it fails for rarefied gases. Free-slip conditions enforce impermeability with
-zero tangential stress, used for symmetry planes. Periodic boundaries are standard in DNS/LES of homogeneous turbulence. Inlet conditions prescribe
-velocity profiles or mass flow rates; outlet conditions include zero-gradient (Neumann), convective, pressure-specified, and non-reflecting
-characteristic formulations. Free surfaces require kinematic conditions (surface particles remain on interface) and dynamic stress balance including
-[[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] via the Young-Laplace equation Δp = σκ.
+to [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] via the Young-Laplace equation Δp = σκ.
 
 ## Dimensionless Numbers and Flow Similarity
 
@@ -88,3 +78,7 @@ Q = πR⁴Δp/(8μL) — the fourth-power law, fundamental to piping design and 
 
 Stokes flow (Re << 1) neglects inertia entirely, yielding the linear system μ∇²u = ∇p − ρf with Stokes' drag law F_D = 6πμRU for a sphere —
 fundamental to microfluidics, particle settling, and biological flows (flagella, cilia). Hiemenz stagnation point flow (1911) reduces Navier-Stokes to
+
+## See Also
+
+- [[navier-stokes-equations-fluid-dynamics]]

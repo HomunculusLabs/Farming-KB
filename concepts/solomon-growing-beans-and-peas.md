@@ -9,10 +9,7 @@ sources:
 ---
 # Solomon on Growing Beans and Peas
 
-From [[solomon-complete-organic-fertilizer-guide]]
-
-- [[complete-organic-fertilizer-recipes]]
-- [[cover-crop-guide-detailed]]
+From [[complete-organic-fertilizer-recipes]]
 - [[solomon-cover-crops-green-manure-guide]]
 - [[gaias-garden-cover-crops-soil-building]]
 ## Background and Context
@@ -88,3 +85,10 @@ identify opportunities for implementation in their own contexts.
 
 Integration with other systems and approaches often yields the most
 robust and resilient outcomes. Rather than treating this topic in
+
+## See Also
+
+- [[solomon-growing-brassicas-guide]]
+- [[solomon-growing-cucurbits-guide]]
+- [[solomon-growing-peppers-eggplant]]
+- [[solomon-growing-salad-greens]]

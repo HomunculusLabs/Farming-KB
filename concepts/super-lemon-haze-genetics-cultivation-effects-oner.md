@@ -1,14 +1,8 @@
 # Super Lemon Haze — Genetics, Cultivation, and Effects
 
-**Source:** S.T. Oner, *[[cannabis-sativa]] Vol. 3: The Essential Guide to the World's Finest Marijuana Strains*
+**Source:** S.T. Oner, *[[super-silver-haze]], this strain has become one of the most recognized and celebrated modern cannabis varieties. It won the High Times Cannabis Cup and has maintained enduring popularity among both recreational and medical users since its introduction.
 
----
-
-## Strain Overview
-
-Super Lemon Haze is a sativa-dominant hybrid bred by Green House Seed Company of Holland. Created by crossing a Lemon Skunk plant with a [[super-silver-haze]], this strain has become one of the most recognized and celebrated modern cannabis varieties. It won the High Times Cannabis Cup and has maintained enduring popularity among both recreational and medical users since its introduction.
-
-The strain is classified as sativa-dominant with a THC content of approximately 19.33% and minimal CBD at 0.21%. Its genetic lineage combines the sharp citrus characteristics of Lemon Skunk with the legendary potency and complex resin profile of [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]], itself a descendant of [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], Haze, and Skunk genetics.
+The strain is classified as sativa-dominant with a THC content of approximately 19.33% and minimal CBD at 0.21%. Its genetic lineage combines the sharp citrus characteristics of Lemon Skunk with the legendary potency and complex resin profile of [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], Haze, and Skunk genetics.
 
 ---
 
@@ -16,7 +10,7 @@ The strain is classified as sativa-dominant with a THC content of approximately 
 
 The parent strains that form Super Lemon Haze each bring distinct characteristics to the cross:
 
-**Lemon Skunk** contributes the dominant citrus [[cannabis-terpene-profile]]—limonene is the primary terpene, responsible for the strain's signature lemon aroma and flavor. The Skunk lineage provides robust growth characteristics, reliable flowering times, and generous [[cannabis-glandular-trichome-types-resin-production-clarke]].
+**Lemon Skunk** contributes the dominant citrus [[cannabis-glandular-trichome-types-resin-production-clarke]].
 
 **Super Silver Haze** contributes the uplifting, cerebral sativa effects and the Haze family's characteristic complex flavor profile. Super Silver Haze itself is a three-way cross of Northern Lights (indica), Haze (sativa), and Skunk #1 (hybrid), making Super Lemon Haze a multi-generational hybrid with deep genetic complexity.
 
@@ -26,7 +20,7 @@ The combination produces a strain that expresses the best traits of both parents
 
 ## Growth Characteristics
 
-Super Lemon Haze is classified as a medium-height plant, making it accessible to both indoor and outdoor growers. The plant develops long, wide branches that respond well to [[cannabis-sativa-indoor-training-techniques]], making it an excellent candidate for [[cannabis-screen-of-green-scrog-guide]] (ScrOG) setups and [[low-stress-training]] (LST) methods.
+Super Lemon Haze is classified as a medium-height plant, making it accessible to both indoor and outdoor growers. The plant develops long, wide branches that respond well to [[cannabis-screen-of-green-scrog-guide]] (ScrOG) setups and [[low-stress-training]] (LST) methods.
 
 Key growth traits include:
 

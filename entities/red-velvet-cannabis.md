@@ -22,12 +22,7 @@ sources:
 
 # Red Velvet
 
-**Red Velvet** is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] renowned for its striking visual appearance — dense, deep purple buds coated in fiery orange pistils that evoke the layered colors of a red velvet cake. Bred by crossing **[[tree-of-knowledge-and-forbidden-fruit-theory]]** ([[cherry-pie-cannabis]] × Tangie) with a select **Red Velvet Cake** phenotype, this strain combines bold cherry and citrus terpenes with heavy, sedating effects suitable for evening use.
-
-## Genetics and Lineage
-
-```
-Cherry Pie × Tangie → [[forbidden-fruit-cannabis]]
+**Red Velvet** is an indica-dominant hybrid [[tree-of-knowledge-and-forbidden-fruit-theory]]** ([[forbidden-fruit-cannabis]]
           ↓
 Forbidden Fruit × Red Velvet Cake selection
           ↓

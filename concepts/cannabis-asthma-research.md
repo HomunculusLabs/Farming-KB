@@ -30,20 +30,7 @@ Asthma affects approximately 300 million people worldwide and 25 million people 
 - Allergens (pollen, dust mites, pet dander, mold)
 - Air pollutants
 - Exercise
-- [[hemenway-cold-air-drainage-and-frost-management]]
-- Respiratory infections
-- Stress and strong emotions
-- Certain medications (aspirin, beta-blockers)
-- Gastroesophageal reflux disease (GERD)
-
-### Orthodox Treatment
-- Quick-relief (rescue) medications: Short-acting bronchodilators (albuterol)
-- Long-term control medications: Inhaled corticosteroids, long-acting bronchodilators, leukotriene modifiers
-- Biologics for severe asthma (omalizumab, mepolizumab)
-- Avoidance of triggers
-
-### Important Caveat on Smoking
-Smoking cannabis is NOT recommended for asthma patients. Smoke of any kind irritates airways and can trigger asthma attacks. Research on cannabinoids and asthma focuses on non-smoked [[cannabis-delivery-methods-comparison]].
+- [[cannabis-delivery-methods-comparison]].
 
 ## Cannabis Research for Asthma
 
@@ -67,16 +54,9 @@ For asthma, non-smoked delivery methods are essential:
 - **Vaporization:** Heats cannabis to release cannabinoids without combustion; significantly reduces smoke and irritants
 - **Tinctures/sublingual:** Fast absorption without lung involvement
 - **Edibles:** Slow onset but long duration; no lung irritation
-- **Topical:** Not relevant for [[cannabis-respiratory-conditions]]
+- **Topical:** Not relevant for [[blesching-cannabis-prostate-cancer-chi-value-3]]** | | | **5** |
 
-### Evidence Summary
-| Substance | Study Type | Key Finding | CHI |
-|-----------|-----------|-------------|-----|
-| THC (various delivery methods) | Clinical and laboratory studies | Bronchodilatory effects; opens airways | 3 |
-| CBD | Laboratory studies | Anti-inflammatory effects on airway tissues | 2 |
-| **Total [[blesching-cannabis-prostate-cancer-chi-value-3]]** | | | **5** |
-
-Note: Direct [[mushroom-cancer-clinical-trials-overview]] specifically on [[cannabis-for-asthma]] are limited. Most evidence comes from studies of cannabinoid mechanisms in the respiratory system and patient reports.
+Note: Direct [[cannabis-for-asthma]] are limited. Most evidence comes from studies of cannabinoid mechanisms in the respiratory system and patient reports.
 
 ## Strain-Specific Considerations
 
@@ -118,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-and-asthma]]
 - [[doc]]
-- [[dom]]
 - [[endocannabinoid-system]]
 - [[anandamide]]

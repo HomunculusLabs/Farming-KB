@@ -1,7 +1,6 @@
 ---
 title: "shirota-glyoxalylamide-formation-oxalyl-chloride-indole Glyoxalylamide Crystallization in acetylation-protection-psilocin-synthesis-4-hydroxyindole"
-aliases: [glyoxalylamide yellow crystal formation, [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]
-  acylation 4-acetylindole, [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]] step two]
+aliases: [glyoxalylamide yellow crystal formation, acetylation-protection-psilocin-synthesis-4-hydroxyindole step two]
 tags: [shirota, psilocin, synthesis, oxalyl-chloride, glyoxalylamide,
   crystallization, organic-chemistry, tryptamines]
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda
@@ -12,9 +11,7 @@ created: 2026-05-08
 
 ## Overview
 
-In the concise large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] reported
-by Shirota, Hakamata, and Goda (2003), the conversion of 4-acetylindole
-(4) to the [[glyoxalylamide-intermediate-in-tryptamine-synthesis]] (6) via oxalyl chloride
+In the concise large-scale synthesis of [[glyoxalylamide-intermediate-in-tryptamine-synthesis]] (6) via oxalyl chloride
 represents a critical two-step acylation-amidation sequence. This step
 produces a distinctive yellow crystalline product and proceeds in over
 80% yield, making it highly suitable for gram-scale production without
@@ -88,3 +85,7 @@ material). Key spectroscopic data include:
 - δ 168.4: The second carbonyl of the oxalyl bridge
 - δ 144.2: The C-4 position bearing the acetyl group
 - δ 139.2: C-7a bridgehead carbon
+
+## See Also
+
+- [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]

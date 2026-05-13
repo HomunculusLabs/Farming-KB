@@ -19,8 +19,7 @@ sources:
   - Boulos, L. & Francis, F. (2022). "Sustainable Color: Advances in Fungal Pigment Extraction for Textile Applications." *Dyes and Pigments*, 198, 110412.
 type: query
 ---
-# How to Extract [[pisolithus-tinctorius]]**: The "dyeball" mushroom gives rich yellows, oranges, and tans. Common in disturbed soils and along roadsides.
-- **[[hydnellum-peckii]]** and other "bleeding" tooth fungi: Offer deep reds and burgundies from their exuded pigments.
+# How to Extract [[hydnellum-peckii]]** and other "bleeding" tooth fungi: Offer deep reds and burgundies from their exuded pigments.
 
 Beginners should start with Phaeolus schweinitzii or Pisolithus tinctorius, as they are abundant, easy to identify, and forgiving in the dye pot.
 
@@ -37,31 +36,8 @@ The basic extraction process is straightforward:
 5. **Simmer** in a stainless steel or enamel pot (never aluminum) at a low boil for 1 to 2 hours. Use roughly equal parts mushroom material to water by weight.
 6. **Strain** the liquid through a fine mesh or cheesecloth. The resulting dyebath is ready to use.
 
-For pigment-rich species like Cortinarius, you can often reuse the dyebath for a second, lighter batch. Save the [[staycare-spent-mushroom-compost-bioremediation]] material for compost   it returns nutrients to the soil.
-
- -
-
-## What mordants work best with fungal dyes?
-
-Mordants fix the dye to fiber and often shift or intensify the color. The most common mordants for fungal dyes are:
-
-- **Alum (potassium aluminum sulfate)**: The standard all-purpose mordant. Brightens and stabilizes most colors. Use at 15% weight of fiber (WOF).
-- **Iron (ferrous sulfate)**: Saddens and darkens colors. Turns yellows into olive greens, reds into purples or grays. Use at 2-5% WOF.
-- **Copper (copper sulfate)**: Shifts yellows toward green and brightens some reds. Use at 2-5% WOF.
-- **Tin (stannous chloride)**: Brightens colors dramatically but can make them brittle over time. Use sparingly at 0.5-1% WOF.
-- **Cream of tartar**: Often used alongside alum as an assistant to brighten colors and soften fiber. Use at 5-6% WOF.
-
-Always mordant fiber **before** dyeing. Dissolve the mordant in hot water, add your pre-wetted fiber, and simmer for 45-60 minutes. Rinse gently before placing fiber in the dyebath.
-
- -
-
-## Can I grow my own dye mushrooms?
-
-Yes, several dye fungi can be cultivated, making the craft more sustainable and reliable:
-
-- **Phaeolus schweinitzii** and **Ganoderma species** can be grown on inoculated conifer wood chips or logs using plug spawn or [[growing-gourmet-sawdust-spawn-production-use]].
+For pigment-rich species like Cortinarius, you can often reuse the dyebath for a second, lighter batch. Save the [[growing-gourmet-sawdust-spawn-production-use]].
 - **Pisolithus tinctorius** associates with tree roots and can be introduced to soil near compatible tree species (especially pines and oaks).
-- **[[pleurotus-ostreatus]])**, while not a traditional dye species, can produce soft yellow-tan dyes and are very easy to grow on straw or hardwood sawdust.
 - **[[trametes-versicolor-entity]]** (turkey tail) grows readily on hardwood logs and produces yellows and golds.
 
 Purchase spawn from reputable mycology suppliers. Inoculate outdoor wood chip beds in spring or fall and expect fruiting within 6-18 months depending on species and conditions.

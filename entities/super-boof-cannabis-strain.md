@@ -24,24 +24,14 @@ sources:
 
 ## Overview
 
-Super Boof is a modern [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Seed Junky Genetics,
-a Los Angeles-based breeding collective known for producing commercially
-successful strains of the 2020s. Released in the early 2020s, Super Boof
-gained popularity for its potent effects, complex aroma, and visually
-striking buds.
-
-The strain is a cross between **Black Cherry Punch** (female) and
-**[[tropicana-cookies]]** (male), combining indica-dominant relaxation with
+Super Boof is a modern [[tropicana-cookies]]** (male), combining indica-dominant relaxation with
 sativa-influenced cerebral stimulation. It has won or placed in multiple
 cannabis competitions, including the Emerald Cup and The Weedmaps
 Cannabis Cup.
 
 ## Lineage
 
-- **Female parent:** Black Cherry Punch — [[purple-punch]] × Cherry AK-47.
-  Contributes deep purple coloration, cherry flavor, and heavy body
-  effects.
-- **Male parent:** Tropicana Cookies — [[miracle-alien-cookies]] × (Girl Scout
+- **Female parent:** Black Cherry Punch — [[miracle-alien-cookies]] × (Girl Scout
   Cookies × Tangie). Contributes [[fukuoka-mandarin-orange-citrus]] terpenes, dense bud
   structure, and uplifting mental effects.
 

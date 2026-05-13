@@ -10,15 +10,9 @@ type: concept
 created: 2026-04-28
 ---
 
-The origin story of [[fukuoka-natural-farming-method]] begins with a single
-transformative experience on the morning of May 15th, when he was twenty-five years old. This
-revelation, triggered by the cry of a night heron overlooking Yokohama harbour, became the
-philosophical foundation for decades of agricultural experimentation and the core of his
-[[natural-farming-philosophy-of-mu|natural farming]]."
+The origin story of [[natural-farming-philosophy-of-mu|natural farming]]."
 
-The failure taught him that [[natural-farming-vs-organic-vs-conventional|natural agriculture]].
-
-It was during this period that he conducted the famous [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]] experiment: an untreated field
+The failure taught him that [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]] experiment: an untreated field
 with many withered stalks produced a higher yield than a sprayed field. The stem borers had
 created a thinning effect, allowing remaining plants to receive more sunlight and produce more
 grain-bearing stalks. At first he could not believe it himself and thought it was an experimental
@@ -27,14 +21,7 @@ damage always reduces yield.
 
 He also investigated whether edible insects could help solve wartime food shortages in Southeast
 Asia. He was amazed to discover that almost any insect is edible when alive. Lice ground up and
-eaten with [[direct-seeded-no-tillage-rice-winter-grain-succession]] are a remedy for epilepsy. Fleas are medicine for frostbite. All insect
-larvae are quite edible. The old texts described delicacies prepared from maggots and the flavour
-of silkworm as exquisite.
-
-## Return to Farming and Evolution Through Subtraction
-
-When the war ended, Fukuoka felt "a fresh breeze of freedom" and returned to his home village to
-take up farming anew. He wiped out another 400 citrus trees before arriving at the four [[four-principles-of-natural-farming]] farming. Each elimination was tested through years of experimentation. He says he probably knows
+eaten with [[four-principles-of-natural-farming]] farming. Each elimination was tested through years of experimentation. He says he probably knows
 more about what can go wrong growing agricultural crops than anyone else in Japan.
 
 ## The One-Straw Revolution
@@ -51,14 +38,13 @@ revolution could begin."
 
 The night heron revelation established the core paradox of Fukuoka's life: that true understanding
 begins with recognizing that humanity knows nothing. This was not nihilism but a gateway to
-[[fukuoka-natural-perceiving-nature-without-relativism]] directly, without the distortion of intellectual analysis. The experience
-parallels Buddhist enlightenment concepts and informed everything from his [[fukuoka-critique-soil-cultivation|scientific agriculture]].
+[[fukuoka-critique-soil-cultivation|scientific agriculture]].
 
 Fukuoka always insisted that others should not imitate him but simply live in nature and apply
 themselves to their daily work. He described himself as "just an old crow" and maintained that
 while the realization had great value, no special value was attached to him personally.
 
-See also: [[natural-farming-philosophy-of-mu]], [[fukuoka-dry-field-rice-compact-plant-theory]]
+See also: [[fukuoka-dry-field-rice-compact-plant-theory]]
 
 ## Practical Considerations
 
@@ -93,29 +79,8 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[fukuoka-revelation-god-nature-nothingness-philosophy]]
 - [[fukuoka-origin-agriculture-dietary-cravings]]
-- [[chemdawg-lineage-and-origin-story]]
 - [[cannabis-strain-chemdawg-origin-story-genetics]]
-- [[cannabis-chemdawg-origin-story-lineage]]
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[dom]]
-- [[mda]]
 - [[chemdawg]]
-- [[natural-farming]]
 - [[cannabis-chemdawg-origin-story-lineage]]

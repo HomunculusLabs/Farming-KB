@@ -2,35 +2,14 @@
 ---
 # Mycofiltration of Water Contaminants
 
-Mycofiltration uses fungal biomass -- typically mycelial mats, fruiting bodies, or immobilized fungal cultures -- to filter and treat contaminated water. The process exploits both biosorption (passive binding to cell walls) and bioaccumulation (active uptake) along with [[enzymatic-degradation-in-mycoremediation]] of dissolved pollutants.
-
-## Principles
-
-Fungal mycelium provides an extensive network of hyphae with high surface area-to-mass ratio, creating a biological filter matrix. As water passes through fungal biomass, contaminants are removed through:
-- Physical filtration (particulate trapping in mycelial matrix)
-- Biosorption of dissolved metals and organics to cell wall binding sites
-- Enzymatic degradation of organic pollutants by extracellular [[ligninolytic-enzymes]]
+Mycofiltration uses fungal biomass -- typically mycelial mats, fruiting bodies, or immobilized fungal cultures -- to filter and treat contaminated water. The process exploits both biosorption (passive binding to cell walls) and bioaccumulation (active uptake) along with ligninolytic-enzymes
 - Biological oxidation of contaminants by living fungal metabolism
 
 ## Applications
 
-**[[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]:** Fungal biosorption effectively removes metals from wastewater. [[rhizopus-arrhizus]] and Aspergillus niger are widely studied biosorbents for zinc, lead, copper, cadmium, and chromium removal. Fixed packed-bed columns with fungal biomass provide continuous treatment. Metal-loaded biomass can be regenerated through acid desorption.
+**rhizopus-arrhizus and Aspergillus niger are widely studied biosorbents for zinc, lead, copper, cadmium, and chromium removal. Fixed packed-bed columns with fungal biomass provide continuous treatment. Metal-loaded biomass can be regenerated through acid desorption.
 
-**Organic [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]:** White-rot fungal mycelia in packed-bed and trickling filter configurations degrade phenols, chlorophenols, PAHs, and dye-containing effluents. Enzymes (laccase, MnP, LiP) secreted by mycelia oxidize and transform dissolved organics.
-
-**Agricultural Wastewater:** Fungi treat distillery spent wash, olive mill wastewater, dairy wastewater, and starch-processing effluents. Removal of color, COD, BOD, and toxicity demonstrated in continuous-flow bioreactors.
-
-**Cyanide Treatment:** Fusarium solani degrades free and metal-complexed cyanides via cyanide hydratase that converts HCN to formamide. Effective under both acidic (pH 4) and alkaline (pH 9-10) conditions.
-
-## Industrial Wastewater Treatment
-
-### Starch-Processing Wastewater
-
-Aspergillus and Rhizopus species treat starch-processing wastewater, simultaneously removing organic pollutants and producing single-cell protein. COD reductions of 60-80% reported. Filamentous growth provides natural flocculation, reducing suspended solids.
-
-### Dairy Wastewater
-
-Filamentous fungi including Mucor and Rhizopus species treat dairy wastewater through [[dighton-fungal-biomass-production-aquatic-ecosystems]] and organic matter assimilation. BOD reductions exceeding 80% are achievable. Fungal biomass produced can serve as animal feed supplement.
+**Organic dighton-fungal-biomass-production-aquatic-ecosystems and organic matter assimilation. BOD reductions exceeding 80% are achievable. Fungal biomass produced can serve as animal feed supplement.
 
 ### Olive Mill Wastewater
 
@@ -45,10 +24,10 @@ Olive mill wastewater (OMW) is one of the most polluting agro-industrial effluen
 
 ---
 Updated: 2026-04-18
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]]
+Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]]
 ## Practical Considerations
 
-When working with Mycofiltration of Water Contaminants, several practical factors should be
+When working with [[mycofiltration-of-water]] Contaminants, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -88,3 +67,84 @@ and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
 ## Future Directions
+
+## Overview
+
+Mycofiltration Of Water Contaminants represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycofiltration of water contaminants
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycofiltration extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycofiltration Of Water Contaminants finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycofiltration of water contaminants. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycofiltration of water contaminants and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycofiltration Of Water Contaminants has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycofiltration of water contaminants into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mycelium-running-skookum-inlet-mycofiltration-field-trial]]

@@ -22,25 +22,7 @@ have evolved for spore dispersal.
 The fruiting body is a transient reproductive structure produced by the
 mycelium — the vegetative body of the fungus consisting of a vast network of
 branching hyphae. A single fungal mycelium can occupy enormous areas; some
-individuals of [[armillaria-ostoyae]] (honey fungus) in the American Pacific
-Northwest have been measured at over 2,000 acres, making them among the
-largest organisms on Earth. The mycelium absorbs nutrients, decomposes
-organic matter, and maintains the fungal individual over years or decades.
-The fruiting body is produced only when conditions are right for reproduction.
-
-The mycelium of most mushroom-forming fungi grows as a web of microscopic
-hyphae, each a hollow tube only a few micrometers in diameter. Despite their
-tiny size, the collective surface area of a fungal mycelium can be immense,
-giving the fungus enormous absorptive capacity. Hyphae secrete enzymes that
-break down complex organic molecules — cellulose, lignin, chitin, keratin —
-into simpler compounds that can be absorbed through the hyphal walls.
-
-## Triggering Fruiting
-
-The transition from vegetative mycelial growth to fruiting body production
-is triggered by a combination of environmental cues that vary among species.
-Common triggers include changes in temperature, rainfall or humidity, light
-cycles, [[ph-and-nutrient-availability-garden-soils]], and the presence of specific microorganisms.
+individuals of [[ph-and-nutrient-availability-garden-soils]], and the presence of specific microorganisms.
 
 In many mushroom species, fruiting requires the formation of a dikaryon — a
 mycelium in which each cell contains two genetically distinct nuclei. This
@@ -49,29 +31,7 @@ exchanging nuclei without immediately fusing them (karyogamy is delayed until
 spore formation). The dikaryotic mycelium is capable of producing fruiting
 bodies, while monokaryotic mycelium generally is not.
 
-Some fungi require specific [[mushroom-fruiting-biology-light-tropisms-and-environmental-triggers]] that can be remarkably
-precise. Morel mushrooms (Morchella spp.), for example, often fruit in the
-spring following forest fires, apparently responding to chemical signals
-from burned soil or dead roots. The exact triggers for many species remain
-poorly understood, which is why cultivating many desirable edible mushrooms
-remains difficult or impossible.
-
-## Fruiting Body Structure
-
-The typical mushroom consists of a stalk (stipe) supporting a cap (pileus)
-on whose underside are the gills (lamellae) or pores that bear the spore-
-producing cells. This basic architecture can be extensively modified: in
-boletes the gills are replaced by a spongy pore surface; in puffballs the
-spores are contained within an enclosed sphere; in bracket fungi the fruiting
-body projects horizontally from wood with pores on the underside; in
-coral fungi the structure branches into antler-like projections; in
-stinkhorns the spore mass is carried on a slimy, foul-smelling surface
-designed to attract flies.
-
-Despite this enormous morphological diversity, the fundamental purpose of
-every fruiting body is the same: to elevate spores above the substrate and
-expose them to air currents or other dispersal agents. The form of the
-fruiting body reflects the specific [[stinkhorn-fungi-phallales-spore-dispersal-strategy]] each species employs.
+Some fungi require specific [[stinkhorn-fungi-phallales-spore-dispersal-strategy]] each species employs.
 Gilled mushrooms produce spores continuously and rely on air currents;
 puffballs release spores in a single explosive burst when disturbed;
 truffles produce spores underground and rely on animals to dig them up and
@@ -114,27 +74,76 @@ create channels through soil and leaf litter, improving water infiltration
 and gas exchange. When they decompose, they return nutrients to the soil.
 Some fruiting bodies are associated with nitrogen fixation, and their
 presence can significantly affect soil chemistry and the composition of
-soil [[cannabis-rhizosphere-microbial-communities]].
-
-## The Phallic and the Bizarre
-
-The world of fungal fruiting bodies includes some of the strangest
-organisms in nature. The stinkhorns (Phallaceae) erupt from egg-like
-structures as phallic columns topped with foul-smelling slime, a form
-that has provoked wonder, disgust, and moral panic throughout human
-history. The bird's nest fungi (Nidulariaceae) produce tiny cup-shaped
-structures containing egg-like packets of spores that are splashed out
-by raindrops. The earthstars (Geastraceae) open into star-shaped
-structures that lift the spore-containing sac above the ground surface,
-orienting it to optimize spore release.
-
-These bizarre forms are not evolutionary curiosities but sophisticated
-adaptations to specific dispersal challenges. Each represents millions of
-years of natural selection optimizing spore production and release for
-particular ecological niches.
-
-## See Also
-
-- [[fungal-ecology-and-symbiosis]]
+soil [[fungal-ecology-and-symbiosis]]
 - [[ingolds-spore-dispersal-research]]
 - history of mycology
+
+## Overview
+
+Fungal Fruiting Body Biology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal fruiting body biology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungal Fruiting Body Biology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal fruiting body biology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal fruiting body biology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungal Fruiting Body Biology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungal fruiting body biology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

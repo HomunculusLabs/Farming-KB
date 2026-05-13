@@ -42,11 +42,9 @@ solar-heated soils, and geothermal environments.
 
 ### The Spruce Budworm Effect
 
-Winter temperatures limit [[dighton-fungal-decomposition-leaf-litter-dynamics]] rates in [[fungal-diversity-boreal-forests-taiga]].
+Winter temperatures limit [[fungal-diversity-boreal-forests-taiga]].
 During spruce budworm outbreaks, defoliation opens canopies and raises
-soil temperatures, accelerating [[dighton-litter-quality-fungal-decomposition-rates]]. This demonstrates
-how biological perturbations interact with temperature to modulate
-[[dighton-fungal-ecosystem-services-framework]] functions.
+soil temperatures, accelerating [[dighton-fungal-ecosystem-services-framework]] functions.
 
 ## Water Relations
 
@@ -65,85 +63,56 @@ Some fungi can scavenge trace nutrients from air, rainwater, and
 nutrient-poor substrates. Oligotrophic species colonize exposed rock
 surfaces, bare soils, and even glass and metal surfaces in buildings.
 Their ability to grow with minimal nutrient input makes them important
-pioneer organisms in [[dighton-fungi-volcanic-glacier-primary-succession]].
-
-## pH and Salinity Adaptations
-
-Fungi exhibit remarkable pH tolerance, with species capable of growth
-from pH 1 to pH 11. Acid-tolerant species such as *Acontium
-cylindropeum* thrive in acidic [[acid-mine-drainage-treatment]] environments. Alkaline
+pioneer organisms in [[acid-mine-drainage-treatment]] environments. Alkaline
 environments harbor specialized species like those found in soda lakes
 and limestone soils. Adaptations include proton pumping mechanisms and
 cell wall modifications that maintain integrity across pH extremes.
 
-Halotolerant fungi colonize [[halotolerant-halophilic-fungi-saline-environments]] including coastal
-soils, salt marshes, and hypersaline lakes. Species of *Wallemia* and
-*Aspergillus* are common in high-salt substrates. These fungi maintain
-internal osmotic balance through intracellular accumulation of
-compatible solutes, particularly glycerol and mannitol, and through
-ion transport systems that exclude excess sodium.
-
-## Nutrient Limitation and Stress Responses
-
-Fungi respond to nutrient limitation through complex regulatory networks.
-Starvation triggers [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]] including increased branching,
-sporulation, and production of [[fungal-extracellular-enzymes]]. Under nitrogen
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Halotolerant fungi colonize [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]] including increased branching,
+sporulation, and production of [[fungal-allergies]]
+- [[fungal-based-materials]]
+- [[fungal-cave-diversity]]
+- [[fungal-electronic-specimen-catalogues]]
+- [[fungal-habitats-and-niches]]
+- [[fungal-hot-spring-diversity]]
+- [[fungal-inventory-challenges-pitfalls]]
+- [[fungal-molecular-community-analysis]]
+- [[fungal-networking-in-forests]]
+- [[fungal-parasites-predators-nematodes]]
+- [[fungal-rotifer-parasites-predators]]
+- [[fungal-silage-wastewater-treatment]]
+- [[fungal-species-rarity-assessment-conservation-challenges]]
+- [[fungal-tannin-and-phenolic-decomposition]]
+- [[fungal-trophic-modes-and-nutritional-guilds]]
 
 ## See Also
 
-- [[fungal-allergies]]
 - [[fungal-antarctic-polar-diversity]]
-- [[fungal-based-materials]]
+- [[fungal-biodiversity-education-citizen-science]]
+- [[fungal-biodiversity-estimation-methods]]
+- [[fungal-bioremediation-formulation-delivery]]
 - [[fungal-bioweathering-of-rocks]]
-- [[fungal-cave-diversity]]
+- [[fungal-btex-biodegradation]]
+- [[fungal-cyanide-biodegradation-detailed]]
+- [[fungal-decomposition-kinetics]]
 - [[fungal-decomposition-lignin-cellulose]]
-- [[fungal-electronic-specimen-catalogues]]
-- [[fungal-genet-ramet-individual-definition-biodiversity]]
-- [[fungal-habitats-and-niches]]
-- [[fungal-herbarium-record-keeping-specimen-transactions]]
-- [[fungal-hot-spring-diversity]]
 - [[fungal-insect-interactions-diversity]]
-- [[fungal-inventory-challenges-pitfalls]]
+- [[fungal-interactions-organisms]]
+- [[fungal-inventory-and-survey-methods]]
 - [[fungal-inventory-protocols-field-surveys]]
-- [[fungal-molecular-community-analysis]]
+- [[fungal-laccase-redox-mediators]]
+- [[fungal-leaf-litter-diversity]]
+- [[fungal-melanoidin-degradation]]
 - [[fungal-mycelial-transport-and-resource-translocation]]
-- [[fungal-networking-in-forests]]
 - [[fungal-pah-degradation-and-soil-bioremediation]]
-- [[fungal-parasites-predators-nematodes]]
+- [[fungal-phylogeny-microsporidia-slime-molds]]
 - [[fungal-pollutant-bioavailability]]
-- [[fungal-rotifer-parasites-predators]]
+- [[fungal-reproduction-life-cycles]]
 - [[fungal-sampling-plot-design-quadrat-methodology]]
-- [[fungal-silage-wastewater-treatment]]
+- [[fungal-soil-depth-profiles]]
 - [[fungal-soil-pollutant-transformation]]
-- [[fungal-species-rarity-assessment-conservation-challenges]]
-- [[fungal-spore-discharge-mechanics]]
-- [[fungal-tannin-and-phenolic-decomposition]]
-- [[fungal-trophic-modes-and-nutritional-guilds]]
+- [[fungal-species-concept]]
+- [[fungal-survey-inventory-methodology]]
+- [[fungal-taxonomy-and-classification]]
+- [[fungal-type-specimens]]
+- [[fungal-volatile-organic-compounds-vocs-chemistry-ecology]]

@@ -2,14 +2,11 @@
 
 ## Overview
 
-Horse dung and rice grain substrate is a traditional two-component cultivation medium used for growing *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and other coprophilous fungi. This substrate combines the nitrogen-rich, microbially pre-digested properties of horse manure with the readily available carbohydrates of rice grain, creating a balanced nutritional profile that supports robust [[mycelial-colonization]] and prolific fruiting body production.
+Horse dung and rice grain substrate is a traditional two-component cultivation medium used for growing *[[mycelial-colonization]] and prolific fruiting body production.
 
 ## Historical Context
 
-The use of dung-based substrates for [[accessible-mushroom-cultivation-for-disabilities]] predates modern mycology. Many *Psilocybe* species are naturally coprophilous (dung-inhabiting), having evolved to colonize the nutrient-rich droppings of herbivores. Horse dung in particular has been a staple substrate because:
-
-- Horses have relatively inefficient digestion, leaving significant undigested cellulose, hemicellulose, and lignin in their manure.
-- The dung is naturally colonized by a diverse [[edaphic-factors-microbial-community-structure]] that partially breaks down complex plant compounds, making nutrients more accessible to fungi.
+The use of dung-based substrates for [[edaphic-factors-microbial-community-structure]] that partially breaks down complex plant compounds, making nutrients more accessible to fungi.
 - The texture of horse dung provides good aeration and water retention properties.
 
 Rice grain serves as a supplemental nutrient source, providing easily metabolized starches and proteins that accelerate mycelial colonization.
@@ -24,27 +21,7 @@ The Gartz (1990) study used a horse dung and rice grain mixture in water, supple
 - **Water**: Used to hydrate the mixture to field capacity.
 
 ### Supplementation
-- **KH₂PO₄ ([[monopotassium-phosphate-kh2po4-mushroom-substrate-buffer-nutrient]])**: 5 g per liter of water. This serves dual purposes:
-  - Provides phosphorus, essential for ATP synthesis, nucleic acid production, and membrane integrity.
-  - Provides potassium, important for osmoregulation and enzyme activation.
-  - Acts as a pH buffer, helping maintain slightly acidic conditions favorable for fungal growth.
-
-## Preparation Method
-
-### Sourcing and Pre-Treatment
-1. **Dung selection**: Use dung from horses fed primarily on grass or hay. Avoid dung from horses recently treated with anthelmintics (dewormers) or antibiotics, as these can inhibit fungal growth.
-2. **Dung preparation**: Spread fresh dung in a thin layer and allow to age for 1–2 weeks. This reduces ammonia content and allows beneficial [[fukuoka-straw-decomposition-microbial-succession]]. Alternatively, use commercially available pre-pasteurized [[staycare-spent-mushroom-compost-bioremediation]].
-3. **Rice preparation**: Rinse rice grain thoroughly to remove surface dust and debris. Soak in water for 12–24 hours before use to pre-hydrate.
-
-### Mixing and Loading
-1. Combine the aged horse dung and pre-soaked rice grain in approximately equal proportions by volume.
-2. Add water containing dissolved KH₂PO₄ (5 g/L) and mix thoroughly.
-3. The final moisture content should be approximately 60–65% by weight — the substrate should hold together when squeezed but not drip water.
-4. Load the mixture into cultivation containers (jars, bags, or trays), filling to approximately two-thirds capacity to allow headspace for mycelial growth.
-
-### Sterilization
-The substrate must be sterilized before inoculation to eliminate competing organisms:
-- **[[double-layer-tinfoil-jar-covering-pressure-cooker-method]]/autoclave**: 121°C (15 psi) for 60–90 minutes.
+- **KH₂PO₄ ([[fukuoka-straw-decomposition-microbial-succession]]. Alternatively, use commercially available pre-pasteurized [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]/autoclave**: 121°C (15 psi) for 60–90 minutes.
 - Larger volumes require longer sterilization times (2 hours for 1.5 L jars or spawn bags).
 - Jar lids must remain loose during sterilization to prevent pressure buildup and jar breakage.
 - After sterilization, allow jars to cool completely before inoculation. Loosened lids prevent vacuum formation during cooling.
@@ -65,11 +42,7 @@ The dung/grain substrate provides a balanced nutritional environment:
 
 ## Mycelial Colonization
 
-On dung/grain substrate, *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* mycelium typically colonizes completely within 2–3 weeks at 20–25°C. Colonization characteristics include:
-
-- **Rapid initial growth**: The rice grain component allows fast early expansion from inoculation points.
-- **Robust rhizomorphic growth**: The complex carbon sources in dung encourage the formation of thick, rope-like mycelial strands.
-- **Even colonization**: Proper mixing of dung and grain ensures uniform [[savory-dung-behavior-and-nutrient-distribution]] and complete colonization.
+On dung/grain substrate, *[[savory-dung-behavior-and-nutrient-distribution]] and complete colonization.
 - **Metabolite monitoring**: If jars are incubated too long or at excessive temperature, yellowish metabolite exudates may appear. This is a stress signal indicating the mycelium should be cased or fruited promptly.
 
 ## Comparison with Alternative Substrates
@@ -111,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[substrate-preparation]]
 - [[substrate-formulation]]
-- [[horse-dung-rice-grain-substrate-formulation-psilocybe-cubensis]]
 - [[coprophilous-fungi]]
 - [[brassinosteroid]]

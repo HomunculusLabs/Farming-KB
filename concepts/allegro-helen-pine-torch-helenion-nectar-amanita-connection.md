@@ -6,25 +6,7 @@ type: concept
 
 # Helen of Troy as Pine Torch, Resin, and the Amanita Muscaria Mushroom
 
-In John Allegro's etymological and mythological analysis in *[[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] and the Cross*,
-Helen of Troy is not merely a legendary beauty but a personification of the pine tree, its
-resinous products, and the Amanita muscaria mushroom. Her name, her miraculous birth, and the
-drugs associated with her all point to a fungal-pharmacological origin encoded in Greek mythology.
-The following traces the web of connections from Hestia-Vesta through Eileithyia to Helen, and
-finally to the Amanita mushroom's Sumerian incantatory origins.
-
-## Hestia-Vesta: The Virgin Hearth Goddess
-
-The Greek goddess Hestia — known to the Romans as Vesta — embodies the sacred fire at the centre
-of both the home and the cosmos. Her name is the Greek word for "fireplace," "home," and the
-"central fire of the universe." Euripides calls her "the Lady of Fire," emphasising her identity
-as the living flame itself rather than a person who tends one.
-
-According to myth, Hestia swore virginity to Zeus, touching his head in the oath, and was given
-"high honour instead of marriage." As first-born of the Cronian offspring, she was also the last
-to be regurgitated by her father Cronus — a reversal carrying deep symbolic weight. The formula
-"first and last" signifies that the first-born is the strongest, formed from the most powerful
-[[allegro-menstrual-blood-creative-process-purple-fertility]]. Irregular menses — the first period or the perimenopausal phase — were considered
+In [[john-allegro]]'s etymological and mythological analysis in *[[allegro-menstrual-blood-creative-process-purple-fertility]]. Irregular menses — the first period or the perimenopausal phase — were considered
 more potent than regular cycles. Such blood was described as "spontaneous" and "all-powerful,"
 carrying a generative force beyond the ordinary.
 
@@ -54,7 +36,7 @@ was walled up alive — punishment for misdirecting the sacred generative force.
 Duties included fetching water from a sacred spring, preparing special foodstuffs, and caring for
 shrine objects. No one else was permitted inside the inner sanctum. The shrine itself was a domed
 building, described as like a potter's workshop or furnace — a dome that also represents the
-domed canopy of the Amanita muscaria cap.
+domed canopy of the [[amanita-muscaria]] cap.
 
 Within stood the Palladium — a thunderbolt from Zeus and a replica of Pallas Athena. The name
 Pallas means "vulva"; the Palladium's dumb-bell shape is, in this interpretation, a representation
@@ -98,20 +80,7 @@ the mushroom pair, Helen herself as the "sister" of the mushrooms.
 
 The Sumerian incantation to the *kukru* provides the earliest textual layer beneath these Greek
 myths: "O kukru, kukru, kukru, in the pure, holy mountains thou hast engendered 'little-ones' by
-a [[allegro-sacred-prostitute-and-the-mushroom-cult]], 'seeds-of-a-Pine' by a vestal." The terms "little-ones" and "seeds-of-a-Pine"
-are substitute words — euphemisms for magic vegetation, specifically the Amanita muscaria mushroom,
-too sacred to name directly.
-
-*Kukru* means "pod," referring to pine with lice-like kernels ("louse-tree"). "Swan" derives from
-"womb-pod," linking Zeus's avian form to this fungal-botanical complex. Pliny confirms that "the
-fungi... are all derived from the gum that exudes from trees," connecting fungal growth to tree
-resin — the substance identified with menstrual blood and the generative fluid of the birth goddess.
-
-The Amanita's red canopy with white flecks generates the imagery of a "burning coal" (Isaiah
-6:6-7), the "son of man" whose face is "like the sun" (Revelation 1:12), and Moses' shining
-face after Sinai (Exodus 34:29). In each case the blazing red-and-white mushroom cap is transmuted
-into divine radiance. The white flecking consists of fragments of the *volva* — the egg-like sac
-from which the mushroom erupts. This "scabby" appearance associates the fungus with [[blesching-cannabis-skin-diseases]],
+a [[blesching-cannabis-skin-diseases]],
 particularly leprosy. The mushroom thus embodies both healing and affliction, life-giving fire and
 scarring disease, within a single organism — a duality that mirrors the dual nature of the
 sacred substances it was believed to contain, at once remedy and poison, divine gift and mortal
@@ -121,7 +90,4 @@ danger.
 
 In Allegro's reading, the entire Helen mythos is a late Greek recoding of much older Sumerian
 pharmacological knowledge. Helen is the pine torch, the resinous drug, and the mushroom's effects
-— narcotic, beautifying, and deadly — all wrapped in the figure of the most [[fukuoka-scalpel-beautiful-woman-science-nature]] in
-legend. From Hestia's virgin fire to the Vestal's guarded flame, from Eileithyia's pine-torch to
-Helen's egg-born birth, the same symbolic complex recurs: the Amanita muscaria, its pine-tree
-host, and the generative-resinous fluids that [[allegro-plants-and-drugs-in-the-ancient-world]] revered as sacred.
+— narcotic, beautifying, and deadly — all wrapped in the figure of the most [[allegro-plants-and-drugs-in-the-ancient-world]] revered as sacred.

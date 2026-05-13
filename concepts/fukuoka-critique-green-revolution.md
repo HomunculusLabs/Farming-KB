@@ -10,43 +10,19 @@ sources:
 ---
 # Fukuoka's Critique of the Green Revolution
 
-In [[natural-farming-fukuoka]] dedicates significant attention to critiquing the Green Revolution -- the mid-20th century movement to increase agricultural yields through high-yield , [[cervantes-chemical-fertilizers-guide]], pesticides, and irrigation. His critique goes beyond the usual environmental objections to challenge the entire epistemological basis of the Green Revolution.
+In [[cervantes-chemical-fertilizers-guide]], pesticides, and irrigation. His critique goes beyond the usual environmental objections to challenge the entire epistemological basis of the Green Revolution.
 
 ## The False Promise of Feeding the World
 
 Fukuoka acknowledged that the Green Revolution increased yields but argued this was a pyrrhic victory:
 
-- Higher yields came at the cost of [[fukuoka-seed-selection-methods]] were lost as industrial varieties replaced landraces
+- Higher yields came at the cost of [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of food declined even as caloric yield increased, creating what Fukuoka saw as an illusion of abundance
 
-- Communities that had been self-sufficient became dependent on global markets and chemical companies
+- [[fukuoka-natural-farming-philosophy-of-mu]]:
 
-- The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of food declined even as caloric yield increased, creating what Fukuoka saw as an illusion of abundance
+- Instead of chemical fertilizers, [[fukuoka-rice-barley-dual-culture]] that maintain soil health
 
-- [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] adapted faster than new resistant varieties could be developed, creating an arms race that benefited seed and chemical companies
-
-- The Green Revolution's "miracle" was measured in calories alone, ignoring the cultural, ecological, and spiritual dimensions of food
-
-## Epistemological Critique: Science Cannot Understand Wholes
-
-Fukuoka's deepest critique was that the Green Revolution represented the fundamental error of [[fukuoka-natural-farming-philosophy-of-mu]]:
-
-- Instead of chemical fertilizers, [[fukuoka-white-clover-ground-cover]]
-
-- Instead of pesticides, [[fukuoka-rice-barley-dual-culture]] that maintain soil health
-
-- Instead of irrigation, [[fukuoka-seed-selection-methods]] saved from year to year
-
-This "real" green revolution would be truly revolutionary precisely because it requires no inputs, no technology, and no expertise -- only the willingness to stop interfering with natural processes.
-
-## The Scale Problem
-
-Fukuoka argued that the Green Revolution's emphasis on large-scale monoculture was not merely a practical choice but a philosophical error. Large scale requires standardization, which requires simplification, which requires ignoring the particularities of place. [[fukuoka-decentralized-self-sufficient-communities]] was explicitly an alternative to this economic model. [[comparison-natural-farming-vs-permaculture]] requires almost no purchased inputs -- the farmer needs only seeds, which can be saved, and land, which improves under natural management rather than degrading.
-
-The debt cycle created by input-dependent farming was, for Fukuoka, a form of structural violence -- an invisible mechanism by which the global economic system extracts wealth from rural communities while claiming to help them. The promise of "feeding the world" served as ideological cover for the expansion of corporate control over food systems.
-
-## Impact on Traditional Knowledge Systems
-
-Fukuoka was particularly concerned about the loss of traditional agricultural knowledge. Generations of farmers had developed sophisticated understandings of local soils, microclimates, pest cycles, and crop varieties through centuries of [[fukuoka-road-do-nothing-farming]] is unique:
+- Instead of irrigation, [[fukuoka-decentralized-self-sufficient-communities]] was explicitly an alternative to this economic model. [[fukuoka-road-do-nothing-farming]] is unique:
 
 - Vandana Shiva's critique focuses on the political economy and corporate control aspects
 
@@ -58,13 +34,7 @@ Fukuoka's contribution is distinctive in going beyond political or scientific cr
 
 ## See Also
 
-- [[fukuoka-natural-farming-philosophy]]
-
 - [[fukuoka-four-principles-natural-farming]]
-
-- [[fukuoka-agricultural-pollution-and-consumer-culpability]]
-
-## Related
 
 - [[fukuoka-hybrid-rice-international-drama]]
 ## Practical Considerations
@@ -115,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[fukuoka-green-revolution-africa-desert-reclamation]]
-- [[fukuoka-green-manure-clover-revolution]]
 - [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 - [[fukuoka-seeding-real-green-revolution]]

@@ -9,11 +9,8 @@ sources:
 ---
 # Compost Quality Standards
 
-Compost quality is the single most important factor determining the effectiveness of [[chamovitz-circadian-rhythm-internal-clock-plants]]
-- [[soil-microbiology-basics]]
-- [[2c-d-pihkal-entry-23]]
+Compost quality is the single most important factor determining the effectiveness of [[soil-microbiology-basics]]
 - [[dom-compound-profile]]
-- [[anaerobic-gut-fungi]]
 - [[compost-tea-for-specific-crops]]
 ## Background and Context
 
@@ -118,8 +115,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[aact-compost-quality-standards-ingham]]
 - [[ingham-compost-quality-standards-organism-assessment]]
 - [[coleman-baby-leaf-salad-mix-quality-standards]]

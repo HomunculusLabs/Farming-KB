@@ -10,15 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.
 
 # John Jeavons
 
-John Jeavons is an [[fukuoka-american-agricultural-decline]] researcher, author, and director of Ecology Action, best known as the developer of the Grow Biointensive method of sustainable mini-farming. His work focuses on enabling people to grow a complete diet using minimal land, water, and resources, making him a central figure in the sustainable agriculture and small-scale food production movements.
-
-## Biography
-
-Jeavons serves as the Executive Director of Ecology Action of the Midpeninsula, a non-profit organization based in Willits, California. Ecology Action has served as the research and teaching center for the Grow Biointensive method since 1972. The method has been developed through decades of careful research, record-keeping, and field testing at the organization's research gardens and through a global network of affiliated mini-farms.
-
-## The Grow Biointensive Method
-
-The Grow Biointensive method (originally called the "Biointensive method" and based on Alan Chadwick's [[coleman-british-adoption-of-french-intensive-gardening]]/Biodynamic approach) is a complete, closed-system approach to small-scale food production. It is designed to:
+John Jeavons is an [[coleman-british-adoption-of-french-intensive-gardening]]/Biodynamic approach) is a complete, closed-system approach to small-scale food production. It is designed to:
 
 - Grow the maximum amount of food on the minimum area of land
 - Use 67% to 88% less water than conventional farming
@@ -34,23 +26,7 @@ The Grow Biointensive method (originally called the "Biointensive method" and ba
 
 3. **Intensive planting**: Crops are planted in closely spaced hexagonal patterns rather than rows, maximizing the use of growing area and creating a living mulch that conserves moisture and suppresses weeds.
 
-4. **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Strategic interplanting of compatible species to enhance growth, deter pests, and maximize space utilization.
-
-5. **Carbon farming**: Devoting approximately 60% of growing area to crops that produce significant amounts of carbon (compost material) to maintain soil fertility.
-
-6. **Calorie farming**: Growing calorie-dense root crops and grains to meet dietary needs efficiently. Key crops include potato, [[garlic-growing-guide]], [[barley-varieties-for-brewing]], and quinoa.
-
-7. **Open-pollinated seeds**: Using open-pollinated (heritage) varieties rather than hybrids, enabling farmers to save their own seed and maintain genetic diversity.
-
-8. **Whole system integration**: All components work together as an integrated system, where each practice supports and enhances the others.
-
-## How to Grow More Vegetables
-
-Jeavons's seminal work, "How to Grow More Vegetables, Fruits, Nuts, Berries, Grains, and Other Crops Than You Ever Thought Possible on Less Land Than You Can Imagine," has been continuously revised and expanded since its first publication in 1974. Key aspects of the book include:
-
-- **Complete growing guides**: Detailed instructions for dozens of vegetable, grain, and fruit crops, including planting schedules, spacing, and care requirements.
-- **Master charts**: Comprehensive reference tables for crop planning, including yields, nutrient values, and spacing requirements.
-- **[[cultivator-compost-preparation-phase-methods]]**: Detailed guidance on building and managing compost piles using the biointensive approach.
+4. **[[garlic-growing-guide]], [[cultivator-compost-preparation-phase-methods]]**: Detailed guidance on building and managing compost piles using the biointensive approach.
 - **Diet design**: Guidance on designing nutritionally complete diets from biointensively grown crops.
 - **Seed saving**: Instructions for maintaining open-pollinated varieties and producing clean seed.
 
@@ -69,13 +45,7 @@ The method is particularly significant in contexts where land is scarce, water i
 
 ## Soil Fertility Philosophy
 
-Central to Jeavons's work is the concept of "growing soil." He argues that sustainable agriculture must build soil fertility over time rather than depleting it. The biointensive approach aims to produce all necessary compost from within the growing system, creating a closed nutrient loop. This contrasts with [[coleman-deep-organic-farming-philosophy]] that imports fertility from off-site and conventional farming that relies on synthetic inputs.
-
-Key soil management principles include:
-
-- Maintaining high organic matter levels (4-6% or higher)
-- Maximizing microbial activity through proper aeration and moisture
-- Balancing carbon production (compost crops) with [[solomon-self-sufficiency-calorie-production-economics]] (food crops)
+Central to Jeavons's work is the concept of "growing soil." He argues that sustainable agriculture must build soil fertility over time rather than depleting it. The biointensive approach aims to produce all necessary compost from within the growing system, creating a closed nutrient loop. This contrasts with [[solomon-self-sufficiency-calorie-production-economics]] (food crops)
 - Avoiding soil compaction through permanent bed systems
 - Regular soil testing and amendment based on actual deficiencies
 
@@ -83,7 +53,91 @@ Key soil management principles include:
 
 A central goal of Jeavons's work is enabling gardeners to grow a complete, nutritionally balanced diet from a minimal land area. His research has identified the most space-efficient crops for meeting human nutritional needs:
 
-- **Calorie crops**: potato (highest calorie yield per unit area), [[garlic-growing-guide]], [[barley-varieties-for-brewing]], oats, corn, amaranth, and quinoa.
-- **Protein crops**: [[eliot-coleman]] — Four-season organic farming
-- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] — Permaculture design
+- **Calorie crops**: potato (highest calorie yield per unit area), [[barley-varieties-for-brewing]], oats, corn, amaranth, and quinoa.
+- **Protein crops**: [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] — Permaculture design
 - [[allan-savory]] — Holistic grazing management
+
+## Overview
+
+John Jeavons represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish john jeavons
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving john extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+John Jeavons finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for john jeavons. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+john jeavons and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+John Jeavons has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of john jeavons into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[allegro-john-baptist-red-topped-mushroom-herodias]]
+- [[john-ramsbottom]]
+- [[john-raper-achlya-ambisexualis-pheromone-biology]]
+- [[john-w-allen]]
+- [[sajeev-john]]

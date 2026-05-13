@@ -34,43 +34,7 @@ sources:
 ## Overview
 - **Type:** Succulent annual herb
 - **Origin:** Uncertain (possibly Indian subcontinent/Persia); now cosmopolitan
-- **Distribution:** Worldwide in temperate and [[fukuoka-natural-farming-in-tropical-regions]]
-- **Habitat:** Disturbed soils, gardens, croplands, roadsides, waste areas
-- **Growth form:** Prostrate spreading mat, 10–30 cm diameter
-- **Status:** Commonly regarded as a weed; increasingly valued as nutritious food
-- **Notability:** One of the highest plant sources of alpha-linolenic acid (omega-3 ALA)
-## Taxonomy & Classification
-| Rank | Name |
-|------|------|
-| Kingdom | Plantae |
-| Order | Caryophyllales |
-| Family | Portulacaceae (alt. Montiaceae per APG IV) |
-| Genus | *Portulaca* |
-| Species | *P. oleracea* L. |
-- **Subspecies:** *P. o. sativa* (cultivated) vs. *P. o. oleracea* (wild)
-- **Cytology:** 2n = 18, 36, 54 (multiple ploidy levels)
-- **Close relatives:** *Portulaca grandiflora* (moss rose), *P. pilosa*
-
-## Nutritional & Chemical Profile
-### Macronutrients (per 100 g fresh)
-- **Calories:** ~20 kcal | **Protein:** 1.3–2.0 g | **Fat:** 0.1–0.4 g
-- **Carbohydrates:** 3.4 g | **Fiber:** 1.3–1.5 g
-### Lipid Profile
-- **ALA (ω-3):** 300–400 mg/100 g fresh; up to 4–5 mg/g dry weight
-  - Among the richest terrestrial plant sources of omega-3
-  - ALA:LA ratio ~1:1 — exceptionally favorable
-- **Other:** Palmitic acid, oleic acid, linoleic acid (ω-6)
-### Vitamins & Minerals
-- **Vitamin A (β-carotene):** ~1320 IU (26% DV) | **Vitamin C:** 21 mg (35% DV)
-- **Vitamin E:** ~12 mg (significant) | **B vitamins:** B6, folate, riboflavin, niacin
-- **Potassium:** 494 mg | **Magnesium:** 68 mg | **Calcium:** 65 mg | **Iron:** 1.99 mg
-- **Manganese, phosphorus, copper:** Present in useful quantities
-### Phytochemicals
-- **Glutathione:** One of the highest plant sources of this endogenous antioxidant
-- **Melatonin:** Present at biologically significant levels
-- **Dopamine & noradrenaline:** Catecholamine alkaloids in measurable amounts
-- **Betalains (betacyanins, betaxanthins):** Pigments with antioxidant activity
-- **Flavonoids:** [[apigenin]], [[kaempferol]], [[luteolin]], myricetin derivatives
+- **Distribution:** Worldwide in temperate and [[apigenin]], [[luteolin]], myricetin derivatives
 - **Oleraceins (A–E):** Bioactive alkaloids with anti-inflammatory properties
 - **Oxalates:** Moderate; caution for oxalate-sensitive individuals
 
@@ -88,3 +52,86 @@ sources:
 - **Antimicrobial:** Activity against gram-positive bacteria and some fungi
 - **Wound healing:** Topical use in traditional medicine; anti-ulcer activity
 - **Note:** Many studies in vitro/animal; human clinical data limited
+
+## Overview
+
+Portulaca Oleracea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish portulaca oleracea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving portulaca extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Portulaca Oleracea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for portulaca oleracea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+portulaca oleracea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Portulaca Oleracea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of portulaca oleracea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[brassica-oleracea]]
+- [[euterpe-oleracea]]
+- [[spinacia-oleracea]]

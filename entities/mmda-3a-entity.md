@@ -9,13 +9,7 @@ sources:
 ---
 # MMDA-3a
 
-MMDA-3a (2-Methoxy-3,4-methylenedioxyamphetamine) is a psychedelic amphetamine and one of the "[[essential-amphetamines-and-natural-precursors]]."
-
-It is documented as entry #134 in PiHKAL by [[dmmda-2-entity]]|MMDA-2: the 2-methoxy-4,5-methylenedioxy isomer
-- [[phenethylamine-pharmacology]]: general pharmacology
-
-## See Also
-
+MMDA-3a (2-Methoxy-3,4-methylenedioxyamphetamine) is a psychedelic amphetamine and one of the "[[dmmda-2-entity]]|MMDA-2: the 2-methoxy-4,5-methylenedioxy isomer
 - [[mmda-entity]]
 ## Background and Context
 

@@ -1,5 +1,5 @@
 ---
-title: Biological Element Transport and Soil pH Management
+title: [[biological-element-transport-soil-ph]] and Soil pH Management
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,21 +8,7 @@ type: concept
 
 ## Overview
 
-Elements in soils are transported and concentrated not only by physical and chemical processes but also by the ceaseless activity of living organisms. Understanding these biological concentration mechanisms, alongside the fundamentals of [[soil-ph-management-and-amelioration]], is [[essential-plant-elements-hydrogen-boron-carbon-nitrogen|Essential]] for effective [[permaculture-design]] and sustainable soil stewardship.
-
-## Biological Element Transport
-
-### Concentration by Selective Species
-
-Fungi, bacteria, and invertebrates actively seek out, assemble, and change specific compounds to stable new forms as concretions or nodules. Iron, iron-manganese, calcium, phosphate, zinc, nickel, copper, selenium, cadmium, phosphate, and nitrogen are all selected and concentrated by root fungi, bacteria, molluscs, or algae.
-
-This biological concentration is one of the most important mechanisms for nutrient cycling in healthy soils. Mycorrhizal networks, in particular, serve as active nutrient-gathering systems that can access phosphorus and other minerals far beyond the root zone of individual plants.
-
-### Concentration by Accumulation of Detritus
-
-Diatoms, swamp peats, whole forests, sponges (and their spicules of silica), molluscs, and vertebrates are at times buried by vulcanism, sedimentation, or deposition in oceanic deeps to form specifically concentrated sediments. These eventually become ore bodies or rock types, including coal, rare earths, or manganese deposits.
-
-This process demonstrates how current biological activity creates the geological resources of the future. Current forest and wetland ecosystems are actively concentrating elements that will form tomorrow's [[mineral-nutrients-magnesium-aluminium-silicon-phosphorus|Mineral]] deposits.
+[[toxic-elements-in-soils]] are transported and concentrated not only by physical and chemical processes but also by the ceaseless activity of [[savory-living-organisms-as-tools]]. Understanding these biological concentration mechanisms, alongside the fundamentals of [[essential-plant-elements-hydrogen-boron-carbon-nitrogen|Essential]] for effective [[mineral-nutrients-magnesium-aluminium-silicon-phosphorus|Mineral]] deposits.
 
 ### Dispersal by Transpiration
 
@@ -44,7 +30,7 @@ Infiltration effects are most marked in soils where, for very long periods, a su
 
 ### Soil Catenas
 
-Water travels by throughflow, moving by the effects of gravity downslope in the soil profile. This effect produces soil types called catenas, which are sequences of soil types related to slope, drainage, rock type, and landscape position. Understanding catenas is essential for reading landscape potential and placing elements of a permaculture design appropriately.
+Water travels by throughflow, moving by the effects of gravity downslope in the soil profile. This effect produces soil types called catenas, which are sequences of soil types related to slope, drainage, rock type, and landscape position. Understanding catenas is essential for reading landscape potential and placing elements of a [[permaculture-design]] appropriately.
 
 ## Soil pH Fundamentals
 
@@ -77,7 +63,7 @@ Acids and alkalis arise from the solution of oxides, hydroxides, sulphates, or c
 
 **Metals** (release positive H ions in solution): sodium, potassium, magnesium, calcium, and minerals (iron, zinc, aluminium, copper).
 
-**Non-metals** (release negative OH ions in solution): silicon, sulphur, traces of phosphorus, boron, fluorine, chlorides. Carbon is also found in organic soils.
+**Non-metals** (release negative OH ions in solution): [[silicon]], sulphur, traces of phosphorus, boron, fluorine, chlorides. Carbon is also found in organic soils.
 
 ## Soil Amendments for pH Management
 
@@ -87,11 +73,11 @@ All of the following are used to raise pH values in soils:
 - **Chalk and limestone** — calcium carbonates
 - **Gypsum** — calcium sulphate
 - **Magnesite** — magnesium carbonate
-- **Dolomite** — calcium magnesium carbonate
+- **Dolomite** — [[calcium-magnesium-secondary-nutrients]] carbonate
 
 ### Lowering pH
 
-Elemental sulphur, sulphuric acid compounds, and ammonium sulphate are used to lower [[soil-ph]], particularly in dryland alkaline soils.
+Elemental sulphur, sulphuric acid compounds, and ammonium sulphate are used to lower [[soil-ph]], particularly in dryland [[plants-tolerant-of-alkaline-soils]].
 
 ## Soil Amelioration Guide
 

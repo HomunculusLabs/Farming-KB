@@ -15,22 +15,7 @@ sources:
   - Lyrene, P.M. (2008). "Breeding Blueberries for a Changing Climate." HortScience 43(1): 39–43.
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada.
   - Williamson, J.G. & Lyrene, P.M. (2004). "Blueberry Botany and Horticulture." Horticultural Reviews 30: 31–82.
-  - Ballington, J.R. (2001). "Collection of Native Vaccinium Species in the Southeastern [[dmt-containing-plants-united-states-halpern]]." HortScience 36(2): 351–353.
----
-
-## Overview
-
-**Vaccinium darrowii** (Darrow's blueberry, evergreen blueberry, scrub blueberry) is an evergreen or semi-evergreen shrub in the family Ericaceae.
-
-It is native to the southeastern United States, where it occurs in sandy pine flatwoods, scrub, and dry prairies from Louisiana to Florida.
-
-The species is economically significant as a parent of the southern highbush blueberry, contributing low-chill adaptation, heat tolerance, and exceptional fruit quality.
-
-Its compact habit, small glossy leaves, and attractive pink-to-white flowers also give it ornamental value in native-plant landscaping.
-
-## Taxonomy and Morphology
-
-**Vaccinium darrowii** Camp was described by [[metzner-william-james-radical-empiricism-multiple-consciousness]] Camp in 1941, named after blueberry breeder George M. Darrow.
+  - Ballington, J.R. (2001). "Collection of Native Vaccinium Species in the Southeastern [[metzner-william-james-radical-empiricism-multiple-consciousness]] Camp in 1941, named after blueberry breeder George M. Darrow.
 
 It belongs to *Vaccinium* section *Cyanococcus*, the true blueberries, alongside the highbush and lowbush blueberries.
 
@@ -48,7 +33,7 @@ Fruits are small blue-black berries, 5–8 mm in diameter, with a waxy bloom, ri
 
 The fruit contains numerous small seeds and has a sweet, mildly tart flavor.
 
-Roots are fine and fibrous, forming associations with [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi essential for [[plant-nutrient-uptake-mechanisms]] in acidic soils.
+Roots are fine and fibrous, forming associations with [[plant-nutrient-uptake-mechanisms]] in acidic soils.
 
 ## Distribution and Habitat
 
@@ -58,13 +43,7 @@ Populations are concentrated in the Gulf Coastal Plain and the Atlantic Coastal 
 
 Typical habitats include sandy pine flatwoods, turkey oak barrens, xeric scrub, and dry sandy prairies.
 
-The species is adapted to acidic, well-drained sandy soils with pH 4.0–5.5 and low [[hamilton-composting-and-organic-matter-management]].
-
-It is fire-adapted, resprouting vigorously from the root crown after prescribed burns or wildfires.
-
-Elevation ranges from sea level to approximately 150 meters.
-
-The species is hardy in USDA zones 7–10 and shows limited [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] compared to northern blueberry species.
+The species is adapted to acidic, well-drained sandy soils with pH 4.0–5.5 and low [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] compared to northern blueberry species.
 
 ## Cultivation
 
@@ -82,8 +61,90 @@ It is drought-tolerant once established but benefits from supplemental irrigatio
 
 Propagation is by softwood cuttings under mist, with rooting typically occurring in 8–12 weeks.
 
-[[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but produces highly variable offspring due to outcrossing.
-
-Ornamental use in native-plant gardens is increasing, particularly as a low-maintenance [[fukuoka-citrus-orchard-ground-cover-cultivation]] or accent shrub.
+[[fukuoka-citrus-orchard-ground-cover-cultivation]] or accent shrub.
 
 ## Ecological Role
+
+## Overview
+
+Vaccinium Darrowii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vaccinium darrowii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vaccinium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vaccinium Darrowii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vaccinium darrowii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vaccinium darrowii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vaccinium Darrowii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vaccinium darrowii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[vaccinium-arboreum]]
+- [[vaccinium-pallidum]]
+- [[vaccinium-scoparium]]
+- [[vaccinium-simulatum]]

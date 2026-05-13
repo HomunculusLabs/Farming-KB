@@ -22,45 +22,11 @@ sources:
   - Guzmán, G. et al. (2004). "A worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." In: Entheogens and the Development of Culture. Springer.
   - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Hatanaka, T. (1961). "Taxonomic studies on the genus Gymnopilus." Reports of the Tottori Mycological Institute, 1, 1–69.
-  - Bigwood, J. & Beug, M.W. (1982). "Variation in [[hplc-analysis-of-psilocybin-and-psilocin]] content." Journal of Psychedelic Drugs, 14(3), 195–200.
-  - Lincoff, G. (1981). The Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms. Knopf.
----
-
-# Gymnopilus spectabilis
-
-## Overview
-
-Gymnopilus spectabilis, commonly known as the Big Laughing Gym or Laughing Jim, is a large, orange-capped wood-decaying mushroom found across [[guzman-psilocybin-mushrooms-north-america]] and East Asia. It is one of the few *Gymnopilus* species known to contain psilocybin and psilocin.
+  - Bigwood, J. & Beug, M.W. (1982). "Variation in [[guzman-psilocybin-mushrooms-north-america]] and East Asia. It is one of the few *Gymnopilus* species known to contain psilocybin and psilocin.
 
 The species epithet *spectabilis* ("showy") refers to the mushroom's large, conspicuous fruiting bodies. The common name derives from the psychoactive effects reported by foragers who have consumed it.
 
-G. spectabilis is part of a complex of similar species that has undergone significant taxonomic revision. [[growing-gourmet-north-american-reishi-species]] and East Asian populations may represent distinct species, with the Asian taxon sometimes separated as *G. junonius* or *G. spectabilis* sensu stricto.
-
-## Taxonomy and Morphology
-
-Kingdom: Fungi — Division: Basidiomycota — Class: Agaricomycetes — Order: Agaricales — Family: Hymenogastraceae (formerly Cortinariaceae) — Genus: Gymnopilus — Species: G. spectabilis (Fr.) Singer.
-
-The species was originally described as *Agaricus spectabilis* by Elias Magnus Fries in 1818. Rolf Singer transferred it to *Gymnopilus* in 1948.
-
-The taxonomic status of Asian collections remains debated. Japanese mycologist Tsuguo Hatanaka described the Asian population as a distinct species, though Western mycologists have often treated them as conspecific.
-
-**Cap** is 5–20 cm diameter, convex to plane with age, occasionally with a broad umbo. Surface is dry, covered in fine fibrils or small scales, bright orange to rusty orange.
-
-The cap margin is often inrolled when young and may develop radial cracks with maturity. Flesh is thick, firm, and pale yellow-orange.
-
-**Gills** are adnate to adnexed, close to subdistant, broad. Color is rusty orange to cinnamon-brown, developing rusty spore deposits with age.
-
-**Stipe** is 5–20 cm long, 1–3 cm thick, equal or slightly tapering upward. Surface is pale yellow near the apex, staining rusty brown below.
-
-The stipe has a partial veil that often leaves a fragile, evanescent ring zone. The base may be slightly enlarged or rooted.
-
-**Spore print** is rusty brown to ferruginous. Spores are elliptical, rough-walled, 7–9 × 5–6.5 µm.
-
-**Odor and taste** are distinctive — the mushroom has a strong, acrid, bitter taste that is considered a key identifying feature. This bitterness persists even after cooking and serves as a deterrent to casual consumption.
-
-## Distribution and Habitat
-
-In North America, G. spectabilis ranges from the [[psilocybin-north-america-pacific-northwest]] through the Midwest to the eastern seaboard, and south to the Gulf States. Fruitings occur from late summer through autumn (September–November).
+G. spectabilis is part of a complex of similar species that has undergone significant taxonomic revision. [[psilocybin-north-america-pacific-northwest]] through the Midwest to the eastern seaboard, and south to the Gulf States. Fruitings occur from late summer through autumn (September–November).
 
 The species is common in East Asia, particularly Japan, Korea, and eastern China, where it fruits during the autumn monsoon season.
 
@@ -87,3 +53,88 @@ Psychoactive effects are consistent with classical serotonergic psychedelics: vi
 The species is noted in Japanese ethnobotany as *waraitake* ("laughing mushroom"), a name shared with several other [[cattle-dispersal-psychoactive-fungi-australia]]. Historical accounts describe laughter-inducing effects as a characteristic feature.
 
 Onset occurs 30–60 minutes after ingestion, with effects lasting 4–6 hours. The bitter taste makes raw consumption unpleasant, and many foragers report nausea during onset.
+
+## Overview
+
+Gymnopilus Spectabilis Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gymnopilus spectabilis entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gymnopilus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gymnopilus Spectabilis Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gymnopilus spectabilis entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gymnopilus spectabilis entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gymnopilus Spectabilis Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gymnopilus spectabilis entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
+- [[gymnopilus-fulgens]]
+- [[gymnopilus-junonius]]
+- [[gymnopilus-purpuratus-profile]]
+- [[gymnopilus-validipes]]

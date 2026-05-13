@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-two-practical-
 
 updated: 2026-04-18
 
-Permaculture Two (1979) Section 7.4 presents a pointed critique of government sport fisheries policy and argues for polycultural, food-producing aquaculture as public policy.
+[[permaculture]] Two (1979) Section 7.4 presents a pointed critique of government sport fisheries policy and argues for polycultural, food-producing aquaculture as public policy.
 
 ## The Case Against Sport-Only Fisheries
 
@@ -35,7 +35,7 @@ This produces all the evils of biological and social disruption: the definition 
 
 ## The Estuarine Solution
 
-Professor Bloom (University of Tasmania) proposed that certain shallow estuaries should be dammed for [[fungal-single-cell-protein-production]], just above tide level, to prevent pollution by marine waters. Due to metal processing and wood pulp industries, Tasmania has offshore levels of zinc, cadmium, mercury, and other dangerous [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] as high as anywhere in the world.
+Professor Bloom (University of Tasmania) proposed that certain shallow estuaries should be dammed for [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] as high as anywhere in the world.
 
 ## The Energy Argument
 
@@ -88,7 +88,6 @@ This section encapsulates Mollison's broader political critique: that government
 ## See Also
 
 - mollison-marine-aquaculture
-- [[permaculture-design]]
 - [[polyculture-design-hemenway]]
 - mollison-aquatic-polyculture-and-pond-culture
 - [[mollison-designers-rice-paddy-integrated-duck-fish]]

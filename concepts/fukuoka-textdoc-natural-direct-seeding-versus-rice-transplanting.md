@@ -12,11 +12,7 @@ type: concept
 
 # Natural Direct Seeding Versus Rice Transplanting
 
-Fukuoka's fundamental insight about [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]] was that all plants in
-nature seed directly. Transplanting rice seedlings is a human invention that
-moves the crop further from its natural state and creates cascading dependencies
-on plowing, flooding, weeding, and chemical inputs. His decades of experiments
-in direct seeding led to the development of a no-tillage [[fukuoka-rice-and-barley-natural-farming]]
+Fukuoka's fundamental insight about [[fukuoka-rice-and-barley-natural-farming]]
 succession system that eliminates transplanting entirely.
 
 ## Why Transplanting Is Unnatural
@@ -41,46 +37,17 @@ the next step in an endless cycle of human intervention.
 
 ## The Failure of Autumn Sowing
 
-Fukuoka's first attempt at [[fukuoka-lundberg-family-farms-natural-rice]] cultivation was autumn sowing. He
-believed that sowing rice seed in the fall, as nature would do, was the truly
-natural approach. The seed did not survive the winter, making the attempt a
-total failure. Modern [[fukuoka-insects-create-new-rice-varieties]] had lost their natural overwintering
+Fukuoka's first attempt at [[fukuoka-insects-create-new-rice-varieties]] had lost their natural overwintering
 ability through centuries of breeding for transplant culture.
 
-Rather than giving up because [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]] seed is difficult, Fukuoka
-set his sights on understanding why rice does not overwinter and how to
-approximate natural conditions while working with improved varieties. This
-persistence led eventually to his clay pellet method for protecting seed
-through the winter months.
-
-## Early Direct Seeding Experiments
-
-In 1945, Fukuoka ran a direct seeding experiment on a plowed and flooded
-[[cho-imo-collection-bamboo-stump-and-paddy-field]]. He tested drilling, row seeding, and broadcasting at densities
+Rather than giving up because [[cho-imo-collection-bamboo-stump-and-paddy-field]]. He tested drilling, row seeding, and broadcasting at densities
 ranging from twenty to one thousand seeds per square yard. The results were
 both expected and surprising: aside from extremely dense planting, the number
 of heads per square yard was consistently about four hundred to five hundred,
 and grains per head ranged from sixty to one hundred twenty. Yields were
 therefore about the same regardless of planting density.
 
-Problems included poor germination where soil was rich in [[hamilton-composting-and-organic-matter-management]] and
-bad water collected, and a tendency for plants grown in deeply flooded fields
-to lodge easily. Despite these issues, rice generally grew well when
-direct-seeded on plowed and irrigated paddies.
-
-## Direct Seeding Rice Between Barley
-
-Fukuoka's next phase was direct-seeding rice between rows of barley. This
-method presented several challenges. Germination was poor due to losses from
-mole crickets, sparrows, and mice. After harvesting barley, intertilling the
-ridge soil with a hoe and leveling the field was arduous work. Water retention
-was poor, and weeds grew on high ridge areas exposed above the water surface.
-
-The critical breakthrough came when Fukuoka thought of controlling weeds with
-weeds. He sowed clover and Chinese milk vetch over the ridges of maturing
-barley one month before harvest. Although not immediately successful, this
-gave him the important clue that led to his method of rice and barley
-cropping in a [[fukuoka-citrus-orchard-ground-cover-cultivation]] of clover.
+Problems included poor germination where soil was rich in [[fukuoka-citrus-orchard-ground-cover-cultivation]] of clover.
 
 ## Broadcasting Rice Over Standing Barley
 
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]
 - [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
-- [[doc]]
 - [[composting]]
 - [[fukuoka-textdoc-early-direct-seeding-failures-breakthrough]]

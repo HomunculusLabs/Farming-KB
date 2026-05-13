@@ -19,15 +19,14 @@ Cover all shelves tightly with a polythene sheet, ensuring no air can enter. Thi
 
 ### Step 7: Mycelial Colonization
 
-After 7 to 8 days, mycelium begins growing and spreading across the shelf surface. During [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]], maintain room temperature at 10 to 15 degrees Celsius for optimal results. This [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] provides the most favorable environmental conditions for colonization.
+After 7 to 8 days, mycelium begins growing and spreading across the shelf surface. During [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] provides the most favorable environmental conditions for colonization.
 
 ### Step 8: Full Colonization
 
-Approximately 50 days after spawning, the entire shelf will be colonized with white mycelial growth. The original wheat straw mixture will no longer be visible. At this point, remove the polythene sheet to induce [[oyster-mushroom]] cultivation techniques including non [[oyster-mushroom-pasteurized-straw-cultivation]] substrate methods, cold water lime pasteurization, and [[cervantes-hydrated-lime-quicklime-ph-adjustment]] treatment of straw substrates. The principle of using alkaline conditions to suppress competing organisms while supporting Pleurotus mycelium underlies several low [[low-cost-mushroom-growing-house-construction-developing-countries]] cultivation approaches developed for resource-limited growers.
+Approximately 50 days after spawning, the entire shelf will be colonized with white mycelial growth. The original wheat straw mixture will no longer be visible. At this point, remove the polythene sheet to induce [[oyster-mushroom-pasteurized-straw-cultivation]] substrate methods, cold water lime pasteurization, and [[low-cost-mushroom-growing-house-construction-developing-countries]] cultivation approaches developed for resource-limited growers.
 
 ## See Also
 
-- [[mushroom-substrates]]
 - [[contamination-identification-prevention]]
 ## Practical Applications
 

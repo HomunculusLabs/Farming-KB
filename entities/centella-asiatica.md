@@ -32,58 +32,83 @@ sources:
 
 ## Overview
 
-**Centella asiatica** (L.) Urb., commonly known as [[comparison-gotu-kola-vs-chinese-skullcap]], Indian pennywort, or spadeleaf, is a herbaceous perennial in the family Apiaceae. Native to tropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Africa, Asia, Australia, and the western Pacific, it has been used for millennia in Ayurveda, Traditional Chinese Medicine (TCM), and [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] folk medicine. Known as *Mandukaparni* in Sanskrit ("frog-leaved"), it is classified as a **Medhya Rasayana** — a rejuvenating intellect tonic. Modern research focuses on its triterpenoid saponins (asiaticoside, madecassoside) for wound healing, venous insufficiency, cognitive enhancement, and anxiolytic effects. It also serves as a living [[fukuoka-citrus-orchard-ground-cover-cultivation]] in permaculture and a phytoremediation tool for [[dighton-fungal-biosorption-heavy-metal-remediation]] extraction.
+**Centella asiatica** (L.) Urb., commonly known as [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Africa, Asia, Australia, and the western Pacific, it has been used for millennia in Ayurveda, Traditional Chinese Medicine (TCM), and [[fukuoka-citrus-orchard-ground-cover-cultivation]] in permaculture and a phytoremediation tool for [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]] (Hawaii, French Polynesia, Seychelles). Crop matures in approximately 3 months.
 
-## Botanical Description
+**Note:** In Southern India, *Centella asiatica* is called "Brahmi" or "Vallarai," while *[[tihkal-receptor-binding-serotonin]]. Upregulates BDNF and NGF expression. Reverses scopolamine-induced memory deficits in animal models.
 
-**Habit:** Perennial, creeping, stoloniferous herb forming dense mats. Slender stems root at nodes, connecting plants across the ground surface.
+## Overview
 
-| Feature | Description |
-|---------|-------------|
-| **Stems** | Slender creeping stolons, green to reddish-green, rooting at nodes |
-| **Leaves** | Long-stalked, kidney-shaped to rounded (reniform), 2–5 cm, palmately netted veins, crenate margin |
-| **Flowers** | Small, white to pinkish-red, in dense umbels near soil surface; <3 mm, 5–6 corolla lobes |
-| **Fruit** | Densely reticulate (distinguishing from *Hydrocotyle* with smooth fruit) |
-| **Roots** | Rhizomatous rootstock, cream-colored, growing vertically |
-| **Chromosomes** | Diploid, tetraploid, or hexaploid (2n = 18/36/54) |
+Centella Asiatica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Native to the Indian subcontinent, Southeast Asia, tropical Africa, Australia, and wetland regions of the southeastern US. Thrives in swampy areas, marshes, and damp soils from sea level to ~1,800 m. Considered invasive on several [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]] (Hawaii, French Polynesia, Seychelles). Crop matures in approximately 3 months.
+## Key Characteristics
 
-**Note:** In Southern India, *Centella asiatica* is called "Brahmi" or "Vallarai," while *[[bacopa-monnieri]]* is "Neer Brahmi." In Northern India the names are reversed — a frequent source of commercial misidentification.
+Several defining characteristics distinguish centella asiatica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## Phytochemistry
+## Ecological Context
 
-The principal bioactives are **pentacyclic triterpenoid saponins** and their glycoside derivatives. Approximately 124 compounds have been isolated.
+The ecological relationships involving centella extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-| Compound | Class | Significance |
-|----------|-------|-------------|
-| **Asiaticoside** | Triterpenoid saponin glycoside | Primary wound-healing compound; stimulates collagen synthesis |
-| **Madecassoside** | Triterpenoid saponin glycoside | Potent anti-inflammatory; neuroprotective |
-| **Asiatic acid** | Triterpenoid aglycone | Antioxidant, anti-tumor activity |
-| **Madecassic acid** | Triterpenoid aglycone | Anti-inflammatory, wound healing |
-| **Centelloside/Centellose** | Triterpenoid glycosides | Minor constituents |
+## Practical Applications
 
-**Other constituents:** Flavonoids (quercetin, kaempferol, rutin), phenolic acids (caffeic, chlorogenic, ferulic), volatile oils (β-caryophyllene, germacrene D), phytosterols, amino acids, tannins, and mucilage.
+Centella Asiatica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Traditional Uses
+## Management and Implementation
 
-### Ayurveda
-Classified as a **Medhya Rasayana** (brain rejuvenator). Prescribed in the *Charaka Samhita* (~400 BCE) for memory and longevity. Used as *Mandukaparni* for mental fatigue, anxiety, and skin disorders. Classical formulations include Mandukaparni Ghrita and Brahmi Rasayana (shared with Bacopa).
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-### Traditional Chinese Medicine
-Known as 积雪草 (*jī xuě cǎo*, "snow-accumulating herb"). Clears heat, promotes diuresis, reduces swelling. Used for damp-heat conditions, toxic swellings, snake bites, and urinary infections.
+## Regional Considerations
 
-### Southeast Asian Medicine
-- **Sri Lanka:** *Gotu kola* — consumed as *malluma* (salad) and *kola kanda* (porridge) for vitality
-- **Indonesia/Malaysia:** *Pegaga* — used for wound healing and postpartum tonic
-- **Thailand/Vietnam:** *Bai bua bok* / *Rau má* — cooling drink and salad green
-## Pharmacology
+Different geographic regions present unique challenges and
+opportunities for centella asiatica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
 
-### Collagen Synthesis and Wound Healing
-Stimulates fibroblast proliferation and extracellular matrix production via TGF-β1 signaling. Upregulates type I/III collagen synthesis, increases hydroxyproline content, and enhances tensile strength of healed wounds. Asiaticoside is the primary active compound.
+## Sustainability
 
-### Anti-inflammatory
-Inhibits NF-κB, COX-2, and iNOS expression. Reduces pro-inflammatory cytokines (TNF-α, IL-1β, IL-6). Madecassoside suppresses MAPK signaling cascades and decreases capillary permeability.
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
 
-### Anxiolytic and Nootropic
-Inhibits acetylcholinesterase (AChE), enhancing cholinergic transmission. Modulates serotonin, dopamine, and norepinephrine systems. Enhances GABA-A [[tihkal-receptor-binding-serotonin]]. Upregulates BDNF and NGF expression. Reverses scopolamine-induced memory deficits in animal models.
+## Research and Development
+
+Ongoing research continues to expand understanding of
+centella asiatica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Centella Asiatica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of centella asiatica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

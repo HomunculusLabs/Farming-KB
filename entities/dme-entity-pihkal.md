@@ -8,74 +8,8 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DME
 
-[[2c-b-pihkal-entry-20]] #57. 3,4-DIMETHOXY-beta-HYDROXYPHENETHYLAMINE.
-
-## Chemical Name
-
-3,4-DIMETHOXY-beta-HYDROXYPHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 115 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 115 mg) I was faintly nauseous about an
-> hour after taking the compound, and perhaps I was more alert than
-> usual in the evening. Substantially no effects.
->
-
-## Extensions and Commentary
-
-The rationale for exploring the beta-hydroxylated phenethylamines, especially those with oxygens at the biologically important 3- and 4-positions, has already been presented. Norepinephrine is a beta-hydroxylated phenethylamine with oxygens at these two ring positions. With DME, these are masked as two methyl ethers, and the initials DME stand for 3,4-dimethoxyphenyl-beta-ethanolamine. This is an alternate name for 3,4-dimethoxy-beta-hydroxyphenethylamine.
-
-An exactly analogous compound is 3,4-methylenedioxy-beta-ethanolamine, where the masking is done with the biologically more fragile methylenedioxy ether. Originally I had called this compound MDE (methylenedioxyethanolamine) but that code has been, since 1975, used exclusively for 3,4-methylenedioxy-N-ethylamphetamine, which is a recipe all by itself. Under the discussion of members of the BOX series, there is a methylenedioxyphenethylamine with a methoxyl group at the beta-position, and it is called BOH (q.v.). There, a reasonable code name for this specific compound is given, namely BOHH. RBOS stands for the beta-oxygen function on a phenethylamine; this is the heart of the BOX family. The RHS which is the third letter of BOHH stands for the free hydroxyl group. And the final RHS is for homopiperonylamine (which is the trivial name for the compound without the hydroxyl group). BOHH, or 3,4-methylenedioxy-beta-hydroxyphenethylamine, or 3,4-methylenedioxy-beta-ethanolamine, has also be assayed in man at up to 100 milligrams without any effects, and must be considered, as of now, to be inactive centrally. The possible toxic roles of beta-ethanolamines as potential adrenolytic agents, have been discussed in the BOHD recipe. And beware of the use of the code name MDE in the very old literature. It might be this BOHH compound.
-
-## Synthesis
-
-To a solution of 10.2 g 3,4-dimethoxybenzaldehyde in 10 mL EtOH, cooled to 0 deg C, there was added a solution of 4.2 g KCN in 40 mL H2O. With good stirring, there was slowly added 10 mL concentrated HCl (caution: HCN is evolved) and the two-phase reaction mixture was allowed to continue stirring until there was the spontaneous formation of crystals. After a few days standing, these were removed by filtration and well washed with H2O. All was recrystallized from 75 mL of 50% MeOH and air dried to provide 6.95 g of the cyanohydrin 3,4-dimethoxy-a-hydroxyphenylacetonitrile. The mp was 104-106 deg C, which can be increased to 109 deg C by recrystallization from benzene.
-
-A well-stirred suspension of 4.7 g LAH in 500 mL anhydrous Et2O was brought up to a gentle reflux, and 4.7 g 3,4-dimethoxy-a-hydroxyphenylacetonitrile was leached in from a Soxhlet thimble, over the course of 3 h. The color of the ether solution progressed from yellow to green, to an eventual blue. The reflux was maintained for 16 h. After cooling again, there was added (carefully) a solution of 27 g H2SO4 in 500 mL H2O. The completely clear two-phase mixture was separated, and the aqueous phase treated with 87 g potassium sodium tartrate. The addition of 25% NaOH brought the pH >9, and this phase was extracted with 4x100 mL CH2Cl2. Removal of all the organic solvents under vacuum gave a residue that was part oil and part solid. This was extracted with 4x50 mL boiling Et2O, the extracts pooled, and saturated with anhydrous HCl gas. The 0.95 g of pale-yellow crystals that formed were removed by filtration, and
-
-finely ground under 5 mL CH3CN. There remained, after refiltration and air drying, 0.85 g of 3,4-dimethoxy-beta-hydroxyphenethylamine hydrochloride, DME, with a mp of 170-172 deg C.
-
-## Chemical Properties and Dosage
-
-| Property | Value |
-|----------|-------|
-| Molecular Formula | C10H15NO3 |
-| Molecular Weight | 197.23 g/mol |
-| Compound Class | Beta-hydroxy phenethylamine (BOX) |
-| Isolation | HCl salt, mp 170-172 deg C |
-DME is structurally analogous to norepinephrine with both phenolic hydroxyls
-methylated. The beta-hydroxy group is critical for adrenergic receptor activation,
-but O-methylation of ring hydroxyls blocks central psychoactive activity, making
-DME peripherally active but centrally inactive. Tested at 115 mg orally with only
-faint nausea and mild alertness — no psychedelic effects observed. Higher doses
-were not explored due to adrenolytic toxicity concerns. At 115 mg, effects were
-limited to faint nausea at one hour and possibly heightened alertness. No visual,
-cognitive, or emotional changes were noted. Nausea is consistent with peripheral
-adrenergic stimulation of the gastrointestinal tract. The compound remains of
-interest primarily as a reference point in the pharmacology of beta-hydroxylated
-phenethylamines.
-
-## Safety Notes
-
-DME is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-- [[dme-entity]]
-- [[2c-o-4-entity-pihkal]]
+[[dme-entity]]
 - [[2-br-4-5-mda-entity-pihkal]]
-- [[tma-5-entity-pihkal]]
-
-## Related Topics
-
 - [[methyl-j-entity-pihkal]]
 
 ## Practical Applications
@@ -87,3 +21,88 @@ extreme caution. This compound is not approved for human consumption.
 - Contributions have been widely cited in subsequent research.
 - Work continues to be referenced in both academic and practical contexts.
 - Impact extends to related fields and interdisciplinary applications.
+
+## Overview
+
+Dme Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dme entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dme extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dme Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dme entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dme entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dme Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dme entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

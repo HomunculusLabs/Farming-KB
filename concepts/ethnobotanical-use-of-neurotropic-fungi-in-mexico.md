@@ -6,19 +6,10 @@ topics: ethnobotany, mexico, indigenous-culture, ritual, mushrooms
 
 # Ethnobotanical Use of Neurotropic Fungi in Mexico
 
-Mexico is the global center of [[mexico-center-neurotropic-fungal-biodiversity]] and cultural
-use, with 76 known species — 44 of which are Psilocybe, representing 39%
-of the world total. The indigenous peoples of Mexico have the most
-extensive and well-documented traditions of sacred mushroom use on Earth,
-spanning multiple ethnic groups, languages, and ceremonial contexts.
-
-## The Rediscovery
-
-The modern [[roger-heim-scientific-study-psilocybin]] of neurotropic fungi began with the
+Mexico is the global center of [[roger-heim-scientific-study-psilocybin]] of neurotropic fungi began with the
 rediscovery of their traditional use in Mexico. The key figures in this
 rediscovery were:
 
-- **[[panaeolus-campanulatus]] var. sphinctrinus.
 - **[[roger-heim]]** (1956-1958): French mycologist who conducted
   extensive fieldwork and cultivated several species.
 - **R. Gordon Wasson** (1957-1958): The amateur mycologist and banker
@@ -49,8 +40,7 @@ include:
 Common Spanish names used by indigenous peoples include:
 
 - **"San Isidros"** — referring to the Spanish saint of agriculture,
-  commonly used for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
-- **"Pajaritos"** — little birds, used for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]].
+  commonly used for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]].
 - **"Derrumbes"** — landslides, used for Psilocybe zapotecorum.
 
 ## Indigenous Groups and Their Practices
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[neurotropic-fungi]]
 - [[doc]]
-- [[psilocybe-zapotecorum]]
 - [[psilocybin]]
 - [[dictyophora-indusiata]]

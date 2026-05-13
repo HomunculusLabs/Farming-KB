@@ -6,9 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-# Permaculture Chicken Raising updated: 2026-04-18 Chickens are one of the most productive livestock animals in permaculture-zone-planning and profit from them in [[korean-natural-farming-lab-and-ohn-recipes]]
-- [[korean-natural-farming-imo-recipes]]
-- [[urban-permaculture-trees-water-cycling]]
+# Permaculture Chicken Raising updated: 2026-04-18 Chickens are one of the most productive livestock animals in permaculture-zone-planning and profit from them in [[korean-natural-farming-imo-recipes]]
 - [[urban-permaculture-trees-water-cycling]]
 ## Background and Context
 

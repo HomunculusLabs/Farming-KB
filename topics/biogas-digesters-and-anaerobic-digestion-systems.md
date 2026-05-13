@@ -17,18 +17,14 @@ sources:
 
 Anaerobic digestion (AD) is a series of biological processes in which microorganisms break down organic material in the absence of oxygen, producing **biogas** (primarily methane and carbon dioxide) and **digestate** (a nutrient-rich residue used as fertilizer). Biogas digesters are the engineered vessels — ranging from simple household units to industrial-scale facilities — that host these processes.
 
-The technology serves a dual purpose: **[[holmgren-wind-power-and-renewable-energy-debate]] generation** and **organic waste management**, making it a natural fit for permaculture systems, homesteads, and small-scale farms seeking closed-loop [[jadam-local-material-resource-cycling]].
+The technology serves a dual purpose: **[[jadam-local-material-resource-cycling]].
 
 ## History
 
 - **Ancient origins:** Decomposition of organic matter in sealed containers producing flammable gas was observed as early as the 10th century BCE in Assyria, though not understood scientifically.
 - **1776:** Alessandro Volta discovered methane gas emanating from marsh sediments, noting its flammability.
-- **1808:** Sir Humphry Davy confirmed methane production from cattle [[solomon-green-manure-decomposition-and-carbon-nitrogen-timing]].
-- **Late 19th century:** The first anaerobic digesters were built in India and China for small-scale energy production.
-- **1930s:** India's Khadi and Village Industries Commission (KVIC) promoted biogas as part of rural development. The floating-drum digester design emerged in India.
-- **1950s–1970s:** China's rural biogas program expanded massively; fixed-dome designs were developed. By the 1970s, millions of household digesters operated across rural China.
-- **1980s–present:** Europe adopted AD at scale for [[agricultural-waste-substrates]], sewage treatment, and food waste. Germany became the global leader in farm-scale biogas electricity generation, with over 10,000 plants by the 2010s.
-- **21st century:** Growing interest in small-scale and community digesters for climate resilience, [[zeri-circular-economy-systems]], and [[off-grid-electricity-basics]] energy in developing nations.
+- **1808:** Sir Humphry Davy confirmed methane production from cattle [[agricultural-waste-substrates]], sewage treatment, and food waste. Germany became the global leader in farm-scale biogas electricity generation, with over 10,000 plants by the 2010s.
+- **21st century:** Growing interest in small-scale and community digesters for climate resilience, [[off-grid-electricity-basics]] energy in developing nations.
 
 ## The Four Stages of Anaerobic Digestion
 
@@ -92,45 +88,7 @@ A cylindrical digester tank with a floating gas holder (steel or fiberglass drum
 
 ### Plug-Flow Reactor (PFR)
 
-A long, narrow, horizontal tank in which feedstock flows through as a "plug." Common on [[growing-gourmet-north-american-reishi-species]] dairy farms.
-
-- **Construction:** Concrete or steel trough, often below-ground; heated; rectangular cross-section
-- **Capacity:** 30–1,500 m³
-- **Feedstock:** Dairy manure with <12% solids (needs to flow)
-- **Advantages:** Simple, low-energy-futures-in-permaculture input, good for manure slurries
-- **Disadvantages:** Not suitable for high-solids or heterogeneous feedstocks; dead zones can form
-- **HRT:** 15–30 days
-
-### Continuous Stirred-Tank Reactor (CSTR)
-
-A fully mixed tank operated continuously with equal inflow and outflow. The workhorse of medium and large-scale AD.
-
-- **Construction:** Cylindrical steel or concrete tank with mechanical mixing (impeller, gas injection, or hydraulic)
-- **Capacity:** 100–10,000+ m³
-- **Feedstock:** Any organic slurry — manure, food waste, energy crops, sewage sludge
-- **Advantages:** Excellent mixing, uniform conditions, handles diverse feedstocks, stable operation
-- **Disadvantages:** Higher energy input for mixing; larger reactor needed (shorter effective HRT than plug-flow); dilute feedstocks preferred
-- **HRT:** 15–25 days (mesophilic), 10–20 days (thermophilic)
-
-### Dry / Solid-State Digestion (SSAD)
-
-Operates at high solids content (15–40% total solids), suitable for stackable organic materials without pre-dilution.
-
-- **Construction:** Horizontal tunnel reactors or batch piles with leachate recirculation
-- **Feedstock:** Yard waste, straw, energy crops, solid manure, municipal solid waste
-- **Advantages:** No water addition (or minimal); smaller reactor volume; less digestate to handle
-- **Disadvantages:** Mixing is difficult; ammonia inhibition risk; less mature technology for small scale
-- **HRT:** 21–45 days
-
-### Covered Lagoon
-
-An existing manure lagoon covered with an impermeable membrane to capture biogas. The simplest and cheapest approach for large-scale livestock operations.
-
-- **Construction:** Earthen lagoon with HDPE or similar liner cover
-- **Capacity:** Thousands of m³
-- **Feedstock:** Dilute livestock manure (swine, dairy flush systems)
-- **Advantages:** Lowest capital cost; uses existing infrastructure; passive operation
-- **Disadvantages:** Very low biogas yield per volume; no [[hamilton-greenhouse-heating-and-temperature-control]] (climate-dependent); large land area; slow startup
+A long, narrow, horizontal tank in which feedstock flows through as a "plug." Common on [[hamilton-greenhouse-heating-and-temperature-control]] (climate-dependent); large land area; slow startup
 - **HRT:** 40–60+ days
 
 ## Operating Parameters

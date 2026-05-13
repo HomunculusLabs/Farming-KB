@@ -11,20 +11,7 @@ sources:
 
 # The Culture of Clothing and Meat
 
-In *The Road Back to Nature*, [[fukuoka-deficit-farming]] despite returning animal wastes to the land
-- Vegetation becomes less varied under grazing pressure
-- The system requires enormous energy inputs
-- It creates a fundamentally extractive relationship with the land
-
-## The Cultural Pattern
-
-The pattern Fukuoka identifies extends beyond food and clothing:
-
-- Western civilization tends toward conquest, expansion, and control of nature
-- Eastern civilization traditionally worked within natural patterns
-- The shift in the West toward [[fukuoka-change-come-over-westerners]], [[fukuoka-natural-diet-philosophy]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-method]], [[fukuoka-european-civilization-standstill]], [[fukuoka-european-travels-natural-farming]] He reflected that today's farmer in Japan has nothing proper to wear.
-## Merged: Fukuoka on American Farmer Poverty and Machine Culture
-Source: Masanobu Fukuoka, *The Road Back to Nature* (1996), pp. 28-33 Fukuoka argues that nature in America is not natural at all but a human-centered construction rooted in [[fukuoka-descartes-western-philosophy-nature]]'s pact with God. [[fukuoka-do-nothing-farming-and-spiritual-life]] methods on his small plots in Japan consistently outyielded conventional farms while building soil fertility, requiring no purchased inputs, and producing food of superior quality. This critique connects directly to [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-food-as-strategic-weapon]], [[fukuoka-american-agriculture-observations]]
+In *The Road Back to Nature*, [[fukuoka-change-come-over-westerners]], [[fukuoka-machine-culture-doomed]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-european-civilization-standstill]], [[fukuoka-descartes-western-philosophy-nature]]'s pact with God. [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-american-agriculture-observations]]
 ## Practical Applications
 
 Fukuoka — The Culture of Clothing and Meat has a range of practical applications that make it relevant to
@@ -97,8 +84,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[det]]
 - [[building-soil]]
 - [[fukuoka-doi-garment-culture-clothing-natural-farming]]

@@ -19,9 +19,7 @@ sources:
 
 ## Overview
 
-**Syzygium cumini** (L.) Skeels, commonly known as jambul, jamun, or java plum, is an evergreen tropical tree in the family Myrtaceae. It is native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]], where it has been cultivated for millennia for its edible purple fruits and traditional medicinal uses.
-
-The species is most widely recognized for its anti-diabetic properties in Ayurvedic and folk medicine. The fruit, seeds, bark, and leaves all contain [[cordyceps-cancer-bioactive-compounds]] with documented hypoglycemic, anti-inflammatory, and antioxidant activities.
+**Syzygium cumini** (L.) Skeels, commonly known as jambul, jamun, or java plum, is an evergreen tropical tree in the family Myrtaceae. It is native to the Indian subcontinent and [[cordyceps-cancer-bioactive-compounds]] with documented hypoglycemic, anti-inflammatory, and antioxidant activities.
 
 Jamun trees reach 15–30 meters in height and are valued as shade trees in tropical landscapes. The deep purple, oblong fruits ripen during the monsoon season across South Asia.
 
@@ -45,37 +43,7 @@ Fruits are ovoid or oblong berries, 1.5–3.5 cm long, ripening from green throu
 
 *S. cumini* is native to India, Bangladesh, Sri Lanka, Nepal, and the Andaman Islands. Its natural range extends through Myanmar, Thailand, Malaysia, and Indonesia.
 
-The species has been widely introduced across tropical and subtropical regions worldwide. It is naturalized in East Africa, the Caribbean, Central and [[guzman-psilocybin-mushrooms-south-america]], southern Florida, and northern Australia.
-
-Jamun thrives in tropical monsoon climates with annual rainfall of 1,000–2,500 mm. It tolerates a wide range of soil types including lateritic, sandy loam, and clay, provided drainage is adequate.
-
-Optimal growth occurs at elevations below 1,800 meters in full sun to partial shade. The tree is notably drought-tolerant once established and can withstand brief flooding during monsoon periods.
-
-## Nutritional and Culinary Use
-
-The ripe fruit is consumed fresh or processed into juices, preserves, vinegars, and wines. The characteristic purple color comes from anthocyanins, primarily delphinidin-3,5-diglucoside and petunidin derivatives.
-
-Per 100 g of fresh pulp, jamun provides approximately 62 kcal, 14 g carbohydrates, 0.7 g protein, and 0.2 g fat. The fruit is a good source of vitamin C (18 mg), iron (1.4 mg), and calcium (19 mg).
-
-In Indian cuisine, the fruit is used in chutneys, salads, and traditional beverages. Salted dried seeds are sold as a digestive aid. The fruit is also fermented into vinegar and wine in several South Asian countries.
-
-## Bioactive Compounds and Pharmacology
-
-The seeds are the most studied plant part for anti-diabetic activity. They contain jamboline (a glycoside), mycaminose, ellagic acid, gallic acid, corilagin, and quercetin derivatives.
-
-Animal studies demonstrate that seed extracts reduce fasting blood glucose by 20–35% in streptozotocin-induced diabetic rats. The mechanism involves inhibition of alpha-glucosidase, stimulation of insulin secretion, and regeneration of pancreatic beta cells.
-
-The bark contains β-sitosterol, friedelin, and tannins with anti-inflammatory activity. Bark decoctions are used traditionally to treat dysentery and gum infections.
-
-Leaves contain [[permaculture-designers-manual-essential-oil-plants]] rich in α-pinene, β-pinene, and limonene, alongside flavonoids including quercetin and kaempferol. Leaf extracts show antibacterial activity against *[[staphylococcus-aureus]]* and *Escherichia coli*.
-
-Human clinical evidence remains limited. Small trials suggest modest improvements in postprandial glucose, but large-scale randomized controlled trials are lacking.
-
-## Cultivation
-
-Jamun is propagated from seed, though seedling trees take 8–10 years to bear fruit. Grafted or budded plants fruit in 4–5 years and maintain superior fruit quality.
-
-Trees should be spaced 8–10 meters apart. Minimal pruning is required beyond removing [[fungal-dead-wood-diversity]] and shaping the canopy. The species is relatively pest-resistant, though fruit flies and leaf-eating caterpillars can affect yield.
+The species has been widely introduced across tropical and subtropical regions worldwide. It is naturalized in East Africa, the Caribbean, Central and [[permaculture-designers-manual-essential-oil-plants]] rich in α-pinene, β-pinene, and limonene, alongside flavonoids including quercetin and kaempferol. Leaf extracts show antibacterial activity against *[[fungal-dead-wood-diversity]] and shaping the canopy. The species is relatively pest-resistant, though fruit flies and leaf-eating caterpillars can affect yield.
 
 Yield varies from 40–100 kg per tree annually at maturity. Fruiting typically occurs once per year during the monsoon season, though some cultivars produce a secondary lighter crop.
 
@@ -83,8 +51,87 @@ Yield varies from 40–100 kg per tree annually at maturity. Fruiting typically 
 
 Jamun provides food and habitat for numerous bird and bat species. The flowers attract bees and butterflies, making it a valuable nectar source in tropical agroforestry systems.
 
-The deep root system helps prevent soil erosion on degraded lands. The species is recommended for reforestation programs across South and Southeast Asia due to its hardiness and rapid [[cervantes-seedling-care-early-growth]].
-
-The canopy offers shade in agroforestry combinations with coffee, cardamom, and pepper. Fallen leaves contribute to soil [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] and [[biodiversity-of-fungi-decomposition-nutrient-cycling]].
+The deep root system helps prevent soil erosion on degraded lands. The species is recommended for reforestation programs across South and Southeast Asia due to its hardiness and rapid [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] and [[biodiversity-of-fungi-decomposition-nutrient-cycling]].
 
 ## Traditional and Ethnobotanical Use
+
+## Overview
+
+Syzygium Cumini represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish syzygium cumini
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving syzygium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Syzygium Cumini finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for syzygium cumini. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+syzygium cumini and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Syzygium Cumini has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of syzygium cumini into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[syzygium-aromaticum]]

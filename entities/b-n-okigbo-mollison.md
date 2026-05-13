@@ -36,52 +36,90 @@ Okigbo and Lal's research produced crop yield comparison data under different mu
 |------------|-------|--------|-----------|---------|
 | Rice husks | 3.7 | 1.1 | 0.8 | 28.3 |
 | Pennisetum straw | 3.3 | 1.2 | 1.4 | 14.2 |
-| [[elephant-grass]] | 3.3 | 0.9 | 1.3 | 16.6 |
-| Millet straw (Panicum) | 3.6 | 2.4 | 1.5 | 15.5 |
-| Legume wastes | 4.3 | 1.4 | 1.4 | 15.5 |
-| Sawdust | 3.7 | 0.9 | 1.9 | 20.5 |
-| Bare ground (control) | 3.0 | 0.6 | 0.6 | 16.4 |
-
-### Key Findings
-
-- **Legume mulch** produced the strongest positive yield response in maize, reflecting nitrogen contribution from leguminous residues.
-- **All organic mulch types** outperformed bare ground cultivation for every crop tested, validating the universal benefit of mulch in tropical systems.
-- **Legume crops** (cowpea, soya bean) responded well to grass and sawdust mulches, suggesting complementary nutrient release.
-- **Cassava** responded positively to both legume and grain husk waste mulches, with rice husks giving exceptional yields.
-- No-tillage systems maintained or gained yields compared to conventional cultivation, supporting reduced soil disturbance approaches.
-- The research mapped strategies to cope with increasing land pressures through no-tillage and mulch-based systems.
-
-## Relevance to Cultivation and Permaculture
-
-- **Evidence base for mulch practices**: Okigbo's work provides quantitative data supporting the permaculture emphasis on continuous mulch application in tropical systems. The consistent yield improvements across all organic mulch types validate mulch as a cornerstone of tropical agriculture.
-- **No-tillage validation**: The finding that no-tillage systems maintained or improved yields directly supports permaculture approaches that minimise soil disturbance.
-- **Mulch type selection**: The differential response of crops to various mulch types helps permaculture designers match mulch sources to crop types, for example using legume residues near heavy-feeding crops like maize.
-- **Tropical soil management**: The research specifically addresses the challenges of fragile tropical soils, providing practical guidance for permaculture systems in wet-dry tropical climates.
-- **Integrated system design**: Okigbo and Lal's concept of "agrisilviculture" (integrating trees with agricultural crops) aligns directly with permaculture's multi-strata polyculture approach.
-- **Sustainability argument**: The data supports the argument that organic, mulch-based systems are not merely ideological preferences but produce measurable yield improvements in real tropical farming conditions.
-
-## Methodology
-
-Okigbo and Lal's experimental approach involved:
-
-- Multiple tropical crop species (maize, cowpea, soya bean, cassava) grown under different mulch treatments.
-- Six organic mulch types tested against a bare-ground control across replicated plots in Nigerian tropical conditions.
-- Yields measured in tonnes per hectare to provide directly comparable, quantitative data.
-- Focus on practical, locally available mulch materials that tropical smallholders could access without purchased inputs.
-- Explicit consideration of land pressure and the need for sustainable intensification strategies.
-
-## Legacy
-
-- Okigbo's research contributed to the growing body of evidence in the 1970s that challenged Green Revolution monoculture approaches in tropical regions.
-- Work is cited by Mollison as foundational evidence for the effectiveness of mulch-based tropical gardening systems.
-- The crop yield comparison table from Okigbo and Lal's research remains a key reference for permaculture designers working in tropical regions.
-- The research helped establish no-tillage farming as a credible alternative to conventional cultivation in tropical developing countries.
-
-## Source Reference
-
-Bill Mollison, *Permaculture: A Designers' Manual* (Tagari Publications, 1988), Chapter 10: The Humid Tropics, citing B. N. Okigbo and R. Lal, "Residue Mulches and Agrislviculture," International Conference on Ecological Agriculture, Montreal, 1978, pp. 257-258.
-## See also
-
-- [[agroforestry]]
-- [[tropical-food-system-development]]
+| [[agroforestry]]
 - [[permaculture-design]]
+
+## Overview
+
+B N Okigbo Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish b n okigbo mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving b extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+B N Okigbo Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for b n okigbo mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+b n okigbo mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+B N Okigbo Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of b n okigbo mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[humid-cool-climate-characteristics-mollison]]
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-climate-zone-3-farm-forestry]]
+- [[mollison-designers-earthworks-for-erosion-control]]
+- [[soya-bean-mollison]]

@@ -22,7 +22,7 @@ Research on compost tea's efficacy is decidedly mixed:
 - **Positive results** are inconsistent and often attributed to the nutrient content of the tea rather than its microbial populations
 - **The microbial problem**: Beneficial microorganisms applied to leaf surfaces face harsh conditions (UV radiation, desiccation, temperature extremes) and rarely establish in sufficient numbers to compete with pathogens
 - **Pathogen risk**: Poorly brewed compost tea can actually contain human pathogens (E. coli, Salmonella) if the source compost was not adequately heated
-- **Reproducibility**: Studies showing [[aact-disease-suppression-mechanisms-ingham]] are difficult to reproduce across different environments, compost sources, and [[compost-tea-brewing-methods-aact]]
+- **Reproducibility**: Studies showing [[compost-tea-brewing-methods-aact]]
 
 ### The Balanced View
 
@@ -30,10 +30,8 @@ Compost tea may provide a small nutrient boost when applied as a foliar spray, b
 
 ### See Also
 
-- [[garden-myths-weeds-and-pest-management]]
 - [[garden-myths-organic-vs-conventional]]
 
-- [[compost-biology-soil-food-web-inoculation]]
 - [[soil-building-permaculture]]
 
 ## Myth: Mycorrhizal Inoculants Are Always Beneficial
@@ -44,17 +42,10 @@ The mycorrhizal inoculant industry has exploded, with products promising dramati
 
 - **Mycorrhizae are already present** in most undisturbed soils. Native mycorrhizal populations are often well-adapted to local conditions and may outcompete introduced commercial strains
 - **Compatibility matters**: Different plants associate with different types of mycorrhizal fungi (arbuscular mycorrhizae vs. ectomycorrhizae vs. ericoid mycorrhizae). A universal inoculant cannot optimally serve all species
-- **Soil conditions determine success**: Compacted, anaerobic, excessively fertilized (especially high phosphorus), or regularly tilled soils inhibit [[arbuscular-mycorrhizal-colonization-patterns]] regardless of inoculation
-- **Efficacy varies**: Some studies show modest benefits (10-20% growth increase) in sterilized potting media, but field results in real soils are far less consistent
-- **The marketing problem**: Many commercial products contain insufficient propagules, dead organisms, or inappropriate species for the intended application
-
-### The Balanced View
-
-Mycorrhizal inoculants can be beneficial in specific contexts: sterilized nursery media, severely disturbed sites, container plantings, and restoration projects where native mycorrhizal populations have been destroyed. However, for most home gardeners working with established soils, protecting existing [[dighton-mycorrhizal-networks-carbon-transfer]] through reduced tillage, appropriate phosphorus management, and diverse plantings is more effective and economical than purchasing inoculants.
+- **Soil conditions determine success**: Compacted, anaerobic, excessively fertilized (especially high phosphorus), or regularly tilled soils inhibit [[dighton-mycorrhizal-networks-carbon-transfer]] through reduced tillage, appropriate phosphorus management, and diverse plantings is more effective and economical than purchasing inoculants.
 
 ### See Also
 
-- [[agricultural-chemicals-mycorrhizal-impact]]
 - [[soil-compaction-solutions]]
 
 ## Myth: You Need to Add Sand to Clay Soil to Improve Drainage
@@ -81,7 +72,6 @@ The relevant soil science principle involves particle size distribution and the 
 
 ### See Also
 
-- [[building-soil-fertility-long-term]]
 - [[compost-building-guide]]
 
 ## Myth: Soil pH Can Be Permanently Changed with Amendments
@@ -117,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[building-soil]]
 - [[ericoid-mycorrhiza]]
-- [[det]]
 - [[permaculture]]
 - [[mycorrhizal-fungi]]

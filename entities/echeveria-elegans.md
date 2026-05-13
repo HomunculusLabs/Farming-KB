@@ -21,11 +21,7 @@ sources:
 
 Echeveria elegans, commonly known as Mexican snowball or Mexican gem, is a compact evergreen succulent in the family Crassulaceae. Native to the semi-arid highlands of northeastern Mexico, it forms tight rosettes of pale blue-green, spoon-shaped leaves covered in a powdery white epicuticular wax called farina.
 
-The species is one of the most widely cultivated echeverias worldwide, prized for its symmetrical form and ease of propagation. It produces coral-pink, lantern-shaped flowers on arching racemes in late winter [[coleman-overwintered-onions-and-early-spring-crops]].
-
-First described by Joseph Nelson Rose in 1911, Echeveria elegans belongs to series Elegantes, a group of closely related Mexican species with similar farinose rosettes. It has received the Royal Horticultural Society's Award of Garden Merit.
-
-The genus Echeveria comprises approximately 150 species, all native to the Americas from the southwestern [[dmt-containing-plants-united-states-halpern]] to Argentina. Mexico is the center of diversity, home to roughly 100 species, many of them narrow endemics restricted to single mountain ranges.
+The species is one of the most widely cultivated echeverias worldwide, prized for its symmetrical form and ease of propagation. It produces coral-pink, lantern-shaped flowers on arching racemes in late winter [[dmt-containing-plants-united-states-halpern]] to Argentina. Mexico is the center of diversity, home to roughly 100 species, many of them narrow endemics restricted to single mountain ranges.
 
 ## Taxonomy and Morphology
 
@@ -62,7 +58,7 @@ Plants growing at the highest elevations develop more compact rosettes with dens
 
 Plants grow in full sun to partial shade, often colonizing north-facing rock crevices where they receive afternoon shade. They associate with other xerophytes including Agave, Dasylirion, and Selaginella.
 
-The soil in native habitats is shallow, rocky, and alkaline, derived from weathered limestone and volcanic substrate. [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content is extremely low, typically less than 2%, which suits the species' minimal [[cannabis-soil-and-nutrient-requirements]].
+The soil in native habitats is shallow, rocky, and alkaline, derived from weathered limestone and volcanic substrate. [[cannabis-soil-and-nutrient-requirements]].
 
 The restricted native range makes the species potentially vulnerable to habitat loss. Urban expansion around Monterrey and Saltillo has reduced some cliff-face populations, though the ease of nursery propagation reduces collection pressure on wild plants.
 
@@ -72,13 +68,9 @@ Overcollection by plant poachers has been documented at accessible sites near ro
 
 Echeveria elegans thrives in well-drained, gritty substrates with a pH of 6.0–7.0. A standard mix combines equal parts potting soil, coarse sand, and perlite or pumice. Container culture with drainage holes is essential.
 
-Water thoroughly when the soil is completely dry, then allow it to dry again before rewatering. Reduce watering to monthly during winter dormancy when temperatures drop below 10°C. Overwatering [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]], the most common cause of death.
+Water thoroughly when the soil is completely dry, then allow it to dry again before rewatering. Reduce watering to monthly during winter dormancy when temperatures drop below 10°C. Overwatering [[solomon-wide-spacing-versus-intensive-gardening-debate]] between leaves. Plants tolerate temperatures from -4°C to 38°C but prefer 15–25°C.
 
-The species prefers bright light with at least 4–6 hours of direct sun daily. Insufficient light causes etiolation — stretched, pale growth with [[solomon-wide-spacing-versus-intensive-gardening-debate]] between leaves. Plants tolerate temperatures from -4°C to 38°C but prefer 15–25°C.
-
-Propagation is straightforward via leaf cuttings, stem offsets, or seed. Leaf cuttings placed on dry substrate root within 2–4 weeks. Offsets can be separated and potted independently at any time during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
-
-[[green-cannabis-grow-bible-cloning-and-seed-propagation]] is less common but produces genetically diverse plants. Seeds require light to germinate and should be surface-sown on moist, sterile substrate at 20–25°C. Germination occurs in 7–14 days under consistent humidity.
+Propagation is straightforward via leaf cuttings, stem offsets, or seed. Leaf cuttings placed on dry substrate root within 2–4 weeks. Offsets can be separated and potted independently at any time during [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is less common but produces genetically diverse plants. Seeds require light to germinate and should be surface-sown on moist, sterile substrate at 20–25°C. Germination occurs in 7–14 days under consistent humidity.
 
 Mealybugs and vine weevils are the primary pests. Treat mealybugs with isopropyl alcohol applied by cotton swab or systemic insecticide. Avoid wetting the farina-coated leaves during watering to prevent cosmetic damage and fungal spots.
 

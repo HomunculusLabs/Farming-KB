@@ -19,47 +19,17 @@ pickaxes to loosen hard earth. The picks represent the human intellect. The
 more they swing, the deeper the pit grows and the harder it becomes to
 escape. Outside the cave, a third person relaxes in sunlight, free from the
 drudgery of trying to understand nature, yet still providing for everyday
-necessities through [[fukuoka-mu-nothingness-philosophy]], mu represents the fertile void from
-which all natural processes arise without human intervention.
-
-The philosophy of mu directly informs his farming practice: by eliminating
-human action (plowing, fertilizing, weeding, pruning), the farmer allows
-nature's inherent wisdom to express itself. This is not laziness but a
-profound trust in the self-organizing capacity of natural systems. The "do
-nothing" approach described in [[fukuoka-sowing-natural-farming-philosophy]],
+necessities through [[fukuoka-sowing-natural-farming-philosophy]],
 requires regaining humanity's original kinship with nature and setting
 ourselves to the task of revitalizing the earth.
 
 He warned that many species become extinct each day, and the disappearance of
 each bird or plant is connected with the destruction of the harmony of all
 living things. Once the primal source of nature is destroyed, it will no
-longer restore itself, and the vision of [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]] will become
-obsolete.
+longer restore itself, and the vision of [[fukuoka-sowing-desertification-countermeasures-and-modern-failures]]
 
-## See Also
-
-- [[fukuoka-sowing-desertification-countermeasures-and-modern-failures]]
-
-- [[fukuoka-mu-nothingness-philosophy]]
 - [[fukuoka-nature-perfect-imperfect]]
-- [[fukuoka-philosophy-non-causality-nature]]
-## Practical Considerations
-
-When working with The Cave of the Intellect and the Philosophy of Mu, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[dom]]
 - [[desertification]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]

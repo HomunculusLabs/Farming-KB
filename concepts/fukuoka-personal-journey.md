@@ -11,75 +11,9 @@ sources:
 
 # Personal Journey of Masanobu Fukuoka
 
-The story of Masanobu Fukuoka's life is inseparable from the development of his [[comparison-natural-farming-vs-permaculture]] method. His [[fukuoka-one-straw-revolution-philosophy]] that has inspired farmers and gardeners [[fungi-around-the-world-species-distribution]].
+The story of Masanobu Fukuoka's life is inseparable from the development of his [[fukuoka-one-straw-revolution-philosophy]] that has inspired farmers and gardeners [[fukuoka-straw-scattering-testing-station-resistance]] as Head Researcher of Disease and [[fukuoka-barley-clover-cultivation]] method involved scattering rice straw on unplowed fields, allowing clover to grow as a living mulch, and broadcasting seeds in [[fukuoka-one-straw-revolution-conclusion]]" in 1975. Translated into many languages, the book attracted a worldwide following among farmers, gardeners, environmentalists, and spiritual seekers.
 
-## Early Life and Education
-
-Fukuoka was born in 1913 on the island of Shikoku in southern Japan. His family were farmers, and he grew up surrounded by the traditional agriculture of rural Japan.
-
-He attended Gifu Prefectural Agricultural College and then entered the Yokohama Customs Office as a plant pathologist. His work involved the very practices -- chemical treatments, soil sterilization, monoculture -- that he would later come to reject.
-
-He studied under Professor Eiichi Kurosawa, the man who first extracted the plant growth hormone gibberellin from fungus culture. Fukuoka devoted himself to research on decay-causing resin diseases in citrus trees, crossbreeding various fungi and creating new disease-causing varieties.
-
-He was fascinated with his work. Since the job required deep, sustained concentration, there were times when he actually fell unconscious while working in the lab. He spent his days in amazement at the world of nature revealed through the eyepiece of the microscope.
-
-## The Crisis of Faith
-
-The turning point came when Fukuoka was about twenty-five years old. Working at the agricultural research station, he was increasingly troubled by a sense that everything he was doing was wrong.
-
-The more he learned about plant pathology, the more he realized that the diseases he was studying were caused by the unnatural conditions created by modern farming itself. He was treating symptoms, not causes.
-
-His youthful high spirits and the fatigue from overwork eventually led to fainting spells in the research room. He contracted acute pneumonia and was placed in the hospital. It was winter and through a broken window the wind blew swirls of snow around the room.
-
-He found himself face to face with the fear of death. After his release from the hospital, Fukuoka could not pull himself out of his depression. He could not sleep, could not apply himself to his work. In nightly wanderings above the bluff and beside the Yokohama harbour, he could find no relief.
-
-## The Night on the Bluff
-
-One night as he wandered, he collapsed in exhaustion on a hill overlooking the harbour, finally dozing against the trunk of a large tree. He lay there, neither asleep nor awake, until dawn.
-
-It was the morning of the 15th of May. In a daze, he watched the harbour grow light, seeing the sunrise and yet somehow not seeing it. As the breeze blew up from below the bluff, the morning mist suddenly disappeared.
-
-Just at that moment, a night heron appeared, gave a sharp cry, and flew away into the distance. In an instant, all his doubts and the gloomy mist of his confusion vanished. Without his thinking about them, words came from his mouth: "In this world there is nothing at all."
-
-He could see that all the concepts to which he had been clinging, the very notion of existence itself, were empty fabrications. His spirit became light and clear. He was dancing wildly for joy. Something one might call "true nature" stood revealed.
-
-## Resignation and Wandering
-
-On the day following this experience, May 16th, Fukuoka reported to work and handed in his resignation on the spot. His superiors and friends were amazed.
-
-He addressed them saying, "On this side is the wharf. On the other side is Pier 4. If you think there is life on this side, then death is on the other, if you want to get rid of the idea of death, then you should rid yourself of the notion that there is life on this side. Life and death are one."
-
-He wandered through Tokyo, the Kansai area, and as far south as Kyushu, challenging people with his conviction that everything is meaningless and of no value, that everything returns to nothingness. Wherever he went he was ignored as an eccentric.
-
-## Return to Shikoku
-
-Fukuoka returned to his father's farm and moved into a hut on the mountain. He thought that if here, as a farmer of citrus and grain, he could actually demonstrate his realization, the world would recognize its truth.
-
-His method of "do-nothing" farming began with this thought in 1938. His father entrusted him with the richly bearing trees in the orchard, which had already been pruned to "the shape of sake cups." When Fukuoka left them abandoned, the branches became intertwined, insects attacked the trees, and the entire orchard withered away.
-
-His conviction that crops grow themselves was tested. He found that if you apply this way of thinking all at once, before long things do not go so well. "This is abandonment, not natural farming."
-
-## The Intermediate Years
-
-Fukuoka's father was shocked and suggested he take a job elsewhere. Fukuoka went to work for almost eight years at the Kochi Prefecture [[fukuoka-straw-scattering-testing-station-resistance]] as Head Researcher of Disease and [[mushroom-pests-insect-control-stamets]].
-
-During those eight years, he was pondering the relationship between scientific and natural agriculture. The question was always in the back of his mind: whether natural agriculture could stand up against modern science.
-
-When the war ended, he felt a fresh breeze of freedom and returned to his home village to take up farming anew. For thirty years he lived only in his farming, heading in a straight line toward a "do-nothing" agricultural method.
-
-## Decades of Observation
-
-Fukuoka persisted through the difficult early years, and gradually his methods began to bear fruit. Over the course of more than three decades, he refined his approach through constant observation.
-
-He learned to read the signs that nature provided -- the weeds that indicated soil conditions, the insects that signaled [[fukuoka-barley-clover-cultivation]] method involved scattering rice straw on unplowed fields, allowing clover to grow as a living mulch, and broadcasting seeds in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]].
-
-This technique produced yields comparable to conventional farming while requiring a fraction of the labor and no chemical inputs. One or two people could do all the work of growing rice and winter grain on a quarter-acre field in a matter of a few days.
-
-## Recognition and Global Influence
-
-Fukuoka's methods remained largely unknown outside his local area until the publication of "The One [[fukuoka-one-straw-revolution-conclusion]]" in 1975. Translated into many languages, the book attracted a worldwide following among farmers, gardeners, environmentalists, and spiritual seekers.
-
-Fukuoka became one of the most influential figures in the [[fukuoka-road-back-desert-reclamation]] and [[fukuoka-road-to-natural-farming]], [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-do-nothing-farming-philosophy]]
+Fukuoka became one of the most influential figures in the [[fukuoka-road-to-natural-farming]], [[fukuoka-do-nothing-farming-philosophy]]
 
 ## Practical Applications
 
@@ -110,8 +44,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[dom]]
-- [[permaculture]]
 - [[natural-farming]]
 - [[sterilization]]
+
+## Overview
+
+Fukuoka Personal Journey represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fukuoka personal journey
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fukuoka extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fukuoka Personal Journey finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fukuoka personal journey. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fukuoka personal journey and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fukuoka Personal Journey has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fukuoka personal journey into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-nature-fundamentally-perfect-self-enriching]]
+- [[fukuoka-pine-weevil-blight-non-causality]]
+- [[fukuoka-textdoc-absence-no-fertilizer-tests]]
+- [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
+- [[fukuoka-western-vs-japanese-attitudes]]

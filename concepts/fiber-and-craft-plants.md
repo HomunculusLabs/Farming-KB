@@ -9,42 +9,8 @@ sources:
 ---
 # Fiber and Craft Plants for Permaculture
 
-Permaculture systems can produce a remarkable range of fibre, craft, and construction materials alongside food. Many [[multipurpose-trees-in-permaculture-design]] and plants provide timber, basketry materials, paper pulp, textiles, and craft woods -- reducing dependence on external inputs and creating value-added products from the land.
-
-## Basketry and Weaving Plants
-
-### Osier Willow (Salix viminalis)
-Family: SALICACEAE. In Europe, the osier willow is specifically grown and specially harvested for the basket and willow weaving trade. Cultivars have been developed to produce different coloured and textured "rods." Osier stool beds are raised from cuttings and harvested annually as rods; most are peeled but some used with bark on. The conversion of rods into baskets, furniture, and fish traps is a highly skilled trade many hundreds of years old. Considerable potential exists in countries that import all commercial cane.
-
-### Typha spp (Cattail / Bullrush)
-The leaves yield a soft fibre used in mats, baskets, chair seats, and woven articles. Because the leaves swell when wet, they are reportedly good for caulking cracks in houses, barrels, and boat building. Fibre can be extracted chemically to provide 7-10 tonne/ha of fibres closely resembling jute. The plant is also used for thatching, paper making, and as a structural material.
-
-### Rattans (Calamus spp)
-Multiple species valued for cane in furniture making, basketry, and cordage:
-- **C. manan**: Large-diameter cane for furniture
-- **C. caesius**: Small-diameter cane for fine basketry
-- **C. maximus**, **C. ornatus**, **C. scipionum**: Various cane species
-- **C. erinaceous**, **C. trachycoleus**: Additional craft species
-
-### Other Basketry Species
-- **[[phragmites-australis]]** (common reed): Used for bags, baskets, matting, sandals, thatching, arrows, spears, and paper
-- **[[quercus-michauxii]]** (swamp chestnut oak, basket oak): Named for its traditional use in basket making
-- **[[broussonetia-papyrifera]]** (paper mulberry): Australian Aborigines made string from bark fibres; bark yields fibre suitable for the [[staycare-fungal-treatment-of-textile-industry-wastewater]]
-- **Yucca spp**: Various desert species yield fibre from leaves, used for cordage and textiles
-
-## Paper and Pulp Plants
-
-### Dendrocalamus strictus (Male Bamboo)
-Reported most useful bamboo in India for general construction and paper manufacturing. Dense clumps to 18 m with strong, often solid culms to 12 cm diameter. India's bamboo paper industry is built on this species.
-
-### Poplars (Populus spp)
-Poplar wood is soft, suitable for wood pulp and paper. Also used for plywood, fibreboard, chipboard, and packaging. The wood is fast-growing, with harvest possible in just 15 years. Used in sewerage effluent irrigation systems for municipal income generation.
-
-### Salix alba 'Coerulea' (Cricket Bat Willow)
-Timber used to make top quality cricket bats -- a unique industry. Trees require good soil by stream sides for rapid, upright growth, ready for cutting at 12-15 years. This timber also shows potential in the craft industry.
-
-### Castor (Ricinus communis)
-Stems are good for paper making. The plant also yields [[permaculture-castor-oil-plant]] from seeds (35-55% oil content), used in industry, pharmaceuticals, leather dressing, soap, candles, cosmetics, and textiles.
+Permaculture systems can produce a remarkable range of fibre, craft, and construction materials alongside food. Many [[phragmites-australis]]** (common reed): Used for bags, baskets, matting, sandals, thatching, arrows, spears, and paper
+- **[[broussonetia-papyrifera]]** (paper mulberry): Australian Aborigines made string from bark fibres; bark yields fibre suitable for the [[permaculture-castor-oil-plant]] from seeds (35-55% oil content), used in industry, pharmaceuticals, leather dressing, soap, candles, cosmetics, and textiles.
 
 ### Other Paper Species
 - **Morus spp** (mulberry): Bark used in China and Europe for making paper
@@ -117,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[irrigation-systems]]
 - [[acacia]]
-- [[dalbergia-sissoo]]
 - [[broussonetia-papyrifera]]
 - [[neem]]

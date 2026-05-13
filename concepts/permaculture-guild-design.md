@@ -1,133 +1,112 @@
 ---
 title: Permaculture Guild Design
-source: bill-mollison-permaculture-a-designers-manual.md
+created: 2026-04-12
+updated: 2026-04-12
 type: concept
+tags: [permaculture, guild, companion-planting, plant-systems, ecology, design, multi-function]
+sources: []
 ---
 
 # Permaculture Guild Design
 
-Guild design is the methodology of assembling multiple species into mutually beneficial communities within a [[permaculture]] system. Based on the observation that natural ecosystems consist of species assemblies where members provide benefits to one another, guild design seeks to recreate and enhance these relationships in cultivated systems. The goal is to maximize beneficial interactions between species while reducing the need for external inputs of fertilizer, pesticide, and labor.
+A guild is a group of plants, animals, fungi, and other organisms that work together synergistically. Modeled after natural plant communities, guilds create mutual support networks that reduce maintenance, increase yields, and build ecosystem resilience. Guild design is a direct application of the permaculture principles of integration, diversity, and each element performing multiple functions.
 
-## Definition of a Guild
+## What Makes a Guild
 
-A guild is "an harmonious assembly of species clustered around a central element (plant or animal)." This assembly acts in relation to the central element to:
+A well-designed guild typically includes plants serving the following functional roles:
 
-- **Assist its health** — Through pest control, nutrient provision, and physical protection
-- **Aid our work in management** — By reducing maintenance requirements and simplifying harvest
-- **Buffer adverse environmental effects** — Through shelter, frost protection, and wind mitigation
+- **Central element** — usually a productive tree or shrub (apple, peach, plum, chestnut)
+- **Nitrogen fixers** — convert atmospheric nitrogen into plant-available form
+- **Dynamic accumulators** — deep-rooted plants that mine minerals from subsoil
+- **Pest confusers** — aromatic plants that disrupt pest insect behavior
+- **Mulch makers** — plants that produce abundant biomass for ground cover
+- **Pollinator attractors** — flowering plants that support beneficial insects
+- **Root exudate contributors** — plants that feed soil biology through root sugars
 
-The concept is drawn directly from natural observation: in the wild, assemblies of plants and animals of different species are commonly found occurring together over their ranges, and closer examination reveals sets of mutual benefits arising from this "convivial togetherness."
+## Functional Roles in Detail
 
-## Functions of Guild Species
+### Nitrogen Fixers
+Nitrogen fixers form symbiotic relationships with rhizobacteria (legumes) or actinomycetes (non-legumes like alder and seaberry). They convert atmospheric nitrogen (N2) into ammonium (NH4+), which becomes available to neighboring plants through root exudation and leaf litter decomposition.
 
-### Root Competition Reduction
-Almost all cultivated food trees thrive in herbal ground covers rather than grasses. Invasive grasses compete aggressively with tree roots for nutrients and water, while many herbaceous plants coexist peacefully. Designing guilds that suppress grass while maintaining beneficial ground covers is a primary guild strategy.
+Common nitrogen fixers:
+- **Legumes**: clover, alfalfa, lupine, peas, beans, locust trees, caragana, Siberian pea shrub
+- **Non-legumes**: Russian olive, autumn olive, seaberry (Hippophae rhamnoides), alder, buffalo berry
 
-### Pest Control
-Guilds assist pest control through multiple mechanisms:
+Place nitrogen fixers within the root zone of heavy-feeding fruit trees. Cut them periodically (coppice) to release nitrogen into the soil surface.
 
-**Anti-feedant plants** provide bitter or unpalatable browse or chemical deterrents. Examples include nasturtium roots, which provide root chemicals to tomatoes or gooseberries that deter whitefly. Many plants, when fermented or extracted in water, deter pests or act as anti-feedants when sprayed on crop leaves.
+### Dynamic Accumulators
+Dynamic accumulators have deep taproots that reach minerals (calcium, potassium, phosphorus, magnesium, trace elements) from deep soil layers. These minerals accumulate in their leaves and become surface-available when the plant is cut for mulch or composted.
 
-**Biological fumigation** occurs when certain plants kill root parasites or soil predators. Crotalaria captures nematodes that damage citrus and solanaceous roots. Tagetes marigolds "fumigate" soils against grasses and nematodes.
+Common dynamic accumulators:
+- **Comfrey** (Symphytum officinale) — potassium, calcium, silica
+- **Dandelion** (Taraxacum officinale) — calcium, iron, copper
+- **Yarrow** (Achillea millefolium) — potassium, phosphorus, copper
+- **Chicory** (Cichorium intybus) — deep taproot, multiple minerals
+- **Nettle** (Urtica dioica) — iron, nitrogen, calcium
+- **Borage** (Borago officinalis) — calcium, potassium
 
-**Predator hosting** is provided by almost all small-flowered plants, especially Quillaja, many [[acacia]] species, tamarisk, Compositae (the daisy family), and Umbelliferae (dill, fennel, carrot, coriander). These plants host robber-flies and predatory wasps that control pest populations.
+### Pest Confusers
+Aromatic plants mask the scent of host plants, making it harder for pests to locate their targets. They may also repel certain insects directly or attract predatory insects.
 
-### Soil Surface Management
-Creating open soil surface conditions or providing mulch is a key guild function:
+Common pest confusers:
+- **Alliums** (garlic, chives, onions) — repel aphids, cabbage moths, carrot rust fly
+- **Aromatic herbs** (rosemary, thyme, sage, lavender, mint) — general pest disruption
+- **Marigolds** — repel nematodes, attract beneficial insects
+- **Nasturtiums** — trap crop for aphids, repels whitefly and squash bugs
 
-- **Comfrey and globe artichokes** allow tree roots to feed at the surface without competition
-- **Spring bulbs** (daffodils) and **winter-grown wild Allium species** have tops that die down in mid-spring, so they do not compete with deciduous tree roots during summer dry periods or intercept light rains
-- These plants occupy the root zone temporarily, then yield it to trees when trees need it most
+### Mulch Makers
+Plants that produce large amounts of biomass create a self-mulching system that suppresses weeds, retains moisture, moderates soil temperature, and feeds soil biology as they decompose.
 
-### Nutrient Provision
-Woody or herbaceous legumes fix nitrogen or other essential nutrients via root associates, stimulate soil bacteria or fungi, and benefit associated trees. Examples include:
+Common mulch makers:
+- **Comfrey** — cut 4-6 times per season for massive biomass
+- **Clover** — living mulch ground cover that also fixes nitrogen
+- **Daikon radish** — large taproot, biomass, and soil penetration
+- **Squash and pumpkins** — large leaves shade the soil surface
+- **Jerusalem artichoke** — tall, prolific, provides massive stem biomass
 
-- **Clovers** and other ground-level legumes
-- **Trees** such as Acacia, Casuarina, and Pultenaea
-- **Sugar-providing grasses** (sugar cane)
-- **High humus producers** (bananas)
+## Example Guild: Apple Tree Guild
 
-Many can be slashed or trimmed to provide rich mulch below trees or between rows.
+A classic permaculture example centered on a semi-dwarf apple tree:
 
-### Physical Shelter
-Hardy windbreak species provide frost protection, nullify salty or hot winds, provide mulch, and moderate the environment. Examples include borders of bamboo, cane grasses, Casuarina, hardy palms, and tamarisks.
+- **Central element**: apple tree (Malus domestica)
+- **Nitrogen fixers**: clover (ground cover), comfrey (beneath canopy), Siberian pea shrub (north side)
+- **Dynamic accumulators**: comfrey, yarrow, dandelion (allowed to grow selectively)
+- **Pest confusers**: garlic chives, nasturtiums, calendula
+- **Mulch makers**: comfrey, clover, Jerusalem artichoke (placed to not shade the apple)
+- **Pollinator attractors**: calendula, borage, clover flowers
+- **Root crops**: daikon radish (soil aeration and mineral mining)
+- **Climbers**: hardy kiwi or grape (on the north side to avoid shading)
 
-In-crop shade shelter from legumes is needed by crops such as avocado, citrus, cocoa, and coffee. In-crop trees can eliminate frost effects in marginal frost areas.
+This guild provides: apples, herbs, greens, cut flowers, mulch material, compost input, pollinator habitat, and pest management — all from one integrated planting.
 
-### Culinary Associates
-Keeping common culinary associates together reduces work during harvest and preparation:
+## Guild Design Process
 
-- Tomatoes with parsley and basil
-- Potatoes with mint
-- Dill with cucumbers (for pickling)
-- Dill with apples (both culinary and pest-control benefits—dill is an Umbelliferae that hosts predatory wasps below apple trees)
+1. **Choose the central element** based on site conditions and desired yield
+2. **Analyze the central element's needs** — nutrients, pollination, pest protection, shade tolerance of understory
+3. **Select plants for each functional role** based on climate compatibility and site conditions
+4. **Check for negative interactions** — some plants compete aggressively or are allelopathic
+5. **Arrange spatially** — taller plants to the north, ground covers underneath, considering root zone overlap
+6. **Plan management** — when to cut dynamic accumulators, when to rotate poultry through, when to harvest
 
-## Vertebrate Guild Members
+## Integration with Animals
 
-### Ground Foragers
-Pigs or poultry are specifically used to clear up fallen fruit that hosts fruit fly or larval pest forms. Foragers can be run in orchards during the period when fruit is falling and rotting, or used to eat reject fruit and deposit manures.
+Animals can be integrated into guild systems for additional functions:
+- [[permaculture-chicken-tractors]] — chickens process comfrey and scratch in nitrogen from clover
+- [[permaculture-duck-pond-systems]] — duck manure fertilizes guild edges near water
+- [[permaculture-animal-integration]] — goats can be used to reset overgrown guilds before replanting
 
-### Insectivorous Birds
-Birds that search bark crevices for resting larvae and egg masses (woodpeckers, honey-eaters) provide essential pest control. To encourage them, plant scattered flowering shrubs and herbaceous plants such as Kniphofia, Banksia, Salvia, Buddleia, and Fuchsia—all of which provide insect and nectar foods.
+Poultry in guilds provide pest control (eating codling moth larvae, plum curculio), fertilizer (manure), and cultivation (scratching). Time their access to avoid damaging young plants.
 
-### Mollusc Controllers
-Snails and slugs are almost totally controlled by a duck flock on range. Several large lizards (Tiliqua spp.) also feed primarily on snails. Ducks should be ranged seasonally (autumn to spring) in plant systems and in summer on marshlands. Ducks will eat seedlings, so appropriate scheduling is essential.
+## Common Mistakes
 
-### Guard Dogs
-A small number of guard dogs, fed and kennelled in orchards, provide sufficient control for deer, rabbits, and fox predation on orchard poultry. Dogs reared with domestic poultry do not attack the flocks themselves.
-
-### Hawk Kites
-Suspended over berry crops or flown as light model planes over extensive grain crops, hawk kites deter all flock-bird predators. They must be removed when not needed so that birds do not become accustomed to them.
-
-## The Analytic Approach to Guild Selection
-
-Mollison provides a systematic framework for analyzing species interactions:
-
-### Species Interaction Categories
-- **~80%** of all plant species can co-mingle without ill effect (neutral interaction)
-- **~10-15%** of species greatly assist others in one or more ways (positive interaction)
-- **~5%** of species show antagonistic behavior toward one or more others (negative interaction)
-
-### Interaction Symbols
-- **+**: Beneficial result of interaction (yield above monoculture baseline)
-- **0**: No change as a result of interaction
-- **−**: Reduction in yield or vigor from interaction
-
-### Interaction Matrix for Two Species
-
-For two useful species, there are nine possible interaction outcomes:
-
-| Species A →<br>Species B ↓ | + | 0 | − |
-|---|---|---|---|
-| **+** | (+ +) | (0 +) | (− +) |
-| **0** | (+ 0) | (0 0) | (− 0) |
-| **−** | (+ −) | (0 −) | (− −) |
-
-Three interactions benefit us, three are neutral, and three are antagonistic. However, Mollison cautions that "because of the vagaries of weather in any given year, many times a peasant farmer may accept a (− +) effect just to ensure that he at least gets a crop, even if it is of the 'losing' species." It is always safer to mix crops than to rely on a single main crop.
-
-## States of Action
-
-Mollison distinguishes three states of species interaction:
-
-1. **Co-action** — One species acts on another (unilateral action)
-2. **Interaction** — Both species act on each other (mutual action)
-3. **Inaction** — Absence of any detectable action (neutrality)
-
-### Symbiosis (++)
-Called symbiosis, this is common both in nature and in society. It is a "win-win" situation ideally suited to guild development. The classic example is mycorrhizal associates of higher plants, where mutualism or fair trade occurs between a plant and its root associate.
-
-## Design Principles
-
-- Observe natural species assemblies before designing guilds
-- Always design guilds around a central element (the target crop or animal)
-- Include species for pest control, nutrient provision, physical shelter, and soil management
-- Accept that some interactions will be slightly negative—the net benefit of diversity outweighs individual losses
-- Study reality rather than relying solely on analysis tables
-- Every designer and gardener can plan guilds for specific target species, pests, and conditions
+- Overplanting — too many species compete for light, water, and nutrients
+- Ignoring mature size — plants that work well together at year one may shade each other at year five
+- Planting invasive species — some guild plants (mint, comfrey, Jerusalem artichoke) spread aggressively
+- Neglecting management — guilds need periodic cutting, harvesting, and thinning to stay productive
 
 ## See Also
 
-- [[permaculture-zone-and-sector-analysis]]
-- Polyculture Systems
-- Mycorrhizal Associations
-- [[companion-planting]]
+- [[permaculture-ethics-and-principles]] — the integration and diversity principles behind guilds
+- [[permaculture-animal-integration]] — adding animals to guild systems
+- [[permaculture-forest-garden-establishment]] — guilds at the scale of entire food forests
+- [[permaculture-site-analysis]] — choosing guild locations based on site conditions

@@ -15,20 +15,20 @@ sources:
   - Hummer K.E. et al. (2009). "Fragaria: A Genus with Deep Historical Roots and Modern Appeal." HortScience 44(5): 1255-1259.
   - USDA NRCS (2024). "Fragaria virginiana Duchesne." PLANTS Database.
   - Hanna J.W. (2022). "Evolution and Diversity of the Wild Strawberry." Frontiers in Plant Science 13: 865234.
-  - Bassi P.V. et al. (2021). "The Ellagic Acid Content of North American Wild Strawberries." Food Chemistry 340: 128267.
+  - Bassi P.V. et al. (2021). "The Ellagic Acid Content of [[growing-gourmet-north-american-reishi-species]] Wild Strawberries." Food Chemistry 340: 128267.
 ---
 
 ## Overview
 
 **Fragaria virginiana**, known as the Virginia strawberry, wild strawberry, or common strawberry, is a perennial herbaceous plant native to North America. It is one of the two wild progenitor species of the cultivated garden strawberry (*Fragaria × ananassa*), contributing its exceptional flavor and aroma to the hybrid.
 
-The species is octoploid (2n = 8x = 56) and exhibits pronounced sexual dimorphism, with distinct male, female, and hermaphroditic populations across its range. This mating system diversity has made *F. virginiana* a model for studying plant sexual system evolution and the genetics of sex determination.
+The species is octoploid (2n = 8x = 56) and exhibits pronounced sexual dimorphism, with distinct male, female, and hermaphroditic populations across its range. This mating system diversity has made *F. virginiana* a model for studying plant sexual system evolution and the genetics of [[cannabis-sex-determination-floral-biology]].
 
 The octoploid genome of *F. virginiana* is estimated at approximately 710 Mb, making it one of the smaller octoploid genomes in Rosaceae. Genome sequencing efforts have revealed the complex allopolyploid origin of the octoploid strawberry, which arose through hybridization between diploid progenitors from at least three ancestral diploid species.
 
 Virginia strawberry has been harvested by Indigenous peoples of North America for thousands of years. The fruit was an important food source and was used medicinally for digestive ailments and skin conditions. Archaeological evidence from the Midwestern United States documents strawberry consumption dating back over 8,000 years.
 
-European colonists adopted the species enthusiastically, and it became a parent of the modern cultivated strawberry through 18th-century hybridization with the South American beach strawberry (*F. chiloensis*). The resulting hybrid, *F. × ananassa*, was first recognized in Brittany, France, around 1750 and rapidly supplanted both parent species in European horticulture.
+European colonists adopted the species enthusiastically, and it became a parent of the modern cultivated strawberry through 18th-century hybridization with the [[chiric-caspi-brunfelsia-south-american-hallucinogen]] beach strawberry (*F. chiloensis*). The resulting hybrid, *F. × ananassa*, was first recognized in Brittany, France, around 1750 and rapidly supplanted both parent species in European horticulture.
 
 ## Taxonomy and Morphology
 
@@ -36,13 +36,9 @@ European colonists adopted the species enthusiastically, and it became a parent 
 
 Plants grow 10–25 cm tall from a fibrous root system with a short, thickened crown. Leaves are trifoliate with broadly ovate to obovate leaflets 3–8 cm long, coarsely serrate, and sparsely hairy above with denser pubescence beneath. The foliage is deciduous in northern populations and semi-evergreen in southern ranges.
 
-The root system is shallow and fibrous, typically concentrated in the upper 15 cm of soil. Despite its limited depth, the root network is extensive, forming dense mats that effectively anchor soil on slopes. Roots form associations with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, which enhance nutrient uptake in the often nutrient-poor soils where the species grows.
+The root system is shallow and fibrous, typically concentrated in the upper 15 cm of soil. Despite its limited depth, the root network is extensive, forming dense mats that effectively anchor soil on slopes. Roots form associations with [[fungal-volatile-organic-compounds-communication]] compound concentrations than the cultivated strawberry.
 
-Flowers are 1–2 cm in diameter with five white petals, typically blooming April through June. The species exhibits three sexual forms: females (pistillate, with vestigial stamens), males (staminate, with vestigial pistils), and hermaphrodites. Female plants tend to produce larger fruit, while hermaphrodites produce smaller fruit with higher seed set.
-
-Fruit is a small aggregate accessory fruit 1–1.5 cm in diameter, ripening red to deep crimson. The surface is studded with small yellow achenes (true fruits) embedded in the fleshy receptacle. Flavor is intensely sweet and aromatic, with higher sugar and [[fungal-volatile-organic-compounds-communication]] compound concentrations than the cultivated strawberry.
-
-The fruit is borne on erect pedicels that hold the berries above the foliage, facilitating harvest and seed dispersal. Each receptacle typically bears 150–200 achenes, each containing a single seed. Fruit production per plant ranges from 10–40 berries per season in wild populations.
+The fruit is borne on erect pedicels that hold the berries above the foliage, facilitating harvest and seed dispersal. Each receptacle typically bears 150–200 achenes, each containing a single seed. [[berry-fruit-production-cool-humid-climates]] per plant ranges from 10–40 berries per season in wild populations.
 
 Plants spread via slender stolons that root at the nodes, forming dense colonial mats. Stolon production varies among subspecies, with eastern populations producing more runners than western montane forms. The crown is a compressed stem from which leaves, roots, and stolons arise, functioning as a perennating organ.
 
@@ -50,15 +46,13 @@ Plants spread via slender stolons that root at the nodes, forming dense colonial
 
 *Fragaria virginiana* is native to North America, ranging from Alaska and northwestern Canada across the continent to Newfoundland and southward to Georgia, Alabama, Texas, and New Mexico. It also occurs in scattered mountain populations in Mexico.
 
-The species inhabits open woodlands, forest edges, meadows, prairies, stream banks, and roadsides. It prefers well-drained loamy or sandy soils with pH 5.5–7.0 and tolerates full sun to partial shade. Optimal growth occurs in soils with moderate organic matter content and consistent moisture availability.
+The species inhabits open woodlands, forest edges, meadows, prairies, stream banks, and roadsides. It prefers well-drained loamy or sandy soils with pH 5.5–7.0 and tolerates full sun to partial shade. Optimal growth occurs in soils with moderate [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content and consistent moisture availability.
 
-Elevation ranges from near sea level to approximately 3,000 m in the Rocky Mountains and Sierra Madre. Montane populations at higher elevations tend to have more compact growth forms, thicker leaf cuticles, and higher phenolic concentrations than lowland populations. These differences reflect adaptive responses to increased UV radiation and temperature extremes at altitude.
+Elevation ranges from near sea level to approximately 3,000 m in the Rocky Mountains and Sierra Madre. Montane populations at higher elevations tend to have more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] forms, thicker leaf cuticles, and higher phenolic concentrations than lowland populations. These differences reflect adaptive responses to increased UV radiation and temperature extremes at altitude.
 
 Virginia strawberry is one of the most widespread and abundant *Fragaria* species in North America. It forms extensive ground cover through stolons and can colonize disturbed sites rapidly. The species is adapted to fire-prone ecosystems and resprouts from the crown after aboveground damage.
 
-Four subspecies are recognized based on geography, ploidy variation, and morphological traits: subsp. *virginiana* ([[polypore-fungi-eastern-north-america]] America), subsp. *glauca* (western mountains), subsp. *grayana* (southern Appalachians), and subsp. *platypetala* (Pacific Northwest). Subspecies differ in leaf pubescence, runner production, and fruit characteristics.
-
-Subspecies *glauca*, the Rocky Mountain or western strawberry, is particularly valued in breeding for its [[dighton-fungal-drought-tolerance-plant-water-relations]] and compact habit. It occurs at high elevations (1,500–3,000 m) and has glaucous, blue-green foliage with reduced pubescence. This subspecies contributed important cold-hardiness genes to modern strawberry cultivars developed for northern climates.
+Four subspecies are recognized based on geography, ploidy variation, and morphological traits: subsp. *virginiana* ([[dighton-fungal-drought-tolerance-plant-water-relations]] and compact habit. It occurs at high elevations (1,500–3,000 m) and has glaucous, blue-green foliage with reduced pubescence. This subspecies contributed important cold-hardiness genes to modern strawberry cultivars developed for northern climates.
 
 The species is widely naturalized outside its native range, occurring in parts of Europe and Asia where it has escaped cultivation. It is considered weedy in some agricultural contexts but is not listed as invasive in any jurisdiction.
 
@@ -72,7 +66,7 @@ The species gained horticultural significance in Europe after the French spy Am�
 
 When planted in European gardens alongside *F. virginiana* (already naturalized), spontaneous hybridization produced *F. × ananassa*, which combined the large fruit size of *F. chiloensis* with the superior flavor of *F. virginiana*. This chance hybridization event in the gardens of the Maritime Hospital at Brest, France, gave rise to the entire modern strawberry industry.
 
-Modern strawberry breeding continues to rely heavily on *F. virginiana* germplasm for flavor improvement, disease resistance, and environmental adaptation. The USDA strawberry [[cervantes-breeding-program-design-goal-setting]] at Corvallis, Oregon, maintains extensive collections of wild *F. virginiana* accessions used in ongoing cultivar development. Key traits introgressed from wild germplasm include resistance to red stele root rot, [[cervantes-powdery-mildew-prevention-treatment]], and anthracnose.
+Modern strawberry breeding continues to rely heavily on *F. virginiana* germplasm for flavor improvement, disease resistance, and environmental adaptation. The USDA strawberry [[cervantes-powdery-mildew-prevention-treatment]], and anthracnose.
 
 Culinary uses include fresh eating, jams, jellies, and preserves. The fruit has a more concentrated, complex flavor than cultivated strawberries, with notes of pineapple, honey, and wine. The leaves are brewed as a mild astringent tea in traditional herbalism, used to treat diarrhea and dysentery.
 

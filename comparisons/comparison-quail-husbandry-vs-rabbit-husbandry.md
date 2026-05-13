@@ -16,14 +16,7 @@ Quail and rabbits are the two most space-efficient meat animals available to
 homesteaders, both producing significant protein in a fraction of the space
 required by chickens, goats, or other livestock. Coturnix quail offer the
 fastest turnaround of any meat animal (egg to harvest in 8-10 weeks) in minimal
-cage space, while rabbits produce the most meat per [[comparison-biointensive-vs-square-foot-gardening]] annually through
-rapid breeding cycles and efficient feed conversion. The choice between them
-depends on whether you prioritize speed and egg production (quail) or meat
-volume, versatility, and garden fertility (rabbits).
-
-## Quail Husbandry
-
-[[rabbit-husbandry]]
+cage space, while rabbits produce the most meat per [[rabbit-husbandry]]
 
 Rabbits are the most space-efficient meat animal for homestead-scale production,
 producing the highest meat yield per square foot annually of any livestock. A
@@ -46,7 +39,7 @@ and providing shade. Processing yields dressed weight of about 55-60% of live
 weight, producing 2-3 lb fryers at 8-12 weeks.
 
 A unique advantage of rabbits is their manure, which is a "cold" fertilizer that
-can be applied directly to gardens without the composting required for chicken
+can be applied directly to gardens without the [[composting]] required for chicken
 and quail manure. Rabbit manure is approximately 2.4% N, 1.4% P, and 0.6% K,
 making it one of the most valuable direct-application fertilizers available.
 Heritage breeds like Silver Fox, Rex, Champagne d'Argent, and Satin provide
@@ -110,8 +103,6 @@ water supply infrastructure. Quail manure, being hot, can be composted with
 rabbit manure, carbon material, and garden waste for an excellent balanced
 fertilizer. Quail provide daily eggs while rabbits provide periodic large meat
 ## See Also
-
-- [[comparison-rabbit-vs-quail-husbandry]]
 
 - [[comparison-chicken-keeping-vs-quail-husbandry]]
 - [[comparison-rabbit-husbandry-vs-chicken-keeping]]

@@ -10,35 +10,9 @@ source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ## Overview
 
 Among the most intriguing strain-specific findings in the Winston
-et al. (2014) [[winston-cannabis-microbiome-study-design]] was the identification of
-**Sphingomonas wittichii** as a significant differentiating OTU in
-the Maui Wowie cultivar's endorhiza. S. wittichii is notable for
-its ability to metabolize phenazine-1-carboxylic acid, a compound
-with broad [[medicinal-mushroom-antimicrobial-properties]]. Its cultivar-specific
+et al. (2014) [[medicinal-mushroom-antimicrobial-properties]]. Its cultivar-specific
 enrichment raises questions about the ecological role of phenazine-
-degrading bacteria in [[alpha-beta-diversity-cannabis-root-microbiomes]].
-
-## Sphingomonas wittichii Biology
-
-Sphingomonas wittichii is a Gram-negative bacterium belonging to
-the Alphaproteobacteria class, within the Sphingomonadaceae family.
-The species was first isolated for its ability to degrade the
-toxic xenobiotic compound dibenzofuran, and has since been recognized
-for its versatile metabolic capabilities.
-
-Key characteristics relevant to plant-microbe interactions:
-
-- Ability to metabolize phenazine-1-carboxylic acid (PCA), an
-  antimicrobial compound produced by Pseudomonas and other
-  soil bacteria
-- Association with increased survival in soil environments
-  under competitive microbial conditions
-- Membership in a genus (Sphingomonas) well-represented in the
-  rhizosphere and endorhiza of many plant species
-
-## Phenazine-1-Carboxylic Acid in Plant Microbiomes
-
-Phenazine compounds are bacterial [[antifungal-secondary-metabolites-coprophilous-fungi]] with
+degrading bacteria in [[antifungal-secondary-metabolites-coprophilous-fungi]] with
 significant ecological functions in soil and plant environments:
 
 **Antimicrobial activity**: Phenazines suppress competing
@@ -107,37 +81,6 @@ The S. wittichii finding parallels the Methylophilus enrichment
 observed in Bookoo Kush (13% of endorhiza vs trace amounts in other
 strains). Together, these suggest that each Cannabis cultivar may
 harbor one or two keystone strain-specific taxa that significantly
-influence the overall [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]].
-
-The broader strain differentiation was driven primarily by
-Proteobacteria orders:
-- Pseudomonadales
-- Burkholderiales
-- Sphingomonadales (including S. wittichii)
-- Rhizobiales
-
-Plus Bacteroidetes orders:
-- Sphingobacteriales
-- Flavobacteriales
-
-## Implications for Cultivar-Specific Probiotics
-
-The identification of cultivar-specific taxa like S. wittichii
-opens the possibility of developing **cultivar-matched microbial
-inoculants**. If S. wittichii provides specific benefits to Maui
-Wowie, introducing it to other cultivars could either confer those
-benefits or disrupt existing beneficial community structures.
-
-Understanding the functional roles of strain-specific endophytes
-is essential before attempting such interventions. The phenazine-
-degrading capability of S. wittichii could be either beneficial
-(reducing excessive antimicrobial competition) or detrimental
-(removing protective Pseudomonas-produced phenazines) depending
-on the broader community context.
-
-## See Also
-
-- [[methylophilus-cannabis-endorhiza-strain-specificity]] — Strain biomarker
-- [[cannabis-core-endorhiza-microbiome]] — Shared endophyte community
+influence the overall [[methylophilus-cannabis-endorhiza-strain-specificity]] — Strain biomarker
 - [[proteobacteria-enrichment-endorhiza-cannabis-two-tier-model]]
 - [[edaphic-factors-cannabis-microbiome-structuring]]

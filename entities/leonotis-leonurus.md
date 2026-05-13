@@ -54,26 +54,10 @@ The genus name *Leonotis* derives from the Greek *leon* (lion) and *otis* (ear),
 Square (quadrangular) stems typical of the Lamiaceae, becoming woody at the base with age. Young stems are green and herbaceous, covered with fine hairs (pubescent). Stem coloration ranges from green to purplish-green, particularly when exposed to full sun.
 
 ### Leaves
-Opposite, simple, lanceolate to ovate-lanceolate, 5–15 cm long and 1–5 cm wide. Leaf margins are coarsely serrate to dentate. Upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and rough-textured (scabrous); the lower surface is lighter green with prominent venation. Leaves emit a strong, characteristic minty-herbal aroma when crushed due to their volatile [[permaculture-designers-manual-essential-oil-plants]] content.
+Opposite, simple, lanceolate to ovate-lanceolate, 5–15 cm long and 1–5 cm wide. Leaf margins are coarsely serrate to dentate. Upper [[permaculture-designers-manual-essential-oil-plants]] content.
 
 ### Flowers
-The most distinctive feature — arranged in dense, spherical whorls (verticillasters) at intervals along the terminal flower spikes. Each whorl contains 6–12 tubular flowers. Individual flowers are 25–35 mm long, bilabiate (two-lipped), with the characteristic bright orange to reddish-orange corolla. The calyx is tubular, 10–12 mm long, with 5 teeth. Flowering occurs primarily from late summer through autumn (February–May in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]; August–November in the Northern Hemisphere), though in warm climates it can bloom intermittently year-round.
-
-### Fruit
-Small nutlets (mericarps), approximately 2 mm long, brown, enclosed within the persistent calyx.
-
-## Distribution and Habitat
-
-*Leonotus leonurus* is native to the following regions of southern Africa:
-
-- **South Africa:** Eastern Cape, Western Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, North West
-- **Namibia:** Northern and central regions
-- **Botswana:** Eastern regions
-- **Eswatini (Swaziland):** Lowveld regions
-- **Lesotho:** Lowland areas
-- **Zimbabwe:** Eastern highlands
-
-It occurs naturally in a variety of habitats including grassland, savanna, forest margins, rocky hillsides, disturbed areas, and along roadsides and watercourses. It is particularly abundant in the fynbos and grassland biomes of South Africa. The plant has been naturalized in Australia (Queensland, New South Wales), parts of the Mediterranean, California, Hawaii, and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. In some regions (e.g., parts of Australia), it is considered an environmental weed.
+The most distinctive feature — arranged in dense, spherical whorls (verticillasters) at intervals along the terminal flower spikes. Each whorl contains 6–12 tubular flowers. Individual flowers are 25–35 mm long, bilabiate (two-lipped), with the characteristic bright orange to reddish-orange corolla. The calyx is tubular, 10–12 mm long, with 5 teeth. Flowering occurs primarily from late summer through autumn (February–May in the [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. In some regions (e.g., parts of Australia), it is considered an environmental weed.
 
 ### Climate Requirements
 - Hardiness zones: 9–11 (USDA)
@@ -88,3 +72,79 @@ The phytochemistry of *Leonotus leonurus* is diverse, with several classes of [[
 
 ### Diterpenes
 The most pharmacologically significant constituents are labdane diterpenoids, particularly:
+
+## Overview
+
+Leonotis Leonurus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish leonotis leonurus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving leonotis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Leonotis Leonurus finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for leonotis leonurus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+leonotis leonurus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Leonotis Leonurus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of leonotis leonurus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

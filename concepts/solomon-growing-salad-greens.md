@@ -9,9 +9,7 @@ sources:
 ---
 # Solomon on Growing Salad Greens: Lettuce, Spinach, and More
 
-From [[solomon-gardening-when-it-counts-index]]
-- [[winter-gardening-techniques]]
-- [[complete-organic-fertilizer-recipes]]
+From [[winter-gardening-techniques]]
 - [[parsley-celery-herbs-growing-guide]]
 - [[solomon-complete-organic-fertilizer-guide]]
 ## Background and Context

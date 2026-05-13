@@ -10,17 +10,7 @@ tags: [plants, shamanism]
 
 # Cross-Cultural Patterns in Shamanic Plant Use
 
-The culminating section of Harner's volume (Part IV: "[[hallucinogens-and-shamanism-harner-anthology]]: The Question of a Trans-Cultural Experience") addresses one of the most fundamental questions in the anthropology of consciousness: to what extent are the experiences reported by users of shamanic plants determined by culture, and to what extent by the biochemistry of the plants themselves? Two companion papers--by Harner and by Claudio Naranjo--approach this question from complementary angles, producing findings that challenge purely cultural explanations of shamanic experience.
-
-## The Problem of Trans-Cultural Regularities
-
-Harner frames the problem clearly. Anthropologists have long noted the recurrence of certain themes in shamanic belief and experience--such as the shamanistic journey or flight--across widely separated cultures. These "obviously ancient and widely distributed" thematic regularities are typically viewed as part of "the totality of the ancient cultural heritage of man" and are not usually explained. The search for "origins" has fallen into disrepute as an antiquated pursuit associated with nineteenth-century figures like Edward B. Tylor.
-
-However, Harner argues, if one redefines the search for origins "as the search for causality of regularities, the quest assumes great importance for the study of all human cultures, past and present." His reasoning is straightforward: culture is learned and transmitted through human effort, and it is unlikely that cultural institutions can be maintained for centuries and millennia "without having some regular reinforcement for their maintenance."
-
-## Harner's Five Common Themes in Yage Experiences
-
-Harner surveys South [[harner-american-indian-peyote-rituals]] yage (ayahuasca/Banisteriopsis) experiences across numerous tribes spanning from the Choco of western Colombia to the Tacana of eastern Bolivia, and identifies five recurring patterns:
+The culminating section of Harner's volume (Part IV: "[[harner-american-indian-peyote-rituals]] yage (ayahuasca/Banisteriopsis) experiences across numerous tribes spanning from the Choco of western Colombia to the Tacana of eastern Bolivia, and identifies five recurring patterns:
 
 ### 1. The Soul Separates and Makes a Trip, Often with the Sensation of Flight
 
@@ -74,17 +64,7 @@ The volume's argument is strengthened by the inclusion of European data. Harner'
 
 ## The Independent Reinvention of the "Trip"
 
-Perhaps the most persuasive evidence for a non-cultural basis comes from modern [[mycophobia-in-western-culture]]. The concept of the "trip" was independently invented in the [[dmt-containing-plants-united-states-halpern]] during the early 1960s to describe the [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] experience. Since the Inquisition largely eradicated European witchcraft ideology, this parallel "cannot be easily ascribed to cultural tradition." The Cashinahua of the Amazon have a precise equivalent of "to have a good trip," further supporting the independence of this concept from cultural diffusion.
-
-## The Culture-Biology Question
-
-Harner is careful to acknowledge the overwhelming importance of culture-specific factors. The evidence shows that culture is "of overwhelming importance in influencing both the content and structure of supernatural ideology." However, "there is a residue that remains, which cannot be conveniently explained away by recourse to the social structure or content of particular cultures."
-
-The open question is whether this residue reflects universal neurobiological structures, deep evolutionary memories encoded in the human nervous system, cultural diffusion through ancient shared heritage, or some combination of these factors. The volume's contribution is not to resolve this question but to frame it rigorously and demonstrate that it demands serious interdisciplinary investigation.
-
-## Related Topics
-
-- [[harner-ayahuasca-shamanism-amazon]]
+Perhaps the most persuasive evidence for a non-cultural basis comes from modern [[dmt-containing-plants-united-states-halpern]] during the early 1960s to describe the [[harner-ayahuasca-shamanism-amazon]]
 - ethnomycology
 
 ## Chapters Referenced
@@ -118,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[det]]
 - [[shamanism]]
 - [[claudio-naranjo]]

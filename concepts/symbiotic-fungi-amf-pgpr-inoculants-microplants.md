@@ -11,20 +11,9 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 Updated: 2026-04-18
 
-Source: [[mycelium-running-symbiotic-fungi-relationships]] (Varma and Kharkwal, eds.), Chapter 21: The Use of AMF and PGPR Inoculants Singly and Combined to Promote Microplant Establishment, Growth and Health
-
-## Introduction to Micropropagation Challenges
-
-Micropropagation is an alternative to seed and vegetative propagation for the production of planting material. While micropropagation has become an important commercial industry, it faces several challenges:
-
-1. **High [[fukuoka-textdoc-production-costs-not-coming-down]]**: Labour (approximately 60% of total cost), capital, and recurrent costs
+Source: [[fukuoka-textdoc-production-costs-not-coming-down]]**: Labour (approximately 60% of total cost), capital, and recurrent costs
 2. **Poor establishment**: Malfunctional stomata and thin cuticles lead to desiccation upon transfer
-3. **Disease susceptibility**: Aseptically produced tissues have poorly developed constitutive [[hamilton-pest-and-disease-control-organic]] resistance
-4. **Biological vacuum**: Micropropagules are produced in sterile conditions without beneficial microorganisms
-
-Value can be added by exploiting the benefits of biological inoculants to protect plants at establishment, reduce production losses, and promote growth. If the benefits of inoculant are carried forward to improve field performance, this should command a higher selling price.
-
-See also: [[arbuscular-mycorrhizal-fungi]], [[biofertilizers-and-soil-inoculants]], [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], mycoparasitic-fungi-biocontrol-agents
+3. **Disease susceptibility**: Aseptically produced tissues have poorly developed constitutive [[arbuscular-mycorrhizal-fungi]], [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], mycoparasitic-fungi-biocontrol-agents
 
 ## Mode of Action and Safety
 
@@ -65,10 +54,7 @@ Common inoculation methods for microplants include:
 ### Combined AMF and PGPR Inoculation
 
 Combined inoculation of AMF and PGPR may provide synergistic benefits:
-- PGPR can act as [[streptomycete-mycorrhization-helper-bacteria]] bacteria, enhancing AMF colonization
-- AMF provide habitat and carbon sources for PGPR along hyphae
-- The combination may provide broader-spectrum disease protection
-- Multiple mechanisms of [[brassinosteroid-growth-promotion-psilocybe-cubensis]] may be more effective than any single mechanism
+- PGPR can act as [[brassinosteroid-growth-promotion-psilocybe-cubensis]] may be more effective than any single mechanism
 
 ## Commercial Viability
 
@@ -89,8 +75,6 @@ For biological inoculants to be commercially attractive, they should offer at le
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[symbiotic-fungi-arbuscular-mycorrhizal-proteomics-techniques]]
 - [[symbiotic-fungi-carbon-isotope-mycorrhizal-allocation-tracking]]
-- [[fungi-in-the-environment-symbiotic-relationships]]
 - [[symbiotic-fungi-endophytic-fungi-plant-protection]]
 - [[symbiotic-fungi-mycorrhizal-types-and-classification]]

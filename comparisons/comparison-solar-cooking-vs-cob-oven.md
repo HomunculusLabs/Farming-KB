@@ -27,8 +27,6 @@ Solar cookers and cob ovens represent two fuel-conscious approaches to
     cooking system covering the full range of culinary needs.
 
 ## Solar Cooking Methods
-[[cob-oven-construction]]
-
 [[query-how-to-build-a-cob-oven-for-outdoor-cooking]] is an outdoor wood-fired dome built from clay, sand, and
     straw that reaches 700 to 900 degrees Fahrenheit during a one to two hour
     firing. The massive thermal cob stores heat for four to eight hours of
@@ -74,7 +72,7 @@ Construction requires no specialized skills beyond mixing cob (one part
 Choose solar cooking when fuel-free, emission-free cooking is desired
     and the climate provides sufficient sunshine. Solar cookers excel in hot,
     sunny climates where they also reduce indoor heat from conventional
-    cooking. They are ideal for summer cooking, emergency preparedness kits,
+    cooking. They are ideal for summer cooking, [[emergency-preparedness]] kits,
     camping, off-grid living in sunny regions, and developing areas with
     abundant sun but limited fuel access. Box cookers provide the most
     reliable, user-friendly experience for daily slow cooking, while parabolic
@@ -101,12 +99,5 @@ The most resilient off-grid cooking system combines solar and
     winter months, the cob oven becomes the primary cooking method. A haybox
     cooker extends the utility of both systems by allowing food started on
     either a solar cooker or cob oven to finish cooking without additional
-    energy input. Adding a [[comparison-rocket-stove-vs-masonry-heater]] for rapid boiling and frying completes
-    the off-grid cooking triad: solar for slow summer cooking, cob oven for
-    baking and year-round high-heat cooking, and rocket stove for quick daily
-    tasks.
-
-## See Also
-
-- [[comparison-cob-oven-vs-rocket-stove]]
+    energy input. Adding a [[comparison-cob-oven-vs-rocket-stove]]
 - [[solar-oven-cooking]]

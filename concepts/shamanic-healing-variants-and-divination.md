@@ -13,15 +13,10 @@ date: 2026-04-28 5|updated: 2026-04-28 6|sources:
 # Shamanic Healing Variants and Divination 11|
 Shamanic healing practices with hallucinogenic plants across diverse indigenous
 cultures share common structural features while varying in specific methods,
-plant medicines, and ceremonial forms. [[set-and-setting]], and the potential for healing and
-transformation, but they operate within fundamentally different paradigms of
-what illness is and how healing occurs. [[metzner-william-james-radical-empiricism-multiple-consciousness]], after his personal
-research with [[amazonian-plant-teachers-doctores]]
-- [[metzner-shamanic-healing-divination-worldview]] 156|
-- [Iboga and the [[iboga-and-the-bwiti-cult-initiation]] Initiation](iboga-and-the-bwiti-cult-initiation.md)
-- [[metzner-shamanic-healing-divination-worldview|Metzner Shamanic Healing Divination Worldview]]
-- [Metzner [[metzner-spirit-beings-multiple-realities-entheogens]] Multiple Realities Entheogens]([[metzner-spirit-beings-multiple-realities-entheogens]].md)
-- [[plant-teachers-ayahuasca|Plant Teachers Ayahuasca]]
+plant medicines, and ceremonial forms. [[metzner-william-james-radical-empiricism-multiple-consciousness]], after his personal
+research with [[metzner-shamanic-healing-divination-worldview]] 156|
+- [Iboga and the [[metzner-shamanic-healing-divination-worldview|Metzner Shamanic Healing Divination Worldview]]
+- [Metzner [[metzner-spirit-beings-multiple-realities-entheogens]].md)
 - [[amazonian-plant-teachers-doctores|Amazonian Plant Teachers Doctores]]
 ## Practical Applications
 

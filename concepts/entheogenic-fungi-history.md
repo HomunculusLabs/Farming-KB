@@ -10,23 +10,9 @@ type: concept
 
 # Entheogenic Fungi in Human History
 
-The relationship between humans and [[cattle-dispersal-psychoactive-fungi-australia]] stretches back
-thousands of years and spans virtually every inhabited continent.
-Archaeological evidence, ethnographic records, and rock art all point to
-the use of psilocybin-containing mushrooms in religious, healing, and
-divinatory contexts by diverse cultures throughout human history. The term
-entheogen, meaning "generating the divine within," reflects the sacred
-role these fungi have played in many traditional societies.
-
-## Prehistoric Evidence
-
-The earliest known evidence of psychoactive mushroom use comes from rock
-art found in various locations [[fungi-around-the-world-species-distribution]]. In the Sahara Desert,
+The relationship between humans and [[fungi-around-the-world-species-distribution]]. In the Sahara Desert,
 mushroom-shaped figures dated to approximately 7,000 to 9,000 years ago
-appear to depict [[virola-surinamensis]]
-
-- [[psilocybin-mushrooms-biology]]
-- [[psilocybin-therapy]]
+appear to depict [[psilocybin-mushrooms-biology]]
 - [[mazatec-mushroom-tradition]]
 - psychedelic renaissance
 ## Practical Applications
@@ -97,8 +83,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[det]]
 - [[entheogenic-fungi-in-mexico]]
 - [[symbiotic-fungi-mycorrhiza-history-frank-discovery]]

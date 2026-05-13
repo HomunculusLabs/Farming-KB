@@ -19,12 +19,8 @@ created: 2026-04-28
 # Permaculture Design Principles and Sustainability
 
 Permaculture is a comprehensive design system for creating sustainable human settlements and agricultural systems. The term, coined by use-and-value-renewable-resources and Services**: Prioritize resources that can be replenished naturally over those that are finite or polluting. This includes not only material resources but also the services provided by healthy ecosystems, such as pollination, water purification, and climate regulation.
-6. **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]**: Design for closed-loop systems where the output of one element becomes the input for another. In nature, there is no waste; every organism's output is another's resource. A well-designed permaculture system mimics these closed loops.
-7. **use-edges-and-value-the-marginal Marginal**: The interfaces between different systems (forest edges, shorelines, cultural boundaries) are often the most productive and dynamic areas. [[permaculture-principle-apply-self-regulation]] deliberately create and work with edges to maximize diversity and producti faires-permaculture-ethics-and-design-principles
-- [[permaculture-plant-selection-and-useful-species-categories]]
-## Practical Applications
-
-[[permaculture-design-principles]] and Sustainability has a range of practical applications that make it relevant to
+6. **[[permaculture-principle-apply-self-regulation]] deliberately create and work with edges to maximize diversity and producti faires-[[permaculture-ethics-and-design-principles]]
+- [[permaculture-design-principles]] and Sustainability has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

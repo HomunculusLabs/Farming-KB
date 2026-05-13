@@ -39,53 +39,10 @@ Different fungal species produce mycelium with distinct material properties:
 
 | Species | Common Name | Material Properties | Primary Applications |
 |---------|-------------|-------------------|---------------------|
-| *[[ganoderma-lucidum]]* | Reishi | Dense, hard, woody texture | Structural panels, furniture |
-| *Pleurotus ostreatus* | Oyster mushroom | Fast-growing, moderate density | Packaging, insulation |
-| *Trametes versicolor* | Turkey tail | Fine-textured, strong mat | Leather alternatives, composites |
-| *Fomes fomentarius* | Tinder conk | Extremely dense, tough | Tool handles, structural elements |
 | *[[schizophyllum-commune]]* | Split gill | Flexible, rubbery texture | Flexible materials, foams |
 | *Lentinula edodes* | Shiitake | Dense, aromatic | Food-grade packaging, functional materials |
 | *Ganoderma tsugae* | Hemlock varnish shelf | Very hard, water-resistant | Outdoor applications, tiles |
-| *[[pycnoporus-cinnabarinus]]* | Cinnabar polypore | Produces natural pigments | Dyed materials, colored products |
-
-### Substrate Engineering
-
-The substrate — the organic material the mycelium colonizes — profoundly affects the final material's properties. Common substrates include:
-
-**Agricultural residues:**
-- Hemp hurds (hurd fibers from hemp stalk processing)
-- Corn stalks and cob grits
-- Wheat straw and rice husks
-- Sugarcane bagasse
-- Oat hulls
-- Soybean hulls
-
-**Wood products:**
-- Sawdust (various hardwood and softwood species)
-- Wood chips and shavings
-- Milled wood fiber
-- Paper pulp and cardboard waste
-
-**Other substrates:**
-- Cotton gin trash
-- Coffee grounds and husks
-- Spent grain from brewing
-- Coconut coir (coconut fiber)
-
-Substrate properties that influence material outcome:
-- **Particle size**: Finer substrates produce denser, more uniform materials
-- **Moisture content**: Typically 60–75% for optimal colonization
-- **Nutrient availability**: Higher nitrogen supports faster growth but may produce softer materials
-- **Carbon-to-nitrogen ratio**: Affects growth rate, density, and mechanical properties
-- **Lignin content**: Higher lignin substrates produce stiffer, harder materials
-
-## Manufacturing Processes
-
-### Bulk Mycelium Composites (Foam and Insulation)
-
-The most commercially mature mycelium material process produces rigid foam-like composites used for packaging insulation and structural panels:
-
-1. **[[substrate-preparation-and-pasteurization]]**: Agricultural waste is milled to a consistent particle size (typically 1–5 mm), pasteurized (60–80°C for 30–120 minutes) to eliminate competing organisms, and adjusted to approximately 65% moisture content
+| *[[substrate-preparation-and-pasteurization]]**: Agricultural waste is milled to a consistent particle size (typically 1–5 mm), pasteurized (60–80°C for 30–120 minutes) to eliminate competing organisms, and adjusted to approximately 65% moisture content
 2. **Inoculation**: Mycelium spawn (grain spawn or liquid culture) is mixed with the cooled substrate at a rate of 5–15% by weight
 3. **Molding**: The inoculated substrate is packed into molds of the desired shape. Molds can range from simple rectangular forms to complex custom geometries
 4. **Incubation**: Molds are held in controlled environments (22–28°C, 85–95% relative humidity, ambient CO₂, minimal light) for 3–7 days while the mycelium colonizes the substrate completely
@@ -145,5 +102,4 @@ Properties achieved:
 - [Biochar in Regenerative Agriculture]([[biochar-in-regenerative-agriculture]].md)
 - [Bioremediation Using Fungi](bioremediation-using-fungi.md)
 - [Mycelium Networks and Fungal Ecology]([[mycelium-networks-and-fungal-ecology]].md)
-- [Oyster [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] Species Guide](oyster-mushroom-cultivation-methodson-and-species-guidesteurization-methods-and-species-guide.md)
-- [[shiitake-mushroom-cultivation-and-medicinal-properties]] [[calendula-cultivation-and-medicinal-uses]] Properties](shiitake-mushroom-cultivation-and-medicinal-properties.md)
+- [Oyster [[shiitake-mushroom-cultivation-and-medicinal-properties]] [[calendula-cultivation-and-medicinal-uses]] Properties](shiitake-mushroom-cultivation-and-medicinal-properties.md)

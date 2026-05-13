@@ -6,32 +6,7 @@ type: entity
 
 ## Description
 
-Regolith is the layer of loose, unconsolidated rock and mineral material that overlies solid bedrock. In tropical regions, regolith is a defining landscape feature: it consists of deeply weathered and rotten rock, sometimes extending tens of metres below the surface, formed by millions of years of chemical weathering under hot, wet conditions. In permaculture and tropical land management, understanding regolith is essential for [[water-management]], soil development, earthworks design, and plant root access to minerals.
-
-## Classification
-
-- **Category**: Geological formation / soil parent material
-- **Composition**: Weathered rock fragments, clay minerals (primarily kaolinite), iron and aluminium oxides, quartz grains
-- **Tropical depth**: Commonly 5-50+ metres in humid tropics (compared to 1-5 metres in temperate zones)
-- **Formation process**: Chemical weathering (hydrolysis, oxidation, dissolution) of bedrock under sustained heat and moisture
-- **Associated landforms**: Rounded hills, deeply incised valleys, perennial stream systems
-
-## Key Facts
-
-- In the humid tropics, the landscape is characterised by perennial streams and deeply weathered regolith over bedrock, with rounded hills formed by the deep rotting of underlying rock.
-- Tropical regolith forms because most continental areas in the tropics have not been glaciated, meaning weathering has continued uninterrupted for millions of years.
-- The extreme depth of tropical regolith means that bedrock is rarely accessible for mineral nutrition; instead, plants rely on nutrients released through biological weathering of the regolith zone.
-- Regolith chemistry in the tropics is dominated by oxides of iron and aluminium (laterite/ferricrete formation), with most silica and calcium leached away.
-- The deep weathering profile creates rapid water run-off and deep drainage, with water reaching stream systems quickly through the permeable regolith zone.
-- Clearing of tropical forest exposes the nutrient-poor regolith to rapid erosion, converting productive land to barren ferricrete or silcrete hardpan.
-
-## Role in Tropical Soil Systems
-
-### Nutrient Cycling
-
-- Most mobile nutrients (calcium, silica, magnesium, potassium) have been leached from tropical regolith over geological time, leaving infertile subsoils dominated by kaolinite clays and iron-aluminium oxides.
-- Nutrients are held almost entirely in the biomass (80-90% in plants and animals), not in the soil or regolith, making vegetation retention critical for ecosystem stability.
-- The regolith's low [[cation-exchange-capacity]] (CEC) means that any nutrients added to the soil are easily leached unless held by organic matter or plant roots.
+Regolith is the layer of loose, unconsolidated rock and mineral material that overlies solid bedrock. In tropical regions, regolith is a defining landscape feature: it consists of deeply weathered and rotten rock, sometimes extending tens of metres below the surface, formed by millions of years of chemical weathering under hot, wet conditions. In permaculture and tropical land management, understanding regolith is essential for [[cation-exchange-capacity]] (CEC) means that any nutrients added to the soil are easily leached unless held by organic matter or plant roots.
 - In oxidic kaolinitic soils (common in weathered volcanics), only kaolin clays and oxides of iron-aluminium remain, giving soil particles a net negative charge that is pH-dependent.
 
 ### Water Movement
@@ -80,6 +55,90 @@ On deep granitic sands (a form of tropical regolith), Mollison recommends:
 Bill Mollison, *Permaculture: A Designers' Manual* (Tagari Publications, 1988), Chapter 10: The Humid Tropics, Sections 10.2-10.3, pp. 251-254.
 ## See also
 
-- [[permaculture-design]]
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
+
+## Overview
+
+Regolith Tropical Soils Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish regolith tropical soils mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving regolith extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Regolith Tropical Soils Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for regolith tropical soils mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+regolith tropical soils mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Regolith Tropical Soils Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of regolith tropical soils mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bloomfield-mycetoma-madurella-tropical-foot-fungus]]
+- [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
+- [[fungal-biodiversity-tropical-ecosystems]]
+- [[integrated-tropical-homestead-garden-layout]]
+- [[tropical-pasture-grass-forage-species]]

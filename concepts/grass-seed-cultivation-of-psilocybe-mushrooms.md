@@ -18,52 +18,26 @@ type: concept
 # Grass Seed Cultivation of Psilocybe Mushrooms
 
 Grass seed is a versatile substrate for cultivating Psilocybe species,
-supporting both mushroom fruitbody production and [[psilocybe-mexicana]] and [[mushroom-casing-layers]] layer or fruiting conditions.
+supporting both mushroom fruitbody production and [[mushroom-casing-layers]] layer or fruiting conditions.
 
 ## Suitable Species
 
 The grass seed method supports:
 
-- **[[psilocybe-tampanensis-entity]]** — mushrooms and sclerotia (commonly called
-  "philosopher's stones")
 - **[[panaeolus-subbalteatus]]** — mushrooms only
 
 ## Substrate Preparation
 
 Rye grass seed (Lolium perenne) is the most common choice, though mixtures
 of different grass species work well. The seed must not be treated with
-[[psilocybe-cubensis]] and unhelpful for [[psilocybe-tampanensis-entity]], and [[psilocybe-mexicana]] typically produces one large flush and a small second.
-
-## Sclerotia Production
-
-[[psilocybe-mexicana]] produce sclerotia while
-still colonizing in the jar — no casing or [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] needed. Sclerotia
-enlarge until approximately 4 months after inoculation. Jars should be kept in
-a clean, preferably dark location. Sclerotia also form in the [[gourmet-medicinal-mushroom-casing-layer-techniques]] of
+[[psilocybe-tampanensis-entity]], and [[psilocybe-mexicana]] produce sclerotia while
+still colonizing in the jar — no casing or [[gourmet-medicinal-mushroom-casing-layer-techniques]] of
 cased trays.
 
 ## See Also
 
-- [[psilocybe-mexicana]]
 - [[psilocybe-cubensis]]
-- [[mushroom-substrates]]
-## Practical Considerations
-
-When working with Grass Seed Cultivation of Psilocybe Mushrooms, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,8 +84,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[fruiting-conditions]]
-- [[psilocybin]]
 - [[substrate-preparation]]
 - [[lolium-perenne]]

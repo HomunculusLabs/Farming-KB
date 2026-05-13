@@ -6,93 +6,7 @@ type: concept
 
 # Water Storage Tanks
 
-Water storage tanks are enclosed containers for harvesting and storing rainwater, most commonly connected to building rooftops. In [[permaculture-design]], tanks provide clean, self-reliant drinking water supplies for households, particularly in rural, suburban, and urban settings where dam construction is impractical.
-
-## Where Tanks Are Appropriate
-
-Tanks are the preferred water storage solution in several contexts:
-
-- **Isolated dwellings** — where no other water supply is available
-- **Flatlands** — where dam sites with sufficient catchment do not exist
-- **Cities and urbanized areas** — where space is limited and rooftops provide abundant catchment surface
-- **Supplementary supply** — anywhere clean drinking water is needed alongside other storage methods
-
-Mollison notes significant cultural variation in tank adoption: Australians commonly use a variety of surface storages and tanks, while many parts of Europe, the USA, and India lack significant domestic rainwater tank infrastructure despite rainfall often exceeding local needs.
-
-## Tank Sizing and Cost
-
-### Volume Requirements
-
-A tank of approximately **22,500 liters** (about 5,940 US gallons) provides a family with all needed water for a year, including drinking, showers, cooking, and modest garden irrigation on trickle systems. Tank water is renewed by rainfall at any time of year.
-
-### Cost Economics
-
-- The **simple forms** for making concrete tanks cost a few hundred dollars and may be reused hundreds of times
-- Tanks above 22,500 liters are usually **poured on site** (less concrete per unit of water)
-- Tanks below 22,500 liters are typically **carted from a central manufacturing site**
-- Larger tanks are **relatively cheaper** than smaller ones due to the geometry of volume versus surface area
-
-### Cost Comparison with Dams
-
-- A 22,500-liter tank costs roughly **100 times** more per liter than the equivalent volume stored in an earth dam
-- Earth tanks excavated below grade cost about **one-tenth** the price of concrete tanks above grade
-- However, tanks provide guaranteed clean water in situations where dams are not feasible
-
-## Rainwater Yield Calculation
-
-Every roof — whether domestic or industrial — can fill multiple tanks. The expected yield is calculated simply:
-
-> **Roof area × average rainfall (mm or inches)** → convert to liters or gallons
-
-This straightforward calculation allows any householder to determine their potential rainwater harvest and size tanks accordingly.
-
-## Water Quality Management
-
-### First Flush Rejection
-
-Roof surfaces can be contaminated by bird droppings, dust, industrial fallout, or debris. The critical first precaution is to **reject the first flow-off of water** after each rain event, directing it to gardens or swales instead of the tank. Two common methods achieve this:
-
-1. **Diversion systems** that route initial runoff away from the tank inlet
-2. **Automated first-flush devices** that fill a small chamber with the first water and then redirect subsequent flow to the tank
-
-### Exclusion of Pests
-
-To prevent entry of insects, birds, and rodents (including mosquitoes):
-
-- Use a **"U" pipe entry and exit** — this water trap prevents pest access
-- Fit a **sealed tank roof** — eliminates all pest entry points
-- Install an **overflow pipe** emptying to a gravel-filled swale — prevents standing water that attracts breeding
-
-For persistent bird perching on roof ridges, stretch a few very fine wires or threads along the ridge as a **10 cm (4 inch) high "fence"** to discourage perching.
-
-### Gutter Systems
-
-Gutters on roofing should be cleaned regularly, or **"leaf-free" gutters and downpipes** fitted. Several types are commercially manufactured. Keeping gutters clear prevents organic debris from entering the tank and ensures maximum water capture.
-
-### Biological Filtration
-
-Once most dust and leaves are removed, residual organics that enter the tank are usually harmless. They form an **active biological velvety film** on tank walls and bases that acts as a living filtration system. Taps and outlet pipes are normally fitted **15–20 cm (6–8 inches) above the tank floor** to allow this biological film to develop without being drawn into the supply.
-
-### Water Hardness and Health
-
-A **net or bag of limestone, shell, or marble chips** should be suspended in the tank. This serves two purposes:
-
-- Creates **hard (alkaline) water**, preventing heavy metal uptake
-- **Decreases the incidence of heart attacks** in people using the tank water
-
-Mollison recommends that washing and shower water can be soft (acidic), but **drinking water is best made alkaline** for health. This simple limestone treatment is an elegant, low-maintenance solution.
-
-## Policy Implications
-
-Mollison argues that it makes far more sense to legislate for rainwater tanks on every roof than to pipe exotic water for miles to towns. Mandating rooftop tanks would:
-
-- Ensure **better compliance with clean air regulations** locally (since roof catchments depend on clean air)
-- Provide every house with a **strategic water reserve** for emergencies
-- Encourage householders to be **conservative in water use** when they manage their own supply
-
-## Integration with Other Systems
-
-Tanks integrate naturally with other [[permaculture-water-systems]]:
+Water storage tanks are enclosed containers for harvesting and storing rainwater, most commonly connected to building rooftops. In [[permaculture-water-systems]]:
 
 - **Tank overflow** can be directed to swales for groundwater recharge
 - **Greywater** from household use can be led to swales (provided boron detergents are not used)
@@ -101,6 +15,90 @@ Tanks integrate naturally with other [[permaculture-water-systems]]:
 
 ## Related Topics
 
-- [[mollison-designers-diversion-drains-and-interceptor-banks]] — for handling tank overflow and greywater
 - [[sealing-leaky-dams]] — for larger-scale water storage
 - [[gabion-and-check-dams-water-earthworks]] — for landscape-scale water harvesting
+
+## Overview
+
+Water Storage Tanks represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish water storage tanks
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving water extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Water Storage Tanks finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for water storage tanks. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+water storage tanks and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Water Storage Tanks has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of water storage tanks into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cervantes-water-hash-bubble-hash]]
+- [[gadd-lichens-water-relations-symbiosis]]
+- [[mushroom-storage-and-processing-methods]]
+- [[rainwater-tanks-and-water-quality]]
+- [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]]

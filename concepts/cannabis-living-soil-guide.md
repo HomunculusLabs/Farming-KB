@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Living soil is a cultivation approach centered on building and maintaining a thriving ecosystem of microorganisms, fungi, and invertebrates within the growing medium. Rather than feeding plants directly with liquid nutrients, living soil growers feed the soil biology, which in turn makes nutrients available to plants through [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] and mineralization processes. This approach aligns with [[biochar]] principles and produces cannabis with superior [[sativa-terpene-profiles-and-aromatic-diversity]] flavor.
+Living soil is a cultivation approach centered on building and maintaining a thriving ecosystem of microorganisms, fungi, and invertebrates within the growing medium. Rather than feeding plants directly with liquid nutrients, living soil growers feed the soil biology, which in turn makes nutrients available to plants through natural decomposition and mineralization processes. This approach aligns with regenerative agriculture principles and produces cannabis with superior terpene profiles and flavor.
 
 ## What Is Living Soil?
 
@@ -35,14 +35,14 @@ Living soil is a complete ecosystem contained in a container or raised bed. It d
 
 ## The Soil Food Web
 
-The soil food web is the interconnected system of organisms that drives [[nutrient-cycling-in-soil]] living soil. Understanding these relationships is key to success.
+The soil food web is the interconnected system of organisms that drives nutrient cycling in living soil. Understanding these relationships is key to success.
 
 ### Bacteria
 
 The foundation of the soil food web. Beneficial bacteria:
 
 - Decompose organic matter into plant-available forms
-- Fix atmospheric nitrogen (through [[fungi-in-the-environment-symbiotic-relationships]])
+- Fix atmospheric nitrogen (through symbiotic relationships)
 - Produce growth-promoting substances (auxins, cytokinins)
 - Protect plant roots from pathogens through competitive exclusion
 - Cycle nutrients through their biomass (bacterial loop)
@@ -103,7 +103,7 @@ Common blend (per cubic yard): 2 cups bone meal, 2 cups rock phosphate, 2 cups k
 
 ### Mulch Layer
 
-1-2 inch mulch layer (straw, leaves, alfalfa, compost) conserves moisture, feeds the food web, suppresses weeds, and buffers temperatures. Living mulches like clover serve as a [[cover-cropping-guide]].
+1-2 inch mulch layer (straw, leaves, alfalfa, compost) conserves moisture, feeds the food web, suppresses weeds, and buffers temperatures. Living mulches like clover serve as a [[cover-cropping-guide|cover crop]].
 
 ## No-Till Principles
 
@@ -128,7 +128,7 @@ Organic inputs are decomposed by bacteria and fungi, consumed by protozoa and ne
 
 ### Stage Management
 
-- **Vegetative:** Bacterial dominance preferred ([[nitrogen-availability-in-legumes]]). Bacterial compost teas with molasses.
+- **Vegetative:** Bacterial dominance preferred (nitrogen availability). Bacterial compost teas with molasses.
 - **Flowering:** Fungal dominance important (slow P and K release). Fungal compost teas with kelp and fish hydrolysate, longer brew times (36-48 hours).
 
 ### Cover Cropping
@@ -137,14 +137,14 @@ Grow clover, alfalfa, buckwheat, or daikon radish between grows to protect soil 
 
 ## Advantages of Living Soil
 
-- Superior terpene profiles and flavor ([[cannabis-testing-and-quality]] confirm)
+- Superior terpene profiles and flavor ([[cannabis-testing-and-quality|testing labs]] confirm)
 - Self-regulating pH, no nutrient runoff
 - Soil improves over time — costs decrease with successive grows
-- More forgiving of over/underfeeding
-- Aligns with regenerative practices
 
-## Challenges
+## See Also
 
-- Higher initial setup cost than conventional media
-- Slower to correct deficiencies (biological processes take time)
-- Requires understanding of soil biology
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+- [[cannabis-and-endometriosis]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

@@ -83,13 +83,9 @@ in synergy to depolymerize cellulose fibrils, releasing glucose and
 cellobiose. The most prolific sources of cellulases are Trichoderma spp.
 When enzymes from wood-rotting basidiomycetes have been screened, their
 composition has closely resembled those of mycelium-running-bioremediation-mushroom-projects
-- [[staycare-brown-rot-fungi-in-bioremediation]]
 - [[staycare-fungal-agricultural-waste-conversion]]
 ## See Also
 
-- [[chitin-chitosan-fungal-cell-wall]]
 - [[decomposition]]
-- [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]]
 - [[staycare-azo-dye-degradation-mechanisms-ligninolytic-fungi]]
-- [[staycare-soft-rot-fungi-in-pollutant-degradation]]
 - [[petroleum-degradation-fungi]]

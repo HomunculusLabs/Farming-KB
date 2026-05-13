@@ -13,25 +13,7 @@ type: comparison
 
 Sheet mulching and chop-and-drop mulching are two widely used no-till
 soil-building techniques in permaculture and regenerative agriculture. Both
-suppress weeds, conserve moisture, build [[hamilton-composting-and-organic-matter-management]], and protect soil
-biology without disturbing the soil profile. They differ in approach, materials,
-timing, and ideal use cases.
-
-Sheet mulching (lasagna gardening) layers carbon-rich and nitrogen-rich
-materials over a weed-suppressing barrier such as cardboard, creating a new
-growing surface on top of existing ground. It is primarily used to establish
-new garden beds from lawn, compacted soil, or weedy ground.
-
-Chop-and-drop mulching (slash mulching) cuts living plants and leaves the cut
-material in place to decompose. It is an ongoing maintenance practice that
-cycles nutrients from dedicated mulch-producing plants, cover crops, or pruned
-perennials directly back into the garden.
-
-These techniques are complementary. Many gardeners use both: sheet mulching to establish beds, then chop-and-drop to maintain them.
-
-## Sheet Mulching
-
-Sheet mulching converts unproductive ground into fertile [[cotter-growing-space-design-fruiting-rooms]] by smothering existing vegetation under layered organic materials. The process involves mowing the target area short, soaking it, laying overlapping cardboard or newspaper as a weed barrier, adding a nitrogen-rich layer (compost, manure, grass clippings), and topping with a thick carbon layer (wood chips, straw, or leaves). A finish layer of finished compost provides an immediate planting surface.
+suppress weeds, conserve moisture, build [[cotter-growing-space-design-fruiting-rooms]] by smothering existing vegetation under layered organic materials. The process involves mowing the target area short, soaking it, laying overlapping cardboard or newspaper as a weed barrier, adding a nitrogen-rich layer (compost, manure, grass clippings), and topping with a thick carbon layer (wood chips, straw, or leaves). A finish layer of finished compost provides an immediate planting surface.
 
 The cardboard barrier blocks light from reaching existing vegetation, killing
 weeds and turf grass without herbicides or digging. It creates a moist, dark
@@ -55,10 +37,7 @@ germinate.
 Chop-and-drop mulching is a continuous soil-maintenance practice rooted in the
 natural cycle of plant growth and decomposition. Dedicated mulch-producing
 plants such as comfrey, cardoon, borage, and daikon radish are grown to be
-periodically cut and left in place. Cover crops like [[mushroom-compost]], annual
-ryegrass, and common vetch provide dense biomass on a seasonal basis.
-
-The technique excels at [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Deep-rooted accumulators like comfrey
+periodically cut and left in place. Cover crops like [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Deep-rooted accumulators like comfrey
 mine minerals from subsoil layers and deposit them on the surface as leaf
 litter. Leguminous plants fix atmospheric nitrogen released upon decomposition.
 The resulting mulch conserves water, moderates soil temperature, suppresses
@@ -112,38 +91,8 @@ plants, eliminating dependence on external inputs.
 Choose chop-and-drop when minimizing material transport is a priority. Because
 mulch is produced on site, there is no need to import cardboard, purchase
 compost, or haul materials. This makes it highly scalable for large properties
-and farm-scale operations where importing sheet [[mollison-mulch-materials-sources-and-tropical-application]] would be
-impractical or cost-prohibitive.
-
-The technique is particularly valuable in dry climates, where the
-moisture-conserving mulch layer can reduce irrigation needs by fifty percent or
-more. It also shines in mature perennial systems where comfrey, cardoon, and
-other mulch plants are already integrated into the planting design.
-
-## Hybrid Approaches
-
-The most resilient strategies combine both techniques. A common sequence is to
-sheet-mulch a new area to kill weeds and establish soil structure, then plant
-mulch-producing species like comfrey and daikon radish into the finished bed.
-As these plants establish, transition to chop-and-drop maintenance, reducing
-dependence on external inputs.
-
-Another hybrid uses chop-and-drop material as the carbon layer in sheet
-mulching. When establishing a new bed near an existing garden, cut comfrey,
-borage, or cover crop residue and use it as the carbon layer rather than
-importing wood chips or straw.
-
-Cover crops bridge both methods. Grow a dense stand of annual ryegrass and
-vetch, then either sheet-mulch over it with cardboard and compost, or chop the
-cover crop at maturity and leave it as mulch before direct-planting.
-
-## See Also
-
-- [[comparison-chop-and-drop-vs-cover-crops]]
-- [[comparison-sheet-mulching-vs-chop-and-drop-mulching]]
+and farm-scale operations where importing sheet [[comparison-chop-and-drop-vs-cover-crops]]
 - [[comparison-sheet-mulching-vs-double-digging]]
 
-- [[sheet-mulching]] — detailed guide to lasagna gardening techniques
 - [[ozier-pdc-composting-and-soil-building]] — broader no-till philosophy and practices
-- [[permaculture-design]] — woody mulch materials and methods
 - [[composting-methods-comparison]] — comparing composting approaches

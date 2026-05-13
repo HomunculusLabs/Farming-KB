@@ -9,35 +9,8 @@ created: 2026-05-07
 type: concept
 ---
 
-Dr. Cho Han Kyu's [[comparison-natural-farming-vs-permaculture]] system provides specific
-treatment protocols for each stage of plant growth. These
-protocols are derived from the Nutritive Cycle Theory and are
-designed to supply precisely the nutrients that plants need at
-each developmental phase. The treatments address the specific
-needs of plants at the vegetative, cross-over, and reproductive
-stages, with additional specialized treatments for fruit
-ripening and crack prevention.
-
-All treatment inputs are diluted at a ratio of 1:1000 ml of
-water as a base. Farmers can adjust combinations based on the
-specific conditions observed in their crops. This flexibility
-within a structured framework is characteristic of Cho's
-approach: the system provides clear guidelines while
-encouraging farmer observation and judgment.
-
-## Vegetative Growth Stage Treatment
-
-The vegetative growth treatment promotes vigorous leaf, stem,
-and root development while increasing the overall volume and
-size of crops. During this phase, plants are building the
-structural foundation that will support later reproductive
-effort. The treatment prioritizes inputs that supply nitrogen
-and growth enzymes.
-
-FPJ ([[bionutrients-lab-fermented-plant-juice-fpj]]) is the primary input during the
-[[comparison-cannabis-vegetative-stage-vs-flowering-stage]], providing readily available amino acids,
-growth hormones, and enzymes from fermented plant material.
-LAB (Lactic Acid Bacteria) supports [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in the
+Dr. Cho Han Kyu's [[bionutrients-lab-fermented-plant-juice-fpj]]) is the primary input during the
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in the
 soil rhizosphere and helps suppress pathogenic organisms that
 might attack young, rapidly growing tissue.
 
@@ -81,13 +54,7 @@ to ensure full fruit development.
 
 Water-Soluble Calcium (WsCa) is the primary input, providing
 calcium needed for cell wall integrity in developing fruit.
-[[knf-calcium-deficiency-symptoms]] during reproductive growth leads to blossom
-end rot, poor fruit texture, and reduced shelf life. The calcium
-input is combined with Ws-K (Water-Soluble Potassium) for color
-development and sugar accumulation in maturing fruit.
-
-FPJ continues to be used during this stage, though at reduced
-proportions compared to the [[green-cannabis-grow-bible-vegetative-phase-management]]. The fermented
+[[green-cannabis-grow-bible-vegetative-phase-management]]. The fermented
 
 ## Practical Applications
 
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cho-han-kyu]]
 - [[bionutrients]]
-- [[permaculture]]
 - [[nutritive-cycle-theory]]
 - [[lactic-acid-bacteria]]

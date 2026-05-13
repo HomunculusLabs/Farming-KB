@@ -24,19 +24,6 @@ working area of 43 × 30 × 20 cm. The tunnel provided precise control over
 wind velocity (9 ± 3 cm/sec), humidity (94 ± 3% RH), temperature
 (24.5 ± 1.5°C), and light (cool white fluorescent, 12-hour photoperiod).
 Approximately 100 developing basidiocarps were studied under these
-[[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].
-
-Mushroom primordia were grown on autoclaved brown rice in petri plates,
-then transferred to pie tins with vermiculite and water. When primordia
-reached 15-25 mm in height, they were placed in the wind tunnel for 72
-hours of observation. Both fertile (spore-producing) and sterile (sporeless
-mutant) basidiocarps were tested.
-
-The experimental design allowed isolation of individual variables. By
-testing in both light and darkness, and with light from above and below,
-Badham could determine whether anemotropism was independent of
-phototropic responses. The sterile mutant strain allowed testing whether
-the response depended on spore production or was a general feature of
 [[four-stage-basidiocarp-development-psilocybe-cubensis]].
 
 ## Wind-Directed Stipe Growth
@@ -113,8 +100,7 @@ The response may also help mushrooms emerge from dense vegetation or
 substrate by orienting growth toward areas of greater air movement, which
 typically correspond to more open spaces where spore dispersal is more
 effective. Understanding anemotropism has practical implications for
-cultivation, where air circulation patterns in [[fruiting-chambers-and-environmental-control]] can
-influence [[pf-tek-mushroom-morphology-and-lifecycle-stages]] yield.
+cultivation, where air circulation patterns in [[pf-tek-mushroom-morphology-and-lifecycle-stages]] yield.
 
 ## Two-Phase Growth Model
 
@@ -125,13 +111,5 @@ demand. The cells of the stipe may respond individually to this stimulus,
 producing the observed curvature through differential elongation rates.
 
 The second phase begins at spore production (Stage 3) when a negative
-[[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] becomes dominant. This transition is mediated by a
-substance produced in the gills (lamellae) that modifies the first
-tropism, causing the mushroom to respond primarily to gravity instead
-of wind. This two-phase model explains why mature mushrooms orient their
-caps upward regardless of wind direction.
-
-## See Also
-- [[cap-stem-alkaloid-distribution-psilocybe-cubensis-bigwood-beug]]
-- [[sam-stein-psilocybe-cubensis-bad-trip-1961]]
+[[cap-stem-alkaloid-distribution-psilocybe-cubensis-bigwood-beug]]
 - [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]]

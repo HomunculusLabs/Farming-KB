@@ -65,26 +65,10 @@ Native bees need nectar and pollen from early spring through late fall. Aim for 
 - Wild geranium (*Geranium maculatum*)
 - Virginia bluebells (*Mertensia virginica*)
 - Serviceberry (*Amelanchier* spp.)
-- Bloodroot (*[[sanguinaria-canadensis]]*)
-- Spring beauty (*Claytonia virginica*)
-- Creeping phlox (*Phlox subulata*)
-
-### Summer (June–August)
-- Purple coneflower (*[[echinacea-purpurea]]*)
+- Bloodroot (*[[echinacea-purpurea]]*)
 - Black-eyed Susan (*Rudbeckia hirta*)
-- Wild bergamot (*[[monarda-fistulosa]]*)
-- Bee balm (*Monarda* spp.)
-- Joe-Pye weed (*Eutrochium purpureum*)
-- Anise hyssop (*[[agastache-foeniculum]]*)
-- Common milkweed (*[[asclepias-syriaca]]*)
-- Giant sunflower (*Helianthus giganteus*)
-
-### Fall (September–November)
-- New England aster (*Symphyotrichum novae-angliae*)
-- Goldenrod (*Solidago* spp.) — critically important late-season resource
-- Smooth aster (*Symphyotrichum laeve*)
-- Ironweed (*Vernonia noveboracensis*)
-- Maximilian sunflower (*[[helianthus-maximiliani]]*)
+- Wild bergamot (*[[agastache-foeniculum]]*)
+- Common milkweed (*[[helianthus-maximiliani]]*)
 - Asters of many species
 
 **Planting principles:**
@@ -140,6 +124,5 @@ Native bees need nectar and pollen from early spring through late fall. Aim for 
 - [ ] Share knowledge with neighbors to create connected pollinator corridors
 
 ## See Also
-- [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]]
 - [[query-how-to-attract-native-bees-and-beneficial-insects]]
 - [[comparison-native-bee-pollinators-vs-honeybees]]

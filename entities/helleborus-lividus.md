@@ -108,13 +108,8 @@ Flowers are pollinated by early-emerging bees and hoverflies on Mallorca. The ne
 
 ## See Also
 
-- [[helleborus-foetidus]]
 - [[helleborus-niger]]
-- [[helleborus-orientalis]]
 - [[helleborus-argutifolius]]
-- [[helleborus-viridis]]
 - [[aconitum-napellus]]
-- [[nigella-sativa]]
 - [[ranunculus-acris]]
-- [[anemone-nemorosa]]
 - [[clematis-vitalba]]

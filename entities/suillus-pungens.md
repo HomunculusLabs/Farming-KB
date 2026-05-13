@@ -30,8 +30,7 @@ sources:
 
 **Suillus pungens** is an ectomycorrhizal bolete fungus in the family Suillaceae,
 notable for its strong, pungent odor and exclusive association with Monterey pine
-(*[[pinus-radiata]]*). Originally described by Harry Thiers from coastal California,
-it is among the most distinctive Suillus species in western [[guzman-psilocybin-mushrooms-north-america]] due to
+(*[[guzman-psilocybin-mushrooms-north-america]] due to
 its acrid, almost chemical fragrance that can be detected from several meters away.
 
 The species was first collected and documented in the Monterey Peninsula region,
@@ -67,13 +66,7 @@ Basidiomycota → Agaricomycetes → Boletales → **Suillaceae → *Suillus →
 - **Odor:** Very strong, pungent, and distinctive — often described as
   acrid, fruity, or chemical-like. This is the most reliable field character.
 - **Taste:** Mild to slightly acidic.
-- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-brown to cinnamon-brown.
-- **Spores:** Smooth, ellipsoid to fusiform, 7–10 × 3–4 µm.
-
-## Distribution and Habitat
-
-- **Geographic range:** Endemic to coastal California, with documented
-  populations from the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area south to San Luis Obispo County.
+- **[[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area south to San Luis Obispo County.
 - **Habitat:** Exclusively ectomycorrhizal with Monterey pine (*Pinus radiata*).
   Found in coastal pine forests, often in sandy or loamy soils.
 - **Season:** Late autumn through early winter (November–February), appearing
@@ -83,7 +76,6 @@ Basidiomycota → Agaricomycetes → Boletales → **Suillaceae → *Suillus →
 
 ## Ecological Role
 
-S. pungens forms obligate [[ectomycorrhizal-associations]] with Monterey pine,
-facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the [[fungal-mycelium-hyphae-and-the-feeding-phase]] and host root
+S. pungens forms obligate [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the [[fungal-mycelium-hyphae-and-the-feeding-phase]] and host root
 system. The fungus aids in phosphorus and nitrogen uptake for the tree while
 receiving photosynthetically derived carbon compounds.

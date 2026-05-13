@@ -1,39 +1,13 @@
 # Flat Beds, Ridge Beds, and Spawn Transfer Methods
 ## Duggar (1915) — Bed Systems and Spawn Propagation Techniques
 
-B.M. Duggar's 1915 manual details two fundamental bed systems [[grass-seed-substrate-for-mushroom-cultivation]] — the
-flat bed (English type) and the ridge bed (French type) — along with critical guidance on
-spawn transfer and the dangers of strain deterioration through improper propagation. These
-practical considerations determined the productivity and sustainability of every mushroom
-enterprise.
-
-## The Flat Bed System (English Type)
-
-The flat bed is more generally employed in the [[dmt-containing-plants-united-states-halpern]] and requires less labor in
+B.M. Duggar's 1915 manual details two fundamental bed systems [[dmt-containing-plants-united-states-halpern]] and requires less labor in
 construction. It can be used in ordinary cellars or mushroom houses where beds are made on
 the floor only, or in houses with deep cellars where shelves are arranged in tiers.
 
 ### Shelf-Bed Tier System
 
-The shelf-bed system permits multiplication of available [[cotter-growing-space-design-fruiting-rooms]] four to five times
-compared to single-tier arrangements. This multiplication comes at some sacrifice of
-convenience, but is frequently the only practicable plan for operating on a paying basis,
-since a single tier would require perhaps twice the investment in plant construction for
-the same bed space.
-
-### Bed Dimensions
-
-- Wall beds should seldom be more than 3 feet across
-- Beds approachable from either side may be 6 feet across
-- Aisles should be at least 3 feet wide, with wider aisles in very large houses
-- Flat beds should be 8-10 inches deep after suitable compression
-- The bed should be firm enough to support a person without sinking more than 1-2 inches
-
-### Sided vs. Open Beds
-
-Duggar expressed a clear preference for sided flat beds, stating that this type encourages
-the formation of heavier mushrooms when other conditions are equal. The boards retain
-moisture and provide a more stable [[cannabis-growing-environment-setup]]. The same principle of gentle slope
+The shelf-bed system permits multiplication of available [[cannabis-growing-environment-setup]]. The same principle of gentle slope
 applies to unsided beds, though sided beds eliminate the risk of clusters pulling away from
 their attachment to the spawn below.
 
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[dmt]]
 - [[mushroom-spawn-history-and-methods-duggar]]
 - [[comparison-grain-spawn-vs-grain-to-grain-transfer]]

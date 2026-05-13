@@ -12,8 +12,6 @@ type: concept
 
 ## Overview
 
-[[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus spp.) are recognized as nutritionally dense foods
-offering significant protein content, essential vitamins and minerals, and
 [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with medicinal properties. Their nutritional profile makes
 them particularly valuable in developing countries where protein malnutrition
 is prevalent and access to animal protein sources may be limited. As Quimio
@@ -36,14 +34,7 @@ Oyster mushrooms provide a balanced nutritional profile per fresh weight:
 
 - **Protein**: 2.9% fresh (26-35% dry weight), comparable to corn, milk, and
   legumes, though lower than meat, fish, and eggs. The protein content is
-  superior to most fruits and vegetables except [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]].
-- **Carbohydrates**: 5.66% fresh weight, primarily as complex polysaccharides
-  including dietary fiber and beta-glucans rather than simple sugars
-- **Fat**: 1.79% fresh weight, with a favorable fatty acid profile that
-  contributes to the low-calorie nature of mushroom-based foods
-
-The overall C/N ratio requirements for [[mushroom-nutritional-composition]]
-- [[oyster-mushroom-storage-processing]]
+  superior to most fruits and vegetables except [[mushroom-nutritional-composition]]
 - [[oyster-mushroom-coffee-grounds-cultivation]]
 ## Practical Considerations
 

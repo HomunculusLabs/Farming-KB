@@ -13,10 +13,10 @@ sources: []
 
 Elderberry is a fast-growing, deciduous shrub or small tree prized for both
 its medicinal berries and ornamental value. Native to Europe (Sambucus nigra,
-black elderberry) and [[guzman-psilocybin-mushrooms-north-america]] ([[sambucus-canadensis]], American elderberry),
+black elderberry) and North America (Sambucus canadensis, American elderberry),
 elderberries have been used for centuries in traditional medicine for immune
 support, particularly during cold and flu season. Elderberry syrup is one of
-the most popular and well-studied [[honey-based-herbal-preparations]] in modern use.
+the most popular and well-studied herbal preparations in modern use.
 
 ## Species Selection
 
@@ -49,7 +49,7 @@ active compounds demonstrate antiviral activity, particularly against
 influenza, by inhibiting viral replication and stimulating immune response.
 
 Key applications:
-- Cold and flu: Multiple [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] show elderberry syrup reduces
+- Cold and flu: Multiple clinical trials show elderberry syrup reduces
   duration and severity of influenza by 2-4 days. Most effective within
   48 hours of symptom onset.
 - Immune support: Regular use during cold and flu season may prevent illness.
@@ -107,7 +107,7 @@ irrigation.
 Consistent moisture is important for good fruit production, especially during
 flowering and fruit development. Provide 1-2 inches of water per week during
 dry periods. Drip irrigation is ideal. Once well-established (after 2-3
-years), plants are moderately [[drought-tolerant-planting-design]] but produce best with regular
+years), plants are moderately drought tolerant but produce best with regular
 water.
 
 ### Fertilization
@@ -140,11 +140,11 @@ Berries:
 - Harvest when berry clusters are fully dark purple-black, usually August to
   September depending on variety and location
 - Test a few berries for sweetness; ripe berries detach easily from the stem
-- Cut entire clusters with pruning shears
-- Harvest in dry weather; wet berries are more prone to mold
-- Process or freeze within 24 hours of harvest
 
-Elderflowers:
-- Harvest in early to mid-summer when flower umbels are fully open
-- Pick on a dry morning after dew has dried
-- Use fresh for cordials, fritters, and tea, or dry for later use
+## See Also
+
+- [[comparison-elderberry-vs-gooseberry-vs-currant]]
+- [[comparison-serviceberry-vs-elderberry-vs-aronia]]
+- [[comparison-elderberry-vs-echinacea]]
+- [[elderberry-cultivation-and-variety-guide]]
+- [[hamilton-greenhouse-polytunnel-growing]]

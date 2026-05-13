@@ -1,16 +1,6 @@
 # European Hallucinogenic Mushroom Prevalence and Demographic Patterns
 
-The prevalence of [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] across Europe has been extensively documented through national surveys, school-based studies (ESPAD), and targeted research in recreational drug settings. Data from the EMCDDA and national drug agencies reveals significant geographical variation in use patterns, with prevalence rates closely correlated with legal status, [[weil-cultural-attitudes-toward-altered-states]] drug use, and access through [[smartshop-and-online-mushroom-markets]] retail channels.
-
-## Overall Prevalence Levels
-
-### Comparison with Other Drugs
-Overall prevalence estimates for hallucinogenic mushroom use in [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] are considerably lower than those for cannabis, the most widely used illicit drug. However, lifetime prevalence estimates for mushroom use appear to equal those for ecstasy among young people in some countries, making [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] one of the more commonly used illicit substances after cannabis, ecstasy, and amphetamines.
-
-This positioning in the drug use hierarchy is significant because it suggests that mushrooms occupy a middle ground — more common than substances like heroin or cocaine, but less ubiquitous than cannabis. The relatively high prevalence compared to other "harder" drugs likely reflects the perception of mushrooms as a "natural" product with lower risk, as well as their historical legal status in several EU countries during the late 1990s and early 2000s.
-
-### General Population Prevalence
-Among the general adult population, lifetime prevalence of hallucinogenic mushroom use varies widely across EU Member States. Countries with the highest general population prevalence tend to be those with either a history of legal retail sales (the Netherlands), large recreational drug scenes (the UK, Germany), or indigenous mushroom populations with cultural traditions of foraging (the Czech Republic, where species like [[psilocybe-bohemica]] grow naturally).
+The prevalence of [[weil-cultural-attitudes-toward-altered-states]] drug use, and access through [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] are considerably lower than those for cannabis, the most widely used illicit drug. However, lifetime prevalence estimates for mushroom use appear to equal those for ecstasy among young people in some countries, making [[psilocybe-bohemica]] grow naturally).
 
 ### Young Adult Prevalence (15-24 years)
 The highest prevalence estimates among young adults aged 15 to 24 years are found in the Czech Republic, Germany, Ireland, the Netherlands, and the United Kingdom. These countries share several characteristics that may explain their elevated rates:
@@ -63,31 +53,7 @@ Mushrooms are typically consumed either by chewing raw or dried fruiting bodies,
 ## Contributing Factors to Prevalence Patterns
 
 ### Consumer Megatrends
-According to consumer market analysts (Datamonitor, 2004), a societal megatrend exists toward seeking more intense experiences and greater willingness to experiment with novel products. This trend may drive increasing interest among young people in experimenting with hallucinogenic substances for recreational purposes. The parallel trend toward natural and organic products may have enhanced the appeal [[health-risks-of-hallucinogenic-mushrooms]] over synthetic alternatives like LSD or MDMA.
-
-### Internet and Information Access
-The rapid expansion of internet access in the 2000s facilitated the diffusion of mushroom use across Europe. Pro-mushroom websites and forums provided information about identification, preparation, dosage, and effects, lowering barriers to experimentation. The internet also enabled online retailers to develop international markets, shipping mushrooms (or spore kits for home cultivation) across national borders.
-
-### Legal Status as a Predictor
-Legal status is one of the strongest predictors of prevalence across European countries. Countries where fresh mushrooms were legally available (Netherlands until 2007, or where legal ambiguities existed) consistently showed higher prevalence rates than countries with strict prohibitions. The EMCDDA noted that since 2001, six EU Member States tightened their legislation on hallucinogenic mushrooms, and new legislation appeared to have had an immediate impact on both availability and prevalence.
-
-## Risk and Harm Profile
-
-### Reported Harms
-The EMCDDA concluded that relatively low levels of reported harm, together with indications that patterns of frequent or intensive use are rare, probably account for the lack of developments in specialized prevention. The most commonly reported negative effects include:
-- Nausea and gastrointestinal distress (very common during onset)
-- Panic attacks and anxiety ("bad trips")
-- Confusion and disorientation
-- Accidental injury (particularly from falls or risky behavior during intoxication)
-- Rare but serious incidents including self-harm and death (typically involving pre-existing mental health conditions or dangerous environments)
-
-### Fatalities and Serious Incidents
-Serious adverse events involving hallucinogenic mushrooms are rare but receive disproportionate media attention when they occur. The EMCDDA case study documented several high-profile incidents that influenced public policy, including a death in Ireland that directly prompted legislative change. Fatal poisonings have also occurred from misidentification of toxic mushroom species, particularly when users forage for hallucinogenic species in the wild and confuse them with poisonous lookalikes.
-
-## Geographic Distribution of Indigenous Hallucinogenic Species
-
-### Natural Availability Across Europe
-The geographic distribution of naturally occurring [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]] significantly influences prevalence patterns across Europe. Several Psilocybe species are native to European ecosystems:
+According to consumer market analysts (Datamonitor, 2004), a societal megatrend exists toward seeking more intense experiences and greater willingness to experiment with novel products. This trend may drive increasing interest among young people in experimenting with hallucinogenic substances for recreational purposes. The parallel trend toward natural and organic products may have enhanced the appeal [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]] significantly influences prevalence patterns across Europe. Several Psilocybe species are native to European ecosystems:
 
 ## Practical Applications
 
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hallucinogenic-mushroom-european-prevalence-polydrug-clustering-barriers-emcdda-2006]]
 - [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]]
-- [[mdma]]
 - [[doc]]
 - [[dom]]

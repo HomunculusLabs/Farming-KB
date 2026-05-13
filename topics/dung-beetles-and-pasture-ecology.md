@@ -41,7 +41,7 @@ Over 7,000 species of dung beetles are described worldwide. They occur on every 
 
 Dung beetles are fundamental to nutrient cycling in grazed ecosystems:
 
-- **Nitrogen mobilization**: By fragmenting and burying dung, beetles accelerate microbial decomposition, releasing plant-available nitrogen that would otherwise volatilize as ammonia or leach away.
+- **Nitrogen mobilization**: By fragmenting and burying dung, beetles accelerate microbial [[decomposition]], releasing plant-available nitrogen that would otherwise volatilize as ammonia or leach away.
 - **Phosphorus redistribution**: Dung burial moves phosphorus from surface concentrations into the root zone where plants can access it.
 - **Organic matter incorporation**: Tunnelling beetles mix dung with mineral soil, creating organo-mineral complexes that improve soil structure and humus formation.
 - **Reduced nutrient loss**: Studies show dung beetle activity can reduce nitrogen losses by 15–30% and phosphorus runoff by up to 40% compared to uncolonized pats.
@@ -142,9 +142,6 @@ The single greatest threat to dung beetles is veterinary pharmaceuticals:
 
 ## See Also
 
-- [[silvopasture-systems-design-and-management]]
 - [[the-soil-food-web]]
-- [[soil-structure-and-aggregate-ecology]]
 - [[integrated-pest-management-ipm]]
-- [[regenerative-agriculture-overview]]
 - [[keystone-species-and-trophic-cascades]]

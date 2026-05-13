@@ -98,20 +98,6 @@ The single most important advancement in modern mushroom cultivation was the dev
 - **Medicinal mushroom industry:** Rapidly expanding global market for functional mushroom products
 - **Sustainability focus:** Interest in using spent mushroom substrate for soil amendment, bioremediation, and animal feed
 - **Genetic improvement:** Strain selection and breeding programs for improved yield, disease resistance, and nutritional content
-## Practical Cultivation Notes
-
-Successful cultivation depends on maintaining appropriate environmental conditions throughout the colonization and fruiting phases. Temperature, humidity, and fresh air exchange must be carefully managed to promote healthy mycelial growth and prevent contamination. Substrate selection and preparation are critical factors that directly influence yield and biological efficiency.
-
-## Safety Considerations
-
-Proper identification is essential when foraging wild specimens, as many species have toxic lookalikes. Cultivated varieties offer greater consistency and safety compared to wild-harvested material. Always follow established protocols for handling and processing, particularly when working with species that produce bioactive compounds.
-
-## See Also
-- [[abort-management-pinhead-removal-mushroom-casing-cultivation]]
-- [[accessible-mushroom-cultivation-for-disabilities]]
-- [[acid-house-rave-culture-and-second-mushroom-boom]]
-- [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]
-- [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
 
 ## See Also
 

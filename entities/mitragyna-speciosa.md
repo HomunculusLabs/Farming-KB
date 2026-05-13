@@ -15,15 +15,14 @@ updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/?term=mitragyna+speciosa+kratom
   - https://www.drugabuse.gov/drugs-abuse/kratom
-  - Prozialeck, W.C. et al. (2012). "Kratom: A case of misleading product categorization." J [[ergosterol-fungal-drug-target]].
-  - Hassan, Z. et al. (2013). "[[kratom-mitragyna-speciosa-pharmacology]]: A review of its pharmacology." J Pharm Pharmacol.
+  - Prozialeck, W.C. et al. (2012). "Kratom: A case of misleading product categorization." J kratom-mitragyna-speciosa-pharmacology: A review of its pharmacology." J Pharm Pharmacol.
 ---
 
 # Mitragyna speciosa
 
-**Kratom** | **Ketum** | **Thom** | **Ithang** | **Kakuam** | **Biak**
+**[[kratom]]** | **Ketum** | **Thom** | **Ithang** | **Kakuam** | **Biak**
 
-*Mitragyna speciosa* is a tropical evergreen tree in the coffee family (Rubiaceae), native to [[psilocybe-southeast-asia-pacific]]. Its leaves contain a complex mixture of indole alkaloids — most notably mitragynine and 7-hydroxymitragynine — that produce stimulant effects at low doses and opioid-like analgesic and sedative effects at higher doses. Kratom has been used traditionally for centuries in Thailand, Malaysia, and Indonesia as a labor tonic, pain reliever, and [[savory-fire-as-management-tool]] for opioid withdrawal.
+*Mitragyna speciosa* is a tropical evergreen tree in the coffee family (Rubiaceae), native to [[savory-fire-as-management-tool]] for opioid withdrawal.
 
 ## Taxonomy
 
@@ -58,17 +57,7 @@ Native to: Thailand, Malaysia, Indonesia (Sumatra, Borneo, Kalimantan), Myanmar,
 
 ## Chemical Constituents
 
-Over 40 alkaloids have been identified in *M. speciosa* leaves. The major [[cordyceps-cancer-bioactive-compounds]]:
-
-### Primary Alkaloids
-- **Mitragynine:** C₂₃H₃₀N₂O₄, MW 398.5; 66–70% of total alkaloid content. Partial agonist at μ-opioid receptors and competitive antagonist at δ- and κ-opioid receptors. Also acts on adrenergic, serotonergic, and dopaminergic systems.
-- **7-Hydroxymitragynine:** Minor constituent (~2% of total) but 30–46× more potent than mitragynine at μ-opioid receptors. Primary contributor to analgesic effects.
-- **Speciociliatine:** ~8% of total alkaloids; weak opioid activity
-- **Speciogynine:** ~6% of total; smooth muscle relaxant properties
-- **Paynantheine:** ~9% of total; limited pharmacological data
-
-### Minor Alkaloids
-Mitraphylline, rhynchophylline, ajmalicine (raubasine), corynantheidine, isomitraphylline, isorhynchophylline, and various indole derivatives. Many of these are shared with the related medicinal plant *[[uncaria-tomentosa]]* (cat's claw).
+Over 40 alkaloids have been identified in *M. speciosa* leaves. The major [[uncaria-tomentosa]]* (cat's claw).
 
 ## Pharmacology
 
@@ -88,3 +77,73 @@ Mitraphylline, rhynchophylline, ajmalicine (raubasine), corynantheidine, isomitr
 - **Onset:** 5–15 minutes (toss-and-wash powder); 30–45 minutes (capsules)
 - **Peak effects:** 1–2 hours
 - **Duration:** 4–8 hours depending on dose, strain, and individual metabolism
+
+## Overview
+
+Mitragyna Speciosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mitragyna speciosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mitragyna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mitragyna Speciosa finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mitragyna speciosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mitragyna speciosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mitragyna Speciosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mitragyna speciosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

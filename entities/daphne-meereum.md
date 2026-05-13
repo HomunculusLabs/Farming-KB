@@ -12,41 +12,14 @@ updated: 2026-05-09
 sources:
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists and Biologists." 2nd ed., Timber Press.
   - Tomlinson, R.H. & Mabry, T.J. (1970). "Daphnane orthoesters: toxic principles of Daphne species." Tetrahedron Letters, 11(33), 2869–2872.
-  - Csurka, Š. et al. (2011). "[[daphne-mezereum]] — a review of traditional use, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 137(1), 785–793.
-  - Bean, W.J. (1980). "[[nitrogen-fixing-trees-and-shrubs]] Hardy in the British Isles." 8th ed., Vol. II, John Murray.
+  - Csurka, Š. et al. (2011). "nitrogen-fixing-trees-and-shrubs Hardy in the British Isles." 8th ed., Vol. II, John Murray.
 ---
 
 ## Overview
 
 **Daphne mezereum**, commonly known as **mezereon** or **February daphne**, is a deciduous shrub in the family Thymelaeaceae, native to Europe and western Asia.
 
-It is renowned for its intensely fragrant, lilac-pink flowers that appear in late winter to [[coleman-overwintered-onions-and-early-spring-crops]], often before the leaves emerge.
-
-All parts of the plant, especially the berries, are highly toxic due to daphnane-type diterpene esters.
-
-Despite its toxicity, the species has a long history of medicinal use in European folk medicine and remains popular as an ornamental garden shrub.
-
-## Taxonomy and Morphology
-
-*Daphne mezereum* was described by Carl Linnaeus in 1753 and is the type species of the genus *Daphne*.
-
-The genus name derives from the nymph Daphne of Greek mythology, who was transformed into a laurel-like tree.
-
-The species is an erect, deciduous shrub typically reaching 0.5–1.5 meters in height, with a spreading, bushy habit.
-
-Stems are slender, grayish-brown, and glabrous, producing alternate, lanceolate leaves 3–8 cm long and 1–2 cm wide.
-
-Leaves are bright green above and paler beneath, arranged in dense clusters along the terminal portions of current-year shoots.
-
-Flowers are borne in clusters of 2–5 on the bare stems from February to April, before or with the emerging leaves.
-
-Each flower is tubular, 8–12 mm long, with four spreading lobes and a diameter of approximately 1 cm at the mouth.
-
-The flower color is typically lilac-pink to rose-purple, though white-flowered forms occur naturally and are widely cultivated.
-
-Fruits are glossy, ovoid drupes 6–8 mm in diameter, ripening from green to bright scarlet red in midsummer.
-
-Each berry contains a [[cervantes-selfing-single-seed-descent]]. The bright color and sweetish taste make the berries attractive and dangerous to children.
+It is renowned for its intensely fragrant, lilac-pink flowers that appear in late winter to [[cervantes-selfing-single-seed-descent]]. The bright color and sweetish taste make the berries attractive and dangerous to children.
 
 ## Distribution and Habitat
 
@@ -87,3 +60,84 @@ The primary toxic principles of *D. mezereum* are daphnane-type diterpene esters
 These compounds are concentrated in the bark, roots, and especially the berries, with toxin levels highest during fruiting.
 
 Ingestion of as few as 5–10 berries can cause severe poisoning in children, while 15–20 berries may be fatal to adults.
+
+## Overview
+
+Daphne Meereum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish daphne meereum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving daphne extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Daphne Meereum finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for daphne meereum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+daphne meereum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Daphne Meereum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of daphne meereum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[daphne-mezereum]]

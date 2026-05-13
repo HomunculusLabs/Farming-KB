@@ -1,6 +1,6 @@
 ---
 title: Blesching Cannabis Healing Practices Setting Intention Affirmations
-source: The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching, 2015)
+source: The blesching-cannabis-health-index-autoimmune-conditions (Blesching, 2015)
 source_path: /Users/t3rpz/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
 tags: [cannabis, mind-body-medicine, healing-practices, intention-setting, affirmations, mindfulness, endocannabinoid-system, blesching]
 ---
@@ -9,8 +9,7 @@ tags: [cannabis, mind-body-medicine, healing-practices, intention-setting, affir
 
 ## Overview
 
-The Cannabis Health Index (CHI) framework, developed by [[uwe-blesching]] PhD,
-integrates evidence-based [[greg-green-thc-and-cannabinoid-science]] with structured mind-body
+The Cannabis Health Index (CHI) framework, developed by [[greg-green-thc-and-cannabinoid-science]] with structured mind-body
 healing practices. Beyond pharmacological effects, the CHI prescribes a
 deliberate protocol for engaging with cannabis as a tool for deep
 psychological and emotional exploration. This protocol consists of three
@@ -34,7 +33,7 @@ outcomes. Blesching recommends:
 
 External stimuli compete with internal awareness. By removing distractions,
 the patient creates conditions for the endocannabinoid system to support
-[[deep-relaxation-and-mind-body-healing]] [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] without interference.
+[[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] without interference.
 
 ## The Intention
 
@@ -118,8 +117,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[mindful-healing-protocol-setting-intention-cannabis-therapy-blesching]]
-- [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]]
 - [[doc]]
 - [[endocannabinoid-system]]

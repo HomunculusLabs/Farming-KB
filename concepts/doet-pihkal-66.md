@@ -19,34 +19,13 @@ DOET is described by Shulgin as "one of the Classic Ladies, namely HECATE." At m
 
 - **Chemical name:** 2,5-Dimethoxy-4-ethylamphetamine
 - **Alternate name:** HECATE
-- **[[2c-b-pihkal-entry-20]]:** #66
-- **Family:** DOx (2,5-dimethoxy-4-substituted amphetamines)
 - **[[ayahuasca-tourism-legal-status-by-country]]:** Controlled Substance Analogue (US, under 1986 Act) / Status varies by jurisdiction
 
 The original code DOE was abandoned because DOE was already a classic abbreviation for desoxyephedrine (methamphetamine). The ethyl suffix was added to become DOET, analogous to DOAM for the amyl homologue. DOM was already too firmly established in popular usage to rename to DOME.
 
 ## Synthesis (Summary)
 
-DOET synthesis begins with 2,5-dimethoxy-4-ethylbenzaldehyde (prepared as described under the 2C-E entry). This aldehyde undergoes a nitropropene condensation with nitroethane and ammonium acetate in glacial acetic acid, heated on a [[scythian-cannabis-steam-bath-ritual]] for 1.75 hours. The resulting 1-(2,5-dimethoxy-4-ethylphenyl)-2-nitropropene forms fine yellow crystals (mp 67.5-68.5 degrees C).
-
-Reduction is achieved using lithium aluminum hydride (LAH) in anhydrous ether under inert atmosphere via Soxhlet extraction over 18 hours. After careful destruction of excess hydride with 8% sulfuric acid, the aqueous phase is treated with potassium sodium tartrate, basified with NaOH, and extracted with dichloromethane. The hydrochloride salt crystallizes as lustrous white crystals (mp 194-195 degrees C after recrystallization from acetonitrile or ethyl acetate).
-
-## Dosage and Duration
-
-| Parameter | Range |
-|-----------|-------|
-| **Threshold** | ~1.0 mg |
-| **Light dose** | 1.0 - 2.5 mg |
-| **Common dose** | 2.5 - 6.0 mg |
-| **Strong dose** | 6.0 - 7.0 mg |
-| **Duration** | 14 - 20 hours |
-| **Onset** | 1 - 3 hours (slow and subtle) |
-
-Note: Considerable individual variation in response has been observed. The effective dose range is quite broad, and some people are notably more sensitive than others.
-
-## Qualitative Commentary (from PIHKAL)
-
-**1.0 mg:** Very gentle and relaxing with no apparent psychedelic effects. One subject experienced complete relief from menstrual cramps and accompanying irritability, feeling relaxed and at peace. This cramp-relieving effect was replicated in a subsequent trial but did not work for another volunteer, suggesting a 50% [[maitake-fruiting-body-success-rate-management]].
+DOET synthesis begins with 2,5-dimethoxy-4-ethylbenzaldehyde (prepared as described under the 2C-E entry). This aldehyde undergoes a nitropropene condensation with nitroethane and ammonium acetate in glacial acetic acid, heated on a [[maitake-fruiting-body-success-rate-management]].
 
 **2.5 mg:** Significant visual movement with both eyes open and closed, to the point of causing near sea-sickness from movement on a concrete floor. Difficulty finding a centering reference point in reality. Twitching legs, crawling body sensations, and general physical discomfort. Still at ++ the following morning but clearly repairing. One subject described this as "definitely not my thing."
 
@@ -61,20 +40,8 @@ Note: Considerable individual variation in response has been observed. The effec
 ### Dose-Dependent Character
 DOET displays an unusual dose-dependent character shift:
 - **Low doses (1-4 mg):** Gentle mood enhancement, cognitive energizing, potential cramp relief. Minimal psychedelic effects.
-- **Moderate doses (4-6 mg):** Serene, clean, beautiful [[leary-psychedelic-experience-bardo-mapping]] with rich eyes-closed imagery but minimal visual distortion with eyes open.
-- **Higher doses (6-7 mg):** Deeply erotic-to-divine experience with form-image-symbol imagery. Open, loving quality with intact cognitive function.
-
-### Physical
-- Very body-friendly at moderate doses ("no suggestion of body depletion")
-- Some subjects reported body discomfort (twitching, crawling sensations) at 2.5 mg
-- Body load noted at doses above 7 mg
-- Shallow sleep at higher doses
-
-## Comparisons
-
-- vs. [[dob-pihkal-62]]: DOB (bromo) is more potent per milligram and more classically psychedelic. DOET requires higher doses and has a more variable character.
-- vs. [[psychedelic-set-and-setting]] carefully
-- See [[harm-reduction-guide]] for general principles
+- **Moderate doses (4-6 mg):** Serene, clean, beautiful [[dob-pihkal-62]]: DOB (bromo) is more potent per milligram and more classically psychedelic. DOET requires higher doses and has a more variable character.
+- vs. [[harm-reduction-guide]] for general principles
 
 ## The HECATE Naming
 
@@ -120,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[dom]]
 - [[soxhlet-extraction]]
 - [[ephedrine]]

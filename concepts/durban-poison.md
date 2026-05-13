@@ -8,18 +8,7 @@ created: 2026-05-08
 # Durban Poison
 
 Durban Poison is one of the most important and historically significant
-cannabis sativa [[sativa-landrace-strains-and-geographic-origins]]. Originating from the port city of Durban
-on the eastern coast of South Africa, this pure sativa has earned a unique
-place in cannabis history both for its outstanding qualities as a standalone
-variety and for its invaluable contributions to modern breeding programs.
-Its most remarkable characteristic is its early flowering trait, which has
-made it a cornerstone of sativa breeding for growers in the northern
-hemisphere seeking to finish crops before autumn weather arrives.
-
-## Geographic Origin and Environment
-
-Durban is located at approximately 30 degrees south latitude on the Indian
-Ocean coast of South Africa. The [[query-how-do-i-grow-bananas-in-a-subtropical-climate]] features warm wet
+cannabis sativa [[query-how-do-i-grow-bananas-in-a-subtropical-climate]] features warm wet
 summers and mild dry winters, a pattern that is essentially the inverse of
 the Mediterranean climate found in most cannabis-growing regions of the
 northern hemisphere. This latitude is significant because cannabis plants
@@ -32,18 +21,7 @@ followed by a relatively compressed flowering period.
 ## The Early Flowering Trait
 
 The most celebrated characteristic of Durban Poison among breeders is its
-early [[mollison-designers-day-length-and-flowering-response]] when grown in the northern hemisphere. As The Rev
-explains, the magic of the Durban Poison is where she is indigenous to:
-Durban, South Africa, which is about 30 degrees south latitude. In the
-northern hemisphere she will start flowering outdoors in late June and will
-finish in the second half of September, before any of the coastal funk
-or rain ever hits. This trait is extraordinarily valuable because most
-sativa landraces from equatorial regions do not begin flowering until
-September or October, exposing them to rain, mold, and cold weather. The
-early flowering characteristic is very dominant in hybrids, meaning it
-passes reliably to offspring, making Durban Poison an ideal parent for
-creating sativa-dominant hybrids that can finish outdoors in temperate
-climates with shorter [[jeavons-climate-adaptation-growing-seasons]].
+early [[jeavons-climate-adaptation-growing-seasons]].
 
 ## Aroma and Flavor Profile
 
@@ -52,7 +30,7 @@ typically features sweet, anise-like, and licorice notes combined with
 earthy undertones and a hint of spice. The flavor is often described as
 clean and smooth, with a sweet aftertaste that lingers on the palate.
 Some phenotypes exhibit more pronounced citrus or herbal notes. The
-[[cannabis-terpene-profile]] is dominated by terpinolene, myrcene, and [[ocimene]], which
+[[ocimene]], which
 contribute to both the unique flavor and the characteristically uplifting
 clear-headed effects. Unlike many heavy sativas that can produce racing
 thoughts or anxiety, Durban Poison is frequently noted for its focused
@@ -69,20 +47,12 @@ social interaction. The effects onset relatively quickly and maintain a
 consistent plateau without the sharp peaks and valleys that characterize
 some sativa varieties. This balanced psychoactive profile, combined with
 the early flowering trait, has made Durban Poison one of the most widely
-used sativa parents in modern [[oner-cannabis-breeding-fundamentals]] programs worldwide.
-
-## Role in Breeding Programs
-
-Durban Poison has been used as a parent in an extraordinary number of
-modern cannabis varieties. The Rev describes how in the pre-indoor era
-of Northern California [[cannabis-outdoor-growing]], the longer flowering time issue
+used sativa parents in modern [[cannabis-outdoor-growing]], the longer flowering time issue
 had already been dealt with by the more elite outdoor growers by using
 some Durban Poison brought to his mentors via pro surfers of the day and
 making Durban Poison hybrids. This tradition of using Durban Poison to
 compress flowering times in sativa crosses continues to this day. Notable
-Durban Poison descendants include various [[trainwreck-cannabis]] lines, Girl Scout
-Cookies, and countless proprietary hybrids designed for outdoor cultivation
-[[query-how-to-grow-and-use-oca-in-temperate-climates]] where early finishing is essential for success.
+Durban Poison descendants include various [[query-how-to-grow-and-use-oca-in-temperate-climates]] where early finishing is essential for success.
 
 ## The Rev's Personal History with Durban Poison
 
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[myrcene]]
-- [[terpinolene]]
 - [[ocimene]]
 - [[cannabis-sativa]]

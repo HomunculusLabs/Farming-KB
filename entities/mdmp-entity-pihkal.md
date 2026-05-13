@@ -8,74 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDMP
 
-[[2c-b-pihkal-entry-20]] #113. a,a,N-TRIMETHYL-3,4-METHYLENEDIOXY-PHENETHYLAMINE;.
-
-## Chemical Name
-
-a,a,N-TRIMETHYL-3,4-METHYLENEDIOXY-PHENETHYLAMINE;
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | above 110 mg. |
-| Duration | perhaps 6 hours. |
-
-## Qualitative Comments
-
-> (with 60 mg) There was a faint, dull alerting
-> at just over a half hour. The time sense was out of order, and an
-> absence of visuals but a generalized attentiveness to my surroundings
-> was suggestive of MDMA. Nothing remained at the six hour point.
->
-> (with 110 mg) There was a light-headedness, and a complete absence of
-> libido. Nothing in any way psychedelic, but there are hints of
-> discomfort (jaw tension) that will bear close watching at higher
-> dosages. It might evolve at higher levels into something like MDMA.
-
-## Extensions and Commentary
-
-This is one of several candidates for
-clinical use as a substitute for MDMA, but there will have to be a
-much broader study of its qualitative action in man. It is clearly
-not psychedelic at these modest levels, and in in vitro animal studies
-it was apparently inactive as a serotonin releaser. The warped logic
-for looking at phentermine analogs was discussed in the comments that
-concerned MDPH. The initials used here have been chosen with care.
-MDM should not be used as it has found some currency as an
-abbreviation for MDMA (Methylene-Dioxy-Methamphetamine). MDMP fits
-neatly with Methylene-Dioxy-Me-Phentermine.
-
-## Synthesis
-
-To a well stirred solution of 1.64 g of
-1-(N-(benzyloxycarbonyl)amino)-1,1-dimethyl-2-(3,4-methylenedioxyphenyl)ethane
-(see under MDPH for its preparation) in 10 mL anhydrous THF there was
-added a suspension of 0.38 g LAH in 25 mL THF. All was held at reflux
-for 24 h, the excess hydride was destroyed by the addition of 1.5 mL
-H2O, and sufficient aqueous NaOH was added to make the reaction
-
-mixture basic and flocculant enough to be filterable. The inorganic
-solids were removed by filtration and, following washing with THF, the
-combined filtrate and washings were stripped of organic solvent under
-vacuum. The residue was dissolved in 100 mL Et2O and washed with 2x50
-mL saturated aqueous NaHCO3. After drying the organic phase with
-anhydrous MgSO4, the solvent was removed under vacuum to give a yellow
-oil. This was dissolved in 50 mL absolute EtOH and neutralized with
-concentrated HCl. Removal of the solvent under vacuum yielded an
-off-white solid that was recrystallized from an EtOH/EtOAc mixture to
-provide 0.84 g of a,a,N-trimethyl-3,4-methylenedioxyphenethylamine
-hydrochloride (MDMP) with a mp of 206-208 deg C. The NMR spectrum showed
-the a,a-dimethyl pair as a singlet at 1.38 ppm. Anal. (C12H18ClNO2)
-C,H,N.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-- [[mda]]
-- [[mdbu-entity-pihkal]]
+[[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[mda]]
 - [[tma-5-entity-pihkal]]
 
 ## Practical Applications
@@ -87,3 +20,88 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 - Contributions have been widely cited in subsequent research.
 - Work continues to be referenced in both academic and practical contexts.
 - Impact extends to related fields and interdisciplinary applications.
+
+## Overview
+
+Mdmp Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mdmp entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mdmp extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mdmp Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mdmp entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mdmp entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mdmp Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mdmp entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

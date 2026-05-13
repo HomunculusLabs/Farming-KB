@@ -39,7 +39,7 @@ the Woronin bodies first observed by Woronin in 1886.
 Electron microscopy reveals the Woronin body as:
 
 - Generally **oval** in shape, though **hexagonal forms** occur in some
-  species (notably *[[neurospora-crassa]]* and *[[fusarium-oxysporum]]*)
+  species (notably *[[fusarium-oxysporum]]*)
 - Centered on an **electron-dense protein matrix** circumscribed by a
   single unit membrane
 - **Diameter**: 100 nm to >1 μm, generally larger than the septal pore
@@ -82,9 +82,7 @@ This single evolutionary origin makes hex-1 a diagnostic marker for the
 group.
 
 Notably, hex-1 is present in numerous **plant and human pathogenic**
-Euascomycetes, including *[[aspergillus-fumigatus]]* (invasive aspergillosis),
-*[[coccidioides-immitis]]* (Valley fever), *[[fusarium-graminearum]]* (head blight),
-*Magnaporthe grisea* (rice blast), *[[botrytis-cinerea]]* (gray mold), and
+Euascomycetes, including *[[coccidioides-immitis]]* (Valley fever), *[[botrytis-cinerea]]* (gray mold), and
 model organisms *A. nidulans* and *A. oryzae*. This pathogen prevalence
 suggests Woronin bodies may be attractive targets for novel fungicides.
 
@@ -117,8 +115,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[soma]]
-- [[neurospora-crassa]]
 - [[magnaporthe-grisea]]
 - [[ascomycota]]

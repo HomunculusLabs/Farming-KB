@@ -109,13 +109,8 @@ A 2022 market survey found that over 80% of *A. ferox* roots sold in Indian herb
 
 ## See Also
 
-- [[aconitum-napellus]]
 - [[aconitum-lycoctonum]]
-- [[aconitum-carmichaelii]]
 - [[aconitum-hemsleyanum]]
-- [[delphinium-elatum]]
 - [[helleborus-niger]]
-- [[pulsatilla-vulgaris]]
 - [[nigella-sativa]]
-- [[veratrum-album]]
 - [[atropa-belladonna]]

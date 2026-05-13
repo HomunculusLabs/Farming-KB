@@ -3,45 +3,14 @@ title: JADAM jadam canola oil surfactant method Surfactant Method
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [jadam, [[natural-farming]]
-sources:
-  - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
----
-# JADAM Canola Oil Surfactant Method
-
-## Overview
-
-JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) is a natural surfactant made from canola oil and potassium hydroxide (caustic potash). It is the most critical ingredient in [[jadam-pesticide-dosage-guide]] system, responsible for coating, wetting, and delivering pesticide into target pests. JWA costs less than 50 cents per liter to produce.
-
-## Why Canola Oil
-
-JADAM primarily uses canola oil instead of [[soybean-oil-wastewater-fungi]] because it produces better wetting power. Canola oil creates a more effective surfactant that spreads more evenly on plant surfaces.
+tags: [jadam, [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) is a natural surfactant made from canola oil and potassium hydroxide (caustic potash). It is the most critical ingredient in [[soybean-oil-wastewater-fungi]] because it produces better wetting power. Canola oil creates a more effective surfactant that spreads more evenly on plant surfaces.
 
 ### GMO Concern
 
 Most canola and soybean oils are genetically modified (GMO). In Korea, there is no law regulating GMO in natural oil. To avoid GMO, farmers can use:
 - Non-GMO canola oil
 - Sunflower oil
-- [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]
-- Grapeseed oil
-- Other natural plant oils
-
-## The Soap-Making Principle
-
-The basic principle of making JWA is the same as making soap from natural oil -- saponification. Traditional soap-making methods require:
-- Mixing water with caustic potash at specific temperatures
-- Mixing with temperature-adjusted natural oil
-- Adjusting pH
-- Adding aroma substances
-- Electric mixing for 3-4 hours
-- Sitting for weeks
-- Melting in water
-
-This is too complicated and difficult for farmers.
-
-## JADAM's No-Heat Breakthrough
-
-[[youngsang-cho]] experimented extensively to find a radically easier method:
+- [[youngsang-cho]] experimented extensively to find a radically easier method:
 - Goal: no heating, only 10 minutes of mixing, 3 days of sitting
 - Completely ignored temperature requirements
 - Continued experimenting with different proportions of water, caustic potash, and oil
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jadam-leaf-mold-soil-method]]
 - [[jadam-pesticide-research-cup-method]]
-- [[jadam-cover-crop-method]]
 - [[jadam-farming-method]]
 - [[jadam-red-clay-powder-method]]

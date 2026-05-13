@@ -130,6 +130,13 @@ When designing with patterns, consider:
 - Virbella Institute, Emerson College, Forest Row, East Sussex (Flowform designs and research)
 
 ## See Also
-- [[pattern-applications-and-tribal-pattern-knowledge]]
 - [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
 - [[permaculture-pattern-references-and-design-checklist]]
+
+## See Also
+
+- [[tribal-pattern-knowledge]]
+- [[tribal-pattern-encoding-and-mnemonics]]
+- [[pattern-classification-time-and-unified-events]]
+- [[tribal-pattern-knowledge-systems]]
+- [[anasazi-spiral-calendar-and-pattern-timekeeping]]

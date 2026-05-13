@@ -16,19 +16,7 @@ Root cellaring and food dehydration are two of the oldest and most practical met
 for preserving a harvest without refrigeration. Both approaches can operate with
 minimal or no electricity, making them staples of homestead and off-grid food
 systems. However, they differ fundamentally in how they work: root cellaring
-maintains food in a living, near-fresh state by controlling [[greg-green-temperature-and-humidity-control]],
-while dehydration removes moisture entirely to halt microbial growth.
-
-Choosing between them depends on the crops you grow, your climate, your storage
-infrastructure, and how you plan to use the preserved food. Many homesteaders use
-both methods in tandem to maximize year-round food security. Neither method is
-strictly superior; each has distinct strengths that complement the other.
-
-## Root Cellaring
-
-Root cellaring exploits the natural thermal mass and insulation of the earth to
-maintain cool, stable temperatures (typically 32 to 55 degrees F) and controlled
-humidity levels. It is best suited for hardy [[growing-root-vegetables-guide]] (potatoes, carrots,
+maintains food in a living, near-fresh state by controlling [[growing-root-vegetables-guide]] (potatoes, carrots,
 beets, turnips, parsnips), alliums (onions, garlic), winter squash, and apples.
 Storage durations range from three to eight months depending on the crop.
 
@@ -104,16 +92,7 @@ the earth naturally maintains cellar temperatures in the ideal 32 to 40 degree F
 range. If you already have a basement with an exterior wall or a hillside suitable
 for excavation, the ongoing cost is nearly zero.
 
-Root cellaring also preserves the highest [[coleman-winter-greens-nutritional-quality-cold-sweetening]] for root crops since
-no heat is applied and cellular structure remains intact. Choose it when you value
-fresh-like texture and flavor, have the space for bulk storage, and want a passive,
-low-maintenance preservation system. It is particularly well-suited for feeding a
-household through winter with minimal processing effort.
-
-## When to Choose Food Dehydration
-
-Food dehydration is the better choice when you need to preserve a diverse harvest
-that includes fruits, [[solomon-leafy-greens-growing]], herbs, tomatoes, peppers, and meats. It is
+Root cellaring also preserves the highest [[solomon-leafy-greens-growing]], herbs, tomatoes, peppers, and meats. It is
 ideal for building a compact long-term food reserve, preparing lightweight trail
 meals, or preserving gluts of produce that would not store well in a cellar
 (berries, stone fruits, zucchini, greens).
@@ -132,18 +111,5 @@ hybrid workflow on a productive homestead might include all of the following:
 
 - Store root vegetables and squash in the root cellar for fresh winter eating.
 - Dehydrate surplus produce, herbs, fruits, and meats for long-term storage.
-- Dehydrate root vegetables from the cellar in [[coleman-overwintered-onions-and-early-spring-crops]] before they begin to
-  sprout or soften, extending their useful life by months or years.
-- Use the root cellar as a cool, dark storage location for jars of dehydrated
-  goods, where the lower temperatures extend shelf life beyond what room-temperature
-  storage allows.
-
-This layered approach provides redundancy: if one method fails (a cellar warms up
-unexpectedly in a mild winter, or moisture gets into a dehydrator batch), the other
-method preserves a portion of the harvest. It also maximizes the variety of
-preserved foods available throughout the year, combining the convenience of
-cellar-stored fresh roots with the longevity and portability of dehydrated goods.
-## See Also
-- [[food-dehydration-guide]] for equipment, temperatures, and drying times
-- [[food-fermentation-guide]] for another low-energy preservation approach
+- Dehydrate root vegetables from the cellar in [[food-dehydration-guide]] for equipment, temperatures, and drying times
 - [[root-cellaring-and-no-energy-food-storage]]

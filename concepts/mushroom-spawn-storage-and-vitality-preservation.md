@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The vitality of [[mushroom-spawn]]—its capacity to grow vigorously when planted in prepared beds—is the single most critical factor determining the success or failure of a mushroom crop. Spawn is a living product, and its viability depends critically on how it is handled, stored, and ultimately used. The [[history-of-mushroom-cultivation]] is replete with failures attributable to dead or moribund spawn, making the understanding of spawn storage and vitality preservation essential knowledge for every grower.
+The vitality of [[history-of-mushroom-cultivation]] is replete with failures attributable to dead or moribund spawn, making the understanding of spawn storage and vitality preservation essential knowledge for every grower.
 
 ## The Spawn Viability Problem
 
@@ -24,17 +24,7 @@ Several factors contributed to the poor viability of imported (European) spawn i
 2. **Adverse shipping conditions**: Temperature fluctuations, moisture exposure, and physical handling during transit damaged the living fungal tissue
 3. **Poor storage at destination**: Subsequent storage methods at American seed dealers often failed to maintain conditions favorable for spawn survival
 4. **Seasonal carryover**: The worst practice was carrying spawn over from one season to the next under the assumption that it was "quite as good" as the fresher product—this was essentially fatal to viability
-5. **French [[flake-spawn]] vulnerability**: French flake spawn was found to rapidly lose vitality under importation conditions, and was never in very great demand in America as a result
-
-### Contrast with European Experience
-
-Growers in England and France did not experience the same difficulties with poor spawn. Their locally produced spawn reached them quickly and was used fresh, within a short time of manufacture. The problems were specifically associated with the importation process and the extended supply chain.
-
-## Brick Spawn: Superior Keeping Quality
-
-### Why Brick Spawn Stores Best
-
-Of the various spawn forms available in the early 20th century, the compact commercial **[[brick-spawn]]** exhibited the best keeping quality of any product on the market. Several factors contributed to this superiority:
+5. **French [[brick-spawn]]** exhibited the best keeping quality of any product on the market. Several factors contributed to this superiority:
 
 1. **Low moisture content**: Properly dried brick spawn had sufficiently low moisture to slow metabolic activity and prevent premature growth or decay
 2. **Compact form**: The compressed structure protected the internal mycelium from physical damage and rapid moisture exchange with the environment
@@ -103,3 +93,11 @@ The pure culture tissue method solved the running-out problem by providing a mec
 6. **Avoid imported spawn for critical plantings**: Unless the supply chain is very short and reliable
 
 The dramatic improvement in American spawn quality—from the era when most commercial spawn was dead to the point where 80–90 percent of the 1913–1914 crop was grown from reliable American pure culture spawn—demonstrates the transformative power of understanding and controlling spawn viability.
+
+## See Also
+
+- [[telluride-mushroom-festival-modern-mycological-culture]]
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
+- [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
+- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
+- [[mushroom-poisoning-guide]]

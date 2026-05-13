@@ -8,24 +8,10 @@ source: ["uwe-blesching-the-cannabis-health-index.md"]
 
 # Cannabis Health Index Scoring Methodology
 
-The Cannabis Health Index (CHI) is an evidence-based compilation and rating system developed by Uwe Blesching, PhD, that evaluates the scientific literature on medical cannabis [[cannabis-health-index-chi-scoring-methodology-blesching]] for over 100 chronic diseases and symptoms. The CHI model was designed to help patients and practitioners make informed decisions about cannabis as a therapeutic option by providing a structured, at-a-glance assessment of the current state of research for each condition.
-
-## Purpose and Context
-
-The CHI was created to address a critical gap in medical cannabis [[cannabis-health-index-chi-scoring-methodology-blesching]]: while over 15,000 scientific studies on cannabinoids exist in the U.S. National Library of Medicine (as of the book's publication), no systematic evidence-based model for the plant's safe and targeted use existed. The CHI fills this gap by:
+The Cannabis Health Index (CHI) is an evidence-based compilation and rating system developed by Uwe Blesching, PhD, that evaluates the scientific literature on medical cannabis [[cannabis-health-index-chi-scoring-methodology-blesching]]: while over 15,000 scientific studies on cannabinoids exist in the U.S. National Library of Medicine (as of the book's publication), no systematic evidence-based model for the plant's safe and targeted use existed. The CHI fills this gap by:
 
 - Compiling available literature relevant to specific chronic diseases and symptoms
-- Rating each condition based on the weight and quality of evidence [[cannabis-health-index-scoring-evidence-methodology]]
-- Providing practical therapeutic guidance including strain and form considerations
-- Integrating mind-body medicine perspectives alongside pharmacological evidence
-
-The system acknowledges that only about 15% of medical interventions overall are based on solid scientific evidence, making transparent evidence grading especially important for a therapeutic agent that patients often self-administer.
-
-## Evidence Hierarchy
-
-The CHI rating system accounts for the practical value of different study designs, recognizing that not all research carries equal weight. The hierarchy ranks studies from weakest to strongest:
-
-1. **Laboratory studies (in vitro)**: Cell culture experiments demonstrating mechanisms of action. Useful for understanding biochemical pathways but limited in predicting [[cancer-medicinal-mushrooms-ahcc-clinical-outcomes]].
+- Rating each condition based on the weight and quality of evidence [[cancer-medicinal-mushrooms-ahcc-clinical-outcomes]].
 
 2. **Animal studies (in vivo)**: Research conducted on animal models. More complex than cell studies but still limited in direct applicability to human physiology and disease.
 
@@ -33,9 +19,7 @@ The CHI rating system accounts for the practical value of different study design
 
 4. **Observational studies**: Epidemiological data, surveys, and retrospective analyses. Can reveal patterns and correlations but cannot establish causation.
 
-5. **Open-label [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]**: Patients receive the treatment without blinding. Controls for dosing but not for expectation effects.
-
-6. **Randomized controlled trials (RCTs)**: The gold standard for [[hofmann-lsd-clinical-research-early-studies]]. Patients are randomly assigned to treatment or control groups, ideally double-blinded.
+5. **Open-label [[hofmann-lsd-clinical-research-early-studies]]. Patients are randomly assigned to treatment or control groups, ideally double-blinded.
 
 ## CHI Score Categories
 
@@ -80,9 +64,7 @@ This is the highest confidence level in the CHI system and indicates robust scie
 
 The CHI goes beyond simple efficacy ratings by providing evidence-based guidance on:
 
-- **[[biscotti-cannabis-strain]] types**: Whether indica, sativa, or [[cervantes-hybrid-varieties-types]] have shown differential effects for the condition
-- **[[hallucinogenic-mushroom-smoking-and-alternative-administration-routes]]**: Comparative evidence for smoking, vaporizing, oral, sublingual, and topical methods
-- **Cannabinoid profiles**: Whether specific cannabinoids (THC, CBD, or combinations) appear most effective
+- **[[cervantes-hybrid-varieties-types]] have shown differential effects for the condition
 - **[[ayahuasca-tourist-dosage-considerations-and-shamanic-caution]]**: Ranges that have been studied and associated with therapeutic outcomes
 
 ## Integration with Mind-Body Medicine
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index-scoring]]
 - [[cannabis-health-index]]
-- [[cannabis-health-index-chi-scoring-methodology-blesching]]
 - [[cannabis-health-index-scoring-evidence-methodology]]
 - [[ayahuasca]]

@@ -11,7 +11,7 @@ sources:
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 # Indoor Growing Environment
-[[query-what-are-the-stages-of-mushroom-cultivation]]. Each environment has specific temperature, humidity, light, and pressurization requirements based on its function within the production pipeline. The design philosophy prioritizes flow-through logistics, contamination control, and [[fukuoka-textdoc-energy-efficiency-agricultural-labor]].
+[[fukuoka-textdoc-energy-efficiency-agricultural-labor]].
 ## The Growing Room Complex
 The growing room complex houses all non-laboratory activities within one building. Each room has different requirements according to function. Growers in humid tropical climates face a set of problems uniquely different from growers in cold, temperate climates. Ancillary storage and shop maintenance buildings are separate.
 ## Environment 1: The Growing Rooms
@@ -22,19 +22,8 @@ The growing room complex houses all non-laboratory activities within one buildin
 **Light:** 50-1000 lux.
 **Insulation:** R8-R16 or as needed.
 **Positive Pressurization:** Yes, through electrostatic filters.
-**Air-to-Substrate Ratio:** Stamets recommends filling growing rooms to no more than 1/4th of total air volume, preferring only 1/8th of capacity. This means for every 8 air spaces, 1 space is occupied by substrate -- a 7:1 air-to-substrate ratio. Five dry tons of [[non-sterilized-wheat-straw-oyster-cultivation]] functionally fills a 1000 sq. ft. growing room.
-**Key [[mycoremediation-mushroom-cultivation-contaminated-substrates]] into the same corridor through which freshly spawned substrate is being transferred causes cross-contamination.
-- [[oyster-mushroom-spent-substrate-recycling]] should be exited out of the opposite ends of the growing rooms.
-- Many farms bring their fresh mushrooms into the main hallway en route to sorting and cold storage rooms.
-## Environment 2: The Spawning Room
-**Purpose:** A room adjacent to the pasteurization chamber wherein inoculations into bulk substrates are conducted.
-**Facility:** Must be constructed of materials that will not harbor mold colonies and can be washed down with ease. Height should be sufficient to accommodate the unloading of the steam box, conveyors, elevated platforms and funnels for filling columns (12-16 ft.). Cement floors and moisture-proof electrical fixtures are essential.
-**Temperature:** 80-90F (26-33C).
-**Humidity:** Fluctuating from ambient to 100%.
-**Light:** 200-500 lux. Needed only for ease of personnel.
-**Insulation:** None needed.
-**Positive Pressurization:** Yes, through HEPA filters.
-**Key [[holmgren-permaculture-twelve-design-principles-framework]]:**
+**Air-to-Substrate Ratio:** Stamets recommends filling growing rooms to no more than 1/4th of total air volume, preferring only 1/8th of capacity. This means for every 8 air spaces, 1 space is occupied by substrate -- a 7:1 air-to-substrate ratio. Five dry tons of [[mycoremediation-mushroom-cultivation-contaminated-substrates]] into the same corridor through which freshly spawned substrate is being transferred causes cross-contamination.
+- [[holmgren-permaculture-twelve-design-principles-framework]]:**
 - Once thoroughly washed down with a dilute bleach solution prior to spawning, the fan/filter system is activated for positive pressurization.
 - The filtration system is ideally located overhead. Air is passively or actively exhausted near the floor.
 - During inoculation, this room becomes very messy with spawn and substrate debris accumulating on the floor.
@@ -51,30 +40,7 @@ The growing room complex houses all non-laboratory activities within one buildin
 - Large farms use "walking floors" or a net pulled by a winch to facilitate off-loading.
 - When steam is injected, outer edges of the straw mass heat first, forming an outer shell. Three thermometers should be inserted at low (4-6 inches), midway, and high (12-24 inches from top) positions.
 - The minimum recommended time for steam pasteurization is 2 hours above 160F (71C).
-- After pasteurization, the chamber should be immediately positive-pressurized with contaminant-free air through a [[coleman-post-harvest-handling-and-storage]].
-**Temperature:** 35-50F (1-10C).
-**Humidity:** 50-75% rH.
-**Light:** 500-1000 lux.
-**Key Design Principles:**
-- Usually located at the end of the main corridor, immediately adjacent to refrigeration and shipping rooms.
-- Mushrooms usually arrive in open-grate plastic carrier baskets, placed into the airstream from the blast chiller awaiting sorting into cardboard end-user boxes.
-- Personnel sort, weigh, label, and arrange boxes for distribution.
-## Environment 6: The Refrigeration Room
-**Purpose:** To chill mushrooms to 35F (1-2C) so they can be maximally preserved.
-**Facility:** A standard refrigeration room.
-**Temperature:** 32-38F (0-3C).
-**Humidity:** 60-80% rH.
-**Insulation:** R30-R60.
-**Positive Pressurization:** No.
-**Key Design Principles:**
-- Humidity must be kept between 60-85% rH to prevent sudden dehydration.
-- Humidity in excess of 90% often causes mushrooms to "re-vegetate," causing a grayish fuzz and accelerating spoilage.
-- Sufficient air-flow is essential to effect slow evaporation off the cap surfaces.
-- Still-air refrigeration systems cause mushrooms to quickly rot unless the evaporation rate is increased.
-- New non-ozone-destroying refrigerants and non-mechanical CO2-based designs are being developed.
-## Environment 7: Shipping and Receiving Room
-## See Also
-- [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
+- After pasteurization, the chamber should be immediately positive-pressurized with contaminant-free air through a [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
 ## Practical Considerations
 
 Successful implementation of Indoor Growing Environment (Growing Gourmet & Medicinal Mushrooms) requires attention to
@@ -123,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[hepa-filter]]
-- [[mycoremediation]]
 - [[permaculture]]
 - [[medicinal-mushrooms]]

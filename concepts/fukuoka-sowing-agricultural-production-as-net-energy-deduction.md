@@ -21,22 +21,17 @@ world population.
 
 ## The Caloric Accounting of Modern Farming
 
-Fukuoka compared the energy required to produce a crop of [[fukuoka-rice-and-barley-natural-farming]] with
-the energy harvested in the food itself. Fifty years ago in the [[dmt-containing-plants-united-states-halpern]],
+Fukuoka compared the energy required to produce a crop of [[dmt-containing-plants-united-states-halpern]],
 each calorie of energy invested in growing rice resulted in a yield of about
 two calories of grain. Thirty or forty years ago, the two figures became
 equal. By the time of his writing, the investment of two calories of energy
 produced only one calorie of grain.
 
 This inversion occurred because of the shift from hand labor, draft animals,
-and [[fukuoka-petroleum-agriculture-food-quality-decline]] and [[fukuoka-rice-barley-no-till-method]],
+and [[fukuoka-rice-barley-no-till-method]],
 produced comparable or higher yields than conventional farms while requiring
-virtually no external energy inputs. The clover and [[fukuoka-rice-straw-mulch-central-technique]] system
-replaced both synthetic nitrogen and mechanical [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]. The
-[[fukuoka-agricultural-production-net-energy-deduction]]
-
-- [[fukuoka-petroleum-agriculture-food-quality-decline]]
-- [[fukuoka-mu-economics]]
+virtually no external energy inputs. The clover and [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]. The
+[[fukuoka-petroleum-agriculture-food-quality-decline]]
 - [[fukuoka-monoculture-meat-based-agricultural-system]]
 ## Practical Applications
 
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[fukuoka-agricultural-production-net-energy-deduction]]
 - [[masanobu-fukuoka]]
-- [[doc]]
 - [[det]]
 - [[dmt]]

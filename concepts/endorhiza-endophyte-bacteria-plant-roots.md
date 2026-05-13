@@ -3,12 +3,7 @@ title: Endorhiza — Endophytic Bacteria in Plant Roots
 slug: endorhiza-endophyte-bacteria-plant-roots
 tags: [microbiology, endophytes, plant-roots, cannabis, rhizosphere]
 related: [two-tier-selection-model-rhizosphere-microbiome, cultivar-specificity-microbiome-plant-genotype]
-source: [[endorhiza-microbiome-cannabis-cultivar-specificity]]
----
-
-# Endorhiza — Endophytic Bacteria in Plant Roots
-
-The endorhiza (also called the root endosphere) is the community of microorganisms that colonize the interior of plant root tissues. Unlike rhizosphere bacteria, which inhabit the soil immediately surrounding roots, endorhiza bacteria have crossed the root epidermis and established themselves within the root cortex, vascular tissue, or intercellular spaces. These endophytic communities are critical to plant health, providing growth promotion, disease suppression, stress tolerance, and influencing [[fungal-elicitors-enhanced-secondary-metabolite-production]].
+source: [[fungal-elicitors-enhanced-secondary-metabolite-production]].
 
 ## Defining the Endorhiza
 
@@ -27,9 +22,7 @@ Endorhiza bacteria provide multiple benefits to their host plants:
 - **Phytohormone production** — endophytes synthesize auxins (IAA), cytokinins, and gibberellins that directly stimulate root growth and branching, increasing nutrient and water uptake capacity
 - **Nitrogen fixation** — some endorhiza bacteria possess nitrogenase enzymes and can convert atmospheric N2 into ammonia, providing bioavailable nitrogen to the plant
 - **Phosphate solubilization** — endophytes produce organic acids that solubilize mineral phosphate, making this essential nutrient available for plant uptake
-- **Disease suppression** — endorhiza bacteria compete with pathogens for niche space and nutrients, produce antimicrobial compounds, and can prime the plant's systemic immune responses ([[endophytic-mycorrhizal-induced-systemic-resistance]])
-- **Stress tolerance** — endophytes help plants tolerate environmental stresses including drought, salinity, heavy metals, and phytotoxic contaminants through ACC deaminase activity (reducing ethylene stress signaling) and other mechanisms
-- **Secondary metabolite modulation** — emerging evidence suggests endorhiza communities may influence the production of plant [[antifungal-secondary-metabolites-coprophilous-fungi]], including cannabinoids in Cannabis
+- **Disease suppression** — endorhiza bacteria compete with pathogens for niche space and nutrients, produce antimicrobial compounds, and can prime the plant's systemic immune responses ([[antifungal-secondary-metabolites-coprophilous-fungi]], including cannabinoids in Cannabis
 
 ## The Core Cannabis Endorhiza Community
 
@@ -42,7 +35,7 @@ The first comprehensive characterization of the Cannabis endorhiza (Winston et a
 - **Actinomycetales** — an order of Actinobacteria known for producing antibiotics and antifungal compounds that may protect the host plant
 - **Sphingobacteriales** — an order of Bacteroidetes commonly isolated from soil and rhizosphere environments
 
-All prevalent core members, with the notable exception of Cellvibrio, are well-known endophytic bacteria primarily within the orders Gammaproteobacteria and Alphaproteobacteria. This is consistent with observations from other plant systems, including [[arabidopsis-thaliana]] and [[populus-deltoides]].
+All prevalent core members, with the notable exception of Cellvibrio, are well-known endophytic bacteria primarily within the orders Gammaproteobacteria and Alphaproteobacteria. This is consistent with observations from other plant systems, including [[populus-deltoides]].
 
 ## Endorhiza vs Rhizosphere: Key Differences
 
@@ -118,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[root-exudates]]
 - [[pseudomonas]]
 - [[mycorrhiza]]

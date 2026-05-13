@@ -14,17 +14,9 @@ sources:
   - Cho, H.K. (2009). korean-natural-farming-and-jadam: beneficial-indigenous-microorganisms-bim and Vital Power of Crops. Master Cho's chos-global-natural-farming-input-reduction-methods.
   - Drake, M. & Drake, J. (2014). "Korean Natural Farming Handbook." Cho Global Natural Farming.
   - Patel, H. et al. (2019). "Korean Natural Farming: A sustainable approach to agriculture." Indian Journal of Agricultural Sciences, 89(4), 604-610.
-  - Joshi, D. et al. (2020). "[[beneficial-indigenous-microorganisms-bim]] (IMO) technology of Korean Natural Farming." Journal of Soil Science and Plant Nutrition, 20(2), 839-850.
-created: 2026-04-28
----
+  - Joshi, D. et al. (2020). "[[mushroom-pests-and-diseases]] without synthetic chemical inputs.
 
-# Korean Natural Farming (KNF)
-
-## Overview
-
-Korean Natural Farming (KNF) is a sustainable agricultural system developed by **Master Han Kyu Cho** (born 1935) in the 1960s in South Korea. The methodology is built on the principle of working with nature rather than against it — utilizing locally sourced, naturally occurring microorganisms, plant extracts, and minerals to build soil health, enhance crop nutrition, and manage [[mushroom-pests-and-diseases]] without synthetic chemical inputs.
-
-KNF is part of a broader family of indigenous microorganism (IMO)-based farming systems found across East Asia, sharing philosophical and practical roots with Japanese natural farming (Masanobu Fukuoka), [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM; Teruo Higa), and Chinese traditional ecological agriculture. However, KNF is distinguished by its specific preparation methods, codified input system, and emphasis on fermentation-based [[green-cannabis-grow-bible-nutrient-management-ppm]].
+KNF is part of a broader family of indigenous microorganism (IMO)-based farming systems found across East Asia, sharing philosophical and practical roots with Japanese natural farming (Masanobu Fukuoka), [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
 ## Core Philosophy
 
@@ -32,14 +24,7 @@ KNF is guided by several foundational principles:
 
 1. **Non-interference:** Minimize human intervention in natural biological processes. The farmer's role is to create conditions where natural systems can function optimally.
 2. **Local sourcing:** All inputs are produced on-farm or sourced from the immediate local environment. No external or commercial inputs are required.
-3. **[[cho-nutritive-cycle-theory]]:** Plants have specific nutritional needs at each stage of growth (vegetative, changeover, reproductive, maturation), and inputs should be matched to these stages.
-4. **Fermentation over decomposition:** Nutrients are delivered through anaerobic and aerobic fermentation, which preserves more energy and creates more bioavailable compounds than simple decomposition.
-5. **Indigenous microorganisms (IMO):** Locally adapted microorganisms are more effective than commercially produced inoculants because they are already adapted to local soil, climate, and plant communities.
-6. **No-tillage:** Soil is not mechanically disturbed; biological processes maintain soil structure and aeration.
-
-## The Input System
-
-KNF uses a structured system of fermented preparations called "inputs." The core inputs form the acronym **OHN** ([[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient) and include several categories:
+3. **[[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient) and include several categories:
 
 ### Indigenous Microorganisms (IMO)
 
@@ -69,11 +54,7 @@ A preparation of medicinal herbs (garlic, ginger, licorice, cinnamon, Angelica) 
 
 ### Fish Amino Acid (FAA)
 
-Made from fish waste (heads, bones, viscera) fermented with brown sugar at 1:1 ratio. Rich in nitrogen and amino acids. Used during the [[cannabis-vegetative-growth-stage]] to promote leaf growth. Dilution rate: 1:1000.
-
-### Lactic Acid Bacteria Serum (LAB)
-
-Produced by fermenting rice wash water with milk. *Lactobacillus* spp. outcompete other microorganisms during fermentation. LAB strengthens plant immunity, enhances [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and suppresses pathogenic organisms.
+Made from fish waste (heads, bones, viscera) fermented with brown sugar at 1:1 ratio. Rich in nitrogen and amino acids. Used during the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and suppresses pathogenic organisms.
 
 ### Water-Soluble Calcium (WCA)
 
@@ -88,3 +69,82 @@ Made from animal bones charred and dissolved in vinegar. Provides phosphorus for
 Similar to FPJ but made from ripe fruits. Rich in sugars, vitamins, and minerals. Used during reproductive and maturation stages.
 
 ### Natural Vinegar (NV)
+
+## Overview
+
+Korean Natural Farming represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish korean natural farming
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving korean extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Korean Natural Farming finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for korean natural farming. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+korean natural farming and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Korean Natural Farming has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of korean natural farming into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

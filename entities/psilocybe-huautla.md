@@ -22,7 +22,7 @@ sources:
 
 # Psilocybe huautla
 
-**Psilocybe huautla** is a [[archaeology-of-psychedelic-mushroom-use]] species in the family Hymenogastraceae, first described by Gastón Guzmán, Florencia Ramírez-Guillén, and John W. Allen in 2004. Named after the town of Huautla de Jiménez in the Sierra Mazateca of Oaxaca, Mexico — the epicenter of [[maria-sabina-mazatec-mushroom-ceremony]] use — this species is deeply intertwined with the [[shroom-cultural-history-hippie-revolution-and-counterculture]] of [[maria-sabina]] first introduced psilocybin mushrooms to the wider world through ceremonies attended by R. Gordon Wasson in 1955. The Mazatec name for these mushrooms is *nti xí tho* ("the little ones that spring forth"), though they are more broadly known under the Nahuatl-derived term *teonanácatl* ("flesh of the gods").
+**Psilocybe huautla** is a [[maria-sabina-and-mazatec-mushroom-ceremony]] use — this species is deeply intertwined with the [[maria-sabina]] first introduced psilocybin mushrooms to the wider world through ceremonies attended by R. Gordon Wasson in 1955. The Mazatec name for these mushrooms is *nti xí tho* ("the little ones that spring forth"), though they are more broadly known under the Nahuatl-derived term *teonanácatl* ("flesh of the gods").
 
 Phylogenetic analysis places *P. huautla* within the *Psilocybe caerulescens* complex of section *Mexicanae*, closely related to *P. caerulescens*, *P. mexicana*, and *P. ochraceocentrata*. It was distinguished from similar species through careful morphological comparison and ITS rDNA sequencing.
 
@@ -34,23 +34,11 @@ Phylogenetic analysis places *P. huautla* within the *Psilocybe caerulescens* co
 
 **Stipe:** 4–12 cm long, 3–6 mm thick, cylindrical, equal or slightly thickened at the base. Surface smooth to finely fibrillose, whitish to cream, bruising prominently blue-green where damaged. Partial veil present, leaving a persistent annular zone (often a thin, membranous ring or merely a darker fibrillose band) near the apex.
 
-**Flesh:** Thin, watery. Color whitish in the cap, cream in the stipe. Stains vividly and rapidly blue-green to indigo when cut or bruised, particularly in the stipe base. The bluing reaction is caused by oxidation of psilocin, a dephosphorylated metabolite of [[psilocybin]] | 0.3–0.8% | Primary psychoactive; 4-PO-DMT |
-| [[psilocybe-azurescens]] or [[maria-sabina]] Magdalena García (1894–1985), a Mazatec curandera whose ceremonies with Wasson in 1955 brought psilocybin mushrooms to Western scientific attention. Sabina's ritual use involved consuming pairs of mushrooms (referred to as "little children") in darkness, accompanied by chanting (*cánticos*) and rhythmic invocation. She described the mushroom experience as a journey to a spiritual realm where truth and healing could be accessed.
-
-The influx of [[ayahuasca-tourism-western-seekers-and-integration]] following Wasson's publications disrupted the traditional practice and drew unwanted attention from Mexican authorities. María Sabina later expressed regret about this exposure, as the commodification and recreational use of the mushrooms violated their sacred context. Despite this, the Mazatec mushroom tradition persists in Oaxaca to this day, guarded by practitioners who maintain the ceremonial framework.
+**Flesh:** Thin, watery. Color whitish in the cap, cream in the stipe. Stains vividly and rapidly blue-green to indigo when cut or bruised, particularly in the stipe base. The bluing reaction is caused by oxidation of psilocin, a dephosphorylated metabolite of [[psilocybe-azurescens]] or [[ayahuasca-tourism-western-seekers-and-integration]] following Wasson's publications disrupted the traditional practice and drew unwanted attention from Mexican authorities. María Sabina later expressed regret about this exposure, as the commodification and recreational use of the mushrooms violated their sacred context. Despite this, the Mazatec mushroom tradition persists in Oaxaca to this day, guarded by practitioners who maintain the ceremonial framework.
 
 ## Legal Status
 
-*Psilocybe huautla* contains [[psilocin]], both of which are scheduled under the UN Convention on Psychotropic Substances (1971). In Mexico, psilocybin mushrooms are technically illegal under federal law, though indigenous ceremonial use has historically been tolerated. In the United States, the species is classified as Schedule I under the Controlled Substances Act. Several jurisdictions have recently moved toward decriminalization or regulated therapeutic access to psilocybin-containing mushrooms, including Oregon, Colorado, and various municipalities.
-
-## Conservation
-
-While *Psilocybe huautla* has not been formally assessed by the IUCN, its restricted range in the Sierra Mazateca makes it potentially vulnerable to habitat loss from deforestation, agricultural expansion, and climate change. The cloud forest ecosystems of Oaxaca are among the most biodiverse and most threatened in Mexico. Sustainable harvesting practices by Mazatec curanderos — who traditionally leave sufficient mushrooms for natural spore dispersal — have historically maintained healthy populations, but increased commercial collection pressure could pose future risks.
-
-## Cultivation and Propagation
-
-*Psilocybe huautla* can be cultivated using standard [[psilocybe-mexicana]] — Type species of the genus; smaller, more delicate; also from Oaxaca region
-- [[psilocybe-cubensis]] — Subtropical, dung-inhabiting; the most widely cultivated psilocybin mushroom
+*Psilocybe huautla* contains [[psilocybe-mexicana]] — Type species of the genus; smaller, more delicate; also from Oaxaca region
 - [[psilocybe-azurescens]] — Pacific Northwest species; the most potent known Psilocybe
 
 ## See Also
@@ -88,3 +76,75 @@ these challenges enables more proactive and effective management.
 Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
+
+## Overview
+
+Psilocybe Huautla represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe huautla
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Huautla finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe huautla. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe huautla and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Huautla has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe huautla into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

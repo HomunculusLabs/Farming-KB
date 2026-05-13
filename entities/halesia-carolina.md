@@ -110,11 +110,7 @@ Individual trees can live 75–100 years. The species is relatively slow-growing
 
 ## See Also
 
-- [[styrax-obassia]]
 - [[styrax-japonicus]]
-- [[davidia-involucrata]]
 - [[cornus-florida]]
-- [[magnolia-grandiflora]]
 - [[hamamelis-virginiana]]
-- [[stewartia-pseudocamellia]]
 - [[parrotia-persica]]

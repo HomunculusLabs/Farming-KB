@@ -9,14 +9,14 @@ sources: []
 
 # LSD Reference
 
-LSD ([[lsd-d-lysergic-acid-diethylamide]]) is one of the most potent psychoactive substances known. Discovered by Swiss chemist Albert Hofmann in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.
+LSD (lysergic acid diethylamide) is one of the most potent psychoactive substances known. Discovered by Swiss chemist Albert Hofmann in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.
 
 ## Discovery and History
 
 ### Albert Hofmann and Sandoz
 
 - First synthesized on November 16, 1938, by Albert Hofmann at Sandoz Laboratories in Basel, Switzerland
-- Part of a research program studying ergot alkaloids (derived from the ergot fungus [[bloomfield-ergot-claviceps-purpurea-ergotism]])
+- Part of a research program studying ergot alkaloids (derived from the ergot fungus Claviceps purpurea)
 - Initially investigated as a circulatory and respiratory stimulant
 - Psychoactive properties discovered accidentally on April 19, 1943, when Hofmann absorbed a small amount through his skin
 - April 19 is now celebrated as "Bicycle Day" — Hofmann rode home from the lab experiencing the first intentional LSD trip
@@ -42,7 +42,7 @@ LSD ([[lsd-d-lysergic-acid-diethylamide]]) is one of the most potent psychoactiv
 
 ### Modern Renaissance (2000s-present)
 
-- MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies) and other organizations have pushed for rescheduling
+- MAPS (Multidisciplinary Association for Psychedelic Studies) and other organizations have pushed for rescheduling
 - Modern clinical trials studying LSD for anxiety, depression, cluster headaches, and end-of-life distress
 - Switzerland approved limited LSD-assisted psychotherapy research
 - Growing interest in microdosing LSD for cognitive enhancement and mood improvement
@@ -69,7 +69,7 @@ Stability: degrades rapidly with light, heat, and moisture. Store wrapped in foi
 
 ### Mechanism of Action
 
-- Primary mechanism: potent agonist at 5-HT2A [[psilocybin-pharmacology-and-serotonin-receptors]]
+- Primary mechanism: potent agonist at 5-HT2A serotonin receptors
 - Also binds to 5-HT2B, 5-HT2C, 5-HT1A, 5-HT5A, 5-HT6, and 5-HT7 receptors
 - Binds to dopamine D2 receptors (explaining some stimulant-like effects)
 - Is a partial agonist at most serotonin receptors
@@ -105,7 +105,7 @@ Blotter paper doses are typically laid at:
 - Strong: ~150-200 μg per hit
 - Weak: ~50-75 μg per hit
 
-Note: underground LSD potency is notoriously unreliable. Testing with an [[ehrlich-reagent-tryptamine-detection-tlc-mycology]] (turns purple/pink for indoles — confirms LSD presence but cannot measure dose) is recommended. LSD is one of the most commonly counterfeited drugs — NBOMe compounds and DOB are sometimes sold as LSD.
+Note: underground LSD potency is notoriously unreliable. Testing with an Ehrlich reagent (turns purple/pink for indoles — confirms LSD presence but cannot measure dose) is recommended. LSD is one of the most commonly counterfeited drugs — NBOMe compounds and DOB are sometimes sold as LSD.
 
 ## Effects
 
@@ -141,10 +141,10 @@ Note: underground LSD potency is notoriously unreliable. Testing with an [[ehrli
 
 ## Safety Profile
 
-- Very high therapeutic index (LD50 estimated at 12,000+ μg — ~100x a strong dose)
-- No confirmed human deaths from LSD overdose alone
-- Primary risks are psychological, not physiological
+## See Also
 
-### Contraindications
-
-- Personal or family history of schizophrenia or psychotic disorders
+- [[cover-crop-quick-reference]]
+- [[seed-starting-reference]]
+- [[cactus-alkaloids-reference]]
+- [[ketamine-reference]]
+- [[mescaline-reference]]

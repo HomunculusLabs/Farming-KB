@@ -1,8 +1,7 @@
 # Cannabis Sativa vs Indica Therapeutic Profiles
 
 Medicinal cannabis consists of two primary species, *Cannabis sativa* and
-*[[cannabis-indica]]*, which produce different ratios of the primary
-[[cervantes-cannabinoids-thc-cbd-chemistry]], CBD, and CBN. These ratios are therapeutically
+*[[cervantes-cannabinoids-thc-cbd-chemistry]], CBD, and CBN. These ratios are therapeutically
 significant because they determine the balance between psychoactive and
 non-psychoactive effects, influencing which conditions each strain is best
 suited to address.
@@ -12,40 +11,13 @@ suited to address.
 ### Cannabis sativa
 
 Sativa plants typically grow taller with finer leaf structure and longer
-[[cannabis-flowering-cycles]]. The key therapeutic characteristic is their higher
-THC-to-CBD/CBN ratio. This ratio produces effects that are generally:
-
-- **Stimulating and energizing**: Sativas tend to produce an uplifting,
-  cerebral experience
-- **Mental and emotional**: Effects are felt more in the mind than the
-  body
-- **Extrovert-oriented**: May promote social engagement and creative
-  thinking
-- **Daytime appropriate**: The stimulating [[coleman-first-rule-nature-makes-sense]] sativas better
+[[coleman-first-rule-nature-makes-sense]] sativas better
   suited for daytime use
 - **Alertness-enhancing**: Can increase focus and perceived energy
 
 Sativas are often considered for conditions involving depression,
 fatigue, and attention difficulties, where an energizing effect is
-desired. The higher [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] activates CB1 receptors more strongly,
-producing the characteristic psychoactive and mood-elevating effects.
-
-### Cannabis indica
-
-Indica plants tend to be shorter and stalkier with wider leaves. Their
-lower THC-to-higher CBD/CBN ratio produces effects that are generally:
-
-- **Sedating and relaxing**: Indicas produce a grounding, calming
-  experience
-- **Physical**: Effects are felt more in the body than the mind
-- **Introvert-oriented**: May promote introspection and physical
-  stillness
-- **Evening appropriate**: The sedating nature makes indicas better
-  suited for after-work or bedtime use
-- **Sleep-promoting**: Can function as a sleep aid
-
-Indicas are often considered for conditions involving anxiety, insomnia,
-[[cannabis-chronic-pain-management]], and muscle spasms, where a calming, physical effect is
+desired. The higher [[cannabis-chronic-pain-management]], and muscle spasms, where a calming, physical effect is
 desired. The higher CBD content provides greater CB2 receptor activation,
 which modulates immune and inflammatory responses without significant
 psychoactive effects.
@@ -69,22 +41,7 @@ their relative proportions.
 - Psychoactive effects tempered by CBD's anti-anxiety properties
 - CBD modulates THC's psychoactivity, allowing higher THC doses with
   fewer side effects
-- Versatile [[psilocybin-therapeutic-applications]]
-
-### Low THC, High CBD (Typical Indica)
-- Stronger CB2 receptor activation
-- Minimal psychoactive effects
-- Anti-inflammatory, analgesic, and anxiolytic properties dominate
-- Better for conditions where physical calming is desired
-- Suitable for patients who cannot tolerate psychoactive effects
-
-## Matching Strain to Condition
-
-### When to Consider Sativa
-- Depression (uplifting, energizing)
-- Fatigue (stimulating)
-- Attention difficulties (focus-enhancing)
-- Daytime [[cannabis-cancer-symptom-management]] (less sedating)
+- Versatile [[cannabis-cancer-symptom-management]] (less sedating)
 - Creative blocks (promotes divergent thinking)
 
 ### When to Consider Indica
@@ -118,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-sativa-vs-indica]]
 - [[cannabis-indica]]
-- [[cannabis-sativa]]
 - [[sativa-vs-indica]]
 - [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]

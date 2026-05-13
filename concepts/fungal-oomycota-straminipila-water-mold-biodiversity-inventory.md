@@ -39,7 +39,7 @@ The genus Saprolegnia serves as type genus. Water molds are common in
 freshwater environments where they decompose organic matter and cycle nutrients.
 Some species are significant pathogens of fish and aquatic organisms, impacting
 both wild populations and aquaculture. These organisms produce zoospores that
-germinate on suitable substrates to form extensive mycelial networks.
+germinate on suitable substrates to form extensive [[mycelial-networks]].
 
 ### Peronosporomycetidae — Plant and Animal Parasites
 
@@ -129,14 +129,12 @@ Including oomycetes in fungal biodiversity surveys is essential for complete
 ecosystem understanding. As major plant pathogens, Phytophthora species have
 enormous agricultural and forestry impact worldwide. Their aquatic ecological
 roles as decomposers and parasites are equally important but poorly documented.
-Modern surveys increasingly employ environmental DNA metabarcoding to capture
+Modern surveys increasingly employ [[environmental-dna-metabarcoding]] to capture
 oomycete diversity missed by culture-based approaches, producing more accurate
 estimates of their true diversity and ecological significance in both natural
 and managed ecosystems.
 
 ## See Also
-- [[fungal-ecological-operational-groups-biodiversity-inventory]]
 - [[standardized-fungal-biodiversity-inventory-methods]]
-- [[fungal-biodiversity-ecosystem-function]]
 - [[gadd-fungal-biodiversity-conservation]]
 - [[fungal-biodiversity-estimation]]

@@ -14,14 +14,7 @@ type: concept
 Radionics is a controversial field that proposes that disease in plants,
 animals, and humans can be diagnosed and treated through the detection
 and manipulation of subtle radiations emitted by all matter. The
-technique was adapted for agricultural use as a means of [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
-without chemical insecticides, operating on the principle that the
-molecular structure of a photograph resonates at the same frequencies
-as the objects it depicts.
-
-## Origins with Albert Abrams
-
-The story begins with Dr. Albert Abrams, a [[shipibo-san-francisco-ceremonial-center-ucayali]] physician who
+technique was adapted for agricultural use as a means of [[shipibo-san-francisco-ceremonial-center-ucayali]] physician who
 trained at the University of Heidelberg. Abrams noticed that when a
 nearby X-ray apparatus was switched on, it dulled the resonant note he
 obtained from percussing a patient's abdomen. He discovered that nerve
@@ -88,3 +81,11 @@ green and were anemic and drooping.
 This led Hieronymus to conclude that whatever caused the development of
 chlorophyll in plants was not sunlight itself but something associated
 with it -- transmittable over wires. He coined the term "eloptic
+
+## See Also
+
+- [[tompkins-plant-electrical-signals]]
+- [[tompkins-pierre-paul-sauvin-plant-esp-experiments]]
+- [[tompkins-photosynthesis-biophotons]]
+- [[tompkins-electroculture-plant-growth]]
+- [[tompkins-magnetism-plant-growth]]

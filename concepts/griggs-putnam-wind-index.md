@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The **Griggs and Putnam Index** (G) is a field-based scale that assesses wind speed by observing the physical deformation of trees. Because trees permanently record the effects of prevailing winds in their growth form, they serve as living anemometers — providing reliable site-level wind data without instruments.
+The **[[griggs-and-putnam-index]]** (G) is a field-based scale that assesses wind speed by observing the physical deformation of trees. Because trees permanently record the effects of prevailing winds in their growth form, they serve as living anemometers — providing reliable site-level wind data without instruments.
 
 The index was developed from work by Wade and Hewson (1979) at Oregon State University's Department of Atmospheric Sciences, and correlates tree deformation with annual mean wind speed with approximately **17% accuracy**.
 
@@ -74,8 +74,76 @@ water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
 ## See Also
-- [[griggs-putnam-wind-index-mollison]]
 - [[windbreak-design-griggs-putnam-index]]
-- [[griggs-and-putnam-index]]
 - [[wind-flagging-index-and-temperature-effects-of-trees]]
 - [[tree-biomass-and-wind-effects]]
+
+## Overview
+
+Griggs Putnam Wind Index represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish griggs putnam wind index
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving griggs extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Griggs Putnam Wind Index finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for griggs putnam wind index. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+griggs putnam wind index and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Griggs Putnam Wind Index has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of griggs putnam wind index into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

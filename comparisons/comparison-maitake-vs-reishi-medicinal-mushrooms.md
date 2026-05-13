@@ -23,23 +23,11 @@ type: comparison
 
 # Maitake vs Reishi: Medicinal Mushroom Comparison
 
-**Maitake** (*[[medicinal-mushrooms]] in both traditional Asian medicine and modern [[hofmann-lsd-clinical-research-early-studies]]. Despite overlapping therapeutic claims, they differ significantly in their bioactive compound profiles, traditional applications, culinary roles, and practical considerations.
+**Maitake** (*[[hofmann-lsd-clinical-research-early-studies]]. Despite overlapping therapeutic claims, they differ significantly in their bioactive compound profiles, traditional applications, culinary roles, and practical considerations.
 
 ## Taxonomy and Appearance
 
-| Feature | Maitake (*[[maitake-grifola-frondosa-comprehensive-profile]]*) | Reishi (*Ganoderma lingzhi*) |
-|---|---|---|
-| **Family** | Meripilaceae | Ganodermataceae |
-| **Common names** | Hen of the woods, dancing mushroom | Lingzhi, mannentake, reishi |
-| **Growth form** | Clustered, overlapping fronds resembling ruffled feathers; brownish-gray with white edges | Shelf-like or kidney-shaped conk; varnished, lacquered appearance; reddish-brown with a distinct stalk in some species |
-| **Size** | Can exceed 50 cm across in the wild | Typically 5–30 cm across |
-| **Texture (fresh)** | Soft, fleshy, tender | Woody, tough, cork-like |
-| **Spore color** | White | Brown |
-
-## Active Compounds
-
-### Maitake
-- **[[ganoderma-lucidum]] peptide (GLP):** A protein shown to have antioxidant properties in preclinical models.
+| Feature | Maitake (*[[ganoderma-lucidum]] peptide (GLP):** A protein shown to have antioxidant properties in preclinical models.
 - **Nucleosides and adenosine:** Present at notable concentrations; contribute to reported calming and adaptogenic effects.
 
 ## Medicinal Properties
@@ -64,38 +52,7 @@ Reishi is classified as a premier adaptogen in TCM, with traditional and emergin
 | **Fruiting temperature** | 15–20°C (cool) | 25–30°C (warm) |
 | **Time to harvest** | 8–12 weeks from inoculation | 6–8 weeks for antler form; 12+ weeks for conks |
 | **Cultivation difficulty** | Moderate — sensitive to contamination, requires cool fruiting | Moderate to easy — widely cultivated commercially |
-| **Yield** | Good [[stamets-biological-efficiency-yield]] on supplemented substrates | Lower yield; longer cycle |
-
-Both are commercially cultivated at scale, though wild-harvested specimens are still prized, especially in Japan.
-
-## Culinary Use
-
-- **Maitake:** Excellent culinary mushroom with a rich, earthy, peppery flavor and a meaty yet tender texture. Widely used in soups, stir-fries, tempura, and sautés. One of the most prized edible wild mushrooms.
-- **Reishi:** Extremely woody and bitter when fresh or dried. Not considered culinary. Reishi is consumed exclusively as a tea, tincture, extract, or powder. The bitterness is attributed to triterpene content and is often cited as a quality marker in traditional use.
-
-## Traditional Use
-
-### Maitake
-- **Japanese tradition:** Called "the dancing mushroom" — legend holds that foragers danced with joy upon finding it. Historically used as a tonic and food, with folk use for digestive health and vitality.
-- **TCM:** Less prominent than reishi in classical Chinese texts; historically used for spleen/stomach support and as a general tonic.
-
-### Reishi
-- **TCM:** One of the highest-ranked herbs in the *Shennong Ben Cao Jing* (Divine Farmer's Materia Medica, c. 200 AD). Classified as a superior herb for long-term use. Associated with calming the spirit (*shen*), nourishing the heart, and promoting longevity.
-- **Japanese tradition:** Known as *mannentake* ("10,000-year mushroom"). Used in temple medicine and aristocratic wellness practices for millennia.
-
-## Dosage Forms and Preparations
-
-| Form | Maitake | Reishi |
-|---|---|---|
-| **Capsules** | Standardized D-Fraction extracts; whole fruiting body powder | Dual extracts (water + alcohol); spore oil capsules |
-| **Tinctures** | Less common | Widely available; dual extraction needed for triterpenes |
-| **Tea/decoction** | Chopped dried fruiting body; mild flavor | Simmered 30–60+ minutes; intensely bitter |
-| **Powders** | Fruiting body powder for food addition | Fruiting body and/or mycelial powder |
-| **Extracts** | D-Fraction liquid extract (proprietary) | Hot water extracts (polysaccharides); alcohol extracts (triterpenes) |
-
-## Safety and Contraindications
-
-- **Maitake:** Generally well-tolerated. May lower blood glucose — caution in diabetics on hypoglycemic medications. Potential immune stimulation warrants caution in [[cannabis-autoimmune-conditions-detailed]] or immunosuppressive therapy. Rare reports of GI upset.
+| **Yield** | Good [[cannabis-autoimmune-conditions-detailed]] or immunosuppressive therapy. Rare reports of GI upset.
 - **Reishi:** Generally safe at standard doses. May have mild anticoagulant effects — discontinue 2 weeks before surgery. Can interact with antihypertensive and immunosuppressive drugs. Prolonged high-dose use has been associated with rare hepatotoxicity case reports. Not recommended during pregnancy (limited safety data).
 
 ## Availability and Cost
@@ -124,8 +81,6 @@ Both are commercially cultivated at scale, though wild-harvested specimens are s
 Maitake and reishi represent complementary approaches to medicinal mushroom use. Maitake offers the unique advantage of dual culinary and medicinal value, with strong evidence for immune cell activation via its distinctive β-glucan profile. Reishi stands out for its unparalleled traditional pedigree, broad adaptogenic profile, and the added therapeutic dimension of triterpenes. For immune-focused protocols, both are supported by reasonable evidence; for stress, sleep, and anti-inflammatory applications, reishi has a stronger rationale. Choosing between them often depends on whether culinary use is desired, sensitivity to bitterness, and specific therapeutic goals.
 
 ## See Also
-
-- [[medicinal-mushrooms-reishi-and-maitake]]
 
 - [[ergosterol]]
 - [[ganoderic-acids]]

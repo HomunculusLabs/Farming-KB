@@ -19,27 +19,8 @@ Fukuoka observed that vegetables which are biologically closest to
 their wild ancestors are the best in flavor and the highest in food
 value. In the lily family, which includes nira, garlic, Chinese
 leek, green onion, pearl onion, and bulb onion, the nira and Chinese
-leek are highest in nutrition, good as [[fukuoka-serving-nature-philosophy]]
-- [[fukuoka-cleansing-diet]]
-- [[fukuoka-barley-clover-cultivation]]
-## Practical Applications
-
-Wild and Semi-Wild Foods — Nutrition Beyond Domestication has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+leek are highest in nutrition, good as [[fukuoka-cleansing-diet]]
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,8 +77,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[mycorrhiza]]
 - [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]

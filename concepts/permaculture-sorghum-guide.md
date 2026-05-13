@@ -20,8 +20,7 @@ multi-use plants for warm climates.
 
 ## Growing Conditions
 
-- Long [[savory-growing-season-and-non-growing-season-management]] with
-  [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]]
+- Long [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]]
 - Very drought and heat tolerant
 - Requires lots of fertilizer
 - Similar cultivation to wheat or corn
@@ -40,13 +39,7 @@ varieties based on primary intended use.
 
 Sorghum is direct-seeded after soil has warmed to at least 65°F (18°C). Plant
 seeds 0.5-1 inch deep in rows 30-40 inches apart, thinning to 4-8 inches
-between plants for [[fukuoka-no-till-grain-production-method]] or 8-12 inches
-for syrup production. Germination occurs within 5-7 days. Sorghum can also be
-started in flats and transplanted, though this is uncommon. For successive
-harvests, sow new batches every 2-3 weeks throughout the growing season. Each
-plant produces a single seed head.
-
-## [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
+between plants for [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
 
 Sorghum works well in Permaculture
 [[gaias-garden-cover-crops-soil-building]] Guide rotations in warm climates,

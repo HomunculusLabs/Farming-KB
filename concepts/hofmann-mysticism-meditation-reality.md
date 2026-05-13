@@ -6,19 +6,7 @@ tags:
   - meditation
   - consciousness
   - philosophy-of-science
-  - [[eleusinian-mysteries]]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md
-type: concept
----
-
-# Hofmann on Mysticism, Meditation, and Reality
-
-## The Heart of Hofmann's Christian Belief
-
-In the [[fukuoka-the-one-straw-revolution-final-chapter]] of LSD: My Problem Child, Hofmann reveals the
+  - [[fukuoka-the-one-straw-revolution-final-chapter]] of LSD: My Problem Child, Hofmann reveals the
 philosophical framework that guided his life's work. He cites the
 Gospel according to John, Chapter 14, where Jesus promises his
 disciples "another Comforter" and "the Spirit of truth" that "the
@@ -41,30 +29,7 @@ innumerable generations had access to such experience through
 initiation at Eleusis. The unio mystica of Catholic saints and the
 visions described by Jakob Boehme, Meister Eckhart, Angelus Silesius,
 Thomas Traherne, and William Blake are "obviously essentially related
-to the enlightenment that the initiates to the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
-experienced."
-
-## The Need for Mystical Experience in Modern Society
-
-The fundamental importance of mystical experience for the recovery of
-people in Western industrial societies who are sickened by a one-sided,
-rational, materialistic worldview is today given primary emphasis, not
-only by adherents to Eastern religious movements like Zen Buddhism, but
-also by leading representatives of academic psychiatry. Hofmann
-references the works of Balthasar Staehelin, the Basel psychiatrist,
-whose books (Haben und Sein, Die Welt als Du, Urvertrauen und zweite
-Wirklichkeit, Der finale Mensch) call upon the metaphysical element in
-people as a basic healing principle in therapeutic practice.
-
-## Metamedicine and Metapsychiatry
-
-A new approach that Hofmann terms "metamedicine," "metapsychology," and
-"metapsychiatry" is beginning to address the metaphysical element in
-human experience. This manifests as an experience of a deeper,
-duality-surmounting reality, and makes this element a basic healing
-principle in therapeutic practice. Not only medicine but wider circles
-of society consider overcoming the dualistic, cleft worldview a
-prerequisite for the recovery and [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] of occidental
+to the enlightenment that the initiates to the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] of occidental
 civilization and culture.
 
 ## Meditation as Path to Deeper Reality
@@ -117,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[mystical-experience]]
-- [[lsd]]
 - [[hofmann-ernst-junger-lsd-literary-dialogue]]
 - [[hofmann-delysid-product-psychotherapy]]

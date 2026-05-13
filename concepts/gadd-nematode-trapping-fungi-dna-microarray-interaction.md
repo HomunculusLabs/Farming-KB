@@ -10,27 +10,12 @@ created: 2026-05-09
 
 ## Overview
 
-Nematode-trapping fungi are a specialized group of [[biodiversity-nematophagous-predatory-fungi]] that capture and digest
-nematodes using sophisticated trapping structures. Chapter 12 of *Fungi in the Environment*
-(Anders Tunlid) explores how DNA microarray technology has revolutionized understanding of the
-molecular dialogue between these fungi and their prey. These fungi represent a promising
-[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agent against plant-parasitic nematodes, which cause billions of dollars in
+Nematode-trapping fungi are a specialized group of [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agent against plant-parasitic nematodes, which cause billions of dollars in
 crop losses annually worldwide.
 
 ## Trapping Structures and Morphogenesis
 
-Nematode-trapping fungi produce several distinct [[ectomycorrhizal-morphological-structures]] to capture nematodes:
-
-- **Adhesive networks**: Three-dimensional meshwork of hyphae coated with adhesive compounds
-  that immobilize nematodes on contact
-- **Adhesive knobs**: Specialized swollen hyphal branches that stick to nematode cuticles
-- **Constricting rings**: Remarkable three-celled hyphal structures that inflate rapidly upon
-  nematode contact, physically gripping the worm within seconds
-- **Non-constricting rings**: Passive traps that nematodes enter but cannot exit due to inward-
-  facing hyphal projections
-
-The production of trapping structures is not constitutive—it is induced by the presence of
-nematodes or nematode-derived [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]. This regulatory switch from saprotrophic to
+Nematode-trapping fungi produce several distinct [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]. This regulatory switch from saprotrophic to
 predatory lifestyle makes these fungi an excellent model for studying morphological
 differentiation in response to environmental cues.
 
@@ -39,25 +24,7 @@ differentiation in response to environmental cues.
 The most extensively studied nematode-trapping fungi belong to the order Orbiliales
 (Ascomycota):
 
-- ***[[arthrobotrys-oligospora]]***: The model species for the group, produces adhesive networks,
-  genome sequenced, amenable to genetic manipulation
-- ***Monacrosporium* spp.**: Diverse group producing various trap types including adhesive knobs
-  and constricting rings
-- ***Dactylellina* spp.**: Produce both adhesive networks and non-constricting rings
-- ***Drechmeria coniospora***: An endoparasitic species that uses adhesive spores to infect
-  nematodes rather than external traps
-
-## DNA Microarray Approach
-
-Traditional studies of nematode-trapping fungi relied on microscopic observation and
-phenotypic assays. Tunlid's work introduced DNA microarray technology to simultaneously
-monitor expression of thousands of genes during the transition from saprotrophic growth to
-trap formation. Key methodological aspects include:
-
-1. **Microarray construction**: cDNA libraries were created from RNA extracted at different
-   time points during trap induction, providing probes for genes involved in the predatory
-   switch
-2. **[[cannabis-microbiome-experimental-design]]**: Fungi were exposed to nematode exudates or living nematodes,
+- ***[[cannabis-microbiome-experimental-design]]**: Fungi were exposed to nematode exudates or living nematodes,
    with samples collected at multiple time points (0, 2, 6, 12, 24, 48 hours post-exposure)
 3. **Differential expression analysis**: Statistical comparison of gene expression between
    trap-inducing and control conditions identified upregulated and downregulated gene sets
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[spore]]
-- [[ectomycorrhiza]]
 - [[ascomycota]]
 - [[mycorrhiza]]

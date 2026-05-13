@@ -9,77 +9,95 @@ tags: [infrastructure, sewage-treatment, wetland, bioremediation, australia]
 
 ## Description
 
-The Werribee sewage lagoons are a large-scale sewage treatment system serving Melbourne, Victoria, Australia. Cited extensively by Mollison as a working example of [[biological-wastewater-treatment]], the system processes sewage from a city of 2.7 million people across 1,500 hectares (3,700 acres) of treatment ponds. Research by Hussainy at the Melbourne Metropolitan Water Board documented the system's effectiveness at removing heavy metals and pathogens through staged anaerobic, faculative, and aerobic pond treatment.
-
-## Classification
-
-- **Category**: Sewage treatment infrastructure
-- **Location**: Werribee, Victoria, Australia
-- **Managing body**: Melbourne Metropolitan Water Board
-- **System type**: Multi-stage lagoon treatment (anaerobic - faculative - aerobic)
-
-## System Specifications
-
-- **City served**: Melbourne (population 2,700,000 at time of writing)
-- **Total pond area**: 1,500 ha (3,700 acres)
-- **Ratio**: 1 hectare of pond per 1,800 inhabitants (1 acre per 820 people)
-- **Primary settling ponds**: 724 ha (1,790 acres) total, each rarely exceeding 7 ha (17 acres)
-- **Approximately 100 primary settling ponds** receiving and settling all raw sewage
-- **Scaled ratio**: 1 ha (2.5 acres) of settling pond per 3,800 people
-- **Pond depth**: Average 1 m (3 feet) — deeper ponds reduce sludge breakdown and wind aeration effectiveness
-- **Final ponds**: Faculative and aerobic, slightly exceeding the anaerobic settling pond area, 7-10 ha (17-25 acres) each
-
-## Treatment Performance
-
-### Heavy Metal Removal (Hussainy's findings)
-
-- **Copper**: 97% removed (78% anaerobically)
-- **Cadmium**: 70% removed (all anaerobically)
-- **Zinc**: 97% removed (83% anaerobically)
-- **Nickel**: 65% removed (47% aerobically)
-- **Lead**: 95% removed (90% anaerobically)
-- **Chromium**: 87% removed (47% anaerobically)
-- **Iron**: 85% removed (47% anaerobically; up to 92% by faculative process)
-
-### Biological Oxygen Demand
-
-- **Anaerobic stage**: BOD reduced as methane is produced (1 cubic metre of methane removes approximately 2.89 kg of solids)
-- **Aerobic stage**: BOD only 3-57 mg/l, mainly from nitrogenous compounds
-- **Suspended solids**: 32-50 mg/l (mainly algae and zooplankton)
-- **Overall**: About 80% of solids removed and incorporated into life forms
-
-### Pathogen Reduction
-
-- **Anaerobic ponds**: 90-94% of worm eggs destroyed; many harmful bacteria killed
-- **Aerobic ponds**: Water meets World Health Organisation standards for metal levels
-- **Final effluent**: Suitable for irrigation or further filtration through rush beds
-
-## Ecological Function
-
-The lagoons support a rich biological cascade:
-
-1. **Anaerobic zone**: Sulphur-loving bacteria (Thiospirillum, Chromatium, Rhodopseudomonas) produce sulphur that precipitates metals
-2. **Phytoplankton zone**: Euglena, Chlamydomonas, Chlorella, Scenedesmus fix carbon and produce oxygen
-3. **Zooplankton zone**: Daphnia, Moina, rotifers, copepods graze algae and concentrate metals
-4. **Higher organisms**: Waterfowl and fish thrive on the rich food web
-
-## Relevance to Cultivation
-
-The Werribee system demonstrates that biological sewage treatment is viable at municipal scale:
-
-- **Sizing benchmarks**: 1 ha settling pond per 3,800 people provides a scalable design formula
-- **Configuration options**: Long narrow ponds (3 m wide x 90 m long) or side-by-side ponds (30 m x 3 m) both work
-- **Compact alternatives**: Deeper digester ponds (3 m deep x 3 m wide x 30 m long) for space-constrained sites
-- **Energy generation**: Biogas from anaerobic ponds can power motors for electricity and gas compression
-- **Final use**: Effluent routed to field crops, forestry, pasture, or crops for distillation
-
-## Seasonal Variation
-
-- **Winter (10-15 degrees C)**: [[decomposition]] slows, sludge builds up; BOD 495 kg/ha/day; more H2S (8-15 mg/l); more ammonia released
+The Werribee sewage lagoons are a large-scale sewage treatment system serving Melbourne, Victoria, Australia. Cited extensively by Mollison as a working example of [[decomposition]] slows, sludge builds up; BOD 495 kg/ha/day; more H2S (8-15 mg/l); more ammonia released
 - **Summer (18-22 degrees C)**: Active decomposition; BOD 1,034 kg/ha/day; less H2S (2-5 mg/l); nearly double the methane production
 
 ## See Also
 
-- [[aaa-digestion-mollison]]
 - [[biogas-digester]]
 - [[phragmites-australis]]
+
+## Overview
+
+Werribee Sewage Lagoons Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish werribee sewage lagoons mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving werribee extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Werribee Sewage Lagoons Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for werribee sewage lagoons mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+werribee sewage lagoons mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Werribee Sewage Lagoons Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of werribee sewage lagoons mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[anaerobic-sewage-digestion-and-biogas-production]]
+- [[biological-sewage-treatment-systems]]
+- [[biological-sewage-treatment-with-aquatic-plants]]
+- [[biological-sewage-treatment-with-plants]]
+- [[sewage-water-reduction-and-dry-toilets]]

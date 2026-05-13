@@ -106,15 +106,9 @@ Unlike many tree ferns, wheki-ponga is not commercially harvested for horticultu
 
 ## See Also
 
-- [[dicksonia-antarctica]]
 - [[cyathea-cooperi]]
-- [[cyathea-dealbata]]
 - [[blechnum-spicant]]
-- [[pteridium-aquilinum]]
 - [[polystichum-munitum]]
-- [[osmunda-regalis]]
 - [[dryopteris-filix-mas]]
-- [[adiantum-pedatum]]
 - [[matteuccia-struthiopteris]]
-- [[woodsia-ilvensis]]
 - [[asplenium-trichomanes]]

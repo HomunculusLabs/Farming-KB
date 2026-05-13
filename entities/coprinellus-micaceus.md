@@ -33,14 +33,12 @@ sources:
 **Coprinellus micaceus**, commonly known as the **Mica Cap** or **Glistening
 Inkcap**, is a widely distributed saprotrophic basidiomycete mushroom. It is
 one of the most recognizable coprinoid fungi, growing in dense clusters on
-stumps, buried roots, and [[fungal-dead-wood-diversity]] of broadleaf trees in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
+stumps, buried roots, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 worldwide. The species epithet *micaceus* ("mica-like") refers to the fine,
 glistening granules on the young cap surface — a distinctive field mark.
 
 Though edible when young, C. micaceus contains small amounts of coprine (the
-compound causing disulfiram-like reactions in *[[coprinellus-disseminatus]]**: Much smaller, thinner stems, caps that do
-  not deliquesce.
-- **[[spore-print]]**: Dark brown to black.
+compound causing disulfiram-like reactions in *[[spore-print]]**: Dark brown to black.
 
 ### Microscopic Features
 
@@ -64,8 +62,7 @@ for years, producing repeated mushroom flushes.
 ### Growth Pattern
 
 Strongly caespitose (dense clusters), often with dozens to hundreds of
-[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] from a single point. Triggered by cool, wet conditions —
-typically spring and autumn [[query-how-to-grow-and-use-oca-in-temperate-climates]]. Mushrooms are extremely
+[[query-how-to-grow-and-use-oca-in-temperate-climates]]. Mushrooms are extremely
 short-lived, deliquescing completely within 24-48 hours.
 
 ### Geographic Range

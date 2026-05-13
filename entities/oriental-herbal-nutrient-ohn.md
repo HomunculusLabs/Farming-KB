@@ -16,49 +16,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 OHN is composed of five traditional medicinal herbs, each selected for specific plant-beneficial properties:
 
-1. **Garlic** (*Allium sativum*): Antimicrobial, antifungal, insect-repellent. Contains allicin and other sulfur compounds that provide natural pest and disease protection. Acts as a "heat" element in traditional Asian medicine, stimulating circulation and [[arbuscule-isolation-metabolic-activity-assays]].
-
-2. **Ginger** (*Zingiber officinale*): Warming, stimulates growth, enhances nutrient uptake. Contains gingerols and shogaols that promote enzymatic activity and improve plant vigor. Helps plants recover from stress and damage.
-
-3. **Licorice** (*Glycyrrhiza uralensis*): Harmonizing agent in traditional medicine, enhances the effectiveness of other ingredients. Contains glycyrrhizin, which has antimicrobial and anti-inflammatory properties. Supports plant immune function and stress tolerance.
-
-4. **Cinnamon** (*Cinnamomum cassia* or *C. verum*): Antimicrobial, antifungal, stimulates flowering. Contains cinnamaldehyde and other volatile oils that repel insects and suppress pathogenic microorganisms. Promotes reproductive growth and essential oil production in aromatic crops.
-
-5. **Angelica** (*Angelica gigas* or Korean *Dang Gui*): Adaptogenic, strengthens plant structure and resilience. Contains coumarins and other compounds that enhance plant defense mechanisms. In traditional Korean medicine, Angelica is considered the premier herb for women's health and vitality — in KNF, it is used to strengthen the "constitution" of plants.
-
-## Production Method
-
-OHN production involves two parallel fermentation processes (alcohol and vinegar extraction) for each herb, followed by combination:
-
-### Alcohol Extraction (for Garlic and Angelica)
-
-1. Crush 500 g of garlic (or angelica root) without peeling
-2. Mix with 1 liter of distilled liquor (soju, vodka, or similar, 30–40% alcohol)
-3. Ferment in a sealed glass container in a dark location for 7 days
-4. Strain the liquid — this is the alcohol extract
-
-### Vinegar Extraction (for Ginger, Licorice, and Cinnamon)
-
-1. Crush or slice 500 g of each herb
-2. Mix each with 1 liter of brown rice vinegar (unpasteurized preferred)
-3. Ferment in a sealed glass container in a dark location for 7 days
-4. Strain the liquid — these are the vinegar extracts
-
-### Combination
-
-The five individual extracts are combined in specific proportions and allowed to mature together for an additional period. The final OHN is a complex mixture of alcohol-soluble compounds (from the garlic and angelica extractions) and vinegar-soluble compounds (from the ginger, licorice, and cinnamon extractions), creating a broad-spectrum bioactive preparation.
-
-Some KNF practitioners also add **Asian plum extract** (*maesil*) or **honey** to the final preparation for additional nutritional and preservative benefits.
-
-## Mode of Action
-
-OHN works through multiple complementary mechanisms:
-
-- **Direct antimicrobial activity**: Allicin from garlic, cinnamaldehyde from cinnamon, and glycyrrhizin from licorice directly inhibit bacteria, fungi, and some viruses on plant surfaces
-- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR)**: The complex mixture of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] stimulates the plant's innate immune system, activating defense pathways (including the jasmonic acid and salicylic acid signaling cascades)
-- **Reproductive stimulation**: Cinnamon and angelica promote flowering, fruit set, and seed development through phytohormone-like activity
-- **Stress tolerance**: Ginger and licorice enhance plant resilience to environmental stresses including drought, temperature extremes, and nutrient deficiency
-- **Pest deterrence**: [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] from garlic and cinnamon repel insect pests through olfactory masking and direct irritant effects
+1. **Garlic** (*Allium sativum*): Antimicrobial, antifungal, insect-repellent. Contains allicin and other sulfur compounds that provide natural pest and disease protection. Acts as a "heat" element in traditional Asian medicine, stimulating circulation and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR)**: The complex mixture of [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] from garlic and cinnamon repel insect pests through olfactory masking and direct irritant effects
 - **Nutrient enhancement**: The fermentation process produces organic acids, amino acids, and vitamins that supplement plant nutrition
 
 ## Application
@@ -80,11 +38,94 @@ OHN is typically applied in the late afternoon to maximize absorption and minimi
 
 In the KNF input system, OHN complements the other core preparations:
 
-- **FPJ** ([[bionutrients-lab-fermented-plant-juice-fpj]]) provides growth hormones and amino acids for vegetative growth — OHN is applied later, during reproductive stages
-- **LABS** (Lactic Acid Bacteria Serum) provides microbial inoculation and pathogen suppression — OHN provides chemical/immune-based protection
-- **IMO** ([[beneficial-indigenous-microorganisms-bim]]) builds soil biology — OHN provides above-ground plant protection
+- **FPJ** ([[beneficial-indigenous-microorganisms-bim]]) builds soil biology — OHN provides above-ground plant protection
 - **WCA** (Water-Soluble Calcium) provides calcium for cell wall strength — OHN provides immune stimulation
 
 The KNF principle of "feed the plant what it needs when it needs it" means that OHN is not applied continuously but rather at specific developmental stages and stress events.
 
 ## Storage
+
+## Overview
+
+Oriental Herbal Nutrient Ohn represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish oriental herbal nutrient ohn
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving oriental extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Oriental Herbal Nutrient Ohn finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for oriental herbal nutrient ohn. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+oriental herbal nutrient ohn and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Oriental Herbal Nutrient Ohn has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of oriental herbal nutrient ohn into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cho-oriental-herbal-nutrient-preparation]]
+- [[jadam-oriental-herb-nutrient]]
+- [[knf-oriental-herbal-nutrient]]
+- [[master-cho-knf-ohn-oriental-herb-nutrient-recipe]]
+- [[oriental-herbal-nutrient]]

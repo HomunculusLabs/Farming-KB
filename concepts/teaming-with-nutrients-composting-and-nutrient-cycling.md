@@ -16,31 +16,11 @@ sources:
 
 # Composting and Nutrient Cycling
 
-Nutrient cycling is the process by which the fourteen essential mineral nutrients move from soil into plants, through the food web, and back to soil. Understanding this cycle is central to [[teaming-with-microbes-compost-biology]] that cycles organic materials into plant-available nutrients. Compost does contain nutrients because organic matter and any clay in it contribute to cation exchange capacity (CEC).
-
-A critical caveat: compost must be fully composted. Partially composted material can create problems including nitrogen tie-up, where the composting process completes next to the plant instead of in a pile, robbing the plant of available nitrogen as microbes consume it to finish decomposition.
-
-## The Nitrogen Cycle
-
-Atmospheric nitrogen (N2) is tightly bound by triple covalent bonds and unavailable to plants. Specialized microorganisms (diazotrophs) break these bonds through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Symbiotic bacteria (Rhizobia on legumes, [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] (95% of plants) for uptake. More than 22 million tons of phosphorus are applied to fields every year, and mined supplies are projected to be insufficient within 30-40 years.
-
-Phosphorus is a component of DNA, RNA, and the ATP molecule -- the energy currency of cells. Breaking phosphorus bonds in ATP produces energy; making them stores it. Phosphorus is also a major component of cell membranes as part of phospholipids. When phosphorus is low, leaves turn bluish green from sugar accumulation that cannot be used for lack of energy.
-
-## Potassium, Calcium, Magnesium, and Sulfur
-
-Potassium (K) is the only essential nutrient not a constituent of any structural part of plants. It regulates water movement, controls stomatal opening through guard cells, and activates more than sixty enzymatic reactions. Potassium is mobile in plants and held loosely by clay and organic matter. Calcium (Ca) is a key structural component of cell walls and functions as a signaling molecule. It is immobile once assimilated, so deficiencies appear first in growing areas.
-
-Magnesium (Mg) is the center of the chlorophyll molecule (C55H72MgN4O5) -- no magnesium, no photosynthesis. When magnesium is deficient, chlorophyll cannot be synthesized and leaves lose their green color between veins (interveinal chlorosis), with older leaves showing symptoms first. Magnesium also activates ATP enzymes and is needed for DNA and RNA creation.
-
-Sulfur (S) is a component of amino acids cysteine and methionine, which influence protein structure and [[arbuscule-isolation-metabolic-activity-assays]]. Sulfur is not mobile in plants, so deficiency yellowing appears first in younger leaves -- distinguishing it from nitrogen deficiency. Stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making organic matter and gypsum rock increasingly important.
+Nutrient cycling is the process by which the fourteen essential mineral nutrients move from soil into plants, through the food web, and back to soil. Understanding this cycle is central to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Symbiotic bacteria (Rhizobia on legumes, [[arbuscule-isolation-metabolic-activity-assays]]. Sulfur is not mobile in plants, so deficiency yellowing appears first in younger leaves -- distinguishing it from nitrogen deficiency. Stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making organic matter and gypsum rock increasingly important.
 
 ## Silicon (Si) -- A Beneficial Element
 
-Silicon is not considered essential for most plants, though some families (Equisetaceae -- horsetail) cannot survive without it. Silicon improves [[dighton-fungal-drought-tolerance-plant-water-relations]] by forming a waterproof layer in epidermal cells and helps ward off insects, possibly by mimicking carbon compounds to block pathogens. Over 90% of Earth's crust is composed of silicate minerals. Silicon is not mobile in plants, so deficiencies appear on younger leaves.
-
-## Humus: The End Product
-
-Humus is the stable end product of complete composting. It represents fully decomposed organic matter that provides long-term soil benefits: high CEC for nutrient retention, improved soil structure with pore spaces for air and water, [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms, and buffering capacity against pH changes. You cannot develop humus without organic matter and the microbes that decompose it. CEC ranges from 0 to 100, with pure humus at the maximum.
+Silicon is not considered essential for most plants, though some families (Equisetaceae -- horsetail) cannot survive without it. Silicon improves [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms, and buffering capacity against pH changes. You cannot develop humus without organic matter and the microbes that decompose it. CEC ranges from 0 to 100, with pure humus at the maximum.
 
 ## Earthworm Castings
 
@@ -48,12 +28,7 @@ Earthworm castings concentrate nutrients dramatically compared to source soil: 1
 
 ## Soil Food Web Integration
 
-The soil food web is the engine of nutrient cycling. Bacteria and fungi break down organic matter; protozoa and nematodes consume bacteria, releasing plant-available ammonium; mycorrhizal fungi deliver phosphorus, copper, zinc, and nitrogen to roots; and all contribute to soil structure through their physical activities and metabolic byproducts. This interconnected web of life is why [[teaming-with-nutrients-micronutrients-and-trace-elements]] and for interpreting soil test results. A holistic approach that addresses the entire nutrient spectrum through organic matter and biological activity tends to avoid these antagonisms more effectively than targeted synthetic supplementation.
-
-## Cover Crops and Green Manures in Nutrient Cycling
-
-Cover crops and green manures are among the most powerful tools for maintaining nutrient cycling in organic systems. Leguminous cover crops (clover, vetch, peas, beans) fix atmospheric nitrogen through their [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]
-- [[composting-science-solomon]]
+The soil food web is the engine of nutrient cycling. Bacteria and fungi break down organic matter; protozoa and nematodes consume bacteria, releasing plant-available ammonium; mycorrhizal fungi deliver phosphorus, copper, zinc, and nitrogen to roots; and all contribute to soil structure through their physical activities and metabolic byproducts. This interconnected web of life is why [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]
 - [[growing-beans-peas-legume-guide]]
 
 The interplay between these cycles -- nitrogen fixation, phosphorus weathering, potassium release, and organic matter decomposition -- creates a dynamic system that healthy soils maintain in balance. The gardener's role is to feed this system through organic inputs and minimize exports.
@@ -91,3 +66,85 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Teaming With Nutrients Composting And Nutrient Cycling represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish teaming with nutrients composting and nutrient cycling
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving teaming extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Teaming With Nutrients Composting And Nutrient Cycling finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for teaming with nutrients composting and nutrient cycling. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+teaming with nutrients composting and nutrient cycling and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Teaming With Nutrients Composting And Nutrient Cycling has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of teaming with nutrients composting and nutrient cycling into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[teaming-with-microbes-arthropods]]
+- [[teaming-with-microbes-humus-formation-and-glomalin]]

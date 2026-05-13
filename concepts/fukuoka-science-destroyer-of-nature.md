@@ -22,43 +22,11 @@ The fact of the matter is that as medicine becomes more advanced and the number 
 
 ## Agricultural Progress as Rescue from Self-Inflicted Harm
 
-Agricultural progress has really consisted of nothing more than resorting to passive rescue efforts through agriculture when the rice grew diseased and unhealthy and yields fell. Although [[comparison-natural-farming-vs-permaculture]] was capable of growing and yielding eight and even twelve bushels per quarter-acre, man destroyed the soil and he destroyed the rice by breeding new, weaker varieties.
+Agricultural progress has really consisted of nothing more than resorting to passive rescue efforts through agriculture when the rice grew diseased and unhealthy and yields fell. Although [[fukuoka-critique-western-dietetics-nutritional-science]].
 
-Scientists think they have been conducting research to increase yields, but all they have actually been doing is to develop techniques for reducing declines in yield. In a sense, what agricultural science boils down to is this: First man creates unnatural and incomplete conditions. Then he develops fields of learning and technology to restore the productivity of the land. Finally, when these appear to achieve the desired aims, he brands them proudly for all to see.
-
-## Universities as Creators of Doubt
-
-Colleges are places that create and dispense doubt. They generate an endless procession of doubts and riddles, making it necessary to set up new classrooms and laboratories for solving these and to add on more faculty members. The more progress that is made in the fields of learning, the larger the school grows, until eventually it reaches gargantuan proportions.
-
-Man has created enough universities to flood the world. These have grown and thrived to such an extent because the world we live in has become so complex and incomprehensible. The universities have thrived because our doubts and questions have multiplied. While humanity has gone further astray, the universities that were meant to correct our benighted state have just grown and grown.
-
-## The Endless Hell of the Intellect
-
-The world used to be simple. You merely noticed in passing that you got wet by brushing against the drops of dew while meandering through the meadow. But from the time people undertook to explain this one drop of dew scientifically, they trapped themselves in the endless hell of the intellect.
-
-Water molecules are made up of atoms of hydrogen and oxygen. People once thought that the smallest particles in the world were atoms, but then they found out that there was a nucleus inside the atom. Now they have discovered that within the nucleus there are even tinier particles. Among these nuclear particles, there are hundreds of different varieties and no one knows where the examination of this minute world will end.
-
-The scientists who rejoiced when rocks were brought back from the moon have less grasp of the moon than the children who sing out, "How old are you, Mr. Moon?" Basho could apprehend the wonder of nature by watching the reflection of the full moon in the tranquillity of a pond.
-
-## Science's Illusion of Conquest
-
-How is it that people think science is beneficial to humanity? The fuel is the same plant matter. The oil and kerosene just followed a longer path in getting here. Now they are saying that the fossil fuels are not enough, and that we need to develop atomic energy. To search out the scarce uranium ore, compress it into radioactive fuel and burn it in a huge nuclear furnace is not as easy as burning dried leaves with a match. Moreover, the hearth fire leaves only ashes, but after a nuclear fire has burned, the radioactive waste remains dangerous for many thousands of years.
-
-## Natural Farming Produces Comparable Harvests
-
-In farming, there is little that cannot be eliminated. Prepared fertilizer, herbicide, insecticide, machinery -- all are unnecessary. But if a condition is created in which they become necessary, then the power of science is required.
-
-Fukuoka demonstrated in his fields that [[fukuoka-critique-western-dietetics-nutritional-science]].
-
-The image of the "endless hell of the intellect" is one of Fukuoka's most powerful metaphors. Each answer generates new questions; each discovery reveals new depths of complexity. The scientist, like the mountain climber in [[fukuoka-four-principles-natural-farming]] demonstrates. By eliminating the practices that create dependency (tilling, fertilizing, weeding, spraying), one also eliminates the need for the scientific knowledge that supports those practices.
-
-The comparison between natural farming and [[fukuoka-critique-scientific-agriculture-civilization]] is devastating. Natural farming produces comparable yields with a fraction of the labor, no chemical inputs, and no dependence on external expertise. If the results are the same, then the simpler method is obviously superior. But the agricultural establishment, as described in [[fukuoka-agriculture-run-amok]] and [[fukuoka-critique-western-dietetics-nutritional-science]]
-
-- [[fukuoka-science-continues-rampage]]
+The image of the "endless hell of the intellect" is one of Fukuoka's most powerful metaphors. Each answer generates new questions; each discovery reveals new depths of complexity. The scientist, like the mountain climber in [[fukuoka-critique-scientific-agriculture-civilization]] is devastating. Natural farming produces comparable yields with a fraction of the labor, no chemical inputs, and no dependence on external expertise. If the results are the same, then the simpler method is obviously superior. But the agricultural establishment, as described in [[fukuoka-critique-western-dietetics-nutritional-science]]
 
 - [[fukuoka-road-back-to-nature-overview]]
-
-- [[fukuoka-critique-modern-agriculture]]
 
 - [[natural-farming-vs-organic-farming]]
 ## Practical Considerations
@@ -109,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[permaculture]]
-- [[natural-farming]]
 - [[fukuoka-scalpel-beautiful-woman-science-nature]]
 - [[fukuoka-textdoc-science-fragmentation-blind-men-elephant-nature]]

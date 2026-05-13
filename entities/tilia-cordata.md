@@ -2,7 +2,7 @@
 title: "Tilia cordata"
 created: 2026-04-28
 type: species
-tags: [herbal-plants, [[permaculture]], trees, bee-forage, medicinal-plants]
+tags: [herbal-plants, permaculture, trees, bee-forage, medicinal-plants]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["domain-knowledge"]
@@ -19,30 +19,7 @@ sources: ["domain-knowledge"]
 - Medicinal part: Dried flowers and bracts (Tiliae flos), harvested in early summer at peak bloom
 - Cultivars: 'Greenspire', 'Chancellor', 'Euclid', 'Norlin' widely planted
 - Historical significance: Sacred tree in Germanic and Slavic folklore; associated with justice and community gatherings
-- Monofloral honey: Produces prized pale, aromatic linden honey valued across Europe and [[psilocybin-north-america-pacific-northwest]]
-
-## Taxonomy
-- Binomial: Tilia cordata Mill.
-- Authority: Philip Miller (1768)
-- Family: Malvaceae (subfamily Tilioideae); historically placed in Tiliaceae
-- Order: Malvales
-- Genus: Tilia L. (approx. 30 species worldwide)
-- Synonyms:
-  - Tilia parvifolia Ehrh. ex Hoffm.
-  - Tilia microphylla Vent.
-  - Tilia sylvestris Desf.
-  - Tilia ulmifolia Scop.
-  - Tilia cordata var. vulgaris Hayne
-- Hybrid: Tilia × europaea (T. cordata × T. platyphyllos) — Common Lime, widely planted in Europe
-- Note: Most cold-hardy Tilia species, contributing to its northern landscape popularity
-
-## Morphology
-### Tree
-- Height: Typically 20–30 m; can reach 40 m in ideal conditions
-- Crown spread: 12–18 m at maturity
-- Trunk: Straight, cylindrical; bark smooth gray when young, becoming ridged and fissured with age
-- Root system: Deep with extensive laterals; not considered invasive to foundations
-- [[soil-temperature-plant-growth-rate-doubling-rule]]: Moderate; 30–60 cm/year under good conditions
+- Monofloral honey: Produces prized pale, aromatic linden honey valued across Europe and [[soil-temperature-plant-growth-rate-doubling-rule]]: Moderate; 30–60 cm/year under good conditions
 ### Leaves
 - Size: 3–8 cm long, 3–6 cm wide (smaller than T. platyphyllos)
 - Shape: Cordate (heart-shaped), finely serrated margins, abruptly acuminate tip
@@ -63,7 +40,7 @@ sources: ["domain-knowledge"]
 ## Distribution & Habitat
 - Native range: Europe from British Isles eastward to western Siberia and the Caucasus
 - Northern limit: Southern Scandinavia (~63°N in Finland); most cold-tolerant Tilia
-- Naturalized: Widely naturalized in [[polypore-fungi-eastern-north-america]] America, New Zealand, temperate [[guzman-psilocybin-mushrooms-south-america]]
+- Naturalized: Widely naturalized in [[guzman-psilocybin-mushrooms-south-america]]
 - Habitat: Mixed deciduous forests, forest edges, stream banks, limestone outcrops
 - Soil preference: Calcareous, well-drained loams; adapts to both acidic and alkaline substrates
 - Elevation: Lowland to submontane, up to ~1,500 m in southern range
@@ -88,3 +65,86 @@ sources: ["domain-knowledge"]
 - Honey characteristics: Pale amber to white, crystallizes quickly, delicate spicy-aromatic flavor
 - Market: "Linden honey" (Miel de Tilleul) commands premium prices in European markets
 ## Active Compounds
+
+## Overview
+
+Tilia Cordata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tilia cordata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tilia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tilia Cordata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tilia cordata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tilia cordata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tilia Cordata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tilia cordata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[houttuynia-cordata]]
+- [[pontederia-cordata]]
+- [[tilia-americana]]

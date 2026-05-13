@@ -10,39 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 # Lactobacillus
 
-*Lactobacillus* is a genus of Gram-positive, facultatively anaerobic, rod-shaped bacteria that are among the most important microorganisms in food fermentation, human health, and sustainable agriculture. As the primary agents of **lactic acid fermentation**, species of *Lactobacillus* convert sugars into lactic acid, creating the acidic environments that preserve food, inhibit pathogens, and shape the [[fukuoka-microbial-ecology-decomposition]] of diverse habitats from the human gut to agricultural soils.
-
-## Taxonomy
-
-The genus *Lactobacillus* was historically one of the largest genera in the family Lactobacillaceae, encompassing over 200 described species. In 2020, a comprehensive taxonomic reclassification based on whole-genome sequencing split the genus into 25 genera, including *Lactobacillus sensu stricto*, *Lactiplantibacillus*, *Limosilactobacillus*, *Lacticaseibacillus*, and others. However, the name *Lactobacillus* remains widely used in both scientific and practical contexts to refer to lactic acid bacteria (LAB) generally.
-
-Key species and their primary associations include:
-
-- *Lactobacillus acidophilus*: Human probiotic, dairy fermentation
-- *Lactobacillus plantarum* (*Lactiplantibacillus plantarum*): Plant fermentations, soil, human gut
-- *Lactobacillus brevis*: Beer, pickles, silage
-- *Lactobacillus buchneri*: Silage, sourdough
-- *Lactobacillus rhamnosus*: Probiotic supplements, fermented dairy
-- *Lactobacillus casei*: Cheese, probiotic beverages
-- *Lactobacillus delbrueckii*: Yogurt, cheese
-- *Lactobacillus fermentum*: Fermented foods, sourdough
-
-## Metabolism
-
-*Lactobacillus* species are facultative heterofermentative or obligately homofermentative organisms. They produce lactic acid as the primary metabolic end product of carbohydrate fermentation:
-
-- **Homofermentative species** (e.g., *L. delbrueckii*) convert glucose almost exclusively to lactic acid via the Embden-Meyerhof pathway
-- **Heterofermentative species** (e.g., *L. brevis*, *L. plantarum*) produce lactic acid along with ethanol, acetic acid, and carbon dioxide via the phosphoketolase pathway
-
-The acidic environment created by lactic acid production (pH typically dropping to 3.5–4.5) serves as a powerful preservative by inhibiting the growth of spoilage organisms and foodborne pathogens.
-
-## Role in Food Fermentation
-
-*Lactobacillus* species are the primary agents in many of the world's most important fermented foods:
-
-- **Dairy**: Yogurt, cheese, kefir, buttermilk, and cultured butter rely on *Lactobacillus* species in combination with *Streptococcus thermophilus* and other LAB
-- **Vegetables**: Sauerkraut, kimchi, and pickles are produced by spontaneous or directed *Lactobacillus* fermentation
-- **Grains**: [[query-how-to-make-sourdough-bread-at-home]], porridge, and traditional cereal beverages depend on *Lactobacillus* for acidification and flavor development
+*Lactobacillus* is a genus of Gram-positive, facultatively anaerobic, rod-shaped bacteria that are among the most important microorganisms in food fermentation, human health, and sustainable agriculture. As the primary agents of **lactic acid fermentation**, species of *Lactobacillus* convert sugars into lactic acid, creating the acidic environments that preserve food, inhibit pathogens, and shape the [[query-how-to-make-sourdough-bread-at-home]], porridge, and traditional cereal beverages depend on *Lactobacillus* for acidification and flavor development
 - **Beverages**: Kombucha (in combination with yeasts), traditional fermented beverages
 
 ## Role in Human Health
@@ -50,19 +18,9 @@ The acidic environment created by lactic acid production (pH typically dropping 
 *Lactobacillus* species are among the most widely studied and commercially used **probiotic** organisms. Documented health benefits include:
 
 - **Gastrointestinal health**: Maintenance of gut barrier integrity, competitive exclusion of pathogens, and modulation of intestinal immune responses
-- **[[cancer-immune-modulation-mechanisms]]**: Enhancement of mucosal immunity, including increased secretory IgA production
-- **Metabolic effects**: Improved lactose digestion, cholesterol metabolism, and short-chain fatty acid production
-- **Prevention of antibiotic-associated diarrhea**: Restoration of gut microbiota after antibiotic treatment
+- **[[comparison-natural-farming-vs-permaculture]] (KNF)** and similar sustainable agriculture systems, *Lactobacillus* species play critical roles:
 
-The human gastrointestinal tract harbors approximately 100 billion *Lactobacillus* cells, primarily in the small intestine and stomach.
-
-## Role in Agriculture and Soil Biology
-
-In the context of **Korean [[comparison-natural-farming-vs-permaculture]] (KNF)** and similar sustainable agriculture systems, *Lactobacillus* species play critical roles:
-
-- **Soil health**: Lactic acid bacteria in soil suppress pathogenic microorganisms, solubilize minerals, and contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-- **Compost acceleration**: LAB inoculation accelerates compost decomposition and reduces odor
-- **Plant [[aact-disease-suppression-mechanisms-ingham]]**: LAB produce bacteriocins and organic acids that inhibit plant pathogens
+- **Soil health**: Lactic acid bacteria in soil suppress pathogenic microorganisms, solubilize minerals, and contribute to [[aact-disease-suppression-mechanisms-ingham]]**: LAB produce bacteriocins and organic acids that inhibit plant pathogens
 - **Manure treatment**: Application of LAB to animal manure reduces ammonia emissions and pathogen loads
 - **KNF inputs**: *Lactobacillus* is the primary organism in **Lactic Acid Bacteria Serum (LABS)**, a key KNF preparation used as a foliar spray, soil drench, and compost inoculant
 
@@ -79,8 +37,90 @@ Beyond food and agriculture, *Lactobacillus* species have industrial application
 
 ## See Also
 
-- [[lactobacillus-brevis]]
 - [[query-how-to-make-lactobacillus-serum-for-plants]]
 
-- [[lactic-acid-bacteria-serum-labs]] — concentrated *Lactobacillus* preparation in KNF
 - [[fermented-plant-juice-fpj]] — complementary KNF fermentation input
+
+## Overview
+
+Lactobacillus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lactobacillus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lactobacillus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lactobacillus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lactobacillus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lactobacillus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lactobacillus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lactobacillus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[lactobacillus-brevis]]
+- [[lactobacillus-casei]]
+- [[lactobacillus-plantarum]]
+- [[query-how-to-make-lactobacillus-serum-for-plants]]

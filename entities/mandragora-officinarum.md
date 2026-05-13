@@ -33,16 +33,8 @@ The flowering scape rises 5 to 15 cm from the center of the leaf rosette,
 bearing 2 to 5 bell-shaped flowers that are greenish-white to purplish-blue,
 approximately 2 to 5 cm long. The fruit is a fleshy, orange to yellowish
 berry, roughly 2 to 5 cm in diameter, resembling a small apple or tomato,
-which has contributed to the plant's association with [[tree-of-knowledge-and-forbidden-fruit-theory]] in
-various mythological interpretations. All parts of the plant contain active
-tropane alkaloids, with the root having the highest concentration.
-
-## Distribution and Habitat
-
-*[[hyoscyamus-niger]] and
-[[mandrake-mandragora-officinarum-in-european-folklore]]
-cannot be equaled by any other plant species. For over two millennia, the
-mandrake root was simultaneously one of the most valued [[allegro-fertility-philosophy-of-the-ancient-near-east]] and
+which has contributed to the plant's association with [[hyoscyamus-niger]] and
+[[allegro-fertility-philosophy-of-the-ancient-near-east]] and
 Mediterranean. The earliest references appear in cuneiform texts from
 Mesopotamia, where the plant was valued for its analgesic and sedative
 properties. The Hebrew Bible mentions mandrake (Hebrew: *dudaim*) in Genesis
@@ -74,7 +66,7 @@ also warning of its lethal toxicity at higher doses.
 
 Mandrake was one of the most potent and important ingredients in the complex
 hallucinogenic preparations attributed to medieval and early modern European
-witches. These brews [[atropa-belladonna]], [[datura-stramonium]]. The
+witches. These brews [[datura-stramonium]]. The
 tropane alkaloids in these mixtures produced vivid visual hallucinations,
 sensations of floating or flying, feelings of bodily transformation, and
 profound dissociation from reality — experiences that formed the experiential

@@ -52,17 +52,7 @@ before they can reach damaging population levels. When an insect population
 surges, the fungi respond with epizootics — disease outbreaks that sweep through
 the pest population, often reducing it by 80 to 100 percent within weeks. This
 natural phenomenon has been observed and documented for centuries, though its
-fungal cause was not understood until the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. Today, researchers
-are learning to harness and enhance these natural epizootics, developing
-mycopesticides that bring the power of fungal pathology directly to agricultural
-fields, greenhouses, and even urban structures.
-
-The pharmaceutical dimension of entomopathogenic fungi adds another layer of
-significance. The genus *Cordyceps* and its relatives have been used in
-traditional Chinese medicine for over a thousand years, prized for their
-purported ability to restore vitality, strengthen the immune system, and prolong
-life. Modern science has validated many of these traditional claims, identifying
-potent [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including cordycepin, adenosine, and various
+fungal cause was not understood until the [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including cordycepin, adenosine, and various
 polysaccharides with immunomodulatory, anti-tumor, and anti-inflammatory
 properties. The wild Himalayan caterpillar fungus (*Ophiocordyceps sinensis*)
 has become the most expensive biological commodity on Earth, with prices reaching
@@ -85,58 +75,17 @@ When a spore lands on the insect cuticle, it adheres using specialized surface
 proteins and begins to germinate. Under favorable conditions of temperature and
 humidity, a germ tube emerges from the spore and differentiates into an
 appressorium — a specialized infection structure that flattens against the
-cuticle surface and generates enormous [[bloomfield-turgor-pressure-and-hyphal-invasion]]. The appressorium then
-produces a narrow penetration peg, which applies mechanical force combined with
-a battery of cuticle-degrading enzymes: proteases that dissolve the protein
-matrix, chitinases that break down the chitin fibers, and lipases that disrupt
-the waxy outer layer. The combined effect is to bore a microscopic hole through
-the insect's armored exoskeleton — a feat comparable to drilling through a tank
-with a biological drill bit.
-
-Once through the cuticle, the fungus enters the hemocoel, the insect's main
-body cavity, where it encounters the insect's immune system. Fungi that survive
-this initial immune challenge proliferate rapidly, producing single-celled
-propagules called blastospores that circulate in the insect's hemolymph (blood).
-The fungal biomass grows exponentially, consuming the insect's nutrients and
-disrupting its metabolism. Many entomopathogenic fungi produce toxins during this
-phase, including beauvericin, bassianolide, and destruxins, which accelerate the
-insect's decline by damaging vital organs and suppressing immune function.
-
-The insect typically dies within three to seven days of infection, depending on
-the fungal species, the insect's size, and environmental conditions. Death
-usually results from a combination of nutrient depletion, tissue damage, and
-toxin-induced organ failure. After death, the fungus completes its life cycle by
-emerging from the insect cadaver and producing spores. Under humid conditions,
-the dead insect becomes a fuzzy, mummified mass of fungal mycelium studded with
-conidiophores bearing new spores — a macabre fruiting body that serves as a
-launching platform for infecting additional hosts. This post-mortem sporulation
-is the key to the fungi's ability to generate epizootics: each dead insect
-becomes a biological weapon capable of infecting dozens or hundreds of new
-victims.
-
-Alternative portals of entry exist as well. Some entomopathogenic fungi can
-## See Also
-
-- [[cordyceps-cultivation]]
+cuticle surface and generates enormous [[cordyceps-cultivation]]
 - mycopesticides-entomopathogenic-fungi
-- [[singh-entomopathogenic-fungi-biocontrol-agents]]
 - [[mycelium-running-presporulating-mycopesticides]]
 - mycoparasitic-fungi-biocontrol-agents
-- [[cordyceps-militaris-cultivation]]
 - [[cordyceps-cultivation]]
-- [[ant-termite-fungal-symbiosis]]
 - [[termite-ant-fungus-gardens]]
-- [[termitomyces-african-mushrooms]]
-- medicinal-mushroom-cultivation-and-use
 - [[the-soil-food-web]]
 
 ## References
 
-- Stamets, Paul. *[[woodlovers-mycelium-running-pathway-technique]]: How Mushrooms Can Help Save the World*.
-  Ten Speed Press, 2005.
-- Singh, Harbhajan. *Mycoremediation: Fungal Bioremediation*. John Wiley &
-  Sons, 2006.
-- Ingham, Elaine. *The Field Guide for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT)*.
+- Stamets, Paul. *[[actively-aerated-compost-tea-aact-brewing]] Tea (AACT)*.
   Soil Foodweb Inc.
 - Eilenberg, Jørgen, and Henrik H. Thomsen. "Fungal Pathogens of Insects."
   In *The Mycota VI*, Springer, 2004.

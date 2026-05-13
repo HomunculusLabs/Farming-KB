@@ -6,15 +6,7 @@ tags:
   - myrtaceae
   - superfruit
   - vitamin-c
-  - [[permaculture]]
-  - amazonian
-  - medicinal-plant
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - McVaugh, R. (1963). "psilocybe-weldenii-tropical-american-neurotropic-species-guzman-1998 Myrtaceae: Myrciaria and Allied
-    Genera." Fieldiana: Botany 29(5): 145-172.
-  - Justi, K.C. et al. (2000). "[[dighton-fungal-nutritional-composition-animal-diets]] and Vitamin C
+  - dighton-fungal-nutritional-composition-animal-diets and Vitamin C
     Stability of Camu-Camu." Archives of Latinoamerican Nutrition 50(4): 405-408.
   - Langguth, H.F. et al. (2015). "Camu-Camu (Myrciaria dubia)." Fruits 70(4).
   - Akter, M.S. et al. (2011). "Camu-Camu: Composition and Health Benefits."
@@ -90,8 +82,11 @@ Camu camu is most notable for its extraordinary vitamin C content:
 - **Anthocyanins:** 50–200 mg/100g, primarily cyanidin-3-glucoside
 
 ## See Also
-- [[psilocybe-weldenii-tropical-american-neurotropic-species-guzman-1998]]
-- [[dighton-fungal-nutritional-composition-animal-diets]]
-- [[psilocybe-columbiana-south-american-neurotropic-species-guzman-1998]]
-- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- dighton-fungal-nutritional-composition-animal-diets
+- nut-tree-cultivation-for-permaculture-food-forests
+- query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle
+
+## See Also
 - [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]
+- [[dighton-fungal-nutritional-composition-animal-diets]]
+- [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]

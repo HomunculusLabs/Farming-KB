@@ -1,9 +1,7 @@
 # Subjective Therapeutic Window for Cannabis Dosing
 
 The subjective therapeutic window is the optimal dose range at which
-cannabis produces desired [[cbd-therapeutic-effects]] without adverse reactions.
-Establishing this personal window is essential for effective medical
-cannabis use, as the vast majority of [[blesching-cannabis-safety-adverse-effects-evidence]] are directly related
+cannabis produces desired [[blesching-cannabis-safety-adverse-effects-evidence]] are directly related
 to consuming cannabis in excess of this range. The concept applies the
 principle that more is not better—with cannabis, taking too little is
 sub-optimal while taking too much can actually increase the very symptoms
@@ -12,15 +10,11 @@ one is attempting to treat.
 ## The Core Principle
 
 Cannabis follows an inverted dose-response curve for many of its
-[[psilocybin-therapeutic-applications]]. A small dose may effectively reduce anxiety, but
-a larger dose of the same strain can multiply anxiety. A moderate dose may
-relieve pain, while an excessive dose may impair function without
-additional [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]. This biphasic response pattern makes precise
+[[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]. This biphasic response pattern makes precise
 personal dosing critical.
 
 The therapeutic window is "subjective" because it varies from person to
-person based on individual [[endocannabinoid-tone-and-emotional-wellness-blesching]], body chemistry, tolerance,
-the specific [[blesching-cannabis-strain-selection-receptor-targeting]] and batch, and the mode of administration.
+person based on individual [[blesching-cannabis-strain-selection-receptor-targeting]] and batch, and the mode of administration.
 
 ## Factors That Determine the Therapeutic Window
 
@@ -31,17 +25,7 @@ cannabis will be experienced:
 
 - **CB1 deficiency**: Patients with neurological disorders or mental
   health challenges may be lacking CB1 activation and would benefit from
-  strains with a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]]
-- **CB2 deficiency**: Patients who are immune-compromised or experience
-  chronic inflammation may be CB2-deficient and would benefit from strains
-  with a lower THC:CBD ratio (higher CBD content)
-
-Understanding one's likely receptor deficiency helps guide strain
-selection before beginning the dosing process.
-
-### Cannabinoid Profile
-
-Different [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] and batches contain different ratios of THC,
+  strains with a higher THC:[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] and batches contain different ratios of THC,
 CBD, CBN, terpenes, and other constituents. Each batch may require
 re-establishing the therapeutic window. A dose that works well with one
 batch may be too strong or too weak with another.
@@ -88,3 +72,79 @@ dosage.
 The most common mistake with edibles is impatience—thinking "I'm not
 feeling anything" and continuing to eat until adverse effects occur.
 Edible cannabis can take 2+ hours to reach full effect on a full stomach,
+
+## Overview
+
+Subjective Therapeutic Window Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish subjective therapeutic window cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving subjective extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Subjective Therapeutic Window Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for subjective therapeutic window cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+subjective therapeutic window cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Subjective Therapeutic Window Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of subjective therapeutic window cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

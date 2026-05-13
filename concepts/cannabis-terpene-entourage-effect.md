@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-cannabis terpene entourage effect refers to the synergistic interactions between the multiple active compounds in cannabis -- including cannabinoids, terpenes, terpenoids, and other plant constituents -- that together produce [[cbd-therapeutic-effects]] greater than the sum of individual isolated components. The [[blesching-cannabis-health-index-autoimmune-conditions]] documents numerous examples of this synergy and emphasizes that researchers are increasingly looking at plant constituents such as terpenoids as important co-factors in inducing therapeutic effects.
+cannabis terpene entourage effect refers to the synergistic interactions between the multiple active compounds in cannabis -- including cannabinoids, terpenes, terpenoids, and other plant constituents -- that together produce [[blesching-cannabis-health-index-autoimmune-conditions]] documents numerous examples of this synergy and emphasizes that researchers are increasingly looking at plant constituents such as terpenoids as important co-factors in inducing therapeutic effects.
 
 ## The Case for Whole-Plant Synergy
 
@@ -27,57 +27,12 @@ Blesching presents a compelling case that isolated cannabinoids may not achieve 
 
 ### THC and CBD Synergy in Cancer Treatment
 
-Research from the California Pacific Medical Center Research Institute (2010) demonstrated that THC and CBD acted synergistically to inhibit brain cancer cell growth by inducing [[reactive-oxygen-species-and-oxidative-stress]] to produce apoptosis. Each cannabinoid works independently in inhibiting cancer cell development, but still greater effect is produced synergistically when THC and CBD are applied together.
-
-In leukemia research, the Department of Oncology at St George's University of London found "clear synergistic interactions between THC and the cytotoxic agents in leukemic cells," confirming that cannabinoids enhance conventional chemotherapy effectiveness.
-
-### THC and CBD Synergy with NSAIDs
-
-Research has demonstrated that CB2 agonists can work synergistically with NSAIDs for pain management, offering the potential for reduced NSAID dosages and fewer side effects.
-
-### CB1 and CB2 Dual Activation
-
-Studies on HIV/AIDS patients suggest it was the synergistic effects induced by activation of both CB1 and CB2 receptors that produced therapeutic outcomes superior to targeting either receptor alone. This dual activation reduced nausea, vomiting, pain, night sweats, and improved quality of life.
-
-### Ceramide Pathway Synergy
-
-In cancer research, therapeutic effects increased synergistically with the rise of ceramide, a naturally occurring lipid, suggesting that cannabinoid-induced cancer cell death involves multiple complementary pathways working in concert.
-
-## Terpenes and Terpenoids as Co-Factors
-
-### (E)-Beta-Caryophyllene
-
-The most extensively documented terpene in the Cannabis Health Index, (E)-beta-caryophyllene (BCP) represents a bridge between the cannabis plant and the dietary/spice world:
-
-- Classified as a sesquiterpene by chemists; considered a functional cannabinoid by pharmacologists
-- Selectively binds to CB2 receptors as a non-psychoactive agonist
-- FDA-approved as a dietary food additive (used as a flavoring agent since the 1930s)
-- Content in [[comparison-cannabis-sativa-vs-cannabis-indica]] ranges from 12% to 35% of [[permaculture-designers-manual-essential-oil-plants]]
-- Content in some spices exceeds that of cannabis (Ashanti pepper: 52-58%)
-- Orally administered (E)-beta-caryophyllene produced strong anti-inflammatory and analgesic effects in animal studies
-- Activates CB2 receptor sites and initiates potent anti-inflammatory actions and protection from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
+Research from the California Pacific Medical Center Research Institute (2010) demonstrated that THC and CBD acted synergistically to inhibit brain cancer cell growth by inducing [[comparison-cannabis-sativa-vs-cannabis-indica]] ranges from 12% to 35% of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - Protects against microbes, inflammation, oxidative stress, pain, and cancer
 
 ### Linalool
 
-Found in basil (Ocimum basilicum), linalool is identified as one of the purified components exhibiting broad-spectrum antiviral activity. It contributes to the aromatic profile and [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] of various cannabis strains.
-
-### Apigenin and Ursolic Acid
-
-Additional basil-derived compounds that showed antiviral activity in Taiwanese research. Apigenin showed the highest activity against HSV-2, while ursolic acid showed the strongest activity against HSV-1. These flavonoids and terpenoids present in cannabis contribute to the plant's overall therapeutic profile.
-
-### Eugenol
-
-A compound purified from clove extracts (also present in some cannabis strains), eugenol inhibits viral DNA synthesis in several strains of herpes and demonstrates antibacterial properties against drug-resistant bacteria.
-
-## Non-Cannabinoid Constituents
-
-The 2009 meta-analysis from the University of Massachusetts Medical School highlighted that non-cannabinoid components (200-250 constituents) of cannabis show anti-inflammatory action independently and synergistically with cannabinoids. These include:
-
-- Flavonoids (apigenin, quercetin, and others)
-- Terpenes and terpenoids (myrcene, pinene, limonene, caryophyllene, linalool)
-- Fatty acids and plant sterols
-- Various [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
+Found in basil (Ocimum basilicum), linalool is identified as one of the purified components exhibiting broad-spectrum antiviral activity. It contributes to the aromatic profile and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
 
 ## Strain Chemistry and the Entourage Effect
 
@@ -118,8 +73,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-indica]]
 - [[cannabis-health-index]]
-- [[cannabis-sativa]]
 - [[doc]]
 - [[pinene]]
+
+## Overview
+
+Cannabis Terpene Entourage Effect represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis terpene entourage effect
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Terpene Entourage Effect finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis terpene entourage effect. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis terpene entourage effect and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Terpene Entourage Effect has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis terpene entourage effect into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

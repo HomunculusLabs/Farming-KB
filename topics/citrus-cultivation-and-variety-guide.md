@@ -19,7 +19,7 @@ sources:
 
 # Citrus Cultivation and Variety Guide
 
-Citrus trees (genus *Citrus*, family Rutaceae) are among the most widely cultivated fruit trees in the world, prized for their aromatic fruits rich in vitamin C, flavonoids, and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. The genus includes sweet oranges, lemons, limes, grapefruits, mandarins, pomelos, and many hybrids. Originating in [[psilocybe-southeast-asia-pacific]], citrus has spread to every subtropical and tropical region and ranks commercially among the top fruit crops globally.
+Citrus trees (genus *Citrus*, family Rutaceae) are among the most widely cultivated fruit trees in the world, prized for their aromatic fruits rich in vitamin C, flavonoids, and [[psilocybe-southeast-asia-pacific]], citrus has spread to every subtropical and tropical region and ranks commercially among the top fruit crops globally.
 
 ## Botanical Overview and Species Classification
 
@@ -53,54 +53,7 @@ The *Citrus* genus is taxonomically complex due to extensive natural hybridizati
 Citrus is fundamentally subtropical and thrives in regions with:
 
 - **Mean annual temperature**: 55–85°F (13–29°C)
-- **Optimal growing range**: 70–90°F (21–32°C) during the [[savory-growing-season-and-non-growing-season-management]]
-- **Minimum winter temperature**: Most commercial citrus requires 28°F (-2°C) as a minimum; sustained freezing kills trees
-- **Chilling requirement**: None — citrus is evergreen and does not require winter chill hours
-
-### Cold Hardiness by Species
-
-| Species | Cold Tolerance | Notes |
-|---------|---------------|-------|
-| Kumquat | 10°F (-12°C) | Most cold-hardy true citrus |
-| Calamansi | 20°F (-7°C) | Can survive brief freezes |
-| Mandarin/Satsuma | 15–20°F (-9 to -7°C) | Satsuma mandarins are the most cold-hardy oranges |
-| Sweet Orange | 24–28°F (-4 to -2°C) | Navel oranges less hardy than Valencias |
-| Grapefruit | 26–28°F (-3 to -2°C) | Sensitive to cold when young |
-| Lemon | 28–30°F (-2 to -1°C) | Very cold-sensitive; Eureka more tender than Lisbon |
-| Lime | 30–32°F (-1 to 0°C) | Least cold-hardy; damage below 32°F |
-| Yuzu | 10°F (-12°C) | Extremely cold-hardy for a citrus |
-| Sudachi | 15°F (-9°C) | Good cold tolerance |
-
-### Heat Tolerance
-
-Citrus tolerates high temperatures well, but sustained temperatures above 100°F (38°C) can cause fruit drop, sunburn on exposed fruit, and reduced photosynthesis. Adequate irrigation is critical during heat waves. Grapefruit and pomelo tolerate heat better than lemons and mandarins.
-
-### Rainfall and Irrigation
-
-- Annual rainfall needs: 35–60 inches (900–1500 mm) for optimal production
-- Citrus requires well-distributed moisture throughout the growing season
-- Drought stress causes reduced fruit size, excessive rind thickness, and increased acidity
-- Flood tolerance is low — waterlogged soil for more than 48–72 hours causes root asphyxiation and Phytophthora root rot
-- Drip irrigation is the most water-efficient method and allows precise control of moisture
-
-### Soil Requirements
-
-- **pH**: 5.5–7.0 (slightly acidic to neutral)
-- **Texture**: Sandy loams to loams are ideal; citrus tolerates sandy soils well but requires more frequent irrigation
-- **Drainage**: Excellent drainage is critical. Heavy clay soils promote root rot.
-- **Salinity tolerance**: Moderate. Lemons and grapefruit are more salt-tolerant than mandarins.
-- **Depth**: At least 3–4 feet (90–120 cm) of well-drained soil for optimal root development
-
-### Sun Exposure
-
-Full sun is essential. A minimum of 6–8 hours of direct sunlight daily for good fruit production. Shaded trees produce less fruit with lower sugar content and thinner rinds.
-
-## Site Selection and Planting
-
-### Site Considerations
-
-- **Frost pockets**: Avoid low-lying areas where cold air accumulates. South-facing slopes are ideal in cooler regions.
-- **[[cervantes-wind-protection-outdoor-cannabis]]**: Young trees are vulnerable to wind damage. Windbreaks of taller trees or structures reduce stress and fruit drop.
+- **Optimal growing range**: 70–90°F (21–32°C) during the [[cervantes-wind-protection-outdoor-cannabis]]**: Young trees are vulnerable to wind damage. Windbreaks of taller trees or structures reduce stress and fruit drop.
 - **Proximity to structures**: In marginal climates, planting near south-facing walls provides radiant heat protection.
 - **Spacing**: Standard trees need 15–25 feet (4.5–7.5 m) between trees. Dwarf varieties can be spaced 8–12 feet (2.5–3.5 m) apart.
 
@@ -123,27 +76,7 @@ Rootstock selection is one of the most important decisions in citrus cultivation
 |-----------|-------|-------------------|----------------|-----------------|
 | **Carrizo citrange** | Semi-dwarf | Good Phytophthora tolerance | Adaptable to many soils | Oranges, mandarins, lemons |
 | **Trifoliate orange (*Poncirus trifoliata*)** | Dwarf | Excellent cold hardiness, tristeza-resistant | Prefers well-drained soils | Satsumas, mandarins |
-| **Flying Dragon trifoliate** | Very dwarf | Cold hardy | [[permplant-carob-drought-tolerant-food-tree]] once established | Container citrus, home gardens |
-| **Rough lemon** | Vigorous | Drought tolerant | Tolerates poorer soils | Lemons (in arid regions) |
-| **Sour orange** | Vigorous | Tristeza-resistant, Phytophthora-resistant | Wide soil adaptability | Oranges, grapefruit |
-| **Swingle citrumelo** | Semi-vigorous | Phytophthora-resistant | Tolerates calcareous soils | Oranges, grapefruit |
-| **Volkamer lemon** | Semi-vigorous | Tolerant of saline soils | Good in sandy, alkaline soils | Lemons |
-| **Macrophylla (Alemow)** | Vigorous | — | Tolerates calcareous soils | Lemons in Mediterranean climates |
-
-## Fertilization
-
-### Macronutrient Requirements
-
-Citrus is a heavy feeder with specific nutrient demands that vary by age and growth stage:
-
-- **Nitrogen (N)**: The most critical nutrient for citrus. Apply 0.1–0.2 lbs N per tree per year of age, up to a maximum of 1.5 lbs N for mature trees. Split applications 3–4 times per year in regions with summer rainfall; 2–3 times in Mediterranean climates.
-- **Phosphorus (P)**: Required in smaller amounts, primarily for young trees. Soil testing guides application; most established citrus trees need minimal P.
-## See Also
-
-- [[avocado-cultivation-and-variety-guide]]
-- [[fig-cultivation-and-variety-guide]] *(if it exists)*
+| **Flying Dragon trifoliate** | Very dwarf | Cold hardy | [[avocado-cultivation-and-variety-guide]]
 - [[loquat-cultivation-and-variety-guide]]
-- [[persimmon-cultivation-and-variety-guide]]
 - [[companion-planting-and-polycultures]]
-- [[integrated-pest-management-ipm]]
 - [[fertilizer-npk-decoded]]

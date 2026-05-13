@@ -23,9 +23,7 @@ For a typical 50-square-foot planting bed, the path requirements break down as f
 - **Raised beds**: ~10 square feet of path -- 20% wasted to access
 - **Keyhole beds**: ~6 square feet of path -- only 12% wasted to access
 
-The keyhole bed puts nearly 88% of the garden area into production, making it ideal for [[sheet-mulching-lasagna-gardening]]. This builds soil while creating the bed.
-
-The lasagna approach follows the standard [[lowenfels-earthworms-soil-food-web]].
+The keyhole bed puts nearly 88% of the garden area into production, making it ideal for [[lowenfels-earthworms-soil-food-web]].
 
 ## Zone-Based Planting
 
@@ -39,29 +37,10 @@ For outer-row plants that may be hard to reach, stepping on the bed once per sea
 
 ### The Sun Bowl Microclimate
 
-By pointing the central path toward the south and locating tall plants at the back (north) edge, the keyhole bed creates a U-shaped sun bowl that traps warmth. This [[mandala-garden-design]] for detailed layouts.
-
-### Undulating Paths
-
-A winding path flanked by keyhole beds can wrap around a house to create an attractive permaculture-designers-manual-rabbit-housing recognise as among nature's most efficient distribution networks.
-
-### Multiple Keyhole Beds
-
-Several keyhole beds can extend from a central walkway, like fingers from a hand. This layout is highly productive for a [[insectary-plants-for-pest-control]], [[comfrey-multifunctional-guild-plant]], or even a small fruit tree. The bed can also be expanded to fill the corners. Other options include crotolaria (a nitrogen-fixing mulch producer) and other urban-permaculture-edge-effect-and-design-principles:
-
-- **Use small and slow solutions**: Intensive beds that maximize output from minimal space
-- **[[holmgren-obtain-a-yield-detailed]]**: High productivity per square foot
-- **Use [[permaculture-principle-use-edges-and-value-the-marginal]] the marginal**: The curved edge creates more edge -- more interface between path and planting -- than a straight bed
-- **[[permaculture-principle-design-from-patterns-to-details]] to details**: The horseshoe pattern is derived from [[fukuoka-phyllotaxy-natural-branching-law]] and spiral forms
-
-## Companion Elements
-
-Keyhole beds pair naturally with other [[comparison-banana-circle-vs-herb-spiral]] at the centre of a [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
-- [[permaculture-duck-pond-systems]] or water feature nearby for irrigation and habitat
-- [[sheet-mulching-lasagna-gardening]] -- the preferred construction method for keyhole beds
+By pointing the central path toward the south and locating tall plants at the back (north) edge, the keyhole bed creates a U-shaped sun bowl that traps warmth. This [[insectary-plants-for-pest-control]], [[holmgren-obtain-a-yield-detailed]]**: High productivity per square foot
+- **Use [[permaculture-principle-design-from-patterns-to-details]] to details**: The horseshoe pattern is derived from [[comparison-banana-circle-vs-herb-spiral]] at the centre of a [[permaculture-duck-pond-systems]] or water feature nearby for irrigation and habitat
 - [[mandala-garden-design]] -- arranging multiple keyhole beds in a circular pattern
-- [[polyculture-design-hemenway]] -- keyhole beds are ideal for diverse polyculture plantings
-- permaculture-designers-manual-keyhole-garden -- additional [[comparison-keyhole-garden-vs-raised-bed]] layout ideas
+- [[comparison-keyhole-garden-vs-raised-bed]] layout ideas
 ## Practical Considerations
 
 Successful implementation of Keyhole Bed Design requires attention to
@@ -110,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[permaculture]]
-- [[comparison-keyhole-garden-vs-raised-bed]]
 - [[holzer-raised-bed-design-principles]]
 - [[holzer-raised-bed-design]]

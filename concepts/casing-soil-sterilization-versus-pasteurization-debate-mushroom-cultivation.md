@@ -9,9 +9,7 @@ topics: [casing soil, sterilization, pasteurization, microbial ecology, substrat
 ## Overview
 
 The grass seed cultivation guide for *Psilocybe* species takes an unambiguous position
-on [[casing-soil-preparation]]: **sterilize it in a pressure cooker for one hour**. This
-directly contradicts conventional mycological wisdom, which holds that casing soil
-should only be pasteurized to preserve [[forest-and-bamboo-beneficial-microorganisms]]. The guide's authors
+on [[forest-and-bamboo-beneficial-microorganisms]]. The guide's authors
 acknowledge this debate explicitly, noting "we know that some authors advise against
 sterilisation of casing soil because it would kill all the beneficial organisms" but
 concluding "we however have had only bad experiences with untreated or pasteurised
@@ -26,10 +24,7 @@ sterilization of casing soil:
 ### Rationale for Pasteurization
 1. **Beneficial microorganisms**: The casing layer naturally hosts bacteria such as
  *Pseudomonas putida* and actinomycetes that stimulate fruiting body initiation
- in many mushroom species. These bacteria produce volatile [[plant-communication-volatile-organic-compounds]]
- enzymes that trigger the developmental switch from vegetative mycelium to
- reproductive fruiting.
-2. **Biological buffering**: A living [[cannabis-cultivar-microbial-community-effects]] in the casing competes
+ in many mushroom species. These bacteria produce volatile [[cannabis-cultivar-microbial-community-effects]] in the casing competes
  with contaminant molds (particularly *Trichoderma* species), providing
  biological protection that sterile casing lacks.
 3. **Moisture retention**: Microbial polysaccharides help maintain casing structure
@@ -117,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[casing-soil-sterilization-versus-pasteurization-debate]]
 - [[mushroom-cultivation]]
-- [[sterilization]]
 - [[casing-soil-sterilisation-debate-mushroom-cultivation]]
 - [[casing-soil-sterilization-debate-autoclave-vs-pasteurization]]

@@ -11,11 +11,11 @@ sources: []
 
 ## Overview
 
-Salvinorin A is the primary psychoactive compound found in [[salvia-divinorum]], a species of sage in the mint family (Lamiaceae). It is a neoclerodane diterpene and is notable for being the first known non-nitrogenous opioid receptor agonist. Unlike most classical psychedelics (LSD, psilocybin, DMT), salvinorin A has no nitrogen atom and does not act on [[psilocybin-pharmacology-and-serotonin-receptors]].
+Salvinorin A is the primary psychoactive compound found in [[salvia-divinorum|Salvia divinorum]], a species of sage in the mint family (Lamiaceae). It is a neoclerodane diterpene and is notable for being the first known non-nitrogenous opioid receptor agonist. Unlike most classical psychedelics (LSD, psilocybin, DMT), salvinorin A has no nitrogen atom and does not act on serotonin receptors.
 
 ## Pharmacology
 
-Salvinorin A is a highly selective kappa-opioid receptor (KOR) agonist. This distinguishes it from virtually all other [[psychedelic-substances-comparison]], which primarily target serotonin 5-HT2A receptors.
+Salvinorin A is a highly selective kappa-opioid receptor (KOR) agonist. This distinguishes it from virtually all other psychedelic substances, which primarily target serotonin 5-HT2A receptors.
 
 Key pharmacological properties:
 
@@ -47,7 +47,7 @@ Many users report that the experience is more "forcing" and less controllable th
 
 ### Traditional Quid Method
 
-The [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] uses fresh Salvia divinorum leaves chewed as a quid:
+The Mazatec tradition uses fresh [[salvia-divinorum]] leaves chewed as a quid:
 
 1. Collect 6-28 large fresh leaves
 2. Roll into a ball or cylinder (quid)
@@ -102,23 +102,7 @@ Salvinorin A is unscheduled in many countries but regulated or banned in others.
 
 ## History and Cultural Context
 
-Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid [[cannabinoid-receptors-cb1-cb2]].
-
-## Practical Applications
-
-The principles outlined here find application across multiple domains including research, education, and practical implementation. Understanding the underlying mechanisms enables more effective application in real-world scenarios.
-
-## Key Considerations
-
-When applying these concepts, several factors warrant attention: environmental conditions, regional climate variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
-
-## See Also
-
-- [[soil-amendment-reference]]
-- [[shirota-psilocin-spectral-characterization-forensic-reference-standard]]
-- [[seed-starting-reference]]
-- [[seed-company-supplier-reference]]
-- [[salvinorin-pharmacology]]
+Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional healing and divination ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid receptor pharmacology.
 
 ## See Also
 

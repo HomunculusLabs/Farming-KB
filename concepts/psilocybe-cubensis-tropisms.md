@@ -14,16 +14,8 @@ type: concept
 ## Overview
 
 Badham (1982) studied the directed growth responses (tropisms) of
-[[psilocybe-cubensis]] basidiocarps in a controlled wind tunnel environment,
-identifying two distinct phases of tropic response during fruiting body
-development. The research demonstrated that stipe growth direction is influenced
-by [[mushroom-anemotropism]] (wind response) during early development, followed
-by a [[mushroom-negative-geotropism]] (gravity response) linked to spore
-production. The study was based on approximately 100 developing basidiocarps.
-
-## Developmental Stages
-
-Badham defined four stages of P. cubensis [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]] relevant to
+[[mushroom-anemotropism]] (wind response) during early development, followed
+by a [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]] relevant to
 tropic behavior:
 
 ### Stage 1 — Early Pileus Swelling
@@ -34,7 +26,7 @@ stream.
 
 ### Stage 2 — Spherical Pileus
 The pileus becomes nearly spherical. This stage marks the transition point where
-[[mushroom-anemotropism]] begins to be masked by [[mushroom-negative-geotropism]].
+[[mushroom-negative-geotropism]].
 Spore production initiates, and the stipe begins to curve upward (negative
 geotropic response) regardless of wind direction.
 

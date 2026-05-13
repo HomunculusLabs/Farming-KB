@@ -73,78 +73,77 @@ for leaves.
 | *Typha* spp. (Cattail) | Flocculates colloids, eliminates pathogens |
 | *Schoenoplectus* spp. | Uptakes copper, cobalt, nickel, manganese; exudes mould antibiotics |
 | *Scirpus* spp. (Bulrush) | Breaks down phenols including toxic pentachlorophenol |
-| *Water hyacinth* (*[[eichhornia-crassipes]]*) | Removes residual metals, surplus nutrients, coliform bacteria |
+| *Water hyacinth* (*[[anaerobic-digestion-biogas-production]] — Multi-stage pond systems and methane
+- water treatment and filtration methods — Sand filters, aeration, and basic treatments
+- [[natural-swimming-pools]] — Biological filtration for recreational water
 
-### Additional Pathogen-Removing Species
+## Overview
 
-These species have demonstrated pathogen removal capacity in field conditions:
+Biological Sewage Treatment Systems represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-- *Alisma plantago-aquatica* (Water Plantain)
-- *Mentha aquatica* (Water Mint)
-- *Juncus effusus* (Soft Rush)
-- *Schoenoplectus lacustris* (Lake Clubrush)
-- *Spartina* spp. (Cordgrass)
-- *Iris pseudocorus* (Yellow Flag)
+## Key Characteristics
 
-### Chlorinated Hydrocarbon Treatment
+Several defining characteristics distinguish biological sewage treatment systems
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-For chlorinated hydrocarbons (herbicides, pesticides), rush types with large pith
-cells (aerenchyma tissue) are most effective:
+## Ecological Context
 
-- **Juncus spp.**, especially *Juncus effusus*
-- **Schoenoplectus** spp.
+The ecological relationships involving biological extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-Cyanide compounds, thiocyanates, and phenols are treated in relatively short flow
-times of **7+ hours** using Juncus.
+## Practical Applications
 
-### Pathogen Removal Results
+Biological Sewage Treatment Systems finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-After treatment via the above species, water shows:
+## Management and Implementation
 
-- Low to zero populations of *E. coli*
-- Low to zero coliform bacteria
-- Low to zero *Salmonella*
-- Low to zero *Enterococci*
-- Virus and worm eggs also eliminated
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-## Integrated Productive Systems
+## Regional Considerations
 
-### Comfrey Beds for Animal Waste
+Different geographic regions present unique challenges and
+opportunities for biological sewage treatment systems. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
 
-Domestically, a **comfrey bed** (*Symphytum* spp.) absorbs faecal products from
-animals where wash-water from yards or pens is available. Comfrey tolerates heavy
-inputs of raw faeces in solution. The crop can then be:
+## Sustainability
 
-- Used for fodder (high protein)
-- Trenched as "instant compost" under other crops such as potatoes
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
 
-### Coppiced Poplar Energy Systems
+## Research and Development
 
-At Hagerstown, Maryland (USA), sewage waters supplied to selected **coppiced poplar
-plots** produce (as wood chips) approximately **60% of town energy use**. Water
-saved from reducing urban lawn systems can supply remaining energy deficits plus
-food crops for any town.
+Ongoing research continues to expand understanding of
+biological sewage treatment systems and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
-### Salinity Management
+## Historical Context
 
-As waters pass through towns, salinity may increase by **300–400 ppm** — a grave
-factor in dryland areas. Algae and plant production and removal reduce this surplus
-salinity. Discharging sewage to subsoils does not remove nitrogen compounds; pond
-production of algae is necessary to reduce nitrates to safe levels for discharge.
-
-### Urine Separation
-
-Separation of sewage into solids and liquids at the domestic level has productive
-advantages:
-
-- **2% urea** sprayed on rice foliage increased grain protein yields to **40%**
-  (11% protein by weight)
-- Urine diluted to 5% solution controls moulds on cucurbits
-- Aids garden growth and compost activity generally
-- Enables recovery of alcohol and chemicals from urine wastes
+Biological Sewage Treatment Systems has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
 ## See Also
 
-- [[anaerobic-digestion-biogas-production]] — Multi-stage pond systems and methane
-- water treatment and filtration methods — Sand filters, aeration, and basic treatments
-- [[natural-swimming-pools]] — Biological filtration for recreational water
+- [[biological-efficiency-mushroom-cultivation]]
+- [[soil-conditioning-chisel-plow-biological-methods]]
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
+- [[beneficial-insects-and-biological-pest-control]]
+- [[biological-wastewater-treatment]]

@@ -9,7 +9,7 @@ type: entity
 Osiris is one of the most important deities in the ancient Egyptian pantheon,
 serving as the god of the underworld, death, resurrection, and vegetation. In
 ethnomycological analysis, Osiris represents an anthropomorphized form of the
-*Amanita muscaria* mushroom, with his mythology encoding the mushroom's life
+*[[amanita-muscaria]]* mushroom, with his mythology encoding the mushroom's life
 cycle, ecological relationships, and entheogenic properties. His death and
 resurrection narrative parallels the mushroom's growth, decay, and regeneration.
 
@@ -57,7 +57,7 @@ immortality. This connects to:
   invisible to the naked eye)
 - The concept of the "Fruit of the Tree" — the mushroom as the literal fruit
   of the evergreen
-- The Djed pillar (see below) representing stability and rebirth
+- The [[djed-pillar]] (see below) representing stability and rebirth
 
 ### December 25th Birth
 
@@ -142,9 +142,6 @@ Osiris demonstrates how mushroom symbolism is anthropomorphized into deity form:
 - Ecological relationships (tree symbiosis) become mythological events
 ## See Also
 
-- [[amanita-muscaria]] — The mushroom encoded in Osiris mythology
 - [[siberian-shamanism]] — Another tradition with death/rebirth initiation
-- [[soma]] — Hindu equivalent with entheogenic basis
 - [[feathered-serpent]] — Mesoamerican parallel deity
-- [[holy-grail-entity]] — Another vessel symbol linked to mushroom
 - [[r-gordon-wasson]] — Scholar who studied these connections

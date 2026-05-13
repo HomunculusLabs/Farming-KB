@@ -55,64 +55,7 @@ Rainfall intensity directly determines whether water infiltrates or runs off, an
 
 ### Design Implications of Intensity
 
-The range from light to extreme rainfall means that storage and channel systems must handle enormous variation in flow volume. A system designed for average conditions will fail during extreme events, while over-designing for rare extremes wastes resources. The [[permaculture]] approach uses multiple small, distributed systems that collectively handle the full range.
-
-## Factors Affecting Run-off Volume
-
-### Catchment Size
-
-Small catchments discharge a greater peak flood flow than large catchments for the same rainfall depth. Foothill areas peak to floods much more rapidly than plains. This is because:
-
-- Shorter travel distances mean less time for infiltration
-- Steeper gradients in headwaters accelerate flow
-- Less storage capacity in small catchments dampens peaks
-
-### Stream Gradient
-
-Steep streams discharge more rapidly than downstream areas of gentle gradient. Headwater streams are typically steeper than larger streams in the plains, which are often sand-clogged with wide flood plains. Gradient affects:
-
-- Flow velocity (and hence erosive power)
-- Time available for infiltration
-- Sediment transport capacity
-
-### Storm Size and Extent
-
-Large storms may totally wet a small catchment, causing local floods, whereas the same storm has little downstream effect on a large catchment. In deserts, floods commonly disappear a few kilometres from headwaters except during very widespread rains. Design implications:
-
-- Local storage must handle local storm peaks
-- Downstream structures can be sized for attenuated flows
-- Distributed storage across a catchment is more effective than single large dams
-
-### Storage and Retardation Structures
-
-Dams, retention banks, interception banks, swales, natural swamps, and created swamps all reduce or delay flood peaks:
-
-- **Small streams with high density**: Local soil absorption is very efficient
-- **Large catchments**: Greater dampening capacity when retardation areas are preserved
-- **Lost capacity**: Many natural retardation areas are drained, filled, or built upon, increasing flood risk
-
-### Catchment Form and Drainage Pattern
-
-The shape of the drainage network significantly affects flood behaviour:
-
-- **Dendritic (tree-like) patterns**: Branches join at small angles, creating streamlined flow paths subject to faster flooding
-- **Grid catchments** (fold-mountain or fault areas): Abrupt turns, constricted valleys, and long runs of middle-order streams slow flood propagation
-- **Braided streams**: Common on flat desert areas, spread flow and retard floodwaters
-
-### Drainage Density
-
-Drainage density is the actual length of stream channel per square kilometre. Its effects:
-
-- **High density**: Removes water very efficiently, creating higher and faster flood peaks
-- **Low density**: Sheet flow across flat interfluves retards floodwaters
-- **Braided and broad streams**: Characteristic of flat desert areas, naturally retard flood peaks
-
-### Vegetation Cover
-
-Run-off increases as vegetation is cleared. Each layer of vegetation intercepts and slows water:
-
-- **Crown interception**: Tree canopies break rainfall into smaller drops with less kinetic energy
-- **[[humus]] storage**: Organic matter on the forest floor acts as a sponge
+The range from light to extreme rainfall means that storage and channel systems must handle enormous variation in flow volume. A system designed for average conditions will fail during extreme events, while over-designing for rare extremes wastes resources. The [[humus]] storage**: Organic matter on the forest floor acts as a sponge
 - **Ground interference**: Roots, leaf litter, and stems create surface roughness that slows flow
 
 Even species replacement affects run-off: if tussock grass replaces shrubs on dry hillslopes, the run-off coefficient changes due to differences in canopy structure, root depth, and ground cover characteristics.
@@ -148,22 +91,10 @@ This simplified formula gives order-of-magnitude estimates suitable for initial 
 
 ### The Flash Flood Factor
 
-Rain in the desert falls at approximately 2.5 cm per day for 2–3 days. This intensity produces severe local flooding, particularly dangerous when settlements are located:
+## See Also
 
-- In wadis (dry watercourses)
-- On the upstream side of restricted gaps in hills
-- In hollows near dry watercourses
-
-Design must incorporate oversize channels, drains, infiltration systems, and diversion structures to cope with these high-intensity storms.
-
-## Applying Estimates to Settlement Design
-
-A general profile of water depth and quality from hilltop intake to salt pan determines the strategies for:
-
-- **Settlement placement**: Locating dwellings and infrastructure above flood-prone areas while near reliable water sources
-- **Water system design**: Sizing tanks, swales, and distribution infrastructure
-- **Water quality management**: Positioning intakes above the salt accumulation zone
-- **Water disposal**: Ensuring waste water doesn't contaminate fresh supplies
-- **Overall site design**: Integrating all water elements into a coherent landscape plan
-
-On hill country, frost level and aspect are the second major determinants after water, completing the primary design framework for arid settlement.
+- [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
+- [[mollison-designers-dryland-garden-and-oasis-design]]
+- [[dryland-building-settlements]]
+- [[dryland-soils-and-mineral-nutrition]]
+- [[dryland-salting-causes-and-cautious-approaches]]

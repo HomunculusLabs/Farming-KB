@@ -19,24 +19,13 @@ Kombucha is a lightly effervescent, fermented tea beverage produced through the 
 
 ### Composition and Microbiology
 
-The SCOBY (Symbiotic Culture of Bacteria and Yeast) is not a single organism but a complex, self-assembling biofilm community. The floating mat — often called the "pellicle" or "mushroom" — is primarily composed of bacterial cellulose (nanocellulose) produced by certain acetic [[bionutrients-lab-lactic-acid-bacteria-serum]] as a structural scaffold.
-
-**Key microbial players include:**
-
-- **Acetobacter (Komagataeibacter) xylinum** — The primary cellulose producer. This acetic acid bacterium oxidizes ethanol (produced by yeasts) into acetic acid, giving kombucha its characteristic tartness and creating the protective cellulose pellicle.
-- **Gluconacetobacter** — Produces gluconic acid, contributing sweetness balance and additional [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
+The SCOBY (Symbiotic Culture of Bacteria and Yeast) is not a single organism but a complex, self-assembling biofilm community. The floating mat — often called the "pellicle" or "mushroom" — is primarily composed of bacterial cellulose (nanocellulose) produced by certain acetic [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 - **Zygosaccharomyces** species — Osmotolerant yeasts that initiate fermentation by consuming sucrose and producing ethanol, carbon dioxide, and a range of flavor compounds.
-- **[[saccharomyces-cerevisiae]]** — Brewer's/baker's yeast, commonly present and contributes to ethanol and CO₂ production.
-- **Brettanomyces** (Dekkera) — Wild yeast strains that contribute complex, fruity, or "funky" flavor notes, especially in longer ferments.
 - **[[lactobacillus]]** species — Produce lactic acid, adding subtle tang and contributing probiotic diversity.
 
 ### The Cellulose Pellicle
 
-The floating mat is almost entirely bacterial cellulose — an ultra-pure form of cellulose with a nanofibrillar structure. Unlike [[plant-cellulose-and-carbohydrate-chemistry]], bacterial cellulose contains no lignin or hemicellulose, giving it exceptional water-holding capacity and tensile strength. Each new batch of kombucha produces a new pellicle on the surface, and layers can be separated to start new batches or shared with other brewers.
-
-The pellicle serves several functions:
-- **Physical barrier** — Seals the liquid surface from airborne contaminants and oxygen exposure
-- **Microbial habitat** — Concentrates the [[edaphic-factors-microbial-community-structure]] at the air-liquid interface where oxygen is available for acetic acid bacteria
+The floating mat is almost entirely bacterial cellulose — an ultra-pure form of cellulose with a nanofibrillar structure. Unlike [[edaphic-factors-microbial-community-structure]] at the air-liquid interface where oxygen is available for acetic acid bacteria
 - **CO₂ retention** — Helps maintain carbonation within the fermenting liquid
 
 ## Fermentation Biochemistry
@@ -47,22 +36,11 @@ When sweetened tea is inoculated with SCOBY, the following metabolic cascade occ
 
 1. **Sucrose hydrolysis** — Yeasts produce invertase, splitting sucrose into glucose and fructose
 2. **Ethanol production** — Yeasts (primarily Zygosaccharomyces and Saccharomyces) ferment glucose into ethanol and CO₂ via glycolysis
-3. **Acetic [[staycare-fungal-organic-acid-production-metal-leaching]]** — Acetobacter oxidizes ethanol into acetic acid (CH₃CH₂OH + O₂ → CH₃COOH + H₂O)
-4. **Gluconic acid production** — Gluconacetobacter oxidizes glucose into gluconic acid, a milder acid that doesn't contribute as much sourness
-5. **Cellulose synthesis** — Komagataeibacter polymerizes glucose into β-1,4-glucan chains (cellulose)
-6. **[[antifungal-secondary-metabolites-coprophilous-fungi]]** — A wide range of organic acids (lactic, malic, citric, succinic, usnic), polyphenols, vitamins (B-group, C), amino acids, and trace amounts of ethanol (typically 0.5–2.0% ABV)
+3. **Acetic [[antifungal-secondary-metabolites-coprophilous-fungi]]** — A wide range of organic acids (lactic, malic, citric, succinic, usnic), polyphenols, vitamins (B-group, C), amino acids, and trace amounts of ethanol (typically 0.5–2.0% ABV)
 
 ### Phase 2: Secondary Fermentation (Anaerobic, 1–5 days)
 
-After removing the SCOBY, the liquid is bottled with added sugars, fruits, juices, or herbs. In the sealed bottle, remaining yeasts consume the added sugar and produce CO₂ that cannot escape, [[fukuoka-creating-natural-farm-site-selection-establishment]] carbonation. This is where most flavor experimentation occurs — fruits, herbs, spices, and other botanicals infuse the kombucha while the beverage carbonates.
-
-## Tea Selection and Its Impact
-
-### Black Tea (Camellia sinensis var. assamica)
-
-The traditional and most reliable choice. Black tea provides:
-- High tannin content that supports SCOBY health and pellicle formation
-- [[caffeine]] that stimulates yeast metabolism
+After removing the SCOBY, the liquid is bottled with added sugars, fruits, juices, or herbs. In the sealed bottle, remaining yeasts consume the added sugar and produce CO₂ that cannot escape, [[caffeine]] that stimulates yeast metabolism
 - Theanine for umami depth
 - Robust flavor that stands up well to long fermentation
 
@@ -84,16 +62,7 @@ Semi-oxidized teas create a middle ground with complex, layered flavors. Tieguan
 
 ### Herbal and Decaffeinated Options
 
-Pure herbal teas lack the nitrogen compounds (caffeine, theanine) that support SCOBY health and should not be used as the sole tea. However, blending 25–50% herbal tea with true [[camellia-sinensis]] tea works well. Popular additions include:
-- **Hibiscus** — Vibrant red color and tart cranberry-like flavor
-- **Rooibos** — Naturally sweet, caffeine-free base when blended
-- **Chamomile** — Calming floral notes
-- **Peppermint** — Refreshing and cooling
-
-### Teas to Avoid
-
-- Flavored oils ( Earl Grey's bergamot oil) can inhibit SCOBY growth
-- Herbal teas with strong [[essential-oils-and-hydrosol-distillation]] (peppermint in high concentration, eucalyptus)
+Pure herbal teas lack the nitrogen compounds (caffeine, theanine) that support SCOBY health and should not be used as the sole tea. However, blending 25–50% herbal tea with true [[essential-oils-and-hydrosol-distillation]] (peppermint in high concentration, eucalyptus)
 - Artificially flavored or sweetened teas
 
 ## Sugar Selection

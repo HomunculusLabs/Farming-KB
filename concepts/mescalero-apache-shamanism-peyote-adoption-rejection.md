@@ -38,9 +38,7 @@ likely learned rites from Lipans before 1870 or from northern
 Mexican groups.
 
 Despite documented use, Mescaleros were excluded from early
-peyote distribution [[maps]] and listed as non-users by the Bureau
-of Indian Affairs. Opler's 1930s fieldwork revealed forty years
-of elaborate [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] and Lipan shamanistic peyote use.
+peyote distribution [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] and Lipan shamanistic peyote use.
 
 ## Apache Religious Philosophy
 
@@ -90,8 +88,6 @@ the Mescaleros never joined the Peyote Religion. Peyote use was intended to affi
 traditional practices during reservation confinement. But
 
 ## See Also
-- [[harner-mescalero-peyote-shamanism]]
 - [[mescalero-apache-peyote-use]]
-- [[turner-mescaline-peyote-san-pedro-experience]]
 - [[peyote-and-psychoactive-cacti]]
 - [[peyote-cultivation]]

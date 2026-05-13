@@ -1,5 +1,5 @@
 ---
-title: Solar Food Dehydrator Diy
+title: Solar Food Dehydrator DIY
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -35,7 +35,7 @@ The simplest design. The food sits in an insulated box with a glass or plastic l
 
 The solar collector and the drying chamber are separate. Air is heated in a collector panel, then flows through the drying chamber where the food trays are located.
 
-- **Pros:** Food not exposed to direct sun (better nutrient retention), more even drying, better [[hamilton-greenhouse-heating-and-temperature-control]]
+- **Pros:** Food not exposed to direct sun (better nutrient retention), more even drying, better temperature control
 - **Cons:** Larger, more complex to build, heavier
 - **Best for:** Fruits, vegetables, jerky, consistent batch drying
 
@@ -52,7 +52,7 @@ A hybrid design that uses both direct solar gain on the top and indirect heated 
 
 - **Plywood or OSB:** For the box/frame. Exterior-grade plywood preferred.
 - **2x2 or 2x4 lumber:** For framing
-- **Insulation:** Rigid foam board (EPS or XPS), recycled denim batting, or natural [[mollison-designers-wool-insulation-and-natural-textiles]]. R-5 to R-10 is sufficient.
+- **Insulation:** Rigid foam board (EPS or XPS), recycled denim batting, or natural wool insulation. R-5 to R-10 is sufficient.
 - **Absorber plate:** Sheet metal (aluminum or steel) painted flat black. Corrugated metal increases surface area.
 - **Black paint:** High-temperature flat black paint for the absorber plate
 
@@ -72,13 +72,13 @@ A hybrid design that uses both direct solar gain on the top and indirect heated 
 
 - **Intake vent:** Low on the collector side (cool air in). Adjustable — use a sliding cover to control airflow.
 - **Exhaust vent:** High on the opposite end (warm moist air out). Also adjustable.
-- **Vent sizing:** Approximately 1 square inch of vent area per [[comparison-biointensive-vs-square-foot-gardening]] of collector, per vent. Adjustable vents allow fine-tuning.
+- **Vent sizing:** Approximately 1 square inch of vent area per square foot of collector, per vent. Adjustable vents allow fine-tuning.
 
 ## Sizing Your Dehydrator
 
 ### Collector Area
 
-A good rule of thumb: 1 [[comparison-deep-bed-cultivation-vs-square-foot-gardening]] of collector area per square foot of drying tray area. For a dehydrator with 4 square feet of tray space, build a 4 square foot collector.
+A good rule of thumb: 1 square foot of collector area per square foot of drying tray area. For a dehydrator with 4 square feet of tray space, build a 4 square foot collector.
 
 ### Common Sizes
 
@@ -104,7 +104,7 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 - **Vent adjustment:** Open vents to lower temperature, close vents to raise temperature
 - **Collector angle:** Adjust the tilt of the collector panel toward or away from the sun
 - **Shade cloth:** Drape shade cloth over part of the collector on very hot days
-- **Baffle or reflector:** Adjustable internal baffles can redirect or block [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
+- **Baffle or reflector:** Adjustable internal baffles can redirect or block solar energy
 
 ### Monitoring
 
@@ -140,11 +140,10 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 3. Add small wooden blocks as tray guides on the interior walls
 4. Trays should slide in and out easily
 
-### Vents
+## See Also
 
-1. Cut intake vents at the bottom of the collector (low point)
-2. Cut exhaust vents at the top of the drying chamber (high point, opposite end from collector)
-3. Build adjustable vent covers from wood with a sliding mechanism
-4. Cover vents with screen to keep insects out
-
-## Drying Tips
+- [[mollison-designers-passive-solar-heating-building-design]]
+- [[comparison-charcoal-production-for-cooking-vs-solar-cooking-methods]]
+- [[comparison-agrovoltaics-vs-traditional-solar-farms]]
+- [[holmgren-trees-solar-power-plants-detailed]]
+- [[mollison-designers-home-energy-conservation-and-solar-heating]]

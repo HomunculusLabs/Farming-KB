@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-One of the most significant but rarely discussed aspects of [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] is the question of dosage. When [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] shift from traditional communal contexts to commercial settings serving foreign tourists, the dosage dynamics change substantially. Shamans who serve tourists typically exercise greater caution in dosing than they would when serving their own community members, a practice driven by pragmatic concerns about liability, communication barriers, and the unpredictability of foreign participants' reactions.
+One of the most significant but rarely discussed aspects of [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] shift from traditional communal contexts to commercial settings serving foreign tourists, the dosage dynamics change substantially. Shamans who serve tourists typically exercise greater caution in dosing than they would when serving their own community members, a practice driven by pragmatic concerns about liability, communication barriers, and the unpredictability of foreign participants' reactions.
 
 ## The Caution Principle in Tourist Ceremonies
 
@@ -71,55 +71,10 @@ A milder experience may be easier to integrate but may not provide the depth of 
 
 ## The Practical Implication: Home Brewing as an Alternative
 
-The observations about conservative tourist dosing led one researcher to suggest that individuals specifically interested in experiencing ayahuasca might achieve a more intense and cost-effective experience through home brewing rather than traveling to South America. With ingredients ordered from an [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]] and the help of an experienced friend as a sitter, one could have an intense entheogenic experience in the safety and comfort of home or an isolated natural setting.
-
-This suggestion comes with important caveats:
-
-- **Preparation knowledge**: The individual must know how to properly prepare the brew, including correct plant identification and [[kava-traditional-preparation-ceremonial-context]] methods.
+The observations about conservative tourist dosing led one researcher to suggest that individuals specifically interested in experiencing ayahuasca might achieve a more intense and cost-effective experience through home brewing rather than traveling to South America. With ingredients ordered from an [[kava-traditional-preparation-ceremonial-context]] methods.
 - **MAOI awareness**: Understanding the dietary and pharmaceutical restrictions associated with MAOIs is essential for safety.
 - **Experienced sitter**: Having a knowledgeable and experienced sitter present is critical for managing the experience and responding to emergencies.
 - **Legal considerations**: The legal status of ayahuasca and its constituent plants varies by jurisdiction, and home preparation may be illegal in some areas.
-- **[[lsd-set-and-setting-framework]]**: Creating an appropriate environment for the experience requires as much care as the preparation of the brew itself.
-
-## The Dose-Response Paradox
-
-The tourist dosage situation illustrates a broader paradox in psychedelic experiences: the very factors that make an experience safer (conservative dosing, controlled environment, professional oversight) may also make it less transformative. Conversely, the factors that can produce the most profound experiences (higher doses, unfamiliar settings, surrender of control) also introduce the greatest risks.
-
-For ayahuasca tourists, this paradox is compounded by the commercial context. They are paying for an experience that the shaman has financial incentive to deliver, but the shaman also has incentive to minimize risk. The resulting experience occupies a middle ground — safer than a self-guided home experience, but potentially less profound than a traditional community ceremony.
-
-## Evaluating Shaman Character and Trustworthiness
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[ayahuasca]]
-- [[ayahuasca-ceremony]]
+- **[[ayahuasca]]
 - [[doc]]
-- [[det]]
 - [[icaros]]

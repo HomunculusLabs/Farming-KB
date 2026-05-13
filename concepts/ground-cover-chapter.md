@@ -9,25 +9,19 @@ sources:
 ---
 # Ground Cover Plants for Permaculture
 
-[[permaculture-plants-food-forest-ground-covers-bamboos]] are essential components of permaculture systems. They protect soil from erosion, suppress weeds, retain moisture, moderate soil temperature, [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], provide bee forage, and in fire-prone regions can be selected for low flammability. This guide covers ground covers for general use, fire protection, coastal sites, and difficult conditions.
+[[query-how-to-fix-nitrogen-toxicity-in-cannabis]], provide bee forage, and in fire-prone regions can be selected for low flammability. This guide covers ground covers for general use, fire protection, coastal sites, and difficult conditions.
 
 ## Functions of Ground Covers
 
 - **Soil protection**: Prevent erosion from wind and water by shielding the soil surface
 - **Moisture retention**: Reduce evaporation by shading the soil surface
 - **Weed suppression**: Outcompete unwanted species for light, water, and nutrients
-- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Leguminous ground covers add fertility to the system
-- **Bee forage**: Many flowering ground covers provide nectar and pollen
-- **Fire retardation**: Selected species have low fire potential, protecting buildings and forests
-- **[[cannabis-pest-management-guide]]**: Some ground covers repel pests or attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- [[fire-resistant-plants]]) near buildings and infrastructure
+- **[[cannabis-pest-management-guide]]**: Some ground covers repel pests or attract [[fire-resistant-plants]]) near buildings and infrastructure
 - Combine nitrogen-fixing ground covers with non-fixing types for soil fertility
 - Plant ground covers beneath food-forest-understory-plants
-- Use ground covers on permaculture-earthworks|swale banks and [[chop-and-drop-mulching]] with excess growth to build [[hamilton-composting-and-organic-matter-management]]
-- Include [[fire-resistant-plants]]
-- [[salt-tolerant-plant-guide]]
+- Use ground covers on permaculture-earthworks|swale banks and [[hamilton-composting-and-organic-matter-management]]
+- Include [[salt-tolerant-plant-guide]]
 - food-forest-understory-plants
-- [[chop-and-drop-mulching]]
 - [[insectary-plants-guide]]
 ## Practical Applications
 
@@ -97,8 +91,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[ground-cover-plants]]
 - [[doc]]
-- [[det]]
 - [[composting]]
 - [[swale]]

@@ -6,17 +6,9 @@ type: concept
 tags: [permaculture, soil, soil-building, ecology, erosion, burnett, broadscale]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
-# Permaculture Beginners Guide — Soil Building Basics faires-hugelkultur-and-soil-building, [[acid-and-alkaline-soil-management]] for more detailed soil-building methods from other sources.
-
-## The Soil Crisis: Industrial Agriculture's Impact
-
-Burnett frames soil degradation as one of the primary consequences of industrialized agriculture. In the UK context, he identifies specific practices that damage soil:
-
-**Destructive practices:**
-- Continuous ploughing breaks down soil structure and depletes organic matter
-- Grubbing up hedgerows removes root systems that stabilize soil and [[query-how-do-i-create-microclimates-in-my-garden]]
+# Permaculture Beginners Guide — Soil Building Basics faires-hugelkultur-and-soil-building, [[query-how-do-i-create-microclimates-in-my-garden]]
 - Removal of trees eliminates the soil-building role of deep-rooted perennial systems
-- [[cervantes-chemical-fertilizers-guide]] disrupt natural soil biology and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Pesticides kill beneficial soil organisms essential to soil health
 
 **Consequences observed:**
@@ -79,7 +71,7 @@ This systems view means soil building cannot be isolated from air quality, [[wat
 
 ## Design Principles Applied to Soil
 
-Several of the guide's permaculture principles directly support soil health:
+Several of the guide's [[permaculture-principles]] directly support soil health:
 
 - **Every function supported by many elements:** Diverse plantings (polycultures) provide multiple pathways for nutrient cycling and soil protection, unlike monocultures where soil is exposed between harvests
 

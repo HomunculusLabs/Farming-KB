@@ -33,51 +33,10 @@ Koji produces both alpha and beta amylase in quantities that far exceed what occ
 
 ### Proteases
 
-In addition to amylases, koji produces protease enzymes that [[query-can-fungi-break-down-plastic-pollution]] proteins into amino acids and peptides. These amino acids are responsible for the savory umami character of miso and soy sauce. They also provide nitrogen for yeast nutrition in sake production.
-
-## Making Koji
-
-### Ingredients
-
-- Rice (short-grain or medium-grain, polished to remove bran)
-- Koji spores (koji-kin), available from specialty suppliers
-- Clean water
-- Temperature-controlled environment (ideally 85-95 degrees F / 29-35 degrees C)
-- Trays or containers for the grain
-- Clean cloth for covering
-
-### Process
-
-1. Wash and soak rice for several hours (typically 8-12 hours, depending on rice type)
-2. Steam the rice until fully cooked but not mushy -- each grain should be intact but soft throughout
-3. Cool the rice to approximately body temperature (85-90 degrees F)
-4. Sprinkle koji spores evenly over the rice and mix thoroughly
-5. Transfer to shallow trays (2-3 inches deep) and cover with a damp cloth
-6. Incubate at 85-90 degrees F with high humidity
-7. After 12-16 hours, the rice will begin to feel warm and develop a sweet aroma -- stir to redistribute heat and moisture
-8. Continue incubating with periodic stirring every 8-12 hours
-9. After 36-48 hours, the koji is ready when the grain is covered with white mycelium and has a strong sweet, mushroomy aroma
-10. Use immediately or dry for storage
-
-### Critical Factors
-
-- Temperature control is the most important variable. Too hot and the mold dies; too cold and growth is too slow
-- Humidity must be high (85-95%) to prevent the grain from drying out
-- [[stamets-growing-room-air-circulation-co2-management]] is important to prevent overheating and ensure even growth
+In addition to amylases, koji produces protease enzymes that [[stamets-growing-room-air-circulation-co2-management]] is important to prevent overheating and ensure even growth
 - Cleanliness is essential to prevent contamination by unwanted molds or bacteria
-- The koji is finished when it has maximum [[ligninolytic-enzyme-production-bioremediation]] -- typically 40-48 hours
-
-## Products Made with Koji
-
-### Sake
-
-Sake is the most refined application of koji technology. The koji-rice-mash-yeast interaction (called the moto or shubo starter, followed by multiple parallel fermentations in the moromi stage) produces a complex, aromatic beverage with 15-16% alcohol. Sake production is arguably the most technically demanding fermentation process in the world.
-
-### Miso
-
-Miso is made by combining koji (typically on rice or barley) with cooked soybeans and salt, then fermenting for months to years. The koji enzymes break down soybean proteins and starches into the complex, savory paste that is a cornerstone of Japanese cuisine. See [[miso-making]] for detailed miso fermentation instructions
+- The koji is finished when it has maximum [[miso-making]] for detailed miso fermentation instructions
 - faires-food-fermentation-methods for other fermentation techniques
-- [[beer-brewing-basics]] for how enzymes work in the mashing process
 - [[vinegar-making]] for acetic acid fermentation
 - faires-food-drying-and-no-energy-storage
 
@@ -110,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[aspergillus-oryzae]]
 - [[spore]]
 - [[mycelium]]
+
+## Overview
+
+Koji And Amylase Fermentation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish koji and amylase fermentation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving koji extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Koji And Amylase Fermentation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for koji and amylase fermentation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+koji and amylase fermentation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Koji And Amylase Fermentation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of koji and amylase fermentation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

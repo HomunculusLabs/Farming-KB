@@ -29,14 +29,7 @@ A comparison of two regenerative agriculture systems that build soil fertility a
 | **Space Requirement** | Small-scale friendly; works in backyard beds | Scales from garden plots to large farms; benefits from larger areas |
 | **Labor** | High initial effort (digging, piling); low ongoing maintenance | Regular pruning, replanting, and canopy management required |
 | **Climate Suitability** | Temperate to cold climates; arid regions with irrigation | Tropical to subtropical; adapted versions for temperate zones |
-| **Biodiversity** | Moderate — attracts soil organisms and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] | High — multi-strata polycultures with 20–40+ species per area |
-| **Economic Model** | Low-input, low-cost (uses waste wood and biomass) | Higher initial investment; ongoing yields from diverse production |
-
-## Overview
-
-### Hugelkultur
-
-[[biochar]]-like porous structures, and release nutrients slowly. Mycorrhizal networks develop along the decomposing wood, connecting plant roots to a vast nutrient exchange system. The approach is carbon-sequestering at a meaningful scale.
+| **Biodiversity** | Moderate — attracts soil organisms and [[biochar]]-like porous structures, and release nutrients slowly. Mycorrhizal networks develop along the decomposing wood, connecting plant roots to a vast nutrient exchange system. The approach is carbon-sequestering at a meaningful scale.
 
 Syntropic agriculture builds soil through **surface organic matter cycling**. Pruned material is returned as mulch, creating a constant feedstock for soil biology. Unlike hugelkultur's buried approach, syntropic systems concentrate organic matter at the soil surface where decomposition is fastest and most biologically active. The emphasis is on maintaining continuous ground cover and active root networks.
 
@@ -48,9 +41,7 @@ Syntropic agriculture manages water through dense canopy cover (reducing evapora
 
 ## Planting Strategies and Species Selection
 
-Hugelkultur is relatively flexible — most garden vegetables, herbs, berries, and small fruit trees perform well on hugel mounds. The decomposing wood favors plants that prefer well-drained, moisture-retentive soils. [[comparison-perennial-vegetables-vs-cover-crops]] and food forests integrate naturally.
-
-Syntropic agriculture requires deliberate species selection based on **succession phase** and **functional role**. Every species serves at least one purpose: [[dighton-fungal-biomass-production-aquatic-ecosystems]], [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest confusion, [[mollison-designers-microclimate-creation-frost-protection]], or direct harvest. Common syntropic species include eucalyptus, inga, banana, papaya, manioc, beans, and various timber trees — though species lists are adapted to local ecology and climate.
+Hugelkultur is relatively flexible — most garden vegetables, herbs, berries, and small fruit trees perform well on hugel mounds. The decomposing wood favors plants that prefer well-drained, moisture-retentive soils. [[dighton-fungal-biomass-production-aquatic-ecosystems]], [[mollison-designers-microclimate-creation-frost-protection]], or direct harvest. Common syntropic species include eucalyptus, inga, banana, papaya, manioc, beans, and various timber trees — though species lists are adapted to local ecology and climate.
 
 ## Time to Maturity and Productivity
 
@@ -110,10 +101,7 @@ Yes — these systems are complementary. A hugel mound can serve as the foundati
 
 ## See Also
 
-- [[comparison-hugelkultur-vs-chinampas]]
-
 - [[syntropic-agriculture]]
 
-- [[agroforestry]]
 - [[keyline-design]]
 - [[decomposition]]

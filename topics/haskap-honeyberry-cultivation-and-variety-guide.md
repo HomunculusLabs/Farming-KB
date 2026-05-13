@@ -25,7 +25,7 @@ sources:
 
 # Haskap and Honeyberry Cultivation and Variety Guide
 
-Haskap (also known as honeyberry, blue honeysuckle, or *[[lonicera-caerulea]]*) is a remarkably cold-hardy deciduous shrub producing elongated blue berries with an exceptional nutritional profile. Native to the circumpolar boreal regions of [[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia, haskap is one of the first fruits to ripen each season — often weeks before strawberries. Its tolerance for extreme cold (hardy to Zone 2), early [[harvest-window-cannabis]], and growing reputation as a "superfood" have made it an increasingly popular choice for home gardeners, [[permaculture-designers-manual-cattle-systems]], and commercial fruit growers alike.
+Haskap (also known as honeyberry, blue honeysuckle, or *[[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia, haskap is one of the first fruits to ripen each season — often weeks before strawberries. Its tolerance for extreme cold (hardy to Zone 2), early [[permaculture-designers-manual-cattle-systems]], and commercial fruit growers alike.
 
 ## Botanical Background and Species Description
 
@@ -35,19 +35,7 @@ Haskap belongs to the honeysuckle family (Caprifoliaceae), specifically *Lonicer
 - ***L. caerulea* var. *edulis*** — Japanese (*haskap*) origin; larger fruit, better flavour, less cold tolerance.
 - ***L. caerulea* var. *emarginata*** — Kuril Islands origin; intermediate characteristics.
 
-[[haze-lineage-and-legacy-in-modern-breeding]] programs — notably at the University of Saskatchewan (Dr. Bob Bors), the University of Oregon (Dr. Maxine Thompson), and Russian and Japanese programs — have crossed these subspecies extensively to combine large fruit size, excellent flavour, and extreme cold hardiness.
-
-The shrub is deciduous, multi-stemmed, and typically grows 1.2–2.0 m (4–6.5 ft) tall with a similar spread. Leaves are simple, opposite, oval-shaped, and greyish-green. Flowers are creamy-white, tubular, and appear extremely early — often in March or April — making them an important early nectar source for emerging pollinators. Fruit is an elongated (cylindrical to ovoid) blue berry with a waxy bloom, 1–3 cm long, ripening in early to mid-June in most climates.
-
-## Nutritional Profile and Health Benefits
-
-Haskap berries are among the most nutrient-dense fruits available:
-
-| Nutrient | Amount (per 100 g) | Significance |
-|---|---|---|
-| Vitamin C | 40–60 mg | Comparable to citrus |
-| Anthocyanins | 600–1,800 mg | Among the highest of any fruit |
-| [[ingham-tannins-terpenes-phenolic-compounds]] | 500–1,200 mg | Strong antioxidant capacity |
+[[ingham-tannins-terpenes-phenolic-compounds]] | 500–1,200 mg | Strong antioxidant capacity |
 | ORAC value | 13,000–17,000 μmol TE | 3× higher than blueberries |
 | Potassium | 180–250 mg | Heart health support |
 | Fibre | 4–6 g | Digestive health |
@@ -76,38 +64,7 @@ Haskap is adaptable but performs best in well-drained, loamy soils:
 - **Texture**: Loam to sandy loam preferred; tolerates clay if well-drained
 - **Organic matter**: High organic matter (4–6%) is beneficial
 - **Drainage**: Critical — standing water causes root rot
-- **Moisture**: Consistent moisture preferred; [[drought-tolerant-planting-design]] once established
-- **Sun**: Full sun for maximum fruit production; tolerates partial shade (reduces yield by ~30%)
-- **Wind protection**: Sheltered sites preferred; strong winds damage flowers and fruit
-- **Frost pockets**: Avoid — though flowers are frost-tolerant, extreme cold exposure reduces pollination
-
-For permaculture-food-waste-cyclingod-forests-design-course, haskap fits well as an understory shrub beneath taller fruit trees, provided it receives at least 6 hours of direct sunlight.
-
-## Propagation Methods
-
-### Softwood Cuttings
-The most common method for home growers. Take 8–12 cm cuttings from actively growing new shoots in early summer (June–July). Remove lower leaves, dip in rooting hormone (IBA 1,000–3,000 ppm), and root in a peat-perlite mix under mist. Roots develop in 3–5 weeks with 70–90% success rates.
-
-### Hardwood Cuttings
-Take 15–25 cm cuttings from dormant one-year-old wood in late autumn or early spring. Bury in sand or peat, keeping cool and moist. Rooting success is lower (40–60%) but requires no mist system.
-
-### Seed
-Viable but not recommended for named varieties — offspring will not be true to type. Stratify seeds at 2–5°C for 90–120 days before sowing. Germination is irregular over 30–60 days. Useful for breeding programs.
-
-### Tissue Culture
-The standard method for commercial nurseries. Produces disease-free, genetically identical plants. Micropropagation from meristematic tissue ensures variety trueness and allows rapid scaling.
-
-### Division
-Mature bushes can be divided in early spring before bud break. Each division must include viable roots and at least 2–3 healthy stems. Survival rate is moderate (50–70%).
-
-## Planting and Spacing Guidelines
-
-| Planting Type | Spacing | Row Width |
-|---|---|---|
-| Home garden (informal) | 1.0–1.5 m apart | N/A |
-| Home garden (hedge) | 0.8–1.0 m apart | N/A |
-| Commercial / intensive | 1.2–1.5 m apart | 3.0–4.0 m |
-| [[food-forest]] understory | 1.5–2.0 m apart | N/A |
+- **Moisture**: Consistent moisture preferred; [[food-forest]] understory | 1.5–2.0 m apart | N/A |
 
 ### Planting Steps
 

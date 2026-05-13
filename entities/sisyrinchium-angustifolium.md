@@ -20,29 +20,11 @@ sources:
 
 Sisyrinchium angustifolium, commonly called narrow-leaf blue-eyed grass, is a rhizomatous perennial in the iris family. Despite its common name, it is not a true grass but produces grass-like foliage topped with small star-shaped violet-blue flowers.
 
-The species is native to [[polypore-fungi-eastern-north-america]], where it inhabits moist meadows, prairies, and open woodlands. It is valued in native plant gardens for its delicate flowers and tidy clumping habit.
-
-Blue-eyed grass blooms from late spring through mid-summer, providing color when many spring bulbs have finished. The flowers open only in bright sunlight and close by afternoon.
-
-The genus Sisyrinchium contains approximately 150 species distributed throughout the Americas. Sisyrinchium angustifolium is one of the most widespread species in eastern North America.
-
-The species has received the RHS Award of Garden Merit for its ornamental reliability. Several cultivars have been selected for darker flower color or compact growth.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Family:** Iridaceae
-- **Genus:** Sisyrinchium
-- **Species:** Sisyrinchium angustifolium Mill.
-- **Synonyms:** Sisyrinchium graminoides; Sisyrinchium bermudiana var. angustifolium
-
-The genus name derives from the Greek for "pig snout," possibly referring to the rooting habit of corms. The species epithet "angustifolium" means "narrow-leaved."
-
-Taxonomy of Sisyrinchium is notoriously difficult due to extensive hybridization and polyploidy. Sisyrinchium angustifolium has been confused with Sisyrinchium montanum and Sisyrinchium bellum in [[biodiversity-fungal-herbarium-collections]].
+The species is native to [[biodiversity-fungal-herbarium-collections]].
 
 Chromosome numbers vary, with diploid (2n = 32) and tetraploid (2n = 64) populations documented. Tetraploid forms tend to be more robust with broader leaves.
 
-Recent molecular phylogenetic studies place Sisyrinchium angustifolium in a clade with other eastern [[growing-gourmet-north-american-reishi-species]] species. The genus is most closely related to the [[chiric-caspi-brunfelsia-south-american-hallucinogen]] genus Orthrosanthus.
+Recent molecular phylogenetic studies place Sisyrinchium angustifolium in a clade with other eastern [[chiric-caspi-brunfelsia-south-american-hallucinogen]] genus Orthrosanthus.
 
 ## Morphology
 
@@ -87,3 +69,82 @@ Seed propagation is straightforward but slow. Seeds require 4–6 weeks of cold 
 No serious insect or disease problems affect this species. Slugs may damage new growth in spring but rarely harm established plants.
 
 The species combines well with other moisture-loving native perennials such as cardinal flower and blue flag iris. Its compact size suits it for the front of perennial borders.
+
+## Overview
+
+Sisyrinchium Angustifolium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sisyrinchium angustifolium
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sisyrinchium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sisyrinchium Angustifolium finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sisyrinchium angustifolium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sisyrinchium angustifolium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sisyrinchium Angustifolium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sisyrinchium angustifolium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

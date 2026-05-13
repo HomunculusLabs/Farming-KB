@@ -8,7 +8,7 @@ type: entity
 
 The Holy Grail is a legendary sacred vessel that has been sought by questing
 knights, religious scholars, and mystics for centuries. In ethnomycological
-analysis, the Grail is understood as a symbolic representation of the *Amanita
+analysis, the Grail is understood as a symbolic representation of the *[[amanita]]
 muscaria* mushroom — specifically its mature, upturned cap form, which resembles
 a cup or chalice containing the "blood of God" (the mushroom's juices). The
 quest for the Grail is interpreted as an allegorical journey to discover and
@@ -18,7 +18,7 @@ master the use of the entheogenic mushroom.
 
 - **Category:** Mythological object / Religious symbol
 - **Tradition:** Arthurian legend, Christian mythology, esoteric tradition
-- **Ethnomycological Identity:** *Amanita muscaria* in its upturned cup form
+- **Ethnomycological Identity:** *[[amanita-muscaria]]* in its upturned cup form
 
 ## Historical Context
 
@@ -137,8 +137,6 @@ While the Grail itself is mythological, understanding its connection to
 
 ## See Also
 
-- [[amanita-muscaria]] — The mushroom that IS the Grail
 - [[soma]] — Hindu equivalent of the sacred vessel tradition
-- [[john-allegro]] — Scholar who decoded these connections
 - [[osiris-entity]] — Egyptian deity with related symbolism
 - [[feathered-serpent]] — Another cross-cultural mushroom symbol

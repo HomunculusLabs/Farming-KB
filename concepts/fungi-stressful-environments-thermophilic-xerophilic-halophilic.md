@@ -38,17 +38,7 @@ valuable in biomass conversion and biofuel production processes.
 ## Psychrotropic Fungi
 ### Definition
 Microorganisms capable of growth below 10C. Psychrotolerant
-fungi differ from [[psychrophilic-fungi]], which have optimal growth
-at cold temperatures and cannot grow above 20C.
-### Snow Molds
-Low-temperature-tolerant soil-borne fungi that damage and kill
-grasses, cereals, and other plants under snow cover. Common
-species include:
-- Coprinus psychromorbidus (low-temperature basidiomycete)
-- Microdochium nivale
-- Myriosclerotina borealis
-- Typhula ishikariensis
-Their extensive [[singh-mycelial-mats-and-biological-soil-crusts]] appear at the bases of
+fungi differ from [[singh-mycelial-mats-and-biological-soil-crusts]] appear at the bases of
 snow-covered plants, often visible after snow melts.
 ### Arctic and Antarctic Soils
 The species composition of microfungal communities from dry
@@ -56,10 +46,7 @@ Arctic soils was similar to that from dry regions of Antarctica,
 suggesting convergent adaptation to cold, dry conditions.
 ### Cold Adaptation Mechanisms
 Psychrotolerant fungi produce cold-active enzymes and maintain
-membrane fluidity through increased unsaturated [[carbon-isotope-labelling-mycorrhizal-fatty-acids]].
-## Xerotolerant and Xerophilic Fungi
-### Definition
-Fungi capable of growth at [[osmophilic-osmotolerant-fungi-low-water-activity]] (aw) values.
+membrane fluidity through increased unsaturated [[osmophilic-osmotolerant-fungi-low-water-activity]] (aw) values.
 A xerophilic fungus grows at aw below 0.85. Most fungi
 tolerating aw below 0.90 are ascomycetes.
 ### Key Genera
@@ -73,16 +60,6 @@ Eremascus, Paecilomyces, Wallemia, Xeromyces.
 - Penicillium species more common in temperate environments
 ### Desert Diversity
 Despite harsh conditions, desert ecosystems can have higher
-[[fungal-species-richness-and-diversity-indices]] than predicted. The greater spatial and
-temporal variability in desert ecosystems may contribute to
-this unexpected diversity.
-## Osmotolerant and Osmophilic Fungi
-### Water Activity
-The water-activity value (aw, range 0-1) indexes water
-availability. Most microorganisms are restricted to aw > 0.95.
-Plant wilting point is approximately 0.98 aw.
-### Key Concept
-Osmophilic fungi grow where low water activity results from
 [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]] (high sugar/salt). Xerophilic fungi grow where
 low matrix potential (not osmotic stress) is the cause.
 Important genera include Aspergillus, Aureobasidium,
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungi-in-stressful-environments]]
 - [[thermophilic-fungi]]
-- [[doc]]
 - [[composting]]
 - [[mycology]]

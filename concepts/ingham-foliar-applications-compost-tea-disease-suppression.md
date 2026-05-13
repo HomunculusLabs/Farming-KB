@@ -10,13 +10,7 @@ type: concept
 
 ## Overview
 
-Foliar application of actively aerated compost tea (AACT) introduces [[forest-and-bamboo-beneficial-microorganisms]] to leaf surfaces, creating a biological barrier against disease-causing organisms and insect pests. The mechanisms operate primarily through competition for resources, physical site occupation, and alteration of the leaf-surface microenvironment rather than direct antimicrobial action.
-
-## Why Foliar Application Matters
-
-Leaf surfaces (phyllosphere) are naturally colonized by diverse [[cannabis-rhizosphere-microbial-communities]]. Modern [[mycorrhizal-agricultural-practices]]—synthetic foliar sprays, fungicides, insecticides—repeatedly destroy these communities, leaving leaf surfaces vulnerable to pathogen colonization. Compost tea aims to restore a complete, functioning microbial food web on foliage, mirroring the approach used for soil remediation.
-
-The microbes on leaf surfaces improve uptake of foliar nutrients by maintaining the leaf surface atmosphere in a condition favorable to the plant. A healthy phyllosphere [[cannabis-cultivar-microbial-community-effects]] helps the plant's natural stomatal function and nutrient absorption.
+Foliar application of actively aerated compost tea (AACT) introduces [[cannabis-rhizosphere-microbial-communities]]. Modern [[cannabis-cultivar-microbial-community-effects]] helps the plant's natural stomatal function and nutrient absorption.
 
 ## Disease Suppression Mechanisms
 
@@ -36,19 +30,7 @@ Compost tea organisms occupy all the available space on the leaves. If every inf
 
 ### 3. Predation
 
-[[teaming-with-microbes-protozoa-and-nematodes]] in the tea consume bacteria and fungi, including disease-causing organisms. This adds a trophic-level control mechanism to the simple competition model. These predator-prey interactions are mechanical in nature—not biochemical—making them analogous to biological controls like ladybugs consuming aphids.
-
-## Foliar Pest Deterrence Mechanisms
-
-AACT helps reduce foliar pest pressure through four possible (potentially simultaneous) mechanisms:
-
-### 1. Repellency
-
-The biology applied to the leaf surface may be directly repugnant to insect pests, causing them to avoid landing on treated leaves. This is the simplest explanation and likely contributes to immediate post-application protection.
-
-### 2. CO₂ Elevation
-
-The [[arbuscule-isolation-metabolic-activity-assays]] of leaf-surface microorganisms elevates CO₂ levels in the leaf boundary layer. Many insect pests use CO₂ gradients and specific atmospheric cues to locate host plants. Elevated CO₂ may provide the wrong signal for pest attraction.
+[[arbuscule-isolation-metabolic-activity-assays]] of leaf-surface microorganisms elevates CO₂ levels in the leaf boundary layer. Many insect pests use CO₂ gradients and specific atmospheric cues to locate host plants. Elevated CO₂ may provide the wrong signal for pest attraction.
 
 ### 3. Consumption of Stress Signaling Compounds
 
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[actively-aerated-compost-tea]]
 - [[foliar-feeding]]
-- [[det]]
 - [[spore]]
 - [[mycorrhiza]]

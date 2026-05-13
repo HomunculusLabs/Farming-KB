@@ -6,11 +6,7 @@ type: concept
 
 # Fukuoka on Livestock and Fishing Energy Inefficiency
 
-Masanobu Fukuoka's *The One-Straw Revolution* extends its [[fukuoka-road-critique-of-modern-science]] agriculture far beyond crop farming into the realms of livestock production and fishing. His analysis reveals a systematic pattern of energy waste embedded in the industrial food chain — where each step of processing, concentration, and "improvement" dissipates calories that could otherwise feed people directly.
-
-## Livestock Energy Waste: The Compounding Loss
-
-At the heart of Fukuoka's critique is the thermodynamic absurdity of raising animals for food. Every trophic transfer in a food chain incurs roughly a 90% energy loss, and modern [[fukuoka-natural-livestock-farming]] amplifies this through intensive confinement and processed feed.
+[[masanobu-fukuoka]]'s *The One-Straw Revolution* extends its [[fukuoka-natural-livestock-farming]] amplifies this through intensive confinement and processed feed.
 
 Consider the yellowtail fish farm: it takes roughly ten times the weight in sardines to raise a single yellowtail to marketable size. The sardines themselves could have fed people directly. The math compounds through further steps — a silver fox raised for fur consumes ten times its weight in rabbit meat, and each rabbit in turn consumes ten times its weight in grass. Each layer of animal husbandry multiplies the energy input required per unit of final product.
 
@@ -18,32 +14,7 @@ Fukuoka distills this to human terms: people must work roughly ten times harder 
 
 > "In raising cattle or elephants, the peasants of Japan and India impoverished themselves."
 
-This is not merely an academic observation. It reflects a lived historical reality in both Japan and India, where the introduction of large [[holmgren-biological-services-working-animals]] and livestock created dependencies that impoverished smallholders. The energy diverted to feed and care for these animals came directly from the calories available to farming families.
-
-What appeared to be progress — the acquisition of a valuable animal — was in fact a drain on the household's productive capacity. The animal represented stored calories consumed over time, with no guarantee of return commensurate with the investment.
-
-## Mechanization: The Farmer Enslaved to His Equipment
-
-Fukuoka's analysis of mechanization goes beyond simple Luddism — he identifies a self-reinforcing cycle of dependency and displacement. Machinery, he argues, does not liberate the farmer but enslaves him to equipment, fuel, and debt. The tractor becomes the "largest domestic animal" on the farm — a voracious guzzler of oil that functions as a consumer good, not a capital good.
-
-A 30-horsepower tractor does not magically transform a two-acre farmer into a fifty-acre farmer. What mechanization actually does is reduce the number of laborers needed, creating a surplus workforce that must seek outside income. As labor leaves the land, the yield from that land probably decreases even as energy requirements skyrocket.
-
-Fukuoka observes that for every tractor operator, dozens of farmers are driven off the land and into factories — factories that produce the implements and fertilizer the remaining farmer now depends on. The tractor is not a tool of independence but a node in an industrial supply chain that hollows out rural communities.
-
-This creates a vicious cycle:
-
-1. Machinery and chemicals draw the farmer away from nature
-2. They do not actually raise yields but are promoted as profit tools
-3. The farmer labors under this illusion, accumulating debt
-4. Nature is progressively destroyed
-5. The farmer is left tending vast fields by hand
-6. Which then requires ever larger machinery — and the cycle repeats
-
-> "In the end, the farmer is driven from his fields by his machinery."
-
-The scale comparison is telling. European farms are roughly ten times larger than Japanese farms of six to seven acres, and American farms are one hundred times larger. Yet Western farmers are more insecure, not less — because scale demands dependence on external inputs, volatile markets, and costly equipment.
-
-The apparent efficiency of large-scale [[fukuoka-energy-productivity-natural-vs-mechanized-farming]] conceals an enormous hidden energy cost in the form of fossil fuels, chemical inputs, and the displaced human labor absorbed by manufacturing. The farmer who once worked his own land now works to pay for the machines that replaced him.
+This is not merely an academic observation. It reflects a lived historical reality in both Japan and India, where the introduction of large [[fukuoka-energy-productivity-natural-vs-mechanized-farming]] conceals an enormous hidden energy cost in the form of fossil fuels, chemical inputs, and the displaced human labor absorbed by manufacturing. The farmer who once worked his own land now works to pay for the machines that replaced him.
 
 ## The Chicken Comparison: Efficiency vs. Self-Sufficiency
 
@@ -82,19 +53,7 @@ The land-use implications are staggering. Fukuoka provides comparative figures f
 | Pork | 4,000 |
 | Beef | 10,000 |
 
-Translated to global [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]], the Earth could support:
-
-- **60×** the current population on a grain diet
-- **20×** on potatoes
-- **8×** on milk
-- **3×** on pork
-- Already at the limit on beef
-
-The choice of diet is not merely a personal preference — it is a determining factor in how many people the planet can sustain. A global shift toward beef-heavy diets pushes the planet toward its ecological limits far faster than population growth alone. The numbers make clear that dietary choices at the individual level aggregate into civilizational-scale consequences.
-
-## Fukuoka's Ideal Livestock Vision
-
-Fukuoka does not advocate eliminating animals from the farm. Rather, he envisions livestock integrated into a [[fukuoka-natural-ecosystem-food-chain-interconnection]], selected for self-sufficiency rather than maximum yield.
+Translated to global [[fukuoka-natural-ecosystem-food-chain-interconnection]], selected for self-sufficiency rather than maximum yield.
 
 The principle is straightforward: select breeds that graze mountain pastures freely, without reliance on processed feed. Native breeds — Jersey cattle, wild boar, black Berkshire pigs — prove more economical than "improved" breeds like Holsteins and white Yorkshires, because they thrive on what the land provides without intensive management.
 

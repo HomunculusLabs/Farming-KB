@@ -9,13 +9,13 @@ tags: [mindfulness, cannabis, therapy, intention, setting, healing, blesching, p
 
 ## Overview
 
-Blesching's *The Cannabis Health Index* integrates mindfulness-based techniques
+Blesching's *The [[cannabis-health-index]]* integrates mindfulness-based techniques
 with evidence-based cannabinoid therapy through a structured healing protocol.
 The protocol recognizes that therapeutic outcomes are influenced not only by
 pharmacology but also by the patient's psychological state, intentions, and
 conscious engagement with the healing process. This approach draws on
 psychoneuroimmunology—the study of how psychological states affect immune
-function and physical health—positioning the endocannabinoid system as the
+function and physical health—positioning the [[endocannabinoid-system]] as the
 biological substrate that translates conscious intention into physiological
 change.
 
@@ -131,8 +131,6 @@ The protocol is designed to be adaptable:
 
 ## See Also
 
-- [[blesching-cannabis-healing-practices-setting-intention-affirmations]] — Full practice guide
 - [[blesching-mind-body-medicine-psychosomatic-foundations]] — Psychosomatic basis
-- [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]] — Protocol details
 - [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]] — Adverse effects awareness
 - [[blesching-cannabis-emotional-intelligence-healing-framework]] — Emotional intelligence framework

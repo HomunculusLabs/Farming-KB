@@ -63,10 +63,7 @@ Light is measured in spectrum using Kelvin temperature, which expresses the colo
 | Cool White Fluorescent | 4,200K |
 | Standard Metal Halide | 4,000K |
 | Warm Metal Halide | 3,200K |
-| [[cervantes-high-pressure-sodium-lighting]] | 2,200K |
-| Sunrise / Candle | 1,800K |
-
-Bulbs with Kelvin temperatures from 3000 to 6500 are best [[query-what-is-the-best-soil-mix-for-growing-cannabis]]. The Color
+| [[query-what-is-the-best-soil-mix-for-growing-cannabis]]. The Color
 Rendering Index (CRI) provides additional quality information — higher CRI values indicate better
 light for plant growth.
 
@@ -79,29 +76,7 @@ spectrum needed for robust growth and heavy yields. The two main types of HID la
 ### Metal Halide (MH) Systems
 
 Metal halide lamps produce a blue-white light that closely simulates spring and summer sunlight.
-They are excellent for the [[cannabis-vegetative-growth-stage]] because the blue spectrum promotes compact,
-leafy growth. MH lamps are available in various Kelvin ratings, with daylight versions (5000K+)
-being preferred for vegetative growth.
-
-### High Pressure Sodium (HPS) Systems
-
-HPS lamps produce an orange-red light that simulates the autumn sun. They are preferred for the
-flowering stage because the red spectrum promotes bud development and flowering. HPS systems are
-slightly more energy-efficient than MH systems and produce more lumens per watt.
-
-### Combining MH and HPS
-
-Many growers use MH lamps for vegetative growth and switch to HPS for flowering. Some growers use
-both simultaneously, or employ conversion bulbs that allow one ballast to operate the other lamp
-type. The HP Sodium to Metal Halide and Metal Halide to HP Sodium conversion bulbs provide
-flexibility in lighting setups.
-
-### HID System Setup
-
-Key considerations for HID systems include:
-
-- Proper electrical wiring and circuit capacity (e.g., 1000 watts per bedroom as a guideline)
-- [[cervantes-reflective-hoods-light-distribution]] to maximize light coverage and minimize waste
+They are excellent for the [[cervantes-reflective-hoods-light-distribution]] to maximize light coverage and minimize waste
 - Adjustable light height to maintain optimal distance from canopy
 - Ballasts placed in separate areas to reduce heat in the grow room
 - Timer systems for automated photoperiod control
@@ -111,38 +86,11 @@ Key considerations for HID systems include:
 Compact fluorescent lamps are useful for seedlings, clones, and small-scale grows. They produce
 less heat than HID systems and can be placed closer to plants. CFLs with higher Kelvin ratings
 (5000-6500K) are suitable for vegetative growth. While insufficient for flowering large plants,
-CFLs serve well during early growth stages and for [[cannabis-clone-rooting-and-transplanting]].
-
-## Photoperiod and Cannabis Flowering
-
-### Vegetative Photoperiod
-
-Cannabis plants in the vegetative stage require 18-24 hours of light per day. An 18-hour
-photoperiod is most common, giving plants 6 hours of darkness for metabolic recovery while
-maintaining vigorous vegetative growth.
-
-### Flowering Photoperiod
-
-Most commercial cannabis varieties begin flowering under a 12-hour light / 12-hour dark
-photoperiod. Plants that originated [[fukuoka-natural-farming-in-tropical-regions]] may start flowering under more light and
-less darkness. The shift from [[query-how-to-transition-cannabis-from-vegetative-to-flowering]] photoperiod signals the plant that the annual
-life cycle is ending, redirecting energy from leafy growth to flower production.
-
-### Light Leakage
-
-Light leakage during the dark period can disrupt flowering, causing plants to revert to vegetative
-growth or develop hermaphroditic traits. Grow rooms must be completely light-tight during the dark
-cycle. Even brief light interruptions can cause problems.
-
-## Yield and Light Intensity
-
-Indoor cannabis yields are directly correlated with light intensity. A general guideline is one
-gram of dried flower per watt of light per month in the flowering room. HID lamps are preferred
-because they can efficiently illuminate the plant canopy, whereas standard [[cervantes-compact-fluorescent-lighting]]
+CFLs serve well during early growth stages and for [[fukuoka-natural-farming-in-tropical-regions]] may start flowering under more light and
+less darkness. The shift from [[cervantes-compact-fluorescent-lighting]]
 diminishes rapidly with distance and cannot adequately penetrate a dense canopy.
 
 ## See Also
 
-- [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]] and photoperiod
 - [[marijuana-horticulture-cervantes-cloning-and-vegetative-propagation]] propagation
 - [[cannabis-grow-hydroponic-growing-systems]]

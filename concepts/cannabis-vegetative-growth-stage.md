@@ -18,30 +18,8 @@ type: concept
 
 ## Overview
 
-The [[cannabis-vegetative-stage-management]] is the primary growth phase of the cannabis plant,
-during which it develops the structural framework that will support flower
-production. During this cycle, the plant begins to grow quickly and produce
-more leaves and new branches. The stem also grows thicker. This is when the
-plant begins to look like a mature cannabis specimen. Understanding and
-managing this stage properly is essential for maximizing yield and plant
-health.
-
-## Transition from Seedling to Vegetative Growth
-
-After the seedling stage, when the plant has developed its first set of
-true leaves and a stable root system, it transitions into vegetative growth.
-The seedling is moved to its permanent pot and placed under [[cmh-grow-lights]] on
-an 18-6 or 24-hour [[green-cannabis-photoperiod-12-12-light-cycle]]. During this transition, the grower should
-refrain from feeding for about a week after transplanting to allow roots to
-establish. Some transplant feeding products are available but are not
-strictly necessary.
-
-## Light Requirements
-
-Your plant needs all the light it can get during vegetative growth. Leave
-lights on 24 hours a day for maximum growth, or use an 18 hours on, 6 hours
-off cycle which some growers prefer as it may reduce electricity costs while
-maintaining robust growth. [[cervantes-metal-halide-lighting-systems]] (MH) lights are ideal for
+The [[cmh-grow-lights]] on
+an 18-6 or 24-hour [[cervantes-metal-halide-lighting-systems]] (MH) lights are ideal for
 vegetative growth due to their blue spectrum, though high-pressure sodium
 (HPS) lamps can also be used.
 
@@ -80,9 +58,7 @@ long internodes (3 to 6 inches between branches) with pointy leaves and
 no markings. Ruderalis plants have very short internodes with much
 branching and small, thick leaves.
 
-[[cannabis-training-techniques-comparison]] during vegetative growth include topping (cutting the
-main stem tip to encourage lateral branching), low-stress training (LST,
-bending stems to create an even canopy), and [[cannabis-screen-of-green-scrog-guide]] (SCROG, using
+[[cannabis-screen-of-green-scrog-guide]] (SCROG, using
 a screen to train branches horizontally). These techniques increase the
 number of main colas and improve light penetration through the canopy.
 
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[knf-vegetative-growth-stage]]
-- [[cannabis-vegetative-stage]]
 - [[cannabis-vegetative-stage-management]]
 - [[cannabis-growth-stage-checklist]]

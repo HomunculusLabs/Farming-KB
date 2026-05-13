@@ -11,18 +11,7 @@ sources: []
 ## Overview
 
 Solar cooking and solar dehydrating are two of the most practical uses of
-sunlight for a homestead kitchen. Both harness [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] to process food
-without fuel or electricity, but they serve fundamentally different purposes:
-one prepares meals, the other preserves them for long-term storage.
-Understanding
-their distinct operating principles, temperature requirements, and
-construction
-approaches helps homesteaders decide which to build first and how both can
-complement a resilient off-grid food system.
-
-## Solar Cooking
-
-[[solar-dehydrator-plans]]
+sunlight for a homestead kitchen. Both harness [[solar-dehydrator-plans]]
 
 Solar dehydrators use solar energy to remove moisture from food for
 preservation, operating at much lower temperatures than solar cookers,
@@ -53,13 +42,7 @@ solar cooker.
 | Aspect | Solar Cooking | Solar Dehydrating |
 |--------|---------------|-------------------|
 | **Purpose** | Meal preparation | Long-term food preservation |
-| **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]** | 200-600F | 110-160F |
-| **Heat Delivery** | Direct or focused | Indirect convection airflow |
-| **Weather Sensitivity** | High (needs clear sun) | Moderate (works in partial sun) |
-| **Build Complexity** | Low to moderate | Moderate to high |
-| **Processing Time** | 1-4 hours | 2-16 hours |
-| **Food Types** | Grains, stews, baking, frying | Fruits, vegetables, herbs, jerky |
-| **Storage Benefit** | None (immediate consumption) | 6-12+ months [[psilocybin-shelf-life-stability]] |
+| **[[psilocybin-shelf-life-stability]] |
 | **Tracking Needed** | Frequent (every 30-60 min) | Minimal (set and check) |
 | **Cost to Build** | $10-50 (box); $100+ (parabolic) | $50-200 (indirect design) |
 
@@ -102,5 +85,4 @@ lowers energy dependence, and builds self-reliance in any homestead kitchen.
 ## See Also
 
 - faires-low-energy-cooking-methods
-- [[root-cellaring-and-no-energy-food-storage]]
 - [[emergency-preparedness]]

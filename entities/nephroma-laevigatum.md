@@ -24,11 +24,7 @@ humid forests.
 
 The species is closely related to N. arcticum and N. expansible but
 differs in its smooth, glossy upper surface and preference for more
-oceanic climates. It is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of
-both hemispheres.
-
-Like other Nephroma species, N. laevigatum associates with Nostoc
-cyanobacteria as its photobiont, enabling [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. It is
+oceanic climates. It is widely distributed across [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. It is
 considered an indicator of long-term forest continuity and clean air.
 
 ## Taxonomy and Morphology
@@ -54,37 +50,95 @@ hyaline, 1-septate, measuring 15–25 × 5–8 µm.
 
 Nephroma laevigatum has a broad distribution in temperate regions of both
 the Northern and Southern Hemispheres. In the Northern Hemisphere, it
-occurs in western Europe, [[polypore-fungi-eastern-north-america]] America, and eastern Asia.
-
-It is particularly abundant in oceanic and suboceanic regions with high
-rainfall and low pollution levels. In Europe, it is common in the British
-Isles, western Scandinavia, and the Iberian Peninsula.
-
-The species grows on the bark of deciduous and coniferous trees,
-particularly on moss-covered trunks in old-growth forests. It also occurs
-on mossy rocks and soil in ravines and stream valleys. Elevational range
-extends from sea level to approximately 1500 m.
-
-N. laevigatum is sensitive to acid rain and [[air-pollution-fungal-community-responses]]. It has
-declined significantly in central Europe and eastern [[guzman-psilocybin-mushrooms-north-america]] but
-remains relatively common in areas with clean air.
-
-## Ecology and Symbiosis
-
-Nephroma laevigatum is a bipartite lichen with Nostoc cyanobacteria as
-its sole photobiont. The cyanobacteria are housed in a well-defined
-photobiont layer within the medulla.
-
-[[biological-nitrogen-fixation-agriculture]] rates in Nephroma species are substantial, estimated at
+occurs in western Europe, [[air-pollution-fungal-community-responses]]. It has
+declined significantly in central Europe and eastern [[biological-nitrogen-fixation-agriculture]] rates in Nephroma species are substantial, estimated at
 2–10 kg N per hectare per year in forest stands with high Nephroma
 cover. This nitrogen contribution is ecologically important in otherwise
-nitrogen-limited [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
-
-The species provides habitat and moisture retention for diverse
-microarthropod communities. Its thallus shelters springtails, oribatid
-mites, and various [[lichenicolous-fungi]].
+nitrogen-limited [[lichenicolous-fungi]].
 
 In [[mollison-designers-food-forest-succession-design]], N. laevigatum is typically a late-successional
 species requiring stable, humid conditions. It rarely colonizes disturbed
 or young secondary forests, making it a reliable indicator of forest
 continuity.
+
+## Overview
+
+Nephroma Laevigatum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nephroma laevigatum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nephroma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nephroma Laevigatum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nephroma laevigatum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nephroma laevigatum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nephroma Laevigatum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nephroma laevigatum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[nephroma-arcticum]]
+- [[nephroma-expansible]]

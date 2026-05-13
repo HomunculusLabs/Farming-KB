@@ -12,41 +12,19 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Stamets, P. (2000). Growing Gourmet & medicinal-mushrooms. Ten Speed Press.
-  - Wong, K.H. et al. (2012). "Hericium erinaceus: A valuable edible and medicinal mushroom." Food Chemistry, 135(2), 609-614.
+  - Stamets, P. (2000). growing-gourmet-abalone-oyster-cystidiosus-cultivation & medicinal-mushrooms. Ten Speed Press.
+  - Wong, K.H. et al. (2012). "[[cancer-medicinal-mushrooms-hericium-erinaceus]]: A valuable edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]]." Food Chemistry, 135(2), 609-614.
   - Li, Y. et al. (2022). "Hericium erinaceus improves mild cognitive impairment: A double-blind placebo-controlled clinical trial." Phytotherapy Research.
   - Mori, K. et al. (2009). "Improving effects of the mushroom Yamabushitake on cognitive function." Phytotherapy Research, 23(3), 367-372.
   - Wang, C.X. et al. (2020). "Neurotrophic properties of Hericium erinaceus and its active compounds." Journal of Fungi, 6(4), 286.
-  - Wasser, S.P. (2014). "Medicinal mushroom science: History, current status, future trends, and unsolved problems." International Journal of Medicinal Mushrooms, 16(3), 237-256.
+  - Wasser, S.P. (2014). "Medicinal mushroom science: History, current status, future trends, and unsolved problems." International Journal of [[cancer-medicinal-mushrooms]], 16(3), 237-256.
 ---
 
 # Lion's Mane Mushroom (Hericium erinaceus)
 
 ## Overview
 
-Lion's Mane (*Hericium erinaceus*) is a prized edible and medicinal mushroom belonging to the family Hericiaceae in the order Russulales. Recognized globally by its cascading white, tooth-like spines that resemble a flowing mane, it has been used for centuries in Traditional Chinese Medicine (TCM) and Japanese herbalism (where it is known as **yamabushitake**, 山伏茸) for digestive health, cognitive support, and general vitality. Modern research has confirmed potent neuroprotective, neurotrophic, and immunomodulatory properties, making it one of the most studied [[medicinal-mushrooms-reishi-and-maitake]] of the 21st century.
-
-## Taxonomy and Identification
-
-### Taxonomic Classification
-
-| Rank | Classification |
-|------|---------------|
-| Kingdom | Fungi |
-| Division | Basidiomycota |
-| Class | Agaricomycetes |
-| Order | Russulales |
-| Family | Hericiaceae |
-| Genus | *Hericium* |
-| Species | *H. erinaceus* |
-
-### Related *Hericium* Species
-
-Several species within the genus *Hericium* share the characteristic tooth-like fruiting body morphology and are commonly confused in both foraging and commercial contexts:
-
-- **[[hericium-coralloides]]** (Coral Hedgehog Mushroom) — branching clusters of teeth, more coral-like growth pattern
-- **[[hericium-americanum]]** (Bear's Head Tooth) — found in North America, longer hanging spines, branches from a single attachment point
-- **Hericium erinaceus** (Lion's Mane) — the most commercially significant species, typically forms a single unbranched mass of descending spines
+Lion's Mane (*Hericium erinaceus*) is a prized edible and medicinal mushroom belonging to the family Hericiaceae in the order Russulales. Recognized globally by its cascading white, tooth-like spines that resemble a flowing mane, it has been used for centuries in Traditional Chinese Medicine (TCM) and Japanese herbalism (where it is known as **yamabushitake**, 山伏茸) for digestive health, cognitive support, and general vitality. Modern research has confirmed potent neuroprotective, neurotrophic, and immunomodulatory properties, making it one of the most studied [[hericium-coralloides]]** (Coral Hedgehog Mushroom) — branching clusters of teeth, more coral-like growth pattern
 - **[[hericium-abietis]]** (Western Coral Hedgehog) — grows on conifers in western North America
 
 ### Morphological Characteristics
@@ -56,22 +34,7 @@ Several species within the genus *Hericium* share the characteristic tooth-like 
 - **Surface**: Entirely covered with downward-pointing teeth, no visible cap or gills
 - **Flesh**: White, firm when young, becoming soft and fibrous with maturity
 - **Taste and odor**: Mildly sweet, seafood-like flavor often compared to lobster or crab; pleasant earthy aroma
-- **[[spore-print-collection-spore-mass-inoculation]]**: White to cream
-- **Spores**: Spherical to broadly ellipsoid, 5–7 × 5–6 µm, rough-walled (echinulate), amyloid
-
-### Habitat and Distribution
-
-Lion's Mane is a **white-rot saprotroph** found primarily on dead or dying hardwood trees in temperate and boreal forests of North America, Europe, and Asia. It favors:
-
-- **Substrates**: Dead or dying hardwoods — oak (*Quercus*), walnut (*Juglans*), beech (*Fagus*), maple (*Acer*), birch (*Betula*), sycamore (*Platanus*)
-- **Forest types**: Mixed deciduous and hardwood forests, especially old-growth stands with abundant woody debris
-- **Geographic range**: Widespread across the Northern Hemisphere; North America (east of the Rocky Mountains and Pacific Northwest), Europe, East Asia (China, Japan, Korea)
-- **Season**: Late summer through autumn (August–November in the Northern Hemisphere), occasionally in spring on stored wood
-- **Ecological role**: Decomposes lignin and cellulose via white-rot enzymatic pathways, contributing to nutrient cycling in forest ecosystems
-
-## Chemistry and Bioactive Compounds
-
-The medicinal properties of Lion's Mane arise from a complex array of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. The two most significant compound classes are the **hericenones** (found in the fruiting body) and **erinacines** (found in the mycelium), both of which stimulate **Nerve Growth Factor (NGF)** synthesis.
+- **[[antifungal-secondary-metabolites-coprophilous-fungi]]. The two most significant compound classes are the **hericenones** (found in the fruiting body) and **erinacines** (found in the mycelium), both of which stimulate **Nerve Growth Factor (NGF)** synthesis.
 
 ### Hericenones and Erinacines: Neurotrophic Compounds
 
@@ -98,7 +61,7 @@ The medicinal properties of Lion's Mane arise from a complex array of bioactive 
 | Erinacine S | Mycelium | Neuroprotective, anti-inflammatory |
 | Erinacine P | Mycelium | Anti-inflammatory |
 
-The mechanism of action involves stimulation of NGF synthesis in astrocytes through activation of the **JAK/STAT** and **MAPK/ERK** signaling pathways. Unlike many compounds that cannot cross the blood-brain barrier, both hericenones and erinacines have demonstrated ability to influence central nervous system function following oral administration.
+The mechanism of action involves stimulation of NGF synthesis in astrocytes through activation of the **JAK/STAT** and **MAPK/ERK** [[plant-signaling-pathways]]. Unlike many compounds that cannot cross the blood-brain barrier, both hericenones and erinacines have demonstrated ability to influence central nervous system function following oral administration.
 
 ### β-Glucans and Polysaccharides
 
@@ -125,7 +88,7 @@ Lion's Mane is most renowned for its neurotrophic and neuroprotective effects, w
 
 #### Nerve Growth Factor (NGF) Stimulation
 
-NGF is a neurotrophin essential for the growth, maintenance, proliferation, and survival of neurons. Declining NGF levels are associated with age-related cognitive decline and neurodegenerative diseases. Lion's Mane compounds (particularly erinacine A and hericenones C and D) stimulate NGF synthesis through:
+NGF is a neurotrophin essential for the growth, maintenance, proliferation, and survival of neurons. Declining NGF levels are associated with age-related cognitive decline and [[blesching-cannabis-neurodegenerative-diseases]]. Lion's Mane compounds (particularly erinacine A and hericenones C and D) stimulate NGF synthesis through:
 
 1. Activation of astrocyte NGF production
 2. Enhancement of neurite outgrowth in PC12 cells and primary cortical neurons

@@ -17,7 +17,7 @@ type: query
 
 ## What Is Mounting?
 
-Mounting means growing an epiphyte on a piece of wood, bark, or stone instead of in a pot — mimicking how these plants grow in nature. Mounted plants receive superior [[stamets-growing-room-air-circulation-co2-management]] to their roots, dramatically reducing the risk of [[cannabis-root-rot-prevention-and-treatment]]. They also make stunning naturalistic displays. The tradeoff is that mounted plants dry out faster and require more frequent watering than potted equivalents.
+Mounting means growing an epiphyte on a piece of wood, bark, or stone instead of in a pot — mimicking how these plants grow in nature. Mounted plants receive superior [[cannabis-root-rot-prevention-and-treatment]]. They also make stunning naturalistic displays. The tradeoff is that mounted plants dry out faster and require more frequent watering than potted equivalents.
 
 ## Choosing the Right Epiphyte for Mounting
 
@@ -119,23 +119,12 @@ Indoor environments are often too dry for mounted epiphytes (typical home humidi
 - **Room humidifiers**: The most reliable solution for larger collections.
 - **Grouping**: Cluster mounted plants together to create a shared microclimate of elevated humidity.
 - **Bathrooms and kitchens**: Naturally higher humidity; great locations for mounted epiphytes if light is adequate.
-- **Glass cases or terrariums**: Ideal for miniature mounted orchids and Tillandsia. Provide ventilation to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]].
-- **Greenhouse**: The ultimate solution. Even a small windowsill greenhouse dramatically improves results.
-
-## Light Requirements
-
-Follow [[liquid-fertilizer-from-weeds]] applied during regular watering. For mounted orchids: ¼ strength balanced fertilizer (20-20-20) once per week during active growth, reduced to monthly in winter. For Tillandsia: Submerge in fertilizer solution (¼ strength) for 30 minutes once or twice per month. Avoid urea-based fertilizers — epiphytes absorb nitrates and ammonium more readily.
+- **Glass cases or terrariums**: Ideal for miniature mounted orchids and Tillandsia. Provide ventilation to [[liquid-fertilizer-from-weeds]] applied during regular watering. For mounted orchids: ¼ strength balanced fertilizer (20-20-20) once per week during active growth, reduced to monthly in winter. For Tillandsia: Submerge in fertilizer solution (¼ strength) for 30 minutes once or twice per month. Avoid urea-based fertilizers — epiphytes absorb nitrates and ammonium more readily.
 
 ## Seasonal Care Adjustments
 
 | Season | Watering | Fertilizing | Light | Special Notes |
 |--------|----------|-------------|-------|---------------|
 | Spring | Increasing frequency | Resume weekly | Increasing | Repot/divide if needed |
-| Summer | Frequent (2-4x/week) | Weekly | Peak; may need shade | Watch for [[query-how-to-brew-kombucha-at-home-step-by-step]]
-
-- [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
-- [[query-how-do-i-make-koji-at-home-for-beginners]]
-
-## See Also
-
+| Summer | Frequent (2-4x/week) | Weekly | Peak; may need shade | Watch for [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
 - [[query-how-to-grow-and-care-for-a-tamarind-tree]]

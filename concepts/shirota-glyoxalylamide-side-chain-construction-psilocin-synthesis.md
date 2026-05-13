@@ -11,13 +11,7 @@ type: concept
 
 ## Overview
 
-A critical step in the Shirota, Hakamata, and Goda (2003) synthesis of psilocin is the construction of the 3-(2-aminoethyl) side chain through a two-step acylation-amidation sequence that proceeds via a glyoxalylamide intermediate. This route, from 4-acetylindole (4) through the glyoxaloyl intermediate (5) to the 3-dimethylaminooxalyl-4-acetylindole (6), provides an efficient and high-yielding path to install the N,N-dimethyltryptamine side chain that is essential to the pharmacological activity of both [[psilocin-and-psilocybin-chemistry]]. The glyoxalylamide approach avoids the challenges associated with alternative side chain installation methods.
-
-## Synthetic Strategy Overview
-
-### The Side Chain Problem
-
-The target molecule psilocin (4-hydroxy-N,N-dimethyltryptamine) requires a 3-(2-dimethylaminoethyl) substituent on the indole ring. Installing this two-carbon amine-bearing side chain at the indole 3-position is a fundamental synthetic challenge in [[psilocybin-tryptamine-chemistry-fungi]]. Several approaches have been explored:
+A critical step in the Shirota, Hakamata, and Goda (2003) synthesis of psilocin is the construction of the 3-(2-aminoethyl) side chain through a two-step acylation-amidation sequence that proceeds via a glyoxalylamide intermediate. This route, from 4-acetylindole (4) through the glyoxaloyl intermediate (5) to the 3-dimethylaminooxalyl-4-acetylindole (6), provides an efficient and high-yielding path to install the N,N-dimethyltryptamine side chain that is essential to the pharmacological activity of both [[psilocybin-tryptamine-chemistry-fungi]]. Several approaches have been explored:
 
 - **Direct alkylation**: Reaction of indole with halogenated amines, which typically gives poor regioselectivity and low yields due to competing reactions at the indole nitrogen.
 - **Grignard or organometallic approaches**: Installation of a two-carbon chain followed by functional group interconversion, which requires multiple steps and protecting group manipulations.
@@ -28,10 +22,7 @@ The target molecule psilocin (4-hydroxy-N,N-dimethyltryptamine) requires a 3-(2-
 
 The glyoxalylamide approach offers several advantages for large-scale synthesis:
 
-1. **Regioselectivity**: [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] reacts selectively at the indole 3-position, avoiding the N-1 position that can be problematic in direct alkylation approaches.
-2. **Crystalline intermediates**: Both the glyoxaloyl intermediate (5) and the glyoxalylamide (6) are obtained as crystalline solids, enabling purification by crystallization rather than chromatography.
-3. **High yields**: The two-step sequence proceeds in over 80% combined yield from 4-acetylindole.
-4. **Compatibility with [[acetyl-protection-route-psilocin-psilocybin-synthesis]]**: The oxalyl chloride acylation conditions are compatible with the 4-O-acetyl protecting group, eliminating the need for additional protection/deprotection steps.
+1. **Regioselectivity**: [[acetyl-protection-route-psilocin-psilocybin-synthesis]]**: The oxalyl chloride acylation conditions are compatible with the 4-O-acetyl protecting group, eliminating the need for additional protection/deprotection steps.
 5. **Direct reduction to target**: The glyoxalylamide can be reduced directly to psilocin in a single step using LiAlH4, simultaneously removing the acetyl protecting group.
 
 ## Step 1: Oxalyl Chloride Acylation (4 → 5)
@@ -40,7 +31,7 @@ The glyoxalylamide approach offers several advantages for large-scale synthesis:
 
 The conversion of 4-acetylindole (4) to 3-glyoxaloylindole (5) is described in the experimental section:
 
-1. **Substrate**: 4-Acetylindole (17.6 g, 100 mmol) dissolved in anhydrous diethyl ether (100 mL).
+1. **Substrate**: 4-Acetylindole (17.6 g, 100 mmol) dissolved in anhydrous [[diethyl-ether]] (100 mL).
 2. **Reagent**: Oxalyl chloride (13 mL, 146 mmol), added with stirring in an ice bath.
 3. **Precipitation**: After stirring for 15 minutes, n-hexane (200 mL) is added.
 4. **Crystallization**: The reaction flask is placed in a freezer and stored overnight.

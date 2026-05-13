@@ -10,21 +10,7 @@ sources:
 ---
 # Fukuoka on Nature, God, and the Limits of Knowledge
 
-Masanobu Fukuoka's philosophical framework in [[fukuoka-road-do-nothing-farming]] -- the recognition that all distinctions are ultimately artificial.
-
-## The Unity of All Religions
-
-In his chapter "Nature, God, and Man," Fukuoka develops a universalist theology that sees all religions as partial views of the same absolute reality:
-
-- "In a world beyond words, where language is of no consequence, 'God' and 'nature' are one and the same."
-
-- Christianity's monotheism and Buddhism's polytheism are merely different perspectives: "When one stands at the summit of the absolute world, there is no 'mono' or 'poly.'"
-
-- Different cultures see only partial profiles of God: "The vision of God seen by Christians in Europe is only a profile seen from the West."
-
-## The Vision of Totality
-
-Fukuoka recounts a transformative experience in his youth: "One day, while still a young man, I saw suddenly the totality of God." This vision, which he kept hidden for nearly fifty years, became the foundation of his life and [[cho-natural-farming-philosophy-of-non-interference]]. Yet he immediately turned away from it, choosing instead "the road of a dilettante farmer tilling a lost paradise."
+Masanobu Fukuoka's philosophical framework in [[cho-natural-farming-philosophy-of-non-interference]]. Yet he immediately turned away from it, choosing instead "the road of a dilettante farmer tilling a lost paradise."
 
 ## Nature as the Only True Teacher
 
@@ -36,26 +22,8 @@ Fukuoka argues that direct, unmediated experience of nature is the only path to 
 
 - "Unless one becomes a fool and renounces attachments, one cannot advance to the world of the absolute."
 
-This connects directly to [[fukuoka-western-eastern-philosophy-agriculture]]
-- [[fukuoka-natural-farming-spiritual-light]]
-- [[fukuoka-spiritual-philosophy-farming]]
-## Practical Considerations
-
-When working with Fukuoka on Nature, God, and the Limits of Knowledge, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+This connects directly to [[fukuoka-natural-farming-spiritual-light]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +79,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]
 - [[fukuoka-human-knowledge-limits-ecosystem-complexity]]
 - [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]]

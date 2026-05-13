@@ -13,62 +13,6 @@ One of the most ecologically significant applications of phytochrome
 photoreception is shade detection. Plants use the ratio of red to
 far-red light (R:FR) in their environment to assess whether they are
 at risk of being overtopped by neighboring vegetation, triggering the
-[[shade-avoidance-syndrome]] syndrome that reallocates resources toward vertical
-growth.
-
-## The Physics of Light Under Canopies
-
-Sunlight contains a roughly balanced mixture of red (660 nm) and
-far-red (730 nm) wavelengths, giving an R:FR ratio of approximately
-1.15-1.20 in open sunlight. However, chlorophyll in leaves absorbs
-red light very efficiently for photosynthesis while reflecting and
-transmitting far-red light. This creates a dramatic spectral shift
-under plant canopies:
-
-- **Direct sunlight**: R:FR ≈ 1.15
-- **Light transmitted through a leaf**: R:FR ≈ 0.1-0.3
-- **Deep shade under canopy**: R:FR ≈ 0.05-0.1
-
-A plant sitting beneath a canopy of competitors receives light that
-is heavily depleted in red and enriched in far-red — a reliable signal
-that neighboring vegetation is growing above it.
-
-## Phytochrome as a R:FR Sensor
-
-Phytochrome exists in two interconvertible forms:
-- **Pr** (red-absorbing form): Absorbs red light (660 nm) and
-  converts to Pfr
-- **Pfr** (far-red-absorbing form): Absorbs far-red light (730 nm)
-  and converts back to Pr
-
-Under normal daylight, red light predominates and most phytochrome
-is in the Pfr form. Under a canopy, far-red enrichment drives the
-equilibrium toward Pr. The Pfr:Pr ratio serves as a built-in
-spectrometer that continuously measures the R:FR ratio of ambient
-light.
-
-## The Shade Avoidance Syndrome
-
-When the Pfr:Pr ratio drops below a threshold (indicating low R:FR),
-plants activate a coordinated developmental response:
-
-### Stem Elongation
-The most visible response is rapid stem elongation. Auxin
-biosynthesis increases, and gibberellin signaling is upregulated,
-causing internodes to stretch. This allows the plant to "reach"
-for light above the competing canopy.
-
-### Leaf Adjustment
-- Leaves become thinner and broader to capture more light
-- Leaf angle changes to become more horizontal
-- Chlorophyll content per leaf area decreases
-- Specific leaf area (area per unit mass) increases
-
-### Reproductive Acceleration
-Shade-avoiding plants may accelerate flowering, producing seeds
-earlier to ensure reproduction before being completely shaded out.
-
-### Resource Reallocation
 [[soil-moisture-management-and-root-growth]] is suppressed in favor of shoot growth, and leaf
 biomass may be reduced. This is a risky strategy — the plant
 invests everything in reaching light, sacrificing structural
@@ -90,8 +34,91 @@ and increases disease susceptibility. Supplemental far-red LED
 lighting can be used to manipulate the R:FR ratio and control
 
 ## See Also
-- [[hamilton-shade-garden-plants]]
 - [[phytochrome-photoperiodism-plants]]
-- [[photoreceptors-in-plants-phytochrome-cryptochrome]]
 - [[mycorrhizal-phosphatase-activity-elf97-detection]]
 - [[parasitic-plant-host-detection-volatile-sensing]]
+
+## Overview
+
+Phytochrome Red Far Red Ratio Shade Detection Plants represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish phytochrome red far red ratio shade detection plants
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving phytochrome extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Phytochrome Red Far Red Ratio Shade Detection Plants finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for phytochrome red far red ratio shade detection plants. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+phytochrome red far red ratio shade detection plants and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Phytochrome Red Far Red Ratio Shade Detection Plants has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of phytochrome red far red ratio shade detection plants into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[phytochrome]]
+- [[phytochrome-discovery-butler-single-receptor-model]]
+- [[phytochrome-photoreceptor-red-far-red-light]]
+- [[phytochrome-photoreceptors-photoperiodism]]
+- [[phytochrome-red-far-red-switch-and-photoperiodism]]

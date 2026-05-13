@@ -13,13 +13,7 @@ updated: 2026-04-28
 sources:
   - Shulgin, A.T. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Trachsel, D. et al. (2013). "Psilocybin, psilocin, and baeocystin." In: The Psychotropic Drugs, 4th Ed.
-  - Dean, B.V. et al. (2013). "Legal highs: review of the situation." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 5(6): 410-415.
-  - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
----
-
-## Overview
-
-**4-HO-MPT** (4-hydroxy-*N*-methyl-*N*-propyltryptamine) is a synthetic substituted tryptamine and a close structural analogue of psilocin (4-HO-DMT). It belongs to the [[4-hydroxytryptamine]] class of serotonergic psychedelics and acts primarily as a partial agonist at the 5-HT2A receptor.
+  - Dean, B.V. et al. (2013). "Legal highs: review of the situation." [[4-hydroxytryptamine]] class of serotonergic psychedelics and acts primarily as a partial agonist at the 5-HT2A receptor.
 
 The compound is known among the research chemical community for its psilocin-like effects with a reportedly shorter duration and slightly altered character. It has never been approved for medical use and exists in a legal gray area in most jurisdictions.
 
@@ -31,60 +25,85 @@ Molecular formula: **C14H20N2O**.
 
 Molecular weight: **232.32 g/mol**.
 
-The structure consists of an indole ring system with a hydroxyl group at the 4-position and an *N*-methyl-*N*-propyl substitution on the terminal amine of the ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]].
+The structure consists of an indole ring system with a hydroxyl group at the 4-position and an *N*-methyl-*N*-propyl substitution on the terminal amine of the ethylamine [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes (5-HT1A, 5-HT2C) likely contributes to its overall subjective profile.
 
-The 4-hydroxy indole moiety is shared with psilocin, 4-HO-MET, and 4-HO-MiPT, contributing to similar pharmacodynamic profiles.
-
-Compared to 4-HO-MiPT (*N*-isopropyl), the propyl chain extends one carbon further, producing subtle differences in receptor affinity and metabolic stability.
-
-The freebase is an oil at room temperature; the compound is typically stored and handled as a fumarate or hydrochloride salt.
-
-## Pharmacology
-
-4-HO-MPT is a partial agonist at the 5-HT2A receptor, the primary receptor responsible for classical psychedelic effects.
-
-Affinity at 5-HT2A is comparable to psilocin, though precise Ki values from published binding assays remain limited.
-
-Activity at other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes (5-HT1A, 5-HT2C) likely contributes to its overall subjective profile.
-
-The compound is believed to undergo first-pass hepatic metabolism, with the 4-hydroxy group subject to [[glucuronidation]].
-
-The *N*-propyl substitution may confer slightly greater metabolic stability compared to shorter alkyl chains, potentially affecting duration.
-
-Pharmacokinetic data including half-life, clearance, and active metabolites have not been formally characterized in clinical studies.
-
-## Effects
-
-The subjective effects closely resemble those of psilocin and other 4-substituted tryptamines.
-
-Onset typically occurs 20–45 minutes after oral administration, depending on dose and individual metabolism.
-
-Peak effects manifest at approximately 60–90 minutes post-dose.
-
-The experience includes visual alterations, including color enhancement, patterning, and geometric hallucinations at moderate to high doses.
-
-Euphoria, altered cognition, introspective thought processes, and emotional amplification are commonly reported.
-
-Changes in auditory perception, synesthesia, and altered sense of time are typical of the tryptamine psychedelic class.
-
-Duration is generally reported as 4–6 hours, moderately shorter than psilocin's typical 5–7 hour window.
-
-Some users describe the headspace as slightly less introspective than psilocin, with a more recreational character.
-
-The comedown is typically smooth, with residual stimulation lasting 1–2 hours after primary effects subside.
-
-## Dosage
-
-Oral threshold dose is approximately 5–8 mg.
-
-A light experience is commonly reported at 8–15 mg.
-
-A moderate dose ranges from 15–25 mg.
-
-A strong dose is 25–35 mg, with doses above 35 mg considered heavy and potentially overwhelming.
-
-These ranges are derived from community self-reports and have not been validated in controlled clinical settings.
-
-As with all novel [[cultural-evolution-and-psychoactive-substances]], users are advised to start at the lowest effective dose.
+The compound is believed to undergo first-pass hepatic metabolism, with the 4-hydroxy group subject to [[cultural-evolution-and-psychoactive-substances]], users are advised to start at the lowest effective dose.
 
 ## Synthesis
+
+## Overview
+
+4 Ho Mpt represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 4 ho mpt
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 4 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+4 Ho Mpt finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 4 ho mpt. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+4 ho mpt and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+4 Ho Mpt has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 4 ho mpt into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -12,27 +12,7 @@ related_concepts: [tomato-growing-guide, pepper-growing-guide, bean-growing-guid
 
 Home vegetable gardening is the practice of cultivating edible plants for
 personal or household consumption, typically in a backyard, community plot,
-container, or balcony garden. [[container-growing-vegetables-herbs]] at home is one of the oldest
-and most fundamental human activities, with roots stretching back roughly
-12,000 years to the Neolithic Revolution when early humans first transitioned
-from nomadic foraging to settled agriculture. Today, the tradition continues
-not out of necessity for most practitioners, but out of a deep-seated desire
-for fresh, flavorful food, physical and mental well-being, and a tangible
-connection to the natural world.
-
-The modern resurgence of home food production, which accelerated significantly
-during the COVID-19 pandemic of 2020, reflects a convergence of health
-awareness, environmental concern, and food security anxiety. Studies have
-consistently shown that home-grown vegetables can be more nutrient-dense than
-their supermarket counterparts, particularly when harvested at peak ripeness
-and consumed within hours. The physical activity involved in gardening has
-been linked to reduced stress, improved cardiovascular health, and lower rates
-of depression. Beyond individual benefits, home gardens contribute to local
-food resilience, reduce the carbon footprint associated with long-distance
-food transport, and promote biodiversity in urban and suburban landscapes.
-
-Beginning a vegetable garden need not be complicated or expensive. At its
-core, successful [[dry-gardening-unirrigated-vegetable-production-solomon]] depends on understanding a handful of
+container, or balcony garden. [[dry-gardening-unirrigated-vegetable-production-solomon]] depends on understanding a handful of
 principles: selecting an appropriate site with adequate sunlight, building and
 maintaining healthy soil, choosing varieties suited to the local climate and
 growing season, and providing consistent care including watering, weeding, and
@@ -79,9 +59,7 @@ enough for a wheelbarrow, typically three to four feet, and beds themselves
 should be no wider than four feet to allow easy reaching from either side
 without stepping into the growing area.
 
-[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], the practice of staggering plantings of the same crop at
-intervals of one to three weeks, extends the harvest window and prevents
-gluts. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], a traditional practice with varying degrees of
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], a traditional practice with varying degrees of
 scientific support, involves interplanting species that may benefit each other
 through pest deterrence, nutrient sharing, or physical support. Classic
 examples include basil with tomatoes, marigolds among vegetables to deter
@@ -115,17 +93,11 @@ well-draining medium that reduces the risk of damping-off disease.
 
 ## See Also
 
-- [[tomato-growing-guide]]
 - [[pepper-growing-guide]]
-- [[bean-growing-guide]]
 - [[brassica-growing-guide]]
-- [[carrot-growing-guide]]
 - [[cucumber-growing-guide]]
-- [[garlic-growing-guide]]
 - [[lettuce-and-leafy-greens]]
-- [[onion-growing-guide]]
 - [[potato-growing-guide]]
-- [[tomato-pepper-eggplant-growing-guide]]
 - [[root-vegetable-storage-guide]]
 
 ## References

@@ -36,29 +36,14 @@ exchange. These fungi form vast underground networks, sometimes called the
 "wood wide web," that connect individual plants to one another, allowing for 
 the transfer of carbon, water, nutrients, and even chemical alarm signals 
 between neighboring trees and understory plants. Mycorrhizal networks influence 
-plant [[core-endorhiza-bacterial-community-composition-cannabis]], seedling establishment, and the competitive 
-dynamics of entire ecosystems. They play a critical role in soil structure 
-formation, carbon sequestration, and the cycling of organic matter. 
-Understanding mycorrhizal fungi is essential for anyone interested in plant 
-ecology, sustainable agriculture, or the hidden complexities of soil biology.
-
-Research into mycorrhizal fungi has accelerated dramatically in recent decades, 
-driven by advances in molecular ecology and a growing appreciation for the 
-importance of soil health in both natural and managed ecosystems. Scientists 
-now recognize that mycorrhizal networks are not passive conduits but active 
-participants in ecosystem function, shaping nutrient flows and plant 
-interactions in ways that are still being uncovered. For farmers and gardeners, 
-[[pgpr-mycorrhizal-inoculants-microplant-establishment]] have become a cornerstone of regenerative agriculture, 
+plant [[pgpr-mycorrhizal-inoculants-microplant-establishment]] have become a cornerstone of regenerative agriculture, 
 offering a path to reduce fertilizer dependency while improving crop 
 resilience. For restoration ecologists, mycorrhizal fungi are essential 
 partners in re-establishing healthy plant communities on degraded lands.
 
 ## Evolutionary History
 
-The [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] is ancient, with fossil evidence suggesting it dates 
-back approximately 400 million years to the earliest land plants. The oldest 
-known fossil of a land plant, Aglaophyton major from the early Devonian period, 
-shows clear evidence of arbuscular [[arbuscular-mycorrhizal-colonization-patterns]] in its rhizomes. 
+The [[arbuscular-mycorrhizal-colonization-patterns]] in its rhizomes. 
 This finding strongly supports the hypothesis that mycorrhizal fungi were 
 instrumental in the colonization of land by plants. Early terrestrial 
 environments would have been nutrient-poor and subject to drought stress, and 
@@ -121,16 +106,13 @@ cortical cells of the root. This intercellular interface is where nutrient
 exchange occurs. Ectomycorrhizal fungi are incredibly diverse taxonomically, 
 ## See Also
 
-[[arbuscular-mycorrhizal-fungi]] [[common-mycorrhizal-networks]]
-[[arbuscular-mycorrhizal-networks]]
+[[common-mycorrhizal-networks]]
 [[agricultural-chemicals-mycorrhizal-impact]]
-fungal-soil-food-web [[soil-foodweb]]
-[[dighton-ectomycorrhizal-ecosystem-impact]]
+fungal-soil-food-web [[dighton-ectomycorrhizal-ecosystem-impact]]
 
 ## References
 
-- Dighton, J. Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker, 2003.
-- Gadd, G.M. [[mycorrhizal-fungi-in-biogeochemical-cycling]] Cycles. Cambridge University Press, 2006.
+- Dighton, J. Fungi in [[mycorrhizal-fungi-in-biogeochemical-cycling]] Cycles. Cambridge University Press, 2006.
 - Lowenfels, J. and Lewis, W. Teaming with Fungi: The Organic Grower's Guide to
   Mycorrhizae. Timber Press, 2010.
 - Singh, B.P. Mycorrhizal Fungi: Use in Sustainable Agriculture and Land

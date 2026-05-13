@@ -14,16 +14,7 @@ date: 2026-05-10
 sources:
   - Allan, H.H., 1961. "Flora of New Zealand, Vol. I." Government Printer, Wellington.
   - Connor, H.E. & Edgar, E., 1987. "Name changes in the indigenous New Zealand flora, 1960–1986." New Zealand Journal of Botany, 25: 115–170.
-  - de Lange, P.J. et al., 2018. "[[fungal-biodiversity-conservation-status]] of New Zealand indigenous vascular plants." New Zealand Threat Classification Series, Department of Conservation.
----
-
-## Overview
-
-Wahlenbergia albomarginata Hook.f., commonly known as the New Zealand harebell or white-edged harebell, is a small alpine perennial herb in the family Campanulaceae. It is endemic to the South Island of New Zealand, where it inhabits high-elevation rocky outcrops, fellfields, and tussock grasslands above 1,000 m.
-
-The species is distinguished from other New Zealand Wahlenbergia by its white-margined calyx lobes, compact cushion-forming habit, and relatively large, solitary, pale blue to white flowers. It is one of approximately 30 Wahlenbergia species native to New Zealand.
-
-Despite its restricted range, the species is not currently considered threatened. However, alpine populations face pressure from [[dighton-fungal-responses-climate-change]], browsing mammals, and habitat disturbance from recreational activities in mountain areas.
+  - de Lange, P.J. et al., 2018. "[[dighton-fungal-responses-climate-change]], browsing mammals, and habitat disturbance from recreational activities in mountain areas.
 
 The species is of horticultural interest as a compact alpine cushion plant suitable for rock gardens. Its delicate pale blue flowers and neat cushion habit make it attractive for specialized alpine plant collections.
 
@@ -35,56 +26,101 @@ The genus Wahlenbergia belongs to the family Campanulaceae, subfamily Campanuloi
 
 Wahlenbergia albomarginata forms low, compact cushions or mats, typically 2–5 cm tall and 10–30 cm in diameter. The stems are slender, prostrate to ascending, and much-branched from the base, creating a dense cushion habit.
 
-Leaves are small, linear to narrowly obovate, 3–10 mm long, bright green, and arranged alternately along the stems. The leaf margins are entire or slightly recurved, and the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is sparsely hairy to glabrous.
+Leaves are small, linear to narrowly obovate, 3–10 mm long, bright green, and arranged alternately along the stems. The leaf margins are entire or slightly recurved, and the [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
-Flowers are solitary, produced at the tips of ascending branchlets, and held slightly above the cushion surface. Each flower is campanulate, 10–18 mm in diameter, with five pale blue to white corolla lobes.
-
-The calyx tube is short, with five narrow lobes that have conspicuous white, scarious (dry and membranous) margins — the diagnostic feature of the species. The white-margined calyx lobes distinguish it from the similar W. gracilis and W. pygmaea.
-
-The corolla is pale lavender-blue to almost white, with darker veins radiating from the center of each lobe. Flowering occurs from December to February (austral summer), with individual blooms lasting 3–5 days.
-
-Fruit is a small, globose capsule, 4–6 mm long, dehiscing by three apical valves to release numerous minute, ellipsoid seeds. Seeds are light brown, smooth-surfaced, and dispersed primarily by wind and gravity across rocky substrates.
-
-The chromosome number is 2n = 36, consistent with the base chromosome number reported for other New Zealand Wahlenbergia species. Polyploidy is common in the genus and may contribute to the high species diversity in New Zealand.
-
-## Distribution and Habitat
-
-Wahlenbergia albomarginata is endemic to the South Island of New Zealand. It occurs primarily in the Southern Alps (Kā Tiritiri o te Moana), from Nelson Lakes through Canterbury and Westland to northern Otago.
-
-The species occupies high-alpine habitats between 1,000 and 2,200 m elevation. It grows on stable rocky outcrops, fellfield pavements, exposed ridge crests, and well-drained tussock grassland margins.
-
-Typical habitats include schist and greywacke rock crevices, moraine deposits, and wind-scoured gravel terraces. The species prefers sites with good drainage, full sun exposure, and protection from prolonged snow lie during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
-
-Associated alpine species include Celmisia coriacea, Raoulia eximia, Aciphylla species, and various tussock-forming Chionochloa grasses. Wahlenbergia albomarginata occupies a similar ecological niche to Northern Hemisphere cushion campanulas such as [[campanula-carpatica]].
-
-Populations become increasingly fragmented toward the eastern and western range limits. The species is absent from the North Island and from the southernmost parts of the South Island, reflecting its preference for continental-alpine rather than maritime conditions.
-
-The total area of occupancy is estimated at less than 500 km², though the species occurs within several large national parks and conservation areas that provide formal habitat protection.
-
-## Cultivation
-
-New Zealand harebell is cultivated as an alpine rock garden plant in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], valued for its compact cushion habit and delicate summer flowers. It is suitable for USDA zones 5–8 in well-drained, gritty, neutral to slightly acidic soils.
+Associated alpine species include Celmisia coriacea, Raoulia eximia, Aciphylla species, and various tussock-forming Chionochloa grasses. Wahlenbergia albomarginata occupies a similar ecological niche to Northern Hemisphere cushion campanulas such as [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], valued for its compact cushion habit and delicate summer flowers. It is suitable for USDA zones 5–8 in well-drained, gritty, neutral to slightly acidic soils.
 
 Propagation is by seed or careful division of established cushion clumps. Seeds require cold stratification for 4–6 weeks and should be sown on the surface of a gritty, free-draining compost mix in late winter.
 
-Seedlings are tiny and slow-growing, requiring careful attention to watering during their first year. Transplanting is best done in [[coleman-overwintered-onions-and-early-spring-crops]] before active growth resumes, minimizing root disturbance.
+Seedlings are tiny and slow-growing, requiring careful attention to watering during their first year. Transplanting is best done in [[duggar-mushroom-insect-pests-and-fungal-diseases]].
 
-In cultivation, the species requires excellent drainage, full sun, and protection from winter wet. Plants are intolerant of waterlogging and high humidity, which promote crown rot [[duggar-mushroom-insect-pests-and-fungal-diseases]].
+The cushion form makes it an ideal specimen for trough gardens, crevice plantings, and raised alpine beds. It pairs well with other [[jadam-pesticide-for-slugs-and-snails]] can be problematic in damp conditions, feeding on the succulent growing tips. Applying grit or fine gravel around the cushion base deters mollusk damage and improves drainage simultaneously.
 
-The cushion form makes it an ideal specimen for trough gardens, crevice plantings, and raised alpine beds. It pairs well with other [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] alpines such as Celmisia, Raoulia, and Ourisia species.
-
-Plants are relatively short-lived in cultivation, typically persisting 4–6 years. Regular division and re-propagation from seed ensures continuity in alpine garden displays.
-
-[[jadam-pesticide-for-slugs-and-snails]] can be problematic in damp conditions, feeding on the succulent growing tips. Applying grit or fine gravel around the cushion base deters mollusk damage and improves drainage simultaneously.
-
-The species benefits from a dry winter mulch of coarse grit in regions with wet winters. This protects the cushion crown from excess moisture while allowing [[stamets-growing-room-air-circulation-co2-management]] around the stems.
-
-## Ecological Role
-
-The open, shallow flowers of Wahlenbergia albomarginata are visited by small native bees, flies, and moths during the austral summer flowering period. The pale blue coloration and contrasting darker veins serve as nectar guides for insect visitors.
-
-As a cushion-forming plant, the species creates stable microhabitats within its dense canopy. The cushion traps organic debris, moisture, and fine soil particles, supporting a micro-community of invertebrates and microbial organisms.
-
-The species contributes to alpine soil stabilization on exposed rocky sites. Its fibrous root system binds loose substrate [[hamilton-composting-and-organic-matter-management]], playing a minor but cumulative role in fellfield soil development over decades.
+The species benefits from a dry winter mulch of coarse grit in regions with wet winters. This protects the cushion crown from excess moisture while allowing [[hamilton-composting-and-organic-matter-management]], playing a minor but cumulative role in fellfield soil development over decades.
 
 New Zealand Wahlenbergia species serve as larval host plants for several endemic moths in the family Gelechiidae. The specific herbivore associations of W. albomarginata have not been fully documented.
+
+## Overview
+
+Wahlenbergia Albomarginata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wahlenbergia albomarginata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wahlenbergia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wahlenbergia Albomarginata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wahlenbergia albomarginata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wahlenbergia albomarginata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wahlenbergia Albomarginata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wahlenbergia albomarginata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[wahlenbergia-capensis]]
+- [[wahlenbergia-gloriosa]]
+- [[wahlenbergia-hederacea]]
+- [[wahlenbergia-marginata]]
+- [[wahlenbergia-stricta]]

@@ -2,46 +2,21 @@
 title: 2C-SE (2,5-Dimethoxy-4-methylselenophenethylamine)
 created: 2026-04-16
 updated: 2026-04-16
-type: [[meta-dob-entity-pihkal]]
+type: meta-dob-entity-pihkal
 tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 # 2C-SE
 
-**[[2c-b-pihkal-entry-20]] #38** -- 2,5-Dimethoxy-4-methylselenophenethylamine
-
-## Chemical Name
-
-2,5-Dimethoxy-4-methylselenophenethylamine
-
-## Dosage and Duration
-
-- **Dosage:** perhaps 100 mg
-
-- **Duration:** 6 - 8 h
-
-## Qualitative Comments
-
-(with 50 mg) My tongue feels as if I had eaten hot food. Overall I got up to a
-plus 1, and found the effects to be completely benign. I wandered about within
-the Graves exhibit at the Oakland Museum but there seemed to be only minor
-enhancement of the visual input.
-
-(with 70 mg) The water solution of this material has an unspeakable smell. But
-there is no lasting taste, thank heaven. This is up to a 1.5 + and probably
-half again would be an effective dose. The first awareness was at 45 minutes,
-and the plateau lasted from 1.5 hours to about the fourth hour. I was at
-certain baseline at 8 hours.
-
-## [[four-hydroxyindole-psilocin-synthesis-route-shirota]]
+**[[four-hydroxyindole-psilocin-synthesis-route-shirota]]
 
 A suspension of 5.65 g 1,4-dimethoxybenzene in 100 mL petroleum ether
 containing 6.5 mL N,N,N',N'-tetramethylethylenediamine was magnetically stirred,
 placed in an inert atmosphere, and cooled to 0 degrees C. There was then added
 27 mL of 1.6 M butyllithium in hexane. After coming to room temperature, 4.8 g
 dimethyl diselenide was added, leading to an exothermic reaction with color
-change from [[brown-rot-white-rot-fungi-remediation]] to yellow, to [[what-a-plant-knows-phytochrome-red-far-red-light-switch]] [[greg-green-water-quality-and-hard-water]], to an eventual [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]. After 2 h,
+change from [[what-a-plant-knows-phytochrome-red-far-red-light-switch]] [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]. After 2 h,
 the reaction was quenched in dilute NaOH. Distillation at 0.4 mm/Hg gave 2,5-
 dimethoxyphenyl methyl selenide as a pale yellow oil (100-120 degrees C), used
 without further purification.
@@ -55,36 +30,95 @@ mm/Hg. The hydrochloride salt had mp 240-241 degrees C.
 ## Extensions and Commentary
 
 With an entirely new hetero atom in the molecule (the selenium), and with
-clear indications that [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]] dosages would be needed (100 milligrams or more),
-some discretion was felt desirable. There was certainly an odd taste and an odd
-smell. Some early biochemical work where selenium replaced sulfur in some amino
-acid chemistry showed [[fukuoka-textdoc-one-thing-is-all-things-holism]] could get pretty toxic. It might be appropriate to
-get some general [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]] toxicity data before exploring those dosages that might
-get to a +++.
-
-What doors are opened by the observation that the selenium analog of 2C-T is an
-active compound? The potency appears to be in the same ball park, whether there
-is a sulfur atom or a selenium atom there.
-
-From the point of view of the hetero-atom itself, there are two more known
-below selenium in the Periodic Table. Each deserves some special comment. The
-next atom, directly below selenium, is tellurium. It is more metallic, and its
-compounds have a worse smell yet. A German chemist carrying a vial of dibutyl
-telluride had it fall and break in a passenger coach -- no one could remain in
-the car, and no amount of decontamination could make the smell tolerable.
-Scratch one railway coach. But the compound 2C-TE would be readily makeable.
-
-However, the atom below tellurium (and at the bottom of that column) is
-polonium. There are no non-radioactive isotopes. The only readily available
-isotope (mass 210, also called Radium F) is an alpha-particle emitter. If put
-into a living organism, it would thoroughly and completely cook whatever area it
-accumulated in. Shulgin would have called it HARDINAMINE in honor of Dr. Hardin
-Jones, who always argued that the continuing use of drugs would burn out the
-pleasure center of the brain. 2C-PO would quite literally do this.
-
-There was an interesting observation: during synthesis of the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]],
+clear indications that [[fukuoka-textdoc-one-thing-is-all-things-holism]] could get pretty toxic. It might be appropriate to
+get some general [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]],
 a quantity of CH3SeH was released into the environment. Within minutes, there
 were two beautiful dragonflies in the lab. "A coincidence certainly, but
 somehow, it was a nice message to receive."
 
 The most promising selenium analogues would be Se-[[ethyl-j-entity-pihkal]], Se-propyl, and
+
+## Overview
+
+2C Se Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c se entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C Se Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c se entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c se entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2C Se Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c se entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

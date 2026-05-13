@@ -3,7 +3,7 @@ title: Homestead Workshop and Tools
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], equipment, construction, tools, workflow]
+tags: [homesteading, equipment, construction, tools, workflow]
 sources: []
 ---
 
@@ -22,7 +22,7 @@ Design the workshop around workflow zones similar to [[homestead-kitchen-design]
 - **Power tool station** — near outlets, ideally on a mobile cart for flexibility.
 - **Cleaning/solvent area** — near a door or ventilation. Parts washer if you do engine work.
 
-Natural lighting from windows plus bright overhead LEDs (5000K) at minimum 100 lumens per [[comparison-biointensive-vs-square-foot-gardening]]. A dedicated 20-amp circuit for heavy tools.
+Natural lighting from windows plus bright overhead LEDs (5000K) at minimum 100 lumens per square foot. A dedicated 20-amp circuit for heavy tools.
 
 ## Essential Hand Tools
 
@@ -92,38 +92,3 @@ Prioritize the workbench first — a solid, flat, stable surface makes every pro
 ## Related
 
 - [[homestead-tool-maintenance]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[homestead-record-keeping]]
-- [[homestead-planning-and-zoning]]
-- [[homestead-scale-assessment]]
-- [[online-homestead-sales]]

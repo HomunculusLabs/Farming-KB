@@ -1,16 +1,14 @@
 ---
 title: "HPS vs CMH Grow Lights"
 created: 2026-04-28
-tags: [comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing|comparison], grow-lights, [[green-cannabis-grow-bible-indoor-grow-room-setup|cannabis]], indoor-growing]
+tags: [comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing|comparison], grow-lights, cannabis, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
 type: comparison
 ---
 
-# HPS vs CMH [[cannabis-grow-room-setup]]s worldwide, but they
-differ significantly in spectral output, efficiency, heat profile, and
-versatility across [[hps-grow-lights]]
+# HPS vs CMH [[hps-grow-lights]]
 
 HPS (High Pressure Sodium) lamps are HID lights widely regarded as the most
 efficient lighting for flowering cannabis. They produce yellow/orange/red
@@ -37,8 +35,7 @@ if the bulb still fires.
 
 ## CMH (Ceramic Metal Halide)
 
-[[led-vs-hps-grow-lights]]
-- [[cmh-grow-lights]]
+[[cmh-grow-lights]]
 ## Practical Considerations
 
 When working with HPS vs CMH Grow Lights, several practical factors should be
@@ -97,3 +94,7 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+
+## See Also
+
+- [[comparison-biodynamic-vs-biointensive]]

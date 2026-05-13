@@ -16,11 +16,7 @@ type: concept
 
 # Problem Plant Regulation with Livestock
 
-[[comparison-sepp-holzer-vs-biodynamic]] has developed a distinctive approach to managing problem plants
-that works with natural processes rather than fighting against them. Rather
-than relying on herbicides or intensive cultivation, he uses livestock,
-strategic planting, and ecological understanding to restore balance to
-overgrown or imbalanced areas. This approach is central to [[sepp-holzer-garden-helpers-and-pest-regulation]].
+[[sepp-holzer-garden-helpers-and-pest-regulation]].
 
 ## Understanding the Causes
 
@@ -34,38 +30,8 @@ most of these problems ourselves.
 
 Broad-leaved dock (Rumex obtusifolius), stinging nettles (Urtica dioica),
 and orache (Atriplex patula) indicate a high level of nitrogen in the soil.
-Overfertilising or overly intensive [[grassland-pasture-management-mollison]] usually causes this
-imbalance. To deal with this, the balance must be restored and the land
-managed differently. It makes no sense just to treat the symptoms.
-
-## Problems on Converting Land
-
-Problems with rapidly growing plants frequently occur in fallow areas or on
-land that has changed from being managed using conventional methods to being
-managed using natural ones. These areas often used to be intensively
-fertilised and provide ideal conditions for these plants, and suddenly not
-using pesticides any more lets them come back up. Some farmers then begin to
-doubt themselves and forget that this change is the right decision.
-
-Mistakes that were made years or even decades ago cannot be rectified in
-such a short period of time. Nature takes a while to recover. This transition
-period is a natural part of converting to [[holzer-livestock-philosophy-paddock-system]] and
-[[holzer-pig-integration]] is
-particularly effective for problem plant regulation because pigs root and
-dig, bringing problem plants to the surface where they dry out.
-
-### Step One: Targeted Grazing
-If a particular variety of plant still appears in numbers that are too great
-in one area, Holzer puts his pigs out to graze in this area. He supports the
-process by sowing peas, beans, or sweetcorn between the unwanted plants. This
-makes the pigs concentrate on these areas. The plants and roots will be
-partly eaten or the digging will bring them to the surface where they will
-dry out.
-
-### Step Two: Absorbing Excess Nutrients
-After the pigs are moved on to the next paddock, Holzer introduces demanding
-plants, especially tubers like Jerusalem artichokes (Helianthus tuberosus),
-but also sunflowers (Helianthus annuus) and hemp ([[comparison-cannabis-sativa-vs-cannabis-indica]]). They
+Overfertilising or overly intensive [[holzer-livestock-philosophy-paddock-system]] and
+[[comparison-cannabis-sativa-vs-cannabis-indica]]). They
 absorb all of the excess nutrients and make the conditions worse for the
 "weeds". They also grow tall and quickly on the nutrient-rich soils, so they
 will overshadow and kill off any remaining problem plants.
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[soil-life]]
-- [[jerusalem-artichoke]]
 - [[helianthus-tuberosus]]
 - [[urtica-dioica]]

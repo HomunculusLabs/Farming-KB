@@ -24,33 +24,18 @@ can also affect other parts of the body. TB has been a major global
 health concern for centuries and remains one of the leading causes of
 death from infectious disease worldwide.
 
-The [[blesching-cannabis-health-index-autoimmune-conditions]] lists tuberculosis among the bacterial
-infections catalogued in its comprehensive survey of cannabis research
-applications, and as one of the significant [[blesching-cannabis-aids-opportunistic-infections]]
+The [[blesching-cannabis-aids-opportunistic-infections]]
 encountered in AIDS patients.
 
 ## Tuberculosis as an Opportunistic Infection
 
 In the context of HIV/AIDS, tuberculosis represents one of the most
 dangerous bacterial complications. Within a weakened immune system,
-[[blesching-cannabis-infectious-agents-cancer]] such as bacteria encounter little resistance from the
-body's natural defenses. Blesching notes that pneumonia in AIDS patients
-may progress into tuberculosis or pneumocystis pneumonia.
-
-The destructive process of AIDS-related immune suppression creates an
-environment where bacteria like Mycobacterium tuberculosis can thrive.
-The body's natural filters (lymph nodes, liver, and kidneys) become
-overwhelmed, further increasing symptoms of weakness, low energy, and
-weight loss.
-
-## Bacterial Infections and the Immune System
-
-The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] provides important context for understanding
+[[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] provides important context for understanding
 how tuberculosis fits within the broader picture of bacterial infections
 and cannabinoid therapy:
 
-The [[fukuoka-limits-scientific-method-agriculture]] has determined that antibiotics are useless in
-fighting [[cervantes-viral-diseases-cannabis]] but may work to eliminate bacterial infections
+The [[cervantes-viral-diseases-cannabis]] but may work to eliminate bacterial infections
 such as tuberculosis. However, the growing crisis of antibiotic
 resistance means that new approaches are urgently needed.
 
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[det]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]
 - [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]

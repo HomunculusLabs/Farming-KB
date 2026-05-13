@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags:
-  - [[shamanism]]
-  - [[psilocybin]]
+  - psilocybin
   - ethnobotany
   - anthropology
 sources:
@@ -14,7 +13,7 @@ sources:
 
 # Munn and the Mazatec Mushroom Oracular Cure
 
-Henry Munn's essay "The Mushrooms of Language" appears in [[mazatec-mushrooms-of-language]] for additional context on this essay and [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and maria-sabina-mazatec-mushroom-curandera and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
+Henry Munn's essay "The Mushrooms of Language" appears in [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and maria-sabina-mazatec-mushroom-curandera and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
 
 ## The Shaman as Speaker
 
@@ -87,3 +86,7 @@ Munn's essay illustrates the eternal dilemma of the participant observer.
 For hallucinogenic experiences, the dilemma is compounded: two cultural worlds plus "ordinary" and "non-ordinary" realities.
 
 Munn became a convert: "To call such transcendental experiences of light, vision, and speech hallucinatory is to deny that they are revelations of reality."
+
+## See Also
+
+- [[mazatec-mushroom-culture-and-velada]]

@@ -27,11 +27,11 @@ A homestead herb business transforms homegrown herbs into value-added products: 
 ### Medicinal Herbs (Higher Margin, Niche Market)
 - Chamomile: calming tea, easy to grow, high demand
 - Echinacea: immune support, popular tincture ingredient
-- [[comparison-echinacea-vs-lemon-balm]]: calming, easy to grow, perennial
-- Calendula: skin healing, salves, [[blesching-cannabis-tinctures-infused-oils-topical-preparations]], annual
+- Lemon balm: calming, easy to grow, perennial
+- Calendula: skin healing, salves, infused oils, annual
 - Peppermint: digestive, tea, tincture
 - Yarrow: wound healing, fever reduction, perennial
-- [[holy-basil-tulsi-guide]] (tulsi): adaptogen, growing popularity
+- Holy basil (tulsi): adaptogen, growing popularity
 - Valerian: sleep aid, root harvest, perennial
 - Elderberry: syrup, immune support, shrub
 
@@ -53,8 +53,8 @@ Start with 5-8 varieties. Recommended starter mix:
 - Most herbs prefer well-drained soil and full sun (6+ hours)
 - Perennial herbs: plant once, harvest for years
 - Annual herbs: succession plant every 2-3 weeks for continuous harvest
-- [[container-growing-vegetables-herbs]]: excellent for mint (containment) and annuals
-- Integrate into [[food-forest-design]] and [[food-forest-design]] designs
+- Container growing: excellent for mint (containment) and annuals
+- Integrate into [[food-forest-design|food-forest]] and [[food-forest-design|plant-systems]] designs
 
 ### Harvest Timing
 - Harvest culinary herbs just before flowering (peak oil content)
@@ -79,7 +79,7 @@ Start with 5-8 varieties. Recommended starter mix:
 - Oven drying: lowest setting with door propped open. Less ideal -- easy to over-dry.
 - Herbs are dry when stems snap and leaves crumble.
 - Store in airtight glass jars away from light and heat.
-- [[ingham-aact-holding-time-shelf-life-decay]]: 1 year for leaves, 2 years for roots/seeds.
+- Shelf life: 1 year for leaves, 2 years for roots/seeds.
 
 ### Tinctures
 - Alcohol tincture: pack dried herb in jar, cover with 80-100 proof vodka or everclear
@@ -95,7 +95,7 @@ Start with 5-8 varieties. Recommended starter mix:
 - Combine infused oil with beeswax (1:4 to 1:5 beeswax to oil ratio by weight)
 - Heat gently until beeswax melts
 - Pour into tins or jars
-- Add [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] (optional) after cooling slightly
+- Add essential oils (optional) after cooling slightly
 - Shelf life: 1-2 years
 
 ### Tea Blends
@@ -141,10 +141,10 @@ Start with 5-8 varieties. Recommended starter mix:
 - Loose-leaf tins (2-4 oz): $8-14
 - Sample sizes: $3-5 for 1-2 servings
 
-## Sales Channels
+## See Also
 
-- Farmers markets: see [[farmers-market-selling-guide]] for booth and display guidance
-- Online: Etsy, Shopify, see online homestead sales
-- CSA additions: herb shares, dried herb boxes
-- Local stores: natural food stores, gift shops, co-ops
-- Herbalists and practitioners: wholesale to acupuncturists, naturopaths
+- [[homestead-energy-conservation]]
+- [[homestead-mushroom-business]]
+- [[homestead-winter-preparations]]
+- [[homestead-tool-maintenance]]
+- [[homestead-internet-options]]

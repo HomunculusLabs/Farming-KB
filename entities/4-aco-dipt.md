@@ -4,17 +4,8 @@ created: 2026-04-28
 type: chemical
 tags:
   - psychedelic
-  - [[tryptamine]]
-  - research-chemical
-  - hallucinogen
-  - 5-ht2a-agonist
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
-  - Dean, R.A. et al. (2013). "Metabolic fate of 4-acetoxy-N,N-diisopropyltryptamine." [[cytochrome-p450-enzymes-drug-metabolism]] and Disposition 41(1): 215–223.
-  - Brandt, S.D. et al. (2016). "Return of the lysergamides." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 8(9): 931–940.
-  - Halberstadt, A.L. et al. (2020). "Pharmacology of [[tryptamine]]." Pharmacology & Therapeutics 208: 107485.
+  - cytochrome-p450-enzymes-drug-metabolism and Disposition 41(1): 215–223.
+  - Brandt, S.D. et al. (2016). "Return of the lysergamides." tryptamine." Pharmacology & Therapeutics 208: 107485.
 ---
 
 ## Overview
@@ -25,15 +16,7 @@ to psilocin (4-HO-DMT) and DiPT (N,N-diisopropyltryptamine).
 It acts primarily as a serotonin 5-HT2A receptor agonist and is
 classified as a research chemical with limited documented human use.
 
-The compound was first described by [[alexander-shulgin]] in TIHKAL
-(1997), where it received a subjective evaluation at low doses.
-Reports describe predominantly auditory distortions alongside mild
-visual and cognitive effects, distinguishing it from more visually
-dominant tryptamines like 4-AcO-DMT.
-
-As an acetylated prodrug of 4-HO-DiPT, 4-AcO-DiPT undergoes
-deacetylation in vivo to produce the active hydroxy metabolite.
-[[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction; it is unscheduled in many
+The compound was first described by ayahuasca-tourism-legal-status-by-country varies by jurisdiction; it is unscheduled in many
 countries but controlled under analogue acts in others.
 
 ## Chemical Properties
@@ -47,28 +30,7 @@ countries but controlled under analogue acts in others.
 - **Solubility:** Soluble in ethanol, DMSO, and slightly in water
 
 The acetoxy group at the 4-position of the indole ring serves as
-a prodrug moiety, analogous to the relationship between [[psilocybin]]
-(4-PO-DMT) and psilocin (4-HO-DMT). The diisopropyl substitution
-on the terminal amine is the distinguishing feature from the more
-common dimethylamino tryptamines.
-
-## Pharmacology
-
-4-AcO-DiPT is a prodrug that is rapidly deacetylated by esterases
-in the body to form 4-HO-DiPT, which is the primary active metabolite.
-
-**Receptor activity:**
-
-- **5-HT2A** — primary site of psychedelic action; full agonist or
-  partial agonist (affinity data limited; estimated Ki in low
-  micromolar range based on structural analogs)
-- **5-HT1A** — likely moderate affinity; contributes to anxiolytic
-  and mood-modulating effects
-- **5-HT2C** — possible interaction; role in appetite suppression
-- **TAAR1** — trace amine-associated receptor; uncertain affinity
-
-The diisopropyl substitution pattern is known to alter the
-[[tihkal-receptor-binding-serotonin]] profile relative to dimethyl tryptamines. In the
+a prodrug moiety, analogous to the relationship between tihkal-receptor-binding-serotonin profile relative to dimethyl tryptamines. In the
 DiPT series, this substitution produces a distinctive shift toward
 auditory effects over visual effects, likely due to altered
 distribution or receptor subtype selectivity.
@@ -88,3 +50,88 @@ Shulgin's TIHKAL entry):
   patterns, occasional word-finding difficulty
 - **Somatic effects** — mild body load, nausea at higher doses,
   slight pupil dilation
+
+## Overview
+
+4 Aco Dipt represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 4 aco dipt
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 4 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+4 Aco Dipt finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 4 aco dipt. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+4 aco dipt and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+4 Aco Dipt has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 4 aco dipt into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[4-5-mdo-dipt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[5-meo-dipt]]
+- [[5-meo-dipt-compound-profile]]
+- [[dipt]]

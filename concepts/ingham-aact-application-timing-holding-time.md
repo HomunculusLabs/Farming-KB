@@ -1,26 +1,6 @@
 # AACT Application Timing and Holding Time Guidelines
 
-**Source:** The Field Guide I for [[actively-aerated-compost-tea]] Tea — Elaine Ingham (2008)
-
-## Core Concept
-
-The effectiveness of actively aerated compost tea (AACT) depends critically
-on when it is applied relative to brewing, and how long the organisms
-survive after application. AACT is a living product — the beneficial
-microorganisms it contains have finite lifespans and specific environmental
-requirements. Applying tea at the right time, in the right conditions, and
-understanding the holding time window are essential for achieving the
-intended benefits.
-
-## Maximum Holding Time After Brewing
-
-AACT must be used within a specific window after brewing to ensure the
-organisms remain viable and aerobic:
-
-### The 4-Hour Rule
-Ingham's primary guideline is that compost tea should be applied within 4
-hours of the end of the brewing cycle. During this window, the organisms
-are at peak biomass and [[arbuscule-isolation-metabolic-activity-assays]]. The tea should remain aerobic
+**Source:** The Field Guide I for [[arbuscule-isolation-metabolic-activity-assays]]. The tea should remain aerobic
 (dissolved oxygen above 5.5 ppm) throughout this period.
 
 ### Extended Holding Under Active Aeration
@@ -72,13 +52,7 @@ Apply tea when temperatures are moderate:
 
 ### At Planting / Transplanting
 - Drench transplant holes with AACT to inoculate the root zone immediately
-- Reduces transplant shock by establishing a protective [[cannabis-cultivar-microbial-community-effects]]
-  around stressed roots
-- Use 1-2 cups of tea per transplant hole for standard vegetables
-
-### Vegetative Growth
-- Monthly foliar sprays during active growth maintain phyllosphere
-  (leaf surface) [[cannabis-rhizosphere-microbial-communities]]
+- Reduces transplant shock by establishing a protective [[cannabis-rhizosphere-microbial-communities]]
 - Soil drenches every 4-6 weeks maintain rhizosphere populations
 - Time applications to coincide with rapid growth periods when plants are
   most demanding of nutrients
@@ -91,21 +65,7 @@ Apply tea when temperatures are moderate:
 ### Post-Harvest
 - Apply to crop residues to accelerate decomposition and suppress
   pathogen carryover
-- Helps break down remaining [[savory-soil-organic-matter-and-decomposition-dynamics]] recycle nutrients
-
-## Application Rates
-
-### Foliar Spray
-- Standard dilution: undiluted tea applied at 20-30 gallons per acre
-- Home garden: 2-5 gallons of undiluted tea per 1,000 sq ft
-- Coverage should be thorough — all leaf surfaces (top and bottom) should
-  receive a fine mist, not large droplets
-
-### Soil Drench
-- Standard rate: 10-20 gallons per acre, applied to the root zone
-- Home garden: 1-2 gallons per 100 sq ft
-- Apply slowly to allow infiltration rather than runoff
-- For [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]], increase to 30+ gallons per acre for initial
+- Helps break down remaining [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]], increase to 30+ gallons per acre for initial
   treatment, then reduce to maintenance rates
 
 ### Seed Treatment
@@ -141,14 +101,17 @@ favorable (adequate organic matter, minimal disturbance, proper moisture),
 introduced organisms can establish self-sustaining populations that reduce
 the need for ongoing applications.
 
-
-
-
 ## See Also
 
-- [[ingham-charcoal-biochar-compost-tea]]
+- [[ingham-aact-foam-management-brew-troubleshooting]]
+- [[ingham-compost-contaminants]]
+- [[ingham-compost-tea-recipes-and-ingredient-formulations]]
+- [[ingham-disease-case-studies-bacterial]]
+- [[ingham-fresh-seaweed-kelp-brewing-ingredients]]
 - [[ingham-inoculants-vs-food-resources-brewing-distinction]]
 - [[ingham-light-uv-effects-compost-tea]]
 - [[ingham-moss-algae-control]]
 - [[ingham-pleomorphism-microorganism-identification]]
-- [[ingham-yeasts-molds-compost-tea]]
+- [[ingham-protozoa-nutrient-cycling]]
+- [[ingham-soil-drench-techniques]]
+- [[ingham-worm-leachate-versus-aact-comparison]]

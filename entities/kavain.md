@@ -21,9 +21,7 @@ created: 2026-05-07
 
 ## Overview
 
-Kavain is the principal psychoactive kavalactone found in *[[plants-of-the-gods-piper-methysticum-kava]]* (kava), a perennial shrub native to the Pacific Islands. It is the most abundant and pharmacologically significant of the six major kavalactones, typically comprising 15-20% of the total kavalactone content in kava root preparations.
-
-Kavain is primarily responsible for kava's well-documented anxiolytic, sedative, and mild euphoric effects. Unlike benzodiazepines, kavain produces calm without significant cognitive impairment, making it a subject of ongoing clinical interest for anxiety and [[cannabis-sleep-disorders-and-insomnia]].
+Kavain is the principal psychoactive kavalactone found in *[[cannabis-sleep-disorders-and-insomnia]].
 
 The compound has been used for over 3,000 years in Pacific Island ceremonial and social contexts. Kava preparations standardized to kavain content remain widely available as dietary supplements in many countries, though regulatory status varies.
 
@@ -47,7 +45,7 @@ Additional pharmacological targets include inhibition of cyclooxygenase (COX) en
 
 Recent research has identified kavain's neuroprotective properties, including reduction of excitotoxic glutamate signaling and protection against oxidative neuronal damage in vitro. These findings have spurred interest in kavain as a potential neurotherapeutic agent.
 
-Unlike many psychoactive compounds, kavain does not show significant activity at the 5-HT2A receptor or the endocannabinoid system, distinguishing its pharmacology from both classic psychedelics and cannabinoids.
+Unlike many psychoactive compounds, kavain does not show significant activity at the 5-HT2A receptor or the [[endocannabinoid-system]], distinguishing its pharmacology from both classic psychedelics and cannabinoids.
 
 ## Effects and Dosage
 
@@ -57,7 +55,7 @@ Onset typically occurs within 15-30 minutes when consumed as a traditional aqueo
 
 Standard kava preparations delivering 60-120 mg of total kavalactones (approximately 10-25 mg kavain) are effective for acute anxiety relief. Higher doses of 200-300 mg total kavalactones produce stronger sedation and are used for insomnia.
 
-Kavain has a favorable [[cannabis-safety-profile-and-overdose-risk]] at typical doses. [[blesching-cannabis-safety-adverse-effects-evidence]] are generally mild and include gastrointestinal discomfort, headache, and transient dizziness. Heavy chronic use has been associated with rare hepatotoxicity, though causality has been debated and may relate to non-kavalactone constituents or poor-quality plant parts.
+Kavain has a favorable [[blesching-cannabis-safety-adverse-effects-evidence]] are generally mild and include gastrointestinal discomfort, headache, and transient dizziness. Heavy chronic use has been associated with rare hepatotoxicity, though causality has been debated and may relate to non-kavalactone constituents or poor-quality plant parts.
 
 ## Traditional Use and Preparation
 

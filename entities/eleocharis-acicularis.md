@@ -16,22 +16,10 @@ sources:
   - USDA NRCS (2024). "Eleocharis acicularis Plant Guide." Natural Resources
     Conservation Service.
   - Godfrey, R.K. & Wooten, J.W. (1979). "permaculture-plants-aquatic-and-wetland-species Plants of
-    Southeastern [[dmt-containing-plants-united-states-halpern]]." University of Georgia Press.
----
-
-## Overview
-
-Eleocharis acicularis, commonly called needle spikerush or least spikerush,
-is a perennial sedge in the family Cyperaceae.
-
-It forms dense tufts of fine, hair-like stems in shallow water and moist
-soil, creating a turf-like groundcover along shorelines and in wetlands.
-
-The species has a circumboreal distribution and is one of the most widespread
-spikerush species in [[psilocybin-north-america-pacific-northwest]].
+    Southeastern [[psilocybin-north-america-pacific-northwest]].
 
 Its dense root systems stabilize substrates in littoral zones, making it
-valuable for [[permplant-willows-salix-erosion-control-fodder]] and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
+valuable for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 
 ## Taxonomy and Morphology
 
@@ -61,13 +49,7 @@ persistent style base forming a short tubercle.
 
 ## Distribution and Habitat
 
-Needle spikerush has a circumboreal distribution across [[guzman-psilocybin-mushrooms-north-america]],
-Europe, and Asia.
-
-In North America, it occurs from Alaska to Newfoundland, south to
-California, Texas, and Florida.
-
-It is also found in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the Caribbean, and northern South
+Needle spikerush has a circumboreal distribution across [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the Caribbean, and northern South
 America.
 
 The species grows in shallow water and saturated soils along lake margins,
@@ -88,3 +70,80 @@ Its dense stands offer cover for aquatic invertebrates, amphibian larvae,
 and small fish in the shallow littoral zone.
 
 Waterfowl including ducks, geese, and shorebirds feed on the tubers,
+
+## Overview
+
+Eleocharis Acicularis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish eleocharis acicularis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving eleocharis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Eleocharis Acicularis finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eleocharis acicularis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eleocharis acicularis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eleocharis Acicularis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eleocharis acicularis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

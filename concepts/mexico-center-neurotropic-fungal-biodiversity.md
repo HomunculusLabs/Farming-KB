@@ -48,11 +48,6 @@ wherever mycologists abound."
 Mexico contains representatives of nearly all major sections of
 neurotropic *Psilocybe*:
 
-- **[[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]**: High-altitude species including *P. aztecorum*
-  (found at 4,000 m elevation — the highest recorded altitude for any
-  neurotropic fungus)
-- **Section Mexicanae**: Including the type species *P. mexicana*, one
-  of the first neurotropic mushrooms studied by modern science
 - **[[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]**: Including *P. zapotecorum*, known to Indians
   as "derrumbes" (landslides), found in muddy habitats in Oaxaca
 - **Section Cubensies**: *P. cubensis* is common in Mexico's tropical
@@ -78,8 +73,7 @@ history of any psychoactive mushroom tradition:
 - **1569-1582**: Bernardino de Sahagún first recorded the Nahuatl word
   "teonanácatl" (divine mushroom) in his *Historia General de las
   Cosas de Nueva España*
-- **1939**: Richard [[richard-evans-schultes-updated]] identified teonanácatl as a
-  [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] used by Mazatec peoples
+- **1939**: Richard [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] used by Mazatec peoples
 - **1955**: R. Gordon Wasson participated in a velada (night ceremony)
   with María Sabina, becoming the first Westerner to publicly document
   a [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] ceremony

@@ -17,13 +17,7 @@ type: concept
 
 # Purdue Vegetable Planting Reference Table
 
-A quick-reference for planting [[cool-climate-home-garden-mollison]] vegetables from Purdue University Cooperative Extension Service (HO-32-W). Covers spacing, seed rates, depth, timing, and yields for common vegetables. Dates calibrated for Indianapolis; plant 20 days earlier in extreme SW Indiana, 10 days later for NE areas.
-
-## Root Crops
-
-### Beets
-
-- **[[wide-row-spacing-intensive-gardening-comparison]]:** 1 ft between rows
+A quick-reference for planting [[wide-row-spacing-intensive-gardening-comparison]]:** 1 ft between rows
 - **Plant spacing:** 3 inches between plants
 - **Seed rate:** 1 oz per 50 ft of row
 - **Planting depth:** 1/2 to 1 inch
@@ -88,3 +82,11 @@ A quick-reference for planting [[cool-climate-home-garden-mollison]] vegetables 
 - **Notes:** Harvest when heads are solid; stores up to 2 months cold
 
 ## Legumes
+
+## See Also
+
+- [[purdue-garden-planning-and-layout]]
+- [[purdue-four-step-garden-fertilization-program]]
+- [[purdue-vegetable-harvest-and-storage-guide]]
+- [[purdue-nitrogen-side-dressing-schedule]]
+- [[solomon-sprinkler-irrigation-vegetable-gardens]]

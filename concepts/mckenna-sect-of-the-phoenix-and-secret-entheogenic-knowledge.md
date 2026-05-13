@@ -8,9 +8,7 @@ created: 2026-05-08
 
 # Sect of the Phoenix and Secret Entheogenic Knowledge
 
-[[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
 [[dmt-nn-dimethyltryptamine-comprehensive]]
-[[dmt-finnegans-wake-and-the-merry-go-raum]]
 [[the-logos-and-translinguistic-matter]]
 jorge luis borges
 ## Background and Context

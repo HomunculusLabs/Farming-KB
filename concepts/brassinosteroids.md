@@ -15,13 +15,7 @@ regulators recognized as a distinct group of phytohormones. First isolated from
 across a wide variety of higher plants including Angiospermae and
 Gymnospermae, as well as in green algae. They are regarded from several
 laboratories as representing a new class of plant hormones with profound
-effects on [[cytokinin-plant-growth-and-development]].
-
-## Chemical Structure
-
-Brassinosteroids are based on the ergostane skeleton — a 28- or 29-carbon
-sterol core with distinctive hydroxyl groups. The most biologically active
-form is brassinolide, a C28 steroidal lactone. Key [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]:
+effects on [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]:
 
 - **A-ring**: α,β-unsaturated ketone at C-2/C-3, 3β-hydroxyl group
 - **B-ring**: 7-oxo or 7-hydroxyl group in most active forms
@@ -69,57 +63,17 @@ yield and quality in several crop species.
 
 ### Stress Responses
 - **Abiotic**: Enhanced tolerance to drought, salinity, extreme temperatures,
-  heavy metals, [[reactive-oxygen-species-and-oxidative-stress]] via upregulation of antioxidant enzyme
-  systems (superoxide dismutase, catalase, peroxidase)
-- **Biotic**: Priming of plant immune responses and upregulation of
-  pathogenesis-related (PR) proteins against fungal and bacterial pathogens
-
-### Photomorphogenesis and Senescence
-BRs interact with light signaling to regulate photomorphogenesis. They delay
-leaf senescence by maintaining chlorophyll content and photosynthetic capacity
-in aging tissues.
-
-## Agricultural Applications
-
-Promising results in brassinosteroid application include:
-
-- **Yield enhancement**: [[fukuoka-textdoc-increased-production-not-increased-yields]] in rice, wheat, maize, and various
+  heavy metals, [[fukuoka-textdoc-increased-production-not-increased-yields]] in rice, wheat, maize, and various
   vegetable crops through improved photosynthetic capacity
 - **Anti-stress effects**: Protection against environmental stressors including
   drought, cold, and salinity, improving crop resilience
-- **Quality improvement**: Enhanced [[coleman-winter-greens-nutritional-quality-cold-sweetening]], better fruit set, and
-  improved post-harvest shelf life
-
-Commercial BR formulations, typically applied at extremely low concentrations
-(10⁻² to 10⁻¹ ppm), have been registered in several countries. Their extreme
-potency at nanomolar concentrations makes commercial application economically
-viable even at small scales.
-
-## Signaling Pathway
-
-The BR signaling cascade is well-characterized:
-
-1. **BRI1**: Leucine-rich repeat receptor-like kinase (LRR-RLK) serving as
-   the primary BR receptor at the cell surface
-2. **BAK1**: Co-receptor forming a heterodimer with BRI1 upon BR binding
-3. **BSKs and CDGs**: Cytoplasmic kinases that transduce the signal downstream
-4. **BIN2**: GSK3-like kinase that phosphorylates and inhibits downstream
-   transcription factors in the absence of BR signal
-5. **BZR1 and BES1**: Transcription factors that regulate BR-responsive gene
-   expression when dephosphorylated
-
-## Cross-Kingdom Activity
-
-Research by Gartz, Adam, and Vorbrodt (1990) demonstrated that the synthetic
-brassinosteroid 22S,23S-homobrassinolide produced strong growth-promoting
-effects in mycelial cultures of the fungus *[[anemotropism-in-psilocybe-cubensis]]*, suggesting
+- **Quality improvement**: Enhanced [[anemotropism-in-psilocybe-cubensis]]*, suggesting
 brassinosteroids may play physiological roles in higher fungi. This cross-
 kingdom activity raises interesting questions about the evolutionary
 conservation of brassinosteroid signaling mechanisms.
 
 ## See Also
 
-- [[homobrassinolide]]
 - [[psilocybe-cubensis]]
 - [[mycelial-growth-promotion]]
 

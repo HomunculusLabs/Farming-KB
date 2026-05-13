@@ -6,7 +6,7 @@ type: concept
 
 # Avenue Cropping and Barrier Plants
 
-Avenue cropping and barrier plants are two complementary strategies in permaculture design that integrate productive tree systems with protective plantings to optimize yields, conserve soil, and manage microclimates. Both approaches emphasize multi-functional plantings that serve multiple purposes simultaneously—fuel, mulch, soil improvement, wind protection, erosion control, and animal exclusion.
+[[avenue-cropping]] and barrier plants are two complementary strategies in [[permaculture-design]] that integrate productive tree systems with protective plantings to optimize yields, conserve soil, and manage microclimates. Both approaches emphasize multi-functional plantings that serve multiple purposes simultaneously—fuel, mulch, soil improvement, wind protection, erosion control, and animal exclusion.
 
 ## Avenue Cropping
 
@@ -127,8 +127,6 @@ This integrated approach creates self-maintaining, productive landscapes that re
 
 ## See Also
 
-- [[alley-cropping]] — related alley farming systems
 - [[nitrogen-fixing-trees]] — legume tree biology and selection
-- [[coppice-and-pollard-systems]] — management of woody plants for biomass
 - [[windbreak-design-and-configurations]] — detailed windbreak planning and species selection
 - [[soil-erosion-control]] — comprehensive slope and water management

@@ -62,10 +62,10 @@ Teeter argues that there was nothing more sacred in the ancient world than their
 
 ---
 
-Source: [[allegro-amanita-muscaria-properties-and-pharmacology]]: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] (Teeter), Chapter 14, sections 14-1 through 14-4; pp 53-58
+Source: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] (Teeter), Chapter 14, sections 14-1 through 14-4; pp 53-58
 ## Practical Applications
 
-[[amanita-muscaria-in-eastern-religions]] Celtic and [[mandrake-mandragora-officinarum-in-european-folklore]] has a range of practical applications that make it relevant to
+[[mandrake-mandragora-officinarum-in-european-folklore]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

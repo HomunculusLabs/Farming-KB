@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Earthworks in permaculture design encompass a range of structural forms, each suited to specific site conditions and purposes. The three primary types discussed here — banks, benches, and terraces — are fundamental building blocks for landscape modification, erosion control, access creation, and productive land use on slopes.
+Earthworks [[ecological-succession-in-permaculture-design]] encompass a range of structural forms, each suited to specific site conditions and purposes. The three primary types discussed here — banks, benches, and terraces — are fundamental building blocks for landscape modification, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], access creation, and productive land use on slopes.
 
 ## Banks
 
@@ -68,7 +68,7 @@ Narrow (1.5–3.0 metre) benches on steep slopes are not so much roads as tree s
 
 ### Kick-Down Systems
 
-Small-holders on very steep hillsides can work with slopes using a cascading system: orchard and mulch above poultry above garden. If the ridge or hill above is planted to mulch-producing trees such as Casuarina, pine, oak, and beech, mulch and bedding can be thrown downhill as greenfeed and seed for chickens, who kick down to the lower fence where the gardener accepts the manured and shredded mulch for terraced garden beds.
+Small-holders on very steep hillsides can work with slopes using a cascading system: orchard and mulch above poultry above garden. If the ridge or hill above is planted to mulch-producing trees such as Casuarina, pine, oak, and beech, mulch and bedding can be thrown downhill as greenfeed and seed for chickens, who kick down to the lower fence where the gardener accepts the manured and shredded mulch for terraced [[natural-farming-guide-hugelkultur-mounded-garden-beds]].
 
 ### Machine Efficiency
 
@@ -84,7 +84,7 @@ Small-holders on very steep hillsides can work with slopes using a cascading sys
 
 ### Potential and Stability
 
-Terraced lands, given a reserve of local green manures or composts and adequate water, are potentially very stable production systems. Terraces have supported agriculture for thousands of years across Asia, the Mediterranean, the Andes, and elsewhere.
+Terraced lands, given a reserve of local [[cover-crops-and-green-manures]] or composts and adequate water, are potentially very stable production systems. Terraces have [[community-supported-agriculture-csa]] for thousands of years across Asia, the Mediterranean, the Andes, and elsewhere.
 
 ### Conditions for Failure
 
@@ -107,13 +107,11 @@ Terracing fails when:
 
 ## Integration of Earthwork Types
 
-In practice, banks, benches, and terraces are often combined within a single site design. A hillside development might use benched roads for access, terraced gardens for production, and banks for wind protection and water management. The designer's task is to select the appropriate earthwork type for each location based on slope, soil, water flow, access needs, and intended use, while ensuring that all elements work together as a stable, productive system.
+In practice, banks, benches, and terraces are often combined within a single site design. A hillside development might use benched roads for access, terraced gardens for production, and banks for [[cervantes-wind-protection-outdoor-cannabis]] and water management. The designer's task is to select the appropriate earthwork type for each location based on slope, soil, water flow, access needs, and intended use, while ensuring that all elements work together as a stable, productive system.
 
 The true finesse of earthworks is best entrusted to experienced machinery drivers, but designers need to designate stages, spoil areas, topsoil stores, bank slopes, and sequencing — and above all, to imagine themselves as the driver to make it as easy as possible to cut the shapes desired.
 
 ## See Also
-- [[permaculture-plants-tree-lupin-nurse-crop-profile]]
 - [[fukuoka-natural-orchard-management-three-dimensional-system]]
-- [[clay-seed-pellet-production-method-concrete-mixer]]
 - [[building-with-natural-materials]]
 - [[query-how-do-i-start-natural-dyeing-with-plants]]

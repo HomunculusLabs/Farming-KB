@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Desert gardening is the practice of cultivating plants in arid environments where annual precipitation is typically under 10-15 inches and evapotranspiration far exceeds rainfall. Successful desert gardening requires working with, not against, the harsh conditions of intense sun, extreme temperature fluctuations, low humidity, and minimal water. These techniques align with [[water-management]] principles and [[pollinator-conservation]] ethics.
+Desert gardening is the practice of cultivating plants in arid environments where annual precipitation is typically under 10-15 inches and evapotranspiration far exceeds rainfall. Successful desert gardening requires working with, not against, the harsh conditions of intense sun, extreme temperature fluctuations, low humidity, and minimal water. These techniques align with [[water-management]] principles and [[pollinator-conservation|conservation]] ethics.
 
 ## Arid Climate Challenges
 
@@ -29,7 +29,7 @@ Desert soils are typically:
 
 - High pH (7.5-8.5 or higher)
 - Low in organic matter (often under 1%)
-- High in calcium carbonate (caliche layers common)
+- High in [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] (caliche layers common)
 - Saline due to low rainfall and high evaporation
 - Low in nitrogen, phosphorus, and micronutrients (especially iron and zinc)
 
@@ -38,8 +38,8 @@ Desert soils are typically:
 ### Passive Rainwater Harvesting
 Capture and direct rainfall to planting areas without pumps or storage tanks:
 
-- **Swales**: Shallow trenches on contour that slow, spread, and sink runoff. See [[swale-design-construction]] for design details.
-- **Basins and berms**: Circular or linear depressions around [[nitrogen-fixing-trees-and-shrubs]] that capture rainfall and direct it to root zones
+- **Swales**: Shallow trenches on contour that slow, spread, and sink runoff. See [[swale-design-construction|swales]] for design details.
+- **Basins and berms**: Circular or linear depressions around trees and shrubs that capture rainfall and direct it to root zones
 - **Diversion channels**: Rock-lined channels that direct sheet flow from driveways, roofs, or bare ground to gardens
 - **Micro-catchments**: Small V-shaped bunds or semi-circular earthworks that collect runoff for individual plants
 
@@ -48,7 +48,7 @@ Systems that store water for later use:
 
 - **Cisterns**: Metal or poly tanks storing roof runoff; 1 inch of rain on 1,000 sq ft of roof yields ~620 gallons
 - **Earth tanks (tanks)**: Excavated and lined depressions for seasonal water storage
-- **Greywater systems**: Divert household greywater to landscape plantings; see [[graywater-systems]] for details
+- **Greywater systems**: Divert household greywater to landscape plantings; see [[graywater-systems|greywater]] for details
 - **Sand storage**: Traditional technique using buried sand to store water with minimal evaporation
 
 ### Irrigation Efficiency
@@ -89,10 +89,10 @@ Naturally adapted to arid conditions through water storage tissues and reduced l
 - **Prickly pear (Opuntia spp.)**: Edible pads (nopales) and fruit (tunas); cold-hardy varieties survive to -20°F
 - **Saguaro**: Iconic Sonoran Desert cactus; protected species in many areas
 - **Agave**: Multi-use plant for food, fiber, and landscaping; many species cold-hardy to 10°F
-- **Aloe vera**: Medicinal succulent; requires [[cervantes-microclimate-frost-protection]] in most deserts
+- **Aloe vera**: Medicinal succulent; requires [[frost-protection-in-permaculture]] most deserts
 - **Barrel cactus**: Water storage, ornamental value
 
-See [[psychoactive-cacti-guide]] for detailed species profiles.
+See [[psychoactive-cacti-guide|cacti]] for detailed species profiles.
 
 ### Native Food Plants
 Many desert natives produce edible fruits, seeds, or greens:
@@ -109,7 +109,7 @@ Vegetables that perform in desert summers with adequate water and shade:
 - **Malabar spinach**: Tropical vine that thrives in heat; substitute for true spinach
 - **Okra**: Loves heat; productive through summer with adequate water
 - **Cowpeas (black-eyed peas)**: Heat-loving legume; nitrogen fixer, edible beans and greens
-- **Sweet potatoes**: Vining crop that tolerates heat; requires ample water
+- **[[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]**: Vining crop that tolerates heat; requires ample water
 - **Peppers**: Most varieties handle desert heat well; some require afternoon shade
 - **Chiltepín**: Native hot pepper; extremely drought-tolerant once established
 - **Eggplant**: Prolific in heat; needs consistent water
@@ -127,7 +127,7 @@ Desert gardens excel with cool-season crops grown fall through spring:
 ## Soil Building in the Desert
 
 ### Organic Matter
-Building [[knf-leaf-mold-humus]] in deserts is challenging but essential:
+Building [[humus-and-soil-organic-matter]] in deserts is challenging but essential:
 
 - Compost decomposes rapidly in heat; apply 2-4 inches annually
 - Mulch heavily (3-6 inches) to reduce evaporation and moderate soil temperature
@@ -147,12 +147,3 @@ Caliche is a hardened calcium carbonate layer common in desert soils:
 - If within 12 inches of surface, break through with pickaxe or jackhammer
 - Create raised beds above the caliche layer
 - Plant in containers or raised beds where caliche is too deep to penetrate
-
-## See Also
-
-- [[desert-precipitation-and-opportunistic-response]]
-- [[desert-precipitation-patterns-and-opportunistic-ecology]]
-- [[desert-revegetation-natural-farming]]
-- [[desert-soils-nutrition-and-phosphorus-dynamics]]
-- [[desert-temperature-and-soils]]
-- [[desert-temperature-regimes-and-soil-chemistry]]

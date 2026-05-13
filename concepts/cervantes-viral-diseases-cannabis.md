@@ -20,9 +20,7 @@ type: concept
 ## Overview
 
 Viruses represent one of the most difficult challenges in
-[[query-how-does-no-till-cannabis-cultivation-work]] because they cannot be cured once a plant
-is infected. Cervantes describes viruses as still somewhat
-mysterious: they act like [[savory-living-organisms-as-tools]] in some instances
+[[savory-living-organisms-as-tools]] in some instances
 and nonliving chemicals in others. They must enter plants via
 wounds and cannot penetrate intact plant surfaces on their own.
 
@@ -30,9 +28,7 @@ wounds and cannot penetrate intact plant surfaces on their own.
 
 Viruses are spread by multiple vectors in the cannabis garden:
 
-- Insects: [[cervantes-whitefly-pest-control]] are the
-  worst viral vectors
-- Mites: [[cervantes-homemade-pest-disease-sprays]] may also carry TMV, presenting a tradeoff between
+- Insects: [[cervantes-homemade-pest-disease-sprays]] may also carry TMV, presenting a tradeoff between
 pest control and disease risk.
 
 ## Why Viruses Cannot Be Cured
@@ -66,22 +62,9 @@ Since cure is impossible, prevention is the only strategy:
 
 No biological controls exist for plant viruses, and no chemical
 sprays are effective against them. This makes sanitation the
-single most important factor in viral [[plant-disease-management-solomon]]. Every
-cutting tool, every hand contact, and every insect that enters
-the garden represents a potential virus transmission pathway.
-
-Cervantes emphasizes that infected tools are a major
-transmission route. Disinfecting pruners, scissors, and other
-tools between plants with rubbing alcohol or a 10 percent
-bleach solution is essential practice.
-
-## Related Topics
-
-- [[cervantes-whitefly-pest-control]] - another viral vector
-- [[cervantes-damping-off-seedling-disease-prevention]] -
-  [[cervantes-damping-off-seedling-disease-prevention]] management
-- [[cervantes-biological-pest-control-predators]] - vector
-  [[mushroom-pests-insect-control-stamets]]
+single most important factor in viral [[cervantes-whitefly-pest-control]] - another viral vector
+- [[cervantes-damping-off-seedling-disease-prevention]] management
+- [[mushroom-pests-insect-control-stamets]]
 
 ## Practical Applications
 
@@ -112,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]
 - [[cervantes-hash-cannabis-oil-production]]
-- [[cervantes-hemp-industrial-cannabis]]
 - [[cervantes-landrace-cannabis-populations]]
 - [[cervantes-foliar-spots-blight-fungal-leaf-diseases]]

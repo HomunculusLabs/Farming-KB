@@ -84,12 +84,8 @@ Research has identified flavonoids, xanthones, and iridoids in *I. sibirica* wit
 
 ## See Also
 
-- [[iris-germanica]]
 - [[iris-pseudacorus]]
-- [[iris-versicolor]]
 - [[crocus-sativus]]
-- [[tulipa-gesneriana]]
 - [[convallaria-majalis]]
-- [[colchicum-autumnale]]
 - [[allium-ursinum]]
 - [[polygonatum-odoratum]]

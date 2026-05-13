@@ -33,93 +33,107 @@ DOM (PIHKAL #68) is a potent substituted amphetamine and classic psychedelic phe
 | **Duration** | 14-20 hours |
 | **Onset** | 1-3 hours |
 
-The narrow effective dose range (3-10 mg) and extremely long duration make DOM one of the more challenging psychedelic amphetamines to use responsibly. The 1960s STP tablets were reportedly dosed at 10-20 mg, far above the 2-5 mg range Shulgin later determined was optimal, leading to many hospitalizations. See [[lsd-compound-profile]] but with a distinctly longer timeline and different character:
-
-- Visual hallucinations with strong color enhancement and pattern recognition
-- Enhanced introspection and contemplation
-- Significant time distortion
-- Mild stimulant properties (common to all amphetamine-based psychedelics)
-- Prolonged body load including muscle tension
-- Extended aftereffects due to the long half-life
-
-## Synthesis (from PIHKAL)
-
-Synthesized from 2,5-dimethoxy-4-methylbenzaldehyde via condensation with nitroethane to form the nitrostyrene intermediate, followed by lithium aluminum hydride (LAH) reduction to the amine, then conversion to the hydrochloride salt. The aldehyde precursor is obtained from 2,5-dimethoxybenzaldehyde via Vilsmeier-Haack formylation. See [[phenethylamine-receptor-pharmacology]] for [[tihkal-receptor-binding-serotonin]] data.
-
-DOM is closely related to [[doi-compound-profile]], [[dob-compound-profile]], all sharing the 2,5-dimethoxy-4-substituted amphetamine scaffold. See [[mescaline-compound-profile]] than amphetamine. No nausea." — A light, pleasant experience with mescaline-like warmth.
+The narrow effective dose range (3-10 mg) and extremely long duration make DOM one of the more challenging psychedelic amphetamines to use responsibly. The 1960s STP tablets were reportedly dosed at 10-20 mg, far above the 2-5 mg range Shulgin later determined was optimal, leading to many hospitalizations. See [[phenethylamine-receptor-pharmacology]] for [[doi-compound-profile]], [[mescaline-compound-profile]] than amphetamine. No nausea." — A light, pleasant experience with mescaline-like warmth.
 
 **At 3 mg:** "Able to separate components of complex things to evaluate separately. Sharpness of observation enhanced. Colors not just brighter; there are more of them. Profoundness of meaning in anything that moves." — Enhanced analytical ability with subtle perceptual changes.
 
-**At 4 mg:** "At fourth hour it went totally outside of me. THE CLOUDS!!! No visual experience has ever been like this. The meaning of color has just changed completely. Of all past joys, LSD, mescaline, cannabis, peyote, this ranks number one." — A breakthrough [[leary-psychedelic-experience-bardo-mapping]], ranked above all other substances by the reporter.
+**At 4 mg:** "At fourth hour it went totally outside of me. THE CLOUDS!!! No visual experience has ever been like this. The meaning of color has just changed completely. Of all past joys, LSD, mescaline, cannabis, peyote, this ranks number one." — A breakthrough [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] at 2.0-2.6 mg; produced only physical side effects including tachycardia, blood pressure increase, and "teeth-rubbiness"
 
-**At 5 mg:** "Magnification of light, color and odors. Alternated about 50-50 between joy and discomfort. At times the negativity disappeared completely and broke into most enjoyable, hilarious experiences. Seemed clear I had made all the wrong decisions. Looked across the brink to insanity." — A bipolar experience illustrating the fine line between euphoria and dysphoria at higher doses.
-
-**At 8 mg:** "Rich curly-imaged eyes-closed show that interlocks closely with music. Continuous thirst, little urine. Napping OK at 16 hours, real sleep at 20 hours. Rolling +++." — A strong, extended experience with pronounced physical effects (thirst, urinary retention).
-
-**At 10 mg:** "DOM has the glory and the doom sealed up in it." — A concise summary of the dual nature of the compound at higher doses.
-
-**At 12 mg:** "Development extremely rapid, like LSD. Body tremor feels like poisoning. Music exceptional, erotic exceptional, fantasy exceptional. Liszt's Christmas Cantata with eyes closed was without precedent." — An overwhelmingly intense experience with both transcendent and physically uncomfortable elements.
-
-## Stereochemistry
-
-As with other DOx compounds, DOM shows pronounced stereoselectivity:
-
-- **R-isomer:** Active at doses as low as 0.5 mg, confirming that the R-enantiomer carries the majority of the psychedelic activity
-- **S-isomer:** No [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] at 2.0-2.6 mg; produced only physical side effects including tachycardia, blood pressure increase, and "teeth-rubbiness"
-
-The S-isomer's contribution to the racemate appears to be primarily negative — adding physical side effects without corresponding psychedelic benefit. Shulgin speculated that the S-isomer "may contribute to physical side effects of racemate." This stereoselectivity is consistent with the pattern observed across [[doi-compound-profile]], and [[phenethylamine-receptor-pharmacology]] for discussion of stereochemical requirements at 5-HT2A.
+The S-isomer's contribution to the racemate appears to be primarily negative — adding physical side effects without corresponding psychedelic benefit. Shulgin speculated that the S-isomer "may contribute to physical side effects of racemate." This stereoselectivity is consistent with the pattern observed across [[phenethylamine-receptor-pharmacology]] for discussion of stereochemical requirements at 5-HT2A.
 
 ## STP History
 
 DOM's history as "STP" is one of the most consequential episodes in psychedelic drug culture:
 
-In mid-1967, DOM was distributed widely in the Haight-Ashbury district of [[shipibo-san-francisco-ceremonial-center-ucayali]]. The street name "STP" was variously interpreted as:
-- **Serenity, Tranquility, and Peace**
-- **Super Terrific Psychedelic**
-- **Stop The Police**
-
-The initial tablets contained an estimated **20 mg of DOM** — what Shulgin later described as a "thoroughly whopping dose." This was approximately 4-10x the effective psychedelic dose. The tablets were later reformulated to 10 mg, still well above the 3-5 mg range Shulgin considered optimal.
-
-The overdose crisis was aggravated by a critical pharmacological mismatch: DOM has a very slow onset (1-3 hours), while users familiar with [[pihkal-introduction-and-methodology]] for Shulgin's own account of this period.
+In mid-1967, DOM was distributed widely in the Haight-Ashbury district of [[pihkal-introduction-and-methodology]] for Shulgin's own account of this period.
 
 ## Harm Reduction
 
-- Start with low doses (2-3 mg) due to the narrow [[blesching-cannabis-therapeutic-window-dosing]]
-- Plan for a full day commitment — 14-20 hours is typical
-- Have a trip sitter, especially for first experiences
-- Do not combine with other serotonergic substances (risk of serotonin syndrome)
+- Start with low doses (2-3 mg) due to the narrow [[dom]]
+- [[mescaline]]
+- [[lsd]]
+
+## Overview
+
+Dom Compound Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dom compound profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Dom Compound Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dom compound profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dom compound profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Dom Compound Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of dom compound profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[dom]]
-- [[det]]
-- [[mescaline]]
-- [[serotonin]]
-- [[lsd]]
+
+- [[2c-d-compound-profile]]
+- [[2c-t-7-compound-profile]]
+- [[5-meo-dipt-compound-profile]]
+- [[dpt-compound-profile]]
+- [[plant-olfaction-volatile-organic-compound-signaling]]

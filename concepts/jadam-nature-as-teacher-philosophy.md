@@ -12,82 +12,11 @@ sources:
 
 ## Overview
 
-"Ask nature" is the foundational methodological and philosophical principle of JADAM [[coleman-deep-organic-farming-philosophy]]. When faced with any agricultural problem -- soil degradation, salt accumulation, pest pressure, fertilizer management, or disease -- JADAM's first response is to consult nature as a teacher. This principle shapes every aspect of the JADAM system, from soil management to pest control to fertilizer philosophy.
-
-## The Central Principle
-
-Nature has been farming for billions of years, without any idea of making money. Trust her; she is much more experienced than you. Let us consult nature when we find ourselves in trouble. You will begin to understand nature, how she works, and gain a deeper insight into farming.
-
-The way nature farms and the way we farm are fundamentally the same. Life is born, grows, and dies. The only difference is that humans have a purpose: to make money. JADAM's philosophy asks farmers to set aside this commercial purpose and learn from the process itself.
-
-## Asking Nature About Specific Problems
-
-JADAM applies the "ask nature" principle systematically to every major agricultural challenge:
-
-### Soil Degradation from Monoculture
-
-"Ask nature: Do you grow plants in rotation?" Nature answers: "No. I plant the same species in the same place again and again." This led JADAM to conclude that monoculture problems stem not from growing the same crop but from removing crop residues, disrupting the mineral cycle that nature maintains effortlessly.
-
-### Salt Accumulation
-
-"Ask nature: Do you have issues with high salt content?" Nature answers that she has none. Despite receiving acid rain with pollutants, natural soil purifies water through microbial action as moisture seeps deep. The sky and soil, heaven and earth, are mutually open. Material circulation functions properly, so pollutants cannot accumulate.
-
-### Fertilizer Application
-
-"Ask nature: How do you apply fertilizer?" Nature answers with three rules: (i) fresh material, (ii) on the soil surface, (iii) applied in autumn. This contradicts modern [[fukuoka-critique-scientific-agriculture-civilization]], which says fertilizer should be fully fermented, applied deep into the soil, in spring.
+"Ask nature" is the foundational methodological and philosophical principle of JADAM [[fukuoka-critique-scientific-agriculture-civilization]], which says fertilizer should be fully fermented, applied deep into the soil, in spring.
 
 ### Microorganisms
 
-"Ask nature: How do you manage microorganisms?" Nature shows that leaf mold soil teems with [[beneficial-indigenous-microorganisms-bim]] adapted to local conditions. No imported, commercial microbial products are needed -- the soil already contains everything required.
-
-### Optimum Fertility
-
-"Ask nature: What is optimum soil fertility?" Nature shows that forests achieve perfect fertility through falling leaves (organic nutrients) and rock breakdown by microorganisms (inorganic nutrients). No rice bran, perilla pulp, or press cakes are needed.
-
-## The Method of Inquiry
-
-The JADAM method of learning from nature follows a consistent pattern:
-
-1. Identify the agricultural problem
-2. Pose the question to nature as if to a close friend
-3. Observe how nature handles the same situation
-4. Identify the difference between nature's approach and human practice
-5. Determine what human practice is doing wrong
-6. Develop a farming method that mimics nature's approach
-
-There is something to learn from nature about every topic related to farming. We should emulate nature as closely as possible, not oppose it.
-
-## The Greatest Book and Teacher
-
-The greatest book and teacher is nature; you have to be an ever-inquisitive student, humble and honest. Learn from nature and "do as nature does." Think this over carefully. Once you accept from your heart that nature is the greatest teacher, then farming will start becoming easy; you will finally understand its secrets.
-
-Nature's farming costs almost nothing. Large yields and high quality will all become possible. If this radical change of thinking is not comfortable, do not pressure yourself; just relax.
-
-## Connection to JADAM's SESE Principle
-
-The "ask nature" philosophy underlies JADAM's SESE principle (Simple, Easy, Scientific, Effective). Nature's methods are inherently simple and easy -- no compost piles, no complicated fertilizer programs, no expensive inputs. What nature does is scientific (based on billions of years of evolutionary optimization) and effective (forests thrive without human intervention).
-
-## Philosophical Roots
-
-JADAM's nature-as-teacher philosophy draws from multiple traditions:
-
-**Korean [[comparison-natural-farming-vs-permaculture]]**: Hankyu Cho's original Natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] emphasized working with nature rather than against it
-**Laozi**: Taught relaxation and softness; inspired making JADAM like water that seeps in without conflict
-**Liberation theology**: Emphasized respect for creation and solidarity with the poor and excluded
-**Ecological theology**: Leonardo Boff's ecological theology was a turning point, inspiring the choice to abandon university for farming
-
-## Relevance Beyond JADAM
-
-The "ask nature" principle has broader implications for agriculture and environmental management:
-
-- It provides a first-principles approach to solving agricultural problems
-- It challenges the assumption that technology must always mean complexity and expense
-- It validates traditional and indigenous farming knowledge
-- It offers a framework for developing locally-adapted farming systems anywhere in the world
-- It connects farming practice to ecological understanding
-
-## See Also
-- [[jadam-liquid-fertilizer-philosophy]]
+"Ask nature: How do you manage microorganisms?" Nature shows that leaf mold soil teems with [[comparison-natural-farming-vs-permaculture]]**: Hankyu Cho's original Natural [[jadam-liquid-fertilizer-philosophy]]
 
 ## Practical Applications
 
@@ -118,8 +47,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[permaculture]]
-- [[jadam-do-as-nature-does-philosophy]]
 - [[fukuoka-philosophy-non-causality-nature]]
 - [[jadam-liquid-fertilizer-philosophy]]
+
+## Overview
+
+Jadam Nature As Teacher Philosophy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam nature as teacher philosophy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Nature As Teacher Philosophy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam nature as teacher philosophy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam nature as teacher philosophy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Nature As Teacher Philosophy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam nature as teacher philosophy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[jadam-herb-solution-jhs]]
+- [[jadam-natural-mineral-water]]
+- [[jadam-potassium-fertilizer]]
+- [[jadam-rice-bakanae-treatment]]
+- [[jadam-soil-management-no-till-and-weed-control]]

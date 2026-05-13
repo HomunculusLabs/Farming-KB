@@ -57,33 +57,7 @@ However, the ideal target within that window depends on the crop and soil:
 
 | Crop Type | Target pH | Rationale |
 |-----------|-----------|-----------|
-| Legumes (alfalfa, clover) | 6.5–7.0 | Rhizobium [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is pH-sensitive; needs near-neutral conditions |
-| Corn, soybeans, small grains | 6.0–6.5 | Good P availability with lower disease pressure from soil pathogens |
-| Blueberries, potatoes | 4.5–5.5 | Acid-loving crops; soil amendments and banding compensate for P fixation |
-| Pasture and forage mixes | 6.0–6.5 | Balances P availability with micronutrient access (Mn, Zn) |
-
-Matching pH to the crop—not just to the textbook "6.5" target—optimizes both P uptake and overall nutrient balance.
-
-Keep in mind that **soil texture modulates these recommendations**. Sandy soils have lower buffering capacity and P fixation potential, so a wider pH range (5.5–7.0) may be acceptable. Heavy clay soils, especially those with high oxide content (ultisols, oxisols), fix P aggressively and require tighter pH management. Always interpret pH targets in the context of your specific soil's cation exchange capacity (CEC) and mineralogy.
-
-## How do I manage phosphorus availability at different pH levels?
-
-### For acidic soils (pH < 5.5):
-
-- **Agricultural lime (CaCO₃ or dolomitic lime)** is the primary tool. Liming to pH 6.0–6.5 reduces Al³⁺ activity by orders of magnitude and can release 20–40% of previously fixed P back into solution. Apply based on a buffer-pH lime requirement test, not just soil pH alone. Incorporate lime to the expected root zone depth (6–8 inches) for uniform pH adjustment.
-- **Band-applied P fertilizer** places concentrated P in a localized zone, reducing the soil volume where fixation occurs. Monoammonium phosphate (MAP) and diammonium phosphate (DAP) are common choices. Banding can improve P uptake efficiency by 2–3× compared to broadcast in acidic soils.
-- **Phosphorus-solubilizing microbes (PSMs)** such as *Pseudomonas* and *Bacillus* species produce organic acids and phosphatase enzymes that can dissolve Al- and Fe-phosphate minerals. Inoculant products are commercially available, though field results vary with soil conditions, temperature, and existing microbial communities.
-
-### For alkaline/calcareous soils (pH > 7.5):
-
-- **Acidifying amendments** such as elemental sulfur (S⁰) or ammonium sulfate can lower pH slowly, but the calcium carbonate buffering capacity often makes this impractical at field scale. Elemental sulfur requires microbial oxidation to sulfate, which is temperature-dependent and can take months to years.
-- **Band placement of P** is even more critical here. Placing fertilizer in a band 2–3 inches below and to the side of the seed row keeps P away from free CaCO₃ at the soil surface. This localized placement can double P recovery compared to broadcast applications.
-- **Foliar P applications** (e.g., ammonium polyphosphate or MKP) bypass soil fixation entirely and are effective for correcting mid-season deficiencies, though they cannot replace soil P for full-season needs. Apply foliar P at 3–5 lb P₂O₅/acre per application, with multiple applications timed to crop demand.
-- **Acid-forming nitrogen sources** like ammonium sulfate provide a modest acidifying effect (about 0.5 pH unit per 100 lb N/acre) that helps improve P solubility over time.
-
-### Biological strategies for any pH:
-
-- **[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF)** extend hyphal networks well beyond the root zone, effectively increasing the soil volume explored for P. AMF are especially valuable in low-P and high-fixation soils. However, high rates of broadcast P fertilizer (>40–50 lb P₂O₅/acre) can suppress AMF colonization, reducing this benefit. Minimize tillage to preserve existing hyphal networks.
+| Legumes (alfalfa, clover) | 6.5–7.0 | Rhizobium [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF)** extend hyphal networks well beyond the root zone, effectively increasing the soil volume explored for P. AMF are especially valuable in low-P and high-fixation soils. However, high rates of broadcast P fertilizer (>40–50 lb P₂O₅/acre) can suppress AMF colonization, reducing this benefit. Minimize tillage to preserve existing hyphal networks.
 - **Cover crops with deep taproots** (radish, rapeseed) cycle P from subsoil layers and return it to the surface in plant residues, improving availability for subsequent cash crops. Daikon radish, in particular, can scavenge P from 3–4 feet deep.
 
 ## Common misconceptions about phosphorus and pH
@@ -121,24 +95,11 @@ For alkaline soils, acidification with elemental sulfur is even slower—often r
 
 Soil organic matter (SOM) improves P availability through multiple mechanisms that are partially pH-dependent. Organic acids produced during decomposition—citric, oxalic, malic—can chelate Al³⁺ and Fe³⁺ in acidic soils, reducing P fixation. In alkaline soils, humic and fulvic acids form soluble complexes with Ca²⁺, partially preventing Ca-phosphate precipitation. However, these organic chelation reactions require adequate SOM levels—typically **3% or higher**—for meaningful impact.
 
-The interaction is bidirectional: low pH reduces microbial activity, slowing organic matter decomposition and the release of organic acids that would otherwise improve P availability. Building SOM through cover cropping, reduced tillage, and [[cervantes-organic-amendments-chart]] creates a positive feedback loop that improves P availability across a wider pH range.
-
-## How should I monitor phosphorus availability over time?
-
-Regular soil testing is essential. Request both a **routine soil test** (Mehlich-3, Bray-1, or Olsen P depending on your region) and a **soil pH with buffer pH**. Track trends over 3–5 year intervals rather than making management decisions from a single year's results.
-
-In acidic soils, also consider requesting an **aluminum saturation percentage**—if it exceeds 15–20% of CEC, P availability will be severely constrained regardless of fertilizer rate. In calcareous soils, a **calcium carbonate equivalent (CCE)** test quantifies how much free lime is present and how aggressively it will fix applied P. Combining these diagnostics with a pH measurement gives a complete picture of the P availability constraints you are working with.
-
-## Bottom line
-
-Soil pH is the master variable controlling phosphorus availability. The pH 6.0–7.0 window is where P fixation by both aluminum/iron (acidic side) and calcium (alkaline side) is minimized. The most cost-effective strategy in almost every production system is to **manage pH into the optimal range for the target crop first**, then use appropriate P placement, biological tools, and [[natural-fertilizer-sources-and-application]] to fine-tune availability.
+The interaction is bidirectional: low pH reduces microbial activity, slowing organic matter decomposition and the release of organic acids that would otherwise improve P availability. Building SOM through cover cropping, reduced tillage, and [[natural-fertilizer-sources-and-application]] to fine-tune availability.
 
 Applying large amounts of P fertilizer to correct a pH problem is agronomically wasteful and environmentally irresponsible—excess P that is not taken up by crops contributes to eutrophication of surface waters. Test your pH, adjust it appropriately, and then apply P fertilizer at agronomic rates with confidence that the crop can actually access it.
 
 ## See Also
 
-- [[query-how-do-psychedelics-change-consciousness]]
-
 - [[query-what-is-rock-dust-fertilizer-and-how-does-it-improve-soil]]
-- [[query-how-does-biochar-improve-soil-health-and-should-i-use-it]]
 - [[query-how-does-rock-dust-improve-soil-fertility]]

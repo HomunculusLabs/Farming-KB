@@ -47,13 +47,13 @@ It is most abundant in the valleys and lower slopes of the northern Rocky Mounta
 
 The species shows strong site preferences, favoring valleys with cold air drainage where late spring frosts reduce competition from more frost-sensitive species.
 
-The species thrives on deep, well-drained loamy soils derived from glacial deposits or volcanic ash. It is commonly found in mixed conifer forests alongside [[pseudotsuga-menziesii]], [[pinus-ponderosa]], and [[abies-grandis]]. On rocky or shallow sites, western larch is often replaced by [[pinus-contorta]] or Douglas-fir, which are more tolerant of nutrient-poor conditions.
+The species thrives on deep, well-drained loamy soils derived from glacial deposits or volcanic ash. It is commonly found in mixed conifer forests alongside [[pinus-ponderosa]], and [[pinus-contorta]] or Douglas-fir, which are more tolerant of nutrient-poor conditions.
 
 Climate within its range is characterized by cold, snowy winters and warm, relatively dry summers. Western larch requires a minimum of 500–600 mm of annual precipitation and a growing season of 90–120 days. The species is found on both north- and south-facing slopes, though growth rates are significantly higher on cooler, moister north aspects.
 
 At the southern and western margins of its range, western larch populations become increasingly fragmented and restricted to higher elevations. These disjunct populations may represent important genetic reservoirs for adaptation to changing climate conditions.
 
-It is intolerant of shade and typically establishes after disturbances such as wildfire, logging, or windthrow. In the absence of disturbance, it is gradually succeeded by more shade-tolerant species like [[tsuga-heterophylla]] and [[abies-grandis]].
+It is intolerant of shade and typically establishes after disturbances such as wildfire, logging, or windthrow. In the absence of disturbance, it is gradually succeeded by more shade-tolerant species like [[abies-grandis]].
 
 Seed production begins at 15–25 years of age, with good seed crops occurring at 3–10 year intervals. Seeds remain viable in the soil seed bank for only 1–2 years, which means regeneration is closely tied to recent disturbance events that create exposed mineral soil seedbeds. Wind dispersal can carry seeds several hundred meters from the parent tree, facilitating colonization of distant burn sites.
 

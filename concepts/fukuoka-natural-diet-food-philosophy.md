@@ -9,9 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-Masanobu Fukuoka's philosophy extends far beyond farming methods into a comprehensive critique of how humanity produces, selects, and consumes food. He argues that the modern diet — whether Japanese or Western — has become fundamentally disconnected from nature, and that this disconnection is both a cause and a consequence of destructive [[mycorrhizal-agricultural-practices]]. Food, for Fukuoka, is not merely nutrition; it is a bridge between human culture and the natural world, and its degradation signals a deeper civilizational crisis.
-
-His food philosophy encompasses dietary health, cultural identity, the geopolitics of food control, and the spiritual dimension of eating. He connects the decline of traditional Japanese foodways to the same forces [[critique-of-scientific-agriculture]] and economic centralization that he critiques in his farming practice.
+Masanobu Fukuoka's philosophy extends far beyond farming methods into a comprehensive critique of how humanity produces, selects, and consumes food. He argues that the modern diet — whether Japanese or Western — has become fundamentally disconnected from nature, and that this disconnection is both a cause and a consequence of destructive [[critique-of-scientific-agriculture]] and economic centralization that he critiques in his farming practice.
 
 ## "Man Doesn't Live by Bread Alone"
 
@@ -24,51 +22,7 @@ Science, Fukuoka argues, cannot tell us what real food is. It cannot explain why
 
 ## The Decline of the Japanese Diet
 
-Fukuoka documents the rapid deterioration of the traditional Japanese diet with particular concern. Judging from the [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] of the human body — the predominance of molars over cuspids, the structure of the jaw and skeleton — the proper food staple for humans is grain. The traditional Japanese farming diet consisted of the "five grains": rice, barley, foxtail millet, proso millet, and barnyard millet, plus the "five vegetables."
-
-Today, the minor grains have been all but forgotten. With their small seeds and low yields, production has shifted almost exclusively to rice and barley. Yet Fukuoka argues that the primitive, small-seed crops closest to nature — the millets, the azuki bean, and buckwheat — are best for human health.
-
-> "Since energy is more highly condensed in smaller things, I would
-> venture to say that it is probably better to go with what is smaller
-> than bigger."
-
-The word "vegetables" is being replaced by terms like "leafy vegetables" and "greens." The quality of rice and barley today is no longer the rice and barley of yesterday. The Japanese are forgetting not just specific foods but an entire food culture — one that once encompassed an enormous variety of grains, vegetables, fruits, and edible wild herbs.
-
-## Critique of Selective Eating
-
-Fukuoka is sharply critical of the modern practice of selective eating
-— choosing specific foods while discarding others. This selectivity
-reflects a deeper arrogance: the belief that human judgment can improve
-upon nature's offerings.
-
-In the traditional farming village, people ate broadly from what the
-land provided, adjusting naturally to seasonal cycles and local
-conditions. The modern consumer, by contrast, demands uniformity,
-size, and visual appeal — qualities that have little to do with
-nutritional value or ecological health.
-
-Breeding programs have developed "tasty" varieties at the expense of
-hardiness and nutritional completeness, creating weak plants that must
-be protected with pesticides. The pursuit of bigger, more visually
-perfect food has driven a wedge between human eating and natural
-systems.
-
-> "Everyone yearns after what is large and tasty. 'Bigger is better'
-> seems to apply today to fruits as well as grains."
-
-## Diet and Thought
-
-Fukuoka drew a direct connection between diet and patterns of thought.
-The food a person eats shapes not only their body but their
-consciousness and worldview. A diet disconnected from nature produces
-a mind disconnected from nature — one prone to arrogance, anxiety, and
-the illusion of control.
-
-Conversely, a natural diet rooted in locally grown, naturally farmed
-food fosters a mind that is humble, attentive, and in harmony with
-its environment. The decline of natural diet was, for Fukuoka,
-inseparable from the decline of natural thinking — the tendency to
-approach all problems through [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]] and technological
+Fukuoka documents the rapid deterioration of the traditional Japanese diet with particular concern. Judging from the [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]] and technological
 intervention rather than through intuitive understanding.
 
 ## The Western Diet and Meat Culture
@@ -110,9 +64,7 @@ of agriculture.
 
 Fukuoka himself was drawn into this vortex when he developed
 superhigh-yielding rice varieties — roughly twice the average yield in
-Japan — that required no pesticides or [[cannabis-chemical-fertilizers]]. He feared
-these seeds, intended to halt the encroachment of scientific
-agriculture, could instead be captured by [[mckenna-drugs-governments-and-intelligence-agencies]] and
+Japan — that required no pesticides or [[mckenna-drugs-governments-and-intelligence-agencies]] and
 crossed with male sterile rice to create hybrid rice used as a tool for
 profit and geopolitical strategy.
 

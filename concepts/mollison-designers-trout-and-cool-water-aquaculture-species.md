@@ -35,10 +35,7 @@ The primary cold-water species for permaculture aquaculture in temperate
 regions. Rainbow trout are the most widely cultured cool-water fish globally
 and offer several advantages for integrated systems:
 
-- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: Optimal growth at 10-16 degrees Celsius; tolerate
-  0-25 degrees. Lethal above approximately 24-25 degrees. Require cool, well-
-  oxygenated water year-round.
-- **Water quality requirements**: [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 mg/L (higher than
+- **[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 mg/L (higher than
   most warm-water species); pH 6.5-8.0; low turbidity; low ammonia and nitrite.
   See mollison-plant-stacking-and-interaction: each
 species occupies a distinct ecological niche, maximising total pond
@@ -80,8 +77,6 @@ Larger water storage impoundments can support aquaculture as a secondary
 function. mollison-pond-edge-configuration-and-yield plantings that filter runoff and provide habitat.
 - Stocking levels must account for the larger volume and lower productivity
 ## See Also
-- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
 - [[mollison-designers-soil-water-storage-in-forest-systems]]
-- [[mollison-designers-hand-pump-and-water-lifting-devices]]
 - [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
 - [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]]

@@ -30,11 +30,7 @@ E. subulatus demonstrates a notable degree of host specificity, being primarily 
 
 The principal host genus for E. subulatus is Trametes, which includes some of the most common bracket fungi in temperate and tropical forests worldwide. Key Trametes species that may serve as hosts include:
 
-- [[calcarisporium-arbuscula]] that grow on a wide range of fungal hosts across multiple orders. The difference in host breadth between specialized species like E. subulatus and generalist species like C. arbuscula reflects different evolutionary strategies within the fungicolous lifestyle, with specialists potentially evolving more efficient exploitation of specific hosts while generalists maintain broader ecological flexibility.
-
-## Habitat and Occurrence
-
-E. subulatus occurs on the sporocarps of Trametes species growing on [[fungal-dead-wood-diversity]] in forest environments. The fungus is typically found on the upper or lateral surfaces of the polypore bracket, where it forms its own fruiting structures. Its presence is often noted during systematic surveys of fungicolous fungi on polypores, where it contributes to the characteristic species assemblage associated with Trametes hosts. The geographic distribution of E. subulatus closely follows that of its Trametes hosts, being found in temperate forests across the Northern Hemisphere.
+- [[fungal-dead-wood-diversity]] in forest environments. The fungus is typically found on the upper or lateral surfaces of the polypore bracket, where it forms its own fruiting structures. Its presence is often noted during systematic surveys of fungicolous fungi on polypores, where it contributes to the characteristic species assemblage associated with Trametes hosts. The geographic distribution of E. subulatus closely follows that of its Trametes hosts, being found in temperate forests across the Northern Hemisphere.
 
 ## Role in Fungal Community Dynamics
 
@@ -46,9 +42,7 @@ Several other discomycetes occur specifically on polypore sporocarps, each showi
 
 - **cistella-hymeniophila** (anamorph Phialophora rhodogena): Found on Antrodia and Piptoporus species
 - **bisporella-citrina**: Recorded on daedaleopsis-confragosa. However, the apothecia usually are also found on the wood nearby, suggesting it may not be exclusively fungicolous
-- **endomyces-polyporicola**: Found on [[trametes-versicolor-entity]] — primary host genus for E. subulatus
-- [[fomitopsis-pinicola]] — polypore host with diverse fungicolous community
-- [[lepista-nuda-entity-the-mushroom-cultivator]]
+- **endomyces-polyporicola**: Found on [[fomitopsis-pinicola]] — polypore host with diverse fungicolous community
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]
 ## Practical Considerations
 

@@ -24,18 +24,13 @@ type: concept
 
 ## Overview
 
-[[natural-farming]]
-
-The traditional mountain paddy embodies all the [[four-principles-of-natural-farming]] farming. It
-requires no fertilizer because natural vegetation returns [[hamilton-composting-and-organic-matter-management]] to the soil.
-It requires no pesticides because the diverse ecosystem of the mountain valley maintains
-[[cho-natural-pest-control-methods]] balance. It requires no heavy machinery because human-scale tools and
+[[four-principles-of-natural-farming]] farming. It
+requires no fertilizer because natural vegetation returns [[cho-natural-pest-control-methods]] balance. It requires no heavy machinery because human-scale tools and
 knowledge are sufficient. Most importantly, it requires no sacrifice of spiritual
 fulfillment for material productivity, because the two are inseparable in this
 approach to agriculture.
 ## See Also
 
-- [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
 ## Practical Applications
 
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[composting]]
 - [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]

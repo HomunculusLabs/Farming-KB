@@ -2,28 +2,7 @@
 title: Cannabis Rhizosphere Microbiome
 aliases:
   - cannabis root zone microbiome
-  - [[lowenfels-rhizosphere-bacteria-plant-interaction]] cannabis
-  - cannabis soil microbiome
-tags:
-  - microbiome
-  - rhizosphere
-  - cannabis
-  - soil-science
-  - microbial-ecology
-  - plant-microbe-interactions
-created: 2026-05-09
-source: Winston ME et al. (2014) PLoS ONE 9(6): e99641
----
-
-## Overview
-
-The rhizosphere is the narrow zone of soil immediately influenced by plant root
-secretions and associated soil microorganisms. In cannabis (Cannabis sativa L.), the
-rhizosphere microbiome represents a critical interface where plant-microbe interactions
-drive nutrient cycling, disease suppression, and overall plant health. Winston et al.
-(2014) provided the first systematic description of the cannabis rhizosphere microbiome
-across multiple cultivars and soil types, revealing that this zone harbors distinct
-[[cannabis-endorhiza-bacterial-communities]] shaped by both edaphic (soil) factors and host plant identity.
+  - [[cannabis-endorhiza-bacterial-communities]] shaped by both edaphic (soil) factors and host plant identity.
 
 The rhizosphere concept was first introduced by Hiltner in 1904. The rhizosphere is
 recognized as one of the most complex microbial habitats on Earth, with microbial densities typically 10 to 1000 times higher than in
@@ -40,17 +19,7 @@ certain bacterial taxa while depleting others relative to the surrounding bulk s
 
 In the Winston et al. study, rhizosphere samples from five cannabis cultivars (Burmese,
 Bookoo Kush, Sour Diesel, White Widow, and Maui Wowie) were characterized using Illumina
-16S rRNA V4 region sequencing and analyzed with the [[qiime-bioinformatics-pipeline-16s-rrna-microbiome]].
-Proteobacteria increased in relative abundance from bulk soil toward the endorhiza, while
-Acidobacteria showed the opposite trend. This taxonomic shift reflects the nutritional
-environment created by root exudates: Proteobacteria tend to be copiotrophic (thriving in
-nutrient-rich conditions), whereas Acidobacteria are often oligotrophic (adapted to
-low-nutrient environments).
-
-Specific families enriched in the cannabis rhizosphere relative to bulk soil included
-members of the Oxalobacteraceae, Xanthomonadaceae, and various Proteobacterial lineages.
-These taxa are commonly associated with root-colonizing lifestyles across many plant
-species, suggesting conserved plant-microbe [[mycoparasite-host-interface-types-interaction-mechanisms]].
+16S rRNA V4 region sequencing and analyzed with the [[mycoparasite-host-interface-types-interaction-mechanisms]].
 
 ## Diversity Gradient: Bulk Soil to Endorhiza
 
@@ -68,20 +37,9 @@ fundamental organizing principle of the root microbiome.
 
 ## Edaphic Factors Shaping the Rhizosphere
 
-Soil properties emerged as the dominant determinant of [[core-endorhiza-bacterial-community-composition-cannabis]]
-across all sample types. Using PERMANOVA analysis, Winston et al. found that soil type
-explained the largest proportion of variation, with 690 significant OTUs by weighted
-UniFrac and 657 by [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]. By comparison, sample type accounted for far
+Soil properties emerged as the dominant determinant of [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]. By comparison, sample type accounted for far
 fewer significant OTUs (51 weighted, 11 unweighted), and cultivar effects accounted for
-71 by [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] and zero by unweighted UniFrac.
-
-The difference between weighted (abundance-sensitive) and unweighted (presence/absence)
-metrics is critical: soil determines which taxa are present, while cultivar effects
-primarily alter relative abundance of shared taxa rather than adding or removing unique
-taxa entirely.
-
-Among individual edaphic factors, nitrogen was the strongest correlate of
-[[edaphic-factors-microbial-community-structure]] (r-stat: 0.465, weighted UniFrac). Other
+71 by [[edaphic-factors-microbial-community-structure]] (r-stat: 0.465, weighted UniFrac). Other
 measured soil parameters including phosphorus, potassium, pH, and organic matter
 overwhelming influence of soil type means that the same cultivar grown in different soils
 will develop substantially different rhizosphere microbiomes.
@@ -117,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[rhizosphere-microbiome]]
 - [[cannabis-sativa]]
-- [[doc]]
 - [[dom]]
 - [[det]]

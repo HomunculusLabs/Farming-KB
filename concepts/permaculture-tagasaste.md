@@ -6,26 +6,16 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-# Tagasaste (Chamaecytisus palmensis) Tagasaste, also known as tree lucerne, is a nitrogen-fixing legume (Fabaceae/Papilionaceae) native to the Canary Islands. One of the most useful [[permaculture-multipurpose-trees]] ideal, providing fodder, soil improvement, wind protection, and [[legume-nitrogen-dynamics]] and [[urban-permaculture-trees-water-cycling]] species available. This exceptional nutrition supports [[permaculture-grazing-and-pasture]] systems. The synergy between tagasaste and pasture supports [[permaculture-bee-forage-system]] design. As a [[permaculture-forest-garden-establishment]] by sheltering and nurturing young food trees. See [[urban-permaculture-trees-water-cycling]] systems with well-fenced hedgerows for constant grazing.
-
-Early training is essential — unmanaged trees grow tall and become inaccessible to stock. Management follows permaculture-green-manure-crops surface mulch, supporting [[permaculture-plant-propagation-guide]] for techniques. Seedling establishment benefits from [[permaculture-pioneer-species]] strategies for site preparation and [[permaculture-tree-crop-systems]] as a [[tagasaste-nurse-crop-fodder-systems]] for species like permaculture-chestnut. Its integration follows [[permaculture-climate-zones]] with as little as 300mm annual rainfall when established with rock phosphate. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it valuable for [[permaculture-frost-protection-strategies]] in colder areas.
+# Tagasaste (Chamaecytisus palmensis) Tagasaste, also known as tree lucerne, is a nitrogen-fixing legume (Fabaceae/Papilionaceae) native to the Canary Islands. One of the most useful [[legume-nitrogen-dynamics]] and [[permaculture-grazing-and-pasture]] systems. The synergy between tagasaste and pasture supports [[permaculture-forest-garden-establishment]] by sheltering and nurturing young food trees. See [[permaculture-plant-propagation-guide]] for techniques. Seedling establishment benefits from [[permaculture-tree-crop-systems]] as a [[permaculture-climate-zones]] with as little as 300mm annual rainfall when established with rock phosphate. Its [[permaculture-frost-protection-strategies]] in colder areas.
 
 ## Related
 
-- [[permaculture-wattles]]
-
 - [[nitrogen-fixing-trees-and-shrubs]]
-
-- [[permaculture-nitrogen-fixing-trees-guide]]
 
 - [[salt-tolerant-fodder-species]]
 
 ## Merged: Guava Species (Psidium spp)
-updated: 2026-04-18 Guavas are among the most productive and versatile fruit plants for tropical and subtropical [[cover-crops-soil-health]] and tagasaste as a companion nitrogen-fixing nurse tree. A small, branching, evergreen tree native to Mexico, attaining 2-10 m.
-## Merged: Capuli Cherry (Prunus salicifolia)
-updated: 2026-04-18 The capuli, or capulin cherry, is a fast-growing semi-deciduous tree native to the highlands of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. Unlike true cherries (Prunus avium and relatives), it does not require a period of winter chilling to set fruit, making it an excellent cherry substitute for warm and subtropical climates. The capuli is well suited to [[cover-crops-soil-health]]), corn, and potatoes in traditional Andean systems.
-## Merged: Acerola - Barbados Cherry (Malpighia glabra)
-updated: 2026-04-18 The acerola, also known as Barbados cherry or West Indian cherry, is a slow-growing evergreen shrub native to the Caribbean and Central America. It is renowned for possessing one of the highest natural concentrations of Vitamin C of any fruit, making it an exceptionally valuable plant for nutrition and health. The plant is susceptible to root knot nematode, especially in sandy soils, so soil preparation and [[permaculture-food-forest-design-principles]] designs as an understory shrub in tropical and subtropical systems. It benefits from tagasaste or other nitrogen-fixing nurse trees during establishment.
+updated: 2026-04-18 Guavas are among the most productive and versatile fruit plants for tropical and subtropical [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. Unlike true cherries (Prunus avium and relatives), it does not require a period of winter chilling to set fruit, making it an excellent cherry substitute for warm and subtropical climates. The capuli is well suited to [[permaculture-food-forest-design-principles]] designs as an understory shrub in tropical and subtropical systems. It benefits from tagasaste or other nitrogen-fixing nurse trees during establishment.
 ## Practical Applications
 
 Tagasaste (Chamaecytisus palmensis) has a range of practical applications that make it relevant to

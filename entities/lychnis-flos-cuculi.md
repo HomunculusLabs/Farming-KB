@@ -110,11 +110,7 @@ Folklore associates ragged robin with fairies and woodland spirits in Celtic tra
 
 ## See Also
 
-- [[lychnis-coronaria]]
 - [[silene-vulgaris]]
-- [[agrostemma-githago]]
 - [[dianthus-plumarius]]
-- [[stellaria-media]]
 - [[cerastium-tomentosum]]
-- [[dianthus-deltoides]]
 - [[saponaria-officinalis]]

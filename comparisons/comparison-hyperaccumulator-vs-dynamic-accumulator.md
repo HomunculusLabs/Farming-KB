@@ -14,24 +14,16 @@ type: comparison
 
 ## Overview
 
-Hyperaccumulators and [[comparison-dynamic-accumulators-vs-cover-crops]] are both categories of plants that
-concentrate minerals at elevated levels, but they serve fundamentally different
-purposes and operate through different biological mechanisms. Hyperaccumulators are
-defined by their extraordinary ability to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] to toxic
-concentrations, primarily used in phytoremediation of contaminated sites. Dynamic
+Hyperaccumulators and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] to toxic
+concentrations, primarily used in [[phytoremediation]] of contaminated sites. Dynamic
 accumulators are valued in gardening and agriculture for gathering and cycling
 nutrients from deep soil layers to the surface. Confusing the two categories can
-lead to poor plant selection for either soil remediation or [[green-cannabis-grow-bible-nutrient-management-ppm]].
-
-## Hyperaccumulator Plants
-
-[[phytoextraction-mechanisms|phytoextraction]] of contaminated soils and phytomining (economic recovery
+lead to poor plant selection for either soil remediation or [[phytoextraction-mechanisms|phytoextraction]] of contaminated soils and [[phytomining]] (economic recovery
 of metals from plant biomass).
 
 ## Dynamic Accumulators
 
-[[phytoremediation]]
-- [[phytoextraction-mechanisms]]
+[[phytoextraction-mechanisms]]
 - [[dynamic-accumulators]]
 ## Practical Applications
 

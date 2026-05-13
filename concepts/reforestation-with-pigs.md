@@ -17,11 +17,7 @@ type: concept
 
 # Reforestation with Pigs
 
-[[comparison-sepp-holzer-vs-biodynamic]] has developed a distinctive method of using pigs as partners in
-reforestation and land restoration. Pigs are "blessed by nature with a plough
-in front and a compost spreader at the back," making them ideal workers for
-preparing ground for tree planting in areas that are difficult to cultivate
-with machinery. This method is a key element of [[biodiversity-fungi-soil-fungal-communities]]
+[[biodiversity-fungi-soil-fungal-communities]]
 
 ## Historical Context
 
@@ -30,19 +26,13 @@ vast areas together with sheep, horses, goats, and cattle. Tree seeds were
 sporadically sown, and once established the pigs were moved to other areas.
 Farmers had less competition and were not as specialised as today. Many
 Alpine hamlets got their names from the livestock they kept: Saudorf (sod
-village) for pig farming, Huhnerbuhl for [[comparison-chicken-keeping-vs-beekeeping-basics]], Ganslberg (goose
-hill) for geese.
-
-This traditional way of life is mostly lost, as intensive animal husbandry
-has seduced farmers to specialise and overstock, leading to overgrazing and
-[[sepp-holzer-terrace-systems-and-raised-beds]] and hugelkulturs.
+village) for pig farming, Huhnerbuhl for [[sepp-holzer-terrace-systems-and-raised-beds]] and hugelkulturs.
 Areas should be planted quickly, before the next snowmelt carries nutrient-
 rich ash into rivers.
 
 ## See Also
 
-- mollison-animal-range-management for related [[mollison-pdc-range-management-wildlife]] concepts
-- [[fukuoka-road-back-desert-reclamation]] for Fukuoka's reforestation methods
+- mollison-animal-range-management for related [[fukuoka-road-back-desert-reclamation]] for Fukuoka's reforestation methods
 ## Practical Considerations
 
 When working with Reforestation with Pigs, several practical factors should be

@@ -5,17 +5,7 @@ tags:
   - permaculture
   - islands
   - atoll-design
-  - [[water-management]]
-  - mollison-pdc
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - bill-mollison-permaculture-design-course.md
-type: concept
----
-
-# Low [[permaculture-design]] Course classifies islands into two fundamental
+  - [[permaculture-design]] Course classifies islands into two fundamental
 types with totally different origins and design challenges:
 
 - **Low islands** are residual islands composed of coral and sand with
@@ -90,8 +80,6 @@ concentrates energy and water, and the raised sand edge protects the
 growing area.
 
 ## See Also
-- [[mollison-pdc-high-island-design]]
 - [[mollison-designers-high-island-and-tropical-valley-design]]
-- [[mollison-designers-low-island-coral-cay-strategies]]
 - [[mollison-designers-design-for-children-education-gardens]]
 - [[mollison-designers-temperate-zone-food-forest-design]]

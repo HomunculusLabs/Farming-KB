@@ -10,27 +10,17 @@ sources: []
 
 ## Overview
 
-Based on the comprehensive survey by Guzman, Allen, and Gartz (2000), 216 species of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] are known worldwide. These are divided into four groups: (1) species with psilocybin and related indoles (the vast majority), (2) species with [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] (psilocybe-cubensis-distribution-and-ecology
+Based on the comprehensive survey by Guzman, Allen, and Gartz (2000), 216 species of [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] (psilocybe-cubensis-distribution-and-ecology
 
-- [[psilocybe-antioquensis]]
 - [[psilocybe-guilartensis]]
-- [[psilocybe-naematoliformis]]
-- psilocybe-thrausta
 - [[psilocybe-villamedinensis]]
 
-- [[psilocybe-subcaerulipes]]
-
 - [[psilocybe-marginalis]]
-
-- [[psilocybe-linearis]]
 
 - [[psilocybe-bohemica]]
 
 - allen-magic-mushrooms-australia-newzealand-species-guide
 
-- [[psilocybin-mushroom-habitats-ecology]], 
-
-- mushroom-poisoning-and-lookalikes -- Dangerous lookalike species
 - [[psychedelic-plant-sources]] -- All major psychedelic organism sources
 
 ## Related

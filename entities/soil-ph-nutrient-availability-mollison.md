@@ -6,13 +6,7 @@ type: entity
 
 ## Description
 
-[[soil-ph]] (hydrogen ion concentration) is a fundamental measurement in soil and water science that governs the availability and solubility of both macronutrients and trace elements. The pH scale ranges from 0 (acid) to 14 (alkaline), though natural soils rarely fall outside the range of 4.0 to 10.0.
-
-## Classification
-
-- **Category**: Soil chemistry
-- **Domain**: Edaphology / soil fertility
-- **Related concepts**: [[cation-exchange-capacity]], nutrient solubility, buffer systems
+[[cation-exchange-capacity]], nutrient solubility, buffer systems
 
 ## Key Facts
 
@@ -86,6 +80,5 @@ pH within optimal ranges for most plant species.
 
 ## See Also
 
-- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 - [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]

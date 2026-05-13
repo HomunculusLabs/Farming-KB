@@ -9,9 +9,7 @@ sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
 type: concept
 ---
 
-# [[gartz-global-psilocybin-mushroom-distribution]] is the most important psychoactive European
-species among the genus, with a long and controversial history of
-identification and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
+# [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 
 ## Historical Intoxication Cases
 
@@ -77,48 +75,10 @@ stains is very rare overall.
 
 ## Alkaloid Content
 
-Stijve concluded that dried fruiting bodies contain about 0.1% [[baeocystin]]. However, dried
-mushrooms from the Pacific Northwest have been reported to contain 0.16% to
-0.65% psilocybin. The first [[growing-gourmet-north-american-reishi-species]] analyses (1959) led to isolation of
+Stijve concluded that dried fruiting bodies contain about 0.1% [[growing-gourmet-north-american-reishi-species]] analyses (1959) led to isolation of
 a water-soluble indole compound now generally thought to be baeocystin.
 
 More recent studies of carefully identified European material did not document
-substantial amounts of [[psilocin]]. "Chemical races" associated with specific
-species could not be established. Almost all accidental intoxications can be
-traced to Panaeolus subbalteatus, with the possible exception of one case
-caused by an imported tropical species.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[panaeolus-subbalteatus]]
-- [[doc]]
+substantial amounts of [[panaeolus-subbalteatus]]
 - [[psilocybin]]
-- [[dom]]
 - [[psilocin]]

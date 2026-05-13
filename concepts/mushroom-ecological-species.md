@@ -35,7 +35,7 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Fresh air exchange | High CO2 tolerance; lower FAE acceptable |
 | Light | Low to moderate; indirect |
 | pH | 5.0-6.5 |
-| Colonization time | 30-45 days on [[oyster-mushroom-supplemented-sawdust-blocks]] |
+| Colonization time | 30-45 days on supplemented sawdust |
 | Time to first fruit | 2-4 weeks; fruiting bodies develop over 2-3 months |
 | Yield | Variable; reishi grows slowly but can reach large size |
 | Difficulty | Moderate |
@@ -129,22 +129,21 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 
 | Species | Primary Application | Notes |
 |---------|-------------------|-------|
-| [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] | Petroleum, PAHs, PCBs | Most versatile remediator; aggressive colonizer |
+| Pleurotus ostreatus | Petroleum, PAHs, PCBs | Most versatile remediator; aggressive colonizer |
 | Stropharia rugoso-annulata | Bacteria (E. coli), sediment | Premier mycofiltration species |
-| Trametes versicolor | PAHs, dyes, general pollutants | Strong [[ligninolytic-enzyme-production-bioremediation]] |
-| [[phanerochaete-chrysosporium]] | PCBs, PAHs, pesticides | Model white-rot research organism |
+| Trametes versicolor | PAHs, dyes, general pollutants | Strong ligninolytic enzyme production |
+| Phanerochaete chrysosporium | PCBs, PAHs, pesticides | Model white-rot research organism |
 | Ganoderma lucidum | Heavy metals | Biosorption capacity |
 | Lentinula edodes | Xenobiotics, pesticides | Laccase production |
-| [[pleurotus-eryngii]] | PAHs, petroleum | Mediterranean oyster; tolerant species |
-| [[schizophyllum-commune]] | Various pollutants | Cosmopolitan; grows almost anywhere |
+| Pleurotus eryngii | PAHs, petroleum | Mediterranean oyster; tolerant species |
+| Schizophyllum commune | Various pollutants | Cosmopolitan; grows almost anywhere |
 
 ## Substrate Preparation Quick Reference
 
-| Substrate | Pasteurization | Sterilization | Species |
-|-----------|---------------|---------------|---------|
-| Straw | Hot water (160°F, 1-2 hrs) or cold incubation | Not needed | Oyster, wine cap |
-| Hardwood sawdust + bran | Not recommended | 15 psi, 90-120 min | Shiitake, maitake, lion's mane, reishi |
-| Composted manure | Phase II composting (140°F, 6-8 hrs) | Not needed | Agaricus species, almond mushroom |
-| Wood chips | Not required (outdoor) | Not required | Wine cap, garden giants, reishi |
-| Logs | Not required | Not required | Shiitake, oyster, reishi, maitake |
-| Coffee grounds | Pasteurize if concerned | Not needed | Oyster species |
+## See Also
+
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[straw-based-mushroom-substrate-preparation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[straw-mushroom-cultivation]]
+- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

@@ -110,11 +110,7 @@ Individual specimens can live 80–100 years with proper care. The oldest docume
 
 ## See Also
 
-- [[magnolia-grandiflora]]
 - [[magnolia-stellata]]
-- [[liriodendron-tulipifera]]
 - [[cornus-florida]]
-- [[stewartia-pseudocamellia]]
 - [[parrotia-persica]]
-- [[davidia-involucrata]]
 - [[hamamelis-virginiana]]

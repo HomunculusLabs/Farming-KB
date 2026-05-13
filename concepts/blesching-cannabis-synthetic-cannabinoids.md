@@ -14,14 +14,7 @@ Synthetic cannabinoids are laboratory-created compounds designed to mimic or
 modify the effects of naturally occurring phytocannabinoids from the cannabis
 plant. Several synthetic cannabinoid medications have received regulatory
 approval, while many others remain unregulated and dangerous. Understanding
-the differences between [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]], unregulated
-synthetic cannabinoids, and whole-plant cannabis is essential for informed
-medical decision-making.
-
-## Overview
-
-The development of synthetic cannabinoids represents an attempt to isolate and
-standardize the [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] of cannabis while eliminating its
+the differences between [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] of cannabis while eliminating its
 undesirable effects. Pharmaceutical companies have created several FDA-approved
 synthetic cannabinoid medications, including dronabinol (Marinol), nabilone
 (Cesamet), and nabiximols (Sativex). These medications offer the advantages
@@ -31,42 +24,19 @@ but they may not replicate the full therapeutic profile of whole-plant cannabis.
 The distinction between FDA-approved synthetic cannabinoid medications and
 unregulated synthetic cannabinoids sold as recreational drugs is critical.
 Approved medications like dronabinol and nabilone contain precise doses of
-specific cannabinoids and have undergone [[mushroom-cancer-clinical-trials-overview]] demonstrating safety
-and efficacy for particular indications. In contrast, unregulated synthetic
-cannabinoids such as those sold as Spice, K2, or Black Mamba are novel
-[[cultural-evolution-and-psychoactive-substances]] of unknown composition and potency that have been
+specific cannabinoids and have undergone [[cultural-evolution-and-psychoactive-substances]] of unknown composition and potency that have been
 associated with severe toxicity, hospitalization, and death.
 
 Whole-plant cannabis contains over 100 identified cannabinoids, hundreds of
 terpenes, and numerous other compounds that interact through the entourage
 effect to produce a therapeutic profile that single-molecule pharmaceuticals
-cannot fully replicate. The [[blesching-cannabis-health-index-autoimmune-conditions]] consistently notes that
-while synthetic cannabinoid medications have value in specific clinical
-contexts, the broader therapeutic potential of whole-plant cannabis often
-exceeds what isolated synthetic compounds can achieve.
-
-## Key Concepts
-
-- FDA-approved synthetic cannabinoids include dronabinol (Marinol), nabilone
-  (Cesamet), and nabiximols (Sativex)
-- Approved synthetic cannabinoid medications offer standardized dosing and
-  pharmaceutical-grade purity
-- Unregulated synthetic cannabinoids (Spice, K2) are dangerous novel
-  psychoactive substances unrelated to medical cannabinoid pharmaceuticals
-- Whole-plant cannabis contains over 100 cannabinoids and hundreds of
-  terpenes that interact through the [[cannabis-terpene-entourage-effect-profiles]]
+cannot fully replicate. The [[cannabis-terpene-entourage-effect-profiles]]
 - Single-molecule synthetic cannabinoids cannot fully replicate the
   therapeutic profile of whole-plant cannabis
 - Synthetic cannabinoid medications have narrower indications than
   whole-plant cannabis
 - The U.S. federal government holds a patent on neuroprotective properties
-  of cannabinoids [[cannabis-for-neurological-conditions]]
-
-## FDA-Approved Synthetic Cannabinoid Medications
-
-Dronabinol (Marinol) is a synthetic form of delta-9-THC approved by the FDA
-for the treatment of nausea and vomiting associated with cancer chemotherapy
-and for [[cannabis-for-cachexia-and-appetite-stimulation]] in AIDS-related wasting syndrome. Dronabinol is
+  of cannabinoids [[cannabis-for-cachexia-and-appetite-stimulation]] in AIDS-related wasting syndrome. Dronabinol is
 administered orally in capsule form and provides standardized doses of THC
 without the variability associated with plant material. However, oral THC
 metabolizes to 11-hydroxy-THC in the liver, producing more intense
@@ -78,13 +48,7 @@ Nabilone (Cesamet) is a synthetic cannabinoid structurally similar to THC
 but with greater potency and a longer duration of action. It is approved for
 the treatment of chemotherapy-induced nausea and vomiting that has not
 responded adequately to conventional antiemetic therapy. Nabilone has also
-shown promise in clinical studies for fibromyalgia, [[cannabis-chronic-pain-management]], and
-post-traumatic stress disorder, though these remain off-label uses.
-
-Nabiximols (Sativex) is a whole-plant extract rather than a fully synthetic
-compound. It is an oromucosal spray containing approximately equal parts THC
-and CBD, along with other cannabis-derived compounds. Nabiximols is approved
-in numerous countries for spasticity associated with [[blesching-cannabis-multiple-sclerosis]] and
+shown promise in clinical studies for fibromyalgia, [[blesching-cannabis-multiple-sclerosis]] and
 for cancer-related pain. It represents a bridge between single-molecule
 synthetic cannabinoids and whole-plant cannabis, preserving some of the
 entourage effect while providing pharmaceutical standardization.
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dronabinol]]
 - [[nabiximols]]
-- [[nabilone]]
 - [[blesching-cannabis-pharmaceutical-prescription-cannabinoids]]
 - [[blesching-cannabis-caryophyllene-dietary-cannabinoids]]

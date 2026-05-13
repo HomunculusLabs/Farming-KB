@@ -28,9 +28,9 @@ sources:
 
 ## Overview
 
-**Hugelkultur** (German: *Hügelkultur*, literally "mound culture" or "hill culture") is a permaculture technique in which garden beds are constructed by burying woody debris — logs, branches, twigs, and other carbon-rich plant material — beneath layers of soil [[hamilton-composting-and-organic-matter-management]]. As the buried wood decomposes over years and decades, it performs multiple functions simultaneously: acting as a moisture-retaining sponge, a slow-release nutrient source, a heat-generating compost core, and a [[query-how-do-i-design-habitat-for-beneficial-insects]] soil organisms. The technique originates from Eastern European and German horticultural traditions and was popularized in the modern permaculture movement by Austrian farmer **Sepp Holzer**, who has used hugelkultur mounds extensively at his Krameterhof farm since the 1960s.
+**Hugelkultur** (German: *Hügelkultur*, literally "mound culture" or "hill culture") is a permaculture technique in which garden beds are constructed by burying woody debris — logs, branches, twigs, and other carbon-rich plant material — beneath layers of soil [[query-how-do-i-design-habitat-for-beneficial-insects]] soil organisms. The technique originates from Eastern European and German horticultural traditions and was popularized in the modern permaculture movement by Austrian farmer **Sepp Holzer**, who has used hugelkultur mounds extensively at his Krameterhof farm since the 1960s.
 
-Hugelkultur embodies several core [[permaculture-principles]]: **[[gaias-garden-stacking-functions]]** (one element serving multiple purposes), **using biological resources** (decomposition as the engine), **producing no waste** (converting woody debris into fertility), and **catching and storing energy** (water and nutrients). It is particularly valued in climates with irregular rainfall, cold winters, or poor soils, where its water-retention and thermal properties provide significant growing advantages over conventional flat-bed gardening.
+Hugelkultur embodies several core [[gaias-garden-stacking-functions]]** (one element serving multiple purposes), **using biological resources** (decomposition as the engine), **producing no waste** (converting woody debris into fertility), and **catching and storing energy** (water and nutrients). It is particularly valued in climates with irregular rainfall, cold winters, or poor soils, where its water-retention and thermal properties provide significant growing advantages over conventional flat-bed gardening.
 
 ## Construction and Materials
 
@@ -67,15 +67,7 @@ Hugelkultur beds can be constructed at various scales:
 | **Standard** | 0.9–1.5 m tall, 1–2 m wide, 3–10 m long | Home gardens, small farms, market gardens |
 | **Large** | 1.5–2 m tall, 2–3 m wide, 10+ m long | Broadacre permaculture, orchard interplanting, earthworks |
 
-The height of the mound determines the steepness of the sides. Mounds taller than 1 m benefit from **terracing or stepping** to prevent soil erosion on steep faces. Orientation is important: in [[fukuoka-natural-farming-temperate-climates]], **north-south orientation** maximizes sun exposure on both sides of the mound.
-
-## Soil Biology and Decomposition Dynamics
-
-The decomposition of buried wood drives the entire hugelkultur system:
-
-### Phase 1 — Initial Decomposition (Year 1–2)
-
-- [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] colonization of wood surfaces begins
+The height of the mound determines the steepness of the sides. Mounds taller than 1 m benefit from **terracing or stepping** to prevent soil erosion on steep faces. Orientation is important: in [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] colonization of wood surfaces begins
 - Cellulolytic and ligninolytic fungi (primarily Basidiomycota) begin breaking down cellulose and lignin
 - Soil temperatures within the mound may be **2–5°C warmer** than surrounding ground due to microbial thermogenesis
 - Nitrogen drawdown from surrounding soil occurs as decomposer populations expand
@@ -83,8 +75,7 @@ The decomposition of buried wood drives the entire hugelkultur system:
 
 ### Phase 2 — Active Decomposition (Year 2–5)
 
-- [[fungal-mycelial-networks-nutrient-translocation]] of saprotrophic fungi become extensive throughout the woody core
-- Nitrogen fixation by free-living bacteria and [[plants-without-mycorrhizal-associations]] increases [[plant-available-nitrogen-ammonium-nitrate]]
+- [[plants-without-mycorrhizal-associations]] increases [[plant-available-nitrogen-ammonium-nitrate]]
 - Moisture retention capacity reaches its maximum as wood becomes sponge-like
 - Earthworm and microarthropod populations peak, creating extensive burrow networks
 - Plant roots penetrate deep into the decomposing wood, accessing moisture and nutrients

@@ -24,13 +24,11 @@ Eranthis cilicica, commonly called Cilician winter aconite, is a low-growing tub
 
 The species produces bright yellow cup-shaped flowers in late winter, often emerging through snow in its native habitat. It is valued in horticulture as one of the earliest spring ephemerals, naturalizing readily in woodland gardens and shaded borders.
 
-Eranthis cilicica is closely related to [[eranthis-hyemalis]] but is distinguished by more deeply divided bracts and a generally more robust growth habit. Both species are widely cultivated as winter-interest groundcovers in temperate gardens.
-
-Unlike many Ranunculaceae, Eranthis species bloom before leaves appear on deciduous trees, exploiting the brief window of full sun at ground level. This phenological strategy defines its [[ecological-niche]] as a classic spring ephemeral.
+Eranthis cilicica is closely related to [[ecological-niche]] as a classic spring ephemeral.
 
 The species has received the RHS Award of Garden Merit, confirming its reliability and ornamental value in cultivation. It is frequently used in mass plantings beneath deciduous trees and along woodland paths for late-winter color.
 
-Despite its horticultural popularity, Eranthis cilicica remains less commonly available in the nursery trade than Eranthis hyemalis. Specialist bulb suppliers are the most reliable source for true-to-name tubers of this species.
+Despite its horticultural popularity, Eranthis cilicica remains less commonly available in the nursery trade than [[eranthis-hyemalis]]. Specialist bulb suppliers are the most reliable source for true-to-name tubers of this species.
 
 ## Taxonomy and Morphology
 
@@ -56,11 +54,7 @@ Hybridization between Eranthis cilicica and Eranthis hyemalis occurs in cultivat
 
 Eranthis cilicica is native to the Taurus Mountains of southern Turkey, particularly the historic Cilician region (ancient Cilicia). It grows at elevations of 1,000–2,200 m in deciduous woodlands and scrub communities.
 
-The species prefers limestone-derived [[plants-tolerant-of-alkaline-soils]] and grows in areas with cold, wet winters and dry summer conditions. It occurs in open woodland clearings, rocky limestone slopes, and along seasonally moist stream margins.
-
-Populations in the wild are locally abundant but restricted to specific microhabitats with suitable drainage and dappled shade. The species is not currently considered globally threatened but has a limited natural range.
-
-In cultivation, it has naturalized in parts of western and central Europe and in [[polypore-fungi-eastern-north-america]]. It thrives in USDA hardiness zones 4–7 and prefers locations with reliable winter moisture followed by dry summer dormancy.
+The species prefers limestone-derived [[polypore-fungi-eastern-north-america]]. It thrives in USDA hardiness zones 4–7 and prefers locations with reliable winter moisture followed by dry summer dormancy.
 
 The species co-occurs with other early-blooming geophytes in its native range, including various Crocus, Galanthus, and Iris species. These communities form rich assemblages of winter- and early-spring flowering plants adapted to the Mediterranean montane climate pattern.
 
@@ -70,7 +64,7 @@ Unlike its close relative Eranthis hyemalis, which is more widespread in Europe,
 
 Eranthis cilicica is grown from tubers planted 3–5 cm deep in autumn, spaced 5–8 cm apart in groups. Tubers should be planted immediately after purchase, as they desiccate rapidly in storage and lose viability within days.
 
-The species prefers humus-rich, well-drained soil in partial to full shade beneath deciduous trees. It naturalizes best under canopy where it receives spring sun before leaf emergence shades the ground completely.
+The species prefers [[humus]]-rich, well-drained soil in partial to full shade beneath deciduous trees. It naturalizes best under canopy where it receives spring sun before leaf emergence shades the ground completely.
 
 Established clumps persist for decades and spread slowly by self-seeding into surrounding areas. Colonies may take 3–5 years to become visually prominent from an initial planting of tubers.
 

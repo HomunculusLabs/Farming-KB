@@ -101,13 +101,8 @@ The species has been used in traditional Korean medicine, where the bark and res
 
 ## See Also
 
-- [[styrax-obassia]]
 - [[styrax-tonkinensis]]
-- [[stewartia-pseudocamellia]]
 - [[clethra-alnifolia]]
-- [[hamamelis-virginiana]]
 - [[forsythia-suspensa]]
-- [[syringa-vulgaris]]
 - [[pieris-japonica]]
-- [[rhododendron-maximum]]
 - [[hydrangea-macrophylla]]

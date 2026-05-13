@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: "2026-04-24"
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - "[[elaine-ingham]], The Field Guide for Actively actively-aerated-compost-tea Tea"
+  - "elaine-ingham, The Field Guide for Actively actively-aerated-compost-tea Tea"
 type: concept
 tags: [composting]
 ---
@@ -24,39 +24,7 @@ Proper application rates and timing are essential for AACT effectiveness. Compos
 ## Application Timing Calendar
 
 ### Spring
-- **Two weeks before bud break**: First [[ultra-low-cost-foliar-application-methods]] of the season
-- **Soil drench**: Wait until soil is warm enough for organisms to grow; cold-loving bacteria and select fungi wake in winter but take 2-3 weeks to activate
-
-### Growing Season (First Year)
-- **Months 1-4**: Apply every 7-10 days to establish organism populations
-- **Months 5-12**: Reduce to once per month
-- **Subsequent years**: Three times per growing season as maintenance
-
-### When Disease Is Present
-- Apply tea as long as disease is present
-- During major disturbance, apply every 7-10 days
-- For minimal disturbance, reduce frequency
-- Do not spray just once and expect results; establishing the full food web takes time
-
-### Fall
-- Apply to plant residues after harvest
-- Apply a soil drench so organisms decompose leaves instead of serving as pathogen overwintering sites
-- Organisms have all winter to improve the food web for next summer
-
-### Winter
-- Cold-loving soil bacteria and select fungi wake when it is cold
-- Takes 2-3 weeks to activate; most rapid decomposition occurs in winter
-- When soil freezes, fungi shut down until it thaws
-
-## Foliar vs Soil Drench
-
-### Foliar Application
-- Foliage generally needs tea as fungal as possible
-- Target: 60-70% bacteria and 2-5% fungi coverage of leaf surface
-- If disease is rampant, fungal microorganisms become critical
-- Apply a minimum of once a month, more like every 10-14 days depending on disease severity
-- Fungi must be at least 5% of the 70% total leaf coverage for full protection
-- Coverage is the main agent of [[cervantes-pest-disease-prevention-overview]]: if beneficial organisms already occupy the leaf surface, pathogens cannot push them out
+- **Two weeks before bud break**: First [[cervantes-pest-disease-prevention-overview]]: if beneficial organisms already occupy the leaf surface, pathogens cannot push them out
 
 ### Soil Drench
 - If soil is too fungal, apply bacterial tea
@@ -71,18 +39,10 @@ Organisms need about 20 minutes to attach to leaf surfaces. After that, they sti
 
 - **Aloe vera**: Effective but avoid the layer of plant material right next to the leaf (detrimental to life; may have pest-repellent properties)
 - **Saponin and Nu-Film**: Work well; fungi like both. Get preservative-free versions. Nu-Film is pine sap and must be diluted before adding to tea
-- **[[comparison-fish-hydrolysate-vs-fish-emulsion]]**: Can be a sticker but watch concentration; too much oil smothers
-- **Unsulphured molasses**: 5% concentration sticks well AND provides [[brassinosteroid-fungal-growth-promotion]]. Must be unsulphured without preservatives (sulfur and benzoate are preservatives)
+- **[[brassinosteroid-fungal-growth-promotion]]. Must be unsulphured without preservatives (sulfur and benzoate are preservatives)
 - **Lignin, yucca, pine sap**: Also effective rain sticker-spreaders
 
-For soil drenches, no sticker is needed; organisms hold up on [[hamilton-composting-and-organic-matter-management]] and begin retaining nutrients.
-
-## Frequency Considerations
-
-Do not spray just once and expect results. Coming from [[microwave-sterilization-versus-conventional-methods-comparison]], it takes time to establish the full food web. Organisms in soil die from being eaten, lack of food, lack of space, inhibitory compounds, chemicals, or [[air-pollution-fungal-community-responses]] — there is no evidence of death from old age.
-
-Re-application frequency depends on:
-- Presence of toxic [[ingham-manure-antibiotics-chemical-residues-composting]]
+For soil drenches, no sticker is needed; organisms hold up on [[microwave-sterilization-versus-conventional-methods-comparison]], it takes time to establish the full food web. Organisms in soil die from being eaten, lack of food, lack of space, inhibitory compounds, chemicals, or [[ingham-manure-antibiotics-chemical-residues-composting]]
 - Air pollution load (in cities, organisms always need replacing)
 - Chemical drift from neighboring properties
 - Disturbance events: plowing, flooding, freezes, drought, excessive heat, heavy traffic, pesticide drift, application of pesticides or high-nitrogen fertilizers, compaction, removal of material
@@ -118,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[compost-tea-application-rates]]
 - [[ingham-field-guide-compost-tea-application-rates]]
-- [[det]]
 - [[composting]]
 - [[brassinosteroid]]

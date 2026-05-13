@@ -22,41 +22,7 @@ created: 2026-04-28
 
 **Coriolopsis trogii** (Berk.) Murrill is a white-rot basidiomycete fungus in the family Polyporaceae. It is a cosmopolitan wood-decay polypore found on dead hardwood throughout tropical and subtropical regions.
 
-The species has attracted significant research interest for its potent ligninolytic enzyme production and bioremediation capabilities. It produces laccase and [[fungal-manganese-peroxidase-remediation]] at levels among the highest reported for white-rot fungi.
-
-## Taxonomy and Morphology
-
-### Taxonomy
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Polyporales
-- **Family:** Polyporaceae
-- **Genus:** Coriolopsis
-- **Species:** C. trogii
-- **Authority:** (Berk.) Murrill (1905)
-- **Synonyms:** Polyporus trogii Berk. (1854), Trametes trogii (Berk.) Fr.
-
-### Morphology
-
-Basidiocarps are perennial to annual, sessile to effused-reflexed, reaching 5–15 cm wide and 1–3 cm thick. The upper surface is concentrically zonate, ranging from pale grey to dark brown, with a smooth to finely tomentose margin.
-
-The pore surface is white to cream, with pores that are circular to angular, 2–4 per mm. Tubes are stratified in perennial specimens, each layer 3–8 mm deep. The context is corky to woody, pale brown, with a thin dark line separating annual tube layers.
-
-Basidiospores are cylindrical to allantoid, hyaline, smooth, IKI–, measuring 7–10 × 2–3 μm. The hyphal system is trimitic, with generative hyphae bearing clamp connections.
-
-## Distribution and Habitat
-
-C. trogii has a broad pantropical and subtropical distribution. It is recorded from Africa, Asia, South America, and southern North America. In temperate regions, it occurs primarily in Mediterranean and warm-temperate zones.
-
-The species is almost exclusively found on dead hardwood, particularly angiosperm trees. Common substrates include fallen trunks and branches of Quercus, Populus, Salix, and various fruit trees. It occasionally colonizes living trees with compromised bark.
-
-In Africa, the species is particularly abundant in miombo woodlands and tropical lowland forests. In Asia, it is common in subtropical China, India, and Southeast Asia on a wide variety of hardwood substrates.
-
-## Bioactive Compounds
-
-C. trogii produces a diverse array of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. Phenolic compounds including hispolon and hispidin derivatives have been isolated from the fruiting body. Hispolon demonstrates antibacterial, antifungal, and anti-inflammatory activity in vitro.
+The species has attracted significant research interest for its potent ligninolytic enzyme production and bioremediation capabilities. It produces laccase and [[antifungal-secondary-metabolites-coprophilous-fungi]]. Phenolic compounds including hispolon and hispidin derivatives have been isolated from the fruiting body. Hispolon demonstrates antibacterial, antifungal, and anti-inflammatory activity in vitro.
 
 The species also produces triterpenoids and sterols, including ergosterol and ergosterol peroxide. Ergosterol peroxide exhibits cytotoxic activity against several human cancer cell lines in laboratory studies.
 
@@ -68,7 +34,7 @@ Preliminary immunomodulatory studies suggest that polysaccharide fractions from 
 
 C. trogii is one of the most efficient lignin-degrading fungi known. It produces laccase at yields exceeding 40,000 U/L under optimized conditions, making it a candidate for industrial enzyme production. Its laccase is active across a wide pH range (pH 3–8).
 
-The fungus has demonstrated capacity for [[staycare-fungal-degradation-of-synthetic-dyes]] dyes (azo, anthraquinone, and triphenylmethane dyes) and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs). Decolorization rates of industrial dye effluents reach 80–95% within 5–10 days under laboratory conditions.
+The fungus has demonstrated capacity for [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs). Decolorization rates of industrial dye effluents reach 80–95% within 5–10 days under laboratory conditions.
 
 C. trogii has also shown potential for degradation of pharmaceutical contaminants, including endocrine-disrupting compounds and antibiotics, in aqueous systems. This positions it as a promising organism for wastewater treatment applications.
 
@@ -87,3 +53,87 @@ C. trogii is not considered edible. The tough, corky consistency of the basidioc
 ## Ecological Role
 
 As a white-rot decomposer, C. trogii plays a significant role in carbon cycling in forest ecosystems. It preferentially degrades lignin over cellulose, leaving behind bleached, cellulose-rich wood residues. This process facilitates subsequent colonization by cellulolytic organisms.
+
+## Overview
+
+Coriolopsis Trogii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coriolopsis trogii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coriolopsis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coriolopsis Trogii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coriolopsis trogii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coriolopsis trogii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coriolopsis Trogii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coriolopsis trogii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[coriolopsis-capitata]]
+- [[coriolopsis-gallica]]
+- [[coriolopsis-polyzona]]
+- [[trametes-trogii]]

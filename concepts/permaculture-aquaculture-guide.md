@@ -11,16 +11,16 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 ## Overview
 
-Aquaculture is the integration of fish, water plants, and [[fungi-aquatic-animals-pathogens-parasites]] into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
+Aquaculture is the integration of fish, water plants, and aquatic animals into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
 
 ## The Case for Aquaculture
 
-[[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]] serves multiple functions simultaneously:
+Aquaculture in permaculture serves multiple functions simultaneously:
 - Water storage for irrigation and domestic use
 - Food production (fish, crustaceans, edible water plants)
 - Fire control through stored water
 - Microclimate moderation (ponds buffer temperature extremes)
-- [[amphibian-habitat-creation]] for wildlife and beneficial species
+- Habitat creation for wildlife and beneficial species
 - Water purification through biological filtration
 - Flood control and runoff management
 - Recreation and aesthetic value
@@ -29,7 +29,7 @@ Aquaculture is the integration of fish, water plants, and [[fungi-aquatic-animal
 
 ### Site Selection
 
-Ponds should be placed above the use point (garden, house) to enable gravity-fed water distribution. Earth dams are the most common and economical approach for [[holzer-aquaculture-pond-construction]]. Key considerations:
+Ponds should be placed above the use point (garden, house) to enable gravity-fed water distribution. Earth dams are the most common and economical approach for pond construction. Key considerations:
 
 - Impermeable soil layers (clay) or the use of liners and gley techniques
 - Adequate catchment area to fill and maintain water levels
@@ -67,7 +67,7 @@ Common species in permaculture systems include carp, tilapia, catfish, perch, an
 Aquaculture integrates with other elements:
 - **Ducks and geese** on ponds provide manure that feeds plankton and fish
 - **Duckweed (Lemna spp.)** grown on pond surfaces provides high-protein feed for poultry and pigs
-- **Water chestnuts, lotus, and watercress** grow in [[holzer-pond-shape-deep-shallow-zones]]
+- **Water chestnuts, lotus, and watercress** grow in shallow zones
 - **Edge plantings** of willow, bamboo, and comfrey provide fodder and mulch
 
 ### Biological Filtration
@@ -75,7 +75,7 @@ Aquaculture integrates with other elements:
 Water purification in aquaculture systems uses multiple stages:
 - Skimming and sieving to remove large organic particles
 - Filtration via sand beds or charcoal-fibre columns, soils, the roots of aquatic plants
-- Coagulation or flocculation using [[building-with-natural-materials]]
+- Coagulation or flocculation using natural materials
 - Biological treatment through algae, aquatic plants, and microbial activity
 
 ## Pond Ecology

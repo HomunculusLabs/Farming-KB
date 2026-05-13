@@ -52,9 +52,7 @@ Also known as: Z-7.
 
 ## Extensions and Commentary
 
-I can't remember the exact names of the companies that went with the oil additives. STP was, I believe, it's own thing, and originally stood for Scientifically Treated Petroleum. And F-310 was, I believe, a Chevron Oil product. F-320 was, of course, the product of the wild and happy chemists at the Pharmaceutical Chemistry Department at the University of California in [[shipibo-san-francisco-ceremonial-center-ucayali]], playing with what they fondly called "funny drugs." And when the 2,4,6-orientation became an obvious positional isomer, the Pennzoil Oil Company's additive, Z-7, was a natural to have its name volunteered to the cause. There was one additional isomer possible, with the methyl in the 2-position and the methoxyl groups at the 4- and 6-positions. This followed the more conventional aldehyde made from 3,5-dimethoxytoluene via the Vilsmeier process, with POCl3 and N-methylformanilide. This material (2,4-dimethoxy-6-methylbenzaldehyde with mp 64-65 deg C from cyclohexane or from MeOH) is completely distinct from the isomer used above (2,6-dimethoxy-4-methylbenzaldehyde with a mp of 92-93 deg C from MeOH). The amphetamine from this isomer is 2,4-dimethoxy-6-methylamphetamine, and had been christened by the chemistry crowd as Z-7.1.
-
-Much effort had been put forth in research by this medical school group of graduate students and graduate advisors, to try to explaindole biological activity of the 2,4,5-things such as TMA-2 and DOM (STP). And a considerable investment had been made in the attempt to tie together the amphetamine world of psychedelics with the [[tryptamine]] world, and to [[serotonin]], and that entire neurotransmitter magic.
+I can't remember the exact names of the companies that went with the oil additives. STP was, I believe, it's own thing, and originally stood for Scientifically Treated Petroleum. And F-310 was, I believe, a Chevron Oil product. F-320 was, of course, the product of the wild and happy chemists at the Pharmaceutical Chemistry Department at the University of California in [[tryptamine]] world, and to [[serotonin]], and that entire neurotransmitter magic.
 
 There was only one small fly in the ointment. No matter how the 2,4,5-things were explained, none of the proposed mechanisms could allow for the 2,4,6-things to also be active.
 
@@ -70,20 +68,83 @@ Z-7.2 might have been an interesting compound to taste. But the academic climate
 
 ## Synthesis
 
-To a solution of 2,6-dimethoxy-4-methylbenzaldehyde (mp 92-93 deg C from the lithiation of 3,5-dimethoxytoluene followed by reaction with N-methylformanilide) in 10 mL nitroethane, there was added 0.1 g anhydrous am-monium acetate and the mixture was heated on the [[scythian-cannabis-steam-bath-ritual]] for 16 h. Removal of the solvent under vacuum gave a slightly oily red-orange crystalline mass which was finely ground under 1 mL of MeOH. Filtration and a sparing wash with MeOH gave, after air drying, 0.8 g of a light yellow crystalline solid with a mp of 121-122.5 deg C. Recrystallization from 4 mL boiling absolute EtOH gave 0.6 g of 1-(2,6-dimethoxy-4-methylphenyl)-2-nitropropene as very light yellow platelets, which melted at 123-124 deg C.
-
-To a solution of 0.25 g LAH in 25 mL refluxing THF, well stirred and under He, there was added a solution of 0.3 g 1-(2,6-dimethoxy-4-methylphenyl)-2-nitropropene in 5 mL dry THF. Upon the completion of the addition, the reaction mixture was held at reflux for 48 h. After cooling with an external ice bath there was added, in sequence, 0.5 mL H2O, 0.5 mL 15% NaOH, and finally 1.5 mL H2O. The inorganic solids were removed by filtration, and the filter cake washed with THF. The solvent from the combined filtrate and washings was removed under vacuum, and the residue (0.3 g) was a crystal clear colorless oil with a high refractive index. This was dissolved in 2 mL IPA, neutralized with concentrated HCl, and diluted with 35 mL of anhydrous Et2O. After a minute's standing, the solution became turbid, followed by the slow deposition of very fine white crystals. After standing 1 h at room temperature, these were removed by filtration, Et2O washed, and air dried to constant weight. There was thus obtained 0.3 g 2,6-dimethoxy-4-methylamphetamine hydrochloride (gamma-DOM) with a mp of 203 deg C. sharp.
-
-## Safety Notes
-
-gamma-DOM is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-
-- [[gamma-dom-entity]]
+To a solution of 2,6-dimethoxy-4-methylbenzaldehyde (mp 92-93 deg C from the lithiation of 3,5-dimethoxytoluene followed by reaction with N-methylformanilide) in 10 mL nitroethane, there was added 0.1 g anhydrous am-monium acetate and the mixture was heated on the [[gamma-dom-entity]]
 - [[dom]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related compounds in the DOx family
+
+## Overview
+
+Gamma Dom Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gamma dom entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gamma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gamma Dom Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gamma dom entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gamma dom entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gamma Dom Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gamma dom entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

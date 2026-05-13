@@ -13,16 +13,11 @@ sources:
 
 updated: 2026-04-18
 
-Pruning is considered the most difficult skill in [[holzer-fruit-growing-marginal-climates]], yet Fukuoka argued it is fundamentally unnecessary — indeed harmful — when trees are grown under natural conditions from the start. The argument against pruning is one of the most radical aspects of his [[fukuoka-natural-orchard-development]]:
+Pruning is considered the most difficult skill in [[fukuoka-natural-orchard-development]]:
 - Trees must never be pruned from the very beginning
 - The natural form of the tree must be allowed to develop from seed
 - Grafted or previously pruned trees cannot fully revert to natural form
-- The [[fukuoka-natural-fruit-tree-pest-control]]
-- [[fukuoka-natural-tree-form-argument]]
-- [[fukuoka-no-prune-fruit-tree-method]]
-
-## See Also
-
+- The [[fukuoka-natural-tree-form-argument]]
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 ## Practical Applications
 
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fukuoka-argument-against-pruning-natural-form-fruit-trees]]
 - [[pruning-fruit-trees-and-bushes]]
 - [[fukuoka-textdoc-attaining-natural-form-fruit-trees]]

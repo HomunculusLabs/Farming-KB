@@ -11,9 +11,8 @@ sources:
 
 # Holzer Green Manure and Soil Building Plants
 
-[[comparison-sepp-holzer-vs-biodynamic]] places enormous importance on soil building through green [[green-manure-crops-detailed]], permanent plant cover, and minimal soil disturbance. His approach is detailed in [[holzer-kitchen-garden-layout-and-traditional-gardening]] and [[holzer-polycultures-catch-crop-combinations]] around [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] include nitrogen-fixing shrubs, aromatic herbs, and [[holzer-farming-philosophy]]. Healthy soil is the foundation of everything else: productive [[holzer-grafting-fruit-forest]], and effective [[holzer-green-manure-crop-compendium]]
+[[green-manure-crops-detailed]], permanent plant cover, and minimal soil disturbance. His approach is detailed in [[holzer-polycultures-catch-crop-combinations]] around [[holzer-farming-philosophy]]. Healthy soil is the foundation of everything else: productive [[holzer-green-manure-crop-compendium]]
 - holzer green manure and soil building plants
-- [[holzer-vegetable-garden-polycultures]]
 - [[holzer-problem-plant-regulation]]
 ## Background and Context
 
@@ -118,8 +117,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[dom]]
-- [[det]]
 - [[coleman-mobile-greenhouse-green-manure-soil-building]]
 - [[holzer-green-manure-soil-fertility]]

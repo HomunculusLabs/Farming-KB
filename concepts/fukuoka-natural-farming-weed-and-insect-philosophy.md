@@ -11,26 +11,9 @@ tags: [fukuoka, natural-farming]
 
 # Fukuoka Natural Farming Weed and Insect Philosophy
 
-[[natural-farming-philosophy]]. Rather than treating weeds as enemies
-to be eradicated or insects as pests to be destroyed, he views them as integral
-components of a balanced biological community whose presence reflects the health
-of the larger ecosystem.
-
-## Weeds: Allies, Not Enemies
-
-Fukuoka's fundamental principle on weeds is that they "play their part in
 [[water-management]]"
 
-3. **Living ground cover**: [[fukuoka-white-clover-cover-crop-system]] sown with the grain acts as a living
-   mulch that enriches the soil, keeps the ground moist and aerated, and can
-   smother even strong weeds like mugwort and crabgrass when established
-
-### Farming Among the Weeds
-
-Fukuoka's fields visibly contain many kinds of weeds growing alongside the grain
-and clover. This appearance alarmed visiting agricultural experts, but the
-results spoke for themselves: barley and rice grew vigorously, yielding about 22
-bushels (1,300 pounds) per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] -- matching the top yields in Ehime
+3. **Living ground cover**: [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] -- matching the top yields in Ehime
 Prefecture.
 
 Twenty years of promoting permanent ground cover in fruit orchards transformed
@@ -50,11 +33,7 @@ and fertilizing produced weak plants.
 
 ### The Stem Borer Experiment
 
-While at the Kochi [[fukuoka-straw-scattering-testing-station-resistance]], Fukuoka conducted experiments on stem
-borers, which enter rice stalks and cause them to wither. In a field sprayed
-with insecticide, white stalks (damaged plants) were reduced -- but the
-unsprayed field produced the higher yield. Investigation revealed that the stem
-borers' attack on weaker plants produced a beneficial [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]]: remaining
+While at the Kochi [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]]: remaining
 plants received more sunlight, grew stronger, sent up more grain-bearing stalks,
 and produced more grains per head. When insect damage did not thin the excess,
 plants appeared healthy but harvests were actually lower.
@@ -66,27 +45,7 @@ discovered a complex natural balance: while harmful insects were present, their
 natural enemies (spiders, frogs, lizards, and predatory insects) kept them in
 check. Fukuoka used Japanese red pine blight to illustrate the limits of
 scientific intervention: nematodes breed within the trunk, blocking water and
-[[mycelial-network-nutrient-transport-imaging-gadd]], but nematodes feed on a fungus accompanied by a microbe and
-a virus toxic to the fungus. "Effect following effect in every direction" --
-yet people apply chemical remedies without understanding the true cause.
-
-Fukuoka warned: "Using agricultural chemicals is the most inept way to deal
-with problems such as these, and will only lead to greater problems in the
-future."
-
-### Protecting Natural Predators
-
-The most important principle of insect management is protecting natural predator
-populations. When the insecticide Fusol was used in Japanese orchards, natural
-predators of ruby scale and horned wax scale were completely exterminated,
-creating problems that persisted for decades. For mites and scales that do
-appear, Fukuoka recommended a diluted machine oil spray (relatively harmless
-to predators) applied lightly in midsummer, then leaving insect communities to
-achieve their natural balance. Spiders are especially important and sensitive:
-"Spiders are sensitive to even the slightest human tampering and care must
-always be taken on this account."
-
-Fukuoka planted Morishima [[natural-farming-philosophy-and-principles]]
+[[natural-farming-philosophy-and-principles]]
 
 ## Practical Applications
 
@@ -117,8 +76,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-natural-farming]]
 - [[natural-farming]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[fukuoka-straw-natural-farming-philosophy]]

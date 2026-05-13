@@ -3,17 +3,7 @@ title: "Plant Olfaction Volatile Chemical Perception"
 created: 2026-05-11
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, olfaction, volatile-organic-compounds, plant-communication, ethylene, jasmonate]
-aliases: [Plant Smell, Plant [[plant-olfaction-chemical-sensing]], Volatile Perception in Plants]
----
-
-# Plant Olfaction and Volatile Chemical Perception
-
-Plants lack noses, olfactory neurons, and brains, yet they demonstrate
-remarkable abilities to detect and respond to volatile chemical signals in their
-environment. They perceive airborne chemicals released by neighboring plants,
-herbivores, pathogens, and even their own tissues when damaged. This chemical
-"sense of smell" mediates inter-plant communication, defense activation, and
-reproductive timing, forming an invisible [[bloomfield-fungal-reproduction-and-chemical-communication]] network that
+aliases: [Plant Smell, Plant [[bloomfield-fungal-reproduction-and-chemical-communication]] network that
 pervades every ecosystem.
 
 ## Volatile Organic Compounds as Chemical Signals
@@ -31,17 +21,7 @@ atmosphere. These include:
 - **Fatty acid derivatives** — including jasmonic acid and its volatile
   methyl ester (methyl jasmonate)
 - **Ethylene** — the simplest plant hormone (C2H4), a gaseous signal
-  molecule involved in fruit ripening, senescence, [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]
-
-Each compound carries specific information that receiving plants can decode,
-though the "vocabulary" is far simpler than animal olfactory systems.
-
-## Mechanisms of Volatile Perception
-
-### How Plants Detect Airborne Chemicals
-
-Unlike animals, which use G-protein-coupled receptors (GPCRs) in olfactory
-neurons, plants detect [[mycovolatiles-fungal-volatile-compounds]] through several mechanisms:
+  molecule involved in fruit ripening, senescence, [[mycovolatiles-fungal-volatile-compounds]] through several mechanisms:
 
 1. **Direct ligand-receptor binding** — some plant receptors on the cell
    surface or within cells directly bind specific VOCs, triggering downstream
@@ -138,11 +118,5 @@ Plant olfaction operates at every ecological scale:
 - **Population level** — coordinating flowering, ripening, and dormancy
 - **Community level** — mediating competitive and mutualistic interactions
 - **Ecosystem level** — influencing nutrient cycling through VOC effects on soil
-  [[cannabis-rhizosphere-microbial-communities]]
-
-## See Also
-
-- plant photoreception and vision — how plants "see" light
-- [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] — how plants "feel"
-- [[dighton-endophyte-alkaloid-grass-herbivore-defense]] — GLV chemistry and ecology
+  [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] — how plants "feel"
 - [[ethylene-plant-hormone-ripening-stress]] — ethylene in fruit development

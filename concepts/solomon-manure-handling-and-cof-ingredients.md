@@ -2,46 +2,13 @@
 
 ## Overview
 
-[[steve-solomon]]'s *Gardening When It Counts* presents a practical, nutrient-focused approach to organic gardening that diverges from many mainstream organic methods. Central to his philosophy is a clear distinction between **initial bed preparation** (where manure plays a limited role) and **ongoing fertility maintenance** (handled entirely through his Complete Organic Fertilizer, or COF). This page covers Solomon's reasoning around manure use, the COF recipe, sourcing details for each ingredient, [[compost-tea-application-methods]], and the economics of mixing your own fertilizer.
+[[compost-tea-application-methods]], and the economics of mixing your own fertilizer.
 
 ## Manure in Solomon's Approach
 
 ### Manure Is for Bed Prep Only
 
-Solomon does not advocate applying manure as an ongoing top-dressing or side-dress during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. His use of animal manure is confined strictly to **initial soil preparation** — when breaking new ground or building raised beds for the first time. A single generous application of well-rotted manure worked deeply into the soil provides the baseline organic matter and slow-release nutrients needed to get beds started.
-
-After that initial incorporation, Solomon shifts entirely to COF for all subsequent fertility needs. He argues that repeated manure applications create imbalances — excess phosphorus, potential nitrogen leaching, and an unpredictable nutrient profile that varies enormously depending on the animal species, diet, bedding material, and composting method.
-
-### Problems with Routine Manure Use
-
-- **Unpredictable NPK ratios**: Fresh or even composted manure varies wildly in nutrient content. A load from one farm may be rich in nitrogen while another is little more than organic carbon.
-- **Phosphorus accumulation**: Over time, repeated manuring builds up phosphorus to levels that can inhibit micronutrient uptake, particularly iron and zinc.
-- **Weed seeds and pathogens**: Even well-composted manure can introduce weed seeds; incompletely composted material may carry harmful organisms.
-- **Logistics**: Hauling, storing, and spreading manure is labor-intensive. For backyard gardeners without livestock, sourcing consistent, high-quality manure is often impractical.
-
-Solomon acknowledges that manure is valuable but believes gardeners should treat it as a one-time soil amendment, not a recurring fertilizer program.
-
-## The Complete Organic Fertilizer (COF) Recipe
-
-Solomon's COF provides a balanced, predictable nutrient supply tailored to the needs of intensively grown vegetables. The recipe is designed to supply nitrogen, phosphorus, potassium, calcium, and trace minerals in proportions that support healthy, vigorous growth.
-
-### Standard Recipe (by volume)
-
-| Ingredient | Parts (by volume) |
-|---|---|
-| Seed meal | 4 |
-| Agricultural lime | 1 |
-| Colloidal phosphate or bone meal | 1 |
-| Kelp meal | ½ |
-
-### Lime Modification for Acidic Soils or Potassium Needs
-
-Where soils are already near neutral pH or where additional calcium and sulfur are desired, Solomon recommends splitting the lime portion:
-
-- **½ part agricultural lime** (calcium carbonate)
-- **½ part gypsum** (calcium sulfate)
-
-This modification supplies calcium without raising pH, and the sulfate component provides a small amount of sulfur. Gypsum also helps [[query-how-do-fungi-improve-soil-structure]] in heavy clay soils by promoting flocculation.
+Solomon does not advocate applying manure as an ongoing top-dressing or side-dress during [[query-how-do-fungi-improve-soil-structure]] in heavy clay soils by promoting flocculation.
 
 ## Ingredient Details and Sourcing
 
@@ -76,14 +43,91 @@ Colloidal phosphate (also called soft rock phosphate) is a natural source of pho
 
 ### Kelp Meal (½ part)
 
-Kelp meal provides potassium and a full spectrum of trace minerals including iron, manganese, zinc, copper, boron, and molybdenum. These micronutrients are often the limiting factor in [[coleman-french-historical-winter-vegetable-production]], even when NPK is adequate.
-
-**Sourcing**: Kelp meal is sold through organic garden suppliers, some feed stores, and online retailers. It is typically harvested from seaweed (primarily *Ascophyllum nodosum*) and dried. Buy in bulk (25-50 lb bags) for significant savings over small retail packages.
-
-## Mixing Your Own COF
-
-### Why Mix Your Own
-
-Commercial [[cannabis-organic-fertilizers]] are convenient but expensive per unit of actual nutrient. A typical 5 lb box of branded organic vegetable fertilizer at a garden center may cost $15-25 and cover a small garden for one season. By contrast, buying ingredients in bulk and mixing COF yourself can reduce your fertilizer cost by 60-80%.
+Kelp meal provides potassium and a full spectrum of trace minerals including iron, manganese, zinc, copper, boron, and molybdenum. These micronutrients are often the limiting factor in [[cannabis-organic-fertilizers]] are convenient but expensive per unit of actual nutrient. A typical 5 lb box of branded organic vegetable fertilizer at a garden center may cost $15-25 and cover a small garden for one season. By contrast, buying ingredients in bulk and mixing COF yourself can reduce your fertilizer cost by 60-80%.
 
 Beyond economics, mixing your own gives you **control over the formula**. You can adjust ratios based on your soil test results — increasing phosphorus if your soil is deficient, reducing lime if your pH is high, or adding extra kelp meal for trace [[jadam-seawater-mineral-supplementation]]. Commercial blends are one-size-fits-all; your COF can be tailored to your specific soil.
+
+## Overview
+
+Solomon Manure Handling And Cof Ingredients represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon manure handling and cof ingredients
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Manure Handling And Cof Ingredients finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon manure handling and cof ingredients. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon manure handling and cof ingredients and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Manure Handling And Cof Ingredients has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon manure handling and cof ingredients into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

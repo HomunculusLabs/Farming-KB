@@ -40,19 +40,19 @@ Stacked towers or walls of growing channels. Maximizes production per square foo
 ## Fish Species Selection
 
 ### Tilapia
-The most popular aquaponics fish. Fast-growing, tolerate a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] (65-85F), and reproduce readily. Hardy and disease-resistant. Excellent feed conversion ratio. Require warm water -- not suitable for unheated systems [[query-how-do-i-grow-figs-in-cold-climates]]. Note: illegal to own in some states without permits.
+The most popular aquaponics fish. Fast-growing, tolerate a wide temperature range (65-85F), and reproduce readily. Hardy and disease-resistant. Excellent feed conversion ratio. Require warm water -- not suitable for unheated systems in cold climates. Note: illegal to own in some states without permits.
 
 ### Goldfish and Koi
 Good for ornamental systems or where edible fish are not desired. Hardy, tolerate cold water, and produce plenty of waste. Koi can live 20+ years and grow large. Not ideal for food production.
 
 ### Bluegill and Sunfish
-Native to [[guzman-psilocybin-mushrooms-north-america]]. Good for colder climates. Slower growing than tilapia but very hardy. Good table fish. Prefer water temperatures of 65-80F.
+Native to North America. Good for colder climates. Slower growing than tilapia but very hardy. Good table fish. Prefer water temperatures of 65-80F.
 
 ### Catfish
 Tolerant of poor water quality and low oxygen. Fast-growing and good to eat. Bottom feeders -- will help clean the tank. Prefer warmer water (75-85F).
 
 ### Trout
-Excellent cold-water option. Fast-growing and good eating. Require very clean, cold water (50-65F) with high [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]. More challenging but produces a premium product.
+Excellent cold-water option. Fast-growing and good eating. Require very clean, cold water (50-65F) with high dissolved oxygen. More challenging but produces a premium product.
 
 ## Grow Media Options
 
@@ -67,7 +67,7 @@ The general ratio is 1:1 grow bed volume to fish tank volume (by gallons). For b
 
 - Minimum system: 50-gallon fish tank with 50 gallons of grow bed
 - Practical family system: 200-300 gallon fish tank with 200-300 gallons of grow bed
-- [[savory-stock-density-vs-stocking-rate]]: 1 pound of fish per 5-10 gallons of water (conservative for beginners)
+- Stocking rate: 1 pound of fish per 5-10 gallons of water (conservative for beginners)
 - Feed rate: 1-2% of total fish body weight per day
 - Rule of thumb: 1 pound of fish produces enough nutrients for 6-8 square feet of grow bed
 
@@ -88,7 +88,7 @@ Best performers: lettuce, basil, kale, Swiss chard, watercress, mint, tomatoes, 
 ## Common Problems
 
 - pH crash: usually from insufficient carbonate hardness -- add potassium carbonate or crushed eggshells
-- [[hamilton-nutrient-deficiencies-and-treatment]]: iron and potassium are most common -- supplement with chelated iron and potassium hydroxide
+- Nutrient deficiencies: iron and potassium are most common -- supplement with chelated iron and potassium hydroxide
 - Fish deaths: usually from ammonia spikes, temperature shock, or low dissolved oxygen
 - Algae: reduce light exposure on water surfaces, add more plants
 
@@ -97,37 +97,10 @@ Best performers: lettuce, basil, kale, Swiss chard, watercress, mint, tomatoes, 
 - [[worm-farming-for-profit]] -- worms can live in media beds and break down solid fish waste
 - [[homesteading-income-streams]] -- aquaponic greens and fish are premium market products
 
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
 ## See Also
+
+- [[aquaponics-system-design]]
+- [[comparison-bioponics-vs-aquaponics]]
+- [[aquaponics-plant-selection]]
 - [[aquaponics]]
-- [[psilocybin]]
-- [[nutrient-film-technique]]
-- [[homesteading]]
-- [[deep-water-culture]]
+- [[comparison-aeroponics-vs-aquaponics]]

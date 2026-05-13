@@ -45,15 +45,9 @@ Seeds are small, numerous, and brown, averaging approximately 0.5 mm in length. 
 
 The species is native to the southeastern United States, ranging from southeastern Virginia south through Florida and west to eastern Texas and southeastern Oklahoma. Scattered populations occur in the southern Appalachian foothills and Piedmont.
 
-Vaccinium elliottii occupies a broad ecological niche, occurring in acidic swamps, wet flatwoods, pine savannas, stream margins, pocosin ecosystems, and sandy upland woods. This habitat versatility distinguishes it from many congeners with narrower tolerances.
+Vaccinium elliottii occupies a broad [[ecological-niche]], occurring in acidic swamps, wet flatwoods, pine savannas, stream margins, pocosin ecosystems, and sandy upland woods. This habitat versatility distinguishes it from many congeners with narrower tolerances.
 
-It grows preferentially in acidic soils (pH 3.5–5.5) rich in [[hamilton-composting-and-organic-matter-management]], often in partial shade to full sun. In pine flatwoods, it forms a common understory component beneath longleaf pine (*Pinus palustris*) canopies.
-
-Elevation ranges from sea level to approximately 500 meters. It is most abundant in the Atlantic and Gulf Coastal Plain, becoming less frequent in the Piedmont and montane regions.
-
-The species is considered secure globally (G5) but is listed as rare or of special concern in several states at the northern edge of its range, including Virginia and Maryland. Habitat loss from urbanization and wetland drainage has reduced populations in some areas.
-
-Climate resilience is an emerging research focus, as *V. elliottii* may serve as a genetic resource for adapting commercial blueberry production to warmer, drier conditions expected under [[dighton-fungi-climate-change-feedback]] scenarios.
+It grows preferentially in acidic soils (pH 3.5–5.5) rich in [[dighton-fungi-climate-change-feedback]] scenarios.
 
 ## Ecology
 
@@ -65,11 +59,7 @@ Birds including American robins, eastern bluebirds, cedar waxwings, gray catbird
 
 White-tailed deer browse the foliage moderately, particularly in winter when other forage is scarce. The shrub provides cover and nesting habitat for songbirds, and its dense low growth offers thermal refuge for small mammals.
 
-Several [[bloomfield-fungal-pathogens-and-parasites]] have been documented on *V. elliottii*, including *Botryosphaeria* spp. causing stem cankers and *Exobasidium vaccinii* causing leaf and fruit galls. However, the species shows notable resistance to *Phytophthora cinnamomi* root rot, a major pathogen of cultivated blueberries.
-
-Insect herbivores include blueberry maggot (*Rhagoletis mendax*), plum curculio (*Conotrachelus nenuphar*), and various sharpshooters. Despite this insect pressure, the species maintains good fruit set in wild populations without pesticide intervention.
-
-The root system is predominantly fine and fibrous, forming an extensive mat in the upper soil horizons. Like most Ericaceae, *V. elliottii* forms [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations that enhance [[plant-nutrient-uptake-mechanisms]], particularly nitrogen and phosphorus, from poor acidic soils.
+Several [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations that enhance [[plant-nutrient-uptake-mechanisms]], particularly nitrogen and phosphorus, from poor acidic soils.
 
 Fire ecology plays a role in its native pine flatwood habitat. The shrub resprouts vigorously from the root crown after fire, and prescribed burning can increase fruit production by reducing canopy competition.
 

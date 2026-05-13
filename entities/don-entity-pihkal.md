@@ -69,25 +69,12 @@ with anxiety and physical discomfort. At higher doses (~4.5 mg), visual
 effects become prominent including enhanced color perception and
 auditory distortion. The duration is notably long at 8-15 hours,
 consistent with the DOx family's reputation for extended action due
-to tight [[tihkal-receptor-binding-serotonin]] and slow metabolic clearance. The stimulant
-component appears to partially suppress the psychedelic insights,
-producing a more "recreational" character than compounds like DOI.
-
-## Legal Status
-DON is a controlled substance in many countries. In the [[dmt-containing-plants-united-states-halpern]],
+to tight [[dmt-containing-plants-united-states-halpern]],
 its position is ambiguous under the Federal Analogue Act as a
 substituted amphetamine with psychedelic properties. Several European
 nations explicitly control DOx compounds including DON. It is listed in
  schedules or analogue provisions across most major jurisdictions.
 
 ## Similar Compounds
-- [[2c-g-4-entity-pihkal]] — phenethylamine analog with different
-  substitution
-- DOI — iodo-substituted DOx compound, more potent and longer-lasting
-- DOC — chloro-substituted DOx compound, widely encountered on the
-  research chemical market
-
-## See Also
 - [[don-entity]]
-- [[2c-g-4-entity-pihkal]]
 - [[tma-5-entity-pihkal]]

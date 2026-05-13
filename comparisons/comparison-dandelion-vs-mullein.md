@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-[[dandelion]] (*Taraxacum officinale*) and [[mullein]] (*Verbascum thapsus*)
+[[mullein]] (*Verbascum thapsus*)
 are two of the most widespread and recognizable medicinal plants in temperate
 regions worldwide. Both are considered "weeds" by conventional agriculture yet
 have been valued for millennia as food and medicine. They share several
@@ -23,34 +23,6 @@ differences helps growers and herbalists choose the right plant for specific
 health goals and garden functions.
 
 ## Dandelion
-
-[[dandelion]] is a low-growing perennial herb in the Asteraceae family, native
-to Europe and Asia but now naturalized on every continent. Its name derives
-from the French *dent-de-lion* ("lion's tooth"), referring to the deeply
-toothed leaf margins. Every part of the plant is edible: young leaves in
-salads, flowers for wine and fritters, and roots roasted as a coffee
-substitute. Nutritionally, dandelion leaves are extraordinarily rich in
-vitamin A (203% DV per 100 g), vitamin K (775% DV), vitamin C, calcium, and
-iron — rivaling or exceeding most cultivated leafy greens.
-
-Medicinally, dandelion is best known as a bitter tonic and diuretic. The leaf
-acts as a potassium-sparing diuretic, increasing urinary output without
-depleting electrolytes the way pharmaceutical diuretics do. The root contains
-up to 40% inulin by dry weight, a prebiotic fructan that selectively feeds
-beneficial gut bacteria (*Bifidobacterium* and *Lactobacillus* species).
-Root extracts also demonstrate hepatoprotective effects, reducing liver lipid
-peroxidation in animal models. Sesquiterpene lactones such as taraxinic acid
-provide anti-inflammatory activity by inhibiting COX-2 expression.
-
-In permaculture, dandelion's deep taproot (often 15–30 cm, sometimes deeper)
-breaks compacted soil and mines calcium and potassium from subsoil layers.
-The plant produces 2,000–5,000 seeds annually, with wind dispersal enabling
-colonization across wide areas. It serves as a critical early-season pollen
-and nectar source for honey bees, bumble bees, and solitary mining bees
-during spring dearth periods. Its abundance in lawns and fields is often an
-indicator of compacted, calcium-rich soils.
-
-## Mullein
 
 [[mullein]] is a tall biennial herb in the Scrophulariaceae family, easily
 identified by its woolly grey-green leaves and towering flower spike that can
@@ -137,8 +109,6 @@ congestion and sluggish digestion often coincide.
 
 ## See Also
 
-- [[comparison-dandelion-vs-yarrow]]
 - [[comparison-mullein-vs-calendula]]
-- [[comparison-chamomile-vs-dandelion]]
 - [[comparison-mullein-vs-comfrey]]
 - [[comparison-stinging-nettle-vs-mullein]]

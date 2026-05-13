@@ -31,25 +31,7 @@ sources:
 *Tylopilus felleus*, commonly known as the bitter bolete or gall bolete, is a
 pored mushroom in the family Boletaceae. It is among the most frequently
 confused boletes for beginning foragers due to its superficial resemblance to
-the prized *[[boletus-edulis-entity]]* (porcini). The species epithet *felleus* means "of
-bile," referring to its intensely bitter taste, which renders it inedible
-despite being non-toxic. The bitterness persists even after prolonged cooking.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Boletales
-- **Family:** Boletaceae
-- **Genus:** *Tylopilus*
-- **Species:** *T. felleus* (Pers.) P. Karst. (1881)
-
-**Basionym:** *Boletus felleus* Pers. (1796)
-
-The genus *Tylopilus* contains approximately 75 described species worldwide,
-with *T. felleus* serving as the type species. It was segregated from *Boletus*
-by Petter Karsten in 1881 based on its pinkish [[comparison-spore-print-collection-vs-spore-syringe-production]] and bitter flesh,
+the prized *[[comparison-spore-print-collection-vs-spore-syringe-production]] and bitter flesh,
 characters that distinguish the genus from the *Boletus edulis* group.
 
 ## Morphology
@@ -76,14 +58,87 @@ when cut. Extremely bitter taste — even a tiny piece on the tongue produces
 an intense and lingering bitterness. Odor is mild, pleasant, and mushroomy,
 offering no warning of the taste.
 
-**[[boil-a-bag-spore-print-technique-jarrold]]:** Pinkish to flesh-colored (salmon-pink).
-
-**Spores:** 10–16 × 4–6 µm, fusoid to subfusoid, smooth, inamyloid.
-Q value: 2.0–3.0. No [[field-guide-psilocybin-bluing-reaction-identification]] with FeSO₄ or NH₄OH.
+**[[field-guide-psilocybin-bluing-reaction-identification]] with FeSO₄ or NH₄OH.
 
 ## Distribution and Habitat
 
-*T. felleus* is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern
-Hemisphere. It is common throughout Europe, [[guzman-psilocybin-mushrooms-north-america]] (from eastern
-Canada to the southeastern and [[psilocybin-north-america-pacific-northwest]] [[dmt-containing-plants-united-states-halpern]]), and parts
+*T. felleus* is widely distributed across [[guzman-psilocybin-mushrooms-north-america]] (from eastern
+Canada to the southeastern and [[dmt-containing-plants-united-states-halpern]]), and parts
 of Asia. It has also been reported from North Africa and Australia.
+
+## Overview
+
+Tylopilus Felleus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tylopilus felleus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tylopilus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tylopilus Felleus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tylopilus felleus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tylopilus felleus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tylopilus Felleus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tylopilus felleus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

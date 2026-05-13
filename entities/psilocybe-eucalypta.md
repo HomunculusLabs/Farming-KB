@@ -15,9 +15,7 @@ sources:
 
 ## Taxonomy and Classification
 
-*P. eucalypta* was described by Guzmán and Watling based on collections from New South Wales, Australia. It is placed within Psilocybe (Section Cyanescens), a group of primarily lignicolous bluing species that includes [[psilocybe-subaeruginosa]], [[psilocybe-azurescens]], and [[psilocybe-cyanescens]].
-
-The taxonomy of Australian Psilocybe species has been the subject of significant debate. Chang and Mills (1992) proposed synonymy between *P. australiana*, *P. eucalypta*, *P. subaeruginosa*, and [[psilocybe-tasmaniana]], arguing they represent a single variable species. However, Guzmán, Bandala, and King (1993) rejected this proposal, noting the difficulty of accepting that a single species could be both coprophilic and lignicolous.
+*P. eucalypta* was described by Guzmán and Watling based on collections from New South Wales, Australia. It is placed within Psilocybe (Section Cyanescens), a group of primarily lignicolous bluing species that includes [[psilocybe-azurescens]], and [[psilocybe-tasmaniana]], arguing they represent a single variable species. However, Guzmán, Bandala, and King (1993) rejected this proposal, noting the difficulty of accepting that a single species could be both coprophilic and lignicolous.
 
 Guzmán and Stamets both maintain these taxa as separate species pending further study. The species is listed as number 91 in Guzmán, Allen, and Gartz's worldwide catalog of neurotropic fungi.
 
@@ -33,23 +31,13 @@ Spores are purplish brown in deposit, subellipsoid, measuring 9–18 × 5.5–6.
 
 *P. eucalypta* has been reported from New South Wales in eastern Australia, where it grows solitary to gregarious on soils rich in woody debris. It is frequently found in grassy areas associated with Eucalyptus trees. Collections from Australia have been documented by Margot and Watling (1981), Guzmán (1983), and Chang and Mills (1992).
 
-The species has also been reported from Papua New Guinea (Allen et al., 1991; Guzmán et al., 1993b), suggesting a wider distribution across Australasia. The association with Eucalyptus is notable, as several other Australian Psilocybe species share this ecological preference, including [[psilocybe-subaeruginosa]] and [[psilocybe-tasmaniana]].
+The species has also been reported from Papua New Guinea (Allen et al., 1991; Guzmán et al., 1993b), suggesting a wider distribution across Australasia. The association with Eucalyptus is notable, as several other Australian Psilocybe species share this ecological preference, including [[psilocybe-tasmaniana]].
 
 ## Chemical Constituents
 
-*P. eucalypta* is thought to be moderately active based on its strong bluing reaction and taxonomic placement among known psychoactive species. However, no formal chemical analyses quantifying [[psilocybin]], [[psilocin]], or [[baeocystin]] levels have been published as of the available literature (Stamets, 1996).
+*P. eucalypta* is thought to be moderately active based on its strong bluing reaction and taxonomic placement among known psychoactive species. However, no formal chemical analyses quantifying [[psilocin]], or [[psilocybe-subaeruginosa]], from which it can be distinguished by its smaller stature and different spore morphology.
 
-The absence of published analyses is notable given the species' recognition in multiple major mycological works. Dosage guidelines for *P. eucalypta* are listed as unknown in Allen's Australian field guide, though bioassay reports suggest moderate psychoactive potency.
-
-## Ecology and Symbiosis
-
-*P. eucalypta* is a lignicolous species, fruiting on soils enriched with woody debris in Eucalyptus-dominated forests and grassy clearings. Its ecological niche overlaps with other Australian wood-inhabiting Psilocybe species, particularly [[psilocybe-subaeruginosa]], from which it can be distinguished by its smaller stature and different spore morphology.
-
-The relationship between *P. eucalypta* and Eucalyptus trees may be more than incidental. The species appears adapted to the specific soil chemistry and microclimate created by Eucalyptus leaf litter decomposition, similar to how [[psilocybe-azurescens]] is associated with coastal dune grasses in the Pacific Northwest.
-
-## Historical and Cultural Significance
-
-*P. eucalypta* represents one of several Australian Psilocybe species described during the expansion of mycological knowledge in the late 20th century. The taxonomic debates surrounding its status versus related species like *P. australiana* and [[psilocybe-tasmaniana]] reflect the broader challenges of classifying morphologically variable fungi across wide geographic ranges.
+The relationship between *P. eucalypta* and Eucalyptus trees may be more than incidental. The species appears adapted to the specific soil chemistry and microclimate created by Eucalyptus leaf litter decomposition, similar to how [[psilocybe-tasmaniana]] reflect the broader challenges of classifying morphologically variable fungi across wide geographic ranges.
 
 The species was included in Allen's comprehensive survey of Australian and New Zealand psychoactive fungi, contributing to the documentation of the southern hemisphere's indigenous neurotropic mycoflora. Its recognition by Guzmán in the authoritative worldwide distribution study cemented its status as a validated psychoactive species.
 
@@ -73,21 +61,90 @@ careful microscopic examination. Key differentiating features include:
 
 No documented cultivation attempts for *P. eucalypta* have been published. As a
 member of Section Cyanescens, it likely shares the challenging cultivation
-profile of other wood-loving species like [[psilocybe-azurescens]] and
-[[psilocybe-cyanescens]], which typically require outdoor woodchip beds and
-extended cold-shock initiation rather than indoor [[psilocybe-cubensis]]-style
-cultivation on grain substrates. The species' apparent specialization for
-Eucalyptus-derived substrates may further complicate domestic cultivation, as
-the allelopathic compounds in Eucalyptus litter could inhibit mycelial growth
-of species not adapted to those conditions.
+profile of other wood-loving species like [[psilocybe-cyanescens]], which typically require outdoor woodchip beds and
+extended cold-shock initiation rather than indoor [[psilocybe-subaeruginosa]] — closely related Australian wood-loving species
+- [[psilocybe-azurescens]] — Pacific Northwest analogue in Section Cyanescens
+- [[psilocybe-makarorae]] — New Zealand wood-inhabiting species
+- [[psilocybe-semilanceata]] — liberty cap, globally distributed grassland species
+- [[psilocybe-bohemica]] — European Section Cyanescens member
+
+## Overview
+
+Psilocybe Eucalypta represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe eucalypta
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Eucalypta finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe eucalypta. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe eucalypta and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Eucalypta has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe eucalypta into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[psilocybe-subaeruginosa]] — closely related Australian wood-loving species
-- [[psilocybe-tasmaniana]] — Tasmanian species once proposed as conspecific with *P. eucalypta*
-- [[psilocybe-azurescens]] — Pacific Northwest analogue in Section Cyanescens
-- [[psilocybe-cyanescens]] — type species of Section Cyanescens
-- [[psilocybe-makarorae]] — New Zealand wood-inhabiting species
-- [[psilocybe-cubensis]] — most widely distributed psychoactive Psilocybe
-- [[psilocybe-semilanceata]] — liberty cap, globally distributed grassland species
-- [[psilocybe-bohemica]] — European Section Cyanescens member
+- [[grass-seed-cultivation-of-psilocybe-species]]

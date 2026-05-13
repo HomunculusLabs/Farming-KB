@@ -9,17 +9,7 @@ updated: 2026-04-26
 
 # Weed Management
 
-In the [[jeavons-grow-biointensive-method-overview]] method, weed management is simplified by the dense
-planting of [[comparison-raised-beds-vs-hugelkultur]]. The [[comparison-living-mulch-vs-cover-crops]] created by closely spaced crops
-reduces weed pressure significantly, and the loose, well-prepared soil makes
-weed removal easier and more effective.
-
-## The Nature of Weeds
-
-There really is no such thing as a "weed." A weed is just a plant growing in an
-area where the gardener does not want it to grow. Many so-called weeds are
-quite beneficial to the soil and to other plants. [[jeavons-grow-biointensive-method-overview]]
-[[jeavons-biointensive-spacing]]
+In the [[comparison-raised-beds-vs-hugelkultur]]. The [[jeavons-grow-biointensive-method-overview]]
 [[jeavons-composting-methods]]
 ## Practical Applications
 
@@ -97,8 +87,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[composting]]
 - [[hugelkultur]]
 - [[fukuoka-natural-weed-management]]

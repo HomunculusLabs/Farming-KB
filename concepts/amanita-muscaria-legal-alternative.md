@@ -24,44 +24,8 @@ mushrooms — and pose potentially greater health dangers.
 - White **volva** (cup) at the base, often buried in soil
 - Grows in **mycorrhizal association** with *Pinus* (pine) and *Betula* (birch)
   in boreal and temperate forests of the Northern Hemisphere
-- Also found in pine plantations in [[fukuoka-natural-farming-in-tropical-regions]] (Brazil, Colombia, Tanzania,
-  Australia, New Zealand)
-
-Two related species also contain ibotenic acid:
-- *[[amanita-pantherina]]* (panther cap) — brown cap with white spots
-- *[[amanita-regalis-entity]]* — brown cap, considered a variety or species
-
-## Chemistry: Fundamentally Different from Psilocybin
-
-The active compounds in *A. muscaria* are **completely different** from the
-tryptamine-based compounds in psilocybin mushrooms:
-
-| Compound | Type | Primary Effects |
-|----------|------|----------------|
-| **Ibotenic acid** | Glutamate receptor agonist | Excitotoxic, neurotoxic at high doses |
-| **Muscimol** | GABA_A receptor agonist | Sedative, hypnotic, dissociative |
-| **Muscarine** | Muscarinic ACh receptor agonist | Sweating, salivation, GI distress (minor component) |
-
-### Mechanism of Action
-
-- **Ibotenic acid** acts as an agonist at **glutamate receptors** (particularly
-  NMDA and metabotropic glutamate receptors), making it structurally and
-  functionally unrelated to serotonin-based psychedelics
-- **Muscimol** acts as a **GABA_A receptor agonist**, producing sedative and
-  depressant effects — the opposite direction from psilocybin's cortical
-  activation
-- Muscimol is a **decarboxylation product** of ibotenic acid, formed during
-  drying, cooking, or in the body
-
-This chemistry classifies *A. muscaria* effects as **deliriant-dissociative**
-rather than psychedelic — more comparable to *Datura* or *Amanita pantherina*
-than to LSD or psilocybin.
-
-## Traditional Use
-
-*Amanita muscaria* has a long history of ceremonial use among indigenous peoples
-of **Siberia** (Chukchee, Koryak, and Kamchadal peoples), documented by
-Wasson and Wasson (1957). [[kava-traditional-preparation-ceremonial-context]] methods include:
+- Also found in pine plantations in [[amanita-pantherina]]* (panther cap) — brown cap with white spots
+- *[[kava-traditional-preparation-ceremonial-context]] methods include:
 
 - **Drying** — converts ibotenic acid to muscimol (the preferred compound)
 - **Boiling** — water extraction removes some ibotenic acid
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[amanita-muscaria]]
 - [[amanita-pantherina]]
-- [[amanita]]
 - [[doc]]
 - [[psilocybin]]

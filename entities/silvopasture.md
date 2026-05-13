@@ -21,47 +21,7 @@ sources:
 
 # Silvopasture
 
-**Silvopasture** is an integrated agroforestry practice that deliberately combines trees, forages (pasture and/or hay), and livestock on the same land management unit. One of the five recognized agroforestry practices (alongside [[comparison-alley-cropping-vs-silvopasture]], forest farming, riparian buffers, and windbreaks), silvopasture creates multi-strata production systems that generate tree crops, animal products, and forage simultaneously while providing [[biodiversity-of-fungi-ecosystem-services-agriculture]] that exceed those of conventional pasture or tree monocultures. Project Drawdown ranks silvopasture among the top [[dighton-fungi-climate-change-feedback]] mitigation strategies, with estimated global mitigation potential of 26.5–42.3 gigatons CO₂ equivalent by 2050.
-
-## Definition and Scope
-
-Silvopasture is distinguished from simple grazing in woodlands by its **intentional design and management** of all components:
-
-- **Trees:** Deliberately planted or retained for timber, fruit, nut, fodder, or ecosystem services
-- **Forage:** Managed pasture or hay beneath and between trees, selected for shade tolerance and nutritional value
-- **Livestock:** Grazing animals (cattle, sheep, goats, pigs, poultry) managed to benefit both pasture and trees
-
-The key distinction from "woodland grazing" (silvopastoralism) is that silvopasture involves **active management** of tree spacing, density, and canopy to optimize light for forage production, while livestock are managed to enhance — not degrade — soil and tree health.
-
-## History and Origins
-
-### Traditional Systems
-Silvopasture is among the oldest land-use practices, predating agriculture:
-
-- **Dehesa (Spain/Portugal):** Ancient Mediterranean oak savanna system integrating holm oak (*Quercus ilex*), cork oak (*Q. suber*), pasture, and livestock (Iberian pigs, cattle, sheep). Dating to Roman times, dehesas produce acorns (for premium Iberian ham), cork, timber, and livestock on 3–5 million hectares
-- **Parkland systems (Africa):** Traditional African systems combining scattered *Faidherbia albida*, *Acacia* species, and livestock
-- **Shaded coffee/cacao (Latin America):** Multi-strata systems combining shade trees with understory crops and occasional livestock
-- **Wood pastures (Europe):** Historical common land systems with pollarded trees, grazing, and hay production
-
-### Modern Development
-- 1970s–1980s: Scientific agroforestry research emerges; ICRAF (now CIFOR-ICRAF) established in 1978
-- 1990s: USDA National Agroforestry Center formalizes silvopasture as a recognized practice in the United States
-- 2000s–present: Rapid expansion driven by climate mitigation potential, regenerative agriculture movement, and economic diversification benefits
-
-## System Design
-
-### Tree Selection
-
-**Timber:** Black walnut (high-value, allelopathic — limit density), oak (timber + acorn mast), pine (pulpwood, pine straw), poplar (fast rotation, coppice)
-
-**Fruit/nut:** Chestnut (high-carb mast, excellent feed), hazelnut (light canopy), persimmon (late fruit drop), mulberry (high-protein fodder), apple/pear/plum
-
-**Fodder:** Black locust (N-fixing, high-protein), honey locust (sugary pods), tagasaste (evergreen), willow (browse, riparian), moringa (tropical, exceptional protein)
-
-### Tree Layout and Spacing
-Optimal tree spacing balances timber/nut production with forage productivity:
-
-- **[[solomon-wide-spacing-versus-intensive-gardening-debate]] (15–20 m):** Minimal forage reduction; 50–100 trees/ha
+**Silvopasture** is an integrated agroforestry practice that deliberately combines trees, forages (pasture and/or hay), and livestock on the same land management unit. One of the five recognized agroforestry practices (alongside [[biodiversity-of-fungi-ecosystem-services-agriculture]] that exceed those of conventional pasture or tree monocultures. Project Drawdown ranks silvopasture among the top [[solomon-wide-spacing-versus-intensive-gardening-debate]] (15–20 m):** Minimal forage reduction; 50–100 trees/ha
 - **Moderate spacing (8–12 m):** Balanced production; 70–150 trees/ha
 - **Narrow spacing (4–8 m):** Maximum tree production; forage restricted to shade-tolerant species; 150–600 trees/ha
 - **Row arrangements:** Single rows, double rows, or scattered patterns depending on equipment access needs
@@ -88,3 +48,88 @@ Pasture species must tolerate reduced light (typically 50–70% of full sun):
 Among the most effective land-based carbon strategies:
 - **Aboveground:** Trees store 2–10 tonnes C/ha/year
 - **Soil:** Root turnover and manure add 0.5–3.0 tonnes C/ha/year
+
+## Overview
+
+Silvopasture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish silvopasture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving silvopasture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Silvopasture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for silvopasture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+silvopasture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Silvopasture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of silvopasture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-pasture-vs-silvopasture]]
+- [[comparison-silvopasture-systems-vs-pasture-management]]
+- [[comparison-silvopasture-vs-pasture]]
+- [[query-what-is-silvopasture-and-how-does-it-work]]
+- [[silvopasture-systems]]

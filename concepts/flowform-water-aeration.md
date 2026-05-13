@@ -85,26 +85,14 @@ This evolutionary pathway mirrors the general pattern of design development in p
 
 ## Broader Significance
 
-Flowforms exemplify several [[permaculture-principles]]:
-
-- **Design from pattern to detail**: The overall flow pattern (figure-8 pulsing) is designed first; the specific basin dimensions follow
-- **Integrate rather than segregate**: Water treatment, aesthetics, education, and aquatic habitat are combined in a single system
-- **Use small and slow solutions**: Each basin is modest, but stacked series achieve significant treatment capacity
-- **Use edges and value the marginal**: The vortices and counterflows at basin edges are where much of the mixing occurs
-
-They also represent a model for **applied art in everyday use** — demonstrating that functional infrastructure can simultaneously be beautiful, educational, and ecologically beneficial.
-
-## Key References
-
-- **Virbella Institute**, Emerson College, Forest Row, East Sussex RH18 5JX — Flowform designs and research
-- **Chappell** — *Landform Evolution in Australia*, ANU Press, Canberra, 1978
-- **Popham, A.E.** — *The Drawings of Leonardo da Vinci*, Jonathan Cape, London, 1946
-- **Schwenke, Theodore** — *Sensitive Chaos: the Creation of Flowing Forms in Air or Water*, Schocken Books, 1976
-- **Vogel, Steven** — *Life in Moving Fluids: the Physical Biology of Flow*, Willard Grant Press, 1981
+Flowforms exemplify several [[arts-in-the-service-of-life]]
+- [[pattern-understanding-in-permaculture]]
+- water conservation in permaculture
 
 ## See Also
 
-- [[arts-in-the-service-of-life]]
-- [[herb-spiral-design]]
-- [[pattern-understanding-in-permaculture]]
-- water conservation in permaculture
+- [[flowform]]
+- [[flowform-water-aeration-design]]
+- [[cho-water-soluble-phosphoric-acid-preparation]]
+- [[jadam-water-soluble-calcium-preparation]]
+- [[water-use-efficiency-plants]]

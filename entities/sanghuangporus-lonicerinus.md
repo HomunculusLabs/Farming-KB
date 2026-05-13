@@ -18,67 +18,9 @@ sources:
 
 ## Overview
 
-Sanghuangporus lonicerinus is a perennial polypore fungus in the family Hymenochaetaceae. It is one of the species historically referred to as "sanghuang," a group of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] highly valued in traditional Chinese medicine for their health-restoring properties.
+Sanghuangporus lonicerinus is a perennial polypore fungus in the family Hymenochaetaceae. It is one of the species historically referred to as "sanghuang," a group of [[fukuoka-matsutake-artificial-cultivation-attempt]] of fruiting bodies.
 
-The species was originally described in the genus Phellinus before being transferred to Sanghuangporus following taxonomic revisions in 2011. It is distinguished from other sanghuang species by its host specificity, geographic distribution, and microscopic features.
-
-Sanghuangporus lonicerinus produces bioactive polysaccharides and triterpenoids with documented antitumor, immunomodulatory, and anti-inflammatory activities. These compounds are the basis for its traditional medicinal use across East Asian medical systems.
-
-The fungus is relatively rare in nature, found primarily on dead or dying hardwoods in temperate forests of East Asia. Wild collection is limited by scarcity, and cultivation techniques are still being refined for commercial production.
-
-In traditional Chinese medicine, sanghuang preparations have been used to treat stomach ailments, hemorrhage, and general weakness. Modern pharmacological research has partially validated several of these traditional applications.
-
-## Taxonomy and Morphology
-
-Sanghuangporus lonicerinus was first described as Polyporus lonicerinus by Patouillard in 1895. It was later placed in Phellinus before Dai and Xue established the genus Sanghuangporus in 2011 to accommodate the sanghuang clade based on molecular phylogenetic evidence.
-
-The basidiocarp is woody, perennial, and sessile, forming hoof-shaped to effused-reflexed conks on host wood. The upper surface is dark brown to nearly black, often with concentric growth zones and radial cracks.
-
-Fruiting bodies can reach 5–15 cm in width and 2–5 cm in thickness. They are strongly attached to the substrate and difficult to remove without damaging the wood surface.
-
-The pore surface is brown to rusty-brown, with pores numbering 5–7 per millimeter. Tubes are stratified in perennial specimens, with distinct pore layers indicating seasonal growth periods.
-
-The context is woody and cinnamon-brown, with a distinct black line separating annual tube layers. This black line is a characteristic feature of many hymenochaetaceous fungi and serves as a useful identification marker.
-
-Basidiospores are ellipsoid, hyaline, thick-walled, and measure 4.5–6 × 3–4 μm. The presence of setal hyphae in the context distinguishes Sanghuangporus from morphologically similar genera within the Hymenochaetales.
-
-## Distribution and Habitat
-
-Sanghuangporus lonicerinus is distributed in temperate and subtropical regions of East Asia. It has been recorded in China, Japan, and Korea, with most collections originating from mountainous forest areas of central and southern China.
-
-The species is typically found at elevations of 500–2000 meters, growing on dead or moribund branches of broadleaf trees. It shows some preference for trees in the Caprifoliaceae family, consistent with the species epithet referencing honeysuckle (Lonicera).
-
-Forests with high humidity and moderate shade provide optimal growing conditions. The fungus is saprotrophic, decomposing the lignin and cellulose of dead wood over many years through a white rot decay process.
-
-Natural populations have declined due to deforestation and overharvesting of wild medicinal mushrooms. The species is considered uncommon to rare across most of its known range.
-
-Specimens are most commonly collected during autumn months when fruiting is most abundant. Annual fruiting is influenced by temperature, rainfall, and host tree condition.
-
-## Bioactive Compounds and Pharmacology
-
-Polysaccharides are the primary bioactive constituents of Sanghuangporus lonicerinus. Water-soluble β-glucans isolated from the fruiting body exhibit significant immunostimulatory activity, enhancing macrophage and NK cell function in laboratory assays.
-
-Triterpenoids, including lanostane-type compounds, contribute to the species' antitumor properties. These compounds have demonstrated cytotoxic activity against several cancer cell lines in vitro, including hepatoma and breast cancer lines.
-
-Anti-inflammatory effects have been documented through inhibition of NF-κB signaling and reduction of pro-inflammatory cytokine production. These findings support the traditional use of sanghuang for inflammatory conditions such as arthritis.
-
-Antioxidant activity is attributed to both polysaccharide and phenolic fractions. Free radical scavenging capacity is comparable to that of other well-studied medicinal mushrooms in the Hymenochaetaceae.
-
-Hepatoprotective effects have been observed in animal models, with extracts reducing liver damage from chemical toxins. This activity is consistent with the traditional use of sanghuang as a liver tonic in Chinese medicine.
-
-Antimicrobial activity against Gram-positive bacteria has been demonstrated for certain extracts. However, this property is less studied than the immunomodulatory and antitumor activities.
-
-## Cultivation
-
-Cultivation of Sanghuangporus lonicerinus remains experimental and has not yet achieved commercial scale. The slow growth rate and specific substrate requirements present challenges for [[fukuoka-matsutake-artificial-cultivation-attempt]] of fruiting bodies.
-
-Submerged fermentation has been used to produce mycelial biomass and extracellular polysaccharides in bioreactors. This method bypasses the need for fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]] while yielding bioactive compounds suitable for extract production.
-
-Solid-state cultivation on hardwood sawdust substrates has produced fruiting bodies under controlled conditions. Optimal substrates include sawdust of oak, beech, and maple supplemented with wheat bran or rice bran.
-
-Growth temperature ranges from 20–28°C, with optimal fruiting at 22–25°C and high relative humidity (85–95%). Fruiting typically requires 60–120 days after substrate inoculation under suitable environmental conditions.
-
-Yield optimization remains an active area of research, with variable results across different substrate formulations and environmental conditions. Genetic improvement through [[blesching-cannabis-strain-selection-receptor-targeting]] may improve cultivation prospects.
+Submerged fermentation has been used to produce mycelial biomass and extracellular polysaccharides in bioreactors. This method bypasses the need for fruiting [[blesching-cannabis-strain-selection-receptor-targeting]] may improve cultivation prospects.
 
 ## Related Species
 
@@ -87,3 +29,88 @@ Sanghuangporus lonicerinus is part of a genus containing approximately 12 specie
 Sanghuangporus vaninii is another closely related species found in similar habitats and used in traditional medicine. It can be distinguished by its larger pores and different host preferences.
 
 Sanghuangporus lonicericola, described more recently, is morphologically similar but genetically distinct. It is known from northeastern China on Lonicera species and represents a cryptic species within the complex.
+
+## Overview
+
+Sanghuangporus Lonicerinus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sanghuangporus lonicerinus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sanghuangporus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sanghuangporus Lonicerinus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sanghuangporus lonicerinus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sanghuangporus lonicerinus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sanghuangporus Lonicerinus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sanghuangporus lonicerinus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[sanghuangporus-baumii]]
+- [[sanghuangporus-ctenophorus]]
+- [[sanghuangporus-lonicericola]]
+- [[sanghuangporus-sanghuang]]
+- [[sanghuangporus-vaninii]]

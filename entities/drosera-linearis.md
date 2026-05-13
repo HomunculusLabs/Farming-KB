@@ -11,29 +11,11 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Rivadavia, F. et al. (2003). "Drosera." Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 8.
-  - Gibson, T.C. (1991). "Morphometric variation in the [[drosera-rotundifolia]] complex." Canadian Journal of Botany, 69(1), 168-180.
-  - USDA NRCS (2024). "Drosera linearis." Natural Resources Conservation Service PLANTS Database.
-  - Slack, A. (1979). "Carnivorous Plants." MIT Press.
-  - Juniper, B.E., Robins, R.J. & Joel, D.M. (1989). "The Carnivorous Plants." Academic Press.
----
-
-# Drosera linearis
-
-## Overview
-
-Drosera linearis, commonly known as the **slender-leaved sundew** or **linear sundew**, is a perennial carnivorous plant in the family Droseraceae. It is native to northern [[guzman-psilocybin-mushrooms-north-america]], occurring in Canada and the northern United States.
+  - Gibson, T.C. (1991). "Morphometric variation in the [[guzman-psilocybin-mushrooms-north-america]], occurring in Canada and the northern United States.
 
 The species is recognized by its distinctive narrow, linear leaves that distinguish it from the broader-leaved D. rotundifolia. It produces glandular tentacles that secrete sticky mucilage to trap small insects.
 
-D. linearis is one of the less commonly cultivated [[growing-gourmet-north-american-reishi-species]] sundews, partly due to its specific habitat requirements and relatively narrow distribution compared to more widespread relatives.
-
-It is not currently listed as threatened or endangered at the federal level, though several state-level conservation rankings indicate concern. Habitat loss from peatland drainage and development is the primary threat.
-
-## Taxonomy and Morphology
-
-Drosera linearis was first described by Goldie in 1822. It is placed within Drosera sect. Drosera, the temperate species group characterized by winter dormancy through hibernacula formation.
-
-The species has historically been confused with D. rotundifolia and D. intermedia, and some earlier treatments considered it a variety of D. rotundifolia. Current taxonomic consensus recognizes it as a distinct species based on [[cannabis-leaf-morphology-and-phyllotaxy]], chromosome number, and ecological preferences.
+D. linearis is one of the less commonly cultivated [[cannabis-leaf-morphology-and-phyllotaxy]], chromosome number, and ecological preferences.
 
 Leaves are linear to narrowly spatulate, 8–25 mm long and 1.5–3 mm wide. The leaf lamina is green to reddish, with reddish glandular tentacles on both surfaces.
 
@@ -41,50 +23,93 @@ Each leaf bears 50–80 marginal tentacles and 20–40 central tentacles. The te
 
 The hibernaculum (winter bud) is small and compact, 5–10 mm in diameter, composed of tightly folded scale-like leaves. It protects the plant during freezing winter temperatures.
 
-Roots are thin and fibrous, serving primarily as anchorage. [[plant-nutrient-uptake-mechanisms]] occurs almost exclusively through the glandular leaf surfaces.
-
-The inflorescence is a slender, curving scape 5–15 cm tall, bearing 3–10 small white to pinkish flowers. Flowers are approximately 5–8 mm in diameter and open sequentially from bottom to top over several weeks.
-
-Flowering occurs from June through August in most of the range. Each flower produces a small capsule containing numerous minute seeds that are dispersed by wind and water movement.
-
-## Distribution and Habitat
-
-Drosera linearis occurs across northern North America, from Alaska and Yukon eastward through northern Canada to Labrador and Newfoundland. In the United States, it is found in northern Minnesota, Wisconsin, Michigan, and northern New England.
-
-The species reaches its southern range limit in the Great Lakes region and the mountains of New England. Disjunct populations have been reported from high-elevation sites in the Appalachian Mountains.
-
-Habitat includes open, acidic wetlands such as sphagnum bogs, fen margins, sandy seepages, and the margins of boreal lakes and streams. It frequently grows on floating sphagnum mats at the edges of ponds and lakes.
-
-Soil pH in typical habitats ranges from 4.0 to 6.0, with low concentrations of [[plant-available-nitrogen-ammonium-nitrate]] and phosphorus. These conditions favor carnivory as a [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] strategy.
-
-Elevation ranges from near sea level to approximately 1,200 meters in montane populations. The species requires consistently moist to saturated substrates with high organic content.
-
-Associated species in typical habitats include sphagnum mosses, other Drosera species, Utricularia spp., and a diversity of Ericaceae and Cyperaceae typical of northern peatlands.
-
-## Carnivorous Adaptations
-
-The leaf surfaces of D. linearis are covered with two types of glandular trichomes. Stalked mucilaginous glands secrete a sticky, viscous droplet of polysaccharide-based adhesive at the tentacle tip.
-
-When an insect contacts the mucilage, it becomes trapped. The tentacles slowly bend toward the prey through thigmonastic movement, bringing additional glands into contact with the captured organism.
-
-The digestive process involves secretion of proteolytic enzymes including proteases and phosphatases. These enzymes break down the insect's soft tissues, releasing amino acids and phosphates that are absorbed through the leaf surface.
-
-Nitrogen derived from captured prey can constitute 30–50% of the plant's total nitrogen budget in nutrient-poor bog habitats. This carnivorous strategy is an adaptation to the oligotrophic conditions of boreal peatlands.
-
-D. linearis primarily captures small flying insects including fungus gnats, midges, and winged aphids. The narrow leaf form may be an adaptation to reduce rain splash damage to the adhesive mucilage.
-
-The mucilage droplets are hygroscopic and reabsorb water after rainfall, maintaining their adhesive properties through multiple wet-dry cycles. This resilience is important in the species' wetland habitat where rainfall is frequent.
-
-## Cultivation
-
-D. linearis is grown by specialized carnivorous plant collectors but is less widely available than D. rotundifolia or D. capensis. It requires cool conditions and is more demanding than many other temperate sundews.
-
-Plants should be grown in a 1:1 mix of sphagnum peat moss and silica sand, kept waterlogged with pure water. Full sun to partial shade is acceptable, with more intense light producing redder coloration.
-
-A cold dormancy period of 3–5 months is essential. Plants form tight hibernacula and can tolerate sustained freezing if the [[cervantes-green-algae-growing-medium]] remains moist. Minimum winter temperatures of -10°C are tolerated.
+Roots are thin and fibrous, serving primarily as anchorage. [[plant-available-nitrogen-ammonium-nitrate]] and phosphorus. These conditions favor carnivory as a [[cervantes-green-algae-growing-medium]] remains moist. Minimum winter temperatures of -10°C are tolerated.
 
 Propagation from seed requires cold stratification for 4–6 weeks. Seeds are dust-like and should be sown on the surface of moist medium without burial. Germination typically occurs within 2–4 weeks after stratification.
 
-Leaf cuttings and root cuttings are effective vegetative [[vegetative-propagation-methods-mollison]]. Flower stalk cuttings also produce plantlets when laid on moist medium.
+Leaf cuttings and root cuttings are effective vegetative [[hamilton-vegetative-propagation]] method.
 
-Plants in cultivation typically live 5–10 years, though wild populations may persist for decades through continuous seedling recruitment. Division of mature clumps is the fastest [[hamilton-vegetative-propagation]] method.
+## Overview
+
+Drosera Linearis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish drosera linearis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving drosera extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Drosera Linearis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for drosera linearis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+drosera linearis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Drosera Linearis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of drosera linearis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[drosera-anglica]]
+- [[drosera-binata]]
+- [[drosera-burmannii]]
+- [[drosera-capensis]]
+- [[drosera-filiformis]]

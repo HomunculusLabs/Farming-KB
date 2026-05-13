@@ -14,24 +14,10 @@ Updated: 2026-04-18
 
 Source: Gardening When It Counts, Steve Solomon, Chapter 9
 
-Beyond general insect philosophy, Solomon provides specific management strategies for common garden pests encountered in [[psilocybin-north-america-pacific-northwest]] and similar climates.
-
-## Flea Beetles
-
-The most detailed pest discussion in the book.
-
-**Identification**: Tiny jumping beetles that riddle brassica leaves with small holes.
-
-**When problematic**: Primarily in spring when cool conditions slow plant growth, concentrating beetles on few seedlings. Husky, well-hardened transplants usually outgrow the damage.
-
-**Management**:
-- Direct-sow 5 seeds per station, thin only as competition starts — gives beetles more to chew on while survivors establish
-- Don't sow at the earliest possible moment
-- Monitor leaf area loss: if exceeding 10%, foliar feed with [[solomon-foliar-feeding-fish-emulsion-and-kelp]] (foul smell may also confuse beetles)
+Beyond general insect philosophy, Solomon provides specific management strategies for common garden pests encountered in [[solomon-foliar-feeding-fish-emulsion-and-kelp]] (foul smell may also confuse beetles)
 - If exceeding 20%, spray every few days with rotenone or liquid pyrethrum
 - Once weather moderates, the problem should resolve
-- See also [[insects-and-plant-health-solomon]], [[aact-nematode-protozoa-management-ingham]]
-- [[gaias-garden-cover-crops-soil-building]]
+- See also [[aact-nematode-protozoa-management-ingham]]
 - [[solomon-gardening-when-it-counts-index]]
 - [[solomon-liquid-fertilizers-and-foliar-feeding]]
 ## Practical Applications
@@ -88,3 +74,77 @@ maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous
+
+## Overview
+
+Specific Pest Management Solomon represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish specific pest management solomon
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving specific extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Specific Pest Management Solomon finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for specific pest management solomon. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+specific pest management solomon and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Specific Pest Management Solomon has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of specific pest management solomon into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

@@ -4,11 +4,7 @@ created: 2026-04-28
 tags:
   - silvopasture
   - getting-started
-  - [[agroforestry]]
-  - pasture
-  - livestock
-  - trees
-  - [[permaculture]]
+  - permaculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -29,36 +25,8 @@ Starting a silvopasture system means intentionally integrating trees, forage, an
 
 Before planting anything, evaluate these key factors:
 **Soils**
-- Get a soil test from your county extension office (pH, N-P-K, [[hamilton-composting-and-organic-matter-management]], CEC).
-- Silvopasture works on a wide range of soils, but drainage matters. Avoid poorly drained sites for most tree species.
-- Sandy loams are ideal. Heavy clay can work with appropriate species selection (black locust, honey locust, osage orange).
-- Compaction from previous grazing reduces tree survival. Plan to rest the site or use keyline plowing before planting.
-
-**Existing vegetation**
-- Identify existing pasture grasses and forbs. Cool-season grasses (fescue, orchardgrass, bluegrass) work well under partial shade in temperate zones.
-- Note any invasive species (multiflora rose, autumn olive, Japanese honeysuckle) that may need control before planting.
-- If converting woodland, assess tree species, density, and health. Mark trees to keep vs. remove.
-
-**Water**
-- Map existing water sources (streams, ponds, wells, municipal connections).
-- Livestock need 5–15 gallons/head/day (cattle), 1–3 gallons/head/day (sheep).
-- Plan water infrastructure before livestock introduction. Portable water troughs with float valves are the most flexible option.
-
-**Climate and hardiness**
-- Check your USDA hardiness zone. This determines tree and forage species selection.
-- Consider prevailing wind direction for row orientation and [[comparison-windbreak-design-vs-species-selection]].
-- Evaluate frost dates, [[savory-growing-season-and-non-growing-season-management]] length, and seasonal rainfall patterns.
-
-### Step 2: Define Your Goals
-
-Be specific about what you want from the system. Common goals include:
-| Goal | Best Approach | Timeline |
-|---|---|---|
-| Shade for livestock comfort | Fast-growing shade trees (honey locust, mulberry, black locust) | 3–7 years for significant shade |
-| Timber production | High-value timber species (walnut, oak, pine) with 25–40 year rotation | Long-term investment |
-| Nut/fruit production | Chestnut, pecan, persimmon, apple, mulberry | 5–10 years to first significant harvest |
-| Improved animal performance | Any tree providing summer shade; design for maximum forage production | 1–2 years for grazing benefits |
-| [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | Fast-growing species at moderate density; maintain ground cover | Immediate (soil) + long-term (biomass) |
+- Get a soil test from your county extension office (pH, N-P-K, [[comparison-windbreak-design-vs-species-selection]].
+- Evaluate frost dates, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | Fast-growing species at moderate density; maintain ground cover | Immediate (soil) + long-term (biomass) |
 | Diversified income | Mixed species system with multiple products | Varies by component |
 Most beginners succeed by starting with a primary goal and one or two secondary goals.
 
@@ -74,9 +42,7 @@ Most beginners succeed by starting with a primary goal and one or two secondary 
 **For subtropical climates (USDA Zones 8–11):**
 | Purpose | Trees | Forages | Livestock |
 |---|---|---|---|
-| Shade + fodder | Leucaena, gliricidia, [[moringa]] | Bermuda, bahiagrass, rhizoma peanut | Cattle, goats |
-| Integrated orchard | Pecan, citrus, avocado | Stargrass, limpograss, aeschynomene | Cattle |
-| Coconut integration | [[mollison-coconut-palm-polyculture-systems]] | Brachiaria, guinea grass | Cattle, carabao |
+| Shade + fodder | Leucaena, gliricidia, [[mollison-coconut-palm-polyculture-systems]] | Brachiaria, guinea grass | Cattle, carabao |
 
 ### Step 4: Design the Layout
 
@@ -135,14 +101,6 @@ Most beginners succeed by starting with a primary goal and one or two secondary 
 |---|---|---|
 | Establishment | Years 1–2 | No livestock near trees. Mow alleys for forage management. |
 | Light introduction | Years 2–3 | Introduce livestock for short grazing periods (1–3 days per paddock). Monitor tree damage closely. |
-| Increasing stocking | Years 3–5 | Extend grazing periods. Begin [[comparison-rotational-grazing-vs-continuous-grazing]]. Stock at 50–70% of normal pasture rates. |
-| Full production | Years 5+ | Full rotational stocking. Adjust based on shade and forage productivity. |
-**Fencing for rotational grazing:**
-- Subdivide the silvopasture into 4–10 paddocks using temporary electric fencing (poly wire or poly tape with step-in posts).
-- Each paddock should have: shade access, water access, adequate forage, and easy livestock movement.
-- Move livestock every 1–7 days depending on stocking density and season.
-## See Also
-
-- [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
+| Increasing stocking | Years 3–5 | Extend grazing periods. Begin [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-to-start-growing-mushrooms-at-home]]
 - arid-zone-permaculture-strategies-mollison

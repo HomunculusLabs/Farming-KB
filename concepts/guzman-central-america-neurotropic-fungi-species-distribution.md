@@ -24,59 +24,14 @@ from Belize to Panama.
 Belize has the sparsest documented record in the region, with only two
 confirmed neurotropic species:
 
-- **[[copelandia-cyanescens]]** (Berger & Singer) Singer — Reported by Gerhardt
-  (1996). A tropical dung-inhabiting species widely distributed in the
-  neotropics.
-- **Psilocybe cordispora** R.E. Reid — Reported by Reid (1970). A relatively
-  obscure species in the Psilocybe genus.
-- **Psilocybe cubensis** (Earle) Singer — One of the most common psilocybian
-  species in tropical regions. Reported by Heim (1956b, 1978) and
-  Singer & Smith (1958).
-
-### Costa Rica
-
-Costa Rica's fungal diversity reflects its varied [[fungal-biodiversity-tropical-ecosystems]] and strong
+- **[[fungal-biodiversity-tropical-ecosystems]] and strong
 mycological research tradition:
 
 - **Amanita muscaria** (L.) Lam. — The iconic fly agaric, containing ibotenic
   acid and muscimol rather than psilocybin. Reported by Sáenz et al. (1983).
   Costa Rica represents one of the more southerly Central American records for
   this typically temperate species.
-- **[[claviceps-paspali]]** Stevens & Hall — An ergot fungus parasitic on Paspalum
-  grasses, producing ergot alkaloids. Reported by Grasso (1959).
-- **Copelandia cyanescens** — Reported by Sáenz et al. (1983).
-- **Psilocybe cf. aztecorum** — Tentative identification suggesting affinities
-  with the high-elevation Mexican species. Reported by Sáenz et al. (1983).
-- **Psilocybe cubensis** — Reported by Sáenz et al. (1983) and Guzmán (1995).
-  Common in subtropical and tropical cattle pastures.
-- **Psilocybe cf. mexicana** — Tentatively identified, suggesting similarity to
-  the classic Mexican species P. mexicana Heim. Reported by Sáenz et al. (1983).
-
-### El Salvador
-
-El Salvador has the most limited documented record in the region:
-
-- **Claviceps paspali** — Reported by Grasso (1955).
-- **Psilocybe subcubensis** Guzmán — Distinguished from P. cubensis by its
-  narrower cheilocystidia. Reported by Guzmán (1983).
-
-### Guatemala
-
-Guatemala has the richest documented record of neurotropic fungi in Central
-America, reflecting both its ecological diversity and the significant
-mycological and ethnobotanical research conducted there:
-
-- **Amanita muscaria** — Extensively documented in Guatemala, with reports from
-  Lowy (1972, 1974, 1977), Cooke (1977), Jenkins (1977), Singer (1978), Torres
-  (1984), Wasson et al. (1986), Nyberg (1992), Samorini (1992), Ott (1993),
-  Hawksworth et al. (1995), Wasson (1995), and Guzmán (1997). The extensive
-  citation history reflects the cultural and mycological interest in A. muscaria
-  in Guatemala, including its association with the Thunderbolt Legend
-  (Lowy, 1974).
-- **Psilocybe caerulescens** Murrill — Reported by Singer (1978). Also
-  well known from Mexico where it grows in disturbed soils.
-- **Psilocybe cubensis** — Reported by Guzmán (1983) and Torres (1984).
-- **Psilocybe mexicana** Heim — Known from the [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] in Mexico.
+- **[[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] in Mexico.
   Reported in Guatemala by Lowy (1977), Guzmán (1983), Torres (1984), and
   Stamets (1996). The Guatemalan record extends the known range southward.
 
@@ -117,8 +72,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[neurotropic-fungi]]
 - [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
-- [[guzman-caribbean-neurotropic-fungi-species-distribution]]
 - [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]
 - [[doc]]
+
+## Overview
+
+Guzman Central America Neurotropic Fungi Species Distribution represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish guzman central america neurotropic fungi species distribution
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving guzman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Guzman Central America Neurotropic Fungi Species Distribution finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for guzman central america neurotropic fungi species distribution. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+guzman central america neurotropic fungi species distribution and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Guzman Central America Neurotropic Fungi Species Distribution has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of guzman central america neurotropic fungi species distribution into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

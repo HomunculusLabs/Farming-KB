@@ -14,9 +14,7 @@ type: concept
 Green manure is a crop grown specifically to add organic
 matter to beds that are empty for a period of time. It is
 sown with the intention of digging it into the soil to
-provide [[hamilton-composting-and-organic-matter-management]] and plant food. While more commonly
-associated with farming, green manures have real value in
-the [[cool-climate-home-garden-mollison]], especially for light soils.
+provide [[cool-climate-home-garden-mollison]], especially for light soils.
 
 ## Why Use Green Manures
 
@@ -89,43 +87,8 @@ rotary cultivator, then cultivated more deeply after
 a few days of wilting.
 
 ## See Also
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[organic-herb-gardening]]
-- [[herb-gardening-organic-hamilton]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[composting]]
-- [[geoff-hamilton]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 - [[herb-gardening-organic-hamilton]]

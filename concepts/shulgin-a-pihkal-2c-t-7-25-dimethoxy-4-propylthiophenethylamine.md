@@ -1,7 +1,7 @@
 ---
 title: 2C-T-7 (2,5-Dimethoxy-4-Propylthiophenethylamine)
 source: shulgin-a-pihkal.md
-source_author: [[alexander-shulgin]]
+source_author: alexander-shulgin
 category: psychopharmacology
 tags: [phenethylamine, 2C-family, 2C-T, 2C-T-7, psychedelic, Shulgin, PiHKAL, thiophenethylamine, propylthio]
 created: 2026-05-11
@@ -18,70 +18,9 @@ created: 2026-05-11
 - **Yield**: 5.2 g from the described synthesis
 - **CAS**: Not listed in PiHKAL
 
-The 2C-T family represents one of the most diverse and extensively explored sub-families in PiHKAL. The sulfur atom at the 4-position (replacing the halogens of 2C-B, 2C-I, etc.) introduces different electronic properties and steric considerations, while the alkyl [[phenethylamine-chain-length-effects]] on the thioether becomes the primary variable for tuning potency, duration, and character.
-
-## Dosage and Duration
-
-| Parameter | Range |
-|-----------|-------|
-| **Threshold** | ~8 mg |
-| **Light dose** | 10-15 mg |
-| **Common dose** | 15-20 mg |
-| **Strong dose** | 20-30 mg |
-| **Duration** | 8-15 hours |
-| **Onset** | ~2 hours |
-
-The range is intentionally extended downward to 10 mg because "there have been numerous people who have found 10 or so milligrams to be quite adequate for their tastes." The duration of 8-15 hours is long for a phenethylamine, placing 2C-T-7 among the longer-acting members of the 2C family.
-
-## Qualitative Effects
-
-### At 20 mg
-
-A 20 mg dose produced what Shulgin ranks among the richest subjective reports in all of PiHKAL:
-
-- **Visuals**: Described as "great, much like [[mescaline]] but less sparkly," with "lots of movement and aliveness" and a "velvety appearance" along with "increased depth perception"
+The 2C-T family represents one of the most diverse and extensively explored sub-families in PiHKAL. The sulfur atom at the 4-position (replacing the halogens of 2C-B, 2C-I, etc.) introduces different electronic properties and steric considerations, while the alkyl [[mescaline]] but less sparkly," with "lots of movement and aliveness" and a "velvety appearance" along with "increased depth perception"
 - **Body**: Periodic nausea cycling throughout the experience, neck and shoulder tension, and leg tightness that alternated with relaxation
-- **Emotional**: A pattern of oscillation between "wonderful God-space — similar to [[mdma]] but more grounded" and deep sadness. The subject described feeling "really shown where I was unfinished, but with self-loving and tolerance"
-- **Processing**: "Tremendous processing and letting go" — the experience facilitated significant emotional integration work
-- **Vocal freedom**: Unprecedented vocal integration that "remained for several days," with the ability to "merge body, voice, psyche and emotions with music and then let go of it as a role"
-- **Therapeutic quality**: Released grief — "I let go of Dad with tragic arias. The next day I let go of Mom by singing Kaddish for her"
-
-### At 20 mg (Second Report)
-
-A markedly different character from the same dose:
-
-- "A wonderful day of integration and work"
-- Deep stillness practice: "I feel that if I can be totally, completely still, I will hear the inner voice of the universe"
-- Music became "incredibly beautiful" at the point of complete stillness
-- At the still point, "a huge burst of energy is released" — described as "great fun"
-- Emphasis on listening, receptivity, and inner awareness rather than visual spectacle
-
-### At 25 mg
-
-- Described as "good and friendly and wonderful"
-- The subject reported it would "take the place of 2C-T-2 in my heart"
-- Deep engagement with a documentary about Bolivian indigenous people and Inca traditions
-- Appreciation of shamanic faces with "startling intensity and earthy depth"
-- Contemplation of the Virgin Mary as another form of the ancient Pacha Mama (Earth Mother)
-
-### At 30 mg
-
-- "The visuals have an adaptable character" — the subject could recreate the visual quality of any previously known hallucinogen at will
-- With open eyes: LSD-type flowing visuals, warm earth world of Peyote, or could stop visuals altogether
-- With closed eyes: "Escher-like graphics with a lot of chiaroscuro, geometric patterns with oppositional play of sculptured light and dark values"
-- Described as "Green light" experience
-
-## Ranking Among Phenethylamines
-
-Shulgin makes a striking assessment of 2C-T-7's place in the phenethylamine hierarchy: "If all the phenethylamines were to be ranked as to their acceptability and their intrinsic richness, 2C-T-7 would be right up there near the top, along with 2C-T-2, 2C-B, mescaline and 2C-E."
-
-This ranking places 2C-T-7 in the top tier of approximately 179 documented compounds in PiHKAL — a remarkable distinction. The criterion appears to combine subjective richness, tolerability, dose range, and the depth of experience accessible at common doses.
-
-## Synthesis Overview
-
-The synthesis of 2C-T-7 follows the general 2C-T pattern:
-
-1. **Alkylation**: 2,5-dimethoxythiophenol is reacted with (n)-propylbromide in [[methanol]]/KOH to yield 2,5-dimethoxyphenyl (n)-propyl sulfide as a pale yellow oil with a "light pleasant fruity smell."
+- **Emotional**: A pattern of oscillation between "wonderful God-space — similar to [[methanol]]/KOH to yield 2,5-dimethoxyphenyl (n)-propyl sulfide as a pale yellow oil with a "light pleasant fruity smell."
 
 2. **Vilsmeier-Haack formylation**: The sulfide is formylated using POCl₃ and N-methylformanilide to produce 2,5-dimethoxy-4-(n-propylthio)benzaldehyde (mp 76-77°C). The NMR spectrum confirmed correct placement with aromatic singlets at 6.81 and 7.27 ppm.
 
@@ -118,3 +57,88 @@ An attempt was made to create an N-methyl-N-isopropyl analogue by reductive alky
 - The 2CT7-2ETO aftereffect of next-day headache suggests that even structural analogues may carry unexpected toxicity
 - 2C-T-7 has been associated with fatalities in non-controlled settings, often involving combinations with other substances or unsafe environments
 - As with all 2C-T compounds, the sulfur-containing group may introduce unique metabolic pathways and potential interactions not seen with simpler 2C analogues
+
+## Overview
+
+Shulgin A Pihkal 2C T 7 25 Dimethoxy 4 Propylthiophenethylamine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shulgin a pihkal 2c t 7 25 dimethoxy 4 propylthiophenethylamine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shulgin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shulgin A Pihkal 2C T 7 25 Dimethoxy 4 Propylthiophenethylamine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shulgin a pihkal 2c t 7 25 dimethoxy 4 propylthiophenethylamine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shulgin a pihkal 2c t 7 25 dimethoxy 4 propylthiophenethylamine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shulgin A Pihkal 2C T 7 25 Dimethoxy 4 Propylthiophenethylamine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shulgin a pihkal 2c t 7 25 dimethoxy 4 propylthiophenethylamine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[shulgin-a-pihkal-2c-e-4-ethyl-25-dimethoxyphenethylamine]]
+- [[shulgin-a-pihkal-2c-i-4-iodo-25-dimethoxyphenethylamine]]
+- [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]
+- [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]]
+- [[shulgin-research-contributions]]

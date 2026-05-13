@@ -9,16 +9,16 @@ sources: []
 
 # Natural Pest Deterrents
 
-Natural pest deterrents are non-synthetic substances and homemade preparations used to repel, disable, or kill insect pests, [[bloomfield-fungal-pathogens-and-parasites]], and other garden problems. They are essential tools [[hamilton-kelp-and-seaweed-in-organic-gardening]] and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM). While generally safer than synthetic pesticides, natural deterrents should still be used judiciously to avoid harming [[hamilton-beneficial-insects-and-biological-pest-control]].
+Natural pest deterrents are non-synthetic substances and homemade preparations used to repel, disable, or kill insect pests, fungal pathogens, and other garden problems. They are essential tools in organic gardening and integrated pest management (IPM). While generally safer than synthetic pesticides, natural deterrents should still be used judiciously to avoid harming beneficial insects.
 
 ## Neem Oil
 
-Neem oil is extracted from the seeds of the neem tree ([[azadirachta-indica]]). The active compound, azadirachtin, disrupts insect hormone systems, preventing molting, feeding, and reproduction. It also acts as a repellent and antifeedant.
+Neem oil is extracted from the seeds of the neem tree (Azadirachta indica). The active compound, azadirachtin, disrupts insect hormone systems, preventing molting, feeding, and reproduction. It also acts as a repellent and antifeedant.
 
 ### Uses
 
 - Controls: aphids, whiteflies, thrips, spider mites, scale insects, Japanese beetles, squash bugs, cucumber beetles, leafminers
-- Fungal suppression: [[cervantes-powdery-mildew-prevention-treatment]], black spot, rust (when used as a foliar spray)
+- Fungal suppression: powdery mildew, black spot, rust (when used as a foliar spray)
 - Repels: mosquitoes, flea beetles, cabbage worms
 
 ### Application
@@ -27,7 +27,7 @@ Neem oil is extracted from the seeds of the neem tree ([[azadirachta-indica]]). 
 - **Timing**: Apply in the evening (neem can burn foliage in direct sun; also, many pests feed at night)
 - **Frequency**: Every 7-14 days for prevention; every 5-7 days for active infestations
 - **Coverage**: Spray thoroughly, including leaf undersides, stems, and growing tips
-- **Caution**: Neem is broad-spectrum — it can harm [[beneficial-insects-cannabis]] if they are directly contacted. Spray only affected plants, not the entire garden. Avoid spraying flowers (protects pollinators).
+- **Caution**: Neem is broad-spectrum — it can harm beneficial insects if they are directly contacted. Spray only affected plants, not the entire garden. Avoid spraying flowers (protects pollinators).
 
 ### Limitations
 
@@ -57,7 +57,7 @@ Diatomaceous earth is a fine powder made from fossilized aquatic organisms (diat
 
 - **Use food-grade DE only**: Pool-grade DE contains crystalline silica, which is a respiratory hazard. Food-grade (amorphous) DE is safe for garden use.
 - **Wear a dust mask**: DE dust is irritating to lungs. Wear an N95 mask when applying.
-- **Harms beneficial insects**: DE kills all insects it contacts, including ladybugs, bees, and [[ground-beetles-carabidae-and-biological-pest-control]]. Apply selectively, not broadly.
+- **Harms beneficial insects**: DE kills all insects it contacts, including ladybugs, bees, and ground beetles. Apply selectively, not broadly.
 - **Avoid flowers**: Do not apply to open flowers where pollinators visit.
 - **Less effective in high humidity**: DE absorbs moisture from insects; in very humid conditions, it works more slowly.
 
@@ -141,9 +141,10 @@ Sprayed as a particle film that coats plant foliage, creating a physical barrier
 
 A soil bacterium that produces proteins toxic to specific insect groups when ingested.
 
-- **Bt kurstaki (Btk)**: Toxic to caterpillars (cabbage worms, hornworms, loopers, [[fukuoka-textdoc-invasive-pest-quarantine-medfly-codling-moth]]). Apply to foliage; caterpillars must eat treated leaves.
-- **Bt israelensis (Bti)**: Toxic to mosquito and fungus gnat larvae. Apply to standing water or soil.
-- **Application**: Follow label directions. Spray in the evening (UV degrades Bt). Apply when caterpillars are small for best results.
-- **Safety**: Extremely specific — harms only the target insect group. Safe for humans, beneficial insects, and pollinators.
+## See Also
 
-### Spinosad
+- [[natural-beekeeping-practices]]
+- [[fukuoka-rice-and-barley-natural-farming]]
+- [[natural-building-overview]]
+- [[fukuoka-natural-farming-philosophy-five-principles]]
+- [[natural-farming-do-nothing-philosophy]]

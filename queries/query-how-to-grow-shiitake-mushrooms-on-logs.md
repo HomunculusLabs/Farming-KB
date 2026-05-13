@@ -14,7 +14,7 @@ type: query
 
 ## Short Answer
 
-Growing shiitake mushrooms on logs involves inoculating freshly cut hardwood logs with [[cuthill-mushroom-spawn-preparation-historical]], allowing the mycelium to colonize the wood over several months, and then inducing fruiting through soaking or seasonal temperature changes. This low-tech, natural method produces high-quality mushrooms and can yield harvests for several years from a single log. The process is well-documented in classical [[lentinula-edodes]]) is a primary wood decomposer that thrives on a variety of hardwood species.
+Growing shiitake mushrooms on logs involves inoculating freshly cut hardwood logs with [[lentinula-edodes]]) is a primary wood decomposer that thrives on a variety of hardwood species.
 
 Oak is considered the gold standard due to its dense wood structure and favorable nutrient profile, but other suitable species include sugar maple, beech, ironwood, sweetgum, poplar, and alder.
 
@@ -26,11 +26,7 @@ Diameter should range from 3 to 8 inches, with 4 to 6 inches being optimal for b
 
 ### Understanding Substrate and Spawn Requirements
 
-In traditional [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]], the wood itself serves as the entire substrate. This aligns with the principles outlined in discussions of stamets-spawn-making-and-grain-culture techniques helps ensure you start with vigorous, genetically robust, contaminant-free inoculum that will establish rapidly in the wood.
-
-### Tools and Materials Needed
-
-Before beginning inoculation, gather all necessary equipment and supplies. You will need a high-speed drill with the appropriate bit size for your spawn type: 5/16 inch for dowels, or 12mm (7/16 inch) for [[growing-gourmet-sawdust-spawn-production-use]].
+In traditional [[growing-gourmet-sawdust-spawn-production-use]].
 
 Additional supplies include a spawn inoculation tool or your thumb for packing sawdust, food-grade cheese wax or specialist mushroom wax, and a small crockpot or double boiler to melt the wax.
 
@@ -46,7 +42,7 @@ Immediately after drilling, fill each hole tightly with spawn, ensuring no air g
 
 Seal every inoculation point promptly with melted wax to lock in moisture and exclude airborne contaminants. Work efficiently to minimize the time between drilling and sealing.
 
-For growers interested in alternatives to individual [[growing-gourmet-outdoor-log-inoculation-techniques]], [[stamets-shiitake-fruiting-management]].
+For growers interested in alternatives to individual [[stamets-shiitake-fruiting-management]].
 
 After soaking, stand logs upright in a fruiting area and expect mushroom pins to appear within 7 to 14 days. Mushrooms are ready to harvest when the caps have fully expanded but the margins are still slightly curled under.
 
@@ -89,17 +85,7 @@ Some growers successfully combine both approaches, using logs for seasonal outdo
 - Select fresh hardwood logs (3 to 8 inches diameter), with oak being the preferred species for stamets-spawn-making-and-grain-culture methods to ensure vigorous colonization
 - Drill holes in a diamond or spiral pattern, pack tightly with spawn, and seal each hole with wax immediately to prevent contamination
 - Allow 6 to 18 months for full colonization in a shaded, humid environment before expecting mushrooms
-- Force fruiting by submerging colonized logs in cold water for 12 to 24 hours following [[strain-selection-development]] principles
-- Expect 3 to 6 years of production per log with 2 to 4 flushes per year under proper management
-- Allow logs to rest for 6 to 8 weeks between forced fruiting cycles to let mycelium recover energy
-
-## Related
-
-- [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
-- [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
+- Force fruiting by submerging colonized logs in cold water for 12 to 24 hours following [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
 - [[query-how-to-grow-mushrooms-on-logs-at-home]]
-- [[query-how-do-i-grow-cordyceps-mushrooms]] Questions
-
-- stamets-shiitake-and-stropharia-cultivation
 - [[synthetic-log-mushroom-cultivation]]
 - [[stamets-species-sequencing-recycling-substrates]]

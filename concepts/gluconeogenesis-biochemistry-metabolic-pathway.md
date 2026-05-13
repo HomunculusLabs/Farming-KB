@@ -2,41 +2,7 @@
 title: "Gluconeogenesis"
 created: 2026-04-28
 updated: 2026-05-06
-description: "Gluconeogenesis is the [[psilocybin-biosynthetic-metabolic-pathway]] by which glucose is synthesized from non-carbohydrate precursors such as lactate, glycerol, and glucogenic amino acids. It occurs primarily in the liver and renal cortex and is essential for maintaining blood glucose levels during fasting, starvation, and intense exercise."
-tags:
-  - biochemistry
-  - metabolism
-  - metabolic-pathway
-  - glucose-homeostasis
-  - endocrinology
-  - clinical-biochemistry
-related:
-  - glycolysis
-  - cori-cycle
-  - glycogenolysis
-  - glycogenesis
-  - citric-acid-cycle
-  - pyruvate-metabolism
-  - insulin-signaling
-  - glucagon-signaling
-  - diabetes-mellitus
-  - hypoglycemia
-type: concept
-sources:
-  - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
----
-
-## Overview and Biological Significance
-
-Gluconeogenesis (GNG) is the biosynthetic pathway that produces glucose from non-carbohydrate carbon substrates. It is not a simple reversal of glycolysis — although it shares seven reversible enzymatic steps, it bypasses three thermodynamically irreversible glycolytic reactions through four distinct enzymes. The pathway consumes 6 ATP equivalents (4 ATP + 2 GTP) per glucose synthesized, making it energetically expensive and tightly regulated.
-
-GNG is indispensable for survival. The human brain consumes approximately 120 g of glucose per day and has minimal capacity to use alternative fuels under normal conditions. Hepatic glycogen stores (~70-100 g) are depleted within 12-18 hours of fasting, after which gluconeogenesis becomes the sole source of endogenous glucose. During prolonged starvation (>5 days), renal cortex gluconeogenesis can contribute up to 40% of total glucose production. The pathway also maintains glucose supply during intense exercise, when muscle glycogenolysis generates lactate that must be recycled.
-
-## Pathway Steps and Key Enzymes
-
-### 1. Pyruvate to Oxaloacetate (Pyruvate Carboxylase)
-
-Pyruvate carboxylase (PC), a mitochondrial enzyme, carboxylates pyruvate to oxaloacetate (OAA) using ATP and bicarbonate. PC requires biotin as a covalently bound cofactor and acetyl-CoA as a potent allosteric activator. Acetyl-CoA signals a high-energy, low-carbohydrate state (e.g., beta-oxidation of [[adenosine-triphosphate-and-cellular-energy]] and suppressing GNG.
+description: "Gluconeogenesis is the [[adenosine-triphosphate-and-cellular-energy]] and suppressing GNG.
 - **Fructose-2,6-bisphosphate (F2,6BP)** is the most potent regulator of the FBPase-1/PFK-1 pair: it activates PFK-1 and inhibits FBPase-1, strongly suppressing GNG.
 - **ATP and citrate** activate FBPase-1, promoting GNG when energy is abundant.
 
@@ -44,18 +10,7 @@ Pyruvate carboxylase (PC), a mitochondrial enzyme, carboxylates pyruvate to oxal
 
 - **Glucagon** (fasting hormone): Stimulates GNG via cAMP-dependent protein kinase A (PKA) signaling. PKA phosphorylates and inactivates the bifunctional enzyme PFK-2/FBPase-2, reducing F2,6BP levels (de-repressing FBPase-1). Glucagon also induces transcription of PEPCK and G6Pase genes via CREB.
 - **Insulin** (fed hormone): Suppresses GNG by promoting dephosphorylation of PFK-2/FBPase-2 (increasing F2,6BP), repressing PEPCK and G6Pase gene transcription via FOXO1 inhibition, and stimulating phosphofructokinase activity. Insulin's action is rapid (allosteric) and sustained (transcriptional).
-- **Cortisol** ([[abscisic-acid-plant-stress-hormone]]): Enhances GNG during prolonged fasting and stress by inducing PEPCK and G6Pase gene expression. Cortisol also promotes muscle proteolysis, increasing amino acid supply for GNG. Its effects are permissive and synergistic with glucagon.
-- **Epinephrine**: Activates GNG via beta-adrenergic/cAMP mechanisms similar to glucagon, particularly important during acute stress and exercise.
-
-## Substrate Cycling and Futile Cycles with Glycolysis
-
-Gluconeogenesis and glycolysis can operate simultaneously in hepatocytes, creating a substrate cycle (futile cycle) that hydrolyzes ATP and GTP without net flux. While this appears wasteful, controlled substrate cycling provides metabolic flexibility: it allows rapid switching between pathways in response to hormonal signals, generates heat (non-shivering thermogenesis), and fine-tunes metabolite concentrations. The primary site of futile cycling is at the F6P/F1,6BP interconversion (PFK-1 vs. FBPase-1). The magnitude of this cycle is controlled by F2,6BP — high F2,6BP suppresses the cycle by inhibiting FBPase-1.
-
-## Tissue-Specific Aspects
-
-### Liver
-
-The liver is the primary site of gluconeogenesis, contributing approximately 80-90% of endogenous glucose production in the postabsorptive state. Hepatocytes express all four GNG-specific enzymes and possess the full enzymatic machinery. The liver's large size, high [[arbuscule-isolation-metabolic-activity-assays]], and direct portal blood supply (absorbing lactate and alanine from the intestine) make it ideally suited.
+- **Cortisol** ([[arbuscule-isolation-metabolic-activity-assays]], and direct portal blood supply (absorbing lactate and alanine from the intestine) make it ideally suited.
 
 ### Kidney Cortex
 
@@ -82,43 +37,91 @@ The small intestine contributes to GNG, particularly in the postprandial period.
 
 ### Diabetes Mellitus
 
-In type 2 diabetes, hepatic gluconeogenesis is inappropriately elevated despite hyperinsulinemia and hyperglycemia. Hepatic insulin resistance at the transcriptional level fails to suppress PEPCK and G6Pase expression, while increased circulating glucagon and free [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] (providing acetyl-CoA and glycerol) further drive GNG. Metformin, the first-line oral antidiabetic, partially acts by inhibiting hepatic GNG through AMPK activation and mitochondrial complex I inhibition. The contribution of excessive GNG to fasting hyperglycemia in type 2 diabetes can exceed 60%.
+In type 2 diabetes, hepatic gluconeogenesis is inappropriately elevated despite hyperinsulinemia and hyperglycemia. Hepatic insulin resistance at the transcriptional level fails to suppress PEPCK and G6Pase expression, while increased circulating glucagon and free [[mycorrhiza]]
+- [[psilocybin-biosynthetic-metabolic-pathway]]
+- [[cannabis-metabolic-syndrome-research]]
 
-### Fasting and Starvation
+## Overview
 
-During the transition from the fed to the fasted state, a well-orchestrated hormonal shift (declining insulin, rising glucagon and cortisol) activates GNG. After glycogen depletion (~18 hours), GNG provides all endogenous glucose. By 3-5 days of starvation, GNG shifts toward glycerol and glutamine as the primary substrates, as muscle proteolysis decreases to conserve protein.
+Gluconeogenesis Biochemistry Metabolic Pathway represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gluconeogenesis biochemistry metabolic pathway
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gluconeogenesis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Gluconeogenesis Biochemistry Metabolic Pathway finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gluconeogenesis biochemistry metabolic pathway. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gluconeogenesis biochemistry metabolic pathway and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Gluconeogenesis Biochemistry Metabolic Pathway has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of gluconeogenesis biochemistry metabolic pathway into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[mycorrhiza]]
-- [[primary-metabolic-precursors-to-the-shikimate-pathway]]
-- [[psilocybin-biosynthetic-metabolic-pathway]]
-- [[cannabis-for-diabetes-and-metabolic-syndrome]]
-- [[cannabis-metabolic-syndrome-research]]
+
+- [[azo-dye-degradation-biochemistry]]
+- [[biochemistry-of-ligninolytic-fungi-bioremediation]]
+- [[fenton-reaction-chemistry-and-biochemistry]]
+- [[protein-folding-and-misfolding-diseases-biochemistry]]
+- [[urea-cycle-biochemistry]]

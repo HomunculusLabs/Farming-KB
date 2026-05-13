@@ -27,10 +27,7 @@ or forestry research centres.
 
 ## Benefits of Tree Integration
 
-The [[query-benefits-of-integrating-chickens-into-permaculture]] trees into farm systems are
-numerous and well-documented:
-
-- Trees provide forages [[gardening-in-hard-times]] for livestock and
+The [[gardening-in-hard-times]] for livestock and
   wildlife
 - Variation of product buffers economic changes in prices
 - A more assured income from tree crops, coupled with wider
@@ -52,8 +49,7 @@ sheep or geese.
 
 Many trees are hostile to pasture, competing for water or
 nutrients (forest eucalypts, some pines), while others are less
-competitive (Acacia melanoxylon, [[eucalyptus-camaldulensis]],
-Grevillea robusta, [[permaculture-honey-locust-pod-fodder-system]]). Trees such as poplar, fig,
+competitive (Acacia melanoxylon, [[permaculture-honey-locust-pod-fodder-system]]). Trees such as poplar, fig,
 willow, chestnut, oak, and pine may all provide forage and
 other products in the medium term.
 
@@ -63,12 +59,7 @@ Woodlots are planted primarily for forest yields, and although
 they provide shelter and some browse for livestock, are usually
 less integrated with livestock. Woodlot types include:
 
-- Firewood production on a 2-7 [[jeavons-garden-planning-four-year-rotation]]. Species chosen
-  for persistent coppice and good fuel value include tagasaste,
-  Acacia species, Casuarina, and eucalypt species.
-- Polewood production for fencing, house, and furniture
-  construction. Durable timbers include chestnut, raspberry jam
-  acacia, [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]], black or [[comparison-black-locust-vs-honey-locust]], and cedars.
+- Firewood production on a 2-7 [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]], black or [[comparison-black-locust-vs-honey-locust]], and cedars.
 - Long-term fine timbers such as black walnut, oak, rosewood,
   fine cedars, redwoods, and blackwood, planted as retirement
   trusts for farmers or their families.

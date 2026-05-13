@@ -52,13 +52,7 @@ skill for a profitable mushroom farm.
 of crop loss, especially for beginners. Learning to prepare clean
 [substrate, handle [grain spawn
 handle
-mushroom-grain-spawn-preparation|grain  without introducing competitors, and maintain clean working conditions will determine your success rate. The [[mushroom-contaminant-identification-key]] key
-without introducing competitors, and maintain clean working conditions will
-determine your success rate. The
-identification helps you quickly recognize problems before they spread to
-healthy cultures.
-
-For [[substrate-preparation]], many small farms use straw or [[oyster-mushroom-supplemented-sawdust-blocks]]
+mushroom-grain-spawn-preparation|grain  without introducing competitors, and maintain clean working conditions will determine your success rate. The [[substrate-preparation]], many small farms use straw or [[oyster-mushroom-supplemented-sawdust-blocks]]
 depending on the species. The
 [straw cultivation method cultivation is
 popular for oyster mushrooms because it is inexpensive and relatively simple.
@@ -108,13 +102,9 @@ growing house.
 
 ## Related
 
-- [[query-how-to-start-a-worm-farm-for-profit]]
 - [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
 
 - query-how-do-i-start-a-small-home-vineyard-for-table-grapes
 
-- [[query-how-to-start-a-small-scale-snail-farm]]
-
 - [[query-how-to-start-growing-mushrooms-at-home]]
-[[mushroom-market-and-economics]]
 [[mushroom-foraging-safety-guide]]

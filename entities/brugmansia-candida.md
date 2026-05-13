@@ -29,9 +29,7 @@ Like all members of the genus, Brugmansia candida contains potent tropane alkalo
 
 ## Taxonomy and Morphology
 
-Brugmansia candida (Pers.) Saff. was first described as [[datura-candida]] by Christiaan Hendrik Persoon in 1805. Robert Everard Woodson transferred it to the genus Brugmansia in 1933, based on its woody growth habit and pendulous flowers.
-
-It belongs to the tribe Datureae within Solanaceae, closely related to the herbaceous Datura species. The genus Brugmansia comprises approximately seven species, all native to [[guzman-psilocybin-mushrooms-south-america]] and all containing tropane alkaloids.
+Brugmansia candida (Pers.) Saff. was first described as [[guzman-psilocybin-mushrooms-south-america]] and all containing tropane alkaloids.
 
 The plant forms a large shrub or small tree reaching 3–5 meters in height, occasionally up to 8 meters. The branches are thick, fissured, and covered with a dense layer of soft, velvety trichomes. Young stems are green and densely tomentose, becoming woody and gray-brown with age.
 
@@ -47,11 +45,9 @@ The fruit is an elongated, fusiform capsule 8–15 cm long containing numerous s
 
 Brugmansia candida is native to the Andean valleys of southern Ecuador, Peru, and western Bolivia, growing at elevations of 1,000–3,000 meters. It thrives in moist, montane forest edges and along stream banks in cloud forest zones.
 
-The species has been widely naturalized in tropical and subtropical regions worldwide. Established populations exist [[neurotropic-fungi-in-central-america]], the Caribbean, Hawaii, [[psilocybe-southeast-asia-pacific]], East Africa, and parts of Australia and New Zealand.
+The species has been widely naturalized in tropical and subtropical regions worldwide. Established populations exist [[psilocybe-southeast-asia-pacific]], East Africa, and parts of Australia and New Zealand.
 
-Naturalized populations often occur near human settlements, suggesting that spread has been facilitated by intentional cultivation. In some areas, particularly [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], the species has become invasive along stream banks and disturbed forest margins.
-
-It prefers well-drained, fertile soils rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] with consistent moisture. The plant tolerates partial shade but flowers most profusely in full sun. It is sensitive to frost and is hardy only in USDA zones 9–11.
+Naturalized populations often occur near human settlements, suggesting that spread has been facilitated by intentional cultivation. In some areas, particularly [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] with consistent moisture. The plant tolerates partial shade but flowers most profusely in full sun. It is sensitive to frost and is hardy only in USDA zones 9–11.
 
 In its native range, Brugmansia candida is pollinated by long-tongued moths and hummingbirds. The nocturnal fragrance of the flowers intensifies after dusk, attracting sphinx moths that transfer pollen between plants.
 
@@ -59,21 +55,9 @@ The species also reproduces vegetatively in the wild, with branches that contact
 
 ## Cultivation and Uses
 
-Brugmansia candida is primarily cultivated as an ornamental plant for its dramatic, fragrant flowers. It is a popular specimen plant in tropical gardens, conservatories, and as a container plant in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] where it is overwintered indoors.
+Brugmansia candida is primarily cultivated as an ornamental plant for its dramatic, fragrant flowers. It is a popular specimen plant in tropical gardens, conservatories, and as a container plant in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Pruning in [[query-how-to-grow-and-use-oca-in-temperate-climates]], plants are container-grown and moved indoors before first frost.
 
-Propagation is typically by semi-hardwood cuttings, which root readily in moist perlite or sand. Seeds are also viable but require stratification and can take several weeks to germinate. Cultivars include double-flowered and variegated-leaf forms.
-
-Regular fertilization with a balanced, high-phosphorus formula promotes abundant flowering during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Pruning in [[coleman-overwintered-onions-and-early-spring-crops]] helps maintain shape and encourages branching. [[query-how-to-grow-and-use-oca-in-temperate-climates]], plants are container-grown and moved indoors before first frost.
-
-In traditional Andean medicine, Brugmansia species have been used externally to treat arthritis, rheumatism, and skin infections. Preparations are applied as poultices or incorporated into baths. Internal use is extremely dangerous due to the narrow [[cannabis-therapeutic-index-overview]] of tropane alkaloids.
-
-The plant is listed as Appendix I of CITES, prohibiting international trade of wild-collected specimens. All commercially available plants are nursery-propagated. Several Brugmansia species are considered extinct in the wild, and B. candida is among those with threatened natural populations.
-
-## Bioactive Compounds and Pharmacology
-
-The primary tropane alkaloids found in Brugmansia candida are scopolamine (hyoscine), hyoscyamine, and atropine. Scopolamine is typically the dominant alkaloid in leaf and flower tissues, while hyoscyamine predominates in roots and stems.
-
-Scopolamine is a competitive antagonist of muscarinic acetylcholine receptors. At therapeutic doses it reduces smooth muscle spasms, secretions, and [[blesching-cannabis-motion-sickness]]. At toxic doses it causes the classic anticholinergic syndrome: dry mouth, dilated pupils, tachycardia, urinary retention, hyperthermia, and delirium.
+In traditional Andean medicine, Brugmansia species have been used externally to treat arthritis, rheumatism, and skin infections. Preparations are applied as poultices or incorporated into baths. Internal use is extremely dangerous due to the narrow [[blesching-cannabis-motion-sickness]]. At toxic doses it causes the classic anticholinergic syndrome: dry mouth, dilated pupils, tachycardia, urinary retention, hyperthermia, and delirium.
 
 Hyoscyamine is the levorotatory enantiomer of atropine and has similar anticholinergic pharmacology. Both alkaloids cross the blood-brain barrier, producing central nervous system effects including hallucinations, agitation, and in severe cases, seizures and coma.
 
@@ -88,3 +72,79 @@ The onset of symptoms typically occurs within 30–60 minutes of ingestion. Reco
 Brugmansia candida has been used in shamanic and ritual contexts by indigenous peoples of the Andes for centuries. The flowers and leaves are prepared as infusions or smoked to induce visionary states during healing ceremonies and divination rituals.
 
 In Ecuadorian and Peruvian traditional medicine, the plant is known as "huacacachu" or "floripondio." Healers use it cautiously in externally applied preparations, recognizing its dangerous properties. Oral ingestion of any part of the plant is strongly discouraged in traditional practice as well.
+
+## Overview
+
+Brugmansia Candida represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish brugmansia candida
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving brugmansia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Brugmansia Candida finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for brugmansia candida. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+brugmansia candida and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Brugmansia Candida has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of brugmansia candida into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

@@ -20,14 +20,7 @@ Growing your own salad vegetables is particularly beneficial because
 their quality and flavor depends on freshness. They take up
 comparatively little space and most can be grown all year-round if
 some protection against frost is provided. Salad crops are fast-growing
-and are not usually troubled by many [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. They all
-require a moisture-retentive soil.
-
-## Choosing Salad Vegetables
-
-Salad vegetables deteriorate rapidly after harvesting. Leaf crops are
-not nearly as crisp and fresh when bought from a shop compared to
-those picked fresh from the garden. [[growing-sweet-corn-organically]] starts to turn its
+and are not usually troubled by many [[growing-sweet-corn-organically]] starts to turn its
 sugar into starch the very instant it is picked. Growing your own
 salads ensures peak quality and flavor that cannot be matched by
 store-bought produce.
@@ -55,40 +48,11 @@ well suited to organic cultivation and grows readily in most gardens.
 
 This distinctive form of lettuce has crinkle-edged leaves that are
 tinged with red. Like the other lettuces, it is a suitable crop for
-growing in the [[hamilton-three-year-crop-rotation]], which receives single digging and application of blood, fish, and bone meal. They generally do well without the addition of extra fertilizer, though moisture retention is key. Adding [[hamilton-cloches-and-frost-protection]] and in
-[[hamilton-organic-fertilizers-and-plant-nutrition]].
-
-## Pest and Disease Management
-
-Salad crops are relatively trouble-free in the organic garden. The
-main threats are [[query-how-to-get-rid-of-slugs-and-snails-organically]], which can be managed through
+growing in the [[hamilton-cloches-and-frost-protection]] and in
+[[query-how-to-get-rid-of-slugs-and-snails-organically]], which can be managed through
 physical barriers, hand-picking, and encouraging natural predators.
 Aphids occasionally affect lettuce but are generally less problematic
-than on other crops. Good [[hamilton-fruit-vegetables-organic]] Topics
-
-- [[hamilton-cloches-and-frost-protection]]
-- [[hamilton-container-raised-bed-gardening]]
-## Practical Considerations
-
-Successful implementation of Salad Vegetables Organic Growing requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
+than on other crops. Good [[hamilton-cloches-and-frost-protection]]
 - [[hamilton-pod-seed-vegetables-organic]]
 
 ## Practical Applications
@@ -120,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[lactuca-sativa]]
-- [[hamilton-fruit-vegetables-organic]]
 - [[hamilton-bulb-vegetables-onion-family-organic]]
 - [[hamilton-pod-seed-vegetables-organic]]

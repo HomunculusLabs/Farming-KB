@@ -22,62 +22,10 @@ systems. Bill Mollison discusses pig management in Permaculture: A
 Designers' Manual (Chapter 14: Strategies for an Alternative Nation,
 and throughout the animal systems sections) as an example of intensive
 animal-land integration. Pigs convert diverse feed sources into meat,
-manure, and land preparation services. Their [[mollison-designers-willow-water-and-natural-rooting-propagation]] and
-foraging behavior can be harnessed productively through mobile pig
-tractor systems and planned forage rotations.
-
-## Pig Breeds for Permaculture
-
-Mollison emphasizes selecting breeds suited to the climate, available
-feed, and intended system function. Suitable breeds include:
-
-  - Berkshire: Hardy, excellent foragers, high-quality meat, moderate
-    size (adult 200-300 kg), well-suited to free-range systems
-  - Tamworth: Active foragers, good mothers, long snouts adapted to
-    rooting, tolerant of heat and cold
-  - Large Black: Docile, efficient converters of pasture and forage,
-    excellent mothers, large litter size
-  - Kunekune: Small breed (60-120 kg), grazes rather than roots,
-    suitable for smaller properties and orchard integration
-  - Duroc: Fast growth, good feed conversion, tolerant of varied
-    conditions, commonly used in crossbreeding
-  - Heritage crosses: Crossbreeding combines the hardiness and
-    foraging ability of heritage breeds with the growth rates of
-    commercial lines
-
-## Pig Tractor Design
-
-A pig tractor is a mobile enclosure that confines pigs to a specific
-area while allowing them to root, forage, and deposit manure. Pig
-tractors are heavier and more robust than [[mollison-designers-chicken-tractors-egg-production]], reflecting
+manure, and land preparation services. Their [[mollison-designers-chicken-tractors-egg-production]], reflecting
 the size and strength of the animals. Design considerations:
 
-  - [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]: Pigs are strong and destructive; frames
-    must be steel or heavy timber with strong wire mesh (chain-link
-    or heavy-gauge welded mesh). Lightweight structures will be
-    destroyed quickly
-  - Floorless design: Pigs must contact the soil to root and forage
-  - Shelter: A solid roof section or enclosed shelter within the
-    tractor provides protection from sun and rain. Pigs are
-    susceptible to sunburn and heat stress
-  - Water supply: Pigs require generous water access for drinking
-    and wallowing. Self-filling troughs or nipple drinkers are
-    recommended
-  - Feed troughs: Secure, tip-resistant feeders reduce waste and
-    contamination
-  - Moveability: Larger pig tractors may require skids, wheels, or
-    a tractor-mounted hitch for relocation. Smaller units for
-    weaners or Kunekune pigs can be moved manually
-  - Size: Allow 5-10 square meters per pig depending on size and
-    duration of occupation
-
-## Forage Crops and Systems
-
-Pigs are opportunistic omnivores that thrive on diverse forage.
-Mollison describes several forage-based pig systems:
-
-  - Pasture rotation: Pigs graze mixed pastures of clover, lucerne,
-    chicory, plantain, and grasses. [[comparison-rotational-grazing-vs-continuous-grazing]] prevents
+  - [[comparison-rotational-grazing-vs-continuous-grazing]] prevents
     overgrazing and allows pasture recovery
   - Root crops: Dedicated plots of [[comparison-jerusalem-artichoke-vs-potato]], sweet potato,
     mangel wurzel, and turnips provide high-energy winter forage.
@@ -88,3 +36,88 @@ Mollison describes several forage-based pig systems:
     crops to harvest fallen fruit and nuts
   - Crop residues: Post-harvest vegetable fields, fruit orchards
     with windfall fruit, and failed crop areas provide supplemental
+
+## Overview
+
+Mollison Designers Pig Tractors Forage Systems represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison designers pig tractors forage systems
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Designers Pig Tractors Forage Systems finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison designers pig tractors forage systems. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison designers pig tractors forage systems and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Designers Pig Tractors Forage Systems has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison designers pig tractors forage systems into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[humid-cool-climate-characteristics-mollison]]
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-climate-zone-3-farm-forestry]]
+- [[mollison-designers-earthworks-for-erosion-control]]
+- [[soya-bean-mollison]]

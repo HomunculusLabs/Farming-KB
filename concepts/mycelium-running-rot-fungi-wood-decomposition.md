@@ -8,21 +8,13 @@ sources: [papers/mycelium-running-stamets.md]
 ---
 # Rot Fungi and Wood Decomposition
 
-Source: [[woodlovers-mycelium-running-pathway-technique]] by Paul Stamets (2005), Chapters 3, 6-7
-
-updated: 2026-04-18
-
-## Overview
-
-Fungi are the grand recyclers of the planet, the mycomagicians disassembling large organic molecules into simpler forms that nourish other members of the ecological community. [[growing-gourmet-saprophytic-mushrooms-decomposers]] -- the decomposers -- steer the course for proliferating biological communities, shaping and forming the first menus in the food web from dead plants, insects, and other animals. Most gourmet and medicinal mushrooms are wood decomposers.
+Source: [[growing-gourmet-saprophytic-mushrooms-decomposers]] -- the decomposers -- steer the course for proliferating biological communities, shaping and forming the first menus in the food web from dead plants, insects, and other animals. Most gourmet and medicinal mushrooms are wood decomposers.
 
 ## Classification of Decomposers
 
 Saprophytic mushrooms can be separated into three groups based on their position in the decomposition sequence:
 
-**Primary Decomposers:** Typically the first to grow on fresh debris -- twigs, wood chips, logs, stumps, or dead insects. They are fast-growing, sending out rapidly extending strands of mycelium. Examples include oyster mushrooms (Pleurotus species), shiitake (Lentinula edodes), and maitake ([[maitake-grifola-frondosa-comprehensive-profile]]). Different species employ different sets of enzymes to break down plant matter.
-
-**Secondary Decomposers:** Rely on the activity of primary fungi that initially break down tissues. They work in concert with actinomycetes, other bacteria, and fungi in compost piles. The white button mushroom ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]) is the classic example -- the most widely cultivated mushroom in the world. The garden giant (Stropharia rugoso-annulata) is an intermediary between primary and secondary decomposers.
+**Primary Decomposers:** Typically the first to grow on fresh debris -- twigs, wood chips, logs, stumps, or dead insects. They are fast-growing, sending out rapidly extending strands of mycelium. Examples include oyster mushrooms (Pleurotus species), shiitake (Lentinula edodes), and maitake ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]) is the classic example -- the most widely cultivated mushroom in the world. The garden giant (Stropharia rugoso-annulata) is an intermediary between primary and secondary decomposers.
 
 **Tertiary Decomposers:** Found toward the end of the decomposition process, thriving in habitats created by primary and secondary decomposers over years. They include species of Conocybe, Agrocybe, Mycena, Pluteus, and Agaricus. They rely upon highly complex microbial environments.
 
@@ -49,9 +41,7 @@ White rot fungi are more numerous than brown rotters. They produce enzymes that 
 White rot examples include:
 - Oyster mushroom (Pleurotus ostreatus)
 - Maitake (Grifola frondosa)
-- Turkey tail ([[staycare-trametes-versicolor-bioremediation-applications]])
-- Artist conk (Ganoderma applanatum)
-- Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]])
+- Turkey tail ([[stamets-reishi-ganoderma-lucidum-cultivation]])
 - Shiitake (Lentinula edodes)
 
 ## Enzymatic Power
@@ -78,6 +68,82 @@ Some fungi initially act as parasites, killing their hosts, and then act like sa
 
 - brown-rot-fungi-biodegradation
 - lignin-degradation-mechanisms-wood-rot-fungi
-- [[fungal-decomposition]]
 - [[fungal-decomposition-processes]]
 - [[gourmet-mushroom-species-guide]]
+
+## Overview
+
+Mycelium Running Rot Fungi Wood Decomposition represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycelium running rot fungi wood decomposition
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycelium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycelium Running Rot Fungi Wood Decomposition finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycelium running rot fungi wood decomposition. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycelium running rot fungi wood decomposition and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycelium Running Rot Fungi Wood Decomposition has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycelium running rot fungi wood decomposition into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

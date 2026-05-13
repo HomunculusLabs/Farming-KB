@@ -9,7 +9,7 @@ sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-c
 
 # Soil Microscope Analysis
 
-Direct [[fungal-microscopic-examination-mounting-media-techniques]] of soil [[ingham-actinomycetes-soil-biology-and-compost-tea]] is the primary tool for assessing soil biology health. Elaine Ingham's Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
+Direct microscopic examination of soil and compost tea is the primary tool for assessing soil biology health. [[elaine-ingham]]'s Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
 
 ## Equipment Needed
 
@@ -62,7 +62,7 @@ Direct [[fungal-microscopic-examination-mounting-media-techniques]] of soil [[in
 
 ### Interpretation
 - Protozoa graze on bacteria, releasing plant-available nitrogen
-- 10,000-100,000 protozoa per gram of soil = good [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
+- 10,000-100,000 protozoa per gram of soil = good nutrient cycling
 - Low protozoa = nutrients are locked up in bacterial biomass
 
 ## Nematode Assessment
@@ -82,7 +82,7 @@ Direct [[fungal-microscopic-examination-mounting-media-techniques]] of soil [[in
 ## Compost Tea Assessment
 
 ### Method
-1. Take 1 mL of [[actively-aerated-compost-tea]] compost tea
+1. Take 1 mL of [[actively-aerated-compost-tea]]
 2. Place on slide, cover, examine at 400x
 3. Look for: active bacterial movement, fungal hyphae length, protozoa types
 
@@ -98,35 +98,7 @@ Direct [[fungal-microscopic-examination-mounting-media-techniques]] of soil [[in
 - No visible fungal hyphae (inadequate fungal food sources)
 - Foul smell (anaerobic)
 
-## Practical Application
-Soil management practices directly impact plant health, yield,
-and ecosystem resilience. Integration of organic amendments with
-biological inoculants creates self-sustaining fertility cycles
-that reduce dependence on external inputs over time.
-
-## Practical Applications
-
-These principles can be applied in permaculture design, sustainable agriculture, and ecological restoration projects. Practitioners integrate these approaches to build resilient food production systems and healthy soil ecosystems.
-
-## Key Considerations
-
-When applying these concepts, several factors warrant attention: environmental conditions, regional climate variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
-
-## See Also
-
-- [[solomon-soil-testing-laboratory-analysis-low-input-gardening]]
-- [[solomon-soil-profile-assessment-fractional-analysis-jar-test]]
-- [[soil-testing-and-analysis]]
-- [[microscope-identification-soil-organisms]]
-- [[ingham-microscope-identification-soil-biology]]
-
-## See Also
-- [[solomon-soil-testing-laboratory-analysis-low-input-gardening]]
-- [[soil-testing-and-analysis]]
-- [[ingham-field-guide-compost-tea-microscope-analysis]]
-- [[solomon-soil-profile-assessment-fractional-analysis-jar-test]]
-- [[soil-food-web-and-building-living-soil]]
 ## Related
 - [[compost-tea-recipe-guide]] — for brewing AAct
-- [[thermal-composting-vs-aact]] — for comparing [[cho-fermented-mixed-compost-methods]]
+- [[thermal-composting-vs-aact]] — for comparing compost methods
 - [[soil-food-web-structure]] — for the complete soil biology hierarchy

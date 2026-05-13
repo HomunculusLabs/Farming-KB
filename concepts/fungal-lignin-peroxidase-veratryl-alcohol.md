@@ -13,14 +13,9 @@ type: concept
 ## Overview
 
 Lignin peroxidase (LiP, EC 1.11.1.7) is a water-soluble, glycosylated
-heme enzyme secreted by [[white-rot-fungi]]. Unique among peroxidases, LiP
-can produce radical cations from non-phenolic aromatic compounds with
-redox potentials beyond the reach of [[fungal-manganese-peroxidase-remediation]] or [[laccase]].
-Veratryl alcohol (VA), a fungal metabolite co-secreted with LiP, serves
-as a crucial [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]] that extends the catalytic range of LiP.
+heme enzyme secreted by [[fungal-manganese-peroxidase-remediation]] or [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]] that extends the catalytic range of LiP.
 The LiP-veratryl alcohol system is central to fungal degradation of
-recalcitrant pollutants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons
-(PAHs), [[fungal-biodegradation-chlorinated-aromatics-and-btex]], and diverse xenobiotic compounds.
+recalcitrant pollutants including [[fungal-biodegradation-chlorinated-aromatics-and-btex]], and diverse xenobiotic compounds.
 
 ## LiP Structure and Properties
 
@@ -118,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[laccase]]
 - [[det]]
-- [[white-rot-fungi]]
 - [[eugenol]]
 - [[sterilization]]

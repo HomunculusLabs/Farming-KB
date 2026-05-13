@@ -22,20 +22,8 @@ The identity of Soma, the sacred drink described in the Hindu Vedas, has been de
 
 - **Amanita muscaria** (fly agaric mushroom) — Gordon Wasson's influential theory
 - **Psilocybin mushrooms** — Terence McKenna's proposal, emphasizing visionary states
-- **Syrian Rue** (*[[mckenna-food-gods-peganum-harmala-soma]]*) — proposed by Flattery and Schwartz, containing [[harmala-alkaloids]] (MAOIs)
-- **Opium Poppy** (*[[papaver-somniferum]]*) — noted for its linguistic connection (*Soma/Somniferum*) and euphoric properties
-
-Each candidate individually falls short of producing the full range of effects described in Vedic texts. A compelling theory suggests that Soma was not a single plant but an **admixture of multiple plants** working in synergy—similar to how ayahuasca combines DMT-containing plants with MAOI-containing plants.
-
-A medieval depiction shows five plants: four specific plants (interpreted as Amanita muscaria, Syrian Rue, Opium Poppy, and a Psilocybin mushroom) unified by a green vine representing Cannabis and other DMT-containing green plants. This five-plant combination could theoretically produce the comprehensive entheogenic experience described in ancient texts.
-
-## The Biochemistry of Plant Combinations
-
-### DMT-Pinoline Mimicry
-
-Research by Jace Callaway and others has demonstrated that traditional brews like ayahuasca combine:
-
-1. **DMT-containing plants** (e.g., *[[chacruna-psychotria-viridis]]*, *Diplopterys cabrerana*)
+- **Syrian Rue** (*[[harmala-alkaloids]] (MAOIs)
+- **Opium Poppy** (*[[chacruna-psychotria-viridis]]*, *Diplopterys cabrerana*)
 2. **MAOI-containing plants** (e.g., *Banisteriopsis caapi*, Syrian Rue / *Peganum harmala*)
 
 This combination is necessary because DMT alone is orally inactive—it is broken down by MAO enzymes in the gut before reaching the bloodstream. The MAOI plants inhibit these enzymes, allowing DMT to cross the blood-brain barrier and produce psychoactive effects.
@@ -68,17 +56,8 @@ The use of psychoactive plant combinations is found across many cultures worldwi
 
 - **Ayahuasca** in the Amazon basin combines DMT and MAOI plants
 - **Soma/Haoma** in Vedic and Zoroastrian traditions may have been a multi-plant brew
-- **Kykeon** in [[plutarch-and-cicero-on-the-eleusinian-mysteries]] of ancient Greece may have contained ergot alkaloids
-- Various **indigenous shamanic traditions** use multi-plant preparations
-
-The recurrence of plant combinations across disparate cultures suggests either independent discovery of the same pharmacological principle, or diffusion from a common ancestral practice—potentially rooted in prehistoric shamanism.
-
-## Implications for Understanding Shamanism
-
-The biochemical synergy of entheogenic plant combinations provides a material basis for understanding the shamanic "[[shamanism-death-and-rebirth]]" experience. The MAOI-DMT interaction creates a prolonged, intense visionary state that indigenous cultures interpret as a journey through death to spiritual rebirth. This experience forms the core of shamanic practice worldwide and may represent humanity's oldest spiritual technology—one that works with, rather than against, the brain's natural psychoactive chemistry.
-- [[pinoline]]
+- **Kykeon** in [[shamanism-death-and-rebirth]]" experience. The MAOI-DMT interaction creates a prolonged, intense visionary state that indigenous cultures interpret as a journey through death to spiritual rebirth. This experience forms the core of shamanic practice worldwide and may represent humanity's oldest spiritual technology—one that works with, rather than against, the brain's natural psychoactive chemistry.
 - [[dmt]]
-- [[dimethyltryptamine]]
 - [[syrian-rue]]
 - [[pineal-gland]]
 
@@ -89,3 +68,82 @@ The biochemical synergy of entheogenic plant combinations provides a material ba
 - Shamanism
 - Soma (Vedic entheogen)
 - Syrian Rue
+
+## Overview
+
+Pinoline And Entheogenic Plant Combinations represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pinoline and entheogenic plant combinations
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pinoline extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pinoline And Entheogenic Plant Combinations finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pinoline and entheogenic plant combinations. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pinoline and entheogenic plant combinations and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pinoline And Entheogenic Plant Combinations has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pinoline and entheogenic plant combinations into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

@@ -8,48 +8,7 @@ type: entity
 
 ## Description
 
-*Carpobrotus* is a genus of succulent groundcover plants in the family Aizoaceae, native primarily to South Africa, Australia, and South America. Commonly known as pigface, ice plant, or hottentot fig, these low-growing succulents are exceptionally tolerant of salt spray, drought, and poor soils. In [[permaculture]], they serve as living mulch and windbreak groundcovers in harsh coastal environments.
-
-## Classification
-
-- **Kingdom:** Plantae
-- **Family:** Aizoaceae
-- **Genus:** Carpobrotus
-- **Notable species:** C. edulis (hottentot fig), C. rossii (Native pigface), C. aequilaterus
-- **Common names:** Pigface, ice plant, hottentot fig, beach banana
-
-## Key Characteristics
-
-- **Growth habit:** Prostrate, mat-forming succulent groundcover
-- **Leaves:** Thick, fleshy, triangular in cross-section, bright green to grey-green
-- **Flowers:** Large, showy, daisy-like flowers in pink, purple, yellow, or white
-- **Fruit:** Fleshy, edible berry-like structures (the origin of the name Carpobrotus = edible fruit)
-- **Salt tolerance:** Extremely halophytic, thrives in direct salt spray zones
-- **Root system:** Fibrous, spreading, excellent for dune and soil stabilization
-
-## Edible and Medicinal Uses
-
-- **Fruit:** The fleshy fruit is edible, with a fig-like or salty-sweet flavor, eaten raw or preserved
-- **Leaves:** Juice from leaves is used traditionally as a mild antiseptic for skin conditions
-- **Traditional use:** Indigenous Australians and South African peoples used the fruit and leaf juice as food and medicine
-
-## Relevance to Cultivation and Permaculture
-
-### Coastal Windbreak Groundcover
-
-Mollison includes Carpobrotus among the tough semi-succulents used to mound over mesh fences, rock walls, and tyre walls in coastal permaculture designs. Its role includes:
-
-- Completely covering structural windbreak materials with living tissue
-- Tolerating salt spray that would destroy most garden plants
-- Providing edible fruit as a secondary yield
-- Creating dense ground-level shelter
-- Stabilizing loose sands and soils around windbreak structures
-
-### Additional Design Functions
-
-1. **Living mulch:** Dense mat suppresses weeds and retains soil moisture
-2. **Erosion control:** Essential for dune stabilization and coastal bank protection
-3. **[[edible-landscaping]]:** Dual function as ornamental and food plant
+*Carpobrotus* is a genus of succulent groundcover plants in the family Aizoaceae, native primarily to South Africa, Australia, and South America. Commonly known as pigface, ice plant, or hottentot fig, these low-growing succulents are exceptionally tolerant of salt spray, drought, and poor soils. In [[edible-landscaping]]:** Dual function as ornamental and food plant
 4. **Wildlife value:** Flowers attract pollinators; fruit feeds birds and small mammals
 5. **Fire retardancy:** High moisture content reduces fire risk
 
@@ -79,8 +38,92 @@ Mollison includes Carpobrotus among the tough semi-succulents used to mound over
 
 ## Practical Significance
 - Relevant to sustainable land management and design
-- Applications in permaculture and ecological systems
+- Applications in [[permaculture]] and ecological systems
 - Connected to broader themes of resource management
 
 ## See Also
 - [[carpobrotus-spp]]
+
+## Overview
+
+Carpobrotus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish carpobrotus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving carpobrotus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Carpobrotus finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for carpobrotus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+carpobrotus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Carpobrotus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of carpobrotus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[carpobrotus-spp]]
+
+## See Also
+- [[coastal-windbreak-systems-and-plant-wind-tolerance]]

@@ -9,11 +9,7 @@ sources: []
 
 # Ethanol Pasteurization for Selective Fungal Isolation
 
-Ethanol pasteurization is a selective technique that preferentially isolates fungi with resistant propagules — particularly ascomycetes and basidiomycetes with thick-walled spores, sclerotia, or chlamydospores — from soil. It shifts the isolated population away from rapidly growing [[mitosporic-fungi-diversity-species-estimates]] and Zygomycetes toward more resistant, often slower-growing species.
-
-## Principle
-
-Treatment of soil with 60% ethanol (or 2% phenol) kills or inactivates thin-walled, sensitive propagules (conidia of mitosporic fungi, Zygomycete sporangiospores) while allowing thick-walled resistant structures (ascospores, basidiospores, sclerotia, chlamydospores) to survive and subsequently germinate on [[agar-culture-media]].
+Ethanol pasteurization is a selective technique that preferentially isolates fungi with resistant propagules — particularly ascomycetes and basidiomycetes with thick-walled spores, sclerotia, or chlamydospores — from soil. It shifts the isolated population away from rapidly growing [[agar-culture-media]].
 
 ## What Ethanol Pasteurization Selects For
 
@@ -63,27 +59,7 @@ In Galapagos Islands study (Mahoney 1972), of 250 taxonomic entities recovered b
 
 ### Variables Affecting Results
 - **Soil texture:** Fine-textured soils sterilized more effectively than coarse
-- **[[hamilton-composting-and-organic-matter-management]]:** Plant fibers and roots can interfere with pulverization and protect propagules
-- **Soil volume:** May need trial runs to determine optimal amount
-- **Ethanol concentration:** 60% is standard; adjust for soil type
-- **Treatment time:** Standard 5 minutes; may need adjustment
-
-## Phenol Pasteurization (Alternative)
-
-### Protocol
-- Substitute 2% phenol for 60% ethanol
-- Follow same steps
-- Effective at increasing ascomycete isolations
-
-### Comparison
-- Similar selectivity to ethanol pasteurization
-- Phenol may be more effective for certain soil types
-- Both are variations of the same selective principle
-
-## Combination with Other Techniques
-
-### Ethanol + Mild Heat
-- Some investigators combine ethanol treatment with mild [[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]]
+- **[[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]]
 - Heat (40-50C) thought to stimulate ascospore germination
 - Warcup and Baker (1963): effective combination
 - However, ethanol alone is often sufficient (Galapagos study)
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ethanol]]
 - [[det]]
-- [[composting]]
 - [[spore]]
 - [[trichoderma]]

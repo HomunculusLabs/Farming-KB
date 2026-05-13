@@ -82,13 +82,7 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[egyptian-mystery-schools-and-pyramid-initiation]]
 - [[egyptian-pyramid-initiation-stargate]]
-- [[great-pyramid-of-giza]]
 - [[holmgren-trophic-pyramid-energy-hierarchy-societies]]
 - [[trophic-pyramid-mollison]]
-
-## See Also
-- [[trophic-pyramid-mollison]]
-- [[lake-winnemucca-mollison]]
 - [[great-pyramid-of-giza]]

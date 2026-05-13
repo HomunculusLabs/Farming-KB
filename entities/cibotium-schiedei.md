@@ -108,13 +108,8 @@ Ethnobotanical surveys in the Sierra Norte de Puebla document continued use of C
 
 ## See Also
 
-- [[cibotium-barometz]]
 - [[cibotium-glaucum]]
-- [[cibotium-chamissoi]]
 - [[dicksonia-antarctica]]
-- [[cyathea-cooperi]]
 - [[cyathea-medullaris]]
-- [[blechnum-spicant]]
 - [[osmunda-regalis]]
-- [[polypodium-vulgare]]
 - [[pteridium-aquilinum]]

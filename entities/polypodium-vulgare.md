@@ -13,19 +13,7 @@ sources:
   - Jermy, A.C. & Camus, J.M. (1991). "The Genus Polypodium." Kew Publishing.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Polypodiaceae." Flora [[berry-growing]], Vol. 2.
-  - Hindmarch, C. (1886). "The Uses of British Plants." T. Fisher Unwin.
----
-
-## Overview
-
-**Polypodium vulgare** L., the common polypody or rock polypody, is an evergreen fern in the family Polypodiaceae. The genus name derives from Greek *poly* (many) and *podion* (little foot), describing the numerous root-like structures along the creeping rhizome.
-
-Common polypody is one of the most familiar ferns in Europe, where it grows epilithically on stone walls, rock outcrops, and the trunks of mature trees. Its evergreen fronds provide year-round green in otherwise winter-bare landscapes.
-
-The species has a long history of human use spanning culinary, medicinal, and ornamental applications. The rhizome was historically candied as a confection and used as a medicinal remedy for respiratory ailments across much of Europe.
-
-Recent taxonomic revisions have split the traditional broad concept of P. vulgare into several segregate species. The Eurasian populations treated here represent the narrow sense of P. vulgare s.str., distinct from the [[growing-gourmet-north-american-reishi-species]] P. virginianum complex.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Polypodiaceae." Flora [[growing-gourmet-north-american-reishi-species]] P. virginianum complex.
 
 ## Taxonomy and Morphology
 
@@ -39,39 +27,13 @@ The lamina is once-pinnatifid to once-pinnate with 12–20 pairs of pinnae. Pinn
 
 Sori are round, orange-yellow when immature and brown at maturity, 1–2 mm in diameter, and arranged in a single row on each side of the midrib. They lack an indusium, a feature characteristic of the genus Polypodium.
 
-Spores are reniform, 30–40 µm long, with a verrucate perispore surface. [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]] occurs from July through October, with peak dispersal during late summer and early autumn.
-
-The chromosome number is 2n = 74 (tetraploid). Polyploid constitution is common within Polypodium and contributes to the complex reticulate evolution patterns observed across the genus.
-
-## Distribution and Habitat
-
-P. vulgare is widely distributed across Europe from the British Isles and Scandinavia to the Mediterranean basin, and eastward through Russia to western Siberia. It also occurs in North Africa (Atlas Mountains) and western Asia (Turkey, the Caucasus).
-
-In North America, populations previously attributed to P. vulgare are now recognized as P. virginianum, P. appalachianum, or other segregate species. True P. vulgare is considered absent from the [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] flora.
+Spores are reniform, 30–40 µm long, with a verrucate perispore surface. [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] flora.
 
 The species is predominantly lithophytic, growing on stone walls, rock faces, boulders, and cliff ledges. It also colonizes tree trunks and branches, particularly on mature oaks, beeches, and conifers with rough, fissured bark.
 
 Habitat ranges from lowland sea cliffs to subalpine elevations above 2,000 m. It tolerates both acidic and basic substrates, though it shows a preference for siliceous rocks and mortar in stone walls.
 
-[[growing-gourmet-light-requirements-mushroom-fruiting]] are flexible, from deep shade under forest canopies to fully exposed rock faces. This adaptability contributes to the species' success in anthropogenic habitats such as churchyard walls, castle ruins, and garden stone features.
-
-Soil requirements are minimal since the rhizome typically grows on bare rock or bark surfaces. Humidity is provided by the substrate itself, with mosses and lichens often creating a humid microclimate around the fern's root zone.
-
-## Edibility and Culinary Use
-
-The rhizome of P. vulgare has been used as food and confection across Europe for centuries. Fresh rhizomes have a sweet, slightly astringent flavor due to the presence of osladin, a steroidal saponin that is one of the sweetest compounds found in nature.
-
-In England and France, candied polypody rhizomes were sold as a luxury sweet known as "sweet root" or "réglisse de bois" (wood licorice). The rhizomes were cleaned, boiled in repeated water changes to remove bitterness, then candied in sugar syrup.
-
-Scandinavian traditions included chewing dried rhizomes as a snack or breath freshener, while Alpine communities used them to flavor herbal teas and cordials. The practice of candying polypody root has largely disappeared, surviving only in a few rural communities.
-
-The fronds are not generally consumed but have been used as a wrapping material for cooking and food storage. In some regions, fresh fronds were layered between apples or other stored fruit to help regulate moisture and prevent spoilage.
-
-[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] of the rhizome reveals approximately 40% starch, 10% sugars, and trace amounts of saponins, flavonoids, and tannins. Caloric value is modest compared to true [[growing-root-vegetables-guide]] but significant for a non-cultivated forest plant.
-
-## Traditional Medicine and Pharmacology
-
-P. vulgare has been employed in European [[childrens-herbal-medicine]] since antiquity. Dioscorides described the rhizome as a remedy for respiratory complaints, and the species remained a standard pharmacopeial drug through the 19th century.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] of the rhizome reveals approximately 40% starch, 10% sugars, and trace amounts of saponins, flavonoids, and tannins. Caloric value is modest compared to true [[childrens-herbal-medicine]] since antiquity. Dioscorides described the rhizome as a remedy for respiratory complaints, and the species remained a standard pharmacopeial drug through the 19th century.
 
 The primary medicinal application was as an expectorant and pectoral remedy for coughs, bronchitis, and consumption. Preparations included decoctions of the dried rhizome, syrups, and lozenges combining polypody extract with honey and other herbs.
 
@@ -88,3 +50,88 @@ No significant toxicity has been reported at traditional consumption levels. How
 Common polypody is readily cultivated and adapts well to garden conditions. It is valued as an evergreen ground cover for shady rock gardens, stone walls, and woodland margins where many other ferns are deciduous.
 
 Planting requires a well-drained substrate that mimics the species' natural lithophytic habit. A mixture of equal parts loam, leaf mold, and coarse sand or crushed stone provides adequate drainage while retaining sufficient moisture.
+
+## Overview
+
+Polypodium Vulgare represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish polypodium vulgare
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving polypodium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Polypodium Vulgare finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for polypodium vulgare. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+polypodium vulgare and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Polypodium Vulgare has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of polypodium vulgare into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[echium-vulgare]]
+- [[foeniculum-vulgare-entity]]
+- [[ligustrum-vulgare]]
+- [[limonium-vulgare]]
+- [[polypodium-cambricum]]

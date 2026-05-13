@@ -10,10 +10,7 @@ type: concept
 ---
 # Outdoor Mushroom Garden Mulch Beds
 
-[[outdoor-mushroom-cultivation]] has a long patent history, dating back
-thousands of years. It can be applied just about anywhere in the world
-using local trees and wood debris, making it an excellent starting
-point for beginning cultivators. Compared to [[cannabis-sativa-indoor-cultivation-techniques]],
+[[cannabis-sativa-indoor-cultivation-techniques]],
 outdoor patches produce somewhat varied yields since you are at the
 mercy of fluctuating temperature and rainfall. However, outdoor beds
 can fruit several times a year for many years, require minimal labour
@@ -27,9 +24,7 @@ cultivation, and trenched or raft log cultivation.
 
 Wood chip beds are among the most accessible methods for outdoor
 mushroom cultivation. Many popular edible mushrooms thrive on wood
-chips and incorporate naturally into fruit and [[maintaining-organic-matter-in-vegetable-gardens]].
-
-[[cotter-king-stropharia-cultivation]] (Stropharia rugoso-annulata) is
+chips and incorporate naturally into fruit and [[cotter-king-stropharia-cultivation]] (Stropharia rugoso-annulata) is
 particularly suitable to most climates and loves fresh-cut hardwood
 chips, preferably heartwood or sapwood rather than outer bark layers
 commonly sold as commercial mulch.
@@ -68,9 +63,7 @@ forces.
 
 ## Log and Stump Cultivation
 
-[[falconer-growing-mushrooms-in-sheds]] on logs and stumps has been practised for hundreds of
-years and is well-suited for shiitakes, maitakes, and oysters. Hardwood
-species [[query-how-to-grow-and-use-oca-in-temperate-climates]] are generally suitable, including invasive
+[[query-how-to-grow-and-use-oca-in-temperate-climates]] are generally suitable, including invasive
 and non-native trees that can be simultaneously managed through
 harvest.
 
@@ -118,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[det]]
-- [[mycelium]]
 - [[building-soil]]
 - [[holzer-mushroom-cultivation-outdoor-beds]]

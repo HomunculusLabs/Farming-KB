@@ -6,7 +6,7 @@ type: concept
 
 # Windbreak Design and Configurations
 
-Windbreaks are structures of trees and shrubs planted to reduce wind speed and modify microclimates for agricultural benefit. In permaculture design, windbreaks serve multiple functions: protecting crops from mechanical damage, reducing soil erosion, conserving water, trapping snow moisture, and significantly increasing crop yields.
+Windbreaks are structures of trees and shrubs planted to reduce wind speed and modify microclimates for agricultural benefit. In [[permaculture-design]], windbreaks serve multiple functions: protecting crops from mechanical damage, reducing soil erosion, conserving water, trapping snow moisture, and significantly increasing crop yields.
 
 ## Critical Design Factors
 
@@ -82,8 +82,6 @@ water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
 ## See Also
-- [[comparison-windbreak-design-vs-species-selection]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
-- [[windbreak-design-establishment-methods]]
 - [[windbreak-design-griggs-putnam-index]]
 - [[windbreak-design-and-strategy]]

@@ -10,12 +10,10 @@ sources:
 ---
 # Root Crop Harvest and Storage
 
-Detailed [[cannabis-harvest-timing-visual-cues]] and storage instructions for [[growing-root-vegetables-guide]]
-in the [[cool-climate-home-garden-mollison]], based on Purdue Extension guidelines. [[permaculture-plants-root-crops-and-tubers]]
+Detailed [[growing-root-vegetables-guide]]
+in the [[permaculture-plants-root-crops-and-tubers]]
 store best under cold, moist conditions (32 to 40 degrees F, 90 to
-95 percent relative humidity). See [[vegetable-garden-harvest]], [[vegetable-watering-and-thinning]], [[vegetable-storage-conditions-by-temperature-and-humidity]] — Full temperature/humidity reference for all crops
-[[winter-gardening-season-extension]] — Extending the [[savory-growing-season-and-non-growing-season-management]] into cold months
-[[stone-cellar-building]] for construction guidance), or an outdoor pit. Perforated plastic bags help
+95 percent relative humidity). See [[vegetable-watering-and-thinning]], [[winter-gardening-season-extension]] — Extending the [[stone-cellar-building]] for construction guidance), or an outdoor pit. Perforated plastic bags help
 maintain proper humidity levels while allowing some gas exchange.
 
 The key to successful root crop storage is harvesting at the right

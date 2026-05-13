@@ -107,15 +107,10 @@ McKenna's detailed account of the reassurance protocol and wonder loop has impli
 
 ## See Also
 
-- [[machine-elf-entities]]
 - [[mckenna-i-thou-ethics-entity-encounter]]
-- [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]]
 - [[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]]
-- [[mckenna-cognitive-dissonance-translinguistic-object]]
 - [[mckenna-logos-consciousness-language]]
-- [[glossolalia-translinguistic-objects]]
 - [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]
-- [[mckenna-fear-as-existential-validity-marker-psychedelic-experience]]
 - [[mckenna-dmt-onset-acoustic-phenomena-cellophane-ascending-tone]]
 - [[hallucinogenesis-quantum-molecular-correlates-smythies-shulgin]]
 

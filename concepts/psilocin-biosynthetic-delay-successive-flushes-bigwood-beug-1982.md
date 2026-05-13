@@ -9,8 +9,8 @@ tags: [mycology, psilocin, biosynthesis, flush, accumulation, delay, psilocybe-c
 
 ## Overview
 
-Bigwood and Beug (1982) discovered that psilocin is generally absent in the first
-one or two flushes of *Psilocybe cubensis* from a given culture, reaches maximum
+Bigwood and Beug (1982) discovered that [[psilocin]] is generally absent in the first
+one or two flushes of *[[psilocybe-cubensis]]* from a given culture, reaches maximum
 concentration by the fourth flush, and then begins to decline. This delayed
 accumulation pattern suggests that psilocin is not a direct biosynthetic precursor
 to psilocybin but rather a metabolite that accumulates as the mycelium ages and
@@ -123,8 +123,6 @@ The delayed psilocin accumulation has implications for users and cultivators:
 
 ## See Also
 
-- [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] — Detailed hypothesis
 - [[psilocybin-psilocin-flush-dynamics-biosynthetic-timing-bigwood-beug]] — Full dynamics
-- [[psilocin-emergence-in-later-flushes]] — Emergence pattern
 - [[psilocin-biosynthetic-accumulation-flush-pattern-bigwood-beug]] — Accumulation data
 - [[psilocybin-level-stability-across-flushes]] — Psilocybin contrast

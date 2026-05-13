@@ -27,8 +27,7 @@ environments where food is dissolved and accessible from all directions.
 ### Hyphal Form
 
 Hyphae are threadlike filaments that grow by extending their tips,
-capable of boring through solid materials — decaying wood, [[biodiversity-of-fungi-leaf-litter-microfungi-survey-methods]],
-soil, and even living tissue. [[bloomfield-fungal-biology-and-hyphal-growth]] is invasive: the tip of
+capable of boring through solid materials — decaying wood, [[bloomfield-fungal-biology-and-hyphal-growth]] is invasive: the tip of
 the cell forges through solid substances, creating a cylinder of
 ever-increasing length. Most nutritional needs of a mycelium are met
 through absorption at the tips of its hyphae.
@@ -46,26 +45,7 @@ In solid environments — soil, wood, plant tissue — the hyphal form is
 essential because only a tip-growing filament can penetrate dense
 materials. A yeast cell sitting on the surface of a log would starve,
 unable to reach the nutrients locked inside. The hypha can drill into
-the substrate, secreting enzymes that [[query-can-fungi-break-down-plastic-pollution]] complex molecules and
-absorbing the products through its advancing tip.
-
-## Environmental Triggers for Switching
-
-Fungi monitor their surroundings and switch forms in response to
-specific environmental cues:
-
-### Temperature
-
-Many pathogenic dimorphic fungi switch to the yeast form at mammalian
-body temperature (37°C) and grow as hyphae at ambient temperatures.
-This thermal switching is central to their ability to cause disease:
-the fungus grows as a mold in the environment but converts to yeast
-once inside a warm-blooded host.
-
-### Nutrient Availability
-
-Nitrogen limitation is a potent trigger for hyphal growth. Even
-[[saccharomyces-cerevisiae]], the quintessential yeast, constructs a
+the substrate, secreting enzymes that [[saccharomyces-cerevisiae]], the quintessential yeast, constructs a
 rudimentary hyphal chain when starved of nitrogen. This makes
 evolutionary sense: when nutrients are scarce, it is worth investing
 in exploratory growth to find new food sources. When nutrients are
@@ -115,25 +95,7 @@ eliminate.
 
 ### Histoplasma capsulatum
 
-The cause of [[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]] grows as a mold in soil contaminated
-with bird droppings, producing infectious spores. When these spores
-are inhaled and reach the warm environment of the lungs, the fungus
-converts to a budding yeast form that can survive and replicate inside
-macrophages.
-
-## The Predacious Yeasts
-
-Among the most remarkable dimorphic fungi are the predacious yeasts,
-such as species of Metschnikowia, which attack insects and crustaceans.
-In their vegetative state they grow as unremarkable yeasts, but when
-they produce spores, the asci elongate into spore guns that discharge
-pairs of needle-shaped ascospores decorated with spirally arranged
-barbs. These harpoon-like spores are apparently designed to lance
-beetles and other insects that visit the flowers where the yeast lives.
-
-## Significance for Medicine and Agriculture
-
-Understanding dimorphism is critical for managing [[duggar-mushroom-insect-pests-and-fungal-diseases]]. The
+The cause of [[duggar-mushroom-insect-pests-and-fungal-diseases]]. The
 yeast form of a pathogen may require different treatment strategies
 than the hyphal form. Drugs that target cell wall synthesis may be
 effective against one form but not the other. The environmental
@@ -144,7 +106,5 @@ to prevent disease without killing the organism.
 ## Related Concepts
 
 - bloomfield what lies beneath hyphal biology and mycelium architecture
-- [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
 - [[bloomfield-predacious-yeasts-metschnikowia-fungal-carnivory]]
-- [[bloomfield-histoplasma-capsulatum-ohio-valley-disease]]
 - [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]

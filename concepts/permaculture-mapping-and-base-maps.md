@@ -16,11 +16,11 @@ sources:
 
 # Permaculture Mapping and Base Maps
 
-Mapping is the foundational design tool in permaculture. [[william-ozier-williams]] provides detailed guidance on creating and using base maps in his PDC, describing the base map as the starting point from which all analysis and design decisions flow.
+Mapping is the foundational design tool in permaculture. William Ozier Williams provides detailed guidance on creating and using base maps in his PDC, describing the base map as the starting point from which all analysis and design decisions flow.
 
 ## What Is a Base Map?
 
-The base map is a scaled drawing of the entire site within the legal [[holzer-high-beds-property-boundaries]]. It shows the existing conditions as they are, before any [[mollison-farm-dam-design-modifications]]. It serves as the blank canvas onto which all analytical data (zones, sectors, water flow, soil types) and design elements are placed.
+The base map is a scaled drawing of the entire site within the legal property boundaries. It shows the existing conditions as they are, before any design modifications. It serves as the blank canvas onto which all analytical data (zones, sectors, water flow, soil types) and design elements are placed.
 
 Williams states: "The Base Map is the map of the entire site within the legal property limits."
 
@@ -99,11 +99,11 @@ Make multiple copies for different analytical layers:
 
 ### Recommended Data Groupings for Overlays
 
-1. [[permaculture-beginners-guide-zones-and-sectors]]
+1. Zones and sectors
 2. Surface water flow and soil types
 3. Vegetation and existing plant communities
 4. Microclimates
-5. [[permaculture-access-and-circulation-design]]
+5. Access and circulation
 6. Buildings and infrastructure
 
 ## Mapping Techniques
@@ -130,7 +130,7 @@ After mapping contours, chart surface water flow:
 - Observe the site during and after rain
 - Map where water flows, pools, and exits the property
 - Note infiltration rates in different areas
-- This data is essential for designing [[swale-construction-guide]], [[permaculture-pond-and-water-garden]], and other water management features
+- This data is essential for designing [[swale-construction-guide|swales]], [[permaculture-pond-and-water-garden|ponds]], and other water management features
 
 ## Scale Considerations
 
@@ -140,11 +140,10 @@ Choose a scale appropriate to your property size and the level of detail needed:
 - Too large a scale (too zoomed in) and the map becomes unwieldy with multiple sheets
 - The scale should allow you to show the smallest detail you need to design while fitting the entire property on one sheet
 
-## Digital Mapping Tools
+## See Also
 
-Modern [[permaculture-principle-apply-self-regulation]] increasingly use digital tools:
-
-- **Google Earth/Google Maps**: Free imagery, measurement tools, and export capabilities
-- **GIS software (QGIS)**: Professional-grade mapping with multiple data layers
-- **CAD software**: Precise drafting for detailed designs
-- **Drawing apps**: SketchUp, Illustrator, or similar for attractive presentation maps
+- [[dryland-permaculture-strategies]]
+- [[vines-in-desert-permaculture]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-ethics-of-permanence]]

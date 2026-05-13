@@ -8,20 +8,7 @@ type: concept
 
 ## The Table of Contents as a Conceptual Map
 
-The structure of [[bill-mollison]]'s *Permaculture: A Designers' Manual* reveals the conceptual architecture of permaculture as a discipline. The book is organized into 14 chapters that move from foundational philosophy through design methodology to climate-specific applications, providing a complete framework for sustainable system design.
-
-## Chapter Structure and Conceptual Flow
-
-### Foundational Chapters (1-3)
-
-**Chapter 1 — Introduction** establishes the philosophy behind permaculture, its ethical foundations, and its role in landscape and society. This chapter sets the tone for the entire work, framing permaculture as both a design science and an ethical framework for human settlement.
-
-**Chapter 2 — Concepts and Themes in Design** introduces the core conceptual vocabulary of permaculture. Key topics include:
-
-- **Resources and yields**: Understanding what resources flow through a system and what yields (both intended and incidental) it produces
-- **Cycles**: Understanding niches in time — how systems cycle through phases and how designers can work with temporal patterns
-- **Pyramids and food webs**: Energy flow through trophic levels and the implications for system design, including a discussion of vegetarianism from an energy perspective
-- **[[complexity-and-connections]]**: How system stability arises from the number and quality of connections between elements
+The structure of [[complexity-and-connections]]**: How system stability arises from the number and quality of connections between elements
 - **Order versus chaos**: The role of designed order in creating productive systems
 - **Permitted and forced functions**: How elements can serve multiple functions (permitted) and how elements can be forced to serve functions they wouldn't naturally perform
 - **Diversity**: The relationship between diversity and stability, and the difference between functional diversity and mere species count
@@ -37,7 +24,7 @@ The structure of [[bill-mollison]]'s *Permaculture: A Designers' Manual* reveals
 - **Data overlay**: Design by map overlays — layering information such as slope, water flow, sun exposure, and soil types
 - **Random assembly**: Design by assessing the results of random assemblies to discover unexpected beneficial connections
 - **Flow diagrams**: Design for workplaces based on the flow of energy and materials
-- **[[zone-and-sector-analysis]]**: Design by the application of a master pattern — perhaps the most distinctive [[permaculture-design]] tool
+- **[[permaculture-design]] tool
 
 ### Pattern and Climate Chapters (4-5)
 
@@ -68,7 +55,7 @@ The structure of [[bill-mollison]]'s *Permaculture: A Designers' Manual* reveals
 
 **Chapter 6 — Trees and Their Energy Transactions** examines the role of trees as system components, covering their biomass, effects on wind and temperature, interactions with precipitation, and overall role in landscape energy budgets.
 
-**Chapter 7 — Water** addresses regional intervention in the water cycle, earthworks for water conservation and storage, reduction of water used in sewage systems, purification of polluted waters, and natural swimming pools.
+**Chapter 7 — Water** addresses regional intervention in the water cycle, [[earthworks-for-water-conservation]] and storage, reduction of water used in sewage systems, purification of polluted waters, and natural swimming pools.
 
 **Chapter 8 — Soils** provides comprehensive coverage of soil science including soil structure, water elements, primary nutrients, pH, soil composition, pores and crumb structure, gaseous content and processes, soil biota, difficult soils, plant analysis for mineral deficiencies, biological indicators, soil erosion, and soil rehabilitation.
 
@@ -84,7 +71,7 @@ The structure of [[bill-mollison]]'s *Permaculture: A Designers' Manual* reveals
 
 ### Advanced Topics (13-14)
 
-**Chapter 13 — Aquaculture** covers the case for aquaculture, factors affecting yields, fish species selection, pond configurations, farming invertebrates for fish food, channel/canal/chinampa systems, yields outside ponds, traditional and new water polycultures.
+**Chapter 13 — Aquaculture** covers the case for aquaculture, factors affecting yields, fish species selection, pond configurations, [[farming-invertebrates-for-fish-food]], channel/canal/chinampa systems, yields outside ponds, traditional and new water polycultures.
 
 **Chapter 14 — The Strategies of an Alternative Global Nation** is the most ambitious chapter, covering ethical bases for alternative nations, bioregional organization, extended families, trusts and legal strategies, developmental and property trusts, village development, effective working groups, money and finance, land access, ethical investment, and effective aid.
 

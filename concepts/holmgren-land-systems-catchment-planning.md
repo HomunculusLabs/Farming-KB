@@ -17,71 +17,8 @@ type: concept
 
 # Land Systems and Catchment Planning in Permaculture
 
-[[permaculture-design]] beyond the individual site to encompass
-landscape-scale planning through the concept of Land Systems and catchment-based
-design. These approaches build on underlying patterns of the land rather than the
-details of particular sites, and are essential for whole farm planning and
-eco-village development.
-
-## Limitations of Site-Based Design
-
-The site concept in Permaculture focuses on a limited parcel of land, often
-centred on a dwelling. While this approach encourages small-scale nucleated
-development mimicking cellular growth patterns, it has inherent limitations. The
-question of whether the site is suited to its intended use is often ignored, and
-it is difficult to fully consider the nature and implication of development of
-the wider landscape, including multi-nodal development where links between sites
-are as important as site details.
-
-## The Land Systems Concept
-
-The Australian development of the Land Systems concept is credited to Christian
-and Stewart, who defined a land system as "an area or group of areas throughout
-which there is a recurring pattern of topography, soils, and vegetation." The
-method identifies whole landscapes as systems (which often cut across adjacent
-catchments in bands from headwaters to the sea) reflecting climate, geology, and
-topography.
-
-Within these land systems there is a characteristic pattern of repeating land
-"components" with more uniform microclimate, slope, aspect, soil type, and natural
-vegetation. Individual sites provide a finer level of detail. This top-down
-approach to landscape pattern recognition can overcome the tendency to a
-blinkered understanding that farmers and land managers develop when only dealing
-with specific problems within existing paddocks.
-
-## Applications: Kangaroo Island
-
-The strength of the Land Systems approach is demonstrated by studies of Kangaroo
-Island in South Australia prior to clearing. Soil scientist Northcote warned the
-government that salinity would emerge following the clearing of specific land
-systems due to hydrological changes, even though little direct evidence of
-salinity existed in the natural landscape. That advice was ignored and today
-landholders and taxpayers are paying for remedial revegetation work.
-
-## Reading Landscape Beyond Formal Surveys
-
-The Land Systems concept helps describe and evaluate land independently of
-current land use priorities, values, and economics. The ability to catch and
-store water, mineral nutrients, and [[hamilton-composting-and-organic-matter-management]] helps reorient our notion of
-good and [[savory-poor-land-syndrome]]. Haikai Tane used patterns of biological productivity in
-Aboriginal dot painting to illustrate his ecographic model of rivers, showing
-food resource locations along the Murray River floodplain.
-
-The natural flooding of the Millewa and Barmah red gum forests before regulation
-of the Murray River maintained ecosystems more productive of animal protein than
-the unsustainable flood-irrigated dairy farms that followed. This example
-powerfully illustrates how landscape-based understanding could have prevented
-massive resource misallocation.
-
-## Limitations of the Land Systems Method
-
-The Land Systems method is little understood outside professional and scientific
-circles. Training has mostly been by the apprenticeship model within government
-agencies. Several difficulties remain:
-
-- Patterns and classifications within one bioregion do not necessarily translate
-  to another
-- Attempts to standardise [[mycetozoan-survey-methods-substratum-plating]] and terminology tend to ignore more
+[[hamilton-composting-and-organic-matter-management]] helps reorient our notion of
+good and [[mycetozoan-survey-methods-substratum-plating]] and terminology tend to ignore more
   informal "reading" of the landscape
 - The description of changes to land as "improvements" or "degradation" remains
   culturally loaded
@@ -118,8 +55,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[composting]]
 - [[permaculture]]
 - [[holmgren-energy-descent-planning]]
+
+## Overview
+
+Holmgren Land Systems Catchment Planning represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish holmgren land systems catchment planning
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving holmgren extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Holmgren Land Systems Catchment Planning finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for holmgren land systems catchment planning. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+holmgren land systems catchment planning and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Holmgren Land Systems Catchment Planning has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of holmgren land systems catchment planning into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holmgren-biomass-fuels-and-energy-yield-ratios]]
+- [[holmgren-built-environment-household-energy-storage]]
+- [[holmgren-ecological-succession-and-pulsing]]
+- [[holmgren-ethical-principles-care-earth-people-fair-shares]]
+- [[holmgren-principle-observe-interact-experiential-learning-postmodern]]

@@ -11,15 +11,7 @@ updated: 2026-05-09
 sources:
   - Philbrick, C.T. & Les, D.H. (2000). " phylogeny of Callitriche." Systematic Botany, 25(2), 215–233.
   - Lansdown, R.V. (2006). "Callitriche." In: Manual of the Aquatic Plants of Europe. pp. 127–145.
-  - Martin, A.C. & Uhler, F.M. (1939). "Food of game ducks in the [[dmt-containing-plants-united-states-halpern]] and Canada." USDI Wildlife Research Bulletin, 4(2).
-  - Haslam, S.M. (1978). "River Plants." Cambridge University Press, Cambridge.
----
-
-## Overview
-
-Callitriche palustris, commonly known as the vernal water-starwort or spring water-starwort, is a small annual or perennial aquatic plant in the family Plantaginaceae.
-
-It is widely distributed across the Northern Hemisphere, occurring in temperate and boreal regions of Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]].
+  - Martin, A.C. & Uhler, F.M. (1939). "Food of game ducks in the [[guzman-psilocybin-mushrooms-north-america]].
 
 The species exhibits heterophylly, producing both submerged and floating leaf forms depending on water depth and growing conditions.
 
@@ -55,7 +47,7 @@ In Europe, it occurs from the British Isles and Scandinavia southward to the Med
 
 In Asia, it ranges across Siberia, northern China, and Japan.
 
-In [[berry-growing]], it is found across Canada and the northern [[dmt-maoi-plants-united-states]], extending southward in mountainous regions.
+In [[dmt-maoi-plants-united-states]], extending southward in mountainous regions.
 
 The species grows in a wide variety of freshwater habitats, including ponds, lake margins, slow streams, ditches, and spring-fed pools.
 
@@ -88,3 +80,11 @@ The plant serves as an indicator species for clean, well-oxygenated freshwater h
 ## Traditional Uses
 
 Callitriche palustris has limited recorded use in human traditions compared to more conspicuous aquatic plants.
+
+## See Also
+
+- [[eleocharis-palustris]]
+- [[quercus-palustris]]
+- [[pinus-palustris]]
+- [[caltha-palustris]]
+- [[rhodopseudomonas-palustris]]

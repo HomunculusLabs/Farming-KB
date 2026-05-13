@@ -17,33 +17,12 @@ MAO inhibitors prevent the enzyme monoamine oxidase from breaking down certain n
 
 ## Mechanism of Action
 
-MAO (Mono-Amine-Oxidase) is an enzyme found in the digestive tract and liver that breaks down amines. When MAO is inhibited, normally inactive compounds (like DMT) can cross the blood-brain barrier. This is the pharmacological basis of [ayahuasca — Banisteriopsis caapi contains 0.2–1.3% mixed Harmala alkaloids that inhibit MAO, allowing oral DMT to become active. The most concentrated natural source is [[mckenna-food-gods-peganum-harmala-soma]] ([[golden-guide-syrian-rue-and-maoi-plants]]) seed at 2–7% mixed Harmala alkaloids. See also [[harmala-alkaloids-and-ayahuasca-preparation]] for preparation details.
+MAO (Mono-Amine-Oxidase) is an enzyme found in the digestive tract and liver that breaks down amines. When MAO is inhibited, normally inactive compounds (like DMT) can cross the blood-brain barrier. This is the pharmacological basis of [ayahuasca — Banisteriopsis caapi contains 0.2–1.3% mixed Harmala alkaloids that inhibit MAO, allowing oral DMT to become active. The most concentrated natural source is [[golden-guide-syrian-rue-and-maoi-plants]]) seed at 2–7% mixed Harmala alkaloids. See also [[harmala-alkaloids-and-ayahuasca-preparation]] for preparation details.
 
 ## Psychedelic MAO Inhibitors
 
 - **[Harmala alkaloids** (harmine, harmaline) — found in Banisteriopsis caapi, Syrian Rue (Peganum harmala)
-- **[[5-meo-dmt-compound-profile]]** — some MAO inhibiting properties
-- **Many prescription antidepressants** — especially older tricyclics
-
-## Dangerous Combinations
-
-### Very Dangerous (potentially fatal)
-- Sedatives and tranquilisers
-- Antihistamines
-- Narcotics
-- Amphetamines
-- Aged cheese, red wine
-- Asarone/Calamus
-- Tryptophan (large doses)
-- Tyrosine (large doses)
-- Phenylalanine (large doses)
-- Alcohol
-- Ephedrine
-- Macromerine
-- Some anesthetics
-
-### Potentially Dangerous
-- Beer, cocoa, [[marmite-yeast-extract-straw-substrate]]
+- **[[marmite-yeast-extract-straw-substrate]]
 - Sauerkraut, pickled herring, soy sauce
 - Cream, avocados (especially overripe)
 - Bananas (especially overripe)
@@ -56,16 +35,11 @@ MAO (Mono-Amine-Oxidase) is an enzyme found in the digestive tract and liver tha
 
 ### Caution Required
 - Prescription or over-the-counter medicines — discontinue use long enough to clear the system before taking MAO inhibitors
-- Phenethylamines ([ecstasy, [mescaline, [[2c-b-psychedelic-empathogen-guide]] found it significantly intensified when combined with an MAO inhibitor, necessitating high caution. In all chapters dealing with either phenethylamine substances or MAO inhibitors, Turner lists this combination as "significantly intensified, possibly dangerous." The mechanism means a much smaller amount is required to achieve the same effects, making dose control critical. See [[psychedelic-combination-guide]] for more on combination practices.
+- Phenethylamines ([ecstasy, [mescaline, [[psychedelic-combination-guide]] for more on combination practices.
 
 ## The Harmala-Alkaloid Mushroom Combination
 
-Harmala alkaloids combine beautifully with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to produce very [[psilocybin-mystical-experiences-personality-change]]. When harmaline was first discovered it was named "telepathine" due to its reputation for producing telepathic experiences, reportedly especially likely when combined with psilocybin. Turner personally found the combination quite enjoyable. Syrian Rue also potentiates [LSD, [mescaline, and [[harmala-alkaloids-and-ayahuasca-preparation]] for methods
-- Start with lower doses of any psychedelic when combining with an MAO inhibitor, as effects will be significantly amplified
-
-## See Also
-
-- [[ayahuasca-preparation]] — traditional MAOI + DMT preparation
+Harmala alkaloids combine beautifully with [[psilocybin-mystical-experiences-personality-change]]. When harmaline was first discovered it was named "telepathine" due to its reputation for producing telepathic experiences, reportedly especially likely when combined with psilocybin. Turner personally found the combination quite enjoyable. Syrian Rue also potentiates [LSD, [mescaline, and [[ayahuasca-preparation]] — traditional MAOI + DMT preparation
 - hallucinogenic-mushroom-health-risks-and-harm-reduction — mushroom-specific interactions
 - [[hallucinogens-and-shamanism-harner-anthology]]
 ## Practical Considerations
@@ -86,3 +60,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Mao Inhibitors And Psychedelics represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mao inhibitors and psychedelics
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mao extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mao Inhibitors And Psychedelics finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mao inhibitors and psychedelics. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mao inhibitors and psychedelics and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mao Inhibitors And Psychedelics has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mao inhibitors and psychedelics into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mind-body-problem-and-psychedelics]]
+- [[mushroom-enzyme-inhibitors-cancer-prevention-hormone-regulation]]
+- [[philosophical-implications-of-psychedelics]]
+- [[pinoline-mao-inhibitors-entheogenic-combinations]]
+- [[turner-further-explorations-and-future-of-psychedelics]]

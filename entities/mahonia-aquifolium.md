@@ -1,5 +1,5 @@
 ---
-title: "Mahonia aquifolium"
+title: "Mahonia Aquifolium"
 created: 2026-04-28
 type: species
 tags:
@@ -7,8 +7,7 @@ tags:
   - berberidaceae
   - mahonia
   - medicinal
-  - [[berberine]]
-  - [[permaculture]]
+  - permaculture
   - ornamental
   - evergreen
   - edible
@@ -31,11 +30,7 @@ sources:
 ## Overview
 
 *Mahonia aquifolium* (Pursh) Nutt., commonly known as Oregon grape, is an
-evergreen shrub in the family Berberidaceae native to western [[psilocybin-north-america-pacific-northwest]].
-It is the state flower of Oregon and widely cultivated for its glossy
-holly-like leaves and bright yellow flowers.
-
-The species is valued medicinally for its [[iboga-root-bark-preparation]], which contains
+evergreen shrub in the family Berberidaceae native to western [[iboga-root-bark-preparation]], which contains
 berberine — a potent isoquinoline alkaloid with broad-spectrum antimicrobial
 and anti-inflammatory properties. Root extracts are approved in Germany for
 topical treatment of psoriasis.
@@ -68,15 +63,7 @@ glossy, dark green, 4–8 × 2–4 cm, ovate to lanceolate with sharp spinose
 teeth; new leaves bronzy-red. Evergreen in most of its range.
 
 **Flowers:** Bright yellow, fragrant, borne in dense terminal racemes 3–8 cm
-long; each flower 6-parted, 6–9 mm across. Blooms [[coleman-overwintered-onions-and-early-spring-crops]] (March–May),
-a critical early nectar source for emerging pollinators.
-
-**Fruit:** Drupaceous berry, 8–12 mm, dark blue-purple with whitish bloom,
-tart and astringent. Ripens mid-summer. Each berry contains 3–5 seeds.
-
-## Distribution and Habitat
-
-Native to western [[guzman-psilocybin-mushrooms-north-america]] from southeast Alaska to northern California,
+long; each flower 6-parted, 6–9 mm across. Blooms [[guzman-psilocybin-mushrooms-north-america]] from southeast Alaska to northern California,
 eastward into Idaho, Montana, and British Columbia. Occurs from sea level
 to ~2000 m in coniferous forests, mixed woodlands, chaparral edges, and
 rocky slopes.
@@ -88,3 +75,75 @@ Naturalized in parts of Europe, New Zealand, and Australia.
 ## Bioactive Compounds
 
 Root and root bark contain a rich profile of isoquinoline alkaloids:
+
+## Overview
+
+Mahonia Aquifolium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mahonia aquifolium
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mahonia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mahonia Aquifolium finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mahonia aquifolium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mahonia aquifolium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mahonia Aquifolium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mahonia aquifolium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

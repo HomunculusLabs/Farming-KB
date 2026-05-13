@@ -56,36 +56,11 @@ Natural spawn occurring spontaneously in fields, manure piles, or
 elsewhere, presumably produced directly from spores. Far more vigorous
 than "made" spawn. Seldom used for spawning beds because difficult to
 obtain. When found, it was to be secured, dried, and used as French
-[[french-flake-spawn-vs-brick-spawn]].
-
-## Keeping Spawn
-
-Spawn should be kept in a dry, airy place, somewhat dark, between 35
-and 65 degrees F. Cellars, cupboards against walls, or close damp
-buildings were poor storage places. Hard frost destroyed the vitality of
-both brick and flake spawn. Falconer advised getting the full supply in
-fall and keeping it oneself rather than trusting to seed stores.
-
-## New Versus Old Spawn
-
-Falconer strongly urged using only fresh spawn, declaring old spawn
-generally worthless unless preserved with the greatest care. Since it
-took three months from manure gathering to harvest, he asked: "Can you
-afford to spend this time, and undergo the care and trouble and expense,
-and court a failure by using old spawn?"
-
-## Distinguishing Good from Poor Spawn
-
-Mushroom spawn should have a decided mushroom smell. Whatever cobweb-like
-mold appeared should be fresh bluish-white, with fine clear white threads.
-Prominent yellowish threads or veins indicated killed mycelium. White mold
-patches on brick surfaces indicated other [[cuthill-mushroom-spawn-preparation-historical]]
+[[cuthill-mushroom-spawn-preparation-historical]]
 
 ## See Also
 
-- [[falconer-mushroom-cooking-selection-and-preparation]]
 - [[mushroom-spawn-preparation]]
-- [[spawn-preparation]]
 - [[mushroom-spawn-grain-preparation-inoculation]]
 
 ## Practical Applications
@@ -117,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[spore]]
-- [[mycelium]]
 - [[falconer-mushroom-spawn-types-and-merits]]
 - [[mushroom-spawn-preparation]]

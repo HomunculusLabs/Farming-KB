@@ -16,9 +16,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 ## Overview
 Beauveria bassiana is a cosmopolitan ascomycete fungus and one of
-the most extensively studied [[singh-entomopathogenic-fungi-biocontrol-agents]] (EPF). It
-infects and kills a remarkably wide range of insect hosts, making it
-a cornerstone organism for [[cervantes-biological-pest-control-predators]] control in agriculture,
+the most extensively studied [[cervantes-biological-pest-control-predators]] control in agriculture,
 forestry, and public health. Named after the Italian entomologist
 Agostino Bassi, who first demonstrated that a microorganism could
 cause disease in animals, B. bassiana has become a model system for
@@ -35,35 +33,7 @@ Genotypic analysis has revealed that isolates from tropical and
 subtropical regions show considerably more genetic variation than
 those from temperate regions, suggesting tropical centers of
 diversification. This greater diversity may translate to a wider
-array of [[fungal-virulence-factors-host-immune-evasion]], making tropical populations particularly
-valuable as sources of biocontrol strains for agricultural
-applications.
-
-## Taxonomy and Classification
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
-- **Class:** Sordariomycetes
-- **Order:** Hypocreales
-- **Family:** Cordycipitaceae
-- **Genus:** Beauveria
-- **Species:** B. bassiana
-
-B. bassiana was historically placed in the Deuteromycota (Fungi
-Imperfecti) due to its primarily asexual reproduction. The genus
-Beauveria has been characterized using mitochondrial DNA analysis,
-which has revealed distinct mitotypes within the species complex
-(Hegedus and Khachatourians 1993b, 2003). RFLP variability in mtDNA
-has proven valuable for taxonomic identification and for studying
-organelle transmission in asexual fungi.
-
-## Key Details
-
-### Mitochondrial Genome
-The mitochondrial DNA of B. bassiana (strain GK2016) has been
-extensively mapped. Key features include genes for NAD1, ATP6,
-srRNA, CO3, NAD6, and tRNA clusters. The NAD1 and ATP6 genes lie
-between lrRNA and srRNA in B. bassiana and Aspergillus nidulans, but
-not in Neurospora crassa or [[fungal-biodiversity]], taxonomy, and
+array of [[fungal-biodiversity]], taxonomy, and
 evolutionary genetics within the genus.
 
 ### Pathogenicity Mechanism
@@ -87,3 +57,88 @@ B. bassiana is widely used as a biological insecticide in both
 available for controlling whiteflies, thrips, termites, and beetles.
 The fungus can be applied as a foliar spray, soil drench, or bait
 depending on the target pest and cropping system.
+
+## Overview
+
+Beauveria Bassiana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish beauveria bassiana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving beauveria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Beauveria Bassiana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for beauveria bassiana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+beauveria bassiana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Beauveria Bassiana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of beauveria bassiana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[beauveria]]
+- [[beauveria-brongniartii]]
+- [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]
+- [[ingham-beauveria-parasitic-fungi]]
+- [[query-how-do-i-use-beauveria-bassiana-for-pest-control]]

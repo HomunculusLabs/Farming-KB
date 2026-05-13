@@ -29,7 +29,7 @@ Hankyu Cho is the father of Youngsang Cho and the foundational figure behind the
 - Author of "Making Natural Farming Inputs"
 - His books translated into English, Chinese, Japanese, Thai, Hindi
 - Technical consulting in 14 countries
-- Developed key inputs: indigenous [[jadam-microorganism-solution-culturing]], [[bionutrients-lab-fermented-plant-juice-fpj]], oriental medicine plant tonic, lactic acid bacteria, natural calcium, natural phosphorus
+- Developed key inputs: indigenous [[bionutrients-lab-fermented-plant-juice-fpj]], oriental medicine plant tonic, lactic acid bacteria, natural calcium, natural phosphorus
 
 ### Philosophy
 - Farming should not harm nature
@@ -69,24 +69,10 @@ Youngsang Cho is the son of Hankyu Cho and the founder/developer of the JADAM ul
 - JADAM microorganism solution using potatoes
 - Fertilizer program for crops
 - Natural pesticide for rice bakanae disease
-- Natural [[jadam-pesticide-for-powdery-mildew]] mildew, downy mildew, fungus
-- Natural pesticide for canker
 - Natural [[jadam-pesticide-for-aphids-and-mites]], mites
 - Natural pesticide for tobacco moths, beet armyworm
 - Natural pesticide for stinkbugs, thrips
-- Natural [[jadam-pesticide-for-slugs-and-snails]]
-- Natural pesticide for chicken lice
-- Natural pesticide for coffee berry borer
-- Naphthalene pesticide
-
-### Philosophy
-- Chose not to patent any inventions, instead sharing publicly
-- All methods disclosed through books, website (jadam.kr), and YouTube
-- Goal: farming at $100 per acre per year
-
-## From Father to Son
-
-Youngsang Cho acknowledges: "If it were not for the achievements made by Han-kyu Cho, my father, JADAM system would not have been born. He has devoted his entire life in promoting [[natural-farming-vs-scientific-agriculture]] built a strong foundation for the ultra-low-cost agriculture system of JADAM organic farming."
+- Natural [[natural-farming-vs-scientific-agriculture]] built a strong foundation for the ultra-low-cost agriculture system of JADAM organic farming."
 
 ## Practical Applications
 
@@ -117,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jadam-liquid-fertilizer]]
 - [[youngsang-cho]]
-- [[bionutrients]]
 - [[lactic-acid-bacteria]]
 - [[natural-farming]]

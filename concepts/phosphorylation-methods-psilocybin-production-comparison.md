@@ -1,11 +1,8 @@
 ---
 title: Phosphorylation Methods Psilocybin Production Comparison
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
-topic: [[tryptamine]]_chemistry
-related:
-  - [[zwitterionic-phosphate-intermediate-psilocybin-synthesis]].md
-  - [[four-hydroxyindole-psilocin-synthesis-route-shirota]].md
-  - [[acetyl-protection-route-psilocin-psilocybin-synthesis]].md
+topic: zwitterionic-phosphate-intermediate-psilocybin-synthesis.md
+  - acetyl-protection-route-psilocin-psilocybin-synthesis.md
 created: 2026-05-09
 ---
 
@@ -14,8 +11,7 @@ created: 2026-05-09
 ## Overview
 
 The phosphorylation of psilocin to produce psilocybin represents the
-most chemically challenging step in the synthesis of [[australian-magic-mushroom-common-names]]
-constituents. While [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]] from 4-hydroxyindole is
+most chemically challenging step in the synthesis of acetylation-protection-psilocin-synthesis-4-hydroxyindole from 4-hydroxyindole is
 relatively straightforward, the selective introduction of a
 phosphate group at the 4-position of the indole ring while
 preserving the tertiary amine has proven difficult. Shirota,
@@ -28,7 +24,7 @@ large-scale production.
 Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine, meaning the
 phosphate ester is attached to the phenolic oxygen at the 4-position
 of the indole ring. The molecule also contains a tertiary
-dimethylamine on the [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]. Both the phenol and the amine are
+dimethylamine on the shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis. Both the phenol and the amine are
 nucleophilic sites that can potentially react with phosphorylating
 agents, creating a selectivity problem.
 
@@ -62,7 +58,7 @@ too mild to activate the phenolic oxygen toward phosphorylation.
 The method ultimately selected by Shirota uses tetrabenzyl-
 pyrophosphate [(BnO)2PO]2O with n-butyllithium in THF at -78°C
 to 0°C. Tetrabenzylpyrophosphate is prepared in "almost 100%
-yield from [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]" using a literature procedure with
+yield from zwitterionic-n-o-dibenzyl-phosphate-intermediate" using a literature procedure with
 modifications. The reaction proceeds via deprotonation of the
 phenolic OH by n-BuLi, generating a phenoxide that attacks the
 pyrophosphate to form the O,O-dibenzyl phosphate derivative (7).
@@ -88,3 +84,11 @@ It requires specialized resin, careful pH control, and produces
 large volumes of aqueous waste. For gram-scale production, these
 requirements become prohibitive. Shirota's route avoids this
 entirely by exploiting the zwitterionic precipitation of
+
+## See Also
+
+- [[zwitterionic-intermediates-tryptamine-phosphorylation]]
+- [[shirota-psilocybin-phosphorylation-synthesis]]
+- [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]]
+- [[tetrabenzylpyrophosphate-phosphorylation-psilocybin-synthesis-shirota]]
+- [[oxidative-phosphorylation-mitochondrial-respiration]]

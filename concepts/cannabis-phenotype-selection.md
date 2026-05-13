@@ -14,19 +14,7 @@ tags: [cannabis]
 
 Phenotype selection is the process of choosing individual cannabis
 plants based on their observable traits for use as breeding parents or
-cloning stock. It is the core activity of any cannabis [[cervantes-breeding-program-design-goal-setting]],
-determining which genetic combinations are preserved and propagated into
-future generations. Cervantes' breeding chapter, authored by Chimera,
-provides thorough guidance on selection methodology.
-
-## Understanding Phenotype
-
-A phenotype is any observable, measurable, or categorizable
-representation of a trait. Every plant has many different phenotypes.
-For example, plant height may be categorized as short, medium, or tall.
-Calyx color phenotypes include green, purple, and green with purple
-markings. Calyx size, calyx shape, leaf size, leaf shape, branching
-pattern, and [[cannabis-glandular-trichome-types-resin-production-clarke]] all represent different selectable
+cloning stock. It is the core activity of any cannabis [[cannabis-glandular-trichome-types-resin-production-clarke]] all represent different selectable
 phenotypes.
 
 All phenotypes result from genes acting within plant cells. Sometimes a
@@ -54,9 +42,7 @@ selection priorities:
   limited vertical space.
 - Large, densely formed buds with high calyx-to-leaf ratio.
 - Discernible taste, particular flavors, and desirable aromas.
-- High [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] and quality of effect (long-lasting, soaring, or
-  sedative depending on preference).
-- Resistance to specific [[solomon-insects-and-diseases-integrated-approach]] common in indoor
+- High [[solomon-insects-and-diseases-integrated-approach]] common in indoor
   environments.
 - Overall vigor and good health as a general rule.
 
@@ -69,21 +55,8 @@ environmental conditions. Key priorities include:
 - Mold resistance, particularly botrytis (grey mold) and powdery
   mildew.
 - Adaptation to local climate, including temperature, humidity, and
-  [[cannabis-photoperiodism-and-light-cycles]].
-- [[cannabis-disease-pest-resistance-breeding-clarke]] to local insect and pathogen populations.
-- Suitable stature for the [[cannabis-growing-environment-setup]] (not exceeding 6 feet
-  if space is limited).
-
-Selecting the earliest of the most potent plants better preserves
-potency than selecting the most potent of the early plants.
-
-## Applying Selection Pressures
-
-Breeders can expose potential breeding parents to specific environments
-or pathogens to reveal genetic strengths and weaknesses. For mold
-resistant varieties, grow candidates in a mold-prone environment and
-select those that resist infection. For potent varieties, select only
-the most potent plants after [[cannabis-harvest-and-curing]]. Plants that require
+  [[cannabis-disease-pest-resistance-breeding-clarke]] to local insect and pathogen populations.
+- Suitable stature for the [[cannabis-harvest-and-curing]]. Plants that require
 finishing under 6 feet should be sourced from parents that mature at
 less than 6 feet.
 
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[photoperiodism]]
-- [[vic-high-cannabis-phenotype-selection-criteria]]
 - [[cannabis-phenotype-and-genotype-guide]]
 - [[cannabis-breeding-traits-selection-criteria-clarke]]

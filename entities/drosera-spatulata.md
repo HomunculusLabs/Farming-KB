@@ -18,43 +18,7 @@ sources:
 
 ## Overview
 
-**Drosera spatulata**, the spoon-leaved sundew, is a small carnivorous plant in the family Droseraceae. It is among the most widely distributed sundew species, native to [[psilocybe-southeast-asia-pacific]], Japan, Australia, and New Zealand.
-
-The species forms compact rosettes typically 3–5 cm in diameter. Its spoon-shaped laminae covered in glandular trichomes give it both its common and scientific name.
-
-D. spatulata is one of the most frequently cultivated sundews due to its small size and adaptability. It has become naturalized in several regions outside its native range.
-
-## Taxonomy and Morphology
-
-**Classification:** Plantae → Caryophyllales → Droseraceae → Drosera → D. spatulata.
-
-Authority: Labill. (1805). The species epithet refers to the spatulate (spoon-shaped) leaf lamina.
-
-**Leaf structure:** Each leaf consists of a narrow petiole and a broadly spoon-shaped lamina up to 5 mm long. The lamina is densely covered with tentacles bearing mucilaginous glandular heads.
-
-**Tentacles:** Two types are present. Stalked glands on the lamina surface secrete adhesive mucilage and digestive enzymes. Sessile glands along the petiole also contribute to prey capture.
-
-**Flowers:** Inflorescences are scape-like, producing 5–20 small white or pink flowers approximately 8–12 mm in diameter. Flowers are self-pollinating in many populations.
-
-**Roots:** The root system is minimal, consisting of a few thin roots primarily for anchorage. Nutrient absorption occurs almost entirely through the leaves.
-
-## Distribution and Habitat
-
-D. spatulata occupies one of the broadest natural ranges of any Drosera species. It is found across Southeast Asia including Thailand, Vietnam, Malaysia, and Indonesia.
-
-Populations also occur throughout Japan, southern China, Taiwan, the Philippines, Papua New Guinea, and eastern Australia. Disjunct populations exist in New Zealand.
-
-The species typically grows in open, sunny, nutrient-poor environments. These include sphagnum bogs, sandy seepages, roadside ditches, and damp cliff faces at elevations from sea level to approximately 1800 m.
-
-It is remarkably tolerant of disturbed habitats and often colonizes artificial wet areas. Naturalized populations have established in Hawaii, Portugal, and parts of tropical America.
-
-## Trapping Mechanism
-
-The trapping mechanism follows the standard Drosera model of flypaper-type carnivory. Tentacles on the leaf lamina secrete a glistening drop of mucilage at each glandular tip.
-
-When an insect contacts the mucilage, it becomes stuck. Adjacent tentacles bend toward the prey within minutes through thigmonastic movement, bringing additional glands into contact.
-
-The leaf itself may slowly fold over larger prey items. Digestive enzymes including proteases and chitinases [[query-can-fungi-break-down-plastic-pollution]] the prey over several hours to days.
+**Drosera spatulata**, the spoon-leaved sundew, is a small carnivorous plant in the family Droseraceae. It is among the most widely distributed sundew species, native to [[query-can-fungi-break-down-plastic-pollution]] the prey over several hours to days.
 
 Absorbed nutrients, primarily nitrogen and phosphorus, supplement the plant's intake from the impoverished substrate. This adaptation allows D. spatulata to thrive where most plants cannot compete.
 
@@ -74,7 +38,7 @@ D. spatulata is considered one of the easiest carnivorous plants to grow. It is 
 
 ## Related Species and Variation
 
-D. spatulata exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range, leading to historical [[neurotropic-fungi-taxonomic-confusion-and-identification]]. Several former varieties and subspecies have been described.
+D. spatulata exhibits considerable morphological [[neurotropic-fungi-taxonomic-confusion-and-identification]]. Several former varieties and subspecies have been described.
 
 The Japanese form tends to produce broader laminae with more pronounced red coloration. Australian populations often display narrower petioles and a more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit.
 
@@ -87,3 +51,88 @@ The species hybridizes naturally with several congeners where ranges overlap. Hy
 In its native habitats, D. spatulata contributes to local insect population control. It captures small flying insects including gnats, midges, and winged ants.
 
 The species serves as a food source for specialized herbivores in some regions. Caterpillars of certain moths feed on the leaves and flowers despite the mucilage.
+
+## Overview
+
+Drosera Spatulata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish drosera spatulata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving drosera extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Drosera Spatulata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for drosera spatulata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+drosera spatulata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Drosera Spatulata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of drosera spatulata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[drosera-adelae]]
+- [[drosera-aliciae]]
+- [[drosera-burmannii]]
+- [[drosera-capensis]]
+- [[drosera-peltata]]

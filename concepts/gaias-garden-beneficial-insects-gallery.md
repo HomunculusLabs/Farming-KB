@@ -23,8 +23,7 @@ type: concept
 In a healthy ecological garden, over 90% of insect species are either beneficial
 or harmless. Only a small fraction cause noticeable damage, and many of these
 are held in check by predators and parasitoids that share the same habitat. The
-key to [[fukuoka-natural-pest-balance]] control is not eliminating insects wholesale but creating
-conditions where beneficial species thrive and maintain [[fukuoka-ecological-balance-principles]].
+key to [[fukuoka-ecological-balance-principles]].
 
 ## The Decline of Beneficial Insects
 
@@ -34,28 +33,8 @@ predators and parasitoids overwintered. Pesticide use and the removal of these
 habitat features devastated beneficial populations. Without natural enemies, pest
 species exploded, requiring ever more pesticides — a vicious cycle that
 conventional agriculture has yet to escape. The ecological garden reverses this
-pattern by providing habitat, food, and shelter [[query-how-do-i-design-habitat-for-beneficial-insects]].
-
-## Predatory Insects
-
-Predators hunt and consume other insects directly. They are the garden's first
-line of defense against pest outbreaks.
-
-**Lady beetles** are among the most recognizable beneficial insects. Both
-adults and larvae are voracious predators of aphids, scale insects, mealybugs,
-and other soft-bodied pests. A single lady beetle larva may consume 400 aphids
-during its development. Adults can eat 5,000 aphids in a lifetime. The larvae,
-which look like small black-and-orange alligators, are actually more voracious
-than the adults. Lady beetles overwinter in leaf litter and under bark, making
-mulched gardens ideal habitat.
-
-**[[ground-beetles-carabidae-and-biological-pest-control]]** are large, fast-running predators that hunt at night. They
-consume slugs, cutworms, [[cervantes-nematodes-root-maggots-soil-pests]], and other soil-dwelling pests. They
-require undisturbed soil and ground cover; bare, tilled soil provides no
-refuge.
-
-**Rove beetles** are slender, active predators found under mulch and leaf
-litter. They feed on soil-dwelling pests including [[cervantes-root-maggots-cutworms]] and fungus gnat
+pattern by providing habitat, food, and shelter [[ground-beetles-carabidae-and-biological-pest-control]]** are large, fast-running predators that hunt at night. They
+consume slugs, cutworms, [[cervantes-root-maggots-cutworms]] and fungus gnat
 larvae.
 
 **Lacewings** are delicate, green-winged insects whose larvae are called
@@ -75,16 +54,7 @@ consume the host from within, killing it. Though gruesome, parasitoids are
 extraordinarily effective and specific in their prey.
 
 **Braconid wasps** inject eggs into caterpillars including cabbageworms,
-tomato hornworms, and [[fukuoka-textdoc-invasive-pest-quarantine-medfly-codling-moth]] larvae. The wasp larvae feed internally,
-and when mature, spin white cocoons on the host's exterior. Gardeners who find
-tomato hornworms covered in white cocoons should leave them alone — the wasps
-have already done their work.
-
-**Chalcid wasps** parasitize aphids, scale insects, whiteflies, and the larvae
-of various beetles and flies. They are among the most important biological
-control agents in orchards.
-
-**Ichneumon wasps** are larger [[parasitic-wasps-biological-pest-control]] that attack caterpillars and
+tomato hornworms, and [[parasitic-wasps-biological-pest-control]] that attack caterpillars and
 wood-boring beetle larvae.
 
 A critical point: adult parasitic wasps feed on nectar and pollen, not other
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[gaias-garden-beneficial-insects-pest-management]]
-- [[gaias-garden-beneficial-birds-wildlife]]
 - [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - [[query-how-do-i-design-habitat-for-beneficial-insects]]

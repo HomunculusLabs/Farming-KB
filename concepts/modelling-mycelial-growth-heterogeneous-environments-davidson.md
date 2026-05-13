@@ -1,22 +1,8 @@
 # Modelling Mycelial Growth in Heterogeneous Environments
 
 ## Overview
-[[gadd-mathematical-modelling-fungal-mycelia]] provides a powerful tool for understanding how fungal mycelia
-grow, function, and interact with their environments. By combining continuum
-(partial differential equation) models with discrete (cellular automaton) approaches,
-researchers can simulate mycelial growth in both uniform and heterogeneous
-environments — including soils — with remarkable accuracy. This work, pioneered by
-F.A. Davidson, G.P. Boswell, and colleagues, bridges [[bloomfield-buller-experimental-mycology]] with
-computational biology. (see [[mathematical-modelling-fungal-mycelia-davidson]]).
-
-## The Continuum Model
-The foundation is a continuum mathematical model that describes mycelial growth
-as a density field over space and time. The model captures several key processes:
-
-### Core Processes Modelled
-1. **Tip extension**: Growth occurs at hyphal tips, which extend into the
-   surrounding medium at a rate dependent on internal nutrient reserves and
-   external conditions. (see [[mycelial-growth-modeling-heterogeneous-environments]]).
+[[bloomfield-buller-experimental-mycology]] with
+computational biology. (see [[mycelial-growth-modeling-heterogeneous-environments]]).
 2. **Substrate uptake**: Hyphae absorb nutrients (particularly carbon sources) from
    the surrounding environment through their surface area.
 3. **Active translocation**: Internal nutrients are actively transported through
@@ -27,16 +13,11 @@ as a density field over space and time. The model captures several key processes
 5. **Hyphal inactivation and reactivation**: Hyphae can become inactive when
    nutrient-depleted and be reactivated when nutrients become available.
 6. **Branching**: New hyphal tips are produced through branching, with branching
-   rate influenced by internal [[leaf-tissue-analysis-crop-nutrient-status]].
-7. **Anastomosis**: Hyphae fuse where they contact each other, creating
-   connections that enable [[lowenfels-mycorrhizal-network-nutrient-sharing]] and network formation.
+   rate influenced by internal [[lowenfels-mycorrhizal-network-nutrient-sharing]] and network formation.
 
 ### Environmental Interactions
 The model accounts for the fungus's impact on its environment:
-- **Acidification**: [[singh-fungal-metabolism-pahs]] acidifies the surrounding medium, which
-  is modelled as proportional to internal substrate concentration.
-- **Nutrient depletion**: External substrate is consumed as the colony grows,
-  creating gradients that influence [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]].
+- **Acidification**: [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]].
 
 ## Tessellated Agar Droplet Experiments
 The model was validated against experimental data from a tessellated agar droplet
@@ -88,3 +69,82 @@ researchers developed a hybrid model:
 The model uniquely combines:
 - **"Cell" models**: Used for modelling internal/external substrate and hyphal
   tips (each cell takes a value representing current state).
+
+## Overview
+
+Modelling Mycelial Growth Heterogeneous Environments Davidson represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish modelling mycelial growth heterogeneous environments davidson
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving modelling extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Modelling Mycelial Growth Heterogeneous Environments Davidson finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for modelling mycelial growth heterogeneous environments davidson. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+modelling mycelial growth heterogeneous environments davidson and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Modelling Mycelial Growth Heterogeneous Environments Davidson has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of modelling mycelial growth heterogeneous environments davidson into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

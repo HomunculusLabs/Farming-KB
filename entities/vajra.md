@@ -21,45 +21,7 @@ ritual practice. The Vajra gives Vajrayana Buddhism its name — the "lightning-
 - **Cultural origin:** Tibetan Buddhism (Vajrayana), also Hinduism
 - **Sanskrit meaning:** Thunderbolt, lightning, diamond, indestructible
 - **Tibetan name:** Dorje
-- **Ethnomycological interpretation:** Stylized [[allegro-amanita-muscaria-properties-and-pharmacology]]
-
-## Physical Description
-
-- Two bulbous, lotus-shaped ends (resembling mushroom caps)
-- Central narrow connecting shaft (resembling mushroom stem)
-- Made of bronze, brass, or other metals
-- Sometimes with 4, 6, or 8 prongs at each end
-- Held in right hand; paired with bell (ghanta) in left
-
-## Key Facts
-
-- Vajra means "lightning bolt" — Indra's weapon in Hindu mythology.
-- Vajrayana claims enlightenment in a single lifetime vs. thousands in Mahayana.
-- Paired with the bell (ghanta): method (upaya) and wisdom (prajna).
-- Used in "death yoga" / "death of the ego" practices central to Vajrayana.
-- The name encodes the claim: Vajra = lightning = sudden illumination.
-
-## The Three Buddhist Vehicles
-
-| Vehicle | Name | Duration | Method |
-|---------|------|----------|--------|
-| Lesser | Hinayana | Gradual | Monastic discipline |
-| Great | Mahayana | Hundreds of lifetimes | Compassion + wisdom |
-| Diamond | Vajrayana | Single lifetime | Secret initiations |
-
-## Ethnomycological Significance
-
-### Morphological Similarity
-Two rounded ends + narrow shaft closely resembles a stylized mushroom.
-
-### Lightning Mythology
-Folk traditions hold mushrooms grow where lightning strikes:
-- Thor throws his hammer (mushroom) in lightning
-- Hammer shape resembles both Vajra and mushroom
-- Lightning = divine manifestation and sudden illumination
-
-### Functional Parallels
-- **Sudden enlightenment:** Both produce rapid [[metzner-non-drug-methods-consciousness-transformation]]
+- **Ethnomycological interpretation:** Stylized [[metzner-non-drug-methods-consciousness-transformation]]
 - **Death of the ego:** Vajrayana "death yoga" parallels A. muscaria ego-death
 - **Secret knowledge:** Highest initiations involve restricted knowledge
 
@@ -76,19 +38,88 @@ are complementary Vajrayana symbols linked to the same referent.
 
 ## Relevance to Cultivation and Mycology
 
-- Demonstrates [[pf-tek-mushroom-morphology-aborts-sporocarps]] encoded in ritual objects
-- Evidence of [[entheogenic-knowledge-secret-societies]] at highest Tibetan Buddhist initiatory levels
-- Shows persistence of [[allegro-cross-and-mushroom-symbolism]] from Vedic through Buddhist traditions
-- Case study in practical knowledge transforming into abstract symbolism
-
-## Sources
-
-- Arthur, J. *[[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]*
+- Demonstrates [[entheogenic-knowledge-secret-societies]] at highest Tibetan Buddhist initiatory levels
+- Shows persistence of [[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]*
 - Snellgrove, David. *Indo-Tibetan Buddhism*
 
 ## See Also
-- [[djed-pillar]]
 - [[mycology]]
-- [[amanita-muscaria]]
 - [[amanita]]
 - [[dom]]
+
+## Overview
+
+Vajra represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vajra
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vajra extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vajra finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vajra. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vajra and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vajra has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vajra into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

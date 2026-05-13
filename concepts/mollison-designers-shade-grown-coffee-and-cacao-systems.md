@@ -18,18 +18,10 @@ type: concept
 # Shade-Grown Coffee and Cacao Systems
 
 Coffee (Coffea spp., especially C. arabica and C. robusta) and cacao
-([[theobroma-cacao]]) are presented in the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as
+([[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as
 ideal understory crops within tropical polycultures. Rather than being
-grown as monoculture plantations, both crops achieve their [[query-which-cannabis-training-techniques-produce-highest-yields]]
-and quality when integrated into multi-strata systems that mimic natural
-forest architecture.
+grown as monoculture plantations, both crops achieve their [[mollison-designers-coffee-shade-growing-systems]] Concepts
 
-## Coffee as an Understory Crop
-
-Coffee bushes thrive in the shade of larger trees. In the discussion of
-[[mollison-designers-coffee-shade-growing-systems]] Concepts
-
-- [[mollison-wet-tropical-forest-structure-and-polyculture]]
 - [[mollison-avenue-cropping-with-legumes]]
 - mollison-evolving-polyculture-systems-for-settlements
 ## Practical Applications

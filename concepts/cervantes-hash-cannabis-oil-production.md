@@ -12,11 +12,9 @@ type: concept
 
 # Hash and Cannabis Oil Production
 
-Hash oil and cannabis oil are concentrated forms of [[blesching-cannabis-resin-preparations-kief-hashish-concentrates]]
-that extract tetrahydrocannabinol (THC) and other cannabinoids
-from plant material using solvents. [[jorge-cervantes]] covers these
+Hash oil and cannabis oil are concentrated forms of [[jorge-cervantes]] covers these
 concentrates in Chapter Fifteen of the Marijuana Horticulture guide,
-providing both [[ghouled-field-guide-historical-context]] and practical [[hashish-production-methods]].
+providing both [[hashish-production-methods]].
 These products represent some of the most potent forms of cannabis
 available, but they carry significant safety concerns related to
 both production methods and residual solvents.
@@ -27,10 +25,6 @@ Hash oil is a concentrate made by dissolving hashish or marijuana
 in hydrocarbon solvents such as ether or alcohol to extract THC and
 other cannabinoids. The resulting oils can be extremely concentrated
 and potent, often containing 60 to 90 percent THC depending on
-[[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] and extraction efficiency. However, hash and
-cannabis oils frequently retain residues from the solvents used in
-extraction, which represent a health risk to consumers.
-
 [[cannabis-honey-oil-production]] was popular in America during the early 1970s. It was
 a translucent golden-amber color with a consistency that ranged
 from stiff and toffee-like at room temperature to runny oil when
@@ -51,8 +45,7 @@ glass bubble, and heat is applied to vaporize the THC for inhalation.
 
 Cervantes does not recommend volatile solvent extraction due to
 the dangerous chemicals involved. Common solvents include isopropyl
-alcohol, [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]], and white gas (naphtha). The basic process
-involves [[knf-seed-soaking-cannabis-germination]] material in the solvent, then removing
+alcohol, [[knf-seed-soaking-cannabis-germination]] material in the solvent, then removing
 the solvent by evaporation. The resulting residue is a sludge
 containing chlorophyll, plant waxes, other debris, and cannabinoids.
 
@@ -118,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocin]]
 - [[indole]]
-- [[tetrahydrocannabinol]]
 - [[hashish]]
 - [[cannabis-honey-oil-production]]

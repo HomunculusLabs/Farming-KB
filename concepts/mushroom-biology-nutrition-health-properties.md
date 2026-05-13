@@ -12,7 +12,7 @@ Mushrooms belong to the kingdom Fungi, a group of organisms fundamentally differ
 
 Fungi exhibit diverse feeding strategies. Some feed exclusively on **dead organic matter**, playing a vital ecological role as decomposers. Others feed on **living plants or animals**, where their relationship may be harmful (pathogenic) or beneficial to the host organism.
 
-Successful mushroom cultivation requires a carefully **controlled environment**. Key environmental factors that must be managed include:
+Successful mushroom cultivation requires a carefully **controlled environment**. Key [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that must be managed include:
 
 - **Humidity** — mushrooms require high moisture levels to thrive
 - **Light** — specific light conditions influence growth direction and fruiting
@@ -30,7 +30,7 @@ Mushrooms are classified into three main ecological groups based on how they obt
 
 ### 1. Saprophytes
 
-Saprophytic mushrooms feed on **dead plants and animals**. They are nature's primary recyclers, breaking down complex organic matter such as fallen trees, dead leaves, and agricultural waste, returning nutrients to the soil for future plant growth. A well-known example is **Pleurotus ostreatus** (Hed Nangrom, the oyster mushroom), which commonly grows on decaying wood and straw. These mushrooms are the most commonly cultivated species because they can be grown on a wide variety of inexpensive organic substrates, making them accessible to small-scale and home growers.
+[[growing-gourmet-saprophytic-mushrooms-decomposers]] feed on **dead plants and animals**. They are nature's primary recyclers, breaking down complex organic matter such as fallen trees, dead leaves, [[fungi-in-composting-and-agricultural-waste-conversion]], returning nutrients to the soil for future plant growth. A well-known example is **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]** (Hed Nangrom, the oyster mushroom), which commonly grows on decaying wood and straw. These mushrooms are the most commonly cultivated species because they can be grown on a wide variety of inexpensive organic substrates, making them accessible to small-scale and home growers.
 
 ### 2. Parasites
 
@@ -87,28 +87,17 @@ These values highlight the variation in nutritional content across species. Oyst
 
 ## Health Properties (Thai Traditional Medicine)
 
-In Thai traditional medicine, specific mushroom species have long been recognized for their therapeutic properties. Each variety is associated with particular health benefits:
+In Thai traditional medicine, specific mushroom species have long been recognized for their [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]. Each variety is associated with particular health benefits:
 
 | Thai Name | Scientific Name | Health Property |
 |-----------|----------------|-----------------|
 | Hed Khon | Termitomyces sp. | Good for brain and memory |
-| Hed Fang | [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] | Heal wounds |
-| Hed Muerk | Coprinus sp. | Help digestion, decrease phlegm |
-| Hed Hu-noo | Auricularia sp. | Clean lungs |
-| Hed Kradum | Agaricus sp. | Increase mother's milk |
-| Hed Hua-ling | [[cancer-medicinal-mushrooms-hericium-erinaceus]] | Heal wounds in intestine |
+| Hed Fang | [[cancer-medicinal-mushrooms-hericium-erinaceus]] | Heal wounds in intestine |
 | Hed Nangrom | Pleurotus sp. | Decrease muscle malpighia |
 | Hed Hom | Lentinula edodes | Good for baby's cartilage |
-| Hed Khemthong | [[flammulina-velutipes]] | Good for liver |
-| Hed Yanagi | Agrocybe cylindraceae | Good for kidney and urine |
-| Hed Kraeng | [[schizophyllum-commune]] | Decrease leucorrhea |
+| Hed Khemthong | [[schizophyllum-commune]] | Decrease leucorrhea |
 | Hed Ranghae (Skirt) | Dictyophora sp. | Cure dysentery, decrease rotting |
-| Hed Hu-noo Khao | [[tremella-fuciformis]] | Good for sperm, semen, kidney |
-| Hed Bod | Lentinus sp. | Control the whole body system |
-
-Many of these traditional uses are now being investigated by modern science, with research confirming bioactive compounds such as polysaccharides, beta-glucans, and triterpenes that support immune function, reduce inflammation, and possess antioxidant properties. For example, **Hericium erinaceus** (Hed Hua-ling) has been studied for its nerve growth factor-stimulating compounds that may support neurological health, while **Lentinula edodes** (Hed Hom) contains lentinan, a polysaccharide with well-documented immune-enhancing effects.
-
-The practice of using [[mycelium-running-stamets-mushrooms-as-medicine]] in Thailand reflects centuries of accumulated knowledge passed down through generations of traditional healers and rural communities. Incorporating mushrooms into daily diets serves both preventive and therapeutic purposes in this tradition.
+| Hed Hu-noo Khao | [[mycelium-running-stamets-mushrooms-as-medicine]] in Thailand reflects centuries of accumulated knowledge passed down through generations of traditional healers and rural communities. Incorporating mushrooms into daily diets serves both preventive and therapeutic purposes in this tradition.
 
 ## Uses of Mushrooms
 
@@ -116,6 +105,6 @@ Mushrooms serve a wide range of purposes beyond basic nutrition:
 
 - **Food** — Consumed fresh, dried, or processed into snacks, pickles, and sweets. They are valued globally as a flavorful and nutritious food source, used in cuisines from Asia to Europe to the Americas. In Thailand, mushrooms are commonly used in stir-fries, soups (such as tom yum), and curries.
 
-- **Medicine** — Many species possess bioactive compounds with antimicrobial, anti-inflammatory, and immune-modulating properties. Both traditional medicine systems and modern pharmacology research utilize medicinal mushrooms for conditions ranging from immune deficiency to cardiovascular disease. Extracts and supplements derived from species like shiitake, reishi, and lion's mane are commercially available worldwide.
+- **Medicine** — Many species possess [[cordyceps-cancer-bioactive-compounds]] with antimicrobial, anti-inflammatory, and immune-modulating properties. Both traditional medicine systems and modern pharmacology research utilize medicinal mushrooms for conditions ranging from immune deficiency to cardiovascular disease. Extracts and supplements derived from species like shiitake, reishi, and lion's mane are commercially available worldwide.
 
 - **Industrial purposes** — Mushrooms and fungal derivatives are used in manufacturing for natural coloring agents, adsorbents for environmental cleanup, enzyme production, and bioremediation of contaminated soils. Mycelium-based materials are also emerging as sustainable alternatives to plastics and packaging, representing a growing frontier in green technology.

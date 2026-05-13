@@ -13,9 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Leafly (2024). \"GMO biscotti-cannabis-strain Information.\" leafly.com/strains/gmo."
-  - "AllBud (2024). \"GMO [[marijuana-strain-guide-hybrid]].\" allbud.com/gmo-strain."
-  - "Mamiko Seeds. \"GMO Strain Breeder Information.\" mamikoseeds.com."
-  - "Duncan, M. et al. (2021). \"Chemical profile of popular [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]].\" Cannabis and Cannabinoid Research, 6(4), 371–382."
+  - "AllBud (2024). \"GMO cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains.\" Cannabis and Cannabinoid Research, 6(4), 371–382."
   - "WikiLeaf (2024). \"GMO Strain Review.\" wikileaf.com/strain/gmo."
 ---
 
@@ -23,15 +21,7 @@ sources:
 
 ## Overview
 
-GMO, also known as "Garlic Cookies" or "GMO Cookies," is a highly potent indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing [[girl-scout-cookies]] (GSC) with Chemdawg. Bred by Mamiko Seeds and popularized by Divine Genetics, it has become one of the most sought-after strains of the 2020s for its exceptionally high THC content, unique savory pungent aroma, and deeply relaxing body effects. The "GMO" name stands for "Garlic, Mushroom, Onion" — a reference to its complex umami-forward [[cannabis-terpene-profile]] rather than genetic modification.
-
-The strain has earned a devoted following among medical patients seeking potent relief from pain, insomnia, and stress, and among recreational consumers who appreciate its distinctive flavor and heavy sedative effects.
-
-## Lineage
-
-| Parent | Type | Contribution |
-|--------|------|-------------|
-| **Girl Scout Cookies (GSC)** | Indica-dominant hybrid (OG Kush × Durban Poison) | Sweet, earthy base notes; high [[cannabis-glandular-trichome-types-resin-production-clarke]]; indica body effects |
+GMO, also known as "Garlic Cookies" or "GMO Cookies," is a highly potent indica-dominant [[girl-scout-cookies]] (GSC) with Chemdawg. Bred by Mamiko Seeds and popularized by Divine Genetics, it has become one of the most sought-after strains of the 2020s for its exceptionally high THC content, unique savory pungent aroma, and deeply relaxing body effects. The "GMO" name stands for "Garlic, Mushroom, Onion" — a reference to its complex umami-forward [[cannabis-glandular-trichome-types-resin-production-clarke]]; indica body effects |
 | **Chemdawg** | Balanced hybrid (Nigerian × Thai landrace × Chemdog lineage) | Diesel, chemical pungency; potency; complex terpene depth |
 
 - **Genetic ratio:** Approximately 90% indica / 10% sativa
@@ -88,3 +78,7 @@ The caryophyllene-dominant profile is unusual and directly responsible for the g
 - **Peak (30–90 min):** Deeply relaxing body high begins to dominate; physical tension melts away
 - **Late phase (1–3 hours):** Heavy sedation and "couch-lock"; strong urge to recline or sleep
 - **Total duration:** 2–4 hours depending on dose and individual tolerance
+
+## See Also
+
+- [[cannabis-for-neurological-conditions]]

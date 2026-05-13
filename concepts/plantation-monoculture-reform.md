@@ -69,68 +69,7 @@ Modern analyses consistently show that intercropping and polyculture raise both 
 
 ---
 
-## Economics of Palm Polyculture: Nair (1975) Data
-
-Nair's 1975 economic analysis of coconut-based systems provides compelling quantitative evidence for polyculture over monoculture:
-
-| System | Net Return (units) | Expense (units) | Net/Expense Ratio |
-|---|---|---|---|
-| Coconut only (rainfall < 7000mm) | 7,000 | 600 | 11.7× |
-| Coconut only (irrigated) | 1,512 | 267 | 5.7× |
-| Coconut + cacao | 3,122 | 1,300 | 2.4× |
-| Coconut + cacao + black pepper + pineapple | 3,882 | 1,880 | 2.1× |
-
-The key finding: adding three species to a coconut monoculture roughly **triples total net yield** while increasing costs by only **3.1×**. The polycultural system generates substantially more total production value and distributes income across multiple crop cycles, reducing risk and providing year-round returns to workers.
-
----
-
-## Re-Working Old Plantations (60+ Year Stands)
-
-Many tropical plantations contain stands of 60 years or more, well past the productive peak of their primary species. Coconut palms, for example, are over-mature at 40–80 years, with yields declining from an optimum of ~45 nuts per tree to 15 or fewer. Exceptional trees continue bearing 60–100 nuts per year and should be identified and retained.
-
-### Systematic Replacement Strategy
-
-Rather than clearing entire stands, adopt a gradual replacement programme:
-
-- Replace, replant, or regroup at a rate of **4% per annum** (approximately 50 palms per year in a typical stand)
-- This maintains continuous production while transitioning to younger, higher-yielding stock
-- Re-assess intercrop potential and local processing options as stands are opened up
-- Utilise all products of over-mature palms: trunks, fronds, sugars, and palm heart
-
----
-
-## Uses of Palm Trunks
-
-When mature palms are removed, the trunks become a valuable resource rather than waste:
-
-- **Building material**: Palm trunks provide serviceable timber for construction in tropical environments
-- **Mulch boxes**: Open box baskets constructed from trunk sections hold mulch for yams, vines, and other climbing crops
-- **Coral reef frames**: Trunk sections serve as frames onto which coral cements together, creating sheltered habitat for crayfish, crabs, and fish
-- **Silt and sand retention**: Trunks hold silt and sand in place for reclaiming lagoon areas and stabilising shorelines
-- **Planting benches on coral islands**: A layered pit system using palm trunk material:
-  - *Pit base*: taro, mint, parsley, kangkong
-  - *Pit sides*: cassava, papaya, yam, banana
-  - *Pit top*: sweet potato, heavily mulched
-
----
-
-## Extending Small Successful Trials
-
-The permaculture approach favours extending small, proven trials over launching broadscale monocultural experiments. Small trials are stable, observable, and adaptable. Broadscale trials introduce new variables — cost structures, control mechanisms, market dynamics, and labour organisation — that make outcomes unpredictable.
-
-The principle is to **prove the system at human scale, then replicate**, rather than scaling unproven assumptions across large areas. Size itself creates emergent factors that destabilise results.
-
----
-
-## Tradeoffs: Plantation Advantages vs Human-Centred Benefits
-
-### What Plantations Do Well
-
-Monoculture plantations offer genuine operational advantages: ease of harvest, mechanical efficiency, predictable yields, and straightforward logistics. These are real benefits that explain the historical dominance of the plantation model.
-
-### What Matters More
-
-However, malnutrition and low socioeconomic status remain endemic in wet tropics populations living within and around plantation systems. The operational efficiency of monoculture does not translate to community wellbeing.
+## Economics of [[query-what-is-polyculture-and-how-does-it-differ-from-monoculture|does]] not translate to community wellbeing.
 
 Mollison argues that the proper criteria for evaluating tropical land-use systems should be:
 
@@ -151,10 +90,8 @@ Where plantation monoculture fails on both counts, reform is not optional — it
 
 ## See Also
 
-- Polyculture
-- [[agroforestry]]
-- Commonwork
-- [[dighton-fungal-roles-soil-erosion-prevention]]
-- [[biological-pest-control-balance]]
-- Worker Cooperatives
-- [[termite-and-ant-ecology-in-tropical-agriculture]]
+- [[palm-plantation-economics-and-renewal]]
+- [[mckenna-madeira-sugar-plantation-origin-transatlantic-slavery]]
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
+- [[fukuoka-monoculture-meat-based-agricultural-system]]
+- [[jadam-monoculture-critique]]

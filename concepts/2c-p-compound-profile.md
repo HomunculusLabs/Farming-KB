@@ -34,41 +34,12 @@ Starting from p-dimethoxybenzene, Friedel-Crafts acylation with propionyl chlori
 | **Duration** | 10-16 hours |
 | **Onset** | 2-3 hours |
 
-The combination of [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] (6-10 mg), slow onset (2-3 hours), and long duration (10-16 hours) creates significant redosing risk. Users may believe nothing is happening and take more before the first dose has taken effect. Shulgin notes: "There may not be too much latitude in dosage between that which would be modest, or adequate, and that which would be excessive."
-
-## Qualitative Comments (from PIHKAL)
-
-**(6 mg):** "The material was so gentle in coming on, and soon my body became jangled. Thinking was easy. Verbalizing was easy. Being comfortable with my body was not. My back hurt and then my legs hurt. My lower back was in spasm. At first I did not particularly like what this drug was doing to my body, but took a good look at it and decided that I was the culprit. So much energy was going through me I didn't know what to do with it. The whole day was spent in physical discomfort. Food tasted good, and we nibbled all day."
-
-**(8 mg):** "Comes on slowly, not feeling intently until into 2nd hour. I feel slight discomfort but override it responding to music. Wonderful experience of clean, fresh, healing air. Find that discomfort zone is places where I think there is something wrong with me. I dissolve these places with the feeling I'm OK. Like myself better and better, and find more reasons to enjoy and appreciate myself. I find this material powerful, and an excellent working material. I feel that this material worked for a good week after the experience, with internal processes taking place, many insights, and energy running."
-
-**(9 mg):** "At the one hour point, I am barely off of baseline. It is not until almost the third hour that the experience is fully developed, and once there it is maintained for another four hours. I was well grounded but rather diffuse. I explored writing (which went quite well), interpretation (pictures and reading both OK) and talking (very good). This is an excellent level, and probably near the max."
-
-**(12 mg):** "Slow and even rise. At five minutes to seven (suddenly the clock time makes no sense at all) I am at a 3+ and feel that I have not yet plateau'd. Erotic was excellent. Music good. Eyes-closed imagery very different place than usual experiences. Slow, calm, strong images from an area that has no apparent connection with usual waking world, yet underlies all of it. A cool, wise place which has its own rules. Talking superb and fun. Excellent feeling the next day."
-
-## Effects
-
-- Powerful [[leary-psychedelic-experience-bardo-mapping]] at relatively low doses
+The combination of [[leary-psychedelic-experience-bardo-mapping]] at relatively low doses
 - Rich, colorful visual hallucinations
 - Deep philosophical and introspective thought
 - Significant time distortion
 - Long, gradual comedown
-- More intense than [[2c-c-compound-profile]]
-- Approaches the character of [[phenethylamine-receptor-pharmacology]] and [[2c-family-chemistry-and-sar-pihkal]] for a detailed structure-activity relationship analysis.
-
-## Overdose Note
-
-A single report of 16 mg was described as "clearly an overdose" and "a physical disaster, not to be repeated." The narrow margin between adequate and excessive doses makes individual titration critically important.
-
-## Harm Reduction
-
-- CRITICAL: Long onset (2-3 hours) + long duration (10-16 hours) = high redosing risk
-- Never take more if you don't feel effects within the first 2 hours
-- Plan for a full day and evening
-- Use accurate milligram scales -- the dose range is low (6-10 mg)
-- Despite being a phenethylamine, duration rivals amphetamine-based psychedelics
-- Not well-suited for group settings
-- Narrow [[blesching-cannabis-therapeutic-window-dosing]] -- titrate carefully
+- More intense than [[phenethylamine-receptor-pharmacology]] and [[blesching-cannabis-therapeutic-window-dosing]] -- titrate carefully
 
 ### Synthesis Notes
 
@@ -78,35 +49,92 @@ The synthesis of 2C-P from PIHKAL reveals several notable challenges for the che
 - The final LAH (lithium aluminium hydride) reduction step is described as "stubborn" with the propyl substrate, requiring H2SO4 activation to achieve reasonable yields. This suggests that the propyl chain creates steric hindrance that impedes the reduction of the nitrostyrene intermediate to the amine
 - The nitrostyrene condensation with nitromethane and ammonium acetate is a standard procedure across the 2C series, but the physical properties of the propyl intermediate make isolation and purification less straightforward than for shorter chain analogues
 - The overall synthesis requires standard organic chemistry laboratory equipment (Friedel-Crafts apparatus, distillation setup, inert atmosphere for LAH reduction) and is not considered accessible to amateur chemists without significant training and facilities
-- Related: [[2c-d-compound-profile]], [[doet-compound-profile]]
-- [[2c-t-7-compound-profile]]
+- Related: [[doet-compound-profile]]
+- [[det]]
+- [[2c-p]]
+- [[dmmda-compound-profile]]
+
+## Overview
+
+2C P Compound Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c p compound profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
-2C P Compound Profile has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
 
-## Historical Significance
-The development and understanding of 2c p compound profile has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
+2C P Compound Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
-Successful implementation of 2c p compound profile requires attention to local conditions, climate adaptability, and integration with existing ecological systems. Regular monitoring and adaptive management are essential for optimal results.
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c p compound profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c p compound profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+2C P Compound Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of 2c p compound profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[det]]
-- [[brassinosteroid]]
-- [[2c-p]]
-- [[lsm]]
-- [[dmmda-compound-profile]]
+
+- [[2c-d-compound-profile]]
+- [[2c-t-7-compound-profile]]
+- [[5-meo-dipt-compound-profile]]
+- [[dpt-compound-profile]]
+- [[plant-olfaction-volatile-organic-compound-signaling]]

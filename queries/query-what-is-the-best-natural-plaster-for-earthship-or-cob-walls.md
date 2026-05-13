@@ -39,7 +39,7 @@ Cob walls and earthen plaster are made from essentially the same materials — c
 
 **For cob exterior walls in dry climates** (less than 600 mm / 24 inches annual rainfall): Clay plaster works well with adequate roof overhangs (minimum 600 mm). Apply 3 coats totaling 25–40 mm (1–1.5 inches).
 
-**For cob exterior walls in wet climates** (more than 600 mm annual rainfall): Use [[comparison-lime-plaster-vs-earthen-plaster]] on the exterior for weather resistance, with clay plaster on the interior. Alternatively, use a **lime-stabilized earth plaster** (add 10–20% [[cervantes-hydrated-lime-quicklime-ph-adjustment]] to the clay mix) for improved water resistance while maintaining some breathability.
+**For cob exterior walls in wet climates** (more than 600 mm annual rainfall): Use [[cervantes-hydrated-lime-quicklime-ph-adjustment]] to the clay mix) for improved water resistance while maintaining some breathability.
 
 ### Best for Wet Climates: Lime Plaster (Exterior Only)
 
@@ -75,8 +75,7 @@ Earthship non-load-bearing walls are often built from cans and glass bottles mor
 The south-facing greenhouse portion of an earthship uses glazing rather than plaster on the glazing walls. However, any solid thermal mass walls within the greenhouse zone should use:
 
 - **Lime plaster** for moisture and humidity resistance
-- The greenhouse environment has high humidity and temperature swings; lime's [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] and moisture resistance are essential here
-- Consider **tadelakt** (burnished lime with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] soap) for any waterproof surfaces within the greenhouse zone
+- The greenhouse environment has high humidity and temperature swings; lime's [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] soap) for any waterproof surfaces within the greenhouse zone
 
 ## Summary: Recommended Plaster by Wall Type and Climate
 
@@ -86,41 +85,5 @@ The south-facing greenhouse portion of an earthship uses glazing rather than pla
 | **Earthship tire walls** | Clay or lime | Lime plaster (over mesh) | Clay plaster |
 | **Earthship can/bottle walls** | Clay plaster | Clay plaster (interior only) | Clay plaster |
 | **Earthship greenhouse walls** | Lime plaster | Lime plaster | Lime plaster |
-| **[[comparison-cob-construction-vs-straw-bale-construction]]** | Clay plaster (thick) | Lime exterior, clay interior | Clay plaster |
-
-## Practical Tips for Both Wall Systems
-
-1. **Always test your soil first**: Do a simple jar test (shake soil + water in a jar, let settle for 24 hours) to determine clay-to-sand ratio. Ideal plaster soil is roughly 25% clay and 75% sand.
-
-2. **Make test panels**: Mix small batches of your plaster and apply to a sample section of wall. Observe adhesion, cracking, and finish quality before committing to the full wall.
-
-3. **Dampen walls thoroughly**: Both cob and earthship walls should be soaked with water before plaster application. A dry wall will suck moisture out of the plaster too fast, causing cracking and poor adhesion.
-
-4. **Keep walls damp between coats**: Mist-spray the wall and any previously applied coats before each new coat. This ensures good bonding between layers.
-
-5. **Protect new plaster from sun and wind**: Shade the walls with tarps during application and initial curing. Direct sun and wind cause rapid drying and cracking.
-
-6. **Apply in thin layers**: Never apply more than 20 mm (¾ inch) of plaster in a single pass. Thicker coats are prone to slumping and cracking.
-
-7. **Use wide roof overhangs**: The best plaster protection is good design. Overhangs of 600–900 mm (24–36 inches) keep rain off walls and dramatically extend plaster lifespan.
-
-8. **Seal exterior clay plaster in marginal climates**: If using clay plaster on exterior cob walls in climates that are occasionally wet, apply a **limewash** (thin lime solution brushed on in 3–5 coats) as a water-resistant but breathable top coat. This gives you clay's ease and breathability with added weather protection.
-
-## Final Recommendation
-
-For **cob walls**, start with clay plaster — it is the default, the cheapest, and the most compatible. Switch to lime only if your climate demands it. For **earthship walls**, use lime plaster on tire walls and in the greenhouse zone, and clay plaster everywhere else. In all cases, apply clay plaster to interior surfaces for the best combination of comfort, cost, and beauty.
-
-## Common Mistakes to Avoid
-
-- **Plastering too soon**: Cob walls must dry thoroughly before plastering — at least 2–4 weeks for thin walls, 2–3 months for thick load-bearing walls. Plastering over wet cob traps moisture and causes blowouts and delamination.
-- **Skipping the dampening step**: Failing to thoroughly wet the wall before plaster application is the single most common cause of plaster failure on earthship and cob walls.
-- **Using cement stucco on earth walls**: Portland cement is less breathable than both lime and clay and will trap moisture inside cob and earthship tire walls, leading to deterioration of the wall material behind the plaster.
-- **Applying lime directly over clay on exteriors**: Without a mechanical separator (metal lath), lime plaster on a clay substrate can delaminate in wet conditions as the underlying clay softens.
-- **Ignoring roof overhangs**: No plaster, natural or otherwise, can withstand persistent direct rain exposure. Adequate roof overhangs (minimum 600 mm) are essential for any natural plaster system.
-- **Rushing lime curing**: Lime plaster needs consistent moisture during curing. Letting it dry too fast (from sun, wind, or freezing) produces a weak, crumbly surface that will not achieve full strength or water resistance.
-
-## See Also
-
-- [[earth-plaster-and-natural-finishes]]
-- [[cob-construction]]
+| **[[earth-plaster-and-natural-finishes]]
 - [[rammed-earth]]

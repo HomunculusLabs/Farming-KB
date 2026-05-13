@@ -15,16 +15,7 @@ JADAM's approach to replenishing minerals leached from soil is strikingly simple
 
 ## The Leaching Problem
 
-Through the process of natural leaching, essential minerals are continuously washed out of soil by rain and irrigation. This is a global problem: over hundreds of years, soil loses minerals that ultimately accumulate in the ocean. Rather than trying to identify which specific mineral is deficient (which even scientists struggle to measure accurately), JADAM takes a macro approach: return the full spectrum of [[ingham-seaweed-sea-minerals-compost-tea]] to the soil.
-
-## Seawater Composition
-
-To date, 83 elements have been identified in seawater. The major elements include:
-- Chlorine, Sodium, Sulfur, Magnesium, Calcium, Potassium (major)
-- Boron, Silicon, Strontium, Carbon, Nitrogen (secondary)
-- Phosphorus, Iodine, Manganese, Zinc, Copper, Iron, Selenium, Germanium (trace)
-
-Seawater contains about 100 million marine microorganisms per milliliter, making it an excellent companion to [[jadam-phyllite-solution]]
+Through the process of natural leaching, essential minerals are continuously washed out of soil by rain and irrigation. This is a global problem: over hundreds of years, soil loses minerals that ultimately accumulate in the ocean. Rather than trying to identify which specific mineral is deficient (which even scientists struggle to measure accurately), JADAM takes a macro approach: return the full spectrum of [[jadam-phyllite-solution]]
 - Warning: Never spray undiluted seawater or sprinkle salt directly onto soil
 
 ## Effects on Crops
@@ -35,7 +26,7 @@ Using seawater not only supplements leached minerals but also improves:
 - Storage period and shelf life
 - Overall product value and marketability
 
-Combined with JMS, [[ultra-low-cost-foliar-application-methods]] of seawater eliminates [[cervantes-powdery-mildew-prevention-treatment]]. The Korean National Institute of Agricultural Sciences has confirmed the benefits.
+Combined with JMS, [[cervantes-powdery-mildew-prevention-treatment]]. The Korean National Institute of Agricultural Sciences has confirmed the benefits.
 
 ## The Philosophy of Completeness
 
@@ -66,7 +57,7 @@ iron, zinc, manganese, copper, boron, molybdenum, and selenium.
 Dilution ratios are critical for agricultural use. Cho Han-kyu
 recommends a base dilution of 1:30 (seawater to fresh water) for
 soil drenching, with adjustments based on crop sensitivity and
-[[cho-plant-growth-stage-treatment-protocols]]. [[solomon-leafy-greens-growing]] and young transplants require more
+[[solomon-leafy-greens-growing]] and young transplants require more
 dilute solutions (1:50 to 1:100), while established fruit trees
 can tolerate stronger concentrations (1:20 to 1:10).
 
@@ -89,9 +80,7 @@ water after foliar seawater application to prevent salt burn on
 leaf surfaces.
 ## See Also
 
-- [[jadam-phyllite-solution]] -- the complementary rock mineral source
 - [[jadam-soil-foundation-work]] -- the comprehensive soil preparation method
-- [[jadam-leaf-mold-soil-method]]
 - [[fukuoka-natural-diet-food-philosophy]]
 
 ## Practical Applications
@@ -123,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jadam-microbial-solution]]
 - [[youngsang-cho]]
-- [[silicon]]
 - [[jadam-natural-mineral-leaching-and-replenishment]]
 - [[jadam-soil-mineral-replenishment]]

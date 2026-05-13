@@ -6,37 +6,19 @@ type: concept
 tags: [permaculture, design]
 sources: [papers/a-selection-permaculture-plants.md]
 ---
-# Permaculture Vine Crops Vines occupy a unique vertical niche in [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], vines form the vertical layer between shrubs and canopy.
-
-## Passionfruit (Passiflora spp)
-Family: PASSIFLORACEAE. More than 40 edible species, mostly tropical to subtropical, woody, fruiting vines that climb by tendrils. Fruit falls when ripe. Named by the Spanish who saw the flowers as reminders of Christ's passion.
-
-### Key Species
-
-**Passiflora edulis** (purple passionfruit) -- Best known species, native to Brazil. Subtropical, fairly dense, evergreen. Prefers moist, well-drained, fertile, neutral to slightly alkaline soil. Withstands occasional light frosts. Two crops per year in warm conditions; sometimes year-round. Eaten raw, juiced, bottled, sauces, cakes, jellies. Seeds yield edible oil comparable to sunflower/soybean (12% protein, 50% fibre). Juice used medicinally as digestive stimulant and [[lentinan-gastric-cancer-combination-therapy]] treatment.
+# Permaculture Vine Crops Vines occupy a unique vertical niche in [[lentinan-gastric-cancer-combination-therapy]] treatment.
 
 **P. edulis var. flavicarpa** (yellow passionfruit) -- Less cold-tolerant but resistant to Fusarium wilt and nematodes. Does better climbing a tall tree rather than a trellis. Tall permaculture-tuber-crops). Requires deep, fertile, moist, well-drained soil. Unripe fruits used in soups, steamed and boiled with butter, nutmeg and pepper. Pulp contains passiflorine (sedative in large doses).
 
-**P. ligularis** (sweet granadilla) -- Native to central Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and western South America. Can shade and kill all understorey. Orange-yellow fruit with soft, translucent, perfumed pulp comparable to purple passionfruit. Cold tolerant to -1C. Eaten fresh or in drinks and desserts.
-
-**P. caerulea** (blue crown passionflower) -- Vigorous and hardy, native to south Brazil and Argentina. Small fruits edible and flavoursome but little juice. Used as rootstock for grafted purple passionfruit but root suckers often escape and become a nuisance.
-
-### Propagation
-Most can be grown from seed (fresh seed best). Passing seed through the digestive tract of a duck or human gives good germination results. Hydrochloric acid treatment also works. Many can be propagated from cuttings. Grafted cultivars available but rootstock can become a nuisance. See permaculture-companion-planting for grape companions: geraniums, mulberry, hyssop, basil, peas, beans, garlic
-
-## Grape Vines (Vitis spp)
-Grapes are classic permaculture vines suited to temperate and Mediterranean climates. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], train grapes on:
+**P. ligularis** (sweet granadilla) -- Native to central Mexico, [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], train grapes on:
 - Trellis along the permaculture-companion-planting)
 - Pergolas providing summer shade and winter sun access
 - Fence lines as productive boundaries
 
-Companion plants include geraniums, mulberry, hyssop, basil, peas, beans, and garlic. Avoid planting near radishes or hyssop. See [[zone-sector-analysis-guide]] for regular harvest access.
-
-## Hops (Humulus lupulus)
-Perennial vine in the Cannabaceae family. Grown commercially for [[comparison-beer-brewing-vs-cider-making]] but also has medicinal properties (sedative, sleep aid). Rapidly climbing, dies back to ground in winter. Useful as a productive shade vine for pergolas and walkways. Dried female flowers (cones) are the brewing ingredient. Provides permaculture-tuber-crops). Extremely productive and easy to grow -- a single plant can cover a large trellis. Frost tender but will reshoot from roots. Excellent for covering fences, sheds, and pergolas with productive growth.
+Companion plants include geraniums, mulberry, hyssop, basil, peas, beans, and garlic. Avoid planting near radishes or hyssop. See [[comparison-beer-brewing-vs-cider-making]] but also has medicinal properties (sedative, sleep aid). Rapidly climbing, dies back to ground in winter. Useful as a productive shade vine for pergolas and walkways. Dried female flowers (cones) are the brewing ingredient. Provides permaculture-tuber-crops). Extremely productive and easy to grow -- a single plant can cover a large trellis. Frost tender but will reshoot from roots. Excellent for covering fences, sheds, and pergolas with productive growth.
 
 ## Vanilla (Vanilla planifolia)
-Family: ORCHIDACEAE. The only orchid grown commercially for food production. Climbing vine producing the world's most valuable spice after saffron. Requires a support tree (traditionally [[multi-purpose-trees]] providing microclimate modification alongside other yields. See [[nitrogen-fixing-trees-and-shrubs]] for dual timber + vine yields
+Family: ORCHIDACEAE. The only orchid grown commercially for food production. Climbing vine producing the world's most valuable spice after saffron. Requires a support tree (traditionally [[nitrogen-fixing-trees-and-shrubs]] for dual timber + vine yields
 - Maintain vine health through regular pruning and mulching-guide|mulching
 - Combine early, mid, and late-season fruiting species for extended harvest
 - Add permaculture-ground-cover-plants beneath vines to suppress weeds and retain moisture
@@ -44,10 +26,8 @@ Family: ORCHIDACEAE. The only orchid grown commercially for food production. Cli
 ## Design Integration
 
 - Vines produce maximum food per square meter by utilizing vertical space
-- Combine fruiting vines with [[insectary-plants-for-pest-control]] at the base for [[cannabis-pest-management-guide]]
-- Plan vine placement using [[permaculture-forest-garden-establishment]] for vine integration during food forest establishment
-
-- [[permaculture-farm-design-principles]]
+- Combine fruiting vines with [[cannabis-pest-management-guide]]
+- Plan vine placement using [[permaculture-farm-design-principles]]
 ## Practical Considerations
 
 When working with Permaculture Vine Crops, several practical factors should be
@@ -88,3 +68,82 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Permaculture Vine Crops represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture vine crops
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Vine Crops finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture vine crops. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture vine crops and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Vine Crops has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture vine crops into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

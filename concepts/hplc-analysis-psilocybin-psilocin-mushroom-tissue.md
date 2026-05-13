@@ -6,11 +6,7 @@ type: concept
 tags: [HPLC, psilocybin, psilocin, analytical-chemistry, chromatography, quantification, mushroom-analysis, extraction, TLC]
 sources: [raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md]
 ---
-# HPLC Analysis of [[street-sample-potency-variability-in-psilocybe-cubensis]] Analysis Considerations
-
-The five street samples analyzed in the study showed extremely variable results (psilocybin ranging from 0.7 to 6.2 mg/g). Analytical challenges with street samples include:
-
-- **Unknown provenance**: Strain, growing conditions, and [[cannabis-harvest-timing-visual-cues]] are unknown
+# HPLC Analysis of [[cannabis-harvest-timing-visual-cues]] are unknown
 - **Storage history**: Improper drying, storage temperature, and age all affect alkaloid content
 - **Adulteration**: Street samples may contain other species or contaminants
 - **Sample preparation**: Grinding homogenizes the material but may introduce heat that degrades psilocin
@@ -32,27 +28,10 @@ For laboratories performing psilocybin/psilocin testing:
 1. **Use certified reference standards** (available from NIDA, Cerilliant, or other suppliers)
 ## See Also
 
-- [[hplc-analysis-of-psilocybin-and-psilocin]]
-- bigwood-beug-psilocybin-psilocin-variation-analysis
 - [[psilocybin-psilocin-variation-analysis]]
 ## Practical Applications
 
-HPLC Analysis of [[psilocybin-and-psilocin-chemical-synthesis]] in Mushroom Tissue has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+HPLC Analysis of [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,8 +75,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[hplc-analysis-of-psilocybin-and-psilocin]]
 - [[psilocin]]
-- [[psilocybin]]
 - [[doc]]
 - [[det]]

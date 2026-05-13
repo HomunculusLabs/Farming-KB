@@ -1,6 +1,6 @@
 ---
 title: Cannabis-Assisted Emotional Processing and Expansive vs Constricting Emotions
-source: The [[blesching-cannabis-health-index-autoimmune-conditions]] ([[uwe-blesching]], PhD)
+source: The uwe-blesching, PhD)
 topics: [cannabis-therapy, emotional-processing, mind-body-medicine, psychotherapy, endocannabinoid-system, consciousness]
 ---
 
@@ -18,10 +18,7 @@ All emotions can be classified by their effect on the body's biochemistry:
 
 **Expansive emotions** — joy, love, gratitude, appreciation, compassion,
 wonder, and contentment — are associated with coherent heart rhythm patterns,
-enhanced immune function, reduced inflammation, and increased [[anandamide]]
-production. These emotions signal to every cell that the organism is safe,
-resourced, and capable of growth. They promote parasympathetic nervous system
-dominance and support the [[endocannabinoid-system]]'s regulatory functions.
+enhanced immune function, reduced inflammation, and increased [[endocannabinoid-system]]'s regulatory functions.
 
 **Constricting emotions** — fear, anger, guilt, shame, resentment, and hatred
 — are associated with erratic heart rhythms, immune suppression, inflammatory
@@ -42,7 +39,7 @@ present when the plant is consumed. This amplification property makes it a
 powerful tool for emotional processing when used with intention and awareness,
 and potentially harmful when used to avoid emotional reality.
 
-The [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] concept is critical here. Below the [[blesching-cannabis-therapeutic-window-dosing]],
+The [[blesching-cannabis-therapeutic-window-dosing]],
 cannabis may have insufficient effect to facilitate emotional access. Above it,
 anxiety and paranoia can override the therapeutic benefit. Within the optimal
 range, cannabis creates a state of heightened present-moment awareness combined
@@ -118,8 +115,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[anandamide]]
 - [[blesching-molecules-emotions-expansive-constricting-neurotransmitters]]
 - [[expansive-constricting-emotions-neurotransmitter-associations-blesching]]

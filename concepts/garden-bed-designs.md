@@ -26,7 +26,7 @@ The most popular backyard garden bed type. A framed box filled with soil mix, ra
 - **Dimensions**: 4 feet wide (reachable from both sides), 8-12 feet long, 10-18 inches tall
 - **Materials**: Untreated cedar, redwood, or hemlock (naturally rot-resistant); avoid pressure-treated lumber near food crops; galvanized metal, concrete blocks, or stone also work
 - **Soil mix**: 50% topsoil, 30% compost, 20% aeration (perlite, vermiculite, or coarse sand)
-- **Bottom**: Line with cardboard to suppress grass/weeds before filling (no plastic — blocks drainage and soil life)
+- **Bottom**: Line with cardboard to suppress grass/weeds before filling (no plastic — blocks drainage and [[soil-life]])
 - **Placement**: Orient long sides east-west for even sun exposure; level the frame
 
 ### Limitations
@@ -87,7 +87,7 @@ Self-watering garden beds that draw moisture up from a reservoir below the soil 
 
 ## Hugelkultur Beds
 
-Hugel beds (mound culture) bury wood and organic debris under a soil mound, creating a long-term, self-fertilizing garden bed. Central to [[permaculture-design]] and [[regenerative-agriculture-history]] growing.
+Hugel beds (mound culture) bury wood and organic debris under a soil mound, creating a long-term, self-fertilizing garden bed. Central to [[permaculture-design|permaculture]] and [[regenerative-agriculture-history|regenerative]] growing.
 
 ### Design
 - Mound of rotting wood, branches, leaves, [[hamilton-composting-and-organic-matter-management]]

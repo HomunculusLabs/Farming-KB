@@ -2,7 +2,7 @@
 title: "2C-T-21 -- 2,5-DIMETHOXY-4-(2-FLUOROETHYLTHIO)PHENETHYLAMINE -- 2c-b-pihkal-entry-20 #49"
 created: 2026-04-23
 updated: 2026-04-23
-type: [[ethyl-j-entity-pihkal|entity]]
+type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
@@ -89,5 +89,5 @@ sources: ["Shulgin - PIHKAL"]
 >
 
 ## See Also
-- [[methyl-j-entity-pihkal]]
 - [[5-toet-entity-pihkal]]
+- [[3-tsb-entity-pihkal]]

@@ -1,6 +1,6 @@
 ---
 title: "Plant plant disease ecology and organic management and Organic Management"
-subtitle: "An ecological guide to plant pathogens, [[cervantes-pest-disease-prevention-overview]], diagnosis, and organic [[jadam-weed-control-strategies-natural]]."
+subtitle: "An ecological guide to plant pathogens, jadam-weed-control-strategies-natural."
 tags: [plant-pathology, organic-gardening, disease-management, fungi, bacteria, soil-health, integrated-pest-management]
 date: 2026-04-28
 updated: 2026-04-28
@@ -42,13 +42,7 @@ and an environment that allows infection to proceed. This relationship,
 often called the disease triangle, explains why the same fungus can
 devastate one crop and remain harmless in another field.
 
-Organic [[plant-disease-management-solomon]] begins with ecology rather than eradication.
-Fungi, bacteria, oomycetes, viruses, and nematodes are part of
-agricultural landscapes, and many are also decomposers, mutualists, or
-competitors of pests. The practical question is how to design farms and
-gardens where damaging outbreaks are less likely and less severe.
-
-Historical epidemics such as potato late blight and [[bloomfield-coffee-rust-and-crop-pathogens]] show why
+Organic [[bloomfield-coffee-rust-and-crop-pathogens]] show why
 plant pathology matters beyond garden troubleshooting. Crop disease can
 reshape economies, migrations, diets, and landscapes. A brown spot on a
 leaf may seem local, but epidemics are ecological events with social
@@ -131,13 +125,9 @@ have repeatedly changed breeding priorities. The history of agriculture
 is partly a history of pathogens adapting to uniform host populations.
 ## See Also
 
-- [[bacterial-plant-diseases]]
 - [[fungal-plant-diseases]]
-- [[biodiversity-fungi-plant-pathogens]]
 - [[biodiversity-powdery-mildews]]
-- [[biodiversity-rust-fungi-urediniomycetes]]
 - [[cervantes-powdery-mildew-prevention-treatment]]
-- [[fukuoka-disease-pest-management]]
 - [[organic-pest-and-disease-management]]
 
 ## References

@@ -15,19 +15,9 @@ JADAM's approach to crop disease prevention centers on a fundamental shift: from
 
 Disease occurs when a certain virus, bacteria, or pest takes control of the soil or plant surface. JADAM's solution: maximize the population and diversity of microorganisms so no single pathogen can dominate.
 
-The analogy: athlete's foot fungi cannot establish on the foot of someone who walks barefoot, because the foot is already full of diverse microorganisms. The competition prevents disease-causing organisms from becoming prevalent. Apply the same logic to canker and [[cervantes-powdery-mildew-prevention-treatment]].
-
-## Why Disinfection Fails
-
-- Pathogens like canker and [[ingham-ampelomyces-powdery-mildew-biocontrol-aact]] bacteria are ubiquitous (everywhere in soil)
+The analogy: athlete's foot fungi cannot establish on the foot of someone who walks barefoot, because the foot is already full of diverse microorganisms. The competition prevents disease-causing organisms from becoming prevalent. Apply the same logic to canker and [[ingham-ampelomyces-powdery-mildew-biocontrol-aact]] bacteria are ubiquitous (everywhere in soil)
 - One spore can propagate to 1 billion in 10 hours
-- Eliminating [[jadam-monoculture-disorder-crop-residues]] cannot eradicate them
-- [[comparison-parasitoid-wasps-vs-chemical-pesticides]] are building [[mycorrhizal-pathogen-resistance-mechanisms]]
-- Even the most toxic chemicals cannot control powdery mildew effectively
-
-## Method 1: JMS Soil Application
-
-The most important disease prevention measure. Apply JMS (JADAM [[jadam-microorganism-solution-culturing]]) every time you water.
+- Eliminating [[comparison-parasitoid-wasps-vs-chemical-pesticides]] are building [[jadam-microorganism-solution-culturing]]) every time you water.
 
 ### How It Works
 
@@ -49,24 +39,7 @@ The most important disease prevention measure. Apply JMS (JADAM [[jadam-microorg
 
 - Prevents soil-borne diseases
 - Controls soil nematodes
-- Controls powdery mildew via [[ultra-low-cost-foliar-application-methods]]
-- Improves soil quality simultaneously
-- Costs almost nothing
-
-## Method 2: JADAM Sulfur (JS) Germicide
-
-For active disease outbreaks, JS provides strong germicidal action.
-
-### JS Germicide Recipe
-- JS: 1 L (0.26 gal) per 500 L (132 gal) water
-- JWA: 3-6 L (0.8-1.6 gal) per 500 L
-
-### Disease-Specific Recipes
-
-**Powdery mildew, [[cervantes-downy-mildew-fungal-blight]], [[duggar-mushroom-insect-pests-and-fungal-diseases]]:**
-- JWA 3 L + JS 1.2 L per 500 L water
-
-**Canker, black spot, pear rust, [[oyster-brown-blotch-disease]]:**
+- Controls powdery mildew via [[cervantes-downy-mildew-fungal-blight]], [[oyster-brown-blotch-disease]]:**
 - JWA 5 L + JS 1.5 L per 500 L water
 - For serious pepper canker: JWA 10 L + JS 2 L, every 2 days, 2-3 applications
 
@@ -117,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[spore]]
-- [[mycorrhiza]]
 - [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]]
 - [[jadam-cover-crop-soil-temperature-management]]

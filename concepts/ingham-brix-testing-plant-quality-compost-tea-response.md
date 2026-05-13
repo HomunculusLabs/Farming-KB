@@ -1,6 +1,6 @@
 ---
 title: Ingham Brix Testing Plant Quality Compost Tea Response
-source: Ingham, E.R. (2004). The Field Guide I for [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT).
+source: Ingham, E.R. (2004). The Field Guide I for actively-aerated-compost-tea-aact-brewing Tea (AACT).
 tags: [brix, plant-quality, compost-tea, nutrient-density, refraction, ingham, soil-food-web]
 ---
 
@@ -8,7 +8,7 @@ tags: [brix, plant-quality, compost-tea, nutrient-density, refraction, ingham, s
 
 ## Overview
 
-Brix (°Bx) is a scale measuring the soluble solids content — primarily sugars — in plant sap, fruit juice, or other liquids. Originally developed for the wine and sugar industries, Brix testing has been adopted by organic and [[phosphate-accumulators-sustainable-agriculture]] practitioners as a field indicator of plant health, nutrient density, and the effectiveness of soil biology programs including compost tea applications. Dr. Elaine Ingham references Brix in her [[ingham-aact-field-guide-index]] as one tool for assessing whether soil biology improvements are translating into improved plant quality.
+Brix (°Bx) is a scale measuring the soluble solids content — primarily sugars — in plant sap, fruit juice, or other liquids. Originally developed for the wine and sugar industries, Brix testing has been adopted by organic and [[ingham-aact-field-guide-index]] as one tool for assessing whether soil biology improvements are translating into improved plant quality.
 
 ## How Brix Testing Works
 
@@ -27,38 +27,8 @@ Brix is not a direct measure of any single plant compound. It reflects the total
 
 - **Simple sugars**: Glucose, fructose, sucrose — the primary products of photosynthesis
 - **Amino acids**: Building blocks of proteins, indicators of nitrogen metabolism
-- **Minerals**: Dissolved calcium, potassium, magnesium, [[teaming-with-nutrients-micronutrients-and-trace-elements]]
-- **Organic acids**: Citric, malic, and other acids involved in plant metabolism
-- **Vitamins and [[antifungal-secondary-metabolites-coprophilous-fungi]]**: Including some [[ingham-tannins-terpenes-phenolic-compounds]]
-
-## High Brix as an Indicator of Plant Health
-
-Proponents of Brix testing in agriculture argue that high-Brix plants are fundamentally healthier:
-
-- **Better nutrition**: Higher sugar and mineral content translates to more nutritious food
-- **Disease resistance**: Sugars fuel the plant's immune responses, including production of phytoalexins and other defensive compounds
-- **Pest deterrence**: Many insect pests cannot digest high-sugar sap; aphids, in particular, are known to avoid high-Brix plants because the sugar concentration causes osmotic stress in their feeding apparatus
-- **Frost tolerance**: Higher dissolved solids lower the freezing point of plant sap, providing natural freeze protection
-- **Longer shelf life**: High-Brix produce respires more slowly after harvest and maintains quality longer
-- **Better flavor**: Sugars are the primary contributors to sweetness and overall taste quality
-
-## Brix and the Soil Food Web Connection
-
-In Ingham's framework, the connection between Brix readings and soil biology follows this logic:
-
-1. Healthy soil food web → complete [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
-2. Complete nutrient cycling → balanced [[chelation-microbial-mineral-availability-ingham]] in soil solution
-3. Balanced mineral availability → efficient photosynthesis (minerals are cofactors in photosynthetic enzymes)
-4. Efficient photosynthesis → high sugar production
-5. High sugar production → high Brix reading in plant sap
-
-When compost tea is applied and soil biology improves, Brix readings should increase over time as the plant gains access to a fuller spectrum of nutrients. This provides a measurable feedback loop for assessing compost tea effectiveness.
-
-## Brix Ranges and Interpretation
-
-General Brix interpretation guidelines for vegetable crops:
-
-| Brix Range | [[ingham-compost-quality-assessment-visual-microbial-indicators]] |
+- **Minerals**: Dissolved calcium, potassium, magnesium, [[antifungal-secondary-metabolites-coprophilous-fungi]]**: Including some [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
+2. Complete nutrient cycling → balanced [[ingham-compost-quality-assessment-visual-microbial-indicators]] |
 |---|---|
 | 0-6 °Bx | Poor — likely nutrient-deficient, pest-susceptible |
 | 6-10 °Bx | Average — conventional production typical range |
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[elaine-ingham]]
 - [[ingham-brix-testing-plant-quality]]
-- [[det]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[brix-testing-plant-health-indicator-ingham]]

@@ -15,25 +15,7 @@ sources:
 
 # Sweet Winter Carrots — In-Ground Cold Storage for Peak Flavor
 
-Sweet Winter Carrots are the most acclaimed crop produced at [[coleman-four-season-farm]].
-Left in place in the soil under unheated greenhouses and dug fresh over time
-as needed, these carrots develop an extraordinary sweetness, crunch, and
-flavor through the combination of fall growing conditions and cold-soil
-storage that no post-harvest storage method can replicate.
-
-## The Variety: Napoli
-
-The most successful variety for winter soil storage at Four Season Farm is
-'Napoli', a small-size but full-flavor carrot. Napoli was selected over
-many trialed varieties for its ability to maintain quality through months
-of in-ground storage without degradation.
-
-For October harvest, Napoli is planted during the last week of July. For
-later harvests through winter, the first week of August is the target
-[[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]]. The soil is prepared by turning under a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] of oats
-and peas about a month before sowing.
-
-Large areas of carrots are covered with [[mobile-greenhouses]] in late October,
+Sweet Winter Carrots are the most acclaimed crop produced at [[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]]. The soil is prepared by turning under a [[mobile-greenhouses]] in late October,
 as temperatures drop and the season of active growth slows.
 
 ## The Science of Cold-Sweetening
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[coleman-sweet-winter-carrots-cold-sweetening]]
 - [[coleman-soil-preparation-for-winter]]
-- [[coleman-winter-harvest-planting-schedule]]
 - [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]]
 - [[coleman-unheated-greenhouse-economic-model-passive-winter-production]]

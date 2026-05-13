@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Hemoglobin (Hb) is a tetrameric metalloprotein responsible for transporting molecular oxygen (O2) from the lungs to peripheral tissues and facilitating the return transport of [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] (CO2) and thc thc [[thc-heart-protective-mechanisms-myocardial-protection-cb1-nitric-oxide-blesching-2015]] [[blesching-thc-heart-protective-mechanisms-myocardial-protection]] cb1 nitric oxide blesching 2015 myocardial protection cb1 nitric oxide blesching 2015 (NO). Found in erythrocytes at concentrations of ~2.5 mM (about 34 g/dL packed-cell), a single human red blood cell contains roughly 270 million hemoglobin molecules. Hemoglobin accounts for over 90% of the [[brassinosteroid-mushroom-yield-dry-mass]] of mature erythrocytes and is the most abundant protein in the human body.
+Hemoglobin (Hb) is a tetrameric metalloprotein responsible for transporting molecular oxygen (O2) from the lungs to peripheral tissues and facilitating the return transport of [[thc-heart-protective-mechanisms-myocardial-protection-cb1-nitric-oxide-blesching-2015]] [[brassinosteroid-mushroom-yield-dry-mass]] of mature erythrocytes and is the most abundant protein in the human body.
 
 ## Primary Structure and Globin Gene Families
 
@@ -84,41 +84,6 @@ Myoglobin's high affinity (low P50) makes it an intracellular O2 reservoir and f
 
 ### Sickle Cell Disease (HbS)
 
-[[blesching-cannabis-sickle-cell-disease-pain-inflammation]] results from a single point mutation in the beta-globin gene (HBB): a GAG-to-GTG substitution causing Glu6Val. This hydrophobic valine on the beta-chain surface creates a sticky patch that, in the deoxygenated T state, interacts with a complementary hydrophobic site (Phe85 and Leu88) on an adjacent beta chain of another hemoglobin molecule. This leads to polymerization of deoxy-HbS into long fibers that deform red blood cells into rigid sickle shapes, causing vaso-occlusion, hemolysis, pain crises, and multiorgan damage. The disease is autosomal recessive; heterozygotes (sickle cell trait, HbAS) have partial protection against severe malaria (Plasmodium falciparum), explaining the allele's high frequency in malaria-endemic regions — a textbook example of balancing selection.
-
-### Thalassemias
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[soma]]
-- [[brassinosteroid]]
+[[soma]]
 - [[hemoglobin-and-oxygen-transport]]
-- [[query-how-does-hemoglobin-know-when-to-release-oxygen]]
 - [[urea-cycle-biochemistry]]

@@ -17,17 +17,7 @@ type: concept
 
 # Worldwide Distribution of Neurotropic Fungi
 
-The worldwide distribution of neurotropic (hallucinogenic or psychotropic) fungi encompasses at least 216 known species distributed across all continents, with the greatest diversity concentrated in subtropical and tropical regions of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. This concept page summarizes the taxonomic groups, biogeographic patterns, and ecological factors governing their distribution based on the comprehensive monograph by Guzman, Allen, and Gartz (1998).
-
-## Taxonomic Groups
-
-Neurotropic fungi are divided into four major chemical groups:
-
-1. **Psilocybin and related indole species**: This is the largest group, spanning multiple genera. Psilocybe dominates with 116 species (54% of all neurotropic fungi). Other genera include Gymnopilus (14 species), Panaeolus (13), Copelandia (12), Hypholoma (6), Pluteus (6), Inocybe (6), Conocybe (4), Panaeolina (4), and single species in Gerronema, Agrocybe, Galerina, and Mycena.
-
-2. **Ibotenic acid-containing species**: Amanita muscaria, A. pantherina, and A. regalis. These contain muscimol and ibotenic acid rather than psilocybin. The Amanita genus is globally distributed and includes both neurotropic and deadly poisonous species.
-
-3. **Ergot fungi**: [[bloomfield-ergot-claviceps-purpurea-ergotism]] and allies (5 species of Claviceps) plus 2 Cordyceps species. These produce ergot alkaloids including lysergic acid amide and related compounds that have been used medicinally and ritually.
+The worldwide distribution of neurotropic (hallucinogenic or psychotropic) fungi encompasses at least 216 known species distributed across all continents, with the greatest diversity concentrated in subtropical and tropical regions of the [[bloomfield-ergot-claviceps-purpurea-ergotism]] and allies (5 species of Claviceps) plus 2 Cordyceps species. These produce ergot alkaloids including lysergic acid amide and related compounds that have been used medicinally and ritually.
 
 4. **Sacred fungi without confirmed chemistry**: Several boletes (Boletus, Heimiella), Russula species, and gasteromycetes (Lycoperdales and Phallales) used traditionally but lacking reliable chemical analysis to confirm psychoactive properties.
 
@@ -35,15 +25,7 @@ Neurotropic fungi are divided into four major chemical groups:
 
 ### Southern Hemisphere Dominance
 
-The majority of Psilocybe species occur in or near the [[biogeography-austral-hemisphere-fungi]], primarily in subtropical humid forests. Of 85 neurotropic Psilocybe species surveyed, 59 are found in South America and Mexico, compared to 18 in the USA and Canada, and only 9 in Europe. This pattern persists despite the Northern Hemisphere being more thoroughly explored mycologically, suggesting it reflects genuine ecological and evolutionary factors rather than sampling bias.
-
-Mexico is the global  diversity, with 76 total neurotropic species, of which 44 belong to Psilocybe (39% of the world total). The most well-documented traditional use of these fungi also occurs in Mexico among indigenous peoples of Oaxaca and surrounding regions, including the Mazatec, Chinantec, Zapotec, Mixtec, and Nahuatl peoples.
-
-### Distribution Types
-
-Following Hongo's (1978) classification, nine types of distribution patterns are observed:
-
-- **Cosmopolitan**: Panaeolus spp. and [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
+The majority of Psilocybe species occur in or near the [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
 - **Northern hemisphere**: Amanita spp., Cordyceps spp., Psilocybe pelliculosa, P. silvatica
 - **Tropical and subtropical**: Psilocybe cubensis, P. subcubensis, Copelandia spp.
 - **Alpine and Arctic**: Psilocybe aztecorum at 4000 m elevation in Mexico
@@ -51,21 +33,7 @@ Following Hongo's (1978) classification, nine types of distribution patterns are
 
 ### Trans-Pacific Connections
 
-Species from Southeast Asia and the South Pacific show close relationships with Mesoamerican and South American species. Psilocybe samuiensis (Thailand) and P. makarorae (New Zealand) are closely related to P. mexicana (Mexico/Guatemala), all belonging to Section Mexicanae. Similarly, P. aucklandii (New Zealand) relates to P. zapotecorum (Mexico/South America) within [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]. These relationships suggest ancient dispersal events across the Pacific.
-
-## Ecological Factors
-
-### Habitat Preferences
-
-The majority of neurotropic Psilocybe species grow in subtropical, mesophytic, cloud, or deciduous humid forests. In Mexico, 34 of 42 neurotropic Psilocybe species come from mesophytic forests, with only 4 each from tropical and coniferous forests. Species range from sea level to 4000 m elevation.
-
-### The Blueing Reaction
-
-The blueing reaction (bluing of tissues upon bruising) is a key field indicator for identifying psilocybin-containing species. Sections of Psilocybe known to contain bluing neurotropic species include Aztecorum, Brunneocystidiatae, Cordisporae, Cubensies, Mexicanae, Semilanceatae, Stuntzae, Subaeruginosae, and Zapotecorum.
-
-### Specimen Age and Potency
-
-The age of fungal specimens significantly affects chemical content. [[hplc-analysis-of-psilocybin-and-psilocin]] are volatile compounds that degrade over time. Ohenoja et al. (1987) found 0.014%, 0.67%, and 0.84% psilocybin (dry weight) in herbarium specimens from 1869, 1954, and 1976, respectively. Mexican indigenous knowledge reflects this: specimens kept dried for more than one year are considered ineffective and are discarded.
+Species from Southeast Asia and the South Pacific show close relationships with Mesoamerican and South American species. Psilocybe samuiensis (Thailand) and P. makarorae (New Zealand) are closely related to P. mexicana (Mexico/Guatemala), all belonging to Section Mexicanae. Similarly, P. aucklandii (New Zealand) relates to P. zapotecorum (Mexico/South America) within [[hplc-analysis-of-psilocybin-and-psilocin]] are volatile compounds that degrade over time. Ohenoja et al. (1987) found 0.014%, 0.67%, and 0.84% psilocybin (dry weight) in herbarium specimens from 1869, 1954, and 1976, respectively. Mexican indigenous knowledge reflects this: specimens kept dried for more than one year are considered ineffective and are discarded.
 
 ### Psilocybe cubensis Introduction
 
@@ -88,3 +56,88 @@ The Mazatec name "nise" (little bird) is used for both Psilocybe mexicana (neuro
 ## Historical Periods
 
 The [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]] fungi can be divided into five periods:
+
+## Overview
+
+Neurotropic Fungi Distribution represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish neurotropic fungi distribution
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving neurotropic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Neurotropic Fungi Distribution finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for neurotropic fungi distribution. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+neurotropic fungi distribution and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Neurotropic Fungi Distribution has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of neurotropic fungi distribution into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
+- [[guzman-allen-gartz-neurotropic-fungi-europe]]
+- [[guzman-global-distribution-patterns-neurotropic-fungi]]
+- [[neurotropic-fungi-new-guinea]]
+- [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]

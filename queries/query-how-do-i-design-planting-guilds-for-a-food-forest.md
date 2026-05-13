@@ -21,15 +21,13 @@ sources:
 type: query
 ---
 
-# How Do I Design Planting Guilds for a [[plant-guild]] or companion guild) is a community of plants that support each other through mutual benefits — nutrient cycling, pest management, pollination, and microclimate creation. In [[dynamic-accumulators]]**: Deep-rooted plants that mine minerals from subsoil and bring them to the surface
+# How Do I Design Planting Guilds for a [[dynamic-accumulators]]**: Deep-rooted plants that mine minerals from subsoil and bring them to the surface
 - **Insectary plants**: Flowers that attract pollinators and predatory insects
-- **[[permaculture-plants-food-forest-ground-covers-bamboos]]**: Living mulches that suppress weeds, retain moisture, and protect soil
 - **[[permaculture-plants-root-crops-and-tubers]]**: Plants that occupy different soil horizons to reduce competition
-- **Mulch producers**: Plants that generate biomass for [[agroforestry]]
-- [[caragana-arborescens]]
+- **Mulch producers**: Plants that generate biomass for [[caragana-arborescens]]
 ## Practical Applications
 
-How Do I Design Planting Guilds for a Food Forest? has a range of practical applications that make it relevant to
+How Do I Design Planting Guilds for a [[food-forest]]? has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

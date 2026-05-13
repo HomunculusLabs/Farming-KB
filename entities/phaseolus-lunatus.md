@@ -40,27 +40,7 @@ Pods are oblong, curved, 5–15 cm long and 1.5–3 cm wide, containing 2–6 la
 
 ## Distribution and Habitat
 
-The wild progenitor of P. lunatus is native to the tropical lowlands of Central and [[guzman-psilocybin-mushrooms-south-america]], from Mexico to Peru and Bolivia. Wild populations extend from northern Argentina through the Andes to western Mexico.
-
-Andean landraces are adapted to high-elevation conditions (800–2,500 m) with cool temperatures and moderate rainfall. Mesoamerican landraces thrive in lowland tropical conditions (0–1,200 m) with warm temperatures and higher humidity.
-
-The species was introduced to Africa, Asia, and the Pacific in the post-Columbian era. Today, lima beans are grown throughout the tropics and subtropics, with major production in Brazil, Peru, Madagascar, Myanmar, and India.
-
-Optimal growth occurs at 20–30°C with 600–1,200 mm annual rainfall. The crop is sensitive to frost and waterlogging but tolerates moderate drought during the reproductive phase.
-
-## Nutritional Value
-
-Dry lima beans contain approximately 21% protein, 63% carbohydrates, and 1% fat per 100 g. They are rich in dietary fiber (19 g per 100 g), potassium (1,724 mg), iron (7.5 mg), and magnesium (224 mg).
-
-The protein quality is comparable to other common beans, with lysine as the limiting [[cho-fish-amino-acid-preparation]]. Complementary [[fish-amino-acid]] profiles are achieved when consumed with cereals.
-
-Raw lima beans contain linamarin, a cyanogenic glucoside that can release hydrogen cyanide upon hydrolysis. Boiling for 10+ minutes in uncovered pots effectively removes cyanide to safe levels. This toxicity is the primary reason lima beans must be cooked before consumption.
-
-## Cultivation
-
-Lima beans are direct-seeded at depths of 3–5 cm with spacing of 10–20 cm within rows and 60–90 cm between rows. Bush types mature in 60–90 days; pole types require 90–120 days.
-
-The crop forms nodules with Bradyrhizobium strains for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Inoculation is recommended in fields without prior legume history. Residual nitrogen from lima bean crops benefits subsequent cereal plantings.
+The wild progenitor of P. lunatus is native to the tropical lowlands of Central and [[cho-fish-amino-acid-preparation]]. Complementary [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Inoculation is recommended in fields without prior legume history. Residual nitrogen from lima bean crops benefits subsequent cereal plantings.
 
 Major pests include the bean pod borer (*Etiella zinckenella*), Mexican bean beetle, and various aphid species. Root-knot nematodes (*Meloidogyne* spp.) can cause significant yield losses in warm soils.
 
@@ -68,9 +48,9 @@ Average yields range from 0.5–2.0 tonnes per hectare under smallholder conditi
 
 ## Ecological Role
 
-As a nitrogen-fixing legume, P. lunatus plays an important role in [[phosphate-accumulators-sustainable-agriculture]]. The species contributes 40–100 kg of nitrogen per hectare through biological fixation, reducing dependence on [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]].
+As a nitrogen-fixing legume, P. lunatus plays an important role in [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]].
 
-The crop provides [[fukuoka-citrus-orchard-ground-cover-cultivation]] that suppresses weeds and reduces soil erosion. Residue incorporation after harvest improves soil [[hamilton-composting-and-organic-matter-management]] and microbial activity.
+The crop provides [[hamilton-composting-and-organic-matter-management]] and microbial activity.
 
 In agroforestry systems, climbing varieties are grown on maize, sorghum, or cassava as support crops. This intercropping increases total land productivity and dietary diversity for smallholder farmers.
 
@@ -87,3 +67,84 @@ The common name "lima bean" derives from Lima, Peru, where the large-seeded Ande
 ## Traditional and Culinary Use
 
 In Latin America, lima beans are used in soups, stews, and side dishes. In Brazil, *feijão-de-lima* is a traditional ingredient in northeastern cuisine, often cooked with cassava and salted meat.
+
+## Overview
+
+Phaseolus Lunatus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish phaseolus lunatus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving phaseolus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Phaseolus Lunatus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for phaseolus lunatus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+phaseolus lunatus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Phaseolus Lunatus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of phaseolus lunatus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[phaseolus-vulgaris]]

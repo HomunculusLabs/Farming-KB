@@ -19,28 +19,13 @@ sources:
 
 # Jack Herer
 
-**Jack Herer** (often capitalized as **JH**) is a legendary sativa-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] named in honor of Jack Herer (1939–2010), the American cannabis activist and author of *The Emperor Wears No Clothes* (1985), the seminal book arguing for hemp legalization and cannabis decriminalization. The strain is widely regarded as one of the most important and influential cannabis varieties ever created.
-
-## Genetic Lineage
-
-Jack Herer is a complex hybrid resulting from the cross of three parent strains:
-
-| Parent | Role | Characteristics Contributed |
-|--------|------|---------------------------|
-| **Haze** | Primary sativa parent | Cerebral effects, tropical aroma, long [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] |
-| **[[cannabis-strain-mango-haze-northern-lights-skunk-haze]] #5** | Indica contributor | [[cannabis-glandular-trichome-types-resin-production-clarke]], reduced flowering time, compact structure |
+**Jack Herer** (often capitalized as **JH**) is a legendary sativa-dominant [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] |
+| **[[cannabis-glandular-trichome-types-resin-production-clarke]], reduced flowering time, compact structure |
 | **Shiva Skunk** | Secondary contributor | Potency, skunky undertones, yield improvement |
 
-The original [[cervantes-breeding-program-design-goal-setting]] was conducted in the **Netherlands** during the late 1980s and early 1990s by an anonymous breeder associated with the Sensi [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]. The goal was to capture the legendary cerebral high of Haze while reducing its impractically long flowering period and low yield.
+The original [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]. The goal was to capture the legendary cerebral high of Haze while reducing its impractically long flowering period and low yield.
 
-Multiple phenotypic expressions exist, and cuttings from the original breeding program have been propagated and stabilized by various [[spanish-cannabis-seed-companies]], leading to slight genetic drift between different "Jack Herer" lines available commercially. Greenhouse Seeds, Dutch Passion, and Sensi Seeds each maintain their own version.
-
-## Appearance
-
-### Plant Structure
-- **Height**: Tall (indoor: 100–150 cm; outdoor: 150–250 cm)
-- **Structure**: Open, branchy sativa growth pattern with moderate internodal spacing
-- **[[cannabis-leaf-morphology-and-phyllotaxy]]**: Long, narrow-fingered sativa-type leaves, light green
+Multiple phenotypic expressions exist, and cuttings from the original breeding program have been propagated and stabilized by various [[cannabis-leaf-morphology-and-phyllotaxy]]**: Long, narrow-fingered sativa-type leaves, light green
 - **Branching**: Lateral branches develop well under training; responds favorably to LST and SCROG
 
 ### Buds
@@ -88,3 +73,78 @@ Typical laboratory-tested cannabinoid ranges for modern Jack Herer cultivars:
 | **THC** | 18–24% | Some phenotypes test up to 27% |
 | **CBD** | 0.01–0.1% | Very low; primarily THC-driven |
 | **CBG** | 0.05–0.3% | Minor cannabinoid |
+
+## Overview
+
+Jack Herer represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jack herer
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jack extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jack Herer finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jack herer. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jack herer and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jack Herer has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jack herer into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

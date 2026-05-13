@@ -14,10 +14,7 @@ sources:
 type: concept
 ---
 
-# [[polyporus-umbellatus]]: Zhu Ling (Umbrella Polypore)
-
-Polyporus umbellatus is a fleshy polypore long prized in Chinese
-medicine, especially for the treatment of [[psk-breast-lung-cancer-clinical-trials]]. Of all the
+# [[psk-breast-lung-cancer-clinical-trials]]. Of all the
 species in the Genus Polyporus, P. umbellatus is the most fragile
 and delicate. This mushroom forms an underground tuber-like
 structure called a sclerotium, which has figured prominently in
@@ -41,10 +38,7 @@ umbellatus (Pers.:Fr.) Julich.
 
 Macroscopically [Maitake
 (stamets-maitake-cultivation) appears to be a close relative, but biologically
-the two have uniquely different [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]. The close appearance
-of P. umbellatus and G. frondosa easily confuses amateur collectors.
-G. frondosa has smaller, non-cylindrical spores, lacks the
-sclerotial stage in its [[agaricus-campestris-biology-and-life-cycle]], and arises from a multiple
+the two have uniquely different [[agaricus-campestris-biology-and-life-cycle]], and arises from a multiple
 forking base.
 
 ## Description
@@ -60,20 +54,7 @@ underside featuring circular to angular pores.
 ## Distribution and Habitat
 
 Infrequently occurring throughout deciduous woodlands of
-north-central and northeastern [[psilocybin-north-america-pacific-northwest]], in temperate
-regions of China, and in Europe where it was first described.
-Reported from Montana and Washington states. Found on the
-ground, arising from dead roots or buried wood, on stumps, or
-in soils rich in lignicolous matter, preferring birches, maples,
-willows, and beeches.
-
-## Mycelial Characteristics
-
-White, longitudinally linear, soon densely cottony, forming a
-thick, peelable mycelial mat on agar, grain, and in sawdust
-media. On sterilized sawdust, the mycelium forms outer layers
-of yellowish, gelatinous exudate as it ages. This mushroom
-causes a [[brown-rot-and-white-rot-fungi-in-mycoremediation]]. Fragrance signature: Musty, sour, slightly
+north-central and northeastern [[brown-rot-and-white-rot-fungi-in-mycoremediation]]. Fragrance signature: Musty, sour, slightly
 bitter, not pleasant.
 
 ## Sclerotia Formation
@@ -118,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[polyporus-umbellatus]]
 - [[psilocybin]]
-- [[spore]]
 - [[mycoremediation]]
 - [[mycelium]]

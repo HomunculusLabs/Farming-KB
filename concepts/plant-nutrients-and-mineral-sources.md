@@ -117,6 +117,13 @@ Erosion and leaching create predictable soil sequences down slopes—understandi
 
 ## See Also
 
-- [[primary-plant-nutrients-and-mineral-sources]]
 - [[plant-primary-nutrients-and-mineral-sources]]
 - [[primary-nutrients-and-mineral-sources-in-soils]]
+
+## See Also
+
+- [[plant-sensing-communication]]
+- [[phytochrome-red-far-red-light-switch-plant-pigment]]
+- [[cervantes-supercropping-plant-stress-techniques]]
+- [[ingham-brix-plant-health-indicator-limitations]]
+- [[potassium-plant-nutrition]]

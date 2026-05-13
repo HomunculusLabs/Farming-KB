@@ -1,7 +1,6 @@
 ---
 title: Shiitake Mushroom calendula-cultivation-and-medicinal-uses Properties
-subtitle: A comprehensive guide to the biology, [[synthetic-log-cultivation-methods-guide]], medicinal
-  compounds, and [[ethnomycology-cultural-significance-sacred-fungi]] of Lentinula edodes
+subtitle: A comprehensive guide to the biology, ethnomycology-cultural-significance-sacred-fungi of Lentinula edodes
 tags:
   - shiitake
   - mushroom-cultivation
@@ -39,21 +38,7 @@ related_concepts:
 # Shiitake Mushroom Cultivation and Medicinal Properties
 
 Shiitake (Lentinula edodes) is the second most cultivated mushroom in the
-world, trailing only the common button mushroom ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]) in global
-production volume. Native to the forests of East Asia, where it grows naturally
-on the dead and dying wood of hardwood trees, shiitake has been gathered from
-the wild and deliberately cultivated for well over a thousand years. Its name
-derives from the Japanese "shii" (Castanopsis cuspidata), the tree on which it
-was most commonly found, combined with "take," meaning mushroom. Today, shiitake
-is cultivated on every inhabited continent, valued equally for its rich umami
-flavor in the kitchen and its remarkable medicinal properties in the clinic.
-
-The mushroom occupies a unique position at the intersection of culinary
-tradition and evidence-based medicine. In traditional Chinese medicine, shiitake
-has been prescribed for centuries to treat ailments ranging from colds and
-circulatory disorders to liver conditions and fatigue. Modern pharmacological
-research has validated many of these traditional uses, identifying specific
-[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], most notably the polysaccharide lentinan, which has
+world, trailing only the common button mushroom ([[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], most notably the polysaccharide lentinan, which has
 demonstrated significant immune-modulating and anti-tumor effects in both
 preclinical studies and clinical trials. Lentinan is approved as an adjunct
 cancer therapy in Japan, where it is manufactured by several pharmaceutical
@@ -109,39 +94,12 @@ spores to inoculate the new wood. Over centuries, growers refined these
 techniques, learning to manage moisture, shade, and timing to improve yields.
 ## See Also
 
-- [[shiitake-cultivation-guide]]
 - [[shiitake-cultivation-log-method]]
-- [[shiitake-cultivation-on-sawdust]]
 - [[shiitake-cultivation-parameters]]
-- [[shiitake-medicinal-compounds]]
 - [[shiitake-strain-classification-and-substrate-formulas]]
-- [[mushroom-cultivation-fundamentals]]
 - [[sorghum-cultivation-and-uses]]
-- [[oyster-mushroom-cultivation-and-species-guide]]
-- medicinal-mushroom-cultivation-and-use
 - [[wood-decay-fungi]]
-- [[fungal-enzymes-in-industry-and-biotechnology]]
-
-## References
-
-- Stamets, P. and Chilton, J.S. (1983). *The Mushroom Cultivator*.
-  Agarikon Press.
-- Stamets, P. (2000). *Growing Gourmet and Medicinal Mushrooms*.
-  Ten Speed Press.
-- Chihara, G. et al. (1970). "Fractionation and purification of the
-  polysaccharides with marked antitumor activity, especially lentinan, from
-  Lentinus edodes." *Nature*, 225, 943-944.
-- Maeda, Y.Y. et al. (1974). "The nature of immunopotentiation in mice by
-  the anti-tumour polysaccharide lentinan." *International Journal of Cancer*,
-  13(4), 467-473.
-- Furue, H. et al. (1981). "A late phase II study of lentinan on gastric
-  cancer." *Japanese Journal of Cancer and Chemotherapy*, 8(1), 150-158.
-- Taguchi, T. et al. (1985). "Clinical efficacy of lentinan on neoplastic
-  diseases." *International Journal of Immunopharmacology*, 7(3), 391-393.
-- Ross, G.D. et al. (2000). "Therapeutic activation of macrophages and
-  neutrophils by beta-glucan." *Immunopharmacology*, 46(1-2), 1-6.
-- Oei, P. (1996). *Mushroom Cultivation*. TOOL Publications.
-- Wu, S. (2000). "Substrate formulas for [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]] in China."
+- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]] in China."
   *Mushroom Science*, 15, 483-488.
 - Ajinomoto Co. (1988). Lentinan Technical Document: Preclinical Toxicity
   Data. Tokyo, Japan.

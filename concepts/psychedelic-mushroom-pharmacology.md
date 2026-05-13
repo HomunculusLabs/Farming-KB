@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The pharmacology [[archaeology-of-psychedelic-mushrooms]] is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the [[metzner-ayahuasca-therapeutic-potential]] and the subjective effects of these compounds.
+The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
 
 ## Primary Mechanism: 5-HT2A Receptor Agonism
 
@@ -19,7 +19,7 @@ The principal mechanism of action of psilocin is agonism (activation) of the ser
 
 ### Receptor Binding Profile
 
-Psilocin interacts with multiple [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes:
+Psilocin interacts with multiple serotonin receptor subtypes:
 
 - **5-HT2A**: Primary target; full agonist — responsible for psychedelic effects, hallucinations, perceptual changes
 - **5-HT2C**: Partial agonist — may contribute to anxiety, changes in appetite, and some cognitive effects
@@ -31,12 +31,12 @@ The psychedelic effects are overwhelmingly mediated through 5-HT2A activation. T
 
 ### Intracellular Signaling Cascades
 
-5-HT2A receptor activation triggers several downstream [[plant-signaling-pathways]]:
+5-HT2A receptor activation triggers several downstream signaling pathways:
 
 - **Gq/11-PLC-IP3 pathway**: Activates phospholipase C, generating inositol triphosphate (IP3) and diacylglycerol (DAG), leading to calcium release from intracellular stores
 - **MAPK/ERK pathway**: Activation of mitogen-activated protein kinase cascades, involved in gene expression changes and neuroplasticity
 - **mTOR pathway**: Activation of the mechanistic target of rapamycin pathway, which is critical for synaptic plasticity and the growth of new neural connections
-- **β-arrestin signaling**: Biased signaling through β-arrestin-2 may contribute to specific aspects of the [[leary-psychedelic-experience-bardo-mapping]]
+- **β-arrestin signaling**: Biased signaling through β-arrestin-2 may contribute to specific aspects of the psychedelic experience
 
 ## Pharmacokinetics
 
@@ -76,7 +76,7 @@ The default mode network — comprising the medial prefrontal cortex (mPFC), pos
 
 ### Prefrontal Cortex
 
-The prefrontal cortex shows altered connectivity patterns, including increased cross-talk with sensory and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] regions. This may underlie the blending of cognitive and perceptual experiences characteristic of the psychedelic state.
+The prefrontal cortex shows altered connectivity patterns, including increased cross-talk with sensory and emotional processing regions. This may underlie the blending of cognitive and perceptual experiences characteristic of the psychedelic state.
 
 ### Visual Cortex
 
@@ -140,9 +140,10 @@ Important pharmacological interactions:
 
 Psilocybin has a very high safety profile:
 
-- **LD50** (lethal dose 50%) in rodents: approximately 285 mg/kg IV — far exceeding any reasonable human dose
-- **No known lethal overdose** in humans from psilocybin mushrooms alone
-- The primary risks are psychological (acute anxiety, panic, psychosis in vulnerable individuals) and accidental (misidentification leading to toxic species ingestion)
-- Cardiovascular effects include mild, transient increases in heart rate and blood pressure
+## See Also
 
-See [[psychedelic-mushroom-effects-guide]] for subjective effect descriptions and [[psilocybin-clinical-trials]] for clinical pharmacology data.
+- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
+- [[psychedelic-1960s-counterculture]]
+- [[psychedelic-consciousness-expansion]]
+- [[psychedelic-prohibition-and-the-war-on-consciousness]]
+- [[psychedelic-therapy-set-and-setting]]

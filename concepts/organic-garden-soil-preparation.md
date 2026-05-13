@@ -10,9 +10,7 @@ sources:
 
 # Organic Garden Soil Preparation
 
-Soil preparation sets the foundation for a productive garden. Organic methods focus on building soil biology, maintaining soil structure, and providing nutrients through natural amendments. The approach chosen -- no-till, double-dig, or [[comparison-chinampas-vs-raised-bed-gardening]] -- has long-term implications for soil health. This connects to [[soil-food-web-structure]], and [[nutrient-cycling-in-soil]]
-
-Aim to add 1/4 to 1/2 inch of [[hamilton-composting-and-organic-matter-management]] per year to maintain soil organic matter levels.
+Soil preparation sets the foundation for a productive garden. Organic methods focus on building soil biology, maintaining soil structure, and providing nutrients through natural amendments. The approach chosen -- no-till, double-dig, or [[soil-food-web-structure]], and [[hamilton-composting-and-organic-matter-management]] per year to maintain soil organic matter levels.
 
 ## Mineral Amendments
 
@@ -34,44 +32,10 @@ Disturb the soil as little as possible. Add organic matter as surface mulch and 
 
 Process:
 1. Mow or flatten existing vegetation
-2. [[permaculture-sheet-mulch-detailed-guide]] with cardboard (remove tape/staples)
-3. Add 4-6 inches of compost on top
-4. Mulch with straw or [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]
+2. [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]
 5. Plant directly through mulch by pulling aside compost
 
-Benefits: preserves soil structure, protects [[dighton-mycorrhizal-networks-carbon-transfer]], builds soil carbon over time. Requires patience -- best results after 1-2 seasons.
-
-### Double-Dig (Biointensive Method)
-
-Loosens soil to 24 inches deep for improved root penetration and drainage.
-
-Process:
-1. Dig a trench 12 inches deep and 12 inches wide across the bed
-2. Loosen the subsoil in the trench bottom with a fork (do not invert)
-3. Move soil from the second trench into the first
-4. Add compost to each trench as you go
-5. Continue across the bed
-6. Fill the last trench with soil from the first
-
-Labor-intensive but effective for compacted or heavy clay soils. Best done in fall so soil settles over winter. Do not walk on prepared beds.
-
-### Raised Beds
-
-Contain soil in framed structures above grade. Fill with a mix of topsoil, compost, and other amendments.
-
-Standard raised bed soil mix (Mel's Mix ratio):
-- 1/3 vermiculite (or perlite + sand)
-- 1/3 peat moss (or coco coir)
-- 1/3 blended compost (multiple sources for diversity)
-
-Frame materials: untreated cedar, galvanized metal, concrete block. Avoid pressure-treated wood (copper and arsenic compounds). Beds 4 feet wide allow reaching the center from both sides. Depth: 6-12 inches minimum.
-
-## Bed Preparation Timeline
-
-### Fall (for spring planting)
-
-1. Remove crop residues (compost diseased material separately)
-2. Sow [[coleman-cover-crop-rotation-and-soil-health]] or apply sheet mulch
+Benefits: preserves soil structure, protects [[coleman-cover-crop-rotation-and-soil-health]] or apply sheet mulch
 3. Apply rock minerals and lime (slow-release amendments)
 4. Broadfork beds lightly to reduce compaction without inverting
 5. Mulch heavily (4-6 inches) for winter protection
@@ -82,5 +46,89 @@ Frame materials: untreated cedar, galvanized metal, concrete block. Avoid pressu
 2. Apply compost (1-2 inches surface, or work in lightly)
 3. Adjust pH if needed based on test results
 ## Related
-- [[teaming-with-microbes-soil-minerals-cation-exchange]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+
+## Overview
+
+Organic Garden Soil Preparation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish organic garden soil preparation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving organic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Organic Garden Soil Preparation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for organic garden soil preparation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+organic garden soil preparation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Organic Garden Soil Preparation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of organic garden soil preparation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[coleman-deep-organic-shallow-organic-farming-comparison]]
+- [[hamilton-composting-and-organic-matter-management]]
+- [[hamilton-kelp-and-seaweed-in-organic-gardening]]
+- [[maintaining-organic-matter-in-vegetable-gardens]]
+- [[plant-communication-volatile-organic-compounds]]

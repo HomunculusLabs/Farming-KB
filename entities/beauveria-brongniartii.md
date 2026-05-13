@@ -16,26 +16,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Rehner, S.A. et al. (2011). "Multilocus phylogenetic taxonomy of the Beauveria." Mycologia 103(5): 1069-1083.
-  - Inglis, G.D. et al. (2001). "Use of hyphomycetous fungi for managing [[duggar-mushroom-insect-pests-and-fungal-diseases]]." In: Fungal [[singh-entomopathogenic-fungi-biocontrol-agents]].
+  - Inglis, G.D. et al. (2001). "Use of hyphomycetous fungi for managing [[singh-entomopathogenic-fungi-biocontrol-agents]].
   - Zimmermann, G. (2007). "A review of fifty years of fukuoka-textdoc-biological-control-fallacy-pheromone-critique with Beauveria." Biocontrol Science and Technology 17(6): 567-594.
-  - Feng, M.G. et al. (1994). "[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] of insect pests in China." Biocontrol News and Information 15: 21N-30N.
-aliases:
-  - B. brongniartii
-  - white muscardine fungus
-  - European cockchafer fungus
----
-
-## Overview
-
-**Beauveria brongniartii** (Sacc.) Petch is a filamentous ascomycete fungus in the family
-Cordycipitaceae, order Hypocreales. It is a broad-spectrum entomopathogenic fungus best
-known as the causal agent of white muscardine disease in soil-dwelling coleopteran larvae,
-particularly the European cockchafer (*Melolontha melolontha*).
-
-First described by Pier Andrea Saccardo in 1892 and later reclassified by Edwin John
-Butler, this species has been developed as a commercial biocontrol agent in Europe and
-Asia for over four decades. It is closely related to *B. bassiana* but displays a narrower
-[[powdery-mildews-erysiphaceae-diversity-host-range]] and greater efficacy against scarab pests.
+  - Feng, M.G. et al. (1994). "[[powdery-mildews-erysiphaceae-diversity-host-range]] and greater efficacy against scarab pests.
 
 ## Taxonomy and Classification
 
@@ -61,18 +44,7 @@ globose to subglobose, measuring 2.0-3.0 × 2.0-2.8 μm, produced singly on symp
 conidiogenous cells with a distinctive zigzag rachis. Conidia are hyaline and
 single-celled, forming powdery white masses on infected cadavers.
 
-Blastospores may form in [[comparison-liquid-culture-vs-grain-spawn]], measuring 3.5-6.0 × 2.0-3.0 μm, ellipsoidal to
-cylindrical. Sexual morph (teleomorph) has not been conclusively observed in nature.
-
-## Host Range and Pathogenicity
-
-*B. brongniartii* is primarily pathogenic to coleopteran larvae (white grubs), especially
-species in the Scarabaeidae family. Key target pests include *Melolontha melolontha*
-(European cockchafer), *M. hippocastani* (forest cockchafer), and *Amphimallon solstitiale*
-(summer chafer).
-
-Infection occurs when conidia contact the insect cuticle, germinate, and penetrate via
-[[enzymatic-degradation-in-mycoremediation]] of the epicuticle. The fungus proliferates as blastospores in the
+Blastospores may form in [[enzymatic-degradation-in-mycoremediation]] of the epicuticle. The fungus proliferates as blastospores in the
 hemocoel, producing toxins including beauvericin and bassianolide. Death typically occurs
 within 3-7 days post-infection, followed by emergence of conidiophores through the
 cadaver integument.
@@ -88,3 +60,88 @@ in soil as conidia or as dormant hyphal bodies within infected cadavers.
 
 Natural epizootics are common in European cockchafer populations during cool, moist
 conditions (spring and autumn). Soil temperature between 15-25°C and high humidity favor
+
+## Overview
+
+Beauveria Brongniartii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish beauveria brongniartii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving beauveria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Beauveria Brongniartii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for beauveria brongniartii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+beauveria brongniartii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Beauveria Brongniartii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of beauveria brongniartii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[beauveria]]
+- [[beauveria-bassiana]]
+- [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]
+- [[ingham-beauveria-parasitic-fungi]]
+- [[query-how-do-i-use-beauveria-bassiana-for-pest-control]]

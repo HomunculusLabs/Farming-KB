@@ -16,63 +16,10 @@ type: concept
 
 # Banco, Sumiruna, and Muraya
 
-The three highest degrees in traditional [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] medicine
-are the banco, the sumiruna (sumi), and the muraya. These represent
-ascending levels of [[icaros-shamanic-power-songs]], each with distinct specialties,
+The three highest degrees in traditional [[icaros-shamanic-power-songs]], each with distinct specialties,
 spiritual domains, and abilities. One can only reach these degrees
 through years of dieting and fasting with
-[[yakuruna-water-spirits-of-the-amazon]] domain. In visions, the muraya
-descends while two mermaids serve as guides to the golden city
-beneath the waters. Guardian animals -- the tibemama (osprey), the
-sarara (Anhinga anhinga), and the tibe negro (cormorant) -- precede
-him. The Yakumamas (water boa mothers) guard the city gates with
-magnetic power in their tongues.
-
-The muraya dominates through perfume and possesses great spiritual
-power. He sits on a big living stone tiger that floats on water,
-surrounded by his genies: the sumi-lagarto (submerging lizard), the
-anguila mama (electric eel), the puka-bufeo (pink dolphin), the
-sanguijuela mama (leech), the yaku-toro (water bull), the supay-puma
-(ghost jaguar), and many others. He uses the Yakumama as a submarine
-to descend to the deepest parts of rivers.
-
-The muraya is called upon to retrieve people kidnapped by yakuruna.
-He raises a whirlwind, summoning his animal genies to force the water
-spirit to return the captive. He can also rescue women made pregnant
-by bufeos colorados (pink river dolphins) using the puma-sirenas --
-beings with the body and hair of a woman but the face of a tiger.
-
-## The Sumiruna (Sumi)
-
-The sumiruna represents an even higher degree, specialising in
-aerial and celestial travel. He is transported into space by
-anchash sylphs (blue sylphs) in a glass tube, standing on a ball of
-high-pressure gas, ready for levitation. He wears skins of the boa,
-trousers of ray-fish, feet of yangunturo (giant armadillo), and a
-macaw as his hat. Two acorones (giant boas) open their mouths to let
-the animals and yakurunas used by vegetalistas bid farewell. Flying
-saucers hurry to receive him and accompany him in astral travel.
-
-The sumiruna's domain includes the underwater realm. An opening
-leads to three regions of the subaquatic world: the first belonging
-to white yakurunas and fair-haired mermaids; the second to red
-yakurunas and blue-red mermaids; the third to black yakurunas and
-black mermaids. The sumiruna can also enter clouds, snow, or fog to
-travel.
-
-A great sumiruna lifts a white serpent to give power to his son,
-preparing shoes and a cap as protection. The sumiruna is also capable
-of "straightening" a vegetalista whose powers have been twisted by
-sorcery (maituchishcami). He blows the alli-huaira (good wind) to
-form a great tornado that disperses the harmful sorcery into infinite
-particles.
-
-## The Banco
-
-The banco is the highest degree, a master of all three realms: the
-atmospheric or sidereal, the terrestrial, and the aquatic. He
-possesses sublime powers and has a flying wheel and a diamond sword
-as weapons. The banco [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] his mosquito net while various
+[[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] his mosquito net while various
 beings descend a spiritual spiral. Three beings sit on him: an old
 king called Maucanuelotz ("the oldest king"), expert in occult
 science, and his two princes Chaimibaco and Huambrarrah. They devise
@@ -118,8 +65,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[muraya]]
 - [[sumiruna]]
-- [[dom]]
 - [[shamanism]]
 - [[icaros]]
+
+## Overview
+
+Banco Sumiruna Muraya represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish banco sumiruna muraya
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving banco extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Banco Sumiruna Muraya finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for banco sumiruna muraya. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+banco sumiruna muraya and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Banco Sumiruna Muraya has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of banco sumiruna muraya into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

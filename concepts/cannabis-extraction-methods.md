@@ -14,8 +14,8 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 ### Mechanical Methods
 
 **Kief (dry sift)**:
-- [[cervantes-cannabis-flower-anatomy]] material is agitated over fine mesh screens
-- The [[cannabis-glandular-trichome-types-resin-production-clarke]] heads separate and fall through
+- Cannabis flower material is agitated over fine mesh screens
+- The glandular trichome heads separate and fall through
 - Different micron sizes yield different grades of purity
 - Simplest and oldest method; produces a powdery concentrate
 - Can be pressed into blocks with heat and pressure
@@ -26,7 +26,7 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 - Traditional method from India, Nepal, and Morocco
 - Charas from India is considered among the finest traditional hashish
 
-**[[cannabis-ice-water-extraction]] (bubble hash)**:
+**Ice water extraction (bubble hash)**:
 - Plant material is agitated in ice-cold water
 - Cold makes trichome heads brittle, causing them to separate
 - The mixture is filtered through successively finer mesh bags (bubble bags)
@@ -35,11 +35,11 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 
 ### Solvent Extraction
 
-Ben Lemon's "[[cannabis-alchemy-overview]]" provides a detailed solvent extraction protocol. The process follows these steps:
+[[ben-lemon]]'s "Cannabis Alchemy" provides a detailed solvent extraction protocol. The process follows these steps:
 
 **1. Preparation**: Plant material (marijuana or hashish) is dried and ground to the finest powder possible. Ruptured cell walls allow oil to be extracted more completely.
 
-**2. [[cannabis-reflux-extraction-apparatus]]**: The powdered material is boiled (refluxed) in solvent. The essential oil — containing THC, related cannabinoids, terpenes, chlorophyll, and flavor/smell compounds — dissolves in the solvent. Refluxing continues 3-4 hours.
+**2. [[reflux-extraction]]**: The powdered material is boiled (refluxed) in solvent. The essential oil — containing THC, related cannabinoids, terpenes, chlorophyll, and flavor/smell compounds — dissolves in the solvent. Refluxing continues 3-4 hours.
 
 **3. Solvent options** (from Lemon's guide):
 
@@ -88,38 +88,3 @@ Ben Lemon's "[[cannabis-alchemy-overview]]" provides a detailed solvent extracti
 - [[cannabis-plant-anatomy]]
 - [[cannabis-genetics-and-breeding]]
 - [[cannabis-extraction-basics]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[petroleum-ether]]
-- [[methanol]]
-- [[charas]]
-- [[ethanol]]

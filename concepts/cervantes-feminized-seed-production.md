@@ -3,8 +3,7 @@ title: Cervantes Feminized Seed Production
 created: 2026-04-26
 tags:
   - cannabis
-  - [[cannabis-feminized-seeds]]
-  - [[cervantes-ethylene-hormonal-sex-reversal]]
+  - cervantes-ethylene-hormonal-sex-reversal
   - breeding
   - ethylene
 date: 2026-04-25
@@ -19,9 +18,7 @@ type: concept
 
 Feminized seeds are produced by obtaining pollen from one female
 individual and subsequently fertilizing another female plant. The result
-is a [[cervantes-seed-population-types-ibl-hybrid]] consisting entirely or predominantly of female
-(XX) offspring. This technique has become standard practice in the
-commercial [[cervantes-cannabis-seed-purchasing-storage]] industry.
+is a [[cervantes-cannabis-seed-purchasing-storage]] industry.
 
 ## Chromosome Basis of Sex in Cannabis
 
@@ -60,29 +57,7 @@ we ensure that some of the progeny will also have intersex tendencies.
 Using pollen from an intersex or hermaphrodite plant is an intentional
 selection for intersexuality -- like begets like.
 
-Some [[spanish-cannabis-seed-companies]] market "feminized seeds" produced by collecting
-pollen from carefully selected, latent, stress-induced hermaphrodites,
-and using it to pollinate female plants. This process is time consuming
-and arduous, but yields mostly female plants when grown without stress.
-Under the stresses that resulted in the intersexuality for the pollen
-parent, the progeny will often show some degree of intersexuality as
-well. Again, like begets like.
-
-### Method 2: Hormone-Induced Sex Reversal (Preferred)
-
-The preferred method uses hormone treatments to induce staminate flower
-formation on genetically female plants that have been screened for
-intersex resistance. This avoids passing intersex tendencies to
-offspring.
-
-1. Take chosen female breeding candidates and grow them under stressful
-   conditions that may lead to male flower formation (irregular light
-   cycle, high heat, etc.)
-2. Only plants that resist intersexuality under these conditions should
-   be considered as potential breeding parents -- "true females"
-3. Clone copies of these pistillate intersex-resistant plants
-4. Spray clones with hormone treatment (e.g., silver thiosulfate) and
-   place into the [[cannabis-sativa-flowering-cycle-management]]
+Some [[cannabis-sativa-flowering-cycle-management]]
 5. Allow three to five weeks for the plants to enter dehiscence and
    shed pollen
 6. Use this pollen to fertilize true female candidates
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[cervantes-seed-production-storage]]
-- [[vic-high-selfing-and-regular-seed-production]]
 - [[cervantes-hash-cannabis-oil-production]]
 - [[sclerotia-production-grass-seed-jar-method]]

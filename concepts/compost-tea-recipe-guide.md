@@ -35,7 +35,7 @@ Water must be de-chlorinated. Chlorine kills the beneficial organisms you are tr
 
 ### Compost Quality
 
-The compost is the inoculum source. It must contain the organisms you want to grow. Good compost should have thick white strands of beneficial fungi growing through it (not grey fuzzy spores). Both [[aact-vermicompost-vs-thermal-compost-ingham]] and vermicompost can be used, but they should meet SFI (Soil Foodweb) minimum standards for bacteria and fungi.
+The compost is the inoculum source. It must contain the organisms you want to grow. Good compost should have thick white strands of beneficial fungi growing through it (not grey fuzzy spores). Both thermal compost and vermicompost can be used, but they should meet SFI (Soil Foodweb) minimum standards for bacteria and fungi.
 
 ## Basic Recipes
 
@@ -44,10 +44,10 @@ The compost is the inoculum source. It must contain the organisms you want to gr
 Per 5 gallons of de-chlorinated water:
 
 - 2-3 cups high-quality compost (or worm castings) in a mesh bag
-- 1-4 tablespoons unsulfured [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]
+- 1-4 tablespoons unsulfured blackstrap molasses
 - 1 teaspoon liquid kelp (optional but recommended)
 
-The higher molasses amount favors bacterial growth. This is suitable for [[bacterial-vs-fungal-soil]] plantings with F:B ratio targets of 0.3:1 to 1:1.
+The higher molasses amount favors bacterial growth. This is suitable for [[bacterial-vs-fungal-soil|bacterially dominated]] plantings with F:B ratio targets of 0.3:1 to 1:1.
 
 ### Fungal-Dominated Tea (for trees, shrubs, perennials)
 
@@ -80,7 +80,7 @@ Targets F:B ratio of approximately 0.8:1 to 1:1.
 | Liquid kelp | Micronutrients, some fungal food | 1 tsp |
 | Kelp meal | Micronutrients, trace minerals | 0.5 oz |
 | Fish hydrolysate | Nitrogen, fungal food, protein | 0.5 oz |
-| Humic acid | Fungal food, [[chelated-nutrients]] | 1 Tbsp |
+| Humic acid | Fungal food, [[chelated-nutrients|chelation]] | 1 Tbsp |
 | Fish emulsion | Nitrogen, bacterial food | 1-2 oz |
 
 ## Important Notes on Amendments
@@ -127,8 +127,8 @@ AACT must stay aerobic to retain beneficial fungi, protozoa, and nematodes. Anae
 | Product | Definition |
 |---------|-----------|
 | **AACT** | Water extract of compost, brewed with foods, actively aerated |
-| **[[aact-compost-extract-leachate-tea-distinctions-ingham]]** | Water extract of compost, no brewing period (organisms not activated) |
-| **[[comparison-compost-extract-vs-compost-leachate]]** | Passive drainage from compost (mostly soluble nutrients, limited organisms) |
+| **Compost extract** | Water extract of compost, no brewing period (organisms not activated) |
+| **Compost leachate** | Passive drainage from compost (mostly soluble nutrients, limited organisms) |
 | **Plant tea** | Water extract of plant materials (no compost) |
 | **Manure tea** | Made with manure (not compost unless fully composted) |
 
@@ -140,7 +140,7 @@ AACT must stay aerobic to retain beneficial fungi, protozoa, and nematodes. Anae
 - Standard brew time is 24 hours
 - De-chlorinate all water before brewing
 - Apply as soil drench and/or foliar spray at recommended rates
-- Test compost tea with SFI to verify [[aact-compost-organism-levels]] meet standards
+- Test compost tea with SFI to verify organism levels meet standards
 
 ## Related
 

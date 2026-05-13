@@ -18,16 +18,8 @@ Cannabis oil extraction encompasses methods of producing concentrated cannabis o
 
 ### Cannabis Butter (Cannabutter)
 
-[[cannabis-topical-preparations]] for skin
-
-A popular smoking method involves placing a little oil inside the glass bubble of an oil pipe. When heat is applied, the THC vaporizes and is inhaled through the stem.
-
-## Tinctures as Liquid Extraction
-
 [[cannabis-cannabutter-preparation]]
-- [[cannabis-tincture-preparation]]
 - [[cannabis-hashish-production]]
-- [[honey-based-herbal-preparations]]
 - [[cannabis-hashish-from-extracted-oil-techniques]]
 ## Practical Applications
 
@@ -97,8 +89,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[hashish]]
 - [[cannabis-oil-extraction-purification]]
 - [[cannabis-oil-extraction-methods]]

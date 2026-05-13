@@ -17,29 +17,7 @@ sources:
 
 ## Overview
 
-Tigridia pavonia, commonly called tiger flower or peacock tiger-flower, is a bulbous perennial native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. It produces large, spectacular flowers with bold cup-shaped centers patterned in contrasting spots against flat outer tepals.
-
-Each flower lasts only a single day, opening in the morning and wilting by evening. Despite this brevity, plants produce flowers in succession over several weeks, providing a continuous summer display.
-
-The species has been cultivated since Aztec times, valued both ornamentally and as a food source. The corms are edible when cooked and were historically important in highland Mexico.
-
-Tigridia pavonia is the largest-flowered and most widely grown species in the genus Tigridia. It is the parent of most garden hybrids available in the horticultural trade today.
-
-The species received the RHS Award of Garden Merit for its extraordinary flower display. No other summer-blooming bulb produces flowers of comparable size and intricacy.
-
-Its dramatic, short-lived blooms have fascinated botanists since its introduction to European gardens in the late 18th century. Linnaeus filius originally described it as Iris pavonia before De Candolle reclassified it into Tigridia.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Family:** Iridaceae
-- **Genus:** Tigridia
-- **Species:** Tigridia pavonia (L.f.) DC.
-- **Synonyms:** Iris pavonia L.f.; Tigridia speciosa
-
-The genus name Tigridia derives from the Latin "tigris" (tiger), referring to the tiger-spotted patterns on the inner cup segments. The species epithet "pavonia" means "peacock-like."
-
-Tigridia belongs to tribe Tigridieae within Iridaceae, a primarily New World group. The genus contains approximately 35 species, all native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
+Tigridia pavonia, commonly called tiger flower or peacock tiger-flower, is a bulbous perennial native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 Molecular studies confirm Tigridia pavonia as closely related to Tigridia durangense and Tigridia galanthoides. Hybridization among these species has produced many cultivated forms available from specialty nurseries.
 
@@ -61,15 +39,7 @@ Three stylar branches arch over the cup, each bearing a fringed, petaloid stigma
 
 The fruit is an ellipsoid capsule 2–3 cm long containing numerous angular, reddish-brown seeds. Seeds lack appendages and disperse by wind and water during the rainy season.
 
-Plants in cultivation often produce larger flowers than [[strain-isolation-from-wild-specimens]]. Well-grown corms can produce flowers exceeding 15 cm across with optimal nutrition and consistent moisture.
-
-## Distribution and Habitat
-
-Tigridia pavonia is native to the highlands of central and southern Mexico, from 1500–2800 m elevation. Populations occur in pine-oak forests, subalpine meadows, and disturbed roadsides.
-
-The species prefers well-drained volcanic soils with warm days and cool nights. It grows in areas with a distinct wet-dry cycle, remaining active during the summer rainy season.
-
-Naturalized populations exist in other parts of [[guzman-central-america-neurotropic-fungi-species-distribution]] and the Andes where it has escaped cultivation. It typically establishes in disturbed sites at appropriate elevations.
+Plants in cultivation often produce larger flowers than [[guzman-central-america-neurotropic-fungi-species-distribution]] and the Andes where it has escaped cultivation. It typically establishes in disturbed sites at appropriate elevations.
 
 Mexico is the center of diversity for Tigridia, harboring nearly all 35 species. Many species are narrow endemics restricted to single mountain ranges or valleys in the Sierra Madre.
 
@@ -88,3 +58,80 @@ Corms produce 1–3 flowering stems per season under good conditions. Flowering 
 Water regularly during active growth but reduce watering as foliage yellows in autumn. Excess moisture during dormancy promotes corm rot, the most common cause of cultivation failure.
 
 Propagation is by corm division or seed. Offsets form at the base of the mother corm and can be separated at lifting time in autumn before storage.
+
+## Overview
+
+Tigridia Pavonia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tigridia pavonia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tigridia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tigridia Pavonia finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tigridia pavonia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tigridia pavonia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tigridia Pavonia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tigridia pavonia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

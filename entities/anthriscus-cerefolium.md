@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sriti J, et al. (2013). "Essential oil composition and antioxidant activities of Anthriscus cerefolium L. Hoffm." Journal of Food Biochemistry, 37(5), 604–612.
-  - Jana S, Shekhawat GS (2010). "Anethum graveolens and Anthriscus cerefolium: a review on nutritional and pharmacological profile." Pharmacognosy Reviews, 4(8), 147–152.
+  - Jana S, Shekhawat GS (2010). "[[anethum-graveolens]] and Anthriscus cerefolium: a review on nutritional and pharmacological profile." Pharmacognosy Reviews, 4(8), 147–152.
   - Tardío J, et al. (2006). "Traditional use of edible wild plants in the Sierra de Grazalema." Economic Botany, 60(4), 400–410.
   - Rivera D, et al. (2006). "The ethnobotanical study of local wild food plants in the Guadiana Valley." Journal of Food Agriculture and Environment, 4(1), 55–64.
 ---
@@ -19,7 +19,7 @@ sources:
 
 Anthriscus cerefolium, commonly known as chervil, is a delicate annual herb in the family Apiaceae. It is native to the Caucasus, the Middle East, and southern Europe, and has been cultivated for culinary use since classical antiquity. Chervil is one of the four traditional French *fines herbes*, alongside tarragon, chives, and parsley.
 
-The plant is prized for its mild anise-like flavor, which is more subtle than tarragon or fennel. Chervil is widely used in French, Mediterranean, and Central European cuisines, where it is typically added to dishes at the last moment to preserve its delicate aroma. Medicinally, it has a history of use as a digestive aid, diuretic, and blood purifier in European folk traditions.
+The plant is prized for its mild anise-like flavor, which is more subtle than tarragon or fennel. Chervil is widely used in French, Mediterranean, and [[psilocybe-bohemica-central-european]] cuisines, where it is typically added to dishes at the last moment to preserve its delicate aroma. Medicinally, it has a history of use as a digestive aid, diuretic, and blood purifier in European folk traditions.
 
 ## Taxonomy and Morphology
 
@@ -33,21 +33,19 @@ The genus Anthriscus is closely related to *Chaerophyllum* (chervils) and *Myrrh
 
 ## Distribution and Habitat
 
-Wild chervil is found in hedgerows, woodland edges, and rocky slopes from southern Europe through the Caucasus to western Asia. It prefers partial shade and moist, well-drained soils rich in organic matter. Naturalized populations exist in parts of [[psilocybin-north-america-pacific-northwest]], where it occasionally escapes cultivation.
+Wild chervil is found in hedgerows, woodland edges, and rocky slopes from southern Europe through the Caucasus to western Asia. It prefers partial shade and moist, well-drained soils rich in organic matter. Naturalized populations exist in parts of [[holzer-medicinal-and-culinary-herbs-compendium]] to maintain through summer.
 
-Cultivated chervil is grown commercially in France, Italy, Spain, and parts of central Europe. It is also popular among home gardeners in temperate regions worldwide. The plant performs best in cool conditions (15–20°C) and bolts rapidly in hot weather, making it one of the more challenging [[holzer-medicinal-and-culinary-herbs-compendium]] to maintain through summer.
-
-The United States, particularly the Pacific Northwest and New England, supports a small but growing commercial chervil industry serving upscale restaurants and farmers' markets. Chervil is one of the few culinary herbs that maintains good market value in fresh-cut form due to its perishability and the difficulty of substituting dried material. Hydroponic and indoor vertical farming systems have successfully produced chervil year-round in controlled environments.
+The United States, particularly the [[psilocybin-north-america-pacific-northwest]] and New England, supports a small but growing commercial chervil industry serving upscale restaurants and farmers' markets. Chervil is one of the few culinary herbs that maintains good market value in fresh-cut form due to its perishability and the difficulty of substituting dried material. Hydroponic and indoor vertical farming systems have successfully produced chervil year-round in controlled environments.
 
 ## Cultivation
 
 Chervil is typically direct-sown in early spring or late summer for autumn harvest. Seeds should be sown shallowly (3–5 mm depth) and kept consistently moist, as they require light for germination. Germination occurs within 10–14 days at optimal temperatures of 15–18°C.
 
-The plant reaches harvestable size in 6–8 weeks from sowing. Successive sowings every 2–3 weeks provide continuous harvests through the growing season. Chervil grows well in containers and window boxes, making it accessible to urban gardeners. Spacing of 15–20 cm between plants is recommended.
+The plant reaches harvestable size in 6–8 weeks from sowing. Successive sowings every 2–3 weeks provide continuous harvests through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Chervil grows well in containers and window boxes, making it accessible to urban gardeners. Spacing of 15–20 cm between plants is recommended.
 
 Indoor cultivation under grow lights or on sunny windowsills extends the harvest season through winter. The plant's preference for cool conditions makes it well-suited to autumn and early spring production in unheated greenhouses. In warm climates, chervil is cultivated as a winter crop during the cooler months.
 
-Chervil is relatively pest-free compared to other Apiaceae crops. Aphids and slugs are occasional problems in humid conditions. The plant is susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in poor air circulation. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with tomatoes or peppers provides beneficial shade. Chervil also serves as a trap crop for certain aphid species, drawing them away from more valuable crops.
+Chervil is relatively pest-free compared to other Apiaceae crops. Aphids and slugs are occasional problems in humid conditions. The plant is susceptible to [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with tomatoes or peppers provides beneficial shade. Chervil also serves as a trap crop for certain aphid species, drawing them away from more valuable crops.
 
 ## Chemistry and Pharmacology
 
@@ -55,7 +53,7 @@ The essential oil of chervil is composed primarily of **methyl chavicol** (estra
 
 The essential oil profile varies significantly with harvest stage, plant part, and geographic origin. Young leaves harvested before flowering contain the highest proportion of methyl chavicol and the most desirable aromatic profile. Post-flowering material shows reduced oil content and altered composition, with increased proportions of less desirable sesquiterpenes. Organic [[synthetic-log-cultivation-methods-guide]] have been shown to produce higher total phenolic content compared to conventional practices.
 
-Phenolic compounds in chervil include **quercetin**, **isoquercitrin**, and **caffeic acid derivatives**, which contribute antioxidant activity. The flavonoid profile shows significant radical-scavenging capacity in DPPH and ABTS assays, though at lower concentrations than more widely studied herbs like rosemary or thyme.
+[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in chervil include **quercetin**, **isoquercitrin**, and **caffeic acid derivatives**, which contribute antioxidant activity. The flavonoid profile shows significant radical-scavenging capacity in DPPH and ABTS assays, though at lower concentrations than more widely studied herbs like rosemary or thyme.
 
 Traditional European herbalism attributes chervil with diuretic, expectorant, and digestive properties. It has been used to treat eczema, gout, and liver complaints in folk medicine. Modern pharmacological studies are limited, though preliminary research suggests mild anti-inflammatory and hepatoprotective effects from methanolic leaf extracts in animal models.
 
@@ -67,7 +65,7 @@ The high estragole content has prompted regulatory attention in some jurisdictio
 
 Chervil is best used fresh, as drying destroys most of its volatile aroma. It is a core ingredient in French *fines herbes* blends, béarnaise sauce, and chaud-froid preparations. The herb pairs well with eggs, fish, poultry, spring vegetables, and mild cheeses.
 
-Frozen chervil retains flavor better than dried, though the texture deteriorates upon thawing. Blanching briefly before freezing can preserve color and aroma for up to six months. Some chefs recommend making chervil oil or chervil butter as preservation methods that capture the herb's delicate flavor profile more effectively than drying.
+Frozen chervil retains flavor better than dried, though the texture deteriorates upon thawing. Blanching briefly before freezing can preserve color and aroma for up to six months. Some chefs recommend making chervil oil or chervil butter as [[egg-preservation-methods]] that capture the herb's delicate flavor profile more effectively than drying.
 
 In French cuisine, chervil is essential for *soupe de printemps* (spring soup), omelettes aux fines herbes, and as a garnish for consommé. It is folded into compound butters, crème fraîche dressings, and cream-based sauces just before serving. Chervil stems are edible and can be used to flavor stocks and broths.
 

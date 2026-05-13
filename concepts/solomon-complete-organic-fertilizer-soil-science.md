@@ -8,7 +8,7 @@ created: 2026-05-11
 
 # Solomon's Complete Organic Fertilizer — Soil Science
 
-The Complete Organic Fertilizer (COF) is Steve Solomon's signature contribution
+The Complete Organic Fertilizer (COF) is [[steve-solomon]]'s signature contribution
 to home gardening. Rather than a simple recipe, COF embodies a philosophy of
 soil nutrition based on providing all essential plant nutrients in balanced,
 slow-release organic forms. Understanding the soil science behind COF helps
@@ -131,8 +131,6 @@ quality soil inputs saves far more in health costs than it costs.
 
 ## Related Concepts
 
-- [[complete-organic-fertilizer-cof-recipe-solomon]]
 - [[solomon-cof-ingredient-economics-and-cost-benefit]]
-- [[solomon-cof-ingredient-roles-and-sourcing]]
 - [[solomon-vegetable-nutritional-decline-trace-minerals]]
 - [[solomon-lime-calcium-ph-management]]

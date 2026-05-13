@@ -13,26 +13,14 @@ type: query
 # How to Grow Mushrooms on Logs?
 
 ## Short Answer
-[[falconer-growing-mushrooms-in-sheds]] on logs involves inoculating freshly cut hardwood logs with mushroom
-spawn (either plug spawn or [[growing-gourmet-sawdust-spawn-production-use]]), sealing the inoculation sites with wax, and
+[[growing-gourmet-sawdust-spawn-production-use]]), sealing the inoculation sites with wax, and
 waiting 6 to 18 months for the mycelium to fully colonize the wood before fruiting
-begins. [[query-difference-between-shiitake-and-oyster-mushrooms]] mushrooms are the most popular species for log cultivation,
-and a single inoculated log can produce mushrooms for 3 to 7 years with proper management.
-
-## Detailed Explanation
-
-Log cultivation is one of the oldest and most reliable methods for growing gourmet and
-[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. It mimics the natural lifecycle of wood-decomposing fungi and
+begins. [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. It mimics the natural lifecycle of wood-decomposing fungi and
 produces high-quality mushrooms with minimal equipment and ongoing cost. The
-[[log-cultivation-methods]] page compares different approaches including
-traditional log inoculation, wedge techniques, and totem methods.
-
-Selecting the right wood species is critical for success. Most [[fungi-cultivated-mushrooms-pathogens-competitors]]
+[[fungi-cultivated-mushrooms-pathogens-competitors]]
 prefer hardwood logs, with oak, maple, beech, birch, and alder being the most commonly
 recommended species. Softwoods like pine and cedar contain resins and compounds that
-inhibit fungal growth and are generally unsuitable. The [[shiitake-cultivation-guide]] page covers the specific timing
-considerations for shiitake, which is the most popular species for log cultivation.
-The [[stamets-outdoor-natural-culture-methods]] page provides Paul Stamets' detailed
+inhibit fungal growth and are generally unsuitable. The [[stamets-outdoor-natural-culture-methods]] page provides Paul Stamets' detailed
 protocol for outdoor log cultivation.
 
 After inoculation, logs enter a colonization phase (also called the spawn run or
@@ -40,21 +28,11 @@ incubation period) that lasts anywhere from 6 months to 2 years depending on the
 mushroom species, log size, and environmental conditions. During this phase, logs
 should be kept in a shaded, moist location where they receive indirect sunlight and
 rainfall or regular watering. Stacking logs in a crib or lean-to arrangement promotes
-air circulation while maintaining humidity. The [[shiitake-log-vs-sawdust-cultivation]] page compares the log method
-to indoor sawdust cultivation, noting that log-grown shiitake generally have better
-flavor, longer shelf life, and higher market value despite lower overall yields.
-The mushroom-log-stump-cultivation-tree-species-guide
-- Inoculate within 2 to 6 weeks of cutting using plug spawn for beginners or sawdust
-  spawn for efficiency [[stamets-outdoor-natural-culture-methods]]
+air circulation while maintaining humidity. The [[stamets-outdoor-natural-culture-methods]]
 - Colonization takes 6 to 18 months in a shaded, moist location with good air
-  circulation [[shiitake-cultivation-guide]]
-- A single inoculated log can produce mushrooms for 3 to 7 years with proper care
-  [[wine-cap-mushroom-cultivation]] page covers this
-adaptable species, and the [[query-how-to-grow-wine-cap-mushrooms]]
+  circulation [[wine-cap-mushroom-cultivation]] page covers this
+adaptable species, and the [[query-how-to-grow-mushrooms-on-straw]] Questions
 
-- [[query-how-to-grow-mushrooms-on-straw]] Questions
-
-- [[query-how-to-set-up-a-monotub-mushroom-grow]]
 - [[mushroom-foraging-safety-guide]]
 ## Practical Considerations
 

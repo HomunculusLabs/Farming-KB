@@ -47,23 +47,11 @@ The chromosome number is 2n = 22, consistent with many diploid Centaurea species
 
 ## Distribution and Habitat
 
-*Centaurea nigra* is native to most of Europe, from the British Isles and Scandinavia south to the Iberian Peninsula and east to western Russia. It has been introduced to [[psilocybin-north-america-pacific-northwest]], where it occurs as a casual escape in parts of eastern Canada and the northeastern [[dmt-containing-plants-united-states-halpern]].
+*Centaurea nigra* is native to most of Europe, from the British Isles and Scandinavia south to the Iberian Peninsula and east to western Russia. It has been introduced to [[dmt-containing-plants-united-states-halpern]].
 
 In its native range, it occupies a wide ecological amplitude, from lowland to montane zones up to approximately 800 m elevation.
 
-The species is a strong indicator of unimproved grassland. It tolerates moderate [[gadd-mycelial-network-resilience-grazing-pressure]] and is characteristic of neutral to slightly acidic hay meadows.
-
-It thrives on well-drained to moist soils, including loams, clays, and sandy substrates. It is less common on very acidic peat or highly calcareous soils.
-
-The species is a frequent coloniser of disturbed ground including road verges, railway embankments, and waste ground. It benefits from moderate soil disturbance and declines under intensive agricultural improvement.
-
-## Ecology
-
-Common knapweed is a key nectar and pollen resource for a wide range of insects. It is particularly important for long-tongued bumblebee species including *Bombus pascuorum* and *Bombus hortorum*.
-
-Butterfly species frequently recorded feeding on *C. nigra* nectar include the meadow brown (*Maniola jurtina*), gatekeeper (*Pyronia tithonus*), and common blue (*Polyommatus icarus*).
-
-The flower heads support a diverse assemblage of seed-feeding insects, including weevils of the genus *Larinus* and tephritid flies. These specialist herbivores are themselves food for [[comparison-parasitoid-wasps-vs-chemical-pesticides]].
+The species is a strong indicator of unimproved grassland. It tolerates moderate [[comparison-parasitoid-wasps-vs-chemical-pesticides]].
 
 Goldfinches (*Carduelis carduelis*) feed extensively on knapweed seeds in autumn and winter, making the species an important component of the winter food web in grassland landscapes.
 
@@ -73,9 +61,7 @@ The root system contributes to soil structure in permanent pasture. Its deep tap
 
 ## Cultivation
 
-Common knapweed is easily grown from seed sown in autumn or [[coleman-overwintered-onions-and-early-spring-crops]] onto bare soil. No stratification is required, though a brief cold period can improve germination rates.
-
-Seed should be sown at 1–2 g per square metre in [[hamilton-wildflower-meadow]] mixtures. It typically germinates within 2–4 weeks under warm, moist conditions.
+Common knapweed is easily grown from seed sown in autumn or [[hamilton-wildflower-meadow]] mixtures. It typically germinates within 2–4 weeks under warm, moist conditions.
 
 Plants usually flower in their second year from seed, though early-sown seed may produce flowers in the first autumn. Flowering period extends from June to September.
 
@@ -88,3 +74,77 @@ In traditional agriculture, *C. nigra* was considered a moderate-quality forage 
 The species is a core component of native wildflower seed mixes marketed for meadow creation, pollinator strips, and highway verge management in the UK and continental Europe.
 
 It has limited ethnobotanical use. Dried flower heads have been used ornamentally, and the plant has occasionally been used in folk medicine as an astringent and wound herb.
+
+## Overview
+
+Centaurea Nigra represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish centaurea nigra
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving centaurea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Centaurea Nigra finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for centaurea nigra. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+centaurea nigra and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Centaurea Nigra has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of centaurea nigra into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

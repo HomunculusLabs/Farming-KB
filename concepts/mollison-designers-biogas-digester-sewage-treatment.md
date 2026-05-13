@@ -10,51 +10,14 @@ tags: [permaculture, mollison, designers-manual, biogas, sewage, methane, waste-
 
 ## Overview
 
-Biogas digestion represents a cornerstone of permaculture [[off-grid-waste-management]],
-transforming sewage and organic waste into useful methane fuel while
-purifying water for agricultural reuse. Mollison presents sewage not as a
-waste product but as a resource stream containing nutrients, carbon
-compounds, and energy potential. The integration of [[biogas-digesters-and-anaerobic-digestion-systems]] with
+Biogas digestion represents a cornerstone of permaculture [[biogas-digesters-and-anaerobic-digestion-systems]] with
 aerobic polishing ponds and biological filtration creates closed-loop systems
 that produce fuel, fertilizer, and clean water simultaneously.
 
 ## The Problem with Conventional Sewage
 
 Modern sewage systems are fundamentally wasteful, flushing nutrient-rich
-[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] into waterways using enormous volumes of clean water. Raw
-sewage contains a mixture of nutrients, elements, heavy metals, and carbon
-compounds, along with dangerous levels of bacteria, viruses, and intestinal
-worm eggs. The conventional approach treats these as pollutants to be
-disposed of, whereas permaculture design treats them as resources to be
-captured and cycled. Mollison emphasizes that the energy and nutrient value
-in sewage is too valuable to waste.
-
-## The Three-Stage Pond System
-
-Mollison describes a three-stage pond system modeled on the Werribee
-sewage treatment facility in Victoria, Australia, which serves 2.7 million
-people using 1,500 hectares of treatment lagoons. The system operates in
-three sequential stages:
-
-**Anaerobic (methane-producing) ponds** serve as primary settling ponds
-where raw sewage first enters. These ponds are typically 1 metre deep and
-create conditions where bacteria break down organic matter without oxygen,
-producing biogas as a byproduct. At Werribee, approximately 724 hectares of
-settling ponds receive all raw sewage, with individual ponds rarely exceeding
-7 hectares in area.
-
-**Facultative ponds** represent the intermediate stage where sludge at the
-pond base remains anaerobic while surface water becomes aerobic through wind
-mixing and algal photosynthesis. This dual condition allows both methane
-production and oxygen generation in the same pond.
-
-**Aerobic (oxygen-producing) ponds** form the final treatment stage, where
-algae and atmospheric exchange fully oxygenate the water. These ponds
-slightly exceed the area of the anaerobic ponds combined.
-
-## Biogas Production and Capture
-
-Biogas is a mixture of methane, [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], and ammonia gas, with
+[[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], and ammonia gas, with
 traces of nitrous sulphide or marsh gas. It serves as a useful fuel gas for
 engines or cooking gas for homes. Critically, Mollison notes that biogas is
 a greenhouse gas contributor and should be captured and used rather than
@@ -95,15 +58,7 @@ Holland and recommended by the Max Planck Institute in Switzerland.
 
 - **Phragmites communis** and **Typha** species: Flocculate colloids,
 dry out sludges, and eliminate pathogens. These are the primary
-workhorses of [[comparison-constructed-wetland-vs-backyard-pond]] systems.
-
-- **Schoenoplectus** species: Take up copper, cobalt, nickel, and
-manganese; exude mould antibiotics into the water column.
-
-- **Scirpus** species: Break down phenols, including toxic
-pentachlorophenol. Active against chlorinated hydrocarbons.
-
-- **[[juncus-effusus]]**: Features large pith cells (aerenchyma) effective
+workhorses of [[juncus-effusus]]**: Features large pith cells (aerenchyma) effective
 against chlorinated hydrocarbons, cyanide compounds, thiocyanates,
 and phenols in flow times as short as seven hours.
 
@@ -137,7 +92,5 @@ system than the combustion of solid wastes.
 
 ## Cross-References
 
-- Related: [[mollison-designers-natural-swimming-pools-and-water-purification]]
 - Related: [[mollison-designers-cloudburst-and-stormwater-management]]
-- Related: [[permaculture-waste-management]]
 - Related: [[mollison-designers-composting-toilets-and-humanure]]

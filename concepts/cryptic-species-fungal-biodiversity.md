@@ -19,19 +19,7 @@ type: concept
 Cryptic species are two or more species that are morphologically
 similar or identical but reproductively isolated and genetically
 distinct. In mycology, cryptic species represent one of the most
-significant challenges to accurate [[fungal-biodiversity-assessment-methods]], as
-traditional morphology-based identification consistently
-underestimates true species richness. The recognition of cryptic
-fungal species has profound implications for ecology, conservation,
-and our understanding of fungal evolution.
-
-## The Scale of Cryptic Diversity
-
-Morphologically defined species of fungi often encompass several
-cryptic genetic species. Among myxomycetes, for example,
-morphologically defined species may contain both sexual species and
-a number of apomictic species. Molecular studies using
-[[fungal-biodiversity-ecosystem-function]], the presence of multiple cryptic species may provide
+significant challenges to accurate [[fungal-biodiversity-ecosystem-function]], the presence of multiple cryptic species may provide
 functional redundancy or, conversely, represent irreplaceable
 functional roles.
 
@@ -53,22 +41,7 @@ Cryptic species may be rare and threatened without being
 recognized. Conservation assessments based solely on morphological
 identification may miss endangered cryptic taxa. The inability
 of an expert to name a species may indicate a high degree of
-taxonomic uniqueness or endemism. [[staycare-molecular-approaches-fungal-bioremediation]] are
-increasingly necessary for comprehensive conservation planning.
-
-## Taxonomic Practice
-
-All taxonomic decisions are hypotheses that are tested repeatedly
-and sometimes refuted. The recognition of cryptic species requires
-careful integration of molecular, morphological, ecological, and
-geographic data. While molecular evidence alone can suggest cryptic
-diversity, formal taxonomic recognition typically requires
-corroborating evidence from multiple data sources.
-
-## See Also
-
-- [[dna-barcoding-fungal-identification]]
-- [[fungal-endemism-host-specificity]]
+taxonomic uniqueness or endemism. [[dna-barcoding-fungal-identification]]
 - [[lichenized-fungi-biology-ecology-diversity]]
 ## Practical Considerations
 
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cryptic-species]]
 - [[fungal-biodiversity]]
-- [[fungal-evolution]]
 - [[det]]
 - [[mycology]]

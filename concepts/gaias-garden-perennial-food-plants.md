@@ -20,54 +20,26 @@ type: concept
 
 Perennial food plants are the backbone of the ecological garden. Unlike annual
 vegetables that must be replanted each year, perennials persist for many
-seasons, producing food while [[root-exudates]] and preventing erosion. Their
-above-ground growth provides continuous [[query-how-do-i-design-habitat-for-beneficial-insects]] insects and
+seasons, producing food while [[query-how-do-i-design-habitat-for-beneficial-insects]] insects and
 wildlife.
 
 The ecological argument is compelling: annual agriculture mimics immature,
 disturbed ecosystems colonized by opportunistic species. These early-successional
 plants require frequent disturbance to persist. Perennials dominate mature,
-stable ecosystems. By [[solomon-growing-perennials-asparagus-rhubarb]], the gardener aligns with ecological
-[[rumex-acetosa]]*): lemony-flavored leaves for salads and
+stable ecosystems. By [[rumex-acetosa]]*): lemony-flavored leaves for salads and
   soups; one of the earliest greens in spring and among the latest in fall.
 - **Good King Henry** (*Blitum bonus-henricus*): spinach-like leaves and edible
   flower buds; a traditional European potherb that persists for decades.
 - **Dandelion** (*food forest model of
   potassium, calcium, and other minerals.
-- **Perennial kale** (*[[allium-schoenoprasum]]*): mild onion flavor; produces from early
-  spring through fall; divide clumps every few years.
-- **Fennel** (*Foeniculum vulgare*): feathery fronds for salads, bulbs for
-  roasting, seeds for cooking; attracts beneficial insects.
-- **Lemongrass** (*Cymbopogon citratus*): tropical perennial for tea and
-  cooking; can be grown as an annual in cold climates.
-- **Oregano, marjoram, thyme, and sage**: [[query-best-mediterranean-herbs-for-beginner-herb-garden]] that thrive in
+- **Perennial kale** (*[[query-best-mediterranean-herbs-for-beginner-herb-garden]] that thrive in
   well-drained soil and full sun; productive and long-lived.
 
 ## Roots and Tubers
 
 Perennial root crops provide calorie-dense food with minimal effort:
 
-- **[[comparison-jerusalem-artichoke-vs-potato]]** (*Helianthus tuberosus*): produces abundant tubers
-  that store well; towers 8 to 12 feet tall, making a dramatic garden
-  statement. Can be invasive — plant in contained areas.
-- **Salsify** (*Tragopogon porrifolius*): oyster-flavored root; biennial but
-  often self-seeds reliably.
-- **Horseradish** (*Armoracia rusticana*): vigorous perennial root; once
-  planted, virtually impossible to eradicate. Use in contained areas.
-- **Shallots and garlic** (*Allium cepa* var. aggregatum, *A. sativum*):
-  planted in fall, harvested in summer; some garlic varieties perennialize in
-  mild climates.
-- **Burdock** (*Arctium lappa*): edible root used in Asian cuisine; also a
-  deep-rooted nutrient accumulator.
-
-## Ancient Peruvian Tubers
-
-The Andes produced remarkable perennial root crops that deserve wider
-cultivation:
-
-- **Mashua** (*Tropaeolum tuberosum*): nasturtium-relative with peppery tubers;
-  extremely productive, pest-resistant, and cold-hardy.
-- **Oca** (*[[oxalis-tuberosa]]*): tangy, colorful tubers; productive in cool
+- **[[oxalis-tuberosa]]*): tangy, colorful tubers; productive in cool
   climates and short seasons.
 - **Yacon** (*Smallanthus sonchifolius*): sweet, crisp tubers related to
   sunflowers; contains inulin, making it suitable for diabetics.
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[food-forest]]
 - [[doc]]
-- [[allium-cepa]]
 - [[dom]]
 - [[tropaeolum-tuberosum]]

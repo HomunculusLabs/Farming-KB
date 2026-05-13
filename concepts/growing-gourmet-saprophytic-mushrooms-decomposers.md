@@ -16,9 +16,7 @@ type: concept
 
 # Saprophytic Mushrooms: The Decomposers
 
-Most [[growing-gourmet-mushrooms-civilization-history]] are saprophytic, wood-decomposing fungi.
-These saprophytic fungi are the premier recyclers on the planet.
-The filamentous [[gadd-mycelial-network-dynamics]] is designed to weave between and
+Most [[gadd-mycelial-network-dynamics]] is designed to weave between and
 through the cell walls of plants. The enzymes and acids they
 secrete degrade large molecular complexes into simpler compounds.
 All ecosystems depend upon fungi's ability to decompose organic
@@ -40,9 +38,7 @@ blade of grass, a chip of wood, a log, or stump. They are
 typically fast-growing, sending out ropey strands of mycelium
 that quickly attach to and decompose plant tissue. Most of the
 decomposers degrade wood. Hence, the majority of these saprophytes
-are woodland species, such as [[shiitake-mushroom-cultivation]]
-(Lentinula edodes), and
-[[growing-gourmet-button-mushroom-agaricus-cultivation]]
+are woodland species, such as [[growing-gourmet-button-mushroom-agaricus-cultivation]]
 (Agaricus brunnescens), the most commonly cultivated mushroom.
 Another example is Stropharia ambigua, which invades outdoor
 mushroom beds after wood chips have been first decomposed by a
@@ -59,35 +55,7 @@ other mushrooms.
 
 Classic examples include:
 - Aleuria aurantia, the Orange Peel Mushroom
-- [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]], which grows prolifically in discarded
-  compost from Button mushroom farms
-- Species of Conocybe, Agrocybe, and some Agaricus species
-
-This complex group often poses unique problems for would-be
-cultivators.
-
-## The Forest Floor as Layered Habitats
-
-The floor of a forest is constantly being replenished by new
-organic matter. Primary, secondary, and tertiary decomposers
-can all occupy the same location. In the complex environment of
-the forest floor, a "habitat" can actually be described as the
-overlaying of several habitats mixed into one. Over time, as each
-habitat is being transformed, successions of mushrooms occur.
-
-This model becomes infinitely complex when taking into account
-the inter-relationships of not only the fungi to one another, but
-the fungi to other micro-organisms (yeasts, bacteria, protozoa),
-plants, insects, and mammals.
-
-## Implications for Cultivation
-
-Primary and secondary decomposers afford the most opportunities
-for cultivation. To select the best species, several variables
-must be carefully matched. Climate, available raw materials, and
-the mushroom strains all must interplay for cultivation to
-succeed. Native species are the best choices for designing
-[[cotter-outdoor-mushroom-garden-mulch-beds]] landscapes.
+- [[cotter-outdoor-mushroom-garden-mulch-beds]] landscapes.
 
 ## Practical Applications
 
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[saprophytic-mushrooms]]
 - [[saprophytic-fungi]]
-- [[agaricus-brunnescens]]
 - [[lentinula-edodes]]
 - [[mycelium]]

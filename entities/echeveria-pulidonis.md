@@ -106,13 +106,8 @@ Echeveria pulidonis has received the Royal Horticultural Society's Award of Gard
 
 ## See Also
 
-- [[echeveria-elegans]]
 - [[crassula-ovata]]
-- [[kalanchoe-blossfeldiana]]
 - [[aeonium-arboreum]]
-- [[haworthia-fasciata]]
 - [[graptopetalum-paraguayense]]
-- [[pachyphytum-oviferum]]
 - [[sedum-rupestre]]
-- [[sedum-acre]]
 - [[sempervivum-tectorum]]

@@ -35,29 +35,11 @@ MDA was used briefly as an adjunct to psychotherapy in the 1960s and 1970s befor
 - **SMILES:** CC(N)CC1=CC=C(C=C1)OCO2
 - **Appearance:** White to off-white crystalline powder or crystalline shards
 
-MDA differs from MDMA by the absence of the N-methyl group, which results in significantly different pharmacokinetics and [[tihkal-receptor-binding-serotonin]] profiles.
-
-The methylenedioxy bridge on the phenyl ring is shared with MDMA, safrole-derived precursors, and other members of the MDxx class.
-
-## Pharmacology
-
-MDA acts primarily as a serotonin-norepinephrine-dopamine releasing agent (SNDRA) and as a non-selective [[serotonin-receptor-interference-psychedelic-mechanism]] agonist.
+MDA differs from MDMA by the absence of the N-methyl group, which results in significantly different pharmacokinetics and [[serotonin-receptor-interference-psychedelic-mechanism]] agonist.
 
 **Monoamine release:** Potently releases serotonin (5-HT) and norepinephrine (NE) via reversal of SERT and NET transporter proteins. Dopamine release is moderate.
 
-[[beta-glucan-receptor-binding]] differs significantly from MDMA — MDA shows direct agonist activity at **5-HT₂A** and **5-HT₂C** receptors, which accounts for its more pronounced psychedelic effects.
-
-**5-HT₂A agonism** is the primary mechanism underlying MDA's visual hallucinations and altered perception, a property MDMA lacks at typical doses.
-
-**Trace amine-associated receptor 1 (TAAR1)** agonism contributes to monoamine release and stimulant effects.
-
-## Effects
-
-Onset occurs within 30–60 minutes after oral administration, with peak effects at 2–3 hours and total duration of 6–8 hours.
-
-MDA is often described as a hybrid between MDMA and a classical psychedelic such as LSD or mescaline, combining empathogenic warmth with genuine visual and cognitive hallucination.
-
-Common effects include emotional openness, increased sociability, enhanced [[plant-sensory-perception]], visual patterning, and mild synesthesia at higher doses.
+[[plant-sensory-perception]], visual patterning, and mild synesthesia at higher doses.
 
 The stimulant component is more pronounced than MDMA, with users frequently reporting increased physical energy, jaw tension, and difficulty sleeping at the tail end of the experience.
 
@@ -66,13 +48,7 @@ The stimulant component is more pronounced than MDMA, with users frequently repo
 - **Light dose:** 50–80 mg oral
 - **Common dose:** 80–130 mg oral
 - **Strong dose:** 130–180 mg oral
-- **Heavy dose:** 180+ mg oral (not recommended — increased risk of [[blesching-cannabis-safety-adverse-effects-evidence]])
-
-MDA is approximately 2–3× more potent by weight than MDMA for comparable subjective effects, though dose-response relationships differ.
-
-## Side Effects and Risks
-
-Common [[adverse-effects-and-harm-reduction-psilocybin]] include tachycardia, hypertension, hyperthermia, trismus (jaw clenching), and pupillary dilation.
+- **Heavy dose:** 180+ mg oral (not recommended — increased risk of [[adverse-effects-and-harm-reduction-psilocybin]] include tachycardia, hypertension, hyperthermia, trismus (jaw clenching), and pupillary dilation.
 
 Hyperthermia risk is significant, particularly in dance environments with physical exertion and inadequate hydration.
 
@@ -84,6 +60,83 @@ Neurotoxicity concern exists based on animal studies showing serotonergic axon d
 
 MDA is classified as **Schedule I** under the United Nations Convention on Psychotropic Substances (1971).
 
-In the [[dmt-containing-plants-united-states-halpern]], MDA is a Schedule I controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]].
+In the [[controlled-substances-act-and-psychedelic-research]].
 
 In [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]], it is controlled under national legislation in most member states, typically classified alongside MDMA.
+
+## Overview
+
+Mda represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mda
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mda extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mda finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mda. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mda and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mda has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mda into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -69,11 +69,7 @@ The Crimean yayla plateaus experience a continental climate with cold winters an
 
 ## Cultivation
 
-Campanula stevenii is cultivated as a choice [[hamilton-rock-garden-design]] plant by specialist alpine gardeners. Its compact cushion habit and large flowers for its size make it especially desirable for trough gardens and crevice plantings.
-
-It requires full sun and very well-drained, alkaline or neutral soil with added limestone chips. The species is intolerant of winter wetness and requires protection from excess moisture during dormancy.
-
-Propagation is primarily by seed sown in autumn or [[coleman-overwintered-onions-and-early-spring-crops]]. Cold stratification for 4–6 weeks improves germination, which is typically slow and irregular over 30–60 days.
+Campanula stevenii is cultivated as a choice [[coleman-overwintered-onions-and-early-spring-crops]]. Cold stratification for 4–6 weeks improves germination, which is typically slow and irregular over 30–60 days.
 
 Plants are hardy to approximately USDA zones 5–7 but benefit from a protective mulch of gravel in winter. Established plants are drought-tolerant once their deep taproot has penetrated crevices.
 
@@ -83,8 +79,12 @@ In the garden, C. stevenii combines well with other Crimean or Caucasus alpines 
 
 ## Ecological Role
 
-The large, open flowers of Campanula stevenii are accessible to a wide range of pollinators. Bumblebees (Bombus spp.) and [[comparison-honey-bees-vs-native-solitary-bees]] are the primary visitors, attracted by the copious nectar production.
+The large, open flowers of Campanula stevenii are accessible to a wide range of pollinators. Bumblebees (Bombus spp.) and [[clay-pellet-seed-dispersal]] occurs through the poricidal capsule mechanism common to Campanula. Wind and gravity are the primary dispersal vectors on the steep limestone slopes the species inhabits.
 
-Pollination biology in the Crimean mountains is characterized by a relatively short flowering season from June to July. C. stevenii flowers during the peak pollinator activity period, maximizing reproductive success.
+## See Also
 
-[[clay-pellet-seed-dispersal]] occurs through the poricidal capsule mechanism common to Campanula. Wind and gravity are the primary dispersal vectors on the steep limestone slopes the species inhabits.
+- [[campanula-portenschlagiana]]
+- [[campanula-cervicaria]]
+- [[campanula-stenocodon]]
+- [[campanula-cochlearifolia]]
+- [[campanula-rhomboidalis]]

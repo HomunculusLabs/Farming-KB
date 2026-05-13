@@ -7,36 +7,12 @@ tags:
   - verbenaceae
   - nervine
   - traditional-medicine
-  - [[permaculture]]
-  - pollinator-plant
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Newall, C.A., Anderson, L.A. & Phillipson, J.D. (1996). Herbal Medicines: A Guide for Health-Care Professionals. Pharmaceutical Press."
-  - "Mills, S. & Bone, K. (2000). The Essential Guide to Herbal Safety. Elsevier.
-  - "European Medicines Agency (2016). \"Verbena officinalis L., herba.\" HMPC Monograph, EMA/HMPC/545760/2009."
-  - "Deepak, M. & Handa, S.S. (2000). \"Antiinflammatory activity and chemical composition of extracts of Verbena officinalis.\" Phytotherapy Research, 14(6), 463-465."
-  - "Houghton, P.J. (1995). \"Biological and phytochemical activities of Verbena officinalis.\" In: The Genus Verbena. Taylor & Francis."
----
-
-# Vervain (*Verbena officinalis* L.)
-
-## Overview
-
-*Verbena officinalis*, commonly known as vervain or common verbena, is a
-perennial herbaceous [[plant-immune-system-pti-eti]] in the family Verbenaceae. It has a long history of
+  - [[plant-immune-system-pti-eti]] in the family Verbenaceae. It has a long history of
 use in European traditional medicine, Egyptian ritual, and Roman religious
 ceremony, where it was called *herba sacra* (sacred herb).
 
 The aerial parts contain iridoid glycosides (verbenalin), flavonoids, and
-triterpenoids with documented anti-[[medicinal-mushroom-antioxidant-anti-inflammatory]], analgesic, and mild sedative
-properties. Modern herbalism values it primarily as a nervine tonic and
-digestive bitter.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]:** Angiospermae (Magnoliophyta)
+triterpenoids with documented anti-[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]:** Angiospermae (Magnoliophyta)
 - **Class:** Magnoliopsida
 - **Order:** Lamiales
 - **Family:** Verbenaceae
@@ -61,30 +37,96 @@ digestive bitter.
 - **Fruit:** Schizocarp splitting into 4 nutlets, ~2 mm each
 - **Root:** Fibrous taproot system; flowering June–September
 
-## [[european-truffles-species-habitat-and-distribution]] and Habitat
-
-- Native to Europe, North Africa, and [[query-how-to-grow-and-use-oca-in-temperate-climates]] Asia; [[natural-fruit-tree-form-and-non-pruning]]ized in the
-  Americas and Australia
-- Found in grasslands, roadsides, waste ground, and riverbanks
-- Tolerates pH 5.5–7.5, sandy to clay loams; full sun to partial shade
-- Hardy to USDA zones 4–8; drought-tolerant once established
-
-## Phytochemistry
-
-### Iridoid Glycosides (Primary Actives)
-
-- **Verbenalin (cornin):** 0.3–1.5% of [[dried-herb-storage]]; bitter principle with
+## [[query-how-to-grow-and-use-oca-in-temperate-climates]] Asia; [[dried-herb-storage]]; bitter principle with
   parasympathomimetic and mild hypotensive activity
 - **Aucubin:** Hepatoprotective; anti-inflammatory in vitro
-- **Hastatoside:** Iridoid glucoside [[species-specific-fruiting-timelines-grass-seed-cultivation]] to *Verbena* species
-
-### Flavonoids and Phenylpropanoids
-
-- **Luteolin-7-glucoside:** Major flavonoid; antioxidant, anti-inflammatory
-- **[[apigenin]]:** Anxiolytic activity via GABA_A receptor modulation
+- **Hastatoside:** Iridoid glucoside [[apigenin]]:** Anxiolytic activity via GABA_A receptor modulation
 - **Verbascoside (acteoside):** Phenylpropanoid glycoside; potent antioxidant
   and immunomodulator (0.5–2.0%)
 
-### Other [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
+### Other [[ursolic-acid]], oleanolic acid
 
-- **Triterpenoids:** [[ursolic-acid]], oleanolic acid
+## Overview
+
+Verbena Officinalis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish verbena officinalis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving verbena extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Verbena Officinalis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for verbena officinalis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+verbena officinalis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Verbena Officinalis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of verbena officinalis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[borago-officinalis]]
+- [[calendula-officinalis]]
+- [[cornus-officinalis]]
+- [[euphrasia-officinalis]]
+- [[melilotus-officinalis]]

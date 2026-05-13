@@ -109,13 +109,8 @@ Ferraria species are occasionally targeted by corm-feeding mammals such as porcu
 
 ## See Also
 
-- [[dierama-pulcherrimum]]
 - [[iris-germanica]]
-- [[crocus-sativus]]
 - [[freesia-refracta]]
-- [[babiana-stricta]]
 - [[watsonia-borbonica]]
-- [[dietes-grandiflora]]
 - [[ferraria-crispa]]
-- [[tigridia-pavonia]]
 - [[crocosmia-lucifer]]

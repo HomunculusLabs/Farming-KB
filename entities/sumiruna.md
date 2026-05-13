@@ -12,17 +12,14 @@ The sumiruna (sometimes spelled *sumiruna*) is the highest-ranking type of shama
 
 ## Classification
 
-- **Domain**: Amazonian vegetalismo / mestizo [[shamanism]]
-- **Category**: Shamanic rank/title, highest level practitioner
-- **Hierarchy**: Above banco, [[muraya]], and vegetalista
+- **Domain**: Amazonian vegetalismo / mestizo [[muraya]], and vegetalista
 - **Capabilities**: Astral travel, all-realm access, supreme healing
 
 ## Key Facts
 
 - The sumiruna wears skins of the boa, trousers of ray-fish with feet of yangunturo (giant armadillo), and a hat made of a macaw called yura-guacamayo — each element symbolizing mastery over different animal powers.
-- Sumirunas are transported to space in a glass tube (the [[lupuna]] colorada tree) by ancash silfos (blue sylphs), standing on a ball of high-pressure gas ready for levitation.
-- They have access to all three regions of the [[forest-spirits-and-subaquatic-world]]: the realm of fair-haired mermaids and white yakurunas, the realm of red yakurunas and blue/red mermaids, and the realm of black yakurunas and black mermaids.
-- A sumiruna can lift a white serpent to give power to an initiated young man, transferring [[icaros-shamanic-power-songs]] directly to the [[next-generation-sequencing-hidden-fungal-diversity]].
+- Sumirunas are transported to space in a glass tube (the [[forest-spirits-and-subaquatic-world]]: the realm of fair-haired mermaids and white yakurunas, the realm of red yakurunas and blue/red mermaids, and the realm of black yakurunas and black mermaids.
+- A sumiruna can lift a white serpent to give power to an initiated young man, transferring [[next-generation-sequencing-hidden-fungal-diversity]].
 - The city of Sumillakta is described as the beautiful and enchanting city of the sumis, where one can learn the great magical parapsychic arts.
 - Camira is described as a powerful lady whose task is the coronation of great wizards, psychometrics, master telekinesis practitioners, sorcerers, rabdomantes, murayas, bancos, and sumirunas.
 
@@ -42,45 +39,14 @@ The sumiruna represents the pinnacle of Amazonian plant medicine mastery. Achiev
 
 - Sumiruna is presented as the highest level of Amazonian vegetalismo attainment.
 - The rank stands above ordinary vegetalistas and above other named degrees.
-- It is closely related to [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]].
-- That hierarchy is not merely social status.
-- It marks the practitioner's ability to survive and interpret difficult visionary domains.
-- A sumiruna can move through water, forest, celestial, and astral worlds.
-- Such movement requires long discipline, plant diets, and mastery of songs.
-- The title therefore implies both knowledge and danger.
-- It should not be treated as a generic synonym for shaman.
-
-## Symbolic Clothing and Animal Powers
-
-- The clothing described in Amaringo's vision is a map of powers.
-- Boa skin links the sumiruna to serpent force and forest depth.
-- Ray-fish trousers point toward aquatic mastery.
-- Giant armadillo feet suggest digging, armor, and terrestrial strength.
-- The macaw hat links the practitioner to color, flight, and sky realms.
-- These are not costume details alone.
-- They show that the sumiruna has incorporated powers from many species.
-- The body of the master becomes a composite ecological body.
-- This is consistent with [[banco-sumiruna-muraya]].
+- It is closely related to [[banco-sumiruna-muraya]].
 
 ## Realm Access
 
 - Sumirunas can enter the subaquatic regions of yakuruna and mermaids.
 - They can also travel upward toward celestial and astral cities.
 - The glass tube of the red lupuna functions as a vehicle or axis.
-- [[lupuna]] is therefore more than a botanical entity in this context.
-- It is a cosmic conduit in visionary geography.
-- Ancash silfos and high-pressure gas imagery show a hybrid language of air, pressure, and levitation.
-- The vision combines forest tree, spirit helpers, and space travel.
-- This breadth helps explain why sumiruna status is treated as exceptional.
-
-## Knowledge Transmission
-
-- A sumiruna can transfer power to an initiated young man.
-- The white serpent in the source scene appears as a vehicle of power.
-- Songs, visions, and embodied force are transmitted together.
-- This transmission is not simply instruction in doctrine.
-- It is initiation into a capacity to perceive and act.
-- The connection with [[icaros-shamanic-power-songs]] is central.
+- [[icaros-shamanic-power-songs]] is central.
 - Without songs, the power cannot be directed safely.
 - Without discipline, the songs may be dangerous or ineffective.
 - The hierarchy thus protects knowledge by requiring readiness.
@@ -96,3 +62,84 @@ The sumiruna represents the pinnacle of Amazonian plant medicine mastery. Achiev
 - A plant list without practitioner status may miss the structure of expertise.
 - Sumiruna accounts are valuable because they preserve the upper limit of that structure.
 - They show how healing, cosmology, and ecological knowledge are joined in the figure of the master.
+
+## Overview
+
+Sumiruna represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sumiruna
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sumiruna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sumiruna finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sumiruna. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sumiruna and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sumiruna has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sumiruna into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[banco-sumiruna-muraya]]

@@ -3,15 +3,7 @@ title: Fungal Amber Fossils
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[mycology]], fungi, paleontology, amber, fossils]
-sources:
-  - "raw/papers/the-permaculture-garden-graham-burnett.md"
----
-# Fungal Amber Fossils
-
-Fossils preserved in amber provide extraordinary insights into the evolution of
-fungi. Amber (trapped tree resin) can preserve fungi in three dimensions with
-cellular detail, offering a window into ancient [[brassinosteroid-effects-on-fungal-morphology]], ecology, and
+tags: [[brassinosteroid-effects-on-fungal-morphology]], ecology, and
 associations with other organisms spanning hundreds of millions of years.
 
 ## Amber as a Preservation Medium
@@ -47,30 +39,17 @@ sealed time capsule. Advantages for fungal preservation:
 ## Notable Fossil Discoveries
 
 ### Cretaceous Mushroom Fossils (New Jersey)
-- The oldest known [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies, preserved in Turonian-age amber
-  (~90 million years)
-- Gilled mushroom structures with clearly visible gills and spores
-- Spores show the hilar appendix, the critical feature for the
-  [[mushroom-spore-catapult-mechanism]]
+- The oldest known [[mushroom-spore-catapult-mechanism]]
 
 ### Lichen Fossils
-- Fossil [[lichens]] preserved in Baltic and Dominican amber
-- Show the thallus structure with both [[fungal-hyphae-and-mycelium]] algal/cyanobacterial
+- Fossil [[fungal-hyphae-and-mycelium]] algal/cyanobacterial
   photobionts
 - The oldest accepted lichen fossils come from the Early Devonian
   (400 million years ago) from rock, not amber
 
 ## The Significance of Hilar Appendix Fossils
 
-The preservation of the hilar appendix on Cretaceous [[query-how-to-store-mushroom-spores-long-term]] is one of
-the most important findings in fungal paleontology. This tiny structure:
-- Is the attachment point for the spore to the sterigma
-- Provides the asymmetric mass distribution needed for the catapult
-- Is present in ALL modern ballistospore-producing basidiomycetes
-- Its presence in 90-million-year-old fossils means the mechanism predates
-  the Cretaceous
-
-This single morphological feature tells us that the physics of [[bloomfield-fungal-spore-discharge-and-dispersal]]
+The preservation of the hilar appendix on Cretaceous [[bloomfield-fungal-spore-discharge-and-dispersal]]
 has remained essentially unchanged for nearly 100 million years.
 
 ## Dating Fungal Evolution
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-evolution]]
 - [[dom]]
-- [[det]]
 - [[spore]]
 - [[lichens]]

@@ -49,33 +49,7 @@ well-drained soil free of stones and compaction. They all benefit from
 consistent moisture and balanced nutrition rather than heavy nitrogen
 feeding. And they all store exceptionally well under cold, moist
 conditions, making them the cornerstone of winter food self-sufficiency.
-Geoff Hamilton, the British [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] pioneer, placed root
-vegetables as the backbone of the winter vegetable garden, providing
-hearty, nutritious crops that store well and often improve in flavor
-after frost.
-
-## Soil Preparation: The Foundation of Every Root Crop
-
-Soil preparation is arguably the single most important factor in root
-vegetable success, and it is the area where most gardeners fail. Root
-crops are physically constrained by the soil they grow in: a carrot
-encountering a stone will fork around it, a beet in compacted clay
-will remain small and misshapen, and a parsnip in shallow soil will
-be stunted before it ever reaches its potential. The common thread
-across all root vegetables is the need for deep, loose, well-drained
-soil free of obstructions to a depth of at least 30 centimeters, and
-ideally 45 centimeters or more for long-rooted varieties like parsnips
-and full-size carrots.
-
-The ideal soil texture for most root vegetables is a sandy loam, which
-provides the loose structure roots need to swell freely while retaining
-enough moisture and nutrients for steady growth. Heavy clay soils are
-the greatest enemy of root crops, causing forking, stunting, and
-irregular shapes. However, even difficult soils can be improved over
-time through consistent additions of organic matter, particularly
-compost and leaf mold, which gradually improve soil structure and
-drainage. Raised beds offer an immediate solution for gardeners dealing
-with heavy soils, allowing them to create the ideal [[cannabis-growing-environment-setup]]
+Geoff Hamilton, the British [[cannabis-growing-environment-setup]]
 by filling beds with a mixture of garden soil, compost, and sand or
 other drainage material.
 
@@ -119,31 +93,12 @@ Carrot varieties are broadly classified into several types based on
 shape and use. Nantes types, including varieties like Bolero, Nelson,
 and Touchon, produce cylindrical roots with blunt tips that are tender,
 juicy, and sweet, making them ideal for fresh eating. However, Nantes
-types lack the [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] to push aside resistant earth or
-grow large without cracking, so they demand the best soil conditions.
-Danvers and Chantenay types are stronger and more fibrous, with broad
-shoulders and tapered roots that perform better in heavier soils and
-for winter storage. Miniature and round varieties such as Paris Market
-## See Also
-
-- [[carrot-growing-guide]] for detailed carrot variety selection
-- [[growing-root-vegetables-guide]] for Solomon's biennial strategy
+types lack the [[carrot-growing-guide]] for detailed carrot variety selection
 - [[root-crops-growing-guide]] for comprehensive planting guidance
-- [[solomon-growing-root-crops-guide]] for beets, turnips, and radishes
-- [[root-crop-harvest-and-storage]] for [[cannabis-harvest-timing-visual-cues]] details
-- [[root-vegetable-storage-guide]] for storage methods
+- [[root-crop-harvest-and-storage]] for [[root-vegetable-storage-guide]] for storage methods
 - coleman-winter-root-crops for winter production methods
-- [[permaculture-plants-root-crops-and-tubers]] for permaculture systems
 - [[sweet-potato-guide]] for warm-climate root crop cultivation
-- [[root-cellaring-and-crop-storage]] for root cellar construction
 - [[seed-saving-and-plant-breeding]] for biennial seed saving
-- [[companion-planting-and-polycultures]] for intercropping
-
-## References
-
-Solomon, Steve. *Gardening When It Counts: Growing High-Value, Low-
-Maintenance Crops*. 2005.
-Hamilton, Geoff. *Organic Gardening*. BBC Books.
-Coleman, Eliot. *The [[coleman-claytonia-winter-harvest-cultivation]] Handbook*. Chelsea Green, 2009.
+- [[coleman-claytonia-winter-harvest-cultivation]] Handbook*. Chelsea Green, 2009.
 Purdue University Extension. *Home Gardener's Guide*.
 Nugent, John & Boniface, Rob. *A Selection of Permaculture Plants*. 2004.

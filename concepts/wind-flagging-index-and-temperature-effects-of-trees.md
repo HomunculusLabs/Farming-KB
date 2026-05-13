@@ -8,7 +8,7 @@ type: concept
 
 ## The Griggs and Putnam Wind Index
 
-The [[griggs-and-putnam-index]] is a practical field assessment tool that relates observable tree deformations to local wind speeds. Originally developed for assessing wind power potential, this index is invaluable for [[permaculture-site-analysis]] and design.
+The [[permaculture-site-analysis]] and design.
 
 ### Scale of Deformation
 
@@ -54,7 +54,7 @@ Several properties of leaves contribute to their cooling effect:
 - **High water content**: Leaves are approximately 86% water, giving them twice the specific heat of soil. This means they remain cooler than soil by day and warmer at night
 - **Plant warmth**: Plants generally may be 15°C or so warmer than the surrounding air temperature
 - **Stomatal evaporation**: Leaf surfaces are likely to be cooler than other objects at evening due to evaporation from leaf stomata during the day
-- **Vertical lift cooling**: Air rising over trees creates additional cooling through altitude effects
+- **Vertical lift cooling**: Air rising over trees creates additional cooling through [[altitude-effects]]
 
 ### Strategic Placement for Temperature Moderation
 
@@ -88,6 +88,5 @@ A tree functions as a cooperative entity within a guild — a community of plant
 Animals serve as interactors, messengers, and distributors of nutrients within this system. Insects give chemical messages, breed browsers, and facilitate energy exchange. Materials enter the system and are changed; energy and gases leave in changed forms. Each branch can be genetically individual, each root system can function semi-independently, yet the whole operates as an integrated living system.
 
 ## See Also
-- [[wind-effects-on-trees-and-forests]]
 - [[temperature-effects-of-trees]]
 - [[tree-biomass-and-wind-effects]]

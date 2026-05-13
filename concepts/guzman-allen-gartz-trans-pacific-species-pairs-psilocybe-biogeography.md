@@ -8,30 +8,7 @@ species occur on opposite sides of the Pacific Ocean despite vast oceanic
 barriers. These disjunct distributions suggest ancient Gondwanan
 connections, long-distance dispersal events, or convergent evolution in
 similar humid forest habitats. The most striking examples involve species
-from Mexico and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] paired with species from Southeast Asia,
-New Zealand, and Australia.
-
-## The Mexicanae Section: Mexico to Thailand to New Zealand
-
-The most compelling trans-Pacific connection involves Section Mexicanae of
-Psilocybe. Psilocybe mexicana, the iconic sacred mushroom of the Mazatec
-Indians of Oaxaca, Mexico, is closely related to P. samuiensis from
-Koh Samui, Thailand, and P. makarorae from New Zealand. All three species
-share morphological features characteristic of Section Mexicanae:
-subconical to campanulate pilei, appendiculate partial veil remnants,
-and growth on disturbed ground or grasslands.
-
-The distance between the known populations of these species is enormous:
-approximately 15,000 kilometers separates central Mexico from New Zealand,
-with the Thai species occupying an intermediate position in Southeast
-Asia. The distribution pattern suggests either stepping-stone dispersal
-across Pacific island chains or an ancient distribution that was
-fragmented by continental drift and subsequent extinction in intervening
-areas.
-
-## The Zapotecorum Section: Americas to Australasia
-
-[[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]] provides another striking example. Psilocybe
+from Mexico and [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]] provides another striking example. Psilocybe
 zapotecorum, widely distributed in Mexico and South America, is closely
 related to P. aucklandii from New Zealand. P. zapotecorum is one of the
 most important sacred mushrooms used by indigenous peoples of southern
@@ -64,10 +41,7 @@ connections align with this broader pattern of fungal biogeography.
 
 ## Southern Hemisphere Origin Hypothesis
 
-The concentration of [[psilocybe-species-diversity-and-biogeographic-origin]] in the Austral
-hemisphere provides additional support for a southern origin of the
-genus. Guzmán (1983) observed that among 85 neurotropic species of
-Psilocybe, the majority occurred in the [[biogeography-austral-hemisphere-fungi]]: 59 species
+The concentration of [[biogeography-austral-hemisphere-fungi]]: 59 species
 in South America and Mexico versus only 18 in the USA and Canada and
 9 in Europe. This disparity is particularly striking because North
 America and European lands are far more mycologically explored than
@@ -75,18 +49,7 @@ those of the southern hemisphere.
 
 Mexico functions as a biogeographic crossroads where northern and
 southern mycobiota converge. Northern species such as P. caerulipes,
-common in the deciduous forests of [[polypore-fungi-eastern-north-america]], reach
-northeastern Mexico (Zacualtipan, Hidalgo) through the same type of
-vegetation — mesophytic forest with Fagus. Meanwhile, southern species
-such as P. yungensis and P. subyungensis, common in South America,
-reach Mexico through mesophytic forests with Alnus.
-
-## Distribution Patterns Following Hongo's Nine Types
-
-Hongo (1978) discussed nine types of distribution in Japanese fungi
-that can be applied to neurotropic fungi worldwide:
-
-1. **Cosmopolitan** — Panaeolus spp. and [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
+common in the deciduous forests of [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
 2. **Northern hemisphere** — Amanita spp., Cordyceps spp.,
 
 ## Practical Applications
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-biogeography]]
 - [[psilocybe-argentipes]]
-- [[psilocybe-mexicana]]
 - [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]]
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]

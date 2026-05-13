@@ -29,20 +29,9 @@ Almost all cultivated food trees thrive in herbal ground covers rather than gras
 Guilds assist pest control through multiple mechanisms:
 
 - **Anti-feedants**: Species that produce bitter or unpalatable chemicals. Nasturtium roots, for example, provide root chemicals to tomatoes or gooseberries that deter whitefly. Many plants, when fermented or extracted in water, can be sprayed as pest deterrents on vulnerable crops.
-- **Biological fumigation**: Some species kill root parasites or predators. *Crotalaria* captures nematodes that damage citrus and solanaceous roots. *Tagetes* (marigolds) fumigate soils against grasses and nematodes.
-- **Predator hosting**: Almost all small-flowered plants — especially *Quillaja*, many *[[acacia]]* species, tamarisk, Compositae (daisy family), and Umbelliferae (dill, fennel, carrot, coriander) — host robber-flies and predatory wasps that control pest populations.
-
-### Soil Surface Management
-
-- **Open soil and mulch provision**: [[comfrey]] and globe artichokes allow tree roots to feed at the surface without competition. Spring bulbs (daffodils) and winter-grown wild *Allium* species die down in mid-spring and do not compete with deciduous tree roots during summer dry periods, nor do they intercept light rains.
-- **Soil building**: High [[humus]] producers like bananas and deep-rooted species improve soil structure and fertility for associated plants.
-
-### Free Nutrient Provision
-
-Woody or herbaceous legumes fix nitrogen and other essential nutrients via root associates, stimulate soil bacteria or fungi, and benefit associated trees. Examples include:
-
-- Clovers and other herbaceous legumes
-- Trees such as *Acacia*, *[[casuarina]]*, and *Pultenaea*
+- **Biological fumigation**: Some species kill root parasites or predators. *[[crotalaria]]* captures nematodes that damage citrus and solanaceous roots. *[[tagetes]]* (marigolds) fumigate soils against grasses and nematodes.
+- **Predator hosting**: Almost all small-flowered plants — especially *Quillaja*, many *[[comfrey]] and globe artichokes allow tree roots to feed at the surface without competition. Spring bulbs (daffodils) and winter-grown wild *Allium* species die down in mid-spring and do not compete with deciduous tree roots during summer dry periods, nor do they intercept light rains.
+- **Soil building**: High [[casuarina]]*, and *Pultenaea*
 - Sugar-providing grasses (sugar cane)
 - High humus producers (bananas)
 

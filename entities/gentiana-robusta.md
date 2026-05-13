@@ -62,21 +62,7 @@ Soils are typically organic-rich loams over metamorphic or granitic parent mater
 
 Plants can tolerate brief periods of drought during the dry pre-monsoon period in May and June. However, sustained moisture through the monsoon is critical for flower development and seed set.
 
-Winter snow cover persists for 6–8 months at most sites, and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] is compressed into 3–4 months. Plants are adapted to intense UV radiation, strong winds, and diurnal temperature fluctuations exceeding 20 °C.
-
-The species often co-occurs with *Pedicularis*, *Meconopsis*, *Corydalis*, and *Potentilla* species in species-rich alpine turf communities. These communities support some of the highest vascular plant diversity per unit area documented globally.
-
-## Ethnobotanical and Medicinal Use
-
-In traditional Tibetan medicine, *G. robusta* is known as "jag-tsig" or "gti-mug" and classified among the bitter herbs. The roots are collected in autumn after flowering, dried, and prepared as decoctions.
-
-The primary medicinal use is as a bitter tonic to stimulate digestion and treat liver complaints. Preparations are also employed as febrifuges to reduce fever and as anti-inflammatory agents.
-
-Phytochemical analysis has identified gentiopicroside, sweroside, and amarogentin as the principal bitter compounds. These iridoid glycosides are responsible for the intensely bitter taste of the roots.
-
-Additional compounds including gentianine and gentiocrucine have been isolated from related Himalayan gentians. These alkaloids may contribute to the observed anti-inflammatory properties.
-
-Modern pharmacological studies have demonstrated hepatoprotective and anti-inflammatory activities in laboratory models. However, [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] in humans remain limited.
+Winter snow cover persists for 6–8 months at most sites, and [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] in humans remain limited.
 
 Overharvesting for the traditional medicine trade is a growing conservation concern in Nepal and Bhutan. Some populations near trade routes have been significantly depleted in recent decades.
 
@@ -89,4 +75,9 @@ Hardy to approximately USDA zone 5, it benefits from a winter mulch of grit to p
 Propagation is primarily by fresh seed sown in autumn and subjected to natural cold stratification over winter. Germination occurs in spring after 3–4 months of cold treatment.
 
 ## See Also
-- [[gentiana-dahurica]]
+
+- [[gentiana-utriculosa]]
+- [[gentiana-aurantiaca]]
+- [[gentiana-crassicaulis]]
+- [[gentiana-acaulis]]
+- [[gentiana-nivalis]]

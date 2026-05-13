@@ -9,12 +9,8 @@ sources:
 ---
 # Solomon on Growing Root Crops: Beets, Carrots, Turnips, and Radishes
 
-From [[blueberry-growing-guide]]
-
-- [[solomon-gardening-when-it-counts-index]]
-- [[root-cellaring-guide]]
+From [[solomon-gardening-when-it-counts-index]]
 - [[seed-saving-techniques]]
-- [[growing-vegetables-with-less-fertilizer]]
 - [[root-cellaring-and-no-energy-food-storage]]
 ## Background and Context
 

@@ -23,13 +23,12 @@ peat-forming moss in the family Sphagnaceae. It is among the most recognizable
 Sphagnum species due to vivid red to orange coloration in sunlit habitats.
 
 The species plays a critical role in northern peatland ecosystems, contributing
-to [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] and water regulation. Its [[mollison-designers-tropical-soils-and-cation-exchange-management]] activity
+to [[mollison-designers-tropical-soils-and-cation-exchange-management]] activity
 acidifies surroundings, creating the characteristic conditions of ombrotrophic
 bogs.
 
 *S. capillifolium* has a circumboreal distribution and dominates dry to medium
-hummock microtopes across boreal and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is ecologically
-distinct from wetter hollow species like [[sphagnum-cuspidatum]].
+hummock microtopes across boreal and [[sphagnum-cuspidatum]].
 
 ## Taxonomy and Morphology
 
@@ -57,9 +56,7 @@ on asexual reproduction through fragmentation.
 
 ## Distribution and Habitat
 
-*S. capillifolium* is circumboreal across Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]],
-ranging from Scandinavia south to the Pyrenees and across boreal Canada and
-the northern [[dmt-containing-plants-united-states-halpern]]. It reaches greatest abundance in continental boreal
+*S. capillifolium* is circumboreal across Europe, Asia, and [[dmt-containing-plants-united-states-halpern]]. It reaches greatest abundance in continental boreal
 and sub-boreal peatlands.
 
 It occupies dry to intermediate hummock positions, typically 10–30 cm above
@@ -76,14 +73,7 @@ favors wet hollow species.
 forming habit creates microtopographic heterogeneity supporting diverse plant
 communities across the hummock-hollow gradient.
 
-[[chitin-chitosan-fungal-cell-wall]] uronic acids exchange H⁺ ions for base cations (Ca²⁺, Mg²⁺, K⁺),
-driving ombrotrophic conditions where plant nutrition depends on atmospheric
-deposition. The resulting low pH (3.0–4.5) supports specialized flora
-including carnivorous plants and ericaceous shrubs.
-
-Peat formed by this species has high water-holding capacity, with hyaline cells
-absorbing 20–30 times their dry weight. This maintains saturated conditions
-that slow decomposition and enable long-term [[fungal-peat-decomposition-and-carbon-storage]].
+[[fungal-peat-decomposition-and-carbon-storage]].
 
 The species serves as substrate for tardigrades, nematodes, protozoa, and
 insect larvae including craneflies and midges. Climate warming threatens it

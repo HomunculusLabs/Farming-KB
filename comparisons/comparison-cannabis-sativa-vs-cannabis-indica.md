@@ -11,42 +11,19 @@ type: comparison
 # Cannabis Sativa vs Cannabis Indica
 
 ## Overview
-[[marijuana-magick-historical-witches-and-cannabis]] indica are the two most widely recognized
-classifications within the Cannabis genus, distinguished historically by
-their morphology, geographic origin, and perceived effects. Sativa
-varieties originated in equatorial regions and tend toward tall, lanky
-growth with narrow leaflets, while indica varieties come from the Hindu
-Kush mountains and display compact, bushy structure with broad leaflets.
-While modern taxonomy debates whether these represent distinct species
-or a single polymorphic species, the sativa-indica framework remains the
-primary lens through which cannabis is discussed, bred, and marketed.
-
-## Cannabis Sativa
 [[query-sog-vs-scrog-cannabis-training-methods]] like scrog
 (
 Cannabis indica Lam. is distinguished from C. sativa by its compact,
 bushy growth habit, typically reaching heights under 4 to 5 feet. Indica
 plants display broader, shorter leaflets with darker green coloration,
 shorter internodes, and denser flower clusters. The variety originated
-in the [[cannabis-hindu-kush-strain-description-clarke]] mountain region spanning Afghanistan, Pakistan, and
-northern India, where it evolved to survive harsh continental climates
-with short growing seasons and cold autumns.
-
-Indica varieties flower rapidly, typically maturing in 6 to 9 weeks, and
-produce dense, resinous buds that are often higher in CBD relative to
-THC compared to sativa varieties, though this ratio varies enormously
-across modern hybrids. The effects of indica-dominant varieties are
-traditionally described as physically sedating, relaxing, and
-appetite-stimulating, commonly referred to as a "body high." Indica
-[[cannabis-terpene-profiles-sativa]] frequently emphasize myrcene, linalool, and
+in the [[cannabis-terpene-profiles-sativa]] frequently emphasize myrcene, linalool, and
 caryophyllene, producing earthy, sweet, and spicy aromas.
 
 From a cultivation perspective, indica varieties are generally more
 manageable than sativas, especially for indoor growers with limited
 height. Their compact structure, rapid flowering, and generous yields
-per [[comparison-biointensive-vs-square-foot-gardening]] make them the preferred choice for commercial production
-and beginner growers. Indica genetics have been heavily selected and
-hybridized over decades, contributing the majority of genetics [[williams-pdc-permaculture-ethics-and-principles-in-practice]], though it remains the
+per [[williams-pdc-permaculture-ethics-and-principles-in-practice]], though it remains the
 foundational framework for understanding cannabis diversity.
 ## Practical Considerations
 

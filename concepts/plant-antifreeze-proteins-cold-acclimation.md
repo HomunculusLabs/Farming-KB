@@ -108,13 +108,12 @@ Vernalization requirements in winter cereals interact with cold acclimation path
 
 ## See Also
 
-- [[arbuscular-mycorrhizal-fungi]]
-- [[endophytic-fungi]]
-- [[dark-septate-endophytes]]
-- [[mycorrhizal-carbon-cycle]]
-- [[mycotoxins]]
-- [[fungal-enzyme-systems]]
-- [[mycorrhizal-carbon-sequestration]]
-- [[mycelium-network-architecture]]
-- [[endophytic-fungi]]
-- [[lignin-degradation]]
+- [[plant-awareness-consciousness-debate-neurobiology]]
+- [[plant-guilds-permaculture-design]]
+- [[plant-innate-immunity-pti-eti-defense]]
+- [[plant-mechanoperception-thigmomorphogenesis]]
+- [[plant-medicine-ethics]]
+- [[plant-nutrient-mobility-in-soil]]
+- [[plant-photoreceptor-comparison-phytochrome-cryptochrome-phototropin]]
+- [[plant-phototropism]]
+- [[plant-phototropism-and-photoperiodism]]

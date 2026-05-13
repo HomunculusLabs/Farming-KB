@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Dryland landscapes present a suite of interrelated degradation problems—saltpans, gilgai formations, gully erosion, and flood-outs—that require specific techniques for rehabilitation. [[permaculture-design]] addresses these through an integrated approach combining earthworks, vegetation strategies, and [[water-management]] to restore productive function to degraded arid and semi-arid lands.
+Dryland landscapes present a suite of interrelated degradation problems—saltpans, gilgai formations, gully erosion, and flood-outs—that require specific techniques for rehabilitation. [[water-management]] to restore productive function to degraded arid and semi-arid lands.
 
 ## Saltpans and Salt Lakes
 
@@ -90,14 +90,7 @@ A series of weirs 0.5 m high traps sediment so that tree establishment can stabi
 - Where no local boulder supply exists, lower-height weirs of wire mesh alone are used
 - Stone seepage weirs are very satisfactory and double as roads across gullies
 - Weirs must extend well up the gully sides above any flood level
-- All weirs need [[vetiver-grass]] or similar tough plant barriers to hold erosion
-
-### Case Study: Assomada, Cape Verde
-
-At Assomada in the Sahel, terrace-building and check dams of stone-filled wire mesh gabions in stream beds have effectively checked and stabilised soil erosion. Key elements of this project included:
-
-- Replacement of sugar cane cropping with tree and vegetable culture
-- Pigeon pea (*[[cajanus-cajan]]*) providing food and ground cover
+- All weirs need [[cajanus-cajan]]*) providing food and ground cover
 - Formation of cooperatives for food production and marketing
 - Wells and galleries to tap groundwater for tree and vegetable crops
 - Silt from erosion building terraces 6–8 m deep and ~200 m wide across eroded valleys
@@ -112,3 +105,11 @@ At Assomada in the Sahel, terrace-building and check dams of stone-filled wire m
 4. **Address root causes** (overgrazing, inappropriate land use) alongside physical interventions
 5. **Community involvement** in design and maintenance is critical for long-term success
 6. **Integrated biosocial strategies** that address poverty, education, and nutrition alongside ecological restoration produce the most durable outcomes
+
+## See Also
+
+- [[saltpans-gilgais-and-gully-erosion-control]]
+- [[mollison-designers-earthworks-for-erosion-control]]
+- [[soil-erosion-control]]
+- [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]]
+- [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]]

@@ -4,18 +4,14 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "Cervantes - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]"
+  - "Cervantes - marijuana-horticulture-cervantes-cannabis-breeding-and-genetics"
 type: concept
 tags: [cannabis]
 ---
 
 # Cannabis Pollen Collection
 
-Pollen collection is a critical skill for any cannabis [[cervantes-breeding-program-design-goal-setting]].
-Properly collected, stored, and applied pollen enables breeders to make
-targeted crosses, control genetic outcomes, and produce seeds with
-desired traits. Cervantes provides detailed practical guidance drawn
-from both commercial [[cervantes-seed-production-storage]] and home breeding contexts.
+Pollen collection is a critical skill for any cannabis [[cervantes-seed-production-storage]] and home breeding contexts.
 
 ## Understanding Pollen Biology
 
@@ -84,41 +80,6 @@ transfer it to a collection container using a sterile scraper.
 
 ## Pollen Storage
 
-Pollen does not have a long [[psilocybin-shelf-life-stability]] under natural conditions. It is
-easily destroyed by high temperatures and moisture. However, with
-proper handling, pollen can remain viable for extended periods:
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[psilocybin]]
-- [[dom]]
+Pollen does not have a long [[psilocybin]]
 - [[det]]
-- [[cannabis-pollen-collection-storage-clarke]]
 - [[cervantes-pollen-collection-storage]]

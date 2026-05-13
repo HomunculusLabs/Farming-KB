@@ -8,76 +8,14 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3-TSB
 
-[[2c-b-pihkal-entry-20]] #176. 3-THIOSYMBESCALINE;.
-
-## Chemical Name
-
-3-THIOSYMBESCALINE;
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 200 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 200 mg) No effects whatsoever, neither
->
->
-> mental nor physical.
-
-## Extensions and Commentary
-
-The elephant labored and brought forth a
-mouse. A lot of work for a material without activity.
-
-I have used the term "scrudge" in this and other recipes, without
-defining it. With this aldehyde, as with most aldehydes in this
-nitrostyrene synthesis reaction where there is no ortho-substituent on
-the benzaldehyde, the reaction progress should be carefully followed
-by thin-layer chromatography. As the aldehyde disappears from the
-reaction mixture, the nitrostyrene appears, but there is usually the
-development of one or more slower moving components as seen by TLC.
-Such a wrong-product is called scrudge. The reaction should be
-continuously titrated, and stopped when there is a favorable balance
 [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]] the aldehyde being mostly gone, the nitrostyrene being mostly
 made, and the slower-moving scrudge components being not yet too
 plentiful. Methylene chloride is an excellent solvent to try first,
-with [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] plates and UV [[phytochrome-red-far-red-ratio-shade-detection-plants]]. The nitrostyrene is always
+with [[phytochrome-red-far-red-ratio-shade-detection-plants]]. The nitrostyrene is always
 the fastest moving component of the reaction mixture and often
-fluoresces a dull purple. The [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] aldehyde [[query-what-is-the-difference-between-wet-trimming-and-dry-trimming-cannabis]] second spot
-and usually fluoresces white or pale [[query-what-causes-cannabis-leaves-to-turn-yellow]]. The scrudge spots then
-occur in a cascade from the aldehyde to the origin. A maddening
-property is that they are yellow or brown colored, and in the probe
-mass spectrograph they can crack to give rise to what appears to be
-the right nitrostyrene. Usually, they are high melting.
-
-In this preparation, there was not one but several scrudges, and
-little if any nitrostyrene. The same was true for the other of the
-diethyl compounds such as 3-TASB, 5-TASB and 3-T-TRIS. Thus, it is
-preferable to circumvent this usual synthetic step by using the Wittig
-reaction instead, as described here.
-
-## Synthesis
-
-A solution of 13.4 g
-3-bromo-N-cyclohexyl-4-methoxy-5-ethoxybenzylidenimine (see under ME
-for its preparation) in 150 mL anhydrous Et2O was placed in a He
-atmosphere, well stirred, and cooled in an external dry ice/acetone
-bath to -80 deg C. There was the formation of a granular precipitate.
-There was then added 28 mL of 1.6 N butyllithium in hexane over the
-course of 5 min, and the mixture (which had turned quite creamy) was
-stirred for 15 min. This was followed by the addition of 5.5 g
-diethyl disulfide over the course of 1 min. The mixture was allowed
-
-to come to room temperature over the course of 1 h, and then added to
-100 mL of dilute HCl. The Et2O phase was separated and the solvent
-removed under vacuum. The residue was dissolved in 50 mL MeOH,
-combined with the original aqueous phase, and the entire mixture
-heated on the [[scythian-cannabis-steam-bath-ritual]] for 0.5 h. The aqueous solution was cooled
-to room temperature, [[query-what-is-the-difference-between-compost-tea-and-compost-extract]]ed with 3x100 mL CH2Cl2, the [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]]
+fluoresces a dull purple. The [[query-what-is-the-difference-between-wet-trimming-and-dry-trimming-cannabis]] second spot
+and usually fluoresces white or pale [[scythian-cannabis-steam-bath-ritual]] for 0.5 h. The aqueous solution was cooled
+to room temperature, [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]]
 pooled, and the solvent removed under vacuum. The residue was
 distilled at 132-140 deg C at 0.3 mm/Hg to yield 9.1 g of
 3-ethoxy-5-ethylthio-4-methoxybenzaldehyde as a white oil that, on
@@ -88,3 +26,88 @@ C,H. The crude distillate was used in the following reactions.
 
 Several attempts were made to prepare the nitrostyrene from this
 aldehyde and nitromethane. [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]] successful, but still inadequate,
+
+## Overview
+
+3 Tsb Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 3 tsb entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 3 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+3 Tsb Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 3 tsb entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+3 tsb entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+3 Tsb Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 3 tsb entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

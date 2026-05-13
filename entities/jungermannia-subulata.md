@@ -57,29 +57,7 @@ Rhizoids are confined to the ventral stem surface near the underleaf insertions.
 
 Jungermannia subulata has a scattered but widespread distribution across Europe and North America. In Europe, it is recorded from the British Isles, Scandinavia, central Europe, and the Mediterranean region.
 
-In North America, the species occurs from eastern Canada and New England west through the Great Lakes region. Disjunct populations are reported from the Rocky Mountains and [[psilocybin-north-america-pacific-northwest]].
-
-The species is an obligate calcicole, growing exclusively on calcium-rich substrates. Typical habitats include damp limestone outcrops, base-rich mortar in old stone walls, limestone talus, and calcareous soil along stream banks.
-
-It requires consistently moist conditions and is most commonly found in shaded, north-facing microsites or near seepages and waterfalls on limestone cliffs. The species is sensitive to desiccation and is rarely found in exposed locations.
-
-Elevational range is broad, from near sea level to approximately 1,500 meters in mountainous regions. At lower elevations, it is typically restricted to deeply shaded ravines and gorges with high humidity.
-
-## Ecology and Reproduction
-
-Jungermannia subulata is a minor but consistent component of calcicolous bryophyte communities. It frequently grows alongside other calcium-loving liverworts and mosses such as *Eucladium verticillatum* and *Tortella tortuosa*.
-
-The species contributes to the biodiversity of limestone microhabitats, which often support specialized assemblages of cryptogamic plants adapted to high calcium concentrations.
-
-Vegetative reproduction occurs through stem fragmentation. The fragile stems break easily when disturbed, and fragments dispersed by water or animal movement can establish new colonies on suitable calcareous substrates.
-
-Gemmae have not been documented in *J. subulata*, which limits its dispersal capacity compared to gemmiferous liverwort species. This may explain its scattered and often disjunct distribution pattern.
-
-Sexual reproduction produces perianths intermittently, with sporophytes observed most frequently during moist, cool growing seasons. Capsule dehiscence occurs in late summer, releasing spores that are dispersed by wind.
-
-Spore viability declines rapidly under dry [[spawn-storage-conditions]]. Fresh spores sown on calcareous agar substrates germinate within 2–4 weeks under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].
-
-The species supports diverse [[cannabis-rhizosphere-microbial-communities]] within its thallus, including nitrogen-fixing cyanobacteria that contribute to [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] on otherwise nutrient-poor limestone surfaces.
+In North America, the species occurs from eastern Canada and New England west through the Great Lakes region. Disjunct populations are reported from the Rocky Mountains and [[spawn-storage-conditions]]. Fresh spores sown on calcareous agar substrates germinate within 2–4 weeks under [[cannabis-rhizosphere-microbial-communities]] within its thallus, including nitrogen-fixing cyanobacteria that contribute to [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] on otherwise nutrient-poor limestone surfaces.
 
 ## Conservation Status
 
@@ -88,3 +66,84 @@ Jungermannia subulata is not globally threatened but is considered rare or uncom
 The primary threat is habitat loss through quarrying of limestone formations and demolition of old stone walls. Both activities directly destroy the calcareous substrates the species requires.
 
 Air pollution, particularly acid deposition, threatens populations by reducing the pH of calcareous substrates over time. Acidified substrates become unsuitable for this obligate calcicole, leading to local population declines.
+
+## Overview
+
+Jungermannia Subulata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jungermannia subulata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jungermannia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jungermannia Subulata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jungermannia subulata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jungermannia subulata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jungermannia Subulata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jungermannia subulata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[utricularia-subulata]]

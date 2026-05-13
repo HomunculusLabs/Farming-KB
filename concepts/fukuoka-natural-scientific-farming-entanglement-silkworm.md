@@ -6,11 +6,7 @@ type: concept
 
 # Fukuoka on the Entanglement of Natural and Scientific Farming
 
-Masanobu Fukuoka argues that [[korean-natural-farming]] scientific farming are not points on a continuum but divergent, irreconcilable trajectories. They are not two methods of achieving the same end; they are movements toward fundamentally different ends. He uses the history of sericulture (silkworm cultivation) as an extended case study to show how the two paths entangle yet never converge — always approaching, never meeting, and always pulling further apart.
-
-## Sunlight as the Upper Limit of Yield
-
-The amount of sunlight a given field receives is fixed — determined by geography, season, and the geometry of the Earth's orbit. Rice yield, which is fundamentally starch produced through photosynthesis, depends entirely on the sunlight falling on that area. No amount of [[fukuoka-critique-genetic-engineering]], soil amendment, irrigation, or pest control can create calories from nothing; every gram of starch represents stored solar energy, and the supply of that energy is predetermined by forces entirely beyond human control.
+Masanobu Fukuoka argues that [[fukuoka-critique-genetic-engineering]], soil amendment, irrigation, or pest control can create calories from nothing; every gram of starch represents stored solar energy, and the supply of that energy is predetermined by forces entirely beyond human control.
 
 As Fukuoka states with characteristic directness: **"No degree of human tampering with other conditions can change the upper limit in rice yield."** Amendments, breeding programs, and management techniques may improve conditions around the margins, but they cannot exceed the thermodynamic ceiling set by insolation. The sun provides what it provides; everything else is merely human effort to avoid wasting what has been freely given.
 
@@ -18,17 +14,7 @@ What agricultural science calls high-yield technology is, in Fukuoka's framework
 
 Proponents of artificial growing environments sometimes point to supplementary lighting and elevated CO₂ concentrations as ways to boost production beyond what open fields allow. Fukuoka acknowledges these are technically possible but notes they require enormous energy outlays — fossil fuels, electricity, infrastructure — that far exceed the caloric value of the additional crop. These are not true yield increases; they are transfers of energy from industrial systems into biological ones — hidden subsidies that externalize costs onto the environment and future generations.
 
-Moreover, humanity becomes responsible for the destruction of the cyclic and material order that nature maintains on its own. When man intervenes to force higher yields through artificial means, he disrupts natural cycles of decomposition, nutrient recycling, and biological balance. The consequence is [[bloomfield-environmental-pollution-overcollection-impact-fungi]] — the steady unraveling of the very systems that sustain life. What appears as progress is, in Fukuoka's accounting, merely a deepening of dependence on artificial systems that cannot sustain themselves.
-
-## Parallel Paths That Never Cross
-
-Fukuoka's central philosophical claim is that natural farming and scientific farming move in fundamentally opposite directions. **Natural farming moves centripetally toward nature; scientific farming moves centrifugally away.** The two proceed along parallel lines that grow farther apart with every advance, never converging, never reconciling.
-
-**"The paths of nature and of science and human action are forever parallel and never cross."**
-
-The distance between them grows ever larger. Science appears to maintain a cooperative association with nature — it studies soils, breeds crops, mimics ecological processes — but its deeper aspiration is to dissect, analyze, and know nature completely, then discard or replace the pieces it has understood. Science does not wish to work alongside nature; it wishes to supersede it. **"It hungers for struggle and conquest."** It does not seek harmony; it seeks dominion, and every conquest creates new problems that demand further conquest.
-
-Yet there is a rhythmic pattern to this expansion. **"With every two steps forward that science takes, it moves one step back, returning to the bosom of nature."** Science ventures outward three or four steps, encounters problems — depleted soil, pesticide resistance, [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]], health crises — and then retreats, seeking reconciliation with the natural processes it had overridden. But having returned, it quickly forgets its debt of gratitude, grows impatient with nature's pace and passiveness, and sets out again on the same outward trajectory.
+Moreover, humanity becomes responsible for the destruction of the cyclic and material order that nature maintains on its own. When man intervenes to force higher yields through artificial means, he disrupts natural cycles of decomposition, nutrient recycling, and biological balance. The consequence is [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]], health crises — and then retreats, seeking reconciliation with the natural processes it had overridden. But having returned, it quickly forgets its debt of gratitude, grows impatient with nature's pace and passiveness, and sets out again on the same outward trajectory.
 
 The cycle repeats endlessly: ambition, overreach, crisis, retreat, forgetfulness, renewed ambition. The return to nature is always temporary, always pragmatic, never philosophical. Science borrows from nature only to fund its next departure. Each return is not a genuine change of heart but a tactical retreat, and each departure pushes further than the last.
 
@@ -50,23 +36,7 @@ Over time, people replaced wild moth species with artificially bred varieties se
 
 ### 4. Indoor Cultivation and Environmental Control
 
-The next stage moved silkworm rearing entirely indoors. Farmers built elaborate shelving systems, acquired special tools for cocoon production, and began controlling [[greg-green-temperature-and-humidity-control]] to optimize growth. The silkworm's world became a human construction.
-
-### 5. Maximum Labor Intensity
-
-Sericulture became extraordinarily labor-intensive. Farmers rose before dawn, picked mulberry leaves one at a time by hand, wiped away the dew, chopped the leaves into fine pieces, and scattered them over hundreds of shelves stacked floor to ceiling. Every hour of every day was organized around the needs of the insect.
-
-### 6. Fragility and Catastrophe
-
-Maintaining optimum conditions was a round-the-clock obligation. But the artificially bred silkworms had become weak and highly susceptible to disease. Entire colonies were sometimes wiped out after being carefully raised to full size, destroying months of work in days. The more humans controlled the environment, the more fragile the organism became.
-
-### 7. Family Labor and Exhaustion
-
-During the silk-spinning season, every family member pitched in. Sleep became a luxury. The household economy revolved entirely around the silkworm cycle, and exhaustion was the norm. The industry had reached the extreme of centrifugal expansion — maximum human effort for maximum control.
-
-### 8. Simplification and Return Toward Nature
-
-Eventually, simplified methods began to spread. Farmers started throwing whole branches of mulberry leaves onto the shelves instead of picking and chopping individual leaves. Silkworms were raised under the eaves of houses, then moved outdoors, and in some cases released directly into trees. **"Sericulture appeared to be headed in the direction [[four-principles-of-natural-farming]] when all of a sudden the industry fell upon hard times."**
+The next stage moved silkworm rearing entirely indoors. Farmers built elaborate shelving systems, acquired special tools for cocoon production, and began controlling [[four-principles-of-natural-farming]] when all of a sudden the industry fell upon hard times."**
 
 ### 9. Collapse from Synthetic Competition
 
@@ -121,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[masanobu-fukuoka]]
-- [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
 - [[dom]]

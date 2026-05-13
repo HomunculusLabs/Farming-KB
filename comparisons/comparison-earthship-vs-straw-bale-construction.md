@@ -22,32 +22,6 @@ suitable climates differ sharply.
 
 ## Earthship Design
 
-[[earthship-design-and-biotopechtecture]]
-
-Developed by architect Michael Reynolds in the 1970s in Taos, New Mexico,
-the earthship is as much a life-support system as it is a building. Walls
-are built from automobile tires packed with rammed earth, creating enormous
-thermal mass that absorbs daytime heat and releases it at night. The south
-face is floor-to-ceiling glass angled for passive solar gain in winter and
-shaded by roof overhangs in summer. Indoor temperatures in a well-designed
-earthship stay between 18 and 24 degrees Celsius year-round without any
-mechanical heating or cooling.
-
-Beyond shelter, earthships integrate rainwater harvesting from metal roofs,
-on-site greywater treatment through indoor botanical cells, photovoltaic
-electricity, and composting toilets. The goal is complete disconnection
-from municipal utilities. Construction materials are largely waste-stream
-products: used tires, glass bottles, aluminum cans, and compacted earth.
-
-Building an earthship is labor-intensive, especially the tire-pounding
-phase where each tire must be filled with roughly 300 pounds of rammed
-earth using a sledgehammer. A single tire takes 15 to 30 minutes of hard
-physical work. A modest earthship may require 500 to 1,000 tires. This
-limits earthship construction to those with significant time, physical
-fitness, or a large volunteer crew.
-
-## Straw Bale Construction
-
 [[straw-bale-construction]]
 
 Straw bale construction originated with settlers in the Sandhills of
@@ -133,10 +107,7 @@ principle without the tire walls.
 
 ## See Also
 
-- [[earthship-design-and-biotopechtecture]]
 - [[straw-bale-construction]]
-- [[cob-building]]
 - [[rammed-earth]]
-- [[comparison-cob-construction-vs-straw-bale-construction]]
 - [[comparison-hempcrete-vs-rammed-earth]]
 - [[off-grid-electricity-basics]]

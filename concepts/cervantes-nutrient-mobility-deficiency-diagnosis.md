@@ -21,15 +21,7 @@ symptoms first appear. Mastering this concept allows
 growers to quickly narrow down the cause of foliage
 discoloration and other symptoms.
 
-See also: [[cervantes-macronutrient-deficiency-toxicity]]
-
-## Mobile Nutrients
-
-Mobile nutrients are able to translocate, or move, from
-one portion of the plant to another as needed. When a
-deficiency occurs, the plant relocates these nutrients
-from older tissue to support new growth. Because of this
-redistribution, [[knf-calcium-deficiency-symptoms]] of mobile nutrients
+See also: [[knf-calcium-deficiency-symptoms]] of mobile nutrients
 appear first on the **older, lower leaves**.
 
 The mobile nutrients are:
@@ -49,22 +41,7 @@ The mobile nutrients are:
 
 - **Potassium (K):** Deficiency causes older leaf
   edges and tips to brown and curl. Interveinal
-  chlorosis, weak stems, and [[holmgren-long-rotation-forestry-slow-growth]] follow.
-
-- **Magnesium (Mg):** Deficiency shows as interveinal
-  chlorosis on older leaves, with veins remaining
-  green. As it progresses, leaves may develop rust-
-  colored spots and necrotic patches.
-
-- **Zinc (Zn):** Deficiency causes chlorosis between
-  veins of new and older leaves, small leaf size,
-  and shortened internodes.
-
-## Immobile Nutrients
-
-Immobile nutrients do not translocate to new growing
-areas as needed. Once deposited in older leaves, they
-remain in place. This is why [[knf-phosphoric-acid-deficiency-symptoms]] of
+  chlorosis, weak stems, and [[knf-phosphoric-acid-deficiency-symptoms]] of
 immobile nutrients appear first on the **upper, new
 leaves** at the top of the plant.
 
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[foliar-nutrient-diagnosis-deficiency-identification]]
-- [[plant-nutrient-deficiency-diagnosis]]
 - [[cervantes-secondary-nutrient-deficiency]]
 - [[cannabis-nutrient-deficiency-and-toxicity-guide]]

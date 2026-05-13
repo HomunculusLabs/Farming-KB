@@ -76,19 +76,12 @@ sources:
 - **Other constituents:**
   - Polysaccharides (panaxans) — immunomodulatory
   - Polyacetylenes (panaxynol, panaxydol) — antitumor activity
-  - [[permaculture-designers-manual-essential-oil-plants]] (trace amounts)
-
-## Traditional & 
-
-### Indigenous North American Uses
-- Root used by Cherokee, Creek, Iroquois, Menominee, Ojibwa, and other peoples
-- Applications: general tonic, digestive aid, headache relief, fever reduction, respiratory ailments
-- Trade commodity in intertribal and early colonial commerce
-- Harvested sustainably from wild populations for centuries
-
-### Traditional Chinese Medicine (TCM)
-- Classified as a **yin tonic** (cooling, nourishing)
+  - [[comparison-panax-ginseng-vs-siberian-ginseng]]
+- [[comparison-ginkgo-biloba-vs-panax-ginseng]]
 
 ## See Also
+
+- [[panax-notoginseng]]
 - [[comparison-panax-ginseng-vs-siberian-ginseng]]
+- [[panax-ginseng]]
 - [[comparison-ginkgo-biloba-vs-panax-ginseng]]

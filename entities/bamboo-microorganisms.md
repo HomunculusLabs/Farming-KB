@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Bamboo microorganisms are beneficial indigenous microorganisms collected from the root zone and litter of bamboo plants using a cooked-rice trapping method. In Asian natural farming traditions, bamboo is observed to attract particularly powerful beneficial microorganisms because the roots of bamboo exude sugary substances that attract beneficial microbial communities. These microorganisms are cultured using the same carbohydrate-based fermentation approach used for forest microorganisms, and are valued as a component of the Beneficial Indigenous Microorganism (BIM) consortium used in Korean Natural Farming.
+Bamboo microorganisms are [[beneficial-indigenous-microorganisms]] collected from the root zone and litter of bamboo plants using a cooked-rice trapping method. In Asian natural farming traditions, bamboo is observed to attract particularly powerful beneficial microorganisms because the roots of bamboo exude sugary substances that attract beneficial microbial communities. These microorganisms are cultured using the same carbohydrate-based fermentation approach used for forest microorganisms, and are valued as a component of the Beneficial Indigenous Microorganism (BIM) consortium used in [[korean-natural-farming]].
 
 ## Classification
 
@@ -81,8 +81,6 @@ Addressing these challenges requires patience and systematic observation,
 combined with willingness to adapt approaches based on results.
 
 ## See Also
-- [[forest-and-bamboo-beneficial-microorganisms]]
 - [[permaculture-plants-bamboo-varieties-uses]]
-- [[cho-imo-collection-bamboo-stump-and-paddy-field]]
 - [[forest-bamboo-plant-specific-microorganism-culturing]]
 - [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]

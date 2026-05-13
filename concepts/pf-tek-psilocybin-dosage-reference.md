@@ -10,7 +10,7 @@ sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 
 ## Overview
 
-The PF TEK documentation includes extensive excerpts from Paul Stamets' "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World" (Chapter 5: Good Tips for Great Trips) regarding [[blesching-cannabis-health-index-dosage-guidelines-medical]] for psilocybin-containing mushrooms. These excerpts were edited and included by Psylocybe Fanaticus to provide cultivators with a reference framework for understanding dose-dependent effects and the significant individual variation in sensitivity. The information is presented alongside the PF TEK's own emphasis on harvesting young, pre-sporulation specimens for maximum potency.
+The [[pf-tek]] documentation includes extensive excerpts from Paul Stamets' "[[blesching-cannabis-health-index-dosage-guidelines-medical]] for psilocybin-containing mushrooms. These excerpts were edited and included by Psylocybe Fanaticus to provide cultivators with a reference framework for understanding dose-dependent effects and the significant individual variation in sensitivity. The information is presented alongside the PF TEK's own emphasis on harvesting young, pre-sporulation specimens for maximum potency.
 
 ## Individual Sensitivity Variation
 
@@ -24,29 +24,14 @@ These cases demonstrate that published dosage ranges are starting points for sel
 
 ## Baseline Species Reference
 
-The following dosage descriptions use [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (liberty cap) as a baseline reference species, which averages approximately 1% combined psilocybin and psilocin content by dry weight. This species is chosen as the standard because it is one of the most widely studied and consistently potent psilocybin-containing mushrooms.
+The following dosage descriptions use [[pf-tek-mushroom-potency-and-age-relationship|immature pre-sporulation specimens]] are significantly more potent per unit weight than mature sporulating ones.
 
-When [[pf-tek-mushroom-potency-and-age-relationship|immature pre-sporulation specimens]] are significantly more potent per unit weight than mature sporulating ones.
-
-By harvesting mushrooms while their caps are still round and before the veil breaks, by growing them on brown rice substrate rather than nutrient-poor media, and by [[pf-tek-aborts-and-potency-harvesting|abortive mushrooms]] and tiny primordia that cease normal development are described as the most potent specimens available from the PF TEK process. These small specimens, though individually tiny, accumulate to a substantial weight across several cakes. They represent the highest quality material and should be harvested promptly before their caps begin to darken.
-
-The relationship between [[cannabis-harvest-timing-visual-cues]] and potency is inverse: as the mushroom cap expands like an umbrella and the sporulation cycle begins, the mushroom's size increases but its potency per unit weight decreases. This means that a larger, mature mushroom may contain less total active alkaloid than a smaller, younger specimen from the same cake, despite weighing considerably more.
+By harvesting mushrooms while their caps are still round and before the veil breaks, by growing them on brown rice substrate rather than nutrient-poor media, and by [[cannabis-harvest-timing-visual-cues]] and potency is inverse: as the mushroom cap expands like an umbrella and the sporulation cycle begins, the mushroom's size increases but its potency per unit weight decreases. This means that a larger, mature mushroom may contain less total active alkaloid than a smaller, younger specimen from the same cake, despite weighing considerably more.
 
 ## Important Safety Notes
 
 - Always start with low doses and increase gradually in single dried-gram increments.
-- [[lsd-set-and-setting-framework]] are critical at all dose levels, and become essential above 3 grams.
-- Individual sensitivity varies enormously and cannot be predicted in advance.
-- The effects described here apply to orally ingested dried mushroom material only.
-- Dose-response is not linear: the experiential difference between 4 and 5 grams is much larger than between 1 and 2 grams.
-- A sober, experienced trip sitter is recommended for doses above 3 grams.
-- Do not combine with other substances, especially MAOIs, without thorough research.
-- Eat the dose at one sitting; do not piececemeal consumption over time.
-
-## See Also
-
 - [[pf-tek-aborts-and-potency-harvesting|Aborts and Potency Harvesting]]
-- [[pf-tek-alcohol-extraction-method|Alcohol Extraction Method]]
 - [[pf-tek-primordia-formation-and-pinning-process|Primordia Formation and Pinning]]
 ## Practical Considerations
 
@@ -88,3 +73,78 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Pf Tek Psilocybin Dosage Reference represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pf tek psilocybin dosage reference
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pf extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pf Tek Psilocybin Dosage Reference finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pf tek psilocybin dosage reference. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pf tek psilocybin dosage reference and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pf Tek Psilocybin Dosage Reference has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pf tek psilocybin dosage reference into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

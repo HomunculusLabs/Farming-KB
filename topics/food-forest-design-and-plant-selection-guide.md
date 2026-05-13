@@ -54,20 +54,7 @@ with minimal human intervention.
 
 Bill Mollison described the forest not as a collection of trees but as a
 complex organism whose elements are bound by physical and functional
-interconnections. You cannot remove the [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], the nitrogen-fixing
-bacteria, or the leaf litter and still have a forest. A food forest designer
-works with these interconnections, selecting species not in isolation but as
-members of interdependent communities called guilds.
-
-Toby Hemenway, in Gaia's Garden, presented guild design as the core technique
-for assembling productive gardens. His method emphasizes two complementary
-pathways: observing natural plant communities and substituting edible species
-for native ones while preserving structural roles, and a research-based
-approach that systematically fills functional roles around a central productive
-element. The principle of multiple functions per element is central to every
-decision. Comfrey is the archetype: it produces mulch biomass, mines potassium
-and calcium from deep subsoil, attracts pollinators, provides medicine, and can
-be brewed into [[jadam-liquid-fertilizer-nutritional-perspective]]. A well-designed food forest selects as many
+interconnections. You cannot remove the [[jadam-liquid-fertilizer-nutritional-perspective]]. A well-designed food forest selects as many
 multifunctional species as possible.
 
 ## Site Analysis and Preparation
@@ -127,15 +114,8 @@ as living ground cover, goumi and seaberry as nitrogen-fixing shrubs, and
 black locust or honey locust as canopy nitrogen fixers. These are periodically
 coppiced to release fixed nitrogen into the soil surface.
 
-[[comparison-dynamic-accumulators-vs-cover-crops]] have deep taproots that mine minerals from subsoil layers
-inaccessible to shallower-rooted crops. Comfrey is the premier example, pulling
-up potassium, calcium, magnesium, iron, and boron from six feet or deeper.
-When its leaves are cut and left as mulch, these minerals become surface-
-available. Other accumulators include chicory ([[dighton-fungal-drought-tolerance-plant-water-relations]] and mineral
-cycling), yarrow (phosphorus, potassium, copper), [[comparison-stinging-nettle-vs-horsetail]] (iron,
-nitrogen, calcium, plus compost activation), and dandelion (calcium, iron).
-
-Pest confusers are aromatic plants that mask the [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] host plants
+[[dighton-fungal-drought-tolerance-plant-water-relations]] and mineral
+cycling), yarrow (phosphorus, potassium, copper), [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] host plants
 emit to attract pest insects. Alliums like garlic and chives repel aphids and
 codling moth. Rosemary, thyme, sage, and lavender disrupt pest olfactory
 navigation. Nasturtiums serve as a trap crop for aphids while repelling
@@ -143,8 +123,6 @@ whitefly. Marigolds deter root-knot nematodes. The key is interplanting these
 throughout the guild rather than concentrating them in one area.
 
 ## See Also
-- [[hemenway-mulch-makers-and-plant-functional-roles]]
 - [[hemenway-guild-member-roles-and-species-selection]]
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 - [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]
 - [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]

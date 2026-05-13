@@ -6,12 +6,9 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Metal Transformations and Biosorption Fungi interact with toxic metals and metalloids through a remarkable diversity of mechanisms that have significant potential for [[fungal-organic-acid-metal-solubilization]]
-- [[fungal-metal-transformations]]
+# Fungal Metal Transformations and Biosorption Fungi interact with toxic metals and metalloids through a remarkable diversity of mechanisms that have significant potential for [[fungal-metal-transformations]]
 
-- [[fungal-bioremediation-case-studies]]
 - [[bioavailability-in-fungal-bioremediation]]
-- [[lichens-primary-production-soil-formation-dighton]]
 - [[fungal-oxalate-production-metal-transformation]]
 ## Background and Context
 
@@ -118,8 +115,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-metal-transformations]]
 - [[dom]]
-- [[det]]
 - [[lichens]]
 - [[gadd-fungal-metal-transformations-biogeochemical-cycling]]

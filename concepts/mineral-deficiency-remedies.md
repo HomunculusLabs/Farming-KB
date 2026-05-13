@@ -15,9 +15,7 @@ Before applying specific remedies, keep a **fertiliser diary** for your garden a
 ### Leached (Washed-Out) Sands
 
 1. Dig up garden beds and place a **plastic sheet liner** below
-2. Add a bucket of **clay** and a handful of **[[dolomite]]** per square metre
-3. Try a soil gel to improve water retention
-4. Add [[compost]] and a complete fertiliser like **blood and bone**
+2. Add a bucket of **clay** and a handful of **[[compost]] and a complete fertiliser like **blood and bone**
 5. Mulch thickly and replant
 6. Return to the diagnostic key if symptoms recur
 
@@ -91,37 +89,7 @@ Add as fine-crushed ore, or apply copper sulphate in water at 7 kg/hectare (1 g 
 4. If conditions are satisfactory, apply **dilute urine** (20 parts water to 1 part urine) or **ammonium sulphate** in alkaline areas
 5. Use legume mulches or interplant (about 48 small acacia or tagasaste trees per quarter acre)
 6. Use compost as surface mulch
-7. Build up worms and [[soil-life]]; use dilute bird manure
-
-**Warning**: Do not overdo nitrogen application, or nitrates will build up in green plants and can cause blue-baby syndrome in children or piglets. Just relieve the symptoms, then establish good soil life.
-
-For **severe nitrogen deficiency** with poor clover growth or establishment in peaty or coastal soils, use **cobalt**. If manganese is high, add lime to balance the soil (one handful per square metre). In alkaline soils, spray cobalt at very low dilutions at 1 g per 10 square metres every 10 years or so.
-
-### Magnesium {9}
-
-1. Check if potash is not too high
-2. Add clay to sandy acid soils (most clays contain plenty of magnesium)
-3. Use **dolomite** for first dressing, then limestone
-4. **Epsom salts** were traditionally used around citrus
-5. Dilute Epsom salts in water for foliar spray in severe deficiency situations
-
-### Molybdenum {10}
-
-Obtain **sodium molybdate** (about 10 g), mix well with 5 kg of sand, and apply 1/100 of this mixture per square metre. Application frequency: every 10 years.
-
-### Potassium {11}
-
-- Use **ashes** on green crop
-- Apply **diluted urine** in early growth
-- Build up mulches including dried or fresh seaweeds
-- Use fly ash dusts from cement works
-- Apply "teas" of bird manures or **comfrey**
-- Potassium is found in the mineral **kainite** (20-25% potassium) in evaporite deposits of deserts
-
-### Phosphorus {12}
-
-1. Bring pH to 6-6.5 using lime in acid soils and humus in alkaline
-2. Use **bone meal**, bury bones, or use tested **[[rock-phosphate]]** free of cadmium or uranium
+7. Build up worms and [[rock-phosphate]]** free of cadmium or uranium
 3. Stop deep digging and start mulching with minimal soil disturbance (build up narrow beds)
 4. Encourage soil life, add mulch on top
 5. Water with **comfrey "tea"** and dilute bird manure on plant leaves
@@ -135,3 +103,11 @@ Obtain **sodium molybdate** (about 10 g), mix well with 5 kg of sand, and apply 
 ### Chlorine Poisoning {13}
 
 If tap water is the source of chlorine, let it stand with a handful of lime in it for a day before using on the garden.
+
+## See Also
+
+- [[gadd-mycogenic-mineral-precipitation-secondary-minerals]]
+- [[plant-mineral-deficiency-diagnosis]]
+- [[gadd-mineral-transformations-biogeochemical-cycles-fungi]]
+- [[gadd-mycorrhizal-mineral-weathering-nutrient-mobilization]]
+- [[savory-mineral-cycle-management]]

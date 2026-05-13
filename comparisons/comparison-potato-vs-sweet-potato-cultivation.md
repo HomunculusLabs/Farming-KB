@@ -21,23 +21,7 @@ Potatoes (*Solanum tuberosum*) and sweet potatoes (*Ipomoea batatas*) are both w
 
 | Feature | Potato | Sweet Potato |
 |---|---|---|
-| **Family** | Solanaceae (nightshade) | Convolvulaceae ([[golden-guide-morning-glory-and-ololiuqui]]) |
-| **Genus** | *Solanum* | *Ipomoea* |
-| **Edible part** | Tuber (swollen stem) | Storage root (swollen root) |
-| **Species** | *Solanum tuberosum* | *Ipomoea batatas* |
-| **Origin** | Andes, South America | Central/South America |
-| **Chromosome count** | Tetraploid (4n=48) | Hexaploid (6n=90) |
-
-## Climate Requirements
-
-| Factor | Potato | Sweet Potato |
-|---|---|---|
-| **Hardiness zone** | 2–10 | 8–11 (can grow in 6–7 with short seasons) |
-| **Optimal soil temp** | 55–65°F (13–18°C) | 70–85°F (21–29°C) |
-| **Optimal air temp** | 60–70°F (16–21°C) | 75–90°F (24–32°C) |
-| **Frost tolerance** | Light frost kills foliage; tubers survive brief freezes | Killed by any frost; zero frost tolerance |
-| **Day length** | Day-neutral | Short-day sensitive (most varieties) |
-| **[[savory-growing-season-and-non-growing-season-management]]** | 90–120 days | 90–150 days |
+| **Family** | Solanaceae (nightshade) | Convolvulaceae ([[savory-growing-season-and-non-growing-season-management]]** | 90–120 days | 90–150 days |
 | **Heat tolerance** | Poor — heat reduces tuber set | Excellent — thrives in heat |
 
 **Key difference**: Potatoes are a cool-season crop; sweet potatoes are a warm-season crop. They cannot be grown in the same season in most climates.
@@ -106,41 +90,12 @@ Potatoes (*Solanum tuberosum*) and sweet potatoes (*Ipomoea batatas*) are both w
 | **Major disease** | Late blight (*Phytophthora infestans*), early blight | Fusarium wilt, scurf, root rot |
 | **Nematode issues** | Root-knot nematode | Root-knot nematode (major pest) |
 | **Virus issues** | Several potato viruses | Virus diseases from infected slips |
-| **[[cannabis-pest-management-guide]]** | [[comparison-crop-rotation-vs-cover-cropping]], Bt, row covers | Crop rotation, resistant varieties, clean slips |
+| **[[comparison-crop-rotation-vs-cover-cropping]], Bt, row covers | Crop rotation, resistant varieties, clean slips |
 
 ## Harvesting and Curing
 
 | Aspect | Potato | Sweet Potato |
 |---|---|---|
-| **[[cannabis-harvest-timing-visual-cues]]** | When vines die back; 2–3 weeks after foliage dies | Before first frost; 90–150 days after planting |
-| **Harvest method** | Dig carefully to avoid skinning | Dig carefully; roots bruise easily |
-| **Curing** | Not required; dry 1–2 hours in shade | Essential: 80–85°F, 85–90% humidity for 7–14 days |
-| **Curing purpose** | Toughens skin for storage | Heals wounds, converts starches to sugars, develops flavor |
-| **Storage temp** | 38–40°F (3–4°C), dark, humid | 55–60°F (13–16°C), dark, moderately humid |
-| **Storage duration** | 3–6 months | 4–12 months |
-| **Storage humidity** | 90–95% RH | 85–90% RH |
-| **Refrigeration** | OK for potatoes (but not below 38°F) | Never refrigerate — causes chilling injury and off-flavors |
-
-**Critical difference**: Sweet potatoes require curing and cannot be refrigerated; potatoes should not be cured and store best at cool temperatures.
-
-## Yield and Nutrition
-
-| Aspect | Potato | Sweet Potato |
-|---|---|---|
-| **Average yield** | 5–15 lb per 10-foot row | 10–20 lb per 10-foot row |
-| **Calories** | 77 kcal/100g (raw) | 86 kcal/100g (raw) |
-| **Vitamin A** | Negligible | Very high (beta-carotene) |
-| **Vitamin C** | Moderate (20mg/100g) | Moderate (2.4mg/100g raw; retained when cooked) |
-| **Potassium** | High (421mg/100g) | Moderate (337mg/100g) |
-| **Glycemic index** | High (boiled); lower when cooled | Lower; further reduced by cooking with fat |
-| **Key nutrient** | Potassium, vitamin C, vitamin B6 | Beta-carotene (vitamin A), vitamin C, manganese |
-
-## Permaculture and Companion Planting
-
-| Aspect | Potato | Sweet Potato |
-## See Also
-
-- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
-- [[mollison-designers-companion-planting-charts-and-principles]]
+| **[[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 - [[query-how-to-transition-from-conventional-to-no-till-farming]]
 - oca [[oxalis-tuberosa]] cultivation and uses

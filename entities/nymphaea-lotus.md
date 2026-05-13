@@ -13,50 +13,9 @@ sources:
   - Hickey M, King C (2000). "The Cambridge Illustrated Glossary of Botanical Terms." Cambridge University Press.
   - Murphy K (2016). "Aquatic Plant Management in Lakes and Reservoirs." CRC Press.
   - Hanelt P (2001). "Mansfeld's Encyclopedia of Agricultural and Horticultural Crops." Springer.
-  - Wiersema JH (2022). "Nymphaea (Nymphaeaceae)." In: Flora [[berry-growing]] North of Mexico, Vol. 3.
----
+  - Wiersema JH (2022). "Nymphaea (Nymphaeaceae)." In: Flora [[psilocybe-southeast-asia-pacific]].
 
-## Overview
-
-Nymphaea lotus, commonly known as the Egyptian white water lily or white lotus, is a perennial aquatic plant in the family Nymphaeaceae. It is native to tropical and subtropical regions of Africa and parts of [[psilocybe-southeast-asia-pacific]].
-
-The species is distinguished by its fragrant white flowers that open during the day and its broadly ovate floating leaves. Nymphaea lotus holds deep [[amanita-muscaria]] in ancient Egyptian civilization, where it symbolized creation and rebirth.
-
-In the aquarium trade, it is a popular ornamental species prized for its elegant appearance. The plant is also used in traditional African medicine and as a food source in some regions.
-
-## Taxonomy and Morphology
-
-Nymphaea lotus was described by Carl Linnaeus in 1753 in *Species Plantarum*. The species epithet "lotus" references its resemblance to the legendary lotus of Greek mythology.
-
-The accepted authority is L. The plant belongs to the subgenus Nymphaea subg. Lotos, which groups tropical night-blooming and day-blooming white-flowered species.
-
-Several infraspecific taxa have been described, though current treatments vary. Nymphaea lotus var. thermalis is a thermophilous form found in European thermal springs, sometimes treated as a separate species, Nymphaea thermalis.
-
-The rhizome is thick, horizontal, and embedded in the substrate. It produces stolons that give rise to new plantlets, enabling vegetative spread.
-
-Leaves are broadly ovate to nearly circular, measuring 15–30 cm in diameter. The upper surface is glossy green, while the underside is often reddish or purplish.
-
-The leaf margin is entire and slightly wavy. A prominent V-shaped sinus extends from the margin to near the center of the blade.
-
-Flowers are white, sometimes tinged with pink or pale blue on the outer petals. They measure 10–20 cm in diameter and are held above the water surface on stout peduncles.
-
-Each flower bears 12–20 petals arranged in several whorls. The outermost sepals are green and lanceolate, reflexing as the flower opens.
-
-Stamens are numerous, yellow, and arranged in a tight spiral around the central receptacle. The fruit is a globose berry that ripens underwater and releases seeds as it decomposes.
-
-Seeds are roughly ovoid, measuring 2–3 mm, and are enclosed in an aril that aids buoyancy and dispersal by waterfowl.
-
-## Distribution and Habitat
-
-Nymphaea lotus is widely distributed across sub-Saharan Africa, from the Nile Basin and West Africa through East Africa to southern Africa. Disjunct populations also occur in Madagascar and tropical Asia, including India, Sri Lanka, and Southeast Asia.
-
-The species grows in a variety of freshwater habitats. These include slow-moving rivers, oxbow lakes, floodplain ponds, swamps, and man-made water bodies such as reservoirs and irrigation canals.
-
-It prefers shallow water with depths of 0.3–2.0 meters. Substrates range from muddy bottoms to sandy or clay-rich sediments.
-
-Nymphaea lotus tolerates warm water temperatures and can colonize seasonal water bodies that dry periodically. The buried rhizome survives drought and regrows when water returns.
-
-Full sun to partial shade is optimal for flowering and [[cannabis-vegetative-growth-stage]]. Dense shading by overhanging trees can reduce flower production but the plant persists vegetatively.
+The species is distinguished by its fragrant white flowers that open during the day and its broadly ovate floating leaves. Nymphaea lotus holds deep [[cannabis-vegetative-growth-stage]]. Dense shading by overhanging trees can reduce flower production but the plant persists vegetatively.
 
 The species is found from sea level to approximately 1,200 meters elevation. In Egypt and Sudan, it is a characteristic component of Nile River backwaters and marshlands.
 
@@ -76,14 +35,89 @@ In aquariums, Nymphaea lotus is adaptable to a range of conditions. It grows wel
 
 Propagation is primarily vegetative through division of the rhizome. Each division should include at least one growing point and a section of healthy rhizome tissue.
 
-[[cannabis-seed-germination]] is possible but less commonly practiced. Seeds should be sown in shallow trays of water over loamy substrate and kept warm at 25–30°C.
+[[cannabis-for-skin-conditions-detailed]] and ingested for digestive complaints.
 
-The variety "red" or Nymphaea lotus var. rubra, with reddish-purple foliage, is particularly popular in the aquarium trade and is sometimes considered a distinct form.
+## Overview
 
-## Ethnobotany and Cultural Significance
+Nymphaea Lotus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Nymphaea lotus occupies a central place in ancient Egyptian religion and art. It was associated with the sun god Ra and the concept of rebirth, as the flowers close at night and reopen each morning.
+## Key Characteristics
 
-The white lotus appears extensively in tomb paintings, temple reliefs, and funerary artifacts. It was frequently depicted being held or offered by deities and pharaohs.
+Several defining characteristics distinguish nymphaea lotus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-In traditional African medicine, the rhizome is used to treat various ailments. Preparations from the rhizome are applied as poultices [[cannabis-for-skin-conditions-detailed]] and ingested for digestive complaints.
+## Ecological Context
+
+The ecological relationships involving nymphaea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nymphaea Lotus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nymphaea lotus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nymphaea lotus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nymphaea Lotus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nymphaea lotus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[nymphaea-alba]]
+- [[nymphaea-ampla]]
+- [[nymphaea-caerulea]]
+- [[nymphaea-odorata]]
+- [[nymphaea-tetragona]]

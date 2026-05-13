@@ -6,15 +6,7 @@ type: concept
 
 # Species Interaction Classification
 
-Species interaction classification is a systematic framework for categorizing the relationships between pairs of species based on how each is affected by the other. Originally developed by Haskell (1970), this taxonomy provides a critical analytical tool for [[permaculture]] designers seeking to build productive plant guilds and animal systems by maximizing mutual benefits and eliminating conflicts.
-
-## The Nine Interaction Types
-
-Haskell defined a complete set of two-species interaction outcomes, each denoted by a pair of symbols where the first represents the actor and the second represents the other organism. The symbols are + (benefited), - (harmed), 0 (unaffected):
-
-### Positive Interactions
-
-**Mutualism (++):** Both species benefit. Examples include legume/grain interplants, [[mycorrhizal-fungi]] with plant roots, and pollinator/flower relationships. This is the gold standard in guild design — whenever mutualism can be arranged, it should be prioritized.
+Species interaction classification is a systematic framework for categorizing the relationships between pairs of species based on how each is affected by the other. Originally developed by Haskell (1970), this taxonomy provides a critical analytical tool for [[mycorrhizal-fungi]] with plant roots, and pollinator/flower relationships. This is the gold standard in guild design — whenever mutualism can be arranged, it should be prioritized.
 
 **Commensalism (+0):** The actor benefits while the other is unaffected. An epiphyte like vanilla growing on a coconut trunk is a classic example. The epiphyte gains structural support and access to light while the host tree is neither helped nor harmed.
 
@@ -28,27 +20,7 @@ Haskell defined a complete set of two-species interaction outcomes, each denoted
 
 **Allolimy (0-):** The actor is unaffected but the other is harmed. Walnut trees growing beside apple trees yield well themselves, but the juglones secreted by walnut roots kill or weaken the apple tree. Similarly, grasses weaken most deciduous fruit trees growing nearby.
 
-**Parasitism (+-):** The actor (parasite) benefits while the other loses. All pathogens and parasites tend to weaken or take from their hosts. In [[permaculture-design]], parasitic relationships are generally managed or excluded.
-
-**Self-Sacrifice (-+):** The actor loses to benefit the other — the reverse of parasitism. Often seen in nature as individuals helping family or species members. In human society this is recognized as selflessness or heroics.
-
-### Neutral
-
-**Neutrality (00):** Neither species acts upon the other; no one wins or loses. Neutrality pacts achieve this in society, and critical areas in nature (water holes, salt licks, grooming stations) often become zones where antagonistic species agree on neutrality. Many plant species appear basically neutral in behavior.
-
-## The Co-Action Matrix
-
-To apply this classification in practice, Mollison developed the **co-action matrix** method — a simple field survey technique for scoring species interactions in real landscapes:
-
-1. Select a target species (e.g., apple) and define scoring criteria (+ = healthy/bearing well, 0 = fair/bearing, - = sick/dying, x = absent)
-2. Walk through many sites (yards, orchards, hedgerows) recording pairings
-3. Tabulate results in a matrix with the target species score across the top and companion species down the left side
-
-**Key findings from co-action studies:**
-- Walnut near apple produces (0-): the apple sickens or dies due to juglone toxicity
-- Mulberry near apple produces (+0): a positive result
-- Mulberry near walnut produces (00): mutual neutrality
-- [[acacia]] near walnut produces (0+): walnut benefits from Acacia proximity
+**Parasitism (+-):** The actor (parasite) benefits while the other loses. All pathogens and parasites tend to weaken or take from their hosts. In [[acacia]] near walnut produces (0+): walnut benefits from Acacia proximity
 - Acacia near mulberry produces (0+): mulberry also benefits
 
 ## Building Guilds from Co-Action Analysis
@@ -79,3 +51,88 @@ Guild design must account for **distance-dependent interactions** between specie
 **Configuration strategy:** Assess the distance across the interaction boundary where effects occur, then arrange guild species to obtain maximum positive edge interactions. For grain-legume intercrops, the beneficial effect extends 1.5–2 meters into the crop, allowing spiral or strip-planting designs for total positive edge interaction.
 
 These careful guild analyses and configurations form the basis of species planning in permaculture, transforming competitive natural systems into cooperative designed ones.
+
+## Overview
+
+Species Interaction Classification represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish species interaction classification
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving species extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Species Interaction Classification finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for species interaction classification. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+species interaction classification and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Species Interaction Classification has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of species interaction classification into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mollison-pioneer-species-and-accelerated-succession]]
+- [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
+- [[mycorrhizal-edible-mushroom-species-overview]]
+- [[neurotropic-puffballs-lycoperdales-vascellum-species]]
+- [[psilocybe-species-europe]]

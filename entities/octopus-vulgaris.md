@@ -24,30 +24,7 @@ sources:
 *Octopus vulgaris* is a widely distributed cephalopod mollusk found
 throughout temperate and tropical coastal waters of the Atlantic,
 Mediterranean, and Indo-Pacific. It is the most studied octopus species and
-a [[canary-grass-phototropism-model-organism]] for research on invertebrate intelligence, camouflage, and
-neural plasticity. The species supports significant artisanal fisheries
-across its range and is commercially important in Mediterranean cuisine.
-
-## Taxonomy
-
-- **Kingdom:** Animalia
-- **Phylum:** Mollusca
-- **Class:** Cephalopoda
-- **Order:** Octopoda
-- **Family:** Octopodidae
-- **Genus:** *Octopus*
-- **Species:** *O. vulgaris* (Cuvier, 1797)
-- **Common names:** Common octopus, Mediterranean octopus
-- **Etymology:** *Octopus* derives from Greek *oktṓpous* (eight-footed);
-  *vulgaris* is Latin for "common" or "ordinary."
-
-## Morphology
-
-Adults typically weigh 1–5 kg with arm spans of 60–100 cm, though
-individuals exceeding 10 kg and 150 cm have been recorded. The mantle
-(body) is roughly spherical, comprising roughly one-third of total length.
-Eight arms are lined with two rows of suckers, each sucker containing
-mechanoreceptors and chemoreceptors for tactile and [[plant-olfaction-chemical-sensing]].
+a [[plant-olfaction-chemical-sensing]].
 
 The body lacks both internal and external shells, a defining feature of
 octopods. The only hard structure is a chitinous beak resembling a
@@ -90,4 +67,84 @@ prey includes crustaceans (crabs, lobsters, shrimp), bivalve mollusks, and
 gastropods. Octopuses drill through bivalve shells using their radula and
 
 ## See Also
-- [[mckenna-octopus-intelligence-and-archaic-mind]]
+
+- [[fukuoka-money-sucking-octopus-economy-critique]]
+- [[beta-vulgaris]]
+- [[senecio-vulgaris]]
+- [[silene-vulgaris]]
+- [[hippuris-vulgaris]]
+
+## Overview
+
+Octopus Vulgaris represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish octopus vulgaris
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving octopus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Octopus Vulgaris finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for octopus vulgaris. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+octopus vulgaris and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Octopus Vulgaris has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of octopus vulgaris into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

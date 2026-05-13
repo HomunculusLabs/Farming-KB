@@ -21,22 +21,13 @@ type: concept
 # Pruning as Destruction of Natural Tree Form
 
 Fukuoka argues that pruning is one of the most destructive practices
-in modern [[natural-farming]], trees are allowed to develop their own branching
-patterns and canopy structure. The farmer's role is not to impose form
-but to observe and learn from the tree's own innate wisdom about how
-best to arrange its growth for optimal health and productivity. The
-mountain forest, where trees of many species grow together in complex
-harmony without any human management, provides the model for what
-orchards could become if farmers trusted the [[ingham-natural-growth-regulators-soil-microbes]] processes of
+in modern [[ingham-natural-growth-regulators-soil-microbes]] processes of
 their trees.
 
 ## See Also
 
-- [[natural-fruit-tree-form-and-non-pruning]]
-
 - [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]] for
-[[fukuoka-citrus-orchard-establishment-bare-hillside]] methods
-- [[fukuoka-textdoc-three-ways-farming-compared]] for the broader
+[[fukuoka-textdoc-three-ways-farming-compared]] for the broader
 framework of intervention versus non-intervention
 ## Practical Applications
 
@@ -97,8 +88,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[fukuoka-textdoc-search-natural-form-citrus-trees]]
 - [[fukuoka-textdoc-attaining-natural-form-fruit-trees]]

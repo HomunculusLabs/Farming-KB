@@ -8,13 +8,7 @@ tags:
   - bufonidae
   - europe
   - bufotoxin
-  - [[wetland-ecology]]
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Reading, C.J. et al. (1991). "The Common Toad." Slough: The Herpetological Conservation Trust.
-  - Gasc, J.P. et al. (1997). "Atlas of Amphibians and Reptiles in Europe." Societas Europaea Herpetologica.
-  - Banks, B. et al. (2000). "The effects of [[mycorrhizal-agricultural-practices]] on amphibians." In: Amphibians, Reptiles and the British Countryside. JNCC.
+  - mycorrhizal-agricultural-practices on amphibians." In: Amphibians, Reptiles and the British Countryside. JNCC.
   - IUCN Red List (2009). "Bufo bufo." https://www.iucnredlist.org/species/54588/16942364
 ---
 
@@ -24,29 +18,7 @@ sources:
 
 Adults typically measure 6–10 cm in snout-vent length, with females reaching up to 13 cm. The species has a robust, warty body with a distinctive rounded snout and prominent parotoid glands behind the eyes.
 
-Common toads are more terrestrial than frogs, spending the majority of their lives away from water. They migrate to breeding ponds in [[coleman-overwintered-onions-and-early-spring-crops]], often traveling considerable distances from their summer foraging grounds.
-
-The species secretes bufotoxins from its parotoid glands and skin, providing effective chemical defense against most predators. These toxic secretions have been the subject of extensive pharmacological investigation.
-
-Common toads can live up to 40 years in captivity, making them among the longest-lived anurans. Wild individuals typically survive 10–12 years, with mortality highest during the tadpole and juvenile stages.
-
-## Taxonomy and Morphology
-
-**Bufo bufo** (Linnaeus, 1758) belongs to the family Bufonidae (true toads), order Anura.
-
-**Classification:**
-
-- Kingdom: Animalia
-- Phylum: Chordata
-- Class: Amphibia
-- Order: Anura
-- Family: Bufonidae
-- Genus: Bufo
-- Species: B. bufo
-
-The common toad has a stout body covered in dry, warty skin. Coloration varies from olive-brown and reddish-brown to gray and yellowish tones, often with darker blotches on the back.
-
-The most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] are the large parotoid glands, elongated swellings behind each eye. These glands produce the toxic secretions that deter predators.
+Common toads are more terrestrial than frogs, spending the majority of their lives away from water. They migrate to breeding ponds in metzner-three-distinctive-features-[[shamanic-entheogenic-ceremonies]] are the large parotoid glands, elongated swellings behind each eye. These glands produce the toxic secretions that deter predators.
 
 The iris is typically copper or golden with horizontal pupils. The ventral surface is pale, often speckled with dark pigments.
 
@@ -54,19 +26,7 @@ Hind limbs are shorter than those of frogs, reflecting the toad's walking and sh
 
 Males are generally smaller than females and develop dark nuptial pads on the inner fingers during the breeding season. Males also produce a characteristic release call when grasped by other males.
 
-The skin is relatively dry and thick compared to that of frogs, an adaptation for [[water-conservation]] in terrestrial habitats. Warts on the skin are accumulations of keratin and glandular tissue, not true growths.
-
-## Distribution and Habitat
-
-The common toad ranges from Ireland and the Iberian Peninsula eastward to Lake Baikal in Siberia. Its northern limit extends to approximately 68°N in Scandinavia.
-
-The species is absent from Ireland (with the exception of an introduced population), southernmost Italy, and many Mediterranean islands. It occurs in a broad altitudinal range from sea level to approximately 2,500 meters.
-
-Common toads inhabit a wide range of terrestrial environments, including deciduous and coniferous forests, meadows, hedgerows, gardens, and rocky areas. They show a strong preference for areas with deep, moist soil suitable for burrowing.
-
-Breeding occurs in permanent water bodies including ponds, lakes, slow-moving rivers, and ditches. Unlike common frogs, toads prefer deeper water with abundant aquatic vegetation for egg-string attachment.
-
-During the active season, toads shelter by day under stones, logs, [[dighton-fungal-decomposition-leaf-litter-dynamics]], or in shallow burrows they excavate themselves. They emerge at dusk to forage.
+The skin is relatively dry and thick compared to that of frogs, an adaptation for dighton-fungal-decomposition-leaf-litter-dynamics, or in shallow burrows they excavate themselves. They emerge at dusk to forage.
 
 Common toads demonstrate strong site fidelity, often returning to the same hibernation sites and breeding ponds year after year. Homing ability over distances of several kilometers has been documented experimentally.
 
@@ -87,3 +47,88 @@ Females lay 3,000–6,000 eggs in two gelatinous strings that may stretch 3–5 
 Tadpoles develop over 8–12 weeks, reaching metamorphosis at approximately 10–12 mm in length. Newly metamorphosed toadlets are small, dark, and highly active.
 
 Common toads hibernate from October to March, typically in frost-free locations underground, in compost heaps, or among tree roots. They may hibernate communally in large aggregations.
+
+## Overview
+
+Bufo Bufo represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bufo bufo
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bufo extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bufo Bufo finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bufo bufo. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bufo bufo and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bufo Bufo has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bufo bufo into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[5-meo-dmt-and-bufo-alvarius]]
+
+## See Also
+- [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]
+- [[metzner-three-features-shamanic-entheogenic-ceremonies]]

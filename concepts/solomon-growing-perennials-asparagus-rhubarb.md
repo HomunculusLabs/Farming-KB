@@ -9,9 +9,7 @@ sources:
 ---
 # Solomon on Asparagus, Rhubarb, and Perennial Herbs
 
-From [[solomon-gardening-when-it-counts-index]]
-- [[complete-organic-fertilizer-recipes]]
-- [[winter-gardening-techniques]]
+From [[complete-organic-fertilizer-recipes]]
 - [[solomon-root-systems-and-spacing-science]]
 - [[solomon-complete-organic-fertilizer-guide]]
 ## Background and Context

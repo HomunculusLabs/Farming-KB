@@ -1,12 +1,12 @@
 ---
-title: Tropical Mulch Systems
+title: [[mollison-tropical-mulch-systems-and-materials]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Tropical Mulch Systems
 
-Tropical mulch systems are foundational to permaculture design in humid and sub-humid tropics, where rapid decomposition, leaching rains, and often nutrient-poor soils demand constant organic matter replenishment. Bill Mollison's *Permaculture: A Designers' Manual* presents mulching not as a simple soil covering technique, but as an integrated system for building humus, modifying soil chemistry, suppressing weeds, and establishing productive food forests on degraded land.
+Tropical mulch systems are foundational to [[permaculture-design]] in humid and sub-humid tropics, where rapid decomposition, leaching rains, and often nutrient-poor soils demand constant organic matter replenishment. [[bill-mollison]]'s *Permaculture: A Designers' Manual* presents mulching not as a simple soil covering technique, but as an integrated system for building humus, modifying soil chemistry, suppressing weeds, and establishing productive food forests on degraded land.
 
 ## Why Mulch Is Critical in the Tropics
 
@@ -30,7 +30,7 @@ Mollison catalogs a wide range of humus sources available in tropical environmen
 Large woody material serves as a long-term humus reservoir. Rather than burning or discarding logs, they can be:
 
 - **Rotted in wet terraces**: Logs placed in taro or rice terraces absorb water and decompose over time, releasing nutrients directly into the growing zone.
-- **Placed cross-slope**: Logs laid across slopes act as both erosion controls and planting sites, trapping organic matter and moisture.
+- **Placed cross-slope**: Logs laid across slopes act as both erosion controls and planting sites, trapping [[savory-soil-organic-matter-and-decomposition-dynamics]] moisture.
 - **Inoculated with fungi**: In Hawaiian tradition, kukui tree (*Aleurites moluccana*) logs were placed in taro terraces where edible fungi colonized the wood. Once decomposed, the logs were crushed and spread as rich humus.
 
 Marjorie Spears demonstrated this approach on deforested slopes by using rejected logs combined with green legume mulch to create "log terraces" that restored soil fertility and prevented erosion on steep land.
@@ -64,7 +64,7 @@ Hedgerows serve a dual purpose as windbreaks, boundary markers, and mulch source
 
 - **Hibiscus** species (fast-growing, copious leaf drop)
 - **Casuarina** (silica-rich, nitrogen-fixing via Frankia symbionts)
-- **Banana grass** (*Pennisetum purpureum* × *Pennisetum glaucum*)
+- **Banana grass** (*Pennisetum purpureum* × *[[pennisetum-glaucum]]*)
 - **Palms** (frond and trunk material)
 - **Gliricidia** (nitrogen-fixing, fast coppicing)
 - **Acacia** and **Prosopis** (hardy leguminous trees)
@@ -78,7 +78,7 @@ Quick-growing herbaceous plants provide readily decomposable green mulch:
 
 ### Leguminous Ground Covers and Mulch Crops
 
-Legumes are essential for nitrogen fixation and biomass production:
+Legumes are essential for [[legume-nitrogen-fixation-and-green-manure]] biomass production:
 
 - **Trees and shrubs**: Sesbania, Gliricidia
 - **Vining and trailing**: Vetch, cowpea, lablab, Siratro, Centrosema
@@ -90,14 +90,14 @@ Mulch is the primary non-chemical strategy for weed control in tropical systems.
 
 - **Thick mulch eradicates Kikuyu grass** (*Cenchrus clandestinus*), one of the most aggressive tropical weeds, by denying it light and physically smothering the rhizomes.
 - **Lemongrass and comfrey** act as living weed barriers, planted as dense edges to block grass invasion into garden zones.
-- **Coconut husks** are used as mulch for vanilla cultivation, though Mollison notes the drawback of mosquito breeding in water-retaining husk fragments.
+- **Coconut husks** are used as mulch for [[vanilla-cultivation-and-orchid-ecology]], though Mollison notes the drawback of mosquito breeding in water-retaining husk fragments.
 
 ## Animal Integration for Mulch Processing
 
 Not all organic waste is suitable for direct application. Difficult or pest-prone materials (large seeds, tough residues, diseased plant matter) can be routed through biological processing:
 
 - **Poultry and cattle pens**: Animals scratch, trample, and digest materials, producing enriched manure.
-- **Pigs**: Particularly valuable for site preparation — pigs root and eliminate nut-grasses (*Cyperus rotundus*), rhizomes, bulbs, and sedges, effectively clearing difficult ground before planting.
+- **Pigs**: Particularly valuable for site preparation — pigs root and eliminate nut-grasses (*[[cyperus-rotundus]]*), rhizomes, bulbs, and sedges, effectively clearing difficult ground before planting.
 - **Biogas digesters**: Convert organic waste to methane fuel and nutrient-rich slurry.
 - **Solar bagging**: Sealed black plastic bags use solar heat to break down tough materials.
 - **Water pit rotting**: Submerging materials in water pits accelerates anaerobic decomposition.
@@ -108,28 +108,16 @@ Mollison references experimental data (Table 10.1) showing differential crop res
 
 | Crop | Best Mulch Response |
 |---|-------------------|
-| Maize | [[legume-nitrogen-fixation-mechanism|Legume]] straws |
-| Legume crops | Grass mulches, sawdust |
-| [[permaculture-plants-comfrey-chop-and-drop|Cassava]] | Legume [[mulching-guide|mulch]], grain husks |
-
-The pattern suggests that crops benefit most from mulch materials that complement their own nutritional profile — cereals gain nitrogen from legume residues, while legumes benefit from the carbon-rich, slower-breaking grass and woody materials.
-
-## Implementation Strategy
-
-[[permaculture-resources-classification|Mollison]]'s recommended approach for establishing mulch-based tropical systems:
+| Maize | [[permaculture-plants-comfrey-chop-and-drop|Cassava]] | Legume [[permaculture-resources-classification|Mollison]]'s recommended approach for establishing mulch-based tropical systems:
 
 1. **Start small**: Begin with a manageable nucleus area rather than attempting large-scale mulching all at once.
 2. **Dense planting**: Plant the nucleus area densely to maximize biomass production and create a self-mulching microclimate.
 3. **Expand at the periphery**: As the nucleus area establishes, gradually extend mulched zones outward from the center.
-4. **Layer diverse materials**: Combine woody material (slow breakdown) with green mulch (fast breakdown) for both immediate and long-term [[soil-ph|soil]] benefits.
-
-## Termite and Ant Mounds as Natural [[green-manure|Humus]] Concentrators
+4. **Layer diverse materials**: Combine woody material (slow breakdown) with green mulch (fast breakdown) for both immediate and long-term [[green-manure|Humus]] Concentrators
 
 In many tropical landscapes, termite and ant mounds represent pre-concentrated pockets of soil fertility. These mounds:
 
-- Assist natural [[nitrogen-fixing-trees-and-shrubs|forest]] spread by establishing vegetation islands in open land
-- Provide elevated calcium, potash, and improved aeration
-- Enable faster [[water-wise-vegetable-gardening|water]] infiltration compared to surrounding soil
+- Assist natural [[water-wise-vegetable-gardening|water]] infiltration compared to surrounding soil
 - Serve as natural "niche gardens" — planting directly into mounds gives crops a fertility head start
 
 Mollison frames mound planting as a form of niche gardening that works with existing natural processes rather than against them.

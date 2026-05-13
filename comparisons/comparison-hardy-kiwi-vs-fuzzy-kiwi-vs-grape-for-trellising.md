@@ -22,7 +22,7 @@ created: 2026-05-03
 
 # Hardy Kiwi vs Fuzzy Kiwi vs Grape for Trellising Systems
 
-Choosing between hardy kiwi (*Actinidia arguta*), fuzzy kiwi (*[[vitis-vinifera]]* / *V. labrusca*) for a trellis-based planting depends on your climate, available space, maintenance capacity, and goals. All three are vigorous deciduous vines requiring strong support, but they differ dramatically in [[coleman-cold-hardiness-testing-ratings]], fruit characteristics, pollination needs, and upkeep demands.
+Choosing between hardy kiwi (*Actinidia arguta*), fuzzy kiwi (*[[coleman-cold-hardiness-testing-ratings]], fruit characteristics, pollination needs, and upkeep demands.
 
 ## Quick Comparison
 
@@ -38,7 +38,7 @@ Choosing between hardy kiwi (*Actinidia arguta*), fuzzy kiwi (*[[vitis-vinifera]
 | Pollination | Dioecious (needs male) | Dioecious (needs male) | Mostly self-fertile |
 | Trellis Strength Required | Heavy-duty | Extra heavy-duty | Moderate to heavy-duty |
 | Yield (mature vine) | 15–45 kg | 25–100 kg | 10–30 kg |
-| Disease Pressure | Moderate (PSA, Botrytis) | High (PSA, Phytophthora) | Moderate-high ([[cervantes-powdery-mildew-prevention-treatment]], [[cervantes-downy-mildew-fungal-blight]], black rot) |
+| Disease Pressure | Moderate (PSA, Botrytis) | High (PSA, Phytophthora) | Moderate-high ([[cervantes-downy-mildew-fungal-blight]], black rot) |
 | Pest Pressure | Moderate (spider mites, Japanese beetles) | Moderate (spider mites, scale) | High (birds, wasps, Japanese beetles, grape berry moth) |
 | Nutritional Value | Very high (vitamin C: 250 mg/100g) | High (vitamin C: 93 mg/100g) | Moderate (vitamin C: 3–18 mg/100g) |
 | Shade Production | Dense canopy | Very dense canopy | Moderate canopy |
@@ -123,23 +123,8 @@ Hardy kiwi commands premium prices at farmers' markets due to novelty, exception
 | Situation | Best Choice |
 |-----------|-------------|
 | Cold climate (Zone 3–5) | Hardy kiwi (*A. arguta*) or Arctic kiwi (*A. kolomikta*) |
-| [[comparison-backyard-food-forest-vs-urban-permaculture]], Zone 6–7 | Hardy kiwi (lower maintenance, higher nutrition) |
-| Large property, Zone 7–8 | Fuzzy kiwi (maximum yield per vine) |
-| Wine production focus | Grape |
-| Lowest maintenance | Hardy kiwi |
-| Highest market value per kg | Hardy kiwi |
-| Shade production needed | Fuzzy kiwi on pergola |
-| Container growing | Grape (most adaptable to dwarfing rootstocks) |
-| Hot climate (Zone 9+) | Grape (muscadine) |
-| Pest-free preference | Hardy kiwi (generally lowest pest pressure) |
-| Multi-use fruit (fresh + wine + dried) | Grape |
+| [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]]
 
-## See Also
-
-- [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]]
-
-- [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
-
-- comparison hardy kiwi vs fuzzy kiwi vs grape for trellising — detailed kiwifruit [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
+- [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
 - comparison hardy kiwi vs fuzzy kiwi vs grape for trellising — alternative trellised fruits
-- [[zone-and-sector-analysis]] — [[mollison-course-zone-planning-and-design]] for trellised crops
+- [[mollison-course-zone-planning-and-design]] for trellised crops

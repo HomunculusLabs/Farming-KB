@@ -8,7 +8,7 @@ tags: [mycology, cultivation, pf-tek, spore-syringe, sterilization, storage]
 
 ## Overview
 
-The [[pf-tek-psilocybe-fanaticus-cultivation-method]] (PF) TEK describes a complete boiling-water sterilization method for [[query-spore-syringes-vs-liquid-culture]] that avoids the need for a [[pf-tek-pressure-canner-sterilization]] or autoclave. This approach makes sterile spore [[mushroom-spore-printing-syringe-preparation-pf-tek]] accessible to home cultivators using only common kitchen equipment. The method covers syringe preparation, sterilization, spore loading, inoculation, and storage practices that together define a full lifecycle management system for fungal inoculant.
+The [[query-spore-syringes-vs-liquid-culture]] that avoids the need for a [[mushroom-spore-printing-syringe-preparation-pf-tek]] accessible to home cultivators using only common kitchen equipment. The method covers syringe preparation, sterilization, spore loading, inoculation, and storage practices that together define a full lifecycle management system for fungal inoculant.
 
 ## Syringe Sterilization Method
 
@@ -22,7 +22,7 @@ The [[pf-tek-psilocybe-fanaticus-cultivation-method]] (PF) TEK describes a compl
 
 ### Boiling Sterilization Procedure
 
-The PF TEK specifies a straightforward boiling-water approach:
+The [[pf-tek]] specifies a straightforward boiling-water approach:
 
 1. **Initial flushing**: Draw boiling water into a syringe and squirt it out several times. This removes manufacturing residues and pre-heats the syringe body.
 
@@ -78,10 +78,7 @@ If the syringe needle plugs during insertion into the substrate, drawing the nee
 
 ## Spore Viability and Degradation Timeline
 
-[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] spores follow a well-documented degradation curve:
-
-- **Fresh spores**: Germination is "massive and quick" when spores are newly harvested
-- **Several months**: Viability remains good with proper [[vegetable-storage-conditions-by-temperature-and-humidity]]
+[[vegetable-storage-conditions-by-temperature-and-humidity]]
 - **Approximately 1.5 years**: Germination becomes "greatly reduced or won't occur at all"
 
 This relatively short viability window underscores the importance of proper storage conditions and timely use of prepared syringes. Germination is most vigorous when spores are fresh from the print.

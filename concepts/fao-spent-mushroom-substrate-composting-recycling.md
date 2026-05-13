@@ -1,29 +1,9 @@
 # Spent Mushroom Substrate Composting and Waste Recycling
 ## FAO Training Manual (2001) — Closed-Loop Waste Management
 
-The FAO's 2001 training manual [[grass-seed-substrate-for-mushroom-cultivation]] by people with disabilities includes
-a comprehensive waste management and recycling program that transforms spent mushroom
-substrate from a disposal problem into a valuable agricultural resource. This closed-loop
-approach is especially important for small-scale producers in rural areas, where waste
-management infrastructure may be limited and every resource has value.
-
-## The Waste Challenge
-
-[[accessible-mushroom-cultivation-for-disabilities]] generates several types of waste:
-- **[[oyster-mushroom-spent-substrate-recycling]] bags**: After the [[mushroom-crop-management-flush-harvesting]] is harvested, substrate bags contain
-  residual mycelium, partially decomposed [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], and plastic packaging
-- **Cotton plugs**: Used to seal bag necks during incubation and fruiting
-- **Plastic neck rings and elastics**: Bag closure components
-- **Contaminated bags**: Bags that failed due to mold, bacteria, or other contamination
-- **General organic waste**: Trimmed mushroom stems, aborted pins, and other organic debris
-
-## Step 1: Waste Collection and Separation
-
-All waste must be systematically collected and separated by type:
-
-### Plastic Waste
-- Plastic bags should NOT be burned in open air — this creates toxic fumes
-- Plastic waste should be collected separately and sent to municipal [[fungal-distillery-waste-treatment]]
+The FAO's 2001 training manual [[accessible-mushroom-cultivation-for-disabilities]] generates several types of waste:
+- **[[mushroom-crop-management-flush-harvesting]] is harvested, substrate bags contain
+  residual mycelium, partially decomposed [[fungal-distillery-waste-treatment]]
   facilities for proper disposal
 - Where municipal collection is unavailable, plastic should be stored safely until
   disposal options become available
@@ -86,8 +66,7 @@ and potassium.
 The compost produced from spent mushroom substrate has multiple valuable applications:
 
 ### Garden and Agricultural Use
-- Excellent soil amendment [[soil-ph-management-for-vegetable-gardens]]
-- Improves soil structure, water retention, and [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]]
+- Excellent soil amendment [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]]
 
 ## Practical Applications
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spent-mushroom-substrate]]
 - [[composting]]
-- [[doc]]
 - [[mycelium]]
 - [[oyster-mushroom-spent-substrate-recycling]]

@@ -19,34 +19,7 @@ gathering supplies to celebrating your first batch. You've got this!
 
 ## 1. What Is Koji and Why Should I Make It at Home?
 **Koji** is cooked grain (usually rice or barley) inoculated with *Aspergillus oryzae*,
-a beneficial mold that produces powerful enzymes. These enzymes [[query-can-fungi-break-down-plastic-pollution]] starches into
-sugars and proteins into amino acids — the foundation of umami in Japanese cuisine.
-Making koji at home gives you deeper flavor in miso, soy sauce, and amazake; cost savings
-versus buying pre-made; creative control over strain and grain; and a connection to over
-2,000 years of culinary tradition.
-
-## 2. What Equipment Do I Need to Get Started?
-You don't need a professional setup. A beginner-friendly kit includes:
-- **Fine-mesh or bamboo steamer** — even steaming without waterlogging
-- **Instant-read thermometer** — for grain and incubation temps
-- **Shallow tray (~2–3 cm deep)** — wooden or food-safe plastic for incubation
-- **Clean damp cloth or paper towels** — covering tray during incubation
-- **Spray bottle with clean water** — rehydrating grains during incubation
-- **70% isopropyl alcohol** — sanitizing all surfaces and tools
-Optional but helpful: a seedling heat mat with thermostat (e.g., Inkbird) to hold steady
-temperatures.
-
-## 3. Where Do I Get Koji Spores (Koji-Kin)?
-Koji spores (**koji-kin**, 麹菌) are sold as a fine powder from online specialty shops
-(Cultures for Health, GEM Cultures), Etsy sellers, and some Japanese grocery stores.
-Look for fresh stock and check expiration dates. Store in the freezer in an airtight
-container (lasts 6–12 months). Let it reach room temperature before opening to avoid
-condensation inside the packet.
-
-## 4. What's the Best Grain to Start With?
-**Short-grain white rice (Japonica)** — sushi rice or Calrose — is the best first grain:
-predictable, easy to find, and forgiving. Avoid jasmine, basmatin, or long-grain varieties
-(they don't hold moisture well). Once comfortable, try pearl barley or [[cho-brown-rice-vinegar-preparation]] for
+a beneficial mold that produces powerful enzymes. These enzymes [[cho-brown-rice-vinegar-preparation]] for
 different enzyme profiles. Start with 300–500 g of dry rice for your first batch.
 
 ## 5. How Do I Prepare and Steam the Rice?
@@ -60,7 +33,7 @@ poor koji growth.
 
 ## 6. How Do I Inoculate and Incubate the Rice?
 1. **Cool** steamed rice to 35°C (95°F) — hotter will kill the spores
-2. **Sanitize** hands and tools with 70% isopropyl alcohol
+2. **Sanitize** hands and tools with 70% [[isopropyl-alcohol]]
 3. **Dust** koji-kin evenly over the rice (~1 g per 1 kg dry rice — a small pinch).
    Toss gently to distribute
 4. **Transfer** to your incubation tray in a layer about 2–3 cm thick
@@ -139,8 +112,7 @@ Happy fermenting! 🍚✨
 
 ## See Also
 
-- fermented foods and beverages
-- [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]]
+- [[fermented-foods-and-beverages]]
 - [[query-how-to-make-herbal-infused-oils-at-home]]
 
 - [[aspergillus-oryzae]]

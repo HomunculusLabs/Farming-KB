@@ -49,26 +49,7 @@ climatology.
 - The system uses vegetation patterns as proxy indicators for climatic
   boundaries, recognizing that plant distributions reflect long-term climatic
   averages.
-- His work directly influenced [[permaculture-design]] by providing the primary
-  framework for **selecting species and technologies appropriate to specific
-  sites**.
-- Köppen also contributed to paleoclimatology, studying the relationship
-  between climate and geological epochs.
-
-## The Köppen System in Practice
-
-The five major climate groups:
-
-- **A (Tropical)**: No month under 18°C (64°F) mean temperature
-- **B (Arid)**: Mean rainfall 50 cm (19.5 inches) or less; desert below 25 cm
-- **C (Temperate)**: Coldest month above 0°C (32°F), warmest above 10°C (50°F)
-- **D (Continental)**: Coldest month below 0°C (32°F), warmest above 10°C (50°F)
-- **E (Polar)**: Warmest month below 10°C (50°F) or perpetual frost
-
-## Relevance to Cultivation and Permaculture
-
-Mollison cites Köppen's classification as the basis for understanding broad
-climatic zones that determine plant and animal assemblies. In [[permaculture]]:
+- His work directly influenced [[permaculture]]:
 
 - **Site selection**: Köppen zones help designers understand what species and
   techniques are viable in a given location.
@@ -94,4 +75,9 @@ Classification map (Trewartha 1954 version).
 - Hardiness Zones — simplified temperature-based system
 
 ## See Also
-- [[mollison-open-living-systems-and-design-principles]]
+
+- [[koppen-climate-classification]]
+- [[mollison-designers-glasshouse-protected-cropping]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[terminalia-mollison]]
+- [[mollison-designers-bamboo-treatment-preservation]]

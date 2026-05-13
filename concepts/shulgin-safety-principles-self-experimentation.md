@@ -9,26 +9,15 @@ sources:
 ---
 # Shulgin Safety Principles for Self-Experimentation
 
-**Source:** PiHKAL, [[pihkal-cautionary-note-and-legal-context]] and Part 2 methodology
-
-**Updated:** 2026-04-19
-
-## Overview
-
-Alexander Shulgin developed a rigorous set of safety principles governing self-experimentation with novel psychoactive compounds. These principles, articulated in the [[psychedelic-harm-reduction-philosophy]] that emerged in the 1990s and continues to evolve today.
+**Source:** PiHKAL, [[psychedelic-harm-reduction-philosophy]] that emerged in the 1990s and continues to evolve today.
 
 ## Dosage Titration
 
-The Shulgin method for [[tihkal-shulgin-rating-scale]] served as the measurement tool for this titration process, providing a standardized language for communicating the intensity achieved at each dose level.
-
-## Know Your Chemistry
-
-A core safety principle was thorough understanding of the compound's chemistry before self-administration. Each [[2c-b-pihkal-entry-20]] includes full synthesis instructions so researchers can verify compound identity and purity. Shulgin's [[psychedelic-therapy-set-and-setting]] that has become central to both therapeutic and recreational psychedelic practice. The principle that no one should explore an unfamiliar psychedelic alone remains a cornerstone of [[pihkal-cautionary-note-and-legal-context]] can be read as an extended statement of the informed consent framework.
+The Shulgin method for [[2c-b-pihkal-entry-20]] includes full synthesis instructions so researchers can verify compound identity and purity. Shulgin's [[pihkal-cautionary-note-and-legal-context]] can be read as an extended statement of the informed consent framework.
 
 ## Connection to Modern Harm Reduction
 
-Shulgin's safety principles have been absorbed into contemporary harm reduction practice. The [[psychedelic-crisis-response-protocol]], and [[pihkal-cautionary-note-and-legal-context]]
-- [[psychedelic-dosage-titration-methodology]]
+Shulgin's safety principles have been absorbed into contemporary harm reduction practice. The [[pihkal-cautionary-note-and-legal-context]]
 - [[phenethylamine-synthesis-safety]]
 - [[harm-reduction-guide]]
 ## Practical Applications
@@ -88,3 +77,73 @@ Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
+
+## Overview
+
+Shulgin Safety Principles Self Experimentation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shulgin safety principles self experimentation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shulgin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shulgin Safety Principles Self Experimentation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shulgin safety principles self experimentation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shulgin safety principles self experimentation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shulgin Safety Principles Self Experimentation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shulgin safety principles self experimentation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

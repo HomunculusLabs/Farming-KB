@@ -59,10 +59,7 @@ subject to widespread stereotyping even among those who consciously
 oppose racial inequality.
 
 Racial bias, particularly when suppressed, creates a constant state of
-[[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] where blame and perceived injustice are common
-responses, adding to both social dysfunction and physiological stress.
-
-Chronic activation of [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]] from navigating biased
+[[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]] from navigating biased
 environments contributes to well-documented health disparities in
 marginalized populations.
 
@@ -90,41 +87,7 @@ observe triggers and bring patterns to awareness, working with one at a
 time. (2) Own the bias by giving it emotional dimensions — what is it
 
 ## See Also
-- [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]
 - [[neurotropic-fungi-mycologist-distribution-bias]]
-- [[brix-testing-plant-health-indicator-ingham]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[doc]]
-- [[query-what-is-humus-and-why-is-it-important-for-soil-health]]
 - [[cattle-health-and-production]]
-- [[medicinal-mushroom-compounds-and-health-benefits]]
 - [[bloomfield-lycoperdonosis-and-fungal-respiratory-health]]

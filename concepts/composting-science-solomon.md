@@ -11,62 +11,10 @@ sources: ["raw/papers/gardening-when-it-counts-steve-solomon.md"]
 
 Updated: 2026-04-18
 
-Source: Gardening When It Counts, [[steve-solomon]], Chapter 7
-
-Solomon presents composting as a skilled activity, not a simple dumping process. He distinguishes between the many methods and explains the science behind why some approaches work and others fail to produce effective fertilizer.
-
-## Why Compost?
-
-Composting allows small-scale food growers to manufacture their own fertilizer — a complete alternative to purchasing soil amendments. When Solomon wrote in 2005, his annual amendment cost was about $300, producing roughly $4,000 worth of vegetables. With composting and only about $20 in lime, nearly the same results could be achieved.
-
-## The Carbon-Nitrogen Ratio (C:N)
-
-This is the single most important concept in composting.
-
-Soil humus has a C:N of approximately 12:1 in every climate. When you amend soil with organic material:
-
-**If C:N is higher than 12:1** (high-carbon materials like straw, sawdust, dry leaves):
-- Soil microbes "burn" the excess carbon for fuel
-- They preserve nitrogen by assimilating it into their bodies
-- Plant nutrients are temporarily withheld from plants (microbial immobilization)
-- Eventually, when decomposition is complete, humus increases and nutrients are released
-- Net result: healthier soil, better tilth, increased fertility — but delayed
-
-**If C:N is lower than 12:1** (nitrogen-rich materials like fresh manure, seedmeals):
-- Surplus nitrogen is converted to ammonia gas by bacteria
-- Ammonia is quickly converted to water-soluble nitrates (fast fertilizer)
-- Higher nitrate levels encourage microbial growth, which attacks existing humus
-- Net result: immediate plant growth, but soil humus decreases, tilth degrades
-
-This is the same mechanism by which [[cervantes-chemical-fertilizers-guide]] degrade soil [[hamilton-composting-and-organic-matter-management]].
-
-**Key insight**: The result is the same whether the low-C:N material is "organic" or chemical. Adding any material with C:N below 12:1 reduces soil humus over time.
-
-## C:N Reference Values
-
-From low to high:
-- Seedmeals, blood meal: ~5-8:1
-- Fresh manure (poultry, rabbit): ~6-10:1
-- Fresh grass clippings (summer): ~15-25:1
-- Legume hulls, autumn grass: ~30-50:1
-- Seaweed, straw (cereal): ~50-80:1
-- Cornstalks (dry), tree leaves: ~60-100:1
-- Sawdust: ~400-500:1
-
-## Mulch Gardening
-
-Solomon's assessment of [[solomon-permanent-mulching-critique-limitations]] (the Ruth Stout method) is cautiously negative:
+Source: Gardening When It Counts, [[cervantes-chemical-fertilizers-guide]] degrade soil [[solomon-permanent-mulching-critique-limitations]] (the Ruth Stout method) is cautiously negative:
 
 Problems with permanent mulching:
-- Mulch tangles the hoe and fails to completely [[query-how-do-cover-crops-suppress-weeds]]
-- If mulching with cheap materials (spoiled hay), you'll be importing weed seeds
-- Gardens are slow to warm in spring under thick mulch
-- Long-term mulching disrupts soil nutrient ratios
-- In mild-winter climates, mulched gardens become home to plague levels of small animals that eat seedlings
-- Maintaining the mulch layer requires enormous amounts of bulk material
-
-Where mulch gardening works:
-- Climates where soil freezes solid in winter (kills [[query-how-do-parasitoid-wasps-control-pest-populations]])
+- Mulch tangles the hoe and fails to completely [[query-how-do-parasitoid-wasps-control-pest-populations]])
 - Where summer heat is sufficient to decompose mulch rapidly
 - For physically restricted gardeners who cannot dig
 
@@ -74,16 +22,7 @@ Solomon's preference: heap-compost enough material to maintain soil humus, then 
 
 ## Sheet Composting
 
-[[sheet-composting]] means spreading nutrient-rich organic material on the soil surface and digging it in. It works faster than surface mulching because decomposition proceeds more rapidly in well-oxygenated soil.
-
-Key considerations:
-- Time required depends on: layer thickness, C:N of material, soil fertility, and time until planting
-- In warm climates, about 6 weeks for decomposition of materials with C:N under 30:1
-- In cold-winter climates, autumn sheet composting may not finish by spring planting time
-- Fresh manure must be incorporated immediately in hot weather — spreading manure on hot ground in sun and wind can lose 25% of nutritional value by sundown
-
-Cautions:
-- Don't sheet-compost with high C:N woody materials in autumn on beds intended for [[coleman-overwintered-onions-and-early-spring-crops]] crops — decomposition won't finish in time
+[[coleman-overwintered-onions-and-early-spring-crops]] crops — decomposition won't finish in time
 - Poultry and rabbit manure are too strong (low C:N) for sheet composting — use as fertilizer instead
 - In high-rainfall regions, add lime (50 lbs per 1,000 sq ft) each time you sheet-compost
 
@@ -118,8 +57,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sheet-composting]]
 - [[composting]]
-- [[decomposition]]
 - [[solomon-seed-germination-science-laboratory-methods]]
 - [[lowenfels-composting-science-microbiology]]
+
+## Overview
+
+Composting Science Solomon represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish composting science solomon
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving composting extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Composting Science Solomon finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for composting science solomon. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+composting science solomon and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Composting Science Solomon has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of composting science solomon into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-biochar-vs-composting-soil-amendment]]
+- [[comparison-black-soldier-fly-composting-vs-bokashi]]
+- [[comparison-bokashi-vs-hot-composting-method]]
+- [[jeavons-root-systems-below-ground-composting]]
+- [[permaculture-composting]]

@@ -18,58 +18,7 @@ The Campa Indians of eastern Peru use ayahuasca in a ceremony that may illuminat
 
 The Campa call the brew **kamdrampi**, meaning "to vomit," reflecting its extremely bitter and sometimes emetic qualities. It is prepared by boiling:
 - Fragments of ayahuasca vine (also called *kamdrampi*), found wild and transplanted near settlements
-- Leaves of an uncultivated tree called *horeva* (*[[chacruna-psychotria-viridis]]*)
-
-## The Ceremony
-
-At nightfall, participants convene sitting or lying on mats in the settlement clearing or under a house roof, women separated from men:
-
-1. The **shaman** is the center of attention, with the vessel of kamdrampi beside him
-2. Using a small gourd bowl, he drinks first, then gives each participant a drink -- repeated at intervals
-3. About half an hour later, the drug takes effect and the shaman begins to sing
-4. He sings one song after another as long as he is under the influence; the seance may last until dawn
-
-## Distinctive Qualities
-
-The shaman's singing has an **eerie, distant quality of voice**. His jaw may quiver, he may cause his clothing to vibrate. The understanding is that:
-- **Good spirits** have come to visit the group in human form, festively attired
-- They sing and dance before the assembled mortals, but **only the shaman perceives them clearly**
-- When the shaman sings, he is **only repeating what he hears the spirits sing** -- he sings along with them
-- At no time is he **possessed** by a spirit, since Campa culture does not include spirit-possession belief
-
-The shaman's **soul may go on a flight** to some distant place during the ceremony, returning later. This is an optional, personal experience.
-
-## The Ambivalence: Shamanism or Priesthood?
-
-The entire atmosphere is one of **decorum without frenzy**, even though the shaman is in a drugged trance. The ceremony presents:
-- A **shamanistic performance**: spirits communicate through the shaman to spectators
-- Simultaneously, acts of **worship**: the shaman reverently makes contact with good spirits and praises them in song
-
-This ambivalence creates an **optical illusion** -- the same behavior looks like a seance one moment and like worship the next.
-
-### A Local Variation
-
-In one part of Campa territory:
-- Men take **turns singing**; the shaman remains director but is no longer the only virtuoso
-- Men and women separately and together **dance and sing in praise** of the good spirits
-- The arrow of communication is **unambiguously from mortals to immortals** -- adoration
-
-## Theoretical Implications
-
-Weiss proposes that the Campa ceremony may reveal the **behavioral link between generalized shamans and specialized priests**:
-
-1. The total range of shamanistic phenomena includes a special variant with ambivalent features
-2. A slight shift in how participants interpret what they are doing could transform an essentially shamanistic seance into priestly ritual
-3. This could have permitted the historical transition from shamanism to priesthood
-
-The proximity to the former Incan empire (with its full-blown priesthood) and three centuries of missionary activity may also have infused the Campa ceremony with priestly qualities. However, the possibility that such transitions could occur independently deserves consideration.
-
-Wasson (1968) suggested for India that some relatively innocuous "blessed sacraments" of contemporary religions may have originally been hallucinogens. Direct revelations, even restricted to an elite few, are bound to conflict with orthodox dogma -- which may explain why such substances tend to eventually be forbidden by state religions.
-
-## See Also
-
-- [[hallucinogens-and-shamanism-harner-anthology]]
-- [[harner-shamanic-journey-and-altered-states]]
+- Leaves of an uncultivated tree called *horeva* (*[[hallucinogens-and-shamanism-harner-anthology]]
 - [[psychedelic-spirituality-and-religion]]
 ## Practical Considerations
 
@@ -119,8 +68,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[campa-ayahuasca-ceremony]]
 - [[ayahuasca-ceremony]]
-- [[ayahuasca]]
 - [[shamanism]]
 - [[harner-amazonian-ayahuasca-shamanism]]
+
+## Overview
+
+Harner Campa Ayahuasca Ceremony represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish harner campa ayahuasca ceremony
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving harner extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Harner Campa Ayahuasca Ceremony finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for harner campa ayahuasca ceremony. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+harner campa ayahuasca ceremony and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Harner Campa Ayahuasca Ceremony has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of harner campa ayahuasca ceremony into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

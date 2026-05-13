@@ -106,15 +106,9 @@ The species is not considered threatened and has a conservation status of **Not 
 
 ## See Also
 
-- [[dicksonia-antarctica]]
 - [[cyathea-cooperi]]
-- [[cyathea-dealbata]]
 - [[blechnum-spicant]]
-- [[pteridium-aquilinum]]
 - [[polystichum-munitum]]
-- [[dryopteris-filix-mas]]
 - [[asplenium-trichomanes]]
-- [[adiantum-pedatum]]
 - [[osmunda-regalis]]
-- [[dryopteris-erythrosora]]
 - [[cryptogramma-crispa]]

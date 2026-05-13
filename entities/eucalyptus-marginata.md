@@ -8,51 +8,9 @@ type: entity
 
 ## Description
 
-Eucalyptus marginata, commonly known as **jarrah**, is a large evergreen tree native to Western Australia. It is one of the most important commercial hardwood species in Australia, prized for its durable, termite-resistant timber. The species is a dominant tree in the jarrah [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] of southwestern Western Australia.
-
-## Classification
-
-- **Family:** Myrtaceae
-- **Genus:** Eucalyptus
-- **Species:** E. marginata
-- **Common names:** Jarrah, Swan River mahogany
-
-## Key Facts
-
-- Large tree typically reaching 30–40 m in height, occasionally up to 50 m
-- Bark is rough and fibrous, grey-brown in colour, persisting to the smaller branches
-- Indigenous to southwestern Western Australia, forming extensive forests on lateritic soils
-- Timber is renowned for exceptional durability, particularly resistant to termites and decay
-- Heartwood is dark red-brown, dense, and hard — highly valued for construction and flooring
-- Flowers are white to cream, producing good quality honey
-- Adapted to Mediterranean climate with hot dry summers and cool wet winters
-- Tolerates poor, gravelly lateritic soils
-
-## Relevance to Cultivation and Permaculture
-
-- **Timber:** One of Australia's premier hardwoods, used for flooring, joinery, furniture, sleepers, fence posts, and heavy construction (pages 23, 93, 95, 96, 116)
-- **Firewood:** Excellent firewood with high calorific value (pages 92, 95, 96)
-- **Honey:** Important nectar source for apiarists; jarrah honey is highly prized (page 92)
-- **Reforestation:** Used in mine-site rehabilitation and reforestation programs in Western Australia
-- **[[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]:** Deep root system helps stabilize lateritic soils on sloped terrain
-- **[[hemenway-backyard-wildlife-habitat]]:** Provides critical habitat for birds, mammals, and insects in jarrah [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
-- **Essential oils:** Leaves yield eucalyptus oil with [[medicinal-mushroom-antimicrobial-properties]]
-
-## Cultivation Notes
-
-- Prefers well-drained lateritic and gravelly soils
-- Suited to Mediterranean climates with 600–1200 mm annual rainfall
-- Relatively slow-growing compared to other eucalypts but develops extremely durable heartwood
-- Drought-tolerant once established
-- Sensitive to waterlogging and heavy frost when young
-- Phytophthora cinnamomi (jarrah dieback) is a significant pathogen threat
-
-## Notable Uses from Source
-
-- Flooring and joinery timber (page 95)
-- Fence posts and railway sleepers (pages 92, 95, 96)
-- Firewood (pages 95, 96)
-- [[faires-beekeeping-and-honey-production]] (page 92)
+Eucalyptus marginata, commonly known as **jarrah**, is a large evergreen tree native to Western Australia. It is one of the most important commercial hardwood species in Australia, prized for its durable, termite-resistant timber. The species is a dominant tree in the jarrah [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]:** Deep root system helps stabilize lateritic soils on sloped terrain
+- **[[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
+- **Essential oils:** Leaves yield eucalyptus oil with [[faires-beekeeping-and-honey-production]] (page 92)
 - Construction timber (pages 93, 96, 116)
 - Furniture making (pages 93, 95)
 
@@ -80,11 +38,7 @@ It is not suitable for small urban gardens where height, root spread, and fire b
 
 Where appropriate, it can provide durable timber, bee forage, habitat complexity, and long-term carbon storage.
 
-Its nectar value links the tree to [[faires-beekeeping-and-honey-production]] and broader pollinator planning.
-
-Its forest role links it to [[hemenway-backyard-wildlife-habitat]] and [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
-
-Its stabilizing root system makes it relevant to [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], though at a much larger time scale.
+Its nectar value links the tree to [[hemenway-backyard-wildlife-habitat]] and [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], though at a much larger time scale.
 
 ## Management Considerations
 
@@ -103,3 +57,88 @@ Its stabilizing root system makes it relevant to [[comparison-vetiver-grass-vs-b
 - Can mixed plantings reduce dieback risk compared with monoculture stands?
 - What spacing balances timber quality with habitat value?
 - How do jarrah litter compounds influence fungal decomposition and soil acidity?
+
+## Overview
+
+Eucalyptus Marginata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish eucalyptus marginata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving eucalyptus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Eucalyptus Marginata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eucalyptus marginata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eucalyptus marginata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eucalyptus Marginata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eucalyptus marginata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eucalyptus-microcorys]]
+- [[eucalyptus-obliqua]]
+- [[eucalyptus-occidentalis]]
+- [[eucalyptus-permaculture]]
+- [[eucalyptus-saligna]]

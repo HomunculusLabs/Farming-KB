@@ -11,19 +11,13 @@ type: entity
 # Psilocybe yungensis
 
 **Type:** Species (Fungus)
-**Category:** [[psilocin]] content.
-
-## Relevance
-Psilocybe yungensis is notable for its association with coffee
-plantations, where it may benefit from the disturbed, enriched soils
-and [[fungal-succession-woody-debris-ecology]] typical of these environments. The common names
+**Category:** [[fungal-succession-woody-debris-ecology]] typical of these environments. The common names
 "divinatory mushroom" and "genius mushroom" suggest a history of
 traditional or ceremonial use, though documentation is limited. Its
 distinctive persistently conic cap shape and prolific fruiting on
 decomposing wood make it recognizable in the field.
 
 ## See Also
-- [[psilocybe-zapotecorum]]
 - [[psilocybe-samuiensis]]
 ## Practical Applications
 

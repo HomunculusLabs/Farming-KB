@@ -17,37 +17,7 @@ southern India. It is the source of the world's most prized cinnamon
 bark, traded as a luxury spice for over 4,000 years. Unlike the more
 commonly available cassia cinnamon (C. cassia), true cinnamon contains
 only trace amounts of coumarin, making it significantly safer for
-regular consumption. The bark, leaves, and [[permaculture-designers-manual-essential-oil-plants]] contain
-[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] — particularly cinnamaldehyde, [[eugenol]], and
-proanthocyanidins — with well-documented antimicrobial, anti-
-inflammatory, antioxidant, and blood sugar-regulating properties.
-
-## Taxonomy and Naming
-
-- **Kingdom:** Plantae | **Division:** Magnoliophyta
-- **Class:** Magnoliopsida | **Order:** Laurales
-- **Family:** Lauraceae | **Genus:** Cinnamomum
-- **Species:** C. verum J. Presl (1825)
-- **Synonyms:** Cinnamomum zeylanicum Blume; Laurus cinnamomum L.
-- **Common names:** true cinnamon, Ceylon cinnamon, real cinnamon
-
-The synonym C. zeylanicum (from Arabic "Zeylan" for Sri Lanka) remains
-widely used in older literature. Sri Lanka accounts for ~80% of global
-true cinnamon supply.
-
-## Description
-
-| Feature | Description |
-|---------|-------------|
-| Habit | Medium-sized evergreen tree, 10–15 m tall |
-| Trunk | Slender, 30–60 cm diameter, smooth greyish bark |
-| Inner bark | The commercial cinnamon — thin, papery, pale brown |
-| Leaves | Oval to elliptic, 7–18 × 3–7 cm, leathery, glossy green |
-| Leaf venation | Prominent 3–5 veined pattern |
-| Leaf odor | Strongly aromatic when crushed |
-| Flowers | Small, pale yellow-green, in axillary panicles, ~3 mm |
-| Fruit | Dark purple drupe, 1–1.5 cm, ovoid |
-| Seed | [[cervantes-selfing-single-seed-descent]] per fruit |
+regular consumption. The bark, leaves, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] — particularly cinnamaldehyde, [[cervantes-selfing-single-seed-descent]] per fruit |
 
 ### Distinguishing from Cassia Cinnamon
 
@@ -71,19 +41,93 @@ true cinnamon supply.
   2000–2500 mm annual rainfall.
 - **Temperature:** Optimal at 25–30°C; sensitive to frost and drought.
 - **Ecology:** Understory tree. Seeds dispersed by birds. Aromatic bark
-  may deter herbivores and [[bloomfield-fungal-pathogens-and-parasites]].
-
-## Chemistry and Active Compounds
-
-### Essential Oil Composition
-
-| Compound | Percentage | Primary Activity |
-|----------|-----------|-----------------|
-| (E)-Cinnamaldehyde | 60–75% | Antimicrobial, anti-inflammatory |
-| Eugenol | 5–10% | Anesthetic, antioxidant, antifungal |
-| [[linalool]] | 2–5% | Calming, anxiolytic, antimicrobial |
+  may deter herbivores and [[linalool]] | 2–5% | Calming, anxiolytic, antimicrobial |
 | β-Caryophyllene | 2–4% | Anti-inflammatory, CB2 agonist |
 | α-Pinene | 1–3% | Bronchodilatory, antimicrobial |
 | [[limonene]] | 1–2% | Antioxidant, gastric protective |
 
 ### Non-Volatile Compounds
+
+## Overview
+
+Cinnamomum Verum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cinnamomum verum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cinnamomum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cinnamomum Verum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cinnamomum verum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cinnamomum verum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cinnamomum Verum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cinnamomum verum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cinnamomum-camphora]]
+- [[cinnamomum-cassia]]
+- [[cinnamomum-tamala]]
+- [[illicium-verum]]

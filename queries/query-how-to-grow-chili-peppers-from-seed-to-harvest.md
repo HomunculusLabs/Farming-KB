@@ -44,64 +44,7 @@ Most home gardeners grow *C. annuum* varieties (jalapeños, bells, poblanos) bec
 
 ### Timing
 
-Chili peppers need a long [[savory-growing-season-and-non-growing-season-management]]. Start seeds **6–10 weeks before your last expected frost date**. For most temperate climates, this means sowing indoors in late winter to early spring (February–March in the Northern Hemisphere). Hotter varieties (*C. chinense*, *C. pubescens*) benefit from the longer end of this range.
-
-### Seed Viability
-
-Pepper seeds remain viable for 2–4 years when stored cool and dry. Test older seeds by placing 10 on a damp paper towel in a plastic bag; keep at 25–28°C and check germination after 7–10 days. Anything above 70% germination is usable.
-
-### Germination Requirements
-
-Pepper seeds need specific conditions to germinate reliably:
-- **Temperature**: 26–32°C (80–90°F) is optimal. Below 20°C, germination slows dramatically or stops entirely
-- **Moisture**: Consistently moist but not waterlogged
-- **Time**: 7–21 days depending on variety and conditions
-- **Light**: Not needed for germination (but provide light immediately after sprouting)
-Peppers are warmth-loving plants:
-- **Optimal growth**: 21–30°C during the day, 16–21°C at night
-- **Minimum**: Growth stops below 12°C; plants are damaged or killed by frost
-- **Maximum**: Pollination fails above 35°C; flowers may drop without setting fruit
-- **Heat units**: Most varieties need 1,500–3,000 growing degree days (base 10°C) to mature
-
-### Soil
-
-Peppers prefer well-drained, loamy soil with:
-- **pH**: 6.0–6.8 (slightly acidic)
-- **Organic matter**: 3–5% compost worked in before planting
-- **Drainage**: Critical — peppers in waterlogged soil develop root rot quickly
-- **Raised beds**: Highly recommended in heavy clay soils
-
-### Sunlight
-
-Full sun: **6–8+ hours** of direct sunlight per day. In very hot climates (above 35°C), peppers benefit from afternoon shade or shade cloth (30%) to prevent flower drop.
-
-### Spacing
-
-| Type | Row Spacing | In-Row Spacing |
-|------|------------|----------------|
-| Small-fruited (jalapeño, serrano) | 45–60 cm | 30–40 cm |
-| Medium-fruited (poblano, Anaheim) | 60–75 cm | 40–50 cm |
-| Large-fruited (bell) | 60–90 cm | 45–60 cm |
-| Large plants (habanero, rocoto) | 75–90 cm | 50–60 cm |
-
-## Planting and Care
-
-### Transplanting
-
-Transplant seedlings into the garden **2–3 weeks after the last frost date**, when soil temperatures have warmed to at least 18°C. Plant slightly deeper than they were in their pots — peppers will develop additional roots along the buried stem.
-
-### Watering
-
-Consistent moisture is key. Peppers are sensitive to both drought and overwatering:
-- **Frequency**: Water deeply 1–2 times per week rather than frequent shallow watering
-- **Amount**: 2.5–4 cm per week from rain + irrigation
-- **Flowering/fruiting**: Even more critical to maintain consistent moisture; fluctuations cause blossom-end rot and flower drop
-- **Mulch**: Apply 5–8 cm of organic mulch (straw, shredded leaves) to retain moisture and suppress weeds. Keep mulch 5 cm away from stems
-
-### Fertilizing
-
-Peppers are moderate to heavy feeders:
-- **At planting**: Mix in 2–4 liters of compost per square meter; optionally add a balanced [[complete-organic-fertilizer-cof-recipe-solomon]] (4-4-4 or 5-5-5)
+Chili peppers need a long [[complete-organic-fertilizer-cof-recipe-solomon]] (4-4-4 or 5-5-5)
 - **Early growth** (first 4 weeks): Side-dress with nitrogen if growth is slow (fish emulsion, blood meal, or compost tea)
 - **Flowering and fruiting**: Shift to higher-phosphorus and potassium (bone meal, kelp meal, or a 2-5-5 blend) to support fruit production
 - **Avoid excess nitrogen**: Produces lush foliage at the expense of fruit; can also delay maturity
@@ -120,10 +63,8 @@ Peppers are moderate to heavy feeders:
 | Pest | Identification | Control |
 |------|---------------|---------|
 | **Aphids** | Green/black clusters on new growth, curled leaves | Insecticidal soap, ladybugs, neem oil |
-| **Spider mites** | Tiny dots on undersides of leaves, fine webbing | Increase humidity, spray with water, [[comparison-predatory-mites-vs-ladybugs-biocontrol]] |
-| **Flea beetles** | Tiny shot-hole damage on leaves, especially on seedlings | Floating row covers, [[query-how-to-use-diatomaceous-earth-in-the-garden]] |
-| **Pepper weevil** | Larvae in fruit; small holes with frass | Remove affected fruit, [[ingham-beneficial-nematodes-soil-food-web]] |
-| **Hornworms** | Large green caterpillars stripping leaves | Hand-pick; [[cervantes-bacillus-thuringiensis-bt-control]] (Bt) |
+| **Spider mites** | Tiny dots on undersides of leaves, fine webbing | Increase humidity, spray with water, [[query-how-to-use-diatomaceous-earth-in-the-garden]] |
+| **Pepper weevil** | Larvae in fruit; small holes with frass | Remove affected fruit, [[cervantes-bacillus-thuringiensis-bt-control]] (Bt) |
 
 ### Diseases
 
@@ -141,8 +82,5 @@ Peppers are moderate to heavy feeders:
 - **Sunscald**: Pale, papery patches on fruit exposed to direct sun after leaf loss. Provide adequate foliage cover or shade cloth
 ## See Also
 
-- [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]]
-
 - [[holzer-raised-bed-techniques-hugelkultur]]
-- [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]
 - [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]

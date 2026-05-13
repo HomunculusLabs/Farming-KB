@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Accurate leveling is essential in permaculture earthworks to ensure that spillways function correctly, drains flow at the right gradient, dam walls are level, and house sites are properly prepared. While professional surveyors use sophisticated instruments, many simple, handmade tools can achieve excellent results for on-farm and residential earthworks. Levels are taken to ensure that water flows where intended, structures are stable, and earthworks perform their designed functions.
+Accurate leveling is essential in [[permaculture-earthworks]] to ensure that spillways function correctly, drains flow at the right gradient, dam walls are level, and house sites are properly prepared. While professional surveyors use sophisticated instruments, many simple, handmade tools can achieve excellent results for on-farm and residential earthworks. Levels are taken to ensure that water flows where intended, structures are stable, and earthworks perform their designed functions.
 
 ## The Fundamental Principle
 
@@ -16,7 +16,7 @@ The most ancient and still reliable leveling reference is the **surface of water
 
 ## The Hose (Bunyip) Level
 
-The hose level, known as the "Bunyip" level in Australia, is one of the most practical and versatile surveying tools available to farmers and homeowners. It can survey many meters or even kilometers of diversion drain, level a house site from corner to corner, or set a wall or spillway at a predetermined level.
+The hose level, known as the "Bunyip" level in Australia, is one of the most practical and versatile surveying tools available to farmers and homeowners. It can survey many meters or even kilometers of [[diversion-drain-mollison]], level a house site from corner to corner, or set a wall or spillway at a predetermined level.
 
 ### Materials Required
 
@@ -44,7 +44,7 @@ Two people work together, walking past each other alternately:
 
 ### Gradient Calculations
 
-A practical example: 1 cm fall in 5 m equals a 1:500 gradient (1 cm / 500 cm), which is ample for most diversion drains carrying run-off to dams. Dead level lines can also be run across landscape, and dam walls checked for level or gentle rise.
+A practical example: 1 cm fall in 5 m equals a 1:500 gradient (1 cm / 500 cm), which is ample for most [[diversion-drains-and-spreader-banks]] carrying run-off to dams. Dead level lines can also be run across landscape, and dam walls checked for level or gentle rise.
 
 Remarkably, a 12 km drain flowing at 1:2,000 gradient in sand was laid not by a skilled surveyor but by two women trained for just 30 minutes on a hose level, demonstrating the accessibility and reliability of this tool.
 
@@ -108,7 +108,7 @@ When in doubt about accuracy, or for very precise work:
 
 - **Dumpy level** — a simple optical level for reading elevations at distance
 - **Theodolite** — a precision instrument for measuring both horizontal and vertical angles
-- **Hire a surveyor** — whose real job is mapping, not necessarily earthworks design
+- **Hire a surveyor** — whose real job is mapping, not necessarily [[mollison-course-swales-and-earthworks-design]]
 
 Thousands of miles of drains have been surveyed and levels set by the simple tools described above. Professional instruments are tools of convenience and precision, not necessity, for most permaculture-scale earthworks.
 
@@ -123,8 +123,6 @@ Thousands of miles of drains have been surveyed and levels set by the simple too
 7. **Verify with water** — the ultimate test of any drain or spillway is whether water flows as intended
 
 ## See Also
-- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
 - [[permaculture-mapping-and-reading-the-landscape]]
-- [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[permaculture-farm-design-principles]]
 - [[gabion-and-check-dams-water-earthworks]]

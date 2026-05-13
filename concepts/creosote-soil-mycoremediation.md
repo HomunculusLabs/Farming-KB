@@ -29,27 +29,11 @@ quantities of higher molecular weight compounds including fluoranthene, pyrene,
 chrysene, and benzo[a]pyrene. The phenolic fraction includes cresols, xylenols,
 and other alkylphenols that contribute to the acute toxicity of creosote.
 These compounds persist in soil due to their hydrophobic nature and strong
-sorption to [[hamilton-composting-and-organic-matter-management]], making creosote-contaminated sites particularly
-challenging to remediate using conventional approaches.
-
-## Key Fungal Species for Creosote Remediation
-
-[[staycare-phanerochaete-sordida-in-bioremediation]] has proven to be one of the most effective fungal
+sorption to [[staycare-phanerochaete-sordida-in-bioremediation]] has proven to be one of the most effective fungal
 inoculants for creosote-contaminated soil remediation. In field-scale trials
 conducted by Lamar and coworkers, P. sordida demonstrated both the highest
 transformation capacity and the ability to grow at lower temperatures compared
-to [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] has also shown excellent capacity to
-transform complex PAHs in creosote-contaminated soil and represents a promising
-alternative inoculant, particularly for the more recalcitrant five- and
-six-ring PAHs.
-
-## Field-Scale Treatment Approaches
-
-Field studies by Lamar and colleagues represent some of the most comprehensive
-evaluations of fungal inoculation technology for creosote remediation. These
-workers used P. chrysosporium, P. sordida, and T. hirsuta to detoxify
-pentachlorophenol and creosote-contaminated soil on a field scale. The general
-approach involved preparing [[ingham-fungal-inoculum-sourcing]] on lignocellulosic substrates such
+to [[ingham-fungal-inoculum-sourcing]] on lignocellulosic substrates such
 as aspen wood chips, mixing the colonized substrate with contaminated soil, and
 maintaining appropriate moisture, aeration, and nutrient conditions. Fungal
 inoculation improved transformation levels of PAHs in field trials, though
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycoremediation]]
 - [[det]]
-- [[composting]]
 - [[stamets-mycoremediation-case-studies]]
 - [[singh-ecology-of-mycoremediation]]

@@ -23,15 +23,11 @@ achieved.
 
 ## Mechanism of Bound Residue Formation
 
-Fungal oxidative enzymes, including [[staycare-lignin-peroxidase-and-pollutant-degradation]], and
-[[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] and chlorinated phenols like pentachlorophenol (PCP), which
-resist complete [[staycare-trametes-versicolor-bioremediation-applications]] bound 65 percent of PCP to soil organic material, compared with
-34 to 46 percent binding by Irpex lacteus, Bjerkandera adusta, and
-[[staycare-fungal-consortia-for-enhanced-pollutant-removal]] may enhance overall treatment efficiency by combining species with
+Fungal oxidative enzymes, including [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] and chlorinated phenols like pentachlorophenol (PCP), which
+resist complete [[staycare-fungal-consortia-for-enhanced-pollutant-removal]] may enhance overall treatment efficiency by combining species with
 different enzymatic capabilities for both degradation and immobilization.
 
-The addition of [[fungal-bioremediation-mechanisms]]
-- [[fungal-bound-residue-formation]]
+The addition of [[fungal-bound-residue-formation]]
 - [[mycorrhiza-soil-bioremediation]]
 ## Practical Applications
 

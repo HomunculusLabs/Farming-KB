@@ -10,22 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 6, 7, 13, 14)
-
-Cannabis plants respond to environmental and biological stressors in various ways. Some stress is beneficial (stress training), but excessive stress harms growth, yield, and potency.
-
-## Stress in Cannabis — Overview
-
-Green emphasizes that cannabis is a resilient plant that can recover from most forms of stress if addressed promptly. However, the goal of good growing is to minimize unnecessary stress so the plant can direct energy toward growth and bud production.
-
-## Types of Stress
-
-### 1. Heat Stress
-
-**Causes**:
-- Temperatures above 85°F (29°C)
-- Lights too close to the canopy
-- Poor ventilation and [[stamets-growing-room-air-circulation-co2-management]]
+Source: The [[stamets-growing-room-air-circulation-co2-management]]
 - Hot outdoor conditions without shade
 
 **Symptoms**:
@@ -52,18 +37,7 @@ Green emphasizes that cannabis is a resilient plant that can recover from most f
 - Growth slows dramatically
 - Leaves may develop purple or dark coloring (especially stems)
 - Leaves curl downward and become dark
-- Root uptake slows, mimicking [[cannabis-grow-nutrient-deficiency-problem-solving]]
-- In severe cases, plant death
-
-**Recovery**:
-- Warm the grow space (heater, heat mat)
-- Use room-temperature water
-- Purple coloring from cold is usually cosmetic and reverses
-
-### 3. Light Stress
-
-**Causes**:
-- Lights too intense for the [[cho-plant-growth-stage-treatment-protocols]] (especially seedlings)
+- Root uptake slows, mimicking [[cho-plant-growth-stage-treatment-protocols]] (especially seedlings)
 - Too many hours of light (rare in standard 18/6 or 12/12)
 - Light leaks during dark period in flowering
 
@@ -76,17 +50,11 @@ Green emphasizes that cannabis is a resilient plant that can recover from most f
 **Recovery**:
 - Adjust light distance and intensity
 - Eliminate all light leaks during dark period
-- See [[cannabis-watering-techniques-and-frequency]].
-
-**Underwatering symptoms**: Dry, crispy leaves, wilting, slow growth. See [[cannabis-transplanting-guide]].
+- See [[cannabis-transplanting-guide]].
 
 ### 6. Nutrient Stress
 
-**Deficiency**: Yellowing, spotting, curling leaves. See [[cannabis-nutrient-burn-and-toxicity]].
-
-### 7. pH Stress (Lockout)
-
-**Causes**: pH out of optimal range, preventing [[plant-nutrient-uptake-mechanisms]] despite adequate feeding
+**Deficiency**: Yellowing, spotting, curling leaves. See [[plant-nutrient-uptake-mechanisms]] despite adequate feeding
 
 ## Practical Applications
 
@@ -117,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[greg-green]]
 - [[cannabis-and-stress-axis]]
-- [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
 - [[cannabis-sativa-morphology-and-plant-architecture]]

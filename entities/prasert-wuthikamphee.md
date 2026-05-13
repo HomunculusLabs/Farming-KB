@@ -8,32 +8,7 @@ type: entity
 
 ## Description
 
-Prasert Wuthikamphee is a Thai agricultural expert from the Ministry of Agriculture and Cooperatives who served as one of two national consultants for the FAO TCP/THA/8821(A) project on mushroom production training [[holzer-lebenshilfe-permaculture-project-for-disabled-people]]. He co-developed, tested, and revised the mushroom cultivation procedures that form the technical backbone of the FAO training manual.
-
-## Classification
-
-- **Category**: Person
-- **Role**: Agricultural expert, national consultant, extension worker
-- **Domain**: Mushroom cultivation, agricultural extension
-- **Affiliation**: Ministry of Agriculture and Cooperatives, Thailand; FAO TCP/THA/8821(A) project
-
-## Key Facts
-
-- Expert from Thailand's Ministry of Agriculture and Cooperatives
-- Served as national consultant alongside Satit Thaithatgoon for the FAO TCP/THA/8821(A) project
-- Co-developed and tested all mushroom cultivation procedures documented in the training manual
-- Contributed to revisions ensuring the procedures were practical and replicable
-- Brought government agricultural extension expertise to complement the entrepreneurial perspective of Thaithatgoon
-- The project was carried out at the Training Center for Disabled People in Ubon Ratchathani province
-- Worked within an FAO inter-disciplinary taskforce that included expertise on mushroom production, marketing, processing equipment, and disability/gender-responsive criteria
-
-## Relevance to Cultivation and Mycology
-
-Wuthikamphee's contribution bridges institutional [[fukuoka-critique-agricultural-science-laws-liebig]] with practical [[mushroom-cultivation-training-program-design]]. His government extension background ensured that the cultivation procedures — covering tissue culture, spawn production on sorghum seeds, [[substrate-bag-preparation]], three [[growing-gourmet-straw-pasteurization-methods]] (country-style, commercial, solar), inoculation, incubation, opening, maintenance, harvesting, and processing — met both scientific standards and practical field requirements. His involvement also connected the project to Thailand's broader agricultural extension infrastructure, facilitating knowledge transfer and replication beyond the initial pilot in Ubon Ratchathani. The collaboration between his institutional expertise and Thaithatgoon's entrepreneurial experience created a training curriculum that balanced scientific rigor with commercial viability.
-
-## Sources
-
-- FAO RAP Publication 2001/12: "[[mushroom-cultivation-for-disabilities-training-program]] People with Disabilities — A Training Manual"
+Prasert Wuthikamphee is a Thai agricultural expert from the Ministry of Agriculture and Cooperatives who served as one of two national consultants for the FAO TCP/THA/8821(A) project on mushroom production training [[fukuoka-critique-agricultural-science-laws-liebig]] with practical [[substrate-bag-preparation]], three [[mushroom-cultivation-for-disabilities-training-program]] People with Disabilities — A Training Manual"
 - TCP/THA/8821(A): Mushroom Production Training for Disabled People project, Thailand
 
 ## Project Role
@@ -48,15 +23,7 @@ His work therefore supported both production reliability and inclusive training 
 The procedures associated with the manual cover the full small-scale mushroom production chain.
 They begin with clean culture work and spawn preparation, continue through substrate bagging and pasteurization, and end with harvesting, processing, and marketing.
 Because each step can introduce contamination or crop failure, the consultant's testing role was central.
-The connection to [[substrate-bag-preparation]] is especially important because bag preparation is where hygiene, moisture, compaction, and sterilization practices meet.
-
-## Institutional Significance
-
-Wuthikamphee represents the institutional side of applied mycology.
-The manual did not rely only on local improvisation or entrepreneurial intuition.
-It also drew on government extension capacity, formal agricultural science, and FAO project coordination.
-This combination helped turn mushroom cultivation into a teachable livelihood system rather than a one-off demonstration.
-The page should therefore be read alongside [[mushroom-cultivation-training-program-design]] and [[mushroom-cultivation-for-disabilities-training-program]].
+The connection to [[mushroom-cultivation-training-program-design]] and [[mushroom-cultivation-for-disabilities-training-program]].
 
 ## Notes for Further Work
 
@@ -78,3 +45,80 @@ Spawn quality, substrate preparation, incubation conditions, and harvest timing 
 Wuthikamphee's institutional background helped anchor those steps in extension-friendly standards.
 This makes him an important but easily overlooked figure in the manual's practical success.
 The entry is therefore a concise node for connecting named project personnel to the manual's cultivation workflow.
+
+## Overview
+
+Prasert Wuthikamphee represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish prasert wuthikamphee
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving prasert extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Prasert Wuthikamphee finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for prasert wuthikamphee. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+prasert wuthikamphee and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Prasert Wuthikamphee has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of prasert wuthikamphee into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

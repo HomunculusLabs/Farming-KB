@@ -14,14 +14,7 @@ AHCC is a proprietary extract derived from the mycelia of several
 basidiomycete mushroom species, primarily cultured through submerged
 fermentation. Unlike most mushroom anticancer polysaccharides, AHCC
 contains low molecular weight alpha-1,3 glucan structures rather than
-[[psk-psp-polysaccharide-peptides]] which are primarily beta-glucan based
-- Low molecular weight should theoretically confer lower
-  immunopotentiating activity
-- Despite this, AHCC retains demonstrable tumour-static activity
-- Full preparation details and content are proprietary
-
-The alpha-glucan structure may contribute to different pharmacokinetic
-properties, potentially including enhanced [[first-pass-metabolism-and-oral-bioavailability]] compared to
+[[first-pass-metabolism-and-oral-bioavailability]] compared to
 high molecular weight beta-glucans. This aligns with research on
 kappa opioid receptor mechanisms
 well-described for beta-glucan compounds may not fully explain AHCC
@@ -37,26 +30,8 @@ molecular weight alpha-glucan composition.
 ## Comparison with Other Mushroom Polysaccharides
 
 | Feature | AHCC | lentinan | mushroom-polysaccharide-administration-routes
-- [[maitake-d-fraction-research]]
 - [[psk-psp-polysaccharide-peptides]]
-- [[psk-breast-lung-cancer-clinical-trials]]
-## Practical Considerations
-
-When working with AHCC Active Hexose Correlated Compound, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[ahcc]]
 - [[doc]]
-- [[schizophyllan]]
 - [[lentinan]]
 - [[det]]

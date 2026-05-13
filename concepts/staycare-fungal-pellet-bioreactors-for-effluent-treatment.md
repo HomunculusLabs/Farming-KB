@@ -11,7 +11,7 @@ type: concept
 # Fungal Pellet Bioreactors for Effluent Treatment
 
 Fungal pellet bioreactors represent an important technology for applying
-[[brown-rot-and-white-rot-fungi-in-mycoremediation]] to the [[fungal-treatment-of-industrial-wastewaters]] effluents. Mycelial pellets,
+[[fungal-treatment-of-industrial-wastewaters]] effluents. Mycelial pellets,
 formed naturally or through immobilization in matrices such as alginate or
 polyurethane, offer practical advantages over free mycelium including
 improved mass transfer, ease of handling, mechanical stability, and the
@@ -31,16 +31,9 @@ aeration without mechanical agitation.
 
 ## Mycelial Pellet Formation and Properties
 
-[[davidson-mathematical-modeling-fungal-mycelia]] can be grown as pellets that are subsequently used in
-bioreactor systems. [[trametes-versicolor-entity]]
+[[trametes-versicolor-entity]]
 have been grown on pelleted substrates for effluent treatment. Alginate
-hydrogels containing [[bioremediation-fungal-biomass-biosorbent-material]] provide a convenient immobilization
-matrix. Temperature affects pellet performance, with non-pelleted P.
-chrysosporium giving higher FDA (fluorescein diacetate) activity at 24
-degrees C while pelleted spawn showed highest activity at 39 degrees C.
-
-Pellets with higher biological potential degrade contaminated soil more
-efficiently than pellets with lower activity. When [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] was
+hydrogels containing [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] was
 formulated directly into alginate pellets amended with corn cob grits,
 storage at 4 degrees C maintained viability for over 4 years, while room
 temperature storage resulted in only about 20% viable pellets after 9
@@ -53,7 +46,7 @@ propagules have been developed for soil remediation. The pellets are
 incubated until overgrown with mycelium. Spray coating does not reduce
 viability or affect the mechanical strength of the pellets. When introduced
 into unsterile soil microcosms spiked with pentachlorophenol (PCP),
-mycelium-coated pellets of [[irpex-lacteus]], [[bjerkandera-adusta]], and T.
+mycelium-coated pellets of [[bjerkandera-adusta]], and T.
 versicolor removed over 80% of the contaminant within 4 weeks. Coated
 pellets without established [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] showed significantly less
 removal, confirming the importance of active mycelium for pollutant

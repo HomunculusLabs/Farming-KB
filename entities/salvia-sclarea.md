@@ -14,48 +14,7 @@ sources:
   - Kintzios S.E. (2000). "Sage: The Genus Salvia." Medicinal and Aromatic Plants — Industrial Profiles. Harwood Academic.
   - Hajhashemi V. et al. (2000). "Antinociceptive and Anti-inflammatory Effects of S. sclarea permaculture-designers-manual-essential-oil-plants." Journal of Ethnopharmacology, 69(2), 141-146.
   - Ulubelen A. (2003). "Cardiovascular and Central Nervous System Effects of Salvia sclarea." Phytotherapy Research, 17(1), 20-23.
-  - Pistelli L. et al. (1997). "[[permaculture-designers-manual-essential-oil-plants]] Composition of Salvia sclarea." Journal of Essential Oil Research, 9(2), 187-190.
----
-
-## Overview
-
-**Salvia sclarea**, commonly known as clary sage, is a biennial or short-lived perennial herb in the family Lamiaceae. It is native to the Mediterranean basin and parts of Central Asia.
-
-The species is widely cultivated for its essential oil, which is used in perfumery, aromatherapy, and traditional medicine. The oil's distinctive muscat-like aroma has made it a valued fixative in the fragrance industry.
-
-Clary sage grows 60–120 cm tall with large, hairy, heart-shaped leaves and tall branching inflorescences bearing pale blue, pink, or white flowers. The bracts surrounding the flowers are often more colorful than the petals themselves.
-
-The name "clary" derives from the Latin *clarus* (clear), referring to its traditional use as an eye wash. The species has been documented in European herbals since the Middle Ages.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- **Kingdom:** Plantae
-- **Order:** Lamiales
-- **Family:** Lamiaceae
-- **Subfamily:** Nepetoideae
-- **Tribe:** Mentheae
-- **Genus:** *Salvia*
-- **Species:** *S. sclarea* L.
-
-The species was described by Carl Linnaeus in 1753. Two subspecies are recognized: *S. sclarea* subsp. *sclarea* (widespread) and *S. sclarea* subsp. *turkestanica* (Central Asia).
-
-**Morphological features:**
-
-The basal rosette of large, broadly ovate leaves (10–30 cm long) forms in the first year. Leaves are rugose, crenate-serrate, and covered with dense glandular and non-glandular trichomes.
-
-In the second year, the plant produces stout, square-stemmed flowering stalks reaching 60–120 cm. Stem leaves are smaller, opposite, and sessile.
-
-The inflorescence is a large, branched terminal panicle with 6-flowered verticillasters. Bracts are ovate, colored pink, mauve, or violet, and often more conspicuous than the flowers.
-
-The corolla is 15–25 mm long, bilabiate, with a pale blue to white upper lip and a larger, pink-veined lower lip. Flowering occurs from June to August in the Northern Hemisphere.
-
-## Distribution and Habitat
-
-*Salvia sclarea* is native to the Mediterranean region, extending from southern Europe (France, Italy, Greece) through the Balkans and Turkey to Central Asia (Iran, Turkmenistan).
-
-It has naturalized in parts of [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-south-america]], and northern Europe. Escaped populations occur in the eastern [[dmt-containing-plants-united-states-halpern]], particularly in disturbed sites and roadsides.
+  - Pistelli L. et al. (1997). "[[psilocybin-north-america-pacific-northwest]], [[dmt-containing-plants-united-states-halpern]], particularly in disturbed sites and roadsides.
 
 The species prefers dry, calcareous soils in full sun. It is common in scrubland, grassland margins, and rocky slopes at elevations up to 1500 m.
 
@@ -63,15 +22,9 @@ Optimal growth occurs at 15–25°C with well-drained soils of pH 6.0–8.0. The
 
 ## Cultivation
 
-Clary sage is propagated by seed, sown directly in [[coleman-overwintered-onions-and-early-spring-crops]] or started indoors 6–8 weeks before the last frost. Seeds require light for germination and typically emerge in 10–20 days at 20°C.
+Clary sage is propagated by seed, sown directly in [[cannabis-harvest-timing-visual-cues]]. Major commercial producers include Russia, France, Bulgaria, and Morocco.
 
-Seedlings are thinned to 30–45 cm spacing. The plant performs best in poor to moderately fertile soils; excessive nitrogen produces lush foliage at the expense of essential oil yield.
-
-Harvest for essential oil occurs when the plants are in full flower, typically 90–120 days after sowing. The entire flowering aerial portion is cut and either steam-distilled fresh or dried for later extraction.
-
-Essential oil yields range from 0.1–1.0% of fresh plant weight, depending on cultivar, growing conditions, and [[cannabis-harvest-timing-visual-cues]]. Major commercial producers include Russia, France, Bulgaria, and Morocco.
-
-The plant is relatively pest-resistant, though [[cervantes-spider-mites-identification-control]] and whiteflies can affect greenhouse crops. [[cannabis-root-rot-prevention-and-treatment]] from *Fusarium* species occurs in poorly drained soils.
+The plant is relatively pest-resistant, though [[cannabis-root-rot-prevention-and-treatment]] from *Fusarium* species occurs in poorly drained soils.
 
 ## Chemistry and Pharmacology
 
@@ -83,8 +36,93 @@ Pharmacological studies have demonstrated several bioactivities. The essential o
 
 Anti-inflammatory activity has been documented in carrageenan-induced edema models, with the oil reducing paw swelling comparable to standard anti-inflammatory drugs at appropriate doses.
 
-Antimicrobial activity has been demonstrated against *[[staphylococcus-aureus]]*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The oil also shows moderate antioxidant capacity in DPPH radical scavenging assays.
+Antimicrobial activity has been demonstrated against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The oil also shows moderate antioxidant capacity in DPPH radical scavenging assays.
 
 Topical application of the oil has shown wound-healing acceleration in animal studies, attributed to both antimicrobial and anti-inflammatory mechanisms. The oil promotes fibroblast proliferation and collagen deposition.
 
 Clary sage extracts have demonstrated weak estrogenic activity in vitro, mediated through interaction with estrogen receptors. This has led to popular use for menstrual discomfort, though clinical evidence remains limited.
+
+## Overview
+
+Salvia Sclarea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish salvia sclarea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving salvia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Salvia Sclarea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for salvia sclarea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+salvia sclarea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Salvia Sclarea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of salvia sclarea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[salvia-divinorum]]
+- [[salvia-divinorum-pharmacology]]
+- [[salvia-divinorum-salvinorin]]
+- [[salvia-divinorum-salvinorin-a-pharmacology]]
+- [[schultes-salvia-divinorum]]

@@ -87,7 +87,7 @@ A broadscale scatter of mixed seed, raked in, prepares the way for permanent pla
 
 ### Erosion Control Techniques
 
-- **Net and pan planting** — effective in overgrazed, eroded, mined, or bulldozed sites
+- **[[net-and-pan-planting]]** — effective in overgrazed, eroded, mined, or bulldozed sites
 - **Log and branch barriers** — pegged across erosion channels to build up silt and leaf deposits, beside which fibrous-rooted hardy species are planted
 - **Mulch behind barriers** — quickly stabilises the seed bed for planting
 - **Cross-swales** of lemongrass or Vetiver grass to trap silt and spread water
@@ -97,8 +97,6 @@ A broadscale scatter of mixed seed, raked in, prepares the way for permanent pla
 Smooth-finishing banks and surrounds allows mowing or scything until selected plants take over. Failed plants can be replaced with successful species later in the cycle.
 
 ## See Also
-- [[mollison-designers-vetiver-grass-for-erosion-control]]
 - [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
-- [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
 - [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]]
 - [[permaculture-plants-legume-trees-acacia-carob-locust]]

@@ -6,10 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Heavy Metal Biosorption — Detailed ## Overview Fungal biosorption of heavy metals is a metabolism-independent process where metal ions bind to cell wall functional groups. It differs from bioaccumulation, which is energy-dependent and involves intracellular transport. For a foundational comparison, see [[fungal-biosorption-mechanisms]] are the most common continuous configuration.
-
-### Immobilized Systems
-[[bioremediation-fungal-biomass-biosorbent-material]] can be immobilized in:
+# Fungal Heavy Metal Biosorption — Detailed ## Overview Fungal biosorption of heavy metals is a metabolism-independent process where metal ions bind to cell wall functional groups. It differs from bioaccumulation, which is energy-dependent and involves intracellular transport. For a foundational comparison, see [[bioremediation-fungal-biomass-biosorbent-material]] can be immobilized in:
 - **Alginate and carrageenan beads**: Natural polymers producing porous biosorbents
 - **Polyvinyl alcohol (PVA) matrices**: Synthetic polymers with good stability
 - **Polyacrylamide and polysulfone gels**: High mechanical strength
@@ -39,12 +36,9 @@ Members of the order Mucorales are excellent biosorbents, especially for uranium
 
 - **Rhizopus arrhizus**: 0.61 mmol/g Pb²⁺, 0.60 mmol/g Cu²⁺, 0.56 mmol/g Cd²⁺, 0.53 mmol/g Zn²⁺
 - **Mucor hiemalis**: 343 mg/g U(VI); metal selectivity order Cr(III) > Cu(II) > Pb(II) > Zn(II) > Cd(II)
-- **Aspergillus niger**: 580 mg/g Pb²⁺, excellent for soil bioremediation via citric [[staycare-fungal-organic-acid-production-metal-leaching]]
-- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: 80 mg/g Pb²⁺ (resting cells), applicable to artificial wastewater
+- **Aspergillus niger**: 580 mg/g Pb²⁺, excellent for soil bioremediation via citric [[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: 80 mg/g Pb²⁺ (resting cells), applicable to artificial wastewater
 
-See [[white-rot-fungi-bioremediation]] for their role in organic pollutant removal. Notable heavy metal data:
-
-- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Removes all Cd²⁺ within 2 hours; energy-independent surface binding at ~2 mg Cd/g dry weight
+See [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Removes all Cd²⁺ within 2 hours; energy-independent surface binding at ~2 mg Cd/g dry weight
 - **Phanerochaete chrysosporium**: 100% Cu²⁺ removal; 6-cycle regeneration with 1 N HCl
 - **Pleurotus ostreatus**: Accumulates 20% of Cd²⁺ intracellularly at 150 ppm
 
@@ -78,10 +72,7 @@ Fungi tolerate heavy metals through multiple defense mechanisms:
 - Intracellular compartmentation in vacuoles
 - Production of metallothioneins and phytochelatins
 - Efflux transport systems
-- Morphological changes (aerial hyphae, pigmentation, [[singh-fungal-pellet-formation-bioremediation]])
-
-Trichoderma viride survived high Cu, Zn, and Cd concentrations due to prior isolation from metal-laden sludge. See fungal-chromogens-and-color-change
-- [[fungal-heavy-metal-anion-biosorption]]
+- Morphological changes (aerial hyphae, pigmentation, [[fungal-heavy-metal-anion-biosorption]]
 
 ## Practical Applications
 
@@ -112,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[heavy-metal-biosorption]]
 - [[pleurotus-ostreatus]]
-- [[saccharomyces-cerevisiae]]
 - [[dom]]
 - [[det]]

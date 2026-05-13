@@ -8,19 +8,7 @@ tags:
   - food-processing
   - leaching
   - nutrition
-  - [[permaculture]] Activist, 2012.
-  - USFS. "Acorns as Food: History, Processing, and Nutrition." USDA Forest Service, 2018.
-  - McArthur, E. D. "Proceedings: Oak Woodlands and Hardwoods." USDA Forest Service RMRS, 2005.
-  - Daniel, C. "Wild Plants I Have Known... and Eaten." Chelsea Green Publishing, 2010.
-type: query
-created: 2026-05-03
----
-
-# How to Process Acorns for Food
-
-## Overview
-
-Acorns — the nuts of oak trees (*Quercus* spp.) — were a staple food for indigenous peoples across [[psilocybin-north-america-pacific-northwest]], Europe, and Asia for thousands of years. They are nutritious, abundant, and widely available, yet they require processing to remove bitter tannins before consumption. With proper leaching, acorns yield a versatile, nutty flour that can be used in breads, porridges, pancakes, and more.
+  - [[psilocybin-north-america-pacific-northwest]], Europe, and Asia for thousands of years. They are nutritious, abundant, and widely available, yet they require processing to remove bitter tannins before consumption. With proper leaching, acorns yield a versatile, nutty flour that can be used in breads, porridges, pancakes, and more.
 
 ## Are All Acorns Edible?
 
@@ -106,37 +94,10 @@ Acorns are highly nutritious — they were not merely a survival food but a genu
 | **Potassium** | 500–700 mg |
 | **Vitamin B6** | 0.5–0.8 mg |
 
-Acorns are rich in complex carbohydrates, healthy unsaturated fats, and minerals. White oak acorns tend to be higher in carbohydrates; red oak acorns are higher in fats and protein. The fat content is predominantly monounsaturated (oleic acid) and polyunsaturated (linoleic acid) — similar to [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]'s fatty acid profile.
-
-## Troubleshooting
-
-| Problem | Cause | Solution |
-|---------|-------|---------|
-| **Acorn flour is still bitter** | Insufficient leaching | Continue leaching, changing water more frequently |
-| **Mold during cold leaching** | Warm temperatures, slow leaching | Refrigerate during leaching; change water more often |
-| **Mushy or gummy texture** | Hot water leaching cooked starches | Use cold water method for flour; save hot-leached for porridge |
-| **Rancid flavor** | Acorns sat too long before processing; high oil variety | Process acorns within 2 weeks of harvest; freeze flour for storage |
-| **Dark brown water won't clear** | Red oak acorns with very high tannin | Normal — just keep changing water; patience required |
-| **Flour is too coarse** | Insufficient grinding | Grind dried meal through a grain mill twice, or sift and re-grind |
-
-## Safety Notes
-
-- **Tannins in excess** are antinutritional — they bind proteins and minerals, reducing absorption. Do not eat incompletely leached acorns in quantity. Small amounts of tannin-remnant bitterness are harmless but unpalatable.
-- **Acorn allergy** is rare but possible. If you have a tree nut allergy, consult an allergist before trying acorns. Botanically, acorns are not true tree nuts but the reaction risk is not zero.
-- **Gall wasps and weevils** are the primary insect pests in acorns. The float test and visual inspection eliminate most infested nuts.
-- **Oak toxicity**: Oak leaves, bark, and acorn shells contain concentrated tannins that can cause kidney damage in livestock. Only the leached nutmeat is safe for human consumption.
-
-## Preservation and Storage
-
-| Method | [[psilocybin-shelf-life-stability]] | Notes |
+Acorns are rich in complex carbohydrates, healthy unsaturated fats, and minerals. White oak acorns tend to be higher in carbohydrates; red oak acorns are higher in fats and protein. The fat content is predominantly monounsaturated (oleic acid) and polyunsaturated (linoleic acid) — similar to [[psilocybin-shelf-life-stability]] | Notes |
 |--------|-----------|-------|
 | **Dried flour, room temp** | 6–12 months | Airtight container, cool and dark |
 | **Dried flour, frozen** | 1–2 years | Best long-term storage |
 | **Leached whole acorn meats, frozen** | 6–12 months | Freeze in portion bags |
-| **Canned acorn mush** | 1+ year | [[comparison-pressure-canning-vs-water-bath-canning]] required (low acid) |
-| **Dried, unprocessed shelled acorns** | 6 months | Process before they become rancid |
-## Related Topics
-
-- [[food-forest-layers-and-species]]
-- [[query-how-to-grow-and-use-stinging-nettle]]
+| **Canned acorn mush** | 1+ year | [[food-forest-layers-and-species]]
 - [[permaculture-oak-acorn-processing]]

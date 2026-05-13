@@ -11,8 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mus
 Mushroom cultivation refers to the practice of growing fungi for food, medicine,
 or research purposes. The cultivation of psilocybin-containing mushrooms has
 developed from indigenous practices into sophisticated techniques accessible to
-both researchers and home growers, driven by advances in [[cultivator-sterile-technique-and-agar-culture]] and
-[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]. The science of fungal cultivation combines elements of
+both researchers and home growers, driven by advances in [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]. The science of fungal cultivation combines elements of
 microbiology, biochemistry, and agricultural engineering.
 
 ## Biological Principles
@@ -29,11 +28,7 @@ exchange, and light. Understanding the distinction between vegetative growth
 (mycelial colonization) and reproductive growth (fruiting) is fundamental. The
 environmental triggers that shift the fungus from one phase to the other include
 changes in temperature, humidity, light exposure, and CO2 concentration. See
-[[mushroom-life-cycle|life cycle details]] for more on these phases.
-
-## History
-
-The deliberate [[companion-cultivation-of-mushrooms-with-garden-vegetables]] dates back thousands of years in East
+[[companion-cultivation-of-mushrooms-with-garden-vegetables]] dates back thousands of years in East
 Asia, where species like shiitake (Lentinula edodes) were cultivated on logs.
 Modern cultivation was advanced significantly by Paul Stamets. For psilocybin
 mushrooms, the PF Tek developed by Robert McPherson in the 1990s revolutionized
@@ -56,18 +51,10 @@ mushroom cultivation. Maintaining sterility throughout the process is essential:
 
 Common contaminants include Trichoderma (green mold), Aspergillus species, and
 bacterial contamination (slimy textures, sour smells). Early detection prevents
-spread. See [[mushroom-cultivation-contamination-prevention|contamination prevention]] for comprehensive strategies.
-
-## Substrate and Spawn Preparation
-
-The substrate provides the nutrition and structural support for mycelial growth.
-Spawn substrates support initial colonization -- common options include brown rice
-flour and vermiculite (PF Tek), whole grains such as rye, oats, or millet, and
-[[oyster-mushroom-supplemented-sawdust-blocks]]. Bulk substrates provide additional nutrition and
+spread. See [[oyster-mushroom-supplemented-sawdust-blocks]]. Bulk substrates provide additional nutrition and
 water-holding capacity for larger fruiting and include coco coir, pasteurized
 straw, composted manure, and hardwood sawdust. See
-[[mushroom-substrate-sterilization-and-pasteurization|substrate sterilization]]
-and [[mushroom-growing-substrates|substrate selection]] for detailed guidance.
+[[mushroom-growing-substrates|substrate selection]] for detailed guidance.
 
 ## Cultivation Methods
 
@@ -87,3 +74,77 @@ produces significantly higher yields than PF Tek with comparable simplicity.
 Pasteurized straw or supplemented sawdust is packed into tubes or bags,
 inoculated with spawn, and hung or placed in a fruiting environment. Commonly
 used for commercial mushroom farming.
+
+## Overview
+
+Mushroom Cultivation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mushroom cultivation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mushroom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mushroom Cultivation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mushroom cultivation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mushroom cultivation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mushroom Cultivation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mushroom cultivation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

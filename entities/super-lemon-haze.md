@@ -12,69 +12,9 @@ sources:
   - "https://www.allbud.com/super-lemon-haze/strain"
 ---
 # Super Lemon Haze
-Super Lemon Haze (SLH) is a sativa-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] created by
-Amsterdam-based breeder Franco Loja of Green House Seed Company. A two-time
-High Times Cannabis Cup winner (2008 and 2009), SLH is celebrated for its
-intense lemon-citrus aroma, uplifting cerebral effects, and reliable
-therapeutic profile. The strain represents a cross between Lemon Skunk and
-Super Silver Haze, combining the sharp citrus terpene expression of the
-former with the legendary potency and complex effect profile of the latter.
-## Lineage and Genetics
-| Attribute | Detail |
-|-----------|--------|
-| Breeder | Franco Loja / Green House Seed Company |
-| Type | Sativa-dominant hybrid (~80/20 sativa/indica) |
-| Lineage | Lemon Skunk × Super Silver Haze |
-| Grandparent Lines | Skunk #1, Afghan, Northern Lights, Haze |
-| Generation | F1 hybrid (stabilized) |
-| Flowering Time | 9–10 weeks indoor; late October outdoor |
-| THC Content | 17–22% (averaging ~19%) |
-| CBD Content | <1% (typically 0.1–0.3%) |
-| Yield | 500–600 g/m² indoor; 500–700 g/plant outdoor |
-The Lemon Skunk parent contributes its dominant limonene and myrcene
-terpene profile, while Super Silver Haze adds Haze-lineage complexity,
-extended flowering time, and the soaring sativa cerebral character that
-defines the strain's effects.
-## Terpene Profile
-| Terpene | Concentration | Aroma Contribution |
-|---------|--------------|-------------------|
-| Limonene | High (dominant) | Bright lemon, citrus peel |
-| Terpinolene | Moderate | Pine, floral, herbal |
-| Myrcene | Moderate | Earthy, herbal, mango undertone |
-| Caryophyllene | Low-Moderate | Peppery, spicy accent |
-| Pinene (beta) | Low | Pine, fresh needles |
-| Linalool | Trace | Floral, lavender sweetness |
-| Humulene | Trace | Woody, earthy |
-The terpene expression in Super Lemon Haze is among the most citrus-forward
-of any commercially available strain. The dominant limonene content is
-responsible for both the characteristic lemon-citrus aroma and contributes
-to the mood-elevating, anxiolytic effects commonly reported.
-## Morphology
-### Plant Structure
-Super Lemon Haze grows as a tall, vigorous plant with classic sativa
-architecture — long internodal spacing, flexible branches, and an
-open canopy. Indoor plants typically reach 100–150 cm without training;
-outdoor plants can exceed 200 cm in optimal conditions.
-### Buds
-Medium-to-large, elongated buds with a slightly airy structure typical of
-sativa-dominant lines. The calyxes are bright green with abundant orange
-pistils that become more pronounced as harvest approaches. Trichome
-coverage is heavy, giving buds a frosty, crystalline appearance with
-yellowish-gold undertones reflecting the lemon-scented terpenoid content.
-### Leaves
-Medium-width sativa leaves with serrated edges. Foliage is vibrant green
-with occasional yellowish highlights, particularly in the upper canopy.
-The leaves themselves emit a faint citrus scent when rubbed.
-## Cultivation Notes
-- **Difficulty**: Moderate. Tolerant of minor nutrient fluctuations but
-  requires attention to stretching during early flowering.
-- **Climate**: Prefers warm, Mediterranean or subtropical conditions.
-  Performs well in greenhouse environments.
-- **Training**: Responds well to LST, ScrOG, and topping to manage height
-  and improve canopy light distribution.
-- **Nutrients**: Moderate-to-heavy feeder during [[cannabis-vegetative-growth-stage]]. Reduce
+Super Lemon Haze (SLH) is a sativa-dominant [[cannabis-vegetative-growth-stage]]. Reduce
   nitrogen in weeks 6–8 of flowering to encourage terpene development.
-- **[[cannabis-disease-pest-resistance-breeding-clarke]]**: Good general resistance. Monitor for [[cervantes-spider-mites-identification-control]]
+- **[[cervantes-spider-mites-identification-control]]
   and [[cervantes-powdery-mildew-prevention-treatment]] in indoor environments.
 - **Harvest Indicators**: Trichomes shift from cloudy to mixed cloudy/amber
   at peak maturity. Citrus aroma intensifies in the final 1–2 weeks.
@@ -88,3 +28,88 @@ Effects begin within 2–5 minutes of inhalation and last approximately
 - Increased energy and alertness without jitteriness
 - Heightened sensory perception (music, visuals, taste)
 - Mild body relaxation that doesn't compromise functionality
+
+## Overview
+
+Super Lemon Haze represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish super lemon haze
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving super extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Super Lemon Haze finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for super lemon haze. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+super lemon haze and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Super Lemon Haze has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of super lemon haze into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-strain-super-lemon-haze-greenhouse-seed-co]]
+- [[cannabis-super-cropping-technique]]
+- [[gaias-garden-super-guild-design]]
+- [[super-boof-cannabis-strain]]
+- [[super-silver-haze]]

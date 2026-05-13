@@ -8,42 +8,9 @@ source: Masanobu Fukuoka - The Natural Way of Farming
 
 # Fukuoka's Desert Revegetation Vision
 
-Masanobu Fukuoka proposed one of the most ambitious [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]
-ideas of the 20th century: using clay [[clay-pellet-seed-broadcasting]] to revegetate
+Masanobu Fukuoka proposed one of the most ambitious [[clay-pellet-seed-broadcasting]] to revegetate
 the world's deserts and reverse the global spread of desertification. His
-vision extended [[cho-natural-farming-philosophy]] from agricultural fields to the
-entire planetary surface, arguing that human civilization's misguided methods
-of land management were primarily responsible for the loss of vegetation
-throughout the world.
-
-## The Problem: Global Desertification
-
-Fukuoka identified two major human-driven causes of desertification. Nomadic
-peoples' overgrazing by large animal herds had reduced vegetation variety and
-denuded the land across vast regions. Agricultural societies, with their shift
-to modern agriculture and heavy reliance on petroleum-based chemicals, had
-confronted the rapid debilitation of arable lands worldwide.
-
-He saw both problems as manifestations of the same fundamental error: the
-human attempt to manage nature through knowledge and force rather than working
-within natural systems. The drying out of arable lands and the loss of
-vegetation throughout the world were, in his view, direct consequences of
-human arrogance and the misguided methods of crop cultivation that had arisen
-from it.
-
-## A Radical Insight: Rain Comes From the Ground
-
-Fukuoka's most striking observation about deserts came during a visit to the
-American Southwest. "While standing in an American desert, I suddenly realized
-that rain does not fall from the heavens; it issues forth from the ground.
-Deserts do not form because there is no rain; rather, rain ceases to fall
-because the vegetation has disappeared."
-
-This insight inverted the conventional understanding of the relationship
-between rainfall and vegetation. Rather than vegetation depending on rainfall,
-Fukuoka proposed that rainfall depends on vegetation. Living plants create
-transpiration cycles, moderate surface temperatures, retain soil moisture, and
-support the [[cannabis-rhizosphere-microbial-communities]] that maintain soil structure. When
+vision extended [[cannabis-rhizosphere-microbial-communities]] that maintain soil structure. When
 vegetation is removed, this cycle breaks down, rainfall decreases, and the
 desert expands — a positive feedback loop that, once established, is
 self-reinforcing.
@@ -128,19 +95,9 @@ germination. He acknowledged that certain arid regions need specialized local
 plants, noting reports of plants growing on rocks and trees that store water.
 
 The approach faces practical challenges: the scale of global desertification
-is vast, success rates [[fungal-biodiversity-in-extreme-environments]] may be low, and the method
-has not been validated through large-scale controlled experiments. Some
-ecologists question whether introducing non-native species could have
-unintended consequences, and the vegetation-rainfall relationship involves
-atmospheric circulation patterns that local changes may not significantly
-influence.
-
-Despite these challenges, the core principle — working with natural processes
-rather than against them — has influenced modern restoration ecology and
-[[biochar]].
+is vast, success rates [[biochar]].
 
 ## See Also
 
-- [[fukuoka-clay-pellet-seed-broadcasting]]
 - [[fukuoka-natural-farming-principles]]
 - [[desertification]]

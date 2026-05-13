@@ -20,14 +20,10 @@ created: 2026-05-07
 
 **Clitocybe dealbata** is a toxic mushroom in the family Tricholomataceae, commonly known as the **sweat mushroom** or **ivory funnel**. It is responsible for numerous cases of poisoning due to its resemblance to edible species and its habit of growing in grassy areas where foragers encounter it.
 
-The species contains **muscarine**, a toxic alkaloid that stimulates parasympathetic nervous system receptors. Unlike the [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]/muscimol toxins found in [[amanita-muscaria]]
-- [[coprinus-comatus]]
+The species contains **muscarine**, a toxic alkaloid that stimulates parasympathetic nervous system receptors. Unlike the [[amanita-muscaria]]
 - [[gyromitra-esculenta]]
-- [[psilocybe-cubensis]]
 - [[pleurotus-ostreatus]]
-- [[boletus-edulis-entity]]
 - [[trametes-versicolor-entity]]
-- [[laetiporus-sulphureus]]
 - [[russula-virescens]]
 ## Practical Applications
 

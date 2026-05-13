@@ -4,8 +4,7 @@ tags:
   - bsf-farming
   - insect-protein
   - waste-conversion
-  - [[permaculture]]
-  - [[homesteading]]
+  - homesteading
   - animal-feed
   - circular-economy
 date: 2026-04-28
@@ -24,15 +23,7 @@ sources:
 
 ## Overview
 
-The [[black-soldier-fly-larvae-as-feed]] (BSF), *Hermetia illucens*, is a dipteran insect native to the Americas and now distributed globally across tropical, subtropical, and warm temperate regions. It has emerged as one of the most promising insect species for industrial and small-scale protein production due to its voracious appetite as larvae, high feed conversion efficiency, and ability to convert organic waste streams into nutrient-dense biomass. BSF farming sits at the intersection of waste management, sustainable agriculture, and circular food systems, making it a natural fit for permaculture and homesteading operations.
-
-Unlike houseflies, adult BSF do not feed and do not transmit disease. They lack functional mouthparts as adults and live only 5–8 days, focused entirely on reproduction. This makes them exceptionally clean and safe to rear in proximity to human habitation.
-
-## Biology and Life Cycle
-
-### Egg Stage (3–4 days)
-
-Adult females lay 500–900 eggs in crevices near decaying [[hamilton-composting-and-organic-matter-management]]. Eggs are approximately 1 mm long, cream-colored, and laid in clusters. Under optimal conditions (27–30°C, 60–70% RH), eggs hatch within 72–96 hours. Females are attracted to [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] produced by decomposing organic matter, particularly the microbial communities colonizing [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]].
+The [[hamilton-composting-and-organic-matter-management]]. Eggs are approximately 1 mm long, cream-colored, and laid in clusters. Under optimal conditions (27–30°C, 60–70% RH), eggs hatch within 72–96 hours. Females are attracted to [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]].
 
 ### Larval Stage (14–21 days)
 
@@ -113,19 +104,7 @@ BSF larvae are remarkably polyphagous and can process a wide range of organic ma
 | Restaurant waste | Plate waste, prep scraps | Excellent | Remove large bones and excess oil |
 | Agri-food processing | Palm kernel expeller, soy hulls | Excellent | Consistent, scalable substrate |
 
-**Avoid or limit:** Highly salty foods, large amounts of citrus peel ([[limonene]] is larvicidal), raw onion/garlic in excess, treated/painted wood, plastics, heavy metals. BSF can bioaccumulate certain heavy metals from contaminated substrates — source control is critical for food-grade production.
-
-### Feeding Rate and Frequency
-
-- **Neonates (L1–L2):** Feed thin layers (1–2 cm) of fine substrate daily. Overfeeding causes anaerobic conditions and ammonia buildup.
-- **Growing larvae (L3–L5):** Feed ad libitum or at 1.5–2× larval biomass per day. Substrate should be consumed to <20% remaining before adding more.
-- **Final instar (L6):** Reduce or stop feeding as larvae enter prepupal stage.
-
-**Rule of thumb:** 1 kg of BSF larvae processes approximately 3–5 kg of fresh organic waste over their lifecycle, producing 1–1.5 kg of larval biomass and 1–2 kg of frass (residual substrate).
-
-### Moisture Management
-
-Optimal [[pf-tek-substrate-moisture-diagnosis-and-correction]]: 65–80%. Too dry (below 60%) slows feeding; too wet (above 85%) promotes anaerobic conditions, foul odors, and larval mortality. Add dry carbon (sawdust, shredded cardboard, rice hulls) if substrate is too wet; mist with water if too dry.
+**Avoid or limit:** Highly salty foods, large amounts of citrus peel ([[pf-tek-substrate-moisture-diagnosis-and-correction]]: 65–80%. Too dry (below 60%) slows feeding; too wet (above 85%) promotes anaerobic conditions, foul odors, and larval mortality. Add dry carbon (sawdust, shredded cardboard, rice hulls) if substrate is too wet; mist with water if too dry.
 
 ## Environmental Conditions
 
@@ -141,9 +120,5 @@ Optimal [[pf-tek-substrate-moisture-diagnosis-and-correction]]: 65–80%. Too dr
 
 Larval metabolism generates significant heat. In dense colonies, substrate temperature can exceed ambient by 10–15°C. This self-heating is beneficial in cooler months but dangerous in summer:
 - **Cold climates:** Insulate bins, use heat mats under trays, or move indoors. Growth virtually stops below 15°C.
-- **Hot climates:** Keep bins in shade, limit colony depth to <10 cm, increase ventilation, or use [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]. Above 40°C causes significant mortality.
-
-## Harvesting Methods
-## See Also
-- [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
+- **Hot climates:** Keep bins in shade, limit colony depth to <10 cm, increase ventilation, or use [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
 - [[black-soldier-fly-composting]]

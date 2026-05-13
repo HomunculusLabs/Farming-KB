@@ -43,10 +43,9 @@ and microhabitats that fungi depend on. Tropical rainforests, which harbor the
 highest fungal diversity, are being cleared at alarming rates. Each hectare of
 forest lost may represent the extinction of numerous undescribed fungal species.
 
-[[dighton-fungi-climate-change-feedback]] threatens [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] by altering temperature and moisture
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] by altering temperature and moisture
 regimes that govern fungal fruiting, dispersal, and survival. Pollution,
-including [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and heavy metal contamination, shifts fungal
-[[core-endorhiza-bacterial-community-composition-cannabis]] and may eliminate sensitive species. Agricultural
+including [[core-endorhiza-bacterial-community-composition-cannabis]] and may eliminate sensitive species. Agricultural
 intensification, including fungicide application and monoculture, reduces the
 diversity of fungi in soil and plant-associated habitats.
 
@@ -70,28 +69,7 @@ gap between sequence-based discovery and formal taxonomy continues to widen.
 Fungi are rarely included in conservation assessments or biodiversity
 inventories. Conservation policies that protect habitats based on documented
 species richness systematically undervalue areas with high fungal diversity,
-because the fungi have not been counted. The [[fungi-convention-on-biological-diversity]] Diversity
-has made limited progress in addressing the fungal dimension of biodiversity loss.
-
-Integrative taxonomy, combining molecular data with morphology, ecology, and
-distribution, offers the most promising path toward documenting fungal diversity.
-Citizen science platforms like iNaturalist generate large volumes of distribution
-data that require expert verification. Protecting habitat heterogeneity and
-maintaining host plant diversity are essential strategies for fungal conservation,
-since most fungi cannot be conserved through species-level interventions alone.
-
-## The Path Forward
-
-Closing the fungal biodiversity gap requires investment in both field exploration
-and taxonomic infrastructure. Global initiatives such as the Global Fungal Red
-List and the Society for the Protection of Underground Networks are working to
-accelerate fungal documentation. The challenge is to describe fungal diversity
-at a pace commensurate with the rate of habitat loss and species extinction.
-
-## See Also
-
-- [[mycorrhizal-networks]]
-- [[fungal-ecosystem-services]]
+because the fungi have not been counted. The [[mycorrhizal-networks]]
 - [[cryptic-fungal-species]]
 
 ## Practical Applications
@@ -123,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-biodiversity]]
 - [[doc]]
-- [[dom]]
 - [[mycorrhiza]]
 - [[fungal-biodiversity-built-environments-indoor-mycobiome]]

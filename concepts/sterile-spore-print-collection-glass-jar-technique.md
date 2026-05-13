@@ -7,22 +7,14 @@ created: 2026-05-09
 
 # Sterile Spore Print Collection Using Glass Jar Technique
 
-Collecting [[macrofungal-documentation-photography-spore-prints]] is essential for preserving mushroom
-genetics between cultivation cycles.
-
-The [[spore-syringe-preparation-jarrold-method]] uses a sterile glass jar technique that
+Collecting [[spore-syringe-preparation-jarrold-method]] uses a sterile glass jar technique that
 produces clean, contaminant-free spore deposits.
 
 These prints can be stored for months and used to create
-[[query-spore-syringes-vs-liquid-culture]] for future inoculations.
-
-## Why Use Glass Jars
-
-Traditional [[mushroom-spore-printing-and-storage]] on paper or foil exposes spores
+[[mushroom-spore-printing-and-storage]] on paper or foil exposes spores
 to open air and contamination.
 
-The glass [[sclerotia-production-grass-seed-jar-method]] provides a sealed sterile environment
-that dramatically reduces [[fungicide-treated-seed-contamination-risk-mushroom-substrate]].
+The glass [[fungicide-treated-seed-contamination-risk-mushroom-substrate]].
 
 Glass jars can be sterilised in a domestic oven and double
 as both collection vessel and storage container.

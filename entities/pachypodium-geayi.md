@@ -108,13 +108,8 @@ Climate change projections suggest increased drought severity and altered rainfa
 
 ## See Also
 
-- [[pachypodium-lamerei]]
 - [[adenium-obesum]]
-- [[stapelia-gigantea]]
 - [[hoodia-gordonii]]
-- [[aloe-vera]]
 - [[euphorbia-milii]]
-- [[agave-americana]]
 - [[crassula-ovata]]
-- [[sansevieria-trifasciata]]
 - [[echeveria-elegans]]

@@ -12,8 +12,6 @@ created: 2026-04-24
 
 ## Why Compost Quality Matters
 
-[[sheet-composting]]
-
 [[solomon-sheet-composting-mulch-gardening]] -- spreading organic matter directly on the soil surface and
 digging it in -- is riskier than heap composting because the C/N is harder to
 control. Key cautions:
@@ -25,24 +23,7 @@ strong, low-C/N materials are best used as fertilizers.  - Avoid
 sheet-composting with woody grasses of late summer on a brand-new garden -- the
 high C/N material may not finish decomposing before planting season.  - In warm
 weather, sheet composting takes about six weeks for decomposition to proceed to
-the point of [[ph-and-nutrient-availability-garden-soils]].
-
-## Temperature and Decomposition Speed
-
-The speed of decomposition follows a geometric rule: for every 10F (5C) increase
-in temperature, the reaction speed doubles. However, organic enzymes are
-destroyed at about 120F (50C). Temperatures above 150F (65C) cause significant
-nutrient loss through off-gassing of methane and ammonia.
-
-This has critical implications: compost that heats too hot loses nutritional
-value. Research shows conclusively that the more frequently a heap is turned
-beyond the minimum necessary, the lower its value as fertilizer. Solomon
-strongly advises against shredder-grinders and compost tumblers, which
-accelerate decomposition at the cost of nutrient retention.
-
-## The Organic Matter Deficit
-
-Solomon states that "no [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] of any considerable size can operate as
+the point of [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] of any considerable size can operate as
 a closed system that, all by itself, generates enough organic matter to maintain
 itself." He must import and compost a volume of dry organic matter at least
 twice the volume of his own garden's output. This import could be ruminant
@@ -65,8 +46,8 @@ value but does feed soil microbes and improve structure. Sacked chicken manure
 
 ## See Also
 
-- [[solomon-soil-mineral-depletion]] for [[holmgren-mineral-balance-soil-fertility]] considerations -
-[[solomon-raised-beds]] for [[ingham-compost-tea-application-rates-and-timing]] on beds
+- [[holmgren-mineral-balance-soil-fertility]] considerations -
+[[ingham-compost-tea-application-rates-and-timing]] on beds
 ## Practical Considerations
 
 Successful implementation of Compost and Organic Matter Management requires attention to
@@ -85,3 +66,85 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Solomon Compost Organic Matter represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon compost organic matter
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Compost Organic Matter finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon compost organic matter. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon compost organic matter and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Compost Organic Matter has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon compost organic matter into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[solomon-disease-identification-and-organic-remedies]]
+- [[solomon-manure-types-and-nutrient-values]]

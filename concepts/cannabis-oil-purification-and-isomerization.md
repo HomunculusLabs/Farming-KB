@@ -10,7 +10,7 @@ The transformation of crude cannabis extract into a highly potent, purified prod
 involves two major stages: **purification** (removing non-psychoactive plant
 material from the oil) and **isomerization** (chemically converting less-active
 cannabinoids into more potent forms). Together, these processes form the core of
-what Ben Lemon calls "Cannabis Alchemy" — the art and science of transmuting
+what [[ben-lemon]] calls "Cannabis Alchemy" — the art and science of transmuting
 raw plant material into a refined psychoactive essence. These techniques can
 increase the potency of cannabis oil by two to six times, depending on the
 starting material's cannabinoid profile.
@@ -26,7 +26,7 @@ The full workflow proceeds through several sequential stages:
 3. **Solvent removal** — The alcohol is distilled off and collected for reuse,
    leaving behind crude cannabis oil.
 4. **Liquid-liquid purification** — A three-phase separation removes water-
-   soluble impurities, leaving purified cannabinoid oil in the petroleum ether
+   soluble impurities, leaving purified cannabinoid oil in the [[petroleum-ether]]
    layer.
 5. **Isomerization** — Sulfuric acid catalyzes the conversion of CBD to THC and
    transforms lower-rotating THC isomers into higher-rotating, more potent forms.
@@ -139,12 +139,8 @@ are significantly more potent.
 CBD and THC are structural isomers — they share the same molecular formula (C₂₁H₃₀O₂)
 ## See Also
 
-- [[soxhlet-extraction]] — The continuous extraction apparatus used for washing
-  residual oil from plant material.
 - [[cannabinoid-receptors-cb1-cb2]] — Detailed entity page on the isomerization
   chemistry and protocol.
-- [[fractional-distillation-cannabis]] — Advanced purification via vacuum
-  distillation, capable of producing nearly pure THC.
 - [[methanol]] — Primary solvent for extraction and isomerization.
 - [[thc-acetate-synthesis]] — Advanced derivative synthesis using purified,
   isomerized oil as starting material.

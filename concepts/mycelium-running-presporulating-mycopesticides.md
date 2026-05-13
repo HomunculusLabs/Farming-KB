@@ -12,11 +12,7 @@ type: concept
 
 ## Overview
 
-Presporulating mycelium of [[singh-entomopathogenic-fungi-biocontrol-agents]] represents a breakthrough
-discovery in biological pest control. Unlike conventional approaches that use
-fungal spores, this technique employs the vegetative mycelial stage of
-insect-parasitizing fungi before they produce spores. The key insight, discovered
-by [[beauveria-bassiana]] actually attracts target
+Presporulating mycelium of [[beauveria-bassiana]] actually attracts target
 insects rather than repelling them, creating a self-dispersing biopesticide
 system.
 
@@ -52,27 +48,7 @@ The presporulating mycelium emits attractants and feeding stimulants that entice
 insects. Once consumed or contacted, the mycelium retains its full pathogenic
 capabilities. Key mechanisms include:
 
-- **Attraction**: Presporulating mycelium produces [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that
-  attract target insects. Termites in choice tests preferred mycelium to wood.
-- **Arrestant behavior**: Termites encountering the mycelium stop and do not
-  continue foraging, remaining in contact with the pathogen.
-- **Recruitment**: Infected insects recruit other colony members to the
-  mycelium source, creating a compounding effect. Unlike contact poisons like
-  pyrethrins that kill quickly before insects return to the colony, the
-  presporulating mycelium allows time for dispersal throughout the nest.
-- **Internal destruction**: In termites, the mycelium kills the large protozoa
-  in the digestive tract, preventing cellulose metabolism and starving the
-  insects. The insects then sicken and become susceptible to both internal and
-  external fungal infection.
-
-## Species and Strains
-
-Several genera of entomopathogenic fungi have demonstrated presporulating
-attractant properties:
-
-- **Metarhizium anisopliae**: Green mold prevalent in soils, effective against
-  termites, ants, locusts, mosquitoes, and mites. Does not infect plants,
-  mammals, fish, bees, or [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
+- **Attraction**: Presporulating mycelium produces [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 - **Beauveria bassiana**: White mold producing attractants prior to sporulation.
   Historically significant for the muscardine disease in silk trade.
 - **Hirsutella, Paecilomyces, Mucor, Aspergillus, Nomuraea**: Other genera
@@ -88,3 +64,87 @@ Water and ethanol extracts of presporulating mycelium on rice also function as
 powerful attractants and feeding stimulants. Serial dilution showed baseline
 extracts worked best after dilution with water, reducing [[fukuoka-textdoc-production-costs-not-coming-down]]. These
 extracts could enhance conventional pesticide delivery by attracting insects to
+
+## Overview
+
+Mycelium Running Presporulating Mycopesticides represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycelium running presporulating mycopesticides
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycelium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycelium Running Presporulating Mycopesticides finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycelium running presporulating mycopesticides. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycelium running presporulating mycopesticides and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycelium Running Presporulating Mycopesticides has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycelium running presporulating mycopesticides into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[growing-gourmet-iconic-types-mushroom-mycelium]]
+- [[mycelium-digestive-membrane-information-network]]
+- [[mycelium-running-insect-fungal-mutualism]]
+- [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]]

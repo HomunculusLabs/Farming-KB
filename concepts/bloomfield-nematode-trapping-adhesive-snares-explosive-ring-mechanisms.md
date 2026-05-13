@@ -85,39 +85,10 @@ provide a valuable nitrogen supplement to the fungal diet.
 Some fungi obtain nitrogen by a different predatory strategy: secreting antibiotics
 to kill soil bacteria and absorbing nutrients from their leaking cells. Mushroom-
 forming basidiomycetes, including those that produce ink-caps, puffballs, and bird's
-nest fungi, are adept predators of bacteria through this [[allelopathy-and-chemical-warfare-in-plants]] approach.
-The combination of [[bloomfield-fungal-antibiotics-bacterial-predation-nitrogen-acquisition-soil]] via antibiotics and [[fungal-nematode-predation-and-trapping-mechanisms]] via
-traps gives fungi multiple strategies for overcoming nitrogen limitation in soil.
-
-## Soil Ecology Significance
-Nematode-trapping fungi play an important role in soil ecology by regulating
-nematode populations. Plant-parasitic nematodes cause billions of dollars in crop
-damage annually, and predatory fungi represent a natural [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agent.
-Understanding the mechanisms of [[gadd-nematode-trapping-fungi-dna-microarray-interaction]] has practical applications in
-agriculture, where these fungi are being investigated as alternatives to chemical
-nematicides for managing plant-parasitic nematode populations in crops.
-
-## Key Genera of Trapping Fungi
-Several genera of fungi are known for their nematode-trapping abilities. Arthrobotrys
-species produce constricting rings and adhesive nets. Monacrosporium species form
-adhesive knobs and non-constricting rings. Dactylaria species produce adhesive
-columns and branches. Each genus employs a distinct trapping morphology, and some
-species can switch between trap types depending on environmental conditions and the
-availability of nematode prey. This plasticity in trap formation reflects the
-evolutionary pressure to capture nematodes in diverse soil environments.
-
-## Evolution of Predatory Behavior
-The evolution of nemode-trapping structures represents one of the most remarkable
-examples of morphological adaptation in the fungal kingdom. Molecular phylogenetic
-studies suggest that predatory behavior has evolved independently multiple times
-among the Ascomycota, with different lineages converging on similar mechanical
-solutions to the problem of capturing motile prey. The adhesive traps and
-constricting rings, despite their functional similarities, are built from
-fundamentally different hyphal architectures, reflecting their independent
-[[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]].
+nest fungi, are adept predators of bacteria through this [[bloomfield-fungal-antibiotics-bacterial-predation-nitrogen-acquisition-soil]] via antibiotics and [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agent.
+Understanding the mechanisms of [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]].
 
 ## See Also
-- [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
 
 ## Sources

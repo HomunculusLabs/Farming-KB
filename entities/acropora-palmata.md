@@ -23,7 +23,7 @@ sources:
 
 *Acropora palmata* is a prominent branching coral endemic to the Caribbean
 Sea and western Atlantic. It is one of the primary reef-building corals of
-the region, contributing substantially to peat calcium carbonate perlite casing psilocybe cubensis miniculture [[peat-perlite-casing-layer-composition-psilocybe-cubensis-miniculture-bigwood-beug]] [[psilocybe-cubensis-miniculture-method]] reef framework
+the region, contributing substantially to peat calcium carbonate perlite casing psilocybe cubensis miniculture [[psilocybe-cubensis-miniculture-method]] reef framework
 construction. The species suffered catastrophic declines exceeding 95% since
 the 1970s from white-band disease, bleaching, and hurricane damage.
 
@@ -62,8 +62,7 @@ form broader, more plate-like structures.
 ## Distribution and Habitat
 
 The species occurs throughout the Caribbean basin, from southern Florida
-and the Bahamas through the Antilles to northern [[guzman-psilocybin-mushrooms-south-america]]. It also
-ranges along [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] from Belize to Panama and into the Gulf of
+and the Bahamas through the Antilles to northern [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] from Belize to Panama and into the Gulf of
 Mexico. Elkhorn coral occupies shallow reef environments from 0.5 to 5
 meters depth, with optimal growth at 1–3 meters.
 

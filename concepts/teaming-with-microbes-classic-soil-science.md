@@ -11,15 +11,9 @@ sources:
 
 # Teaming with Microbes — Classic Soil Science
 
-In *Teaming with Microbes*, Lowenfels and Lewis present the physical and chemical foundations of soil science as essential background for understanding the [[glomalin-and-soil-carbon]] (from fungi) and bacterial slime are the "glues" that bind aggregates
-- Soil organisms of all sizes create pores as they move through soil
-- Good structure "withstands torrential rains, the drying of desert-like droughts, herds of animal traffic, and deep freezes"
+In *Teaming with Microbes*, Lowenfels and Lewis present the physical and chemical foundations of soil science as essential background for understanding the [[hamilton-composting-and-organic-matter-management]] dramatically increases CEC.
 
-## Cation Exchange Capacity (CEC)
-
-Clay and humus particles carry negative electrical charges that attract positive nutrient cations (Ca++, K+, Na+, Mg++, NH4+). This CEC is the soil's nutrient-holding ability. [[hamilton-composting-and-organic-matter-management]] dramatically increases CEC.
-
-See also: [[glomalin-and-soil-carbon]], [[nutrient-cycling-in-soil]]
+See also: [[nutrient-cycling-in-soil]]
 
 ## Soil Health Indicators
 
@@ -27,14 +21,12 @@ Healthy soil exhibits good structure, earthy smell, and diverse biological activ
 
 ## See Also
 
-- [[teaming-with-microbes-protozoa-and-nematodes]]
 - [[microwave-interaction-with-microbial-cells]]
-- [[fukuoka-soil-building-approach]]
 - [[soil-building-ecological-garden]]
 
 ## See Also
 
-[[teaming-with-microbes-nematodes]], [[teaming-with-microbes-protozoa]], [[teaming-with-microbes-bacterial-vs-fungal-dominance]], [[teaming-with-microbes-fb-ratio]]
+[[teaming-with-microbes-protozoa]], [[teaming-with-microbes-fb-ratio]]
 
 ## Organic Matter and Humus
 Organic matter, while typically comprising only 3-6% of soil volume, is
@@ -43,23 +35,13 @@ residues (recently added plant and animal material), active humus
 (partially decomposed matter undergoing rapid microbial processing), and
 stable humus (long-lived, dark-coloured material that persists for
 decades to centuries). Stable humus is the most important component for
-long-term soil health -- it provides the [[teaming-with-microbes-bacterial-vs-fungal-dominance]] is connected to the pH preferences of
-different plant communities -- grasslands and vegetables tend to prefer
-the more bacterial (neutral to alkaline) soils, while trees and shrubs
-often prefer the more fungal (acidic) soils.
-
-## Soil Profiles and Horizons
-Mature soils develop distinct horizontal layers called horizons. The O
-horizon is the organic layer of [[dighton-fungal-decomposition-leaf-litter-dynamics]] and decomposing material on
+long-term soil health -- it provides the [[dighton-fungal-decomposition-leaf-litter-dynamics]] and decomposing material on
 the surface. The A horizon (topsoil) is the dark, mineral-rich layer
 where most biological activity occurs and where plant roots are
 concentrated. The E horizon (eluviation layer) is a light-coloured zone
 where minerals and organic matter have been leached downward. The B
 horizon (subsoil) accumulates the materials leached from above -- clay,
-iron, aluminium, and [[dighton-fungal-dissolved-organic-carbon-production]] compounds. The C horizon is the
-partially weathered parent rock material, and the R horizon is the
-underlying bedrock. In agricultural and garden contexts, the A horizon
-is the most critical zone. Deep-rooted plants and [[teaming-with-microbes-bacterial-vs-fungal-dominance]] in both garden and farm
+iron, aluminium, and [[teaming-with-microbes-bacterial-vs-fungal-dominance]] in both garden and farm
 contexts.
 
 ## Practical Applications
@@ -67,9 +49,7 @@ contexts.
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
-Key practices derived from these soil science principles include regular organic matter
-addition through [[lowenfels-earthworms-soil-food-web]].
+implementation and scale up as understanding deepens through [[lowenfels-earthworms-soil-food-web]].
 
 ## Practical Considerations
 
@@ -89,3 +69,82 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Teaming With Microbes Classic Soil Science represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish teaming with microbes classic soil science
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving teaming extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Teaming With Microbes Classic Soil Science finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for teaming with microbes classic soil science. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+teaming with microbes classic soil science and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Teaming With Microbes Classic Soil Science has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of teaming with microbes classic soil science into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

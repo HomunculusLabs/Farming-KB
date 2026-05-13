@@ -12,48 +12,12 @@ sources:
 
 ## Overview
 
-Successful [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] begins with understanding your site — its soil, climate, exposure, and existing features. The US contains at least 32 distinct climatic regions, each with different growing conditions. Site assessment determines what you can grow, when to perform tasks, and how to manage the land.
-
-## Climatic Regions
-
-The US has dramatic climatic variation that directly affects gardening:
-- **Cool maritime regions** (e.g., Region 1): cool dry summers, heavy winter rainfall
-- **Mediterranean regions** (e.g., Region 3): hot dry summers, mild wet winters
-- **Continental regions** (e.g., Regions 8-9): hot summers, cold winters, large temperature swings
-- **Humid subtropical regions** (e.g., Regions 29-32): warm summers, high rainfall, mild or no winters
-- **Mountain regions** (e.g., Regions 4, 12-14): conditions vary with altitude and exposure
-- **Semi-arid regions** (e.g., Regions 10, 17): very hot, low rainfall, high evaporation
-
-The gardening year is a state of mind as much as a calendar — in cold regions with long-lasting snow cover, outdoor gardening effectively stops in winter.
-
-## Resources for Local Gardening Information
-
-- **Other local gardeners**: practical knowledge of what works in your specific area
-- **Cooperative Extension Service**: university-trained horticultural specialists with offices in nearly every county
-- **Seed and plant catalogs**: adapted varieties for your region, including heirloom and organic options
-- **Regional gardening guides**: calendars adjusted for local frost dates and growing seasons
-
-## Soil Assessment
-
-### Identifying Your Soil Type
-Take a handful of soil and rub between finger and thumb:
-- **Clay**: sticky, rolls into a ball that changes shape when pressed
-- **Sand**: coarse and gritty
-- **Silt**: silky smooth
-- **Chalk**: dry, crumbly, grayish-white
-- **Peat**: black and moist
-
-### Soil Profile
-Dig a deep hole to identify three layers:
-1. **Topsoil**: darkest layer, contains [[hamilton-composting-and-organic-matter-management]] and microorganisms; depth ranges from 2 inches (5 cm) to 6 feet (2 m) — the deeper the better
+Successful [[hamilton-composting-and-organic-matter-management]] and microorganisms; depth ranges from 2 inches (5 cm) to 6 feet (2 m) — the deeper the better
 2. **Subsoil**: lighter color, low in nutrients, few microorganisms; affects drainage
 3. **Parent material**: original mineral rock, usually deep enough not to concern the gardener
 
 ### Soil Testing
-- **pH testing**: essential for all gardens; affects [[ph-and-nutrient-availability-garden-soils]] and plant selection
-- **Professional soil analysis**: recommended for new gardens on virgin soil; sends sample to a lab for complete chemical makeup
-- **Annual pH testing** is sufficient once initial analysis is done
-- Request [[complete-organic-fertilizer-cof-recipe-solomon]] recommendations when sending samples
+- **pH testing**: essential for all gardens; affects [[complete-organic-fertilizer-cof-recipe-solomon]] recommendations when sending samples
 
 ### Soil Types and Their Management
 
@@ -67,25 +31,7 @@ Dig a deep hole to identify three layers:
 
 ### Acidity and Alkalinity (pH)
 - Lime content significantly affects fertility and plant range
-- pH affects availability of some nutrients (see [[hamilton-hedges-and-windbreaks]] protect gardens from prevailing winds
-- Frost pockets: cold air drains to low points; avoid planting frost-tender species in these areas
-- Coastal exposure: salt spray limits plant choices
-- Sheltered gardens warm faster in spring, extending the growing season
-
-### Microclimate
-- Walls and fences create warm microclimates (heat absorbed during day radiates at night)
-- Water bodies moderate temperature extremes
-- Trees provide shade and wind protection but compete for water and nutrients
-- Urban gardens are often warmer than rural sites (heat island effect)
-- Slope: south-facing slopes warm earlier in spring; north-facing slopes stay cold longer
-
-## Garden Layout Planning
-
-### Beds and Borders
-- Deep bed system: raises soil above surroundings, improves drainage and warming
-- Beds should be narrow enough to reach across without stepping on soil
-- Plan paths for year-round access, especially on heavy soils in wet weather
-- See [[hamilton-wildflower-meadow]] and [[hamilton-garden-pond-maintenance]] support wildlife and [[query-how-do-i-create-microclimates-in-my-garden]]
+- pH affects availability of some nutrients (see [[hamilton-wildflower-meadow]] and [[query-how-do-i-create-microclimates-in-my-garden]]
 - Construct ponds in spring
 - Include marsh plants, submerged oxygenators, and deep-water aquatics
 
@@ -118,8 +64,87 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[composting]]
-- [[soil-testing]]
 - [[mollison-designers-design-client-interview-and-site-assessment-process]]
 - [[mollison-permaculture-two-zone-planning-and-site-layout]]
+
+## Overview
+
+Hamilton Garden Planning And Site Assessment represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hamilton garden planning and site assessment
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hamilton extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hamilton Garden Planning And Site Assessment finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hamilton garden planning and site assessment. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hamilton garden planning and site assessment and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hamilton Garden Planning And Site Assessment has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hamilton garden planning and site assessment into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hamilton-cottage-garden-design]]

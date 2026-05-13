@@ -1,6 +1,6 @@
 ---
 title: Fungal fungal identification and biodiversity assessment Assessment
-subtitle: From traditional [[palmer-mushroom-taxonomy-classification-system]] to DNA barcoding and the hidden
+subtitle: From traditional palmer-mushroom-taxonomy-classification-system to DNA barcoding and the hidden
   diversity of the fungal kingdom
 tags: [fungal-taxonomy, dna-barcoding, biodiversity, mycology, identification,
   phylogenetics, metabarcoding]
@@ -36,25 +36,7 @@ the fungal kingdom*
 Fungi are everywhere — in soil, on plants, in the air, inside other organisms —
 yet we have described only a small fraction of the estimated 2.2 to 3.8 million
 species that are thought to exist. Of these, only about 150,000 have received
-formal scientific names, meaning that the vast majority of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-remains unknown to science. This gap between what exists and what we have
-documented represents one of the largest blind spots in modern biology, and
-closing it is essential for understanding ecosystem function, conserving
-biodiversity, discovering useful compounds, and managing the fungal diseases that
-threaten crops, forests, and human health.
-
-Fungal identification has evolved dramatically over the past three centuries, from
-the first tentative descriptions of mushrooms by ancient herbalists to modern
-molecular techniques that can detect species from invisible traces of environmental
-DNA. Each advance in identification methodology has revealed more diversity than
-was previously imagined, and each has also exposed the limitations of the methods
-that preceded it. The morphological approach, which dominated mycology for
-centuries, classified fungi by their visible structures — the shape of the
-mushroom cap, the color of the spore print, the arrangement of the gills. It
-worked well enough for conspicuous macrofungi but was woefully inadequate for the
-microscopic molds, yeasts, and endophytes that constitute the great majority of
-fungal diversity. The molecular revolution of the 1990s and 2000s, powered by
-PCR and [[environmental-dna-sequencing-fungi]], revealed that morphological classification had
+formal scientific names, meaning that the vast majority of [[environmental-dna-sequencing-fungi]], revealed that morphological classification had
 drastically underestimated fungal diversity: many "species" that looked identical
 were in fact complexes of dozens of genetically distinct lineages, and entire
 branches of the fungal tree of life had gone undetected because they produced no
@@ -65,22 +47,7 @@ identifying and cataloging fungal diversity. It examines the taxonomic framework
 that organize our knowledge of the fungal kingdom, the molecular tools that are
 transforming how we discover and describe species, the conceptual problems that
 plague the very notion of what a fungal "species" is, and the urgent efforts to
-document fungal diversity before habitat destruction and [[dighton-fungi-climate-change-feedback]] erase
-species we have not yet even named.
-
-## A Brief History of Fungal Classification
-
-The classification of fungi has its roots in the earliest botanical traditions.
-Theophrastus (370-285 BCE), often called the "father of botany," described
-mushrooms in his *Enquiry into Plants* but classified them as plants without
-further differentiation. Dioscorides, in his *De Materia Medica* (circa 50-70
-CE), documented medicinal and toxic mushrooms, providing some of the earliest
-reliable descriptions of specific fungal species. For nearly two millennia
-thereafter, fungi were lumped together with plants, mosses, and other "cryptogams"
-— organisms that reproduce without obvious sexual organs — and no systematic
-classification existed.
-
-The modern era of [[molecular-methods-fungal-taxonomy-and-diversity]] begins with Carl Linnaeus, whose *Species
+document fungal diversity before habitat destruction and [[molecular-methods-fungal-taxonomy-and-diversity]] begins with Carl Linnaeus, whose *Species
 Plantarum* (1753) established the binomial naming system still used today.
 Linnaeus included fungi within the plant kingdom and placed all gilled mushrooms
 in a single genus, *Agaricus*, which at the time encompassed nearly every
@@ -115,17 +82,12 @@ having diverged from a common ancestor approximately one billion years ago.
 
 ## See Also
 
-- [[fungal-taxonomy]]
 - [[fungal-taxonomy-and-classification]]
-- [[dna-barcoding-fungal-identification]]
 - [[fungal-dna-barcoding]]
-- [[fungal-taxonomy-challenges]]
 - [[cryptic-fungal-species]]
 - fungal-diversity-and-mushroom-categories
 - fungal-diversity-agricultural-systems
-- [[endophytic-fungal-diversity]]
 - [[fungal-biodiversity-tropical-ecosystems]]
-- [[mushroom-taxonomy-history]]
 - [[molecular-fungal-taxonomy]]
 
 ## References

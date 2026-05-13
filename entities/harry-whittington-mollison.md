@@ -74,9 +74,7 @@ all influence the optimal approach to implementation.
 ## See Also
 
 - [[fukuoka-harry-roberts-zen-center-tribute]]
-
-## See Also
-
-- [[interceptor-drain-mollison]]
-- [[diversion-drain-mollison]]
-- [[bill-mollison]]
+- [[wasalt-whittington-interceptor-mollison]]
+- [[mollison-designers-glasshouse-protected-cropping]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[terminalia-mollison]]

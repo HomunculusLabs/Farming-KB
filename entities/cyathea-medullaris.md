@@ -109,13 +109,8 @@ Mamaku also features in **Māori whakataukī** (proverbs) and traditional narrat
 
 ## See Also
 
-- [[cyathea-cooperi]]
 - [[cyathea-dealbata]]
-- [[dicksonia-antarctica]]
 - [[blechnum-spicant]]
-- [[pteridium-aquilinum]]
 - [[asplenium-scolopendrium]]
-- [[athyrium-filix-femina]]
 - [[polystichum-setiferum]]
-- [[dryopteris-affinis]]
 - [[matteuccia-struthiopteris]]

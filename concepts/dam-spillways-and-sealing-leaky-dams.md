@@ -8,38 +8,7 @@ type: concept
 
 ## Overview
 
-Two critical aspects of [[dam-construction]] and maintenance are the design of effective spillways that safely pass excess water, and the techniques available for sealing dams that leak through their base or walls. Both topics are essential for ensuring the long-term functionality, safety, and water retention of earth dams, tanks, and ponds in permaculture and agricultural systems.
-
-## Spillway Design
-
-### Principles
-
-The spillway is the engineered overflow point of a dam that prevents water from overtopping and potentially destroying the wall. Proper spillway design is arguably the most important safety feature of any dam.
-
-Key design requirements include:
-
-- **The spillway base must be carefully surveyed at 1 meter below the crest** — this measurement must be taken precisely, never estimated by eye
-- **The spillway must be located away from the wall or fill itself** — water flowing over or adjacent to the earth wall can erode and undermine it
-- **A broad spillway is preferred** — wide spillways distribute flow energy and reduce erosive velocity
-- **The wall may curve** (either outward or inward), but if carefully constructed as diagrammed with a broad spillway, it should remain stable and safe indefinitely, barring explosions or severe earthquakes
-
-### Base Outlet Pipes and Siphons
-
-In addition to the spillway, dams should be fitted with a **base outlet pipe** equipped with **baffle plates**. These plates are positioned to draw water from the surface level rather than the bottom, which has several advantages:
-
-- Surface water is generally cleaner and less turbid
-- Drawing from the surface prevents the release of sediment that has settled at the bottom
-- The outlet provides a means to drain the dam for maintenance or to supply water downstream
-
-Smaller dams may use a **siphon** over the dam wall crest as an alternative to a through-wall base pipe, which avoids the complexity and potential leakage risk of penetrating the earth wall.
-
-## Sealing Leaky Dams
-
-Leakage is a common problem in earth dams, especially those built in sandy, gravelly, or rocky substrates. Mollison identifies five principal methods for sealing leaking dams, ranging from low-cost biological approaches to expensive engineered solutions.
-
-### 1. Gley
-
-Gley is a biological sealing method that uses anaerobic fermentation of organic material to create an impermeable bacterial slime layer. It is the preferred permaculture method because it uses readily available materials and works in a wide range of [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil|soil]] types.
+Two critical aspects of [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil|soil]] types.
 
 **Procedure:**
 1. Prepare a continuous layer of mashed, wet, green, sappy plant material 15–23 cm (6–9 inches) thick over the base and gently sloping sides of the pond (side slope ratio of 1:4)
@@ -49,12 +18,7 @@ Gley is a biological sealing method that uses anaerobic fermentation of organic 
 5. The paper or plastic covering can be removed after sealing is complete
 
 **Suitable materials** for the base layer include:
-- Cattle manure (preferred — very [[green-manure]] from penned and fed cattle)
-- Shredded, sappy vegetation
-- Lawn or second-cut grasses
-- Papaya and banana leaves
-- Vegetable tops
-- [[green-manure-crops]]
+- Cattle manure (preferred — very [[green-manure-crops]]
 - Bales of green hay
 
 **Modifications and variations:**
@@ -62,7 +26,7 @@ Gley is a biological sealing method that uses anaerobic fermentation of organic 
 - **Hay and manure strewing** — For ponds that leak slightly, strewing bales of green hay and manure produces algae growth that seals minor cracks
 - **Green crop method** — Sow a green crop in the dry dam, spray irrigate it, and feed it off regularly with cattle, building up organic matter and sealing through the combined action of roots, manure, and trampling
 
-**Advanced possibility:** Mollison suggests that in very good soils, especially in the tropics, it may be possible to grow a mass of Dolichos bean in the dam basin and simply roll it flat before sealing — essentially growing your own gley material in situ.
+**Advanced possibility:** Mollison suggests that in very good soils, especially in the tropics, it may be possible to grow a mass of [[dolichos]] bean in the dam basin and simply roll it flat before sealing — essentially growing your own gley material in situ.
 
 ### 2. Bentonite
 
@@ -134,16 +98,4 @@ Mollison provides a striking cost comparison that underscores the value of earth
 - On steep sites, every unit of earth moved equals approximately one unit of water stored
 - On flat sites behind constricted valley necks, the ratio improves dramatically
 
-## Where [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|Different]] Storage Types Are Appropriate
-
-| Storage Type | Appropriate Settings |
-|---|---|
-| **Tanks** | Isolated dwellings, flatlands, cities, urban areas |
-| **Modest dams** (22,500–4.5 million liters) | Any good site in country and parkland areas |
-| **Massive dams** | Only in rock-bermed or glaciated uplands with solid forested hills, low earthquake risk, and only for modest domestic power generation |
-
-Mollison strongly advocates that earth storage is the cheapest, easiest, and most locally self-reliant method of water conservation. He warns that without widespread adoption of such methods, clean water will become the world's rarest mineral, and that the chlorinated, metallic, and contaminated water of centralized supply systems contributes to epidemic diseases including cancer, bone marrow failure, and gastrointestinal disorders.
-
-## See Also
-
-- [[sealing-leaky-dams]]
+## Where [[sealing-leaky-dams]]

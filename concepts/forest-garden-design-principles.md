@@ -19,35 +19,13 @@ The forest garden is the most mature expression of the ecological garden concept
 
 The forest garden stacks productivity into seven distinct layers, using every available niche above and below ground:
 
-1. **Tall-tree layer:** Full-sized fruit, nut, or useful trees with spacing for light penetration. Avoid dense shade trees (maple, sycamore, beech). Choose multifunctioned fruit/nut trees: standard and semi-standard apple, pear, European plum on standard rootstocks, full-sized cherries, chestnut, walnut. Nitrogen-fixing trees ([[comparison-black-locust-vs-honey-locust]], mesquite, alder, tagasaste, carob) help build soil and attract insects.
-
-2. **Low-tree layer:** Same fruits and nuts on dwarf/semi-dwarf rootstocks plus naturally small trees: apricot, fig, nectarine, almond, mulberry, persimmon, pawpaw. Shade-tolerant fruit trees. Flowering trees (dogwood, mountain ash) and N-fixing trees (golden-chain tree, silk tree, mountain mahogany). In smaller gardens, these may serve as the canopy.
-
-3. **Shrub layer:** Flowering, fruiting, wildlife-attracting, and useful shrubs. Blueberry, rose, hazelnut, butterfly bush, bamboo, serviceberry, Elaeagnus species, Siberian pea shrub. Shade-tolerant varieties beneath trees; sun-loving types in openings.
-
-4. **Herb layer:** Nonwoody vegetation in the botanical sense -- vegetables, flowers, [[holzer-medicinal-and-culinary-herbs-compendium]], cover crops, mulch producers, soil builders. Emphasis on perennials but including choice annuals and self-seeders. Traditional garden beds at edges for full-sun crops.
+1. **Tall-tree layer:** Full-sized fruit, nut, or useful trees with spacing for light penetration. Avoid dense shade trees (maple, sycamore, beech). Choose multifunctioned fruit/nut trees: standard and semi-standard apple, pear, European plum on standard rootstocks, full-sized cherries, chestnut, walnut. Nitrogen-fixing trees ([[holzer-medicinal-and-culinary-herbs-compendium]], cover crops, mulch producers, soil builders. Emphasis on perennials but including choice annuals and self-seeders. Traditional garden beds at edges for full-sun crops.
 
 5. **Ground cover layer:** Low, ground-hugging plants offering food or habitat: strawberries, nasturtium, clover, creeping thyme, ajuga, prostrate flowers (phlox, verbena). Critical role in weed prevention by occupying ground that would otherwise succumb to invaders.
 
 6. **Vine layer:** Climbing plants filling the unused vertical dimension: kiwifruit, grapes, hops, passionflower, vining berries, honeysuckle, trumpet-flower, climbing annuals (squash, cucumbers, melons). Use perennial vines sparingly and cautiously -- some are invasive or strangling.
 
-7. **Root layer:** Shallow-rooted crops (garlic, onions, Jerusalem artichokes) and easy-to-harvest types. Deep-rooted varieties like carrots are impractical due to digging disturbance. Daikon radish is an exception -- long roots can often be pulled whole, and if unharvested, blossoms attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] while fat roots add humus.
-
-## Design Process
-
-The forest garden design follows the standard permaculture sequence: observation, visioning, planning, development, implementation. Key additional considerations:
-
-### Wind Protection
-In exposed sites, wind barriers (fences and hedges) greatly speed establishment. Wind increases evaporation, physical damage, and stress on young plants.
-
-### Tree Placement First
-Trees and woody plants go in first since they take longest to mature and define garden shape. Design for full mature size -- the most common mistake is placing spindly seedlings too close together, leading to overcrowding and dense shade. Leave room for sunlight to penetrate between full-grown trees. More northerly gardens need wider spacing.
-
-### Soil Building Priority
-Include abundant nitrogen-fixing and soil-building plants early on. Dense plantings demand lots of nutrients during youth, so the soil must be in excellent condition. Fertile, organic-rich soil built by nutrient-accumulating plants accelerates growth and speeds succession.
-
-### Nursery Propagation Area
-Set aside a small Zone 1 area for seed-starting, [[cannabis-cloning-rooting-cuttings-method-clarke]], and plant propagation. Start perennials for herb, root, and ground cover layers from seed en masse; propagate cuttings for trees, shrubs, and herbs; divide established plants. Nurture for 1-2 years before transplanting to permanent positions. A nursery provides huge numbers of plants very cheaply.
+7. **Root layer:** Shallow-rooted crops (garlic, onions, Jerusalem artichokes) and easy-to-harvest types. Deep-rooted varieties like carrots are impractical due to digging disturbance. Daikon radish is an exception -- long roots can often be pulled whole, and if unharvested, blossoms attract [[cannabis-cloning-rooting-cuttings-method-clarke]], and plant propagation. Start perennials for herb, root, and ground cover layers from seed en masse; propagate cuttings for trees, shrubs, and herbs; divide established plants. Nurture for 1-2 years before transplanting to permanent positions. A nursery provides huge numbers of plants very cheaply.
 
 ### Filling Open Spaces
 Open spaces between trees and shrubs are initially filled with annual vegetables, flowers, nitrogen-fixing cover crops (clover), and nursery stock. As upper layers grow and nursery plants are transplanted, these beds gradually shrink.
@@ -81,45 +59,92 @@ In the establishment phase, when working to restore abused land and heal broken 
 
 ## See Also
 
-- [[forest-garden-seven-layers]]
-- faires-forest-garden-design
-- guild-design-methodology
 - [[habitat-nooks-for-garden-wildlife]]
-- [[david-holmgren]]
 - [[plant-propagation]]
-- [[jerusalem-artichoke]]
+- [[food-forest]]
+- [[dom]]
+- [[swale]]
+
+## Overview
+
+Forest Garden Design Principles represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish forest garden design principles
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving forest extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Forest Garden Design Principles finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for forest garden design principles. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+forest garden design principles and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Forest Garden Design Principles has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of forest garden design principles into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[food-forest]]
-- [[pawpaw]]
-- [[dom]]
-- [[jerusalem-artichoke]]
-- [[swale]]
+
+- [[fukuoka-textdoc-rodenticide-cycle-forest-destruction-mouse-weasel]]
+- [[growing-gourmet-parasitic-mushrooms-forest-blights]]
+- [[mollison-designers-temperate-zone-food-forest-design]]
+- [[mollison-orographic-and-forest-rainfall-effects]]

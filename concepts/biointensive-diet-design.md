@@ -9,7 +9,7 @@ sources:
 ---
 # Biointensive Diet Design
 
-Biointensive diet design is the process of planning a complete, nutritionally adequate vegetarian diet that can be grown entirely within a [[biointensive-calorie-crops]], [[biointensive-seed-saving]] must be included in the plan
+Biointensive diet design is the process of planning a complete, nutritionally adequate vegetarian diet that can be grown entirely within a [[biointensive-seed-saving]] must be included in the plan
 
 ## The GB Diet Composition
 
@@ -24,23 +24,12 @@ A typical one-person biointensive diet design allocates garden beds as follows:
 
 ### Vegetable Crops (20-30% of area)
 - Alliums (onions, garlic, leeks): 1-2 beds
-- [[solomon-leafy-greens-growing]] (kale, chard, lettuce): 2-3 beds (succession planted)
 - [[growing-root-vegetables-guide]] (carrots, beets, turnips): 1-2 beds
 - Summer vegetables (tomatoes, peppers, eggplant): 1-2 beds
 - Cucurbits (squash, cucumbers): 1 bed
 
 ### Carbon/Compost Crops (40-60% of area, overlapping with above)
-- Many calorie crops serve double duty ([[fukuoka-straw-winter-grain-straw-mulch]], bean residues, etc.)
-- Dedicated compost crops fill remaining area
-
-## Seasonal Eating
-
-A well-designed biointensive diet emphasizes:
-
-- **Storage crops**: Potatoes, sweet potatoes, onions, garlic, winter squash, root vegetables (store 3-8 months without processing)
-- **Preservation**: Drying, fermenting, freezing for crops that don't store well
-- **Year-round harvest**: Kale, collards, parsnips, leeks, Jerusalem artichokes harvestable through winter
-- **[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]**: Multiple plantings of quick crops (radishes, lettuce, beans) ensure continuous harvest
+- Many calorie crops serve double duty ([[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]**: Multiple plantings of quick crops (radishes, lettuce, beans) ensure continuous harvest
 
 ## Protein Planning
 
@@ -68,8 +57,7 @@ Fat is the most difficult nutrient to produce in a small garden:
 |--------|-------------------|
 | Spring | Greenhouse/transplants, early greens, peas |
 | Summer | Tomatoes, peppers, squash, beans, corn, potatoes |
-| Fall | Grains harvest, root vegetables, [[gaias-garden-cover-crops-soil-building]] |
-| Winter | Storage crops, [[coleman-winter-greens-nutritional-quality-cold-sweetening]], planning/sorting seeds |
+| Fall | Grains harvest, root vegetables, [[coleman-winter-greens-nutritional-quality-cold-sweetening]], planning/sorting seeds |
 
 ## Scaling Up
 
@@ -79,11 +67,8 @@ Fat is the most difficult nutrient to produce in a small garden:
 
 ## See Also
 
-- [[biointensive-carbon-farming]]
 - [[biointensive-seed-saving]]
-- [[2c-d-pihkal-entry-23]]
 - [[dom-compound-profile]]
-- [[root-vegetable-storage-guide]]
 - [[permaculture-food-storage-and-preservation]]
 
 ## Practical Applications
@@ -115,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[jerusalem-artichoke]]
-- [[permaculture]]
 - [[jeavons-diet-design-self-sufficiency]]
 - [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]

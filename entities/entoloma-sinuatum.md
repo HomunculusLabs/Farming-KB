@@ -23,32 +23,7 @@ sources:
 **Entoloma sinuatum** (Pers.) P. Kumm., commonly known as the leading entoloma or
 livid entoloma, is a large poisonous agaric mushroom in the family
 Entolomataceae. It is the most frequently implicated species in fungal
-[[palmer-toadstool-poisoning-cases]] in Central and Western Europe, responsible for numerous
-hospitalizations annually. The species is responsible for the majority of
-serious mushroom poisonings in regions where it occurs, owing to its
-deceptively edible appearance and occurrence near popular edible species.
-
-E. sinuatum causes severe gastrointestinal toxicity characterized by nausea,
-profuse vomiting, and diarrhea within 30 minutes to 4 hours of ingestion.
-While rarely fatal in healthy adults, the dehydration and electrolyte
-imbalances can be life-threatening in elderly or debilitated patients.
-
-## Taxonomy and Morphology
-
-**Kingdom:** Fungi — **Phylum:** Basidiomycota — **Class:** Agaricomycetes — **Order:** Agaricales — **Family:** Entolomataceae — **Genus:** Entoloma — **Species:** E. sinuatum (Pers.) P. Kumm.
-
-The basionym was established as *Agaricus sinuatus* by Persoon in 1801,
-transferred to *Entoloma* by Kummer in 1871. The species epithet refers to
-the wavy (sinuate) gill attachment to the stipe.
-
-The cap is 5–15 cm in diameter, initially convex becoming broadly umbonate
-with age. The surface is smooth and silky when dry, varying in color from pale
-buff and greyish-brown to ochraceous or pinkish-brown. The margin is initially
-inrolled and often remains slightly wavy even at full expansion.
-
-Gills are adnate to sinuate (notched), moderately crowded, initially whitish
-but becoming pink to salmon-pink at maturity — the defining characteristic of
-the genus Entoloma, caused by pink basidiospores. This pink [[comparison-spore-print-collection-vs-spore-syringe-production]] is a
+[[comparison-spore-print-collection-vs-spore-syringe-production]] is a
 critical diagnostic feature separating Entoloma from similar-looking edible
 Tricholoma and Cortinarius species.
 
@@ -61,21 +36,7 @@ are 8–11 × 7–9 μm, angular to polygonal in profile, pink in deposit.
 
 Entoloma sinuatum is widespread across temperate Europe, with significant
 populations in Scandinavia, the British Isles, France, Germany, Poland, and
-the Baltic states. It has also been reported from [[psilocybin-north-america-pacific-northwest]], though the
-taxonomy of New World material is debated — some authors segregate American
-collections as E. abbreviatum or E. cremeum complex.
-
-The species is mycorrhizal, forming associations with broadleaf trees
-particularly Quercus (oak), Fagus (beech), Carpinus (hornbeam), and Tilia
-(linden). It fruits singly or in scattered groups on soil in deciduous and
-mixed woodlands, appearing from late summer through autumn (August to November
-in the Northern Hemisphere). It shows a strong preference for calcareous or
-neutral clay soils.
-
-## Toxicity and Mechanism
-
-The toxic principles of E. sinuatum have not been definitively identified.
-[[hofmann-lsd-clinical-research-early-studies]] implicated illudin-like sesquiterpenes and unusual sterols,
+the Baltic states. It has also been reported from [[hofmann-lsd-clinical-research-early-studies]] implicated illudin-like sesquiterpenes and unusual sterols,
 but no single toxin has been isolated and characterized to pharmaceutical
 standards. The toxin or toxin complex is heat-stable, meaning cooking does
 not neutralize toxicity.
@@ -88,3 +49,86 @@ presentation is characterized by:
 - Abdominal cramping and bloating
 - Headache, dizziness, and sweating
 - Dehydration, hypotension, and electrolyte imbalance in severe cases
+
+## Overview
+
+Entoloma Sinuatum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish entoloma sinuatum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving entoloma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Entoloma Sinuatum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for entoloma sinuatum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+entoloma sinuatum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Entoloma Sinuatum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of entoloma sinuatum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[entoloma-abortivum]]
+- [[entoloma-hochstetteri]]
+- [[entoloma-rhodopolium]]

@@ -10,36 +10,8 @@ tags:
   - TOC1
   - gene-expression
   - photosynthesis
-  - [[photoperiodism]]
-  - chronobiology
-  - chamovitz
----
-
-# Circadian Rhythm and the Internal Clock in Plants
-
-## Overview
-
-Plants possess an internal biological clock that allows them to track time
-with remarkable precision, maintaining approximately 24-hour rhythms in
-physiology and behavior even without external time cues. In "What a Plant
-Knows," [[daniel-chamovitz]] explores how this circadian clock operates as a
-form of [[biological-memory-non-neural]] — a molecular mechanism allowing plants to
-anticipate regular environmental changes rather than merely reacting to
-them. The plant circadian clock is a distributed network of interacting
-genes and proteins that generates self-sustaining oscillations in gene
-expression, hormone levels, enzyme activity, and metabolism throughout the
-plant.
-
-## The Nature of the Plant Circadian Clock
-
-A circadian rhythm is defined by three characteristics: it persists under
-constant conditions with a period of approximately 24 hours, it can be
-reset (entrained) by external cues such as light and temperature, and its
-period remains relatively constant across temperatures — a property known
-as temperature compensation. These features distinguish true circadian
-rhythms from simple environmental responses.
-
-Plants were among the first organisms in which [[plant-circadian-rhythms]] were
+  - [[daniel-chamovitz]] explores how this circadian clock operates as a
+form of [[plant-circadian-rhythms]] were
 documented. The daily movements of plant leaves, described by Androsthenes
 in the fourth century BCE when he observed tamarind leaves moving up and
 down each day, represent one of the oldest known examples of circadian
@@ -118,7 +90,5 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 
-- [[chamovitz-plant-vision-photoreception-systems-compared]]
 - [[chamovitz-retina-photoreceptor-rod-cone-resolution-plant-comparison]]
-- [[chamovitz-rhodopsin-photopsin-visual-pigment-chemistry-plant-parallels]]
 - [[chamovitz-what-a-plant-knows-overview]]

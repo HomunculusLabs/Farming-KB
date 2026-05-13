@@ -8,12 +8,8 @@ sources:
   - "S.T. Oner - Cannabis cannabis-sativa-dominant-growing-challenges|Sativa Volume 3: The Essential Guide"
 ---
 
-# [[cannabis-backcrossing]]
-- [[oner-cannabis-phenotypes-genetic-expression]]
-- [[oner-cannabis-seed-production-storage]]
-## Background and Context
-
-[[cannabis-breeding-basics]] Fundamentals - Selecting Parent Plants is an important subject that has garnered significant attention
+# [[oner-cannabis-phenotypes-genetic-expression]]
+- [[cannabis-breeding-basics]] Fundamentals - Selecting Parent Plants is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

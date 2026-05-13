@@ -106,13 +106,8 @@ Euphorbia obesa can also be confused with young Ferocactus specimens. The presen
 
 ## See Also
 
-- [[euphorbia-tirucalli]]
 - [[aloe-vera]]
-- [[haworthia-fasciata]]
 - [[conophytum-bilobum]]
-- [[lithops-optica]]
 - [[crassula-ovata]]
-- [[agave-americana]]
 - [[faucaria-tigrina]]
-- [[gasteria-verrucosa]]
 - [[aloe-aristata]]

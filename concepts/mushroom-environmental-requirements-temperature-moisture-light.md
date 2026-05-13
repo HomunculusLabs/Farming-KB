@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The relationship of the cultivated mushroom (*[[agaricus-campestris]]*) to environmental factors—temperature, moisture, and light—is more complex than commonly appreciated. While these factors are often discussed as if their effects were simple and easily distinguished, in reality they interact in intricate ways. Understanding these relationships and their practical implications is essential for successful [[mushroom-cultivation]].
+The relationship of the cultivated mushroom (*[[mushroom-cultivation]].
 
 ## Temperature
 
@@ -33,12 +33,7 @@ Of the two extremes, high temperature is significantly more dangerous to mushroo
 
 ### The Biological Mechanism of Heat Injury
 
-Critically, the injurious effects of high temperature are **not due to direct thermal damage** to the mushroom [[mycelium]]. Rather, high temperature operates by stimulating the growth of competing organisms—insects, fungi, and bacteria—that either crowd out or directly attack the mushroom mycelium and young pin heads. Evidence for this includes:
-
-- Pure cultures of *Agaricus campestris* grow well up to **85°F** so long as sufficient moisture is present
-- The presence of contaminating organisms in culture causes immediate suppression of mushroom mycelium
-- Sporophores (fruiting bodies) have been produced in Mason jar cultures at temperatures constantly at or above 70°F
-- Complete fumigation of [[compost]] permits continuous cultivation at temperatures somewhat above normal
+Critically, the injurious effects of high temperature are **not due to direct thermal damage** to the mushroom [[compost]] permits continuous cultivation at temperatures somewhat above normal
 
 If competing organisms could be largely eliminated from the mushroom bed, mushroom production might be possible at considerably higher temperatures than currently practiced.
 
@@ -115,3 +110,11 @@ The three environmental factors—temperature, moisture, and light—are deeply 
 - Temperature affects the rate of evaporation from beds
 
 Successful mushroom cultivation requires managing all three factors as an integrated system, not as isolated variables. The skilled grower must continuously monitor and adjust the balance among these factors to maintain conditions within the optimal range for each stage of the mushroom's life cycle.
+
+## See Also
+
+- [[telluride-mushroom-festival-modern-mycological-culture]]
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
+- [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
+- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
+- [[mushroom-poisoning-guide]]

@@ -18,10 +18,7 @@ Root rot is a destructive condition caused by fungal or bacterial pathogens that
 
 - **Overwatering**: The most common cause. Saturated soil deprives roots of oxygen.
 - **Poor drainage**: Containers without adequate drainage holes or compacted soil
-- **High water temperature**: Above 72°F (22°C) reduces [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] and promotes pathogens
-- **Contaminated water or medium**: Pathogens introduced through unsterilized equipment or water
-- **Stale reservoir water** (hydroponics): Not changing the reservoir frequently enough
-- **Dead [[hamilton-composting-and-organic-matter-management]] in reservoir**: Decomposing roots or plant material feeds pathogens
+- **High water temperature**: Above 72°F (22°C) reduces [[hamilton-composting-and-organic-matter-management]] in reservoir**: Decomposing roots or plant material feeds pathogens
 - **pH out of range**: Stressed roots are more susceptible to infection
 
 ## Symptoms
@@ -31,59 +28,11 @@ Root rot is a destructive condition caused by fungal or bacterial pathogens that
 - **Drooping that does not improve with watering**: Unlike normal underwatering wilt
 - **Yellowing leaves**: Starting with lower leaves and progressing upward
 - **Slow growth or growth halt**: Plant stops producing new growth
-- **[[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms**: Roots cannot take up nutrients efficiently
-- **Stems may feel soft**: Advanced cases
-
-### Below Ground (Visible When Inspecting Roots)
-- **Brown or dark roots**: Healthy roots are white or cream-colored
-- **Slimy or mushy texture**: Roots feel soft and slimy, not firm
-- **Foul odor**: A rotten, sewage-like smell from the root zone or reservoir
-- **Roots that fall apart**: Affected roots disintegrate when touched
-- **Reduced root mass**: Fewer roots than expected, with dead or dying sections
-
-## Common Root Rot Pathogens
-
-### Pythium
-
-The most common root rot pathogen in cannabis:
-- Thrives in warm, stagnant water
-- Rapidly destroys root systems
-- Common in hydroponic systems, especially DWC and NFT
-- Spreads through contaminated water, tools, or equipment
-
-### Fusarium
-
-Soil-borne fungus:
-- Causes wilting and yellowing similar to Pythium
-- Can persist in soil for long periods
-- More common in soil grows
-- Some strains are resistant; others are highly susceptible
-
-### Phytophthora
-
-Water mold related to Pythium:
-- Causes similar symptoms
-- Thrives in waterlogged conditions
-- Common in outdoor grows with poor drainage
-
-## Prevention
-
-### Hydroponic Systems
-
-1. **Maintain water temperature**: Keep [[cannabis-nutrient-solution-preparation]] at 62–68°F (17–20°C). Use a water chiller if necessary.
+- **[[cannabis-nutrient-solution-preparation]] at 62–68°F (17–20°C). Use a water chiller if necessary.
 2. **Aeration**: Ensure abundant dissolved oxygen — air stones, air pumps, venturi valves
 3. **Reservoir changes**: Change the nutrient solution every 1–2 weeks minimum. Do not top off indefinitely.
-4. **Clean system between grows**: Sterilize all hoses, buckets, pumps, and containers with [[cervantes-hydrogen-peroxide-sterilization]] or bleach solution
-5. **Beneficial bacteria**: Use products like Hydroguard, Great White, or similar beneficial microbe supplements to outcompete pathogens
-6. **Light-proof reservoirs**: Light entering the reservoir promotes algae and pathogen growth
-7. **Avoid dead roots**: Remove dead root material from the system promptly
-
-### Soil Grows
-
-1. **Do not overwater**: Follow the finger test — see [[cannabis-watering-techniques-and-frequency]] — preventing overwatering
-- [[cannabis-deep-water-culture-guide]] — DWC maintenance
+4. **Clean system between grows**: Sterilize all hoses, buckets, pumps, and containers with [[cannabis-watering-techniques-and-frequency]] — preventing overwatering
 - [[cannabis-nutrient-deficiency-and-toxicity-guide]] — deficiency from root damage
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[cannabis-nutrient-solution-preparation]]
 
 ## Practical Applications
@@ -115,8 +64,87 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[greg-green]]
 - [[composting]]
-- [[sterilization]]
 - [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]]
 - [[query-what-causes-cannabis-bud-rot-and-how-to-prevent-it]]
+
+## Overview
+
+Cannabis Root Rot Prevention And Treatment represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis root rot prevention and treatment
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Root Rot Prevention And Treatment finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis root rot prevention and treatment. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis root rot prevention and treatment and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Root Rot Prevention And Treatment has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis root rot prevention and treatment into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]

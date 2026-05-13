@@ -10,22 +10,22 @@ sources:
 
 # JADAM Herbal Pest Control (JHS)
 
-JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a natural pesticide. Combined with [[jadam-wetting-agent-jwa]] (JWA) and optionally JADAM sulfur (JS), it forms a complete pest [[vegetable-insect-and-disease-control]] system that costs a fraction of commercial pesticides.
+JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a natural pesticide. Combined with JADAM wetting agent (JWA) and optionally JADAM sulfur (JS), it forms a complete pest and disease control system that costs a fraction of commercial pesticides.
 
 ## Why Herbal Pest Control
 
 Trees want their fruits eaten to spread seeds -- they do not produce anti-insect substances in autumn. Farming's purpose is opposite to nature's: humans want to take all the fruits. Pesticide is therefore essential for fruit production. JADAM's natural pesticides are permitted under organic regulations, environment-friendly, not harmful to human health, effective, cheap, and easy.
 
-[[jadam-natural-pesticide-jnp]] costs about 1/50 of buying chemical pesticides.
+JADAM natural pesticide costs about 1/50 of buying chemical pesticides.
 
 ## Recommended Herb Plants
 
 Common plants with strong insect-repelling effects:
 
-- **[[comparison-jerusalem-artichoke-vs-potato]]** ([[helianthus-tuberosus]]) -- Easily grown anywhere, grows tall (no weeding needed). Boil leaves, branches, and roots. Controls aphids, mites, and most moths. Assumed that inulin in the plant acts as pesticide.
+- **Jerusalem artichoke** (Helianthus tuberosus) -- Easily grown anywhere, grows tall (no weeding needed). Boil leaves, branches, and roots. Controls aphids, mites, and most moths. Assumed that inulin in the plant acts as pesticide.
 - **Gingko** -- Tree has perfect defense mechanism against pests and diseases. Use fresh leaves, fallen leaves, and fruits.
 - **Korean pasque flower** (Pulsatilla koreana) -- Root is used. Strongest pesticide effect of all. Used in oriental medicine for blood circulation.
-- **Red spider lily** ([[lycoris-radiata]]) -- Root is used. Used in oriental medicine for tumors. Repels moles and snakes when planted.
+- **Red spider lily** (Lycoris radiata) -- Root is used. Used in oriental medicine for tumors. Repels moles and snakes when planted.
 - **Pokeweed, water pepper, bracken, foxglove** -- Also effective
 
 Other options: tobacco leaves (steep 15 days), hot pepper (steep 1 month), garlic (steep 1 month), gingko fruits (steep 1 month).
@@ -85,38 +85,3 @@ Analysis of Korean pasque flower root JHS shows: pH 6.9, contains organic matter
 - [[jadam-sulfur-application]]
 - [[jadam-fermented-plant-juice]]
 - [[knf-oriental-herbal-nutrient]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[jadam-pest-control-with-natural-pesticides-jhs]]
-- [[ultra-low-herbal-smoker-greenhouse-pest-control]]
-- [[jadam-pest-control-recipes]]
-- [[jadam-fruit-tree-winter-pest-control]]
-- [[jadam-natural-pest-control-methods]]

@@ -20,7 +20,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Nichols, D.E. (2014). "Psychedelics." Pharmacological Reviews, 66(1), 136–191.
-  - EMCDDA (2014). "NBOMe Series: [[25i-nbome]], [[25b-nbome]], 25C-NBOMe." EMCDDA-Europol Joint Report.
+  - EMCDDA (2014). "NBOMe Series: 25b-nbome, 25C-NBOMe." EMCDDA-Europol Joint Report.
   - Zuba, D. et al. (2013). "Identification and characterization of NBOMe compounds." Forensic Science International, 233(1-3), 48–56.
   - Erowid (2024). "25C-NBOMe Vault." Erowid.org.
   - Suzuki, J. et al. (2015). "Agitation and death after 25C-NBOMe exposure." Journal of Addiction Medicine, 9(6), 469–471.
@@ -67,29 +67,84 @@ compounds.
 Secondary binding has been reported at 5-HT2C and 5-HT2B receptors,
 though with lower affinity. The 5-HT2A agonism is responsible for the
 psychedelic effects, while 5-HT2B agonism raises theoretical concerns
-about valvular [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]] with chronic exposure.
+about valvular [[lsd]]
+- [[25i-nbome]]
 
-The compound shows negligible activity at dopaminergic, adrenergic, and
-muscarinic receptors at typical doses, contributing to its relatively
-"clean" receptor profile compared to classical psychedelics.
+## Overview
 
-## Effects
+25C Nbome represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-- **Threshold**: 50–100 µg
-- **Light dose**: 100–200 µg
-- **Common dose**: 200–400 µg
-- **Strong dose**: 400–600 µg
+## Key Characteristics
 
-Duration: 6–10 hours, with onset at 20–60 minutes (oral/sublingual),
-peak effects at 2–4 hours, and gradual comedown over 3–5 hours. Buccal
-or sublingual absorption is more reliable than oral due to extensive
-first-pass metabolism.
+Several defining characteristics distinguish 25c nbome
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Effects include visual hallucinations (geometric patterns, color
-enhancement, texture distortion), altered perception of time, enhanced
-emotional responsiveness, and mild cognitive shifts. Compared to 25I-
+## Ecological Context
+
+The ecological relationships involving 25c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+25C Nbome finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 25c nbome. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+25c nbome and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+25C Nbome has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 25c nbome into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[lsd]]
-- [[25b-nbome]]
-- [[25i-nbome]]

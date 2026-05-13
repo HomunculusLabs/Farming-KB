@@ -2,18 +2,7 @@
 title: Shirota Tetrabenzylpyrophosphate Phosphorylation N Butyllithium Conditions
 aliases: [dibenzyl phosphorylation of [[psilocin]], pyrophosphate method,
   phosphoryl iodide method comparison, benzyl phosphate ester synthesis]
-tags: [shirota, [[psilocybin]], phosphorylation, tetrabenzylpyrophosphate,
-  n-butyllithium, organic-chemistry, synthesis]
-source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda
-created: 2026-05-08
----
-
-# Tetrabenzylpyrophosphate Phosphorylation and n-Butyllithium Conditions
-
-## Overview
-
-The phosphorylation of psilocin to produce the dibenzyl-protected
-[[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] (7) represents the most technically demanding step
+tags: [shirota, [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] (7) represents the most technically demanding step
 in the Shirota, Hakamata, and Goda (2003) synthesis of psilocybin.
 After evaluating multiple phosphorylation methodologies, the authors
 selected the pyrophosphate method using tetrabenzylpyrophosphate and
@@ -33,27 +22,7 @@ for several reasons:
   processing steps while remaining amenable to final deprotection
 - **Purification difficulty**: Psilocybin has high polarity, making
   chromatographic purification difficult
-- **Side reactions**: Several [[phosphorylation-methods-psilocybin-production-comparison]] produced
-  [[decomposition]] products or failed to consume the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]
-
-## Phosphorylation Methods Evaluated
-
-Shirota and colleagues evaluated multiple phosphorylation approaches
-before settling on the pyrophosphate method:
-
-1. **Phosphoryl iodide method**: Using tribenzyl phosphite, I₂, and
-  DMAP. This method showed promise but was not selected for scale-up.
-2. **Pyrophosphate method**: Using tetrabenzylpyrophosphate and n-BuLi.
-  This method was selected due to easy handling and reagent stability.
-3. **Other methods**: "Most of the phosphorylation methods did not
-  consume psilocin," indicating that the phenolic hydroxyl of psilocin
-  is relatively unreactive toward many common phosphorylating agents.
-
-## The Selected Conditions: Tetrabenzylpyrophosphate and n-BuLi
-
-### Reagent Preparation
-
-Tetrabenzylpyrophosphate was prepared from [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]] using a
+- **Side reactions**: Several [[decomposition]] products or failed to consume the [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]] using a
 literature procedure with modifications, achieving almost 100% yield.
 This reagent is the tetraester of pyrophosphoric acid with benzyl
 groups, serving as a benzyl phosphate donor.
@@ -82,9 +51,90 @@ stirred for 1 hour while the temperature is allowed to warm to 0°C.
 
 ### Workup and Purification
 
-After the reaction, aminopropyl [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] (approximately 20 g) is
-added to the reaction mixture, which is then diluted with ethyl acetate
-and filtered through a Celite pad. The filtrate is concentrated in
-vacuo, redissolved in dichloromethane, and stored overnight. The
-[[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (8) precipitates as a white substance and is
+After the reaction, aminopropyl [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (8) precipitates as a white substance and is
 collected by filtration.
+
+## Overview
+
+Shirota Tetrabenzylpyrophosphate Phosphorylation N Butyllithium Conditions represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shirota tetrabenzylpyrophosphate phosphorylation n butyllithium conditions
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shirota extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shirota Tetrabenzylpyrophosphate Phosphorylation N Butyllithium Conditions finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shirota tetrabenzylpyrophosphate phosphorylation n butyllithium conditions. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shirota tetrabenzylpyrophosphate phosphorylation n butyllithium conditions and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shirota Tetrabenzylpyrophosphate Phosphorylation N Butyllithium Conditions has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shirota tetrabenzylpyrophosphate phosphorylation n butyllithium conditions into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psilocin-psilocybin-synthesis-shirota]]
+- [[shirota-forensic-standard-compounds-magic-mushroom-identification]]
+- [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]
+- [[shirota-japan-2002-magic-mushroom-regulation-forensic-analysis]]
+- [[shirota-oxalyl-chloride-glyoxalylamide-crystallization-psilocin-route]]

@@ -6,37 +6,13 @@
 Chapter 14 of *Fungi in the Environment*, written by Nicholas P. Money (adapted
 from his 2004 book *Carpet Monsters and Killer Spores*), presents a natural
 history narrative of fungi that destroy buildings. Three species are profiled:
-*[[fungal-serpula-lacrymans-dry-rot-buildings]]* (European dry rot), *[[artillery-fungus-and-built-environment-fungi]]). Together they
-illustrate how [[fruiting-body-development]] covering 6 square
-metres (65 square feet), in a property blanketed with 78 square metres (840
-square feet) of spore-producing rot. As basidiomes mature, they develop ridges
-that extend and fuse into tubes, becoming honeycombed or toothed, elaborating
-ever-greater fertile surface for spore production. Older bodies extend short
-shelves into the air like bracket fungi on trees.
-
-## The Leviticus Connection
-
-Money traces dry rot awareness to the [[allegro-old-testament-figures-as-fertility-deities]] book of Leviticus (14:33-53),
+*[[artillery-fungus-and-built-environment-fungi]]). Together they
+illustrate how [[allegro-old-testament-figures-as-fertility-deities]] book of Leviticus (14:33-53),
 which describes a "fretting leprosy of the house" — "fretting" meaning gradual
 destruction. The prescribed treatment involves priestly inspection, closing the
-home for a week to promote brown-rot-fungi-biodegradation, meaning they [[query-can-fungi-break-down-plastic-pollution]]
-cellulose in wood but leave lignin largely intact. The decayed wood becomes brown
-and cracked in a cubical pattern, eventually reducing to a dry, crumbly mass that
-can be crushed to powder between the fingers. This distinguishes them from white
-rot fungi that decompose both cellulose and lignin. The [[comparison-brown-rot-vs-white-rot-bioremediation]] mechanism
+home for a week to promote brown-rot-fungi-biodegradation, meaning they [[comparison-brown-rot-vs-white-rot-bioremediation]] mechanism
 involves a non-enzymatic Fenton chemistry process, where the fungus generates
-hydroxyl radicals that depolymerize cellulose. This is more [[fungal-serpula-lacrymans-dry-rot-buildings]]
-- fungal-enzymes-degradation-in-wood-decay
-- fungal rhizomorph formation and water transport
-
-## References
-
-- Money, N. P. (2004). *Carpet Monsters and Killer Spores*. Oxford University Press.
-- Money, N. P. Chapter 14 in Gadd, G. M., Watkinson, S. C., & Dyer, P. S. (Eds.) (2006).
-  *Fungi in the Environment*. Cambridge University Press.
-## Practical Applications
-
-Gadd gadd house rot fungi serpula meruliporia sphaerobolus [[dry-rot-fungi-serpula-meruliporia]] Meruliporia Sphaerobolus has a range of practical applications that make it relevant to
+hydroxyl radicals that depolymerize cellulose. This is more [[dry-rot-fungi-serpula-meruliporia]] Meruliporia Sphaerobolus has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -97,8 +73,78 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[spore]]
 - [[dry-rot-fungi-serpula-meruliporia]]
 - [[fungal-serpula-lacrymans-dry-rot-buildings]]
+
+## Overview
+
+Gadd House Rot Fungi Serpula Meruliporia Sphaerobolus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gadd house rot fungi serpula meruliporia sphaerobolus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gadd extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gadd House Rot Fungi Serpula Meruliporia Sphaerobolus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gadd house rot fungi serpula meruliporia sphaerobolus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gadd house rot fungi serpula meruliporia sphaerobolus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gadd House Rot Fungi Serpula Meruliporia Sphaerobolus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gadd house rot fungi serpula meruliporia sphaerobolus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

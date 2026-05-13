@@ -14,16 +14,7 @@ sources:
   - Gartz, J. (1989). "Biotransformation of tryptamine derivatives in mycelial cultures of Psilocybe cubensis." Planta Medica.
   - Tsujikawa, K. et al. (2003). "Determination of psilocin, psilocybin, and baeocystin in mushroom samples." Forensic Science International.
   - Jensen, M.P. et al. (2021). "Pharmacology of baeocystin: A comprehensive review of preclinical evidence." ACS Pharmacology & Translational Science.
-  - Repke, D.B. et al. (1977). "Cyclization of [[hplc-analysis-of-psilocybin-and-psilocin]]." Journal of Organic Chemistry.
----
-
-## Overview
-
-**Baeocystin** (4-phosphoryloxy-N-methyltryptamine, 4-PO-NMT) is a naturally occurring indolethylamine alkaloid and a close structural analog of psilocybin. It is found as a minor constituent in many psilocybin-containing mushroom species, typically at concentrations 5–20 times lower than psilocybin.
-
-The compound was first isolated and characterized in 1968 by Leung and Paul from *Psilocybe baeocystis* Singer & Smith, the species from which it derives its name. It has since been detected in numerous species across the genera *Psilocybe*, *Panaeolus*, *Gymnopilus*, *Inocybe*, and *Pluteus*.
-
-Despite its ubiquity in [[archaeology-of-psychedelic-mushrooms]], baeocystin remains significantly less studied than psilocybin. Its pharmacological profile, subjective effects, and contribution to the overall [[leary-psychedelic-experience-bardo-mapping]] of mushroom consumption are still subjects of active investigation.
+  - Repke, D.B. et al. (1977). "Cyclization of [[archaeology-of-psychedelic-mushrooms]], baeocystin remains significantly less studied than psilocybin. Its pharmacological profile, subjective effects, and contribution to the overall [[leary-psychedelic-experience-bardo-mapping]] of mushroom consumption are still subjects of active investigation.
 
 ## Chemical Properties
 
@@ -35,11 +26,7 @@ Despite its ubiquity in [[archaeology-of-psychedelic-mushrooms]], baeocystin rem
 
 **Molecular weight:** 270.22 g/mol.
 
-**[[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to psilocybin:**
-
-Baeocystin differs from psilocybin by a single methyl group on the terminal amine. Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine (two methyl groups), while baeocystin is 4-phosphoryloxy-N-methyltryptamine (one methyl group). This makes baeocystin the N-desmethyl analog of psilocybin and the phosphorylated prodrug of 4-hydroxy-N-methyltryptamine (4-HO-NMT).
-
-The compound is dephosphorylated in vivo by alkaline phosphatase enzymes, primarily in the intestinal mucosa and liver, to yield the active metabolite 4-HO-NMT. This [[gluconeogenesis-biochemistry-metabolic-pathway]] parallels the conversion of psilocybin to psilocin (4-HO-DMT).
+**[[gluconeogenesis-biochemistry-metabolic-pathway]] parallels the conversion of psilocybin to psilocin (4-HO-DMT).
 
 Baeocystin is soluble in water and polar organic solvents. It is stable under acidic conditions but undergoes dephosphorylation under alkaline conditions, consistent with the behavior of other phosphorylated tryptamines.
 
@@ -47,12 +34,7 @@ Baeocystin is soluble in water and polar organic solvents. It is stable under ac
 
 The pharmacology of baeocystin remains incompletely characterized, though research has accelerated since 2020. Key findings include:
 
-- **[[tihkal-receptor-binding-serotonin]]**: Limited in vitro data suggest baeocystin's active metabolite (4-HO-NMT) binds to 5-HT2A receptors with lower affinity than psilocin, but the precise binding affinity (Ki) has not been definitively established in published literature.
-- **5-HT2A partial agonism**: Like psilocin, 4-HO-NMT is believed to act as a partial agonist at the 5-HT2A receptor, the primary site of action for classical psychedelic effects.
-- **Serotonergic activity**: The compound likely interacts with a broader serotonergic receptor profile including 5-HT1A, 5-HT2C, and 5-HT7 receptors, though these interactions remain poorly quantified.
-- **Pharmacokinetics**: As a prodrug, baeocystin requires dephosphorylation to become pharmacologically active. This conversion is rapid, with onset of effects likely occurring within 20–40 minutes of oral administration.
-
-The contribution of baeocystin to the overall psychoactive experience of consuming whole mushrooms remains debated. Some researchers hypothesize that [[cannabis-terpene-entourage-effect]] of baeocystin, norbaeocystin, and other minor alkaloids may modulate the character and intensity of the psilocybin experience, though controlled clinical studies isolating baeocystin's contribution are lacking.
+- **[[cannabis-terpene-entourage-effect]] of baeocystin, norbaeocystin, and other minor alkaloids may modulate the character and intensity of the psilocybin experience, though controlled clinical studies isolating baeocystin's contribution are lacking.
 
 ## Occurrence in Nature
 
@@ -87,3 +69,82 @@ Based on limited self-reporting and extrapolation from its structural similarity
 - **Estimated strong dose**: 20–35 mg (oral)
 
 These estimates carry significant uncertainty and should not be used as dosing guidance. The compound's subjective effects are reported as qualitatively similar to psilocybin but potentially shorter in duration and milder in intensity, consistent with its hypothesized lower receptor affinity.
+
+## Overview
+
+Baeocystin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish baeocystin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving baeocystin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Baeocystin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for baeocystin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+baeocystin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Baeocystin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of baeocystin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

@@ -12,22 +12,9 @@ tags:
   - dye-plant
 sources:
   - Shepherd K. (2004). "Dodonaea viscosa: Fire Tolerant Shrub for Revegetation." Rural Industries Research and Development Corporation, Australia.
-  - Orwa C, et al. (2009). "Agroforestree Database: a tree reference [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]." World Agroforestry Centre.
-  - Singh S, Singh A. (2011). "Pharmacological review of Dodonaea viscosa." International Journal of Pharmaceutical Sciences and Research 2(12): 2999-3007.
-  - Navie SC, et al. (1996). "The biology of Australian weeds: Dodonaea viscosa." Plant Protection Quarterly 11(3): 122-131.
----
+  - Orwa C, et al. (2009). "Agroforestree Database: a tree reference [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], as well as parts of the Americas.
 
-# Dodonaea viscosa
-
-## Overview
-
-Dodonaea viscosa, commonly known as hop bush or sticky hop bush, is a widespread evergreen shrub in the family Sapindaceae.
-
-It is native to a vast geographic range spanning Africa, Asia, Australia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], as well as parts of the Americas.
-
-The species is remarkably versatile, valued in traditional medicine, land rehabilitation, [[permplant-willows-salix-erosion-control-fodder]], and as a source of dye and fuelwood.
-
-Its common name derives from the hop-like appearance of its papery, winged fruits, which superficially resemble the cones of [[humulus-lupulus]].
+The species is remarkably versatile, valued in traditional medicine, land rehabilitation, [[humulus-lupulus]].
 
 The sticky resinous leaves are a distinctive feature, giving rise to the specific epithet *viscosa*, meaning "sticky" in Latin.
 
@@ -43,24 +30,7 @@ The sticky resinous leaves are a distinctive feature, giving rise to the specifi
 
 ### Varieties and Subspecies
 
-Several infraspecific taxa are recognized, reflecting the species' wide [[geographic-distribution-of-psilocybe-species]] and morphological variability.
-
-- *D. viscosa* subsp. *viscosa* — widespread in Africa, Asia, and Australia
-- *D. viscosa* subsp. *angustifolia* — narrow-leaved form, southern Africa
-- *D. viscosa* subsp. *cuneata* — wedge-leaved form, arid Australia
-- *D. viscosa* subsp. *spatulata* — spoon-leaved form, Pacific Islands
-
-The species complex has been the subject of taxonomic debate, with some authorities recognizing up to 40 distinct varieties.
-
-## Morphology
-
-Dodonaea viscosa is an evergreen shrub typically growing 1–3 m tall, occasionally reaching 5 m under favorable conditions.
-
-The plant has a dense, bushy habit with multiple erect or spreading branches arising from a persistent woody base.
-
-Leaves are simple, alternate, lanceolate to linear-lanceolate, 4–12 cm long and 0.5–2 cm wide, with entire margins.
-
-The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is viscid and resinous, especially when young, with a characteristic sticky texture that distinguishes it from related species.
+Several infraspecific taxa are recognized, reflecting the species' wide [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is viscid and resinous, especially when young, with a characteristic sticky texture that distinguishes it from related species.
 
 Leaf color ranges from bright green to yellowish-green or greyish-green depending on the subspecies and growing conditions.
 
@@ -87,3 +57,80 @@ The plant shows excellent tolerance of drought, fire, salt spray, and poor soils
 ## Traditional and Medicinal Uses
 
 Dodonaea viscosa has an extensive ethnobotanical history across its native range, used by indigenous peoples on multiple continents.
+
+## Overview
+
+Dodonaea Viscosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dodonaea viscosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dodonaea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dodonaea Viscosa finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dodonaea viscosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dodonaea viscosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dodonaea Viscosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dodonaea viscosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

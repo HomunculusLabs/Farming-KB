@@ -19,22 +19,9 @@ type: concept
 Allan Savory draws a sharp distinction between conventional range management
 practices and the holistic approach he advocates. The conventional paradigm,
 developed primarily in nonbrittle environments and applied uncritically to
-brittle ones, has failed to halt [[savory-ecosystem-foundation-blocks]].
+brittle ones, has failed to halt [[savory-mineral-cycle-management]], [[savory-riparian-area-management]]
 
-Key differences from conventional management include:
-
-- **Time replaces numbers**: Grazing periods are planned to ensure plants
-  recover before being reexposed to animals, rather than relying on animal
-  numbers to prevent damage.
-- **Biological planning replaces set stocking**: Annual and seasonal plans
-  are developed on paper using an aide memoire procedure, with constant
-  monitoring and replanning.
-- **Whole ecosystem management replaces single-species focus**: All tools
-  are tested against their effects on [[savory-mineral-cycle-management]], [[savory-energy-flow-and-solar-capture]], and [[savory-riparian-area-management]]
-
-- [[savory-reductionist-vs-holistic-science]]
 - [[savory-stock-density-vs-stocking-rate]]
-- [[savory-testing-and-management-guidelines]]
 - [[savory-holistic-management-overview]]
 ## Practical Applications
 
@@ -88,3 +75,75 @@ between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
+
+## Overview
+
+Savory Conventional Vs Holistic Range Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish savory conventional vs holistic range management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving savory extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Savory Conventional Vs Holistic Range Management finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for savory conventional vs holistic range management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+savory conventional vs holistic range management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Savory Conventional Vs Holistic Range Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of savory conventional vs holistic range management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -47,15 +47,9 @@ Spores are ellipsoid to broadly fusiform, 1-septate, colorless, and measure 15â€
 
 The photobiont is a trebouxia-like green alga characteristic of many crustose lichens.
 
-Chemically, the species contains rhizocarpic acid and numerous related depsidones as its primary [[antifungal-secondary-metabolites-coprophilous-fungi]].
+Chemically, the species contains rhizocarpic acid and numerous related depsidones as its primary [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], occurring on every continent including Antarctica.
 
-## Distribution and Habitat
-
-*R. geographicum* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], occurring on every continent including Antarctica.
-
-It is found across arctic, alpine, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
-
-[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] populations occur in montane New Zealand, Patagonia, and the subantarctic islands.
+It is found across arctic, alpine, and [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] populations occur in montane New Zealand, Patagonia, and the subantarctic islands.
 
 The species colonizes exposed siliceous rock surfaces including granite, gneiss, basalt, and sandstone.
 

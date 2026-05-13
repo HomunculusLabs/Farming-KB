@@ -23,48 +23,9 @@ sources:
 
 ## Overview
 
-**[[harmala-alkaloids]] are reversible inhibitors of monoamine oxidase A (MAO-A), the enzyme responsible for oxidative deamination of serotonin, norepinephrine, and — critically — dimethyltryptamine (DMT). By inhibiting MAO-A in the gastrointestinal tract and liver, harmine and harmaline allow orally ingested DMT to reach systemic circulation and cross the blood-brain barrier, producing visionary psychoactive effects that would otherwise be impossible via oral administration.
-
-### 5-HT₂A Activity
-
-Harmine exhibits moderate affinity for the 5-HT₂A receptor (Ki ≈ 1–5 μM), contributing to its own psychoactive profile. At typical Syrian rue doses, this serotonergic activity produces mild sedation, perceptual changes, and in higher doses, nausea and visual distortions.
-
-### Neuroprotective and Anti-Inflammatory Effects
-
-Preclinical studies have identified several mechanisms of therapeutic interest:
-
-- **Neurogenesis:** Harmine promotes hippocampal neurogenesis via TrkB receptor activation, independent of BDNF
-- **Anti-inflammatory:** Inhibition of NF-κB and TNF-α signaling pathways in macrophage models
-- **Anti-diabetic:** α-glucosidase and α-amylase inhibition in in vitro assays
-- **Anti-tumor:** Induction of apoptosis in various cancer cell lines via CDK2 inhibition and mitochondrial pathways
-
-## Traditional and Ethnobotanical Uses
-
-### Middle Eastern and Central Asian Traditions
-
-- **Esfand burning:** In Persian and Central Asian folk practice, dried Syrian rue seeds are placed on hot coals to produce aromatic smoke believed to ward off the evil eye (cheshm-e zakhm). This practice remains widespread in Iran, Afghanistan, and Tajikistan.
-- **Dye production:** The seeds yield a red dye (turkey red) traditionally used for coloring wool, leather, and textiles
-- **Folk medicine:** Decoctions used as emmenagogue, abortifacient, antihelminthic, and fever treatment
-
-### Psychoactive Use
-
-- **[[schultes-ayahuasca-analogs-dmt-plants]]:** Ground seeds (typically 2–5 g) are combined with DMT-containing plant material ([[mimosa-tenuiflora]] root bark) to create orally active preparations. This practice emerged in the global psychonaut community in the late 20th century
-- **Smoking blends:** Seeds are sometimes smoked alone for mild psychoactive effects, though this is relatively uncommon due to harsh smoke and nausea
-
-## Cultivation
-
-P. harmala is easily cultivated from seed. Seeds require no cold stratification and germinate readily in warm conditions (20–30°C) within 1–3 weeks. The plant prefers full sun, well-drained sandy soil, and minimal irrigation once established. It is hardy to approximately -15°C and can be grown as a perennial in USDA zones 7–10.
-
-### Propagation Methods
-
-- **Direct sowing:** Seeds can be sown directly in the garden after the last frost, 5–10 mm deep. Germination rates of 60–80% are typical from fresh seed
-- **[[jadam-seed-treatment-and-nursery-management]]:** Light scarification (sandpaper) or a 12-hour water soak can improve germination rates, especially for older seeds
+**[[schultes-ayahuasca-analogs-dmt-plants]]:** Ground seeds (typically 2–5 g) are combined with DMT-containing plant material ([[jadam-seed-treatment-and-nursery-management]]:** Light scarification (sandpaper) or a 12-hour water soak can improve germination rates, especially for older seeds
 - **Division:** Established plants can be divided in spring, though the taproot makes this challenging. Stem cuttings are generally unsuccessful
-- **Container growing:** Syrian rue grows well in containers with sandy, well-drained [[solomon-potting-mix-and-seedling-soil-recipe]]. Container plants are smaller but still produce viable seed
-
-### Landscape and Ecological Notes
-
-In its native range, P. harmala serves as a pioneer species on disturbed, saline, and alkaline soils. The plant's deep taproot (up to 1 m) helps break compacted soils and cycle minerals from deep layers. However, its allelopathic properties — harmala alkaloids in leaf litter and [[syrian-rue-peganum-harmala-ethnobotany]]
+- **Container growing:** Syrian rue grows well in containers with sandy, well-drained [[syrian-rue-peganum-harmala-ethnobotany]]
 - [[golden-guide-syrian-rue-and-maoi-plants]]
 ## Practical Considerations
 
@@ -84,3 +45,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Syrian Rue represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish syrian rue
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving syrian extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Syrian Rue finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for syrian rue. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+syrian rue and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Syrian Rue has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of syrian rue into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mckenna-peganum-harmala-syrian-rue-soma-theory]]
+- [[schultes-syrian-rue-seeds-civilization]]
+- [[syrian-rue-entheogen]]
+- [[syrian-rue-peganum-harmala-ethnobotany]]
+- [[syrian-rue-turkestan-mint-and-lesser-old-world-hallucinogens]]

@@ -50,24 +50,9 @@ concentrations. Airflow must be diffuse and indirect; direct drafts on pinning
 surfaces cause desiccation. ## Light Requirements Most cultivated mushrooms
 require light for normal fruiting body development, though they do not
 photosynthesize. Light serves as a directional cue for fruiting and guiding
-[[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]
-orientation (phototropism). - **Intensity**: 500-1000 lux is sufficient; direct
-sunlight is harmful - **Duration**: 12 hours on / 12 hours off cycle is standard
-- **Spectrum**: [[chamovitz-julius-von-sachs-blue-light-phototropism]] (470-520
+[[chamovitz-julius-von-sachs-blue-light-phototropism]] (470-520
 nm) is most effective for promoting normal fruit
-[[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] -
-**Orientation**: Mushrooms grow toward light; ensure even illumination to
-prevent lopsided growth Complete darkness during incubation prevents premature
-pinning. Light during the colonization phase can cause early, weak pinning that
-reduces overall yield. ## Substrate Moisture Content During fruiting, substrate
-moisture must be maintained at 60-70%. The mushroom draws water primarily from
-the substrate for expansion, not from ambient humidity. Substrate that dries out
-produces small, cracked caps with reduced yield. Monitoring substrate weight
-loss during fruiting helps gauge moisture depletion. A fully colonized block
-losing more than 20% of its initial weight is becoming critically dry. ##
-Interaction Between Parameters The fruiting parameters are interdependent: -
-**Humidity and FAE** -- More air exchange reduces humidity; fogging must
-compensate - **[[greg-green-temperature-and-humidity-control]] ** -- Warmer air
+[[greg-green-temperature-and-humidity-control]] ** -- Warmer air
 holds more moisture; cooling can cause condensation - **Light and temperature**
 -- Grow lights generate heat that must be factored into cooling calculations
 Successful growers learn to balance these trade-offs, often using automated
@@ -91,40 +76,7 @@ known standards ensure accuracy - **Automated misting** triggered by humidity
 thresholds reduces labor These tools reduce the risk of parameter drift, which
 is the most common cause of crop failure in commercial operations. Even small
 deviations maintained over hours can compound into significant yield losses. ##
-See Also - [[oyster-mushroom-species]] - [[mushroom-contamination-prevention]]
-- [[mushroom-substrate-preparation]] - mycelial growth parameters
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
+See Also - [[mushroom-contamination-prevention]]
 - [[fruiting-body-development]]
-- [[fruiting-initiation]]
 - [[pleurotus-ostreatus]]
-- [[biological-efficiency]]
 - [[oyster-mushroom]]

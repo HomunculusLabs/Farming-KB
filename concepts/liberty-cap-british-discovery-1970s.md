@@ -51,14 +51,10 @@ The 1799 case of the J.S. family in London's Piccadilly is the earliest conclusi
 
 ---
 
-Source: Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]] (Letcher, 2006), Chapter 4: Much Disordered
+Source: Shroom: A [[australian-magic-mushroom-common-names]] (Letcher, 2006), Chapter 4: Much Disordered
 Updated: 2026-04-18
-- [[psilocybin-mushroom-poisoning-treatment]]
 - [[nineteenth-century-mushroom-identification]]
-- [[green-park-incident-1799-psilocybin]]
-
-## Practical Context
-The 1799 [[peter-mantle-liberty-cap-chromatographic-discovery-1969]] Discovery is relevant to farming knowledge because it connects observation,
+- [[peter-mantle-liberty-cap-chromatographic-discovery-1969]] Discovery is relevant to farming knowledge because it connects observation,
 site conditions, and management choices. Treat it as a working topic rather
 than a standalone label: the useful questions are where it appears, what
 conditions make it stronger or weaker, and how it changes decisions in the
@@ -79,7 +75,6 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[rolf-singer]]
 - [[psilocybin]]
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]
 ## Practical Considerations

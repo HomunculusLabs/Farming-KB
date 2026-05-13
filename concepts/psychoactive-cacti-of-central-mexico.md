@@ -15,42 +15,21 @@ sources:
 
 # Psychoactive Cacti of Central Mexico
 
-Central Mexico is home to a remarkable diversity of cacti used by indigenous peoples as ethnomycology substitutes in ceremonial and healing contexts. The [[false-peyotes-mexican-cactus-ethnobotany]] for broader coverage of false peyote species.
-
-## Sunami (Ariocarpus fissuratus)
-
-Sunami (*Ariocarpus fissuratus*) has been used in the folk medicine of Mexico and the southwestern [[dmt-containing-plants-united-states-halpern]]. It is believed to be more potent than peyote and is consumed in the same manner or prepared as an intoxicating drink. Among some tribes it is known as Chaute (a generic term for *Ariocarpus* species), living rock, or dry whiskey.
+Central Mexico is home to a remarkable diversity of cacti used by indigenous peoples as ethnomycology substitutes in ceremonial and healing contexts. The [[dmt-containing-plants-united-states-halpern]]. It is believed to be more potent than peyote and is consumed in the same manner or prepared as an intoxicating drink. Among some tribes it is known as Chaute (a generic term for *Ariocarpus* species), living rock, or dry whiskey.
 
 Two varieties exist: var. *lloydii* and var. *fissuratus*, both with similar phytochemical makeup. The plant contains mostly hordenine, lesser amounts of N-methyl-tyramine, and some N-methyl-3,4-dimethoxy-β-phenethylamine. Related species *A. kotschoubeyanus* (Pata De Venado or Pezuna De Venado) and *A. trigonus* contain these same alkaloids.
 
 ## Doñana (Coryphantha macromeris)
 
-Doñana is a small cactus from northern Mexico that has attracted significant research interest because it contains [[mescaline-compound-profile]].
-
-Its full alkaloid profile includes normacromerine, N-formylnor-macromerin, tyramine, N-methyltryptamine, hordenine, N-methyl-3,4-dimethoxy-β-phenethylamine, metanephrine, and synephrine (a macromerine precursor). Several other *Coryphantha* species contain macromerine along with most of these companion alkaloids, including *C. pectinada*, *C. elephantideus*, *C. runyonii*, and *C. cornifera* var. *echinus*.
-
-The practical limitation of Doñana is that macromerine typically constitutes only about 0.1 percent of the dried cactus. Since approximately one gram or more may be needed for a psychoactive effect, one would need to consume more than a kilo of dried material or about twenty pounds of fresh plant — clearly impractical. For this reason, extraction of the mixed alkaloids is necessary for anyone wishing to explore Doñana's psychoactive properties.
-
-See [[mescaline-biosynthesis-and-precursor-enhancement]] for mescaline and related phenethylamines in cacti proceeds from the amino acid tyrosine through dopamine, 3,4-dihydroxy-5-methoxyphenethylamine, and 3,5-dimethoxy-4-hydroxyphenethylamine. Species that accumulate intermediates rather than completing the pathway to mescaline tend to have hordenine and tyramine as their primary alkaloids.
+Doñana is a small cactus from northern Mexico that has attracted significant research interest because it contains [[mescaline-biosynthesis-and-precursor-enhancement]] for mescaline and related phenethylamines in cacti proceeds from the amino acid tyrosine through dopamine, 3,4-dihydroxy-5-methoxyphenethylamine, and 3,5-dimethoxy-4-hydroxyphenethylamine. Species that accumulate intermediates rather than completing the pathway to mescaline tend to have hordenine and tyramine as their primary alkaloids.
 Interestingly, the total alkaloid content of most Mexican cacti ranges from 0.01% to 0.5% of dry weight, compared to peyote's 1-8% total alkaloids. This quantitative difference explains why indigenous peoples who used these species as peyote surrogates typically needed to consume much larger quantities. The practical difficulty of harvesting and consuming the required mass of material may have contributed to the preference for peyote in formal ceremony, even among communities where other species were available.
 
 ## Conservation Status and Legal Protection
 
 Many of the cacti discussed here face serious conservation threats. *Pelecyphora aselliformis* is listed on CITES Appendix I, the highest level of international protection, prohibiting all commercial trade. *Ariocarpus fissuratus* is also CITES Appendix I, and wild populations have declined dramatically due to overcollection. *Aztekium ritterii* and *A. hintonii* are both endangered in their extremely restricted natural ranges.
 
-Under Mexican federal law (NOM-059-SEMARNAT-2010), many of these species are categorized as threatened or endangered. International trade in wild-collected specimens is prohibited, though artificially propagated specimens of some species may be traded with CITES permits. The primary conservation threats are illegal collection for the ornamental plant trade, habitat destruction from urbanization and agriculture, and [[dighton-fungi-climate-change-feedback]] affecting the arid ecosystems these species inhabit.
-Conservation organizations including the IUCN Cactus and Succulent Specialist Group have prioritized several of these species for ex situ conservation and habitat protection programs. Botanical gardens and specialist nurseries maintain living collections of the rarest species, providing a genetic safety net against wild extinction. Illegal collection remains the most intractable conservation challenge, driven by demand from cactus enthusiasts and, to a lesser extent, by interest in psychoactive properties.
-
-## Legal Status of Psychoactive Cacti
-
-The legal status of these cacti varies significantly by jurisdiction. In the United States, peyote is the only cactus specifically scheduled under the Controlled [[controlled-substances-act-and-psychedelic-research]] (Schedule I), though an exemption exists for members of the [[halpern-sacramental-peyote-and-native-american-church]] Church. Other mescaline-containing cacti occupy a legal gray area — *Trichocereus* species are widely sold as ornamental plants despite containing mescaline, because they are not specifically listed. The non-psychoactive Mexican species discussed here are generally legal to possess and cultivate, provided they were legally obtained.
-
-## See Also
-
-- [[mescaline-biosynthesis-and-precursor-enhancement]]
-- [[peyote-cultivation]]
+Under Mexican federal law (NOM-059-SEMARNAT-2010), many of these species are categorized as threatened or endangered. International trade in wild-collected specimens is prohibited, though artificially propagated specimens of some species may be traded with CITES permits. The primary conservation threats are illegal collection for the ornamental plant trade, habitat destruction from urbanization and agriculture, and [[controlled-substances-act-and-psychedelic-research]] (Schedule I), though an exemption exists for members of the [[mescaline-biosynthesis-and-precursor-enhancement]]
 - [[gaian-psychotherapy-and-entheogenic-plants]]
-- [[cactus-alkaloids-reference]]
 - [[mescaline-compound-profile]]
 ## Practical Considerations
 
@@ -88,3 +67,84 @@ inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
+
+## Overview
+
+Psychoactive Cacti Of Central Mexico represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychoactive cacti of central mexico
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychoactive extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychoactive Cacti Of Central Mexico finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychoactive cacti of central mexico. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychoactive cacti of central mexico and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychoactive Cacti Of Central Mexico has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychoactive cacti of central mexico into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-raw-juice-non-psychoactive]]

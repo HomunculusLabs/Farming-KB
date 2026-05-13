@@ -116,5 +116,5 @@ seedling survival to final flowering performance and harvest quality. The
 interplay between root temperature, dissolved oxygen, and nutrient
 availability makes this a foundational topic for all serious growers.
 
-- Related: [[cervantes-temperature-management]], [[cervantes-seed-germination]], [[cervantes-cloning]], [[cervantes-seedling-care-early-growth]], [[cervantes-rooting-hormones-cloning]], [[cervantes-reservoir-temperature-management]]
-- See also: [[cervantes-overwatering-underwatering]], [[cervantes-root-rot-pythium-damping-off]], [[cervantes-container-gardening-pot-size]]
+- Related: [[cervantes-seed-germination]], [[cervantes-seedling-care-early-growth]], [[cervantes-reservoir-temperature-management]]
+- See also: [[cervantes-root-rot-pythium-damping-off]], [[cervantes-container-gardening-pot-size]]

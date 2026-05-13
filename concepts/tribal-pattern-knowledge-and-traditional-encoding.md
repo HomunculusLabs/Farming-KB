@@ -8,11 +8,7 @@ type: concept
 
 ## Overview
 
-Tribal peoples worldwide have developed sophisticated [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]s of pattern-based knowledge encoding that rival or surpass modern alphanumeric records in information density, durability, and transmissibility. These patterns — found in tattoos, carvings, sand drawings, woven textiles, songs, and dances — constitute valid literature and accurate recording systems that encode genealogical, navigational, [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]], [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]], and ceremonial knowledge across generations.
-
-## Pattern as Literature
-
-Many tribal peoples use patterns that decorate weapons, houses, skin, and woven textiles or baskets. These patterns possess sophisticated meaning, and almost all have [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]d songs or chants. Tribal art, including Celtic and ancient engraving, exhibits pattern complexity that conveyed important meanings to their peoples. To dismiss such peoples as illiterate is to ignore their patterns, songs, and dances as valid literature and accurate recording systems.
+Tribal peoples worldwide have developed sophisticated [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]], [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]d songs or chants. Tribal art, including Celtic and ancient engraving, exhibits pattern complexity that conveyed important meanings to their peoples. To dismiss such peoples as illiterate is to ignore their patterns, songs, and dances as valid literature and accurate recording systems.
 
 ### The Loss of Pattern Learning
 
@@ -33,12 +29,7 @@ Polynesian navigation maps were constructed from sticks, flexed strips, cowries,
 
 ## Australian Aboriginal Song Maps
 
-The Pitjantjatjara people of Australia sing over sand patterns and can "sing" strangers to a single stone in an apparently featureless desert. Their designs accurately reflect the lobular shapes and elaborate micro-elevations of the desert, richly embroidered by changes in vegetation, and portrayed in [[what-a-plant-knows-phytochrome-red-far-red-light-switch]]ppears to Westerners as abstract art.
-
-### Types of Pattern Mosaics
-
-- Fire patterns and pollen distributions
-- Flowering stages of specific [[phytochrome-red-far-red-ratio-shade-detection-plants]]
+The Pitjantjatjara people of Australia sing over sand patterns and can "sing" strangers to a single stone in an apparently featureless desert. Their designs accurately reflect the lobular shapes and elaborate micro-elevations of the desert, richly embroidered by changes in vegetation, and portrayed in [[phytochrome-red-far-red-ratio-shade-detection-plants]]
 - Rain tracks and cloud streets
 - Hunting and saga data
 - Climatic and seasonal information
@@ -65,28 +56,94 @@ Some practitioners could kill by inducing fibrillation in heart nerves, demonstr
 
 ## The Anasazi Spiral Calendar
 
-One of the most remarkable examples of pattern encoding is the Anasazi spiral, with 19 intercepts on its "horizon" line. This apparently simple spiral form, inscribed on a rock [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]] near the top of a mesa in the desert country of the southwest USA, served as a long-term astronomical calendar.
-
-### Construction and Function
-
-Three rock slabs were carefully balanced and shaped as gnomons that cast moon-shadows or directed vertical daggers of sunlight to points of the spiral. The 19 points at which the spiral intersects the horizontal axis indicate the moon elevation or 19-year (actually 18.6-year) cycle caused by the sway of the earth's axis.
-
-Thus, one simple spiral records lunar and solar cycles for regulating planting, timing ceremonies, and predicting the 19-year cycle of drought and flood. A very simple pattern encodement represents a practical long-term calendar. The Anasazi culture is extinct, and only persistent investigation by Anna Soaer (an artist with intuitive observational skills) revealed the significance of this arrangement.
-
-Scientists have often doubted the capacity of tribal peoples to pattern such long-term and complex events, which in terms of clumsy alphabetical and numerical symbols would be not only forgettable but would take a small library to encode.
-
-## Phenomenological Time
-
-In the complex of time-concepts evolved by Australian Aborigines, only one — and the least important — is the linear concept used to govern modern life. Of far greater everyday use was phenomenological (phenological) time: time given not by clocks but by the life-phenomena of flowers, birds, and weather.
-
-An old Pitjantjatjara woman pointed out a small desert flower coming into bloom and explained that the dingoes in the hills far to the north were now rearing pups, and that it was time for their group to leave for the hills to collect these pups. Thousands of such relationships are known to tribal peoples. Some signals may not occur for 100 or 500 years (like the flowering of a bamboo), but when they do, special actions and ceremonies are indicated and linked phenomena are known.
-
-## Wisdom by Revelation
-
-In tribal society, one is not wise by years but by degree of revelation. Those who understand and embody advanced knowledge [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] intuitive, and therefore most entitled to special veneration. Such knowledge is almost invariably based on pattern understanding and is independent of sex or even age. One is "aged" by degree of revelation, not time spent living.
+One of the most remarkable examples of pattern encoding is the Anasazi spiral, with 19 intercepts on its "horizon" line. This apparently simple spiral form, inscribed on a rock [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] intuitive, and therefore most entitled to special veneration. Such knowledge is almost invariably based on pattern understanding and is independent of sex or even age. One is "aged" by degree of revelation, not time spent living.
 
 ## See Also
 
-- [[tribal-pattern-application-and-land-division]]
 - [[tribal-pattern-knowledge]]
 - [[tribal-soil-classification-and-structure]]
+
+## Overview
+
+Tribal Pattern Knowledge And Traditional Encoding represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tribal pattern knowledge and traditional encoding
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tribal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tribal Pattern Knowledge And Traditional Encoding finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tribal pattern knowledge and traditional encoding. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tribal pattern knowledge and traditional encoding and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tribal Pattern Knowledge And Traditional Encoding has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tribal pattern knowledge and traditional encoding into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mollison-tribal-soil-classifications-and-soil-structure]]
+- [[tribal-art-as-sacred-knowledge-systems]]
+- [[tribal-pattern-encoding-and-mnemonics]]
+- [[tribal-soil-classification-and-structure]]
+- [[tribal-uses-of-patterning]]

@@ -52,9 +52,8 @@ emulsified vegetable oil.
 
 ## Mycoremediation
 
-[[staycare-composting-as-a-fungal-bioremediation-strategy]] (mycoremediation) exploits the [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
-systems of fungi, particularly [[comparison-brown-rot-vs-white-rot-bioremediation]] basidiomycetes, to degrade persistent
-organic pollutants. As described in [[hyperaccumulator-plants]] that concentrate metals in their
+[[dighton-fungal-extracellular-enzyme-systems-decomposition]]
+systems of fungi, particularly [[hyperaccumulator-plants]] that concentrate metals in their
 aboveground tissues, which are then harvested. Thlaspi caerulescens accumulates
 zinc and cadmium at exphytostabilizationtrations, while sunflowers have been
 used to extract lead from contaminated soils.
@@ -65,8 +64,7 @@ to immobilize contaminants in the rhizosphere, reducing leaching and erosion
 loss. Rhizofiltration uses plant roots in hydroponic systems to absorb
 dissolved contaminants from water.
 
-The rhizosphere effect, where [[white-rot-fungi]]
-- [[mycelium-running-techniques]]
+The rhizosphere effect, where [[mycelium-running-techniques]]
 ## Practical Considerations
 
 Successful implementation of Bioremediation Strategies requires attention to
@@ -115,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[rhizofiltration]]
 - [[composting]]
 - [[mycoremediation]]

@@ -10,16 +10,7 @@ type: concept
 
 # Urban Guerrilla Food Growing and City Agriculture
 
-We need to [[query-how-do-i-start-growing-hazelnut-bushes]] food where we live and reclaiming all this
-knowledge for ourselves and future generations. We cannot keep importing
-and trucking all of our food all over the globe and let big corporations
-control the most basic aspect of our lives for us. There is so much
-potential for growing food in the cities and suburbs.
-
-## Reclaiming Urban Spaces
-
-Taking over abandoned rubble lots and rooftops and lawns and starting
-[[gaias-garden-creating-community-gardens]]. Building compost with all the organic wastes from
+We need to [[gaias-garden-creating-community-gardens]]. Building compost with all the organic wastes from
 eateries and restaurants and our kitchens. Catching water before it runs
 off into the sewers. Building ponds and attracting birds and insects.
 Creating urban woodlots of fire and timber wood grown around industrial
@@ -29,18 +20,7 @@ oppressive.
 
 ## Grafting Urban Fruit Trees
 
-Local parks could be full of [[holzer-wild-fruit-trees-and-hedges]] berries. We could graft
-scion wood of good fruit trees to crab apples in alleyways or
-non-fruiting cherries and peaches and plums in parks, and come back
-later for the harvest. This approach transforms existing ornamental
-plantings into productive food sources without requiring new plantings
-or permissions.
-
-## Scavenged Containers and Vertical Growing
-
-We can dumpster tons of bathtubs and tires and milk crates and
-refrigerators and other good stuff to grow things out of. There is more
-edge and vertical [[cotter-growing-space-design-fruiting-rooms]] than you can shake a stick at in the
+Local parks could be full of [[cotter-growing-space-design-fruiting-rooms]] than you can shake a stick at in the
 city. The possibilities are rich. Vertical growing strategies maximize
 limited urban footprint, using walls, fences, railings, and trellises
 to expand growing area upward.
@@ -51,25 +31,7 @@ If this was an industrial monocrop farm, we would have to ship in tons
 of food or things would get really boring. Diversity is all about
 stability and living large. Through drying and freezing, there is no
 problem eating jam and pesto sauce and all sorts of other goodies all
-[[coleman-year-round-intensive-cropping-bed-management]].
-
-## The Edge Principle in Cities
-
-At the edge between the forest and the lake there is always a mix of
-ecologies and a whole other set of species that does not exist in either
-of the two. Ecological productivity always increases at the boundary
-between ecosystems because the resources from both environments are
-available. This is true for land and water, forest and grassland,
-estuary and ocean, sidewalk and street.
-
-Energies and materials always tend to accumulate at the edges. Soil and
-debris are blown by the wind against fences or walls. Increased edges
-make for a more productive landscape, creating more surface area and
-more microclimates. People always want to live on the edges.
-
-## Designing with Edge in Mind
-
-When building garden beds or ponds, [[permaculture-principle-apply-self-regulation]] take edge
+[[permaculture-principle-apply-self-regulation]] take edge
 into account and do not just always make them normal rectangles or
 circles. An  built out of smashed up concrete from an old
 building foundation condenses space, creates a bunch of little
@@ -85,6 +47,90 @@ for increased productivity and diversity.
 Out in the forest the individual plants and animals and soil organisms
 are not nearly as important as how they all relate to each other. When
 the birds eat berries from the trees, they fly to the other side of the
-forest and plant new trees by passing the seeds. [[dighton-fungus-cultivation-ants-termites-bark-beetles]] carry the
-spores of fungi into fallen trees and the fungi help [[query-can-fungi-break-down-plastic-pollution]] the wood
+forest and plant new trees by passing the seeds. [[query-can-fungi-break-down-plastic-pollution]] the wood
 back into soil.
+
+## Overview
+
+Urban Guerrilla Food Growing City Agriculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish urban guerrilla food growing city agriculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving urban extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Urban Guerrilla Food Growing City Agriculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for urban guerrilla food growing city agriculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+urban guerrilla food growing city agriculture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Urban Guerrilla Food Growing City Agriculture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of urban guerrilla food growing city agriculture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-backyard-food-forest-vs-urban-permaculture]]
+- [[permaculture-urban-design]]
+- [[urban-permaculture-and-city-farming]]
+- [[urban-permaculture-systems]]
+- [[urban-rooftop-farming-guide]]

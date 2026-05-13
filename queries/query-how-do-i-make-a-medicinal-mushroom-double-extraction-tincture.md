@@ -10,8 +10,7 @@ type: query
 
 # How Do I Make a Medicinal Mushroom Double Extraction Tincture?
 
-A double extraction tincture captures both the water-soluble and alcohol-soluble compounds from [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Many of the most valued mushrooms — including reishi, [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]], and maitake — contain beneficial polysaccharides like [[query-how-to-grow-reishi-mushrooms]] for cultivating your own reishi
-- [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] for general herbal extraction principles
+A double extraction tincture captures both the water-soluble and alcohol-soluble compounds from [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]], and maitake — contain beneficial polysaccharides like [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] for general herbal extraction principles
 - [[query-how-to-make-fermented-plant-extracts-for-natural-fertilizer]] for plant-focused fermentation methods
 ## Background and Context
 
@@ -22,7 +21,7 @@ from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+[[historical-development-of-mushroom-cultivation]] knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
 traditional knowledge combined with contemporary scientific methods.
@@ -63,7 +62,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -107,7 +106,7 @@ and environmental conditions. Honest assessment of these challenges
 leads to more realistic expectations and better long-term outcomes.
 
 Environmental variability presents one of the most significant ongoing
-challenges. Changes in weather patterns, seasonal fluctuations, and
+challenges. Changes in [[climatic-zones-and-global-weather-patterns]], seasonal fluctuations, and
 unpredictable events can disrupt even well-planned implementations.
 Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.

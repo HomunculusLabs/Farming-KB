@@ -17,9 +17,7 @@ The basic phenethylamine skeleton supports five major regions of modification:
 
 1. **Ring substitution** (positions 2, 3, 4, 5, 6): The most pharmacologically impactful region. The 2,5-dimethoxy pattern is consistently the most active for psychedelic effects. The 3,4,5-trimethoxy pattern (as in mescaline) is active but less potent. The 3,4-methylenedioxy pattern produces entactogenic effects (as in MDMA).
 
-2. **Alpha carbon** (adjacent to the amine): Addition of a methyl group converts a phenethylamine to an amphetamine, generally increasing potency and duration. See [[mescaline]].
-
-3. **Nitrogen substitution**: N-methylation ([[mdea]]), and N,N-dimethylation each produce distinct pharmacological profiles. The nitrogen substituent profoundly affects whether the compound is psychedelic, entactogenic, or stimulant.
+2. **Alpha carbon** (adjacent to the amine): Addition of a methyl group converts a phenethylamine to an amphetamine, generally increasing potency and duration. See [[mdea]]), and N,N-dimethylation each produce distinct pharmacological profiles. The nitrogen substituent profoundly affects whether the compound is psychedelic, entactogenic, or stimulant.
 
 4. **Beta carbon** (middle of the chain): Hydroxylation converts the compound to a catecholamine (e.g., norepinephrine, dopamine). This generally eliminates psychoactive effects but produces endogenous neurotransmitter activity.
 
@@ -31,60 +29,106 @@ The basic phenethylamine skeleton supports five major regions of modification:
 
 The 2,5-dimethoxy-4-substituted phenethylamines (2C family) represent the most thoroughly explored psychedelic phenethylamines. The 4-position substituent determines much of the character:
 
-- Halogens: [[2c-d]] (4-methyl) — gentle, intellectual
-- Longer alkyls:  (4-propyl) — potent, long-lasting
-- Sulfur groups: [[2c-t-4-entity]], [[2c-t-21-entity]] — the 2C-T series, generally more insight-oriented
-- Nitro: [[2c-o-4-entity]] — oxygen analogues of 2C-T series, generally less active
+- Halogens: [[2c-t-4-entity]], [[2c-o-4-entity]] — oxygen analogues of 2C-T series, generally less active
 
 ### Amphetamine Series (DO, TMA, Aleph families)
 
 Three-carbon chain compounds (amphetamines) are generally more potent and longer-lasting:
 
-- [[tma-2-compound-profile]] (2,4,5-TMA) — ten times more potent than TMA, a landmark discovery
-- [[doi-entity]], [[aleph-1-entity]] — the Aleph series (thio-substituted amphetamines)
-
-### Entactogens (MDA/MDMA Family)
-
-- mdma — N-methyl-MDA, the prototypical entactogen
-- [[mbdb-entity]] — N-methyl-1,3-benzodioxolylbutanamine, a non-neurotoxic analogue
+- [[doi-entity]], [[mbdb-entity]] — N-methyl-1,3-benzodioxolylbutanamine, a non-neurotoxic analogue
 
 ### Essential Amphetamines
 
-Compounds structurally related to natural [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], differing only by elements of ammonia:
-
-- [[tma-entity]] — from elemicin
-- [[tma-2-compound-profile]])
-- Sulfur at the 4-position generally produces "insight-oriented" experiences
-- Larger 4-position substituents increase potency but also increase physical side effects
-- The relationship between molecular weight and duration is not linear
-- Ring fluorination or beta-fluoroethyl groups enable PET imaging studies
-
-## Dosage Ranges by Class
-
-| Class | Typical Range | Duration |
-|-------|--------------|----------|
-| 2C phenethylamines | 5-30 mg | 4-12 h |
-| DO amphetamines | 1-5 mg | 12-30 h |
-| TMA series | 20-250 mg | 6-12 h |
-| MDxx entactogens | 80-200 mg | 3-6 h |
-| Aleph amphetamines | 5-20 mg | 8-14 h |
-
-## Safety Considerations
-
-- Potency varies enormously within the class (100x range between least and most potent)
-- Duration varies from 3 hours to 30+ hours
-- Physical side effects increase with dosage: tachycardia, hypertension, hyperthermia
-- Serotonin syndrome risk with MAOIs or other serotonergic drugs
+Compounds structurally related to natural [[tma-entity]] — from elemicin
 - [[kavalactone-pharmacology-neurochemistry]]
 
 - mdma — the most widely studied entactogen
-- [[verticillium-malthousei-entity-the-mushroom-cultivator]]
-
-## Related
-
 - [[2c-g-4-entity]]
-- [[3c-bz-entity]]
 - [[n-methyl-pea-entity]]
-- [[4-d-entity]]
 - [[bod-entity]]
 - [[tm-entity]]
+
+## Overview
+
+Phenethylamine Pharmacology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish phenethylamine pharmacology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving phenethylamine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Phenethylamine Pharmacology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for phenethylamine pharmacology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+phenethylamine pharmacology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Phenethylamine Pharmacology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of phenethylamine pharmacology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[phenethylamine-chain-length-effects]]
+- [[phenethylamine-chemistry-basics]]
+- [[phenethylamine-receptor-pharmacology]]
+- [[phenethylamine-set-and-setting]]
+- [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]]

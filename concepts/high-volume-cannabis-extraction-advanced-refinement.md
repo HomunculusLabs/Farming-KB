@@ -8,13 +8,7 @@ type: concept
 
 ## Overview
 
-Large-scale cannabis extraction requires industrial-scale apparatus built from 55-gallon oil drums and heavy-duty equipment, capable of processing large quantities of marijuana or [[hashish]]. The same chemical principles apply as in small-batch extraction — refluxing, soxhleting, distillation, and solvent collection — but the engineering must account for the amplified hazards of working with large volumes of flammable solvents. Beyond scale, advanced [[mushroom-spawn]] including [[fractional-distillation]] under vacuum can further refine crude oil to nearly pure THC.
-
-## High-Volume Extraction Apparatus
-
-### Design Rationale
-
-The high potency and small volume of [[cannabis-oil-capsules-preparation]], combined with enforcement pressures, created demand for large-scale extraction equipment. The apparatus described here is built from readily available hardware and surplus store materials, specifically designed to handle the unique problems of high-volume work while incorporating necessary safety features.
+Large-scale cannabis extraction requires industrial-scale apparatus built from 55-gallon oil drums and heavy-duty equipment, capable of processing large quantities of marijuana or [[mushroom-spawn]] including [[cannabis-oil-capsules-preparation]], combined with enforcement pressures, created demand for large-scale extraction equipment. The apparatus described here is built from readily available hardware and surplus store materials, specifically designed to handle the unique problems of high-volume work while incorporating necessary safety features.
 
 ### Core Construction: Dual Drum System
 
@@ -104,11 +98,7 @@ All oil solutions from each extraction pass are combined in a large, pre-weighed
 
 ### Overview
 
-Translucent amber oil from charcoal-filtered, isomerized extraction typically contains 30–60% THC. Modern chemistry techniques can further refine this oil through [[cannabis-fractional-distillation-cannabinoids]], yielding products up to twice as strong, and potentially approaching pure THC.
-
-### Fractional Distillation
-
-Fractional distillation separates cannabinoids based on their different boiling points under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]:
+Translucent amber oil from charcoal-filtered, isomerized extraction typically contains 30–60% THC. Modern chemistry techniques can further refine this oil through [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]:
 
 1. **Vacuum reduction:** The oil is heated under reduced pressure created by a vacuum pump, lowering the boiling points of the cannabinoid compounds and preventing thermal degradation
 2. **Selective vaporization:** Different cannabinoids vaporize at different temperatures — the desired THC fraction is collected by selecting the appropriate temperature and pressure
@@ -117,16 +107,7 @@ Fractional distillation separates cannabinoids based on their different boiling 
 
 ### Historical Reference: Adams (1940)
 
-The foundational laboratory method for cannabinoid refinement was documented by [[roger-adams]] in 1940 (Journal of the American Chemical Society, Volume 62, page 198). Key elements of his procedure:
-
-#### Plant Material
-
-Wild hemp grown in Minnesota (1938 season) was cut after flowering began but before seed set. Plants were stored for six weeks with fan circulation (no molding). After shaking to remove leafy parts, clean marijuana was extracted.
-
-#### Countercurrent Extraction
-
-- Four 20-gallon crocks, each holding 23 pounds of material
-- 61 liters of 95% [[ethanol]] per crock
+The foundational laboratory method for cannabinoid refinement was documented by [[ethanol]] per crock
 - Countercurrent transfers: 40 liters withdrawn per transfer, 20 liters retained by the cannabis
 - One to two transfers per day
 - Most concentrated extract: approximately 2 gm solids per 100 cc

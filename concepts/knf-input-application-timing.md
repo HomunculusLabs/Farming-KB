@@ -105,20 +105,6 @@ For soft rot or anthracnose, add WCA at 1:1000.
 ## Key Principle
 
 Dr. Cho's view: providing nutrients in excess to plants is not needed -- it will only bring disease. Use the right material at the right amount and at the right stage.
-## Key Considerations
-
-Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
-
-## Common Challenges
-
-Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
-
-## See Also
-- [[chos-global-natural-farming-input-reduction-methods]]
-- [[complete-knf-input-reference]]
-- [[knf-input-storage-guidelines]]
-- [[low-input-composting-methods]]
-- [[low-input-vegetable-gardening]]
 
 ## See Also
 

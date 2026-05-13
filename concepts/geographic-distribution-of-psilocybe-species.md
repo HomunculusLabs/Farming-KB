@@ -4,14 +4,7 @@
 
 ## Overview
 
-The genus *Psilocybe* (Fr.) P. Kumm. exhibits a global distribution that is strongly biased toward the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and subtropical humid forests. As documented by Guzmán, Allen & Gartz (2000), approximately 116 *Psilocybe* species are recognized worldwide, with the majority occurring in tropical and subtropical regions. The genus displays a strikingly uneven distribution pattern that has important implications for understanding its evolutionary history and biogeography.
-
-## Global Species Counts
-
-The [[distribution-of-neurotropic-fungi]] fungi is heavily concentrated in a few key regions, reflecting both ecological suitability and the degree of [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]:
-
-- **Mexico:** 76 total neurotropic species, including 44 *Psilocybe* species — representing approximately 39% of all known *Psilocybe* species worldwide. This makes Mexico the single most species-rich country for the genus by a wide margin.
-- **[[guzman-psilocybin-mushrooms-south-america]] + Mexico combined:** 59 species of *Psilocybe* documented between these two regions, underscoring the neotropical concentration of the genus.
+The genus *Psilocybe* (Fr.) P. Kumm. exhibits a global distribution that is strongly biased toward the [[distribution-of-neurotropic-fungi]] fungi is heavily concentrated in a few key regions, reflecting both ecological suitability and the degree of [[guzman-psilocybin-mushrooms-south-america]] + Mexico combined:** 59 species of *Psilocybe* documented between these two regions, underscoring the neotropical concentration of the genus.
 - **USA and Canada:** 21 neurotropic taxa total across both countries, a modest number given the vast land area involved.
 - **Europe:** Only 14 *Psilocybe* species have been documented, making it one of the most species-poor regions for the genus despite extensive mycological study.
 - **Africa:** Approximately 6–8 known neurotropic *Psilocybe* species, though the continent remains very poorly explored. *P. natalensis* from South Africa and *P. mairei* from North Africa are among the few confirmed species. The true diversity is likely much higher than current records suggest.
@@ -26,12 +19,7 @@ The distribution data suggest that species subsequently radiated northward over 
 
 Hongo established nine distribution categories that provide a useful framework for classifying the geographic ranges of fungal species. These categories reflect different historical, ecological, and dispersal processes:
 
-1. **Cosmopolitan** — found worldwide across multiple continents, suggesting either very efficient [[fungal-spore-biology]] or ancient origin
-2. **Northern hemisphere** — distributed broadly across northern latitudes in both the Old and New Worlds
-3. **Eurasian** — found across Europe and Asia, suggesting distribution prior to or unaffected by transatlantic barriers
-4. **North American–East Asian** — a disjunct distribution suggesting ancient connections across the Bering land bridge or other trans-Pacific routes
-5. **Far Eastern** — restricted to eastern Asia, possibly reflecting adaptation to specific Asian forest ecosystems
-6. **[[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]]** — restricted to the tropical and subtropical forests of Southeast Asia
+1. **Cosmopolitan** — found worldwide across multiple continents, suggesting either very efficient [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]]** — restricted to the tropical and subtropical forests of Southeast Asia
 7. **Tropical/subtropical** — found in warm regions across multiple continents but absent from temperate zones
 8. **Arctic/alpine** — restricted to high-latitude or high-elevation habitats, adapted to cold conditions
 9. **Endemic** — restricted to a single country or small geographic area, suggesting recent speciation or limited dispersal
@@ -43,15 +31,7 @@ Mexico occupies a unique biogeographic position as a conjugation point where nor
 - *P. caerulipes* reaches northeastern Mexico by dispersing through *Fagus* (beech) mesophytic forests, representing a northern temperate element extending southward along corridor habitats.
 - *P. yungensis* reaches Mexico through *Alnus* (alder) mesophytic forests, representing a southern tropical-montane element extending northward.
 
-The volcanic high mountains [[psychoactive-cacti-of-central-mexico]] also support remarkable high-elevation species such as *P. aztecorum*, which grows at approximately 4,000 meters elevation — among the highest documented habitats for any *Psilocybe* species. This elevational specialization demonstrates the ecological amplitude of the genus in Mexico's varied landscapes.
-
-## Notable Widely Distributed Species
-
-Some *Psilocybe* species achieve remarkably broad geographic distributions that span multiple continents:
-
-- *P. semilanceata* (the liberty cap) is found across temperate Europe, India, Russia, Canada, the USA, Chile, Peru, New Zealand, and Australia. This exceptionally wide range makes it one of the most broadly distributed *Psilocybe* species globally. Notably, it is entirely unknown in Mexico despite that country's extraordinary diversity, strongly suggesting it is fundamentally a temperate-zone species that never established in tropical Mesoamerica.
-
-- *P. cubensis* (the golden teacher) achieves a [[copelandia-cyanescens-pantropical-distribution-and-ecology]] but, as discussed below, this is primarily the result of anthropogenic dispersal rather than natural range expansion.
+The volcanic high mountains [[copelandia-cyanescens-pantropical-distribution-and-ecology]] but, as discussed below, this is primarily the result of anthropogenic dispersal rather than natural range expansion.
 
 ## Anthropogenic Dispersal: The Case of *P. cubensis*
 
@@ -70,22 +50,7 @@ These relationships imply either ancient Gondwanan distributions or long-distanc
 
 ## Regions with High Diversity but Poor Exploration
 
-Several regions are strongly believed to harbor significant undocumented *Psilocybe* diversity based on their climate, [[fungal-habitat-diversity]], and preliminary collections:
-
-- **South America:** Large areas of Amazonia, the Orinoco Basin, and the Andean slopes remain critically under-collected. The existing records suggest very high diversity wherever sampling has been conducted.
-- **New Guinea:** This island possesses extremely rich fungal biodiversity with very limited mycological survey effort. Its tropical montane forests likely harbor numerous undescribed species.
-- **Eastern Australia and New Zealand:** Both regions have documented notable diversity but remain incompletely surveyed.
-- **Southeast Asia:** Java and Sumatra have some records, but Malaysia and much of mainland Southeast Asia are largely unsurveyed for *Psilocybe*.
-
-## Ecological Preferences and Habitat Types
-
-*Psilocybe* species occupy a diverse range of ecological niches, though certain habitat types are strongly preferred across the genus:
-
-- **Dung-inhabiting species:** Several species, most notably *P. cubensis*, are coprophilous (dung-growing) and depend on herbivore waste as their primary substrate. This ecological specialization links their distribution directly to the presence of large herbivores, whether wild or domesticated.
-
-- **Lignicolous species:** Many *Psilocybe* species grow on decaying wood, wood chips, or other lignocellulosic material. Species such as *P. azurescens* and *P. cyanescens* are strongly associated with coastal dune grasses and woody debris.
-
-- **Terricolous species:** Species like *P. semilanceata* grow directly in soil, typically in association with grasses in pastures, meadows, and moorlands. These species are often found in nutrient-poor, acidic soils in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
+Several regions are strongly believed to harbor significant undocumented *Psilocybe* diversity based on their climate, [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 - **Moss-associated species:** Some tropical and subtropical species grow in close association with mosses on forest floors, stream banks, and disturbed habitats.
 
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[dom]]
 - [[spore]]
 - [[fungal-biodiversity]]

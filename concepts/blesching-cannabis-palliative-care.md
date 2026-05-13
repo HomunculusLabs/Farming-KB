@@ -30,12 +30,7 @@ multiple symptoms simultaneously through different cannabinoid-receptor
 pathways:
 
 ### Pain Management (CHI: 19, 12 studies)
-- Cannabis addresses [[cannabis-chronic-pain-management]] via both CB1 (neural pain signaling) and CB2
-  (inflammatory pain) receptors
-- In conjunction with opiates, cannabinoids produce a synergy of effective pain
-  control while reducing opiate-related risks
-- Particularly effective [[cannabis-for-neuropathic-pain]], [[cannabis-cancer-pain-research]], and pain associated
-  with [[blesching-cannabis-multiple-sclerosis]]
+- Cannabis addresses [[cannabis-for-neuropathic-pain]], [[blesching-cannabis-multiple-sclerosis]]
 - Topical cannabinoids significantly reduce nerve pain after herpes flare-ups
 
 ### Nausea and Vomiting (CHI: 111, 27 studies)
@@ -49,42 +44,11 @@ pathways:
 - Endocannabinoids at CB1 receptors stimulate appetite and ingestive behaviors
 - Dronabinol: increases in appetite (38% vs. 8% for placebo), improved mood
   (10% vs. -2%), decreased nausea (20% vs. 7%) in AIDS patients
-- THC is an effective appetite stimulant in [[blesching-cannabis-pain-advanced-cancer]] at well-tolerated
-  low doses
-- Addresses wasting syndrome common in end-stage disease
-
-### Sleep and Insomnia (CHI: 9, 6 studies)
-- Cannabis has traditionally been used as a sleep aid across cultures
-- Particularly effective when insomnia is secondary to pain, anxiety, or
-  spasticity
-- Indica strains are generally preferred for sedative effects
-- Raw fresh leaf or juice contains non-psychoactive cannabinoids that may
-  assist sleep without intoxication
-
-### Anxiety and Mood (CHI: varies)
-- Cannabis can reduce anxiety at appropriate doses within the therapeutic
-  window
-- Dronabinol improved mood in AIDS patients by 10% vs. -2% decline with placebo
-- Nabilone dramatically reduced agitation in Alzheimer's patients
-- Important caveat: doses exceeding the [[blesching-cannabis-therapeutic-window-dosing]] can increase anxiety
+- THC is an effective appetite stimulant in [[blesching-cannabis-therapeutic-window-dosing]] can increase anxiety
 
 ### Spasticity and Muscle Spasms (Multiple Sclerosis, CHI: 15)
 - Significant reduction in spasticity and associated pain
-- Benefits for patients with MS, [[blesching-cannabis-spinal-cord-injuries]] injury, and other neurological
-  conditions
-- Both THC and CBD contribute to muscle-relaxant effects
-
-## Integration with Conventional Palliative Care
-
-Blesching notes that cannabis-derived medications (Dronabinol, Nabilone,
-Sativex) have been studied in formal palliative care settings:
-
-- A 2010 study at Severn Hospice in Shrewsbury, UK, examined Sativex in
-  palliative care patients
-- A 1994 Palliative Care Program at Cleveland Clinic evaluated THC for cancer
-  patients
-- An Oncology and Palliative Medicine study (2006) examined cannabis extract
-  in 164 [[cannabis-for-cancer-patients]]
+- Benefits for patients with MS, [[cannabis-for-cancer-patients]]
 
 Cannabis complements conventional palliative approaches by:
 
@@ -117,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[dronabinol]]
 - [[nabilone]]
 - [[blesching-cannabis-cancer-night-sweats-palliative]]

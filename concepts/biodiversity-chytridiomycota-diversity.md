@@ -11,12 +11,8 @@ type: concept
 # Chytridiomycota Diversity
 
 The Chytridiomycota comprises approximately 800 described
-species of [[anaerobic-zoosporic-fungi]], defined traditionally by the
-presence of a single posteriorly inserted smooth flagellum
-(Barr 2001). As the only fungi that retain a flagellated
-stage in their [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], chytrids represent the most
-basal lineage of the [[fungal-taxonomy-and-kingdom-fungi]], consistent with a
-choanoflagellate-like ancestor. At the time [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]
+species of [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], chytrids represent the most
+basal lineage of the [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]
 came into use, some mycologists doubted that chytrids were
 true fungi, but their inclusion in the kingdom has been
 confirmed based on rDNA evidence (Forster et al. 1990; Bowman
@@ -71,8 +67,7 @@ additional chytrid diversity will be uncovered when more
 chytrids with unique zoospore types are included in
 phylogenetic analyses. Some chytrids with unique zoospore
 morphologies have not been classified in previously existing
-orders. Notably, [[batrachochytrium-dendrobatidis]], the chytrid
-pathogen associated with global [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], does not
+orders. Notably, [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], does not
 fall within any of the groups defined on the basis of DNA
 characters. This finding underscores how little is known
 about chytrid diversity and the need for comprehensive
@@ -86,39 +81,6 @@ may be an important factor in the global decline of amphibian
 populations (Daszak et al. 1999, 2000; Longcore et al. 1999).
 This ecological crisis has highlighted how poorly understood
  chytrid diversity remains, despite the phylum's fundamental
-importance in [[bloomfield-chytrid-fungi-early-fungal-evolution]] and ecosystem functioning.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[det]]
+importance in [[dom]]
 - [[spore]]
-- [[biodiversity-yeast-diversity-ecology]]
 - [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]

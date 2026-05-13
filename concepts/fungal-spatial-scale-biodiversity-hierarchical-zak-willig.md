@@ -2,7 +2,7 @@
 
 ## Overview
 
-Whittaker (1977) first recognized that ecological diversity is scale-dependent and hierarchical in nature. For mycologists, this creates unique challenges because fungi operate across spatial scales ranging from micrometers (individual hyphal tips) to entire landscapes ([[fungal-mycelial-networks-nutrient-translocation]] spanning hectares). Understanding spatial scale is essential for designing [[lichen-biodiversity-sampling-protocols-data-analysis]], interpreting biodiversity data, and comparing results across studies.
+Whittaker (1977) first recognized that ecological diversity is scale-dependent and hierarchical in nature. For mycologists, this creates unique challenges because fungi operate across spatial scales ranging from micrometers (individual hyphal tips) to entire landscapes ([[lichen-biodiversity-sampling-protocols-data-analysis]], interpreting biodiversity data, and comparing results across studies.
 
 ## The Hierarchical Nature of Diversity
 
@@ -16,38 +16,10 @@ Also called within-habitat diversity. Alpha diversity is the diversity within a 
 
 ### Beta Diversity
 
-The change in species composition between habitats or along [[fungal-adaptations-environmental-gradients]]. Beta diversity quantifies how much species turnover occurs as one moves across space. It is by far the most commonly used metric of differentiation diversity for examining compositional changes along gradients.
-
-### Gamma Diversity
-
-The total diversity across an entire landscape or region, encompassing all habitat types within it. Gamma diversity is conceptually related to alpha and beta diversity through the relationship:
-```
-Gamma = Alpha × Beta (approximately)
-```
-More precisely, gamma diversity reflects the cumulative species pool across all habitats in a region.
-
-### Delta and Epsilon Diversity
-
-Delta diversity describes the change in species composition between geographic regions (biogeographic scale), while epsilon diversity addresses broad biogeographic patterns across continents or major climatic zones. These scales are rarely addressed in individual mycological studies due to the logistical demands of multi-regional sampling.
-
-## Scale-Dependent Challenges for Mycologists
-
-### The Fungal Unit Problem
-
-Fungi present a fundamental challenge to [[fungal-biodiversity-measurement-methods]] because their body plan differs from most organisms:
+The change in species composition between habitats or along [[fungal-biodiversity-measurement-methods]] because their body plan differs from most organisms:
 - Most fungi consist of indeterminate mycelial networks rather than discrete individuals
 - A single mycelium can occupy microenvironments to macroenvironments simultaneously
-- Distant segments remain interconnected, facilitating [[plasmodesmata-and-intercellular-communication-in-plants]]
-- Sporocarps on a forest floor may represent multiple ramets of a single genet or ramets from multiple genets
-- Only molecular or isozymic analyses can untangle genetic structure of fungal populations
-
-### Genet vs. Ramet
-
-For clonal organisms like fungi:
-- A **genet** is a unique genetic individual
-- A **ramet** is a physiologically independent module belonging to a genet
-- The number of countable units (ramets) is not the same as the number of genets
-- Without genetic analysis, [[fungal-diversity-estimates]] based on sporocarp counts may dramatically over- or underestimate true genetic diversity
+- Distant segments remain interconnected, facilitating [[fungal-diversity-estimates]] based on sporocarp counts may dramatically over- or underestimate true genetic diversity
 
 ### Operational Definitions
 
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-biodiversity]]
 - [[det]]
-- [[mycelium]]
 - [[mycelial-networks]]
 - [[fungal-biodiversity-power-analysis-statistical-design-zak-willig]]

@@ -89,7 +89,13 @@ The principles work synergistically: working with nature makes the least change 
 
 ## See Also
 
-- [[permaculture-design-principles]]
 - [[permaculture-twelve-design-principles]]
-- [[holmgren-permaculture-twelve-design-principles-framework]]
 - [[mollison-permaculture-two-introduction-design-principles]]
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[stametsian-permaculture-model]]
+- [[permaculture-farm-design-principles]]
+- [[nitrogen-fixing-plants-in-permaculture]]
+- [[urban-permaculture-and-integrated-land-management]]

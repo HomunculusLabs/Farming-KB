@@ -9,19 +9,14 @@ related: [microwave-surface-sterilization-technology, sterilization-methods-comp
 
 # Microwave Microbial Kill Curves and Inactivation Kinetics
 
-[[dry-microwave-irradiation-spore-resistance]] of damp surfaces produces characteristic microbial
-kill curves that demonstrate the progressive reduction of viable organisms
-with increasing exposure. Data from NASA's [[coaxial-power-splitter-waveguide-microwave-sterilization]] research
+[[coaxial-power-splitter-waveguide-microwave-sterilization]] research
 (MSC-22484) provide quantitative kill curves for mixed populations of
 bacteria, yeasts, and molds at defined exposure rates and durations.
 
 ## Challenge Organisms
 
 The NASA study tested microwave sterilization effectiveness against three
-representative microorganisms spanning different [[coprophilous-fungi-taxonomic-groups-distribution]] and
-resistance levels:
-
-- ***[[bacillus-pumilus-radiation-resistance-surface-decontamination]]*** — A spore-forming bacterium. Spores are among the
+representative microorganisms spanning different [[bacillus-pumilus-radiation-resistance-surface-decontamination]]*** — A spore-forming bacterium. Spores are among the
   most resistant microbial forms to physical and chemical treatments,
   making *B. pumilus* a standard biological indicator for sterilization
   validation.

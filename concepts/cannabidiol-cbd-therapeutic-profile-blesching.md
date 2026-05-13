@@ -22,15 +22,7 @@ therapeutic powers at higher concentrations.
 
 While the full complexity of how CBD interacts with the body's endocannabinoid
 system is yet to be revealed, CBD operates through multiple complementary
-mechanisms beyond direct [[beta-glucan-receptor-binding]]:
-
-- **FAAH inhibition**: By suppressing the enzyme that degrades anandamide,
-  CBD effectively increases endogenous endocannabinoid tone, amplifying the
-  body's natural regulatory and protective signaling.
-- **CB2 receptor affinity**: CBD's preferential binding to CB2 receptors
-  mediates anti-inflammatory and immunomodulatory effects throughout the
-  immune system and peripheral tissues.
-- **5-HT1A receptor activation**: CBD engages [[psilocybin-pharmacology-and-serotonin-receptors]] to achieve
+mechanisms beyond direct [[psilocybin-pharmacology-and-serotonin-receptors]] to achieve
   a calming effect on autonomic stress responses such as rapid heart rates.
 - **TRPV1 modulation**: CBD interacts with the vanilloid receptor system,
   influencing pain perception and inflammatory signaling.
@@ -61,32 +53,13 @@ activity and anti-inflammatory signaling.
 ### Neurodegenerative Disease
 
 CBD shows promise in addressing Alzheimer's disease, Parkinson's disease,
-[[blesching-cannabis-multiple-sclerosis]], and other neurodegenerative conditions through its
-combined anti-inflammatory, antioxidant, and neurotrophic effects.
-
-## Psychiatric Applications
-
-CBD's [[metzner-ayahuasca-therapeutic-potential]] in psychological disorders is based on its
+[[metzner-ayahuasca-therapeutic-potential]] in psychological disorders is based on its
 antipsychotic, anxiolytic, and antidepressant effects. Notable findings
 include:
 
 - **Schizophrenia**: CBD is able to reduce symptoms of acute paranoid
   schizophrenia as effectively as the pharmaceutical drug Amisulpride,
   but unlike Amisulpride, CBD has no significant adverse side effects.
-- **[[cannabis-for-anxiety-disorders]]**: Through serotonergic pathway engagement, CBD
-  produces anxiolytic effects comparable to benzodiazepines without the
-  associated sedation, cognitive impairment, or dependency risk.
-- **Depression**: CBD demonstrates antidepressant-like effects in animal
-  models and shows potential for modulating stress response systems.
-- **PTSD**: CBD's combination of anxiolytic, sleep-promoting, and memory-
-  consolidation effects makes it a promising adjunct for trauma therapy.
-
-## Anti-Inflammatory and Immunomodulatory Effects
-
-CBD has been shown to have a clear and measurable therapeutic impact on
-inflammatory and anti-inflammatory regulation mechanisms. Documented
-applications include:
-
 - **[[blesching-cannabis-inflammatory-bowel-disease]]**: CBD modulates gut immune function and
 
 ## Practical Applications
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[psilocybin]]
 - [[serotonin]]
 - [[anandamide]]

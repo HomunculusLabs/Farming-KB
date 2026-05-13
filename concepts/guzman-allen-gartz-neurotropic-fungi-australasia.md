@@ -17,10 +17,8 @@ sources:
 type: concept
 ---
 
-# [[psilocybe-subaeruginosa]]** — perhaps the most iconic Australian neurotropic fungus; first reported by Picker and Richards (1970), subsequently documented by Hall (1973), Southcott (1974), Cleland (1976), Chilton (1978), Margot and Watling (1981), Guzmán (1983), Chang and Mills (1992), and Johnston and Buchanan (1995). This species is closely related to the European P. cyanescens but is a distinct taxon. It grows on wood chips, mulch, and in gardens, and is particularly abundant in the Melbourne area during autumn.
-- **[[psilocybe-semilanceata]]** — the "[[peter-mantle-liberty-cap-chromatographic-discovery-1969]]," also found in Australia; documented by Margot and Watling (1981), Dickinson and Lucas (1983), Redhead (1989), Allen et al. (1991), Guzmán (1995), and Stamets (1996). Its presence in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], far from its European center of distribution, is biogeographically significant.
-- **[[amanita-muscaria]]
-- [[claviceps-purpurea]]
+# [[psilocybe-semilanceata]]** — the "[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], far from its European center of distribution, is biogeographically significant.
+- **[[claviceps-purpurea]]
 ## Practical Applications
 
 Neurotropic Fungi of Australia and New Zealand: Biogeography and Endemism has a range of practical applications that make it relevant to
@@ -97,8 +95,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[neurotropic-fungi]]
 - [[guzman-allen-gartz-neurotropic-fungi-europe]]
-- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
 - [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
 - [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]

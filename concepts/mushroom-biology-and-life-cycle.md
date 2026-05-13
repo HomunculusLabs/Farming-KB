@@ -73,7 +73,7 @@ several distinct stages:
    pinheads. These are the earliest visible stages of fruiting body
    development, marking the transition from vegetative to reproductive growth.
 
-5. **Fruiting Body Development:** Primordia develop into mature mushrooms
+5. **[[fruiting-body-development]]:** Primordia develop into mature mushrooms
    through cell expansion and differentiation. The fruitbody consists of a
    stalk (stipe) and a cap (pileus) bearing gills. Basidia on the gill
    surfaces undergo karyogamy followed by meiosis, producing haploid spores
@@ -134,8 +134,6 @@ colonize a wide range of agricultural waste substrates, converting low-value
 plant residues into nutritious, high-value food products.
 
 ## See Also
-- [[mushroom-biology-structure-life-cycle]]
 - [[mushroom-biology-life-cycle-classification]]
-- [[agaricus-campestris-biology-and-life-cycle]]
 - [[pf-tek-mushroom-life-cycle-timeline]]
 - [[mushroom-life-cycle]]

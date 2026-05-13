@@ -27,7 +27,7 @@ type: comparison
 | Feature | Yerba Mate (*I. paraguariensis*) | Guayusa (*I. guayusa*) | Yaupon (*I. vomitoria*) | Tea (*C. sinensis*) |
 |---------|----------------------------------|------------------------|------------------------|---------------------|
 | **Family** | Aquifoliaceae (holly) | Aquifoliaceae (holly) | Aquifoliaceae (holy) | Theaceae |
-| **Native range** | S. America (Paraná basin) | Amazon basin (Ecuador, Peru) | SE [[dmt-containing-plants-united-states-halpern]] | East/[[psilocybe-southeast-asia-pacific]] |
+| **Native range** | S. America (Paraná basin) | Amazon basin (Ecuador, Peru) | SE [[psilocybe-southeast-asia-pacific]] |
 | **USDA zones** | 8b–10 | 10–12 | 7–9 (6 with protection) | 7–9 (var. sinensis), 10–11 (assamica) |
 | **Cold tolerance** | -3°C (brief) | Frost kills | -15°C | -12°C (var. sinensis) |
 | **Mature size** | 12–18 m (shrub in cultivation) | 15–30 m (coppiced to shrub) | 3–8 m | 2–15 m (shrub in cultivation) |
@@ -50,61 +50,11 @@ type: comparison
 **Yaupon** — hands down the winner. Survives -15°C, native to regions with hot summers and freezing winters. No other caffeine plant comes close for cold tolerance.
 
 ### Best for Temperate Climates (Zone 8–9)
-**Tea** (*C. sinensis* var. *sinensis*) and **yaupon** both thrive. Tea produces higher-quality beverage per leaf but requires more care (pruning, [[cannabis-pest-management-guide]], precise processing). Yaupon is nearly maintenance-free by comparison.
-
-### Best for Subtropical Climates (Zone 9–10)
-**Yerba mate** hits its sweet spot. Tea also grows well (both varieties). Yaupon tolerates these zones but may struggle with extreme summer heat.
-
-### Best for Tropical Climates (Zone 10–12)
-**Guayusa** and **tea var. assamica**. Guayusa excels in humid tropical understory. Assamica is the basis for most commercial black tea production.
-
-## Cultivation Difficulty
-
-| Aspect | Mate | Guayusa | Yaupon | Tea |
-|--------|------|---------|--------|-----|
-| **[[cannabis-seed-germination-methods]]** | Difficult (dormancy) | Moderate | Easy | Moderate (stratification) |
+**Tea** (*C. sinensis* var. *sinensis*) and **yaupon** both thrive. Tea produces higher-quality beverage per leaf but requires more care (pruning, [[cannabis-seed-germination-methods]]** | Difficult (dormancy) | Moderate | Easy | Moderate (stratification) |
 | **Cutting success** | Low (30–50%) | Moderate (50–70%) | High (70–90%) | Moderate (60–80%) |
 | **Soil requirements** | Moderate (acidic, well-drained) | Specific (acidic, organic) | Minimal (adapts to most) | Specific (acidic, well-drained) |
 | **Water needs** | High (consistent moisture) | Very high (tropical rainfall) | Low (drought-tolerant) | Moderate-consistent |
-| **Fertilization** | Annual compost | Regular [[hamilton-composting-and-organic-matter-management]] | Minimal | Regular nitrogen for flush growth |
-| **Pruning** | Annual/biennial prune-harvest | Coppice every 1–2 years | Frequent shearing OK | Precise plucking every 7–14 days |
-| **Pest management** | Moderate | Low | Very low | Moderate-high |
-| **Overall difficulty** | ★★★☆☆ | ★★★☆☆ | ★☆☆☆☆ | ★★★★☆ |
-
-## Caffeine Content Comparison
-
-Brewed beverage caffeine per 240 ml (8 oz) serving:
-
-| Beverage | Typical caffeine range | Notes |
-|----------|----------------------|-------|
-| Coffee (drip) | 95–200 mg | Highest common beverage |
-| Guayusa tea | 80–150 mg | Comparable to moderate coffee |
-| Tea (black) | 40–70 mg | Varies widely by grade and steep |
-| Tea (green) | 20–45 mg | Lower due to processing |
-| Yerba mate | 30–85 mg | Varies by preparation method |
-| Yaupon | 30–60 mg | Similar to moderate green tea |
-
-Guayusa is notable for approaching coffee-level caffeine while maintaining a smooth, jitter-free experience due to L-theanine content — a combination usually only associated with tea.
-
-## Economic and Yield Comparison
-
-| Factor | Mate | Guayusa | Yaupon | Tea |
-|--------|------|---------|--------|-----|
-| **Market maturity** | Established (global) | Emerging (niche) | Reviving (new market) | Mature (massive) |
-| **Price per kg (dried)** | $8–25 | $20–60 | $30–80 | $5–500+ |
-| **Labor intensity** | Moderate | Low-moderate | Very low | Very high |
-| **Processing investment** | Moderate (drying equipment) | Low (simple drying) | Minimal (can air-dry) | High (specialized for each style) |
-| **Scalability** | Good | Good (agroforestry) | Excellent (hardy, easy) | Limited (labor-intensive) |
-| **Value per labor hour** | Moderate | Moderate-high (premium pricing) | High (low labor + premium) | Variable (very high for specialty) |
-
-## Permaculture Integration Score
-
-| Factor | Mate | Guayusa | Yaupon | Tea |
-|--------|------|---------|--------|-----|
-| **Multi-functionality** | ★★★☆☆ (leaf + shade + windbreak) | ★★★★☆ (leaf + shade + agroforestry) | ★★★★★ (leaf + ornamental + wildlife + erosion) | ★★★☆☆ (leaf only) |
-| **Native plant value** | ★★★☆☆ (S. America) | ★★★☆☆ (Amazon) | ★★★★★ (SE US native) | ★☆☆☆☆ (non-native most places) |
-| **Wildlife support** | ★★☆☆☆ (fruit for birds) | ★★★☆☆ (Amazonian habitat) | ★★★★★ (flowers for bees, fruit for birds) | ★★☆☆☆ (flowers for bees) |
-| **Soil building** | ★★★☆☆ (leaf litter) | ★★★★☆ (organic [[mollison-designers-tropical-soils-and-cation-exchange-management]]) | ★★★☆☆ (moderate) | ★★★☆☆ (moderate) |
+| **Fertilization** | Annual compost | Regular [[mollison-designers-tropical-soils-and-cation-exchange-management]]) | ★★★☆☆ (moderate) | ★★★☆☆ (moderate) |
 | **Climate resilience** | ★★★☆☆ | ★★☆☆☆ (tropical-dependent) | ★★★★★ | ★★★☆☆ |
 
 ## Bottom Line
@@ -120,8 +70,81 @@ Guayusa is notable for approaching coffee-level caffeine while maintaining a smo
 
 - piscidia-piscipula
 
-- [[herb-growing-guide]]
 - [[companion-planting]]
-- [[comparison-insectary-plants-vs-trap-cropping]]
 - [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
 - [[comparison-insectary-plants-vs-trap-crops]]
+
+## Overview
+
+Comparison Caffeine Plants Yerba Mate Vs Guayusa Vs Yaupon Vs Tea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison caffeine plants yerba mate vs guayusa vs yaupon vs tea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Caffeine Plants Yerba Mate Vs Guayusa Vs Yaupon Vs Tea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison caffeine plants yerba mate vs guayusa vs yaupon vs tea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison caffeine plants yerba mate vs guayusa vs yaupon vs tea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Caffeine Plants Yerba Mate Vs Guayusa Vs Yaupon Vs Tea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison caffeine plants yerba mate vs guayusa vs yaupon vs tea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

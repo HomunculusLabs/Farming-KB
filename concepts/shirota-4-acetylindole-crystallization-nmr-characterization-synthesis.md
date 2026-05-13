@@ -10,9 +10,7 @@ created: 2026-05-10
 ## Overview
 
 In Shirota, Hakamata, and Goda's concise large-scale synthesis of
-[[psilocin-and-psilocybin-chemistry]] (J. Nat. Prod. 2003), the first synthetic
-intermediate is 4-acetylindole (compound 4), produced by acetylation
-of commercially available [[4-hydroxyindole]]. This crystallization step
+[[4-hydroxyindole]]. This crystallization step
 is critical to the overall synthesis because it establishes a
 crystalline intermediate that can be produced on multigram scale with
 high purity, avoiding the need for chromatographic purification.
@@ -45,10 +43,7 @@ requiring column chromatography.
 After formation, the crystals are collected by filtration and washed
 successively with water and ethyl acetate. This simple workup procedure
 is scalable and reproducible, which is essential for the authors' goal
-of achieving gram-scale production of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] for use
-as analytical standards in forensic and regulatory contexts.
-
-The Japanese Narcotics and Psychotropic [[japan-narcotics-control-law-psilocybin-fungi-2002]] had recently
+of achieving gram-scale production of [[japan-narcotics-control-law-psilocybin-fungi-2002]] had recently
 regulated fungi containing psilocin and psilocybin (since June 6, 2002),
 creating demand for pure reference standards. The crystallization
 approach directly addresses this need by providing a reliable, scalable
@@ -88,3 +83,11 @@ The 13C NMR spectrum in CDCl3 at 100 MHz provides additional
 structural confirmation. Key resonances include:
 
 - The acetyl carbonyl carbon at delta 169.6, confirming the presence
+
+## See Also
+
+- [[shirota-japan-2002-magic-mushroom-regulation-forensic-analysis]]
+- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
+- [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]
+- [[shirota-zwitterionic-phosphate-intermediate-discovery]]
+- [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]]

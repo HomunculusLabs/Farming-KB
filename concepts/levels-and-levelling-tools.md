@@ -1,5 +1,5 @@
 ---
-title: Levels and Levelling Tools
+title: Levels and [[levelling-tools-and-techniques]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Accurate levelling is essential in permaculture earthworks to ensure that spillways function, drains flow correctly, dam walls are level, and house sites are truly horizontal. While sophisticated instruments exist, many highly effective levelling tools can be handmade from readily available materials. Thousands of kilometres of drains have been surveyed and levels set using very simple tools, often by people with minimal training.
+Accurate levelling is essential in [[permaculture-earthworks]] to ensure that spillways function, drains flow correctly, dam walls are level, and house sites are truly horizontal. While sophisticated instruments exist, many highly effective levelling tools can be handmade from readily available materials. Thousands of kilometres of drains have been surveyed and levels set using very simple tools, often by people with minimal training.
 
 ## The Water Principle
 
@@ -40,7 +40,7 @@ One person walks past the other alternately, driving a stake every 6 or 15 metre
 
 ### Accuracy
 
-A fall of 1 cm in 5 m equals 1:500, which is ample for most diversion drains carrying run-off to dams. Dead level lines can also be run across landscape, and dam walls checked for level. A 12-kilometre drain flowing gently at 1:2000 in sand was reportedly laid in not by a skilled surveyor but by two women hired for a week and trained in 30 minutes on a hose level.
+A fall of 1 cm in 5 m equals 1:500, which is ample for most [[diversion-drains-and-spreader-banks]] carrying run-off to dams. Dead level lines can also be run across landscape, and dam walls checked for level. A 12-kilometre drain flowing gently at 1:2000 in sand was reportedly laid in not by a skilled surveyor but by two women hired for a week and trained in 30 minutes on a hose level.
 
 ## The Plane Table
 
@@ -86,7 +86,7 @@ A person swivels the frame about one leg and sets the second leg where the cord 
 
 ## The Long Inclinometer
 
-Ralph Long of Australia devised a tractor-mounted level (bubble level) that can be fitted to any vehicle on farms. Called the Long Inclinometer, it has been successfully used to cut drains using the tractor itself as a check on levels.
+[[ralph-long]] of Australia devised a tractor-mounted level (bubble level) that can be fitted to any vehicle on farms. Called the Long Inclinometer, it has been successfully used to cut drains using the tractor itself as a check on levels.
 
 ## Key Principles
 
@@ -97,8 +97,6 @@ Ralph Long of Australia devised a tractor-mounted level (bubble level) that can 
 - The water principle is the foundation of all levelling — if in doubt, use water itself to verify
 
 ## See Also
-- [[gabion-and-check-dams-water-earthworks]]
 - [[duck-keeping]]
-- [[ingham-field-guide-compost-tea-application-rates]]
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
 - [[permaculture-beginners-guide-observation-and-mapping]]

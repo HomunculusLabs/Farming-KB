@@ -31,9 +31,7 @@ unawares, failed to hear the proper response.
 
 ## The Moment of Enlightenment
 
-Fukuoka's transformation came during a period of intense personal crisis in his youth. He had been working as a plant pathologist at a customs laboratory in Yokohama, pursuing [[psilocybin-isolation-and-early-scientific-research]] on diseases affecting cultivated plants. While pursuing his research, he was filled with doubts about the nature of life and knowledge.
-
-One day, prompted by a chance incident, he underwent what he describes as a conversion of faith — a turning point. He had the feeling that science was some sort of outrageous monster. Sensing that everything was utterly meaningless, he quit his post and headed back to Shikoku, where he conceived the idea [[four-principles-of-natural-farming]].
+Fukuoka's transformation came during a period of intense personal crisis in his youth. He had been working as a plant pathologist at a customs laboratory in Yokohama, pursuing [[four-principles-of-natural-farming]].
 
 > "Natural farming is nothing less than a true way of human life that revealed itself suddenly to me when I learned that nature is always a total perfectionist, that it is the image of a God who faithfully practices absolute truth, and that man cannot survive away from nature's embrace."
 
@@ -51,15 +49,7 @@ One of Fukuoka's most profound philosophical concepts is the "discontinuous cont
 
 The rice plant withers and dies each year, but the grains of rice go on living. Life is handed down from one generation to the next, constantly born anew. Today's life ends today. The "me" of today dies today. To be alive means to live this day to the fullest — that is the only way to live.
 
-This concept extends [[fukuoka-organic-to-natural-farming-transition]] itself: "God in all ages appears as a discontinuous continuum. Natural farming too, since antiquity, may have arisen and vanished, and risen again to flourish."
-
-## God Has Left Man to His Own Devices
-
-Fukuoka's view of the divine is neither conventionally theistic nor strictly pantheistic. He speaks of God as a reality that can be sensed but not grasped, known through experience but not through intellect. God's will can be perceived in the perfection of natural processes, but God does not intervene to save humanity from its own errors.
-
-> "God has left man to his own devices; he has abandoned man. If man does not save himself, no one will do this for him."
-
-This is not a statement of despair but of urgent responsibility. Humanity has turned its back on God and betrayed itself, and the consequences — environmental destruction, [[fukuoka-flavor-philosophy-spiritual-alienation-food]], the loss of natural food and natural life — are the natural result. The path back is not through prayer or technology but through restoring a right relationship with nature.
+This concept extends [[fukuoka-flavor-philosophy-spiritual-alienation-food]], the loss of natural food and natural life — are the natural result. The path back is not through prayer or technology but through restoring a right relationship with nature.
 
 ## Farming as Spiritual Practice
 
@@ -112,17 +102,7 @@ modern man has forgotten.
 
 ## The Critique of Human Arrogance
 
-Underlying all of Fukuoka's observations is a deep critique of human arrogance toward nature. Scientists today, he argues, are under the illusion that they can replace God as the Lord of all creation. But the organisms they create through [[fukuoka-critique-genetic-engineering]] will forever be imperfect creatures caught within the domain of the concepts of space and time.
-
-> "Human intelligence has overdeveloped and become sidetracked. Today, man has metamorphosed into a creature that can remain unconcerned even if it loses sight of and destroys nature and God. It is fair to say that man's excessive confidence in his own intelligence has caused him to lose sight of true nature and true food, true life, true God, even the true image of man himself."
-
-## A Light That Must Not Die
-
-Despite his stark warnings, Fukuoka held to a fragile hope. Natural farming, he wrote, is one of the spiritual lights that must be kept burning throughout the night. In this age, it is possible that if this light dies out, it may never burn again. Natural farming is more than just a way of farming — it is without question the one and only path that remains for humanity to continue to survive on this earth. It must not be allowed to come to an end.
-
-## See Also
-
-- [[masanobu-fukuoka]]
+Underlying all of Fukuoka's observations is a deep critique of human arrogance toward nature. Scientists today, he argues, are under the illusion that they can replace God as the Lord of all creation. But the organisms they create through [[masanobu-fukuoka]]
 - fukuoka natural farming do nothing agriculture
 - fukuoka desertification agricultural civilization collapse
 - [[fukuoka-natural-diet-food-philosophy]]

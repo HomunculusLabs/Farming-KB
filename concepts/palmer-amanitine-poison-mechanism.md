@@ -10,9 +10,7 @@ type: concept
 
 # Palmer on Amanitine Poison Mechanism and Absorption
 
-Julius A. Palmer was the first to clearly segregate the [[russula-edible-species]], and bitter boletus-edulis|Polyporus species. These caused immediate discomfort but were readily treated with emollients like sweet-oil, slippery-elm, or gum-arabic.
-
-3. **A subtle alkaloid without taste, smell, or other indication**: Found exclusively in the [[allegro-amanita-muscaria-properties-and-pharmacology]] (poison-fly Agaric) for the purposes of narcotism and intoxication. The urine of those who had partaken was reportedly in demand for future orgies, which were similar to those produced by alcohol. This traditional use, Palmer observed, showed that the same alkaloid that was deadly in large doses could produce narcotic effects in controlled quantities — a fact that later researchers would explore for potential medicinal applications.
+Julius A. Palmer was the first to clearly segregate the [[allegro-amanita-muscaria-properties-and-pharmacology]] (poison-fly Agaric) for the purposes of narcotism and intoxication. The urine of those who had partaken was reportedly in demand for future orgies, which were similar to those produced by alcohol. This traditional use, Palmer observed, showed that the same alkaloid that was deadly in large doses could produce narcotic effects in controlled quantities — a fact that later researchers would explore for potential medicinal applications.
 
 ## The Fatal Meal Pattern
 
@@ -25,8 +23,7 @@ began — eight to fifteen hours later — the alkaloid had been fully
 absorbed through the intestinal walls and evacuation of the stomach
 contents could no longer save the patient.
 
-See also: [[fungal-poisons-and-toxicology]],
-[[palmer-poisonous-mushrooms-deadly-species]]
+See also: [[palmer-poisonous-mushrooms-deadly-species]]
 ## Practical Applications
 
 Palmer on Amanitine Poison Mechanism and Absorption has a range of practical applications that make it relevant to

@@ -22,31 +22,6 @@ health, and increasingly studied for its signature compound cordycepin.
 
 ## Shiitake
 
-[[shiitake-mushroom-cultivation]]
-
-Shiitake is the second most cultivated mushroom globally, grown on
-hardwood logs or supplemented sawdust blocks in controlled environments.
-Native to East Asian forests, it fruits naturally on dying hardwood trees
-such as oak (Quercus spp.) and shii (Castanopsis cuspidata). The mushroom
-has been deliberately cultivated for over 2,000 years, making it one of
-the oldest cultivated fungi.
-
-The primary medicinal compound in shiitake is lentinan, a beta-1,3-glucan
-with beta-1,6 branches that has demonstrated significant anti-tumor and
-immune-modulating effects. Lentinan is approved as an adjunct cancer
-therapy in Japan and is administered alongside chemotherapy to improve
-patient outcomes. Shiitake also produces eritadenine, a compound shown
-to lower serum cholesterol by altering lipid metabolism.
-
-Cultivation is straightforward compared to most medicinal species.
-Shiitake grows on hardwood sawdust supplemented with rice bran or soybean
-meal, incubates for 8-12 weeks, and fruits after a cold-water soak that
-triggers pinning. Optimal fruiting occurs at 50-65°F (10-18°C) with high
-humidity. Yields are reliable and scalable, making shiitake one of the
-most economically accessible medicinal mushrooms to produce.
-
-## Cordyceps
-
 [[cordyceps-cultivation]]
 
 Cordyceps militaris is an entomopathogenic ascomycete that parasitizes
@@ -98,16 +73,7 @@ immune modulation, especially during cold and flu season.
 
 Shiitake is ideal for small-scale farmers and homesteaders because it
 fruits on natural hardwood logs outdoors with no sterile technique
-required. The [[shiitake-cultivation-parameters]] are well-documented and forgiving
-of minor environmental fluctuations, making it an excellent first
-medicinal mushroom for beginning cultivators.
-
-## When to Choose Cordyceps
-
-Choose cordyceps when the primary goal is enhanced physical performance,
-energy, or respiratory function. Athletes and active individuals benefit
-most from cordycepin's ability to increase ATP production and improve
-oxygen utilization. The [[medicinal-mushroom-guide-cordyceps]] highlights its role as an
+required. The [[medicinal-mushroom-guide-cordyceps]] highlights its role as an
 adaptogen that regulates the HPA axis and improves fatigue resistance.
 
 Cordyceps is also preferred for respiratory conditions and altitude
@@ -127,8 +93,6 @@ shiitake extract with 1-3g C. militaris extract daily, taken with food.
 
 ## See Also
 
-- [[shiitake-medicinal-compounds]]
 - [[lentinan-lem-lap-shiitake-compounds]]
-- [[cordyceps-militaris]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
 - [[medicinal-mushroom-compounds-and-health-benefits]]

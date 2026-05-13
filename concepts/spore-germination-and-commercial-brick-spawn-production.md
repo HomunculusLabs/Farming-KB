@@ -8,13 +8,7 @@ type: concept
 
 ## Overview
 
-While the tissue culture method became the dominant approach to mushroom [[spawn-production]] in the early 20th century, the challenge of spore germination continued to attract attention from both scientists and commercial spawn-makers. At the same time, the production of commercial "brick" spawn—the compact, dried blocks of inoculated compost that dominated the English and American markets—required careful attention to materials, manufacturing techniques, and [[inoculation-methods]]. This page examines both the ongoing quest for reliable spore germination and the practical craft of [[brick-spawn]] manufacture.
-
-## The Spore Germination Challenge
-
-### Why Spores Are Difficult
-
-A natural question arises: why should there be any serious difficulty in germinating mushroom spores and producing spawn by this direct and natural process? The difficulty lies in the fact that the spores of *[[agaricus-campestris]]* **do not germinate readily**. While they are capable of germination, and suitably stimulated a considerable percentage may grow, the methods of stimulating germination that have been developed are far less easily applied than the tissue culture method.
+While the tissue culture method became the dominant approach to mushroom [[inoculation-methods]]. This page examines both the ongoing quest for reliable spore germination and the practical craft of [[agaricus-campestris]]* **do not germinate readily**. While they are capable of germination, and suitably stimulated a considerable percentage may grow, the methods of stimulating germination that have been developed are far less easily applied than the tissue culture method.
 
 ### Costantin and Matruchot's Secret Method
 
@@ -40,7 +34,7 @@ The tissue culture method with its approach might also develop further in the Un
 
 ### Advantages
 
-The compact commercial brick spawn exhibits two significant advantages:
+The compact commercial [[brick-spawn]] exhibits two significant advantages:
 
 1. **Better keeping quality** than any other product on the market—the compressed, dried form resists deterioration during storage and shipment
 2. **Easily handled**—standardized dimensions and compact form facilitate packaging, shipping, and use in the field

@@ -11,32 +11,8 @@ type: query
 # How to Make Cannabis Tinctures at Home
 
 ## Short Answer
-Cannabis tinctures are liquid extracts made by soaking decarboxylated [[cervantes-cannabis-flower-anatomy]] in
-high-proof alcohol or glycerin.
-They offer a smoke-free, precisely dosable way to consume cannabinoids and terpenes,
-with effects typically felt within 15 to 45 minutes when taken sublingually.
-
-## Detailed Explanation
-A tincture is one of the oldest and most versatile methods of consuming cannabis,
-with a history stretching back to the 19th century when cannabis tinctures were a
-standard pharmaceutical preparation in pharmacies across Europe and America.
-
-Unlike smoking or vaping, tinctures deliver cannabinoids through the mucous membranes
-under the tongue (sublingual absorption) or through the digestive system when added
-to food and drinks.
-
-This makes them an excellent option for medical users, non-smokers, and anyone seeking
-discreet, controlled dosing without the respiratory risks associated with inhalation.
-
-The foundation of any good cannabis tincture is proper
-[[cannabis-tincture-preparation]]
-and [[cannabis-tinctures-and-edibles]] and
-[[herbal-tincture-making]] and [[cannabis-tinctures-guide]] provides strain-specific recommendations and advanced
-techniques for creating targeted formulations.
-
-## Key Points
-- Always decarboxylate your cannabis first to convert THCA and CBDA into active THC
-  and CBD, following the principles in [[cannabis-decarboxylation-chemistry]]
+Cannabis tinctures are liquid extracts made by soaking decarboxylated [[cannabis-tincture-preparation]]
+and [[herbal-tincture-making]] and [[cannabis-decarboxylation-chemistry]]
 ## Practical Applications
 
 How to Make Cannabis Tinctures at Home has a range of practical applications that make it relevant to

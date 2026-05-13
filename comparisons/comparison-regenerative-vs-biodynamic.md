@@ -12,8 +12,7 @@ type: comparison
 # Regenerative vs Biodynamic Agriculture
 
 ## Overview
-Regenerative agriculture and [[comparison-biodynamic-farming-vs-organic-farming]] are two holistic approaches
-that go beyond conventional [[coleman-deep-organic-farming-philosophy]]. Regenerative agriculture,
+Regenerative agriculture and [[coleman-deep-organic-farming-philosophy]]. Regenerative agriculture,
 codified by Robert Rodale in the 1980s and popularized by practitioners like
 Gabe Brown, focuses on measurable soil health outcomes, carbon sequestration,
 biodiversity enhancement, and ecosystem restoration through five core
@@ -24,11 +23,7 @@ astronomical planting calendars. Both share a commitment to treating farms as
 living systems rather than industrial production units.
 
 ## Regenerative Agriculture
-[[biodynamic-agriculture-and-steiner]]
-Biodynamic agriculture was developed by Rudolf Steiner in a 1924 lecture
-series and represents one of the first comprehensive organic farming systems.
-Steiner introduced "etheric formative forces" — non-material energies that
-shape living organisms beyond what [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] can detect. Dr.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] can detect. Dr.
 Ehrenfried Pfeiffer developed copper chloride crystallization testing to
 reveal the quality and vitality of plants and soils, demonstrating that
 strong, vigorous plants produce harmonious crystal patterns while weak plants
@@ -63,19 +58,7 @@ results.
 | Certification | Voluntary (ROC since 2018) | Demeter certification (strict) |
 | Scientific Basis | Strong (soil microbiology) | Mixed (esoteric elements) |
 | Approach | Pragmatic, outcome-focused | Holistic, philosophy-driven |
-| [[faires-livestock-integration-permaculture]] | Central principle | Recommended |
-| Planting Calendar | Seasonal/observational | Lunar and planetary |
-| Accessibility | High (any farmer can adopt) | Moderate (special preparations) |
-| Carbon Focus | Explicit sequestration goal | Implicit in soil building |
-| Adoption Rate | Very rapid, mainstream | Niche, dedicated community |
-| Best For | All farms seeking improvement | Farms embracing holistic philosophy |
-
-## When to Choose Regenerative Agriculture
-Regenerative agriculture is the better choice for farmers and land managers
-who want science-based, measurable improvements in soil health, profitability,
-and ecosystem function without esoteric requirements. It suits conventional
-farmers transitioning to sustainable practices, organic farmers going beyond
-input substitution, and large-scale operations where [[comparison-biodynamic-preparations-vs-biofertilizers]]
+| [[comparison-biodynamic-preparations-vs-biofertilizers]]
 would be impractical. The five core principles can be adopted incrementally —
 starting with no-till and cover crops, then adding livestock integration and
 biodiversity enhancements — making it accessible to any operation regardless
@@ -105,5 +88,4 @@ Together, they represent the most holistic approaches to sustainable food
 production available today.
 
 ## See Also
-- [[comparison-biodynamic-vs-biointensive]]
 - [[comparison-natural-farming-vs-permaculture]]

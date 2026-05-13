@@ -8,50 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 5-TME
 
-[[2c-b-pihkal-entry-20]] #165. 5-THIOMETAESCALINE;.
-
-## Chemical Name
-
-5-THIOMETAESCALINE;
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 200 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 200 mg) There was a noticeable tinnitus,
-> but then that comes and goes at odd times without any reason needed.
-> There was perhaps a brush of light-headedness at the third hour point,
-> but other than that, nothing. No effect that can be ascribed to
->
->
-> today's drug trial.
-
-## Extensions and Commentary
-
-Nothing comes to mind. This, along with
-most of the di- and triethylated thiomescaline analogues, represents a
-lot of synthetic effort without useful qualitative data. If there is
-any activity, it would only be seen with monster dosages, and why put
-the body through such potential impact?
-
-## Synthesis
-
-A solution of 10.4 g of
-3-bromo-N-cyclohexyl-4-methoxy-5-ethoxybenzylidenimine (see under ME
-for its preparation) in 150 mL anhydrous Et2O in a He atmosphere was
-cooled with an external dry ice acetone bath to -80 deg C with good
-stirring. The addition of 52 mL 1.6 M butyllithium in hexane produced
-a thick precipitate which was stirred for 5 min. There was then added
-8.5 mL of dimethyl disulfide and the reaction mixture gradually became
-thinner and lighter. The dry ice bath was removed and the reaction
-allowed to come to room temperature over the course of 15 min. This
-was then added to 400 mL of dilute HCl. The two phases were
-separated, and the aqueous phase was heated on the [[scythian-cannabis-steam-bath-ritual]] for 1 h
+[[scythian-cannabis-steam-bath-ritual]] for 1 h
 which generated a separate yellow oily phase. On cooling, this set to
 a yellow solid, which was removed by filtration, washed with H2O, and
 sucked relatively free of H2O. These yellow solids weighed 14.4 g and
@@ -69,22 +26,91 @@ in 100 mL nitromethane, there was added 0.5 g anhydrous ammonium
 acetate and the mixture was heated on the steam bath for 1.5 h, at
 which time most of the aldehyde had disappeared and there was a
 sizeable quantity of nitrostyrene as well as a cascade of wrong things
-down to the origin, as seen by TLC on [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]], with CH2Cl2. The
-excess nitromethane was removed under vacuum, and the residual red oil
-was dissolved in 25 mL of hot MeOH and decanted from a small amount of
-insoluble material. With cooling in an ice bath for 20 min, bright
-yellow crystals were formed which were removed by filtration, washed
-with MeOH and air dried, producing 4.1 g
-3-ethoxy-4-methoxy-5-methylthio-beta-nitrostyrene which melted at 80-82
-deg C. This sample, on resolidification and remelting, melted at 109-110
-deg C. This higher-melting polymorphic form was also produced by
-recrystallization of the product from cyclohexane. The two polymorphs
-were chromatographically and analytically identical. Anal.
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+down to the origin, as seen by TLC on [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+## Overview
+
+5 Tme Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 5 tme entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 5 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+5 Tme Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 5 tme entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+5 tme entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+5 Tme Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 5 tme entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

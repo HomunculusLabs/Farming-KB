@@ -24,47 +24,20 @@ sources:
 - **Genus:** Voacanga
 - **Species:** V. africana
 - **Authority:** Stapf
-- **[[nitrogen-fixing-trees-and-shrubs]] distributed across Africa and [[psilocybe-southeast-asia-pacific]]. V. africana was first described by the British botanist Otto Stapf in the late 19th century. The Apocynaceae family is well known for containing psychoactive species, including [[tabernanthe-iboga]], with iboga-like visual phenomena and dream recall.
-
-### V. grandiflora
-
-The seeds of the related **V. grandiflora** (Miq.) Rolfe are also used by magicians in West Africa for visionary purposes. Unfortunately, the details of these practices are not yet uncovered, as the knowledge of the magicians remains a closely guarded secret. The secrecy surrounding Voacanga use reflects the broader pattern of concealment that characterizes African traditional spiritual practices, where knowledge is transmitted through initiation and apprenticeship rather than through open documentation.
-
-### Traditional Medicine
-
-Beyond its psychoactive uses, V. africana has applications in traditional African medicine:
-
-- **Fever treatment** — the bark is used as an antipyretic
-- **Gastrointestinal complaints** — bark preparations for diarrhea and dysentery
-- **Cardiovascular conditions** — used as a cardiotonic in some traditions
-- **Pain relief** — the bark has analgesic properties attributed to its alkaloids
-
-## Chemistry
-
-The bark and seeds of Voacanga africana contain up to 10% indole alkaloids of the iboga type:
-
-- **Voccamine** — the primary alkaloid, a complex iboga-type indole
-- **Ibogaine** — a potent psychedelic with anti-addictive properties
-- **Voacangine** — another significant alkaloid
-- **Ibogamine** — an iboga-type alkaloid also found in [[tabernanthe-iboga]], the West African shrub from which ibogaine was first isolated. Both plants belong to the Apocynaceae family and share a similar indole alkaloid profile. However, the total alkaloid content and the specific ratios of individual alkaloids differ between the two specieserotoninarmacology
+- **[[psilocybe-southeast-asia-pacific]]. V. africana was first described by the British botanist Otto Stapf in the late 19th century. The Apocynaceae family is well known for containing psychoactive species, including [[tabernanthe-iboga]], the West African shrub from which ibogaine was first isolated. Both plants belong to the Apocynaceae family and share a similar indole alkaloid profile. However, the total alkaloid content and the specific ratios of individual alkaloids differ between the two specieserotoninarmacology
 
 The primary psychoactive alkaloids in V. africana are ibogaine and voacangine, both of which act on multiple receptor systems:
 
-- **Ibogaine** — acts as a NMDA receptor antagonist, kappa-opioid receptor agonist, and serotonin reuptake inhibitor; produces a complex [[leary-psychedelic-experience-bardo-mapping]] with oneirophrenic (dream-like) qualities
-- **Voacangine** — a precursor to ibogaine with similar but milder effects
-- **Voccamine** — has demonstrated antiarrhythmic and cardiotonic properties
-
-The anti-addictive properties of ibogaine have received considerable scientific attention, with research suggesting that a single dose can significantly reduce opioid withdrawal symptoms and drug craving. These properties have led to the development of ibogaine-assisted therapy for addiction treatment, though legal [[mckenna-inquisition-suppression-of-plant-knowledge]] that has received far less scientific attention than its New World and Asian counterparts. The secrecy surrounding Voacanga use highlights the challenges faced by etrichard-evans-schultesn African contexts, where traditional spiritual knowledge is often closely guarded.
+- **Ibogaine** — acts as a NMDA receptor antagonist, kappa-opioid receptor agonist, and serotonin reuptake inhibitor; produces a complex [[mckenna-inquisition-suppression-of-plant-knowledge]] that has received far less scientific attention than its New World and Asian counterparts. The secrecy surrounding Voacanga use highlights the challenges faced by etrichard-evans-schultesn African contexts, where traditional spiritual knowledge is often closely guarded.
 
 ## Historical Documentation
 
-The psychoactive properties of V. africana were first brought to wider attention through the work of Richard [[richard-evans-schultes-updated]] and others who documented the ethnobotany of West Africa in the mid-20th century. The chemical characterization of Voacanga alkaloids followed, with ibogaine being first isolated from Voacanga species before its more famous identification in [[plants-of-the-gods-tabernanthe-iboga-chemistry]]. Modern interest in V. africana has been driven primarily by the search for sustainable sources of ibogaine for addiction treatment research.
+The psychoactive properties of V. africana were first brought to wider attention through the work of Richard [[plants-of-the-gods-tabernanthe-iboga-chemistry]]. Modern interest in V. africana has been driven primarily by the search for sustainable sources of ibogaine for addiction treatment research.
 
 ## Comparison with Other Iboga-Type Plants
 
 V. africana can be compared with other plants containing iboga-type alkaloids:
 
-- [[tabernanthe-iboga]] — Iboga, the primary source of ibogaine in African ethnobotany
 - [[anadenanthera-peregrina]] — Yopo, for comparison of African and [[chiric-caspi-brunfelsia-south-american-hallucinogen]] psychoactive plants
 - rauwolfia-serpentina — another Apocynaceae plant with psychoactive alkaloids
 ## Practical Considerations
@@ -85,3 +58,80 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Voacanga Africana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish voacanga africana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving voacanga extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Voacanga Africana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for voacanga africana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+voacanga africana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Voacanga Africana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of voacanga africana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

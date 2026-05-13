@@ -11,14 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Lin, L. et al. (2005). "Alisma orientale." In: Chinese herbal-materia-medica, Vol. 6. Shanghai Scientific and Technical Publishers.
-  - Zhang, J.D. et al. (2012). "[[guzman-magic-mushrooms-chemical-constituents]] from Alisma orientalis and their antitumor activities." Journal of Asian Natural Products Research, 14(6), 530-535.
-  - Lee, S.J. et al. (2010). "Diuretic activity of the aqueous extract of Alisma plantago-aquatica in rats." Journal of Ethnopharmacology, 128(2), 396-401.
-  - Yáñez, M. et al. (2013). "Alisma plantago-aquatica." In: Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 22. Oxford University Press.
----
-
-## Overview
-
-**Alisma plantago-aquatica** (water plantain, European water plantain) is a perennial aquatic herb in the family Alismataceae. It inhabits shallow freshwater habitats across a broad [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] in Europe, Asia, and North Africa.
+  - Zhang, J.D. et al. (2012). "[[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] in Europe, Asia, and North Africa.
 
 The species is recognized by its distinctive basal rosette of elliptical leaves and tall, branching inflorescences bearing numerous small white to pale pink flowers. It is one of the most widely distributed aquatic monocots.
 
@@ -37,37 +30,13 @@ A. plantago-aquatica has been used in traditional medicine for over two millenni
 
 The taxonomy of the A. plantago-aquatica complex remains contentious. Some authorities recognize A. orientale (Sam.) Juz. as a separate East Asian species, while others treat it as a synonym or subspecies.
 
-Alisma subcordatum Raf. is the closely related [[growing-gourmet-north-american-reishi-species]] species, sometimes treated as conspecific. Molecular studies suggest the complex may comprise several cryptic species across its range.
-
-### Morphology
-
-Alisma plantago-aquatica is a herbaceous perennial growing 30 to 100 cm tall from a short, thick, tuberous rhizome. The rhizome is fleshy, cylindrical, 2 to 4 cm in diameter, and produces fibrous roots.
-
-Basal leaves are elliptical to ovate, measuring 5 to 20 cm long and 2 to 10 cm wide. They have prominent parallel veins, a cuneate base, and are borne on long cylindrical petioles that are triangular in cross-section.
-
-Flowering stems are erect, triangular, and bear whorls of branches in a paniculate inflorescence. Individual flowers are 8 to 12 mm in diameter with three green sepals, three white or pale pink petals, and six stamens.
-
-Flowers open sequentially from the base of the inflorescence upward over a period of several weeks. Each flower lasts only one day, opening in the morning and closing by evening.
-
-The fruit is a head of numerous small achenes, each 2 to 3 mm long, arranged in a flat or slightly convex cluster. Seeds are released as the fruiting head disintegrates in autumn.
-
-## Distribution and Habitat
-
-Alisma plantago-aquatica is native to Europe, temperate and subtropical Asia, and North Africa. It has been introduced and naturalized in parts [[berry-growing]], Australia, and New Zealand.
+Alisma subcordatum Raf. is the closely related [[berry-growing]], Australia, and New Zealand.
 
 The species occupies shallow freshwater habitats including pond margins, ditches, marshes, slow streams, and seasonally flooded meadows. It prefers standing or very slow-moving water with muddy substrates.
 
 Optimal growth occurs in full sun to partial shade in water depths of 5 to 30 cm. Plants can also grow in saturated soils that are not permanently inundated, though flowering is reduced under drier conditions.
 
-A. plantago-aquatica tolerates a wide range of water chemistry but prefers neutral to slightly alkaline conditions. It is commonly found in eutrophic water bodies with high [[ph-and-nutrient-availability-garden-soils]].
-
-The species is moderately salt-tolerant and can colonize the margins of brackish lagoons and estuaries. It is a characteristic component of the Phragmitetum and Glycerietum plant communities.
-
-## Bioactive Compounds and Pharmacology
-
-The rhizomes of Alisma plantago-aquatica contain a diverse array of triterpenoid saponins known as alisol compounds. Alisol A, alisol B, alisol C, and their acetate derivatives are the major bioactive constituents.
-
-Alisol B 23-acetate has demonstrated significant hepatoprotective activity in animal models of chemical liver injury. It reduces serum transaminase levels and inhibits hepatic stellate [[mushroom-immune-cell-activation-mechanisms]].
+A. plantago-aquatica tolerates a wide range of water chemistry but prefers neutral to slightly alkaline conditions. It is commonly found in eutrophic water bodies with high [[mushroom-immune-cell-activation-mechanisms]].
 
 Protocatechuic acid and other [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] contribute to the diuretic and anti-inflammatory effects observed in pharmacological studies. Water extracts of the rhizome increase urine output and sodium excretion in rats.
 
@@ -88,3 +57,88 @@ Seasonal variation in alisol content is significant, with peak concentrations oc
 ## Ethnobotanical Use
 
 In traditional Chinese medicine (TCM), the dried rhizome of Alisma (Ze Xie) is classified as a diuretic that drains dampness and promotes urination. It is a component of several classical formulas including Liu Wei Di Huang Wan.
+
+## Overview
+
+Alisma Plantago Aquatica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish alisma plantago aquatica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving alisma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Alisma Plantago Aquatica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for alisma plantago aquatica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+alisma plantago aquatica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Alisma Plantago Aquatica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of alisma plantago aquatica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[phalaris-aquatica]]
+- [[plantago-coronopus]]
+- [[plantago-lanceolata]]
+- [[plantago-major]]
+- [[plantago-ovata]]

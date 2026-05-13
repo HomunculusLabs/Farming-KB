@@ -8,9 +8,9 @@ sources: []
 
 ## Introduction
 
-Oca (*Oxalis tuberosa*) is one of the most important root crops of the Andean highlands, where it has been cultivated for millennia alongside potatoes, mashua, and ulluco. Known by many names—oca, oka, uqa in Quechua, and "New Zealand yam" in the [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]—this tuber-bearing perennial is prized for its vivid colors, refreshing tangy flavor, and exceptional adaptability to marginal growing conditions. In its native range spanning Peru, Bolivia, Ecuador, Colombia, and northern Argentina, oca is the second most widely consumed [[root-crop-harvest-and-storage]] after the potato.
+Oca (*Oxalis tuberosa*) is one of the most important root crops of the Andean highlands, where it has been cultivated for millennia alongside potatoes, mashua, and ulluco. Known by many names—oca, oka, uqa in Quechua, and "New Zealand yam" in the [[root-crop-harvest-and-storage]] after the potato.
 
-Despite its importance in Andean agriculture, oca remains relatively unknown outside of South America and New Zealand. Growing interest in diverse food systems, [[comparison-perennial-vegetables-vs-cover-crops]], and climate-resilient crops has brought oca to the attention of permaculturists, market gardeners, and plant breeders in temperate regions. The primary barrier to wider adoption has been its strict [[short-day-and-long-day-plant-classification]] tuberization requirement, though significant breeding progress has been made to overcome this limitation.
+Despite its importance in Andean agriculture, oca remains relatively unknown outside of South America and New Zealand. Growing interest in diverse food systems, [[short-day-and-long-day-plant-classification]] tuberization requirement, though significant breeding progress has been made to overcome this limitation.
 
 ## Botanical Description
 
@@ -20,49 +20,7 @@ The plant produces showy yellow, funnel-shaped flowers in late summer to autumn,
 
 ### Growth Cycle
 
-In its native Andean environment, oca follows a distinct seasonal cycle aligned with the dry and wet seasons. Planting occurs at the onset of the rainy season (October–November), [[cannabis-vegetative-growth-stage]] proceeds through the warm months, and tuberization is triggered by the shortening days of autumn (March–May). The entire crop is harvested before the onset of heavy frost. In temperate regions, this cycle is shifted: planting occurs in spring, growth through summer, and tuberization in autumn.
-
-## The Tubers
-
-### Appearance and Diversity
-
-Oca tubers are remarkably diverse in color, shape, and size. They range from small marble-sized tubers to elongated finger-like forms 10–15 cm long. The skin and flesh colors include:
-
-- **White**: mild flavor, good for general cooking
-- **Yellow and gold**: sweet and waxy, excellent for roasting
-- **Orange**: rich color, good for mashing
-- **Red and pink**: attractive appearance, firm texture
-- **Purple**: deep pigmentation, high antioxidant content
-- **Bicolor**: combinations of the above, often with contrasting eyes
-
-Shapes vary from rounded to elongated, knobby to smooth, and some varieties produce tubers with pronounced ridges or a "horned" appearance. This visual diversity makes oca an attractive crop for farmers' markets and specialty produce sections.
-
-### Flavor Profile
-
-Raw oca has a crisp, juicy texture with a pleasant lemony tang attributable to oxalic acid. The acidity varies significantly between varieties—some are quite sharp and lemony, while others are mild and slightly sweet. When cooked, the tang softens considerably, and oca develops a nutty, slightly sweet flavor often compared to a cross between a potato and a lemon. The texture when boiled or roasted is waxy and creamy, similar to a waxy potato variety.
-
-### Nutritional Composition
-
-Oca is nutritionally dense, offering several advantages over common potatoes:
-
-| Nutrient (per 100g raw) | Oca | Potato |
-|---|---|---|
-| Energy | 79 kcal | 77 kcal |
-| Carbohydrates | 17 g | 17 g |
-| Protein | 1.5 g | 2.0 g |
-| Vitamin C | 18–25 mg | 13–20 mg |
-| Potassium | 300–400 mg | 421 mg |
-| Iron | 0.6 mg | 0.8 mg |
-| Oxalic acid | 60–300 mg | 5–20 mg |
-| Antioxidants (anthocyanins) | High (colored varieties) | Low |
-
-The high vitamin C content is particularly notable—oca was historically valued by Andean communities as an anti-scurvy food. Colored varieties, especially reds and purples, contain significant anthocyanins and other phenolic compounds with antioxidant properties.
-
-## Climate Requirements
-
-Oca is native to the high Andes (2,500–4,000 m elevation), where it experiences cool temperatures, strong ultraviolet radiation, and pronounced diurnal temperature variation. These origins define its climate preferences:
-
-- **Optimal [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: 10–20°C (50–68°F) for vegetative growth and tuberization
+In its native Andean environment, oca follows a distinct seasonal cycle aligned with the dry and wet seasons. Planting occurs at the onset of the rainy season (October–November), [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: 10–20°C (50–68°F) for vegetative growth and tuberization
 - **Maximum tolerance**: Extended periods above 25°C (77°F) reduce vigor and can suppress tuberization
 - **Frost tolerance**: Foliage is killed by frost at approximately -1 to -3°C, but tubers survive underground to at least -5°C when well-mulched or hilled
 - **Daylength**: This is the critical factor—oca requires days shorter than approximately 12 hours to initiate tuberization (see below)
@@ -82,20 +40,7 @@ The single most important factor limiting oca cultivation outside the tropics an
 
 **Strategies to overcome the daylength barrier:**
 
-1. **Adaptive breeding**: The most promising approach. The New Zealand [[cervantes-breeding-program-design-goal-setting]] and researchers in the US, UK, and Europe have been selecting for "day-neutral" or low-daylength-threshold varieties. Some modern selections begin tuberizing at 13+ hour days, dramatically extending the production window
-2. **Early planting**: Starting tubers indoors in February–March under lights or in a greenhouse, then transplanting after last frost, gives the plant a head start
-3. **Blackout cloth**: Covering plants with light-excluding fabric in late afternoon to artificially shorten the day can trigger earlier tuberization, though this is labor-intensive at scale
-4. **Microclimate selection**: Growing against warm south-facing walls or in urban heat islands can extend the frost-free period into November or December
-5. **Choosing short-season varieties**: Some Andean landraces and New Zealand selections tuberize earlier than others
-
-## Soil Requirements
-
-Oca is relatively forgiving of soil conditions but performs best in:
-
-- **Soil type**: Well-drained sandy loam to loam soils. Heavy clay should be amended with organic matter to improve drainage
-- **pH**: 5.5–7.0 (slightly acidic to neutral). Oca tolerates moderate acidity better than many root crops
-- **Fertility**: Moderate soil fertility is ideal. Excessive nitrogen promotes lush foliage at the expense of tuber formation. A balanced approach with compost or well-rotted manure worked in before planting is sufficient
-- **Drainage**: Critical—oca tubers will rot in waterlogged soils. [[raised-beds-vs-in-ground-vs-containers]] or mounded rows are recommended in heavy soils
+1. **Adaptive breeding**: The most promising approach. The New Zealand [[raised-beds-vs-in-ground-vs-containers]] or mounded rows are recommended in heavy soils
 - **Preparation**: Deep cultivation (20–25 cm) to allow unrestricted tuber expansion. Remove rocks that can cause tuber deformity
 
 ## Propagation

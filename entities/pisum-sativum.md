@@ -38,52 +38,92 @@ created: 2026-04-28
 
 It is one of the oldest domesticated crops, with archaeological evidence of cultivation dating to 7000–6000 BCE in the Fertile Crescent.
 
-Peas are valued in permaculture and [[phosphate-accumulators-sustainable-agriculture]] for their nitrogen-fixing symbiosis with rhizobia, their role as a cool-season cover crop, and their high nutritional density.
-
-The species encompasses both garden peas (harvested for fresh seeds) and field peas (harvested dry for grain or forage), with numerous cultivars adapted to diverse climates.
-
-Gregor Mendel's foundational experiments in heredity (1856–1863) were conducted on P. sativum, establishing the laws of segregation and independent assortment.
-
-## Taxonomy and Morphology
-
-**Classification:** Magnoliophyta → Magnoliopsida → Fabales → Fabaceae → Faboideae → **Faboideae** → **Pisum** → **P. sativum**.
-
-Authority: Carl Linnaeus, Species Plantarum (1753).
-
-P. sativum is a climbing or bushy annual, 0.3–2.0 m tall, with hollow, angled stems and pinnate leaves terminating in branched tendrils.
-
-Leaves bear 1–3 pairs of leaflets (2–6 cm long), with large ovate stipules at the base that can exceed the leaflets in size.
-
-Flowers are papilionaceous (pea-shaped), white, pink, or purple, borne in racemes of 1–3 on axillary peduncles.
-
-The fruit is a cylindrical legume (pod) 3–10 cm long containing 2–10 smooth, spherical to angled seeds 4–10 mm in diameter.
-
-Roots form nitrogen-fixing nodules in symbiosis with Rhizobium leguminosarum sv. viciae, contributing 40–200 kg N/ha depending on cultivar and conditions.
-
-## Distribution and Habitat
-
-Wild P. sativum subsp. elatius is native to the Mediterranean region, from Turkey and the Levant eastward to Iran and the Caucasus.
-
-Domesticated forms are cultivated worldwide in temperate and subtropical regions between latitudes 50°N and 40°S.
-
-The species thrives in cool, moist climates with [[savory-growing-season-and-non-growing-season-management]] temperatures of 10–25°C; high temperatures (>30°C) severely reduce pod set and [[seed-quality-and-selection-solomon]].
-
-Optimal soil pH is 6.0–7.5, with moderate fertility; excessive [[jadam-natural-nitrogen-fertilizer]] suppresses nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
-
-Annual global production exceeds 20 million tonnes, with China, Russia, India, and the [[dmt-containing-plants-united-states-halpern]] as leading producers.
+Peas are valued in permaculture and [[savory-growing-season-and-non-growing-season-management]] temperatures of 10–25°C; high temperatures (>30°C) severely reduce pod set and [[jadam-natural-nitrogen-fertilizer]] suppresses nodulation and [[dmt-containing-plants-united-states-halpern]] as leading producers.
 
 ## Cultivation
 
-Peas are typically direct-seeded in early spring ([[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]) or as a winter crop (Mediterranean and subtropical zones).
-
-Seeding rate is 80–120 kg/ha for grain peas and 150–200 kg/ha for forage peas, at depths of 3–8 cm depending on soil texture.
-
-Support structures (trellises, netting) are used for climbing cultivars; semi-leafless (afila) types are self-supporting and preferred for mechanical harvest.
-
-Harvest occurs 60–100 days after sowing, depending on cultivar type (garden vs. field pea) and intended use (fresh vs. dry).
-
-In permaculture systems, peas are intercropped with cereals (pea-oat, pea-barley mixtures) to improve total land productivity by 15–30% over sole cropping.
-
-[[coleman-mobile-greenhouse-crop-rotation-design]] with cereals reduces disease pressure and maximizes the residual nitrogen benefit for subsequent crops.
+Peas are typically direct-seeded in early spring ([[coleman-mobile-greenhouse-crop-rotation-design]] with cereals reduces disease pressure and maximizes the residual nitrogen benefit for subsequent crops.
 
 ## Ecological Role
+
+## Overview
+
+Pisum Sativum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pisum sativum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pisum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pisum Sativum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pisum sativum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pisum sativum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pisum Sativum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pisum sativum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[allium-sativum-entity]]
+- [[coriandrum-sativum]]

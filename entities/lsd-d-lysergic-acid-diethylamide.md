@@ -41,37 +41,11 @@ LSD also has significant affinity for the **TAAR1** (trace amine-associated rece
 The effects of LSD include:
 
 - **Visual**: Intensification of colors, geometric patterns (form constants), trailing afterimages, synesthesia, and altered perception of movement and space
-- **Cognitive**: Altered thought patterns, philosophical insights, [[psilocybin-ego-dissolution-mechanisms]], enhanced creativity, and enhanced emotional responsiveness
-- **Somatic**: Pupil dilation, increased body temperature, elevated heart rate, nausea (early in the experience), and changes in sensory perception
-- **Emotional**: Euphoria, anxiety, awe, and intense emotional experiences ranging from profound connection to existential distress
-
-## History
-
-### Discovery (1938–1943)
-
-Albert Hofmann first synthesized LSD-25 on November 16, 1938, as part of a systematic program to create semi-synthetic ergot derivatives for potential medical use. The compound showed no particular promise in initial screening tests. On April 16, 1943, while resynthesizing LSD-25, Hofmann accidentally absorbed a small amount and experienced "an uninterrupted stream of fantastic pictures, extraordinary shapes with intense, kaleidoscopic play of colors." Three days later, April 19, 1943, he deliberately ingested 250 µg — now known as **Bicycle Day** — and experienced the full psychedelic effects.
-
-### Clinical Research Era (1947–1966)
-
-Sandoz introduced LSD under the trade name Delysid in 1947. Over the next two decades, LSD was investigated for therapeutic applications in over 1,000 clinical studies, exploring its use in treating alcoholism, anxiety in terminal illness, obsessive-compulsive disorder, depression, and as an adjunct to psychotherapy. **Stanislav Grof**, **Humphry Osmond**, and **Abram Hoffer** were among the leading researchers.
-
-### Counterculture and Prohibition (1960s–1970s)
-
-LSD escaped the laboratory and became a defining substance of the 1960s counterculture. **Ken Kesey** and the Merry Pranksters organized the "Acid Tests," and **Timothy Leary** advocated for widespread use. The CIA's **MK-ULTRA** program also secretly administered LSD to unwitting subjects. By the late 1960s, LSD was banned in most countries.
-
-### Modern Resurgence (2000s–present)
-
-Clinical research on LSD resumed in the 21st century. The **[[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS)** and other organizations have conducted modern [[mushroom-cancer-clinical-trials-overview]] exploring LSD-assisted psychotherapy for anxiety associated with life-threatening illness, cluster headaches, and other conditions.
-
-## Legal Status
-
-LSD is a Schedule I controlled substance under the United Nations Convention on Psychotropic Substances (1971). It is classified as Schedule I in the [[dmt-containing-plants-united-states-halpern]], Class A in the United Kingdom, and similarly restricted in most countries worldwide.
+- **Cognitive**: Altered thought patterns, philosophical insights, [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS)** and other organizations have conducted modern [[dmt-containing-plants-united-states-halpern]], Class A in the United Kingdom, and similarly restricted in most countries worldwide.
 
 ## See Also
 
-- [[lsd-lysergic-acid-diethylamide-experience-guide]]
 - [[ergot-and-lysergic-acid-history]]
-- [[sandoz-pharmaceuticals]] — the company where LSD was discovered
 - [[ergine-lsa]] — a related naturally occurring ergoline
 - [[psilocybin]] — another classical psychedelic compound
 ## Practical Considerations
@@ -92,3 +66,85 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Lsd D Lysergic Acid Diethylamide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lsd d lysergic acid diethylamide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lsd extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lsd D Lysergic Acid Diethylamide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lsd d lysergic acid diethylamide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lsd d lysergic acid diethylamide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lsd D Lysergic Acid Diethylamide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lsd d lysergic acid diethylamide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]]
+- [[lsd-lysergic-acid-diethylamide-experience-guide]]

@@ -1,6 +1,6 @@
 ---
-title: Steve Solomon Evidence Based Organic Gardening
-subtitle: "The Complete Organic Fertilizer, wide-spacing methods, and
+title: Steve Solomon Evidence Based [[geoff-hamilton-the-organic-gardening-companion]]
+subtitle: "The [[complete-organic-fertilizer-cof]], wide-spacing methods, and
   resilient food production from the author of Gardening When It Counts"
 tags: [organic-gardening, soil-fertility, self-sufficiency, steve-solomon,
   complete-organic-fertilizer, crop-rotation, pest-management, composting,
@@ -29,7 +29,7 @@ related_concepts:
   - solomon-gardening-aikido-pest-philosophy-ecological-management
 ---
 
-# [[steve-solomon|Steve]] Solomon's Evidence-Based Organic [[solomon-drought-gardening-and-water-conservation|Gardening]]
+# [[solomon-drought-gardening-and-water-conservation|Gardening]]
 
 Steve Solomon (born 1942) is one of the most influential and
 controversial voices in modern organic gardening. He founded Territorial
@@ -37,11 +37,7 @@ Seed Company in 1979 and ran it until 1986, establishing himself as a
 leading advocate of intensive raised-bed methods during those years.
 After decades of hands-on experimentation, Solomon underwent a
 remarkable intellectual transformation, becoming one of the most vocal
-critics of the very [[coleman-british-adoption-of-french-intensive-gardening]] orthodoxy he once championed.
-His 2005 book "Gardening When It Counts: Growing Food in Hard Times"
-represents the mature expression of this evolution, offering a
-comprehensive system for growing food that prioritizes resilience,
-self-sufficiency, and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] over theoretical yield
+critics of the very [[coleman-winter-greens-nutritional-quality-cold-sweetening]] over theoretical yield
 maximization.
 
 Solomon's approach is distinctive because it is grounded in empirical
@@ -59,28 +55,8 @@ environmental pressures intensify.
 
 At the heart of Solomon's system is the Complete Organic Fertilizer,
 or COF, a custom-blended organic fertilizer mix designed to provide
-balanced major and trace mineral nutrition to vegetable crops. Unlike
-commercial [[cannabis-organic-fertilizers]] sold in small, expensive boxes at garden
-centers, COF uses bulk agricultural ingredients sourced from feed and
-grain dealers at a fraction of the cost. Solomon emphasizes that COF
-should be measured by volume rather than weight, making it accessible
-to gardeners without specialized equipment.
-
-The base formula calls for four parts seedmeal (the primary nitrogen
-source, a byproduct of vegetable oil extraction), one-half part
-agricultural lime, one-half part dolomitic lime, one-half part gypsum
-(or doubled agricultural lime if gypsum is unavailable), one part
-phosphorus source such as rock phosphate, bonemeal, or high-phosphate
-guano, and one-half part kelp meal or basalt dust for trace minerals.
-Solomon specifies that variations of plus or minus ten percent from the
-targeted proportions will work approximately as well, making the recipe
-forgiving and practical for home gardeners who lack precise measuring
-tools.
-
-Seedmeals, including canola, soybean, cottonseed, and linseed
-varieties, typically analyze at approximately 6-4-2 NPK. Solomon's
-guideline is to buy whichever seedmeal provides the most protein per
-unit cost, as protein content correlates with [[nitrogen-availability-in-legumes]].
+balanced major and trace [[dryland-soils-and-mineral-nutrition]] to vegetable crops. Unlike
+commercial [[nitrogen-availability-in-legumes]].
 For gardeners seeking higher nitrogen for spring leaf crops, he offers
 a variant that substitutes one part of the seedmeal with tankage, a
 slaughterhouse byproduct analyzing at roughly 10-4-0. Coprameal,
@@ -88,7 +64,7 @@ derived from coconut processing, is about one-third weaker than other
 seedmeals and requires a corresponding adjustment in the formula.
 
 The phosphorus sources Solomon recommends are rock phosphate, bonemeal,
-and guano, all of which are rich in trace elements beyond phosphorus
+and guano, all of which are rich in [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]] beyond phosphorus
 itself. Rock phosphate releases phosphorus slowly as soil acidity
 increases during organic matter decomposition, and annual applications
 build a phosphorus reserve that reduces the need for heavy
@@ -119,7 +95,7 @@ rather than scientific truth. For compost to serve as the sole
 fertility source for vegetable crops, Solomon contends it needs
 nitrogen content exceeding three percent, total NPK exceeding six
 percent, a carbon-to-nitrogen ratio no higher than 12:1, and
-significant calcium, magnesium, and trace minerals in correct
+significant calcium, magnesium, and [[dynamic-accumulator-plants-trace-minerals]] in correct
 proportions. Most home compost achieves none of these targets.
 
 He identifies three grades of compost. Low-grade compost, typical of
@@ -128,21 +104,9 @@ trimmings with C/N ratios exceeding 50:1, barely qualifies as useful
 even for low-demand vegetables. Medium-quality compost, his recommended
 standard for home gardeners, requires building one large heap per year
 with careful layering of green materials and manure, regular turning,
-and [[mushroom-casing-moisture-management]]. High-quality compost exceeding three percent
-nitrogen is possible but demands careful ingredient selection and
-management that most home gardeners will not sustain.
-
-Sheet composting, the practice of spreading raw organic matter on beds
-and digging it in, receives particular criticism. Solomon warns that
-incorporating raw organic matter triggers a microbial bloom that
-temporarily locks up nitrogen, phosphorus, potassium, calcium, and
-magnesium while soil microorganisms multiply. Plants are starved until
-the microbial population peaks and dies back, a period that can last
-weeks to months depending on temperature and C/N ratio. In freezing
-climates, autumn sheet composting on spring beds may not finish
-decomposing before [[solomon-companion-planting-evidence-based|planting]] time, a situation Solomon calls a "fatal
+and [[solomon-companion-planting-evidence-based|planting]] time, a situation Solomon calls a "fatal
 catastrophe" where nothing grows until midsummer. He recommends
-limiting sheet composting depth to one inch, using only materials with
+limiting [[sheet-composting]] depth to one inch, using only materials with
 C/N no higher than 30:1, and liming at fifty pounds per thousand
 square feet each time raw materials are incorporated.
 

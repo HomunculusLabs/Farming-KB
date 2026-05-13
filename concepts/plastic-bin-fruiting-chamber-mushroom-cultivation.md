@@ -11,26 +11,12 @@ created: 2026-05-11
 
 ## Overview
 
-One of the most accessible and effective [[mushroom-fruiting-chamber-designs]] for small-scale
-mushroom cultivation uses simple clear plastic storage bins covered with
-[[passive-humidity-fruit-chamber-polyethylene-sheeting]]. This design requires no humidifiers, cool-mist devices,
+One of the most accessible and effective [[passive-humidity-fruit-chamber-polyethylene-sheeting]]. This design requires no humidifiers, cool-mist devices,
 or electronic controls. The system relies on passive evaporation from the
 casing surface to maintain adequate humidity within the enclosed space, making
 it both economical and reliable. Five cased substrate trays fit inside a single
 bin, and the bins are stackable for space efficiency. This approach has been
-used successfully [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]], Psilocybe mexicana, Psilocybe
-tampanensis, and Panaeolus subbalteatus.
-
-## Chamber Construction
-
-The fruiting container is a clear plastic storage bin (transparent to allow
-light penetration for fruiting initiation). The bin is covered with
-polyethylene sheeting rather than a rigid lid. This sheeting is flexible
-enough to conform to the bin opening while still creating a sealed
-environment that traps moisture evaporating from the casing surfaces. For
-air exchange, small holes are melted into the sides of the bin. These holes
-can be covered with mesh or filter material to exclude flying insects such
-as fungus gnats, which are common pests [[contamination-prevention-in-mushroom-cultivation]]. The hole
+used successfully [[contamination-prevention-in-mushroom-cultivation]]. The hole
 size and number determine the rate of fresh air exchange, which is critical
 for fruiting performance. Too few holes lead to stagnant air and elevated
 CO2 levels that produce long, spindly stems and small caps. Too many holes
@@ -124,7 +110,6 @@ requirements (moisture, fresh air, light) are approximately met.
 
 ## See Also
 
-- [[mushroom-casing-soil-recipes]]
 - [[grass-seed-substrate]]
 - [[mushroom-sclerotia-formation]]
 - cold shock mushroom fruiting

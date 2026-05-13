@@ -9,22 +9,11 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 
 ## Overview
 
-The NASA [[challenge-microorganisms-microwave-surface-sterilization]] study (MSC-22484) included
-*Escherichia coli* and *Pseudomonas cepacia* as challenge organisms
-alongside the spore-forming *[[bacillus-pumilus-radiation-resistance-surface-decontamination]]*. These two Gram-negative
+The NASA [[bacillus-pumilus-radiation-resistance-surface-decontamination]]*. These two Gram-negative
 bacteria represent common surface contaminants in biological systems
 and provide a contrast to the more resistant bacterial spore form.
 Their inclusion in the mixed-contaminant kill curve reveals the
-relative susceptibility spectrum of the [[coaxial-power-splitter-waveguide-microwave-sterilization]]
-method.
-
-## Organism Profiles
-
-### Escherichia coli
-
-*E. coli* is a Gram-negative rod-shaped bacterium and one of the most
-studied organisms in microbiology. As a challenge organism for
-[[microbial-kill-curves-sterilization-validation]], it represents:
+relative susceptibility spectrum of the [[microbial-kill-curves-sterilization-validation]], it represents:
 
 - **Enteric contamination**: *E. coli* originates from fecal matter and
   is a classic indicator of sanitation failure. Its presence on surfaces
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[microwave-sterilization]]
 - [[sterilization]]
-- [[pseudomonas]]
 - [[dom]]
 - [[det]]

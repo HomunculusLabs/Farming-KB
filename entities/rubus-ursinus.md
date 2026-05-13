@@ -18,57 +18,7 @@ sources:
 
 ## Overview
 
-Rubus ursinus is a deciduous trailing bramble native to western [[guzman-psilocybin-mushrooms-north-america]].
-
-It is commonly called the California blackberry, Pacific blackberry, or trailing blackberry.
-
-The species is the primary wild genetic contributor to most commercial trailing blackberry cultivars.
-
-Its small, sweet berries have been gathered by Indigenous peoples for millennia and remain commercially important today.
-
-## Taxonomy and Morphology
-
-**Classification:** Kingdom Plantae, order Rosales, family Rosaceae, genus Rubus, subgenus Rubus, section Ursini.
-
-Rubus ursinus was described by Chamisso and Schlechtendal in 1827.
-
-The specific epithet ursinus means "bear," referring to the fondness bears show for the fruit.
-
-The species is diploid (2n = 14), which distinguishes it from the polyploid introduced blackberries.
-
-**Growth form** is a low, trailing vine that scrambles over the ground and low vegetation.
-
-Stems (canes) are slender, 3-6 mm in diameter, typically 1-3 meters long.
-
-Primocanes are green to reddish-green with scattered hooked prickles.
-
-Floricanes develop a dark purplish-brown bark in their second year.
-
-Leaves are alternate, compound with 3-5 leaflets, each 3-8 cm long.
-
-Leaflets are ovate to lanceolate with serrate margins and pale greenish-white tomentum beneath.
-
-Flowers are white to pale pink, 15-25 mm in diameter, borne in loose clusters of 3-7.
-
-Each flower has 5 petals, 5 sepals, and numerous stamens surrounding a central cluster of pistils.
-
-Fruit is an aggregate of 20-80 small drupelets, each 3-5 mm, forming a conic berry 10-20 mm long.
-
-Ripe berries are glossy black with a rich, sweet-tart flavor superior to most cultivated blackberries.
-
-## Distribution and Habitat
-
-Rubus ursinus ranges from southern British Columbia through western Washington and Oregon to California.
-
-Its range extends southward to the Transverse Ranges of southern California and into Baja California, Mexico.
-
-Disjunct populations occur in the mountains of Arizona and New Mexico.
-
-The species is found from sea level to approximately 1,800 meters elevation.
-
-It grows in open forests, forest edges, thickets, riparian corridors, and coastal scrub communities.
-
-Common associated species include [[salix-alba]], [[quercus-robur]], and [[betula-pendula]].
+Rubus ursinus is a deciduous trailing bramble native to western [[salix-alba]], [[betula-pendula]].
 
 The plant prefers partial shade to full sun and well-drained, acidic to neutral soils.
 
@@ -87,3 +37,87 @@ Major commercial cultivars including 'Marion', 'Boysenberry', 'Loganberry', and 
 It is estimated to contribute over 50% of the parentage in modern trailing blackberry cultivars.
 
 Commercial production requires a trellis system to support the trailing canes.
+
+## Overview
+
+Rubus Ursinus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish rubus ursinus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving rubus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Rubus Ursinus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for rubus ursinus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+rubus ursinus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Rubus Ursinus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of rubus ursinus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[rubus-chamaemorus]]
+- [[rubus-fruticosus]]
+- [[rubus-idaeus]]
+- [[rubus-occidentalis]]

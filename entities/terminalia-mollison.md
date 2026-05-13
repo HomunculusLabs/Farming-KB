@@ -43,13 +43,13 @@ Mollison emphasizes *Terminalia* alongside figs as trees that provide "special r
 - Flanged and buttressed roots create natural channels that redirect rainfall to specific root zones
 - Water held in aerial reservoirs is released gradually, providing sustained moisture access
 - The structures increase the effective water-holding capacity of the tree's immediate environment
-- Combined with fungal hyphae and mosses in the root zone, *Terminalia* creates a complete water management system
+- Combined with fungal hyphae and mosses in the root zone, *Terminalia* creates a complete [[water-management]] system
 
 ## Relevance to Cultivation and Permaculture
 
 - **Agroforestry:** Multiple *Terminalia* species are integrated into tropical agroforestry systems as overstory trees providing shade, mulch, and harvestable products
 - **Water design:** The natural water-harvesting structures of *Terminalia* serve as design inspiration for water capture and distribution in permaculture earthworks
-- **Coastal stabilization:** Several species tolerate salt spray and coastal conditions, making them valuable for coastal food forest design
+- **Coastal stabilization:** Several species tolerate salt spray and coastal conditions, making them valuable for coastal [[food-forest-design]]
 - **Nutrient cycling:** As large-canopy trees, *Terminalia* species intercept rainfall and contribute enriched throughfall to soil nutrient cycles
 - **Biodiversity support:** The aerial water structures and large crowns support diverse communities of insects, birds, and epiphytes
 
@@ -84,13 +84,7 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[terminalia-arjuna]]
 - [[terminalia-bellerica]]
-- [[terminalia-catappa]]
 - [[terminalia-chebula]]
 - [[terminalia-ferdinandiana]]
-
-## See Also
-- [[terminalia-ferdinandiana]]
-- [[terminalia-chebula]]
 - [[terminalia-bellerica]]

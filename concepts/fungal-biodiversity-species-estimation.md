@@ -27,8 +27,7 @@ worldwide. However, this pace is far insufficient to document the full extent
 of fungal diversity within any reasonable timeframe.
 
 Described species are unevenly distributed across taxa and geographies:
-[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere are disproportionately
-well-studied, while tropical and [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] diversity remains largely
+[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] diversity remains largely
 unknown and under-sampled.
 
 ## Estimates of Total Fungal Diversity
@@ -39,11 +38,7 @@ Early estimates of global fungal diversity ranged from 500,000 to 1.5 million
 species, based primarily on ratios of fungal to plant species in well-studied
 temperate regions. These estimates assumed relatively constant ratios across
 all ecosystems and were likely significant underestimates given the much higher
-plant diversity [[fukuoka-natural-farming-in-tropical-regions]] where fungal sampling has been minimal.
-
-### Molecular-Based Estimates
-
-[[environmental-dna-metabarcoding-fungi]] studies have revolutionized fungal
+plant diversity [[environmental-dna-metabarcoding-fungi]] studies have revolutionized fungal
 diversity estimation. By extracting and sequencing fungal DNA directly from
 soil, water, air, and plant tissue samples, researchers detect fungal species
 without the need for culturing or observing fruiting bodies. These studies have
@@ -54,32 +49,9 @@ methods.
 A landmark 2017 study using high-throughput sequencing of soil samples from
 diverse ecosystems globally estimated total fungal diversity at 2.2 to 3.8
 million species. Some researchers argue even this may be conservative, with
-estimates as high as 5.1 million when considering [[cryptic-fungal-species]]
-and under-sampled habitats. Regardless of the exact number, it is clear that
-over 90% of fungal species remain undescribed by science.
+estimates as high as 5.1 million when considering [[fungal-roles-aquatic-environments]]
 
-## Taxonomic Distribution of Undescribed Diversity
-
-The gap between described and estimated species varies enormously across fungal
-groups:
-
-- Ascomycota: approximately 64,000 described out of an estimated 1.0-1.5
-  million species (only 4-6% described)
-- Basidiomycota: approximately 35,000 described out of an estimated 600,000-
-  1.5 million species (2-6% described)
-- Glomeromycota: approximately 300 described species, but molecular studies
-  suggest true diversity may be 10-100 times higher
-- Chytridiomycota: approximately 1,000 described, but eDNA studies reveal
-  vast undescribed diversity in [[fungal-roles-aquatic-environments]]
-
-[[fungal-biodiversity-tropical-forests]] likely harbor the greatest fungal diversity, yet remain the
-least sampled habitat on Earth.
-
-## Methods for Assessing Fungal Diversity
-
-### Traditional Morphological Methods
-
-Fruiting body surveys, [[fungal-microscopic-examination-mounting-media-techniques]] of cultures, and herbarium
+[[fungal-microscopic-examination-mounting-media-techniques]] of cultures, and herbarium
 specimen identification remain the foundation of fungal diversity assessment.
 These methods are labor-intensive, require specialized taxonomic expertise, and
 are biased toward macrofungi that produce visible sporocarps. Many fungi do not
@@ -117,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-biodiversity]]
 - [[doc]]
-- [[det]]
 - [[ascomycota]]
 - [[fungal-biodiversity-estimation-gap-undiscovered-species]]

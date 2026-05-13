@@ -11,24 +11,16 @@ sources:
 
 ## Overview
 
-MDO refers to 3,4-methylenedioxyamphetamine, which is the core chemical name for [[mdma-compound-profile]]
-- N-ethylation yields [[mdma-compound-profile]]. Glorious feeling, beauty everywhere enhanced. Internal dryness characteristic of MDMA, similar difficulty urinating but not as intense." — A more rapid onset with MDMA-like qualities, including the characteristic physical side effects.
+MDO refers to 3,4-methylenedioxyamphetamine, which is the core chemical name for [[mdma-compound-profile]]. Glorious feeling, beauty everywhere enhanced. Internal dryness characteristic of MDMA, similar difficulty urinating but not as intense." — A more rapid onset with MDMA-like qualities, including the characteristic physical side effects.
 
 **At 120 mg:** "Colors of the marketplace, all fresh foods, constituted a beautiful mosaic. Everything seen with new eyes, new meanings. A 'soul-scape.' Following day very exhausted, tired, back-pain." — A rich sensory experience with significant next-day fatigue.
 
 ## The MDA-MDOH Coincidence
 
-One of the most remarkable episodes in Shulgin's research career involved MDOH. As Shulgin recounted: "The first time MDOH was synthesized, it had inadvertently and unknowingly been converted to [[phenethylamine-chemistry-basics]] for the chemical details of this decomposition pathway.
-
-## Metabolic Speculation
-
-The MDA-MDOH coincidence prompted Shulgin to speculate about possible metabolic interconversion between the two compounds:
-
-"Might there be metabolic interconversion within the body? The immediate thought would be that the hydroxy group might be metabolically removed. But the opposite direction is more appealing — the in vivo conversion of [[phenethylamine-receptor-pharmacology]] for more on metabolic pathways in the phenethylamine family.
+One of the most remarkable episodes in Shulgin's research career involved MDOH. As Shulgin recounted: "The first time MDOH was synthesized, it had inadvertently and unknowingly been converted to [[phenethylamine-receptor-pharmacology]] for more on metabolic pathways in the phenethylamine family.
 
 ## See Also
 
-- [[mdma-compound-profile]] — N-methyl derivative, the most famous MDXX compound
 - [[shulgin-dosage-guidelines]] — Shulgin's dosage rating system used in PIHKAL
 - [[first-time-grower-common-mistakes]]
 ## Practical Applications

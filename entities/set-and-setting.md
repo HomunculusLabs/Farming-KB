@@ -26,7 +26,7 @@ created: 2026-05-07
 
 # Set and Setting
 
-**Set and setting** is a foundational concept in [[mckenna-suppression-psychedelic-research-lsd-therapy]], psychopharmacology, and consciousness studies describing the two primary non-pharmacological factors that determine the character, intensity, and outcome of a psychoactive drug experience. "Set" refers to the psychological state, expectations, personality, mood, and preparation of the person taking the substance. "Setting" refers to the physical, social, and cultural environment in which the experience takes place. The concept was formalized by [[richard-alpert]] (Ram Dass), and Ralph Metzner at Harvard University in the early 1960s, and remains a cornerstone of modern [[metzner-psycholytic-psychedelic-therapy-models]], harm reduction, and [[psilocybin-clinical-trial-landscape-2020-2025]] design.
+**Set and setting** is a foundational concept in [[richard-alpert]] (Ram Dass), and Ralph Metzner at Harvard University in the early 1960s, and remains a cornerstone of modern [[psilocybin-clinical-trial-landscape-2020-2025]] design.
 
 ## Historical Development
 
@@ -34,23 +34,11 @@ created: 2026-05-07
 
 The concept emerged from the Harvard Psilocybin Project, where Leary, Alpert, and Metzner administered psilocybin to hundreds of volunteers — including prisoners, graduate students, divinity students, and artists. They observed that identical doses produced dramatically different experiences depending on the participant's mindset and surrounding conditions, leading them to formalize "set and setting" as a fundamental principle.
 
-Their 1964 book *The [[leary-psychedelic-experience-bardo-mapping]]*, adapted from the Tibetan Book of the Dead, provided a structured framework for preparing "set" through meditation, intention-setting, and psychological readiness.
-
-### Precedents
-
-While Leary's group coined the specific term, the underlying principle was recognized much earlier:
-
-- **Albert Hofmann** (1954, *The Doors of Perception*): Noted that mescaline's effects depended on the observer's mental state
-- **[[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]**: [[psilocybe-cubensis]] for treatment-resistant depression, [[mazatec-people]] mushroom rituals**: Conducted in darkness by a *curandera* with ritual prayers
-- **[[metzner-bwiti-iboga-ceremonies-ancestor-communication-and-addiction]]** (Bwiti tradition): Initiation rites spanning days with complex ritual structure
-
-## Scientific Evidence
-
-Modern research has quantitatively validated the set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]]:
+Their 1964 book *The [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]**: [[mazatec-people]] mushroom rituals**: Conducted in darkness by a *curandera* with ritual prayers
+- **[[metzner-set-and-setting-hypothesis-origins-and-extensions]]:
 
 - A 2016 meta-analysis found therapeutic alliance and preparation quality were stronger outcome predictors than dose
-- [[johns-hopkins-psychedelic-research]] psilocybin studies showed mystical-type experiences (strongly setting-dependent) mediate long-term therapeutic benefit
-- fMRI studies demonstrate the brain's [[default-mode-network-and-ego-dissolution]] response to psychedelics is modulated by the participant's psychological state
+- [[default-mode-network-and-ego-dissolution]] response to psychedelics is modulated by the participant's psychological state
 - Imperial College London trials found "acute experience quality" predicted 6-month outcomes better than baseline severity
 
 ## Harm Reduction Framework
@@ -88,3 +76,75 @@ Contemporary [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] rese
 - Experienced guides navigate challenging psychological material non-verbally
 
 ## Critiques and Limitations
+
+## Overview
+
+Set And Setting represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish set and setting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving set extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Set And Setting finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for set and setting. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+set and setting and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Set And Setting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of set and setting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

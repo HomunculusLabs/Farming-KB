@@ -18,13 +18,7 @@ sources:
 
 ## Overview
 
-**Cymbopogon winterianus**, commonly known as **Java citronella**, is a tropical [[savory-perennial-grass-and-desertification]] in the family Poaceae, cultivated worldwide for its essential oil.
-
-The species is one of two primary commercial sources of citronella oil, the other being *Cymbopogon nardus* (Sri Lanka citronella).
-
-Java citronella oil is valued for its high citronellal and geraniol content, making it the preferred source for insect repellent formulations and perfumery.
-
-The species is named after M. Winter, a nineteenth-century botanical collector associated with the early cultivation of the plant in [[psilocybe-southeast-asia-pacific]].
+**Cymbopogon winterianus**, commonly known as **Java citronella**, is a tropical [[psilocybe-southeast-asia-pacific]].
 
 ## Taxonomy and Morphology
 
@@ -60,30 +54,93 @@ It performs best in full sun but tolerates partial shade, particularly during es
 
 ## Cultivation
 
-Java citronella is propagated primarily through slips (rooted tillers) rather than seed, as commercial [[cannabis-controlled-pollination-seed-production]] is inconsistent.
-
-Slips are planted at the onset of the monsoon season at spacing of 45–60 cm within rows and 60–90 cm between rows.
-
-The first harvest typically occurs 3–4 months after planting, with subsequent harvests every 2–3 months during the [[savory-growing-season-and-non-growing-season-management]].
+Java citronella is propagated primarily through slips (rooted tillers) rather than seed, as commercial [[savory-growing-season-and-non-growing-season-management]].
 
 Annual fresh herbage yield ranges from 20–40 tonnes per hectare, yielding 100–250 kg of essential oil per hectare.
 
-Oil yield and [[fukuoka-petroleum-agriculture-food-quality-decline]] after 3–4 years, necessitating replanting of established stands.
+Oil yield and [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of fresh or partially dried herbage, with distillation typically completed within 3–4 hours.
 
-Nitrogen fertilization at 80–120 kg/ha annually significantly improves herbage and oil yield.
+Major pests include [[staphylococcus-aureus]]* and *[[bacillus-subtilis]]*.
 
-The essential oil is extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of fresh or partially dried herbage, with distillation typically completed within 3–4 hours.
+## Overview
 
-Major pests include [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]] (*Chilo partellus*) and shoot fly (*Atherigona* spp.), while leaf rust (*Puccinia cymbopogonis*) is the primary disease concern.
+Cymbopogon Winterianus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## Chemistry and Pharmacology
+## Key Characteristics
 
-Java citronella essential oil is composed primarily of monoterpenes and monoterpenoid alcohols.
+Several defining characteristics distinguish cymbopogon winterianus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-The principal constituents are citronellal (32–45%), geraniol (12–22%), and citronellol (8–15%).
+## Ecological Context
 
-Minor components include limonene, methyl isoeugenol, geranyl acetate, and borneol.
+The ecological relationships involving cymbopogon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-The citronellal content distinguishes Java citronella oil from Ceylon citronella oil, which is dominated by citronellal at only 5–15%.
+## Practical Applications
 
-The oil demonstrates broad-spectrum antimicrobial activity against Gram-positive bacteria, including *[[staphylococcus-aureus]]* and *[[bacillus-subtilis]]*.
+Cymbopogon Winterianus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cymbopogon winterianus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cymbopogon winterianus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cymbopogon Winterianus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cymbopogon winterianus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cymbopogon-citratus]]
+- [[cymbopogon-flexuosus]]
+- [[cymbopogon-martinii]]

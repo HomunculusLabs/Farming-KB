@@ -6,7 +6,7 @@ type: concept
 
 # Seed Germination Factors
 
-Seed germination is governed by a complex interplay of environmental factors including soil temperature, light exposure, cold stratification, and even passage through digestive systems. Understanding these factors is essential for successful [[plant-propagation]] in permaculture systems, where timing and technique can mean the difference between abundant establishment and total failure.
+Seed germination is governed by a complex interplay of environmental factors including soil temperature, light exposure, cold stratification, and even passage through digestive systems. Understanding these factors is essential for successful [[plant-propagation]] in [[permaculture]] systems, where timing and technique can mean the difference between abundant establishment and total failure.
 
 ## Temperature and Germination
 
@@ -114,31 +114,5 @@ The proportion of heat loss on a cold night is proportional to the area of the n
 - In forests, clearings should not exceed **30 m across**
 - Build up a **complete crown cover** to prevent frost site-wide, done in stages using progressively more frost-tender species
 
-A staged approach might involve planting the whole area to a frost-tolerant legume like silver wattle (*[[acacia-dealbata]]*), then planting semi-hardy fruits in their shelter, eventually cutting back the Acacia as the frost-sensitive protected trees gain height.
-
-### Tree Crown Effects on Moisture
-
-Tree crowns create their own water distribution patterns on the ground:
-
-- **Crown drip** can direct in excess of 100% of rain to a "gutter" on the ground
-- Species with down-sweeping limbs and leaves create particularly pronounced concentration effects
-- **Rain-shadow edges** of forests experience significantly drier conditions
-- "Wet" edges are more often away from the sun (most rain comes from the polar side of sites)
-- **Sunny edges** of forests help protect seedlings from frost and are used to rear small trees
-
-These microclimatic effects have profound implications for plant placement, water management, and the design of forest garden systems in permaculture.
-
-## Thermogenic Plants
-
-Some plants have evolved the remarkable ability to generate their own heat through thermogenesis. Certain arum lily species can maintain temperatures 20–25°C (36–45°F) above ambient, serving multiple functions:
-
-- Providing a warm incubator for plant growth in cold conditions
-- Scattering odorous scents that attract pollinating flies
-- Creating vortex patterns from wind that carry pollen down to unpollinated lower flowers, achieving fertilization in cold winds without insect assistance
-
-These "heater" plants may have unpleasant smells and should be used with caution, but understorey clumps of such species can assist frost-tender, fly-pollinated, or heat-starved plants in permaculture designs.
-
-## See Also
-- [[plants-as-heaters-and-seed-germination-factors]]
-- [[knf-seed-soaking-cannabis-germination]]
+A staged approach might involve planting the whole area to a frost-tolerant legume like silver wattle (*[[plants-as-heaters-and-seed-germination-factors]]
 - [[mollison-designers-seed-dormancy-and-germination-treatments]]

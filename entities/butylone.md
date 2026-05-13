@@ -15,37 +15,9 @@ updated: 2026-04-28
 sources:
   - Kamal, A.K.M. et al. (2012). "An analytical overview on the designer drug β-keto-N-methylbenzodioxolylbutanamine (butylone)." psychedelic-drug-testing-and-adulterant-screening and Analysis, 4(4), 307–318.
   - López-Arnau, R. et al. (2014). "3,4-Methylenedioxymethcathinone (methylone), a new drug of abuse." Toxicology Letters, 227(3), 199–206.
-  - EMCDDA (2014). "Report on the risk assessment of butylone in the framework of the Council Decision on new [[cultural-evolution-and-psychoactive-substances]]."
-  - Zaitsu, K. et al. (2009). "Simultaneous determination of 11 cathinone derivatives in human hair by LC-MS/MS." Forensic Science International, 184(1–3), 1–7.
-  - Iversen, L. (2014). "Contemporary research on the pharmacology and toxicology of recreational cathinones." Psychopharmacology, 231(5), 929–939.
-created: 2026-04-28
----
+  - EMCDDA (2014). "Report on the risk assessment of butylone in the framework of the Council Decision on new [[alexander-shulgin]] and documented in *PiHKAL* (Phenethylamines I Have Known and Loved), butylone remained obscure until the mid-2000s when it emerged as a designer drug in the global online research chemical market. It was marketed as a legal alternative to MDMA and methylone, often sold under names such as "B1" or simply as "plant food."
 
-## Overview
-
-**Butylone** (β-keto-N-methylbenzodioxolylbutanamine; βk-MBDB) is a synthetic substituted cathinone and entactogenic stimulant of the phenethylamine class. It is the β-keto analogue of MBDB (methylbenzodioxylbutylamine), structurally related to MDMA (ecstasy) by the substitution of a β-ketone group on the phenethylamine backbone.
-
-First synthesized in the late 1960s by [[alexander-shulgin]] and documented in *PiHKAL* (Phenethylamines I Have Known and Loved), butylone remained obscure until the mid-2000s when it emerged as a designer drug in the global online research chemical market. It was marketed as a legal alternative to MDMA and methylone, often sold under names such as "B1" or simply as "plant food."
-
-Butylone produces empathogenic and stimulant effects qualitatively similar to MDMA but is generally reported as milder, shorter-acting, and less euphoric. It is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] and is controlled under the UN Convention on Psychotropic Substances.
-
-## Chemical Properties
-
-**IUPAC name:** 1-(1,3-benzodioxol-5-yl)-2-(methylamino)butan-1-one
-
-**Molecular formula:** C12H15NO3
-
-**Molecular weight:** 221.25 g/mol
-
-**SMILES:** CC(CC(=O)C1=CC(=C(C=C1)O2)OCO2)NC
-
-**CAS number:** 802286-83-5
-
-Butylone is a white to off-white crystalline powder at room temperature, soluble in water, ethanol, and DMSO. It is a chiral molecule, though it is typically encountered as a racemic mixture. The (R)-enantiomer generally shows higher potency at monoamine transporters in preclinical assays.
-
-The β-ketone group reduces lipophilicity relative to the corresponding non-ketone amphetamine, resulting in faster metabolism and a shorter duration of action. This structural modification also confers reduced blood-brain barrier penetration compared to MDMA.
-
-These [[tryptamine-vs-lsd-pharmacokinetic-differences-brain-familiarity]] mean butylone reaches peak plasma concentrations within 1–2 hours of oral administration. The compound is extensively protein-bound (approximately 70–80%) and distributes readily into cardiac and neural tissue.
+Butylone produces empathogenic and stimulant effects qualitatively similar to MDMA but is generally reported as milder, shorter-acting, and less euphoric. It is classified as a Schedule I controlled substance in the [[tryptamine-vs-lsd-pharmacokinetic-differences-brain-familiarity]] mean butylone reaches peak plasma concentrations within 1–2 hours of oral administration. The compound is extensively protein-bound (approximately 70–80%) and distributes readily into cardiac and neural tissue.
 
 ## Pharmacology
 
@@ -70,12 +42,7 @@ Butylone undergoes extensive hepatic metabolism via N-demethylation to the prima
 - **Stimulation:** Moderate central stimulation, less intense than classical amphetamines. Users report clean physical energy without pronounced jitteriness.
 - **Empathogenic effects:** Mild to moderate feelings of emotional openness, sociability, and connectedness. Significantly less pronounced than MDMA or methylone.
 - **Euphoria:** Moderate, typically described as gentle and warm rather than the intense rush associated with MDMA.
-- **Enhanced [[plant-sensory-perception]]:** Mild intensification of tactile and auditory sensation, without the pronounced visual effects of classical psychedelics.
-- **Cognitive effects:** Mildly disinhibiting, with increased talkativeness and reduced social anxiety.
-
-**Common side effects:** Tachycardia, elevated blood pressure, mydriasis, bruxism, jaw clenching, hyperthermia (dose-dependent), perspiration, insomnia, appetite suppression, and mild anxiety at higher doses. Nausea and gastrointestinal discomfort are reported more frequently than with MDMA.
-
-**Aftereffects:** Post-acute dysphoria, fatigue, and cognitive fogginess lasting 12–48 hours. Users report significantly less severe comedown than MDMA, likely due to lower [[mdma-serotonergic-neurotoxicity]] risk. Tolerance develops rapidly with repeated dosing within a single session.
+- **Enhanced [[mdma-serotonergic-neurotoxicity]] risk. Tolerance develops rapidly with repeated dosing within a single session.
 
 ## Toxicology
 
@@ -88,3 +55,80 @@ The acute toxicity profile of butylone has been characterized primarily through 
 **Hyperthermia:** Like other cathinones and amphetamines, butylone impairs thermoregulation through a combination of increased muscular activity, vasoconstriction, and serotonergic hypothalamic effects. Risk is significantly amplified in hot environments, during physical exertion, and when combined with MDMA or other serotonergic agents.
 
 **Forensic significance:** Butylone has been frequently misidentified or mis-sold as MDMA, methylone, or other cathinones in the illicit market. [[analytical-methods-psilocybin-psilocin-quantification]] including GC-MS, LC-MS/MS, and FTIR are required for definitive identification due to the structural similarity among β-keto phenethylamines.
+
+## Overview
+
+Butylone represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish butylone
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving butylone extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Butylone finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for butylone. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+butylone and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Butylone has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of butylone into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

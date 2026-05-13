@@ -12,20 +12,11 @@ type: concept
 
 # Liquid Culture Propagation Methods
 
-Liquid [[agar-culture-techniques-detailed]] enable cultivators to dramatically increase the
-scale of [[arbuscular-mycorrhizal-inoculum-production-best-practices]]. By suspending fragmented mushroom mycelia in
-sterile water, a single [[agar-culture-and-isolation]] plate can inoculate up to 100 grain
-spawn jars, more than ten times the number possible with traditional wedge
-transfer methods. This approach is fundamental to efficient
-[[stamets-slant-culture-strain-preservation]] remain the standard. Liquid culture is best used as an
+Liquid [[arbuscular-mycorrhizal-inoculum-production-best-practices]]. By suspending fragmented mushroom mycelia in
+sterile water, a single [[stamets-slant-culture-strain-preservation]] remain the standard. Liquid culture is best used as an
 expansion tool for active production cycles rather than as a long-term
 storage medium. Maintaining master slant cultures and expanding through
-[[query-how-to-make-liquid-culture-for-mushroom-cultivation]] each production run provides both security and
-efficiency.
-
-## Related Topics
-
-- [[stamets-grain-sterilization-contamination-sources]]
+[[stamets-grain-sterilization-contamination-sources]]
 - stamets-sterile-laboratory-design
 ## Practical Applications
 

@@ -21,23 +21,13 @@ sources:
 
 ## Overview
 
-The Free Spore Ring Europe (FSRE) is a non-profit organization that distributed psilocybin mushroom spores across Europe at minimal cost. Operating via its website at fsre.org, the FSRE represented a significant alternative distribution channel for [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] cultivation materials, distinct from commercial smartshops and online retailers. The organization charged approximately 1 EUR per [[spore-print]], making it one of the most affordable sources of cultivation starting materials available in Europe during the early to mid-2000s.
+The Free Spore Ring Europe (FSRE) is a non-profit organization that distributed psilocybin mushroom spores across Europe at minimal cost. Operating via its website at fsre.org, the FSRE represented a significant alternative distribution channel for [[spore-print]], making it one of the most affordable sources of cultivation starting materials available in Europe during the early to mid-2000s.
 
 The FSRE's non-profit model stood in stark contrast to the commercial mushroom retail sector, which was estimated to generate significant turnover. In the Netherlands alone, magic mushrooms were estimated to constitute approximately 50% of smartshop revenue, with an estimated 120 to 150 smartshops operating across the country. While these commercial outlets charged premium prices for fresh mushrooms, growkits, and related products, the FSRE provided cultivation materials at near-cost prices as a community service. This pricing differential was dramatic: at 1 EUR per print, FSRE spores cost a fraction of the 9 to 28 EUR charged by commercial online shops for equivalent spore prints or syringes.
 
 ## Role in the European Mushroom Market
 
-The FSRE occupied a unique niche within the broader hallucinogenic [[psilocybin-mushroom-distribution-worldwide]] ecosystem. While commercial smartshops in the Netherlands dominated retail sales of fresh mushrooms and growkits, and online shops sold products at market rates, the FSRE provided a low-cost avenue for home cultivators to obtain spores independently. This non-profit model bypassed many of the commercial incentives that drove retailers and created a community-oriented distribution network focused on enabling self-sufficient cultivation rather than generating profit.
-
-The organization offered spores for multiple strains, includ psilocybe cubensis nsis and [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] varieties. Users could obtain prints or syringes containing the spores needed to inoculate substrate materials for home cultivation. The availability of these low-cost spores significantly lowered the barrier to entry for individuals interested in growing their own [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], creating a pathway that entirely bypassed the commercial retail chain.
-
-According to a 2001 study conducted among a representative sample of young persons aged 12 and above in the Netherlands, 64% of young people aged 18 and older who had used magic mushrooms in the previous year purchased them in smartshops. The FSRE and similar non-profit distribution networks served the remaining market segment, particularly experienced users who had moved beyond purchasing finished products and sought to cultivate independently.
-
-## Spore Prints and Syringes
-
-Spore prints are created by pressing the gills of a mature mushroom cap onto paper, capturing millions of microscopic spores. Alternatively, spore syringes are produced by transferring spores from a print into a syringe under sterile conditions. Both methods serve as the starting point for home cultivation, analogous to how seeds are used to grow plants.
-
-Just as a common house plant is grown in a pot of soil, mushrooms can be grown on a cake of substrate material. The substrate typically consists of a nutrient-rich medium free of bacteria and molds. Spore prints are available for a variety of magic mushroom species, and the choice of strain affects the potency, growing characteristics, and appearance of the resulting crop. Common species available through spore distribution networks included Psilocybe cubensis (the most frequently marketed specie psilocybe mexicana cana, [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]], and Panaeolus cyanescens.
+The FSRE occupied a unique niche within the broader hallucinogenic [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] varieties. Users could obtain prints or syringes containing the spores needed to inoculate substrate materials for home cultivation. The availability of these low-cost spores significantly lowered the barrier to entry for individuals interested in growing their own [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]], and Panaeolus cyanescens.
 
 The FSRE distributed these materials alongside the wider internet ecosystem of cultivation information. Users could easily find instructions on how to grow hallucinogenic mushrooms using a spore print and a substrate through websites such as magic-mushrooms.net. The combination of affordable spores from FSRE and freely available cultivation guides created a self-sustaining cycle of information and materials that enabled home cultivation without reliance on commercial retailers.
 
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[spore]]
-- [[spore-syringe]]
 - [[spore-print]]
 - [[psilocybin-mushroom]]

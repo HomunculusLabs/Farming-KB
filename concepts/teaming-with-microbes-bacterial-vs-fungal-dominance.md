@@ -10,26 +10,20 @@ sources:
 
 # Bacterial vs Fungal Soil Dominance
 
-A central concept in the [[teaming-with-microbes-nematodes]] and [[teaming-with-microbes-fb-ratio]]
+A central concept in the [[teaming-with-microbes-fb-ratio]]
 
 ## Managing Soil Dominance
 
 Gardeners can shift soil toward bacterial or fungal dominance by choosing appropriate inputs:
 
 - To increase bacteria: use green mulches, compost worked into soil, fine-ground materials, moist conditions
-- To increase fungi: use brown mulches (leaves, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) on the surface, coarse/dry materials, [[ingham-paper-cardboard-fungal-foods-compost]] like humic acids
+- To increase fungi: use brown mulches (leaves, [[ingham-paper-cardboard-fungal-foods-compost]] like humic acids
 
-See also: [[teaming-with-microbes-fb-ratio]]
-- [[teaming-with-microbes-fungi]]
-- [[soil-foodweb]]
+See also: [[teaming-with-microbes-fungi]]
 - [[ozier-pdc-composting-and-soil-building]]
 
 ## Merged: Earthworms and Vermicastings - Teaming with Microbes
-Earthworms are among the most visible and important members of the [[soil-foodweb]] - [[teaming-with-microbes-protozoa]] - [[vermicomposting]]
-## Merged: Nitrogen Cycling and Plant Preferences - Teaming with Microbes
-Nitrogen is the basic building block of amino acids and therefore of life. The [[teaming-with-microbes-protozoa-and-nematodes]] eat the bacteria and fungi, some nitrogen is retained by the predator, but much is released as waste in plant-available ammonium (NH4+). Contrast this with [[cervantes-chemical-fertilizers-guide]]: a tiny bit hits the root-exudates|rhizosphere where it is absorbed, but most drains through soil until it hits the water table. Related: Earthworms, [[mulching-guide]], [[teaming-with-microbes-no-till-benefits]]
-## Merged: Weed Ecology and the Soil Food Web - Teaming with Microbes
-Weeds are not merely random invaders -- their presence provides diagnostic information about soil conditions and the state of the [[teaming-with-microbes-compost-biology]], [[teaming-with-nutrients-composting-and-nutrient-cycling]]. This nitrogen tie-up at the surface suppresses shallow-rooted weed seeds that might otherwise germinate, while deeper-rooted crop plants access nitrogen mineralized by [[mulching-guide]] - [[teaming-with-microbes-protozoa]] - [[teaming-with-microbes-compost-tea-and-inoculation]]
+Earthworms are among the most visible and important members of the [[teaming-with-microbes-protozoa]] - [[teaming-with-microbes-protozoa-and-nematodes]] eat the bacteria and fungi, some nitrogen is retained by the predator, but much is released as waste in plant-available ammonium (NH4+). Contrast this with [[mulching-guide]], [[teaming-with-microbes-compost-biology]], [[mulching-guide]] - [[teaming-with-microbes-compost-tea-and-inoculation]]
 ## Practical Applications
 
 Bacterial vs Fungal Soil Dominance - Teaming with Microbes has a range of practical applications that make it relevant to

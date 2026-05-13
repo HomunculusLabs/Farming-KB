@@ -27,23 +27,11 @@ Gardeners who master both practices gain the ability to diagnose soil problems a
 
 ## No-Till
 
-[[teaming-with-microbes-mulch-and-soil-food-web]]
-
-Mulch is any material placed on top of the soil surface to reduce evaporation, suppress weeds, insulate plants, and feed soil organisms. For soil food web gardeners, organic mulches serve the additional critical function of providing food and habitat for the microbial and macrofaunal communities that drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 Common organic mulch options include leaves and leaf mold, aged pine needles, grass clippings, aged bark and wood chips, straw, well-rotted manure, seaweed, and chopped plant residues. Each material has distinct properties that affect decomposition rate, nutrient content, and the microbial communities it supports.
 
-Mulch material selection is one of the most important decisions a gardener can make because different materials favor different microbial communities. High-nitrogen, fine-textured materials like grass clippings and finished compost feed [[cultivar-endorhiza-bacterial-communities-cannabis]] and accelerate decomposition.
-
-These bacterial mulches are ideal for vegetable beds and annual plantings where rapid nutrient release is desired. Bacterial dominance supports fast-growing, heavy-feeding crops that need readily available nitrogen and other nutrients in soluble forms.
-
-In contrast, high-carbon, coarse-textured materials like wood chips, shredded bark, and fallen leaves favor fungal communities that decompose slowly. These fungal mulches release nutrients over extended periods and are better suited to perennial plantings, orchards, and food forests.
-
-Fungal mulches support the [[dighton-mycorrhizal-networks-carbon-transfer]] that woody plants depend on for nutrient acquisition. As fungi colonize woody mulch, they extend hyphae downward into the soil, eventually connecting with plant roots and creating the [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] networks that define healthy forest-floor ecology.
-
-The JADAM leaf mold mulch approach deserves special attention as a model for balanced mulch management. In the JADAM farming system developed in Korea, leaf mold is considered the foundational input for establishing ideal soil conditions across all crop types.
-
-Leaf mold is produced by collecting autumn leaves and allowing them to partially decompose over several months in a moist, shaded environment. The resulting material is rich in fungal hyphae and provides a balanced food source that supports both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] communities simultaneously.
+Mulch material selection is one of the most important decisions a gardener can make because different materials favor different microbial communities. High-nitrogen, fine-textured materials like grass clippings and finished compost feed [[dighton-mycorrhizal-networks-carbon-transfer]] that woody plants depend on for nutrient acquisition. As fungi colonize woody mulch, they extend hyphae downward into the soil, eventually connecting with plant roots and creating the [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] communities simultaneously.
 
 JADAM practitioners apply leaf mold mulch thickly, often five to ten centimeters deep, creating a living soil surface that supports diverse and resilient soil biology. This approach eliminates the need for separate bacterial and fungal mulch layers by providing a material that naturally supports both communities.
 
@@ -98,16 +86,7 @@ No-till and mulch are not alternatives but complementary practices that work bes
 
 The most effective soil management combines strict no-till discipline with strategic mulch application, using mulch material selection to steer bacterial or fungal dominance as needed for different crops and growth stages. This combination creates a self-reinforcing cycle of soil improvement.
 
-Compost tea integration elevates the hybrid approach further by enabling targeted microbial inoculation. By spraying actively [[actively-aerated-compost-tea]] tea onto the mulch layer and soil surface, gardeners can introduce specific microbial communities tailored to crop needs without any soil disturbance.
+Compost tea integration elevates the hybrid approach further by enabling targeted microbial inoculation. By spraying actively [[comparison-no-till-vs-tilling]]
 
-Compost tea applied to a woody mulch layer in an orchard accelerates fungal colonization, while the same tea applied to a compost mulch in vegetable beds boosts bacterial activity. This responsive system adapts to changing garden conditions while preserving existing soil networks.
-
-The result is a garden that becomes more productive and self-sufficient with each passing season. As organic matter accumulates, microbial diversity increases, and plant roots penetrate deeper into undisturbed soil, the gardener's role shifts from active intervention to careful observation and minimal maintenance.
-
-## See Also
-
-- [[comparison-no-till-vs-tilling]]
-
-- [[comparison-no-till-vs-conventional-tillage]]
 - [[comparison-chop-and-drop-vs-sheet-mulching]]
 - [[teaming-with-microbes-soil-food-web-overview]]

@@ -43,9 +43,7 @@ the substrate, ultimately yielding the hydroxylated product.
 ### CYP1 Family
 
 CYP1A1 and CYP1A2 metabolize planar aromatic compounds
-including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons and heterocyclic
-amines. CYP1A2 is constitutively expressed in the liver and
-metabolizes [[caffeine]], theophylline, and acetaminophen. Both
+including [[caffeine]], theophylline, and acetaminophen. Both
 enzymes are transcriptionally activated by the aryl
 hydrocarbon receptor (AhR) pathway, which upregulates
 expression upon exposure to dioxins and cigarette smoke.
@@ -56,36 +54,7 @@ The CYP2 family is the largest and most diverse in humans.
 CYP2D6 metabolizes approximately 25% of all drugs, including
 beta-blockers, antidepressants, and opioid analgesics.
 CYP2C9 metabolizes warfarin, phenytoin, and NSAIDs. CYP2C19
-metabolizes [[bloomfield-hyphal-proton-pump-nutrient-uptake-electrical-biology]] inhibitors, clopidogrel, and certain
-antidepressants. These enzymes exhibit extensive genetic
-polymorphism, producing poor, intermediate, extensive, and
-ultrarapid metabolizer phenotypes with significant clinical
-consequences for drug dosing and toxicity risk.
-
-### CYP3 Family
-
-CYP3A4 is the most abundant CYP enzyme in the human liver
-and small intestine, metabolizing roughly 50% of marketed
-drugs including macrolide antibiotics, calcium channel
-blockers, benzodiazepines, and statins. CYP3A5 contributes
-significantly in individuals carrying the functional
-CYP3A5*1 allele, particularly affecting tacrolimus dosing in
-transplant medicine. CYP3A enzymes are highly inducible by
-rifampin, St. John's wort, and glucocorticoids through the
-pregnane X receptor (PXR) pathway.
-
-## Genetic Polymorphism and Pharmacogenomics
-
-CYP polymorphisms are among the most clinically significant
-pharmacogenetic variants. CYP2D6 gene deletions,
-duplications, and point mutations produce a wide range of
-metabolic capacities. Approximately 7% of Caucasians are
-CYP2D6 poor metabolizers, while 1-2% of Scandinavians carry
-gene duplications producing ultrarapid metabolism. CYP2C19*2
-and CYP2C19*3 alleles produce poor metabolism, particularly
-prevalent in Asian populations (15-30%). These polymorphisms
-are the basis for FDA pharmacogenomic labeling and clinical
-[[cannabis-dosing-guidelines-by-condition]] for dozens of drugs.
+metabolizes [[cannabis-dosing-guidelines-by-condition]] for dozens of drugs.
 
 ## Drug-Drug Interactions
 
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[caffeine]]
-- [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]]
 - [[cytochrome-p450-enzymes-structure-function-pharmacology]]
 - [[fungal-cytochrome-p450-biodegradation]]

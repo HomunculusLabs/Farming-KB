@@ -16,7 +16,7 @@ type: query
 A backyard pond adds beauty, wildlife habitat, and water management capacity to
 your landscape. This guide covers the full process from planning through
 winterization, with connections to broader permaculture water harvesting
-strategies. For foundational [[holmgren-permaculture-twelve-design-principles-framework]], see [[water-garden-and-ponds]].
+strategies. For foundational [[water-garden-and-ponds]].
 ## Step 2: Sizing and Depth Considerations
 Pond size depends on your goals: ornamental display, wildlife habitat, fish
 keeping, or water storage.
@@ -27,9 +27,7 @@ keeping, or water storage.
   shallow shelf at 6 to 12 inches deep around the perimeter for marginals.
 - **Volume**: Calculate length times width times average depth, then multiply
   cubic feet by 7.48 for gallons. Larger volumes are more stable.
-Detailed building guidance with dimension tables is in [[pond-maintenance-and-troubleshooting]].
-## Step 6: Plant Selection
-Plants provide oxygen, shade, [[plant-nutrient-uptake-mechanisms]], and habitat. Layer by depth:
+Detailed building guidance with dimension tables is in [[plant-nutrient-uptake-mechanisms]], and habitat. Layer by depth:
 - **Marginal plants** (shelf zone, 0 to 6 inches): Blue flag iris, pickerelweed,
   soft rush, cattail, cardinal flower. They stabilize edges and filter runoff.
 - **Submerged plants** (deep zone): Hornwort, anacharis, eelgrass. These
@@ -47,7 +45,7 @@ Fish add life and color but increase the biological load on the pond:
   predators and susceptible to disease in crowded conditions.
 Introduce fish only after the pond has cycled for 2 to 4 weeks. Start with a
 few fish and add gradually to avoid overwhelming the biofilter. For aquaculture
-integration, see [[water-harvesting-techniques-comparison]] and [[query-how-to-set-up-a-backyard-pond-for-wildlife]]
+integration, see [[query-how-to-set-up-a-backyard-pond-for-wildlife]]
 ## Practical Considerations
 
 When working with How to Set Up a Backyard Pond, several practical factors should be

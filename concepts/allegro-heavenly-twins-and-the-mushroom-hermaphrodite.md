@@ -38,33 +38,13 @@ The cross became the symbol of the phallic god Hermes — an upright piece with 
 
 ## The Rib of Adam: Canopy of the Mushroom
 
-The Hebrew name for "rib," sela', is the Sumerian SILA, represented by the "V" shape. What the [[allegro-old-testament-figures-as-fertility-deities]] writer had in mind was a rib extending on both sides of the spinal column, giving the arched form associated with the open groin and the mushroom top. From this "rib" the god fashioned the significant part of the woman, supplying the canopy for the erect stem.
-
-The inverted "V" shape was also the form of the old yoke. The Sumerian GUN, "burden," is the base of our word "yoke." In the extended mushroom was seen an image of a neck bearing a yoke, which gave Castor his mythology as a horse-trainer — the "yoker" of horses.
-
-## The Hip-Joint: Ball-and-Socket
-
-The hip-joint appears repeatedly in mushroom mythology. Adonis was killed by being run through the hip by a boar. Dionysus was born from the hip of his father Zeus. When Jesus hangs on the cross, a soldier runs him through the side (John 19:34). In all cases, the allusion is to the ball-and-socket picture of the hip-joint, the head of the penis in the female vagina, or the stem in the cap of the mushroom.
-
-## Scholarly Significance and Criticism
-
-Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
-
-## See Also
-
-- [[sacred-mushroom-and-the-cross]]
-- [[allegro-soma-and-vedic-traditions]]
+The Hebrew name for "rib," sela', is the Sumerian SILA, represented by the "V" shape. What the [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[sacred-mushroom-and-the-cross]]
 - [[allegro-biblical-references-to-mushrooms-and-fungi]]
-- [[sacred-mushroom-hypothesis]]
-
-## Broader Context
-
-Allegro's work on this topic should be understood within the larger framework of [[allegro-fungal-iconography-in-ancient-art]] continues to be reexamined in light of new discoveries.
+- [[allegro-fungal-iconography-in-ancient-art]] continues to be reexamined in light of new discoveries.
 
 ## Connections to Contemporary Research
 
-Modern research into the therapeutic potential of psychedelics, documented in sources like [[allegro-names-of-the-gods-and-their-fertility-origins]]
-- [[allegro-womans-part-in-the-creative-process]]
+Modern research into the therapeutic potential of psychedelics, documented in sources like [[allegro-womans-part-in-the-creative-process]]
 ## Practical Considerations
 
 Successful implementation of Heavenly Twins and the Mushroom Hermaphrodite (Allegro) requires attention to
@@ -113,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[soma]]
-- [[allegro-key-of-the-kingdom-and-peter-as-mushroom]]
 - [[allegro-sacred-prostitute-and-the-mushroom-cult]]
 - [[allegro-firmament-and-the-mushroom-canopy]]

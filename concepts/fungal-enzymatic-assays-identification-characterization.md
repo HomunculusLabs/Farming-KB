@@ -11,32 +11,7 @@ Updated: 2026-04-18
 Fungal enzymatic assays are biochemical tests used to differentiate
 fungal species, detect metabolic capabilities, and characterise
 functional traits. These tests complement morphological and molecular
-[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], and are particularly valuable for
-distinguishing morphologically similar species and assessing ecological
-roles.
-
-## Major Enzyme Assays
-
-### Laccase Assay
-
-Laccases (benzenediol:oxygen oxidoreductases, EC 1.10.3.2) are
-multi-copper oxidases produced by many fungi, especially white-rot
-basidiomycetes. They catalyse the oxidation of phenolic and
-non-phenolic compounds. Detection methods:
-
-- **Gum guaiac test:** Plates are flooded with 1% gum guaiac in 95%
-  ethanol. Laccase-positive cultures develop an orange-brown colour
-  within 5 minutes as guaiacol oxidises.
-- **Syringaldazine test:** More specific for laccase; 0.1%
-  syringaldazine in ethanol applied to cultures. Positive reaction:
-  pink to purple colour change.
-- **ABTS (2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)):**
-  Green colour development indicates laccase activity.
-- **TMB (3,3',5,5'-tetramethylbenzidine):** Blue-green colour
-  development.
-Laccase production is characteristic of white-rot fungi and is
-important in lignin degradation, bioremediation, and fungal
-identification keys. See [[fungal-enzymatic-capabilities]] for a
+[[fungal-enzymatic-capabilities]] for a
 comprehensive survey of fungal enzyme systems.
 
 ### Tyrosinase Assay
@@ -52,25 +27,10 @@ o-quinones. Detection:
   positive reaction produces dark melanin-like pigments.
 - **Tyrosine test:** L-tyrosine as substrate; melanin production
   indicates tyrosinase activity.
-Tyrosinase is important in [[fungal-melanin-biosynthesis-ecological-functions]] and is characteristic
-of many dematiaceous (dark-pigmented) fungi.
-
-### Lignin Peroxidase (LiP) Assay
-
-Lignin peroxidases (EC 1.11.1.14) are heme-containing peroxidases
-involved in lignin degradation, primarily produced by white-rot
-basidiomycetes. Detection:
-
-- **Azure B decolorisation:** Azure B dye (a polymer model for lignin)
-  incorporated into agar. Clear halos around colonies indicate lignin
-  peroxidase activity.
-- **Poly R-478 decolorisation:** Synthetic dye decolorisation as a
-  proxy for ligninolytic activity.
-- **[[fungal-lignin-peroxidase-veratryl-alcohol]] oxidation:** Measured spectrophotometrically at
+Tyrosinase is important in [[fungal-lignin-peroxidase-veratryl-alcohol]] oxidation:** Measured spectrophotometrically at
   310nm.
 LiP is one of the key enzymes distinguishing white-rot from brown-rot
-fungi. See [[fungal-enzymatic-diversity-decomposition]] for the role
-of these enzymes in ecosystem [[fungal-decomposition-processes]].
+fungi. See [[fungal-decomposition-processes]].
 
 ### Lipase Assay
 
@@ -117,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-enzyme-systems]]
 - [[psilocybin]]
-- [[laccase]]
 - [[det]]
 - [[ethanol]]

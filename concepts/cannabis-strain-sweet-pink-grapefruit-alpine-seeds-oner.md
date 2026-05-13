@@ -18,7 +18,7 @@ Alpine Seeds, a breeding company based in Spain that has earned recognition for
 producing refined, stable genetics with European sensibility. The SPG project
 spanned four years of dedicated breeding work, during which Alpine Seeds
 carefully refined an inbred line to produce a strain that represents what
-Cannabis Sativa Vol 3 describes as "classic Swiss cannabis for the modern era."
+[[cannabis-sativa]] Vol 3 describes as "classic Swiss cannabis for the modern era."
 The result is a hardy, uniform, and exceptionally flavorful cultivar that has
 found favor among growers and connoisseurs alike.
 
@@ -28,14 +28,7 @@ The development of Sweet Pink Grapefruit was a deliberate, multi-year effort.
 Alpine Seeds invested four years in perfecting this strain, working with an
 established SPG breeding line to achieve the level of stability and uniformity
 that characterizes the final product. The genetic formula is SPG × (SPG × SPG
-Breeding Line 3), a [[vic-high-backcrossing-and-inbreeding-techniques]] strategy designed to lock in
-desirable traits while maintaining sufficient genetic vigor. This approach
-produced plants that are remarkably consistent from seed, displaying uniform
-growth patterns, flowering times, and flavor profiles across individual
-specimens.
-
-The Swiss heritage referenced in the strain's description points to the broader
-European [[cannabis-breeding-basics]] tradition that Alpine Seeds draws from — one
+Breeding Line 3), a [[cannabis-breeding-basics]] tradition that Alpine Seeds draws from — one
 emphasizing stability, subtlety, and refinement over raw potency alone. The
 four-year development period reflects a commitment to releasing only genetics
 that meet rigorous internal standards before being made available to growers.
@@ -46,15 +39,7 @@ While Sweet Pink Grapefruit is sativa-dominant in its genetic makeup, it
 expresses a growth structure that leans toward the indica side of the spectrum.
 Plants develop a bushier, more compact canopy than typical sativas, with
 multiple branching sites that contribute to above-average yields. This bushier
-structure makes SPG particularly well-suited for [[cannabis-sativa-indoor-cultivation-techniques]], where
-space efficiency and manageable plant height are important considerations. The
-strain is also ideal for greenhouse grows, where the natural light cycle can
-help express its full terpene potential.
-
-The plants are described as hardy, stable, and uniform — qualities that make
-them forgiving for less experienced growers while still rewarding for veterans.
-Consistency between plants reduces the unpredictability that can plague some
-sativa-dominant strains, allowing growers to plan their [[holzer-kitchen-garden-layout-and-traditional-gardening]]
+structure makes SPG particularly well-suited for [[holzer-kitchen-garden-layout-and-traditional-gardening]]
 feeding schedules with confidence.
 
 ## Flowering and Harvest
@@ -94,45 +79,7 @@ Pink Grapefruit an efficient and rewarding strain to cultivate.
 A long curing period is strongly recommended for Sweet Pink Grapefruit to
 achieve its full flavor potential. While the strain is smokable soon after
 drying, patience during the curing process — ideally four to eight weeks or
-longer — allows the complex [[cannabis-terpene-profile]] to fully develop and integrate.
-When properly cured, SPG delivers a sweet, tangy fruit flavor that lives up
-to its name. The grapefruit notes are prominent and authentic, accompanied
-by subtle sweetness and a clean, citrusy finish that lingers on the palate.
-
-The terpene profile likely includes significant contributions from limonene
-and myrcene, though the overall impression is dominated by the bright, tangy
-grapefruit character that gives the strain its identity.
-
-## Effects and Experience
-
-The effects of Sweet Pink Grapefruit are characterized by a strong, intense
-high that begins with a cerebral uplift before settling into a relaxing body
-stone. The initial onset is energetic and mood-elevating, making SPG an
-excellent choice for social situations, creative pursuits, or daytime use.
-As the high progresses, a soothing body relaxation emerges that tempers the
-cerebral stimulation without causing heavy sedation.
-
-This balanced effect profile makes Sweet Pink Grapefruit particularly well-
-suited as a wake-and-bake strain. The combination of mental clarity, physical
-comfort, and functional euphoria allows users to start their day with a
-positive, productive mindset. The transition from energetic to relaxed is
-smooth and gradual, avoiding the sudden crashes or anxiety spikes that can
-accompany some more potent sativa-dominant varieties.
-
-## Medical Potential
-
-With a THC content of 19% and a balanced effect profile, Sweet Pink Grapefruit
-has potential applications in medical cannabis contexts. The uplifting cerebral
-effects may benefit patients dealing with mood disorders, fatigue, and stress,
-while the body stone component can help manage mild to moderate pain, muscle
-tension, and inflammation. The pleasant grapefruit flavor makes it more
-accessible for patients who may struggle with harsher medical strains.
-
-## Alpine Seeds and European Breeding
-
-Alpine Seeds operates from Spain and can be found online at alpine-seeds.ch.
-The company represents a growing movement of European breeders who are
-establishing their own distinct identity in the global [[cannabis-genetics-and-breeding]]
+longer — allows the complex [[cannabis-genetics-and-breeding]]
 market. Rather than simply replicating American West Coast trends, Alpine
 Seeds focuses on creating stable, refined strains that reflect European
 cultivation conditions and consumer preferences. Sweet Pink Grapefruit

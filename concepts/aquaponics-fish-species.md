@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [aquaponics, animal-husbandry, species, homesteading, water-management, sustainability]
-sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
+sources: []
 ---
 
 # Aquaponics Fish Species
@@ -21,7 +20,7 @@ Tilapia is the most popular aquaponics fish worldwide for good reason.
 - Stocking density: 1 fish per 10-20 liters (conservative) up to 1 per 5 liters (aggressive with aeration)
 - pH tolerance: 6.5-8.5, prefer 7.0-7.5
 - Pros: Hardy, tolerate poor water quality, fast growth, readily breed in captivity, mild-flavored white flesh, efficient feed converters (1.5-2.0 FCR)
-- Cons: Require warm water (need heaters in [[greenhouse-cool-climates-mollison]]), invasive risk (never release), can overpopulate if breeding is uncontrolled, some jurisdictions restrict or ban tilapia possession
+- Cons: Require warm water (need heaters in [[glasshouse-heat-management-cool-climates-mollison]]), invasive risk (never release), can overpopulate if breeding is uncontrolled, some jurisdictions restrict or ban tilapia possession
 - Notes: Use all-male populations to prevent uncontrolled breeding. Hand-sorting or hormone-treated fry are common. Maintain water temperature above 20 C at all times.
 
 ## Channel Catfish (Ictalurus punctatus)
@@ -108,17 +107,3 @@ Regular water testing is essential. Test ammonia, nitrite, nitrate, and pH at le
 ## Integration with Homestead Systems
 
 Aquaponics fish production integrates with broader homestead [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]. Fish waste feeds plants, plant-filtered water returns to fish tanks, and excess fish can be processed through a [[home-butcher-shop-setup]]. Water from the system can supplement [[rainwater-harvesting-systems]] for irrigation during drought periods. The fish production component makes aquaponics significantly more productive per [[comparison-biointensive-vs-square-foot-gardening]] than hydroponics alone.
-## Key Considerations
-
-Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
-
-## Common Challenges
-
-Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
-
-## See Also
-- [[african-truffle-species]]
-- [[agaricus-cultivation-and-species-guide]]
-- [[agaricus-aurora]]
-- [[allen-australian-psilocybe-species-comprehensive-guide]]
-- [[allen-psilocybin-potency-australian-species]]

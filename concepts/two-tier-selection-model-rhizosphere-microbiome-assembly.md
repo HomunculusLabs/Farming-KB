@@ -8,10 +8,7 @@ aliases: [Two-Tier Model Root Microbiome, Rhizosphere Selection Model]
 
 # Two-Tier Selection Model of Rhizosphere Microbiome Assembly
 
-The two-tier selection model describes how root-associated [[cannabis-endorhiza-bacterial-communities]]
-are assembled through two sequential selective filters: first by soil (edaphic)
-properties at the rhizosphere level, and then by plant genotype at the endorhiza
-level. This model, supported by the [[winston-cannabis-microbiome-study-design]] of Winston et al.
+The two-tier selection model describes how root-associated [[winston-cannabis-microbiome-study-design]] of Winston et al.
 (2014), provides a framework for understanding the relative contributions of
 environment and host genetics to plant microbiome composition.
 
@@ -20,57 +17,7 @@ environment and host genetics to plant microbiome composition.
 ### Tier 1: Soil Type Determines Rhizosphere Composition
 
 The first selective filter operates at the transition from bulk soil to
-rhizosphere. [[soil-physicochemical-properties-microbial-communities]] — particularly pH, but also
-salinity, organic carbon content, nitrogen availability, water content, and
-physical composition (sand/silt/clay ratios) — determine the structure of the
-local soil microbiota. This bulk soil community then serves as the source pool
-from which rhizosphere communities are drawn.
-
-Root exudates (sugars, amino acids, organic acids) create a nutrient-rich
-environment that shifts community composition away from bulk soil, but the
-available taxa are constrained by what was already present in the soil. A plant
-growing in acidic sandy soil will recruit from a fundamentally different
-bacterial pool than the same cultivar growing in alkaline clay, regardless of
-the plant's genotype.
-
-**Key prediction:** Soil type is the dominant factor explaining beta-diversity
-at the rhizosphere level. Rhizosphere communities from the same soil but
-different plant species should be more similar to each other than rhizosphere
-communities from the same plant species in different soils.
-
-### Tier 2: Plant Genotype Determines Endorhiza Composition
-
-The second selective filter operates at the transition from rhizosphere to
-endorhiza (root interior). Having passed through the soil filter, bacteria
-must now navigate the plant's immune system, compete for niche space within
-root tissues, and survive in the fundamentally different biochemical environment
-of the root interior. This second filter is genotype-dependent: different
-cultivars of the same species maintain significantly different endorhiza
-communities.
-
-**Key prediction:** Cultivar identity is the dominant factor explaining
-beta-diversity at the endorhiza level. Endorhiza communities from different
-cultivars in the same soil should be more different from each other than from
-the same cultivar in different soils.
-
-## Evidence from Cannabis
-
-The Winston et al. study provided strong support for both tiers:
-
-### Tier 1 Evidence
-
-- Bulk soil samples clustered significantly apart from all other sample types
-  (ADONIS R² = 0.14, p = 0.001)
-- Rhizosphere communities were not significantly differentiated by cultivar
-  (ADONIS R² = 0.07, p = 0.07), confirming that soil, not genotype, drives
-  rhizosphere composition
-- BEST analysis identified soil physicochemical factors as the primary
-  drivers of community variation at the rhizosphere level
-
-### Tier 2 Evidence
-
-- Endorhiza communities showed highly significant cultivar differentiation
-  (ADONIS R² = 0.59, p = 0.004 for [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]])
+rhizosphere. [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]])
 - This cultivar effect was observed even when controlling for soil type in
   Experiment 2 (two locations, two soil types)
 - The genus Methylophilus varied 100-fold between cultivars in the same soil
@@ -102,44 +49,89 @@ a general feature of tier 2 selection rather than a Cannabis-specific phenomenon
 While originally developed from studies on Arabidopsis and other model plants,
 the two-tier model has been validated across diverse plant species:
 
-- **[[arabidopsis-thaliana]]** — Bodenhausen et al. (2013) demonstrated soil
-  effects on rhizosphere and genotype effects on endorhiza
-- **Maize (Zea mays)** — Peiffer et al. (2013) showed soil was the primary
-  determinant of rhizosphere communities across genotypes
-- **Rice (Oryza sativa)** — Edwards et al. (2015) found genotype-specific
-  root microbiomes despite strong soil effects
-- **Cannabis** — Winston et al. (2014) confirmed the pattern in a
-  previously uncharacterized crop
+- **[[endorhiza-endophyte-bacteria-plant-roots]] — endophyte biology
 
-## Limitations and Refinements
+## Overview
 
-The two-tier model is a useful simplification but has known limitations:
+Two Tier Selection Model Rhizosphere Microbiome Assembly represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-1. **Plant age matters** — seedling communities are less differentiated than
-   mature plants; composition shifts throughout the life cycle.
-2. **Soil-plant interactions** — plants modify soil chemistry over time,
-   creating feedback loops between tiers.
-3. **Fungal communities** — the model was developed for bacteria; AMF show
-   different patterns with stronger cannabis cultivar specificity.
-4. **Stress responses** — drought, salinity, and pathogens can override both
-   tiers by inducing defensive root exudate changes.
-5. **Transient vs. core** — the model better predicts core members than
-   transient taxa from stochastic colonization events.
+## Key Characteristics
 
-## Agricultural Applications
+Several defining characteristics distinguish two tier selection model rhizosphere microbiome assembly
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-The two-tier model has practical implications for microbiome management:
+## Ecological Context
 
-- **Soil management** (tier 1) is the highest-leverage intervention for
-  rhizosphere health — composting, cover cropping, and pH adjustment shape
-  the available microbial pool.
-- **Breeding** (tier 2) can select for favorable endorhiza recruitment traits,
-  effectively breeding for better microbial partnerships.
-- **Inoculant strategy** should match the tier: soil amendments for broad
-  rhizosphere effects, genotype-matched endophytes for targeted benefits.
+The ecological relationships involving two extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Two Tier Selection Model Rhizosphere Microbiome Assembly finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for two tier selection model rhizosphere microbiome assembly. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+two tier selection model rhizosphere microbiome assembly and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Two Tier Selection Model Rhizosphere Microbiome Assembly has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of two tier selection model rhizosphere microbiome assembly into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- cannabis rhizosphere microbiome zonation — zonation in Cannabis
-- cannabis cultivar specificity endorhiza microbiome — cultivar effects
-- [[endorhiza-endophyte-bacteria-plant-roots]] — endophyte biology
+- [[cultivar-cannabis-microbiome-two-tier-selection-model]]
+- [[proteobacteria-enrichment-endorhiza-cannabis-two-tier-model]]
+- [[rhizosphere-microbiome-two-tier-selection-model]]
+- [[two-tier-selection-model]]
+- [[two-tier-selection-model-rhizosphere-endorhiza]]

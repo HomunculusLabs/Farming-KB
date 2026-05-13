@@ -44,39 +44,9 @@ Leaves are flat, linear, and 30–90 cm long, similar in morphology to leek foli
 
 ## Distribution and Habitat
 
-Wild populations are distributed across the Mediterranean region from Portugal to Turkey, extending south to Morocco and east through Iran to Turkmenistan. The species has naturalized in parts of the British Isles, Australia, and [[psilocybin-north-america-pacific-northwest]].
+Wild populations are distributed across the Mediterranean region from Portugal to Turkey, extending south to Morocco and east through Iran to Turkmenistan. The species has naturalized in parts of the British Isles, Australia, and [[bloomfield-fungal-pathogens-and-parasites]] including *Botrytis* spp. and *Fusarium* spp.
 
-Habitats include rocky hillsides, coastal cliffs, dry grasslands, and disturbed sites. Wild plants favor well-drained calcareous soils with full sun exposure.
-
-The species demonstrates broad climatic adaptability, growing successfully in USDA hardiness zones 5–10. It tolerates both Mediterranean summer drought and temperate winter conditions.
-
-In warmer climates, plants may retain their foliage year-round and develop larger bulbs. Cooler regions produce tighter bulbs with more concentrated flavor, similar to the effect observed in cold-climate garlic varieties.
-
-## Cultivation
-
-Elephant garlic is typically planted in autumn for harvest the following summer, similar to hardneck garlic. Individual cloves are set 15–20 cm apart at a depth of 5–8 cm.
-
-Soil requirements include good drainage and moderate fertility. Excessive nitrogen promotes lush foliage at the expense of bulb development.
-
-Mature bulbs are ready for harvest when lower leaves begin to yellow and dry, typically 240–270 days after planting. Yields range from 3–8 kg per m² depending on spacing and growing conditions.
-
-The species is generally pest-resistant compared to *A. sativum*, with fewer problems from onion thrips and bulb mites. However, it is susceptible to similar [[bloomfield-fungal-pathogens-and-parasites]] including *Botrytis* spp. and *Fusarium* spp.
-
-Kurrat, the Egyptian leaf-leek variety, is grown primarily for its leaves rather than bulbs. It is harvested as a cut-and-come-again crop throughout the [[savory-growing-season-and-non-growing-season-management]].
-
-## Culinary Use
-
-Elephant garlic offers a milder, sweeter flavor than true garlic, with less pungency and no lingering aftertaste. This makes it suitable for raw applications where standard garlic would be overpowering.
-
-Whole cloves can be roasted, grilled, or braised as a vegetable side dish. The large cloves caramelize evenly and develop a nutty, buttery character when slow-roasted.
-
-In processed form, elephant garlic produces a lighter-colored purée with a subtle allium sweetness. It is used in aioli, compound butters, and savory spreads.
-
-Kurrat leaves are used in Egyptian cuisine as a flavoring herb similar to Welsh onion greens. They are added to stews, omelets, and rice dishes.
-
-## Nutritional Value
-
-The bulbs contain [[allicin]] precursors (alliin and various S-alk(en)yl-L-cysteine sulfoxides), though at lower concentrations than *A. sativum*. Total thiosulfinates are approximately one-third those of standard garlic.
+Kurrat, the Egyptian leaf-leek variety, is grown primarily for its leaves rather than bulbs. It is harvested as a cut-and-come-again crop throughout the [[allicin]] precursors (alliin and various S-alk(en)yl-L-cysteine sulfoxides), though at lower concentrations than *A. sativum*. Total thiosulfinates are approximately one-third those of standard garlic.
 
 Key nutrients per 100 g fresh weight include vitamin C (15–20 mg), vitamin B6, manganese, and dietary fiber. Caloric content is moderate at approximately 90–100 kcal.
 
@@ -87,3 +57,88 @@ The milder alliinase activity in elephant garlic results in less harsh organosul
 *Allium ampeloprasum* has been used as food and medicine since antiquity. Egyptian tomb paintings from the second millennium BCE depict leek-like plants that likely represent early cultivated forms.
 
 Theophrastus (c. 371–287 BCE) described multiple forms of "leek" in his *Enquiry into Plants*, distinguishing between wild and cultivated varieties. Roman agricultural writers including Columella and Pliny the Elder documented [[cannabis-sativa-indoor-cultivation-techniques]] for what may be elephant garlic.
+
+## Overview
+
+Allium Ampeloprasum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish allium ampeloprasum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving allium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Allium Ampeloprasum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for allium ampeloprasum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+allium ampeloprasum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Allium Ampeloprasum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of allium ampeloprasum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[allium-porrum]]
+- [[allium-sativum-entity]]
+- [[allium-schoenoprasum]]
+- [[allium-tricoccum]]
+- [[allium-tuberosum]]

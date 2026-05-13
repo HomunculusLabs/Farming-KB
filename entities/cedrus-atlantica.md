@@ -26,50 +26,11 @@ Atlas cedar is ecologically significant as a dominant component of montane conif
 
 The species has been harvested for timber and other products for millennia. Ancient Egyptian and Roman civilizations used Atlas cedar wood for construction, shipbuilding, and religious purposes. The wood's natural durability and aromatic properties made it highly valued.
 
-The species is closely related to [[cedrus-libani]] (Lebanon cedar) and is sometimes treated as a subspecies or variety of it. However, most modern authorities recognize it as a distinct species based on morphological, ecological, and genetic differences.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- **Kingdom:** Plantae
-- **Order:** Pinales
-- **Family:** Pinaceae
-- **Subfamily:** Abietoideae
-- **Genus:** Cedrus Trew
-- **Species:** C. atlantica (Endl.) Manetti ex Carrière
-
-**Synonyms:** *Abies atlantica* Endl., *Cedrus libani* var. *atlantica* (Endl.) Hook.f., *Cedrus libani* subsp. *atlantica* (Endl.) Battand.
-
-Trees are large and long-lived, reaching 30–40 m tall with a trunk diameter of 1.5–2.0 m. The crown is broadly conical when young, becoming irregularly flat-topped and spreading with age. Branches are stout, ascending, and arranged in horizontal tiers.
-
-Bark is dark gray-brown, deeply fissured into rectangular plates on mature trees. Young branches are smooth and grayish-brown. Buds are ovoid, resinous, and approximately 5 mm long.
-
-Needles are arranged in dense whorls on short spur shoots, with individual needles 10–30 mm long and 1.5–2 mm wide. Needle color varies from green to silvery-blue, with the glaucous blue forms being the most widely cultivated.
-
-The species is monoecious, with separate male and female cones on the same tree. Male cones are erect, 2–3 cm long, and release pollen in autumn (September–October). Female cones are barrel-shaped, 5–8 cm long and 3–5 cm wide, maturing in two years.
-
-Mature cones are erect on the branch, breaking apart to release winged seeds. Seeds are approximately 10–15 mm long with a resinous wing. Seed production begins at 20–40 years of age, with heavy crops occurring every 2–5 years.
-
-Seed dispersal is primarily by wind, with the winged seeds traveling distances of 50–100 m under favorable conditions. Animal dispersal may also occur, with rodents and birds caching or transporting seeds. Germination occurs on exposed mineral soil, often after fire or disturbance.
-
-## Distribution and Habitat
-
-**Cedrus atlantica** is endemic to the Atlas Mountains of northwestern Africa, occurring in Morocco and Algeria. In Morocco, populations are concentrated in the Middle Atlas, High Atlas, and Rif Mountains.
-
-The species occupies montane and subalpine coniferous forests at elevations of 1,300–2,600 m. It forms pure stands or mixed forests with other conifers including various pine and juniper species such as [[pinus-sylvestris]] and [[juniperus-communis]].
-
-Atlas cedar forests thrive in a Mediterranean [[mollison-valley-and-mountain-climate-effects]] characterized by cool, moist winters and warm, dry summers. Annual precipitation ranges from 600 to 1,800 mm, with significant winter snowfall at higher elevations.
+The species is closely related to [[pinus-sylvestris]] and [[mollison-valley-and-mountain-climate-effects]] characterized by cool, moist winters and warm, dry summers. Annual precipitation ranges from 600 to 1,800 mm, with significant winter snowfall at higher elevations.
 
 Soils are typically acidic to neutral, well-drained, and developed on limestone or siliceous substrates. The species shows moderate tolerance of calcareous soils but performs best on deep, moist, well-drained loams.
 
-The native range of Atlas cedar has contracted significantly over the past century due to overexploitation, fire, and [[dighton-fungi-climate-change-feedback]]. Remaining populations are fragmented and face ongoing threats from drought stress and insect outbreaks.
-
-## Ecology
-
-Atlas cedar forests are ecologically important ecosystems in the Mediterranean mountains. They provide critical habitat for the endangered Barbary macaque (*Macaca sylvanus*), one of the few primate species native to Europe or Africa north of the Sahara.
-
-The dense canopy and thick litter layer support diverse understory communities including endemic [[query-best-mediterranean-herbs-for-beginner-herb-garden]] and shrubs. Bird species associated with Atlas cedar forests include the Atlas flycatcher, Levaillant's woodpecker, and various raptors.
+The native range of Atlas cedar has contracted significantly over the past century due to overexploitation, fire, and [[query-best-mediterranean-herbs-for-beginner-herb-garden]] and shrubs. Bird species associated with Atlas cedar forests include the Atlas flycatcher, Levaillant's woodpecker, and various raptors.
 
 The extensive root systems and dense canopy cover make Atlas cedar forests critical for watershed protection in the Atlas Mountains. They regulate streamflow, reduce erosion, and maintain water quality for downstream communities.
 
@@ -88,3 +49,85 @@ Atlas cedar has been widely planted as an ornamental tree in temperate regions w
 The species performs best in full sun with well-drained soil. It tolerates a wide range of soil types including clay, loam, and sandy substrates, provided drainage is adequate. It is moderately drought-tolerant once established.
 
 Cold hardiness varies with provenance, but most selections are hardy to USDA Zone 6 (−23 °C). Young trees are more cold-tender than mature specimens. The species performs well in coastal conditions and tolerates urban pollution.
+
+## Overview
+
+Cedrus Atlantica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cedrus atlantica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cedrus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cedrus Atlantica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cedrus atlantica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cedrus atlantica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cedrus Atlantica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cedrus atlantica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cedrus-deodara]]
+- [[cedrus-libani]]

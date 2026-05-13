@@ -12,19 +12,12 @@ sources: []
 dung-inhabiting mushroom found worldwide in temperate and subtropical regions. It is one
 of several species in the genus panaeolus known to contain psychoactive tryptamine
 compounds, though its potency is generally considered low to moderate compared to more
-prominent species like [[panaeolus-cyanescens-entity]] (1.5% to 3.5%
-total tryptamines) or [[panaeolus-fimicola]] is very similar but typically has a more reddish-brown cap
+prominent species like [[panaeolus-fimicola]] is very similar but typically has a more reddish-brown cap
   coloration
-- [[panaeolus-sphinctrinus]] has a more pointed umbo and different spore morphology
 - [[panaeolus-cyanescens-entity]], which has documented use in traditional Hawaiian and
 Pacific Islander cultures, P. olivaceus is primarily of interest to mycologists and
-amateur mushroom enthusiasts. Its presence as a [[kwashi-and-galanga-minor-psychoactive-plants]] species is noted in
-field guides and mycological literature but it has not been the subject of extensive
-chemical or pharmacological investigation.
-## See Also
-- [[panaeolus-tropicalis]] — a closely related tropical species with higher psilocybin
+amateur mushroom enthusiasts. Its presence as a [[panaeolus-tropicalis]] — a closely related tropical species with higher psilocybin
   content
-- [[psilocybin]] — the primary psychoactive compound found in this species
 - [[coprophilous-fungi]] — the ecological category of dung-inhabiting fungi
 ## Practical Applications
 

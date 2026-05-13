@@ -10,9 +10,7 @@ sources:
 ---
 # Critique of the Inductive and Deductive Methods
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 1 of "The Theory
-of [[comparison-natural-farming-vs-permaculture]]."
-## The Failure of Fragmented Research
-[[fukuoka-critique-scientific-agriculture-civilization]] believes that by applying specialized research to parts of
+of [[fukuoka-critique-scientific-agriculture-civilization]] believes that by applying specialized research to parts of
 the whole, partial improvements can be made which will translate into overall
 improvement of the whole. But nature should not forever be picked apart.
 Fragmented research only produces results of limited utility.
@@ -39,14 +37,7 @@ reasoning based on intuition. Natural farming begins by formulating conclusions,
 then seeks concrete means of attaining these. This contrasts sharply with the
 inductive approach, whereby one studies the situation as it stands and from this
 derives a theory.
-Natural farming uses [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] to draw up an ideal vision of rice
-cultivation, infers the environmental conditions under which a situation
-approximating the ideal can arise, and works out a means of achieving this ideal.
-## The Complementary Nature of Induction and Deduction
-Deductive experimentation has never had much appeal to scientists because they
-are unable to get a good handle on what appears to many a whimsical process. The
-reality is that both methods thread their way through the entire history of
-agricultural development. Of the two, [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]] has always been the
+Natural farming uses [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]] has always been the
 driving force behind rapid leaps in development.
 Clearly, the inductive method is useful only in a negative sense, as a means for
 preventing a decline in crop yields. Only deductive reasoning can bring forth
@@ -75,16 +66,7 @@ the UK), was designed to produce incremental improvements through controlled
 experimentation. This model has yielded genuine achievements: higher-yielding crop
 varieties, improved understanding of plant nutrition, and effective disease
 management strategies. However, Fukuoka argues that these achievements have come
-at the cost of an overall understanding of how [[fungi-grassland-agricultural-ecosystems-dighton]] function
-as wholes. The experiment station approach treats agriculture as an engineering
-problem — optimize inputs to maximize outputs — rather than as a biological
-relationship between humans, plants, animals, soil, and climate that must be
-understood and respected on its own terms.
-## Comparison with Indigenous Agricultural Knowledge
-Fukuoka's deductive approach to natural farming shares significant common ground
-with indigenous agricultural knowledge systems worldwide. Indigenous farmers in
-many cultures begin from a holistic understanding of their landscape and design
-their practices to maintain [[fukuoka-ecological-balance-principles]], rather than accumulating isolated
+at the cost of an overall understanding of how [[fukuoka-ecological-balance-principles]], rather than accumulating isolated
 facts and hoping they add up to a functional system. The milpa system of
 Mesoamerica, the rice-fish-duck-integration of Southeast Asia, and the
 Amazonian dark earth practices all reflect deductive reasoning:
@@ -111,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[permaculture]]

@@ -32,9 +32,7 @@ Despite its ancient origins, wattle and daub remains relevant today for natural 
 
 The earliest archaeological evidence of wattle and daub construction dates to the Neolithic period (circa 5000 BCE) in Mesopotamia and the British Isles. The technique spread independently across cultures:
 
-- **Europe**: Became the dominant infill method for timber-framed buildings from the medieval period through the 18th century. English half-timbered houses, German Fachwerk, and French colombage all employed wattle and daub panels between [[singh-wood-rot-fungi-structural-timber-decay]] posts.
-- **Africa**: Widely used across West Africa (especially Nigeria, Ghana, and Cameroon), where the technique persists in rural areas. African builders often use bamboo or raffia palm for wattles and lateritic soils rich in iron oxides for the daub.
-- **Americas**: pre-columbian-mushroom-use builders in the American Southwest (Pueblo peoples) and Mesoamerica used variations. European colonists brought the technique to [[psilocybin-north-america-pacific-northwest]], where it was common in the Appalachian region and the Midwest through the 19th century.
+- **Europe**: Became the dominant infill method for timber-framed buildings from the medieval period through the 18th century. English half-timbered houses, German Fachwerk, and French colombage all employed wattle and daub panels between [[psilocybin-north-america-pacific-northwest]], where it was common in the Appalachian region and the Midwest through the 19th century.
 - **Asia**: Found in traditional Korean hanok construction, Chinese rural dwellings, and Indian vernacular architecture. In Japan, a variant called *nuriya* used bamboo wattles with earthen plaster.
 - **Oceania**: Māori wharenui (meeting houses) in New Zealand traditionally used raupō (bulrush) and clay daub on a wooden frame.
 
@@ -63,83 +61,10 @@ The wattle is the structural lattice that holds the daub in place. It must be fl
 
 **Wattle construction process:**
 
-1. **Stakes (uprights)**: Cut 60–90 cm long, sharpened, and driven into the ground or set into a [[timber-frame-basics]] at 30–45 cm intervals. Stakes should be 2–4 cm in diameter.
-2. **Withies (weavers)**: Long, flexible rods 1–2 cm in diameter, woven horizontally in and out of the stakes. Start from the bottom and work up.
-3. **Weaving pattern**: Alternate each row — if the first row goes behind the first stake, the second row goes in front. This creates a tight, interlocking panel.
-4. **Tension**: Pack the weaving tightly. As the withies dry, they shrink slightly and tighten the lattice further.
-5. **Crotch sticks** (optional): Y-shaped branches used to brace and support the wattling during construction.
-
-### Daub (The Infill)
-
-The daub is the earthen mixture packed into and over the wattle. A good daub has three components: a **binder** (clay), an **aggregate** (sand or crushed stone), and a **fiber** (straw, hair, or dung).
-
-**Classic daub recipe:**
-
-- **Clay subsoil**: 40–60% — Provides cohesion and binding. Test by rolling a walnut-sized ball; if it holds together when dropped from waist height, the clay content is sufficient.
-- **Sand**: 20–30% — Prevents cracking as the daub dries. Sharp (angular) sand is better than rounded beach sand.
-- **Chopped straw**: 5–15% — Adds tensile strength, reduces cracking, and bridges shrinkage gaps. Cut to 5–10 cm lengths.
-- **Animal dung** (cow or horse): 5–10% — Optional but traditional. Dung adds fiber, enzymes, and improves workability. Cow dung is preferred for its fine fiber content.
-- **Water**: Enough to achieve a workable, dough-like consistency — not too wet (sagging) or too dry (crumbly).
-
-**Additives and variations:**
-
-- **Hair** (cow, horse, or goat): Traditional tensile reinforcement. Especially effective in lime-based finishes.
-- **Crushed brick or tile (pozzolanic)**: Adds hydraulic properties; improves water resistance. Common in Roman and [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] daub.
+1. **Stakes (uprights)**: Cut 60–90 cm long, sharpened, and driven into the ground or set into a [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] daub.
 - **Lime**: Added to improve weather resistance. A 1:3 lime-to-clay ratio creates a more durable, breathable panel.
 - **Casein (milk protein)**: Acts as a natural waterproofing agent when mixed into the daub or used as a surface treatment.
-- **Cattail fluff or bulrush fiber**: Used by [[indigenous-song-and-pattern-navigation|indigenous-spirituality-and-freedom]] and Pacific Island builders for lightweight insulation.
-
-## Construction Process
-
-### Site Preparation and Foundation
-
-1. **Foundation**: Wattle and daub walls must be protected from rising damp. Traditional approaches include:
-   - Stone or brick plinth walls (15–30 cm above grade)
-   - Raised timber sills on stone footings
-   - A waterproof membrane (modern approach) between the wall base and ground
-2. **Timber frame**: Wattle and daub is an **infill** material, not a structural one. It needs a timber frame (post-and-beam, stud wall, or timber frame) to carry structural loads. The wattle-and-daub panels provide enclosure, insulation, and thermal mass.
-3. **Moisture management**: Ensure the foundation has good drainage. A gravel trench or French drain around the perimeter prevents water from wicking up into the wall.
-
-### Panel Construction
-
-1. **Frame the panel**: Set vertical timber studs or posts at 40–60 cm centers. Install a top and bottom rail (sill and plate).
-2. **Install wattling**:
-   - Drive stakes into the ground (or set into the sill) at 15–20 cm intervals
-   - Weave withies horizontally, alternating front and back of each stake
-   - Aim for a finished wattle thickness of 3–5 cm
-   - Leave a slight gap between the wattle and the timber frame (1 cm) to allow for daub shrinkage
-3. **Apply the daub**:
-   - Mix daub 24–48 hours before use to allow full hydration of the clay
-   - Apply in layers (coats), working from the bottom up
-   - **First coat (scratch coat)**: Press firmly into the wattle, filling all gaps. Use your hands or a wooden paddle. Thickness: 4–6 cm on each side of the wattle (total wall thickness: 10–15 cm).
-   - **Score the first coat** with horizontal lines while still wet to provide a key for the second coat.
-   - Allow the first coat to dry for 3–7 days (depending on climate).
-   - **Second coat (brown coat)**: Smoother application, 2–3 cm thick. This is the leveling coat that creates a flat wall surface.
-   - Allow the second coat to dry for another 3–7 days.
-   - **Third coat (finish coat)**: Fine, smooth plaster. May include lime for weather resistance or fine sand for a polished surface. 5–10 mm thick.
-
-### Drying and Curing
-
-- **Shade the walls** during drying if possible. Direct sun causes uneven drying and cracking.
-- **Mist lightly** during the first 2–3 days in hot, dry climates to slow drying and reduce cracking.
-- **Full curing** takes 4–8 weeks depending on wall thickness, climate, and humidity. The wall will continue to harden and gain strength for months.
-- **Ventilation**: Keep the building well-ventilated during drying to allow moisture to escape.
-
-## Structural and Thermal Properties
-
-### Load-Bearing Capacity
-
-Wattle and daub is a **non-structural infill** material. It cannot bear vertical loads and must be supported by a timber frame, masonry piers, or other structural system. However, it does provide:
-
-- **Racking resistance**: The daub panels stiffen the timber frame against lateral (shear) forces.
-- **Compressive strength**: When fully cured, daub can withstand moderate compression (roughly 1–3 MPa), but this should not be relied upon for structural support.
-- **Impact resistance**: Surprisingly resilient. The combination of flexible wattle and ductile daub absorbs impact energy well.
-
-### Thermal Performance
-
-| Property | Typical Value | Notes |
-|----------|--------------|-------|
-| **R-value** (per 25 cm wall) | R-2 to R-4 | Depends on density and moisture content; comparable to [[mollison-designers-earth-building-cob-adobe-rammed-earth]] earth arth of similar thickness |
+- **Cattail fluff or bulrush fiber**: Used by [[mollison-designers-earth-building-cob-adobe-rammed-earth]] earth arth of similar thickness |
 | **Thermal mass** | High | Dense earthen walls absorb heat during the day and release it at night, moderating indoor temperature swings |
 | **Thermal lag** | 6–10 hours | Heat absorbed at noon is released in the evening, making these walls ideal for [[comparison-passive-solar-vs-earth-sheltered]] design design |
 | **Breathability** | Excellent | The porous clay matrix allows water vapor to pass through, preventing condensation and mold |
@@ -147,3 +72,79 @@ Wattle and daub is a **non-structural infill** material. It cannot bear vertical
 ### Acoustic Performance
 
 Wattle and daub walls have excellent sound insulation due to the dense, massive daub layer. The composite structure (flexible wattle + dense daub) is particularly effective at dampening low-frequency sounds, outperforming modern drywall of similar thickness.
+
+## Overview
+
+Wattle And Daub Construction represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wattle and daub construction
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wattle extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wattle And Daub Construction finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wattle and daub construction. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wattle and daub construction and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wattle And Daub Construction has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wattle and daub construction into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

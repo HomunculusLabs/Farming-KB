@@ -6,7 +6,7 @@ type: concept
 
 # Farm Strategies for Yield Increase
 
-[[permaculture]] farm strategies are systematic approaches to increasing yield that go far beyond varietal selection. Applied to existing "fencepost-to-fencepost" agricultural landscapes, these strategies produce dramatic improvements through site design, [[water-management]], soil development, and integration of multiple production systems.
+[[water-management]], soil development, and integration of multiple production systems.
 
 ## Water Storage (12-20% of Landscape)
 
@@ -88,12 +88,7 @@ Low or no-tillage farming provides multiple simultaneous advantages:
 
 - **Energy savings** from reduced tillage operations
 - **Soil conservation** preserving structure and organic matter
-- **[[water-conservation]]** through reduced evaporation from exposed soil
-- **Time savings** between crops, enabling more diverse rotations
-
-## The Practical Case of Norm Sims
-
-Farmer [[norm-sims]] (Weekly Times, 5 Jan 1983) demonstrated the compound effect of multiple strategies applied together:
+- **[[norm-sims]] (Weekly Times, 5 Jan 1983) demonstrated the compound effect of multiple strategies applied together:
 
 - **Land-forming**: "We expect to double production over the next few years, using half the irrigation water" — a four-fold benefit. "Salinity is reduced." In severe drought: "Pasture production has never looked better and water is available." Irrigation time reduced from six days to two.
 - **Grazing rotation**: 26 paddocks grazed in a 21-day rotation, averaging 1.6 hectares each with central trough water-points for cattle.
@@ -103,3 +98,11 @@ His specific strategies included laser levelling of fields for even irrigation, 
 The primary increases in crop yield come not from varietal selections — a fiction promoted by agricultural companies, seed patent holders, and extension officers — but from attention to site design and development, followed by wise enterprise selection to suit the modified site, concurrently with marketing and processing strategy. These permanent or durable strategies are often not in the commercial interest to encourage, as the continuous benefit accrues to the farmer alone while reducing the role of middlemen and traders.
 
 Benefits, like wastes, must be returned or recycled to keep any system functioning. Accumulations of unused benefits are predictive of collapse at production level, and then throughout all tiers of the system.
+
+## See Also
+
+- [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
+- [[farm-yield-strategies]]
+- [[farm-forestry-design-mollison]]
+- [[query-how-to-start-a-syntropic-farm]]
+- [[fukuoka-textdoc-starting-natural-farm-site-design]]

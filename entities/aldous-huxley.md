@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
 
 # Aldous Huxley (1894–1963)
 
-Aldous Leonard Huxley was an English writer, philosopher, and prominent intellectual of the [[coleman-louis-savier-twentieth-century-maraicher]], best knowmescaline dystopian novel *Brave New World* (1932) and his later writings on [[leary-psychedelic-experience-bardo-mapping]] and [[mckenna-consciousness-expansion-and-drug-war]]. His contributions to the ethnobotanical and psychedelic literature are foundational, and his experiments with mescaline directly influenced the course of [[mckenna-suppression-psychedelic-research-lsd-therapy]].
+Aldous Leonard Huxley was an English writer, philosopher, and prominent intellectual of the [[leary-psychedelic-experience-bardo-mapping]] and [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## Early Life and Literary Career
 
@@ -30,13 +30,7 @@ The essay's title was drawn from William Blake's *The Marriage of Heaven and Hel
 
 ## *Heaven and Hell* and the Philosophy of Transcendence
 
-Huxley expanded upon the themes of *The Doors of Perception* in *Heaven and Hell* (1956), arguing that the visionary experiences induced by mescaline, LSD, and other psychoactive substances shared essential features with the [[psilocybin-mystical-experiences-personality-change]] described throughout religious history. He proposed that these experiences revealed a common reality—the "Other World"—that had been accessed through fasting, meditation, sensory deprivation, and psychedelic plants across cultures and centuries.
-
-Huxley drew connections between mescaline visions, the paintings of the Flemish primitives, the architecture of Gothic cathedrals, and the descriptions of heaven found in mystical texts. He suggested that these diverse phenomena all reflected contact with the same transcendental reality, one that was ordinarily inaccessible due to the brain's filtering mechanisms.
-
-## Relationship to Ethnobotany and Psychoactive Plants
-
-Huxley's work is directly relevant to the ethnolophophora-williamsiiychoactive plants. His systematic, articulate descriptions of mescaline's effects provided one of the earliest first-person literary accounts of a psychedelic experience rooted in a plant tradition—the peyote cactus (*[[lophophora-williamsii]]*) used for centuries by Indigenous peoples of Mexico and the American Southwest.
+Huxley expanded upon the themes of *The Doors of Perception* in *Heaven and Hell* (1956), arguing that the visionary experiences induced by mescaline, LSD, and other psychoactive substances shared essential features with the [[lophophora-williamsii]]*) used for centuries by Indigenous peoples of Mexico and the American Southwest.
 
 In *Plants of the Gods*, Schultes and Hofmann reference Huxley's work as a landmark in the modern Western encounter with psychoactive plants. His writings helped bridge the gap between Indigenous plant-based spiritual practices and the emerging field of psychedelic research, demonstrating that these substances were worthy of serious intellectual and scientific attention.
 
@@ -52,8 +46,7 @@ Huxley's influence on psychedelic culture and consciousness studies is immeasura
 
 His writings remain essential references in discussions of mescaline, peyote, and the broader question of how psychoactive plants relate to human consciousness, spirituality, and culture.
 
-Related: [[psychedelic-prohibition-and-the-war-on-consciousness]], [[humphry-osmond]]
-- [[brain-neuroscience-and-psychedelic-mechanism]]
+Related: [[humphry-osmond]]
 - [[ald-52]]
 ## Practical Considerations
 

@@ -15,7 +15,7 @@ JADAM's decision not to patent any of its agricultural knowledge represents a ra
 
 ## The Decision Not to Patent
 
-I have kept it my principle not to patent my knowledge. If I had patented [[ultra-low-jadam-sulfur-js]] or [[jadam-nutrient-management-wetting-agent-and-calcium]] and used the right solely to seek profit, I might have earned large money. I chose not to do so because it is my belief that agricultural knowledge is something of a public asset shared by humanity.
+I have kept it my principle not to patent my knowledge. If I had patented [[jadam-nutrient-management-wetting-agent-and-calcium]] and used the right solely to seek profit, I might have earned large money. I chose not to do so because it is my belief that agricultural knowledge is something of a public asset shared by humanity.
 
 This decision was not made lightly. Youngsang Cho acknowledges that patenting JADAM's technologies could have generated significant personal wealth. Instead, he chose to share everything through books, websites, smartphones, and workshops.
 
@@ -31,19 +31,7 @@ The patent-free principle is rooted in several philosophical traditions that hav
 
 **Marxist critique**: Karl Marx's analysis of how capital exploits labor, including agricultural labor, resonated deeply. Cho sees agricultural knowledge monopolies as a form of exploitation.
 
-**Liberation theology**: The works of Gustavo Gutierrez and Leonardo Boff provided a clear vision. Boff's ecological theology was a turning point in Cho's life, leading to the decision to abandon university and start [[coleman-deep-organic-farming-philosophy]].
-
-**Laozi's wisdom**: Laozi taught the softness of water -- that water does not conflict yet conquers. This inspired the principle that JADAM's system should be SESE (simple, easy, scientific, effective) and spread like water, seeping into farming practices.
-
-## The Cost of Sharing
-
-This path of sharing was choosing to depart from wealth. Cho and his family lived through times of extreme hardship. However, the belief that agricultural knowledge should be freely available was non-negotiable. The mission has always been to save agriculture from the exploitation of capital and bring farming back to farmers.
-
-## Impact of Open Knowledge
-
-The patent-free approach has had tangible effects:
-
-- **JADAM [[jadam-natural-pesticide-institute-and-research]] Institute**: All products and methods developed are shared publicly through the website en.jadam.kr, running since 2003
+**Liberation theology**: The works of Gustavo Gutierrez and Leonardo Boff provided a clear vision. Boff's ecological theology was a turning point in Cho's life, leading to the decision to abandon university and start [[jadam-natural-pesticide-institute-and-research]] Institute**: All products and methods developed are shared publicly through the website en.jadam.kr, running since 2003
 - **60,000 members**: The network of farmers who have learned and adapted JADAM methods
 - **Global reach**: JADAM has been invited from many countries and its materials translated into multiple languages
 - **Farmer-driven innovation**: Member farmers with extensive experience help develop and refine the system
@@ -65,14 +53,10 @@ By keeping knowledge free and simple, JADAM undermines this model. When knowledg
 
 JADAM's knowledge is not static. The system is constantly evolving through the contributions of thousands of farmer-researchers who experiment, search, develop, and report back. Farmers are the experts in farming; not PhDs or professors. This collaborative, open-source model of agricultural innovation represents a fundamentally different approach to knowledge creation and dissemination.
 
-This stands in sharp contrast to the proprietary research models of agribusiness, where knowledge is locked behind patents, trade secrets, and licensing agreements. The [[query-how-do-i-make-jadam-natural-pesticide-jnp]] and [[jadam-animal-byproduct-liquid-fertilizer]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
+This stands in sharp contrast to the proprietary research models of agribusiness, where knowledge is locked behind patents, trade secrets, and licensing agreements. The [[jadam-animal-byproduct-liquid-fertilizer]]
 - [[jadam-human-manure-liquid-fertilizer]]
-- [[jadam-farm-economics-market-viability]]
 - [[jadam-natural-pest-control-methods]]
-- [[jadam-sese-philosophy]]
 - [[knf-vs-jadam-vs-em]]
-- [[jadam-pesticide-for-powdery-mildew]]
 - [[jadam-pesticide-for-sucking-insects]]
 ## Practical Considerations
 
@@ -122,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jadam-methods]]
 - [[dom]]
-- [[youngsang-cho]]
 - [[jadam-compost-free-approach]]
 - [[jadam-philosophy-and-youngsang-chos-farming-revolution]]

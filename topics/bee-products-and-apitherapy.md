@@ -15,9 +15,7 @@ sources:
 
 ## Introduction
 
-Apitherapy is the medicinal use of honey bee (*Apis mellifera*) products — honey, propolis, royal jelly, bee pollen, beeswax, bee venom, and bee bread. The practice spans millennia, with documented use in ancient Egypt (papyrus Ebers, ~1550 BCE), Greek medicine (Hippocrates prescribed honey for wound care), traditional Chinese medicine, and Ayurveda. Modern research has begun to validate many traditional claims, identifying specific [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for therapeutic effects.
-
-The global apitherapy market has grown significantly as consumers seek natural alternatives, though quality standardization remains a challenge. This page covers each major [[bee-product-medicinal-uses]]'s composition, evidence-based therapeutic applications, safety considerations, and sourcing guidance.
+Apitherapy is the medicinal use of honey bee (*Apis mellifera*) products — honey, propolis, royal jelly, bee pollen, beeswax, bee venom, and bee bread. The practice spans millennia, with documented use in ancient Egypt (papyrus Ebers, ~1550 BCE), Greek medicine (Hippocrates prescribed honey for wound care), traditional Chinese medicine, and Ayurveda. Modern research has begun to validate many traditional claims, identifying specific [[bee-product-medicinal-uses]]'s composition, evidence-based therapeutic applications, safety considerations, and sourcing guidance.
 
 ## Honey
 
@@ -34,15 +32,12 @@ Honey is a supersaturated solution produced by honey bees from flower nectar (or
 | Minerals | 0.1–1.2% | Potassium, calcium, magnesium, iron, zinc |
 | Vitamins | Trace | B-complex (B6, thiamin, niacin, riboflavin), vitamin C |
 | Enzymes | Various | Diastase, invertase, glucose oxidase, catalase |
-| Polyphenols | 50–500 mg/kg | Flavonoids ([[quercetin]], [[luteolin]]) and phenolic acids |
+| Polyphenols | 50–500 mg/kg | Flavonoids ([[luteolin]]) and phenolic acids |
 | Amino acids | 0.1–0.5% | Proline is dominant; used as a freshness marker |
 
 ### Types of Honey
 
-- **Raw honey**: Unfiltered, unpasteurized; retains pollen, enzymes, and [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Preferred for therapeutic use.
-- **Manuka ho leptospermum scoparium coparium*): Unique non-peroxide antibacterial activity from methylglyoxal (MGO). Graded by UMF (Unique Manuka Factor) or MGO rating. Supported by clinical trials for wound healing (Medihoney® dressings approved by FDA).
-- **Buckwheat honey**: Dark amber, high in antioxidants (ORAC values 2–3× lighter honeys). Evidence for cough suppression in children.
-- **[[acacia]] honey**: Light, mild, high fructose; slow to crystallize. Soothing for gastrointestinal discomfort.
+- **Raw honey**: Unfiltered, unpasteurized; retains pollen, enzymes, and [[acacia]] honey**: Light, mild, high fructose; slow to crystallize. Soothing for gastrointestinal discomfort.
 - **Thyme honey** (*Thymus* spp.): High thymol content; strong antimicrobial activity studied in respiratory infections.
 - **Wildflower honey**: Mixed nectar source; polyphenol profile varies by season and region.
 - **Tualang honey** (*Koompassia excelsa*): Malaysian forest honey; studied for anti-diabetic and anti-cancer properties.
@@ -50,13 +45,7 @@ Honey is a supersaturated solution produced by honey bees from flower nectar (or
 
 ### Therapeutic Applications
 
-**Wound healing**: Honey's therapeutic action in wounds is multifactorial — hyperosmolarity draws fluid from tissues, [[hydrogen-peroxide-tissue-culture-wild-polypores]] (produced via glucose oxidase in the presence of water) provides antibacterial activity, low pH (3.2–4.5) inhibits pathogens, and its viscous barrier protects from contamination. Manuka honey's non-peroxide activity (from MGO) provides sustained antibacterial action even in the presence of catalase. Meta-analyses support its use for burns, diabetic foot ulcers, and surgical wounds, with outcomes comparable or superior to conventional dressings.
-
-**Cough suppression**: A well-known pediatric study (Paul et al., 2007, *Archives of Pediatric and Adolescent Medicine*) found buckwheat honey dextromethorphan romethorphan for nighttime cough in children aged 2–18. The WHO and American Academy of Pediatrics recommend honey as a first-line cough remedy for children over 1 year.
-
-**Gastrointestinal health**: Honey has prebiotic effects, promoting growth of *Bifidobact lactobacillus actobacillus* species. Evidence supports use for *Helicobacter pylori* infection (as adjunct therapy), gastric ulcer healing, and relief of gastroesophageal reflux symptoms. Manuka honey at UMF 15+ has shown the strongest anti-*H. pylori* activity.
-
-**Antimicrobial activity**: Beyond wound care, honey has demonstrated in-vitro activity against *Staphylococcus aureus* (including some MRSA [[pseudomonas]]*Pseudomonas aeruginosa*, *Escherichia coli*, *[[candida-albicans]]*, and biofilm-forming bacteria. The dual [[cervantes-hydrogen-peroxide-sterilization]] + non-peroxide systems (in manuka) make resistance development unlikely.
+**Wound healing**: Honey's therapeutic action in wounds is multifactorial — hyperosmolarity draws fluid from tissues, [[pseudomonas]]*Pseudomonas aeruginosa*, *Escherichia coli*, *[[cervantes-hydrogen-peroxide-sterilization]] + non-peroxide systems (in manuka) make resistance development unlikely.
 
 **Antioxidant and anti-inflammatory**: Honey polyphenols (especially in darker varieties) reduce oxidative stress markers and inflammatory cytokines (TNF-α, IL-6) in clinical and animal studies.
 
@@ -71,22 +60,7 @@ Honey is a supersaturated solution produced by honey bees from flower nectar (or
 
 ### What Is Propolis?
 
-Propolis (from Greek *pro* = "before" + *polis* = "city") is a resinous substance collected by honey bees from tree buds, sap flows, and other [[dmt-botanical-sources-pharmacology]]. Bees use it to seal gaps in the hive, reinforce structural integrity, and mummify dead intruders — essentially the hive's immune defense system.
-
-### Chemical Composition
-
-Propolis is chemically complex, with over 300 compounds identified across different geographic "types":
-
-| Compound Class | Key Examples | Activity |
-|---|---|---|
-| Flavonoids | Pinocembrin, galangin, chrysin, quercetin | Antibacterial, anti-inflammatory, antioxidant |
-| Phenolic acids | Caffeic acid, ferulic acid, p-coumaric acid | Antimicrobial, antioxidant |
-| CAPE | Caffeic acid phenethyl ester | Anti-tumor, anti-inflammatory, immunomodulatory |
-| Terpenes | β-amyrin, lupeol | Antifungal, cytotoxic |
-| Aromatic acids | Benzoic acid, cinnamic acid | Preservative, antimicrobial |
-| Beeswax | Esters, hydrocarbons | Structural matrix |
-
-The "type" of propolis depends on the local flora: **poplar type** (Europe, [[psilocybin-north-america-pacific-northwest]]), **green Brazilian type** (*Baccharis dracunculifolia*), **red Brazilian type** (*Dalbergia ecastaphyllum*), and **Pacific type** (New Zealand, Australia, Taiwan) each have distinct chemoprofiles.
+Propolis (from Greek *pro* = "before" + *polis* = "city") is a resinous substance collected by honey bees from tree buds, sap flows, and other [[psilocybin-north-america-pacific-northwest]]), **green Brazilian type** (*Baccharis dracunculifolia*), **red Brazilian type** (*Dalbergia ecastaphyllum*), and **Pacific type** (New Zealand, Australia, Taiwan) each have distinct chemoprofiles.
 
 ### Pharmacological Activities
 

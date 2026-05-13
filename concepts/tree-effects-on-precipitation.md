@@ -10,28 +10,7 @@ Trees are among the most powerful agents influencing regional and local
 precipitation patterns. Far from being passive recipients of rainfall,
 forests actively generate, multiply, and distribute water through the
 atmosphere. Understanding these mechanisms is essential for any
-[[permaculture-design]] that aims to secure reliable water supplies and
-maintain productive landscapes.
-
-## The Six Mechanisms of Tree-Driven Precipitation
-
-### 1. Condensation from Fogs and Dew
-
-The majority of water that passes through a forest — approximately
-80–85% — arrives not as rainfall but as **condensation** from clear
-night air, fogs, and humidity drawn from the atmosphere. Cool leaf
-surfaces act as massive condensers, extracting moisture from air masses
-that pass over or through the forest canopy. Only 15–20% of the water
-in a forest system arrives as direct rainfall. This condensation process
-is particularly important in coastal and montane environments where fogs
-are frequent, but it operates everywhere that temperature differentials
-exist between warm moist air and cool leaf surfaces.
-
-Of the condensed water, approximately 15% re-evaporates during the
-daytime, 50% is transpired by the trees, and the remainder enters the
-groundwater system. This means that trees contribute more water to
-streams and aquifers than rainfall alone provides — a critical insight
-for [[watershed-management]].
+[[watershed-management]].
 
 ### 2. Transpiration-Driven Rainfall Multiplication
 
@@ -134,6 +113,5 @@ ephemeral, and groundwater recharge diminishes.
 
 ## See Also
 
-- [[tree-biomass-and-wind-effects]]
 - [[tree-temperature-effects]]
 - [[tree-temperature-effects-and-microclimate-modification]]

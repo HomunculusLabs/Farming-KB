@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungi have been one of the most important sources of antibiotics in human medicine. The discovery of penicillin from the mold Penicillium notatum in 1928 launched the antibiotic era and fundamentally transformed medicine. Fungi continue to be a rich source of [[antimicrobial-compounds-mushroom-mycelium]], and ongoing research seeks to identify new fungal-derived antibiotics to combat the growing crisis of antimicrobial resistance.
+Fungi have been one of the most important sources of antibiotics in human medicine. The discovery of penicillin from the mold Penicillium notatum in 1928 launched the antibiotic era and fundamentally transformed medicine. Fungi continue to be a rich source of antimicrobial compounds, and ongoing research seeks to identify new fungal-derived antibiotics to combat the growing crisis of antimicrobial resistance.
 
 ## Penicillin: History and Impact
 
@@ -24,7 +24,7 @@ In September 1928, Alexander Fleming, a bacteriologist at St. Mary's Hospital in
 Fleming's discovery remained largely unexploited for a decade until Howard Florey, Ernst Chain, and their team at Oxford University's Sir William Dunn School of Pathology took up the challenge of mass-producing penicillin. Key achievements:
 
 - Chain purified penicillin and demonstrated its chemical structure (a beta-lactam compound)
-- Florey's team conducted the first clinical trials in 1941, showing dramatic efficacy in severe [[blesching-cannabis-bacterial-infections]]
+- Florey's team conducted the first clinical trials in 1941, showing dramatic efficacy in severe bacterial infections
 - Mass production was developed in the United States through fermentation technology, using corn steep liquor and deep-tank fermentation
 
 ### Wartime Production and Global Impact
@@ -68,7 +68,7 @@ Cephalosporins are classified into five generations based on their antimicrobial
 2. **Second generation**: Cefuroxime, Cefoxitin — expanded Gram-negative coverage, some anaerobic activity
 3. **Third generation**: Ceftriaxone, Cefotaxime, Ceftazidime — potent Gram-negative activity, some cross blood-brain barrier
 4. **Fourth generation**: Cefepime — broad spectrum including resistant Gram-negatives and some Gram-positives
-5. **Fifth generation**: Ceftaroline, Ceftobiprole — activity against MRSA (methicillin-resistant Staphylococcus aureus) and resistant Gram-negatives
+5. **Fifth generation**: Ceftaroline, Ceftobiprole — activity against MRSA (methicillin-resistant [[staphylococcus-aureus]]) and resistant Gram-negatives
 
 ## Other Fungal-Derived Antibiotics
 
@@ -116,17 +116,17 @@ Modern techniques allow researchers to identify biosynthetic gene clusters (BGCs
 
 - Co-culturing fungi with bacteria to trigger defensive compound production
 - Epigenetic modulators (histone deacetylase inhibitors, DNA methyltransferase inhibitors) to activate silent genes
-- Heterologous expression of BGCs in model fungal hosts (Aspergillus oryzae, [[saccharomyces-cerevisiae]])
+- Heterologous expression of BGCs in model fungal hosts (Aspergillus oryzae, Saccharomyces cerevisiae)
 
 ### Environmental Sampling
 
 Underexplored environments are being targeted for novel fungal isolates:
 
 - Deep-sea sediments and hydrothermal vents
-- [[endophytic-fungi-living-inside-plants]] inside plant tissues
+- Endophytic fungi living inside plant tissues
 - Fungi associated with insects (especially social insects with sophisticated antimicrobial defenses)
 - Cave and mine environments
-- Polar and [[fungal-biodiversity-in-extreme-environments]]
+- Polar and extreme environments
 
 ### Novel Compound Classes
 

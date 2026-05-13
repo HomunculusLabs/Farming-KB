@@ -17,11 +17,7 @@ understanding how plant-microbiome interactions are assembled and maintained.
 
 ## The Two-Tier Selection Framework
 
-The two-tier [[two-tier-selection-model-plant-microbiome]] predicts that edaphic (soil) factors determine
-the broad composition of available microbial taxa in bulk soil, while host
-genotype (cultivar/strain) fine-tunes the community that actually colonizes
-the endorhiza. This model was tested by analyzing OTU distributions across
-multiple [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] grown in different soil types.
+The two-tier [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] grown in different soil types.
 
 ## Unweighted vs Weighted UniFrac Results
 
@@ -69,9 +65,7 @@ The divergent results between unweighted and weighted analyses reveal that:
 
 The most dramatic strain-specific abundance difference was the enrichment of
 *Pseudomonas* in one cultivar's endorhiza versus its near-absence in another.
-One OTU of *Methylophilus* comprised 13% of the [[edaphic-factors-microbial-community-structure]] in the
-Bookoo Kush endorhiza, only 0.13% in Burmese, and was entirely absent from
-[[cannabis-sour-diesel]]. This extreme enrichment illustrates how strain-level differences
+One OTU of *Methylophilus* comprised 13% of the [[cannabis-sour-diesel]]. This extreme enrichment illustrates how strain-level differences
 can produce large shifts in community proportions even when the underlying
 taxonomic membership is similar.
 
@@ -85,6 +79,6 @@ predominantly Proteobacteria, specifically from the orders:
 - *Rhizobiales*
 
 Bacteroidetes from the orders *Sphingobacteriales* and *Flavobacteriales*
-also contributed to [[bacteroidetes-strain-differentiation-cannabis-endorhiza]]. Notably, *[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]*
+also contributed to [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]*
 was prevalent in the [[maui-wowie]] strain and has been implicated in increased
 survival in soil environments through its ability to metabolize phenazine-1-

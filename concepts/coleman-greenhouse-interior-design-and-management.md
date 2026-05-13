@@ -7,26 +7,12 @@ created: 2026-05-09
 
 # Coleman Greenhouse Interior Design and Management
 
-[[eliot-coleman]]'s winter-harvest system depends not just on the
-greenhouse structure itself but on the careful design and
-management of the [[cotter-growing-space-design-fruiting-rooms]] within it.
+[[cotter-growing-space-design-fruiting-rooms]] within it.
 
 The interior layout of a winter-harvest greenhouse is a
 deceptively important factor in overall productivity. Small
 decisions about bed width, path placement, and equipment
-positioning compound across an entire [[extending-growing-season]].
-
-## Bed Dimensions and Layout
-
-Coleman's standard growing beds are 30 inches (75 cm) wide, allowing a seated worker to reach the center from either side. Beds run in parallel rows along the house length, with paths wide enough for wheelbarrows. The east-west house alignment means beds run perpendicular to the primary light path, ensuring even distribution. Beds are raised 4 to 6 inches above path level for drainage and faster spring warming.
-
-## Washing and Packing Area
-
-One-quarter of Coleman's cool house is devoted to a concrete washing and packing station housing the vegetable washing system, walk-in cooler, and spring seedling space. The concrete floor prevents mud and provides a clean harvest surface. Since the washing system must be protected from freezing, a propane heater set just above 32°F (0°C) was installed — this practical need for a freeze-proof area, not a desire to heat crops, drove creation of the cool house.
-
-## Wire Wicket Support System
-
-The double-layer protection system ([[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] plus
+positioning compound across an entire [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] plus
 inner row cover) requires physical support for the inner
 layer above the crops.
 
@@ -43,14 +29,7 @@ The wire wickets are simple, inexpensive, and reusable year after year, made fro
 
 ## Air Circulation and Ventilation
 
-Even in unheated winter houses, some air circulation is necessary to prevent stagnant conditions favoring [[jadam-pesticide-for-fungal-diseases]]. Coleman's gothic-arch hoop houses have roll-up sidewalls that can be opened on mild winter days. End-wall doors or vents can be cracked to create a chimney effect. Ventilation must be managed conservatively — even brief exposure to cold, dry outdoor air can shock plants acclimated to the humid interior. It is most important on sunny winter days when solar gain raises interior temperatures and creates condensation that drips onto plants.
-
-## Soil as Heat Storage Medium
-
-A foundational principle of Coleman's system is that the
-soil itself serves as the heat storage medium.
-
-Unlike heated greenhouses that use stone ballast, water tanks, or other thermal mass systems, the cold house relies entirely on the thermal mass of the soil in the growing beds. Well-prepared soil with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] freezes later and thaws earlier than mineral soil, extending the effective season. The double-layer protection insulates the soil surface, reducing heat loss and preserving stored warmth.
+Even in unheated winter houses, some air circulation is necessary to prevent stagnant conditions favoring [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] freezes later and thaws earlier than mineral soil, extending the effective season. The double-layer protection insulates the soil surface, reducing heat loss and preserving stored warmth.
 
 ## Space Utilization Strategy
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[composting]]
-- [[coleman-mobile-greenhouse-design-and-operation]]
 - [[coleman-greenhouse-ventilation-design]]
 - [[coleman-rolling-greenhouse-wheel-rail-design]]

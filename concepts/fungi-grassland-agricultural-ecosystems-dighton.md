@@ -11,39 +11,14 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 Updated: 2026-04-18
 
-Source: John Dighton, *Fungi in [[fungal-ecosystem-processes-overview]]*, Chapters 2-3, 5-6.
-
-## Fungal Roles in Grassland Ecosystems
-
-### Saprotrophic Decomposition
-In grassland ecosystems, the primary pathway for nutrient cycling is through fungal and bacterial decomposition of grass litter and root material. Key factors include:
-
-**Litter Quality**: Grass litter typically has moderate lignin content and C:N ratios, making it moderately decomposable. The ratio of fungal to bacterial decomposers in grasslands is intermediate between forest systems (fungi-dominated) and agricultural soils (bacteria-dominated during active cropping).
-
-**Root-Derived Carbon**: A large proportion of grassland carbon flows through root exudates and root turnover, supporting both saprotrophic and mycorrhizal fungal communities. The rhizosphere is a hotspot of fungal activity.
-
-### Arbuscular Mycorrhizae in Grasslands
-Arbuscular mycorrhizal (AM) fungi are the dominant mycorrhizal type in grasslands, forming associations with virtually all grass species. Their roles include:
-
-- **[[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]]** — AM hyphae extend beyond the root depletion zone to access phosphorus from soil volumes unavailable to roots alone
+Source: John Dighton, *Fungi in [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]]** — AM hyphae extend beyond the root depletion zone to access phosphorus from soil volumes unavailable to roots alone
 - **Soil aggregation** — AM hyphae and glomalin production stabilize soil aggregates, critical for grassland soil structure and resistance to erosion
-- **Plant community interactions** — AM networks can mediate competition between grass species, influencing [[core-endorhiza-bacterial-community-composition-cannabis]]
-
-### Soil Crust Fungi in Arid Grasslands
-States and Christensen (2001) described fungi associated with [[singh-mycelial-mats-and-biological-soil-crusts]] in desert grasslands of Utah and Wyoming. These communities include:
+- **Plant community interactions** — AM networks can mediate competition between grass species, influencing [[singh-mycelial-mats-and-biological-soil-crusts]] in desert grasslands of Utah and Wyoming. These communities include:
 - Dark septate fungi
 - Melanized hyphomycetes
 - Yeast-like fungi
 
-Soil crust fungal communities contribute to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], carbon fixation, and soil stabilization in arid grassland environments where vascular plant cover is sparse.
-
-## Fungal Contributions to Soil Structure
-
-### Glomalin and Aggregate Stability
-Wright and Upadhyaya (1996, 1998) identified glomalin, a glycoprotein produced by arbuscular mycorrhizal fungal hyphae, as a major contributor to soil aggregate stability. Glomalin is remarkably persistent in soil, with turnover times estimated at 7-42 years, making it a significant long-term carbon storage pool.
-
-### Hyphal Binding
-Tisdall and Oades (1982) and Tisdall (1994) demonstrated that fungal hyphae physically bind soil particles into water-stable aggregates. Miller and Jastrow (1990) showed a hierarchy of root and mycorrhizal [[fungal-interactions-with-microbes]] soil aggregates, with mycorrhizal fungi providing both enmeshment of particles and production of sticky extracellular materials.
+Soil crust fungal communities contribute to [[fungal-interactions-with-microbes]] soil aggregates, with mycorrhizal fungi providing both enmeshment of particles and production of sticky extracellular materials.
 
 ## Agriculture and Mycorrhizal Function
 
@@ -54,21 +29,7 @@ Fitter (1985, 1991) noted that while the nutritional benefit of mycorrhizae in n
 - Crop rotation and tillage affect mycorrhizal community continuity
 
 ### Collembola Grazing in Agroecosystems
-Warnock et al. (1982) demonstrated that collembolan grazing on AM extraradical hyphae significantly reduces the efficiency of [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]. This effect is amplified in agroecosystems where:
-- Soil fauna diversity is reduced by tillage and pesticides
-- High densities of individual collembola species can develop in the absence of predators
-- The mycorrhizal community is already stressed by disturbance
-
-### Salinity and Irrigated Agriculture
-Juniper and Abbott (1993) showed that soil salinity from irrigation reduces AM spore germination and extraradical hyphal growth. Although some degree of salinity tolerance has been observed (Sengupta and Chaudhuri, 1990), Johnson-Green et al. (2001) suggested that mycorrhizae could still benefit revegetation of salt-degraded soils despite reduced function.
-
-### Tillage Effects
-Agricultural tillage disrupts:
-- Mycorrhizal hyphal networks
-- Soil aggregates stabilized by fungal hyphae and glomalin
-- The continuity of mycorrhizal inoculum from one crop to the next
-
-[[comparison-no-till-vs-reduced-tillage]] and no-till systems generally maintain higher [[arbuscular-mycorrhizal-colonization-patterns]] and diversity than [[comparison-no-till-vs-conventional-tillage]] systems.
+Warnock et al. (1982) demonstrated that collembolan grazing on AM extraradical hyphae significantly reduces the efficiency of [[comparison-no-till-vs-reduced-tillage]] and no-till systems generally maintain higher [[comparison-no-till-vs-conventional-tillage]] systems.
 
 ## Nutrient Cycling in Agroecosystems
 
@@ -118,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycorrhizal-fungi]]
 - [[rust-fungi]]
-- [[john-dighton]]
 - [[dom]]
 - [[spore]]

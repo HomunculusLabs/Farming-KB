@@ -1,6 +1,6 @@
 ---
 
-title: Fruit Tree Varieties
+title: Fruit Tree Varieties, Rootstocks, and Chill Hours
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -25,7 +25,7 @@ sources:
 
 # Fruit Tree Varieties, Rootstocks, and Chill Hours
 
-Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]], planting, pruning, [[query-what-is-biofumigation-and-how-does-it-work]], and seasonal care.
+Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for site selection, planting, pruning, pest management, and seasonal care.
 
 ## Fruit Tree Selection
 
@@ -59,7 +59,7 @@ Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock
 #### Peaches (500-900 chill hours)
 | Variety | Disease Resistance | Pollination | Use | Chill Hours |
 |---------|-------------------|-------------|------|-------------|
-| Reliance | Good [[coleman-cold-hardiness-testing-ratings]] | Self-fertile | Fresh/canning | 800-1000 |
+| Reliance | Good cold hardiness | Self-fertile | Fresh/canning | 800-1000 |
 | Contender | Good bacterial spot resistance | Self-fertile | Fresh | 900-1000 |
 | Redhaven | Moderate | Self-fertile | Fresh/canning | 800-900 |
 | Elberta | Moderate | Self-fertile | Canning | 800-900 |
@@ -82,7 +82,7 @@ Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock
 |---------|-------------------|-------------|------|-------------|
 | Stella | Good | Self-fertile | Fresh | 600-700 |
 | Lapins | Good | Self-fertile | Fresh | 500-600 |
-| [[schultes-datura-holy-flower-north-star]] | Good (pie cherry) | Self-fertile | Pie/preserves | 1000 |
+| North Star | Good (pie cherry) | Self-fertile | Pie/preserves | 1000 |
 | Montmorency | Good (pie cherry) | Self-fertile | Pie/preserves | 1000+ |
 
 **Note**: Sweet cherries crack in rain near harvest — consider pie cherries for reliability. Birds are major pest — plan netting.
@@ -115,7 +115,7 @@ Rootstocks determine tree size, precocity, disease resistance, soil adaptation, 
 | Bud 9 (apple) | Dwarf (8-10') | More cold hardy than M9, better fire blight resistance |
 | M7 (apple) | Semi-dwarf (12-15') | Well-anchored, good general-purpose |
 | MM106 (apple) | Semi-dwarf (12-15') | Good anchorage, susceptible to crown rot in wet soils |
-| MM111 (apple) | Semi-standard (15-18') | Good [[dighton-fungal-drought-tolerance-plant-water-relations]] |
+| MM111 (apple) | Semi-standard (15-18') | Good drought tolerance |
 | Antonovka (apple) | Standard (20-25'+) | Very cold hardy, disease resistant |
 | OHxF 333 (pear) | Semi-dwarf (12-15') | Good fire blight resistance |
 | Lovell (peach) | ~75% standard | Deep-rooted, good drought tolerance |
@@ -140,11 +140,10 @@ Rootstocks determine tree size, precocity, disease resistance, soil adaptation, 
 
 ## Chill Hours
 
-### What They Are
-Accumulated hours at 32-45°F during dormancy that trigger budbreak and normal flowering.
+## See Also
 
-### Why They Matter
-- **Insufficient chill**: Delayed/irregular budbreak, reduced fruit set, poor quality
-- **Zone 7**: Typically 700-1200 chill hours
-- **Zone 8**: Typically 400-900 chill hours
-- **Zone 8b/coastal**: Can be as low as 200-400 hours
+- [[fruit-forest-establishment]]
+- [[fungi-living-plants-anthracnose-ergot-fruit-rots]]
+- [[fungal-fruit-tree-diseases]]
+- [[mycorrhizal-fungi-fruit-trees]]
+- [[query-when-and-how-should-i-prune-my-fruit-trees]]

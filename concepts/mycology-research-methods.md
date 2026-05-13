@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Mycology — the study of fungi — employs a diverse toolkit of field, laboratory, and computational methods. The discipline spans from traditional [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] and identification to cutting-edge genomic sequencing and metabolomics. This guide covers the core methods used in modern mycological research.
+Mycology — the study of fungi — employs a diverse toolkit of field, laboratory, and computational methods. The discipline spans from traditional mushroom foraging and identification to cutting-edge genomic sequencing and metabolomics. This guide covers the core methods used in modern mycological research.
 
 ## Field Methods
 
@@ -34,7 +34,7 @@ Systematic fungal surveys require careful planning and documentation:
 Non-invasive methods to detect fungal presence from environmental samples:
 
 - **Soil cores**: Collect soil samples (5-10 cm depth) and extract total DNA. Metabarcoding reveals the complete fungal community (mycobiome) present, including non-fruiting species
-- **Air sampling**: Spore traps (Burkard volumetric sampler, Rotorod, passive settling plates) capture airborne spores for both allergen monitoring [[fungal-identification-and-biodiversity-assessment]]
+- **Air sampling**: Spore traps (Burkard volumetric sampler, Rotorod, passive settling plates) capture airborne spores for both allergen monitoring and biodiversity assessment
 - **Water sampling**: For aquatic fungi; filter known volumes of water through sterile filters and extract DNA
 - **Substrate sampling**: Collect small pieces of wood, leaf litter, or dung for eDNA extraction
 
@@ -51,7 +51,7 @@ Non-invasive methods to detect fungal presence from environmental samples:
 
 All fungal culture work requires strict aseptic (sterile) technique to prevent contamination:
 
-- Work in a [[comparison-laminar-flow-hood-vs-fruiting-chamber]] (Class II biological safety cabinet) whenever possible
+- Work in a laminar flow hood (Class II biological safety cabinet) whenever possible
 - Sterilize work surfaces with 70% ethanol or 10% bleach between operations
 - Flame sterilize inoculating loops, scalpels, and forceps before each use
 - Wear gloves; change between handling different cultures
@@ -59,12 +59,12 @@ All fungal culture work requires strict aseptic (sterile) technique to prevent c
 
 ### Media Preparation
 
-Common [[fungal-culture-media]]:
+Common fungal culture media:
 
 - **Potato Dextrose Agar (PDA)**: General-purpose medium; supports growth of most fungi. 200g potato, 20g dextrose, 15g agar per liter. Autoclave at 121°C for 15 minutes
-- **[[malt-extract-agar]] (MEA)**: Similar to PDA; good for mushroom-forming fungi. 30g malt extract, 15g agar per liter
+- **Malt Extract Agar (MEA)**: Similar to PDA; good for mushroom-forming fungi. 30g malt extract, 15g agar per liter
 - **Sabouraud Dextrose Agar (SDA)**: Standard clinical mycology medium; acidic pH (5.6) inhibits bacterial growth. 40g dextrose, 10g peptone, 15g agar per liter
-- **Cornmeal Agar (CMA)**: Promotes sporulation in many fungi; useful for [[psilocybin-mushroom-microscopic-identification]]
+- **Cornmeal Agar (CMA)**: Promotes sporulation in many fungi; useful for microscopic identification
 - **Minimal media**: Defined synthetic media for studying nutritional requirements and metabolic capabilities
 - **Selective media**: Media with antibiotics (chloramphenicol, gentamicin) to suppress bacterial contamination; cycloheximide to inhibit saprotrophic fungi when isolating pathogens
 
@@ -72,8 +72,8 @@ Common [[fungal-culture-media]]:
 
 - **Spore print isolation**: Collect spores on sterile paper or glass, then streak onto agar using a sterile loop. Individual spores germinate into pure cultures
 - **Tissue culture**: Cut small pieces (2-3 mm) from the interior of a fresh fruiting body using a flame-sterilized scalpel. Place on agar surface. The interior tissue is typically sterile
-- **[[single-spore-isolation-and-monokaryon-culture]]**: Dilute spore suspension to achieve ~1 spore per plate, or use micromanipulation under a dissecting microscope to transfer individual spores
-- **Soil [[particle-filtration-dilution-plating-microfungal-isolation]]**: Serial dilution of soil samples plated on selective media for quantitative assessment of soil fungal populations
+- **Single spore isolation**: Dilute spore suspension to achieve ~1 spore per plate, or use micromanipulation under a dissecting microscope to transfer individual spores
+- **Soil dilution plating**: Serial dilution of soil samples plated on selective media for quantitative assessment of soil fungal populations
 - **Baiting**: Place sterile substrates (hair, snake skin, insect exoskeleton, cellulose) in soil or water samples to bait specific fungi. Transfer growing hyphae to agar
 
 ### Culture Maintenance
@@ -127,7 +127,7 @@ Provides high-resolution surface detail:
 - **CTAB method**: Standard protocol for fungi. CTAB lyses cells; chloroform removes proteins; isopropanol precipitates DNA
 - **Commercial kits**: Qiagen DNeasy, Zymo Fungal/Bacterial kits — faster and more consistent but expensive
 - **Mechanical disruption**: Bead beating with glass beads to break tough fungal cell walls, especially melanized fungi
-- **[[herbarium-specimens-fungal-collections]]**: Require modified protocols; degradation may limit DNA quality
+- **Herbarium specimens**: Require modified protocols; degradation may limit DNA quality
 
 ### Molecular Identification
 
@@ -140,11 +140,11 @@ Provides high-resolution surface detail:
 
 - **DNA Sequencing**:
   - **Sanger sequencing**: Standard for single-locus identification. PCR product purified and sequenced bidirectionally. Cost-effective for routine identification
-  - **Next-generation sequencing (NGS)**: Illumina MiSeq for metabarcoding; sequences hundreds of samples simultaneously using barcode-tagged primers
-  - **Oxford Nanopore / PacBio**: Long-read sequencing for genome assemblies and resolving repetitive regions
 
-### Bioinformatics
+## See Also
 
-- **Sequence quality control**: Trimmomatic, FastQC for NGS data
-- **OTU/ASV clustering**: DADA2, UNOISE for denoising and clustering amplicon sequences into exact sequence variants
-- **Taxonomic assignment**: BLAST against UNITE database (fungal ITS), GenBank. QIIME2 pipeline for [[fungal-diversity-indices-community-analysis]]
+- [[grass-seed-substrate-mycology]]
+- [[palmer-early-american-mycology-nineteenth-century]]
+- [[mycology-modern-era]]
+- [[palmer-neglected-science-mycology]]
+- [[guerrilla-mycology]]

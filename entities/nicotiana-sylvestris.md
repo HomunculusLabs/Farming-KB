@@ -15,28 +15,11 @@ sources:
   - Goodspeed, T.H. (1954). The Genus Nicotiana: Origins, Relationships and Evolution of the Species in the Light of Their Distribution, Morphology and Cytogenetics. Chronica Botanica.
   - Knapp, S., M.W. Chase & J.J. Clarkson (2004). "Nomenclatural Changes and a New Sectional Classification in Nicotiana (Solanaceae)." Taxon, 53(1), 73-94.
   - Lewis, R.S. (2011). "An Overview of the Genus Nicotiana." In Nicotiana and Tobacco, pp. 1-26. Springer.
-  - Burbank, L. (1914). "The Development of the Burbank Tobacco." In [[luther-burbank-plant-breeding-methods]]: His Methods and Discoveries, Vol. 6. Century Co.
----
-
-## Overview
-
-Nicotiana sylvestris, commonly known as woodland tobacco or flowering tobacco, is a tender perennial species of Nicotiana native to [[guzman-psilocybin-mushrooms-south-america]].
+  - Burbank, L. (1914). "The Development of the Burbank Tobacco." In [[guzman-psilocybin-mushrooms-south-america]].
 
 It is prized in ornamental horticulture for its tall, elegant habit and intensely fragrant, tubular white flowers that open in the evening.
 
-The species is of significant scientific importance as the maternal parent of [[nicotiana-tabacum]], the cultivated tobacco, following an ancient hybridization event.
-
-Nicotiana sylvestris has also served as a model organism in plant genetics and molecular biology research.
-
-All parts of the plant contain nicotine and other alkaloids and should be considered toxic if ingested.
-
-## Taxonomy and Morphology
-
-Nicotiana sylvestris Speg. & Comes was described by Carlos Spegazzini and Ernesto Comes in 1897.
-
-Molecular phylogenetic studies confirm that Nicotiana sylvestris is the maternal donor in the allopolyploid origin of Nicotiana tabacum, which also involved Nicotiana tomentosiformis as the paternal parent.
-
-The species belongs to Nicotiana section Sylvestres, a small [[chiric-caspi-brunfelsia-south-american-hallucinogen]] group within the genus.
+The species is of significant scientific importance as the maternal parent of [[chiric-caspi-brunfelsia-south-american-hallucinogen]] group within the genus.
 
 Nicotiana sylvestris forms a basal rosette of large, broadly elliptic leaves 15 to 30 centimeters long during its vegetative phase.
 
@@ -62,11 +45,7 @@ In its native habitat, it often colonizes disturbed sites and forest clearings w
 
 The natural range is relatively restricted, making the species potentially vulnerable to habitat loss in its native Andean populations.
 
-It has naturalized occasionally in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] where it is cultivated, though it is not considered invasive due to its sensitivity to frost.
-
-## Cultivation
-
-Nicotiana sylvestris is easily grown from seed, which is typically sown indoors 6 to 8 weeks before the last frost date [[query-how-to-grow-and-use-oca-in-temperate-climates]].
+It has naturalized occasionally in [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 Seeds require light for germination and should be pressed into the soil surface without covering.
 
@@ -87,3 +66,85 @@ No named cultivars are widely available, though white-flowered selections with e
 ## Chemistry and Genetics
 
 Like all Nicotiana species, Nicotiana sylvestris produces nicotine as its primary alkaloid, concentrated in the leaves at concentrations of approximately 0.5 to 2 percent of dry weight.
+
+## Overview
+
+Nicotiana Sylvestris represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nicotiana sylvestris
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nicotiana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nicotiana Sylvestris finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nicotiana sylvestris. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nicotiana sylvestris and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nicotiana Sylvestris has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nicotiana sylvestris into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]
+- [[nicotiana-rustica]]

@@ -13,50 +13,19 @@ type: concept
 # Grow Room Temperature Management
 
 Temperature is one of the most critical environmental
-factors in [[query-how-does-no-till-cannabis-cultivation-work]]. It directly affects
-growth rate, [[plant-nutrient-uptake-mechanisms]], transpiration,
+factors in [[plant-nutrient-uptake-mechanisms]], transpiration,
 photosynthesis efficiency, and overall plant health.
 Cervantes emphasizes that maintaining proper
 temperature ranges throughout all growth stages is
 essential for maximum yield and quality.
 
-See also: [[cervantes-grow-room-design-advanced]]
-
-## Ideal Temperature Ranges
-
-Cannabis grows best in a temperature range of 68 to
-86 degrees F (20 to 30 degrees C). However, the ideal
-range for most growth stages is between 70 and 80
-degrees F (21 to 27 degrees C). Specific stages have
-narrower optimal ranges:
-
-- **Seed germination:** Seeds sprout quickest when the
-  soil temperature is 72 to 74 degrees F (22 to 23
-  degrees C). Low temperatures delay germination.
-  High temperatures upset seed chemistry and can
-  reduce viability.
-
-- **Seedling stage:** Young seedlings are fragile and
-  benefit from warm conditions around 75 degrees F
-  (24 degrees C) with gentle warmth on the root zone.
-
-- **[[cannabis-vegetative-growth-stage]]:** 72 to 82 degrees F (22 to
+See also: [[cannabis-vegetative-growth-stage]]:** 72 to 82 degrees F (22 to
   28 degrees C) during the day. Plants in this range
   show vigorous leaf and stem development.
 
 - **Flowering:** 65 to 80 degrees F (18 to 27 degrees
   C). Cooler temperatures during flowering, especially
-  in the last two weeks, can enhance [[cannabis-glandular-trichome-types-resin-production-clarke]]
-  and color development. Air temperature between 65
-  and 75 degrees F (18 to 24 degrees C) is considered
-  ideal for late flowering.
-
-- **Drying:** Keep temperatures below 70 degrees F
-  (21 degrees C) for slow, even drying that preserves
-  terpenes and prevents mold.
-
-See also: [[cervantes-flowering-phase]]
-See also: [[cervantes-cloning]]
+  in the last two weeks, can enhance [[cervantes-flowering-phase]]
 See also: [[cervantes-seed-germination]]
 
 ## Day and Night Temperature Differentials
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cervantes-reservoir-temperature-management]]
 - [[cervantes-nutrient-solution-reservoir-management]]
-- [[cervantes-copper-micronutrient-management]]
 - [[cervantes-root-pruning-rootbound-management]]
 - [[marijuana-horticulture-cervantes-pest-and-disease-management]]

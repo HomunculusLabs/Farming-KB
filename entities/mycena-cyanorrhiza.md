@@ -15,21 +15,16 @@ sources:
 ---
 # Mycena cyanorrhiza
 **Mycena cyanorrhiza** is a small, distinctive mushroom in the family
-Mycenaceae confirmed to contain [[psilocin]]. It is
-notable among the genus Mycena for its pronounced [[field-guide-psilocybin-bluing-reaction-identification]] when
+Mycenaceae confirmed to contain [[field-guide-psilocybin-bluing-reaction-identification]] when
 bruised, making it one of the more easily recognized psychoactive members of
-this large and diverse genus. The species was first described from [[psilocybin-north-america-pacific-northwest]]
-and has since been documented in other temperate regions, representing one of
-the more accessible examples of [[gottlieb-psilocybin-production-extraction-methods]] outside the traditional
+this large and diverse genus. The species was first described from [[gottlieb-psilocybin-production-extraction-methods]] outside the traditional
 psychoactive genera.
 ## Taxonomy and Classification
 Mycena cyanorrhiza is classified in the order Agaricales, family
 Mycenaceae, genus Mycena. The genus contains over 500 described species
 and is one of the most species-rich genera of agaricoid fungi, found in
 virtually every terrestrial habitat worldwide. Most Mycena species are small,
-saprotrophic mushrooms that decompose [[dighton-fungal-decomposition-leaf-litter-dynamics]], wood, or other plant debris.
-The discovery of psilocybin in certain Mycena species was significant
-because it expanded the known taxonomic distribution of [[cattle-dispersal-psychoactive-fungi-australia]]
+saprotrophic mushrooms that decompose [[cattle-dispersal-psychoactive-fungi-australia]]
 beyond Psilocybe, Panaeolus, Gymnopilus, Conocybe, Pluteus,
 and Inocybe.
 The phylogenetic implications are particularly interesting because Mycena is
@@ -68,25 +63,87 @@ blue-green discoloration among the most dramatic bluing reactions observed in
 any psilocybin-containing mushroom, including members of Psilocybe. This
 reaction typically develops within seconds and is initially vivid blue, deepening
 to blue-green or teal over several minutes. The intensity suggests relatively
-high [[psilocybin]] and
-[[psilocybe-azurescens]]
-but comparable to moderate species like [[mycena-purpureofusca]], [[mycena-citrinomarginata]] (disputed). Variable reports may reflect genuine
+high [[psilocybe-azurescens]]
+but comparable to moderate species like [[mycena-citrinomarginata]] (disputed). Variable reports may reflect genuine
 variation, methodological differences, or cryptic species complexes.
 ## Similar Species
 The key distinguishing feature is the intense blue bruising on the stipe,
-unusual in the genus. [[mycena-galopus]] has
-characteristic milky latex when cut. The white, downy stipe base with
-rhizomorphic strands is a useful macroscopic characteristic for narrowing
-identification.
-## Cultivation
-M. cyanorrhiza has not been successfully cultivated. Its specific
-environmental requirements, combined with small size and moderate potency,
-have discouraged cultivation efforts.
-## Legal Status
-As a confirmed psilocybin-containing species, M. cyanorrhiza is subject to
-legal controls in many jurisdictions. The species is so small and inconspicuous
-that identification and enforcement would be extremely difficult in practice.
-## See Also
-- [[mycena-purpureofusca]] — another psilocybin-containing Mycena species
-- [[psilocybin]] — the primary psychoactive compound
+unusual in the genus. [[mycena-purpureofusca]] — another psilocybin-containing Mycena species
 - [[psilocybe-cyanescens]] — a more commonly encountered and potent bluing species
+
+## Overview
+
+Mycena Cyanorrhiza represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycena cyanorrhiza
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycena extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycena Cyanorrhiza finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycena cyanorrhiza. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycena cyanorrhiza and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycena Cyanorrhiza has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycena cyanorrhiza into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

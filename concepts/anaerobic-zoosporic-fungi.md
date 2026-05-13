@@ -49,28 +49,7 @@ abomasum. The rumen is the largest pregastric chamber (~10L in sheep,
 
 Herbivores are divided into foregut fermenters (ruminants, kangaroos) and
 hindgut fermenters (elephants, horses, rabbits). Hindgut fermenters obtain
-most nutrients from cell contents rather than [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], while foregut
-fermenters depend on pregastric microbial fermentation for prolonged periods,
-allowing more thorough degradation of plant fiber.
-
-## Taxonomy and Diversity
-
-### Major Genera
-
-Anaerobic gut fungi are placed in several genera within Neocallimastigales:
-
-- **Neocallimastix**: Polycentric, multiflagellate zoospores; among the most
-  studied species in the group
-- **Piromyces**: Monocentric; common in rumen of cattle and sheep
-- **Caecomyces**: Monocentric with swollen thallus; found in both ruminant
-  and non-ruminant herbivores
-- **Orpinomyces**: Polycentric; originally isolated from cow rumen
-- **Anaeromyces**: Polycentric; found in rumen and hindgut
-- **Ruminomyces**: Associated with ruminant digestive tracts
-
-Recent molecular phylogenetic studies have expanded the known diversity
-considerably, suggesting that many genera remain to be formally described.
-[[fungal-dark-taxa-environmental-dna-sequencing]] surveys of herbivore feces and gut contents regularly
+most nutrients from cell contents rather than [[fungal-dark-taxa-environmental-dna-sequencing]] surveys of herbivore feces and gut contents regularly
 reveal novel Neocallimastigales lineages not represented by cultured isolates.
 
 ## Role in Fiber Digestion
@@ -81,10 +60,7 @@ Their contribution to rumen function includes:
 - **Physical disruption**: The rhizoidal system of the fungi penetrates
   and physically disrupts plant cell walls, increasing surface area
   available to other microbes
-- **[[enzymatic-degradation-in-mycoremediation]]**: They produce a wide array of cellulolytic and
-  hemicellulolytic enzymes, including cellulases, xylanases, and
-  esterases, that degrade structural plant polysaccharides
-- **Synergistic interactions**: [[fungal-enzyme-systems]] work synergistically
+- **[[fungal-enzyme-systems]] work synergistically
   with bacterial and protozoal enzymes, enhancing overall fiber degradation
   beyond what any single group could achieve alone
 
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[anaerobic-gut-fungi]]
 - [[zoosporic-fungi]]
-- [[spore]]
 - [[mycoremediation]]
 - [[anaerobic-rumen-fungi-biology-herbivore-digestion]]

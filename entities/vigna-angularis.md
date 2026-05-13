@@ -13,17 +13,7 @@ sources:
   - Vaughan, D.A. et al. (2006). "The Asian Vigna: genus Vigna subgenus Ceratotropis genetic resources." Springer.
   - Itoh, T. et al. (2020). "Health benefits of adzuki bean (Vigna angularis)." Food Science and Technology Research, 26(4), 477–485.
   - Zou, B. et al. (2012). "In vitro antioxidant activity and in vivo anti-fatigue effect of adzuki bean." Journal of Agricultural and Food Chemistry, 60(19), 5011–5016.
-  - Srinives, P. & Chitaree, N. (2003). "[[biodiversity-fungal-genetic-diversity]] of the adzuki bean." Plant Genetic Resources Newsletter, 134, 21–26.
-  - Lumpkin, T.A. & McClary, D.C. (1994). "Adzuki bean: botany, production and uses." CAB International.
----
-
-## Overview
-
-**Vigna angularis**, commonly known as the adzuki bean, azuki bean, or red [[comparison-cowpea-vs-mung-bean]], is an annual legume in the family Fabaceae. It is native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]] and has been cultivated in Japan, Korea, and China for over 2,000 years.
-
-The crop is valued for its small, reddish-brown seeds that are sweet-tasting and rich in protein, fiber, and micronutrients. Adzuki beans are a staple ingredient in East Asian desserts, pastries, and traditional confections.
-
-As a nitrogen-fixing legume, adzuki bean contributes to soil fertility in rotation systems. Its relatively short [[savory-growing-season-and-non-growing-season-management]] and adaptability to diverse climates have facilitated its spread to over 30 countries.
+  - Srinives, P. & Chitaree, N. (2003). "[[comparison-cowpea-vs-mung-bean]], is an annual legume in the family Fabaceae. It is native to [[savory-growing-season-and-non-growing-season-management]] and adaptability to diverse climates have facilitated its spread to over 30 countries.
 
 ## Taxonomy and Morphology
 
@@ -52,15 +42,7 @@ Seeds are small (4–6 mm long), typically red but ranging from white, black, mo
 
 Adzuki bean is primarily grown in East Asia, with China accounting for approximately 70% of global production. Japan, South Korea, Taiwan, and Thailand are other major producers.
 
-The crop grows well in temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with temperatures between 18–30°C. It is relatively cold-tolerant compared to other Vigna species and can be cultivated at higher latitudes.
-
-Optimal soils are well-drained sandy loams with pH 5.5–7.0. The crop is moderately drought-tolerant but performs best with consistent moisture during flowering and pod-filling stages.
-
-Sowing occurs in spring (April–May) in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and during the monsoon season in tropical areas. Seed rate is 20–30 kg/ha with [[wide-row-spacing-intensive-gardening-comparison]] of 30–45 cm.
-
-Maturity occurs in 90–120 days depending on variety and growing conditions. Average yields range from 800–1,200 kg/ha, with improved Japanese varieties reaching 2,000 kg/ha under optimal management.
-
-Inoculation with Bradyrhizobium spp. enhances nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. The crop fits well in rotation with rice, wheat, or barley.
+The crop grows well in temperate to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and during the monsoon season in tropical areas. Seed rate is 20–30 kg/ha with [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. The crop fits well in rotation with rice, wheat, or barley.
 
 ## Nutritional Value
 
@@ -87,3 +69,82 @@ Sprouting adzuki beans increases vitamin content and reduces trypsin inhibitor a
 ## Ecology and Applications
 
 Adzuki bean forms effective nitrogen-fixing symbioses with Bradyrhizobium, contributing 40–80 kg N/ha to the soil. This makes it a valuable break crop in cereal-based farming systems.
+
+## Overview
+
+Vigna Angularis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vigna angularis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vigna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vigna Angularis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vigna angularis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vigna angularis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vigna Angularis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vigna angularis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

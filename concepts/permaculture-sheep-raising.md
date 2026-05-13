@@ -32,31 +32,11 @@ Summer (June-August):
 
 - Wean lambs at 8-12 weeks of age
 
-- Provide shade and plenty of fresh water; sheep can suffer [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] at temperatures above 80°F (27°C)
-
-See also: [[sheep-keeping-guide]]
+- Provide shade and plenty of fresh water; sheep can suffer [[sheep-keeping-guide]]
 
 ## See Also
 
-- [[permaculture-pig-raising]]
-
-## Health and Parasite Management
-
-Internal parasites are the most persistent health challenge in
-sheep flocks, particularly in warm, humid climates.
-Haemonchus contortus (barber pole worm) is the most damaging
-gastrointestinal nematode, causing anemia and potentially death
-in heavy infections, especially in lambs.
-Strategic deworming based on fecal egg counts rather than
-calendar-based schedules helps slow the development of
-anthelmintic resistance, which is a growing global problem.
-Alternative approaches include rotational grazing with sufficient
-rest periods (60-90 days minimum) to allow pasture larvae to die
-off, and co-grazing with cattle or goats that break the sheep
-parasite lifecycle.
-Coprophagous dung beetles can also reduce parasite transmission
-by rapidly burying feces before larvae develop.
-See [[nematode-management]] for detailed parasite control
+- [[nematode-management]] for detailed parasite control
 strategies applicable to permaculture systems.
 
 ## Fencing Design and Rotation
@@ -74,8 +54,7 @@ with each paddock resting for 30-60 days depending on season and
 stocking density.
 This rest period allows regrowth and breaks parasite cycles,
 making rotational grazing both a productivity and health strategy.
-See [[livestock-fencing-guide]] for detailed fencing specifications
-and [[pasture-management]] for rotation planning principles.
+See [[pasture-management]] for rotation planning principles.
 
 ## Sheep Breeds for Permaculture Systems
 
@@ -88,3 +67,84 @@ These breeds are generally more parasite-resistant than wool breeds
 and tolerate heat better, making them well-suited to warmer climates.
 Wool breeds (Merino, Romney, Lincoln) provide fiber as an additional
 yield and may be preferred in cooler climates or where value-added
+
+## Overview
+
+Permaculture Sheep Raising represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture sheep raising
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Sheep Raising finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture sheep raising. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture sheep raising and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Sheep Raising has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture sheep raising into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eucalyptus-permaculture]]

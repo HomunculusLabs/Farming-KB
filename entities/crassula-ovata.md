@@ -38,9 +38,7 @@ The species has naturalized widely outside its native range due to its popularit
 
 Plants develop a thick, woody trunk with age, reaching 1–2 m tall in cultivation. Leaves are opposite, obovate to broadly elliptic, 3–9 cm long, dark glossy green, often with red margins when stressed by sun or drought.
 
-The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is smooth and glabrous, lacking the farina found in many Crassulaceae. Leaf thickness reaches 5–10 mm, with water stored in specialized parenchyma cells that can sustain the plant through extended dry periods.
-
-When stressed by intense sunlight, drought, or cold temperatures, the leaf margins develop a distinctive red or bronze coloration. This [[epinephrine-stress-response-endocannabinoid-modulation-blesching]] is caused by anthocyanin production and is often considered ornamental by growers.
+The [[epinephrine-stress-response-endocannabinoid-modulation-blesching]] is caused by anthocyanin production and is often considered ornamental by growers.
 
 Flowers are borne in terminal thyrses with 3–5 branches, each bearing 8–15 small star-shaped flowers. Petals are white to pale pink, 5–7 mm long. Flowering occurs in late autumn to winter, triggered by short days and cool nights.
 
@@ -58,7 +56,7 @@ Soils in native habitats are shallow, rocky, and well-drained, derived from sand
 
 The species is naturalized in parts of Australia, New Zealand, and the Mediterranean, where it can become invasive in coastal scrub. In California, escaped specimens are occasionally found in disturbed coastal habitats.
 
-Within its native range, C. ovata co-occurs with other succulents including Aloe ferox, Euphorbia species, and Pelargonium. The valley thicket vegetation type where it grows is considered threatened by agricultural expansion and overgrazing.
+Within its native range, C. ovata co-occurs with other succulents including [[aloe-ferox]], Euphorbia species, and Pelargonium. The valley thicket vegetation type where it grows is considered threatened by agricultural expansion and overgrazing.
 
 ## Cultivation
 
@@ -72,18 +70,12 @@ Seed propagation is possible but rarely practiced due to the ease of vegetative 
 
 Common cultivars include 'Hummel's Sunset' (golden variegated leaves), 'Gollum' and 'Hobbit' (tubular, trumpet-shaped leaves), and 'Tricolor' (cream and green variegation). Over 20 named cultivars exist.
 
-Pests include mealybugs, scale insects, and spider mites. Mealybugs cluster at leaf axils and can be treated with isopropyl alcohol. Good [[stamets-growing-room-air-circulation-co2-management]] and avoiding overwatering prevent most [[duggar-mushroom-insect-pests-and-fungal-diseases]].
+Pests include mealybugs, scale insects, and spider mites. Mealybugs cluster at leaf axils and can be treated with [[isopropyl-alcohol]]. Good [[duggar-mushroom-insect-pests-and-fungal-diseases]].
 
 Cold tolerance extends briefly to -2°C, but prolonged frost causes leaf drop and stem dieback. In USDA zones 10–11, jade plants can be grown outdoors year-round; elsewhere they require indoor protection during winter.
 
 ## Ecological Role
 
-In its native [[kanna-sceletium-south-african-narcotic]] habitat, Crassula ovata forms part of the valley thicket community, providing shelter and moisture for insects and small reptiles during dry periods. The succulent leaves serve as an emergency water source.
-
-Flowers attract bees, butterflies, and other nectar-feeding insects during the winter flowering season when few other plants are in bloom. This makes the species an important off-season nectar resource.
-
-Birds, particularly sunbirds in South Africa, visit the flowers and may contribute to pollination alongside insects. The flower structure with exposed nectar accommodates both insect and avian pollinators.
-
-Like other Crassulaceae, C. ovata uses [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]], fixing CO₂ at night to minimize water loss. This adaptation allows the species to thrive in arid microsites with minimal soil moisture.
+In its native [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]], fixing CO₂ at night to minimize water loss. This adaptation allows the species to thrive in arid microsites with minimal soil moisture.
 
 Research has shown that Crassula ovata can tolerate soil salinity up to 100 mM NaCl without significant growth reduction, making it suitable for coastal planting in Mediterranean climates.

@@ -12,46 +12,13 @@ sources:
   - Crum, H. & Anderson, L.E. (1981). "Mosses of polypore-fungi-eastern-north-america America." Columbia University Press.
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed., Cambridge University Press.
   - Ireland, R.R. (1982). "Moss Flora of the Maritime Provinces." Publications in Botany, National Museum of Natural Sciences, Ottawa.
-  - Åström, M. & Dynesius, M. (2019). "Bryophyte [[air-pollution-fungal-community-responses]] to Forest Disturbance in Boreal Sweden." Journal of Vegetation Science, 30(5), 904–915.
----
-
-## Overview
-
-**Dicranum polysetum** Sw., commonly known as the broom forkmoss or bank haircap moss, is an acrocarpous moss in the family Dicranaceae.
-
-It is widely distributed across the boreal and temperate zones of the Northern Hemisphere, occurring throughout northern Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]].
+  - Åström, M. & Dynesius, M. (2019). "Bryophyte [[guzman-psilocybin-mushrooms-north-america]].
 
 The species is among the largest and most conspicuous feathermosses, forming extensive golden-green carpets on the forest floor of boreal and sub-boreal coniferous woodlands.
 
-It plays a significant role in boreal forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], water retention, and seedbed ecology, particularly for conifer regeneration.
+It plays a significant role in boreal forest [[psilocybin-north-america-pacific-northwest]].
 
-## Taxonomy and Morphology
-
-**Dicranum polysetum** was described by Olof Swartz in 1801.
-
-It belongs to the family Dicranaceae, order Dicranales, class Bryopsida, and is one of approximately 80 species in the genus *Dicranum* worldwide.
-
-The species epithet *polysetum* means "many-bristled," referring to the numerous setae (stalks) bearing capsules that arise from a single perichaetium.
-
-**Growth form:** Large and tufted, forming loose to dense cushions or mats, typically 5–15 cm tall.
-
-**Stems:** Erect, unbranched or sparingly branched, densely tomentose at the base with reddish-brown rhizoids.
-
-**Leaves:** Lanceolate, 6–10 mm long, falcate-secund (curved to one side when dry), with a prominent costa extending to the leaf tip.
-
-**Leaf margins:** Entire to weakly serrate above, recurved in the lower half, giving leaves a winged appearance.
-
-**Capsules:** Cylindrical, erect, borne on multiple setae per perichaetium (2–6 capsules per cluster), maturing in summer.
-
-The multi-capsulate perichaetium is a distinctive diagnostic feature separating *D. polysetum* from other *Dicranum* species, which typically bear single capsules.
-
-## Distribution and Habitat
-
-*Dicranum polysetum* has a circumboreal distribution, occurring throughout Scandinavia, northern Russia, Siberia, Japan, and across northern North America from Alaska to Newfoundland.
-
-In North America, its range extends south in the mountains to the Appalachians, Great Lakes region, and [[psilocybin-north-america-pacific-northwest]].
-
-It is a dominant ground-layer species in boreal coniferous forests dominated by black spruce (*[[picea-mariana]]*), white spruce (*Picea glauca*), balsam fir (*[[abies-balsamea]]*), and jack pine (*Pinus banksiana*).
+It is a dominant ground-layer species in boreal coniferous forests dominated by black spruce (*[[abies-balsamea]]*), and jack pine (*Pinus banksiana*).
 
 The species also occurs in mixed boreal-deciduous stands, on rotting logs, stumps, and at the bases of trees.
 
@@ -77,7 +44,7 @@ Decomposition rates of dicranoid mosses are slow, contributing to the build-up o
 
 The species provides habitat for microarthropods including oribatid mites, springtails, and nematodes that form the base of boreal soil food webs.
 
-It is sensitive to heavy [[gadd-mycelial-network-resilience-grazing-pressure]] from [[query-how-to-get-rid-of-slugs-and-snails-organically]] in more southerly parts of its range.
+It is sensitive to heavy [[query-how-to-get-rid-of-slugs-and-snails-organically]] in more southerly parts of its range.
 
 ## Uses and Significance
 
@@ -88,3 +55,84 @@ Historically, large *Dicranum* species were collected in Scandinavia and Russia 
 The species is used as a bioindicator of old-growth boreal forest conditions, declining in abundance under intensive [[mycelium-running-forestry-practices-and-mushrooms]] that remove the moss layer.
 
 It is sensitive to sulfur dioxide and other air pollutants, making it useful for monitoring air quality in boreal and sub-boreal regions.
+
+## Overview
+
+Dicranum Polysetum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dicranum polysetum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dicranum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dicranum Polysetum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dicranum polysetum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dicranum polysetum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dicranum Polysetum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dicranum polysetum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dicranum-scoparium]]

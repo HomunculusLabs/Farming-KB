@@ -24,39 +24,7 @@ The species is prized for its abundant clusters of small, intensely fragrant whi
 
 The specific epithet *flammula* means "small flame" in Latin, possibly referring to the flame-like shape of the flower buds. The plant was described by Linnaeus in 1753 in *Species Plantarum*.
 
-It is sometimes confused with the similar *[[clematis-terniflora]]* (sweet autumn clematis), but differs in its more delicate leaflets and later flowering period. *C. flammula* is native to the Mediterranean, while *C. terniflora* is East Asian in origin.
-
-## Taxonomy and Morphology
-
-Clematis flammula belongs to section *Meclatis* within the genus *Clematis*. It is closely related to *Clematis terniflora* and *Clematis virginiana*, forming a complex of similar white-flowered species.
-
-Hybridization between these species is common in cultivation, producing intermediate forms. The resulting plants are often sold under incorrect names in the nursery trade.
-
-The leaves are bipinnate, composed of 5–7 leaflets, each leaflet narrowly ovate to lanceolate, 3–6 cm long, with entire or slightly toothed margins. Leaf color is dark green and glossy above, paler beneath.
-
-Leaflets have a distinctive leathery texture that helps reduce water loss in the Mediterranean climate. The foliage turns yellow before dropping in autumn in cooler regions.
-
-Stems are slender, ribbed, and woody at the base, reaching 3–5 meters in length. The plant climbs by twining leaf petioles around supports, a characteristic mechanism of the genus.
-
-Flowers are borne in large, loose, paniculate inflorescences, each panicle containing 30–100 individual flowers. Individual flowers are 2–3 cm across with four white sepals (no true petals) and numerous prominent stamens.
-
-The fruit is an achene with a persistent, feathery style that forms a silvery-gray plume 2–4 cm long. These seed heads are ornamental and persist through winter, providing visual interest.
-
-The root system is fibrous and relatively shallow for a plant of its size. Established plants develop a woody root crown from which new stems emerge annually.
-
-## Distribution and Habitat
-
-Native to southern Europe from Portugal and Spain eastward through southern France, Italy, Greece, and Turkey. It also occurs in northern Africa from Morocco to Libya.
-
-Populations on Mediterranean islands such as Corsica, Sardinia, Crete, and Sicily show slight morphological variation. Some botanists recognize these as distinct varieties.
-
-The species inhabits Mediterranean scrubland (maquis and garrigue), rocky hillsides, woodland margins, and limestone cliffs. It prefers calcareous soils but tolerates a range of substrates.
-
-Elevational range extends from sea level to approximately 1,200 meters in the southern Alps. In cooler parts of its range, it behaves as a strictly deciduous plant.
-
-The species has naturalized locally in parts of western Europe, the United Kingdom, and the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]]. It is not considered invasive in these areas.
-
-[[dighton-fungal-responses-climate-change]] is expanding the suitable range northward in Europe. Populations are becoming established in southern England where winters were previously too cold.
+It is sometimes confused with the similar *[[psilocybin-north-america-pacific-northwest]] [[dighton-fungal-responses-climate-change]] is expanding the suitable range northward in Europe. Populations are becoming established in southern England where winters were previously too cold.
 
 ## Ecology
 
@@ -68,17 +36,7 @@ All parts of the plant contain protoanemonin, a toxic glycoside that deters herb
 
 The compound is most concentrated in fresh leaves and stems, degrading upon drying. Cases of poisoning in humans are rare and typically involve children chewing on the foliage.
 
-The climbing habit allows Clematis flammula to access light in dense Mediterranean scrub without investing in a self-supporting trunk. It typically scrambles through shrubs such as *Quercus coccifera* and *[[rosmarinus-officinalis-entity]]*.
-
-In its native Mediterranean habitat, the plant is adapted to hot, dry summers and mild, wet winters. It is moderately drought-tolerant once established but benefits from occasional deep watering.
-
-## Cultivation
-
-Clematis flammula is cultivated as an ornamental climber in temperate gardens worldwide. It is hardy to USDA zones 7–9 and RHS hardiness rating H4 (−10 to −5 °C).
-
-The plant prefers a warm, sunny position with its roots in shade — the classic "head in the sun, feet in the shade" clematis requirement. Well-drained, alkaline to neutral soil is ideal.
-
-Pruning is in pruning group 3 (hard prune in late winter to [[coleman-overwintered-onions-and-early-spring-crops]]). Plants can be cut back to 30 cm above ground to encourage fresh growth and prolific flowering.
+The climbing habit allows Clematis flammula to access light in dense Mediterranean scrub without investing in a self-supporting trunk. It typically scrambles through shrubs such as *Quercus coccifera* and *[[coleman-overwintered-onions-and-early-spring-crops]]). Plants can be cut back to 30 cm above ground to encourage fresh growth and prolific flowering.
 
 Propagation is by softwood cuttings in early summer or by seed sown in autumn. Named cultivars are propagated vegetatively to maintain characteristics.
 
@@ -87,3 +45,88 @@ Seeds require a period of cold stratification to germinate reliably. Germination
 No serious pest or disease problems affect this species. Clematis wilt, caused by the fungus *Phoma clematidina*, occasionally occurs but is less common than in large-flowered hybrids.
 
 Aphids may colonize young shoots in spring but rarely cause significant damage. Earwigs can sometimes damage flower buds in late summer.
+
+## Overview
+
+Clematis Flammula represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish clematis flammula
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving clematis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Clematis Flammula finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for clematis flammula. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+clematis flammula and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Clematis Flammula has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of clematis flammula into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[clematis-alpina]]
+- [[clematis-integrifolia]]
+- [[clematis-recta]]
+- [[clematis-tangutica]]
+- [[clematis-vitalba]]

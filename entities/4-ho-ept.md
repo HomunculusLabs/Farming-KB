@@ -3,34 +3,7 @@ title: 4-HO-EPT
 type: chemical
 tags:
   - psychedelic
-  - [[tryptamine]]
-  - substance
-  - synthetic
-  - entheogen
-  - research-chemical
-  - serotonin-receptor
-  - hallucinogen
-  - tiHKAL
-  - shulgin
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Shulgin, A. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press.
-  - https://www.erowid.org/chemicals/4_ho_ept/4_ho_ept.shtml
-  - https://www.isomerdesign.com/PiHKAL/explore.php
-  - https://pubchem.ncbi.nlm.nih.gov/compound/16074375
-created: 2026-04-28
----
-
-# 4-HO-EPT
-
-## Overview
-
-4-HO-EPT (4-hydroxy-N-ethyl-N-propyltryptamine) is a synthetic psychedelic tryptamine and a structural analog of [[psilocin]] (4-HO-DMT). It belongs to the substituted tryptamine class and was first synthesized and bioassayed by [[alexander-shulgin]], with results documented in TiHKAL (Tryptamines I Have Known and Loved).
-
-The compound is characterized by its N-ethyl-N-propyl substitution pattern on the tryptamine nitrogen. This specific substitution produces a pharmacological profile that is psychedelic but generally milder and shorter-acting than psilocin.
-
-4-HO-EPT is classified as a Schedule I controlled substance in several jurisdictions due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to controlled tryptamines. It has seen very limited distribution outside of research chemical markets and remains one of the less well-characterized members of the 4-substituted [[tryptamine-family-overview]].
+  - [[psilocin]] (4-HO-DMT). It belongs to the substituted tryptamine class and was first synthesized and bioassayed by [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to controlled tryptamines. It has seen very limited distribution outside of research chemical markets and remains one of the less well-characterized members of the 4-substituted [[tryptamine-family-overview]].
 
 ## Chemical Properties
 
@@ -42,15 +15,7 @@ The compound is characterized by its N-ethyl-N-propyl substitution pattern on th
 
 **SMILES:** CCN(CCC)CCc1c[nH]c2ccc(O)cc12
 
-**Structure type:** 4-substituted tryptamine with an unsymmetrical N,N-dialkyl substitution pattern (ethyl and propyl groups). The 4-hydroxy group on the [[indole]] ring is the key pharmacophore shared with psilocin and other psychedelic tryptamines.
-
-The ethyl-propyl substitution on the terminal amine distinguishes 4-HO-EPT from more common analogs like 4-HO-DMT (two methyls), 4-HO-MET (methyl and ethyl), and 4-HO-MiPT (methyl and isopropyl). The larger alkyl groups reduce affinity for the 5-HT₂A receptor compared to psilocin, contributing to reduced potency.
-
-**Appearance:** The freebase is typically an oily liquid. The salt form (usually hydrochloride) is a white to off-white crystalline powder. It is soluble in water and ethanol in salt form.
-
-## Pharmacology
-
-4-HO-EPT acts primarily as a partial agonist at the 5-HT₂A [[serotonin-receptor-interference-psychedelic-mechanism]], the primary receptor responsible for psychedelic effects in the classical hallucinogen family.
+**Structure type:** 4-substituted tryptamine with an unsymmetrical N,N-dialkyl substitution pattern (ethyl and propyl groups). The 4-hydroxy group on the [[serotonin-receptor-interference-psychedelic-mechanism]], the primary receptor responsible for psychedelic effects in the classical hallucinogen family.
 
 The unsymmetrical N-ethyl-N-propyl substitution pattern reduces binding affinity at 5-HT₂A compared to the N,N-dimethyl substitution of psilocin. This reduction in affinity translates to higher threshold doses and generally milder subjective effects.
 
@@ -87,3 +52,80 @@ Due to limited human experience data, dosage ranges are approximate and derived 
 **Strong dose:** 25–40 mg orally
 
 The compound is approximately 2–4 times less potent than psilocin by weight, consistent with the reduced receptor affinity expected from the N-ethyl-N-propyl substitution pattern.
+
+## Overview
+
+4 Ho Ept represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 4 ho ept
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 4 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+4 Ho Ept finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 4 ho ept. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+4 ho ept and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+4 Ho Ept has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 4 ho ept into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

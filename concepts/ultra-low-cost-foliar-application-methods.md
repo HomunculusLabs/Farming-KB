@@ -30,35 +30,15 @@ or improving crop health.
 The guide emphasises a dual approach to crop nutrition: "You water and
 supplement with foliar application. Your soil will change completely." The
 JADAM system uses both soil drenching and foliar spraying to deliver
-Jadam Ultra Low Cost [[jadam-microorganism-solution-culturing]] And Soil Foundation (JMS)
-and various liquid fertilisers to crops.
-
-Soil application builds the long-term foundation of soil health, while
-foliar application provides immediate nutrient uptake and direct pest
-control. The two methods complement each other, with soil application
-addressing chronic deficiencies and foliar application handling acute
-needs and pest pressures.
-
-## Foliar Application of JMS
-
-JADAM Microorganism Solution (JMS) can be applied as a foliar spray to
-deliver beneficial microorganisms directly to leaf surfaces. The guide
-notes that JMS applied foliarly can help control [[cervantes-powdery-mildew-prevention-treatment]] and other
+Jadam Ultra Low Cost [[cervantes-powdery-mildew-prevention-treatment]] and other
 fungal diseases. For foliar application, JMS should be diluted over 20
-times and always mixed with [[ultra-low-cost-jadam-natural-pesticide-jnp]]
-(JNP). The JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) is essential for effective foliar
+times and always mixed with [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) is essential for effective foliar
 coverage, ensuring that pesticide and nutrient solutions coat leaves
 evenly and penetrate pest organisms.
 
 The guide emphasises that for foliar application, water must pass the
 JADAM wetting agent test before use. This ensures that the water's
-[[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] is compatible with the active ingredients and that the
-solution will spread properly across leaf surfaces.
-
-## Foliar Application Schedule
-
-The JADAM system uses foliar application as part of a regular crop
-management schedule rather than as a reactive measure. In [[jadam-bongha-village-proof]],
+[[jadam-bongha-village-proof]],
 Korea, JADAM [[jadam-natural-pesticide-institute-and-research]] was applied 4 times per season as foliar
 sprays, costing only 9 dollars per acre for the entire season.
 
@@ -88,3 +68,82 @@ in the JADAM system. Advantages include:
 ## Making Inputs at Home
 
 A core principle of the JADAM foliar system is that all inputs are made
+
+## Overview
+
+Ultra Low Cost Foliar Application Methods represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ultra low cost foliar application methods
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ultra extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ultra Low Cost Foliar Application Methods finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ultra low cost foliar application methods. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ultra low cost foliar application methods and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ultra Low Cost Foliar Application Methods has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ultra low cost foliar application methods into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

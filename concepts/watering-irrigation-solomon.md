@@ -12,61 +12,10 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Gardening When It Counts, [[intensive-planting-spacing]]) works hand-in-hand with his watering philosophy:
-- Wider spacing means each plant has a larger soil volume to draw from
-- Wider spacing allows hoeing for [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] between plants
+Source: Gardening When It Counts, [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] between plants
 - The soil between plants acts as a moisture reservoir
 
-## [[water-wise-vegetable-gardening]], [[garden-bed-preparation]], [[irrigation-systems]], emphasizing proper application rates to avoid nutrient leaching. He considers sprinkler irrigation superior to drip systems for home vegetable gardens when properly designed.
-
-## Soil Particle Water Attraction
-
-The foundation of Solomon's irrigation philosophy is understanding how soil holds water. When you irrigate or when it rains, each soil particle attracts to itself all the water that will stick to it before the force of gravity overcomes this attraction and pulls surplus water deeper into the ground. Thus, the surface few inches of soil can quickly become saturated, while deeper layers may still be dry.
-
-A soil that has absorbed all the water it can hold against the force of gravity is said to be at "field capacity." After saturation has been reached, if more moisture is added, some starts dripping out the bottom. Continuing the irrigation brings layer after layer to field capacity, and the moisture seeps ever deeper. Each and every irrigation also leaches water-soluble plant nutrients out of the surface layers and moves them down to the full depth the water has reached. If you water too long, plant nutrients are moved so far down that vegetables' roots can no longer access them.
-
-## The Wilting Point
-
-The opposite extreme is the "wilting point" - where moisture clings so tenaciously to soil particles that vegetable roots can't extract it. Most vegetable species are not very efficient at extracting moisture from dryish soil and will permanently wilt. Well before soil reaches the permanent wilting point, vegetables being fragile, highly inbred, weakly rooting creatures experience subtle, almost unnoticeable moisture stress. Any stress reduces the quality and amount of production.
-
-## How Much to Water
-
-The goal is to maintain soil moisture above 60 percent of field capacity in the top foot. Gardens should be irrigated after losing about half an inch (1.25 centimeters) of water so as to reduce leaching. Clayey soils growing larger vegetables with two-foot-deep root systems can easily accept 1 to 1.5 inches (2.5 to 4 centimeters) of water without danger of leaching.
-
-The basic plan: replace lost moisture more or less at the rate it is lost, without overwatering (which leaches out soil fertility). All soils lose water at about the same rate because it is not the sun shining on the earth that dries soil out; it is the sun evaporating moisture from plants' leaves.
-
-## Determining When to Water
-
-Check soil moisture at five to six inches below the surface. Take a handful of soil into a ball - the classic ready-to-till test:
-- Damp and sticks together solidly: moisture above 70 percent
-- Moist soil ball sticks together firmly but breaks apart easily: around 70 percent
-- Feels damp but won't form a ball when squeezed hard: around 60 percent
-- Below 60 percent: vegetables are experiencing moisture stress
-
-## Sprinkler System Design
-
-### Testing Application Rate
-
-Most "lawn and garden" sprinklers spread water too fast. It is easy to test any sprinkler for application rate. Set out a few water gauges - empty tin cans or cylinders with straight-up-and-down sides. Put one near the sprinkler, one near the outer limit of its reach, and a couple in between. Run the sprinkler for exactly 20 or 30 minutes, measure the depth of water in each container, and derive the sprinkler's application rate per hour.
-
-Most lawn sprinklers spread well in excess of two inches per hour. Oscillating sprinklers put down two to four inches per hour. These rates cause severe leaching.
-## Practical Considerations
-
-When working with Watering and Irrigation (Solomon), several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+## [[garden-bed-preparation]], [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +37,88 @@ than assuming perfect predictability or control over outcomes.
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
+
+## Overview
+
+Watering Irrigation Solomon represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish watering irrigation solomon
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving watering extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Watering Irrigation Solomon finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for watering irrigation solomon. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+watering irrigation solomon and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Watering Irrigation Solomon has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of watering irrigation solomon into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-watering-techniques-and-frequency]]
+- [[cervantes-moisture-meters-watering-technique]]
+- [[jeavons-watering-technique]]
+- [[vegetable-garden-watering-systems-spacing]]
+- [[vegetable-watering-and-thinning]]

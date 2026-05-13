@@ -43,7 +43,7 @@ Chelates decompose rapidly in low levels of
 ultraviolet light, including light from HID bulbs
 and sunlight. Keep chelates out of light to
 protect them from rapid decomposition. Natural
-chelates such as [[comparison-humic-acid-vs-fulvic-acid]] and [[citric-acid-cycle-tca-krebs-cycle]] can
+chelates such as [[citric-acid-cycle-tca-krebs-cycle]] can
 be added to organic soil mixes.
 
 ## Zinc (Zn) - Mobile
@@ -53,33 +53,11 @@ deficient in arid climates and alkaline soils.
 Zinc works with manganese and magnesium to
 promote enzyme functions, helps form chlorophyll,
 and is essential for stem growth and sugar and
-[[fungal-single-cell-protein-production]]. Deficiencies are most common
-in soils with a pH of 7 or more.
-
-### Deficiency Symptoms
-
-Younger leaves exhibit interveinal chlorosis, and
-new leaves and growing tips develop small, thin
-blades that contort and wrinkle. Leaf tips and
-margins discolor and burn. Flower buds also
-contort into odd shapes, turn crispy dry, and are
-often hard. A lack of zinc stunts overall growth
-including buds.
-
-### Treatment
-
-Flush the [[cervantes-green-algae-growing-medium]] with a diluted mix of a
+[[cervantes-green-algae-growing-medium]] with a diluted mix of a
 complete fertilizer containing chelated trace
 elements, including zinc, iron, and manganese. Or
 add a quality hydroponic micronutrient mix
-containing chelated [[teaming-with-nutrients-micronutrients-and-trace-elements]].
-
-### Toxicity
-
-Zinc is extremely toxic in excess. Severely toxic
-plants die quickly. Excess zinc interferes with
-iron's ability to function properly and causes an
-[[query-how-to-identify-and-fix-cannabis-iron-deficiency]].
+containing chelated [[query-how-to-identify-and-fix-cannabis-iron-deficiency]].
 
 ## Manganese (Mn) - Immobile
 
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[decomposition]]
-- [[cervantes-rare-micronutrients-boron-cobalt-nickel]]
 - [[lowenfels-nutrients-micronutrients]]
 - [[micronutrients-plant-nutrition]]

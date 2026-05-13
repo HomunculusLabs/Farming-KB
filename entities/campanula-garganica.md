@@ -22,9 +22,7 @@ sources:
 
 Campanula garganica, commonly called the Adriatic bellflower or Gargano harebell, is a low-growing evergreen perennial native to southern Italy. It forms dense mats of toothed, heart-shaped basal foliage topped by star-shaped lavender-blue flowers in summer.
 
-The species is widely cultivated as a [[hamilton-rock-garden-design]] and wall plant, valued for its long bloom period and tolerance of dry, calcareous conditions. Several cultivars have been selected for deeper flower color and compact habit.
-
-Named after the Gargano peninsula in Puglia where it was first described, this species exemplifies the Mediterranean element within the predominantly temperate genus Campanula. Its combination of [[dighton-fungal-drought-tolerance-plant-water-relations]] and ornamental appeal has made it one of the most widely grown alpine bellflowers.
+The species is widely cultivated as a [[dighton-fungal-drought-tolerance-plant-water-relations]] and ornamental appeal has made it one of the most widely grown alpine bellflowers.
 
 ## Taxonomy and Morphology
 
@@ -34,7 +32,7 @@ Named after the Gargano peninsula in Puglia where it was first described, this s
 - Species: C. garganica Guss.
 - Section: Campanula (formerly subgenus Campanula)
 
-Closely related to [[campanula-poscharskyana]] and [[campanula-portenschlagiana]] within the "garganica group" of trailing bellflowers. The group is characterized by procumbent stems, reflexed corolla lobes, and a chromosome base number of x = 17.
+Closely related to [[campanula-portenschlagiana]] within the "garganica group" of trailing bellflowers. The group is characterized by procumbent stems, reflexed corolla lobes, and a chromosome base number of x = 17.
 
 Some botanists have treated Campanula garganica as part of a polymorphic complex that includes several southeastern European taxa. Chromosome studies by Kovanda (1970) clarified the distinctness of the Italian diploid populations (2n = 34) from related tetraploids in the Balkans.
 
@@ -46,7 +44,7 @@ Some botanists have treated Campanula garganica as part of a polymorphic complex
 - Blooming period: June through August, sometimes continuing into September
 - Fruit: Erect, ovoid capsule dehiscing by three basal pores
 
-The reflexed, sharply pointed corolla lobes distinguish it from the similar Campanula poscharskyana, which has more open, funnel-shaped flowers with less reflexed lobes.
+The reflexed, sharply pointed corolla lobes distinguish it from the similar [[campanula-poscharskyana]], which has more open, funnel-shaped flowers with less reflexed lobes.
 
 ## Distribution and Habitat
 
@@ -56,13 +54,7 @@ Grows naturally on limestone cliffs, rock crevices, dry stone walls, and scrubby
 
 The species thrives in Mediterranean-mountain conditions with hot, dry summers and mild, moist winters. It is adapted to drought by its deep root system and evergreen foliage that can become semi-dormant during extended dry periods.
 
-Populations in Sicily tend to grow at slightly higher elevations than those on the Gargano promontory, reflecting cooler and wetter montane conditions. Despite its limited native range, the species shows modest morphological [[psilocybin-psilocin-variation-across-flushes]] its disjunct populations.
-
-Campanula garganica is classified as Least Concern by IUCN criteria due to its stable populations within protected areas. The Gargano National Park encompasses much of its primary habitat.
-
-## Cultivation
-
-Campanula garganica is a popular rock garden and container plant in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is hardy to USDA zones 5–8 and RHS hardiness rating H5 (−10 to −15 °C).
+Populations in Sicily tend to grow at slightly higher elevations than those on the Gargano promontory, reflecting cooler and wetter montane conditions. Despite its limited native range, the species shows modest morphological [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is hardy to USDA zones 5–8 and RHS hardiness rating H5 (−10 to −15 °C).
 
 **Growing requirements:**
 - Soil: Well-drained, alkaline to neutral loam or gritty substrate

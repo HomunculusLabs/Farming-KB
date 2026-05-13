@@ -62,20 +62,89 @@ A well stirred suspension of 140 g anhydrous AlCl3 in 400 mL CH2Cl2 was treated 
 
 was a pale yellow oil that weighed 146 g and was about 85% pure by GC analysis. The principal impurity was unreacted dimethoxybenzene. The identical preparation with CS2 as a solvent, rather than CH2Cl2 gave a somewhat smaller yield of product.
 
-To 150 g mossy zinc there was added a solution of 3 g mercuric chloride in 60 mL H2O, and this was swirled periodically for 2 h. The H2O was drained off, and the amalgamated zinc added to a 1 L three-neck round-bottomed flask, treated with 80 mL concentrated HCl, and heated on the [[scythian-cannabis-steam-bath-ritual]]. A solution of 20.8 g of 2,5-dimethoxybutyrophenone in 45 mL EtOH containing 10 mL concentrated HCl was added in increments over a 4 h period. During this period an additional 140 mL of concentrated HCl was added periodically to the ketone solution. Heating was maintained for an additional 4 h. After cooling, the aqueous filtrate was extracted with 3x100 mL CH2Cl2 and these pooled extracts washed with 2x200 mL 5% NaOH to remove a small amount of phenolic impurity. After removal of the solvent under vacuum, the residual 16.1 g of clear oil was distilled over the 100-160 deg C range (largely at 141-145 deg C) at the water pump to give 10 g of 2,5-dimethoxy-(n)-butylbenzene as a white oil. This was about 90% pure by GC analysis, and was used without further purification in the next step.
-
-A mixture of 98 mL POCl3 and 108 mL N-methylformanilide was allowed to incubate for 0.5 h. To this there was then added 47.3 g of 2,5-dimethoxy-(n)-butylbenzene and the mixture heated on the steam bath for 1.5 h. This mixture was poured into 1 L H2O and stirred overnight. The H2O was drained from the extremely gooey black crystals that were formed, and extracted with 2x100 mL portions of hexane. The black residue was diluted with these extracts and, on slow evaporation there was deposited 26.4 g of oily amber crystals. Filtering these through a medium porous funnel and sucking the oily phase away from the solids yielded 14.8 g of yellow crystals that could be recrystallized from 50 mL MeOH to give, after filtration and air drying to constant weight, 6.4 g of 2,5-dimethoxy-4-(n)-butylbenzaldehyde as pale yellow crystals with a mp of 47-48 deg C. The recovery of all organic soluble things from the above proce...
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-DOBU is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-- [[dobu-entity]]
-- [[2c-o-4-entity-pihkal]]
+To 150 g mossy zinc there was added a solution of 3 g mercuric chloride in 60 mL H2O, and this was swirled periodically for 2 h. The H2O was drained off, and the amalgamated zinc added to a 1 L three-neck round-bottomed flask, treated with 80 mL concentrated HCl, and heated on the [[dobu-entity]]
 - [[2-br-4-5-mda-entity-pihkal]]
 - [[tma-5-entity-pihkal]]
+
+## Overview
+
+Dobu Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dobu entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dobu extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dobu Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dobu entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dobu entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dobu Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dobu entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]

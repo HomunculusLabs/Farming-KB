@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Water-wise gardening is an approach that reduces water consumption while maintaining a productive and attractive garden. Even [[query-how-to-grow-and-use-oca-in-temperate-climates]], periods of drought are becoming more common, and designing gardens that can withstand dry conditions is increasingly important. In the [[comparison-vermicomposting-vs-composting-organic-garden]], water conservation goes hand in hand with soil building -- healthy soils hold more water and support plants that are more drought-resistant.
+Water-wise gardening is an approach that reduces water consumption while maintaining a productive and attractive garden. Even [[comparison-vermicomposting-vs-composting-organic-garden]], water conservation goes hand in hand with soil building -- healthy soils hold more water and support plants that are more drought-resistant.
 
 ## Principles of Water-Wise Gardening
 
@@ -22,28 +22,15 @@ Soil with high organic matter content holds significantly more water than deplet
 
 ### Mulch Heavily
 
-Mulch is the single most effective water conservation tool. A 3-4 inch layer of organic mulch (straw, leaves, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], compost) reduces evaporation by up to 70%, suppresses weed competition for water, and moderates soil temperature. In hot weather, unmulched soil can reach lethal temperatures for plant roots.
-
-### Choose Appropriate Plants
-
-Select plants adapted to dry conditions. Many beautiful garden plants are naturally drought-tolerant once established:
-- **Sedum** (ice plant): Succulent leaves, flat flower heads that attract butterflies
-- **Lavender** (Lavandula): Aromatic, thrives in well-drained soil
-- **Rosemary** ([[rosmarinus-officinalis-entity]]): Attractive shrub, thrives in well-drained soil
+Mulch is the single most effective water conservation tool. A 3-4 inch layer of organic mulch (straw, leaves, [[rosmarinus-officinalis-entity]]): Attractive shrub, thrives in well-drained soil
 - **Yarrow** (Achillea filipendulina): Grows particularly well in chalky, well-drained soils
 - **Cotoneaster**: Drought-tolerant once established; berries attract birds
-- **Periwinkle** ([[vinca-minor]]): [[fukuoka-citrus-orchard-ground-cover-cultivation]] that tolerates dry shade
+- **Periwinkle** ([[fukuoka-citrus-orchard-ground-cover-cultivation]] that tolerates dry shade
 - **Hosta**: Once established, the large leaves shade the soil surface
 
 ### Water Deeply and Infrequently
 
-Frequent light watering encourages shallow root systems that are vulnerable to drought. Deep, infrequent watering encourages roots to grow deep into the soil profile where moisture is more consistent. Water at the base of plants, not overhead, to reduce evaporation and prevent [[duggar-mushroom-insect-pests-and-fungal-diseases]].
-
-### Reduce Watering Needs Through Design
-
-- **Group plants by water need**: Put thirsty plants together near water sources; drought-tolerant plants in drier areas
-- **Create shade**: Use trees, structures, and taller plants to shade smaller, more vulnerable plants
-- **Reduce lawn area**: Lawns are the most water-intensive element of most gardens. Replace with drought-tolerant [[permaculture-plants-food-forest-ground-covers-bamboos]], wildflower meadows, or productive gardens
+Frequent light watering encourages shallow root systems that are vulnerable to drought. Deep, infrequent watering encourages roots to grow deep into the soil profile where moisture is more consistent. Water at the base of plants, not overhead, to reduce evaporation and prevent [[permaculture-plants-food-forest-ground-covers-bamboos]], wildflower meadows, or productive gardens
 - **Use windbreaks**: Wind accelerates evaporation; windbreaks reduce water loss
 - **Capture rainwater**: Install rain barrels and tanks on all downspouts
 
@@ -118,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[drought-gardening]]
 - [[doc]]
-- [[irrigation-systems]]
 - [[water-conservation]]
 - [[composting]]

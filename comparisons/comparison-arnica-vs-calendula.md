@@ -12,18 +12,7 @@ sources:
 ## Overview
 
 Arnica (*Arnica montana*) and calendula (*Calendula officinalis*) are two of
-the most widely used topical [[permaculture-plants-medicinal-herbs-healing]] in Western herbalism. Both belong
-to the Asteraceae family and share overlapping anti-inflammatory properties,
-yet they serve distinctly different purposes. Arnica excels at treating
-bruises, muscle soreness, and trauma-induced swelling, while calendula
-shines in wound healing, skin repair, and general dermatological care.
-Understanding their differences helps herbalists and gardeners choose the
-right plant for each situation, and both earn a place in any home herb
-garden or herbal first-aid kit.
-
-## Arnica
-
-[[arnica-montana]]
+the most widely used topical [[arnica-montana]]
 
 Arnica montana is a perennial herb native to the mountainous meadows of
 central and southern Europe, growing at elevations of 600 to 2,800 meters.
@@ -51,10 +40,7 @@ practical to purchase dried flowers or prepared extracts.
 
 ## Calendula
 
-[[calendula-officinalis]]
-
-Calendula officinalis, commonly called pot marigold, is an annual or
-short-lived perennial that is one of the easiest medicinal [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]].
+[[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]].
 It thrives across USDA Zones 2 through 11, tolerating a wide range of
 soil types and blooming prolifically from spring through fall. The vibrant
 orange and yellow flower petals are rich in triterpenoid saponins
@@ -65,47 +51,8 @@ Calendula's primary medicinal action is promoting wound healing through
 stimulation of fibroblast proliferation, collagen synthesis, and
 angiogenesis. It also exhibits anti-inflammatory activity by inhibiting
 COX-2 and iNOS pathways, along with broad-spectrum antimicrobial activity
-against Staphylococcus aureus, E. coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. Unlike
-arnica, calendula is safe for both topical and internal use. The petals are
-edible, commonly added to salads, soups, and teas, and calendula tea is
-used internally for digestive support and lymphatic stimulation.
-
-Beyond medicine, calendula serves as an excellent companion plant. Its
-[[mycorrhizal-root-exudates-pathogen-interactions]] have nematicidal properties, its flowers attract pollinators
-and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and it acts as a trap crop for aphids. This
-multi-functionality makes it one of the most valuable plants in a
-permaculture garden.
-
-## Key Differences
-
-| Aspect | Arnica | Calendula |
-|--------|--------|-----------|
-| **Plant type** | Perennial | Annual (short-lived perennial) |
-| **Key compounds** | Helenalin (sesquiterpene lactone) | Triterpenoids, flavonoids, carotenoids |
-| **Primary use** | Bruises, muscle soreness, swelling | Wound healing, skin repair, rashes |
-| **Internal safety** | Toxic if ingested | Edible and safe internally |
-| **Anti-inflammatory** | NF-kB pathway inhibition | COX-2 and iNOS inhibition |
-| **Wound healing** | Limited | Strong (fibroblast stimulation) |
-| **Cultivation** | Difficult; needs acidic alpine soil | Very easy; grows almost anywhere |
-| **Companion plant** | No | Yes (pest deterrent, pollinator attractor) |
-| **Edible** | No | Yes (petals in food and tea) |
-| **Conservation status** | Critically endangered in wild | Widely naturalised; not at risk |
-
-## When to Choose Arnica
-
-Arnica is the herb of choice for trauma and deep-tissue inflammation. Reach
-for arnica when dealing with fresh bruises, sprains, strains, and
-postoperative or post-workout swelling. Arnica gel or cream applied
-shortly after injury can significantly reduce bruise severity and recovery
-time. Athletes and manual labourers often keep arnica preparations on hand
-for muscle aches and joint stiffness. It is also effective for insect bites
-that cause significant localised swelling. Arnica tincture diluted in water
-makes an excellent compress for acute injuries.
-
-## When to Choose Calendula
-
-Calendula is the better choice for open wounds, burns, rashes, and
-ongoing [[cannabis-for-skin-conditions-detailed]]. Its wound-healing properties make it ideal for
+against Staphylococcus aureus, E. coli, and [[mycorrhizal-root-exudates-pathogen-interactions]] have nematicidal properties, its flowers attract pollinators
+and [[cannabis-for-skin-conditions-detailed]]. Its wound-healing properties make it ideal for
 cuts, scrapes, abrasions, minor burns, and post-surgical incision care.
 Calendula salve or cream soothes diaper rash, eczema, dermatitis, and
 radiation burns in cancer patients. Because it is antimicrobial, calendula
@@ -126,9 +73,78 @@ rewarded with a renewable supply of this valuable medicinal flower.
 
 ## See Also
 
-- [[comparison-mullein-vs-calendula]]
-
 - [[comparison-calendula-vs-chamomile]]
-- [[comparison-elderberry-vs-echinacea]]
 - [[calendula-officinalis]]
 - [[st-johns-wort-guide]]
+
+## Overview
+
+Comparison Arnica Vs Calendula represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison arnica vs calendula
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Arnica Vs Calendula finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison arnica vs calendula. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison arnica vs calendula and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Arnica Vs Calendula has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison arnica vs calendula into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -4,7 +4,7 @@ created: 2026-05-08
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
-    title: The One-Straw Revolution - [[masanobu-fukuoka]]
+    title: The One-Straw Revolution - masanobu-fukuoka
     author: Masanobu Fukuoka
 updated: 2026-05-08
 type: concept
@@ -15,10 +15,7 @@ tags: [reference]
 ## Two Kinds of Natural Farming
 
 Fukuoka distinguished between two fundamentally different approaches
-[[fukuoka-organic-to-natural-farming-transition]]. The first he called broad, transcendent natural
-farming; the second, the narrow natural farming of the relative
-world. In Buddhist terms, these correspond respectively to Mahayana
-and [[fukuoka-mahayana-and-hinayana-natural-farming]] farming. The distinction is not merely
+[[fukuoka-mahayana-and-hinayana-natural-farming]] farming. The distinction is not merely
 philosophical but has profound practical implications for how a
 farmer relates to the land.
 
@@ -56,11 +53,7 @@ seeks no victory. Putting "doing nothing" into practice is the one
 thing the farmer should strive to accomplish. Lao Tzu spoke of
 non-active nature, and Fukuoka believed that if Lao Tzu were a
 farmer he would practice natural farming. Gandhi's way -- a
-[[mahayana-natural-farming]] goes further by
-questioning whether the farmer needs to do anything at all, beyond
-simply being present and allowing nature to express itself.
-
-The connection between spiritual practice [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] is
+[[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] is
 reflected in the visitors Fukuoka received. Religious groups came to
 take up natural farming because, in seeking the essential nature of
 human beings, one must begin with the consideration of health. The
@@ -74,15 +67,7 @@ distinctions among Christianity, Buddhism, Shinto, and other
 religions. But it intrigued him that people of deep religious
 conviction were attracted to his farm. He attributed this to the
 fact that natural farming is based on a philosophy that penetrates
-beyond considerations of soil analysis, pH, [[fukuoka-natural-farming]] yields.
-
-## The Philosophy Beyond Techniques
-
-Fukuoka noted that natural farming, unlike other types of farming,
-is based on a philosophy that penetrates beyond considerations of
-soil analysis, pH, and harvest yields. People of deep religious
-conviction were attracted to his farm not because of his techniques
-but because of this [[fukuoka-spiritual-philosophical-foundation]]. The path that leads
+beyond considerations of soil analysis, pH, [[fukuoka-spiritual-philosophical-foundation]]. The path that leads
 to right awareness involves living each day straightforwardly and
 growing and eating wholesome, natural food.
 
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[doc]]
-- [[dom]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]

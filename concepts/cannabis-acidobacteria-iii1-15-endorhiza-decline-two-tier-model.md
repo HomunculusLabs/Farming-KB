@@ -27,24 +27,7 @@ related:
 The dramatic decline of Acidobacteria (order iii1-15) in the cannabis
 endorhiza is one of the most statistically robust findings from Winston
 et al. (2014) and provides compelling empirical support for the two-tier
-selection model of plant-microbiome assembly. As [[cannabis-endorhiza-bacterial-communities]]
-transition from bulk soil through the rhizosphere and into the
-endorhiza, Acidobacteria are progressively filtered out while
-Proteobacteria and Actinobacteria increase in relative abundance.
-
-## The Two-Tier Selection Model
-
-The two-tier model proposes hierarchical filtering of root-associated
-microbial communities:
-
-1. **First tier — rhizodeposit filtration:** Bulk soil communities are
-   passively filtered by root exudates, enriching copiotrophic taxa
-   capable of rapid growth on labile carbon sources.
-
-2. **Second tier — host genotype-dependent selection:** The plant host
-   exerts active, genotype-specific selection on communities entering
-   the endosphere via immune surveillance, mucilage composition, and
-   intracellular [[plant-signaling-pathways]].
+selection model of plant-microbiome assembly. As [[plant-signaling-pathways]].
 
 A central prediction is a **dramatic reduction in Acidobacteria within
 the endosphere**, driven by their oligotrophic physiology being
@@ -113,40 +96,17 @@ sources — outcompete Acidobacteria in these carbon-rich niches.
 
 ## Cross-Species Conservation
 
-This pattern is not unique to cannabis. [[acidobacteria-decline-rhizosphere-endorhiza-transition]] from bulk
-soil through rhizosphere to endosphere has been documented in:
-
-- **[[arabidopsis-thaliana]]:** Strong depletion of bulk soil Acidobacteria
-  in root endosphere with [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]].
-- **Populus spp.:** Similar compartment shifts across multiple
-  genotypes and soil types.
-- **Other systems:** Maize, rice, wheat, and various legumes display
-  this conserved trajectory.
-
-Replication across phylogenetically diverse hosts suggests the two-tier
-model represents a general principle of root microbiome assembly, with
-Acidobacteria decline as a reliable filtering intensity indicator.
-
-## Implications
-
-1. **Compartment definition is critical:** Conflating rhizosphere and
-   endorhiza risks masking the two-tier selection signal.
-2. **Acidobacteria as a benchmark:** Consistent decline can serve as
-   an internal quality control for compartment separation.
-3. **Breeding potential:** Genotype-dependent second-tier selection
-   means breeding could modulate endophytic filtering stringency.
-
-
-
+This pattern is not unique to cannabis. [[arabidopsis-thaliana]]:** Strong depletion of bulk soil Acidobacteria
+  in root endosphere with [[cannabis-asthma-research]]
+- [[cannabis-beta-caryophyllene-food-based-cannabinoid]]
+- [[cannabis-endorniza-microbiome]]
+- [[cannabis-herpes-treatment]]
+- [[cannabis-menopause-research]]
 
 ## See Also
 
-- [[cannabis-microbiome-alpha-diversity-gradient]]
-- [[cannabis-ocd-research]]
-- [[cannabis-ptsd-research]]
-- [[cannabis-rhizosphere-microbiome-zonation]]
-- [[cannabis-sativa-indica-classification]]
-- [[cannabis-sativa-landrace-varieties]]
-- [[cannabis-sleep-disorders]]
+- [[cannabis-spiritual-use]]
+- [[cannabis-strain-lemonator]]
+- [[cannabis-strain-trainwreck-history-genetics]]
 - [[cannabis-sulfur-nutrient]]
-- [[cannabis-weighted-unifrac-strain-abundance-vs-presence-absence]]
+- [[cannabis-tbi-research]]

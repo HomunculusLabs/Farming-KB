@@ -108,13 +108,8 @@ The species is classified as Near Threatened due to habitat loss from urban expa
 
 ## See Also
 
-- [[gladiolus-communis]]
 - [[crocosmia-lucifer]]
-- [[freesia-refracta]]
 - [[dietes-grandiflora]]
-- [[iris-germanica]]
 - [[sisyrinchium-angustifolium]]
-- [[crocus-sativus]]
 - [[tigridia-pavonia]]
-- [[iris-pseudacorus]]
 - [[iris-versicolor]]

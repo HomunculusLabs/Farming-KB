@@ -26,15 +26,9 @@ soil fertility, and overall farm productivity.
 ## Core Concept
 
 The integration of leguminous trees into pasture achieves multiple functions
-that conventional open pasture cannot provide. Shade trees reduce [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
-on livestock during hot seasons, which directly improves weight gain, milk
-production, and reproductive performance. The leguminous trees fix atmospheric
-nitrogen through symbiotic [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] with rhizobial bacteria,
-enriching the soil and boosting [[mollison-designers-tropical-pasture-grass-species-and-establishment]] growth beneath the canopy.
-Many species also produce edible fodder, fuelwood, timber, and nectar for
-[[gaias-garden-stacking-functions]]
-in [[pasture-management]] and
-[[silvopasture-systems]], [[nitrogen-fixing-trees-and-shrubs]], fodder   systems, pasture improvement, agroforestry design
+that conventional open pasture cannot provide. Shade trees reduce [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] with rhizobial bacteria,
+enriching the soil and boosting [[gaias-garden-stacking-functions]]
+in [[silvopasture-systems]], [[nitrogen-fixing-trees-and-shrubs]], fodder   systems, pasture improvement, agroforestry design
 ## Practical Applications
 
 Legume Shade Tree Pasture Systems has a range of practical applications that make it relevant to

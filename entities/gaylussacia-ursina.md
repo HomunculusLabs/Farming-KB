@@ -38,9 +38,7 @@ Gaylussacia ursina is an erect, deciduous shrub typically growing 30–90 cm tal
 
 New stems and leaf undersurfaces are densely covered with sticky, resinous glandular hairs, a characteristic that distinguishes G. ursina from most other Gaylussacia species. These glandular trichomes give the foliage a slightly tacky texture and a resinous aroma when bruised. The glands secrete a sticky substance that may deter herbivorous insects.
 
-The glandular pubescence is most pronounced on new growth and young leaves, becoming less dense as foliage matures through the [[savory-growing-season-and-non-growing-season-management]]. Under magnification, the glands appear as small, spherical, translucent structures on short stalks. This distinctive trait allows confident field identification even without flowers or fruit.
-
-Leaves are alternate, simple, obovate to elliptic, 3–7 cm long and 1.5–3.5 cm wide, with finely serrulate margins. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glabrous, while the lower surface is paler green with a prominent midrib and reticulate venation. Autumn leaf color is typically deep red to scarlet, making the species ornamental in fall landscapes.
+The glandular pubescence is most pronounced on new growth and young leaves, becoming less dense as foliage matures through the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glabrous, while the lower surface is paler green with a prominent midrib and reticulate venation. Autumn leaf color is typically deep red to scarlet, making the species ornamental in fall landscapes.
 
 Leaf arrangement on the stem is often crowded toward the branch tips, creating a dense, tufted appearance. The petioles are short, 2–4 mm, and also bear glandular hairs. Bud scales are reddish and pubescent, overwintering in a distinctive tiered arrangement.
 
@@ -60,7 +58,7 @@ Elevational distribution follows a pattern typical of southern Appalachian endem
 
 Habitats include acidic, well-drained soils on rocky slopes, ridges, mountain balds, and openings in high-elevation oak-heath and spruce-fir forests. The species is strongly associated with exposed, acidic substrates derived from sandstone, quartzite, and granitic rocks. It tolerates thin, nutrient-poor soils that would be inhospitable to many other shrub species.
 
-Common woody associates include mountain laurel (Kalmia latifolia), rosebay rhododendron (Rhododendron maximum), great laurel (Rhododendron catawbiense), and flame azalea (Rhododendron calendulaceum). In spruce-fir forests, it grows alongside red spruce (Picea rubens) and Fraser fir (Abies fraseri). The herbaceous layer typically includes ferns, mosses, and other acid-loving species.
+Common woody associates include mountain laurel ([[kalmia-latifolia]]), rosebay rhododendron (Rhododendron maximum), great laurel (Rhododendron catawbiense), and flame azalea (Rhododendron calendulaceum). In spruce-fir forests, it grows alongside red spruce (Picea rubens) and Fraser fir (Abies fraseri). The herbaceous layer typically includes ferns, mosses, and other acid-loving species.
 
 ## Ecology and Interactions
 
@@ -76,7 +74,7 @@ Passage of seeds through the digestive tract of mammals and birds enhances germi
 
 The resinous glandular hairs on the foliage may serve a defensive function against herbivorous insects and browsing mammals. The sticky exudate can trap small insects, and the resinous compounds may be distasteful to generalist herbivores. Despite these defenses, the foliage is occasionally browsed by white-tailed deer, particularly in winter when other food sources are scarce.
 
-Root systems of Gaylussacia species are typically shallow and fibrous, forming associations with [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi. These fungal symbionts enhance [[plant-nutrient-uptake-mechanisms]], particularly nitrogen and phosphorus, from the acidic, nutrient-poor soils that G. ursina inhabits. The mycorrhizal association is essential for the species' survival in its native habitats and limits its cultivation potential outside of acidic soil conditions.
+Root systems of Gaylussacia species are typically shallow and fibrous, forming associations with [[plant-nutrient-uptake-mechanisms]], particularly nitrogen and phosphorus, from the acidic, nutrient-poor soils that G. ursina inhabits. The mycorrhizal association is essential for the species' survival in its native habitats and limits its cultivation potential outside of acidic soil conditions.
 
 Fire ecology plays an important role in maintaining G. ursina populations. The species resprouts vigorously from its woody root crown after fire, and periodic burning can reduce competition from taller woody species and promote berry production. Suppression of natural fire regimes in the southern Appalachians may be contributing to reduced vigor in some populations.
 

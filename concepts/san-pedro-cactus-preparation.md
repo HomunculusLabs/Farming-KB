@@ -11,16 +11,16 @@ sources: []
 
 ## Overview
 
-[[trichocereus-pachanoi]], commonly known as San Pedro, is a columnar cactus native to the Andes mountains of Ecuador, Peru, and Bolivia. It has been used in traditional healing ceremonies for at least 3,000 years — ceramic effigies from the Chavín culture (circa 1300 BCE) clearly depict the cactus. Its primary psychoactive alkaloid is mescaline, a phenethylamine that produces visual hallucinations, altered thought patterns, and empathogenic effects.
+Trichocereus pachanoi, commonly known as San Pedro, is a columnar cactus native to the Andes mountains of Ecuador, Peru, and Bolivia. It has been used in traditional healing ceremonies for at least 3,000 years — ceramic effigies from the Chavín culture (circa 1300 BCE) clearly depict the cactus. Its primary psychoactive alkaloid is mescaline, a phenethylamine that produces visual hallucinations, altered thought patterns, and empathogenic effects.
 
-San Pedro is one of the most widely cultivated entheogenic cacti, valued for its fast growth, relative ease of cultivation, and potency comparable to peyote (though [[gottlieb-peyote-botany-and-mescaline-content]] varies significantly between specimens).
+San Pedro is one of the most widely cultivated entheogenic cacti, valued for its fast growth, relative ease of cultivation, and potency comparable to peyote (though mescaline content varies significantly between specimens).
 
 ## Species Identification
 
 Several Trichocereus species contain mescaline and are used similarly:
 
 - **T. pachanoi** (San Pedro) — most common, fastest growing
-- **T. peruvianus** ([[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]) — generally considered more potent
+- **T. peruvianus** (Peruvian Torch) — generally considered more potent
 - **T. bridgesii** (Bolivian Torch) — distinct alkaloid profile, potentially more potent
 - **T. macrogonus** — often considered a variant of T. peruvianus
 - **T. terscheckii** (Argentine Saguaro) — very large, lower mescaline content
@@ -117,7 +117,7 @@ San Pedro is exceptionally easy to grow from cuttings:
 3. Do not water until roots form (2–6 weeks)
 4. Once rooted, water thoroughly then allow soil to dry completely between waterings
 5. Provide full sun to partial shade
-6. Fertilize lightly during the [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] low-nitrogen cactus fertilizer
+6. Fertilize lightly during the growing season with low-nitrogen cactus fertilizer
 7. Growth rate: 30–60 cm per year under good conditions
 
 See [[psychedelic-plants-indoor-growing]] for detailed indoor cultivation guidance.
@@ -125,10 +125,10 @@ See [[psychedelic-plants-indoor-growing]] for detailed indoor cultivation guidan
 ## Safety Considerations
 
 - Mescaline is a powerful psychedelic — set, setting, and a trusted sitter are essential
-- People with heart conditions, schizophrenia, or [[blesching-cannabis-bipolar-disorder]] should avoid mescaline
+- People with heart conditions, schizophrenia, or bipolar disorder should avoid mescaline
 - Do not combine with MAOIs, SSRIs, or other serotonergic substances
 - San Pedro cactus is legal to grow in many jurisdictions but consuming it for its mescaline content may be illegal — see [[psychedelic-plants-legal-status]]
-- See also [[mescaline-extraction-guide]] for laboratory-grade [[arbuscular-mycorrhizal-spore-extraction-methods]]
+- See also [[mescaline-extraction-guide]] for laboratory-grade extraction methods
 
 ## Related Topics
 

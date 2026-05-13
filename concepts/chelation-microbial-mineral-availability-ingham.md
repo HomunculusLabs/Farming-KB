@@ -13,17 +13,7 @@ plant-available.
 ## What Is Chelation
 
 Chelation is a chemical process where an organic molecule (a chelating agent)
-binds to a [[fungal-metal-ion-resistance-mechanisms]], forming a complex that neutralizes the ion's positive
-charge. The term comes from the Greek word "chele," meaning claw, reflecting how
-the organic molecule wraps around the mineral ion like a pincer. In soil, the
-chelation process removes the positive charge from metal cations such as iron,
-calcium, magnesium, zinc, copper, and manganese, allowing the now-neutral or
-slightly negatively charged chelated molecule to slide through the pores on leaf
-surfaces (stomata) and root surfaces far more rapidly.
-
-Any biological cell has a net negative charge on its membrane surface. A
-positively charged cation therefore has difficulty getting through the leaf
-surface, either through stomata or through individual [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. In order to
+binds to a [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. In order to
 speed uptake, cations need to be neutralized, and the typical biological way to
 do this is to attach the cation to a protein molecule. This process requires
 active, living biology to perform the chelation step.
@@ -34,26 +24,7 @@ Microbes do much of the work of chelating mineral elements in soil. Bacteria and
 fungi need chelated minerals in order to move them into their own cells, so they
 perform a significant amount of chelation of charged materials. The microbes
 chelate minerals before the passage through a membrane can happen. Often the
-microbes provide the proteins or [[cho-fish-amino-acid-preparation]] molecules to do the process of
-chelation, as well as doing the physical work to chelate.
-
-As Ingham explains, without the chelating agent produced by microbes, mineral
-materials would not cross cell membranes. This means that in soils depleted of
-microbial life, many mineral nutrients remain locked in the soil matrix even
-though they are physically present. The minerals are there, but plants cannot
-access them because the biological chelation machinery is absent.
-
-## Chelated vs. Unchelated Minerals
-
-Chelated minerals are less likely to leach and less likely to harm plants than
-non-chelated nutrients. When chelated, the mineral is held in a stable organic
-complex that protects it from reacting with soil components that might render it
-unavailable. Unchelated minerals exist as free ions prone to several fates:
-
-- **Precipitation**: Unchelated minerals can react with other soil components to
-  form insoluble compounds (e.g., iron precipitates with phosphorus).
-- **Leaching**: Free ions are easily washed through the soil profile by water.
-- **Fixation**: Clay particles and [[hamilton-composting-and-organic-matter-management]] can bind free cations so
+microbes provide the proteins or [[hamilton-composting-and-organic-matter-management]] can bind free cations so
   tightly that plants cannot extract them.
 - **Toxicity**: High concentrations of unchelated minerals can damage plant
   roots through osmotic stress or direct chemical toxicity.
@@ -76,15 +47,7 @@ may leave undesirable residues in plant tissue.
 ## Humic and Fulvic Acids as Natural Chelators
 
 Humic and fulvic acids are among the most important natural chelators in soil.
-These complex organic molecules are produced through the [[actively-aerated-compost-tea]] increases the chelation capacity of soil by
-introducing and multiplying the very organisms that perform chelation. When
-AACT is applied to soil, it delivers living bacteria and fungi that produce
-chelating proteins and amino acids. These organisms continue to multiply in the
-soil as long as conditions remain aerobic and food sources are available,
-steadily increasing the soil's capacity to solubilize and retain mineral
-nutrients.
-
-The enzymes, hormones, and humics that are solubilized during the [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]
+These complex organic molecules are produced through the [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]
 process contribute additional chelating capacity. This is why AACT applied as a
 foliar spray can improve uptake of mineral nutrients through leaf surfaces — the
 chelating agents in the tea help neutralize mineral charges, allowing entry
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[chelated-nutrients]]
 - [[composting]]
-- [[ingham-chelation-microbial-nutrient-processing]]
 - [[aact-microbial-chelation-of-minerals-ingham]]
 - [[microbial-chelation-nutrient-cycling]]

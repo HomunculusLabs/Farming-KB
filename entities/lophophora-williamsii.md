@@ -37,25 +37,12 @@ Kingdom Plantae → Clade Eudicots → Order Caryophyllales → Family Cactaceae
 
 ## Habitat and Distribution
 
-Native to south Texas (Rio Grande Valley, Big Bend) south through the Chihuahuan Desert into [[psychoactive-cacti-of-central-mexico]] (Coahuila, Nuevo León, San Luis Potosí, Tamaulipas, Zacatecas). Found under nurse plants (*Acacia*, *Prosopis*, *Larrea*) in shrubland and thornscrub at 100–1,800 m elevation. Arid to semi-arid; 200–500 mm annual rainfall; extreme temperature variation from freezing winters to 45 °C summers. Limestone-derived, well-drained alkaline soils.
-
-## Bioactive Compounds
-
-### Phenethylamine Alkaloids
-
-- **Mescaline** (1–6% dry weight, avg. 2–4%): Primary psychedelic; 5-HT2A agonist
-- **Anhalonidine** (0.1–0.5%): Synergistic, sedative
-- **Anhalonine** (0.1–0.3%): Synergistic
-- **Pellotine** (0.01–0.1%): Synergistic, hypotensive
-- **Hordenine**: MAO-inhibitory; may prolong alkaloid effects
-- **Tyramine**: Vasoactive amine; hypertensive interaction potential
-
-The full-spectrum alkaloid profile is synergistic — isolated synthetic mescaline produces a qualitatively different experience than whole peyote. The "[[cannabis-terpene-entourage-effect-profiles]]" from minor alkaloids contributes to the distinctive somatic, grounding quality compared to pure mescaline.
+Native to south Texas (Rio Grande Valley, Big Bend) south through the Chihuahuan Desert into [[cannabis-terpene-entourage-effect-profiles]]" from minor alkaloids contributes to the distinctive somatic, grounding quality compared to pure mescaline.
 
 ## Traditional and Ceremonial Use
 
 - **Wixárika (Huichol)**: Central to cosmology; consumed during *hikuri* ceremonies for healing, divination, and communication with ancestral deities; pilgrimage to *Wirikuta* (Sacred Land) for harvest is core religious practice
-- **[[halpern-sacramental-peyote-and-native-american-church]] Church (NAC)**: Sacrament since late 19th century; protected under [[harner-american-indian-peyote-rituals]] Religious Freedom Act (1978, 1994); all-night prayer meetings with peyote, singing, drumming, contemplation
+- **[[harner-american-indian-peyote-rituals]] Religious Freedom Act (1978, 1994); all-night prayer meetings with peyote, singing, drumming, contemplation
 - **Archaeological evidence**: Peyote use dates back at least 5,700 years based on alkaloid residues in coprolites from Shumla Caves, Texas
 
 ## Pharmacology of Mescaline
@@ -72,19 +59,91 @@ Onset 45–120 minutes, come-up 1–2 hours, peak 3–5 hours, total experience 
 
 ### Therapeutic Potential
 
-- **Substance use disorders**: NAC members show very low rates of alcoholism compared to general [[native-american-church-peyote-ceremony-structure-roles-roadman]] populations
-- **[[cannabis-for-ptsd-and-trauma]]**: NAC participants report significant symptom reductions; controlled trials pending
+- **Substance use disorders**: NAC members show very low rates of alcoholism compared to general [[cannabis-for-ptsd-and-trauma]]**: NAC participants report significant symptom reductions; controlled trials pending
 - **Depression/anxiety**: Open-label studies show antidepressant effects persisting weeks after single sessions
-- **Neuroimaging**: fMRI shows decreased [[default-mode-network-and-ego-dissolution]] activity and increased global connectivity, consistent with the entropy model of psychedelic action
-
-## Conservation Status
-
-CITES Appendix II; IUCN Vulnerable (30%+ population decline). Primary threats: illegal harvesting for non-Native recreational use, habitat destruction, [[dighton-fungi-climate-change-feedback]] altering precipitation. Regrowth extremely slow (15+ years to maturity from seed). Some wild populations reduced 50–80% from historic levels.
+- **Neuroimaging**: fMRI shows decreased [[dighton-fungi-climate-change-feedback]] altering precipitation. Regrowth extremely slow (15+ years to maturity from seed). Some wild populations reduced 50–80% from historic levels.
 
 ### Legal Status by Region
 
-- **United States**: Exempt for members of the [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] (AIRFA 1994); Schedule I for all other uses; Texas state-jail felony for possession outside NAC context
-- **Mexico**: Protected species under NOM-059-SEMARNAT-2010; harvest restricted to NAC members and Wixárika with permits; enforcement inconsistent
-- **Canada**: Controlled under the Controlled Drugs and [[controlled-substances-act-and-psychedelic-research]]; Schedule III; exempt for Indigenous ceremonial use under specific conditions
+- **United States**: Exempt for members of the [[controlled-substances-act-and-psychedelic-research]]; Schedule III; exempt for Indigenous ceremonial use under specific conditions
 - **Europe**: Not scheduled in most countries (mescaline itself is scheduled, but not the plant); Germany and some Eastern European nations restrict cultivation
 - **Australia**: Schedule I (mescaline); plant itself is controlled in some states
+
+## Overview
+
+Lophophora Williamsii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lophophora williamsii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lophophora extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lophophora Williamsii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lophophora williamsii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lophophora williamsii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lophophora Williamsii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lophophora williamsii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

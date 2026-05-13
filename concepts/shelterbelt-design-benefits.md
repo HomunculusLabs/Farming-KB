@@ -6,32 +6,7 @@ type: concept
 
 # Shelterbelt Design and Benefits
 
-Shelterbelts (also called windbreaks) are among the most productive elements in [[permaculture-design]]. When properly designed and species-selected, shelterbelts can occupy up to 30% of total site area without reducing crop yields—and if species are chosen to aid the crop, total yield, soil quality, and available moisture all increase.
-
-## Benefits to Housing and Energy
-
-### Heating Fuel Savings
-
-Wind chill factors alone remove approximately 60% of heat from glazed areas and flat plate hot water collectors. A well-designed shelterbelt—including thick vine trellis—around a house can achieve a **20–30% saving in heating fuels** in moderate to severe winters.
-
-### Desert Heat Reduction
-
-In deserts, where advected (wind-carried) heat is the most severe effect on human comfort, shelterbelt trees serve to reduce ground temperatures by up to **15°C**.
-
-### Design Strategy
-
-In cold areas, the critical design strategy combines:
-- Earth banks for immediate thermal mass
-- Shelterbelt for wind reduction
-- Sun-facing aspect for solar gain
-
-## Benefits to Livestock
-
-### Blizzard Protection
-
-Blizzards can kill livestock and newborn lambs. Even hardy, adapted animals can lose **30% of body weight in 3 days** of blizzard conditions. Critical design considerations include:
-
-- **Fence design**: fences must not form downwind or downslope traps, as herds escaping blizzards pile up against [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them|them]] and smother in fenced corners
+Shelterbelts (also called windbreaks) are among the most productive elements in [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them|them]] and smother in fenced corners
 - **Escape routes**: all moorland and high plateau fences should allow easy downwind escape to woodlots, sheltered valleys, or lower elevations
 
 ### Weight and Production Effects
@@ -43,7 +18,7 @@ Blizzards can kill livestock and newborn lambs. Even hardy, adapted animals can 
 
 ### Tropical Livestock Shelter
 
-In the tropics and subtropics, ridge plantings of pines or *Casuarina* with a wind gap left below the crowns provide:
+In the tropics and subtropics, ridge plantings of pines or *[[casuarina]]* with a wind gap left below the crowns provide:
 - Shade for livestock
 - Induced breeze that discourages flies and mosquitoes
 - Rich mulch sources for lower slopes
@@ -60,33 +35,7 @@ Juniper in high country actually grows better in areas of snow drift (below shar
 
 ### Highway Safety
 
-Wind shear on exposed highways and at caravan parks can cause casualties and [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property|property]] damage. Design responses include:
-- Windfast median strips
-- Highway shelterbelts in areas of known hazard
-- Special attention to mountain passes and exposed coastal gales
-
-## Benefits to Croplands and Orchards
-
-### Shelterbelt Configuration
-
-For croplands, a matrix of shelterbelt species provides optimal protection:
-- **Height**: 10–16 m
-- **Spacing**: 33–66 m apart
-- **Species**: *Casuarina*, poplar, *Matsudana* willow, trimmed eucalypt
-
-### Yield Improvements
-
-Specific documented yield benefits include:
-
-- **Citrus**: culled as damaged is **50%** of crop in unsheltered areas versus **18.5%** in shelterbelt systems
-- **Cotton**: yields are **17.4% higher** within five times the height of the shelterbelt, falling to **7.9% advantage** at ten times the height
-- **Kiwifruit and avocado**: require wind protection for viable production
-
-### Compound Shelterbelt Effects
-
-Benefits are cumulative and include:
-
-- More meltwater from snow in cold [[oyster-mushroom-growing-house-design-site-selection-tropical-climates|climates]]
+Wind shear on exposed highways and at caravan parks can cause casualties and [[oyster-mushroom-growing-house-design-site-selection-tropical-climates|climates]]
 - Greater fruit or seed set in bee-pollinated crops (bees fly more freely in shelter)
 - Preservation of good tree shape, hence less pruning required
 - Reduced wind damage to fruit and leaf
@@ -127,20 +76,14 @@ Removal of mangroves and coastal dune vegetation results in sudden acceleration 
 Beyond shelter effects, windbreak species can be chosen to provide:
 
 ### Mulch Production
-Excellent crop mulch from species including *Prosopis*, *Acacia*, *Erythrina*, *Melia*, and *Canna*.
+Excellent crop mulch from species including *[[prosopis]]*, *[[acacia]]*, *Erythrina*, *Melia*, and *Canna*.
 
 ### Fodder
 All mulch-producing species plus *Leucaena*, fig, and *Pennisetum* provide livestock fodder.
 
 ### Soil Fertility
 Some species fix or recycle nitrogen and phosphatic fertilisers, or mine trace elements:
-- *Casuarina*, *Banksia*, *[[eucalyptus-camaldulensis]]*
-
-### Natural Leaf Fall
-Dry or cold-deciduous species and monsoon deciduous trees give natural leaf fall in crop, automatically adding growth elements.
-
-### In-Crop Windbreak and Frost Cover
-In every crop and orchard, interplanting leguminous trees for mulch, soil building, and in-crop windbreak or frost cover is advisable. Trees like avocado and papaya can be grown on subtropical frosty sites with a high canopy of hardy palms or light-crowned legumes (e.g., *Butia* palm, *Jacaranda*, *[[tipuana-tipu]]*). Such sites do not frost because there is no bare ground radiation at night, and advected frost is impeded.
+- *Casuarina*, *Banksia*, *[[tipuana-tipu]]*). Such sites do not frost because there is no bare ground radiation at night, and advected frost is impeded.
 
 ### Firewood and Cooking Fuel
 Forage and firewood from windbreaks provide excess fuels to cook crop products—an important factor in developing world contexts.

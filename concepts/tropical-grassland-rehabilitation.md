@@ -22,11 +22,11 @@ Heavy cattle browsing is a major cause of pasture deterioration and soil loss. T
 
 ## Cover Crop Legumes
 
-Vigorous grassland cover crop legumes will help reduce the grasses and eventually lay down a mulch. Key species include **Desmodium** and **Stylosanthes** (also called Suratro). Under trees, a short-stemmed Desmodium will defeat the grasses, but it is then essential to supply dry-season water, as the legume also competes with young trees for moisture. These legumes serve as the first biological barrier against grass re-invasion, and their nitrogen-fixing capacity begins the process of soil restoration even before tree canopy closure is achieved.
+Vigorous grassland [[cover-crop]] legumes will help reduce the grasses and eventually lay down a mulch. Key species include **Desmodium** and **Stylosanthes** (also called Suratro). Under trees, a short-stemmed Desmodium will defeat the grasses, but it is then essential to supply dry-season water, as the legume also competes with young trees for moisture. These legumes serve as the first biological barrier against grass re-invasion, and their nitrogen-fixing capacity begins the process of soil restoration even before tree canopy closure is achieved.
 
 ## Fast-Growing Leguminous Trees
 
-Fast-growing leguminous trees — **Albizzia**, **Acacia**, **Inga**, and **Leucaena** — will quickly establish and can be grown in the shelter of banana grass or elephant grass (*Pennisetum*). If these grow vigorously, they also provide green mulch for surrounding plantings. Their rapid canopy closure is the key to shading out rank tropical grasses that otherwise prevent forest succession.
+Fast-growing leguminous trees — **Albizzia**, **Acacia**, **Inga**, and **Leucaena** — will quickly establish and can be grown in the shelter of banana grass or [[elephant-grass]] (*Pennisetum*). If these grow vigorously, they also provide green mulch for surrounding plantings. Their rapid canopy closure is the key to shading out rank tropical grasses that otherwise prevent forest succession.
 
 ## Intensive Forage Systems vs. Extensive Grazing
 
@@ -124,8 +124,6 @@ The core species for tropical grassland rehabilitation form a layered system:
 To assess total nitrogen yield, combine soil nitrogen from mycelia (approximately 200 kg/ha/year) with leaf and slash nitrogen per hectare — the leaf yield from coppiced legumes typically far exceeds root nitrogen contribution. This makes leguminous tree crops the cornerstone of any sustainable tropical rehabilitation programme.
 ## See also
 
-- [[tropical-pioneering-grassland-rehabilitation]]
 - [[savannah-forestry-rehabilitation]]
-- [[tropical-savanna-forestry-rehabilitation]]
 - [[ecological-succession-in-permaculture-design]]
 - [[legume-nitrogen-fixation-and-green-manure]]

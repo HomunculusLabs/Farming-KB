@@ -98,23 +98,7 @@ Transformity measures the solar energy required to produce one unit of a
 given energy form. Higher transformity means higher quality energy doing more
 work per unit. Fossil fuels represent extraordinarily high transformity
 energy accumulated over millions of years. Understanding transformity helps
-[[bill-mollison]] evaluate energy sources, recognizing not all
-kilojoules are equal in supporting complex organization.
-
-## Energy Descent: Unwinding the Inverted Pyramid
-
-When fossil energy subsidies decline through depletion or climate constraint,
-the inverted pyramid must reconfigure. Holmgren's energy descent concept
-describes inevitable net energy contraction, forcing societies back toward
-pyramid shapes reflecting real-time solar capture. This transition involves
-oscillations, crises, and adaptive responses. Non-productive populations
-face displacement as societies must re-localize production and governance.
-Holmgren frames energy descent as a design challenge permaculture addresses.
-
-## Permaculture Design and Sustainable Energy Hierarchies
-
-Permaculture design rebuilds broad producer bases at household and community
-scales. Zone [[permaculture-zone-and-sector-planning]], polycultures, and integrated systems
+[[permaculture-zone-and-sector-planning]], polycultures, and integrated systems
 capture more solar energy directly, reducing fossil-fuel dependence. By
 designing systems where most people are net energy producers, permaculture
 creates thermodynamically resilient social structures capable of persisting
@@ -123,20 +107,8 @@ through energy descent.
 ## Community-Scale Design and Governance
 
 The trophic pyramid model suggests governance should be proportional to the
-productive base. [[holmgren-bioregional-governance-and-political-structures]], local food systems, and community
-land trusts realign social hierarchy with energy reality. Holmgren advocates
-governance accountable to productive landscapes, where decision-makers are
-also producers. The Transition Towns movement embodies this by organizing
-communities around local resilience and energy descent planning.
-
-## Connection to Permaculture Ethics and Principles
-
-The pyramid connects to all three ethics. **Earth care** requires maintaining
-the productive base — soils, forests, and watersheds capturing solar energy.
-**People care** demands social structures serve human wellbeing rather than
-fossil-fuel imperatives. **Fair share** recognizes the apex cannot grow
-beyond what the base sustains. Principles including "[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]],"
-"Use [[permaculture-principle-use-and-value-renewable-resources]] resources," and "[[permaculture-integrate-rather-than-segregate]] segregate"
+productive base. [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]],"
+"Use [[permaculture-integrate-rather-than-segregate]] segregate"
 flow from understanding energy hierarchy and thermodynamic constraints.
 
 ## Key References
@@ -144,6 +116,5 @@ flow from understanding energy hierarchy and thermodynamic constraints.
 - Holmgren, David. *Permaculture: Principles & Pathways Beyond
   Sustainability*. Holmgren Design Services, 2002. Chapters 2, 3, 5, 11;
 ## See Also
-- [[mollison-trophic-pyramids-food-webs-and-energy-cycling]]
 - [[holmgren-energy-descent-planning]]
 - [[holmgren-built-environment-household-energy-storage]]

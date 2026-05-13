@@ -20,20 +20,12 @@ One of Steve Solomon's most compelling arguments in "Gardening When It
 Counts" is that modern vegetables are significantly less nutritious than
 those grown by earlier generations. This page covers his analysis of why
 nutrition has declined and what gardeners can do about it through
-[[solomon-soil-mineral-depletion]].
-
-## The Trace Mineral Solution
-
-Solomon's [[solomon-liquid-fertilizers-and-foliar-feeding]].
+[[solomon-liquid-fertilizers-and-foliar-feeding]].
 
 ## Calcium, Magnesium, and pH
 
-Vegetables need [[dynamic-accumulator-plants-calcium-and-magnesium]] in balance. The lime in COF provides
-both. Solomon's approach: forget about pH, focus on balanced nutrition
-through COF. Over time, soil pH corrects itself as [[hamilton-composting-and-organic-matter-management]] increases.
-See [[solomon-choosing-seeds-and-catalogs]].
-- Use COF consistently for balanced major and trace minerals.
-- Build soil [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] through compost and rotation. See
+Vegetables need [[hamilton-composting-and-organic-matter-management]] increases.
+See [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] through compost and rotation. See
   [[solomon-liquid-fertilizers-and-foliar-feeding]].
 - Save seed from the healthiest, best-tasting plants to gradually
   re-select for nutrition. See
