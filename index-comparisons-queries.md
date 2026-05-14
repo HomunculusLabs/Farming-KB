@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1385 pages**
+**1389 pages**
 
 ## A
 
@@ -327,6 +327,7 @@
 - [[comparison-gypsum-vs-sulfur]]
 - [[comparison-hardneck-vs-softneck-garlic]]
 - [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]]
+- [[comparison-hawthorn-vs-valerian]]
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 - [[comparison-heirloom-vs-hybrid-seeds]]
@@ -541,6 +542,7 @@
 - [[comparison-rhodiola-vs-chamomile]]
 - [[comparison-rhodiola-vs-echinacea]]
 - [[comparison-rhodiola-vs-ginseng]]
+- [[comparison-rhodiola-vs-lemon-balm]]
 - [[comparison-rhodiola-vs-tulsi]]
 - [[comparison-rhodiola-vs-valerian]]
 - [[comparison-rock-phosphate-vs-sulfur-plant-nutrition]]
@@ -865,6 +867,8 @@
 - [[query-how-do-i-grow-and-use-chamomile]]
 - [[query-how-do-i-grow-and-use-edible-flowers-in-my-garden]]
 - [[query-how-do-i-grow-and-use-ginger-and-turmeric]]
+- [[query-how-do-i-grow-and-use-mullein]]
+- [[query-how-do-i-grow-and-use-yarrow]]
 - [[query-how-do-i-grow-bananas-in-a-subtropical-climate]]
 - [[query-how-do-i-grow-beans-in-my-garden]]
 - [[query-how-do-i-grow-berries-and-soft-fruit-in-my-garden]]
