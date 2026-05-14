@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2805 pages**
+**2810 pages**
 
 ## #
 
@@ -746,6 +746,7 @@
 - [[fairy-rings-and-giant-mycelia]]
 - [[fairy-rings-folklore-and-science]]
 - [[fairy-rings-mycelium-ecology-soil]]
+- [[faunal-grazing-effects-on-mycorrhizal-function]]
 - [[fertilizers-and-mycorrhizae]]
 - [[five-historical-periods-neurotropic-fungi-discovery]]
 - [[five-historical-periods-neurotropic-fungi-discovery-guzman-1998]]
@@ -994,6 +995,7 @@
 - [[fungal-explosive-compound-degradation]]
 - [[fungal-extracellular-enzyme-production]]
 - [[fungal-extracellular-enzymes]]
+- [[fungal-faunal-interactions-in-decomposition]]
 - [[fungal-filter-barnyard-waste-remediation]]
 - [[fungal-foraging-strategies-heterogeneous-environments]]
 - [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
@@ -1234,6 +1236,7 @@
 - [[fungi-aquatic-animals-pathogens-parasites]]
 - [[fungi-around-the-world-species-distribution]]
 - [[fungi-as-environmental-indicators-and-biosensors]]
+- [[fungi-as-food-for-secondary-producers]]
 - [[fungi-convention-on-biological-diversity]]
 - [[fungi-cultivated-mushrooms-pathogens-competitors]]
 - [[fungi-dominant-soil-biomass-ecosystem-engineers]]
@@ -1585,6 +1588,7 @@
 - [[interplant-carbon-nutrient-transfer-mycorrhizal-networks]]
 - [[interplant-mycorrhizal-linkages]]
 - [[interplant-resource-transfer-mycorrhizal-succession]]
+- [[invertebrate-fungivory-and-feeding-preferences]]
 - [[ion-selective-microelectrodes-ectomycorrhizal-roots]]
 - [[isolation-metabolically-active-arbuscules-intraradical-hyphae]]
 - [[isotopic-tracers-mycorrhizal-research]]
@@ -1953,6 +1957,7 @@
 - [[mycopesticides-fungal-biocontrol]]
 - [[mycopesticides-fungal-pest-control]]
 - [[mycopesticides-stamets]]
+- [[mycophagy-in-vertebrates]]
 - [[mycophiles-and-mushroom-culture]]
 - [[mycophobia-in-western-culture]]
 - [[mycophobia-mycophilia]]
