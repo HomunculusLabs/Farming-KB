@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1379 pages**
+**1380 pages**
 
 ## A
 
@@ -261,6 +261,7 @@
 - [[comparison-elderberry-vs-ashwagandha]]
 - [[comparison-elderberry-vs-echinacea]]
 - [[comparison-elderberry-vs-gooseberry-vs-currant]]
+- [[comparison-elderberry-vs-valerian]]
 - [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]
 - [[comparison-enoki-vs-king-stropharia-cultivation]]
 - [[comparison-enoki-vs-maitake-cultivation]]
