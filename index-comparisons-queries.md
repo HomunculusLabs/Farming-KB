@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1380 pages**
+**1384 pages**
 
 ## A
 
@@ -537,6 +537,7 @@
 - [[comparison-rhizofiltration-vs-phytoextraction]]
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
 - [[comparison-rhodiola-vs-ashwagandha]]
+- [[comparison-rhodiola-vs-chamomile]]
 - [[comparison-rhodiola-vs-echinacea]]
 - [[comparison-rhodiola-vs-ginseng]]
 - [[comparison-rhodiola-vs-tulsi]]
@@ -559,6 +560,7 @@
 - [[comparison-schisandra-vs-passionflower]]
 - [[comparison-schisandra-vs-rhodiola]]
 - [[comparison-schisandra-vs-tulsi]]
+- [[comparison-schisandra-vs-valerian]]
 - [[comparison-sea-buckthorn-vs-aronia]]
 - [[comparison-sea-of-green-vs-screen-of-green]]
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
@@ -696,6 +698,7 @@
 - [[comparison-yarrow-vs-ashwagandha]]
 - [[comparison-yarrow-vs-chamomile]]
 - [[comparison-yarrow-vs-rhodiola]]
+- [[comparison-yarrow-vs-valerian]]
 - [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
 - [[complete-knf-input-reference]]
 - [[composting-systems-design-comparison]]
@@ -1180,6 +1183,7 @@
 - [[query-how-to-store-food-without-refrigeration]]
 - [[query-how-to-store-mushroom-spores-long-term]]
 - [[query-how-to-test-and-remediate-urban-soil-for-food-growing]]
+- [[query-how-to-test-soil-at-home]]
 - [[query-how-to-transition-cannabis-from-vegetative-to-flowering]]
 - [[query-how-to-transition-from-conventional-to-no-till-farming]]
 - [[query-how-to-troubleshoot-common-problems-in-mushroom-cultivation]]

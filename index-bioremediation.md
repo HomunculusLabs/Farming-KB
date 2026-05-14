@@ -2,7 +2,7 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**73 pages**
+**74 pages**
 
 ## A
 
@@ -31,6 +31,7 @@
 
 ## D
 
+- [[desert-varnish-and-microbial-metal-oxidation]]
 - [[desertification]]
 - [[desertification-and-vegetation-loss]]
 - [[desertification-causes-reversal]]
