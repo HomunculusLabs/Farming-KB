@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1384 pages**
+**1385 pages**
 
 ## A
 
@@ -259,6 +259,7 @@
 - [[comparison-echinacea-vs-tulsi]]
 - [[comparison-echinacea-vs-yarrow]]
 - [[comparison-elderberry-vs-ashwagandha]]
+- [[comparison-elderberry-vs-chamomile]]
 - [[comparison-elderberry-vs-echinacea]]
 - [[comparison-elderberry-vs-gooseberry-vs-currant]]
 - [[comparison-elderberry-vs-valerian]]

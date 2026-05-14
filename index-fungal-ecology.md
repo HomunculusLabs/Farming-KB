@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2862 pages**
+**2868 pages**
 
 ## #
 
@@ -804,6 +804,7 @@
 - [[functional-genomics-fungal-pathogens]]
 - [[functional-genomics-magnaporthe-grisea-rice-blast]]
 - [[functional-redundancy-fungal-communities]]
+- [[fungal-accumulation-and-remediation-of-radionuclides]]
 - [[fungal-accumulation-of-radionuclides]]
 - [[fungal-adaptations-environmental-gradients]]
 - [[fungal-allelopathy-and-lichen-compounds]]
@@ -892,6 +893,7 @@
 - [[fungal-calcium-oxalate-and-carbonate-precipitation]]
 - [[fungal-calcium-oxalate-crystals]]
 - [[fungal-calcium-signalling]]
+- [[fungal-carbon-storage-in-soils]]
 - [[fungal-cave-diversity]]
 - [[fungal-cell-wall-composition-and-structural-organization]]
 - [[fungal-cellulose-degradation]]
@@ -903,6 +905,8 @@
 - [[fungal-coal-biodegradation-and-bioconversion]]
 - [[fungal-cometabolism]]
 - [[fungal-commensal-vertebrate-associations]]
+- [[fungal-communities-at-chernobyl]]
+- [[fungal-communities-at-chernobyl-and-radiotropism]]
 - [[fungal-communities-extreme-environments]]
 - [[fungal-communities-water-aquatic-ecosystems]]
 - [[fungal-community-assembly]]
@@ -1255,6 +1259,8 @@
 - [[fungal-wood-decomposition-spatial-variation]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[fungal-zoospore-biology-and-flagellate-motility]]
+- [[fungi-and-climate-change-interactions]]
+- [[fungi-and-climate-change-primary-production]]
 - [[fungi-and-sustainability]]
 - [[fungi-and-their-allies-classification]]
 - [[fungi-aquatic-animals-pathogens-parasites]]
@@ -1266,6 +1272,7 @@
 - [[fungi-dominant-soil-biomass-ecosystem-engineers]]
 - [[fungi-ecosystem-health-indicators]]
 - [[fungi-ecosystem-primary-production]]
+- [[fungi-elevated-co2-and-decomposition-dynamics]]
 - [[fungi-environment-biogeochemical-cycling-mineral-transformations]]
 - [[fungi-environment-mathematical-modelling-mycelial-growth]]
 - [[fungi-environment-mycelial-nutrient-transport-imaging]]
@@ -2044,14 +2051,11 @@
 - [[mycorrhiza-nutrient-exchange]]
 - [[mycorrhiza-root-exudates]]
 - [[mycorrhiza-soil-bioremediation]]
-- [[mycorrhizae-and-plant-fitness]]
-- [[mycorrhizae-and-plant-succession]]
 - [[mycorrhizae-aquatic-estuarine-ecosystems]]
 - [[mycorrhizae-biocontrol-root-pathogens]]
 - [[mycorrhizae-disturbed-restored-ecosystems]]
 - [[mycorrhizae-in-salt-marsh-ecosystems]]
 - [[mycorrhizae-plant-fitness]]
-- [[mycorrhizae-plant-fitness-community]]
 - [[mycorrhizae-plant-fitness-community-structure]]
 - [[mycorrhizae-plant-fitness-competition]]
 - [[mycorrhizae-plant-pathogen-interactions]]
@@ -2070,6 +2074,7 @@
 - [[mycorrhizal-carbon-phosphorus-exchange]]
 - [[mycorrhizal-carbon-sequestration]]
 - [[mycorrhizal-carbon-sequestration-mechanisms]]
+- [[mycorrhizal-carbon-storage-and-interplant-transfer]]
 - [[mycorrhizal-colonization-thresholds]]
 - [[mycorrhizal-communities-ecosystem-function]]
 - [[mycorrhizal-community-dynamics-functional-diversity]]
@@ -2395,6 +2400,7 @@
 - [[radiation-resistant-fungi-and-myco-corrosion]]
 - [[radioactive-contamination-and-fungi]]
 - [[radiotrophic-fungi-melanin-radiation-response]]
+- [[radiotropism-and-chernobyl-fungal-communities]]
 - [[ramsbottom-poisonous-fungi-identification-guide]]
 - [[ramsbottom-poisonous-fungi-species]]
 - [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]

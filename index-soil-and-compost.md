@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**715 pages**
+**718 pages**
 
 ## A
 
@@ -230,6 +230,7 @@
 - [[essential-plant-elements-hydrogen-boron-carbon-nitrogen]]
 - [[essential-soil-macronutrients-hydrogen-boron-carbon-nitrogen]]
 - [[establishing-healthy-soil-foodweb]]
+- [[exotic-plantations-soil-aggregates-and-carbon-sequestration]]
 
 ## F
 
@@ -576,6 +577,7 @@
 - [[soil-building-ecological-garden]]
 - [[soil-burrowing-organisms]]
 - [[soil-capillary-action-and-water-movement]]
+- [[soil-carbon-stores-under-climate-change]]
 - [[soil-chytridiomycete-isolation-baiting-techniques]]
 - [[soil-chytridiomycetes-diversity-distribution]]
 - [[soil-classification-and-structure]]
@@ -636,6 +638,7 @@
 - [[soil-moisture-monitoring-and-field-capacity]]
 - [[soil-moisture-monitoring-irrigation-management]]
 - [[soil-nutrient-cycling]]
+- [[soil-nutrient-cycling-under-elevated-co2]]
 - [[soil-organic-carbon-fractions-turnover-dynamics]]
 - [[soil-ph-and-nutrient-availability]]
 - [[soil-ph-management]]

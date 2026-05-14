@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1346 pages**
+**1347 pages**
 
 ## A
 
@@ -983,6 +983,7 @@
 - [[plant-vision-and-phototropism]]
 - [[plant-vision-light-perception]]
 - [[plant-volatile-communication-chemical-ecology]]
+- [[plantation-forestry-carbon-dynamics]]
 - [[plantation-monoculture-reform]]
 - [[planting-categories-and-keyhole-beds]]
 - [[plants-and-electromagnetism]]
