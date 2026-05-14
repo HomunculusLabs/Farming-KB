@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1378 pages**
+**1379 pages**
 
 ## A
 
@@ -820,6 +820,7 @@
 - [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
 - [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
 - [[query-how-do-i-build-and-use-a-keyhole-garden]]
+- [[query-how-do-i-build-terraces-for-gardening-on-a-slope]]
 - [[query-how-do-i-build-with-earthbags]]
 - [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
 - [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
