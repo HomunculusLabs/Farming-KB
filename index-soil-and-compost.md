@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**713 pages**
+**715 pages**
 
 ## A
 
@@ -506,6 +506,7 @@
 - [[organic-fertilizer-sources-guide]]
 - [[organic-garden-soil-preparation]]
 - [[organic-mulching-techniques]]
+- [[organic-soil-enrichment-compost-manure-green-manures]]
 - [[organic-soil-management]]
 - [[organic-vs-chemical-fertilizers-and-manure-quality]]
 
@@ -516,6 +517,7 @@
 - [[phosphate-and-potassium-accumulators]]
 - [[phosphorus-availability]]
 - [[phosphorus-plant-nutrition]]
+- [[photon-counting-scintillation-imaging-pcsi]]
 - [[plant-available-nitrogen-ammonium-nitrate]]
 - [[plant-macronutrient-functions]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

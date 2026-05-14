@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1344 pages**
+**1346 pages**
 
 ## A
 
@@ -867,6 +867,7 @@
 - [[photoperiodism-plant-flowering]]
 - [[photoperiodism-plants]]
 - [[photoperiodism-plants-measure-night-length]]
+- [[photoreception-plants-what-a-plant-sees]]
 - [[photoreceptors-in-plants-phytochrome-cryptochrome]]
 - [[phototropin-blue-light-receptor-plant-directional-sensing]]
 - [[phototropism-and-plant-light-responses]]
@@ -1361,6 +1362,7 @@
 - [[watering-and-seedling-emergence]]
 - [[watering-irrigation-solomon]]
 - [[watershed-management]]
+- [[waterwise-vegetable-gardening-tools-and-techniques]]
 - [[weed-control-in-winter-greenhouses]]
 - [[weed-control-intensive-winter-gardens]]
 - [[weed-management-strategies]]

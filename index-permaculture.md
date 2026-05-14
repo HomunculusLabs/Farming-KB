@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1375 pages**
+**1381 pages**
 
 ## A
 
@@ -170,6 +170,7 @@
 
 - [[dalbergia-sissoo-permaculture-timber-tree]]
 - [[desert-fencing-soils-and-swales]]
+- [[desertification-causes-holzer-ecological-critique]]
 - [[design-from-patterns-to-details]]
 - [[diversity-and-stability-in-permaculture]]
 - [[dryland-permaculture-strategies]]
@@ -358,6 +359,7 @@
 - [[holzer-alpine-plant-cultivation-gentian]]
 - [[holzer-alternative-energy]]
 - [[holzer-ancient-cereals-growing]]
+- [[holzer-animal-ethics-humane-relationship-nature]]
 - [[holzer-aquaculture-fish-farming]]
 - [[holzer-aquaculture-pond-construction]]
 - [[holzer-assessing-the-land]]
@@ -384,6 +386,7 @@
 - [[holzer-fruit-forest-establishment]]
 - [[holzer-fruit-growing-marginal-climates]]
 - [[holzer-fruit-trees-no-pruning]]
+- [[holzer-global-food-systems-reforestation-failures]]
 - [[holzer-grafting-fruit-forest]]
 - [[holzer-grafting-fruit-tree-propagation]]
 - [[holzer-green-manure-and-soil-building-plants]]
@@ -460,6 +463,7 @@
 - [[hugelkultur-bed-construction]]
 - [[hugelkultur-bed-construction-detailed]]
 - [[hugelkultur-beds]]
+- [[hugelkultur-crater-gardens-raised-growing-systems]]
 - [[hugelkultur-guide]]
 - [[human-diversity-and-multiculturalism-in-permaculture]]
 - [[humid-cool-climate-characteristics-mollison]]
@@ -1271,6 +1275,7 @@
 - [[sepp-holzer-global-projects]]
 - [[sepp-holzer-method]]
 - [[sepp-holzer-methods]]
+- [[sepp-holzer-permaculture-water-landscapes-climate-restoration]]
 - [[sepp-holzer-pond-construction]]
 - [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[sepp-holzer-terrace-systems-and-raised-beds]]
@@ -1314,6 +1319,7 @@
 
 ## T
 
+- [[tamera-ecological-community-water-landscape-permaculture-education]]
 - [[temperature-salinity-and-flow-in-aquaculture]]
 - [[terrace-construction-earthworks]]
 - [[terrace-earthworks-and-slope-management]]
