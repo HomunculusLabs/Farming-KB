@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**5873 pages**
+**5875 pages**
 
 ## #
 
@@ -2968,6 +2968,7 @@
 - [[jasminum-grandiflorum]]
 - [[jasminum-officinale]]
 - [[jatropha-curcas-entity]]
+- [[jaumea-carnosa]]
 - [[java-tilapia-mollison]]
 - [[jealousy-cannabis]]
 - [[jealousy-cannabis-strain-entity]]
@@ -3072,7 +3073,6 @@
 - [[kelpmeal]]
 - [[ken-watt-ecology]]
 - [[kenneth-d-nelson-mollison]]
-- [[kenneth-kensinger]]
 - [[kenneth-m-kensinger]]
 - [[kenneth-watt]]
 - [[kerria-japonica]]
@@ -3110,7 +3110,6 @@
 
 ## L
 
-- [[l-b-boyer]]
 - [[l-citrulline]]
 - [[l-ornithine]]
 - [[l-theanine]]
@@ -3206,6 +3205,7 @@
 - [[leccinum-aurantiacum]]
 - [[leccinum-insigne]]
 - [[leccinum-scabrum]]
+- [[leersia-hexandra]]
 - [[leghorn-chicken]]
 - [[legousia-speculum-veneris]]
 - [[leiophora-pelvetiae]]
@@ -3410,6 +3410,7 @@
 - [[lysimachia-terrestris]]
 - [[lysimachia-thyrsiflora]]
 - [[lysimachia-vulgaris]]
+- [[lythrum-salicaria]]
 
 ## M
 
@@ -3795,7 +3796,6 @@
 - [[natem]]
 - [[natem-jivaro]]
 - [[natema]]
-- [[natemd]]
 - [[national-organic-program]]
 - [[native-american-church]]
 - [[nature-technologies-international-ingharn]]
@@ -3879,7 +3879,6 @@
 - [[nuphar-pumila]]
 - [[nutrient-film-technique]]
 - [[nutrient-mineralization]]
-- [[nutrient-mineralization-fungal]]
 - [[nutrient-mineralization-fungi]]
 - [[nutrioperiodism]]
 - [[nyc-diesel]]
@@ -4010,6 +4009,7 @@
 - [[panellus-stipticus]]
 - [[panga-cometas]]
 - [[pangasius]]
+- [[panicum-hemitomon]]
 - [[panicum-maximum]]
 - [[panicum-miliaceum]]
 - [[panicum-virgatum]]
@@ -4051,7 +4051,6 @@
 - [[pasuk]]
 - [[pat-roy-mooney]]
 - [[paul-dyer]]
-- [[paul-s-dyer]]
 - [[paul-stamets]]
 - [[paullinia-cupana]]
 - [[paulownia-tomentosa]]
@@ -4767,6 +4766,7 @@
 - [[rhizomorph-mycelium]]
 - [[rhizophagus-irregularis]]
 - [[rhizophora-mangle]]
+- [[rhizopogon-luteolus]]
 - [[rhizopogon-vinicolor]]
 - [[rhizopus]]
 - [[rhizopus-arrhizus]]
@@ -4946,7 +4946,6 @@
 - [[saponaria-officinalis]]
 - [[saprophytic-fungi]]
 - [[saprotrophic-fungi]]
-- [[sarah-c-watkinson]]
 - [[sarah-watkinson]]
 - [[sarcocornia-quinqueflora]]
 - [[sarcodon-imbricatus]]
@@ -5174,6 +5173,7 @@
 - [[sparganium-erectum]]
 - [[spartina]]
 - [[spartina-alterniflora]]
+- [[spartina-cynosuroides]]
 - [[spartina-pectinata]]
 - [[speciogynine]]
 - [[sphaerobolus-stellatus]]
@@ -5295,6 +5295,7 @@
 - [[suillus-cavipes]]
 - [[suillus-granulatus]]
 - [[suillus-grevillei]]
+- [[suillus-intermedius]]
 - [[suillus-lakei]]
 - [[suillus-luteus]]
 - [[suillus-placidus]]
@@ -5905,6 +5906,7 @@
 - [[xanthoria-polycarpa]]
 - [[xanthorrhoea-entity]]
 - [[xanthosoma-sagittifolium]]
+- [[xercomus-badius]]
 - [[xerocomellus-chrysenteron]]
 - [[xerocomus-chrysenteron]]
 - [[xerocomus-subtomentosus]]

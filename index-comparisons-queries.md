@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1376 pages**
+**1378 pages**
 
 ## A
 
@@ -692,6 +692,7 @@
 - [[comparison-worm-farming-vs-bsf-larvae]]
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[comparison-xeriscaping-vs-drought-gardening]]
+- [[comparison-yarrow-vs-ashwagandha]]
 - [[comparison-yarrow-vs-chamomile]]
 - [[comparison-yarrow-vs-rhodiola]]
 - [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
@@ -796,6 +797,7 @@
 - [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
 - [[query-dwc-vs-coco-coir-vs-soil-cannabis-growing]]
 - [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]]
+- [[query-how-and-when-should-i-prune-my-fruit-trees-and-bushes]]
 - [[query-how-can-companion-plants-protect-cannabis-from-pests]]
 - [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]
 - [[query-how-can-duckweed-be-used-in-a-permaculture-pond]]

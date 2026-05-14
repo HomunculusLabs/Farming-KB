@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2763 pages**
+**2773 pages**
 
 ## #
 
@@ -626,6 +626,7 @@
 - [[ecological-roles-fungi-ecosystems]]
 - [[ectomycorrhizae-forest-life]]
 - [[ectomycorrhizal-associations]]
+- [[ectomycorrhizal-diversity-and-plant-nutrition]]
 - [[ectomycorrhizal-ecology]]
 - [[ectomycorrhizal-enzyme-activity-organic-nutrients]]
 - [[ectomycorrhizal-enzyme-competency]]
@@ -1567,6 +1568,8 @@
 - [[insect-fungi-gardening-symbioses]]
 - [[insect-fungi-interactions]]
 - [[international-mycology-research-network]]
+- [[interplant-carbon-nutrient-transfer-mycorrhizal-networks]]
+- [[interplant-mycorrhizal-linkages]]
 - [[ion-selective-microelectrodes-ectomycorrhizal-roots]]
 - [[isolation-metabolically-active-arbuscules-intraradical-hyphae]]
 - [[isotopic-tracers-mycorrhizal-research]]
@@ -1987,6 +1990,8 @@
 - [[mycorrhiza-nutrient-exchange]]
 - [[mycorrhiza-root-exudates]]
 - [[mycorrhiza-soil-bioremediation]]
+- [[mycorrhizae-aquatic-estuarine-ecosystems]]
+- [[mycorrhizae-in-salt-marsh-ecosystems]]
 - [[mycorrhizal-agricultural-practices]]
 - [[mycorrhizal-biocontrol]]
 - [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
@@ -2004,6 +2009,8 @@
 - [[mycorrhizal-crop-rotation-guide]]
 - [[mycorrhizal-crop-studies]]
 - [[mycorrhizal-distribution-nutrient-availability]]
+- [[mycorrhizal-diversity-and-ecosystem-function]]
+- [[mycorrhizal-diversity-and-leaf-litter-effects]]
 - [[mycorrhizal-diversity-assessment]]
 - [[mycorrhizal-drought-and-temperature-tolerance]]
 - [[mycorrhizal-edible-mushroom-species-overview]]
@@ -2054,6 +2061,7 @@
 - [[mycorrhizal-plant-defense]]
 - [[mycorrhizal-proteomics]]
 - [[mycorrhizal-root-exudates-pathogen-interactions]]
+- [[mycorrhizal-saprotroph-interactions-decomposition]]
 - [[mycorrhizal-siderophores]]
 - [[mycorrhizal-siderophores-iron-acquisition]]
 - [[mycorrhizal-succession-forest-development]]
@@ -2309,6 +2317,7 @@
 - [[rhizobia-legume-nodule-formation]]
 - [[rhizobium-legume-symbiosis]]
 - [[rhizodeposition-driven-microbial-filtering-cannabis-rhizosphere]]
+- [[rhizosphere-bacteria-mycorrhizal-specificity]]
 - [[rhizosphere-bacterial-community-dynamics]]
 - [[rhizosphere-bulk-soil-microbial-comparison]]
 - [[rhizosphere-bulk-soil-similarity-cannabis-weak-first-tier]]
@@ -2348,6 +2357,7 @@
 - [[saprotrophic-fungi-heterogeneous-environments]]
 - [[savory-soil-organic-matter-and-decomposition-dynamics]]
 - [[schultes-ergot-st-anthonys-fire]]
+- [[seasonal-successional-dynamics-mycorrhizae]]
 - [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[selective-isolation-saprobic-basidiomycetes-soil]]
 - [[sepp-holzer-composting-and-humus-building]]
