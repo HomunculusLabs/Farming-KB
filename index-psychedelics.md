@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1869 pages**
+**1871 pages**
 
 ## #
 
@@ -314,7 +314,6 @@
 - [[ecstasy-mdma-heart-opening-psychedelic]]
 - [[eleusinian-hierophantic-families-eumolpidae-kerykes]]
 - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
-- [[eleusinian-mysteries]]
 - [[eleusinian-mysteries-history-and-structure]]
 - [[eleusinian-mysteries-kykeon]]
 - [[eleusinian-profanes-scandal-of-415-bce]]
@@ -1552,8 +1551,11 @@
 - [[psychedelic-dosage-titration-methodology]]
 - [[psychedelic-dose-response]]
 - [[psychedelic-drug-testing-and-adulterant-screening]]
+- [[psychedelic-experience-bardo-framework]]
 - [[psychedelic-experience-preparation]]
 - [[psychedelic-experience-stages]]
+- [[psychedelic-experience-tibetan-bardo-framework]]
+- [[psychedelic-experience-tibetan-book-of-the-dead]]
 - [[psychedelic-harm-reduction]]
 - [[psychedelic-harm-reduction-guide]]
 - [[psychedelic-harm-reduction-philosophy]]

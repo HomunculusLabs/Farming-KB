@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1389 pages**
+**1395 pages**
 
 ## A
 
@@ -262,6 +262,7 @@
 - [[comparison-elderberry-vs-chamomile]]
 - [[comparison-elderberry-vs-echinacea]]
 - [[comparison-elderberry-vs-gooseberry-vs-currant]]
+- [[comparison-elderberry-vs-tulsi]]
 - [[comparison-elderberry-vs-valerian]]
 - [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]
 - [[comparison-enoki-vs-king-stropharia-cultivation]]
@@ -327,6 +328,7 @@
 - [[comparison-gypsum-vs-sulfur]]
 - [[comparison-hardneck-vs-softneck-garlic]]
 - [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]]
+- [[comparison-hawthorn-vs-ashwagandha]]
 - [[comparison-hawthorn-vs-valerian]]
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
@@ -443,6 +445,7 @@
 - [[comparison-mullein-vs-comfrey]]
 - [[comparison-mullein-vs-echinacea]]
 - [[comparison-mullein-vs-st-johns-wort]]
+- [[comparison-mullein-vs-tulsi]]
 - [[comparison-mullein-vs-valerian]]
 - [[comparison-mullein-vs-yarrow]]
 - [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
@@ -883,6 +886,7 @@
 - [[query-how-do-i-grow-echinacea-and-what-are-its-medicinal-benefits]]
 - [[query-how-do-i-grow-eggplant-successfully]]
 - [[query-how-do-i-grow-elderberries-and-what-are-their-medicinal-uses]]
+- [[query-how-do-i-grow-elderberries-in-my-garden-or-backyard]]
 - [[query-how-do-i-grow-endive-and-radicchio-in-my-garden]]
 - [[query-how-do-i-grow-fennel-in-my-garden]]
 - [[query-how-do-i-grow-figs-in-cold-climates]]
@@ -912,6 +916,7 @@
 - [[query-how-do-i-grow-vanilla-at-home]]
 - [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]]
 - [[query-how-do-i-grow-vegetables-on-a-balcony-or-small-patio]]
+- [[query-how-do-i-harden-off-seedlings-before-transplanting]]
 - [[query-how-do-i-identify-and-control-aphids-on-cannabis]]
 - [[query-how-do-i-identify-and-control-thrips-on-cannabis]]
 - [[query-how-do-i-identify-and-control-whiteflies-on-cannabis]]
@@ -1032,6 +1037,7 @@
 - [[query-how-does-propolis-benefit-honey-bees-and-can-beekeepers-harvest-it]]
 - [[query-how-does-rock-dust-improve-soil-fertility]]
 - [[query-how-does-soil-naturally-transition-from-bacterial-to-fungal-dominance]]
+- [[query-how-does-square-foot-gardening-work-and-is-it-worth-it]]
 - [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]
 - [[query-how-does-vermicomposting-work]]
 - [[query-how-mycorrhizal-fungi-help-plants]]
