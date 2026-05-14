@@ -13,7 +13,7 @@ tags: [soil]
 ## Overview
 
 Soil tillage -- the mechanical disturbance of soil by plowing, rototilling, or
-digging -- is one of the most destructive practices for [[the-soil-food-web]]. The
+digging -- is one of the most destructive practices for [[soil-food-web]]. The
 book makes a strong case that no-till gardening and farming, combined with
 mulching and compost application, produces healthier plants and a more robust
 soil food web. The history of tillage begins with Jethro Tull, an 18th-century

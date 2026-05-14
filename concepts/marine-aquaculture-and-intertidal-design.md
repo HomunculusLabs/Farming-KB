@@ -22,23 +22,23 @@ A fascinating discovery in intertidal design involves creating habitat for octop
 
 Intertidal design can incorporate constructed drift fences, barrier fences, and scour holes that work with natural tidal forces. The principle involves combining a series of natural drift events into an integrated complex of fish traps, scour holes, and growing habitats. This approach works at miniature scale for testing—using small logs to observe sediment and water movement patterns—before scaling up to full installations.
 
-Sub-surface dams represent another design tool for intertidal areas. These structures create periods of still water in zones that normally experience significant tidal flow. The condition required for shellfish (likely oysters) is precisely this period of reduced water movement. By constructing leaky rubble walls—distinct from true dams—these still-water systems can be created on open coastlines. When mussels attach to these structures and shrimp move in, a cascade of ecological interactions begins, dramatically increasing local productivity.
+Sub-surface dams represent another design tool for intertidal areas. These structures create periods of still water in zones that normally experience significant tidal flow. The condition required for shellfish (likely oysters) is precisely this period of reduced water movement. By constructing leaky rubble walls—distinct from true dams—these still-water systems can be created on open coastlines. When mussels attach to these structures and shrimp move in, a cascade of [[king-stropharia-ecological-interactions-permaculture]] begins, dramatically increasing local productivity.
 
 ## Irish Stone Fields and Kelp Harvesting
 
 The Irish have a long tradition of intertidal and nearshore aquaculture. Stone “fields” are constructed by placing rows of boulders across hard ocean bottoms, creating enormous underwater acreages for seaweed cultivation. These fields are visible from the air and, remarkably, smaller fields produce more than larger ones because the stone walls create radiant heat that warms the surrounding water.
 
-The Irish also developed sophisticated kelp harvesting techniques. Kelp is cut, tied with rope, and moved using the tide itself—10 or 12 tons at a time—right into bog channels. When the tide recedes, the kelp is deposited on shore for collection. Kelp stems are stacked and dried like firewood, then fired with peat to extract potash for fields. The fronds serve as mulch. This system demonstrates how tidal energy can substitute for mechanical power in handling heavy materials.
+The Irish also developed sophisticated kelp [[cannabis-harvesting-techniques]]. Kelp is cut, tied with rope, and moved using the tide itself—10 or 12 tons at a time—right into bog channels. When the tide recedes, the kelp is deposited on shore for collection. Kelp stems are stacked and dried like firewood, then fired with peat to extract potash for fields. The fronds serve as mulch. This system demonstrates how tidal energy can substitute for mechanical power in handling heavy materials.
 
 ## Estuarine Systems
 
-Estuaries offer some of the most diverse aquaculture opportunities because they contain gradients of salinity, temperature, and nutrient availability. By creating adjoining ponds at different salinity levels, it becomes possible to grow species ranging from freshwater trout to grey mullet to eels, all within a single system. The twice-daily tidal exchange of warm salt water, combined with fresh water input, creates multiple ecological niches.
+Estuaries offer some of the most diverse aquaculture opportunities because they contain gradients of salinity, temperature, [[chelation-and-nutrient-availability]]. By creating adjoining ponds at different salinity levels, it becomes possible to grow species ranging from freshwater trout to grey mullet to eels, all within a single system. The twice-daily tidal exchange of warm salt water, combined with fresh water input, creates multiple ecological niches.
 
 Raft culture extends aquaculture design possibilities. The Irish developed large floating ring systems moored in quiet tidal areas behind islands for salmon production. After wild salmon runs were destroyed by river “improvements” (bulldozing riverbeds destroyed oxygenating salmon weirs) and overfishing by Japanese gill nets, the Irish adapted by bringing salmon inshore. Rafts can operate across all scales—from tiny ponds for insect attractants to large marine enclosures. Water culture (growing plants at fixed root levels in rafts) is well developed in southwest Asia and applicable to crops including daffodils, vegetables, rock cultures, mussels, oysters, and algae.
 
 ## Seal Ecology and Fisheries
 
-Seals play a critical role in inshore fishery productivity that is rarely recognized. Seals primarily consume spiny dogfish and whitefish, species that have high manurial turnover on the seabed. This manuring effect supports the benthic invertebrate populations that, in turn, sustain higher-value food fish. When seal populations were destroyed for the fur trade, inshore fisheries collapsed—not directly from the removal of seals, but from the destruction of the manurial system that maintained seabed fertility. This illustrates the cascading ecological consequences of removing top predators and underscores the importance of understanding functional connections in marine ecosystems.
+Seals play a critical role in inshore fishery productivity that is rarely recognized. Seals primarily consume spiny dogfish and whitefish, species that have high manurial turnover on the seabed. This manuring effect supports the benthic invertebrate populations that, in turn, sustain higher-value food fish. When seal populations were destroyed for the fur trade, inshore fisheries collapsed—not directly from the removal of seals, but from the destruction of the manurial system that maintained seabed fertility. This illustrates the cascading ecological consequences of removing top predators and underscores the importance of understanding [[component-analysis-and-functional-connections]] in marine ecosystems.
 
 ## Phosphate Recovery from Sea Bird Roosts
 
@@ -54,7 +54,7 @@ Spirulina systems also clean sewage and grey water, and the algae can feed ducks
 
 ## Large Dams: A Critical Assessment
 
-Large dams such as the Aswan High Dam are assessed as predominantly negative in their effects. Studies consistently show they reduce downstream river fertility by trapping silt, sharply increase disease (particularly in tropical regions where flood scouring is eliminated), and alter or destroy downstream fisheries. In Australia, cold water released from dam bases has completely eliminated some fish species for miles downstream. Large dams also promote centralized power systems that inevitably attract polluting industries. [[permaculture-design]] favors reasonably small impoundments, with careful attention to spillway systems, accepting that they may flood but recognizing their superior biological utility.
+Large dams such as the Aswan High Dam are assessed as predominantly negative in their effects. Studies consistently show they reduce downstream river fertility by trapping silt, sharply increase disease (particularly [[fukuoka-natural-farming-in-tropical-regions]] where flood scouring is eliminated), and alter or destroy downstream fisheries. In Australia, cold water released from dam bases has completely eliminated some fish species for miles downstream. Large dams also promote centralized power systems that inevitably attract polluting industries. [[permaculture-design]] favors reasonably small impoundments, with careful attention to spillway systems, accepting that they may flood but recognizing their superior biological utility.
 
 ## Grey Water Recycling and Sewage Treatment
 
@@ -76,3 +76,11 @@ The half-pipe system for sewage disposal represents an innovative approach: a mo
 - [[mollison-designers-cover-crops-and-green-manure-species]]
 - [[fukuoka-textdoc-scale-insect-biological-control-case-studies]]
 - [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]]
+
+## Practical Applications
+
+Marine aquaculture and intertidal design has several important applications in [[phosphate-accumulators-sustainable-agriculture]] and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of marine aquaculture and intertidal design has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.

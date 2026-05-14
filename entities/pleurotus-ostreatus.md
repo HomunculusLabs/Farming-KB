@@ -18,7 +18,7 @@ sources:
 
 # Pleurotus ostreatus
 
-**Pleurotus ostreatus**, commonly known as the **oyster mushroom**, is one of the most widely cultivated edible mushrooms in the world. Named for its oyster shell-shaped cap, this species belongs to the family *Pleurotaceae* within the order Agaricales. It is found naturally across temperate and subtropical forests worldwide, growing saprotrophically on dead or dying hardwood trees.
+**Pleurotus ostreatus**, commonly known as the **[[oyster-mushroom]]**, is one of the most widely cultivated edible mushrooms in the world. Named for its oyster shell-shaped cap, this species belongs to the family *Pleurotaceae* within the order Agaricales. It is found naturally across temperate and subtropical forests worldwide, growing saprotrophically on dead or dying hardwood trees.
 
 ## Taxonomy and Classification
 

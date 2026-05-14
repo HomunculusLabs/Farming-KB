@@ -18,7 +18,7 @@ created: 2026-05-07
 
 ## Overview
 
-Miproscaline (3,5-dimethoxy-4-methylthiophenethylamine) is a synthetic psychedelic phenethylamine and a homologue of mescaline. It is entry #58 in Alexander Shulgin's PIHKAL (Phenethylamines I Have Known and Loved).
+Miproscaline (3,5-dimethoxy-4-methylthiophenethylamine) is a synthetic psychedelic phenethylamine and a homologue of mescaline. It is entry #58 in [[alexander-shulgin]]'s PIHKAL (Phenethylamines I Have Known and Loved).
 
 The compound was first synthesized and bioassayed by Shulgin and his research group. It is structurally related to mescaline, with the key difference being substitution of a methylthio group at the 4-position in place of mescaline's 4-hydroxy group.
 
@@ -53,7 +53,7 @@ Miproscaline is part of a series of 4-substituted phenethylamines derived from t
 ## Overview
 
 Miproscaline represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -74,7 +74,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Miproscaline finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -82,13 +82,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for miproscaline. Climate adaptation
+opportunities for miproscaline. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -103,7 +103,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 miproscaline and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

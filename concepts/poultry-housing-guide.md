@@ -146,5 +146,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[chickshaw-and-poultry-tractors]]
 - [[homestead-poultry-health]]
-- [[integrated-poultry-forage-systems-zone-two]]
+- integrated poultry forage systems zone two
 - [[knf-poultry-feed-preparation]]

@@ -13,7 +13,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-The change from vegetative mycelial growth to generative [[accessible-mushroom-cultivation-for-disabilities]]. All species require a set of environmental conditions for pinning that differ from conditions for mycelial growth. In nature, these conditions are seasonal -- most mushrooms fruit during cool, wet periods. The cultivator creates an artificial environment that prolongs optimum fruiting conditions.
+The change from vegetative mycelial growth to generative [[accessible-mushroom-cultivation-for-disabilities]]. All species require a set of environmental conditions for pinning that differ from conditions for mycelial growth. In nature, these conditions are seasonal -- most mushrooms fruit during cool, wet periods. The cultivator creates an artificial environment that prolongs optimum [[fruiting-conditions]].
 
 ## Basic Pinning Strategy
 

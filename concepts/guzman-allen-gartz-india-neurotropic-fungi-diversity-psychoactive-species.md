@@ -1,5 +1,5 @@
 ---
-title: India Neurotropic Fungi Diversity
+title: Guzman Allen Gartz India Neurotropic Fungi Diversity Psychoactive Species
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 source_author: Guzmán, Allen & Gartz (2000)
 type: concept
@@ -55,7 +55,7 @@ India has a particularly rich Panaeolus fauna:
 
 ### Psilocybe Species
 The Psilocybe genus is well-represented in India with several notable species:
-- **Psilocybe cubensis** — Wasson (1982), Natarajan & Raman (1983), Wasson et al. (1986), Stamets (1996). The most widely cultivated psychoactive mushroom, found growing on bovine dung in tropical regions.
+- **Psilocybe cubensis** — Wasson (1982), Natarajan & Raman (1983), Wasson et al. (1986), Stamets (1996). The most widely cultivated psychoactive mushroom, found growing on bovine dung [[fukuoka-natural-farming-in-tropical-regions]].
 - **Psilocybe goniospora** — Pegler (1977)
 - **Psilocybe indica** — Sathe & Daniel (1980), Guzmán (1995). A species apparently endemic to India.
 - **Psilocybe natarajanii** — Natarajan & Raman (1983, 1985), Guzmán (1995). Named after the Indian mycologist who contributed significantly to documenting the subcontinent's neurotropic fungi.
@@ -81,23 +81,23 @@ The documentation of India's neurotropic fungi owes much to the systematic work 
 
 ## Ecological Notes
 
-Most of India's neurotropic fungi are coprophilous (dung-inhabiting), particularly the Panaeolus, Copelandia, and Psilocybe cubensis species. The prevalence of cattle in Indian agriculture creates abundant substrate for these species. The temperate species such as P. semilanceata are found at higher elevations, while tropical lowland species like P. cubensis and Copelandia spp. dominate the plains and coastal regions. The Himalayan foothills and higher reaches may harbor undiscovered species adapted to montane conditions.
+Most of India's neurotropic fungi are coprophilous (dung-inhabiting), particularly the Panaeolus, Copelandia, and [[stamets-psi-psilocybe-cubensis-species-guide]]. The prevalence of cattle in Indian agriculture creates abundant substrate for these species. The temperate species such as P. semilanceata are found at higher elevations, while tropical lowland species like P. cubensis and Copelandia spp. dominate the plains and coastal regions. The Himalayan foothills and higher reaches may harbor undiscovered species adapted to montane conditions.
 
 The distribution pattern across India reflects its climatic diversity:
 - **Tropical lowlands** (Kerala, Tamil Nadu, Karnataka): Copelandia cyanescens, C. tirunelveliensis, Psilocybe cubensis, Panaeolus subbalteatus. The warm, humid conditions year-round provide ideal growing conditions for coprophilous species. The Tirunelveli region of Tamil Nadu appears to be a particular hotspot, with the endemic C. tirunelveliensis described from there.
 - **Subtropical regions** (Maharashtra, Madhya Pradesh): Mixed assemblage of Panaeolus and Panaeolina species, with some Gymnopilus in forested areas.
-- **Temperate Himalayan zones**: Amanita muscaria in coniferous forests, Psilocybe semilanceata in alpine meadows, and Inocybe species in mixed woodlands.
+- **Temperate Himalayan zones**: [[amanita-muscaria-in-eastern-religions]] coniferous forests, Psilocybe semilanceata in alpine meadows, and Inocybe species in mixed woodlands.
 - **Northeastern India** (Assam, Meghalaya, Arunachal Pradesh): This region, with its high rainfall and subtropical-to-tropical climate, is likely one of the most under-explored areas for neurotropic fungi. Its proximity to Southeast Asian hotspots (Thailand, Myanmar) suggests it may harbor species similar to those found in Indochina.
 
 ## Chemical and Taxonomic Considerations
 
-Several of the species listed for India lack confirmed chemical analyses. While Psilocybe cubensis, P. semilanceata, Copelandia cyanescens, and Amanita muscaria are well-established as psychoactive, the status of some Hypholoma, Gymnopilus, and Panaeolus species relies on extrapolation from analyses of specimens collected elsewhere. The work of Natarajan & Raman (1983) provided the foundational taxonomic framework, but modern analytical methods (HPLC, LC-MS) could potentially confirm or revise the neurotropic status of several Indian species.
+Several of the species listed for India lack confirmed chemical analyses. While Psilocybe cubensis, P. semilanceata, Copelandia cyanescens, [[biblical-manna-and-amanita-muscaria]] are well-established as psychoactive, the status of some Hypholoma, Gymnopilus, and Panaeolus species relies on extrapolation from analyses of specimens collected elsewhere. The work of Natarajan & Raman (1983) provided the foundational taxonomic framework, but modern analytical methods (HPLC, LC-MS) could potentially confirm or revise the neurotropic status of several Indian species.
 
 The discovery of Panaeolina microsperma in India is noteworthy because this species has been the subject of conflicting chemical analyses worldwide. Some researchers have detected trace psilocybin while others found none, highlighting the variability that can occur across different populations and analytical methods.
 
 ## Cultural Context
 
-While India's documented indigenous use of psychoactive mushrooms is less extensive than that of Mexico or New Guinea, the Vedic Soma tradition represents perhaps the oldest known cultural association between humans and psychoactive fungi. The Rig Veda (c. 1500 BCE) contains over 100 hymns dedicated to Soma, described as a divine intoxicating substance. Whether Soma was actually Amanita muscaria (as Wasson proposed), Psilocybe species, or something else entirely remains one of the great unanswered questions in ethnomycology. The diversity of neurotropic fungi documented across India suggests multiple candidates were available to ancient peoples.
+While India's documented indigenous use [[historical-and-cultural-uses-of-psychoactive-mushrooms]] is less extensive than that of Mexico or New Guinea, the Vedic Soma tradition represents perhaps the oldest known cultural association between humans and psychoactive fungi. The Rig Veda (c. 1500 BCE) contains over 100 hymns dedicated to Soma, described as a divine intoxicating substance. Whether Soma was actually Amanita muscaria (as Wasson proposed), Psilocybe species, or something else entirely remains one of the great unanswered questions in ethnomycology. The diversity of neurotropic fungi documented across India suggests multiple candidates were available to ancient peoples.
 
 ## Key Researchers and Publications
 

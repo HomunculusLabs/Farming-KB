@@ -20,9 +20,9 @@ sources:
 
 **Acer platanoides**, commonly known as Norway maple, is a medium to large deciduous tree in the family Sapindaceae. It is native to continental Europe and western Asia, from France east to the Ural Mountains and from southern Scandinavia to the Caucasus.
 
-The species is widely planted as a street and shade tree across temperate regions worldwide. Several cultivars, particularly purple-leaved and variegated forms, are among the most popular ornamental trees in urban landscapes.
+The species is widely planted as a street and shade tree across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. Several cultivars, particularly purple-leaved and variegated forms, are among the most popular ornamental trees in urban landscapes.
 
-Norway maple has become naturalized and invasive in parts of North America, eastern Canada, and New Zealand. Its dense canopy shades out native understory vegetation, and its prolific [[growing-gourmet-north-american-reishi-species]] cities. Its broad, dense crown provides excellent shade, and its tolerance of road salt and compacted soils made it ideal for urban conditions.
+Norway maple has become naturalized and invasive in parts [[huckleberries-and-wild-berries-of-north-america]], eastern Canada, and New Zealand. Its dense canopy shades out native understory vegetation, and its prolific [[growing-gourmet-north-american-reishi-species]] cities. Its broad, dense crown provides excellent shade, and its tolerance of road salt and compacted soils made it ideal for urban conditions.
 
 ## Taxonomy and Morphology
 
@@ -77,7 +77,7 @@ Fallen Norway maple leaves decompose more slowly than those of many native speci
 ## Overview
 
 Acer Platanoides represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Acer Platanoides finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,7 +106,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 acer platanoides and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

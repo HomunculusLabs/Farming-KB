@@ -1,12 +1,12 @@
 ---
-title: Frost Protection and Radiation Management
+title: Frost Protection And Radiation Management
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Frost Protection and Radiation Management
 
-Frost and solar radiation are opposing thermal forces that permaculture designers must manage
+Frost and [[albedo-and-solar-radiation]] are opposing thermal forces that [[bill-mollison]] must manage
 simultaneously. Frost results from **radiative heat loss** on clear, still nights, while
 excessive solar radiation damages plants and human health. Skillful [[acacia-dealbata]])** is a classic choice — fast-growing, nitrogen-fixing,
 providing wind shelter and temperature moderation. Other options include black locust,
@@ -27,7 +27,7 @@ The **thermosiphon principle** — hot fluids rise, cold fluids sink — drives 
 
 - **Heat sources below storage:** Place compost, rocket stoves, or solar collectors below
   thermal mass so heat naturally rises through it
-- **Solar chimneys:** Sun-heated vertical shafts create strong convection, drawing cool air
+- **[[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]]:** Sun-heated vertical shafts create strong convection, drawing cool air
   through lower vents and exhausting hot air at the top
 - **Cross-ventilation:** Opposing openings let prevailing breezes create consistent airflow
 
@@ -63,7 +63,7 @@ The balance between **maximizing solar gain** and **providing shelter** shifts b
 ### Cool and Cold Climates
 
 - Maximize equatorial solar gain; minimize clearing width to control frost
-- Massive thermal storage inside insulated envelopes
+- Massive [[coleman-soil-heat-mass-passive-thermal-storage]] inside insulated envelopes
 - Evergreen windbreaks polar side; deciduous equatorial side
 - Thermosiphon collectors for space and water heating
 
@@ -76,7 +76,7 @@ The balance between **maximizing solar gain** and **providing shelter** shifts b
 ### Hot and Arid Climates
 
 - Prioritize shade over solar gain; massive earth for thermal inertia
-- Narrow streets and courtyards for mutual shading; evaporative cooling
+- Narrow streets and courtyards for mutual shading; [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]
 - Deep, narrow clearings maximizing shade, minimizing sky exposure
 
 ### Tropical and Humid Climates

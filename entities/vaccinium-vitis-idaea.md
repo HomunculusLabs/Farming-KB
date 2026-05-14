@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Jaakola, L. et al. (2001). "Vaccinium vitis-idaea." In: Wild Berries of Northern Europe. University of Helsinki Press.
   - Hagerman, A.E. et al. (1992). "Tannin chemistry of the genus Vaccinium." Journal of Chemical Ecology, 18(10), 1807-1824.
-  - Riihinen, K. et al. (2008). "Phenolic compounds in berries of Finnish lingonberry (Vaccinium vitis-idaea L.) cultivars." European Food Research and Technology, 227(3), 717-724.
+  - Riihinen, K. et al. (2008). "[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in berries of Finnish lingonberry (Vaccinium vitis-idaea L.) cultivars." European Food Research and Technology, 227(3), 717-724.
   - Uleberg, E. et al. (2012). "Effects of temperature and photoperiod on cannabis-vegetative-growth-stage and flowering of Vaccinium vitis-idaea L." Scientia Horticulturae, 140, 66-72.
 ---
 
@@ -70,14 +70,14 @@ In traditional Sámi medicine, lingonberry leaves and berries were used to treat
 
 In Russian folk medicine, lingonberry leaf infusions are used as a diuretic and antiseptic. The berries are consumed to [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]] scurvy, leveraging their sustained vitamin C content.
 
-Commercial lingonberry products have expanded beyond traditional markets, with lingonberry powder, concentrates, and dietary supplements now available internationally. The growing demand for berry-derived nutraceuticals has increased wild harvesting pressure.
+Commercial lingonberry products have expanded beyond traditional markets, with lingonberry powder, concentrates, [[functional-foods-and-dietary-supplements-from-medicinal-mushrooms]] now available internationally. The growing demand for berry-derived nutraceuticals has increased wild harvesting pressure.
 
 ## Cultivation
 
 ## Overview
 
 Vaccinium Vitis Idaea represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Vaccinium Vitis Idaea finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,7 +106,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 vaccinium vitis idaea and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

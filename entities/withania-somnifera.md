@@ -1,5 +1,5 @@
 ---
-title: "Withania Somnifera"
+title: Withania Somnifera
 type: species
 tags:
   - herbal-plant
@@ -111,7 +111,7 @@ Ashwagandha root extract has shown the ability to normalize thyroid hormone leve
 
 | Parameter        | Requirement                           |
 |------------------|---------------------------------------|
-| Soil             | Sandy loam, well-drained, pH 7.5–8.0 |
+| Soil             | [[sandy-loam-texture-cannabis-microbiome-assembly]], well-drained, pH 7.5–8.0 |
 | Climate          | Semi-arid, 20–35°C                    |
 | Rainfall         | 500–750 mm annually                   |
 | Propagation      | [[blesching-cannabis-safety-profile]]**: GRAS in the US; LD50 > 5 g/kg in rodents (extremely [[blesching-cannabis-health-index-autoimmune-conditions]] (immune-stimulating)

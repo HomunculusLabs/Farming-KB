@@ -11,7 +11,7 @@ type: concept
 
 # Mixed Population Microbial Kill Kinetics in Microwave Surface Sterilization
 
-The NASA MSC-22484 microwave surface sterilization experiments used a mixed
+The NASA MSC-22484 [[microwave-surface-sterilization]] experiments used a mixed
 population of challenge microorganisms to validate system performance. This
 approach differs from single-organism sterility testing by simultaneously
 challenging the sterilization system with organisms of varying resistance levels,

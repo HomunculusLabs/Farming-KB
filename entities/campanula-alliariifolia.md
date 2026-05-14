@@ -44,20 +44,18 @@ The style extends beyond the corolla and curves downward, a trait shared with ot
 
 The ivory bellflower is not considered threatened, though habitat degradation from overgrazing affects some lower-elevation populations. [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. It performs best in full sun to partial shade with consistent moisture during [[permaculture-plants-ground-covers-and-accumulators]] grasses. It persists best in sites where competition is limited by shallow soil or rocky conditions.
 
+
 ## See Also
 
-- [[campanula-alpestris]]
-- [[campanula-bononiensis]]
-- [[campanula-divergens]]
-- [[campanula-erinus]]
-- [[campanula-latiloba]]
-- [[campanula-merxmuelleri]]
-- [[campanula-ochroleuca]]
-- [[campanula-parryi]]
-- [[campanula-ramosa]]
-- [[campanula-sabatia]]
-- [[campanula-stevenii]]
-- [[campanula-waldsteiniana]]
+- [[campanula-alyssifolia]]
+- [[campanula-bellidifolia]]
+- [[campanula-crenulata]]
+- [[campanula-divaricata]]
+- [[campanula-ericoides]]
+- [[campanula-flammula]]
+- [[campanula-linifolia]]
+- [[campanula-pusilla]]
+- [[campanula-takesimana]]
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
-title: Tidal Fisheries and Salicornia Flat Aquaculture
-source: bill-mollison-permaculture-two-practical-design-for-to.md
+title: Tidal Fisheries And Salicornia Flat Aquaculture
+source: bill-[[mollison-salicornia-flats-and-estuarine-aquaculture|mollison]]-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
@@ -66,7 +66,7 @@ Very few shellfish and inshore species are NOT susceptible to rearing or managem
 9. **Deeps** for fish refuges with cover nets or cormorant refuges
 10. **Manured seagrass fields** wave-protected by low bunds
 11. **Sub-surface (permeable) walls** to retard tide flow in scoured estuaries
-12. **Substrate materials** to catch new fry or algal forms
+12. **[[growing-gourmet-substrate-materials-wood-types]]** to catch new fry or algal forms
 
 ## Tidal Stone Traps
 
@@ -94,9 +94,9 @@ When tide-fall is too slight, or in lakes and lagoons:
 
 ### Multiple Values
 - **Public resource**: Excellent insulators; very resistant to burning
-- **Safe insulation**: Safe from lung cancer caused by mineral fibres
+- **Safe insulation**: Safe from [[blesching-cannabis-lung-cancer]] caused by mineral fibres
 - **Building insulation**: Under slabs, fumed with creosote or encased in thin plastic; insulates from ground cold, prevents heat escape to earth
-- **Forage**: Spring growth grazed by waterfowl; heavy summer seed production (forage seeds or flour)
+- **Forage**: Spring growth grazed by waterfowl; heavy summer [[cannabis-controlled-pollination-seed-production]] (forage seeds or flour)
 - **Soil conditioner**: Sea-grass mulch
 
 ### Status
@@ -110,7 +110,7 @@ When tide-fall is too slight, or in lakes and lagoons:
 - Provides essential local phosphate and nitrogenous fertilizer for adjacent land crops
 - Even large artificial platforms commercially viable (southwest Africa)
 - Pelican and cormorant roost on "islands," deposit tons of guano
-- In humid climates, rain dissolves guano: need storage tanks or covered solar evaporative pans
+- In [[berry-fruit-production-cool-humid-climates]], rain dissolves guano: need [[water-storage-tanks]] or covered solar evaporative pans
 - "Sea-grass mulch and guano close the sea-land cycle of nutrients"
 
 ### Seabird Management

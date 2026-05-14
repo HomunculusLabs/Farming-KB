@@ -1,5 +1,5 @@
 ---
-title: Farm Design [[farm-strategies-for-yield-increase]] Increase
+title: "Mollison Farm Design Strategies For Yield Increase"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

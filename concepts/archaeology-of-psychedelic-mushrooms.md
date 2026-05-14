@@ -1,6 +1,6 @@
 ---
 
-title: Archaeology of Psychedelic Mushroom Use
+title: Archaeology Of Psychedelic Mushrooms
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -31,12 +31,12 @@ The archaeological evidence for prehistoric psychedelic mushroom use is fragment
 
 The direct evidence is extremely limited:
 - **Scole, Norfolk (Roman well):** Puffball spores (Lycoperdon) found in a Roman well. These puffballs were past the edible stage when deposited, making their presence mysterious — possibly used for magic, medicine, or even loft insulation.
-- **North American grave guardians:** 19th-century indigenous grave "guardians" (carved figures of faces and animals) were found to be made from dried Fomitopsis officinalis mushroom, not wood as originally thought.
-- **Ergot (Claviceps purpurea):** Ergot sclerotia were found in the stomach contents of the exquisitely preserved Iron Age "bog bodies" of Denmark (Grauballe Man and others). However, whether ergot was consumed knowingly for its psychoactive effects is unclear — Grauballe Man appears to have been violently executed.
+- **North American grave guardians:** 19th-century indigenous grave "guardians" (carved figures of faces and animals) were found to be made from dried [[fomitopsis-officinalis-entity]] mushroom, not wood as originally thought.
+- **Ergot ([[bloomfield-ergot-claviceps-purpurea-ergotism]]):** Ergot sclerotia were found in the stomach contents of the exquisitely preserved Iron Age "bog bodies" of Denmark (Grauballe Man and others). However, whether ergot was consumed knowingly for its psychoactive effects is unclear — Grauballe Man appears to have been violently executed.
 
 ### Psychoactive Plant Evidence
 
-Preserved poppy heads (Papaver somniferum) uncovered in Britain, Switzerland, and Spain suggest opium production from the Neolithic onwards. Cannabis (Cannabis sativa) evidence appears in Britain and Eastern Europe from perhaps the late Bronze Age. Henbane (Hyoscyamus niger) seeds and pollen have been found in Neolithic Grooved Ware pottery at Balfarg in Scotland.
+Preserved poppy heads ([[papaver-somniferum]]) uncovered in Britain, Switzerland, and Spain suggest opium production from the Neolithic onwards. Cannabis (Cannabis sativa) evidence appears in Britain and Eastern Europe from perhaps the late Bronze Age. Henbane (Hyoscyamus niger) seeds and pollen have been found in Neolithic Grooved Ware pottery at Balfarg in Scotland.
 
 However, Letcher argues that the presence of these plants does not guarantee psychoactive use: poppy seeds are nutritious, opium is a painkiller, cannabis has medical uses and fiber applications, and henbane seeds might have been kept purely as a display of mastery over a poisonous plant.
 
@@ -69,7 +69,7 @@ Letcher identifies a fundamental problem: "It is not enough to identify an image
 ## See Also
 
 - [[psychedelic-mushroom-history]] — Timeline of documented mushroom use
-- [[mushroom-folklore-and-culture]] — Folklore and cultural significance
+- [[mushroom-folklore-and-culture]] — Folklore [[amanita]]
 - [[siberian-shamanism-and-amanita]] — Best-documented indigenous mushroom tradition
 - [[terence-mckenna]] — Popularizer of the Tassili mushroom art interpretation
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Archaeology Of Psychedelic Mushrooms finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

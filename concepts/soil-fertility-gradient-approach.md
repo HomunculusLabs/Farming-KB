@@ -1,87 +1,85 @@
 ---
 title: Soil Fertility Gradient Approach
-aliases:
-  - fertility gradient
-  - soil-improving-gradient
-tags:
-  - organic-gardening
-  - soil-management
-  - compost
-  - horticulture
-sources:
-  - "gardening-when-it-counts-steve-solomon"
-synopsis: >-
-  complete-organic-fertilizer-cof (COF) systems. Each step
-  up the gradient produces better results, allowing gardeners to match
-  their effort and budget to expected yields.
+source: gardening-when-it-counts-steve-solomon.md
+type: concept
 ---
 
 # Soil Fertility Gradient Approach
 
-## Philosophy
+The soil fertility gradient is a step-by-step framework for improving garden soil productivity, designed by [[steve-solomon]] to accommodate gardeners with widely varying resources. Rather than prescribing a single expensive approach, the gradient offers progressively better results at each level, allowing gardeners to start at the level that matches their means and advance as they are able.
 
-Steve Solomon's gradient [[duggar-stable-manure-selection-compost-materials]], while some can afford any input. Rather
-than prescribing one approach, Solomon provides a sequence of gradient [[ingham-cover-crops-soil-biology]] investment to their situation.
+## The Zero-Input Level
 
-## Step 1: No Soil Improvers
+At the most basic level, a gardener may have no access to compost, manure, or mineral amendments. In this scenario, the only practical strategy is to grow **low-demand vegetables** — crops that can produce a reasonable yield on relatively infertile soil without any added fertility. Examples include root crops like potatoes, certain beans, and hardy greens. This level is essentially survival gardening and yields will be modest, but it is still possible to grow food.
 
-The baseline: spade up the soil, keep weeds hoed out, and hope for the
-best. Only low-demand crops can be attempted. This is only viable for
-new gardens without a completed compost heap and for those unwilling to
-use humanure.
+## The Minimal Amendment Level
 
-A minimum approach is to spread at least 1/4 inch (6mm) of manure or
-compost, and preferably at least 1/2 inch, before spading. Even this
-thin layer enables growing low-demand vegetables.
+The next step up is to apply a thin layer of organic material or manure. Even a **¼-inch (6 mm) layer** of sacked [[steer-manure]] or finished compost, plus the recommended amount of lime (50 lb per 1,000 sq ft / 25 kg per 100 m²), spread and dug in before planting, will meaningfully improve results. At this level, gardeners can grow both low-demand and some medium-demand vegetables.
 
-## Step 2: Manure or Compost Only
+If the gardener has composted [[chicken-manure]] available, even better — a thin layer (⅛ inch / 3 mm) of composted chicken manure at 50 lb per 1,000 sq ft provides significantly more available nutrients than steer manure.
 
-The next step up uses semi-decomposed ruminant manure or finished
-compost. Apply a minimum of 1 inch (25mm) layer over the garden before
-spading. This enables growing both low-demand and some medium-demand
-vegetables.
+## The COF Level (Complete Organic Fertilizer)
 
-If insufficient compost exists for the entire garden, concentrate
-available compost/manure on the area intended for demanding crops and
-attempt low-demand vegetables on unamended soil. A useful strategy is
-growing low-demand vegetables on ground that received manure the
-previous year — residual fertility will still be present.
+A substantial improvement comes from replacing or supplementing manure with **[[complete-organic-fertilizer]] (COF)**. COF is a potent, balanced mixture of seed meals, agricultural lime (or dolomite), gypsum, and bone meal (or rock phosphate) that provides all the major and minor nutrients plants need. The recommended application rate is approximately **1 quart per 100 square feet** (about 4–6 liters per 10 m²), mixed into the top few inches of soil.
 
-## Step 3: Manure Plus Lime
+COF is far more economical and effective per dollar than purchasing bulk manure, and it avoids the risk of applying excessive organic matter that can unbalance soil mineral ratios.
 
-Adding lime to the manure/compost program improves results. Apply:
+## The Full Amendment Level
 
-- Steer manure or finished compost: 1 inch layer
-- Lime: 50 lbs per 1,000 sq ft (25 kg per 100 sq m)
-- Spade, rake, and plant
+At the top of the gradient, gardeners apply both **generous amounts of compost or manure** (up to double the minimum recommendations) **plus COF**. This is Solomon's own approach in his garden. The combination provides abundant organic matter for soil structure and microbial life, plus complete mineral nutrition. The key caution is: **never apply more than double the recommended amount of organic matter**, as excessive organic matter can unbalance soil minerals even when COF is also used.
 
-This step corrects calcium deficiencies and improves soil structure.
-It is suitable for growing medium-demand vegetables with reasonable
-productivity.
+## Soil Fertility Summary Table
 
-## Step 4: Manure Plus COF (Recommended)
+| Crop Demand | Sacked Steer Manure | Finished Compost | Chicken Manure | Lime | COF Alternative |
+|---|---|---|---|---|---|
+| Low-demand | ¼" layer | ¼" layer | ⅛" (3mm) | 50 lb/1000 ft² | 1" manure/compost + COF |
+| Medium-demand | ¼" layer | ½" layer | ¼" (6mm) | 50 lb/1000 ft² | 2" manure/compost + COF |
+| High-demand | ½" layer | 1" layer | ¼" (6mm) | 50 lb/1000 ft² | 4" manure/compost + COF |
 
-The optimal approach combines modest amounts of manure or compost with
-Complete Organic Fertilizer (COF):
+## Banding Fertilizer for Hills
 
-- Steer manure or finished compost: 1 inch layer
-- COF: 4-6 quarts per 100 sq ft (4-6 liters per 10 sq m)
-- Spade, rake, and plant
+For large plants (tomatoes, squash, brassicas), Solomon recommends **banding** — placing additional concentrated fertilizer in a band or zone near where the young roots will develop. This practice, called "banding" by agronomists, ensures that newly emerged seedlings immediately encounter a zone of high fertility, giving them a fast start that helps them outgrow environmental threats like insect damage. A single insect can destroy a tiny seedling, but once the plant is 50 times larger, it can easily tolerate the same damage.
 
-This combination produces incredibly nutritious food. COF is potent —
-use no more than recommended. If vegetables seem to be growing poorly,
-fix the problem with more manure or compost rather than additional COF,
-which could unbalance soil minerals.
+## Key Principles
 
-## Step 5: Maximum Fertility
+1. **Any amount of organic matter helps**, but more is not always better — excess organic matter unbalances soil minerals.
+2. **COF is the most cost-effective fertility input** per unit of food produced.
+3. **Low-demand crops can be grown on unamended soil** if necessary.
+4. **The gradient is cumulative** — each step builds on the previous one.
+5. **Steer manure is widely available but weak**; chicken manure is much more potent (NPK ~4-3-2).
+6. **Lime should not be over-applied**; excessive liming harms soil chemistry.
 
-For the most demanding vegetables (celery, cauliflower), prepare a
-separate zone with doubled inputs:
+## Soil Health Context
+Understanding soil structure and management is essential for
+sustainable agriculture. Healthy soil provides the foundation
+for plant growth, water retention, and nutrient cycling.
+Proper soil management practices improve long-term productivity
+and reduce the need for external inputs.
 
-- 2 inch layer of steer manure or finished compost
-- COF blended into the top few inches of soil
-- Additional COF placed in hills around large plants
+## Practical Implementation
+Successful implementation requires attention to local conditions
+including climate, soil type, and existing vegetation. Start with
+small test areas before scaling up. Monitor results over multiple
+growing seasons to assess effectiveness and adjust approaches
+based on observed outcomes.
+
+## Environmental Benefits
+These practices contribute to improved soil ecosystem health,
+enhanced biodiversity, and reduced environmental impact.
+Soil organic matter increases over time, improving water
+infiltration and reducing erosion. Biological activity thrives
+in well-managed soil systems.
+
+## Seasonal Considerations
+Timing of soil management activities affects outcomes significantly.
+Spring and fall offer different conditions for soil work. Soil
+moisture levels must be appropriate for any tillage or amendment
+operations. Plan activities around weather patterns and crop
+rotations for best results.
 
 ## See Also
-
 - [[soil-fertility-building-gradient-solomon]]
+- [[soil-fertility-gradient-solomon]]
+- [[fukuoka-textdoc-soil-microorganism-natural-fertility-one-gram-soil]]
+- [[cannabis-alpha-diversity-gradient-bulk-soil-rhizosphere-endorhiza]]
+- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]

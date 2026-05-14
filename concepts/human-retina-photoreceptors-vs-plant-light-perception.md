@@ -1,5 +1,5 @@
 ---
-title: Human Retina Photoreceptors and the Comparison to [[chamovitz-ultraviolet-and-infrared-plant-light-perception]]
+title: "Human Retina Photoreceptors Vs Plant Light Perception"
 created: 2026-05-11
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [photoreception, retina, rods, cones, rhodopsin, photopsin, plant-vision, chamovitz]

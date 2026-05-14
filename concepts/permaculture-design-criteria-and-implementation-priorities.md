@@ -1,6 +1,6 @@
 ---
-title: Permaculture Design Criteria and Implementation Priorities
-source: bill-mollison-permaculture-two-practical-design-for-to.md
+title: Permaculture Design Criteria And Implementation Priorities
+source: [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design|bill]]-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
@@ -22,7 +22,7 @@ Mollison states that the main reasons for designing a plant system are:
 
 ## Critique of Conventional Landscape Design
 
-Mollison is scathing about what passes for landscape design in Western culture:
+Mollison is scathing about what passes for landscape design in [[mycophobia-in-western-culture]]:
 
 ### The Taj Mahal Example
 "The formal lawns outside the courts of the Taj are maintained by a crouching group of 20–30 widows, equipped with small knives to cut the grass, and forced to this undignified labour by the need to maintain the status of (deceased) nobility."
@@ -39,7 +39,7 @@ Mollison recounts a man in Burnie, Tasmania who planted cabbages on his "nature 
 ## The Two Elements of Good Design
 
 1. **Principles**: The management of natural elements to the advantage of man and the environment (where we are going)
-2. **Procedures**: Practical gardening and farming techniques (how we get there)
+2. **Procedures**: Practical gardening and [[holzer-alpine-farming-techniques]] (how we get there)
 
 Windbreak shape, species, and placement fall under principles; mulching, manuring, and soil improvement fall under procedures.
 
@@ -58,7 +58,7 @@ Mollison distinguishes masters: "Yeoman is a master of design; Fukuoka is a mast
 ### Energy Criteria
 - **Passive energy systems**: The site must work with natural energy flows
 - **Minimal external energy needs**: The system should be self-sustaining
-- **Adequate climate control on site**: Without mechanical intervention
+- **Adequate [[mollison-pdc-trellis-systems-climate-control]] on site**: Without mechanical intervention
 - **Future developments planned**: Space reserved for future energy systems
 
 ### Self-Sufficiency Criteria
@@ -79,7 +79,7 @@ Mollison distinguishes masters: "Yeoman is a master of design; Fukuoka is a mast
 ### Planning Priority
 1. First priority: **Planning**
 2. Second: **Human needs**
-3. Third: **Energy conservation**
+3. Third: **[[desert-house-water-energy-conservation]]**
 4. Almost as a result: **Environmental modification by designs and structures**
 
 ### Construction Priority
@@ -109,7 +109,7 @@ These two rules, combined with the criteria above, constitute the complete metho
 Ranked by energy efficiency:
 1. Against dwellings as heat sources and stores, and to grow food
 2. Against non-dwelling structures as heat sources
-3. As part of animal housing, with heat, manure, and gas exchange
+3. As part of [[permaculture-designers-manual-animal-housing-detailed]], with heat, manure, and gas exchange
 4. Only finally, or perhaps never: as free-standing, all-glazed structures
 
 ### How to Deal with Preventive Wind?
@@ -148,9 +148,3 @@ Mollison identifies four components of total yield:
 4. **Social and health yields**
 
 The total yield depends more on design—knowledge and intellect—than on available energy. Design determines edge amount, species arrangement, and energy flow—all of which multiply productivity beyond what any single crop analysis would predict.
-
-## The Stabilization Imperative
-
-"Stabilization and utilization of landscape is a moral issue with global implications." Mollison warns that "poverty-stricken nomads following huge goat flocks" and "a row of harvesting machines" are equally "variations on the theme of biological extinction."
-
-"It is our firm belief that if one cannot maintain or improve a system one should leave it alone, thus minimising damage and preserving complexity." Settlements must include total food provision, or the result is "the double jeopardy of sterile city and delinquent landscape, a fatal combination."

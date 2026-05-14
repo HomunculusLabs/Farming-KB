@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Blue Dream is a sativa-dominant [[cannabis-terpene-profile]] that defines the sativa side of Blue Dream.
+[[blue-dream]] is a sativa-dominant [[cannabis-terpene-profile]] that defines the sativa side of Blue Dream.
 
 ### Genetic Ratio
 
@@ -32,7 +32,7 @@ The characteristic aroma and effects of Blue Dream are largely determined by its
 
 ### Myrcene (Primary)
 
-Concentration: 0.5–1.2% of dry weight. Myrcene is the most abundant terpene in Blue Dream and contributes its signature earthy, herbal, and subtly sweet notes. As a known synergist, myrcene enhances the absorption of other cannabinoids through the blood-brain barrier and contributes to the strain's relaxing body effects.
+Concentration: 0.5–1.2% of dry weight. [[myrcene]] is the most abundant terpene in Blue Dream and contributes its signature earthy, herbal, and subtly sweet notes. As a known synergist, myrcene enhances the absorption of other cannabinoids through the blood-brain barrier and contributes to the strain's relaxing body effects.
 
 ### β-Caryophyllene (Secondary)
 

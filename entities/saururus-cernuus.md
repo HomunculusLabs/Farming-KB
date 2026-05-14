@@ -13,7 +13,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Godfrey, R.K. & Wooten, J.W. (1981). "permaculture-plants-aquatic-and-wetland-species Plants of Southeastern United States." University of Georgia Press.
-  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-[[native-american-church]] Ethnobotany." Timber Press.
   - USDA NRCS (2024). "Saururus cernuus Plant Guide." USDA Natural Resources Conservation Service.
   - Cook, C.D.K. (1996). "[[polypore-fungi-eastern-north-america]]. It is commonly known as lizard's tail, a name referring to the arching, tail-like inflorescence that curves downward at its tip.
 

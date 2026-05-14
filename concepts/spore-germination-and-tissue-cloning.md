@@ -6,7 +6,7 @@ type: concept
 
 # Spore Germination and Tissue Cloning Techniques
 
-Starting fungal cultures is the foundational skill of mushroom cultivation. Two primary pathways exist: spore germination, which produces genetically variable offspring, and tissue cloning, which creates genetically identical copies of a parent mushroom. Each method has distinct advantages depending on the cultivator's goals—whether breeding new strains adapted to local conditions or preserving the exact genetics of a high-performing specimen.
+Starting fungal cultures is the foundational skill of [[mushroom-cultivation]]. Two primary pathways exist: spore germination, which produces genetically variable offspring, and tissue cloning, which creates genetically identical copies of a parent mushroom. Each method has distinct advantages depending on the cultivator's goals—whether breeding new strains adapted to local conditions or preserving the exact genetics of a high-performing specimen.
 
 ## Spores vs. Cloning: Choosing the Right Approach
 
@@ -49,14 +49,14 @@ Supplementing agar with a small amount of the mushroom's preferred substrate (su
 - Alcohol lamp
 - Tape or Parafilm
 - Ziplock bags
-- Spray bottle with 70% isopropyl alcohol
+- Spray bottle with 70% [[isopropyl-alcohol]]
 - Spore print stored in a sealed bag (opened only during transfer)
 
 ### Spore Streaking Procedure
 
 #### Step 1: Workspace Preparation
 
-Prepare the lab or workspace approximately one hour before beginning transfers. Turn on the laminar flow hood and sanitize the entire interior with 70% isopropyl alcohol, wiping down multiple times. Sanitize all tools. Place prepoured petri plates at the inside edge of the hood workspace, directly against the filter face, where the air is most sterile. Arrange equipment from sterile (near filter) to sanitized (middle of workspace) to non-sterile (nearest the operator). Leave the room, shut the door, and allow the HEPA filter to clean the air for at least one hour. Upon returning, ensure all needed tools are within reach and light the alcohol lamp.
+Prepare the lab or workspace approximately one hour before beginning transfers. Turn on the [[laminar-flow-hood]] and sanitize the entire interior with 70% isopropyl alcohol, wiping down multiple times. Sanitize all tools. Place prepoured petri plates at the inside edge of the hood workspace, directly against the filter face, where the air is most sterile. Arrange equipment from sterile (near filter) to sanitized (middle of workspace) to non-sterile (nearest the operator). Leave the room, shut the door, and allow the HEPA filter to clean the air for at least one hour. Upon returning, ensure all needed tools are within reach and light the alcohol lamp.
 
 #### Step 2: Tool Sterilization
 
@@ -84,7 +84,7 @@ Examine cultures regularly for mycelial growth. Most mushroom mycelium is white,
 
 #### Step 8: Sectoring and Selection
 
-After streaking, different strains (ecotypes) of the same mushroom may separate and grow at different rates—a phenomenon called "sectoring." The healthiest, fastest-growing strains surge outward while inferior strains lag behind. These vigorous sectors are selected for successive transfers. After several rounds of petri-to-petri transfer producing symmetrical, radiating mycelial growth, multiple backup plates should be made for storage, and a few used to initiate grain spawn production.
+After streaking, different strains (ecotypes) of the same mushroom may separate and grow at different rates—a phenomenon called "sectoring." The healthiest, fastest-growing strains surge outward while inferior strains lag behind. These vigorous sectors are selected for successive transfers. After several rounds of petri-to-petri transfer producing symmetrical, radiating mycelial growth, multiple backup plates should be made for storage, and a few used to initiate [[grain-spawn-production]].
 
 ## Tissue Cloning: Step-by-Step
 
@@ -117,19 +117,19 @@ Different mushroom species present unique cloning challenges:
 
 - **Oyster mushrooms** (*Pleurotus* spp.): Clone easily from cap tissue; very forgiving for beginners
 - **Shiitake** (*Lentinula edodes*): More sensitive; careful tissue selection from the cap interior improves success
-- **Reishi** (*Ganoderma lucidum*): The tough, woody texture requires a sharp scalpel and firm hand
-- **Maitake** (*Grifola frondosa*): Pick about substrate; using oak-enriched agar improves results
-- **Lion's mane** (*Hericium erinaceus*): Produces faint mycelium that can be hard to see; colored agar backgrounds improve visibility
+- **Reishi** (*[[ganoderma-lucidum]]*): The tough, woody texture requires a sharp scalpel and firm hand
+- **Maitake** (*[[grifola-frondosa]]*): Pick about substrate; using oak-enriched agar improves results
+- **Lion's mane** (*[[cancer-medicinal-mushrooms-hericium-erinaceus]]*): Produces faint mycelium that can be hard to see; colored agar backgrounds improve visibility
 
 ### Agar Formula Selection
 
 Different mushrooms prefer different agar formulas for successful cloning. Potato agar is a reliable general-purpose medium, but some species perform better on enriched or alternative bases:
 
-- **Wood-loving species**: Benefit from sawdust or wood extract enrichment
+- **Wood-loving species**: Benefit from sawdust or wood [[straw-substrate-yeast-extract-enrichment-jarrold]]
 - **Coprophilous species**: May prefer grain-based or manure-enriched agar
 - **Mycorrhizal species**: Often require specialized media with root exudates or specific nutrients
 
-Keeping detailed records of which agar formulas produce the best results for each species enables systematic improvement over time.
+[[goose-keeping-detailed]] records of which agar formulas produce the best results for each species enables systematic improvement over time.
 
 ## Maintaining Culture Purity
 
@@ -148,33 +148,3 @@ The primary enemy of culture work is contamination by airborne molds, bacteria, 
 When contamination appears on a plate, it may still be possible to rescue the desired mycelium:
 
 1. Identify the leading edge of clean mycelial growth farthest from the contamination
-2. Using a flame-sterilized tool, cut a small section from the cleanest sector
-3. Transfer to a fresh plate with antibiotic-supplemented agar
-4. Monitor carefully; multiple rescue transfers may be necessary
-
-### Culture Storage
-
-Long-term culture preservation methods include:
-
-- **Refrigerated petri plates**: Sealed plates keep for 1–2 months; cold-sensitive species lose viability faster
-- **Test tube slants**: Agar slanted in test tubes can be refrigerated for weeks or months, then plated to test viability
-- **Mineral oil overlay**: Covering slants with sterile mineral oil before refrigeration extends storage life significantly, especially for cold-sensitive species like pink oyster
-- **Liquid cultures**: Mycelium grown in nutrient broth can be stored at cool temperatures for periodic subculturing
-
-### Record Keeping
-
-A laboratory notebook is essential for tracking:
-
-- Species and strain identification
-- Agar formulas and supplements used
-- Transfer dates and generation numbers
-- Growth rates and morphological observations
-- Contamination events and their suspected causes
-- Storage conditions and viability testing results
-- Performance data when cultures are taken to fruiting
-
-Consistent record keeping transforms individual experiments into a systematic knowledge base that accelerates future success.
-
-## From Agar to Grain Spawn
-
-Once clean mycelial cultures are established on agar plates, the next step is transferring them to grain for spawn production. Grain spawn serves as the inoculum for larger-scale substrate preparation. The process involves sterilizing grain (typically rye, millet, or wheat) in jars or bags, inoculating with agar wedge or liquid culture, and incubating until fully colonized. This bridge between laboratory culture work and mushroom cultivation represents the transition from microscopic to macroscopic scale.

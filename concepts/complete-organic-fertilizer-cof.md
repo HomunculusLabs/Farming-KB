@@ -1,149 +1,145 @@
 ---
-title: "Complete Organic Fertilizer Cof"
-aliases:
-  - COF
-  - complete organic fertilizer
-tags:
-  - soil-fertility
-  - organic-gardening
-  - fertilizers
-  - steve-solomon
-  - plant-nutrition
-source: Gardening When It Counts - Steve Solomon (2005)
-created: 2026-05-11
+title: Complete Organic Fertilizer (COF)
+source: gardening-when-it-counts-steve-solomon.md
+type: concept
 ---
 
 # Complete Organic Fertilizer (COF)
 
-The Complete Organic Fertilizer (COF) is a custom organic fertilizer blend
-formulated by Steve Solomon, founder of Territorial Seed Company. Unlike
-commercial organic or [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
-
-Single-source organic amendments like manure or homemade compost vary
-enormously in nutrient content. The nutritional quality depends on the soil
-where original vegetation or animals were raised. If local soils are
-deficient, the compost carries those deficiencies forward. COF addresses
-both problems by combining multiple organic ingredients, each contributing
-a different profile of macro- and micronutrients.
-
-## COF Formula (by Volume)
-
-All ingredients are measured by volume — scoops, bucketfuls, jarfuls.
-Proportions varying plus or minus 10 percent will work fine. Do NOT attempt
-to make this formula by weight.
-
-**Base nitrogen source (choose one):**
-
-- **Option A:** 4 parts any kind of seedmeal (except coprameal and tankage).
-  Seedmeals are byproducts of oil extraction from cottonseed, linseed (flax),
-  sunflower, canola (rapeseed), and soybean. Most analyze at approximately
-  6-4-2 NPK. Buy whichever provides the most protein for the least cost.
-
-- **Option B:** 3 parts any seedmeal (except coprameal and tankage), PLUS
-  1 part tankage ("blood-and-bone," "meatmeal"). This higher-nitrogen option
-  is slightly better for leafy crops in spring. Tankage analyzes at 10-4-0.
-
-- **Option C:** 4 parts coprameal (coconut meal), supplemented with 1 part
-  tankage. Coprameal is one-third weaker in NPK but coconuts are typically
-  grown without [[dynamic-accumulator-plants-calcium-and-magnesium]])
-- 1 part phosphorus source: finely ground rock phosphate, bonemeal, or
-  high-phosphate guano
-- 1 part kelpmeal OR 1 part basalt dust (for trace minerals)
-
-## Ingredient Details
-
-### Seedmeals (Nitrogen Base)
-The high-protein meal remaining after oil is pressed from oilseeds. Besides
-nitrogen, they contain phosphorus, potassium, calcium, magnesium, and trace
-nutrients. Analysis varies by kind and from purchase to purchase. Keep
-seedmeals dry and protected from moisture in a sealed container. Stored
-properly, they remain effective for more than 20 years.
-
-### Lime Types
-Three types provide calcium and magnesium in different ratios:
-- **Agricultural lime:** Relatively pure [[soil-foodweb-biology]]
-- [[actively-aerated-compost-tea]] aact
-
-## References
-
-- Solomon, Steve. *Gardening When It Counts: [[growing-food-in-hard-times]]*.
-  New Society Publishers, 2005. Chapters 2 and 4.
-
 ## Overview
 
-Complete Organic Fertilizer Cof represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
+The Complete Organic Fertilizer (COF) is Steve Solomon's signature soil amendment formula, designed to provide a balanced spectrum of plant nutrients in a single application. Unlike synthetic NPK fertilizers that supply only the primary macronutrients, COF addresses the full range of essential elements that vegetable crops need for optimal growth and nutritional quality. The formula is central to Solomon's approach in *[[gardening-when-it-counts]]* and represents a practical, affordable alternative to both chemical fertilizers and the heavy compost applications recommended by many organic gardening authorities.
 
-## Key Characteristics
+## The COF Formula
 
-Several defining characteristics distinguish complete organic fertilizer cof
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
+The standard COF formula combines several natural mineral and organic inputs:
 
-## Ecological Context
+- **Seed meal** (cottonseed, canola, or soybean meal): The primary nitrogen source, also supplying phosphorus and some trace minerals. Seed meal is the bulk ingredient, providing slow-release nitrogen as soil microbes break down the proteins it contains.
 
-The ecological relationships involving complete extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
+- **Agricultural lime or dolomite**: Supplies calcium and magnesium while raising soil pH. The choice between agricultural lime (calcium carbonate) and dolomite (calcium magnesium carbonate) depends on soil test results showing the relative levels of these two elements.
 
-## Practical Applications
+- **Bone meal**: An additional source of phosphorus and calcium. Bone meal releases its phosphorus relatively slowly, making it available throughout the growing season.
 
-Complete Organic Fertilizer Cof finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
+- **Kelp meal**: Provides potassium along with a full spectrum of trace minerals including boron, iron, zinc, manganese, and copper. Kelp meal also contains natural plant growth hormones (cytokinins) that may stimulate root development.
 
-## Management and Implementation
+- **Gypsum** (optional, in some formulations): Added when additional calcium is needed without raising pH.
 
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
+The specific ratios in the formula are calibrated to provide nutrients in proportions that match the uptake patterns of common vegetable crops, avoiding both deficiencies and the toxic excesses that can result from unbalanced fertilization.
 
-## Regional Considerations
+## Nutritional Content and Balance
 
-Different geographic regions present unique challenges and
-opportunities for complete organic fertilizer cof. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
+COF is designed to address the complete nutritional needs of vegetable crops, not merely the three numbers on a conventional fertilizer bag. While NPK (nitrogen, phosphorus, potassium) content is important, Solomon emphasizes that:
 
-## Sustainability
+- **Boron** is critical for cell wall formation, pollen viability, and calcium transport. Deficiency causes hollow heart in potatoes, internal browning in beets, and cracking in celery.
+- **Sulfur** is essential for protein synthesis and is a component of several amino acids and vitamins.
+- **Calcium** is needed for cell wall structure, root tip growth, and disease resistance.
+- **Magnesium** is the central atom in the chlorophyll molecule and is required for photosynthesis.
+- **Trace minerals** including iron, manganese, zinc, copper, and molybdenum support enzyme function and various metabolic processes.
 
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
+William Albrecht's research on the relationship between soil mineral balance and plant/animal health is a key influence on Solomon's approach to complete nutrition.
 
-## Research and Development
+## Application Methods
 
-Ongoing research continues to expand understanding of
-complete organic fertilizer cof and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
+### At Planting
 
-## Historical Context
+COF is typically applied at planting time, either mixed into the planting hole for individual transplants or broadcast and incorporated into seedbeds for direct-seeded crops. The standard rate is approximately 4-6 quarts per 100 square feet, though this may be adjusted based on soil type, crop demands, and previous fertilization history.
 
-Complete Organic Fertilizer Cof has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
+For transplants, a small handful of COF mixed into the soil at the bottom of each planting hole ensures that young roots encounter a rich zone of nutrients as they establish.
 
-## Integration Strategies
+### In Seedbeds
 
-Successful integration of complete organic fertilizer cof into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
+For direct-seeded crops, COF is broadcast evenly over the prepared seedbed and raked into the top few inches of soil. This places nutrients within reach of germinating seedlings while avoiding the concentrated zones that can burn tender roots.
 
-## Challenges and Solutions
+### For Large Plants in Hills
 
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
+When growing large plants like corn, squash, or tomatoes in hills, additional COF is mounded into each hill at planting. This localized concentration supports the heavy nutrient demands of these crops throughout their long growing season.
 
-## See Also
+### In Different Soil Types
+
+- **Sandy soils**: Nutrients leach quickly, so COF may need to be applied at slightly higher rates or in split applications.
+- **Clay soils**: Nutrients are held more tightly but may be less available to plants. Additional organic matter helps improve nutrient availability in heavy clay.
+- **Acidic soils**: The lime component of COF helps raise pH, but additional lime may be needed if soil tests show very low pH.
+
+## Cost Considerations
+
+One of Solomon's key arguments for COF over heavy composting is economics. Producing high-quality compost in sufficient quantities to fertilize a substantial garden requires significant labor, space, and raw materials. COF, by contrast, can be purchased in bulk and applied quickly. Solomon calculates the yearly cost of COF fertilization and finds it substantially lower than the amortized cost of compost production in terms of both money and labor.
+
+For gardeners on tight budgets, Solomon offers low-cost alternatives including:
+- Using coffee grounds as a supplemental nitrogen source
+- Substituting locally available seed meals (such as canola or soybean meal) for more expensive cottonseed meal
+- Reducing rates for low-demand vegetables that don't require heavy fertilization
+- Using manure (chicken, horse, steer, or rabbit) as a partial or complete substitute for seed meal
+
+## COF and Vegetable Nutritional Quality
+
+Solomon cites USDA statistics and independent analyses showing that vegetables grown with complete organic fertilization contain significantly higher levels of vitamins, minerals, and protein than those grown with incomplete fertilization or in depleted soils. This is one of his central arguments: the goal of gardening should be producing the most nutritious food possible, not simply the greatest weight of produce.
+
+Plants provided with a full spectrum of minerals are also more resistant to insect pests and diseases. Solomon argues that many pest problems are actually symptoms of nutritional deficiency or imbalance—plants grown with adequate nutrition have stronger cell walls, more robust immune responses, and less appeal to herbivorous insects.
+
+## COF vs. Chemical Fertilizers
+
+Chemical fertilizers are criticized on several grounds:
+
+- They supply only NPK, leaving plants deficient in trace minerals
+- They are highly soluble, leading to rapid leaching and the need for frequent reapplication
+- They can harm soil biological activity, particularly earthworms and beneficial microbes
+- They create dependency on purchased inputs and fossil fuel-based manufacturing
+- Vegetables grown with chemical fertilizers alone tend to be lower in nutritional quality
+
+COF, by contrast, provides slow-release nutrition that feeds soil biology as well as plants, supports long-term soil health, and produces more nutrient-dense food.
+
+## COF vs. Heavy Compost Application
+
+Many organic gardening authorities recommend applying several inches of compost annually. Solomon argues this approach has problems:
+
+- Compost quality varies enormously depending on ingredients and management
+- Excessive compost can create nutrient imbalances (particularly too much phosphorus or potassium)
+- Producing enough high-quality compost for a large garden requires enormous inputs of raw materials
+- Compost alone may not provide adequate boron, sulfur, or other trace minerals
+
+Solomon recommends using compost as a soil conditioner and biological inoculant rather than as the primary source of plant nutrition. A moderate application of compost (1/4 to 1/2 inch) combined with COF provides both biological activity and complete mineral nutrition.
+
+## Overuse and Potential Problems
+
+Like any fertilizer, COF can be overapplied. Solomon warns against:
+
+- Applying more than recommended rates, which can cause excessive vegetative growth at the expense of fruit production
+- Using COF on low-demand vegetables that don't need heavy fertilization
+- Failing to adjust the formula based on soil test results that may reveal adequate levels of certain nutrients
+- Applying COF without incorporating it into the soil, which can lead to surface concentrations that attract pests
+
+## Fertigation with COF
+
+COF can also be dissolved or suspended in water for fertigation—applying liquid fertilizer through watering systems. This is particularly useful for:
+- Providing supplemental nutrition during rapid growth phases
+- Correcting mid-season nutrient deficiencies
+- Supporting plants during drought stress when soil nutrient availability is reduced
+
+The fertigation formula is a diluted version of COF that can be applied through drip systems, watering cans, or sprinkler systems.
+
+## Soil Moisture and Application Timing
+
+Soil moisture content is critical when applying COF and fertigation. Solomon emphasizes that:
+
+- Soil must be adequately moist before applying fertigation to prevent root burn
+- Clay soils retain moisture differently than sandy soils, requiring adjusted application timing
+- Newly planted seeds and seedlings need careful moisture management to avoid leaching applied nutrients
+- Overwatering after COF application can leach soluble nutrients below the root zone, especially in sandy soils
+
+## Integration with Pest and Disease Management
+
+Proper use of COF contributes to plant health, which is the first line of defense against pests and diseases. Solomon notes that insects primarily attack unhealthy plants. Common pests mentioned in the context of COF-fertilized gardens include:
+
+- **Colorado potato beetle** — can be managed through healthy plant vigor and targeted organic controls
+- **Corn earworm** — affects corn crops; strong plants grown with balanced nutrition show greater resistance
+- **Cucumber beetles** — attack cucurbit family; healthy vines with adequate nutrition recover more readily
+
+## Related Topics
+
+- [[composting-toilets|Composting]] — biological soil amendment that complements COF mineral nutrition
+- [[cover-crops|Cover Crops]] — green manures that add organic matter and fix nitrogen
+- [[fertigation-techniques|Fertigation]] — liquid feeding technique using dissolved COF
+- [[organic-garden-soil-preparation|Soil Preparation]] — proper bed preparation before COF application
+- [[mushroom-nutrition-guide|Seedling Nutrition]] — fertilizing young plants for strong start
+- [[jadam-making-organic-farming-inputs|Drought and Dry Farming]] — water management during shortages
+- [[green-manures-organic-gardening|Organic Gardening]] — holistic approach to food production

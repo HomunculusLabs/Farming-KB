@@ -1,12 +1,12 @@
 ---
 title: Urban Permaculture Design Strategies
-source: bill-mollison-permaculture-design-course.md
+source: bill-[[mollison-designers-community-garden-design-urban-permaculture|mollison]]-permaculture-design-course.md
 type: concept
 ---
 
 # Urban Permaculture Design Strategies
 
-Urban permaculture applies the same design principles used for broadacre systems to tiny spaces, but the constraints and opportunities shift dramatically. In urban areas, the main strategies revolve around maximizing vertical space, making optimal plant choices, leveraging social organization, and creating productive links between city and countryside.
+Urban [[permaculture]] applies the same design principles used for broadacre systems to tiny spaces, but the constraints and opportunities shift dramatically. In urban areas, the main strategies revolve around maximizing vertical space, making optimal plant choices, leveraging social organization, and creating productive links between city and countryside.
 
 ## Spatial Optimization
 
@@ -38,13 +38,13 @@ Research suggests that suburban lots between a quarter acre and a half acre prod
 
 ### The Allotment System
 
-The allotment system, typically using one-eighth acre plots, provides land access through community gardening organizations (in America) or public lands programs (in Britain). Britain's system is particularly sophisticated: post offices maintain listings of people seeking land matched with those who have land available. This has successfully connected younger gardeners with older residents no longer able to maintain their allotments.
+The allotment system, typically using one-eighth acre plots, provides land access through [[urban-permaculture-community-building-social-design|community]] gardening organizations (in America) or public lands programs (in Britain). Britain's system is particularly sophisticated: post offices maintain listings of people seeking land matched with those who have land available. This has successfully connected younger gardeners with older residents no longer able to maintain their allotments.
 
 The British convention is that gardeners using someone else's land do not pay rent but provide vegetables in exchange—a simple but effective arrangement.
 
 ### Neglected Lot Reclamation
 
-In Australia, where land often reverts to local authorities when absentee owners fail to pay rates and taxes, permaculture designers have developed a systematic approach:
+In Australia, where land often reverts to local authorities when absentee owners fail to pay rates and taxes, [[bill-mollison]] have developed a systematic approach:
 
 1. **Identify** neglected, boarded-up lots owned by the local council
 2. **Consult** local residents about interest in a garden
@@ -67,7 +67,7 @@ Critical requirements include:
 
 ### Australian City Farms
 
-The 18-acre Melbourne city farm demonstrates comprehensive urban permaculture design. An unemployed group supplies hardware and labor, while the site functions as a demonstration area where city people learn practical skills. Features include:
+The 18-acre Melbourne city farm demonstrates comprehensive [[urban-permaculture-design]]. An unemployed group supplies hardware and labor, while the site functions as a demonstration area where city people learn practical skills. Features include:
 
 - Attached glasshouses constructed from salvaged factory materials
 - Complete herb gardens planted by the cooperative
@@ -85,7 +85,7 @@ Britain's 46 city farms are smaller, located directly within cities, and primari
 - Goats and geese
 - Rabbit production
 - Worm beds
-- Vegetable gardens
+- [[maintaining-organic-matter-in-vegetable-gardens]]
 
 While they could be self-supporting, they require at minimum a manager's wage. Many London city farms are voluntarily staffed.
 
@@ -93,7 +93,7 @@ While they could be self-supporting, they require at minimum a manager's wage. M
 
 ### Farm Link Systems
 
-Farm link programs connect small growers with 20-30 urban families on a personal basis—a precursor to what became the Community Supported Agriculture (CSA) model. The arrangement includes:
+[[farm-link]] programs connect small growers with 20-30 urban families on a personal basis—a precursor to what became the [[community-supported-agriculture-csa]] Agriculture (CSA) model. The arrangement includes:
 
 - **Guaranteed purchase** of the farmer's crop at above-wholesale prices
 - **Coordinated production planning** with accurate harvesting estimates
@@ -105,7 +105,7 @@ Farm link programs connect small growers with 20-30 urban families on a personal
 This system evolved beyond simple produce exchange to include:
 - Small shelters on farms for urban family holidays
 - Assistance with tree planting
-- Access to salvaged building materials from urban construction sites
+- Access to salvaged [[gadd-fungal-biodegradation-concrete-building-materials]] from urban construction sites
 
 ### WWOOF (Working Weekends on Organic Farms)
 
@@ -144,51 +144,6 @@ In Yugoslav towns, the foyer of every small town hall houses an enormous brass s
 - Fermenting crops like surplus potatoes can be converted to alcohol
 - The municipality handles distillation, with all fuel costs covered
 
-Mollison advocated that well-off individuals who can afford processing equipment should make it available on rental in their districts, extending this cooperative processing model to grain grinding, oil pressing, steam distillation, and fine oil separations.
+Mollison advocated that well-off individuals who can afford processing equipment should make it available on rental in their districts, extending this cooperative processing model to grain grinding, oil pressing, [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]], and fine oil separations.
 
 ## Marketing Strategies
-
-### Farmers' Markets
-
-Farmers' markets handle a broad range of merchandise including handicrafts, seedlings, small poultry, eggs, preserves, herbs, baked goods, and prepared foods. Key findings:
-
-- Weekend stalls between 9 AM and 3 PM can generate $300-400 per session
-- One partner can run the market while the other works or manages the farm
-- Markets serve as community gathering places with music and food
-- Hot prepared foods (soups, strawberries and cream, coffee) can add $600 per weekend
-
-### Wayside Stalls
-
-Unmanned wayside stalls with honesty boxes work well for main crop disposal (like pumpkins). They operate all week and can be shared enterprises since not everyone has good traffic access. Produce should be packaged in convenient $1, $2, and $5 lots. The closer to town, the more likely money boxes will be emptied—but few people take the product without paying.
-
-### Door-to-Door Sales
-
-Door-to-door selling is more effective in rural areas than in towns, where people buy smaller quantities. Mollison reported consistent earnings of at least $300 per day from door-to-door sales, noting the importance of regular schedules and customer relationships. For new crops, he recommended giving away the first lot with recipes to establish demand.
-
-### Pricing Philosophy
-
-Mollison advocated pricing below town retail prices, noting that organic production costs are often lower than conventional methods. While some markets support premium organic pricing, he considered this unfair since both producer and consumer benefit when quality food costs less.
-
-## Non-Competitive Regional Design
-
-A core principle of permaculture design at the regional scale is establishing non-competitive client operations. Rather than having every farmer grow the same crop (leading to boom-bust cycles), designers should:
-
-1. Identify what grows well on each property
-2. Encourage specialization based on site suitability
-3. Create district-wide self-sufficiency through complementary production
-4. Develop supplier networks that benefit all members
-
-This stands in direct opposition to government agricultural extension models, which Mollison criticized for filling valleys with identical apple growers who "all go broke together and all boom together."
-
-## Nursery and Supply Networks
-
-Early permaculture clients should be encouraged to take on nursery functions—single or multi-species production of bamboo, aquatic plants, quail, pigeons, or guinea fowl. This creates a local supplier network that benefits all subsequent clients. Within 12-24 months of starting consultancy in an area, a designer should be able to source any needed species locally.
-
-The model extends to recommending tools like the Wallace plow for soil conditioning—if an early client can afford the investment, they become the district supplier for later clients.
-
-## See Also
-
-- [[permaculture-community-legal-structures]] - organizational frameworks for urban-rural groups
-- [[cooperative-food-distribution-marketing]] - marketing and distribution systems
-- [[forest-rehumidification-and-water-recycling]] - urban water management
-- [[permaculture-food-forests-design-course]] - perennial food systems in cities

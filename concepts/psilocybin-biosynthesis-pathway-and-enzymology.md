@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Introduction
 
-Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and its dephosphorylated counterpart psilocin (4-hydroxy-N,N-dimethyltryptamine) are the principal psychoactive indole alkaloids produced by mushrooms in the genera *Psilocybe*, *Panaeolus*, *Copelandia*, *Gymnopilus*, *Inocybe*, and *Pluteus*. The elucidation of the psilocybin biosynthesis pathway has been a landmark achievement in fungal natural product biochemistry, revealing a four-enzyme cascade that converts the [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* [[fungal-fruiting-body-formation-environmental-triggers]] when psilocybin accumulates.
+Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and its dephosphorylated counterpart psilocin (4-hydroxy-N,N-dimethyltryptamine) are the principal psychoactive indole alkaloids produced by mushrooms in the genera *Psilocybe*, *Panaeolus*, *Copelandia*, *Gymnopilus*, *Inocybe*, and *Pluteus*. The elucidation of the [[psilocybin-biosynthesis-pathway]] has been a landmark achievement in fungal natural product biochemistry, revealing a four-enzyme cascade that converts the [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* [[fungal-fruiting-body-formation-environmental-triggers]] when psilocybin accumulates.
 - The pathway represents a convergence of [[tryptophan-biosynthesis-from-chorismate]], SAM-dependent methylation) with specialized enzymology unique to psilocybin-producing fungi.
 
 ## The Four-Enzyme Pathway

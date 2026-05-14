@@ -1,11 +1,11 @@
 ---
-title: comparison-natural-farming-vs-permaculture Poster - Korean Natural Farming Techniques for Cannabis
+title: Natural Farming Poster Korean Techniques Summary
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [farming, cultivation, organic, knf]
 sources:
-  - "Natural Farming Poster - Modern Natural Farming Tech (MNFT) for Cannabis"
+  - "natural-farming-poster-input-free-farming - Modern Natural Farming Tech (MNFT) for Cannabis"
 ---
 # [[edaphic-factors-microbial-community-structure]]
 - Create a [[integrated-pest-management]]) tool by keeping plants healthy and resistant
@@ -14,7 +14,7 @@ sources:
 ### Fish Amino Acids (FAA)
 - **Purpose**: Nitrogen and calcium source during vegetation, phosphorus source during early bloom
 - **Red fish FAA**: High phosphorus — used during early bloom phase
-- **Blue/white fish FAA**: High nitrogen and calcium — used during vegetative phase
+- **Blue/white fish FAA**: High nitrogen and calcium — used during [[cervantes-vegetative-phase]]
 
 ### Lactic Acid Bacteria (LAB)
 - **Purpose**: Serum for EM-1 ([[cervantes-powdery-mildew-prevention-treatment]] (PM)
@@ -34,7 +34,7 @@ sources:
 - **Timing**: Applied during transition periods; helps build plant strength
 
 ### Beneficial Indigenous Microbes (BIM / IMO)
-Decompose organics and make nutrients bioavailable — "the tough guys of the microbial world." Added to compost teas; mulch and top-feeding support the microbial community in soil bins.
+Decompose organics and make nutrients bioavailable — "the tough guys of the microbial world." Added to [[bacterial-vs-fungal-compost-teas]]; mulch and top-feeding support the [[cannabis-cultivar-microbial-community-effects]] in soil bins.
 
 ### Brown Rice Vinegar / Apple Rice Vinegar (BRV/ARV)
 Carrier solution and acid reducer. Used in seed soak solutions and as a general carrier for other inputs.
@@ -70,7 +70,7 @@ Carrier solution and acid reducer. Used in seed soak solutions and as a general 
 | WSC | 4 mL/Gal |
 | WSPa | 3 mL/Gal |
 | WSCaP | 4 mL/Gal |
-| Beneficial Tea | 2x/week with BIM, LAB, and sea salt |
+| Beneficial Tea | 2x/week with BIM, LAB, [[ultra-low-cost-mineral-leaching-and-sea-salt-replenishment]] |
 
 FPJ transitions during this period. FFJ uses green/under-ripe fruits. General compost/BIM-rich teas recommended.
 

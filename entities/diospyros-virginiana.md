@@ -8,9 +8,9 @@ tags:
   - ebenaceae
   - fruit-tree
   - native-american
-  - permaculture
-  - agroforestry
-  - food-forest
+  - [[permaculture]]
+  - [[agroforestry]]
+  - [[food-forest]]
   - edible-fruit
   - astringency
   - wildlife-forage
@@ -25,8 +25,8 @@ aliases:
 sources:
   - Crane EH, Reed C (2016). "Diospyros virginiana." In: Jankovics T,
     ed., Wild Crop Relatives: Genomic and Breeding Resources. Springer.
-  - Peterson R (1977). A edible-wild-mushrooms-by-region Plants of Eastern
-    and Central psilocybin-north-america-pacific-northwest. Houghton Mifflin, Boston.
+  - Peterson R (1977). A [[edible-wild-mushrooms-by-region]] Plants of Eastern
+    and Central [[psilocybin-north-america-pacific-northwest]]. Houghton Mifflin, Boston.
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/diospyros_virginiana.shtml
   - Fulbright TP (2004). "Persimmon (Diospyros virginiana) Ecology and
     Management." USDA Forest Service General Technical Report.
@@ -75,7 +75,7 @@ forests and river floodplains to upland ridges and disturbed sites. It is
 extremely adaptable to soil conditions, tolerating clay, sandy, and rocky
 substrates with pH 4.5–7.5.
 
-Drought tolerance is exceptional once established, and the species is
+[[dighton-mycorrhizal-drought-tolerance-plant-water-relations]] is exceptional once established, and the species is
 hardy to USDA Zone 5. It thrives in full sun but tolerates partial shade,
 especially when young. Natural succession favors persimmon as an early to
 mid-successional species.

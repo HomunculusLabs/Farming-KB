@@ -78,4 +78,4 @@ to inform current best practices and research directions.
 ## See Also
 - [[john-allegro]]
 - [[doc]]
-- [[shamanism]]
+- shamanism

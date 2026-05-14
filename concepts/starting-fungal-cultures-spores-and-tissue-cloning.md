@@ -1,24 +1,24 @@
 ---
-title: Starting Fungal Cultures from Spores and Tissue Cloning
+title: Starting Fungal Cultures Spores And Tissue Cloning
 source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
 # Starting Fungal Cultures from Spores and Tissue Cloning
 
-Once agar plates are prepared, there are no limits to what can be done with a fresh mushroom -- whether collected from the wild, cultivated, or purchased. There are two primary pathways for starting a fungal culture: from spores or through tissue cloning. Each method offers distinct advantages. Spores provide genetically variable offspring, ideal for breeding and strain development, while cloning produces genetically identical copies of a parent mushroom, essential for preserving desirable traits. Both methods are foundational skills for any mycology laboratory.
+Once agar plates are prepared, there are no limits to what can be done with a fresh mushroom -- whether collected from the wild, cultivated, or purchased. There are two primary pathways for starting a fungal culture: from spores or through tissue cloning. Each method offers distinct advantages. Spores provide genetically variable offspring, ideal for breeding and strain development, while cloning produces genetically identical copies of a parent mushroom, essential for preserving desirable traits. Both methods are foundational skills for any [[mycology-laboratory-setup-and-agar-plate-preparation]].
 
 ## Spore Germination vs. Cloning: Choosing a Method
 
 ### Spores: Genetic Diversity
 
-Spores offer genetically variable offspring. Mushrooms cultured from spores can be identical to or remarkably different from their parent in shape, taste, and fruiting parameters. This genetic variability makes spore germination ideal for breeding programs or creating strains specific to a particular region or growing substrate. Spores allow selective culturing and expansion of specimens expressing desired traits.
+Spores offer genetically variable offspring. Mushrooms cultured from spores can be identical to or remarkably different from their parent in shape, taste, and [[growing-gourmet-fruiting-parameters]]. This genetic variability makes spore germination ideal for breeding programs or creating strains specific to a particular region or growing substrate. Spores allow selective culturing and expansion of specimens expressing desired traits.
 
-Spores are easy to collect through spore printing and can remain viable for more than a year when kept cool and dry. When encountering an unusual mushroom -- perhaps one growing on an unusual substrate -- taking a spore print ensures backup genetic material beyond just the mycelium.
+Spores are easy to collect through [[mushroom-spore-printing-and-storage]] can remain viable for more than a year when kept cool and dry. When encountering an unusual mushroom -- perhaps one growing on an unusual substrate -- taking a [[spore-print]] ensures backup genetic material beyond just the mycelium.
 
 ### Cloning: Genetic Fidelity
 
-Cloning a mushroom involves cutting or peeling it to reveal clean inner tissue and removing a small fragment, which is compressed mycelium. Cloning creates fungi that are genetically identical to the parent mushroom. This method is used when isolating the same species from different climates, seasons, or growing substrates to build a "library" of strains capable of growing on varied media in diverse conditions.
+Cloning a mushroom involves cutting or peeling it to reveal clean inner tissue and removing a small fragment, which is compressed mycelium. Cloning creates fungi that are genetically identical to the parent mushroom. This method is used when isolating the same species from different climates, seasons, or [[mushroom-growing-substrates]] to build a "library" of strains capable of growing on varied media in diverse conditions.
 
 Creating a similar strain library from spores is possible but requires multiple transfers and tissue culture manipulation. Finding wild mushrooms and cloning them means the fungi have already adapted to their environment, doing the hard work of selection naturally. Both methods should be practiced on different species, since each mushroom presents unique culturing challenges.
 
@@ -36,12 +36,12 @@ Spores are collected by making a spore print on aluminum foil or glass, or by ha
 - Alcohol lamp
 - Tape or Parafilm
 - Ziplock bags
-- Spray bottle with 70 percent isopropyl alcohol
+- Spray bottle with 70 percent [[isopropyl-alcohol]]
 - Spore print on aluminum foil or glass slide inside a sealed bag (open only during transfer, reseal immediately)
 
 ### Preparing the Work Space
 
-Prepare the lab or work space about an hour ahead of time. Turn on the laminar flow hood and sanitize the entire interior using 70 percent isopropyl alcohol, wiping down several times. Sanitize all tools. Bring prepoured petri plates to the work area and wipe down their packaging bag. Leave the room and shut the door, allowing the HEPA filter to clean the air several times over. Upon returning, confirm all needed tools are accessible. Light the alcohol lamp.
+Prepare the lab or work space about an hour ahead of time. Turn on the [[laminar-flow-hood]] and sanitize the entire interior using 70 percent isopropyl alcohol, wiping down several times. Sanitize all tools. Bring prepoured petri plates to the work area and wipe down their packaging bag. Leave the room and shut the door, allowing the [[hepa-filter]] to clean the air several times over. Upon returning, confirm all needed tools are accessible. Light the alcohol lamp.
 
 ### Spore Streaking Step-by-Step
 
@@ -57,7 +57,7 @@ Prepare the lab or work space about an hour ahead of time. Turn on the laminar f
 
 **Step 6: Label and incubate.** Record the date, agar formula, spore type, and tracking information. Most fungi prefer incubation at approximately 77 degrees F (25 degrees C). Beginners can use a small cabinet with a heating pad set near the bottom. Cultures prefer darkness. Spore germination times vary: morels and paddy straw are fast, while most species take 7-10 days to show fuzzy mycelial growth.
 
-**Step 7: Monitor for growth.** Most mushroom mycelium is white, though other colors occur. Molds appear as circular masses producing powdery spore rings in brown, green, black, or other colors. Since most cultivated mushrooms do not produce sporulating mycelium, colorful circular colonies likely indicate mold contamination -- the plate should be discarded or the desired mycelium rescued.
+**Step 7: Monitor for growth.** Most mushroom mycelium is white, though other colors occur. Molds appear as circular masses producing powdery spore rings in brown, green, black, or other colors. Since most [[fungi-cultivated-mushrooms-pathogens-competitors]] do not produce sporulating mycelium, colorful circular colonies likely indicate mold contamination -- the plate should be discarded or the desired mycelium rescued.
 
 **Step 8: Expand successful cultures.** When mycelial growth is symmetrical and radiating outward after several petri-to-petri transfers, create multiple backup plates for storage and use some to make grain spawn for cultivation and fruiting.
 

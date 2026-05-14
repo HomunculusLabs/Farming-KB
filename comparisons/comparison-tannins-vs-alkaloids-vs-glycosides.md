@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources:
   - "Harborne, J.B. (1998). Phytochemical Methods: A Guide to Modern Techniques of Plant Analysis, 3rd ed. Springer."
   - "Wink, M. (2010). Functions of Plant antifungal-secondary-metabolites-coprophilous-fungi and Their Exploitation in Biotechnology. Annual Plant Reviews Vol. 39."
-  - "Crozier, A., Clifford, M.N., Ashihara, H. (2006). Plant Secondary Metabolites: Occurrence, Structure and Role in the Human Diet. Blackwell Publishing."
+  - "Crozier, A., Clifford, M.N., Ashihara, H. (2006). Plant [[antifungal-secondary-metabolites-coprophilous-fungi]]: Occurrence, Structure and Role in the Human Diet. Blackwell Publishing."
   - "Dixon, R.A. & Paiva, N.L. (1995). Stress-Induced Phenylpropanoid Metabolism. The Plant Cell, 7(7), 1085–1097."
   - "Ziegler, J. & Facchini, P.J. (2008). Alkaloid Biosynthesis: Metabolism and Transport. Annual Review of Plant Biology, 59, 735–769."
   - "Bowles, E.J. (2020). The Chemistry of Aromatherapeutic Oils, 3rd ed. Allen & Unwin."
@@ -37,13 +37,13 @@ Tannins are large polyphenolic compounds defined by their ability to bind and pr
 - **Hydrolyzable tannins** (gallo- and ellagitannins): Built from a glucose core esterified with gallic or ellagic acid units. These can be chemically hydrolyzed under acidic or basic conditions.
 - **Condensed tannins** (proanthocyanidins): Polymers of flavan-3-ol units (catechin, epicatechin) linked by carbon-carbon bonds. More resistant to hydrolysis; they degrade to anthocyanidins under strong acidic conditions.
 
-Tannins are biosynthesized primarily through the shikimate pathway, which feeds into the phenylpropanoid and flavonoid pathways. Their production is strongly induced by herbivory, UV exposure, and pathogen attack.
+Tannins are biosynthesized primarily through [[primary-metabolic-precursors-to-the-shikimate-pathway]], which feeds into the phenylpropanoid and flavonoid pathways. Their production is strongly induced by herbivory, UV exposure, and pathogen attack.
 
 ### Alkaloids: Nitrogenous Bioactives
 
-Alkaloids are a diverse group of over 12,000 known compounds united by a few shared traits: they contain at least one nitrogen atom (usually in a heterocyclic ring), they are of limited distribution in nature (primarily in angiosperms), and they typically exhibit pronounced physiological effects on animals. Major biosynthetic precursor amino acids include:
+Alkaloids are a diverse group of over 12,000 known compounds united by a few shared traits: they contain at least one nitrogen atom (usually in a heterocyclic ring), they are of limited distribution in nature (primarily in angiosperms), and they typically exhibit pronounced physiological effects on animals. Major [[stigmasterol-as-brassinosteroid-biosynthetic-precursor]] amino acids include:
 
-- **Ornithine and arginine** → tropane alkaloids (atropine, cocaine), nicotine
+- **Ornithine and arginine** → [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] (atropine, cocaine), nicotine
 - **Lysine** → quinolizidine alkaloids (lupinine, sparteine), piperidine alkaloids
 - **Tyrosine** → isoquinoline alkaloids (morphine, codeine, berberine)
 - **Tryptophan** → indole alkaloids (reserpine, strychnine, ergot alkaloids)
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Comparison Tannins Vs Alkaloids Vs Glycosides finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 comparison tannins vs alkaloids vs glycosides and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

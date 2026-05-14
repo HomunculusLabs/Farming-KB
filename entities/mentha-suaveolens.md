@@ -15,7 +15,7 @@ tags:
   - culinary-herb
   - aromatic
   - essential-oil
-  - companion-planting
+  - [[companion-planting]]
   - temperate-climate
   - herbalism
   - edible
@@ -35,7 +35,7 @@ created: 2026-04-28
 
 Commonly known as apple mint or woolly mint, it is valued for its mild, sweet aroma with fruity notes reminiscent of green apple.
 
-The species is widely cultivated as a culinary herb, ornamental [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+The species is widely cultivated as a [[query-how-do-i-plan-and-plant-a-culinary-herb-garden]], ornamental [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 Its vigorous spreading habit and tolerance of diverse conditions make it both a useful garden plant and a potential invader.
 

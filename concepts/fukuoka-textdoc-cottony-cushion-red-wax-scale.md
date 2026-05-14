@@ -1,7 +1,7 @@
 ---
 title: Fukuoka Textdoc Cottony Cushion Red Wax Scale
 source: administrator-microsoft-word-fukuoka-textdoc.md
-author: Masanobu Fukuoka
+author: [[masanobu-fukuoka]]
 tags:
   - biological-control
   - citrus-pests
@@ -22,7 +22,7 @@ systems to function effectively. Both pests were once considered among the three
 major citrus pests in Japan, and both were brought under control by natural
 predators before postwar pesticide use reversed decades of [[hamilton-beneficial-insects-and-biological-pest-control]].
 
-In Fukuoka's natural orchard, where he did not use strong pesticides, the
+In Fukuoka's [[fukuoka-natural-orchard-development]], where he did not use strong pesticides, the
 cottony-cushion scale continued as before to serve as prey for several types of
 ladybugs. He saw almost no damage from this pest, demonstrating that the
 original biological control system was still functional wherever it had not been
@@ -35,7 +35,7 @@ pests in Japan. Before the war, it had to be destroyed by spraying a pine rosin
 mixture, a relatively mild treatment that did not eliminate the natural enemies
 of the scale. Then, in what Fukuoka described as perhaps a stroke of good luck,
 the wartime shortage of rosin material forced orchardists to discontinue the pine
-rosin applications. During this pesticide-free interval, parasitic wasps emerged
+rosin applications. During this pesticide-free interval, [[parasitic-wasps-biological-pest-control]] emerged
 that preyed on the red wax scale, making it no longer necessary to exterminate
 them.
 
@@ -81,7 +81,7 @@ without end."
 
 ## Implications for Natural Farming
 
-These case histories demonstrate one of the core principles of Fukuoka's approach
+These case histories demonstrate one of the [[permaculture-core-principles]] of Fukuoka's approach
 to pest management: if man had left the pests alone, they would never have become
 major problems. In his own orchard, he never had any serious problems with mites
 or scales in his citrus trees. Or if he did, the problem solved itself through
@@ -90,7 +90,7 @@ the action of natural enemies.
 Fukuoka did not claim that all pests can be ignored without consequence. He
 acknowledged that certain [[solomon-insects-and-diseases-integrated-approach]] present special problems in some
 types of fruit trees, and that some attention must be given to specific pests
-through variety selection and environmental management. But his experience with
+through [[coleman-winter-greens-variety-selection]] and environmental management. But his experience with
 the cottony-cushion scale and the red wax scale strongly suggested that the
 starting point for pest management should be the protection and encouragement of
 natural enemies, not the application of poisons.

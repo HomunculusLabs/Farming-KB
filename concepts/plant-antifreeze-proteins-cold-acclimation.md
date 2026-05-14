@@ -18,7 +18,7 @@ sources:
 
 # Plant Antifreeze Proteins and Cold Acclimation
 
-Plant antifreeze proteins (AFPs) are a class of ice-binding proteins that inhibit the growth and recrystallization of ice crystals in plant tissues. They were first discovered in winter rye (Secale cereale) in 1992 and have since been identified in over 60 plant species, primarily from cold-adapted taxa.
+Plant antifreeze proteins (AFPs) are a class of ice-binding proteins that inhibit the growth and recrystallization of ice crystals in plant tissues. They were first discovered in winter rye ([[secale-cereale]]) in 1992 and have since been identified in over 60 plant species, primarily from cold-adapted taxa.
 
 Unlike antifreeze compounds such as glycerol or ethylene glycol that function by colligative properties, AFPs act through a non-colligative mechanism. They adsorb to specific crystal planes of ice, modifying ice crystal morphology and suppressing thermal hysteresis.
 
@@ -44,7 +44,7 @@ The molecular cascade begins when cold-sensing mechanisms, likely involving memb
 
 COR genes encode a diverse array of protective proteins including dehydrins, late-embryogenesis abundant (LEA) proteins, and AFPs. The coordinated upregulation of these genes produces a multicomponent cryoprotective system.
 
-The CBF regulatory hierarchy is conserved across angiosperms and gymnosperms. Arabidopsis thaliana has become the model system for dissecting this pathway, with three CBF genes (CBF1-3) identified as master regulators of the cold acclimation transcriptome.
+The CBF regulatory hierarchy is conserved across angiosperms and gymnosperms. [[arabidopsis-thaliana]] has become the model system for dissecting this pathway, with three CBF genes (CBF1-3) identified as master regulators of the cold acclimation transcriptome.
 
 Downstream of CBF, over 100 COR genes are activated during cold acclimation. These include genes encoding sucrose synthase, proline biosynthetic enzymes, fatty acid desaturases, and reactive oxygen species scavengers in addition to AFPs and dehydrins.
 
@@ -106,10 +106,11 @@ Anthocyanin accumulation in cold-exposed tissues provides antioxidant protection
 
 Vernalization requirements in winter cereals interact with cold acclimation pathways. The prolonged cold exposure needed for floral induction overlaps with the period of maximum AFP accumulation, potentially linking reproductive timing to cryoprotective capacity.
 
+
 ## See Also
 
 - [[plant-awareness-consciousness-debate-neurobiology]]
-- [[plant-guilds-permaculture-design]]
+- [[plant-diseases-and-remedies]]
 - [[plant-innate-immunity-pti-eti-defense]]
 - [[plant-mechanoperception-thigmomorphogenesis]]
 - [[plant-medicine-ethics]]

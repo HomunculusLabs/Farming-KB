@@ -10,7 +10,7 @@ type: concept
 
 ## The Scale of Domestic Water Waste
 
-Domestic water misuse is a significant contributor to overall water consumption in settlements. In most households, the largest single uses of potable water are toilet flushing and laundry, both of which can be substantially reduced or redirected through permaculture design strategies. The conventional approach treats all domestic water as a single-grade resource — clean, treated water delivered for every use — and then mixes all outputs into a single waste stream. Permaculture instead advocates for matching water quality to the task at hand, and separating waste streams to maximise their productive potential.
+Domestic water misuse is a significant contributor to overall water consumption in settlements. In most households, the largest single uses of potable water are toilet flushing and laundry, both of which can be substantially reduced or redirected through [[urban-permaculture-design-strategies]]. The conventional approach treats all domestic water as a single-grade resource — clean, treated water delivered for every use — and then mixes all outputs into a single waste stream. Permaculture instead advocates for matching water quality to the task at hand, and separating waste streams to maximise their productive potential.
 
 The fundamental principle is that water used for one purpose (hand-washing, bathing, laundry) often retains sufficient quality for another purpose (toilet flushing, garden irrigation, orchard watering) if the streams are kept separate and appropriately routed. This cascading use of water — where each use degrades quality only slightly before the water moves to the next appropriate function — can reduce total freshwater consumption by 40-60% in a well-designed household system.
 
@@ -38,13 +38,13 @@ Dry (composting) toilets have their place but are not universally the best solut
 - Soils are unsuitable for septic tank drainage
 - Cities face critical water supply problems
 
-On farms or in well-drained soils, and wherever sewage is productively used to generate methane through anaerobic digestion, dry toilets represent a reduction in the potential utility of sewage. Mollison makes an important analogy: dry toilets reduce the potential uses of sewage just as compost represents a reduction in the broader potential uses of mulch. While composting has its place, the raw material (mulch or sewage) offers more possibilities — methane production, nutrient recycling, aquaculture feeds — than the processed form.
+On farms or in well-drained soils, and wherever sewage is productively used to generate methane through [[anaerobic-digestion-biogas-production]], dry toilets represent a reduction in the potential utility of sewage. Mollison makes an important analogy: dry toilets reduce the potential uses of sewage just as compost represents a reduction in the broader potential uses of mulch. While composting has its place, the raw material (mulch or sewage) offers more possibilities — methane production, nutrient recycling, aquaculture feeds — than the processed form.
 
 The permaculture approach is to match the system to the context, not to apply a single solution universally. In water-rich rural settings with good soils and a biogas digester, conventional or low-flush toilets feeding into a methane system are more productive than dry toilets. In dense urban areas with water scarcity and no energy recovery infrastructure, dry toilets become appropriate.
 
 ## Greywater Composition and Chemical Analysis
 
-When reusing wastewater from kitchens, bathrooms, and laundry, it is essential to understand the chemical composition being released to gardens, soils, and waterways. Mollison cites data from Kevin Handreck of the CSIRO Division of Soils (1979) identifying the following components in typical powdered detergents and soaps:
+When reusing wastewater from kitchens, bathrooms, and laundry, it is essential to understand the [[chemical-composition-of-hallucinogens]] being released to gardens, soils, and waterways. Mollison cites data from Kevin Handreck of the CSIRO Division of Soils (1979) identifying the following components in typical powdered detergents and soaps:
 
 ### Surfactants and Salts
 - Sodium or potassium salts of polysulphates
@@ -71,10 +71,10 @@ Most of these components can be processed by healthy soil organisms over time. H
 
 ## Routing Strategies for Polluted Greywater
 
-The permaculture strategy for greywater management is differential routing based on pollution level and intended end use:
+The permaculture strategy for [[greywater-management-and-dry-toilets]] is differential routing based on pollution level and intended end use:
 
 - **Plain soaps** should be used on food crops where possible, as their simpler chemical profile is more readily broken down by soil organisms
-- **More complex pollutants** (detergents with additives, biocide residues from animal fats) should be routed to tree systems rather than vegetable gardens
+- **More complex pollutants** (detergents with additives, biocide residues from animal fats) should be routed to tree systems rather than [[maintaining-organic-matter-in-vegetable-gardens]]
 - **Woody perennials** cope far better with complex pollutants than garden vegetables, and their deeper root systems and longer lifespans allow more time for the decomposition of long-term pollutants
 
 This routing hierarchy — vegetables receive the cleanest greywater, fruit trees receive moderately polluted water, and timber or fibre trees receive the most complex waste streams — maximises both productivity and safety.
@@ -85,7 +85,7 @@ In arid or environmentally delicate areas, additional measures may be necessary:
 
 1. **Creating special soaps** from unpolluted oils with potash or sodium — avoiding the complex additive cocktails of commercial detergents entirely
 2. **Planting specific water plants** that bioaccumulate and remove chemical excesses before greywater reaches soils and streams
-3. **Monitoring soil chemistry** regularly to detect early signs of boron, sodium, or heavy metal accumulation
+3. **Monitoring soil chemistry** regularly to detect early signs of boron, sodium, or [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
 
 ## The Core Philosophy: Water Safe for All Life
 

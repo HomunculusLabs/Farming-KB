@@ -75,6 +75,6 @@ inhabitants don't develop sustainable habits and knowledge. **Lifestyle**
 encompasses daily habits, livelihood, and interactions — the human element
 that determines whether physical infrastructure achieves its potential.
 
-A permaculture designer creates the *conditions* for sustainability; the
+A [[permaculture]] designer creates the *conditions* for sustainability; the
 people living within those designs must *live* sustainably through conscious
 daily choices.

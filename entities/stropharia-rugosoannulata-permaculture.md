@@ -14,7 +14,7 @@ tags:
   - strophariaceae
   - mulch-dweller
 sources:
-  - Stamets, P. (2005). woodlovers-mycelium-running-pathway-technique: How Mushrooms Can Help Save the World. Ten Speed Press.
+  - Stamets, P. (2005). [[woodlovers-mycelium-running-pathway-technique]]: How Mushrooms Can Help Save the World. Ten Speed Press.
   - Schisler, L.C. (1964). "The effect of the mushroom Stropharia rugosoannulata on nematodes." Phytopathology, 54(9), 1017-1018.
   - Zerova, M.Y. et al. (1986). "Symbiosis between higher plants and Stropharia rugosoannulata in garden ecosystems." Mikologiya i Fitopatologiya, 20, 455-460.
   - Traquair, J.A. (1985). "Wine-cap Stropharia, a potentially useful cultivated mushroom." Mushroom Journal for the Tropics, 5(1), 15-20.

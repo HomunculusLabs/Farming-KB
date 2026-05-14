@@ -13,11 +13,11 @@ sources:
 
 **Ophiostoma minus** is an ascomycete fungus in the order
 Ophiostomatales, commonly known as the blue stain fungus. It is a
-significant plant pathogen of pine trees vectored by bark beetles, and
-plays a complex role in tripartite interactions involving fungi, bark
+significant plant pathogen of pine trees vectored by [[dighton-fungus-cultivation-ants-termites-bark-beetles]], and
+plays a complex role in [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]] involving fungi, bark
 beetles, and phoretic mites. The species represents one of the
 best-documented examples of complex indirect species interactions in
-forest ecosystems.
+[[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 ## Taxonomy and Classification
 
@@ -27,7 +27,7 @@ genus Ophiostoma contains numerous species that cause blue stain of
 wood, where [[fungal-plant-diseases]]
 
 - ceratocystiopsis ranaculosus - mycangial fungus beneficial to bark beetle larvae
-- dendroctonus frontalis - southern pine beetle vector
+- dendroctonus frontalis - southern [[fukuoka-ecosystem-cascade-pine-beetle-nematode-bamboo]] vector
 - Entomocorticium - mycangial fungus not consumed by Tarsonemus mites
 - [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] ecosystems
 - ceratocystis lariciola - [[dighton-fungal-competition-resource-partitioning]] dynamics
@@ -48,7 +48,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

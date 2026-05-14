@@ -21,7 +21,7 @@ sources:
 
 Orthotrichum anomalum, commonly known as the anomalous orthotrichum, is an acrocarpous moss in the family Orthotrichaceae. It is one of the most widespread and commonly encountered epiphytic mosses on tree bark and stone surfaces in temperate regions.
 
-The species is notable for its distinctive capsule, which features eight deeply divided peristome teeth arranged in a single whorl. It bridges the ecological niche between saxicolous and epiphytic growth habits, occurring on both rock and bark substrates.
+The species is notable for its distinctive capsule, which features eight deeply divided peristome teeth arranged in a single whorl. It bridges the [[ecological-niche]] between saxicolous and epiphytic growth habits, occurring on both rock and bark substrates.
 
 ## Taxonomy and Morphology
 

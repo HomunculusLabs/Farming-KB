@@ -20,7 +20,7 @@ The genus *Rubus* contains over 700 species globally, with the *R. fruticosus* a
 
 Blackberry fruits have been gathered from the wild since antiquity. Archaeological evidence from European Iron Age sites confirms their use as food, and classical Roman texts reference bramble fruit in medicinal preparations.
 
-cervantes-seed-production-storage), maintaining distinct but closely related lineages.
+[[cervantes-seed-production-storage]]), maintaining distinct but closely related lineages.
 
 Blackberry plants are perennial shrubs with biennial canes (floricanes). Primocanes emerge in the first year and produce leaves but no flowers; floricanes develop lateral shoots bearing flowers and fruit in the second year before dying back.
 

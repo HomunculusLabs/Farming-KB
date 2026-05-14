@@ -8,9 +8,9 @@ created: 2026-05-06
   - agroforestry   - orchard-planning
   - castanea date: 2026-04-28
 updated: 2026-04-28 sources:
-  - The American Chestnut Foundation — cultivar recommendations   - UC ANR — chestnut variety trials for California
+  - The American Chestnut Foundation — cultivar recommendations   - UC ANR — chestnut [[coleman-seed-selection-and-variety-trials]] for California
   - Michigan State University — chestnut cultivar trials   - Clemson Extension — chestnut production in the Southeast
-  - University of Missouri — chestnut variety guide for the Midwest   - Eurocastanea network — European chestnut cultivar database
+  - University of Missouri — chestnut [[apple-cultivation-and-variety-guide]] for the Midwest   - Eurocastanea network — European chestnut cultivar database
   - Savill et al. (2017) — The syndrome of chestnut blight
 sources: []
 tags: []
@@ -40,7 +40,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -90,7 +90,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.

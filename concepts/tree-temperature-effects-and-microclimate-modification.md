@@ -1,5 +1,5 @@
 ---
-title: Tree Temperature Effects and Microclimate Modification
+title: Tree Temperature Effects And Microclimate Modification
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -24,7 +24,7 @@ White or red-coloured **roof vines over tiles** can effectively lower summer tem
 - Creating cool areas of dense air through combined evaporation and shading
 - Drawing cool air from these areas via **induced cross-ventilation**
 
-This combined strategy of shade, evaporation, and reflective foliage represents one of the most effective passive cooling techniques for buildings in hot climates.
+This combined strategy of shade, evaporation, and reflective foliage represents one of the most effective [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]] techniques for buildings in hot climates.
 
 ## Night-Time Condensation and Warming
 
@@ -58,10 +58,10 @@ However, if rain has fallen due to streamline compression, the latent heat of ev
 
 ### For Cooling (Hot Climates)
 
-1. **Plant deciduous trees** to the south (northern hemisphere) or north (southern hemisphere) of buildings for summer shade
+1. **Plant deciduous trees** to the south (northern hemisphere) or north ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]) of buildings for summer shade
 2. **Use light-coloured or red-leaved vines** on roof trellises for maximum radiation reflection
 3. **Install water features** upwind of living spaces
-4. **Combine with mulch and mist systems** under trellises for evaporative cooling
+4. **Combine with mulch and mist systems** under trellises for [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]
 5. **Create cross-ventilation paths** from shaded, vegetated areas through buildings
 
 ### For Warming (Cold Climates)
@@ -74,12 +74,12 @@ However, if rain has fallen due to streamline compression, the latent heat of ev
 ### For Humidity Control
 
 1. **In arid climates**: Use trees to humidify dry air through transpiration
-2. **In humid tropics**: Use trees with high transpiration rates to dehumidify through absorption
+2. **In [[humid-tropics-design-and-climate-zones]]**: Use trees with high transpiration rates to dehumidify through absorption
 3. **Near water bodies**: Combine trees and open water for maximum moderating effect
 
 ## Summary
 
-Trees provide a remarkable suite of temperature modification services through evaporation, condensation, shading, radiation reflection, and wind modification. These effects are not merely passive byproducts of tree biology — they can be deliberately designed into landscapes to create comfortable microclimates for human habitation, reduce energy costs for heating and cooling, and extend growing seasons for crops. The key principle is that **each tree species, leaf colour, canopy density, and placement position** contributes to specific thermal outcomes that can be matched to design objectives.
+Trees provide a remarkable suite of temperature modification services through evaporation, condensation, shading, radiation reflection, and wind modification. These effects are not merely passive byproducts of tree biology — they can be deliberately designed into landscapes to create comfortable microclimates for human habitation, reduce energy costs for heating and cooling, and extend [[jeavons-climate-adaptation-growing-seasons]] for crops. The key principle is that **each tree species, leaf colour, canopy density, and placement position** contributes to specific thermal outcomes that can be matched to design objectives.
 
 ## See Also
 - [[tree-temperature-effects]]

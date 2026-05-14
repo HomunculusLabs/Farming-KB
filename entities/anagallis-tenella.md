@@ -43,7 +43,7 @@ The calyx is deeply five-lobed with linear-lanceolate lobes. The fruit is a smal
 
 The root system consists of fine, fibrous roots arising from the stem nodes. There is no distinct taproot, reflecting the plant's adaptation to saturated surface soils.
 
-Vegetative reproduction through stem rooting is the primary means of colony expansion in favorable conditions. A single plant can spread to cover an area of 30–50 cm within several growing seasons.
+Vegetative reproduction through stem rooting is the primary means of colony expansion in favorable conditions. A single plant can spread to cover an area of 30–50 cm within several [[jeavons-climate-adaptation-growing-seasons]].
 
 ## Distribution and Habitat
 
@@ -57,7 +57,7 @@ Soil preference is strongly acidic, with optimal pH in the range of 4.0–5.5. I
 
 Elevation ranges from sea level to approximately 2,000 meters in alpine populations. Lowland populations are typically in oceanic climates with high rainfall and humidity.
 
-The species is absent from areas with calcareous or alkaline soils. Its restriction to acidic substrates makes it a useful indicator species for acid bog conditions in botanical surveys.
+The species is absent from areas with calcareous or [[plants-tolerant-of-alkaline-soils]]. Its restriction to acidic substrates makes it a useful indicator species for acid bog conditions in botanical surveys.
 
 ## Ecology and Interactions
 
@@ -69,12 +69,12 @@ Dead plant material contributes to peat formation in bog ecosystems. The fibrous
 
 The species plays a modest role [[drosera-rotundifolia]], and Narthecium ossifragum.
 
-Seed set is typically moderate to high in favorable years, though seed viability in the soil seed bank has not been well quantified. The tiny seeds are likely dispersed by water movement across bog surfaces.
+Seed set is typically moderate to high in favorable years, though seed viability in the soil [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] has not been well quantified. The tiny seeds are likely dispersed by water movement across bog surfaces.
 
 ## Cultivation and Uses
 
 Bog pimpernel is occasionally cultivated in specialized rock gardens, bog gardens, and alpine plant collections. It requires reliably moist, acidic conditions and is difficult to maintain in standard garden settings.
 
-The plant can be propagated by seed or by division of established mats. Seed germination requires cool, moist conditions and light exposure.
+The plant can be propagated by seed or by division of established mats. [[cannabis-seed-germination]] requires cool, moist conditions and light exposure.
 
-Cultivation in containers using a peat-based medium with added sand and perlite is often more successful than open-ground planting. The soil must never be allowed to dry out during the growing season.
+Cultivation in containers using a peat-based medium with added sand and perlite is often more successful than open-ground planting. The soil must never be allowed to dry out during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].

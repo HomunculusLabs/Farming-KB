@@ -1,12 +1,12 @@
 ---
-title: Natural Farming Water-Soluble Minerals Seawater and Brown Rice Vinegar
+title: Natural Farming Water Soluble Minerals Seawater And Brv
 source: chos-global-natural-farming.md
 type: concept
 ---
 
 # Natural Farming: Water-Soluble Minerals, Seawater, and Brown Rice Vinegar
 
-This concept covers Dr. Cho's water-soluble mineral inputs (WS-K, WS-P, WS-Ca, WS-CaPo), seawater and fermented seawater, brown rice vinegar (BRV), yeast, and [[loess]] powder. These inputs provide essential mineral nutrition and disease prevention without chemical fertilizers.
+This concept covers Dr. Cho's water-soluble mineral inputs (WS-K, WS-P, WS-Ca, WS-CaPo), seawater and [[cho-seawater-and-fermented-seawater]], brown rice vinegar (BRV), yeast, and [[loess]] powder. These inputs provide essential mineral nutrition and [[cervantes-damping-off-seedling-disease-prevention]] without [[cannabis-chemical-fertilizers]].
 
 ## Water-Soluble Calcium Phosphate (WS-CaPo)
 
@@ -82,7 +82,7 @@ Extracted from plant materials rich in potassium using brown sugar fermentation.
 ## Water-Soluble Calcium (WS-Ca)
 
 ### Source
-Extracted from eggshells (calcium carbonate) using brown rice vinegar. Eggshells are "very cost-effective materials."
+Extracted from eggshells ([[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]]) using brown rice vinegar. Eggshells are "very cost-effective materials."
 
 ### Functions
 1. Better utilization of carbohydrates and protein
@@ -118,13 +118,13 @@ Extracted from animal bones using brown rice vinegar, similar principle to WS-Ca
 | (Additional inputs per recipe) | variable |
 
 ### Key Principle
-"[[natural-farming]] uses a seed/seedling solution (SES) with a brief treatment period to restore the seed's natural vitality." Conventional long soaking causes nutrient loss.
+"[[natural-farming]] uses a seed/[[cho-seed-seedling-solution-treatment]] (SES) with a brief treatment period to restore the seed's natural vitality." Conventional long soaking causes nutrient loss.
 
 ## Fermented Mixed Compost (FMC)
 
 ### Method 1: Full Compost
 - Mix IMO-4 with various organic materials
-- Temperature management critical: **50°C = turn**, **70°C = nutrients lost**
+- [[cervantes-reservoir-temperature-management]] critical: **50°C = turn**, **70°C = nutrients lost**
 - Turn on Day 2, Days 5-6, and Days 8-10
 - Complete in ~20 days when sweet smell develops
 - Store in sacks/gunny bags in cool shade for up to 1 year
@@ -147,18 +147,3 @@ Extracted from animal bones using brown rice vinegar, similar principle to WS-Ca
 | FPJ | 2 ml |
 | LAB | 1 ml |
 | Seawater | 30 ml |
-
-## Natural Farming Poultry
-
-### Three Purposes
-1. **Integration**: Chickens provide food and manure; agricultural by-products become feed
-2. **Family harmony**: Working together strengthens relationships
-3. **Environmental rehabilitation**: Enriches land, healthier food, boosts local economy
-
-### Three Principles
-1. **Soil floor** (not concrete) — separating chickens from soil causes disease
-2. **No artificial temperature control** — fermenting compost provides heat, even for chicks
-3. **Natural feed** — whole brown rice grains and bamboo leaves for hatchling intestinal strength
-
-### Housing Design Goals
-"No bad smell, no emission, no cleaning needed, and no disease."

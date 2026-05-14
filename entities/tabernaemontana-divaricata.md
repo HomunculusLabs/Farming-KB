@@ -17,7 +17,7 @@ updated: 2026-04-28
 sources:
   - Van Beek, T.A. et al. (1984). "Tabernaemontana divaricata: A review of its phytochemistry and pharmacology." Journal of Ethnopharmacology, 10(1), 1-24.
   - Kamel, M.S. et al. (2001). "Iboga-type alkaloids from Tabernaemontana divaricata." Phytochemistry, 58(2), 315-320.
-  - https://www.plantoftheworld.org/ (taxonomic classification, Kew)
+  - https://www.plantoftheworld.org/ ([[neurotropic-fungi-taxonomic-classification]], Kew)
   - Chopra, R.N. et al. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
   - Perry, L.M. (1980). Medicinal Plants of East and Southeast Asia. MIT Press.
 ---
@@ -77,7 +77,7 @@ Modern research has validated several traditional uses, with pharmacological stu
 ## Overview
 
 Tabernaemontana Divaricata represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tabernaemontana Divaricata finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,13 +106,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for tabernaemontana divaricata. Climate adaptation
+opportunities for tabernaemontana divaricata. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 tabernaemontana divaricata and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

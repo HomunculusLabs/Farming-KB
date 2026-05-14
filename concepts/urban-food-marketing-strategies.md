@@ -10,7 +10,7 @@ The marketing of food produced through [[permaculture]] systems is as important 
 
 ## Farmers’ Markets
 
-Farmers’ markets represent one of the most successful direct marketing channels for small-scale producers. In Tasmania, regional markets operate one day per week—either Saturday or Sunday—in cities and country towns. They serve as community gathering points where producers sell a remarkably broad range of goods: fresh produce, seedlings, small poultry and animals, eggs, old clothes, breads, baked goods, preserves, jams, fresh and dried herbs, soaps, shampoos, essential oils, rubbing oils, and massage oils. Musical bands often perform, and hot drink stalls provide additional income.
+Farmers’ markets represent one of the most successful [[coleman-direct-marketing-and-csa-models]] channels for small-scale producers. In Tasmania, regional markets operate one day per week—either Saturday or Sunday—in cities and country towns. They serve as community gathering points where producers sell a remarkably broad range of goods: fresh produce, seedlings, small poultry and animals, eggs, old clothes, breads, baked goods, preserves, jams, fresh and dried herbs, soaps, shampoos, essential oils, rubbing oils, and massage oils. Musical bands often perform, and hot drink stalls provide additional income.
 
 Individual stall operators at these markets typically earn between $300 and $400 per market day. Hot soup and strawberry-and-cream stalls alone have generated $600 in a single weekend. For many small farmers, one weekend of market income is sufficient to sustain their operation, allowing one partner to run the market stall while the other maintains outside employment or works the farm.
 
@@ -38,7 +38,7 @@ The same approach worked with bread: giving away small loaves created demand for
 
 ## Pricing Philosophy
 
-Mollison recommends pricing below retail town prices for several reasons. Organic production typically costs less than conventional methods (no purchased chemical inputs), so lower prices still maintain profitability. When people receive high-quality organic food at below-retail prices, they are more likely to become regular customers and buy in greater volume. If a producer earns more than $400 to $500 per week through direct marketing, Mollison considers them to be doing very well.
+Mollison recommends pricing below retail town prices for several reasons. Organic production typically costs less than [[microwave-sterilization-versus-conventional-methods-comparison]] (no purchased chemical inputs), so lower prices still maintain profitability. When people receive high-quality organic food at below-retail prices, they are more likely to become regular customers and buy in greater volume. If a producer earns more than $400 to $500 per week through direct marketing, Mollison considers them to be doing very well.
 
 A note of caution: some marketers charge premium prices for organic products, which Mollison considers unfair precisely because production costs are lower. He advocates passing these savings to consumers to build market share and customer loyalty.
 
@@ -47,13 +47,13 @@ A note of caution: some marketers charge premium prices for organic products, wh
 Self-pick (pick-your-own) fruit operations require specific design considerations to be profitable:
 
 ### Plant Protection
-Broad intercrop spacing is essential to prevent trampling. Mounded growing beds protect plants from foot traffic—strawberries mounded up and well-mulched with sawdust can withstand significant pedestrian traffic. Gooseberries and currants handle trampling better than raspberries or strawberries.
+Broad intercrop spacing is essential to prevent trampling. Mounded growing beds protect plants from foot traffic—strawberries mounded up and well-mulched with sawdust can withstand significant pedestrian traffic. [[query-how-do-i-grow-gooseberries-and-currants]] handle trampling better than raspberries or strawberries.
 
 ### The “Eat and Pay” Phenomenon
 A key insight about self-pick operations is that consumers consistently eat more than they pay for. People typically pick six pints of strawberries but eat two in the field, paying for only four. Mollison notes: “You don’t take into account that they have eaten two.” Despite this uncounted consumption, returns remain high because the volume of paid product and the labor savings outweigh the losses.
 
 ### Crop Selection
-Small fruits—gooseberries, strawberries, loganberries, black currants, and red currants—are most suitable for self-pick. These crops tolerate handling better than delicate fruits and benefit from the mounded bed design that self-pick operations require.
+Small fruits—gooseberries, strawberries, loganberries, [[query-how-to-grow-black-currants-at-home]], and red currants—are most suitable for self-pick. These crops tolerate handling better than delicate fruits and benefit from the mounded bed design that self-pick operations require.
 
 ## The City as Untapped Production Resource
 
@@ -63,7 +63,7 @@ An Adelaide operator runs 9,000 sheep as a suburban lawn-mowing service, renting
 
 ## Cooperative Processing Infrastructure
 
-Community-shared processing equipment multiplies the value of raw production. Mollison advocates for well-off individuals to purchase and rent out processing equipment within their districts. Key equipment includes grain grinders, olive presses, sunflower seed presses, steam distillation equipment, and fermentation vats.
+Community-shared processing equipment multiplies the value of raw production. Mollison advocates for well-off individuals to purchase and rent out processing equipment within their districts. Key equipment includes grain grinders, olive presses, sunflower seed presses, [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] equipment, and fermentation vats.
 
 The Yugoslavian model of town-owned stills is particularly instructive: every small town hall houses a community distillation facility where residents bring fruit, receive proportional output, and the town council operates the equipment as a public service.
 

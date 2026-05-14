@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[permaculture]]'s zone model extends well beyond the intensively managed zones one and two. Zones three through five represent progressively less-managed landscapes, from commercial-scale food production to managed wilderness and untouched nature. [[bill-mollison]] emphasized that understanding these outer zones—and the extrinsic energies that shape them—is essential for creating resilient, self-sustaining systems.
+[[permaculture]]'s zone model extends well beyond the intensively managed zones one and two. Zones three through five represent progressively less-managed landscapes, from commercial-scale food production to managed wilderness and untouched nature. [[bill-mollison]] emphasized that understanding these outer zones—and the [[permaculture-zone-three-extrinsic-energies]] that shape them—is essential for creating resilient, self-sustaining systems.
 
 The key principle running through these zones is selective management: guard the garden, control some elements, and let other things live. This philosophy rejects both the impulse to dominate nature entirely and the naivety of ignoring its realities.
 
@@ -16,7 +16,7 @@ The key principle running through these zones is selective management: guard the
 
 Zone three is the domain of unpruned fruit and nut production, seedling orchards, and infrequently visited systems. Trees grow in their natural forms without pruning. Spacing is wider than in zone two, and understory management is minimal. Harvesting often takes the form of self-harvesting systems—animals gleaning fallen fruit, periodic nut collection rounds, and seasonal foraging trips replace the constant attention required closer to the house.
 
-The designer visiting zone three might go once a month or once a season. Systems must be robust enough to survive extended periods without intervention, favoring disease-resistant, drought-tolerant, locally adapted varieties. Seedling trees from local stock are preferred over grafted nursery varieties for toughness and self-reliance, even if individual trees are somewhat less productive than their cultivated counterparts.
+The designer visiting zone three might go once a month or once a season. Systems must be robust enough to survive extended periods without intervention, favoring disease-resistant, drought-tolerant, locally adapted varieties. Seedling trees from local stock are preferred over [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] varieties for toughness and self-reliance, even if individual trees are somewhat less productive than their cultivated counterparts.
 
 ### Semi-Domesticated Animals in Zone Three
 
@@ -100,7 +100,7 @@ This ordering prevents the common error of building infrastructure before establ
 
 Mollison criticized occupying large areas without developing them. The gross error is spreading human energy too thin across too much territory, resulting in mediocre outcomes everywhere. His alternative is the nuclear approach: develop foot by foot, starting from the house and working outward in concentric rings of decreasing intensity.
 
-Intensively develop a small area before expanding to the next ring. An eighth of an acre can support a household with intensive design. Half an acre achieves significant self-sufficiency. A flower farmer earned a living from cut flowers on just eight acres, demonstrating that small, intensively managed areas outperform large, neglected ones by orders of magnitude.
+Intensively develop a small area before expanding to the next ring. An eighth of an acre can support a household with intensive design. Half an acre achieves significant self-sufficiency. A flower farmer earned a living from cut flowers on just eight acres, demonstrating that small, intensively managed areas outperform large, neglected ones by [[event-classification-and-orders-of-magnitude]].
 
 ## Self-Sufficiency at Small Scale
 
@@ -112,7 +112,7 @@ The limiting factor is design quality and management intensity, not land area. S
 
 Zone four is managed forest and forage—timber, wild harvest, and extensive grazing systems visited only a few times per year. It serves as a productive buffer between the intensively managed landscape and true wilderness, yielding firewood, mushrooms, game, and forage with minimal effort.
 
-Zone five is unmanaged wilderness, left entirely to natural processes. It provides a reservoir of genetic diversity, a reference for understanding natural ecosystem function, and habitat for species that occasionally visit the inner zones. Even in zone five, Mollison believed the designer should observe and learn from natural patterns rather than attempt control.
+Zone five is unmanaged wilderness, left entirely to natural processes. It provides a reservoir of [[biodiversity-fungal-genetic-diversity]], a reference for understanding natural [[dighton-mycorrhizal-diversity-ecosystem-function]], and habitat for species that occasionally visit the inner zones. Even in zone five, Mollison believed the designer should observe and learn from [[natural-patterns-in-permaculture-design]] rather than attempt control.
 
 ## Working with Architects
 

@@ -11,10 +11,10 @@ Fu Zheng therapy represents the Oriental framework for understanding how [[medic
 ## Fu Zheng: The Oriental Immunotherapy
 
 ### Definition
-"Immune system modulation has long been a feature of Chinese holistic medicine and is referred to as Fu Zheng therapy." Fu Zheng can be considered as "the Oriental equivalent of Western immunotherapy."
+"[[blesching-cannabis-immune-system-modulation]] has long been a feature of Chinese holistic medicine and is referred to as Fu Zheng therapy." Fu Zheng can be considered as "the Oriental equivalent of Western immunotherapy."
 
 ### Core Principles
-Compounds derived from certain medicinal mushrooms are used extensively in the Orient to:
+Compounds derived from certain [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] are used extensively in the Orient to:
 1. **Increase disease resistance**
 2. **Normalize body functions**
 3. **Treat deficient principles** of qi (vital energy), blood, and yin (fluid) and yang functionality (especially the kidney)
@@ -33,10 +33,10 @@ The Chinese medical framework seeks to balance:
 ## Homeostasis: The Converging Concept
 
 ### Oriental Perspective
-"A central premise in Oriental medicine is to regulate homeostasis of the whole body and to return the diseased individual to the normal state." The focus is on restoring the body's natural equilibrium rather than attacking the disease directly.
+"A central premise in Oriental medicine is to regulate homeostasis of the whole body and to return the diseased individual to the normal state." The focus is on restoring the body's [[fukuoka-mutual-cancellation-natural-equilibrium]] rather than attacking the disease directly.
 
 ### Western Scientific Validation
-"As will be shown in later Chapters, one of the most noticeable features of extracts derived from many medicinal mushrooms is their ability to function as immunomodulators." The physiological constitution of host defence mechanisms is improved by mushroom compounds, which "restore homeostasis and enhance resistance to disease."
+"As will be shown in later Chapters, one of the most noticeable features of extracts derived from many medicinal mushrooms is their ability to function as immunomodulators." The physiological constitution of host defence mechanisms is improved by [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]], which "restore homeostasis and enhance resistance to disease."
 
 The concept of homeostasis thus bridges Eastern philosophical tradition and Western physiological science.
 
@@ -123,8 +123,8 @@ The appeal is threefold:
 
 This ancient Greek principle, central to Oriental medicine for millennia, is "fast becoming a truism for many people" in the West. Medicinal mushrooms uniquely embody this principle:
 - They are genuine food (nutritious, palatable, culinary)
-- They are genuine medicine (bioactive compounds with demonstrated clinical effects)
-- They bridge the gap between nutrition science and pharmacology
+- They are genuine medicine ([[cordyceps-cancer-bioactive-compounds]] with demonstrated clinical effects)
+- They bridge the gap between [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]] and pharmacology
 
 ## Integration with Modern Oncology
 
@@ -144,3 +144,7 @@ Mushroom-derived compounds are at the forefront of this research, representing a
 4. **Prevention**: Moving from treatment to cancer prevention through immune system support
 5. **Biomarker development**: Identifying measurable indicators of Fu Zheng therapeutic response
 6. **Integration education**: Training Western oncologists in the principles and evidence of Oriental immunomodulation
+
+## See Also
+
+- [[psychedelic-therapy-set-and-setting]]

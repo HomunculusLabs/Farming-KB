@@ -1,5 +1,5 @@
 ---
-title: "Trap Cropping and Push-Pull Pest Management"
+title: Trap Cropping And Push Pull Pest Management
 tags:
   - agriculture
   - pest-management
@@ -12,13 +12,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cook, S.M., Khan, Z.R. & Pickett, J.A. (2007). The use of push-pull strategies in integrated pest management. Annual Review of Entomology, 52, 375-400.
+  - Cook, S.M., Khan, Z.R. & Pickett, J.A. (2007). The use of push-pull strategies in comparison-beneficial-insects-guide-vs-integrated-pest-management. Annual Review of Entomology, 52, 375-400.
   - Shelton, A.M. & Badenes-Perez, F.R. (2006). Concepts and applications of trap cropping in pest management. Annual Review of Entomology, 51, 285-308.
   - Khan, Z.R., Midega, C.A.O., Pittchar, J.O. et al. (2011). Achieving food security for one million sub-Saharan African poor through push-pull technology. International Journal of Tropical Insect Science, 31, 131-136.
   - Hokkanen, H.M.T. (1991). Trap cropping in pest management. Annual Review of Entomology, 36, 119-138.
   - Pyke, B., Rice, M., Sabine, K. & Zalucki, M.P. (1987). The push-pull strategy—behavioural control of Heliothis. Australian Cotton Grower, 8, 7-9.
   - Hassanali, A., Herren, H., Khan, Z.R., Pickett, J.A. & Woodcock, C.M. (2008). Integrated pest management: the push-pull approach for controlling insect pests and weeds of cereal crops. Philosophical Transactions of the Royal Society B, 363, 361-367.
-  - Dickens, J.C. (2000). Orientation of Colorado potato beetle to natural and synthetic blends of volatiles. Journal of Chemical Ecology, 26, 1265-1278.
+  - Dickens, J.C. (2000). Orientation of Colorado potato beetle to natural and synthetic blends of volatiles. Journal of [[plant-volatile-communication-chemical-ecology]], 26, 1265-1278.
   - Turlings, T.C.J. & Tumlinson, J.H. (1992). Systemic release of query-how-do-plants-use-chemical-signals-to-defend-against-insects by herbivore-injured corn. Proceedings of the National Academy of Sciences, 89, 8399-8402.
 ---
 
@@ -68,14 +68,14 @@ The push uses stimuli that deter pests from the main crop:
 
 The pull uses the same principles as conventional trap cropping—an attractive plant that lures pests away from the main crop. In push-pull systems, the pull crop is typically planted as a perimeter border.
 
-**In the African push-pull system**: Napier grass (*Pennisetum purpureum*) is planted as a border around maize fields. Stemborer moths are attracted to Napier grass volatiles and preferentially oviposit on it. When larvae hatch and bore into the grass stems, the grass produces a sticky sap that traps and kills them—a built-in mortality mechanism unique to this grass species.
+**In the African push-pull system**: Napier grass (*[[pennisetum-purpureum]]*) is planted as a border around maize fields. Stemborer moths are attracted to Napier grass volatiles and preferentially oviposit on it. When larvae hatch and bore into the grass stems, the grass produces a sticky sap that traps and kills them—a built-in mortality mechanism unique to this grass species.
 
 ### The African Push-Pull Success Story
 
 The most extensively validated push-pull system was developed by the International Centre of Insect Physiology and Ecology (ICIPE) in collaboration with Rothamsted Research and local African farming communities. Targeting cereal stemborers (*Chilo partellus* and *Busseola fusca*) and the parasitic weed Striga (*Striga hermonthica*), the system has been adopted by over 100,000 smallholder farmers across East Africa.
 
 **Components**:
-- **Push**: Silverleaf desmodium (*Desmodium uncinatum*) intercropped between maize rows
+- **Push**: Silverleaf desmodium (*[[desmodium-uncinatum]]*) intercropped between maize rows
 - **Pull**: Napier grass (*Pennisetum purpureum*) or Brachiaria grass as a border crop
 
 **Mechanism**:
@@ -83,7 +83,7 @@ The most extensively validated push-pull system was developed by the Internation
 2. Desmodium [[root-exudates-rhizosphere]] trigger suicidal germination of Striga seeds, depleting the soil seed bank
 3. Napier grass at the border attracts stemborer moths for oviposition
 4. Napier grass stems produce a gummy substance that kills boring larvae before they can develop
-5. Desmodium is a legume that fixes nitrogen, improving soil fertility management for the maize crop
+5. Desmodium is a legume that fixes nitrogen, improving [[soil-fertility-management]] for the maize crop
 
 **Results**: Adoption of push-pull technology has produced maize yield increases of 2–3× compared to monoculture, while virtually eliminating Striga infestation in treated fields. The system also provides high-quality livestock fodder (both Napier grass and desmodium), diversifying farm income.
 

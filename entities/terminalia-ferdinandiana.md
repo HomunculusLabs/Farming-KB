@@ -44,7 +44,7 @@ The fruit is an ovoid to ellipsoidal drupe, 1.5–3 cm long, green when immature
 
 ## Distribution and Habitat
 
-T. ferdinandiana is endemic to the tropical savanna woodlands of northern Australia, occurring across the **Northern Territory**, the **Kimberley region** of Western Australia, and northern **Queensland**. Its range extends from the Daly River region eastward to Cape York Peninsula.
+T. ferdinandiana is endemic to the [[tropical-savanna-forestry-rehabilitation]] woodlands of northern Australia, occurring across the **Northern Territory**, the **Kimberley region** of Western Australia, and northern **Queensland**. Its range extends from the Daly River region eastward to Cape York Peninsula.
 
 The species occupies a variety of well-drained habitats including sandstone escarpments, open woodlands, coastal dunes, and riverine fringes. It is frost-sensitive and intolerant of prolonged waterlogging, preferring sites with a distinct dry season.
 

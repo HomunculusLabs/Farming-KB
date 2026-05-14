@@ -56,11 +56,11 @@ On Lord Howe Island, the kentia palm grows in lowland and montane subtropical ra
 
 The species is particularly abundant on the southern slopes of the island's two main mountains, Mount Gower and Mount Lidgbird. It also grows in the island's palm forests along stream valleys.
 
-Lord Howe Island has [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. The deep, well-drained forest soils provide ideal conditions for root development.
+Lord Howe Island has [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. The deep, well-drained [[fire-effect-on-forest-soils-and-nutrient-loss]] provide ideal conditions for root development.
 
 The palm grows both as a canopy emergent in lowland forests and as an understory component in montane forests. It frequently dominates lowland palm forest communities.
 
-Natural regeneration is dependent on seed dispersal by birds, particularly the Lord Howe woodhen and silvereye. Fruits may also be dispersed by water along stream courses.
+Natural regeneration is dependent on [[clay-pellet-seed-dispersal]] by birds, particularly the Lord Howe woodhen and silvereye. Fruits may also be dispersed by water along stream courses.
 
 ## Cultivation
 
@@ -68,7 +68,7 @@ Howea forsteriana is propagated primarily from seed. Seeds have a long dormancy 
 
 Commercial nurseries on Lord Howe Island and in other locations produce millions of seedlings annually for the global indoor plant market. The Netherlands, Italy, and Hawaii are major production centers.
 
-The species tolerates low to moderate indoor light levels, making it suitable for offices, shopping malls, and hotel lobbies. It prefers bright, indirect light when available but adapts to darker interiors.
+The species tolerates low to moderate [[marijuana-horticulture-cervantes-indoor-light-systems-and-photometrics]] levels, making it suitable for offices, shopping malls, and hotel lobbies. It prefers bright, indirect light when available but adapts to darker interiors.
 
 Optimal temperature ranges from 18 to 27 degrees Celsius. The palm is sensitive to cold and should not be exposed to temperatures below 5 degrees Celsius.
 
@@ -76,6 +76,6 @@ Consistent moisture is preferred, with the soil kept evenly moist but not waterl
 
 A well-draining [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] supports steady growth.
 
-The species is relatively pest-resistant but may be affected by spider mites, mealybugs, and scale insects. Good [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]. Its fruits and seeds are an important food source for native birds and invertebrates.
+The species is relatively pest-resistant but may be affected by [[cervantes-spider-mites-identification-control]], mealybugs, and scale insects. Good [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]. Its fruits and seeds are an important food source for native birds and invertebrates.
 
 The palm forests of Lord Howe Island provide habitat for several endemic and threatened species, including the Lord Howe woodhen (Gallirallus sylvestris) and the Lord Howe currawong (Strepera graculina crissalis).

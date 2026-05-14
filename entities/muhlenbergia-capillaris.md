@@ -19,7 +19,7 @@ sources:
 
 **Muhlenbergia capillaris** (Lam.) Trin., commonly known as pink muhly grass or hairawn muhly, is a warm-season perennial bunchgrass native to the central and eastern United States. It is celebrated for its airy pink to rose-red inflorescences that appear in late summer and persist through autumn.
 
-The species has become one of the most widely planted native ornamental grasses in [[dighton-fungal-drought-tolerance-plant-water-relations]], and low maintenance requirements make it a staple of sustainable landscape design.
+The species has become one of the most widely planted native [[ornamental-grasses-guide]] in [[dighton-fungal-drought-tolerance-plant-water-relations]], and low maintenance requirements make it a staple of sustainable [[holzer-permaculture-landscape-design]].
 
 ## Taxonomy and Morphology
 
@@ -43,7 +43,7 @@ Floral color ranges from pink to rose-red or purplish, with color intensity vary
 
 The species ranges from Kansas and Missouri eastward to Massachusetts and southward to Florida and Texas.
 
-It is also reported from northeastern Mexico and has been naturalized in parts of the Caribbean and southeastern South America.
+It is also reported from northeastern Mexico and has been naturalized in parts of the Caribbean and southeastern [[guzman-psilocybin-mushrooms-south-america]].
 
 In the United States, it is most abundant in the central and southern Great Plains, the Ozark Plateau, and the Atlantic and Gulf Coastal Plains.
 
@@ -59,9 +59,9 @@ Populations in the southeastern U.S. are often associated with fire-maintained l
 
 Pink muhly grass is widely cultivated as an ornamental for its showy autumn inflorescences and fine-textured foliage.
 
-It thrives in USDA Hardiness Zones 5–9, tolerating winter temperatures to approximately -23 °C when established.
+It thrives in USDA [[hardiness-zones-mollison]] 5–9, tolerating winter temperatures to approximately -23 °C when established.
 
-Plants require full sun for optimal flowering and [[permplant-carob-drought-tolerant-food-tree]] and requires little to no supplemental irrigation in most temperate climates.
+Plants require full sun for optimal flowering and [[permplant-carob-drought-tolerant-food-tree]] and requires little to no supplemental irrigation in most [[fukuoka-natural-farming-temperate-climates]].
 
 Annual maintenance consists of cutting back the previous year's growth to 5–10 cm above ground in late winter or [[coleman-overwintered-onions-and-early-spring-crops]] before new growth resumes.
 
@@ -81,6 +81,6 @@ The species is moderately palatable to grazing livestock and white-tailed deer, 
 
 *Memhlenbergia capillaris* contributes to soil stabilization on sandy, erosive sites due to its fibrous root system.
 
-It is a component of native prairie seed mixes used in ecological restoration, particularly for dry-mesic upland sites.
+It is a component of native prairie seed mixes used in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], particularly for dry-mesic upland sites.
 
 Pollinator value is moderate, as the wind-pollinated flowers do not produce nectar, but the foliage supports grass-feeding insects.

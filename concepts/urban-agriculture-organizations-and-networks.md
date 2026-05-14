@@ -1,10 +1,10 @@
 ---
-title: Urban Agriculture Organizations and Networks
+title: Urban Agriculture Organizations And Networks
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Urban Agriculture Organizations and Networks
+# [[urban-rural-linkages-and-direct-marketing|Urban]] Agriculture Organizations and Networks
 
 The global urban agriculture movement has spawned a vast network of organizations, research institutions, and community initiatives dedicated to food production within cities. These organizations span continents and operate at scales from neighborhood garden plots to international policy advocacy, collectively forming the institutional infrastructure that supports urban food systems worldwide.
 
@@ -12,7 +12,7 @@ The global urban agriculture movement has spawned a vast network of organization
 
 ### United States
 
-**City Farmer** (Vancouver, BC, Canada) — Office of Urban Agriculture, produces publications on urban home composting (rodent-resistant bins), gardening with disabilities, school garden guidelines for teaching children about nutrition, and maintains a color urban gardens poster.
+**City Farmer** (Vancouver, BC, Canada) — Office of Urban Agriculture, produces publications on urban home [[composting]] (rodent-resistant bins), gardening with disabilities, school garden guidelines for teaching children about nutrition, and maintains a color urban gardens poster.
 
 **American Community Gardening Association (ACGA)** — Based in Philadelphia, ACGA's Community Greening Review publication connects volunteers and professionals who "promote gardening and greening in urban, suburban, and rural America."
 
@@ -26,11 +26,11 @@ The global urban agriculture movement has spawned a vast network of organization
 
 **Boston Urban Gardeners (BUG)** — Based in Jamaica Plain, Massachusetts.
 
-**Seattle Tilth Association** — Trains composting teachers, operates demonstration compost systems, gardens, and greenhouses. Produces printed guides for establishing similar programs and distributes slide shows. Publishes a monthly newsletter and several Pacific Northwest gardening books.
+**Seattle Tilth Association** — Trains composting teachers, operates demonstration [[compost]] systems, gardens, and greenhouses. Produces printed guides for establishing similar programs and distributes slide shows. Publishes a monthly newsletter and several [[psilocybin-north-america-pacific-northwest]] gardening books.
 
 **Center for Neighborhood Technology** (Chicago, IL) — Publishes *Neighborhood Works*, focused on sustainable urban development.
 
-**Center for Urban Education about Sustainable Agriculture (CUESA)** — Based in Berkeley, CA, maintains a Bay Area Urban Gardening and Greening Directory listing over 100 projects and organizations.
+**Center for Urban Education about [[phosphate-accumulators-sustainable-agriculture]] (CUESA)** — Based in Berkeley, CA, maintains a Bay Area Urban Gardening and Greening Directory listing over 100 projects and organizations.
 
 **Urban Agriculture Network** (Washington, DC) — An initiative of the United Nations Urban Development Programme, networking more than 6,500 NGOs across 65 countries around urban food production issues.
 
@@ -64,7 +64,7 @@ The global urban agriculture movement has spawned a vast network of organization
 
 **Henry George Foundation** (London) — Promotes land value taxation philosophy as a solution to land allocation challenges, maintaining a library and publishing research on the application of Henry George's economics to contemporary problems.
 
-**Permaculture Community Action — Worknet** (Ontario, Canada) — A selective listing of permaculture-related organizations.
+**[[permaculture-community-design]] Action — Worknet** (Ontario, Canada) — A selective listing of permaculture-related organizations.
 
 ### Austria
 
@@ -84,7 +84,7 @@ The global urban agriculture movement has spawned a vast network of organization
 
 **Vancouver Permaculture Network** — Hosts permaculture courses and maintains regular meeting schedules at Cotton Wood Gardens.
 
-**Yankee Permaculture** — Publisher and distributor of the Permaculture Design Course pamphlet series and the International Permaculture Solutions Journal (TIPS), operating from Sparr, Florida.
+**Yankee Permaculture** — Publisher and distributor of the [[permaculture-design]] Course pamphlet series and the International Permaculture Solutions Journal (TIPS), operating from Sparr, Florida.
 
 ## Ecological Building and Design
 
@@ -92,13 +92,13 @@ The global urban agriculture movement has spawned a vast network of organization
 
 **Eco-Home** (Los Angeles, CA) — Demonstration home of urban ecological living, offering tours.
 
-**Earth Connection** (Cincinnati, OH) — Educational center for solar design construction, water conservation, and eco-sensitive living.
+**Earth Connection** (Cincinnati, OH) — Educational center for solar design construction, [[water-conservation]], and eco-sensitive living.
 
 **Los Angeles Eco-Village** — An urban ecovillage at White House Place.
 
 **Projeto Aldeia Global** (Brazil) — Non-profit supporting the development of eco-villages.
 
-**IMAGO** (Cincinnati, OH) — Ecological community organization.
+**IMAGO** (Cincinnati, OH) — Ecological [[bioregionalism-and-community-organization]].
 
 ## Urban Forestry and Green Space
 
@@ -134,7 +134,7 @@ The global urban agriculture movement has spawned a vast network of organization
 
 **EarthRight Institute** (Norwich, VT) — Environmental hot line and municipal energy-planning resources.
 
-**International Water and Sanitation Centre** (The Hague, Netherlands) — WHO-affiliated center with publications on water and sanitation in developing countries.
+**International Water and Sanitation Centre** (The Hague, Netherlands) — WHO-affiliated center with publications on water and sanitation in [[low-cost-mushroom-growing-house-construction-developing-countries]].
 
 ## Community Development and Economic Organizations
 
@@ -144,26 +144,6 @@ The global urban agriculture movement has spawned a vast network of organization
 
 **Biological Urban Gardening Services (BUGS)** (Citrus Heights, CA) — International membership organization devoted to reducing synthetic chemical use in urban landscapes through education.
 
-**GREEN Institute** (Minneapolis, MN) — Runs an "ecoindustrial" park, business incubator, urban environmental learning center, materials exchange, and energy technology programs.
+**GREEN Institute** (Minneapolis, MN) — Runs an "ecoindustrial" park, business incubator, urban [[plant-memory-environmental-learning]] center, materials exchange, and energy technology programs.
 
 **Agricultural Initiative for the Former Soviet Union** — Promotes self-sufficiency through rooftop gardens and small-scale agricultural enterprises, providing horticultural technical assistance and workshops for school children.
-
-## The International Permaculture Solutions Journal (TIPS)
-
-Published by Yankee Permaculture, TIPS delivers information, ideas, and discussion for Earth-healing tools. Issues often follow specific themes, including sustainable food systems, [[permaculture-design-process]] and product, and appropriate technology. Contributors include leading figures such as Bill Mollison, Jim Duke, Bill McLarney, and editor Dan Hemenway. The journal features eclectic book reviews, letters to the editor, informative illustrations, and an easy-to-use format.
-
-## Key Principles Across Organizations
-
-Several common themes emerge from this global network:
-
-1. **Community ownership**: Most successful urban agriculture projects are community-managed rather than government-run
-2. **Education focus**: Nearly all organizations combine food production with educational programming
-3. **Vacant land conversion**: A primary strategy is converting abandoned or neglected urban land to productive use
-4. **Policy advocacy**: Organizations work to secure legal protections for community gardens and urban farms
-5. **Networking**: International connections and knowledge-sharing are fundamental to the movement's growth
-6. **Multi-functionality**: Urban agriculture sites serve as food production, community gathering, education, ecological restoration, and economic development spaces simultaneously
-
-## See Also
-- [[urban-permaculture-guilds-plant-stacking]]
-- [[urban-guerrilla-gardening]]
-- [[coastal-permaculture-plants]]

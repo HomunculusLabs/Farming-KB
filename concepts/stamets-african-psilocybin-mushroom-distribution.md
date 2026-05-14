@@ -40,12 +40,12 @@ The living traditions of mushroom use in Nigeria and Ivory Coast
 represent invaluable ethnopharmacological knowledge that deserves
 careful documentation before it is lost.
 
+
 ## See Also
 
-- [[stamets-mycelium-iconic-types-strain-identification]]
-- [[stamets-psi-psilocybe-mexicana-species-guide]]
-- [[stamets-psilocybin-habitats-ecology]]
-- [[stamets-spawn-types-and-viability-home-made-commercial]]
+- [[stamets-growing-room-design]]
+- [[stamets-mushrooms-civilization-history-ethnomycology]]
+- [[stamets-species-sequencing-substrate-recycling-cascade-cultivation]]
 
 ## Practical Considerations
 

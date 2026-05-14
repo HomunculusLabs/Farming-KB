@@ -67,3 +67,19 @@ The paddy melon illustrates several important [[permaculture-principles]]:
 
 - [[bill-mollison]], *[[permaculture-design]] Course* Pamphlet III: [[permaculture]] in Arid Landscapes
 - Yankee Permaculture, 1981 transcript, Rural Education Center, Wilton NH
+
+## Practical Applications
+
+Paddy melon mollison has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of paddy melon mollison has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## See Also
+
+- [[mollison-designers-rice-paddy-integrated-duck-fish]]
+- [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]
+- [[fukuoka-textdoc-duck-carp-rice-paddy-polyculture]]
+- [[paddy-straw-mushroom]]
+- [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]

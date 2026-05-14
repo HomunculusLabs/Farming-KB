@@ -1,16 +1,16 @@
 ---
-title: Structural Forests in Permaculture
+title: Structural Forests Permaculture
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
 # Structural Forests in Permaculture
 
-Structural forests are a cornerstone of [[permaculture-design]], providing timber, fencing, building materials, and forage through carefully selected pioneer and edge species. Unlike conventional forestry focused on saw logs, permaculture emphasizes round pole timber and coppice systems that yield continuous, diversified products while [[building-soil]] and supporting livestock.
+Structural forests are a cornerstone of [[permaculture-design]], providing timber, fencing, [[gadd-fungal-biodegradation-concrete-building-materials]], and forage through carefully selected pioneer and edge species. Unlike conventional forestry focused on saw logs, [[permaculture]] emphasizes round pole timber and coppice systems that yield continuous, diversified products while [[building-soil]] and supporting livestock.
 
 ## Black Locust: The Premier Structural Tree
 
-Black locust (*Robinia pseudoacacia*) is considered the finest structural timber tree in North America. Its key properties include:
+Black locust (*[[robinia-pseudoacacia]]*) is considered the finest structural timber tree in North America. Its key properties include:
 
 - **Highest impact loading strength** of any known timber — traditionally used for mallet heads
 - **Exceptional durability** as fence posts, with specimens lasting 90–100 years while retaining near-maximum strength
@@ -27,7 +27,7 @@ Bamboo offers numerous domestic uses and structural applications:
 
 - **Propagation**: Primarily vegetative; most structural bamboos are not annual seeders
 - **Timeline**: Approximately 10 years before first harvest from clumps
-- **Structural strength**: When used as reinforcement in concrete, inch-diameter bamboo provides two-thirds the strength of quarter-inch steel per diameter, with the advantage of not rusting and bonding better with concrete
+- **[[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]**: When used as reinforcement in concrete, inch-diameter bamboo provides two-thirds the strength of quarter-inch steel per diameter, with the advantage of not rusting and bonding better with concrete
 - **Multiple products**: Shoots are edible (raw or cooked), poles serve construction needs, and clumps provide garden supports
 - **Species selection**: Two to four bamboos suited to North American climates are heavy seeders, useful for wildlife feeding but less ideal for structural purposes
 
@@ -63,7 +63,7 @@ Permaculture prioritizes pole timber over saw logs for several reasons:
 3. **Continuous yield**: A continual-product pole forest provides annual or biennial harvests
 4. **Lower risk**: No need to wait decades for a single large payout
 
-Two management strategies exist:
+Two [[forest-management-strategies]] exist:
 - **Continual-product pole forest**: Fell the largest trees as they reach target diameter — produces steady round timber supply
 - **Eventual-product forage forest**: Cut out small and weak trees, leaving strong growers — eventually yields quality saw logs
 
@@ -88,7 +88,7 @@ Structural trees serve critical roles within food forests:
 - **Grape support**: Fig, elm, black walnut, and Tasmanian blackwood all carry grapes effectively — once the vine reaches the crown, it is wind-pruned and requires no further maintenance
 - **Crown differentiation**: Design forests with structural timber as the core, bark-yielding species in the interior, and edge-bearing fruit trees on the perimeter
 
-The ideal sequence for establishing a food forest with structural elements is: plant densely (as close as 3×3 feet for some species, 9×9 for most), force upright growth with good trunk form, begin modest trunk trimming, select for early bearing and desired characteristics, thin progressively, and allow final trees to develop full crowns.
+The ideal sequence for establishing a [[food-forest]] with structural elements is: plant densely (as close as 3×3 feet for some species, 9×9 for most), force upright growth with good trunk form, begin modest trunk trimming, select for early bearing and desired characteristics, thin progressively, and allow final trees to develop full crowns.
 
 ## Dry Distillation of Wood
 
@@ -100,7 +100,7 @@ Dry distillation represents one of the highest-value approaches to utilizing for
 - **Methane**: Can be captured and used for cooking gas; as little as 4% of the methane output is sufficient to pump the remainder into storage
 - **Methanol**: Derived from the methane fraction and suitable for running tractors or other machinery
 - **Creosote**: Used for painting and proofing planks; can render birch into non-rotting timber
-- **CO₂ scrubbing**: Lime water absorbs CO₂ from the flue gases, and the precipitated calcium carbonate can be returned to fields
+- **CO₂ scrubbing**: Lime water absorbs CO₂ from the flue gases, and the precipitated [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] can be returned to fields
 
 The French historically used a double-chamber brick system — one chamber for the fire and one for cooking the timber. A modern adaptation would supply all cooking gas, a hot thermal mass for heating the living area, hot water, creosote for wood treatment, and methanol for fuel, all from the same process. Flue gases can be passed through pond water to precipitate calcium carbonate, releasing clean gas to the environment.
 
@@ -122,7 +122,7 @@ The lack of good nest sites is likely a primary reason for low bird populations 
 
 When managing forest products, the first priority is removing fallen trunks that are leaning against living trees. These "lodge" trees pose fire risk — when wildfire occurs, they scar the bases of standing trees and can kill them. In regions like North Carolina with high fire frequency, fallen timber rarely has time to rot before burning.
 
-Additional firewood management principles:
+Additional firewood [[jadam-soil-management-principles]]:
 
 - **Brush piles**: Pile trimmings and brush into heaps rather than leaving them scattered. Brush piles provide winter shelter for lizards, salamanders, and other small animals. New piles must be built each year as old ones decompose
 - **Triangle of trimmings**: Avoid leaving triangular accumulations of trimmings between trees, as this creates dangerous fire conditions
@@ -141,18 +141,10 @@ Close-in forest zones must be managed for windbreak function. Without replanting
 
 ## Integrated Forest Management
 
-A comprehensive forest management approach recognizes multiple zones with different purposes:
+A comprehensive forest [[troika-management-approach-mollison]] recognizes multiple zones with different purposes:
 
 - **Intensive inner zone**: High forage for humans and animals, windbreak function, garden-adjacent micro-climates
 - **Structural timber zone**: Black locust, cedar, arbor vitae, and other pole-producing species
 - **Nursery zone**: Small areas dedicated to raising seedlings for out-planting
 - **Wild zone**: Patches left entirely undisturbed as ecological controls — these areas help guide management decisions by showing what the forest does without intervention
 - **Buffer zones**: Mulberry, elderberry, and black locust separating incompatible species groups
-
-The key principle is that forest product uses should not conflict with wildlife management. Every tree removed should serve a purpose, and every product extracted should be the highest-value use of that material. A skilled forester managing a mixed permaculture forest should be continuously busy — selecting, thinning, coppicing, harvesting, and planting throughout the year.
-
-## See Also
-
-- [[structural-forest-design]]
-- [[structural-forest-management]]
-- [[structural-forests-and-forest-product-management]]

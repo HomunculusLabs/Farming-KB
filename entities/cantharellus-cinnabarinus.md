@@ -48,7 +48,7 @@ The species fruits primarily in **mixed hardwood forests**, showing strong assoc
 
 Fruiting occurs from **June through October**, peaking in mid-summer during warm, wet periods. The mushroom prefers moist, well-drained, acidic soils with high organic matter. It often appears along forest trails, stream banks, and disturbed forest edges.
 
-Optimal fruiting conditions include sustained warm temperatures (18–24°C) combined with regular rainfall or high humidity. The species is relatively tolerant of drought compared to other chanterelles, often fruiting when other chanterelle species are scarce.
+Optimal [[fruiting-conditions]] include sustained warm temperatures (18–24°C) combined with regular rainfall or high humidity. The species is relatively tolerant of drought compared to other chanterelles, often fruiting when other chanterelle species are scarce.
 
 ## Edibility and Culinary Use
 
@@ -80,7 +80,7 @@ The combination of **vivid red-orange color, blunt ridges (not true gills), and 
 ## Overview
 
 Cantharellus Cinnabarinus represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cantharellus Cinnabarinus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,13 +109,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for cantharellus cinnabarinus. Climate adaptation
+opportunities for cantharellus cinnabarinus. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cantharellus cinnabarinus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

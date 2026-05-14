@@ -70,7 +70,7 @@ mushroom into their diet.
 
 At high doses, the mushrooms dissolve the ego and produce visionary
 experiences, ecstatic states, and the dissolution of boundaries between
-self and other. These experiences form the basis of [[shamanism]] and
+self and other. These experiences form the basis of shamanism and
 religion.
 
 ## Language as Synesthetic Activity

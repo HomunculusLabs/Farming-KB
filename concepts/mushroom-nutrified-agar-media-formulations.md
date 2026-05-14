@@ -1,9 +1,9 @@
 ---
-title: "Mushroom Nutrified Agar Media Formulations"
-source: "Growing Gourmet and accessible-mushroom-cultivation-for-disabilities
-  - malt extract yeast agar MYA
+title: Mushroom Nutrified Agar Media Formulations
+source: "[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and accessible-mushroom-cultivation-for-disabilities
+  - [[malt-extract-agar]] yeast agar MYA
   - potato dextrose yeast agar PDYA
-  - mushroom tissue culture media
+  - [[mushroom-tissue-culture]] media
   - nutrified agar preparation
 tags:
   - mycology
@@ -72,7 +72,7 @@ This is a rich medium. The oatmeal does not have to be filtered out, although so
 | Agar agar | 20 grams |
 | Dry dog food | 20 grams |
 
-Dog food was first used as a component for agar medium by the late Dr. Steven Pollock. This unusual formulation provides a broad spectrum of nutrients.
+Dog food was first used as a component for [[agar-medium-preparation]] by the late Dr. [[steven-pollock]]. This unusual formulation provides a broad spectrum of nutrients.
 
 ### Corn Meal, Yeast, Glucose Agar (CMYA)
 

@@ -36,7 +36,7 @@ Over land, columns of heated air ascend in what are known as Overbeck jets. As t
 
 Convection loops will not occur effectively in closed rooms where hot air (8–10 °C higher than ambient) stratifies below ceilings. This stagnant stratification means that air convection, while useful in open or properly designed systems, is not an efficient method for heating buildings directly.
 
-Despite this limitation at the building scale, air convection remains the main engine of atmospheric circulation globally, driving weather patterns, wind systems, and the redistribution of heat across the planet.
+Despite this limitation at the building scale, air convection remains the main engine of [[global-atmospheric-circulation-patterns]] globally, driving [[climatic-zones-and-global-weather-patterns]], wind systems, and the redistribution of heat across the planet.
 
 ## Heat Measurement and Solar Energy
 
@@ -99,15 +99,15 @@ Radiation is the transfer of intense heat from solids and liquids across space, 
 
 Some plants have evolved the remarkable ability to generate their own heat through metabolic processes — specifically by storing and oxidizing fats:
 
-- **Arum lilies** (*Arum* spp.) and **Philodendron selloum** can reach internal temperatures of 46 °C when surrounding air is only 4 °C.
-- **Crocuses** heat themselves approximately 15 °C above ambient temperature.
-- **Skunk cabbage** (*Symplocarpus foetidus*) generates enough heat to melt surrounding snow, enabling it to flower early in spring.
+- **Arum lilies** (*Arum* spp.) and **[[philodendron-selloum]]** can reach internal temperatures of 46 °C when surrounding air is only 4 °C.
+- **Crocuses** heat themselves approximately 15 °C above [[jadam-ambient-temperature-principle]].
+- **Skunk cabbage** (*[[symplocarpus-foetidus]]*) generates enough heat to melt surrounding snow, enabling it to flower early in spring.
 
 These thermogenic plants demonstrate that biological systems can exploit the same principles of heat generation and transfer that engineers apply in mechanical thermosiphon systems.
 
 ## Design Implications for Permaculture
 
-Understanding convection, conduction, and radiation enables permaculture designers to:
+Understanding convection, conduction, and radiation enables [[bill-mollison]] to:
 
 1. **Site structures** on sun-facing slopes within thermal belts to maximize passive solar gain.
 2. **Use thermosiphon loops** to passively move heat from solar collectors to storage without pumps.

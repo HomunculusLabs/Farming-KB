@@ -24,7 +24,7 @@ Arthur traces mushroom symbolism through numerous traditions:
 
 - **Hindu/Buddhist traditions**: Soma, Amrita, and the [[mushrooms-and-mankind]]
 - [[doc]]
-- [[shamanism]]
+- shamanism
 
 ## Overview
 

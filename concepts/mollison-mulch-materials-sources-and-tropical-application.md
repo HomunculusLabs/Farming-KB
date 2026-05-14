@@ -1,5 +1,5 @@
 ---
-title: mollison mulch materials sources and tropical application [[natural-fertilizer-sources-and-application]] in the Tropics
+title: "Mollison Mulch Materials Sources And Tropical Application"
 created: 2026-04-26
 tags: [permaculture], mulching, tropical-agriculture, soil-health, organic-matter]
 date: 2026-04-25

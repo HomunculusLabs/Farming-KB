@@ -1,5 +1,5 @@
 ---
-title: [[comparison-bamboo-vs-cordwood-construction]]
+title: "Cordwood Construction"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

@@ -28,7 +28,7 @@ alpaca, mohair) accept natural dyes readily and produce the richest,
 most saturated colors with minimal preparation. Cellulose fibers
 (cotton, linen, hemp, bamboo) are more stubborn and typically require
 a two-step mordanting process with tannin followed by alum for good
-results. The permaculture-designers-manual-tanbark-and-tannins page describes
+results. The [[permaculture]]-designers-manual-tanbark-and-tannins page describes
 traditional tannin sources from trees.
 
 ## Beginner-Friendly Dye Plants

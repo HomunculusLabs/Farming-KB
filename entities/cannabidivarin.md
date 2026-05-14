@@ -29,7 +29,7 @@ sources:
 
 Despite the clinical trial outcomes not achieving primary endpoints, the research has generated valuable pharmacological data on CBDV's [[cannabis-safety-profile-and-overdose-risk]], pharmacokinetics, and mechanism of action. This body of evidence supports continued investigation of CBDV for other neurological indications.
 
-Unlike THC, CBDV does not produce intoxicating effects. It demonstrates low affinity for CB1 and CB2 cannabinoid receptors and instead acts through multiple non-cannabinoid receptor targets, including TRPV1, TRPV2, GPR55, and possibly the 5-HT1A serotonin receptor.
+Unlike THC, CBDV does not produce intoxicating effects. It demonstrates low affinity for CB1 and CB2 [[cannabinoid-receptors-cb1-cb2]] and instead acts through multiple non-cannabinoid receptor targets, including TRPV1, TRPV2, GPR55, and possibly the 5-HT1A [[serotonin-receptor-interference-psychedelic-mechanism]].
 
 ## Chemical Properties
 
@@ -42,7 +42,7 @@ Unlike THC, CBDV does not produce intoxicating effects. It demonstrates low affi
 - **Solubility:** Lipophilic; soluble in ethanol, DMSO, and organic solvents; poorly soluble in water
 
 CBDV is a structural analogue of CBD where the n-pentyl chain is replaced by an n-propyl chain.
-This minor structural difference significantly alters [[hofmann-lsd-clinical-research-early-studies]] on CBDV focuses on seizure disorders:
+This minor structural difference significantly alters [[hofmann-lsd-clinical-research-early-studies]] on CBDV focuses on [[cannabis-for-epilepsy-and-seizure-disorders]]:
 
 - **Preclinical models:** CBDV suppresses seizure activity in multiple animal models, including pentylenetetrazole (PTZ)-induced seizures, pilocarpine-induced status epilepticus, and genetic models of epilepsy (mice with Dravet syndrome mutations). Effect sizes are comparable to or greater than those of CBD in some models.
 - **Mechanism:** Anticonvulsant effects are mediated through TRPV1 activation, GPR55 antagonism, and modulation of intracellular calcium dynamics. CBDV also modulates excitatory glutamate signaling and enhances GABAergic transmission.
@@ -59,7 +59,7 @@ Beyond anticonvulsant activity, CBDV demonstrates several other pharmacological 
 - **Anti-inflammatory:** Modulation of TRPV1 and GPR55 pathways produces anti-inflammatory effects in models of intestinal inflammation and arthritis.
 - **Gastroprotective:** CBDV reduces intestinal inflammation in models of [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] through the same pathway as CBD, but diverges at the olivetolic acid precursor level. The key difference is the use of **hexanoyl-CoA** (C6 starter) instead of olivetolic acid's usual pathway, producing cannabidivarinic acid (CBDVA) via CBGVA (cannabigerovarinic acid). CBDVA is then decarboxylated to CBDV upon heating.
 
-CBDV content varies significantly across cannabis chemovars. Landrace varieties from India, Nepal, and parts of Africa tend to have higher CBDV concentrations.
+CBDV content varies significantly across cannabis chemovars. [[cannabis-sativa-landrace-varieties]] from India, Nepal, and parts of Africa tend to have higher CBDV concentrations.
 
 ## Overview
 
@@ -85,7 +85,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cannabidivarin finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -114,7 +114,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cannabidivarin and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

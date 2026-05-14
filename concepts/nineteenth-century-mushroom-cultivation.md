@@ -78,7 +78,7 @@ See also: [[mushroom-cultivation-basics]] | [[mushroom-compost-substrates]] | [[
 
 ## Overview
 
-Nineteenth Century Mushroom Cultivation represents an important element within sustainable
+Nineteenth Century [[mushroom-cultivation]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

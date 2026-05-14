@@ -1,5 +1,5 @@
 ---
-title: [[waste-recycling-community-systems]] Economics
+title: "Recycling Community Economics"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Comparison Jasmonate Vs [[salicylic-acid-plant-defense]] [[jasmonic-acid-plant-defense-signaling]]
+title: "Comparison Jasmonate Vs Salicylic Acid Defense Signaling"
 tags:
   - plant-defense
   - phytohormones

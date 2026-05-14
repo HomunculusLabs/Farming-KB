@@ -56,7 +56,7 @@ Woody material such as prunings from shrubs and trees should not be composted di
 
 ## Sheet Composting (No-Turn Method)
 
-An alternative to the traditional heap is [[sheet-composting]], where organic material is spread directly on the soil surface in thin layers and left to decompose in place. This approach requires no turning or bin construction and feeds [[the-soil-food-web]] directly. See [[ingham-carbon-nitrogen-ratios-compost-tea]], moisture, and aeration. It kills most weed seeds, pathogens, and pests, and produces finished compost in 2-3 months. Requires regular turning and sufficient volume (at least 3x3x3 feet).
+An alternative to the traditional heap is [[sheet-composting]], where organic material is spread directly on the soil surface in thin layers and left to decompose in place. This approach requires no turning or bin construction and feeds [[soil-food-web]] directly. See [[ingham-carbon-nitrogen-ratios-compost-tea]], moisture, and aeration. It kills most weed seeds, pathogens, and pests, and produces finished compost in 2-3 months. Requires regular turning and sufficient volume (at least 3x3x3 feet).
 
 **Cold composting** is the simpler approach of piling material and letting it decompose slowly over 6-12 months. It does not reach temperatures high enough to kill weed seeds or pathogens, but requires minimal effort. Most home gardeners use a combination of both methods.
 
@@ -142,9 +142,8 @@ Successful integration of organic composting methods into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
+## See Also
 
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
+- [[organic-gardening-bibliography]]
+- [[organic-greenhouse-gardening]]
+- [[organic-winter-farming-systems-infrastructure]]

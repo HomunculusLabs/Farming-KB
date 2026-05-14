@@ -31,7 +31,7 @@ Key observations supporting ethylene's role in fungal tropism include:
   around the growing structure, with ethylene identified as a candidate mediator.
 
 - **Gas redistribution**: When wind or physical barriers alter the boundary layer
-  around a fungal fruiting body, the local concentration of volatile compounds
+  around a [[fungal-fruiting-body]], the local concentration of volatile compounds
   including ethylene becomes asymmetric, potentially creating a differential growth
   signal.
 

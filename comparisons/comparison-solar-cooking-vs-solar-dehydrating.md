@@ -11,9 +11,9 @@ sources: []
 ## Overview
 
 Solar cooking and solar dehydrating are two of the most practical uses of
-sunlight for a homestead kitchen. Both harness [[solar-dehydrator-plans]]
+sunlight for a [[homestead-kitchen-design]]. Both harness [[solar-dehydrator-plans]]
 
-Solar dehydrators use solar energy to remove moisture from food for
+Solar dehydrators use [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] to remove moisture from food for
 preservation, operating at much lower temperatures than solar cookers,
 typically
 110-160F. The recommended indirect design separates the solar collector from

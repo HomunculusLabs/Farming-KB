@@ -20,11 +20,11 @@ The rehabilitation process follows a carefully timed sequence:
 
 ### Initial Treatment
 
-At the end of winter, or in autumn after some rain, when the soil will carry a tractor, the chisel plough is pulled 5 to 10 cm deep over the area. The passes are made on contour parallels or on low slopes, starting in the high valley bottoms and driving slightly downhill toward the ridges. Unless there are absolutely no legumes or grasses already growing, no extra seed is applied at this stage. The response is increased penetration of roots, germination of existing seed bank, and stimulated top-growth of pasture.
+At the end of winter, or in autumn after some rain, when the soil will carry a tractor, the [[chisel-plough-soil-conditioning]] is pulled 5 to 10 cm deep over the area. The passes are made on contour parallels or on low slopes, starting in the high valley bottoms and driving slightly downhill toward the ridges. Unless there are absolutely no legumes or grasses already growing, no extra seed is applied at this stage. The response is increased penetration of roots, germination of existing seed bank, and stimulated top-growth of pasture.
 
 ### First Response and Hard Grazing
 
-The new growth is then hard-grazed by livestock or cut and left to lie on the surface. The plants, shocked by the treatment, lose most of their root mass and seal their wounds. The dead roots add compost to the soil, as does the cut foliage or animal droppings. This organic material provides food for soil bacteria and earthworms, softening the surface and beginning the process of humus formation.
+The new growth is then hard-grazed by livestock or cut and left to lie on the surface. The plants, shocked by the treatment, lose most of their root mass and seal their wounds. The dead roots add compost to the soil, as does the cut foliage or animal droppings. This organic material provides food for soil bacteria and earthworms, softening the surface and beginning the process of [[humus-formation-and-soil-organic-matter]].
 
 ### Deepening Treatment
 
@@ -50,11 +50,11 @@ In conditioned landscapes, chisel lines prevent fast runoff and absorb overland 
 
 ### Soil Temperature Modification
 
-Geoff Wallace recorded as much as a 13°C (25°F) increase on treated versus untreated soils in autumn. This increased temperature is generated both by the biological activity of the soil organisms and by the air pockets left by the chisel points at various depths. The warming effect enables earlier planting and the cultivation of more frost-sensitive crops.
+[[geoff-wallace-soil-conditioner-mollison]] recorded as much as a 13°C (25°F) increase on treated versus untreated soils in autumn. This increased temperature is generated both by the biological activity of the soil organisms and by the air pockets left by the chisel points at various depths. The warming effect enables earlier planting and the cultivation of more frost-sensitive crops.
 
 ### Improved Nutrient Cycling
 
-Nodulation of nitrogen-fixing bacteria is greatly increased by the improved aeration. The breakdown of subsoil and rock particles by carbonic acid and humic acids from root decay is accelerated, releasing locked-up minerals. Methane generated from decay aids seed germination.
+Nodulation of nitrogen-fixing bacteria is greatly increased by the improved aeration. The breakdown of subsoil and rock particles by carbonic acid and humic acids from root decay is accelerated, releasing locked-up minerals. Methane generated from decay aids [[cannabis-seed-germination]].
 
 ### Water Management
 
@@ -66,7 +66,7 @@ Dust, deep roots, rain, and the bodies of soil organisms all add essential nutri
 
 ## Incorporating Crops
 
-If tree seed, soybeans, millet, or other crops are to be planted, the sequence is modified: after a few hard grazings or mowings, a seed box is mounted on the chisel plough frame, and seed is placed directly in the chisel furrow. The grazing or mowing follows germination. These new plants — sunflowers, millet, melons — grow faster than the shocked pasture and can be harvested before the grasses recover. There is never any bare cultivation, and grain growers can move to a minimum tillage method of cropping with fallows of pasture between crops.
+If tree seed, soybeans, millet, or other crops are to be planted, the sequence is modified: after a few hard grazings or mowings, a seed box is mounted on the chisel plough frame, and seed is placed directly in the chisel furrow. The grazing or mowing follows germination. These new plants — sunflowers, millet, melons — grow faster than the shocked pasture and can be harvested before the grasses recover. There is never any bare cultivation, and grain growers can move to a minimum [[fukuoka-rice-barley-cultivation-history-no-tillage-method]] of cropping with fallows of pasture between crops.
 
 ## Biological Alternatives on Difficult Terrain
 
@@ -85,7 +85,7 @@ There is no point in going more than 10 cm in the first treatment, and 15 to 23 
 
 ## Timing and Sequencing
 
-Soil conditioning can be sequential, allowing a year between treatments, or applied all at once at 20 to 50 cm depth to prepare for immediate tree crop planting. The timing of treatment is critical: early spring or the end of a gentle rainy period is ideal. At this time, the soil is neither so dry that it breaks up into clods nor so wet that it collapses back into compaction.
+Soil conditioning can be sequential, allowing a year between treatments, or applied all at once at 20 to 50 cm depth to prepare for immediate tree [[jeavons-multi-crop-planting]]. The timing of treatment is critical: early spring or the end of a gentle rainy period is ideal. At this time, the soil is neither so dry that it breaks up into clods nor so wet that it collapses back into compaction.
 
 ## Summary of Rehabilitation Outcomes
 

@@ -1,5 +1,5 @@
 ---
-title: [[incremental-design-in-permaculture]] and [[permaculture-design-methods-summary]]
+title: "Incremental Design And Design Methods Summary"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

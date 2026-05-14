@@ -1,5 +1,5 @@
 ---
-title: Sepp sepp holzer garden helpers and pest regulation Helpers and Pest Regulation
+title: Sepp Holzer Garden Helpers And Pest Regulation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -28,7 +28,7 @@ Voles can cause significant damage by eating plant roots. Rather than using pois
 
 ## Slugs and Snails
 
-The non-indigenous Spanish slug (Arion vulgaris) breeds prolifically -- up to 15 per square metre in affected areas. Holzer's integrated approach:
+The non-indigenous Spanish slug (Arion vulgaris) breeds prolifically -- up to 15 per square metre in affected areas. Holzer's [[solomon-insects-and-diseases-integrated-approach]]:
 
 ### Sawdust Barrier Method
 1. Mix very dry fine sawdust (from untreated natural wood, ideally from a carpenter's workshop) with wood ash (1:10 ratio) or quicklime powder (1:20)
@@ -85,5 +85,5 @@ Earthworms are among the most important garden helpers. Three local varieties at
 - Greenhouse method: breed directly in soil using a pile with a central depression for daily feeding
 
 ### Application
-- Scatter bred worms with soil and worm eggs over new terraces and raised beds in the evening during wet weather
+- Scatter bred worms with soil and worm eggs over new terraces and [[cervantes-raised-beds-mound-planting]] in the evening during wet weather
 - Use nutrient-rich worm humus for especially valuable and demanding plants

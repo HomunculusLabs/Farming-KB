@@ -1,5 +1,5 @@
 ---
-title: "Pomegranate Cultivation and Variety Guide"
+title: Pomegranate Cultivation And Variety Guide
 tags: [pomegranate, fruit-trees, orchard, permaculture, cultivation, mediterranean]
 date: 2026-05-03
 updated: 2026-05-03
@@ -9,7 +9,7 @@ sources:
   - "California Rare Fruit Growers (CRFG). Pomegranate Fruit Facts. crfg.org."
   - "Mars, M. (2000). Pomegranate (punica-granatum L.) Plant Resources of Tropical Africa."
   - "Holland, D., Hatib, K., & Bar-Ya'akov, I. (2009). Pomegranate: Botany, Horticulture, Breeding. Horticultural Reviews, 35, 127-191."
-  - "Melgarejo, P. et al. (2018). Pomegranate (Punica granatum L.): Ancient Fruit with Modern Relevance. In: Handbook of Plant Food Phytochemicals."
+  - "Melgarejo, P. et al. (2018). Pomegranate ([[punica-granatum]] L.): Ancient Fruit with Modern Relevance. In: Handbook of Plant Food Phytochemicals."
   - "LaRue, J.H. (1980). Growing Pomegranates in California. UC Cooperative Extension Leaflet 2469."
   - "USDA ARS. GRIN Taxonomy: Punica granatum. https://npgsweb.ars-grin.gov."
 ---
@@ -60,7 +60,7 @@ Pomegranates are notably adaptable to poor soils, a trait that has made them val
 ### Preferred Conditions
 
 - **Soil texture:** Sandy loam to loam is ideal, but they tolerate clay, sandy, and rocky soils
-- **pH range:** 5.5–7.2 (slightly acidic to neutral); tolerate moderately alkaline soils up to pH 8.0
+- **pH range:** 5.5–7.2 (slightly acidic to neutral); tolerate moderately [[plants-tolerant-of-alkaline-soils]] up to pH 8.0
 - **Drainage:** Good drainage is critical. Trees in waterlogged soils develop root rot and decline rapidly
 - **Salinity tolerance:** Moderate — pomegranates tolerate EC (electrical conductivity) up to 5–7 dS/m, making them suitable for mildly saline irrigation water
 
@@ -76,7 +76,7 @@ Before planting, incorporate:
 ### Site Selection Criteria
 
 1. **Frost avoidance:** Plant on elevated sites or upper slopes where cold air drains away; avoid low frost pockets
-2. **Wind protection:** Young trees benefit from windbreaks; hot dry winds (Santa Ana conditions) can desiccate flowers and reduce fruit set
+2. **[[cervantes-wind-protection-outdoor-cannabis]]:** Young trees benefit from windbreaks; hot dry winds (Santa Ana conditions) can desiccate flowers and reduce fruit set
 3. **Full sun exposure:** Southern or western exposure in cooler climates
-4. **Air circulation:** In humid climates, good airflow reduces disease pressure
+4. **[[stamets-growing-room-air-circulation-co2-management]]:** In [[berry-fruit-production-cool-humid-climates]], good airflow reduces disease pressure
 5. **Water access:** While [[oyster-mushroom-species-guide|oyster mushroom species guide]]

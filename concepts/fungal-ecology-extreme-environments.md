@@ -14,7 +14,7 @@ How fungi survive and function in extreme habitats: deserts, polar regions, deep
 
 ## Overview
 
-Fungi are remarkably adaptable organisms that colonize virtually every environment on Earth, including many considered "extreme" for most life forms. Their ability to tolerate environmental stresses -- through physiological adaptation, biochemical innovation, and genetic plasticity -- makes them key organisms in some of the planet's harshest habitats. Geoffrey Gadd's research group has been instrumental in characterizing fungal stress responses and metal-microbe interactions in extreme environments.
+Fungi are remarkably adaptable organisms that colonize virtually every environment on Earth, including many considered "extreme" for most life forms. Their ability to tolerate environmental stresses -- through physiological adaptation, biochemical innovation, and genetic plasticity -- makes them key organisms in some of the planet's harshest habitats. Geoffrey Gadd's research group has been instrumental in characterizing [[fungal-stress-responses]] and metal-microbe interactions in extreme environments.
 
 ## Desert Fungi
 

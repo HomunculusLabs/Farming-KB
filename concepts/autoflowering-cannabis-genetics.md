@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] Genetics"
+title: "Autoflowering Cannabis Genetics"
 source: "S.T. Oner & The Rev, Cannabis Sativa Volume 3, Green Candy Press, 2014, ISBN 978-1-937866-05-1"
 tags:
   - cannabis

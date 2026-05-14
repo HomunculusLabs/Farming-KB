@@ -47,7 +47,7 @@ direct differential growth. The tip perceives; the stem responds.
 ## Julius von Sachs and Blue Light
 
 In 1864, a contemporary of Darwin named Julius von Sachs discovered that blue
-light is the primary color inducing phototropism in plants. Plants are
+light is the primary color inducing [[phototropism-in-plants]]. Plants are
 generally blind to other colors for directional bending purposes. This
 discovery was important because it established that plants could discriminate
 between wavelengths of light — a form of color vision.

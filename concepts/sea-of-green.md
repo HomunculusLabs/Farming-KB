@@ -1,11 +1,11 @@
 ---
-title: Sea of Green (SOG)
+title: Sea Of Green
 created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/marijuana-horticulture-cervantes.md
-  - "Cervantes - Marijuana Horticulture"
+  - "Cervantes - [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]"
 type: concept
 tags: [reference]
 ---
@@ -24,7 +24,7 @@ Cervantes notes that clones flowered at 6-8 inches (15-20 cm) tall will reach 2-
 
 ## Layout and Spacing
 
-In a typical SOG layout, 60-80 or more plants can fit under a single 1000-watt HID lamp. Plants are grown in small containers -- three-gallon (11 L) pots, four-inch (10 cm) rockwool cubes, or three-gallon grow bags -- arranged on flood and drain tables or simple trays. Walls should be covered with reflective material (flat white paint or Mylar) to maximize light return to the lower canopy.
+In a typical SOG layout, 60-80 or more plants can fit under a single 1000-watt HID lamp. Plants are grown in small containers -- three-gallon (11 L) pots, four-inch (10 cm) rockwool cubes, or three-gallon [[filter-can-design-mushroom-grow-bags]] -- arranged on flood and drain tables or simple trays. Walls should be covered with reflective material (flat white paint or Mylar) to maximize light return to the lower canopy.
 
 Cervantes describes a practical SOG system: ten plants per tray, eight trays total (80 plants) under a single 1000-watt HID. Each week one tray of ten plants is harvested and ten new rooted clones take their place. The weaker clone in each pair is culled after two weeks. This creates a perpetual harvest cycle delivering consistent yields.
 
@@ -39,7 +39,7 @@ Small flowering plants grow well in small hydroponic containers. Mother plants n
 
 ## Strain Selection
 
-Indica-dominant strains work best for SOG due to their naturally compact structure and short flowering time. Sativa-dominant strains stretch significantly during flowering and may require earlier induction (flowering at a shorter height) to prevent plants from outgrowing the space. Uniform clones from the same mother ensure an even canopy and predictable flowering times.
+Indica-dominant strains work best for SOG due to their naturally compact structure and short [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]. Sativa-dominant strains stretch significantly during flowering and may require earlier induction (flowering at a shorter height) to prevent plants from outgrowing the space. Uniform clones from the same mother ensure an even canopy and predictable flowering times.
 
 ## Advantages
 

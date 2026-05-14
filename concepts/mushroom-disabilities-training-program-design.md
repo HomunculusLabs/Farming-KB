@@ -1,5 +1,5 @@
 ---
-title: Mushroom Disabilities [[mushroom-cultivation-training-program-design]]
+title: "Mushroom Disabilities Training Program Design"
 tags: [mushroom, disability, training, program-design, fao, empowerment, cultivation]
 date: 2026-04-28
 updated: 2026-04-28

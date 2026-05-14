@@ -1,5 +1,5 @@
 ---
-title: [[energy-conversion-efficiency]] Comparison
+title: "Energy Conversion Efficiency Comparison"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

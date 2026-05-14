@@ -1,5 +1,5 @@
 ---
-title: "[[mushroom-species-selection]] and Cultivation Methods"
+title: "Mushroom Species Selection Cultivation Methods"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

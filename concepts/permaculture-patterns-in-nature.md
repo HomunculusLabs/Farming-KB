@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Patterns in Nature
 
-Chapter 4 of the Designers' Manual is devoted to pattern understanding -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes permaculture from other design approaches.
+Chapter 4 of the Designers' Manual is devoted to [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes permaculture from other design approaches.
 
 ## The Role of Pattern in Design
 
@@ -27,7 +27,7 @@ Permaculture design works from pattern to detail. Understanding the patterns tha
 
 Branching patterns appear throughout nature: in trees, rivers, blood vessels, lightning, root systems, and neural networks. Branching is an efficient distribution system -- it minimises the distance any element must travel while maximising surface area for exchange. In permaculture design, branching patterns inform road layout, water distribution, pathway systems, and the placement of elements in zone planning.
 
-The Manual discusses orders of magnitude in branches and how branching affects the efficiency of conduits for flow (water, nutrients, energy).
+The Manual discusses [[event-classification-and-orders-of-magnitude]] in branches and how branching affects the efficiency of conduits for flow (water, nutrients, energy).
 
 ### Spirals
 
@@ -63,18 +63,18 @@ Events in natural systems can be classified by their scale, frequency, and patte
 
 ## The World as Tessellation
 
-The world we live in can be understood as a tessellation of events -- a mosaic of overlapping patterns at different scales. Design involves reading these existing patterns and placing new elements in harmony with them.
+The world we live in can be understood as a [[world-as-tessellation-of-events]] -- a mosaic of overlapping patterns at different scales. Design involves reading these existing patterns and placing new elements in harmony with them.
 
 ## Pattern in Society
 
-Tribal societies have long used patterning in their design of settlements, agriculture, and social organisation. The mnemonics of meaning -- songs, stories, and art -- encode pattern knowledge across generations. The arts are in the service of life when they express natural patterns.
+Tribal societies have long used patterning in their design of settlements, agriculture, and social organisation. The [[mnemonics-of-meaning]] -- songs, stories, and art -- encode pattern knowledge across generations. The arts are in the service of life when they express natural patterns.
 
 ## Designers' Checklist
 
-The Manual provides a pattern application checklist for designers, covering boundary conditions, flow analysis, edge effects, branching efficiency, and the compatibility of placed elements.
+The Manual provides a pattern application checklist for designers, covering [[boundary-conditions-and-edge-effect]], flow analysis, edge effects, branching efficiency, and the compatibility of placed elements.
 
 ## Related Concepts
 
 - [[permaculture-design]] -- Pattern understanding as input to design process
-- [[permaculture-zone-and-sector-analysis]] -- Pattern of zones and sectors as master layout
+- [[permaculture-zone-and-sector-analysis]] -- Pattern of [[permaculture-beginners-guide-zones-and-sectors]] as master layout
 - [[permaculture-introduction-and-ethics]] -- Ethical foundation for design decisions

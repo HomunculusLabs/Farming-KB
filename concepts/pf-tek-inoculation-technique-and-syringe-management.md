@@ -9,9 +9,9 @@ created: 2026-05-08
 
 ## Overview
 
-The PF Tek inoculation procedure is designed for simplicity and
+The [[pf-tek]] inoculation procedure is designed for simplicity and
 reliability, enabling first-time cultivators to successfully introduce
-spores into sterilised substrate jars. [[mushroom-spore-printing-syringe-preparation-pf-tek]] to the physical mechanics of spore delivery.
+spores into sterilised substrate jars. [[mushroom-spore-printing-syringe-preparation-pf-tek]] to the physical mechanics of [[spore]] delivery.
 
 ## Pre-Inoculation Checks
 

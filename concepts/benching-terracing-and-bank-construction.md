@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Banks, benches, and terraces are fundamental earthwork techniques in permaculture for converting steep, difficult terrain into productive, accessible, and stable landscapes. These structures manage water flow, prevent erosion, create planting surfaces on slopes, and provide access for cultivation, planting, and harvesting. Understanding their design principles is critical for creating earthworks that are stable, functional, and long-lasting.
+Banks, benches, and terraces are fundamental earthwork techniques in permaculture for converting steep, [[savannah-forestry-and-difficult-terrain-pioneering]] into productive, accessible, and stable landscapes. These structures manage water flow, [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]], create planting surfaces on slopes, and provide access for cultivation, planting, and harvesting. Understanding their [[aact-brewer-design-principles-aeration-systems-ingham]] is critical for creating earthworks that are stable, functional, and long-lasting.
 
 ## Banks
 
@@ -98,7 +98,7 @@ Narrow benches (1.5–3.0 m wide) are particularly effective:
 
 ### Terraced Production Systems
 
-Terraced lands, given a reserve of local green manures or composts and adequate water, are potentially very stable and productive systems. However, terraces can fail when designers:
+Terraced lands, given a reserve of local [[cover-crops]] or composts and adequate water, are potentially very stable and productive systems. However, terraces can fail when designers:
 
 - **Attempt to terrace in unstable soils or sediments** — slopes with active mass movement, quick clays, or hydrophobic post-fire soils
 - **Risk hydraulic pressures** from impounded or infiltrated water building up behind terrace walls
@@ -108,8 +108,8 @@ Terraced lands, given a reserve of local green manures or composts and adequate 
 ### Terracing vs. Benching
 
 While related, terraces and benches differ in important ways:
-- **Terraces** typically have retaining walls or bunds to hold soil on steep slopes for crop production, often with [[water-management]] features
-- **Benches** are simpler cuts into the slope, often without retaining walls, used more for access and tree establishment
+- **Terraces** typically have retaining walls or bunds to hold soil on steep slopes for [[latitude-effects-on-photosynthesis-and-crop-production]], often with [[water-management]] features
+- **Benches** are simpler cuts into the slope, often without retaining walls, used more for access and [[tree-establishment-deserts]]
 
 ## Machine Operation Principles
 

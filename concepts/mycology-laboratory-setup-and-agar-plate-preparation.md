@@ -1,5 +1,5 @@
 ---
-title: Mycology Laboratory Setup and Agar Plate Preparation
+title: Mycology Laboratory Setup And Agar Plate Preparation
 source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
@@ -14,11 +14,11 @@ Almost any enclosed space can be converted into a basic mycology lab -- a small 
 
 ## Basic Equipment Checklist
 
-The following equipment and materials are needed for spore germination, tissue culturing, and grain spawn production:
+The following [[oss-oeric-equipment-and-materials-list]] are needed for spore germination, [[mushroom-tissue-culturing-cloning]], and [[grain-spawn-production]]:
 
 **Core Equipment:**
-- 1 laminar flow hood with HEPA filter (2x3 feet is ideal)
-- 1 pressure cooker or sterilizer
+- 1 [[laminar-flow-hood]] with HEPA filter (2x3 feet is ideal)
+- 1 [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] or sterilizer
 - 1 electric impulse sealer for autoclavable bags (12-16 inch seal)
 - 12 narrow-mouthed mason jars with metal lids
 - 1 glass Erlenmeyer flask (1,000 ml) or wide-bottomed glass container
@@ -37,7 +37,7 @@ The following equipment and materials are needed for spore germination, tissue c
 - Petri plates (reusable glass or sterile plastic)
 - Autoclavable bags with micron filter patches
 - Gloves (nitrile or reusable rubber)
-- 70 percent isopropyl alcohol or half-strength bleach
+- 70 percent [[isopropyl-alcohol]] or half-strength bleach
 - Paper towels, aluminum foil
 - Surgical or dust masks
 - Tape or Parafilm for sealing plates
@@ -53,7 +53,7 @@ Commercial spawn laboratories often have positive-pressure air lock entries to e
 
 ## Making Agar Plates
 
-An agar plate is a petri plate containing agar, a gelatinous seaweed extract used as a substrate for tissue cultures. Glass petri plates can be washed and reused, sterilizing between uses. Agar powder is available from mycological supply companies and most Asian markets. Lab-grade agar becomes more economical as production scales up.
+An agar plate is a petri plate containing agar, a gelatinous [[comparison-seaweed-extract-vs-fish-hydrolysate]] used as a substrate for tissue cultures. Glass petri plates can be washed and reused, sterilizing between uses. Agar powder is available from mycological supply companies and most Asian markets. Lab-grade agar becomes more economical as production scales up.
 
 ### Step 1: Preparing Agar Gel
 
@@ -88,3 +88,7 @@ Cultured plates should be sealed with tape or Parafilm at the seam between base 
 ## Alternative Agar Bases
 
 Potato agar is difficult for bacteria to grow on, making it an excellent starter medium. However, picky mushroom species may need more complete or specific food sources. Alternative bases include powdered brewer's malt, dog and rabbit food, tomato juice, cattle feed, cornmeal, and beet pulp. Different ecotypes of the same species can differ in their enzymatic ability to break down compounds, so customizing agar formulas improves culture health and performance. Keep a journal tracking which species perform best on which formulas. Small quantities of supplements can be mixed into agar, but increased supplementation raises the risk of cultivating contaminants -- the goal is finding the supplementation range that yields the best formulas while preventing molds and bacteria from outcompeting mushroom cultures.
+
+## See Also
+
+- [[agar-plate-preparation-and-formulation]]

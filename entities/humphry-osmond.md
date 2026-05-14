@@ -17,7 +17,7 @@ sources:
 
 # Humphry Osmond
 
-**Humphry Fortescue Osmond** (1 July 1917 – 6 February 2004) was a British-born psychiatrist best known for coining the term "psychedelic," his pioneering research into the therapeutic potential of mescaline and LSD, his work at Weyburn Hospital in Saskatchewan, Canada, and his enduring friendship with the author Aldous Huxley. He was a foundational figure in the first wave of modern psychedelic psychiatry, and his contributions have experienced a significant renaissance in the 21st century as clinical [[weil-cultural-attitudes-toward-altered-states]] toward [[metzner-psycholytic-psychedelic-therapy-models]]" — using LSD in controlled, supportive settings to facilitate insight and psychological change in patients with alcoholism and other conditions. The Saskatchewan programme was remarkable for its interdisciplinary approach, combining biochemistry, clinical psychiatry, and psychological assessment. Osmond and Hoffer reported significant improvement rates in alcoholic patients treated with LSD, with some studies claiming that 40–50% of patients remained sober after a single psychedelic session.
+**Humphry Fortescue Osmond** (1 July 1917 – 6 February 2004) was a British-born psychiatrist best known for coining the term "psychedelic," his pioneering research into the [[metzner-ayahuasca-therapeutic-potential]] of mescaline and LSD, his work at Weyburn Hospital in Saskatchewan, Canada, and his enduring friendship with the author Aldous Huxley. He was a foundational figure in the first wave of modern [[mckenna-beringer-mescaline-psychedelic-psychiatry]], and his contributions have experienced a significant renaissance in the 21st century as clinical [[weil-cultural-attitudes-toward-altered-states]] toward [[metzner-psycholytic-psychedelic-therapy-models]]" — using LSD in controlled, supportive settings to facilitate insight and psychological change in patients with alcoholism and other conditions. The Saskatchewan programme was remarkable for its interdisciplinary approach, combining biochemistry, clinical psychiatry, and psychological assessment. Osmond and Hoffer reported significant improvement rates in alcoholic patients treated with LSD, with some studies claiming that 40–50% of patients remained sober after a single psychedelic session.
 
 These results, while debated, laid the groundwork for modern psychedelic-assisted therapy and anticipated many of the therapeutic protocols now being tested in contemporary clinical trials. Their work attracted international attention and drew visiting researchers from around the world, establishing Saskatchewan as a global hub for psychedelic science during the 1950s and early 1960s.
 
@@ -44,7 +44,7 @@ Huxley asked Osmond to be his guide on his deathbed; on 22 November 1963 (the sa
 
 Osmond's early work in England and Canada explored the concept of "model psychosis" — the idea that drugs like mescaline and LSD could temporarily produce states resembling schizophrenia in healthy individuals, thereby offering researchers a tool for studying the illness from the inside. This was a significant departure from purely behavioural observation. Osmond administered mescaline to hundreds of healthy volunteers, including medical students, clergy, and artists, and documented their subjective experiences in meticulous detail.
 
-Although the model psychosis concept was later criticized for oversimplifying schizophrenia — which involves chronic neurobiological changes rather than transient drug states — it was a groundbreaking methodological innovation that influenced the development of modern psychopharmacology. The approach demonstrated that carefully administered psychoactive substances could serve as legitimate research tools for investigating brain function and mental illness.
+Although the model psychosis concept was later criticized for oversimplifying schizophrenia — which involves chronic neurobiological changes rather than transient drug states — it was a groundbreaking methodological innovation that influenced the development of modern psychopharmacology. The approach demonstrated that carefully administered [[cultural-evolution-and-psychoactive-substances]] could serve as legitimate research tools for investigating brain function and mental illness.
 
 ## Later Career and Socio-Architecture
 
@@ -56,7 +56,7 @@ In Alabama, he continued his research into schizophrenia, the biochemistry of co
 
 Throughout his career, Osmond worked with a number of influential figures:
 
-- **Abram Hoffer** — Canadian psychiatrist and long-term research partner; co-developed the adrenochrome hypothesis and psychedelic therapy protocols
+- **Abram Hoffer** — Canadian psychiatrist and long-term research partner; co-developed the adrenochrome hypothesis [[psycholytic-and-psychedelic-therapy-models]] protocols
 - **John Smythies** — British psychiatrist; co-originator of the transmethylation hypothesis of schizophrenia
 - **Aldous Huxley** — Author and philosopher; close friend who popularized Osmond's research through *The Doors of Perception*
 - **Sidney Cohen** — American psychiatrist; co-edited *The Hallucinogens* with Osmond
@@ -90,7 +90,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Humphry Osmond finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -119,7 +119,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 humphry osmond and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -5,7 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Bessette, A.E. & Bessette, A.R. (2018). The Rainbow Beneath My Feet: A Mushroom Dyer's Field Guide. Syracuse University Press.
-  - Hertzberg, M. (2021). "Fungal Pigments and Their Applications." bloomfield-fungal-biology-and-hyphal-growth Reviews, 35(2), 110-132.
+  - Hertzberg, M. (2021). "[[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]] and Their Applications." bloomfield-fungal-biology-and-hyphal-growth Reviews, 35(2), 110-132.
   - Koller, G. & Aronson, B. (2019). "Dyeing with Mushrooms: An Overview of Species, Chemistry, and Methods." Economic Botany, 73(3), 289-305.
   - Miranda, M. et al. (2020). "Sustainable Textile Dyeing with Fungal Extracts: Current State and Future Perspectives." Journal of Cleaner Production, 261, 121192.
   - Rice, J. & DeMars, D. (2017). "Anthraquinone Pigments from Dermocybe and Cortinarius Species." Mycologia, 109(4), 612-629.
@@ -22,8 +22,8 @@ Mushroom dyes represent one of the most ancient and still one of the least explo
 
 The use of fungi for dyeing textiles is ancient but poorly documented compared to plant-based dye traditions. Archaeological evidence suggests that fungal pigments were used by indigenous peoples across multiple continents:
 
-- **European traditions**: Alpine communities in Slovenia, Austria, and Italy used species of *Dermocybe* (now reclassified within *Cortinarius*) to dye wool for traditional folk costumes. Records from the 18th and 19th centuries document the use of *Cortinarius sanguineus* to produce brilliant reds and *Cortinarius violaceus* for purples.
-- **Scandinavian practices**: Finnish and Swedish dyers historically used *Pisolithus tinctorius* (dyer's puffball) and *Hydnellum suaveolens* to produce golden yellows and olive greens on wool and linen.
+- **European traditions**: Alpine communities in Slovenia, Austria, and Italy used species of *Dermocybe* (now reclassified within *Cortinarius*) to dye wool for traditional folk costumes. Records from the 18th and 19th centuries document the use of *Cortinarius sanguineus* to produce brilliant reds and *[[cortinarius-violaceus]]* for purples.
+- **Scandinavian practices**: Finnish and Swedish dyers historically used *[[pisolithus-tinctorius]]* (dyer's puffball) and *Hydnellum suaveolens* to produce golden yellows and olive greens on wool and linen.
 - **Indigenous [[stamets-reishi-ganoderma-lucidum-cultivation]]* (reishi) extracts as components in lacquer and pigment mixtures, and certain *Trametes* species were employed in paper dyeing.
 - **Modern revival**: The systematic study of mushroom dyes began with Miriam Rice in the 1970s, whose pioneering work at the Mendocino Art Center in California established fungal dyeing as a recognized craft. Her books, notably *Mushrooms for Color* (1980), inspired a global community of fungal dyers.
 
@@ -38,14 +38,14 @@ The use of fungi for dyeing textiles is ancient but poorly documented compared t
 | *Dermocybe malicoria* | Orange Dermocybe | Anthraquinones | Orange, gold | Alum brightens to yellow-orange |
 | *Phaeolus schweinitzii* | Dyer's Polypore | Anthraquinones | Yellow, gold, olive, brown | Iron produces dark green |
 | *Hapalopilus nidulans* | Violet Toothed Polypore | Polyporic acid | Purple, magenta | pH-sensitive; alkali shifts to red |
-| *Pycnoporus cinnabarinus* | Cinnabar Polypore | Cinnabarinic acid | Orange, salmon | Fairly stable across mordants |
+| *[[pycnoporus-cinnabarinus]]* | Cinnabar Polypore | Cinnabarinic acid | Orange, salmon | Fairly stable across mordants |
 
 ### Yellow and Brown Pigments
 
 | Species | Common Name | Pigment Class | Color Range | Notes |
 |---------|-------------|---------------|-------------|-------|
 | *Hydnellum suaveolens* | Aniseed Tooth | Terphenyls | Gold, yellow, tan | Strong anise aroma during dyeing |
-| *Hydnellum aurantiacum* | Orange Spindle | Terphenyls | Yellow-orange, rust | Good lightfastness |
+| *[[hydnellum-aurantiacum]]* | Orange Spindle | Terphenyls | Yellow-orange, rust | Good lightfastness |
 | *Pisolithus tinctorius* | Dyer's Puffball | Pigment complex | Yellow, gold, tan | Abundant; easy to collect |
 | *[[ethnomycology-cultural-significance-sacred-fungi]] in East Asia |
 
@@ -56,7 +56,7 @@ The use of fungi for dyeing textiles is ancient but poorly documented compared t
 | *Chlorociboria aeruginosa* | Green Elf Cup | Xylindein | Blue-green, teal | Pigments the wood it colonizes |
 | *Chlorociboria aeruginascens* | Green Staining Cup | Xylindein | Blue-green, turquoise | Closely related to C. aeruginosa |
 | *Cortinarius violaceus* | Violet Webcap | Pigment complex | Purple, blue-violet | Rare; collect responsibly |
-| *Sarcodon imbricatus* | Scaly Hedgehog | Pigment complex | Blue-green with iron | Iron mordant essential for blue |
+| *[[sarcodon-imbricatus]]* | Scaly Hedgehog | Pigment complex | Blue-green with iron | Iron mordant essential for blue |
 
 Blue and green are the rarest colors in natural dyeing, making *Chlorociboria* species particularly valuable. The xylindein pigment these fungi produce is remarkably stable and has been studied for potential applications in organic electronics and solar cells.
 

@@ -42,7 +42,7 @@ hempcrete genuinely carbon-negative over its lifecycle. The material
 also regulates indoor humidity naturally, absorbing excess moisture
 when the air is damp and releasing it when conditions dry — creating
 interior environments that feel remarkably comfortable without
-mechanical humidity control.
+mechanical [[cervantes-humidity-control-dehumidification]].
 
 ## Key Differences
 
@@ -57,20 +57,20 @@ mechanical humidity control.
 | Moisture handling | Depends on design | Naturally hygroscopic |
 | Typical cost | Low materials, high labor | Moderate materials, moderate |
 | Best climate | Temperate with solar access | All climates with timber frame |
-| Skill level | Specialized earthship training | Standard natural building |
+| Skill level | Specialized earthship training | Standard [[mollison-designers-lime-and-cement-natural-building]] |
 
 ## When to Choose Earthship
 
 Choose an earthship when your goal is complete autonomy from municipal
 systems and you have access to cheap or free land in a region with
 reliable solar exposure. Earthships make the most sense for off-grid
-homesteaders, intentional communities, and anyone who wants a house
+homesteaders, [[holmgren-community-design-and-intentional-communities]], and anyone who wants a house
 that produces its own electricity, harvests its own water, treats its
 own waste, and grows food within its walls. They are ideal for people
 willing to work outside conventional building codes — or in
 jurisdictions that have adopted alternative building standards.
 
-Earthships also excel in disaster relief and humanitarian contexts.
+Earthships also excel in [[cotter-mushroom-rescue-modules-disaster-relief]] and humanitarian contexts.
 The earthship design philosophy — building from waste materials with
 minimal specialized equipment — has been deployed in disaster zones
 from Haiti to the Andaman Islands. When infrastructure has collapsed
@@ -89,7 +89,7 @@ suited to renovation and retrofit projects where the structural shell
 already exists but insulation performance is poor.
 
 Hempcrete is also the better choice in humid or maritime climates where
-moisture management is critical. The material's natural hygroscopicity
+[[mushroom-bed-moisture-management]] is critical. The material's natural hygroscopicity
 prevents condensation and mold without mechanical dehumidification, a
 significant advantage over conventional insulation systems. In regions
 where hemp cultivation is legal and growing — which now includes most of
@@ -105,7 +105,7 @@ conventional cob or concrete, combining hempcrete's superior insulation
 and moisture regulation with the earthship's autonomous systems
 design. The timber frame required by hempcrete could also serve as the
 structural armature for earthship-style passive solar orientation and
-greywater treatment. A hybrid building might use tire walls for
+[[mollison-designers-greywater-treatment-reedbeds]]. A hybrid building might use tire walls for
 thermal mass on the north side and hempcrete infill panels on the south,
 capturing the strengths of both systems.
 

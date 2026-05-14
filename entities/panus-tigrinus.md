@@ -138,5 +138,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[lentinus-tigrinus]]
+- [[lentinus-tigrinus-cotter]]
 - [[panus-conchatus]]

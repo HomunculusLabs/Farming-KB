@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-village-development]] Financing [[permaculture-village-development-and-trust-structures]]
+title: "Village Development Financing And Trust Structures"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

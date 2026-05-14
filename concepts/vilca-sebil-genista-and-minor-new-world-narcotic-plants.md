@@ -6,11 +6,11 @@ type: concept
 
 # Vilca, Sebil, Genista, and Minor New World Narcotic Plants
 
-Beyond the major New World hallucinogens — peyote, mushrooms, ayahuasca, and San Pedro — a number of lesser-known plants have been used for their psychoactive properties by indigenous peoples. Many of these plants remain poorly characterized chemically, and in some cases their hallucinogenic status is inferred from ethnographic accounts rather than confirmed by modern pharmacology. This page covers vilca, sebil, genista, and several other minor New World narcotic plants.
+Beyond the major [[new-world-hallucinogens-overview-and-ethnobotanical-context]] — peyote, mushrooms, ayahuasca, and San Pedro — a number of lesser-known plants have been used for their psychoactive properties by indigenous peoples. Many of these plants remain poorly characterized chemically, and in some cases their hallucinogenic status is inferred from ethnographic accounts rather than confirmed by modern pharmacology. This page covers vilca, sebil, genista, and several other minor New World narcotic plants.
 
 ## Vilca and Sebil (Anadenanthera colubrina)
 
-- **Distribution:** Central and southern South America (Argentina, Peru, Bolivia, southern Brazil)
+- **Distribution:** Central and southern [[guzman-psilocybin-mushrooms-south-america]] (Argentina, Peru, Bolivia, southern Brazil)
 - **Family:** Fabaceae (bean family), subfamily Mimosoideae
 - Snuffs believed to have been prepared from the beans of Anadenanthera colubrina and its variety cébil
 - Used in regions where A. peregrina (yopo) does not naturally occur
@@ -48,12 +48,12 @@ Beyond the major New World hallucinogens — peyote, mushrooms, ayahuasca, and S
 
 ## Sweet Flag (Acorus calamus)
 
-- **Distribution:** Damp places in north and south temperate regions
+- **Distribution:** Damp places in north and south [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 - **Family:** Araceae (arum family); one of two species of Acorus
 - Some indirect evidence that Indians of northern Canada may chew the rootstock as a hallucinogen
 - Also used as a medicine and stimulant by northern Canadian indigenous peoples
 - In excessive doses, known to induce strong visual hallucinations
-- Intoxicating properties may be due to α-asarone and β-asarone, but chemistry and pharmacology remain poorly understood
+- Intoxicating properties may be due to α-asarone and β-asarone, but [[amanita-muscaria-chemistry-and-pharmacology]] remain poorly understood
 - Sweet flag has a long history of use in Ayurvedic medicine and as a calamus root in traditional Western herbalism
 - The β-asarone content varies significantly between geographic populations
 
@@ -98,7 +98,7 @@ Beyond the major New World hallucinogens — peyote, mushrooms, ayahuasca, and S
 - **Family:** Fabaceae (bean family); approximately 300 species of Rhynchosia
 - Beautiful red and black seeds that may have been valued as a narcotic by ancient Mexicans
 - Seeds appear pictured with mushrooms in the Tepantitla fresco of AD 300–400, suggesting hallucinogenic use
-- Modern Indians in southern Mexico refer to them as piule, a name also applied to hallucinogenic morning glory seeds
+- Modern Indians in southern Mexico refer to them as piule, a name also applied to hallucinogenic [[golden-guide-morning-glory-and-ololiuqui]] seeds
 - Seeds of some species have given positive alkaloid tests, but toxic principles have not been characterized
 - Seeds of some species are important in folk medicine in several countries
 
@@ -109,7 +109,7 @@ Beyond the major New World hallucinogens — peyote, mushrooms, ayahuasca, and S
 - Several of these plants (colorines, piule) may be mistakenly identified in ethnographic accounts due to visual similarity of seeds
 - The gap between ethnobotanical evidence of psychoactivity and chemical confirmation remains wide for many species
 - Some plants (genista, mescal bean) may produce toxic effects interpreted as visionary rather than true hallucinogenic experiences
-- The use of introduced species (genista from Canary Islands) in indigenous ceremonies is exceptionally rare
+- The use of introduced species (genista from Canary Islands) in [[cordyceps-neurotropic-fungi-mexican-indigenous-ceremonies]] is exceptionally rare
 
 ## See Also
 

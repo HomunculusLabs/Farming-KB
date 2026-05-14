@@ -73,7 +73,7 @@ become slimy; removing them before cooking is recommended.
   activity against Gram-positive bacteria.
 - **Variegatic acid and xerocomic acid:** Pulvinic acid derivatives
   responsible for bruising color changes.
-- **Ergosterol:** Predominant sterol and provitamin D₂ precursor.
+- **[[ergosterol]]:** Predominant sterol and provitamin D₂ precursor.
 - **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** Catechol derivatives with antioxidant activity.
 - **Polysaccharides:** Beta-glucan fractions showing immunomodulatory
   activity, stimulating macrophage response in vitro.

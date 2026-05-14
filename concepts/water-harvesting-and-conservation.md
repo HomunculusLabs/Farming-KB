@@ -1,5 +1,5 @@
 ---
-title: "Water [[water-harvesting-and-conservation-in-permaculture]]"
+title: "Water Harvesting And Conservation"
 source: Toby Hemenway, Gaia's Garden: A Guide to Home-Scale Permaculture (2001)
 tags: [permaculture, gardening, water, conservation, swales, greywater]
 created: 2026-05-11

@@ -1,17 +1,17 @@
 ---
-title: cervantes-powdery-mildew-prevention-treatment - Cannabis Disease Guide
+title: Powdery Mildew Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "Cervantes - Marijuana Horticulture"
+  - "Cervantes - [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]"
 type: concept
 tags: [cannabis]
 ---
 
 # Powdery Mildew on Cannabis
 
-Powdery mildew is one of the most common fungal diseases affecting cannabis. Plants are typically infected for weeks before showing the first visible symptoms, making early prevention critical. Unlike many other fungi, powdery mildew does not require free-standing water on leaf surfaces to germinate — it can infect in relatively dry conditions as long as ambient humidity is adequate.
+Powdery mildew is one of the most common [[duggar-mushroom-insect-pests-and-fungal-diseases]] affecting cannabis. Plants are typically infected for weeks before showing the first visible symptoms, making early prevention critical. Unlike many other fungi, powdery mildew does not require free-standing water on leaf surfaces to germinate — it can infect in relatively dry conditions as long as ambient humidity is adequate.
 
 ## Identification
 
@@ -60,14 +60,14 @@ Most fungi grow poorly or not at all when relative humidity stays between 40-50%
 
 Prevention is the first step and the true key to fungi control:
 
-- **Climate control**: Maintain humidity at 50% or less with a vent fan and/or dehumidifier
+- **[[mollison-pdc-trellis-systems-climate-control]]**: Maintain humidity at 50% or less with a vent fan and/or dehumidifier
 - **Air circulation**: Install fans to keep air moving between plants; stale air promotes fungal growth
 - **Light intensity**: Ensure bright light levels; low light encourages weak, susceptible growth
 - **Spacing**: Place containers far enough apart for free airflow between plants
 - **Cleanliness**: Remove debris, dead leaves, and anything that might harbor fungi
 - **Foliage drying**: Allow foliage to dry before turning off lights at night
-- **Nitrogen management**: Avoid excess nitrogen which promotes tender, susceptible growth
-- **Fresh medium**: Use new, sterile growing medium for each crop
+- **[[stamets-compost-supplements-nitrogen-management]]**: Avoid excess nitrogen which promotes tender, susceptible growth
+- **Fresh medium**: Use new, sterile [[cervantes-green-algae-growing-medium]] for each crop
 - **Fungus-resistant paint**: Apply paint containing fungicide to grow room walls
 - **Ventilation**: Install vent fans large enough to remove moist air quickly
 - **Dehumidifiers**: Relatively inexpensive and effective at keeping humidity under control in enclosed rooms

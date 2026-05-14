@@ -1,5 +1,5 @@
 ---
-title: Fire-Resistant [[mushroom-house-design-and-construction]] Siting
+title: "Fire Resistant House Design And Siting"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

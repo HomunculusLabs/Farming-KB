@@ -148,10 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-
-## See Also
-
-- [[thermal-belts-and-frost-microclimates]]
-- [[thermal-belts-and-house-siting]]
-- [[thermal-belts-and-soil-conditioning]]
-- [[thermal-germination-and-stratification]]

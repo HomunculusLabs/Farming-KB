@@ -44,7 +44,7 @@ Ant-mediated dispersal is remarkably effective, with individual seeds transporte
 
 *Galanthus nivalis* is native to a broad region spanning southern and central Europe, from the Pyrenees east through the Alps, Carpathians, and Balkans to Turkey, the Caucasus, and northern Iran. Its native range extends approximately from 5°W to 50°E longitude.
 
-It grows in deciduous woodlands, scrub, meadows, rocky slopes, and along riverbanks. Preferred habitats are humus-rich, well-drained soils in partial shade, typically under deciduous canopy where it completes its [[dmt-containing-plants-united-states-halpern]], the Pacific Northwest, and parts of New Zealand and southeastern Australia.
+It grows in deciduous woodlands, scrub, meadows, rocky slopes, and along riverbanks. Preferred habitats are humus-rich, well-drained soils in partial shade, typically under deciduous canopy where it completes its [[dmt-containing-plants-united-states-halpern]], the [[psilocybin-north-america-pacific-northwest]], and parts of New Zealand and southeastern Australia.
 
 In parts of its introduced range, snowdrops have naturalized extensively and are now considered part of the local flora. They rarely become invasive due to their slow vegetative spread and specific habitat requirements, but dense naturalized populations can indicate former garden sites.
 
@@ -58,7 +58,7 @@ Snowdrop flowers possess a unique thermogenic ability, generating small amounts 
 
 *G. nivalis* has been cultivated in European gardens since at least the 16th century and is one of the most widely planted spring bulbs. It is propagated by division of bulb offsets ("twin-scaling" or "chipping") in late summer after the foliage has senesced.
 
-Seeds require warm stratification followed by cold stratification for reliable germination. Seed-grown plants typically take 2–4 years to reach flowering size, which is why vegetative propagation is strongly preferred in horticulture.
+Seeds require warm stratification followed by cold stratification for reliable germination. Seed-grown plants typically take 2–4 years to reach flowering size, which is why [[hamilton-vegetative-propagation]] is strongly preferred in horticulture.
 
 The plant thrives in USDA Zones 3–8 and tolerates a wide range of soil conditions, from heavy clay to sandy loam. It performs best in partial shade with consistent moisture during the [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] and improves establishment rates. Planting depth should be approximately three times the bulb height.
 
@@ -77,7 +77,7 @@ Other notable species include *G. woronowii* (the primary commercial source of g
 ## Overview
 
 Galanthus Nivalis represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Galanthus Nivalis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,7 +106,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 galanthus nivalis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

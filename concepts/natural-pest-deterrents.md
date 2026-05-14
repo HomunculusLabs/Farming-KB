@@ -148,4 +148,3 @@ A soil bacterium that produces proteins toxic to specific insect groups when ing
 - [[fukuoka-rice-and-barley-natural-farming]]
 - [[natural-building-overview]]
 - [[fukuoka-natural-farming-philosophy-five-principles]]
-- [[natural-farming-do-nothing-philosophy]]

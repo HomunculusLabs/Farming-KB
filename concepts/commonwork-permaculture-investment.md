@@ -6,7 +6,7 @@ type: concept
 
 # Commonwork and Permaculture Investment
 
-[[commonwork]] is a [[permaculture]] strategy for engaging wealthy investors and large corporations in large-scale regenerative land management. Rather than opposing capital, commonwork redirects it toward biological resource production by offering investors returns from specific yield streams while all other productive functions — food, housing, materials, ecological restoration — remain with the people living on and managing the land.
+[[commonwork]] is a [[permaculture]] strategy for engaging wealthy investors and large corporations in large-scale regenerative land management. Rather than opposing capital, commonwork redirects it toward biological resource production by offering investors returns from specific yield streams while all other productive functions — food, housing, materials, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] — remain with the people living on and managing the land.
 
 ## The Concept of Functional Stacking
 
@@ -15,11 +15,11 @@ Commonwork is built on the principle of **functional stacking** — layering mul
 A single well-designed site can simultaneously produce:
 
 - Alcohol or biofuel (the investor's return)
-- Honey production
+- [[faires-beekeeping-and-honey-production]]
 - Aquaculture
-- Bean crops and green leaf production
+- Bean [[cover-crops]] leaf production
 - Cattle grazing
-- Building materials (thatch, timber)
+- [[gadd-fungal-biodegradation-concrete-building-materials]] (thatch, timber)
 - Food crops through intercropping
 - Housing for workers and families
 
@@ -80,7 +80,7 @@ The principal challenge is not at the top (where agreements are made) but at the
 
 ### The Need for Designers
 
-Thousands of qualified permaculture designers are needed to handle the implementation and managerial aspects of systems involving two million to several billion dollars of investment capital. These systems take many designers working full-time for many years to establish, tune, and extend.
+Thousands of qualified [[bill-mollison]] are needed to handle the implementation and managerial aspects of systems involving two million to several billion dollars of investment capital. These systems take many designers working full-time for many years to establish, tune, and extend.
 
 ## Large-Scale Opportunities
 
@@ -115,7 +115,7 @@ A sugar-palm system producing 10,000 liters per acre at $5,000 per acre per year
 4. **Designer supervision**: A trained permaculture designer oversees system health.
 5. **Demonstration value**: Each successful site becomes proof of concept for further investment.
 6. **Biological replacement of fossil resources**: The goal is rapid generation of vast biological resources to replace coal and petroleum.
-7. **Energy descent compatibility**: Capital can be switched to energy-decreasing modes without conflict.
+7. **[[energy-descent-action-planning]] compatibility**: Capital can be switched to energy-decreasing modes without conflict.
 
 ## The Bigger Vision
 

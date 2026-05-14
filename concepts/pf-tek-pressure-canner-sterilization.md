@@ -1,5 +1,5 @@
 ---
-title: PF [[pf-tek-pressure-canner-substrate-sterilization-upgrade-fanaticus]] canner sterilization Canner Sterilization
+title: "Pf Tek Pressure Canner Sterilization"
 created: 2026-04-28
 tags: [pf-tek, sterilization, pressure-canner, equipment, mycology]
 date: 2026-04-28

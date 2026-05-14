@@ -17,7 +17,7 @@ type: concept
 
 [[banisteriopsis-caapi]] | [[psychedelic-spirituality-and-religion]] | [[ayahuasca]]
 - [[harmine]]
-- [[shamanism]]
+- shamanism
 
 ## Overview
 

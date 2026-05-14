@@ -1,5 +1,5 @@
 ---
-title: [[community-recycling-and-waste-recovery-systems]] Waste Management
+title: "Community Recycling Waste Management"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

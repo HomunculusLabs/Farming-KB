@@ -1,6 +1,6 @@
 ---
-title: "Mushroom Substrate Preparation"
-source: MushWorld, Mushroom Growers' Handbook 1: cotter-oyster-mushroom-cultivation (2004)
+title: Mushroom Substrate Preparation
+source: MushWorld, [[enterprise-development-mushroom-growers]]' Handbook 1: cotter-oyster-mushroom-cultivation (2004)
 tags: [mushroom, cultivation, fungi, substrate, pasteurization, sterilization]
 created: 2026-05-11
 ---
@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Substrate Fundamentals
 
-The substrate is the material on which mushroom mycelium grows and from which
+The substrate is the material on which [[antimicrobial-compounds-mushroom-mycelium]] grows and from which
 it derives all its nutrients. For oyster mushrooms, the substrate consists
 primarily of plant-based materials rich in structural carbohydrates. The three
 major carbon sources in these materials are:
@@ -41,14 +41,14 @@ for [[oyster-mushroom-cultivation]].
 - **Grass and Weed Materials:** Various grasses and herbaceous plant residues
   can serve as substrate, though their nutrient content and physical
   properties vary considerably. They are often used as supplementary or
-  emergency substrate materials in resource-limited settings.
+  emergency [[growing-gourmet-substrate-materials-wood-types]] in resource-limited settings.
 
 - **Rubber Tree Sawdust:** A widely available substrate in Southeast Asian
   rubber-producing regions. It performs well as a base material, typically
   supplemented with rice bran or other nitrogen sources.
 
 - **Groundnut (Peanut) Shells:** The outer hulls of groundnuts provide a
-  woody, carbon-rich substrate suitable for oyster mushroom cultivation
+  woody, carbon-rich substrate suitable for [[comparison-reishi-vs-oyster-mushroom-cultivation]]
   when adequately shredded and supplemented with nitrogen.
 
 ## Moisture Content
@@ -79,7 +79,7 @@ primary methods are used:
   kills most pathogenic and competitive organisms while preserving beneficial
   thermophilic (heat-loving) microorganisms that can help suppress subsequent
   contamination. It is less energy-intensive and suitable for many oyster
-  mushroom substrates.
+  [[kh2po4-phosphate-supplementation-mushroom-substrates]].
 
 - **Sterilization:** Heating the substrate to 121°C under pressure (autoclaving)
   for 30-90 minutes. Sterilization eliminates all living organisms, including

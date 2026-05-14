@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - metzner-neoshamanic-medicine-circles-structure-and-practice|metzner-metzner-talking-metzner-talking-staff-and-preparation-integration-in-hybrid-ceremonies|staff-and-preparation-integration-in-hybrid-ceremonies|talking-staff-and-preparation-integration-in-hybrid-ceremonies|metzner]]_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+  - metzner-neoshamanic-medicine-circles-structure-and-practice|metzner-metzner-talking-metzner-talking-staff-and-preparation-integration-in-hybrid-ceremonies|staff-and-preparation-integration-in-hybrid-ceremonies|talking-staff-and-preparation-integration-in-hybrid-ceremonies|metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
 # Neoshamanic Preparation and Integration Practices

@@ -13,7 +13,7 @@ sources:
 
 # Munn and the Mazatec Mushroom Oracular Cure
 
-Henry Munn's essay "The Mushrooms of Language" appears in [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and maria-sabina-mazatec-mushroom-curandera and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
+Henry Munn's essay "The Mushrooms of Language" appears in [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and [[maria-sabina]]-mazatec-mushroom-curandera and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
 
 ## The Shaman as Speaker
 

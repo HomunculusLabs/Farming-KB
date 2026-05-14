@@ -1,12 +1,12 @@
 ---
-title: Introduction to Aquaculture in Permaculture
+title: Introduction To Aquaculture In Permaculture
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Introduction to Aquaculture in Permaculture
 
-Aquaculture — the cultivation of aquatic organisms in natural or artificial water systems — represents one of the most productive and efficient food production strategies available to [[permaculture]] designers. Water-based systems consistently outperform terrestrial agriculture in yield per unit of input, making aquaculture a critical component of integrated land design.
+Aquaculture — the cultivation of aquatic organisms in natural or artificial water systems — represents one of the most productive and efficient food [[system-yield-and-production-strategies]] available to [[permaculture]] designers. Water-based systems consistently outperform terrestrial agriculture in yield per unit of input, making aquaculture a critical component of integrated land design.
 
 ## Definition and Scope of Wetlands
 
@@ -21,7 +21,7 @@ In [[permaculture-design]], the emphasis is on those wetland areas used by peopl
 
 ## Productivity Advantages of Aquatic Systems
 
-Aquatic environments are among the most naturally productive systems on Earth. Tropical rainforests and shallow-water aquatic environments share the distinction of having the greatest natural yields. Mangrove swamps, marshes, and estuaries produce prodigious biomass of great complexity.
+[[fungal-roles-aquatic-environments]] are among the most naturally productive systems on Earth. Tropical rainforests and shallow-water aquatic environments share the distinction of having the greatest natural yields. Mangrove swamps, marshes, and estuaries produce prodigious biomass of great complexity.
 
 ### Why Aquatic Systems Outperform Terrestrial Agriculture
 
@@ -29,7 +29,7 @@ Given equivalent inputs in energy or nutrients, aquatic systems can produce **4-
 
 1. **Constant water supply** for plant and animal growth — no drought stress, no irrigation overhead
 2. **Soluble, easily assimilable nutrients** — plants in water access nutrients directly without the soil chemistry limitations of terrestrial systems
-3. **Water and nutrient flow** — a continuous factor in aquatic habitats that dramatically boosts production, absent in static field systems
+3. **Water and nutrient flow** — a continuous factor in [[biodiversity-fungi-freshwater-aquatic-habitats]] that dramatically boosts production, absent in static field systems
 4. **Reduced energy expenditure** — aquatic organisms (fish, shellfish) waste little energy in movement, being largely free of gravitational effects and weight disadvantages
 5. **Three-dimensional medium** — light, nutrients, and plants occupy a volume rather than a surface, with complex edges, surfaces, and conditions supporting a variety of species
 6. **Polyculture from inception** — unlike terrestrial agriculture, which has been dominated by monoculture, water cultures have recognized the advantages of polyculture from the beginning
@@ -57,7 +57,7 @@ The Aztecs at Lake Tenochtitlan in Mexico developed what is possibly the most pr
 On the Euphrates and Lake Titicaca in Peru, whole cultures based on reed beds (Typha, Phragmites, Cyperus) derive forage, boats, housing, bread, and meat from wetland systems.
 
 ### Island Cultures
-Island cultures such as the Hawaiian ohana synthesis neatly combine water and earth resources, demonstrating the integration potential of aquatic systems in diverse environments.
+Island cultures such as the Hawaiian ohana synthesis neatly combine water [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]], demonstrating the integration potential of aquatic systems in diverse environments.
 
 ## The Concept of Bioregion and Watershed
 
@@ -123,7 +123,7 @@ However, as infrastructure develops, it becomes increasingly worthwhile to shift
 
 ## Design Implications for Permaculture
 
-For permaculture designers, aquaculture offers:
+For [[bill-mollison]], aquaculture offers:
 - **Highest per-hectare productivity** when combining species of different feeding habits
 - **Integration potential** with terrestrial systems (irrigation, nutrient cycling, fire protection)
 - **Diversified production** from a single water resource

@@ -24,11 +24,11 @@ The species is prized for its pendulous, bell-shaped white flowers that appear i
 
 It typically grows 8–12 meters tall with a spread of 6–9 meters, forming a rounded to pyramidal crown. The bark is dark gray with prominent vertical ridges on mature trunks, somewhat resembling that of dogwood.
 
-Carolina silverbell is an excellent specimen tree for woodland gardens and naturalized landscapes. It is hardy in USDA Zones 4–8 and performs best in the Appalachian region and southeastern states.
+Carolina silverbell is an excellent specimen tree for woodland gardens and naturalized landscapes. It is hardy in USDA Zones 4–8 and performs best in the [[bolete-fungi-appalachian-region]] and southeastern states.
 
 The species combines well with other spring-blooming natives such as flowering dogwood, redbud, and serviceberry. In fall, the leaves turn a clear yellow, extending seasonal interest beyond the spring floral display.
 
-The genus *Halesia* was named by Linnaeus in honor of the English botanist Stephen Hales (1677–1761). Four species are currently recognized, all native to eastern North America and eastern Asia.
+The genus *Halesia* was named by Linnaeus in honor of the English botanist [[stephen-hales-plant-physiology]] (1677–1761). Four species are currently recognized, all native to [[polypore-fungi-eastern-north-america]] and eastern Asia.
 
 ## Taxonomy and Morphology
 
@@ -36,7 +36,7 @@ The genus *Halesia* was named by Linnaeus in honor of the English botanist Steph
 
 Synonyms include *Halesia tetraptera* var. *monticola* Rehder. The taxonomy of the genus has been contentious; some authors treat *H. carolina* as conspecific with *H. tetraptera*, while others recognize them as distinct species based on differences in fruit wing morphology.
 
-Molecular phylogenetic studies place *Halesia* firmly within Styracaceae, closely allied to *Styrax* and *Rehderodendron*. The family shows an eastern Asian–eastern North American disjunction, a biogeographic pattern shared with many temperate forest genera.
+Molecular phylogenetic studies place *Halesia* firmly within Styracaceae, closely allied to *Styrax* and *Rehderodendron*. The family shows an eastern Asian–eastern [[growing-gourmet-north-american-reishi-species]] disjunction, a biogeographic pattern shared with many temperate forest genera.
 
 Leaves are simple, alternate, ovate to elliptic, 5–12 cm long and 3–7 cm broad. The margins are finely serrated, and the upper surface is dark green with scattered stellate pubescence.
 
@@ -84,7 +84,7 @@ Several cultivars have been selected. 'Rosea' produces pale pink flowers. 'Uconn
 
 The Arnold Arboretum and several botanical gardens hold significant collections of *Halesia*, including specimens over 80 years old. These collections contribute to ongoing taxonomic and horticultural research.
 
-The species is relatively free of serious pests and diseases. Minor issues include leaf spot, aphids, and occasional dieback on stressed specimens. Good air circulation and proper siting prevent most problems.
+The species is relatively free of serious [[mushroom-pests-and-diseases]]. Minor issues include leaf spot, aphids, and occasional dieback on stressed specimens. Good air circulation and proper siting prevent most problems.
 
 Propagation is by seed, which requires warm and cold stratification, or by softwood cuttings in early summer. Grafting onto *Halesia diptera* rootstock is also practiced for cultivar propagation.
 
@@ -102,7 +102,7 @@ The foliage supports larvae of several moth species in the family Geometridae. T
 
 White-tailed deer browse the foliage and young twigs, particularly in winter when other food sources are scarce. Heavy browsing can prevent successful regeneration in overpopulated areas.
 
-Carolina silverbell forms mycorrhizal associations typical of ericalean forest plants. It contributes to forest understory diversity and is a component of rich cove forest communities valued for their high species richness.
+Carolina silverbell forms [[plants-without-mycorrhizal-associations]] typical of ericalean forest plants. It contributes to forest understory diversity and is a component of rich cove forest communities valued for their high species richness.
 
 The wood is soft, lightweight, and close-grained, with little commercial value. Historically, it was occasionally used for carving and turnery due to its fine, even texture.
 

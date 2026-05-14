@@ -7,7 +7,7 @@ tags: [technique, concept, wind-assessment, windbreak-design, site-analysis, tre
 
 ## Description
 
-The Griggs and Putnam index is a visual wind assessment scale that rates the deformation of tree crowns and stems caused by persistent strong winds. Developed as a practical field tool, it allows designers to read the wind history of a site directly from the shape of existing trees, providing site-specific wind data without instruments. Mollison considers this one of the most valuable rapid site assessment tools available to permaculture designers.
+The Griggs and Putnam index is a visual wind assessment scale that rates the deformation of tree crowns and stems caused by persistent strong winds. Developed as a practical field tool, it allows designers to read the wind history of a site directly from the shape of existing trees, providing site-specific wind data without instruments. Mollison considers this one of the most valuable rapid site assessment tools available to [[bill-mollison]].
 
 ## Classification
 
@@ -40,7 +40,7 @@ The Griggs and Putnam index is a visual wind assessment scale that rates the def
 
 ## Relevance to Cultivation and Permaculture
 
-- **Free site assessment:** The Griggs and Putnam index provides wind data at zero cost by reading the living record of wind conditions encoded in existing tree forms. This is invaluable for site analysis in permaculture design.
+- **Free site assessment:** The Griggs and Putnam index provides wind data at zero cost by reading the living record of wind conditions encoded in existing tree forms. This is invaluable for site [[slope-analysis-in-permaculture]] design.
 - **Accurate microclimate mapping:** By observing trees at multiple locations on a property, designers can map wind intensity and direction with far greater spatial resolution than available from weather station data.
 - **Building and garden placement:** Wind data derived from tree flagging directly informs placement of houses (on the thermal belt), gardens (in frost-protected zones), and windbreaks (where they are most needed).
 - **Windbreak design calibration:** Knowing the precise wind speed at a location allows designers to choose appropriate windbreak species, heights, and permeabilities for the specific conditions.
@@ -54,20 +54,20 @@ Mollison recommends observing tree flagging on site to determine persistent wind
 
 - Wade, John E., and Wendell Hewson (1979). *Trees as Indicators of Wind Power Potential*. Dept. of Atmospheric Sciences, Oregon State University.
 - Griggs, P.H. and Putnam, P.C. Original wind deformation scale.
-- Mollison, Bill. *Permaculture: A Designers' Manual*. Chapter 6: Trees and Their Energy Transactions.
+- Mollison, Bill. *Permaculture: A Designers' Manual*. Chapter 6: Trees and Their [[tree-biomass-and-energy-transactions]].
 
 ## Practical Applications
 
 Griggs And Putnam Index finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
+from agricultural systems to [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
 Practitioners integrate this knowledge into holistic design frameworks,
 optimizing outcomes through systematic observation and adaptive management.
 
 ## Ecological Context
 
 Understanding griggs and putnam index within broader ecosystem dynamics reveals
-interconnections with nutrient cycling, energy flow, and species interactions.
-These relationships inform regenerative design strategies that work with
+interconnections with [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], energy flow, and species interactions.
+These relationships inform regenerative [[cold-climate-design-strategies]] that work with
 natural processes rather than against them.
 
 ## Design Considerations

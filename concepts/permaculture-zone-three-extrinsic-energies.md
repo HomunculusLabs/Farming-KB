@@ -1,5 +1,5 @@
 ---
-title: Permaculture Zone Three and Extrinsic Energies
+title: Permaculture Zone Three Extrinsic Energies
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -30,7 +30,7 @@ The key principle is selecting animals whose grazing behavior **complements** ra
 
 ## Wild Corridors and Animal Integration
 
-One of the most powerful design strategies in permaculture is **bringing wild corridors to the house** — designing wildlife pathways that pass close to the living areas, making wild animals a deliberate design element rather than a problem to be excluded.
+One of the most powerful design [[yield-theory-and-strategies-in-permaculture-design]] is **bringing wild corridors to the house** — designing wildlife pathways that pass close to the living areas, making wild animals a deliberate design element rather than a problem to be excluded.
 
 ### The Marsh-to-Lake Design
 
@@ -54,14 +54,14 @@ Dogs can serve as **guard animals** for poultry and livestock, but Mollison warn
 
 ## Extrinsic Energies in Design
 
-**Extrinsic energies** are the external forces that act on a site — wind, cold air masses, sun, fire, and heat transfer. These forces are free, constant, and predictable. Understanding and working with these energies is fundamental to permaculture site design.
+**Extrinsic energies** are the external forces that act on a site — wind, cold air masses, sun, fire, [[albedo-absorption-and-heat-transfer]]. These forces are free, constant, and predictable. Understanding and working with these energies is fundamental to [[permaculture-site-design-and-zones]].
 
 ### Wind Energy
 
 Wind is not merely a problem to be blocked — it is an **energy resource** that can be harnessed:
 
 - **Cold wind can generate heat** — a vertical axis windmill connected to a kettle or friction heater can convert cold wind energy into usable heat
-- **Hot desert winds can cool** — a "wind dodger" design uses wind passing over water wicks to create evaporative cooling, turning a hot wind into a cooling breeze
+- **Hot desert winds can cool** — a "wind dodger" design uses wind passing over water wicks to create [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]], turning a hot wind into a cooling breeze
 - **Wind sectors** — mapping where winds come from allows designers to place windbreaks, turbines, and cooling structures precisely
 
 ### Defining Energy Sectors
@@ -77,7 +77,7 @@ These sectors become the **framework for placement** of every element on the sit
 
 ### The Wind-View Conflict
 
-A common design dilemma: the best views often face the prevailing wind. Mollison's solution is elegant — **travel to zone three for the view**. Position the house for shelter and energy efficiency, and create a pleasant destination in zone three (a sheltered seat, a small pavilion) where you walk to enjoy the panorama. This avoids the energy cost of heating or cooling a house oriented purely for views.
+A common design dilemma: the best views often face the prevailing wind. Mollison's solution is elegant — **travel to zone three for the view**. Position the house for shelter [[aquaculture-design-principles-and-energy-efficiency]], and create a pleasant destination in zone three (a sheltered seat, a small pavilion) where you walk to enjoy the panorama. This avoids the energy cost of heating or cooling a house oriented purely for views.
 
 ### View Design for People
 

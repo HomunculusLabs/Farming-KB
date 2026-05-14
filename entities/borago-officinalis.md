@@ -33,7 +33,7 @@ created: 2026-04-28
 
 The species is the most concentrated common plant source of **gamma-linolenic acid (GLA)**, an omega-6 fatty acid with anti-inflammatory properties. Borage seed oil is commercially extracted for use in dietary supplements, cosmetics, and pharmaceutical preparations.
 
-Borage has a long history of use in European herbal medicine dating back to ancient Greece and Rome, where it was valued as a diaphoretic, diuretic, and mood-enhancing herb. The distinctive star-shaped blue flowers are widely used as edible garnishes.
+Borage has a long history of use in European [[herbal-medicine]] dating back to ancient Greece and Rome, where it was valued as a diaphoretic, diuretic, and mood-enhancing herb. The distinctive star-shaped blue flowers are widely used as edible garnishes.
 
 ## Taxonomy and Morphology
 

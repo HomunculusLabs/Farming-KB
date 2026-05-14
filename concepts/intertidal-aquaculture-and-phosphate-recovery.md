@@ -1,20 +1,20 @@
 ---
-title: Intertidal Aquaculture and Phosphate Recovery
+title: Intertidal Aquaculture And Phosphate Recovery
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
 # Intertidal Aquaculture and Phosphate Recovery
 
-The intertidal zone—the dynamic edge between land and sea that alternates between exposure and submersion with each tidal cycle—represents one of the most productive and designable environments in permaculture. Bill Mollison drew extensively on traditional coastal management practices from Ireland, Hawaii, Japan, and elsewhere to demonstrate that intertidal aquaculture can produce food, materials, and fertility at scales that rival or exceed terrestrial agriculture.
+The intertidal zone—the dynamic edge between land and sea that alternates between exposure and submersion with each tidal cycle—represents one of the most productive and designable environments in [[permaculture]]. [[bill-mollison]] drew extensively on traditional coastal management practices from Ireland, Hawaii, Japan, and elsewhere to demonstrate that intertidal aquaculture can produce food, materials, and fertility at scales that rival or exceed terrestrial agriculture.
 
 ## Tidal Physics and Habitat Creation
 
 ### Intertidal Ponds and Lagoons
 
-Areas that are ponds at low tide and slightly flooded at high tide create ideal habitat for a range of marine organisms. The key design variable is the period of still water—not too much tidal run. Sub-surface dams (leaky rubble walls rather than true dams) can create these conditions by partially restricting tidal flow while allowing water exchange.
+Areas that are ponds at low tide and slightly flooded at high tide create ideal habitat for a range of [[marine-aquaculture-and-intertidal-design|marine]] organisms. The key design variable is the period of still water—not too much tidal run. Sub-surface dams (leaky rubble walls rather than true dams) can create these conditions by partially restricting tidal flow while allowing water exchange.
 
-When such structures are installed on open coastlines, a cascade of ecological succession follows:
+When such structures are installed on open coastlines, a cascade of [[ecological-succession]] follows:
 1. Mussels colonize the walls
 2. Shrimp move into the sheltered spaces
 3. Fish aggregate in the scour holes
@@ -22,7 +22,7 @@ When such structures are installed on open coastlines, a cascade of ecological s
 
 ### Scour Hole Design
 
-Complex aquaculture systems can be designed by combining natural drift events with constructed elements. Barrier fences, drift fences, and pond scour holes work together to create self-maintaining systems that concentrate fish traps, still-water growing areas, and material accumulation zones. Mollison recommends beginning at miniature scale—placing small logs in the shoreline zone, observing effects, building small fences, and only scaling up once the design principles are verified.
+Complex aquaculture systems can be designed by combining natural drift events with constructed elements. Barrier fences, drift fences, and pond scour holes work together to create self-maintaining systems that concentrate fish traps, still-water growing areas, and material accumulation zones. Mollison recommends beginning at miniature scale—placing small logs in the shoreline zone, observing effects, building small fences, and only scaling up once the [[aact-brewer-design-principles-aeration-systems-ingham]] are verified.
 
 The principle of working with natural forces is critical. Designers should observe where reefs end, where logs strand, and where material naturally accumulates, then amplify these patterns rather than fighting against tidal energy.
 
@@ -53,7 +53,7 @@ This system uses tidal energy for transporting enormous weights without mechanic
 
 ## Estuary Polyculture
 
-Estuaries provide unique opportunities because they simultaneously offer cold fresh water, warm salt water, and graduated salinity zones. By designing adjoining ponds with different salinity levels, a single system can support species ranging from freshwater trout through brackish-water species to marine grey mullet and eels.
+Estuaries provide unique opportunities because they simultaneously offer cold fresh water, warm salt water, and graduated [[temperature-salinity-and-flow-in-aquaculture|salinity]] zones. By designing adjoining ponds with different salinity levels, a single system can support species ranging from freshwater trout through brackish-water species to marine grey mullet and eels.
 
 The design leverages both the fresh water inflow from upstream and the twice-daily warm saltwater tidal intrusion. Swap-offs between these water types can be managed through channels, sluices, and pond configurations.
 
@@ -83,7 +83,7 @@ Sea birds concentrate marine phosphate and deposit it at roosting sites in quant
 
 ### The West African Model
 
-A single documented installation on a desert coast of West Africa consisted of concrete pylons supporting a platform the size of a football field. This facility generates enough phosphate to make its operator an annual millionaire through two collection methods:
+A single documented installation on a desert coast of West Africa consisted of concrete pylons supporting a platform the size of a football field. This facility generates enough phosphate to make its operator an annual millionaire through two [[biodiversity-of-fungi-freshwater-survey-collection-methods]]:
 
 - **Liquid collection**: Rainfall on the roosting surfaces is piped ashore and evaporated to concentrate phosphate
 - **Solid collection**: Accumulated phosphate is shoveled into bags for direct distribution
@@ -95,7 +95,7 @@ Sea birds demonstrate species-specific roosting preferences. By observing gulls,
 ### The Dutch Bat Roost Model
 
 The Dutch apply the same principle with bat roosts constructed throughout agricultural fields. These structures, described as "slatted like racks for drying towels," serve dual purposes:
-- **Mosquito control** through insectivorous bat populations
+- **[[backswimmer-mosquito-control-mollison]]** through insectivorous bat populations
 - **Manure production** that is carefully collected and distributed as critical fertilizer
 
 ### Broader Significance
@@ -125,8 +125,8 @@ Eelgrass beds absorb nutrients at extraordinary rates—Mollison cited calculati
 
 ### Insulation Material Production
 
-When eelgrass washes ashore and is composted for approximately 10 days, it produces what Mollison considers the best insulation material available. The composting process:
-- Burns off organic matter that would otherwise create foul odors
+When eelgrass washes ashore and is composted for approximately 10 days, it produces what Mollison considers the best insulation material available. The [[composting]] process:
+- Burns off [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] that would otherwise create foul odors
 - Leaves a chocolate-colored, fibrous frame material
 - Creates no health risks (unlike mineral fiber insulation)
 - Lasts indefinitely
@@ -139,7 +139,7 @@ Eelgrass typically washes ashore at predictable locations, making it straightfor
 
 ### Mulch Application
 
-Eelgrass can be applied directly as garden mulch, preferably on sopping wet ground. In locations with below 20 inches of annual rainfall, salt content should be considered, though in most applications the rapid nutrient cycling of eelgrass makes salt concerns minimal. It should not be used where cattle graze, as they will consume it.
+Eelgrass can be applied directly as [[cotter-outdoor-mushroom-garden-mulch-beds]], preferably on sopping wet ground. In locations with below 20 inches of annual rainfall, salt content should be considered, though in most applications the rapid [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] of eelgrass makes salt concerns minimal. It should not be used where cattle graze, as they will consume it.
 
 ## Intertidal Title and Access Law
 
@@ -148,23 +148,3 @@ Understanding coastal property law is essential for intertidal design:
 - **Ancient grant titles** may extend to the low tide mark
 - **Freehold titles** (non-Crown charters) typically extend to high tide
 - **Modern titles** may be set back 100+ feet from the beach as beach reserve
-- **Intertidal zone access** can typically be obtained through lease at very low cost
-
-In Australia, Mollison noted that regardless of who leases intertidal areas, every individual retains the right to harvest a single eelgrass load—a right that is free and cannot be denied.
-
-## Design Methodology
-
-Mollison emphasized a careful, observational approach to intertidal design:
-
-1. **Start in miniature** — use small logs and observe effects before scaling
-2. **Study natural patterns** — observe where reefs end, where logs strand, where material accumulates
-3. **Design with forces** — amplify existing tidal patterns rather than fighting them
-4. **Learn from traditional systems** — Irish stone fields, Hawaiian reef gardens, and other indigenous practices encode centuries of empirical knowledge
-5. **Study beaver ecology** — beavers build multiple small dams for different purposes, plus canals and bog places, providing "pretty good" models for comprehensive water control on flatlands
-
-## See Also
-
-- [[marine-aquaculture-seaweed-estuary-systems]] - broader marine aquaculture design
-- [[water-harvesting-and-conservation-in-permaculture]] - terrestrial water management parallels
-- [[forest-rehumidification-and-water-recycling]] - urban water systems connecting to marine environments
-- [[soil-nutrient-cycling]] - nutrient flow principles across ecosystems

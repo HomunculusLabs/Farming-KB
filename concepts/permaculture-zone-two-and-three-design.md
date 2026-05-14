@@ -24,7 +24,7 @@ Practical housing design features include:
 
 ### Mulch Gardens vs. Clean-Till Agriculture
 
-[[bill-mollison]] cites a telling comparison at an agricultural college where mulch gardens were evaluated against clean-tilled plots. The mulched gardens consistently outperformed tilled counterparts in yield, soil moisture retention, and biological activity. The mulch approach eliminates the need for repeated cultivation, preserves soil structure, and feeds [[the-soil-food-web]] continuously. Tilling, by contrast, disrupts fungal networks, accelerates organic matter oxidation, and exposes soil to erosion.
+[[bill-mollison]] cites a telling comparison at an agricultural college where mulch gardens were evaluated against clean-tilled plots. The mulched gardens consistently outperformed tilled counterparts in yield, soil moisture retention, and biological activity. The mulch approach eliminates the need for repeated cultivation, preserves soil structure, and feeds [[soil-food-web]] continuously. Tilling, by contrast, disrupts fungal networks, accelerates organic matter oxidation, and exposes soil to erosion.
 
 Spot-mulching individual plants rather than blanket-mulching entire beds is a practical compromise — it concentrates organic matter where it matters most and reduces material requirements. Over time, the mulched areas expand as the system builds its own organic matter through leaf drop and root turnover.
 

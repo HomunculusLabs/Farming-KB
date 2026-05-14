@@ -89,17 +89,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
 
-- [[amanita-bisporigera]]
-- [[amanita-ceceliae]]
-- [[amanita-flavoconia]]
-- [[amanita-herb-maga-magic-great-gift]]
-- [[amanita-mappa]]
-- [[amanita-muscaria-biology-mycelium-ectomycorrhizal-symbiosis]]
-- [[amanita-muscaria-grail-legends-healing-immortality-magic-pots]]
-- [[amanita-polymorphous-symbolic-names]]
-- [[amanita-porphyria]]
-- [[amanita-regalis-entity]]
-- [[amanita-toxins-and-mushroom-poisoning]]
-- [[amanita-velosa]]
+- [[amanita-herb-greek-roman-culture]]
+- [[amanita-phalloides-toxicology]]
+- [[amanita-species-southeastern-us]]
+- [[amanita-wellsii]]

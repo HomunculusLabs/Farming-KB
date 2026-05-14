@@ -1,5 +1,5 @@
 ---
-title: [[comparison-passive-solar-vs-earth-sheltered]] Design
+title: "Passive Solar Design"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -40,7 +40,7 @@ The long axis of the building should face within 15 degrees of true south (not m
 - Low-emissivity (low-E) coatings: Low-E with high solar heat gain coefficient (SHGC) on south windows
 
 **Window specifications by climate:**
-- [[avalanche-phenomenon-cold-climates]] (Zone 5-7): Triple-glazed, argon-filled, SHGC 0.50+
+- [[avalanche-phenomenon]] (Zone 5-7): Triple-glazed, argon-filled, SHGC 0.50+
 - Moderate climates (Zone 3-5): Double-glazed, argon-filled, SHGC 0.45+
 - Warm climates (Zone 1-3): Double-glazed, low SHGC 0.30 or less
 

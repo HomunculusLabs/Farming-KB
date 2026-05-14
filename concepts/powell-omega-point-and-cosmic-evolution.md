@@ -24,7 +24,7 @@ used the term "attractor" to describe this final eschatological state.
 
 Teilhard wrote at a time when the second law of thermodynamics, which states
 that the Universe is running down toward heat death, was seen as a threat to
-life's long-term prospects. Powell argues that [[shamanism]] and organic psilocybin, the
+life's long-term prospects. Powell argues that shamanism and organic psilocybin, the
 "illuminations caused by the Omega Point are on the increase." The rapid
 evolution of the hominid cortex, the speedy development of human culture, and
 the yearly evolution of digital technology may all reflect the increasing pull

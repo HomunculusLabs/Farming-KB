@@ -64,7 +64,7 @@ pattern recognition that field guides alone cannot provide.
 
 New foragers should follow a structured learning path that minimizes risk while
 building skills over multiple seasons. Begin with easily recognized groups such
-as morels, chanterelles, puffballs, and chicken of the woods, which have few
+as morels, chanterelles, puffballs, and [[chicken-of-the-woods]], which have few
 dangerous lookalikes. Master one genus at a time rather than learning many
 species simultaneously. Study both the edible species and its lookalikes side
 by side, noting distinguishing characteristics carefully.

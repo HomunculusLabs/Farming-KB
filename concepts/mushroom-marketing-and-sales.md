@@ -52,10 +52,10 @@ High in protein: 20 g/100 g (eggs average 13 g/100 g)
 
 ### Renaming for Appeal
 
-Common mushroom names can significantly affect consumer perception. "Oyster mushroom" implies salty, slimy seafood to many consumers. Consider alternative common names used in other cultures:
+Common mushroom names can significantly affect consumer perception. "[[oyster-mushroom]]" implies salty, slimy seafood to many consumers. Consider alternative common names used in other cultures:
 
 - **"Trumpet"** (Europe) for vase-shaped gilled mushrooms
-- **"Pom-pom"** or **"Waterfall"** for lion's mane (*Hericium erinaceus*)
+- **"Pom-pom"** or **"Waterfall"** for lion's mane (*[[hericium-erinaceus]]*)
 
 ### Nutritional Positioning
 
@@ -85,11 +85,11 @@ Maintain a binder of legitimate scientific research photocopies at your booth. P
 
 ### Packaging Materials
 
-Options include unbleached paper bags, deep cardboard vegetable trays, and clear biodegradable containers or bags. Natural-fiber packaging has a unique advantage: mushrooms release spores into the packaging, impregnating it with inoculum that assists composting.
+Options include unbleached paper bags, deep cardboard vegetable trays, and clear biodegradable containers or bags. Natural-fiber packaging has a unique advantage: mushrooms release spores into the packaging, impregnating it with inoculum that assists [[composting]].
 
 ### The "Eating the Packaging" Problem
 
-Mushrooms may begin feeding on biodegradable packaging. Oyster mushrooms have been observed fusing to the base of biodegradable boxes and completely fuzzing over. **Solution**: Place a small piece of waxed paper on the bottom of boxes to separate the mushrooms from the food source.
+Mushrooms may begin feeding on biodegradable packaging. [[oyster-mushrooms]] have been observed fusing to the base of biodegradable boxes and completely fuzzing over. **Solution**: Place a small piece of waxed paper on the bottom of boxes to separate the mushrooms from the food source.
 
 ### Shipping Considerations
 

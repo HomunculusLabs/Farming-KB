@@ -13,8 +13,8 @@ updated: 2026-05-08
 sources:
   - Adams, R.P. (2004). "Junipers of the World: The Genus Juniperus." Trafford Publishing.
   - Welsh, S.L. et al. (2015). "A Utah Flora." Brigham Young University.
-  - Van Pelt, R. (2001). "Conifers of the Pacific Northwest." Oregon State University Press.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Flora of North America North of Mexico, Vol. 2." Oxford University Press.
+  - Van Pelt, R. (2001). "Conifers of the [[psilocybin-north-america-pacific-northwest]]." Oregon State University Press.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Flora [[huckleberries-and-wild-berries-of-north-america]] North of Mexico, Vol. 2." Oxford University Press.
 ---
 
 # Juniperus horizontalis
@@ -29,9 +29,9 @@ The species exhibits remarkable phenotypic plasticity across its range. Plants i
 
 ## Taxonomy and Morphology
 
-**Juniperus horizontalis** Moench was described by Conrad Moench in 1794. The species is closely related to *[[juniperus-scopulorum]]* and *Juniperus virginiana*, and hybridization occurs where ranges overlap. The specific epithet *horizontalis* refers to its characteristic prostrate, spreading growth habit. No subspecies or varieties are formally recognized, though considerable morphological variation exists across the range.
+**Juniperus horizontalis** Moench was described by Conrad Moench in 1794. The species is closely related to *[[juniperus-scopulorum]]* and *[[juniperus-virginiana]]*, and hybridization occurs where ranges overlap. The specific epithet *horizontalis* refers to its characteristic prostrate, spreading growth habit. No subspecies or varieties are formally recognized, though considerable morphological variation exists across the range.
 
-Molecular phylogenetic studies place creeping juniper within the *Juniperus* section Sabina, a large group of scale-leaved junipers distributed across the Northern Hemisphere. Hybridization with eastern red cedar has been documented in the Great Lakes region, producing intermediate forms that complicate field identification. The species is chromosomally variable, with both diploid and tetraploid populations reported from different parts of its range.
+Molecular phylogenetic studies place creeping juniper within the *Juniperus* section Sabina, a large group of scale-leaved junipers distributed across the Northern Hemisphere. Hybridization with eastern red cedar has been documented in the Great Lakes region, producing intermediate forms that complicate [[amanita-muscaria-physical-description-field-identification]]. The species is chromosomally variable, with both diploid and tetraploid populations reported from different parts of its range.
 
 The plant is an evergreen shrub with long, trailing branches that root at contact points, forming dense mats. Upright branch tips are 10–30 cm tall and bear the reproductive structures. Bark on trailing stems is thin, brown, and exfoliating, while bark on older upright portions becomes fibrous and grayish. The foliage is scale-like on mature plants, with sharp, awl-like juvenile leaves on young growth and shaded branches.
 
@@ -53,7 +53,7 @@ On the Great Plains, creeping juniper is a common component of sandhills vegetat
 
 ## Ecology and Interactions
 
-Creeping juniper provides important ecological functions as a soil stabilizer and habitat provider. Its dense, mat-forming habit traps windblown sand and organic material, building soil on previously barren sites. The species is a critical component of dune and lakeshore vegetation, where it facilitates succession by creating protected microsites for the establishment of other plant species.
+Creeping juniper provides important [[fungal-melanin-biosynthesis-ecological-functions]] as a soil stabilizer and habitat provider. Its dense, mat-forming habit traps windblown sand and organic material, building soil on previously barren sites. The species is a critical component of dune and lakeshore vegetation, where it facilitates succession by creating protected microsites for the establishment of other plant species.
 
 The fleshy cones are an important food source for numerous bird species during fall and winter. Cedar waxwings, robins, and grouse consume the cones and disperse seeds through their droppings. Small mammals including voles, mice, and chipmunks also eat the cones and cache seeds. The dense mat structure provides thermal insulation and protective cover for ground-nesting birds such as killdeer, piping plovers, and vesper sparrows.
 
@@ -67,7 +67,7 @@ Root systems are shallow but extensive, consisting of dense networks of fine roo
 
 ## Uses and Cultivation
 
-Creeping juniper is one of the most widely planted groundcover conifers in North America and Europe. Its low, spreading habit, tolerance of poor soils, and winter hardiness make it a staple of landscape design. The species is used extensively in highway plantings, parking lot medians, [[growing-gourmet-north-american-reishi-species]] nursery industry.
+Creeping juniper is one of the most widely planted groundcover conifers in North America and Europe. Its low, spreading habit, tolerance of poor soils, and winter hardiness make it a staple of [[holzer-permaculture-landscape-design]]. The species is used extensively in highway plantings, parking lot medians, [[growing-gourmet-north-american-reishi-species]] nursery industry.
 
 Indigenous peoples used creeping juniper for various practical purposes. The aromatic boughs were placed in storage caches to deter insects and rodents. Cones were eaten fresh or dried for later use. Some tribes used the plant medicinally, preparing decoctions of foliage and cones to treat colds, coughs, and digestive complaints. The flexible, rooted branches were used in basketry and mat construction by northern peoples.
 

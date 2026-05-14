@@ -83,5 +83,5 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[iboga]]
-- [[shamanism]]
+- shamanism
 - [[icaros]]

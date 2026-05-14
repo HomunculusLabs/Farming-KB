@@ -9,7 +9,7 @@ created: 2026-05-09
 
 ## Overview
 
-The PF TEK (Psilocybe Fanaticus Technique) is a revolutionary cultivation method
+The PF TEK ([[pf-tek-psilocybe-fanaticus]] Technique) is a revolutionary [[boil-a-bag-mushroom-cultivation-method]]
 introduced in 1991-1992 that enabled easy growing of [[pf-tek-pressure-canner-sterilization]] required.
 The method has been copied worldwide and remains one of the most influential
 cultivation approaches ever developed.
@@ -27,7 +27,7 @@ succession of fungus with full reproductive vigor.
 
 ## Substrate Formula (Standard, per 1/2 Pint Jar)
 
-- **1/8 cup brown rice powder** (approximately): From health food stores or
+- **1/8 cup [[brown-rice-flour-substrate]] powder** (approximately): From health food stores or
   co-ops, or freshly ground from regular brown rice using a coffee bean grinder.
   Freshly ground is recommended over prepackaged for better results.
 - **1/2 to 2/3 cup horticultural vermiculite** (medium grade): From garden
@@ -55,7 +55,7 @@ no shoulders. The taper is essential for releasing the colonized substrate cake
 from the jar. Larger jars are unreliable for the PF TEK and fail easily.
 
 Recommended jars:
-- Kerr wide mouth half pint canning jar (most versatile)
+- Kerr wide mouth half pint [[pf-tek-canning-jar-lid-configuration]] (most versatile)
 - Ball regular mouth half pint canning jar
 - Ball half pint jelly jar
 - 1/2 pint (250 ml) drinking glasses with tapered sides
@@ -77,7 +77,7 @@ replicating the best results.
 
 Fill the jar very loosely. Leave 1/2 to 3/4 inch of space at the top. Level the
 substrate surface. With a tissue or fingertip, wipe the inside of the jar down to
-the substrate level. Fill the remaining top space with plain dry vermiculite and
+the substrate level. Fill the remaining top space with plain [[dry-vermiculite-contaminant-barrier-pf-tek]] and
 level it off at the jar rim. This upper dry vermiculite layer is the critical
 innovation of the PF TEK — it acts as a contaminant barrier that protects the
 wet substrate from airborne contaminants while also absorbing and regulating

@@ -31,7 +31,7 @@ The transition from understanding [[permaculture-principles]] to applying them o
 - Use **hedgerows for windbreak** around fields and settlements
 
 ### Cold Climate Considerations
-- **Beware [[avalanche]]** in snowy climates
+- **Beware [[avalanche-phenomenon]]** in snowy climates
 - Do not develop ski runs in fragile slope forests or tundra
 - **Beware acid rain effects** on uplands above villages
 - **Hedgerows and swales** will harvest snowmelt effectively

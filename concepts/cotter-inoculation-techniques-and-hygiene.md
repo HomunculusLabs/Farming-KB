@@ -144,6 +144,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[cotter-agar-tissue-culture-techniques]]
 - [[cotter-mushroom-garden-design]]
-- [[cotter-mushroom-infused-beer-wine-and-spirits]]
+- [[mushroom-infused-beer-wine-and-spirits]]
 - [[cotter-off-grid-mushroom-cultivation]]
 - [[cotter-pasteurization-sterilization-methods]]

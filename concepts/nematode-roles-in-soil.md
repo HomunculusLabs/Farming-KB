@@ -36,7 +36,7 @@ in bacterial bodies back into the soil in plant-available forms.
 
 ### 2. Fungivores (Fungi Eaters)
 
-Fungivores have stylets for puncturing the chitin cell walls of fungal hyphae.
+Fungivores have stylets for puncturing the chitin cell walls of [[fungal-hyphae]].
 Like bacterivores, they mineralize nutrients from their prey. The ratio of
 fungal to bacterial nematodes directly reflects the food sources available
 in the soil.
@@ -58,7 +58,7 @@ herbivores) in check.
 ### 5. Omnivores
 
 Omnivorous nematodes eat any and all of the above, down to the merest fungal
-spore. Some even ingest [[protozoa-roles-in-soil]], [[teaming-with-microbes-specific-bacteria-fungi]]
+[[spore]]. Some even ingest [[protozoa-roles-in-soil]], [[teaming-with-microbes-specific-bacteria-fungi]]
 - [[teaming-with-microbes-plant-control]]
 ## Practical Considerations
 

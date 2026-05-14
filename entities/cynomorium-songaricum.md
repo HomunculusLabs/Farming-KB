@@ -24,7 +24,7 @@ The species is entirely parasitic on the roots of desert shrubs, primarily
 species of Nitraria (Nitrariaceae). It produces no chlorophyll and is visible
 above ground only during its flowering and fruiting period.
 
-C. songaricum occupies a unique neurotropic-fungi-japan-east-asia-species-cultural-context, where it has been used medicinally for
+C. songaricum occupies a unique [[neurotropic-fungi]]-japan-east-asia-species-cultural-context, where it has been used medicinally for
 over 1,200 years.
 
 ## Taxonomy
@@ -79,7 +79,7 @@ and cannot tolerate waterlogged conditions.
 
 The primary host plants are Nitraria tangutorum and N. sibirica (desert
 buckthorn), both halophytic shrubs adapted to saline, arid soils. C.
-songaricum may also parasitize Tamarix and other desert shrubs.
+songaricum may also parasitize [[tamarix]] and other desert shrubs.
 
 ## See Also
 

@@ -67,8 +67,9 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 
-- [[jeavons-humus-formation-nutrient-exchange-composting]]
-- [[jeavons-tools-equipment-biointensive]]
+- [[jeavons-carbon-farming]]
+- [[jeavons-energy-fiber-crops]]
+- [[jeavons-weed-management]]
 
 ## Overview
 
@@ -146,5 +147,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also

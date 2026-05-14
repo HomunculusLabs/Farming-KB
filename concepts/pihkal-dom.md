@@ -14,7 +14,7 @@ type: concept
 
 [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
-DOM represents the alpha-methylated version of 2C-D. Its effects persist for
+[[dom]] represents the alpha-methylated version of 2C-D. Its effects persist for
 14 to 20 hours or more, making it one of the longest-acting classical
 psychedelics. This extreme duration, combined with high potency, demands the
 utmost respect and caution. Despite its controversial history, DOM remains

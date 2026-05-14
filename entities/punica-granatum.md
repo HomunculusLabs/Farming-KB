@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Levin, G.M. (2006). "Pomegranate Roads: A Soviet Botanist's Exile from Eden." Floreant Press.
-  - Jurenka, J. (2008). "cannabis-root-rot-prevention-and-treatment of Inflammation and Cancer." Journal of Ethnopharmacology 109(2): 177-206.
+  - Jurenka, J. (2008). "[[cannabis-root-rot-prevention-and-treatment]] of Inflammation and Cancer." Journal of Ethnopharmacology 109(2): 177-206.
 ---
 
 ## Overview

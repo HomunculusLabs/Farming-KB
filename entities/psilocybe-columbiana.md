@@ -1,5 +1,5 @@
 ---
-title: [[psilocybe-columbiana-south-american-neurotropic-species-guzman-1998]]
+title: "Psilocybe Columbiana"
 created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, temperate, south-america]

@@ -1,5 +1,5 @@
 ---
-title: "Oss & Oeric: Rice Cake Tek and [[bigwood-beug-cultivation-methodology]]"
+title: "Oss Oeric Rice Cake Tek Methodology"
 created: 2026-04-28
 tags: [mycology, cultivation, substrate-preparation, oss-oeric]
 date: 2026-04-28

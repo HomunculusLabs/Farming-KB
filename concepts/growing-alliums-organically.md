@@ -134,22 +134,16 @@ growing alliums organically and its applications. Active investigation
 areas include ecological interactions and optimization.
 Published findings contribute to an evolving evidence base.
 
-## Historical Context
-
-Growing Alliums Organically has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
-
-## Integration Strategies
-
-Successful integration of growing alliums organically into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
 ## See Also
 
+- [[growing-asparagus]]
 - [[growing-by-chunking-guide]]
-- [[growing-chicories-endive-radicchio]]
-- [[growing-legumes-organically]]
+- [[growing-celery-and-celeriac]]
+- [[growing-chinese-cabbage]]
+- [[growing-cucurbits-squash-and-melons]]
+- [[growing-kohlrabi-turnips-and-rutabagas]]
+- [[growing-leeks]]
+- [[growing-legumes-beans-and-peas]]
+- [[growing-okra]]
+- [[growing-sweet-corn]]
+- [[growing-tomatoes-peppers-and-eggplant]]

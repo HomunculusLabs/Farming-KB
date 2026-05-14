@@ -47,7 +47,7 @@ The awareness of diet-disease relationships led to the concept of "functional fo
 "In the Orient several thousand years ago, there was the recognition that many edible and certain non-edible mushrooms could have valuable health benefits."
 
 ### Two Categories of Medicinal Mushrooms
-1. **Edible with medicinal properties**: Lentinus (Shiitake), Auricularia, Hericium, Grifola, Flammulina, Pleurotus, Tremella
+1. **Edible with medicinal properties**: Lentinus (Shiitake), Auricularia, Hericium, Grifola, Flammulina, [[pleurotus]], Tremella
 2. **Purely medicinal (non-edible)**: Ganoderma (coarse/hard texture, bitter taste), Trametes (Coriolus)
 
 ### Historical Preparation Methods

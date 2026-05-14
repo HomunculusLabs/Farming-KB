@@ -20,7 +20,7 @@ for users seeking to optimize or standardize their dosage.
 ## Bigwood and Beug Findings
 
 The study analyzed cap and stem tissues separately from three distinct
-strains of Psilocybe cubensis cultivated on rye-grain substrate. All
+strains of [[psilocybe-cubensis]] cultivated on rye-grain substrate. All
 samples were from first-flush fruitings, providing a consistent baseline
 for comparison. The results revealed notable strain-dependent differences
 in how alkaloids partition between cap and stem tissues:

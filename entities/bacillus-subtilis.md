@@ -68,7 +68,7 @@ genetic manipulation.
 Primarily an obligate aerobe but grows anaerobically via nitrate respiration
 or mixed-acid fermentation. Optimal growth: 30–37°C, pH 6.5–7.5, with
 tolerance from pH 4.5–9.0 and 5–50°C. Catalase- and oxidase-positive.
-Utilizes diverse carbon sources including glucose, glycerol, starch, and amino
+Utilizes diverse carbon sources including glucose, [[glycerol]], starch, and amino
 acids. Produces extracellular amylases, proteases, cellulases, lipases, and
 xylanases. Colonies on agar are large, irregular, matte, becoming wrinkled
 and leathery with sporulation.

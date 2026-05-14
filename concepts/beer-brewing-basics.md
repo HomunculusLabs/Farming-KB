@@ -43,7 +43,7 @@ Provide bitterness (to balance malt sweetness), flavor, and aroma. Also act as a
 ### Yeast
 Converts sugars to alcohol and CO2. The single most important ingredient for beer quality.
 
-- Ale yeast (Saccharomyces cerevisiae): top-fermenting, works at 60-75F. Produces fruity esters. Ferments in 1-2 weeks.
+- Ale yeast ([[saccharomyces-cerevisiae]]): top-fermenting, works at 60-75F. Produces fruity esters. Ferments in 1-2 weeks.
 - Lager yeast (Saccharomyces pastorianus): bottom-fermenting, works at 45-55F. Cleaner, crisper flavor. Requires cold fermentation and lagering (cold storage for weeks to months).
 - Dry yeast: convenient, long shelf life, good for beginners. Rehydrate before pitching.
 - Liquid yeast: wider variety of strains, fresher, more expensive. Requires a starter for high-gravity beers.

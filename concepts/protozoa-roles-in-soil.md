@@ -27,7 +27,7 @@ micrometers versus 1 to 4 micrometers), they are still microscopic.
 
 ### Amoebae
 
-Amoebae are pseudopods -- single-celled organisms with amorphous forms. They
+[[amoebae]] are pseudopods -- single-celled organisms with amorphous forms. They
 move by pouring their cytoplasm into false appendages called pseudopodia ("false
 feet"). They lack a mouth and ingest bacteria by surrounding and engulfing them
 in gas bubbles, transmitting digestive enzymes into the vesicle. Amoebae are

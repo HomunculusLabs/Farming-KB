@@ -1,5 +1,5 @@
 ---
-title: "Bloomfield Fungal Pathogens Human Opportunistic Infections"
+title: Bloomfield Fungal Pathogens Human Opportunistic Infections
 source: Mr. Bloomfield's Orchard - Nicholas P. Money
 tags: [mycology, fungi, bloomfield, human-pathogens, mycoses, candidiasis, cryptococcosis, immunocompromised, antifungal-resistance]
 created: 2026-05-11
@@ -21,11 +21,11 @@ the naked ape king of the jungle, or the king's dinner?
 ## The Laboratory as Battleground
 
 Money illustrates the ever-present threat of fungal infection through a vivid
-anecdote from his graduate years in John Webster's laboratory at the
+anecdote from his graduate years in [[bloomfield-john-webster-ballistospore-discharge-discovery]]'s laboratory at the
 University of Exeter. A researcher named Jack Fisher isolated fungi from all
 kinds of places—dermatophytes that caused ringworm, vaginal yeasts, and
 lung-infecting pathogens—and sold the cultures to a pharmaceutical company.
-With stacks of agar plates filling incubators and tottering on bench space,
+With stacks of [[query-how-to-make-agar-plates-for-mushroom-cultivation]] filling incubators and tottering on bench space,
 the lab was not a healthy environment. During three years at Exeter, Money
 acquired a case of jock itch that resisted a battery of antifungal creams,
 and a fellow student's feet were eaten by athlete's foot. A tarantula died
@@ -58,7 +58,7 @@ almost always associated with damage to the immune system. Fluconazole is
 highly effective against most Candida infections, but recent encounters with
 drug-resistant strains have heightened the demand for new therapeutic
 approaches. Medical mycologists have sought magic bullets—single enzymes
-whose inhibition would stop pathogenic fungi—but have found that tissue
+whose inhibition would stop [[cordyceps-insect-pathogenic-fungi]]—but have found that tissue
 but have found that tissue invasion involves the coordinated action of many
 genes and proteins. Disruption of individual secreted enzymes fails to reduce
 virulence in laboratory mice, suggesting there is no single magic bullet

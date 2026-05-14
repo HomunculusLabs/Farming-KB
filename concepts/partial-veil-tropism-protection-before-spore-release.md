@@ -13,8 +13,8 @@ The partial veil (also called the inner veil or cortina) is a membranous tissue 
 - Growth is into the wind, regardless of light direction
 - Both fertile and sterile basidiocarps show this response
 
-**Phase 2 (Stage 3+): Negative Geotropism**
-- As spore production begins, a negative geotropic response emerges
+**Phase 2 (Stage 3+): [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]**
+- As spore production begins, a negative [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] emerges
 - The pileus turns upward, opening with lamellae facing downward
 - This reorientation requires gill-produced substances (hormones)
 - Sporeless mutants do NOT exhibit this negative geotropic response
@@ -39,7 +39,7 @@ By covering the upper stipe and gills, the partial veil ensures that:
 
 ## Timing of Veil Rupture and the Tropic Switch
 
-The rupture of the partial veil typically coincides with the transition from Phase 1 to Phase 2 in mushroom development. This synchrony is not coincidental — it represents a coordinated developmental program:
+The rupture of the partial veil typically coincides with the transition from Phase 1 to Phase 2 in [[acropetal-cell-expansion-stipe-elongation-mushroom-development]]. This synchrony is not coincidental — it represents a coordinated developmental program:
 
 - As the pileus expands during Stage 2, mechanical tension on the veil increases
 - The veil ruptures when the pileus has expanded sufficiently to begin opening
@@ -77,7 +77,7 @@ The presence or absence of a partial veil may correlate with the strength of the
 ## Overview
 
 Partial Veil Tropism Protection Before Spore Release represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -106,7 +106,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 partial veil tropism protection before spore release and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

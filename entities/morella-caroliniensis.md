@@ -64,7 +64,7 @@ The species favors sandy soils in wetland margins, pine flatwoods edges, and coa
 
 Elevation ranges from sea level to approximately 50 meters. It is absent from the Piedmont and mountainous regions, being strictly a coastal plain taxon. Populations are generally associated with acidic, sandy, or peaty substrates.
 
-The species tolerates periodic salt spray and brief saltwater inundation during storm events. It is more salt-sensitive than *M. cerifera*, which limits its distribution on exposed barrier islands. Optimal soil pH ranges from 4.0 to 6.0.
+The species tolerates periodic salt spray and brief saltwater inundation during storm events. It is more salt-sensitive than *M. cerifera*, which limits its distribution on exposed barrier islands. Optimal [[soil-ph]] ranges from 4.0 to 6.0.
 
 Mean annual precipitation across its range is 1000 to 1500 mm. It is most competitive in areas with high water tables and frequent growing-season precipitation that maintains soil moisture.
 

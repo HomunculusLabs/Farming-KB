@@ -7,7 +7,7 @@ tags: [permaculture-plants, tagasaste, tree-lucerne, nitrogen-fixing, pioneer, f
 
 # Tagasaste (Chamaecytisus palmensis): Comprehensive Profile
 
-Tagasaste, also known as tree lucerne, is a nitrogen-fixing leguminous tree
+Tagasaste, also known as [[canary-island-tree-lucerne-mollison]], is a nitrogen-fixing [[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]
 native to the Canary Islands and one of the most useful pioneer species in
 [[free-range-poultry-forage-design-mollison]], firewood, and soil improvement. Its
 remarkable productivity on marginal land has made it a cornerstone of
@@ -29,7 +29,7 @@ remarkable productivity on marginal land has made it a cornerstone of
 
 Tagasaste thrives on a wide range of soils, including near-useless sandy soils
 capable of yielding only 700 kg of wheat per hectare. Liberal application of
-rock phosphate at planting time works well. The nitrogen-fixing bacteria
+[[comparison-gypsum-vs-rock-phosphate]] at planting time works well. The nitrogen-fixing bacteria
 generally does not need introduction with the plant, as it is usually present
 in the soil from other legume species including Acacia spp, Albizia spp, and
 Cassia spp. (see [[permplant-tagasaste-pioneer-fodder-tree]]).
@@ -48,7 +48,7 @@ Tagasaste foliage compares favorably with conventional stock feeds:
 | Phosphorus (P) | 0.12-0.41% | 0.33% | 0.26% | 0.24% | 0.24% |
 
 The crude protein range of 17-31% is exceptional, exceeding lucerne at the
-upper end. Low toxicity and high palatability make it readily accepted by
+upper end. [[fukuoka-low-toxicity-pesticide-deception]] and high palatability make it readily accepted by
 sheep, cattle, horses, pigs, and rabbits.
 
 ## Field Trial Results
@@ -80,7 +80,7 @@ escalates dramatically as the stand matures (tonnes dry matter per hectare):
 | 5 | 16 t | 1.0 t |
 | 6 | 19 t | 1.0 t |
 
-Stocking rates (sheep per hectare) reach 35 on tagasaste alone by year six,
+[[aquaculture-pond-yields-and-stocking-rates]] (sheep per hectare) reach 35 on tagasaste alone by year six,
 or 37 when combined with pasture—compared to just 1 sheep per hectare on
 degraded pasture alone. Combined tagasaste and pasture systems provide useful
 grazing from year one.

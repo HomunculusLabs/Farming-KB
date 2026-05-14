@@ -6,11 +6,11 @@ type: concept
 
 # Mycelium-Based Materials and Products
 
-Mycelium — the vegetative body of fungi — is increasingly recognized as a versatile raw material for manufacturing sustainable consumer goods. From packaging and insulation to building materials and textiles, mycelium-based products represent a growing field that merges mushroom cultivation with materials science and product design. These innovations offer biodegradable alternatives to petroleum-based plastics, synthetic foams, and chemically treated materials.
+Mycelium — the vegetative body of fungi — is increasingly recognized as a versatile raw material for manufacturing sustainable consumer goods. From packaging and insulation to building materials and textiles, mycelium-based products represent a growing field that merges [[mushroom-cultivation]] with materials science and product design. These innovations offer biodegradable alternatives to petroleum-based plastics, synthetic foams, and chemically treated materials.
 
 ## Packaging
 
-The commercial use of myceliated biomass for packaging was pioneered by companies such as **Ecovative Design**, which demonstrated that fungal mycelium grown on agricultural waste could replace expanded polystyrene (Styrofoam) and other synthetic packaging materials. This work opened the door to broader experimentation by both research institutions and home growers.
+The commercial use of myceliated biomass for packaging was pioneered by companies such as **[[ecovative-design]]**, which demonstrated that fungal mycelium grown on agricultural waste could replace expanded polystyrene (Styrofoam) and other synthetic packaging materials. This work opened the door to broader experimentation by both research institutions and home growers.
 
 ### Living Packaging Systems
 
@@ -20,7 +20,7 @@ A key advantage of myceliated paper products is their initial **hydrophobicity**
 
 ### Production at Scale
 
-Mushroom cultivators can recycle a percentage of their spent growing media by shredding it, mixing it with waste paper, and hydropulping it into new cardboard or paper products. Spent oyster mushroom columns or sawdust-based fruiting substrate are ideal feedstocks. Hydropulpers can be purchased used, or cultivators can collaborate with existing box production companies to develop custom mycelium-infused packaging.
+Mushroom cultivators can recycle a percentage of their spent growing media by shredding it, mixing it with waste paper, and hydropulping it into new cardboard or paper products. Spent [[oyster-mushroom]] columns or sawdust-based fruiting substrate are ideal feedstocks. Hydropulpers can be purchased used, or cultivators can collaborate with existing box production companies to develop custom mycelium-infused packaging.
 
 ## Insulation
 
@@ -51,7 +51,7 @@ Mycelium blocks adhere to one another with a light application of moisture betwe
 
 If kept dry, blocks of mycelium can last indefinitely. The most promising mushroom species for construction applications include:
 
-- **Oyster mushrooms** (*Pleurotus* spp.): Fast colonization, good structural properties
+- **[[oyster-mushrooms]]** (*Pleurotus* spp.): Fast colonization, good structural properties
 - **Reishi** (*Ganoderma* spp.): Forms a dense, rubber-like material that holds its shape and repels water
 
 ### Rubber and Textile Applications
@@ -71,7 +71,7 @@ Surfaces that spread infection are often treated with synthetic antimicrobial co
 Old hardwood cutting boards from thrift stores are ideal candidates — the wood is still biologically active and will support fungi, but will not rapidly degrade since it remains dry most of the time.
 
 **Materials needed:**
-- Pure mushroom spawn (sawdust, colonized cardboard, or colonized coffee grounds)
+- Pure [[mushroom-spawn]] (sawdust, colonized cardboard, or colonized coffee grounds)
 - Hardwood cutting board
 - Large plastic bag
 - Pot of boiling water (or heat-proof tray)

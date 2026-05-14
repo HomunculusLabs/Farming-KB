@@ -32,7 +32,7 @@ L-ornithine is a non-proteinogenic alpha-amino acid.
 It is a central recyclable carrier in the mammalian [[l-citrulline]] is produced directly from ornithine in the urea cycle.
 carbamoyl phosphate donates the carbamoyl group to ornithine.
 arginine is hydrolyzed to regenerate ornithine and release urea.
-putrescine is formed from ornithine by decarboxylation.
+putrescine is formed from ornithine by [[decarboxylation]].
 spermidine and spermine are downstream polyamines.
 ammonia is the toxic nitrogen source that the urea cycle helps eliminate.
 urea is the excreted nitrogen product produced after ornithine is regenerated.

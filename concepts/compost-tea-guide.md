@@ -118,7 +118,7 @@ Ingham recommends microscope assessment at 400x magnification:
 | Flagellates | Small motile cells | 1000-10000/g |
 | Amoebae | Large, moving, irregular shape | 100-10000/g |
 | Ciliates | Large, fast-moving, oval | Low numbers (high = anaerobic) |
-| Bacterial-feeding nematodes | Small, transparent,蠕动 | 10-100/g |
+| Bacterial-feeding nematodes | Small, transparent, wriggling | 10-100/g |
 | Fungal-feeding nematodes | Stylet visible, slow | 5-50/g |
 | Predatory nematodes | Large mouth, fast | 1-5/g |
 

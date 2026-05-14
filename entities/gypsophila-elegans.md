@@ -23,7 +23,7 @@ sources:
 
 The species produces airy clouds of small white to pale pink flowers on slender, branching stems. This delicate, ethereal bloom habit has made it a popular filler flower in arrangements and bouquets.
 
-Unlike the perennial *Gypsophila paniculata*, annual baby's breath completes its lifecycle in a single growing season. This makes it useful for quick-fill plantings in borders and container displays.
+Unlike the perennial *[[gypsophila-paniculata]]*, annual baby's breath completes its lifecycle in a single growing season. This makes it useful for quick-fill plantings in borders and container displays.
 
 The genus name *Gypsophila* means "chalk-loving," reflecting the preference of many species for calcareous soils. The specific epithet *elegans* refers to the graceful, refined appearance of the flowers.
 

@@ -88,4 +88,4 @@ to inform current best practices and research directions.
 ## See Also
 - [[maps]]
 - [[det]]
-- [[shamanism]]
+- shamanism

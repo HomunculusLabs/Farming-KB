@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Okra (Abelmoschus esculentus) is a warm-season crop that thrives in hot weather. Steve Solomon treats it as a perfect crop for periodic fertigation and notes it makes a deeply penetrating root system that can survive on minimal moisture if necessary.
+Okra ([[abelmoschus-esculentus]]) is a warm-season crop that thrives in hot weather. [[steve-solomon]] treats it as a perfect crop for periodic fertigation and notes it makes a deeply penetrating root system that can survive on minimal moisture if necessary.
 
 ## Growing Requirements
 
@@ -69,9 +69,9 @@ and process. Ribbed varieties like Star of David and Burgundy produce
 more visually distinctive pods with better heat tolerance but
 require more careful handling during harvest.
 
-For permaculture and home garden settings, dwarf varieties like
+For permaculture and [[cool-climate-home-garden-and-seed-saving]] settings, dwarf varieties like
 Little Lucy and Baby Bubba mature at just 18-24 inches tall, making
-them suitable for container growing and small spaces. Cow Horn okra
+them suitable for [[container-growing-vegetables-herbs]] and small spaces. Cow Horn okra
 is a heirloom variety that produces exceptionally long pods (up to
 14 inches) and continues producing through summer heat that shuts
 down other varieties. Red okra varieties like Burgundy add visual
@@ -85,6 +85,6 @@ pods. Daily harvesting during peak production encourages continued
 flowering and extends the harvest period. Over-mature pods become
 woody and fibrous, signaling the plant to stop producing.
 
-Succession planting every 3-4 weeks ensures continuous harvest
-through the growing season. In warm climates (USDA zones 8-11),
+[[succession-planting]] every 3-4 weeks ensures continuous harvest
+through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. In warm climates (USDA zones 8-11),
 three successions typically provide uninterrupted production from

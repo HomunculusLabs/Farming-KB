@@ -1,5 +1,5 @@
 ---
-title: Village Energy Systems [[permaculture-energy-systems-and-conversion-efficiency]]
+title: "Village Energy Systems And Conversion Efficiency"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -148,4 +148,3 @@ ecological systems upon which the community depends.
 A 15% efficient technology that meets all these criteria is vastly preferable to a 90%
 efficient technology that poisons the air, bankrupts the community, or creates intractable
 waste problems. Holistic assessment therefore prioritises appropriateness, resilience, and
-ecological integration above raw thermodynamic performance.

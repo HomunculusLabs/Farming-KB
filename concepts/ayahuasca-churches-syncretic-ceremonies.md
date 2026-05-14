@@ -28,7 +28,7 @@ The [[dmt-hyperspace-entities]]
 
 ## Sources
 - Metzner, R. (1998). [[ayahuasca]]
-- [[shamanism]]
+- shamanism
 - [[bwiti]]
 
 ## Overview

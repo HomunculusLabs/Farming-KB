@@ -1,5 +1,5 @@
 ---
-title: "What Are the Different [[espalier-fruit-tree-training-and-design]] Systems and Which Should I Use?"
+title: "Query What Are The Different Fruit Tree Training Systems And Which Should I Use"
 tags: [query, fruit-trees, pruning, training, espalier]
 date: 2026-05-11
 updated: 2026-05-11

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In arid landscapes, the most critical factor for human settlement is not food but water. [[bill-mollison]]'s analysis of desert settlement focuses on the geological features that make habitation possible — particularly scarps, box canyons, wadis, and pediments — and the strategies desert peoples have developed over millennia to locate, collect, and conserve water in these environments.
+In arid landscapes, the most critical factor for human settlement is not food but water. [[bill-mollison]]'s analysis of desert settlement focuses on the geological features that make habitation possible — particularly scarps, box canyons, wadis, and pediments — and the [[condensation-strategies-desert-agriculture]] peoples have developed over millennia to locate, collect, and conserve water in these environments.
 
 ## Desert Erosion Geology
 
@@ -28,7 +28,7 @@ The pediment is the sloping plain at the base of the scarp. It connects to the [
 ## Optimal Dwelling Placement
 
 ### The Notch at the Scarp Base
-Water falling from the top of the scarp hits the pediment and splashes, cutting a **notch** at the base. This notch is a key water collection point. In arid regions worldwide — Anatolia, Turkey, southern Iran, Egypt, the American Southwest — people have carved dwellings into these soft scarps using primitive tools.
+Water falling from the top of the scarp hits the pediment and splashes, cutting a **notch** at the base. This notch is a key water collection point. In [[fukuoka-natural-farming-in-arid-regions]] worldwide — Anatolia, Turkey, southern Iran, Egypt, the American Southwest — people have carved dwellings into these soft scarps using primitive tools.
 
 ### Thermal Advantages of Cliff Dwellings
 Once you are approximately 16 feet into rock, temperature variation becomes practically nil. The dwelling in the desert properly sits under the cliff:
@@ -75,7 +75,7 @@ Given water, the growth potential in deserts is enormous:
 - Soils are **unexploited** — fresh mineral, every sort of mineral in abundance
 - Growth response is very fast — fruiting grapes from cuttings within 15 months
 - Suitable crops include **citrus, grapes, apricots, pistachios, almonds**, and melon crops
-- All deserts have natural melons (e.g., the Australian paddy melon)
+- All deserts have natural melons (e.g., the Australian [[paddy-melon-mollison]])
 - Most normal vegetable crops can grow in the desert
 - Dates grow in soaked desert sands where soils remain saturated after rain
 
@@ -107,7 +107,7 @@ Enormous tubers grow from desert legumes, some weighing 300-400 pounds. These re
 
 ### Rock-Carved Dwellings
 Desert scarps are carved into dwellings in many cultures:
-- American Indians of the Southwest have long inhabited scarp niches
+- [[yage-common-themes-south-american-indians]] of the Southwest have long inhabited scarp niches
 - Anatolian, Iranian, and Egyptian desert peoples carve into soft rock that hardens on air exposure
 - Primitive tools suffice for hewing reasonable dwellings
 
@@ -131,5 +131,5 @@ Desert settlements face threats from feral animals, particularly in Australia:
 5. **Store water in sand** — prevents evaporation and protects from animals
 6. **Bore near the pediment** — closest to fresh water with lowest salinity
 7. **Design for three-year drought cycles** — storage systems must sustain settlement through extended dry periods
-8. **Use the complete desert ecology** — integrate plants, animals, and storage strategies into a self-sustaining system
+8. **Use the complete [[dryland-strategies-and-desert-ecology]]** — integrate plants, animals, and [[yield-extension-and-storage-strategies]] into a self-sustaining system
 - [[arid-landscape-scarp-wadi-desert-settlement]]

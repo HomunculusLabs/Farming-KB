@@ -67,7 +67,7 @@ Traditional and potential margin crops for taro systems include:
 
 - **Ti** (Cordyline) — the Polynesian "wax paper" and wrapper for baked foods
 - **Papaya, banana, coconut, and sugar cane** as fruit and structural crops
-- **[[dolichos]] hosei or [[phyla-nodosa]]** on bunds as nitrogenous mulch sources, trimmed at water level by Tilapia or grass carp
+- **[[dolichos]] hosei or [[phyla-nodosa-mollison]]** on bunds as nitrogenous mulch sources, trimmed at water level by Tilapia or grass carp
 - **Vine crops** — taro appreciates partial shade, creating potential for kiwifruit, passionfruit, pole bean, or cucurbit crops on margins or wide-spaced overhead
 
 ## Livestock Integration

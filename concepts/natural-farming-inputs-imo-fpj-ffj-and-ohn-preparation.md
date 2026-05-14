@@ -6,7 +6,7 @@ type: concept
 
 # Natural Farming Inputs: IMO, FPJ, FFJ, and OHN Preparation
 
-This concept covers the practical preparation methods for Dr. Cho's core Natural Farming inputs: Indigenous Microorganisms (IMO) at multiple stages, [[fermented-plant-juice]] (FPJ), Fermented Fruit Juice (FFJ), and [[oriental-herbal-nutrient]] (OHN). These inputs form the backbone of the NF system, replacing all chemical fertilizers and pesticides.
+This concept covers the practical preparation methods for Dr. Cho's core Natural Farming inputs: [[beneficial-indigenous-microorganisms]] (IMO) at multiple stages, [[fermented-plant-juice]] (FPJ), Fermented Fruit Juice (FFJ), and [[oriental-herbal-nutrient]] (OHN). These inputs form the backbone of the NF system, replacing all [[cannabis-chemical-fertilizers]] and pesticides.
 
 ## Indigenous Microorganisms (IMO) Multi-Stage Preparation
 
@@ -23,7 +23,7 @@ IMO-1 mixed with equal weight rice bran at 65-70% moisture, covered with straw f
 1. Dilute IMO-2 with water (1:1000) and mix with rice bran or flour at 65-70% moisture
 2. Stack on **soil floor** (not concrete) in heaps 30-40cm high
 3. Cover with paddy straw; maintain 70% shade, 30% light
-4. Temperature management is critical:
+4. [[cervantes-reservoir-temperature-management]] is critical:
    - **Below 40°C**: Anaerobic condition, excessive moisture
    - **40-50°C**: Ideal — turn the heap
    - **Above 70°C**: Proteins broken down by thermophiles, nutrients lost
@@ -31,14 +31,14 @@ IMO-1 mixed with equal weight rice bran at 65-70% moisture, covered with straw f
 6. Emits pleasant smell (Absida, Aspergillus, Mucor, Rhizopus)
 7. Moisture drops from 65-70% to ~40%
 
-**Key Microbes**: Aspergillus oryzae, Bacillus subtilis
+**Key Microbes**: Aspergillus oryzae, [[bacillus-subtilis]]
 
 **Storage**: In jute/gunny/cloth bags in shaded, cool place. IMOs enter dormant phase at 20-30% moisture. No turning needed during storage.
 
 ## Fermented Plant Juice (FPJ)
 
 ### Principle
-Extracts nutrients from fast-growing plant tips during their peak growth period. The plant's growth energy is captured in the fermentation process.
+Extracts nutrients from fast-growing plant tips during their peak growth period. The plant's growth energy is captured in the [[mushroom-compost-fermentation-process]].
 
 ### Materials
 - Plant parts (shoot tips, young leaves of fast-growing plants)
@@ -62,7 +62,7 @@ Extracts nutrients from fast-growing plant tips during their peak growth period.
 - Avoid picking during excessive heat or rain
 
 ### Important Notes
-- **Do NOT use molasses** — too much moisture, insufficient osmotic pressure
+- **Do NOT use molasses** — too much moisture, insufficient [[fungal-fruiting-body-mechanics-osmotic-pressure]]
 - **Do NOT wash ingredients** — natural surface microorganisms needed for fermentation
 - Fill jar only **2/3 full** for gas expansion space
 - Small bubbles or fungi indicate insufficient brown sugar or unbalanced volume
@@ -131,3 +131,7 @@ These inputs are not applied randomly but follow the **Nutritive Cycle Theory**:
 5. **Cool, dark storage**: Extends shelf life significantly
 6. **Flexible substitution**: Farmers can experiment with local plant alternatives
 7. **Timing matters**: Harvest plant materials at their peak growth energy
+
+## See Also
+
+- [[natural-farming-fpj-preparation]]

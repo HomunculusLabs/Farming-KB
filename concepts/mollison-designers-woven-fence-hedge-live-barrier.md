@@ -1,12 +1,12 @@
 ---
-title: mollison designers woven fence hedge live barrier Hedge Live Barrier
+title: Mollison Designers Woven Fence Hedge Live Barrier
 created: 2026-04-28
 tags:
-  - agroforestry
+  - [[agroforestry]]
   - farm-infrastructure
   - windbreak-design
   - livestock-management
-  - permaculture-design
+  - [[permaculture-design]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -28,7 +28,7 @@ type: concept
 
 - **Wood and craft products:** Hedgerow management through periodic
   laying or coppicing produces poles, firewood, and craft materials.
-  mollison-windbreak-design in [[comparison-rotational-grazing-vs-continuous-grazing]] systems, living fences define permanent paddock
+  mollison-windbreak-design in [[comparison-rotational-grazing-vs-continuous-grazing]] systems, [[comparison-living-fences-vs-hedgerows]] define permanent paddock
 boundaries while portable electric fencing provides temporary internal
 subdivisions.
 

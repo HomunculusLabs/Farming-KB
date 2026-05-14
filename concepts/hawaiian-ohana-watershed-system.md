@@ -19,7 +19,7 @@ limits while producing abundant food.
 
 Hawaiian high islands create distinct microclimate zones driven by their
 topography and the prevailing trade winds. The windward (northeast) slopes
-receive heavy orographic rainfall as moist air is forced upward, producing lush
+receive heavy [[cloud-seeding-and-orographic-rainfall]] as moist air is forced upward, producing lush
 wet forests on the upper ridges. The leeward (southwest) slopes lie in a rain
 shadow, resulting in significantly drier conditions. This gradient from wet to
 dry across a single island creates a natural zonation that the Ohana system
@@ -72,7 +72,7 @@ narrow valleys.
 
 ## Taro Cultivation and Paddy Fields
 
-Taro (*Colocasia esculenta*, known as *kalo* in Hawaiian) was the staple crop
+Taro (*[[colocasia-esculenta]]*, known as *kalo* in Hawaiian) was the staple crop
 and the most sacred plant in Hawaiian culture. Taro paddy fields were
 constructed on the ridge points and upper slopes where water from the forested
 catchment could be directed into flooded terraces. The paddies served multiple
@@ -80,7 +80,7 @@ functions: they produced a carbohydrate-rich staple food, they filtered and
 slowed water movement downslope, and their nutrient-rich overflow was channeled
 to systems below.
 
-Sweet potato (*Ipomoea batatas*) was grown on the drier leeward slopes and
+Sweet potato (*[[ipomoea-batatas]]*) was grown on the drier leeward slopes and
 mid-elevations where flooding was not feasible, complementing taro as a drought-
 tolerant staple.
 
@@ -128,7 +128,7 @@ difficult under current legal frameworks.
 
 ## Ecological Principles Demonstrated
 
-The Hawaiian Ohana system exemplifies several core permaculture principles:
+The Hawaiian Ohana system exemplifies several core [[mollisonian-permaculture-principles]]:
 
 - **Integrated element placement**: Every component—forest, taro, fish pond—
   serves multiple functions and supports the others.
@@ -137,12 +137,12 @@ The Hawaiian Ohana system exemplifies several core permaculture principles:
 - **Watershed-scale design**: Management boundaries follow ecological boundaries
   rather than arbitrary property lines.
 - **Edge effect and zone planning**: The system exploits the transitions between
-  forest, agriculture, and aquatic environments for maximum productivity.
+  forest, agriculture, and [[fungal-roles-aquatic-environments]] for maximum productivity.
 - **Small and slow solutions**: Stone wall terraces and hand-built fish ponds
   work with natural processes rather than against them.
 
 The Ohana system remains a powerful model for how human communities can design
 settlements that regenerate rather than degrade their environments, and it
-continues to inspire permaculture designers working in tropical and island
+continues to inspire [[bill-mollison]] working in tropical and island
 ecosystems worldwide.
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]

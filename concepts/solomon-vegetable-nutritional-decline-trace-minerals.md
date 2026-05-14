@@ -16,7 +16,7 @@ type: concept
 
 # Vegetable Nutritional Decline and Trace Minerals
 
-One of Steve Solomon's most compelling arguments in "Gardening When It
+One of [[steve-solomon]]'s most compelling arguments in "Gardening When It
 Counts" is that modern vegetables are significantly less nutritious than
 those grown by earlier generations. This page covers his analysis of why
 nutrition has declined and what gardeners can do about it through

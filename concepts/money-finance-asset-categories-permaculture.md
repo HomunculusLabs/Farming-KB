@@ -1,5 +1,5 @@
 ---
-title: Money, Finance, [[community-money-and-asset-categories]] in Permaculture
+title: "Money Finance Asset Categories Permaculture"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -78,4 +78,4 @@ Communities must also distinguish between **locally conserved resources** (the b
 ## See Also
 
 - [[informal-and-formal-community-economics]] Community Economies]([[informal-formal-community-economies]].md) — on LET systems, barter clubs, and cooperatives
-- [[effective-working-groups-right-livelihood]], Commonwork, [[right-livelihood-commonwork-and-balanced-living]]](right-livelihood-commonwork-and-balanced-living.md) — on the work structures these financial systems support
+- [[effective-working-groups-right-livelihood]], Commonwork, [[right-livelihood-commonwork-and-balanced-living]](right-livelihood-commonwork-and-balanced-living.md) — on the work structures these financial systems support

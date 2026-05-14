@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2810 pages**
+**2798 pages**
 
 ## #
 
@@ -2291,11 +2291,9 @@
 - [[protozoa-nematode-nutrient-cycling-ingham]]
 - [[pseudomonas-endophyte-cannabis-endorhiza-plant-growth-promotion]]
 - [[psilocybe-as-dominant-neurotropic-fungus-genus]]
-- [[psilocybe-aztecorum-profile]]
 - [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
 - [[psilocybe-baeocystis-profile]]
 - [[psilocybe-bohemica-central-european]]
-- [[psilocybe-caerulescens-profile]]
 - [[psilocybe-columbiana-south-american-neurotropic-species-guzman-1998]]
 - [[psilocybe-coprophila-profile]]
 - [[psilocybe-cubensis-mycelial-growth-optimization]]
@@ -2303,7 +2301,6 @@
 - [[psilocybe-cubensis-profile]]
 - [[psilocybe-cyanescens-profile]]
 - [[psilocybe-genus-classification]]
-- [[psilocybe-genus-overview]]
 - [[psilocybe-global-biogeography]]
 - [[psilocybe-mexicana-profile]]
 - [[psilocybe-natalensis-african-species]]
@@ -2611,13 +2608,6 @@
 - [[stamets-psi-psilocybe-cyanescens-species-guide]]
 - [[stamets-psi-psilocybe-mexicana-species-guide]]
 - [[stamets-psi-psilocybe-stuntzii-blue-ringers]]
-- [[stamets-psylo-global-distribution-ecology]]
-- [[stamets-psylo-identification-macroscopic-microscopic]]
-- [[stamets-psylo-psilocybe-cubensis]]
-- [[stamets-psylo-psilocybe-cyanescens]]
-- [[stamets-psylo-psilocybe-semilanceata]]
-- [[stamets-psylo-psilocybe-stuntzii]]
-- [[stamets-psylo-six-classic-habitats]]
 - [[stamets-saprophytic-mushroom-decomposer-succession]]
 - [[stamets-spore-mass-slurry-inoculation-mycelium-transplantation]]
 - [[stamets-truffle-orchard-failure-lessons-perigord-cultivation]]
@@ -2816,8 +2806,6 @@
 - [[tropical-soil-life-and-humus-sources]]
 - [[tropical-vs-temperate-distribution-neurotropic-fungi]]
 - [[tropical-vs-temperate-fungal-diversity]]
-- [[tropisms-psilocybe-cubensis-gravitropism]]
-- [[tropisms-psilocybe-cubensis-phototropism]]
 - [[truffle-auxin-root-morphogenesis]]
 - [[truffle-cultivation-basics]]
 - [[truffle-dog-training]]

@@ -25,7 +25,7 @@ material-only basis to enable fairer comparisons.
 
 ## See Also
 
-- [[biological-element-transport-soil-ph]]
+- [[biological-element-transport-and-soil-ph]]
 - [[biological-indicators-of-soil-conditions]]
 - [[oyster-mushroom]]
 - [[brassinosteroid]]

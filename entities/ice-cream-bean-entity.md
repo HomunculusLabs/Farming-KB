@@ -18,7 +18,7 @@ dual function makes it exceptionally valuable in tropical [[mollison-designers-l
   conventional monoculture approaches.
 represents one of the most diverse nitrogen-fixing tree genera
 available for [[black-locust-entity]]
-- tagasaste
+- [[tagasaste]]
 - Coffee
 ## Practical Applications
 

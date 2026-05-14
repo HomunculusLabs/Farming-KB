@@ -1,5 +1,5 @@
 ---
-title: [[bioregional-resource-monitoring]] Index — Food Systems
+title: "Bioregional Resource Index Food Systems"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

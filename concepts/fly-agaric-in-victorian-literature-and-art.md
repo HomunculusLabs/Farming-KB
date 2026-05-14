@@ -76,5 +76,5 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[dom]]
-- [[shamanism]]
+- shamanism
 - [[soma]]

@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Barkworth, M.E. et al. (2007). "Manual of Grasses for guzman-psilocybin-mushrooms-north-america." Intermountain Herbarium.
-  - Hitchcock, A.S. (1950). "Manual of the Grasses of the United States." USDA Misc. Publ. No. 200.
+  - Hitchcock, A.S. (1950). "Manual of the Grasses of the [[dmt-containing-plants-united-states-halpern]]." USDA Misc. Publ. No. 200.
   - USDA NRCS. "Koeleria macrantha." PLANTS Database.
   - Cope, T.A. & Gray, A. (2009). "Grasses of the British Isles." BSBI Handbook No. 13.
   - Darke, R. (2007). "The Encyclopedia of Grasses for Livable Landscapes." Timber Press.
@@ -43,9 +43,9 @@ Prairie junegrass is valued for its early-season forage quality, [[tropical-rain
 
 Koeleria macrantha is a cool-season (C3) perennial bunchgrass forming dense, compact tussocks 10–25 cm in diameter. Culms are slender, erect, and 20–60 cm tall, typically unbranched.
 
-Leaf blades are narrow, involute (rolled), and 5–20 cm long by 0.5–1.5 mm wide, appearing fine and hair-like. The upper leaf surface is scabrous to short-pilose, and the lower surface is smooth or sparsely hairy.
+Leaf blades are narrow, involute (rolled), and 5–20 cm long by 0.5–1.5 mm wide, appearing fine and hair-like. The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is scabrous to short-pilose, and the lower surface is smooth or sparsely hairy.
 
-The ligule is a short, truncate membrane, 0.5–1.5 mm long, often appearing as a fringed or irregular ridge. Sheaths are strongly compressed and keeled, a distinctive feature that aids field identification.
+The ligule is a short, truncate membrane, 0.5–1.5 mm long, often appearing as a fringed or irregular ridge. Sheaths are strongly compressed and keeled, a distinctive feature that aids [[amanita-muscaria-physical-description-field-identification]].
 
 The inflorescence is a narrow, dense, spicate to narrowly paniculate structure 3–10 cm long, silvery-green to golden at anthesis. Spikelets are 4–7 mm long, containing 2–4 florets, with glumes that are unequal and keeled.
 
@@ -53,7 +53,7 @@ The lemma bears a short awn, 0.5–2 mm long, attached near the tip. Anthers are
 
 ## Distribution and Habitat
 
-Koeleria macrantha has a circumboreal distribution spanning North America, Europe, and temperate Asia. In North America, it occurs from Alaska and the Yukon across Canada to Newfoundland, south to California, New Mexico, Texas, and the Carolinas.
+Koeleria macrantha has a circumboreal distribution spanning [[guzman-psilocybin-mushrooms-north-america]], Europe, and temperate Asia. In North America, it occurs from Alaska and the Yukon across Canada to Newfoundland, south to California, New Mexico, Texas, and the Carolinas.
 
 The species occupies a broad range of open habitats including dry prairies, sandhills, rocky slopes, open woodlands, alpine meadows, and coastal bluffs. It tolerates both acidic and calcareous substrates and is common on sandy, gravelly, and thin rocky soils.
 
@@ -69,7 +69,7 @@ Prairie junegrass is commercially available as seed from native grass suppliers.
 
 Seeding rates for pure stands are 3–5 kg PLS per hectare. In restoration mixes, it is commonly included at 5–15% by weight, serving as an early-season component that complements warm-season grasses.
 
-Establishment is slow but steady. Plants invest heavily in root development during the first year and typically produce seed heads in the second growing season. Full stand development requires 3–4 years.
+Establishment is slow but steady. Plants invest heavily in root development during the first year and typically produce seed heads in the second [[extending-growing-season]]. Full stand development requires 3–4 years.
 
 The species is highly drought-tolerant once established and requires no supplemental irrigation in regions receiving 25 cm or more annual precipitation. It thrives on nutrient-poor soils and does not respond to fertilization.
 
@@ -85,4 +85,4 @@ Crude protein content ranges from 8–15% during the [[cannabis-vegetative-stage
 
 The dense, fibrous root system contributes significantly to soil stability on dry, erosive sites. Root-to-shoot ratios of 3:1 or higher have been reported, reflecting the species' investment in below-ground biomass.
 
-Several Lepidoptera species use Koeleria as a larval host plant, including grassland skipper butterflies. The compact growth form provides nesting cover for ground-nesting birds in open habitats.
+Several Lepidoptera species use Koeleria as a larval host plant, including grassland skipper butterflies. The [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form provides nesting cover for ground-nesting birds in open habitats.

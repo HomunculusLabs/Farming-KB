@@ -15,8 +15,8 @@ Nitrogen fixers are among the most important support species in permaculture. Th
 ### Tree and Shrub Nitrogen Fixers
 
 - **Acacia spp. (Wattle)** — Pioneering nitrogen-fixing trees widespread across tropical, subtropical, and temperate zones. Wattles fix nitrogen, provide mulch, shade, and windbreaks, and many produce edible seeds or useful timber. *Acacia aneura* (mulga) and *A. mearnsii* (black wattle) are especially noted.
-- **Siberian pea shrub (*Caragana arborescens*)** — A hardy, cold-climate deciduous shrub that fixes nitrogen and produces edible protein-rich seeds. Excellent as a windbreak and poultry forage in zones 2–4.
-- **Tagasaste (*Chamaecytisus palmensis*)** — Also known as tree lucerne, this fast-growing leguminous shrub thrives in Mediterranean climates. It provides high-protein fodder for livestock, abundant nectar for bees, and nitrogen enrichment for adjacent crops.
+- **Siberian pea shrub (*[[caragana-arborescens]]*)** — A hardy, cold-climate deciduous shrub that fixes nitrogen and produces edible protein-rich seeds. Excellent as a windbreak and poultry forage in zones 2–4.
+- **Tagasaste (*[[chamaecytisus-palmensis]]*)** — Also known as tree lucerne, this fast-growing leguminous shrub thrives in Mediterranean climates. It provides high-protein fodder for livestock, abundant nectar for bees, and nitrogen enrichment for adjacent crops.
 - **Sesbania** — Rapid-growing, often short-lived leguminous trees or shrubs used as green manure, shade for young crops, and in alley-cropping systems. *Sesbania grandiflora* produces edible flowers and leaves.
 - **Tipuana tipu** — A large South American leguminous tree valued for shade, nitrogen fixation, and timber. Common in subtropical street plantings and larger permaculture landscapes.
 - **Sissoo (*Dalbergia sissoo*)** — A nitrogen-fixing timber tree of the Indian subcontinent, excellent for agroforestry and reforestation on degraded land.
@@ -24,7 +24,7 @@ Nitrogen fixers are among the most important support species in permaculture. Th
 ### Herbaceous and Groundcover Nitrogen Fixers
 
 - **Silverleaf Desmodium (*Desmodium uncinatum*)** — A tropical legume used widely as a cover crop and intercrop. Its strong allelopathic effect suppresses striga weed in maize systems, and its creeping habit provides excellent soil cover.
-- **Siratro (*Macroptilium atropurpureum*)** — A vigorous tropical/vining legume used for pasture improvement, erosion control, and green manure. Deep-rooted and drought-tolerant once established.
+- **Siratro (*[[macroptilium-atropurpureum]]*)** — A vigorous tropical/vining legume used for pasture improvement, erosion control, and green manure. Deep-rooted and drought-tolerant once established.
 - **Stylo (*Stylosanthes*)** — Persistent tropical pasture legume that thrives on poor, acidic soils. Valuable for grazing systems and soil stabilisation.
 - **White clover (*Trifolium repens*)** — The temperate-zone groundcover nitrogen fixer par excellence. Ideal under fruit trees in food forests, between garden rows, and as living mulch.
 - **Vetch (*Vicia* spp.)** — Cool-season climbing legume used as green manure, cover crop, and fodder. Common vetch and hairy vetch are widely sown in temperate systems.
@@ -38,7 +38,7 @@ The key principle is that support species perform multiple functions simultaneou
 
 ## Wetland and Aquatic Plants
 
-Water-edge and aquatic plants serve critical functions in permaculture: water purification, nutrient cycling, food production, habitat creation, and erosion control. Mollison treats constructed wetlands and aquaculture as integral system components.
+Water-edge and aquatic plants serve critical functions in permaculture: water purification, nutrient cycling, food production, habitat creation, and erosion control. Mollison treats [[constructed-wetlands-wastewater-treatment]] aquaculture as integral system components.
 
 ### Food-Producing Aquatic Plants
 
@@ -47,7 +47,7 @@ Water-edge and aquatic plants serve critical functions in permaculture: water pu
 - **Watercress (*Nasturtium officinale*)** — Nutrient-dense leafy green growing in flowing water; excellent in spring-fed channels or greywater treatment systems.
 - **Water lily (*Nymphaea* spp.)** — Edible rhizomes and seeds in some species; provides shade and habitat in ponds.
 - **Wild rice (*Zizania* spp.)** — Native North American aquatic grass harvested as a high-protein grain from shallow lakes and constructed wetlands.
-- **Water hyacinth (*Eichhornia crassipes*)** — Extremely productive aquatic plant; used for biogas production, animal fodder, and heavy-metal bioaccumulation. Must be managed carefully as it can become invasive.
+- **Water hyacinth (*[[eichhornia-crassipes]]*)** — Extremely productive aquatic plant; used for biogas production, animal fodder, and heavy-metal bioaccumulation. Must be managed carefully as it can become invasive.
 - **Water lettuce (*Pistia stratiotes*)** — Floating plant useful for nutrient stripping in greywater systems and as duck fodder.
 
 ### Erosion Control and Water Purification
@@ -100,7 +100,7 @@ The S–Y section also encompasses many staple food crops that anchor permacultu
 - **Yam (*Dioscorea* spp.)** — Important tropical root crop; climbing vine that can be trained on support trees.
 - **Walnut (*Juglans* spp.)** — High-value nut tree; note its allelopathic juglone effect when designing guilds — avoid planting sensitive species beneath walnut canopies.
 - **Wheat** — Staple cereal; in permaculture, often integrated with legume rotations (vetch, clover) for soil fertility.
-- **Tomato** — Summer annual; benefits from companion planting with basil and marigolds.
+- **Tomato** — Summer annual; benefits from [[companion-planting-with-fungi]] basil and marigolds.
 
 ## Species Index Context
 

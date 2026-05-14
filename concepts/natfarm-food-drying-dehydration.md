@@ -14,7 +14,7 @@ Sun drying is a no-cost, low-energy dehydration method that uses the power
 of the sun. This method works well in a hot, dry climate. In temperate
 regions a large reflector can be made to help focus the sun's rays, like a
 big solar cooker, but it will still take a few days if successful at all.
-The alternative is an electric dehydrator. There are many on the market that
+The alternative is an [[comparison-solar-dehydrator-vs-electric-dehydrator]]. There are many on the market that
 use very little energy to power a heating element and fan, and there are
 some that work effectively with a fan alone. Food drying is an essential
 skill within systems.

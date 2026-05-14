@@ -22,7 +22,7 @@ Campanula latiloba is a robust herbaceous perennial in the family Campanulaceae,
 
 The species is valued in horticulture for its imposing stature and long bloom period. It is native to southeastern Europe and western Asia, where it grows in woodland margins and meadow clearings.
 
-Campanula latiloba is sometimes confused with Campanula lactiflora but differs in its broader corolla lobes and denser inflorescence. It is one of the tallest bellflower species in cultivation.
+Campanula latiloba is sometimes confused with [[campanula-lactiflora]] but differs in its broader corolla lobes and denser inflorescence. It is one of the tallest bellflower species in cultivation.
 
 The species has received the Royal Horticultural Society's Award of Garden Merit, confirming its reliability and ornamental value in temperate gardens.
 

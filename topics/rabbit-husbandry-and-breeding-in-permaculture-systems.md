@@ -57,7 +57,7 @@ Breeds with larger body cavities and stronger digestive systems tend to perform 
 - Nest boxes (12" × 10" × 10") provided a few days before kindling
 - Pros: [[comparison-deep-litter-vs-hot-composting]] bedding (straw, hay, wood shavings) absorbs waste
 - Multiple nest boxes or burrow-like structures provided
-- Pros: more natural, less labor-intensive, built-in composting via deep litter
+- Pros: more natural, less labor-intensive, built-in [[composting]] via deep litter
 - Cons: fighting (especially between bucks), cannibalism risk, harder to track parentage, disease transmission
 - **Best for:** grow-out rabbits, pet rabbits, and low-management homestead setups
 

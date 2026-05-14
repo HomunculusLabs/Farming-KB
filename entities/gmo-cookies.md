@@ -50,7 +50,7 @@ GMO's aroma is its most distinctive trait and the source of its controversial na
 
 The flavor follows the aroma closely, with an initial hit of roasted garlic and mushroom that transitions into earthy, diesel-like exhale notes.
 
-A faint sweetness lingers on the palate after exhaling, reminiscent of the Girl Scout Cookies lineage. When vaporized at lower temperatures (around 185°C), the garlic and earthy notes are most pronounced, while higher temperatures bring out the diesel and chemical undertones.
+A faint sweetness lingers on the palate after exhaling, reminiscent of the [[girl-scout-cookies]] lineage. When vaporized at lower temperatures (around 185°C), the garlic and earthy notes are most pronounced, while higher temperatures bring out the diesel and chemical undertones.
 
 The combination of savory and pungent flavor notes makes GMO a polarizing strain among consumers. Enthusiasts praise its complexity and depth, while those who prefer fruity or sweet profiles may find it challenging. Its flavor has been compared to roasted garlic bread with a diesel finish.
 

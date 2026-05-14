@@ -10,7 +10,7 @@ source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the
 
 ## Overview
 
-The 1990 study by Gartz, Adam, and Vorbrodt demonstrated that the synthetic brassinosteroid 22S,23S-homobrassinolide produced dramatic growth-promoting effects in *Psilocybe cubensis* mycelial cultures at a concentration of only 10⁻² ppm (0.01 mg/L). This ultra-low effective dose places brassinosteroids among the most potent known fungal growth-promoting substances and raises important questions about the sensitivity of fungal receptor systems to steroidal signals.
+The 1990 study by Gartz, Adam, and Vorbrodt demonstrated that the synthetic brassinosteroid 22S,23S-homobrassinolide produced dramatic growth-promoting effects in *[[psilocybe-cubensis]]* mycelial cultures at a concentration of only 10⁻² ppm (0.01 mg/L). This ultra-low effective dose places brassinosteroids among the most potent known fungal growth-promoting substances and raises important questions about the sensitivity of fungal receptor systems to steroidal signals.
 
 ## The Dose: 10⁻² ppm Contextualized
 

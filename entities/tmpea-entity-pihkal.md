@@ -70,6 +70,12 @@ TMPEA are known to be stripped off through the normal metabolic
 
 processes that occur in the liver. There are many fascinating
 
+## Background and Context
+
+- Historical development and key contributors
+- Relationship to broader ecological frameworks
+- Evolution of understanding through research
+
 ## See Also
 
 - [[methyl-ma-entity-pihkal]]

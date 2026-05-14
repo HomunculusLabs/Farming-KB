@@ -33,7 +33,7 @@ Aldrin is an organochlorine insecticide that was widely used in agriculture from
 
 - Half-life in soil: 1-6 years depending on conditions
 - Does not readily break down in anaerobic (waterlogged) conditions
-- Binds strongly to soil organic matter, especially in clay soils
+- Binds strongly to [[humus]], especially in clay soils
 - More mobile in acid sandy soils where it may leach to 50-60 cm depth
 - Not significantly removed by leaching from clays or organic profiles (10-20 cm binding depth)
 - Phosphate application may mobilize bound arsenic and other contaminants to deeper levels
@@ -57,7 +57,7 @@ Aldrin is an organochlorine insecticide that was widely used in agriculture from
 ## Overview
 
 Aldrin represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -78,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Aldrin finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -86,13 +86,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for aldrin. Climate adaptation
+opportunities for aldrin. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -107,7 +107,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 aldrin and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -52,7 +52,7 @@ An aerobic "quick brew" method exists (aerating leaves and water for 24–48 hou
 
 ### Compost Tea
 
-**Actively aerated compost tea (AACT)** is the standard method:
+**[[actively-aerated-compost-tea]] (AACT)** is the standard method:
 
 1. Use high-quality, finished thermophilic compost (aged 6–12 months).
 2. Fill a brewer with dechlorinated water (rainwater, well water, or aerated tap water).

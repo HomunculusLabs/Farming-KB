@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán, Allen & Gartz (2000) - A Worldwide Geographical Distribution of the Neurotropic Fungi
+  - Guzmán, Allen & Gartz (2000) - A Worldwide psilocybe-geographical-distribution-patterns of the Neurotropic Fungi
 type: concept
 ---
 
@@ -21,7 +21,7 @@ One of the most significant insights from the global survey of neurotropic fungi
 
 ## The Central Problem
 
-The distribution maps of neurotropic fungi compiled by Guzmán, Allen, and Gartz show dense concentrations of records in Europe, the eastern United States, and specific parts of Mexico, Central America, and Brazil. These are precisely the regions where professional mycologists have been most active. Conversely, vast areas of tropical Africa, Southeast Asia, and South America show surprisingly few records, despite having climates that would theoretically support rich communities of neurotropic fungi.
+The distribution maps of neurotropic fungi compiled by Guzmán, Allen, and Gartz show dense concentrations of records in Europe, the eastern United States, and specific parts of Mexico, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and Brazil. These are precisely the regions where professional mycologists have been most active. Conversely, vast areas of tropical Africa, Southeast Asia, and South America show surprisingly few records, despite having climates that would theoretically support rich communities of neurotropic fungi.
 
 Guzmán, Allen, and Gartz explicitly acknowledged this bias, noting that the number of known species in a given region is more a reflection of how many mycologists have worked there than of the actual fungal diversity. They observed that even in relatively well-studied areas, the discovery of new species continues, suggesting that many more species remain to be found in under-explored regions.
 
@@ -39,7 +39,7 @@ This bias is especially pronounced for genera other than Psilocybe. While Psiloc
 
 ## The Role of Indigenous Knowledge
 
-Indigenous knowledge provides an important corrective to the mycologist distribution bias. Local peoples in many parts of the tropics possess extensive knowledge of fungal resources, including psychoactive species, that has never been documented by professional mycologists. Samorini (1995) reported the possible traditional use of psychoactive mushrooms in Ivory Coast, West Africa, suggesting that unrecorded traditions may exist throughout the tropics.
+Indigenous knowledge provides an important corrective to the mycologist distribution bias. Local peoples in many parts of the tropics possess extensive knowledge of fungal resources, including psychoactive species, that has never been documented by professional mycologists. Samorini (1995) reported the possible traditional use [[historical-and-cultural-uses-of-psychoactive-mushrooms]] in Ivory Coast, West Africa, suggesting that unrecorded traditions may exist throughout the tropics.
 
 The example of the Mixtec Indians of Oaxaca is instructive. These people had detailed knowledge of the potency, seasonality, habitat, and preparation of neurotropic fungi long before any mycologist visited their communities. Much of this knowledge remains undocumented for indigenous groups in other regions. In New Guinea, the Kuma people were known to experience a condition called "mushroom madness" associated with the consumption of certain Boletus species, knowledge that was only brought to scientific attention through the work of Heim (1963, 1965).
 
@@ -51,13 +51,13 @@ Central Africa, including the Congo Basin, contains vast tracts of tropical fore
 
 ## Quantifying the Bias
 
-Attempts have been made to quantify the relationship between mycological effort and recorded species diversity. One approach uses the number of professional mycologists active in a region, the number of herbarium specimens deposited, or the number of published mycological studies as proxies for sampling effort. When these metrics are plotted against known species counts for neurotropic fungi, a strong positive correlation emerges, confirming that the current distribution maps are as much a map of mycological activity as they are a map of fungal biodiversity.
+Attempts have been made to quantify the relationship between mycological effort and recorded species diversity. One approach uses the number of professional mycologists active in a region, the number of [[herbarium-specimens-fungal-collections]] deposited, or the number of published mycological studies as proxies for sampling effort. When these metrics are plotted against known species counts for neurotropic fungi, a strong positive correlation emerges, confirming that the current distribution maps are as much a map of mycological activity as they are a map of fungal biodiversity.
 
 Rarefaction curves, commonly used in ecology to estimate total species richness from sample data, can be applied to neurotropic fungi records. For well-sampled regions such as Mexico and western Europe, these curves show signs of approaching an asymptote, suggesting that most species in these areas have been documented. For tropical Africa and Southeast Asia, the curves remain steeply rising, indicating that continued sampling would yield many additional species. This type of analysis reinforces the conclusion that the 216 species listed by Guzmán, Allen, and Gartz represent only a fraction of the true global diversity.
 
 ## The Herbarium Specimen Gap
 
-A particularly telling indicator of the mycologist distribution bias is the distribution of herbarium specimens. Major herbaria in Europe (Kew, Leiden, Paris) and [[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology and chemical testing, which are beyond the capabilities of most casual observers. Many citizen science records are therefore identified only to genus level or remain unidentified entirely.
+A particularly telling indicator of the mycologist distribution bias is the distribution of herbarium specimens. Major herbaria in Europe (Kew, Leiden, Paris) and [[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology and chemical testing, which are beyond the capabilities of most casual observers. Many [[citizen-science-fungal-biodiversity-discovery]] records are therefore identified only to genus level or remain unidentified entirely.
 
 ## Climate Change and Shifting Distributions
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Neurotropic Fungi Mycologist Distribution Bias finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

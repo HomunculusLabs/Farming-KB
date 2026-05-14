@@ -39,7 +39,7 @@ He extended this to human society: "It is as if a fool were to stomp on and brea
 
 ## The Do-Nothing Method
 
-Fukuoka's agricultural practice evolved through a process of subtraction rather than addition. Rather than asking "How about trying this?" he asked "How about not doing this?" Over thirty years, he progressively eliminated agricultural practices until he reached what he considered the minimum necessary work:
+Fukuoka's agricultural practice evolved through a process of subtraction rather than addition. Rather than asking "How about trying this?" he asked "How about not doing this?" Over thirty years, he progressively eliminated [[mycorrhizal-agricultural-practices]] until he reached what he considered the minimum necessary work:
 
 1. **No plowing**: Soil structure is maintained by plant roots and natural soil organisms
 2. **No prepared fertilizer**: Soil fertility is maintained through clover, straw mulch, and [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], which Fukuoka argued completely misses the point
@@ -72,8 +72,8 @@ The straw, when spread over the field after harvest, protects seeds, retains moi
 
 ## Overview
 
-Masanobu Fukuoka Natural Farming Philosophy represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+Masanobu Fukuoka [[cho-natural-farming-philosophy]] represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Masanobu Fukuoka Natural Farming Philosophy finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -122,8 +122,8 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-masanobu fukuoka natural farming philosophy and its applications. Active investigation
-areas include ecological interactions and optimization.
+masanobu fukuoka natural [[natural-farming-philosophy-and-principles]] its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

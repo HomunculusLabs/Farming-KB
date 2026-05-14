@@ -51,11 +51,11 @@ Major challenges in cultivation include low and inconsistent infection rates, va
 
 Innovative approaches include tissue culture propagation of both host and parasite, drip irrigation systems that enhance host root growth in arid plantation sites, and the use of molecular markers to select high-quality *Cistanche* genotypes for propagation. Agronomic trials comparing planting densities and inoculation timings have identified optimal practices that increase yield by 40–60% over conventional methods.
 
-Mycorrhizal associations of the host *Haloxylon* plants may indirectly influence *Cistanche* growth by enhancing host nutrient uptake and root system development. Research on tripartite interactions between host, mycorrhizal fungi, and the parasite is still in its early stages but may reveal new approaches to improving cultivation efficiency. Integrated pest management is also critical, as stem-boring insects and fungal pathogens can cause significant losses in plantation settings.
+[[plants-without-mycorrhizal-associations]] of the host *Haloxylon* plants may indirectly influence *Cistanche* growth by enhancing host nutrient uptake and root system development. Research on [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]] between host, mycorrhizal fungi, and the parasite is still in its early stages but may reveal new approaches to improving cultivation efficiency. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] is also critical, as stem-boring insects and fungal pathogens can cause significant losses in plantation settings.
 
 In situ conservation efforts include the establishment of nature reserves in the Alashan region and restrictions on wild harvesting. Ex situ seed banks maintain genetic diversity for future restoration efforts. Sustainable harvesting protocols now require leaving a portion of the stem base intact to allow regeneration, though enforcement remains difficult in remote desert areas.
 
-The Chinese Pharmacopoeia recognizes both *C. deserticola* and *C. tubulosa* as legitimate sources of Herba Cistanchis, creating market incentives for cultivating either species. This dual specification has accelerated cultivation of the faster-growing *C. tubulosa* in southern Xinjiang, while *C. deserticola* cultivation continues to expand in Inner Mongolia. Market analysis indicates that cultivated material now supplies over 70% of domestic demand, reducing but not eliminating pressure on wild populations. The economic value of the industry exceeds 2 billion RMB annually, supporting thousands of farming households in some of China's poorest regions. Government subsidies for *Haloxylon* plantation establishment have helped expand the cultivated area, creating a dual benefit of desertification control and medicinal crop production.
+The Chinese Pharmacopoeia recognizes both *C. deserticola* and *C. tubulosa* as legitimate sources of Herba Cistanchis, creating market incentives for cultivating either species. This dual specification has accelerated cultivation of the faster-growing *C. tubulosa* in southern Xinjiang, while *C. deserticola* cultivation continues to expand in Inner Mongolia. Market analysis indicates that cultivated material now supplies over 70% of domestic demand, reducing but not eliminating pressure on wild populations. The economic value of the industry exceeds 2 billion RMB annually, supporting thousands of farming households in some of China's poorest regions. Government subsidies for *Haloxylon* plantation establishment have helped expand the cultivated area, creating a dual benefit of [[interceptor-drains-and-desertification-control]] and medicinal crop production.
 
 Ginseng-like products have appeared in Western supplement markets claiming to contain *Cistanche* extracts for testosterone support and athletic performance enhancement. Regulatory agencies have cautioned that product quality and purity vary widely in these unstandardized preparations. Genuine *C. deserticola* material can be authenticated using HPLC fingerprinting and DNA barcoding techniques, which are increasingly adopted by quality control laboratories in China and internationally.
 
@@ -83,7 +83,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cistanche Deserticola finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -112,7 +112,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cistanche deserticola and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

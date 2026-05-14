@@ -22,7 +22,7 @@ tags:
 
 ## Overview
 
-[[terence-mckenna]] proposed the existence of a **primal language** — an *Ursprache* — that lies behind all human tongues and can be directly accessed during [[tryptamine]] experiences, particularly under the influence of DMT and psilocybin. Unlike ordinary language, which is learned and culturally conditioned, this primal language is **discovered**, not invented. It emerges spontaneously from the experiencer, as though it were an innate capacity of the human nervous system — a deep structural layer of linguistic expression that predates and underlies every known language.
+[[terence-mckenna]] proposed the existence of a **primal language** — an *Ursprache* — that lies behind all human tongues and can be directly accessed during [[tryptamine]] experiences, particularly under the influence of [[dmt]] and psilocybin. Unlike ordinary language, which is learned and culturally conditioned, this primal language is **discovered**, not invented. It emerges spontaneously from the experiencer, as though it were an innate capacity of the human nervous system — a deep structural layer of linguistic expression that predates and underlies every known language.
 
 McKenna drew on a rich tapestry of historical and literary sources to support this claim, situating the tryptamine experience within a much older tradition of encounters with a language beyond language. The Ursprache is not a theoretical construct for McKenna; it is an experiential reality, one that anyone can encounter given the right neurochemical conditions. It represents the ground floor of all human communication, the substrate from which every grammar, every lexicon, every syntax ultimately arises.
 

@@ -18,7 +18,7 @@ catalytic encounter on their honeymoon, the entire field of modern ethnomycology
 might never have developed.
 
 The Wassons' collaborative work laid the groundwork for all subsequent investigations
-into the role of psychoactive mushrooms in human culture, including the eventual
+into the role of [[ceremonial-shamanic-use-psychoactive-mushrooms]] in human culture, including the eventual
 rediscovery of [[psychedelic-mushroom-art-and-iconography]] - Cultural representations of mushrooms
 - [[wasson-hofmann-psilocybin-connection]]
 ## Practical Applications
@@ -38,7 +38,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

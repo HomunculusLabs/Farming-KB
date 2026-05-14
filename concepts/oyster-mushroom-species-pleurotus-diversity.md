@@ -1,6 +1,6 @@
 ---
-title: "Oyster Mushroom Species Pleurotus Diversity"
-source: Growing Gourmet and Medicinal Mushrooms (Stamets, 1993)
+title: Oyster Mushroom Species Pleurotus Diversity
+source: Growing Gourmet and [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] (Stamets, 1993)
 tags: [mycology, mushroom-cultivation, oyster-mushroom, pleurotus, species-diversity]
 created: 2026-05-11
 ---
@@ -9,9 +9,9 @@ created: 2026-05-11
 
 ## Overview
 
-The genus *Pleurotus* encompasses some of the most versatile, productive, and commercially important cultivated mushrooms. Commonly known as oyster mushrooms due to the oyster-shell shape of many species, these fungi are aggressive decomposers capable of colonizing an extraordinarily wide range of substrates — from hardwood logs and sawdust to agricultural wastes including straw, coffee grounds, paper, and even cotton clothing. Paul Stamets devoted extensive coverage to the *Pleurotus* genus in *Growing Gourmet and Medicinal Mushrooms*, describing the unique characteristics, cultivation parameters, and culinary qualities of each major species.
+The genus *Pleurotus* encompasses some of the most versatile, productive, and commercially important [[fungi-cultivated-mushrooms-pathogens-competitors]]. Commonly known as oyster mushrooms due to the oyster-shell shape of many species, these fungi are aggressive decomposers capable of colonizing an extraordinarily wide range of substrates — from hardwood logs and sawdust to agricultural wastes including straw, coffee grounds, paper, and even cotton clothing. Paul Stamets devoted extensive coverage to the *Pleurotus* genus in *Growing Gourmet and Medicinal Mushrooms*, describing the unique characteristics, [[mushroom-species-cultivation-parameters]], and culinary qualities of each major species.
 
-Oyster mushrooms are among the easiest mushrooms to cultivate, making them the ideal starting point for beginning growers. Their rapid colonization speed, broad substrate tolerance, and aggressive competitive ability against contaminants allow for lower-technology cultivation methods than most other gourmet mushrooms. The genus also includes some of the most visually striking cultivated fungi, ranging from the classic ivory tree oyster to the vivid pink, golden, and king oyster varieties.
+Oyster mushrooms are among the easiest [[choosing-mushrooms-to-cultivate-and-infrastructure-planning]], making them the ideal starting point for beginning growers. Their rapid colonization speed, broad substrate tolerance, and aggressive competitive ability against contaminants allow for lower-technology cultivation methods than most other gourmet mushrooms. The genus also includes some of the most visually striking cultivated fungi, ranging from the classic ivory tree oyster to the vivid pink, golden, and king oyster varieties.
 
 ## Pleurotus ostreatus: The Tree Oyster
 
@@ -73,7 +73,7 @@ Characteristics:
 
 ## Species Sequencing
 
-Stamets introduces the concept of **species sequencing** — cultivating multiple mushroom species in succession on the same substrate to maximize total biological efficiency. Because different *Pleurotus* species (and other genera) decompose different components of the substrate, a second species can extract additional nutrition from substrate that has already been partially decomposed by a first species. For example, *P. ostreatus* can be grown on pasteurized straw, followed by *Stropharia rugoso-annulata* (king stropharia) on the spent substrate, and finally the spent material can be used as garden mulch. This cascading approach dramatically increases the total food value extracted from the original substrate while reducing waste.
+Stamets introduces the concept of **species sequencing** — cultivating multiple mushroom species in succession on the same substrate to maximize total [[biological-efficiency]]. Because different *Pleurotus* species (and other genera) decompose different components of the substrate, a second species can extract additional nutrition from substrate that has already been partially decomposed by a first species. For example, *P. ostreatus* can be grown on pasteurized straw, followed by *Stropharia rugoso-annulata* (king stropharia) on the spent substrate, and finally the spent material can be used as garden mulch. This cascading approach dramatically increases the total food value extracted from the original substrate while reducing waste.
 
 ## Less Common Pleurotus Species
 

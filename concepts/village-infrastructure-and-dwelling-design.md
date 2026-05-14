@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-village-infrastructure-and-dwelling-design]] Dwelling Design
+title: "Village Infrastructure And Dwelling Design"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

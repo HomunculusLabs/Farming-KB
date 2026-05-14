@@ -55,7 +55,7 @@ Full colonization without fruiting indicates environmental or substrate issues:
 
 Pinning begins but mushrooms stop developing or abort before maturity:
 
-- **Poor primordia or growth conditions** → Check and calibrate [[cannabis-growing-environment-setup]].
+- **Poor primordia or [[psilocybin-potency-variation-species-strain-growth-conditions]]** → Check and calibrate [[cannabis-growing-environment-setup]].
 - **Bad strain** → Acquire a new strain or switch to a more reliable supplier.
 
 ---
@@ -65,7 +65,7 @@ Pinning begins but mushrooms stop developing or abort before maturity:
 Classic signs of environmental stress with two primary causes:
 
 - **Inadequate light** → Increase light intensity and adjust wavelength to species preference (typically 500–700 lux, cool white spectrum).
-- **Excessive CO₂** → Increase air exchange frequency and volume. Mushrooms elongate stems to escape high-CO₂ microclimates.
+- **Excessive CO₂** → Increase [[growing-gourmet-growing-room-ventilation-air-exchange]] frequency and volume. Mushrooms elongate stems to escape high-CO₂ microclimates.
 
 ---
 
@@ -79,7 +79,7 @@ Abundant pins with minimal maturation suggest resource or environmental limits:
 
 ## Problem 9: Pests and Insects
 
-Insect pests are a persistent challenge in humid [[pf-tek-dual-chambered-terrarium-design-humidity-management]] is far preferred.
+[[duggar-mushroom-insect-pests-and-fungal-diseases]] are a persistent challenge in humid [[pf-tek-dual-chambered-terrarium-design-humidity-management]] is far preferred.
 
 ---
 

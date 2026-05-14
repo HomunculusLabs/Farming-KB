@@ -1,12 +1,12 @@
 ---
-title: Köppen Climate Classification and Global Atmospheric Circulation
+title: Koppen Climate Classification
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Köppen Climate Classification and Global Atmospheric Circulation
 
-The **Köppen climate classification** is the most widely used system for categorizing the world's climates based on temperature and precipitation patterns. Developed by Wladimir Köppen, it provides a foundational framework for understanding global climate zones — essential for [[water-management]] strategies, building design, and settlement planning. Different crops and trees thrive only within specific climate envelopes, precipitation patterns dictate storage requirements, and thermal performance of structures depends on zone characteristics.
+The **Köppen climate classification** is the most widely used system for categorizing the world's climates based on temperature and [[desert-precipitation-patterns-and-opportunistic-ecology]]. Developed by Wladimir Köppen, it provides a foundational framework for understanding global climate zones — essential for [[water-management]] strategies, building design, and settlement planning. Different crops and trees thrive only within specific climate envelopes, precipitation patterns dictate storage requirements, and thermal performance of structures depends on zone characteristics.
 
 ## Holdridge Life Zone Matrix
 
@@ -63,20 +63,20 @@ All major wind belts shift north or south with the sun annually, and to a slower
 
 The great spiral circulation of the south polar regions features approximately 12–18 cold fronts (cloud bands) circling from west to east around the poles, arriving as "cyclonic fronts" every 10 days or so on coasts in that region. These fronts affect areas up to 30° south, with four or more large fronts continuous with (and probably driving) cloud systems up to 10° south or north latitude, mostly along the western margins of South America, Africa, and the south Atlantic.
 
-It is now clear that **oceanic circulation drives the air masses**, rather than the opposite. The fronts are dragged in a curve to the west as the Earth spins east. Each cloud front results from the meeting of cold polar and warm sub-polar air masses or high-pressure cells. The low-pressure areas rotate clockwise and the highs anti-clockwise in the southern hemisphere (reversed in the north), forming a series of cog-like spirals or tori that travel around the poles every 3–4 months.
+It is now clear that **oceanic circulation drives the air masses**, rather than the opposite. The fronts are dragged in a curve to the west as the Earth spins east. Each cloud front results from the meeting of cold polar and warm sub-polar air masses or high-pressure cells. The low-pressure areas rotate clockwise and the highs anti-clockwise in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] (reversed in the north), forming a series of cog-like spirals or tori that travel around the poles every 3–4 months.
 
 ### Driving Forces
 The cold, dense, dry polar air sweeping off the ice-caps and the hot rising air of the equatorial calms drive these great wheels. Clear-air descending intrusions consist of hot-dry and cold-dry continental air (Australia, Africa) or air descending from the equatorial rising congruence.
 
 ## Oceanic-Atmospheric Coupling
 
-A key insight from modern climatology — emphasized throughout Mollison's treatment — is that **oceanic circulation drives the air masses**, not the other way around. The temperature differential between polar ice-caps and the equatorial calms creates the primary engine for global atmospheric circulation, but it is the oceans that store and transport the vast majority of thermal energy. Understanding this coupling is essential for permaculture designers because ocean current changes (such as El Niño events) can dramatically alter regional precipitation and temperature patterns regardless of the prevailing Köppen classification.
+A key insight from modern climatology — emphasized throughout Mollison's treatment — is that **oceanic circulation drives the air masses**, not the other way around. The temperature differential between polar ice-caps and the equatorial calms creates the primary engine for global atmospheric circulation, but it is the oceans that store and transport the vast majority of thermal energy. Understanding this coupling is essential for [[bill-mollison]] because ocean current changes (such as El Niño events) can dramatically alter regional precipitation and temperature patterns regardless of the prevailing Köppen classification.
 
 The four or more large fronts that are continuous with the polar spiral system drive cloud formations up to 10° south or north latitude, mostly along the western margins of South America, Africa, and the south Atlantic. These persistent cloud bands are the primary mechanism by which oceanic thermal energy is transferred to the atmosphere and ultimately delivered as precipitation to continental interiors.
 
 ## Climatic Factor Categories
 
-Following the classification framework, Mollison organizes climatic factors into five categories for detailed analysis:
+Following the classification framework, Mollison organizes [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]] into five categories for detailed analysis:
 
 1. **Precipitation** — rain, fog, dew, and evaporation
 2. **Radiation** — light, heat, frost, and solar input

@@ -6,7 +6,7 @@ type: concept
 
 # Pond Depth and Series Arrangements
 
-The depth of water bodies and the way multiple ponds are connected in sequence have profound effects on productivity, species habitat, water quality, and overall system yields. This page explores how depth orders influence biological cycling and thermal stratification, and how ponds can be arranged in series to create trophic ladders that maximize production through sequential nutrient processing.
+The depth of water bodies and the way multiple ponds are connected in sequence have profound effects on productivity, species habitat, water quality, and overall system yields. This page explores how depth orders influence biological cycling and thermal stratification, and how ponds can be arranged in series to create trophic ladders that maximize production through sequential [[ingham-chelation-microbial-nutrient-processing]].
 
 ## Orders of Depth and Their Effects
 
@@ -14,7 +14,7 @@ Depth, like surface area and volume, operates in distinct orders with specific e
 
 ### Very Shallow Water (0–2 cm)
 
-Mere films of water, or wet mud patches, suffice to grow most productive green salad and root crops. These conditions also allow bees to safely drink, revive frogs, and breed a few mosquitoes. Soil at field capacity is effectively a "pond in hiding."
+Mere films of water, or wet mud patches, suffice to grow most productive green salad and root crops. These conditions also allow bees to safely drink, revive frogs, and breed a few mosquitoes. Soil at [[bulk-substrate-field-capacity]] is effectively a "pond in hiding."
 
 ### Shallow Water (2–6 cm)
 
@@ -35,7 +35,7 @@ The maximum commonly used depth to rear fish in culture is **2 metres**. At this
 
 ### Lake Depth (2–15 m)
 
-From 2–15 m, lakes of clear water are potentially productive. Biological cycling decreases with depth, and cold, sometimes anaerobic conditions develop in the depths of V-shaped lakes with leaf-fall on the margins.
+From 2–15 m, lakes of clear water are potentially productive. Biological cycling decreases with depth, and cold, sometimes [[aact-ph-and-anaerobic-conditions]] develop in the depths of V-shaped lakes with leaf-fall on the margins.
 
 ### Deep Refuges (4–5 m+)
 
@@ -73,7 +73,7 @@ Isolated ponds are filled one at a time and share no water flow. Even if treated
 
 ### Ponds in Parallel
 
-Parallel ponds are perhaps the most common fish-culture system, analogous to irrigation bays on land:
+Parallel ponds are perhaps the most common fish-culture system, analogous to [[spreader-banks-and-irrigation-bays]] on land:
 
 - A **head canal** provides inflow
 - Each pond has individual flow-through
@@ -87,7 +87,7 @@ They are effectively isolated unless disease, pollutant, or qualitative change o
 - Work well with single feeder pipes
 - Suit narrow tidal benches
 
-**Key disadvantage:** One cannot "feed the other"—it is not possible to set up a controlled trophic ladder where food is cultured and allowed to flow down to higher trophic levels (minnows to trout).
+**Key disadvantage:** One cannot "feed the other"—it is not possible to set up a controlled trophic ladder where food is cultured and allowed to flow down to higher [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] (minnows to trout).
 
 ### Consecutive Series (Trophic Ladder)
 
@@ -97,7 +97,7 @@ Consecutive series represent the most powerful arrangement for integrated aquacu
 2. **Secondary ponds**: Contain omnivorous fish that eat the forage
 3. **Tertiary ponds**: Hold carnivorous species
 
-Marshy ponds of tadpoles, scuds, and *Daphnia* flow into ponds of omnivores. Primary sewage lagoons (anaerobic) feed secondary lagoons rich in insect and arthropod fauna and zooplankton (facultative ponds), which cascade into aerobic ponds of useful fish, mussels, shrimp, or green vegetable crop.
+Marshy ponds of tadpoles, scuds, and *Daphnia* flow into ponds of omnivores. Primary [[werribee-sewage-lagoons-mollison]] (anaerobic) feed secondary lagoons rich in insect and arthropod fauna and zooplankton (facultative ponds), which cascade into aerobic ponds of useful fish, mussels, shrimp, or green vegetable crop.
 
 ### Size Relationships in Series
 

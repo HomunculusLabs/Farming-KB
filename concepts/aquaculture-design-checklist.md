@@ -1,5 +1,5 @@
 ---
-title: Aquaculture Design Checklist and Taro Field Integration
+title: Aquaculture Design Checklist
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -36,7 +36,7 @@ Mollison describes several modifications to traditional taro fields that enhance
 - **Margin crops** such as comfrey, taro, and *[[tradescantia]]* for fish food
 - **Coconut** on margins providing additional yield and shade
 
-The modified system diverts water from a stream, fertilizes it through crop and animal systems, uses it in production, and returns it to the stream free of pollutants—demonstrating closed-loop nutrient cycling.
+The modified system diverts water from a stream, fertilizes it through crop and animal systems, uses it in production, and returns it to the stream free of pollutants—demonstrating closed-loop [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]].
 
 ## Aquaculture Designers' Checklist
 
@@ -46,7 +46,7 @@ Due to the special susceptibility of water life, minimal to zero biocide use is 
 
 ### Fish Stocking and Management
 
-- **Stock rates**: Test below, at, and above suspected optimum (plus or minus 2,000/ha) to find the true carrying capacity of each pond
+- **Stock rates**: Test below, at, and above suspected optimum (plus or minus 2,000/ha) to find the true [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] of each pond
 - **Water chemistry**: Fertilize pond and bring pH to 7+ before stocking
 - **Stock health**: Select disease-free stock from reputable sources
 - **Predator exclusion**: Exclude or guard against predators using nets, fences, or deep water refuges
@@ -59,7 +59,7 @@ Due to the special susceptibility of water life, minimal to zero biocide use is 
 
 - **Shelter provision**: Provide shelter from predators and excess light and heat
 - **Brood selection**: Select fast-growing brood stock for the particular site, from fry to adults
-- **Polyculture design**: Devise a fish/plant polyculture for the ponds rather than monoculture
+- **[[aquatic-polyculture-design-mollison]]**: Devise a fish/plant polyculture for the ponds rather than monoculture
 
 ### Site Analysis and Landscape Integration
 
@@ -82,7 +82,7 @@ Water pH is a critical factor in aquaculture productivity. Before stocking, pond
 
 ### Dissolved Oxygen
 
-Dissolved oxygen levels determine how many fish a pond can support. Factors affecting oxygen include:
+Dissolved oxygen levels determine how many fish a pond can support. [[factors-affecting-mycoremediation-efficiency]] oxygen include:
 
 - **Temperature**: Warmer water holds less dissolved oxygen
 - **Organic loading**: Decomposing matter consumes oxygen
@@ -142,6 +142,6 @@ The following sources are recommended for deeper study of aquaculture design:
 
 ## Design Philosophy
 
-The overarching principle behind these checklist items is integration. Aquaculture should never be designed as an isolated fish-production system. Instead, every pond should be conceived as one element in a larger landscape that includes land crops, livestock, water treatment, and wildlife habitat. The greatest yields—both in quantity and diversity—come from systems where the waste products of one element become the inputs for another, creating self-reinforcing cycles of fertility and production.
+The overarching principle behind these checklist items is integration. Aquaculture should never be designed as an isolated fish-production system. Instead, every pond should be conceived as one element in a larger landscape that includes land crops, livestock, water treatment, and [[hemenway-backyard-wildlife-habitat]]. The greatest yields—both in quantity and diversity—come from systems where the waste products of one element become the inputs for another, creating self-reinforcing cycles of fertility and production.
 
 True aquacultural planning should always include diverse plant products with emphasis on local staples. Fish are then accessory to a broad product base and to tree crops. The disease problems that build up in aquacultures are due to over-emphasis on one species or class of food and high yields, and also to a neglect of shade, wild foods, and the beneficial effects of plants on water quality.

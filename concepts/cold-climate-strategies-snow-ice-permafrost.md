@@ -1,12 +1,12 @@
 ---
-title: Cold [[permaculture-climate-strategies]] — Snow, Ice, and Permafrost
+title: "Cold Climate Strategies Snow Ice Permafrost"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Cold Climate Strategies — Snow, Ice, and Permafrost
 
-[[avalanche-phenomenon-cold-climates]] demand a specialised set of design techniques that exploit the unique properties of snow, ice, and frozen ground. While most literature focuses on heating, cold itself is a powerful tool for preservation, concentration, construction, [[climate-and-microclimate-management]].
+[[avalanche-phenomenon]] demand a specialised set of design techniques that exploit the unique properties of snow, ice, and frozen ground. While most literature focuses on heating, cold itself is a powerful tool for preservation, concentration, construction, [[climate-and-microclimate-management]].
 
 ## Useful Properties of Cold Phenomena
 
@@ -36,7 +36,7 @@ As snow melts, winter acorns sprout. Pigs and poultry released from winter quart
 
 Snow is almost a "black body" for radiation, cooling rapidly at night with radiation values of 0.986–0.962. Thin snow cover chills soil to 35°C below air temperature. Snow thicker than 15 cm insulates effectively.
 
-Light penetrates snow 10–15 cm in normal snow, but 30–60 cm in the hollow ice crystals of hoarfrost and dry snow. About 30% of outgoing radiation is heat (long wavelength), but snow is completely non-transparent to incoming long-wave radiation. Melting more commonly occurs from below due to earth heat — this basal melting causes poor snow-mass cohesion and may trigger snow creep or [[avalanche]].
+Light penetrates snow 10–15 cm in normal snow, but 30–60 cm in the hollow ice crystals of hoarfrost and dry snow. About 30% of outgoing radiation is heat (long wavelength), but snow is completely non-transparent to incoming long-wave radiation. Melting more commonly occurs from below due to earth heat — this basal melting causes poor snow-mass cohesion and may trigger snow creep or [[avalanche-phenomenon]].
 
 ### Snow Movement Modes
 - **Microcreep**: Freeze/thaw cycles advance snow downslope a few centimetres per day

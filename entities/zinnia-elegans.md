@@ -12,7 +12,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - "Torres, G.A. et al. (2011). \"Cytogenetics of Zinnia elegans (Asteraceae).\" Cytogenetic and Genome Research, 133(2-4), 186-194."
-  - "Faegri, K. & van der Pijl, L. (1979). The Principles of Pollination Ecology. Pergamon Press."
+  - "Faegri, K. & [[erik-van-der-werf]] Pijl, L. (1979). The Principles of Pollination Ecology. Pergamon Press."
   - "Brett, R. (1956). \"The dmt-containing-plants-united-states-halpern National Herbarium, 26, 289-376."
 ---
 
@@ -49,7 +49,7 @@ referring to the showy inflorescences.
 Zinnia elegans is a diploid species with 2n = 24 chromosomes. Molecular
 phylogenetic analyses place the genus Zinnia within Heliantheae, closely
 related to Heliopsis and Sanvitalia. Approximately 20 species comprise the
-genus, distributed from the southwestern United States to [[herb-growing-guide]] 20–100 cm tall
+genus, distributed from the southwestern [[dmt-containing-plants-united-states-halpern]] to [[herb-growing-guide]] 20–100 cm tall
 depending on cultivar. The stems are stout, green to purplish, and typically
 glabrous or sparsely hairy. The habit ranges from compact and bushy in dwarf
 cultivars to tall and open in large-flowered types.

@@ -68,7 +68,7 @@ Cannabidiol (CBD) has a significant indirect relationship with
 anandamide. CBD suppresses the FAAH enzyme that breaks down anandamide,
 thereby keeping the "Bliss Molecule" active at higher concentrations and
 for longer durations. This is one of CBD's primary [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]] but instead
-amplifies the body's own [[blesching-cbd-faah-inhibition-anandamide-preservation-mechanism]] explains why CBD, despite having relatively low
+amplifies the body's own [[cbd-faah-inhibition-anandamide-preservation-blesching]] explains why CBD, despite having relatively low
 direct receptor affinity, produces such pronounced [[doc]]
 - [[endocannabinoid-system]]
 - [[anandamide-emotional-regulation-blesching]]

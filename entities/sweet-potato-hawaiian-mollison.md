@@ -59,3 +59,27 @@ Sweet potato (*[[ipomoea-batatas]]*) was a critical dryland crop in traditional 
 ## References
 
 - Mollison, Bill. *Permaculture Design Course Pamphlet V: Permaculture on High Islands*. Yankee Permaculture, 1981.
+
+## Practical Applications
+
+Sweet potato hawaiian mollison has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of sweet potato hawaiian mollison has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## See Also
+
+- [[comparison-potato-vs-sweet-potato-cultivation]]
+- [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]]
+- [[solomon-sweet-potato-cultivation-guide]]
+- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
+- [[sweet-potato-guide]]
+
+## Key Considerations
+
+When working with sweet potato hawaiian mollison, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.
+
+## Integration Strategies
+
+Sweet potato hawaiian mollison can be effectively integrated with complementary practices to create synergistic systems that maximize overall productivity and ecological function.

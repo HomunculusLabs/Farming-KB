@@ -16,7 +16,7 @@ Safe foraging requires learning to positively identify plants before eating them
 Start with easy-to-identify plants like [[dandelion]] is one of the best starter plants because every part is edible — leaves for salad, flowers for tea, and roots for coffee substitute.
 Chickweed is another forgiving entry point, recognizable by its single line of hairs along the stem and small star-like white flowers.
 Purslane offers succulent, omega-3-rich leaves that taste slightly tart and grow prostrate in garden beds and disturbed soil.
-Wood sorrel has distinctive heart-shaped leaflets and a pleasant lemony flavor, though it should be eaten in moderation due to oxalic acid content.
+Wood sorrel has distinctive heart-shaped leaflets and a pleasant lemony flavor, though it should be eaten in moderation due to [[oxalic-acid]] content.
 [[mollison-designers-chickweed-and-edible-weeds|Mollison's chickweed and edible weeds guide]] emphasizes, many common garden weeds are nutritious edibles hiding in plain sight.
 
 ### Know the Dangerous Lookalikes

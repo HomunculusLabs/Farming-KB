@@ -1,5 +1,5 @@
 ---
-title: singh fungal siderophore production iron acquisition Production and fungal-siderophores-iron-acquisition-mycorrhiza
+title: Singh Fungal Siderophore Production Iron Acquisition
 created: 2026-04-28
 tags:
   - siderophores
@@ -58,9 +58,9 @@ to specific soil and host environments.
 
 ## Siderophore-Mediated Iron Uptake
 
-Fungal iron acquisition via siderophores follows a well-defined pathway.
+[[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]] acquisition via siderophores follows a well-defined pathway.
 The organism secretes apo-siderophores (iron-free forms) into the
-surrounding environment, where they chelate Fe3+ from mineral surfaces,
+surrounding environment, where they chelate Fe3+ from [[fungal-community-profiling-rock-mineral-surfaces-gadd]],
 organic complexes, or competitor siderophores. The Fe3+-siderophore
 complex is then recognized by specific membrane receptors on the fungal
 cell surface. Upon binding, the complex is internalized, often through
@@ -77,10 +77,10 @@ their associated [[pah-bioremediation]] contexts.
 ## Siderophores in Heavy Metal Chelation
 
 Beyond iron, fungal siderophores can bind other metal ions including
-aluminum, zinc, copper, and toxic heavy metals such as uranium and
+aluminum, zinc, copper, and toxic [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] such as uranium and
 cadmium. This promiscuity has important implications for mycoremediation.
 Siderophores can mobilize metals from soil minerals, increasing their
 bioavailability for fungal uptake and sequestration. They can also
 detoxify the fungal cytoplasm by binding excess metal ions. In
-contaminated soils, siderophore-producing fungi may facilitate
+[[fungal-competition-survival-contaminated-soils]], siderophore-producing fungi may facilitate
 phytoextraction of metals by plants, representing a synergistic

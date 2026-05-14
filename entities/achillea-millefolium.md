@@ -1,5 +1,5 @@
 ---
-title: "Achillea millefolium"
+title: Achillea Millefolium
 type: species
 tags:
   - asteraceae
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Achillea millefolium** (yarrow, common yarrow) is a perennial herbaceous plant in the family Asteraceae, native to temperate regions of the Northern Hemisphere. It is one of the most widely used medicinal plants in European and Asian traditional medicine, with a recorded history spanning over 3,000 years.
+**Achillea millefolium** (yarrow, common yarrow) is a perennial herbaceous plant in the family Asteraceae, native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It is one of the most widely used medicinal plants in European and Asian traditional medicine, with a recorded history spanning over 3,000 years.
 
 The species epithet *millefolium* refers to the finely divided, feathery leaves that appear to contain a thousand leaflets. Yarrow is extremely adaptable, colonizing meadows, roadsides, pastures, and disturbed ground across a wide range of elevations and soil types.
 
@@ -57,7 +57,7 @@ The species thrives in grasslands, meadows, open woodlands, roadsides, and distu
 
 Clinical evidence supports the use of yarrow preparations for appetite loss and dyspeptic complaints. The German Commission E and EMA have approved internal use for these indications based on traditional and pharmacological data.
 
-Topical applications of yarrow extracts and infusions are supported by in vitro evidence for antimicrobial activity against *[[staphylococcus-aureus]]* and *[[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
+[[cannabis-topical-applications]] of yarrow extracts and infusions are supported by in vitro evidence for antimicrobial activity against *[[staphylococcus-aureus]]* and *[[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Cultivation
 
@@ -78,7 +78,7 @@ Yarrow provides nectar and pollen for a broad spectrum of pollinators, including
 ## Overview
 
 Achillea Millefolium represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Achillea Millefolium finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 achillea millefolium and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

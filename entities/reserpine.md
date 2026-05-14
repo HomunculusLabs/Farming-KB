@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Shimizu, M. et al. (1953). "Alkaloids of rauwolfia-serpentina." Journal of the American Chemical Society, 75, 5930-5933.
   - Carlsson, A. & Lindqvist, M. (1963). "Effect of chlorpromazine or haloperidol on formation of 3-methoxytyramine and normetanephrine in mouse brain." Acta Pharmacologica, 20, 140-144.
-  - Frishman, W.H. & Grewall, P. (2000). "Serpentine (Rauwolfia serpentina): history, phytochemistry, pharmacology, and clinical use." Cardiovascular Drug Reviews, 18(2), 101-113.
+  - Frishman, W.H. & Grewall, P. (2000). "Serpentine ([[rauwolfia-serpentina]]): history, phytochemistry, pharmacology, and clinical use." Cardiovascular Drug Reviews, 18(2), 101-113.
   - Henningfield, J.E. et al. (1999). "Reserpine: cannabis-for-alcohol-dependence, 56(1), 7-14.
   - Lopez-Munoz, F. et al. (2005). "The historical evolution of reserpine use." Journal of Clinical Psychopharmacology, 25(5), 521-526.
 ---
@@ -29,7 +29,7 @@ sources:
 - **Molecular formula:** C₃₃H₄₀N₂O₉
 - **Molecular weight:** 608.69 g/mol
 - **IUPAC name:** methyl (3β,16β,17α,18β,20α)-11,17-dimethoxy-18-[(3,4,5-trimethoxybenzoyl)oxy]yohimban-16-carboxylate
-- **Structure type:** Indole alkaloid with a pentacyclic yohimbane skeleton
+- **Structure type:** [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] with a pentacyclic yohimbane skeleton
 - **Appearance:** White to pale yellow crystalline powder
 - **Melting point:** 264–265 °C (decomposes)
 - **Solubility:** Practically insoluble in water; slightly soluble in ethanol; soluble in chloroform and acetic acid
@@ -48,7 +48,7 @@ Reserpine irreversibly inhibits the vesicular monoamine transporter 2 (VMAT2):
 - **Monoamine depletion** — produces progressive and sustained depletion of all three major monoamine neurotransmitters in both central and peripheral nervous systems
 - **Irreversibility** — effects persist until new VMAT2 protein is synthesized (days to weeks), making the pharmacological action extremely long-lasting
 
-The irreversible nature of VMAT2 inhibition distinguishes reserpine from reversible MAO inhibitors. A single dose can produce effects lasting up to two weeks.
+The irreversible nature of VMAT2 inhibition distinguishes reserpine from reversible [[mao-inhibitors-and-psychedelics]]. A single dose can produce effects lasting up to two weeks.
 
 ### Pharmacokinetics
 

@@ -148,10 +148,3 @@ relying solely on government action.
 - Monitoring and verification systems are essential to ensure conservation outcomes
 - Tourism and research infrastructure should be developed sensitively to avoid degrading
   the preserved areas
-
-## References
-
-- Mollison, Bill. *Permaculture: A Designer's Manual.* Chapter 14, Section 14.13
-  (An Ethical Investment Movement). Page 554.
-- World Wildlife Fund -- example of tax-deductible trust facilitating swaps
-- Almost every world nation (except Japan, Botswana, Nauru) is a debtor nation

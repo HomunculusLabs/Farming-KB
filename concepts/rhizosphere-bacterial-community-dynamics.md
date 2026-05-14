@@ -110,10 +110,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
 
-- [[cannabis-rhizosphere-bacterial-communities]]
-- [[cannabis-rhizosphere-bulk-soil-microbial-comparison]]
-- [[cannabis-rhizosphere-microbial-communities]]
-- [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
-- [[endorhiza-rhizosphere-bulk-soil-microbial-communities]]
+- [[rhizosphere-bacteria-mycorrhizal-specificity]]
+- [[rhizosphere-microbiome-selection-model]]
+- [[rhizosphere-vs-bulk-soil-microbiome]]

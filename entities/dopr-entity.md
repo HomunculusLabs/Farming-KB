@@ -16,7 +16,7 @@ sources:
 
 | Compound | 4-Substituent | Dosage (mg) | Duration |
 |----------|--------------|-------------|----------|
-| dom-entity|DOM | CH3 | 3-10 | 8-12 h |
+| [[dom]]-entity|DOM | CH3 | 3-10 | 8-12 h |
 | [[phenethylamine-duration-and-timing]]
 - [[lsd-synthesis-history]]
 

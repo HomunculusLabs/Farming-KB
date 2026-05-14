@@ -1,5 +1,5 @@
 ---
-title: Water in Permaculture — Ponds and Aquatic Plants
+title: Water In Permaculture Ponds And Aquatic Plants
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -14,7 +14,7 @@ The vast majority of Earth's water is unavailable for human use: it resides in o
 
 The world mean average rainfall is 33.8 inches annually. Of atmospheric water, 77% falls on oceans and only 23% on land. Of that land rainfall, 16 parts are lost to transpiration and evaporation, leaving only 7 parts to run off to the ocean. The land also receives 7 parts of its water from horizontal advection — water vapor movement that forests intercept and precipitate.
 
-The practical applications for permaculture designers are clear: establish surface storage and soil storage of water at greater elevations than usual, reduce runoff through forest establishment, and construct swales throughout urban and rural landscapes.
+The practical applications for [[bill-mollison]] are clear: establish surface storage and soil storage of water at greater elevations than usual, reduce runoff through [[food-forest-establishment]], and construct swales throughout urban and rural landscapes.
 
 ## Water Storage Principles
 
@@ -37,7 +37,7 @@ The ideal pond has:
 - **Sloping or stepped floor**: Allows complete drainage
 - **Drainage capability**: Preferably draining into a second pond for nutrient transfer
 - **Gley layer**: A fermented organic seal that prevents seepage into sandy or porous soils
-- **Lime treatment**: The base of new ponds should be limed; most pond organisms prefer pH 6-8, which is 100-200 times less acidic than most garden soils
+- **Lime treatment**: The base of new ponds should be limed; most pond organisms prefer pH 6-8, which is 100-200 times less acidic than most [[ph-and-nutrient-availability-garden-soils]]
 
 ### Gleying Ponds
 
@@ -69,7 +69,7 @@ Plants at the water's edge grow in soaked soils. This zone includes:
 - **Bamboo**: Must not live more than 20 feet from water's edge but never in the water; sends feeder roots down to the water table
 - **Poplar and willow**: Thrive where the water table is only 3-4 feet down
 - **Swamp trees**: Produce some of the world's most durable and lightest woods; many have air cells throughout stems and root systems for oxygen storage
-- **Mints**: Extremely productive (black mint can generate $70,000 from 2-3 acres through menthol distillation), but laterally invasive — contain with dense buffer bushes
+- **Mints**: Extremely productive (black mint can generate $70,000 from 2-3 acres through [[menthol]] distillation), but laterally invasive — contain with dense buffer bushes
 - **Blueberries**: Pond edges are excellent blueberry habitat
 
 ### The Shallow Water Zone
@@ -87,7 +87,7 @@ Several feet from shore, in water 1-3 feet deep:
 
 Beyond 6-9 feet depth:
 
-- **Duckweed and water fern** (*Azolla*): Continue production on the surface at depths where other plants cannot root
+- **Duckweed and water fern** (*[[azolla]]*): Continue production on the surface at depths where other plants cannot root
 - **Water hyacinth**: Can be used in restricted locations to clear pollution; dangerous in large slow rivers in warm climates
 - **Algae**: Production practically ceases below 12 feet deep; the primary purpose of deeper water (12-15 feet) is to allow fish to escape low oxygen and temperature extremes
 
@@ -141,20 +141,9 @@ A Scottish biologist estimated that 30 quarter-acre ponds in marine culture coul
 
 ### Ducks
 
-Approximately eight ducks per quarter acre is a workable stocking rate. Ducks provide:
+Approximately eight ducks per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] is a workable [[savory-stock-density-vs-stocking-rate]]. Ducks provide:
 
 - Manure input to the pond
 - Eggs as an additional crop
 - Energy turnover in the pond system
-- Synergy with wild rice (which grows above duck height during vegetative stage)
-
-Duck protection requires either island refuge, netting over the pond, or a fenced shed backing onto the water. Ducks instinctively return to their shed at night for safety from foxes and dogs.
-
-### Frogs
-
-Frogs are essential in greenhouse systems for controlling slugs and cutworms — both nocturnal pests that bullfrogs (which feed in daylight) do not address effectively.
-
-## See Also
-- [[permaculture-plants-aquatic-and-wetland-species]]
-- [[duckweed-and-aquatic-plants-permaculture-systems]]
-- [[hamilton-garden-ponds-and-aquatic-plants]]
+- Synergy with wild rice (which grows above duck height during [[cannabis-vegetative-stage]])

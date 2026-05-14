@@ -1,5 +1,5 @@
 ---
-title: "[[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]"
+title: "Psilocybe Caerulescens"
 created: 2026-04-28
 type: species
 tags:

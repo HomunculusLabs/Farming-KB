@@ -1,5 +1,5 @@
 ---
-title: Permaculture Designers Checklist for Drylands
+title: Permaculture Designers Checklist For Drylands
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -22,7 +22,7 @@ These broad strategies are interdependent: windbreaks enable garden establishmen
 
 Food production in drylands requires careful site selection and intensive local management. Every square metre of productive garden must be optimised for water efficiency and microclimate benefit.
 
-- **Establish shaded and mulched gardens within settlement** boundaries. Microclimate modification through shade structures and heavy organic mulch dramatically reduces evapotranspiration and extends the productive growing window. Mulch also builds soil organic matter and supports beneficial microbial activity.
+- **Establish shaded and mulched gardens within settlement** boundaries. [[tree-temperature-effects-and-microclimate-modification]] through shade structures and heavy organic mulch dramatically reduces evapotranspiration and extends the productive growing window. Mulch also builds soil organic matter and supports beneficial microbial activity.
 
 - **Establish settlement windbreak and shade trees** as a priority before food gardens. Shelterbelts reduce wind speed, lower temperatures, and protect vulnerable crops from desiccating winds. Shade trees around dwellings also reduce cooling energy requirements.
 
@@ -34,7 +34,7 @@ Food production in drylands requires careful site selection and intensive local 
 
 - **Store water in sand-filled dams** or gabion-stabilised terraces that reduce evaporation and protect stored water from contamination. Subsurface storage in sand is one of the most effective strategies for minimising evaporative losses in arid climates. Water stored in sand remains cool, clean, and accessible through shallow wells or infiltration galleries.
 
-- **Use water wisely** and route greywater to toilet systems for secondary use, closing the nutrient and water loop within settlements. Greywater recycling reduces total freshwater demand by a significant margin.
+- **Use water wisely** and route greywater to toilet systems for secondary use, closing the nutrient and water loop within settlements. [[greywater-recycling-drylands]] reduces total freshwater demand by a significant margin.
 
 - **Never use deep bores or pumped well water** beyond the recharge capacity of the aquifer. Over-extraction leads to salinisation and permanent aquifer damage that may take centuries to reverse.
 
@@ -52,7 +52,7 @@ Settlement health in drylands depends on managing environmental hazards and ensu
 
 - **Check for water-borne disease** wherever children swim, particularly in standing water bodies that may harbour parasites and pathogens endemic to warm, shallow water.
 
-- **Supply ample vitamins** via home garden vegetables and fruits. Fresh produce is often scarce in remote dryland settlements, making the home garden a critical public health intervention.
+- **Supply ample vitamins** via home garden vegetables and fruits. Fresh produce is often scarce in remote [[dryland-settlements-and-interceptor-banks]], making the home garden a critical public health intervention.
 
 - **Check plants, soils, and blood levels** for essential minerals, especially zinc and iron, which are commonly deficient in dryland diets and soils. Mineral deficiencies are widespread in populations dependent on dryland agriculture and can have serious developmental consequences for children.
 
@@ -64,7 +64,7 @@ Together, these health guidelines emphasise self-reliance and prevention. A well
 
 The manual transitions in Section 12 to cool humid climates where precipitation exceeds evaporation and winter frosts are common. These climates span from Mediterranean areas poleward to boreal forests (Taiga) that rim the tundra. They are predominantly winter-wet climates experiencing fogs and frosts.
 
-Contemporary broadscale crop agriculture was developed in these temperate regions but has been inappropriately exported to tropics and deserts where neither soil, water, nor financial resources can support it. The original pre-agricultural landscape was a mosaic of mixed forests, extensive hedgerows, small fields, permanent meadows, and relatively small vegetable plots — a diverse and stable productive system that supported human communities for millennia.
+Contemporary broadscale crop agriculture was developed in these [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] but has been inappropriately exported to tropics and deserts where neither soil, water, nor financial resources can support it. The original pre-agricultural landscape was a mosaic of mixed forests, extensive hedgerows, small fields, permanent meadows, and relatively small vegetable plots — a diverse and stable productive system that supported human communities for millennia.
 
 Trade pressures from subsidised agriculture destroyed this stable land use pattern, forcing large-scale grain crop and feed-lot systems on farmers. Fields were coalesced, hedgerows destroyed, and few significant forests remain within farmed areas. Acid rain from heavy industrial activity has damaged foothill forests and thin soils, while ozone and soil losses have created what amounts to the "desertification" of areas like southern England, where wind effects on exposed broadscale grain fields are pronounced.
 
@@ -81,7 +81,7 @@ The drylands and cool climate sections draw on several foundational works in lan
 - **Bradshaw & Chadwick**, *The Restoration of Land* (University of California Press, 1980) — comprehensive treatment of ecological restoration principles and techniques.
 - **Cribb**, *Wild Food in Australia* (Collins, Sydney, 1974) — a basic reference on Aboriginal food plants and their ecological context.
 - **Corbett**, *A Better Place to Live* (Rodale Publications, 1981) — practical guidance on sustainable settlement design.
-- **Hall et al.**, *The Use of Trees and Shrubs in the Dry Country of Australia* (Dept. of National Development, Forestry and Timber Bureau, Canberra, 1972) — the standard reference on Australian dryland tree species and their applications.
+- **Hall et al.**, *The Use of Trees and Shrubs in the Dry Country of Australia* (Dept. of National Development, [[mollison-designers-conifer-forestry-and-timber]] Bureau, Canberra, 1972) — the standard reference on Australian dryland tree species and their applications.
 - **Harrington**, *Western Edible Wild Plants* (University of New Mexico Press, 1972) — covering edible plant species of the American Southwest.
 - **Hagedorn et al.**, *Dune Stabilization: A Survey of Literature* (Germany Agency for Technical Cooperation, 1977) — an excellent summary of dune formation and stabilisation techniques.
 - **Newbigin**, *Plant and Animal Geography* (Methuen & Co., London, 1972) — biogeographic context for understanding species distribution in arid and temperate zones.

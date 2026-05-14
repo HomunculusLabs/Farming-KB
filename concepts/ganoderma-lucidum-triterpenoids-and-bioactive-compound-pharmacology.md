@@ -6,11 +6,11 @@ type: concept
 
 # Ganoderma Lucidum Triterpenoids and Bioactive Compound Pharmacology
 
-[[ganoderma-lucidum]] (Reishi/Lingzhi) produces an extraordinary range of bioactive triterpenoids beyond its well-known polysaccharides. Over 130 triterpenoids have been identified, each with distinct pharmacological activities. This concept catalogues the major Ganoderma triterpenoid classes and their therapeutic effects.
+[[ganoderma-lucidum]] (Reishi/Lingzhi) produces an extraordinary range of bioactive triterpenoids beyond its well-known polysaccharides. Over 130 triterpenoids have been identified, each with distinct pharmacological activities. This concept catalogues the major Ganoderma triterpenoid classes and their [[cbd-therapeutic-effects]].
 
 ## Overview of Ganoderma Triterpenoids
 
-Ganoderma lucidum produces two major classes of bioactive compounds:
+Ganoderma lucidum produces two [[ascomycota-phylogeny-major-classes-lineages]] of [[cordyceps-cancer-bioactive-compounds]]:
 1. **Polysaccharides** (β-D-glucans) — primarily immunomodulatory
 2. **Triterpenoids** ([[ganoderic-acids]], ganoderiols, lucidenic acids) — diverse pharmacological activities
 
@@ -109,7 +109,7 @@ Unlike single-target pharmaceuticals, Ganoderma's triterpenoids affect multiple 
 - **Antiviral**: HIV reverse transcriptase inhibition, anti-hepatitis B
 
 ### Synergy with Polysaccharides
-The combination of triterpenoids (direct pharmacological effects) with polysaccharides (immune modulation) gives Ganoderma a uniquely broad therapeutic profile. The triterpenoids provide direct biochemical effects while the polysaccharides mobilize the host immune system.
+The combination of triterpenoids (direct pharmacological effects) with polysaccharides ([[cancer-immune-modulation-mechanisms]]) gives Ganoderma a uniquely broad [[cannabidiol-cbd-therapeutic-profile-blesching]]. The triterpenoids provide direct biochemical effects while the polysaccharides mobilize the host immune system.
 
 ### Traditional Knowledge Correlation
 The diverse pharmacological activities of Ganoderma triterpenoids help explain the traditional reputation of G. lucidum as a "mushroom of immortality" and its use in treating virtually every category of human ailment in traditional Chinese medicine.
@@ -117,4 +117,8 @@ The diverse pharmacological activities of Ganoderma triterpenoids help explain t
 ## Research Challenges
 - Over 130 triterpenoids identified; many remain incompletely characterized
 - Standardization of Ganoderma preparations is difficult due to natural variability in triterpenoid content
-- Optimal extraction and processing methods for preserving triterpenoid bioactivity require further study
+- Optimal [[honey-extraction-and-processing]] methods for preserving triterpenoid bioactivity require further study
+
+## See Also
+
+- [[ganoderma-lucidum-pharmacology-and-bioactive-compounds]]

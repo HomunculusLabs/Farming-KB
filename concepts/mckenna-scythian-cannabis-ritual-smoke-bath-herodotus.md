@@ -17,7 +17,7 @@ sources:
 
 The Scythians, a nomadic central Asian people who entered eastern Europe around
 700 B.C., hold a pivotal place in the history of cannabis as the culture that
-introduced the practice of cannabis inhalation to the European world. Their
+introduced the practice of [[mckenna-scythians-cannabis-inhalation-herodotus]] to the European world. Their
 ritual use of cannabis, documented by the Greek historian Herodotus in his
 *Histories* (c. 440 B.C.E.), provides the earliest known description of
 deliberate cannabis intoxication through the inhalation of combusted plant
@@ -38,7 +38,7 @@ first was a kind of cannabis sweat lodge ceremony:
 
 This passage is remarkable for several reasons. It describes a ritual technology
 that closely parallels Indigenous American sweat lodge ceremonies, suggesting
-that the combination of [[shamanism|shamanic]]
+that the combination of shamanic
 practice. The Scythians' use of heated stones to volatilize [[query-how-to-germinate-cannabis-seeds]]
 created what Herodotus explicitly compared to Greek vapor baths -- but with an
 intensity that surpassed any Greek equivalent. The participants' transport was

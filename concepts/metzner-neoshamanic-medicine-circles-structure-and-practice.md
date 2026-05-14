@@ -9,7 +9,7 @@ tags: [metzner, neoshamanism, medicine-circle, entheogenic-ceremony, hybrid-ther
 
 ## Overview
 
-Ralph Metzner coined and extensively documented the phenomenon of "neoshamanic
+[[ralph-metzner]] coined and extensively documented the phenomenon of "neoshamanic
 medicine circles" — hybrid ritual forms that blend elements of traditional
 [[psilocybin-north-america-pacific-northwest]], involving several
 hundred participants, many of them repeatedly. His analysis provides the most

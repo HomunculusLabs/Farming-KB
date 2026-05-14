@@ -1,5 +1,5 @@
 ---
-title: "What is Biointensive Gardening and How Do I Start?"
+title: Query What Is Biointensive Gardening And How Do I Start
 tags: [query, biointensive, gardening, permaculture, soil]
 date: 2026-05-09
 updated: 2026-05-09
@@ -11,7 +11,7 @@ sources:
 
 ## Short Answer
 
-Biointensive gardening is a small-scale, high-yield organic growing method developed by [[building-soil]] fertility over time.
+Biointensive gardening is a small-scale, high-yield [[query-what-is-the-role-of-trichoderma-in-organic-growing]] method developed by [[building-soil]] fertility over time.
 
 This is different from permaculture's broader whole-property design approach, though both aim for sustainable food production.
 
@@ -25,7 +25,7 @@ The second principle is composting, with the system aiming to produce as much co
 
 Each bed should ideally generate enough compost through crop residues to sustain its own fertility.
 
-The third principle is close plant spacing, often in hexagonal patterns rather than straight rows.
+The third principle is [[biointensive-close-plant-spacing]], often in hexagonal patterns rather than straight rows.
 
 This creates a living mulch that shades the soil, reduces evaporation, and suppresses weeds.
 
@@ -47,11 +47,11 @@ A well-prepared biointensive bed holds significantly more water and air in the s
 
 One unique feature of biointensive gardening is its emphasis on calorie-dense crops.
 
-John Jeavons found that root crops like potatoes, sweet potatoes, and parsnips produce the most calories per square foot.
+John Jeavons found that root crops like potatoes, [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]], and parsnips produce the most calories per square foot.
 
 Grain crops like wheat, oats, and quinoa are also important for a complete diet.
 
-A typical biointensive plan allocates roughly 60% of growing area to calorie crops and 30% to calorie-efficient root crops.
+A typical biointensive plan allocates roughly 60% of growing area to [[biointensive-calorie-crops]] and 30% to calorie-efficient root crops.
 
 The remaining 10% goes to vegetables for vitamins and minerals.
 
@@ -68,7 +68,7 @@ Permaculture takes a broader whole-property design approach, while biointensive 
 | Feature | Biointensive | Square Foot | Permaculture |
 |---------|-------------|-------------|--------------|
 | Bed preparation | Double-dig 24 inches | 6-inch raised bed | Varies |
-| Plant spacing | Hexagonal close | Grid squares | Natural patterns |
+| Plant spacing | Hexagonal close | Grid squares | [[natural-patterns-in-permaculture-design]] |
 | Focus | Calorie crops | Any vegetables | Whole system |
 | Composting | On-site intensive | Optional | Integrated |
 | Seed saving | Emphasized | Not required | Encouraged |

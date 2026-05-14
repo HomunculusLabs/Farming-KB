@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-The genus *Dioscorea* — commonly known as yams or sweet potatoes — provides a striking example of how plant chemistry can profoundly influence animal reproduction and population dynamics.
+The genus *Dioscorea* — commonly known as yams or [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]] — provides a striking example of how plant chemistry can profoundly influence animal reproduction and [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]].
 
 [[psilocybin]] at moderate doses triggers restlessness and sexual arousal, potentially increasing reproductive frequency.
 
-These effects mean that a group's choice of food plants can function as an unconscious form of population regulation and social engineering — a phenomenon McKenna saw as central to understanding the relationship between diet and cultural evolution.
+These effects mean that a group's choice of food plants can function as an unconscious form of population regulation and social engineering — a phenomenon McKenna saw as central to understanding the relationship between diet [[entheogens-and-cultural-evolution]].
 
 ## Mutagenic Effects and Accelerated Evolution
 
@@ -43,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

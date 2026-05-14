@@ -1,5 +1,5 @@
 ---
-title: "[[fungal-metal-ion-resistance-mechanisms]] in Fungi"
+title: "Singh Metal Ion Resistance Fungi"
 created: 2026-04-28
 tags: [mycoremediation, metal-resistance, metallothioneins, phytochelatins]
 date: 2026-04-25

@@ -77,7 +77,7 @@ Mushroom catsup (also spelled ketchup) was a significant
 commercial product in Victorian England. Cuthill noted that
 a cottager with a large crop would find that mushroom catsup
 always sold well in the market, making it a valuable
-supplementary income stream from mushroom-spawn
+supplementary income stream from [[mushroom-spawn]]
 were guaranteed to be genuine [[palmer-edible-mushrooms-north-america]], free from
 the contamination with poisonous toadstools that could occur
 with wild-gathered specimens.

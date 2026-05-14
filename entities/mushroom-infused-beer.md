@@ -9,7 +9,7 @@ tags: [beverage, brewing, medicinal, extraction, fermentation]
 
 ## Description
 
-Mushroom-infused beer (also called mycobrew or medicinal mushroom beer) is an alcoholic beverage that incorporates mushrooms or mushroom extracts into the traditional beer brewing process. The practice combines the health benefits of medicinal mushroom compounds—such as beta-glucans, triterpenes, and polysaccharides—with the flavor complexity and cultural appeal of craft beer. Tradd Cotter pioneered the commercial concept with an international debut at the 2012 Telluride Mushroom Festival ("Shroomfest") in Colorado, where 240 gallons sold out in under 48 hours.
+Mushroom-infused beer (also called mycobrew or medicinal mushroom beer) is an alcoholic beverage that incorporates mushrooms or mushroom extracts into the traditional beer brewing process. The practice combines the health benefits of [[medicinal-mushroom-compounds]]—such as [[beta-glucans]], triterpenes, and polysaccharides—with the flavor complexity and cultural appeal of craft beer. Tradd Cotter pioneered the commercial concept with an international debut at the 2012 Telluride Mushroom Festival ("Shroomfest") in Colorado, where 240 gallons sold out in under 48 hours.
 
 ## Classification
 
@@ -112,8 +112,8 @@ The infusion concept extends beyond beer:
 
 ## See Also
 
-- [[mushroom extracts]] - preparation methods for brewing additives
-- [[reishi]] - primary medicinal brewing mushroom
-- [[Trametes versicolor]] - turkey tail, used in pale ale
-- [[Piptoporus betulinus]] - birch polypore, aromatic brewing ingredient
-- [[Laricifomes officinalis]] - agarikon, rare medicinal stout ingredient
+- mushroom extracts - preparation methods for brewing additives
+- reishi - primary medicinal brewing mushroom
+- trametes versicolor - turkey tail, used in pale ale
+- [[piptoporus-betulinus]] - birch polypore, aromatic brewing ingredient
+- [[laricifomes-officinalis]] - agarikon, rare medicinal stout ingredient

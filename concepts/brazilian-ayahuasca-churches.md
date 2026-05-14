@@ -85,4 +85,4 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[doc]]
 - [[dom]]
-- [[shamanism]]
+- shamanism

@@ -54,7 +54,7 @@ In Europe, the species ranges from the British Isles eastward through Scandinavi
 
 The species thrives in calcareous wetlands including marsh edges, fen margins, stream banks, ditches, and damp woodlands. It tolerates shallow standing water during spring but prefers sites that drain by midsummer.
 
-Soil pH preferences range from neutral to slightly alkaline, typically 6.5 to 8.0. Plants occur from sea level to approximately 2,500 meters elevation in mountainous regions.
+[[soil-ph]] preferences range from neutral to slightly alkaline, typically 6.5 to 8.0. Plants occur from sea level to approximately 2,500 meters elevation in mountainous regions.
 
 The species is an indicator of hydric soil conditions and is frequently used in wetland delineation surveys. Its presence confirms seasonal saturation sufficient to support wetland classification.
 

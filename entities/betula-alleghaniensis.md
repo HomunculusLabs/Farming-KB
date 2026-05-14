@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Erdmann, G.G. (1990). "Betula alleghaniensis Britton." in Silvics of psilocybin-north-america-pacific-northwest. USDA Forest Service.
+  - Erdmann, G.G. (1990). "Betula alleghaniensis Britton." in Silvics of [[psilocybin-north-america-pacific-northwest]]. USDA Forest Service.
   - Farrar, J.L. (1995). Trees of the Northern [[guzman-psilocybin-mushrooms-north-america]]. It is the most commercially important birch species in its range, valued for its hard, close-grained wood.
 
 The species is named for the Allegheny Mountains where it was first documented. It is easily recognized by its distinctive golden-bronze, peeling bark on mature specimens, which contrasts with the white bark of paper birch.

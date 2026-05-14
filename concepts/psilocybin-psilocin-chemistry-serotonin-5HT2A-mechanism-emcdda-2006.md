@@ -49,12 +49,12 @@ contributions to the overall psychoactive effect profile are not fully understoo
 
 ## Structural Relationship to Serotonin
 
-The structural similarity between psilocin and serotonin is striking. Both molecules
+The [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]] between psilocin and serotonin is striking. Both molecules
 share the indole ring system and a hydroxyl group at the 4-position of the benzene
 ring. The key difference is the dimethyl substitution on the terminal amine nitrogen
 in psilocin versus a single hydrogen in serotonin.
 
-This structural resemblance allows psilocin to bind to serotonin receptors, particularly
+This structural resemblance allows psilocin to bind to [[psilocybin-pharmacology-and-serotonin-receptors]], particularly
 the 5-HT2A subtype, where it acts as a post-synaptic agonist or partial agonist.
 The additional methyl groups on psilocin increase its lipophilicity, facilitating
 blood-brain barrier penetration and contributing to its psychedelic potency.

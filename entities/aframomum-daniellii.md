@@ -21,7 +21,7 @@ sources:
 
 The species is valued for its aromatic seeds, which are used as a spice in traditional African cuisine. The flavor profile is warm and peppery with camphoraceous notes, distinct from true cardamom (*[[elettaria-cardamomum]]*).
 
-In ethnomedicine, the seeds and rhizomes are employed to treat digestive disorders, respiratory infections, and inflammatory conditions. Modern pharmacological studies have confirmed antimicrobial and antioxidant properties.
+In ethnomedicine, the seeds and rhizomes are employed to treat digestive disorders, respiratory infections, and [[cannabis-for-inflammatory-conditions]]. Modern pharmacological studies have confirmed antimicrobial and antioxidant properties.
 
 ## Taxonomy and Morphology
 
@@ -39,7 +39,7 @@ A. daniellii occurs naturally in the tropical lowland forests of West and Centra
 
 The species inhabits the forest understory and forest margins, often along riverbanks and in moist ravines. It requires high humidity, warm temperatures, and well-draining soils rich in [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
 
-Nutritional analysis reveals that the seeds contain moderate amounts of protein, dietary fiber, and minerals including calcium, magnesium, and iron. The essential oil fraction accounts for 2–4% of seed dry weight.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] reveals that the seeds contain moderate amounts of protein, dietary fiber, and minerals including calcium, magnesium, and iron. The essential oil fraction accounts for 2–4% of seed dry weight.
 
 The aril surrounding the seeds is particularly aromatic and is sometimes used separately as a flavoring. [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The essential oil shows particularly strong activity against gram-positive bacteria.
 
@@ -72,7 +72,7 @@ The seeds are dispersed by forest mammals including primates and duikers, which 
 ## Overview
 
 Aframomum Daniellii represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Aframomum Daniellii finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -101,7 +101,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 aframomum daniellii and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

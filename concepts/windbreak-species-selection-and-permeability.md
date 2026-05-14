@@ -4,7 +4,7 @@ source: [[permaculture-design]], directly influencing crop yields, microclimate 
 
 ## Core Selection Principles
 
-**Every windbreak species must serve multiple functions.** A shelterbelt that merely blocks wind but contributes nothing else represents wasted space and opportunity. Species should either assist crop yield directly (through nitrogen fixation, mulch production, or microclimate moderation) or add to the end-use yield of the system itself (through forage, timber, fruit, or other harvestable products).
+**Every windbreak species must serve multiple functions.** A shelterbelt that merely blocks wind but contributes nothing else represents wasted space and opportunity. Species should either assist crop yield directly (through [[biological-nitrogen-fixation-agriculture]], mulch production, or microclimate moderation) or add to the end-use yield of the system itself (through forage, timber, fruit, or other harvestable products).
 
 - **Nitrogen-fixing and browse-edible shelterbelt species increase yields** — leguminous windbreak plants enrich the soil and can be pollarded or coppiced for animal fodder, creating a symbiotic relationship between the shelterbelt and adjacent crops or pastures.
 - **High water-demand, non-leguminous species lose crop yield** — trees that draw heavily on soil moisture without returning nitrogen or organic matter create a competitive zone that depresses the very crops the windbreak is meant to protect. This is especially critical in dryland systems.
@@ -46,7 +46,7 @@ Species that require significant shelter and should never be placed on the windw
 
 Windbreaks should be established through a planned succession that provides immediate relief while building toward a permanent, multi-layered structure:
 
-1. **Tall grass** — provides first-season wind reduction and organic matter
+1. **Tall grass** — provides first-season wind reduction [[hamilton-composting-and-organic-matter-management]]
 2. **Taller legume** — begins nitrogen accumulation and adds vertical structure
 3. **Long-term windfast hedge** — the permanent shelterbelt backbone
 
@@ -54,7 +54,7 @@ Windbreaks should be established through a planned succession that provides imme
 
 ### Quickset Hedges
 Where rapid establishment is critical, many species can be propagated directly from cuttings:
-- **Poplar** — fast-growing, excellent for temperate climates
+- **Poplar** — fast-growing, excellent for [[fukuoka-natural-farming-temperate-climates]]
 - **Erythrina** (coral tree) — subtropical/tropical, nitrogen-fixing, also provides fodder
 
 ## Windbreak Design Geometry
@@ -101,7 +101,7 @@ Windbreaks that double as fodder banks:
 Deep-rooted species that cycle minerals from subsoil to the surface through leaf fall:
 - **Casuarina** — accesses deep iron and other minerals
 - **Banksia** — proteoid roots mine phosphorus from poor soils
-- **Eucalyptus camaldulensis** (river red gum) — deep taproot brings up calcium and other trace elements
+- **[[eucalyptus-camaldulensis]]** (river red gum) — deep taproot brings up calcium and other trace elements
 
 ## Design Strategies by Climate
 
@@ -118,7 +118,7 @@ A well-designed shelterbelt produces **excess fuel for cooking crop products**. 
 
 ## Managing Competitive Root Zones
 
-Some excellent windbreak species — particularly **poplar** and other fast-growing trees — produce invasive root systems that compete aggressively with adjacent crops for water and nutrients. Management strategies include:
+Some excellent windbreak species — particularly **poplar** and other fast-growing trees — produce invasive root systems that compete aggressively with adjacent crops for water and nutrients. [[forest-management-strategies]] include:
 
 - **Root-cutting** — annually severing roots along the crop-side of the windbreak trench
 - **Rip-lining** — installing a subsoil barrier (physical or root-pruning fabric) along the shelterbelt edge
@@ -129,7 +129,7 @@ Some excellent windbreak species — particularly **poplar** and other fast-grow
 - **Multi-functionality is non-negotiable** — every shelterbelt species must yield more than just wind reduction
 - **40–30% permeability** is the optimal target for windbreak porosity
 - **Frontline species prioritize survival** over yield in extreme exposure zones
-- **Succession planting** builds resilience: grass → legume → permanent hedge
+- **[[coleman-succession-planting]]** builds resilience: grass → legume → permanent hedge
 - **Isolated trees are ineffective** — design integrated multi-row systems
 - **Root management** prevents windbreaks from becoming crop competitors
 - **Protected zone extends 10–15×** the windbreak height leeward

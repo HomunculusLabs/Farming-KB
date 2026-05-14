@@ -70,7 +70,7 @@ The success of truffle cultivation also demonstrates a broader principle: unders
 
 ## Overview
 
-Teaming With Fungi Truffle Cultivation Basics represents an important element within sustainable
+Teaming With Fungi [[truffle-cultivation-basics]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

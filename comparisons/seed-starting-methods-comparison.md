@@ -1,5 +1,5 @@
 ---
-title: Seed [[comparison-cannabis-cloning-vs-seed-starting-indoors]] [[cannabis-administration-methods-comparison]] Comparison
+title: "Seed Starting Methods Comparison"
 created: 2026-04-13
 updated: 2026-04-13
 type: comparison

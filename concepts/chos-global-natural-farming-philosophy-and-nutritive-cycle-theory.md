@@ -6,7 +6,7 @@ type: concept
 
 # Cho's Global Natural Farming: Philosophy and Nutritive Cycle Theory
 
-Dr. [[cho-han-kyu]]'s Natural Farming (NF) is a comprehensive agricultural system developed in South Korea that eliminates chemical inputs by harnessing indigenous microorganisms (IMOs) and locally available natural materials. This concept covers the foundational philosophy, the [[nutritive-cycle-theory]], and the core principles of the system.
+Dr. [[cho-han-kyu]]'s Natural Farming (NF) is a comprehensive agricultural system developed in South Korea that eliminates chemical inputs by harnessing [[beneficial-indigenous-microorganisms]] (IMOs) and locally available natural materials. This concept covers the foundational philosophy, the [[nutritive-cycle-theory]], and the core principles of the system.
 
 ## The Problem with Conventional Agriculture
 
@@ -15,7 +15,7 @@ Dr. Cho identified that conventional/chemical agriculture is:
 - **Economically not viable** 
 - **Environmentally ruinous**
 
-"The pursuit of present agricultural practices, assiduously promoted by chemical industry, scientific establishment and bureaucracy has forced hundreds of thousands of farmers to end their lives besides degrading environment and wreaking havoc to human health."
+"The pursuit of present [[mycorrhizal-agricultural-practices]], assiduously promoted by chemical industry, scientific establishment and bureaucracy has forced hundreds of thousands of farmers to end their lives besides degrading environment and wreaking havoc to human health."
 
 Health consequences attributed to chemical agriculture: diabetes, cancer, hypertension, renal failure, and multi-organ failure have "acquired epidemic proportions."
 
@@ -50,7 +50,7 @@ The system envisions contributing to "the alleviation of poverty, disease and en
 Both use non-chemical ingredients. However, Natural Farming:
 - Is specifically associated with the Janong Farming Institute and Dr. Cho Han Kyu
 - Has its own complete system (theory and practice)
-- Is set at a much lower cost than organic certification standards
+- Is set at a much lower cost than [[fukuoka-critique-organic-certification]] standards
 
 ### Key Distinction
 "Only farmers who have been educated in the institute or have been trained by Janong Natural Farming Institute in South Korea or by authorized personnel are called Natural Farmers."
@@ -122,15 +122,15 @@ The system uses 14+ natural preparations:
 7. **WP** (Water-Soluble Potassium)
 8. **WPA** (Water-Soluble Phosphoric Acid)
 9. **WCA** (Water-Soluble Calcium)
-10. **WCP** (Water-Soluble Calcium Phosphate)
+10. **WCP** (Water-Soluble [[bionutrients-lab-calcium-phosphate-calamansi]])
 11. **BRV** (Brown Rice Vinegar)
 12. **Yeast**
 13. **Loess Powder**
-14. **Seawater and Fermented Sea Water**
+14. **[[cho-seawater-and-fermented-seawater]] Sea Water**
 
 ### Flexibility Principle
 "Dr. Cho's insistence that farmers are free to experiment on their own and alternative local materials should be found as ingredients for various preparations lends flexibility and scope for farmers to innovate."
 
 ## Significance
 
-"No wonder Darwin said that civilization owes its existence to the microbes." Dr. Cho's system harnesses the power of naturally occurring microorganisms to replace all chemical inputs, offering a path to sustainable agriculture that is ecologically sound, economically viable, and accessible to resource-poor farmers worldwide.
+"No wonder Darwin said that civilization owes its existence to the microbes." Dr. Cho's system harnesses the power of naturally occurring microorganisms to replace all chemical inputs, offering a path to [[phosphate-accumulators-sustainable-agriculture]] that is ecologically sound, economically viable, and accessible to resource-poor farmers worldwide.

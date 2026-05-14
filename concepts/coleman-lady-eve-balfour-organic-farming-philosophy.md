@@ -46,7 +46,7 @@ Balfour drew a sharp distinction between addressing causes and treating symptoms
 
 ### The Consequence for Food Quality
 
-Balfour warned that food already low in nutritional value — what she called the capacity to transmit energy — was being further degraded by the addition of toxic [[pyrethrum-and-pyrethrin-natural-insecticides]] is no wiser than his chemical counterpart; different materials but the same mistake."
+Balfour warned that food already low in nutritional value — what she called the capacity to transmit energy — was being further degraded by the addition of toxic [[pyrethrum]] is no wiser than his chemical counterpart; different materials but the same mistake."
 
 ### The First Rule
 

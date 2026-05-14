@@ -77,7 +77,7 @@ and crabs cling to brush piles.
 Rafts serve remarkably diverse functions: floating docks for
 fish cage access, growing platforms for rope and mesh bag
 cultures, observation platforms, self-feeders for fish and
-waterfowl, solar energy platforms that economically track the
+waterfowl, [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] platforms that economically track the
 sun, water level managers for tidal or draw-down conditions, and
 insect incubators whose products fall into the water below.
 
@@ -118,7 +118,7 @@ multi-stage filter systems.
 
 ## Cage Culture
 
-Cages of wood, natural materials, metal mesh, and synthetic
+Cages of wood, [[building-with-natural-materials]], metal mesh, and synthetic
 meshes have been used since antiquity for fish production.
 
 They protect eggs and fry, hold live market fish, and house

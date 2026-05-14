@@ -35,7 +35,7 @@ type: comparison
 | **Frost tolerance** | Sensitive below ~2 °C | Moderately tolerant to light frost (~0 °C) |
 | **[[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and the Caribbean. It thrives in USDA zones 9–11, preferring well-drained sandy or loamy soils and full sun.
 
-*Moringa stenopetala* is endemic to the Rift Valley region of East Africa, particularly Ethiopia and southern Kenya, where it grows naturally at 400–1,800 m elevation. It is better adapted to cooler conditions and higher elevations than *M. oleifera*, making it a practical choice for [[mushroom-pests-and-diseases]] are rarely serious.
+*[[moringa-stenopetala]]* is endemic to the Rift Valley region of East Africa, particularly Ethiopia and southern Kenya, where it grows naturally at 400–1,800 m elevation. It is better adapted to cooler conditions and higher elevations than *M. oleifera*, making it a practical choice for [[mushroom-pests-and-diseases]] are rarely serious.
 
 *Moringa stenopetala* is similarly undemanding but seed availability outside its native range is limited. It prefers slightly more fertile soils and performs better with moderate rainfall compared to *M. oleifera*. Propagation from seed is straightforward when seed is obtainable; cuttings also root readily.
 

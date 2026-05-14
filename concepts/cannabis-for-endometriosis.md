@@ -36,7 +36,7 @@ The anti-proliferative mechanism is especially noteworthy because it suggests ca
 
 ## Strain Considerations
 
-WIN55,212-2 binds with higher affinity to CB2 than CB1 receptors. Indica or indica-dominant strains generally present with a lower THC:[[cannabis-for-womens-health]] for menstrual-related pain management
+WIN55,212-2 binds with higher affinity to CB2 than CB1 receptors. Indica or indica-dominant strains generally present with a lower THC:[[cannabis-womens-health]] for menstrual-related pain management
 
 - [[cannabis-topical-applications]] for localized pelvic application options
 

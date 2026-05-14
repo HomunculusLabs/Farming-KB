@@ -1,6 +1,6 @@
 ---
-title: Pond Polyculture and Integrated Aquaculture Design
-source: bill-mollison-permaculture-design-course.md
+title: Pond Polyculture Design
+source: bill-[[mollison-pdc-small-pond-frog-habitat-design|mollison]]-permaculture-design-course.md
 type: concept
 ---
 
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Pond polyculture in [[permaculture]] involves designing interconnected aquatic systems where each element supports the others, creating cascading yields from ponds, marshes, and tidal areas. Rather than monoculture fish farming, Mollison advocates for linked systems where ducks, wild rice, mussels, shrimp, fish, and edge plants form integrated food webs. The design principle is to have small specialized ponds at different conditions that flow into each other, with each producing different crops while enriching water for downstream systems.
+Pond polyculture in [[permaculture]] involves designing interconnected aquatic systems where each element supports the others, creating cascading yields from ponds, marshes, and tidal areas. Rather than monoculture fish farming, Mollison advocates for linked systems where ducks, wild rice, mussels, shrimp, fish, and edge plants form integrated food webs. The [[design-principle-integration]] is to have small specialized ponds at different conditions that flow into each other, with each producing different crops while enriching water for downstream systems.
 
 ## The Polyculture Model
 
@@ -37,14 +37,14 @@ This is polyculture, but not the naive version of putting everything together. S
 ### Stocking Rates and Benefits
 
 - **Eight ducks per quarter acre** is the standard stocking rate
-- More ducks produce more manure, accelerating nutrient cycling in the pond
+- More ducks produce more manure, accelerating [[nutrient-cycling-in-soil]] the pond
 - Ducks provide an additional crop (eggs, meat) beyond the pond's primary products
 - They greatly assist energy turnover within the pond ecosystem
 
 ### Duck Forage Systems
 
 Wild rice is ideal in duck ponds because:
-- It grows in the vegetative stage above duck height
+- It grows in the [[cannabis-vegetative-stage]] above duck height
 - The three-week dropping period provides superb duck food (harvest what you want, the rest falls for ducks)
 - It can be integrated into the dry cycle rotation
 
@@ -63,7 +63,7 @@ The highest known yields from home farm ponds come from blueberries and mulberri
 
 ### Trout
 
-Trout are the premium extensive fish for permaculture ponds:
+Trout are the premium extensive fish for [[water-in-permaculture-ponds-and-aquatic-plants]]:
 - Found naturally in beaver ponds with shaded escape areas
 - Optimal above 60°F but remain active at lower temperatures
 - Low on the trophic chain when feeding on natural forage
@@ -114,7 +114,7 @@ On land with salt flats behind the high tide mark:
 - Rocks can be thrown up on the tide side to block sea winds
 - Plant salt-resistant shrubs around the pond edges
 - Regulate tide range by adjusting boards in the channel (3 inches to one foot range twice daily)
-- The result: the cheapest swimming pool possible — self-flushing, always warm, inland, and sheltered
+- The result: the cheapest [[comparison-natural-swimming-pool-vs-conventional-pool]] possible — self-flushing, always warm, inland, and sheltered
 
 ### Oyster Culture
 
@@ -148,55 +148,3 @@ Natural scour holes behind logs, wrecks, or other obstructions demonstrate how l
 ### The Marsh-Pond Sequence
 
 Sewage should be turned into a marsh, not a pond:
-1. **Holding pond**: Receives raw sewage; necessary because winter dormancy prevents marsh plants from purifying water
-2. **Marsh with trees**: Grows mints, bog plants, and other species with phenomenal sewage demand. After passing through, water has no solids left
-3. **Nutrient pond**: Receives the still nutrient-rich water (mainly phosphates and nitrates) for aquaculture production
-
-### Case Study: Town of 8,000
-
-Mollison designed a sewage disposal system for a town of 8,000 people that:
-- Saved $30,000 annually in engineering costs
-- Saved equivalent amounts in fuel costs
-- Created an industrial base and employment through mint and bamboo production
-- Originally designed for 50 acres; the town later purchased 1,500 additional acres for raw material production
-- Incorporated waterfowl habitat with underwater shelving
-- Became so successful it attracted vast numbers of black swans and teal
-
-This contrasts sharply with a $700,000 mechanical sewage treatment plant in Canberra that produces poisonous water.
-
-## System Design Principles
-
-### The Complete Pond Ecosystem
-
-A well-designed pond integrates approximately 20 species of plants and small animals low on the trophic ladder:
-- Shrimps and yabbies (decomposers/herbivores)
-- Crayfish and catfish (omnivores)
-- Edge plants and pond plants (primary producers)
-- Ducks (nutrient cyclers and egg producers)
-- Mussels (filter feeders and phosphorus fixers)
-- Wild rice and vegetable crops (human food)
-
-### Minimum Viable Pond
-
-A very small area — six feet in diameter — is well worth having as a production pond with these integrated elements. The aquatic vegetables produced are as good as any land vegetables, with watercress and cattails as prime examples.
-
-### Even a Small Production Pond is Worthwhile
-
-In Australia, concrete production tanks from 5,000 to 25,000 gallons are available off the shelf. The most handy model costs only about $40 — a six-foot diameter, two-foot deep concrete pond that serves as an excellent small production unit.
-
-### Multiple Functions Always
-
-Every pond should be designed to serve:
-- Aquaculture production
-- Barrier/fencing function (saves fencing costs)
-- Reflection for adjacent gardens
-- Fire protection
-- Heat storage
-- Recreation
-- Water purification and nutrient collection
-- Wildlife habitat
-
-## See Also
-- [[permaculture-duck-pond-systems]]
-- [[permaculture-plants-aquatic-systems-water-plants]]
-- [[mollison-water-harvesting-management-permaculture]]

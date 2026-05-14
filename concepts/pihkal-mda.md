@@ -12,12 +12,12 @@ type: concept
 
 ## Overview
 
-MDA (3,4-methylenedioxyamphetamine) is a substituted amphetamine that
+[[mda]] (3,4-methylenedioxyamphetamine) is a substituted amphetamine that
 occupies a unique position as both a powerful empathogen-entactogen and a
 classical psychedelic. Documented in PIHKAL as compound #105, MDA is the
 direct precursor and inspiration for [[metzner-psycholytic-psychedelic-therapy-models]]
 research. Shulgin's exploration of MDA ultimately led to his discovery of
-MDMA's unique properties, making MDA pivotal in modern empathogen history.
+[[mdma]]'s unique properties, making MDA pivotal in modern empathogen history.
 
 The dual nature of MDA, combining empathogenic and psychedelic qualities,
 gives it a character distinct from both MDMA (primarily empathogenic) and

@@ -18,7 +18,7 @@ withdrawn, the tape is immediately pressed over the puncture to seal it.
 ### Injection Protocol
 
 Jarrold specifies two injection points per bag, with 5 cubic centimeters (cc) of
-spore solution at each point, totaling 10cc per bag. The injection points are
+[[spore]] solution at each point, totaling 10cc per bag. The injection points are
 located below the filter, spaced apart to allow the solution to distribute through
 different substrate regions. The needle is flame-sterilized between each injection,
 and each point is swabbed with propyl alcohol before the needle enters.
@@ -52,7 +52,7 @@ and no tape is required. Closing the lid restores the sterile barrier immediatel
 The long needle method uses a single injection point per bag with 10cc of spore
 solution. The needle reaches deep into the substrate, depositing solution in the
 interior rather than at the bag wall. This central placement promotes more even
-colonization as mycelium spreads outward from the center of the substrate mass.
+colonization as [[mycelium]] spreads outward from the center of the substrate mass.
 
 ### Advantages of the Long Needle Method
 

@@ -41,7 +41,7 @@ The genus name *Deschampsia* honors French botanist Louis-Auguste Deschamps (176
 - **Genus:** Deschampsia P. Beauv.
 - **Species:** D. flexuosa (L.) Trin.
 
-**Synonyms:** *Aira flexuosa* L., *Avena flexuosa* (L.) Hoffm., *Deschampsia caespitosa* var. *flexuosa* (L.) Hack.
+**Synonyms:** *Aira flexuosa* L., *Avena flexuosa* (L.) Hoffm., *[[deschampsia-caespitosa]]* var. *flexuosa* (L.) Hack.
 
 The plant forms loose to dense tussocks of fine basal leaves, typically 30–80 cm tall at maturity. Leaf blades are narrow (1–3 mm wide), involute or flat, and rough to the touch along the margins.
 
@@ -65,9 +65,9 @@ Elevation range extends from sea level to approximately 2,500 m in montane and s
 
 ## Ecology
 
-Wavy hair-grass is a dominant or codominant species in the *Vaccinium myrtillus*–*Deschampsia flexuosa* community type, one of the most widespread woodland ground-flora assemblages in boreal and temperate Europe.
+Wavy hair-grass is a dominant or codominant species in the *[[vaccinium-myrtillus]]*–*Deschampsia flexuosa* community type, one of the most widespread woodland ground-flora assemblages in boreal and temperate Europe.
 
-It provides important forage for grazing herbivores including red deer, roe deer, mountain hares, and various small mammals. Young growth is palatable, though [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi that enhance phosphorus uptake in low-nutrient environments. It shows moderate allelopathic potential, producing phenolic compounds that can inhibit seedling establishment of competing species.
+It provides important forage for grazing herbivores including red deer, roe deer, mountain hares, and various small mammals. Young growth is palatable, though [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi that enhance phosphorus uptake in low-nutrient environments. It shows moderate allelopathic potential, producing [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] that can inhibit seedling establishment of competing species.
 
 Fire ecology plays an important role in its habitat dynamics. The species resprouts readily from basal buds after fire, and its seeds germinate well on fire-exposed mineral soil. This regeneration strategy allows it to persist in fire-prone heathland and pine forest systems.
 
@@ -78,7 +78,7 @@ Plants maintain attractive form through winter in mild climates, with the golden
 ## Overview
 
 Deschampsia Flexuosa represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Deschampsia Flexuosa finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 deschampsia flexuosa and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

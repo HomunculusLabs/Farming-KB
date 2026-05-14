@@ -93,14 +93,10 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
 
-- [[jadam-chitosan-fertilizer]]
-- [[jadam-customized-microorganism-medium]]
-- [[jadam-history-founders]]
-- [[jadam-jhs-herb-selection-guide]]
-- [[jadam-local-material-resource-cycling]]
-- [[jadam-natural-pesticide-universal]]
-- [[jadam-planthopper-leafhopper-pesticide]]
-- [[jadam-soil-diagnosis-methods]]
-- [[jadam-water-spraying-guidelines]]
+- [[jadam-green-manure-crops-milk-vetch-rye-cover-cropping]]
+- [[jadam-human-waste-recycling-urine-food-waste-fertilizer]]
+- [[jadam-nutrient-cycling-traditional-farming-mineral-science]]
+- [[jadam-sulfur-herbal-solutions-disease-pest-control-recipes]]

@@ -30,7 +30,7 @@ cycling.
 ## Soil pH and Nutrient Availability
 
 Soil pH, measured on a scale from 0 to 14, determines the chemical availability
-of nutrients to plant roots. Most garden vegetables and ornamentals prefer a
+of nutrients to plant roots. Most [[companion-cultivation-of-mushrooms-with-garden-vegetables]] and ornamentals prefer a
 slightly acidic pH between 6.0 and 6.8. At this range, macronutrients like
 nitrogen, phosphorus, and potassium, plus most micronutrients, are readily
 available.
@@ -49,7 +49,7 @@ cycle describes how nitrogen moves through the atmosphere, soil, and living
 organisms. Atmospheric nitrogen is fixed by bacteria (both free-living and
 symbiotic rhizobia in legume root nodules) into forms plants can absorb.
 
-In the soil, organic nitrogen in plant residues and microbial biomass is
+In the soil, organic nitrogen in plant residues and [[soil-microbial-biomass-measurement-ecological-significance]] is
 converted to ammonium by mineralization. Nitrification, carried out by
 specialized bacteria, converts ammonium to nitrate, the form most readily
 taken up by plants. Nitrogen can be lost through leaching (especially nitrate),
@@ -58,15 +58,15 @@ volatilization as ammonia gas, and denitrification in waterlogged conditions.
 ## Phosphorus and Potassium
 
 Phosphorus is essential for energy transfer (ATP), root development, flowering,
-and fruit production. It is relatively immobile in soil and tends to accumulate
+and [[berry-fruit-production-cool-humid-climates]]. It is relatively immobile in soil and tends to accumulate
 near the surface. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], for example,
 extend root networks and improve nutrient and water uptake in exchange for
 carbon from the host plant.
 
 Beneficial soil microbes are supported by minimizing soil disturbance, keeping
 soil covered with plants or mulch, maintaining living roots year-round through
-cover crops, and maximizing plant diversity. These four principles form the
-foundation of conservation agriculture and regenerative soil management.
+[[biofumigation-and-brassica-cover-crops-for-pest-management]], and maximizing plant diversity. These four principles form the
+foundation of [[no-till-farming-principles]] and regenerative soil management.
 
 ## Composting
 
@@ -84,4 +84,4 @@ beds as a soil amendment, used as a mulch, or incorporated into potting mixes.
 
 ## Cover Crops
 
-Cover crops are plants grown primarily to benefit the soil rather than for
+[[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] plants grown primarily to benefit the soil rather than for

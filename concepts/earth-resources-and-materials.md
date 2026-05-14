@@ -1,5 +1,5 @@
 ---
-title: Earth Resources and Materials
+title: Earth Resources And Materials
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -19,7 +19,7 @@ Topsoil is typically only 6–18 cm deep. Where deeper deposits are found, the e
 Excavation in marshes, bogs, or lowlands may reveal 1–9 m (3–30 feet) of semi-compacted fibrous plant material. Peat should be stockpiled, with about 0.6 m (2 feet) returned to the surface as topsoil. The peat stockpile has multiple valuable uses:
 
 - **Soil improvement** — mixing with sands and loams creates additional topsoil
-- **Nursery growing medium** — an excellent fine-textured medium for [[permaculture]] systems:
+- **Nursery [[cervantes-green-algae-growing-medium]]** — an excellent fine-textured medium for [[permaculture]] systems:
 
 - **Road construction** — heaped gravel makes good roads and driveways
 - **Drainage** — gravel-filled drains provide reliable water movement
@@ -27,7 +27,7 @@ Excavation in marshes, bogs, or lowlands may reveal 1–9 m (3–30 feet) of sem
 - **Concrete** — angular gravel produces strong concrete
 - **Water filtration** — smooth gravel makes good water filters and enzyme columns
 - **Tree mulch** — gravel (along with cinder and crushed pumice) serves as an effective mulch
-- **Heat storage** — 19 mm-size angular gravel is optimal for thermal mass heat stores, where air from solar attics or glasshouses is blown through a wall or tank filled with gravel
+- **Heat storage** — 19 mm-size angular gravel is optimal for [[comparison-windbreak-vs-thermal-mass]] heat stores, where air from solar attics or glasshouses is blown through a wall or tank filled with gravel
 
 ## Shingle
 
@@ -35,14 +35,14 @@ Shingle (coarser than gravel) has specific uses:
 
 - **Road base** — good underlayer beneath gravel on roads
 - **Drainage** — effective in drainage systems
-- **Coarse filtration** — for filter beds and swimming pools
+- **Coarse filtration** — for filter beds and [[mollison-designers-natural-swimming-pools-and-water-purification]]
 - **Desert water condensation** — an excellent mulch for condensing atmospheric moisture in arid environments
-- **Wildlife habitat** — a refuge for snails and decomposer organisms
+- **[[hemenway-backyard-wildlife-habitat]]** — a refuge for snails and decomposer organisms
 - **Natural pool filtration** — filter beds for chemical-free swimming pools
 
 ## Slate
 
-Slate is a versatile building material from any rock that can be split:
+Slate is a versatile [[bamboo-as-building-material]] from any rock that can be split:
 
 - **Flooring** — durable, attractive floor surfaces
 - **Roofing** — traditional and long-lasting roof material

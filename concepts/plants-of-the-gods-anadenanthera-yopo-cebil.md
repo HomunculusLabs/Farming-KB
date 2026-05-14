@@ -15,7 +15,7 @@ type: concept
 
 Anadenanthera is a genus of two species of leguminous trees whose
 seeds have been used as hallucinogenic snuffs for approximately 4,500
-years in [[shamanism]] for divination, healing, and communication with the spirit
+years in shamanism for divination, healing, and communication with the spirit
 world. Among the Waika and other tribes of the upper Orinoco, Yopo
 snuff is employed alongside [[bufotenine]] (5-hydroxy-DMT). The snuff is
 prepared by toasting the seeds, grinding them to a powder, and mixing

@@ -12,7 +12,7 @@ White-rot fungi offer biological alternatives to physicochemical and chemical tr
 
 ## Limitations of Conventional Treatment
 
-Physicochemical treatments (flocculation, coagulation, adsorption, ion exchange, ultrafiltration, reverse osmosis) relocate contaminants rather than destroy them. Chemical bleaching with chlorine produces toxic organochlorine compounds. Ozonolysis is effective but prohibitively expensive due to high [[fungal-manganese-peroxidase-remediation]] (MnP)**: Oxidizes Mn(II) to Mn(III), stabilized by chelation with fungal organic acids (malonate, oxalate)
+Physicochemical treatments (flocculation, coagulation, adsorption, ion exchange, ultrafiltration, [[reverse-osmosis-compost-tea]]) relocate contaminants rather than destroy them. Chemical bleaching with chlorine produces toxic organochlorine compounds. Ozonolysis is effective but prohibitively expensive due to high [[fungal-manganese-peroxidase-remediation]] (MnP)**: Oxidizes Mn(II) to Mn(III), stabilized by chelation with fungal organic acids (malonate, oxalate)
 3. **Laccase**: Copper-containing phenol oxidase that generates low-molecular-weight redox mediators
 4. **H2O2-generating oxidases**: Glucose oxidase, cellobiose oxidase, aryl-alcohol oxidase supply peroxide
 
@@ -38,7 +38,7 @@ Temperature requirements vary by species but generally fall between 25°C and 30
 
 ### Molasses Spent Wash
 
-Phanerochaete chrysosporium and Trametes versicolor decolorize anaerobically digested sugarcane molasses spent wash, achieving 70-85% decolorization and 70-90% COD reduction. The melanoidin pigments responsible for color are recalcitrant and survive normal biological treatment. Multiple melanoidin-decolorizing enzymes have been isolated from C. versicolor, with a multiplicative effect between different enzyme activities. Glucose supplementation greatly improves decolorization. Rates and extents depend on organism, effluent concentration, and color intensity, with treatment times ranging from 1 to 10 days.
+[[phanerochaete-chrysosporium]] and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] decolorize anaerobically digested sugarcane molasses spent wash, achieving 70-85% decolorization and 70-90% COD reduction. The melanoidin pigments responsible for color are recalcitrant and survive normal biological treatment. Multiple melanoidin-decolorizing enzymes have been isolated from C. versicolor, with a multiplicative effect between different enzyme activities. Glucose supplementation greatly improves decolorization. Rates and extents depend on organism, effluent concentration, and color intensity, with treatment times ranging from 1 to 10 days.
 
 ### Olive Oil Mill Wastewater
 
@@ -62,7 +62,7 @@ Multiple reactor designs have been employed for white-rot fungal treatment of ef
 - **Immobilized systems** using calcium alginate or polyurethane foam matrices
 - **Trickle-bed reactors** where effluent percolates through a fungal colonized support
 
-A 200-liter packed-bed bioreactor using Pycnoporus cinnabarinus demonstrated practical scale potential (Lonergan et al., 1995). Mycelia can be reused over many cycles covering weeks to months, and can be stored at 4°C for several months retaining full decolorization activity. Both batch and continuous methods can be effective.
+A 200-liter packed-bed bioreactor using [[pycnoporus-cinnabarinus]] demonstrated practical scale potential (Lonergan et al., 1995). Mycelia can be reused over many cycles covering weeks to months, and can be stored at 4°C for several months retaining full decolorization activity. Both batch and continuous methods can be effective.
 
 ### Scale-Up Challenges
 
@@ -72,7 +72,7 @@ Transitioning from laboratory to industrial scale presents several obstacles. Ma
 
 Choosing the right fungal species for a given effluent depends on multiple factors:
 
-- **Phanerochaete chrysosporium**: The most extensively studied species. Produces LiP and MnP under nitrogen limitation. Best for kraft effluents and high-molecular-weight chlorolignins. Requires careful culture conditions to induce ligninolytic enzymes.
+- **Phanerochaete chrysosporium**: The most extensively studied species. Produces LiP and MnP under nitrogen limitation. Best for kraft effluents and high-molecular-weight chlorolignins. Requires careful culture conditions to induce [[ligninolytic-enzymes]].
 - **Trametes versicolor (Coriolus versicolor)**: Produces laccase as the primary enzyme. Effective across a broad range of dye types and effluent compositions. More tolerant of varying nitrogen conditions than P. chrysosporium.
 - **Pleurotus ostreatus**: Produces MnP and laccase. Particularly effective for phenol-rich effluents. Edible species, making spent biomass potentially useful as animal feed or compost after treatment.
 

@@ -17,7 +17,7 @@ species acting as a parasite and has banned its importation.
 Authorities on other islands including New Zealand and Hawaii also
 consider reishi a threat to their native trees. Some parasitic fungi
 behave like saprophytes, such as honey mushrooms (Armillaria mellea
-and Armillaria ostoyae), which may be found thriving on the corpse
+and [[armillaria-ostoyae]]), which may be found thriving on the corpse
 of their tree host. This dual behavior blurs the line between
 saprophytic and parasitic lifestyles.
 

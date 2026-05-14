@@ -84,3 +84,9 @@ with high specificity.
 - [[det]]
 - [[fungal-intracellular-metal-binding-molecules]]
 - [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]]
+
+## See Also
+
+- [[chelation-and-mineral-uptake-in-plants]]
+- [[chelation-plant-nutrient-availability]]
+- [[chelation-plant-nutrition]]

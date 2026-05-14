@@ -1,5 +1,5 @@
 ---
-title: Community Money and [[asset-categories-mollison]]
+title: "Community Money And Asset Categories"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

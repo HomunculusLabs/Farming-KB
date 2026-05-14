@@ -83,4 +83,4 @@ to inform current best practices and research directions.
 ## See Also
 - [[psilocybin]]
 - [[det]]
-- [[shamanism]]
+- shamanism

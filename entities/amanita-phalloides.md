@@ -1,5 +1,5 @@
 ---
-title: [[amanita-phalloides-death-cap]]
+title: "Amanita Phalloides"
 created: 2026-04-28
 type: species
 tags:

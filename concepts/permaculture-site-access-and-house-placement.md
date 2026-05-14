@@ -6,12 +6,12 @@ type: concept
 
 # Permaculture Site Access and House Placement
 
-Access placement is the first move in permaculture design, followed immediately by house site selection. These two decisions lock in the energy efficiency, maintenance costs, and livability of the entire property for decades or centuries. Get them wrong, and no amount of clever planting or water management can compensate. Mollison's treatment of these topics is characteristically direct: "Placing access is your first move."
+[[site-resources-and-access-placement]] is the first move [[ecological-succession-in-permaculture-design]], followed immediately by house site selection. These two decisions lock in the energy efficiency, maintenance costs, and livability of the entire property for decades or centuries. Get them wrong, and no amount of clever planting or water management can compensate. Mollison's treatment of these topics is characteristically direct: "Placing access is your first move."
 
 ## The Design Sequence
 
 The recommended order of operations for site design is:
-1. **Set property boundaries** — On large properties, this may require aerial survey ("fly the bounds"). Photography and maps are useful for records and navigation but the primary tool is walking the land yourself.
+1. **Set [[holzer-high-beds-property-boundaries]]** — On large properties, this may require aerial survey ("fly the bounds"). Photography and maps are useful for records and navigation but the primary tool is walking the land yourself.
 2. **Identify water resources and flows** — Springs, streams, runoff patterns, seepage areas
 3. **Place access** — Road placement according to keyline principles
 4. **Select house site(s)** — Thermal position, fire safety, solar access
@@ -49,7 +49,7 @@ Always finish the access upgrade on an uphill approach to the dwelling, even if 
 ### Thermal Position
 The house site must balance solar gain with wind protection. Key considerations:
 - **Avoid ridge tops**: Bare ridges are "fire tunnels" and "wind tunnels." Houses on exposed ridges change hands every four years because "nobody can stand the misery and the energy expense." Solar collectors on exposed ridges drop to only 40% efficiency in high winds — most heat simply blows away.
-- **Avoid valley bottoms**: Valleys funnel wind and channel cold air drainage at night
+- **Avoid valley bottoms**: Valleys funnel wind and channel [[hemenway-cold-air-drainage-and-frost-management]] at night
 - **Ideal position**: Just below a ridge crest, on the sun-facing slope. The occupant "will lose very little in view" but gains enormous shelter and energy savings
 - **Minor ridges between major ridges**: Sitting on a little ridge between two larger ridges, backing into mountains while facing the sun, is the classic Appalachian ideal — "you will see that time and again"
 - **Not on the absolute ridge**: "Get your client off that ridge — just below the ridge." A place like a bare ridge top "changes hands every four years." A happy, sheltered place "very rarely changes hands, maybe three or four times in 200 years."
@@ -61,7 +61,7 @@ Keep the house site away from fire tunnels — valleys and saddles that channel 
 "As a rule, the fewer trees around it, the oftener it resells. Lack of trees is a miserable thing for cattle and people." Tree cover provides windbreak, summer cooling, winter insulation, and psychological comfort. The contrast between happy, well-sited places and miserable, exposed ones is stark in property turnover rates.
 
 ### Energy Efficiency
-Sixty percent of energy efficiency is lost "just by being exposed." This applies equally to buildings and to solar heat collectors. Proper siting behind tree cover and topographic shelter is the single most important energy conservation measure available.
+Sixty percent of energy efficiency is lost "just by being exposed." This applies equally to buildings and to solar heat collectors. Proper siting behind tree cover and topographic shelter is the single most important [[desert-house-water-energy-conservation]] measure available.
 
 ## The Two Type-One Errors
 
@@ -101,6 +101,6 @@ After laying out water, access, and house sites, the designer should look at spe
 - [[permaculture-access-and-circulation-design]]
 - [Permaculture Zone 0 House Design](permaculture-zone-0-house-design.md)
 - [[permaculture-design-process]]
-- [[zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
-- [Permaculture Resource Assessment and Client Consultation](permaculture-resource-assessment-and-client-consultation.md)
+- [[zone-and-sector-analysis]](permaculture-[[zone-and-sector-analysis]].md)
+- [permaculture resource assessment and client consultation and Client Consultation](permaculture-resource-assessment-and-client-consultation.md)
 - [Climate Site Analysis]([[mollison-climate-site-analysis-permaculture]].md)

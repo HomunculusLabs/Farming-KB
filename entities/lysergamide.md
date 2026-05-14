@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Hofmann, A. (1979). "The Discovery of LSD and Subsequent Investigations on Naturally Occurring and Semi-Synthetic Ergot Alkaloids." Toxicon 17(Suppl 1): 1-24.
   - Nichols, D.E. (2018). "Lysergamides: Chemistry, pharmacology, and analytical methods." In: Pharmacology of LSD: A Review, Springer.
-  - Passie, T. et al. (2008). "The pharmacology of lysergic acid diethylamide: a review." CNS Neuroscience & Therapeutics 14(4): 295-314.
+  - Passie, T. et al. (2008). "The pharmacology of [[lsd-d-lysergic-acid-diethylamide]]: a review." CNS Neuroscience & Therapeutics 14(4): 295-314.
   - Schmid, G. & Eich, E. (2001). "Ergot alkaloids: Pharmacology and biosynthesis." In: Bioactive Natural Products, Elsevier.
 created: 2026-04-28
 ---
@@ -21,7 +21,7 @@ created: 2026-04-28
 
 Lysergamide (9,10-didehydro-6-methylergoline-8β-carboxamide) is the core structural scaffold of the ergoline alkaloid family, a class of indole-derived compounds produced primarily by fungi of the genus Claviceps and several higher plant species.
 
-The lysergamide framework is the pharmacophore for one of the most potent psychoactive substances known, LSD (D-[[lysergic-acid-diethylamide]]), as well as numerous other biologically active compounds including ergotamine, pergolide, and nicergoline.
+The lysergamide framework is the pharmacophore for one of the most potent [[cultural-evolution-and-psychoactive-substances]] known, LSD (D-[[lysergic-acid-diethylamide]]), as well as numerous other biologically active compounds including ergotamine, pergolide, and nicergoline.
 
 The basic structure consists of a tetracyclic ergoline ring system with an amide substituent at the C-8 position. This relatively simple scaffold supports extraordinary structural diversity through modifications at the amide nitrogen, the N-6 position, and various positions on the indole ring, generating compounds with pharmacological profiles ranging from psychedelic to vasoconstrictive to dopaminergic.
 
@@ -58,7 +58,7 @@ Major lysergamide derivatives include LSD (diethylamide), LSA (ergine/lysergic a
 ## Overview
 
 Lysergamide represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -79,7 +79,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Lysergamide finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -87,7 +87,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -108,7 +108,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 lysergamide and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

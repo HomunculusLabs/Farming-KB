@@ -6,7 +6,7 @@ tags: [herbal-plant, lamiaceae, culinary-herb, medicinal-plant, companion-plant]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "general botanical and herbal medicine knowledge"
+  - "general botanical and childrens-herbal-medicine knowledge"
 ---
 
 # Ocimum basilicum
@@ -25,7 +25,7 @@ pollinator attraction.
 - **Etymology:** Greek "basilikos" (βασιλικός) = "royal"; Hindi name "tulsi"
   derives from Sanskrit
 - **Synonyms:** O. album (Mill.), O. bullatum (M.Bieb.), Plectranthus barbasii
-- **Related species:** O. tenuiflorum (holy basil), O. gratissimum (African
+- **Related species:** O. tenuiflorum ([[holy-basil-tulsi-guide]]), O. gratissimum (African
   basil), O. americanum, O. kilimandscharicum (camphor basil)
 
 ## Description
@@ -33,7 +33,7 @@ pollinator attraction.
 Ocimum basilicum is a fast-growing, tender annual herb reaching 20–60 cm in
 height (up to 1 m in some cultivars). The stem is square (characteristic of
 Lamiaceae), green to purplish-green, branching from the base, and densely
-covered in fine glandular hairs that secrete the aromatic essential oils.
+covered in fine glandular hairs that secrete the aromatic [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
 Leaves are opposite, decussate, ovate to broadly lanceolate, 2–8 cm long and
 1–4 cm wide, with serrate margins, acuminate tip, and cuneate base.
 Leaf color ranges from bright green to deep purple depending on cultivar.
@@ -57,7 +57,7 @@ cultivation, flower buds are typically pinched to prolong leaf production.
 - **Native range:** Tropical/subtropical South Asia; earliest cultivation
   records from India circa 3000 BCE
 - **Naturalized:** Mediterranean basin, Southern Europe, North Africa, Middle
-  East, South America, Pacific Islands, southern US
+  East, [[guzman-psilocybin-mushrooms-south-america]], [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], southern US
 - **Cultivation:** Worldwide; summer annual in temperate zones, perennial only
   in frost-free climates (USDA zones 10–11)
 - **Habitat:** Full sun, well-drained soils; garden escape in disturbed sites

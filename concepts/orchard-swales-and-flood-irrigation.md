@@ -1,5 +1,5 @@
 ---
-title: Orchard Swales and Flood Irrigation
+title: Orchard Swales And Flood Irrigation
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -10,16 +10,16 @@ type: concept
 
 ## Earth Tanks
 
-Earth tanks are excavated ponds where the soil dug out is piled up on the down-sun side to create a **sun trap**. The berm protects the water surface from wind and reflects warmth back onto the pond, extending the growing season for marginal species. Earth tanks serve multiple purposes:
+Earth tanks are excavated ponds where the soil dug out is piled up on the down-sun side to create a **sun trap**. The berm protects the water surface from wind and reflects warmth back onto the pond, extending [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] for marginal species. Earth tanks serve multiple purposes:
 
 - **Plant habitats**: Depths of 3–6 feet support aquatic and riparian plants, providing habitat and forage.
 - **Kettle holes for fish**: Deeper excavations within the tank create protected pockets where fish can survive and breed.
 - **Stock water**: Open water for livestock on rangeland.
-- **Microclimate creation**: The piled soil warms quickly in spring, enabling early planting on the berm itself.
+- **[[holzer-climate-zone-microclimate-creation]]**: The piled soil warms quickly in spring, enabling early planting on the berm itself.
 
 ## Lock Pipes and Flags
 
-A **lock pipe** is a pipe laid through a dam wall at a set height, sealed with a removable flag (a simple plug). When the flag is pulled, water flows from the dam into an irrigation channel or diversion drain. This is the simplest possible irrigation valve — no mechanical parts, no cost beyond the pipe itself. Flags allow controlled release from storage into downstream systems on demand.
+A **lock pipe** is a pipe laid through a dam wall at a set height, sealed with a removable flag (a simple plug). When the flag is pulled, water flows from the dam into an irrigation channel or [[diversion-drain-mollison]]. This is the simplest possible irrigation valve — no mechanical parts, no cost beyond the pipe itself. Flags allow controlled release from storage into downstream systems on demand.
 
 ## Floodgate Irrigation
 
@@ -42,7 +42,7 @@ Swales are shallow, broad ditches dug **on contour** to intercept runoff and all
 
 - **Construction**: Minimum 4 feet wide, dug level along the contour. In **clay soils**, compacted clay sections in the swale bottom hold standing ponds for slow infiltration. In **sandy soils**, the swale is widened to spread water over a larger area for faster absorption.
 - **White clover**: Plant white clover on the swale mound as a nitrogen-fixing ground cover that tolerates foot traffic and mowing.
-- **Grass mowing**: Mow grass from the inter-tree alleys and throw it onto the swale mound, building organic matter and mulch in place.
+- **Grass mowing**: Mow grass from the inter-tree alleys and throw it onto the swale mound, building [[savory-soil-organic-matter-and-decomposition-dynamics]] mulch in place.
 - **Regrading soil**: Over time, soil and organic matter migrate downslope from the swale mound toward the tree line. Periodically regrade — shovel the accumulated soil and [[humus]] back upslope to the trees, maintaining fertility where the roots need it.
 - **Staggering tree species**: Place **narrow-leaf deciduous trees** (peaches, apricots, almonds) on the **uphill side** of the swale, and **broad-leaf species** (apples, pears, plums) on the **downhill side**. Narrow-leaf trees cast less shade and allow more light penetration to the broad-leaf trees below, while the downhill species benefit from deeper moisture reserves in the soil below the swale.
 
@@ -75,7 +75,7 @@ Swale principles apply at the urban scale. **Davis, California** is a widely cit
 
 ## Bamboo on Dam Banks
 
-Bamboo planted on dam banks provides erosion control, windbreak, and useful material. Two growth forms matter:
+Bamboo planted on dam banks provides [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], windbreak, and useful material. Two growth forms matter:
 
 - **Monopodial (clumping) bamboo**: Stays in a tight clump, produces large edible shoots, does not invade the dam or surrounding land. Preferred for food production and controlled growth.
 - **Sympodial (runner) bamboo**: Spreads aggressively via rhizomes, producing many small culms. Good for arrow shafts, stakes, and erosion control on large banks where spreading is acceptable.

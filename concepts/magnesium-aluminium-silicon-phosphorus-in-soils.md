@@ -12,7 +12,7 @@ Magnesium, aluminium, [[dolomite]]. It is needed by plants and is common in most
 
 ### Soil Availability
 
-Magnesium is likely to be deficient only in sands and sandy soils. It is present in the clay fraction of soils and is released by soil acids and [[cation-exchange-capacity]] of deep, red, heavily-leached tropical soils. An application of cement dust can assist this exchange in such conditions.
+Magnesium is likely to be deficient only in sands and sandy soils. It is present in the clay fraction of soils and is released by soil acids and [[cation-exchange-capacity]] of deep, red, heavily-leached [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]. An application of cement dust can assist this exchange in such conditions.
 
 ### Conifer Concerns
 
@@ -41,11 +41,11 @@ Phosphorus (as phosphate) is an essential, common plant element recycled by many
 
 ### Global Deficiency Crisis
 
-There is a general world soil phosphate deficiency, especially in poorer countries, while most western soils are now over-supplied with a very large unused soil bank of phosphorus. Of all the phosphatic fertilisers used, Europe and North America consume 75% and get least return from this input because of overuse, over-irrigation, and poor soil economy.
+There is a general world soil phosphate deficiency, especially in poorer countries, while most western soils are now over-supplied with a very large unused soil bank of phosphorus. Of all the phosphatic fertilisers used, Europe and [[guzman-psilocybin-mushrooms-north-america]] consume 75% and get least return from this input because of overuse, over-irrigation, and poor soil economy.
 
 ### Contamination Risks
 
-In some oceanic guano deposits, phosphates can be contaminated by cadmium, mercury, uranium (40 ppm), and fluorides. Cadmium levels in inorganic market garden crops may commonly exceed health limits as a result.
+In some oceanic guano deposits, phosphates can be contaminated by cadmium, mercury, uranium (40 ppm), and fluorides. Cadmium levels in inorganic [[coleman-louis-savier-french-market-garden-modernization]] crops may commonly exceed health limits as a result.
 
 ### pH and Availability
 
@@ -77,7 +77,7 @@ Of all elements of critical importance to plants, phosphorus is the least common
 
 ## See Also
 
-- [[soil-ph|soil-ph-and-chemistry]] — pH effects on nutrient availability
+- [[soil-ph|soil-ph-and-chemistry]] — pH effects on [[ph-and-nutrient-availability-garden-soils]]
 - calcium and soil structure — Calcium-magnesium interactions
-- nitrogen fixing plants — Legume phosphorus relationships
-- soil mineral deficiency — Diagnosing and correcting deficiencies
+- [[nitrogen-fixing-plants-in-permaculture]] — Legume phosphorus relationships
+- soil [[mineral-deficiency-remedies]] — Diagnosing and correcting deficiencies

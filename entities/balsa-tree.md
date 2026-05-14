@@ -35,17 +35,17 @@ Balsa wood is exceptionally light (density approximately 100-200 kg/m3) yet rema
 
 ### Plantation Potential
 
-Mollison positions balsa as an example of how permaculture designers can identify high-value tree crops suitable for tropical and subtropical sites. The rapid growth rate and high value per tree make it an excellent candidate for [[agroforestry]] systems where quick returns are needed to sustain longer-term perennial establishment.
+Mollison positions balsa as an example of how [[bill-mollison]] can identify high-value [[mollison-designers-avocado-mango-and-subtropical-tree-crops]] suitable for tropical and subtropical sites. The rapid growth rate and high value per tree make it an excellent candidate for [[agroforestry]] systems where quick returns are needed to sustain longer-term perennial establishment.
 
 ### Pioneer Species Characteristics
 
-Balsa is naturally a pioneer species that colonizes disturbed areas in tropical forests. This ecological role translates well to permaculture applications — balsa can be established on degraded sites, providing quick canopy cover and income while longer-term canopy species develop beneath it.
+Balsa is naturally a pioneer species that colonizes disturbed areas in [[fungal-biodiversity-tropical-forests]]. This ecological role translates well to permaculture applications — balsa can be established on degraded sites, providing quick canopy cover and income while longer-term canopy species develop beneath it.
 
 ## Relevance to Cultivation and Permaculture
 
 ### Time-Stacking in Agroforestry
 
-Balsa's rapid growth makes it an ideal component of time-stacked agroforestry designs. It provides income in years 3-5 while slower-growing timber, fruit, or nut trees mature. After balsa harvest, the site has improved soil conditions and partial canopy from remaining species.
+Balsa's rapid growth makes it an ideal component of time-stacked agroforestry designs. It provides income in years 3-5 while slower-growing timber, fruit, or [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] mature. After balsa harvest, the site has improved soil conditions and partial canopy from remaining species.
 
 ### Capital Generation for Land Development
 
@@ -73,7 +73,7 @@ The balsa example reinforces Mollison's principle that a permaculture designer s
 
 ### Nursery and Seed Supply
 
-The first balsa plantation in Australia also created a seed and seedling supply business, demonstrating how permaculture enterprises can generate income at multiple stages — from nursery stock through to harvest timber.
+The first balsa plantation in Australia also created a [[cho-seed-and-seedling-vitality-restoration]] supply business, demonstrating how permaculture enterprises can generate income at multiple stages — from [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] through to harvest timber.
 
 ## Source Reference
 

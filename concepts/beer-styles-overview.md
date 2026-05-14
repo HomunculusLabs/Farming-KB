@@ -105,7 +105,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[beer-brewing-basics]]
-- [[cotter-mushroom-infused-beer-wine-and-spirits]]
+- [[mushroom-infused-beer-wine-and-spirits]]
 - [[herbal-beer-ingredients]]
 - [[history-of-beer-and-brewing]]
 - [[root-beer-making]]

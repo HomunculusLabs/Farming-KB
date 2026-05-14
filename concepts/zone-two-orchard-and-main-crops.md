@@ -1,12 +1,12 @@
 ---
-title: Zone Two Orchard and Main Crops
+title: Zone Two Orchard And Main Crops
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
 ## Overview
 
-Zone two sits just beyond zone one in the [[permaculture]] zonation system. It is less intensively managed but still visited regularly — perhaps daily or several times per week during growing seasons. This zone contains the orchard, main crop gardens, spot-mulched rather than heavily mulched areas, lightly rather than heavily manured crops, and the foods that comprise the bulk of storage goods for the client group. Zone two also houses products from small domestic animals and serves as the primary nutrient collection zone feeding back into zone one.
+Zone two sits just beyond zone one in the [[permaculture]] zonation system. It is less intensively managed but still visited regularly — perhaps daily or several times per week during [[jeavons-climate-adaptation-growing-seasons]]. This zone contains the orchard, main crop gardens, spot-mulched rather than heavily mulched areas, lightly rather than heavily manured crops, and the foods that comprise the bulk of storage goods for the client group. Zone two also houses products from small [[permaculture-domestic-animals]] and serves as the primary nutrient collection zone feeding back into zone one.
 
 ## The Nutrient Funnel
 
@@ -76,3 +76,11 @@ Asparagus benefits from ducks and chickens, which eat the asparagus beetle and a
 
 The purposes of the zones are to **design distances properly**. When this is done, it pays hundreds of times over. Every time a designer breaks the zone rules, there are consequences — neglected crops, unreached harvests, uncollected manure. The zone system is not about rigid circles but about optimizing the relationship between human attention frequency and the needs of each element in the design.
 - [[mollison-designers-domestic-animal-integration-design]]
+
+## Practical Applications
+
+Zone two orchard and main crops has several important applications in [[phosphate-accumulators-sustainable-agriculture]] and ecological design. Practitioners integrate these methods into [[savory-holistic-management-overview]] systems that enhance productivity while maintaining [[fukuoka-bushman-world-ecological-balance]].
+
+## Historical Significance
+
+The development and understanding of zone two orchard and main crops has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.

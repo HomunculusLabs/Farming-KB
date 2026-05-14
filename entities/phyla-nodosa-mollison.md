@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-*[[phyla-nodosa]]* (formerly *Lippia nodosa*) is a low-growing, mat-forming perennial plant recommended by [[bill-mollison]] as a nitrogenous mulch source for taro terrace bunds. It is a creeping herb of the Verbenaceae family that spreads along the ground, forming dense mats. In taro polyculture systems, it serves as living mulch on bunds between wet terraces, where it is naturally trimmed at the water level by fish such as [[tilapia]] and grass carp. This plant exemplifies the [[permaculture]] principle of self-managing elements within a designed system.
+*phyla nodosa mollison* (formerly *Lippia nodosa*) is a low-growing, mat-forming perennial plant recommended by [[bill-mollison]] as a nitrogenous mulch source for taro terrace bunds. It is a creeping herb of the Verbenaceae family that spreads along the ground, forming dense mats. In taro polyculture systems, it serves as living mulch on bunds between wet terraces, where it is naturally trimmed at the water level by fish such as [[tilapia]] and grass carp. This plant exemplifies the [[permaculture]] principle of self-managing elements within a designed system.
 
 ## Classification
 

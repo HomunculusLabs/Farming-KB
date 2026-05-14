@@ -1,5 +1,5 @@
 ---
-title: [[community-finance-and-alternative-economies]] Commonwork
+title: "Community Finance Commonwork"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

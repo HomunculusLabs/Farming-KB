@@ -23,7 +23,7 @@ sources:
 
 **Morus nigra**, the black mulberry, is a deciduous tree in the family Moraceae native to
 Southwestern Asia. It is cultivated worldwide for its dark, flavorful fruit, which is richer
-in anthocyanins and flavor compounds than the white mulberry (*M. alba*) or red mulberry
+in anthocyanins and flavor compounds than the [[white-mulberry-mollison]] (*M. alba*) or red mulberry
 (*M. rubra*). Black mulberry fruit has a long history of use in traditional Persian, Greek,
 and Roman medicine, where it was valued for throat ailments, digestive complaints, and as a
 general tonic.

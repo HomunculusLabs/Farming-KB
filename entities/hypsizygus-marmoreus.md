@@ -104,8 +104,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[growing-gourmet-buna-shimeji-hypsizygus-cultivation]]
-- [[growing-gourmet-elm-oyster-hypsizygus-ulmarius]]
-- [[hypsizygus-tessellatus]]
-- [[hypsizygus-tessulatus]]
-- [[hypsizygus-ulmarius]]
+- [[hypsizygus-cultivation]]
+- [[hypsizygus-elm-oyster-and-shimeji-cultivation]]
+- [[hypsizygus-genus]]

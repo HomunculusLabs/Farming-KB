@@ -140,11 +140,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[pf-tek-brown-rice-flour-freshness-and-preparation]]
-- [[pf-tek-brown-rice-vermiculite-substrate-formulation]]
-- [[pf-tek-control-jar-sterility-verification]]
-- [[pf-tek-desiccant-drying-chemistry-and-materials-guide]]
-- [[pf-tek-desiccant-drying-mushroom-preservation]]
-- [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
-- [[pf-tek-mass-spore-inoculation-and-senescence-avoidance]]
-- [[pf-tek-mushroom-potency-harvest-timing]]
+- [[pf-substrate-formula-and-jar-preparation]]
+- [[pf-tek-introduction-and-history]]
+- [[pf-tek-supply-lists]]

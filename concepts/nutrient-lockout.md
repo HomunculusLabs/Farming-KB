@@ -53,7 +53,7 @@ Excessive levels of certain nutrients can lock out others:
 ### Calcium Excess
 - Exacerbates deficiencies of potassium, magnesium, manganese, and iron
 - These nutrients become unavailable even though they are present
-- In hydroponics, excess calcium precipitates with sulfur to form insoluble gypsum (calcium sulfate)
+- In hydroponics, excess calcium precipitates with sulfur to form insoluble [[gypsum]] (calcium sulfate)
 - Can stunt growth if applied in excess early in plant life
 
 ### General Over-Fertilization

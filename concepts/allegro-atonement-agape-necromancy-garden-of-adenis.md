@@ -27,19 +27,19 @@ sacred plant.
 
 I Samuel 28:7-14 describes Saul consulting the witch at En-Dor, where Samuel's
 ghost appears as an 'Elohim "coming out of the ground," wearing a robe that
-ancient versions describe "like an erection" — a phallic mushroom image. The
+ancient versions describe "like an erection" — a phallic [[psilocybin-mushroom-image-guide-habitat-clues]]. The
 ghost rises from the earth itself, like the fungus pushing through soil.
 
 The Sumerian NAM-TAR, "plague demon," passes into Greek as Nektar, the divine
 drink of the gods. Lilith, the "night-hag" of Isaiah 34:14, is probably another
-mushroom word — a chthonic female spirit associated with the underworld and
+[[allegro-bible-morals-ten-commandments-mushroom-word-play]] — a chthonic female spirit associated with the underworld and
 with the mushroom that grows in darkness.
 
 The Rephaim, described as those "cast down from heaven," correspond to the
 fallen angels of Genesis 6 who, according to Enoch, "taught them charms,
 cutting of roots, acquaintance with plants." Isaiah 26:19 promises "Thy dead
 shall live…on the land of the Shades (Rephaim) thou wilt let dew fall" — the
-dew of light associated with Venus, the Morning Star, whose cult is inseparable
+dew of light associated with Venus, the [[allegro-morning-star-lucifer-venus-dew-manna-st-elmo-fire]], whose cult is inseparable
 from the mushroom.
 
 ## The Agape Feast

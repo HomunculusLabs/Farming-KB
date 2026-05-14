@@ -1,5 +1,5 @@
 ---
-title: Persimmon Cultivation and Variety Guide
+title: Persimmon Cultivation And Variety Guide
 tags:
   - persimmon
   - fruit-trees
@@ -20,7 +20,7 @@ sources:
 
 # Persimmon Cultivation and Variety Guide
 
-Persimmons (genus *Diospyros*) are among the most underappreciated fruit trees for permaculture and home orchards. They produce abundant, sweet, nutrient-dense fruit with minimal care, resist most pests and diseases, and thrive across a wide range of climates. The two species most relevant to growers in temperate regions are the Asian persimmon (*[[diospyros-kaki]]*) and the American persimmon (*D. virginiana*). A third species, the date plum (*D. lotus*), serves primarily as a rootstock.
+Persimmons (genus *Diospyros*) are among the most underappreciated fruit [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]] and home orchards. They produce abundant, sweet, nutrient-dense fruit with minimal care, resist most [[mushroom-pests-and-diseases]], and thrive across a wide range of climates. The two species most relevant to growers in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] are the Asian persimmon (*[[diospyros-kaki]]*) and the American persimmon (*D. virginiana*). A third species, the date plum (*D. lotus*), serves primarily as a rootstock.
 
 ## Botanical Overview
 
@@ -40,7 +40,7 @@ Non-astringent persimmons lose their tannins as they develop on the tree and can
 
 - **Fuyu** (also called 'Jiro'): The most widely grown non-astringent variety worldwide. Flattened, tomato-shaped fruit with sweet, crisp flesh. Reliable producer, self-fertile. Ripens October–November.
 - **Giant Fuyu**: Larger version of standard Fuyu with similar characteristics. Fruit can reach 5+ inches in diameter.
-- **Izu**: Smaller tree (10–12 feet), making it ideal for small spaces and container growing. Fruit resembles Fuyu but ripens 2–3 weeks earlier. Good choice for marginal climates.
+- **Izu**: Smaller tree (10–12 feet), making it ideal for small spaces and container growing. Fruit resembles Fuyu but ripens 2–3 weeks earlier. Good choice for [[holzer-fruit-growing-marginal-climates]].
 - **Maru** ('Coffee Cake' or 'Nikita's Gift'): Unique non-astringent variety that develops cinnamon-colored internal streaks when pollinated, giving a spicy, complex flavor. Requires a pollinator.
 - **Jiro**: Similar to Fuyu but with slightly earlier ripening. The tree is somewhat more upright in growth habit.
 - **Maekawa Jiro**: A bud sport of Jiro with more consistent fruit shape and earlier bearing age.
@@ -109,7 +109,7 @@ Persimmons are remarkably tolerant of poor soils but perform best in:
 ### Sun and Space
 
 - **Sun**: Full sun (6+ hours direct sunlight) for best fruit production. Tolerates partial shade but will produce less fruit.
-- **Spacing**: 12–20 feet between Asian persimmon trees, 20–30 feet for American types (they can get large). In permaculture food forests, they serve well in the [[drought-tolerant-planting-design]].
+- **Spacing**: 12–20 feet between Asian persimmon trees, 20–30 feet for American types (they can get large). In [[nut-tree-cultivation-for-permaculture-food-forests]], they serve well in the [[drought-tolerant-planting-design]].
 5. **Mulching**: Apply 3–4 inches of organic mulch (wood chips, leaves, straw) in a wide ring around the tree, keeping mulch away from the trunk. This retains moisture and suppresses weeds.
 6. **Staking**: Stake young trees for the first 1–2 years to protect against wind.
 

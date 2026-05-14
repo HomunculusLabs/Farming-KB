@@ -15,7 +15,7 @@ Hepatitis—inflammation of the liver—represents a major global health burden,
 Hepatitis can also result from:
 - Toxins and alcohol abuse
 - Pharmacological medications (acetaminophen, ibuprofen)
-- [[blesching-cannabis-viral-infections]] (yellow fever) or [[blesching-cbd-faah-inhibition-anandamide-preservation-mechanism]]**: Blocking FAAH (the enzyme that breaks down anandamide) further enhanced antiviral activity by sustaining higher anandamide levels
+- [[blesching-cannabis-viral-infections]] (yellow fever) or [[cbd-faah-inhibition-anandamide-preservation-blesching]]**: Blocking FAAH (the enzyme that breaks down anandamide) further enhanced antiviral activity by sustaining higher anandamide levels
 
 This finding is significant because it suggests cannabinoids may work through the endocannabinoid system's natural antiviral mechanisms rather than through a single isolated compound effect.
 

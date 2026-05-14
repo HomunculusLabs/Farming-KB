@@ -17,7 +17,7 @@ topics:
 ## The Central Role of Straw in Fukuoka's Method
 
 In *The One-Straw Revolution*, Masanobu Fukuoka describes his natural farming system as built on four 
-fundamental principles: no cultivation, no chemical fertilizer, no weeding, and no pesticides or herbicides. 
+fundamental principles: no cultivation, no [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]], no weeding, and no pesticides or herbicides. 
 At the practical heart of this system is the continuous return of straw and other crop residues to the field 
 surface as mulch. Rice straw, barley straw, and the residues of [[green-manure-cover-crops]] form the primary 
 organic inputs in Fukuoka's fields, and their decomposition through the activity of soil organisms is the 
@@ -41,7 +41,7 @@ in microbial biomass back into the soil solution in plant-available forms.
 ## The Succession of Decomposer Organisms
 
 The succession from bacteria to fungi to protozoa and nematodes follows a predictable pattern determined by 
-the changing chemical composition of the decomposing straw. In the early stages, when simple compounds are 
+the changing [[chemical-composition-of-hallucinogens]] the decomposing straw. In the early stages, when simple compounds are 
 abundant, bacteria dominate because of their rapid growth rates and their ability to exploit readily 
 available substrates. As these compounds are depleted and the remaining material becomes increasingly 
 dominated by complex polymers, the slower-growing but more biochemically versatile fungi gain a competitive 
@@ -92,12 +92,12 @@ One of the most important characteristics of nutrient cycling through the soil f
 synchrony with plant demand. When straw decomposes slowly at the soil surface, the nutrients it contains are 
 released gradually over weeks and months, rather than in a sudden pulse. This slow release matches the 
 pattern of nutrient uptake by growing crop plants, which require a steady supply of nitrogen, phosphorus, 
-potassium, and micronutrients throughout the growing season. Chemical fertilizers, by contrast, deliver 
+potassium, and micronutrients throughout the growing season. [[cannabis-chemical-fertilizers]], by contrast, deliver 
 nutrients in concentrated, rapidly available forms that can overwhelm the soil food web and the crop's 
 capacity for absorption. Excess nitrogen leaches into groundwater or volatilizes as greenhouse gases; excess 
 phosphorus binds to soil minerals and becomes unavailable to plants. The chemical approach bypasses the soil 
 food web entirely, treating the soil as a passive conduit for [[ph-and-nutrient-availability-garden-soils]]. Fukuoka's natural farming system, by relying on the soil food 
-web to mediate nutrient availability, avoids these problems. The decomposition of straw mulch releases 
+web to mediate [[chelation-and-nutrient-availability]], avoids these problems. The decomposition of straw mulch releases 
 nutrients at a rate that is determined by the activity of soil organisms, which is in turn influenced by soil 
 temperature, moisture, and the chemical composition of the organic material.
 
@@ -112,7 +112,7 @@ across the plant community. A tree with access to deep groundwater, for example,
 neighboring plants through the common mycorrhizal network, creating a level of interdependence and resource 
 sharing that enhances the resilience of the entire plant community. In Fukuoka's mulched fields, the 
 continuous supply of organic matter at the soil surface supports a diverse and abundant mycorrhizal 
-community. The absence of tillage preserves the integrity of mycorrhizal networks, which are disrupted by 
+community. The absence of tillage preserves the integrity of [[arbuscular-mycorrhizal-networks]], which are disrupted by 
 plowing, and the absence of chemical fertilizers and pesticides avoids the toxic effects these inputs can 
 have on fungal communities.
 

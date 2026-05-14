@@ -27,11 +27,11 @@ Dry toilets are specifically useful where:
 - Local soils do not suit septic tank drainage
 - Cities face critical water supply problems
 
-However, dry toilets are not universally appropriate. On farms or in well-drained soils, they are unnecessary. Wherever sewage can be directed to anaerobic digestion for methane production, dry toilets actually reduce the potential utility of that sewage resource. Mollison drew an analogy: dry toilets reduce the potential uses of sewage just as compost is a reduction in the potential use of mulch — both processes narrow the range of applications.
+However, dry toilets are not universally appropriate. On farms or in well-drained soils, they are unnecessary. Wherever sewage can be directed to [[anaerobic-digestion-biogas-production]] for methane production, dry toilets actually reduce the potential utility of that sewage resource. Mollison drew an analogy: dry toilets reduce the potential uses of sewage just as compost is a reduction in the potential use of mulch — both processes narrow the range of applications.
 
 ## Greywater Chemistry and Risks
 
-When wastewater from kitchens, bathrooms, and laundries is directed to gardens and soils, it is critical to understand the chemicals being released. A typical analysis of powdered detergent or soap (from Kevin Handreck, CSIRO Division of Soils, 1979) includes:
+When wastewater from kitchens, bathrooms, and laundries is directed to gardens and soils, it is critical to understand the chemicals being released. A typical analysis of powdered detergent or soap (from [[kevin-handreck]], CSIRO Division of Soils, 1979) includes:
 
 - **Surfactants**: Sodium or potassium salts, polysulphates
 - **Builders**: Silicates, sulphates, bicarbonates, borates
@@ -45,7 +45,7 @@ Most of these substances can be processed by soil organisms, but several pose se
 - Borates at >0.5 ppm create excessive boron concentrations in soils; above 1.0 ppm they become harmful to soil life and plants
 - Residual biocides concentrate in animal fats and persist through wastewater pathways
 
-The recommended approach is to use plain soaps on food crops where possible, and to route more complex pollutants to tree systems (woody perennials), which can cope better than garden vegetables and allow more time for the decomposition of long-term pollutants. In critical areas, especially arid or delicate environments, it may be necessary to create both special soaps (from unpolluted oils, potash, or sodium) and plant special crops that remove excesses (many aquatic plants are effective accumulators) before passing greywater onward to soils and streams.
+The recommended approach is to use plain soaps on food crops where possible, and to route more complex pollutants to tree systems (woody perennials), which can cope better than [[companion-cultivation-of-mushrooms-with-garden-vegetables]] and allow more time for the decomposition of long-term pollutants. In critical areas, especially arid or delicate environments, it may be necessary to create both special soaps (from unpolluted oils, potash, or sodium) and plant special crops that remove excesses (many aquatic plants are effective accumulators) before passing greywater onward to soils and streams.
 
 ## Problem Contaminants in Drinking Water
 
@@ -62,7 +62,7 @@ Mollison identified six major categories of contaminants most likely to affect d
 
 These contaminants interact in complex and often synergistic ways:
 
-- **Acid rain** dissolves poisonous forms of aluminium, mercury, lead, cadmium, and selenium from rocks and soils. It also leaches copper, nickel, and lead from drinking tanks, tea urns, and hot water systems
+- **[[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]]** dissolves poisonous forms of aluminium, mercury, lead, cadmium, and selenium from rocks and soils. It also leaches copper, nickel, and lead from drinking tanks, tea urns, and hot water systems
 - **Biological conversion**: Organisms can convert inorganic mercury to organic methylmercury forms (as occurred in the Minamata disaster in Japan), which are readily absorbed by the human body. Sewage in water aids this conversion to biologically active metal species
 - **Biocide synergy**: Aldrin prevents DDT from being excreted by organisms — the combination is deadly. DDT is a stable residual poison that co-distills with water, meaning conventional distillation cannot remove it
 - **Asbestos piping**: Many miles of asbestos cement pipe in public water supply systems pose a definite threat of both stomach and bladder cancer from asbestos particles in drinking water

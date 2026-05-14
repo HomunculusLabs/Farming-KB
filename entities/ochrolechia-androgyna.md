@@ -12,12 +12,12 @@ sources:
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
   - Orange, A., James, P.W. & White, F.J. (2010). Microchemical Methods for the Identification of Lichens. British Lichen Society.
-  - Spribille, T. et al. (2014). "Ochrolechia (Ochrolechiaceae) in the Pacific Northwest." The Bryologist, 117(3), 251-280.
+  - Spribille, T. et al. (2014). "Ochrolechia (Ochrolechiaceae) in the [[psilocybin-north-america-pacific-northwest]]." The Bryologist, 117(3), 251-280.
 ---
 
 ## Overview
 
-**Ochrolechia androgyna** (L.) A. Massal. is a crustose lichen in the family Ochrolechiaceae, characterized by its pale greyish to white thallus and distinctive brownish or greenish soralia. The species is widespread across boreal and temperate regions of the Northern Hemisphere.
+**Ochrolechia androgyna** (L.) A. Massal. is a crustose lichen in the family Ochrolechiaceae, characterized by its pale greyish to white thallus and distinctive brownish or greenish soralia. The species is widespread across boreal and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 It typically grows on the bark of deciduous and coniferous trees, particularly in humid forest environments. The specific epithet "androgyna" refers to the presence of both soredia and apothecia, giving the species dual reproductive capabilities.
 
@@ -51,9 +51,9 @@ The soralia contain the same chemical compounds as the main thallus, and the gyr
 
 ## Ecology and Symbiosis
 
-Ochrolechia androgyna forms a mutualistic symbiosis with trebouxioid green algae (Chlorophyta) housed within the medullary layer of the thallus. The photobiont provides photosynthetically fixed carbon to the fungal partner, while receiving protection, water retention, and mineral nutrients in return.
+Ochrolechia androgyna forms a mutualistic symbiosis with trebouxioid green algae (Chlorophyta) housed within the medullary layer of the thallus. The photobiont provides photosynthetically fixed carbon to the fungal partner, while receiving protection, water retention, [[soil-phosphorus-and-mineral-nutrients]] in return.
 
-The species is a mid-successional crustose lichen that typically colonizes bark after pioneer species such as *Lecanora* spp. have established. It contributes to epiphytic lichen community diversity and often co-occurs with foliose lichens including *Flavoparmelia caperata* and *Hypogymnia physodes*.
+The species is a mid-successional crustose lichen that typically colonizes bark after pioneer species such as *Lecanora* spp. have established. It contributes to epiphytic lichen community diversity and often co-occurs with foliose lichens including *[[flavoparmelia-caperata]]* and *[[hypogymnia-physodes]]*.
 
 Vegetative dispersal through soredia allows O. androgyna to colonize nearby bark surfaces efficiently. Soredia are dispersed by wind and rain splash, establishing new thalli on suitable substrates within the same tree or on adjacent trees.
 
@@ -87,7 +87,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ochrolechia Androgyna finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

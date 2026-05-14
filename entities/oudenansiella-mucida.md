@@ -24,7 +24,7 @@ sources:
 **Oudemansiella mucida** (Schrad.) Höhn., commonly known as the porcelain mushroom or poached egg fungus, is a basidiomycete fungus in the family Physalacriaceae. It is one of the most visually distinctive mushrooms of temperate European forests, producing clusters of translucent, white to cream-colored fruiting bodies on the dead or dying branches of living beech trees (*[[psilocybin-north-america-pacific-northwest]]:** Rarely reported, with some collections from eastern Canada; these may represent a distinct but closely related species.
 - **Asia:** Reported from Japan and China, though Asian material may represent different taxa within the genus complex.
 
-The species is **strongly associated with beech** (*Fagus sylvatica* in Europe). It is almost always found growing on:
+The species is **strongly associated with beech** (*[[fagus-sylvatica]]* in Europe). It is almost always found growing on:
 
 - Dead or dying branches of living beech trees, typically 2–10 meters above ground
 - Fallen beech trunks and large branches

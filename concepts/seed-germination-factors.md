@@ -6,7 +6,7 @@ type: concept
 
 # Seed Germination Factors
 
-Seed germination is governed by a complex interplay of environmental factors including soil temperature, light exposure, cold stratification, and even passage through digestive systems. Understanding these factors is essential for successful [[plant-propagation]] in [[permaculture]] systems, where timing and technique can mean the difference between abundant establishment and total failure.
+Seed germination is governed by a complex interplay of [[duggar-mushroom-environmental-factors-temperature-moisture-light]] including soil temperature, light exposure, cold stratification, and even passage through digestive systems. Understanding these factors is essential for successful [[plant-propagation]] in [[permaculture]] systems, where [[jadam-pesticide-spray-timing-and-technique]] can mean the difference between abundant establishment and total failure.
 
 ## Temperature and Germination
 
@@ -17,7 +17,7 @@ While almost all vegetable seed will germinate in soils at 15–20°C (59–68°
 - **Celery** refuses to germinate above 24°C (74°F)
 - **Cucurbits, beans, and subtropical species** generally do not germinate below 10°C (50°F)
 
-This means the practical threshold for outdoor planting is when soil temperatures reach at least 10°C. For earlier planting, soil can be warmed using:
+This means the practical threshold for [[coleman-fall-bed-preparation-early-outdoor-planting]] is when soil temperatures reach at least 10°C. For earlier planting, soil can be warmed using:
 
 - **Greenhouses** for controlled environment propagation
 - **Clear or black plastic mulch** in the field to trap solar heat
@@ -92,9 +92,9 @@ This effect underscores the importance of choosing varieties from local growers 
 
 Different latitude bands have characteristic day-length patterns:
 
-- **Low latitudes (0–30°)**: Usually tropical climates with colder mountain climates; relatively equal days and nights year-round.
-- **Mid latitudes (30–50°)**: Cool to temperate climates with boreal mountain regions; pronounced differences between long summer days and short winter days.
-- **High latitudes (>50°)**: Very long summer days with good diffuse radiation throughout the growing season; no plant growth occurs in winter.
+- **Low latitudes (0–30°)**: Usually [[fukuoka-natural-farming-tropical-climates]] with colder mountain climates; relatively equal days and nights year-round.
+- **Mid latitudes (30–50°)**: Cool to [[fukuoka-natural-farming-temperate-climates]] with boreal mountain regions; pronounced differences between long summer days and short winter days.
+- **High latitudes (>50°)**: Very long summer days with good diffuse radiation throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]; no plant growth occurs in winter.
 
 In extreme cases, cabbages from long-day climates may never flower in New Guinea highlands (short days), reaching 1–3 m in height with leaves being plucked off at regular intervals for vegetable fodder, the plant being cut down only when too tall to reach.
 

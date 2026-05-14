@@ -40,7 +40,7 @@ The study of ethnomycology cannot simply examine religion's association with mus
 ## Safety Considerations
 
 The study emphasizes that experimentation with entheogenic mushrooms is not recreational. The shamanic "Death and Rebirth Experience" is described as exactly that. Key [[doc]]
-- [[shamanism]]
+- shamanism
 - [[cocaine]]
 
 ## Overview

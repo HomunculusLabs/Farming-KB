@@ -77,7 +77,7 @@ Acetobacter presence on dried mushrooms highlights the importance of proper dryi
 
 For mushroom-infused wine specifically, Cotter recommends:
 
-- Sterilize all mushroom powder by autoclaving for 1 hour at 250°F (121°C)
+- Sterilize all [[mushroom-powder]] by autoclaving for 1 hour at 250°F (121°C)
 - Add sterilized powder to fermentation tanks or aging barrels
 - Start with 5 grams of powder per liter of wine for basic medicinal dose
 - Increase concentration for stronger flavor or higher therapeutic dose
@@ -92,7 +92,7 @@ Understanding Acetobacter helps cultivators and product developers distinguish b
 
 ### Laboratory Hygiene
 
-Acetobacter species can also contaminate laboratory cultures and mushroom spawn if sterile technique is compromised. While less aggressive than bacterial contaminants like Bacillus or Pseudomonas, Acetobacter can still overrun agar plates and grain spawn if present in sufficient numbers.
+Acetobacter species can also contaminate laboratory cultures and [[mushroom-spawn]] if sterile technique is compromised. While less aggressive than bacterial contaminants like Bacillus or Pseudomonas, Acetobacter can still overrun agar plates and [[grain-spawn]] if present in sufficient numbers.
 
 ## Safety Considerations
 
@@ -103,8 +103,8 @@ Acetobacter species can also contaminate laboratory cultures and mushroom spawn 
 
 ## See Also
 
-- [[mushroom wine]] - mushroom-infused fermented beverages
-- [[mushroom extracts]] - alcohol extraction methods
-- [[contamination]] - general contamination management in cultivation
-- [[fermentation]] - principles of controlled microbial activity
+- mushroom wine - mushroom-infused fermented beverages
+- mushroom extracts - alcohol extraction methods
+- contamination - general contamination management in cultivation
+- fermentation - principles of controlled microbial activity
 - [[sterilization]] - autoclave and sterilization techniques

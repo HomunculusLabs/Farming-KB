@@ -1,5 +1,5 @@
 ---
-title: Permaculture Design Methods and Topics
+title: Permaculture Design Methods And Topics
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -46,8 +46,8 @@ Permaculture draws heavily on the study of natural patterns — the ways energy 
 - **Boundary conditions**: The critical role of edges and interfaces between different environments (the "edge effect")
 - **Harmonics and geometries of boundaries**: How the shape of boundaries affects the efficiency and productivity of systems
 - **Spirals, branching, and flow patterns**: The geometry of how energy and materials move through landscapes
-- **Toroidal phenomena**: Closed-loop systems where outputs become inputs
-- **Dimensions and orders of magnitude**: Understanding scale in design
+- **[[toroidal-phenomena-and-spherical-accretion]]**: Closed-loop systems where outputs become inputs
+- **Dimensions and [[event-classification-and-orders-of-magnitude]]**: Understanding scale in design
 
 The practical application of these patterns allows designers to create systems that work with natural forces rather than against them.
 
@@ -70,7 +70,7 @@ Aquaculture represents one of permaculture's most productive yield strategies. T
 
 ## Social and Economic Design (Chapter 14)
 
-The final chapter extends permaculture design beyond the physical landscape into the social, legal, and economic realm. Topics include bioregional organisation, extended families, trusts and legal strategies, village development, effective working groups, money and finance, land access, ethical investment, and effective aid. This chapter reflects Mollison's conviction that sustainable physical systems cannot exist without sustainable social and economic structures to support them.
+The final chapter extends permaculture design beyond the physical landscape into the social, legal, and economic realm. Topics include bioregional organisation, [[extended-families-and-intentional-community]], trusts and legal strategies, village development, [[effective-working-groups]], money and finance, land access, [[ethical-investment-and-earth-banking]], and effective aid. This chapter reflects Mollison's conviction that sustainable physical systems cannot exist without sustainable social and economic structures to support them.
 
 ## The Designers' Checklists
 

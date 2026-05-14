@@ -88,5 +88,5 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[cannabis-administration-methods-comparison]]
-- [[cannabis-for-womens-health]]
+- [[cannabis-womens-health]]
 - [[cannabis-health-index-chi-score]]

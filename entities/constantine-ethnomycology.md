@@ -81,6 +81,6 @@ The Catholic ("catholic" = universal) Church's ambition to be the single world r
 
 - [[ethnomycology]]
 - Manna
-- holy grail
+- [[amanita-muscaria-holy-grail-theory-detailed]]
 - John Marco Allegro
 - Soma

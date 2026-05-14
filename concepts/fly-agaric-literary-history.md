@@ -13,7 +13,7 @@ The [[amanita-muscaria-fly-agaric-history-and-pharmacology]] - The mushroom's fu
 - [[mazatec-mushroom-culture-and-velada]] in music
 - [[siberian-fly-agaric-shamanism-urine-recycling]]
 - [[dom]]
-- [[shamanism]]
+- shamanism
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 
 ## Overview

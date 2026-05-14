@@ -20,7 +20,7 @@ type: concept
 # Steroidal Regulation of Fungal Development and Growth
 
 The demonstration by Gartz, Adam and Vorbrodt (1990) that a plant
-steroidal hormone, 22S,23S-homobrassinolide, profoundly affects the
+steroidal hormone, 22S,23S-[[homobrassinolide]], profoundly affects the
 growth and development of [[accessible-mushroom-cultivation-for-disabilities]] and new insights into eukaryotic signaling
 evolution.
 ## Related Concepts

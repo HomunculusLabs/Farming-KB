@@ -4,7 +4,7 @@
 
 In his 1983 Esalen lecture, [[terence-mckenna]] traced the history of the suppression of indigenous psilocybin mushroom religions in Mesoamerica, framing it as a catastrophic episode in which institutional ignorance systematically destroyed irreplaceable knowledge.
 
-Central to McKenna's account is the concept of theophagy — the ritual consumption of a divine substance — and the conflict between the indigenous practice of eating [[psychoactive-cacti-of-central-mexico]] to refer to psychoactive mushrooms, primarily species of Psilocybe.
+Central to McKenna's account is the concept of theophagy — the ritual consumption of a divine substance — and the conflict between the indigenous practice of eating [[psychoactive-cacti-of-central-mexico]] to refer to [[ceremonial-shamanic-use-psychoactive-mushrooms]], primarily species of Psilocybe.
 
 The name itself is a theological statement: it identifies the mushroom not as a mere plant or recreational intoxicant but as a literal embodiment of the divine, a substance whose consumption constitutes a form of communion with sacred reality.
 
@@ -18,7 +18,7 @@ The visions produced by the mushrooms were understood as genuine encounters with
 
 The teonanacatl ceremony occupied a central place in the religious and cultural life of pre-Columbian Mesoamerica.
 
-Mushroom stones — carved stone monuments depicting anthropomorphic figures with mushroom-like heads — have been found at archaeological sites throughout the Guatemalan highlands, some dating to the Preclassic period (c. 1000 BCE - 250 CE), indicating that the ritual use of psychoactive mushrooms has a history of at least three millennia in the region.
+Mushroom stones — carved stone monuments depicting anthropomorphic figures with mushroom-like heads — have been found at archaeological sites throughout the Guatemalan highlands, some dating to the Preclassic period (c. 1000 BCE - 250 CE), indicating that the ritual use [[historical-and-cultural-uses-of-psychoactive-mushrooms]] has a history of at least three millennia in the region.
 
 The Aztecs were merely the most prominent inheritors of a far older tradition.
 
@@ -50,7 +50,7 @@ Its suppression was therefore not an incidental consequence of the conquest but 
 
 The machinery of suppression was comprehensive.
 
-The Spanish Inquisition, established in Mexico in 1571, formally prohibited the use of teonanacatl and other indigenous psychoactive substances, classifying them as instruments of devil worship and idolatry.
+The Spanish Inquisition, established in Mexico in 1571, formally prohibited the use of teonanacatl and other indigenous [[cultural-evolution-and-psychoactive-substances]], classifying them as instruments of devil worship and idolatry.
 
 Indigenous practitioners were persecuted, imprisoned, and sometimes executed.
 
@@ -60,7 +60,7 @@ The suppression was remarkably effective at the level of public, institutional r
 
 Within a generation of the conquest, the open, communal mushroom ceremonies of the Aztec cities had been entirely eliminated.
 
-The knowledge associated with the ceremonies — the identification of psychoactive mushroom species, the methods of preparation and dosage, the ritual protocols, the interpretive frameworks for visionary experience — was driven to the margins of Mesoamerican culture, preserved only in a handful of isolated indigenous communities that maintained the practice in secrecy.
+The knowledge associated with the ceremonies — the identification of psychoactive mushroom species, the methods of [[turner-harmala-alkaloids-preparation-and-dosage]], the ritual protocols, the interpretive frameworks for visionary experience — was driven to the margins of Mesoamerican culture, preserved only in a handful of isolated indigenous communities that maintained the practice in secrecy.
 
 What survived was a fragment of the original tradition, preserved by curanderas and their apprentices in villages such as Huautla de Jiménez in the Mazatec region of Oaxaca.
 
@@ -74,7 +74,7 @@ The Wasson discovery was a landmark in the history of ethnobotany and psychophar
 
 The rediscovery of teonanacatl was a triumph of ethnographic persistence and a vindication of the [[weil-cultural-attitudes-toward-altered-states]] of consciousness and the plants and fungi that facilitate them.
 
-The European witch hunts, the prohibition of peyote in the United States, the criminalization of ayahuasca in Brazil, the international scheduling of psychedelic substances under the UN Convention on Psychotropic Substances (1971) — all of these, in McKenna's analysis, represent variations on the same theme: the systematic suppression of direct, unmediated encounters with the sacred by institutions that claim a monopoly on such encounters.
+The European witch hunts, the prohibition of peyote in the United States, the criminalization of ayahuasca in Brazil, the international scheduling of [[psychedelic-substances-comparison]] under the UN Convention on Psychotropic Substances (1971) — all of these, in McKenna's analysis, represent variations on the same theme: the systematic suppression of direct, unmediated encounters with the sacred by institutions that claim a monopoly on such encounters.
 
 The common thread is theophagy.
 
@@ -82,7 +82,7 @@ The Catholic Church claims the exclusive right to mediate between humanity and t
 
 Modern science claims the exclusive right to mediate between humanity and knowledge through the methodology of instrumental empiricism.
 
-Both institutions are threatened by practices — the mushroom ceremony, the psychedelic experience — that offer direct, unmediated access to dimensions of reality that these institutions claim to control.
+Both institutions are threatened by practices — the mushroom ceremony, the [[leary-psychedelic-experience-bardo-mapping]] — that offer direct, unmediated access to dimensions of reality that these institutions claim to control.
 
 The suppression of teonanacatl is thus not merely a historical curiosity but a continuing pattern, one that shapes contemporary attitudes toward psychedelic substances and the experiences they produce.
 

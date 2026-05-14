@@ -37,8 +37,8 @@ Sugar cane and sugar beet have the advantage of direct ferment to alcohol. Grain
 - **5–10% of farm land** devoted to fuel production provides fuel self-sufficiency with surplus
 - **Less area** needed if tree crops are developed
 - **Even less** if the crop is carob (beans are 68% sugars)
-- **Fuel forests** could be established that need collection rather than annual cultivation and manurial input
-- The by-products of increased glasshouse production and high-protein animal/human food would pay production costs, making fuel "free to the producer"
+- **[[dryland-settlement-vegetation-and-fuel-forests]]** could be established that need collection rather than annual cultivation and manurial input
+- The by-products of increased glasshouse production and high-protein animal/human food would pay [[fukuoka-textdoc-production-costs-not-coming-down]], making fuel "free to the producer"
 
 ## Crop Options for Fuel Production
 
@@ -51,7 +51,7 @@ Sugar cane and sugar beet have the advantage of direct ferment to alcohol. Grain
 - Other sugar-producing tree crops
 
 ### Residue-Based
-- Grain straw
+- [[fukuoka-straw-winter-grain-straw-mulch]]
 - Cellulose wastes
 - Urban food and cellulose wastes via amylase columns
 
@@ -60,7 +60,7 @@ Sugar cane and sugar beet have the advantage of direct ferment to alcohol. Grain
 Mollison is sharply critical of government resistance to decentralized alcohol production:
 
 - Australia planned to spend 2–3 million dollars on P.R. to save petrol, but the same amount for low-cost ($15,000) distillation plants that would make communities self-sufficient was "not available"
-- "The intention is obvious: we are expected to stick with petrol or gas products, lead and pollution, until the oil companies gain control of alcohol fuels"
+- "The intention is obvious: we are expected to stick with petrol or gas products, lead and pollution, until the [[fukuoka-oil-companies-international-seed-war]] gain control of alcohol fuels"
 - "Most high-performance cars now run on alcohol, as do 60% of Brazil's vehicles. But the pretence is that we need 'research' to develop this in Australia. Hogwash!"
 
 Mollison advocates building local plants and resisting central control, which would cause "great energy waste in the transporting of raw materials to process plant, and alcohol back to farm. On-farm production and roadside sales are the real solution."
@@ -76,13 +76,13 @@ Mollison advocates building local plants and resisting central control, which wo
 - Every 6–10 ha devoted to fuel production would support a family
 - Any farmer would find it worthwhile to employ (or lease out land) for fuel production
 - The same employee could plant long-term crops (carob) between annual beet or cane crops
-- If monies devoted to freeways were diverted to local alcohol plants, "the evils of unemployment and the 'energy crisis' would disappear"
+- If monies devoted to freeways were diverted to local alcohol plants, "the evils of unemployment and the '[[fukuoka-deficit-farming-agricultural-energy-crisis]]' would disappear"
 
 ### Lubricants
 Castor oil and jojoba products suffice for lubricants.
 
 ### Transport Integration
-With bicycle "freeways" increased, more efficient rail, canal, and sea transport, and solar power, "any society would be self-sufficient in essential transport needs."
+With bicycle "freeways" increased, more efficient rail, canal, and sea transport, and [[holmgren-trees-solar-power-plants-detailed]], "any society would be self-sufficient in essential transport needs."
 
 ## Suburban Application
 
@@ -101,3 +101,9 @@ Mollison concludes that "we may yet live to think of the 'petrol crisis' as a bl
 ## Vehicle Design
 
 Victor Papanek (Wisconsin) developed a very light "fibre-grass" car with body made from local grasses and modern glue. Fueled with alcohol, it serves farm transport needs. Like old Baby Austins, such vehicles need only small (5–7 h.p.) alcohol motors, but modern design gives them greater efficiency.
+
+## See Also
+
+- [[permaculture-on-farm-alcohol-fuel-production]]
+- [[mollison-designers-intensifying-small-farm-production]]
+- [[mycofiltration-farm-livestock-buffers]]

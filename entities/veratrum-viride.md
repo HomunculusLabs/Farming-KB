@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mead, J.E. (1904). "Veratrum Viride (American Hellebore): A Study of Its History, Uses, and Active Principles." American Journal of Pharmacy.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern permaculture-plants-medicinal-herbs-healing." CRC Press.
+  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." Timber Press.
   - USDA, NRCS. "Veratrum viride." PLANTS Database. https://plants.usda.gov/
 ---

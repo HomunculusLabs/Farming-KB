@@ -24,7 +24,7 @@ Doblin concluded that: "all of the psilocybin subjects still considered that the
 
 ## The Nature of the Mystical Experience
 
-The mystical experience induced by psilocybin is characterised by several consistent features:
+The [[mystical-experience]] induced by psilocybin is characterised by several consistent features:
 
 1. **Visionary content with closed eyes**: Subjects reported extraordinarily vivid visual scenes -- "an ocean of bands, streams of colour, streaming past me. The colours were brilliant and I could swim down any one of these colours."
 

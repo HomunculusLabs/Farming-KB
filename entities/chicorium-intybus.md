@@ -31,7 +31,7 @@ Chicory grows from sea level to 2,000 meters elevation. It is a common constitue
 
 **Forcing (witloof/endive):** Harvested roots are stored at 0–2°C, then forced in darkness at 15–18°C for 21–28 days. The etiolated shoots (chicons) are harvested when 12–16 cm long. This technique was developed near Brussels in the 1830s and remains the standard method.
 
-**Leaf production:** Non-forcing cultivars are grown as cut-and-come-again salad greens. Successional sowing every 2–3 weeks provides continuous harvest from spring through autumn. Leaves become increasingly bitter with maturity and heat.
+**Leaf production:** Non-forcing cultivars are grown as [[cut-and-come-again]] salad greens. Successional sowing every 2–3 weeks provides continuous harvest from spring through autumn. Leaves become increasingly bitter with maturity and heat.
 
 **Forage:** Chicory is included in pasture mixes for its high digestibility (70–80% DMD), mineral content, and drought resilience. Persistent varieties like 'Puna' and 'Grasslands Choice' maintain productivity for 4–7 years under [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] traditions. Dioscorides prescribed it for liver ailments, digestive complaints, and as a diuretic. European folk medicine employed chicory root tea as a remedy for jaundice, gout, and rheumatism.
 

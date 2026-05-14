@@ -1,12 +1,12 @@
 ---
-title: Tropical Hedgerow and Windbreak Systems
+title: Tropical Hedgerow Windbreak Systems
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Tropical Hedgerow and Windbreak Systems
 
-Tropical hedgerow and windbreak systems are deliberately designed multi-species boundary plantings that provide wind protection, soil stabilisation, forage production, wildlife habitat, and structural materials. While hedgerow design has been a preoccupation of temperate zones since the enclosures of common lands, the rapid degradation of tropical landscapes has made pioneer hedgerow establishment a priority for tropical coasts and hill country.
+Tropical hedgerow and windbreak systems are deliberately designed multi-species boundary plantings that provide wind protection, soil stabilisation, forage production, [[hemenway-backyard-wildlife-habitat]], and structural materials. While hedgerow design has been a preoccupation of temperate zones since the enclosures of common lands, the rapid degradation of tropical landscapes has made pioneer hedgerow establishment a priority for tropical coasts and hill country.
 
 ## The Role of Hedgerows in Tropical Systems
 
@@ -17,7 +17,7 @@ In the tropics, ideal growing conditions mean hedgerows establish quickly once t
 - **Forage production** from leaf, pod, and fruit-bearing species
 - **Wildlife habitat** creation and corridor formation
 - **Structural material** supply, especially from clump bamboo
-- **Microclimate modification** through shade and moisture retention
+- **[[tree-temperature-effects-and-microclimate-modification]]** through shade and moisture retention
 - **Boundary definition** and security
 
 ## Establishing a Classical Tropical Hedgerow
@@ -29,7 +29,7 @@ Cultivate and manure the hedgerow site, then place a dripline along it. The drip
 Four rows of plants are set out simultaneously:
 
 1. **Tall grasses or clump bamboo** — Pennisetum is the usual choice, providing immediate low-level wind protection and rapid establishment
-2. **Quickset cuttings** of Erythrina fusca or Jatropha — these root readily from cuttings and grow quickly, providing mid-level structure
+2. **Quickset cuttings** of [[erythrina-fusca]] or Jatropha — these root readily from cuttings and grow quickly, providing mid-level structure
 3. **Seedlings of Leucaena or Acacia** — nitrogen-fixing trees that form the long-term backbone of the hedgerow
 4. **Occasional palms** as seedlings — preferably those with spiny trunks or mid-ribs, providing security and high-level windbreak
 
@@ -63,13 +63,13 @@ A simple windbreak can be progressively enriched into a multi-functional system:
 - **Passionfruit** climbs on most trees in the hedgerow
 - **Mango** itself serves as an effective windbreak
 - **Eugenia** can replace some Leucaena for diversity
-- **Clump bamboo** provides structural field material and effective windbreak — never neglected in tropical design
+- **Clump bamboo** provides structural field material and effective windbreak — never neglected in [[mollison-wet-dry-tropical-design-strategies]]
 
 The result is a mixed hedgerow serving wildlife, domestic forage, and food production simultaneously.
 
 ## Cross-Slope Ridges as Long-Term Assets
 
-The cross-slope ridges established during hedgerow construction become long-term soil and water traps that accumulate mulch for later system evolutions. This is a feature of the Tropical Crops Materials Centre on Moloka'i, where their uses and long-term evolution into terraces of undoubted stability can be observed.
+The cross-slope ridges established during hedgerow construction become long-term soil and water traps that accumulate mulch for later system evolutions. This is a feature of the [[mollison-specialist-tropical-crops-forest-products]] Materials Centre on Moloka'i, where their uses and long-term evolution into terraces of undoubted stability can be observed.
 
 ### Road Integration
 Roads should be provided with concrete or stone fill on the downhill side ("X") of the mounds. Permanent roads can be constructed after the terraces are formed, using the accumulated stability of the ridge system.

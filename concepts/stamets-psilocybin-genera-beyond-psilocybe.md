@@ -78,7 +78,7 @@ range likely more extensive than literature indicates.
 
 Gymnopilus species give rusty orange to yellow-orange [[macrofungal-documentation-photography-spore-prints]], are
 medium to large, prefer wood, and typically have dry caps and
-well-developed veils. Ten species confirmed psilocybin-active per Allen
+well-developed veils. Ten species confirmed [[psilocybin]]-active per Allen
 and Gartz (1992): G. aeruginosus, G. braendlei, G. intermedius,
 G. luteoviridis, G. liquiritiae, G. luteus, G. purpuratus, G. spectabilis,
 G. validipes, and G. viridans.

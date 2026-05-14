@@ -1,5 +1,5 @@
 ---
-title: Avalanche, Snow Instability, and Permafrost
+title: Avalanche Snow Instability And Permafrost
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -7,7 +7,7 @@ type: concept
 # Avalanche, Snow Instability, and Permafrost
 
 Understanding snow dynamics and [[permafrost]] behaviour is essential for safe settlement
-and productive land use in cold climates. Snow movement occurs across a spectrum from
+and productive land use in [[query-best-kiwifruit-varieties-for-cold-climates]]. Snow movement occurs across a spectrum from
 imperceptible microcreep to catastrophic avalanches, while permafrost governs the
 stability of vast northern landscapes. Both phenomena demand specific design responses.
 
@@ -16,7 +16,7 @@ stability of vast northern landscapes. Both phenomena demand specific design res
 ### Conditions for Avalanche
 
 On slopes of more than **6°** and in valleys of steep foothills, wherever snow builds
-up to **15 cm or more** in depth, [[avalanche]] risk exists. Snow will avalanche wherever:
+up to **15 cm or more** in depth, [[avalanche-phenomenon]] risk exists. Snow will avalanche wherever:
 
 - The crust is broken by strong winds (more than **13–18 km/sec**)
 - Sudden freeze is followed by thaw
@@ -79,11 +79,11 @@ The best defense is prevention through a set of strategies:
 - **Prevention of settlement** in high-risk areas
 - **Snow barriers on plateaus** above slopes — hold snow above the slope and lessen
   the load
-- **Solar radiation crust** on snow preserves slope stability (seasonal protection
+- **[[albedo-and-solar-radiation]] crust** on snow preserves slope stability (seasonal protection
   only; breaks up if iced or shattered by wind)
 
 Cross-slope terraces, walls, and barriers have generally **not proved effective**.
-A new threat follows the death of steep-slope forests by acid rain damage, which
+A new threat follows the death of steep-slope forests by [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]] damage, which
 removes the primary natural defense.
 
 Avalanche areas are often mapped, and avalanche warnings issued when conditions can be

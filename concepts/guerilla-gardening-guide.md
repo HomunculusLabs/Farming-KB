@@ -1,5 +1,5 @@
 ---
-title: [[guerilla-gardening-tactics]] Guide
+title: "Guerilla Gardening Guide"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

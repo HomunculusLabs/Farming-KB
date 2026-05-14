@@ -66,7 +66,7 @@ to inform current best practices and research directions.
 ## See Also
 - [[doc]]
 - [[det]]
-- [[shamanism]]
+- shamanism
 
 ## Overview
 

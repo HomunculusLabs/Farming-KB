@@ -20,7 +20,7 @@ type: concept
 
 The search for the original hallucinogenic plant that catalyzed the
 emergence of human self-reflection requires a careful process of
-elimination. Terence McKenna argued that Stropharia cubensis, also
+elimination. [[terence-mckenna]] argued that [[stropharia-cubensis]], also
 known as [[mckenna-catalyzing-consciousness-and-language]] in evolving hominids:
 
 - **African origin**: The evidence is overwhelming that modern humans

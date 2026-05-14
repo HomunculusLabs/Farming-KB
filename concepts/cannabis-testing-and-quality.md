@@ -1,5 +1,5 @@
 ---
-title: Cannabis [[mushroom-spawn-vitality-testing-and-quality-assessment]]
+title: "Cannabis Testing And Quality"
 created: 2026-2026-04-12
 updated: 2026-04-12
 type: concept

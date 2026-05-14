@@ -1,5 +1,5 @@
 ---
-title: Soil Pollution and Remediation Strategies
+title: Soil Pollution And Remediation Strategies
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Soil pollution from agricultural chemicals, industrial waste, and urban contamination represents one of the [[bill-mollison]] documents the extent of soil contamination from conventional agriculture and provides practical strategies for assessment and remediation.
+Soil pollution from [[agricultural-chemicals-mycorrhizal-impact]], industrial waste, and urban contamination represents one of the [[bill-mollison]] documents the extent of soil contamination from conventional agriculture and provides practical strategies for assessment and remediation.
 
 ## Sources of Agricultural Soil Pollution
 
@@ -16,7 +16,7 @@ Soil pollution from agricultural chemicals, industrial waste, and urban contamin
 
 Orchards, sugarcane areas, pineapple, cotton, tobacco, and banana plantations have had extensive applications of:
 
-- **Mineral additives** — excessive synthetic fertilizers
+- **Mineral additives** — excessive [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]
 - **Arsenicals** — arsenic-based sprays and treatments
 - **Organochlorine pesticides** — [[dieldrin]], BHC
 - **Copper salts** — fungicide accumulation
@@ -39,7 +39,7 @@ The persistence of these chemicals is remarkable. Even after **18–20 years of 
 1. Use cracked bricks or gravel as a base layer
 2. Build raised beds to **30 cm deep**
 3. Create rich composted soil with over **40% organic content**
-4. Grow vegetables and have leaf analyses done
+4. [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]] and have leaf analyses done
 5. Wash produce in dilute vinegar if leaded petrol is still used locally
 
 ### Persistent Biocides (DDT, Aldrin, Dieldrin, BHC)
@@ -50,7 +50,7 @@ The persistence of these chemicals is remarkable. Even after **18–20 years of 
 
 **Remediation strategy:**
 
-- **Convert to forestry** — produce non-food crops (fuel wood, structural timber)
+- **Convert to forestry** — produce non-food crops (fuel wood, [[singh-wood-rot-fungi-structural-timber-decay]])
 - Continue non-food production until other methods are developed
 - Test vegetables for residual toxic materials before consuming
 
@@ -77,7 +77,7 @@ The persistence of these chemicals is remarkable. Even after **18–20 years of 
 
 1. **Mixed diets are healthiest** — excessive dietary simplicity or reliance on too few foods carries dangers, while a mixed diet of local foods plus an active life has usually proved healthy
 
-2. **Processed foods cause degenerative disease** — refined and processed foods, excessive animal fats, and food additives have resulted in malnutrition and degenerative diseases (obesity, high blood pressure, heart disease) in developed countries
+2. **Processed foods cause degenerative disease** — refined and processed foods, excessive animal fats, and food additives have resulted in malnutrition and degenerative diseases (obesity, high blood pressure, [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]]) in developed countries
 
 3. **Famine areas need special care** — where vitamins (C, A, B-complex) or minerals (iron, zinc) are critically deficient, dietary changes must be made with knowledge of local tolerances (whole grains and pulses may strip zinc from already-deficient people in alkaline desert areas)
 

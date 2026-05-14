@@ -16,7 +16,7 @@ Mollison identifies four fundamental landscape zones in a typical humid-to-cool 
 - **Function**: Vast roof where rain and snow gather; saturated clouds deposit moisture on leaf surfaces
 - **Critical importance**: Up to 85% of precipitation may condense from night air on leaf surfaces (Prof. W.D. Jackson, University of Tasmania)
 - **Management priority**: Careful husbandry of all elements; prevent over-grazing and soil loss
-- **Key strategy**: Plant and maintain maximum trees, shrubs, and ground cover to trap and hold moisture
+- **Key strategy**: Plant and maintain maximum trees, shrubs, and [[fukuoka-citrus-orchard-ground-cover-cultivation]] to trap and hold moisture
 - **Vulnerability**: Vandalism by ski-resort developers, high-country graziers, and public authorities should be minimized
 
 ### Zone B: High Slopes (Above 18°)
@@ -26,7 +26,7 @@ Mollison identifies four fundamental landscape zones in a typical humid-to-cool 
 - **Mollison's recommendation**: "A moratorium on all clearing or grazing of slopes of 18° or more should be an international concern, of as much long-term importance as a moratorium on arms"
 
 ### Zone C: Gentle Foothills and Lower Slopes
-- **Function**: Most viable agricultural area; supports structures, domestic animals, and implements
+- **Function**: Most viable agricultural area; supports structures, [[permaculture-domestic-animals]], and implements
 - **Key strategy**: Keyline [[water-conservation]]—high runoff led to midslope storage dams at keypoints
 - **Settlement placement**: The junction of two natural economies (forest and plain, land and estuary)
 - **Soil building**: Lower slopes can be converted to immense soil-water storage systems in a single summer
@@ -74,7 +74,7 @@ The ideal settlement location is on "easy, rounded ridges of non-eroded lower sl
 - Coupled with the "[[thermal-belt]]" of the house site, make remarkable difference to midslope climate
 - Anyone who doubts this should "walk towards an uphill forest on a frosty night, and measure or experience the warm down-draught from high forests"
 - If above Zones I and II, present little or no fire danger
-- Functions of erosion control and water retention are well attested
+- Functions of [[soil-erosion-control]] water retention are well attested
 
 ### Downslope (Dams and Reflection)
 - Reflection from dams adds warmth to lower gardens and structures
@@ -85,7 +85,7 @@ The ideal settlement location is on "easy, rounded ridges of non-eroded lower sl
 
 High slope access (track or road) can embody multiple functions:
 - Drainage or diversion to midslope dams
-- Fire control on slopes
+- [[monsoon-sprinkler-fire-control-mollison]] on slopes
 - Cargo or harvest-time access to forest and service buildings
 - Gravity transport of mulch and manures from high barns and forests downhill to establish the barn-to-house garden
 - Slatted floors under upslope shearing sheds, goat sheds, and stables enable dry storage and easy manure access
@@ -103,7 +103,7 @@ Mollison concludes: "No nation that now exists has environmental laws as strong 
 
 ## The Global Warning
 
-"World hunger for paper, particularly wrapping paper and newspaper, will only accelerate world famine for food." Mollison predicts that what has overtaken the "underdeveloped" world awaits the "developed" world—he suggests characterizing nations as "the devastated, defoliated or stripped ecologies, and those about to be stripped."
+"[[holzer-ten-step-plan-world-hunger]] for paper, particularly wrapping paper and newspaper, will only accelerate world famine for food." Mollison predicts that what has overtaken the "underdeveloped" world awaits the "developed" world—he suggests characterizing nations as "the devastated, defoliated or stripped ecologies, and those about to be stripped."
 
 The agronomist surveying salting fields who lifts his eyes to the foothills and asks what they are doing to the forests that once protected him exemplifies the awakening Mollison seeks to provoke.
 

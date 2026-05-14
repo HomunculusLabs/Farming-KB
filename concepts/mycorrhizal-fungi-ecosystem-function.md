@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhizal Fungi [[dighton-mycorrhizal-diversity-ecosystem-function]]"
+title: "Mycorrhizal Fungi Ecosystem Function"
 aliases: [mycorrhiza, [[arbuscular-mycorrhizal-networks]], fungal symbiosis, plant-fungal mutualism, common mycorrhizal network]
 tags: [mycology, mycorrhiza, ecology, soil-biology, plant-nutrition, symbiosis, fungal-networks]
 source: biodiversity-of-fungi.md

@@ -28,7 +28,7 @@ Hawaii**, recognised by [[dano-gorsich]] (neighbour), Hawaiian Homelands area
 - Mulched circle gardens create concentrated zones of **organic matter
   decomposition** driven by fungal and bacterial activity.
 - The deep mulch layer in circle gardens provides ideal habitat for
-  **saprophytic fungi** that break down organic matter and release nutrients.
+  **[[saprophytic-fungi]]** that break down organic matter and release nutrients.
 - Exhausted pineapple farm soils (typically acidic and depleted from years of
   monoculture) require **biological rehabilitation** — fungal inoculation and
   mycorrhizal establishment are key to this process.
@@ -63,7 +63,7 @@ Regional differences necessitate site-specific approaches.
 
 ## Practical Applications
 Chuck Busby has several practical applications in sustainable systems.
-Integration with permaculture design principles enhances its utility.
+Integration with [[permaculture-design-principles]] enhances its utility.
 Consideration of local climate and soil conditions is essential.
 Multiple functions can be served within a single system design.
 

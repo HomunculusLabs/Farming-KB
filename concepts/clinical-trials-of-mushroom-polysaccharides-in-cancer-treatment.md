@@ -1,5 +1,5 @@
 ---
-title: Clinical Trials of Mushroom Polysaccharides in Cancer Treatment
+title: Clinical Trials Of Mushroom Polysaccharides In Cancer Treatment
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
@@ -44,7 +44,7 @@ Extensive testing across multiple tumour types in mice showed significant inhibi
 - Adenovirus-induced tumours: **79% → 40%** tumour incidence
 
 ### Gastric Cancer Clinical Trial (Taguchi et al., 1983)
-Randomised controlled study of Lentinan combined with tegafur vs. tegafur alone in gastric cancer patients:
+Randomised controlled study of Lentinan combined with tegafur vs. tegafur alone in gastric [[cannabis-for-cancer-patients]]:
 
 | Parameter | Tegafur Alone | Lentinan + Tegafur |
 |-----------|--------------|-------------------|
@@ -94,7 +94,7 @@ Maitake D-fraction and crude Maitake powder demonstrated "remarkable inhibition 
 - Highly purified β-glucan extract (β-1,6 glucan branched with β-1,3-linkage)
 - **Orally bioavailable**
 - Considerable immunomodulating and antitumour activities in animal models
-- Cytotoxic effect on human prostate cancer cells (PC9) in vitro through oxidative stress
+- Cytotoxic effect on human [[blesching-cannabis-prostate-cancer]] cells (PC9) in vitro through [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 
 ## PSP Clinical Trials (China)
 
@@ -113,7 +113,7 @@ PSK is an approved cancer drug in Japan, covered by national health insurance. I
 Clinical trials have demonstrated efficacy in:
 - Gastric cancer
 - Colorectal cancer
-- Breast cancer
+- [[blesching-cannabis-breast-cancer]]
 - Lung cancer
 - Cervical cancer
 - Oesophageal cancer
@@ -134,3 +134,7 @@ Subgroup analyses suggest that immune competence markers (activated CD4+ and CD8
 
 ### Study Quality
 Some studies have been criticized for inadequate blinding or confounding treatment variables, highlighting the need for rigorous Western-style randomized controlled trials.
+
+## See Also
+
+- [[psk-and-psp-clinical-trials-and-cancer-treatment-outcomes]]

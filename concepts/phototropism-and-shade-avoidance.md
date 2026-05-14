@@ -46,7 +46,7 @@ Phototropism was one of the first plant responses to be studied scientifically. 
 - **Pr (red-absorbing form)**: Absorbs red light (660 nm) and converts to Pfr
 - **Pfr (far-red-absorbing form)**: Absorbs far-red light (730 nm) and converts back to Pr
 
-When a plant detects a low R:FR ratio, it "perceives" that it is being shaded by neighboring vegetation, even if the actual light intensity has not changed significantly. This triggers the shade avoidance syndrome—a coordinated set of developmental changes designed to help the plant escape from shade.
+When a plant detects a low R:FR ratio, it "perceives" that it is being shaded by neighboring vegetation, even if the actual light intensity has not changed significantly. This triggers the [[shade-avoidance-syndrome]]—a coordinated set of developmental changes designed to help the plant escape from shade.
 
 ### Components of Shade Avoidance
 

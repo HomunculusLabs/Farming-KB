@@ -67,7 +67,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[doc]]
-- [[shamanism]]
+- shamanism
 - [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]]
 
 ## Overview

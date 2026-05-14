@@ -58,7 +58,7 @@ The framework names specific interaction states:
 (++) Symbiosis: common in nature and society, a win-win
 situation ideally suited to guild development. The [[mollison-pioneer-species-and-accelerated-succession]]
 
-- bill mollison-permaculture-a-designers-manual-guild-design-in-permaculture
+- [[bill-mollison]]-[[permaculture]]-a-designers-manual-guild-design-in-permaculture
 
 ## See Also
 

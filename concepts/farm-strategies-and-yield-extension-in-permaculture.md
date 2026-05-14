@@ -33,7 +33,7 @@ Deep soil development (20-30% of landscape dedicated to soil building) yields:
 
 1. **Product increase** due to deeper root penetration into well-structured soils
 2. **Water infiltration** with zero run-off through improved absorption capacity
-3. **Microclimate buffering** of soil temperature and moisture
+3. **Microclimate buffering** of soil [[mushroom-growing-temperature-and-moisture]]
 4. **Nutrient supply** from enhanced biological activity in deep, well-structured soils
 
 ## Forestry and Tree Systems (20-30% of Landscape)
@@ -41,11 +41,11 @@ Deep soil development (20-30% of landscape dedicated to soil building) yields:
 Dedicated forestry and tree systems provide extensive benefits beyond timber:
 
 1. **Shelter effects**: Increased plant yields, animal protein, and microclimate buffering both above and below ground
-2. **Increased carrying capacity** through shrub and tree fodder systems
+2. **Increased [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]]** through shrub and tree fodder systems
 3. **Nutrient recycling** via leguminous trees and deep-rooted mineral cyclers
 4. **Intrinsic products**: Nectar for honey, seeds, firewood from fallen timber
 5. **Biological control**: Insect and bird habitat providing natural pest predation
-6. **Wildlife corridors**: Connected habitat patches supporting biodiversity
+6. **[[permaculture-designers-manual-wildlife-corridors]]**: Connected habitat patches supporting biodiversity
 
 ### Tree-Based Production Benefits
 - **Precipitation increase** due to night condensation and improved water penetration
@@ -83,7 +83,7 @@ The social dimension of farm strategy is critical for economic sustainability:
 ## No-Tillage Strategies
 
 Low or no-tillage farming saves multiple resources simultaneously:
-- **Energy** in reduced tillage operations
+- **Energy** in [[comparison-no-till-vs-reduced-tillage]] operations
 - **Soil** structure and biology preserved
 - **Water** retained through reduced evaporation
 - **Time** between crops reduced, enabling more production per year
@@ -120,7 +120,7 @@ The concentration of yields into one short period is a fiscal, not an environmen
 - **Extended-season varieties**: Selecting cultivars that yield over a long period
 - **Increased diversity**: Leaf, fruit, seed, and root products from the same system
 - **Self-storing species**: Tubers, hard seeds, fuelwood, and rhizomes cropped on demand
-- **Preservation techniques**: Preserving, drying, pitting, and cool storage
+- **[[biodiversity-of-fungi-fungal-culture-preservation-techniques]]**: Preserving, drying, pitting, and cool storage
 - **Regional trade**: Utilizing land at different altitudes or latitudes
 
 ## Yields and Storage
@@ -131,7 +131,7 @@ Energy alone is difficult to store. Batteries leak or decay, heat escapes, and i
 
 ## Cultural Impediments to Yield
 
-Cultural attitudes significantly limit the utilization of available yields. In affluent suburban societies, particularly in North America, an almost total zoophobia—fear of anything that moves—has developed. It is very difficult, almost taboo, to talk of using rabbits, quail, pigs, poultry, or cows in city farms or urban gardens in the United States, despite these being commonplace city farm animals in England and ordinary village animals in Asia.
+[[weil-cultural-attitudes-toward-altered-states]] significantly limit the utilization of available yields. In affluent suburban societies, particularly in North America, an almost total zoophobia—fear of anything that moves—has developed. It is very difficult, almost taboo, to talk of using rabbits, quail, pigs, poultry, or cows in city farms or urban gardens in the United States, despite these being commonplace city farm animals in England and ordinary village animals in Asia.
 
 When useful animals are effectively abolished from cities, the ecological niche is filled by less desirable species: pigeons forage the streets, gulls defecate in reservoirs, large dogs tip over garbage bins, and rats proliferate. The refusal to integrate productive animals into human settlements creates the very pest problems that justify the exclusion—a self-reinforcing cycle of dysfunction.
 

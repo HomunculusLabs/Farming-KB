@@ -41,7 +41,7 @@ Its genetic lineage connects two legendary California cannabis pillars — the c
 
 - Dominant scent of sweet grape and blueberry, reminiscent of grape soda
 - Secondary notes of vanilla, caramel, and baked goods
-- Subtle earthy, herbal undertones from the Larry OG parent
+- Subtle earthy, herbal undertones from the [[larry-og]] parent
 - Hints of lavender and florals when bud is broken open
 
 ### Flavor

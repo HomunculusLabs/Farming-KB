@@ -21,7 +21,7 @@ When someone attached a greenhouse to the front of a house instead of placing it
 - It creates a humid microclimate beneficial to both people and plants
 - It serves as an entrance vestibule reducing heat loss from the front door
 - It provides a space for seedling propagation using household waste heat
-- It captures and stores solar energy that would otherwise be reflected
+- It captures and stores [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] that would otherwise be reflected
 
 Upon closer examination, there may be 12 or 15 additional reasons why that placement was superior to the conventional approach. The initial reasoning was sufficient, but the actual benefits far exceeded the design intent.
 
@@ -47,17 +47,17 @@ What does the element do by virtue of simply being itself? Some animals and plan
 ### 2. Behaviors
 Elements have short-term and long-term behaviors. Chickens scratch, roost, dust-bathe, and forage (short-term). Over time, they deplete soil nutrients in one area and concentrate them in another, establish pecking orders, and adapt their foraging patterns to seasonal changes (long-term).
 
-A critical failing of modern science, and particularly psychology, is overemphasis on short-term behavior at the expense of understanding long-term behavior. [[permaculture-design]] must account for both timescales.
+A critical failing of [[fukuoka-road-critique-of-modern-science]], and particularly psychology, is overemphasis on short-term behavior at the expense of understanding long-term behavior. [[permaculture-design]] must account for both timescales.
 
 ### 3. Properties
-Properties are inherent characteristics — color, reflectivity, density, thermal mass, toxicity, palatability. A material will or will not reflect light by reason of what it is. These properties are fixed and can be designed with.
+Properties are inherent characteristics — color, reflectivity, density, [[comparison-windbreak-vs-thermal-mass]], toxicity, palatability. A material will or will not reflect light by reason of what it is. These properties are fixed and can be designed with.
 
 ### 4. Yields
 Yields exist at multiple levels:
 
 - **Direct yields**: What the element produces directly — chickens lay eggs, apple trees produce apples
 - **Derived/secondary yields**: Products of the primary yield — chicken manure yields methane, apple prunings yield mulch
-- **System yields**: Benefits the element provides to the broader system — chickens control pests, apple trees provide pollen for bees
+- **System yields**: Benefits the element provides to the broader system — chickens [[query-how-to-control-pests-without-chemicals]], apple trees provide pollen for bees
 
 Mollison notes that yield may be almost unknowable in its full extent. He once investigated how people have used walnut trees and discovered that an entire culture bases its civilization on the walnut. The full range of yields from any element is far broader than initially apparent.
 
@@ -95,7 +95,7 @@ The job of the designer is to "put things in the right place and then let them r
 
 ## The Difference from Conventional Agriculture
 
-There is an enormous difference between permaculture design and conventional agricultural design:
+There is an enormous difference between [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] conventional agricultural design:
 
 - **Agriculture** imposes a pattern on the landscape and forces elements to conform to it
 - **Permaculture** observes what elements want to do naturally and arranges conditions so they can do it most effectively
@@ -110,4 +110,4 @@ The practical implications of element analysis are:
 - **Design for multiple functions**: Every element should serve at least three functions; every function should be served by at least three elements
 - **Expect surprises**: Well-designed systems will produce unanticipated benefits; the designer's job is to observe, recognize, and protect these emergent properties
 - **Minimize intervention**: Once elements are correctly placed, leave them alone. Over-management destroys the synergies that make permaculture work
-- **Account for long-term behavior**: Short-term observations can be misleading; design for how systems behave over years and decades, not just growing seasons
+- **Account for long-term behavior**: Short-term observations can be misleading; design for how systems behave over years and decades, not just [[jeavons-climate-adaptation-growing-seasons]]

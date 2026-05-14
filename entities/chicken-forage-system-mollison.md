@@ -9,7 +9,7 @@ tags: [permaculture, poultry, forage, integrated-system, zone-two, chickens]
 
 ## Description
 
-A comprehensive, integrated poultry forage system designed by Bill Mollison for zone two permaculture design. The system replaces conventional grain feeding with a diverse perennial forage polyculture that provides year-round nutrition for chickens while simultaneously improving soil, managing pests, and producing commercial nut crops. Mollison asserts that "never in the history of the world has anybody designed and implemented animal forage systems" of this type.
+A comprehensive, integrated poultry forage system designed by [[bill-mollison]] for zone two permaculture design. The system replaces conventional grain feeding with a diverse perennial forage polyculture that provides year-round nutrition for chickens while simultaneously improving soil, managing pests, and producing commercial nut crops. Mollison asserts that "never in the history of the world has anybody designed and implemented animal forage systems" of this type.
 
 ## Classification
 
@@ -83,7 +83,6 @@ A comprehensive, integrated poultry forage system designed by Bill Mollison for 
 
 ## See Also
 
-- [[white-mulberry-mollison]] — primary forage tree
-- [[siberian-pea-tree-mollison]] — drought forage
-- [[black-locust-entity]] — fence post and forage
-- [[comfrey]] — ground forage greens
+- [[chicken-keeping-basics]]
+- [[chicken-manure-amendment]]
+- [[chicken-of-the-woods-laetiporus-cultivation]]

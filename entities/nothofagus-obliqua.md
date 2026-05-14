@@ -25,7 +25,7 @@ sources:
 
 Nothofagus obliqua (Mirb.) Oerst., commonly known as roble or roble pellín, is a deciduous tree in the family Nothofagaceae native to temperate forests of Chile and Argentina.
 
-It is one of the most commercially important timber species in southern South America, valued for its moderately dense, reddish-brown wood suitable for furniture, flooring, and construction.
+It is one of the most commercially important timber species in southern [[guzman-psilocybin-mushrooms-south-america]], valued for its moderately dense, reddish-brown wood suitable for furniture, flooring, and construction.
 
 The species plays a keystone ecological role in the Valdivian temperate rainforest, forming pure stands or mixed forests with other Nothofagus species at elevations of 100–1000 m.
 
@@ -73,13 +73,13 @@ N. obliqua is shade-intolerant in its juvenile phase, requiring canopy gaps or d
 
 [[coleman-cold-hardiness-testing-ratings]] with age.
 
-The species forms ectomycorrhizal associations with numerous [[plant-nutrient-uptake-mechanisms]] in volcanic soils.
+The species forms [[ectomycorrhizal-associations]] with numerous [[plant-nutrient-uptake-mechanisms]] in volcanic soils.
 
 Important animal associations include cavity-nesting birds (e.g., Magellanic woodpecker, Chilean pigeon), and browsing mammals (huemul deer, introduced red deer).
 
 ## Cultivation and Agroforestry
 
-N. obliqua is increasingly planted in temperate regions worldwide, including New Zealand, Australia, the British Isles, and parts of western Europe, as a fast-growing ornamental and timber tree.
+N. obliqua is increasingly planted in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, including New Zealand, Australia, the British Isles, and parts of western Europe, as a fast-growing ornamental and [[dalbergia-sissoo-permaculture-timber-tree]].
 
 In New Zealand, it has naturalized in some areas and is considered a potential forestry species for areas too warm for radiata pine but too cold for eucalypts.
 

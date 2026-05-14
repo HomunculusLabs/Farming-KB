@@ -140,19 +140,10 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of aquatic fungi and ingoldian spores into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-
 ## See Also
 
 - [[aquatic-margin-plants]]
 - [[aquatic-marginal-plants]]
-- [[aquatic-plant-systems]]
 - [[aquatic-plant-systems-permaculture]]
+- [[aquatic-polyculture-and-pond-construction]]
 - [[aquatic-waste-treatment-systems]]

@@ -1,5 +1,5 @@
 ---
-title: Japan Neurotropic Fungi Diversity and Ethnomycological History
+title: Guzman Allen Gartz Japan Neurotropic Fungi Diversity Ethnomycology
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 source_author: Guzmán, Allen & Gartz (2000)
 type: concept
@@ -10,7 +10,7 @@ tags: [neurotropic-fungi, japan, mycology, distribution, psilocybin, agaritine, 
 
 ## Overview
 
-Japan possesses one of the most thoroughly documented neurotropic fungal floras in Asia, as catalogued in Guzmán, Allen & Gartz's (2000) comprehensive worldwide survey. The archipelago's combination of temperate and subtropical climates, along with Japan's long tradition of mycological research (particularly by Hongo, Imazeki, and their colleagues), has resulted in a species list that rivals that of many European countries. Japan is notable for hosting multiple species of Cordyceps used in traditional practices, a diverse array of Psilocybe species, and several unique ethnomycological traditions.
+Japan possesses one of the most thoroughly documented neurotropic fungal floras in Asia, as catalogued in Guzmán, Allen & Gartz's (2000) comprehensive worldwide survey. The archipelago's combination of temperate [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], along with Japan's long tradition of mycological research (particularly by Hongo, Imazeki, and their colleagues), has resulted in a species list that rivals that of many European countries. Japan is notable for hosting multiple species of Cordyceps used in traditional practices, a diverse array of Psilocybe species, and several unique ethnomycological traditions.
 
 ## Species Inventory
 
@@ -40,7 +40,7 @@ Japan hosts several Gymnopilus species:
 - **Gymnopilus spectabilis** — The most documented Gymnopilus in Japan, reported by Hongo (1959, 1960), Walters (1965), Ott (1976b, 1993), Singer (1978), Koike et al. (1981), Imazeki & Hongo (1983, 1987), Yokoyama (1985), Imazeki et al. (1988), Samorini (1992), Tanaka et al. (1993), Stijve (1995), Gartz (1996). Its Japanese name, "waraitake" (laughing mushroom), reflects traditional awareness of its psychoactive properties.
 
 ### Dictyophora Species (Sacred Fungi, Group 4)
-- **Dictyophora indusiata** — Imazeki & Hongo (1983, 1987), Yokoyama (1985), Imazeki et al. (1988). The "veiled lady mushroom" or "long net stinkhorn." While classified by Guzmán, Allen & Gartz among sacred fungi without confirmed chemical studies, this striking mushroom has a long history in Chinese and Japanese traditional medicine and cuisine.
+- **[[dictyophora-indusiata]]** — Imazeki & Hongo (1983, 1987), Yokoyama (1985), Imazeki et al. (1988). The "veiled lady mushroom" or "long net stinkhorn." While classified by Guzmán, Allen & Gartz among sacred fungi without confirmed chemical studies, this striking mushroom has a long history in Chinese and Japanese traditional medicine and cuisine.
 
 ### Panaeolina Species
 - **Panaeolina foenisecii** — Hongo (1959, 1986), Dennis (1986). Interestingly, despite being common in Japan, it was not recorded in the major Japanese fungal floras by Imazeki & Hongo (1983, 1987) or Imazeki et al. (1988), only by Hongo's separate publications.
@@ -74,7 +74,7 @@ Japanese mycological research on neurotropic fungi extends back over a century. 
 - **Kawamura (1918)** — Earliest documented records of Panaeolus species in Japan
 - **Imai (1932)** — Described Psilocybe venenata
 - **Hongo** — The single most prolific contributor, with publications spanning 1959-1986 covering multiple genera
-- **Takemoto et al. (1964a, 1964b)** — Early chemical studies of Amanita muscaria in Japan
+- **Takemoto et al. (1964a, 1964b)** — Early chemical studies of [[amanita-muscaria-in-eastern-religions]] Japan
 - **Imazeki & Hongo (1983, 1987)** — Authoritative Japanese fungal flora references
 - **Imazeki et al. (1988)** — Comprehensive Japanese mushroom guide
 - **Koike et al. (1981)** — Chemical and distributional studies
@@ -115,7 +115,7 @@ Japan's neurotropic fungi occupy diverse ecological niches across the archipelag
 
 ## Legal Status
 
-Japan regulates psilocybin and psilocin under the Narcotics and Psychotropics Control Law. The 2002 amendment specifically listed psilocybin and psilocin as controlled substances, effectively prohibiting the possession and sale of mushrooms containing these compounds. Prior to this legislation, psychoactive mushrooms were available in Japanese smartshops and headshops, particularly the "magic mushroom" products derived from Psilocybe species. The legal change was reportedly prompted by increasing recreational use and incidents involving tourists consuming psychoactive mushrooms. Despite the ban, wild Psilocybe species continue to grow throughout Japan's forests and grasslands, and their natural occurrence is unaffected by legislation.
+Japan regulates [[hplc-analysis-of-psilocybin-and-psilocin]] under the Narcotics and Psychotropics Control Law. The 2002 amendment specifically listed psilocybin and psilocin as [[controlled-substances-act-and-psychedelic-research]], effectively prohibiting the possession and sale of mushrooms containing these compounds. Prior to this legislation, psychoactive mushrooms were available in Japanese smartshops and headshops, particularly the "magic mushroom" products derived from Psilocybe species. The legal change was reportedly prompted by increasing recreational use and incidents involving tourists consuming psychoactive mushrooms. Despite the ban, wild Psilocybe species continue to grow throughout Japan's forests and grasslands, and their natural occurrence is unaffected by legislation.
 
 ## Conservation and Under-Exploration
 

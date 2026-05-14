@@ -35,7 +35,7 @@ Allegro's interpretation of [[sacred-mushroom-hypothesis]] he advanced prefigure
 ## Connections to Contemporary Research
 
 Modern research into the therapeutic potential of psychedelics, documented in sources like [[doc]]
-- [[shamanism]]
+- shamanism
 - [[amanita-muscaria]]
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-title: THC Acetate Synthesis and Hashish Preparation
+title: Thc Acetate Synthesis And Hashish Preparation
 source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
@@ -16,7 +16,7 @@ The boiling flask is positioned at least one-half inch above the bottom of the o
 
 ### Key Design Considerations
 
-- **External temperature control:** A variac-type rheostat controls the hotplate from outside the box, preventing the need to open the box during operation
+- **External [[hamilton-greenhouse-heating-and-temperature-control]]:** A variac-type rheostat controls the hotplate from outside the box, preventing the need to open the box during operation
 - **External coolant system:** The immersion pump and ice bucket remain outside the box; hoses pass through small holes in the safety box wall to connect to the condenser
 - **Condenser orientation:** The icewater input connects to the lower fitting, with the return from the uppermost fitting — ensuring the condenser is always filled with circulating water
 - **Thermometer:** Positioned for observation through the safety glass window

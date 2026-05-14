@@ -24,7 +24,7 @@ exposing additional binding sites or removing masking substances.
 Numerous fungal species have been investigated for [[phanerochaete-chrysosporium]] and [[heavy-metal-bioremediation]]
 ## Practical Considerations
 
-When working with Fungal Biosorption Mechanisms for Heavy Metal Removal, several practical factors should be
+When working with [[fungal-biosorption-mechanisms]] for Heavy Metal Removal, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this

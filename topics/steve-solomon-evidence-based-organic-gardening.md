@@ -1,5 +1,5 @@
 ---
-title: Steve Solomon Evidence Based [[geoff-hamilton-the-organic-gardening-companion]]
+title: "Steve Solomon Evidence Based Organic Gardening"
 subtitle: "The [[complete-organic-fertilizer-cof]], wide-spacing methods, and
   resilient food production from the author of Gardening When It Counts"
 tags: [organic-gardening, soil-fertility, self-sufficiency, steve-solomon,

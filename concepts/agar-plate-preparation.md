@@ -6,11 +6,11 @@ type: concept
 
 # Agar Plate Preparation
 
-Preparing agar plates is one of the foundational skills in mushroom cultivation and mycological laboratory work. An agar plate is a petri dish containing agar—a gelatinous seaweed extract commonly used as a substrate for tissue cultures. The process involves preparing a nutrient-rich gel, sterilizing it, pouring it into sterile petri plates, and optionally supplementing it with additives tailored to specific mushroom species or experimental goals.
+Preparing agar plates is one of the foundational skills in [[mushroom-cultivation]] and mycological laboratory work. An agar plate is a petri dish containing agar—a gelatinous seaweed extract commonly used as a substrate for tissue cultures. The process involves preparing a nutrient-rich gel, sterilizing it, pouring it into sterile petri plates, and optionally supplementing it with additives tailored to specific mushroom species or experimental goals.
 
 ## Understanding Agar
 
-Agar serves as the growth medium on which mushroom spores germinate and mycelium expands. The basic formula provides nutrients, while supplements can be added to improve growth rates, select against contaminants, or simulate natural growing conditions. Potato-based agar is the standard beginner formula because it is difficult for bacteria to grow on, making it forgiving for cultivators still developing sterile technique. As skills advance, alternative bases and enrichment strategies can improve performance for specific species.
+Agar serves as the growth medium on which mushroom spores germinate and [[mycelium]] expands. The basic formula provides nutrients, while supplements can be added to improve growth rates, select against contaminants, or simulate natural growing conditions. Potato-based agar is the standard beginner formula because it is difficult for bacteria to grow on, making it forgiving for cultivators still developing sterile technique. As skills advance, alternative bases and enrichment strategies can improve performance for specific species.
 
 ## Step 1: Preparing the Agar Gel
 
@@ -20,11 +20,11 @@ The broth is strained and measured, then poured into an Erlenmeyer flask or wide
 
 ## Step 2: Sterilizing the Agar
 
-Sterilization requires a pressure cooker rated for 12–15 PSI. Lower PSI means longer cook times and lower maximum sterilization temperature. Pressure cookers with metal-to-metal seals are superior to those with rubber gaskets, but gasketed models are adequate for skill development before investing in professional-grade equipment. The cooker must be tall enough to accommodate the agar flask.
+[[sterilization]] requires a pressure cooker rated for 12–15 PSI. Lower PSI means longer cook times and lower maximum sterilization temperature. Pressure cookers with metal-to-metal seals are superior to those with rubber gaskets, but gasketed models are adequate for skill development before investing in professional-grade equipment. The cooker must be tall enough to accommodate the agar flask.
 
 The cooker is filled with water per manufacturer's directions, and the flask is placed upright in the inner pan. If tipping is a risk, the flask can be stabilized in a wire basket or metal bowl with aluminum foil wads. The flask's open top is plugged with cotton or polyester fill, covered with aluminum foil, and compressed tightly.
 
-When the cooker reaches 15 PSI, a timer is started for 20 minutes, then heat is turned off. The cooker must not be opened until internal pressure drops above 0 PSI but below 2–3 PSI. Opening below 0 PSI creates a vacuum that sucks contaminated air into the cooker, requiring resterilization. Opening well above 0 PSI causes the agar to boil out of the flask, wasting supplies. Ideally, the cooker is opened in a clean room or in front of the laminar flow hood.
+When the cooker reaches 15 PSI, a timer is started for 20 minutes, then heat is turned off. The cooker must not be opened until internal pressure drops above 0 PSI but below 2–3 PSI. Opening below 0 PSI creates a vacuum that sucks contaminated air into the cooker, requiring resterilization. Opening well above 0 PSI causes the agar to boil out of the flask, wasting supplies. Ideally, the cooker is opened in a clean room or in front of the [[laminar-flow-hood]].
 
 The hot flask is removed using an alcohol-saturated paper towel as a mitt or a sanitized jar lifter. Bare hands must never touch the flask, as skin oils can harbor bacteria that compromise subsequent transfers.
 
@@ -48,7 +48,7 @@ Before use, stored plates are inspected at the laminar hood for contamination—
 
 ## Alternative Agar Bases
 
-As cultivators expand their skills, alternative bases can replace or supplement potato agar:
+As cultivators expand their skills, alternative bases can replace or supplement [[potato-agar]]:
 
 - **Powdered brewer's malt** — Rich in nutrients suitable for many species
 - **Dog food or rabbit food** — Readily available, nutrient-dense

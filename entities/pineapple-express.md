@@ -18,8 +18,8 @@ updated: 2026-04-28
 sources:
   - "Leafly. 'Pineapple Express blesching-cannabis-strain-selection-receptor-targeting Information.' Leafly, https://www.leafly.com/strains/pineapple-express"
   - "Wikileaf. 'Pineapple Express Strain Review.' Wikileaf, https://www.wikileaf.com/strain/pineapple-express"
-  - "AllBud. 'Pineapple Express Marijuana Strain Information.' AllBud, https://www.allbud.com/marijuana-strains/hybrid/pineapple-express"
-  - "Eichler, M. et al. (2022). 'Phytocannabinoid Profiling of Popular Cannabis Strains.' Cannabis and Cannabinoid Research."
+  - "AllBud. 'Pineapple Express [[marijuana-strain-guide-hybrid]] Information.' AllBud, https://www.allbud.com/marijuana-strains/hybrid/pineapple-express"
+  - "Eichler, M. et al. (2022). 'Phytocannabinoid Profiling of Popular [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]].' Cannabis and Cannabinoid Research."
   - " Cannabis Now. 'The Real Story Behind Pineapple Express.' https://cannabisnow.com"
 ---
 
@@ -27,7 +27,7 @@ sources:
 
 ## Overview
 
-Pineapple Express is a sativa-dominant hybrid cannabis strain renowned for its tropical fruit aroma, uplifting cerebral effects, and widespread cultural recognition — amplified enormously by the 2008 Judd Apatow/Seth Rogen film of the same name. Despite the Hollywood association, Pineapple Express is a legitimate and well-regarded cultivar with a loyal following among both recreational and medical users. It delivers an energizing, creative high suitable for daytime use, with a distinctive tropical flavor profile that makes it one of the most instantly recognizable strains in [[trainwreck-cannabis]] — Parent strain with cerebral potency
+Pineapple Express is a sativa-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain renowned for its tropical fruit aroma, uplifting cerebral effects, and widespread cultural recognition — amplified enormously by the 2008 Judd Apatow/Seth Rogen film of the same name. Despite the Hollywood association, Pineapple Express is a legitimate and well-regarded cultivar with a loyal following among both recreational and medical users. It delivers an energizing, creative high suitable for daytime use, with a distinctive tropical flavor profile that makes it one of the most instantly recognizable strains in [[trainwreck-cannabis]] — Parent strain with cerebral potency
 - [[blue-dream]] — Balanced hybrid with similar broad appeal
 - [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 ## Practical Applications
@@ -47,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

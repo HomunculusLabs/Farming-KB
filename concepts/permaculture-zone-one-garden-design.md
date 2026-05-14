@@ -18,7 +18,7 @@ The 20 to 30 foot radius is not rigid; it expands or contracts based on site con
 
 Zone One beds are prepared for high production using intensive methods. Mollison advocates **mulch gardening** as a primary technique, layering organic material over the soil surface to suppress weeds, retain moisture, and feed soil biology. Mulch eliminates the need for tillage once established and mirrors the natural litter layer of forest floors.
 
-**Triple digging** is another recommended soil preparation method. This intensive technique involves removing the topsoil to the depth of a spade, loosening the subsoil beneath with a fork, then replacing the topsoil with added compost and organic matter. Triple digging creates a deep, well-aerated root zone that supports high planting densities and rapid plant growth — essential for the productivity expected of Zone One.
+**Triple digging** is another recommended soil preparation method. This intensive technique involves removing the topsoil to the depth of a spade, loosening the subsoil beneath with a fork, then replacing the topsoil with added [[coleman-compost-and-organic-fertility-management]] matter. Triple digging creates a deep, well-aerated root zone that supports high planting densities and rapid plant growth — essential for the productivity expected of Zone One.
 
 ## Plant Placement and the Parsley Principle
 
@@ -45,9 +45,9 @@ The perimeter of Zone One is typically defined by a band of **border plants** th
 
 Key Zone One barrier species include:
 
-- **Jerusalem artichoke** (*Helianthus tuberosus*): A tall, rhizomatous sunflower that forms dense screens, produces edible tubers, and tolerates a wide range of soils. Its aggressive spread makes it an effective edge species where containment is desired.
-- **Siberian pea tree** (*Caragana arborescens*): A nitrogen-fixing shrub that serves as a windbreak, provides edible seeds, and fixes atmospheric nitrogen into the soil through its root-associated rhizobia.
-- **Comfrey** (*Symphytum officinale*): A deep-rooted perennial whose leaves accumulate potassium, calcium, and other minerals from subsoil layers. Comfrey functions as a dynamic accumulator, a mulch crop, and a barrier against grass encroachment.
+- **[[comparison-jerusalem-artichoke-vs-potato]]** (*[[helianthus-tuberosus]]*): A tall, rhizomatous sunflower that forms dense screens, produces edible tubers, and tolerates a wide range of soils. Its aggressive spread makes it an effective edge species where containment is desired.
+- **Siberian pea tree** (*[[caragana-arborescens]]*): A nitrogen-fixing shrub that serves as a windbreak, provides edible seeds, and fixes atmospheric nitrogen into the soil through its root-associated rhizobia.
+- **Comfrey** (*[[comfrey-symphytum-officinale]]*): A deep-rooted perennial whose leaves accumulate potassium, calcium, and other minerals from subsoil layers. Comfrey functions as a dynamic accumulator, a mulch crop, and a barrier against grass encroachment.
 
 These species are chosen for their multifunctionality — each performs at least three roles simultaneously, consistent with the permaculture principle that every element should serve multiple functions.
 
@@ -63,7 +63,7 @@ This three-tiered approach recognizes that pest pressure arrives at different he
 
 ## Greenhouse Integration
 
-In temperate climates, **greenhouses** are ideally connected directly to the kitchen or dwelling. This integration — sometimes called a **lean-to greenhouse** or **solarium** — provides several advantages:
+[[query-how-to-grow-and-use-oca-in-temperate-climates]], **greenhouses** are ideally connected directly to the kitchen or dwelling. This integration — sometimes called a **lean-to greenhouse** or **solarium** — provides several advantages:
 
 - Passive solar heat gain reduces household heating energy.
 - The gardener accesses the greenhouse without going outside, extending the growing season for herbs and salad greens through winter.

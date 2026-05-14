@@ -15,12 +15,12 @@ dig-free area** designed for maximum productivity with minimum effort.
 ## Mulch Gardening Techniques
 
 Zone one gardens are maintained using **full mulch** rather than traditional
-cultivation methods like triple digging. Mulch gardening eliminates the need to turn
+[[gourmet-medicinal-mushroom-oyster-cultivation-methods]] like triple digging. Mulch gardening eliminates the need to turn
 soil, preserves soil structure, retains moisture, suppresses weeds, and feeds the soil
 biota continuously. Layers of organic material — straw, leaves, compost, and green
 manure — are applied to garden beds and replenished as they decompose. This approach
 contrasts sharply with the labor-intensive triple-digging methods common in
-conventional organic gardening.
+conventional [[geoff-hamilton]].
 
 ## Annual Garden Plant Classes
 
@@ -64,8 +64,8 @@ plants include:
 
 Recommended barrier plants include **Siberian pea tree** (*[[caragana-arborescens]]*), a
 nitrogen-fixing shrub that provides edible seeds and chicken forage; **Jerusalem
-artichoke** (*Helianthus tuberosus*), a tall, dense perennial tuber that forms
-impenetrable screens; and **comfrey** (*Symphytum officinale*), whose deep taproot
+artichoke** (*[[helianthus-tuberosus]]*), a tall, dense perennial tuber that forms
+impenetrable screens; and **comfrey** (*[[comfrey-symphytum-officinale]]*), whose deep taproot
 mines minerals and whose broad leaves produce abundant mulch material.
 
 ## Fencing for Zone One
@@ -85,7 +85,7 @@ three-layer fence system:
 Glasshouses and polytunnels should be **attached directly to the kitchen** whenever
 possible. This eliminates the need to go outside in poor weather to harvest herbs,
 salads, or seedlings. The glasshouse serves as a thermal buffer for the house,
-capturing solar heat that can be vented indoors. It also extends the growing season
+capturing solar heat that can be vented indoors. It also extends [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 for tender crops and provides a protected environment for seed raising.
 
 ## Small Animal Systems
@@ -135,7 +135,7 @@ Key principles for zone one design:
 - **Intensity**: Zone one is the most intensively managed area — tight weed control,
   high productivity, frequent harvest cycles.
 - **Proximity**: Place the most frequently used elements closest to the door.
-- **Mulch, don't dig**: Use sheet mulching and no-till methods exclusively.
+- **Mulch, don't dig**: Use [[query-what-is-sheet-mulching-and-how-to-do-it]] no-till methods exclusively.
 - **Integrate animals**: Small livestock and aquaculture belong in zone one.
 - **Defend boundaries**: Use multi-layer fencing and living barrier plants.
 - **Connect structures**: Attach glasshouses, sheds, and processing areas to the

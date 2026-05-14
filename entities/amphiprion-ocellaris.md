@@ -25,7 +25,7 @@ sources:
 Pomacentridae, famous for its mutualistic symbiosis with sea anemones.
 Native to the eastern Indian Ocean and western Pacific, the species gained
 widespread popular recognition from the animated film *Finding Nemo*. It is
-among the most studied marine fish for its social structure, sex change, and
+among the most studied marine fish for its [[permaculture-community-philosophy-and-social-structure]], sex change, and
 host-anemone interactions.
 
 ## Taxonomy

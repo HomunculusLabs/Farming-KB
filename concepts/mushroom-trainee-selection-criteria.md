@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Trainee Selection Criteria"
+title: Mushroom Trainee Selection Criteria
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
@@ -26,7 +26,7 @@ When [[history-of-mushroom-cultivation]] knowledge across regions, and it helps 
 
 ### Step 4: Home Interviews
 
-Home visits are conducted to verify the candidate's living conditions and support network. Interviewers assess whether the candidate's family is supportive of the training and willing to assist with post-training mushroom house setup. Community attitudes toward disability and toward the candidate specifically are also evaluated. Crucially, the home interview confirms whether the candidate or their family has access to suitable land for constructing a mushroom production facility after training concludes.
+Home visits are conducted to verify the candidate's living conditions and support network. Interviewers assess whether the candidate's family is supportive of the training and willing to assist with post-training [[fao-accessible-mushroom-house-design-disabilities]] setup. Community [[weil-cultural-attitudes-toward-altered-states]] disability and toward the candidate specifically are also evaluated. Crucially, the home interview confirms whether the candidate or their family has access to suitable land for constructing a [[stamets-stump-cultivation-mushroom-production-forestry]] facility after training concludes.
 
 ### Step 5: Verification of Commitment
 
@@ -34,7 +34,7 @@ Beyond initial interest, trainers must confirm genuine commitment from both the 
 
 ### Step 6: Verification of Motivation
 
-Personal motivation is a strong predictor of training success. Interviewers explore whether the candidate has a genuine personal interest in mushrooms — for instance, whether they already enjoy eating or cooking mushrooms, or whether their family has prior knowledge of mushroom cultivation. A sincere desire to learn and to build an independent livelihood is more important than prior experience. Candidates who view the training as an opportunity rather than an obligation consistently perform better.
+Personal motivation is a strong predictor of training success. Interviewers explore whether the candidate has a genuine personal interest in mushrooms — for instance, whether they already enjoy eating or cooking mushrooms, or whether their family has prior knowledge [[historical-development-of-mushroom-cultivation]]. A sincere desire to learn and to build an independent livelihood is more important than prior experience. Candidates who view the training as an opportunity rather than an obligation consistently perform better.
 
 ### Step 7: Verification of Availability
 
@@ -50,7 +50,7 @@ The recommended ratio is 5–6 trainees per trainer. This small group size is in
 
 ## Gender Equality Considerations
 
-Mushroom cultivation is particularly well-suited as an economic opportunity for women with disabilities. The work does not require major physical strength, making it accessible regardless of gender. Programs should actively recruit female candidates and ensure that separate accommodation facilities and appropriate security arrangements are provided during training. Experience from established programs shows that women trainees often learn quickly, apply techniques diligently, and achieve higher success rates in running mushroom enterprises after training. Promoting gender inclusion in these programs contributes to broader goals of women's economic empowerment and disability rights.
+Mushroom cultivation is particularly well-suited as an economic opportunity for women with disabilities. The work does not require major physical strength, making it accessible regardless of gender. Programs should actively recruit female candidates and ensure that separate accommodation facilities and appropriate security arrangements are provided during training. Experience from established programs shows that women trainees often learn quickly, apply techniques diligently, and achieve higher success rates in [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] enterprises after training. Promoting gender inclusion in these programs contributes to broader goals of women's economic empowerment and disability rights.
 
 ## Problems to Avoid During Selection
 

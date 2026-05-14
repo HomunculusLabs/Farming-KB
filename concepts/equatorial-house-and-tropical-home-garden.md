@@ -1,5 +1,5 @@
 ---
-title: [[equatorial-house-design-principles]] and [[mollison-tropical-home-garden-design]]
+title: "Equatorial House And Tropical Home Garden"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

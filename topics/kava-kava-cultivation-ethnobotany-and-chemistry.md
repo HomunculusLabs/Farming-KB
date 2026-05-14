@@ -1,13 +1,13 @@
 ---
-title: Kava Kava — Cultivation, Ethnobotany, and Chemistry
+title: Kava Kava Cultivation Ethnobotany And Chemistry
 tags:
   - kava
-  - piper-methysticum
+  - [[piper-methysticum]]
   - ethnobotany
   - medicinal-plants
   - psychoactive-plants
   - pacific-islands
-  - kavalactones
+  - [[kavalactones]]
   - cultivation
   - tropical-agriculture
   - traditional-medicine
@@ -48,7 +48,7 @@ Kava is believed to be a domesticated derivative of *Piper wichmannii* (sometime
 
 Kavalactones modulate several neurotransmitter systems simultaneously, which explains kava's unique pharmacological profile:
 
-1. **GABA_A receptor modulation**: Kavain enhances GABAergic neurotransmission without the sedation, tolerance, or addiction associated with benzodiazepines. This is the primary mechanism for anxiolysis.
+1. **GABA_A receptor modulation**: [[kavain]] enhances GABAergic neurotransmission without the sedation, tolerance, or addiction associated with benzodiazepines. This is the primary mechanism for anxiolysis.
 
 2. **Sodium and calcium channel blockade**: Kavalactones inhibit voltage-gated sodium and calcium channels, producing skeletal muscle relaxation and local anesthetic effects.
 

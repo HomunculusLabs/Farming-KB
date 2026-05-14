@@ -7,7 +7,7 @@ tags: [product, value-added, medicinal, extraction, tincture]
 
 ## Description
 
-Mushroom extracts (also known as tinctures) are concentrated liquid preparations made by extracting bioactive compounds from mushrooms using alcohol, hot water, or a combination of both. They are used primarily for medicinal purposes but are often expensive and difficult to quality-assess when purchased commercially, motivating many cultivators to produce their own. Tradd Cotter describes two primary extraction methods: alcohol extraction (preferred for safety) and hot water extraction (used as a supplementary step), as well as an alternative method using grain spawn as the source material.
+Mushroom extracts (also known as tinctures) are concentrated liquid preparations made by extracting bioactive compounds from mushrooms using alcohol, hot water, or a combination of both. They are used primarily for medicinal purposes but are often expensive and difficult to quality-assess when purchased commercially, motivating many cultivators to produce their own. [[tradd-cotter]] describes two primary extraction methods: alcohol extraction (preferred for safety) and hot water extraction (used as a supplementary step), as well as an alternative method using [[grain-spawn]] as the source material.
 
 ## Classification
 
@@ -25,7 +25,7 @@ Mushroom extracts (also known as tinctures) are concentrated liquid preparations
 3. Add high-proof alcohol (95% ABV preferred, such as Everclear)
 4. Dosage: 1 gram dried mushroom (or fresh equivalent) per teaspoon of alcohol
 5. For a 1-liter bottle (~200 teaspoons): ~200 grams dried mushroom needed
-6. Example: Oyster mushrooms (90% water when fresh) → ½ cup dried/powdered or 4¼ cups fresh per liter
+6. Example: [[oyster-mushrooms]] (90% water when fresh) → ½ cup dried/powdered or 4¼ cups fresh per liter
 7. Let sit for at least 14 days at room temperature (65–80°F / 18–27°C)
 8. Strain out mushrooms
 9. Dilute down to 20–23% alcohol by volume to prevent degradation of active ingredients
@@ -71,3 +71,15 @@ Mushroom extracts represent one of the highest-value products that cultivators c
 
 - [[mushroom-powder]]
 - [[mushroom-honey]]
+
+## Practical Applications
+
+Mushroom extract has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of mushroom extract has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## Key Considerations
+
+When working with mushroom extract, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.

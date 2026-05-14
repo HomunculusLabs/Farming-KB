@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[oyster-mushroom-brown-blotch-disease]]
 - [[oyster-mushroom-species-overview]]
-- [[animal-systems-arid-areas-permaculture]]

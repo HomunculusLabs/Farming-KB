@@ -1,5 +1,5 @@
 ---
-title: Singh singh ligninolytic enzymes fungal bioremediation in Fungal Bioremediation
+title: Singh Ligninolytic Enzymes Fungal Bioremediation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -17,22 +17,22 @@ Source: Harbhajan Singh, Mycoremediation: Fungal Bioremediation (2006), Chapter 
 ## Overview
 
 Ligninolytic enzymes are the primary enzymatic arsenal that white-rot and litter-decomposing fungi deploy to degrade lignin and a vast array of xenobiotic pollutants. These enzymes include lignin peroxidase (LiP), [[fungal-volatile-organic-compounds-communication]]. See also [[staycare-phanerochaete-chrysosporium-in-bioremediation]], Phlebia radiata) -- produces LiP and MnP
-2. **Manganese Peroxidase-Laccase Group** (e.g., Dichomitus squalens, Rigidoporus lignosus) -- produces MnP and laccase
+2. **Manganese Peroxidase-Laccase Group** (e.g., [[dichomitus-squalens]], Rigidoporus lignosus) -- produces MnP and laccase
 3. **Lignin Peroxidase-Laccase Group** (e.g., Phlebia ochraceofulva, Junghuhnia separabilima) -- produces LiP and laccase
 
 ## Lignin Peroxidase (LiP; EC 1.11.1.14)
 
 ### Discovery and Distribution
-- Discovered in Phanerochaete chrysosporium (Glenn et al., 1983; Tien and Kirk, 1983)
-- Produced by most white-rot fungi including Bjerkandera adusta, [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Phlebia radiata, Trametes trogii, Phlebia ochraceofulva, Phlebia tremellosa
-- NOT produced by Ceriporiopsis subvermispora (despite being an active biopulping fungus)
+- Discovered in [[phanerochaete-chrysosporium]] (Glenn et al., 1983; Tien and Kirk, 1983)
+- Produced by most white-rot fungi including [[bjerkandera-adusta]], [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Phlebia radiata, Trametes trogii, Phlebia ochraceofulva, Phlebia tremellosa
+- NOT produced by [[ceriporiopsis-subvermispora]] (despite being an active biopulping fungus)
 - NOT detected in marine fungi
 
 ### Properties
 - Glycosylated heme protein, ~40 kDa molecular weight
 - Low optimum pH: 2.5-3.0
 - Acidic pIs, high redox potential
-- Crystal structure established at 2-2.5 Angstrom resolution
+- [[crystal-structure-and-crystal-defects]] established at 2-2.5 Angstrom resolution
 - Secreted during secondary metabolism in nutrient-limited cultures
 
 ### Catalytic Cycle

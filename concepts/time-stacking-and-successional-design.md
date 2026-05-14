@@ -148,5 +148,3 @@ sequence, ensuring every element serves multiple functions and every function is
 supported by multiple elements.
 
 Time stacking is not a technique appended to a design but its very fabric. When done
-well, succession and stacking are inseparable from spatial layout, species selection,
-and the human experience of the system.

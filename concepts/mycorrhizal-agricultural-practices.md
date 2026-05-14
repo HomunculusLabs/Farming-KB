@@ -125,8 +125,33 @@ Example: A label showing 10-20-10 actually contains 10% N, 8.8% P, 8.3% K.
 - [[fertilizer-npk-decoded]] — Fertilizer math and nutrient management
 - [[soil-food-web-nutrient-cycling]] — The soil ecosystem supporting mycorrhizae
 
+
 ## See Also
 
-- [[mycorrhizal-carbon-sequestration-mechanisms]]
-- [[mycorrhizal-fungi-biogeochemistry]]
-- [[mycorrhizal-mediation-of-plant-plant-competition]]
+- [[mycorrhizal-biodiversity-drought-stress-response]]
+- [[mycorrhizal-biodiversity-drought-tolerance-edaphic-relations]]
+- [[mycorrhizal-biodiversity-edaphic-relations]]
+- [[mycorrhizal-communities-ecosystem-function]]
+- [[mycorrhizal-community-dynamics-functional-diversity]]
+- [[mycorrhizal-community-feedback-plant-pathogens]]
+- [[mycorrhizal-dispersal-soil-food-webs]]
+- [[mycorrhizal-distribution-nutrient-availability]]
+- [[mycorrhizal-diversity-and-leaf-litter-effects]]
+- [[mycorrhizal-ecology-research-themes]]
+- [[mycorrhizal-interactions-plant-pathogens]]
+- [[mycorrhizal-nematode-interactions]]
+- [[mycorrhizal-nitrogen-nutrition-litter-decomposition]]
+- [[mycorrhizal-nutrient-cycling-phosphorus-dynamics]]
+- [[mycorrhizal-nutrient-uptake-mechanisms]]
+- [[mycorrhizal-pathogen-interactions-defense]]
+- [[mycorrhizal-plant-nutrition-and-ecosystem-sustainability]]
+- [[mycorrhizal-plant-pathogen-biocontrol]]
+- [[mycorrhizal-plant-pathogen-interactions]]
+- [[mycorrhizal-protection-against-plant-pathogens]]
+- [[mycorrhizal-research-nutrition-symbiosis]]
+- [[mycorrhizal-saprotroph-interactions-decomposition]]
+- [[mycorrhizal-succession-forest-development]]
+- [[mycorrhizal-succession-forest-ecosystems]]
+- [[mycorrhizal-symbiosis-research-references]]
+- [[mycorrhizal-types-and-associations]]
+- [[mycorrhizal-types-and-plant-nutrient-uptake]]

@@ -10,7 +10,7 @@ tags: [neurotropic-fungi, new-guinea, boletus, russula, heimiella, sacred-fungi,
 
 ## Overview
 
-New Guinea represents one of the most controversial and enigmatic regions in the study of neurotropic fungi. As documented by Guzmán, Allen & Gartz (2000), the island harbors an extraordinary assemblage of putatively psychoactive Boletus and Russula species that were studied by Roger Heim and R. Gordon Wasson in the 1950s-1960s. The neurotropic status of many of these species remains deeply contested, with Jonathan Ott (1993) and others questioning whether several of these mushrooms actually contain psychoactive compounds. New Guinea's [[boletus-manicus-new-guinea-psychoactive-bolete]]** — Heim & Wasson (1958, 1965), Heim (1963, 1965a, 1978), Corner (1972), Singer (1978), Schultes & Hofmann (1979), Ott (1993). The specific epithet "manicus" derives from the Latin for "madness" or "frenzy," directly referencing the reported psychoactive effects. This species is the most frequently cited in discussions of New Guinea's psychoactive boletes.
+New Guinea represents one of the most controversial and enigmatic regions in the study [[distribution-of-neurotropic-fungi]]. As documented by Guzmán, Allen & Gartz (2000), the island harbors an extraordinary assemblage of putatively psychoactive Boletus and Russula species that were studied by Roger Heim and R. Gordon Wasson in the 1950s-1960s. The neurotropic status of many of these species remains deeply contested, with Jonathan Ott (1993) and others questioning whether several of these mushrooms actually contain psychoactive compounds. New Guinea's [[boletus-manicus-new-guinea-psychoactive-bolete]]** — Heim & Wasson (1958, 1965), Heim (1963, 1965a, 1978), Corner (1972), Singer (1978), Schultes & Hofmann (1979), Ott (1993). The specific epithet "manicus" derives from the Latin for "madness" or "frenzy," directly referencing the reported psychoactive effects. This species is the most frequently cited in discussions of New Guinea's psychoactive boletes.
 - **Boletus nigerrimus** — Corner (1972). A very dark species, less frequently discussed in the neurotropic context.
 - **Boletus nigerimus** — Heim (1963, 1978), Heim & Wasson (1965), Corner (1972). Another dark-pigmented bolete.
 - **Boletus nigroviolaceus** — Heim & Wasson (1958, 1965), Heim (1963, 1965a, 1978), Corner (1972), Hongo (1973b), Singer (1978), Schultes & Hofmann (1979), Ott (1993, who stated this species is not neurotropic). A dark species with violaceous (purple-blue) tones.
@@ -23,11 +23,11 @@ Two Heimiella species from New Guinea are listed as neurotropic:
 - **Heimiella anguiformis** — Heim & Wasson (1958, 1965), Heim (1963, 1965a, 1978), Singer (1978), Schultes & Hofmann (1979), Ott (1993, who doubts that this species is neurotropic).
 - **Heimiella retispora** — Heim & Wasson (1965), Heim (1963, 1965a), Schultes & Hofmann (1979).
 
-Heimiella is a genus closely related to Boletus, and these species share the general characteristics of the bolete group (porous hymenium, fleshy stature). Their inclusion among neurotropic fungi rests primarily on ethnographic reports rather than confirmed chemical analyses.
+Heimiella is a genus closely related to Boletus, and these species share the general characteristics of the bolete group (porous hymenium, fleshy stature). Their inclusion among neurotropic fungi rests primarily on ethnographic reports rather than confirmed [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]].
 
 ## Russula Species
 
-Six Russula species from New Guinea are listed, all with disputed neurotropic status:
+Six Russula species from New Guinea are listed, all with [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]] status:
 - **Russula agglutina** — Heim & Wasson (1958), Heim (1963, 1978), Schultes & Hofmann (1979), Ott (1993, who wrote that there is no scientific evidence that this is neurotropic).
 - **Russula kirinea** — Heim & Wasson (1958), Heim (1963, 1978), Schultes & Hofmann (1979), Ott (1993, no scientific evidence).
 - **Russula maenadum** — Heim & Wasson (1958), Heim (1963, 1978), Schultes & Hofmann (1979), Ott (1993, no scientific evidence). The epithet references maenads, the female followers of Dionysus in Greek mythology known for ecstatic frenzy — a clear allusion to reported psychoactive effects.
@@ -43,13 +43,13 @@ The neurotropic status of New Guinea's boletes and Russula species is one of the
 - Ethnographic reports from indigenous New Guinea communities describing ceremonial or recreational use of these mushrooms for intoxicating effects
 - The systematic documentation by Heim and Wasson, both highly respected mycologists
 - The suggestive naming of species like Boletus manicus (from "mania") and Russula maenadum (from maenads)
-- The cultural pattern is consistent with known psychoactive mushroom use in other parts of the world
+- The cultural pattern is consistent with known [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] use in other parts of the world
 
 **Evidence against neurotropic status:**
 - Jonathan Ott (1993) explicitly stated that several species (B. flammeus, B. nigroviolaceus, H. anguiformis) are not neurotropic
 - Ott noted that for all six Russula species, "there is no scientific evidence that this is neurotropic"
 - No confirmed chemical analyses demonstrating the presence of psilocybin, psilocin, baeocystin, or other known indole hallucinogens in these species
-- The large, fleshy nature of boletes and Russula species is unusual among confirmed psychoactive mushrooms, which are typically small and thin-fleshed
+- The large, fleshy nature of boletes and Russula species is unusual among confirmed [[ceremonial-shamanic-use-psychoactive-mushrooms]], which are typically small and thin-fleshed
 - The possibility of misidentification, confusion with other psychoactive species, or placebo effects has been raised
 
 Guzmán, Allen & Gartz (2000) classified these species in their "Group 4" — "those fungi used as sacred by some tribes in the world, but without any reliable chemical studies." This cautious classification acknowledges the ethnographic reports while recognizing the absence of chemical confirmation.
@@ -85,5 +85,5 @@ The New Guinea case is unique among documented traditions of psychoactive mushro
 - [[guzman-allen-gartz-neurotropic-fungi-australasia]]
 - heim roger mycologist mexico neurotropic
 - wasson rgordon soma mushroom history
-- psilocybe kumaenorum new guinea
+- [[psilocybe-kumaenorum]] new guinea
 - boletus psychoactive species question

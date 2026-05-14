@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-community-design]] Services and Enterprise
+title: "Permaculture Community Services And Enterprise"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

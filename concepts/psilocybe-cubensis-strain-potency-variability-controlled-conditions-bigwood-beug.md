@@ -8,7 +8,7 @@ tags: [psilocybe-cubensis, strain, potency, variability, alkaloid, bigwood-beug,
 
 ## Overview
 
-The Bigwood and Beug (1982) study provided some of the earliest quantitative evidence that *Psilocybe cubensis* strains produce wildly different alkaloid levels even when grown under identical, carefully controlled conditions. Their data demonstrated a **fourfold variation** between minicultures of the same Amazonian strain, and a **tenfold variation** between unknown street samples—all grown on the same basic rye-grain substrate. These findings fundamentally challenge the assumption that strain name or source provides reliable information about potency.
+The Bigwood and Beug (1982) study provided some of the earliest quantitative evidence that *[[psilocybe-cubensis]]* strains produce wildly different alkaloid levels even when grown under identical, carefully controlled conditions. Their data demonstrated a **fourfold variation** between minicultures of the same Amazonian strain, and a **tenfold variation** between unknown street samples—all grown on the same basic rye-grain substrate. These findings fundamentally challenge the assumption that strain name or source provides reliable information about potency.
 
 ## Controlled-Culture Variation (Same Strain)
 

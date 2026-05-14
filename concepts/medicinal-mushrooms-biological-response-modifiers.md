@@ -19,7 +19,7 @@ Tens of thousands of patients have been treated with mushroom-derived BRMs in Ja
 - medicinal-mushroom-regulatory-frameworks
 ## Practical Considerations
 
-When working with Medicinal Mushrooms as Biological Response Modifiers, several practical factors should be
+When working with [[medicinal-mushrooms]] as Biological Response Modifiers, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this

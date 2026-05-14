@@ -144,8 +144,6 @@ Sheet mulching smothers existing vegetation and weed seeds under multiple layers
 
 ## See Also
 
-- [[fukuoka-weed-management-and-green-manure]]
-- [[jeavons-weed-management]]
-- [[fukuoka-textdoc-vegetable-weed-family-replacement-orchard-soil-building]]
-- [[mollison-designers-geese-and-duck-weed-control]]
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
+- [[weed-control-in-winter-greenhouses]]
+- [[weed-control-intensive-winter-gardens]]
+- [[weed-tea-liquid-fertilizer]]

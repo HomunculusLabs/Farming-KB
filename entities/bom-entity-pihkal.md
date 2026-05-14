@@ -26,7 +26,7 @@ It can be seen with the two active members of the BOX series (BOD and
 BOB) that the potency is about equal to, or a little more (up to a
 factor of maybe x2), than the analogue without the methoxyl group on
 the aliphatic chain. If this formula were to hold in the relationship
-between mescaline and BOM, the active level might well be in the
+between [[mescaline]] and BOM, the active level might well be in the
 200-400 milligram range. But at the moment, it remains unknown.
 
 Again, the name of the compound (BOM) is from the RBO-S prefix of this

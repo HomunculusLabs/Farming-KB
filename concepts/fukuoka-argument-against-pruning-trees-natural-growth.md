@@ -7,7 +7,7 @@ topics: [natural-farming, tree-care, pruning, fruit-trees, orchard-management]
 
 # Fukuoka's Argument Against Pruning: Trees Grow Best Without Human Intervention
 
-Masanobu Fukuoka's philosophy [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] is unnecessary, harmful, and rooted in
+[[masanobu-fukuoka]]'s philosophy [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] is unnecessary, harmful, and rooted in
 a fundamental misunderstanding of how trees naturally grow.
 This position placed him in direct opposition to conventional orchard
 management, where systematic pruning is considered essential for fruit
@@ -26,7 +26,7 @@ receive adequate light and continue to grow.
 When humans prune a tree, Fukuoka argued, they impose an artificial form
 that conflicts with the tree's natural growth patterns.
 The cuts create wounds that the tree must expend energy to heal,
-diverting resources from fruit production and overall vigor.
+diverting resources from [[berry-fruit-production-cool-humid-climates]] and overall vigor.
 Pruning stimulates the growth of new branches at the cut sites, which
 are often weakly attached and prone to breaking, creating a cycle in
 which pruning begets more pruning.
@@ -112,10 +112,10 @@ impose their will on natural systems or learn to work within the
 patterns that nature has already established.
 Pruning, he argued, is an expression of the human desire for control,
 for making nature conform to our ideas of what it should look like.
-Natural farming requires humility and patience, a willingness to observe
+[[beneficial-indigenous-microorganisms-natural-farming]] requires humility and patience, a willingness to observe
 and follow rather than to command and shape.
 
 ## See Also
 
 - [[fukuoka-food-strategic-weapon-seed-rice-geopolitics]]
-- fukuoka natural farming orchard management
+- [[fukuoka-natural-farming]] [[fruit-tree-care-and-orchard-management]]

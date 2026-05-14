@@ -74,7 +74,7 @@ Sphinx moths also visit the flowers during evening hours, contributing to cross-
 
 Seeds are dispersed primarily by wind, shaken from the open capsule as it dries and splits at the apex. The small seeds (approximately 1 mm diameter) can travel short distances on prairie winds.
 
-*Silene regia* is a poor competitor against aggressive prairie grasses such as *Andropogon gerardii* and *Sorghastrum nutans*. Fire suppression that allows woody encroachment further reduces available habitat.
+*Silene regia* is a poor competitor against aggressive prairie grasses such as *[[andropogon-gerardii]]* and *Sorghastrum nutans*. Fire suppression that allows woody encroachment further reduces available habitat.
 
 The species forms a deep taproot that can extend 60–90 cm into the soil. This root system provides drought tolerance and allows plants to persist through dry summers on exposed prairie sites.
 

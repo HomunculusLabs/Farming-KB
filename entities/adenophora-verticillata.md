@@ -25,7 +25,7 @@ The species is native to East Asia, where it ranges from eastern Siberia through
 
 Adenophora verticillata is one of several Adenophora species used in traditional Chinese medicine under the name "nan sha shen." The root is harvested for its yin-nourishing and lung-moistening properties.
 
-The species is distinguished from Adenophora triophylla by its taller stature, larger flowers, and whorled cauline leaves. It is the most robust of the East Asian adenophoras.
+The species is distinguished from [[adenophora-triophylla]] by its taller stature, larger flowers, and whorled cauline leaves. It is the most robust of the East Asian adenophoras.
 
 The plant is cultivated both as an ornamental and as a medicinal crop in Korea and northeastern China. It is valued for its late-season flowers when most other perennials have finished blooming.
 

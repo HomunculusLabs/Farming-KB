@@ -35,7 +35,7 @@ The bark of mature trees is thick, deeply furrowed, and reddish-brown, providing
 
 Cones are small and erect, measuring 2–5 cm long, with approximately 40–50 seed scales per cone. The seeds are light and winged, adapted for wind dispersal across mountain slopes. Pollen cones are yellow and appear in early spring before vegetative growth begins. Seed cones turn from green to brown as they mature and typically disintegrate on the branch after seed release, unlike the serotinous cones of some associated pine species.
 
-Root systems are deep and widespread, with a pronounced taproot in well-drained soils. The species forms ectomycorrhizal associations with numerous fungal partners, enhancing nutrient uptake in nutrient-poor montane soils. Common mycorrhizal associates include species of *Suillus*, *Lactarius*, and *Cortinarius*, many of which are specific to the genus *Larix*.
+Root systems are deep and widespread, with a pronounced taproot in well-drained soils. The species forms [[ectomycorrhizal-associations]] with numerous fungal partners, enhancing nutrient uptake in nutrient-poor montane soils. Common mycorrhizal associates include species of *Suillus*, *Lactarius*, and *Cortinarius*, many of which are specific to the genus *Larix*.
 
 Bud break occurs in mid-to-late spring, making western larch somewhat less susceptible to late spring frost damage than co-occurring evergreen conifers. New growth is a distinctive bright green, contrasting with the darker foliage of surrounding evergreen species in the stand.
 

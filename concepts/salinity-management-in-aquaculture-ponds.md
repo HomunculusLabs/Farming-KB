@@ -1,5 +1,5 @@
 ---
-title: Salinity Management [[water-quality-in-aquaculture-ponds]]
+title: "Salinity Management In Aquaculture Ponds"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

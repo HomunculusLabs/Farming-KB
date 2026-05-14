@@ -85,7 +85,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish mckenna hellenistic library burning mechanism triumph and discovery of osiris
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

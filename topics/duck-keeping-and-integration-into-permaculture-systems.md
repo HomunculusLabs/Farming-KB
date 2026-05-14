@@ -1,5 +1,5 @@
 ---
-title: Duck duck keeping and integration into permaculture systems into Permaculture Systems
+title: Duck Keeping And Integration Into Permaculture Systems
 tags:
   - ducks
   - permaculture
@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Storey's Guide to Raising Ducks, Dave Holderread, 3rd Edition
   - The Small-Scale Poultry Flock, Harvey Ussery
-  - Permaculture: A Designers' Manual, Bill Mollison
+  - Permaculture: A Designers' Manual, [[bill-mollison]]
   - The Duck Commander Family, Phil Robertson (breed and habitat references)
   - USDA Extension: Duck Production and Management (extension.umn.edu)
 ---
@@ -31,7 +31,7 @@ Before diving into specifics, it is worth understanding why many permaculture pr
 |--------|-------|----------|
 | Foraging ability | Excellent — consume slugs, snails, aquatic insects | Moderate — scratch and dust-bathe |
 | Wet tolerance | Thrive in rain and mud | Prone to respiratory issues in damp conditions |
-| Egg production | 200–340 eggs/year (light breeds) | 200–300 eggs/year (layer breeds) |
+| [[mollison-designers-chicken-tractors-egg-production]] | 200–340 eggs/year (light breeds) | 200–300 eggs/year (layer breeds) |
 | Egg quality | Larger, richer yolk, thicker shell | Standard |
 | [[hamilton-slug-and-snail-control]] hunters | Good for ticks and grasshoppers |
 | Manure output | Higher nitrogen content (~0.6% N) | Moderate (~0.5% N) |
@@ -72,7 +72,7 @@ The primary advantages of ducks in permaculture are their slug-hunting prowess, 
 |-------|-------|
 | Call Duck | Tiny (1.5 lb); very loud; ornamental |
 | East Indie | Black with green iridescence; bantam |
-| Muscovy | Actually a separate species (*Cairina moschata*); tree-perching; excellent pest control; 150–200 eggs |
+| Muscovy | Actually a separate species (*Cairina moschata*); tree-perching; excellent [[beneficial-insects-and-biological-pest-control]]; 150–200 eggs |
 | Mallard | Wild type; flighty; excellent forager |
 
 ### Muscovy Ducks: A Special Case
@@ -91,7 +91,7 @@ Muscovy ducks deserve special attention because they are a different species (*C
 
 ### Basic Requirements
 
-Ducks need protection from predators and extreme weather, but their housing requirements are simpler than chickens:
+Ducks need protection from predators and [[windbreak-effects-on-soil-moisture-and-extreme-weather]], but their housing requirements are simpler than chickens:
 
 - **Minimum space**: 3–4 sq ft per bird indoors, 10–15 sq ft per bird outdoors
 - **Height**: 2–3 ft ceiling is sufficient (ducks don't roost high)
@@ -103,7 +103,7 @@ Ducks need protection from predators and extreme weather, but their housing requ
 ### Housing Types
 
 1. **Simple hoop coop**: PVC or cattle panel hoop covered with tarps — cheap, portable, well-ventilated
-2. **Mobile duck tractor**: A-frame or flat-deck design on skids — moved daily across pasture or garden beds
+2. **Mobile [[duck-tractor]]**: A-frame or flat-deck design on skids — moved daily across pasture or garden beds
 3. **Stationary coop with run**: Traditional coop with attached fenced area — suitable for small flocks
 4. **Night house only**: In mild climates, ducks may only need a secure lockup at night if they [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] hub.
 

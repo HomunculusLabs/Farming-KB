@@ -25,7 +25,7 @@ purification.
 
 ### Initial Observation
 
-During the phosphorylation of psilocin with tetrabenzylpyrophosphate and
+During the phosphorylation of [[psilocin]] with tetrabenzylpyrophosphate and
 n-BuLi, the expected O,O-dibenzyl phosphate derivative (compound 7) was
 formed. However, after the standard aqueous workup to remove excess
 reagents, the 1H NMR spectrum of the crude product in CDCl3 showed

@@ -73,7 +73,7 @@ Mollison directly challenges the inconsistency he observes in mainstream environ
 - Requires consideration of multiple interacting factors
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
+- Applied in [[permaculture-design]] and sustainable land management
 - Supports decision-making in agricultural and ecological contexts
 - Used in conservation and environmental restoration projects
 - Helps practitioners develop more resilient and productive systems

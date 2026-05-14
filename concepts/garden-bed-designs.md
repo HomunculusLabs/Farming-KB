@@ -138,13 +138,12 @@ Hugel beds (mound culture) bury wood and organic debris under a soil mound, crea
 - Potatoes (stuff seed potatoes into holes in the bale)
 - Avoid root vegetables (carrots, beets) — limited depth
 
-### Limitations
-- Single-season use (bales decompose significantly)
-- Requires purchased straw (not hay — hay contains seeds)
-- Conditioning requires daily attention
-- May need staking for tall plants
-
 ## See Also
 
-- [[edible-landscaping]]
-- [[container-gardening-guide]]
+- [[garden-seed-management]]
+- [[garden-seed-sourcing-and-storage]]
+- [[garden-size-and-food-self-sufficiency]]
+- [[garden-sizing-and-land-requirements]]
+- [[garden-tools-and-sharpening]]
+- [[garden-tools-selection-and-care]]
+- [[garden-tools-selection-sharpening]]

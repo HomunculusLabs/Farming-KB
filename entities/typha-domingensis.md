@@ -24,7 +24,7 @@ sources:
 
 **Typha domingensis**, commonly known as **southern cattail** or **cumbungi**, is a perennial aquatic plant in the family Typhaceae, widely distributed across tropical, subtropical, and warm [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]].
 
-The species is closely related to and frequently hybridizes with *Typha latifolia* (broadleaf cattail), producing the introgressive hybrid *T. × glauca*.
+The species is closely related to and frequently hybridizes with *[[typha-latifolia]]* (broadleaf cattail), producing the introgressive hybrid *T. × glauca*.
 
 In many regions, *T. domingensis* is considered an invasive species due to its aggressive clonal growth that can dominate and homogenize wetland plant communities.
 

@@ -36,7 +36,7 @@ Panga-cometas (literally "comets of living leaves") are spiritual phenomena desc
 ## Relevance to Cultivation and Mycology
 
 - The concept of living leaves transforming into animals reflects the deep ecological understanding of food webs [[mycological-terms-glossary]], the transformation concept parallels how fungal mycelium transforms dead plant matter into new life forms
-- The idea that leaves can become flying creatures connects to [[icaro]], [[shamanism]], where form is fluid because each being has interior power.
+- The idea that leaves can become flying creatures connects to [[icaro]], shamanism, where form is fluid because each being has interior power.
 
 ## Ecological Reading
 

@@ -76,7 +76,7 @@ These alternatives work with the wetland character of the site, typically yieldi
 
 ## Rangeland Ecology
 
-Mollison extends his analysis to natural and semi-natural rangelands, drawing comparisons between wild ungulate systems and domestic livestock management.
+Mollison extends his analysis to natural and semi-natural rangelands, drawing comparisons between wild ungulate systems and domestic [[small-farm-livestock-management]].
 
 ### Herbivore Standing Crops: Wild vs. Domestic
 
@@ -110,7 +110,7 @@ Rangeland vegetation serves different ecological and nutritional roles:
 - **Grasses**: Primary biomass producers (C4 warm-season and C3 cool-season)
 - **Trees and shrubs**: Browse, shelter, deep nutrient cycling
 - **Mosses and [[lichens]]**: Important winter forage in some ecosystems; moisture retention
-- **Fungi**: [[mycorrhizal-networks]] essential for nutrient exchange
+- **Fungi**: [[mycorrhizal-networks]] essential for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 
 ### Seasonal Diet Variation
 
@@ -129,8 +129,8 @@ Deer utilize 92% of available range versus only 52% for cattle. This argues stro
 
 ### Critical Resource Placement
 
-Animals concentrate where water, shade, shelter, and preferred forage coincide. Strategic placement of these resources can distribute grazing pressure evenly, prevent overuse near water sources, extend effective productive area, reduce erosion around water points, and improve animal performance. [[permaculture]]-based range design places water, minerals, and shelter to draw animals into underutilized areas, effectively farming the entire landscape.
+Animals concentrate where water, shade, shelter, and preferred forage coincide. Strategic placement of these resources can distribute [[gadd-mycelial-network-resilience-grazing-pressure]] evenly, prevent overuse near water sources, extend effective productive area, reduce erosion around water points, and improve animal performance. [[permaculture]]-based range design places water, minerals, and shelter to draw animals into underutilized areas, effectively farming the entire landscape.
 
 ## Synthesis
 
-The common thread connecting [[sod-seeding]] and rangeland ecology is working with biological diversity rather than simplifying systems. Sod seeding builds diversity without destruction. Rangeland ecology demonstrates that diverse, multi-species systems achieve productivity rivaling intensive monocultures — while maintaining resilience, soil health, and ecological function. Permaculture grazing management bridges these insights, creating systems that mirror the efficiency of natural herbivore-plant communities.
+The common thread connecting [[sod-seeding]] and rangeland ecology is working with [[fungi-convention-on-biological-diversity]] rather than simplifying systems. Sod seeding builds diversity without destruction. Rangeland ecology demonstrates that diverse, multi-species systems achieve productivity rivaling intensive monocultures — while maintaining resilience, soil health, and [[bloomfield-fungal-fruiting-body-morphology-ecological-function]]. [[permaculture-grazing-and-pasture]] management bridges these insights, creating systems that mirror the efficiency of natural herbivore-plant communities.

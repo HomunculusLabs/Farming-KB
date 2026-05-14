@@ -1,5 +1,5 @@
 ---
-title: Informal and Formal [[recycling-community-economics]]
+title: "Informal And Formal Community Economics"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

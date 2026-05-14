@@ -20,13 +20,13 @@ The colony morphology of *S. griseus* on solid media is distinctive: the substra
 
 In soil ecosystems, *S. griseus* plays several important ecological roles:
 
-- **Decomposition**: The organism produces a wide array of [[antifungal-secondary-metabolites-coprophilous-fungi]] that inhibit the growth of competing microorganisms. This antimicrobial activity gives *Streptomyces* a competitive advantage in the soil microbial community and contributes to the natural suppression of plant pathogens.
+- **Decomposition**: The organism produces a wide array of [[antifungal-secondary-metabolites-coprophilous-fungi]] that inhibit the growth of competing microorganisms. This antimicrobial activity gives *Streptomyces* a competitive advantage in the [[edaphic-factors-soil-microbial-community-structure]] and contributes to the natural suppression of plant pathogens.
 - **Siderophore production**: The organism produces siderophores (iron-chelating compounds) that scavenge iron from the soil environment, making it available for microbial and plant uptake while limiting iron availability to competing organisms.
 - **Plant growth promotion**: *S. griseus* produces indole-3-acetic acid (IAA) and other plant growth-promoting substances that can enhance root development and nutrient uptake in plants.
 
 ## Streptomycin Production
 
-*Streptomyces griseus* produces streptomycin, an aminoglycoside antibiotic that was the first effective drug treatment for tuberculosis. Streptomycin is biosynthesized as a secondary metabolite during the stationary phase of growth, when the organism has exhausted its primary nutrient supply. The streptomycin biosynthetic gene cluster spans approximately 30 kilobases and contains genes encoding enzymes for the assembly, modification, and export of the antibiotic.
+*Streptomyces griseus* produces streptomycin, an aminoglycoside antibiotic that was the first effective drug treatment for tuberculosis. Streptomycin is biosynthesized as a [[fungal-elicitors-enhanced-secondary-metabolite-production]] during the stationary phase of growth, when the organism has exhausted its primary nutrient supply. The streptomycin biosynthetic gene cluster spans approximately 30 kilobases and contains genes encoding enzymes for the assembly, modification, and export of the antibiotic.
 
 Streptomycin works by binding to the 30S ribosomal subunit of bacterial cells, causing misreading of the genetic code and inhibiting protein synthesis. It is active against both Gram-negative and Gram-positive bacteria, including *Mycobacterium tuberculosis*, *Yersinia pestis* (plague), and various other pathogens. While streptomycin has been largely replaced by newer anti-tuberculosis drugs in many countries due to the emergence of resistant strains and toxicity concerns (particularly ototoxicity and nephrotoxicity), it remains an important component of multi-drug tuberculosis treatment regimens in some settings.
 
@@ -36,10 +36,10 @@ The discovery of streptomycin from *S. griseus* inaugurated the golden age of an
 
 Beyond streptomycin, *Streptomyces griseus* produces a diverse array of bioactive secondary metabolites, reflecting the enormous biosynthetic potential of *Streptomyces* genomes:
 
-- **Geosmin**: The volatile compound responsible for the characteristic earthy smell of soil. Geosmin is produced by many *Streptomyces* species and is one of the most potent odorants known, detectable by humans at concentrations as low as 5 parts per trillion.
+- **Geosmin**: The [[fungal-btex-volatile-compound-degradation]] responsible for the characteristic earthy smell of soil. Geosmin is produced by many *Streptomyces* species and is one of the most potent odorants known, detectable by humans at concentrations as low as 5 parts per trillion.
 - **Protease inhibitors**: Compounds that inhibit serine proteases and other enzyme classes, with potential applications in medicine and agriculture.
 - **Antifungal compounds**: Including compounds with activity against plant pathogenic fungi, suggesting potential applications in crop protection.
-- **Enzymes**: *S. griseus* produces numerous extracellular enzymes with industrial applications, including proteases, cellulases, and chitinases.
+- **Enzymes**: *S. griseus* produces numerous [[fungal-extracellular-enzymes]] with industrial applications, including proteases, cellulases, and chitinases.
 
 Genome sequencing has revealed that *Streptomyces* species possess 20–40 or more biosynthetic gene clusters for secondary metabolite production, many of which are silent or expressed only under specific environmental conditions. This "cryptic" biosynthetic potential is a major focus of current research, as activating these silent pathways could yield novel antibiotics and other [[phosphate-accumulators-sustainable-agriculture]], *S. griseus* is valued as a component of the beneficial soil microbiota that contributes to natural disease suppression. The organism's ability to decompose organic matter, fix atmospheric nitrogen (some strains), solubilize phosphate, and produce plant growth-promoting substances makes it a versatile contributor to soil health and plant productivity.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Streptomyces Griseus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 streptomyces griseus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

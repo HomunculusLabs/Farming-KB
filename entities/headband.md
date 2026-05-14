@@ -30,7 +30,7 @@ pressure sensation around the temples that users commonly report.
 
 A cross between elite **OG Kush** and **[[cannabis-sour-diesel]] ([[thin-mint]]
 
-- sour diesel
+- [[sour-diesel]]
 ## Practical Applications
 
 Headband has a range of practical applications that make it relevant to

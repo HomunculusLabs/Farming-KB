@@ -6,27 +6,27 @@ type: concept
 
 # Fukuoka on Causal Relationships and Mutual Cancellation in Agriculture
 
-[[masanobu-fukuoka]]'s *The One-Straw Revolution* mounts a radical critique of agricultural science on two fronts. First, the causal relationships governing crop growth are far too complex for human understanding. Second, every "improvement" measure introduced by man sets off consequences that negate its benefits.
+[[masanobu-fukuoka]]'s *The One-Straw Revolution* mounts a radical critique of [[fukuoka-critique-agricultural-science-laws-liebig]] on two fronts. First, the causal relationships governing crop growth are far too complex for human understanding. Second, every "improvement" measure introduced by man sets off consequences that negate its benefits.
 
 Together, these two arguments form the epistemological core of his case [[critique-of-scientific-agriculture]] rests on sand.
 
 ## Original Factors Are Most Important
 
-Fukuoka begins with a deceptively simple observation: the factors involved in agricultural production are infinite in number and organically interrelated. No single factor exerts a controlling influence on the outcome.
+Fukuoka begins with a deceptively simple observation: the factors involved in [[fukuoka-agricultural-production-net-energy-deduction]] are infinite in number and organically interrelated. No single factor exerts a controlling influence on the outcome.
 
 Temperature, soil composition, microbial life, rainfall timing, wind patterns, insect populations, the farmer's timing, the variety planted, the condition of the seed — all interact in ways that defy isolation.
 
 Each factor derives its meaning only from the tangled web of interrelationships in which it sits, and "ceases to have any meaning when isolated from the whole." To pull one thread from the tapestry is to destroy the pattern it participates in. The moment a factor is isolated for study, it becomes something different from what it was in its natural context.
 
-This has a counterintuitive and deeply uncomfortable implication. The factors most critical to crop yields are not the ones man believes he can improve through technology. Instead, they are the environmental factors that science has largely abandoned as intractable.
+This has a counterintuitive and deeply uncomfortable implication. The factors most critical to crop yields are not the ones man believes he can improve through technology. Instead, they are the [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that science has largely abandoned as intractable.
 
-These intractable factors include things like the subtle relationships between native vegetation and soil microorganisms, or the complex interplay between seasonal weather patterns and the biological rhythms of the plant.
+These intractable factors include things like the subtle relationships between native vegetation and soil microorganisms, or the complex interplay between seasonal [[global-weather-patterns-and-atmospheric-engines]] the biological rhythms of the plant.
 
 As Fukuoka puts it, "those primitive, unresolved factors not yet subjected to the full scrutiny of scientific analysis are the ones of greatest importance." The very act of studying a factor — of isolating it for measurement and manipulation — removes it from the context that gives it significance.
 
 Scientific attention, paradoxically, blinds itself to what matters most.
 
-The structure of modern agricultural research institutions proves this point by its own existence. Research centers are divided into specialized sections: breeding, cultivation, soil and fertilizers, diseases and pests. Each section operates in near-total independence, a living demonstration of the non-comprehensive approach.
+The structure of modern [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] institutions proves this point by its own existence. Research centers are divided into specialized sections: breeding, cultivation, soil and fertilizers, diseases and pests. Each section operates in near-total independence, a living demonstration of the non-comprehensive approach.
 
 The division of labor that enables specialist expertise also guarantees that no one sees the whole.
 
@@ -80,7 +80,7 @@ Water-conserving cultivation is introduced to improve light exposure to the lowe
 
 The cure creates the disease it was prescribed to treat.
 
-Attempts to improve photosynthetic efficiency through breeding or chemical treatment may paradoxically lower overall photosynthetic ability by disrupting the plant's evolved metabolic balance. Irrigation during high temperatures — seemingly a wise and caring precaution — can cause root rot and poor maturation, destroying the crop the farmer was trying to save.
+Attempts to improve [[photosynthetic-efficiency]] through breeding or chemical treatment may paradoxically lower overall photosynthetic ability by disrupting the plant's evolved metabolic balance. Irrigation during high temperatures — seemingly a wise and caring precaution — can cause root rot and poor maturation, destroying the crop the farmer was trying to save.
 
 Every solution creates new problems, and each new problem demands further intervention, which generates still more problems. The farmer who tries to optimize every variable finds himself on a treadmill, running faster and faster to stay in the same place.
 

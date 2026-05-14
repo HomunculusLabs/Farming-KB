@@ -1,5 +1,5 @@
 ---
-title: Tree Effects on Precipitation
+title: Tree Effects On Precipitation
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -7,7 +7,7 @@ type: concept
 # Tree Effects on Precipitation
 
 Trees are among the most powerful agents influencing regional and local
-precipitation patterns. Far from being passive recipients of rainfall,
+[[desert-precipitation-patterns-and-opportunistic-ecology]]. Far from being passive recipients of rainfall,
 forests actively generate, multiply, and distribute water through the
 atmosphere. Understanding these mechanisms is essential for any
 [[watershed-management]].
@@ -43,7 +43,7 @@ ecosystems downstream.
 
 Whenever winds pass over tree lines or forest edges that are 12 metres
 (40 feet) or more in height, **Ekman spirals** develop in the airflow.
-These spiral patterns cause uplift and turbulence that can add
+These [[mollison-spiral-patterns-in-nature-and-design]] cause uplift and turbulence that can add
 approximately 40% to rainfall in bands that roughly parallel the tree
 lines. This effect extends for considerable distances downwind, meaning
 that even relatively narrow forest belts can significantly enhance
@@ -87,7 +87,7 @@ ephemeral, and groundwater recharge diminishes.
 - **Preserve existing forests**, especially those on ridgelines, mountain
   slopes, and in upland catchment areas.
 - **Plant windbreaks and forest belts** at least 12 m tall to generate
-  Ekman spiral rainfall enhancement.
+  Ekman spiral [[cloud-seeding-and-orographic-rainfall-enhancement]].
 - **Maintain continuous forest cover** across landscapes to sustain the
   transpiration-driven rainfall multiplication cycle.
 - **Avoid clearing ridge-top forests** that face prevailing winds, as

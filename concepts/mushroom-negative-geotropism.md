@@ -23,7 +23,7 @@ The negative geotropic response in P. cubensis is not present throughout all
 developmental stages. It appears specifically at Stage 2, when:
 
 - The pileus has become nearly spherical
-- Spore production is initiating in the lamellae (gills)
+- [[spore]] production is initiating in the lamellae (gills)
 - The stipe has already undergone significant elongation under anemotropic
   (wind-directed) influence
 

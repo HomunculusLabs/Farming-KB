@@ -52,9 +52,9 @@ Anthesis occurs from June through August, depending on latitude and elevation.
 
 ## Distribution and Habitat
 
-Foxtail barley is native to most of North America, ranging from Alaska and the Yukon across Canada to Newfoundland, and south through the United States into northern Mexico.
+Foxtail barley is native to most of [[guzman-psilocybin-mushrooms-north-america]], ranging from Alaska and the Yukon across Canada to Newfoundland, and south through the [[dmt-containing-plants-united-states-halpern]] into northern Mexico.
 
-It has been widely introduced beyond its native range and is now naturalized in South America, Europe, East Asia, Australia, and New Zealand.
+It has been widely introduced beyond its native range and is now naturalized in South America, Europe, [[neurotropic-fungi-japan-east-asia-species-cultural-context]], Australia, and New Zealand.
 
 The species is highly adaptable and occupies a broad ecological amplitude, from sea level to over 3,000 meters in elevation.
 

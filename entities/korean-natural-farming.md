@@ -1,5 +1,5 @@
 ---
-title: Korean comparison-natural-farming-vs-permaculture (KNF)
+title: Korean [[comparison-natural-farming-vs-permaculture]] (KNF)
 type: species
 tags:
   - permaculture

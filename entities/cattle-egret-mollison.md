@@ -40,7 +40,7 @@ The [[bill-mollison]] in *Permaculture: A Designers' Manual* as a classic exampl
 
 ## Relevance to Permaculture and Mycology
 
-The cattle egret exemplifies Mollison's principle that "there is always a way to enrich species diversity in such a system." In [[the-soil-food-web]].
+The cattle egret exemplifies Mollison's principle that "there is always a way to enrich species diversity in such a system." In [[soil-food-web]].
 
 ## Design Implications
 

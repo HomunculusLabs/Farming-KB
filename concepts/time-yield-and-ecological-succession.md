@@ -1,5 +1,5 @@
 ---
-title: Time, Yield, and Ecological Succession
+title: Time Yield And Ecological Succession
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Time is one of the most critical resources in any ecological system, yet it is the resource most often ignored or mismanaged by conventional agriculture and economic systems. In [[ecological-succession]] is fundamental to creating productive, resilient systems that work with — rather than against — natural processes. As Mollison emphasizes, the health and productivity of any system depends on how well we manage the time dimension of energy flow, species assembly, and renewal.
+Time is one of the most critical resources in any ecological system, yet it is the resource most often ignored or mismanaged by conventional agriculture and economic systems. In [[ecological-succession]] is fundamental to creating productive, resilient systems that work with — rather than against — natural processes. As Mollison emphasizes, the health and productivity of any system depends on how well we manage the time dimension of [[savory-energy-flow-and-solar-capture]], species assembly, and renewal.
 
 ## Complexity and Standing Crop
 
@@ -22,7 +22,7 @@ Research by [[permaculture]] philosophy. Natural systems already produce abundan
 
 Permaculture grounds economics in **energy return, not monetary return**. Money is a poor measure of real wealth because it can be manipulated, inflated, and decoupled from physical reality. Energy, by contrast, obeys thermodynamic laws that cannot be legislated away. A system that returns more energy than it consumes is viable; one that does not will inevitably fail.
 
-Mollison's dictum is clear and uncompromising: **"Any system which wastes energy must fail."** This applies to agriculture, architecture, industry, and society alike. Every bit of energy wasted on unnecessary transport, on chemical inputs that destroy [[soil-life]], on monocultures that require constant pest control, is energy that the system cannot use for its own maintenance and growth. The measure of a good design is not its profitability in dollars but its efficiency in energy terms.
+Mollison's dictum is clear and uncompromising: **"Any system which wastes energy must fail."** This applies to agriculture, architecture, industry, and society alike. Every bit of energy wasted on unnecessary transport, on chemical inputs that destroy [[soil-life]], on monocultures that require constant [[beneficial-insects-and-biological-pest-control]], is energy that the system cannot use for its own maintenance and growth. The measure of a good design is not its profitability in dollars but its efficiency in energy terms.
 
 ## Succession and the Accumulation of Species
 
@@ -34,13 +34,13 @@ Hedgerows follow the same trajectory. What begins as a simple planted windbreak 
 
 ### Dominants and Hyper-Predators
 
-As systems mature, they tend to be increasingly dominated by large, long-lived organisms — canopy trees in forests, apex predators in grasslands, large fish in lakes. These dominants and **hyper-predators represent end energy storage**: they are the system's way of locking accumulated energy into stable, long-lived forms. While they are essential to the system's integrity, their dominance can also slow energy flow, as more and more of the system's productivity is tied up in their maintenance rather than in the rapid cycling that characterizes younger, more dynamic communities.
+As systems mature, they tend to be increasingly dominated by large, long-lived organisms — canopy trees in forests, apex predators in grasslands, large fish in lakes. These dominants and **hyper-predators represent end [[holmgren-built-environment-household-energy-storage]]**: they are the system's way of locking accumulated energy into stable, long-lived forms. While they are essential to the system's integrity, their dominance can also slow energy flow, as more and more of the system's productivity is tied up in their maintenance rather than in the rapid cycling that characterizes younger, more dynamic communities.
 
 ## Disturbance and Renewal
 
 ### The Role of Local Disturbance
 
-In old, mature systems, **only local disturbance renews energy flow**. Fire, flood, windthrow, disease, and the death of individual organisms create gaps that allow light, nutrients, and space to become available for new growth. Without disturbance, old systems can become stagnant — dominated by a few large species, with reduced rates of productivity and nutrient cycling.
+In old, mature systems, **only local disturbance renews energy flow**. Fire, flood, windthrow, disease, and the death of individual organisms create gaps that allow light, nutrients, and space to become available for new growth. Without disturbance, old systems can become stagnant — dominated by a few large species, with reduced rates of productivity [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
 This does not mean that disturbance is always beneficial or that we should seek to maximize it. Small, frequent, localized disturbances — the death of a single tree, a low-intensity ground fire, a seasonal flood — maintain diversity and productivity. Large, infrequent, catastrophic disturbances — clear-cutting, wholesale burning, massive erosion — can push systems backward to earlier successional stages or destroy them entirely.
 
@@ -50,7 +50,7 @@ This does not mean that disturbance is always beneficial or that we should seek 
 
 Conventional annual gardening wastes the time resource. Each year, the system is reset to an early successional stage — bare soil, fast-growing annual plants, high energy input, high waste. Permaculture, by contrast, **uses the time resource better** by designing systems that progress through succession rather than cycling endlessly through its earliest stages. Mixed systems of annuals and perennials, of herbs, shrubs, and trees, capture the benefits of every successional stage simultaneously.
 
-The key advantage of permaculture over annual gardening is that it **maximizes both yield and human resourcefulness**. A diverse perennial system produces food throughout the year, requires less labor over time, builds soil rather than depleting it, and provides habitat for the organisms that keep pests and diseases in check. The designer's role shifts from constant intervention to strategic management — guiding succession, creating beneficial disturbances, and harvesting the yields that the system produces naturally.
+The key advantage of permaculture over annual gardening is that it **maximizes both yield and human resourcefulness**. A diverse perennial system produces food throughout the year, requires less labor over time, builds soil rather than depleting it, and provides habitat for the organisms that keep [[mushroom-pests-and-diseases]] in check. The designer's role shifts from constant intervention to strategic management — guiding succession, creating beneficial disturbances, and harvesting the yields that the system produces naturally.
 
 ### Mixed Systems as Peak Strategy
 

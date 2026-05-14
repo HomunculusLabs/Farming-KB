@@ -11,7 +11,7 @@ sources: []
 ## Overview
 
 Semiconductor band structure describes the allowed and forbidden electron energies in a crystalline semiconductor. It explains why [[quantum-mechanics-fundamentals]] to device engineering. The same energy diagram that explains optical absorption also explains
-rectifying junctions, transistors, solar cells, light-emitting diodes, photodiodes, and many failure modes in integrated circuits.
+rectifying junctions, transistors, solar cells, light-emitting diodes, photodiodes, and many [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]] in integrated circuits.
 
 Unlike a simple circuit model, band structure is spatially local. Bands can bend near surfaces, junctions, gates, and charged defects, so
 device behavior depends on electrostatics as well as the bulk material band gap.

@@ -55,7 +55,7 @@ Campanula ramosa is endemic to central and eastern Spain, with populations confi
 
 The species grows in calcareous rock crevices, scree slopes, and dry stony grasslands at elevations of 800–1,600 m. It favors south-facing exposures with good drainage.
 
-Associated species include other calcicole specialists such as Globularia vulgaris, Teucrium chamaedrys, and various nanophanerophytes. The plant communities are typically open and species-poor.
+Associated species include other calcicole specialists such as Globularia vulgaris, [[teucrium-chamaedrys]], and various nanophanerophytes. The plant communities are typically open and species-poor.
 
 Campanula ramosa tolerates the hot, dry Mediterranean summers characteristic of interior Spain. It avoids areas with high humidity or poorly drained soils.
 

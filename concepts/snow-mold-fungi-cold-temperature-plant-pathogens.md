@@ -2,7 +2,7 @@
 title: Snow snow mold fungi cold temperature plant pathogens - Cold-Temperature Plant Pathogens
 created: 2026-04-26
 tags:
-  - mycology
+  - [[mycology]]
   - plant-pathology
   - cold-ecology
   - psychrotolerant
@@ -76,5 +76,5 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.

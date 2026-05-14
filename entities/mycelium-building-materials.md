@@ -59,9 +59,9 @@ A critical consideration for mycelium insulation: apply an exterior vapor barrie
 
 Notable species for mycelium building applications:
 
-- **Oyster mushrooms (Pleurotus spp.):** Fast colonization, good for insulation and packaging
+- **[[oyster-mushrooms]] (Pleurotus spp.):** Fast colonization, good for insulation and packaging
 - **Reishi (Ganoderma spp.):** Forms dense, rubber-like material; water-repellent; holds shape well
-- **Shiitake (Lentinula edodes):** Identifiable by dark brown zones; good for antimicrobial applications
+- **Shiitake ([[lentinula-edodes]]):** Identifiable by dark brown zones; good for antimicrobial applications
 - **Birch polypore (Piptoporus betulinus):** High fiber content, durable
 - **Various polypores:** Tough, fibrous, long-lasting in the environment
 
@@ -126,8 +126,8 @@ Unlike many green building materials, mycelium products can be manufactured with
 
 ## See Also
 
-- [[Ecovative Design]] - commercial pioneer of mycelium materials
-- [[spent substrate]] - repurposing cultivation waste
+- [[ecovative-design]] - commercial pioneer of mycelium materials
+- spent substrate - repurposing cultivation waste
 - [[mycelium]] - the fungal vegetative structure
-- [[oyster mushroom]] - primary species for material production
-- [[reishi]] - dense material-forming species
+- [[oyster-mushroom]] - primary species for material production
+- reishi - dense material-forming species

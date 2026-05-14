@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Sector planning is the process of mapping and managing the energies that flow into and across a site from outside — wind, fire, sun, water, noise, privacy, and views. Combined with zonation (which manages distances from the core), sector analysis creates the complete spatial framework of a [[permaculture-design]]. Mollison emphasizes that the designer must define these extrinsic energies for each site regarding direction, intensity, and frequency before placing any elements.
+Sector planning is the process of mapping and managing the energies that flow into and across a site from outside — wind, fire, sun, water, noise, privacy, and views. Combined with zonation (which manages distances from the core), [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] creates the complete spatial framework of a [[permaculture-design]]. Mollison emphasizes that the designer must define these [[permaculture-zone-three-extrinsic-energies]] for each site regarding direction, intensity, and frequency before placing any elements.
 
 ## Defining Extrinsic Energies
 
@@ -28,7 +28,7 @@ The evaluation rule: if both intensity and frequency are low, the energy may not
 
 ### Reading Wind on Site
 
-Forget the local weatherman — the station sits in a flat location and makes abstract observations that do not apply to specific sites. The site itself tells you what happens through wind-flagged trees, vegetation patterns, erosion, and microclimatic evidence. A brisk southwesterly wind hitting a mountainside may wrap around due east. Every southwesterly produces a screaming easterly on the lee side. These channeling effects must be mapped on-site.
+Forget the local weatherman — the station sits in a flat location and makes abstract observations that do not apply to specific sites. The site itself tells you what happens through wind-flagged trees, [[holmgren-vegetation-patterns-biomass-fertility]], erosion, and microclimatic evidence. A brisk southwesterly wind hitting a mountainside may wrap around due east. Every southwesterly produces a screaming easterly on the lee side. These channeling effects must be mapped on-site.
 
 ### Cold Winds
 
@@ -91,21 +91,21 @@ The time element requires planning for evolution. Set priorities since no client
 2. **Energy-conserving systems** second or concurrently
 3. **Energy-consuming systems** last
 
-Design for caloric efficiency. Understand that the near view (quail in the greenhouse, bird-feeding table outside a child's window, a fuchsia half-covering a professor's window) will occupy far more of the client's attention than the distant panorama. The best views for children, elderly, or sick people come from bird-attracting shrubs placed directly against their windows.
+Design for [[fukuoka-textdoc-natural-livestock-caloric-efficiency]]. Understand that the near view (quail in the greenhouse, bird-feeding table outside a child's window, a fuchsia half-covering a professor's window) will occupy far more of the client's attention than the distant panorama. The best views for children, elderly, or sick people come from bird-attracting shrubs placed directly against their windows.
 
 ## Practical Sector Solutions
 
 Mollison provides multiple specific solutions demonstrating the [[permaculture]] principle that solutions should be multiple and every element should serve many functions:
 
 - A windbreak that also collects manure, keeps grass down, and defends against fire
-- A pond that grows watercress, breeds frogs for pest control, provides wildlife habitat, and creates a firebreak
+- A pond that grows watercress, breeds frogs for pest control, provides [[hemenway-backyard-wildlife-habitat]], and creates a firebreak
 - An access road that drains properly, requires minimal maintenance, protects against fire, reduces snow drifting, and provides solar exposure in winter
 
 The ironclad rule: for every element placed, the designer must have answers when asked "Why did you put that there?" Multiple answers indicate good design.
 
 ## Circulation Cells and Complex Patterns
 
-In some regions, winds start circling in steadily from a specific sector, creating a circulation cell. Defenses must treat the whole sector, not just a point. Understanding these patterns — which become apparent only through direct site observation — is essential for effective sector planning.
+In some regions, winds start circling in steadily from a specific sector, creating a circulation cell. Defenses must treat the whole sector, not just a point. Understanding these patterns — which become apparent only through direct [[permaculture-site-observation-methods]] — is essential for effective sector planning.
 
 ## Aboriginal Ecological Management
 

@@ -1,5 +1,5 @@
 ---
-title: williams [[ozier-pdc-ecological-design]] principles Principles
+title: "Williams Pdc Ecological Design Principles"
 created: 2026-04-28
 tags: [permaculture, ecological-design, sustainability, systems-thinking, green-building]
 date: 2026-04-28

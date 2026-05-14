@@ -12,7 +12,7 @@ The [[permaculture-design]] report is the primary deliverable of a professional 
 
 ### Six-Step Process
 
-1. **Collect all data**: Client requirements, maps, local regulations, site observations.
+1. **Collect all data**: Client requirements, [[maps]], local regulations, site observations.
 2. **Analyze client's problems**: Identify constraints, challenges, and opportunities.
 3. **Match [[permaculture-principles]]**: Recognize which principles fit this particular situation.
 4. **Apply principles specifically**: Address each identified problem with targeted [[permaculture]] solutions.
@@ -148,52 +148,3 @@ This is where the designer earns their fee — identifying resources the client 
 - **Peat and clay**: Below swamps may lie bluish clay suitable for pottery. A 40-acre swamp purchase revealed two feet of peat over potter-quality blue clay worth $6 per bag.
 - **Seed**: The site may contain salable seed of valuable species.
 - **Unique crops**: The site might suit a particularly valuable processed plant (quinine at 8% bark content, as other malarial controls fail).
-
-#### Energy Resources
-
-- **Hydroelectric potential**: A 100-foot year-round flow can generate power.
-- **Wind**: An excellent wind site may make farming obsolete — sell power at wholesale instead.
-- **Net metering**: Can the electric meter run backward while the client eats self-reliance carrots?
-- **Clean water**: Fast becoming the world's rarest mineral — metered downhill to other groups.
-- **Wood**: Usable wood that would otherwise rot or burn in bushfire.
-
-#### Mineral and Material Resources
-
-- **[[aloe-vera]]**: A burn ointment retailing in pots — commercially viable on 100 acres.
-- **Balsa wood**: Commercial balsa from seedlings in four years; a three-year-old tree worth ~$5,000.
-- **Breadfruit**: Falling from trees while pigs are being expensively grain-fed (the Indian state piggery example — 64 acres of manure-killed land while free food rots on the ground).
-
-#### Social Resources
-
-- Does the site lend itself to seminars and teaching?
-- Recreation potential?
-- Aquatic nursery or demonstration site potential?
-
-### The Assessment Process
-
-1. **Walk the site alone**: Spend a few hours on your own. Use a spade. Look at soil quality, peat depth, clay deposits.
-2. **Contemplate, don't rush**: "It is better to go around the site and contemplate it on your own."
-3. **Research**: Go home and spend days looking through literature or consulting research librarians.
-4. **Test materials**: Show clay to a potter; have experts assess resources you identify.
-5. **Think in systems**: Don't just identify a resource — trace how it connects to other site functions.
-
-### The Designer's Scope
-
-The designer does not need to be:
-- A botanist
-- A bulldozer driver
-- A fence builder
-- An architect
-
-"The world is full of botanists and horticulturists. All you have to do is design." The designer's unique skill is seeing **relationships** between elements — how a fennel crop finances orchard establishment, how pond placement serves both irrigation and fire protection, how earth banks double as radiation shields and thermal mass.
-
-## Report Conclusions
-
-Every report should close with:
-- A clear statement that nothing is guaranteed (natural phenomena and changing conditions make certainty impossible).
-- An invitation for further questions at no extra charge.
-- An offer to visit periodically to check on progress.
-
-## The Underlying Philosophy
-
-Though the immediate interest is the client, people are merely temporary events on a site. The real, underlying interest is the site itself. The designer tries to arrange a marriage between client and site through the design, creating conditions for a reasonable future. The goal is always to design for the long-term health of the land, even if that means not choosing to reveal every insight to every client.

@@ -1,6 +1,6 @@
 ---
 title: "Fungal Ecology and Environmental Biology"
-subtitle: "A comprehensive synthesis of fungal roles in ecosystems, from decomposition and nutrient cycling to bioremediation, geomycology, and global biogeochemical cycles"
+subtitle: "A comprehensive synthesis of fungal roles in ecosystems, from decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] to bioremediation, geomycology, and global biogeochemical cycles"
 tags: [fungi, ecology, decomposition, bioremediation, geomycology, mycology, soil-biology, biogeochemistry, environmental-science]
 date: 2026-05-09
 updated: 2026-05-09
@@ -21,7 +21,7 @@ related_concepts:
 
 # [[fungal-appressorium-and-infection-structures]] such as haustoria or appressoria, and many species can switch between modes depending on environmental conditions.
 
-The absorptive mode of nutrition requires fungi to decompose complex organic matter externally before uptake, using remarkably diverse extracellular enzyme systems.
+The absorptive mode of nutrition requires fungi to decompose complex organic matter externally before uptake, using remarkably diverse [[dighton-fungal-extracellular-enzyme-systems-decomposition]].
 
 Cellulose degradation involves endoglucanases that cleave internal bonds, exoglucanases that processively remove disaccharide units from chain ends, and beta-glucosidases that hydrolyze cellobiose to glucose.
 
@@ -55,7 +55,7 @@ Beyond decomposition, saprotrophic fungi compete with other microorganisms throu
 
 ## Mycorrhizal Symbioses and Plant-Fungal Mutualisms
 
-Mycorrhizal associations are among the most widespread and ecologically important mutualisms on Earth.
+[[plants-without-mycorrhizal-associations]] are among the most widespread and ecologically important mutualisms on Earth.
 
 An estimated 80-90% of all land plant species form mycorrhizal symbioses, in which fungal partners receive photosynthetically fixed carbon from host plants in exchange for mineral nutrients scavenged from soil.
 
@@ -69,7 +69,7 @@ Fungal symbioses with insects range from leaf-cutter ant agriculture of Leucoaga
 
 ## Fungal Pathogens in Ecosystems
 
-Fungal pathogens exert enormous influence on natural and agricultural ecosystems, regulating [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]], maintaining genetic diversity through frequency-dependent selection, and driving successional processes.
+Fungal pathogens exert enormous influence on natural and [[fungi-grassland-agricultural-ecosystems-dighton]], regulating [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]], maintaining genetic diversity through frequency-dependent selection, and driving successional processes.
 
 ## Overview
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fungal Ecology And Environmental Biology finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 fungal ecology and environmental biology and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

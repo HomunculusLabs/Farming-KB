@@ -66,7 +66,7 @@ The labor-intensive harvest process limits mechanization, with hand labor accoun
 
 Saffron has demonstrated anti-cancer properties in vitro and in animal models, including inhibition of tumor cell proliferation and induction of apoptosis via caspase-dependent pathways. Crocetin has shown particular activity against colorectal, pancreatic, and breast cancer cell lines.
 
-Additional pharmacological activities documented in the literature include improved visual function in age-related macular degeneration, neuroprotective effects in animal models of Alzheimer's disease, and anti-diabetic activity through enhanced insulin sensitivity. Most clinical evidence remains preliminary and requires larger confirmatory trials.
+Additional pharmacological activities documented in the literature include improved visual function in age-related [[blesching-cannabis-age-related-macular-degeneration]], neuroprotective effects in animal models of Alzheimer's disease, and anti-diabetic activity through enhanced insulin sensitivity. Most clinical evidence remains preliminary and requires larger confirmatory trials.
 
 ## Economic and Cultural Significance
 
@@ -75,7 +75,7 @@ Saffron has commanded premium prices throughout recorded history, serving simult
 ## Overview
 
 Crocus Sativus represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Crocus Sativus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,13 +104,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for crocus sativus. Climate adaptation
+opportunities for crocus sativus. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 crocus sativus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

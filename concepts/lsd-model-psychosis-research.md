@@ -13,7 +13,7 @@ The use of [LSD to produce temporary states resembling psychosis in healthy subj
 
 ## Origins of the Concept
 
-When Albert Hofmann first described the effects of LSD to his colleagues at Sandoz, the immediate question was whether this substance could serve as a tool for understanding psychotic disorders. The profound alterations of perception, thought, and emotion produced by LSD bore obvious similarities to symptoms observed in schizophrenia and other psychoses.
+When [[albert-hofmann]] first described the effects of LSD to his colleagues at Sandoz, the immediate question was whether this substance could serve as a tool for understanding psychotic disorders. The profound alterations of perception, thought, and emotion produced by LSD bore obvious similarities to symptoms observed in schizophrenia and other psychoses.
 
 This idea was not entirely new. The concept of using pharmacological agents to produce "model psychoses" had been explored since the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], with various substances proposed as candidates. But none had proven satisfactory until LSD, which produced the most convincing and comprehensive simulation of psychotic states yet observed.
 

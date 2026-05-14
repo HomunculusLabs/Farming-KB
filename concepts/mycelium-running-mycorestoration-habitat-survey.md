@@ -1,5 +1,5 @@
 ---
-title: [[mycelium-running-conservation-biology-and-fungi]] Mycorestoration Habitat Survey
+title: "Mycelium Running Mycorestoration Habitat Survey"
 created: 2026-04-28
 tags: [mycorestoration, ecological-restoration, habitat-assessment, mycofiltration, mycoremediation]
 date: 2026-04-25

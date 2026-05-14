@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[permaculture]] designers must understand pH dynamics to make informed decisions about soil amendments, crop selection, and site management. This concept covers the pH scale, acid-alkaline classification of rocks and soils, nutrient availability across pH ranges, and practical amelioration strategies for different soil types and climates.
+[[permaculture]] designers must understand pH dynamics to make informed decisions about soil amendments, [[coleman-crop-selection]], and site management. This concept covers the pH scale, acid-alkaline classification of rocks and soils, [[ph-and-nutrient-availability-garden-soils]] across pH ranges, and practical amelioration strategies for different soil types and climates.
 
 ## The pH Scale
 
@@ -43,7 +43,7 @@ This classification helps predict the inherent pH tendencies of soils derived fr
 ### Non-metals (release negative OH⁻ ions):
 - [[gypsum]]** | Calcium sulphate |
 | **Magnesite** | Magnesium carbonate |
-| **Dolomite** | Calcium magnesium carbonate |
+| **Dolomite** | [[calcium-magnesium-secondary-nutrients]] carbonate |
 
 These are all carbonates, sulphates, or oxides of calcium or magnesium, or both (as in dolomite). Chalk, limestone, calcite, dolomite, magnesite, and gypsum are rocks and minerals giving rise to hard water.
 

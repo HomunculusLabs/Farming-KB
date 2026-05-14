@@ -107,7 +107,7 @@ Just as bioregions need periodic federal congresses, they also need global congr
 
 ## Related Concepts
 
-- [[ethical-basis-alternative-nation-permaculture]]
+- [[ethical-basis-of-alternative-nation]]
 - [[bioregional-congresses-and-global-nation-permaculture]]
 - [[bioregional-resource-index-permaculture]]
 - [[right-not-to-be-in-debt-permaculture]]

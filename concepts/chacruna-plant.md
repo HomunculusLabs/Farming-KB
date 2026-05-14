@@ -28,7 +28,7 @@ of self.
 DMT is also found in several other plants used in Amazonian
 shamanism, including [[ayahuasca]]
 - [[harmine]]
-- [[shamanism]]
+- shamanism
 
 ## Overview
 

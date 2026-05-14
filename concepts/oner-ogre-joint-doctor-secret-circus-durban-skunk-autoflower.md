@@ -15,13 +15,13 @@ OGRE is a sativa-dominant auto-flowering cannabis strain created through a colla
 - **Genetics**: Secret Citrus (auto) × Durban Skunk
 - **Potency**: THC 15%
 - **Seed availability**: Regular seeds from jointdoctordirect.com and secretgardenseeds.com
-- **Life cycle from seed to harvest**: Approximately 10 weeks (70 days)
+- **Life cycle from [[query-how-do-i-grow-peppers-from-seed-to-harvest]]**: Approximately 10 weeks (70 days)
 
 ## Lineage and Genetics
 
 OGRE's parentage brings together two distinct genetic lines:
 
-- **Secret Citrus (Secret Circus)**: An auto-flowering strain that contributes the automatic flowering trait and the citrus-influenced terpene profile. This parent ensures OGRE flowers without a photoperiod change, making it accessible to growers who lack light-control equipment or who want a simplified grow cycle. (see [[tropicana-cookies]]).
+- **Secret Citrus (Secret Circus)**: An auto-flowering strain that contributes the automatic flowering trait and the citrus-influenced [[cannabis-terpene-profile]]. This parent ensures OGRE flowers without a photoperiod change, making it accessible to growers who lack light-control equipment or who want a simplified grow cycle. (see [[tropicana-cookies]]).
 
 The combination of these two parents creates a strain that bridges the gap between the convenience of auto-flowering genetics and the robust growth patterns normally associated with photoperiod sativas. (see [[cannabis-sativa-indoor-challenges]]).
 
@@ -33,7 +33,7 @@ OGRE defies the common perception that auto-flowering strains are small and comp
 
 - **Average height**: Approximately 3 feet (90 cm), significantly taller than most auto-flowers
 - **Width**: Grows wider than many auto-growers expect, requiring adequate spacing
-- **Vegetative stage**: Extended vegetative period compared to typical auto-flowers, allowing the plant to develop substantial side branching before flowering
+- **[[cannabis-vegetative-stage]]**: Extended vegetative period compared to typical auto-flowers, allowing the plant to develop substantial side branching before flowering
 - **Resilience**: Particularly resilient to problems encountered during the vegetative stage, making it forgiving for less experienced growers
 
 ### Cultivation Method
@@ -44,12 +44,12 @@ The breeders provide specific cultivation recommendations for optimal results:
 - **Starting containers**: 1-gallon pots in a soil-less substrate from seed
 - **Transplant timing**: Transplant into 3–5 gallon pots once sex is shown around day 21
 - **Post-transplant growth**: Plants will double or even triple in size after transplanting
-- **Nutrient requirements**: Extremely heavy feeder — do not be shy with nutrients
+- **[[cannabis-soil-and-nutrient-requirements]]**: Extremely heavy feeder — do not be shy with nutrients
 - **Harvest**: Approximately 80 grams per plant at 10 weeks from seed
 
 ### Flowering
 
-After transplanting, OGRE enters a vigorous flowering phase where it fills in gaps with dense, succulent-looking buds. The transition from vegetative growth to flowering production is dramatic, with bud development accelerating quickly. Because the plant's vegetative period is extended for an auto-flower, it has more time to develop the branch structure needed to support substantial bud production.
+After transplanting, OGRE enters a vigorous [[cervantes-flowering-phase]] where it fills in gaps with dense, succulent-looking buds. The transition from [[cannabis-vegetative-growth-stage]] to flowering production is dramatic, with bud development accelerating quickly. Because the plant's vegetative period is extended for an auto-flower, it has more time to develop the branch structure needed to support substantial bud production.
 
 ### Growing Tips
 

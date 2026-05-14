@@ -79,7 +79,13 @@ For permaculture practitioners, this framework suggests:
 
 ## Related Concepts
 
-- [[ethical-basis-alternative-nation-permaculture]]
+- [[ethical-basis-of-alternative-nation]]
 - [[bioregional-organization-mollison]]
 - [[permaculture-ethics]]
 - [[bioregional-resource-index-permaculture]]
+
+## See Also
+
+- [[bioregional-organisation-permaculture]]
+- [[bioregional-resource-index-food-systems]]
+- [[bioregional-resource-monitoring]]

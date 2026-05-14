@@ -14,7 +14,7 @@ Paulownia tomentosa, commonly known as [[bill-mollison-permaculture-a-designers-
 understory crops and slower-growing climax species. The large leaves decompose rapidly,
 contributing significant quantities of [[hamilton-composting-and-organic-matter-management]] and nutrients to the soil surface.
 Leaf fall in autumn creates a thick mulch layer that suppresses weeds, moderates soil
-temperature, and improves moisture retention. The nutrient content of fallen paulownia
+temperature, and improves moisture retention. The [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of fallen paulownia
 leaves is relatively high, containing significant nitrogen, potassium, calcium, and
 magnesium.
 
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

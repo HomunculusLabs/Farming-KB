@@ -39,13 +39,13 @@ Bald cypress ranges from southern Delaware and southeastern Missouri (38°N) sou
 
 The species occupies a wide variety of wetland habitats, including deep-water swamps, river floodplains, oxbow lakes, Carolina bays, and pocosins. It is also found on relatively dry upland sites in the southern portion of its range, where it forms a different growth form without knees.
 
-Optimal growth occurs in areas with warm temperate to subtropical climates, 100–150 cm of annual precipitation, and growing seasons of 200–280 frost-free days. Bald cypress is hardy to approximately -20°C but grows most vigorously where mean annual temperature exceeds 16°C.
+Optimal growth occurs in areas with warm temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], 100–150 cm of annual precipitation, [[solomon-climate-zones-and-growing-seasons]] of 200–280 frost-free days. Bald cypress is hardy to approximately -20°C but grows most vigorously where mean annual temperature exceeds 16°C.
 
 Soil preferences range from deep alluvial clays to organic peats. The species tolerates prolonged inundation, with mature trees surviving continuous flooding for 2–4 years. Seedling establishment, however, requires periods of drawdown or at least reduced water levels for successful germination and early growth.
 
 [[biodiversity-of-fungi-ecosystem-services-agriculture]] including flood attenuation, water quality improvement, [[plant-nutrient-uptake-mechanisms]] in the nutrient-poor, anaerobic soils characteristic of bald cypress swamps.
 
-The species plays a central role in **southeastern wetland food webs**. Fallen leaves and twigs form the primary detrital input to swamp aquatic ecosystems, supporting diverse communities of aquatic insects, crustaceans, and detritivorous fish. This detritus-based food chain is the foundation of productivity in bald cypress swamp ecosystems.
+The species plays a central role in **southeastern wetland food webs**. Fallen leaves and twigs form the primary detrital input to swamp [[dighton-fungal-biomass-production-aquatic-ecosystems]], supporting diverse communities of aquatic insects, crustaceans, and detritivorous fish. This detritus-based food chain is the foundation of productivity in bald cypress swamp ecosystems.
 
 ## Timber and Economic Uses
 
@@ -70,7 +70,7 @@ Propagation is primarily from seed, requiring 30–90 days of cold stratificatio
 ## Overview
 
 Taxodium Distichum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -91,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Taxodium Distichum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -120,7 +120,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 taxodium distichum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

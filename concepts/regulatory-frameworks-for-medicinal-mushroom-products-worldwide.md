@@ -1,12 +1,12 @@
 ---
-title: Regulatory Frameworks for Medicinal Mushroom Products Worldwide
+title: Regulatory Frameworks For Medicinal Mushroom Products Worldwide
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
 # Regulatory Frameworks for Medicinal Mushroom Products Worldwide
 
-The regulatory status of medicinal mushroom products varies dramatically across countries, from approved pharmaceutical drugs in Japan to dietary supplements in the United States. This concept examines the regulatory landscape governing mushroom-derived therapeutics.
+The regulatory status of medicinal mushroom products varies dramatically across countries, from approved pharmaceutical drugs in Japan to [[functional-foods-and-dietary-supplements-from-medicinal-mushrooms]] in the United States. This concept examines the regulatory landscape governing mushroom-derived therapeutics.
 
 ## The Fundamental Challenge
 
@@ -65,7 +65,7 @@ The German Commission E is "an independent division of the German Federal Health
 ## The Japanese Situation
 
 ### FOSHU System
-"Functional foods with proven clinical efficacy (now officially termed Foods for Specific Health Use — FOSHU) are distinguished by their beneficial physiological effects."
+"Functional foods with proven clinical efficacy (now officially termed Foods for Specific Health Use — FOSHU) are distinguished by their beneficial [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]]."
 
 ### Characteristics of FOSHU
 - Designed to be consumed as part of a regular daily diet
@@ -112,7 +112,7 @@ Dietary supplements cannot claim to treat, cure, or prevent disease. Only "struc
 - Moderate clinical evidence required
 - Health claims permitted for physiological functions
 - Less expensive than full drug approval
-- Cannot claim disease treatment
+- Cannot claim [[ingham-root-disease-treatment]]
 
 ### Dietary Supplement (US/EU model)
 - Minimal regulatory burden
@@ -124,7 +124,7 @@ Dietary supplements cannot claim to treat, cure, or prevent disease. Only "struc
 ### Traditional Medicine Registration (WHO model)
 - Traditional use evidence accepted
 - Safety-focused evaluation
-- Moderate quality standards required
+- Moderate [[aact-compost-quality-standards-ingham]] required
 - Appropriate for well-established mushroom preparations
 
 ## Impact on Research and Development
@@ -133,7 +133,11 @@ Dietary supplements cannot claim to treat, cure, or prevent disease. Only "struc
 PSK and Lentinan's drug status in Japan has driven extensive research, clinical trials, and quality manufacturing standards.
 
 ### Negative: US/West
-The inability to patent whole mushroom extracts limits pharmaceutical investment in clinical trials, keeping many promising compounds at the dietary supplement level with minimal clinical validation.
+The inability to patent whole [[mushroom-extracts-from-grain-spawn]] limits pharmaceutical investment in clinical trials, keeping many promising compounds at the dietary supplement level with minimal clinical validation.
 
 ### Emerging Trend
 Growing acceptance of integrative medicine and increasing Western interest in mushroom therapeutics may drive regulatory reform toward the German Commission E or Japanese FOSHU models.
+
+## See Also
+
+- [[medicinal-mushroom-cancer-regulatory-frameworks]]

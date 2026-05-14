@@ -22,7 +22,7 @@ Seven types of mycorrhizae have come into general use over the years, based on m
 
 ### 1. Ectomycorrhiza (ECM)
 
-Hyphae surround but do not penetrate the root cells. Ectomycorrhizae are commonly found in trees growing in temperate regions, though some occur in the tropics. The plant symbionts include both gymnosperms and angiosperms. Key host families include:
+Hyphae surround but do not penetrate the root cells. Ectomycorrhizae are commonly found in trees growing in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], though some occur in the tropics. The plant symbionts include both gymnosperms and angiosperms. Key host families include:
 
 - **Salicaceae** (willow family)
 - **Betulaceae** (birch family)
@@ -35,13 +35,13 @@ This association may make trees more resistant to cold and dry conditions. The h
 
 The term refers to the presence of intracellular structures — vesicles and arbuscules — that form in the root during various phases of development. These are the most commonly recorded group, occurring on a vast taxonomic range from bryophytes to angiosperms, both herbaceous and woody species. Aseptate hyphae enter the root cortical cells and form characteristic vesicles and arbuscules. The plasmalemma of the host cell invaginates and encloses the arbuscules, creating an extensive interface for [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi belong to the phylum Glomeromycota, across nine genera: *Gigaspora*, *Scutellospora*, *Glomus*, *Acaulospora*, *Entrophospora*, *Archaeospora*, *Gerdemannia*, *Paraglomus*, and *Geosiphon* (the only known fungal endosymbiosis with cyanobacteria).
 
-**Historical and fossil evidence:** AM fungi appeared 400-460 million years ago, when the first plants were colonising land. Fossil evidence (Remy et al. 1994) and DNA sequence analysis (Simon et al. 1993) support this timeline. Arbuscules discovered in *Aglaophyton major*, an Early Devonian land plant, provide unequivocal evidence that mycorrhizae were established over 400 million years ago. The arbuscules are morphologically identical to those of living arbuscular mycorrhizae, consisting of a basal trunk and repeatedly branched bush-like tufts within the plant cell.
+**Historical and fossil evidence:** AM fungi appeared 400-460 million years ago, when the first plants were colonising land. Fossil evidence (Remy et al. 1994) and DNA sequence analysis (Simon et al. 1993) support this timeline. Arbuscules discovered in *Aglaophyton major*, an Early Devonian land plant, provide unequivocal evidence that mycorrhizae were established over 400 million years ago. The arbuscules are morphologically identical to those of living [[glomeromycota-arbuscular-mycorrhizae]], consisting of a basal trunk and repeatedly branched bush-like tufts within the plant cell.
 
 Arbuscular mycorrhizae play an important role in plant health and soil fertility. Under conditions of P-limitation, they influence plant community development, nutrient uptake, water relations, and above-ground productivity. They also act as bioprotectants against pathogens and toxic stresses.
 
 ### 3. Ericoid Mycorrhiza
 
-Found in the Ericaceae (heather family), the ectomycorrhizal hyphae form a web surrounding the roots. The ericoid mycorrhizae are endomycorrhizae in the general sense, since the fungal symbiont penetrates and establishes into the cortical cells. Infection of each cortical cell takes place from the outer cortical wall; lateral cell-to-cell spread does not occur. Infected cells appear fully packed with fungal hyphae. In ericoid mycorrhizae, the host cell dies as the association disintegrates, restricting the functional life of these epidermal cells to the period prior to breakdown of the infected cell.
+Found in the Ericaceae (heather family), the ectomycorrhizal hyphae form a web surrounding the roots. The [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] are endomycorrhizae in the general sense, since the fungal symbiont penetrates and establishes into the cortical cells. Infection of each cortical cell takes place from the outer cortical wall; lateral cell-to-cell spread does not occur. Infected cells appear fully packed with fungal hyphae. In ericoid mycorrhizae, the host cell dies as the association disintegrates, restricting the functional life of these epidermal cells to the period prior to breakdown of the infected cell.
 
 ### 4. Arbutoid Mycorrhiza
 
@@ -65,11 +65,11 @@ The closest relatives of *Piriformospora indica* are members of the Rhizoctina g
 
 Mycorrhizal root systems increase the absorptive area of roots 10 to 1,000 times, greatly improving the ability of plants to utilise soil resources. Mycorrhizal fungi can absorb and transfer all 15 major macro- and micronutrients necessary for plant growth. They release powerful chemicals into the soil that dissolve hard-to-capture nutrients such as phosphorus, iron, and other tightly bound soil nutrients. This extraction process is particularly important in plant nutrition, explaining why non-mycorrhizal plants require high levels of fertility to maintain their health.
 
-Mycorrhizal fungi form a complex web that captures and assimilates nutrients, conserving nutrient capital in soils. The ability of mycorrhizae to enhance nutrient uptake efficiency has important implications for sustainable agriculture and forestry, where reduced fertiliser inputs are increasingly desirable.
+Mycorrhizal fungi form a complex web that captures and assimilates nutrients, conserving nutrient capital in soils. The ability of mycorrhizae to enhance nutrient uptake efficiency has important implications for [[phosphate-accumulators-sustainable-agriculture]] and forestry, where reduced fertiliser inputs are increasingly desirable.
 
 ## Ecological Significance
 
-Mycorrhizal associations have been shown to affect plant competitive abilities and influence plant [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. The two symbioses typically act synergistically, resulting in greater nitrogen and phosphorus content in combination than when each is inoculated alone.
+[[plants-without-mycorrhizal-associations]] have been shown to affect plant competitive abilities and influence plant [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. The two symbioses typically act synergistically, resulting in greater nitrogen and phosphorus content in combination than when each is inoculated alone.
 
 Depending on the environment, plants may divert up to 80% or more of net energy fixed as sunlight to below-ground processes. A high proportion feeds [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], pathogens, soil aeration, and soil water uptake.
 
@@ -79,7 +79,7 @@ Depending on the environment, plants may divert up to 80% or more of net energy 
 
 ## Overview
 
-Symbiotic Fungi Mycorrhizal Types And Classification represents an important element within sustainable
+[[symbiotic-fungi-mycorrhizal-bioassays-agriculture]] Types And Classification represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

@@ -109,5 +109,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cotter-agar-tissue-culture-techniques]]
 - [[cotter-growing-space-design-fruiting-rooms]]
 - [[cotter-inoculation-techniques-and-hygiene]]
-- [[cotter-mushroom-infused-beer-wine-and-spirits]]
+- [[mushroom-infused-beer-wine-and-spirits]]
 - [[mushroom-inoculation-hygiene-cotter]]

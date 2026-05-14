@@ -22,11 +22,11 @@ The scientific investigation of [[shroom-cultural-history-western-discovery-vale
 
 ## The Key Players and Their Motivations
 
-Rolf Singer was a distinguished mycologist who led his own research team
+[[rolf-singer]] was a distinguished mycologist who led his own research team
 investigating the [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of Mexico. His boss, Sam
 Stein, was interested in the therapeutic properties of psychedelics, and
 was eager to conduct experiments with the newly discovered mushrooms.
-On the other side stood Roger Heim, Professor of Mycology and director
+On the other side stood [[roger-heim]], Professor of Mycology and director
 of the Paris Natural History Museum, who had been recruited by Wasson to
 systematically identify the species used by Mazatec curanderos.
 

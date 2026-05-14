@@ -80,7 +80,7 @@ One ton of chopped, soaked wheat straw occupies approximately 250 cubic feet (10
 
 ## Overview
 
-Oyster Mushroom Pasteurized Straw Cultivation represents an important element within sustainable
+[[oyster-mushroom]] Pasteurized Straw Cultivation represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

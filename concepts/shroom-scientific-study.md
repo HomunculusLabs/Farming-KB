@@ -1,5 +1,5 @@
 ---
-title: "Mycology and the Scientific Study of forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc"
+title: Shroom Scientific Study
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -12,10 +12,10 @@ sources:
 
 updated: 2026-04-24
 
-The scientific study of psychoactive mushrooms encompasses mycology,
+The scientific study of [[ceremonial-shamanic-use-psychoactive-mushrooms]] encompasses mycology,
 taxonomy, chemistry, and pharmacology. The identification, classification,
 and [[coleman-louis-savier-twentieth-century-maraicher]]'s most distinguished mycologists and chemists,
-including Roger Heim, gordon-wasson, Rolf Singer, and Richard Evans
+including Roger Heim, gordon-wasson, Rolf Singer, and [[richard-evans-schultes]]
 Schultes. Their work transformed magic mushrooms from obscure
 poisonous-looking fungi into chemically understood organisms whose
 active compounds could be isolated, synthesised, and studied.
@@ -26,7 +26,7 @@ There are currently around 186 known psilocybin species -- the figure
 is rising all the time -- of which 76 occur in Mexico alone. The most
 important species include [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], though its psychoactive
 properties were not recognised until the 1960s. The American mycologist
-Franklin Sumner Earle first described Psilocybe cubensis at the turn of
+Franklin Sumner Earle first described [[anemotropism-in-psilocybe-cubensis]] at the turn of
 the twentieth century. The pioneer of fungal taxonomy established the
 foundations upon which later identification work was built.
 
@@ -60,12 +60,12 @@ Sufficient samples of the Mexican mushrooms were cultivated in Heim's
 laboratory for Albert Hofmann (1906-2008), the Swiss chemist already
 famous for the discovery of LSD, to isolate the psychoactive alkaloids.
 In 1958, while working for the Basle-based Sandoz pharmaceutical
-company, Hofmann first synthesised psilocybin and psilocin, which he
+company, Hofmann first synthesised [[hplc-analysis-of-psilocybin-and-psilocin]], which he
 named after the mushrooms' Latin epithet.
 
 Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) and psilocin
 (4-hydroxy-N,N-dimethyltryptamine) are structurally similar to the most
-famous psychedelic, LSD; all three are similar to the endogenous brain
+famous psychedelic, LSD; all three are similar to the [[mckenna-dmt-endogenous-brain-affinity-versus-lsd-pharmacokinetics]]
 neurotransmitter serotonin, whose action they mimic. This discovery
 opened the door to controlled pharmacological research.
 

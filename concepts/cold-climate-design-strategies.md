@@ -1,12 +1,12 @@
 ---
-title: [[cold-climate-design-techniques]] Strategies
+title: "Cold Climate Design Strategies"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Cold Climate Design Strategies
 
-[[avalanche-phenomenon-cold-climates]] present unique design opportunities as well as challenges. Many cold
+[[avalanche-phenomenon]] present unique design opportunities as well as challenges. Many cold
 phenomena — snow, ice, frost — can be harnessed as productive resources rather than
 merely endured as hazards. [[permaculture-design]] for cold regions takes advantage of
 insulation, albedo, freeze concentration, and the predictable physics of water in its
@@ -36,7 +36,7 @@ Essential [[mycoremediation-bioreactor-design-considerations]] for cold climates
 - **Frost heave management** — bare soil experiences frost heave; garden techniques
   and attached [[glasshouse-growing-cool-temperate-climates]] must account for this
 - **Water storage** — earth dams for summer gardens
-- **[[avalanche]] site avoidance** — prevent settlement in high-risk zones
+- **[[avalanche-phenomenon]] site avoidance** — prevent settlement in high-risk zones
 
 ## Freezing as a Concentration Method
 

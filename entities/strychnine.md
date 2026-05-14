@@ -37,7 +37,7 @@ Strychnine is a highly toxic [[blesching-cannabis-spinal-cord-injuries]] and bra
 - **Melting point**: 268–290 °C (decomposes)
 - **Boiling point**: Sublimes at approximately 270 °C
 - **Density**: 1.36 g/cm³
-- **Solubility**: Sparingly soluble in water (1:6400 at 25 °C); soluble in chloroform, slightly soluble in ethanol and ether; soluble in dilute acids forming salts
+- **Solubility**: Sparingly soluble in water (1:6400 at 25 °C); soluble in chloroform, slightly soluble in [[ethanol]] and ether; soluble in dilute acids forming salts
 - **Optical rotation**: [α]D²⁰ = −139° (in chloroform)
 - **pKa**: 8.26 (protonated tertiary amine)
 - **Appearance**: Colorless to white crystalline powder; intensely bitter taste detectable at 1 ppm

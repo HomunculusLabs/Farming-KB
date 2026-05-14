@@ -29,7 +29,7 @@ fungal spores into [[mushroom-spore-printing-syringe-preparation-pf-tek]]:
 
 ## Jar Lid Preparation
 
-The jar lid is a critical component of the spore syringe preparation apparatus.
+The jar lid is a critical component of the [[spore-syringe-preparation]] apparatus.
 The PF TEK specifies the following lid design:
 
 - A center hole drilled to fit the Pyrex glass stirring rod, allowing it to be

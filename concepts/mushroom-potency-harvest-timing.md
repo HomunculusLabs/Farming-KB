@@ -17,7 +17,7 @@ One of the most important yet often overlooked aspects of mushroom
 cultivation is the relationship between the age of the fungus at harvest and
 its psychoactive potency. [[pf-substrate-formula]] growing
 cycle, from the moment primordia first appear through the final harvest.
-The PF TEK maxim is straightforward: grow them on brown rice, harvest them
+The PF TEK maxim is straightforward: grow them on [[brown-rice-flour-substrate]], harvest them
 when they are young, and cool dry them with desiccant. When this is done,
 the resulting fungi are what PF called an entheogen of the highest order.
 
@@ -37,7 +37,7 @@ from other cultivation approaches that prioritize yield over quality.
 
 ## Primordia and Their Importance
 
-Primordia are the first visible stage of mushroom fruiting bodies. They
+Primordia are the first visible stage of [[advanced-mushroom-fruiting-techniques]] bodies. They
 appear as tiny worm-like structures with small reddish heads that emerge
 from the fully colonized substrate cake. These structures represent the
 beginning of the fruiting cycle and are among the most potent forms the
@@ -53,7 +53,7 @@ potency material that should not be overlooked or discarded.
 
 Aborts are mushrooms that begin to develop but cease normal growth, becoming
 convoluted with gnarly stems and stunted development. They are easily
-recognized after witnessing the normal growth cycle of the fungus. Alongside
+recognized after witnessing the normal [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] of the fungus. Alongside
 abhorts, mutant growth forms appear as blobs of fungus with little or no cap.
 PF confirmed that both abhorts and mutants are good for harvesting and
 consumption. The key is to harvest them while they are still healthy and
@@ -70,7 +70,7 @@ The birthday is the term PF used for the process of removing the colonized
 fungus cake from its jar and placing it into the [[dual-chambered-terrarium-fruiting]] for fruiting. The best time for the birthday is when
 primordia appear on the cake while still in the jar. The lid is removed and
 the majority of the dry top vermiculite layer is scraped away with a clean
-fork. An old jar lid is placed over the jar mouth and the jar is turned
+fork. An old [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] is placed over the jar mouth and the jar is turned
 upside down. The jar is lightly slammed down on a table cushioned with a
 magazine, and the fungus cake slides out onto the old jar cap, which serves
 as a base. The cake should be handled as little as possible to avoid

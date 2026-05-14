@@ -120,8 +120,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[agrocybe-aegerita-pioppino-medicinal-profile]]
-- [[agrocybe-cylindracea]]
-- [[agrocybe-praecox]]
-- [[fungal-metal-redox-transformations-detailed]]
-- [[growing-gourmet-black-poplar-agrocybe-cultivation]]
+- [[agrocybe-auricularia-clitocybe-cultivation]]
+- [[agrocybe-black-poplar-cultivation]]
+- [[agrocybe-cultivation]]

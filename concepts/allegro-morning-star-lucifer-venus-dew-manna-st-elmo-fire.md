@@ -130,4 +130,4 @@ descended from heaven"** (John 3:13). The mushroom, which "falls" from the sky a
 from the ground as fungus, perfectly embodies this reciprocal movement between realms. The
 mushroom's primary celestial affinities lay in its presumed ability to **control the atmosphere,
 winds, and tempests** — the same powers attributed to the Morning Star, the Dioscouroi, and the
-storm-gods. As the visible link between sky and soil, semen and sustenance, death and rebirth, the mushroom stood at the center of an ancient cosmology that saw all fertility as a single, continuous process flowing from heaven to earth and back again.
+storm-gods. As the visible link between sky and soil, semen and sustenance, [[shamanism-death-and-rebirth]], the mushroom stood at the center of an ancient cosmology that saw all fertility as a single, continuous process flowing from heaven to earth and back again.

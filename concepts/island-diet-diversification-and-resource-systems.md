@@ -42,7 +42,7 @@ The primary permaculture solution to mineral deficiency is the systematic applic
 
 ### Species for Mineral Accumulation
 
-Certain plants are particularly effective at accumulating trace minerals from soil and making them biologically available. Deep-rooted trees such as **Leucaena**, **Gliricidia**, and **Moringa** draw minerals from subsoil layers and deposit them in leaf litter. When these leaves are used as mulch, the minerals enter the surface soil food web and become available to food crops. Moringa leaves themselves are exceptionally rich in iron and zinc and can be consumed directly as a green vegetable.
+Certain plants are particularly effective at accumulating trace minerals from soil and making them biologically available. Deep-rooted trees such as **Leucaena**, **Gliricidia**, and **Moringa** draw minerals from subsoil layers and deposit them in leaf litter. When these leaves are used as mulch, the minerals enter the surface [[soil-food-web]] and become available to food crops. Moringa leaves themselves are exceptionally rich in iron and zinc and can be consumed directly as a green vegetable.
 
 ## Unique Island Species and Their Roles in Polycultures
 

@@ -1,5 +1,5 @@
 ---
-title: [[branching-patterns-and-fractal-geometry-in-nature]] Stream Orders
+title: "Branching Patterns And Stream Orders"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

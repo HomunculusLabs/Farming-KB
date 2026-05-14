@@ -38,7 +38,7 @@ thermally labile compounds, and sensitive electronic instrumentation
 cannot withstand sustained high-temperature exposure without degradation
 or complete failure.
 
-Additionally, autoclaving requires direct steam contact with all surfaces.
+Additionally, autoclaving requires direct [[flash-steam-contact-sterilization-trace-water-microwave-surface-decontamination]] with all surfaces.
 Complex internal geometries, blind holes, and multi-component assemblies
 may harbor trapped air pockets that prevent steam penetration, creating
 sterilization failures in precisely the areas most difficult to access.

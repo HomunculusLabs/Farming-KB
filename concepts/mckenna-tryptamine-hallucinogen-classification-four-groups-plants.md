@@ -9,12 +9,12 @@ tags: [ethnobotany, entheogens, consciousness, history]
 
 ## Overview
 
-In Chapter 3 of *Food of the Gods*, Terence McKenna classifies plant
+In Chapter 3 of *Food of the Gods*, [[terence-mckenna]] classifies plant
 hallucinogens into four major chemical groups based on molecular
 structure and pharmacological properties. This classification reflects
 McKenna's conviction that the chemistry of these substances is
 intimately connected to their effects on consciousness and their role
-in shaping human cultural evolution.
+in shaping human [[cultural-evolution-and-psychoactive-substances]].
 
 ## Group 1: LSD-Type Compounds (Ergolines)
 
@@ -23,8 +23,8 @@ diethylamide (LSD), known as ergolines. Derived from the ergot fungus
 (*[[golden-guide-morning-glory-and-ololiuqui]] seeds (Convolvulaceae family).
 
 The most significant naturally occurring ergoline is ergine (d-lysergic
-acid amide, LSA), found in *Ipomoea violacea* (morning glory) and
-*Rivea corymbosa* (ololiuqui). Both were used as sacred intoxicants in
+acid amide, LSA), found in *[[ipomoea-violacea]]* (morning glory) and
+*[[rivea-corymbosa]]* (ololiuqui). Both were used as sacred intoxicants in
 pre-Columbian Mesoamerica, where Aztec and other peoples consumed these
 seeds in ritual contexts seeking visionary experiences.
 
@@ -58,7 +58,7 @@ orally because monoamine oxidase (MAO) in the digestive tract
 deactivates it. However, combined with MAO-inhibiting compounds (Group
 3), DMT becomes orally active, producing one of the most intense
 psychedelic experiences known. McKenna argues that DMT's ubiquity and
-endogenous presence suggest a deep evolutionary relationship between
+[[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]] suggest a deep evolutionary relationship between
 this molecule and consciousness itself.
 
 5-MeO-DMT, found in the Sonoran Desert toad (*Incilius alvarius*)
@@ -74,7 +74,7 @@ orally ingested DMT to reach the bloodstream and brain — the
 pharmacological synergy making ayahuasca possible.
 
 Ayahuasca combines *Banisteriopsis caapi* (beta-carbolines) with
-*Psychotria viridis* or *Diplopterys cabrerana* (DMT). McKenna
+*[[chacruna-psychotria-viridis]]* or *Diplopterys cabrerana* (DMT). McKenna
 considers this discovery one of the most remarkable achievements of
 indigenous pharmacology — requiring knowledge of hundreds of plant
 species and an understanding of synergistic interactions modern science

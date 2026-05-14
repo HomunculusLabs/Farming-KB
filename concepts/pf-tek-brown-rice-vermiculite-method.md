@@ -1,5 +1,5 @@
 ---
-title: PF Tek [[pf-tek-brown-rice-vermiculite-substrate-method]] Cultivation Method
+title: "Pf Tek Brown Rice Vermiculite Method"
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [cultivation, pf-tek, brown-rice-flour, vermiculite, mycology, substrate]
 ---

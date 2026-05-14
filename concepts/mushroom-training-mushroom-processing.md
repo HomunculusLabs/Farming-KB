@@ -25,7 +25,7 @@ Mushrooms cannot keep for long and must be sold quickly following
 - [[mushroom-genetics-strain-selection]]
 ## Practical Applications
 
-Mushroom Processing and Preservation Techniques has a range of practical applications that make it relevant to
+[[mushroom-processing]] and Preservation Techniques has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

@@ -46,7 +46,7 @@ The publication of her ceremonies by Wasson attracted thousands of Western seeke
 Mushroom use in Mexico is concentrated in several indigenous regions:
 
 - **Mazatec** (Oaxaca): The most well-documented tradition, involving *P. mexicana*, *P. caerulescens*, and *P. zapotecorum*
-- **Mixtec** (Oaxaca): Used puffballs (*Lycoperdon mixtecorum*, *L. marginatum*) which were later shown to be common edible species confused with psychoactive mushrooms
+- **Mixtec** (Oaxaca): Used puffballs (*[[lycoperdon-mixtecorum]]*, *L. marginatum*) which were later shown to be common edible species confused with psychoactive mushrooms
 - **Nahua** (central Mexico): Historical use of teonanácatl documented since the 16th century
 - **Zapotec** (Oaxaca): Use of multiple *Psilocybe* species in healing ceremonies
 - **Chinantec** (Oaxaca): Documented use of neurotropic fungi in traditional medicine
@@ -76,13 +76,13 @@ The **Chukchee** and **Koryak** peoples of Siberia represent a distinct neurotro
 - Shamanic journeys and divination ceremonies
 - Use in communal feasts and celebrations
 
-The Siberian Amanita tradition differs fundamentally from the psilocybin-based ceremonies of Mexico and New Guinea in its pharmacology, effects profile, and cultural context. The ibotenic acid-to-muscimol pathway produces a qualitatively different experience than psilocybin, characterized more by sedation, dissociation, and delirium than by the visionary clarity described in psilocybin experiences.
+The Siberian Amanita tradition differs fundamentally from the psilocybin-based ceremonies of Mexico and New Guinea in its pharmacology, effects profile, [[ayahuasca-pharmacology-and-cultural-context]]. The ibotenic acid-to-muscimol pathway produces a qualitatively different experience than psilocybin, characterized more by sedation, dissociation, and delirium than by the visionary clarity described in psilocybin experiences.
 
 ## North American Indigenous Puffball Traditions
 
 Burk (1983) documented the magical and religious uses of several puffball species (Gasteromycetes, Lycoperdales) among certain North American Indian peoples. The fungi, which typically grew in fairy rings on prairies, were referred to as **"fallen stars"** — a cosmological interpretation connecting terrestrial fungi to celestial phenomena.
 
-Guzmán (1994a, 1994b, 1997) discussed several puffball species used by Mexican Indians in traditional medicine, including *Lycoperdon perlatum*, which forms fairy rings in grasslands. While none of these puffball species possess neurotropic properties — they are edible — their cultural significance demonstrates the broader role of fungi in indigenous cosmologies beyond psychoactive use.
+Guzmán (1994a, 1994b, 1997) discussed several puffball species used by Mexican Indians in traditional medicine, including *[[lycoperdon-perlatum]]*, which forms fairy rings in grasslands. While none of these puffball species possess neurotropic properties — they are edible — their cultural significance demonstrates the broader role of fungi in indigenous cosmologies beyond psychoactive use.
 
 ## Ethnographic Considerations and Controversies
 
@@ -90,9 +90,9 @@ Guzmán (1994a, 1994b, 1997) discussed several puffball species used by Mexican 
 
 The ethnographic literature on sacred mushrooms is complicated by widespread species misidentification:
 
-- The Mazatec term "nise" (little bird) refers to both *Psilocybe mexicana* and *Schizophyllum commune*, an unrelated edible bracket fungus
+- The Mazatec term "nise" (little bird) refers to both *Psilocybe mexicana* and *[[schizophyllum-commune]]*, an unrelated edible bracket fungus
 - Mixtec use of puffballs appears to involve confusion with psilocybin-containing mushrooms
-- Heim and Wasson's (1962) report of narcotic puffballs was later refuted by Ott et al. (1975)
+- Heim and Wasson's (1962) report of [[guzman-allen-gartz-mixtec-narcotic-puffballs-ott-investigation]] was later refuted by Ott et al. (1975)
 
 ### Research Ethics
 
@@ -108,7 +108,7 @@ The exposure of Mexican mushroom traditions to global attention raises ongoing e
 Guzmán (1990a, 1990b) proposed a fundamental division in the history of Mexican mycology:
 
 1. **Before Wasson, Heim, and Singer** (pre-1958): Limited mycological study with relatively little attention to neurotropic fungi
-2. **After Wasson, Heim, and Singer** (post-1958): Explosion of mycological interest catalyzed by the discovery and documentation of sacred mushroom traditions
+2. **After Wasson, Heim, and Singer** (post-1958): Explosion of mycological interest catalyzed by the discovery and documentation of [[sacred-mushroom-traditions-in-mexico]]
 
 This division underscores the outsized impact that ethnographic research on psychoactive fungi has had on the broader field of mycology.
 

@@ -44,13 +44,13 @@ Fungi reproduce through **spores**—microscopic reproductive units that can be 
 ## Modes of Nutrition
 
 ### Saprophytic Fungi
-Most medicinal mushrooms are **saprophytes**—they obtain nutrients by decomposing dead organic matter. They secrete extracellular enzymes that break down complex organic polymers (cellulose, lignin, chitin, proteins, lipids) into simpler molecules that can be absorbed. This makes them essential decomposers in ecosystems.
+[[query-what-are-the-most-medicinal-mushrooms]] are **saprophytes**—they obtain nutrients by decomposing dead organic matter. They secrete [[fungal-extracellular-enzymes]] that break down complex organic polymers (cellulose, lignin, chitin, proteins, lipids) into simpler molecules that can be absorbed. This makes them essential decomposers in ecosystems.
 
 ### Parasitic Fungi
 Some fungi are **parasites**, obtaining nutrients from living hosts. Many plant pathogens fall into this category. *[[cordyceps-sinensis]]* (caterpillar fungus) is an unusual example, parasitizing insect larvae.
 
 ### Mutualistic Fungi
-**Mycorrhizal fungi** form symbiotic associations with plant roots. The fungus provides the plant with enhanced mineral and water uptake, while the plant supplies the fungus with carbohydrates. Most forest trees depend on mycorrhizal associations. *Trametes versicolor* and other wood-decay fungi also play important ecological roles in forest nutrient cycling.
+**Mycorrhizal fungi** form symbiotic associations with plant roots. The fungus provides the plant with enhanced mineral and water uptake, while the plant supplies the fungus with carbohydrates. Most forest trees depend on mycorrhizal associations. *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* and other wood-decay fungi also play important ecological roles in forest nutrient cycling.
 
 ## Ecological Roles
 
@@ -81,9 +81,9 @@ Current estimates suggest well over 1.5 million fungal species, though only appr
 
 ### Cultivation Basis
 Understanding fungal biology is essential for successful mushroom cultivation, which requires mastery of:
-- Strain selection and maintenance
+- Strain [[solomon-garden-tools-selection-and-maintenance]]
 - Spawn production (inoculum preparation)
-- Substrate preparation and sterilization
+- Substrate [[jar-preparation-and-sterilization]]
 - Environmental control (temperature, humidity, light, air exchange)
 - Fruiting induction and crop management
 
@@ -91,7 +91,7 @@ Understanding fungal biology is essential for successful mushroom cultivation, w
 The immense metabolic diversity of fungi—reflected in their ability to produce antibiotics, immunomodulators, statins, and other pharmaceuticals—makes them a rich source for drug discovery. The medicinal mushrooms represent a subset of this diversity that has been validated by centuries of traditional use and is now being confirmed by modern science.
 
 ### Fermentation Technology
-The ability to grow fungal mycelium in liquid fermentation systems under controlled conditions enables production of consistent, pure medicinal products—an important advantage over wild-harvested herbs.
+The ability to grow fungal mycelium in liquid fermentation systems under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] enables production of consistent, pure medicinal products—an important advantage over wild-harvested herbs.
 
 ## Key Distinctions Summary
 

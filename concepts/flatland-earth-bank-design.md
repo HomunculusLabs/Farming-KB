@@ -1,5 +1,5 @@
 ---
-title: Flatland Earth Bank Design in Permaculture
+title: Flatland Earth Bank Design
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-Earth bank design is a foundational technique for applying [[permaculture-principles]] on flat terrain where natural slopes are absent. On flat lands, designers must **create artificial slopes** using excavated earth to achieve the [[water-management]], wind protection, privacy, and thermal benefits that sloped sites provide naturally. [[bill-mollison]] emphasized that rather than focusing solely on water surfaces in flat areas, designers should pay primary attention to the earth they move and what earth banks can accomplish.
+Earth bank design is a foundational technique for applying [[permaculture-principles]] on flat terrain where natural slopes are absent. On flat lands, designers must **create artificial slopes** using excavated earth to achieve the [[water-management]], [[cervantes-wind-protection-outdoor-cannabis]], privacy, and thermal benefits that sloped sites provide naturally. [[bill-mollison]] emphasized that rather than focusing solely on water surfaces in flat areas, designers should pay primary attention to the earth they move and what earth banks can accomplish.
 
 ## Core Principle: Creating Slopes Where None Exist
 
-The fundamental challenge of flatland permaculture is the absence of natural elevation change. On a site with as little as a two-foot drop across 300 acres, there is virtually no natural water movement, no gravity-fed systems, and no downhill advantages. The permaculture solution is to **manufacture topography**:
+The fundamental challenge of flatland [[permaculture]] is the absence of natural elevation change. On a site with as little as a two-foot drop across 300 acres, there is virtually no natural water movement, no gravity-fed systems, and no downhill advantages. The permaculture solution is to **manufacture topography**:
 
-- **Throw up earth banks** to create windbreaks, privacy screens, and thermal mass
+- **Throw up earth banks** to create windbreaks, privacy screens, and [[comparison-windbreak-vs-thermal-mass]]
 - **Excavate ponds and tanks** below grade, using the removed earth to build up banks and peninsulas
 - **Construct swales** even on nearly level ground to direct and retain water
 - **Raise tanks and roofs** above house level to enable gravity-fed water systems
@@ -25,7 +25,7 @@ Mollison's guiding rule: *"Make your slopes, throw up your roofs, and throw up y
 
 ### The Fastest Windbreak
 
-The fastest way to establish a windbreak is to grade up an **earth bank and swale**. A four to six foot earth bank provides immediate wind protection, while plantings on top of the bank (such as pampas grass or bamboo) grow quickly because of the moisture collected in the swale. This gives a "racing start" to windbreak establishment compared to planting trees alone on flat ground.
+The fastest way to establish a windbreak is to grade up an **earth bank and [[swale]]**. A four to six foot earth bank provides immediate wind protection, while plantings on top of the bank (such as pampas grass or bamboo) grow quickly because of the moisture collected in the swale. This gives a "racing start" to [[windbreak-establishment-and-benefits]] compared to planting trees alone on flat ground.
 
 ### Swales on Minimal Slope
 
@@ -82,8 +82,8 @@ An innovative solution for flat alluvial plains:
 - A backhoe excavates a **cave beneath the house site**
 - The house is built above the cave
 - The cave extends beyond the house at both ends, opening to a pond at water level
-- One end is **glassed over** and trellised, creating an underground greenhouse and shower
-- The opposite end (next to the pond) serves as a **cool cave** for root vegetable storage
+- One end is **glassed over** and trellised, creating an [[underground-greenhouse-walipini]] and shower
+- The opposite end (next to the pond) serves as a **cool cave** for root [[root-vegetable-storage-guide]]
 - The cave sits about a foot above dam level, keeping it dry
 - The deck above overlooks the water, entered through the cave
 
@@ -148,38 +148,3 @@ A flat site with an eroded gully and noisy surroundings. The client had already 
 - Cave opens at both ends, one to a trellised greenhouse, one to the pond
 - House built over the cave, with deck overlooking water
 - Cave provides cool storage space and shower facilities
-- Complete privacy achieved below ground level
-
-### Case Study 3: Wild Site with Water Problems
-
-An excellent tree-covered flat site with poor water management. After rain, debris accumulated against structures. The solution:
-
-- Designed a below-grade earth tank (lake)
-- Built a **peninsula into the water** about 9 feet above grade from excavated material
-- Placed the two-story house on the peninsula for mountain views
-- Ran two low earth banks to deflect floodwater away from garden areas
-- Directed all off-site water into the dam, which also collected silt and mulch
-- Silt and mulch deposited at the outside of the garden wall, defending the dam from silting
-
-The client (a landscape architect and parks director) also received a windmill on a raised earth bank with a tank — though gravity-fed roof water collection was also available as an alternative.
-
-## Key Design Summary
-
-Mollison concluded that flatlands cannot be addressed with a single general formula. Instead:
-
-1. **Study the flora** of the site
-2. **Identify client needs** — privacy, noise reduction, water, views, fire protection
-3. **Assess the problems** specific to each site
-4. **Build solutions from available earth and water** — there are "plenty with which to do it"
-
-The three case studies demonstrate totally different solutions for three different flatland situations, all using earth banks, excavation, and water management as the foundational toolkit.
-
-## Related Concepts
-
-- [[swale-systems-and-slope-design]]
-- [[keyline-design|Keyline Design]]
-- [[mollison-designers-fire-resistant-landscape-design|Fire-Resistant Landscape Design]]
-- [[earth-sheltered-housing|Earth-Sheltered Housing]]
-- [[water-harvesting-techniques-comparison]]
-- [[windbreak-permaculture|Windbreak Design]]
-- [[net-and-pan-planting]]

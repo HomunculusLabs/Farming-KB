@@ -18,7 +18,7 @@ Double digging is a soil preparation technique used in Biointensive mini-farming
 - The deeper soil preparation allows significantly more air to pass through the soil profile.
 - Air is a vital element for plant growth that is often taken for granted — plants grow notably better in loosened versus compacted soil.
 - The technique is part of the Biointensive mini-farming system that emphasizes maximizing output from minimal land area.
-- Double digging works synergistically with the [[farming-with-air-water-and-sunlight]], water and sunlight."
+- Double digging works synergistically with the [[farming-with-air-water-sunlight]], water and sunlight."
 - The practice facilitates deeper root penetration, better water infiltration, and improved microbial habitat.
 - Combined with beneficial [[contamination-prevention-in-mushroom-cultivation]], the principle of providing adequate aeration in substrate translates directly — well-aerated substrates support healthier mycelial-growth-and-colonization reduce anaerobic contamination. The broader lesson is that physical soil/substrate structure matters as much as [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
 - [[soil-health-assessment-biological-chemical-physical-indicators]]

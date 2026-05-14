@@ -88,4 +88,4 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[ayahuasca]]
 - [[doc]]
-- [[shamanism]]
+- shamanism

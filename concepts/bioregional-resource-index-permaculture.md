@@ -1,5 +1,5 @@
 ---
-title: Bioregional Resource Index — Framework for Regional Self-Reliance
+title: Bioregional Resource Index Permaculture
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -30,13 +30,13 @@ The index is organized into ten primary categories:
 
 - **A2 — Animal Resources:** Breeders and propagation centres (artificial insemination, hatcheries); species collections including invertebrates; fish breeders and aquatic species; useful native species reserves; demonstration farms (free range, bee culture); government regulations; voluntary protection societies; skilled farriers, vets, natural historians; contractors and farm designers; publications and references; species suppliers
 
-- **A3 — Integrated Pest Management:** Insectaries and biological control suppliers; safe control chemicals and traps; IPM information sources; stored grain and food pest management; references and libraries; checklists of common pests, predators, and safe control procedures
+- **A3 — [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]:** Insectaries [[odonata-dragonflies-damselflies-ecology-and-biological-control]] suppliers; safe control chemicals and traps; IPM [[emcdda-hallucinogenic-mushroom-internet-information-sources]]; stored grain and food pest management; references and libraries; checklists of common pests, predators, and safe control procedures
 
 - **A4 — Food Processing:** Processing equipment suppliers; food processing centres; information on preservation; yeasts, bacterial and algal fermentation materials; processed-product producers
 
-- **A5 — Markets and Outlets:** Local markets; delivery services; export markets and wholesalers; urban-rural cooperative systems and direct marketing; retail outlets; market advisory skills; roadside and self-pick sales; packaging suppliers and ethical packaging designs; annual barter fairs
+- **A5 — Markets and Outlets:** Local markets; delivery services; export markets and wholesalers; urban-rural cooperative systems [[urban-rural-linkages-and-direct-marketing]]; retail outlets; market advisory skills; roadside and self-pick sales; packaging suppliers and ethical packaging designs; annual barter fairs
 
-- **A6 — Support Functions:** Residue testing for biocides and nutrient content (food quality control); soil, water, and leaf analysis services; hydrological and water supply services; fence and trellis suppliers; natural fertilisers and soil amendments; farm machinery and tool suppliers (including appropriate technology and repair services); land planning services; glasshouse, shadehouse, and food dryer suppliers; lime quarries, stone dusts, and geological resources
+- **A6 — Support Functions:** Residue testing for biocides and nutrient content (food quality control); soil, water, and leaf analysis services; hydrological and water supply services; fence and trellis suppliers; natural fertilisers and soil amendments; farm machinery and tool suppliers (including [[appropriate-technology]] and repair services); land planning services; glasshouse, shadehouse, and food dryer suppliers; lime quarries, stone dusts, and geological resources
 
 ### Category B: Shelter and Buildings
 
@@ -116,4 +116,4 @@ The resource index is a key output of the bioregional office. It serves as both 
 - [[bioregional-organization-mollison]]
 - [[bioregional-congresses-and-global-nation-permaculture]]
 - [[community-finance-and-alternative-economies]]
-- [[ethical-basis-alternative-nation-permaculture]]
+- [[ethical-basis-of-alternative-nation]]

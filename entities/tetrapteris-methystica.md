@@ -65,7 +65,7 @@ The epithet 'methystica' derives from Greek 'methystikos'
 - **Habitat:** Lowland tropical moist forest, primary and secondary growth
 - **Elevation:** 100-500 m
 - **Climate:** Warm humid tropical; 25-27°C; rainfall 2000-3500 mm
-- **Associated species:** Often found alongside Banisteriopsis caapi
+- **Associated species:** Often found alongside [[banisteriopsis-caapi]]
 
 T. methystica is forest-dependent, requiring large trees for
 climbing support. It is most common in mature or late-secondary

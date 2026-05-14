@@ -91,12 +91,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
 
-- [[desert-drip-irrigation-mollison]]
-- [[desert-gardening-techniques]]
-- [[desert-reafforestation-and-arid-land-agriculture]]
-- [[desert-scarp-canyon-settlement]]
-- [[desert-settlement-species-compendium]]
-- [[desert-wadi-agriculture-mollison]]
-- [[desert-water-conservation-garden-design]]
+- [[desert-basins-scalds-and-claypans]]
+- [[desert-food-systems-and-vine-integration]]
+- [[desert-garden-earthshaping-and-bed-systems]]
+- [[desert-house-energy-and-water-conservation]]
+- [[desert-pans-scalds-and-erosion-healing]]
+- [[desert-settlement-and-clustered-housing-design]]
+- [[desert-settlement-strategy]]
+- [[desert-soils-nutrition-and-phosphorus-dynamics]]

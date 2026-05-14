@@ -24,7 +24,7 @@ This compendium completes the annotated species list of plants known to be usefu
 
 ### Salt-Tolerant Shrubs
 - **Atriplex** (salt-bushes): Wind, salt, and pest resistant
-- **Pea Trees** (Caragana arborescens, C. siberica): Mainly poultry fodder; seed can be eaten
+- **Pea Trees** ([[caragana-arborescens]], C. siberica): Mainly poultry fodder; seed can be eaten
 
 ## Nuts and Acorns for Storage (Autumn–Spring)
 
@@ -41,7 +41,7 @@ This compendium completes the annotated species list of plants known to be usefu
 
 | Species | Notes |
 |---------|-------|
-| **Lycium ferocissimum, L. chinensis** | Thorny hedges with berries and seeds late summer to late winter; salt and wind tolerant; eagerly sought by poultry |
+| **[[lycium-ferocissimum]], L. chinensis** | Thorny hedges with berries and seeds late summer to late winter; salt and wind tolerant; eagerly sought by poultry |
 | **Coprosma spp.** (C. lucida, C. australis, C. parviflora, C. repens, C. kirkii, C. robusta) | Hardy NZ plants for coasts, swamps, understorey, shelter. Most dioecious (need ~5% male). Almost all grow from cuttings or quickset hedges. NZ Whole Earth Catalogue states poultry survive all year on 3 or so species. Stock like foliage (good manurial value). Trees prune well to hedges |
 | **Mulberries** (Morus alba, M. nigra) | Important poultry food of high protein value |
 | **Elderberries** (Sambucus spp.) | As for mulberry |
@@ -67,7 +67,7 @@ This compendium completes the annotated species list of plants known to be usefu
 
 - **Nut-grass** (Eleocharis) and **Sour-grass** (Oxalis spp.): Yield shallow tubers utilized by birds (pest species in other areas)
 - **Oca**: Special culture of Oxalis
-- **Jerusalem Artichoke** (Helianthus): Pulled as needed, especially in lean periods; flourishes under oak forest or in poor soil
+- **[[comparison-jerusalem-artichoke-vs-potato]]** (Helianthus): Pulled as needed, especially in lean periods; flourishes under oak forest or in poor soil
 
 ## Greens and Seeds as Herb Layer
 
@@ -79,12 +79,12 @@ This compendium completes the annotated species list of plants known to be usefu
 ### Special Greens
 | Species | Notes |
 |---------|-------|
-| **Pokeweed** (Phytolacca americana) | Eaten by birds, especially pigeons |
+| **Pokeweed** ([[phytolacca-americana]]) | Eaten by birds, especially pigeons |
 | **Wood Millet** (Milium effusum) | |
 | **Lupin species** | |
 | **Perennial Buckwheat** (Fagopyrum cymosum) | |
 | **Partridge Berry** (Mitchella repens) | Below pine trees or in acid conditions |
-| **Checkerberry** (Gaultheria procumbens) | |
+| **Checkerberry** ([[gaultheria-procumbens]]) | |
 | **Soulki** (Agriophyllum gobicum) | Whole plant greens or seeds |
 | **Celtis australis, C. occidentalis** | |
 | **Wild Rye** (Elymus condensatus) | Tolerates moderate salinity |
@@ -118,7 +118,7 @@ This compendium completes the annotated species list of plants known to be usefu
 | Species | Notes |
 |---------|-------|
 | **Shepherd's Purse** (Capsella bursa-pastoris) | Turner recommends as poultry forage; "stimulating effect on egg production"; nuisance control |
-| **Cleavers** (Galium aparine) | "They love the seed and readily consume the whole plant when its iron and iodine content are very valuable, especially to yarded or deep-litter birds." For free-range, may need protection by brush or netted fence enclosures |
+| **Cleavers** ([[galium-aparine]]) | "They love the seed and readily consume the whole plant when its iron and iodine content are very valuable, especially to yarded or deep-litter birds." For free-range, may need protection by brush or netted fence enclosures |
 | **Plantain** (Plantago major, P. lanceolata) | Lawrence Hill recommends as crop that can absorb chicken manure waste and produce lots of green fodder; eagerly sought by ducks |
 | **Chard** | First choice of all greens; free poultry access cannot be permitted. Successional sowings in throwover area ensures year-round leaves |
 

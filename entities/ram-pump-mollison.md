@@ -13,7 +13,7 @@ A ram pump (hydraulic ram pump) is a cyclic water pump that uses the kinetic ene
 
 ## Classification
 
-- **Domain**: Water management / Appropriate technology
+- **Domain**: [[water-management]] / Appropriate technology
 - **Category**: Hydraulic water-lifting device
 - **Energy source**: Water kinetic energy (no external power required)
 - **Scale**: Small to medium flow applications

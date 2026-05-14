@@ -39,7 +39,7 @@ The crop cycle from planting to harvest is 10–15 months for the first ratoon, 
 
 Each pseudostem produces a single bunch weighing 10–40 kg depending on cultivar and management. Bunch weight is the primary yield component targeted by [[hamilton-composting-and-organic-matter-management]] are common practices in smallholder systems.
 
-Major constraints include black Sigatoka leaf spot (*Pseudocercospora fijiensis*), banana bunchy top virus (BBTV), and Panama disease (Fusarium wilt, *Fusarium oxysporum* f. sp. *cubense* TR4). Nematodes (*Radopholus similis*) and weevils (*Cosmopolites sordidus*) are the primary pests.
+Major constraints include black Sigatoka leaf spot (*Pseudocercospora fijiensis*), banana bunchy top virus (BBTV), and Panama disease (Fusarium wilt, *[[fusarium-oxysporum]]* f. sp. *cubense* TR4). Nematodes (*Radopholus similis*) and weevils (*Cosmopolites sordidus*) are the primary pests.
 
 ## Nutritional Value
 

@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
+  - "raw/papers/[[elaine-ingham]]-phd-the-field-guide-for-actively-aerated-com.md"
   - "[[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]] is essential for producing effective [[cervantes-trichoderma-beneficial-fungi]]. The residue left after standard analysis is typically humic acid material, which contributes to its value. This is the preferred form for compost tea.
 - **Unsulfured molasses**: Sulfur is a potent fungicide, so molasses treated with sulfur will inhibit the very fungi it is intended to support. Always use unsulfured products.
 - **Dried cane sugar and dried molasses**: These products lose the humic acid residue during the drying process, which is nearly impossible to dry down. Testing shows dried cane products grow mostly bacteria, whereas blackstrap molasses supports both bacteria and beneficial fungi.

@@ -11,7 +11,7 @@ type: concept
 
 ## Botanical Details
 
-**Scientific name:** phoenix dactylifera ra
+**Scientific name:** [[phoenix-dactylifera]] ra
 **Family:** ARECACEAE
 
 Native to the tropical and sub tropical deserts of the Middle East, this palm has been cultivated for about 6,000 years. It is now not known in the wild. It is an erect palm growing to 36 m.

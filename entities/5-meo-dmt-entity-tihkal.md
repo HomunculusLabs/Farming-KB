@@ -77,7 +77,7 @@ Removing one N-methyl group provides 5-MeO-NMT, which has its own entry. Removal
 
 ## Overview
 
-5 Meo Dmt Entity Tihkal represents an important element within sustainable
+5 Meo [[dmt-entity-tihkal]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

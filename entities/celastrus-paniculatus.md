@@ -103,7 +103,7 @@ The plant thrives in tropical to subtropical climates with 800–2,000 mm annual
 
 Propagation is primarily by seed, though semi-hardwood stem cuttings treated with IBA (2000 ppm) root successfully in 30–45 days. Field spacing of 3 × 3 m is standard for plantation cultivation.
 
-Soil pH tolerance ranges from 6.0 to 8.0, with neutral to slightly alkaline conditions producing the best growth. Organic mulching improves moisture retention during the establishment phase.
+[[soil-ph]] tolerance ranges from 6.0 to 8.0, with neutral to slightly alkaline conditions producing the best growth. Organic mulching improves moisture retention during the establishment phase.
 
 First harvest of seeds occurs 3–4 years after planting from seed. Mature vines yield 2–5 kg of seed per plant per season, with oil extraction via cold pressing preferred over solvent extraction.
 

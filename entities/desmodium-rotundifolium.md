@@ -67,7 +67,7 @@ Once established, roundleaf ticktrefoil is a long-lived perennial that persists 
 
 In native landscaping, the species is used as a shade-tolerant groundcover for woodland gardens and naturalized areas. Its trailing habit and late-summer flowers provide visual interest beneath taller perennials and shrubs.
 
-The species has been investigated for use in agroforestry systems as an understory legume beneath nut and timber trees. Its shade tolerance and nitrogen-fixing ability make it a candidate for temperate alley-cropping configurations.
+The species has been investigated for use in agroforestry systems as an understory legume beneath nut and timber trees. Its shade tolerance and nitrogen-fixing ability make it a candidate for temperate [[alley-cropping]] configurations.
 
 ## See Also
 

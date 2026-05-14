@@ -119,7 +119,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[actinomycetes-and-soil-ecology]]
+- [[actinomycetes]]
 - [[ingham-actinomycetes-soil-biology-and-compost-tea]]
 - [[query-what-is-the-role-of-actinomycetes-in-soil-health]]
 - [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]]

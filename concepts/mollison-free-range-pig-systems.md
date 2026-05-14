@@ -25,7 +25,7 @@ systems that integrate with broader farm and garden enterprises.
 
 ## Site Selection
 
-The ideal pig range site is preferably wooded, well-drained,
+The ideal [[pig-range-permaculture]] site is preferably wooded, well-drained,
 and dry in wet seasons. Mud and wet soils encourage worms and
 disease, and can cause trouble with suckling. Winter shedding
 may be necessary in very cold winter climates, but sheltered
@@ -55,8 +55,8 @@ places. The hessian can be kept dampened with sump oil, or
 vegetable oils with some neem, Azadirachta excelsa (Melia
 azedarach, white cedar), or pyrethrum oil added to keep pigs
 free of lice. Dust baths (a roof over a soft dry area) kill
-lice and can be laced with dry neem tree leaves or pyrethrum
-flowers. These natural parasite control methods avoid the need
+lice and can be laced with dry [[mollison-designers-neem-tree-as-natural-insecticide]] leaves or pyrethrum
+flowers. These natural parasite [[cho-natural-pest-control-methods]] avoid the need
 for chemical treatments.
 
 ## Wallow and Water Features
@@ -74,7 +74,7 @@ aquatic habitat.
 Mollison provides an extensive table of pig forage species for
 both tropical and cooler areas:
 
-Tropical trees: mulberry, Bunya pine, fig, Inga edulis,
+[[mollison-designers-moringa-and-multipurpose-tropical-trees]]: mulberry, Bunya pine, fig, [[inga-edulis]],
 various palms (Chilean wine palm, Jagua, Burt, Babassu, Assai,
 oil palm, [[permaculture-honey-locust-pod-fodder-system]], carob, chestnut, chinquapin, rain tree.
 

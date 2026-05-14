@@ -1,5 +1,5 @@
 ---
-title: Permaculture Fruit Trees for [[fukuoka-natural-farming-temperate-climates]]
+title: "Permaculture Plants Fruit Trees Temperate"
 created: 2026-04-26
 updated: 2026-04-24
 sources:

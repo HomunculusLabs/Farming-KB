@@ -1,5 +1,5 @@
 ---
-title: "What Are [[cannabis-concentrates-and-extracts]] How Are They Made?"
+title: "Query What Are Cannabis Concentrates And How Are They Made"
 tags: [query, cannabis, concentrates, extraction, hashish]
 date: 2026-05-10
 updated: 2026-05-10

@@ -58,7 +58,7 @@ Sanghuang has been used in traditional Chinese medicine since at least the Han d
 
 Classical preparations involve simmering dried fruiting bodies for extended periods to extract water-soluble polysaccharides. Modern extraction methods use hot water, ethanol, or supercritical CO₂ to isolate specific bioactive fractions.
 
-Contemporary research has focused on the immunomodulatory, anti-tumor, and hepatoprotective properties of sanghuang extracts. Several *Sanghuangporus* species are now commercially cultivated in China, primarily *S. vaninii*, for the production of dietary supplements and functional foods.
+Contemporary research has focused on the immunomodulatory, anti-tumor, and hepatoprotective properties of sanghuang extracts. Several *Sanghuangporus* species are now commercially cultivated in China, primarily *S. vaninii*, for the production of [[medicinal-mushroom-dietary-supplements-and-future-development]] functional foods.
 
 Clinical studies on sanghuang preparations have reported benefits for immune function, fatigue reduction, and as adjunctive therapy in cancer treatment. However, most studies use multi-species sanghuang preparations rather than single-species isolates.
 
@@ -66,9 +66,9 @@ Clinical studies on sanghuang preparations have reported benefits for immune fun
 
 [[oyster-mushroom-supplemented-sawdust-blocks]] has been successfully developed for *S. vaninii* and *S. baumii*.
 
-*S. lonicericola* has not yet been commercially cultivated, likely due to its recent description and the difficulty of sourcing reliable inoculum. Its natural host specificity for *Lonicera* wood may present challenges for substrate formulation.
+*S. lonicericola* has not yet been commercially cultivated, likely due to its recent description and the difficulty of sourcing reliable inoculum. Its natural host specificity for *Lonicera* wood may present challenges for [[chen-maitake-substrate-formulation]].
 
-Optimal cultivation parameters for related sanghuang species include incubation temperatures of 25–28°C, relative humidity above 85%, and a fruiting [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] of 20–25°C. Spawn run typically requires 40–60 days depending on substrate composition.
+Optimal [[mushroom-species-cultivation-parameters]] for related sanghuang species include incubation temperatures of 25–28°C, relative humidity above 85%, and a fruiting [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] of 20–25°C. Spawn run typically requires 40–60 days depending on substrate composition.
 
 The growing market for sanghuang-based health products in China and Southeast Asia creates potential incentive for developing cultivation protocols for less common species like *S. lonicericola*.
 
@@ -77,7 +77,7 @@ The growing market for sanghuang-based health products in China and Southeast As
 ## Overview
 
 Sanghuangporus Lonicericola represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Sanghuangporus Lonicericola finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 sanghuangporus lonicericola and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

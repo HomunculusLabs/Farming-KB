@@ -31,7 +31,7 @@ orally active psychedelics known.
 
 Originally developed for 5-HT2A receptor imaging research (Cimbi-36),
 it has appeared on the recreational market as blotter paper, often
-mislabeled as LSD.
+mislabeled as [[lsd]].
 
 ## Chemical Properties
 

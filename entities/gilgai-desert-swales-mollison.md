@@ -68,7 +68,7 @@ Permaculture designers can apply gilgai principles by:
 
 ## See Also
 
-- [Dryland Salting](dryland-salting-mollison.md) — salinisation process affecting gilgai environments
+- [Dryland Salting]([[dryland-salting-mollison]].md) — salinisation process affecting gilgai environments
 - [Deflocculation](deflocculation-soil-mollison.md) — soil structural collapse in vertisols
 - [Bassia (Desert Pioneers)]([[net-and-pan-planting]]([[net-and-pan-planting]].md) — designed system inspired by natural swale forms
 - [Soil Water Dynamics]([[soil-water-dynamics-mollison]].md) — broader context of soil-water interactions

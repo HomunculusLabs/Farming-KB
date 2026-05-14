@@ -1,5 +1,5 @@
 ---
-title: "Apple [[avocado-cultivation-and-variety-guide]] Guide"
+title: "Apple Cultivation And Variety Guide"
 subtitle: "A comprehensive guide to growing apples, from coleman-winter-greens-variety-selection, and mycological-permaculture-integration"
 tags: [fruit-trees, apples, orchard, cultivation, pruning, rootstocks, varieties, permaculture, pollination, pests, diseases]
 date: 2026-05-09

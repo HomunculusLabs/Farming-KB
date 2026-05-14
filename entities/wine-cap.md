@@ -1,5 +1,5 @@
 ---
-title: "Wine wine-cap-mushroom-cultivation (Stropharia rugosoannulata)"
+title: Wine Cap
 created: 2026-05-07
 type: species
 tags:
@@ -14,11 +14,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, P. (2000). "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." 3rd ed. Ten Speed Press.
+  - Stamets, P. (2000). "growing-gourmet-abalone-oyster-cystidiosus-cultivation and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." 3rd ed. Ten Speed Press.
   - Szudy, E. (2017). "Stropharia rugosoannulata: The Wine-Cap Mushroom, a Promising Species for Permaculture." Mycosphere, 8(4), 537-551.
   - Zervakis, G., et al. (2012). "Cultivation of the bloomfield-boletus-satanus-edible-mushroom-hazards Stropharia rugosoannulata on Agro-Industrial Residues." Bioresource Technology, 114, 494-502.
   - Piattoni, F., et al. (2014). "Soil Fertility and Mycological Properties as Affected by Stropharia rugosoannulata." Applied Soil Ecology, 73, 1-9.
-  - Cleary, T., et al. (2019). "Optimization of Wine Cap Cultivation on Hardwood Chips." Mushroom Science, 19(2), 167-178.
+  - Cleary, T., et al. (2019). "Optimization of [[comparison-maitake-vs-wine-cap-cultivation]] Cultivation on Hardwood Chips." [[fungal-education-curriculum-mushroom-science]], 19(2), 167-178.
 ---
 
 ## Overview
@@ -28,7 +28,7 @@ sources:
 - king-stropharia-wine-cap-cultivation
 ## Practical Applications
 
-Wine Cap Mushroom (Stropharia rugosoannulata) has a range of practical applications that make it relevant to
+[[wine-cap-mushroom-cultivation]] (Stropharia rugosoannulata) has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -43,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

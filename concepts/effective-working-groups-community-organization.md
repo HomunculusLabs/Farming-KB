@@ -1,5 +1,5 @@
 ---
-title: [[effective-working-groups]] [[bioregionalism-and-community-organization]]
+title: "Effective Working Groups Community Organization"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - D'Arcy, W.G. (1991). "Cestrum." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of North America North of Mexico, Vol. 24. Oxford University Press.
+  - D'Arcy, W.G. (1991). "Cestrum." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of guzman-psilocybin-mushrooms-north-america North of Mexico, Vol. 24. Oxford University Press.
   - Hunziker, A.T. (2001). Genera Solanacearum: The Genera of Solanaceae Illustrated, Arranged According to a New System. A.R.G. Gantner Verlag.
   - Mabberley, D.J. (2017). Mabberley's Plant-Book: A Portable Dictionary of Plants, Their Classification and Uses, 4th ed. Cambridge University Press.
   - Nelson, L.S. et al. (2007). Handbook of Poisonous and Injurious Plants, 2nd ed. Springer.
@@ -53,9 +53,9 @@ Fruit are small, globose berries approximately 8 to 10 millimeters in diameter, 
 
 ## Distribution and Habitat
 
-Cestrum nocturnum is native to the West Indies, Central America, and northern South America, with a natural range extending from Cuba and Jamaica through Mexico to Colombia and Venezuela.
+Cestrum nocturnum is native to the West Indies, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and northern South America, with a natural range extending from Cuba and Jamaica through Mexico to Colombia and Venezuela.
 
-It has been introduced widely across tropical and subtropical regions and is now naturalized in parts of the southern United States, southeastern Asia, [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
+It has been introduced widely across tropical and subtropical regions and is now naturalized in parts of the southern [[dmt-containing-plants-united-states-halpern]], southeastern Asia, [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
 
 ## Cultivation
 
@@ -71,10 +71,10 @@ Fertilization with a balanced, slow-release fertilizer applied two to three time
 
 Pruning should be done after flowering to maintain shape and remove dead or straggly growth.
 
-Hard pruning in early spring rejuvenates overgrown specimens, as the species flowers on new growth.
+Hard pruning in [[coleman-overwintered-onions-and-early-spring-crops]] rejuvenates overgrown specimens, as the species flowers on new growth.
 
-Hardiness is limited to USDA zones 9 to 11, with freeze damage occurring below 28 degrees Fahrenheit.
+Hardiness is limited to USDA zones 9 to 11, with [[query-how-do-i-protect-plants-from-frost-and-freeze-damage]] occurring below 28 degrees Fahrenheit.
 
 In cooler climates, the species can be grown in containers and overwintered indoors in a bright, frost-free location.
 
-Pest issues are generally minor, though whiteflies, scale insects, and spider mites may affect plants grown under stress or in greenhouse conditions.
+Pest issues are generally minor, though whiteflies, scale insects, and [[cervantes-spider-mites-identification-control]] may affect plants grown under stress or in greenhouse conditions.

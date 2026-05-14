@@ -141,3 +141,9 @@ Cold air drains downhill and collects in low spots. Avoid placing frost-sensitiv
 - [[chinampas]]
 - [[herb-spiral]]
 - [[hugelkultur]]
+
+## See Also
+
+- [[permaculture-design-criteria-and-implementation-priorities]]
+- [[permaculture-design-principles-and-social-change]]
+- [[permaculture-design-professional-practice]]

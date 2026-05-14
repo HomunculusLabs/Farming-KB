@@ -14,7 +14,7 @@ sources: []
 Asian gourmet mushrooms with deep culinary and cultural roots in Japan.
 Nameko (Pholiota nameko) is a small, amber-capped mushroom prized for
 its distinctive gelatinous coating and nutty flavor, ranking as Japan's
-third most cultivated species. Maitake (Grifola frondosa), known as
+third most cultivated species. Maitake ([[grifola-frondosa]]), known as
 "hen of the woods," produces large, clustered fruiting bodies with a
 rich, earthy taste and significant medicinal value. Both grow on
 hardwood substrates but differ dramatically in cultivation difficulty,
@@ -24,8 +24,8 @@ yield expectations, and market positioning.
 
 [[maitake-cultivation-guide]]
 
-Maitake is among the most challenging cultivated mushrooms, demanding
-precise environmental control throughout its extended growth cycle.
+Maitake is among the most challenging [[fungi-cultivated-mushrooms-pathogens-competitors]], demanding
+precise [[chen-maitake-growth-parameters-environmental-control]] throughout its extended growth cycle.
 Unlike oyster or shiitake, maitake is highly aerobic and should not
 share a growing room with other species. Strain selection is critical:
 roughly 90% of wild isolates and culture collection strains do not
@@ -33,7 +33,7 @@ fruit reliably, making verified fruiting strains essential.
 
 The cultivation timeline spans approximately 3-3.5 months. Spawn run
 alone takes 30-40 days at 20-25°C, followed by a maturation period
-that can extend another 30+ days. Substrate formulation matters more
+that can extend another 30+ days. [[chen-maitake-substrate-formulation]] matters more
 than for most species. Alice Chen's research established proven
 formulas using hardwood sawdust (fine + coarse, 3:1 ratio) supplemented
 with 18-23% wheat bran. Some formulations include forest soil at 10-15%
@@ -67,7 +67,7 @@ representing substantial production per block.
 ## When to Choose Nameko
 
 Nameko is the better choice for growers seeking a manageable entry into
-specialty mushroom cultivation beyond oyster and shiitake. Its shorter
+specialty [[accessible-mushroom-cultivation-for-disabilities]] beyond oyster and shiitake. Its shorter
 cultivation cycle (6-8 weeks total) allows faster turnover and quicker
 learning. The species is forgiving of minor environmental fluctuations,
 and most commercially available strains fruit reliably without the
@@ -97,7 +97,7 @@ substrate formulation research.
 
 ## Shared Considerations
 
-Both species share several cultivation fundamentals that make them
+Both species share several [[mushroom-cultivation-fundamentals]] that make them
 natural comparisons. Both are hardwood-loving saprobes that thrive on
 oak and beech sawdust supplemented with wheat bran at similar pH ranges
 (5.5-6.5). Both require sterilized substrate rather than pasteurized,

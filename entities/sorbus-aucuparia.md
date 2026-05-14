@@ -19,22 +19,22 @@ sources:
 
 ## Overview
 
-Sorbus aucuparia, commonly known as rowan or European mountain ash, is a small to medium deciduous tree in the family Rosaceae. It is native to most of Europe, parts of western Asia, and North Africa, and has been widely planted as an ornamental tree in temperate regions worldwide.
+Sorbus aucuparia, commonly known as rowan or European mountain ash, is a small to medium deciduous tree in the family Rosaceae. It is native to most of Europe, parts of western Asia, and North Africa, and has been widely planted as an ornamental tree in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species is best known for its clusters of bright orange-red berries that persist well into winter, providing a striking visual display and an important food source for birds. Rowan has deep [[psilocybin-north-america-pacific-northwest]], particularly in the northeastern [[mollison-designers-food-forest-succession-design]], establishing on exposed sites and providing shelter for more shade-tolerant species that eventually replace it. Its ability to colonize rocky and nutrient-poor sites makes it a valuable pioneer species.
 
-The tree's root system is relatively shallow but widespread, forming beneficial mycorrhizal associations with soil fungi. These relationships enhance [[plant-nutrient-uptake-mechanisms]] and contribute to soil stability on steep slopes and exposed sites.
+The tree's root system is relatively shallow but widespread, forming beneficial [[plants-without-mycorrhizal-associations]] with soil fungi. These relationships enhance [[plant-nutrient-uptake-mechanisms]] and contribute to soil stability on steep slopes and exposed sites.
 
 ## Cultural Significance
 
-Rowan occupies a prominent position in the folklore and mythology of Celtic, Norse, and Germanic traditions. In Celtic mythology, the rowan was considered sacred and was believed to offer protection against malevolent forces, evil spirits, and witchcraft.
+Rowan occupies a prominent position in the [[bloomfield-fungi-in-folklore-and-mythology]] of Celtic, Norse, and Germanic traditions. In Celtic mythology, the rowan was considered sacred and was believed to offer protection against malevolent forces, evil spirits, and witchcraft.
 
 The tree was one of the sacred trees in the Celtic tree calendar, representing the month of July. Crosses made from rowan twigs were traditionally sewn into clothing or tied to cattle tails as protective charms against enchantment.
 
 ## Overview
 
 Sorbus Aucuparia represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -55,7 +55,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Sorbus Aucuparia finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -84,7 +84,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 sorbus aucuparia and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

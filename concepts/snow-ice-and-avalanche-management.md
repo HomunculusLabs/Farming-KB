@@ -6,7 +6,7 @@ type: concept
 
 # Snow, Ice, and Avalanche Management
 
-In cold-climate [[permaculture-design]], snow and ice are not merely hazards to endure — they are resources to be managed, harvested, and strategically deployed. Understanding the physical properties of frozen water enables designers to protect infrastructure, store precipitation for dry-season use, concentrate solar energy, and safeguard human settlements from [[avalanche]] risk. This page synthesizes the key principles from [[bill-mollison]]'s treatment of ice management, snow physics, and avalanche dynamics.
+In cold-climate [[permaculture-design]], snow and ice are not merely hazards to endure — they are resources to be managed, harvested, and strategically deployed. Understanding the physical properties of frozen water enables designers to protect infrastructure, store precipitation for dry-season use, concentrate solar energy, and safeguard human settlements from [[avalanche-phenomenon]] risk. This page synthesizes the key principles from [[bill-mollison]]'s treatment of ice management, snow physics, and avalanche dynamics.
 
 ## Ice Management
 
@@ -40,7 +40,7 @@ Ice possesses unique properties that make it useful far beyond simple thermal ap
 Snow is a form of delayed precipitation that can be actively managed within a [[permaculture]] design:
 
 - **Compacted snow** endures for more than one season, making it a viable medium-term water storage mechanism.
-- Snow is caught on **fences and hedgerows**, which act as windbreaks that cause snow to deposit in useful locations rather than being blown away.
+- Snow is caught on **[[living-fences-and-hedgerows]]**, which act as windbreaks that cause snow to deposit in useful locations rather than being blown away.
 - Deposited snow can be **directed into mounds** for controlled meltdown into swales and cisterns during spring thaw, effectively time-shifting precipitation to the growing season.
 
 ### Snow Albedo and Passive Solar Heating
@@ -118,7 +118,7 @@ A critical and often underestimated hazard is the **avalanche air wave**:
 
 ### Design Implications
 
-In permaculture site design for mountainous or snowy terrain:
+In [[permaculture-site-design-and-zones]] for mountainous or snowy terrain:
 
 1. **Zone placement**: Never site dwellings, animal shelters, or critical infrastructure in identified avalanche runout zones.
 2. **Forest management**: High-altitude forests are the most cost-effective avalanche defense — protect them as a priority.
@@ -128,4 +128,4 @@ In permaculture site design for mountainous or snowy terrain:
 
 ## Summary
 
-Snow, ice, and avalanche management in permaculture design integrates physical science with practical land-use strategy. Ice serves as a building material, optical tool, and thermal consideration. Snow functions as a storable water resource, a passive solar reflector, and an insulator — but also as a hazard when conditions for avalanche are met. The designer's task is to read the landscape for slope, wind, and snow accumulation patterns, then deploy forests, earthworks, structures, and settlement patterns that maximise the benefits of frozen water while minimising its dangers.
+Snow, ice, and avalanche [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]] design integrates physical science with practical land-use strategy. Ice serves as [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]], optical tool, and thermal consideration. Snow functions as a storable water resource, [[query-how-to-build-a-passive-solar-greenhouse]] reflector, and an insulator — but also as a hazard when conditions for avalanche are met. The designer's task is to read the landscape for slope, wind, and snow [[psilocybin-psilocin-flush-accumulation-patterns]], then deploy forests, earthworks, structures, and settlement patterns that maximise the benefits of frozen water while minimising its dangers.

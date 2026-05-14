@@ -1,5 +1,5 @@
 ---
-title: teaming-with-nutrients-natural-vs-synthetic-fertilizers Drugs in Food of the Gods
+title: Mckenna Food Gods Natural Synthetic Drugs
 created: 2026-04-28
 tags: [drugs, natural, synthetic, mckenna, ethnobotany]
 date: 2026-04-28

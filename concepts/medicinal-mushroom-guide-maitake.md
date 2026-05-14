@@ -1,5 +1,5 @@
 ---
-title: Maitake (Grifola frondosa) — Medicinal Mushroom Guide
+title: Medicinal Mushroom Guide Maitake
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -40,7 +40,7 @@ Maitake is considered one of the most potent immune-activating mushrooms, with p
 - The D-fraction has been the subject of significant research, particularly by Dr. Hiroaki Nanba in Japan.
 - Demonstrated anti-tumor activity in animal models across multiple cancer types.
 - Enhances effectiveness of chemotherapy while reducing side effects.
-- Shown to activate immune cells at lower doses than many other medicinal mushrooms.
+- Shown to activate immune cells at lower doses than many other [[anti-cancer-polysaccharides-from-medicinal-mushrooms]].
 
 ## Metabolic Health
 
@@ -105,9 +105,9 @@ Maitake is commercially cultivated but considered one of the more challenging me
 - **Substrate:** Hardwood sawdust (oak preferred) supplemented with wheat bran (10-15%).
 - **Spawn:** Typically grain spawn (rye or millet).
 - **Colonization:** 30-45 days at 72-78°F (22-26°C), high CO2.
-- **Fruiting initiation:** Requires a cold shock (drop to 55-65°F / 13-18°C) and high humidity (90-95%).
+- **[[fruiting-initiation]]:** Requires a cold shock (drop to 55-65°F / 13-18°C) and high humidity (90-95%).
 - **Fruiting time:** 2-3 weeks after induction.
-- **Yield:** Biological efficiency of 30-50%.
+- **Yield:** [[biological-efficiency]] of 30-50%.
 - Fresh air exchange is critical for proper cluster formation.
 
 Can also be inoculated into outdoor oak stumps or buried logs, fruiting in fall.
@@ -117,7 +117,7 @@ Can also be inoculated into outdoor oak stumps or buried logs, fruiting in fall.
 - Very safe with long culinary history.
 - May lower blood sugar — monitor closely with diabetes medications to avoid hypoglycemia.
 - May lower blood pressure — caution with antihypertensive drugs.
-- Immune-stimulating effects — use caution with autoimmune conditions and immunosuppressants.
+- Immune-stimulating effects — use caution with [[blesching-cannabis-health-index-autoimmune-conditions]] and immunosuppressants.
 - Avoid during pregnancy and breastfeeding (insufficient data, though culinary amounts are likely safe).
 - Rare allergic reactions in sensitive individuals.
 

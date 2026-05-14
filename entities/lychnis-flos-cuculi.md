@@ -84,7 +84,7 @@ Ragged robin is cultivated in wildflower meadows, bog gardens, and naturalistic 
 
 Hardy to USDA zones 4–8. Plants are long-lived perennials that self-seed freely in suitable conditions. They establish readily from seed sown in autumn or early spring.
 
-The species tolerates brief seasonal flooding and grows well in the damp margins of ponds and streams. It combines effectively with other moisture-loving wildflowers like *Caltha palustris* and *Myosotis scorpioides*.
+The species tolerates brief seasonal flooding and grows well in the damp margins of ponds and streams. It combines effectively with other moisture-loving wildflowers like *[[caltha-palustris]]* and *Myosotis scorpioides*.
 
 Unlike many Caryophyllaceae, ragged robin tolerates light shade and performs well in woodland edge plantings. However, flowering is most profuse in full sun positions where soils remain consistently moist.
 

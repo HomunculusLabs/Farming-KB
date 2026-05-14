@@ -3,7 +3,8 @@ title: "Reishi vs Oyster Mushroom Cultivation"
 tags: [comparison, reishi, oyster-mushroom, cultivation, medicinal-mushroom]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
 
 # Reishi vs Oyster Mushroom Cultivation

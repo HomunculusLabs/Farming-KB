@@ -10,12 +10,12 @@ The orientation and placement of ponds relative to climate, wind,
 and sun directly affects water temperature, oxygenation, and
 fish and plant productivity.
 
-The criteria mirror passive solar house design: managing heat
+The criteria mirror [[comparison-passive-solar-vs-earth-sheltered]] house design: managing heat
 gain, heat loss, wind exposure, and shelter.
 
 ## Cold Climates
 
-In cold climates, oxygenation is less important than heating.
+[[query-how-do-i-grow-figs-in-cold-climates]], oxygenation is less important than heating.
 
 The primary goal is extending warmth during cool periods to
 maximize the fish-growing season.
@@ -29,7 +29,7 @@ to deflect cold winds.
 
 Where cold winter winds alternate with warm summers, ponds face
 competing demands: summer oxygenation (warm water holds less
-dissolved oxygen) and winter protection from freezing.
+[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]) and winter protection from freezing.
 
 Deciduous windbreaks on the windward side provide summer
 breezeway flow while creating a dense winter barrier when
@@ -42,7 +42,7 @@ shallow ponds to prevent lethal temperatures.
 
 Trellises and high shade hedgerows reduce overheating while
 allowing air movement; wind tunnels below hedge lines promote
-evaporative cooling; and deeps on shaded edges provide cool-water
+[[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]; and deeps on shaded edges provide cool-water
 refuges.
 
 On streams, wind aeration and shade prevent the overheating and
@@ -53,9 +53,9 @@ stagnation that commonly affect slow-flowing watercourses.
 In regions with four distinct seasons, design must accommodate
 shifting demands: spring warmth capture to jump-start biological
 activity, summer shade and aeration, autumn temperature moderation
-to extend the growing season, and winter freeze protection.
+to [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season, and winter freeze protection.
 
-Each season requires different pond management strategies, making
+Each season requires different pond [[forest-management-strategies]], making
 continental climates the most challenging for aquaculture design.
 
 ## Site Selection

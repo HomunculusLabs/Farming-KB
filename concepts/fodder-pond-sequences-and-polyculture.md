@@ -77,3 +77,9 @@ Semi-aquatic and bank plants including Nasturtium, Tradescantia, *Dolichos*, and
 ## The Shallow Water Proportion
 
 Research (Swingle, 1966) proposes that up to 50% of a catfish pond can be devoted to shallows. These shallow areas provide food (primarily shrimp and invertebrates) for the main fish species, not at a cost of reducing fish numbers, but rather at a gain in the energy efficiency needed to feed them. This principle generalises across species and is a key insight for designing productive polyculture systems.
+
+## Background and Context
+
+- Historical development and key contributors
+- Relationship to broader ecological frameworks
+- Evolution of understanding through research

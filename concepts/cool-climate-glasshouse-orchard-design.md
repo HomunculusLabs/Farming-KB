@@ -147,4 +147,4 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[cool-climate-home-garden-and-seed-saving]]
+- [[cool-climate-home-garden-design]]

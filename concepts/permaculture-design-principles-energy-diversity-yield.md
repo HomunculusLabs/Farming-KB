@@ -1,5 +1,5 @@
 ---
-title: Permaculture Design Principles - Energy Diversity and Yield
+title: Permaculture Design Principles Energy Diversity Yield
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -16,7 +16,7 @@ The core design task is to create useful storages between source and sink. The m
 
 Mollison emphasized that energies unusable in a mechanical sense are often highly usable in a biological sense. A designer needs both biological and mechanical storages. Energy cannot be created or destroyed, only transformed — so the choice is always whether to store it or let it leave the system. Once released, recovery requires enormous additional energy input.
 
-The closer to the source that intervention occurs, the more useful the network of storages and flows that can be established. This principle has direct implications for [[water-management]], solar energy capture, nutrient cycling, and even social organization.
+The closer to the source that intervention occurs, the more useful the network of storages and flows that can be established. This principle has direct implications for [[water-management]], [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]], nutrient cycling, and even social organization.
 
 ## Resource Classification
 
@@ -39,7 +39,7 @@ A critical insight governs all resource management: any integrated system can on
 
 ## Diversity: Connections, Not Count
 
-Mollison offered one of his most important clarifications about diversity: "Diversity isn't involved so much with the number of elements in a system as it is with the number of functional connections between these elements." This distinction is fundamental to permaculture design and is frequently misunderstood.
+Mollison offered one of his most important clarifications about diversity: "Diversity isn't involved so much with the number of elements in a system as it is with the number of [[component-analysis-and-functional-connections]] between these elements." This distinction is fundamental to [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] is frequently misunderstood.
 
 A system with 3,000 species but no functional connections between them is less stable and less productive than a system with 30 species and 3,000 beneficial interactions. Mollison illustrated this by analyzing a greenhouse connected to a chicken coop, identifying 129 beneficial connections between just these two elements — heat exchange, CO₂ cycling, manure production, insect control, food production, weed seed consumption, and many more.
 
@@ -47,7 +47,7 @@ Diversity of itself, without functional organization, provides no stability or a
 
 ## Guilds and Functional Design
 
-The practical expression of functional diversity is the guild — a group of elements (plants, animals, structures) that work harmoniously together. In a permaculture garden, elements serve multiple roles: some are manurial or energy-exchange systems for other elements; others provide defensive protection (pest deterrence, wind shelter, shade); some act as trellis systems or structural supports. The rules governing placement include orientation to sun and wind, zonation by frequency of use, and interaction effects between neighboring elements.
+The practical expression of [[fungal-functional-diversity-decomposition]] is the guild — a group of elements (plants, animals, structures) that work harmoniously together. In a permaculture garden, elements serve multiple roles: some are manurial or energy-exchange systems for other elements; others provide defensive protection (pest deterrence, wind shelter, shade); some act as trellis systems or structural supports. The rules governing placement include orientation to sun and wind, zonation by frequency of use, and interaction effects between neighboring elements.
 
 The goal is not to maximize species count but to maximize beneficial function. As Mollison put it: "It is the number of niches in a system that will allow a number of species and varieties to co-survive. It is the woodpecker's hole within the forest."
 
@@ -77,4 +77,4 @@ This observation leads to a design principle: every intervention in a living sys
 
 ## Design for Remedial Action
 
-Against the backdrop of environmental crisis, Mollison argued that design for permanence means moving toward forests, permanent pastures, lakes and ponds, and non-tillage agriculture. The practical strategies include converting investment capital to low-energy systems, adding greenhouses to residences, creating self-reliant bioregions, and training large numbers of permaculture designers. The ethic is cooperative, not competitive; the knowledge is open, not proprietary; the timescale is urgent, not leisurely.
+Against the backdrop of environmental crisis, Mollison argued that design for permanence means moving toward forests, permanent pastures, lakes and ponds, and non-tillage agriculture. The practical strategies include converting investment capital to low-energy systems, adding greenhouses to residences, creating self-reliant bioregions, and training large numbers [[preface-and-author-context-of-permaculture-designers-manual]]. The ethic is cooperative, not competitive; the knowledge is open, not proprietary; the timescale is urgent, not leisurely.

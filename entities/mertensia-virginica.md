@@ -13,7 +13,7 @@ updated: 2026-05-10
 sources:
   - Cochrane, T.S. (2006). "Mertensia." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 16.
   - RHS (2024). "Mertensia virginica." Royal Horticultural Society Plant Finder.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada, 2nd ed. New York Botanical Garden.
+  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada, 2nd ed. New York Botanical Garden.
   - Weakley, A.S. (2020). Flora of the Southeastern United States. University of [[polypore-fungi-eastern-north-america]] and is among the most recognizable wildflowers of eastern deciduous forests.
 
 The plant produces nodding, trumpet-shaped flowers that emerge pink and mature to a distinctive porcelain blue. It forms large, showy colonies in floodplain forests and moist woodlands in early to mid-spring.
@@ -22,7 +22,7 @@ Virginia bluebells are valued in shade gardens for their intense blue flower col
 
 The genus name Mertensia honors Franz Carl Mertens, an 18th-century German botanist. The species epithet virginica refers to the Colony of Virginia, where the plant was first documented by European botanists.
 
-Meriwether Lewis collected Mertensia virginica specimens during the Lewis and Clark Expedition. The species was later used as a model organism in studies of flower color change and anthocyanin biosynthesis.
+Meriwether Lewis collected Mertensia virginica specimens during the Lewis and Clark Expedition. The species was later used as a [[canary-grass-phototropism-model-organism]] in studies of flower color change and anthocyanin biosynthesis.
 
 ## Taxonomy
 
@@ -36,7 +36,7 @@ Meriwether Lewis collected Mertensia virginica specimens during the Lewis and Cl
 - **Genus:** Mertensia
 - **Species:** Mertensia virginica (L.) Pers.
 
-The genus Mertensia contains approximately 45 species, with centers of diversity in western North America and central Asia. Mertensia virginica is the only eastern North American species commonly cultivated.
+The genus Mertensia contains approximately 45 species, with centers of diversity in western [[guzman-psilocybin-mushrooms-north-america]] and central Asia. Mertensia virginica is the only eastern [[growing-gourmet-north-american-reishi-species]] species commonly cultivated.
 
 It is closely related to the western North American species Mertensia paniculata (tall bluebells) and [[mushroom-natural-habitats]].
 
@@ -70,11 +70,11 @@ The species has been documented in over 300 counties across its range, with the 
 
 Large natural colonies numbering thousands of individuals occur in protected floodplain forests in Virginia, Ohio, and Indiana. These spring displays are popular destinations for wildflower enthusiasts.
 
-Climate change modeling predicts a northward range shift for Mertensia virginica over the coming decades. Populations in the southern Appalachian portion of the range may be most vulnerable to warming.
+[[dighton-fungal-responses-climate-change]] modeling predicts a northward range shift for Mertensia virginica over the coming decades. Populations in the southern Appalachian portion of the range may be most vulnerable to warming.
 
 ## Cultivation
 
-Virginia bluebells are easily grown in moist, humus-rich soil in partial to full shade. Plant dormant roots in autumn or early spring, setting them 5 cm deep and 20–30 cm apart.
+Virginia bluebells are easily grown in moist, humus-rich soil in partial to full shade. Plant dormant roots in autumn or [[coleman-overwintered-onions-and-early-spring-crops]], setting them 5 cm deep and 20–30 cm apart.
 
 Plants are hardy to USDA zones 3–8 and require no special winter care. They tolerate clay soils and seasonal flooding but decline in consistently dry conditions.
 

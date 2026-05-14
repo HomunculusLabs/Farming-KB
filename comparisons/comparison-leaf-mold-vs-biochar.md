@@ -69,7 +69,7 @@ water-retention and structure-improving properties have the most dramatic
 impact. Woodland gardens, shade gardens, and perennial beds that mimic forest
 conditions benefit enormously from leaf mold's fungal-dominated biology.
 
-Choose leaf mold when your priority is feeding [[the-soil-food-web]] rather than
+Choose leaf mold when your priority is feeding [[soil-food-web]] rather than
 adding specific nutrients. It is also the better option for gardeners who want
 immediate results without special equipment -- just pile leaves and wait.
 

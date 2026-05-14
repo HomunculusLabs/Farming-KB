@@ -17,7 +17,7 @@ one of the driest inhabited islands on Earth.
 ## Classification
 
 - **Category**: Water harvesting technique, agricultural earthwork
-- **Domain**: Desert agriculture, volcanic terrain cultivation, arid viticulture
+- **Domain**: [[condensation-strategies-desert-agriculture]], volcanic terrain cultivation, arid viticulture
 - **Technology level**: Low-tech, traditional
 - **Geographic origin**: Lanzarote, Canary Islands, Spain
 
@@ -48,7 +48,7 @@ one of the driest inhabited islands on Earth.
 ## Applications
 
 - Vine cultivation (primary use on Lanzarote)
-- Tree planting in arid volcanic terrain
+- [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]] in arid volcanic terrain
 - Potato ridges on sloping country
 - Orchards in sloping terrain
 - Home gardens wherever cinder is plentiful
@@ -60,7 +60,7 @@ one of the driest inhabited islands on Earth.
 - Enables agriculture without rainfall dependence
 - Low maintenance after initial construction
 - Protects from wind at ground level
-- Provides thermal mass for temperature moderation
+- Provides [[comparison-windbreak-vs-thermal-mass]] for temperature moderation
 
 ## Key Facts
 
@@ -74,10 +74,10 @@ one of the driest inhabited islands on Earth.
 
 ## Relevance to Cultivation
 
-Demonstrates how traditional knowledge enables agriculture in seemingly impossible
-conditions. Particularly relevant for volcanic islands and arid regions with
+Demonstrates how [[wasted-human-resources-and-traditional-knowledge]] enables agriculture in seemingly impossible
+conditions. Particularly relevant for volcanic islands and [[fukuoka-natural-farming-in-arid-regions]] with
 access to volcanic material. Works with natural daily temperature cycles and sea
-wind patterns to harvest water passively without any energy input.
+[[wind-patterns-and-beaufort-scale]] to harvest water passively without any energy input.
 
 ## References
 

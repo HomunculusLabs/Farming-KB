@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Sustainable fuel production system for desert settlements using closely-spaced
+Sustainable [[on-farm-alcohol-fuel-production-from-cellulose]] system for desert settlements using closely-spaced
 trees on 4-6 year rotational cutting cycle. Trees at 2-3m spacing on trickle
 irrigation, harvested as coppice, regrow from stumps. Combined with perpetual
 shelter forest and anaerobic waste processing, provides all essential cooking
@@ -17,7 +17,7 @@ and public energy needs.
 ## Classification
 
 - **Category**: Fuel production system
-- **Domain**: Desert forestry, renewable energy, sustainable settlement
+- **Domain**: [[dune-stabilisation-and-desert-forestry]], [[holmgren-wind-power-and-renewable-energy-debate]], sustainable settlement
 - **Rotation**: 4-6 years
 - **Tree spacing**: 2-3 meters
 

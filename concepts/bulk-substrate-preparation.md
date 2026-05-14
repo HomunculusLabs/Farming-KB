@@ -89,7 +89,7 @@ Horse manure is a traditional substrate, especially for outdoor grows. It provid
 
 ### Straw
 
-Wheat or oat straw, chopped to 1-3 inch pieces. Excellent aeration and decent nutrition. Must be pasteurized thoroughly — straw is highly contamination-prone. Often used for oyster mushroom cultivation. Less common for cubensis monotubs due to the extra preparation work.
+Wheat or oat straw, chopped to 1-3 inch pieces. Excellent aeration and decent nutrition. Must be pasteurized thoroughly — straw is highly contamination-prone. Often used for [[oyster-mushroom-cultivation]]. Less common for cubensis monotubs due to the extra preparation work.
 
 ### Compost
 

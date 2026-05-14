@@ -53,7 +53,7 @@ Several cultivars have been selected for ornamental use. 'Summer Chocolate' feat
 
 A. julibrissin is native to a broad region spanning from Iran through Central Asia to China (Zhejiang, Fujian, Guangdong provinces) and Japan. It occurs naturally in warm-temperate to subtropical deciduous forests, forest margins, and riparian corridors at elevations up to 1,500 m.
 
-The species has been widely planted as an ornamental across temperate and subtropical regions worldwide. It is naturalized in the eastern and southeastern United States from New York to Texas, in southern Europe, South Africa, eastern Australia, and parts of [[air-pollution-fungal-community-responses]] and compacted soils, contributing to its popularity as a street and garden tree.
+The species has been widely planted as an ornamental across temperate and subtropical regions worldwide. It is naturalized in the eastern and southeastern [[dmt-containing-plants-united-states-halpern]] from New York to Texas, in southern Europe, [[table-mountain-south-africa-mollison]], eastern Australia, and parts of [[air-pollution-fungal-community-responses]] and compacted soils, contributing to its popularity as a street and garden tree.
 
 In the southeastern United States, A. julibrissin is listed as invasive in several states due to its prolific [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] is moderate, with hardiness rated to USDA Zone 6b in sheltered locations. However, young trees are susceptible to winter dieback in zones below 7, and the species performs best in regions with warm summers and mild winters.
 
@@ -67,7 +67,7 @@ Flavonoid constituents include quercetin, kaempferol, and their glycosides (quer
 
 Alkaloids identified in the species include (+)-syringaresinol, and several phenylethylamine derivatives, though the total alkaloid content is relatively low compared to saponins and flavonoids.
 
-Phenolic acids including caffeic acid, chlorogenic acid, and ferulic acid contribute additional antioxidant capacity. The total phenolic content of bark extracts has been quantified at 40–80 mg gallic acid equivalents per gram of dried material, depending on extraction solvent and method.
+Phenolic acids including caffeic acid, chlorogenic acid, and ferulic acid contribute additional antioxidant capacity. The total phenolic content of bark extracts has been quantified at 40–80 mg gallic acid equivalents per gram of dried material, depending on [[everclear-extraction-solvent]] and method.
 
 ## Pharmacology and Traditional Medicine
 

@@ -73,7 +73,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[cuncatuya]]
-- [[shamanism]]
+- shamanism
 - [[theobroma-cacao]]
 
 ## Overview

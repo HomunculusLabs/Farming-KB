@@ -1,5 +1,5 @@
 ---
-title: Immunomodulatory Mechanisms of Mushroom Polysaccharides
+title: Immunomodulatory Mechanisms Of Mushroom Polysaccharides
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
@@ -24,7 +24,7 @@ Includes:
 - **Cell-mediated immunity (CMI)**: Promotes inflammatory responses and ultimately kills infected or abnormal cells
 
 ### The Role of Immunomodulation
-"As a fully functional immune response is critical to the recognition and elimination of tumour cells, the identification of mushroom-derived compounds that are capable of stimulating components of innate or acquired immunities may be of potential benefit for cancer treatment."
+"As a fully functional immune response is critical to the recognition and elimination of tumour cells, the identification of mushroom-derived compounds that are capable of stimulating components of innate or acquired immunities may be of potential benefit for [[clinical-trials-of-mushroom-polysaccharides-in-cancer-treatment]]."
 
 ## Why Polysaccharides Are Effective Immunomodulators
 
@@ -41,7 +41,7 @@ Includes:
 
 ## Lentinan: The Model Immunomodulator
 
-[[lentinan]], a β-D-glucan from Lentinus edodes, is the most thoroughly studied mushroom polysaccharide. Its immunological activities are summarized below:
+[[lentinan]], a β-D-glucan from [[lentinus-edodes-entity-the-mushroom-cultivator]], is the most thoroughly studied mushroom polysaccharide. Its immunological activities are summarized below:
 
 ### Humoral Factors
 | Immune Activity | Effect |
@@ -60,7 +60,7 @@ Includes:
 |----------------|--------|
 | Polymorphonuclear leukocyte activation | + |
 | Peritoneal macrophage activation | + |
-| Natural killer cell activation | ++ (strong) |
+| Natural killer [[mushroom-immune-cell-activation-mechanisms]] | ++ (strong) |
 | Helper T cell activation | ++ (strong) |
 | Killer T cell activation | + |
 | Inhibit suppressor T-cell activity | + |
@@ -86,14 +86,14 @@ NK cells are **strong T-helper cell stimulants** both in vitro and in vivo. This
 "Lentinan can inhibit prostaglandin synthesis, which can slow T-cell differentiation in animals and humans, as well as inhibiting suppressor T-cell activity in vivo."
 
 ### LAK Cell Enhancement
-"Using the blood of healthy donors and cancer patients, Lentinan has been shown to stimulate peripheral blood lymphocytes in vitro to increase interleukin-2-mediated LAK-cell (lymphokine-activated killer cell) and NK cell activity."
+"Using the blood of healthy donors and [[cannabis-for-cancer-patients]], Lentinan has been shown to stimulate peripheral blood lymphocytes in vitro to increase interleukin-2-mediated LAK-cell (lymphokine-activated killer cell) and NK cell activity."
 
 ### Clinical Synergy
-"Lentinan has been shown to inhibit suppressor T-cell activity in vivo and to increase the ratio of activated T cells and cytotoxic T cells in the spleen when administered to gastric cancer patients undergoing chemotherapy."
+"Lentinan has been shown to inhibit suppressor T-cell activity in vivo and to increase the ratio of activated T cells and cytotoxic T cells in the spleen when administered to [[cancer-medicinal-mushrooms-psk-gastric-cancer]] patients undergoing chemotherapy."
 
 ## Additional Biological Activities of Lentinan
 
-- **Acute phase protein production**: Increased non-specific inflammatory response
+- **Acute phase [[fungal-single-cell-protein-production]]**: Increased non-specific inflammatory response
 - **Vascular dilation**: Haemorrhage-inducing factor in vivo
 - **Helper and cytotoxic T cell generation and activation**
 - **Enhanced phagocytosis**: Macrophage-mediated tumour cell destruction

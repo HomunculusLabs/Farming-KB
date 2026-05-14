@@ -73,7 +73,7 @@ edible when roasted. Seedless cultivars are produced through triploid breeding.
 
 The wild progenitor of cultivated watermelon (*C. lanatus* var. *citroides*) is
 native to the semi-arid regions of southern Africa, including Botswana, Namibia,
-South Africa, and Zimbabwe.
+[[table-mountain-south-africa-mollison]], and Zimbabwe.
 
 Wild watermelons served as a critical water source for indigenous peoples and
 nomadic herders traversing the Kalahari Desert for thousands of years.

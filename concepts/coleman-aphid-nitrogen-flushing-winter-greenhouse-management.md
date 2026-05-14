@@ -65,7 +65,7 @@ The winter production cycle had inadvertently created conditions of excess nitro
 The specific mechanism that Coleman identified was insufficient irrigation during the winter months.
 During the summer,
 regular rainfall and irrigation keep soil moisture levels adequate,
-supporting the biological activity of [[the-soil-food-web]]. The bacteria,
+supporting the biological activity of [[soil-food-web]]. The bacteria,
 fungi,  protozoa,
 and other soil organisms that make nutrients available to plants through biological processing require adequate moisture to remain active.
 

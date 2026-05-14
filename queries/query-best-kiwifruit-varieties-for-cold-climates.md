@@ -1,5 +1,5 @@
 ---
-title: "What Are the query best kiwifruit varieties for cold climates Varieties for Cold Climates?"
+title: Query Best Kiwifruit Varieties For Cold Climates
 tags:
   - kiwifruit
   - cold-climate
@@ -14,8 +14,8 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Ferguson AR (1999). "New Zealand kiwifruit: breeding and genetics." Acta Horticulturae.
-  - Latocha P et al. (2020). "Hardy kiwifruit (Actinidia arguta) — a review of genetic resources." Plants.
+  - Ferguson AR (1999). "New Zealand kiwifruit: marijuana-horticulture-cervantes-cannabis-breeding-and-genetics." Acta Horticulturae.
+  - Latocha P et al. (2020). "Hardy kiwifruit ([[actinidia-arguta]]) — a review of genetic resources." Plants.
   - Oregon State University Extension: Growing Kiwifruit in the cool-climate-home-garden-mollison.
   - University of Minnesota Extension: Hardy Kiwi in Minnesota.
 type: query
@@ -38,7 +38,7 @@ created: 2026-05-03
 - **Fruit:** 8–14 g, green, smooth skin. Sweet, excellent flavor.
 - **Ripening:** Late September to October.
 - **Pollinator:** Any *A. arguta* male.
-- **Notes:** Performs especially well in the Pacific Northwest. Good disease resistance.
+- **Notes:** Performs especially well in the [[psilocybin-north-america-pacific-northwest]]. Good disease resistance.
 
 ## Arctic Kiwi (*Actinidia kolomikta*) — Zones 3–5
 
@@ -65,7 +65,7 @@ For growers in Zone 3 or the coldest parts of Zone 4, arctic kiwi (*A. kolomikta
 - **Fruit:** 3–5 g, green, aromatic. Very fragrant.
 - **Ripening:** Mid to late August.
 - **Pollinator:** Any *A. kolomikta* male.
-- **Notes:** Known for exceptional aroma. Earlier ripening—good for very short growing seasons.
+- **Notes:** Known for exceptional aroma. Earlier ripening—good for very short [[jeavons-climate-adaptation-growing-seasons]].
 
 ### Male Pollinators for Arctic Kiwi
 
@@ -97,4 +97,4 @@ For growers in Zone 3 or the coldest parts of Zone 4, arctic kiwi (*A. kolomikta
 
 ## See Also
 
-- [[fruit-tree-pruning-training]] — pruning techniques for kiwi vines
+- [[fruit-tree-pruning-training]] — [[pruning-techniques-organic]] for kiwi vines

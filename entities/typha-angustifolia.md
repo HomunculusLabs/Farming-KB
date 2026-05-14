@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Grace, J.B. & Wetzel, R.G. (1981). "Habitat partitioning and competitive displacement in cattails (Typha): Experimental field studies." American Journal of Botany, 68(7), 952-959.
   - Kuehn, M.M. & White, B.N. (1999). "Morphological variation in the cattail hybrid complex (Typha latifolia × T. angustifolia) in eastern Canada." Canadian Journal of Botany, 77(3), 392-398.
-  - Smith, S.G. (1987). "Typhaceae." In: Flora of North America North of Mexico, Vol. 22, pp. 199-210. Oxford University Press.
+  - Smith, S.G. (1987). "Typhaceae." In: Flora [[huckleberries-and-wild-berries-of-north-america]] North of Mexico, Vol. 22, pp. 199-210. Oxford University Press.
   - Dykyjová, D. & Kvet, J. (1978). "Productivity of Typha angustifolia L. stands." In: Dykyjová, D. & Kvet, J. (eds.), Pond Littoral Ecosystems, pp. 225-239. Springer.
   - Apahidean, A.I. et al. (2014). "Heavy metal phytoremediation potential of Typha angustifolia and Typha latifolia." Notulae Botanicae Horti Agrobotanici Cluj-Napoca, 42(2), 388-394.
 ---
@@ -65,11 +65,11 @@ The species is effective at nutrient removal in [[comparison-constructed-wetland
 
 Root-zone oxidation by radial oxygen release from *Typha* roots creates aerobic microsites in otherwise anoxic sediments. This oxygen leakage supports nitrifying bacteria that convert ammonium to nitrate, enabling coupled nitrification-denitrification processes that remove nitrogen as nitrogen gas.
 
-The species also shows promise for organic pollutant removal, including petroleum hydrocarbons and certain pesticides. The extensive rhizome network supports diverse microbial communities that degrade organic contaminants through enhanced rhizodegradation.
+The species also shows promise for organic [[singh-fungal-biosurfactants-pollutant-removal]], including [[mycoremediation-petroleum-hydrocarbons]] and certain pesticides. The extensive rhizome network supports diverse microbial communities that degrade organic contaminants through enhanced rhizodegradation.
 
 ## Cultivation and Management
 
-*T. angustifolia* is readily propagated from rhizome divisions planted in shallow water (5–30 cm depth) during spring. Established stands spread rapidly through rhizomatous growth, often expanding 0.5–1.5 m per year. Seed germination requires moist, exposed sediment and is less reliable than vegetative propagation.
+*T. angustifolia* is readily propagated from rhizome divisions planted in shallow water (5–30 cm depth) during spring. Established stands spread rapidly through rhizomatous growth, often expanding 0.5–1.5 m per year. Seed germination requires moist, exposed sediment and is less reliable than [[hamilton-vegetative-propagation]].
 
 In constructed treatment wetlands, cattail is planted at densities of 4–8 plants per square meter. Stands reach full coverage within 2–3 growing seasons. Harvesting above-ground biomass annually removes accumulated nutrients and prevents excessive litter buildup that can impede water flow.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Typha Angustifolia finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 typha angustifolia and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -6,13 +6,13 @@ type: concept
 
 # Structural Forests and Forest Product Management
 
-Structural forests are managed specifically for timber, poles, and construction materials. In permaculture, the strongest structural timber is round, uncut timber from pioneer and edge species. These forests provide fence posts, building poles, coppice products, and a wide range of materials while simultaneously performing ecological functions such as soil building, windbreak, and wildlife habitat.
+Structural forests are managed specifically for timber, poles, and construction materials. In permaculture, the strongest structural timber is round, uncut timber from pioneer and edge species. These forests provide fence posts, building poles, coppice products, and a wide range of materials while simultaneously performing [[fungal-melanin-biosynthesis-ecological-functions]] such as soil building, windbreak, and [[hemenway-backyard-wildlife-habitat]].
 
 ## Round Timber vs. Saw Log
 
-A fundamental principle of permaculture forestry is that round pole timber is of far more use to the smallholder or community than saw logs. Only a small number of trees may be needed to rebuild a house. The emphasis on saw logging serves the interests of large-scale timber operations rather than self-reliant communities. When comparing economic returns, pole timber managed on short rotation (4-6 years for black locust posts) generates income far sooner than waiting 40 years for plank timber.
+A fundamental principle of [[permaculture-forestry-systems]] is that round pole timber is of far more use to the smallholder or community than saw logs. Only a small number of trees may be needed to rebuild a house. The emphasis on saw logging serves the interests of large-scale timber operations rather than self-reliant communities. When comparing economic returns, pole timber managed on short rotation (4-6 years for black locust posts) generates income far sooner than waiting 40 years for plank timber.
 
-Australian builders have demonstrated that an entire house framework can be constructed using approximately nine two-inch poles, then filled in with mud, brick, stone, wattling, or chicken wire and cement. The complete pole framework costs around $800. Chicken wire and cement are highlighted as particularly effective building materials, producing beautiful and durable homes.
+Australian builders have demonstrated that an entire house framework can be constructed using approximately nine two-inch poles, then filled in with mud, brick, stone, wattling, or chicken wire and cement. The complete pole framework costs around $800. Chicken wire and cement are highlighted as particularly effective [[gadd-fungal-biodegradation-concrete-building-materials]], producing beautiful and durable homes.
 
 ## Black Locust: The Premier Structural Tree
 
@@ -100,7 +100,7 @@ Dead and dying trees represent an opportunity for value-added processing through
 - **Creosote**: Wood preservation and proofing — can turn birch into rot-resistant timber
 - **Heat**: Massive thermal mass for home heating and hot water
 
-The system works by loading wood into a brick-lined container, lighting a fire underneath (separate from the wood being processed), and steaming out all volatile compounds. Flue gases passed through pond water precipitate calcium carbonate, which can be returned to fields. The French historically used a double-chamber brick system — one for fire, one for cooking timber.
+The system works by loading wood into a brick-lined container, lighting a fire underneath (separate from the wood being processed), and steaming out all [[mycovolatiles-fungal-volatile-compounds]]. Flue gases passed through pond water precipitate [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]], which can be returned to fields. The French historically used a double-chamber brick system — one for fire, one for cooking timber.
 
 This approach transforms firewood worth more than a cord into multiple high-value products while providing home heating and cooking gas.
 

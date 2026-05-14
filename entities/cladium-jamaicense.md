@@ -49,7 +49,7 @@ Rhizomes are thick and woody, typically 5 to 15 millimeters in diameter, and can
 
 ## Distribution and Habitat
 
-Cladium jamaicense ranges from the southeastern United States through the Caribbean, [[guzman-psilocybin-mushrooms-south-america]].
+Cladium jamaicense ranges from the southeastern [[dmt-containing-plants-united-states-halpern]] through the Caribbean, [[guzman-psilocybin-mushrooms-south-america]].
 
 In the United States, it is most abundant in Florida, where it dominates approximately 60 percent of the Everglades landscape.
 
@@ -65,7 +65,7 @@ Sawgrass is the primary structure-forming species of the Everglades and defines 
 
 Dense sawgrass stands slow water flow during the wet season, contributing to sheet-flow hydrology that sustains the entire ecosystem.
 
-Dead leaf litter accumulates as peat, building the organic soils that underlie much of the Everglades wetland complex.
+Dead [[biodiversity-of-fungi-leaf-litter-microfungi-survey-methods]] accumulates as peat, building the organic soils that underlie much of the Everglades wetland complex.
 
 These peat soils store significant quantities of carbon, making sawgrass marshes important carbon sinks in subtropical regions.
 

@@ -12,7 +12,7 @@ type: concept
 # Reductionist vs Holistic Science
 
 A fundamental difference exists between holism as it applies to management and the
-long-hallowed procedures of scientific research. Modern science, which Savory calls
+long-hallowed procedures of [[psilocybin-isolation-and-early-scientific-research]]. [[fukuoka-road-critique-of-modern-science]], which Savory calls
 reductionist, seeks by controlling all variables to reduce phenomena to a simple form
 for study. By contrast, [[savory-holistic-resource-management-animal-impact]] Management.
 
@@ -50,7 +50,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

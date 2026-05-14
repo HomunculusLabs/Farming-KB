@@ -30,7 +30,7 @@ A muraya's authority comes from cultivated relationships with perfumes, water be
 
 ## Subaquatic Travel
 
-The muraya's descent with [[shamanism]] by showing that healing power can be organized through smell as much as ingestion.
+The muraya's descent with shamanism by showing that healing power can be organized through smell as much as ingestion.
 For research, muraya work suggests that olfaction deserves attention in studies of ayahuasca ceremony and plant-based therapeutics.
 
 ## Relationship to Other Ranks

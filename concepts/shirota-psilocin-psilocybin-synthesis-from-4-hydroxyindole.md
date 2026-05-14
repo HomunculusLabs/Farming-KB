@@ -1,5 +1,5 @@
 ---
-title: "Shirota tryptamine-chemistry-psilocin-and-psilocybin-synthesis Synthesis Starting from 4 Hydroxyindole"
+title: Shirota Psilocin Psilocybin Synthesis From 4 Hydroxyindole
 created: 2026-04-28
 tags: [chemistry, synthesis, psilocybin, psilocin, shirota, 4-hydroxyindole, pharmaceutical]
 date: 2026-04-28
@@ -14,18 +14,18 @@ type: concept
 Shirota, Hakamata, and Goda of the National Institute of Health Sciences in
 Tokyo published in the Journal of Natural Products (2003, Vol. 66, pp.
 885-887) a [[japan-narcotics-control-law-psilocybin-fungi-2002]], effective June 6, 2002, which
-created demand for pure reference standards for forensic identification.
+created demand for pure reference standards for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 
 ## Motivation and Regulatory Context
 
 Before the 2002 Japanese law, [[shirota-forensic-standard-compounds-magic-mushroom-identification]]. Isolating psilocin and
-psilocybin from mushrooms on a gram scale is difficult because psilocin
+psilocybin from mushrooms on a [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]] is difficult because psilocin
 easily decomposes and psilocybin has high polarity.
 
 ## Protection Strategy: Acetylation of 4-Hydroxyindole
 
 The synthesis starts with commercially available 4-hydroxyindole. The
-hydroxyl group is protected by acetylation using acetic anhydride in
+hydroxyl group is protected by acetylation using [[acetic-anhydride]] in
 pyridine and dichloromethane at 0 degrees Celsius warming to room
 temperature. After 2 hours of stirring, water is added and the mixture is
 evaporated. The concentrate is dissolved in ethyl acetate, washed with
@@ -40,7 +40,7 @@ isolated in crystal form without careful reaction control. The acetyl
 
 ## Oxalyl Chloride Acylation to Glyoxalyl Intermediate
 
-The 4-acetylindole is dissolved in anhydrous diethyl ether with stirring
+The 4-acetylindole is dissolved in anhydrous [[diethyl-ether]] with stirring
 in an ice bath. Oxalyl chloride is added. After 15 minutes, n-hexane is
 added and the reaction flask is placed in a freezer overnight. The resulting
 yellow crystal of the oxalyl intermediate is separated by filtration and
@@ -74,7 +74,7 @@ over 2 hours and the reaction mixture is refluxed for 2 hours. After
 cooling, anhydrous sodium sulfate powder is added, followed by dropwise
 addition of saturated sodium sulfate solution.
 
-The organic solution is concentrated, filtered through aminopropyl silica
+The organic solution is concentrated, filtered through [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]
 gel, and concentrated again. The resulting crystals are washed with methanol
 to afford psilocin as white crystals in over 85% yield. The melting point
 was 169-174 degrees Celsius with decomposition (literature: 173-176

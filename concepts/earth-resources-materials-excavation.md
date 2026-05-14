@@ -1,5 +1,5 @@
 ---
-title: [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]] — Materials Revealed by Excavation
+title: "Earth Resources Materials Excavation"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

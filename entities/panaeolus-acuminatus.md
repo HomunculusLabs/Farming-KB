@@ -113,8 +113,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[panaeolus-antillarum-misidentification-copelandia-confusion]]
-- [[panaeolus-cyanescens-entity]]
-- [[panaeolus-panaeolina-neurotropic-species]]
-- [[panaeolus-subbalteatus-profile]]
-- [[panaeolus-tropicalis]]
+- [[panaeolus-cambodginiensis]]
+- [[panaeolus-cyanescens-tropicalis-cultivation]]
+- [[panaeolus-olivaceus]]

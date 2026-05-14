@@ -1,5 +1,5 @@
 ---
-title: [[biodiversity-macrofungi-woody-substrata]] Survey Design
+title: "Macrofungi Woody Substrata Survey Design"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

@@ -94,7 +94,7 @@ For permaculture designers and community builders, this analysis suggests:
 
 ## Related Concepts
 
-- [[ethical-basis-alternative-nation-permaculture]]
+- [[ethical-basis-of-alternative-nation]]
 - [[bioregional-congresses-and-global-nation-permaculture]]
 - [[bioregional-organization-mollison]]
 - [[consumer-versus-conserver-society]]

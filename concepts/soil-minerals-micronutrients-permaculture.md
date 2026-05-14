@@ -45,7 +45,7 @@ Titanium is not a plant nutrient, but Mollison highlights a remarkable ecologica
 ## Role in Permaculture Systems
 
 Micronutrients play a critical role in permaculture design, supporting plant
-health and soil food web function. Deficiencies in trace elements like zinc,
+health and [[soil-food-web]] function. Deficiencies in trace elements like zinc,
 copper, manganese, and boron can limit productivity even in otherwise
 well-managed systems.
 

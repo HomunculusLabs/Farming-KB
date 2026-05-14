@@ -1,6 +1,6 @@
 ---
 title: Forest-Atmosphere Interactions and the Hydrological Cycle
-source: bill-mollison-permaculture-design-course.md
+source: bill-mollison-[[permaculture-forest-garden-establishment|permaculture]]-[[query-how-to-design-a-food-forest-for-a-tropical-climate|design]]-course.md
 type: concept
 ---
 
@@ -57,13 +57,13 @@ Forests interact dramatically with airborne particles:
 - **Inorganic particles** (dust, industrial pollutants) are reduced to about a quarter of their previous concentration after passing through 100 meters of forest
 - **Organic particles** (pollens, bacteria, oil droplets) are released by forests in enormous quantities
 
-Early voyagers approaching North America in spring reported pollen coating ship decks up to 80 miles out in the Atlantic. The sea turned yellow, and crews mistook the pollen for sulfur from volcanic eruptions, advancing with trepidation toward "yellow skies."
+Early voyagers approaching [[guzman-psilocybin-mushrooms-north-america]] in spring reported pollen coating ship decks up to 80 miles out in the Atlantic. The sea turned yellow, and crews mistook the pollen for sulfur from volcanic eruptions, advancing with trepidation toward "yellow skies."
 
 Organic particles are far more effective precipitation nuclei than inorganic particles. Forests absorb tons of inorganic materials while releasing tons of organic materials. About 60% of inland rain falls from forest clouds, not sea clouds.
 
 ### Mineral Cycling
 
-There is likely no shortage of any mineral or element anywhere on Earth, because everything is on the move — particularly off seacoasts. Forests net minerals from the air. While minerals may be used and fixed as fast as they are netted, this atmospheric deposition is a real and significant pathway for nutrient input to forest ecosystems.
+There is likely no shortage of any mineral or element anywhere on Earth, because everything is on the move — particularly off seacoasts. Forests net minerals from the air. While minerals may be used and fixed as fast as they are netted, this atmospheric deposition is a real and significant pathway for nutrient input to [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 ## The Forest as a Water Mass
 
@@ -77,11 +77,11 @@ Eighty-six percent of a forest's mass is water. Ninety-six percent of its leaves
 
 ### Soil Water Retention
 
-Water entering the forest floor follows a complex retention cascade:
+Water entering the [[fungal-ecology-forest-floor]] follows a complex retention cascade:
 
-1. **Litter and humus absorption**: No water seeps down until the forest floor fully charges
+1. **Litter and [[humus]] absorption**: No water seeps down until the forest floor fully charges
 2. **Mineral soil absorption**: Every foot of soil holds approximately one inch of rain
-3. **Percolation through root channels**: Forest soils are "totally bored out" by old rotted roots, forming conduits to deeper levels
+3. **Percolation through root channels**: [[fire-effect-on-forest-soils-and-nutrient-loss]] are "totally bored out" by old rotted roots, forming conduits to deeper levels
 
 With 30 inches of soil depth (minimal for many forests), a 3-inch rainfall produces zero surface runoff. Sometimes up to 60 inches of rain can be held. Water percolates easily through old root traces. Evaporation from the soil surface below forests is essentially zero because deep roots draw water downward.
 
@@ -114,7 +114,7 @@ Trees cannot be treated as a mass — they are collections of individuals that d
 
 In some Tasmanian forests, light cannot be measured at depth — there is total interception. You must carry torches even in brilliant daylight. The forest intercepts ultraviolet light and passes through more red light, creating a different quality of light within. Dark trees become radiators (heat stores), while birches act as reflectors.
 
-The heat storage system operates at 86% water heat storage. Even on very cold nights, thick forests produce warm downdrafts — cold air enters the upper canopy, passes slowly through thousands of enormous water storages that absorbed heat all day, and descends as warmed air.
+The [[coleman-soil-heat-storage-diurnal-freeze-thaw-cycle]] system operates at 86% water heat storage. Even on very cold nights, thick forests produce warm downdrafts — cold air enters the upper canopy, passes slowly through thousands of enormous water storages that absorbed heat all day, and descends as warmed air.
 
 ### Air Quality
 
@@ -145,32 +145,6 @@ These statements reflect the integrated understanding that forests govern water,
 
 ### The Nuclei Method
 
-Two elderly women near Sydney re-established 1,500 acres of native Australian bush in a badly managed forest using only spoons and blunt table knives, working from age 68 to 75. Their method — the nuclei approach — is the most important principle in forest establishment:
+Two elderly women near Sydney re-established 1,500 acres of native Australian bush in a badly managed forest using only spoons and blunt table knives, working from age 68 to 75. Their method — the nuclei approach — is the most important principle in [[food-forest-establishment]]:
 
 1. **Don't scatter**: Planting individual elements across a large area is extremely slow and many species will perish without their associates
-2. **Create dense nuclei**: Plant small areas (half a room size) very densely, with all desired species
-3. **Close out exotics**: Remove unwanted species from within the nuclei
-4. **Patch disturbed soil**: Use mulch to repair any disturbance
-5. **Expand outward**: Work from the perimeter of established nuclei — the ecology helps itself expand
-6. **Begin where desired species already exist**: Start with remaining patches of natives
-
-The same approach was used by Marjorie Spear (over 80 years old) in reverse — she expanded an exotic [[food-forest]] into degraded native forest using densely planted nuclei.
-
-### Pioneer Species
-
-Pioneer species are trees that will stand alone in grassland or hostile areas. They share common characteristics:
-- They don't mind grass competition
-- They are very hardy and drought resistant
-- They change soil nature toward forest soils
-- They range from acacias (nitrogen fixers, hundreds of species) to eastern and western red cedars
-
-The strategy is to run pioneer species across land while planning for the desired final forest. When ready, pioneers can be cut down as manurial crop for the succeeding forest. Both western and eastern red cedar are useful as crops while pioneering and reducing competitors before forest establishment.
-
-### Nutrient Amendments
-
-In sandy soils, basic nutrients may need to be added — particularly on acid or alkaline soils. Superphosphate in sands and dunes can produce three to four times normal growth rates from a single handful per tree, though additional superphosphate provides no further benefit. In general, pH adjustment is more often the issue than missing elements — except in sands, where zinc, iron, and other minerals are locked up by high calcium.
-
-## See Also
-- [[food-forest-layers-and-species]]
-- [[canopy-layer-design-food-forests]]
-- [[structural-forests-permaculture]]

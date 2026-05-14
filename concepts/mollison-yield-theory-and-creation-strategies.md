@@ -1,5 +1,5 @@
 ---
-title: Permaculture Yield Theory and Creation Strategies
+title: Mollison Yield Theory And Creation Strategies
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -14,7 +14,7 @@ Yield in permaculture is fundamentally different from conventional agricultural 
 
 Before defining yield, Mollison introduces the Principle of D: any system or organism can accept only that quantity of a resource which can be used productively. Any resource input beyond that point throws the system into disorder — oversupply of a resource is a form of chronic pollution.
 
-Both over- and undersupply have much the same effect, except that oversupply produces more grotesque results in living systems. Undersupply can be coped with through reduced growth and wider spacing of organisms. Oversupply causes inflated growth, crowding, and sociopathy in social organisms. In people, both gross over-nutrition and under-nutrition are common pathologies. Ethical resource management is needed to balance these extremes.
+Both over- and undersupply have much the same effect, except that oversupply produces more grotesque results in living systems. Undersupply can be coped with through reduced growth and wider spacing of organisms. Oversupply causes inflated growth, crowding, and sociopathy in social organisms. In people, both gross over-nutrition and under-nutrition are common pathologies. Ethical [[savory-holistic-resource-management-animal-impact]] is needed to balance these extremes.
 
 ## Types of Yield
 
@@ -28,7 +28,7 @@ The sum of conserved, stored, and generated energy surplus to the system. This i
 
 ### Impalpable Yield
 
-Invisible yields related to health, nutrition, security, and satisfactory social context and lifestyle. These values-driven yields govern the concept of needs and set the limits of "enough." The search for impalpable yields is what most often drives people to seek good design or to take up life on the land — the recognition that "what does it benefit a man if he gains the whole world and loses his soul?"
+Invisible yields related to health, nutrition, security, and satisfactory [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] and lifestyle. These values-driven yields govern the concept of needs and set the limits of "enough." The search for impalpable yields is what most often drives people to seek good design or to take up life on the land — the recognition that "what does it benefit a man if he gains the whole world and loses his soul?"
 
 ## System Yield Defined
 
@@ -64,7 +64,7 @@ Mollison organizes yield-creation strategies into four broad categories, each wi
 - **Structure-landscape integration:** Buildings and infrastructure serving multiple productive functions
 - **Species selection:** Choosing low-maintenance cultivars and species suited to the specific site
 - **Yield investigation:** Exploring other species for usable products currently overlooked
-- **Nutrient supply:** Biological waste recycling through mulch, compost, and manure
+- **Nutrient supply:** Biological [[agricultural-waste-recycling]] through mulch, compost, and manure
 - **Guild assembly:** Combining beneficial and cooperative communities of plants and animals
 
 ### Pattern Strategies
@@ -74,14 +74,14 @@ Mollison organizes yield-creation strategies into four broad categories, each wi
 - **Spatial geometry:** Using edge effects and harmonics in design layout to increase interface
 - **Material routing:** Sending resources to their next best use through designed pathways
 - **Site strategies:** Zone, sector, slope, and orientation analysis for optimal placement
-- **Special patterns:** Designs suited to irrigation, crop systems, or energy conservation
+- **Special patterns:** Designs suited to irrigation, crop systems, or [[desert-house-water-energy-conservation]]
 
 ### Sequential Strategies
 
 - **Sequential annidation:** Interplanting and intercropping across time
 - **Increasing cyclic frequency:** More rapid turnover of biological cycles
 - **Tessellation of cycles:** Browsing sequences and successional rotations interlocking over time
-- **Rehabilitative technology:** Appropriate-scale tools and techniques that restore rather than degrade
+- **Rehabilitative technology:** Appropriate-scale [[levelling-tools-and-techniques]] that restore rather than degrade
 - **Energy-efficient structures:** Buildings that produce more energy than they consume
 
 ### Conservation Strategies

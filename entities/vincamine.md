@@ -22,7 +22,7 @@ created: 2026-05-07
 
 Vincamine is a monoterpenoid indole alkaloid found predominantly in the leaves of [[voacanga-africana]]. It functions as a cerebral vasodilator and has been used clinically in Europe and Asia for over five decades to treat cerebrovascular insufficiency, age-related cognitive decline, and vascular dementia.
 
-The compound was first isolated from Vinca minor in the 1950s and subsequently developed into a prescription pharmaceutical marketed under trade names including Cavinton, Intelectol, and Cognitol. Its semi-synthetic derivative vinpocetine is more widely used in contemporary nootropic formulations.
+The compound was first isolated from [[vinca-minor]] in the 1950s and subsequently developed into a prescription pharmaceutical marketed under trade names including Cavinton, Intelectol, and Cognitol. Its semi-synthetic derivative vinpocetine is more widely used in contemporary nootropic formulations.
 
 ## Chemical Properties
 

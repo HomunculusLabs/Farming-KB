@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-**Psilocybe sylvatica** is a rare psilocybin-containing mushroom in the family
+**Psilocybe sylvatica** is a rare [[psilocybin]]-containing mushroom in the family
 Hymenogastraceae. The species epithet *sylvatica* refers to its woodland habitat.
 
 It was first described by [[psilocybin-north-america-pacific-northwest]]
@@ -67,7 +67,7 @@ this species due to the absence of documented cultivation attempts.
 ## Related Species
 
 *P. sylvatica* is part of a complex of small, woodland-inhabiting
-psilocybin mushrooms that can be difficult to distinguish in the field:
+[[psilocybin-mushrooms]] that can be difficult to distinguish in the field:
 
 - ***P. medullosa***: Very similar morphology; some authorities consider
   it synonymous. Found across Europe and North America on decaying

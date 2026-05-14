@@ -21,7 +21,7 @@ sources:
 
 The genus name *Corallina* reflects the coral-like appearance of the calcified thallus. The specific epithet *officinalis* indicates its historical use in apothecary and medicinal preparations, though modern pharmacological applications are based on laboratory research rather than traditional practices.
 
-The species forms dense, calcified tufts that contribute significantly to intertidal biodiversity, shoreline stabilization, and calcium carbonate cycling. Its distinctive pink to purple articulated fronds are a familiar sight on rocky shores across the Northern and Southern Hemispheres.
+The species forms dense, calcified tufts that contribute significantly to intertidal biodiversity, shoreline stabilization, and [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] cycling. Its distinctive pink to purple articulated fronds are a familiar sight on rocky shores across the Northern and Southern Hemispheres.
 
 ## Taxonomy and Morphology
 
@@ -43,7 +43,7 @@ Color ranges from pale pink to deep purple-red, with branch tips often appearing
 
 ## Distribution and Habitat
 
-*Corallina officinalis* has a nearly cosmopolitan distribution in temperate and cold waters. It occurs on both sides of the North Atlantic, throughout the Mediterranean, in the North Pacific, and in the Southern Ocean around New Zealand, Australia, and South America.
+*Corallina officinalis* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and cold waters. It occurs on both sides of the North Atlantic, throughout the Mediterranean, in the North Pacific, and in the Southern Ocean around New Zealand, Australia, and South America.
 
 The species is predominantly intertidal, occurring from the mid-tide level to the upper subtidal zone. It is most abundant on semi-exposed to exposed rocky shores where moderate wave action provides water motion and nutrient delivery without dislodging the plants.
 
@@ -80,7 +80,7 @@ Traditional uses include application as an agricultural soil amendment in coasta
 ## Overview
 
 Corallina Officinalis represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Corallina Officinalis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 corallina officinalis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

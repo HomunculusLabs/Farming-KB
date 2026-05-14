@@ -95,7 +95,7 @@ Grafted cultivars, especially **Illinois Everbearing**, can produce a small crop
 
 Mulberries are generally pest-free compared to most fruit trees. They have no serious disease issues in most of North America. See also: [[fungal-role-in-nitrogen-cycling]]** — Deep taproots mine subsoil nutrients and bring them to the surface via leaf fall.
 - **Pioneer role** — Fast growth makes mulberries ideal for establishing canopy quickly in young food forests.
-- **Chop-and-drop** — Regular pruning provides abundant mulch material for garden beds.
+- **[[chop-and-drop]]** — Regular pruning provides abundant mulch material for garden beds.
 - **[[fukuoka-natural-farming-temperate-climates]].
 3. **Ignoring staining risk** — Unripe and ripe fruit will stain sidewalks, cars, and clothing. Plan accordingly.
 4. **Growing from seed for named cultivars** — Seeds don't come true; always use cuttings or buy grafted trees for specific varieties.

@@ -1,5 +1,5 @@
 ---
-title: Permaculture [[mollison-village-enterprises-occupations]] and Recycling Systems
+title: "Permaculture Village Enterprises And Recycling"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -147,5 +147,3 @@ The Devonport model demonstrates that comprehensive recycling is not only enviro
 - **Community facilities enable recovery**: A woodwork centre, [[composting]] operation, and re-use areas turn waste into productive inputs
 - **Supervision ensures compliance**: Without oversight, the system degrades into mixed waste
 - **Creative reuse of inert materials**: The ziggurat concept demonstrates that even construction debris can become productive landscape
-
-A permaculture village should plan its recycling infrastructure from the outset, incorporating category-specific collection, processing areas, and creative reuse systems as integral components of the village design. The goal is to approach **zero waste** by ensuring that every output from one process becomes an input to another, following the natural principle that in healthy ecosystems, there is no such thing as waste.

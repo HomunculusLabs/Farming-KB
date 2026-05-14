@@ -45,7 +45,7 @@ Koide et al. (1998) demonstrated that pine leaf litter water extracts
 significantly reduce the growth of Amanita rubescens while stimulating
 Suillus intermedius. The polyphenols catechin and epicatechin gallate
 were identified as the active compounds. Volatile alpha- and beta-pinene
-also had differential effects on ectomycorrhizal fungi. This suggests
+also had differential effects on [[ectomycorrhizal-fungi]]. This suggests
 that the phenolic composition of leaf litter can exert significant
 control over ectomycorrhizal communities, with A. rubescens being
 sensitive to the chemical environment created by decomposing pine
@@ -58,7 +58,7 @@ best resource for reproduction of the nematode Aphelenchus avenae among
 seven ectomycorrhizal fungi tested. However, Ruess and Dighton (1996)
 quantified lower support for Aphelenchoides saprophilus (0.6 times 10
 to the fifth nematodes with 1.3% females), among the lowest of
-mycorrhizal fungi tested. The best food source, Laccaria laccata,
+[[mycorrhizal-fungi]] tested. The best food source, Laccaria laccata,
 supported 2.4 times 10 to the fifth nematodes with 11.4% females. The
 discrepancy likely relates to differences in nematode species and
 experimental conditions.

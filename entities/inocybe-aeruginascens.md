@@ -1,6 +1,6 @@
 ---
 
-title: [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]
+title: "Inocybe Aeruginascens"
 created: 2026-04-12
 updated: 2026-04-12
 type: entity

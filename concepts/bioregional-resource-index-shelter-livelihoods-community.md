@@ -1,5 +1,5 @@
 ---
-title: [[bioregional-resource-index-food-systems]] — Shelter, Livelihoods, [[village-financing-and-community-services]]
+title: "Bioregional Resource Index Shelter Livelihoods Community"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

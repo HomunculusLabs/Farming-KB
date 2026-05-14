@@ -3,7 +3,8 @@ title: "Cordyceps vs Oyster Mushroom Cultivation"
 tags: [comparison, cordyceps, oyster, mushroom-cultivation, medicinal-mushrooms]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
 
 # Cordyceps vs Oyster Mushroom Cultivation

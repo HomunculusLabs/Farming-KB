@@ -9,7 +9,7 @@ sources: []
 
 # Herbal Salves and Balms
 
-Herbal salves and balms are semi-solid topical preparations made by combining herb-infused oils with beeswax. They are foundational homestead medicine -- simple to make, shelf-stable, and effective for a range of skin conditions including wounds, burns, rashes, dry skin, insect bites, and muscle soreness.
+Herbal salves and balms are semi-solid [[blesching-cannabis-tinctures-infused-oils-topical-preparations]] made by combining herb-infused oils with beeswax. They are foundational homestead medicine -- simple to make, shelf-stable, and effective for a range of skin conditions including wounds, burns, rashes, dry skin, insect bites, and muscle soreness.
 
 ## Infused Oils
 
@@ -42,11 +42,11 @@ Stovetop method (faster):
 
 - Calendula (Calendula officinalis): Anti-inflammatory, wound healing, skin repair. The most versatile salve herb. Infuse dried petals in olive oil.
 - Plantain (Plantago major): Drawing agent for splinters and stings, anti-itch, wound healing. Broadleaf plantain grows wild on most homesteads.
-- Comfrey (Symphytum officinale): Cell proliferation, bone and tissue healing. Use for bruises, sprains, broken skin. Contains pyrrolizidine alkaloids -- avoid on deep open wounds.
-- Lavender (Lavandula angustifolia): Antimicrobial, calming, burn relief. Infuse flowers in oil or add essential oil at the end.
-- Yarrow (Achillea millefolium): Astringent, hemostatic, anti-inflammatory. Good for wound salves.
-- St. John's Wort (Hypericum perforatum): Nerve pain, burns, mild antidepressant (topical). Infuse fresh flowers in oil for the characteristic red color.
-- Chamomile (Matricaria chamomilla): Anti-inflammatory, soothing, gentle for babies and sensitive skin.
+- Comfrey ([[comfrey-symphytum-officinale]]): Cell proliferation, bone and tissue healing. Use for bruises, sprains, broken skin. Contains pyrrolizidine alkaloids -- avoid on deep open wounds.
+- Lavender ([[lavandula-angustifolia]]): Antimicrobial, calming, burn relief. Infuse flowers in oil or add essential oil at the end.
+- Yarrow ([[achillea-millefolium]]): Astringent, hemostatic, anti-inflammatory. Good for wound salves.
+- St. John's Wort ([[hypericum-perforatum]]): Nerve pain, burns, mild antidepressant (topical). Infuse fresh flowers in oil for the characteristic red color.
+- Chamomile ([[matricaria-chamomilla]]): Anti-inflammatory, soothing, gentle for babies and sensitive skin.
 - Arnica (Arnica montana): Bruises, muscle soreness, sprains. Use only on intact skin -- never on open wounds.
 
 ## Beeswax Ratios

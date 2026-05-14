@@ -1,5 +1,5 @@
 ---
-title: Fodder Pond Sequences and Yields
+title: Fodder Pond Sequences And Yields
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -64,7 +64,7 @@ Ponds C and D follow similar sequences to B, with progressively larger and more 
 
 Ponds arranged along **spoon or V-drains** enable multiple origins and destinations, with forage fish or invertebrates always migrating downstream. A **perched pond** above the trout or predator system can maintain a trout-free forage-fish polyculture while still providing a downstream food source.
 
-These systems can accept water polluted by phosphates and nitrates as part of their intake, provided plants and organisms can be found to cope with that pollutant level—effectively using the pond sequence as a biological water treatment system.
+These systems can accept water polluted by phosphates and nitrates as part of their intake, provided plants and organisms can be found to cope with that pollutant level—effectively using the pond sequence as a [[sand-filtration-and-biological-water-treatment]] system.
 
 ## Strategies for Increasing Water Diversity
 
@@ -72,7 +72,7 @@ Three strategies increase species diversity in small still-ponds, marshes, or pe
 
 1. **Headwater and ridge location**: Creating small ecological islands isolated from main waterways, which develop unique species assemblages
 2. **Salting small ponds**: Developing semi-estuarine species assemblages that add brackish-water organisms to the system
-3. **Manuring small ponds**: Applying trace elements, animal manures, and phosphatic or nitrogenous fertilizers to produce large quantities of forage fish, algae, or crustaceans for feeding downstream predators
+3. **Manuring small ponds**: Applying [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]], animal manures, and phosphatic or nitrogenous fertilizers to produce large quantities of forage fish, algae, or crustaceans for feeding downstream predators
 
 ## Shallow Water Proportions
 
@@ -84,7 +84,7 @@ Swingle (1966) proposes that up to **50% of a catfish pond** can be in shallows.
 
 Fish such as Tilapia and carp are commonly fed on starchy foods from adjacent crops—pumpkin, banana, sweet potato, yam, taro, beans and bean flours, grains, and doughs. They also eagerly eat fallen insects, seed, and fruit from fringing vegetation, along with selected water weeds. This relationship means **market gardens and fish ponds belong together**.
 
-Tilapia in particular eat many fruits and edible leaves from garden weeds and vines. Fish-pond water is also of good nutrient value for gardens, so the relationship is mutually beneficial: **crop production from well-fertilized ponds may be as much as twice that from reservoir irrigation** alone.
+Tilapia in particular eat many fruits and edible leaves from garden weeds and vines. Fish-pond water is also of good nutrient value for gardens, so the relationship is mutually beneficial: **[[latitude-effects-on-photosynthesis-and-crop-production]] from well-fertilized ponds may be as much as twice that from reservoir irrigation** alone.
 
 ### Grass Carp Integration
 
@@ -106,7 +106,7 @@ The productivity of aquaculture systems spans an enormous range depending on the
 | 500–1,000 | Fertilized extensive carp, milkfish, and mullet cultures; intensive prawn culture; upper range of totally natural systems |
 | 1,000–2,000 | Well-chosen, unfed polycultures achieving these yields |
 | 2,000–5,000 | Intensively fertilized and fed pond polycultures of selected species; water quality monitored; food is 60+% of total costs |
-| 5,000–20,000 | Intensive cage and corf cultures or small aerated ponds; fertilizer and food now 96% of costs; waste products may limit production; disease control critical |
+| 5,000–20,000 | Intensive cage and corf cultures or small aerated ponds; fertilizer and food now 96% of costs; waste products may limit production; [[aact-foliar-disease-control]] critical |
 
 ### Key Observations
 
@@ -120,7 +120,7 @@ The implication for [[permaculture-design]] is clear: well-designed extensive po
 
 ## Key Design Principles
 
-1. **Design pond sequences** with trophic cascades—lowest organisms upstream, predators downstream
+1. **Design pond sequences** with [[keystone-species-and-trophic-cascades]]—lowest organisms upstream, predators downstream
 2. **Integrate ponds with agriculture** for mutual benefit—pond water fertilizes crops, crop waste feeds fish
 3. **Maximize shallow areas** (up to 50%) for forage production rather than prioritizing deep water
 4. **Harvest at multiple levels**—ducks, snails, shrimp, taro, and various fish species from a single system

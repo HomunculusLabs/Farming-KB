@@ -1,5 +1,5 @@
 ---
-title: Community [[asset-categories-mollison]]
+title: "Community Asset Categories"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

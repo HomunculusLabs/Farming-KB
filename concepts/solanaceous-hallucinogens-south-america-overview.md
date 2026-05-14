@@ -1,5 +1,5 @@
 ---
-title: Solanaceous Hallucinogens of South America
+title: Solanaceous Hallucinogens South America Overview
 source: a-golden-guide-to-hallucinogenic-plants
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The nightshade family, Solanaceae, is one of the most pharmacologically significant plant families in the world. While it provides essential food crops (potato, tomato, pepper, eggplant) and medicines (belladonna, henbane), it also contains numerous species used as hallucinogens by indigenous peoples of South America. These plants share a common chemistry centered on tropane alkaloids—principally hyoscyamine and scopolamine—which produce characteristic deliriant intoxication marked by vivid hallucinations, confusion, and amnesia. The cultural significance of these plants spans millennia, from pre-Columbian ritual practices to surviving indigenous healing traditions.
+The nightshade family, Solanaceae, is one of the most pharmacologically significant plant families in the world. While it provides essential food crops (potato, tomato, pepper, eggplant) and medicines (belladonna, henbane), it also contains numerous species used as hallucinogens by indigenous peoples of South America. These plants share a common chemistry centered on [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]]—principally hyoscyamine and scopolamine—which produce characteristic deliriant intoxication marked by vivid hallucinations, confusion, and amnesia. The [[amanita]] of these plants spans millennia, from pre-Columbian ritual practices to surviving indigenous healing traditions.
 
 ## Chemical Foundation: Tropane Alkaloids
 
@@ -29,7 +29,7 @@ The fresh fruits are the plant part employed. Hyoscyamine and scopolamine have b
 
 ## Iochroma fuchsioides — Borrachera
 
-Borrachera (*Iochroma fuchsioides*) is one of about two dozen species of *Iochroma*, all native to the highlands of South America. Suspicions and unconfirmed reports indicate that several species of *Iochroma* are taken in hallucinatory drinks, either alone or mixed with other narcotic plants, by Indians in the Sibundoy Valley of southern Colombia. Although no chemical studies have been made of *Iochroma*, its membership in the Solanaceae suggests the presence of tropane or related alkaloids consistent with the family's characteristic chemistry.
+Borrachera (*Iochroma fuchsioides*) is one of about two dozen species of *Iochroma*, all native to the highlands of South America. Suspicions and unconfirmed reports indicate that several species of *Iochroma* are taken in hallucinatory drinks, either alone or mixed with other narcotic plants, by Indians in the Sibundoy Valley of southern Colombia. Although no [[chemical-studies-neurotropic-fungi-reliability-and-challenges]] have been made of *Iochroma*, its membership in the Solanaceae suggests the presence of tropane or related alkaloids consistent with the family's characteristic chemistry.
 
 The Sibundoy Valley has been characterized as "the most narcotic conscious area of the New World," reflecting the extraordinary density of psychoactive plant use among its indigenous inhabitants.
 
@@ -47,7 +47,7 @@ The species employed hallucinogenically are *B. grandiflora* and *B. chiricaspi*
 
 Culebra borrachera (*Methysticodendron amesianum*) is a tree reaching 25 feet in height, known only from cultivated specimens in the Kamsá Indian town of Sibundoy, Colombia. The Indians also call it mitskway borrachera ("snake intoxicant"). This tree is the only species of its genus and may represent an extremely aberrant form of a tree species of *Datura*. Its distinctive 11-inch white flowers differ from those of the tree daturas in having a bell-shaped corolla split nearly to the base.
 
-An infusion of the leaves is said to be more potent and dangerous to use than similar preparations of *Datura*. The chemical composition explains its great potency: approximately 80 percent of the several typical tropane alkaloids present is scopolamine. Even in small doses, this drug may cause excitement, hallucinations, and delirium. The trees are the special property of certain medicine men who employ the drug in difficult cases of disease diagnosis, divination, prophecy, or witchcraft.
+An infusion of the leaves is said to be more potent and dangerous to use than similar preparations of *Datura*. The [[chemical-composition-of-hallucinogens]] explains its great potency: approximately 80 percent of the several typical tropane alkaloids present is scopolamine. Even in small doses, this drug may cause excitement, hallucinations, and delirium. The trees are the special property of certain medicine men who employ the drug in difficult cases of disease diagnosis, divination, prophecy, or witchcraft.
 
 ## Datura Species
 
@@ -82,7 +82,7 @@ This profile differs fundamentally from the classical hallucinogens (tryptamines
 
 ## Cultural Significance
 
-Solanaceous hallucinogens occupy a distinctive place in South American indigenous cultures:
+Solanaceous hallucinogens occupy a distinctive place in South American [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]:
 
 - **Divination**: Medicine men use the visions to diagnose illness, locate lost objects, apprehend thieves, and prophesy the future.
 - **Healing**: The plants are central to curing rituals, with the medicine man's interpretation of the patient's hallucinations determining the cause and treatment of disease.

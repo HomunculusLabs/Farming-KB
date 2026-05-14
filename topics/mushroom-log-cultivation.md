@@ -1,5 +1,5 @@
 ---
-title: [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]
+title: "Mushroom Log Cultivation"
 subtitle: A comprehensive guide to growing gourmet and medicinal mushrooms on
   hardwood logs — from tree selection and inoculation to fruiting and
   permaculture integration

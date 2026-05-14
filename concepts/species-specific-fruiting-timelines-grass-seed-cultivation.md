@@ -2,7 +2,7 @@
 
 ## Overview
 
-Different psilocybin-producing and related mushroom species exhibit significantly different timelines for fruiting body initiation when cultivated on grass seed substrate. Understanding these species-specific timelines is essential for cultivation planning, resource allocation, and troubleshooting when expected fruiting does not occur within the typical window.
+Different psilocybin-producing and related mushroom species exhibit significantly different timelines for fruiting body initiation when cultivated on [[grass-seed-substrate]]. Understanding these species-specific timelines is essential for cultivation planning, resource allocation, and troubleshooting when expected fruiting does not occur within the typical window.
 
 ## Fruiting Timeline Overview
 

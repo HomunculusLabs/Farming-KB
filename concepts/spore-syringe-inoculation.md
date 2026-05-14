@@ -8,7 +8,7 @@ aliases: gottlieb-psilocybin-cultivation-spore-syringe-preparation
 
 # Spore Syringe Inoculation
 
-Spore syringe inoculation is the process of introducing fungal spores into a prepared substrate to initiate mycelial colonization. In the PF TEK method, this is accomplished using a **spore syringe** — a sterile medical syringe containing a suspension of mushroom spores in distilled water. The inoculation step is the most critical point in the cultivation process for [[pf-tek-spore-syringe-preparation-and-inoculation]] storage techniques.
+[[spore-syringe]] inoculation is the process of introducing fungal spores into a prepared substrate to initiate mycelial colonization. In the PF TEK method, this is accomplished using a **spore syringe** — a sterile medical syringe containing a suspension of mushroom spores in distilled water. The inoculation step is the most critical point in the cultivation process for [[pf-tek-spore-syringe-preparation-and-inoculation]] storage techniques.
 
 ### Legal Status
 
@@ -93,11 +93,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[fungal-spore-dispersal-mechanisms]]
-- [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
-- [[mr-bloomfields-orchard-mushroom-cooling-and-spore-catapult]]
-- [[mr-bloomfields-orchard-stinkhorn-fungi-and-spore-dispersal]]
-- [[mycorrhizal-inoculation-guide]]

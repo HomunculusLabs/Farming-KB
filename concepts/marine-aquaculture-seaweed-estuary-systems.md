@@ -1,12 +1,12 @@
 ---
-title: Marine Aquaculture and Seaweed Estuary Systems
+title: Marine Aquaculture Seaweed Estuary Systems
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
 # Marine Aquaculture and Seaweed Estuary Systems
 
-Marine aquaculture represents one of the most productive and underutilized edges in permaculture design. The intertidal zone—the boundary between land and sea—offers extraordinary opportunities for food production, material harvesting, and ecosystem management. Bill Mollison observed that traditional coastal communities worldwide had developed sophisticated systems for working with these edges, from Irish kelp harvesting to Hawaiian reef gardening.
+Marine aquaculture represents one of the most productive and underutilized edges [[ecological-succession-in-permaculture-design]]. The intertidal zone—the boundary between land and sea—offers extraordinary opportunities for food production, material harvesting, and ecosystem management. Bill Mollison observed that traditional coastal communities worldwide had developed sophisticated systems for working with these edges, from Irish kelp harvesting to Hawaiian reef gardening.
 
 ## Eelgrass and Sea Grasses
 
@@ -32,7 +32,7 @@ Complex aquaculture systems can be designed by combining natural drift events wi
 
 ### Sub-Surface Dams and Intertidal Fields
 
-Sub-surface dams—leaky rubble walls rather than true dams—can create shallow still-water systems in intertidal zones. These replicate natural conditions where stone dikes or barriers in tidal rivers create productive habitat. When mussels attach to the walls and shrimp move in, a cascade of ecological interactions follows. The salt marsh to low tide zone is described as "a fascinating area to play with."
+Sub-surface dams—leaky rubble walls rather than true dams—can create shallow still-water systems in intertidal zones. These replicate natural conditions where stone dikes or barriers in tidal rivers create productive habitat. When mussels attach to the walls and shrimp move in, a cascade of [[king-stropharia-ecological-interactions-permaculture]] follows. The salt marsh to low tide zone is described as "a fascinating area to play with."
 
 ## Irish Stone Fields and Kelp Harvesting
 
@@ -83,7 +83,7 @@ Mollison noted that spirulina was greatly overpriced at $30/pound when it should
 
 ## Grey Water Recycling and Sewage Systems
 
-Permaculture design for water extends into urban wastewater management. Grey water from showers and sinks can be shunted directly to mulch basins using simple double-mouth fittings. Shower water is immediately taken up by plants, and grey water can be recycled through greenhouses where it releases heat. A particularly effective design places the shower inside the greenhouse.
+[[natural-farming-guide-permaculture-design-for-small-holdings]] water extends into urban wastewater management. Grey water from showers and sinks can be shunted directly to mulch basins using simple double-mouth fittings. Shower water is immediately taken up by plants, and grey water can be recycled through greenhouses where it releases heat. A particularly effective design places the shower inside the greenhouse.
 
 For sewage treatment, Mollison advocated a half-pipe open channel system leading from toilets directly to tree crops. Unlike round pipes, which become invaded by roots, these open-bottom channels cannot be blocked. Small dams molded into the pipe create continual ponds behind them, allowing water to be absorbed by nearby trees. The system works indefinitely, even with invasive tree species planted alongside.
 
@@ -92,7 +92,7 @@ For sewage treatment, Mollison advocated a half-pipe open channel system leading
 Mollison was sharply critical of large dam projects like the Aswan High Dam, noting that all studies show they:
 
 - Reduce river fertility below them by trapping silt
-- Sharply increase disease, particularly in tropical regions
+- Sharply increase disease, particularly [[fukuoka-natural-farming-in-tropical-regions]]
 - Change or destroy fisheries downstream
 - Release cold water from their base that wipes out temperature-sensitive species
 - Have very low biological utility
@@ -111,4 +111,4 @@ Large trees can be established through direct planting: poplars grown to 90 feet
 - [[water-harvesting-and-conservation-in-permaculture]] - terrestrial water systems in permaculture
 - [[pond-design-and-construction]] - still water aquatic systems
 - [[williams-pdc-food-forests]] - terrestrial coastal zone design
-- [[urban-permaculture-design-strategies]] - applying aquaculture principles in urban settings
+- [[urban-permaculture-design-strategies]] - applying [[aquaculture-principles-and-water-based-food-systems]] in urban settings

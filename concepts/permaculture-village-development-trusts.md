@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-village-development-and-trust-structures]] and Trust Structures
+title: "Permaculture Village Development Trusts"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

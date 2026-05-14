@@ -15,7 +15,7 @@ sources:
   - Royal Horticultural Society (2023). "Dianthus deltoides." RHS Plant Finder.
   - Stern, F.C. (1957). "A Study of the Genus Paeonia." Royal Horticultural Society.
   - Galbany-Casals, M. et al. (2014). "Phylogeny of Dianthus." Taxon.
-  - Bloom, A. (1978). "Ground Cover Plants." Faber & Faber.
+  - Bloom, A. (1978). "[[ground-cover-plants]]." Faber & Faber.
 ---
 
 ## Overview
@@ -71,7 +71,7 @@ The species inhabits dry, sandy or gravelly soils in open, sunny sites. Typical 
 
 It is classified as a chamaephyte, with overwintering buds close to the ground surface. The prostrate stems are partially woody at the base, providing resilience against trampling and [[polypore-fungi-eastern-north-america]], where it occasionally escapes from cultivation.
 
-The species shows clinal variation across its European range, with northern populations tending to be more compact and flower earlier than southern populations. This variation reflects adaptation to different growing season lengths and temperature regimes.
+The species shows clinal [[psilocybin-psilocin-variation-across-flushes]] its European range, with northern populations tending to be more compact and flower earlier than southern populations. This variation reflects adaptation to different [[extending-growing-season]] lengths and [[desert-temperature-regimes-and-soil-chemistry]].
 
 ## Cultivation
 

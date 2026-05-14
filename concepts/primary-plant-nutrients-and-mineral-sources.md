@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Plants require a balance of primary macronutrients (nitrogen, phosphorus, potassium) and numerous micronutrients for healthy growth. In [[permaculture]], the emphasis is on cycling these nutrients locally through biological systems rather than relying on mined or synthetic inputs. Mollison details the natural sources and cycling mechanisms for essential plant nutrients.
+Plants require a balance of primary macronutrients (nitrogen, phosphorus, potassium) and numerous micronutrients for healthy growth. In [[permaculture]], the emphasis is on cycling these nutrients locally through biological systems rather than relying on mined or synthetic inputs. Mollison details the natural sources and cycling mechanisms for [[teaming-with-nutrients-essential-plant-nutrients]].
 
 ## The Three Primary Nutrients
 
@@ -31,7 +31,7 @@ Potash sources include:
 
 ### Nitrogen
 
-Nitrogen can be supplied through biological fixation rather than synthetic fertilizers:
+Nitrogen can be supplied through biological fixation rather than [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]:
 
 - **Rhizobia-inoculated legumes** — nitrogen-fixing bacteria in root nodules of leguminous plants
 - **Algae and water plants** — Scirpus, Azolla, and other aquatic nitrogen fixers
@@ -39,7 +39,7 @@ Nitrogen can be supplied through biological fixation rather than synthetic ferti
 
 ### The Nitrogen-Fixing Zone
 
-Much higher levels of nitrogen than previously thought are fixed by land plants in a series of zones extending from the roots. This root-zone nitrogen fixation has important implications:
+Much higher levels of nitrogen than previously thought are fixed by land plants in a series of zones extending from the roots. This root-zone [[biological-nitrogen-fixation-agriculture]] has important implications:
 
 - **Persistent release after cutting** — even after nitrogen-fixing plants like Acacia, Albizzia, and Eleagnus are cut, the root zone continues to release nitrogen for **up to 6 years**
 - **Pioneer legumes serve as [[crumb-structure]]
@@ -51,7 +51,7 @@ Much higher levels of nitrogen than previously thought are fixed by land plants 
 The liquid remaining after common salt deposition is called **bitterns** — a bitter, oily fluid rich in:
 
 - **Bromine**
-- **Early periodic table elements**
+- **Early [[periodic-table-elements-permaculture]] elements**
 - **Rare minerals**
 - **Potash and magnesium**
 
@@ -80,7 +80,7 @@ Contains **felspars** yielding potash or sodium salts through weathering.
 
 #### Limestone and Dolomite
 
-Yield **calcium and magnesium** — among the most commonly needed soil amendments.
+Yield **[[dynamic-accumulator-plants-calcium-and-magnesium]]** — among the most commonly needed soil amendments.
 
 - Calcium is most needed in all but highly calcareous areas
 - Dolomite is next in importance, except where magnesium is already in high ratio

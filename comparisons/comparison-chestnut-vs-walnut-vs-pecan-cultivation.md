@@ -17,7 +17,7 @@ type: comparison
 
 ## Quick Reference Table
 
-| Attribute | **Chestnut** (*Castanea spp.*) | **Walnut** (*Juglans spp.*) | **Pecan** (*Carya illinoinensis*) |
+| Attribute | **Chestnut** (*Castanea spp.*) | **Walnut** (*Juglans spp.*) | **Pecan** (*[[carya-illinoinensis]]*) |
 |-----------|-------------------------------|------------------------------|-----------------------------------|
 | **USDA Zones** | 4–9 (varies comparison-fruit-tree-guilds-vs-companion-planting** | Excellent (no allelopathy) | **Limited** (juglone kills many plants) | Good |
 

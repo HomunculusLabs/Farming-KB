@@ -148,4 +148,3 @@ Paddy straw mushroom is extremely perishable:
 - [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
 - [[integrated-paddy-rice-and-tree-system]]
 - [[fukuoka-traditional-paddy-construction]]
-- [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]

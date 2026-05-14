@@ -1,5 +1,5 @@
 ---
-title: [[coaxial-power-splitter-waveguide-microwave-sterilization]] D Value [[microwave-microbial-kill-kinetics]] Nasa Msc 22484
+title: "Microwave Sterilization D Value Microbial Kill Kinetics Nasa Msc 22484"
 created: 2026-05-10
 tags: [sterilization, microwave, microbial-kill-kinetics, d-value, nasa-msc-22484]
 ---

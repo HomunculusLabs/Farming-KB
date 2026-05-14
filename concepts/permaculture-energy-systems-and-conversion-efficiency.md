@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-energy-cycling-and-resource-efficiency]] Systems [[village-energy-systems-and-conversion-efficiency]]
+title: "Permaculture Energy Systems And Conversion Efficiency"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -131,7 +131,7 @@ Different feeders attract different birds:
 - **Serviceberry (Amelanchier spp.)**: Early summer berries; eaten by 40+ bird species
 - **Cherry (Prunus spp.)**: Fruit eaten by many species; caterpillar host plant
 - **Dogwood (Cornus spp.)**: Fall berries; important for fall migration fuel
-- **Eastern red cedar (Juniperus virginiana)**: Winter berries; cover for many species
+- **Eastern red cedar ([[juniperus-virginiana]])**: Winter berries; cover for many species
 - **Pine (Pinus spp.)**: Year-round cover; seeds for crossbills, finches, and chickadees
 - **Birch (Betula spp.)**: Seeds for finches and siskins; catkins for spring migrants
 

@@ -78,7 +78,7 @@ In the language of flowers, Sweet William traditionally symbolizes gallantry, fi
 
 The species features in the folklore of several European countries. In English country tradition, picking the first Sweet William of the season was believed to bring good fortune in love.
 
-The plant has no significant culinary or medicinal applications, unlike some related Caryophyllaceae. Its primary cultural value lies in ornamental horticulture and its associations with traditional European garden design.
+The plant has no significant culinary or medicinal applications, unlike some related Caryophyllaceae. Its primary cultural value lies in ornamental horticulture and its associations with traditional European [[community-garden-design]].
 
 ## Distribution and Habitat
 
@@ -86,4 +86,4 @@ Wild Dianthus barbatus occurs naturally in mountainous regions from the Pyrenees
 
 The species inhabits rocky slopes, open woodlands, meadows, and limestone grasslands at elevations between 400 and 2,000 meters. It favors calcareous substrates and well-drained soils in open, sunny positions.
 
-Naturalized populations have established widely in temperate regions worldwide, including North America, where it occurs in disturbed sites and old fields across the northeastern United States and parts of Canada.
+Naturalized populations have established widely in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, including [[guzman-psilocybin-mushrooms-north-america]], where it occurs in disturbed sites and old fields across the northeastern [[dmt-containing-plants-united-states-halpern]] and parts of Canada.

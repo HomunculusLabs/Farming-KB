@@ -65,3 +65,23 @@ Wadi agriculture embodies core [[permaculture-principles]] in an extreme environ
 
 - [[bill-mollison]], *[[permaculture-design]] Course* Pamphlet III: Permaculture in Arid Landscapes
 - Yankee Permaculture, 1981 transcript, Rural Education Center, Wilton NH
+
+## Practical Applications
+
+Desert wadi agriculture mollison has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of desert wadi agriculture mollison has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
+- [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]]
+- [[negev-desert-mollison]]
+- [[arid-landscape-scarp-wadi-desert-settlement]]
+- [[condensation-strategies-desert-agriculture]]
+
+## Key Considerations
+
+When working with desert wadi agriculture mollison, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.

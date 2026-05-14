@@ -1,5 +1,5 @@
 ---
-title: [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]
+title: "Cannabis Outdoor Growing"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

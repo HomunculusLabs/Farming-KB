@@ -6,7 +6,7 @@ type: concept
 
 # Permaculture for Urban Areas
 
-[[permaculture-design-principles]] apply as rigorously to tiny urban spaces as to large rural properties. In urban settings, the primary design challenges are limited space and reduced solar access, but these constraints can be overcome through strategic plant selection, vertical growing systems, and creative use of available light and resources.
+[[permaculture-design-principles]] apply as rigorously to tiny urban spaces as to large rural properties. In urban settings, the primary design challenges are limited space and reduced solar access, but these constraints can be overcome through strategic plant selection, [[coleman-greenhouse-tomato-vertical-growing]] systems, and creative use of available light and resources.
 
 ## Design Principles for Small Spaces
 
@@ -15,7 +15,7 @@ type: concept
 In urban areas with very little ground-level growing space, the vertical dimension becomes the greatest asset. Strategies include:
 
 - **Trellising**: As much growing surface as possible should be trellised. Tall walls can support substantial crop production on vertical surfaces. High-yielding climbing vegetables like pole beans, cucumbers, and indeterminate tomatoes are preferred over bush varieties.
-- **Roof systems**: Modest turf roofing on small roofs can support herbs and shallow-rooted crops. Glasshouses within roof structures can extend the growing season, though they require active ventilation with fans and heat storage systems.
+- **Roof systems**: Modest turf roofing on small roofs can support herbs and shallow-rooted crops. Glasshouses within roof structures can [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season, though they require active ventilation with fans and heat storage systems.
 - **Under-utilized spaces**: Under-floor areas, stairwell spaces, and basement areas with light access can all be pressed into service for growing.
 
 ### Light Maximization
@@ -89,7 +89,7 @@ Britain has established 46 city farms, each occupying deprived urban areas where
 
 - Milk cows being milked and giving birth to calves
 - Goats, geese, and rabbits
-- Worm beds and vegetable gardens
+- Worm beds and [[maintaining-organic-matter-in-vegetable-gardens]]
 - They serve an educational purpose, connecting urban children with agricultural reality
 - Most are voluntarily staffed but require at least a manager's wage
 
@@ -104,7 +104,7 @@ A system linking small growers to 20-30 urban families on a personal basis:
 - Weekend work schedules are arranged, with labor credited to workers
 - The grower receives better than wholesale price; families pay less than retail
 
-This is essentially the Community Supported Agriculture (CSA) model that has since spread globally.
+This is essentially the [[community-supported-agriculture-csa]] (CSA) model that has since spread globally.
 
 ## Cooperative Processing
 
@@ -117,11 +117,11 @@ Urban groups can establish shared processing infrastructure:
 
 ## The City as an Existing Farm
 
-A permaculture perspective views cities as farms that already exist:
+A [[science-and-living-systems-permaculture-perspective]] views cities as farms that already exist:
 
 - **Grazing**: Cities contain very large areas suitable for grazing. One documented example in Adelaide, Australia involves a man running 9,000 sheep, each rented out at $6 per week to homeowners with overgrown yards. He shears and drenches them using a suburban shearing shed and pickup truck. Demand exceeds supply.
 - **Fruit and nut trees**: Melbourne and San Francisco each contain approximately half a million citrus trees in private back yards, most of whose fruit falls to the ground unused. Organizing harvest of this existing resource represents enormous potential.
-- **Building site surpluses**: Scouting groups can locate glass, fencing, building materials, doors, and windows at scrap prices from construction sites — materials that are expensive in rural areas.
+- **Building site surpluses**: Scouting groups can locate glass, fencing, [[gadd-fungal-biodegradation-concrete-building-materials]], doors, and windows at scrap prices from construction sites — materials that are expensive in rural areas.
 
 ## WWOOF (Working Weekends on Organic Farms)
 

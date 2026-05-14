@@ -40,7 +40,7 @@ sources:
 - [[actinomycetes-soil-biology]]
 ## Practical Considerations
 
-When working with Streptomyces avermitilis, several practical factors should be
+When working with [[streptomyces]] avermitilis, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this

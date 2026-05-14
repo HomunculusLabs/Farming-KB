@@ -83,7 +83,7 @@ Camu camu is most notable for its extraordinary vitamin C content:
 
 ## See Also
 - dighton-fungal-nutritional-composition-animal-diets
-- nut-tree-cultivation-for-permaculture-food-forests
+- nut-tree-cultivation-for-[[permaculture]]-food-forests
 - query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle
 
 ## See Also

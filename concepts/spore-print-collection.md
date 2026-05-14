@@ -22,7 +22,7 @@ sources: [papers/mycelium-running-stamets.md]
 - Dust mask (caution: spore masses can trigger allergies)
 
 ### Steps
-1. **Choose a mushroom**: Pick a specimen approaching maturity. Convex caps work best; flattened caps have usually passed peak spore production.
+1. **Choose a mushroom**: Pick a specimen approaching maturity. Convex caps work best; flattened caps have usually passed peak [[geotropism-and-spore-production-in-mushrooms]].
 2. **Select paper color**: White paper for mushrooms with non-white gills; colored paper for white-gilled mushrooms.
 3. **Sever cap from stem**: Place the cap gills/pores down on the paper.
 4. **Cover smaller mushrooms**: Use a cup or bowl to slow evaporation and prevent drying.
@@ -59,7 +59,7 @@ For mushrooms that cannot easily print on paper (morels, lion's mane) — they b
 1. Enclose the mushroom upright in a paper, wax paper, or plastic bag
 2. Tent the bag upside-down so insects and debris fall out
 3. Paper bags are biodegradable; plastic bags give cleaner collection but may collect condensation
-4. For morels, Stamets prefers paper sacks — they can be sandwiched into cardboard to create cardboard spawn
+4. For morels, Stamets prefers paper sacks — they can be sandwiched into cardboard to create [[cardboard-spawn-cultivation]]
 
 ## Collecting Spores from Airstreams
 
@@ -77,7 +77,7 @@ Mushrooms orient into the wind (aerotropism), creating a pressure drop under the
 3. Set dryer at lowest heat setting to prevent too-rapid drying
 
 ### Growing Room Ductwork Method
-1. Contact local exotic mushroom growers for spores from their air ducts
+1. Contact local exotic [[enterprise-development-mushroom-growers]] for spores from their air ducts
 2. Spores collect en masse in plastic ductwork and coarse air filters
 3. Take down ductwork, shake spores into an airtight gallon jar
 4. Up to 1 liter of spores can be gathered from a 1,000 sq ft growing room every few months

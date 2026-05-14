@@ -1,5 +1,5 @@
 ---
-title: [[mollison-village-enterprises-occupations]], Occupations, and Recycling Systems
+title: "Village Enterprises Occupations And Recycling Systems"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

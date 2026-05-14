@@ -136,11 +136,14 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+## Decomposition Process
 
-## See Also
+Saprophytic fungi break down dead organic matter through enzymatic digestion. They secrete cellulases, ligninases, and other enzymes that decompose complex organic molecules into simpler compounds that can be absorbed as nutrients.
 
-- [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]
-- [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-- [[mycelium-running-saprophytic-decomposers]]
-- [[saprophytic-mushrooms]]
-- [[stamets-saprophytic-mushroom-decomposer-succession]]
+## Ecological Roles
+
+Saprophytic fungi play critical roles in nutrient cycling within forest ecosystems. They decompose leaf litter, woody debris, and other organic materials, releasing nutrients back into the soil for uptake by plants and other organisms. This decomposition process is essential for maintaining soil fertility.
+
+## Key Genera
+
+Important saprophytic fungal genera include Pleurotus (oyster mushrooms), Agaricus, Coprinus, and Trametes. Each genus has specialized enzyme systems for decomposing different types of organic matter.

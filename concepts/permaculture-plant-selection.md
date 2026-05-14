@@ -8,7 +8,7 @@ sources: [papers/a-selection-permaculture-plants.md]
 ---
 # Permaculture Plant Resources and Selection
 **Updated:** 2026-04-18
-Permaculture design relies on selecting the right plants for the right
+[[permaculture-design]] relies on selecting the right plants for the right
 functions in the right places. Rather than choosing plants primarily
 for ornamental value, permaculture selects plants for their ecological
 functions: food, [[hemenway-backyard-wildlife-habitat]].

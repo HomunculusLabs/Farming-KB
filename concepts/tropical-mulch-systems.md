@@ -1,5 +1,5 @@
 ---
-title: [[mollison-tropical-mulch-systems-and-materials]]
+title: "Tropical Mulch Systems"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

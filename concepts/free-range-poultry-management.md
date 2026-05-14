@@ -7,7 +7,7 @@ type: concept
 # Free-Range Poultry Management
 
 Free-range poultry and pig systems are integral components of [[rhode-island-red]],
-Plymouth Rock, and Australorp.
+Plymouth Rock, and [[australorp]].
 
 ### Other Breeds
 
@@ -58,7 +58,7 @@ with fresh forage.
 
 Diseases are rare on well-managed free systems. Essential health provisions include:
 
-- **Dust baths** with [[diatomaceous-earth]], dried bracken, or neem leaves for ectoparasites
+- **Dust baths** with [[diatomaceous-earth]], dried bracken, or [[neem]] leaves for ectoparasites
 - **Wormwoods** for intestinal worm control
 - **Shell grit and calcium gravel** for eggshell formation
 - **Silica grit** for digestion

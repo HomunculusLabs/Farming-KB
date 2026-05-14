@@ -42,9 +42,9 @@ Although technically edible, its small size and unremarkable flavor mean it is r
 
 ### Synonyms
 
-- Agaricus amianthinus Batsch (1789)
+- [[agaricus]] amianthinus Batsch (1789)
 - Agaricus granulosus Batsch (1789)
-- Lepiota amianthina (Batsch) P.Kumm. (1871)
+- [[lepiota]] amianthina (Batsch) P.Kumm. (1871)
 - Armillaria granulosa (Batsch) Quél. (1886)
 
 The specific epithet *amianthinum* derives from Greek *amiantinos*, meaning "undefiled" or "pure," possibly referencing the clean white color of the gills.
@@ -71,7 +71,7 @@ Flesh is thin, white, with a mild to slightly farinaceous odor and a mild taste,
 
 Cystoderma amianthinum has a broad circumboreal distribution across Europe, [[fungal-ecology-forest-floor]] litter, particularly under spruce and pine.
 
-Fruiting occurs from July through October, often in scattered groups or small troops on acidic forest soils.
+Fruiting occurs from July through October, often in scattered groups or small troops on acidic [[fire-effect-on-forest-soils-and-nutrient-loss]].
 
 It may also occur in mixed woodlands, especially where coniferous litter accumulates beneath a broadleaf canopy.
 

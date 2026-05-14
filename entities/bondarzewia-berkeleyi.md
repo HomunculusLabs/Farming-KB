@@ -32,7 +32,7 @@ sources:
 
 ## Overview
 
-**Bondarzewia berkeleyi**, commonly known as Berkeley's polypore or the stump
+**Bondarzewia berkeleyi**, commonly known as Berkeley's [[polypore]] or the stump
 puffball, is a large perennial polypore fungus in the order Russulales and family
 Bondarzewiaceae. It is a root and butt rot pathogen of hardwood trees, primarily
 oaks (*Quercus* spp.), producing massive, cream-colored, overlapping basidiocarps

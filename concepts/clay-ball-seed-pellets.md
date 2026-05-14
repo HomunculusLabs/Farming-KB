@@ -137,8 +137,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[clay-seed-balls-tsuchi-dango]]
-- [[comparison-light-straw-clay-vs-hempcrete]]
-- [[fukuoka-clay-pellet-aerial-seeding-method]]
-- [[kaolin-clay-mollison]]
-- [[query-how-do-clay-seed-balls-work-for-natural-farming]]
+- [[clay-pellet-seed-balling]]
+- [[clay-soil-remediation]]
+- [[clay-soil-remediation-and-soil-temperature]]

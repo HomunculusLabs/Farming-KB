@@ -81,3 +81,10 @@ A small percentage of the population experiences allergic reactions or gastroint
 **Laetiporus sulphureus** produces several bioactive metabolites that have attracted pharmacological research interest.
 
 **[[antimicrobial-compounds-mushroom-mycelium]]:** The fungus produces laetiporic acids, orange pigments with demonstrated antibacterial and antifungal activity. These carboxylic acid derivatives are unique to the genus Laetiporus.
+
+## See Also
+
+- [[laetiporus-cincinnatus]]
+- [[laetiporus-conifericola]]
+- [[laetiporus-gilbertsonii]]
+- [[laetiporus-persicinus]]

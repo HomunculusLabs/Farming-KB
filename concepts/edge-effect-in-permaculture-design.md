@@ -1,5 +1,5 @@
 ---
-title: Edge Effect in Permaculture Design
+title: Edge Effect In Permaculture Design
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -52,7 +52,7 @@ Deliberately designed edge produces a range of **microclimates** within a single
 
 ### Bananas in Thorn Bush Microclimate
 
-One of the most striking examples of edge-based microclimate design is the successful cultivation of bananas within a thorn bush microclimate — approximately 1,000 miles south of conventional banana-growing country. The thorn bush creates a sheltered, warm edge environment that moderates the harsh external climate sufficiently to support a tropical crop far outside its normal range.
+One of the most striking examples of edge-based [[herb-spiral-microclimate-design]] is the successful cultivation of bananas within a thorn bush microclimate — approximately 1,000 miles south of conventional banana-growing country. The thorn bush creates a sheltered, warm edge environment that moderates the harsh external climate sufficiently to support a tropical crop far outside its normal range.
 
 ## Edge Harmonics
 
@@ -62,7 +62,7 @@ The concept of edge harmonics represents a significant intellectual bridge betwe
 
 ### The Harmonic Landscape Profile
 
-The harmonic landscape profile applies these mathematical principles to landform design. Natural landscapes exhibit harmonic patterns in their contours, water flows, and vegetation boundaries. Permaculture designers who recognize and work with these harmonic patterns can create landscapes that function more efficiently and support greater diversity than those designed using purely rectilinear geometry.
+The harmonic landscape profile applies these mathematical principles to landform design. Natural landscapes exhibit harmonic patterns in their contours, water flows, and vegetation boundaries. [[bill-mollison]] who recognize and work with these harmonic patterns can create landscapes that function more efficiently and support greater diversity than those designed using purely rectilinear geometry.
 
 ## Aboriginal Patterns and Ecological Mapping
 
@@ -70,7 +70,7 @@ Aboriginal Australian women's traditional patterns — often dismissed as decora
 
 ## Edge as Boundary Condition
 
-Edge functions as a **boundary condition** across many natural phenomena — not only in ecology but in physics, chemistry, and fluid dynamics. Boundary conditions are critically important because they determine the behavior of the system at its margins, and those marginal behaviors often propagate inward to shape the character of the entire system. In permaculture design, attending to boundary conditions — the edges of a site, the transitions between zones, the interfaces between elements — is therefore a primary design strategy.
+Edge functions as a **boundary condition** across many natural phenomena — not only in ecology but in physics, chemistry, and [[computational-fluid-dynamics]]. [[boundary-conditions-and-media-interfaces]] are critically important because they determine the behavior of the system at its margins, and those marginal behaviors often propagate inward to shape the character of the entire system. In permaculture design, attending to boundary conditions — the edges of a site, the transitions between zones, the interfaces between elements — is therefore a primary design strategy.
 
 ## Three-Dimensional Edge: The Ziggurat Garden
 
@@ -93,7 +93,7 @@ In natural landscapes, **scarps** (steep slopes and cliff faces) reveal how Natu
 
 ### The "Drunken Walk" Method
 
-A key method for discovering natural edge patterns on a site is the **"drunken walk"** — wandering the landscape without a predetermined path, allowing the terrain itself to guide movement. This unstructured exploration reveals natural patterns, existing edges, microclimatic variation, and the inherent logic of a site that straight-line surveys and rectilinear mapping miss entirely.
+A key method for discovering natural edge patterns on a site is the **"drunken walk"** — wandering the landscape without a predetermined path, allowing the terrain itself to guide movement. This unstructured exploration reveals [[natural-patterns-in-permaculture-design]], existing edges, microclimatic variation, and the inherent logic of a site that straight-line surveys and rectilinear mapping miss entirely.
 
 ### Mike Corbett at Davis
 

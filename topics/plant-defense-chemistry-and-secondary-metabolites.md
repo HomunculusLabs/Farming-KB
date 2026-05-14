@@ -1,5 +1,5 @@
 ---
-title: Plant plant defense chemistry and secondary metabolites and antifungal-secondary-metabolites-coprophilous-fungi
+title: Plant Defense Chemistry And Secondary Metabolites
 tags: plant-chemistry, secondary-metabolites, plant-defense, phytoalexins, alkaloids, terpenes, glucosinolates, allelopathy, integrated-pest-management, botany
 date: 2026-04-28
 updated: 2026-04-28
@@ -27,11 +27,11 @@ Alkaloids are nitrogen-containing compounds, typically derived from amino acids.
 
 | Alkaloid | Source Plant | Family | Primary Function |
 |----------|-------------|--------|-----------------|
-| Nicotine | *Nicotiana tabacum* | Solanaceae | Insect neurotoxin |
+| Nicotine | *[[nicotiana-tabacum]]* | Solanaceae | Insect neurotoxin |
 | Caffeine | *[[tea-cultivation-and-camellia-sinensis-processing]]* | Rubiaceae, Theaceae | Herbivore deterrent, allelopathic |
 | Solanine solanum tuberosum osum* | Solanaceae | Antifungal, insect deterrent |
 | Cocaine erythroxylum coca coca* | Erythroxylaceae | Insect feeding deterrent |
-| papaver somniferum r somniferum* | Papaveraceae | Anti-herbivore, antifungal |
+| [[papaver-somniferum]] r somniferum* | Papaveraceae | Anti-herbivore, antifungal |
 | Strychnine | *Strychnos nux-vomica* | Loganiaceae | Potent vertebrate toxin |
 | Atropine atropa belladonna onna* | Solanaceae | Anticholinergic toxin |
 
@@ -69,7 +69,7 @@ Glucosinolates are sulfur- and nitrogen-containing compounds found almost exclus
 - **Thiocyanates** — goitrogenic compounds
 - **Oxazolidine-2-thiones** — goitrogenic, found in cruciferous forages
 
-The glucosinolate-myrosinase system is often called the "mustard bomb" and is one of the best-studied plant defense systems. Different Brassica species produce different glucosinolate profiles, which partly determines their pest and disease resistance spectra. This chemistry is the basis for biofumigation — incorporating Brassica cover crops into soil to release isothiocyanates that suppress soilborne pathogens and nematodes.
+The glucosinolate-myrosinase system is often called the "mustard bomb" and is one of the best-studied plant defense systems. Different Brassica species produce different glucosinolate profiles, which partly determines their pest and disease resistance spectra. This chemistry is the basis for biofumigation — incorporating [[biofumigation-and-brassica-cover-crops-for-pest-management]] into soil to release isothiocyanates that suppress soilborne pathogens and nematodes.
 
 **Sulforaphane**, an isothiocyanate from broccoli, has potent anticancer properties and is one of the most studied dietary phytochemicals.
 
@@ -96,7 +96,7 @@ Cyanogenic glycosides are stored as inactive precursors that release hydrogen cy
 | Dhurrin | Sorghum | Poaceae | Causes livestock poisoning |
 | Prunasin | Wild cherry, chokecherry | Rosaceae | Dangerous to livestock |
 
-Cassav manihot esculenta enta*) is a staple food for ~800 million people but contains linamarin; proper processing (peeling, fermentation, cooking) is essential to remove cyanogenic compounds. Breeding programs have developed low-cyanogen varieties.
+Cassav [[manihot-esculenta]] enta*) is a staple food for ~800 million people but contains linamarin; proper processing (peeling, fermentation, cooking) is essential to remove cyanogenic compounds. Breeding programs have developed low-cyanogen varieties.
 
 ### Other Notable Defense Compounds
 
@@ -108,7 +108,7 @@ Cassav manihot esculenta enta*) is a staple food for ~800 million people but con
 
 **Phytoalexins** are antimicrobial compounds synthesized de novo after pathogen attack (see below).
 
-**Cannabinoids** (THC, CBD, etc.) in cannabis are terpenophenolic compounds that serve ecological roles in pest defense and UV protection, in addition to their well-known psychoactive and medicinal properties.
+**Cannabinoids** (THC, CBD, etc.) in cannabis are terpenophenolic compounds that serve ecological roles in pest defense and UV protection, in addition to their well-known psychoactive [[ginseng-cultivation-and-medicinal-properties]].
 
 ## Constitutive vs. Induced Defenses
 

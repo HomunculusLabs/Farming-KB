@@ -38,7 +38,7 @@ Gadd's research on fungal-metal interactions has direct applications to [[mycore
 
 ### Fungal Ecology
 
-Co-editor of *Fungi in the Environment* (with [[sarah-c-watkinson]] and Paul S. Dyer), a comprehensive reference covering fungal contributions to decomposition, nutrient cycling, plant symbioses, and environmental interactions. See also [[john-dighton]]'s complementary *Fungi in Ecosystem Processes*.
+Co-editor of *Fungi in the Environment* (with [[sarah-watkinson]] and Paul S. Dyer), a comprehensive reference covering fungal contributions to decomposition, nutrient cycling, plant symbioses, and environmental interactions. See also [[john-dighton]]'s complementary *Fungi in Ecosystem Processes*.
 
 ## Academic Career
 
@@ -54,7 +54,7 @@ Gadd demonstrated that fungi play critical roles in mineral cycling and environm
 
 ## Related
 
-- [[sarah-c-watkinson]] — co-editor of Fungi in the Environment
+- [[sarah-watkinson]] — co-editor of Fungi in the Environment
 - [[john-dighton]] — complementary fungal ecology researcher
 - [[mycoremediation-basics]] — applications of Gadd's metal interaction research
 - [[fungal-remediation-decision-tree]] — contaminant matching for bioremediation

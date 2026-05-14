@@ -92,7 +92,7 @@ That condition implies vanishing power output, so useful engines must trade some
 ## Relation to Practical Power Cycles
 
 The [[jadam-ambient-temperature-principle]].
-This idea underlies exergy analysis, which measures maximum useful work relative to the environment.
+This idea underlies [[exergy-analysis]], which measures maximum useful work relative to the environment.
 Power-plant designers use Carnot reasoning to justify higher boiler temperatures, lower condenser temperatures, reheat, regeneration, and combined cycles.
 Materials engineers use it to understand why hotter turbines promise higher efficiency but demand creep-resistant alloys and cooling systems.
 Building engineers use the reversed cycle to evaluate heat pumps and refrigeration equipment.

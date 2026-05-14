@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Ecovative Design is a pioneering biotechnology company that commercialized the use of myceliated biomass for packaging and consumer products. Founded in Green Island, New York, the company developed proprietary processes for growing mycelium into specific shapes and densities, creating biodegradable alternatives to synthetic packaging materials such as expanded polystyrene foam (Styrofoam). Their work opened the door to broader experimentation in mycelium-based product development by both industrial researchers and home growers. The company demonstrated that fungal mycelium, when grown on agricultural waste substrates in molded forms, can produce materials with properties comparable to conventional petroleum-based plastics and foams.
+Ecovative Design is a pioneering biotechnology company that commercialized the use of myceliated biomass for packaging and consumer products. Founded in Green Island, New York, the company developed proprietary processes for growing mycelium into specific shapes and densities, creating biodegradable alternatives to synthetic packaging materials such as expanded polystyrene foam (Styrofoam). Their work opened the door to broader experimentation in mycelium-based product development by both industrial researchers and home growers. The company demonstrated that fungal mycelium, when grown on [[agricultural-waste-substrates]] in molded forms, can produce materials with properties comparable to conventional petroleum-based plastics and foams.
 
 ## Classification
 
@@ -23,11 +23,11 @@ Ecovative Design is a pioneering biotechnology company that commercialized the u
 
 - Pioneered the commercial use of myceliated biomass as a replacement for petroleum-based packaging foams
 - Their technology uses fungal mycelium to bind agricultural waste (such as husks, stalks, and seed hulls) into rigid, customizable forms
-- Products are fully biodegradable and compostable at end of life, breaking down in home composting systems
+- Products are fully biodegradable and compostable at end of life, breaking down in home [[composting-systems]]
 - The company's work inspired a wave of product development in fungal biomaterials worldwide
 - Their process involves growing mycelium in molds filled with agricultural substrate, where the fungus colonizes and binds the material into the desired shape over several days
 - The finished products are dried to halt mycelial growth, creating stable, inert materials that are fire-resistant and water-repellent
-- Oyster mushroom (Pleurotus ostreatus) and reishi (Ganoderma spp.) are among the species used for biomaterial production
+- [[oyster-mushroom]] ([[pleurotus-ostreatus]]) and reishi (Ganoderma spp.) are among the species used for biomaterial production
 - The technology has been licensed to companies including IKEA and Dell for sustainable packaging solutions
 
 ## Mycelium-Based Material Properties
@@ -56,3 +56,27 @@ The possibilities for replacing short-lived consumer goods that accumulate in la
 
 - Cotter, T. (2016). Organic Mushroom Farming and Mycoremediation. Chelsea Green Publishing.
 - Ecovative Design. Company website and public technology descriptions.
+
+## Practical Applications
+
+Ecovative design has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of ecovative design has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## See Also
+
+- [[holzer-permaculture-landscape-design]]
+- [[water-design-checklist-and-dam-construction]]
+- [[permaculture-design-principles-energy-diversity-yield]]
+- [[permaculture-designers-manual-village-design]]
+- [[coleman-mobile-greenhouse-design-and-operation]]
+
+## Key Considerations
+
+When working with ecovative design, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.
+
+## Integration Strategies
+
+Ecovative design can be effectively integrated with complementary practices to create synergistic systems that maximize overall productivity and ecological function.

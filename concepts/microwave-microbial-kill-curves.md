@@ -15,10 +15,10 @@ bacteria, yeasts, and molds at defined exposure rates and durations.
 
 ## Challenge Organisms
 
-The NASA study tested microwave sterilization effectiveness against three
+The NASA study tested [[microwave-sterilization]] effectiveness against three
 representative microorganisms spanning different [[bacillus-pumilus-radiation-resistance-surface-decontamination]]*** — A spore-forming bacterium. Spores are among the
   most resistant microbial forms to physical and chemical treatments,
-  making *B. pumilus* a standard biological indicator for sterilization
+  making *B. pumilus* a standard biological indicator for [[sterilization]]
   validation.
 - ***Escherichia coli*** — A Gram-negative rod bacterium. Relatively
   sensitive to heat and chemical treatments. Represents vegetative

@@ -30,7 +30,7 @@ sources:
 ## Pharmacology
 
 ### GABA-A Receptor Modulation
-- (+)-Kavain is the principal anxiolytic kavalactone
+- (+)-[[kavain]] is the principal anxiolytic kavalactone
 - Binds benzodiazepine site but does **not** share the full benzodiazepine pharmacophore
 - Produces anxiolysis without marked sedation or cognitive impairment at moderate doses
 - Does not potentiate barbiturate-induced sleep — distinct from classical benzodiazepines

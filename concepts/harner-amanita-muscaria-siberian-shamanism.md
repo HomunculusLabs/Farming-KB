@@ -61,7 +61,7 @@ Yet by patient library research one can find overwhelming evidence of such subst
 ## The Soma Question
 
 While Harner does not address it directly in this work, the use of *Amanita muscaria* in Siberian shamanism has long been connected to the debate over the identity of **Soma**, the divine hallucinogenic plant of the ancient Vedic rituals of India. R. [[siberian-shamanism]]
-- [[shamanism]]
+- shamanism
 - [[det]]
 
 ## Overview

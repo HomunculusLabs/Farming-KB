@@ -29,7 +29,7 @@ From TIHKAL: "I struggle to put a name to it, just +++ smashed" -- indicating th
 
 **Level 4**. Overwhelming experience. Complete [[psilocybin-ego-dissolution-mechanisms]], transcendent states, contact with what is perceived as the divine or ultimate reality. The subject may lose all sense of self, body, and ordinary reality. This is the level of mystical or near-death experiences.
 
-From TIHKAL (5-MeO-DMT): "I beheld every thought that was going on everywhere in the universe and all possible realities... A definite ++++."
+From TIHKAL (5-MeO-[[dmt]]): "I beheld every thought that was going on everywhere in the universe and all possible realities... A definite ++++."
 
 ## Usage in TIHKAL
 

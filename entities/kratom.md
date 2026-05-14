@@ -15,7 +15,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Prozialeck, W.C. et al. (2012). "Kratom (kratom-mitragyna-speciosa-pharmacology): An overview of the science and implications for practitioners." Journal of the American Osteopathic Association, 112(12), 782–787.
+  - Prozialeck, W.C. et al. (2012). "Kratom ([[kratom-mitragyna-speciosa-pharmacology]]): An overview of the science and implications for practitioners." Journal of the American Osteopathic Association, 112(12), 782–787.
   - Hassan, Z. et al. (2013). "Mechanism of antinociceptive action of Mitragyna speciosa: involvement of supraspinal opioid receptors." International Journal of Molecular Sciences, 14(12), 23482–23496.
   - Grundmann, O. (2017). "Patterns of kratom use and health impact in the US." Drug and [[7-hydroxymitragynine]] being the primary psychoactive constituents. Kratom has been used traditionally for centuries as a stimulant, analgesic, and treatment for opioid withdrawal in its countries of origin.
 

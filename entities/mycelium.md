@@ -142,9 +142,8 @@ current understanding and implementation strategies.
 
 Successful integration of mycelium into broader
 systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
+## See Also
 
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
+- [[mycelium-based-materials-and-products]]
+- [[mycelium-building-materials]]
+- [[mycelium-inoculation-techniques]]

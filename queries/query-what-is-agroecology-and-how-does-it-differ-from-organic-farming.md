@@ -138,5 +138,5 @@ For farmers and gardeners wanting to move beyond input-substitution organic:
 ## See Also
 
 - [[permaculture-design-principles]]
-- [[the-soil-food-web]]
+- [[soil-food-web]]
 - [[native-american-church-peyote-ceremony-structure-roles-roadman]]

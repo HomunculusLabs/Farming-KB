@@ -84,7 +84,7 @@ Based on body size (after Anderson, *New Scientist*, 6 Oct 1983):
 ### Impact of Agriculture
 - Plough cropping in Canada has reduced humus levels to 1% of original levels over much of wheat country.
 - Aeration from ploughing oxidises humus to CO2, permanently lost to atmosphere.
-- About 30% of plant energy may be lost as sugars or compounds released to soil via roots, feeding [[the-soil-food-web]].
+- About 30% of plant energy may be lost as sugars or compounds released to soil via roots, feeding [[soil-food-web]].
 - Humus at Rothamsted has a mean age of 1,400 years, deriving from forests that preceded the wheat.
 
 ### Earthworm Recycling Rates

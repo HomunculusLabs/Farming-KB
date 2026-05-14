@@ -26,7 +26,7 @@ growing medium should be kept moist but never waterlogged at any point. A
 spray bottle used to mist the surface is safer than pouring water over
 tiny seedlings that can be easily displaced. Good drainage is essential;
 containers must have adequate holes and the medium should not be so fine
-that it becomes compacted and water-retentive. Adding perlite-cannabis|perlite
+that it becomes compacted and water-retentive. Adding [[perlite-cannabis]]|perlite
 or vermiculite-cannabis|vermiculite improves aeration and drainage
 in [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]] Questions
 - [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]

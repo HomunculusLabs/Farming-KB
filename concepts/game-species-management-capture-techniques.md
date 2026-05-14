@@ -6,11 +6,11 @@ type: concept
 
 # Game Species Management and Capture Techniques
 
-Managed wildlife farming represents a productive alternative to conventional livestock, potentially integrating 40–80 species of birds, mammals, fish, and lower vertebrates in polyculture systems that exceed single-species yields while actually improving tree and prairie cover.
+Managed [[wildlife-farming-and-game-management]] represents a productive alternative to conventional livestock, potentially integrating 40–80 species of birds, mammals, fish, and lower vertebrates in polyculture systems that exceed single-species yields while actually improving tree and prairie cover.
 
 ## The Case for Wildlife Farming
 
-By the mid-1960s, wildlife researchers had developed good yield estimates under managed systems and could have devised excellent game farms. Pioneer farms of crocodile, emu, kangaroo, deer, and waterfowl already demonstrate economic and social benefits. These systems typically require less capital than conventional livestock operations and achieve better feed conversion.
+By the mid-1960s, wildlife researchers had developed good yield estimates under managed systems and could have devised excellent game farms. Pioneer farms of crocodile, emu, kangaroo, deer, and waterfowl already demonstrate [[holmgren-economic-and-social-succession]] benefits. These systems typically require less capital than conventional livestock operations and achieve better feed conversion.
 
 The obstacle has been cultural rather than practical. Imported European cultures prevented the use of kangaroo and various antelope as farmed species, despite their status as preferred local foods. Redirecting capital from the production of fatty, chemicalised meats toward intelligent management of healthier rangelands and products would represent a far better use of resources.
 
@@ -39,7 +39,7 @@ Fast-acting knockout drugs or chemical pellets for large or dangerous species: b
 ### Shooting
 Large species are culled by shooting where essential, as sexes and ages are easily distinguished in the field.
 
-Many capture methods operate at night when lights, traps, and nets are effective and heat stress on captured animals is reduced.
+Many capture methods operate at night when lights, traps, and nets are effective and [[heat-stress-cannabis]] on captured animals is reduced.
 
 ## Population Monitoring
 
@@ -60,7 +60,7 @@ Free-range species are attracted to areas providing:
 - **Winter shelter**: Windbreaks, rock piles, brush piles, and loose [[compost]] mounds
 - **Water points**: Constructed ponds, troughs, and wetlands
 
-Seed and forage plants of particular value during periods of browse shortage can be scattered across depleted range to boost wildlife populations. These enhancements transform degraded land into productive habitat while maintaining the ecological functions of the range.
+Seed and forage plants of particular value during periods of browse shortage can be scattered across depleted range to boost wildlife populations. These enhancements transform [[query-how-do-i-establish-a-food-forest-on-degraded-land]] into productive habitat while maintaining the [[fungal-melanin-biosynthesis-ecological-functions]] of the range.
 
 ## Deer Farming Lessons
 

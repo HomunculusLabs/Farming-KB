@@ -16,9 +16,9 @@ type: query
 
 ## Short Answer
 
-Hardneck garlic (Allium sativum var. ophioscorodon) produces a stiff
+Hardneck garlic ([[allium-sativum-entity]] var. ophioscorodon) produces a stiff
 central flowering stalk called a scape, has fewer but larger cloves with
-richer flavor, and grows best in cold climates.
+richer flavor, and grows best in [[query-best-kiwifruit-varieties-for-cold-climates]].
 Softneck garlic (Allium sativum var. sativum) lacks a stiff central stalk,
 has more but smaller cloves, stores much longer, and tolerates milder
 winters.

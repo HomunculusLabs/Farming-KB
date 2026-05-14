@@ -1,16 +1,16 @@
 ---
 title: Permaculture Community Legal Structures
-source: bill-mollison-permaculture-design-course.md
+source: bill-mollison-[[permaculture-community-legal-structure|permaculture]]-design-course.md
 type: concept
 ---
 
-# Permaculture Community Legal Structures
+# [[permaculture-community-enterprises-and-self-reliance|Permaculture]] Community Legal Structures
 
-The legal and financial architecture supporting permaculture communities is as important as their ecological design. Bill Mollison developed a sophisticated organizational model that uses standard legal instruments—companies, trusts, and non-profit structures—to create insulated, tax-efficient, and internationally scalable systems for community-based land management and trading. This model, tested through the Tagari community in Australia, demonstrates how ecological design principles can be applied to social and financial systems.
+The legal and financial architecture supporting [[permaculture]] communities is as important as their [[gaias-garden-ecological-design-process-checklist]]. [[bill-mollison]] developed a sophisticated organizational model that uses standard legal instruments—companies, trusts, and non-profit structures—to create insulated, tax-efficient, and internationally scalable systems for community-based [[integrated-land-management-and-polyculture-design]] and trading. This model, tested through the Tagari community in Australia, demonstrates how [[williams-pdc-ecological-design-principles]] can be applied to social and financial systems.
 
 ## Core Principles
 
-The foundation of any permaculture community legal structure rests on agreement to three ethical principles:
+The foundation of any [[permaculture-community-legal-structure]] rests on agreement to three [[holmgren-ethical-principles-care-earth-people-fair-shares]]:
 
 1. **Earth care** — stewardship of ecological systems
 2. **People care** — responsibility toward human welfare
@@ -22,7 +22,7 @@ A community can be defined as a group of designers, people sharing a house, or i
 
 ### Level 1: The Institute (Public Trust Company)
 
-The community forms an ordinary company that acts as a trustee. This company, which Mollison called the Permaculture Institute, does not trade and takes no cash flow in or out. It issues shares of one dollar to each member, with all members eligible to serve as directors.
+The community forms an ordinary company that acts as a trustee. This company, which Mollison called the [[permaculture-institute]], does not trade and takes no cash flow in or out. It issues shares of one dollar to each member, with all members eligible to serve as directors.
 
 **Functions:**
 - Acts in areas of health, education, and agriculture
@@ -42,7 +42,7 @@ Mollison noted that raiding or dissolving such a trust is "uncommon, almost unhe
 
 The second trust is a non-profit trading corporation that is legally separate from the Institute but under the same company's trusteeship. This is where all business activity occurs.
 
-**Key structural features:**
+**Key [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]:**
 - Occupies structures **loaned at no cost** by the Institute (which it funds)
 - **Staffed free** by community members
 - **Owns no buildings** and employs no staff formally
@@ -148,39 +148,3 @@ The Institute cannot accept properties with any attachments, claims, or encumbra
 ### Scale of Land Accumulation
 
 Mollison claimed there is "absolutely no problem" in acquiring several million dollars worth of land—hundreds of square miles—within 12 months, provided a group is organized to handle the logistics. Offers have been received from Great Britain, France, Africa, islands, and all Australian states. The limiting factor is finding people willing to live on and manage the land.
-
-## International Structure
-
-The model closely follows merchant banking systems and is designed for international scalability. Urban groups can join as partners, traders, or Institute directors for their local area without going through the legal establishment process. This enables:
-
-- **Bioregional delegation** of responsibility
-- **International cooperation** through shared legal framework
-- **Individual agent appointment** in any country
-- **Cross-border money flow** with minimal friction
-
-## The Community Farm Model
-
-The legal structure enables a comprehensive community farm design that includes:
-
-- **Forest areas** for timber, wildlife, and ecosystem services
-- **Lakes and fishing** for food production and recreation
-- **Allotments** for individual food growing
-- **Public access** for walking and education
-- **Flower and vegetable production** combining aesthetic and productive functions
-
-## Philosophy of Power
-
-Mollison articulated a clear philosophy underlying the structure: the community has deliberately divested itself of power over other people, capital, and material goods. Individual members cannot force anyone to do anything. The community exists only if people value and support it—"otherwise, we are broke, dead, unloved."
-
-What the community retains is access to libraries, international travel (when serving a useful purpose), excellent food, and great company. The structure works precisely because it attracts people who share its ethics rather than seeking to control them.
-
-## Supporting Projects
-
-The Institute can help individuals establish projects aligned with community principles. Mollison cited the example of a Childbirth Institute in Queensland, funded by a public donation, staffed by excellent practitioners, and operated as part of the Institute's health program for public benefit. He envisioned replicating this model for children's schools and additional health centers.
-
-## See Also
-
-- [[urban-permaculture-design-strategies]] - applying community structures in urban settings
-- [[cooperative-food-distribution-marketing]] - trading and marketing within community networks
-- [[permaculture-ethics-and-design-principles]] - the ethical foundation of community structures
-- [[bioregional-organization]] - scaling community governance to landscape levels

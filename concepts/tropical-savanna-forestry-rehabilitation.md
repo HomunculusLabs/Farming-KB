@@ -6,7 +6,7 @@ type: concept
 
 # Tropical Savanna Forestry Rehabilitation
 
-Tropical savannah forestry addresses the rehabilitation of degraded lands where overgrazing, fire, and slash-and-burn agriculture have destroyed native forests, replacing them with fire-prone grasslands of low productivity. These degraded areas—often dominated by stubborn species like blady grass (*Imperata cylindrica*)—present both a challenge and an opportunity for systematic ecological restoration using pioneer legume species.
+Tropical savannah forestry addresses the rehabilitation of degraded lands where overgrazing, fire, and slash-and-burn agriculture have destroyed native forests, replacing them with fire-prone grasslands of low productivity. These degraded areas—often dominated by stubborn species like blady grass (*[[imperata-cylindrica]]*)—present both a challenge and an opportunity for systematic ecological restoration using pioneer legume species.
 
 ## The Problem of Savannah Degradation
 
@@ -16,7 +16,7 @@ When native tropical forests are cleared or burned repeatedly, a successional re
 - **Soil erosion** accelerates as tree cover is lost
 - **Soil acidity** increases (often reaching pH 4–4.5)
 - **Nutrient states** decline severely
-- **Stock carrying capacity** drops during dry periods
+- **Stock [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]]** drops during dry periods
 - **Bare patches** of eroded, nutrient-poor soil develop
 
 Blady grass (*Imperata cylindrica*) and similar tropical forage grasses are particularly problematic. They form dense, nearly impenetrable barriers that resist both manual clearing and natural forest regeneration. However, they do provide good mulch material when cut.
@@ -35,7 +35,7 @@ Pioneer legumes accomplish several critical functions simultaneously:
 - **Leaf drop and root nodulation** rebuild soil nitrogen and organic matter
 - **Canopy closure** shades out fire-prone grasses, reducing or eliminating fire risk
 - **Mulch production** from pruned branches and leaf fall improves soil structure
-- **Microclimate creation** enables subsequent plantings of more sensitive species
+- **[[holzer-climate-zone-microclimate-creation]]** enables subsequent plantings of more sensitive species
 
 ### Phase 3: Introduction of High-Value Species
 
@@ -59,7 +59,7 @@ A stick-wood coppicing species that defeats grasses and provides abundant firewo
 Salt and frost tolerant, fast growing, and effective at defeating grasses. Tolerates a wide range of soil types and can be established from large cuttings (quickset method), as practiced in India.
 
 ### Enterolobium cyclocarpum
-A durable timber tree with large pods that defeats grasses. Native to and widely used in Central America.
+A durable timber tree with large pods that defeats grasses. Native to and widely used [[neurotropic-fungi-in-central-america]].
 
 ### Mimosa scabrella
 A subtropical pioneer from Brazil that provides good humus and functions effectively as a living fence.
@@ -84,7 +84,7 @@ Establishing productive perennial grass on weedy or eroded areas requires a one 
 ## Support Species for Long-Term Systems
 
 For long-term forage and forest systems, additional species complement the pioneers:
-- **Leucaena leucocephala** and **Albizia** species for ongoing nitrogen fixation and forage
+- **[[leucaena-leucocephala]]** and **Albizia** species for ongoing [[legume-nitrogen-fixation-and-green-manure]] forage
 - **Inga edulis** for shade and mulch production
 - **Prosopis pallida** for pod production and firewood on dry sites
 - **Pterocarpus indicus** and **P. erinaceus** for valuable timber (first seed-planted in nursery, then coppiced for 2m quickset planting)

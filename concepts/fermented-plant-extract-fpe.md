@@ -1,6 +1,6 @@
 ---
 
-title: [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]] (FPE) — FPJ & FFJ
+title: "Fermented Plant Extract Fpe"
 created: 2026-04-10
 updated: 2026-04-12
 type: concept

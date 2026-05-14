@@ -41,7 +41,7 @@ Japan. One of the most important herbs in Traditional Chinese Medicine (TCM), it
 has been used for over a thousand years as a tonic for longevity, vitality, and
 hair restoration. The plant produces two distinct medicinal preparations: raw
 (sheng) root, used for detoxification and constipation, and prepared (zhi) root,
-processed with black soybean wine, used as a rejuvenating tonic for the liver,
+processed with black [[soybean]] wine, used as a rejuvenating tonic for the liver,
 kidneys, and blood.
 
 The name He Shou Wu translates to "Mr. He's black hair," referring to a

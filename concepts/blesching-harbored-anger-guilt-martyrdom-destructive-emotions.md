@@ -1,6 +1,6 @@
 ---
 title: "Harbored Anger, Guilt, and Martyrdom — Three Destructive Emotional Patterns"
-source: "The Cannabis Health Index (Blesching)"
+source: "The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching)"
 source_key: "uwe-blesching-the-cannabis-health-index.md"
 topics: [mind-body-medicine, emotions, anger, guilt, martyrdom, psychosomatic-health, emotional-healing]
 aliases: [destructive emotions, harbored anger, guilt as motivation, martyrdom complex, righteous anger, emotional toxicity]
@@ -113,7 +113,7 @@ and changed. Common examples:
 These three destructive patterns are all mental constructs that create very
 unhealthy anger. Guilt creates repression, martyrdom creates destruction, and
 righteous anger makes anger a constant presence. The key insight is that all
-three are in the domain of conscious intervention. Each is based on a more or
+three are in the domain of [[blesching-conscious-intervention-stress-hormone-reduction-endocannabinoid]]. Each is based on a more or
 less conscious choice and as such can be changed or undone by another choice.
 
 ### Forgiveness as a Release Tool

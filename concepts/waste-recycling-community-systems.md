@@ -1,5 +1,5 @@
 ---
-title: [[agricultural-waste-recycling]] and Community Systems
+title: "Waste Recycling Community Systems"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

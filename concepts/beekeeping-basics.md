@@ -1,5 +1,5 @@
 ---
-title: [[comparison-beekeeping-basics-vs-top-bar-hive]]
+title: "Beekeeping Basics"
 created: 2026-04-11
 updated: 2026-04-12
 type: concept

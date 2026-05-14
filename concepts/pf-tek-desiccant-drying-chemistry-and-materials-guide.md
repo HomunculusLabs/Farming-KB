@@ -2,7 +2,7 @@
 
 ## Overview
 
-Desiccant drying is the final critical step in the PF TEK [[hplc-analysis-of-psilocybin-and-psilocin]]) that would be degraded by heat-based drying methods. PF Tek author Robert McPherson identifies desiccant drying as "overall, the best drying technique" for preserving mushroom quality.
+Desiccant drying is the final critical step in the [[pf-tek]] [[hplc-analysis-of-psilocybin-and-psilocin]]) that would be degraded by heat-based drying methods. PF Tek author Robert McPherson identifies desiccant drying as "overall, the best drying technique" for preserving mushroom quality.
 
 ## The Chemistry of Desiccant Drying
 

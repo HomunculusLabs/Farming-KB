@@ -147,4 +147,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[2c-o-4-entity]]
 - [[4-ho-dbt-entity-tihkal]]
 - [[araucaria-araucana]]
-- [[pyrethrum-entity]]
+- [[pyrethrum]]

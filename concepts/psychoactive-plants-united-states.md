@@ -23,19 +23,19 @@ Many potent hallucinogenic and dissociative agents occur naturally in plants and
 
 ## N,N-Dimethyltryptamine (DMT) Sources
 
-DMT is an endogenous hallucinogen present in small amounts in the human brain. When smoked or injected, onset occurs within 15 seconds to 5 minutes, peaking rapidly and clearing over 20 to 30 minutes. Typical smoked doses are 40 to 50 mg. The effective intravenous dosage range is 0.1 to 0.4 mg/kg.
+DMT is an [[mckenna-dmt-endogenous-hallucinogen-brain-affinity]] present in small amounts in the human brain. When smoked or injected, onset occurs within 15 seconds to 5 minutes, peaking rapidly and clearing over 20 to 30 minutes. Typical smoked doses are 40 to 50 mg. The effective intravenous dosage range is 0.1 to 0.4 mg/kg.
 
 ### Natural US Sources
 
 - **[[desmanthus-illinoensis]]** (prairie bundleflower): Wide distribution across the American prairies. Root bark contains approximately 0.34% DMT by dry weight.
 
-- **Psychotria viridis**: Not native to the US but relevant as the traditional DMT source in Amazonian ayahuasca preparations, containing 0.1% to 0.66% DMT by dry weight.
+- **[[chacruna-psychotria-viridis]]**: Not native to the US but relevant as the traditional DMT source in Amazonian ayahuasca preparations, containing 0.1% to 0.66% DMT by dry weight.
 
 ### Ayahuasca and MAOI Sources
 
 DMT is orally active only when monoamine oxidase (MAO) enzymes are inhibited. Amazonian ayahuasca combines DMT from Psychotria viridis with reversible type A MAOIs (harmaline, harmine, tetrahydroharmine) from [[passiflora-incarnata]]** (passionflower): Grows throughout the Southeast and much of the Midwest. Contains approximately 1% MAOI. Bears edible fruit and is used in herbal preparations for sedative properties.
 
-Nontraditional ayahuasca-analogue brews from these American plants are documented online, though their pharmacology differs from traditional preparations.
+Nontraditional ayahuasca-analogue brews from these American plants are documented online, though their pharmacology differs from [[classic-mushroom-recipes-traditional-preparations]].
 
 ## Psilocybin Mushrooms
 
@@ -43,7 +43,7 @@ Psilocybe cubensis and related species contain psilocybin (4-phosphoryloxy-N,N-d
 
 ### US Distribution
 
-In the United States, Psilocybe species are coprophagous, growing on cow and horse manure in pastures from Florida through the southern Gulf States to Texas, in pasture and grain fields, and along the Pacific Northwest coastline from California into Canada. Psilocybe cubensis typically contains 10 to 12 mg psilocybin per gram dried mushroom.
+In the United States, Psilocybe species are coprophagous, growing on cow and horse manure in pastures from Florida through the southern Gulf States to Texas, in pasture and grain fields, and along the [[psilocybin-north-america-pacific-northwest]] coastline from California into Canada. Psilocybe cubensis typically contains 10 to 12 mg psilocybin per gram dried mushroom.
 
 ### Intoxication Profile
 
@@ -81,5 +81,5 @@ The DEA had not scheduled Salvia divinorum at the time of this review but was mo
 
 LSA (ergine) is a close analogue of LSD found naturally in several plant seeds:
 
-- **Argyreia nervosa** (Hawaiian baby woodrose): Contains 0.14% LSA by dry seed weight. Five to 10 seeds yield an average dose (2 to 5 mg LSA), producing 4 to 8 hours of intoxication.
-- **Ipomoea violacea** (morning glory): Contains 0.02% LSA by dry seed weight. A dose requires 150 to 200 seeds (3 to 6 grams). Historically used in Central American shamanic ceremonies.
+- **[[argyreia-nervosa]]** (Hawaiian baby woodrose): Contains 0.14% LSA by dry seed weight. Five to 10 seeds yield an average dose (2 to 5 mg LSA), producing 4 to 8 hours of intoxication.
+- **[[ipomoea-violacea]]** (morning glory): Contains 0.02% LSA by dry seed weight. A dose requires 150 to 200 seeds (3 to 6 grams). Historically used in Central American shamanic ceremonies.

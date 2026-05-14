@@ -123,11 +123,26 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+## Host Plant Associations
 
-## See Also
+Ectomycorrhizal fungi form symbiotic associations primarily with woody plants including many tree species in the Pinaceae, Fagaceae, Betulaceae, and Salicaceae families. Unlike arbuscular mycorrhizae, ectomycorrhizal associations do not penetrate root cells but form a Hartig net between root cells.
 
-- [[ectomycorrhizal-associations]]
-- [[ectomycorrhizal-fungal-ecology]]
-- [[ectomycorrhizal-remediation]]
-- [[ion-selective-microelectrodes-ectomycorrhizal-roots]]
-- [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]]
+## Hartig Net Structure
+
+The defining feature of ectomycorrhizal associations is the Hartig net, a network of fungal hyphae that grows between root cortical cells. This structure facilitates nutrient exchange between the fungus and host plant, with the fungus providing water and minerals while receiving carbohydrates from photosynthesis.
+
+## Mantle Formation
+
+Ectomycorrhizal fungi form a dense mantle of hyphae around root tips, often visible to the naked eye. The mantle protects the root from pathogens and environmental stress while increasing the surface area for nutrient absorption.
+
+## Key Fungal Genera
+
+Important ectomycorrhizal genera include Boletus, Amanita, Russula, Lactarius, Pisolithus, and Cenococcum. Many prized edible mushrooms such as truffles (Tuber spp.) and chanterelles (Cantharellus spp.) are ectomycorrhizal.
+
+## Forestry Applications
+
+Ectomycorrhizal inoculation is widely used in forestry to improve seedling survival and growth. Nursery inoculation with selected fungal strains enhances establishment rates, particularly in reforestation of degraded sites and mine reclamation projects.
+
+## Nutrient Exchange Mechanisms
+
+The fungus provides the host plant with phosphorus, nitrogen, and micronutrients absorbed from soil through extensive mycelial networks. In exchange, the plant supplies carbohydrates from photosynthesis. This bidirectional exchange is fundamental to forest ecosystem productivity.

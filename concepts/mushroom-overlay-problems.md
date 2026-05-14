@@ -1,5 +1,5 @@
 ---
-title: Overlay [[beekeeping-problems-and-solutions]]
+title: "Mushroom Overlay Problems"
 created: 2026-04-28
 tags: [mycology, casing, troubleshooting, overlay, Stamets]
 date: 2026-04-25

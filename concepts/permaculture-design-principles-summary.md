@@ -21,7 +21,7 @@ The [[bill-mollison]] from decades of observation of natural systems, indigenous
 
 ### Design Priorities
 
-Priority placement decisions relate to slope, soil suitability, and existing landforms. Some priorities are immediately obvious (fire control, access, erosion prevention), while others are tackled in stages as time, money, and species permit.
+Priority placement decisions relate to slope, soil suitability, and existing landforms. Some priorities are immediately obvious ([[monsoon-sprinkler-fire-control-mollison]], access, [[dighton-fungal-roles-soil-erosion-prevention]]), while others are tackled in stages as time, money, and species permit.
 
 At the end of each stage, both past performance and future evolution should be assessed, building a guide for future adjustments, additions, or extensions.
 
@@ -45,8 +45,8 @@ Over a three to six year evolution, a sound [[permaculture]] design should achie
 - **Repair and conservation** of degraded landscapes, buildings, soils, and species at risk
 - **Sustainable products** in short-, medium-, and long-term timeframes
 - **A unique, preferably essential, service or product** for the region
-- **Right livelihood** — good work for occupants in services or goods
-- **Sound and safe legal status** for the occupiers
+- **[[effective-working-groups-right-livelihood]]** — good work for occupants in services or goods
+- **Sound and safe [[ayahuasca-tourism-legal-status-by-country]]** for the occupiers
 - **Harmonious and productive landscape** without wastes or poisons
 - **Cooperative and information-rich participation** in regional society
 
@@ -82,7 +82,7 @@ The progression toward commercial viability follows the nucleus development mode
 
 Design methodologies account for all known intervening factors, but ultimately success comes down to:
 
-- **Flexibility in management** — adapting to what actually happens
+- **[[savory-flexibility-in-management]]** — adapting to what actually happens
 - **Steering based on trial results** — using real data to adjust course
 - **Acting on new information** — remaining open to better approaches
 - **Continuing observation** — the designer as perpetual student of the site

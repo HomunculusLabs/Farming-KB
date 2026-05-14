@@ -1,5 +1,5 @@
 ---
-title: Arts in the Service of Life and Applied Pattern
+title: Arts In The Service Of Life And Applied Pattern
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -67,9 +67,9 @@ Basins can be elongate, truncate, symmetrical, asymmetrical, stepped in line, st
 
 ## Key References
 
-- Alexander et al., A Pattern Language (1977) — successful design strategies for towns and buildings
+- Alexander et al., A Pattern Language (1977) — successful [[mollison-farm-design-strategies-for-yield-increase]] towns and buildings
 - Thompson, D'arcy W., On Growth and Form (1952) — multiple examples of forms in nature, spirals
-- Mandelbrot, The Fractal Geometry of Nature (1982) — the basic book on fractals
+- Mandelbrot, The [[branching-patterns-and-fractal-geometry-in-nature]] of Nature (1982) — the basic book on fractals
 - Schwenke, Sensitive Chaos (1976) — creation of flowing forms in air or water
 - Pearce, Structure in Nature as a Strategy for Design (1979)
 - Vogel, Life in Moving Fluids (1981) — sensitive study of life forms in flow
@@ -78,7 +78,7 @@ Basins can be elongate, truncate, symmetrical, asymmetrical, stepped in line, st
 ## Overview
 
 Arts In The Service Of Life And Applied Pattern represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -107,7 +107,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 arts in the service of life and applied pattern and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,5 +1,5 @@
 ---
-title: [[biological-element-transport-soil-ph]] and Soil pH Management
+title: "Biological Element Transport And Soil Ph"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

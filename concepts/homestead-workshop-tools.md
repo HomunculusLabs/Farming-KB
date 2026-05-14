@@ -22,7 +22,7 @@ Design the workshop around workflow zones similar to [[homestead-kitchen-design]
 - **Power tool station** — near outlets, ideally on a mobile cart for flexibility.
 - **Cleaning/solvent area** — near a door or ventilation. Parts washer if you do engine work.
 
-Natural lighting from windows plus bright overhead LEDs (5000K) at minimum 100 lumens per square foot. A dedicated 20-amp circuit for heavy tools.
+Natural lighting from windows plus bright overhead LEDs (5000K) at minimum 100 lumens per [[comparison-biointensive-vs-square-foot-gardening]]. A dedicated 20-amp circuit for heavy tools.
 
 ## Essential Hand Tools
 

@@ -31,7 +31,7 @@ Yopo, Cohoba, Parica, Jopa, Niopo, Huilca, Sebil, Juju
 
 ## Synonyms
 
-- Mimosa peregrina L.
+- [[mimosa]] peregrina L.
 - Acacia peregrina (L.) Willd.
 - Piptadenia peregrina (L.) Benth.
 

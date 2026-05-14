@@ -77,6 +77,6 @@ During 1959-60, there were thirteen accredited Mescalero, Chiricahua, and Lipan 
 The Mescalero case stands in sharp contrast to the usual picture of amiable, harmonious group sessions of peyote use among other [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] were never accompanied by the acceptance of Christian beliefs and practices, and the Mescaleros never became involved in the formal Peyote Religion. The use of peyote was intended to affirm the vitality of traditional religious practices at a time when reservation confinement contributed to an increased awareness of social and cultural deprivation. The failure of peyote to integrate into communal religious life illustrates the importance of personality and culture in affecting the impact of the [[mescalero-apache-shamanism-peyote-adoption-rejection]]
 
 - [[harner-shamanic-journey-and-altered-states]]
-- [[shamanism]]
+- shamanism
 - [[mescalero-apache-shamanism-peyote-adoption-rejection]]
 - [[harner-amanita-muscaria-siberian-shamanism]]

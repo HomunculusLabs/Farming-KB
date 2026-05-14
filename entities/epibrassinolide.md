@@ -17,7 +17,7 @@ sources:
 
 Epibrassinolide is a natural brassinosteroid plant hormone and the most
 biologically active brassinosteroid known. First isolated from the pollen
-of Brassica napus (rapeseed), it is recognized as a potent growth regulator
+of [[brassica-napus]] (rapeseed), it is recognized as a potent growth regulator
 across diverse kingdoms including fungi. Its remarkable activity at
 nanomolar concentrations has made it a subject of intense research in plant
 physiology, agriculture, and mycology.
@@ -64,7 +64,7 @@ systems including superoxide dismutase, catalase, and peroxidase enzymes.
 Also upregulates heat shock proteins and LEA proteins.
 
 **Photosynthesis**: Increases chlorophyll content and Rubisco activity,
-enhancing photosynthetic efficiency and carbon assimilation rates.
+enhancing [[photosynthetic-efficiency]] and carbon assimilation rates.
 
 Plants produce brassinosteroids in extremely low concentrations (nanograms
 per gram fresh weight), but their effects are dramatic. Mutants deficient in

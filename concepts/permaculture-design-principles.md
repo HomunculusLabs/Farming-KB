@@ -18,7 +18,7 @@ Mollison organized his design thinking into a hierarchy of concepts:
 - **Theses and hypotheses**: Ideas offered for proof or discussion
 - **Directives**: Practical guidance — "Here is a good way to proceed"
 
-This framework acknowledges that [[permaculture]] draws from both scientific understanding and practical wisdom, and that the gap between knowing and doing requires explicit bridging.
+This framework acknowledges that [[permaculture]] draws from both [[fukuoka-fallacies-scientific-understanding]] and practical wisdom, and that the gap between knowing and doing requires explicit bridging.
 
 ## Energy: Source, Sink, and Storage
 
@@ -30,7 +30,7 @@ The core design principle is: **the more useful storages we can create between s
 
 ### Key Energy Principles
 
-**Intervene close to the source.** Mollison illustrated this with water: engineers conventionally dam water in valleys where it is least useful. The water originated on hillsides. Had they stored it where it fell, it could have been run through many productive systems — irrigation, aquaculture, domestic use, wildlife habitat — before reaching the valley. The closer to the source you intervene, the greater the network of uses you can create.
+**Intervene close to the source.** Mollison illustrated this with water: engineers conventionally dam water in valleys where it is least useful. The water originated on hillsides. Had they stored it where it fell, it could have been run through many productive systems — irrigation, aquaculture, domestic use, [[hemenway-backyard-wildlife-habitat]] — before reaching the valley. The closer to the source you intervene, the greater the network of uses you can create.
 
 **Energy can change form but cannot be created or destroyed.** The designer's choice is in the type of flow allowed through the system — whether energy is stored for later use or allowed to leave. With water, we can store it in soils, earth tanks, or sealed catchments, or we can let it run to the sea. Once released, recovery requires enormous additional energy input.
 
@@ -77,7 +77,7 @@ Mollison illustrated this with Hong Kong agriculture: traditional hand-weeded fa
 
 ### The Redefinition of Diversity
 
-Mollison offered a critical redefinition: **Diversity is not the number of elements in a system, but the number of functional connections between elements.** This distinction is fundamental to permaculture design.
+Mollison offered a critical redefinition: **Diversity is not the number of elements in a system, but the number of [[component-analysis-and-functional-connections]] between elements.** This distinction is fundamental to permaculture design.
 
 A system with 3,000 species but few interactions is less diverse (and less stable) than a system with 30 species and 3,000 beneficial connections. Diversity of itself, Mollison warned, does not guarantee stability or advantage. In social groups, diverse interests are often not mutually beneficial.
 
@@ -87,7 +87,7 @@ What permaculture seeks is a "guild of things that work harmoniously together." 
 
 ### The Design Implication
 
-The number of niches in a system depends on the design of the system. Mollison used the analogy of cliff-breeding pigeons: the number of breeding pairs depends on the number of ledges. Increasing ledges increases carrying capacity. Similarly, in a permaculture system, the designer identifies unfilled niches and creates conditions for additional species or functions.
+The number of niches in a system depends on the design of the system. Mollison used the analogy of cliff-breeding pigeons: the number of breeding pairs depends on the number of ledges. Increasing ledges increases [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]]. Similarly, in a permaculture system, the designer identifies unfilled niches and creates conditions for additional species or functions.
 
 Often, the limiting factor for yield is not food availability but something entirely unrelated — nesting sites, shelter, specific microclimate conditions, or missing companion species. In the forests around Wilton, New Hampshire, Mollison observed tons of acorns with nothing eating them — the food was there but the niche was empty.
 
@@ -131,7 +131,7 @@ Mollison referenced what he called the "horrific over-run thesis": **Our ability
 
 ## The Life-Ethic Thesis
 
-Counterbalancing the over-run thesis is the life-ethic thesis: **Living organisms and living systems are not only means but ends.** In addition to their instrumental value to humans, organisms have intrinsic worth. A tree has value in itself, regardless of its utility. This ethical principle distinguishes permaculture from purely utilitarian approaches to land management and provides the philosophical foundation for designing systems that respect all life.
+Counterbalancing the over-run thesis is the life-ethic thesis: **Living organisms and living systems are not only means but ends.** In addition to their instrumental value to humans, organisms have intrinsic worth. A tree has value in itself, regardless of its utility. This ethical principle distinguishes permaculture from purely utilitarian approaches to land management and provides the [[fukuoka-spiritual-philosophical-foundation]] for designing systems that respect all life.
 
 ## See Also
 

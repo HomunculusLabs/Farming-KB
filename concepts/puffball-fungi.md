@@ -21,7 +21,7 @@ the class Basidiomycota. They produce spores internally within enclosed
 fruiting bodies, classifying them among the gasteromycetes. Unlike
 mushrooms with exposed gills, puffballs release their spores through a
 single opening or by disintegration of the [[symbiotic-fungi-piriformospora-indica]]
-- endophytic-fungi-and-plant-health
+- [[endophytic-fungi]]-and-plant-health
 
 - [[fungal-spore-biology]](fungal-spore-biology.md)
 - [[mycelial-networks]](mycelium-network.md)

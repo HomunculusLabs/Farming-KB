@@ -9,7 +9,7 @@ related: [microwave-microbial-kill-curves, sterilization-methods-comparison]
 
 # Microwave Surface Sterilization Technology
 
-Microwave surface sterilization is a method of decontaminating surfaces using
+[[microwave-surface-sterilization]] is a method of decontaminating surfaces using
 electromagnetic radiation in the microwave frequency range. Developed at NASA's
 Lyndon B. Johnson Space Center (MSC-22484), this technology was originally
 designed to solve the problem of aseptically accessing biologically sensitive
@@ -39,7 +39,7 @@ The NASA [[coaxial-power-splitter-waveguide-microwave-sterilization]] chamber, a
 
 ### Physical Mechanism
 
-Microwave sterilization at 2.45 GHz exploits the direct coupling between
+[[microwave-sterilization]] at 2.45 GHz exploits the direct coupling between
 this frequency and the rotational transitions of dipolar water molecules.
 When water molecules are exposed to 2.45 GHz electromagnetic radiation, they
 rotate rapidly, generating heat through molecular friction. This localized

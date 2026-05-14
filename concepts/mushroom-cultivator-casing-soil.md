@@ -24,7 +24,7 @@ Casing is the practice of covering the colonized substrate surface with a layer 
 | C. comatus | | X | |
 | Fl. velutipes (Enoki) | | | X |
 | Lentinus edodes (Shiitake) | X | | |
-| Lepista nuda | | X | |
+| [[lepista-nuda]] | | X | |
 | Pl. ostreatus (Oyster) | | | X |
 | Pl. ostreatus (Florida) | | | X |
 | Pan. cyanescens | | X | |

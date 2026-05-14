@@ -53,7 +53,7 @@ experiential signs rather than hereditary criteria:
 
 The common thread is demonstrated capacity to withstand and integrate extreme
 [[doc]]
-- [[shamanism]]
+- shamanism
 - [[mckenna-shaman-centeredness-and-peripheral-social-role]]
 
 ## Overview

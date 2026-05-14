@@ -1,5 +1,5 @@
 ---
-title: Village Financing and [[community-services-financing-and-governance]]
+title: "Village Financing And Community Services"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

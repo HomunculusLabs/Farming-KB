@@ -95,7 +95,7 @@ reduce dependence on external inputs, and structuring the local economy around n
 
 ## Legal and Ethical Foundations
 
-Mollison stresses that viable communities need a **legal and [[ethical-basis-alternative-nation-permaculture]]** built on
+Mollison stresses that viable communities need a **legal and [[ethical-basis-of-alternative-nation]]** built on
 three pillars:
 
 1. **Sharing** — resources, knowledge, and labor are pooled for the common good.
@@ -148,17 +148,3 @@ that heal rather than degrade their surroundings tend to be more sustainable ove
 ## The Balanced Life
 
 Ultimately, Mollison argues that sustainable communities must support a **balanced
-life** encompassing three domains:
-
-- **Physical exertion** — meaningful work with the hands and body, connecting people
-  to place and grounding them in the rhythms of the natural world.
-- **Intellectual pursuits** — study, design, reflection, and the ongoing work of
-  understanding the complex systems in which the community is embedded.
-- **Emotional and sensual areas** — art, music, celebration, intimacy, and the
-  pleasures of good food, beauty, and companionship.
-
-When any one domain is neglected, the community (and the individuals within it)
-becomes unbalanced and vulnerable to the very errors described above. A community
-that celebrates only labor will burn out; one that celebrates only intellectual
-discourse will fail to feed itself; one that neglects emotional life will fracture
-socially. The [[permaculture-community-design]] must nurture all three.

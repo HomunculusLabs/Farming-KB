@@ -15,7 +15,7 @@ for growers selecting or adapting approaches.
 
 ## General Protocol
 
-Mushroom spawn is a medium carrying mushroom mycelia, typically produced by
+[[mushroom-spawn]] is a medium carrying mushroom mycelia, typically produced by
 cultivators or commercial spawn providers. The standard inoculation protocol is:
 
 1. Clean and disinfect the work surface, inoculation room, and gloves with 70%
@@ -79,4 +79,4 @@ Spawn is spread uniformly along the periphery of the bag — not in the centre.
 Another layer of straw is added. Two bottles (250 g/bottle) of spawn are
 sufficient for three polyethylene bags (14 × 24 inches) containing 3 kg rice
 straw (dry weight) each. One bottle inoculates an 18 × 26 inch bag with 4 kg
-rice straw.
+[[fukuoka-rice-straw-mulch-central-technique]].

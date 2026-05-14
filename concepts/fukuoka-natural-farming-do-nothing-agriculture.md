@@ -73,7 +73,7 @@ embrace natural farming than the Japanese themselves.
 
 ## Overview
 
-Fukuoka Natural Farming Do Nothing Agriculture represents an important element within sustainable
+Fukuoka [[natural-farming-do-nothing-agriculture]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

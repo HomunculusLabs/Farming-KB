@@ -6,7 +6,7 @@ type: concept
 
 # Anti-Cancer Polysaccharides from Medicinal Mushrooms
 
-The main antitumour compounds isolated from [[medicinal-mushrooms]] have been identified as water-soluble β-D-glucans with heterosaccharide chains or β-D-glucan-protein complexes (proteoglycans). This concept explores the chemistry, extraction methods, and structure-activity relationships of these bioactive polysaccharides.
+The main antitumour compounds isolated from [[medicinal-mushrooms]] have been identified as water-soluble β-D-glucans with heterosaccharide chains or β-D-glucan-protein complexes (proteoglycans). This concept explores the chemistry, [[arbuscular-mycorrhizal-spore-extraction-methods]], and structure-activity relationships of these bioactive polysaccharides.
 
 ## Overview
 
@@ -47,19 +47,19 @@ Polypeptide chains or small proteins linked to polysaccharide β-D-glucan chains
 ## Key Clinical Polysaccharide Compounds
 
 ### Lentinan (from Lentinus edodes / Shiitake)
-- Water-soluble β-D-glucan from fruiting body
+- Water-soluble β-D-glucan from [[bloomfield-fungal-fruiting-body-morphology-ecological-function]]
 - Active only in helical conformation
 - Degraded by internal β-glucanase activity during storage at room temperature
 - Widely used in Japan as cancer immunotherapy
 
 ### Schizophyllan (from Schizophyllum commune)
-- β-glucan produced from liquid culture broth
+- β-glucan produced from [[liquid-culture]] broth
 - Also known as Sonifilan or SPG
 - Considerable anti-cancer activity in xenograft and clinical practice
 - Active only in helical conformation
 
 ### PSK ("Krestin") (from Trametes versicolor)
-- Protein-bound polysaccharide from mycelial biomass
+- Protein-bound polysaccharide from [[stamets-forest-mycelial-biomass-topsoil-douglas-fir]]
 - Acts both directly on tumour cells and indirectly through host immunity
 - Accounted for 25% of total anti-cancer agent expenditure in Japan (1987)
 
@@ -121,14 +121,14 @@ Sequential extraction from fruiting body or mycelium:
 ### Improved Lentinan Extraction (Yap and Ng, 2001)
 - Ethanol precipitation and freeze-drying in liquid nitrogen
 - 87.5% purity achieved
-- Less time-consuming, more efficient, relatively low cost compared to original methods
+- Less time-consuming, more efficient, relatively [[coleman-quick-hoops-low-cost-season-extension-structures-design]] compared to original methods
 
 ## Concentration Changes During Growth and Storage
 
 ### Developmental Stage Effects
 "Concentration of polysaccharides in certain medicinal mushroom species can be related to the stage of development of the mushroom fruitbody."
 
-- **L. edodes and G. frondosa**: Increase in immunomodulating activity during growth and development, followed by decrease at final stages of maturation
+- **L. edodes and G. frondosa**: Increase in immunomodulating activity during [[cytokinin-plant-growth-and-development]], followed by decrease at final stages of maturation
 - Activities paralleled by concentration changes in Lentinan and Grifolan respectively
 
 ### Post-Harvest Storage Effects
@@ -148,7 +148,3 @@ The decrease was related to degradation of Lentinan by internal **β-glucanase a
 
 Beyond simple β-glucans, many species contain:
 - **Heteropolysaccharides**: β-D-glucans with heterosaccharide chains of xylose, mannose, galactose, uronic acid
-- **Polysaccharide-peptides**: Polypeptide chains linked to β-D-glucan
-- **Glycoproteins**: Small proteins bound to polysaccharides
-
-These can be extracted by salt and alkali treatments and often show enhanced or complementary bioactivities to pure glucans.

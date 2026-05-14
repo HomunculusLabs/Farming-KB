@@ -1,5 +1,5 @@
 ---
-title: Amanita, the Indo-European Language Family, and [[allegro-plants-and-drugs-in-the-ancient-world]] View
+title: "Amanita Indo European Language Family Ancient World View"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---

@@ -29,7 +29,7 @@ related_concepts:
 # Plant Anatomy and Physiology
 
 Understanding how plants are built and how they function is the foundation of all
-horticulture, agriculture, and ecological land management. Every decision a grower
+horticulture, agriculture, and ecological [[integrated-land-management-and-polyculture-design]]. Every decision a grower
 makes—from when to water, to how to prune, to what nutrients to supply—is grounded
 in an understanding of plant anatomy and physiology.
 
@@ -56,7 +56,7 @@ eukaryotes:
   detoxification reactions.
 
 - **Golgi apparatus**: Processes and sorts proteins and lipids, producing
-  polysaccharides for the cell wall and packaging molecules for secretion.
+  polysaccharides for the [[chitin-chitosan-fungal-cell-wall]] and packaging molecules for secretion.
 
 - **Chloroplasts**: The organelle where photosynthesis occurs, containing stacks
   of thylakoid membranes (grana) for light-dependent reactions and a fluid
@@ -85,7 +85,7 @@ walls, dense cytoplasm, and large nuclei—optimized for rapid division.
 
 **Apical meristems** at shoot and root tips produce all new above-ground and
 below-ground organs. The **shoot apical meristem (SAM)** produces leaves, stems,
-and reproductive structures while maintaining a pool of stem cells. The spatial
+and reproductive structures while maintaining a pool of [[bloomfield-mushroom-cells-stem-cells-totipotency-fungal-tissues]]. The spatial
 arrangement of organ primordia follows mathematical patterns (phyllotaxis) that
 optimize light capture, producing spirals visible in sunflower heads and pine cones
 that follow Fibonacci numbers.

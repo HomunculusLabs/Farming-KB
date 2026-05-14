@@ -142,9 +142,3 @@ KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorg
 ## Crack Prevention Treatment
 
 For fruits/vegetables during drought (to prevent cracking when rains arrive):
-
-| Input | Amount per 1000ml water |
-|-------|------------------------|
-| OHN | 1 ml |
-| BRV | 2 ml |
-| FPJ | 2 ml |

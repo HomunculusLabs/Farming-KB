@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Mower's Mushroom** | *Panaeolina foenisecii* (Pers.) Maire
 
-Panaeolina foenisecii, commonly known as the mower's mushroom, haymaker's mushroom, or brown mottlegill, is an extremely common and cosmopolitan grassland mushroom. It has a long and complicated history regarding its psychoactive status. Originally listed among the neurotropic fungi by several authors, modern [[psilocin]], and it is now generally considered non-psychoactive. Nevertheless, it was included in Guzmán, Allen, and Gartz's [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]].
+Panaeolina foenisecii, commonly known as the mower's mushroom, haymaker's mushroom, or brown mottlegill, is an extremely common and cosmopolitan grassland mushroom. It has a long and complicated history regarding its psychoactive status. Originally listed among the [[neurotropic-fungi]] by several authors, modern [[psilocin]], and it is now generally considered non-psychoactive. Nevertheless, it was included in Guzmán, Allen, and Gartz's [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]].
 
 ## Taxonomy and Classification
 

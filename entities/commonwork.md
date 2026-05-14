@@ -147,17 +147,3 @@ sell or [[coleman-stir-fry-pak-winter-market-product]] to pay for other life nee
 enterprise is self-sustaining rather than dependent on external inputs.
 
 ## Social Dimensions
-
-- Provides work for otherwise-neglected groups (analogous to Turkey's blind pigeon-food
-  sellers having sole rights to that trade)
-- A "living" is assessed based on family size, dependents, base costs, and family frugality
-- The need to earn is reduced by shared gardens, efficient energy use, shared equipment,
-  and bulk purchasing groups
-- Members can hold multiple occupations, creating a "portfolio of self-expression"
-- Income differentials are limited to ethical ratios (1:4.5 maximum)
-
-## References
-
-- Mollison, Bill. *Permaculture: A Designer's Manual.* Chapter 14, Sections 14.12-14.13
-  (Land Access, Commonwork). Pages 545-550.
-- African mahisa and Botswana livestock loan systems (traditional models)

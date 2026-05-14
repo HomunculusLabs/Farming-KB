@@ -1,5 +1,5 @@
 ---
-title: "Permaculture Edge Effect and Harmonics"
+title: Permaculture Edge Effect And Harmonics
 source: "bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -18,7 +18,7 @@ Edge is the **interface between different media or systems**. Examples include:
 - Frost and non-frost zones on a slope
 - Cultivated land meeting wild land
 
-Wherever two different states or systems meet, an edge is created. [[bill-mollison]] recounts that the concept of edge was revealed to him through the pattern knowledge of **Pitjantjatjara Aboriginal women** in the Australian desert. Their intricate pattern systems functioned as ecological maps, encoding deep understanding of how edges operate in landscape systems. Aboriginal women's pattern knowledge — traditionally dismissed by Western science as decorative — is in fact a sophisticated cartographic and ecological language that maps water sources, food resources, animal movements, and seasonal changes through geometric patterns rooted in edge dynamics.
+Wherever two different states or systems meet, an edge is created. [[bill-mollison]] recounts that the concept of edge was revealed to him through the [[pattern-applications-and-tribal-pattern-knowledge]] of **Pitjantjatjara Aboriginal women** in the Australian desert. Their intricate pattern systems functioned as ecological maps, encoding deep understanding of how edges operate in landscape systems. Aboriginal women's pattern knowledge — traditionally dismissed by Western science as decorative — is in fact a sophisticated cartographic and ecological language that maps water sources, food resources, animal movements, and seasonal changes through geometric patterns rooted in edge dynamics.
 
 ## Why Edge Matters
 
@@ -26,12 +26,12 @@ Edge is where **species pause** — organisms congregate, migrate through, and e
 
 - **Increased species diversity** compared to either adjacent system alone
 - **Greater total productivity** — the combined output exceeds the sum of the parts
-- **Heightened energy flux** — more sunlight, wind, water, and nutrient exchange occurs at interfaces
+- **Heightened energy flux** — more sunlight, wind, water, [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs at interfaces
 - **Resource concentration** — materials accumulate where systems meet
 
 Mollison cites the **reef/abyss edge** in marine systems as a dramatic example: the continental shelf boundary where shallow water meets deep ocean produces some of the richest fishing grounds on Earth. The upwelling of nutrients, the mixing of warm and cold currents, and the structural complexity of the reef itself all contribute to extraordinary biological productivity at this boundary.
 
-Yet agricultural scientists have historically **discarded edge data** in field trials, treating border effects as experimental noise rather than valuable signal. This practice — removing edge observations to isolate "clean" data from plot interiors — represents a fundamental blind spot in conventional agricultural science. Permaculture corrects this oversight by treating edges as primary design elements rather than experimental artifacts.
+Yet agricultural scientists have historically **discarded edge data** in field trials, treating border effects as experimental noise rather than valuable signal. This practice — removing edge observations to isolate "clean" data from plot interiors — represents a fundamental blind spot in conventional [[fukuoka-critique-agricultural-science-laws-liebig]]. Permaculture corrects this oversight by treating edges as primary design elements rather than experimental artifacts.
 
 ## The Blueberry–Pine Forest Example
 
@@ -55,7 +55,7 @@ Think of a straight line forming the boundary of a field. If you introduce a sin
 - Each fold creates a new microclimate and niche for different species
 - The principle applies at every scale — from garden beds to watershed boundaries
 
-Boundary conditions are among the **most powerful design tools** available to the permaculturist. McCarthy's contribution was to prove mathematically what Mollison had observed empirically: that folding and curving boundaries multiplies productive interface without requiring additional land.
+[[boundary-conditions-and-media-interfaces]] are among the **most powerful design tools** available to the permaculturist. McCarthy's contribution was to prove mathematically what Mollison had observed empirically: that folding and curving boundaries multiplies productive interface without requiring additional land.
 
 ## The Box-Thorn Clump Experiment
 
@@ -103,7 +103,7 @@ When machinery access is required, compromise with broad curves rather than stra
 
 ## Site Design and the Wheels-and-Spokes Pattern
 
-When beginning a site design, Mollison recommends starting with **water layout and house placement** as the primary anchors. From these fixed elements, the designer develops the broader system using patterns like **wheels and spokes** — radiating paths and zones outward from central points (house, water source, keyhole gardens). This radial pattern inherently creates more edge than a grid layout, as the spoke boundaries form long, curving interfaces between different zones. The wheels-and-spokes approach also mirrors natural patterns found in root systems, spider webs, and the radial growth of forest clearings.
+When beginning a site design, Mollison recommends starting with **water layout [[permaculture-site-access-and-house-placement]]** as the primary anchors. From these fixed elements, the designer develops the broader system using patterns like **wheels and spokes** — radiating paths and zones outward from central points (house, water source, keyhole gardens). This radial pattern inherently creates more edge than a grid layout, as the spoke boundaries form long, curving interfaces between different zones. The wheels-and-spokes approach also mirrors natural patterns found in root systems, spider webs, and the radial growth of forest clearings.
 
 ## Practical Design Guidelines
 

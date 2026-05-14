@@ -87,6 +87,6 @@ The NAI model demonstrates that productive aquaculture does not require large-sc
 
 ## See Also
 
-- [[new-alchemy-institute-mollison]]
+- new alchemy institute
 - [[solomon-starting-new-garden-sod-removal-tillage-techniques]]
 - [[mckenna-specter-drugs-manifesto-new-thought-psychoactive-substances]]

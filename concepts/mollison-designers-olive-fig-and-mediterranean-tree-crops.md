@@ -42,7 +42,7 @@ Mollison highlights several design properties:
 - **Rosemary and lavender**: Aromatic herbs that share olive's drought
   tolerance and attract pollinators while potentially deterring olive fly
   (Bactrocera oleae).
-- **Vine crops**: Grape vines (Vitis vinifera) interplanted with olives are a
+- **Vine crops**: Grape vines ([[vitis-vinifera]]) interplanted with olives are a
   traditional Mediterranean combination, exploiting different root depths and
   canopy layers.
 - **Cereal understory**: Barley or oats can be grown between young olive rows

@@ -8,7 +8,7 @@ tags: [people, permaculture, chicken-tractor, tropical-agriculture, hawaii]
 ## Description
 
 **Dano Gorsich** is a permaculture practitioner on **Moloka'i, Hawaii** who
-developed a sub-tropical **chicken tractor system** at approximately 21°N
+developed a sub-tropical **[[chicken-tractor-system]]** at approximately 21°N
 latitude. His integrated system combines mobile chicken pens with papaya
 production, vegetable gardens, and egg sales, creating a self-reliant family
 farm that generates income from both eggs and fruit. Mollison features Gorsich's
@@ -53,7 +53,7 @@ system as a model of tropical smallholder permaculture.
 - The rotational clearing and replanting cycle creates repeated disturbance
   phases that can incorporate **mushroom substrate burial** between rotations.
 - Papaya waste (stems, leaves, fallen fruit) provides **cellulose-rich organic
-  matter** for [[the-soil-food-web]], accelerating decomposition.
+  matter** for [[soil-food-web]], accelerating decomposition.
 
 ## References
 
@@ -66,7 +66,7 @@ See also: [[cool-temperate-system-establishment]]
 
 ## Practical Applications
 Dano Gorsich has several practical applications in sustainable systems.
-Integration with permaculture design principles enhances its utility.
+Integration with [[permaculture-design-principles]] enhances its utility.
 Consideration of local climate and soil conditions is essential.
 Multiple functions can be served within a single system design.
 

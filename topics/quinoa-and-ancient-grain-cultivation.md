@@ -14,9 +14,9 @@ updated: 2026-04-28
 sources:
   - title: FAO Quinoa Technical Guidelines
     url: https://www.fao.org/quinoa/en/
-  - title: USDA NRCS Plant Guide — Chenopodium quinoa
+  - title: USDA NRCS Plant Guide — [[chenopodium-quinoa]]
     url: https://plants.usda.gov/home/plantProfile?symbol=CHQU2
-  - title: Rodale Institute — Cover Crop Guide
+  - title: Rodale Institute — [[cover-crop-guide-detailed]]
     url: https://rodaleinstitute.org/why-organic/organic-farming-practices/cover-crops/
   - title: Native Seeds/SEARCH — Amaranth comparison-bean-growing-guide-vs-pepper-growing-guide
     url: https://www.nativeseeds.org/pages/growing-guides
@@ -37,12 +37,12 @@ Quinoa thrives in cool, dry conditions and is remarkably frost-tolerant, especia
 
 ### Soil and Site Preparation
 
-Quinoa tolerates poor, sandy, saline, and alkaline soils better than most grains but performs best in well-drained loam with moderate fertility.
+Quinoa tolerates poor, sandy, saline, and [[plants-tolerant-of-alkaline-soils]] better than most grains but performs best in well-drained loam with moderate fertility.
 
 - **pH**: 6.0–8.5 (very alkaline-tolerant)
-- **Soil type**: Sandy loam to clay loam; tolerates rocky and shallow soils
+- **Soil type**: [[sandy-loam-texture-cannabis-microbiome-assembly]] to clay loam; tolerates rocky and shallow soils
 - **Fertility**: Low to moderate nitrogen needed; excessive nitrogen causes lodging
-- **Preparation**: Conventional tillage or no-till into killed mulch; avoid waterlogged sites
+- **Preparation**: [[comparison-no-till-vs-conventional-tillage]] or no-till into killed mulch; avoid waterlogged sites
 
 Direct seed 1–2 cm deep into firm seedbed. For small plots, broadcast and rake in lightly, then thin to target spacing.
 
@@ -57,7 +57,7 @@ Direct seed 1–2 cm deep into firm seedbed. For small plots, broadcast and rake
 | Germination | 3–7 days at soil temps above 10°C |
 | Timing | Spring after last frost; 2–3 weeks before last frost for cold-tolerant varieties |
 
-In temperate regions, sow quinoa when soil temperatures reach 10°C (50°F) — roughly when peas and spinach are planted. In subtropical zones, sow as a winter crop.
+In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], sow quinoa when soil temperatures reach 10°C (50°F) — roughly when peas and spinach are planted. In subtropical zones, sow as a winter crop.
 
 ### Growing and Maintenance
 

@@ -35,7 +35,7 @@ The generally hostile attitude of dominator society toward sexual expression can
 
 [[mckenna-mushroom-stones-of-guatemala]]
 - [[terence-mckenna]]
-- [[shamanism]]
+- shamanism
 - [[partnership-society-vs-dominator-culture]]
 
 ## Overview

@@ -138,21 +138,12 @@ Indigenous and traditional practices have informed modern approaches.
 The synthesis of historical and contemporary knowledge enriches
 current understanding and implementation strategies.
 
-## Integration Strategies
-
-Successful integration of mushroom cultivation into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-
 ## See Also
 
 - [[mushroom-cultivation-contaminant-identification]]
 - [[mushroom-cultivation-disabilities-pasteurization-methods]]
 - [[mushroom-cultivation-for-food-sovereignty]]
+- [[mushroom-cultivation-in-space]]
 - [[mushroom-cultivation-in-thailand]]
 - [[mushroom-cultivation-photographic-guide]]
+- [[mushroom-cultivation-technology-and-world-production]]

@@ -25,7 +25,7 @@ the aquatic food web from the bottom up.
 
 When tree leaves fall into streams and creeks, they begin a three-phase
 process of decomposition. In the initial leaching phase, soluble compounds
-such as sugars and phenolics dissolve from the leaf tissue within the first
+such as sugars and phenolics dissolve from the [[leaf-tissue-analysis-crop-nutrient-status]] within the first
 few days. The colonization phase follows, during which aquatic hyphomycete
 spores that are already present in the water column — at concentrations
 reaching 20,000 per liter in late fall and early winter — attach to the
@@ -36,7 +36,7 @@ leaf tissue.
 
 During the final conditioning phase, mycelia spread through the leaf
 parenchyma, secreting cellulose-degrading enzymes and other hydrolytic
-enzymes that break down the structural polysaccharides of the leaf. Hyphae
+enzymes that [[query-can-fungi-break-down-plastic-pollution]] the structural polysaccharides of the leaf. Hyphae
 thoroughly insinuate themselves in the decaying leaves, raising the protein
 content of the debris as dead plant material is transformed into living
 [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]] of the fungus *Actinospora* is particularly
@@ -72,14 +72,14 @@ convergence.
 Ingoldian fungi have been found on every continent, colonizing streams in
 tropical rainforests, temperate woodlands, and arctic tundra alike. Their
 universality reflects the ubiquity of their substrate: leaves enter
-freshwater everywhere that trees grow near water. Despite their global
+freshwater everywhere that [[fukuoka-shrine-grove-trees-grow-without-human-aid]] near water. Despite their global
 importance, much remains unknown about the diversity of these organisms.
-Henry Descals, an authority on Ingoldian fungi who worked with John Webster
+Henry Descals, an authority on Ingoldian fungi who worked with [[bloomfield-john-webster-ballistospore-discharge-discovery]]
 at the University of Exeter, spent more than twenty years preparing a
 definitive monograph of the group. Whenever it seemed that his catalog was
 nearing completion, a horde of new Ingoldians was uncovered, pushing the
 publication date further into the future.
 
-The study of aquatic hyphomycetes remains one of the most active frontiers
+The study of [[aquatic-hyphomycetes-and-ingoldian-spores]] remains one of the most active frontiers
 in [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]], connecting the biology of microscopic organisms to the
 health of entire freshwater ecosystems.

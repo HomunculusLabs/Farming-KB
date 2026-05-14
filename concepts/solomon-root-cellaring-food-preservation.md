@@ -2,7 +2,7 @@
 title: comparison-root-cellaring-guide-vs-canning-and-preserving and Food Preservation
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Steve Solomon, Gardening When It Counts"
+sources: "steve-solomon, Gardening When It Counts"
 wikilinks: "winter-gardening-season-extension solomon-vegetable-varieties-self-sufficiency solomon-soil-mineral-depletion solomon-double-digging solomon-raised-beds solomon-fertilizer-selection-application solomon-compost-organic-matter solomon-irrigation-water-scarce solomon-seed-saving-vegetable-breeding solomon-pest-management-without-chemicals solomon-garden-planning-calorie-production"
 type: concept
 tags: [reference]
@@ -14,7 +14,7 @@ tags: [reference]
 
 [[hamilton-garden-planning-and-site-assessment]]: if your goal is to produce nearly
 all the family's calories, and if you can depend on the garden producing enough
-nutritious potatoes or sweet potatoes, then the storage strategy is
+nutritious potatoes or [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]], then the storage strategy is
 straightforward. Root cellared potatoes, supplemented by [[solomon-self-sufficiency-calorie-production-economics]].
 
 ## See Also
@@ -38,7 +38,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

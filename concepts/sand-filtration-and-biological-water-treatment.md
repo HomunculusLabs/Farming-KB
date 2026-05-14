@@ -10,8 +10,8 @@ Sand filtration and biological water treatment are foundational techniques for p
 
 ### Bank Stabilisers (Marginal Plants)
 
-- *Juncus* (rushes)
-- *Scirpus* (bulrushes)
+- *[[juncus]]* (rushes)
+- *[[scirpus]]* (bulrushes)
 - Various grasses and clovers
 - *Phyla nodosa* (Lippia)
 - Bamboo and pampas grass clumps

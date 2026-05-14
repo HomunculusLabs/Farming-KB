@@ -6,7 +6,7 @@ type: concept
 
 # Mushroom Cultivation in Space
 
-Cultivating mushrooms in space presents unique challenges and extraordinary opportunities. As humanity looks toward extended space missions, lunar bases, and eventual Martian colonization, mushrooms emerge as an ideal candidate for space agriculture due to their minimal light requirements, rapid growth, ability to grow on waste substrates, and high protein content. Space-based mushroom cultivation represents an extreme form of permaculture — a closed system where everything must be recycled and fed back into the cycle.
+Cultivating mushrooms in space presents unique challenges and extraordinary opportunities. As humanity looks toward extended space missions, lunar bases, and eventual Martian colonization, mushrooms emerge as an ideal candidate for space agriculture due to their minimal light requirements, rapid growth, ability to grow on waste substrates, and high protein content. Space-based [[mushroom-cultivation]] represents an extreme form of permaculture — a closed system where everything must be recycled and fed back into the cycle.
 
 ## Why Mushrooms for Space?
 
@@ -29,7 +29,7 @@ Half of Earth's oxygen comes from phytoplankton and algae in oceans and surface 
 
 Plants and many fungi produce **ethylene**, a plant hormone known for ripening fruit. In the confined air of a spacecraft, ethylene accumulation can become problematic. This trace gas must be removed or filtered from the air.
 
-**Solution**: Filters of **potassium permanganate** can capture ethylene by oxidizing it into water and carbon dioxide. Potassium permanganate is nonflammable and safe for use in space with basic precautions (gloves and safety glasses). The additional carbon dioxide produced by this oxidation must then be offset by additional plant or algal culture.
+**Solution**: Filters of **[[potassium-permanganate]]** can capture ethylene by oxidizing it into water and carbon dioxide. Potassium permanganate is nonflammable and safe for use in space with basic precautions (gloves and safety glasses). The additional carbon dioxide produced by this oxidation must then be offset by additional plant or algal culture.
 
 ### Spore Management
 
@@ -98,7 +98,7 @@ A revolutionary concept for space food production is the **mycelial space cake**
 By the time mycelium fully colonizes a growing medium and thickens, it has converted much of the substrate biomass to mushroom protein while breaking down lignin and other structural plant cell wall components — making the material significantly more digestible than the raw substrate.
 
 To make a space cake:
-1. Create liquid mushroom spawn (agar spawn or grain slurries)
+1. Create liquid [[mushroom-spawn]] (agar spawn or grain slurries)
 2. Pour directly into prepared growing substrate (beans, grains, rice)
 3. Allow the substrate to be supercolonized by mycelium
 4. Cook fresh or dehydrate and compress for long-term storage
@@ -108,8 +108,8 @@ Fresh cakes can be sliced and baked to reproduce the flavor and texture of the o
 ### Strain Selection
 
 Choose mushrooms with high mycelial binding strength and rapid growth to hold the cake together and outcompete other organisms:
-- **Shiitake** (*Lentinula edodes*)
-- **Oyster mushrooms** (*Pleurotus* spp.)
+- **Shiitake** (*[[lentinula-edodes]]*)
+- **[[oyster-mushrooms]]** (*Pleurotus* spp.)
 - **Reishi** (*Ganoderma* spp.)
 
 Importantly, use nonsporulating cultures to avoid airborne contamination in enclosed environments — unlike traditional tempeh starter culture (*Rhizopus oligosporus*), which sporulates prolifically.

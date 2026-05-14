@@ -23,7 +23,7 @@ species, the other being *P. chinense*.
 The thick, corky bark (known as **Huang Bo** or **Phellodendri Cortex** in
 traditional Chinese medicine) has been used medicinally for over two millennia.
 It is one of the "Three Yellows" of TCM, prized for its heat-clearing,
-damp-drying, and fire-purging properties. The bark is rich in berberine, a
+damp-drying, and fire-purging properties. The bark is rich in [[berberine]], a
 potent isoquinoline alkaloid with broad pharmacological activity.
 
 ## Taxonomy and Morphology
@@ -69,7 +69,7 @@ present.
 Berberine demonstrates antibacterial, antifungal, antiviral, anti-
 inflammatory, antidiabetic, and cardioprotective activities in preclinical
 studies. It activates AMPK signaling, improves insulin sensitivity, and
-reduces hepatic glucose output. cannabis-metabolic-syndrome-research.
+reduces hepatic glucose output. [[cannabis-metabolic-syndrome-research]].
 
 Palmatine contributes additional antimicrobial and anti-inflammatory effects.
 The bark extract as a whole shows synergistic activity exceeding individual

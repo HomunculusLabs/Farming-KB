@@ -64,7 +64,7 @@ Salinity is one of the most serious constraints on dryland agriculture. As water
 ### Strategies for Managing Salinity
 
 - **Flushing** — Applying large volumes of low-salt irrigation water to leach accumulated salts below the root zone. This requires adequate drainage to prevent waterlogging and is most effective on free-draining soils with sub-surface drainage infrastructure.
-- **Humus** — Organic matter improves soil structure, enhances drainage, and provides a buffer against salt stress by improving the soil's cation exchange capacity and supporting microbial communities that help buffer root zones.
+- **Humus** — Organic matter improves soil structure, enhances drainage, and provides a buffer against salt stress by improving the soil's [[cation-exchange-capacity]] and supporting microbial communities that help buffer root zones.
 - **Algae ponds** — Constructed algae ponds can be used to biologically desalinate water. Algae absorb salts and can be harvested, producing both fresh water and a nutrient-rich biomass suitable for composting or animal feed.
 - **Distillation** — Solar stills and other distillation systems can produce fresh water from saline sources for sensitive crops and household use, providing a reliable supply even when groundwater is too saline for direct irrigation.
 - **Salt-tolerant crops** — Selecting species adapted to saline conditions is essential. Many halophytic plants are valuable for forage, fuel, or soil stabilisation, and can be integrated into broader farm systems. Species such as saltbush (Atriplex), date palms, and certain grasses can thrive where conventional crops fail.

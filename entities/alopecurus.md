@@ -23,11 +23,11 @@ that sustains animals through long winters when livestock are shedded and hay-fe
 - **Common names:** Foxtail grass, meadow foxtail
 - **Notable species:** A. pratensis (meadow foxtail), A. geniculatus (marsh foxtail), A. myosuroides (blackgrass)
 - **Growth habit:** Perennial or annual tufted grasses, 30–120 cm tall
-- **Habitat:** Moist meadows, pastures, hayfields, marshy ground in cold and temperate regions
+- **Habitat:** Moist meadows, pastures, hayfields, marshy ground in cold and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 
 ## Key Facts
 
-- Genus of grasses including important forage species for cold and temperate climates
+- Genus of grasses including important forage species for cold and [[fukuoka-natural-farming-temperate-climates]]
 - Listed by Mollison as characteristic of cold-climate hayfields
 - Associated with Phleum (timothy) and Poa pratensis in hayfield plant communities
 - Indicates moderately fertile, moist to wet soil conditions
@@ -43,8 +43,8 @@ that sustains animals through long winters when livestock are shedded and hay-fe
 - **Forage grass:** Valuable early-season pasture and hay species for cold and temperate climates
 - **Hayfield component:** Part of cold-climate hayfield assemblages used for winter livestock feed
 - **Soil indicator:** Presence indicates moderately fertile, moist soil conditions suitable for cultivation
-- **Mycorrhizal associations:** As a Poaceae member, forms arbuscular mycorrhizal (AM) relationships
-- **Decomposition substrate:** Grass residues contribute organic matter supporting saprophytic fungal communities
+- **[[plants-without-mycorrhizal-associations]]:** As a Poaceae member, forms [[arbuscular-mycorrhizal-colonization-patterns]] (AM) relationships
+- **[[decomposition]] substrate:** Grass residues contribute organic matter supporting saprophytic fungal communities
 - **Pasture ecology:** Component of diverse pasture systems supporting greater productivity than monocultures
 - **Cold-climate agriculture:** Essential for livestock winter feed in Iceland, Scandinavia, and similar regions
 - **Edible fungi:** Well-managed pastures produce field mushrooms ([[agaricus-campestris]]) in association
@@ -70,9 +70,9 @@ ryegrass, barley, or rye can supplement Alopecurus-based hay as fodder and silag
 
 - Prefers moist, fertile soils but tolerates a range of conditions
 - Early spring growth provides critical forage when other species are still dormant
-- Can be established from seed in pasture renovation projects
+- Can be established from seed in [[sod-seeding-pasture-renovation]] projects
 - Responds well to moderate fertilization and irrigation
-- Persistent under rotational grazing management
+- Persistent under [[comparison-rotational-grazing-vs-continuous-grazing]] management
 - Compatible with legume interplanting (clover, alfalfa) for nitrogen fixation
 
 ## References

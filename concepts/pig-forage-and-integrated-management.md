@@ -145,5 +145,5 @@ Tropical systems have specific constraints that differ markedly from temperate d
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
 - [[poultry-forage-days-mollison]]
 - [[tropical-forage-legumes]]
-- [[integrated-poultry-forage-systems-zone-two]]
+- integrated poultry forage systems zone two
 - [[mollison-designers-bee-forage-tree-planting]]

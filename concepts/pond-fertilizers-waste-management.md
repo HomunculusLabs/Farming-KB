@@ -1,5 +1,5 @@
 ---
-title: Pond Fertilizers and [[community-recycling-waste-management]]
+title: "Pond Fertilizers Waste Management"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

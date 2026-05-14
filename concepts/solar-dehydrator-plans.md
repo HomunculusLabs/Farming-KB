@@ -1,5 +1,5 @@
 ---
-title: [[comparison-solar-dehydrator-vs-electric-dehydrator]] Plans
+title: "Solar Dehydrator Plans"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

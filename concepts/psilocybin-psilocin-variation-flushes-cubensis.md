@@ -11,7 +11,7 @@ sources: [raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 
 ## Overview
 
-The 1982 study by Jeremy Bigwood and Michael W. Beug at The [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] + 15 ml water per jar
+The 1982 study by [[jeremy-bigwood]] and Michael W. Beug at The [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] + 15 ml water per jar
 - **Sterilization**: Autoclaved before inoculation
 - **Inoculation**: Mycelium culture on agar transferred under sterile conditions
 - **Incubation**: Jars shaken every 4 days for 28 days to distribute mycelium evenly

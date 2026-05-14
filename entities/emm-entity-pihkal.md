@@ -12,7 +12,7 @@ sources: ["Shulgin - PIHKAL"]
 
 # EMM
 
-PIHKAL entry #76. 4,5-DIMETHOXY-2-ETHOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #76. 4,5-DIMETHOXY-2-ETHOXYAMPHETAMINE.
 
 ## Chemical Name
 

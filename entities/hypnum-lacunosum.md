@@ -55,7 +55,7 @@ The leaf margins are entire to slightly serrulate near the apex. The costa
 (double nerve) is short and forked, extending less than one-third the leaf
 length. Median leaf cells are linear, 40–60 μm long, with thin walls.
 
-Spore capsules are cylindrical, curved, and borne on a rough seta 1.5–3.0 cm
+[[spore]] capsules are cylindrical, curved, and borne on a rough seta 1.5–3.0 cm
 long. The operculum is conical. Spores are 8–12 μm in diameter. Capsules are
 produced moderately frequently compared to many Hypnaceae.
 

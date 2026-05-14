@@ -147,7 +147,3 @@ Fruit leather (fruit roll-ups) is an excellent use for overripe fruit and homest
 - [[solar-dehydrator-plans]]
 
 ## See Also
-
-- [[food-forest-design-and-nursery-techniques]]
-- [[food-forest-permaculture]]
-- [[food-forests-and-the-seven-story-garden]]

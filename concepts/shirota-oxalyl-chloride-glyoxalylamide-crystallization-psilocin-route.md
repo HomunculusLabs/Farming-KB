@@ -29,7 +29,7 @@ The first step introduces the oxalyl group at the 3-position of the
 indole ring:
 
 - **Reagent**: Oxalyl chloride ((COCl)₂), added in excess
-- **Solvent**: Anhydrous diethyl ether
+- **Solvent**: Anhydrous [[diethyl-ether]]
 - **Temperature**: Ice bath (0°C) for addition, then n-hexane added
   and the flask placed in a freezer overnight
 - **Product**: A yellow crystalline solid (5), the glyoxalyl chloride

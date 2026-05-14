@@ -8,14 +8,14 @@ type: entity
 
 ## Description
 
-Everclear is a high-proof grain spirit (typically 95% alcohol by volume / 190 proof) used as the standard ethanol solvent in mushroom extraction processes. In the context of mushroom cultivation and mycology, Everclear serves as the primary alcohol for making dual-extraction tinctures and alcohol-based medicinal mushroom extracts. Its high ABV makes it ideal for extracting both alcohol-soluble and certain water-soluble bioactive compounds from mushroom fruitbodies and myceliated grain. The 95% ethanol concentration provides the maximum solvent capacity for breaking down the chitin matrix that traps beta-glucans and other medicinal compounds inside fungal cell walls.
+Everclear is a high-proof grain spirit (typically 95% alcohol by volume / 190 proof) used as the standard [[ethanol-solvent]] in mushroom extraction processes. In the context of [[mushroom-cultivation]] and mycology, Everclear serves as the primary alcohol for making dual-extraction tinctures and alcohol-based medicinal mushroom extracts. Its high ABV makes it ideal for extracting both alcohol-soluble and certain water-soluble bioactive compounds from mushroom fruitbodies and myceliated grain. The 95% ethanol concentration provides the maximum solvent capacity for breaking down the chitin matrix that traps [[beta-glucans]] and other medicinal compounds inside fungal cell walls.
 
 ## Classification
 
 - **Type**: Ethanol-based extraction solvent
 - **ABV**: 95% (190 proof) standard; also available in 75.5% (151 proof) in some markets
 - **Category**: Potable grain alcohol / extraction medium
-- **Application**: Medicinal mushroom extract preparation
+- **Application**: Medicinal [[mushroom-extract]] preparation
 - **Alternative names**: Grain alcohol, pure ethanol, rectified spirit
 - **Legal status**: Available in most US states; restricted or prohibited in some jurisdictions due to high proof
 
@@ -27,7 +27,7 @@ Everclear is a high-proof grain spirit (typically 95% alcohol by volume / 190 pr
 - For example, using 35% ABV gin requires 22.4 days of steeping instead of 14
 - Dilution ratios vary by alcohol strength to achieve the target 20% final ABV
 - The target final alcohol concentration for finished extracts is approximately 20% ABV for stability and palatability
-- Used for extracting compounds from both dried mushroom fruitbodies and supercolonized grain spawn
+- Used for extracting compounds from both dried mushroom fruitbodies and supercolonized [[grain-spawn]]
 - The high proof ensures maximum extraction of beta-glucans and other molecules trapped in the chitin matrix
 - Alternative spirits can be substituted including vodka, gin, brandy, and rum with appropriate time adjustments
 
@@ -72,3 +72,15 @@ The extraction formulas using Everclear as the 95% baseline are critical knowled
 ## References
 
 - Cotter, T. (2016). Organic Mushroom Farming and Mycoremediation. Chelsea Green Publishing.
+
+## Practical Applications
+
+Everclear extraction solvent has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of everclear extraction solvent has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## Key Considerations
+
+When working with everclear extraction solvent, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.

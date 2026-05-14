@@ -1,5 +1,5 @@
 ---
-title: Pattern Recognition and Geometric Garden Design in Permaculture
+title: Pattern Recognition And Geometric Garden Design Permaculture
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -28,7 +28,7 @@ Where we have structures, if we imitate the natural flux — the way water moves
 
 Pattern recognition develops through exposure, not through formal study. "Certain things bug you and keep nibbling at the edge of your consciousness. You keep plateauing along, accumulating more examples. Then it impacts." The process is unconscious accumulation followed by sudden insight — the designer cannot force it, only feed it with observation.
 
-The published botanical literature is of limited use: "The botanists cannot tell you any of these things that we want to know. What is the harmonic of tea-trees along a swamp? That is why we have to write our own species index." Nothing published addresses the questions permaculture designers need answered. "We are not interested in the number of nuts per square foot."
+The published botanical literature is of limited use: "The botanists cannot tell you any of these things that we want to know. What is the harmonic of tea-trees along a swamp? That is why we have to write our own species index." Nothing published addresses the questions [[bill-mollison]] need answered. "We are not interested in the number of nuts per square foot."
 
 ## Geometric Garden Applications
 
@@ -73,13 +73,13 @@ Mollison cautions against applying geometries indiscriminately: "I wouldn't advi
 Time stacking pushes sequential processes on top of each other rather than running them in series. Traditional agriculture runs crops in temporal sequence — years of pasture, then grain, then root crops, then fallow. Fukuoka's innovation was to "lift these years and set them on top of each other" — growing legumes simultaneously with grains, running livestock through crops at certain times rather than maintaining separate livestock and crop areas.
 
 ### The British Seven-Year Rotation
-The British devised a system of high farming with a seven-year rotation: pasture grazed for several years, then plowed into a high-nutrient-demand crop, followed by a green manure crop, then a grain crop, then a root crop, possibly a fallow year, then returned to grazing. "It required a band leader and an orchestra" — continuity of knowledge and management that the system presumed. This was sustainable agriculture, but it was sequential, not stacked.
+The British devised a system of high farming with a seven-year rotation: pasture grazed for several years, then plowed into a high-nutrient-demand crop, followed by a green manure crop, then a grain crop, then a root crop, possibly a fallow year, then returned to grazing. "It required a band leader and an orchestra" — continuity of knowledge and management that the system presumed. This was [[phosphate-accumulators-sustainable-agriculture]], but it was sequential, not stacked.
 
 ### Fukuoka's Methods
-Masanobu Fukuoka pushed time stacking further by starting the next crop before the last crop finished. In monsoon lands, tall grasses grow, dry, and fall, forming thick mulch. A permaculturist in South Queensland rolled the grass flat with a roller and sowed rye directly into it — producing an enormous rye crop in land that could not be cultivated (cultivation would lose all soil to erosion with the first rain). "Moreover, he would never have defeated that horrible complex of plants with rye" using conventional methods. "He had read Fukuoka." The next season, millet followed rye using the same technique.
+Masanobu Fukuoka pushed time stacking further by starting the next crop before the last crop finished. In monsoon lands, tall grasses grow, dry, and fall, forming thick mulch. A permaculturist in South Queensland rolled the grass flat with a roller and sowed rye directly into it — producing an enormous rye crop in land that could not be cultivated (cultivation would lose all soil to erosion with the first rain). "Moreover, he would never have defeated that horrible complex of plants with rye" using [[microwave-sterilization-versus-conventional-methods-comparison]]. "He had read Fukuoka." The next season, millet followed rye using the same technique.
 
 ### Successional Overlap
-"Lettuce under pole beans, and get the lettuce out before the pole beans shade the lettuce" represents the primitive beginning of time stacking. More sophisticated approaches overlap successional stages from ecological succession, running early-succession annuals alongside maturing perennials in the same space. "All of these things are different dimensions of stacking. There are truly three dimensions, which are totally different elements."
+"Lettuce under pole beans, and get the lettuce out before the pole beans shade the lettuce" represents the primitive beginning of time stacking. More sophisticated approaches overlap successional stages from [[ecological-succession]], running early-succession annuals alongside maturing perennials in the same space. "All of these things are different dimensions of stacking. There are truly three dimensions, which are totally different elements."
 
 ## Aboriginal Pattern Gardens
 When aboriginal Australians were taught European gardening and then left unsupervised, their gardens "began a subtle change." The layouts shifted from rectangular European rows to "little mounds, little lips" forming totemic shapes when viewed from above. "I regret that I never made a drawing of one of those gardens. It was growing very well, too." Their only prior experience shaping the earth was through ceremony — stone patterns with spiritual significance. Without imposed geometry, they naturally returned to totemic patterning, "because that is the only way they have ever shaped the Earth."
@@ -91,5 +91,5 @@ This illustrates that pattern in design is not merely functional but cultural an
 - [[applied-pattern-design-in-permaculture]]
 - [[permaculture-pattern-literacy]]
 - [[permaculture-pattern-understanding-design-process]]
-- [[patterns-in-nature]]](permaculture-[[patterns-in-nature]].md)
+- [[patterns-in-nature]](permaculture-[[patterns-in-nature]].md)
 - [Edge Effect and Ecotone Design](bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design.md)

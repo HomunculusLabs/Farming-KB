@@ -17,20 +17,20 @@ transformation of PCP in soils has received increasing attention,
 with white-rot fungi demonstrating significant capabilities for PCP
 degradation, mineralization, and incorporation into soil [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] generally show less tolerance to creosote than
 saprophytic fungi (Richter et al., 2003). Among saprophytic fungi,
-Irpex lacteus, Neolentinus lepideus, Ouedemansiella radicata,
+[[irpex-lacteus]], [[neolentinus-lepideus]], Ouedemansiella radicata,
 [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
 exhibit the greatest tolerance to creosote. Mycorrhizal fungi such as
-Cenococcum geophilum, Laccaria bicolor, L. laccata, and Suillus
+[[cenococcum-geophilum]], [[laccaria-bicolor]], L. laccata, and Suillus
 granulatus show the highest tolerance among mycorrhizal species.
 
 ## Bound Residue Formation
 
 Humic substances are amorphous, partly aromatic, dark-colored materials
 formed in soil by condensation of polyphenols and quinones. Covalent
-incorporation of chlorophenols into soil organic matter occurs via
+incorporation of chlorophenols into [[humus]] occurs via
 free radical-mediated copolymerization and/or degradation products with
 organic precursors of [[teaming-with-microbes-humic-and-fulvic-acids]] acids. A significantly lower
-amount of such incorporation occurs with Pleurotus ostreatus (Bogan et
+amount of such incorporation occurs with [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] (Bogan et
 al., 1999). About 90% transformation of PCP to nonextractable residues
 is noted in some model soils.
 

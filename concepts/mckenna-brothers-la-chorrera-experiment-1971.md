@@ -1,11 +1,11 @@
 ---
-title: "McKenna Brothers La la-chorrera-experiment-mckenna (1971)"
+title: Mckenna Brothers La Chorrera Experiment 1971
 created: 2026-04-26
 tags:
   - history
   - experiment
   - psychonautics
-  - psilocybin
+  - [[psilocybin]]
   - amazon
 date: 2026-04-25
 updated: 2026-04-25

@@ -18,11 +18,11 @@ sources:
 
 ## Overview
 
-Equisetum fluviatile, commonly known as the swamp horsetail or water horsetail, is a perennial pteridophyte in the family Equisetaceae. It is the largest horsetail species native to temperate regions of the Northern Hemisphere, frequently reaching heights of 60–120 cm.
+Equisetum fluviatile, commonly known as the swamp horsetail or water horsetail, is a perennial pteridophyte in the family Equisetaceae. It is the largest horsetail species native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, frequently reaching heights of 60–120 cm.
 
 The species is easily distinguished from other horsetails by its hollow, unbranched sterile stems with conspicuous silicone-ridged nodes. It plays an important ecological role in marsh and swamp ecosystems as a pioneer colonizer and silica accumulator.
 
-E. fluviatile has limited direct economic use but serves as an indicator species for wetland health and water table levels. Its ability to hyperaccumulate silica makes it a subject of interest in biogeochemical cycling research.
+E. fluviatile has limited direct economic use but serves as an indicator species for wetland health and water table levels. Its ability to hyperaccumulate silica makes it a subject of interest [[mycorrhizal-fungi-in-biogeochemical-cycling]] research.
 
 The species is readily identified in the field by its large size, prominent hollow stems, and preference for standing water. It is among the few Equisetum species that thrives in permanently submerged conditions rather than seasonally dry soils.
 
@@ -58,7 +58,7 @@ The hollow stems provide structural habitat for aquatic invertebrates and emergi
 
 E. fluviatile is one of the strongest silica accumulators among vascular plants, with stem silica concentrations reaching 5–15% dry weight. This biogeochemical function influences silicon cycling in wetland ecosystems and may contribute to diatom productivity in adjacent waters.
 
-The species forms mycorrhiza-like associations with [[endophytic-fungi]], though unlike many plants it does not form arbuscular mycorrhizae. Its rhizomes host diverse microbial communities involved in [[fungal-life-cycles-sexual-reproduction-metamorphosis]] and depends almost entirely on clonal spread via rhizome fragments. Water-mediated dispersal of rhizome pieces is likely the primary mechanism for colonization of new sites, particularly along watercourses.
+The species forms mycorrhiza-like associations with [[endophytic-fungi]], though unlike many plants it does not form [[glomeromycota-arbuscular-mycorrhizae]]. Its rhizomes host diverse [[cannabis-rhizosphere-microbial-communities]] involved in [[fungal-life-cycles-sexual-reproduction-metamorphosis]] and depends almost entirely on clonal spread via rhizome fragments. Water-mediated dispersal of rhizome pieces is likely the primary mechanism for colonization of new sites, particularly along watercourses.
 
 ## Uses
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Equisetum Fluviatile finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 equisetum fluviatile and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

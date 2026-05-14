@@ -1,5 +1,5 @@
 ---
-title: [[anaerobic-sewage-digestion-methane]] Digesters
+title: "Anaerobic Sewage Digesters"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -63,13 +63,13 @@ Duboisia hopwoodii contains a variety of powerful and stimulating
 but toxic alkaloids. The principal constituents identified in the
 leaves include:
 
-- **D-nor-nicotine:** This compound appears to be the main active
+- **D-nor-[[nicotine]]:** This compound appears to be the main active
   constituent of Pituri leaves. D-nor-nicotine is a demethylated
   analog of nicotine, possessing stimulant properties similar to
   those of nicotine but with a distinct pharmacological profile.
 
 - **Nicotine:** The well-known alkaloid of commercial tobacco
-  (Nicotiana tabacum), present in significant quantities in Pituri
+  ([[nicotiana-tabacum]]), present in significant quantities in Pituri
   leaves.
 
 - **Piturine:** An alkaloid originally isolated from D. hopwoodii

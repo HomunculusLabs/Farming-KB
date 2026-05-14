@@ -22,7 +22,7 @@ Legumes are arguably the most important family in permaculture due to their nitr
 
 - **Acacia** — A vast genus of nitrogen-fixing trees and shrubs. *A. melanoxylon* (Blackwood) provides premium timber; *A. dealbata* (Silver wattle) yields flowers for bee forage and bark for tanning; *A. mangium* and *A. auriculiformis* are fast-growing tropical species used in agroforestry and land reclamation; *A. sophorae* (Boobala) stabilizes coastal dunes.
 - **Albizia** — Fast-growing leguminous shade trees, valuable in tropical agroforestry as canopy nitrogen contributors.
-- **Caragana arborescens** (Siberian pea shrub) — A cold-hardy, wind-tolerant legume producing edible seeds and fixing nitrogen in temperate systems. A staple in windbreak hedgerows.
+- **[[caragana-arborescens]]** (Siberian pea shrub) — A cold-hardy, wind-tolerant legume producing edible seeds and fixing nitrogen in temperate systems. A staple in windbreak hedgerows.
 - **Cajanus cajan** (Pigeon pea) — A multipurpose tropical legume providing food, fodder, green manure, and erosion control. Deep taproots break compacted subsoil.
 - **Calliandra** — Tropical leguminous shrub used extensively in alley cropping for biomass production and soil improvement.
 - **Leucaena leucocephala** — Among the most productive multipurpose legume trees, used for fodder, fuelwood, mulch, and shade. Its leaf protein content makes it a critical livestock feed in the tropics.
@@ -44,12 +44,12 @@ Grasses form the backbone of ground-cover strategies, erosion control, and grazi
 - **Brachiaria mutica** (Para grass) — High-yielding tropical forage grass suited to wet, poorly drained sites.
 - **Buchloe dactyloides** (Buffalo grass) — Low-input native turf grass for dryland North American systems.
 - **Chloris gayana** (Rhodes grass) — Drought-hardy tropical pasture grass, excellent for erosion control on slopes.
-- **Cortaderia selloana** (Pampas grass) — Ornamental and windbreak grass; provides biomass and wildlife habitat.
+- **[[cortaderia-selloana]]** (Pampas grass) — Ornamental and windbreak grass; provides biomass and wildlife habitat.
 - **Cymbopogon citratus** (Lemongrass) — Culinary herb and companion plant that repels certain pests in tropical gardens.
 - **Dactylis glomerata** (Cockfoot/Orchard grass) — Productive temperate pasture grass, tolerant of shade and drought.
 - **Digitaria decumbens** (Pangola) — Creeping tropical grass for erosion-prone banks and grazing.
 - **Hordeum** (Barley) — Grain crop and quick-growing green manure; sea barley species handle saline conditions.
-- **Imperata cylindrica** (Blady grass) — Notorious invasive in some contexts but a thatching and erosion-control grass where managed.
+- **[[imperata-cylindrica]]** (Blady grass) — Notorious invasive in some contexts but a thatching and erosion-control grass where managed.
 - **Lolium** (Rye grass) — Important temperate pasture species; fast-establishing for sward repair.
 - **Imperata cylindrica** (Blady grass) — A problematic grass in some contexts but useful for thatch and land stabilization where controlled.
 
@@ -85,10 +85,10 @@ Grasses form the backbone of ground-cover strategies, erosion control, and grazi
 | **Artocarpus** (Jackfruit/Breadfruit) | High-yield carbohydrate staples for tropical food forests |
 | **Castanea** (Chestnut) | Calorie-dense nut crop; timber; wildlife forage in temperate zones |
 | **Carya ovata** (Hickory) | Premium nut timber; deep-rooted soil conditioner |
-| **Gleditsia triacanthos** (Honey locust) | Nitrogen-fixing canopy tree with edible pods for livestock; excellent fodder tree |
+| **[[gleditsia-triacanthos]]** (Honey locust) | Nitrogen-fixing canopy tree with edible pods for livestock; excellent fodder tree |
 | **Juglans** (Walnut) | Premium nut crop; timber; note: juglone allelopathy affects certain companion plants |
 | **Elaeagnus** (Russian/Autumn olive) | Nitrogen-fixing shrub producing edible berries; excellent windbreak and wildlife habitat |
-| **Helianthus tuberosus** (Jerusalem artichoke) | Perennial root crop with exceptional yields; erosion control; low-maintenance food production |
+| **Helianthus tuberosus** ([[comparison-jerusalem-artichoke-vs-potato]]) | Perennial root crop with exceptional yields; erosion control; low-maintenance food production |
 | **Moringa** (if included in broader index) | Nutrient-dense leaf crop; fast growth; multipurpose tropical tree |
 | **Macadamia** | Premium nut tree for subtropical systems; high-value crop in agroforestry |
 | **Dioscorea** (Yam) | Tropical root crop; staple carbohydrate in many food forest systems |
@@ -113,7 +113,7 @@ The index includes many smaller species critical to guild composition:
 
 Several species in the A–M section serve specialized roles in water management zones:
 
-- **Eichhornia crassipes** (Water hyacinth) — Extremely productive aquatic plant for nutrient stripping from greywater and sewage treatment systems. Must be managed carefully to prevent escape.
+- **[[eichhornia-crassipes]]** (Water hyacinth) — Extremely productive aquatic plant for nutrient stripping from greywater and sewage treatment systems. Must be managed carefully to prevent escape.
 - **Colocasia esculenta** (Taro) — Edible tuber crop for wetland edges; a staple in tropical aquatic polycultures.
 - **Alisma plantago-aquatica** (Water plantain) — Edge-zone plant supporting water filtration and wildlife habitat.
 - **Cyperus** (Sedge/Nutgrass) — Wetland stabilizer; some species produce edible tubers (e.g., *C. esculentus*, chufa).

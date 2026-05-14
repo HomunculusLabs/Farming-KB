@@ -60,7 +60,7 @@ Pond shape profoundly affects productivity through its influence on edge length.
 
 Three ponds of equal surface area (75 square metres) demonstrate this principle: a circular pond of five metre radius has about 32 metres of edge, a rectangular pond of 37.5 by two metres has 81 metres, and a long narrow pond of one by 75 metres has 153 metres of margin. The zone of edge effect extends beyond the waterline into the surrounding bank area, creating a productive halo of terrestrial-aquatic interaction.
 
-Long, narrow, or convoluted pond shapes maximise this productive edge zone per unit of water area, while circular ponds minimise it. The pond designer can use this principle to match pond shape to production goals: circular or compact ponds for efficient water storage and fish rearing, elongated or lobed ponds for maximum edge-based forage production and plant harvest. This edge effect principle connects directly to broader permaculture design principles of maximising productive boundaries between ecosystem elements.
+Long, narrow, or convoluted pond shapes maximise this productive edge zone per unit of water area, while circular ponds minimise it. The pond designer can use this principle to match pond shape to production goals: circular or compact ponds for efficient water storage and fish rearing, elongated or lobed ponds for maximum edge-based forage production and plant harvest. This edge effect principle connects directly to broader [[permaculture-design-principles]] of maximising productive boundaries between ecosystem elements.
 
 ## Design Considerations
 

@@ -1,5 +1,5 @@
 ---
-title: [[biodiversity-powdery-mildews]] Erysiphaceae Diversity Host Range
+title: "Powdery Mildews Erysiphaceae Diversity Host Range"
 created: 2026-04-26
 tags:
   - biodiversity-powdery-mildews

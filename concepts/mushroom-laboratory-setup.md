@@ -6,7 +6,7 @@ type: concept
 
 # Mushroom Laboratory Setup
 
-A milestone in any mushroom cultivator's development is the construction and maintenance of a sterile culture laboratory capable of producing spawn for personal use or small-scale commercial production. While hobby growers may prefer the convenience of ordering spawn from reputable suppliers, cultivators who have mastered consistent fruiting with purchased spawn may be ready to invest in home laboratory capabilities. The primary benefits are cost savings and having a consistent, fresh supply of spawn made in small batches as needed, giving the cultivator control over every step of the operation.
+A milestone in any [[coprinus-atrementarius-entity-the-mushroom-cultivator]]'s development is the construction and maintenance of a sterile culture laboratory capable of producing spawn for personal use or small-scale commercial production. While hobby growers may prefer the convenience of ordering spawn from reputable suppliers, cultivators who have mastered consistent fruiting with purchased spawn may be ready to invest in home laboratory capabilities. The primary benefits are cost savings and having a consistent, fresh supply of spawn made in small batches as needed, giving the cultivator control over every step of the operation.
 
 ## Choosing and Preparing Lab Space
 
@@ -16,10 +16,10 @@ Nearly any enclosed space can serve as a basic lab—a small closet, extra room,
 
 ### Basic Equipment Checklist
 
-The core equipment needed for spore germination, tissue culturing, and grain spawn production includes:
+The core equipment needed for spore germination, [[mushroom-tissue-culturing-cloning]], and [[grain-spawn-production]] includes:
 
-- **Laminar flow hood with HEPA filter** — A 2×3-foot filter is economical and provides adequate workspace for transfers
-- **Pressure cooker or sterilizer** — Capable of maintaining 12–15 PSI
+- **[[laminar-flow-hood]] with [[hepa-filter]]** — A 2×3-foot filter is economical and provides adequate workspace for transfers
+- **[[double-layer-tinfoil-jar-covering-pressure-cooker-method]] or sterilizer** — Capable of maintaining 12–15 PSI
 - **Electric impulse sealer** — For sealing autoclavable bags (12–16 inch seal length)
 - **Narrow-mouthed mason jars with metal lids** — For grain expansions (quantity as needed)
 - **Glass Erlenmeyer flask (1,000 ml)** — Or any wide-bottomed glass container holding 3–4 cups
@@ -34,7 +34,7 @@ As skills develop, additional equipment becomes valuable:
 
 - **Blender with all-glass container** — No plastic base parts that can melt (for liquid cultures)
 - **Laboratory refrigerator** — For storing petri plates, cultures, and spawn masters
-- **Microscope** — For inspecting cultures for contamination, spore observations, and mycelial morphology
+- **Microscope** — For inspecting cultures for contamination, spore observations, and [[growing-gourmet-mycelial-morphology-classification-agar-media]]
 - **Plate stirrer** — For liquid cultures
 - **Autoclavable mason jar lids with micron filter disks**
 
@@ -43,7 +43,7 @@ As skills develop, additional equipment becomes valuable:
 - Petri plates (reusable glass or sterile plastic)
 - Autoclavable bags with micron filter patches
 - Gloves (nitrile or reusable rubber dishwashing)
-- Isopropyl alcohol (70%) or half-strength bleach for disinfecting surfaces
+- [[isopropyl-alcohol]] (70%) or half-strength bleach for disinfecting surfaces
 - Paper towels
 - Aluminum foil
 - Surgical or dust masks

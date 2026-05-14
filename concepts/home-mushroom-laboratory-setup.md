@@ -6,7 +6,7 @@ type: concept
 
 # Home Mushroom Laboratory Setup
 
-A milestone in any mushroom cultivator's development is the construction and maintenance of a sterile culture laboratory. Whether for personal use or small-scale commercial spawn production, a home lab enables complete control over every step of the cultivation process—from spore germination and tissue cloning through spawn expansion and strain storage. While hobby growers may prefer the convenience of ordering spawn from suppliers, serious cultivators eventually recognize that making their own spawn offers significant cost savings, freshness, and the ability to work with custom strains.
+A milestone in any [[coprinus-atrementarius-entity-the-mushroom-cultivator]]'s development is the construction and maintenance of a sterile culture laboratory. Whether for personal use or small-scale commercial spawn production, a home lab enables complete control over every step of the cultivation process—from [[spore-germination-and-tissue-cloning]] through spawn expansion and strain storage. While hobby growers may prefer the convenience of ordering spawn from suppliers, serious cultivators eventually recognize that making their own spawn offers significant cost savings, freshness, and the ability to work with custom strains.
 
 ## Selecting and Preparing Lab Space
 
@@ -23,7 +23,7 @@ A spare bathroom can serve as an emergency lab: sanitize thoroughly, run a porta
 
 ### Positive Pressure Ventilation
 
-While not essential for beginners, positive-pressure ventilation significantly improves contamination control. A small fan fitted with a HEPA filter pulls clean fresh air into the lab, creating slight overpressure inside. If a leak exists, clean air pushes out rather than contaminated air being drawn in. This is especially important for spawn safety (which generates CO₂) and operator safety (preventing CO₂ accumulation in sealed spaces).
+While not essential for beginners, positive-pressure ventilation significantly improves [[mushroom-contamination-control]]. A small fan fitted with a HEPA filter pulls clean fresh air into the lab, creating slight overpressure inside. If a leak exists, clean air pushes out rather than contaminated air being drawn in. This is especially important for spawn safety (which generates CO₂) and operator safety (preventing CO₂ accumulation in sealed spaces).
 
 Commercial spawn laboratories often incorporate positive-pressure air lock entries to ensure the main lab space is never directly exposed to outside air. A length of ribbon hanging from the door provides a visual indicator that airflow is directed outward.
 
@@ -31,12 +31,12 @@ Commercial spawn laboratories often incorporate positive-pressure air lock entri
 
 ### Basic Equipment Checklist
 
-The following equipment covers spore germination, tissue culturing, and grain spawn production:
+The following equipment covers spore germination, tissue culturing, and [[grain-spawn-production]]:
 
-- **Laminar flow hood with HEPA filter**: A 2×3-foot filter is economical and provides adequate workspace. This is the single most important piece of equipment for contamination control.
+- **[[laminar-flow-hood]] with HEPA filter**: A 2×3-foot filter is economical and provides adequate workspace. This is the single most important piece of equipment for contamination control.
 - **Pressure cooker or sterilizer**: Must maintain 12–15 PSI for reliable sterilization. Metal-to-metal seal models are preferred over rubber gasket versions for durability.
 - **Electric impulse sealer**: 12- to 16-inch seal length for sealing autoclavable spawn bags
-- **Narrow-mouthed mason jars with metal lids**: For grain spawn preparation and storage
+- **Narrow-mouthed mason jars with metal lids**: For [[grain-spawn-preparation]] and storage
 - **Glass Erlenmeyer flask** (1,000 ml): For preparing agar media
 - **Alcohol lamp**: Filled with denatured alcohol, for flame sterilization of tools
 - **Scalpels or X-Acto knives**: For tissue cutting and transfers
@@ -56,9 +56,9 @@ As skills develop and production scales up, additional equipment becomes valuabl
 ### Consumable Supplies
 
 - **Petri plates**: Reusable glass or pre-sterilized disposable plastic
-- **Autoclavable bags with micron filter patches**: For grain spawn and fruiting block production
+- **Autoclavable bags with micron filter patches**: For grain spawn and [[supplemented-sawdust-fruiting-block-production]]
 - **Gloves**: Nitrile disposable or reusable rubber dishwashing gloves
-- **Isopropyl alcohol** (70%): For surface disinfection
+- **[[isopropyl-alcohol]]** (70%): For surface disinfection
 - **Paper towels**: For work area sanitation
 - **Aluminum foil**: For covering flasks and jars during sterilization
 - **Surgical or dust masks**: For minimizing breath contamination near cultures
@@ -103,7 +103,7 @@ HEPA filters typically need replacement annually with heavy use. Installing a ch
 
 ### Agar Preparation
 
-Agar plates are petri dishes filled with a gelatinous seaweed extract (agar) that serves as a growth medium for fungal cultures. The basic potato agar formula is:
+Agar plates are petri dishes filled with a gelatinous [[comparison-seaweed-extract-vs-fish-hydrolysate]] (agar) that serves as a growth medium for fungal cultures. The basic potato agar formula is:
 
 1. Slice a small potato (unpeeled) into small chunks or shred with a grater
 2. Boil in 3–4 cups of water for one hour, without allowing foam-over; add water if the level drops significantly
@@ -148,30 +148,3 @@ As cultivators advance beyond potato agar, numerous alternative bases become ava
 - **Cattle feed**: Economical bulk option
 - **Cornmeal**: Supports a wide range of fungal species
 - **Beet pulp**: Good for specific species preferences
-
-Different ecotypes of the same mushroom species can vary significantly in their enzymatic ability to break down compounds, so cultivators should experiment to find which species perform best on which formulas. Keeping a detailed journal of formulas and results enables systematic optimization.
-
-### Substrate Agar (Enrichment Medium)
-
-Adding a portion of a mushroom's preferred fruiting substrate to the agar creates "enrichment medium" or "substrate agar." A tablespoon of finely ground sawdust or screened wheat straw powder dissolved into the agar formula helps cultures adapt and express the enzymes needed for their metabolic processes. This technique is particularly useful for hard-to-clone mushrooms or picky species that strongly prefer specific food sources.
-
-### Split Plates and Behavioral Galleries
-
-"Split plates" allow observation of fungal behavior across different media. One side contains a familiar, preferred agar formula; the other contains a challenging or experimental medium. To create a split plate:
-
-1. Set the petri base at an angle on a dowel
-2. Pour enough agar to fill the lower half
-3. Allow to gel, then flip the base and fill the other half with the second formula
-4. Transfer mycelium to the "safe side" and observe as it reaches the transition zone
-
-This technique can test a strain's tolerance for different substrate compositions, supplement concentrations, or contaminant levels. Concentrations can be progressively increased across successive transfers to determine the strain's limits.
-
-### Antibiotic Supplementation
-
-Antibiotics minimize bacterial contamination during the critical early stages of culture establishment. The most practical option for home labs is sterile, injectable penicillin G (livestock formulation), added to cooling agar below 110°F (43°C) but above the gelling point. A sterile syringe transfers the antibiotic; both the antibiotic jar and syringe can be stored together in a ziplock bag in the refrigerator and reused after wiping with alcohol. Antibiotics can also be added to liquid cultures to prevent bacterial growth during extended storage.
-
-## The Learning Curve
-
-Developing laboratory competence takes years of practice. The author's progression—from a cardboard glove box in a parents' attic, to a dedicated closet, to a room in the house, and eventually to an 8,000-square-foot commercial facility—illustrates that mastery comes from persistence and careful technique rather than expensive equipment. Starting with basic tools forces cultivators to be creative and meticulous, honing skills that remain valuable even as equipment improves.
-
-The fundamental principle is culture integrity: as long as the purity of fungal cultures is maintained, there is no single correct way to set up and operate a laboratory. Each cultivator develops processes that fuse their microbiological knowledge with personal preferences and available resources.

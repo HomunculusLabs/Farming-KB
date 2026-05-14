@@ -148,4 +148,3 @@ Mountain soils are typically shallow, rocky, and low in organic matter:
 - [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
 - [[fukuoka-european-villages-mountain-cabin-life]]
 - [[table-mountain-south-africa-mollison]]
-- [[mountain-and-valley-climates]]

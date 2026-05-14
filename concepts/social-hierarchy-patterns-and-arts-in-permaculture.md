@@ -1,5 +1,5 @@
 ---
-title: [[patterns-of-social-hierarchy]] Patterns and the Arts in Permaculture
+title: "Social Hierarchy Patterns And Arts In Permaculture"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

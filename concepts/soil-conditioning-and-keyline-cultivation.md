@@ -49,7 +49,7 @@ The physics of water movement through conditioned soil are remarkably effective:
 
 This is a paradigm shift in water management. Instead of collecting water in centralized storage (dams, tanks) and redistributing it through pipes and channels, the soil itself becomes the primary water storage medium. This approach is cheaper, more resilient, more evenly distributed, and far more beneficial to soil biology than any engineered storage system.
 
-## Thermal Benefits
+## [[thermal-belts-and-soil-conditioning|Thermal]] Benefits
 
 One of the most remarkable and counterintuitive results of soil conditioning is its effect on soil temperature. Mollison reports that conditioned soils maintain temperatures **19 to 25°F above surrounding untreated soils during winter**.
 
@@ -63,14 +63,14 @@ The elevated soil temperature directly reduces frost incidence at the surface. F
 
 ### Extended Growing Season
 
-The combination of reduced frost and warmer soil temperatures extends the growing season at **both ends** — earlier planting in spring and later harvests in autumn. In marginal climates, this can add weeks or even months to the productive growing period, dramatically increasing total yields.
+The combination of reduced frost and warmer soil temperatures extends the growing season at **both ends** — earlier planting in spring and later harvests in autumn. In [[holzer-fruit-growing-marginal-climates]], this can add weeks or even months to the productive growing period, dramatically increasing total yields.
 
 ### Faster Tree Growth
 
 Trees planted in conditioned soil grow faster due to the combined effects of:
 
 - Consistent moisture availability (no drought stress)
-- Warmer root zone temperatures (increased metabolic activity and nutrient uptake)
+- Warmer root zone temperatures (increased [[arbuscule-isolation-metabolic-activity-assays]] and nutrient uptake)
 - Reduced physical resistance to root penetration (roots can explore deeper soil profiles more easily)
 - Enhanced mycorrhizal activity in the well-aerated, moist soil environment
 
@@ -109,7 +109,7 @@ Where the soil is shallow or contains significant rock content, the shank of the
 
 ## Daikon Radish Alternative
 
-For steep slopes where heavy machinery cannot operate safely, Mollison suggests the **Daikon radish** (*Raphanus sativus* var. *longipinnatus*) as a biological alternative to [[mechanical-soil-conditioning]].
+For steep slopes where heavy machinery cannot operate safely, Mollison suggests the **Daikon radish** (*[[raphanus-sativus]]* var. *longipinnatus*) as a biological alternative to [[mechanical-soil-conditioning]].
 
 Daikon radishes produce extremely long, thick taproots — often 12 to 24 inches or more. When planted densely on a slope, these roots penetrate and open the soil profile in a manner analogous to the mechanical shank. After the radishes mature and die, the roots decompose, leaving behind channels that improve water infiltration and soil aeration.
 
@@ -117,11 +117,11 @@ This is an elegant biological solution that requires no fossil fuel input, works
 
 ## Biological Soil Spiking with Trees
 
-Beyond the Daikon radish, Mollison emphasizes the role of **pioneer tree species** in naturally opening compacted soils. Certain trees are particularly effective at penetrating hardpan and compacted layers with their root systems.
+Beyond the Daikon radish, Mollison emphasizes the role of **pioneer tree species** in naturally opening compacted soils. Certain trees are particularly effective at penetrating [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] layers with their root systems.
 
 ### Western Red Cedar
 
-The **western red cedar** (*Thuja plicata*) is cited as an example of a tree whose root system can effectively spike through compacted soil layers. Over time, the tree's roots create channels that improve water infiltration and soil aeration, performing the same function as the Wallace soil conditioner but over a longer timeframe and with the added benefits of biomass production, habitat creation, and microclimate modification.
+The **western red cedar** (*Thuja plicata*) is cited as an example of a tree whose root system can effectively spike through compacted soil layers. Over time, the tree's roots create channels that improve water infiltration and soil aeration, performing the same function as the Wallace soil conditioner but over a longer timeframe and with the added benefits of biomass production, [[amphibian-habitat-creation]], and [[tree-temperature-effects-and-microclimate-modification]].
 
 ### The Pioneer Strategy
 
@@ -148,18 +148,3 @@ A conditioned landscape can store enormous volumes of water distributed througho
 - Is available to plants on demand, distributed across the entire landscape
 - Is protected from evaporation by the soil surface and ground cover
 - Recharges groundwater aquifers rather than running off to streams
-- Moderates temperature extremes through thermal buffering
-- Supports a vastly more diverse and productive biological community
-- Costs nothing to maintain once established — it is a self-renewing system
-
-This perspective inverts the conventional approach to agricultural water management. Instead of asking "How do I irrigate this land?" the permaculture designer asks "How do I get this land to absorb and hold every drop of water that falls on it?" Soil conditioning combined with keyline cultivation is the primary answer to that question.
-
-## See Also
-
-- Keyline Design
-- Water Harvesting and Storage
-- Swales and Contour Earthworks
-- Soil Rehabilitation
-- Hardpan and Compaction
-- Mycorrhizal Networks and Phosphorus Cycling
-- [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]]

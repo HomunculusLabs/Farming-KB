@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Allium porrum** (syn. *Allium ampeloprasum* var. *porrum*), the leek, is a
+**Allium porrum** (syn. *[[allium-ampeloprasum]]* var. *porrum*), the leek, is a
 cultivated vegetable in the family Amaryllidaceae, subfamily Allioideae.
 
 It is closely related to garlic, onion, shallot, and chive. Leeks are

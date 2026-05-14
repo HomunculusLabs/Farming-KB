@@ -76,3 +76,11 @@ The biological dam exemplifies the permaculture principle of edge effect maximiz
 - [[pond-landscape-mosaic-mollison]] — pond systems in landscape design
 - [[swale]] — complementary shallow water system
 - [[village-homes-davis-mollison]] — real-world application of integrated water design
+
+## Practical Applications
+
+Biological dam mollison has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of biological dam mollison has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.

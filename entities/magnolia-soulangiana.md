@@ -66,7 +66,7 @@ The tree is remarkably adaptable, tolerating urban conditions including pollutio
 
 In colder regions (Zones 4–5), flower buds may be killed by severe winter temperatures. Site selection against a warm, south-facing wall can improve flowering reliability in marginal climates.
 
-Propagation is primarily by softwood cuttings in summer or grafting onto *Magnolia kobus* rootstock. Seed propagation is possible but produces variable offspring due to the hybrid nature of the parent.
+Propagation is primarily by softwood cuttings in summer or grafting onto *[[magnolia-kobus]]* rootstock. Seed propagation is possible but produces variable offspring due to the hybrid nature of the parent.
 
 ## Ornamental Horticulture
 

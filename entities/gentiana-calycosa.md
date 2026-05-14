@@ -68,13 +68,13 @@ It commonly associates with Veronica wormskjoldii, [[plants-without-mycorrhizal-
 
 ## Cultivation
 
-Gentiana calycosa requires cool, moist conditions and well-drained humus-rich soil in partial shade to full sun.
+Gentiana calycosa requires cool, moist conditions and well-drained [[humus]]-rich soil in partial shade to full sun.
 
 It is hardy to USDA zones 3–6, tolerating winter temperatures below −30 °C with snow cover.
 
 Propagation is primarily by seed, which requires cold stratification for 4–8 weeks at 0–4 °C.
 
-Seeds should be surface-sown on moist, acidic compost and kept in cool, bright conditions.
+Seeds should be surface-sown on moist, acidic [[compost]] and kept in cool, bright conditions.
 
 Division of mature clumps in early spring is possible but plants resent root disturbance.
 

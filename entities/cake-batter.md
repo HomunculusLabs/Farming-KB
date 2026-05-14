@@ -45,11 +45,11 @@ The caryophyllene-dominant terpene profile distinguishes Cake Batter from many C
 
 ## Effects
 
-Onset is moderate, typically felt within 5–10 minutes of inhalation. Initial effects are cerebral — a gentle euphoria and mood elevation with enhanced sensory perception. This transitions into a warm, full-body relaxation that spreads progressively over 30–45 minutes.
+Onset is moderate, typically felt within 5–10 minutes of inhalation. Initial effects are cerebral — a gentle euphoria and mood elevation with enhanced [[plant-sensory-perception]]. This transitions into a warm, full-body relaxation that spreads progressively over 30–45 minutes.
 
 The strain is well-suited for late afternoon or early evening use. It provides functional relaxation without the couch-lock associated with heavy indicas. Users report creative enhancement and sociable energy during the first hour, followed by gradually deepening physical comfort.
 
-Medical users commonly reach for Cake Batter for stress relief, mild anxiety management, and appetite stimulation. It has moderate utility for pain and inflammation, consistent with the caryophyllene-dominant profile.
+Medical users commonly reach for Cake Batter for stress relief, mild anxiety management, [[cannabis-for-cachexia-and-appetite-stimulation]]. It has moderate utility for pain and inflammation, consistent with the caryophyllene-dominant profile.
 
 ## Cultivation
 
@@ -59,7 +59,7 @@ Cake Batter is considered moderately difficult to cultivate, requiring attention
 
 The most commercially desired phenotype expresses dense, purple-tinted buds with maximum vanilla terpene expression. Growers can enhance this phenotype by reducing night temperatures by 5–8°C during weeks 5–7 of flowering. The color shift is primarily anthocyanin production triggered by cooler conditions.
 
-Nutrient requirements are moderate to heavy during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], with reduced nitrogen and increased phosphorus and potassium during flowering. Cake Batter benefits from calcium and magnesium supplementation, particularly in coco coir or peat-based media. Overfeeding can reduce terpene expression and produce harsh, ammonia-tainted smoke.
+[[cannabis-soil-and-nutrient-requirements]] are moderate to heavy during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], with reduced nitrogen and increased phosphorus and potassium during flowering. Cake Batter benefits from [[dynamic-accumulator-plants-calcium-and-magnesium]] supplementation, particularly in coco coir or peat-based media. Overfeeding can reduce terpene expression and produce harsh, ammonia-tainted smoke.
 
 Multiple cuttings circulate commercially under the Cake Batter name, with significant phenotypic variation. The "Tier 1" cut, associated with the Cookies brand, commands premium prices and is characterized by the strongest vanilla-cake terpene expression and the highest THC content. Less selected cuts may express more generic Cookies-family characteristics.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cake Batter finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cake batter and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

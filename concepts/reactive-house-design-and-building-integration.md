@@ -1,5 +1,5 @@
 ---
-title: Reactive House Design and Building Integration
+title: Reactive House Design And Building Integration
 source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
@@ -10,7 +10,7 @@ The "reactive house" is Mollison's concept for buildings that respond to and wor
 
 ## The Building at the Core
 
-"Man lives in a built environment, in all climates. His shelters are at the core of the zonation system of permaculture, and whether he builds for himself or his livestock, it is essential that the new buildings are so constructed as to supply their own heat and at least some food."
+"Man lives in a [[artillery-fungus-and-built-environment-fungi]], in all climates. His shelters are at the core of the zonation system of permaculture, and whether he builds for himself or his livestock, it is essential that the new buildings are so constructed as to supply their own heat and at least some food."
 
 ### Why Buildings Matter
 - Most domestic energy is consumed in buildings
@@ -51,7 +51,7 @@ Aspect of slopes is critical in deciding between drought-resistant and damp-tole
 #### Horizontal Trellis Uses
 - Shade windows from full summer sun
 - Create overhead vine shelter for tender crops in extreme climates
-- Increase solar radiation on crops
+- Increase [[albedo-and-solar-radiation]] on crops
 
 ### The Shadehouse
 "The refreshing coolness of a shadehouse in the hot Australian summer has to be experienced to be believed." Even tiny pools, a few ferns, and spray or drip of water increase the effect:
@@ -99,7 +99,7 @@ The traditional Aboriginal wiltja can be productively enhanced:
 ### Water Integration
 - Permanent houses: shower water led to slotted pipe drains under shadehouse or garden
 - Wiltjas: pebble mounds with showers overhead provide water treatment and garden moisture
-- "Many showers, so placed, make garden watering an automatic process"
+- "Many showers, so placed, make [[vegetable-garden-watering-systems-spacing]] an automatic process"
 - Washing-up, shower, bath, washing water containing soap led under mulch is beneficial
 
 ### Energy Systems
@@ -117,7 +117,7 @@ The traditional Aboriginal wiltja can be productively enhanced:
 ## The Reactive House Philosophy
 
 The reactive house concept encompasses:
-1. **Self-heating**: Buildings designed to capture and store solar energy
+1. **Self-heating**: Buildings designed to capture and store [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 2. **Self-cooling**: Shade, ventilation, and evaporation designed in
 3. **[[water-management]]**: All wastewater directed to productive use
 4. **Food production**: At least some food grown on or around the building
@@ -126,7 +126,7 @@ The reactive house concept encompasses:
 
 ## Energy Hierarchy
 
-While household energy conservation is important, Mollison places it in context:
+While household [[desert-house-water-energy-conservation]] is important, Mollison places it in context:
 - Greatest waste: irresponsible industries producing packaging, newspapers, gas-guzzling vehicles
 - Household aim: least energy use for own sake
 - Simultaneously: attack the rationale of energy-wasting at the industrial level

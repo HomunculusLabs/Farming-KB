@@ -18,7 +18,7 @@ Chickens are the most accessible and productive livestock for homesteads of any 
 Bred for maximum egg production (250-320 eggs/year):
 
 - **Leghorn**: 280-320 white eggs/year; hardy; flighty; not great for cold climates
-- **Rhode Island Red**: 250-300 brown eggs/year; dual-purpose; cold-hardy; good foragers
+- **[[rhode-island-red]]**: 250-300 brown eggs/year; dual-purpose; cold-hardy; good foragers
 - **Sussex**: 250-280 brown eggs/year; calm; good foragers; cold-hardy
 - **Australorp**: 250-300 brown eggs/year; calm; cold-hardy; excellent layer
 - **Plymouth Rock (Barred Rock)**: 200-280 brown eggs/year; dual-purpose; cold-hardy

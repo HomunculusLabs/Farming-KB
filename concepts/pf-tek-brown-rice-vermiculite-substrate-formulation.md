@@ -2,7 +2,7 @@
 
 ## Overview
 
-The PF TEK substrate is a simple, effective growing medium developed by Psilocybe
+The [[pf-tek]] substrate is a simple, effective growing medium developed by Psilocybe
 Fanaticus. It uses brown rice powder combined with vermiculite to create an airy,
 nutrient-rich environment ideal for fungal colonization. This formulation eliminates
 the need for grain-based substrates and their associated contamination risks.

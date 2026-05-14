@@ -1,5 +1,5 @@
 ---
-title: "[[fukuoka-argument-against-pruning]] Pruning and [[fukuoka-textdoc-attaining-natural-form-fruit-trees]] Trees"
+title: "Fukuoka Argument Against Pruning Natural Form Fruit Trees"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

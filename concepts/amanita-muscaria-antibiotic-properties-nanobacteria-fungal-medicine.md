@@ -1,5 +1,5 @@
 ---
-title: [[allegro-amanita-muscaria-properties-and-pharmacology]] Antibiotic Properties and Fungal Medicine
+title: "Amanita Muscaria Antibiotic Properties Nanobacteria Fungal Medicine"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---

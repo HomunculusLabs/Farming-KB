@@ -1,5 +1,5 @@
 ---
-title: Toroidal Phenomena and Spherical Accretion Models
+title: Toroidal Phenomena And Spherical Accretion Models
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -54,7 +54,7 @@ Rotating tori within spherical bodies create an asymmetry along the rotational a
 
 - **South pole** — the same rotation slows ejection at the southern end, creating a measurable differential between the two poles
 
-This Z-Z axis asymmetry is observable in systems ranging from weather patterns and ocean currents to the polar jets of stars and black holes. It has direct implications for permaculture design, particularly in understanding slope orientation, wind exposure, and the differential distribution of moisture and heat across landscapes.
+This Z-Z axis asymmetry is observable in systems ranging from [[global-weather-patterns-and-atmospheric-engines]] ocean currents to the polar jets of stars and black holes. It has direct implications [[pattern-language-for-permaculture-design]], particularly in understanding slope orientation, wind exposure, and the differential distribution of moisture and heat across landscapes.
 
 Designers who account for directional asymmetry can position elements to capture or deflect flows more effectively, working with the natural directional bias of the systems they are designing within.
 
@@ -68,9 +68,9 @@ Recognizing toroidal and spherical accretion patterns in natural systems allows 
 
 - Understand how energy accumulates, concentrates, and disperses across landscapes, informing optimal placement of elements such as water storage, windbreaks, and thermal mass
 
-- Apply pattern understanding from cosmic and atomic scales to the design of gardens, farms, and watersheds, using scale as a deliberate design tool
+- Apply [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] from cosmic and atomic scales to the design of gardens, farms, and watersheds, using scale as a deliberate design tool
 
-The torus and the sphere are not merely abstract geometric curiosities — they are the fundamental templates through which the universe organizes matter and energy, and they offer permaculture designers a powerful lens for reading and shaping the living world.
+The torus and the sphere are not merely abstract geometric curiosities — they are the fundamental templates through which the universe organizes matter and energy, and they offer [[bill-mollison]] a powerful lens for reading and shaping the living world.
 
 ## Overview
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 toroidal phenomena and spherical accretion models and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

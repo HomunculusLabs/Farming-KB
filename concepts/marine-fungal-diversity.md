@@ -29,9 +29,13 @@ Endolithic fungi such as Halographis runica colonize submerged snail shells, wor
 ## Merged: Fungal Peatland Wetland Diversity
 Peatlands and wetlands represent unique [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. [[fungal-biodiversity-soil-seasonal]] [[fungal-decomposition]] Water availability is the primary factor limiting fungal existence in wetlands, but excess water creates anaerobic conditions that many fungi cannot tolerate. Related: [[halophilic-fungi]]
 
+
 ## See Also
 
-- [[marine-fungal-diversity-ecology]]
+- [[marine-fungal-animal-interactions]]
+- [[marine-fungal-ecology-research]]
+- [[marine-fungal-faunal-interactions]]
+
 ## Practical Considerations
 
 Successful implementation of Marine Fungal Diversity requires attention to

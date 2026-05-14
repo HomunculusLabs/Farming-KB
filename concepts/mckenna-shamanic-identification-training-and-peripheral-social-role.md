@@ -72,7 +72,7 @@ consistent feature of shamanic societies.
 In council meetings, the shaman "sits at the headman's side," indicating a position of honor
 and informal influence. Yet "after the council meeting he returns to his hut at the edge of
 the village." This physical marginality mirrors the shaman's ontological position at the
-boundary between ordinary and nonordinary reality. The shaman lives at the periphery of
+boundary between ordinary and [[metzner-metaphysical-realms-nonordinary-reality-shamanic-cosmology]]. The shaman lives at the periphery of
 the community just as he operates at the periphery of consensus reality.
 
 Shamans are "peripheral to society's goings on in ordinary social life in every sense of the

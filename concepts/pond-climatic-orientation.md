@@ -1,5 +1,5 @@
 ---
-title: Pond [[climatic-orientation-ponds]]
+title: "Pond Climatic Orientation"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

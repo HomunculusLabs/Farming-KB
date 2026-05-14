@@ -32,7 +32,7 @@ knowledge about these compounds' stability and potency that deserves careful stu
 rather than dismissal as superstition.
 ## Practical Considerations
 
-When working with Psilocybin psilocybin chemistry stability indigenous knowledge Indigenous Knowledge, several practical factors should be
+When working with Psilocybin [[psilocybin-chemistry-stability]] indigenous knowledge Indigenous Knowledge, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this

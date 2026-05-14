@@ -1,5 +1,5 @@
 ---
-title: OTU otu differential abundance cannabis microbiome in cultivar-cannabis-microbiome-two-tier-selection-model
+title: Otu Differential Abundance Cannabis Microbiome
 created: 2026-04-28
 tags: [microbiome, bioinformatics, cannabis, statistics]
 date: 2026-04-28

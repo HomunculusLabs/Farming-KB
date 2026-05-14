@@ -1,12 +1,12 @@
 ---
-title: "Fukuoka Natural Diet Tasty Rice Seasonal Eating"
+title: Fukuoka Natural Diet Tasty Rice Seasonal Eating
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Fukuoka's Natural Diet Philosophy, Tasty Rice Critique, and Seasonal Eating
 
-Masanobu Fukuoka's philosophy of natural diet extends his [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]] lies not in technique but in humanity's fundamental misunderstanding of what diet represents. For Fukuoka, restoring a natural diet is inseparable from restoring natural farming — both require abandoning [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]] — categorizing them as sweet, sour, bitter, hot, or tasty — feeding selectively according to impulse and fancy, producing what Fukuoka calls an "unbalanced and deficient diet." The tongue becomes the master rather than the body's deeper wisdom. This creates a self-reinforcing spiral of dissatisfaction:
+[[masanobu-fukuoka]]'s philosophy of natural diet extends his [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]] lies not in technique but in humanity's fundamental misunderstanding of what diet represents. For Fukuoka, restoring a natural diet is inseparable from restoring [[beneficial-indigenous-microorganisms-natural-farming]] — both require abandoning [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]] — categorizing them as sweet, sour, bitter, hot, or tasty — feeding selectively according to impulse and fancy, producing what Fukuoka calls an "unbalanced and deficient diet." The tongue becomes the master rather than the body's deeper wisdom. This creates a self-reinforcing spiral of dissatisfaction:
 
 > "Once man eats something sweet, food that he had felt until then to be sweet loses its appeal. Once he samples epicurean food, plainer fare becomes unacceptable."
 
@@ -16,7 +16,7 @@ Each escalation of taste refinement narrows the range of what is considered acce
 
 Fukuoka draws a sharp contrast between the instinctive eating of animals and the intellectualized eating of modern humans:
 
-> "The food that animals eat by instinct constitutes a complete diet, but man, with his reliance on discriminating knowledge, has lost sight of what a complete diet is."
+> "The food that animals eat by instinct constitutes a complete diet, but man, with his reliance on [[fukuoka-microbes-soil-health-discriminating-knowledge]], has lost sight of what a complete diet is."
 
 Science, rather than correcting this loss, has deepened it. By breaking food into component parts, [[chemical-composition-of-hallucinogens]] food than any previous civilization, yet eats less naturally and less completely than the most primitive humans.
 
@@ -84,7 +84,7 @@ The yin-yang framework is useful as a gentle guide; the moment it becomes rigid 
 
 > "The food that farmers and fishermen have taken locally for thousands of years is a splendid example of natural diet in accordance with the laws of nature."
 
-These traditions did not arise from nutritional science or culinary theory. They emerged from generations of practical, instinctive engagement with local environments. The foods available in each season are precisely the foods the body needs in that season.
+These traditions did not arise from [[fukuoka-critique-western-dietetics-nutritional-science]] or culinary theory. They emerged from generations of practical, instinctive engagement with local environments. The foods available in each season are precisely the foods the body needs in that season.
 
 ### Spring — The Seven Herbs and New Growth
 

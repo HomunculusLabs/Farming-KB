@@ -44,7 +44,7 @@ Seed size is relatively large for the genus, approximately 1.2 to 1.8 centimeter
 
 Ravenea rivularis is endemic to the eastern coast of Madagascar, occurring in riverine and riparian forest habitats from sea level to approximately 600 meters elevation. Its range extends from the Masoala Peninsula in the north to the Fort Dauphin region in the south.
 
-The species is a riparian specialist, typically growing within a few meters of stream banks and river margins. This narrow ecological niche makes it particularly vulnerable to changes in hydrology and water quality.
+The species is a riparian specialist, typically growing within a few meters of stream banks and river margins. This narrow [[ecological-niche]] makes it particularly vulnerable to changes in hydrology and water quality.
 
 Native habitat consists of lowland [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]], logging, and mining has reduced available habitat dramatically. Madagascar has lost over 90 percent of its original forest cover, and the riverine forests preferred by Ravenea rivularis are among the most heavily impacted.
 

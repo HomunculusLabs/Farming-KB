@@ -1,12 +1,12 @@
 ---
 title: Reactive House Passive Climate Control Systems
-source: bill-mollison-permaculture-two-practical-design-for-to.md
+source: bill-[[mollison-pdc-trellis-systems-climate-control|mollison]]-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
 # Reactive House Passive Climate Control Systems
 
-The reactive house eliminates or reduces the need for external energy input for climate control through passive design principles. Mollison emphasizes that the whole thrust is to use structural control of heat and cold, storing solar heat in thermal masses and excluding draughts so that body warmth, cooking, and perhaps a small stove provide all needed heating.
+The reactive house eliminates or reduces the need for external energy input for climate control through passive [[aact-brewer-design-principles-aeration-systems-ingham]]. Mollison emphasizes that the whole thrust is to use structural control of heat and cold, storing solar heat in thermal masses and excluding draughts so that body warmth, cooking, and perhaps a small stove provide all needed heating.
 
 ## Essentials of the Reactive House
 
@@ -18,7 +18,7 @@ The reactive house eliminates or reduces the need for external energy input for 
 6. **N aspect shaded by deciduous trees or vine crop** (hot summer areas): Omitted in cooler areas
 7. **Draught-proofing and reduced ventilation**: Block all old ventilators
 8. **Insulated ceilings**: Vines or trellis along E and W walls
-9. **Heat mass**: Concrete slabs, tanks, brick or stonework within glasshouse or insulated warm rooms
+9. **[[coleman-soil-heat-mass-passive-thermal-storage]]**: Concrete slabs, tanks, brick or stonework within glasshouse or insulated warm rooms
 
 ## Attached Glasshouse Design
 
@@ -65,7 +65,7 @@ A 'U'-shaped suntrap, curved and permeable back to cold winds, facing N. The 'U'
 
 ## The Earth House
 
-Designed for bleak, cold, windswept, hostile areas. Mollison evolved the idea after roadmenders raised a 1.8 m earth bank behind a frigid cabin, dramatically changing the climate by insulating from S winds and trapping N sun heat.
+Designed for bleak, cold, windswept, hostile areas. Mollison evolved the idea after roadmenders raised a 1.8 m [[earth-bank-windbreak-mollison]] behind a frigid cabin, dramatically changing the climate by insulating from S winds and trapping N sun heat.
 
 ### Features
 - All insulation factors of vegetation and earth
@@ -80,7 +80,7 @@ Designed for bleak, cold, windswept, hostile areas. Mollison evolved the idea af
 ## Grown Structures
 
 ### Doernach Biostructure (Stuttgart)
-- Conventional light steel and timber frame
+- Conventional light steel and [[comparison-bamboo-construction-vs-timber-frame-basics]]
 - Grown over with evergreen, waxy-leaved climbing plants (ivy, geranium, coastal climbers)
 - Warm, cosy, weatherproof even in cold European winter
 - Igloo-like form; only doors and windows kept clear of vine
@@ -148,15 +148,3 @@ A clear fibre-glass pool or shallow aquarium: water insulates and gathers light 
 
 ### Wall Aquariums
 No nuisance deposits; stocked with plants and fish; shaded to prevent algal growth. Prevent heat loss, produce food, recycle nutrients.
-
-## Caves and Cellars
-
-The steady-state cool conditions of caves offer:
-- Dry atmosphere for storage
-- Prolonged life of citrus, root crops, leaf crops
-- Cool air source in summer
-- Family refuge in catastrophic wind, fire, war, or heat wave
-- Climate control: constant low temperature or reservoir to drain cold air off windows at night
-
-### Radiation Protection
-Radiation from fire prevented by 'T' shapes or "Dogleg" in entry of shelters.

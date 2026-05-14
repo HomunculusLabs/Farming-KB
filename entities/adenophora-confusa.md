@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Adenophora confusa is a herbaceous perennial in the family Campanulaceae, native to temperate East Asia. It is closely related to Adenophora triphylla and was long confused with that species in both horticultural and botanical literature.
+Adenophora confusa is a herbaceous perennial in the family Campanulaceae, native to temperate East Asia. It is closely related to [[adenophora-triphylla]] and was long confused with that species in both horticultural and botanical literature.
 
 The species produces elegant pendant bell-shaped flowers in pale blue to white, arranged in loose terminal racemes. It is valued in ornamental horticulture for its airy flower spikes and a long bloom period from midsummer into early autumn.
 

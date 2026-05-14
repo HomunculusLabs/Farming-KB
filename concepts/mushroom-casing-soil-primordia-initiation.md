@@ -81,7 +81,7 @@ and microbial diversity, leading to reduced yields. Re-casing between
 flushes can extend the productive life of the substrate block.
 ## See Also
 
-- mushroom substrate preparation heat treatment
+- [[mushroom-substrate-preparation-heat-treatment]]
 - mushroom spawn production grain to bulk
 - [[shiitake-cultivation-parameters]]
 - oyster mushroom species pleurotus diversity

@@ -1,5 +1,5 @@
 ---
-title: [[new-united-nations-concept]] and [[alternatives-to-political-systems]] Systems
+title: "New United Nations Permaculture Social Strategy"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -61,6 +61,13 @@ The real cause of lack of shelter in any country is not finance but restrictive 
 ## Practical Implications for Permaculture Design
 
 This social framework directly informs permaculture practice: community-based land access, local economic systems, [[bioregional-organisation]], and the emphasis on self-reliance over dependency on centralised political and economic structures. The transition to a cooperative global society must be creative rather than destructive, ethical rather than coercive, and local in origin while global in aspiration.
+
+## Background and Context
+
+- Historical development and key contributors
+- Relationship to broader ecological frameworks
+- Evolution of understanding through research
+
 ## See Also
 - [[urban-permaculture-community-building-social-design]]
 - [[permaculture-social-design]]

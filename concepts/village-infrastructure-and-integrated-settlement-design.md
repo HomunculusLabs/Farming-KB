@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-village-infrastructure-and-dwelling-design]] Integrated [[cool-climate-house-and-settlement-design]]
+title: "Village Infrastructure And Integrated Settlement Design"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

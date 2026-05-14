@@ -1,12 +1,12 @@
 ---
-title: Urban-Rural Linkages and Direct Marketing
+title: Urban Rural Linkages And Direct Marketing
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
 # Urban-Rural Linkages and Direct Marketing
 
-Urban-rural linkages represent one of the most productive applications of [[permaculture-design]] thinking — not at the physical landscape level, but at the social and economic level. These systems connect urban consumers with rural producers, eliminating middlemen, building community resilience, and creating economic models that benefit both sides.
+Urban-rural linkages represent one of the most productive applications of [[permaculture-design]] thinking — not at the physical landscape level, but at the social and economic level. These systems connect urban consumers with rural producers, eliminating middlemen, building [[permaculture-community-resilience]], and creating economic models that benefit both sides.
 
 ## The Case of the Urban Chestnut Entrepreneur
 
@@ -64,9 +64,9 @@ Door-to-door selling is most effective in rural areas (not in towns) where peopl
 
 ## Self-Pick Sales
 
-Self-pick (U-pick) operations allow customers to harvest their own produce. Successful design principles include:
+Self-pick (U-pick) operations allow customers to harvest their own produce. Successful [[aact-brewer-design-principles-aeration-systems-ingham]] include:
 
-- **Mound planting**: Raising beds on large mounds protects plants from trampling
+- **[[cervantes-raised-beds-mound-planting]]**: Raising beds on large mounds protects plants from trampling
 - **Heavy mulching**: Sawdust mulch cushions plants and pathways
 - **Broad intercrop spacing**: Wider spacing between rows accommodates customer foot traffic
 - **Crop selection**: Gooseberries tolerate handling well; strawberries on mounds with heavy mulch also perform adequately
@@ -77,7 +77,7 @@ Self-pick (U-pick) operations allow customers to harvest their own produce. Succ
 Permaculture marketing follows a consistent pricing philosophy:
 
 - **Below town retail**: Always sell for less than retail store prices
-- **Organic premium questioned**: Since organic production costs less than conventional (no purchased chemical inputs), organic premiums are not inherently justified
+- **Organic premium questioned**: Since organic [[fukuoka-textdoc-production-costs-not-coming-down]] less than conventional (no purchased chemical inputs), organic premiums are not inherently justified
 - **Income ceiling**: Earnings above $400-$500 per week require scaling beyond direct marketing
 
 ## Non-Competitive Regional Design
@@ -97,7 +97,7 @@ Urban professionals visiting farms can exchange professional services for accomm
 
 - **Accountants**: Itinerant accountants can serve multiple farm clients in a district
 - **Legal assistance**: Urban groups help farmers with legal and accounting procedures
-- **Building materials**: Urban building site surpluses (glass, fencing, doors, windows) provide materials at scrap prices
+- **[[gadd-fungal-biodegradation-concrete-building-materials]]**: Urban building site surpluses (glass, fencing, doors, windows) provide materials at scrap prices
 - **Hardware access**: Urban residents can source spare parts, grocery orders, and supplies for rural farmers
 
 ## Nursery and Supply Networks

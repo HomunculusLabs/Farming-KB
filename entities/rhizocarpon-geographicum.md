@@ -12,16 +12,16 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
-  - Nash, T.H. III (2008). Lichen Biology (2nd ed.). Cambridge University Press.
+  - Nash, T.H. III (2008). [[fungi-in-the-environment-lichen-biology]] (2nd ed.). Cambridge University Press.
   - Benedict, J.B. (2009). "Experiments on lichen growth." Arctic, Antarctic, and Alpine Research, 41(4), 462–472.
-  - Wetmore, C.M. (2007). "The Rhizocarpaceae of North America." Contributions from the University of Michigan Herbarium, 25.
+  - Wetmore, C.M. (2007). "The Rhizocarpaceae of [[guzman-psilocybin-mushrooms-north-america]]." Contributions from the University of Michigan Herbarium, 25.
 ---
 
 ## Overview
 
 **Rhizocarpon geographicum** (L.) DC., known as the **map lichen** or **geographic lichen**, is a widespread crustose lichen in the family Rhizocarpaceae.
 
-It forms distinctive bright yellow-green to yellow-gray crusts with numerous black fruiting bodies (apothecia).
+It forms distinctive bright yellow-green to yellow-gray crusts with numerous black [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (apothecia).
 
 The species has become one of the most scientifically important lichens due to its central role in lichenometric dating of glacial deposits.
 
@@ -63,9 +63,9 @@ The lichen is a primary colonist of freshly exposed rock surfaces following glac
 
 ## Ecology
 
-*R. geographicum* is a pioneer species in primary succession on bare rock, playing a key role in substrate stabilization.
+*R. geographicum* is a pioneer species in [[dighton-fungi-volcanic-glacier-primary-succession]] on bare rock, playing a key role in substrate stabilization.
 
-Its thallus contributes to rock weathering through both physical expansion of cracks and chemical dissolution of minerals.
+Its thallus contributes to [[dighton-fungal-rock-weathering-mineral-dissolution]] through both physical expansion of cracks and chemical dissolution of minerals.
 
 The species is extremely slow-growing, with radial growth rates typically measured at 0.1–1.0 mm per year.
 
@@ -81,4 +81,4 @@ Small arthropods and tardigrades inhabit the microhabitats created by the areola
 
 ## Chemistry and Applications
 
-The primary secondary metabolites are rhizocarpic acid and stictic acid, both depsidones with reported biological activities.
+The primary [[antifungal-secondary-metabolites-coprophilous-fungi]] are rhizocarpic acid and stictic acid, both depsidones with reported biological activities.

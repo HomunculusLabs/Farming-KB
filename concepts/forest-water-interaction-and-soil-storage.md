@@ -11,7 +11,7 @@ type: concept
 Forests are among the most effective natural [[mollison-designers-soil-water-storage-and-field-capacity|capacity]]
 to hold fresh water on land. No other storage system is so beneficial,
 or results in so much useful growth, although fairly shallow ponds
-are also valuable productive landscape features.
+are also valuable productive [[desert-landscape-features-and-erosion-landforms]].
 
 ## Canopy Interception and Energy Dissipation
 
@@ -19,13 +19,13 @@ The process begins at the crown, where forceful raindrops are broken
 up and scattered. Large drops are reduced to mist or coalesced into
 small streams flowing along bark fissures. Trees store considerable
 water in their bark pores, which can hold 40–54% of their total
-water content. By the time water reaches the forest floor as
+water content. By the time water reaches the [[fungal-ecology-forest-floor]] as
 throughfall, it has been robbed of the kinetic energy that, outside
 forests, destroys the soil mantle through splash erosion.
 
 Further impedance occurs on the forest floor, where roots, litter,
 logs, and leaves redirect, slow down, and pool the water. This
-multi-layered energy dissipation is [[humus]] layer — a deep organic blanket on the forest floor. This layer
+multi-layered energy dissipation is [[humus]] layer — a [[coleman-deep-organic-farming]] blanket on the forest floor. This layer
 functions as an enormous blotter, capable of absorbing approximately
 1 cm of rain for every 3 cm of its depth. In old beech forests, the
 humus blanket reaches at least 40 cm in depth, and the earth beneath
@@ -52,7 +52,7 @@ By comparison, nearby open rainfall (9.25 inches) delivered only
 0.5 lb of N, 0.1 lb of P, 0.7 lb of K, and 0.8 lb of Ca — orders of
 magnitude less than canopy-intercepted water. This demonstrates that
 forests act as massive nutrient pumps, concentrating minerals and
-organic compounds from the atmosphere and canopy surfaces into
+[[chamovitz-plant-scent-communication-volatile-organic-compounds]] from the atmosphere and canopy surfaces into
 bioavailable forms delivered to the soil.
 
 ## Soil Storage Types
@@ -62,7 +62,7 @@ mechanisms, plus a minor fourth:
 
 ### 1. Retention Storage
 
-Water bound as a thin film to soil particles, held by surface tension.
+Water bound as a thin film to soil particles, held by [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]].
 As a general rule, 2.5–7 cm (1–3 inches) of rain is stored per 30 cm
 (12 inches) of soil depth in retention storage. Soils with fine
 texture and high organic content can store 10–30 cm (4–12 inches) of
@@ -80,7 +80,7 @@ streams and groundwater.
 
 Water absorbed by swollen [[mycorrhizal-networks]] and spongy detritus in
 the humic content of soils. This is the most biologically active
-storage, supporting the vast decomposer and fungal communities that
+storage, supporting the vast decomposer and [[biodiversity-fungi-soil-fungal-communities]] that
 process nutrients and maintain soil health.
 
 ### 4. Chemically-Bound Water

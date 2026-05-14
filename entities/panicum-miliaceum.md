@@ -43,7 +43,7 @@ Today, proso millet is cultivated across a broad latitudinal range from 50°N to
 
 The species thrives in warm, semi-arid to sub-humid environments with annual rainfall of 300–600 mm. It performs poorly in waterlogged or very humid conditions, being susceptible to fungal diseases under excessive moisture.
 
-It grows on a wide range of soil types including sandy, loamy, and marginal soils with low fertility. Soil pH tolerance ranges from 5.5 to 8.0, making it suitable for both acidic and alkaline soils.
+It grows on a wide range of soil types including sandy, loamy, and marginal soils with low fertility. [[soil-ph]] tolerance ranges from 5.5 to 8.0, making it suitable for both acidic and alkaline soils.
 
 ## Cultivation
 

@@ -147,7 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[ganoderma-and-psk-psp-immunomodulatory-mechanisms]]
-- [[ganoderma-lucidum-pharmacology-and-bioactive-compounds]]
-- [[ganoderma-lucidum-triterpenoids-and-bioactive-compound-pharmacology]]

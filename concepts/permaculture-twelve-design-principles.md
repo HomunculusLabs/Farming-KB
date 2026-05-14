@@ -8,7 +8,7 @@ created: 2026-05-10
 
 # Permaculture's Twelve Design Principles
 
-David Holmgren's *Permaculture: Principles & Pathways Beyond Sustainability*
+[[david-holmgren]]'s *Permaculture: Principles & Pathways Beyond Sustainability*
 (2002) presents the most comprehensive articulation of [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]:
 
 1. **Care for the Earth** — Provision for all life systems to continue and

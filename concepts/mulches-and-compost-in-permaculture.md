@@ -16,7 +16,7 @@ Mulching and composting are the two primary organic methods for building and mai
 Mulch is an excellent nutrient delivery system. The "cool" decay pathway loses little nitrogen while stimulating soil life generally. As mulch breaks down, its mineral content becomes available to plants through the activity of soil organisms.
 
 ### Temperature Buffering
-Under mulch, excessive soil temperature ranges are moderated: soils stay **cooler by day** and **warmer at night or in winter**. This buffering effect improves conditions for seed germination and root growth across seasons.
+Under mulch, excessive [[soil-temperature]] ranges are moderated: soils stay **cooler by day** and **warmer at night or in winter**. This buffering effect improves conditions for seed germination and root growth across seasons.
 
 ### Water Conservation
 Water absorption is significantly improved under mulch. Jeanette Conacher, reporting on extension trials in Nigeria (*Organic Gardening*, 1979), recorded **11% better water infiltration** on low- to no-tillage and mulched plots. Water needs are consistently reduced.

@@ -6,7 +6,7 @@ type: concept
 
 # Mycoremediation Applications and Advanced Fungal Research
 
-Mycoremediation -- the use of fungi to degrade, sequester, or otherwise remove environmental contaminants -- represents one of the most promising applications of mycology in environmental science. This field spans from classroom demonstrations to college-level research and engineering, with fungi demonstrating remarkable abilities to break down pollutants, control erosion, filter water, and even contribute to biofuel production. Beyond remediation, advanced fungal research explores bacterial-fungal interactions, novel metabolite discovery, and the development of fungal-based consumer products.
+[[mycoremediation]] -- the use of fungi to degrade, sequester, or otherwise remove environmental contaminants -- represents one of the most promising applications of mycology in environmental science. This field spans from classroom demonstrations to college-level research and engineering, with fungi demonstrating remarkable abilities to break down pollutants, control erosion, filter water, and even contribute to biofuel production. Beyond remediation, advanced fungal research explores bacterial-fungal interactions, novel metabolite discovery, and the development of fungal-based consumer products.
 
 ## Soil Erosion Control with Mycelium
 
@@ -28,7 +28,7 @@ Fungi can remediate oil spills using extracellular enzymes to break apart hydroc
 
 ### Classroom Oil Spill Simulation
 
-A mock oil spill can be set up using a small aquarium, plastic bins, shredded dried grass (hay or straw), vegetable oil, and oyster mushroom biomass. The biomass consists of sheets of soaked cardboard colonized with oyster mushroom mycelium prepared two weeks before the experiment. Motor oil would be more realistic but is classified as hazardous waste requiring special permits.
+A mock oil spill can be set up using a small aquarium, plastic bins, shredded dried grass (hay or straw), vegetable oil, and [[oyster-mushroom]] biomass. The biomass consists of sheets of soaked cardboard colonized with oyster mushroom mycelium prepared two weeks before the experiment. Motor oil would be more realistic but is classified as hazardous waste requiring special permits.
 
 The procedure involves filling the aquarium half full with water, pouring a measured amount of oil onto the surface, and adding shredded dried grass which floats and absorbs the oil. The oiled grass is removed and layered between colonized cardboard sheets in small bins, packed tightly. Each bin receives the same amount of oiled plant matter. Bins are covered with lids that have holes drilled for gas exchange.
 
@@ -56,7 +56,7 @@ A practical example involves stimulating mycelial biomass with a particular bact
 
 ## Fungal Biofuel Production
 
-Fungi are well known as decomposers but are also molecular builders. Their enzymes perform molecular disassembly of complex substrates and reorganize the elements as new molecules. Small-scale assays can reveal fungal metabolic pathways and substrate preferences based on by-products produced, especially gases. Continuously sampling carbon dioxide generation, for example, reveals the progression of lignin degradation in substrate, helping students understand bioavailability of by-products during degradation.
+Fungi are well known as decomposers but are also molecular builders. Their enzymes perform molecular disassembly of complex substrates and reorganize the elements as new molecules. Small-scale assays can reveal fungal metabolic pathways and substrate preferences based on by-products produced, especially gases. Continuously sampling carbon dioxide generation, for example, reveals the progression of [[lignin-degradation]] in substrate, helping students understand bioavailability of by-products during degradation.
 
 ### Sequential Fungal-Bacterial Systems
 
@@ -69,3 +69,19 @@ Dense mycelial mats can be manufactured into various consumer products including
 ## Engineering Mycoremediation Prototypes
 
 Interdepartmental collaborations between engineering and microbiology create powerful alliances. Engineering students apply data to real-world problems, designing methods, systems, and equipment to produce results. Microbiology students explore data, ask questions, and test hypotheses in biology and cell function. Together, they identify pollution sites, design and test mycoremediation methods for contaminated soil and water, and progress from data collection through prototype testing to construction and implementation of full filtration systems.
+
+## Practical Applications
+
+Mycoremediation applications and advanced fungal research has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of mycoremediation applications and advanced fungal research has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## See Also
+
+- [[advanced-mycoremediation-research-techniques]]
+- [[mycoremediation-pah-and-pcb-degradation]]
+- [[organic-mushroom-farming-and-mycoremediation-overview]]
+- [[mycoremediation-field-applications]]
+- [[mycoremediation-fungal-bioremediation]]

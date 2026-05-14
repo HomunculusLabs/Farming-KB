@@ -41,7 +41,7 @@ The traditional view of lichens as "mutualism" (both partners benefit) has been 
 - Loosely attached to substrate by rhizines (root-like structures)
 - Can be peeled or lifted from the surface
 - Often have lobed margins
-- Examples: Xanthoria parietina (common orange wall lichen), Parmelia sulcata, Flavoparmelia caperata
+- Examples: [[xanthoria-parietina]] (common orange wall lichen), Parmelia sulcata, Flavoparmelia caperata
 - More complex internal structure with distinct cortical, algal, and medullary layers
 
 ### Fruticose (Shrubby)

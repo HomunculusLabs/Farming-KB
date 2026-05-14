@@ -1,22 +1,22 @@
 ---
-title: Agar Plate Preparation and Formulation
+title: Agar Plate Preparation And Formulation
 created: 2026-05-13
 source: cotter-organic-mushroom-farming-mycoremediation.md
-tags: [agar, petri-plates, tissue-culture, sterile-technique, mycology-lab, media-preparation, fungal-culture, sterilization]
-aliases: [Making Agar Plates, Fungal Culture Media, Potato Agar Recipe]
+tags: [agar, petri-plates, tissue-culture, sterile-technique, [[mycology-laboratory-setup-and-agar-plate-preparation|mycology]]-lab, media-preparation, fungal-culture, sterilization]
+aliases: [Making Agar Plates, [[fungal-culture-media]], Potato Agar Recipe]
 ---
 
 # Agar Plate Preparation and Formulation
 
 The complete process of preparing, sterilizing, pouring, storing, and customizing
-agar plates for fungal tissue culture and spore germination in mushroom cultivation.
+agar plates for fungal [[query-what-is-tissue-culture-and-why-does-it-matter-for-growers]] [[duggar-mushroom-life-cycle-spore-germination-fruiting]] in [[mushroom-cultivation]].
 
 ## What Is Agar?
 
 An agar plate is a petri plate (petri dish) filled with agar — a gelatinous extract
 of seaweed commonly used as a substrate for tissue cultures. Agar provides a solid,
-nutrient-rich surface on which fungal mycelium can grow, be observed, and be
-transferred. It is the foundational medium for all mushroom tissue culture work.
+nutrient-rich surface on which [[fungal-mycelium-hyphae-and-the-feeding-phase]] can grow, be observed, and be
+transferred. It is the foundational medium for all [[mushroom-tissue-culture]] work.
 
 ## Step 1: Preparing Agar Gel (Potato Agar)
 
@@ -76,7 +76,7 @@ for:
   happens
 - **Well above 0 PSI**: Sudden pressure change causes agar to boil out of the flask
 
-Remove the hot flask using a paper towel saturated with 70% isopropyl alcohol as a
+Remove the hot flask using a paper towel saturated with 70% [[isopropyl-alcohol]] as a
 mitt, or a sanitized jar lifter. Never touch sterilized vessels with bare hands —
 skin oils can be colonized by bacteria.
 
@@ -92,7 +92,7 @@ skin oils can be colonized by bacteria.
 
 ### Preparation
 
-1. Sanitize the entire laminar flow hood work area with 70% isopropyl alcohol
+1. Sanitize the entire [[laminar-flow-hood]] work area with 70% isopropyl alcohol
 2. Wipe down the outside of the petri plate sleeve with rubbing alcohol
 3. Sanitize scissors and trim the bottom off the sleeve
 4. Invert the entire stack and set it upright on the work surface, still in the
@@ -109,7 +109,7 @@ skin oils can be colonized by bacteria.
 4. Lower the stack to replace the lid
 5. Slide to the next plate and repeat
 6. **Keep the lid off for no more than 3 seconds** per plate to minimize
-   contamination risk
+   [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]
 
 Two cups of agar should fill approximately 20–25 plates. With practice, an entire
 sleeve can be poured in one to two minutes.
@@ -148,87 +148,3 @@ lid.
 - Store in the **refrigerator** for 1–2 months (possibly longer)
 - Extra plates can be stacked and stored in their original plastic sleeve, taped
   shut
-
-### Contamination Check
-
-Before using stored plates, inspect through the bag in front of the laminar hood.
-Discard the entire bag if any **circular green, yellow, or black powdery growth** is
-visible — these are mold contaminants.
-
-## Alternative Agar Bases
-
-Potato agar is excellent for beginners because it is difficult for bacteria to grow
-on, but many mushroom species prefer more complete or specific food sources.
-Alternative bases include:
-
-| Base | Notes |
-|------|-------|
-| Powdered brewer's malt | Rich in nutrients, good general purpose |
-| Dog and rabbit food | Economical, provides varied nutrition |
-| Tomato juice | Good for certain fungal species |
-| Cattle feed | Agricultural byproduct, cost-effective |
-| Cornmeal | Common alternative starch source |
-| Beet pulp | Good for specific fungal preferences |
-
-### Customizing Formulas
-
-Different ecotypes of the same species can differ significantly in their enzymatic
-ability to break down compounds. Keep a journal tracking which mushroom species
-perform best on which agar formulas. Mix small quantities of supplements to find the
-range that yields the best growth while preventing contaminants from outcompeting
-your cultures.
-
-## Adding Fungal Growing Media (Enrichment Medium)
-
-### Substrate Agar
-
-Adding a sample of a mushroom's preferred fruiting substrate to agar creates an
-**enrichment medium** or **substrate agar** that helps picky fungi "feel at home."
-This is especially useful for hard-to-clone mushrooms or species with strong
-substrate preferences (e.g., maitake's affinity for oak).
-
-### Procedure
-
-1. Dry and powder samples of various growing substrates
-2. Store powdered samples in jars for on-demand use
-3. Add ~1 tablespoon of finely ground sawdust or sieved wheat straw powder to your
-   agar formula
-4. This helps cultures adapt and express needed enzymes
-
-### Experimental Applications
-
-- Test whether a strain can grow on an unusual substrate (e.g., shiitakes on wheat
-  straw)
-- Add pesticide or pollutant samples to test a fungus's bioremediation ability
-- Alternating media through successive transfers keeps mycelial enzyme production
-  strong
-
-### Split Gallery Plates
-
-**Behavioral galleries** allow observation of mycelial response to different media:
-
-1. Set the petri base at an angle (rest one end on a dowel)
-2. Pour enough agar to fill half the plate
-3. Once gelled, flip and fill the other half with a different formula
-4. Transfer mycelium to the "safe side" (familiar medium)
-5. Observe how the mycelium reacts when it reaches the transition zone
-6. Increase additive concentration with consecutive transfers to determine tolerance
-
-### Adding Antibiotics
-
-**Penicillin G** (sterile, injectable livestock formulation) is the most practical
-antibiotic for agar:
-
-- Add when agar cools below **110°F (43°C)** but before it gels
-- Swirl to distribute evenly
-- **Never autoclave antibiotics** — heat destroys them
-- Use a sterile syringe; store both syringe and antibiotic jar in the same ziplock
-  bag in the refrigerator
-- Can also be used in liquid cultures for long-term storage
-
-## See Also
-
-- [[mushroom-laboratory-setup-equipment-design]] — lab construction and equipment
-- [[spore-germination-and-tissue-culturing]] — using agar plates to start cultures
-- [[sterile-technique]] — contamination prevention in mycological work
-- [[grain-spawn-production]] — expanding cultures from agar to grain

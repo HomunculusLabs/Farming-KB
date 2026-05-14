@@ -76,7 +76,7 @@ Neil Dauce and Jason Alexandra at Tumbarumba, NSW, reduce forest fuel loads usin
 3. **Create microclimates**: Windbreaks, earth-sheltered structures, and thermal mass extend growing seasons
 4. **Design multi-functional elements**: Every plant and animal should serve multiple purposes
 5. **Plan for succession**: Design initial plantings with the intention that they will be replaced by climax species
-6. **Use coppice and pollard systems**: Renewable harvest of wood, forage, and propagation material from managed trees
+6. **Use [[coppice-and-pollard-systems]]**: Renewable harvest of wood, forage, and propagation material from managed trees
 7. **Leverage guild relationships**: Combine species that support each other's growth and productivity
 ## See also
 

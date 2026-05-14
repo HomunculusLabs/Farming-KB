@@ -37,7 +37,7 @@ conversion of well-managed wild species over domestic livestock in appropriate e
 - Primarily a grazer but also browses on shrubs and forbs when needed
 - Can survive without free surface water for extended periods
 - Extremely fast — capable of 80 km/hour sustained running speed
-- Herding behavior; forms groups from 5 to 1,000+ individuals seasonally
+- [[savory-predator-prey-and-herding-behavior]]; forms groups from 5 to 1,000+ individuals seasonally
 - Males establish and defend territories during breeding season
 - Key prey species for cheetahs, the primary specialized predator
 - Part of the diverse herbivore guild of the African savannah ecosystem
@@ -45,9 +45,9 @@ conversion of well-managed wild species over domestic livestock in appropriate e
 ## Relevance to Cultivation and Mycology
 
 - **Rangeland diversity:** Part of native herbivore communities sustaining ~500 kg/ha
-- **Selective grazing:** Feeds on short grasses, complementing taller-grass grazers
-- **Protein production:** Efficient species produce more assimilable protein than cattle/ha
-- **Dung ecology:** Dung supports coprophilous fungal communities for nutrient cycling
+- **[[dighton-selective-grazing-fungal-community-shifts]]:** Feeds on short grasses, complementing taller-grass grazers
+- **[[fungal-single-cell-protein-production]]:** Efficient species produce more assimilable protein than cattle/ha
+- **Dung ecology:** Dung supports coprophilous [[biodiversity-fungi-soil-fungal-communities]] for [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
 - **Soil fertility:** Concentrated grazing and dunging create nutrient hotspots on range
 - **Game farming:** Pioneer game farms demonstrate benefits of native species management
 
@@ -71,7 +71,7 @@ exceed monoculture in total yield and maintain better rangeland condition.
 ## Design Implications
 
 - Natural multi-species systems outperform monoculture on all productivity metrics
-- Small species can be harvested more continuously with lower environmental impact
+- Small species can be harvested more continuously with lower [[fertilizer-pollution-environmental-impact]]
 - Stock unit calculations enable integration of native and domestic species
 - Importing European livestock prevented use of better-adapted native antelope
 - Efficient food conversion makes gazelles potentially superior for protein per area

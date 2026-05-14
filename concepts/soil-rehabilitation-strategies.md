@@ -30,11 +30,11 @@ The mulched and continuously cropped soils showed dramatically improved aeration
 
 ### 1. Water Control
 
-Drainage and irrigation management are essential for rehabilitating salted and waterlogged areas. Reliance on natural rainfall and water harvesting should take precedence over groundwater extraction. Drought becomes a problem primarily where adequate water storage has not been developed, where tree crops have been sacrificed for fodder or fuel, and where grain crops depend entirely on unpredictable annual rains.
+Drainage and [[soil-moisture-monitoring-irrigation-management]] are essential for rehabilitating salted and waterlogged areas. Reliance on natural rainfall and water harvesting should take precedence over groundwater extraction. Drought becomes a problem primarily where adequate water storage has not been developed, where tree crops have been sacrificed for fodder or fuel, and where grain crops depend entirely on unpredictable annual rains.
 
-Waterlogging occurs where soil water lies over an impermeable layer or where water backs up behind clay or rock barriers, creating anaerobic conditions. Three remediation techniques are available:
+Waterlogging occurs where soil water lies over an impermeable layer or where water backs up behind clay or rock barriers, creating [[aact-ph-and-anaerobic-conditions]]. Three remediation techniques are available:
 
-- **Raised garden beds**: Paths serve as drains, beds are elevated. In very wet areas, paths need a 1:500 slope to prevent erosion.
+- **Raised garden beds**: Paths serve as drains, beds are elevated. In very wet areas, paths need a 1:500 slope to [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]].
 - **Deep open drains**: Installed every 10–80 meters on clay-sand soils, placed upslope and downslope or on either side of garden beds.
 - **Underground pipes**: Tile drains or fluted plastic pipes laid in trenches 1.5 meters deep and spaced 10–80 meters apart, starting at a drain or stream with a gentle fall of 1:1000 to 1:600 toward the ridge.
 
@@ -50,7 +50,7 @@ Once undisturbed soil systems and permanent crops are established, wasteful or p
 
 ### 4. Crop and Plant Species Selection
 
-Many older varieties of both annual and perennial crops yield well with less fertilizer and water than recently developed varieties. A growing movement among farmers and gardeners focuses on preserving and cultivating heritage varieties for their resilience, flavor, and ability to produce under less-than-optimum conditions. Many older apple varieties (such as Pippin and Russet types) are more flavorful and pest-resistant than modern market varieties like Red Delicious.
+Many older varieties of both annual and perennial crops yield well with less fertilizer and water than recently developed varieties. A growing movement among farmers and gardeners focuses on preserving and cultivating [[cannabis-landrace-sativa-heritage-varieties]] for their resilience, flavor, and ability to produce under less-than-optimum conditions. Many older apple varieties (such as Pippin and Russet types) are more flavorful and pest-resistant than modern market varieties like Red Delicious.
 
 ## Building Soil at Garden Scale
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Soil Rehabilitation Strategies finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 soil rehabilitation strategies and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

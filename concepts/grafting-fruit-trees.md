@@ -29,7 +29,7 @@ Scion and rootstock must be closely related for a successful graft. Generally, s
 |----------------|-------------------|
 | Apple (Malus) | Apple, crabapple |
 | Pear (Pyrus) | Pear, quince (with interstem) |
-| Cherry (Prunus avium) | Sweet cherry |
+| Cherry ([[prunus-avium]]) | Sweet cherry |
 | Plum (Prunus domestica) | Plum, apricot (sometimes), peach (sometimes) |
 | Peach (Prunus persica) | Peach, nectarine, almond |
 | Citrus (Citrus) | Most citrus species graft together |

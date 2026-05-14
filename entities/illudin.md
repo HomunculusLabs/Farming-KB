@@ -58,10 +58,10 @@ activity, though none have advanced beyond preclinical evaluation.
 
 ## Related Compounds
 
-- **Pleurotin** — Related sesquiterpene quinone from *Pleurotus* species;
+- **[[pleurotin]]** — Related sesquiterpene quinone from *[[pleurotus]]* species;
   shares spiro-cyclopropane pharmacophore but targets thioredoxin reductase
   rather than DNA
-- **Irofulven** — Semi-synthetic illudin S derivative that reached [[psilocybin]] — Fungal [[aflatoxin]] — Potent mycotoxin from *Aspergillus* species
+- **Irofulven** — Semi-synthetic illudin S derivative that reached [[psilocybin]] — Fungal [[aflatoxin]] — Potent mycotoxin from *[[aspergillus]]* species
 ## Practical Considerations
 
 Successful implementation of Illudin requires attention to

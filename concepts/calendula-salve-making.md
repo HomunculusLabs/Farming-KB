@@ -14,7 +14,7 @@ These traditional herbal remedies were once found in almost every "home pharmacy
 ## Calendula Salve
 
 ### Ingredients
-- Two heaped double handfuls of calendula (Calendula officinalis) — whole plant including stem, leaves and flowers
+- Two heaped double handfuls of calendula ([[calendula-officinalis]]) — whole plant including stem, leaves and flowers
 - Roughly half a litre of lard (available from a butcher), or vegetable oil (e.g. olive oil)
 - If using vegetable oil: 200-250g beeswax per litre of oil as thickening agent
 
@@ -55,7 +55,7 @@ Calendula salve can be used to treat all kinds of injuries because it encourages
 ## Chicory Tea for Diabetics
 
 ### Ingredients
-- Equal amounts of: chicory root (Cichorium intybus), dandelion root, stinging nettles, French lilac, bilberry leaves
+- Equal amounts of: chicory root ([[cichorium-intybus]]), dandelion root, stinging nettles, French lilac, bilberry leaves
 - Three tablespoons of the plant mixture per litre of water
 
 ### Method

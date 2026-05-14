@@ -1,5 +1,5 @@
 ---
-title: Mexico as Center of Neurotropic Fungal Biodiversity
+title: Mexico Center Neurotropic Fungal Biodiversity
 created: 2026-05-09
 tags: [mycology, biogeography, mexico, biodiversity, psilocybe, ethnobotany]
 date: 2026-05-09
@@ -28,7 +28,7 @@ Mexico's 76 neurotropic species compare to the following approximate
 totals for other regions:
 
 - **United States**: ~25 species (many states remain under-collected)
-- **South America**: ~30 species (Brazil, Colombia, Ecuador, Venezuela)
+- **[[guzman-psilocybin-mushrooms-south-america]]**: ~30 species (Brazil, Colombia, Ecuador, Venezuela)
 - **Europe**: ~20 species (primarily *P. semilanceata* and temperate
   allies)
 - **Asia**: ~25 species (Japan, Thailand, India, Southeast Asia)
@@ -56,7 +56,7 @@ neurotropic *Psilocybe*:
 
 ### Endemic Species
 
-Many Mexican neurotropic species are endemic, found nowhere else. The
+Many [[hypholoma-naematoliformis-endemic-mexican-neurotropic-fungi-guzman-1998]] species are endemic, found nowhere else. The
 country's complex topography — spanning tropical lowlands, temperate
 highlands, subtropical forests, and alpine environments — creates
 numerous microhabitats that support speciation. The Sierra Madre
@@ -67,11 +67,11 @@ forests of Oaxaca and Chiapas are particularly rich areas.
 
 ### Historical Documentation
 
-The use of neurotropic mushrooms in Mexico has the longest documented
-history of any psychoactive mushroom tradition:
+The use of neurotropic [[ethnobotanical-use-of-sacred-mushrooms-in-mexico]] has the longest documented
+history of any [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] tradition:
 
 - **1569-1582**: Bernardino de Sahagún first recorded the Nahuatl word
-  "teonanácatl" (divine mushroom) in his *Historia General de las
+  "teonanácatl" ([[soma-controversy-fly-agaric-as-divine-mushroom]]) in his *Historia General de las
   Cosas de Nueva España*
 - **1939**: Richard [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] used by Mazatec peoples
 - **1955**: R. Gordon Wasson participated in a velada (night ceremony)

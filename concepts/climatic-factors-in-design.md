@@ -1,5 +1,5 @@
 ---
-title: [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]] [[bee-forage-systems-permaculture-design]]
+title: "Climatic Factors In Design"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

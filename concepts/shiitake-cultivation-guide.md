@@ -136,3 +136,9 @@ Harvest when caps are 50-75% open (before the veil tears fully for premium grade
 - [[mushroom-grow-room-design]]
 - [[mushroom-drying-storage]]
 - [[synthetic-log-mushroom-cultivation]]
+
+## See Also
+
+- [[shiitake-cultivation-methods]]
+- [[shiitake-cultivation-techniques]]
+- [[shiitake-indoor-cultivation]]

@@ -43,11 +43,11 @@ In section, the thallus shows a well-developed upper cortex composed of densely 
 
 The prothallus, when present, is a thin black or dark brown margin that may extend slightly beyond the main thallus. This feature is more commonly observed in specimens growing on rock surfaces and may be absent in terricolous or muscicolous forms. The prothallus helps anchor the thallus to the substrate and may assist in water absorption from the underlying surface.
 
-Pycnidia are common and immersed within the thalline areoles, producing small conidiospores that serve as a means of asexual reproduction. These structures appear as tiny dark dots on the thallus surface and can be observed readily under a hand lens or dissecting microscope at moderate magnification.
+Pycnidia are common and immersed within the thalline areoles, producing small conidiospores that serve as a means of [[conidia-and-asexual-reproduction-in-filamentous-fungi]]. These structures appear as tiny dark dots on the thallus surface and can be observed readily under a hand lens or dissecting microscope at moderate magnification.
 
 ## Distribution, Habitat and Ecology
 
-Diploschistes scruposus has a cosmopolitan distribution, occurring on every continent except Antarctica. It is particularly abundant in Mediterranean climates, temperate regions, and arid to semi-arid environments. The species ranges from sea level to elevations exceeding 2500 meters in mountainous areas, demonstrating considerable ecological amplitude.
+Diploschistes scruposus has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], occurring on every continent except Antarctica. It is particularly abundant in Mediterranean climates, [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], and arid to semi-arid environments. The species ranges from sea level to elevations exceeding 2500 meters in mountainous areas, demonstrating considerable ecological amplitude.
 
 In North America, Diploschistes scruposus is widespread across the southern and western [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the lichen microecosystem and may facilitate [[cervantes-air-quality-ventilation]] in lichen biomonitoring studies.
 
@@ -61,9 +61,9 @@ Diploschistes scruposus produces several characteristic lichen acids that are us
 
 Spot tests for Diploschistes scruposus generally show K+ yellow or P+ yellow in the medulla, reflecting the presence of diploschistesic acid. The cortex may be C− or show a weak reaction. These reactions, combined with thin-layer chromatography, help distinguish D. scruposus from morphologically similar species within the genus and among other crustose lichens.
 
-Diploschistesic acid is a depsidone unique to the genus Diploschistes and a few closely related taxa. This compound has been the subject of phytochemical investigation for its potential biological activities. Research has demonstrated modest antimicrobial and antioxidant properties, though the ecological significance of these compounds in nature remains under investigation.
+Diploschistesic acid is a depsidone unique to the genus Diploschistes and a few closely related taxa. This compound has been the subject of phytochemical investigation for its potential biological activities. Research has demonstrated modest antimicrobial and antioxidant properties, though the [[lichen-biology-guide]] of these compounds in nature remains under investigation.
 
-Lecanoric acid, another major constituent, is a widespread depside found across many lichen genera. It functions as a secondary metabolite with allelopathic properties that may help the lichen defend its substrate territory against competing organisms. Lecanoric acid also serves as a UV-protective compound, absorbing harmful radiation in exposed habitats.
+Lecanoric acid, another major constituent, is a widespread depside found across many lichen genera. It functions as a [[fungal-elicitors-enhanced-secondary-metabolite-production]] with allelopathic properties that may help the lichen defend its substrate territory against competing organisms. Lecanoric acid also serves as a UV-protective compound, absorbing harmful radiation in exposed habitats.
 
 Recent pharmacological studies have explored the potential of diploschistesic acid and related compounds for pharmaceutical applications. Extracts from Diploschistes scruposus have shown activity against certain pathogenic fungi and bacteria in vitro. However, clinical applications remain limited, and most research is still at the preliminary screening stage.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Diploschistes Scruposus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

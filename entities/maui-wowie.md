@@ -22,9 +22,9 @@ sources:
 
 Maui Wowie (also spelled Maui Waui) is a classic **sativa-dominant [[psilocybin-north-america-pacific-northwest]].
 
-The strain is renowned for its **tropical, citrus-pine aroma** and its clear, uplifting cerebral effects that evoke the Hawaiian landscape it comes from. Original Maui Wowie plants grew tall and lanky, adapted to the island's tropical climate and rich volcanic soil.
+The strain is renowned for its **tropical, citrus-pine aroma** and its clear, uplifting cerebral effects that evoke the Hawaiian landscape it comes from. Original Maui Wowie plants grew tall and lanky, adapted to the island's [[query-how-to-design-a-food-forest-for-a-tropical-climate]] and rich volcanic soil.
 
-True landrace Maui Wowie is increasingly rare today. Most modern versions are crosses that preserve the original's flavor profile and energetic effects while adding improved resin production and disease resistance.
+True landrace Maui Wowie is increasingly rare today. Most modern versions are crosses that preserve the original's flavor profile and energetic effects while adding improved [[cannabis-resin-production-and-quality-traits-clarke]] disease resistance.
 
 ## Lineage
 
@@ -43,7 +43,7 @@ Primary flavor notes include:
 - **Pine and herbs** — subtle woody, resinous finish
 - **Earthy undertone** — mild volcanic soil character on the exhale
 
-The terpene profile is typically led by **myrcene**, **pinene**, and **caryophyllene**, with limonene contributing to the citrus brightness. This combination produces the strain's characteristic sweet-tropical-pine bouquet.
+The [[cannabis-terpene-profile]] is typically led by **myrcene**, **pinene**, and **caryophyllene**, with limonene contributing to the citrus brightness. This combination produces the strain's characteristic sweet-tropical-pine bouquet.
 
 ## Effects
 
@@ -63,9 +63,9 @@ Common applications include daytime use, social situations, creative work, and o
 
 ## Cultivation
 
-Maui Wowie prefers a **warm, humid tropical or subtropical climate** with consistent temperatures between 21–29°C. It is well-suited to Mediterranean and tropical outdoor environments.
+Maui Wowie prefers a **warm, humid tropical or [[query-how-do-i-grow-bananas-in-a-subtropical-climate]]** with consistent temperatures between 21–29°C. It is well-suited to Mediterranean and tropical outdoor environments.
 
-Key cultivation parameters:
+Key [[mushroom-species-cultivation-parameters]]:
 
 - **Flowering time** — 9–11 weeks indoors
 - **Outdoor harvest** — late October to November (Northern Hemisphere)
@@ -73,7 +73,7 @@ Key cultivation parameters:
 - **Height** — tall; requires significant vertical space
 - **Difficulty** — moderate; stretch during flowering needs management
 
-The strain responds well to **[[cannabis-training-techniques-comparison]]** including LST and ScrOG to control its height. Nutrient requirements are moderate; overfeeding can diminish the delicate tropical terpene profile. Original landrace genetics are sensitive to cold and require stable warm conditions.
+The strain responds well to **[[cannabis-training-techniques-comparison]]** including LST and ScrOG to control its height. [[cannabis-soil-and-nutrient-requirements]] are moderate; overfeeding can diminish the delicate tropical terpene profile. Original landrace genetics are sensitive to cold and require stable warm conditions.
 
 ## Cannabinoid Profile
 

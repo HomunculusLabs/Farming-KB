@@ -1,5 +1,5 @@
 ---
-title: "[[mushroom-pasteurization-techniques]]"
+title: "Mushroom Pasteurization"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: entity
 tags: [mycology, cultivation, pasteurization, sterilization, substrate-preparation]

@@ -26,7 +26,7 @@ evidence from ceremonial sites in Peru and Ecuador includes stone
 carvings and textiles depicting the cactus and its ceremonial use dating
 back to the Chavin culture (circa 1000 BCE).
 
-The primary psychoactive compound in San Pedro is mescaline, the same
+The primary psychoactive compound in San Pedro is [[mescaline]], the same
 alkaloid found in peyote. However, the ceremonial traditions, cultural
 contexts, [[halpern-sacramental-peyote-and-native-american-church]].
 

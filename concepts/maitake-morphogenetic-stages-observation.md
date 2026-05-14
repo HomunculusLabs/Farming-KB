@@ -47,7 +47,7 @@ period of metabolic activities.
 
 ## Fruiting Body Development Stages
 
-Fruiting body development encompasses four distinct morphological
+[[fruiting-body-development]] encompasses four distinct morphological
 stages: primordia, brain, cauliflower, and cluster flower.
 
 ### Stage 1: Primordia

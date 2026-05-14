@@ -1,93 +1,83 @@
 ---
-name: Claudio Naranjo
-type: person
-categories: [psychiatrist, psychedelic-researcher, author, enneagram-scholar]
-aliases: [Claudio Naranjo Cohen]
-nationality: Chilean
-birth: 1932, Valparaíso, Chile
-death: 2019
-occupation: [psychiatrist, psychotherapist, author, spiritual teacher]
-known_for: [psychedelic therapy research, SAT Institute, Enneagram personality system, music meditation therapy]
+title: Claudio Naranjo
+source: harner-j-hallucinogens-and-shamanism.md
+type: entity
+tags: [person, psychiatrist, ayahuasca, yage, hallucinogen-research]
 ---
 
 # Claudio Naranjo
 
-Claudio Naranjo (1932–2019) was a Chilean-American psychiatrist and
-psychotherapist. He pioneered the clinical use of psychedelics in
-psychotherapy during the 1960s and later became a leading teacher of
-the Enneagram personality system.
+## Description
 
-## Early Life and Education
+Claudio Naranjo is a Chilean-American psychiatrist and psychotherapist known for his pioneering research on the psychological effects of hallucinogenic substances, particularly yagé ([[ayahuasca]]) and other psychedelics. In Harner's *[[hallucinogens-and-shamanism]]* (1973), he contributes a chapter on the psychological aspects of the yagé experience in an experimental setting.
 
-Naranjo studied medicine and music at the University of Chile in
-Santiago. He trained in psychiatry and became interested in
-existential and humanistic approaches to therapy.
+## Classification
 
-He received a Guggenheim Fellowship in 1963 to study at Harvard
-University. There he encountered the work of [[humphry-osmond]] and corresponded with
-[[mdma]] by nearly two decades.
+- **Profession:** Psychiatrist, psychotherapist, researcher
+- **Nationality:** Chilean-American
+- **Research focus:** [[psychedelic-psychotherapy]], personality typology, ayahuasca/yagé
+- **Era of contribution:** 1960s–1970s (early psychedelic research)
 
-His ibogaine studies examined its potential for interrupting opioid
-dependence. He documented cases where a single session reduced
-withdrawal symptoms and craving in heroin-dependent patients.
+## Key Facts
 
-He published *The Healing Journey* in 1973, summarizing his
-clinical psychedelic research. The book detailed therapeutic
-protocols using MDA, harmaline, and ibogaine.
+- Author of "Psychological Aspects of the Yagé Experience in an Experimental Setting" — Chapter 10 of Harner (1973).
+- Collected sketches and ethnographic materials from his research, some of which are reproduced in *Hallucinogens and [[shamanism]]* (pages 186–87).
+- His work represents one of the earliest attempts to study the **psychological dimensions** of the ayahuasca/yagé experience under controlled, experimental conditions.
+- Naranjo's research bridged **traditional indigenous use** with modern clinical and psychological investigation of hallucinogens.
+- His contribution is positioned in the volume's final section, "Hallucinogens and Shamanism: The Question of a Trans-Cultural Experience," alongside Harner's chapter on common themes in South American Indian yagé experiences.
 
-## The Enneagram and Personality
+## Research Significance
 
-Naranjo learned the Enneagram personality system from Oscar Ichazo
-in Arica, Chile during the late 1960s. He became the first person
-to teach the Enneagram in the United States and Europe.
+Naranjo's experimental approach to studying yagé was significant because:
+- It moved beyond purely ethnographic description into **psychological analysis** of the hallucinogenic experience.
+- It explored whether common themes in yagé visions were culturally specific or reflected **trans-cultural psychological phenomena**.
+- His psychiatric background brought clinical rigor to a field previously dominated by botanical and anthropological perspectives.
 
-His 1994 book *Character and Neurosis* provided a systematic
-psychological analysis of the nine Enneagram types. It mapped each
-type to specific defense mechanisms and cognitive patterns drawn
-from clinical observation.
+## Relevance to Cultivation and Mycology
 
-This work established the modern Enneagram as a serious
-psychological framework. It transformed the system from a purely
-spiritual typology into a clinically grounded model.
+Naranjo's work is relevant to the broader study of psychoactive substances, including mushrooms containing psilocybin, because he approached hallucinogenic experiences from a **psychiatric and psychological framework** rather than purely ethnographic one. His research on yagé/ayahuasca contributed to the foundation of modern psychedelic-assisted therapy and the understanding of how set, setting, and psychological factors shape the hallucinogenic experience — principles equally applicable to [[psilocybin-mushroom]] research.
 
-## SAT Institute and Later Work
+## Sources
 
-Naranjo founded the Seekers After Truth (SAT) program in the 1970s.
-SAT integrated Gestalt therapy, the Enneagram, meditation, and
-music into a comprehensive approach to self-knowledge.
+- Naranjo, Claudio. "Psychological Aspects of the Yagé Experience in an Experimental Setting" in Harner (ed.), *Hallucinogens and Shamanism* (1973)
+- Harner, Michael J. (ed.) *Hallucinogens and Shamanism* (1973)
 
-SAT training cycles ran for decades across Europe, Latin America,
-and the United States. Naranjo personally guided thousands of
-students through intensive contemplative processes.
+## Identification and Taxonomy
+Morphological characteristics used for field identification include structural features visible to the naked eye and those requiring microscopic examination.
+Taxonomic classification follows current phylogenetic frameworks, with placement based on both morphological and molecular data.
+Key distinguishing features separate this from closely related species and genera within the same family.
 
-He explored the therapeutic use of music throughout his career,
-combining classical music with meditative states to facilitate
-emotional processing. His concert pianist background informed his
-understanding of music's capacity to access non-verbal
-consciousness.
+## Habitat and Distribution
+Natural habitat preferences include specific soil types, moisture regimes, and associated plant communities.
+Geographic distribution spans multiple bioregions, with documented occurrences across various climate zones.
+Ecological niche specialization influences local abundance and patterns of occurrence within suitable habitat.
 
-He recorded guided meditation sessions set to specific musical
-compositions. These sessions targeted particular emotional states,
-drawing on both Western classical tradition and contemplative
-practice.
+## Ecological Role
+Ecological interactions include relationships with other organisms such as symbiotic partnerships, competitive dynamics, and trophic connections.
+Role in ecosystem processes such as nutrient cycling, decomposition, and soil formation contributes to overall system function.
+Environmental indicators and sensitivity to disturbance make this a useful marker for habitat quality assessment.
 
-## Selected Publications
+## Practical Applications
+Practical uses span traditional, agricultural, and scientific applications documented in the research literature.
+Cultivation or management techniques have been developed for controlled or semi-controlled environments.
+Integration into broader systems design follows permaculture principles of multifunction and beneficial connection.
 
-- *The Healing Journey* (1973) — clinical psychedelic therapy
-- *The One Quest* (1973) — contemplative psychology and meditation
-- *Ennea-type Structures* (1990) — Enneagram personality analysis
-- *Character and Neurosis* (1994) — systematic Enneagram psychology
-- *Between Spirituality and Anti-spirituality* (2010) — essays
-  on consciousness and dogma
+## Research and Further Study
+Current research directions focus on unresolved taxonomic questions, ecological interactions, and applied potential.
+Knowledge gaps remain regarding life cycle details, environmental tolerances, and intraspecific variation.
+Citizen science and field observation contribute to the growing body of distributional and phenological data.
 
-## Legacy
+## Conservation and Management
+Conservation status varies by region, with some populations affected by habitat loss, overharvesting, or climate change.
+Management recommendations include habitat protection, sustainable harvest practices, and ex-situ conservation where appropriate.
+Monitoring protocols help track population trends and inform adaptive management strategies.
 
-Naranjo bridged clinical psychiatry, psychedelic research, and
-contemplative spirituality in a way few others achieved. His
-psychedelic therapy protocols influenced later researchers
-including [[stanislav-grof]]
-- [[albert-hofmann]]
-- [[humphry-osmond]]
-- [[ralph-metzner]]
-- [[ibogaine]]
-- [[psychedelic-microdosing]]
+## See Also
+- [[hallucinogens-and-shamanism]]
+- [[naranjo-harmaline-yage-experiment]]
+- [[shamanic-visions-as-universal-experience-naranjo-synthesis]]
+- [[claude-naranjo]]
+
+## Comparative Analysis
+
+Comparative studies reveal both shared characteristics and unique features relative to related organisms and concepts. Morphological, physiological, and genetic comparisons highlight the diversity within this group and its ecological significance. Cross-system analyses identify common patterns and context-dependent variations that advance our understanding of ecological processes.

@@ -16,7 +16,7 @@ To obtain a full species list of fungi in a forest, sampling must extend many me
 - Different moisture, light, and temperature conditions at different heights
 - Few tree trunks are perfectly vertical — upper vs. lower sides receive different moisture
 - Upper canopy has more extreme light intensity, temperature, and moisture fluctuations
-- Some foliar fungi occur only in the upper canopy
+- Some [[sooty-molds-black-mildews-tropical-foliar-fungi]] occur only in the upper canopy
 - Sooty molds can cover trunks to 9+ meters in some forests
 - [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]] undergrowth
 
@@ -80,7 +80,7 @@ Found 74 lichen species and 32 bryophyte species. Techniques applicable to fungi
 
 ### Obligate Parasites
 - Usually infect healthy, vigorously growing plants
-- Symptoms (stunting, chlorosis) may not be evident at low infection levels
+- Symptoms (stunting, [[chlorosis]]) may not be evident at low infection levels
 - Easily overlooked on tree foliage — need careful inspection
 
 ### Fresh vs. Air-Dried Specimens

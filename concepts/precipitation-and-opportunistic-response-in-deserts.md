@@ -1,5 +1,5 @@
 ---
-title: [[desert-precipitation-and-opportunistic-response]] Response in Deserts
+title: "Precipitation And Opportunistic Response In Deserts"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

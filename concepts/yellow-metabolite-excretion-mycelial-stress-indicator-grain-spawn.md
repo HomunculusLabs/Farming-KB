@@ -49,7 +49,7 @@ Low-level bacterial or mold contamination, even if not immediately visible:
 - Some contaminants produce their own pigments that mix with mycelial exudates
 
 ### Substrate Issues
-Problems with the grass seed substrate itself:
+Problems with the [[grass-seed-substrate]] itself:
 - Excessive moisture leading to anaerobic conditions
 - Insufficient moisture causing osmotic stress
 - pH imbalances affecting enzyme function

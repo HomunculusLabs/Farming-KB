@@ -2,7 +2,7 @@
 
 ## Overview
 
-Fungi represent one of the most species-rich and ecologically diverse kingdoms on Earth, yet they remain among the most poorly documented organisms. Despite their critical roles in nutrient cycling, plant symbiosis, pathology, and ecosystem function, **no single site on the planet has ever been comprehensively surveyed for [[fungal-biodiversity]]**.
+Fungi represent one of the most species-rich and ecologically diverse kingdoms on Earth, yet they remain among the most poorly documented organisms. Despite their critical roles [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], plant symbiosis, pathology, and ecosystem function, **no single site on the planet has ever been comprehensively surveyed for [[fungal-biodiversity]]**.
 
 Estimates of global fungal diversity range from 2.2 to 3.8 million species, yet fewer than 150,000 have been formally described. This stark knowledge gap underscores the urgent need for standardized inventory methods that can produce comparable data across sites, habitats, and time periods.
 
@@ -16,17 +16,17 @@ First, they **enable cross-site comparisons** — without consistent methodologi
 
 Efforts to systematize fungal inventory methods have a long but fragmented history:
 
-- **Booth (1971)** compiled one of the earliest comprehensive references on methods for studying soil fungi, establishing foundational isolation and culture techniques — including dilution plating, soil washing, and baiting — that remain influential in mycological practice.
+- **Booth (1971)** compiled one of the earliest comprehensive references on methods for studying soil fungi, establishing foundational isolation and culture techniques — including [[particle-filtration-dilution-plating-microfungal-isolation]], soil washing, and baiting — that remain influential in mycological practice.
 
 - **Stevens (1981)** provided a broader synthesis of approaches for surveying fungi across multiple habitat types, expanding beyond soil to include plant-associated, wood-inhabiting, and coprophilous groups, while also addressing preservation and documentation standards.
 
-- **Rossman et al. (1998)** advanced the agenda significantly through the **All Taxa Biodiversity Inventory (ATBI)** initiated in Costa Rica's Guanacaste Conservation Area, representing one of the most ambitious attempts to survey all fungi within a defined tropical landscape and catalyzing international discussion of inventory protocols.
+- **Rossman et al. (1998)** advanced the agenda significantly through the **All Taxa Biodiversity Inventory (ATBI)** initiated in Costa Rica's Guanacaste Conservation Area, representing one of the most ambitious attempts to survey all fungi within a defined tropical landscape and catalyzing international discussion of [[fungal-inventory-protocols-field-surveys]].
 
 ## The Biodiversity of Fungi Volume
 
 The most comprehensive attempt to consolidate fungal biodiversity inventory methods is the volume **"Biodiversity of Fungi: Inventory and Monitoring Methods"**, edited by Gregory M. Mueller, Gerald F. Bills, and Mercedes S. Foster.
 
-This work distinguishes itself by organizing methods **by technique and ecological group rather than by taxonomic classification**, reflecting the practical reality that different fungal guilds demand fundamentally different sampling approaches. The volume addresses sampling design, data management, and analytical frameworks alongside specific protocols, serving as both a practical handbook and a conceptual framework for fungal biodiversity research.
+This work distinguishes itself by organizing methods **by technique and ecological group rather than by taxonomic classification**, reflecting the practical reality that different fungal guilds demand fundamentally different sampling approaches. The volume addresses sampling design, data management, and analytical frameworks alongside specific protocols, serving as both a practical handbook and a [[holmgren-permaculture-flower-conceptual-framework]] for fungal biodiversity research.
 
 ### Operational Ecological Groups
 
@@ -75,7 +75,7 @@ Inventory design must explicitly define the spatial grain (finest resolution of 
 
 ## Molecular Methods
 
-The application of **molecular techniques, particularly rDNA sequencing**, has revolutionized fungal biodiversity assessment. Culture-independent methods such as [[environmental-dna-metabarcoding]] can detect **cryptic and unculturable species** that are invisible to traditional morphological surveys, often revealing orders of magnitude more operational taxonomic units than conventional methods.
+The application of **molecular techniques, particularly rDNA sequencing**, has revolutionized [[fungal-biodiversity-assessment-methods]]. Culture-independent methods such as [[environmental-dna-metabarcoding]] can detect **cryptic and unculturable species** that are invisible to traditional morphological surveys, often revealing [[event-classification-and-orders-of-magnitude]] more operational taxonomic units than conventional methods.
 
 However, molecular data introduce their own challenges: extracellular DNA may persist in soil or water after the organism is no longer biologically active, reference sequence databases contain errors and taxonomic biases, and different PCR primer sets capture different taxonomic subsets. Integrating molecular and morphological approaches — where sequences are linked to vouchered, identified specimens — remains the gold standard for robust assessment.
 

@@ -1,5 +1,5 @@
 ---
-title: Permanent Agriculture — Feudal, Baronial, and Communal Systems
+title: Permanent Agriculture Feudal Baronial Communal Systems
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -67,7 +67,7 @@ Mollison proposes an 8-year transition from contemporary agriculture to permacul
 
 The accounting across this transition covers multiple dimensions:
 
-- **Economic**: Farm income is achieved by reducing production costs rather than increasing gross output; dollar costs don't balance until organic farming is achieved
+- **Economic**: Farm income is achieved by reducing production costs rather than increasing gross output; dollar costs don't balance until [[coleman-deep-organic-farming]] is achieved
 - **Energy**: Oil dependence drops from a 10:1 loss ratio to a 1:120 gain through firewood and fuels produced on-farm
 - **Environmental**: Soil loss is reversed (soils are created rather than destroyed), water is conserved, and pollutants are removed
 - **Social**: Employment increases as human design and skills replace machine systems; food quality improves; life quality emerges as "right livelihood"
@@ -81,11 +81,11 @@ This has been the historical fate of peasant Europe, Ireland, and much of the th
 ## Key Principles
 - Central to understanding ecological and sustainable design systems
 - Integrates theoretical knowledge with practical application
-- Functions within complex adaptive systems and natural patterns
+- Functions within complex adaptive systems and [[natural-patterns-in-permaculture-design]]
 - Requires consideration of multiple interacting factors
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
+- Applied in [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] sustainable land management
 - Supports decision-making in agricultural and ecological contexts
 - Used in conservation and environmental restoration projects
 - Helps practitioners develop more resilient and productive systems
@@ -93,8 +93,8 @@ This has been the historical fate of peasant Europe, Ireland, and much of the th
 ## Ecological Significance
 - Contributes to understanding of ecosystem dynamics and function
 - Supports biodiversity and enhances natural system resilience
-- Plays role in nutrient cycling and energy flow processes
-- Understanding improves capacity for sustainable resource management
+- Plays role in [[soil-protozoa-nutrient-cycling-and-mineralization]] energy flow processes
+- Understanding improves capacity for sustainable [[savory-holistic-resource-management-animal-impact]]
 
 ## Related Concepts
 - [[earthcare-ethics-and-permanent-agriculture]]

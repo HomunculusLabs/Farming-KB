@@ -27,7 +27,7 @@ composition.
 The region we call Siberia is vast — as large as Europe and the USA combined,
 covering seven time zones and several distinct geographical regions: tundra in
 the north, great boreal forest or taiga in the centre, and steppe in the south.
-The [[shamanism]]" in Siberia. The
+The shamanism" in Siberia. The
 term itself was particular to Tungusic-speaking societies, and outside Siberia
 the name stuck while the actual terms used locally — kam, buri, oyun — varied
 widely.

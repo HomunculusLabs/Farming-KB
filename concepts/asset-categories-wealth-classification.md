@@ -1,5 +1,5 @@
 ---
-title: [[asset-categories-mollison]] [[savory-solar-dollars-and-wealth-classification]]
+title: "Asset Categories Wealth Classification"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -142,8 +142,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[cotter-mushroom-garden-design]]
-- [[gaias-garden-keyhole-beds-and-mandala-gardens]]
-- [[garden-mushroom-growing]]
-- [[mineral-deficiency-remedies-and-garden-solutions]]
-- [[natural-farming-guide-hugelkultur-mounded-garden-beds]]
+- [[garden-tools-and-sharpening]]
+- [[garden-tools-selection-and-care]]
+- [[garden-tools-selection-sharpening]]

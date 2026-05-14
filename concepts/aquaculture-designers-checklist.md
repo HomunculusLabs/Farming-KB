@@ -25,7 +25,7 @@ Due to the special susceptibility of water life, minimal to zero biocide use is 
 ### Water Quality
 
 - Fertilise pond and bring pH to 7+ before stocking
-- Vary pond depth, pond size, and pH to suit a set of food species and productive fish for the district
+- Vary [[pond-depth-and-series-arrangements]], pond size, and pH to suit a set of food species and productive fish for the district
 - Analyse landscape for natural or cultivated food resources that can supplement feeding
 
 ### Predator Management
@@ -38,13 +38,13 @@ Due to the special susceptibility of water life, minimal to zero biocide use is 
 
 - Devise a fish/plant polyculture for the ponds
 - Carefully analyse pond configurations for specific polycultures, easy management, site, and weather effects
-- Devise accessory food systems for fish or invertebrates as vegetation, root crop, and invertebrates
+- Devise accessory food systems for fish or invertebrates as vegetation, [[root-crop-harvest-and-storage]], and invertebrates
 
 ## Landscape Integration
 
 ### Edge and Margin Management
 
-- Maximise edge and natural foods — pond margins are the most productive zones
+- Maximise edge and [[fukuoka-natural-foods-movement-america]] — pond margins are the most productive zones
 - Pay attention to aquatic and marginal crops as integral system components
 - Include downstream crops as part of the total system design
 - Consider total landscape balance when planning water features
@@ -83,7 +83,7 @@ Even within this flow, side cycles to worms, notonectids, or Daphnia give better
 
 ## Wetland Inclusion
 
-In any design, include some appropriate wetlands — small or large — even if only from waste water. Wetlands serve critical functions for water purification, habitat creation, and biodiversity support.
+In any design, include some appropriate wetlands — small or large — even if only from waste water. Wetlands serve critical functions for water purification, [[amphibian-habitat-creation]], and biodiversity support.
 
 ## Social Considerations
 
@@ -95,7 +95,7 @@ Key texts referenced in developing these aquacultural principles include:
 
 - Bardach, Ryther and McLarney, *Aquaculture: The Farming and Husbandry of Freshwater and Marine Organisms*
 - Huet, Marcel, *Textbook of Fish Culture* — excellent on breeding and rearing of fish and coldwater species
-- Swingle, H.S., *Biological Means of Increasing Productivity in Ponds* — key reference on yield strategies
+- Swingle, H.S., *Biological Means of Increasing Productivity in Ponds* — key reference on [[farm-yield-strategies]]
 - FAO *Catalogue of Cultivated Aquatic Organisms* (1974)
 - Pullin and Shehadeh, *Integrated Aquaculture and Aquaculture Farming Systems* (ICLARM, 1982)
 ## See Also

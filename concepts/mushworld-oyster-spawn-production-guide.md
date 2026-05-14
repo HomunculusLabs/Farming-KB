@@ -26,7 +26,7 @@ A comprehensive guide to producing [[comparison-grain-spawn-vs-grain-to-grain-tr
 - [[mushroom-cultivation-bulk-substrates]]
 ## Practical Applications
 
-MushWorld Oyster Spawn Production Guide has a range of practical applications that make it relevant to
+MushWorld Oyster [[spawn-production]] Guide has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

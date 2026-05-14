@@ -139,4 +139,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[2c-o-4-entity]]
 - [[4-ho-dbt-entity-tihkal]]
 - [[5-meo-eipt]]
-- [[pyrethrum-entity]]
+- [[pyrethrum]]

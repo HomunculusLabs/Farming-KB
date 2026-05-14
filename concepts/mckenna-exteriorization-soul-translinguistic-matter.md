@@ -1,5 +1,5 @@
 ---
-title: McKenna on the Exteriorization of the Soul and Translinguistic Matter
+title: Mckenna Exteriorization Soul Translinguistic Matter
 created: 2026-04-28
 tags:
   - tryptamine
@@ -40,7 +40,7 @@ The elves offer reassurance ("Don't be alarmed. Remember, and do what we are doi
 
 McKenna's vision of the final human future involved a fundamental transformation:
 
-> "My vision of the final human future is an effort to exteriorize the soul and internalize the body, so that the exterior soul will exist as a superconducting lens of translinguistic matter generated out of the body of each of us at a critical juncture at our psychedelic Bar Mitzvah. From that point on, we will be eternal somewhere in the solid-state matrix of the translinguistic lens we have become."
+> "My vision of the final human future is an effort to exteriorize the soul and internalize the body, so that the exterior soul will exist as a superconducting lens of translinguistic matter generated out of the body of each of us at a critical juncture at our [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]]. From that point on, we will be eternal somewhere in the solid-state matrix of the translinguistic lens we have become."
 
 Key elements include:
 
@@ -57,14 +57,14 @@ McKenna positioned these ideas within a broader evolutionary framework:
 
 - **Language as organism**: Language is "self-replicating information systems that reflect functions of DNA: learning, coding, templating, recording, testing, re-testing, re-coding against DNA functions."
 - **The noosphere**: Language and information expand into a noosphere, a sphere of thought surrounding the planet, continuously fed by human cognitive activity.
-- **Acceleration**: An accelerating tempo of innovation throughout human history (fire millions of years ago, language 35,000 years ago, measurement 5,000 years ago, Galileo 400 years ago, Watson-Crick in the twentieth century) suggesting convergence toward a culminating point.
-- **History as eschatological shockwave**: "Something is at the end of time and is casting an enormous shadow over human history, drawing all human becoming toward it."
+- **Acceleration**: An accelerating tempo of innovation throughout human history (fire millions of years ago, language 35,000 years ago, measurement 5,000 years ago, Galileo 400 years ago, Watson-Crick in the [[coleman-louis-savier-twentieth-century-maraicher]]) suggesting convergence toward a culminating point.
+- **[[mckenna-history-as-eschatological-shockwave]] shockwave**: "Something is at the end of time and is casting an enormous shadow over human history, drawing all human becoming toward it."
 
 ## The Mushroom as Extraterrestrial Symbiote
 
 A complementary thread was the hypothesis that [[stropharia-cubensis]] mushrooms might be of extraterrestrial origin:
 
-- **Spore resilience**: Mushroom spores are among the hardest organic substances known, with electron density approaching that of metal, deep purple to absorb deep ultraviolet radiation.
+- **Spore resilience**: Mushroom spores are among the hardest organic substances known, with [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaching that of metal, deep purple to absorb deep ultraviolet radiation.
 - **Atmospheric escape**: Spores are light enough for Brownian motion to carry them to the edge of Earth's atmosphere, where energetic particles could eject some into interstellar space.
 - **Galactic timescales**: Over hundreds of millions of years, spore dispersion could cross galactic distances at velocities as low as 0.01c.
 - **Fossil record absence**: No fungal fossils older than 40 million years are known, despite fossilized soft-bodied organisms from over a billion years ago.
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mckenna Exteriorization Soul Translinguistic Matter finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,7 +1,7 @@
 ---
 title: "Hallucinogens in Medical Psychotherapy"
 created: 2026-04-28
-tags: [psychotherapy, lsd, mescaline, psycholysis,
+tags: [psychotherapy, lsd, [[mescaline]], psycholysis,
   psychedelic-therapy, psychiatry, consciousness]
 date: 2026-04-28
 updated: 2026-04-28
@@ -18,7 +18,7 @@ The changes in consciousness and perception produced by hallucinogens
 have found a number of applications in medicine. The pure substances
 most commonly used in this field are [[schultes-ololiuqui-vines-serpent]]. The use of hallucinogens as an
 adjunct to psychoanalysis and psychotherapy represents a fascinating
-intersection of indigenous plant knowledge and modern clinical science.
+intersection of [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]] and modern clinical science.
 
 ## The Fundamental Mechanism
 

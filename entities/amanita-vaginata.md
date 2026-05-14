@@ -63,7 +63,7 @@ partial veil leaving a thin, fragile, evanescent annulus that frequently
 falls away.
 
 **Spores:** 8–12 × 6–9 μm, broadly ellipsoid to ellipsoid, smooth, thin-
-walled, hyaline, non-amyloid; spore print white.
+walled, hyaline, non-amyloid; [[spore-print]] white.
 
 **Odor and taste:** Mild, pleasant mushroomy odor; taste mild, sometimes
 slightly nutty.

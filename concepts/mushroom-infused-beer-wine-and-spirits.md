@@ -6,7 +6,7 @@ type: concept
 
 # Mushroom-Infused Beer, Wine, and Spirits
 
-Combining the health benefits of medicinal mushrooms with the world's most widely consumed alcoholic beverages creates a unique category of functional brews. Mushroom-infused beer, wine, and spirits offer an accessible and enjoyable delivery system for fungal extracts and bioactive compounds. This practice, which gained public attention at the 2012 Telluride Mushroom Festival where 240 gallons of medicinal mushroom beer sold out in under 48 hours, bridges the gap between mycology and craft brewing.
+Combining the health benefits of [[medicinal-mushrooms]] with the world's most widely consumed alcoholic beverages creates a unique category of functional brews. Mushroom-infused beer, wine, and spirits offer an accessible and enjoyable delivery system for fungal extracts and [[cordyceps-cancer-bioactive-compounds]]. This practice, which gained public attention at the 2012 Telluride Mushroom Festival where 240 gallons of medicinal mushroom beer sold out in under 48 hours, bridges the gap between mycology and craft brewing.
 
 ## Brewing Fundamentals
 
@@ -14,7 +14,7 @@ Before adding mushrooms to beverages, brewers should have several successful bat
 
 ### Cleanliness
 
-As with mushroom cultivation, cleanliness is critical in brewing. While brewing is more forgiving than sterile tissue culture, contamination can accumulate across batches and alter the dynamics of fermented beverages. Strive for complete cleanliness at every stage.
+As with [[mushroom-cultivation]], cleanliness is critical in brewing. While brewing is more forgiving than sterile tissue culture, contamination can accumulate across batches and alter the dynamics of [[comparison-mead-vs-kvass-fermented-beverages]]. Strive for complete cleanliness at every stage.
 
 ### Yeast Management
 
@@ -24,7 +24,7 @@ Beer fermentation begins with yeast. Key considerations for yeast cultures paral
 - **Liquid yeast** is more active and invades the brewed medium quickly (best for 1–3 day delivery)
 - **Dry yeast** is better for remote locations with longer shipping times
 - **Local microbrewers** may share fermentation discharge to perpetuate yeast strains at minimal cost
-- **Strain senescence** occurs when yeasts are expanded indefinitely on the same formula — just as with mushroom cultures, maintain masters and backups
+- **[[strain-senescence]]** occurs when yeasts are expanded indefinitely on the same formula — just as with mushroom cultures, maintain masters and backups
 - Alternate growing media to keep yeast strains strong and viable
 
 ### Sourcing Grains and Hops
@@ -33,7 +33,7 @@ Beer fermentation begins with yeast. Key considerations for yeast cultures paral
 
 **Organic hops** are expensive due to vulnerability to powdery mildew. Growing your own hops from rhizomes (ordered in early spring for March delivery) provides a sustainable supply. Key practices:
 
-- Release beneficial insects (ladybugs, predatory mites, aphid predators, assassin bugs) for pest control
+- Release [[beneficial-insects-and-biological-pest-control]] (ladybugs, predatory mites, aphid predators, assassin bugs) for pest control
 - Use organic fungicides like liquid copper as foliar sprays to suppress molds and mildews
 - Plant hops in multiple locations for redundancy
 - Perpetuate rhizomes from cuttings by digging in early March and cutting sections with branching near the surface
@@ -70,7 +70,7 @@ Mushrooms provide preliminary and lingering flavors when they hit the palate, mu
 
 ### Aroma
 
-Many mushrooms contain vibrantly aromatic essential oils that mix and bind with oily molecules in hops. Consider pungent and sweet species for brown ales and lagers, or savory and hearty species for darker brews like stouts. Birch polypore (*Piptoporus betulinus*) is notable for its aromatic essential oils. Pouring beer into a glass is the best way to appreciate aroma.
+Many mushrooms contain vibrantly aromatic essential oils that mix and bind with oily molecules in hops. Consider pungent and sweet species for brown ales and lagers, or savory and hearty species for darker brews like stouts. Birch polypore (*[[piptoporus-betulinus]]*) is notable for its aromatic essential oils. Pouring beer into a glass is the best way to appreciate aroma.
 
 ### Medicinal Properties
 
@@ -95,7 +95,7 @@ Each recipe produces 5 gallons of beer.
 ### Turkey Tail Ale — A golden pale ale
 
 - 6 pounds extra-light malted grain
-- 4 ounces fresh or 2 ounces dried turkey tail (*Trametes versicolor*)
+- 4 ounces fresh or 2 ounces dried turkey tail (*[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*)
 - 1 ounce hops
 - Ale yeast
 
@@ -123,7 +123,7 @@ Each recipe produces 5 gallons of beer.
 - 1 pound chocolate malted grain
 - 1 pound crystal malted grain
 - 5 pounds pale malted grain
-- 2 ounces liquid agarikon (*Laricifomes officinalis*) mushroom extract (from colonized grain)
+- 2 ounces liquid agarikon (*[[laricifomes-officinalis]]*) mushroom extract (from colonized grain)
 - 1 ounce hops
 - Trappist yeast
 

@@ -59,7 +59,7 @@ an object indicates its special properties. The root was likened to the
 form of a man or woman, hence its magic. According to superstition, if
 a mandrake were pulled from the earth, its unearthly shrieks could
 drive its collector mad. Many regions claimed strong aphrodisiac
-properties. Mandrake with tropane alkaloids was one of the most potent
+properties. Mandrake with [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] was one of the most potent
 ingredients in the witches' brews of Europe.
 
 ## Datura (Datura metel)

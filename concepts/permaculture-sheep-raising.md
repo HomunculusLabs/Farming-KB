@@ -42,7 +42,7 @@ strategies applicable to permaculture systems.
 ## Fencing Design and Rotation
 
 Proper fencing is essential for containing sheep and implementing
-effective rotational grazing within a permaculture design.
+effective rotational grazing within a [[permaculture-design]].
 Woven wire or high-tensile electric fencing with 4-6 strands works
 well; sheep are less likely than cattle to test electric fences
 once trained, but the bottom wire should be close enough to the

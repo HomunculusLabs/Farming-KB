@@ -1,5 +1,5 @@
 ---
-title: "Global Adoption of GROW BIOINTENSIVE Sustainable Mini-Farming"
+title: Jeavons Global Adoption Biointensive Mini Farming
 source: "How to Grow More Vegetables (Jeavons)"
 source_key: "jeavons-john-how-to-grow-more-vegetables.md"
 topics: [biointensive, sustainable-agriculture, global-adoption, mini-farming, community-agriculture, food-security]
@@ -45,7 +45,7 @@ In the Philippines, biointensive practices were integrated at a national level:
   biointensive educational program** for all grade school and high school
   students
 - This represents one of the most comprehensive national adoptions of
-  sustainable agriculture education in the world
+  [[phosphate-accumulators-sustainable-agriculture]] education in the world
 
 ## United States — Emerging Network
 
@@ -64,7 +64,7 @@ Ecology Action's educational workshops and grassroots enthusiasm.
   others in their communities
 - One participant's correspondence with Habitat for Humanity led to Gardens
   for Humanity, which incorporates biointensive practices
-- A Seattle group developed a rural Community Supported Agriculture (CSA)
+- A Seattle group developed a rural [[community-supported-agriculture-csa]] Agriculture (CSA)
   project using biointensive methods to sustainably grow food for urban
   populations
 
@@ -72,7 +72,7 @@ Ecology Action's educational workshops and grassroots enthusiasm.
 
 Despite widespread adoption, a critical challenge remains. Many people are
 successfully using biointensive techniques to grow food for **nutrition
-intervention** (vegetables during the growing season), but few are attempting
+intervention** (vegetables during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]), but few are attempting
 to grow all their **calorie food needs** on a basis that also feeds the soil
 adequately.
 
@@ -80,7 +80,7 @@ adequately.
 - When people say they are "growing all of their own food," they generally
   mean they are growing only **5% to 10% of their diet** — the vegetables
   available during the growing season
-- The remaining 90% of calorie needs (grains, legumes, root crops) requires
+- The remaining 90% of calorie needs (grains, legumes, [[permaculture-plants-root-crops-and-tubers]]) requires
   dedicated calorie-growing areas
 
 **The next step** is calorie and sustainable soil fertility mini-farming —
@@ -105,7 +105,7 @@ slowing-down process — a way of tuning in to the Earth's needs as we meet
 our own.
 
 Humans are part of the Earth's nutrient cycle, just as plants and animals
-are. The Earth creates what we need — trees absorb carbon dioxide and give
+are. The Earth creates what we need — trees absorb [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] and give
 us oxygen. As we become more aware of our place in this cycle, it becomes
 natural to plant at least 60% of our growing area in carbon-producing crops,
 which also produce calories.

@@ -13,7 +13,7 @@ tags: [anthropology, culture, history, gender, social-theory, civilization]
 
 The **partnership/dominator** framework is a model of human social
 organization developed by cultural historian **Riane Eisler** in her 1987
-book *The Chalice and the Blade* and adopted by Terence McKenna in *Food
+book *The Chalice and the Blade* and adopted by [[terence-mckenna]] in *Food
 of the Gods* as an organizing principle for understanding human
 history. The model proposes that two fundamentally different styles of
 social organization have competed throughout human history: **partnership

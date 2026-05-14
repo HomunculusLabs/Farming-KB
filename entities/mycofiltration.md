@@ -142,12 +142,6 @@ The synthesis of historical and contemporary knowledge enriches
 current understanding and implementation strategies.
 
 ## Integration Strategies
-
-Successful integration of mycofiltration into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
 ## See Also
 
 - [[mycofiltration-of-water-contaminants]]

@@ -1,5 +1,5 @@
 ---
-title: Bionutrients and [[korean-natural-farming-imo-collection-fermented-plant-extracts]]
+title: "Bionutrients Fermented Plant Extracts"
 source: bahay-kubo-indigenous-microorganisms_.md
 type: concept
 ---

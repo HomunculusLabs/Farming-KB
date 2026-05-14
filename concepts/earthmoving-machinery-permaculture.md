@@ -1,5 +1,5 @@
 ---
-title: [[earthmoving-machinery]] in Permaculture
+title: "Earthmoving Machinery Permaculture"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Diatomaceous Earth [[botanical-pesticides-and-natural-pest-control]] Management
+title: "Diatomaceous Earth And Natural Pest Management"
 tags:
   - pest-control
   - organic-gardening

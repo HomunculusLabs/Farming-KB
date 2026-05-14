@@ -1,5 +1,5 @@
 ---
-title: gourmet-medicinal-mushroom-casing-layer-techniques [[singh-mycoremediation-regulatory-frameworks]] for Cancer Products
+title: "Medicinal Mushroom Cancer Regulatory Frameworks"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

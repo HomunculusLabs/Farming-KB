@@ -1,5 +1,5 @@
 ---
-title: Shamanic Identification — Epilepsy, Lightning, and Ordeal Training
+title: [[mckenna-shamanic-identification-signs-and-training-methods]] — Epilepsy, Lightning, and Ordeal Training
 tags:
   - shamanism
   - epilepsy
@@ -18,7 +18,7 @@ source: "McKenna, T. — Tryptamine [[ethnobotanical-use-of-sacred-mushrooms-in-
 
 ## Epilepsy as Shamanic Marker
 
-In many indigenous cultures, epilepsy is recognized as a sign of shamanic potential rather than a disease. The seizure — with its loss of ordinary consciousness, convulsive movement, and altered awareness — is understood as a moment when the soul travels beyond the body or spirits enter the person. This contrasts sharply with the Western medical model, which pathologizes epilepsy as a neurological disorder to be suppressed. McKenna's broader point: the *same experience* that produces a shaman in one culture produces a psychiatric patient in another. The difference lies in the cultural framework that receives and interprets the experience.
+In many [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]], epilepsy is recognized as a sign of shamanic potential rather than a disease. The seizure — with its loss of ordinary consciousness, convulsive movement, and altered awareness — is understood as a moment when the soul travels beyond the body or spirits enter the person. This contrasts sharply with the Western medical model, which pathologizes epilepsy as a neurological disorder to be suppressed. McKenna's broader point: the *same experience* that produces a shaman in one culture produces a psychiatric patient in another. The difference lies in the cultural framework that receives and interprets the experience.
 
 ## Lightning Strike Survivors
 
@@ -46,11 +46,11 @@ Shamanic callings are not limited by gender, though gender dynamics vary signifi
 
 ## Implications for Modern Understanding
 
-McKenna's analysis raises questions that modern psychology has barely begun to address. If the same phenomena — seizures, psychotic episodes, near-death experiences, spiritual emergencies — can produce either breakdown or breakthrough depending on the cultural container, then the framework of interpretation is not neutral. It actively shapes the outcome. The growing field of spiritual emergency, pioneered by Stanislav Grof and Christina Grof, represents one attempt to develop a clinical framework that can distinguish between pathological crises and transformative ones. Indigenous traditions have had this capacity for millennia — not through clinical sophistication but through the simple recognition that some experiences, however terrifying, are not diseases but callings.
+McKenna's analysis raises questions that modern psychology has barely begun to address. If the same phenomena — seizures, psychotic episodes, near-death experiences, spiritual emergencies — can produce either breakdown or breakthrough depending on the cultural container, then the framework of interpretation is not neutral. It actively shapes the outcome. The growing field of spiritual emergency, pioneered by Stanislav Grof and Christina Grof, represents one attempt to develop a clinical framework that can distinguish between pathological crises and transformative ones. [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] have had this capacity for millennia — not through clinical sophistication but through the simple recognition that some experiences, however terrifying, are not diseases but callings.
 
 ## See Also
 
-- mckenna tryptamine hallucinogens consciousness
+- [[mckenna-tryptamine-hallucinogens-and-consciousness]] consciousness
 - shamanic initiation
 - boundary dissolution
 - psychiatric cross cultural comparison
@@ -59,7 +59,7 @@ McKenna's analysis raises questions that modern psychology has barely begun to a
 
 ## Sources
 
-- McKenna, Terence. *Tryptamine Hallucinogens and Consciousness*. Lectures, 1990s.
+- McKenna, Terence. *[[tryptamine-hallucinogens-and-consciousness]] Consciousness*. Lectures, 1990s.
 - Halifax, Joan. *Shamanic Voices*. Penguin, 1979.
 - Eliade, Mircea. *Shamanism: Archaic [[mckenna-shamanism-and-techniques-of-ecstasy]]*. Princeton UP, 1964.
 - Harner, Michael. *The Way of the Shaman*. Harper & Row, 1980.
@@ -78,7 +78,7 @@ McKenna's analysis raises questions that modern psychology has barely begun to a
 
 ## Overview
 
-Mckenna Shamanic Identification Epilepsy Lightning Ordeal Training represents an important element within sustainable
+[[mckenna-shamanic-identification-training-and-peripheral-social-role]] Epilepsy Lightning Ordeal Training represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1869 pages**
+**1868 pages**
 
 ## #
 
@@ -660,7 +660,6 @@
 - [[harner-american-indian-peyote-rituals]]
 - [[harner-ayahuasca-shamanism-amazon]]
 - [[harner-campa-ayahuasca-ceremony]]
-- [[harner-cashaahua-banisteriopsis]]
 - [[harner-cashinahua-banisteriopsis-usage]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[harner-datura-solanaceous-shamanism]]

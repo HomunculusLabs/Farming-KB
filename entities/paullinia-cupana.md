@@ -69,7 +69,7 @@ seed with a white hilum resembling an eye.
 | Compound | Concentration (% dry weight) | Activity |
 |----------|---------------------------|----------|
 | Caffeine | 2.5–7.0% | CNS stimulant, adenosine antagonist |
-| Theobromine | 0.02–0.07% | Mild stimulant, vasodilator |
+| [[theobromine]] | 0.02–0.07% | Mild stimulant, vasodilator |
 | Theophylline | Trace | Bronchodilator |
 | Theacrine | Trace | Novel purine alkaloid, anxiolytic |
 

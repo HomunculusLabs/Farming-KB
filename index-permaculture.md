@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1381 pages**
+**1376 pages**
 
 ## A
 
@@ -477,7 +477,6 @@
 - [[infiltration-earthworks-water-storage]]
 - [[infiltration-slope-stabilisation-and-floodwater-harvesting]]
 - [[inselbergs-and-fold-mountains-in-desert-permaculture]]
-- [[integrate-rather-than-segregate]]
 - [[integrated-land-management-and-polyculture-design]]
 - [[integrated-pest-management-in-tropical-polycultures]]
 - [[intertidal-aquaculture-and-marine-systems]]
@@ -1369,9 +1368,6 @@
 - [[urban-permaculture-trees-water-cycling]]
 - [[urban-rooftop-gardening-and-sheet-mulching]]
 - [[urban-water-catchment-cistern-thermal-mass]]
-- [[use-and-value-renewable-resources]]
-- [[use-edges-and-value-the-marginal]]
-- [[use-small-and-slow-solutions]]
 
 ## V
 
@@ -1454,5 +1450,4 @@
 - [[zone-and-sector-planning-permaculture-design]]
 - [[zone-one-garden-design-permaculture]]
 - [[zone-sector-analysis-guide]]
-- [[zone-system]]
 - [[zone-two-and-zone-three-design-permaculture]]

@@ -126,8 +126,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[fukuoka-livestock-energy-inefficiency-caloric-cost]]
-- [[fukuoka-natural-farming-energy-utilization-orchard-establishment]]
-- [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
-- [[mollison-designers-home-energy-conservation-and-solar-heating]]
-- [[passive-solar-greenhouse-design-and-energy-systems]]
+- [[energy-descent-holmgren]]
+- [[energy-descent-permaculture-adaptation]]
+- [[energy-descent-permaculture-response]]

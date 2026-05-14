@@ -1,5 +1,5 @@
 ---
-title: Nopal nopal cactus cultivation and uses and Uses
+title: Nopal Cactus Cultivation And Uses
 tags:
   - cactus
   - opuntia
@@ -22,7 +22,7 @@ sources:
 
 ## Overview and Taxonomy
 
-Nopal (from the Nahuatl *nopalli*) refers to the cladodes (pads) of plants in the genus **Opuntia**, the largest genus in the family Cactaceae with over 200 species. The most widely cultivated species for food is **Opuntia ficus-indica** ([[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and into South America. Mexico remains the center of genetic diversity and [[drought-tolerant-planting-design]] once established, using **Crassulacean Acid Metabolism (CAM)** photosynthesis, which opens stomata at night to minimize water loss. Typical water use efficiency is 3–5× that of C3 crops like wheat or corn.
+Nopal (from the Nahuatl *nopalli*) refers to the cladodes (pads) of plants in the genus **Opuntia**, the largest genus in the family Cactaceae with over 200 species. The most widely cultivated species for food is **Opuntia ficus-indica** ([[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and into [[guzman-psilocybin-mushrooms-south-america]]. Mexico remains the center of [[biodiversity-fungal-genetic-diversity]] and [[drought-tolerant-planting-design]] once established, using **Crassulacean Acid Metabolism (CAM)** photosynthesis, which opens stomata at night to minimize water loss. Typical water use efficiency is 3–5× that of C3 crops like wheat or corn.
 
 ## Soil Requirements
 
@@ -84,12 +84,12 @@ Established nopal requires minimal irrigation. However, commercial [[savory-grow
 Nopal is adapted to nutrient-poor soils and requires minimal fertilization:
 
 - **Organic**: Well-composted manure at 5–10 t/ha applied annually to the base.
-- **Nitrogen**: 40–80 kg N/ha for vegetable production (excess produces soft pads). Apply in split doses.
+- **Nitrogen**: 40–80 kg N/ha for [[coleman-french-historical-winter-vegetable-production]] (excess produces soft pads). Apply in split doses.
 - **Phosphorus**: 20–40 kg P₂O₅/ha at planting.
 - **Potassium**: 40–60 kg K₂O/ha, particularly important for fruit production.
-- **Micronutrients**: Zinc and boron may be limiting in alkaline soils.
+- **Micronutrients**: Zinc and boron may be limiting in [[plants-tolerant-of-alkaline-soils]].
 
-Avoid high-nitrogen synthetic fertilizers — they promote soft, susceptible growth and can lead to cochineal infestation.
+Avoid high-nitrogen [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] — they promote soft, susceptible growth and can lead to cochineal infestation.
 
 ### Pruning and Harvesting
 

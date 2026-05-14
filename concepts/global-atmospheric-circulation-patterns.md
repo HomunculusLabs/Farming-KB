@@ -6,7 +6,7 @@ type: concept
 
 # Global Atmospheric Circulation Patterns
 
-The engines of the atmosphere drive all weather and climate patterns on Earth. Understanding these large-scale circulation systems is essential for permaculture designers working to harmonize their designs with natural energy flows.
+The engines of the atmosphere drive all weather and climate patterns on Earth. Understanding these large-scale circulation systems is essential for [[bill-mollison]] working to harmonize their designs with natural energy flows.
 
 ## The Polar Engine: Cold Air Outflow
 
@@ -24,7 +24,7 @@ Long spokes of this cold air curve outward from the poles toward **Latitude 30°
 ### Ferrel (Mid-Latitude) Cell (~60° to ~30° latitude)
 - Driven indirectly by the polar and Hadley cells
 - The cold polar air drives a series of **contra-rotating low-pressure cells**
-- These turn clockwise in the Southern Hemisphere and counter-clockwise in the Northern Hemisphere
+- These turn clockwise in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and counter-clockwise in the Northern Hemisphere
 - This is the zone of prevailing **westerly winds** and most weather variability
 
 ### Hadley Cell (~30° to ~0° latitude)
@@ -43,7 +43,7 @@ The global circulation system functions as a set of interlocking, contra-rotatin
 3. **Polar cold outflow** drives the polar easterlies and meshes with mid-latitude systems
 4. **Rising air at ~60° latitude** creates the sub-polar low-pressure zone where polar and mid-latitude air masses collide
 
-The high-pressure mid-latitude cells that have risen at the equator and descend at 15–40° are the dominant features of subtropical climates. Their rotation direction is opposite to that of the low-pressure cells at higher latitudes, creating the characteristic weather patterns of each zone.
+The high-pressure mid-latitude cells that have risen at the equator and descend at 15–40° are the dominant features of [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Their rotation direction is opposite to that of the low-pressure cells at higher latitudes, creating the characteristic weather patterns of each zone.
 
 ## Implications for Permaculture Design
 
@@ -68,18 +68,18 @@ The high-pressure mid-latitude cells that have risen at the equator and descend 
 The circulation patterns determine:
 - **Sector analysis** for wind, sun, and fire exposure
 - **Water harvesting** strategies based on prevailing rainfall patterns
-- **Species selection** matched to the temperature and moisture regimes of each latitude
+- **Species selection** matched to the [[mushroom-growing-temperature-and-moisture]] regimes of each latitude
 - **Building design** oriented to prevailing winds for cooling or protection
 
 ## Chaos and Unpredictability
 
 Despite the elegant regularity of the three-cell model, the atmosphere is a **chaotic system** in the mathematical sense. Small perturbations can amplify into major weather events. The roughly hexagonal cellular array of vortices — with ascending warm air feeding descending cool air — creates inherent unpredictability beyond approximately 10 days.
 
-This chaos reinforces the permaculture principle of designing for **resilience through diversity**: rather than relying on weather prediction, create systems that function across a wide range of conditions through species diversity, multiple strategies, and redundant production pathways.
+This chaos reinforces the [[permaculture-principle-apply-self-regulation]] of designing for **resilience through diversity**: rather than relying on weather prediction, create systems that function across a wide range of conditions through species diversity, multiple strategies, and redundant production pathways.
 
 ## Design Implications
 Understanding global atmospheric circulation patterns is essential for effective site
-planning in permaculture and sustainable agriculture. Climate factors determine
+planning in permaculture and [[phosphate-accumulators-sustainable-agriculture]]. Climate factors determine
 plant selection, water management strategies, and the placement of structures
 and growing areas within a designed landscape.
 

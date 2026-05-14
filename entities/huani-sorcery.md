@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Huani (also spelled *huani*) is a form of sorcery in Amazonian vegetalismo that uses a steel bow with a crystal arrow as its weapon. The practitioner keeps the huani under their left armpit and carries a living piranha inside their [[shamanism]]
+Huani (also spelled *huani*) is a form of sorcery in Amazonian vegetalismo that uses a steel bow with a crystal arrow as its weapon. The practitioner keeps the huani under their left armpit and carries a living piranha inside their shamanism
 - **Category**: Sorcery technique, magical weapon system
 - **Weapon**: Steel bow with crystal arrow
 - **Lethality**: Incurable by normal shamanic means

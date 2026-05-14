@@ -70,6 +70,12 @@ for sustainable agriculture and ecological management.
 Practitioners can apply these principles to improve
 system resilience and productivity.
 
+## Mechanism of Action
+
+- Biochemical pathways affected in plant or soil systems
+- Absorption and translocation patterns
+- Duration of effect and degradation timeline
+
 ## See Also
 
 - [[frost-protection-strategies]]

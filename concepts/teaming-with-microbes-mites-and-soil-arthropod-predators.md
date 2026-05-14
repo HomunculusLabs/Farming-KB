@@ -20,7 +20,7 @@ the dominant [[teaming-with-microbes-springtails-and-collembola]] (springtails)
 
 ### Centipedes (Class Chilopoda)
 
-Centipedes are active predators in the soil food web. They possess
+Centipedes are active predators in [[soil-food-web]]. They possess
 venomous fangs and hunt other arthropods. Their predatory activity
 helps regulate populations of insects, springtails, and other small
 soil organisms.

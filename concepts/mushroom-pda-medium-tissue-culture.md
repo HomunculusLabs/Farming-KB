@@ -1,5 +1,5 @@
 ---
-title: "Mushroom PDA Medium [[pda-and-tissue-culture]]"
+title: "Mushroom Pda Medium Tissue Culture"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

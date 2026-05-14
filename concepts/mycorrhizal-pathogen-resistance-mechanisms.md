@@ -44,7 +44,7 @@ Much study on [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]
 
 ### Crop-Specific Evidence
 
-Studies confirm that several important crop species are less susceptible to nematodes when arbuscular mycorrhizal fungi are present and mycorrhizae form in the soil. Documented crop species include:
+Studies confirm that several important crop species are less susceptible to nematodes when [[arbuscular-mycorrhizal-fungi]] are present and mycorrhizae form in the soil. Documented crop species include:
 
 - Soybeans
 - Tomatoes

@@ -2,7 +2,7 @@
 
 ## Overview
 
-In his 1983 Esalen lecture, Terence McKenna delivered a pointed critique of the Search for Extraterrestrial Intelligence (SETI), arguing that the program's methodology — listening for radio signals from distant civilizations — was profoundly limited by the cultural assumptions of its practitioners.
+In his 1983 Esalen lecture, [[terence-mckenna]] delivered a pointed critique of the Search for Extraterrestrial Intelligence (SETI), arguing that the program's methodology — listening for radio signals from distant civilizations — was profoundly limited by the cultural assumptions of its practitioners.
 
 McKenna's most memorable formulation was characteristically provocative: "To search expectantly for a radio signal from an extraterrestrial source is probably as culture bound a presumption as to search the galaxy for a good Italian restaurant."
 

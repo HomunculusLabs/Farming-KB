@@ -11,8 +11,8 @@ tags: [mushroom, disease, green-mold, trichoderma, hypocrea, contamination, oyst
 
 Green mold disease is one of the most significant and widespread problems in [[contamination-prevention-in-mushroom-cultivation]] because mushrooms are marketed as natural, healthy foods, leaving growers with few direct treatment options
 - **Continuous cultivation** — growing houses involved in continuous cropping cycles accumulate pathogen loads over time as spores build up in the environment
-- **Environmental control gaps** — many growing houses, especially in [[trichoderma-harzianum]]** — significant pathogen; different biotypes affect different regions (T. harzianum biotype 2 is major in Europe, while T. harzianum biotype 4 predominates on button mushrooms in the USA)
-- **Trichoderma koningii** — less aggressive but frequently encountered
+- **[[chen-maitake-growth-parameters-environmental-control]] gaps** — many growing houses, especially in [[trichoderma-harzianum]]** — significant pathogen; different biotypes affect different regions (T. harzianum biotype 2 is major in Europe, while T. harzianum biotype 4 predominates on button mushrooms in the USA)
+- **[[trichoderma-koningii]]** — less aggressive but frequently encountered
 
 These species reproduce primarily through asexual spores (green conidiospores) that are easily dispersed by air currents, water splash, and physical contact.
 
@@ -75,7 +75,7 @@ When green mold is detected:
 ## Overview
 
 Oyster Mushroom Green Mold Disease Trichoderma Hypocrea Control represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Oyster Mushroom Green Mold Disease Trichoderma Hypocrea Control finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,7 +104,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 oyster mushroom green mold disease trichoderma hypocrea control and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

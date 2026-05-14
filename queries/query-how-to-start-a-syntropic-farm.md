@@ -66,7 +66,7 @@ Total startup cost: roughly $1,000–4,000 per hectare for the planting itself. 
 
 ## How do I make money while waiting for trees to mature?
 
-This is a central design feature of syntropic agriculture, not an afterthought. Income streams by phase:
+This is a central design feature of [[syntropic-agriculture]], not an afterthought. Income streams by phase:
 
 - **Year 1–2**: Annual vegetables, herbs, and short-cycle crops in the understory. Bananas and papayas produce within 12–18 months in the tropics.
 - **Year 2–5**: Short-cycle fruits (citrus, passion fruit, berries), firewood from pioneer pruning, [[regenerative-agriculture]] tive agriculture networks.

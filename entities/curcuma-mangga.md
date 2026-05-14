@@ -57,7 +57,7 @@ The species occurs in lowland and hill dipterocarp forests at elevations up to
 800 meters. It prefers well-drained sandy loam soils in partial shade, often
 growing as an understory herb beneath taller canopy trees.
 
-In Java, it is commonly found in teak forest margins and secondary growth areas.
+In Java, it is commonly found in [[teak]] forest margins and secondary growth areas.
 Wild populations are threatened by habitat conversion for agriculture and
 plantation development, though the species persists in home gardens throughout
 its range.

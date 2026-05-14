@@ -19,13 +19,13 @@ sources:
 
 ## Overview
 
-**Sphagnum magellanicum**, commonly known as Magellanic bog moss or short-leaved bog moss, is a widespread and ecologically important peat moss species.
+**Sphagnum magellanicum**, commonly known as Magellanic bog moss or short-leaved bog moss, is a widespread and ecologically important [[query-what-is-the-difference-between-coco-coir-and-peat-moss]] species.
 
 It is one of the dominant *Sphagnum* species in boreal and subarctic peatlands, forming extensive carpets and hummocks across the circumboreal region.
 
 The species is named for its original collection locality near the Strait of Magellan, though it is far more abundant in northern latitudes.
 
-*S. magellanicum* is a major contributor to peat formation and plays a central role in global carbon cycling through peatland ecosystems.
+*S. magellanicum* is a major contributor to peat formation and plays a central role in [[dighton-fungi-elevated-co2-global-carbon-cycling]] cycling through peatland ecosystems.
 
 ## Taxonomy and Morphology
 
@@ -55,7 +55,7 @@ Spores are 20–30 μm in diameter, finely papillose, and yellowish-brown.
 
 *S. magellanicum* has a broad circumboreal distribution across [[dmt-containing-plants-united-states-halpern]], the British Isles, Scandinavia, and Russia.
 
-Southern disjunct populations exist in the Andes of South America, New Zealand, and southeastern Australia.
+Southern disjunct populations exist in the Andes of [[guzman-psilocybin-mushrooms-south-america]], New Zealand, and southeastern Australia.
 
 The species is a dominant component of ombrotrophic (rain-fed) bogs and minerotrophic (groundwater-fed) fens.
 
@@ -77,7 +77,7 @@ Like all *Sphagnum* species, it acidifies its surroundings through [[holmgren-so
 
 Northern peatlands dominated by this and related *Sphagnum* species store an estimated 30% of global soil carbon.
 
-The species hosts diverse microbial communities, including methanotrophic bacteria that modulate methane emissions from peatlands.
+The species hosts diverse [[cannabis-rhizosphere-microbial-communities]], including methanotrophic bacteria that modulate methane emissions from peatlands.
 
 It provides substrate and microhabitat for a range of peatland invertebrates, including specialized mites, springtails, and insect larvae.
 

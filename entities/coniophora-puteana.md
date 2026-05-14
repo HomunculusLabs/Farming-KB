@@ -23,7 +23,7 @@ sources:
 
 - **Natural Habitat:** In nature, *C. puteana* is found on dead wood of both coniferous and broadleaved trees, particularly in damp conditions. It is common on stumps, fallen logs, and buried wood in forest soils
 - **Built Environment:** The primary economic significance of *C. puteana* lies in its ability to decay timber in buildings, particularly in cellars, basements, ground floors, and other areas with persistent moisture problems
-- **Geographic Distribution:** Cosmopolitan, found throughout temperate regions worldwide. It is particularly common in Europe, North America, and parts of Asia
+- **[[geographic-distribution-of-psilocybe-species]]:** Cosmopolitan, found throughout [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is particularly common in Europe, North America, and parts of Asia
 - **Substrates:** Primarily attacks softwood timber (conifers) such as pine, spruce, and fir, but can also decay certain hardwoods
 
 ## Economic Significance
@@ -31,7 +31,7 @@ sources:
 *Coniophora puteana* is one of the most common causes of timber decay in buildings:
 
 - **Building Timber Decay:** Causes significant damage to structural timbers, floorboards, skirting boards, door frames, and window frames in damp buildings
-- **Misidentification:** Frequently confused with true dry rot (*Serpula lacrymans*), leading to unnecessary and expensive remediation work. Correct identification is critical for appropriate treatment
+- **Misidentification:** Frequently confused with true dry rot (*[[fungal-serpula-lacrymans-dry-rot-buildings]]*), leading to unnecessary and expensive remediation work. Correct identification is critical for appropriate treatment
 - **Insurance Claims:** Wet rot caused by *C. puteana* and related species is a frequent basis for building insurance claims related to water damage
 - **Timber Treatment:** Used as a standard test organism for evaluating the effectiveness of wood preservatives. European Standard EN 113 specifies *C. puteana* as a reference organism for testing wood preservatives against basidiomycete decay
 
@@ -70,7 +70,7 @@ Standardized protocols for working with *C. puteana* include:
 - **Culturing:** Grows well on [[malt-extract-agar]] (MEA, 2 to 4% malt extract) at 22 to 25°C. Optimal growth occurs at 25°C with 70 to 80% relative humidity. Colonies reach 50 to 70 mm diameter in 7 days
 - **Wood Block Testing (EN 113):** The European standard prescriptively details inoculation of 50 x 25 x 15 mm sapwood blocks of Scots pine (*Pinus sylvestris*) with *C. puteana* on a feeder block in a culture jar. Mass loss after 12 weeks is the primary endpoint, with >20% mass loss indicating poor preservative efficacy
 - **Moisture Content Determination:** Wood moisture content is calculated gravimetrically after oven-drying at 103 ± 2°C to constant weight, following EN 13183-1
-- **Molecular Identification:** ITS rDNA sequencing provides reliable species-level identification. Species-specific PCR primers have been developed for rapid detection from wood samples without the need for culturing
+- **[[biodiversity-fungal-molecular-identification-dna-barcoding]]:** ITS rDNA sequencing provides reliable species-level identification. Species-specific PCR primers have been developed for rapid detection from wood samples without the need for culturing
 
 ## Overview
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Coniophora Puteana finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 coniophora puteana and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

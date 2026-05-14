@@ -25,14 +25,14 @@ This single intervention addresses 40% of domestic water misuse while encouragin
 
 ### Dry Toilets
 
-Dry (composting) toilets are situationally appropriate but not universally recommended in permaculture design. They are specifically useful where:
+Dry (composting) toilets are situationally appropriate but not universally recommended in [[bee-forage-systems-permaculture-design]]. They are specifically useful where:
 
 - No methane (biogas) digestion system is in place
 - Sewage is not used in plant production systems
 - Soils do not suit septic tank installation
 - Cities face critical water supply problems
 
-Dry toilets are considered unnecessary on farms, in well-drained soils, or wherever sewage is productively used to generate methane through anaerobic digestion. In permaculture thinking, dry toilets actually **reduce the potential uses** of sewage — just as compost is a reduction in the potential use of mulch. The preference is always to keep waste streams productive.
+Dry toilets are considered unnecessary on farms, in well-drained soils, or wherever sewage is productively used to generate methane through [[anaerobic-digestion-biogas-production]]. In permaculture thinking, dry toilets actually **reduce the potential uses** of sewage — just as compost is a reduction in the potential use of mulch. The preference is always to keep waste streams productive.
 
 ## Greywater Composition and Risks
 
@@ -44,7 +44,7 @@ Understanding what enters greywater is essential for safe routing. A typical pow
 - **Additives**: Resins (hardeners), scents, dyes, optical brighteners
 - **Biological contaminants**: Faecal bacteria, viral and worm pathogens from showering and clothes washing
 
-(Data source: Kevin Handreck, CSIRO Division of Soils, personal communication 1979)
+(Data source: [[kevin-handreck]], CSIRO Division of Soils, personal communication 1979)
 
 ## Soil and Plant Interactions
 
@@ -68,7 +68,7 @@ Whenever possible, plain (unperfumed, unadditived) soaps should be used on food 
 
 ### Tree Systems for Complex Pollutants
 
-More complex pollutants (biocides, brighteners, resins) should be routed to woody perennial tree systems rather than vegetable gardens because:
+More complex pollutants (biocides, brighteners, resins) should be routed to woody perennial tree systems rather than [[maintaining-organic-matter-in-vegetable-gardens]] because:
 - Woody perennials can cope better with pollutant loads
 - Longer timeframes allow decomposition of long-term pollutants
 - Trees are not directly consumed by humans
@@ -81,7 +81,7 @@ In critical areas — especially arid or ecologically delicate environments — 
 1. **Special soaps**: Made from unpolluted oils with potash or sodium bases only
 2. **Phytoremediation crops**: Water plants (aquatic species) that remove excess salts and contaminants before greywater reaches soils and streams
 
-There is no blanket policy for greywater management — only site-specific strategies where yield can be gained and water simultaneously cleaned, provided the composition of both soils and soaps is understood.
+There is no blanket policy for [[greywater-management-and-dry-toilets]] — only site-specific strategies where yield can be gained and water simultaneously cleaned, provided the composition of both soils and soaps is understood.
 
 ## Key Principles
 

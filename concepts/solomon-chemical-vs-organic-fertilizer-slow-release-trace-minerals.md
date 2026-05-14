@@ -30,7 +30,7 @@ This rapid availability creates several problems:
    and weather stress. Solomon likens this to feeding a child nothing but candy —
    the growth is fast but structurally unsound.
 
-3. **Soil biology starvation**: Chemical fertilizers bypass [[the-soil-food-web]].
+3. **Soil biology starvation**: Chemical fertilizers bypass [[soil-food-web]].
    Microorganisms that would normally decompose organic matter and release
    nutrients gradually receive no substrate. Over time, chemical-only fertilization
    depletes soil organic matter and the biological community it supports.

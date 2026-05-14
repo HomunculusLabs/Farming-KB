@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-village-development]] Governance and Public Financing
+title: "Permaculture Village Governance And Public Financing"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

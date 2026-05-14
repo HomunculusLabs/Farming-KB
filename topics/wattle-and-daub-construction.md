@@ -51,7 +51,7 @@ The wattle is the structural lattice that holds the daub in place. It must be fl
 
 | Material | Characteristics | Best Use |
 |----------|----------------|----------|
-| **Hazel*corylus avellana lana*) | Traditional European choice; excellent flexibility; splits easily | UK/European construction |
+| **Hazel*[[corylus-avellana]] lana*) | Traditional European choice; excellent flexibility; splits easily | UK/European construction |
 | **Willow** (*Salix* spp.) | Very flexible; fast-growing; easy to propagate from cuttings | General-purpose; wetland areas |
 | **Oak splits** | Durable; rigid once seasoned | Heavy-duty panels; structural loads |
 | **Bamboo** | Extremely strong-to-weight ratio; widely available in tropics | Tropical/subtropical construction |

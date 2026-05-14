@@ -22,7 +22,7 @@ sources:
 
 **Lecanora muralis** (Schreb.) Rabenh. is a crustose to squamulose lichen
 in the family Lecanoraceae, commonly known as the **common wall lichen**.
-It is one of the most ubiquitous lichens in human-made environments,
+It is one of the most ubiquitous [[lichens]] in human-made environments,
 colonizing stone, concrete, and mortar surfaces in urban areas worldwide.
 
 The species is characterized by its circular, radiating squamules with

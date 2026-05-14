@@ -46,7 +46,7 @@ As afterthoughts, many "ponds in ponds" are made to hold wild fish trying to ent
 
 ## Ponds as Part of the Landscape Mosaic
 
-When creating ponds in barren or agricultural landscapes, permaculture design demands planning for a beneficial mosaic of **forest, pond, marsh, and prairie or rangeland**. Each component plays essential roles that support the others.
+When creating ponds in barren or agricultural landscapes, [[permaculture-design]] demands planning for a beneficial mosaic of **forest, pond, marsh, and prairie or rangeland**. Each component plays essential roles that support the others.
 
 ### The Role of Forest
 

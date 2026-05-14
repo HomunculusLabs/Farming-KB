@@ -83,7 +83,7 @@ Regional differences necessitate site-specific approaches.
 
 ## Practical Applications
 Cool Climate Home Garden And Seed Saving has several practical applications in sustainable systems.
-Integration with permaculture design principles enhances its utility.
+Integration with [[permaculture-design-principles]] enhances its utility.
 Consideration of local climate and soil conditions is essential.
 Multiple functions can be served within a single system design.
 

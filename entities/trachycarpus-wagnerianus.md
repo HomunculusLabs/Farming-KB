@@ -25,7 +25,7 @@ hardy solitary fan palm closely related to [[coleman-hardy-winter-vegetables-col
 
 The species typically reaches 5 to 7 meters in height with a slender trunk
 covered in dense brown fibrous matting. It is significantly smaller than
-Trachycarpus fortunei, making it ideal for small gardens and courtyard
+[[trachycarpus-fortunei]], making it ideal for small gardens and courtyard
 plantings.
 
 Despite long cultivation in Japan, its taxonomic status has been debated for

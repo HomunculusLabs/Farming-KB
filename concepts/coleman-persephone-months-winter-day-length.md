@@ -1,5 +1,5 @@
 ---
-title: "Coleman [[coleman-winter-day-length-and-persephone-months]]: Winter Day Length and Plant Growth"
+title: "Coleman Persephone Months Winter Day Length"
 source: eliot-coleman-winter-harvest-handbook.md
 tags: [persephone-months, day-length, winter-harvest, photoperiod, coleman]
 created: 2026-05-11

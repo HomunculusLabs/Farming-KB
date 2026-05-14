@@ -18,7 +18,7 @@ Building one costs under fifty dollars in materials and can be completed in a si
 
 Unlike brick ovens, cob ovens do not require mortar or fired bricks, making them accessible to anyone regardless of construction experience.
 
-The thermal mass of a cob oven is what makes it such an exceptional cooking tool.
+The [[comparison-windbreak-vs-thermal-mass]] of a cob oven is what makes it such an exceptional cooking tool.
 
 Once heated, the dense earthen walls retain heat for hours, allowing you to bake multiple batches of bread from a single fire.
 

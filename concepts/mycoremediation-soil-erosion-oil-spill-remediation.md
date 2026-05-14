@@ -3,7 +3,7 @@ title: Mycoremediation of Soil Erosion and Oil Spills
 created: 2026-05-13
 source: cotter-organic-mushroom-farming-mycoremediation.md
 tags: [mycoremediation, soil-erosion, oil-spill, bioremediation, fungi, hydrocarbon-degradation, water-filtration, environmental-science]
-aliases: [Fungal Soil Erosion Control, Mushroom Oil Spill Cleanup, Biological Erosion Prevention]
+aliases: [Fungal [[mollison-soil-erosion-control]], Mushroom Oil Spill Cleanup, Biological [[dighton-fungal-roles-soil-erosion-prevention]]
 ---
 
 # Mycoremediation of Soil Erosion and Oil Spills
@@ -19,7 +19,7 @@ substrate colonization.
 Soil erosion is a major environmental concern affecting agricultural productivity,
 water quality, and ecosystem stability. Conventional erosion control methods include
 geotextile fabrics, straw mulching, and chemical stabilizers, but [[mycoremediation]]
-offers a biological alternative that can simultaneously improve soil structure and
+offers a biological alternative that can simultaneously [[query-how-do-fungi-improve-soil-structure]] and
 filter contaminants.
 
 ### Constructing Erosion Control Units
@@ -48,7 +48,7 @@ procedure involves:
 
 ### Retention Time and Contact Time
 
-Water filtration in mycoremediation experiments is based on retention and contact
+Water filtration in [[mycoremediation-experiments-education]] is based on retention and contact
 time — the duration that water interacts with the mycelium in the treatment zone.
 Rate of flow directly indicates contact time, making it a critical measurement for
 evaluating remediation effectiveness.
@@ -75,11 +75,11 @@ performance.
 
 ### How Fungi Degrade Hydrocarbons
 
-Fungi remediate oil spills using their extracellular enzymes to break apart and
+Fungi remediate oil spills using their [[fungal-extracellular-enzymes]] to break apart and
 cleave hydrocarbon molecules into smaller, more biodegradable units. This degradation
 occurs in a sequence where fungi and bacteria work cooperatively. The mechanism works
-because hydrocarbons are chemically similar in architecture to [[lignin]] — the woody
-component of wood that fungi naturally decompose. This structural similarity allows
+because hydrocarbons are chemically similar in architecture to [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] — the woody
+component of wood that fungi naturally decompose. This [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]] allows
 fungi to adapt and begin decomposing oils relatively quickly, typically within a few
 weeks.
 
@@ -148,56 +148,3 @@ treated water. For low-tech alternatives:
 - **Dilution bean test**: Seeds are germinated in treated water at various dilutions
   to assess phytotoxicity
 - **Worm assay**: Organisms are exposed to treated water to assess biological toxicity
-
-### Safety Protocols
-
-When working with chemicals in mycoremediation experiments:
-
-- Always wear gloves and safety glasses
-- Use appropriate ventilation
-- Follow institutional chemical safety guidelines
-- Vegetable oil substitutes for motor oil in classroom settings to avoid hazardous
-  waste permitting requirements
-
-## Data Analysis and Reporting
-
-### Graphing Results
-
-Results from all experimental modules can be graphed and analyzed to determine:
-- Best treatments for erosion prevention
-- Variables contributing most to remediation success
-- Optimal retention times for different contaminant types
-- Cost-effectiveness of biological versus conventional methods
-
-### Key Variables to Track
-
-- Flow rate and retention time
-- Silt/soil dry weight in runoff
-- Contaminant concentration before and after treatment
-- Mycelial growth rate and health
-- Biological recovery indicators (worm survival, seed germination)
-
-## Real-World Applications
-
-### Engineering Mycoremediation Prototypes
-
-At the college level, interdepartmental collaborations between engineering and
-microbiology students can design and test full-scale mycoremediation systems,
-progressing from data collection through prototype testing to construction and
-implementation of filtration systems for contaminated sites.
-
-### Screening Native Fungi
-
-Researchers can collect fungi at known contaminated sites, clone them to reproduce
-strains already acclimated to local conditions, and compare their remediation
-effectiveness against lab-trained samples. These native strains can be further
-improved through selective screening for favorable mutations that enhance
-remediation potential.
-
-## See Also
-
-- [[mycoremediation]] — overview of fungal environmental remediation
-- [[fungal-education-curriculum-mushroom-science]] — classroom applications
-- [[lignin-degradation]] — fungal enzymatic breakdown of woody materials
-- [[extracellular-enzymes]] — enzymes secreted by fungi for substrate digestion
-- [[oyster-mushroom]] — primary species used in hydrocarbon remediation

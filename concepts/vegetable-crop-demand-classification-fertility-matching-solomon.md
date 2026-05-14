@@ -134,9 +134,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
 
-- [[vegetable-growing-guide-solomon]]
-- [[vegetable-harvest-and-storage-guide]]
-- [[vegetable-nutrient-demand-categories-solomon]]
-- [[vegetable-seed-spacing-systems]]
+- [[vegetable-demand-classification]]
+- [[vegetable-domestication-and-gardening-basics]]
+- [[vegetable-gardening-in-hard-times]]
+- [[vegetable-sowing-and-thinning-techniques]]

@@ -16,11 +16,11 @@ Soil erosion is a major environmental challenge, and fungal mycelium can dramati
 
 ### Building Biological Erosion Units
 
-Construct shallow tray-based erosion units (roughly 30 × 60 cm) filled with a standardized soil mix. Each tray receives a different ground-cover treatment and is planted with a common fast-growing species such as ryegrass or clover. Fungal inoculum — fully colonized mushroom substrate — is mixed into the soil of the fungal treatment trays at a known ratio (e.g., 10% by volume).
+Construct shallow tray-based erosion units (roughly 30 × 60 cm) filled with a standardized soil mix. Each tray receives a different ground-cover treatment and is planted with a common fast-growing species such as ryegrass or clover. Fungal inoculum — fully colonized [[fao-spent-mushroom-substrate-composting-recycling]] — is mixed into the soil of the fungal treatment trays at a known ratio (e.g., 10% by volume).
 
 ### Simulating Runoff with "Water Runs"
 
-Set up angled troughs or PVC channels beneath the trays to capture runoff. The troughs direct water into collection containers positioned at the lower end. Each run delivers a measured volume of water (simulating rainfall) at a consistent flow rate. Students record the time it takes water to exit the tray, giving them **retention time** (how long water is held in the soil matrix) and **contact time** (how long water interacts with mycelial networks).
+Set up angled troughs or PVC channels beneath the trays to capture runoff. The troughs direct water into collection containers positioned at the lower end. Each run delivers a measured volume of water (simulating rainfall) at a consistent flow rate. Students record the time it takes water to exit the tray, giving them **retention time** (how long water is held in the soil matrix) and **contact time** (how long water interacts with [[mycelial-networks]]).
 
 ### Treatment Comparison
 
@@ -74,11 +74,11 @@ Oil spill remediation is one of the most visually compelling mycoremediation dem
 
 ### Biochemical Basis
 
-Fungi produce **extracellular enzymes** that break down complex organic molecules outside their cells. Many petroleum hydrocarbons are chemically similar to **lignin** — the tough, woody component of plant cell walls that white-rot fungi evolved to decompose. Because of this similarity, lignin-degrading fungi such as *Pleurotus ostreatus* (oyster mushroom) can also break down hydrocarbon chains, converting them into less harmful compounds and ultimately into fungal biomass.
+Fungi produce **[[fungal-extracellular-enzymes]]** that break down complex organic molecules outside their cells. Many [[mycoremediation-petroleum-hydrocarbons]] are chemically similar to **lignin** — the tough, woody component of plant cell walls that white-rot fungi evolved to decompose. Because of this similarity, lignin-degrading fungi such as *[[pleurotus-ostreatus]]* ([[oyster-mushroom]]) can also break down hydrocarbon chains, converting them into less harmful compounds and ultimately into fungal biomass.
 
 ### Classroom Mock Oil Spill
 
-Set up small aquariums or plastic containers with a layer of soil or sand. Add a measured volume of vegetable oil (a safe, non-toxic surrogate for petroleum) to simulate a spill. Cover the oil with shredded dried grass or hay to absorb it, then layer this oiled hay between sheets of **cardboard colonized with oyster mushroom mycelium**.
+Set up small aquariums or plastic containers with a layer of soil or sand. Add a measured volume of vegetable oil (a safe, non-toxic surrogate for petroleum) to simulate a spill. Cover the oil with shredded dried grass or hay to absorb it, then layer this oiled hay between sheets of **cardboard colonized with oyster [[antimicrobial-compounds-mushroom-mycelium]]**.
 
 ### Observing Bioremediation
 
@@ -87,7 +87,7 @@ Over the following weeks, students observe:
 - Mycelial growth spreading through the oiled material
 - **Yellow metabolite droplets** forming on the mycelium — these are extracellular enzymes secreted to break down the oil
 - Gradual disappearance of the oil layer as it is metabolized
-- Mushroom fruiting bodies appearing once significant degradation has occurred
+- [[advanced-mushroom-fruiting-techniques]] bodies appearing once significant degradation has occurred
 
 ### Worm Bioassay for Progress
 
@@ -113,7 +113,7 @@ Expose the traps to open air at known contaminated sites — roadsides, former i
 
 ### Subculturing and Training
 
-In the lab, subculturing isolates the individual fungal species that colonized each trap. Students then **gradually increase contaminant concentrations** across successive subcultures, "training" the fungi to tolerate and metabolize higher pollutant loads. Growth rate, biomass production, and contaminant reduction are tracked at each concentration step.
+In the lab, subculturing isolates the individual fungal species that colonized each trap. Students then **gradually increase contaminant concentrations** across successive subcultures, "training" the fungi to tolerate and metabolize higher pollutant loads. Growth rate, [[dighton-fungal-biomass-production-aquatic-ecosystems]], and contaminant reduction are tracked at each concentration step.
 
 ### Native vs. Lab-Trained Strains
 

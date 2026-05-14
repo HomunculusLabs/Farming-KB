@@ -6,7 +6,7 @@ type: concept
 
 # Mycoremediation Education Projects
 
-Mycoremediation—the use of fungi to degrade, sequester, or otherwise neutralize environmental contaminants—provides rich opportunities for project-based learning at every educational level. From simple classroom demonstrations to college-level research programs, these projects teach students about biodegradation, ecological engineering, experimental design, and the profound metabolic capabilities of fungi.
+[[mycoremediation]]—the use of fungi to degrade, sequester, or otherwise neutralize environmental contaminants—provides rich opportunities for project-based learning at every educational level. From simple classroom demonstrations to college-level research programs, these projects teach students about biodegradation, ecological engineering, experimental design, and the profound metabolic capabilities of fungi.
 
 ## Screening Fungi for Mycoremediation Potential
 
@@ -20,7 +20,7 @@ Oil spills represent one of the most visible and environmentally devastating for
 
 ### Classroom Mock Oil Spill Protocol
 
-A classroom-safe version uses vegetable oil rather than motor oil (which requires hazardous waste permits). Materials include a small aquarium, plastic bins, shredded dried grass or straw, vegetable oil, and oyster mushroom biomass in the form of cardboard sheets colonized two weeks in advance.
+A classroom-safe version uses vegetable oil rather than motor oil (which requires hazardous waste permits). Materials include a small aquarium, plastic bins, shredded dried grass or straw, vegetable oil, and [[oyster-mushroom]] biomass in the form of cardboard sheets colonized two weeks in advance.
 
 The protocol involves filling the aquarium half-full with water, pouring a measured amount of oil onto the surface (the exact amount matters only for measurement consistency), adding shredded grass which absorbs the floating oil, and stirring with a large metal spoon or stick. When the plant matter has absorbed the oil, it is removed and layered between colonized cardboard sheets in bins, packed tightly. Each bin receives the same amount of oiled plant matter for experimental consistency. Bins are covered with lidded lids drilled with holes for gas exchange.
 
@@ -28,7 +28,7 @@ Students inspect the bins weekly by gently peeling back layers to photograph and
 
 ## Soil Erosion Control with Fungi
 
-Fungi contribute to erosion control through their mycelial networks, which physically bind soil particles together. Students construct small biological erosion and pollution control units in trays by combining ground covers, plants, and fungi in an appropriate substrate. Key experimental variables include the type of ground cover, plant species, and fungal inoculant, while keeping the soil base constant across all units.
+Fungi contribute to erosion control through their [[mycelial-networks]], which physically bind soil particles together. Students construct small biological erosion and pollution control units in trays by combining ground covers, plants, and fungi in an appropriate substrate. Key experimental variables include the type of ground cover, plant species, and fungal inoculant, while keeping the soil base constant across all units.
 
 A "water run" apparatus simulates site runoff using a long trough or channel angled at a desired slope, filled with myceliated mushroom biomass. Clean water is run through first to establish baseline flow rates, since water filtration effectiveness depends on retention and contact time. The measured volume of water is poured into the upper end and collected at the base. Students time the runoff, measure the collected volume (which should closely match the input volume), and measure silt levels by dry weight after each run.
 
@@ -38,7 +38,7 @@ For contaminated water testing, students use diluted herbicides, fertilizers, an
 
 ## Entomopathogenic Fungi
 
-Entomopathogenic fungi—fungi that parasitize and kill insects—represent a fascinating intersection of mycology and biological pest control. These fungi colonize their host insect, threading through the body and sometimes reaching the brainstem, enabling them to control the insect's behavior and movement. Finding infected insects requires a trained eye: students browse gardens, horticultural plots, and organic farms looking for sluggish insects or "mummified" specimens still gripping plant tissue. Signs of parasitization include mycelial engulfment, powdery growth, or small bumps not part of the normal exoskeleton.
+[[entomopathogenic-fungi]]—fungi that parasitize and kill insects—represent a fascinating intersection of mycology and biological pest control. These fungi colonize their host insect, threading through the body and sometimes reaching the brainstem, enabling them to control the insect's behavior and movement. Finding infected insects requires a trained eye: students browse gardens, horticultural plots, and organic farms looking for sluggish insects or "mummified" specimens still gripping plant tissue. Signs of parasitization include mycelial engulfment, powdery growth, or small bumps not part of the normal exoskeleton.
 
 Advanced work involves identifying both host insect and fungal parasite (potentially using DNA analysis), culturing and purifying the fungus, and reintroducing pure cultures to behavioral or mortality galleries to determine pathogenicity while excluding confounding variables. This research has direct applications for developing biological alternatives to chemical pesticides in agriculture.
 
@@ -53,3 +53,33 @@ Interdepartmental collaboration between engineering and microbiology students cr
 ## Fungal Metabolite Isolation
 
 Fungi function as assembly-line factories, manufacturing metabolites in response to environmental stimuli. Students can dose fungal cultures with specific chemicals or biological organisms, then harvest and analyze the resulting metabolites. Comparing these against control cultures identifies which metabolites are produced in response to which trigger. Testing metabolites back against the original trigger reveals whether the fungus aims to eradicate or promote that organism. For example, stimulating mycelial biomass with a particular bacterium, harvesting the metabolites, adding them to agar, and culturing the bacterium on that agar allows observation of inhibition rates. Different dilutions of the metabolite help determine effective concentrations.
+
+## Practical Applications
+
+Mycoremediation education projects has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of mycoremediation education projects has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## Background and Context
+
+- Historical development and key contributors
+- Relationship to broader ecological frameworks
+- Evolution of understanding through research
+
+## See Also
+
+- [[mycoremediation-experiments-education]]
+- [[battelle-diesel-mycoremediation-study]]
+- [[mycoremediation-of-plastics]]
+- [[staycare-mycoremediation-of-pharmaceutical-contaminants]]
+- [[mycoremediation-pah-and-pcb-degradation]]
+
+## Key Considerations
+
+When working with mycoremediation education projects, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.
+
+## Integration Strategies
+
+Mycoremediation education projects can be effectively integrated with complementary practices to create synergistic systems that maximize overall productivity and ecological function.

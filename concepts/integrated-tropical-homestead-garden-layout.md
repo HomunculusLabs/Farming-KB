@@ -90,4 +90,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[holzer-kitchen-garden-layout-and-traditional-gardening]]
 - [[homestead-herb-business]]
 - [[integrated-paddy-rice-and-tree-system]]
-- [[integrated-poultry-forage-systems-zone-two]]
+- integrated poultry forage systems zone two

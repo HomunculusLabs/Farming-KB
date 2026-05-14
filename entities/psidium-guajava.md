@@ -58,7 +58,7 @@ Guava is most commonly propagated by seed, though air-layering, grafting, and st
 
 Commercial orchards are typically planted at 5–7 meter spacing with 150–250 trees per hectare. Annual yields range from 15–25 tonnes per hectare under good management.
 
-Major pests include the Caribbean fruit fly (*Anastrepha suspensa*), guava whitefly, and fruit-boring moths. Integrated pest management combining pheromone traps, [[azurescens-fruiting-seasons-and-conditions]] per year.
+Major pests include the Caribbean fruit fly (*Anastrepha suspensa*), guava whitefly, and fruit-boring moths. [[integrated-pest-management]] combining pheromone traps, [[azurescens-fruiting-seasons-and-conditions]] per year.
 
 ## Traditional and Ethnobotanical Use
 

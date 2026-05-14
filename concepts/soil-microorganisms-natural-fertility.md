@@ -7,17 +7,17 @@ updated: 2026-04-28
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "masanobu-fukuoka, The Natural Way of Farming (1975), chapters on no cultivation, no fertilizer, and fukuoka-pine-rot-root-cause"
-  - "Masanobu Fukuoka, The One-Straw Revolution (1978)"
+  - "[[masanobu-fukuoka]], The One-Straw Revolution (1978)"
 type: concept
 ---
 
 # Soil Microorganisms and Natural Fertility
 
-Soil microorganisms are the foundation of natural soil fertility. Masanobu Fukuoka's farming system depends entirely on the activity of billions of bacteria, fungi, protozoa, and other microorganisms per gram of soil to maintain and build fertility without any external inputs. Understanding the role of these organisms is essential to understanding why [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
+Soil microorganisms are the foundation of [[fukuoka-natural-soil-fertility]]. Masanobu Fukuoka's farming system depends entirely on the activity of billions of bacteria, fungi, protozoa, and other microorganisms per gram of soil to maintain and build fertility without any external inputs. Understanding the role of these organisms is essential to understanding why [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 ### Free-Living Nitrogen Fixers
 
-Beyond the well-known legume symbiosis, free-living nitrogen-fixing bacteria in the soil and in association with plant root surfaces contribute significant quantities of nitrogen. Fukuoka's observation of 100 million nitrogen-fixing bacteria per gram in his farm soil suggests that these organisms, combined with the legume symbiosis, can supply all the nitrogen that crops require under natural conditions.
+Beyond the well-known [[rhizobium-legume-symbiosis]], free-living nitrogen-fixing bacteria in the soil and in association with plant root surfaces contribute significant quantities of nitrogen. Fukuoka's observation of 100 million nitrogen-fixing bacteria per gram in his farm soil suggests that these organisms, combined with the legume symbiosis, can supply all the nitrogen that crops require under natural conditions.
 
 ## Mycorrhizal Associations
 
@@ -42,7 +42,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

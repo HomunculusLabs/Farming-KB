@@ -117,6 +117,6 @@ Note that antibiotics only suppress bacteria — they have no effect on fungal c
 
 ---
 
-*Source: Tradd Cotter, "Organic Mushroom Farming and Mycoremediation" (2014).
-Content covers agar plate preparation and culture techniques for mushroom
-cultivation and spawn generation.*
+*Source: [[tradd-cotter]], "[[organic-mushroom-farming-and-mycoremediation-overview]] and [[mycoremediation]]" (2014).
+Content covers [[agar-plate-preparation]] and [[agar-culture-techniques-detailed]] for mushroom
+[[enriched-sawdust-cultivation-and-spawn-production-methods]] generation.*

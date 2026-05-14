@@ -22,7 +22,7 @@ sources:
   - Tisserand, R. & Young, R. (2014). "permaculture-designers-manual-essential-oil-plants Safety." 2nd ed. Elsevier.
   - Rice, S. & Koziel, J.A. (2015). "The role of terpenes in cannabis." Journal of the American Society of Brewing Chemists 73(3): 231–240.
   - Guzmán-Gutiérrez, S.L. et al. (2012). "Antidepressant-like activity of comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap." Phytomedicine 19(2): 97–107.
-  - Do, T.K.D. et al. (2015). "Chemical composition of [[comparison-cannabis-sativa-vs-cannabis-indica]], contributing complex
+  - Do, T.K.D. et al. (2015). "[[chemical-composition-of-hallucinogens]] of [[comparison-cannabis-sativa-vs-cannabis-indica]], contributing complex
 piney, floral, herbal, and slightly fruity aroma notes. Terpinolene occurs
 naturally in lilac, tea tree, cumin, nutmeg, and apples, and is widely used
 in the flavor and fragrance industry.
@@ -79,7 +79,7 @@ of terpinolene, though clinical evidence remains limited:
 ## Overview
 
 Terpinolene represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Terpinolene finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -108,13 +108,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for terpinolene. Climate adaptation
+opportunities for terpinolene. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 terpinolene and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

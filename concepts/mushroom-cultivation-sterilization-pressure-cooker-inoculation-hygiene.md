@@ -77,7 +77,7 @@ instructs the cultivator to pass the needle tip through a flame until it glows
 red-hot, then allow it to cool for a few seconds before inserting it into the
 substrate. This destroys any organisms that may have accumulated on the needle from
 the previous injection or from ambient air contact. The same principle applies to
-scalpels for cutting spore prints, tweezers, and jar rims. Each contact with a
+scalpels for cutting [[macrofungal-documentation-photography-spore-prints]], tweezers, and jar rims. Each contact with a
 non-sterile surface demands re-sterilization before the tool touches anything clean.
 
 ## Propyl Alcohol Swabbing

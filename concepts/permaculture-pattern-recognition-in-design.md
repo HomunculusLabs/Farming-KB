@@ -6,7 +6,7 @@ type: concept
 
 # Permaculture Pattern Recognition in Design
 
-Pattern recognition is one of the foundational skills in [[permaculture-design]]. It is the ability to see recurring forms, processes, and relationships across natural systems, human cultures, and design disciplines — and to apply those observations to create regenerative landscapes. [[bill-mollison]] emphasized that the designer who can read [[patterns-in-nature]] can replicate their efficiency and resilience in built environments. This page explores how pattern recognition operates in permaculture thought and practice, drawing extensively from Mollison's Permaculture Design Course.
+Pattern recognition is one of the foundational skills in [[permaculture-design]]. It is the ability to see recurring forms, processes, and relationships across natural systems, human cultures, and design disciplines — and to apply those observations to create regenerative landscapes. [[bill-mollison]] emphasized that the designer who can read [[patterns-in-nature]] can replicate their efficiency and resilience in built environments. This page explores how pattern recognition operates in permaculture thought and practice, drawing extensively from Mollison's [[mollison-permaculture-design-course-curriculum]].
 
 ## The Origin of Patterns: From Void to Form
 
@@ -18,7 +18,7 @@ Every river delta, every branching tree, every lightning bolt follows this same 
 
 The core skill of pattern recognition is not about memorizing shapes — it is about linking disparate phenomena across disciplines. A spiral observed in a nautilus shell, a hurricane, and a herb garden bed all follow the same mathematical and energetic logic. When a designer trains themselves to see these connections, they gain the ability to transfer insights from one domain to another.
 
-The spiral that efficiently distributes seeds in a sunflower head can inform the layout of a composting system. The branching pattern of a watershed can inform the layout of swales and access paths on a homestead. The fractal geometry of a fern frond can suggest the spatial distribution of planting zones within a garden bed. This cross-disciplinary linking is what makes permaculture design so powerful: it is not a collection of isolated techniques but a way of seeing the world that reveals hidden connections and transferable solutions.
+The spiral that efficiently distributes seeds in a sunflower head can inform the layout of a composting system. The branching pattern of a watershed can inform the layout of swales and access paths on a homestead. The [[branching-patterns-and-fractal-geometry-in-nature]] of a fern frond can suggest the spatial distribution of planting zones within a garden bed. This cross-disciplinary linking is what makes permaculture design so powerful: it is not a collection of isolated techniques but a way of seeing the world that reveals hidden connections and transferable solutions.
 
 ## Reading the Landscape
 
@@ -52,7 +52,7 @@ Curvilinear paths follow contour lines, reducing erosion and creating natural te
 
 ## Aboriginal Totemic Gardening Patterns
 
-Indigenous cultures have long employed pattern-based approaches to land management. Aboriginal totemic gardening patterns assign plant and animal species to kinship groups, creating a distributed management system where each group tends the species under their totemic responsibility. This is a social pattern as much as a physical one — it distributes knowledge, labor, and stewardship across the community while ensuring that every species has a dedicated caretaker with deep cultural and practical understanding of that species' needs.
+[[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] have long employed pattern-based approaches to land management. Aboriginal totemic gardening patterns assign plant and animal species to kinship groups, creating a distributed management system where each group tends the species under their totemic responsibility. This is a social pattern as much as a physical one — it distributes knowledge, labor, and stewardship across the community while ensuring that every species has a dedicated caretaker with deep cultural and practical understanding of that species' needs.
 
 These totemic patterns create resilient food systems because responsibility is distributed, knowledge is embedded in social structure rather than held by individuals, and the relationship between people and species is reciprocal and long-term. Permaculture designers can learn from these systems when structuring community food systems, community gardens, and shared-land stewardship arrangements.
 
@@ -102,7 +102,7 @@ Mollison's design course identifies several fundamental patterns that recur in b
 - **Spiral** — Shells, galaxies, weather systems. Used for compact, multi-microclimate garden beds and efficient flow distribution.
 - **Circle/ring** — Tree rings, ripples in water. Used for efficient irrigation zones and protected growing areas.
 - **Wave/labyrinth** — Wind patterns, coastline forms. Used for extended edge and flow slowing on slope.
-- **Net/weave** — Spider webs, root networks. Used for structural support and interconnection between elements.
+- **Net/weave** — Spider webs, root networks. Used for [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and interconnection between elements.
 - **Scatter/distribution** — Seed dispersal, star clusters. Used for polyculture planting and risk distribution against pest and disease.
 
 Understanding these patterns and when to apply each one is the vocabulary of permaculture design.
@@ -122,8 +122,8 @@ Understanding these patterns and when to apply each one is the vocabulary of per
 
 ## See Also
 
-- Permaculture principles
+- [[mollisonian-permaculture-principles]]
 - Edge effect in design
 - [[zone-and-sector-analysis]]
 - Time stacking strategies
-- Pattern language (Christopher Alexander)
+- Pattern language ([[christopher-alexander]])

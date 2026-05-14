@@ -11,7 +11,7 @@ sources:
 # Mind-Body Medicine and the Endocannabinoid System
 
 The relationship between emotions, consciousness, and the
-endocannabinoid system forms a central thesis of [[blesching-cannabis-health-index-autoimmune-conditions]]*. Blesching argues that molecules and
+[[endocannabinoid-system]] forms a central thesis of [[blesching-cannabis-health-index-autoimmune-conditions]]*. Blesching argues that molecules and
 emotions constitute a two-way street: emotional states influence
 neurochemistry including endocannabinoid function, while
 neurochemistry in turn shapes emotional experience. This framework

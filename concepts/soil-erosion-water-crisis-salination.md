@@ -14,7 +14,7 @@ As of the early 1980s, approximately 50% of all soils that existed before 1950 h
 
 ### Soil Creation vs. Soil Loss
 
-Soils are created at a rate of approximately four tons per acre per year in humid climates — less in dry areas. This process depends on the fall of rain and the action of plants (root penetration, organic matter deposition, microbial activity). If soil loss exceeds four tons per acre per year, the system is in net decline.
+Soils are created at a rate of approximately four tons per acre per year in [[berry-fruit-production-cool-humid-climates]] — less in dry areas. This process depends on the fall of rain and the action of plants (root penetration, organic matter deposition, microbial activity). If soil loss exceeds four tons per acre per year, the system is in net decline.
 
 The actual rates of agricultural soil loss far exceed the creation rate:
 
@@ -36,7 +36,7 @@ The mechanism involves the water table. In a forested landscape, rain falling on
 
 This is happening across enormous areas in America, Africa, and Australia. When the saline water table rises to about three feet below the surface, trees begin to die of what is called "phasmid" damage. At 18 inches below the surface, other crops die. When the salts reach the surface, they evaporate and the soil visibly turns to salt.
 
-The result is a perverse cycle: governments provide free pumps to farmers to pump out saline water while simultaneously leasing additional wood-chipping licenses to the multinationals whose logging caused the problem in the first place. The pumping must continue indefinitely — it is not a cure but a symptom management that masks the fundamental cause.
+The result is a perverse cycle: governments provide free pumps to farmers to pump out saline water while simultaneously leasing additional wood-chipping licenses to the multinationals whose logging caused the problem in the first place. The pumping must continue indefinitely — it is not a cure but a [[cannabis-cancer-symptom-management]] that masks the fundamental cause.
 
 ## The Water Crisis
 
@@ -58,17 +58,17 @@ The water crisis is particularly absurd because roughly half a million gallons o
 
 ## Chemical Pollution
 
-Broad-scale release of industrial and agricultural chemicals produces unforeseen and long-term consequences. DDT, PCBs, dioxin, and chlorine compounds persist in ecosystems and accumulate through food chains. These chemicals affect reproduction (sterility), cause cancer and other diseases, and disrupt ecological processes at fundamental levels. The pattern of chemical use follows what Mollison calls the "over-run thesis": our ability to change the face of the Earth increases faster than our ability to foresee the consequences of those changes.
+Broad-scale release of industrial and [[agricultural-chemicals-mycorrhizal-impact]] produces unforeseen and long-term consequences. DDT, PCBs, dioxin, and chlorine compounds persist in ecosystems and accumulate through food chains. These chemicals affect reproduction (sterility), cause cancer and other diseases, and disrupt ecological processes at fundamental levels. The pattern of chemical use follows what Mollison calls the "over-run thesis": our ability to change the face of the Earth increases faster than our ability to foresee the consequences of those changes.
 
 ## Energy and the Desperate Future
 
 The entire output of atomic power in the United States is equivalent to the energy requirements of clothes-drying machines. This statistic illustrates the gross misallocation of energy resources in industrial society. The American highway system, with its constant flow of trucks carrying identical cargo in opposite directions, exemplifies the waste built into the system.
 
-Agriculture has transitioned from an energy-productive system to an energy-consuming one. Traditional Chinese agriculture, using hand weeding and natural manures, produced approximately three times as much energy as it consumed under intensive conditions. After modernization with small tractors, artificial fertilizer, and flame weeders, they put in 800% more energy for only a 15% increase in yield — and yields subsequently declined further as more energy was poured in. Modern agriculture now recovers only 4-6% of the energy invested.
+Agriculture has transitioned from an energy-productive system to an energy-consuming one. Traditional Chinese agriculture, using hand weeding and natural manures, produced approximately three times as much energy as it consumed under intensive conditions. After modernization with small tractors, artificial fertilizer, and flame weeders, they put in 800% more energy for only a 15% increase in yield — and yields subsequently declined further as more energy was poured in. [[fukuoka-critique-modern-agriculture]] now recovers only 4-6% of the energy invested.
 
 ## Design for Remedial Action
 
-Against this backdrop, permaculture proposes specific design strategies:
+Against this backdrop, permaculture proposes specific [[cold-climate-design-strategies]]:
 
 ### Water Storage
 
@@ -82,7 +82,7 @@ The principle is to intervene as close to the source as possible. Engineers conv
 
 ### Household Gardening
 
-Fifty-three percent of American households garden, with an average garden size of 600 square feet producing approximately $1.50 per square foot. These household gardens collectively produce 18% of the food in the United States at a value nearly equivalent to total commercial agriculture. In Russia, peasant farmers on half-acre to one-acre plots produce 84% of the food, while state farms occupying most agricultural land run a 6% deficit.
+Fifty-three percent of American households garden, with an average garden size of 600 square feet producing approximately $1.50 per square foot. These household gardens collectively produce 18% of the food in the United States at a value nearly equivalent to total [[night-break-photoperiodism-manipulation-commercial-agriculture]]. In Russia, peasant farmers on half-acre to one-acre plots produce 84% of the food, while state farms occupying most agricultural land run a 6% deficit.
 
 ### Legal and Financial Strategies
 

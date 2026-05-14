@@ -69,3 +69,19 @@ Contour dams produce several beneficial effects:
 - [[saddle-dam-mollison]] — high-elevation dams in ridge saddles
 - [[earth-dam-building-mollison]] — general dam construction techniques
 - [[swale]] — complementary shallow water-harvesting earthwork
+
+## Practical Applications
+
+Contour dam mollison has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of contour dam mollison has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## See Also
+
+- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
+- [[earth-dam-building-mollison]]
+- [[check-dam-mollison]]
+- [[biological-dam-mollison]]

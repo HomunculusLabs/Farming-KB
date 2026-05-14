@@ -1,5 +1,5 @@
 ---
-title: Aquaculture Pond Yields and Stocking Rates
+title: Aquaculture Pond Yields And Stocking Rates
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,11 +8,11 @@ type: concept
 
 ## Overview
 
-Aquaculture represents one of the most energy-efficient forms of protein production available to human societies. When integrated with [[permaculture-design-principles]], ponds serve multiple functions beyond fish production—acting as mirrors, heat stores, runoff catchments, pollutant cleansers, transport systems, fire barriers, recreation assets, irrigation accessories, and energy storage. The key to productive aquaculture lies in understanding the factors that govern pond carrying capacity and stocking rates.
+Aquaculture represents one of the most energy-efficient forms of [[fungal-single-cell-protein-production]] available to human societies. When integrated with [[permaculture-design-principles]], ponds serve multiple functions beyond fish production—acting as mirrors, heat stores, runoff catchments, pollutant cleansers, transport systems, fire barriers, recreation assets, irrigation accessories, and [[holmgren-built-environment-household-energy-storage]]. The key to productive aquaculture lies in understanding the factors that govern pond [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] and stocking rates.
 
 ## The Case for Aquaculture
 
-Aquaculture is as much a stable future occupation of responsible societies as forestry. Between these two beneficial systems, a great reduction in areas currently devoted to pastoralism and monocropping can be achieved. Both of the latter enterprises are increasingly disfavoured by society from fiscal, health, social welfare, energy efficiency, and general landscape stability perspectives.
+Aquaculture is as much a stable future occupation of responsible societies as forestry. Between these two beneficial systems, a great reduction in areas currently devoted to pastoralism and monocropping can be achieved. Both of the latter enterprises are increasingly disfavoured by society from fiscal, health, social welfare, [[aquaculture-design-principles-and-energy-efficiency]], and general landscape stability perspectives.
 
 The conversion of rice paddies to fish production in Indonesia illustrates this transition well: fish are replacing rice over large areas of abandoned padi, yielding a great gain in protein and a reduction in fuels needed for food preparation. Even in semi-arid areas, ponding, water harvesting, and diversion reduce extremes of drought and flood while aiding food production.
 
@@ -36,7 +36,7 @@ If ponds are overstocked, fish cease to grow and the water is said to be fully s
 Several strategies can lift the carrying capacity of ponds:
 
 - **Supplying more oxygen** by stirring in air via aerators, waterfalls, or flowforms
-- **Supplying more nutrients** through manures, fertilisers, and integrated animal systems
+- **Supplying more nutrients** through manures, fertilisers, and [[backyard-poultry-and-integrated-animal-systems]] systems
 - **Increasing edge** by crenellating pond edges—maximising the shoreline-to-area ratio
 
 The highest fish production recorded was achieved in a rapid canal flow of mainly sewage. Conversely, the least productive pond would be a circular, warm, clear, concreted basin in a quiet valley.
@@ -77,3 +77,9 @@ Fish are remarkably efficient converters of feed to flesh. An average figure for
 - **Beef, mutton, pork**: double or treble the feed cost of fish
 
 No terrestrial species reaches the conversion efficiency of commonly cultured fish. This inherent advantage, combined with rising fossil fuel costs and growing health-conscious demand for aquatic products, positions aquaculture to increasingly eclipse terrestrial protein production systems.
+
+## Background and Context
+
+- Historical development and key contributors
+- Relationship to broader ecological frameworks
+- Evolution of understanding through research

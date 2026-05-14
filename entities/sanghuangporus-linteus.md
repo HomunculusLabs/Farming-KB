@@ -44,7 +44,7 @@ Extracts of S. linteus have shown immunostimulatory effects through activation o
 
 Antitumor activity has been demonstrated in numerous in vitro and in vivo studies against multiple cancer cell lines including leukemia, breast cancer, lung cancer, hepatoma, and colorectal cancer. Proposed mechanisms include direct cytotoxicity via apoptosis induction, anti-angiogenesis, and immune-mediated tumor suppression. The polysaccharide fraction has been shown to potentiate the efficacy of conventional chemotherapeutic agents while reducing their side effects in murine models.
 
-In vivo studies have demonstrated that S. linteus extracts can extend survival in tumor-bearing mice and reduce metastatic burden. Combination therapy with doxorubicin or cisplatin has shown synergistic effects, allowing reduced chemotherapy dosing. These findings have supported the development of sanghuang as an adjuvant therapy in integrative oncology, particularly in East Asian clinical practice.
+In vivo studies have demonstrated that S. linteus extracts can extend survival in tumor-bearing mice and reduce metastatic burden. [[lentinan-gastric-cancer-combination-therapy]] with doxorubicin or cisplatin has shown synergistic effects, allowing reduced chemotherapy dosing. These findings have supported the development of sanghuang as an adjuvant therapy in integrative oncology, particularly in East Asian clinical practice.
 
 The species exhibits significant antioxidant activity through free radical scavenging and metal chelation. Anti-inflammatory effects are mediated through inhibition of NF-κB signaling and reduction of pro-inflammatory cytokine release. Hepatoprotective activity has been documented in models of chemically induced liver injury.
 
@@ -52,7 +52,7 @@ The species exhibits significant antioxidant activity through free radical scave
 
 Artificial cultivation of S. linteus has been achieved on various lignocellulosic substrates including sawdust of mulberry, oak, and poplar supplemented with wheat bran and rice bran. Optimal [[clay-seed-pellet-production-method-concrete-mixer]].
 
-Yields of fruiting bodies from artificial cultivation remain lower than those of more domesticated species like [[staycare-lentinula-edodes-in-bioremediation]], which contributes to the high market price. Research into improving cultivation parameters and strain selection is ongoing.
+Yields of fruiting bodies from artificial cultivation remain lower than those of more domesticated species like [[staycare-lentinula-edodes-in-bioremediation]], which contributes to the high market price. Research into improving [[mushroom-species-cultivation-parameters]] and strain selection is ongoing.
 
 Submerged liquid fermentation has emerged as a cost-effective alternative for producing mycelial biomass and exopolysaccharides at commercial scale. Bioreactor systems can achieve biomass yields of 15–25 g/L dry weight within 7–10 days, with polysaccharide productivity exceeding 2 g/L/day under optimized conditions.
 
@@ -73,7 +73,7 @@ Sanghuangporus linteus sensu stricto is distinguished by its tropical distributi
 ## Overview
 
 Sanghuangporus Linteus represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Sanghuangporus Linteus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -102,7 +102,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 sanghuangporus linteus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

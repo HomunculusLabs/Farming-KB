@@ -1,5 +1,5 @@
 ---
-title: powell [[psychedelic-paradigm-shifting-and-reality-reconception]] the psychedelic revolution and the Psychedelic Revolution
+title: "Powell Paradigm Shifting And The Psychedelic Revolution"
 created: 2026-04-28
 tags: [paradigm-shift, consciousness, counterculture, leary,
   mckenna, cultural-evolution, science, prohibition]

@@ -16,13 +16,13 @@ sources:
 
 # MDEA
 
-MDEA (3,4-methylenedioxy-N-ethylamphetamine), also known as Eve or MDE, is a synthetic entactogen and empathogen closely related to MDMA (Ecstasy). It is the N-ethyl homologue of MDMA, differing by a single ethyl group substitution on the amine nitrogen. Shulgin documented MDEA in PIHKAL and considered it a notable variant that offered a somewhat gentler, more relaxed experience compared to MDMA's energetic intensity.
+MDEA (3,4-methylenedioxy-N-ethylamphetamine), also known as Eve or MDE, is a synthetic entactogen and empathogen closely related to [[mdma]] (Ecstasy). It is the N-ethyl homologue of MDMA, differing by a single ethyl group substitution on the amine nitrogen. Shulgin documented MDEA in PIHKAL and considered it a notable variant that offered a somewhat gentler, more relaxed experience compared to MDMA's energetic intensity.
 
 ## Chemistry
 
 MDEA is an N-substituted amphetamine featuring the characteristic methylenedioxy bridge across positions 3 and 4 of the phenyl ring. The key structural difference from MDMA is the N-ethyl group (C₂H₅) replacing MDMA's N-methyl group (CH₃). Molecular formula: C₁₂H₁₇NO₂; molar mass: 207.27 g/mol.
 
-This seemingly minor change produces meaningful pharmacological differences. The larger N-ethyl group reduces reuptake inhibition potency for serotonin while maintaining dopaminergic and noradrenergic activity, shifting the experiential profile away from MDMA's serotonergic-dominant character.
+This seemingly minor change produces meaningful pharmacological differences. The larger N-ethyl group reduces reuptake inhibition potency for [[serotonin]] while maintaining dopaminergic and noradrenergic activity, shifting the experiential profile away from MDMA's serotonergic-dominant character.
 
 ## Pharmacology
 

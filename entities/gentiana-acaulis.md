@@ -35,17 +35,12 @@ Propagation by seed requires cold stratification for 6–8 weeks at 0–4 °C. G
 
 [[vaccinium-myrtillus]]*, *Homogyne alpina*, and *Soldanella alpina* in characteristic subalpine plant communities. These species collectively support diverse invertebrate populations.
 
+
 ## See Also
 
-- [[gentiana-amarella]]
-- [[gentiana-angustifolia]]
-- [[gentiana-calycosa]]
-- [[gentiana-ochroleuca]]
-- [[gentiana-parryi]]
-- [[gentiana-purpurea]]
-- [[gentiana-siphonantha]]
-- [[gentiana-thunbergii]]
-- [[gentiana-vernayi]]
+- [[gentiana-cachemirica]]
+- [[gentiana-linearis]]
+- [[gentiana-quinquefolia]]
 
 ## Overview
 

@@ -68,7 +68,7 @@ Cold damage occurs below 2°C, with leaf burn and dieback. Potted specimens shou
 
 Some Brunfelsia species, particularly Brunfelsia grandiflora, are used in traditional South American medicine. Extracts are prepared as poultices or decoctions for treating skin conditions and inflammation.
 
-The alkaloid content of Brunfelsia americana is lower than that of its better-studied relatives. Toxicological studies suggest that the plant presents a low acute toxicity risk to humans, though ingestion should still be avoided.
+The alkaloid content of Brunfelsia americana is lower than that of its better-studied relatives. Toxicological studies suggest that the plant presents a low [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]] risk to humans, though ingestion should still be avoided.
 
 Research interest in Brunfelsia alkaloids has focused on their potential as lead compounds for drug development. The unique indole-alkaloid structures found in the genus offer novel pharmacophores for medicinal chemistry.
 
@@ -81,7 +81,7 @@ The night-fragrant flowers of Brunfelsia americana are pollinated by moths and s
 ## Overview
 
 Brunfelsia Americana represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving brunfelsia extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -110,13 +110,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for brunfelsia americana. Climate adaptation
+opportunities for brunfelsia americana. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 brunfelsia americana and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

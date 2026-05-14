@@ -1,5 +1,5 @@
 ---
-title: [[voluntary-simplicity-mollison]]
+title: "Voluntary Simplicity"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 tags: [ethic, permaculture, community, philosophy, sustainability, lifestyle]

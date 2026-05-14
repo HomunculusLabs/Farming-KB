@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources:
   - Paine, R.T. (1966). "Food Web Complexity and Species Diversity." American Naturalist, 100(910), 65-75.
   - Estes, J.A. et al. (2011). "Trophic Downgrading of Planet Earth." Science, 333(6040), 301-306.
-  - Ripple, W.J. & Beschta, R.L. (2012). "Trophic Cascades in Yellowstone: The First 15 Years After Wolf Reintroduction." Biological Conservation, 145(1), 205-213.
+  - Ripple, W.J. & Beschta, R.L. (2012). "[[query-how-do-trophic-cascades-work]] in Yellowstone: The First 15 Years After Wolf Reintroduction." Biological Conservation, 145(1), 205-213.
   - Power, M.E. et al. (1996). "Challenges in the Quest for Keystones." BioScience, 46(8), 609-620.
   - Soulé, M.E. et al. (2003). "Ecological Effectiveness: Conservation Goals for Interactive Species." mycelium-running-conservation-biology-and-fungi, 17(5), 1238-1250.
 ---
@@ -15,15 +15,15 @@ sources:
 
 ## Introduction
 
-Keystone species are organisms whose impact on their community or ecosystem is disproportionately large relative to their abundance or biomass. The concept, first articulated by Robert Paine in 1966, has become one of the most influential ideas in ecology and conservation biology, reshaping how scientists understand the structure and function of ecological communities. Unlike dominant species — which are simply the most abundant — keystone species exert their influence through interactions that maintain the diversity and stability of entire ecosystems.
+Keystone species are organisms whose impact on their community or ecosystem is disproportionately large relative to their abundance or biomass. The concept, first articulated by Robert Paine in 1966, has become one of the most influential ideas in ecology and conservation biology, reshaping how scientists understand the structure and function of ecological communities. Unlike dominant species — which are simply the most abundant — keystone species exert their influence through interactions that maintain the [[diversity-and-stability-in-ecosystems]] of entire ecosystems.
 
-The closely related concept of trophic cascades describes the indirect ecological effects that propagate through multiple trophic levels when a top predator is added to or removed from a food web. Together, these frameworks have transformed conservation practice, informing rewilding efforts, protected area design, and ecosystem restoration worldwide.
+The closely related concept of trophic cascades describes the indirect ecological effects that propagate through multiple trophic levels when a top predator is added to or removed from a food web. Together, these frameworks have transformed conservation practice, informing rewilding efforts, protected area design, and [[bioremediation-ecosystem-restoration]] worldwide.
 
 ## Origin of the Keystone Concept
 
 ### Robert Paine's Intertidal Experiments
 
-The keystone species concept originated from a series of field experiments conducted by Robert T. Paine in the rocky intertidal zone of the Pacific Northwest. Between 1963 and 1969, Paine studied the food web at Mukkaw Bay, Washington, where the predatory starfish *Pisaster ochraceus* fed on mussels (*Mytilus californianus*), barnacles, and other sessile invertebrates.
+The keystone species concept originated from a series of field experiments conducted by Robert T. Paine in the rocky intertidal zone of the [[psilocybin-north-america-pacific-northwest]]. Between 1963 and 1969, Paine studied the food web at Mukkaw Bay, Washington, where the predatory starfish *Pisaster ochraceus* fed on mussels (*Mytilus californianus*), barnacles, and other sessile invertebrates.
 
 Paine's critical experiment involved manually removing all *Pisaster* individuals from a designated plot while leaving an adjacent control plot undisturbed. Within months, the experimental plot was dominated by mussels, which outcompeted and excluded other invertebrate and algal species. Species diversity in the removal plot dropped from 15 to 8 species, while the control plot maintained its full complement.
 
@@ -52,9 +52,9 @@ Paine formally defined keystone species in his 1969 paper as species whose remov
 
 The reintroduction of 31 gray wolves to Yellowstone National Park in 1995–1996 has become the most intensively studied trophic cascade in ecology. Documented effects include:
 
-1. **Elk population reduction and behavioral change**: Elk numbers declined from approximately 15,000–17,000 to fewer than 6,000 by 2009. More importantly, elk altered their foraging behavior, avoiding open riparian areas and high-risk zones.
+1. **Elk population reduction and behavioral change**: Elk numbers declined from approximately 15,000–17,000 to fewer than 6,000 by 2009. More importantly, elk altered their [[root-foraging-behavior]], avoiding open riparian areas and high-risk zones.
 
-2. **Riparian vegetation recovery**: Willows (*Salix* spp.), cottonwoods (*Populus angustifolia*), and aspen populus tremuloides ides*) showed significant recruitment in riparian areas for the first time in decades.
+2. **Riparian vegetation recovery**: Willows (*Salix* spp.), cottonwoods (*Populus angustifolia*), and aspen [[populus-tremuloides]] ides*) showed significant recruitment in riparian areas for the first time in decades.
 
 3. **Beaver recolonization**: Increased willow availability supported beaver population recovery from a single colony in 1995 to over a dozen by 2009. Beaver dams further enhanced wetland habitat.
 

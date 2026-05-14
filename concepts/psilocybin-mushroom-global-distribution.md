@@ -16,7 +16,7 @@ sources:
 
 # Psilocybin Mushroom Global Distribution
 
-The geographic distribution of psilocybin-containing mushrooms worldwide, organized by region and climate.
+The [[geographic-distribution-of-psilocybe-species]] of psilocybin-containing mushrooms worldwide, organized by region and climate.
 
 ## Overview
 
@@ -25,10 +25,10 @@ Psilocybin-containing mushrooms are found on every inhabited continent. They bel
 ## North America
 
 ### United States
-- **Pacific Northwest**: Rich in psilocybin species, particularly *Psilocybe cyanescens* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
-- **Gulf Coast / Southeast**: *Psilocybe cubensis* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *Panaeolus subbalteatus* and *P. cyanescens* also occur.
+- **[[psilocybin-north-america-pacific-northwest]]**: Rich in psilocybin species, particularly *Psilocybe cyanescens* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
+- **Gulf Coast / Southeast**: *Psilocybe cubensis* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* and *P. cyanescens* also occur.
 - **Southwest**: Scattered species in Arizona and New Mexico, associated with higher elevation grasslands.
-- **Northeast**: *Psilocybe ovoideocystidiata* and *Panaeolus cinctulus* occur in the mid-Atlantic and northeastern states.
+- **Northeast**: *[[psilocybe-ovoideocystidiata]]* and *[[panaeolus-cinctulus]]* occur in the mid-Atlantic and northeastern states.
 
 ### Mexico
 Mexico is the center of diversity for *Psilocybe* and has the highest number of known psychoactive species in the world (approximately 50+). Key species include:
@@ -60,7 +60,7 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 
 ## Asia
 
-- **Japan**: Several species documented including *Psilocybe subcaerulipes*, *P. argentipes*, and *P. cubensis* in Okinawa.
+- **Japan**: Several species documented including *[[psilocybe-subcaerulipes]]*, *P. argentipes*, and *P. cubensis* in Okinawa.
 - **Southeast Asia**: Thailand, Cambodia, Vietnam, and Indonesia support rich diversity. *Psilocybe cubensis* and *P. samuiensis* are among the known species. The region has been a significant source for "magic mushrooms" sold to tourists.
 - **India**: Species documented in the Western Ghats and northeastern states.
 - **China and Korea**: Limited documentation but species known to occur.

@@ -69,7 +69,7 @@ modern cannabis market.
 
 ## Terpene Profile
 
-- **Myrcene:** Dominant — contributes to relaxing body effects and herbal aroma
+- **[[myrcene]]:** Dominant — contributes to relaxing body effects and herbal aroma
 - **Pinene:** Present — adds pine notes and may promote alertness and focus
 - **Limonene:** Moderate — enhances mood elevation and contributes citrus brightness
 - **Caryophyllene:** Present — adds subtle peppery spice and potential

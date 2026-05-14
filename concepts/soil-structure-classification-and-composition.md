@@ -1,5 +1,5 @@
 ---
-title: [[soil-structure-classification]] and Composition
+title: "Soil Structure Classification And Composition"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

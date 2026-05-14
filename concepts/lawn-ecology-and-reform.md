@@ -14,7 +14,7 @@ global food insecurity.
 
 ## Historical Origins
 
-The lawn has humble origins rooted in animal husbandry. On rural estates across
+The lawn has humble origins rooted in [[holzer-natural-animal-husbandry]]. On rural estates across
 Europe, geese and sheep grazed close-cropped swards, maintaining grass at a
 uniform height through natural browsing. This was productive grazing that
 incidentally produced a manicured appearance.
@@ -39,7 +39,7 @@ area, yet produces no food, fiber, or useful yield.
 The energy inputs are staggering: maintaining conventional turf requires
 approximately **573 kilocalories per square meter per year**. This exceeds the
 energy needed to grow field corn (300–400 kcal/sq m) and is several times
-greater than for vegetable gardens. Americans spend more energy maintaining
+greater than [[soil-ph-management-for-vegetable-gardens]]. Americans spend more energy maintaining
 unused ground than growing the food they eat.
 
 ## Resource Consumption
@@ -92,7 +92,7 @@ harm:
 - **Hand-mown areas** using no fossil-fuel equipment and receiving no irrigation or biocides
 
 The problem lies not in ground cover itself but in the industrial regime —
-powered mowing, synthetic fertilization, irrigation, and chemical pesticides
+powered mowing, synthetic fertilization, irrigation, and [[comparison-parasitoid-wasps-vs-chemical-pesticides]]
 applied to monoculture turf at vast scale.
 
 ## Lawn Reform Alternatives
@@ -100,11 +100,11 @@ applied to monoculture turf at vast scale.
 Mollison advocates replacing ornamental lawns with productive, ecologically
 diverse landscapes:
 
-- **Berry shrubberies:** Salal (*Gaultheria shallon*), blueberry, cranberry provide edible yields, pollinator habitat, and ground cover requiring far less maintenance than turf
+- **Berry shrubberies:** Salal (*[[gaultheria-shallon]]*), blueberry, cranberry provide edible yields, [[pollinator-habitat]], and ground cover requiring far less maintenance than turf
 - **Flowering meadows:** Native bulbs and perennial wildflowers create seasonal color while supporting pollinators; once established, meadows need minimal water and no fertilizer
 - **Copses and woodland edges:** Native trees provide shade, windbreaks, habitat complexity, and food from nuts, fruits, and fungi
 - **Ponds and wetlands:** Support amphibians, insects, and birds while managing stormwater and recharging groundwater
-- **Marsh and fen areas:** Restored wetlands that filter water, sequester carbon, and support native plant communities
+- **Marsh and fen areas:** Restored wetlands that filter water, sequester carbon, [[query-how-to-attract-and-support-native-bee-pollinators]] plant communities
 - **Rock gardens:** Stone and drought-adapted plants requiring virtually no water or care
 - **Vegetable plots:** Converting lawn to food production yields tangible nutritional and economic returns
 

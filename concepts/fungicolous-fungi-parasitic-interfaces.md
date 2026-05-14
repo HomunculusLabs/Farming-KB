@@ -22,7 +22,7 @@ of host surface molecules, coiling around host hyphae, penetration
 via enzyme secretion (chitinases, glucanases, proteases), and
 subsequent colonization. Genome sequencing of T. virens and
 T. atroviride has revealed large expansions of mycoparasitism-related
-gene families including secondary metabolite clusters and hydrolytic
+gene families including [[fungal-elicitors-enhanced-secondary-metabolite-production]] clusters and hydrolytic
 enzyme genes, reflecting their evolutionary specialization.
 
 ## Hyperparasitism and Trophic Cascades
@@ -30,7 +30,7 @@ enzyme genes, reflecting their evolutionary specialization.
 Hyperparasitism -- fungi parasitizing other parasitic fungi -- creates
 complex trophic cascades within fungal communities. Ampelomyces
 quisqualis parasitizes powdery mildew fungi and is used commercially
-as a biocontrol agent. Cladosporium cladosporioides can parasitize
+as a biocontrol agent. [[cladosporium-cladosporioides]] can parasitize
 both rust fungi and other fungicolous species, occupying multiple
 trophic levels. These hyperparasitic relationships can suppress
 plant disease outbreaks in natural systems, where the population of
@@ -44,11 +44,11 @@ pathogen genetic diversity over ecological time scales.
 
 ## Fungicolous Fungi in Cultivation Contexts
 
-In mushroom cultivation, fungicolous fungi represent a significant
+[[contamination-prevention-in-mushroom-cultivation]], fungicolous fungi represent a significant
 source of contamination and crop loss. Trichoderma species are the
-most common contaminants of mushroom compost and spawned substrate,
+most common [[cultivator-contaminants-of-mushroom-culture]] compost and spawned substrate,
 often outcompeting the cultivated species. Cobweb mold (Cladobotryum
-dendroides) parasitizes the fruiting bodies of Agaricus bisporus
+dendroides) parasitizes the fruiting bodies of [[agaricus-bisporus]]
 and Pleurotus species, reducing yield and quality. Verticillium
 fungicola causes dry bubble disease on button mushrooms. Managing
 these contaminants requires strict hygiene, proper pasteurization,
@@ -62,7 +62,7 @@ context-dependent nature of these interactions.
 Modern molecular methods have transformed the study of fungicolous
 interactions. Metatranscriptomic analysis of dual cultures reveals
 the gene expression changes that occur during mycoparasitic attack,
-identifying which hydrolytic enzymes and secondary metabolites are
+identifying which hydrolytic enzymes [[plant-defense-mechanisms]] are
 upregulated during different phases of the interaction. GFP-tagged
 strains allow real-time microscopic observation of hyphal
 penetration and host response. CRISPR-based gene knockouts in

@@ -14,7 +14,7 @@ sources: []
 amendments that share a chemical element—sulfur—but serve very different
 purposes in soil management. Gypsum supplies both calcium and sulfur
 without changing pH, while elemental sulfur is primarily used to lower
-soil pH. Understanding when to use each is essential for effective
+[[soil-ph]]. Understanding when to use each is essential for effective
 soil amendment strategies in permaculture and regenerative agriculture.
 
 ## Gypsum (Calcium Sulfate)

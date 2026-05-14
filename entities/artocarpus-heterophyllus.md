@@ -4,7 +4,7 @@ type: species
 tags:
   - tree
   - tropical
-  - agroforestry
+  - [[agroforestry]]
   - largest-fruit
 date: 2026-04-28
 updated: 2026-04-28

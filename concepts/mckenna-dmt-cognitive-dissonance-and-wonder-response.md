@@ -1,5 +1,5 @@
 ---
-title: "McKenna DMT Cognitive Dissonance and Wonder Response"
+title: Mckenna Dmt Cognitive Dissonance And Wonder Response
 created: 2026-05-11
 tags: [mckenna, dmt, consciousness, cognitive-dissonance, wonder, translinguistic, tryptamine, phenomenology]
 source: raw/papers/mckenna_t-tryptamines_consciousness.md
@@ -9,10 +9,10 @@ source: raw/papers/mckenna_t-tryptamines_consciousness.md
 
 ## Overview
 
-In his 1983 Esalen lecture on tryptamine hallucinogens and
-consciousness, Terence McKenna described a specific phenomenological
+In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]]
+consciousness, [[terence-mckenna]] described a specific phenomenological
 feature of the DMT experience: the **cognitive dissonance** that
-arises when the human mind encounters translinguistic objects —
+arises when the human mind encounters [[glossolalia-translinguistic-objects]] —
 meaning-bearing entities that cannot be processed through ordinary
 language. McKenna characterized this as a "wow" or "flutter" that
 builds at the interface between simian cognition and hyperdimensional
@@ -68,7 +68,7 @@ reinforcing feedback loop if not controlled:
 "One must control that. And the way to control it is to do what
 the entities are telling one to do, to do what they are doing."
 
-The "entities" — McKenna's self-transforming machine elves —
+The "entities" — McKenna's self-transforming [[dmt-machine-elves]] —
 actively coach the experiencer through this challenge:
 
 "Don't get a loop of wonder going that quenches your ability to
@@ -92,7 +92,7 @@ objects embody this principle experientially.
 **Kantian sublime**: Kant described the sublime as the experience
 of encountering something so vast or powerful that it overwhelms
 the mind's capacity to comprehend it, producing a mixture of
-awe and terror. McKenna's DMT phenomenology maps precisely onto
+awe and terror. McKenna's [[dmt-phenomenology]] maps precisely onto
 this description.
 
 **Wittgensteinian limits**: "Whereof one cannot speak, thereof

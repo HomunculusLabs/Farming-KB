@@ -4,9 +4,9 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Tidal Aquaculture Systems
+# [[tidal-aquaculture-marsh-systems|Tidal]] Aquaculture Systems
 
-[[permaculture-design]] extends beyond the shoreline into intertidal zones, salt marshes, and shallow marine environments. These areas offer extraordinary productivity for food production, building materials, and mineral harvesting — yet they remain among the most underutilized landscapes in modern agriculture. Tidal systems require minimal external inputs because the sea delivers nutrients, organisms, and water movement for free.
+[[permaculture-design]] extends beyond the shoreline into intertidal zones, salt marshes, and shallow marine environments. These areas offer extraordinary productivity for food production, [[gadd-fungal-biodegradation-concrete-building-materials]], and mineral harvesting — yet they remain among the most underutilized landscapes in [[fukuoka-critique-modern-agriculture]]. Tidal systems require minimal external inputs because the sea delivers nutrients, organisms, and water movement for free.
 
 ## The Tidal Zone
 
@@ -16,12 +16,12 @@ Tide ranges vary from two to 27 feet globally, but productive tidal aquaculture 
 
 #### Front Line Plants
 
-- **Mangroves** — in tropical and subtropical climates, mangroves stabilize coastlines, trap sediments, and provide nursery habitat for marine species
-- **Salt marsh grasses** — various low-growing species providing goose fodder and erosion control
+- **Mangroves** — in tropical and [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], mangroves stabilize coastlines, trap sediments, and provide nursery habitat for marine species
+- **Salt marsh grasses** — various low-growing species providing goose fodder and [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
 
 #### Salt Marsh Plants
 
-- **Samphire (*Salicornia*)** — fat, succulent plants at grass-root level; excellent goose fodder; can be made into pickles that sell well in England
+- **Samphire (*[[salicornia]]*)** — fat, succulent plants at grass-root level; excellent goose fodder; can be made into pickles that sell well in England
 - **Sea lavender (*Limonium*)** — a good honey plant for salt marsh apiaries
 - **Cord grass / Spartina** — perhaps the most important salt marsh plant; produces heavy seed crops; excellent forage for geese; the base food for most cool-water fish including bluefish; without Spartina, there are no bluefish. The bluefish industry depends on Spartina, and Spartina depends on there never being an oil spill. Spartina also provides material for woven chair seats and cordage
 
@@ -61,7 +61,7 @@ Designers can replicate this by placing simple barrier systems — fences, logs,
 
 ### Ancient Stone Wall Traps
 
-Mud and stone traps found in Tasmania and built by Maori and other Polynesian peoples are among the oldest known aquaculture structures:
+Mud and stone traps found in Tasmania and built by Maori and other Polynesian peoples are among the oldest known [[aquaculture-structures-and-cage-culture]]:
 
 - Stone walls extend just below the surface at high tide (about six inches below)
 - Fish swim freely over the walls at high tide
@@ -84,7 +84,7 @@ Oysters grow best at **60% air exposure** — meaning they spend 60% of the tida
 - Below ideal exposure (fully immersed): much more shell, less meat
 - At ideal exposure: modest shell with abundant meat
 
-Inland oyster cultivation using tide ponds is **far easier** than open-ocean raft culture and is self-governed to provide ideal exposure conditions. Clients can generate significant income breeding oysters and selling spat.
+Inland [[comparison-cordyceps-vs-oyster-cultivation]] using tide ponds is **far easier** than open-ocean raft culture and is self-governed to provide ideal exposure conditions. Clients can generate significant income breeding oysters and selling spat.
 
 ### Lobsters
 
@@ -147,14 +147,3 @@ Maximizing edges through islands and peninsulas increases the productive interfa
 - Establish edges quickly with desired species before undesirable species colonize
 - Decide on edge species deliberately rather than allowing random colonization
 - If rushes begin to dominate, they can close off the entire marginal surface
-
-## The Design Philosophy
-
-The fundamental insight of tidal aquaculture is that **the sea does the work**. It delivers water, nutrients, organisms, and energy for free. The designer's role is to create the structures — channels, ponds, barriers, funnels — that capture and organize this natural abundance into productive systems. This stands in sharp contrast to conventional aquaculture, which pumps, feeds, heats, and medicates at enormous energy cost.
-
-A single bulldozer and a sloping site are, in [[bill-mollison]]'s estimation, sufficient to design and build sewage treatment and food production systems for entire towns — replacing millions of dollars in engineering infrastructure with productive wetland systems that generate employment, food, and raw materials while purifying water.
-
-## See Also
-- [[tidal-estuarine-aquaculture-mollison]]
-- [[mollison-designers-aquatic-edge-planted-wetland-design]]
-- [[biological-sewage-treatment-with-aquatic-plants]]

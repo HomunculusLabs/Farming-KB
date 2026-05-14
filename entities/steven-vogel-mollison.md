@@ -44,7 +44,7 @@ Vogel's broader contribution was founding the field of comparative biomechanics,
 
 ## Source Reference
 
-Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 6 (Trees), Sections 6.3 (Wind Effects) and 6.5 (Trees and Precipitation). Cited as Vogel (1981).
+Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 6 (Trees), Sections 6.3 (Wind Effects) and 6.5 ([[trees-and-precipitation]]). Cited as Vogel (1981).
 
 ## Practical Applications
 

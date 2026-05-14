@@ -139,17 +139,11 @@ systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
-
 ## See Also
 
 - [[fukuoka-natural-farming-speech-1975]]
 - [[fukuoka-natural-garden-backyard-food-production]]
 - [[fukuoka-natural-grazing-ideal]]
+- [[fukuoka-natural-ideal-rice-plant-shape]]
 - [[fukuoka-natural-no-plan-best-plan]]
 - [[fukuoka-natural-why-no-fertilizer-tests]]

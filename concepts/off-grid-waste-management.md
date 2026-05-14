@@ -1,5 +1,5 @@
 ---
-title: Off-Grid [[community-recycling-waste-management]]
+title: "Off Grid Waste Management"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

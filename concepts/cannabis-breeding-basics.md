@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-breeding-fundamentals]] Basics
+title: "Cannabis Breeding Basics"
 created: 2026-04-12
 updated: 2026-04-13
 type: concept

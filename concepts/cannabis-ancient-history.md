@@ -83,6 +83,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[shamanism]]
+- shamanism
 - [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
 - [[cannabis-prohibition-history]]

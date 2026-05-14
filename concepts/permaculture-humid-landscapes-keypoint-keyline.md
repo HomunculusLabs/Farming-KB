@@ -69,3 +69,19 @@ Mollison noted that the keyline system requires careful surveying and earthwork,
 The contour map is the designer's primary tool. By studying where contours spread (keypoint locations), where they converge (water concentration points), and where they run parallel (potential irrigation channels), the entire water management plan for a property can be developed before any earth is moved.
 
 This approach stands in stark contrast to conventional water engineering, which typically dams the lowest point in the valley — creating a reservoir that is difficult to distribute from and that serves only a fraction of the landscape. The keyline principle of storing high and distributing wide represents one of permaculture's most practical and immediately applicable design insights.
+
+## Practical Applications
+
+Permaculture humid landscapes keypoint keyline has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of permaculture humid landscapes keypoint keyline has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## See Also
+
+- [[keypoint-and-keyline-in-humid-landscapes]]
+- [[query-how-does-keyline-design-work-in-permaculture]]
+- [[keyline-design]]
+- [[tropical-humid-and-coastal-climate-permaculture-design]]
+- [[keyline-water-conservation-mesothermal-landscapes]]

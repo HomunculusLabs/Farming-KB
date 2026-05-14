@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1346 pages**
+**1345 pages**
 
 ## A
 
@@ -257,7 +257,6 @@
 - [[coleman-weed-control]]
 - [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]]
 - [[coleman-winter-carrots]]
-- [[coleman-winter-greens]]
 - [[coleman-winter-greens-nutritional-quality-cold-sweetening]]
 - [[coleman-winter-greens-variety-selection]]
 - [[coleman-winter-harvest-cut-and-come-again-techniques]]

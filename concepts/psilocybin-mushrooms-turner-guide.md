@@ -10,7 +10,7 @@ sources:
 
 # Psilocybin Mushrooms
 
-D.M. Turner describes psilocybin mushrooms as possibly an "extraterrestrial infiltration of Earth." Intensity ranges from 3 to 7 for most experiences.
+D.M. Turner describes [[psilocybin-mushrooms-as-alien-symbiotes]] possibly an "extraterrestrial infiltration of Earth." Intensity ranges from 3 to 7 for most experiences.
 
 ## Material
 
@@ -56,7 +56,7 @@ Outdoor foraging carries risks from toxic lookalikes, particularly Galerina spec
 
 ## Species Potency Comparison
 
-Psilocybin content varies enormously between species. Psilocybe cubensis, the most commonly cultivated species, typically contains 0.5-1.0% psilocybin by dry weight. More potent species include Psilocybe azurescens (up to 1.8%), Psilocybe bohemica (up to 1.5%), and Psilocybe semilanceata (liberty caps, 0.5-2.5%). Wood-loving species like P. azurescens and P. cyanescens tend to be significantly more potent than dung-loving species like P. cubensis.
+Psilocybin content varies enormously between species. Psilocybe cubensis, the most commonly cultivated species, typically contains 0.5-1.0% psilocybin by dry weight. More potent species include Psilocybe azurescens (up to 1.8%), Psilocybe bohemica (up to 1.5%), and [[liberty-cap-psilocybe-semilanceata-history-biology]] (liberty caps, 0.5-2.5%). Wood-loving species like P. azurescens and P. cyanescens tend to be significantly more potent than dung-loving species like P. cubensis.
 
 ## Cultivation and Identification
 
@@ -80,7 +80,7 @@ Natural psychedelics like psilocybin mushrooms have an excellent safety profile.
 ## Overview
 
 Psilocybin Mushrooms Turner Guide represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Psilocybin Mushrooms Turner Guide finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 psilocybin mushrooms turner guide and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

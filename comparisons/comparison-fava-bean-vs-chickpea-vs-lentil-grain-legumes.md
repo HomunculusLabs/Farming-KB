@@ -23,7 +23,7 @@ created: 2026-05-03
 
 # Fava Bean vs Chickpea vs Lentil: Grain Legume Comparison
 
-Fava beans (*Vicia faba*), chickpeas (*Cicer arietinum*), and lentils (*Lens culinaris*) are three of the world's most important cool-season grain legumes. Each plays a vital role in sustainable agriculture through nitrogen fixation, human nutrition, and [[building-soil-fertility-long-term]] nitrogen in rotations. Lentils fix less total nitrogen due to their smaller biomass, but their N contribution is still agronomically meaningful in low-input systems.
+Fava beans (*[[vicia-faba]]*), chickpeas (*Cicer arietinum*), and lentils (*Lens culinaris*) are three of the world's most important cool-season grain legumes. Each plays a vital role in sustainable agriculture through nitrogen fixation, human nutrition, and [[building-soil-fertility-long-term]] nitrogen in rotations. Lentils fix less total nitrogen due to their smaller biomass, but their N contribution is still agronomically meaningful in low-input systems.
 
 ## Yields
 

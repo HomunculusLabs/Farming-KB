@@ -138,12 +138,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
 
-- [[coleman-la-quentinie-versailles-potager]]
-- [[coleman-mache]]
-- [[coleman-pac-man-salad-mixer]]
-- [[coleman-pest-management]]
-- [[coleman-row-cover-trial-lightweight-heavyweight-sun-run]]
-- [[coleman-soil-block-transplant-system]]
-- [[coleman-summer-crops]]
+- [[coleman-willow-basket-hotte-manure-transport]]
+- [[coleman-winter-harvesting-logistics-workflow]]
+- [[coleman-winter-soil-health]]

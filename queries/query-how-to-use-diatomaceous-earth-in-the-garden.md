@@ -1,5 +1,5 @@
 ---
-title: "How to Use [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] in the Garden"
+title: "Query How To Use Diatomaceous Earth In The Garden"
 created: 2026-04-28
 tags: [query, pest-control, organic-gardening, diatomaceous-earth]
 date: 2026-04-25

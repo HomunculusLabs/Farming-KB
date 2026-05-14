@@ -11,7 +11,7 @@ topics: [mycology, mushroom-cultivation, fruiting-chamber, humidity-management, 
 
 ## Overview
 
-The GUILD cultivation guide describes a minimalist fruiting chamber system
+The GUILD cultivation guide describes a minimalist [[fruiting-chamber]] system
 that achieves reliable mushroom production without humidifiers, cool-mist
 devices, or other powered [[passive-humidity-fruit-chamber-polyethylene-sheeting]], with [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*.
 
@@ -67,7 +67,7 @@ A species-specific cold shock treatment is recommended:
   needed
 - **Psilocybe mexicana**: Does not benefit from cold shock
 - **[[psilocybe-tampanensis-entity]]**: Does not benefit from cold shock
-- **Panaeolus subbalteatus**: Does not benefit from cold shock
+- **[[panaeolus-subbalteatus]]**: Does not benefit from cold shock
 
 This selective application contrasts with some guides that recommend cold
 shocking all species indiscriminately. The GUILD approach reserves cold shock

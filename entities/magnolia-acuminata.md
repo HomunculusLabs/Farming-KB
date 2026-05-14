@@ -11,17 +11,17 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Callaway, D.J. (1994). "The World of Magnolias." Timber Press.
-  - United States Forest Service. "Silvics of North America: Magnolia acuminata."
+  - United States Forest Service. "Silvics of [[guzman-psilocybin-mushrooms-north-america]]: Magnolia acuminata."
   - Treseder, L.C. (1994). "Magnolias of the World." Royal Botanic Gardens, Kew.
 ---
 
 ## Overview
 
-**Magnolia acuminata**, commonly known as the cucumber tree, is the largest of the native North American magnolia species. It is a deciduous tree valued for its timber, ornamental qualities, and ecological importance in eastern deciduous forests.
+**Magnolia acuminata**, commonly known as the cucumber tree, is the largest of the native [[growing-gourmet-north-american-reishi-species]] magnolia species. It is a deciduous tree valued for its timber, ornamental qualities, and ecological importance in eastern deciduous forests.
 
 The species is the most cold-hardy of all magnolias, naturally occurring farther north than any other member of the genus. Its common name derives from the cucumber-like appearance of its immature fruit.
 
-This tree serves as a parent in several important hybrid magnolias, contributing cold hardiness and yellow flower color to cultivated varieties. It is the state flower of Mississippi in its southern range forms.
+This tree serves as a parent in several important hybrid magnolias, contributing [[coleman-cold-hardiness-testing-ratings]] and yellow flower color to cultivated varieties. It is the state flower of Mississippi in its southern range forms.
 
 ## Taxonomy
 
@@ -47,7 +47,7 @@ Cucumber trees reach heights of 18–30 meters (60–100 feet) under optimal con
 
 The leaves are large, measuring 15–25 cm in length and 8–12 cm in width. They are elliptic to oblong-lanceolate in shape with entire margins and acuminate tips.
 
-The upper leaf surface is dark green and smooth, while the underside is paler with fine pubescence along the veins. Autumn coloration is yellow to bronze, though less spectacular than many other deciduous trees.
+The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green and smooth, while the underside is paler with fine pubescence along the veins. Autumn coloration is yellow to bronze, though less spectacular than many other deciduous trees.
 
 Flowers are terminal, solitary, and measure 5–8 cm in diameter. They are yellowish-green to green, less showy than other magnolias, appearing in May to June after leaf emergence.
 
@@ -57,11 +57,11 @@ Bark is dark gray to brown, developing furrows and ridges with age. Young branch
 
 ## Distribution and Habitat
 
-*Magnolia acuminata* is native to eastern North America, ranging from southern Ontario and western New York south to Mississippi and Alabama, and west to Missouri and Arkansas.
+*Magnolia acuminata* is native to [[polypore-fungi-eastern-north-america]] America, ranging from southern Ontario and western New York south to Mississippi and Alabama, and west to Missouri and Arkansas.
 
 The species reaches its greatest size in the Appalachian Mountains and the Cumberland Plateau. It is most abundant in rich, moist coves and lower mountain slopes.
 
-It grows in mixed hardwood forests, often associated with [[quercus-alba]], [[fagus-grandifolia]], and [[tilia-americana]]. It is a component of the mixed mesophytic forest association.
+It grows in mixed hardwood forests, often associated with [[quercus-alba]], [[fagus-grandifolia]], and [[tilia-americana]]. It is a component of the mixed [[guzman-allen-gartz-mexico-mesophytic-forest-neurotropic-hotspot]] association.
 
 Optimal growth occurs on deep, fertile, well-drained loam soils with a pH of 5.0–6.5. The species is somewhat shade-tolerant in youth but becomes more light-demanding with maturity.
 

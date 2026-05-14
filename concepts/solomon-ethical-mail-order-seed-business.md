@@ -79,7 +79,7 @@ Purchasers have a far higher likelihood of success when their seed supplier's tr
 
 ## Solomon's Evaluation Methodology
 
-In 1989, Solomon conducted a comprehensive evaluation of mail-order seed companies for *Harrowsmith* magazine. As the ex-owner of Territorial Seed Company, he brought insider knowledge to the evaluation:
+In 1989, Solomon conducted a comprehensive evaluation of mail-order seed companies for *Harrowsmith* magazine. As the ex-owner of [[territorial-seed-company]], he brought insider knowledge to the evaluation:
 
 1. Sent 69 questionnaires asking about trials grounds, germination testing, and self-produced varieties
 2. About half declined to respond (which Solomon found unsurprising)

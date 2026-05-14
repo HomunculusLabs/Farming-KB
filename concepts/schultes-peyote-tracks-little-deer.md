@@ -19,7 +19,7 @@ type: concept
 Peyote (*[[chiric-caspi-brunfelsia-south-american-hallucinogen]]
   [[plants-of-the-gods-cannabis-ancient-cultures]] for another plant
   with deep ceremonial significance across cultures
-- [[schultes-psilocybe-little-flowers-gods]] for Mexican sacred
+- [[schultes-psilocybe-little-flowers-gods]] for [[mexican-sacred-mushroom-traditions]]
   mushrooms used in similar divinatory contexts
 ## Practical Applications
 
@@ -38,7 +38,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

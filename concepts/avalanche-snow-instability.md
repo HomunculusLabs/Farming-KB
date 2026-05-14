@@ -10,7 +10,7 @@ Avalanches are among the most destructive natural forces in mountain and
 highland environments. Understanding snow instability — its triggers, movement
 modes, ecological indicators, and prevention strategies — is essential for
 [[permaculture-design]] in cold-climate regions. Mollison emphasizes that
-[[avalanche]]-prone areas can be identified through observation and that prevention
+[[avalanche-phenomenon]]-prone areas can be identified through observation and that prevention
 through strategic land use and vegetation management is far more effective than
 reaction.
 

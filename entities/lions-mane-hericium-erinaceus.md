@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Lion's Mane is a species of edible and medicinal mushroom belonging to the tooth fungus group, native to North America, Europe, and Asia. It is recognized by its distinctive cascading white spines that resemble a lion's mane, and has been used for centuries in traditional Chinese and Japanese medicine. Modern research has focused on its neuroprotective and cognitive-enhancing properties, making it one of the most studied medicinal mushrooms in contemporary neuroscience.
+Lion's Mane is a species of edible and medicinal mushroom belonging to the tooth fungus group, native to North America, Europe, and Asia. It is recognized by its distinctive cascading white spines that resemble a lion's mane, and has been used for centuries in traditional Chinese and Japanese medicine. Modern research has focused on its neuroprotective and cognitive-enhancing properties, making it one of the most studied [[medicinal-mushrooms]] in contemporary neuroscience.
 
 ## Taxonomy
 
@@ -35,7 +35,7 @@ Lion's Mane is a species of edible and medicinal mushroom belonging to the tooth
 ### Related Species
 
 - *[[hericium-americanum]]* (Bear's Head Tooth)
-- *Hericium erinaceus* var. *novae-zealandiae* (New Zealand variant)
+- *[[hericium-erinaceus]]* var. *novae-zealandiae* (New Zealand variant)
 
 ## Morphology
 

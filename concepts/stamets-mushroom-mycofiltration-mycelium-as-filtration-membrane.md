@@ -15,7 +15,7 @@ Mycofiltration is the use of mushroom mycelium as a biological filtration membra
 
 The mycelium is a fabric of interconnected, interwoven strands of cells called hyphae. A single colony can range from the size of a half-dollar to many acres in extent. A cubic inch of soil can host up to a mile of mycelium. This organism can be physically separated into pieces, and yet each fragment behaves as part of one unified whole, demonstrating the remarkable integrative properties of fungal networks.
 
-The exquisite lattice-like structure of the mushroom mycelium, often referred to as the mycelial network, is perfectly designed as a filtration membrane. Each colony extends long, complex chains of cells that fork repeatedly in matrix-like fashion, spreading to geographically defined borders. The mushroom mycelium, being a voracious forager for carbon and nitrogen, secretes extracellular enzymes that unlock organic complexes. The newly freed nutrients are then selectively absorbed directly through the cell walls into the mycelial network.
+The exquisite lattice-like structure of the mushroom mycelium, often referred to as the mycelial network, is perfectly designed as a filtration membrane. Each colony extends long, complex chains of cells that fork repeatedly in matrix-like fashion, spreading to geographically defined borders. The mushroom mycelium, being a voracious forager for carbon and nitrogen, secretes [[fungal-extracellular-enzymes]] that unlock organic complexes. The newly freed nutrients are then selectively absorbed directly through the cell walls into the mycelial network.
 
 ## Mechanism of Filtration
 
@@ -33,7 +33,7 @@ Beyond physical capture, mycofiltration operates through active biological proce
 
 ### Nematode Trapping
 
-A remarkable aspect of mycofiltration is the parasitic relationship between certain mushroom mycelia and nematodes. The classic saprophyte, the voracious Oyster mushroom (Pleurotus ostreatus), has been found to be parasitic against nematodes (Thorn & Barron, 1984). The extracellular enzymes act like an anesthetic, stunning the nematodes and allowing the mycelium to invade their immobilized bodies directly. This predatory capability means that mycofiltration can reduce populations of harmful nematodes in agricultural runoff.
+A remarkable aspect of mycofiltration is the parasitic relationship between certain mushroom mycelia and nematodes. The classic saprophyte, the voracious Oyster mushroom ([[cancer-medicinal-mushrooms-pleurotus-ostreatus]]), has been found to be parasitic against nematodes (Thorn & Barron, 1984). The extracellular enzymes act like an anesthetic, stunning the nematodes and allowing the mycelium to invade their immobilized bodies directly. This predatory capability means that mycofiltration can reduce populations of harmful nematodes in agricultural runoff.
 
 ## Applications in Agricultural Settings
 
@@ -49,11 +49,11 @@ The mycofiltration concept is incorporated into an integrated farm model explore
 
 ## Relationship to Bioremediation
 
-Mycofiltration is closely related to but distinct from mycoremediation. Mycofiltration focuses on the removal of biological contaminants (bacteria, nematodes, particulate organic matter) from water through the physical and biological action of the mycelial network. Mycoremediation, by contrast, focuses on the degradation of chemical pollutants (petroleum hydrocarbons, PCBs, pesticides) through the enzymatic action of wood-rotting fungi.
+Mycofiltration is closely related to but distinct from mycoremediation. Mycofiltration focuses on the removal of biological contaminants (bacteria, nematodes, particulate organic matter) from water through the physical and biological action of the mycelial network. Mycoremediation, by contrast, focuses on the degradation of chemical pollutants ([[mycoremediation-petroleum-hydrocarbons]], PCBs, pesticides) through the enzymatic action of wood-rotting fungi.
 
-The [[white-rot-fungi]] (particularly Phanerochaete chrysosporium) and brown rot fungi (notably Gloeophyllum species) are the most widely used organisms for mycoremediation. These wood-rotters produce lignin peroxidases and cellulases with unusually powerful degradative properties. These extracellular enzymes evolved to break down plant fiber, primarily lignin-cellulose, but by happenstance they also reduce recalcitrant hydrocarbons and other man-made toxins.
+The [[white-rot-fungi]] (particularly [[phanerochaete-chrysosporium]]) and brown rot fungi (notably Gloeophyllum species) are the most widely used organisms for mycoremediation. These wood-rotters produce lignin peroxidases and cellulases with unusually powerful degradative properties. These extracellular enzymes evolved to break down plant fiber, primarily lignin-cellulose, but by happenstance they also reduce recalcitrant hydrocarbons and other man-made toxins.
 
-Both processes share the fundamental principle that the mycelial network, with its enormous surface area and enzymatic capabilities, can serve as an active biological treatment system rather than a passive filter.
+Both processes share the fundamental principle that the mycelial network, with its enormous surface area and [[fungal-enzymatic-capabilities]], can serve as an active biological treatment system rather than a passive filter.
 
 ## The Stropharia rugoso-annulata Model
 
@@ -78,7 +78,7 @@ Research documented in Stamets' bibliography (1993) demonstrated mycofiltration 
 - **Flow rate management**: Excessive water flow can overwhelm the filtration capacity
 - **Competitor organisms**: Wild fungi and bacteria may colonize the filter bed
 - **Longevity**: Filter beds may need periodic replenishment or re-inoculation
-- **Regulatory framework**: Mycofiltration is not yet widely recognized or regulated as a water treatment method
+- **[[mycoremediation-regulatory-framework]]**: Mycofiltration is not yet widely recognized or regulated as a water treatment method
 
 ## Legacy and Evolution
 

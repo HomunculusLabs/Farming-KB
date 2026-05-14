@@ -6,13 +6,13 @@ type: concept
 
 # Mushroom Extracts from Grain Spawn
 
-Mushroom extracts prepared from grain spawn offer a powerful and scalable approach to producing medicinal fungal products. Unlike traditional methods that rely on fresh or dried fruiting bodies, grain spawn extraction leverages the mycelial biomass produced during the spawn colonization phase. This technique is especially valuable for mushrooms that are difficult to fruit, slow to mature, or that produce their medicinal compounds predominantly in the mycelial stage.
+Mushroom extracts prepared from [[grain-spawn]] offer a powerful and scalable approach to producing medicinal fungal products. Unlike traditional methods that rely on fresh or dried fruiting bodies, grain spawn extraction leverages the mycelial biomass produced during the spawn colonization phase. This technique is especially valuable for mushrooms that are difficult to fruit, slow to mature, or that produce their medicinal compounds predominantly in the mycelial stage.
 
 ## Advantages of Grain Spawn Extraction
 
-The primary advantage of making extracts from grain spawn is the speed and volume of production. When cultures are pure and properly maintained, mycelium can be expanded onto sterilized grain in large quantities relatively quickly. This is particularly attractive for species that are extremely slow to form fruiting bodies, such as agarikon (*Laricifomes officinalis*) and other large polypores. By bypassing the fruiting stage entirely, cultivators can produce extracts in weeks rather than months or years.
+The primary advantage of making extracts from grain spawn is the speed and volume of production. When cultures are pure and properly maintained, mycelium can be expanded onto sterilized grain in large quantities relatively quickly. This is particularly attractive for species that are extremely slow to form fruiting bodies, such as agarikon (*[[laricifomes-officinalis]]*) and other large polypores. By bypassing the fruiting stage entirely, cultivators can produce extracts in weeks rather than months or years.
 
-Another key benefit is quality control. When you make extracts yourself, you know the quality of your product. There are many commercially available mushroom extract products with low or absent levels of active compounds. By cultivating and extracting your own material, you can ensure potency and purity throughout the process.
+Another key benefit is quality control. When you make extracts yourself, you know the quality of your product. There are many commercially available [[mushroom-extract]] products with low or absent levels of active compounds. By cultivating and extracting your own material, you can ensure potency and purity throughout the process.
 
 ## Prerequisites and Safety
 
@@ -32,7 +32,7 @@ Supercolonization can be further enhanced by subjecting the grain spawn to fluor
 
 Mushroom pigments serve specific purposes, allowing fungi to respond to temperature and UV radiation through the production of different biochemical compounds — the same compounds that make mushroom extracts medicinal. Different species respond to different wavelengths of light:
 
-- **Golden oyster mushroom** (*Pleurotus citrinopileatus*) may use light in the 570–590 nanometer range to manufacture carotenoids entirely different from those produced by other species.
+- **Golden [[oyster-mushroom]]** (*Pleurotus citrinopileatus*) may use light in the 570–590 nanometer range to manufacture carotenoids entirely different from those produced by other species.
 - **Pink oyster** (*Pleurotus djamor*) produces its own unique set of pigments under different light conditions.
 
 Cultivating mushrooms under controlled wavelengths of light to determine morphological and biochemical differences represents an area of active experimentation. This research could improve breeding and cultivation of more potent medicinal strains by understanding how genetic expression varies under different environmental conditions.

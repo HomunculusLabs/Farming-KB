@@ -1,5 +1,5 @@
 ---
-title: Permaculture Site Resource Assessment
+title: Permaculture Site permaculture resource assessment and client consultation
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -24,8 +24,8 @@ A complete resource inventory begins with three fundamental categories:
 
 - **Existing vegetation** — native species, useful exotics, and weeds indicating soil conditions
 - **Timber and pole wood** from forest management for construction and fencing
-- **Biomass production** potential for mulch, [[compost]], and fuel
-- **Forest management** is essential: forests can produce continuous yields of firewood, building materials, and animal fodder while improving soil and water cycles
+- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]** potential for mulch, [[compost]], and fuel
+- **Forest management** is essential: forests can produce continuous yields of firewood, [[gadd-fungal-biodegradation-concrete-building-materials]], and animal fodder while improving soil and water cycles
 
 ### Energy Resources
 
@@ -83,7 +83,7 @@ Access roads should follow **keyline principles** — running along contour or w
 
 ## House Site Selection
 
-The house site is the most permanent and consequential decision. Selection criteria include:
+The house site is the most permanent and consequential decision. [[cannabis-breeding-traits-selection-criteria-clarke]] include:
 
 - **Solar access** — maximum winter sun exposure
 - **Protection from wind** — avoid exposed ridges and wind tunnels
@@ -120,7 +120,7 @@ These intensive systems demonstrate that [[permaculture-principles]] scale down 
 
 ### Zone One Pond Systems
 
-A small **pond in zone one** serves multiple functions: irrigation water, microclimate moderation, habitat for beneficial species, and aesthetic value. Mollison specifically recommends stocking ponds with **stratified tadpole populations** — different frog species breed at different times of year, ensuring continuous predation on mosquito larvae and other insect pests. This biological pest control eliminates the need for chemical interventions.
+A small **pond in zone one** serves multiple functions: irrigation water, microclimate moderation, [[query-how-do-i-design-habitat-for-beneficial-insects]] species, and aesthetic value. Mollison specifically recommends stocking ponds with **stratified tadpole populations** — different frog species breed at different times of year, ensuring continuous predation on mosquito larvae and other insect pests. This [[beneficial-insects-and-biological-pest-control]] eliminates the need for chemical interventions.
 
 ## Key Principles
 

@@ -17,7 +17,7 @@ type: concept
 
 # Soil Food Web Succession
 
-[[the-soil-food-web]] is not static; it undergoes predictable patterns of
+[[soil-food-web]] is not static; it undergoes predictable patterns of
 succession that mirror the development of aboveground plant communities. In
 "Teaming With Microbes," Lowenfels and Lewis describe how soils transition
 from bacterial-dominated systems to fungal-dominated systems as ecosystems

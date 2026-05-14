@@ -22,7 +22,7 @@ Several major substances with potent immunomodulating action have been isolated 
 "More than 100 types of polysaccharides have been isolated from G. lucidum." β-D-glucans have been shown to be biologically active. Modification of D-glucosyl groups of side chains enhanced anti-tumour activity.
 
 ### CR3 Receptor Binding
-"There is evidence that the β-D-glucans induce biological response by binding to membrane complement receptor type three (CR3, αMβ2 integrin, or CD11b/CD18) on immune effector cells such as macrophages."
+"There is evidence that the β-D-glucans induce [[medicinal-mushrooms-biological-response-modifiers]] by binding to membrane complement receptor type three (CR3, αMβ2 integrin, or CD11b/CD18) on immune effector cells such as macrophages."
 
 - The β-glucan binding site of CR3 has been mapped to a region of CD11b at the **C-terminus of the I-domain**
 - The ligand-receptor complex can be **internalised**
@@ -68,7 +68,7 @@ The major immunomodulating effects include:
 ### Macrophage Activation
 PSP activates peritoneal macrophages in tumour-bearing mice. The molecular basis for tumouricidal activity of activated macrophages involves:
 - **TNF secretion**
-- **Reactive nitrogen intermediates**: Suppress mitochondrial respiration of tumour cells
+- **Reactive nitrogen intermediates**: Suppress [[electron-transport-chain-mitochondrial-respiration]] of tumour cells
 - **Reactive oxygen intermediates**: Contribute to cytotoxicity against target cells
 
 ### No Direct Cytotoxicity
@@ -82,7 +82,7 @@ PSP stimulates cytokine production through gene expression and the production of
 ## Direct Cytotoxicity: Grifron-D
 
 ### Discovery of Direct Cytotoxic Effects
-"Recent evidence suggests that some mushroom polysaccharides may also possess cytotoxic properties." Grifron-D (a unique β-glucan from [[grifola-frondosa]] / Maitake) demonstrated direct cytotoxic effects on androgen-independent prostatic cancer PC-3 cells.
+"Recent evidence suggests that some [[clinical-trials-of-mushroom-polysaccharides-in-cancer-treatment]] may also possess cytotoxic properties." Grifron-D (a unique β-glucan from [[grifola-frondosa]] / Maitake) demonstrated direct cytotoxic effects on androgen-independent prostatic cancer PC-3 cells.
 
 ### Dose-Response
 - Almost complete (>95%) cell death attained in 24 hours with ≥480 µg/ml Grifron-D
@@ -94,11 +94,11 @@ PSP stimulates cytokine production through gene expression and the production of
 - **Oxidative membrane damage** resulting in **apoptotic cell death**
 - Vitamin C acts **synergistically** to potentiate activity
 
-"This bioactive β-glucan from the Maitake mushroom has a cytotoxic effect, presumably through oxidative stress, on prostatic cancer cells in vitro, leading to apoptosis."
+"This bioactive β-glucan from the [[maitake-mushroom-research]] has a cytotoxic effect, presumably through oxidative stress, on prostatic cancer cells in vitro, leading to apoptosis."
 
 ## Classification as Biological Response Modifiers
 
-"Pharmacologically, these mushroom compounds are classified as biological response modifiers and have antitumour activity, a result of activation or augmentation of the host's immune system or immunocompetency rather than direct cytotoxicity."
+"Pharmacologically, these [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]] are classified as biological response modifiers and have antitumour activity, a result of activation or augmentation of the host's immune system or immunocompetency rather than direct cytotoxicity."
 
 ### Immune Pathways Activated
 1. **Innate defences**: Cytotoxic macrophages, neutrophils, NK cells
@@ -123,4 +123,4 @@ PSP stimulates cytokine production through gene expression and the production of
 
 ## Key Insight: Dual Mechanism
 
-The discovery that Grifron-D has direct cytotoxic effects alongside the well-established immunomodulatory mechanisms of other mushroom compounds suggests that some [[medicinal-mushrooms]] may fight cancer through **both** direct tumour killing and immune enhancement—potentially the most effective combination.
+The discovery that Grifron-D has direct cytotoxic effects alongside the well-established [[immunomodulatory-mechanisms-of-mushroom-polysaccharides]] other mushroom compounds suggests that some [[medicinal-mushrooms]] may fight cancer through **both** direct tumour killing and immune enhancement—potentially the most effective combination.

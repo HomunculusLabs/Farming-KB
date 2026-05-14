@@ -1,5 +1,5 @@
 ---
-title: Planning Earthworks and Post-Earthworks Planting
+title: Planning Earthworks And Post Earthworks Planting
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Successful earthworks in permaculture depend on thorough planning before any soil is moved, and immediate planting after disturbance. This two-phase approach ensures that earthworks are properly designed, topsoil is preserved, and disturbed areas are rapidly stabilized with vegetation to prevent erosion and weed invasion.
+Successful earthworks in permaculture depend on thorough planning before any soil is moved, and immediate planting after disturbance. This two-phase approach ensures that earthworks are properly designed, topsoil is preserved, and disturbed areas are rapidly stabilized with vegetation to [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]] and weed invasion.
 
 ## Pre-Excavation Planning
 
@@ -74,7 +74,7 @@ A systematic approach to preparing a house site with drainage:
 
 Two critical reasons demand immediate planting after soil disturbance:
 
-1. **Erosion prevention** — bare slopes as gentle as 2% can suffer severe erosion, especially during rain events. Unprotected soil is quickly carried away by water and wind.
+1. **[[dighton-fungal-roles-soil-erosion-prevention]]** — bare slopes as gentle as 2% can suffer severe erosion, especially during rain events. Unprotected soil is quickly carried away by water and wind.
 2. **Weed prevention** — disturbed soil is an ideal seedbed for unwanted volunteer plants. If these establish, they become difficult to displace later and compete with desired species.
 
 ### Stabilization Strategies
@@ -89,12 +89,12 @@ If a full set of ground covers, pioneer species, and long-term plants can be est
 - Bulbs of lilies, grape hyacinth
 
 #### Perennial Roots and Divisions
-- Sunroot (Jerusalem artichoke), comfrey, chicory, horseradish, ginger, sweet potato, turmeric
+- Sunroot ([[comparison-jerusalem-artichoke-vs-potato]]), comfrey, chicory, horseradish, ginger, sweet potato, turmeric
 - Bamboo, banana grass, pampas grass, aloes, agave, New Zealand hemp
 
 #### Established Plantings
 - Elephant garlic, asparagus, globe artichoke
-- Cuttings of small fruits: elderberry, willow, poplar, mulberry, Pride of Madeira (*Echium fastuosum*)
+- Cuttings of small fruits: elderberry, willow, poplar, mulberry, Pride of Madeira (*[[echium-fastuosum]]*)
 - Tubed seedlings of Acacia, Prosopis, tagasaste, New Zealand mirror plant (*Coprosma*), pines, eucalypts
 
 These species compete well with self-sown weeds and, with little or no assistance, establish a varied and useful early and perennial crop system. Many species self-sow for subsequent years, and can be further divided or propagated from cuttings.
@@ -113,7 +113,7 @@ These species compete well with self-sown weeds and, with little or no assistanc
 
 #### Net and Pan System
 
-The "net and pan" planting pattern is effective on overgrazed, eroded, mined, or bulldozed sites. If tires are available, the "pans" can be made from them, filled with mulch, with diversion drains led in above the tread level.
+The "net and pan" planting pattern is effective on overgrazed, eroded, mined, or bulldozed sites. If tires are available, the "pans" can be made from them, filled with mulch, with [[diversion-drains-and-spreader-banks]] led in above the tread level.
 
 #### Log and Branch Barriers
 

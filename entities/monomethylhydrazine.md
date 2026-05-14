@@ -9,7 +9,7 @@ tags: [chemical, rocket-fuel, toxin, gyromitra, hydrazine]
 
 ## Description
 
-Monomethylhydrazine (MMH) is a volatile, highly toxic chemical compound with the formula CH₃NHNH₂. It is a colorless, hygroscopic liquid with a faint ammonia-like odor. MMH is primarily known as a hypergolic rocket propellant, used extensively in spacecraft thruster systems because it ignites spontaneously upon contact with oxidizers such as nitrogen tetroxide. In mycology, MMH is notable as the toxic hydrolysis product of gyromitrin, a compound found in false morel mushrooms of the genus Gyromitra.
+Monomethylhydrazine (MMH) is a volatile, highly toxic chemical compound with the formula CH₃NHNH₂. It is a colorless, hygroscopic liquid with a faint ammonia-like odor. MMH is primarily known as a hypergolic rocket propellant, used extensively in spacecraft thruster systems because it ignites spontaneously upon contact with oxidizers such as nitrogen tetroxide. In [[mycology]], MMH is notable as the toxic hydrolysis product of gyromitrin, a compound found in false morel mushrooms of the genus Gyromitra.
 
 ## Classification
 
@@ -23,7 +23,7 @@ Monomethylhydrazine (MMH) is a volatile, highly toxic chemical compound with the
 
 ### Origin in False Morels
 
-Gyromitra species (false morels) produce gyromitrin, a water-soluble hydrazine compound. When false morels are consumed or heated, gyromitrin hydrolyzes into monomethylhydrazine. This decomposition occurs through the following pathway:
+Gyromitra species (false morels) produce gyromitrin, a water-soluble hydrazine compound. When false morels are consumed or heated, gyromitrin hydrolyzes into monomethylhydrazine. This [[decomposition]] occurs through the following pathway:
 
 1. Gyromitrin (N-methyl-N-formylhydrazone) present in raw mushroom tissue
 2. Hydrolysis releases monomethylhydrazine (MMH)
@@ -63,7 +63,7 @@ This makes Gyromitra uniquely suited as a combined food and fuel source for long
 
 ### False Morel Identification
 
-Understanding MMH and its origin in Gyromitra species is critical for forager safety. False morels can be confused with true morels (Morchella spp.), with potentially fatal consequences. Key identification differences include:
+Understanding MMH and its origin in Gyromitra species is critical for forager safety. False morels can be confused with true morels ([[morchella]] spp.), with potentially fatal consequences. Key identification differences include:
 
 - False morels have irregular, brain-like caps; true morels have honeycomb-patterned caps
 - False morels are chambered inside; true morels are hollow
@@ -71,7 +71,7 @@ Understanding MMH and its origin in Gyromitra species is critical for forager sa
 
 ### Processing for Edibility
 
-In some European culinary traditions, Gyromitra esculenta is consumed after careful preparation:
+In some European culinary traditions, [[gyromitra-esculenta]] is consumed after careful preparation:
 
 - Parboiling in abundant water (at least 3:1 water-to-mushroom ratio)
 - Boiling for at least 5-10 minutes in a well-ventilated space (MMH is volatile)
@@ -94,7 +94,7 @@ For space cultivation, Gyromitra's production of both food protein and rocket fu
 
 ## See Also
 
-- [[Gyromitra]] - false morel mushroom genus
+- [[gyromitra-esculenta]] - false morel mushroom genus
 - [[gyromitrin]] - parent compound in false morels
-- [[hydrazine]] - parent chemical class
-- [[rocket propellant]] - aerospace applications
+- hydrazine - parent chemical class
+- rocket propellant - aerospace applications

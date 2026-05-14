@@ -1,5 +1,5 @@
 ---
-title: [[fungicide-treated-seed-hazard-mushroom-substrate-preparation]] and Heat Treatment
+title: "Mushroom Substrate Preparation Heat Treatment"
 source: Growing Gourmet and Medicinal Mushrooms (Stamets, 1993)
 tags: [mycology, mushroom-cultivation, substrate, pasteurization, sterilization]
 created: 2026-05-11

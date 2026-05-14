@@ -1,5 +1,5 @@
 ---
-title: Wild [[edible-wild-mushrooms-by-region]]
+title: "Wild Foraging Guide"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

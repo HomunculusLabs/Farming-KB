@@ -77,7 +77,7 @@ Diversity provides inherent pest resistance. When many species grow together in 
 
 ## Overview
 
-Natural Farming Guide Integrated Pest Management represents an important element within sustainable
+Natural Farming Guide [[integrated-pest-management]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

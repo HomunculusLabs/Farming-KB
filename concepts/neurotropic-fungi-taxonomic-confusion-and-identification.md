@@ -62,7 +62,7 @@ Similar contradictions exist for numerous other species. Stijve and Kuyper
 failed to find psilocybin in [[neurotropic-fungi-in-central-america]]
 Mexico, many in indigenous languages. The most famous, teonanacatl (divine
 mushroom), was first recorded by the sixteenth-century Spanish friar
-Bernardino de Sahagun and has been applied so indiscriminately that it is
+[[bernardino-de-sahagun]] and has been applied so indiscriminately that it is
 now used to name any Mexican hallucinogenic fungus. Among the most common
 Spanish names used by indigenous peoples are san isidros (a reference to
 the patron saint of agriculture), pajaritos (little birds), and derrumbes

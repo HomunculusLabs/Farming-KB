@@ -132,8 +132,8 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[holzer-permaculture-landscape-design]]
-- [[permaculture-design-concepts-and-methods-overview]]
-- [[permaculture-design-methods-summary]]
-- [[permaculture-design-science-concepts-themes]]
-- [[permaculture-designers-manual-wildlife-corridors]]
+- [[permaculture-principle-1-observe-interact]]
+- [[permaculture-principle-2-catch-store-energy]]
+- [[permaculture-principle-3-obtain-yield]]
+- [[permaculture-principle-4-self-regulation-feedback]]
+- [[permaculture-principle-5-renewable-resources-services]]

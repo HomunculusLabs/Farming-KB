@@ -1,5 +1,5 @@
 ---
-title: [[fish-pond-stock-management-and-construction]] Personal Survival in Wildfire
+title: "Stock Management And Personal Survival In Wildfire"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

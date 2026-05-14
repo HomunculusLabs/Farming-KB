@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Hotel Model Harvest Yields Building Analogy"
+title: Fukuoka Hotel Model Harvest Yields Building Analogy
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -13,7 +13,7 @@ the superiority [[fukuoka-mahayana-and-hinayana-natural-farming]]—a more restr
   intervention dominates and natural processes are heavily constrained.
 
 A critical insight: growth in Hinayana yields always parallels growth in
-scientific farming yields. Both are constrained subsets of the full natural
+[[fukuoka-illusions-of-scientific-farming]] yields. Both are constrained subsets of the full natural
 potential. Neither can escape the ceiling set by Circle 0.
 
 ## The Hotel/Building Model of Harvest Yields

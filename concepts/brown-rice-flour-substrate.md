@@ -91,11 +91,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[brown-rice-vinegar-brv]]
-- [[comparison-white-rot-vs-brown-rot-fungi]]
-- [[fukuoka-old-rice-variety-yield-scientific-agriculture-critique]]
-- [[gabe-brown]]
-- [[ingham-aact-orchard-disease-suppression-verticillium-brown-rot-cedar-rust]]

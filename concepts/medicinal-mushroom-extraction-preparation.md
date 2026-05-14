@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Extraction and Preparation
+title: Medicinal Mushroom Extraction Preparation
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -8,7 +8,7 @@ sources: [papers/cancer-medicinal-mushrooms-immune-modulation-beta-glucans|cance
 ---
 # Medicinal Mushroom Extraction and Preparation
 
-Medicinal mushrooms contain bioactive compounds that require proper
+[[anti-cancer-polysaccharides-from-medicinal-mushrooms]] contain [[cordyceps-cancer-bioactive-compounds]] that require proper
 extraction to become bioavailable. Different compounds are extracted by
 different methods: water for polysaccharides, alcohol for triterpenoids.
 Understanding these differences is critical for effective preparation.
@@ -19,7 +19,7 @@ The bioactive compounds discussed below — particularly [[functional-foods-medi
 
 ### Reishi (Ganoderma lucidum)
 - Polysaccharides: immune-stimulating beta-glucans (water-soluble)
-- Ganoderic acids: anti-coagulating, cholesterol-lowering
+- [[ganoderic-acids]]: anti-coagulating, cholesterol-lowering
   (alcohol-soluble triterpenoids)
 - Immuno-modulating proteins (Kino et al., 1989)
 - Anti-inflammatory activity comparable to hydrocortisone
@@ -52,10 +52,10 @@ The bioactive compounds discussed below — particularly [[functional-foods-medi
 ### Turkey Tail (Trametes versicolor)
 - PSK (polysaccharide-K): approved cancer drug in Japan since 1970s
 - PSP: protein-bound polysaccharide approved as medicine in China
-- Strong immune modulation through T-cell activation
+- Strong [[cancer-immune-modulation-mechanisms]] through T-cell activation
 
 ### Enoki (Flammulina velutipes)
-- FVP (Flammulina velutipes polysaccharide): anti-tumor
+- FVP ([[flammulina-velutipes]] polysaccharide): anti-tumor
 - 80-100% effective against Sarcoma 180 and Ehrlich carcinoma in
   laboratory studies
 

@@ -6,7 +6,7 @@ type: concept
 
 # Watts Self-Help Group and Urban Community Organizing
 
-[[bill-mollison]]'s account of the Watts Self-Help Group in Los Angeles represents one of the most remarkable examples of community organizing described in the [[permaculture]] literature. It demonstrates how [[permaculture-principles]] of careful observation, functional design, and non-stratified organization can be applied even in the most extreme urban environments.
+[[bill-mollison]]'s account of the Watts Self-Help Group in Los Angeles represents one of the most remarkable examples of community organizing described in the [[permaculture]] literature. It demonstrates how [[permaculture-principles]] of careful observation, [[functional-design-component-placement]], and non-stratified organization can be applied even in the most extreme [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
 
 ## Barney Mull: Origin Story
 
@@ -60,7 +60,7 @@ Local firms gave Barney thousands of dollars in support. Characteristically, he 
 
 ## Relevance to Permaculture
 
-While Watts is an extreme case, Mollison presents it as demonstrating universal permaculture principles:
+While Watts is an extreme case, Mollison presents it as demonstrating universal [[mollisonian-permaculture-principles]]:
 
 ### Observation Before Action
 Barney spent eight years observing the community before acting. His intimate knowledge of the streets, the gangs, and the people came from years of immersion, not from external analysis.
@@ -75,7 +75,7 @@ Barney worked with existing social structures (gangs) rather than trying to repl
 The unified gang network served employment, food production (gardens), security, and economic functions simultaneously—a direct parallel to permaculture's principle of each element serving multiple functions.
 
 ### Edge Effect
-Barney operated at the edge between extreme danger and community building. Mollison notes: "We must all count ourselves dead before we tackle real risks."
+Barney operated at the edge between extreme danger and [[homestead-community-building]]. Mollison notes: "We must all count ourselves dead before we tackle real risks."
 
 ## Barney's Death
 
@@ -87,7 +87,7 @@ The female newspaper reporter who originally led Mollison to Watts conducted her
 
 ## Lessons for Urban Permaculture
 
-1. **Extreme environments can be transformed**: Even Watts, one of America's most dangerous neighborhoods, proved amenable to systematic community organization
+1. **[[fungal-biodiversity-in-extreme-environments]] can be transformed**: Even Watts, one of America's most dangerous neighborhoods, proved amenable to systematic [[bioregionalism-and-community-organization]]
 2. **Existing social structures are assets**: Gangs became the organizational backbone rather than an obstacle
 3. **Personal commitment is the foundation**: Barney's total dedication—giving his life—created the legitimacy that made everything else possible
 4. **Fair dealing works even in violent contexts**: Despite operating in an environment of constant gunfire, fairness and openness were the principles that held the network together

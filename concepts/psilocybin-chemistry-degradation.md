@@ -1,5 +1,5 @@
 ---
-title: [[psilocin-and-psilocybin-chemistry]] Degradation
+title: "Psilocybin Chemistry Degradation"
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 created: 2026-05-09
 tags: [mycology, psilocybin, chemistry, degradation, potency, tryptamine, baeocystin, indole]

@@ -1,5 +1,5 @@
 ---
-title: "comparison cannabis decarboxylation chemistry vs edibles guide vs Edibles Guide"
+title: Comparison Cannabis Decarboxylation Chemistry Vs Edibles Guide
 created: 2026-04-28
 tags: [comparison, decarboxylation, edibles, chemistry, cooking]
 date: 2026-04-25
@@ -15,11 +15,11 @@ underlying chemical reaction that converts inactive acidic cannabinoids into the
 forms, focusing on the precise temperature, time, and environmental conditions needed for
 optimal conversion. The edibles guide takes a practical kitchen-focused approach to
 infusing food with cannabis, using decarboxylation as a necessary first step before
-moving on to butter and oil infusion techniques, dosing strategies, and the unique
+moving on to butter and oil infusion techniques, [[blesching-cannabis-dosing-strategies]], and the unique
 pharmacology of orally consumed cannabis.
 ## Decarboxylation Chemistry
 comparison [[query-how-to-make-cannabis-tinctures-at-home]] without needing to understand the underlying chemistry in depth. The practical,
-step-by-step approach to decarboxylation, infusion, and recipe preparation makes the
+step-by-step approach to decarboxylation, infusion, and [[casing-soil-peat-vermiculite-marl-sterilized-recipe-preparation]] makes the
 process accessible to cooks of all skill levels. The dosing guidance is particularly
 valuable for new consumers who may not be familiar with the delayed onset and prolonged
 duration of orally consumed cannabis, helping them avoid the common mistake of consuming
@@ -72,7 +72,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
@@ -80,7 +80,7 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

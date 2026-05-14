@@ -53,7 +53,7 @@ The dominator model is organized around **ranking** — who is above whom, who c
 3. **Hell** — The modern era, characterized by a degraded and hypocritical drug culture, mass alienation, ecological destruction, and the commodification of consciousness itself.
 
 4. **[[partnership-vs-dominator-culture]]
-- [[shamanism]]
+- shamanism
 - [[partnership-and-dominator-cultures-in-human-history]]
 
 ## Overview

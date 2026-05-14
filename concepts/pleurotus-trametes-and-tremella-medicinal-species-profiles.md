@@ -1,12 +1,12 @@
 ---
-title: Pleurotus Trametes and Tremella Medicinal Species Profiles
+title: Pleurotus Trametes And Tremella Medicinal Species Profiles
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
 # Pleurotus, Trametes, and Tremella Medicinal Species Profiles
 
-Three distinct mushroom genera—Pleurotus ([[oyster-mushrooms]]), Trametes (turkey tail), and Tremella (jelly fungi)—represent important medicinal species with diverse bioactive compounds ranging from cholesterol-lowering statins to powerful immunomodulators.
+Three distinct mushroom genera—Pleurotus ([[oyster-mushrooms]]), Trametes (turkey tail), and Tremella (jelly fungi)—represent important medicinal species with diverse [[cordyceps-cancer-bioactive-compounds]] ranging from cholesterol-lowering statins to powerful immunomodulators.
 
 ## Pleurotus ostreatus (Oyster Mushroom)
 
@@ -46,10 +46,10 @@ Popular edible mushroom with pleasant odour and taste. First artificially cultiv
 "Recent studies have shown that polysaccharides and polysaccharide-protein complexes from this mushroom have significant anti-cancer activity." Limited clinical studies in Japan and the USA have shown purified polysaccharide fractions highly effective against cancers of the **breast, lung, liver, prostate, and brain**.
 
 ### Immunological Properties
-β-glucan fractions now used by over **3,000 health professionals** in the US for prevention and treatment of:
+β-glucan fractions now used by over **3,000 health professionals** in the US for [[cannabis-root-rot-prevention-and-treatment]] of:
 - Flu and common infections (bacteria and viruses)
 - AIDS (HIV)
-- Diabetes mellitus
+- [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]]
 - Hypertension
 - Hypercholesterolemia
 - Urinary tract infections (particularly for women)
@@ -58,7 +58,7 @@ Popular edible mushroom with pleasant odour and taste. First artificially cultiv
 Other fractions exhibit immunological enhancement with anti-HIV, antihypertension, antidiabetic, and antiobesity properties.
 
 ### Commercial Products
-- Capsules with dried Maitake (widely accepted dietary supplements)
+- Capsules with dried Maitake (widely accepted [[functional-foods-and-dietary-supplements-from-medicinal-mushrooms]])
 - Maitake tea
 - Whole Maitake powder
 - Maitake drink
@@ -79,7 +79,7 @@ Used in traditional Chinese medicine to treat **liver diseases and gastric ulcer
 
 ### Antitumour Research
 - **Flammulin**: A basic simple protein that markedly inhibits tumour cells; purified to crystalline state; clinical trials in progress
-- **Proflamin**: New antitumour glycoprotein from cultured mycelium; useful in combination therapy with chemotherapy agents
+- **Proflamin**: New antitumour glycoprotein from cultured mycelium; useful in [[lentinan-gastric-cancer-combination-therapy]] with chemotherapy agents
 - "The first scientific paper stating that edible mushrooms were effective against a solid tumour was with Flammulina"
 
 ### Epidemiological Evidence
@@ -141,20 +141,10 @@ Contains acidic polysaccharides, especially **glucuronoxylomannan**, readily ext
 - Stimulates leukocyte activity
 
 ### Fermenter Production
-Med Myco Ltd. (Israel) developed submerged fermentation to produce **Tremellastin** from T. mesenterica mycelium containing:
+Med Myco Ltd. (Israel) developed [[cancer-medicinal-mushrooms-submerged-fermentation-production]] to produce **Tremellastin** from T. mesenterica mycelium containing:
 - 50% glucuronoxylomannan
 - Proteins rich in amino acids
 - Dietary fibre
 - B group vitamins
 
 "Dietary supplements from Tremella are only now beginning to expand into the Asian market, and they will certainly be of special significance in the cosmetic industry."
-
-## Comparative Summary
-
-| Species | Edible | Primary Compounds | Key Applications | Commercial Status |
-|---------|--------|-------------------|-----------------|-------------------|
-| **P. ostreatus** | Yes | β-glucans, lovastatin | Cholesterol-lowering, anticancer | Worldwide cultivation |
-| **G. frondosa** | Yes | β-glucans (Grifolan) | Cancer adjunct, immune support | Dietary supplements |
-| **F. velutipes** | Yes | Flammulin, Proflamin | Anticancer, liver/gastric | Major edible crop |
-| **T. versicolor** | No | PSK, PSP | Cancer adjunct (Japan) | Drug (PSK in Japan) |
-| **T. fuciformis** | Yes | Glucuronoxylomannan | Leukopenia, cosmetics | Growing market |

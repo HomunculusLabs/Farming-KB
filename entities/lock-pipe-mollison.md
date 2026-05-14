@@ -61,3 +61,27 @@ A complete dam typically includes four elements:
 - [[saddle-dam-mollison]] — high-elevation dams with lock-pipe release
 - [[earth-dam-building-mollison]] — construction techniques for dam walls
 - [[ram-pump-mollison]] — alternative water lifting device
+
+## Practical Applications
+
+Lock pipe mollison has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of lock pipe mollison has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## See Also
+
+- [[soil-erosion-mollison]]
+- [[mollison-designers-legume-shade-tree-pasture-systems]]
+- [[soil-catena-mollison]]
+- [[holdridge-life-zone-matrix-mollison]]
+- [[mollison-designers-passive-solar-building]]
+
+## Key Considerations
+
+When working with lock pipe mollison, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.
+
+## Integration Strategies
+
+Lock pipe mollison can be effectively integrated with complementary practices to create synergistic systems that maximize overall productivity and ecological function.

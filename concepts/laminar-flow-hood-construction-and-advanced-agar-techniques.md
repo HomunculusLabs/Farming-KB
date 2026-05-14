@@ -6,7 +6,7 @@ type: concept
 
 # Laminar Flow Hood Construction and Advanced Agar Techniques
 
-The laminar flow hood is the centerpiece of any mycology laboratory. It provides a sterile work environment by filtering ambient air through a HEPA filter and blowing a constant wall of clean air across the work surface, preventing contamination from airborne microorganisms. Beyond building the hood itself, advanced agar techniques -- including enrichment media, split gallery plates, and antibiotic supplementation -- allow cultivators to fine-tune their culture media for specific mushroom species and experimental purposes.
+The [[laminar-flow-hood]] is the centerpiece of any mycology laboratory. It provides a sterile work environment by filtering ambient air through a [[hepa-filter]] and blowing a constant wall of clean air across the work surface, preventing contamination from airborne microorganisms. Beyond building the hood itself, advanced agar techniques -- including enrichment media, split gallery plates, and antibiotic supplementation -- allow cultivators to fine-tune their culture media for specific mushroom species and experimental purposes.
 
 ## Laminar Flow Hood Function
 
@@ -50,7 +50,7 @@ Alternatively, samples of pesticides or other pollutants can be added to agar pl
 
 ## Split Gallery Plates
 
-Split plates create transitional or behavioral galleries for observing how fungi react to different concentrations of supplements or additives. One side contains an agar formula the mushroom has adapted to and prefers (such as potato agar), while the other side presents a more challenging medium.
+Split plates create transitional or behavioral galleries for observing how fungi react to different concentrations of supplements or additives. One side contains an agar formula the mushroom has adapted to and prefers (such as [[potato-agar]]), while the other side presents a more challenging medium.
 
 ### Construction Technique
 
@@ -58,7 +58,7 @@ To create a split gallery plate, set the petri dish base at an angle by resting 
 
 With additives creating the challenging medium, concentration can be increased with each consecutive transfer to determine tolerance levels for particular mycelial strains. This technique is especially useful for acclimating strains to new substrates or screening for pollutant degradation capacity.
 
-Dyes can also be used to mark zones or galleries on agar plates, allowing observation of mycelial behavior and growth in response to different formulas. Colored agars provide a more prominent background when photographing or observing species that produce faint mycelium, such as lion's mane (*Hericium erinaceus*).
+Dyes can also be used to mark zones or galleries on agar plates, allowing observation of mycelial behavior and growth in response to different formulas. Colored agars provide a more prominent background when photographing or observing species that produce faint mycelium, such as lion's mane (*[[hericium-erinaceus]]*).
 
 ## Adding Antibiotics to Agar
 
@@ -73,3 +73,15 @@ A sterile syringe is used for addition. The same syringe can be reused if both t
 ## Record Keeping
 
 Maintaining detailed records is essential for any laboratory operation. A laboratory notebook should track agar formulas, additives and their concentrations, species cultured, dates, transfer histories, contamination events, and performance observations. Color-coding systems for agar plates and consistent labeling conventions help manage the complexity of running multiple species and experiments simultaneously. Over time, these records become invaluable for optimizing formulas and troubleshooting problems.
+
+## Practical Applications
+
+[[laminar-flow-hood-construction]] and advanced agar techniques has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of laminar flow hood construction and advanced agar techniques has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## Key Considerations
+
+When working with laminar flow hood construction and advanced agar techniques, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.

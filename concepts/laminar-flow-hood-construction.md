@@ -6,8 +6,8 @@ type: concept
 
 # Laminar Flow Hood Construction
 
-A laminar flow hood is the single most important investment for anyone serious about
-mushroom cultivation, tissue culture, or any work requiring a sterile environment. It
+A [[laminar-flow-hood]] is the single most important investment for anyone serious about
+[[mushroom-cultivation]], tissue culture, or any work requiring a sterile environment. It
 provides a continuous stream of HEPA-filtered air across a work surface, creating a
 clean zone free of airborne contaminants such as mold spores and bacteria.
 
@@ -35,7 +35,7 @@ convenient, these prebuilt units carry a significant price premium and may not o
 customization needed for specific lab layouts or workflows.
 
 Building your own laminar flow hood is a highly practical alternative. A high-quality
-DIY unit can be assembled for roughly $400, covering the cost of a HEPA filter and a
+DIY unit can be assembled for roughly $400, covering the cost of a [[hepa-filter]] and a
 blower or fan, plus wood for the enclosure, a work surface, and fasteners. The savings
 are substantial, and the builder gains intimate knowledge of the unit's construction,
 which is invaluable for maintenance and troubleshooting down the road.
@@ -52,7 +52,7 @@ The preferred size for a full-size laminar flow hood is approximately 2 feet hig
 feet wide. This provides ample work surface area while remaining manageable in a home or
 small commercial lab setting. A smaller, separate laminar flow hood is also recommended
 for isolating wild specimens, molds, and sporulating cultures. Using a dedicated hood
-for dirty work protects the main filter from excessive spore loading and extends its
+for dirty work protects the main filter from excessive [[spore]] loading and extends its
 service life.
 
 ## Blower/Fan Selection

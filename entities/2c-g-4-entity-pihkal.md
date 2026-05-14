@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-G-4
 
-PIHKAL entry #29. 3,4-Tetramethylene-2,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #29. 3,4-Tetramethylene-2,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 

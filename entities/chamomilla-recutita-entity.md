@@ -11,7 +11,7 @@ sources:
 
 # Chamomilla recutita
 
-Chamomilla recutita (syn. Matricaria chamomilla), commonly known as German chamomile, is an annual herbaceous plant in the family Asteraceae. Native to Europe and Western Asia, it has been cultivated for centuries as a medicinal herb and is one of the most widely used botanical medicines in the world. The dried flower heads contain a complex mixture of volatile oils, flavonoids, and sesquiterpene lactones that confer anti-inflammatory, spasmolytic, and mild sedative properties. Chamomile preparations — primarily teas, extracts, and essential oils — are employed in traditional medicine systems across Europe, Asia, and the Americas for gastrointestinal complaints, anxiety, wound healing, and topical inflammation.
+Chamomilla recutita (syn. [[matricaria-chamomilla]]), commonly known as German chamomile, is an annual herbaceous plant in the family Asteraceae. Native to Europe and Western Asia, it has been cultivated for centuries as a medicinal herb and is one of the most widely used botanical medicines in the world. The dried flower heads contain a complex mixture of volatile oils, flavonoids, and sesquiterpene lactones that confer anti-inflammatory, spasmolytic, and mild sedative properties. Chamomile preparations — primarily teas, extracts, and essential oils — are employed in traditional medicine systems across Europe, Asia, and the Americas for gastrointestinal complaints, anxiety, wound healing, and topical inflammation.
 
 ## Taxonomy and Naming
 
@@ -63,7 +63,7 @@ The pharmacological activity of German chamomile derives from several compound c
 1. **Anti-inflammatory:** Apigenin and alpha-bisabolol inhibit cyclooxygenase (COX) and lipoxygenase (LOX) pathways, reducing prostaglandin and leukotriene synthesis. Topical chamomile creams reduce eczema symptoms in controlled trials.
 2. **Spasmolytic:** Flavonoid fractions relax smooth muscle in the gastrointestinal tract, supporting traditional use for colic and dyspepsia. In vitro studies demonstrate dose-dependent inhibition of acetylcholine-induced contractions in ileal tissue.
 3. **Anxiolytic and mild sedative:** Apigenin binds to central benzodiazepine receptors; clinical trials show modest anxiolytic effects compared to placebo. A double-blind study found chamomile extract significantly reduced generalized anxiety disorder (GAD) scores over 8 weeks.
-4. **Wound healing and antimicrobial:** Essential oil exhibits activity against Staphylococ [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Generally pest-resistant due to volatile oil content; may be affected by aphids, thrips, and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] mpanion planting:** Beneficial companion plant in vegetable gardens; said to improve flavor of neighboring brassicas and onions; attracts pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+4. **Wound healing and antimicrobial:** Essential oil exhibits activity against Staphylococ [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Generally pest-resistant due to volatile oil content; may be affected by aphids, thrips, and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] mpanion planting:** Beneficial companion plant [[maintaining-organic-matter-in-vegetable-gardens]]; said to improve flavor of neighboring brassicas and onions; attracts pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 
 ## Similar Species
 
@@ -76,7 +76,7 @@ The pharmacological activity of German chamomile derives from several compound c
 ## Overview
 
 Chamomilla Recutita Entity represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Chamomilla Recutita Entity finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 chamomilla recutita entity and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

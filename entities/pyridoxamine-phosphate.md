@@ -71,7 +71,7 @@ No net oxidation or reduction is required in the basic aminotransferase cycle.
 Instead, PMP functions as a temporary carrier of the amino group.
 The amino group is stored on the cofactor long enough for the first product to leave and the second substrate to enter.
 This makes PMP a chemically precise shuttle, not merely a passive intermediate.
-The reversibility of transamination makes PMP relevant to both amino acid synthesis and amino acid degradation.
+The reversibility of transamination makes PMP relevant to both [[cho-fish-amino-acid-preparation]] synthesis and amino acid degradation.
 
 ## Mechanistic Role
 

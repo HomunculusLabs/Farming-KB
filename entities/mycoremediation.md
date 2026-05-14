@@ -87,3 +87,13 @@ Mycelium-colonized substrate placed as permeable barriers in drainage pathways. 
 | *Trametes versicolor*         | High laccase production                       | PPCPs, dyes, phenols           |
 | *Ganoderma lucidum*           | [[mycoremediation-field-applications]]
 - [[mycoremediation-fungal-bioremediation]]
+
+## See Also
+
+- [[mycoremediation-fundamentals]]
+- [[mycoremediation-oil-spill-cleanup]]
+- [[mycoremediation-small-scale-applications]]
+- [[mycoremediation-soil-erosion-oil-spill-remediation]]
+- [[mycoremediation-testing-bioindicators]]
+- [[mycoremediation-testing-methods]]
+- [[mycoremediation-testing-protocols]]

@@ -14,7 +14,7 @@ Mollison presented alarming quantitative data on soil loss that remains relevant
 
 - **50% of all soils that existed before 1950 have been lost**
 - **Another 30% of remaining soils are degraded**
-- Soil creation rate: approximately **4 tons per acre per year** in humid climates
+- Soil creation rate: approximately **4 tons per acre per year** in [[berry-fruit-production-cool-humid-climates]]
 - Australian agricultural soil loss: **27 tons per acre per year** (nearly 7× the creation rate)
 - American corn-growing soil loss: up to **400–500 tons per acre per year** (100× the creation rate)
 - Per-capita soil cost of grain consumption: **12 tons of soil per person per year**
@@ -25,13 +25,13 @@ The implication is stark: at current rates, agricultural soils would be exhauste
 
 ### How Soils Are Created
 
-Soils are primarily created through the interaction of rainfall and plant life on parent rock material. In humid climates, the process produces approximately four tons of new soil per acre per year. In arid regions, the rate is much lower. Forests are among the very few soil-creating systems on Earth — they are not merely soil-preserving but actively soil-generating through root penetration, organic matter deposition, and the biological activity they support.
+Soils are primarily created through the interaction of rainfall and plant life on parent rock material. In humid climates, the process produces approximately four tons of new soil per acre per year. [[fukuoka-natural-farming-in-arid-regions]], the rate is much lower. Forests are among the very few soil-creating systems on Earth — they are not merely soil-preserving but actively soil-generating through root penetration, organic matter deposition, and the biological activity they support.
 
 ### How Soils Are Lost
 
 Soil loss occurs through multiple pathways:
 
-**Tillage erosion.** All tillage destroys soil structure. The act of plowing exposes soil to wind and water erosion, oxidizes organic matter, and disrupts the fungal networks and soil biology that maintain fertility. As Mollison stated: "As long as you are tilling, you are losing."
+**Tillage erosion.** All [[fukuoka-why-tillage-destroys-soil]] structure. The act of plowing exposes soil to wind and water erosion, oxidizes organic matter, and disrupts the fungal networks and soil biology that maintain fertility. As Mollison stated: "As long as you are tilling, you are losing."
 
 **Water erosion.** Without forest cover, rainfall impacts bare soil directly, detaching particles that are then carried away by surface runoff. The removal of forests from ridges is particularly destructive because it eliminates the sponge effect that absorbs and slowly releases water.
 
@@ -52,7 +52,7 @@ Under forest cover, rainfall penetrates the soil and percolates downward. Trees 
 When forests are removed, the pumping mechanism is eliminated. Deep water tables begin to rise at measurable rates across enormous areas. Mollison documented this process occurring across America, Africa, and Australia. The rising water tables bring dissolved salts closer to the surface in a predictable sequence:
 
 1. **At 3 feet below surface** — trees begin dying of "phasmids" (perceived as insect attack but actually salt stress)
-2. **At 18 inches below surface** — agricultural crops begin to fail
+2. **At 18 inches below surface** — [[fungal-endophytes-agricultural-crops]] begin to fail
 3. **At the surface** — salts evaporate and the soil visibly turns white with salt crystals
 
 At this point, the soil is effectively destroyed. Mollison noted that the Australian government then begins providing free pumps to farmers to pump out saline water — a response that must continue indefinitely. Meanwhile, the same government continues to issue wood-chipping licenses to multinational corporations. The result is a perverse economic cycle: companies sell both the pumps to deal with salinity and the wood chips that cause it.
@@ -98,12 +98,12 @@ Mollison's key insight was that these crises are not independent but form a posi
 4. **Climate instability** increases as forests (the primary climate moderators) disappear
 5. **Agricultural intensification** (more energy input on less land) accelerates all of the above
 
-The cycle can only be broken, Mollison argued, by a fundamental shift from extractive to regenerative land management — replacing annual tillage agriculture with permanent perennial systems, restoring forest cover on watersheds, and designing settlements that work within rather than against natural water and nutrient cycles.
+The cycle can only be broken, Mollison argued, by a fundamental shift from extractive to regenerative land management — replacing annual tillage agriculture with permanent perennial systems, restoring forest cover on watersheds, and designing settlements that work within rather than against natural water [[ozier-pdc-composting-and-nutrient-cycles]].
 
 ## See Also
 
 - [[introduction-to-permaculture]]
 - soil salinity and water table management
-- reforestation and watershed restoration
+- reforestation and [[broadscale-watershed-restoration-techniques]]
 - desertification patterns and reversal
 - climate instability and forest loss

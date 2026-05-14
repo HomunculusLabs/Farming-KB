@@ -12,7 +12,7 @@ updated: 2025-05-11
 sources:
   - Callaway, D.J. (1994). The World of Magnolias. Timber Press, Portland, OR.
   - Figlar, R.B. & Nooteboom, H.P. (2004). "Magnoliaceae." Flora of China, 7: 48-77.
-  - Spongberg, S.A. (1976). "Magnoliaceae hardy in temperate North America." Journal of the Arnold Arboretum, 57, 241-267.
+  - Spongberg, S.A. (1976). "Magnoliaceae hardy in temperate [[guzman-psilocybin-mushrooms-north-america]]." Journal of the Arnold Arboretum, 57, 241-267.
   - Ueda, K. (1988). "Flowering in Magnolia kobus." Plant Species Biology, 3, 19-24.
 ---
 
@@ -38,7 +38,7 @@ Synonyms include *Magnolia praecocissima* Koidz. and *Magnolia thurberi* Parsons
 
 Leaves are obovate to broadly elliptic, 8–15 cm long and 4–8 cm broad, dark green above and paler beneath. Margins are entire, and the leaf apex is abruptly acute with a short mucronate tip.
 
-Autumn color is a modest yellow to bronze, less spectacular than the spring floral display. Leaves drop cleanly in late October to November in most temperate regions.
+Autumn color is a modest yellow to bronze, less spectacular than the spring floral display. Leaves drop cleanly in late October to November in most [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Flower buds are large, ovoid, covered in silky silver-gray pubescence. They are conspicuous through winter, swelling visibly in early spring before opening.
 
@@ -58,15 +58,15 @@ The root system is deep and spreading, providing good wind-firmness once establi
 
 In Japan, it is found in deciduous broadleaved forests from sea level to 1,400 meters elevation. It grows along forest margins, stream banks, and on moist mountain slopes, often in association with *Acer palmatum*, *Quercus serrata*, and *Castanea crenata*.
 
-The species prefers moist, well-drained, slightly acidic soils rich in organic matter. It tolerates a range of soil types from sandy loam to clay, provided drainage is adequate.
+The species prefers moist, well-drained, slightly acidic soils rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. It tolerates a range of soil types from sandy loam to clay, provided drainage is adequate.
 
 It is relatively shade-tolerant when young but requires more light for optimal flowering as it matures. In forest settings, it grows as a subcanopy tree in gaps and along edges.
 
-The species demonstrates classic "advancing-front" phenology, where coastal populations bloom before inland ones. This geographic variation in flowering time is an adaptation to regional climate gradients.
+The species demonstrates classic "advancing-front" phenology, where coastal populations bloom before inland ones. This geographic variation in [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] is an adaptation to regional climate gradients.
 
 Wild populations are stable, and the species is not considered threatened. However, some populations in southern Korea are small and locally rare.
 
-The species was introduced to Western horticulture by Philipp Franz von Siebold around 1862. It quickly gained popularity in European and North American arboreta for its hardiness and reliable flowering.
+The species was introduced to Western horticulture by Philipp Franz von Siebold around 1862. It quickly gained popularity in European and [[growing-gourmet-north-american-reishi-species]] arboreta for its hardiness and reliable flowering.
 
 ## Ornamental Horticulture
 
@@ -100,7 +100,7 @@ The red-ariled seeds are dispersed by birds, particularly thrushes and bulbuls, 
 
 Seeds require several months of warm stratification followed by cold stratification to germinate. Natural germination occurs in the second spring after seed fall, a pattern typical of magnolias with double dormancy.
 
-The foliage hosts larvae of several Japanese Lepidoptera species. The tree contributes to forest structure and biodiversity as a mid-successional species in Japanese deciduous forests.
+The foliage hosts larvae of several Japanese Lepidoptera species. The tree contributes to [[mollison-wet-tropical-forest-structure-and-polyculture]] biodiversity as a mid-successional species in Japanese deciduous forests.
 
 *Magnolia kobus* is a component of the "spring ephemeral" flowering phenomenon in Japanese deciduous forests. By flowering before canopy closure, it exploits the brief window of high light availability.
 

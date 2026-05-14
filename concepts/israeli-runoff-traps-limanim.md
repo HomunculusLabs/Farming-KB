@@ -1,5 +1,5 @@
 ---
-title: Israeli Runoff Traps and Aquifer Intake Areas
+title: Israeli Runoff Traps Limanim
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -36,7 +36,7 @@ The runoff contributing area is typically **30 to 500 times** the impoundment ar
 
 The method of delivering runoff water to limanim significantly affects their longevity:
 
-- **Low-slope diversion drains** convey water gently, minimizing the kinetic energy that carries sediment
+- **Low-slope [[diversion-drains-and-spreader-banks]]** convey water gently, minimizing the kinetic energy that carries sediment
 - **Sheet flow** (unguided overland flow) is the gentlest delivery method and produces the least silting
 - High-velocity channelized flow should be avoided, as it delivers large sediment loads that rapidly fill impoundments
 
@@ -49,7 +49,7 @@ The method of delivering runoff water to limanim significantly affects their lon
 
 ## Aquifer Intake Areas
 
-Aquifer intake areas are landscape features where surface water enters groundwater storage through open subsurface channels. Identifying and protecting these zones is critical for maintaining spring flow, river baseflow, and well yields in dryland regions.
+Aquifer intake areas are [[desert-landscape-features-and-erosion-landforms]] where surface water enters groundwater storage through open subsurface channels. Identifying and protecting these zones is critical for maintaining spring flow, river baseflow, and well yields in dryland regions.
 
 ### Landscape Settings
 
@@ -66,7 +66,7 @@ Effective aquifer intake geologies include:
 - Loose gravel ridges with high interstitial porosity
 - Shattered or soluble rock formations (karst limestone, fractured basalt)
 - Dune sands with deep profiles
-- Forested ridges where root channels and organic matter maintain soil structure
+- Forested ridges where root channels [[hamilton-composting-and-organic-matter-management]] maintain soil structure
 - Porous limestone with solution channels
 
 ### Aquifer Behavior
@@ -91,7 +91,7 @@ Aquifer intakes are degraded by:
 Intake areas can be actively enhanced through several strategies:
 
 - **Planting trees on ridges and slopes** to maintain root channels and organic soil structure
-- **Deep interceptor drains** to capture runoff and direct it into permeable substrates
+- **Deep [[diversion-drains-interceptor-drains-spreader-banks]]** to capture runoff and direct it into permeable substrates
 - **Ripping rock pavement** to fracture sealed surfaces and restore infiltration
 - **Leading drains to wells** in shattered rock to maximize recharge
 - **Boulder banks and pits** in gravel deposits to slow flow and increase infiltration residence time
@@ -112,7 +112,7 @@ While primarily of historical interest today, their principle of gravity-fed gro
 
 ## Infiltration Rates by Soil Type
 
-Understanding infiltration rates is essential for sizing water harvesting earthworks. The following rates describe the time to infiltrate **25 mm of rainfall** under various soil conditions:
+Understanding infiltration rates is essential for sizing [[mollison-designers-swale-design-and-water-harvesting-earthworks]]. The following rates describe the time to infiltrate **25 mm of rainfall** under various soil conditions:
 
 ### Sand and Loess Soils
 

@@ -31,7 +31,7 @@ mechanical tillage. These aggregates create pore spaces that facilitate water
 infiltration, gas exchange, and root penetration. When aggregates are destroyed, soil
 becomes compacted, erosion-prone, and less capable of supporting microbial life.
 
-[[the-soil-food-web]] is profoundly affected by tillage. Mycorrhizal fungal networks, which
+[[soil-food-web]] is profoundly affected by tillage. Mycorrhizal fungal networks, which
 extend root reach and facilitate nutrient exchange, are physically severed by tilling.
 It takes weeks to months for these networks to reestablish. Earthworm populations,
 which create macropores and cycle nutrients through their digestive tracts, decline

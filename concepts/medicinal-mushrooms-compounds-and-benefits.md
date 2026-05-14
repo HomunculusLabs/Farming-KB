@@ -61,7 +61,7 @@ regulation.
 Turkey tail is one of the most researched medicinal mushrooms. Its
 beta-glucan polysaccharopeptide (PSP) and polysaccharide-K (PSK) are
 used as cancer adjuvant therapies in several countries. PSK is
-prescribed in Japan as an approved cancer treatment adjunct.
+prescribed in Japan as an approved cancer [[blesching-cannabis-hepatitis-antiviral-treatment-adjunct]].
 
 ### Cordyceps (Cordyceps militaris and C. sinensis)
 
@@ -73,7 +73,7 @@ structurally resembles adenosine and can interfere with cellular
 ## Overview
 
 Medicinal Mushrooms Compounds And Benefits represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Medicinal Mushrooms Compounds And Benefits finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -102,13 +102,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for medicinal mushrooms compounds and benefits. Climate adaptation
+opportunities for medicinal mushrooms compounds and benefits. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 medicinal mushrooms compounds and benefits and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

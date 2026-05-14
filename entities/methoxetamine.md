@@ -29,7 +29,7 @@ sources:
 
 ## Overview
 
-Methoxetamine (MXE) is a synthetic dissociative compound of the arylcyclohexylamine
+Methoxetamine ([[mxe]]) is a synthetic dissociative compound of the arylcyclohexylamine
 class, structurally related to [[blesching-cannabis-safety-adverse-effects-evidence]] including bladder toxicity, psychological dependence, and
 fatal overdoses. The compound remains a significant case study in novel
 psychoactive substance (NPS) [[mckenna-modest-proposal-drug-policy-reform]].
@@ -43,7 +43,7 @@ psychoactive substance (NPS) [[mckenna-modest-proposal-drug-policy-reform]].
 - **SMILES:** COC1=CC=CC(=C1)C2(CCCCC2(=O)NCC)
 - **Appearance:** White to off-white crystalline powder; sold as powder,
   capsules, or tablets
-- **Solubility:** Soluble in water, ethanol, and lipid membranes
+- **Solubility:** Soluble in water, [[ethanol]], and lipid membranes
 
 ## Pharmacology
 

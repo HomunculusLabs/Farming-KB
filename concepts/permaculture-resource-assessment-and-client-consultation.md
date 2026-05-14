@@ -1,5 +1,5 @@
 ---
-title: Permaculture Resource Assessment and Client Consultation
+title: Permaculture Resource Assessment And Client Consultation
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -13,7 +13,7 @@ Resource assessment is one of the most valuable services a permaculture designer
 ### Earth Resources
 - **Water**: Potable water is a saleable commodity. Clients with clean springs or wells may bottle and sell water, especially as city consumers increasingly purchase bottled water from rural sources. Mollison observes city health enthusiasts "staggering upstairs with two great bottles of water that they bought from some farmer." However, in areas affected by acid rain, "to sell water would be selling acid." Water quality must be tested before any commercial exploitation. Water rights must also be verified — hillside landowners typically own the water on their property, but this should be confirmed legally.
 - **Clay and Minerals**: Clay deposits have commercial value for ceramics, building, and landworks. Designers should advise clients to secure miner's rights to clay and any other subsoil minerals before external interests claim them. The cost of staking a claim is minimal compared to the value of the resource.
-- **Topsoil and Rock**: Even seemingly unproductive features like quarries can be transformed. Mollison suggests building "a hanging garden in his quarry — another wonder of Ninevah." Rock serves as building material, thermal mass, and landscape feature.
+- **Topsoil and Rock**: Even seemingly unproductive features like quarries can be transformed. Mollison suggests building "a hanging garden in his quarry — another wonder of Ninevah." Rock serves [[bamboo-as-building-material]], thermal mass, and landscape feature.
 - **Gold and Mining Deposits**: A client of Mollison's discovered he had a gold mine and another mine on his property that he thought was "just a hole in the ground." The leases had lapsed through the mines department. The client might "do a little part-time gold mining, while making his pond." This illustrates how even ostensibly known properties can harbor unrecognized resources.
 
 ### Energy Resources
@@ -24,7 +24,7 @@ Resource assessment is one of the most valuable services a permaculture designer
 ### Biological Resources
 - **Plant Resources**: Existing vegetation — from timber to medicinal herbs — represents capital. The designer must help the client see the value in plants they may take for granted. Forest management can dramatically increase the standing biomass and productive capacity of woodlands.
 - **Animal Resources**: Wildlife and livestock potential should be assessed for both current use and future enterprise. Even wild animal populations represent a resource (as food, as pest controllers, as indicators of ecosystem health).
-- **Insect Life**: Pollinators and beneficial insects constitute a critical and often overlooked resource. Their presence indicates ecological health and supports all plant production.
+- **Insect Life**: Pollinators [[hemenway-insectary-plants-and-beneficial-insects]] constitute a critical and often overlooked resource. Their presence indicates ecological health and supports all plant production.
 
 ### Social and Extrinsic Resources
 Resources outside the property boundary are frequently missed by consultants. Mollison calls these "resources extrinsic to the site, resources that lie in the district":
@@ -43,7 +43,7 @@ Mollison offers blunt advice about wealthy clients: "If you get a rich client, w
 
 ## Ethical Boundaries
 
-If a client refuses to follow permaculture principles, the designer should recommend they hire someone else — "like the agriculture department, or a forestry commissioner, who will tell him how to cut his forest." Permaculture designers work on an ethical basis: increasing soil fertility, building stored energy, and working with natural systems rather than extracting from them. The designer's role is to "look out for the site, increasing the number of ways in which the site stores energy, increasing soil productivity, and building soil fertility, rather than taking it out." "If your client won't go along with some of these things, you can tell him that he wants somebody else."
+If a client refuses to follow [[mollisonian-permaculture-principles]], the designer should recommend they hire someone else — "like the agriculture department, or a forestry commissioner, who will tell him how to cut his forest." Permaculture designers work on an ethical basis: increasing soil fertility, building stored energy, and working with natural systems rather than extracting from them. The designer's role is to "look out for the site, increasing the number of ways in which the site stores energy, increasing soil productivity, and [[building-soil-fertility-long-term]], rather than taking it out." "If your client won't go along with some of these things, you can tell him that he wants somebody else."
 
 ## Legal Considerations
 
@@ -67,6 +67,22 @@ The overarching goal of resource assessment is to identify every avenue by which
 - [[permaculture-design-process]]
 - [Permaculture Zone Planning]([[permaculture-zone-planning-guide]].md)
 - [[permaculture-access-and-circulation-design]]
-- [[zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
+- [[zone-and-sector-analysis]](permaculture-[[zone-and-sector-analysis]].md)
 - [Earthworking and Earth Resources](bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources.md)
-- [Broadacre and Rural Design](bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design.md)
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design|Broadacre and Rural Design]]
+
+## Practical Applications
+
+Permaculture resource assessment and client consultation has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of permaculture resource assessment and client consultation has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## Key Considerations
+
+When working with permaculture resource assessment and client consultation, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.
+
+## Integration Strategies
+
+Permaculture resource assessment and client consultation can be effectively integrated with complementary practices to create synergistic systems that maximize overall productivity and ecological function.

@@ -1,5 +1,5 @@
 ---
-title: Solomon on solomon growing salad greens Greens: Lettuce, Spinach, and More
+title: Solomon Growing Salad Greens
 created: 2026-04-21
 updated: 2026-04-21
 type: "concept"
@@ -21,7 +21,7 @@ from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+[[historical-development-of-mushroom-cultivation]] of knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
 traditional knowledge combined with contemporary scientific methods.
@@ -62,7 +62,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

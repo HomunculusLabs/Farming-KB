@@ -12,7 +12,7 @@ created: 2026-05-09
 
 Edmond R. Badham's 1982 study of *[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 
-The *Phycomyces* sporangiophore is analogous in function to the *Psilocybe cubensis* basidiocarp stipe — both are erect structures that must position their spore-bearing structures for optimal dispersal.
+The *Phycomyces* sporangiophore is analogous in function to the *[[psilocybe-cubensis]]* basidiocarp stipe — both are erect structures that must position their spore-bearing structures for optimal dispersal.
 
 ## Shared Mechanism: Water Vapor and Evaporative Demand
 

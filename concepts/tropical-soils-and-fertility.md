@@ -1,5 +1,5 @@
 ---
-title: Tropical [[tropical-soils-and-fertility-management]]
+title: "Tropical Soils And Fertility"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -9,7 +9,7 @@ related: [grass-seed-as-mushroom-substrate, exotic-cultivation-flush-management-
 
 # Mushroom Casing Soil Recipes and Preparation
 
-A casing layer is a non-nutritive layer of material applied on top of
+[[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] is a non-nutritive layer of material applied on top of
 fully colonized substrate to induce and support [[brassinosteroid-growth-promotion-psilocybe-cubensis]]*, *P. mexicana*, and
 *[[fungal-fruiting-body-formation-environmental-triggers]] through several mechanisms:
 
@@ -29,7 +29,7 @@ specific ratios:
 - **5 parts vermiculite** — A mineral that improves aeration and water
   retention. Prevents the casing from compacting and improves drainage.
 - **2 parts limestone (marl)** — Raises the pH of the peat to a range
-  suitable for mushroom growth (pH 7.0–7.5) and provides calcium.
+  suitable for [[evaporative-demand-hypothesis-mushroom-growth]] (pH 7.0–7.5) and provides calcium.
 
 ## Preparation Procedure
 
@@ -52,10 +52,10 @@ The moistened casing soil is loaded into oven bags (nylon), autoclave bags
 — they need to allow steam penetration while containing the material.
 
 ### Sterilization
-The casing soil is sterilized in a pressure cooker at 15 PSI for one hour.
+The casing soil is sterilized in a [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] at 15 PSI for one hour.
 While some authors recommend only pasteurizing casing soil to preserve
-[[forest-and-bamboo-beneficial-microorganisms]], sterilized casing has been found to produce more
-reliable results, particularly for indoor cultivation where contamination
+[[forest-and-bamboo-beneficial-microorganisms]], [[sterilized-casing-soil-recipe-peat-vermiculite-limestone]] has been found to produce more
+reliable results, particularly for [[cannabis-sativa-indoor-cultivation-techniques]] where contamination
 pressure is high.
 
 ### Cooling and Application

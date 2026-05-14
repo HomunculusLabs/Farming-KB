@@ -1,6 +1,6 @@
 ---
-title: Aquatic Plant Systems and Water Storage
-source: bill-mollison-permaculture-design-course.md
+title: Aquatic Plant Systems
+source: bill-[[mollison-course-aquatic-plant-systems-ponds|mollison]]-permaculture-design-course.md
 type: concept
 ---
 
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Water is the scarcest and most critical resource in most landscapes, yet its management is often neglected in favor of above-ground systems. [[bill-mollison]]'s approach to water in permaculture treats every water body as a highly productive system, not merely a storage or livestock watering facility. Aquatic plants are described as "a neglected part of aquaculture" that can yield more productive output than animals. The design of ponds, bogs, marshes, and water edges integrates food production, habitat creation, water purification, and microclimate modification into a single system.
+Water is the scarcest and most critical resource in most landscapes, yet its management is often neglected in favor of above-ground systems. [[bill-mollison]]'s approach to water in [[permaculture]] treats every water body as a highly productive system, not merely a storage or livestock watering facility. Aquatic plants are described as "a neglected part of aquaculture" that can yield more productive output than animals. The design of ponds, bogs, marshes, and water edges integrates food production, [[amphibian-habitat-creation]], water purification, and [[tree-temperature-effects-and-microclimate-modification]] into a single system.
 
 ## Global Water Context
 
@@ -44,7 +44,7 @@ Algae production practically ceases at 12 feet deep. The only reason to maintain
 ### Floating and Submerged Plants (3-6 feet)
 
 - **Water lilies**: Best planted by burying the root in a bag of manure inside a tire, which constrains the plant and allows easy harvesting
-- **Chinese water chestnut**: Lives as a mud rush at this depth, producing large tubers
+- **[[chinese-water-chestnut-mollison]]**: Lives as a mud rush at this depth, producing large tubers
 - **Indian water chestnut**: A floating chestnut with an anchoring stem — a beautiful sight in India where women float bronze bowls ahead of them, picking chestnuts from the water. Requires careful, slow movement through stems to avoid damage.
 
 Many deeper-rooted species can be planted by wrapping seeds in clay balls with nutrients, weighting with stones, and dropping them into position.
@@ -53,7 +53,7 @@ Many deeper-rooted species can be planted by wrapping seeds in clay balls with n
 
 This is the most productive zone:
 - **Wild rice** (*Zizania*): Extremely important for ducks. Seed must be put into mud balls and thrown into ponds, as seeds don't have long air-storage life. Water plants often have fat, squashy seeds that fall, sink, and take root. Wild rice likes still lagoons, slow-flowing rivers, and oxbows, preferring 18 inches to three feet depth with some water movement. It has a three-week dropping period — gather for four to five days, and the rest falls as superb duck food.
-- **Taro* (*Colocasia esculenta*): Grows from coastal Florida to central Canada, in still or slow-flowing water up to three feet deep.
+- **Taro* (*[[colocasia-esculenta]]*): Grows from coastal Florida to central Canada, in still or slow-flowing water up to three feet deep.
 - **Lotus**: Some species have popcorn-like seeds that can be gathered and popped.
 - **Duck potato** (*Sagittaria*): At least 80 species with wide climate range. The monocots (also called wapato) grow up past the water surface and bear heavy seed heads. They can be eaten like leeks.
 - **Arrowheads**: Important wildfowl food.
@@ -88,7 +88,7 @@ Intensively cultivated ponds should go through periodic dry cycles:
 
 ### Gley Ponds
 
-Gley is a fermentation process that seals pond bottoms:
+Gley is a [[mushroom-compost-fermentation-process]] that seals pond bottoms:
 - Once a pond is held in gley, the gley penetrates the soil deeply and perpetuates itself
 - It's possible to drain a stable lagoon by punching post holes and inserting gley material
 - Ponds made from loose fill material are most prone to obliteration, but well-constructed ponds in hills can last many human lifetimes
@@ -117,7 +117,7 @@ Freshwater mussels are the superior phosphorus fixer:
 
 ### Frogs
 
-- Excellent for greenhouse pest control, particularly slug predation
+- Excellent for [[ultra-low-herbal-smoker-greenhouse-pest-control]], particularly slug predation
 - Toads (*Bufo* spp.) control slugs and cutworms effectively (they are nocturnal, matching pest activity patterns)
 - Bullfrogs are of less value as they feed during daylight when target pests are inactive
 
@@ -133,7 +133,7 @@ Freshwater mussels are the superior phosphorus fixer:
 
 Pond edges are excellent locations for:
 - **Mints**: Particularly black peppermint (*Mentha × piperita*). Two or three acres could yield $70,000 through distillation to menthol. Mint is good when dairying with dairy outwash, which produces powerful blooms. However, mint is laterally invasive — confine it with dense bushes on either side.
-- **Blueberries**: Pond edges provide ideal blueberry growing conditions.
+- **Blueberries**: Pond edges provide ideal [[blueberry-growing-guide]] conditions.
 
 ## pH Management
 
@@ -147,28 +147,3 @@ Strewing bales of hay around pond edges (half in, half out) serves multiple purp
 - The resulting diatom-rich water can be dipped and fed to small fish
 - Ducks add manure to the system, accelerating decomposition
 - Kick more hay in as it rots to maintain the process
-
-## Bogs as Production Systems
-
-Rather than thinking only of ponds, consider creating bogs:
-- A hundred square yards of bog can support specialized crops
-- The reed *Phragmites* is the "super, plu-perfect thatch" lasting 40 to 60 years — as good as any roof, exceeded only by turf roofs
-- Slate roofs crack, scale, and deteriorate, making thatch superior
-- Bogs can support crops like *Acorus* (sweet flag) for oil distillation
-
-## Multiple Functions of Ponds
-
-Every pond should be designed for multiple simultaneous functions:
-- **Barrier function**: Often saves a half mile of fencing
-- **Reflection function**: Light reflection for adjacent gardens
-- **Fire protection function**: Water source for firefighting
-- **Heat storage**: Thermal mass moderating nearby microclimates
-- **Recreation**: Diving rocks placed by deep areas for safe swimming
-- **Water cleaning**: Efficiently collects essential nutrients in mud
-- **Manuring**: Chinese canals and ponds are valued primarily for field manuring
-- **Edge maximization**: Islands and peninsulas increase productive edge habitat
-
-## See Also
-- [[permaculture-plants-aquatic-and-wetland-species]]
-- [[duckweed-and-aquatic-plants-permaculture-systems]]
-- [[hamilton-garden-ponds-and-aquatic-plants]]

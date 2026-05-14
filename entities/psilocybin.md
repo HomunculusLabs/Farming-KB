@@ -87,23 +87,10 @@ Psilocin is a **partial agonist** at 5-HT₂A serotonin receptors, densely expre
 - **NYU (2016)**: Single dose (0.3 mg/kg) produced significant reductions in anxiety and depression in cancer patients, sustained at 6.5-year follow-up
 - Participants consistently ranked the experience among the most meaningful of their lives
 
+
 ## See Also
 
-- [[psilocybin-5ht2a-receptor-pharmacology]]
-- [[psilocybin-and-psilocin-biosynthesis-variation]]
-- [[psilocybin-chemistry-and-degradation]]
-- [[psilocybin-chemistry-and-pharmacology]]
-- [[psilocybin-consciousness-understanding]]
-- [[psilocybin-dosage-guidelines-australian-species]]
-- [[psilocybin-end-of-life-care]]
-- [[psilocybin-image-identification-guide]]
-- [[psilocybin-metabolism-psilocin-conversion]]
-- [[psilocybin-miniculture-rye-grain-method-bigwood-beug]]
-- [[psilocybin-pharmacology-and-effects]]
-- [[psilocybin-potency-factors-cultivated-wild-mushrooms-gartz]]
-- [[psilocybin-psilocin-chemistry-and-pharmacology]]
-- [[psilocybin-stability-and-degradation-in-fungi]]
-- [[psilocybin-stoned-ape-hypothesis-critique]]
-- [[psilocybin-synthesis-shirota-concise-large-scale-method]]
-- [[psilocybin-volatility-indigenous-knowledge-specimen-age-degradation]]
-- [[psilocybin-vs-other-psychedelics]]
+- [[psilocybin-and-psilocin-chemistry-and-pharmacology]]
+- [[psilocybin-extraction-alcohol-method]]
+- [[psilocybin-stability-and-specimen-age]]
+- [[psilocybin-volatility-drying-degradation]]

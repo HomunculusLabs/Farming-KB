@@ -72,3 +72,15 @@ The thermal belt concept illustrates several foundational [[permaculture-princip
 - **Start with water**: The water system at the keypoint determines where the thermal belt falls, which in turn determines house placement. The design sequence matters.
 
 The thermal belt is not an abstract theory — it is a directly observable, practically consequential feature of every sloped landscape. Reading it correctly is one of the most valuable skills a permaculture designer can develop, and siting a house within it is one of the highest-leverage decisions in any land-based design.
+
+## Practical Applications
+
+Thermal belts and house siting has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of thermal belts and house siting has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## Key Considerations
+
+When working with thermal belts and house siting, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.

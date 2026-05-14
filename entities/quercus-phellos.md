@@ -34,7 +34,7 @@ Quercus phellos was described by Carl Linnaeus in 1753 in Species Plantarum.
 
 The species is placed in the red oak group based on its bristle-tipped leaf lobes and acorn morphology.
 
-Hybridization with other red oaks including Quercus falcata and Quercus palustris is documented.
+Hybridization with other red oaks including [[quercus-falcata]] and [[quercus-palustris]] is documented.
 
 **Growth form** is a medium to large deciduous tree reaching 20-30 meters in height.
 

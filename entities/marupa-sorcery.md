@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Marupa sorcery (hechicería marupa) is a form of harmful magical practice in Amazonian vegetalismo in which the sorcerer keeps miniature animals — insects, snakes, scorpions, bats, rays, toads, and other creatures — inside their [[shamanism]]
+Marupa sorcery (hechicería marupa) is a form of harmful magical practice in Amazonian vegetalismo in which the sorcerer keeps miniature animals — insects, snakes, scorpions, bats, rays, toads, and other creatures — inside their shamanism
 - **Category**: Sorcery technique, animal-based attack
 - **Practitioners**: Primarily Cocama sorcerers
 - **Weapon**: Miniature magical animals stored in mariri

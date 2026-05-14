@@ -1,6 +1,6 @@
 ---
 
-title: Soil [[coleman-compost-and-organic-fertility-management]]
+title: "Soil Fertility Management"
 created: 2026-04-11
 updated: 2026-04-12
 type: concept

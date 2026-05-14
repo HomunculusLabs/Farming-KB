@@ -16,7 +16,7 @@ Eisler in her 1987 book The Chalice and the Blade and adopted extensively by
 [[shroom-cultural-history-hippie-revolution-and-counterculture]]. Eisler's central
 thesis is that human societies can be characterized along a spectrum between
 two fundamental organizational patterns: partnership models, which emphasize
-cooperation, gender equality, and [[shamanism]]
+cooperation, gender equality, and shamanism
 
 McKenna's distinctive contribution to this framework is his argument that
 the transition from partnership to dominator culture involved the systematic

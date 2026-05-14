@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-tropical-pasture-grass-species-and-establishment]] and Forage Species
+title: "Tropical Pasture Grass Forage Species"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

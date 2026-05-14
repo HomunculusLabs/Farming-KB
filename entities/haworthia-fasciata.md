@@ -61,7 +61,7 @@ Plants are found growing under shrubs and in rock crevices, typically in partial
 
 Water moderately during [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but slow, taking 3–5 years to reach flowering size.
 
-The species is remarkably pest-resistant. Mealybugs occasionally appear in leaf axils but are easily controlled with isopropyl alcohol. Fungal problems are rare if proper watering practices are followed.
+The species is remarkably pest-resistant. Mealybugs occasionally appear in leaf axils but are easily controlled with [[isopropyl-alcohol]]. Fungal problems are rare if proper watering practices are followed.
 
 Root mealybugs are a more serious problem, feeding on roots below the soil line where they go unnoticed. Infested plants show stunted growth and may develop corky root lesions. Systemic insecticide drenches are the most effective treatment.
 
@@ -78,7 +78,7 @@ The small, tubular flowers are pollinated by [[comparison-honey-bees-vs-native-s
 ## Overview
 
 Haworthia Fasciata represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Haworthia Fasciata finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,13 +107,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for haworthia fasciata. Climate adaptation
+opportunities for haworthia fasciata. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 haworthia fasciata and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

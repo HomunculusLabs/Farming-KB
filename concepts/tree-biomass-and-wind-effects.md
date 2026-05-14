@@ -1,5 +1,5 @@
 ---
-title: Tree Biomass and Wind Effects
+title: Tree Biomass And Wind Effects
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -16,7 +16,7 @@ Like all living things, a tree has shed its weight many times over to earth and 
 
 Many organisms that associate with trees "belong with" the tree and still function as part of it. When a blue jay, currawong, or squirrel buries an acorn (and typically recovers only about 80% due to forgetfulness), it acts as the planting agent of the oak. When squirrels or wallabies dig up the columella of fungal tree root associates — guided by a garlic-like smell — they swallow the spores, activate them enzymatically, and deposit them again to invest the roots of another tree or sapling with its energy translator.
 
-The root fungi intercede with water, soil, and atmosphere to manufacture cell nutrients for the tree, while myriad insects carry out summer pruning, decompose surplus leaves, and activate essential soil bacteria for nutrient flow. The rain of insect faeces may be crucial to forest and prairie health. As Bill Mollison observes, it is nearly impossible to separate the total body of the tree into mineral, plant, animal, detritus, and life — the tree can only be understood as its total entity, which like forests reaches out into all things.
+The root fungi intercede with water, soil, and atmosphere to manufacture cell nutrients for the tree, while myriad insects carry out summer pruning, decompose surplus leaves, and activate essential soil bacteria for nutrient flow. The rain of insect faeces may be crucial to forest and prairie health. As [[bill-mollison]] observes, it is nearly impossible to separate the total body of the tree into mineral, plant, animal, detritus, and life — the tree can only be understood as its total entity, which like forests reaches out into all things.
 
 ### Indigenous Understanding
 
@@ -30,7 +30,7 @@ A large tree has from 10,000 to 100,000 growing points or meristems, and each is
 
 ### Aerodynamic Response
 
-As wind speed increases, the tree's leaves and branches deform so that the tree steadily reduces its exposed leaf area. At very high wind speeds (in excess of 32 m/sec), the interception of light, efficient water use, and convective heat dissipation become secondary to the tree's survival. Different tree species employ different strategies:
+As wind speed increases, the tree's leaves and branches deform so that the tree steadily reduces its exposed leaf area. At very high wind speeds (in excess of 32 m/sec), the interception of light, efficient water use, [[thermal-belts-thermosiphons-and-convective-heat]] dissipation become secondary to the tree's survival. Different tree species employ different strategies:
 
 - **Heavy rigid trees** spread wide root mats and rely on their weight, withstanding considerable wind force with minimal attachment beyond what prevents sliding
 - **Other trees** insert gnarled roots deep in rock crevices and are literally anchored to the ground
@@ -55,13 +55,13 @@ Forests provide a nutrient net for materials blown by wind or gathered by birds 
 
 ## The Griggs and Putnam Index
 
-The effect of wind on trees is assessed using the [[griggs-and-putnam-index]], which assigns values based on observable crown deformations and growth patterns. These field indicators are of great use in permaculture design. When assessing any site, the condition of older trees serves as the best guide to gauge wind effect — trees indicate local wind direction and intensity, and from these indicators designers can place windbreaks to reduce heat loss in homes, avoid damage in catastrophic winds, and steer winds to well-placed wind machines.
+The effect of wind on trees is assessed using the [[griggs-and-putnam-index]], which assigns values based on observable crown deformations and growth patterns. These field indicators are of great use [[ecological-succession-in-permaculture-design]]. When assessing any site, the condition of older trees serves as the best guide to gauge wind effect — trees indicate local wind direction and intensity, and from these indicators designers can place windbreaks to reduce heat loss in homes, avoid damage in catastrophic winds, and steer winds to well-placed wind machines.
 
 The index ranges from 0 (no effect, no deformations) through 4 (strong flagging, all branches swept to leeward creating a "banner" shape) to 7 (carpeting, where the tree becomes a creeping shrub-like layer of prostrate growth). These standard effects apply to trees not affected by salt, ice, or snow load.
 
 ## Applications in Design
 
-Understanding tree-wind interactions allows permaculture designers to:
+Understanding tree-wind interactions allows [[bill-mollison]] to:
 
 - **Read the landscape** by observing tree deformation patterns to understand prevailing wind conditions
 - **Place windbreaks** strategically to protect homes, crops, and livestock
@@ -79,7 +79,7 @@ regulation, and atmospheric processes that sustain regional climate patterns.
 
 ## Practical Applications
 These concepts apply directly to permaculture design, agroforestry systems,
-and watershed management. Understanding the interactions between vegetation,
+[[ozier-pdc-hydro-cycle-and-watershed-management]]. Understanding the interactions between vegetation,
 water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 

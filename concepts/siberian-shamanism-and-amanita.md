@@ -74,7 +74,7 @@ Michael Harner, in his introduction to "Hallucinogens and Shamanism" (1973), emp
 
 ## Overview
 
-Siberian Shamanism And Amanita represents an important element within sustainable
+[[siberian-shamanism]] And Amanita represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

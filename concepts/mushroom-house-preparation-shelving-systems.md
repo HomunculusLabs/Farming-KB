@@ -1,5 +1,5 @@
 ---
-title: [[fao-accessible-mushroom-house-design-disabilities]] Preparation and Shelving Systems
+title: "Mushroom House Preparation Shelving Systems"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

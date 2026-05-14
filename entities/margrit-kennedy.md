@@ -148,9 +148,3 @@ All of these systems implement, in practice, the interest-free principles that K
 articulated in theory.
 
 ## References
-
-- Mollison, Bill. *Permaculture: A Designer's Manual.* Chapter 14, Section 14.13
-  (An Ethical Investment Movement). Pages 554-555.
-- Kennedy, Margrit, 1987. *Toward an Ecological Economy: Money, Land, and Tax Reforms.*
-  Ginsterweg 45, D3074, Steyerberg, West Germany.
-- Austrian town experiments of the 1930s depression (historical precedent)

@@ -6,7 +6,7 @@ type: concept
 
 # Permaculture Community Legal Structure
 
-The legal and financial architecture of a [[permaculture]] community is as important as its physical design. [[bill-mollison]] presents a specific organizational model—developed through the Tagari community in Australia—that uses a layered trust structure to achieve tax efficiency, risk insulation, land accumulation, and international cooperation while remaining consistent with [[permaculture-ethics]] of Earth care, people care, and non-accumulation of wealth beyond need.
+The legal and financial architecture of a [[permaculture]] community is as important as its physical design. [[bill-mollison]] presents a specific organizational model—developed through the Tagari community in Australia—that uses a layered trust structure to achieve tax efficiency, risk insulation, land accumulation, and international cooperation while remaining consistent with [[permaculture-ethics]] [[permaculture-ethics-of-earth-care-and-people-care]], people care, and non-accumulation of wealth beyond need.
 
 ## The Three-Layer Structure
 
@@ -27,7 +27,7 @@ The Institute operates under a publicly oriented trust drawn according to the la
 **Key advantages of the Institute structure:**
 
 - **Tax immunity**: Generally exempt from land taxes, rates, and local government charges—shared by schools, churches, and other public institutions
-- **Research links**: Automatic membership in networks like the World Free Seed Exchange (connecting 4,600 institutes and 680 botanical gardens globally), enabling free seed acquisition from anywhere in the world
+- **Research links**: Automatic membership in networks like the World Free [[permaculture-designers-manual-seed-exchange]] (connecting 4,600 institutes and 680 botanical gardens globally), enabling free seed acquisition from anywhere in the world
 - **Joint research capacity**: Can undertake collaborative research with any similar institute, with options for joint funding, staff arrangements, and shared facilities
 - **Insulation from seizure**: Extremely rare for governments to raid public trusts, as doing so would threaten all schools, churches, and public institutions with similar status
 - **Wealthy precedents**: Mirrors the structure used by major foundations like the Ford Foundation for their own money flow systems
@@ -51,7 +51,7 @@ The Trading Trust registers and operates businesses that generate income for the
 - **Publishing companies**: Information dissemination is core to permaculture’s mission
 - **Consultancies**: Transmitting permaculture knowledge globally through paid professional services
 - **Real estate operations**: Managing property transactions on behalf of the community
-- **Seed companies**: Central to the agricultural mission and community self-sufficiency
+- **[[spanish-cannabis-seed-companies]]**: Central to the agricultural mission and community self-sufficiency
 
 The Trading Trust can also enter into business-sharing arrangements: holding shares in consumer cooperatives, workers’ cooperatives, and other collaborative enterprises; holding residential shares in seed companies; and participating in international trading cooperation.
 

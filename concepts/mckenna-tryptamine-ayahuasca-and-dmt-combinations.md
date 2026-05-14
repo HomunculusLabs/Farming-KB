@@ -14,7 +14,7 @@ McKenna introduces ayahuasca in "[[mckenna-archaic-revival-four-part-structure-p
 
 ## Pharmacological Innovation
 
-DMT is not orally active on its own because monoamine oxidase (MAO) enzymes in the gut rapidly break it down before it can reach the bloodstream. The addition of a monoamine oxidase inhibitor (typically from [[banisteriopsis-caapi]] vine) to the DMT-containing plant (typically Psychotria viridis or Diplopterys cabrerana) creates a bioavailable oral preparation. McKenna calls this "a hybrid drug that is in aboriginal use in the rain forests of South America."
+DMT is not orally active on its own because monoamine oxidase (MAO) enzymes in the gut rapidly break it down before it can reach the bloodstream. The addition of a monoamine oxidase inhibitor (typically from [[banisteriopsis-caapi]] vine) to the DMT-containing plant (typically [[chacruna-psychotria-viridis]] or Diplopterys cabrerana) creates a bioavailable oral preparation. McKenna calls this "a hybrid drug that is in aboriginal use in the rain forests of South America."
 
 This pharmacological insight represents what McKenna characterizes throughout the essay as indigenous empirical knowledge accumulated over millennia. The discovery that specific vine preparations can render DMT orally active is presented as evidence of the sophistication of shamanic plant chemistry. McKenna's broader argument is that indigenous peoples arrived at this combination through careful empirical observation -- what he calls shamanism as "primarily techniques, not ritual" -- rather than through theoretical speculation.
 
@@ -24,7 +24,7 @@ The [[turner-harmala-alkaloids-preparation-and-dosage]] inhibit MAO, allowing DM
 
 McKenna provides a direct narrative of encountering ayahuasca practice in the Amazon. When he asked informants to demonstrate their shamanic abilities, they responded with characteristic directness: "Let's take our machetes and hike out here half a mile and get some vine and boil it up and we will show you what we can show you." This deceptively simple statement encapsulates McKenna's empiricist philosophy: "What it comes down to for me is 'What can you show me?'"
 
-He notes that DMT has been used in the Amazon "for millennia, but by cultures quite primitive -- usually nomadic hunter-gatherers." This context is significant for McKenna's argument because it establishes the antiquity and cross-cultural accessibility of tryptamine experiences. The Amazonian DMT tradition represents the oldest continuous tryptamine practice he identifies, predating the [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] as substances that share what he calls the "tryptamine hypercontinuum" -- a shared phenomenological space characterized by:
+He notes that DMT has been used in the Amazon "for millennia, but by cultures quite primitive -- usually nomadic hunter-gatherers." This context is significant for McKenna's argument because it establishes the antiquity and cross-cultural accessibility of tryptamine experiences. The Amazonian DMT tradition represents the oldest continuous tryptamine practice he identifies, predating the [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] as substances that share what he calls the "[[dmt-phenomenology-and-tryptamine-hypercontinuum]]" -- a shared phenomenological space characterized by:
 
 - Confrontation with what appears to be alien intelligence
 - Translinguistic information complexes that cannot be translated into ordinary language
@@ -32,7 +32,7 @@ He notes that DMT has been used in the Amazon "for millennia, but by cultures qu
 - Extreme intensity that McKenna describes as beyond what even sensation-obsessed modern society can handle
 - Experiences that "strongly suggest that there is some latent ability of the human brain/body that has yet to be discovered"
 
-McKenna frames the tryptamine family as uniquely significant among hallucinogens because of "the intensity of the hallucinations and the concentration of activity in the visual cortex." He describes an "immense vividness to these interior landscapes, as if information were being presented three-dimensionally and deployed fourth-dimensionally, coded as light and as evolving surfaces." While he provides detailed phenomenological description primarily of smoked DMT rather than ayahuasca specifically, his classification implies that ayahuasca shares the same essential phenomenological territory, with the key differences being its longer duration and oral route of administration.
+McKenna frames the tryptamine family as uniquely significant among hallucinogens because of "the intensity of the hallucinations and the concentration of activity in the visual cortex." He describes an "immense vividness to these interior landscapes, as if information were being presented three-dimensionally and deployed fourth-dimensionally, coded as light and as evolving surfaces." While he provides detailed phenomenological description primarily of smoked DMT rather than ayahuasca specifically, his classification implies that ayahuasca shares the same essential phenomenological territory, with the key differences being its longer duration and oral [[mushroom-taste-route-of-administration-and-consumption-barriers]].
 
 The oral administration of ayahuasca also means that the experience builds more gradually than smoked DMT, potentially allowing for a different quality of engagement with the phenomenological content. Where smoked DMT produces an almost instantaneous transition to the "merry go raum," ayahuasca's slower onset may permit a more deliberate navigation of the transitional states.
 
@@ -42,7 +42,7 @@ McKenna connects ayahuasca use to his broader argument about shamanic plant chem
 
 The preparation of ayahuasca exemplifies the kind of empirical knowledge that McKenna believes has been systematically excluded from Western science. He writes that "the contents of shamanic experience and of plant-induced ecstasies are inadmissible" by the guardians of scientific truth, even though they represent "the source of novelty and the cutting edge of the ingression of the novel into the plenum of being."
 
-McKenna notes that "we hear the word 'spirits' through a series of narrowing declensions of meaning that are worse almost than not understanding." The original shamanic use of the term may have been far more precise and technically grounded than the superstitious connotation it carries in modern English. The ayahuasca preparation itself -- combining DMT-containing plants with MAO-inhibiting vines -- demonstrates a level of pharmacological understanding that belies the dismissive attitude of Western science toward indigenous knowledge systems.
+McKenna notes that "we hear the word 'spirits' through a series of narrowing declensions of meaning that are worse almost than not understanding." The original shamanic use of the term may have been far more precise and technically grounded than the superstitious connotation it carries in modern English. The [[ayahuasca-preparation]] itself -- combining DMT-containing plants with MAO-inhibiting vines -- demonstrates a level of pharmacological understanding that belies the dismissive attitude of Western science toward [[desert-food-systems-and-indigenous-knowledge]] systems.
 
 ## The Shaman's Social Position
 
@@ -76,7 +76,7 @@ The Borges reference is apt. In "The Sect of the Phoenix," Borges describes a se
 
 ## The I/Thou Approach
 
-McKenna advocates for a particular epistemological stance toward the experiences accessed through ayahuasca and other tryptamines. "There is no dignity in the universe unless we meet these things on our feet," he writes, calling for an "I/Thou relationship" with the entities and dimensions encountered. One must demand: "You say you are omniscient, omnipresent. You're long on talk, but what can you show me?" This demand for demonstrable evidence applies equally to indigenous plant knowledge and to the claims of Western science.
+McKenna advocates for a particular epistemological stance toward the experiences accessed through ayahuasca and other tryptamines. "There is no dignity in the universe unless we meet these things on our feet," he writes, calling for an "I/Thou relationship" with the entities and dimensions encountered. One must demand: "You say you are omniscient, omnipresent. You're long on talk, but what can you show me?" This demand for demonstrable evidence applies equally to [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]] and to the claims of Western science.
 
 ## Magic in Hyperspace
 

@@ -27,7 +27,7 @@ Under conditions of less than 7000mm annual rainfall:
 | Coconut + Cacao | 3,122 | 1,300 |
 | Coconut + Cacao + Black Pepper + Pineapple | 3,882 | 1,880 |
 
-While expenses increase with species complexity, **costs never exceed returns** when intercrop species are carefully selected for site conditions and market demand. The modest expense increases are far outweighed by diversified income streams, nutritional diversity, and ecosystem stability.
+While expenses increase with species complexity, **costs never exceed returns** when intercrop species are carefully selected for site conditions and market demand. The modest expense increases are far outweighed by diversified [[homesteading-income-streams]], nutritional diversity, and [[biodiversity-specialization-ecosystem-stability]].
 
 ### Labor Constraints on Complexity
 
@@ -46,7 +46,7 @@ Rather than allowing entire plantations to age into senescence before clear-fell
 
 - **4% annual replacement**, or roughly **50 trees per annum** per hectare in a standard-density stand.
 - This ensures a rolling age structure, avoids the economic shock of total replanting, and provides a steady supply of mature palm trunks for construction and other uses.
-- Young replacement palms can be established within the existing canopy and intercrop matrix, receiving shade and wind protection from mature trees.
+- Young replacement palms can be established within the existing canopy and intercrop matrix, receiving shade and [[cervantes-wind-protection-outdoor-cannabis]] from mature trees.
 
 ## Re-working Old Plantations (60+ Years)
 
@@ -72,8 +72,8 @@ The terminal bud (heart) of the coconut palm is edible and considered a delicacy
 
 When palms are removed during renewal or after storm damage, the trunk is a valuable resource:
 
-- **Building material**: Split trunks serve as beams, flooring, and wall elements in tropical construction.
-- **Mulch boxes**: Hollowed or chipped trunks form long-lasting raised beds and erosion barriers.
+- **[[bamboo-as-building-material]]**: Split trunks serve as beams, flooring, and wall elements in tropical construction.
+- **Mulch boxes**: Hollowed or chipped trunks form long-lasting [[solomon-raised-beds-and-bed-preparation]] erosion barriers.
 - **Coral reef frames**: Sunk trunks provide substrate for coral settlement and fish habitat in degraded reef areas.
 - **Bank stabilization**: Trunks anchored along waterways reduce erosion and trap sediment.
 - **Planting benches on coral islands**: Where soil is thin or absent, palm trunks laid on coral surfaces create organic planting platforms that decompose into humus over time.
@@ -109,7 +109,7 @@ Individual families or small groups manage diverse polyculture plots, while a **
 
 ### Polyculture Design
 
-Intercropping coconut with **cacao**, **black pepper**, **pineapple**, **cloves**, **nutmeg**, **bananas**, and **root crops** creates stacked yields across multiple vertical layers. The coconut canopy provides partial shade; mid-story crops capture filtered light; ground covers suppress weeds and build soil.
+Intercropping coconut with **cacao**, **black pepper**, **pineapple**, **cloves**, **nutmeg**, **bananas**, and **root crops** creates stacked yields across multiple vertical layers. The coconut canopy provides partial shade; mid-story crops capture filtered light; ground covers [[query-how-do-cover-crops-suppress-weeds]] and build soil.
 
 ### The Commonwork Approach
 

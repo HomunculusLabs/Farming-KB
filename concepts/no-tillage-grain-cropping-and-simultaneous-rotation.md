@@ -1,6 +1,6 @@
 ---
-title: No-Tillage Grain Cropping and Simultaneous Rotation
-source: bill-mollison-permaculture-two-practical-design-for-to.md
+title: No Tillage Grain Cropping And Simultaneous Rotation
+source: bill-[[mollison-permaculture-two-no-tillage-grain-cropping|mollison]]-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
@@ -62,7 +62,7 @@ After levelling, spread lime or dolomite, water in. Apply complete seed-free mul
 ### Rice (Oryza sativa)
 - Short-day cereal suited to latitudes up to 40° N and S
 - Self-pollinating, responds to nitrogen (chicken manure)
-- Disease control: soak seeds in 40% formalin diluted 50 times with water
+- [[hamilton-pest-and-disease-control-organic]]: soak seeds in 40% formalin diluted 50 times with water
 - Good yields: 3,000–4,000 kg/ha (5,200–5,700 lb/acre)
 - Plus 10,000 kg of straw per hectare for mulch
 
@@ -123,7 +123,7 @@ After levelling, spread lime or dolomite, water in. Apply complete seed-free mul
 - Yield: 600–1,300 kg/ha
 
 ### Lupins (Lupinus spp.)
-- Long-day or green crop; cool climates
+- Long-day or green crop; [[glasshouse-heat-management-cool-climates-mollison]]
 - Summer or winter annuals, maturing in 100–150 days
 - Useful to pioneer land (if inoculated with phosphates)
 - Yield: 800–1,000 kg/ha
@@ -131,8 +131,8 @@ After levelling, spread lime or dolomite, water in. Apply complete seed-free mul
 
 ## Three Approaches Compared
 
-Mollison characterizes three grain farming approaches as an evolutionary sequence:
-- **FAO bulletin and Phillips & Young**: "consciously inorganic"—heavy machinery and sprays
+Mollison characterizes three [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] approaches as an evolutionary sequence:
+- **FAO bulletin and Phillips & Young**: "consciously inorganic"—[[jadam-soil-compaction-heavy-machinery]] and sprays
 - **Logsdon**: "consciously organic"—rotation well worked out but separated in time
 - **Fukuoka**: "non-consciously organic"—stacked system with clover as permanent base
 
@@ -141,9 +141,9 @@ Mollison characterizes three grain farming approaches as an evolutionary sequenc
 ## No-Tillage Adaptation Notes
 
 - Where rice cannot be grown, dry-land rice or other grain species can substitute
-- Spray irrigation replaces summer flooding in non-paddy systems
+- Spray irrigation replaces [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]] in non-paddy systems
 - In monsoon areas, summer rain suffices
 - Where sparrows are a problem: mix grains with mud, press through wire-mesh, roll into clay pellets
 - Seed at higher rates until broadcasting skill develops
-- Straw mulch system uses 4–5 times less seed than clean-tilled ground
+- [[fukuoka-straw-mulch-system]] uses 4–5 times less seed than clean-tilled ground
 - Fukuoka maintained this no-dig cycle for 25 years with improving soil, no fertilizer other than chicken and duck manure, no sprays, no herbicides

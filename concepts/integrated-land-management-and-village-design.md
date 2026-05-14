@@ -60,7 +60,7 @@ The Hawaiian ohana system illustrates integrated land management on a volcanic i
 
 - [[tropical-food-system-development]]
 - [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- [[integrated-poultry-forage-systems-zone-two]]
+- integrated poultry forage systems zone two
 - [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]]
 - [[permaculture-integrated-animal-systems]]
 

@@ -1,6 +1,6 @@
 ---
-title: "Site Resources and Access Placement"
-source: "Bill Mollison, Permaculture Design Course (Chunk 19, Lines 3801–4000)"
+title: Site Resources And Access Placement
+source: "Bill Mollison, [[mollison-permaculture-design-course-curriculum]] (Chunk 19, Lines 3801–4000)"
 type: concept
 ---
 
@@ -32,7 +32,7 @@ A category frequently missed by consultants: resources that lie in the district 
 - **Waste products**: District wastes that could serve as inputs for the client's systems, creating beneficial cycles between the site and its surrounding community.
 - **Unfulfilled demands**: Gaps in the local economy that the client could fill, ideally securing distributor or manufacturing rights rather than merely acting as an agent.
 
-Securing these extrinsic connections, Mollison states, can earn the designer's fee before any design work begins. The designer serves as a resource detective, increasing the number of ways in which the site stores energy and builds soil fertility rather than depleting them. If the client won't cooperate with these strategies, Mollison dryly suggests pointing them toward the agriculture department or forestry commissioner instead—permaculture designers work on an ethical basis and will not simply instruct a client to cut their forest down.
+Securing these extrinsic connections, Mollison states, can earn the designer's fee before any design work begins. The designer serves as a resource detective, increasing the number of ways in which the site stores energy and builds soil fertility rather than depleting them. If the client won't cooperate with these strategies, Mollison dryly suggests pointing them toward the agriculture department or forestry commissioner instead—[[bill-mollison]] work on an ethical basis and will not simply instruct a client to cut their forest down.
 
 ### Client Resource Rights
 
@@ -82,7 +82,7 @@ Mollison identifies two catastrophic siting errors—type-one errors—that desi
 
 ## The "Redneck Conversion" Problem
 
-The bush-siting error leads to what Mollison calls the "redneck conversion"—one of the most memorable and ethically charged concepts in permaculture design. Permaculture clients are typically gentle, conservation-minded people who love wildlife. When placed in the bush, they become targets for every local animal seeking food. The result is a cycle of killing: woodchucks, wallabies, possums, even prized trees like white pines that attract wildlife and prevent food production within 40 feet. The site gradually begins to look like "a bit of penicillin in the middle of bacteria"—everything around the clearing gets murdered.
+The bush-siting error leads to what Mollison calls the "redneck conversion"—one of the most memorable and ethically charged concepts [[ecological-succession-in-permaculture-design]]. Permaculture clients are typically gentle, conservation-minded people who love wildlife. When placed in the bush, they become targets for every local animal seeking food. The result is a cycle of killing: woodchucks, wallabies, possums, even prized trees like white pines that attract wildlife and prevent food production within 40 feet. The site gradually begins to look like "a bit of penicillin in the middle of bacteria"—everything around the clearing gets murdered.
 
 The client develops a guilt complex, heads back to town, and eventually abandons the site to someone else willing to carry out the ongoing destruction. Mollison is blunt: the designer who causes this has committed a serious error. What turns a gentle vegetarian into someone who beats possums with a club is constant, unavoidable killing—and the designer created the conditions for it. This is not merely an inconvenience; it is an ethical failure that violates the permaculture ethic of care for all living systems.
 
@@ -103,7 +103,7 @@ When a client owns completely forested land, the designer should first have a lo
 
 Each of these questions probes whether extensive clearing is truly needed or whether a more intensive, compact approach would serve the client better while preserving the forest as a productive biological resource.
 
-Mollison proposes a proven alternative: a large attached glasshouse combined with a fully enclosed and electric-fenced one-eighth acre. Australian conservation areas have demonstrated that all food needs can be met from an eighth of an acre under intensive cultivation. In one such area, all 385 titles are owned by groups with a single conservation aim, each limiting themselves to one-eighth of an acre. The result is a gigantic wildlife area supporting thousands of kangaroos, wallabies, and possums. The remaining land stays as wildlife habitat with zero conflict between occupants and animals. Much food can be produced under glass, and there are no worries about bears, raccoons, or other raiding animals. This tight situation may not cost more than an extensive one, and it eliminates the redneck conversion problem entirely. If clearing is ultimately chosen, the designer must ensure that all cleared material is used to the highest advantage.
+Mollison proposes a proven alternative: a large attached glasshouse combined with a fully enclosed and electric-fenced one-eighth acre. Australian conservation areas have demonstrated that all food needs can be met from an eighth of an acre under intensive cultivation. In one such area, all 385 titles are owned by groups with a single conservation aim, each limiting themselves to one-eighth of an acre. The result is a gigantic wildlife area supporting thousands of kangaroos, wallabies, and possums. The remaining land stays as [[hemenway-backyard-wildlife-habitat]] with zero conflict between occupants and animals. Much food can be produced under glass, and there are no worries about bears, raccoons, or other raiding animals. This tight situation may not cost more than an extensive one, and it eliminates the redneck conversion problem entirely. If clearing is ultimately chosen, the designer must ensure that all cleared material is used to the highest advantage.
 
 ## Water, Access, and House Sites as a Single Entity
 
@@ -117,7 +117,7 @@ Mollison advises keeping quiet until the full report is ready, then presenting i
 
 The following sequence captures Mollison's recommended order of operations for establishing a permaculture design:
 
-1. Set property boundaries and experience the site directly using all senses.
+1. Set [[holzer-high-beds-property-boundaries]] and experience the site directly using all senses.
 2. Catalog all resources: earth, plant, biological, energy, water, and extrinsic.
 3. Secure client rights to all exploitable resources.
 4. Place access according to keyline principles—this is the first design move.

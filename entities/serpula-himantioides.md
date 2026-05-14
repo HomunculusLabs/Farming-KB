@@ -16,7 +16,7 @@ sources:
 
 # Serpula himantioides
 
-**Serpula himantioides** (synonym *Serpula himantioides*, also spelled *S. himantioides*) is a basidiomycete fungus in the family Serpulaceae, closely related to the notorious [[comparison-brown-rot-vs-white-rot-bioremediation]] in timber, typically classified as a **wet rot** rather than true dry rot, and is encountered in building structures where persistent moisture problems exist. Although less destructive than *S. lacrymans*, it is nevertheless a significant cause of timber decay in buildings and shares many morphological and ecological characteristics with its more famous relative.
+**Serpula himantioides** (synonym *Serpula himantioides*, also spelled *S. himantioides*) is a basidiomycete fungus in the family Serpulaceae, closely related to the notorious [[comparison-brown-rot-vs-white-rot-bioremediation]] in timber, typically classified as a **wet rot** rather than true [[dry-rot-fungi-serpula-meruliporia]], and is encountered in building structures where persistent moisture problems exist. Although less destructive than *S. lacrymans*, it is nevertheless a significant cause of [[singh-wood-rot-fungi-structural-timber-decay]] in buildings and shares many morphological and ecological characteristics with its more famous relative.
 
 ## Taxonomy and Classification
 
@@ -42,7 +42,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

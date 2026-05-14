@@ -55,7 +55,7 @@ In addition to our two climbers with a rope, other radically different
 methods of reaching the top of the mountain are possible, such as
 descending onto the peak by rope from a helicopter. It is from just such
 intuitive reasoning, which goes beyond induction and deduction, that the
-thinking underlying natural farming arises. This intuitive reasoning
+thinking underlying [[natural-farming]] arises. This intuitive reasoning
 originates at a point beyond the world of phenomena. It arises when one
 has acquired a philosophical understanding of the true essence of the
 natural world and grasped the ultimate goal.

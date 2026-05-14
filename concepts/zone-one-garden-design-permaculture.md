@@ -1,12 +1,12 @@
 ---
-title: Zone One Garden Design in Permaculture
+title: Zone One Garden Design Permaculture
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
 # Zone One Garden Design in Permaculture
 
-Zone one is the intensively managed area immediately surrounding the home — the place where you are always present, where you make daily visits. It encompasses the entries to the house, pathways between the house and frequently visited structures, and any area within casual reach. In zone one, permaculture designers place the highest-energy, highest-production, most frequently harvested elements of the system. The human dwelling is the core of all permaculture design, and zone one wraps tightly around that core.
+Zone one is the intensively managed area immediately surrounding the home — the place where you are always present, where you make daily visits. It encompasses the entries to the house, pathways between the house and frequently visited structures, and any area within casual reach. In zone one, [[bill-mollison]] place the highest-energy, highest-production, most frequently harvested elements of the system. The human dwelling is the core of all permaculture design, and zone one wraps tightly around that core.
 
 ## Defining Zone One
 
@@ -20,9 +20,9 @@ Zones are abstract tools, not rigid boundaries. While some people have built lit
 
 ## Garden Methods in Zone One
 
-Multiple cultivation methods can produce excellent results in zone one. Mollison explicitly refuses to prescribe a single approach:
+Multiple [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] can produce excellent results in zone one. Mollison explicitly refuses to prescribe a single approach:
 
-- **Mulch gardening**: Fully mulched with no bare soil exposed. "Within zone one, if you are doing mulch gardening, it is fully mulched. There is no bare soil." This conserves moisture, suppresses weeds, and builds soil organic matter continuously.
+- **Mulch gardening**: Fully mulched with no bare soil exposed. "Within zone one, if you are doing mulch gardening, it is fully mulched. There is no bare soil." This conserves moisture, suppresses weeds, and builds [[humus]] continuously.
 - **Deep digging (triple digging)**: "If you are a triple deep digger, it is fully made into beds." Intensive root penetration supports dense planting in deeply loosened soil.
 - **Standard bed preparation**: Any method that produces good vegetables is acceptable. "All those methods produce good vegetables."
 
@@ -31,7 +31,7 @@ Multiple cultivation methods can produce excellent results in zone one. Mollison
 ## What Belongs in Zone One
 
 ### High-Production Annuals
-Annual vegetables and herbs in constant turnover belong here: lettuce, beans, tomatoes, peppers, salad greens, culinary herbs. These demand frequent attention — planting, harvesting, pest monitoring — and reward proximity with higher yields from better care. "The annuals there are in constant turnover, high demand."
+Annual [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]] in constant turnover belong here: lettuce, beans, tomatoes, peppers, salad greens, culinary herbs. These demand frequent attention — planting, harvesting, pest monitoring — and reward proximity with higher yields from better care. "The annuals there are in constant turnover, high demand."
 
 ### Small Animals
 Animals requiring daily attention live in zone one: calves, chickens, ducklings, milk goats. "The more attention they must have, the closer you bring them. It's that simple. If you design this consciously, it is amazing how much more the site produces." Rabbits, worm farms, and beehives may also qualify depending on management intensity. The perennials in zone one "yield constantly."
@@ -60,7 +60,7 @@ Perennial herbs, strawberries, and other plants picked daily or weekly belong in
 Spiral and keyhole garden geometries dramatically increase edge — the interface between different micro-environments. More edge means more species niches, more micro-climates, and more total production per unit area. The spiral herb garden condenses space, cuts intercrop competition, and provides diverse growing conditions in a footprint of roughly six feet across. "It condensed space, it reduced intercrop, cut down plant competition."
 
 ### Permanent Plantings Preferred
-For complex geometries like spirals, "it probably pays to use fairly permanent plants." Perennial herbs and semi-permanent plantings reduce disturbance of the established micro-climate patterns. The structure is "superbly adapted for culinary herbs" with its different drainages, heats, and shade zones.
+For [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]] like spirals, "it probably pays to use fairly permanent plants." Perennial herbs and semi-permanent plantings reduce disturbance of the established micro-climate patterns. The structure is "superbly adapted for culinary herbs" with its different drainages, heats, and shade zones.
 
 ### Observation-Driven Management
 Zone one's greatest advantage is constant observation. Problems are caught early, harvests happen at peak ripeness, and the intimate familiarity with each plant leads to better management decisions over time. The frequent visits that define zone one create a feedback loop between observation and action that no amount of scheduled maintenance can replicate.
@@ -77,7 +77,7 @@ Zone one is not separate from the house — it is an extension of it. The garden
 
 - [[permaculture-zone-planning-guide]]
 - [[permaculture-zones-and-sectors]]
-- [[zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
+- [[zone-and-sector-analysis]](permaculture-[[zone-and-sector-analysis]].md)
 - [Mollison PDC Zone One Vegetable Bed Design](mollison-pdc-zone-one-vegetable-bed-design.md)
 - [Permaculture Zone 0 House Design](permaculture-zone-0-house-design.md)
 - [[permaculture-zones-in-practice]]

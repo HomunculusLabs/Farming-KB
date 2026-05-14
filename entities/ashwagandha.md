@@ -52,14 +52,14 @@ Withaferin A inhibits NF-κB signaling, reducing expression of pro-inflammatory 
 | Climate | Arid to semi-arid, tropical/subtropical |
 | Temperature | 20–38°C optimal |
 | Rainfall | 500–750 mm annually |
-| Soil | Well-drained, sandy loam, pH 7.5–8.0 |
+| Soil | Well-drained, [[sandy-loam-texture-cannabis-microbiome-assembly]], pH 7.5–8.0 |
 | Altitude | Sea level to 1500 m |
-| Propagation | Direct seeding or transplanting |
+| Propagation | [[clay-seed-pellets-direct-seeding]] or transplanting |
 
 ### Agronomic Notes
 
 - Seeds require no special pretreatment; germination in 7–14 days at 25°C
-- Plant spacing: 30 × 60 cm (commercial) or 45 × 60 cm (seed production)
+- Plant spacing: 30 × 60 cm (commercial) or 45 × 60 cm ([[cannabis-controlled-pollination-seed-production]])
 - Minimal fertilizer requirements; excess nitrogen reduces withanolide content
 - Root harvest at 5–6 months, when leaves begin to yellow
 - Average root yield: 400–600 kg/ha (dry weight)

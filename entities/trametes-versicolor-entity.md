@@ -1,5 +1,5 @@
 ---
-title: "growing-gourmet-turkey-tail-trametes-versicolor-cultivation"
+title: "growing-gourmet-[[turkey-tail-trametes-versicolor]]-cultivation"
 created: 2026-04-28
 type: species
 tags:

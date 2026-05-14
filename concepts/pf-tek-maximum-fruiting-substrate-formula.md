@@ -1,5 +1,5 @@
 ---
-title: Pf Tek Maximum [[stamets-fruiting-substrate-materials]] Formula
+title: "Pf Tek Maximum Fruiting Substrate Formula"
 created: 2026-04-28
 tags: [pf-tek, substrate, recipe, fruiting, formulation, mycology]
 date: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: Levels and [[levelling-tools-and-techniques]]
+title: "Levels And Levelling Tools"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

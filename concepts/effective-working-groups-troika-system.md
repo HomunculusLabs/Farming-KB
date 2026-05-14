@@ -1,5 +1,5 @@
 ---
-title: [[effective-working-groups]] and the Troika System
+title: "Effective Working Groups Troika System"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

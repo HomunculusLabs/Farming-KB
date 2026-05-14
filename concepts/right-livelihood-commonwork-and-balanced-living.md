@@ -1,5 +1,5 @@
 ---
-title: [[effective-working-groups-right-livelihood]], Commonwork, and Balanced Living
+title: "Right Livelihood Commonwork And Balanced Living"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -81,5 +81,5 @@ The relationship between simplicity and right livelihood is reciprocal: simplici
 
 ## See Also
 
-- [[effective-working-groups]] [[bioregionalism-and-community-organization]]]([[effective-working-groups-community-organization]].md) — on the structural mechanisms that enable commonwork
+- [[effective-working-groups]] [[bioregionalism-and-community-organization]]([[effective-working-groups-community-organization]].md) — on the structural mechanisms that enable commonwork
 - [[informal-and-formal-community-economics]] Community Economies]([[informal-formal-community-economies]].md) — on the financial systems that support right livelihood

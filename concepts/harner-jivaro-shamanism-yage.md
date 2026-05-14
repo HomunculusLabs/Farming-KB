@@ -65,7 +65,7 @@ If a **pasuk** is present, the shaman drinks **maikua** (*Datura arborea* or *su
 
 ## The Chemical Door
 
- Words alone can never adequately convey the realities of Jivaro shamanism. "These can only be approached with the aid of natem, the chemical door to the otherwise invisible world of the Jivaro shaman." -- Michael J. Harner
+ Words alone can never adequately convey the realities of Jivaro [[shamanism]]. "These can only be approached with the aid of natem, the chemical door to the otherwise invisible world of the Jivaro shaman." -- Michael J. Harner
 
 ## The Degree of Illness
 
@@ -77,6 +77,6 @@ Jivaro shamans consume natem, tobacco juice, and **piripiri** (a local Cyperus s
 
 ## The High Proportion of Jivaro Shamans
 
-Among the Jivaro, approximately **one in four adult men** is a shaman -- a remarkably high proportion. Harner attributes this partly to the presence of the natem drink, which makes it possible for virtually anyone to achieve the trance state necessary for [[shamanism]]
+Among the Jivaro, approximately **one in four adult men** is a shaman -- a remarkably high proportion. Harner attributes this partly to the presence of the natem drink, which makes it possible for virtually anyone to achieve the trance state necessary for shamanism
 - [[harmine]]
 - [[det]]

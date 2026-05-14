@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Species and Varieties
+title: Oyster Mushroom Species Variety
 created: 2026-04-28
 tags: [mycology, oyster mushroom, species, taxonomy]
 date: 2026-04-28
@@ -11,27 +11,27 @@ type: concept
 # Oyster Mushroom Species and Varieties
 
 The genus Pleurotus encompasses over 30 described species of gilled mushrooms,
-commonly known as oyster mushrooms for their shelf-like growth pattern
+commonly known as [[cultivation-of-oyster-mushrooms]] for their shelf-like growth pattern
 resembling oyster shells. Several species within this genus are commercially
 cultivated worldwide, each with distinct characteristics in appearance, flavor,
 growth requirements, and substrate preferences. Understanding these differences
 is essential for cultivators selecting appropriate species for their conditions
 and markets.
 
-For cultivation techniques and [[oyster-mushroom|oyster mushroom cultivation]].
+For [[cannabis-sativa-indoor-cultivation-techniques]] and [[oyster-mushroom|oyster mushroom cultivation]].
 
 ## Pleurotus ostreatus
 
 The classic oyster mushroom and the most widely cultivated species globally.
-Fruiting bodies have smooth, fan-shaped caps ranging from 5 to 25 centimeters
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] have smooth, fan-shaped caps ranging from 5 to 25 centimeters
 across. Color varies by strain from pale grey to dark blue-grey, with some
 strains browning with age. The flesh is white, firm, and mild in flavor with a
 subtle anise aroma.
 
 Pleurotus ostreatus is a cold-tolerant species that fruits optimally at 12 to
 18 degrees Celsius. It can fruit at temperatures as low as 5 degrees C, making
-it suitable for cultivation in cool climates and during winter months in
-temperate regions. It colonizes a wide range of substrates including straw,
+it suitable for cultivation in [[glasshouse-heat-management-cool-climates-mollison]] and during winter months in
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It colonizes a wide range of substrates including straw,
 sawdust, paper, and agricultural residues. [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]] or Indian oyster, this species is more
 heat-tolerant than P. ostreatus, fruiting well at 18 to 28 degrees C. It has a
 faster colonization rate and shorter cropping cycle, often producing the first

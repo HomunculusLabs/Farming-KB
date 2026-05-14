@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Permaculture village development follows a structured, phased approach that integrates legal, financial, and social frameworks from the outset. Bill Mollison outlines a comprehensive process for establishing self-reliant communities that balance individual autonomy with collective resource management through carefully designed trust structures.
+[[permaculture-village-development]] follows a structured, phased approach that integrates legal, financial, and social frameworks from the outset. Bill Mollison outlines a comprehensive process for establishing self-reliant communities that balance individual autonomy with collective resource management through carefully designed trust structures.
 
 ## The Development Process
 

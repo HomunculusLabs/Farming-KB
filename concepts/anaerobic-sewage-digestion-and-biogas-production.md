@@ -1,5 +1,5 @@
 ---
-title: Anaerobic Sewage Digestion and Biogas Production
+title: Anaerobic Sewage Digestion And Biogas Production
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Anaerobic digestion is the first and most critical stage in biological sewage treatment. Raw sewage — a mixture of nutrients, elements, heavy metals, and carbon compounds with dangerous levels of bacteria, viruses, and intestinal worm eggs — is processed in sealed, oxygen-free ponds (digesters) where it is converted into biogas (methane), a valuable fuel resource. This process simultaneously destroys pathogens and precipitates heavy metals from solution.
+Anaerobic digestion is the first and most critical stage in [[biological-sewage-treatment-plants]] treatment. Raw sewage — a mixture of nutrients, elements, heavy metals, and carbon compounds with dangerous levels of bacteria, viruses, and intestinal worm eggs — is processed in sealed, oxygen-free ponds (digesters) where it is converted into biogas (methane), a valuable fuel resource. This process simultaneously destroys pathogens and precipitates heavy metals from solution.
 
 ## Sewage Composition
 
@@ -20,7 +20,7 @@ A typical analysis of raw sewage (30% industrial, 60% domestic waste, from Werri
 | Biological oxygen demand (BOD) | 170–570 |
 | Suspended solids | 160–620 |
 | Volatile liquids | 180–510 |
-| Total organic carbon | 110–360 |
+| Total [[dighton-fungal-dissolved-organic-carbon-production]] | 110–360 |
 | Anionic surfactants | 10–36 |
 | Ammonia as N | 5–22 |
 | Organic N | 9–56 |
@@ -39,7 +39,7 @@ Of the total sewage input, 45–60% of the volume builds up as sludge in settlin
 
 ## Scaling: Pond Area to Population
 
-At Werribee (population 2,700,000), sewage lagoons cover 1,500 hectares (3,700 acres), yielding approximately 1 hectare of pond per 1,800 inhabitants. Scaled down:
+At Werribee (population 2,700,000), [[werribee-sewage-lagoons-mollison]] cover 1,500 hectares (3,700 acres), yielding approximately 1 hectare of pond per 1,800 inhabitants. Scaled down:
 
 - **Total pond system**: ~1 hectare per 1,800 people
 - **Primary settling ponds only**: ~1 hectare per 3,800 people
@@ -54,7 +54,7 @@ For 1,000 townspeople with associated industry, as little as 270 m² of settling
 
 ### Stage 1: Anaerobic (Methane-Producing) Ponds
 
-The first series of ponds is totally anaerobic. Sludge creates oxygen-free conditions, and biogas (a mixture of methane CH₄, carbon dioxide CO₂, and ammonia gas NH₃, with traces of nitrous sulphide) is produced. Biogas serves as useful fuel for engines or cooking, and should be captured rather than released to the atmosphere where it contributes to the greenhouse effect.
+The first series of ponds is totally anaerobic. Sludge creates oxygen-free conditions, and biogas (a mixture of methane CH₄, [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] CO₂, and ammonia gas NH₃, with traces of nitrous sulphide) is produced. Biogas serves as useful fuel for engines or cooking, and should be captured rather than released to the atmosphere where it contributes to the greenhouse effect.
 
 #### Design for Compact Digesters
 

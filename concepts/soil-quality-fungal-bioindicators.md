@@ -34,8 +34,8 @@ AMF bioindicators provide information on:
 - **Soil aggregation** — AMF hyphae produce glomalin, a sticky protein that binds soil particles
 - **[[core-endorhiza-bacterial-community-composition-cannabis]] of free-living soil fungi indicate:
 
-- **Organic matter status** — diverse saprotrophic communities indicate active decomposition
-- **Pollution levels** — heavy metals, pesticides, and other contaminants shift community composition
+- **[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] status** — diverse saprotrophic communities indicate active decomposition
+- **Pollution levels** — heavy metals, pesticides, and other contaminants shift [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]
 - **Soil moisture regime** — [[air-pollution-fungal-community-responses]] structure reflects long-term moisture conditions
 - **pH status** — fungal species have characteristic pH preferences
 
@@ -45,7 +45,7 @@ In forest soils, EMF communities indicate:
 
 - **Forest age and continuity** — old-growth associated EMF species indicate habitat continuity
 - **Tree host diversity** — EMF diversity reflects host tree species diversity
-- **Soil nitrogen status** — EMF communities shift with nitrogen availability
+- **Soil nitrogen status** — EMF communities shift with [[nitrogen-availability-in-legumes]]
 
 ## Quantitative Bioindicators
 
@@ -56,10 +56,10 @@ Plating soil dilutions on selective media yields CFU counts that indicate total 
 Direct microscopic measurement of hyphal length in soil samples provides a more comprehensive measure of fungal biomass than culture-based methods.
 
 ### Enzyme Activity
-Soil enzyme activities (cellulase, phosphatase, urease, dehydrogenase) often originate from fungi and indicate decomposition capacity and nutrient cycling rates.
+Soil enzyme activities (cellulase, phosphatase, urease, dehydrogenase) often originate from fungi and indicate decomposition capacity [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] rates.
 
 ### Molecular Diversity Indices
-DNA-based measures of fungal community diversity (Shannon index, species richness from metabarcoding) provide the most comprehensive bioindicator data but require specialized equipment.
+DNA-based measures of [[biodiversity-fungal-community-assembly]] diversity (Shannon index, species richness from metabarcoding) provide the most comprehensive bioindicator data but require specialized equipment.
 
 ## Applications
 
@@ -83,4 +83,4 @@ DNA-based measures of fungal community diversity (Shannon index, species richnes
 
 Soil fungal bioindicators are most powerful when integrated with:
 
-- Soil organic matter content
+- [[humus]] content

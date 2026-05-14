@@ -72,7 +72,7 @@ The seeds of Turbina corymbosa contain ergoline alkaloids, a class of
 compounds structurally related to [[lysergic-acid-amide-containing-plants-halpern]] (LSA, also known as ergine)** — the dominant
   psychoactive alkaloid, producing effects qualitatively similar to
   LSD though considerably less potent.
-- **Lysergic acid hydroxyethylamide (LSH)** — a related ergoline
+- **[[lysergic-acid-hydroxyethylamide]] (LSH)** — a related ergoline
   contributing to the overall psychoactive profile.
 - **Isoergine and other minor ergolines** — present in trace amounts.
 

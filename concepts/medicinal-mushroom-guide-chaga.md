@@ -1,5 +1,5 @@
 ---
-title: Chaga ([[chaga-inonotus-obliquus]]) — [[medicinal-mushroom-guide]]
+title: "Medicinal Mushroom Guide Chaga"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

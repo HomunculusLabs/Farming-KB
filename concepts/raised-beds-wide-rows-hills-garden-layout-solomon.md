@@ -1,5 +1,5 @@
 ---
-title: Raised Beds, Wide Rows, and Hills - Garden Layout Systems
+title: Raised Beds Wide Rows Hills Garden Layout Solomon
 source: gardening-when-it-counts-steve-solomon
 tags: [garden-layout, raised-beds, wide-rows, hills, spacing, irrigation, double-digging, seedbed]
 ---
@@ -39,10 +39,10 @@ The primary advantage of raised beds is that the growing areas stay
 looser because nobody walks on them. Walking on loosened soil compacts
 it and makes root development difficult for vegetables. A secondary but
 critical advantage is that elevated beds make it far easier to create a
-fine seedbed — essential for tiny seeds like lettuce and carrots that
+[[solomon-fine-seedbed-soil-tilth-clod-management-raking]] — essential for tiny seeds like lettuce and carrots that
 cannot push past clods or lumps. When you raise a bed a few inches, you
 can rapidly rake clods and lumps off the surface and push them into the
-paths, where they break down over the following months.
+paths, where they [[query-can-fungi-break-down-plastic-pollution]] over the following months.
 
 ## Why Double-Digging Is Unnecessary
 
@@ -66,7 +66,7 @@ to more soil moisture.
 In dry climates, Solomon recommends increasing [[wide-row-spacing-intensive-gardening-comparison]] significantly.
 When he lived in western Oregon, where summer rain is almost nonexistent,
 he used row centers of four to five feet (120-150 cm) depending on the
-crop. The wider spacing ensures that each plant's root zone can draw
+crop. The wider spacing ensures that each plant's [[cervantes-root-zone-heating]] can draw
 from a larger soil volume, reducing the need for supplemental watering.
 
 Raised wide rows are well-suited for larger plants such as Swiss chard,
@@ -77,5 +77,5 @@ broccoli varieties also work in wide rows.
 
 Hills are the preferred system for large, sprawling plants such as
 squash, melons, and some kinds of cucumbers, as well as for crops that
-grow in large clusters like sweet corn (which needs a cluster for wind
+grow in large clusters like [[growing-sweet-corn-organically]] (which needs a cluster for wind
 pollination). Hills are also used for large brassicas like kale,

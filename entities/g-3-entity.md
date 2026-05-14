@@ -18,7 +18,7 @@ Active psychedelic. Potent but with hints of discomfort that make the phenethyla
 
 The indane ring system produces a compound that is clearly psychoactive but lacks the compelling qualities of some other members of the Ganesha family.
 
-The structural exploration of bridged ring systems on the phenethylamine/amphetamine framework represents one of the more inventive aspects of the Shulgin research program.
+The structural exploration of bridged ring systems on the phenethylamine/amphetamine framework represents one of the more inventive aspects of the [[shulgin-research-contributions]] program.
 ## Practical Applications
 
 G-3 has a range of practical applications that make it relevant to
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

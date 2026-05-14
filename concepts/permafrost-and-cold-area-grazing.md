@@ -1,5 +1,5 @@
 ---
-title: Permafrost and Cold Area Grazing Systems
+title: Permafrost And Cold Area Grazing
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -36,14 +36,14 @@ Avalanches are classified by their recurrence patterns:
 Approximately **80% of avalanches** result from old snow being dislodged by moisture condensation when humidity exceeds 70%. The remaining 20% are caused by:
 
 - **Gusty winds**: Wind-loading creates unstable slab conditions on lee slopes
-- **Meltwater lubrication**: Occurs between midday and 3 PM as solar heating produces water at the snow base
+- **Meltwater lubrication**: Occurs between midday and 3 PM as [[fao-solar-heating-pasteurization-mushroom-cultivation]] produces water at the snow base
 
 **Critical warning signs**: Sudden snowfalls of 50–69 cm followed by cloud-free weather create highly unstable conditions that designers and land managers should monitor closely.
 
 ### Avalanche Impact Data
 
 - **Impact force**: 4–54 tonnes per square meter
-- **Compressed air blast**: 330 m/sec preceding the [[avalanche]] front
+- **Compressed air blast**: 330 m/sec preceding the [[avalanche-phenomenon]] front
 - **Snowdust avalanches**: 10–100 m/sec at 35 atmospheres of pressure
 
 ### Tree Indicators of Avalanche Paths
@@ -113,11 +113,11 @@ Iceland provides a detailed example of both the challenges and strategies for co
 
 ### Livestock Health and Parasite Management
 
-Mixed-livestock systems combined with **rotational grazing** are critical for controlling **Helminth worm** infestations. Parasite problems are notably worse on lowland fertilized pastures, where concentrated stocking creates transmission hotspots.
+Mixed-livestock systems combined with **[[comparison-rotational-grazing-vs-continuous-grazing]]** are critical for controlling **Helminth worm** infestations. Parasite problems are notably worse on lowland fertilized pastures, where concentrated stocking creates transmission hotspots.
 
 ### Fodder Crops and Trace Element Deficiencies
 
-Recommended fodder species for cold-area systems include kale, rape, ryegrass, barley, and rye. Nutrient deficiencies are a persistent challenge:
+Recommended fodder species for cold-area systems include kale, rape, ryegrass, barley, and rye. [[hamilton-nutrient-deficiencies-and-treatment]] are a persistent challenge:
 
 | Deficiency | Affected System | Affected Organism |
 |------------|-----------------|-------------------|
@@ -129,7 +129,7 @@ Recommended fodder species for cold-area systems include kale, rape, ryegrass, b
 
 ### Vegetation and Deforestation Impacts
 
-Iceland has suffered catastrophic deforestation, with forest cover reduced to approximately **5% of original extent** and **50% of vegetative cover lost** overall. Despite the availability of willow and dwarf birch, shrub and tree browsing by livestock remains underdeveloped. Sandy cold-desert species on degraded land include thyme, Festuca grasses, lichens, dwarf birch, sedges, and cottongrasses.
+Iceland has suffered catastrophic deforestation, with forest cover reduced to approximately **5% of original extent** and **50% of vegetative cover lost** overall. Despite the availability of willow and dwarf birch, shrub and tree browsing by livestock remains underdeveloped. Sandy cold-desert species [[query-how-do-i-establish-a-food-forest-on-degraded-land]] include thyme, Festuca grasses, lichens, dwarf birch, sedges, and cottongrasses.
 
 ## Design Principles for Cold-Climate Systems
 
@@ -138,7 +138,7 @@ Iceland has suffered catastrophic deforestation, with forest cover reduced to ap
 3. **Implement rotational grazing** with mixed livestock to break parasite cycles
 4. **Address trace element deficiencies** through strategic supplementation and diverse pasture species
 5. **Prioritize reforestation** using native pioneer species to restore degraded cold landscapes
-6. **Reduce grazing pressure** on eroding soils while developing innovative forestry systems
+6. **Reduce [[gadd-mycelial-network-resilience-grazing-pressure]]** on eroding soils while developing innovative forestry systems
 7. **Read landscape indicators** — tree deformation, bare strips, and frost features inform safe placement of structures and grazing zones
 
 The intersection of snow mechanics, permafrost ecology, and grazing management demands integrated design approaches that respect the extreme sensitivity of cold-climate systems to surface disturbance and management change.

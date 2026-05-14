@@ -23,7 +23,7 @@ sources:
 
 # Jude Hobbs
 
-Jude Hobbs is an American permaculture designer, educator, and ecological land-use consultant based in the Pacific Northwest (Cascadia bioregion). She is the founder and director of **Cascadia Permaculture Institute** and has been teaching permaculture design courses (PDCs) since the early 1990s, making her one of the most experienced permaculture educators in [[pdc-water-harvesting-earthworks-design]], and wildlife habitat corridors.
+Jude Hobbs is an American permaculture designer, educator, and ecological land-use consultant based in the Pacific Northwest (Cascadia bioregion). She is the founder and director of **Cascadia [[permaculture-institute]]** and has been teaching permaculture design courses (PDCs) since the early 1990s, making her one of the most experienced permaculture educators in [[pdc-water-harvesting-earthworks-design]], and wildlife habitat corridors.
 
 Hobbs holds qualifications in permaculture design, horticulture, and landscape architecture. She has served on the board of several permaculture organizations and has been an active voice in the professionalization of permaculture design as a discipline.
 

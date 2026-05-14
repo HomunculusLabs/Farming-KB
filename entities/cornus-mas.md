@@ -3,7 +3,7 @@ title: "Cornus mas"
 created: 2026-04-28
 type: species
 tags:
-  - agroforestry
+  - [[agroforestry]]
   - cornaceae
   - medicinal-plant
   - ornamental
@@ -21,7 +21,7 @@ sources:
 *Cornus mas*, commonly known as cornelian cherry, is a deciduous
 multi-stemmed shrub or small tree in the family Cornaceae, native
 to southern Europe and western Asia. It produces bright red,
-cherry-like stone fruits with a tart, complex flavor that has been
+cherry-like [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]] with a tart, complex flavor that has been
 used in culinary traditions for millennia.
 
 The species is among the earliest-flowering temperate woody plants,

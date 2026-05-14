@@ -66,7 +66,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[sumiruna]]
-- [[shamanism]]
+- shamanism
 - [[icaros]]
 
 ## Overview

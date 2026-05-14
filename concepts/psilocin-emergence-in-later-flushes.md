@@ -8,7 +8,7 @@ tags: [psilocin, psilocybe-cubensis, alkaloid-biosynthesis, flush, enzymatic-con
 
 # Psilocin Emergence in Later Flushes
 
-Psilocin levels in *[[psilocin-biosynthetic-delay-hypothesis-successive-flushes]].
+[[psilocin]] levels in *[[psilocin-biosynthetic-delay-hypothesis-successive-flushes]].
 
 Psilocin is generally absent or nearly absent in the first flush, increases to a maximum by the fourth flush, and then begins to decline.
 
@@ -66,7 +66,7 @@ Unfortunately, the researchers could not follow the decline further because most
 
 ## Biosynthetic Interpretation
 
-The delayed emergence of psilocin suggests that the enzyme responsible for its production from psilocybin (or from a common precursor) requires time to reach full expression.
+The delayed emergence of psilocin suggests that the enzyme responsible for its production from [[psilocybin]] (or from a common precursor) requires time to reach full expression.
 
 Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) is the phosphorylated form.
 

@@ -29,7 +29,7 @@ The King's Chamber is the focal point of the initiation rite. Several physical f
 A tub in the central chamber, known to have played a ceremonial role, is linked to preparation for "entry into the heavens." Evidence includes:
 
 - **Salt deposits** covering the walls of the chamber interior, suggesting salt water was used
-- **Sensory deprivation** — buoyant salt water in the tub would function as a flotation tank, analogous to the isolation tanks used in modern consciousness research (referencing the film "Altered States")
+- **Sensory deprivation** — buoyant salt water in the tub would function as a flotation tank, analogous to the isolation tanks used in modern consciousness research (referencing the film "[[glossolalia-and-altered-states]]")
 - **Astronomical alignment** — small portals in the chamber may have aligned with specific regions of the sky (possibly Sirius or Orion) at particular times
 - **Directional guidance** — the portals may have been intended to direct the spirit of the initiate toward specific celestial destinations
 
@@ -66,7 +66,7 @@ The pyramid initiation is described as functioning like a slingshot: the further
 
 ## The Priest as Water-Bearer
 
-The hieroglyphic symbol for the Egyptian priest is described as resembling the astronomical sign for **Aquarius** — a figure pouring water from a vessel. The priest is characterized as the "water-bearer," the one who "knows fully and understands the true nature of the waters of life" and can dispense this knowledge to worthy recipients. This connects the Egyptian priesthood directly to the "living waters" tradition and the entheogenic sacraments.
+The hieroglyphic symbol for the Egyptian priest is described as resembling the astronomical sign for **Aquarius** — a figure pouring water from a vessel. The priest is characterized as the "water-bearer," the one who "knows fully and understands the true nature of the waters of life" and can dispense this knowledge to worthy recipients. This connects the Egyptian priesthood directly to the "[[biblical-living-waters-sacramental-substitution]]" tradition and the entheogenic sacraments.
 
 ## Manley P. Hall's Account
 
@@ -111,7 +111,7 @@ Despite the ideal of merit-based advancement, the Egyptian system was "supremely
 The Aten symbolizes the mushroom cap with the gills stylized as wings. This connects the Egyptian solar theology directly to mushroom imagery.
 
 ### The Scarab Beetle
-The Egyptian scarab contains mushroom symbolism:
+The Egyptian scarab contains [[allegro-cross-and-mushroom-symbolism]]:
 - **Wings** representing the gills of the mushroom
 - **Sun and moon discs** incorporated into the design
 - **Hermaphroditic/self-generating** nature — the scarab, like the mushroom, is self-generating, with male and female characteristics within a single organism

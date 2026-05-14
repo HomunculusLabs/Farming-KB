@@ -23,7 +23,7 @@ Rocket stoves are hyper-efficient, clean-burning wood combustion systems that us
 
 ### The J-Tube Configuration
 
-The classic rocket stove uses a J-tube layout:
+The classic [[rocket-stove]] uses a J-tube layout:
 
 ```
         Heat Riser (insulated)

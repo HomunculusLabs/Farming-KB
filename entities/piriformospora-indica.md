@@ -46,7 +46,7 @@ as primary propagules for root colonization. In culture, the fungus forms dark,
 melanized [[plant-nutrient-uptake-mechanisms]] from the fungus: phosphorus solubilization of insoluble
 phosphates, improved nitrogen and micronutrient (Zn, Fe, Cu, Mn) acquisition, and
 auxin-like compounds that stimulate lateral root formation. Colonized plants show
-increased photosynthetic efficiency, higher chlorophyll content, earlier flowering,
+increased [[photosynthetic-efficiency]], higher chlorophyll content, earlier flowering,
 and yield increases of 15–30%.
 
 ## Agricultural Applications

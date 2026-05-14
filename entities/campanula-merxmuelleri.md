@@ -88,7 +88,7 @@ No in situ monitoring programs are currently active. Botanists have called for r
 
 Campanula merxmuelleri is among the most challenging bellflowers to cultivate. It requires sharply drained, lime-rich substrates and cool, humid conditions that mimic its mountain habitat.
 
-Plants must be protected from winter wet, which causes rapid rotting of the cushion. An alpine house or well-ventilated cold frame is essential in cultivation.
+Plants must be protected from winter wet, which causes rapid rotting of the cushion. An alpine house or well-ventilated [[cold-frame]] is essential in cultivation.
 
 Propagation is by seed, which should be sown in late autumn on the surface of a gritty compost. Germination occurs in spring at cool temperatures.
 

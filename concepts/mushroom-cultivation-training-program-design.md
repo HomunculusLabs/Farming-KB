@@ -32,17 +32,17 @@ Trainees rotate through four sectors in sub-groups of 4–6 persons. This rotati
 
 The program follows a structured 9-week timeline that progressively builds skills while balancing classroom learning, hands-on rotations, motivational support, and real-world exposure:
 
-- **Week 1** — Registration and intake assessment of each trainee's capacities and goals. Initial motivational sessions to build group cohesion and personal commitment. Hands-on practice begins with basic introductory tasks across all four sectors.
+- **Week 1** — Registration and intake assessment of each trainee's capacities and goals. Initial [[motivational-sessions-trainees]] to build group cohesion and personal commitment. Hands-on practice begins with basic introductory tasks across all four sectors.
 
 - **Week 2** — Formal opening ceremony with stakeholders and community members. Comprehensive overview on mushrooms covering their nature and biology, humidity and ventilation requirements, light needs, common diseases and insects, nutritional [[solomon-disease-identification-and-organic-remedies]] pest control measures specific to bag-based cultivation systems.
 
 - **Week 5** — Second series of motivational sessions to sustain energy and commitment at the program's midpoint. Continued hands-on rotation with trainees taking on increasing responsibility and independence in their assigned sector tasks.
 
-- **Week 6** — Spawn production covering both agar culture techniques and [[grain-spawn-preparation]]. Instruction on packaging techniques for substrate bags and spawn. Introduction to marketing fundamentals and pricing strategies for mushroom products.
+- **Week 6** — Spawn production covering both [[agar-culture-techniques-detailed]] and [[grain-spawn-preparation]]. Instruction on packaging techniques for substrate bags and spawn. Introduction to marketing fundamentals and pricing strategies for mushroom products.
 
 - **Week 7** — Alternative cultivation methods including log cultivation and straw mushroom techniques. Waste management through composting of spent substrate. Post-harvest processing methods including drying, powdering, and pickling for product diversification.
 
-- **Week 8** — Enterprise development and business planning for small-scale mushroom operations, including cost calculation, revenue projection, and market identification. Continued hands-on rotation with targeted focus on areas where individual trainees need additional practice.
+- **Week 8** — [[enterprise-development-mushroom-growers]] and business planning for small-scale mushroom operations, including cost calculation, revenue projection, and market identification. Continued hands-on rotation with targeted focus on areas where individual trainees need additional practice.
 
 - **Week 9** — Field trips to established mushroom farms for real-world observation of commercial production systems. Final evaluation of each trainee's competencies across all sectors. Closing ceremony with certificate distribution and celebration of achievements.
 
@@ -61,11 +61,11 @@ By hearing directly from people who have built successful businesses — includi
 
 ## Adaptation Strategies by Disability Type
 
-Designing effective adaptations requires understanding the specific challenges associated with different types of disability. The following strategies have proven effective in mushroom cultivation training settings:
+Designing effective adaptations requires understanding the specific challenges associated with different types of disability. The following strategies have proven effective [[contamination-prevention-in-mushroom-cultivation]] training settings:
 
 **Mobility impairments** — Arrange all workstations at accessible heights for wheelchair users. Use wheeled carts for transporting heavy bags between stations rather than carrying them manually. Install ramps where level changes exist and ensure doorways are wide enough for wheelchair passage. Tricycles adapted with cargo baskets can serve for outdoor tasks and longer-distance transport within the cultivation site.
 
-**Visual impairments** — Use tactile markers on bags and containers to indicate species, date, and inoculant. Provide audio cues for environmental monitoring (humidity levels, temperature readings). Pair visually impaired trainees with sighted partners for contamination inspection tasks. Brightly colored labels and high-contrast signage help those with partial vision.
+**Visual impairments** — Use tactile markers on bags and containers to indicate species, date, and inoculant. Provide audio cues for [[singh-fungal-biosensors-environmental-monitoring]] (humidity levels, temperature readings). Pair visually impaired trainees with sighted partners for contamination inspection tasks. Brightly colored labels and high-contrast signage help those with partial vision.
 
 **Hearing impairments** — Supplement all verbal instructions with written or visual guides. Use demonstration-heavy teaching methods where trainees can observe and replicate actions. Ensure safety alarms have visual indicators (flashing lights) in addition to audible alerts. Sign language interpreters should be available for complex theoretical sessions.
 

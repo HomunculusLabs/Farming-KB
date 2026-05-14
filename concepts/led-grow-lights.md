@@ -30,7 +30,7 @@ the texture, flavor retention, market value, and [[hps-grow-lights]]
 - [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]
 ## Practical Applications
 
-LED Grow Lights for Cannabis has a range of practical applications that make it relevant to
+[[comparison-cmh-vs-led-grow-lights]] for Cannabis has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -45,7 +45,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

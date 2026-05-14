@@ -1,5 +1,5 @@
 ---
-title: [[effective-working-groups-community-organization]] and [[pdc-right-livelihood-and-permaculture-economics]]
+title: "Effective Working Groups Right Livelihood"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

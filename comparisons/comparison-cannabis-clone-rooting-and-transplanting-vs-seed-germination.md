@@ -72,7 +72,7 @@ predictable results from grow [[comparison-seed-balls-vs-transplanting]]
 
 ## Overview
 
-Comparison Cannabis Clone Rooting And Transplanting Vs Seed Germination represents an important element within sustainable
+Comparison [[cannabis-clone-rooting-and-transplanting]] Vs Seed Germination represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Termites and ants are the dominant soil mesofauna of arid and humid subtropical regions. In these climates, they fulfill ecological functions analogous to those performed by earthworms in temperate zones — cycling nutrients, aerating soil, and driving the decomposition of organic matter. Understanding their role is essential for any [[the-soil-food-web]].
+Termites and ants are the dominant soil mesofauna of arid and humid subtropical regions. In these climates, they fulfill ecological functions analogous to those performed by earthworms in temperate zones — cycling nutrients, aerating soil, and driving the decomposition of organic matter. Understanding their role is essential for any [[soil-food-web]].
 
 This primary breakdown step is critical in tropical systems where large volumes of coarse organic material are generated through pruning, harvesting, and natural leaf fall. Without termites, this material would persist as slow-decomposing mats that smother soil surfaces and delay nutrient cycling across the entire system.
 

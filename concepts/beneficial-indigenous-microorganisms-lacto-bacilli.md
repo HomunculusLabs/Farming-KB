@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Beneficial Indigenous Microorganisms (BIM) are locally occurring microorganisms that are cultured and applied in natural farming systems to improve soil health, plant vitality, animal welfare, and waste decomposition. Rather than purchasing commercially produced microbial inoculants, the natural farming approach empowers farmers to collect, culture, and multiply microorganisms already present in their local environment. This philosophy of self-reliance is central to the work of **Gil A. Carandang** of **Herbana Farms** in Burol, Calamba City, Laguna, Philippines, and is rooted in the teachings of his mentor, **Dr. [[korean-natural-farming]] Association.
+Beneficial Indigenous Microorganisms (BIM) are locally occurring microorganisms that are cultured and applied [[cho-loess-powder-in-natural-farming]] systems to improve soil health, plant vitality, animal welfare, and waste decomposition. Rather than purchasing commercially produced microbial inoculants, the natural farming approach empowers farmers to collect, culture, and multiply microorganisms already present in their local environment. This philosophy of self-reliance is central to the work of **Gil A. Carandang** of **Herbana Farms** in Burol, Calamba City, Laguna, Philippines, and is rooted in the teachings of his mentor, **Dr. [[korean-natural-farming]] Association.
 
 ## The Philosophy: Farming Self-Reliance
 
@@ -33,7 +33,7 @@ Carandang credited Dr. Cho as his mentor and also drew from the natural farmers 
 
 ## Lactic Acid Bacteria: The Major Workhorse
 
-Among the many beneficial microorganisms in the BIM spectrum, **lactic acid bacteria** (lacto bacilli) stand out as one of the most important and versatile. They are described as a "major workhorse" in natural farming due to their wide range of applications:
+Among the many [[forest-and-bamboo-beneficial-microorganisms]] in the BIM spectrum, **lactic acid bacteria** (lacto bacilli) stand out as one of the most important and versatile. They are described as a "major workhorse" in natural farming due to their wide range of applications:
 
 ### Composting and Odor Control
 
@@ -70,7 +70,7 @@ The role of BIMs in creating and maintaining living soil includes:
 - **Disease suppression**: A healthy population of beneficial microorganisms outcompetes pathogens, creating an environment where diseases cannot establish.
 - **Completing the nutrient cycle**: In well-managed systems (such as the Herbana Farms poultry operation), no waste is created. Organic matter is decomposed by microorganisms, nutrients are recycled, and fertility is maintained without external inputs.
 
-The investment in "natural capital" — the soil itself — through microbial proliferation is the foundation of sustainable agriculture. By culturing and applying BIMs, farmers actively build the living soil ecosystem that sustains long-term productivity.
+The investment in "natural capital" — the soil itself — through microbial proliferation is the foundation of [[phosphate-accumulators-sustainable-agriculture]]. By culturing and applying BIMs, farmers actively build the living soil ecosystem that sustains long-term productivity.
 
 ## Summary of Key Applications
 
@@ -86,7 +86,7 @@ The investment in "natural capital" — the soil itself — through microbial pr
 
 ## See Also
 
-- Korean Natural Farming (KNF)
-- bionutrients and fermented plant extracts
+- [[korean-natural-farming]] (KNF)
+- bionutrients and [[korean-natural-farming-imo-collection-fermented-plant-extracts]]
 - Living Soil and Soil Microbiome
 - [[natural-farming-philosophy-and-principles]]

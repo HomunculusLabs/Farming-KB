@@ -25,7 +25,7 @@ drains downhill at night, pooling in low-lying areas where it settles
 and damages sensitive plants. In mountainous regions, valley frosts form
 below tree lines at night as cold air cascades from upper slopes.
 
-Conversely, frost is absent in the "thermal belt" on hillsides and
+Conversely, frost is absent in the "[[thermal-belt]]" on hillsides and
 under tree canopies. The thermal belt is a zone on middle and upper
 slopes where cold air drains past rather than accumulating. House and
 garden placement on the thermal belt is a primary design strategy.

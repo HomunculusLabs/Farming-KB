@@ -61,7 +61,7 @@ The Jarrold method specifies sterilization at maximum pressure (15 psi) for 60 m
 | Substrate Type | Volume per Bag | Pressure | Time | Notes |
 |---|---|---|---|
 | Straw (chopped) | 1-2 kg | 15 psi | 60 min | Jarrold method |
-| Grain (quart jars) | 750 g | 15 psi | 90 min | Standard grain spawn |
+| Grain (quart jars) | 750 g | 15 psi | 90 min | Standard [[grain-spawn]] |
 | Grain (quart jars) | 750 g | 15 psi | 120 min | Extra safety margin |
 | Sawdust/wood | 2-3 kg | 15 psi | 90-120 min | Dense substrate needs more time |
 | [[oyster-mushroom-supplemented-sawdust-blocks]] | 2-3 kg | 15 psi | 120-180 min | Supplements require extended sterilization |

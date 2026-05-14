@@ -16,7 +16,7 @@ feature that separates it from most Psilocybe species. The species
 complex with P. squamosa and P. thrausta can be resolved by cheilocystidia
 length. Its presence in alluvial and riparian habitats with Salix
 and Alnus suggests a preference for nitrogen-rich soils near
-waterways, an ecological niche shared with several other
+waterways, an [[ecological-niche]] shared with several other
 Psilocybe and Stropharia species.
 
 ## See Also

@@ -147,11 +147,3 @@ Greece was once covered in wet rain forests with enormous oak and columnar beech
 ## Hazardous Materials
 
 Store high explosives, fuel drums, and similar materials in separate sheds, dispersed from living areas. When one ignites, the others must not be affected.
-
-## Regional Applicability
-
-In some areas, fire control can be entirely ignored — regions that have never burned in their history face negligible sweeping fire risk. However, even humid climate forests are not invulnerable; when conditions dry and winds reach 50–60 mph, a backfire from a car can ignite vast areas.
-
-## The Design Principle
-
-Function always comes first, then aesthetics. A landscape architect who creates an aesthetically pleasing arrangement of fire-promoting vegetation (eucalyptus with pampas grass converging on a house) has produced something that "looks reasonable" but "could be fatal." Every element placement decision must account for fire behavior before considering visual appeal.

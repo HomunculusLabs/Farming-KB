@@ -10,7 +10,7 @@ sources:
 ---
 # Natural Farming and Spirituality
 
-Masanobu Fukuoka's [[fukuoka-view-of-nature-and-human-hubris]] -- epistemology and limits of knowledge
+[[masanobu-fukuoka]]'s [[fukuoka-view-of-nature-and-human-hubris]] -- epistemology and limits of knowledge
 - [[fukuoka-western-eastern-philosophy-agriculture]]
 
 ## See Also
@@ -18,7 +18,7 @@ Masanobu Fukuoka's [[fukuoka-view-of-nature-and-human-hubris]] -- epistemology a
 - [[fukuoka-heart-sutra-and-illusion-of-life-death]]
 ## Practical Applications
 
-Natural Farming and Spirituality has a range of practical applications that make it relevant to
+[[natural-farming]] and Spirituality has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

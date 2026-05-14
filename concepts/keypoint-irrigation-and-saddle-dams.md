@@ -40,7 +40,7 @@ of water rather than mere channels. These "ditch-as-lake" systems serve dual
 purposes: they transport water across the landscape while simultaneously providing
 surface storage and evaporation reduction through their greater depth. A large-scale
 ditch-lake system becomes a chain of interconnected small ponds threading across a
-slope, each section holding water for slow release into garden or agricultural zones.
+slope, each section holding water for [[solomon-chemical-vs-organic-fertilizer-slow-release-trace-minerals]] into garden or agricultural zones.
 
 ## Saddle Dams: Highest Water Storages
 
@@ -77,7 +77,7 @@ forest edges from advancing [[wildfire]].
 
 ## Wildlife Enrichment
 
-High water storages dramatically increase wildlife habitat value across the
+High water storages dramatically increase [[hemenway-backyard-wildlife-habitat]] value across the
 property. Mollison emphasizes that seed-eating birds — critical for natural
 reforestation and pest control — must have access to water within 24 hours of
 eating dry seeds, or they cannot digest them properly. Without high-elevation water
@@ -115,9 +115,9 @@ hierarchy:
 
 1. **Domestic supply** — drinking water, household use, and fire protection receive
    the first and highest-quality allocation, sourced from the cleanest storages.
-2. **Intensive garden** — vegetable gardens, orchards, and nursery systems receive
+2. **[[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]** — [[maintaining-organic-matter-in-vegetable-gardens]], orchards, and nursery systems receive
    the next priority, as they produce the highest value per unit of water applied.
-3. **Extensive agriculture** — broadacre crops, pasture, and livestock grazing use
+3. **Extensive agriculture** — broadacre crops, pasture, and [[savory-livestock-grazing-planning]] use
    remaining water through larger-scale methods like flag irrigation or flood flow.
 
 This hierarchy ensures critical uses are protected even in drought. High storages
@@ -131,7 +131,7 @@ This target provides sufficient storage for year-round supply, adequate wildlife
 habitat, fire protection coverage, and microclimate moderation. Achieving this
 through a combination of high saddle dams, keypoint dams, valley dams, contour
 dams, and [[swale]] networks creates a resilient, self-watering landscape that minimizes
-external irrigation dependency and maximizes ecological function.
+external irrigation dependency and maximizes [[bloomfield-fungal-fruiting-body-morphology-ecological-function]].
 
 ## Design Principles Summary
 

@@ -54,7 +54,7 @@ symbiosis regulation and pathogen defense.
 ## Effects on Phytophthora Zoospore Chemotaxis
 
 The chemotactic response of Phytophthora nicotianae zoospores to
-mycorrhizal root exudates varies with the developmental stage of the
+mycorrhizal [[root-exudates]] varies with the developmental stage of the
 mycorrhizal association. Exudates from mature mycorrhizal roots attracted
 significantly fewer zoospores than water or exudates from
 nonmycorrhizal roots. Conversely, exudates from actively growing young

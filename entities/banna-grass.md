@@ -16,7 +16,7 @@ requires irrigation to remain productive.
 
 - **Kingdom**: Plantae
 - **Family**: Poaceae
-- **Genus**: Pennisetum
+- **Genus**: [[pennisetum]]
 - **Common names**: Banna grass, Napier grass, [[acacia]].
 
 ### Parallel Planting System
@@ -30,7 +30,7 @@ Regular cutting provides abundant material for:
 - Garden bed mulching
 - [[compost]] pit filling
 - Potato box mulching
-- Soil improvement through decomposition
+- Soil improvement through [[decomposition]]
 
 ### Animal Fodder
 Highly nutritious as livestock fodder for cattle, goats, and other domestic

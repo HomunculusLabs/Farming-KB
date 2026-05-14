@@ -1,5 +1,5 @@
 ---
-title: Cold and [[cold-montane-deserts-design]]
+title: "Cold Montane Deserts"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

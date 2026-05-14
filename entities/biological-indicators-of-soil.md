@@ -1,5 +1,5 @@
 ---
-title: Biological Indicators of Soil and Site Conditions
+title: Biological Indicators Of Soil
 source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 tags: [technique, permaculture, soil-health, indicator-plants, site-analysis]
@@ -12,7 +12,7 @@ Biological indicators are plant, animal, and fungal species whose presence, abse
 ## Classification
 
 - **Category**: Permaculture technique / Site analysis method
-- **Type**: Biological assessment using indicator species
+- **Type**: [[soil-microscopy-and-biological-assessment]] using indicator species
 - **Scale**: Garden to landscape
 - **Equipment needed**: None — observation-based
 - **Sources**: Plant morphology, animal populations, soil surface conditions
@@ -80,7 +80,7 @@ minimizing soil disturbance, maintaining ground cover, and incorporating diverse
 ## Overview
 
 Biological Indicators Of Soil represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Biological Indicators Of Soil finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 biological indicators of soil and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

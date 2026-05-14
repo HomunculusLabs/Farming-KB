@@ -11,7 +11,7 @@ sources: []
 ## Overview
 
 [[maitake-cultivation|Maitake]]
-(Grifola frondosa) are two of the most valued medicinal mushrooms in cultivation.
+([[grifola-frondosa]]) are two of the most valued [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] in cultivation.
 Lion's Mane is celebrated for its neuroprotective compounds and cognitive benefits,
 while Maitake is prized for its immune-modulating beta-glucans and culinary richness.
 Both are wood-decomposing basidiomycetes that grow on hardwood substrates, but they
@@ -23,18 +23,18 @@ market or kitchen application.
 
 [[maitake-cultivation|Grifola frondosa]], known as Hen of the Woods, forms large
 clustered rosettes of grayish-brown fan-shaped caps. A single wild specimen can reach
-50 pounds. Its signature bioactive compound is the D-fraction beta-glucan complex,
+50 pounds. Its signature [[ganoderma-lucidum-triterpenoids-and-bioactive-compound-pharmacology]] is the D-fraction beta-glucan complex,
 which demonstrates both immune activation and direct cytotoxic effects on cancer cells —
-a dual mechanism unique among mushroom polysaccharides. Maitake also shows promise for
+a dual mechanism unique among [[clinical-trials-of-mushroom-polysaccharides-in-cancer-treatment]]. Maitake also shows promise for
 blood sugar regulation and cardiovascular health, with clinical evidence of reduced
 insulin resistance in human studies.
 
 Cultivation is considerably more challenging than Lion's Mane. Mycelium colonizes
 slowly (30-60 days), is vulnerable to contamination during the extended run, and
 demands precise cold-shock triggers (55-60°F for 5-7 days) to initiate fruiting.
-Biological efficiency is lower (50-100%), and growers typically harvest only 1-2
+[[biological-efficiency]] is lower (50-100%), and growers typically harvest only 1-2
 flushes per block. Oak-based sawdust is strongly preferred; alternative substrates
-produce inconsistent results. Maitake cultivation is best suited for experienced
+produce inconsistent results. [[comparison-enoki-vs-maitake-cultivation]] is best suited for experienced
 growers with controlled-environment fruiting chambers.
 
 In the kitchen, Maitake has a firm, peppery, earthy flavor that excels in soups,

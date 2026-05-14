@@ -122,4 +122,8 @@ The growing mycelium materials industry offers rich opportunities for applied re
 
 ## Cross-Cutting Themes
 
-Across all grade levels, mycology education reinforces several enduring concepts: the interconnectedness of living systems, the importance of decomposition and nutrient cycling, the potential of fungi to solve environmental challenges, and the value of careful observation and scientific inquiry. Educators are encouraged to adapt these activities to local resources, seasonal availability, and student interests. By engaging students with hands-on fungal activities at every stage of their education, programs cultivate ecological literacy and inspire the next generation of mycologists, environmental scientists, and sustainability innovators.
+Across all grade levels, [[mycology]] education reinforces several enduring concepts: the interconnectedness of living systems, the importance of [[decomposition]] [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]], the potential of fungi to solve environmental challenges, and the value of careful observation and scientific inquiry. Educators are encouraged to adapt these activities to local resources, seasonal availability, and student interests. By engaging students with hands-on fungal activities at every stage of their education, programs cultivate ecological literacy and inspire the [[next-generation-sequencing-hidden-fungal-diversity]] of mycologists, environmental scientists, and sustainability innovators.
+
+## See Also
+
+- [[contamination-prevention-mycology]]

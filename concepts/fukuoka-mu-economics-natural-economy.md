@@ -18,7 +18,7 @@ The "false system of values" Fukuoka identifies is the one that equates cost wit
 
 Mu economics cannot exist in isolation. It requires a coherent social and political framework to sustain it:
 
-> "Mu natural farming must be supported and implemented with Mu economics and Mu government."
+> "Mu [[beneficial-indigenous-microorganisms-natural-farming]] must be supported and implemented with Mu economics and Mu government."
 
 By "Mu government," Fukuoka envisions governance that does not interfere with natural processes — that does not subsidize destructive practices, regulate farmers into dependency, or impose economic frameworks alien to the land. The three pillars — Mu farming, Mu economics, Mu government — form an integrated vision of a society organized around natural principles rather than human contrivance.
 
@@ -28,7 +28,7 @@ Central to Fukuoka's economic thought is the observation that prices are a human
 
 > "When I say that crops do not need to be priced, I mean that whether they have prices or not make no difference to the farmer who dedicates himself [[cannabis-chemical-fertilizers]], pesticides, or herbicides. He does not purchase machinery or fuel. He does not hire labor at market rates. His household labor is part of his way of life, not a cost to be reckoned:
 
-> "Because he has no use for various chemical-based farming materials and does not reckon household labor into his expenses, then his production costs are zero."
+> "Because he has no use for various chemical-based farming materials and does not reckon household labor into his expenses, then his [[fukuoka-textdoc-production-costs-not-coming-down]] are zero."
 
 If this principle were adopted universally, the consequences would be transformative:
 
@@ -52,7 +52,7 @@ The price differentials between nations are, in Fukuoka's view, artifacts of the
 
 Rice is rice. Its value as food does not change with the flag under which it is grown. The price differences that drive international trade — created by subsidies, tariffs, labor costs, currency fluctuations, and speculative markets — are distortions imposed upon a reality that knows no such distinctions.
 
-The global food trade also imposes aesthetic and quality standards that are fundamentally at odds with nature's diversity:
+The global food trade also imposes aesthetic and [[aact-compost-quality-standards-ingham]] that are fundamentally at odds with nature's diversity:
 
 > "No one should find fault with the shape of a cucumber or the size of a fruit. Bitter cucumbers and sour fruit too each have their proper worth."
 
@@ -68,7 +68,7 @@ His prescription was simple and radical:
 
 > "People of each land need only eat food grown close at hand and be contented."
 
-Local food systems, in Fukuoka's view, are not a lifestyle choice or an environmental preference — they are the natural order. The global food trade is a symptom of a deeper disorder:
+Local food systems, in Fukuoka's view, are not a lifestyle choice or an environmental preference — they are the [[fukuoka-natural-order-microbes-scavengers-man-heretic]]. The global food trade is a symptom of a deeper disorder:
 
 > "What has occurred is that a money-crazed economy has bred senseless competition in food production and thrown dietary habits into chaos."
 
@@ -88,7 +88,7 @@ This is an economy of proximity and relationship, not distance and abstraction. 
 
 Fukuoka reserved some of his sharpest criticism for Japan's post-war agricultural policy, which he saw as a case study in the destruction of agriculture by economic thinking:
 
-> "Following the end of the war, Japanese agriculture was regarded as an economic sphere of activity and turned into a business-like occupation. This set a course of destruction from within that has continued unabated ever since."
+> "Following the end of the war, [[fukuoka-breakdown-japanese-agriculture]] was regarded as an economic sphere of activity and turned into a business-like occupation. This set a course of destruction from within that has continued unabated ever since."
 
 The transformation of farming from a way of life into an economic activity was not progress but a kind of spiritual suicide. It stripped agriculture of its deeper meaning — its connection to the land, its role in sustaining community, its sacred dimension as the work of feeding life — and reduced it to a set of inputs and outputs to be optimized.
 

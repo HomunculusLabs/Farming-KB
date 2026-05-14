@@ -15,7 +15,7 @@ type: concept
 
 # Word Collaboration Features
 
-Microsoft Word has evolved from a standalone desktop application into a
+[[microsoft-word]] has evolved from a standalone desktop application into a
 collaborative platform, reflecting the broader shift in knowledge work toward
 real-time teamwork and cloud-based workflows. Modern Word includes a suite of
 features designed to support multiple authors working simultaneously on the same
@@ -23,7 +23,7 @@ document.
 
 ## Track Changes
 
-Track Changes is one of Word's oldest and most essential collaboration features.
+[[track-changes]] is one of Word's oldest and most essential collaboration features.
 When enabled, it records every insertion, deletion, and formatting modification
 as a visible markup in the document. Authors can accept or reject individual
 changes, and each change is attributed to a specific author with a timestamp.

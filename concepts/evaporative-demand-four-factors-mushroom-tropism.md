@@ -1,5 +1,5 @@
 ---
-title: Four Factors of [[evaporative-demand-and-fungal-growth]] in [[evaporative-demand-hypothesis-mushroom-tropism]]
+title: "Evaporative Demand Four Factors Mushroom Tropism"
 source: tropisms-in-the-mushroom-psilocybe-cubensis.md (Badham 1982)
 created: 2026-05-11
 tags: [mycology, evaporative-demand, tropism, wind, humidity, light, temperature, psilocybe-cubensis, boundary-layer]

@@ -1,5 +1,5 @@
 ---
-title: ectomycorrhizal-mushroom-fruiting-ecology Chamber Designs
+title: Mushroom Fruiting Chamber Designs
 tags:
   - mushroom-cultivation
   - fruiting-chamber
@@ -16,7 +16,7 @@ source: jarrold-indoor-mushroom-growing
 
 ## Overview
 
-Fruiting chambers are enclosed environments designed to maintain the high humidity and fresh air exchange conditions that mushrooms need to develop from colonized substrate into mature fruiting bodies. D.H. Jarrold describes several [[fruiting-chamber]] designs ranging from simple passive humidity setups to active climate control systems. These chambers are used after the [[straw-based-mushroom-cultivation-boil-bag-method]] is complete.
+Fruiting chambers are enclosed environments designed to maintain the high humidity and fresh air exchange conditions that mushrooms need to develop from colonized substrate into mature fruiting bodies. D.H. Jarrold describes several [[fruiting-chamber]] designs ranging from simple [[passive-humidity-fruit-chamber-polyethylene-sheeting]] setups to active [[reactive-house-passive-climate-control-systems]]. These chambers are used after the [[straw-based-mushroom-cultivation-boil-bag-method]] is complete.
 
 The fundamental requirements for any fruiting chamber are high relative humidity (90-95%), adequate fresh air exchange to prevent CO2 buildup, indirect light, and appropriate temperature. The designs described here address these requirements with varying levels of automation and complexity.
 
@@ -36,7 +36,7 @@ The simplest fruiting chamber described by Jarrold uses a standard glass aquariu
 - **Input fan**: A small electric fan is positioned to blow ambient room air into the water container. This airflow agitates the warm water surface, picking up moisture and warmth before the air exits the container. The fan should be low-power to avoid excessive evaporation or splashing.
 - **Water heaters**: Submersible aquarium heaters are placed inside the water container to maintain water temperature. Jarrold recommends setting the heater to maintain water at approximately 30-35°C, which produces output air at a temperature suitable for fruiting (typically 22-27°C depending on species). The exact heater wattage depends on the container volume and ambient room temperature.
 - **Connection ducts**: Flexible ducting (such as tumble dryer hose or aluminum flex duct) connects the output of the warm water container to the input of the fruiting chamber. The duct should be insulated if it runs through cold areas to prevent heat loss and condensation inside the duct. A second duct may be used to return air from the fruiting chamber to the water container, creating a closed-loop circulation system.
-- **System integration**: The warm humid air enters the fruiting chamber through a duct port, raising both temperature and humidity. The existing hydro pellets and air stone system within the chamber works in conjunction with the warm air input to maintain optimal conditions.
+- **System integration**: The warm humid air enters the fruiting chamber through a duct port, raising both [[vegetable-storage-conditions-by-temperature-and-humidity]]. The existing hydro pellets and air stone system within the chamber works in conjunction with the warm air input to maintain optimal conditions.
 - **Temperature monitoring**: A thermometer placed inside the fruiting chamber is essential when using the warm air delivery system. The combination of heater output and ambient conditions can cause temperature fluctuations that stress the fruiting mushrooms. Adjust heater settings and fan speed as needed to maintain stable conditions.
 
 ### Bag Opening Technique for Fruiting
@@ -44,7 +44,7 @@ The simplest fruiting chamber described by Jarrold uses a standard glass aquariu
 When transitioning colonized substrate bags from the colonization phase to the fruiting chamber, Jarrold recommends a specific bag opening technique:
 
 - **Leave 2cm bottom intact**: Rather than completely removing the bag, cut or roll down the top portion of the bag so that approximately 2cm of the bag remains around the bottom of the substrate block. This creates a shallow tray effect that retains some moisture around the substrate base while exposing the top and sides to [[fruiting-conditions]].
-- **Rationale**: The retained bag bottom serves several purposes: it provides structural support keeping the substrate block upright, it helps maintain higher humidity at the base of the substrate where primordia often form, and it reduces direct contact between the substrate and the hydro pellets or chamber floor, minimizing contamination risk.
+- **Rationale**: The retained bag bottom serves several purposes: it provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] keeping the substrate block upright, it helps maintain higher humidity at the base of the substrate where primordia often form, and it reduces direct contact between the substrate and the hydro pellets or chamber floor, minimizing contamination risk.
 - **Placement**: Position the opened bags on a clean surface within the fruiting chamber. Some cultivators place them on a layer of perlite, on a wire rack above the hydro pellets, or on sterile paper towels to absorb excess moisture dripping from the substrate.
 - **Spacing**: Leave adequate space between opened bags — at least 5-10cm of clearance on all sides. This ensures that each substrate block receives sufficient air circulation and that developing mushrooms from adjacent bags do not overlap or interfere with each other.
 - **Orientation**: Place bags with the cut edge facing upward. This allows the mushrooms to grow vertically toward the light source and prevents water from pooling inside the rolled-down bag material.
@@ -54,7 +54,7 @@ When transitioning colonized substrate bags from the colonization phase to the f
 Regardless of the chamber design used, consistent monitoring of environmental conditions improves fruiting success:
 
 - **Hygrometer**: A reliable hygrometer inside the chamber allows accurate monitoring of relative humidity. Analog dial hygrometers are inexpensive and sufficient for most purposes; digital models with min/max memory are more convenient.
-- **Thermometer**: Monitor temperature daily. Most cultivated mushroom species fruit best between 22-27°C, though some prefer cooler or warmer ranges.
+- **Thermometer**: Monitor temperature daily. Most [[classification-of-cultivated-mushroom-species]] fruit best between 22-27°C, though some prefer cooler or warmer ranges.
 - **Light**: Indirect ambient light or a low-wattage fluorescent light on a 12-hour on/off cycle is sufficient. Direct sunlight causes overheating and drying. Mushrooms do not photosynthesize but use light direction for orienting growth.
 - **CO2 indicators**: While not essential for beginners, CO2 monitoring can help optimize fresh air exchange schedules. Elevated CO2 levels above 1000ppm cause abnormal mushroom development.
 

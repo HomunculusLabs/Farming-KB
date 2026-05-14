@@ -148,4 +148,3 @@ Keep a packed bag for each family member and pet at all times during fire season
 - [[mollison-wildfire-dynamics-and-firestorm-behavior]]
 - [[extreme-heat-preparedness]]
 - [[hurricane-preparedness-guide]]
-- [[earthquake-preparedness-guide]]

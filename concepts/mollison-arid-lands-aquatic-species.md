@@ -15,7 +15,7 @@ sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
 
-Bill Mollison's analysis of arid environments emphasizes the integration of exotic domestic species with native fauna and flora to create resilient food systems in dryland regions. The approach combines traditional Aboriginal knowledge with [[mollison-tree-crop-systems-permaculture]] areas, they also provide opportunities for [[free-range-poultry-forage-design-mollison]] for detailed poultry integration strategies.
+[[bill-mollison]]'s analysis of arid environments emphasizes the integration of exotic domestic species with native fauna and flora to create resilient food systems in dryland regions. The approach combines traditional Aboriginal knowledge with [[mollison-tree-crop-systems-permaculture]] areas, they also provide opportunities for [[free-range-poultry-forage-design-mollison]] for detailed poultry integration strategies.
 
 ## Fish in Arid Water Systems
 

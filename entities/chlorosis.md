@@ -7,7 +7,7 @@ tags: [plant-pathology, nutrient-deficiency, diagnosis, permaculture]
 
 ## Description
 
-Chlorosis is the abnormal yellowing of plant leaves caused by insufficient chlorophyll production. It is one of the most visible diagnostic symptoms of mineral nutrient deficiencies in plants. In permaculture and cultivation, chlorosis serves as a critical early-warning indicator of soil health problems requiring intervention.
+Chlorosis is the abnormal yellowing of plant leaves caused by insufficient chlorophyll production. It is one of the most visible diagnostic symptoms of mineral [[hamilton-nutrient-deficiencies-and-treatment]] in plants. In permaculture and cultivation, chlorosis serves as a critical early-warning indicator of soil health problems requiring intervention.
 
 ## Classification
 
@@ -15,9 +15,9 @@ Chlorosis is the abnormal yellowing of plant leaves caused by insufficient chlor
 - **Type**: Visual symptom of nutrient deficiency or toxicity
 - **Expression**: Yellowing of leaf tissue, ranging from pale green to white
 - **Pattern types**:
-  - **Interveinal chlorosis**: Yellowing between veins while veins remain green (iron, manganese, magnesium deficiency)
+  - **Interveinal chlorosis**: Yellowing between veins while veins remain green (iron, manganese, [[query-how-to-fix-magnesium-deficiency-in-cannabis]])
   - **Uniform chlorosis**: Even yellowing across the entire leaf including veins (nitrogen, sulphur deficiency)
-  - **Marginal chlorosis**: Yellowing starting at leaf edges and tips (potassium deficiency)
+  - **Marginal chlorosis**: Yellowing starting at leaf edges and tips ([[knf-potassium-deficiency-and-excess]])
 
 ## Key Facts
 
@@ -27,13 +27,13 @@ Chlorosis is the abnormal yellowing of plant leaves caused by insufficient chlor
 4. **Nitrogen chlorosis**: Whole-plant yellowing from light green to yellow, older leaves dropping first. Prevalent in cold peaty soils, leached sands, and waterlogged conditions.
 5. **Iron chlorosis**: Young leaves affected first with green veins against yellow tissue. Common on alkaline soils where iron becomes unavailable despite being present.
 6. **Magnesium chlorosis**: Older leaves show interveinal yellowing first, progressing to younger leaves. Common on acid sandy soils or soils with excessive potassium.
-7. **pH connection**: [[the-soil-food-web|the-soil-food-web]] including fungal networks may be compromised.
+7. **pH connection**: [[soil-food-web]] including fungal networks may be compromised.
 - **Mycorrhizal connection**: [[dolomite|Dolomite]] — pH correction for acid soils
 - [[rock-phosphate|Rock Phosphate]] — Phosphorus source less prone to lockup
 
 ## Practical Applications
 
-Chlorosis is relevant to sustainable design and ecological management practices.
+Chlorosis is relevant to sustainable design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] practices.
 Understanding these concepts helps practitioners make informed decisions that balance
 productivity with environmental stewardship.
 
@@ -75,7 +75,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Chlorosis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,7 +104,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 chlorosis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

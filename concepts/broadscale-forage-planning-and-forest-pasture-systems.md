@@ -64,7 +64,7 @@ All large properties (20 ha or more) have areas suitable for initial forest deve
 4. **Mark strong seedlings** with pegs for later mulching and experimental treatment with fertilizers (seaweed solution, blood and bone, manure). Excellent ploy: mulch within empty tyres around trees for wind, rabbit, and drought protection. Thorn or thistle mulch in tyres discourages small browsers
 5. **Gradually introduce** poultry or light livestock, watching for damage
 6. **Assess and shift/add fences** as the system proves itself
-7. **Cull poorer specimens** for pole timber, leaving selected high-yielding or strong trees and shrubs
+7. **Cull poorer specimens** for pole timber, leaving selected high-yielding or strong [[nitrogen-fixing-trees-and-shrubs]]
 
 ### Beneficial Effects of Rolling Permaculture
 - Provides sheltered nesting, lambing, or calving place; increases meat production
@@ -79,7 +79,7 @@ Orchards parallel the legume/grass mix of permanent pastures. The [[permaculture
 1. Prepare the whole site by soil conditioning
 2. Set out leguminous species (small: white clover, lab-lab, lucerne; large: acacias, albizias, locusts; plus scattered leguminous shrubs)
 3. Interplant selected orchard trees
-4. Allow small animals to forage below as pest control and manurial elements
+4. Allow small animals to forage below as [[knf-pest-control-and-soap-water]] manurial elements
 
 ### Suitable Livestock
 - Pigs (autumn)
@@ -90,7 +90,7 @@ Orchards parallel the legume/grass mix of permanent pastures. The [[permaculture
 - Tree lucerne (top-trimmed as goose forage in winter, adds nitrogen, provides bee fodder, controls ground pasture)
 - Hazel as edge species
 - Small fruit understorey
-- Perennial flower or vegetable crop for "in-line" plantings
+- Perennial flower or [[vegetable-crop-demand-classification-fertility-matching-solomon]] for "in-line" plantings
 
 ### Evidence of Benefit
 Fruit and nut species under which poultry or small livestock range are:
@@ -108,7 +108,7 @@ Conversely, orchards where cattle or horses browse show severe damage and diseas
 - Keep evolving by adding more species
 
 ### Marketing Advantage
-Planned variety gives good display at wayside stalls and enables direct marketing of varied products from flowers to fruit and nuts. The same number of fruit trees can be grown commercially; savings in pest infestation and fertilizer use more than compensate for expanded acreage.
+Planned variety gives good display at wayside stalls and enables [[coleman-direct-marketing-and-csa-models]] of varied products from flowers to fruit and nuts. The same number of fruit trees can be grown commercially; savings in pest infestation and fertilizer use more than compensate for expanded acreage.
 
 ## Yield Distribution Strategy
 
@@ -119,7 +119,7 @@ Planned variety gives good display at wayside stalls and enables direct marketin
 - Selection of long-yielding species
 - General increase in diversity (leaf, fruit, seed, and root all as product yields)
 - Self-storing species (tubers, hard seeds, nuts, rhizomes) dug on demand
-- Preserving, drying, pitting, and cool storage techniques
+- Preserving, drying, pitting, and cool [[hashish-binding-pressing-and-storage-techniques]]
 - Regional trade between communities, or purchasing land at different altitudes or latitudes
 
 ## Pruning: Necessity or Habit?
@@ -138,7 +138,11 @@ Mollison questions whether conventional pruning serves permaculture goals:
 - Less risk of disease from cut surfaces
 - Smaller but more numerous fruit; greater yield per unit
 - Stronger frames
-- Fit into mixed forest, crop, animal husbandry
+- Fit into mixed forest, crop, [[holzer-natural-animal-husbandry]]
 - Uneven ripening, more difficult harvesting or spraying
 
 "Ladder and windfall harvest, self-harvest, and far less work offset most of the latter setbacks."
+
+## See Also
+
+- [[broadscale-soil-improvement-and-no-tillage-systems]]

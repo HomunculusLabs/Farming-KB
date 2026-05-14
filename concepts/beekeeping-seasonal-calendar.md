@@ -11,7 +11,7 @@ sources: []
 
 Successful beekeeping requires aligning management tasks with the natural
 annual cycle of the colony. This calendar provides month-by-month guidance
-for temperate climates (USDA zones 5-7). Adjust timing by 2-4 weeks for
+for [[fukuoka-natural-farming-temperate-climates]] (USDA zones 5-7). Adjust timing by 2-4 weeks for
 warmer or cooler zones.
 
 ## Late Winter (February - March)
@@ -60,7 +60,7 @@ warmer or cooler zones.
 - Ensure adequate ventilation — prop up inner covers or use screened boards
 
 ### July
-- Peak honey production in many areas
+- Peak [[faires-beekeeping-and-honey-production]] in many areas
 - Harvest honey as supers fill
 - Begin queen rearing if [[queen-rearing-basics|raising replacements]]
 - Watch for dearth periods — feed if no nectar available
@@ -79,7 +79,7 @@ warmer or cooler zones.
 ### September
 - Complete Varroa treatments before winter bees are raised
 - Feed 2:1 syrup heavily — colonies need 60-80 lbs of honey for winter
-  in cold climates
+  in [[query-best-kiwifruit-varieties-for-cold-climates]]
 - Reduce entrance size with entrance reducers to deter robbing and mice
 - Install mouse guards
 - Remove queen excluders to allow the queen to move into winter stores
@@ -119,6 +119,6 @@ seasonal [[integrated-pest-management]] approach:
 3. **Summer** — monitor; treat if threshold exceeded (formic or amitraz)
 4. **Early fall** — aggressive treatment before winter brood is raised
 
-See [[beekeeping-problems-and-solutions]] for detailed pest and disease
+See [[beekeeping-problems-and-solutions]] for detailed [[hamilton-pest-and-disease-control-organic]]
 management, and [[bee-forage-plants]] for ensuring adequate nutrition
 throughout the season.

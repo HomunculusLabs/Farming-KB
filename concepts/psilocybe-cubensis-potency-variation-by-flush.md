@@ -9,7 +9,7 @@ sources: [papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cube
 # [[psilocybin-potency-variation]]
 
 - turner-psilocybin-mushroom-experience-guide
-- stone fruit tree care
+- [[stone-fruit-tree-care]]
 - [[growing-gourmet-mushroom-dehydration-methods-equipment]]. These devices use a heating element and fan to circulate warm air across stacked trays, providing consistent temperature and airflow. The optimal temperature setting for most mushrooms is 95-115°F (35-46°C). This [[stamets-growing-room-air-circulation-co2-management]], [[pf-tek-low-humidity-symptoms-and-remediation]], and warm temperatures. A fan directed across the mushrooms significantly accelerates drying. This method preserves color and shape well because the gentle drying conditions avoid the tissue shrinkage that can occur with heated drying.
 
 The primary limitation of air drying is its dependence on ambient conditions. In humid climates or during damp weather, air drying may be too slow, allowing mold or bacterial growth before drying is complete. In cool conditions, drying time extends considerably. Air drying is most practical for small quantities and as a supplementary method alongside mechanical dehydration.

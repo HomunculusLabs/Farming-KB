@@ -29,7 +29,7 @@ The specific epithet cochleariifolia means "spoon-leaved," referring to the conc
 
 ## Taxonomy and Morphology
 
-Campanula cochleariifolia belongs to the Campanula rotundifolia aggregate, a polyploid complex of closely related taxa distributed across European mountain systems. It was formerly treated as a subspecies of Campanula rotundifolia but is now accepted as a distinct diploid species (2n = 34).
+Campanula cochleariifolia belongs to the [[campanula-rotundifolia]] aggregate, a polyploid complex of closely related taxa distributed across European mountain systems. It was formerly treated as a subspecies of Campanula rotundifolia but is now accepted as a distinct diploid species (2n = 34).
 
 Basal leaves are kidney-shaped to rounded, 5–15 mm in diameter, with crenate margins and long slender petioles. They form a tight rosette at ground level that persists through winter in sheltered microsites. Stem leaves are linear to narrowly lanceolate, becoming progressively smaller up the flowering stems.
 

@@ -45,7 +45,7 @@ Graphic design emphasizes legibility and composition rather than decorative bord
 Textiles use pattern, structure, and material research rather than imitation of older ornament.
 These traits became influential in modern architecture, product design, and visual communication.
 ## Who were the important Bauhaus figures?
-[[bill-mollison]] permaculture
+[[bill-mollison]] [[permaculture]]
 
 ## See Also
 

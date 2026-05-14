@@ -1,5 +1,5 @@
 ---
-title: Thermal Belts and Soil Conditioning
+title: Thermal Belts And Soil Conditioning
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -23,7 +23,7 @@ The thermal belt sits between these two frost zones, typically on the mid-slope 
 - The last area to lose productivity in autumn
 - The most frost-free location available in the landscape
 
-Siting dwellings and sensitive plantings within the thermal belt extends the effective growing season on both ends — earlier spring onset and later autumn cessation.
+Siting dwellings and sensitive plantings within the thermal belt extends the effective [[extending-growing-season]] on both ends — earlier spring onset and later autumn cessation.
 
 ## Berchtesgarten Syndrome (Type One Error)
 
@@ -43,7 +43,7 @@ By contrast, siting dwellings lower on the slope, near the keypoint and within t
 - Fire must travel uphill to reach the structure, slowing its advance
 - The dwelling can be protected by firebreaks and water systems on the slope below
 - Escape routes exist in multiple directions (downhill, across contour)
-- The thermal belt's moisture and vegetation patterns resist fire spread
+- The thermal belt's moisture and [[holmgren-vegetation-patterns-biomass-fertility]] resist fire spread
 - Water storage from keyline systems provides immediate firefighting resources
 
 ## Wallace Soil Conditioner
@@ -68,11 +68,11 @@ The effects of the Wallace soil conditioner are transformative:
 
 ## Daikon Radish as Biological Alternative
 
-On steep slopes where machinery cannot operate, **daikon radish** serves as a biological soil conditioner. The large taproot penetrates compacted soil layers, creating channels for water infiltration similar to the mechanical shank. After the radish decomposes, it leaves organic matter and open pathways in the soil. This is a practical low-tech alternative for terrain too steep or rocky for the Wallace conditioner.
+On steep slopes where machinery cannot operate, **daikon radish** serves as a biological soil conditioner. The large taproot penetrates compacted soil layers, creating channels for water infiltration similar to the mechanical shank. After the radish decomposes, it leaves [[savory-soil-organic-matter-and-decomposition-dynamics]] open pathways in the soil. This is a practical low-tech alternative for terrain too steep or rocky for the Wallace conditioner.
 
 ## Bunyip Level
 
-The **Bunyip level** is a simple, inexpensive tool for marking contour lines across a landscape — essential for keyline design and soil conditioning work:
+The **Bunyip level** is a simple, inexpensive tool for marking contour lines across a landscape — essential for [[keyline-design]] soil conditioning work:
 
 - **80 feet of half-inch hose** filled with water
 - **Two stakes** at each end, marked at the same water level
@@ -109,4 +109,4 @@ This is a classic example of an agricultural input creating a long-term problem 
 - type one errors
 - water harvesting
 - frost patterns and microclimates
-- fire safe settlement design
+- fire safe [[cool-climate-house-and-settlement-design]]

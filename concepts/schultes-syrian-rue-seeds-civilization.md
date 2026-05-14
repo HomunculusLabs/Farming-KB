@@ -53,7 +53,7 @@ hallucinogen extending far back into antiquity.
 The plant has recently been postulated to have been the legendary Soma of
 ancient Vedic ritual, though this identification remains debated among
 scholars. Regardless of the Soma question, the ubiquity of Syrian Rue in
-Old World folk medicine points to a long and culturally significant
+[[old-world-hallucinogenic-plants-overview]] folk medicine points to a long and culturally significant
 relationship between the plant and human societies across Central Asia,
 the Middle East, and the Indian subcontinent.
 
@@ -61,7 +61,7 @@ the Middle East, and the Indian subcontinent.
 
 In connection with research on so-called ayahuasca analogs, the
 beta-carboline alkaloids of Syrian Rue have taken on new significance. The
-seeds of *Peganum harmala* can serve as a substitute for *Banisteriopsis
+seeds of *[[mckenna-food-gods-peganum-harmala-soma]]* can serve as a substitute for *Banisteriopsis
 caapi* in ayahuasca-type preparations, providing the necessary MAOI
 activity to activate orally ingested DMT-containing plants.
 
@@ -76,5 +76,5 @@ plant use.
 ## Pharmacological Significance
 
 The discovery that beta-carboline alkaloids from Syrian Rue could
-substitute for the Amazonian *Banisteriopsis caapi* in activating oral DMT
+substitute for the Amazonian *[[ayahuasca-and-banisteriopsis-caapi]]* in activating oral DMT
 represented a major insight in ethnopharmacology. It revealed that the

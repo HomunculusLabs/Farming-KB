@@ -28,7 +28,7 @@ resulting surfaces.
 
 The ziggurat garden is a practical embodiment of vertical edge maximization.
 Built as a **spiral garden on a rock cairn**, it transforms a flat planting
-surface into a three-dimensional growing environment:
+surface into a three-dimensional [[cannabis-growing-environment-setup]]:
 
 - **Vertical surface growing** — plants are grown on the sides of the
   ziggurat, not just the flat top, multiplying available planting area
@@ -48,7 +48,7 @@ from shallow at the outer edges to deep at the center.
 ## The Spiral Herb Garden with Watercress Pond
 
 A refined variant places a **watercress pond at the spiral's center**, lined
-with a simple plastic bag. This integrates aquatic production into the herb
+with a [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] bag. This integrates aquatic production into the herb
 garden. Natural drainage feeds the pond while the pond's moisture moderates
 the microclimate for adjacent herbs. The spiral creates a gradient from wet
 (center) to dry (outer edge), allowing species placement by moisture
@@ -100,8 +100,8 @@ competition because peak resource demands occur at different moments.
 rotation years and stacking them vertically**. Instead of sequential rotations,
 he grew multiple crop families simultaneously:
 
-- **Legumes with grains** — legumes fix nitrogen while grains mature
-- **Ducks with the grain-legume mixture** — ducks control pests and weeds
+- **Legumes with grains** — [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] nitrogen while grains mature
+- **Ducks with the grain-legume mixture** — ducks [[query-how-to-control-pests-without-chemicals]] and weeds
   while depositing fertilizer
 - **Frogs in the paddy margins** — controlling insects without chemicals
 
@@ -119,7 +119,7 @@ interrupted, and the land's productive capacity is never idle.
 In monsoon regions, grassland can be converted to rye by **rolling existing
 grass flat and sowing rye directly into it** — no cultivation needed. The rye
 germinates through the pressed grass mat, which suppresses weeds and conserves
-moisture while decomposing into organic matter. The existing ground cover
+moisture while decomposing into [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. The existing ground cover
 becomes the mulch for the next crop with no gap, no plowing, and no soil
 disturbance between systems.
 
@@ -147,6 +147,4 @@ three-dimensional stacking are different dimensions of the same principle —
 creating difference to generate productivity. An apple tree at a **forest
 edge** doesn't need pruning — the edge environment naturally regulates yield
 through light competition and microclimate. The tree is time-stacked with
-forest succession, producing optimally without intervention. When we design
-with pattern and stack time frames within those patterns, we create systems
-that are more productive, more resilient, and less labor-intensive.
+[[mollison-designers-food-forest-succession-design]], producing optimally without intervention. When we design

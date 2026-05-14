@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
-Updated: 2026-04-18 Sorghum (Sorghum bicolor) is a hardy, drought-tolerant grain
+Updated: 2026-04-18 Sorghum ([[sorghum-bicolor]]) is a hardy, drought-tolerant grain
 crop that can also be processed into molasses. It is one of the most versatile
 multi-use plants for warm climates.
 
@@ -15,7 +15,7 @@ multi-use plants for warm climates.
 - Edible grain
 - Molasses production (from pressed stalks)
 - Animal fodder (after 18 inches tall — young shoots are poisonous)
-- Bee forage
+- [[bee-forage-and-range-design]]
 - Dryland tolerant
 
 ## Growing Conditions
@@ -32,7 +32,7 @@ Sorghum varieties fall into several categories. Grain sorghums (milo) are grown
 for edible seeds ('MRS-18', 'DeKalb DKS-44'). Sweet sorghums are grown for syrup
 — 'Dale', 'M81-E', and 'Sugar Drip' are popular molasses varieties with high
 stalk sugar content. Broomcorn sorghums produce long fibrous seed heads for
-broom-making. Forage sorghums like 'Piper' are grown for animal feed. Select
+broom-making. Forage sorghums like 'Piper' are grown for [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]. Select
 varieties based on primary intended use.
 
 ## Propagation
@@ -59,7 +59,7 @@ Raise and harvest the same as wheat or corn. Thresh, winnow, and store.
 
 4. Collect juice in a container
 
-5. Boil down like maple syrup, stirring continuously to prevent scorching
+5. Boil down like [[maple-syrup-production]], stirring continuously to prevent scorching
 
 6. Syrup is ready when highly concentrated and sweet
 

@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-principle-non-causality-beyond-cause-effect]] of Non-Causality in Nature
+title: "Fukuoka No Cause And Effect Non Causality Principle"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

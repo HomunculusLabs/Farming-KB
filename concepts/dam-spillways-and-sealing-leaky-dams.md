@@ -24,13 +24,13 @@ Two critical aspects of [[query-which-cover-crops-are-best-for-breaking-hardpan-
 **Modifications and variations:**
 - **Cattle penning method** — Pen and feed a herd of cattle in the dry dam until the bottom is thoroughly manured ("pugged"); occasional watering assists the process
 - **Hay and manure strewing** — For ponds that leak slightly, strewing bales of green hay and manure produces algae growth that seals minor cracks
-- **Green crop method** — Sow a green crop in the dry dam, spray irrigate it, and feed it off regularly with cattle, building up organic matter and sealing through the combined action of roots, manure, and trampling
+- **Green [[jadam-cover-crop-method]]** — Sow a green crop in the dry dam, spray irrigate it, and feed it off regularly with cattle, building up [[savory-soil-organic-matter-and-decomposition-dynamics]] sealing through the combined action of roots, manure, and trampling
 
 **Advanced possibility:** Mollison suggests that in very good soils, especially in the tropics, it may be possible to grow a mass of [[dolichos]] bean in the dam basin and simply roll it flat before sealing — essentially growing your own gley material in situ.
 
 ### 2. Bentonite
 
-Bentonite is a slippery clay powder derived from volcanic ash. When wetted, it swells dramatically (up to 10–15 times its dry volume) and creates an impermeable barrier.
+Bentonite is a slippery [[jadam-red-clay-powder-method]] derived from volcanic ash. When wetted, it swells dramatically (up to 10–15 times its dry volume) and creates an impermeable barrier.
 
 **Application:**
 - Rototill bentonite into the dam bed at 5–7 cm (2–3 inches) deep
@@ -51,7 +51,7 @@ Bentonite is a slippery clay powder derived from volcanic ash. When wetted, it s
 Explosives are occasionally used to compact the sides and base of full dams by detonating a small charge (3–5 sticks of dynamite) in the water. The shock wave compacts loose soil and seals small cracks and seepage paths.
 
 **Limitations and risks:**
-- Dangerous if the dam wall is poorly compacted to begin with — the blast could trigger a failure
+- Dangerous if the [[dam-wall-construction-and-earth-tanks]] is poorly compacted to begin with — the blast could trigger a failure
 - Not recommended where people, animals, or structures are nearby
 - Results are unpredictable and not guaranteed
 - Humorous but real warning from Mollison: "dangerous if you own a retriever" (dogs retrieving sticks of dynamite)
@@ -88,13 +88,13 @@ Mollison provides a striking cost comparison that underscores the value of earth
 - Tanks get relatively cheaper as size increases — less concrete per unit of water
 - Above 22,500 liters, tanks are usually poured on site
 - Below this size, they are typically manufactured centrally and transported
-- About 22,500 liters provides a family with all needed water (drinking, showers, cooking, modest garden irrigation) for a year
+- About 22,500 liters provides a family with all needed water (drinking, showers, cooking, modest [[dryland-garden-irrigation-systems]]) for a year
 
 ### Dam Economics
 
 - Dam costs rise rapidly as wall height exceeds approximately 3 meters (10 feet)
 - Above this height, greater engineering skills, more expensive materials, complex level controls, and significant environmental risks increase costs
-- Site selection is the dominant cost factor — very low dams on well-chosen sites can impound 20–100 times more water than the same earth used on steep sites
+- [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]] is the dominant cost factor — very low dams on well-chosen sites can impound 20–100 times more water than the same earth used on steep sites
 - On steep sites, every unit of earth moved equals approximately one unit of water stored
 - On flat sites behind constricted valley necks, the ratio improves dramatically
 

@@ -16,7 +16,7 @@ However, a critical caveat applies: developing reliable laboratory skills takes 
 
 ## Laboratory Space Requirements
 
-A mushroom cultivation lab does not require a purpose-built clean room. Any enclosed space can serve as a laboratory: a closet, a spare bedroom, or even a partitioned section of a larger room. The key requirement is the ability to create and maintain a clean, controllable environment.
+A [[mushroom-cultivation]] lab does not require a purpose-built clean room. Any enclosed space can serve as a laboratory: a closet, a spare bedroom, or even a partitioned section of a larger room. The key requirement is the ability to create and maintain a clean, controllable environment.
 
 For cultivators working within larger rooms, partitions offer an affordable solution. PVC or metal frames fitted with clear plastic sheeting (similar to greenhouse walls) create effective barriers against airborne contaminants. These partitions should include a well-sealed entry; zippered plastic door entries are inexpensive and work well for this purpose.
 
@@ -28,10 +28,10 @@ A spare bathroom can serve as a surprisingly effective makeshift lab. After sani
 
 Every home mycology lab requires a core set of equipment. This checklist represents the minimum viable setup for producing spawn and working with agar cultures:
 
-- **Laminar flow hood with HEPA filter** — A 2×3-foot work surface is preferred, providing ample space for petri dish work and bag inoculations. This is the single most important investment for contamination control.
+- **[[laminar-flow-hood]] with [[hepa-filter]]** — A 2×3-foot work surface is preferred, providing ample space for petri dish work and bag inoculations. This is the single most important investment for contamination control.
 - **Pressure cooker/sterilizer** — A unit rated for 15 PSI is strongly preferred, as this pressure achieves the temperatures necessary for complete sterilization. Metal-to-metal seal designs are more durable and reliable than rubber gasket alternatives.
 - **Electric impulse sealer** — Essential for sealing autoclavable spawn bags. A consistent, airtight seal prevents contamination during incubation.
-- **Narrow-mouthed mason jars with metal lids** — The standard vessel for grain spawn preparation and storage.
+- **Narrow-mouthed mason jars with metal lids** — The standard vessel for [[grain-spawn-preparation]] and storage.
 - **Glass Erlenmeyer flask (1000 ml)** — Used for preparing and sterilizing liquid culture media.
 - **Alcohol lamp with denatured alcohol** — Provides a sterile flame for tool sterilization during transfers.
 - **Scalpels, X-Acto knives, scissors** — Cutting tools for tissue culture, agar transfers, and bag opening.
@@ -41,7 +41,7 @@ Every home mycology lab requires a core set of equipment. This checklist represe
 
 As cultivators gain experience and expand their operations, additional equipment becomes valuable for increasing throughput and working with more advanced techniques:
 
-- **Blender with all-glass container** — Used for preparing liquid inoculum from grain spawn or mushroom tissue. The all-glass container can be sterilized, eliminating contamination risk.
+- **Blender with all-glass container** — Used for preparing liquid inoculum from [[grain-spawn]] or mushroom tissue. The all-glass container can be sterilized, eliminating contamination risk.
 - **Laboratory refrigerator** — Dedicated cold storage for preserving cultures at controlled temperatures, extending their viability between uses.
 - **Microscope** — Indispensable for contamination inspection, spore observations, and studying mycelial morphology. A compound microscope with 400× magnification is sufficient for most home lab applications.
 - **Plate stirrer (magnetic stirrer)** — Used for liquid culture preparation, ensuring even mixing and aeration of nutrient solutions.

@@ -9,8 +9,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Thelypteris." Flora of North America, Vol. 2.
-  - Smith A.R. (1993). "Thelypteridaceae." Flora of North America, Vol. 2, pp. 152–166.
+  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Thelypteris." Flora of guzman-psilocybin-mushrooms-north-america, Vol. 2.
+  - Smith A.R. (1993). "Thelypteridaceae." Flora [[huckleberries-and-wild-berries-of-north-america]], Vol. 2, pp. 152–166.
   - Wagner W.H. Jr. & Beitel J.M. (1993). "Thelypteris." Michigan Flora Online.
   - USDA NRCS (2024). "Thelypteris noveboracensis Plant Profile." plants.usda.gov.
   - Hoshizaki B.J. & Moran R.C. (2001). "Fern Grower's Manual." Timber Press.
@@ -72,7 +72,7 @@ monolete, and produced from July to September.
 Thelypteris noveboracensis ranges from southern Ontario and Quebec south
 through the Appalachian Mountains to northern Georgia and Alabama, and west
 to Minnesota, Iowa, and eastern Oklahoma. It is most abundant in the
-northeastern United States and the Great Lakes region.
+northeastern [[dmt-maoi-plants-united-states]] and the Great Lakes region.
 
 The species is a characteristic component of rich, moist deciduous forests,
 particularly maple-beech, maple-basswood, and mixed oak-hickory associations.

@@ -67,7 +67,7 @@ Domestication efforts face challenges including the long juvenile period, irregu
 
 Asafoetida oleo-gum-resin contains three major fractions: resin (40–64%), gum (25–40%), and [[guzman-magic-mushrooms-chemical-constituents]] and biological activities.
 
-The essential oil is dominated by sulfur-containing compounds, particularly (E)-1-propenyl sec-butyl disulfide (30–50%) and (Z)-1-propenyl sec-butyl disulfide (10–20%). These compounds are responsible for the characteristic sulfurous odor.
+The [[permaculture-designers-manual-essential-oil-plants]] is dominated by sulfur-containing compounds, particularly (E)-1-propenyl sec-butyl disulfide (30–50%) and (Z)-1-propenyl sec-butyl disulfide (10–20%). These compounds are responsible for the characteristic sulfurous odor.
 
 Sesquiterpene coumarins are the most studied non-volatile constituents. Compounds such as ferocolicin, kamolonol, and feselol have demonstrated antimicrobial, antifungal, and anti-inflammatory activities in vitro.
 

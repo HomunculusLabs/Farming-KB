@@ -1,5 +1,5 @@
 ---
-title: Aquatic Polyculture and Pond Construction
+title: Aquatic Polyculture And Pond Construction
 source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
@@ -19,7 +19,7 @@ Aquatic polyculture integrates fish, crustaceans, molluscs, waterfowl, and plant
 4. A predator fish (screened off)
 5. Crustaceans (shrimp, crabs, marron) in brush pile refuges
 6. Insect attractants: flowering verge plants (Buddleia, ti-tree, herbs), lights over pond at night, meat baits over water for flies
-7. Small local fish (pygmy perch, galaxids, minnows) for mosquito control
+7. Small local fish (pygmy perch, galaxids, minnows) for [[backswimmer-mosquito-control-mollison]]
 8. Shallow edge plants (tall rush, wild rice) as frog and bird refuges
 9. Lawn edge for grazers (geese, swan)
 10. Islands for breeding waterfowl and protection from foxes
@@ -109,17 +109,17 @@ Best pH for ponds: **6.5–9.0** (vs. 5.5–6.0 for gardens). Fish ponds are bes
 
 ## Conditions for Effective Pond Culture
 
-Progressing towards more intensive production:
+Progressing towards more [[mollison-designers-market-garden-intensive-production-design]]:
 - Small impoundments of 500–1,000 m²
 - Depth of 2–5 m (7–16 feet)
 - Floor graded as slope to outlet
 - Mixture of fish, crayfish, plants, molluscs, waterfowl, edge plants, land animals penned nearby
 - Insect foods attracted by plants, lights, baits, colours, scents
 - Adequate refuges: shallows, pipes, brush piles, logs, deeps
-- Predator protection: nets or fences
+- [[fukuoka-natural-predator-protection]]: nets or fences
 - Liming and manuring as needed to pH 6.5+
 - Manure or waste foods added as available
-- Water paddled, sprayed, stirred, or filtered as stocking rates increase
+- Water paddled, sprayed, stirred, or filtered as [[aquaculture-pond-yields-and-stocking-rates]] increase
 - Special invertebrate food ponds nearby (worms, insect larvae, frogs)
 - Special crops grown for fish food (cereal or tree crop)
 - Enclosure of pond in glasshouses as final intensive ploy
@@ -139,7 +139,7 @@ Runoff from a modest barn roof (20 × 8 m) in a 1 m rainfall area yields **1,600
 
 ## Sewage Treatment Through Aquatic Systems
 
-Maryborough (Vic.) uses water and soil to deal with sewage outfall of ~8,000 people. P.A. Yeomans and Mollison designed wildlife and biologically-oriented sewage lagoons feeding hundreds of wildfowl, then discharging to keylined fields as absorption filters.
+Maryborough (Vic.) uses water and soil to deal with sewage outfall of ~8,000 people. P.A. Yeomans and Mollison designed wildlife and biologically-oriented [[werribee-sewage-lagoons-mollison]] feeding hundreds of wildfowl, then discharging to keylined fields as absorption filters.
 
 The path: primary mechanical breakdown → methane → trickle filter → lagoons → soil absorption → stream.
 
@@ -148,22 +148,3 @@ The path: primary mechanical breakdown → methane → trickle filter → lagoon
 ## Natural Water Cleansing
 
 Various biological filter systems recycle water from still ponds or cleanse water from polluted outlets. The system uses plants, animals, and microorganisms rather than chemicals.
-
-## Waterworks Structures
-
-- **Overflows**: Piped or boxed screens to keep fish ponds at constant level
-- **Spillways**: Channels leading floodwater out of dams to streams or irrigation ditches
-- **Irrigation channels**: Banked drains with little slope, fitted with water-gates
-- **Steering banks**: Very low earth banks to guide irrigation water as sheet on land
-- **Bunds**: Level banks holding water for saturated or very wet soils (rice paddies)
-
-## Critique of Sport Fisheries Policy
-
-Mollison criticizes the emphasis on trout/salmon sport fisheries for producing:
-- Overstocked, underfished lakes with dwarfed fish and low turnover
-- No assistance for still-water pond culture on farms
-- Heavy over-regulation with more "policemen" than biologists
-- No assistance for habitat improvement beyond trout species
-- Restrictions on useful, non-sporting species
-- Introduction of trout into national parks (destroying native fish habitat)
-- Millions of gallons of water and tons of protein denied to the public

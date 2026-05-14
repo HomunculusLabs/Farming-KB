@@ -3,13 +3,13 @@ title: Eleusinian Mysteries
 aliases: [Eleusis, Eleusinian rites, demeter-and-persephone-in-eleusinian-mythology mysteries]
 tags: [history, religion, ancient-greece, psychedelics, mystery-cults]
 created: 2026-05-10
-source: Terence McKenna - Food of the Gods
+source: [[terence-mckenna]] - Food of the Gods
 ---
 
 # The Eleusinian Mysteries
 
-The Eleusinian Mysteries were the most important religious initiation rites
-of ancient Greece, conducted annually at Eleusis near Athens for nearly two
+The Eleusinian Mysteries were the most important religious [[egyptian-pyramid-initiation-rites]]
+of [[psychedelic-use-in-ancient-greece]], conducted annually at Eleusis near Athens for nearly two
 thousand years (approximately 1500 BCE to 392 CE). Open to all Greek-speaking
 people who committed to a period of preparation, the mysteries promised
 revelations about the nature of life and death that would transform the
@@ -63,14 +63,14 @@ Wasson, Hofmann, and Ruck proposed that the priests of Eleusis deliberately
 cultivated or selected ergot-infected barley for ritual use, maintaining
 knowledge of its psychoactive properties while keeping this knowledge
 secret from the general population. Hofmann, who had extensive experience
-with ergot alkaloids from his work on LSD, identified chemical pathways by
+with [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] from his work on LSD, identified chemical pathways by
 which ergot-infected kykeon could have been prepared to maximize
 psychoactive effects while minimizing toxic ones.
 
 ### The Psilocybin Theory
 
 McKenna also discussed Robert Graves's alternative proposal that the
-Eleusinian kykeon contained psilocybin mushrooms rather than ergot.
+Eleusinian kykeon contained [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] rather than ergot.
 Graves suggested that the visual elements of the mystery — particularly the
 "things shown" (deiknymena) that formed the climax of the initiation —
 were consistent with psilocybin-induced visionary experiences rather than

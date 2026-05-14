@@ -68,7 +68,7 @@ The species is not frost-hardy and should be protected below 5 °C. It is suitab
 
 Plants grown in containers benefit from periodic flushing with water to remove accumulated salts. Yellowing lower leaves may indicate [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] and minimizing water loss during hot daylight hours. This adaptation allows it to thrive in exposed, water-limited habitats.
 
-The white farina coating on leaves serves multiple functions: UV protection, water repellency, and deterrence of insect herbivores. The farina layer reflects excess solar radiation and reduces leaf temperature.
+The white farina coating on leaves serves multiple functions: UV protection, water repellency, and deterrence of insect herbivores. The farina layer reflects excess [[solar-radiation-and-plant-light-responses]] reduces leaf temperature.
 
 Bufadienolide cardiac glycosides in the leaves make the plant toxic to livestock and most herbivores. These compounds cause cardiac arrhythmia if ingested in quantity, a defense against [[dighton-fungal-drought-tolerance-plant-water-relations]], surviving months without water by progressively consuming stored moisture in its thick leaves. Leaves become thinner and more flexible during extended dry periods.
 
@@ -77,7 +77,7 @@ Bufadienolide cardiac glycosides in the leaves make the plant toxic to livestock
 ## Overview
 
 Kalanchoe Thyrsiflora represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Kalanchoe Thyrsiflora finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,13 +106,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for kalanchoe thyrsiflora. Climate adaptation
+opportunities for kalanchoe thyrsiflora. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 kalanchoe thyrsiflora and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

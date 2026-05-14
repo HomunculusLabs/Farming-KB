@@ -31,7 +31,7 @@ Daphnia is a genus of small planktonic crustaceans (water fleas) belonging to th
 - Self-regulating populations: eat out their algal food supply, then are themselves eaten by fish
 - Parthenogenetic reproduction enables rapid population growth under favourable conditions
 - Key food source for fish in treatment pond systems
-- Sensitive to biocides including Dieldrin, making them useful bioindicators
+- Sensitive to biocides including [[dieldrin]], making them useful bioindicators
 
 ## Heavy Metal Bioaccumulation
 

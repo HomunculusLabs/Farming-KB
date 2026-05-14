@@ -148,4 +148,3 @@ Bamboo scaffolding is still standard in many parts of Asia. Lightweight, strong,
 - [[mollison-designers-bamboo-structure-construction-joinery]]
 - [[comparison-bamboo-construction-vs-timber-frame-basics]]
 - [[comparison-bamboo-vs-cob-construction]]
-- [[bamboo-microorganisms]]

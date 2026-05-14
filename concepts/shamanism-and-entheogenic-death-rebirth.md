@@ -68,11 +68,10 @@ This subject has relevance across multiple disciplines and applications. Underst
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
 ## See Also
-- [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
-- [[mckenna-caffeine-coffee-and-industrial-revolution]]
+
 - [[shamanism]]
-- [[dmt]]
-- [[pineal-gland]]
+- [[shamanism-and-techniques-of-ecstasy]]
+- [[shamanism-and-the-death-rebirth-experience]]
 
 ## Overview
 

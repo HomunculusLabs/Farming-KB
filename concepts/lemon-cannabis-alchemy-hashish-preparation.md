@@ -13,7 +13,7 @@ type: concept
 
 Chapter 4 of *[[ben-lemon]] describes how to prepare
 [[mushroom-polysaccharide-extraction-chemistry]] of the earlier
-chapters with traditional hashish-making techniques from various cannabis
+chapters with traditional [[hashish]]-making techniques from various cannabis
 cultures [[fungi-around-the-world-species-distribution]].
 
 ## Oil-to-Powder Ratios
@@ -32,7 +32,7 @@ product with the same consistency as powdery Moroccan or Lebanese hash.
 Fifty to sixty percent oil (about equal parts of oil and powder) is the
 maximum amount that can be used to give a product with hashish
 consistency. This product will be very strong and resemble in appearance
-and consistency the sticky, pliable charas of Nepal and India.
+and consistency the sticky, pliable [[charas]] of Nepal and India.
 
 ## Preparing the Marijuana Dust
 

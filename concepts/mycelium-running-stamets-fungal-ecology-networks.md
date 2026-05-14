@@ -28,9 +28,9 @@ Animals are more closely related to fungi than to any other kingdom, sharing a c
 
 ## Cellular Intelligence
 
-Stamets cites Toshuyiki Nakagaki's (2000) work with the slime mold Physarum polycephalum, which consistently chose the shortest route through a maze to reach food, rejecting dead ends and empty exits -- demonstrating what Nakagaki proposes is a form of cellular intelligence. If this is true, Stamets argues, then the neural nets of microbes and mycelia may be deeply intelligent.
+Stamets cites Toshuyiki Nakagaki's (2000) work with the slime mold [[physarum-polycephalum]], which consistently chose the shortest route through a maze to reach food, rejecting dead ends and empty exits -- demonstrating what Nakagaki proposes is a form of cellular intelligence. If this is true, Stamets argues, then the neural nets of microbes and mycelia may be deeply intelligent.
 
-He envisions a "new bioneering science" dedicated to programming myconeurological networks to monitor and respond to environmental threats. Mycelial webs could serve as information platforms for mycoengineered ecosystems. He also references work at Northwestern University manipulating Aspergillus niger to organize gold into its DNA, creating mycelial conductors of electrical potentials, and NASA-funded research at the University of Tennessee developing biological computer chips housing bacteria that glow upon sensing pollutants from heavy metals to PCBs. Working together, fungal networks and environmentally responsive bacteria could provide data about pH, detect nutrients and toxic waste, and measure biological populations.
+He envisions a "new bioneering science" dedicated to programming [[myconeurological-networks-and-biological-computing]] to monitor and respond to environmental threats. Mycelial webs could serve as information platforms for mycoengineered ecosystems. He also references work at Northwestern University manipulating Aspergillus niger to organize gold into its DNA, creating mycelial conductors of electrical potentials, and NASA-funded research at the University of Tennessee developing biological computer chips housing bacteria that glow upon sensing pollutants from heavy metals to PCBs. Working together, fungal networks and environmentally responsive bacteria could provide data about pH, detect nutrients and toxic waste, and measure biological populations.
 
 ## Soil Architecture and the Food Web
 
@@ -45,7 +45,7 @@ Fungi decompose and recycle plant debris, filter microbes and sediments from run
 Stamets organizes mushroom ecology into four functional categories:
 
 - **[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] are wood decomposers, the premier recyclers on the planet. They can be divided into primary decomposers (first to consume fresh debris), secondary decomposers (growing on partially broken-down material), and tertiary decomposers (soil dwellers).
-- **Mycorrhizal mushrooms**: Around 2,000-3,000 species that form mutually beneficial relationships with plant roots. The mycelia dramatically increase the plant's ingestion of nutrients and extend the absorption zone well beyond the root structure. David Perry (1994) postulates that the surface area of mycorrhizal fungi may be 10 to 100 times greater than the surface area of leaves in a forest.
+- **[[mycorrhizal-mushrooms]]**: Around 2,000-3,000 species that form mutually beneficial relationships with plant roots. The mycelia dramatically increase the plant's ingestion of nutrients and extend the absorption zone well beyond the root structure. David Perry (1994) postulates that the surface area of mycorrhizal fungi may be 10 to 100 times greater than the surface area of leaves in a forest.
 - **[[growing-gourmet-parasitic-mushrooms-forest-blights]]**: Species that derive nutrients from living hosts, sometimes killing them. However, Stamets notes that a rotting tree in a canopied forest is more supportive of biodiversity than a living tree. Parasitic mushrooms may be nature's way of selecting the strongest plants and repairing damaged habitats.
 - **Endophytic mushrooms**: Fungi living within plant tissues without causing apparent disease, often enhancing growth and promoting disease resistance. Agricultural crops, especially grasses like wheat, benefit from resident endophytic fungi.
 
@@ -77,7 +77,7 @@ Stamets argues that all habitats depend directly on fungal allies, without which
 
 ## Overview
 
-Mycelium Running Stamets [[fungal-ecology]] Networks represents an important element within sustainable
+[[mycelium-running-stamets-fungi-and-climate-change]] [[fungal-ecology]] Networks represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mycelium Running Stamets Fungal Ecology Networks finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mycelium running stamets fungal ecology networks and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

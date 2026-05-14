@@ -3,7 +3,7 @@
 ## Overview
 
 The NASA [[dry-microwave-irradiation-spore-resistance]] in the presence of trace water achieves
-reliable sterilization of surfaces contaminated with mixed microbial
+reliable [[sterilization]] of surfaces contaminated with mixed microbial
 populations. The kill kinetics follow a dose-response relationship dependent
 on [[macrofungal-sampling-protocol-design-plot-selection]].
 
@@ -82,5 +82,5 @@ the mixed population to zero CFU requires the full 13.1 W-hr protocol.
 
 ## Role of Water in Kill Kinetics
 
-Water plays a critical and dual role in the microwave sterilization kill
+Water plays a critical and dual role in the [[microwave-sterilization]] kill
 kinetics, affecting both the mechanism and efficiency of microbial kill.

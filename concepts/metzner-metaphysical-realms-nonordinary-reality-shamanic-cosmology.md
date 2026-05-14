@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - metzner-three-features-shamanic-entheogenic-ceremonies|metzner-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]]_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+  - metzner-three-features-shamanic-entheogenic-ceremonies|metzner-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
 # Metaphysical Realms and Nonordinary Reality in Shamanic Cosmology

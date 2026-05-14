@@ -30,7 +30,7 @@ Lower temperatures can postpone or lengthen harvesting for quality control.
 High temperatures shorten cropping by promoting rapid flushes but risk heat
 buildup, CO2 generation, and faster insect and contaminant reproduction.
 
-Commercial Agaricus growers commonly lower air temperature by 2 degrees F,
+Commercial [[agaricus]] growers commonly lower air temperature by 2 degrees F,
 48 hours prior to the peak of the first and second flushes. Later flushes are
 then run hotter to speed the crop to completion.
 

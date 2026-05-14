@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Scirpus tabernaemontani, commonly known as softstem bulrush, is a perennial emergent aquatic sedge in the family Cyperaceae. It is one of the most widespread and ecologically important bulrush species in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], sediment stabilization, and wildlife habitat provision across its range.
+Scirpus tabernaemontani, commonly known as softstem bulrush, is a perennial emergent aquatic sedge in the family Cyperaceae. It is one of the most widespread and ecologically important bulrush species in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], sediment stabilization, and [[hemenway-backyard-wildlife-habitat]] provision across its range.
 
 Its ability to form dense, monospecific stands covering hectares of wetland surface makes it one of the most recognizable components of North American marsh landscapes. These stands persist for decades through vegetative reproduction, with individual genets potentially exceeding 100 years in age through continuous rhizome growth.
 
@@ -27,7 +27,7 @@ Its ability to form dense, monospecific stands covering hectares of wetland surf
 
 Scirpus tabernaemontani was first described by the German botanist Johann Christian Daniel von Schreber in 1789, honoring the sixteenth-century herbalist Jacobus Theodorus Tabernaemontanus. The species has undergone considerable taxonomic revision and is currently placed in the genus Schoenoplectus by many authorities ([[schoenoplectus-tabernaemontani]]), though the traditional Scirpus placement remains widely used in ecological and wetland management literature.
 
-The genus Schoenoplectus is distinguished from other Cyperaceae genera by its cylindrical, pith-filled stems and reduced leaves. Molecular phylogenetic studies place the genus within the tribe Scirpeae, closely allied with Schoenoplectus acutus and Schoenoplectus lacustris of the S. lacustris complex.
+The genus Schoenoplectus is distinguished from other Cyperaceae genera by its cylindrical, pith-filled stems and reduced leaves. Molecular phylogenetic studies place the genus within the tribe Scirpeae, closely allied with Schoenoplectus acutus and [[schoenoplectus-lacustris]] of the S. lacustris complex.
 
 Two primary varieties are recognized: var. tabernaemontani (widespread) and var. vallicola (restricted to California and the Great Basin). The variety vallicola is adapted to alkaline and saline conditions of interior western wetlands, exhibiting greater salt tolerance than the typical variety.
 
@@ -43,13 +43,13 @@ Leaf blades are reduced to sheaths at the stem base; the blades are absent or ve
 
 The achenes are obovate to broadly obovate, 1.8–2.5 mm long, brown to dark brown, and distinctly biconvex in cross-section. Flowering occurs from June through September, with seed maturation extending into October in northern populations.
 
-Seed production is highly variable among populations and years, with some stands producing abundant viable seed while others rely almost exclusively on vegetative propagation. The achenes possess a persistent perianth of bristles that aids in hydrochorous dispersal, allowing seeds to float on water surfaces for extended periods before settling in suitable germination substrates.
+Seed production is highly variable among populations and years, with some stands producing abundant viable seed while others rely almost exclusively on [[hamilton-vegetative-propagation]]. The achenes possess a persistent perianth of bristles that aids in hydrochorous dispersal, allowing seeds to float on water surfaces for extended periods before settling in suitable germination substrates.
 
 ## Distribution and Habitat
 
 Scirpus tabernaemontani has a nearly cosmopolitan distribution, occurring across North America, Europe, Asia, Africa, South America, and Australasia. In North America, it ranges from Alaska and northern Canada south to California, Texas, Florida, and into Mexico.
 
-The species is found in freshwater and brackish wetlands including marshes, swamps, lake margins, pond edges, slow-moving streams, roadside ditches, and constructed treatment wetlands. It tolerates water depths from 0 to 150 cm, making it one of the most depth-tolerant emergent macrophytes in temperate regions.
+The species is found in freshwater and brackish wetlands including marshes, swamps, lake margins, pond edges, slow-moving streams, roadside ditches, and constructed treatment wetlands. It tolerates water depths from 0 to 150 cm, making it one of the most depth-tolerant emergent macrophytes in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Softstem bulrush is particularly abundant in prairie pothole wetlands of the northern Great Plains, where it dominates the emergent vegetation zone. It also colonizes disturbed sites readily, including borrow pits, drainage channels, and recently created or restored wetland habitats.
 
@@ -59,7 +59,7 @@ Waterfowl including mallards, teal, gadwall, and diving ducks feed extensively o
 
 Breeding marsh birds including Virginia rails (Rallus limicola), soras (Porzana carolina), and American bitterns (Botaurus lentiginosus) nest almost exclusively within dense bulrush stands. The dense, persistent stem structure provides concealment from predators throughout the breeding season and into the post-fledging period.
 
-The extensive rhizome network binds wetland sediments and reduces shoreline erosion from wave action and water currents. Dense stands attenuate water flow velocities, promoting sediment deposition and reducing turbidity in downstream receiving waters. This hydraulic resistance function makes the species valuable in flood attenuation and stormwater management applications.
+The extensive rhizome network binds wetland sediments and reduces shoreline erosion from wave action and water currents. Dense stands attenuate water flow velocities, promoting sediment deposition and reducing turbidity in downstream receiving waters. This hydraulic resistance function makes the species valuable in flood attenuation [[mollison-designers-cloudburst-and-stormwater-management]] applications.
 
 Studies of wave attenuation by softstem bulrush stands demonstrate significant reduction in wave energy, with dense beds reducing wave height by 50–90% over distances of just 5–10 meters. This function has important implications for shoreline protection on reservoirs, navigation channels, and natural lake margins subject to wind-driven wave erosion.
 
@@ -77,7 +77,7 @@ The species establishes readily on disturbed sites and is tolerant of moderate w
 
 Nitrogen removal in softstem bulrush treatment wetlands occurs primarily through coupled nitrification-denitrification in the aerobic-anaerobic gradient surrounding the rhizosphere. Phosphorus removal is achieved through substrate adsorption, plant uptake, and precipitation reactions. Treatment performance typically meets or exceeds secondary wastewater treatment standards for biochemical oxygen demand and total suspended solids.
 
-Seasonal management considerations include controlling invasive competitors such as Phragmites australis and Typha species, which can outcompete softstem bulrush in nutrient-enriched wetlands. Prescribed burning and water level manipulation are effective management tools for maintaining bulrush dominance in restoration sites.
+Seasonal management considerations include controlling invasive competitors such as [[phragmites-australis]] and Typha species, which can outcompete softstem bulrush in nutrient-enriched wetlands. Prescribed burning and water level manipulation are effective management tools for maintaining bulrush dominance in restoration sites.
 
 Prescribed fire applied during the dormant season reduces accumulated litter, stimulates new shoot production from rhizomes, and sets back competing woody vegetation. Water level drawdowns during the growing season can control invasive monocots while stimulating bulrush seed germination from the seed bank, providing a cost-effective alternative to herbicide application in managed wetlands.
 

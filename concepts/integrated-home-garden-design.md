@@ -56,7 +56,7 @@ production.
 
 A sunken, damp zone reserved for vigorous forage and mulch species rather than direct
 food crops. Comfrey, banna grass, lemongrass, and various legumes tolerate the wet feet
-and provide cut-and-come-again mulch material. The surrounding bank supports pigeon pea,
+and provide [[cut-and-come-again]] mulch material. The surrounding bank supports pigeon pea,
 papaya, and banana, linking this element into the broader food system.
 
 ### Element D / D* — Avenue Crops

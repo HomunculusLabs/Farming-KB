@@ -15,7 +15,7 @@ sources:
 type: comparison
 ---
 
-[[coleman-deep-organic-farming-philosophy]] research in the late 1990s and early 2000s, notably advanced by Elaine Ingham's soil food web work. Despite their different lineages, they share a focus on leveraging [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
+[[coleman-deep-organic-farming-philosophy]] research in the late 1990s and early 2000s, notably advanced by [[elaine-ingham]]'s soil food web work. Despite their different lineages, they share a focus on leveraging [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
@@ -60,7 +60,7 @@ and environmental conditions. Honest assessment of these challenges
 leads to more realistic expectations and better long-term outcomes.
 
 Environmental variability presents one of the most significant ongoing
-challenges. Changes in weather patterns, seasonal fluctuations, and
+challenges. Changes in [[climatic-zones-and-global-weather-patterns]], seasonal fluctuations, and
 unpredictable events can disrupt even well-planned implementations.
 Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.

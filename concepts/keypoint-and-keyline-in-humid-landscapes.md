@@ -1,5 +1,5 @@
 ---
-title: Keypoint and Keyline in Humid Landscapes
+title: Keypoint And Keyline In Humid Landscapes
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -69,7 +69,7 @@ The irrigation channels branching from this system can have slopes ranging from 
 
 ### Above the Keypoint: Forestry Zone
 
-The land above the keypoint diversion drain is best suited to forestry. The steep slopes are unsuitable for agriculture or grazing but are ideal for tree planting, which further stabilizes the soil, increases infiltration, and enhances the water-gathering capacity of the upper watershed. Forest cover above the keypoint protects the entire water harvesting system below.
+The land above the keypoint [[diversion-drain-mollison]] is best suited to forestry. The steep slopes are unsuitable for agriculture or grazing but are ideal for tree planting, which further stabilizes the soil, increases infiltration, and enhances the water-gathering capacity of the upper watershed. Forest cover above the keypoint protects the entire water harvesting system below.
 
 ### Below the Keypoint: Irrigated Agriculture
 
@@ -102,16 +102,16 @@ The entire keyline system operates on gravity. Water flows from the keypoint to 
 
 ### Multiple Functions
 
-The keyline system serves multiple functions simultaneously: water storage, irrigation, flood control, erosion prevention, aquifer recharge, and fire protection (the keypoint dam provides a water source for firefighting). In permaculture terms, each element serves multiple functions, and each function is supported by multiple elements.
+The keyline system serves multiple functions simultaneously: water storage, irrigation, flood control, [[dighton-fungal-roles-soil-erosion-prevention]], aquifer recharge, and fire protection (the keypoint dam provides a water source for firefighting). In permaculture terms, each element serves multiple functions, and each function is supported by multiple elements.
 
 ## Distinction from Yeomans' Original Keyline
 
-Mollison noted that his treatment of keyline differs significantly from P.A. Yeomans' original formulation. Yeomans developed the keyline system specifically for Australian broadacre grazing properties, with emphasis on contour plowing to improve soil moisture distribution. Mollison adapted the concept more broadly as a water harvesting and landscape design tool, integrating it with dam construction, forestry zoning, and multi-function landscape planning. For a more detailed and technically precise treatment of the original keyline system, Mollison directed readers to Yeomans' *Water for Every Farm — The Keyline Plan*.
+Mollison noted that his treatment of keyline differs significantly from P.A. Yeomans' original formulation. Yeomans developed the keyline system specifically for Australian broadacre grazing properties, with emphasis on contour plowing to improve soil moisture distribution. Mollison adapted the concept more broadly as a water harvesting and landscape design tool, integrating it with dam construction, forestry zoning, and multi-function [[slope-analysis-landscape-planning]]. For a more detailed and technically precise treatment of the original keyline system, Mollison directed readers to Yeomans' *Water for Every Farm — The Keyline Plan*.
 
 ## See Also
 
-- water harvesting techniques
-- swale design and construction
+- [[water-harvesting-techniques-comparison]]
+- swale [[pond-design-and-construction]]
 - dam construction for water storage
 - contour mapping in design
 - [[permaculture-design-principles]]

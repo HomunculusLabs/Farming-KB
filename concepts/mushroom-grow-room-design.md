@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-A dedicated grow room provides controlled environmental conditions for mushroom cultivation at scale. While a single monotub can be managed in a closet or spare room, growers running multiple tubs or bags benefit from a purpose-built space that maintains stable temperature, humidity, and fresh air exchange. Good grow room design reduces daily maintenance, improves consistency, and maximizes yields.
+A dedicated grow room provides controlled environmental conditions for [[mushroom-cultivation]] at scale. While a single monotub can be managed in a closet or spare room, growers running multiple tubs or bags benefit from a purpose-built space that maintains stable temperature, humidity, and fresh air exchange. Good grow room design reduces daily maintenance, improves consistency, and maximizes yields.
 
 ## Environmental Parameters
 

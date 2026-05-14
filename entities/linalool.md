@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-wcanna
 
 # Linalool
 
-Linalool (3,7-dimethyl-1,6-octadien-3-ol) is a monoterpene alcohol widely distributed in the plant kingdom and recognized as one of the most therapeutically significant terpenes in cannabis (*and plant architecture*). Known for its distinctive floral, lavender-like aroma, linalool contributes calming, sedative, anxiolytic, analgesic, and anti-inflammatory properties to cannabis preparations and has an extensive body of preclinical and [[permaculture-designers-manual-essential-oil-plants]]. In cannabis, linalool is a significant terpene in many cultivars, particularly those with floral or lavender aromas such as Lavender, Amnesia Haze, and LA Confidential. Coriander (*Coriandrum sativum*) contains high levels of S-(+)-linalool, while sweet orange, bergamot, rosewood, sweet basil, and ho wood are additional significant sources.
+Linalool (3,7-dimethyl-1,6-octadien-3-ol) is a monoterpene alcohol widely distributed in the plant kingdom and recognized as one of the most therapeutically significant terpenes in cannabis (*and plant architecture*). Known for its distinctive floral, lavender-like aroma, linalool contributes calming, sedative, anxiolytic, analgesic, and anti-inflammatory properties to cannabis preparations and has an extensive body of preclinical and [[permaculture-designers-manual-essential-oil-plants]]. In cannabis, linalool is a significant terpene in many cultivars, particularly those with floral or lavender aromas such as Lavender, Amnesia Haze, and LA Confidential. Coriander (*[[coriandrum-sativum]]*) contains high levels of S-(+)-linalool, while sweet orange, bergamot, rosewood, sweet basil, and ho wood are additional significant sources.
 
 Linalool is extensively used in the fragrance, cosmetic, food, and pharmaceutical industries, with annual global production estimated in the thousands of metric tons.
 
@@ -34,7 +34,7 @@ Linalool exhibits significant analgesic properties through opioid receptor activ
 
 ### Anti-inflammatory Effects
 
-Linalool demonstrates broad anti-inflammatory activity through inhibition of COX-2 and iNOS expression, suppression of NF-κB and MAPK signaling pathways, reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6), and decreased neutrophil infiltration and oxidative burst activity.
+Linalool demonstrates broad anti-inflammatory activity through inhibition of COX-2 and iNOS expression, suppression of NF-κB and MAPK [[plant-signaling-pathways]], reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6), and decreased neutrophil infiltration and oxidative burst activity.
 
 ### Neuroprotective Properties
 
@@ -67,7 +67,7 @@ global production estimated in the thousands of metric tons. It is a key
 ingredient in perfumery, valued for its fresh floral character and ability
 to blend with a wide range of fragrance materials. Lavender essential oil,
 containing 20-50% linalool, accounts for a significant portion of global
-linalool supply. The compound is also used in scented household products,
+linalool supply. The compound is also used in scented [[soap-making-guide]],
 soaps, and detergents.
 
 In the cannabis industry, isolated linalool is a common component of terpene
@@ -76,7 +76,7 @@ formulation blends used to enhance vape cartridges, topicals, and tinctures.
 ## Overview
 
 Linalool represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Linalool finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 linalool and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -110,4 +110,4 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[succession-planting]]
 - [[coleman-season-extension-timeline-and-frost-protection]]
-- [[four-season-farming-and-winter-harvest]]
+- [[four-season-farm]]

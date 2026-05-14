@@ -53,20 +53,20 @@ complexity of day-to-day management and observation activities.
 ## Dual Extraction Methods
 
 Because hot water and ethanol each recover different compound classes,
-many high-quality medicinal mushroom products use dual extraction. This
+many high-quality [[regulatory-frameworks-for-medicinal-mushroom-products-worldwide]] use dual extraction. This
 involves performing a hot water extraction first, then extracting the
 residual material with ethanol, and finally combining both extracts.
 Dual extraction captures both the water-soluble beta-glucans and the
 alcohol-soluble triterpenoids, providing a more complete profile of
-bioactive compounds. Reishi (Ganoderma lucidum) and turkey tail
-(Trametes versicolor) preparations particularly benefit from dual
+bioactive compounds. Reishi ([[ganoderma-lucidum]]) and [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]
+([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]) preparations particularly benefit from dual
 extraction due to their significant triterpenoid content.
 
 ## Future Directions
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
@@ -74,7 +74,7 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

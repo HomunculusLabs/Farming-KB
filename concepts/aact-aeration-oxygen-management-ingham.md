@@ -71,9 +71,16 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[soil-foodweb]]
-- [[composting]]
-- [[fungal-hyphae]]
+
+- [[aact-biochar-seawater-charcoal-ingredients-ingham]]
+- [[aact-compost-feedstock-paper-wood-chips-worm-thermal-ingham]]
+- [[aact-disease-suppression-mechanisms]]
+- [[aact-ingredients-and-food-webs]]
+- [[aact-ingredients-bacterial-fungal-teas]]
+- [[aact-ingredients-sugar-kelp-lignite-soil-amendments]]
+- [[aact-insect-pest-suppression-grubs-caterpillars-mites-ingham]]
+- [[aact-npk-game-critique-nutrient-cycling-organic-conversion-ingham]]
+- [[aact-weed-control-and-soil-testing]]
 
 ## Overview
 
@@ -141,10 +148,3 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of aact aeration oxygen management ingham into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

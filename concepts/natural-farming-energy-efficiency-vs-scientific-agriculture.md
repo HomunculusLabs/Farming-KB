@@ -18,7 +18,7 @@ concluded that what is celebrated as "scientific progress" is, in thermodynamic
 terms, a catastrophic decline in efficiency. His analysis demonstrates that natural
 farming — requiring no external inputs of energy, fertilizer, or machinery —
 produces food with an energy return that dwarfs every conventional or modern
-farming method. The implications extend beyond agronomy into economics, ecology,
+[[do-nothing-farming-method]]. The implications extend beyond agronomy into economics, ecology,
 and the fundamental relationship between human civilization and the natural world.
 
 ## The Energy Arithmetic of Natural Farming
@@ -29,13 +29,13 @@ fertilizers, no pesticides — he achieved a production rate of approximately **
 pounds of rice per man-day of labor**. Converting this to energy terms, this
 output represents roughly **200,000 kilocalories** per person per day of work
 invested. For context, a human being requires approximately 2,000 kilocalories
-daily for sustenance. Natural farming therefore produces roughly **100 times the
+daily for sustenance. [[natural-farming]] therefore produces roughly **100 times the
 energy that the farmer expends** in obtaining it.
 
 This extraordinary surplus is generated without any external energy inputs — no
 petroleum, no electricity, no manufactured fertilizers, no mechanized equipment.
 The sun, soil biology, and the farmer's knowledge of natural processes supply
-everything. The 200,000 kilocalories represent a genuine net energy gain for the
+everything. The 200,000 kilocalories represent a genuine [[fukuoka-agricultural-production-net-energy-deduction]] gain for the
 human food system, the kind of surplus that historically enabled civilization to
 build cities, develop arts, and sustain populations beyond what subsistence alone
 could support.
@@ -71,7 +71,7 @@ achieves.
 
 ## The Economic Paradox of Modern Farming
 
-Fukuoka's energy analysis reveals a bitter economic irony. As farming has become
+Fukuoka's [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] reveals a bitter economic irony. As farming has become
 more energy-intensive and more heavily capitalized, the farmer's economic position
 has deteriorated. Modern farmers must work additional hours at outside jobs — in
 factories, on construction sites, in service industries — simply to earn enough

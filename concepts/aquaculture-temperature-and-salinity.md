@@ -1,5 +1,5 @@
 ---
-title: Aquaculture Temperature and [[salinity-management-in-aquaculture-ponds]]
+title: "Aquaculture Temperature And Salinity"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

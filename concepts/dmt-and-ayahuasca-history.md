@@ -74,7 +74,7 @@ to inform current best practices and research directions.
 
 ## See Also
 - [[ayahuasca]]
-- [[shamanism]]
+- shamanism
 - [[banisteriopsis-caapi]]
 
 ## Overview

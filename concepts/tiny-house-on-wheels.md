@@ -88,7 +88,7 @@ Weight is the critical constraint in THOW design. Every material choice has weig
 - Acts as air barrier, vapor barrier, and structural reinforcement
 - Eliminates thermal bridging through framing
 - Cost: $2,000-4,000 for a typical THOW
-- Best for: [[avalanche-phenomenon-cold-climates]] where insulation performance is critical
+- Best for: [[avalanche-phenomenon]] where insulation performance is critical
 
 ### Rigid Foam Board (Best Value)
 

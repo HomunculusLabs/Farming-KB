@@ -38,7 +38,7 @@ psychoactive substance.
 ## India and China
 
 In India, cannabis was absorbed into the religious fabric. Bhang, ganja, and
-charas became associated with the worship of Shiva. The drink bhang, made from
+[[charas]] became associated with the worship of Shiva. The drink bhang, made from
 [[mckenna-cannabis-cultural-style-and-feminine-plant]] differs fundamentally from culture to culture. In
 India it was absorbed into religion. In the Islamic world it became the
 accompaniment of poetry and contemplation. In Africa it was associated with
@@ -52,7 +52,7 @@ The first exploratory journey into the teeming cosmos of cannabis to appear in
 print was an account by American traveler Bayard Taylor, first published in
 Atlantic Monthly in 1854. Taylor described the sense of limitation instantly
 falling away, the walls of his frame bursting outward, his spirit cast upon the
-flood of hashish illusions. He described being encompassed by a sea of light,
+flood of [[hashish]] illusions. He described being encompassed by a sea of light,
 through which played pure, harmonious colors born of light.
 
 Such descriptions demonstrate why the "artificial paradise" was so alluring to

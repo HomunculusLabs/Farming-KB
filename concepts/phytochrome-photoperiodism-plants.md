@@ -9,7 +9,7 @@ created: 2026-05-09
 
 ## Overview
 
-Phytochrome is a photoreceptor pigment protein that allows plants to detect red and far-red light, enabling them to measure the length of the dark period (night) and regulate critical developmental transitions, most importantly flowering. The discovery of phytochrome and the photoperiodic response revealed that plants possess a sophisticated light-sensing system that functions as a biological clock, tracking [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] Mammoth Tobacco
+Phytochrome is a photoreceptor pigment protein that allows plants to detect red and far-red light, enabling them to measure the length of the dark period (night) and regulate critical developmental transitions, most importantly flowering. The discovery of phytochrome and the photoperiodic response revealed that plants possess a sophisticated light-sensing system that functions as a biological clock, tracking [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] [[maryland-mammoth-tobacco-photoperiodism]]
 
 The story of photoperiodism begins with a mutant tobacco strain discovered in southern Maryland around 1906. This strain, named *[[photoperiodism-plants-measure-night-length]]? Experiments during the World War II era provided the answer. Scientists found that:
 
@@ -74,7 +74,7 @@ Understanding photoperiodism has enabled farmers to manipulate flowering schedul
 ## Overview
 
 Phytochrome Photoperiodism Plants represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phytochrome Photoperiodism Plants finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -103,7 +103,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 phytochrome photoperiodism plants and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -6,7 +6,7 @@ type: concept
 
 # Permaculture in Urban Areas
 
-Urban [[permaculture]] applies the same fundamental design principles used on broadacre properties to the confined spaces of cities and towns. While the scale changes dramatically, the core approach—maximizing functional connections between elements, working with natural forces, and creating productive yields from every available niche—remains constant. Urban permaculture demands perhaps even more design skill than rural work, because the constraints are tighter and every square foot matters.
+Urban [[permaculture]] applies the same fundamental [[aact-brewer-design-principles-aeration-systems-ingham]] used on broadacre properties to the confined spaces of cities and towns. While the scale changes dramatically, the core approach—maximizing [[component-analysis-and-functional-connections]] between elements, working with natural forces, and creating productive yields from every available niche—remains constant. [[comparison-backyard-food-forest-vs-urban-permaculture]] demands perhaps even more design skill than rural work, because the constraints are tighter and every square foot matters.
 
 ## Vertical Space and Microclimate
 
@@ -36,7 +36,7 @@ Common in Britain and available through community gardening organizations in Ame
 
 ### Food Parks and Community Land Reclamation
 
-In Australia, land frequently reverts to local authorities when absentee owners fail to pay rates and taxes. Permaculture designers identify these neglected lots and work with local councils to transform them into community food parks. The process involves bringing in trucks for heavy planting, installing paths, water systems, sprinklers, and hoses, then formally donating the completed garden to surrounding residents in a ceremony—often attended by the mayor and press.
+In Australia, land frequently reverts to local authorities when absentee owners fail to pay rates and taxes. [[bill-mollison]] identify these neglected lots and work with local councils to transform them into community food parks. The process involves bringing in trucks for heavy planting, installing paths, water systems, sprinklers, and hoses, then formally donating the completed garden to surrounding residents in a ceremony—often attended by the mayor and press.
 
 These donated gardens remain on council land but are effectively given to residents. After three to four years, such projects have proven sustainable. The strategy works particularly well in low-income industrial neighborhoods where residents lack resources for initial landscaping.
 
@@ -54,7 +54,7 @@ Originating in Britain and now operating in many countries, WWOOF allows city re
 
 ## The City as a Farm
 
-A paradigm shift in urban permaculture is viewing the city itself as an existing farm with vast untapped resources:
+A [[psilocybin-as-catalyst-for-paradigm-shift]] in urban permaculture is viewing the city itself as an existing farm with vast untapped resources:
 
 ### Urban Fruit and Nut Harvesting
 
@@ -72,7 +72,7 @@ In Yugoslavia, every small town hall houses a two-story brass still for communit
 
 ## City Farms
 
-City farms serve as demonstration and education sites. The 18-acre Melbourne city farm, designed by permaculturists and built by an unemployed group, demonstrates herb gardens, attached greenhouses (frames constructed from salvaged factory materials), ponds, picnic areas, and a retrofitted house. It serves as a retailer of permaculture hardware—stock ponds, windmills, and related equipment.
+City farms serve as demonstration and education sites. The 18-acre Melbourne city farm, designed by permaculturists and built by an unemployed group, demonstrates herb gardens, attached greenhouses (frames constructed from salvaged factory materials), ponds, picnic areas, and a retrofitted house. It serves as a retailer of [[permaculture-hardware-manufacturing-and-communications]]—stock ponds, windmills, and related equipment.
 
 British city farms (46 in total) occupy deprived urban areas where children have never visited farms. They maintain milk cows, goats, geese, rabbits, and worm beds under ordinary conditions. While they approach self-sufficiency, they require a manager’s wage and many rely on voluntary staffing.
 
@@ -87,3 +87,7 @@ Urban permaculture consultants work more on strategy than on physical design. Ke
 - **Regional planning**: Designing complementary, non-competitive systems across a district where each specialist has a local market
 
 The 1979 German conference on future agricultural trends identified three key findings: a return to small specialized farms (half acre to fifteen acres), increasing demand for self-pick and wayside sales, and the prediction that organically produced products would be the only products in future demand. This direction aligns precisely with permaculture’s urban-rural linkage strategies.
+
+## See Also
+
+- [[permaculture-for-urban-areas]]

@@ -65,7 +65,7 @@ lingering tropical sweetness.
 
 - **Caryophyllene** (dominant, ~0.8–1.2%) — peppery, anti-
   inflammatory properties
-- **Limonene** (secondary, ~0.5–0.8%) — citrus brightness, mood
+- **[[limonene]]** (secondary, ~0.5–0.8%) — citrus brightness, mood
   elevation
 - **Myrcene** (secondary, ~0.4–0.7%) — earthy, sedative base
 - **Linalool** (trace, ~0.1–0.3%) — floral, anxiolytic contribution

@@ -40,7 +40,7 @@ The species is easily recognized by its habit of fruiting in dense clusters on d
 
 **Stipe:** 15–40 × 1–2 mm, slender, fragile, hollow, white, silky-fibrillose, without a ring or volva. Base may have sparse white mycelial threads.
 
-**Spore print:** Black. **Spores:** 7–10 × 4.5–6 µm, ellipsoid to amygdaliform, smooth, with a central germ pore, thick-walled, dark brown in deposit.
+**[[spore-print]]:** Black. **Spores:** 7–10 × 4.5–6 µm, ellipsoid to amygdaliform, smooth, with a central germ pore, thick-walled, dark brown in deposit.
 
 ## Distribution and Habitat
 

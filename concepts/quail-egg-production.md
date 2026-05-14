@@ -1,5 +1,5 @@
 ---
-title: Quail [[mollison-designers-chicken-tractors-egg-production]]
+title: "Quail Egg Production"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

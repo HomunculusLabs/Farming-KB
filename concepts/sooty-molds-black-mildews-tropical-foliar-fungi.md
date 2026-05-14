@@ -15,7 +15,7 @@ type: concept
 ---
 # Sooty Molds and Black Mildews - Tropical Foliar Fungi
 Sooty molds and black mildews are two groups of
-fungal-biodiversity|Ascomycetes that form dark, conspicuous
+[[fungal-biodiversity]]|Ascomycetes that form dark, conspicuous
 colonies on the surfaces of [[fungal-parasites-living-plants-estimating-diversity]].
 ## Sooty Molds
 ### Biology

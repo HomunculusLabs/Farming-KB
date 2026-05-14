@@ -1,6 +1,6 @@
 ---
-title: "Hyphal Proton Pumps, Electrical Biology, and Nutrient Uptake in Fungi"
-source: "Mr. Bloomfield's Orchard - Nicholas Money"
+title: Bloomfield Hyphal Proton Pump Nutrient Uptake Electrical Biology
+source: "Mr. Bloomfield's Orchard - [[nicholas-money-mycologist]]"
 topics: [mycology, fungal-physiology, membrane-biology, proton-pumps, nutrient-uptake]
 ---
 
@@ -14,7 +14,7 @@ One of the most remarkable yet underappreciated features of fungal biology is th
 
 Fungal hyphae release enzymes into their surroundings—cellulases to break down plant cell walls, proteases to dissolve animal tissues, and organic acids to weather rock. These enzymes work externally, converting complex polymers into simple sugars, amino acids, and mineral ions. But the products of this extracellular digestion cannot simply diffuse into the hypha. They must be actively transported across the plasma membrane by specialized carrier proteins.
 
-This active transport requires energy, and fungi solve this problem through an elegantly simple mechanism: the **proton pump**.
+This [[diffusion-osmosis-and-active-transport-in-plants]] requires energy, and fungi solve this problem through an elegantly simple mechanism: the **proton pump**.
 
 ## The Proton Pump Mechanism
 
@@ -37,7 +37,7 @@ Beyond nutrient uptake, the proton gradient powers:
 - **Secondary active transport** of other molecules
 - **pH homeostasis** in the cytoplasm
 - **Cell wall synthesis** through vesicle trafficking
-- **Signal transduction** pathways that regulate [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]].
+- **[[fungal-environmental-sensing-signal-transduction]]** pathways that regulate [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]].
 
 The results of such electrophysiological studies have revealed that:
 - Healthy hyphae maintain membrane potentials of -100 to -200 mV (inside negative)
@@ -81,7 +81,7 @@ The targeting of vesicles to precisely the right location at the hyphal apex—w
 
 ## Electrical Signaling and Long-Distance Communication
 
-Beyond nutrient uptake, the electrical properties of fungal membranes may play a role in long-distance communication within the mycelium. Changes in membrane potential can propagate along hyphae as **action potentials** or **slow wave potentials**, potentially allowing different parts of a large mycelial network to coordinate their activities. This has been demonstrated experimentally in several fungal species, where localized stimulation at one point triggers measurable electrical responses at distant points in the same mycelium.
+Beyond nutrient uptake, the electrical properties of fungal membranes may play a role in long-distance communication within the mycelium. Changes in membrane potential can propagate along hyphae as **[[chamovitz-plant-electrical-signaling-action-potentials]]** or **slow wave potentials**, potentially allowing different parts of a large [[beber-mycelial-network-graph-theory-cord-routing]] to coordinate their activities. This has been demonstrated experimentally in several fungal species, where localized stimulation at one point triggers measurable electrical responses at distant points in the same mycelium.
 
 This electrical signaling capacity adds another dimension to our understanding of fungal biology. The mycelium is not merely a network of feeding tubes—it may also function as an information-processing system, using [[mycelial-foraging-resource-allocation]], and defense responses across its entire extent.
 

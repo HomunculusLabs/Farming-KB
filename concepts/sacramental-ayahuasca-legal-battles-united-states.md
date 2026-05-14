@@ -11,10 +11,10 @@ sources:
 
 # Sacramental Ayahuasca Legal Battles in the United States
 
-The legal status of sacramental ayahuasca use in the United States represents
+The [[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]] sacramental ayahuasca use in the United States represents
 one of the most significant intersections of religious freedom, drug policy, and
 indigenous spiritual practice in modern American jurisprudence. Two Brazilian
-syncretic religions, the Santo Daime and the Uniao do Vegetal (UDV), have sought
+syncretic religions, the [[brazilian-ayahuasca-churches-santo-daime-udv-barquinha-structural-comparison]] and the Uniao do Vegetal (UDV), have sought
 federal legal protection for their ceremonial use of ayahuasca, a brew
 containing the Schedule I compound N,N-dimethyltryptamine (DMT).
 
@@ -23,10 +23,10 @@ containing the Schedule I compound N,N-dimethyltryptamine (DMT).
 Ayahuasca is a psychoactive brew traditionally used by indigenous peoples of the
 Amazon Basin for spiritual and medicinal purposes spanning thousands of years.
 [[yopo-anadenanthera-peregrina-snuff]] or the bark of Virola species trees, but ayahuasca
-represents the most common South American ethnomedicine containing DMT.
+represents the most common [[chiric-caspi-brunfelsia-south-american-hallucinogen]] ethnomedicine containing DMT.
 
-The brew typically combines the DMT-containing leaves of Psychotria viridis with
-the Banisteriopsis caapi vine, which provides reversible type A monoamine
+The brew typically combines the DMT-containing leaves of [[chacruna-psychotria-viridis]] with
+the [[ayahuasca-and-banisteriopsis-caapi]] vine, which provides reversible type A monoamine
 oxidase inhibitors (MAOIs) that render DMT orally active. DMT is hallucinogenic
 when smoked, inhaled, injected, or administered as an enema, but it is orally
 active only when monoamine oxidase enzymes in the gut and liver are inhibited.
@@ -75,6 +75,6 @@ Daime religion does not constitute abuse of a controlled substance."
 
 A 2001 court case in the Netherlands also led to recognition of the Santo Daime
 as a valid religion, raising the possibility that religious use of ayahuasca
-might be legally permissible in all nations comprising the European Union.
+might be legally permissible in all nations comprising [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]].
 
 ## The Uniao do Vegetal and Federal Litigation

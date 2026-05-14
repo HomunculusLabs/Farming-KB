@@ -28,7 +28,7 @@ The rate of senescence varies enormously between species and even between strain
 The simplest preservation method, suitable for short-to-medium term storage (up to one year):
 
 1. Maintain stock cultures on [[growing-gourmet-agar-media-formulas-preparation]] formulations for successive stock culture transfers
-- If PDA (Potato Dextrose Agar) is used for the first transfer, use MEA (Malt Extract Agar) for the second, then PDA again
+- If PDA (Potato Dextrose Agar) is used for the first transfer, use MEA ([[malt-extract-agar]]) for the second, then PDA again
 - This alternation provides different nutrient profiles that may help maintain metabolic flexibility
 - The biochemical stress of adapting to new media may trigger beneficial gene expression patterns
 

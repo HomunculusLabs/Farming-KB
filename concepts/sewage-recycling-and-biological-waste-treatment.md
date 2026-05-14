@@ -1,5 +1,5 @@
 ---
-title: Sewage Recycling and Biological Waste Treatment
+title: Sewage Recycling And Biological Waste Treatment
 source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
@@ -21,15 +21,15 @@ Mollison notes the ironic imbalance: "Most health inspectors I know are awfully 
 All sensible town sewage treatment from flush toilets must follow this path:
 
 1. **Primary mechanical breakdown**: Removal of solid wastes
-2. **Methane production**: Biogas from anaerobic digestion
+2. **Methane production**: Biogas from [[anaerobic-digestion-biogas-production]]
 3. **Trickle filter**: Aerobic biological filtration
-4. **Lagoons**: Biological oxidation and wildlife habitat
+4. **Lagoons**: Biological oxidation and [[hemenway-backyard-wildlife-habitat]]
 5. **Soil absorption**: Deep-chiselled fields as absorption filters
 6. **Stream return**: After all taint and excess nitrates removed
 
 ## Maryborough Model (Victoria, Australia)
 
-Mollison cooperated with P.A. Yeomans in designing "wildlife and biologically-oriented sewage lagoons" for a town of ~8,000 people (flow ~1,300,000 l/day).
+Mollison cooperated with P.A. Yeomans in designing "wildlife and biologically-oriented [[werribee-sewage-lagoons-mollison]]" for a town of ~8,000 people (flow ~1,300,000 l/day).
 
 ### Design Features
 - Lagoons feed hundreds of wildfowl
@@ -62,7 +62,7 @@ Raked or mown plant material pit-mulched and covered near planting holes. Raking
 ### Shower and Washing Water
 - Permanent houses: shower water led to slotted pipe drains under shadehouse or garden
 - Wiltjas: pebble mounds with showers overhead provide water treatment and garden moisture
-- "Many showers, so placed, make garden watering an automatic process"
+- "Many showers, so placed, make [[vegetable-garden-watering-systems-spacing]] an automatic process"
 
 ### All Household Wastewater
 - Washing-up, shower, bath, washing water containing soap led under mulch is "a benefit, not a nuisance"
@@ -102,7 +102,7 @@ In a fully integrated system:
 1. **Human waste** → methane → biogas for cooking/heating
 2. **Treated effluent** → lagoons → wildfowl habitat → field irrigation
 3. **Organic kitchen waste** → mulch → worm activity → soil building
-4. **Grey water** (showers, washing) → garden irrigation → plant production
+4. **Grey water** (showers, washing) → [[dryland-garden-irrigation-systems]] → plant production
 5. **Animal manure** → pond fertilization → fish/duck production
 6. **Sludge** → tree planting holes → fruit/nut production
 
@@ -113,3 +113,9 @@ In suburbs, all food and cellulose wastes could generate fuel via amylase column
 ## Key Principle
 
 "There is no sane technological solution to sewage waste; it is the province of the biologist." The most productive approach integrates waste treatment with food production, creating closed nutrient cycles that benefit both people and environment.
+
+## See Also
+
+- [[biological-sewage-treatment-with-plants]]
+- [[biological-sewage-treatment-plants]]
+- [[biological-sewage-treatment-with-aquatic-plants]]

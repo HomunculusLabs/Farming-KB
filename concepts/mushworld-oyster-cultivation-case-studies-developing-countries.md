@@ -2,9 +2,9 @@
 
 ## Overview
 
-Mushroom cultivation serves as a proven **[[mollison-designers-banana-circle-waste-recycling-system]] for rural communities. The handbook's case studies
+[[mushroom-cultivation]] serves as a proven **[[mollison-designers-banana-circle-waste-recycling-system]] for rural communities. The handbook's case studies
 (Part I, Chapters 1–2) reveal a consistent pattern: low startup costs, locally available substrates,
-and strong market demand make mushroom farming an accessible and profitable enterprise even for
+and strong market demand make [[organic-mushroom-farming-and-mycoremediation-overview]] an accessible and profitable enterprise even for
 resource-poor households.
 
 These programs share a common architecture — a central institution provides technical expertise and
@@ -30,7 +30,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -55,7 +55,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Mushworld Oyster Cultivation Case Studies Developing Countries. These include both technical difficulties and broader systemic
+Mushworld [[comparison-cordyceps-vs-oyster-cultivation]] Case Studies Developing Countries. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.
@@ -80,5 +80,5 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying

@@ -124,8 +124,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[fungal-succession-wood-substrates]]
-- [[japanese-shiitake-cultivation-on-wood-poles]]
-- [[singh-wood-rot-fungi-structural-timber-decay]]
-- [[spalting-pigments-wood-inhabiting-fungi-chemistry]]
-- [[stamets-cultivator-wood-lovers-bed-preparation-outdoor]]
+- [[wood-ear-and-blewit-cultivation]]
+- [[wood-ear-auricularia-cultivation]]
+- [[wood-rotting-fungi-for-effluent-decolorization]]

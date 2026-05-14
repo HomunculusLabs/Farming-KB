@@ -61,7 +61,7 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[bloomfield-fungal-antibiotics-bacterial-predation-nitrogen-acquisition-soil]]
 - [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]]
-- [[actinomycetes-and-soil-ecology]]
+- [[actinomycetes]]
 
 ## Overview
 

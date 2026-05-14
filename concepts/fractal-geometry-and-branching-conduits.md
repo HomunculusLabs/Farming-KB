@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Fractal geometry provides a powerful lens for understanding the branching, self-similar patterns that pervade natural systems. From the architecture of trees to the distribution of lichen on stone, fractals describe forms that repeat at ever-smaller scales. In permaculture design, recognizing these patterns allows practitioners to work with nature's inherent efficiencies rather than against them. Branching conduits — the ever-dividing pathways that transport energy, materials, and information through living systems — are among the most important fractal structures for designers to understand and emulate.
+Fractal geometry provides a powerful lens for understanding the branching, self-similar patterns that pervade natural systems. From the architecture of trees to the distribution of lichen on stone, fractals describe forms that repeat at ever-smaller scales. In [[permaculture-design]], recognizing these patterns allows practitioners to work with nature's inherent efficiencies rather than against them. Branching conduits — the ever-dividing pathways that transport energy, materials, and information through living systems — are among the most important fractal structures for designers to understand and emulate.
 
 ## [[what-a-plant-knows-phytochrome-red-far-red-light-switch]] identification keys, and decision trees. In all cases, the defining feature is self-similarity: the overall structure is mirrored at progressively finer scales. This recursive quality means that a small portion of a fractal, when examined in isolation, resembles the whole — a property with profound implications for understanding and designing complex systems.
 

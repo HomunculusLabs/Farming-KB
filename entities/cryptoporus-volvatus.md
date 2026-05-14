@@ -44,7 +44,7 @@ Fruiting occurs singly or in small clusters on standing dead trunks, fallen logs
 
 ## Ecological Role
 
-*Cryptoporus volvatus* occupies a specific ecological niche as an early-succession saprotroph on beetle-killed conifers. It is one of the first fungi to colonize freshly killed wood, typically appearing within months of tree death.
+*Cryptoporus volvatus* occupies a specific [[ecological-niche]] as an early-succession saprotroph on beetle-killed conifers. It is one of the first fungi to colonize freshly killed wood, typically appearing within months of tree death.
 
 Its competitive strategy involves rapid colonization of the nutrient-rich sapwood before other decay fungi can establish. The veiled pore surface is a key adaptation — by sealing the hymenium, the fungus reduces moisture loss and can continue producing spores even under dry conditions.
 

@@ -72,7 +72,7 @@ sterilisation. [[microwave-surface-sterilization]]
 
 ## Overview
 
-Trace Water Microwave Sterilization Mechanism 2 45 Ghz represents an important element within sustainable
+Trace Water [[microwave-sterilization]] Mechanism 2 45 Ghz represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

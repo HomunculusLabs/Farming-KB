@@ -6,7 +6,7 @@ type: concept
 
 # Microclimate Site Assessment
 
-Microclimate site assessment is the systematic observation and mapping of local climatic variations across a landscape. In [[permaculture-design]], understanding microclimates is essential because conditions can vary dramatically over short distances — even within a single property — due to differences in elevation, slope, vegetation, water features, and built structures. Accurate assessment allows the designer to place sensitive elements such as houses, gardens, and livestock shelters in the most favourable positions and to modify less favourable zones through intentional design interventions.
+Microclimate site assessment is the systematic [[permaculture-beginners-guide-observation-and-mapping]] of local climatic variations across a landscape. In [[permaculture-design]], understanding microclimates is essential because conditions can vary dramatically over short distances — even within a single property — due to differences in elevation, slope, vegetation, water features, and built structures. Accurate assessment allows the designer to place sensitive elements such as houses, gardens, and livestock shelters in the most favourable positions and to modify less favourable zones through intentional design interventions.
 
 The goal of microclimate assessment is to move beyond regional climate data (which describes broad averages over large areas) and identify the specific conditions that prevail at the scale of individual fields, building sites, garden beds, and livestock paddocks. This localised knowledge is what enables effective permaculture design.
 
@@ -16,7 +16,7 @@ Altitude is one of the most significant factors influencing microclimate. As a g
 
 This relationship between altitude and temperature is not merely an abstraction — it has direct, practical consequences for site design. Higher-elevation sites experience lower average temperatures, shorter growing seasons, increased wind exposure, and greater frost frequency. They may also receive higher rainfall and experience stronger solar radiation due to the thinner atmosphere at altitude, which paradoxically can increase daytime heating while intensifying nighttime radiative cooling.
 
-Slope position and aspect interact with altitude to create further variation. South-facing slopes in the Southern Hemisphere (north-facing in the Northern Hemisphere) receive more direct solar radiation and are correspondingly warmer than opposite slopes at the same elevation. A comprehensive site assessment records not just the absolute elevation of key points but also the relative position on slope — ridge, mid-slope, or valley floor — since this determines cold air drainage patterns and frost risk independently of altitude alone.
+Slope position and aspect interact with altitude to create further variation. South-facing slopes in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] (north-facing in the Northern Hemisphere) receive more direct solar radiation and are correspondingly warmer than opposite slopes at the same elevation. A comprehensive site assessment records not just the absolute elevation of key points but also the relative position on slope — ridge, mid-slope, or valley floor — since this determines cold air drainage patterns and frost risk independently of altitude alone.
 
 ## Frost Zones
 
@@ -61,14 +61,14 @@ Observing flagged trees on and around a site provides valuable information about
 
 ## Windbreak Planning
 
-Windbreaks are designed structures — typically composed of trees and shrubs — that reduce wind speed and modify the microclimate in their lee. Effective windbreaks serve multiple functions in permaculture systems: shelter for stock and buildings, reduction of evapotranspiration in gardens and orchards, soil erosion prevention, habitat creation, and production of fodder, timber, mulch, or nectar.
+Windbreaks are designed structures — typically composed of trees and shrubs — that reduce wind speed and modify the microclimate in their lee. Effective windbreaks serve multiple functions in permaculture systems: shelter for stock and buildings, reduction of evapotranspiration in gardens and orchards, [[dighton-fungal-roles-soil-erosion-prevention]], habitat creation, and production of fodder, timber, mulch, or nectar.
 
 Multi-function tree species recommended for windbreaks include:
 
 - **Casuarina spp.** — fast-growing, nitrogen-fixing, wind-hardy, useful for timber and mulch.
-- **Carob (Ceratonia siliqua)** — drought-tolerant, nitrogen-fixing, edible pods for stock and human use.
-- **Honey locust (Gleditsia triacanthos)** — hardy, nitrogen-fixing, produces edible pods and excellent stock fodder.
-- **Leucaena leucocephala** — fast-growing, high-protein fodder, nitrogen-fixing; suited to frost-free subtropical and tropical zones.
+- **Carob ([[carob-ceratonia-siliqua-mediterranean-leguminous-tree]])** — drought-tolerant, nitrogen-fixing, edible pods for stock and human use.
+- **Honey locust ([[gleditsia-triacanthos]])** — hardy, nitrogen-fixing, produces edible pods and excellent stock fodder.
+- **[[leucaena-leucocephala]]** — fast-growing, high-protein fodder, nitrogen-fixing; suited to frost-free subtropical and tropical zones.
 - **Coprosma repens** — coastal-hardy evergreen shrub tolerant of salt spray and wind; useful as a low windbreak component.
 
 Selecting multi-functional species maximises the yield from the windbreak area, which is particularly important in small-scale systems where every element should serve several purposes.

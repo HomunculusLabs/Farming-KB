@@ -35,6 +35,12 @@ Maxine Cole is a permaculture practitioner and collaborator who co-compiled the 
 
 Cole's contribution represents the practical implementation arm of [[bioregional-organisation-mollison]] theory — translating Mollison's philosophical framework into an actionable resource survey methodology that any community can adopt and adapt.
 
+## Background and Context
+
+- Historical development and key contributors
+- Relationship to broader ecological frameworks
+- Evolution of understanding through research
+
 ## See Also
 
 - [[bioregional-organisation]]

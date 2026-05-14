@@ -62,12 +62,12 @@ After several years as a productive pond:
 - **Wild rice**: Requires planting seed in mud balls; essential duck food; 3-week dropping period for harvest; grows in still lagoons at 18 inches to 3 feet depth with slight water movement
 - **Arrowheads and duck potatoes**: Important wildfowl food; at least 80 species with wide climate range
 - **Reeds and rushes**: Heavy crops for paper, fodder, and mats; papyrus grows here
-- **Mints**: Extremely productive but invasive — confine with dense bushes on either side; black peppermint can yield $70,000 from just 2–3 acres through steam distillation to menthol
+- **Mints**: Extremely productive but invasive — confine with dense bushes on either side; black peppermint can yield $70,000 from just 2–3 acres through [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] to menthol
 - **Bamboo**: Lives on well-drained soil above the water table but sends feeder roots down to water; never tolerates sodden conditions
 
 ### Floating and Submerged Plants (3–9 feet depth)
 - **Water lilies**: Plant in manure bags inside old tires for easy harvesting and containment
-- **Chinese water chestnut**: Grows as a mud rush; harvested by wading slowly through stems
+- **[[chinese-water-chestnut-mollison]]**: Grows as a mud rush; harvested by wading slowly through stems
 - **Indian water chestnut**: Floating with anchor stem; graceful harvest by women in bronze bowls in India
 - **Lotus**: Some species have popcorn-like seeds that can be gathered and popped
 - **Ferns and duckweed**: Continue productivity at depth; duckweed thrives on the surface
@@ -81,12 +81,12 @@ After several years as a productive pond:
 ## Animal Integration
 
 ### Frogs
-Essential for greenhouse pest control — they are effective slug eaters. Toads (*Bufo* spp.) control slugs and cutworms effectively as all are nocturnal; bullfrogs are less useful as they feed in daylight when pests are inactive.
+Essential for [[ultra-low-herbal-smoker-greenhouse-pest-control]] — they are effective slug eaters. Toads (*Bufo* spp.) control slugs and cutworms effectively as all are nocturnal; bullfrogs are less useful as they feed in daylight when pests are inactive.
 
 ### Ducks
 - **Stocking rate**: Eight ducks per quarter acre
 - **Benefits**: Additional egg crop, manure input, energy turnover in the pond
-- **Predator protection**: Fences into the water with top netting; islands are ideal; duck sheds placed behind fencing
+- **[[fukuoka-natural-predator-protection]]**: Fences into the water with top netting; islands are ideal; duck sheds placed behind fencing
 - **Compatible plants**: Wild rice grows above duck height, providing food during its 3-week dropping period
 
 ### Crawfish and Crayfish
@@ -108,7 +108,7 @@ Essential for greenhouse pest control — they are effective slug eaters. Toads 
 
 ## Pond as Multi-Function System
 
-A permaculture pond serves far more than aquaculture:
+[[query-how-can-duckweed-be-used-in-a-permaculture-pond]] serves far more than aquaculture:
 - **Barrier function**: Often saves a half-mile of fencing
 - **Reflection function**: Light bouncing off water surface
 - **Fire protection**: Water source for firefighting
@@ -120,7 +120,7 @@ A permaculture pond serves far more than aquaculture:
 ### Sewage Integration
 - Raw sewage should flow into a marsh first, not directly into a pond
 - Marsh plants (mints, bog plants) have phenomenal sewage demand
-- In cold climates, a holding pond is needed because marsh plants go dormant in winter
+- [[query-how-do-i-grow-figs-in-cold-climates]], a holding pond is needed because marsh plants go dormant in winter
 - After marsh treatment, water contains only dissolved nutrients (mainly phosphates and nitrates) suitable for pond input
 - Swiss research identifies rushes (*Juncus* spp.) as the most efficient water cleansers
 - Case study: A town of 8,000 saved $30,000 annually in engineering costs and equivalent fuel costs through a permaculture sewage system using mint and bamboo as industrial crops

@@ -15,7 +15,7 @@ sources:
   - Gupta, S. et al. (2010). "Hepatoprotective effect of Murraya koenigii leaves on paracetamol induced hepatic damage in rats." Indian Journal of Experimental Biology, 48(4), 351-356.
   - Bhandari, P.R. (2012). "Curry leaf (Murraya koenigii) — a multipurpose green leafy vegetable." International Journal of Pharmaceutical Sciences and Research, 3(4), 1035.
   - Tachibana, Y. et al. (2001). "Aqueous extracts of curry leaf (Murraya koenigii) and fenugreek (Trigonella foenum-graecum) as antioxidants." Food Science and Technology Research, 7(2), 151-155.
-  - Samanta, A.K. et al. (2018). "A comprehensive review on curry leaf (Murraya koenigii) and its therapeutic potential." Journal of Applied Pharmaceutical Science, 8(10), 146-157.
+  - Samanta, A.K. et al. (2018). "A comprehensive review on curry leaf (Murraya koenigii) and its [[metzner-ayahuasca-therapeutic-potential]]." Journal of Applied Pharmaceutical Science, 8(10), 146-157.
 ---
 
 ## Overview
@@ -40,7 +40,7 @@ Fruits are small, ovoid to subglobose drupes 1–1.3 cm in diameter, ripening fr
 
 M. koenigii is native to the Indian subcontinent, Sri Lanka, and the Andaman Islands. It has been introduced and naturalized throughout tropical and subtropical Asia, including Myanmar, Thailand, Malaysia, and southern China.
 
-The species grows naturally in dry deciduous forests and scrublands at elevations up to 1500 m. It thrives in warm, humid tropical and subtropical climates with annual rainfall of 1000–2500 mm.
+The species grows naturally in dry deciduous forests and scrublands at elevations up to 1500 m. It thrives in warm, humid tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with annual rainfall of 1000–2500 mm.
 
 Curry leaf trees are frost-sensitive and do not tolerate temperatures below 5°C. They prefer well-drained, loamy to sandy soils with a slightly acidic to neutral pH.
 
@@ -50,7 +50,7 @@ The leaves contain 0.5–2.5% [[antifungal-secondary-metabolites-coprophilous-fu
 
 Hypoglycemic effects have been demonstrated in multiple animal studies, where leaf extracts significantly reduced blood glucose levels in streptozotocin-induced diabetic rats. The mechanism may involve stimulation of insulin secretion and enhancement of peripheral glucose uptake.
 
-Antioxidant activity is attributed to the combined action of phenolic compounds, flavonoids, and carbazole alkaloids. The leaf extract shows significant DPPH radical scavenging activity comparable to standard antioxidants at equivalent concentrations.
+Antioxidant activity is attributed to the combined action of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], flavonoids, and carbazole alkaloids. The leaf extract shows significant DPPH radical scavenging activity comparable to standard antioxidants at equivalent concentrations.
 
 Hepatoprotective effects have been documented in rodent models of paracetamol-induced liver damage. Leaf extracts reduced elevated serum enzyme markers and improved histological liver architecture in treated animals.
 
@@ -81,7 +81,7 @@ The leaves also contain significant amounts of fiber and plant sterols. Their lo
 ## Overview
 
 Murraya Koenigii represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -110,7 +110,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 murraya koenigii and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

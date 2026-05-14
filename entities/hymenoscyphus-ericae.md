@@ -25,17 +25,17 @@ ecosystem is related to soil conditions and the nature of the major
 nutrient form available. At high latitudes and altitudes, plant
 communities accumulate recalcitrant litter (rich in lignin and
 polyphenols) faster than it can be decomposed, leading to raw humic
-material. In these extreme environments, ericoid mycorrhizae dominate
+material. In these [[fungal-biodiversity-in-extreme-environments]], [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] dominate
 within plant communities of ericaceous species.
 
 ## Role in Ecosystem Processes
 
 ### Organic Nitrogen Cycling
 
-The role of Hymenoscyphus ericae in nitrogen cycling is paramount in
+The role of Hymenoscyphus ericae [[fungal-role-in-nitrogen-cycling]] is paramount in
 heathland ecosystems. Read and Kerley (1995) showed that ericoid
 mycorrhizal plants derive most of their nitrogen from organic sources.
-In soils supporting Calluna vulgaris, hydrolysable organic nitrogen
+In soils supporting [[calluna-vulgaris]], hydrolysable organic nitrogen
 constituted approximately 70% of the total nitrogen pool, while humin
 and recalcitrant nitrogen formed about 26%. Extractable ammonium
 represented less than 1%, and free amino acid nitrogen only 1-4%.
@@ -46,7 +46,7 @@ access to only a tiny fraction of the soil nitrogen pool.
 
 Kerley and Read (1995) demonstrated that Hymenoscyphus ericae can
 decompose chitin and transfer some 40% of the nitrogen contained in
-N-acetylglucosamine to its host plants (Vaccinium macrocarpon and
+N-acetylglucosamine to its host plants ([[vaccinium-macrocarpon]] and
 Calluna vulgaris). Chitin is a major component of fungal cell walls and
 insect exoskeletons; its decomposition represents an important pathway
 for nitrogen recycling in heathland ecosystems, distinguishing H.
@@ -60,7 +60,7 @@ phosphate from [[fungal-volatile-organic-compounds-communication]]. Mitchell and
 Leake (1996), and Leake and Miles (1996) showed that Vaccinium
 macrocarpon could access phosphate from inositol hexaphosphate and both
 P and N from phosphodiesters. Related ericoid species (Oidiodendron
-maius, Acremonium strictum) similarly utilize glutamine, glutathione,
+maius, [[acremonium-strictum]]) similarly utilize glutamine, glutathione,
 and proteins as nitrogen sources (Xiao and Berch, 1999; Chen et al.,
 2000).
 

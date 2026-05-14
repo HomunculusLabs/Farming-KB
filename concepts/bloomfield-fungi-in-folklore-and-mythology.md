@@ -33,7 +33,7 @@ powerful that hands and feet become gangrenous. An eighteenth-century English
 report referred to "a singular calamity" in which six family members lost their
 feet to "a mortification not to be accounted for."
 
-The hallucinations are caused by isoergine ([[shamanism]]
+The hallucinations are caused by isoergine (shamanism
 - [[fly-agaric]]
 - [[amanita]]
 

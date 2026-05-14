@@ -1,5 +1,5 @@
 ---
-title: [[holzer-grafting-fruit-tree-propagation]]
+title: "Fruit Tree Propagation"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

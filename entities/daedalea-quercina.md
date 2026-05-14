@@ -23,7 +23,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Daedalea quercina**, commonly known as the oak mazegill or labyrinthine bracket fungus, is a species of bracket fungus in the family Fomitopsidaceae. It is a brown-rot polypore that primarily colonizes dead or dying oak wood, forming distinctive maze-like pore surfaces on the underside of its semicircular brackets.
+**Daedalea quercina**, commonly known as the oak mazegill or labyrinthine bracket fungus, is a species of bracket fungus in the family Fomitopsidaceae. It is a [[brown-rot]] polypore that primarily colonizes dead or dying oak wood, forming distinctive maze-like pore surfaces on the underside of its semicircular brackets.
 
 The species is notable for its variable pore morphology — ranging from daedaleoid (labyrinthine) to poroid — which has made it a model organism for studying hymenophore development in polypores.
 

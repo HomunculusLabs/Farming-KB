@@ -49,7 +49,7 @@ Jujube tolerates an extraordinarily wide range of soil conditions. It prefers
 **well-drained soil** but handles sandy, loamy, clay-loam, and even rocky soils.
 Acceptable pH ranges from approximately **5.5 to 8.5**. Once established, the tree is
 deeply holzer-fruit-tree-planting-method
-for general planting techniques.
+for general [[hamilton-companion-planting-techniques]].
 
 ## How Do I Care for Jujube?
 
@@ -59,9 +59,9 @@ fruit is sizing up. Mulch out to the drip line to conserve moisture.
 
 **Fertilization:** Jujubes are light feeders. A balanced application in early spring
 (10-10-10 or similar) is usually sufficient. Avoid excessive nitrogen, which promotes
-vegetative growth at the expense of fruit production.
+[[cannabis-vegetative-growth-stage]] at the expense of [[berry-fruit-production-cool-humid-climates]].
 
-**Pruning:** Train young trees to a modified central leader or open center. Remove
+**Pruning:** Train young trees to a modified [[comparison-central-leader-vs-open-center-fruit-tree-training]] or open center. Remove
 suckers from the base regularly. Prune mature trees in late winter to remove dead,
 crossing, or crowded branches. See pdc-yield-harvest-and-seasonal-calendar for regional timing.
 
@@ -70,7 +70,7 @@ crossing, or crowded branches. See pdc-yield-harvest-and-seasonal-calendar for r
 Jujubes are **remarkably pest-resistant** compared to most fruit trees. Serious
 insect or disease problems are rare. The main pest of note is the **cotton bollworm**
 (*Helicoverpa armigera*), which may feed on fruit in some southern growing regions.
-Birds may peck at ripe fruit but are rarely a major issue. Fungal diseases are
+Birds may peck at ripe fruit but are rarely a major issue. [[duggar-mushroom-insect-pests-and-fungal-diseases]] are
 uncommon thanks to the tree's late leaf-out and naturally resistant wood. No routine
 spray program is typically required.
 
@@ -79,7 +79,7 @@ spray program is typically required.
 Jujube is one of the most versatile fruit trees in the kitchen:
 
 - **Fresh eating** — Crisp and refreshing straight off the tree.
-- **Drying** — The traditional preparation; dried fruit stores for months to years.
+- **Drying** — The [[kava-traditional-preparation-ceremonial-context]]; dried fruit stores for months to years.
 - **Tea** — Dried jujubes are a staple ingredient in herbal teas.
 - **Candy and snacks** — Candied jujube (bing tang hong zao) is a popular Chinese
   confection.

@@ -7,8 +7,8 @@ created: 2026-05-11
 
 # Double-Layer Protection and Temperature Performance
 
-The core innovation of [[eliot-coleman]]'s winter-harvest system is the use of two layers of protection — an outer greenhouse structure and an inner lightweight row-cover fabric suspended over the crops — to create a dramatically warmer growing environment without any supplemental heat.
-This passive thermal protection system is what makes cold-house winter production possible in Zone 5 Maine,
+The core innovation of [[eliot-coleman]]'s winter-harvest system is the use of two layers of protection — an outer greenhouse structure and an inner lightweight row-cover fabric suspended over the crops — to create a dramatically warmer [[cannabis-growing-environment-setup]] without any supplemental heat.
+This [[coleman-soil-heat-mass-passive-thermal-storage]] protection system is what makes cold-house winter production possible in Zone 5 Maine,
 where outdoor temperatures regularly drop to -10°F (-23°C) or lower.
 Understanding the temperature performance of each layer,
 and how they combine,
@@ -36,11 +36,11 @@ but practical management difficulties increase with each additional layer and di
 The outer layer of protection is a conventional hoop-house or Gothic-arch greenhouse covered with greenhouse-grade polyethylene film.
 This layer provides the primary shelter from wind and precipitation,
 and it captures solar radiation during the day.
-The key temperature effects include daytime solar gain,
+The key [[temperature-effects-of-trees]] include daytime solar gain,
 nighttime insulation,  and wind protection.
 
 On sunny winter days,  even when outside temperatures are below freezing,
-the greenhouse interior can warm to 60°F to 80°F (16°C to 27°C) or higher due to the greenhouse effect.
+the [[coleman-greenhouse-interior-design-and-management]] can warm to 60°F to 80°F (16°C to 27°C) or higher due to the greenhouse effect.
 This daytime warmth is critical because it heats the soil mass,
 which then releases stored heat slowly through the night.
 The amount of solar gain depends on the angle of the sun,  cloud cover,
@@ -55,7 +55,7 @@ improving nighttime temperature retention by perhaps 2°F to 3°F (1°C to 2°C)
 This modest improvement accumulates over the course of a winter and is particularly valuable during clear,
 calm nights when radiative cooling is most intense.
 
-Some growers use double-inflated poly (two layers of film with air inflated between them) for the outer greenhouse covering.
+Some growers use double-inflated poly (two layers of film with air inflated between them) for the outer [[coleman-greenhouse-covering-materials-comparison]].
 This provides additional insulation — roughly equivalent to another half zone of protection — but reduces light transmission by approximately 10-15%.
 Coleman has generally preferred single-layer poly for maximum light transmission,
 relying on the inner row cover for the second layer of protection and keeping the overall system as simple and light-efficient as possible.
@@ -72,7 +72,7 @@ reducing conductive and convective heat loss from the plant microclimate.
 The row cover also traps radiant heat from the soil,
 provides a physical barrier that prevents frost formation directly on leaf surfaces,
 and reduces moisture loss from the crop canopy.
-This moisture management effect is a mixed blessing — higher humidity reduces transpiration stress but can promote fungal diseases if ventilation is inadequate within the greenhouse structure.
+This [[mushroom-bed-moisture-management]] effect is a mixed blessing — higher humidity reduces transpiration stress but can promote fungal diseases if ventilation is inadequate within the greenhouse structure.
 
 The row cover is not permanently installed.
 It is placed over the crops in late fall as temperatures drop and is managed throughout the winter.

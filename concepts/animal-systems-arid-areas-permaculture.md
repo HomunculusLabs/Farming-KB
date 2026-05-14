@@ -1,5 +1,5 @@
 ---
-title: Animal Systems [[soil-amelioration-and-fertilisers-in-arid-areas]]
+title: "Animal Systems Arid Areas Permaculture"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

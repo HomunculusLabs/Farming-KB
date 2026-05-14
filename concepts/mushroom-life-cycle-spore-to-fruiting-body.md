@@ -88,6 +88,6 @@ saprobes, mycorrhizal partners, and parasites at different life stages.
 ## See Also
 
 - [[mycelium-natures-internet-mycelial-mind]]
-- mycoremediation fungal biodegradation toxic waste
+- [[mycoremediation-fungal-biodegradation-toxic-waste]]
 - mushroom substrate preparation heat treatment
 - entomopathogenic fungi biocontrol mycopesticides

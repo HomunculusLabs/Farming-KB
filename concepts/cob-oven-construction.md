@@ -1,5 +1,5 @@
 ---
-title: [[comparison-cob-oven-construction-vs-rocket-stove]]
+title: "Cob Oven Construction"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

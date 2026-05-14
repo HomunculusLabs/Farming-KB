@@ -1,5 +1,5 @@
 ---
-title: [[informal-and-formal-community-economics]] Community Economies
+title: "Informal Formal Community Economies"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -107,4 +107,4 @@ Together, they create a **financial ecosystem** that is far more resilient than 
 ## See Also
 
 - [Money, Finance, [[community-money-and-asset-categories]] in Permaculture]([[money-finance-asset-categories-permaculture]].md) — on the theoretical framework for [[community-finance-and-alternative-economies]]
-- [Right Livelihood, Commonwork, [[right-livelihood-commonwork-and-balanced-living]]](right-livelihood-commonwork-and-balanced-living.md) — on the work structures these economies support
+- [Right Livelihood, Commonwork, [[right-livelihood-commonwork-and-balanced-living]](right-livelihood-commonwork-and-balanced-living.md) — on the work structures these economies support

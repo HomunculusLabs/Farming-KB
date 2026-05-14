@@ -117,7 +117,7 @@ domains, ensuring appropriate placement and support:
 - **Training information**: how the trainee learned about the program, personal
   motivation, availability and time commitment, family and community attitudes
 - **House and land status**: family duties and responsibilities, outstanding debts,
-  land ownership details, available space for establishing a mushroom farm
+  land ownership details, available space for establishing a [[growing-gourmet-mushroom-farm-design-environments]]
 - **Interviewer comments**: qualitative observations and placement recommendations
 
 ---

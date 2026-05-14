@@ -43,7 +43,7 @@ symbiosis.
 Students bring recyclable items from home and interview school personnel about waste
 disposal, brainstorming ways to redirect biodegradable waste to on-site mushroom
 composting operations. Soaking materials, adding mushroom cultures, and creating
-compost introduces concepts of [[decomposition]] and [[sustainability]].
+compost introduces concepts of [[decomposition]] and [[wild-mushroom-harvest-sustainability]].
 
 ### Plate Contamination Observations
 
@@ -58,7 +58,7 @@ mold and bacterial growth, counting and describing different colony types.
 
 Most plants exhibit [[gravitropism]]: roots grow toward gravity (positive
 gravitropism) while stems grow against it (negative gravitropism). To test how
-gravity affects mushroom growth, students cultivate [[reishi-mushrooms]]
+gravity affects mushroom growth, students cultivate [[query-how-to-grow-reishi-mushrooms]]
 (Ganoderma lucidum), which form antlers — long, thin, sturdy pins that are slow-
 growing and easy to observe. Half the cups serve as controls in a plastic bin; the
 other half are attached to a turntable platter. The spinning creates centrifugal
@@ -101,7 +101,7 @@ under a microscope to confirm fungal bonding inside roots.
 
 ### Isolating and Cloning Fungi
 
-Students make oyster mushroom [[spore-prints]] on aluminum foil, transfer spores to
+Students make oyster mushroom [[macrofungal-documentation-photography-spore-prints]] on aluminum foil, transfer spores to
 agar plates (with penicillin to minimize bacterial contamination), and culture
 mycelium. Alternatively, oyster mushrooms clone easily from cap tissue — students
 take small fragments of the interior (away from gills and outside surfaces) and
@@ -148,80 +148,3 @@ insects by colonizing their bodies, sometimes even reaching the brainstem to con
 behavior. Students collect sluggish or "mummified" insects from gardens and farms,
 isolate and identify the fungal parasites, and test pathogenicity in controlled
 behavioral or mortality galleries.
-
-### Mycorrhizal Fungi Research
-
-The scientific community needs in-depth studies of plant-[[mycorrhizal-fungi]]
-relationships, particularly for prairie grasses, orchids, and endangered plants
-whose populations are declining due to habitat destruction. Students isolate strains,
-characterize them through [[DNA-analysis]], culture them, and potentially develop
-commercial products. Every wild ecotype can differ significantly in metabolic
-function, making this a promising and understudied research field.
-
-### Bacterial-Fungal Interactions
-
-Students create behavioral plates (petri dishes subplated with two or more species)
-to study interactions between bacteria and fungi — for example, between penicillin
-and gram-positive bacteria like Streptococcus or Staphylococcus. They isolate
-metabolites produced by fungi in response to bacterial contact and analyze their
-specific functions and mechanisms.
-
-### Screening Fungi for Mycoremediation
-
-Students prepare "traps" — enriched substrate samples containing baseline levels of
-toxic soil contaminants — expose them to air at contaminated sites, and monitor
-which naturally occurring fungi develop into viable mycelium. Colonizing mycelium is
-subcultured and contaminant levels gradually increased to "train" the fungi. Native
-strains collected at contaminated sites are cloned and compared against lab-trained
-samples for remediation effectiveness.
-
-### Engineering Mycoremediation Prototypes
-
-Interdepartmental collaborations between engineering and microbiology students design
-and test methods for mycoremediating contaminated soil and water, progressing from
-data collection to prototype testing to eventual construction of filtration systems.
-
-### Novel Fungal Metabolite Extraction
-
-Students dose fungal cultures with chemicals or biological organisms, harvest and
-analyze resulting metabolites, and compare them against control cultures to identify
-which metabolites respond to which triggers. Different dilutions help determine
-effective concentrations.
-
-### Biofuel Production Research
-
-Students study fungal metabolic pathways and substrate preferences based on
-by-products, especially gases. Matching fungal strains to carbon sources and
-isolating collaborative bacteria enables production of alcohols and [[biofuels]].
-Sequences can produce ethanol, butanol, and methanol through combinations of fungi
-and bacteria in cascade systems.
-
-## Pedagogical Principles
-
-### Cross-Curriculum Integration
-
-Mushroom education naturally bridges biology, chemistry, physics, and environmental
-science. The enclosed ecosystem project touches on atmospheric science, plant
-physiology, and engineering. Mycoremediation connects microbiology with environmental
-policy and chemistry.
-
-### Progressive Skill Building
-
-The curriculum is designed so that skills introduced at one level are expanded at
-the next. Simple observation at K–4 becomes measurement and hypothesis testing at
-5–8, controlled experimentation at 9–12, and original research at the college level.
-
-### Safety Considerations
-
-All chemical work (herbicides, fungicides, oil spill simulations) requires gloves and
-safety glasses. Working with live cultures requires sterile technique education.
-Pressure cooking and sterilization equipment require supervision at younger levels.
-
-## See Also
-
-- [[mycoremediation]] — using fungi to clean environmental contaminants
-- [[mycorrhizal-fungi]] — symbiotic relationships between fungi and plant roots
-- [[agar-plate-preparation]] — laboratory techniques for fungal culture
-- [[spore-prints]] — collecting and preserving mushroom spores
-- [[entomopathogenic-fungi]] — fungi that parasitize insects
-- [[gravitropism]] — plant and fungal growth responses to gravity

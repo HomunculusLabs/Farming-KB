@@ -1,12 +1,12 @@
 ---
-title: Zone Two and Zone Three Design in Permaculture
+title: Zone Two And Zone Three Design Permaculture
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
 # Zone Two and Zone Three Design in Permaculture
 
-Zones two and three in permaculture design represent the middle distances — areas visited regularly but less intensively than zone one, yet too important to relegate to the extensive management of zone four or five. Zone two typically contains orchards, poultry, and small livestock that need regular but not daily attention. Zone three encompasses larger-scale food production, pastures, and managed woodlots. Together, zones two and three form the productive backbone of a self-reliant homestead.
+Zones two and three [[ecological-succession-in-permaculture-design]] represent the middle distances — areas visited regularly but less intensively than zone one, yet too important to relegate to the extensive management of zone four or five. Zone two typically contains orchards, poultry, and small livestock that need regular but not daily attention. Zone three encompasses larger-scale food production, pastures, and managed woodlots. Together, zones two and three form the productive backbone of a self-reliant homestead.
 
 ## Zone Two: The Orchard and Poultry Zone
 
@@ -40,7 +40,7 @@ Zone three is visited weekly or seasonally. It contains larger-scale plantings t
 
 ### Main Crop Systems
 - **Cereal grains**: Wheat, oats, rye, and corn in larger plantings
-- **Pasture and grazing**: Rotational grazing systems for cattle, sheep, or other livestock
+- **Pasture and grazing**: [[comparison-rotational-grazing-vs-continuous-grazing]] systems for cattle, sheep, or other livestock
 - **Fodder crops**: Hay and silage production for winter feed
 - **Vine crops and brambles**: Less-intensive perennial food plants
 
@@ -51,7 +51,7 @@ Zone three forests are managed for biomass production, timber, and fuel. Key man
 - **Biomass maximization**: Managed forests produce "a lot more biomass" than unmanaged stands held at "crowded standstill." The designer can allow the forest to remain as is, "or you can manage it to produce much more biomass."
 
 ### The Traditional Rotation System
-The British devised a system of high farming with a seven-year rotation: pasture grazed for several years, then plowed into a high-nutrient-demand crop, followed by a green manure crop, then a grain crop, then a root crop, possibly a fallow year, then returned to grazing. This was sustainable agriculture that produced variable crops. "It required a band leader and an orchestra" — a farm history and continuity of knowledge that modern land tenure patterns often disrupt. "It all presumed continuity on the land, which is what everybody used to assume happened."
+The British devised a system of high farming with a seven-year rotation: pasture grazed for several years, then plowed into a high-nutrient-demand crop, followed by a green manure crop, then a grain crop, then a root crop, possibly a fallow year, then returned to grazing. This was [[phosphate-accumulators-sustainable-agriculture]] that produced variable crops. "It required a band leader and an orchestra" — a farm history and continuity of knowledge that modern land tenure patterns often disrupt. "It all presumed continuity on the land, which is what everybody used to assume happened."
 
 ## Client-Specific Zone Adjustments
 
@@ -75,8 +75,8 @@ After pointing out resources and adjusting the client's expectations, the design
 
 - [[permaculture-zone-planning-guide]]
 - [[permaculture-zones-in-practice]]
-- [[zone-and-sector-analysis]]](permaculture-[[zone-and-sector-analysis]].md)
+- [[zone-and-sector-analysis]](permaculture-[[zone-and-sector-analysis]].md)
 - [Forest Gardens and Food Forests](bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests.md)
 - [Guild Design in Permaculture](bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture.md)
-- [Broadacre and Rural Design](bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design.md)
-- [Integrated Poultry Forage Systems Zone Two](integrated-poultry-forage-systems-zone-two.md)
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design|Broadacre and Rural Design]]
+- Integrated Poultry Forage Systems (Zone Two)

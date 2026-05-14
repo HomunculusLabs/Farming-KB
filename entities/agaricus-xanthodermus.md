@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Agaricus xanthodermus**, commonly known as the yellow-stainer, is a basidiomycete
+**[[agaricus]] xanthodermus**, commonly known as the yellow-stainer, is a basidiomycete
 fungus in the family Agaricaceae. It is one of the most commonly encountered toxic
 mushrooms in the genus *Agaricus*, frequently mistaken for the edible field mushroom
 (*A. campestris*) or cultivated [[european-mushroom-poisoning-history]] incidents involving

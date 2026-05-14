@@ -20,7 +20,7 @@ sources:
 
 *Liquidambar formosana*, commonly known as Formosan sweetgum or Chinese sweetgum, is a large deciduous tree in the family Altingiaceae. It is native to southern China, Taiwan, Vietnam, Laos, and northern Myanmar.
 
-The species is closely related to the American sweetgum (*Liquidambar styraciflua*) and shares many ornamental traits including brilliant autumn foliage in shades of crimson, orange, and purple. It reaches 30–40 meters in height with a straight trunk and broadly conical crown.
+The species is closely related to the American sweetgum (*[[liquidambar-styraciflua]]*) and shares many ornamental traits including brilliant autumn foliage in shades of crimson, orange, and purple. It reaches 30–40 meters in height with a straight trunk and broadly conical crown.
 
 Its bark exudes a fragrant, amber-colored resin called liquidambar or storax, used in traditional Chinese medicine and perfumery. The timber is valued for furniture-making and construction across East Asia.
 

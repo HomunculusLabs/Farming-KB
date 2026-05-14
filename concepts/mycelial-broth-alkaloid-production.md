@@ -136,6 +136,5 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[mycelial-metabolite-exudation-stress-indicator-jar-cultivation]]
-- [[mycelial-network-biology]]
 - [[mycelial-network-nutrient-transport-pulsatile-dynamics]]
 - [[mycelial-networks-wood-wide-web]]

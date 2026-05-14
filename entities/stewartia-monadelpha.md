@@ -28,7 +28,7 @@ White, camellia-like flowers appear in July, each 4–5 cm across with five peta
 
 The species is hardy in USDA Zones 5–8 and grows best in moist, acidic, well-drained soils in partial shade. It is relatively uncommon in cultivation but highly prized by discerning gardeners.
 
-The species was introduced to Western horticulture by Philipp Franz von Siebold in the mid-19th century. It remains less commonly planted than *Stewartia pseudocamellia*, partly due to limited nursery availability.
+The species was introduced to Western horticulture by Philipp Franz von Siebold in the mid-19th century. It remains less commonly planted than *[[stewartia-pseudocamellia]]*, partly due to limited nursery availability.
 
 In Japan, the tree is known as "hime-sharinbai" (ヒメシャリンバイ) and is planted in temple gardens and traditional landscapes for its ornamental bark.
 

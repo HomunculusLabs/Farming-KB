@@ -38,8 +38,8 @@ The degradation pathway:
 
 ### Key Research Findings
 
-- **Trametes versicolor** achieved 95% degradation of chlorinated biphenyls (Zeddel et al., 1993)
-- **Phanerochaete chrysosporium** degrades mono- and di-chlorinated biphenyls; mineralization of 14C-PCB confirmed
+- **Trametes versicolor** achieved 95% [[singh-fungal-degradation-of-chlorinated-compounds]] biphenyls (Zeddel et al., 1993)
+- **[[phanerochaete-chrysosporium]]** degrades mono- and di-chlorinated biphenyls; mineralization of 14C-PCB confirmed
 - **Bjerkandera adusta** degrades highly chlorinated PCBs (5-7 chlorines) via MnP system
 - **Pleurotus ostreatus** shows PCB degradation with simultaneous fruiting body production
 
@@ -132,11 +132,11 @@ Chlorophenols are intermediates in PCB/dioxin degradation and also industrial po
 - Bioavailability is often the limiting factor — contaminants must be accessible to enzymes
 - Degradation rates are slow compared to chemical treatments
 - Scale-up from lab to field is challenging
-- Regulatory frameworks for fungal remediation of PCBs/dioxins are still developing
+- [[regulatory-frameworks-for-medicinal-mushroom-products-worldwide]] fungal remediation of PCBs/dioxins are still developing
 
 ## Future Directions
 
-- **Genetically engineered fungi**: Enhanced expression of ligninolytic enzymes for improved degradation
+- **[[singh-genetically-engineered-fungi-bioremediation]]**: Enhanced expression of ligninolytic enzymes for improved degradation
 - **Enzyme immobilization**: Purified LiP/MnP/laccase immobilized on supports for bioreactor applications
 - **Mediator optimization**: Improved mediator systems for laccase to extend substrate range
 - **Combined treatment**: Fungal degradation followed by chemical or thermal polishing
@@ -145,6 +145,6 @@ Chlorophenols are intermediates in PCB/dioxin degradation and also industrial po
 ## See Also
 
 - [[mycoremediation-basics]] — General mycoremediation framework and enzyme systems
-- [[mycoremediation-pahs]] — Related PAH degradation pathways
-- [[mycoremediation-heavy-metals]] — Heavy metal biosorption
+- [[mycoremediation-pahs]] — Related [[fungal-pah-degradation-pathways]]
+- [[mycoremediation-heavy-metals]] — [[fungal-heavy-metal-biosorption-and-detoxification]]
 - [[mycoremediation-of-oil-spills]] — Petroleum contamination cleanup

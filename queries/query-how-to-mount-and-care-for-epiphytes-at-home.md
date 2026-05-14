@@ -29,7 +29,7 @@ Not all epiphytes are equally suited to mounting. Here's what works best:
 - *Vanda*, *Ascocenda*, and vandaceous orchids — prefer bare-root or mounted culture
 - Orchids with thick roots: *Cattleya*, *Dendrobium*, *Oncidium*, *Bulbophyllum*
 - Small orchids: *Masdevallia*, *Dracula*, *Pleurothallis*
-- Bird's nest fern (*Asplenium nidus*) — smaller specimens
+- Bird's nest fern (*[[asplenium-nidus]]*) — smaller specimens
 - *Rhipsalis* and other epiphytic cacti
 - Dischidia and Hoya species with climbing/vining habits
 
@@ -87,11 +87,11 @@ Place the plant on the mount with the roots spread across the surface. The growi
 
 ### Step 4: Secure the Plant
 
-**Fishing line method** (preferred — invisible, strong, easy to remove later): Wrap fishing line tightly around the plant and mount in a figure-8 pattern, crossing over the root mass. Make at least 3-4 wraps. Tie off securely. The line will eventually be hidden by root growth.
+**Fishing line method** (preferred — invisible, strong, easy to remove later): Wrap fishing line tightly around the plant and mount in a figure-8 pattern, crossing over the root mass. Make at least 3-4 wraps. Tie off securely. The line will eventually be hidden by [[soil-moisture-management-and-root-growth]].
 
 **Wire method**: Use thin aluminum or copper wire. Wrap around roots and mount, twisting ends to secure. Less aesthetic but very secure for heavy plants.
 
-**Adhesive method**: Apply a small dab of E6000 or hot glue to the base of the plant (avoid getting adhesive on roots). Press against the mount and hold for 30-60 seconds. Glue is supplementary — use fishing line or wire for actual structural support. Hot glue is temporary and will release after 6-12 months, by which time the plant should have attached naturally.
+**Adhesive method**: Apply a small dab of E6000 or hot glue to the base of the plant (avoid getting adhesive on roots). Press against the mount and hold for 30-60 seconds. Glue is supplementary — use fishing line or wire for actual [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]. Hot glue is temporary and will release after 6-12 months, by which time the plant should have attached naturally.
 
 ### Step 5: Attach a Hanger
 

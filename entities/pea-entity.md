@@ -25,7 +25,7 @@ PEA is the simplest structure that can be called a phenethylamine: a benzene rin
 
 Every compound in PiHKAL is a substituted derivative of this fundamental structure.
 
-The hydrochloride salt melts at 217-218 degrees Celsius with decomposition.
+The hydrochloride salt melts at 217-218 degrees Celsius with [[decomposition]].
 
 The free base is a colorless liquid with a boiling point of 197-198 degrees Celsius.
 

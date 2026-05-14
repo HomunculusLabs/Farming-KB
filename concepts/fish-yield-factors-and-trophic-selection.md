@@ -54,7 +54,7 @@ The greatest yield potential lies in combining species with genuinely different 
 
 Effective fish yield factors and trophic selection requires attention to site-specific
 factors including climate, water availability, and local
-regulations. Integration with existing water management
+regulations. Integration with existing [[water-management]]
 systems maximizes resource efficiency and output.
 
 ## Ecological Context
@@ -70,6 +70,12 @@ Several approaches can be employed to address challenges
 related to fish yield factors and trophic selection. These include preventive measures,
 active management techniques, and adaptive strategies
 that respond to changing conditions over time.
+
+## Background and Context
+
+- Historical development and key contributors
+- Relationship to broader ecological frameworks
+- Evolution of understanding through research
 
 ## See Also
 

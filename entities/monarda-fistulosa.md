@@ -9,7 +9,7 @@ tags:
   - medicinal-plant
   - pollinator-plant
   - native-plant
-  - permaculture
+  - [[permaculture]]
   - edible
 sources:
   - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press
@@ -55,7 +55,7 @@ plant can form a colony 60–90 cm in diameter within several years.
 
 ## Distribution and Habitat
 
-M. fistulosa is native to virtually all of North America, from Quebec to Georgia
+M. fistulosa is native to virtually all [[huckleberries-and-wild-berries-of-north-america]], from Quebec to Georgia
 and west to British Columbia and Arizona. It occupies prairies, savannas, open
 woodlands, meadows, and disturbed sites, preferring full sun and well-drained soils.
 
@@ -66,12 +66,12 @@ Several varieties are recognized: var. menthifolia (western), var. fistulosa
 
 The [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:
 
-- **Thymol:** Primary antimicrobial constituent (20–60% of essential oil depending
+- **Thymol:** Primary antimicrobial constituent (20–60% of [[permaculture-designers-manual-essential-oil-plants]] depending
   on chemotype).
-- **Carvacrol:** Closely related phenolic monoterpene with antimicrobial activity.
+- **[[carvacrol]]:** Closely related phenolic monoterpene with antimicrobial activity.
 - **p-Cymene:** Aromatic monoterpene hydrocarbon.
-- **Linalool:** Monoterpene alcohol with anxiolytic and sedative properties.
-- **Geraniol:** Floral-scented monoterpene alcohol.
+- **[[linalool]]:** Monoterpene alcohol with anxiolytic and sedative properties.
+- **[[geraniol]]:** Floral-scented monoterpene alcohol.
 - **Rosmarinic acid:** Phenolic acid with anti-inflammatory and antioxidant
   properties.
 

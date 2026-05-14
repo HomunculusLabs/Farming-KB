@@ -19,7 +19,7 @@ culture.
 
 ## DMT and Schedule I
 
-DMT is currently a Schedule I compound in the [[shamanism]]. Alchemy, which Jung studied very
+DMT is currently a Schedule I compound in the shamanism. Alchemy, which Jung studied very
 carefully, was the inheritor of a long tradition of shamanistic and magical techniques, as well as more practical chemical procedures such as
 metalworking and embalming. The literature of alchemy
 shows that the swirling contents of the alchemical vessel were fertile ground for the projection of the contents of the naive prescientific mind.

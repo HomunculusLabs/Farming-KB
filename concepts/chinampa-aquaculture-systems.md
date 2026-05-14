@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Chinampas are among the most productive and ancient agricultural-aquacultural systems ever devised. Originating in the Valley of Mexico over 2,000 years ago, these "floating gardens" represent a sophisticated integration of land and water cultivation that sustained dense populations for centuries without soil depletion. The chinampa is probably the most efficient culture configuration for natural feeding of aquatic organisms, combining the best of both soil-based and water-based agriculture in a single integrated system.
+Chinampas are among the most productive and ancient agricultural-aquacultural systems ever devised. Originating in the Valley of Mexico over 2,000 years ago, these "floating gardens" represent a sophisticated integration of land and water cultivation that sustained dense populations for centuries without soil depletion. The [[chinampa]] is probably the most efficient culture configuration for natural feeding of aquatic organisms, combining the best of both soil-based and water-based agriculture in a single integrated system.
 
 ## Historical Context
 

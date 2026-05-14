@@ -66,7 +66,7 @@ of parasitism varies widely among species:
 
 - **Apothecium-inhabiting species**: Many lichenicolous fungi specialize
   on the reproductive structures of host lichens, colonizing apothecia
-  or perithecia and often reducing or eliminating the host's spore
+  or perithecia and often reducing or eliminating the host's [[spore]]
   production. This can significantly impact host [[edaphic-determinants-cannabis-microbiome-community-structure]] over time.
 
 - **Killer species**: The most destructive lichenicolous fungi can kill

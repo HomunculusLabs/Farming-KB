@@ -42,7 +42,7 @@ every second day. The move distance depends on the stocking density
 and the desired ground impact:
 
   - Daily moves of 1-2 meters: Birds lightly scratch and fertilize
-    the surface, suitable for pasture renovation before planting
+    the surface, suitable for [[sod-seeding-pasture-renovation]] before planting
   - Moves every 2-3 days: Moderate soil disturbance and manure
     deposition, good for general garden integration
   - Weekly moves: Heavier manure concentration, useful for building
@@ -74,7 +74,7 @@ include:
 ## Overview
 
 Mollison Designers Chicken Tractors Egg Production represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mollison Designers Chicken Tractors Egg Production finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -103,7 +103,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mollison designers chicken tractors egg production and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -50,7 +50,7 @@ The natural rubber produced by T. kok-saghyz is chemically identical to Hevea ru
 
 Rubber content is highest in roots harvested at the end of the first growing season (September–October), when translocation of photosynthate to root storage tissues peaks. Post-harvest, rubber is extracted through mechanical maceration, solvent extraction, or aqueous coagulation of the latex.
 
-Continental Tire's Taraxagum project, initiated in 2011, successfully produced the first bicycle tires using TKS-derived rubber in 2014 and passenger car tires in 2016. The company has established field trials across Germany, the Netherlands, and the US Pacific Northwest.
+Continental Tire's Taraxagum project, initiated in 2011, successfully produced the first bicycle tires using TKS-derived rubber in 2014 and passenger car tires in 2016. The company has established field trials across Germany, the Netherlands, and the US [[psilocybin-north-america-pacific-northwest]].
 
 ## Cultivation
 
@@ -66,7 +66,7 @@ The T. kok-saghyz genome was sequenced in 2017, revealing a genome size of appro
 
 T. kok-saghyz is one of approximately 2,500 plant species known to produce natural rubber, though only a handful produce commercially viable quantities. The primary alternatives are Hevea brasiliensis (para rubber tree, 95% of global supply) and Parthenium argentatum (guayule, a desert shrub native to the southwestern US and Mexico).
 
-Compared to Hevea, TKS offers several advantages: it grows in temperate climates, matures in one year, is not susceptible to South American leaf blight, and produces a hypoallergenic rubber suitable for medical applications. Disadvantages include lower per-hectare rubber yield and higher processing costs.
+Compared to Hevea, TKS offers several advantages: it grows [[query-how-to-grow-and-use-oca-in-temperate-climates]], matures in one year, is not susceptible to South American leaf blight, and produces a hypoallergenic rubber suitable for [[oner-sativa-medical-applications]]. Disadvantages include lower per-hectare rubber yield and higher processing costs.
 
 Guayule produces rubber in its bark and branches rather than roots, with similar quality characteristics. Guayule requires arid conditions and is better suited to semi-desert regions, while TKS is adapted to temperate agricultural zones. The two species are complementary rather than competitive, potentially diversifying global rubber supply chains.
 
@@ -75,7 +75,7 @@ Guayule produces rubber in its bark and branches rather than roots, with similar
 ## Overview
 
 Taraxacum Kok Saghyz represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -104,7 +104,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 taraxacum kok saghyz and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

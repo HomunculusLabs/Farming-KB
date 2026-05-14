@@ -18,9 +18,10 @@ American anthropologist (1929-2018), founder of the Foundation for Shamanic Stud
 
 ## See Also
 
-- [[harner-ayahuasca-shamanism-amazon]]
-- [[harner-shamanic-journey-and-altered-states]]
-- ethnomycology
+- [[hallucinogens-and-shamanism]]
+- [[hallucinogens-and-shamanism-introduction]]
+- [[hallucinogens-dissociative-agents-growing-united-states]]
+
 ## Practical Applications
 
 Hallucinogens and Shamanism — Harner Anthology has a range of practical applications that make it relevant to
@@ -85,6 +86,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[shamanism]]
+- shamanism
 - [[doc]]
 - [[det]]

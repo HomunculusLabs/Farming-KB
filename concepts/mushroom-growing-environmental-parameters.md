@@ -20,9 +20,9 @@ nutrients and building the network that will support fruiting.
 ### Temperature
 
 Most [[staycare-lentinula-edodes-in-bioremediation]]): 22-25C
-- Lion's mane (Hericium erinaceus): 22-25C
+- Lion's mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]]): 22-25C
 - Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]): 25-30C
-- King oyster (Pleurotus eryngii): 22-25C
+- King oyster ([[pleurotus-eryngii]]): 22-25C
 
 Temperatures below optimal slow growth significantly; temperatures above
 optimal favor thermophilic contaminants and can kill sensitive mycelium.
@@ -39,7 +39,7 @@ filter patches maintain adequate moisture without intervention.
 Colonizing mycelium produces CO2 as a metabolic byproduct. Filter patch
 bags or breathable jar lids allow gas exchange while maintaining sterility.
 High CO2 levels during colonization actually stimulate mycelial growth
-but must be vented before fruiting initiation.
+but must be vented before [[fruiting-initiation]].
 
 ### Light
 
@@ -50,9 +50,9 @@ very dim indirect light.
 
 ## Fruiting Phase Parameters
 
-Fruiting requires a significant environmental shift from colonization
+Fruiting requires a significant [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]] from colonization
 conditions. The mycelium must perceive that conditions have changed from
-favorable vegetative growth to conditions that threaten survival, which
+favorable [[cannabis-vegetative-growth-stage]] to conditions that threaten survival, which
 triggers the organism to reproduce.
 
 ### Temperature Drop (Cold Shock)
@@ -72,7 +72,7 @@ reproduction. Some species (pink oyster) require warm fruiting (22-28C).
 
 FAE is arguably the most critical fruiting parameter:
 
-- CO2 levels must drop below ~800 ppm for normal mushroom development
+- CO2 levels must drop below ~800 ppm for normal [[acropetal-cell-expansion-stipe-elongation-mushroom-development]]
 - High CO2 causes elongated stems, small caps, and poor yield
 - Natural outdoor CO2 is approximately 400 ppm; indoor spaces without
   ventilation can exceed 2000 ppm rapidly

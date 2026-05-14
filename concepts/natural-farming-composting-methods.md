@@ -1,5 +1,5 @@
 ---
-title: Natural natural farming composting methods Methods
+title: Natural Farming Composting Methods
 created: 2026-04-24
 tags: [agriculture, natural-farming, KNF, composting, FMC, IMO-compost]
 type: concept
@@ -58,8 +58,8 @@ The major ingredients should be animal materials with abundant proteins (bone me
 6. Adjust moisture to 60% with diluted (1:500) FPJ, FAA, OHN, and other inputs
    - Test: slightly wet to hand, barely maintains shape when squeezed
 7. Add powdered oyster/crab/shrimp/eggshells for calcium
-8. Cover with rice straw mat to control moisture, temperature, and propagation
-9. **Temperature management is critical**:
+8. Cover with [[fukuoka-rice-straw-mulch-central-technique]] mat to control moisture, temperature, and propagation
+9. **[[cervantes-reservoir-temperature-management]] is critical**:
    - Day 2: First turning (temperature reaches ~50C)
    - Days 5-6: Second turning
    - Days 8-10: Third turning
@@ -72,7 +72,7 @@ The major ingredients should be animal materials with abundant proteins (bone me
 
 ### Method 2: Quick IMO-Enriched Compost
 
-1. Mix IMO-4 with compost materials (oil cake, fowl droppings, pig manure, cow manure, fish meal, commercial [[complete-organic-fertilizer-cof-recipe-solomon]]) at 1:10 ratio
+1. Mix IMO-4 with [[duggar-stable-manure-selection-compost-materials]] (oil cake, fowl droppings, pig manure, cow manure, fish meal, commercial [[complete-organic-fertilizer-cof-recipe-solomon]]) at 1:10 ratio
 2. Ferment for 7-14 days
 3. Add cow bone powder, shrimp shell, or crab shell
 4. Ferment for more than a week
@@ -82,7 +82,7 @@ The major ingredients should be animal materials with abundant proteins (bone me
 
 FMC contains many hormones due to its diverse ingredients (FPJ, FAA, etc.), and additional hormones form during fermentation:
 
-- **Auxin**: Produced by yeast and filamentous fungi
+- **Auxin**: Produced by yeast and [[conidia-and-asexual-reproduction-in-filamentous-fungi]]
 - **Gibberellins**: From red fungi
 - **Cytokinins**: From germs and yeast -- promote leaf/branch growth, cell division, embryo/seed formation, flower bud formation, germination, and prevent aging
 

@@ -39,7 +39,7 @@ The Davis project demonstrates a progressive improvement in water absorption as 
 | Intermediate | 85% | Trees and soil biology establishing |
 | Mature | 100% | Full tree canopy and root networks |
 
-This progression illustrates a key permaculture principle: **systems improve with time as biological components mature**. The trees planted alongside swales develop root networks that break up compacted soil, increase organic matter, and create macropores for water movement. The canopy reduces evaporative losses from the soil surface.
+This progression illustrates a key [[permaculture-principle-1-observe-interact]]: **systems improve with time as biological components mature**. The trees planted alongside swales develop root networks that break up compacted soil, increase organic matter, and create macropores for water movement. The canopy reduces evaporative losses from the soil surface.
 
 ## Forest Swale Benefits
 
@@ -48,12 +48,12 @@ Swales integrated into forest systems provide multiple advantages:
 - **Drought resilience**: Forests with swales remain alive and productive even when neighboring groundwater has flowed away during dry periods
 - **Mulch production**: Swales serve as collection points for leaf litter and organic material, creating natural composting zones
 - **Fire risk reduction**: The hydrated soil profile and lush vegetation along swales act as firebreaks, reducing forest fire vulnerability
-- **Microclimate creation**: Moisture-retaining swales create cooler, more humid microclimates that benefit understory plants
+- **[[holzer-climate-zone-microclimate-creation]]**: Moisture-retaining swales create cooler, more humid microclimates that benefit understory plants
 
 ### Specialized Cultivation
 
 Mollison specifically highlights swales as ideal sites for:
-- **Ginseng cultivation**: The moist, shaded, well-drained conditions along swale berms suit ginseng's requirements
+- **[[ginseng-cultivation-and-medicinal-properties]]**: The moist, shaded, well-drained conditions along swale berms suit ginseng's requirements
 - **Blueberry production**: Blueberries thrive in the acidic, moisture-retentive soils that develop in swale systems
 
 ## Pond Sealing Techniques
@@ -77,13 +77,13 @@ Small controlled charges ("water dynamite") can seal cracks in rocky or fracture
 Not every hole holds water. Mollison pragmatically suggests repurposing failed pond excavations as:
 - Root cellars and barns
 - Storage spaces
-- Sheltered growing environments
+- Sheltered [[mushroom-growing-environments]]
 
 ## Biological Dam Structures
 
 Beyond simple earthworks, Mollison describes complex biological dam structures that serve multiple functions:
 
-- **Islands**: Created within ponds for wildlife habitat, wind protection, and additional growing area
+- **Islands**: Created within ponds for [[hemenway-backyard-wildlife-habitat]], wind protection, and additional growing area
 - **Barrier islands**: Positioned to deflect and moderate wind across water surfaces
 - **Constant-level marshes**: Designed to maintain stable water levels, supporting consistent wetland ecosystems
 - **Mud-dammed shallows**: Shallow zones created with mud dams for specific plant and animal communities
@@ -137,7 +137,7 @@ This arrangement creates a **progressive filtration system**: wind is slowed and
 
 ## Gravity Flow Water Systems
 
-Whenever possible, Mollison designs for **gravity-fed water movement**. This eliminates the need for pumps, reduces energy consumption, and increases system reliability. Swales, tanks, ponds, and distribution channels are all positioned to exploit elevation differences naturally.
+Whenever possible, Mollison designs for **gravity-fed water movement**. This eliminates the need for pumps, reduces energy consumption, and increases system reliability. Swales, tanks, ponds, and [[magic-mushroom-retail-markets-and-commercial-distribution-channels]] are all positioned to exploit elevation differences naturally.
 
 ## The Maturity/Immaturity Reversal Principle
 
@@ -148,6 +148,3 @@ A deep design principle running through this material: **nature's tendency for m
 1. **Water is the primary design medium** — shape the land to capture, hold, and distribute it
 2. **Systems improve over time** — biological maturation increases function
 3. **Every element serves multiple functions** — swales store water, grow mulch, reduce fire risk, support crops
-4. **Integrate infrastructure with natural systems** — roads, fences, and buildings follow water and contour
-5. **Use gravity whenever possible** — eliminate unnecessary energy inputs
-6. **Design for failure gracefully** — even dry holes become useful structures

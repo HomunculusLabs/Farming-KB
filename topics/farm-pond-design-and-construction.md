@@ -1,5 +1,5 @@
 ---
-title: "Farm Pond Design and Construction"
+title: Farm Pond Design And Construction
 subtitle: "A comprehensive guide to designing, building, and managing farm ponds, dams, and water storage for irrigation, aquaculture, and ecological resilience"
 tags: [permaculture, water-management, earthworks, aquaculture, farm-infrastructure, pond-design, dam-construction, homesteading]
 date: 2026-05-10
@@ -35,9 +35,9 @@ related_concepts:
 
 # Farm Pond Design and Construction
 
-Water is the single most important element in any productive landscape. Bill Mollison called stored water the "final arbiter of successful settlement," while Sepp Holzer built over seventy ponds at his Krameterhof farm in the Austrian Alps, demonstrating that water retention transforms even marginal land into productive ecosystems. Farm ponds and small dams serve far more functions than simple water storage: they irrigate crops, raise fish, moderate microclimates, protect against fire, create wildlife habitat, and serve as the centrepiece of integrated farm design.
+Water is the single most important element in any productive landscape. Bill Mollison called stored water the "final arbiter of successful settlement," while Sepp Holzer built over seventy ponds at his Krameterhof farm in the Austrian Alps, demonstrating that water retention transforms even marginal land into productive ecosystems. Farm ponds and small dams serve far more functions than simple water storage: they irrigate crops, raise fish, moderate microclimates, protect against fire, create [[hemenway-backyard-wildlife-habitat]], and serve as the centrepiece of integrated farm design.
 
-This guide synthesises the practical wisdom of Mollison's Permaculture Designers Manual, Holzer's Desert or Paradise and Practical Guide, Nicole Faires' homesteading guide, and Geoff Hamilton's organic gardening approach into a comprehensive reference for designing, building, and managing farm ponds at every scale, from backyard water gardens to multi-hectare farm dams.
+This guide synthesises the practical wisdom of Mollison's [[bill-mollison-permaculture-designers-manual]], Holzer's Desert or Paradise and Practical Guide, Nicole Faires' homesteading guide, and Geoff Hamilton's organic gardening approach into a comprehensive reference for designing, building, and managing farm ponds at every scale, from backyard water gardens to multi-hectare farm dams.
 
 ## Why Build a Farm Pond
 
@@ -69,7 +69,7 @@ Earth dams are the most common and economical type for permaculture-scale water 
 
 Rock-fill dams use a mass of rock with a clay or concrete facing for waterproofing. They suit rocky terrain where suitable earth is scarce. Rock-fill dams can be built on foundations that would not support the weight of a conventional earth dam, though they tend to be more permeable and may require additional sealing measures. Their mass provides excellent structural stability.
 
-Concrete and masonry dams are rarely used in permaculture due to high cost and embodied energy. Small concrete structures serve well as spillways, outlet pipes, diversion weirs, or facing for earth dams in critical locations where erosion resistance is paramount. Gabion dams, made from wire cages filled with rock, are excellent for small check dams in watercourses and gully reclamation projects where the goal is to retard flow and capture sediment rather than store large volumes of water.
+Concrete and masonry dams are rarely used in permaculture due to high cost and embodied energy. Small concrete structures serve well as spillways, outlet pipes, diversion weirs, or facing for earth dams in critical locations where erosion resistance is paramount. Gabion dams, made from wire cages filled with rock, are excellent for small check dams in watercourses and gully [[fukuoka-desert-reclamation-projects]] where the goal is to retard flow and capture sediment rather than store large volumes of water.
 
 Mollison classified larger impoundments into several functional types. Barrage ponds are built across stream courses, filled directly by the stream or valley runoff. Diversion ponds are filled by a channel that leads water from a stream or bare slope, diverting water from its normal course. Ring dams, or turkey nests in Australia, are flatland storages built above grade where water must be pumped in. Storage ponds are steady-level ponds formed as barrages that take water from upstream barrages and lead it into contour channels or irrigation banks. Contour dams are built along a contour with wing banks running upslope to impound water.
 
@@ -79,7 +79,7 @@ The dam wall must be designed to withstand hydraulic pressure of stored water, s
 
 Crest width depends on dam height and intended use. For small permaculture dams, a crest width of two to three metres is adequate for maintenance access. Larger dams may require wider crests for vehicle access. The upstream slope is typically one to two-and-a-half to one to three (horizontal to vertical), and the downstream slope is typically one to two to one to two-and-a-half.
 
-The upstream slope is typically steeper than the downstream slope because it is constantly pressed against by the weight of water, which actually helps stabilise it. The downstream slope must be shallower because it is not supported by water pressure and must resist the destabilising effects of seepage and saturation. Both slopes should be protected with vegetation or rock to prevent erosion from rainfall and wave action. Riprap, which is a layer of graded stone placed on the upstream face, provides excellent protection against wave erosion.
+The upstream slope is typically steeper than the downstream slope because it is constantly pressed against by the weight of water, which actually helps stabilise it. The downstream slope must be shallower because it is not supported by water pressure and must resist the destabilising effects of seepage and saturation. Both slopes should be protected with vegetation or rock to [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]] from rainfall and wave action. Riprap, which is a layer of graded stone placed on the upstream face, provides excellent protection against wave erosion.
 
 Dam construction begins with site survey and design, followed by clearing the dam bed and foundation area. The cutoff trench is excavated along the centreline of the wall, extending into impervious material below the foundation. Topsoil and all organic material are removed from the foundation area because organic material decomposes and creates pathways for water seepage. Any permeable or unstable material encountered during excavation must be removed and replaced with compacted clay.
 
@@ -139,4 +139,4 @@ At the Krameterhof, Holzer has found that even ponds in sandy loams gradually se
 - Mollison, Bill. *Permaculture: A Designers' Manual*. Tagari Publications, 1988.
 - Holzer, Sepp. *Desert or Paradise: Restoring Endangered Landscapes Using Water Management, Including Lake and Pond Construction*. Chelsea Green Publishing, 2012.
 - Holzer, Sepp. *Sepp Holzer's Permaculture: A Practical Guide to Small-Scale, Integrative Farming and Gardening*. Chelsea Green Publishing, 2011.
-- Faires, Nicole. *The Ultimate Guide to natural farming and Sustainable Living*. New Society Publishers, 2012.
+- Faires, Nicole. *The Ultimate Guide to [[korean-natural-farming-and-jadam]] Sustainable Living*. New Society Publishers, 2012.

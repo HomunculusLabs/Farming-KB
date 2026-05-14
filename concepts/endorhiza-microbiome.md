@@ -59,7 +59,7 @@ A striking illustration of cultivar-specificity comes from the genus Methylophil
 
 - **Bookoo Kush**: Methylophilus comprised 13% of the endorhiza community
 - **Burmese**: Methylophilus comprised only 0.13% of the endorhiza community
-- **Sour Diesel**: Methylophilus was completely absent from the endorhiza
+- **[[sour-diesel]]**: Methylophilus was completely absent from the endorhiza
 
 This 100-fold difference between Bookoo Kush and Burmese suggests a highly specific interaction between this methylotrophic bacterium and the root environment of certain cultivars, possibly related to methanol production from pectin demethylation in root cell walls.
 

@@ -115,7 +115,7 @@ A proper foundation is essential for the dome's structural integrity:
 - **Wooden base ring:** A pressure-treated 2x6 or 2x8 ring bolted to the bottom tier of the dome, set on gravel or a concrete pad
 - **Concrete ring footing:** A continuous concrete footing poured around the base perimeter, with anchor bolts for the dome frame
 - **Earth bags:** Fill bags with gravel or earth and stack in a ring — provides both foundation and thermal mass
-- **Insulated slab:** For year-round growing, pour an insulated concrete slab with radiant floor heating
+- **Insulated slab:** For year-round growing, pour an insulated concrete slab with [[radiant-floor-heating]]
 
 ## Ventilation
 

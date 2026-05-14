@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe coprophila Profile"
+title: Psilocybe Coprophila Profile
 created: 2026-04-28
 tags:
   - psilocybin
@@ -36,7 +36,7 @@ fresh dung.
 Coprophilous fungi like P. coprophila typically fruit relatively
 quickly after dung is deposited, often within days to weeks. The
 fruiting is stimulated by warm temperatures and high humidity, and
-successive flushes of mushrooms may appear from the same dung pat
+[[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] of mushrooms may appear from the same dung pat
 as it decomposes over time. The mushrooms themselves are typically
 short-lived, reflecting the ephemeral nature of their substrate.
 
@@ -78,7 +78,7 @@ improve resilience and productivity over time.
 ## Overview
 
 Psilocybe Coprophila Profile represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Psilocybe Coprophila Profile finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,7 +107,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 psilocybe coprophila profile and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

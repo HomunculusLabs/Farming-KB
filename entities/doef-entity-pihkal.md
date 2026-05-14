@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DOEF
 
-PIHKAL entry #65. 2,5-DIMETHOXY-4-(2-FLUOROETHYL)-.
+[[2c-b-pihkal-entry-20]] #65. 2,5-DIMETHOXY-4-(2-FLUOROETHYL)-.
 
 ## Chemical Name
 

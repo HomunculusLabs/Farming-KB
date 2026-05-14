@@ -57,7 +57,7 @@ the Office Assistant (Clippy), which became iconic parts of the software.
 
 Word 2007 introduced the Ribbon interface, a significant UI overhaul that
 replaced traditional menus and toolbars with a tabbed, task-oriented design.
-This release also introduced the Office Open XML format (.docx), an XML-based
+This release also introduced the [[office-open-xml]] format (.docx), an XML-based
 standard that was later adopted by ISO as ISO/IEC 29500. Word 2010, 2013, 2016,
 2019, and Microsoft 365 continued to refine the interface and add cloud
 collaboration features. Real-time co-authoring, integration with OneDrive and

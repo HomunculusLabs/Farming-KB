@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Soil Basics
 
-Soil fundamentals for vegetable gardening, from Steve Solomon's *Gardening When It Counts*. Solomon argues that soil mineral balance directly determines the nutritional quality of your food.
+Soil fundamentals for [[dryland-vegetable-gardening]], from Steve Solomon's *Gardening When It Counts*. Solomon argues that soil mineral balance directly determines the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of your food.
 
 ## The Foundation: Mineral Balance
 
@@ -43,7 +43,7 @@ Solomon's signature recipe, developed over decades of gardening:
 
 - Mix by volume, NOT by weight
 - Seedmeal provides NPK; the lime/gypsum/dolomite provide calcium, magnesium, and sulfur
-- Kelpmeal is rich in trace elements and provides plant growth regulators and natural hormones that increase resistance to cold, frost, and other stresses
+- Kelpmeal is rich in [[soil-trace-elements-and-micronutrients]] provides [[singh-fungal-plant-growth-regulators-production]] and natural hormones that increase resistance to cold, frost, and other stresses
 - The formula automatically distributes about 50 pounds of lime per 1,000 sq ft per year when used at recommended rates
 
 ## Application Rates
@@ -60,7 +60,7 @@ This amount is enough for "low-demand" vegetables (carrots, beans, peas) to reac
 Solomon explains several problems with chemical fertilizers:
 
 1. **Incomplete**: So-called "complete" chemical fertilizers with analysis like 10-10-10 are entirely incomplete — they provide only nitrogen, phosphorus, and potassium. Plants also need calcium, magnesium, sulfur, and trace minerals.
-2. **Plants grown without trace minerals** are more easily attacked by insects and diseases, and often don't grow as large or as well.
+2. **Plants grown without trace minerals** are more easily attacked by [[solomon-insects-and-diseases-integrated-approach]], and often don't grow as large or as well.
 3. **Rapid boost then sag**: Inexpensive chemical fertilizers dissolve quickly, causing a rapid boost followed by a big sag requiring more application. They also leach easily.
 4. **Organic materials release nutrients slowly** as soil organisms decompose them — the rate doubles for each 10°F (5°C) increase in soil temperature. Complete COF takes about 2 months to fully release in warm soil.
 
@@ -71,7 +71,7 @@ Solomon advises forgetting about soil pH:
 - If a soil test shows low pH, don't lime to correct it
 - Just add what he recommends: compost/manure plus the limes in COF
 - Over time, pH will correct itself — more from the organic matter than from the calcium/magnesium additions
-- If pH already tests acceptable, still use the full COF recommendation because vegetables need calcium and magnesium in the right balance
+- If pH already tests acceptable, still use the full COF recommendation because vegetables need [[dynamic-accumulator-plants-calcium-and-magnesium]] in the right balance
 - COF is formulated so when used at the directed amount, it automatically distributes the right amount of lime
 
 ## Three Levels of Soil Fertility Demand

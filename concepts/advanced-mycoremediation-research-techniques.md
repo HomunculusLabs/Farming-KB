@@ -6,7 +6,7 @@ type: concept
 
 # Advanced Mycoremediation Research Techniques
 
-Mycoremediation at the research level encompasses a range of sophisticated techniques for screening, isolating, training, and deploying fungi to degrade environmental contaminants. College-level and professional mycoremediation research combines microbiology, ecology, chemistry, and engineering to develop practical solutions for pollution problems including petroleum spills, pesticide contamination, heavy metals, and industrial waste. This field is rapidly expanding as the limitations of conventional remediation methods become increasingly apparent.
+[[mycoremediation]] at the research level encompasses a range of sophisticated techniques for screening, isolating, training, and deploying fungi to degrade environmental contaminants. College-level and professional mycoremediation research combines microbiology, ecology, chemistry, and engineering to develop practical solutions for pollution problems including petroleum spills, pesticide contamination, heavy metals, and industrial waste. This field is rapidly expanding as the limitations of conventional remediation methods become increasingly apparent.
 
 ## Screening Fungi for Remediation Potential
 
@@ -16,7 +16,7 @@ The most fundamental approach to identifying fungi with mycoremediation potentia
 
 ### Progressive Training
 
-Once a candidate fungus is identified, researchers employ progressive "training" to enhance its remediation capabilities. The colonizing mycelium is subcultured onto fresh media with incrementally increased contaminant concentrations. This process, which operates at the genetic level, selects for and amplifies the traits that allow the fungus to break down the contaminant and thrive in the polluted environment. Multiple generations of selective pressure can produce strains significantly more capable than their wild predecessors.
+Once a candidate fungus is identified, researchers employ progressive "training" to enhance its remediation capabilities. The colonizing [[mycelium]] is subcultured onto fresh media with incrementally increased contaminant concentrations. This process, which operates at the genetic level, selects for and amplifies the traits that allow the fungus to break down the contaminant and thrive in the polluted environment. Multiple generations of selective pressure can produce strains significantly more capable than their wild predecessors.
 
 Molds are common and welcome in this process—they are all fungi and contribute to the remediation effort. The goal is to identify the organisms that most aggressively metabolize the target contaminant.
 
@@ -62,7 +62,7 @@ Researchers introduce specific chemicals or biological organisms to fungal cultu
 
 ### Harvest and Analysis
 
-Metabolites are extracted from the culture medium (often liquid culture for easier processing) and subjected to chemical analysis. Techniques include chromatography, mass spectrometry, and bioassay-guided fractionation to isolate and identify active compounds.
+Metabolites are extracted from the culture medium (often [[liquid-culture]] for easier processing) and subjected to chemical analysis. Techniques include chromatography, mass spectrometry, and bioassay-guided fractionation to isolate and identify active compounds.
 
 ### Functional Testing
 
@@ -106,7 +106,7 @@ Each design optimizes the contact time between contaminated water and the myceli
 
 ## Entomopathogenic Fungi Research
 
-Entomopathogenic fungi—fungi that attack and kill insects by parasitizing them—represent both a research tool and a potential mycoremediation adjunct. These fungi colonize their host insect's body, sometimes threading through the brainstem to control the insect's behavior and movement.
+[[entomopathogenic-fungi]]—fungi that attack and kill insects by parasitizing them—represent both a research tool and a potential mycoremediation adjunct. These fungi colonize their host insect's body, sometimes threading through the brainstem to control the insect's behavior and movement.
 
 ### Collection and Identification
 
@@ -124,7 +124,7 @@ Entomopathogenic fungi are relevant to mycoremediation because many agricultural
 
 ### Fungal Space Cakes
 
-Polypores—highly desirable as medicinal mushrooms but generally too tough for direct consumption—can be cultured as mycelium to create nutritious food products. Mycelial biomass from species like reishi, turkey tail, and others can be processed into "space cakes" or other food forms that deliver the medicinal compounds in a bioaccessible format.
+Polypores—highly desirable as [[medicinal-mushrooms]] but generally too tough for direct consumption—can be cultured as mycelium to create nutritious food products. Mycelial biomass from species like reishi, turkey tail, and others can be processed into "space cakes" or other food forms that deliver the medicinal compounds in a bioaccessible format.
 
 ### Biofuel Production
 
@@ -148,11 +148,3 @@ Dense mycelial mats can be molded and processed into consumer products:
 Students and researchers test these materials for tensile strength, antibiotic properties, insect repellency, water resistance, and other functional characteristics, comparing them against conventional products they aim to replace.
 
 ## Data Collection and Analysis Standards
-
-Rigorous mycoremediation research requires:
-
-- **Replicated trials**: Minimum triplicate samples for each treatment condition
-- **Controls**: Untreated contaminated samples to establish baseline degradation rates
-- **Statistical analysis**: Appropriate tests (ANOVA, t-tests) to determine significance of treatment effects
-- **Long-term monitoring**: Contaminant levels tracked over weeks to months
-- **Standardized reporting**: Consistent units, methods, and data formats to enable comparison across studies

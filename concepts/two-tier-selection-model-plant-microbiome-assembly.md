@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-The two-tier selection model is a theoretical framework describing how microbial communities associated with plant roots are assembled through a sequential filtering process. The model posits that root-associated microbiota are structured in two distinct stages: first by **edaphic (soil) factors** that determine the pool of available microorganisms, and second by **host genotype-dependent selection** that fine-tunes the community within plant tissues.
+The two-tier selection model is a theoretical framework describing how [[cannabis-rhizosphere-microbial-communities]] associated with plant roots are assembled through a sequential filtering process. The model posits that root-associated microbiota are structured in two distinct stages: first by **edaphic (soil) factors** that determine the pool of available microorganisms, and second by **host genotype-dependent selection** that fine-tunes the community within plant tissues.
 
 This model was empirically validated through studies of the Cannabis microbiome by Winston et al. (2014), published in PLOS ONE. The study represented the first comprehensive description of the endorhiza, rhizosphere, and bulk soil-associated microbiome of five distinct Cannabis cultivars, providing a uniquely controlled test of the model through systematic variation of both soil type and plant genotype.
 
@@ -19,7 +19,7 @@ The model emerged from earlier observations that plant-associated microbial comm
 
 ### Tier 1: Soil-Driven Community Filtering
 
-The first tier of selection occurs at the level of the bulk soil. Edaphic factors—including soil pH, nitrogen content, salinity, total organic carbon, water content, and soil texture—exert the strongest influence on determining which microbial taxa are present in the local environment. These factors structure the soil microbial community that serves as the source pool for subsequent colonization of the rhizosphere and plant interior.
+The first tier of selection occurs at the level of the bulk soil. [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]]—including soil pH, nitrogen content, salinity, total organic carbon, water content, and soil texture—exert the strongest influence on determining which microbial taxa are present in the local environment. These factors structure the soil microbial community that serves as the source pool for subsequent colonization of the rhizosphere and plant interior.
 
 In the [[edaphic-factors-microbial-community-structure]]:
 
@@ -35,7 +35,7 @@ A BEST (Best Subset of Environmental Variables) analysis determined that the opt
 
 The second tier occurs when microorganisms transition from the rhizosphere into the plant's endorhiza (root interior). At this stage, host plant genotype—specifically the cultivar—becomes the primary determinant of microbial community structure, particularly in terms of relative abundance rather than mere presence or absence.
 
-In the Cannabis study, strain-level differences were only statistically significant within the endorhiza. The weighted UniFrac analysis showed that Cannabis strain was the main determinant of PC1 (34.51%) for all samples in the second experiment. Notably, there were zero significant unweighted OTU differences between cultivars, yet 71 OTUs showed significant weighted differences, confirming that cultivar selection modulates relative abundances without fundamentally changing which taxa can colonize.
+In the Cannabis study, strain-level differences were only statistically significant within the endorhiza. The [[cannabis-weighted-unifrac-strain-abundance-vs-presence-absence]] analysis showed that Cannabis strain was the main determinant of PC1 (34.51%) for all samples in the second experiment. Notably, there were zero significant unweighted OTU differences between cultivars, yet 71 OTUs showed significant weighted differences, confirming that cultivar selection modulates relative abundances without fundamentally changing which taxa can colonize.
 
 The molecular basis for genotype-dependent selection likely involves plant-produced compounds including root exudates, lectins, and defense metabolites. Cannabis produces numerous secondary metabolic compounds including cannabinoids, and the observation of strong cultivar-specificity in its endorhiza suggests these specialized metabolites may directly influence microbial community assembly.
 
@@ -57,13 +57,13 @@ Actinobacteria also become more prevalent in the endorhiza, consistent with thei
 
 ### Conserved Core Community
 
-Despite cultivar-specific differences, all endorhiza samples maintained a core community of Pseudomonas, Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. These well-known endophytic bacteria, primarily within Gammaproteobacteria and Alphaproteobacteria, appear to represent a stable plant-associated consortium found across all Cannabis cultivars tested.
+Despite cultivar-specific differences, all endorhiza samples maintained a core community of Pseudomonas, Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. These well-known [[endorhiza-endophytic-bacteria]], primarily within Gammaproteobacteria and Alphaproteobacteria, appear to represent a stable plant-associated consortium found across all Cannabis cultivars tested.
 
 ## Evidence from the Cannabis Microbiome
 
 ### Shared OTU Analysis
 
-A key prediction is that endorhiza communities share more OTUs with their own soil than with a different soil. Using White Widow plants grown in two distinct soil types, the shared OTUs between endorhiza and their own soil (mean = 2934) was significantly greater than shared OTUs with the foreign soil (mean = 2162; t = -10.05, p = 1.209e-15).
+A key prediction is that [[cannabis-rhizosphere-endorhiza-communities]] share more OTUs with their own soil than with a different soil. Using White Widow plants grown in two distinct soil types, the shared OTUs between endorhiza and their own soil (mean = 2934) was significantly greater than shared OTUs with the foreign soil (mean = 2162; t = -10.05, p = 1.209e-15).
 
 ### Alpha Diversity Patterns
 
@@ -92,7 +92,7 @@ In the second experiment, [[arabidopsis-thaliana]], poplar, potato, and maize ha
 ## See Also
 
 - [[edaphic-factors-soil-microbial-community-structure]]
-- cannabis cultivar specificity microbiome
+- cannabis [[cultivar-specificity-microbiome]]
 - rhizosphere effect root exudate microbe interactions
 - plant microbiome alpha diversity gradients
 

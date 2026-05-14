@@ -3,7 +3,7 @@ title: Savory Ranch Financial Planning
 created: 2026-04-26
 aliases: [holistic financial planning, gross margin analysis, wealth generation, ranch economics]
 tags: [financial-planning, ranch-economics, gross-margin, wealth-generation, holistic-management]
-related: savory-livestock-grazing-planning
+related: [[savory-livestock-grazing-planning]]
 type: concept
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"

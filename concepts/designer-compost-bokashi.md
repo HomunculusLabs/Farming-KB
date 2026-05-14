@@ -1,5 +1,5 @@
 ---
-title: Designer Compost and Bokashi [[cho-loess-powder-in-natural-farming]]
+title: "Designer Compost Bokashi"
 source: bahay-kubo-indigenous-microorganisms_.md
 type: concept
 ---

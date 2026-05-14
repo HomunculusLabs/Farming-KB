@@ -1,5 +1,5 @@
 ---
-title: [[diversion-drains-and-spreader-banks]] and Irrigation Bays
+title: "Spreader Banks And Irrigation Bays"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

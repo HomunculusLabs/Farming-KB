@@ -1,5 +1,5 @@
 ---
-title: Fukuoka [[fukuoka-textdoc-no-weeding-principle-weed-utility]] Weed Ecology Utility
+title: "Fukuoka No Weeding Principle Weed Ecology Utility"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

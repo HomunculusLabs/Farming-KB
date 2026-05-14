@@ -42,7 +42,7 @@ Planting a new crop immediately after harvesting the previous one in the same sp
 |------------|------------|-----------|
 | Peas | Peppers or eggplant | Garlic |
 | Lettuce | Bush beans | Spinach |
-| Radishes | Summer squash | Cover crop |
+| Radishes | Summer squash | [[cover-crop]] |
 | Spinach | Tomatoes | Kale |
 | Beets | Sweet corn | Carrots |
 | Onions (sets) | Cucumbers | Broccoli |

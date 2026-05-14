@@ -22,7 +22,7 @@ principles that continue to guide plant [[plant-sensory-biology]].
 
 Following the publication of *On the Origin of Species* (1859), Darwin
 spent twenty years investigating plant movement and sensitivity. He was
-fascinated by phototropism, noting that "there are extremely few [plants],
+fascinated by [[phototropism]], noting that "there are extremely few [plants],
 of which some part... does not bend towards lateral light." The question
 was: how does a plant detect the direction of light, and which part of the
 plant does the "seeing"?

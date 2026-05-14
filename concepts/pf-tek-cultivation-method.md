@@ -8,7 +8,7 @@ aliases: [Psilocybe Fanaticus TEK, brown rice mushroom cultivation, vermiculite 
 
 # PF TEK Cultivation Method
 
-The **[[pf-tek]]** (Psilocybe Fanaticus Technique) is a revolutionary mushroom cultivation method created by Robert "Psilocybe Fanaticus" McPherson and publicly released in 1992. Originally marketed as a commercial kit through High Times Magazine classifieds starting in September 1991, the complete TEK was published in 1992, making the kit form obsolete. The PF TEK is recognized as the most influential and widely copied amateur mushroom cultivation technique ever developed, enabling easy growing of *Psilocybe cubensis* using common kitchen utensils and readily available supplies.
+The **[[pf-tek]]** (Psilocybe Fanaticus Technique) is a revolutionary [[pf-tek-mushroom-cultivation-method]] created by Robert "Psilocybe Fanaticus" McPherson and publicly released in 1992. Originally marketed as a commercial kit through High Times Magazine classifieds starting in September 1991, the complete TEK was published in 1992, making the kit form obsolete. The PF TEK is recognized as the most influential and widely copied amateur [[boil-a-bag-mushroom-cultivation-technique]] ever developed, enabling easy growing of *Psilocybe cubensis* using common kitchen utensils and readily available supplies.
 
 ## Overview of the PF Method
 
@@ -62,11 +62,11 @@ When mycelium grows in grain, it colonizes the grain kernels and turns into a de
 - **Easier cake removal**: Colonized cakes can be removed from jars intact for fruiting
 
 ### Contamination Resistance
-The vermiculite-based substrate has inherent advantages for contamination prevention:
+The vermiculite-based substrate has inherent advantages for [[cervantes-cannabis-contamination-prevention]]:
 
 - The dry vermiculite barrier at the top of each jar (a PF innovation) acts as a physical filter against airborne contaminants
 - The mineral nature of vermiculite is less nutrient-rich than grain, providing less food for competing organisms
-- Steam sterilization is sufficient (pressure canning is not required) because the substrate is less dense than grain
+- Steam sterilization is sufficient ([[comparison-pressure-canning-vs-water-bath-canning]] is not required) because the substrate is less dense than grain
 
 ## Spore Mass Inoculation vs. Cloning
 
@@ -106,7 +106,7 @@ The PF TEK was specifically designed to use **common household items**:
 - **Alcohol lamp or lighter**: For flame sterilization of inoculation tools
 
 ### Fruiting Equipment
-- **Aquarium or plastic container**: Serves as the fruiting chamber (the "Dual Chambered Terrarium")
+- **Aquarium or plastic container**: Serves as the fruiting chamber (the "[[dual-chambered-terrarium-design]]")
 - **Perlite**: For humidification (later PF innovation)
 - **Spray bottle**: For misting
 - **Thermometer**: Optional, for monitoring temperature
@@ -115,7 +115,7 @@ The PF TEK was specifically designed to use **common household items**:
 
 The PF TEK follows a predictable timeline:
 
-1. **Day 0**: Substrate preparation and jar loading
+1. **Day 0**: [[substrate-preparation-and-pasteurization]] jar loading
 2. **Day 0**: Steam sterilization (60-90 minutes)
 3. **Day 1-2**: Jar cooling and inoculation
 4. **Days 3-14**: Incubation period — mycelium colonization visible within 3-5 days

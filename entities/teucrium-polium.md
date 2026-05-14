@@ -58,7 +58,7 @@ The essential oil is dominated by monoterpenes, particularly α-pinene, β-pinen
 
 Flavonoid glycosides, including luteolin and apigenin derivatives, have been isolated from aerial parts. Phenolic acids such as caffeic acid and rosmarinic acid are also present.
 
-Total phenolic content varies considerably with geography, harvest time, and plant part. Aerial parts harvested during flowering typically contain the highest concentrations of bioactive compounds.
+Total phenolic content varies considerably with geography, harvest time, and plant part. Aerial parts harvested during flowering typically contain the highest concentrations of [[cordyceps-cancer-bioactive-compounds]].
 
 Volatile oil composition shows significant chemotype [[bloomfield-fungal-pathogens-and-parasites]].
 
@@ -79,7 +79,7 @@ Due to hepatotoxicity concerns, several European health authorities have issued 
 ## Overview
 
 Teucrium Polium represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving teucrium extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -108,13 +108,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for teucrium polium. Climate adaptation
+opportunities for teucrium polium. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 teucrium polium and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

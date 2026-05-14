@@ -3,8 +3,8 @@ title: Quantum Mechanics Fundamentals
 type: concept
 category: physics
 related:
-  - maxwell-equations-electromagnetism
-  - laws-of-thermodynamics
+  - [[maxwell-equations-electromagnetism]]
+  - [[laws-of-thermodynamics]]
 tags: [physics, quantum-mechanics, wave-function, schrodinger-equation,
   hilbert-space, entanglement, uncertainty-principle, superposition,
   quantum-computing, wave-particle-duality]

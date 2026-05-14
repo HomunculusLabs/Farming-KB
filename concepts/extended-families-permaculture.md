@@ -75,7 +75,7 @@ The permaculture vision for extended families creates a web of multi-racial, mul
 ## See Also
 - [[permaculture-ethics-earth-care-people-care-fair-share]]
 - [[extended-families-and-intentional-community]]
-- [[ethical-basis-alternative-nation-permaculture]]
+- [[ethical-basis-of-alternative-nation]]
 
 ## Practical Applications
 Understanding this concept enables better integration of sustainable

@@ -51,7 +51,7 @@ designs.
 Pigeon pea is a staple pulse crop across South Asia, Africa, and the
 Caribbean. The dried seeds (dal) are cooked in soups, stews, and curries.
 Young green pods can be eaten as a vegetable. This dual-purpose nature
-aligns with [[permaculture-principles]] of stacking functions.
+aligns with [[permaculture-principles]] of [[gaias-garden-stacking-functions]].
 
 ### Permaculture Design Roles
 
@@ -64,7 +64,7 @@ aligns with [[permaculture-principles]] of stacking functions.
 
 ### Companion Planting
 
-Pigeon pea integrates well with other poultry forage species such as
+Pigeon pea integrates well with other [[poultry-forage-species-compendium]] such as
 Coprosma repens, Caragana, tagasaste, boxthorn (Lycium spp.), and
 mulberry. As a nitrogen fixer, it benefits neighbouring fruit trees and
 vegetables. In tropical home gardens, it is commonly interplanted with
@@ -82,9 +82,9 @@ cassava, maize, and sweet potato.
 
 ### Climate Suitability
 
-Pigeon pea excels in tropical and subtropical climates (USDA zones 9-12).
-It is killed by frost but can be grown as an annual in temperate regions
-with long warm seasons. Its drought tolerance makes it particularly
+Pigeon pea excels in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] (USDA zones 9-12).
+It is killed by frost but can be grown as an annual in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
+with long warm seasons. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it particularly
 valuable in semi-arid permaculture designs.
 
 ## Summary
@@ -93,4 +93,4 @@ Pigeon pea is a quintessential permaculture plant, combining nitrogen
 fixation, human food production, and poultry forage in a single hardy
 species. Its role in Mollison's poultry forage palette highlights its
 value as a seed-bearing shrub that sustains free-range fowl while
-simultaneously producing food for people and building soil fertility.
+simultaneously producing food for people and [[building-soil-fertility-long-term]].

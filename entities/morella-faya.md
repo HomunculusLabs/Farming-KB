@@ -20,7 +20,7 @@ sources:
 
 Morella faya, commonly known as faya or the fire tree, is an evergreen shrub or small tree in the family Myricaceae. It is native to the Madeira and Azores archipelagos in the North Atlantic, where it occurs in laurel forest and coastal scrub communities.
 
-The species is of considerable ecological significance due to its capacity for [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]].
+The species is of considerable [[lichen-biology-guide]] due to its capacity for [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]].
 
 M. faya has become a problematic invasive species in Hawai'i, where it was introduced in the late 19th century. Its nitrogen-fixing capability has fundamentally transformed nitrogen-limited volcanic ecosystems, facilitating the invasion of additional non-native plant species.
 
@@ -46,7 +46,7 @@ Seeds are small, ovoid, and 2–3 mm long with a hard seed coat that may enhance
 
 M. faya is native to the Macaronesian archipelagos of Madeira, the Azores, and the Canary Islands. In its native range it occupies a variety of habitats from sea level to approximately 1,500 m, including laurel forest (laurisilva), heathland, and coastal cliffs.
 
-The species is a characteristic component of the endangered laurisilva forest ecosystem, where it occupies canopy gaps and disturbed sites. In the Azores, it is one of the most common woody plants, forming extensive thickets on volcanic slopes and crater rims.
+The species is a characteristic component of the endangered laurisilva [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]], where it occupies canopy gaps and disturbed sites. In the Azores, it is one of the most common woody plants, forming extensive thickets on volcanic slopes and crater rims.
 
 Soil preferences are broad, encompassing volcanic basaltic soils, sandy coastal substrates, and organic-rich forest soils. The species' nitrogen-fixing capability gives it a competitive advantage on young volcanic soils and nutrient-poor sites.
 
@@ -58,11 +58,11 @@ The species has been introduced to Hawai'i (Big Island, Maui, Oahu), New Zealand
 
 The most ecologically significant feature of M. faya is its nitrogen-fixing root nodules, formed in symbiosis with actinomycete bacteria of the genus Frankia. These nodules enable the species to convert atmospheric nitrogen into biologically available forms, substantially increasing soil nitrogen content.
 
-In native Macaronesian ecosystems, this nitrogen fixation contributes to the productivity of laurisilva forests and facilitates succession on recent lava flows. However, in the nitrogen-limited volcanic soils of Hawai'i, the same trait has triggered ecosystem-level changes that favor invasive species over native Hawaiian plants.
+In native Macaronesian ecosystems, this [[biological-nitrogen-fixation-agriculture]] contributes to the productivity of laurisilva forests and facilitates succession on recent lava flows. However, in the nitrogen-limited volcanic soils of Hawai'i, the same trait has triggered ecosystem-level changes that favor invasive species over native Hawaiian plants.
 
-In Hawai'i, M. faya invasion has been shown to increase soil nitrogen availability by 4–10 times compared to uninvaded native forest. This nitrogen enrichment creates favorable conditions for other invasive species, particularly grasses (such as [[pennisetum-setaceum]]) that increase wildfire risk.
+In Hawai'i, M. faya invasion has been shown to increase soil [[nitrogen-availability-in-legumes]] by 4–10 times compared to uninvaded native forest. This nitrogen enrichment creates favorable conditions for other invasive species, particularly grasses (such as [[pennisetum-setaceum]]) that increase wildfire risk.
 
-Birds including the Japanese white-eye (Zosterops japonicus) and native Hawaiian honeycreepers disperse the fruits. The waxy coating on the fruit may enhance passage through avian digestive tracts, facilitating long-distance seed dispersal.
+Birds including the Japanese white-eye (Zosterops japonicus) and native Hawaiian honeycreepers disperse the fruits. The waxy coating on the fruit may enhance passage through avian digestive tracts, facilitating long-distance [[clay-pellet-seed-dispersal]].
 
 The species provides habitat and food resources for generalist bird species in both native and invaded ranges. In the Azores, M. faya thickets support populations of endemic Azorean bullfinches (Pyrrhula murina), which feed on the fruits during winter months.
 
@@ -74,7 +74,7 @@ M. faya has limited commercial or horticultural use outside its native range. In
 
 In traditional Madeiran agriculture, M. faya was planted as a windbreak and soil stabilizer on terraced hillsides. Its nitrogen-fixing capability was recognized as beneficial for soil improvement in traditional agricultural systems, though this same trait makes it problematic when introduced to sensitive ecosystems.
 
-The waxy fruit coating has been investigated as a potential source of natural waxes. The coating contains a mixture of fatty acids and esters similar to the bayberry wax obtained from [[antifungal-secondary-metabolites-coprophilous-fungi]] remains limited compared to other Myricaceae members.
+The waxy fruit coating has been investigated as a potential source of natural waxes. The coating contains a mixture of [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] and esters similar to the bayberry wax obtained from [[antifungal-secondary-metabolites-coprophilous-fungi]] remains limited compared to other Myricaceae members.
 
 ## Invasiveness
 

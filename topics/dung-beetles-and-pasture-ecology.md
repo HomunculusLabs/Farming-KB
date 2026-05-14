@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Holistic Management by Allan Savory
   - Dung Beetle Ecology by Ilkka Hanski
-  - Teaming with Microbes by Jeff Lowenfels
+  - [[teaming-with-microbes-actinomycetes]] by Jeff Lowenfels
   - Soil Biology Primer by USDA NRCS
 ---
 
@@ -39,11 +39,11 @@ Over 7,000 species of dung beetles are described worldwide. They occur on every 
 
 ### Nutrient Cycling and Soil Fertility
 
-Dung beetles are fundamental to nutrient cycling in grazed ecosystems:
+Dung beetles are fundamental to [[nutrient-cycling-in-soil]] grazed ecosystems:
 
 - **Nitrogen mobilization**: By fragmenting and burying dung, beetles accelerate microbial [[decomposition]], releasing plant-available nitrogen that would otherwise volatilize as ammonia or leach away.
 - **Phosphorus redistribution**: Dung burial moves phosphorus from surface concentrations into the root zone where plants can access it.
-- **Organic matter incorporation**: Tunnelling beetles mix dung with mineral soil, creating organo-mineral complexes that improve soil structure and humus formation.
+- **Organic matter incorporation**: Tunnelling beetles mix dung with mineral soil, creating organo-mineral complexes that [[query-how-do-fungi-improve-soil-structure]] and humus formation.
 - **Reduced nutrient loss**: Studies show dung beetle activity can reduce nitrogen losses by 15–30% and phosphorus runoff by up to 40% compared to uncolonized pats.
 
 ### Soil Structure and Aeration
@@ -51,7 +51,7 @@ Dung beetles are fundamental to nutrient cycling in grazed ecosystems:
 Tunnelling dung beetles are ecosystem engineers:
 
 - **Macropore creation**: Tunnels 5–30 cm deep create macropores that improve water infiltration by 10–130% in compacted pasture soils.
-- **Aggregate stability**: Dung incorporation and beetle excrement promote soil aggregate formation, improving both drainage and moisture retention.
+- **Aggregate stability**: Dung incorporation and beetle excrement promote [[singh-fungal-roles-in-soil-aggregate-formation]], improving both drainage and moisture retention.
 - **Reduced compaction**: In heavily grazed pastures, dung beetle tunnels can partially offset livestock-induced soil compaction.
 - **Mixed soil horizons**: Deep-tunneling species bring subsoil to the surface and carry organic matter downward, blurring sharp horizon boundaries.
 
@@ -94,7 +94,7 @@ Dung beetles locate fresh dung using olfactory cues from volatile compounds (ind
 
 - **Herbivore preference**: Most dung beetles prefer herbivore dung (cattle, horse, sheep, elephant) over carnivore dung due to higher fiber content and lower ammonia.
 - **Diet quality matters**: Cattle on diverse pastures produce dung more attractive and nutritious for beetles than cattle on concentrate rations.
-- **Quantity thresholds**: Viable populations require continuous dung availability throughout the frost-free season. Rotational grazing with adequate stock density provides this better than continuous stocking.
+- **Quantity thresholds**: Viable populations require continuous dung availability throughout the frost-free season. [[comparison-rotational-grazing-vs-continuous-grazing]] with adequate stock density provides this better than continuous stocking.
 
 ### Soil Conditions
 
@@ -106,7 +106,7 @@ Dung beetles locate fresh dung using olfactory cues from volatile compounds (ind
 ### Landscape Considerations
 
 - **Connectivity**: Dung beetles are weak fliers (many species fly only a few hundred meters). Habitat connectivity between pastures maintains metapopulation structure.
-- **Hedgerows and shelterbelts**: Wind protection and diverse habitat edges support beetle dispersal and overwintering.
+- **[[windbreaks-hedgerows-and-shelterbelts]]**: Wind protection and diverse habitat edges support beetle dispersal and overwintering.
 - **Woodland-pasture mosaics**: Silvopastoral systems often support higher dung beetle diversity than open pastures due to habitat heterogeneity.
 
 ## Threats and Decline

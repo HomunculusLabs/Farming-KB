@@ -1,5 +1,5 @@
 ---
-title: Permaculture Principles of Diversity Resources and Yield
+title: Permaculture Diversity Resources Yield
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -10,13 +10,13 @@ The core intellectual framework of [[permaculture]] rests on a set of principles
 
 ## The Cooperative Ethic
 
-Permaculture is explicitly a cooperative, not a competitive, system. The movement requires rapid dissemination of knowledge — no patenting, no hoarding of information, no protecting of jobs. The scale of ecological crisis demands that hundreds of experts be set loose on the ground, each creating productive systems in their own bioregions.
+Permaculture is explicitly a cooperative, not a competitive, system. The movement requires rapid dissemination of knowledge — no patenting, no hoarding of information, no protecting of jobs. The scale of [[global-ecological-crisis-soils-and-deforestation]] demands that hundreds of experts be set loose on the ground, each creating productive systems in their own bioregions.
 
 Mollison identifies a necessary ethical shift: "to stop admiring the people who have money." The educational system must shift from passive learning to active application. All permaculture methodologies arose from observation of natural systems, but the critical "mind twist" is recognizing that this knowledge can be actively applied — moving from passive understanding to active design intervention.
 
 ## Diversity: Connections, Not Numbers
 
-The most commonly misunderstood concept in permaculture is diversity. Diversity is not about the number of elements or species in a system. It is about the **number of functional connections between elements**. A system with 3,000 species but few interactions between them is less diverse (and less stable) than a system with 30 species that are richly interconnected.
+The most commonly misunderstood concept in permaculture is diversity. Diversity is not about the number of elements or species in a system. It is about the **number of [[component-analysis-and-functional-connections]] between elements**. A system with 3,000 species but few interactions between them is less diverse (and less stable) than a system with 30 species that are richly interconnected.
 
 ### The Greenhouse-Chicken Example
 
@@ -100,7 +100,7 @@ A fundamental principle of permaculture is that **living systems push back harde
 ### Ecological Examples
 
 - **Fish and algae**: When fish are placed with palatable algae, they consume the preferred species until it is gone, then the unpalatable algae proliferate, starving out the fish. Fish eats algae; algae destroys fish.
-- **Cattle and pasture**: Cattle preferentially graze their favorite plants, which allows unpalatable (and sometimes poisonous) species to increase, eventually closing the landscape to cattle. The landscape actively responds to grazing pressure.
+- **Cattle and pasture**: Cattle preferentially graze their favorite plants, which allows unpalatable (and sometimes poisonous) species to increase, eventually closing the landscape to cattle. The landscape actively responds to [[gadd-mycelial-network-resilience-grazing-pressure]].
 
 This principle means that every intervention in a living system produces consequences that are disproportionate and often opposite to the intended outcome. Good design works with these responses rather than against them.
 
@@ -112,7 +112,7 @@ Often, what limits yield is not the basic factor of food (food ceilings are rare
 
 ## Density and Genetic Health
 
-The probability of species extinction is greatest at both very high and very low population densities. High density causes rapid transmission of disease through exhaustion of critical resources. Low density is more difficult to observe but equally critical — small populations lose genetic diversity and become vulnerable to random events.
+The probability of species extinction is greatest at both very high and very low population densities. High density causes rapid transmission of disease through exhaustion of critical resources. Low density is more difficult to observe but equally critical — small populations lose [[biodiversity-fungal-genetic-diversity]] and become vulnerable to random events.
 
-No human society dependent on its own genetic health can persist below approximately 300 individuals, and not even at that number without rigorous genetic management. High-density populations accumulate genetic disasters and mutations. Both extremes are dangerous, and the factor of number is one that most intentional communities ignore.
+No human society dependent on its own genetic health can persist below approximately 300 individuals, and not even at that number without rigorous genetic management. High-density populations accumulate genetic disasters and mutations. Both extremes are dangerous, and the factor of number is one that most [[holmgren-community-design-and-intentional-communities]] ignore.
 - [[mollison-co-action-analysis-and-species-interaction-in-guild-design]]

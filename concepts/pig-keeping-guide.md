@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]], Nicole Faires
+Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]], [[nicole-faires]]
 
 Pigs are among the most efficient livestock for the homestead, functioning as foragers, land clearers, and waste recyclers. Their rooting behavior makes them excellent natural plows for preparing garden beds.
 

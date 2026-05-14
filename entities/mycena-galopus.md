@@ -13,7 +13,7 @@ sources:
 
 **Mycena galopus** is a saprotrophic basidiomycete fungus in the family
 Mycenaceae, commonly known as the milky mycena. It is one of the most
-important saprotrophic fungi in temperate and boreal forest floor
+important [[saprotrophic-fungi]] in temperate and boreal forest floor
 ecosystems, playing a key role in leaf [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]. The species is
 particularly significant in coniferous forests where it dominates the
 decomposer community.
@@ -32,7 +32,7 @@ saprotrophic fungal community.
 ### Suppression of Ectomycorrhizal Decomposition
 
 Dighton et al. (1987) demonstrated that the presence of Mycena galopus
-reduced the decomposition potential of the ectomycorrhizal fungi Suillus
+reduced the decomposition potential of the [[ectomycorrhizal-fungi]] Suillus
 luteus and Hebeloma crustuliniforme associated with seedling pine
 roots. This reverses the classic Gadgil effect (Gadgil and Gadgil,
 1971, 1975), which proposed that mycorrhizal roots suppress litter

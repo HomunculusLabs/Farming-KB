@@ -50,7 +50,7 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[doc]]
 - [[det]]
-- [[shamanism]]
+- shamanism
 
 ## Overview
 

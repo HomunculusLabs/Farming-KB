@@ -27,7 +27,7 @@ sources:
 - [[knf-agricultural-mineral-water]]
 ## Practical Applications
 
-Agricultural Mycorrhizae has a range of practical applications that make it relevant to
+Agricultural [[mycorrhizae]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

@@ -79,7 +79,7 @@ mulch. Over months, the layers decompose into rich, worm-filled soil.
 
 Cover crops protect bare soil, fix nitrogen (legumes), break compaction
 (daikon radish), and add organic matter when cut and dropped as green mulch.
-They keep [[the-soil-food-web]] fed during fallow periods query how do i garden on a slope and prevent erosion.
+They keep [[soil-food-web]] fed during fallow periods query how do i garden on a slope and prevent erosion.
 
 ### Woody Debris
 

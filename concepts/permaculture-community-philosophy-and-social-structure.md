@@ -1,5 +1,5 @@
 ---
-title: Permaculture Community Philosophy and Social Structure
+title: Permaculture Community Philosophy And Social Structure
 source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
@@ -105,12 +105,12 @@ Preparing a looseleaf species index of useful plants and animals. First 1,000 sp
 ### Standard Designs
 Supplied as looseleaf sheets, updated regularly. Categories include:
 - **Landscape** (Series L): Rock dome planting, tidal flat ponds, flatland dam
-- **Pests and Problems** (Series P): Mosquito control, blackberry control, fox prevention, rabbit presence
+- **Pests and Problems** (Series P): [[backswimmer-mosquito-control-mollison]], [[berry-production-and-blackberry-control]], fox prevention, rabbit presence
 - **Annual Garden** (Series A): Tomato/asparagus polyculture, herb spiral, potato production
 - **Marketing and Management** (Series M): Farm-link, wayside marketing, self-pick sales
 - **Techniques** (Series T): Pruning, sewage disposal, broadscale planting, tyre uses, fuel from plants
 - **Structures** (Series S): Trellis, rock dome seepage, shade house, attached glasshouse
-- **Species Lists** (Series D): Poultry forage, hedgerow species, cattle forage, pig forage, seacoast species
+- **Species Lists** (Series D): [[free-range-poultry-forage-design-mollison]], hedgerow species, cattle forage, pig forage, seacoast species
 - **Urban Strategies** (Series U): Contract cropping, dispersed tree crops, dispersed livestock, public allotments
 
 ### Permaculture Quarterly
@@ -126,7 +126,7 @@ Journal listing requests, supplies, exchange news and views, covering permacultu
 6. Papanek, *Design for the Real World* (1974)
 7. Stout, *The Ruth Stout No-Work Garden Book*
 8. White et al., *Seeds for Change* (1978)
-9. Williams, *Craftsmen of Necessity* (1974)
+9. Williams, *[[williams-craftsmen-of-necessity]]* (1974)
 10. Virgil, *The Eclogues, Georgics and Aeneid*
 11. Lovelock, *Vegetables, An Unnatural History*
 12. Logsdon, *Small-scale Grain Growing* (1977)
@@ -136,4 +136,8 @@ Journal listing requests, supplies, exchange news and views, covering permacultu
 16. Fisher & Yanda, *The Food and Heat Producing Solar Greenhouse* (1976)
 17. McCullagh, *The Solar Greenhouse Book* (1978)
 18. Poulsen, *Man and Tree in Tropical Africa* (1978)
-19. Smith, *Tree Crops: A Permanent Agriculture* (1977)
+19. Smith, *Tree Crops: A [[earthcare-ethics-and-permanent-agriculture]]* (1977)
+
+## See Also
+
+- [[social-hierarchy-patterns-and-arts-in-permaculture]]

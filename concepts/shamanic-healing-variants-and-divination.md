@@ -1,5 +1,5 @@
 ---
-title: Shamanic shamanic healing variants and divination And Divination
+title: Shamanic Healing Variants And Divination
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
@@ -11,8 +11,8 @@ tags: [shamanism, healing, divination, entheogens, indigenous-knowledge]
 date: 2026-04-28 5|updated: 2026-04-28 6|sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md 8|--- 9|
 # Shamanic Healing Variants and Divination 11|
-Shamanic healing practices with hallucinogenic plants across diverse indigenous
-cultures share common structural features while varying in specific methods,
+Shamanic [[blesching-cannabis-healing-practices-setting-intention-affirmations]] with hallucinogenic plants across diverse indigenous
+cultures share common [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] while varying in specific methods,
 plant medicines, and ceremonial forms. [[metzner-william-james-radical-empiricism-multiple-consciousness]], after his personal
 research with [[metzner-shamanic-healing-divination-worldview]] 156|
 - [Iboga and the [[metzner-shamanic-healing-divination-worldview|Metzner Shamanic Healing Divination Worldview]]
@@ -35,7 +35,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

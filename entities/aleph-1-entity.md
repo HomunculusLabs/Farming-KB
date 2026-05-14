@@ -19,7 +19,7 @@ sources:
 - **ALEPH-6**: Isopropylthio homologue
 - **ALEPH-7**: n-Propylthio homologue
 - **2c-t-2-entity|2C-T family**: The more thoroughly explored 2-carbon homologues
-- **dom-entity|DOM**, **dob-entity|DOB**, **doi-entity|DOI**: Classic DO-series amphetamines
+- **dom-entity|DOM**, **dob-entity|DOB**, **[[doi-entity]]|DOI**: Classic DO-series amphetamines
 - **[[aleph-family-overview]]
 ## Practical Applications
 

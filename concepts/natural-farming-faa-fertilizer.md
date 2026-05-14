@@ -13,7 +13,7 @@ Fish Amino Acid (FAA) is a [[comparison-natural-farming-vs-permaculture]].
 
 ## What is FAA
 
-FAA is a fermented fish extract rich in nitrogen and amino acids. Blue-black colored fishes yield the best FAA because they contain high amounts of amino acids. The fermentation process with brown sugar or molasses breaks down the fish proteins into bioavailable forms that plants can immediately absorb.
+FAA is a fermented fish extract rich in nitrogen and amino acids. Blue-black colored fishes yield the best FAA because they contain high amounts of amino acids. The [[mushroom-compost-fermentation-process]] with brown sugar or molasses breaks down the fish proteins into bioavailable forms that plants can immediately absorb.
 
 ## Materials
 
@@ -38,7 +38,7 @@ FAA is a fermented fish extract rich in nitrogen and amino acids. Blue-black col
 Molasses can be used instead of brown sugar at a 1:3 ratio (one part molasses to three parts fish by weight). Benefits of molasses:
 - Lower cost
 - Minimizes fishy odors during fermentation
-- Adding lactic acid bacteria further reduces odors (as practiced in the Philippines)
+- Adding [[bionutrients-lab-lactic-acid-bacteria-serum]] further reduces odors (as practiced in the Philippines)
 
 ## Uses and Applications
 
@@ -51,7 +51,7 @@ FAA can be used continuously on leafy vegetables to:
 - Improve taste and fragrance
 
 ### For Compost and IMO Activation
-When making IMO or mixed compost, add FAA diluted 1:1000 to activate microorganisms.
+When making IMO or [[cho-fermented-mixed-compost-methods]], add FAA diluted 1:1000 to activate microorganisms.
 
 ### For Pest Control
 Mackerel FAA is very effective against:
@@ -61,7 +61,7 @@ Mackerel FAA is very effective against:
 Dilute FAA and spray on both sides of leaves.
 
 ### For Water-Soluble Calcium Phosphate
-Put leftover bones from FAA production into brown rice vinegar (BRV) at 10x volume. Bones decompose to produce good quality water-soluble calcium phosphate.
+Put leftover bones from FAA production into [[brown-rice-vinegar-brv]] (BRV) at 10x volume. Bones decompose to produce good quality water-soluble calcium phosphate.
 
 ## When NOT to Use
 
@@ -83,7 +83,7 @@ Put leftover bones from FAA production into brown rice vinegar (BRV) at 10x volu
 
 As a general rule, the higher the protein content of materials, when composted or fermented, the higher the nitrogen yield. Fish scraps are extremely high in protein, making them ideal for nitrogen extraction. The fermentation process breaks down complex proteins into free amino acids that plants can absorb directly through foliage and roots, bypassing the need for soil microbial decomposition.
 
-In the Philippines, fish emulsion is popular in organic agriculture. The natural farming approach improves on this by:
+In the Philippines, [[comparison-fish-hydrolysate-vs-fish-emulsion]] is popular in organic agriculture. The [[beneficial-indigenous-microorganisms-natural-farming]] approach improves on this by:
 1. Using crude sugar/molasses for better fermentation
 2. Adding lactic acid bacteria to control odors
 3. Emphasizing specific fish types (blue-black colored) for higher amino acid content

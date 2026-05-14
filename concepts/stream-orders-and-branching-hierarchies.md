@@ -1,5 +1,5 @@
 ---
-title: [[mollison-stream-orders-and-branching-magnitudes]] Branching Hierarchies
+title: "Stream Orders And Branching Hierarchies"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-village-development]] Recycling Systems
+title: "Permaculture Village Recycling Systems"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

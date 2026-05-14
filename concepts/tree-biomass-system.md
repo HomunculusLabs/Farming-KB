@@ -11,10 +11,10 @@ type: concept
 A tree is not merely a standing stem and crown — it is a **total biomass system** encompassing many interconnected zones:
 
 - **The stem and crown** — the visible tree above ground
-- **The detritus and humus** — the tree at the soil surface boundary, where decomposition and nutrient cycling occur
-- **The roots and root associates** — the underground tree, including mycorrhizal fungi and their networks
+- **The detritus and humus** — the tree at the soil surface boundary, where decomposition and [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] occur
+- **The roots and root associates** — the underground tree, including [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] their networks
 
-Like all living things, a tree sheds its weight many times over to earth and air, and has built much of the soil it stands in. The living tree stands in a zone of decomposition, where organic matter is continuously transferred, reborn, and reincarnated into grasses, bacteria, fungi, insects, birds, and mammals.
+Like all living things, a tree sheds its weight many times over to earth and air, and has built much of the soil it stands in. The living tree stands in a zone of decomposition, where [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] is continuously transferred, reborn, and reincarnated into grasses, bacteria, fungi, insects, birds, and mammals.
 
 ## The Guild: Tree Associates
 
@@ -62,7 +62,7 @@ Forests provide a **nutrient net** for materials blown by wind or gathered by bi
 
 The forest edge — with its thick-stemmed, wind-adapted trees — buffers the frontline attack of wind. Cutting a windward forest edge removes these defences, allowing windburn by salt, dust abrasion, or plain wind force to kill the inner forest of weaker stems. This phenomenon is called **"edge break."**
 
-Conversely, establishing a forest begins by planting tough, resistant trees as windbreak to protect subsequent downwind plantings. **Forest edges are essential and permanent protection and should never be cut or removed.**
+Conversely, establishing a forest begins by planting tough, [[permaculture-plants-fire-resistant-trees-shrubs]] as windbreak to protect subsequent downwind plantings. **Forest edges are essential and permanent protection and should never be cut or removed.**
 
 ## Ecological Significance
 The principles described in relation to tree biomass system
@@ -71,8 +71,8 @@ Forests and vegetation play critical roles in water cycling, temperature
 regulation, and atmospheric processes that sustain regional climate patterns.
 
 ## Practical Applications
-These concepts apply directly to permaculture design, agroforestry systems,
-and watershed management. Understanding the interactions between vegetation,
+These concepts apply directly to [[bee-forage-systems-permaculture-design]], agroforestry systems,
+and [[ozier-pdc-hydro-cycle-and-watershed-management]]. Understanding the interactions between vegetation,
 water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 

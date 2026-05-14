@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - metzner-syncretic-entheogenic-churches-cultural-transformation-movement-metzner|entheogenic-churches-brazil-bwiti|metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner]]_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+  - metzner-syncretic-entheogenic-churches-cultural-transformation-movement-metzner|entheogenic-churches-brazil-bwiti|metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
 # metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic Churches and Cultural Transformation Movements

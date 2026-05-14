@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Monomethylhydrazine (MMH, CH3NHNH2) is a highly toxic, water-soluble hydrazine compound that serves as a component of some rocket propellants. In mycology, monomethylhydrazine is significant because it is produced naturally by certain mushrooms, most notably species in the genus Gyromitra (false morels). The compound forms through the hydrolysis of gyromitrin, a water-soluble hydrazine derivative found in these fungi. This dual role as both a naturally occurring mushroom metabolite and a rocket fuel component makes monomethylhydrazine a unique intersection of mycology and aerospace engineering.
+[[monomethylhydrazine]] (MMH, CH3NHNH2) is a highly toxic, water-soluble hydrazine compound that serves as a component of some rocket propellants. In [[mycology]], monomethylhydrazine is significant because it is produced naturally by certain mushrooms, most notably species in the genus Gyromitra (false morels). The compound forms through the hydrolysis of [[gyromitrin]], a water-soluble hydrazine derivative found in these fungi. This dual role as both a naturally occurring mushroom metabolite and a rocket fuel component makes monomethylhydrazine a unique intersection of mycology and aerospace engineering.
 
 ## Classification
 
@@ -21,7 +21,7 @@ Monomethylhydrazine (MMH, CH3NHNH2) is a highly toxic, water-soluble hydrazine c
 - **Flash point**: -9C (16F) - highly flammable
 - **Toxicity**: Highly toxic; volatile; carcinogenic with chronic exposure; TLV 0.01 ppm
 - **Precursor in fungi**: Gyromitrin (acetaldehyde methylformylhydrazone)
-- **Source organisms**: Gyromitra esculenta, Gyromitra gigas, and other Gyromitra species
+- **Source organisms**: [[gyromitra-esculenta]], Gyromitra gigas, and other Gyromitra species
 
 ## Key Facts
 
@@ -50,7 +50,7 @@ Monomethylhydrazine's natural production in Gyromitra species has provocative im
 
 This mirrors the dual-use potential of certain algae species that produce hydrogen in anaerobic reactors. The concept of cultivating organisms that simultaneously provide nutrition and energy resources is central to designing sustainable closed-loop life support systems for long-duration space missions. Having a single organism serve as both food and fuel source would dramatically simplify the logistics of deep-space habitation.
 
-For terrestrial cultivators, the presence of monomethylhydrazine in Gyromitra underscores the importance of proper identification and preparation when foraging. False morels are sometimes confused with true morels (Morchella spp.), which do not contain gyromitrin. The key distinguishing features include the wrinkled, brain-like cap of Gyromitra versus the honeycomb-like cap of Morchella, and the cap attachment pattern.
+For terrestrial cultivators, the presence of monomethylhydrazine in Gyromitra underscores the importance of proper identification and preparation when foraging. False morels are sometimes confused with true morels ([[morchella]] spp.), which do not contain gyromitrin. The key distinguishing features include the wrinkled, brain-like cap of Gyromitra versus the honeycomb-like cap of Morchella, and the cap attachment pattern.
 
 The biochemical pathway from gyromitrin to monomethylhydrazine represents an unusual example of a fungus producing a compound with direct industrial and aerospace applications. This highlights the largely untapped potential of fungal metabolites as sources of valuable chemicals, fuels, and pharmaceuticals. The thousands of fungal species yet to be thoroughly screened for secondary metabolites may harbor similarly unexpected compounds of commercial and scientific value.
 
@@ -58,3 +58,27 @@ The biochemical pathway from gyromitrin to monomethylhydrazine represents an unu
 
 - Cotter, T. (2016). Organic Mushroom Farming and Mycoremediation. Chelsea Green Publishing.
 - Michelot, D., and Melendez-Howell, L.M. (2003). Gyromitra esculenta: a review of the toxic principles. Mycological Research.
+
+## Practical Applications
+
+Monomethylhydrazine rocket fuel fungi has several important applications in sustainable agriculture and ecological design. Practitioners integrate these methods into holistic management systems that enhance productivity while maintaining ecological balance.
+
+## Historical Significance
+
+The development and understanding of monomethylhydrazine rocket fuel fungi has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+
+## See Also
+
+- [[monomethylhydrazine]]
+- [[rocket-mass-heater-design]]
+- [[comparison-rocket-stove-vs-rocket-mass-heater]]
+- [[comparison-solar-cooking-vs-rocket-stove]]
+- [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]
+
+## Key Considerations
+
+When working with monomethylhydrazine rocket fuel fungi, several factors must be considered including local climate conditions, soil characteristics, available resources, and long-term sustainability goals.
+
+## Integration Strategies
+
+Monomethylhydrazine rocket fuel fungi can be effectively integrated with complementary practices to create synergistic systems that maximize overall productivity and ecological function.

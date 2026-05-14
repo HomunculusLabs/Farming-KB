@@ -47,7 +47,7 @@ respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
 [[doc]]
-- [[shamanism]]
+- shamanism
 - [[atropine]]
 
 ## Overview

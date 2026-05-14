@@ -26,7 +26,7 @@ category at the 2010 High Times Cannabis Cup.
 ## Lineage
 
 - **Female parent:** Purple Afghani (Afghanistan landrace indica)
-- **Male parent:** Hindu Kush (Afghanistan/Pakistan landrace indica)
+- **Male parent:** [[hindu-kush]] (Afghanistan/Pakistan landrace indica)
 - **Genetic ratio:** Approximately 100% indica
 - Both parents trace to the Hindu Kush range, making this a nearly
 pure landrace cross.

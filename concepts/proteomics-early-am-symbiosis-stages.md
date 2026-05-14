@@ -38,7 +38,7 @@ stages of the M. truncatula / G. mosseae interaction:
 By comparing inoculated roots to non-inoculated controls, 29 expressed
 sequence tags (ESTs) were found to be over-expressed in the wild-type
 genotype Jemalong J5 in response to G. mosseae inoculation. No
-over-expression was observed in the mycorrhiza-deficient mutant dmi3
+over-expression was observed in the [[mycorrhiza]]-deficient mutant dmi3
 (Mtsym13, TRV25), confirming that these responses are symbiosis-specific.
 
 For each over-expressed EST, the longest open reading frame was selected to

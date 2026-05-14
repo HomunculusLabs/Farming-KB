@@ -74,7 +74,7 @@ Plants growing at higher elevations tend to be shorter and more compact. Lowland
 
 ## Cultivation
 
-Asyneuma limoniifolium requires very well-drained, neutral to alkaline soils in full sun. A gritty, free-draining compost is essential for container cultivation.
+Asyneuma limoniifolium requires very well-drained, neutral to alkaline soils in full sun. A gritty, free-draining [[compost]] is essential for container cultivation.
 
 Propagation is primarily by seed, sown in autumn or spring. Germination may benefit from a period of cold stratification.
 

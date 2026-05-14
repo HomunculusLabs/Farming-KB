@@ -1,5 +1,5 @@
 ---
-title: "stamets cultivator coprinus comatus shaggy mane cultivation (growing-gourmet-shaggy-mane-coprinus-cultivation) Cultivation"
+title: Stamets Cultivator Coprinus Comatus Shaggy Mane Cultivation
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -31,7 +31,7 @@ upwards and becoming parabolic. As the mushroom matures, the cap begins to
 disintegrate from the margin's edge through an autodigestive process known as
 deliquescence, progressively darkening and eventually liquefying. The gills are
 very crowded, whitish at first, then gray, darkening to black with age. A
-membranous partial veil leaves a fugacious collar-like annulus. The spore
+membranous [[partial-veil-tropism-protection-before-spore-release]] leaves a fugacious collar-like annulus. The spore
 deposit is black.
 
 ## Natural Habitat
@@ -44,7 +44,7 @@ preference for nitrogen-rich substrates.
 ## Spawn Preparation
 
 [[stamets-cultivator-pasteurization-vs-sterilization-methods]]
-for a thorough discussion of pasteurization techniques.
+for a thorough discussion of [[mushroom-pasteurization-techniques]].
 
 ## Spawn Run Parameters
 

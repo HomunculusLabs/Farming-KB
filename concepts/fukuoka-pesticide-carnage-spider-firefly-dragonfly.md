@@ -22,8 +22,8 @@ then that hardly any agricultural scientists have bothered to investigate why
 the amount of insect damage in these fields remains largely the same as in
 fields where no pesticides are used?"
 
-This single observation encapsulates the futility of chemical pest control.
-Despite eight annual applications of toxic chemicals, rice leafhopper damage
+This single observation encapsulates the futility of chemical [[beneficial-insects-and-biological-pest-control]].
+Despite eight annual applications of toxic chemicals, [[fukuoka-green-rice-leafhopper-virus]] damage
 remains essentially unchanged. The target pest is not controlled; what is
 controlled—and destroyed—is everything else.
 
@@ -36,7 +36,7 @@ stands of grass disappear at once."
 
 Consider the magnitude of what is lost. Tens of thousands of spiders per
 square yard—these are the primary predators of leafhoppers and other rice
-pests. Fukuoka describes his own natural farm: "As I walk through the paddy
+pests. Fukuoka describes his own [[fukuoka-creating-natural-farm-site-selection-establishment]]: "As I walk through the paddy
 field, spiders and frogs scramble about, locusts jump up, and droves of
 dragonflies hover overhead. Whenever a large outbreak of leafhoppers occurs,
 the spiders multiply too, without fail."
@@ -54,12 +54,12 @@ entire paddy food web.
 ## The Second Application: Chalcid Flies, Dragonfly Larvae, Tadpoles, Loaches
 
 "The second application kills off the chalcid flies, which are important
-natural predators, and leaves victim dragonfly larvae, tadpoles, and loaches."
+[[fukuoka-fruit-tree-disease-pest-control-natural-predators]], and leaves victim dragonfly larvae, tadpoles, and loaches."
 
 Each successive application of pesticide strips away another layer of the
-ecological protection system. Chalcid flies are parasitoid wasps that lay
+ecological protection system. Chalcid flies are [[comparison-parasitoid-wasps-vs-chemical-pesticides]] that lay
 their eggs inside pest insects, providing [[fukuoka-pesticide-cascade-collapse-natural-balance]] asserts itself without any chemical
-intervention. "No matter that there are insect pests here. As long as their
+intervention. "No matter that there are [[duggar-mushroom-insect-pests-and-fungal-diseases]] here. As long as their
 natural enemies are also present, a natural balance asserts itself." The
 field produces roughly 250 heads of grain per square yard, or about 33
 bushels per quarter-acre, without any pesticide application whatsoever.

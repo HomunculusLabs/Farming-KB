@@ -73,7 +73,7 @@ Water serves as one of the primary interfaces between the material and spiritual
 
 ## Overview
 
-Ayahuasca Yakuruna Water Spirits Shamanic Allies Amazon represents an important element within sustainable
+Ayahuasca [[yakuruna-water-spirits]] Shamanic Allies Amazon represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

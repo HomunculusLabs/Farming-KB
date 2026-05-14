@@ -69,7 +69,7 @@ and long-term sustainability of management practices.
 ## Ecological Role
 
 This species plays an important role in aquatic ecosystem
-function within permaculture water systems. Understanding its
+function within [[permaculture-water-systems]]. Understanding its
 ecological niche helps optimize pond design and species
 selection for maximum productivity and system stability.
 

@@ -16,7 +16,7 @@ type: entity
 
 ## Overview
 
-Stropharia rugoso-annulata, commonly called King Stropharia or the
+[[stropharia]] rugoso-annulata, commonly called [[king-stropharia]] or the
 Garden Giant, is a large [[pleurotus-eryngii]]
 - [[stropharia-caerulea]]
 ## Practical Applications

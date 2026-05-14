@@ -1,5 +1,5 @@
 ---
-title: Oxidative Phosphorylation and [[electron-transport-chain-mitochondrial-respiration]]
+title: "Oxidative Phosphorylation Mitochondrial Respiration"
 type: concept
 aliases: [OXPHOS, oxidative phosphorylation, electron transport chain, ETC, ATP synthase, chemiosmotic theory, proton motive force, respiratory chain]
 tags: [biochemistry, cell-biology, metabolism, mitochondria, ATP, bioenergetics, respiration, electron-transport, enzymology]
@@ -36,7 +36,7 @@ ATP synthase harnesses the proton gradient to synthesize ATP from ADP + Pi. The 
 
 ## Electron Flow and Mobile Carriers
 
-NADH enters at Complex I; FADH₂ enters at Complex II (from succinate), ETF-ubiquinone oxidoreductase (from β-oxidation), or glycerol-3-phosphate dehydrogenase. Both pathways converge at ubiquinone (CoQ10), a lipid-soluble mobile carrier diffusing within the IMM. Electrons then flow: Complex III → cytochrome c (12 kDa water-soluble hemoprotein in the intermembrane space) → Complex IV → O₂.
+NADH enters at Complex I; FADH₂ enters at Complex II (from succinate), ETF-ubiquinone oxidoreductase (from β-oxidation), or [[glycerol]]-3-phosphate dehydrogenase. Both pathways converge at ubiquinone (CoQ10), a lipid-soluble mobile carrier diffusing within the IMM. Electrons then flow: Complex III → cytochrome c (12 kDa water-soluble hemoprotein in the intermembrane space) → Complex IV → O₂.
 
 ## Proton Motive Force and ATP Yield
 

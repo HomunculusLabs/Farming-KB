@@ -145,4 +145,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[2c-o-4-entity]]
 - [[4-ho-dbt-entity-tihkal]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
-- [[pyrethrum-entity]]
+- [[pyrethrum]]

@@ -31,11 +31,11 @@ The principle here is what Mollison calls the **nuclear approach**: developing s
 
 ### The Function of Wild Animals
 
-A central tenet of Mollison's Zone Three philosophy is that wild animals perform essential ecological functions that would otherwise require human labor. Rather than viewing wildlife as pests to be excluded, the permaculture designer seeks to integrate animals into productive roles:
+A central tenet of Mollison's Zone Three philosophy is that wild animals perform essential [[fungal-melanin-biosynthesis-ecological-functions]] that would otherwise require human labor. Rather than viewing wildlife as pests to be excluded, the permaculture designer seeks to integrate animals into productive roles:
 
 - **Wallabies** serve as lawnmowers, maintaining grass at productive heights
 - **Deer** act as sumac pruners, stimulating growth through browsing pressure
-- **Squirrels** function as acorn gatherers, aiding in seed dispersal and orchard establishment
+- **Squirrels** function as acorn gatherers, aiding in seed dispersal and [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 
 This functional view of wildlife transforms the designer's relationship with animal populations from adversarial to symbiotic.
 
@@ -58,7 +58,7 @@ The permaculture alternative to exclusionary practices is the design of **guarde
 
 Mollison advocates for working with existing wetland systems rather than draining them. A key example is the transformation of marsh areas into productive lake-edge systems. Rather than draining wetlands for conventional agriculture, the designer can create "swan-wombat lawns" — managed edges where large waterfowl and native grazers maintain productive grassland zones naturally.
 
-This approach recognizes that marshes and lakes are among the most productive ecosystems on Earth, and that their edge zones offer exceptional opportunities for food production, wildlife habitat, and [[water-management]] when designed thoughtfully.
+This approach recognizes that marshes and lakes are among the most productive ecosystems on Earth, and that their edge zones offer exceptional opportunities for food production, [[hemenway-backyard-wildlife-habitat]], and [[water-management]] when designed thoughtfully.
 
 ## Extrinsic Energy Management
 
@@ -75,7 +75,7 @@ Zone Three design must account for **extrinsic energies** — forces originating
 Mollison treats wind not merely as a destructive force but as a design resource. Specific applications include:
 
 - **Wind-powered heating**: A vertical-axis windmill connected to a water-stirring mechanism can heat water through mechanical agitation, converting wind energy directly into thermal energy
-- **Wind-powered cooling**: A "wind dodger" — a structure designed to channel wind across evaporative wicks — provides passive cooling without electrical input
+- **Wind-powered cooling**: A "wind dodger" — a structure designed to channel wind across evaporative wicks — provides [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]] without electrical input
 
 ### Fire-Immune Design Elements
 
@@ -88,7 +88,7 @@ For sites in fire-prone regions, Mollison recommends incorporating fire-immune e
 
 ### Windbreak Design
 
-Windbreaks in Zone Three can be designed using marsh species, which offer advantages including rapid growth, low maintenance, and habitat creation. Marsh species windbreaks serve multiple functions simultaneously: wind reduction, wildlife habitat, water filtration, and biomass production.
+Windbreaks in Zone Three can be designed using marsh species, which offer advantages including rapid growth, low maintenance, and [[amphibian-habitat-creation]]. Marsh species windbreaks serve multiple functions simultaneously: wind reduction, wildlife habitat, water filtration, and biomass production.
 
 ## View Conflicts and Site Design
 
@@ -126,4 +126,4 @@ Zone Three falls primarily into the second category. Its value lies not in maxim
 
 ## Summary
 
-Zone Three represents the permaculture principle of working with natural systems rather than against them. By integrating wildlife as functional components, leveraging extrinsic energies as resources, resolving design conflicts through spatial separation, and planning for temporal evolution, the Zone Three designer creates resilient, low-maintenance productive landscapes that improve with age.
+Zone Three represents the [[permaculture-principle-1-observe-interact]] of working with natural systems rather than against them. By integrating wildlife as functional components, leveraging extrinsic energies as resources, resolving design conflicts through spatial separation, and planning for temporal evolution, the Zone Three designer creates resilient, low-maintenance productive landscapes that improve with age.

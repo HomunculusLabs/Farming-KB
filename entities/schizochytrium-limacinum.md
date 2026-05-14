@@ -44,7 +44,7 @@ Reproduction occurs through zoospore release or binary fission. Zoospores posses
 
 ## Biochemical Composition
 
-*S. limacinum* accumulates DHA at levels of 30–50% of total fatty acids, with total lipid content reaching 40–70% of dry biomass under optimized fermentation conditions. DHA is the predominant omega-3 fatty acid, with minimal EPA co-production.
+*S. limacinum* accumulates DHA at levels of 30–50% of total [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], with total lipid content reaching 40–70% of dry biomass under optimized fermentation conditions. DHA is the predominant omega-3 fatty acid, with minimal EPA co-production.
 
 The species produces DHA via a polyketide synthase (PKS) pathway rather than the conventional fatty acid desaturase-elongase pathway used by most eukaryotes. This PKS system enables very high DHA flux and yields.
 
@@ -54,15 +54,15 @@ Industrial cultivation uses fed-batch fermentation in stirred-tank bioreactors r
 
 Fermentation runs typically last 48–96 hours, reaching biomass densities of 50–200 g/L dry weight.
 
-This is orders of magnitude higher than photoautotrophic microalgal cultivation, giving *S. limacinum* a decisive economic advantage in terms of land use and production volume.
+This is [[event-classification-and-orders-of-magnitude]] higher than photoautotrophic microalgal cultivation, giving *S. limacinum* a decisive economic advantage in terms of land use and production volume.
 
 Downstream processing involves cell harvesting by centrifugation, lipid extraction (hexane or supercritical CO2), and DHA purification via molecular distillation or urea complexation.
 
 ## Applications
 
-**Infant formula:** Algal DHA from *S. limacinum* is added to virtually all premium infant formula products worldwide. DHA and ARA (arachidonic acid, from *[[mortierella-alpina]]*) are combined to mimic the fatty acid profile of human breast milk.
+**Infant formula:** Algal DHA from *S. limacinum* is added to virtually all premium infant formula [[regulatory-frameworks-for-medicinal-mushroom-products-worldwide]]. DHA and ARA (arachidonic acid, from *[[mortierella-alpina]]*) are combined to mimic the fatty acid profile of human breast milk.
 
-**Dietary supplements:** DHA oil is marketed in softgel capsules and liquid formulations for cardiovascular, cognitive, and prenatal health. Algal DHA is the preferred source for vegetarians and individuals concerned about ocean contaminants in fish oil.
+**[[functional-foods-and-dietary-supplements-from-medicinal-mushrooms]]:** DHA oil is marketed in softgel capsules and liquid formulations for cardiovascular, cognitive, and prenatal health. Algal DHA is the preferred source for vegetarians and individuals concerned about ocean contaminants in fish oil.
 
 **Aquaculture feed:** DHA-rich biomass and oil are incorporated into rotifer enrichment media and larval fish feeds. Adequate dietary DHA is critical for normal neural and visual development in marine fish larvae.
 
@@ -74,8 +74,8 @@ Downstream processing involves cell harvesting by centrifugation, lipid extracti
 
 Thraustochytrids including *S. limacinum* are widespread in marine and estuarine environments worldwide. They colonize decaying plant material, algal detritus, and sediment surfaces in coastal habitats.
 
-They play a significant role in marine microbial food webs as decomposers of complex organic matter and as DHA-rich food sources for zooplankton and benthic invertebrates.
+They play a significant role in marine microbial food webs as decomposers of complex [[savory-soil-organic-matter-and-decomposition-dynamics]] as DHA-rich food sources for zooplankton and benthic invertebrates.
 
-The ability to accumulate large lipid reserves rapidly may serve an ecological function in fluctuating coastal environments where nutrient pulses are followed by extended periods of scarcity.
+The ability to accumulate large lipid reserves rapidly may serve an [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] in fluctuating coastal environments where nutrient pulses are followed by extended periods of scarcity.
 
 ## Strain Improvement

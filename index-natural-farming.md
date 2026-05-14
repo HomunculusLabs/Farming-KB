@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**1100 pages**
+**1099 pages**
 
 ## A
 
@@ -1100,7 +1100,6 @@
 - [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
 - [[savory-holistic-resource-management-decision-framework]]
 - [[savory-holistic-resource-management-ecological-succession]]
-- [[savory-holistic-resource-management-fire-as-tool]]
 - [[savory-holistic-resource-management-mineral-cycle]]
 - [[savory-holistic-resource-management-overgrazing]]
 - [[savory-holistic-resource-management-water-cycle]]

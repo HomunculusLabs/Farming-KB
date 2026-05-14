@@ -54,57 +54,21 @@ known demonstration sites, in [[holmgren-observe-and-interact-detailed]]** — "
 10. **Use [[permaculture-principle-creatively-use-and-respond-to-change]]** — "Vision is not seeing things as
     they are but as they will be."
 
+
 ## See Also
 
-- [[permaculture-access-design]]
-- [[permaculture-almond-guide]]
-- [[permaculture-andean-subtropical-fruit-trees]]
-- [[permaculture-bee-forage-system]]
-- [[permaculture-beginners-guide-zones-and-sectors]]
-- [[permaculture-black-locust]]
-- [[permaculture-buckwheat]]
-- [[permaculture-built-environment-design]]
-- [[permaculture-catch-and-store-energy]]
-- [[permaculture-cattail]]
-- [[permaculture-chestnut-species-comprehensive-guide]]
-- [[permaculture-community-enterprises-and-self-reliance]]
-- [[permaculture-community-philosophy-and-social-structure]]
-- [[permaculture-core-principles]]
-- [[permaculture-crop-rotation]]
-- [[permaculture-design-criteria-and-implementation-priorities]]
-- [[permaculture-design-professional-practice]]
-- [[permaculture-diversity-resources-yield]]
-- [[permaculture-edge-effect-and-harmonics]]
-- [[permaculture-edge-theory-and-harmonics]]
-- [[permaculture-element-analysis-synergistic-design]]
-- [[permaculture-energy-hierarchy]]
-- [[permaculture-fennel]]
-- [[permaculture-fire-control-strategies]]
-- [[permaculture-hardware-manufacturing-and-communications]]
-- [[permaculture-history-timeline]]
-- [[permaculture-humid-landscapes-keypoint-keyline]]
-- [[permaculture-in-urban-areas]]
-- [[permaculture-mulberry]]
-- [[permaculture-observation-design]]
-- [[permaculture-pattern-recognition-in-design]]
-- [[permaculture-paulownia]]
-- [[permaculture-pistachio-guide]]
-- [[permaculture-polycultures]]
-- [[permaculture-poultry-orchard-integration]]
-- [[permaculture-resource-assessment-and-client-consultation]]
-- [[permaculture-settlement-siting-fire]]
-- [[permaculture-species-compendium-t-to-z]]
-- [[permaculture-species-selection-urban]]
-- [[permaculture-time-stacking-and-succession]]
-- [[permaculture-two-design-philosophy-and-landscape-principles]]
-- [[permaculture-two-species-compendium]]
-- [[permaculture-village-development-process]]
-- [[permaculture-vine-crops]]
-- [[permaculture-walnut-species-timber-nut-production]]
-- [[permaculture-wattles]]
-- [[permaculture-willow-guide]]
-- [[permaculture-wind-fire-sun-and-sector-planning]]
-- [[permaculture-zones-three-through-five]]
+- [[permaculture-appropriate-technology-design]]
+- [[permaculture-care-earth-biodiversity-limits]]
+- [[permaculture-community-legal-structures]]
+- [[permaculture-cycles-mollison]]
+- [[permaculture-designers-manual-settlement-types]]
+- [[permaculture-diversity-and-stability]]
+- [[permaculture-groundnut]]
+- [[permaculture-hops]]
+- [[permaculture-plants-climbers-and-vines]]
+- [[permaculture-taro-guide]]
+- [[permaculture-urban-design-apartments-balconies]]
+- [[permaculture-village-enterprises-and-recycling]]
 
 ## Overview
 
@@ -147,15 +111,3 @@ Different geographic regions present unique challenges and
 opportunities for permaculture. Climate adaptation
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-permaculture and its applications. Active investigation

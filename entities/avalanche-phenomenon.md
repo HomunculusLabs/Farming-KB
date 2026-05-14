@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-An [[avalanche]] is a rapid flow of snow down a sloping surface, representing one of the most powerful and destructive natural phenomena in mountainous and cold-climate regions. Avalanches can incorporate not only snow but also mud, boulders, clay, and vegetation, generating forces that destroy forests, infrastructure, and buildings across their path. Mollison provides extensive technical coverage of avalanche mechanics, drawing heavily on G.M. Kuaeva's 1975 research on the Greater Caucasus, and integrates this knowledge into cold-climate [[permaculture-design-principles]].
+An avalanche phenomenon is a rapid flow of snow down a sloping surface, representing one of the most powerful and destructive natural phenomena in mountainous and cold-climate regions. Avalanches can incorporate not only snow but also mud, boulders, clay, and vegetation, generating forces that destroy forests, infrastructure, and buildings across their path. Mollison provides extensive technical coverage of avalanche mechanics, drawing heavily on G.M. Kuaeva's 1975 research on the Greater Caucasus, and integrates this knowledge into cold-climate [[permaculture-design-principles]].
 
 ## Classification
 
@@ -75,11 +75,11 @@ Effective avalanche defence operates at multiple scales:
 
 ## Relevance to Site Design
 
-In [[permaculture-design]] for cold climates, avalanche risk assessment is a fundamental site selection criterion. Structures, gardens, and animal systems must be located outside mapped avalanche paths and runout zones. The integration of forest preservation on upper slopes with settlement in valley floors provides both avalanche protection and productive land use, reflecting the [[permaculture]] principle of working with natural patterns rather than attempting to engineer against them.
+In [[permaculture-design]] for [[query-best-kiwifruit-varieties-for-cold-climates]], avalanche risk assessment is a fundamental [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]] criterion. Structures, gardens, and animal systems must be located outside mapped avalanche paths and runout zones. The integration of forest preservation on upper slopes with settlement in valley floors provides both avalanche protection and productive land use, reflecting the [[permaculture]] principle of working with [[natural-patterns-in-permaculture-design]] rather than attempting to engineer against them.
 
 ### Snow Crust and Stability
 
-The solar radiation crust that forms on snow surfaces plays a critical role in slope stability. This crust is a seasonal protection only, breaking up when iced or shattered by wind. Understanding crust formation and degradation helps predict avalanche timing:
+The [[albedo-and-solar-radiation]] crust that forms on snow surfaces plays a critical role in slope stability. This crust is a seasonal protection only, breaking up when iced or shattered by wind. Understanding crust formation and degradation helps predict avalanche timing:
 
 - Crust forms during clear, calm periods when solar radiation melts and refreezes surface snow
 - Crust degradation occurs during warm, humid, or windy conditions
@@ -91,7 +91,7 @@ The solar radiation crust that forms on snow surfaces plays a critical role in s
 Avalanche risk directly influences zone planning in cold-climate permaculture:
 
 - Zone 0 (dwelling): Must be located in verified safe zones outside any avalanche path or runout zone
-- Zone 1 (intensive garden): Also requires safe location, as year-round access is essential
+- Zone 1 ([[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]): Also requires safe location, as year-round access is essential
 - Zone 2-3 (orchard, pasture): Can extend toward but not into avalanche-prone slopes
-- Zone 4-5 (forest, wilderness): May overlap with avalanche terrain; forest management here serves dual purposes of production and avalanche defence
+- Zone 4-5 (forest, wilderness): May overlap with avalanche terrain; [[forest-management-strategies]] here serves dual purposes of production and avalanche defence
 - Access roads: Must provide year-round connectivity, requiring protection or routing away from avalanche chutes

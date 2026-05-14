@@ -141,16 +141,9 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of oyster brown blotch disease into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-
 ## See Also
 
 - [[oyster-green-mold-disease]]
 - [[oyster-growing-house-types]]
+- [[oyster-mushroom-cultivation-pleurotus]]
 - [[oyster-mushroom-viral-disease-omiv-isometric-virus-prevention]]

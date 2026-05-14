@@ -75,7 +75,7 @@ When direct seeding, Solomon recommends sowing several seeds per station (3-5 fo
 - [[vegetable-transplanting-and-hardening-off]]
 
 - [[solomon-row-covers-and-season-extension]]
-- Raised Beds vs. [[solomon-raised-beds]] Vs Double Digging
+- Raised Beds vs. [[solomon-raised-beds]] Vs [[double-digging]]
 
 ## Overview
 

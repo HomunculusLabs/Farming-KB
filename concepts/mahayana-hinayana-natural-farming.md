@@ -68,7 +68,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Mahayana Hinayana Natural Farming. These include both technical difficulties and broader systemic
+[[fukuoka-textdoc-mahayana-hinayana-natural-farming-path]] Farming. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.

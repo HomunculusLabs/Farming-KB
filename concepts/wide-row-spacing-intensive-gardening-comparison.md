@@ -1,7 +1,7 @@
 ---
 title: Wide-Row Spacing vs solomon-wide-spacing-versus-intensive-gardening-debate
 source: Gardening When It Counts - steve-solomon
-source_author: Steve Solomon
+source_author: [[steve-solomon]]
 tags: [gardening, spacing, intensive, water-efficiency, vegetable-production]
 created: 2026-05-08
 ---
@@ -10,7 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-The debate between wide-row spacing (traditional row gardening) and
+The debate between wide-row spacing (traditional [[row-gardening-vs-intensive-methods-solomon]]) and
 intensive raised-bed systems represents one of the most significant
 divisions in [[comparison-biointensive-vs-square-foot-gardening]] of bed, but per gallon
 of water, per pound of fertilizer, per hour of labor? Solomon argues
@@ -38,7 +38,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

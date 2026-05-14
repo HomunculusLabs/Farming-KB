@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-village-development-and-trust-structures]] Legal Structures
+title: "Village Development Legal Structures"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

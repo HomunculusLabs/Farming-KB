@@ -34,7 +34,7 @@ To be rubbed with the "Holy Plant" was to receive divine knowledge. The Christia
 - [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the [[african-mushroom-cult-history]]. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
 
 The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[allegro-man-child-born-virgin-thunder-fertilization-anointing]]
-- [[shamanism]]
+- shamanism
 - [[spore]]
 
 ## Overview

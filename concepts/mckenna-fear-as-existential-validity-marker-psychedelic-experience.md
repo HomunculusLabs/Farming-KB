@@ -1,5 +1,5 @@
 ---
-title: "Mckenna Fear As Existential Validity Marker [[leary-psychedelic-experience-bardo-mapping]]"
+title: "Mckenna Fear As Existential Validity Marker Psychedelic Experience"
 source: tryptamine-hallucinogens-and-consciousness.md
 tags:
   - fear

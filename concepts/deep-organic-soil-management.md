@@ -26,7 +26,7 @@ The advantages of minimum tillage in a deep-organic system are significant:
 
 1. **Mycorrhizal preservation**: Tillage severs and buries the hyphal networks of mycorrhizal fungi. These fungi extend the effective root zone of crops by 10–100x, improving access to water and phosphorus. Once established, mycorrhizal networks can persist for years if not disrupted by tillage.
 2. **Soil structure maintenance**: The crumb structure created by fungal glomalin and bacterial exopolysaccharides is the basis of good tilth. [[forest-and-bamboo-beneficial-microorganisms]]. Applied every 2–3 weeks during the growing season.
-- **Leaf mold**: Decomposed tree leaves, high in fungal biomass. Particularly valuable for building the fungal component of [[the-soil-food-web]], which is important for perennial crops and woody-stemmed vegetables.
+- **Leaf mold**: Decomposed tree leaves, high in fungal biomass. Particularly valuable for building the fungal component of [[soil-food-web]], which is important for perennial crops and woody-stemmed vegetables.
 
 ## Compost Production
 

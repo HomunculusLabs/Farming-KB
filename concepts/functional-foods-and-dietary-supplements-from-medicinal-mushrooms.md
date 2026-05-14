@@ -31,7 +31,7 @@ Functional foods come under many names: dietary supplements, nutraceuticals, med
 ## Mushroom Cultivation
 
 ### Commercial Scale
-About 35 mushroom species cultivated commercially, ~20 on industrial scale. Most are both edible and possess medicinal properties. Cultivation involves: strain selection and maintenance, [[spawn-production]], mushroom production (log culture and enriched sawdust culture), crop management. Mycelium production by liquid tank fermentation increasingly used for uniform medicinal products.
+About 35 mushroom species cultivated commercially, ~20 on industrial scale. Most are both edible and possess medicinal properties. Cultivation involves: strain [[solomon-garden-tools-selection-and-maintenance]], [[spawn-production]], mushroom production (log culture and enriched sawdust culture), crop management. Mycelium production by liquid tank fermentation increasingly used for uniform medicinal products.
 
 ## Main Medicinal Mushroom Species
 
@@ -41,18 +41,18 @@ About 35 mushroom species cultivated commercially, ~20 on industrial scale. Most
 | **Lentinus edodes** | Shiitake | Lentinan production; immune modulation |
 | **[[auricularia-auricula]]** | Wood Ear | Anticoagulant, cholesterol-lowering |
 | **Hericium erinaceus** | Lion's Mane | Neuroprotective, nerve growth factor stimulation |
-| **Grifola frondosa** | Maitake | Grifron-D; immunomodulatory |
-| **Flammulina velutipes** | Enoki | Antitumour polysaccharides |
+| **[[grifola-frondosa]]** | Maitake | Grifron-D; immunomodulatory |
+| **[[flammulina-velutipes]]** | Enoki | Antitumour polysaccharides |
 | **Pleurotus ostreatus** | Oyster Mushroom | Statin compounds, immune modulation |
-| **Tremella fuciformis** | Snow Fungus | Moisture retention, immunomodulation |
+| **[[tremella-fuciformis]]** | Snow Fungus | Moisture retention, immunomodulation |
 
 ### Non-Edible (Purely Medicinal)
 | Species | Common Name | Key Properties |
 |---------|-------------|----------------|
 | **Ganoderma lucidum** | Reishi / Ling Zhi | Most revered medicinal mushroom in TCM |
 | **Trametes versicolor** | Turkey Tail | PSK and PSP production |
-| **Phellinus linteus** | Meshima | Antitumour, anti-inflammatory |
-| **Schizophyllum commune** | Split Gill | Schizophyllan production |
+| **[[phellinus-linteus]]** | Meshima | Antitumour, anti-inflammatory |
+| **[[schizophyllum-commune]]** | Split Gill | Schizophyllan production |
 
 ### Non-Mushroom Fungus
 | Species | Common Name | Key Properties |

@@ -148,24 +148,3 @@ Advantages:
 ## Agaricus bisporus as Model
 
 "The cultivation of Agaricus bisporus is an outstanding example of a biotechnological enterprise that challenges the combined skills of industrial and biological technologies."
-
-Achieved pre-eminence due to:
-- Solid foundation in basic scientific research (genetics, physiology, biochemistry)
-- Bioprocess technology
-- Modern management principles
-- Specialized equipment and advanced engineering technology
-
-"Much fundamental knowledge has been acquired in recent years which will be of considerable value for other cultivations."
-
-## Future Directions
-
-### China's Dominant Role
-"At least 10 new species of edible or medicinal mushrooms have been brought into cultivation in China in recent years." China invests heavily in:
-- Fermenter technology for mycelial production
-- Methods for cultivating currently uncultivatable species
-- Expanding pharmaceutical applications
-
-### Convergence of Food and Medicine
-"Because of their historical background in the use of wild mushrooms, both as food and in Chinese traditional medicines, it is to be expected that China will continue to develop methods for cultivation of an increasing number of, as yet, uncultivatable mushrooms for medicinal exploitation."
-
-The traditional acceptance of mushrooms in herbal medicine and expanding pharmaceutical industries ensures continued development of medicinal mushroom technology.

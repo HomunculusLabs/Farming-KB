@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Tortula muralis, commonly known as wall screw-moss, is a saxicolous acrocarpous moss in the family Pottiaceae. It is one of the most frequently encountered mosses on walls, paving stones, and concrete surfaces throughout temperate regions.
+Tortula muralis, commonly known as wall screw-moss, is a saxicolous acrocarpous moss in the family Pottiaceae. It is one of the most frequently encountered mosses on walls, paving stones, and concrete surfaces throughout [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 The species is instantly recognizable by its distinctive capsule, which remains attached to the seta long after spore release. The empty capsule, with its elongated neck and contracted mouth, resembles a miniature urn or amphora.
 
@@ -50,7 +50,7 @@ This persistent capsule is the origin of several of the species' common names, i
 
 T. muralis has a widespread distribution across Europe, [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], occurring in southeastern Australia, New Zealand, and parts of South America.
 
-The species is considered native to Europe and western Asia but has been spread globally through human-mediated dispersal on building stone and horticultural materials. Its introduction history in the Southern Hemisphere dates to the colonial period.
+The species is considered native to Europe and western Asia but has been spread globally through human-mediated dispersal on building stone and horticultural materials. Its introduction history in the [[guzman-allen-gartz-northern-southern-hemisphere-mycobiota-convergence-mexico]] dates to the colonial period.
 
 The species is overwhelmingly saxicolous, occurring on brick walls, concrete, mortar, limestone, and sandstone. It is among the most common mosses of [[savory-growing-season-and-non-growing-season-management]].
 
@@ -81,7 +81,7 @@ Respiratory metabolism resumes within minutes of rehydration, preceding the reco
 ## Overview
 
 Tortula Muralis represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tortula Muralis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -110,7 +110,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 tortula muralis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

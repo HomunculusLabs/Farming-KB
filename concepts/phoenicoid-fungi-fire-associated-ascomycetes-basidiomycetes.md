@@ -26,7 +26,7 @@ on steam-sterilized soil in greenhouses.
 ### Abiotic Factors
 
 - Soil heating stimulates some species to fruit
-- Changes in soil pH after fire trigger others
+- Changes in [[soil-ph]] after fire trigger others
 - Sporocarp production in undisturbed forest soils can be stimulated by
   lime application (mimicking ash effects)
 

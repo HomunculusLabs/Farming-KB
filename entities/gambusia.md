@@ -77,3 +77,10 @@ In permaculture design, gambusia informs
 decisions about system layout, species selection, and
 management strategies. Proper integration enhances overall
 system resilience and productive capacity.
+
+## Habitat and Distribution
+
+- Preferred soil types and moisture conditions
+- Depth distribution in soil profile
+- Geographic range and climate adaptation
+- Seasonal population dynamics and fluctuations

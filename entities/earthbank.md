@@ -147,27 +147,3 @@ For a $100 investment, Mollison suggests:
   with the conservation priority
 
 ## The Three Audits Applied to Cultivation
-
-1. **Economic:** Does the mushroom operation cover its costs and generate sustainable returns?
-2. **Ethical (Iroquois):** Does it provide nutritious food, meaningful work, and community
-   benefit without exploiting people or resources?
-3. **Resource (Life Increase):** Does it increase biological capital (soil health, forest
-   productivity, biodiversity) or merely extract resources?
-
-## Active vs Passive Investment
-
-Mollison strongly encourages active over passive investment:
-
-- **Active:** Investors are also residents, builders, primary producers, or suppliers
-- **Passive:** Investors fund projects without personal involvement
-- **Best practice:** Investors should use, assist in, and consume the products they invest in
-- **Earthbank ideal:** Person-to-person introduction between investors and producers,
-  including "investment parties" where funders meet the people they're supporting
-
-## References
-
-- Mollison, Bill. *Permaculture: A Designer's Manual.* Chapter 14, Section 14.13
-  (An Ethical Investment Movement). Pages 551-554.
-- Permaculture Institute (1983) -- origin of Earthbank concept
-- E. F. Schumacher group seminars (USA, 1983) -- inspiration
-- TOES (The Other Economic Summit) -- UK annual conference model

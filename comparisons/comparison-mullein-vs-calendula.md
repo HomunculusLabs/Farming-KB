@@ -38,13 +38,12 @@ depths.
 Both herbs are safe for beginners, widely available as seed, and forgiving
 of poor soil conditions — growing them together covers respiratory and
 skin needs from a single garden bed.
+
 ## See Also
 
-- [[comparison-arnica-vs-calendula]] — Comparing calendula with arnica
-  for external applications
-- [[comparison-nettle-vs-comfrey]] — Comfrey is another wound-healing
-  herb often compared with calendula
-- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] roles
+- [[comparison-mullein-vs-ashwagandha]]
+- [[comparison-mullein-vs-echinacea]]
+- [[comparison-mullein-vs-valerian]]
 
 ## Overview
 

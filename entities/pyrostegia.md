@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Pyrostegia is a genus of vigorous evergreen climbing vines in the Bignoniaceae family, most notably represented by *Pyrostegia venusta* (syn. P. ignea), the flame vine or golden shower vine. Native to tropical and subtropical South America, it is widely cultivated for its spectacular displays of brilliant orange tubular flowers. Mollison recommends Pyrostegia as a perennial non-invasive vine that can be run completely across rooftops for climate moderation in desert homes, and as a cooling vine for western aspects of buildings.
+Pyrostegia is a genus of vigorous evergreen climbing vines in the Bignoniaceae family, most notably represented by *Pyrostegia venusta* (syn. P. ignea), the flame vine or golden shower vine. Native to tropical and subtropical [[guzman-psilocybin-mushrooms-south-america]], it is widely cultivated for its spectacular displays of brilliant orange tubular flowers. Mollison recommends Pyrostegia as a perennial non-invasive vine that can be run completely across rooftops for climate moderation in desert homes, and as a cooling vine for western aspects of buildings.
 
 ## Classification
 
@@ -29,7 +29,7 @@ Pyrostegia is a genus of vigorous evergreen climbing vines in the Bignoniaceae f
 - Extremely vigorous growth; can cover large structures rapidly
 - Moderately drought-tolerant once established
 - Prefers full sun to partial shade and well-drained soils
-- Hardy to light frost; performs best in frost-free subtropical and tropical climates
+- Hardy to light frost; performs best in frost-free subtropical and [[fukuoka-natural-farming-tropical-climates]]
 - Attracts hummingbirds and other nectar-feeding birds
 
 ## Role in Permaculture Design
@@ -59,14 +59,14 @@ Pyrostegia exemplifies the [[vetiver-grass]] - ground-level companion for coolin
 
 ## Pruning and Maintenance
 
-Pyrostegia requires specific management to maintain its dual ornamental and functional roles:
+Pyrostegia requires specific management to maintain its dual ornamental and [[hemenway-mulch-makers-and-plant-functional-roles]]:
 
 - Major pruning immediately after the winter-spring flowering period
 - Remove dead, diseased, and crossing stems to maintain airflow
 - Thin excessive growth to prevent self-shading and reduce structural load on trellis
 - Shorten lateral branches to encourage dense canopy for optimal shade
 - Avoid pruning in late summer-autumn to preserve flowering wood for the next season
-- Root pruning can control overly vigorous plants in confined spaces
+- [[cervantes-root-pruning-rootbound-management]] can control overly vigorous plants in confined spaces
 
 ## Climate Adaptation
 
@@ -75,8 +75,8 @@ While Pyrostegia is subtropical, it has shown adaptability:
 - Grows well in Mediterranean climates with warm, dry summers
 - Tolerates coastal conditions including salt-laden winds
 - Performs best above 10C; suffers leaf damage below 2-3C
-- In marginal frost zones, plant against warm north-facing walls (southern hemisphere: north-facing)
-- Established plants recover from light frost damage within a single growing season
+- In marginal frost zones, plant against warm north-facing walls ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]: north-facing)
+- Established plants recover from light frost damage within a single [[extending-growing-season]]
 - In desert applications, protection from hot dry winds during establishment is beneficial
 
 ## See Also

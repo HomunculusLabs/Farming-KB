@@ -17,7 +17,7 @@ John Allegro's central philological discovery is that the principal god-names of
 ## Connections to Contemporary Research
 
 Modern research into the therapeutic potential of psychedelics, documented in sources like [[john-allegro]]
-- [[shamanism]]
+- shamanism
 - [[mystical-experience]]
 
 ## Overview

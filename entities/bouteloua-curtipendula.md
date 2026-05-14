@@ -22,7 +22,7 @@ sources:
 
 The species is valued as a native forage grass, an ornamental landscape plant, and a key component of [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
-The species is primarily a decumbent to erect bunchgrass, though some ecotypes produce short rhizomes that allow limited lateral spread. Under grazing pressure, plants typically assume a more prostrate growth form.
+The species is primarily a decumbent to erect bunchgrass, though some ecotypes produce short rhizomes that allow limited lateral spread. Under [[gadd-mycelial-network-resilience-grazing-pressure]], plants typically assume a more prostrate growth form.
 
 Sideoats grama is a diploid species with 2n = 2x = 40 chromosomes, though some polyploid populations have been documented. The base chromosome number of x = 20 is shared with other members of the genus.
 
@@ -67,7 +67,7 @@ The species responds well to moderate nitrogen fertilization in forage plantings
 ## Overview
 
 Bouteloua Curtipendula represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -88,7 +88,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Bouteloua Curtipendula finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -96,13 +96,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for bouteloua curtipendula. Climate adaptation
+opportunities for bouteloua curtipendula. [[permaculture-climate-adaptation]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -117,7 +117,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 bouteloua curtipendula and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

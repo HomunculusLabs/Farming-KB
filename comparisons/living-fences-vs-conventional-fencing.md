@@ -1,5 +1,5 @@
 ---
-title: Living living fences vs conventional fencing Fencing
+title: Living Fences Vs Conventional Fencing
 created: 2026-04-28
 tags:
   - fencing
@@ -14,16 +14,16 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - The Encyclopedia of hamilton-geoffhamilton-nick-organic-gardening-companion-planting, J.I. Rodale
-  - Restoration Agriculture, Mark Shepard
+  - Restoration Agriculture, [[mark-shepard]]
   - USDA Natural Resources Conservation Service: Hedgerow and Windbreak Technical Notes
-  - Permaculture: A Designers' Manual, Bill Mollison
+  - Permaculture: A Designers' Manual, [[bill-mollison]]
   - The Farming Handbook, Peter Nuthall
 type: comparison
 ---
 
 # Living Fences vs Conventional Fencing
 
-Fencing is one of the first infrastructure decisions a homesteader or farmer faces. While conventional fencing — wire, wood, electric, vinyl — dominates modern agriculture, living fences (hedges, hedgerows, and [[maclura-pomifera]]*) | Fast | 20–40 ft | Zones 4–9 | Thorny; rot-resistant wood; dense hedge |
+Fencing is one of the first infrastructure decisions a homesteader or farmer faces. While conventional fencing — wire, wood, electric, vinyl — dominates [[fukuoka-critique-modern-agriculture]], living fences (hedges, hedgerows, and [[maclura-pomifera]]*) | Fast | 20–40 ft | Zones 4–9 | Thorny; rot-resistant wood; dense hedge |
 | Blackthorn (*[[comparison-sea-buckthorn-vs-aronia]] (*[[caragana-arborescens]]
 ## Practical Applications
 
@@ -42,7 +42,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -92,7 +92,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.

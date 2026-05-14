@@ -1,11 +1,11 @@
 ---
-title: "Solar Food oss-oeric-drying-and-preservation-methods"
+title: Mollison Designers Solar Food Drying Preservation
 created: 2026-04-28
 tags:
-  - permaculture
+  - [[permaculture]]
   - solar-drying
   - food-preservation
-  - appropriate-technology
+  - [[appropriate-technology]]
   - solar-energy
 date: 2026-04-25
 updated: 2026-04-25
@@ -84,5 +84,5 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.

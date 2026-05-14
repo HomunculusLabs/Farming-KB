@@ -8,11 +8,11 @@ type: concept
 
 ## Overview
 
-Branching is one of the most pervasive patterns in natural systems, observable in trees, river networks, blood vessels, lungs, lightning strikes, root systems, and lava flows. In [[permaculture]] garden design, these principles translate directly:
+Branching is one of the most pervasive patterns in natural systems, observable in trees, river networks, blood vessels, lungs, lightning strikes, root systems, and lava flows. In [[permaculture]] [[community-garden-design]], these principles translate directly:
 
-- **"Many paths"** are needed in home gardens where nutrient trading is the main activity
+- **"Many paths"** are needed in [[desert-home-gardens]] where nutrient trading is the main activity
 - There is little advantage in straight-line paths (speed is not the essence); rather, **cul-de-sacs** or **keyhole-shaped beds** are preferred
-- Keyhole beds mirror the shape of alveoli in lungs—nature's optimized exchange surfaces
+- [[comparison-herb-spiral-vs-keyhole-beds]] mirror the shape of alveoli in lungs—nature's optimized exchange surfaces
 - Convoluted paths bring the gardener into better contact with the garden, enabling collection and servicing while creating better mutual exchange between species
 
 ### The Area Ratio Principle
@@ -67,14 +67,14 @@ The order of branching determines everything about the local environment:
 - **Middle-order streams**: Spiralling flow, less turbulence, moderate oxygenation; free-swimming, active fish with high oxygen demand
 - **Low-order estuaries**: Weak currents, low oxygenation; weak swimmers, flat fish (flounders), bulky molluscs, jellyfish
 
-The same principle applies to trees: birds and insects are confined to or modified to suit the orders of branching. Species, behavior, flow rates, and nutrient exchange all change with branch order.
+The same principle applies to trees: birds and insects are confined to or modified to suit the orders of branching. Species, behavior, flow rates, and [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] all change with branch order.
 
 ## Implications for Permaculture Design
 
 1. **Roads and trails** should follow branching principles, with many small paths rather than few large ones
 2. **Water systems** (swales, drains, irrigation) benefit from dendritic branching patterns
 3. **Settlement hierarchy** mirrors stream orders—villages stabilize at approximately 1,000 people
-4. **Dam spillways** and drainage cascades should respect the stable orders of branching
+4. **[[dam-spillways-and-sealing-leaky-dams]]** and drainage cascades should respect the stable orders of branching
 5. **Functional hierarchies** in human organizations should follow the 3:1 bifurcation ratio for information flow in both directions
 
 ## See Also

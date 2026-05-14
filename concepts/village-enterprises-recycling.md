@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-village-enterprises-and-recycling]] [[community-recycling-and-waste-recovery-systems]]
+title: "Village Enterprises Recycling"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

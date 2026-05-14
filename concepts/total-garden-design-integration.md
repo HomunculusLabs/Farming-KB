@@ -24,7 +24,7 @@ The front yard contains traditional or showy flowers, basic medicinals, pleasant
 
 Keyhole beds (circular with a path indentation for access) hold all preferred vegetables, especially greens. The nearest bed to the kitchen contains bulk culinary herbs. A small spiral herb bed sits beside the outdoor stove, and wet-area herbs grow in pots under the trellis in the pond zone (mint). Rare dry-area herbs may be near the front door.
 
-The rest of the G beds are carefully-planned seasonal vegetable crops. They are mulched from the hedge and the greywater treatment zone. Food scraps, ashes, mulch, shredded paper, and plant waste are incorporated in compost pits along with crop wastes and windbreak plant cuttings. The beds are always in production, full of plants.
+The rest of the G beds are carefully-planned [[seasonal-vegetable-planting]] crops. They are mulched from the hedge and the [[mollison-designers-greywater-treatment-reedbeds]] zone. Food scraps, ashes, mulch, shredded paper, and plant waste are incorporated in compost pits along with crop wastes and windbreak plant cuttings. The beds are always in production, full of plants.
 
 ### Zone H: Fukuoka-Style Grain Plot
 
@@ -74,7 +74,7 @@ The total garden design accepts all water and wastes of use—only plastic, glas
 ## Overview
 
 Total Garden Design Integration represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Total Garden Design Integration finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -103,7 +103,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 total garden design integration and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

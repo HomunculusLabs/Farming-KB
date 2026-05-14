@@ -69,7 +69,7 @@ Heimia salicifolia contains quinolizidine alkaloids, including:
 - **Nesidine** — a less well-characterized constituent
 - **Heimidine** — a minor alkaloid unique to the genus
 
-Cryogenine (vertine) is considered the main psychoactive alkaloid responsible for the plant's auditory-enhancing and euphoric effects. It is a quinolizidine alkaloid with a relatively uncommon structure among psychoactive plant compounds. The alkaloid content of the leaves is relatively low compared to many other psychoactive plants, which may explain the need for the traditional fermentation process to concentrate and activate the active principles.
+Cryogenine (vertine) is considered the main psychoactive alkaloid responsible for the plant's auditory-enhancing and euphoric effects. It is a quinolizidine alkaloid with a relatively uncommon structure among psychoactive plant compounds. The alkaloid content of the leaves is relatively low compared to many other psychoactive plants, which may explain the need for the traditional [[mushroom-compost-fermentation-process]] to concentrate and activate the active principles.
 
 ## Pharmacology
 

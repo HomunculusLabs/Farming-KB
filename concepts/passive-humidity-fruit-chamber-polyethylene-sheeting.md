@@ -1,5 +1,5 @@
 ---
-title: simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation Fruit Chamber with [[polyethylene-sheeting-fruiting-chamber-passive-humidity]]
+title: "Passive Humidity Fruit Chamber Polyethylene Sheeting"
 created: 2026-04-28
 tags:
   - mycology

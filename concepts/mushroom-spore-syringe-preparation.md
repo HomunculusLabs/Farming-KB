@@ -53,7 +53,7 @@ Before you can make a spore syringe, you need a spore print.
 - Small sterile jar or shot glass
 - Butane torch or alcohol lamp
 - Isopropyl alcohol (70%)
-- Still air box (SAB) or laminar flow hood
+- Still air box (SAB) or [[laminar-flow-hood]]
 
 ### Process
 

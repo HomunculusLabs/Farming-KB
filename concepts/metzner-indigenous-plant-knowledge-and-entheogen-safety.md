@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - metzner-entheogen-terminology-and-worldview-paradigms|metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+  - metzner-entheogen-terminology-and-worldview-paradigms|metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
 # metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous Plant Knowledge and Entheogen Safety

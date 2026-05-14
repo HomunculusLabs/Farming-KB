@@ -1,5 +1,5 @@
 ---
-title: "McKenna mckenna mushroom extraterrestrial symbiote hypothesis Symbiote Hypothesis"
+title: Mckenna Mushroom Extraterrestrial Symbiote Hypothesis
 source: "mckenna_t-tryptamines_consciousness.md"
 tags: [mckenna, mushroom, extraterrestrial, symbiote, stropharia-cubensis]
 created: 2026-05-08
@@ -31,7 +31,7 @@ The elegance of the strategy is that it requires no intentionality or technology
 
 ## Galactic Time Scales
 
-McKenna places the spore dispersal hypothesis within the context of galactic time scales to argue for its plausibility.
+McKenna places the spore [[spore-interstellar-dispersal-hypothesis]] within the context of galactic time scales to argue for its plausibility.
 The galaxy is roughly 100,000 light-years from edge to edge.
 If something were moving at only one one-hundredth the speed of light, it could cross the galaxy in one hundred million years.
 McKenna notes that life on Earth is 1.8 billion years old—eighteen times longer than one hundred million years.
@@ -70,12 +70,12 @@ This posture distinguishes McKenna from both naive believers and reflexive skept
 
 ## The Alternative: The Alienated Soul
 
-McKenna offers a counterpoint to his own extraterrestrial hypothesis.
+McKenna offers a counterpoint to his own [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]].
 He suggests that "the human soul is so alienated from us in our present culture that we treat it as an extraterrestrial."
 To us, he says, the most alien thing in the cosmos is the human soul itself.
 He notes that even if extraterrestrials arrived on Earth tomorrow, "the DMT trance would remain more weird and continue to hold more promise for useful information for the human future."
 This alternative reading frames the encounter not as contact with an independent alien intelligence but as a confrontation with dimensions of the human psyche rendered inaccessible by cultural conditioning.
-The two readings—extraterrestrial contact and encounter with the alienated soul—are not mutually exclusive.
+The two readings—[[extraterrestrial-contact-and-dmt-experience]] encounter with the alienated soul—are not mutually exclusive.
 McKenna seems to hold them in productive tension, allowing each to illuminate different aspects of the experience.
 
 ## Overview
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mckenna Mushroom Extraterrestrial Symbiote Hypothesis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mckenna mushroom extraterrestrial symbiote hypothesis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

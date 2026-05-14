@@ -26,7 +26,7 @@ sources:
 
 The species is endemic to a relatively restricted range in the interior Pacific Northwest and northern Rocky Mountains. Thermopsis rhodanthoides is distinguished from related species by its rose-pink to purplish flowers, a coloration unusual within the predominantly yellow-flowered genus. This distinctive floral pigmentation makes it one of the most recognizable members of the genus.
 
-The genus name Thermopsis is derived from the Greek "therme" (heat) and "opsis" (appearance), though the etymological reference is unclear. The common name "buckbean" is shared with several Thermopsis species and reflects the superficial resemblance of their trifoliolate leaves to those of Menyanthes trifoliata, the true buckbean.
+The genus name Thermopsis is derived from the Greek "therme" (heat) and "opsis" (appearance), though the etymological reference is unclear. The common name "buckbean" is shared with several Thermopsis species and reflects the superficial resemblance of their trifoliolate leaves to those of [[menyanthes-trifoliata]], the true buckbean.
 
 Thermopsis rhodanthoides typically grows 30–60 centimeters tall and produces erect racemes of showy pea-like flowers from late spring through mid-summer. The species is a component of montane and subalpine plant communities, often occurring on rocky slopes, talus fields, and open woodland margins at elevations of 1,200–2,800 meters.
 

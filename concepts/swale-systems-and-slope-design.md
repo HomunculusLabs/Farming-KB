@@ -18,11 +18,11 @@ Swales serve as powerful fire mitigation structures in forested or wooded landsc
 
 ## Swale Mulch Systems
 
-A key design insight in swale systems is the **reversal of the maturity-immaturity axiom**. In natural succession, mature systems tend to shed material downslope to feed immature ones. In a swale-based design, this relationship is deliberately inverted: trees planted **above** the swale (on the upslope side) are selected and managed to drop leaf litter and woody material directly into the swale trench. This mulch layer retains moisture, builds soil, and feeds the root zones of both the trees above and any plantings below. The swale becomes a biological engine that accelerates nutrient cycling.
+A key design insight in swale systems is the **reversal of the maturity-immaturity axiom**. In natural succession, mature systems tend to shed material downslope to feed immature ones. In a swale-based design, this relationship is deliberately inverted: trees planted **above** the swale (on the upslope side) are selected and managed to drop leaf litter and woody material directly into the swale trench. This mulch layer retains moisture, builds soil, and feeds the root zones of both the trees above and any plantings below. The swale becomes a biological engine that accelerates [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]].
 
 ## Gleying Technique for Sealing Ponds and Dams
 
-**Gleying** is the most effective and economical method for sealing pond bottoms and dam walls. The process involves placing 6 inches of fresh, green, sappy material (such as freshly cut grass, weeds, or aquatic vegetation) over the area to be sealed. This green layer is then covered with sand, old carpet, or plastic sheeting to exclude oxygen. Under anaerobic conditions, the material ferments into a dense, gelatinous, rubber-like compound that permanently seals the soil beneath it. Gleying works on virtually any substrate — clay, sand, or gravel — and once established, the seal is self-maintaining and long-lasting. Mollison considers gley the best solution for sealing dams, far superior to mechanical or chemical alternatives.
+**Gleying** is the most effective and economical method for sealing pond bottoms and dam walls. The process involves placing 6 inches of fresh, green, sappy material (such as freshly cut grass, weeds, or aquatic vegetation) over the area to be sealed. This green layer is then covered with sand, old carpet, or plastic sheeting to exclude oxygen. Under [[aact-ph-and-anaerobic-conditions]], the material ferments into a dense, gelatinous, rubber-like compound that permanently seals the soil beneath it. Gleying works on virtually any substrate — clay, sand, or gravel — and once established, the seal is self-maintaining and long-lasting. Mollison considers gley the best solution for sealing dams, far superior to mechanical or chemical alternatives.
 
 ### Bentonite as a Costly Alternative
 
@@ -42,7 +42,7 @@ Dams and ponds gain enormous ecological value when designed with biological stru
 
 - **Islands**: Provide nesting sites, refuge for waterfowl, and create varied microclimates within the pond.
 - **Barrier islands**: Positioned to break wind across the water surface, reducing evaporation and wave erosion.
-- **Peninsulas**: Extend land into the pond, increasing shoreline length and creating protected bays for different aquatic habitats.
+- **Peninsulas**: Extend land into the pond, increasing shoreline length and creating protected bays for different [[biodiversity-fungi-freshwater-aquatic-habitats]].
 - **Marsh shelves**: Shallow submerged ledges at 18 to 36 inches depth, ideal for growing wild rice and other emergent aquatic crops. These shelves provide critical foraging habitat for waterfowl and wading birds.
 - **Mud dams**: Earth embankments that create additional shallows and varied water depths, supporting greater biodiversity.
 
@@ -57,7 +57,7 @@ A pond placed on slope in front of a house serves multiple passive heating and p
 
 ## Greenhouse Attachment to Ponds
 
-Attaching a greenhouse to the uphill side of a pond creates a synergistic thermal system. The pond provides thermal mass and humidity regulation for the greenhouse, while the greenhouse structure can capture and direct additional warmth to the water. This combination extends growing seasons and reduces heating costs for protected cultivation.
+Attaching a greenhouse to the uphill side of a pond creates a synergistic thermal system. The pond provides thermal mass and humidity regulation for the greenhouse, while the greenhouse structure can capture and direct additional warmth to the water. This combination extends growing seasons and reduces heating costs for [[coleman-protected-cultivation]].
 
 ## Hot Water and Air Collectors on Slopes
 
@@ -81,14 +81,14 @@ This arrangement ensures each species occupies the microclimate niche best suite
 
 The overall slope design integrates multiple elements into a gravity-driven system:
 
-- **Barns and animal systems** are placed **above** the house and gardens, so manure, bedding, and wash water flow downhill to fertilize crops and orchards.
+- **Barns and animal systems** are placed **above** the house and gardens, so manure, bedding, and wash water flow downhill to fertilize [[mollison-designers-windbreak-configurations-for-crops-and-orchards]].
 - **Gravity flow water systems** eliminate the need for pumps — water moves from storage tanks at elevation down through the house, garden, and orchard zones.
 - **Fencing and roads** follow keyline and contour systems, minimizing erosion, reducing maintenance, and ensuring that water harvesting structures (swales, ponds) are accessed without crossing drainage lines.
 
 ## Key Design Principles
 
 1. Water on contour has no velocity — it soaks, it does not erode.
-2. Every element should serve multiple functions (a pond is a fire barrier, heat buffer, wildlife habitat, and irrigation source simultaneously).
+2. Every element should serve multiple functions (a pond is a fire barrier, heat buffer, [[hemenway-backyard-wildlife-habitat]], and irrigation source simultaneously).
 3. Slope is an asset, not a problem — gravity does the work of moving water, nutrients, and materials.
 4. Biological solutions (gleying, mulch systems) are preferred over mechanical or chemical interventions.
 5. Integration of structures (house, barn, greenhouse, pond, orchard) along the slope creates self-reinforcing systems that reduce external inputs.

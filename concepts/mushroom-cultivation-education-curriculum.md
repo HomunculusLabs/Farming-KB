@@ -6,7 +6,7 @@ type: concept
 
 # Mushroom Cultivation Education Curriculum
 
-Mushroom cultivation provides a rich, multidisciplinary platform for education across all age groups, from elementary school through college. Fungi are uniquely suited to classroom settings because they are safe to handle, grow quickly enough to observe meaningful changes, and connect to fundamental concepts in biology, ecology, chemistry, and environmental science. A well-structured mycology curriculum can engage students through hands-on experimentation while teaching critical thinking, scientific methodology, and environmental stewardship.
+[[mushroom-cultivation]] provides a rich, multidisciplinary platform for education across all age groups, from elementary school through college. Fungi are uniquely suited to classroom settings because they are safe to handle, grow quickly enough to observe meaningful changes, and connect to fundamental concepts in biology, ecology, chemistry, and environmental science. A well-structured mycology curriculum can engage students through hands-on experimentation while teaching critical thinking, scientific methodology, and environmental stewardship.
 
 ## Elementary Education (Grades K–4)
 
@@ -20,7 +20,7 @@ The "fruiting cups" lesson is a cornerstone of elementary mycology education. St
 
 ### Entomopathogenic Fungi Awareness
 
-Even young students can learn about entomopathogenic fungi—fungi that parasitize insects. The concept that certain fungi can colonize an insect's body, thread through its tissues, and even influence its behavior (effectively "steering" it like a remote control car) captivates students and introduces the idea that fungi play complex ecological roles beyond decomposition. This lesson connects to broader discussions about pest management and ecological balance.
+Even young students can learn about [[entomopathogenic-fungi]]—fungi that parasitize insects. The concept that certain fungi can colonize an insect's body, thread through its tissues, and even influence its behavior (effectively "steering" it like a remote control car) captivates students and introduces the idea that fungi play complex ecological roles beyond decomposition. This lesson connects to broader discussions about pest management and ecological balance.
 
 ### Mushroom Prints and Art
 
@@ -38,7 +38,7 @@ After a mushroom has fruited several times and exhausted its substrate, the myce
 
 ### Plate Contamination Observations
 
-Students prepare a series of agar plates sealed in ziplock bags to maintain purity. Plates may contain bacteria alone, fungi and bacteria on opposite sides, or fungi plated onto agar containing herbicides or fungicides. Students monitor the plates weekly, recording observations about growth patterns, inhibition zones, and competitive interactions. Oyster mushrooms, for example, are excellent at degrading chemical herbicides but may not grow well on fungicide-treated plates. Students can also expose uncultured agar plates briefly in different locations (classroom, bathroom, outdoors) to observe environmental microbial diversity, counting, describing, and drawing the different colonies that develop.
+Students prepare a series of agar plates sealed in ziplock bags to maintain purity. Plates may contain bacteria alone, fungi and bacteria on opposite sides, or fungi plated onto agar containing herbicides or fungicides. Students monitor the plates weekly, recording observations about growth patterns, inhibition zones, and competitive interactions. [[oyster-mushrooms]], for example, are excellent at degrading chemical herbicides but may not grow well on fungicide-treated plates. Students can also expose uncultured agar plates briefly in different locations (classroom, bathroom, outdoors) to observe environmental microbial diversity, counting, describing, and drawing the different colonies that develop.
 
 ### Waste Reduction Using Mushrooms
 
@@ -60,7 +60,7 @@ Students conduct controlled experiments with vegetable seeds known to form mycor
 
 ### Isolating and Cloning Fungi
 
-Students learn to create spore prints on aluminum foil, transfer spores to agar plates (with or without penicillin as a selective agent), and clone mushrooms from cap tissue. All transfers are performed in a laminar flow hood or near a Bunsen burner flame using sterilized instruments. Cultured plates are stored in labeled ziplock bags at room temperature or in an incubator (~75°F/24°C). Students monitor for mycelial growth and contamination, documenting their observations and explaining potential sources of contamination when it occurs.
+Students learn to create spore prints on aluminum foil, transfer spores to agar plates (with or without penicillin as a selective agent), and clone mushrooms from cap tissue. All transfers are performed in a [[laminar-flow-hood]] or near a Bunsen burner flame using sterilized instruments. Cultured plates are stored in labeled ziplock bags at room temperature or in an incubator (~75°F/24°C). Students monitor for mycelial growth and contamination, documenting their observations and explaining potential sources of contamination when it occurs.
 
 ### Space Lab: Enclosed Ecosystems
 
@@ -72,7 +72,7 @@ Students construct biological erosion control units in trays, combining ground c
 
 ### Oil Spill Remediation
 
-Using vegetable oil in a classroom aquarium, students simulate an oil spill. Shredded grass or straw absorbs the floating oil, and the oiled plant matter is layered between colonized cardboard sheets in bins. Over several weeks, students observe mycelial enzyme activity (visible as yellow metabolite droplets) breaking down the oil. Red wiggler worms added at intervals test the toxicity of the treated material. This experiment demonstrates how fungal extracellular enzymes cleave hydrocarbon molecules into smaller, more biodegradable units—a process that exploits the chemical similarity between hydrocarbons and lignin.
+Using vegetable oil in a classroom aquarium, students simulate an oil spill. Shredded grass or straw absorbs the floating oil, and the oiled plant matter is layered between colonized cardboard sheets in bins. Over several weeks, students observe mycelial enzyme activity (visible as yellow metabolite droplets) breaking down the oil. Red wiggler worms added at intervals test the toxicity of the treated material. This experiment demonstrates how [[fungal-extracellular-enzymes]] cleave hydrocarbon molecules into smaller, more biodegradable units—a process that exploits the chemical similarity between hydrocarbons and lignin.
 
 ## College Education (Ages 18+)
 

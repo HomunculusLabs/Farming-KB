@@ -9,7 +9,7 @@ type: concept
 > *"No man is an island, entire of itself; every man is a piece of the
 > continent."* — John Donne
 
-Natural swimming pools embody a core permaculture principle: human systems
+Natural swimming pools embody a core [[permaculture]] principle: human systems
 should integrate with ecological processes rather than oppose them. Mollison's
 central challenge is compelling — if fish cannot survive in a pool, should
 humans swim in it?
@@ -76,7 +76,7 @@ disposal, suited to arid and semi-arid climates:
 ## Productive Disposal
 
 The unifying principle is **productive disposal** — wastewater is a resource,
-not waste. Permaculture design closes nutrient and water loops by:
+not waste. [[permaculture-design]] closes nutrient and water loops by:
 
 - Using treated effluent to irrigate food-producing plants
 - Capturing methane energy from organic decomposition

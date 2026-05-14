@@ -22,7 +22,7 @@ All formulations contain the same basic propagule types -- spores and hyphal fra
 
 ### Seed Inoculation
 
-The best way to establish arbuscular mycorrhizae in agriculture is to inoculate seed just before planting, ensuring plants benefit from mycorrhizae from the first day after germination. Seeds can be rolled in granular or powdered formulations or sprayed with liquid formulas. Spraying seed with water first helps granular mixes adhere. This is the earliest possible point of contact and maximizes the duration of the symbiotic relationship.
+The best way to establish [[glomeromycota-arbuscular-mycorrhizae]] in agriculture is to inoculate seed just before planting, ensuring plants benefit from mycorrhizae from the first day after germination. Seeds can be rolled in granular or powdered formulations or sprayed with liquid formulas. Spraying seed with water first helps granular mixes adhere. This is the earliest possible point of contact and maximizes the duration of the symbiotic relationship.
 
 ### Seed Germination Mix Inoculation
 
@@ -30,7 +30,7 @@ All formulations can be mixed into the soil or media in which seeds are germinat
 
 ### Root Inoculation of Existing Plants
 
-All formulations can be used to treat roots of existing plants as long as they make physical contact with roots. Liquid formulations can be applied to the surface. For deeper roots, granular and soil mixes should be placed in channels to the root zone. Packing channels with inoculant enables the root-to-fungi [[plant-hormones-and-chemical-signaling-systems]] (via strigolactones and Myc factors) required for arbuscular mycorrhizal formation.
+All formulations can be used to treat roots of existing plants as long as they make physical contact with roots. Liquid formulations can be applied to the surface. For deeper roots, granular and soil mixes should be placed in channels to the root zone. Packing channels with inoculant enables the root-to-fungi [[plant-hormones-and-chemical-signaling-systems]] (via strigolactones and Myc factors) required for [[arbuscular-mycorrhizal-colonization-patterns]] formation.
 
 ### Hydroponic Inoculation
 
@@ -56,7 +56,7 @@ This is the single most critical factor. If soil phosphorus exceeds approximatel
 
 ### Chemical Sensitivity
 
-Pesticides, herbicides, and fungicides impact mycorrhizal fungi and their associated soil organisms. Some chemicals kill mycorrhizae outright; others, like the fungicide metalaxyl, can actually stimulate mycorrhizal formation by eliminating competing fungi. Product labels and research should be consulted before applying any chemical in conjunction with [[mycorrhizal-inoculation]].
+Pesticides, herbicides, and fungicides impact mycorrhizal fungi and their associated soil organisms. Some chemicals kill mycorrhizae outright; others, like the fungicide metalaxyl, can actually stimulate mycorrhizal formation by eliminating competing fungi. [[smartshop-product-labels-and-retailer-risk-information-hallucinogenic-mushrooms]] research should be consulted before applying any chemical in conjunction with [[mycorrhizal-inoculation]].
 
 ## Do-It-Yourself Inoculum Production
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Teaming With Fungi Mycorrhizal Inoculation Techniques finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -128,8 +128,8 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-teaming with fungi mycorrhizal inoculation techniques and its applications. Active investigation
-areas include ecological interactions and optimization.
+teaming with fungi mycorrhizal [[cotter-inoculation-techniques-and-hygiene]] its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

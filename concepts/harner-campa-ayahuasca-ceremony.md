@@ -69,7 +69,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[ayahuasca-ceremony]]
-- [[shamanism]]
+- shamanism
 - [[harner-amazonian-ayahuasca-shamanism]]
 
 ## Overview

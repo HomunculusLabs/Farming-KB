@@ -34,7 +34,7 @@ geotropic response) regardless of wind direction.
 The pileus opens into a hemispherical shape. Spores are actively being produced
 and released. The negative geotropic response is fully expressed, with the
 pileus turning upward from the wind direction and lamellae facing downward for
-optimal spore dispersal.
+optimal [[spore-dispersal]].
 
 ### Stage 4 — Late Maturity
 The pileus becomes more or less plane (flat). This represents the final stage

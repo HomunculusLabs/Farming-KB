@@ -51,7 +51,7 @@ Cold climates require careful attention to building and infrastructure details t
 - **Pipe insulation:** All water pipes must be buried below the frost line (typically to at least 1 metre depth) or insulated within the building fabric to prevent freezing and rupture.
 - **Well placement:** Wells should be located within insulated earth, ideally integrated into the building envelope, to protect the water supply from freezing.
 - **Roof design:** Steep roof slopes are essential in heavy snowload areas to prevent structural failure and dangerous ice-dam formation.
-- **[[avalanche]] avoidance:** Site analysis must identify and exclude avalanche-prone slopes from all development zones.
+- **[[avalanche-phenomenon]] avoidance:** Site analysis must identify and exclude avalanche-prone slopes from all development zones.
 - **Attached glasshouses:** Glasshouses attached to the south-facing side of dwellings capture both passive solar heat and provide a protected growing environment through the shoulder seasons.
 
 ### Heat Storage and Thermal Mass

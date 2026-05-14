@@ -22,7 +22,7 @@ The ligninolytic enzyme system of fungal-environmental-sensing. These extracellu
 - **Redox potential:** Mn(III)-organic acid chelates act as diffusible oxidants (~0.9V)
 - **Substrate range:** Phenolic compounds, amines, dyes, and some PAHs
 - **Cofactors:** Heme, requires H2O2, Mn(II)
-- **Advantages over LiP:** MnP is more widely distributed among white rot fungi and can be produced under less restrictive nutritional conditions
+- **Advantages over LiP:** MnP is more widely distributed among [[white-rot-fungi]] and can be produced under less restrictive nutritional conditions
 - **Production:** Bjerkandera adusta produces MnP under nitrogen-sufficient conditions, unlike P. chrysosporium
 
 ### Laccase (EC 1.10.3.2)

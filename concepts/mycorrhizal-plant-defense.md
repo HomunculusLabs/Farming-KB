@@ -140,11 +140,9 @@ Stamets discusses endophytic fungi that live INSIDE plant tissues:
 | Pasture improvement | Endophytic fungi in grasses | Also deters insect pests |
 | Contaminated site restoration | Mycorrhizae + saprophytes | Combined remediation + plant support |
 
+
 ## See Also
 
-- [[mycorrhizal-fungi]] for comprehensive mycorrhizal coverage
-- [[mycorrhizal-types]] for endo/ecto/ericoid/orchid types
-- [[mycorrhizal-networks]] for network architecture and forest intelligence
-- [[endophytic-fungi]] for internal fungal symbionts
-- [[plant-defense-mechanisms]] for the full plant defense picture
-- [[fungal-symbiosis-types]] for the symbiosis spectrum
+- [[mycorrhizal-plant-nutrition-and-ecosystem-sustainability]]
+- [[mycorrhizal-plant-pathogen-biocontrol]]
+- [[mycorrhizal-plant-pathogen-interactions]]

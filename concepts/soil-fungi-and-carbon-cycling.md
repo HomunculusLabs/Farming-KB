@@ -49,7 +49,7 @@ carbohydrates from their host plants. This carbon flux, estimated at 5-10
 gigatons per year globally, represents one of the largest carbon transfers
 in the terrestrial biosphere. A significant portion of this carbon is
 allocated to hyphal turnover and exudation rather than fungal respiration,
-feeding [[the-soil-food-web]] and contributing to stable carbon pools.
+feeding [[soil-food-web]] and contributing to stable carbon pools.
 
 Ectomycorrhizal fungi, which dominate in boreal and temperate forests, produce
 large amounts of recalcitrant necromass and strongly suppress free-living

@@ -22,8 +22,8 @@ sources:
 ## Overview
 
 Beta-carbolines (β-carbolines, 9H-pyrido[3,4-b]indoles) are a class of
-tricyclic nitrogen-containing compounds structurally related to tryptamine,
-formed by the fusion of an indole ring with a pyridine ring.
+tricyclic nitrogen-containing compounds structurally related to [[tryptamine]],
+formed by the fusion of an [[indole]] ring with a pyridine ring.
 They occur naturally in a wide range of plants ([[harmala-alkaloids]] —
 harmine, harmaline, and harmalol — which are potent reversible inhibitors
 of monoamine oxidase A (MAO-A).

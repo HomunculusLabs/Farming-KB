@@ -26,7 +26,7 @@ sources:
 
 Gaylussacia ursina is a species of flowering shrub in the family Ericaceae, within the genus Gaylussacia (the huckleberries). The genus was named by Karl Friedrich von Gaertner in honor of the French chemist and physicist Joseph Louis Gay-Lussac. The specific epithet *ursina* means "bear," referring to the attraction of the fruit to bears and the species' occurrence in bear-inhabited montane forests.
 
-The species was first described by Moses Ashley Curtis in 1843 based on specimens collected in the Appalachian Mountains of North Carolina. It belongs to Gaylussacia section *Gaylussacia*, the group that includes most of the diploid species in the genus. G. ursina is a diploid species with 2n = 22 chromosomes, consistent with other members of its section.
+The species was first described by Moses Ashley Curtis in 1843 based on specimens collected in the Appalachian Mountains of [[north-carolina-mycodiversity]]. It belongs to Gaylussacia section *Gaylussacia*, the group that includes most of the diploid species in the genus. G. ursina is a diploid species with 2n = 22 chromosomes, consistent with other members of its section.
 
 Gaylussacia ursina is one of approximately 40 species in the genus Gaylussacia, which is primarily distributed in the Americas. The genus is closely related to Vaccinium (blueberries and cranberries), and the two genera are sometimes confused in the field. A key distinction is that Gaylussacia fruits have 10 stone cells (nutlets) within each berry, while Vaccinium fruits have numerous small seeds.
 
@@ -58,7 +58,7 @@ Elevational distribution follows a pattern typical of southern Appalachian endem
 
 Habitats include acidic, well-drained soils on rocky slopes, ridges, mountain balds, and openings in high-elevation oak-heath and spruce-fir forests. The species is strongly associated with exposed, acidic substrates derived from sandstone, quartzite, and granitic rocks. It tolerates thin, nutrient-poor soils that would be inhospitable to many other shrub species.
 
-Common woody associates include mountain laurel ([[kalmia-latifolia]]), rosebay rhododendron (Rhododendron maximum), great laurel (Rhododendron catawbiense), and flame azalea (Rhododendron calendulaceum). In spruce-fir forests, it grows alongside red spruce (Picea rubens) and Fraser fir (Abies fraseri). The herbaceous layer typically includes ferns, mosses, and other acid-loving species.
+Common woody associates include mountain laurel ([[kalmia-latifolia]]), rosebay rhododendron ([[rhododendron-maximum]]), great laurel ([[rhododendron-catawbiense]]), and flame azalea (Rhododendron calendulaceum). In spruce-fir forests, it grows alongside red spruce (Picea rubens) and Fraser fir ([[abies-fraseri]]). The herbaceous layer typically includes ferns, mosses, and other acid-loving species.
 
 ## Ecology and Interactions
 
@@ -80,8 +80,8 @@ Fire ecology plays an important role in maintaining G. ursina populations. The s
 
 ## Uses
 
-The berries of Gaylussacia ursina are edible and have been gathered traditionally by residents of the Appalachian region for use in pies, jams, and preserves. The flavor is comparable to that of other huckleberry species, described as sweeter and more intensely flavored than blueberries, with a slightly gritty texture from the stone cells.
+The berries of Gaylussacia ursina are edible and have been gathered traditionally by residents of the [[bolete-fungi-appalachian-region]] for use in pies, jams, and preserves. The flavor is comparable to that of other huckleberry species, described as sweeter and more intensely flavored than blueberries, with a slightly gritty texture from the stone cells.
 
-[[halpern-sacramental-peyote-and-native-american-church]] tribes within the species' range likely used the berries as a food source, though specific ethnobotanical records for G. ursina are sparse. The closely related Gaylussacia baccata (black huckleberry) was widely used by eastern tribes for food and medicine, and it is probable that G. ursina was used similarly where it occurred.
+[[halpern-sacramental-peyote-and-native-american-church]] tribes within the species' range likely used the berries as a food source, though specific ethnobotanical records for G. ursina are sparse. The closely related [[gaylussacia-baccata]] (black huckleberry) was widely used by eastern tribes for food and medicine, and it is probable that G. ursina was used similarly where it occurred.
 
 Traditional Appalachian harvesters distinguished huckleberries from blueberries by the presence of stone cells and the darker, shinier seeds. The berries were often combined with other wild fruits in preserves or dried for winter use. Commercial harvesting has never been significant due to the species' restricted range and the difficulty of accessing high-elevation populations.

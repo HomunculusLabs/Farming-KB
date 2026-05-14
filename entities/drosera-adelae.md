@@ -67,7 +67,7 @@ Nutrient absorption studies show that *D. adelae* derives a significant portion 
 
 *D. adelae* is widely regarded as one of the most adaptable sundews for [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit.
 
-A soil mix of peat moss and silica sand (1:1 ratio) works well. The growing medium should be kept consistently moist to wet using distilled, rain, or reverse-osmosis water.
+A soil mix of [[peat-moss]] and silica sand (1:1 ratio) works well. The growing medium should be kept consistently moist to wet using distilled, rain, or reverse-osmosis water.
 
 Temperatures between 18–30 °C are suitable, with higher humidity preferred. The species does not require a dormancy period and grows year-round under favorable conditions.
 

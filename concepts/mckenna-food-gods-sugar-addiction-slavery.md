@@ -67,12 +67,12 @@ McKenna contends that sugar is entirely unnecessary to the human diet. Before th
 
 Sugar contributes nothing that cannot be gotten from some other, easily available source. It is a "kick," nothing more.
 
-Yet for this kick the dominator culture of Europe was willing to betray the ideals of the Enlightenment by its collusion with slave traders. In 1800 virtually every ton of sugar imported into England had been produced with slave labor.
+Yet for this kick [[mckenna-dissolution-of-the-dominator-culture]] of Europe was willing to betray the ideals of the Enlightenment by its collusion with slave traders. In 1800 virtually every ton of sugar imported into England had been produced with slave labor.
 
 ## Overview
 
-Mckenna Food Gods Sugar Addiction Slavery represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+Mckenna Food Gods [[mckenna-sugar-addiction-slavery-dominator-culture]] represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for mckenna food gods sugar addiction slavery. Climate adaptation
+opportunities for mckenna food gods sugar addiction slavery. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mckenna food gods sugar addiction slavery and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

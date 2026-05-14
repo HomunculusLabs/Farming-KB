@@ -13,7 +13,7 @@ Virola is a genus of trees in the nutmeg family (Myristicaceae) whose resinous b
 
 ## Botanical Profile
 
-Virola is a genus of trees native to the Amazon basin and surrounding regions. Several species are used hallucinogenically, with Virola theiodora being the most important. The trees belong to the nutmeg family, Myristicaceae, which also includes the true nutmeg (Myristica fragrans) — another plant with documented psychoactive properties.
+Virola is a genus of trees native to the Amazon basin and surrounding regions. Several species are used hallucinogenically, with Virola theiodora being the most important. The trees belong to the nutmeg family, Myristicaceae, which also includes the true nutmeg ([[myristica-fragrans]]) — another plant with documented psychoactive properties.
 
 The hallucinogenic resin is found in the soft inner layer of the bark. When the bark is stripped, the inner layer exudes a blood-red resin that is collected and processed into snuff. This resin is the same material that some tribes apply to arrowheads as a poison, demonstrating the fine line between psychoactive and toxic properties that characterizes many Amazonian plant preparations.
 
@@ -43,7 +43,7 @@ A distinctive feature of the ceremony involves pairs or groups engaging in a str
 
 The effects of Virola snuff are felt within minutes from the time of initial use. First there is a feeling of increasing excitability, followed by numbness of the limbs, twitching of the face, lack of muscular coordination, nasal discharges, nausea, and frequently vomiting. Macropsia — the sensation of seeing things greatly enlarged — is characteristic and enters into Waika beliefs about hekulas, the spirit forces dwelling in the Virola tree and controlling the affairs of man.
 
-The cause of the narcotic effect has been shown by recent studies to be an exceptionally high concentration of tryptamine alkaloids in the resin. Waika snuff prepared exclusively from the resin of Virola theiodora has up to 8 percent tryptamines, mainly the highly active 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT). Two new alkaloids of a different type — beta-carbolines — have also been found in the resin; they act as monoamine oxidase inhibitors and make it possible for the tryptamines to take effect when the resin is taken orally.
+The cause of the narcotic effect has been shown by recent studies to be an exceptionally high concentration [[hplc-analysis-of-tryptamine-alkaloids]] in the resin. Waika snuff prepared exclusively from the resin of Virola theiodora has up to 8 percent tryptamines, mainly the highly active 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT). Two new alkaloids of a different type — beta-carbolines — have also been found in the resin; they act as monoamine oxidase inhibitors and make it possible for the tryptamines to take effect when the resin is taken orally.
 
 ## Virola as Arrow Poison
 
@@ -55,7 +55,7 @@ Interestingly, although the arrows are tipped while the hallucinogenic snuff is 
 
 Other ways of taking Virola resin besides snuffing it are sometimes employed. The primitive nomadic Maku of Colombia often merely scrape resin from the bark of the tree and lick it in crude form. The Witoto, Bora, and Muinane of Colombia prepare little pellets from the resin, and these are eaten when medicine men wish to "talk with the spirit people" to practice witchcraft or diagnose disease. The intoxication begins five minutes after ingestion.
 
-There is some vague evidence that certain Venezuelan natives may smoke the bark to get the intoxicating effects. This smoking method would represent yet another route of administration for Virola's tryptamine alkaloids, paralleling the smoking of DMT-containing plants in other Amazonian traditions.
+There is some vague evidence that certain Venezuelan natives may smoke the bark to get the intoxicating effects. This smoking method would represent yet another [[mushroom-taste-route-of-administration-and-consumption-barriers]] for Virola's tryptamine alkaloids, paralleling the smoking of DMT-containing plants in other Amazonian traditions.
 
 ## Significance in Amazonian Ethnopharmacology
 
@@ -78,7 +78,7 @@ Schultes, R.E. "Virola as an Oral Hallucinogen Among the Northwest Amazon Indian
 
 ## Overview
 
-Virola Snuff Amazon Preparation And Ceremony represents an important element within sustainable
+Virola Snuff Amazon [[ayahuasca-preparation-and-ceremony]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Virola Snuff Amazon Preparation And Ceremony finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 virola snuff amazon preparation and ceremony and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

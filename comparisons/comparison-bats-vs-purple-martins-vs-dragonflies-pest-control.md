@@ -1,6 +1,6 @@
 ---
 title: Comparison Bats Vs Purple Martins Vs Dragonflies Pest Control
-  - "National Wildlife Federation. 'Purple Martin Conservation Association — Bird House Placement Guidelines.'"
+  - "National Wildlife Federation. 'Purple Martin Conservation Association — Bird [[permaculture-site-access-and-house-placement]] Guidelines.'"
   - "Merckx, T. et al. (2020). 'Aerial insectivores and agricultural pest suppression: a meta-analysis.' Agriculture, Ecosystems & Environment, 295, 106886."
   - "Tuttle, M.D. (2015). The Secret Lives of Bats. Houghton Mifflin Harcourt."
 created: 2026-05-07
@@ -54,7 +54,7 @@ and environmental conditions. Honest assessment of these challenges
 leads to more realistic expectations and better long-term outcomes.
 
 Environmental variability presents one of the most significant ongoing
-challenges. Changes in weather patterns, seasonal fluctuations, and
+challenges. Changes in [[climatic-zones-and-global-weather-patterns]], seasonal fluctuations, and
 unpredictable events can disrupt even well-planned implementations.
 Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.

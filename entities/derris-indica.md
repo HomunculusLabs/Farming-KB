@@ -12,7 +12,7 @@ type: entity
 
 **Type:** Species
 **Category:** Medium deciduous leguminous tree
-**Also known as:** permaculture systems, combining [[agroforestry]]. The dual use of presscake as
+**Also known as:** [[permaculture]] systems, combining [[agroforestry]]. The dual use of presscake as
 both insecticide and [[azadirachta-indica]]
 - [[simmondsia-chinensis]]
 ## Practical Applications

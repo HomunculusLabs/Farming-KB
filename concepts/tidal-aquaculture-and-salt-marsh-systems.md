@@ -1,10 +1,10 @@
 ---
-title: Tidal Aquaculture and Salt Marsh Systems
+title: Tidal Aquaculture And Salt Marsh Systems
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Tidal Aquaculture and Salt Marsh Systems
+# [[tidal-aquaculture-systems|Tidal]] Aquaculture and Salt Marsh Systems
 
 [[permaculture]] does not stop at the shoreline. The intertidal zone — the area between high and low tide — represents an enormously productive and often underutilized resource for food production, including fish, shellfish, crustaceans, and specialized salt-tolerant plants. Tidal systems can be designed to be self-flushing, self-feeding, and largely self-maintaining.
 
@@ -54,7 +54,7 @@ Benefits of inland tidal ponds:
 
 - **Self-flushing**: Every tide brings fresh water and removes waste
 - **Always warm**: Shallow water heats quickly
-- **Cheapest swimming pool possible**: Naturally filtered and maintained
+- **Cheapest [[comparison-natural-swimming-pool-vs-conventional-pool]] possible**: Naturally filtered and maintained
 - **Sheltered**: Can be protected from wind with plantings and rock walls
 
 ### Ancient Tidal Fish Traps
@@ -82,7 +82,7 @@ Longshore drift traps — simple barriers of fences, logs, or any material — c
 Spartina (cord grass) is one of the most important salt marsh plants:
 
 - **Primary forage**: Great forage crop for geese — the base food for most cool water fish
-- **Seed production**: Heavy seed producer supporting waterfowl
+- **[[cannabis-controlled-pollination-seed-production]]**: Heavy seed producer supporting waterfowl
 - **Industrial use**: Used for weaving chair seats; cord was traditionally made from it
 - **Ecosystem support**: No Spartina means no bluefish — it is the nurse ground for young fish and their food
 - **Oil spill vulnerability**: The bluefish industry depends on Spartina, which in turn depends on there never being an oil spill
@@ -124,11 +124,11 @@ Lobsters are territorial — they will not tolerate another lobster in the same 
 
 ### Sponge Cultivation
 
-Sponges can be grown in tidal pond systems as an additional crop, though details of cultivation methods vary by species.
+Sponges can be grown in tidal pond systems as an additional crop, though details of [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] vary by species.
 
 ### Flounder
 
-Flounder can be grown in tidal ponds if adequate feeding is provided. However, open ponds offer no protection from cormorant predation — a significant problem. Cormorants can be converted to fish food by hanging a 5.5-inch net well off the bottom, which drowns them for fish consumption, but this is only appropriate in intensive production systems.
+Flounder can be grown in tidal ponds if adequate feeding is provided. However, open ponds offer no protection from cormorant predation — a significant problem. Cormorants can be converted to fish food by hanging a 5.5-inch net well off the bottom, which drowns them for fish consumption, but this is only appropriate in [[mollison-designers-market-garden-intensive-production-design]] systems.
 
 ## The Multiple Functions of Ponds
 
@@ -138,27 +138,13 @@ Every pond should be designed to serve multiple functions simultaneously:
 - **Fencing function**: Water itself serves as a livestock barrier
 - **Reflection function**: Light bouncing off water surface benefits adjacent plantings
 - **Fire protection**: Ponds provide water access for firefighting
-- **Heat storage**: Water moderates temperature fluctuations in the surrounding landscape
+- **[[coleman-soil-heat-storage-diurnal-freeze-thaw-cycle]]**: Water moderates temperature fluctuations in the surrounding landscape
 - **Recreation**: Swimming, fishing, and wildlife observation
 - **Water cleaning**: Efficiently collects essential nutrients in mud; the Chinese consider the main value of canals and ponds to be field manuring
-- **Nutrient cycling**: Pond muck from drained ponds becomes excellent fertilizer for terrestrial crops
+- **[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]**: Pond muck from drained ponds becomes excellent fertilizer for terrestrial crops
 
 ## Sewage Treatment Through Aquatic Systems
 
 Sewage should be turned into a marsh, not a pond. The treatment sequence is:
 
 1. **Holding pond**: Receives raw sewage, provides initial settling
-2. **Marsh system**: Mints, bog plants, and other wetland species with phenomenal sewage demand purify the water
-3. **Tree marsh**: Larger wetland trees provide final polishing
-4. **Discharge pond**: Water reaching this stage contains no solids, only dissolved nutrients (mainly phosphates and nitrates)
-
-A holding pond is necessary because in winter, marsh plants are dormant and cannot purify water. Rush (*[[juncus]]* spp.) has been identified in Swiss studies as the most efficient water-cleansing plant.
-
-A case study of a town of 8,000 people demonstrated that a permaculture sewage system saved $30,000 annually in engineering costs and a similar amount in fuel costs. The system became an industrial base for the town through mint and bamboo production, starting on 50 acres and expanding to 1,500 additional acres. The system also supported vast numbers of black swans and teal.
-
-This contrasts sharply with conventional approaches: Canberra installed a $700,000 sewage plant that produces poisonous water, while the permaculture approach requires only a bulldozer and a sloping site.
-
-## See Also
-- [[tidal-estuarine-aquaculture-mollison]]
-- [[mollison-designers-aquatic-edge-planted-wetland-design]]
-- [[biological-sewage-treatment-with-aquatic-plants]]

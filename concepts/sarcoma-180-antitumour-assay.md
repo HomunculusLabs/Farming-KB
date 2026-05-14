@@ -44,7 +44,7 @@ If intraperitoneal screening is effective, oral administration follows:
 
 The S-180 assay was instrumental in the discovery of the major mushroom-derived antitumour compounds:
 - **1968-1969**: Ikekawa et al. and Chihara et al. first demonstrated that hot water extracts of multiple mushroom species showed remarkable host-mediated antitumour activity against Sarcoma 180 xenografts, bringing "immediate public attention"
-- **1970**: Chihara isolated and characterized [[lentinan-pre-clinical-antitumour-models]] and schizophyllan-research|schizophyllan)
+- **1970**: Chihara isolated and characterized [[lentinan-pre-clinical-antitumour-models]] and [[schizophyllan-research]]|schizophyllan)
 - No direct cytotoxicity against tumour cell lines in culture
 - The conclusion that antitumour action is mainly host-mediated through [[psk-psp-polysaccharide-peptides]] are potent immunostimulators with specific activity for T-cells and antigen-presenting cells (monocytes and macrophages)
 - Lymphocytes governing antibody production (B-cells) and cell-mediated cytotoxicity (T-cells) are also stimulated

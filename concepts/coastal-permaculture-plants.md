@@ -6,7 +6,7 @@ type: concept
 
 # Coastal Permaculture Plants
 
-Coastal environments present some of the harshest growing conditions for plants: salt spray, strong winds, sandy nutrient-poor soils, and exposure to extreme weather. Despite these challenges, a diverse array of plant species have adapted to thrive right at the ocean's edge. These coastal plants are invaluable in permaculture design for stabilizing dunes, providing windbreaks, producing food, and creating resilient ecosystems in maritime zones.
+Coastal environments present some of the harshest growing conditions for plants: salt spray, strong winds, sandy nutrient-poor soils, and exposure to [[windbreak-effects-on-soil-moisture-and-extreme-weather]]. Despite these challenges, a diverse array of plant species have adapted to thrive right at the ocean's edge. These coastal plants are invaluable in [[natural-farming-guide-permaculture-design-for-small-holdings]] stabilizing dunes, providing windbreaks, producing food, and creating resilient ecosystems in maritime zones.
 
 ## Coastal Ground Covers
 
@@ -70,7 +70,7 @@ A deciduous small tree to 12 m, native from the Mediterranean through SW Asia. E
 
 **Edible:** Yellow, sweet berries eaten fresh or made into pies, sauces, jams, jellies, sherbets, and wines. Provides poultry forage in late summer.
 
-**Functions:** Good pioneer species (but thorny), windbreak and hedge species, bird habitat, erosion control. Occurs naturally with Tamarix gallica. Prefers dry, well-drained, alkaline soils in sunny, open positions.
+**Functions:** Good pioneer species (but thorny), windbreak and hedge species, bird habitat, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]. Occurs naturally with Tamarix gallica. Prefers dry, well-drained, alkaline soils in sunny, open positions.
 
 ### Metrosideros tomentosa (New Zealand Christmas Tree)
 
@@ -79,7 +79,7 @@ A large tree (to 10 m), somewhat frost hardy. Commonly found growing with roots 
 ### Other Coastal Trees
 
 - **Betula populifolia** (grey birch) — To 9 m; thrives on sandy or swampy soil; extremely frost hardy; best planted in groves
-- **Chrysobalanus icaco** (cocoa plum) — Extremely hardy shrub or tree to 12 m; branches creep in all directions; fruit eaten raw, stewed, dried, or in jellies; seed kernels roasted and eaten
+- **[[chrysobalanus-icaco]]** (cocoa plum) — Extremely hardy shrub or tree to 12 m; branches creep in all directions; fruit eaten raw, stewed, dried, or in jellies; seed kernels roasted and eaten
 - **Myoporum laetum** — Fast-growing evergreen to 6 m; very hardy in exposed places
 - **Nyssa sylvatica** (black tupelo) — Frost-hardy tree to 30 m; edible fruit for preserves
 - **Persea borbonica** (red bay) — Evergreen frost-hardy tree; leaves used as bay leaf substitute; relative of avocado
@@ -97,8 +97,8 @@ A large tree (to 10 m), somewhat frost hardy. Commonly found growing with roots 
 ## Other Coastal Plants Worthy of Trial
 
 - **Argania spinosa** (argan) — Moroccan argan tree
-- **Asparagus officinalis** (asparagus)
-- **Chenopodium quinoa** (quinoa)
+- **[[asparagus-officinalis]]** (asparagus)
+- **[[chenopodium-quinoa]]** (quinoa)
 - **Crithmum maritimum** (sea fennel)
 - **[[portulaca-oleracea]]** (common purslane)
 

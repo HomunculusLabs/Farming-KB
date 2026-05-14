@@ -12,7 +12,7 @@ type: entity
 
 **Type:** Species (Plant)
 **Category:** Fruit-producing deciduous tree
-**Also known as:** permaculture systems. The Indian jujube's additional yields of
+**Also known as:** [[permaculture]] systems. The Indian jujube's additional yields of
 shellac, firewood, and fodder create multiple [[permaculture-principle-apply-self-regulation]] of multiple
 functions.
 

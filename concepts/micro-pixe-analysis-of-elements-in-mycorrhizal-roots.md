@@ -1,5 +1,5 @@
 ---
-title: Micro-PIXE micro pixe analysis of elements in mycorrhizal roots in Mycorrhizal Roots
+title: Micro Pixe Analysis Of Elements In Mycorrhizal Roots
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -21,7 +21,7 @@ Micro-PIXE uses a focused proton micro-beam (typically 3 MeV) to scan thin tissu
 
 - **Freeze-dried tissue sections**: Typically 60 um thick, prepared by cryo-fixation and cryo-sectioning
 
-The technique can detect elements from sodium (Z=11) to uranium (Z=92) with detection limits typically in the range of 1-10 ppm for most biologically relevant elements. Spatial resolution of 1-3 micrometers is achievable, sufficient to distinguish individual cell layers within root cross-sections.
+The technique can detect elements from sodium (Z=11) to uranium (Z=92) with [[hplc-detection-limits-calibration-psilocybin-psilocin-bigwood-beug]] typically in the range of 1-10 ppm for most biologically relevant elements. Spatial resolution of 1-3 micrometers is achievable, sufficient to distinguish individual cell layers within root cross-sections.
 
 ## Sample Preparation Considerations
 
@@ -31,7 +31,7 @@ Accurate micro-PIXE analysis requires careful sample preparation to preserve ele
 
 - **Cryo-sectioning**: Sections cut at -20°C to -40°C maintain structural integrity of frozen-hydrated or freeze-dried tissue
 
-- **Support membranes**: Thin polymer films (e.g., Pioloform) provide structural support without contributing background X-ray signals
+- **Support membranes**: Thin polymer films (e.g., Pioloform) provide [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] without contributing background X-ray signals
 
 - **Thickness uniformity**: Consistent section thickness is critical for quantitative analysis, as proton energy loss depends on path length through the sample
 
@@ -75,13 +75,13 @@ The higher colonization frequency at the polluted site suggests that [[fungal-me
 
 The distribution pattern confirms metal exclusion as a tolerance strategy: metals are sequestered in the epidermis, cortex, and endodermis while the vascular tissue remains relatively metal-free. This is consistent with observations in other plant species (Seregin and Ivanov, 2001).
 
-This compartmentalization has important physiological consequences. By restricting metals to outer root tissues, the plant protects sensitive metabolic processes in the stele from metal toxicity. The endodermis, with its Casparian strip, acts as a final barrier preventing metal translocation to the xylem and subsequent shoot accumulation. See [[mycorrhiza-soil-bioremediation]], where understanding metal localization patterns helps predict the effectiveness of mycorrhizal-assisted phytoremediation strategies.
+This compartmentalization has important physiological consequences. By restricting metals to outer root tissues, the plant protects sensitive metabolic processes in the stele from [[heavy-metal-toxicity-and-biological-element-transport]]. The endodermis, with its Casparian strip, acts as a final barrier preventing metal translocation to the xylem and subsequent shoot accumulation. See [[mycorrhiza-soil-bioremediation]], where understanding metal localization patterns helps predict the effectiveness of mycorrhizal-assisted phytoremediation strategies.
 
 ## Limitations and Considerations
 
 - Sample preparation artifacts (element leaching, redistribution) can affect results if protocols are not carefully followed
 
-- Detection limits may be insufficient for trace elements present at very low concentrations
+- Detection limits may be insufficient for [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]] present at very low concentrations
 
 - Quantitative accuracy depends on accurate thickness measurements from STIM data
 

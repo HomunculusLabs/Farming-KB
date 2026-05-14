@@ -33,7 +33,7 @@ Arecoline (1,2,5,6-tetrahydro-1-methyl-3-pyridinecarboxylic acid methyl ester) i
 - **Structure type:** Tetrahydropyridine ester; bicyclic nitrogen-containing heterocycle
 - **Physical state:** Oily liquid at room temperature
 - **Boiling point:** 209–210°C at 0.5 mmHg
-- **Solubility:** Freely soluble in water, ethanol, chloroform, and ether
+- **Solubility:** Freely soluble in water, [[ethanol]], chloroform, and ether
 - **pKa:** 7.41 (conjugate acid), existing predominantly in protonated form at physiological pH
 - **Optical activity:** Chiral molecule; naturally occurring arecoline is the (−)-enantiomer
 
@@ -48,7 +48,7 @@ Arecoline (1,2,5,6-tetrahydro-1-methyl-3-pyridinecarboxylic acid methyl ester) i
 - **GABA-A receptors:** Weak positive allosteric modulation at high concentrations
 - **Monoamine transporters:** Inhibits dopamine and [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]].
 
-Central stimulant effects arise from a combination of muscarinic receptor activation in the CNS and monoamine reuptake inhibition, creating a profile that users describe as a combination of nicotine-like stimulation with mild MDMA-like warmth and increased sociability.
+Central stimulant effects arise from a combination of muscarinic receptor activation in the CNS and monoamine reuptake inhibition, creating a profile that users describe as a combination of [[nicotine]]-like stimulation with mild MDMA-like warmth and increased sociability.
 
 ### Pharmacokinetics
 

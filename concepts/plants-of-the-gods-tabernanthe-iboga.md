@@ -55,7 +55,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Tabernanthe Iboga - The African Hallucinogen. These include both technical difficulties and broader systemic
+[[tabernanthe-iboga]] - The African Hallucinogen. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.

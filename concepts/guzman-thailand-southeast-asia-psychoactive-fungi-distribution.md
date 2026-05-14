@@ -14,7 +14,7 @@ Thailand and the broader Southeast Asian region represent a major global center 
 
 ### Psilocybe Species
 Thailand hosts several Psilocybe species of particular interest:
-- **Psilocybe cubensis** — Heim (1958c, 1978), Heim & Hofmann (1958), Allen & Merlin (1992a), McKenna (1993), Ott (1993), Stijve (1995), Hobbs (1995), Stamets (1996), Gartz (1996). The most widely distributed and commonly consumed tropical psychoactive mushroom. In Thailand, P. cubensis grows abundantly on water buffalo and cattle dung, particularly during and after the monsoon season (approximately May-October). The species was first scientifically documented from Cuba but is pantropical in distribution.
+- **[[psilocybe-cubensis]]** — Heim (1958c, 1978), Heim & Hofmann (1958), Allen & Merlin (1992a), McKenna (1993), Ott (1993), Stijve (1995), Hobbs (1995), Stamets (1996), Gartz (1996). The most widely distributed and commonly consumed tropical psychoactive mushroom. In Thailand, P. cubensis grows abundantly on water buffalo and cattle dung, particularly during and after the monsoon season (approximately May-October). The species was first scientifically documented from Cuba but is pantropical in distribution.
 
 - **Psilocybe samuiensis** — Allen & Merlin (1992a, b), Gartz et al. (1994), Guzmán et al. (1993a), Gartz (1996), Stamets (1996). A species described from the Thai island of Koh Samui, where it was first collected and documented by Allen and Merlin during their ethnomycological surveys. P. samuiensis is closely related to P. mexicana and belongs to the section Mexicanae. Its discovery on Koh Samui extended the known distribution of this section well beyond its previously known Mesoamerican center.
 

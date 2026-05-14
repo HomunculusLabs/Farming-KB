@@ -1,5 +1,5 @@
 ---
-title: Open Living Systems and Permaculture Design Principles
+title: Mollison Open Living Systems And Design Principles
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Bill Mollison's *Permaculture: A Designers' Manual* frames the design challenge within the context of open living systems — complex, self-organizing biological systems that differ fundamentally from the closed thermodynamic systems studied in classical physics. The distinction between closed and open systems is central to understanding why conventional resource management often fails and why permaculture design offers an alternative path grounded in ecological reality.
+Bill Mollison's *Permaculture: A Designers' Manual* frames the design challenge within the context of open living systems — complex, self-organizing biological systems that differ fundamentally from the closed thermodynamic systems studied in classical physics. The distinction between closed and open systems is central to understanding why conventional [[savory-holistic-resource-management-animal-impact]] often fails and why permaculture design offers an alternative path grounded in ecological reality.
 
 ## Entropy and Living Systems
 
@@ -21,7 +21,7 @@ The key word in open systems is "exchange." Healthy natural systems are characte
 Life systems constantly organize and create complex storages from diffuse energy and materials, accumulating, decomposing, building, and transforming them for further use. We can use these effects in the design process by finding pathways by which life systems convert diffuse materials into those of most use. Mollison illustrates multi-function design through the manure transformation chain:
 
 1. **Fermentation and distillation** to alcohol for fuel or industrial use
-2. **Anaerobic digestion** in a biogas digester, where anaerobic organisms convert waste to methane for cooking, heating, or vehicle fuel
+2. **[[anaerobic-digestion-biogas-production]]** in a biogas digester, where [[anaerobic-organisms-compost]] convert waste to methane for cooking, heating, or vehicle fuel
 3. **Liquid effluent** routed to fields as nutrient-rich fertilizer
 4. **Solid sludge** fed to worms, which convert it to rich horticultural soil
 5. **Worms** used to feed fish or poultry, closing the nutrient loop completely
@@ -36,7 +36,7 @@ Mollison cites six principles articulated by Birch that underpin natural system 
 
 2. **Continuation of life depends on the maintenance of global biogeochemical cycles.** Carbon, oxygen, nitrogen, sulphur, and phosphorus must cycle continuously through living systems. Designers must ensure these and other minor nutrients are cycled to stimulate growth and keep the atmosphere and waters of earth unpolluted. Disrupting these cycles — through pollution, deforestation, or monoculture — undermines the foundation of all production.
 
-3. **Extinction risk is greatest at very high or very low population densities.** Both crowding and scarcity create vulnerability. Overcrowding leads to disease, competition, and resource depletion; underpopulation reduces genetic diversity and reproductive success. This principle has direct implications for stocking rates, planting densities, and the design of polycultures that maintain populations within safe ranges.
+3. **Extinction risk is greatest at very high or very low population densities.** Both crowding and scarcity create vulnerability. Overcrowding leads to disease, competition, and resource depletion; underpopulation reduces [[biodiversity-fungal-genetic-diversity]] and reproductive success. This principle has direct implications for stocking rates, planting densities, and the design of polycultures that maintain populations within safe ranges.
 
 4. **Species survival depends primarily on one or two key factors.** In the complex web of organism-environment relations, critical limiting factors can be identified. If we determine what these are, we can exclude some limiting factors by design (e.g., frost through shelter structures) and increase others (e.g., nest sites, food availability, water access). Design becomes the art of identifying and managing these leverage points.
 
@@ -52,7 +52,7 @@ From these natural system principles, Mollison distills several practical design
 
 Natural successions proceed from grasses to shrubs to trees over time. Rather than slashing out pioneer species (weeds), use them to provide microclimate, nutrients, and wind protection for the desired exotic or native species being established. The pioneers create the conditions that later successional species need to thrive. We actively assist natural succession rather than fighting it.
 
-Masanobu Fukuoka's wisdom captures this principle perfectly: "If we throw nature out the window, she comes back in the door with a pitchfork." Spraying for pest infestations destroys both pests and their predators. The following year brings a pest explosion because no predators remain to control them. Heavier spraying puts things further out of balance. The surviving pests breed more resistant progeny — nature's pitchfork returning with increasing force.
+[[masanobu-fukuoka]]'s wisdom captures this principle perfectly: "If we throw nature out the window, she comes back in the door with a pitchfork." Spraying for pest infestations destroys both pests and their predators. The following year brings a pest explosion because no predators remain to control them. Heavier spraying puts things further out of balance. The surviving pests breed more resistant progeny — nature's pitchfork returning with increasing force.
 
 ### 2. The Problem Is the Solution
 

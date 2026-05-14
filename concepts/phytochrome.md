@@ -142,11 +142,8 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
-
 ## See Also
 
-- [[phytochrome-and-photoperiodism]]
+- [[phytochrome-distributed-leaf-perception-vs-localized-tip-phototropism]]
 - [[phytochrome-photoperiodism-plant-flowering]]
 - [[phytochrome-plant-light-sensing]]

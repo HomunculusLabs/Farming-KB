@@ -34,7 +34,7 @@ be customized with virtually any fruit or botanical ingredient for endless
 flavor variations.
 
 Kombucha naturally contains [[food-fermentation-guide]]
-- kefir making
+- [[kefir-making]]
 - kombucha brewing
 
 ## See Also

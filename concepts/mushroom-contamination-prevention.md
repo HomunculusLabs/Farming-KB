@@ -6,13 +6,13 @@ tags: [contamination, sterile-technique, mycology, cultivation, prevention]
 
 # Mushroom Cultivation Contamination Prevention
 
-Contamination is the single most common cause of failure in amateur mushroom cultivation. Understanding contaminant organisms, their sources, and prevention strategies is essential for consistent success. The PF TEK method was specifically designed to minimize contamination risk through simple but effective sterile technique, making it the most forgiving introduction to mushroom cultivation.
+Contamination is the single most common cause of failure in amateur mushroom cultivation. Understanding contaminant organisms, their sources, and prevention strategies is essential for consistent success. The PF TEK method was specifically designed to minimize contamination risk through simple but effective [[cultivator-sterile-technique-and-agar-culture]], making it the most forgiving introduction to mushroom cultivation.
 
 ## Understanding Contamination
 
 ### What Is Contamination?
 
-In the context of mushroom cultivation, "contamination" refers to the growth of any organism other than the desired mushroom mycelium on the substrate. Since [[mycoremediation-mushroom-cultivation-contaminated-substrates]] cannot be salvaged. Once a contaminant organism is established in a substrate jar, it cannot be removed without destroying the jar's contents. This is because contaminants spread through the same substrate that the mushroom mycelium colonizes, and there is no way to selectively eliminate the contaminant without killing the desired mycelium. Prevention is therefore far more important than treatment.
+In the context of mushroom cultivation, "contamination" refers to the growth of any organism other than the desired [[antimicrobial-compounds-mushroom-mycelium]] on the substrate. Since [[mycoremediation-mushroom-cultivation-contaminated-substrates]] cannot be salvaged. Once a contaminant organism is established in a substrate jar, it cannot be removed without destroying the jar's contents. This is because contaminants spread through the same substrate that the mushroom mycelium colonizes, and there is no way to selectively eliminate the contaminant without killing the desired mycelium. Prevention is therefore far more important than treatment.
 
 ## Common Contaminants
 
@@ -30,7 +30,7 @@ In the context of mushroom cultivation, "contamination" refers to the growth of 
 
 **Wet spot / sour rot (Bacillus species):** Bacterial contamination often presents as a slimy, wet, or discolored area in the substrate. It may produce a sour or rotten odor. Bacterial contamination is more common when [[substrate-contamination]].
 
-**Endospore-forming bacteria:** Some bacteria produce heat-resistant endospores that survive steam sterilization (but are killed by pressure cooking at 15 PSI). This is one of the main arguments for using a pressure cooker over steam sterilization.
+**Endospore-forming bacteria:** Some bacteria produce heat-resistant endospores that survive [[growing-gourmet-atmospheric-steam-sterilization]] (but are killed by pressure cooking at 15 PSI). This is one of the main arguments for using a [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] over steam sterilization.
 
 ### Yeast Contaminants
 
@@ -55,7 +55,7 @@ Contaminants can be introduced via:
 - Dirty mixing bowls, measuring cups, or utensils
 - Non-sterile jar lids or bands
 
-Mitigation: Boil or pressure-cook metal utensils. Use freshly opened distilled water. Flame-sterilize needles before and between inoculations. Wipe surfaces with 70% isopropyl alcohol.
+Mitigation: Boil or pressure-cook metal utensils. Use freshly opened distilled water. Flame-sterilize needles before and between inoculations. Wipe surfaces with 70% [[isopropyl-alcohol]].
 
 ### The Cultivator
 

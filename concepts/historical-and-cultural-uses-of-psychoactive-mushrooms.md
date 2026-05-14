@@ -1,5 +1,5 @@
 ---
-title: Historical and Cultural Uses of Psychoactive Mushrooms
+title: Historical And Cultural Uses Of Psychoactive Mushrooms
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
@@ -38,7 +38,7 @@ Mushroom-loving societies throughout:
 Wild mushrooms are extensively collected or purchased for food, incorporated into soups, stews, and teas.
 
 ### Mushroom Poisoning as Weapon
-"In some societies where gourmet mushrooms were regularly consumed at feasts and banquets, it was relatively easy to add in a few deadly poisonous mushrooms (e.g., [[amanita-phalloides]]) with dire consequences ensuing." Claudius II and Pope Clement VII are strongly believed to have died this way. Symptoms appeared hours later, allowing the perpetrator to be far away. Some legends suggest the Buddha also died in this manner.
+"In some societies where gourmet mushrooms were regularly consumed at feasts and banquets, it was relatively easy to add in a few deadly [[palmer-poisonous-mushrooms-deadly-species]] (e.g., [[amanita-phalloides]]) with dire consequences ensuing." Claudius II and Pope Clement VII are strongly believed to have died this way. Symptoms appeared hours later, allowing the perpetrator to be far away. Some legends suggest the Buddha also died in this manner.
 
 ## Psychoactive Mushroom Use in Mesoamerica
 
@@ -49,7 +49,7 @@ Wild mushrooms are extensively collected or purchased for food, incorporated int
 These stones may represent the sacramental mushroom called **Teonanacatl** (meaning "flesh or food of the Gods") by the ancient Aztecs (Wasson, 1978).
 
 ### Species Used
-- **Psilocybe spp.**: Tiny psychoactive hallucinogenic mushrooms
+- **Psilocybe spp.**: Tiny psychoactive [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]]
 - **Panaeolus spp.**: Related psychoactive species
 - Used extensively in Meso America dating back to Paleolithic times
 
@@ -66,7 +66,7 @@ The dancer depicted is about 80 cm in height with mask and stance typical of tha
 "An effigy of a mushroom, not unlike Amanita, inserted in a scene with shamanistic connotations, has been found in a rock engraving of Mount Bego, France, dating back to 1800 B.C."
 
 ### Ancient Greek Culture
-"Aristotle, Plato and Sophocles are believed to have participated in religious ceremonies which involved, in part, the consumption of mushroom decoctions." Further important archaeo-ethnomycological documentation exists in ancient Greek culture (Samorini, 2001).
+"Aristotle, Plato and Sophocles are believed to have participated in [[entheogenic-folk-religious-ceremonies]] which involved, in part, the consumption of mushroom decoctions." Further important archaeo-ethnomycological documentation exists in ancient Greek culture (Samorini, 2001).
 
 ### Amanita muscaria in Northern Europe/Siberia
 The [[fly-agaric]] was used in Northern Europe and the Sahara region, with evidence dating back to Paleolithic times.
@@ -110,14 +110,14 @@ Among his accessories was a string of Birch Polypore Mushrooms, which have long 
 
 ## Modern Research Gap
 
-Despite the extensive historical evidence, "it is surprising that there has been such limited modern scientific study of the psychoactive compounds produced by such mushrooms." The accumulated data strongly implicates the use of powerful hallucinogenic mushrooms in primitive forms of religion, yet modern pharmacology has devoted relatively little attention to these compounds compared to their historical significance.
+Despite the extensive historical evidence, "it is surprising that there has been such limited modern scientific study of the psychoactive compounds produced by such mushrooms." The accumulated data strongly implicates the use of powerful [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] primitive forms of religion, yet modern pharmacology has devoted relatively little attention to these compounds compared to their historical significance.
 
 ## Key References
 
 - Wasson, R.G. (1976): *Soma: Divine Mushroom of Immortality*
 - Wasson, R.G. (1978): *The Wondrous Mushroom: Mycolatry to Mesoamerica*
 - Samorini, G. (2001): New data on the ethnomycology of psychoactive mushrooms
-- Hobbs, C. (1995): *Medicinal Mushrooms*
+- Hobbs, C. (1995): *[[anti-cancer-polysaccharides-from-medicinal-mushrooms]]*
 - Stamets, P. (2000): *Growing Gourmet and Medical Mushrooms*
 - Arora, D. (1985): *Mushrooms Demystified*
 - Graves, R. (1956): *Food for Centaurs*

@@ -1,4 +1,4 @@
-Source: geoffrey gadd sarah c watkinson paul s dyer fungi in the environment
+Source: geoffrey gadd [[sarah-watkinson]] paul s dyer fungi in the environment
 
 # Rice Blast Fungus Magnaporthe grisea: Functional Genomics of Plant Infection
 

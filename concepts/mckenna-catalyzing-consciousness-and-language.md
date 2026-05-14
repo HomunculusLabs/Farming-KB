@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 ## The Role of Hallucinogens in Cognitive Evolution
 
-The stoned ape hypothesis requires that we explain how a chemical compound could have played a role in the emergence of language and self-reflection. The answer lies in understanding the relationship between hallucinogens and the human brain — specifically, the way in which psychoactive tryptamines interact with serotonin receptors in the brain.
+The [[stoned-ape-hypothesis]] requires that we explain how a chemical compound could have played a role in the emergence of language and self-reflection. The answer lies in understanding the relationship between hallucinogens and the human brain — specifically, the way in which psychoactive tryptamines interact with serotonin receptors in the brain.
 
 Serotonin is the primary neurotransmitter involved in the regulation of mood, perception, and cognition. It is especially concentrated in the cerebral cortex — the part of the brain responsible for higher cognitive functions, including language. The fact that psilocybin and DMT are structural analogs of serotonin means that they can bind to serotonin receptors and alter the functioning of the very brain systems that underlie consciousness and language.
 

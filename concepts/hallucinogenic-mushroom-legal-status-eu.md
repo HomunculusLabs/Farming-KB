@@ -71,7 +71,7 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[shamanism]]
+- shamanism
 - [[hallucinogenic-mushroom-legal-status-europe]]
 - [[hallucinogenic-mushroom-legal-status-european-union]]
 

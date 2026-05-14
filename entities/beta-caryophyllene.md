@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/?term=beta-caryophyllene+CB2
-  - Gertsch, J. et al. (2008). "Beta-caryophyllene is a dietary cannabinoid." PNAS, 105(30), 10268-10273.
+  - Gertsch, J. et al. (2008). "Beta-caryophyllene is a [[beta-caryophyllene-dietary-cannabinoid]]." PNAS, 105(30), 10268-10273.
   - Russo, E.B. (2011). "Taming THC." British Journal of Pharmacology, 163(7), 1344-1364.
 ---
 
@@ -52,7 +52,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

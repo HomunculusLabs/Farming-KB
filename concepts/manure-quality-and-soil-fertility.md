@@ -69,7 +69,7 @@ For gardeners who cannot obtain manure, Solomon describes methods for making low
 - Kitchen scraps, garden waste, and yard debris can be composted
 - The compost does not need to be particularly high quality to serve its purpose of feeding soil organisms and maintaining organic matter
 - The mineral nutrition comes from COF, not from the compost itself
-- Even poorly made compost, as long as it is reasonably decomposed, serves the ecological function of feeding the soil food web
+- Even poorly made compost, as long as it is reasonably decomposed, serves the ecological function of feeding [[soil-food-web]]
 
 ## Green Manures and Cover Crops
 

@@ -103,9 +103,8 @@ The quality of your AACT depends entirely on the compost:
 
 ## See Also
 
-- [[soil-food-web-nutrient-cycling]] — the organisms AACT delivers
-- [[vermicomposting]] — worm castings as AACT ingredient
-- [[mycorrhizal-fungi]] — add spores to AACT for mycorrhizal inoculation
-- [[effective-microorganisms-em]] — EM as alternative inoculant
-- [[knf-preparations]] — KNF fermented inputs vs. AACT approach
-- [[cannabis-living-soil-guide]] — AACT in living soil cannabis
+- [[compost-tea-application-methods-and-rates]]
+- [[compost-tea-definitions-and-classification]]
+- [[compost-tea-disease-suppression-mechanisms]]
+- [[compost-tea-recipes-and-ratios]]
+- [[compost-tea-specific-disease-management]]

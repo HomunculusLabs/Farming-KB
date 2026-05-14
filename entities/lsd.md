@@ -25,7 +25,7 @@ aliases:
 # LSD (Lysergic Acid Diethylamide)
 
 **LSD** (N,N-diethyllysergamide) is a semi-synthetic psychedelic of the
-lysergamide class and one of the most potent psychoactive substances known.
+lysergamide class and one of the most potent [[cultural-evolution-and-psychoactive-substances]] known.
 First synthesized by gordon-wasson at Sandoz in 1938, its effects were
 discovered in 1943. LSD profoundly shaped 20th-century psychiatry, culture,
 and neuroscience through **5-HT2A receptor agonism**. See also [[timothy-leary]].
@@ -52,7 +52,7 @@ Distribution was voluntarily halted April 13, 1966 amid public concern.
 
 ## Pharmacology
 
-LSD is a **partial agonist** at the **5-HT2A serotonin receptor** (Ki ≈ 1.9–3.8
+LSD is a **partial agonist** at the **5-HT2A [[serotonin-receptor-interference-psychedelic-mechanism]]** (Ki ≈ 1.9–3.8
 nM) with broad serotonergic affinity: 5-HT2A (primary psychedelic effects),
 5-HT2B, 5-HT2C, 5-HT1A (anxiolytic), D2/D3 dopamine receptors, and TAAR1.
 Research (Nichols, Roth 2017+) shows LSD acts as a **biased agonist** at 5-HT2A,
@@ -75,13 +75,13 @@ NBOMe compounds are sometimes sold as LSD and are more dangerous.
 
 **Sensory:** Geometric patterns, color intensification, trailing, morphing
 surfaces, closed-eye visuals, synesthesia, time dilation, enhanced music
-appreciation. **Cognitive/Emotional:** Enhanced pattern recognition, ego
+appreciation. **Cognitive/Emotional:** Enhanced [[pattern-recognition-and-geometric-garden-design-permaculture]], ego
 dissolution, emotional intensification, mystical-type experiences (unity,
 
 ## Overview
 
 Lsd represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Lsd finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 lsd and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

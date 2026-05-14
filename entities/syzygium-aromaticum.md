@@ -27,7 +27,7 @@ Cloves rank among the most valuable spice crops globally by weight, with Indones
 
 ## Taxonomy and Morphology
 
-**Taxonomy:** Kingdom Plantae, order Myrtales, family Myrtaceae, genus *Syzygium*, species *S. aromaticum*. The basionym is *Eugenia caryophyllata* Thunb., and *Caryophyllus aromaticus* L. is a widely used synonym.
+**Taxonomy:** Kingdom Plantae, order Myrtales, family Myrtaceae, genus *Syzygium*, species *S. aromaticum*. The basionym is *[[eugenia-caryophyllata]]* Thunb., and *Caryophyllus aromaticus* L. is a widely used synonym.
 
 **Tree habit:** Clove trees reach 8–12 meters in cultivation and up to 20 meters in the wild. The crown is dense and conical when young, becoming rounded with age. Bark is rough, grayish-brown, and fissured longitudinally.
 

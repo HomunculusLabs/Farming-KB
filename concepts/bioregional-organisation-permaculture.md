@@ -1,5 +1,5 @@
 ---
-title: [[bioregional-organisation-mollison]] in Permaculture
+title: "Bioregional Organisation Permaculture"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

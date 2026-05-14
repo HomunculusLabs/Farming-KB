@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Low islands — atolls and cays — present some of the most constrained and fragile environments for human habitation. With finite freshwater lenses sitting atop saltwater, limited catchment area, and a [[calcium-phosphate]] soil chemistry that creates an impermeable subsurface layer, these islands demand exceptionally careful design. [[bill-mollison]]'s approach to [[low-island-permaculture]] integrates geology, water physics, traditional Polynesian practices, and innovative gardening techniques to create productive systems on these marginal lands.
+Low islands — atolls and cays — present some of the most constrained and fragile environments for human habitation. With finite freshwater lenses sitting atop saltwater, limited catchment area, and a [[calcium-phosphate]] soil chemistry that creates an impermeable subsurface layer, these islands demand exceptionally careful design. [[bill-mollison]]'s approach to [[low-island-permaculture]] integrates geology, water physics, traditional Polynesian practices, and innovative [[container-gardening-techniques]] to create productive systems on these marginal lands.
 
 ## Island Classification
 
@@ -32,7 +32,7 @@ The freshwater system on a low island is a thin lens floating on saltwater:
 - The actual volume can be calculated from the island's surface area
 - Drawing down the freshwater lens allows saltwater intrusion, killing plants
 - **Pollution prevention is critical** — even 2-3 septic tanks can contaminate the entire water table
-- Dry toilets become a necessity on small islands
+- [[greywater-management-and-dry-toilets]] become a necessity on small islands
 
 ## The Platen Problem
 
@@ -48,7 +48,7 @@ The combination of phosphates (from sea bird manure) and calcareous sands create
 - Only shallow-rooted agriculture is possible without intervention
 - The platen prevents rainwater from reaching the freshwater storage below
 - A new platen layer reforms above mulch within 12 months if the old one is removed
-- The platen can actually be harvested and used as a building material (it makes good stone walls)
+- The platen can actually be harvested and used as [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] (it makes good stone walls)
 
 ## Breaking the Platen: Tree Establishment
 
@@ -69,12 +69,12 @@ It is no good simply removing the platen and replacing it with mulch under sand 
 
 ## The Ring Garden (Circle Garden)
 
-The magical ring garden is Mollison's signature technique for low island vegetable production:
+The magical ring garden is Mollison's signature technique for low island [[coleman-french-historical-winter-vegetable-production]]:
 
 ### Construction
 1. **Break up the platen** and remove it from a circular area
 2. **Heap sand around the edge** to form a raised ring
-3. **Fill the circle with mulch** — creating a deep organic matrix
+3. **Fill the circle with mulch** — creating a deep [[mckenna-radio-entelechy-organic-matrix-ripping]]
 4. **Install a single drip system** at the center
 5. The drip creates a **"wick watering" system** — fibrous organic material carries water laterally to all plant roots
 
@@ -127,7 +127,7 @@ The optimal settlement pattern places housing on the island periphery:
 - Water is drawn from central areas where it is freshest
 - Waste is kept away from main water lanes
 - Building a large village at the center of the island is described as a **disastrous technique**
-- This arrangement keeps the freshwater lens intact while allowing peripheral waste management
+- This arrangement keeps the freshwater lens intact while allowing peripheral [[community-recycling-waste-management]]
 
 ## Aquaculture on Atolls
 
@@ -148,48 +148,3 @@ It is possible for a pond to grow its own gley lining:
 - Transition from a dry hole to a sealed pond through biological processes
 
 ## Shoreline Defense and Erosion
-
-### The Vulnerability of Low Islands
-- Waves never cease to attack island shorelines
-- From the air, Mollison has observed waves actively wiping out islands in bays
-- The process accelerates when deflecting vegetation is removed
-
-### Wind Patterns
-All oceanic islands have two sets of wind and two periods of calm:
-- Spring-autumn calm periods
-- Winter-summer wind periods
-- Typically northeast-southwest or northwest-southeast
-
-### Vegetation as Coastal Defense
-Vegetation can build an island up to approximately **6 feet** through sediment trapping. Front-line species include:
-
-- **Pemphis, Tournefortia, Scaevola** — stand directly in the sea spray zone, growing to ~15 feet
-- **Second line**: Tall plants including palms; date palms work surprisingly well on islands
-- **Third line** (within 50 feet): Normal yield begins
-- **Coprosma, bayberries, Prunus maritima, Rosa rugosa** for colder climates
-
-### Critical Rules
-- Never remove coastline vegetation without having alternative defenses ready
-- Removing trees for an airstrip allows the sea to march inland — contain airstrips within vegetation, preferably at an angle to winds
-- Keep coastline vegetation intact at the ends of any airstrip
-
-## Mangroves: The Island Builder
-
-### Importance for Nutrient Cycles
-Mangroves are perhaps the highest biomass turnover system of any on Earth:
-
-- **Genera**: Sonnerata, Rhizopodia, Aegiceras, Nipa, Avicenna (reaches latitude 40)
-- **Nipa palms** are true mangroves
-- All have twisty stems and leathery leaves, standing in quiet tidal waters
-
-### Mangrove Products
-
-### Degradation
-
-### Island Extension
-
-## Island Soil Biology
-
-## Animal Integration
-
-## Key Design Principles

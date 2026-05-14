@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Salix discolor, commonly known as pussy willow or American pussy willow, is a deciduous shrub in the family Salicaceae. It is native to northern North America, ranging from Canada south to the midwestern and eastern United States.
+Salix discolor, commonly known as pussy willow or American pussy willow, is a deciduous shrub in the family Salicaceae. It is native to northern [[guzman-psilocybin-mushrooms-north-america]], ranging from Canada south to the midwestern and eastern United States.
 
 The species is widely recognized for its fuzzy catkins that emerge in early spring, which are harvested for ornamental arrangements. Pussy willow is an important early-season nectar and pollen source for native bees and other pollinators.
 
@@ -77,7 +77,7 @@ Ruffed grouse and other game birds feed on the buds and catkins during late wint
 ## Overview
 
 Salix Discolor represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -91,7 +91,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving salix extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -106,13 +106,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for salix discolor. Climate adaptation
+opportunities for salix discolor. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 salix discolor and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

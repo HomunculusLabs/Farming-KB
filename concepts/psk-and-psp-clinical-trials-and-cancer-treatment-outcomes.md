@@ -1,12 +1,12 @@
 ---
-title: PSK and PSP Clinical Trials and Cancer Treatment Outcomes
+title: Psk And Psp Clinical Trials And Cancer Treatment Outcomes
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
 # PSK and PSP Clinical Trials and Cancer Treatment Outcomes
 
-PSK and PSP, both derived from Trametes versicolor, represent the most clinically validated mushroom-derived cancer therapeutics. PSK has been used for decades in Japan while PSP has been developed primarily in China. This concept reviews their clinical trial evidence across multiple cancer types.
+PSK and PSP, both derived from [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], represent the most clinically validated mushroom-derived cancer therapeutics. PSK has been used for decades in Japan while PSP has been developed primarily in China. This concept reviews their clinical trial evidence across multiple cancer types.
 
 ## PSK Clinical Trials
 
@@ -27,7 +27,7 @@ Study of 185 patients with epidermoid carcinoma, adenocarcinoma, or large-cell c
 - Greater activity for **older patients (>70 years)** and patients with **small primary tumours** (Hayakawa et al., 1993)
 
 ### Breast Cancer
-- Early studies implied long-term PSK immunotherapy with chemotherapy could be beneficial (Suginachi et al., 1984)
+- [[hofmann-lsd-clinical-research-early-studies]] implied long-term PSK immunotherapy with chemotherapy could be beneficial (Suginachi et al., 1984)
 - Larger trial (914 patients): PSK "significantly extended survival in ER-negative, Stage IIA patients without lymph node involvement" (Toi et al., 1992)
 - Contradictory: Further large trial found "no statistical evidence of any benefit from PSK" (Morimoto et al., 1996)
 - Yokoe et al. (1997) may have clarified contradictory results through patient subgroup analysis
@@ -47,7 +47,7 @@ Multiple studies in Japan demonstrated improved survival with PSK as adjunct to 
 "Liu (1999) has commented on the favourable action of PSP in patients receiving bone autologous marrow transplants."
 
 ### Safety Record
-"In the clinical setting tens of thousands of patients have been treated with PSP. Many patients have been successfully taking PSP for over 10 years with no serious adverse effects" (Yang, 1999).
+"In the clinical setting tens of thousands of patients have been treated with PSP. Many patients have been successfully taking PSP for over 10 years with no serious [[adverse-effects-and-harm-reduction-psilocybin]]" (Yang, 1999).
 
 ## AHCC Clinical Trial
 
@@ -110,5 +110,10 @@ Major national project involving industry, government, and academic laboratories
 1. **Blinded randomized controlled trials** in Western settings
 2. **Bioavailability and pharmacokinetic studies**
 3. **Patient selection biomarkers** (e.g., immune competence markers)
-4. **Optimal dosing and scheduling** for combination therapy
+4. **Optimal dosing and scheduling** for [[lentinan-gastric-cancer-combination-therapy]]
 5. **Long-term safety monitoring**
+
+## See Also
+
+- [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]
+- [[ganoderma-and-psk-psp-immunomodulatory-mechanisms]]

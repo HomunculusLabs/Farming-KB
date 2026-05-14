@@ -8,11 +8,11 @@ type: concept
 
 ## Overview
 
-John Allegro argues that the Jewish Zealots and Sicarii of the first-century revolt were not merely political insurgents but movements rooted in sacred mushroom cult worship. Their names, rhetoric, and behaviour reflect the influence of psychedelic drug experiences — particularly [[allegro-plants-and-drugs-in-the-ancient-world]]'s most prized colouring agents. From this root the Hebrew **qanna'** developed, meaning "to be red in the face" and, by extension, "to be zealous" — the flushed, burning countenance of religious fervour mirroring the red cap of the fungus itself.
+[[john-allegro]] argues that the Jewish Zealots and Sicarii of the first-century revolt were not merely political insurgents but movements rooted in [[allegro-sacred-mushroom-cross-introduction-fertility-cults]] cult worship. Their names, rhetoric, and behaviour reflect the influence of [[psychedelic-drug-testing-and-adulterant-screening]] experiences — particularly [[allegro-plants-and-drugs-in-the-ancient-world]]'s most prized colouring agents. From this root the Hebrew **qanna'** developed, meaning "to be red in the face" and, by extension, "to be zealous" — the flushed, burning countenance of religious fervour mirroring the red cap of the fungus itself.
 
 ### Qanna'im as a Jumbled Mushroom Name
 
-The Hebrew plural **Qanna'im** (קַנָּאִים), rendered "Zealots" in English, is best understood as a probable jumbled form of the Sumerian mushroom name ***GAN_NA_IM_A_AN**. The scrambling of syllables — a phenomenon Allegro documents extensively throughout Semitic nomenclature — conceals the original fungal reference beneath a surface meaning of passionate religious devotion.
+The Hebrew plural **Qanna'im** (קַנָּאִים), rendered "Zealots" in English, is best understood as a probable jumbled form of the [[sumerian-mushroom-nomenclature]] name ***GAN_NA_IM_A_AN**. The scrambling of syllables — a phenomenon Allegro documents extensively throughout Semitic nomenclature — conceals the original fungal reference beneath a surface meaning of passionate religious devotion.
 
 ### Josephus on Zealotry
 
@@ -72,11 +72,11 @@ The Greek **gigantes** ("giants") derive from a Sumerian phrase meaning "sky-sha
 
 ### Related Names from the Same Root
 
-The same root appears in the Greek **Anakes**, a title of the Dioskouroi (the divine twins Castor and Pollux), and in **Antimimon**, one of the ancient names for the mandrake plant — another psychoactive species revered in the ancient Near East. The web of connections binds [[shroom-cultural-history-mushroom-in-ancient-civilizations]] Near Eastern vocabularies. The shape of the Amanita, with its bulbous stem and rounded cap, naturally invited such phallic identification.
+The same root appears in the Greek **Anakes**, a title of the Dioskouroi (the divine twins Castor and Pollux), and in **Antimimon**, one of the ancient names for the mandrake plant — another psychoactive species revered in [[allegro-fertility-philosophy-of-the-ancient-near-east]] East. The web of connections binds [[shroom-cultural-history-mushroom-in-ancient-civilizations]] Near Eastern vocabularies. The shape of the Amanita, with its bulbous stem and rounded cap, naturally invited such phallic identification.
 
 ### Persian saqrätiyün: Iscariot as Dioskouroi
 
-In modern Persian, the word **saqrätiyün** (سقراطیون) means "Iscariot" and is cognate with the title **Dioskouroi** — linking Judas Iscariot directly to the divine twins and, through them, to the mushroom cult. The chain of transmission runs from Sumerian botanical vocabulary through Greek mythological nomenclature into Aramaic personal names and Persian lexical memory.
+In modern Persian, the word **saqrätiyün** (سقراطیون) means "Iscariot" and is cognate with the title **Dioskouroi** — linking Judas Iscariot directly to the divine twins and, through them, to [[allegro-sacred-prostitute-and-the-mushroom-cult]]. The chain of transmission runs from Sumerian botanical vocabulary through Greek mythological nomenclature into Aramaic personal names and Persian lexical memory.
 
 ### Zealots and Sicarii: One Movement, One Mushroom
 

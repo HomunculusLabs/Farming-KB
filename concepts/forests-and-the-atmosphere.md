@@ -6,7 +6,7 @@ type: concept
 
 # Forests and the Atmosphere
 
-Forests exert profound and complex influences on atmospheric conditions, including wind patterns, rainfall, humidity, air quality, and energy exchange. The relationships between forests and the atmosphere are far more intricate than commonly understood, and removing forests triggers cascading effects on climate, soil, water, and ultimately the viability of human civilizations.
+Forests exert profound and complex influences on atmospheric conditions, including wind patterns, rainfall, humidity, air quality, and energy exchange. The relationships between forests and the atmosphere are far more intricate than commonly understood, and removing forests triggers cascading [[altitude-and-latitude-effects-on-climate]], soil, water, and ultimately the viability of human civilizations.
 
 ## Wind Interaction
 
@@ -34,7 +34,7 @@ In Tasmania, up to 60% of total precipitation is attributed to this interception
 
 Wind-carried particles — dust, industrial pollutants, and other aerosols — are reduced to approximately one-quarter of their previous concentration after passing through about 100 meters of forest. This represents tons of material, particularly from winds crossing soils and industrial areas. Forests are net absorbers of inorganic materials and net releasers of organic materials (pollens, bacteria, organic droplets).
 
-Historical accounts illustrate the scale of organic particle release: early voyagers approaching the North American coast found pollen coating ship decks up to 80 miles offshore. The sea turned yellow with pollen. Crews mistook it for sulfur from volcanic eruptions and advanced with trepidation through "sulfurous" yellow skies.
+Historical accounts illustrate the scale of organic particle release: early voyagers approaching the [[growing-gourmet-north-american-reishi-species]] coast found pollen coating ship decks up to 80 miles offshore. The sea turned yellow with pollen. Crews mistook it for sulfur from volcanic eruptions and advanced with trepidation through "sulfurous" yellow skies.
 
 Organic particles are far more effective precipitation nuclei than inorganic particles, and are suspected to be the primary factors in atmospheric precipitation. While forests absorb inorganic particles from the air, they release organic particles that travel downwind and enable rain condensation further inland. Approximately 60% of inland rain falls from forest-derived clouds rather than maritime clouds.
 
@@ -44,9 +44,9 @@ Organic particles are far more effective precipitation nuclei than inorganic par
 
 The forest canopy absorbs almost all the energy of rainfall. A violent thunderstorm enters a forest in leaf as nothing more than a fine mist. The mechanical energy of tons of water falling at high velocity is completely dissipated in the crown through frictional slowing, impact absorption, and wind entanglement. This has profound consequences:
 
-- **Erosion prevention**: The pelting force of rain, an enormous erosive agent, simply does not reach the forest floor
-- **Evaporative cooling**: Light rain may be completely absorbed by the canopy and evaporated without ever reaching the ground — roads under trees remain dry during light rain
-- **Energy transactions**: Multiple energy exchanges occur simultaneously at the crown — friction, absorption, reflection, evaporation
+- **[[dighton-fungal-roles-soil-erosion-prevention]]**: The pelting force of rain, an enormous erosive agent, simply does not reach the forest floor
+- **[[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]**: Light rain may be completely absorbed by the canopy and evaporated without ever reaching the ground — roads under trees remain dry during light rain
+- **[[tree-biomass-and-energy-transactions]]**: Multiple energy exchanges occur simultaneously at the crown — friction, absorption, reflection, evaporation
 
 ### Water Distribution Through the Canopy
 
@@ -139,7 +139,7 @@ The removal of forests triggers cascading collapse:
 
 - **Desertification**: Removal of ridge forests alone can produce deserts in any climate
 - **Soil loss**: Forest removal removes soils
-- **Civilizational collapse**: The removal of forests has been the main cause of the collapse of nations — without forests, there is insufficient water, soil, or climate quality to sustain human life
+- **[[fukuoka-textdoc-civilizational-collapse-centrifugal-centripetal-cycle]]**: The removal of forests has been the main cause of the collapse of nations — without forests, there is insufficient water, soil, or climate quality to sustain human life
 
 The continents themselves are affected: forests represent an enormous water mass, and loading and unloading this mass through deforestation can cause Earth movements. Modest dams are known to cause local earthquakes; the far greater water mass of continental forests, when removed, may contribute to geological instability.
 

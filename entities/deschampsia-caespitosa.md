@@ -10,9 +10,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Clarke, G.L. (1960). "The genus Deschampsia in psilocybin-north-america-pacific-northwest." Rhodora.
-  - Coupland, R.T. (1961). "A reconsideration of grassland classification in the Northern Great Plains of North America." Journal of Ecology.
+  - Coupland, R.T. (1961). "A reconsideration of grassland classification in the Northern Great Plains [[huckleberries-and-wild-berries-of-north-america]]." Journal of Ecology.
   - Fjellheim, S. et al. (2006). "Genetic diversity in Deschampsia caespitosa populations." Molecular Ecology.
-  - Wilson, A.M. (1969). "Factors affecting seedling establishment in Deschampsia caespitosa." Journal of Ecology.
+  - Wilson, A.M. (1969). "[[factors-affecting-mycoremediation-efficiency]] seedling establishment in Deschampsia caespitosa." Journal of Ecology.
   - Bedford, B.L. et al. (1999). "Vegetation, production and nutrient dynamics of a tidal freshwater marsh." Wetlands.
 ---
 
@@ -44,17 +44,17 @@ Seed production is abundant, with panicles remaining attractive through autumn a
 
 ## Distribution and Habitat
 
-The native range of *Deschampsia caespitosa* is circumboreal, encompassing Europe, northern and central Asia, North America, and South America (Patagonia). It is one of the few grass species with a truly global [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], tufted hair grass is a component of Patagonian grasslands and subantarctic tundra communities. Disjunct Southern Hemisphere populations suggest ancient long-distance dispersal events or a broader historic distribution during cooler geological periods.
+The native range of *Deschampsia caespitosa* is circumboreal, encompassing Europe, northern and central Asia, North America, and South America (Patagonia). It is one of the few grass species with a truly global [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], tufted hair grass is a component of Patagonian grasslands and subantarctic tundra communities. Disjunct [[guzman-allen-gartz-northern-southern-hemisphere-mycobiota-convergence-mexico]] populations suggest ancient long-distance dispersal events or a broader historic distribution during cooler geological periods.
 
 Urban and suburban populations of tufted hair grass are increasingly common in ornamental landscapes, where the species may escape cultivation and establish in lawns, roadsides, and waste areas. However, it is not considered invasive in any region.
 
 ## Cultivation and Ornamental Use
 
-Tufted hair grass is one of the most widely cultivated ornamental grasses for temperate gardens, valued for its fine texture, graceful flower panicles, and adaptability to partial shade. It performs well in conditions where many ornamental grasses fail.
+Tufted hair grass is one of the most widely cultivated [[ornamental-grasses-guide]] for temperate gardens, valued for its fine texture, graceful flower panicles, and adaptability to partial shade. It performs well in conditions where many ornamental grasses fail.
 
 The cultivar '[[northern-lights]]' features variegated foliage with pink-tinged new growth, while 'Goldtau' produces exceptionally floriferous panicles. 'Bronzschlag' offers bronze-tinted flower heads, and compact forms suitable for rock gardens have been selected.
 
-Cultural requirements are straightforward: partial shade to full sun, consistently moist but well-drained soil, and moderate fertility. The species is cold-hardy to USDA Zone 3, making it suitable for gardens across most temperate regions.
+Cultural requirements are straightforward: partial shade to full sun, consistently moist but well-drained soil, and moderate fertility. The species is cold-hardy to USDA Zone 3, making it suitable for gardens across most [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 In naturalistic and prairie-style planting designs, tufted hair grass provides a fine-textured counterpoint to bolder grasses such as miscanthus and switchgrass. Its early summer flowering extends the ornamental grass season before warm-season species come into bloom.
 
@@ -74,7 +74,7 @@ Genetic diversity within populations is influenced by the species' mixed mating 
 
 ## Conservation and Restoration
 
-Tufted hair grass is widely used in ecological restoration of wetlands, riparian areas, and subalpine meadows. Its tolerance of both wet and moderately dry conditions makes it versatile for reclamation projects across diverse environments.
+Tufted hair grass is widely used in ecological restoration of wetlands, riparian areas, and subalpine meadows. Its tolerance of both wet and moderately dry conditions makes it versatile for [[fukuoka-desert-reclamation-projects]] across diverse environments.
 
 ## Overview
 
