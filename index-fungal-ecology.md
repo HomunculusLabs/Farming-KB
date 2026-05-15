@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2923 pages**
+**2928 pages**
 
 ## #
 
@@ -946,6 +946,7 @@
 - [[fungal-dark-taxa]]
 - [[fungal-dark-taxa-environmental-dna-sequencing]]
 - [[fungal-dead-wood-diversity]]
+- [[fungal-decay-and-nutrient-transport]]
 - [[fungal-decomposition]]
 - [[fungal-decomposition-and-biogeochemical-cycles]]
 - [[fungal-decomposition-ecology]]
@@ -1036,6 +1037,7 @@
 - [[fungal-faunal-interactions-in-ecosystems]]
 - [[fungal-faunal-interactions-summary]]
 - [[fungal-faunal-research-landscape]]
+- [[fungal-feeding-and-adaptations]]
 - [[fungal-filter-barnyard-waste-remediation]]
 - [[fungal-foraging-strategies-heterogeneous-environments]]
 - [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
@@ -1049,6 +1051,7 @@
 - [[fungal-genetics]]
 - [[fungal-glomalin-and-soil-carbon]]
 - [[fungal-grazing-responses-sit-and-wait-strategy]]
+- [[fungal-growth-and-decay]]
 - [[fungal-growth-dynamics]]
 - [[fungal-growth-kinetics-mass-transfer]]
 - [[fungal-habitat-diversity]]
@@ -2644,6 +2647,7 @@
 - [[smut-fungi-guide]]
 - [[snow-mold-fungi-cold-temperature-plant-pathogens]]
 - [[soil-aggregate-formation-fungal-contributions]]
+- [[soil-bacteria-decomposition]]
 - [[soil-chytridiomycete-isolation-baiting-techniques-mycology]]
 - [[soil-disturbance-mycorrhizal-impact]]
 - [[soil-foodweb-succession-bacteria-fungi-cycle-ingham]]
@@ -2654,6 +2658,7 @@
 - [[soil-fungal-isolation-techniques]]
 - [[soil-fungi-and-carbon-cycling]]
 - [[soil-fungi-biodiversity]]
+- [[soil-fungi-biology]]
 - [[soil-mycobiome]]
 - [[soil-mycobiome-diversity]]
 - [[soil-mycobiome-structure]]

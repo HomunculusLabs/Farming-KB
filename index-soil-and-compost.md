@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**744 pages**
+**747 pages**
 
 ## A
 
@@ -79,6 +79,7 @@
 ## B
 
 - [[bacterial-associates-amf-structures-biocontrol]]
+- [[bacterial-biofilms-and-nutrient-retention]]
 - [[bacterial-plant-diseases]]
 - [[basalt-rock-dust-agriculture]]
 - [[biochar-in-agriculture]]
@@ -593,6 +594,7 @@
 - [[singh-composted-biomass-as-soil-amendment-remediation]]
 - [[soil-amelioration-and-fertilisers-in-arid-areas]]
 - [[soil-amendment-reference]]
+- [[soil-bacteria-biology]]
 - [[soil-biological-indicators]]
 - [[soil-biology-and-underground-life]]
 - [[soil-building-ecological-garden]]
@@ -689,6 +691,7 @@
 - [[soil-respiration]]
 - [[soil-respiration-and-earth-breathing]]
 - [[soil-self-enrichment]]
+- [[soil-structure-and-aggregation]]
 - [[soil-structure-and-composition]]
 - [[soil-structure-classification]]
 - [[soil-structure-classification-and-composition]]

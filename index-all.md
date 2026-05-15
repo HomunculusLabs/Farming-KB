@@ -1,6 +1,6 @@
 # Complete Page Index
 
-> All 21639 pages in the wiki, alphabetically.
+> All 21647 pages in the wiki, alphabetically.
 
 ## #
 
@@ -1338,6 +1338,7 @@
 - [[bacopa-monnieri]]
 - [[bacteria-and-microorganisms-in-mushroom-fruiting]]
 - [[bacterial-associates-amf-structures-biocontrol]]
+- [[bacterial-biofilms-and-nutrient-retention]]
 - [[bacterial-endophyte-isolation-detection-plant-roots]]
 - [[bacterial-endophytes-plant-roots]]
 - [[bacterial-plant-diseases]]
@@ -8198,6 +8199,7 @@
 - [[fungal-dark-taxa]]
 - [[fungal-dark-taxa-environmental-dna-sequencing]]
 - [[fungal-dead-wood-diversity]]
+- [[fungal-decay-and-nutrient-transport]]
 - [[fungal-decomposition]]
 - [[fungal-decomposition-and-biogeochemical-cycles]]
 - [[fungal-decomposition-ecology]]
@@ -8290,6 +8292,7 @@
 - [[fungal-faunal-interactions-in-ecosystems]]
 - [[fungal-faunal-interactions-summary]]
 - [[fungal-faunal-research-landscape]]
+- [[fungal-feeding-and-adaptations]]
 - [[fungal-filter-barnyard-waste-remediation]]
 - [[fungal-foraging-strategies-heterogeneous-environments]]
 - [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
@@ -8304,6 +8307,7 @@
 - [[fungal-genetics]]
 - [[fungal-glomalin-and-soil-carbon]]
 - [[fungal-grazing-responses-sit-and-wait-strategy]]
+- [[fungal-growth-and-decay]]
 - [[fungal-growth-dynamics]]
 - [[fungal-growth-kinetics-mass-transfer]]
 - [[fungal-habitat-diversity]]
@@ -19193,6 +19197,8 @@
 - [[soil-amendment-reference]]
 - [[soil-arthropods]]
 - [[soil-arthropods]]
+- [[soil-bacteria-biology]]
+- [[soil-bacteria-decomposition]]
 - [[soil-biological-indicators]]
 - [[soil-biology-and-underground-life]]
 - [[soil-biota]]
@@ -19271,6 +19277,7 @@
 - [[soil-fungal-isolation-techniques]]
 - [[soil-fungi-and-carbon-cycling]]
 - [[soil-fungi-biodiversity]]
+- [[soil-fungi-biology]]
 - [[soil-gaseous-exchange-mollison]]
 - [[soil-health-and-conservation]]
 - [[soil-health-and-management]]
@@ -19337,6 +19344,7 @@
 - [[soil-respiration]]
 - [[soil-respiration-and-earth-breathing]]
 - [[soil-self-enrichment]]
+- [[soil-structure-and-aggregation]]
 - [[soil-structure-and-composition]]
 - [[soil-structure-classification]]
 - [[soil-structure-classification-and-composition]]
