@@ -2,7 +2,7 @@
 
 > Fermented foods, beverages, probiotics, and traditional fermentation methods
 
-**43 pages**
+**48 pages**
 
 ## A
 
@@ -94,9 +94,14 @@
 
 ## Y
 
+- [[yeast-biodiversity-and-inventory-protocols]]
 - [[yeast-biodiversity-isolation-ecology]]
+- [[yeast-biodiversity-taxonomy]]
 - [[yeast-biology]]
 - [[yeast-biology-guide]]
+- [[yeast-characterization-and-biodiversity-assessment]]
 - [[yeast-diversity-beetle-gut-microbiomes]]
 - [[yeast-diversity-taxonomy-and-inventory-methods]]
 - [[yeast-isolation-biodiversity-methods]]
+- [[yeast-isolation-community-ecology]]
+- [[yeast-taxonomy-distribution-and-biodiversity]]

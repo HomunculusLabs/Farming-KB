@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1423 pages**
+**1426 pages**
 
 ## A
 
@@ -290,6 +290,7 @@
 - [[comparison-fish-hydrolysate-vs-fish-emulsion]]
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[comparison-foliar-feeding-vs-vermicompost-tea]]
+- [[comparison-food-dehydration-guide-vs-canning-and-preserving]]
 - [[comparison-food-forest-design-vs-backyard-orchard-design]]
 - [[comparison-food-forest-vs-backyard-orchard]]
 - [[comparison-food-forest-vs-orchard]]
@@ -519,6 +520,7 @@
 - [[comparison-pioppino-vs-maitake-cultivation]]
 - [[comparison-pioppino-vs-oyster-cultivation]]
 - [[comparison-pioppino-vs-shiitake-cultivation]]
+- [[comparison-pioppino-vs-wine-cap-cultivation]]
 - [[comparison-polycarbonate-vs-glass-greenhouse-glazing]]
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-pomegranate-vs-persimmon-cultivation]]
@@ -932,6 +934,7 @@
 - [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]]
 - [[query-how-do-i-grow-strawberries-in-my-garden-or-backyard]]
 - [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]
+- [[query-how-do-i-grow-taro-in-my-garden-or-backyard]]
 - [[query-how-do-i-grow-tomatoes-from-seed-to-harvest]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]
