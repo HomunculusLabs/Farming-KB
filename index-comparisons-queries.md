@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1402 pages**
+**1406 pages**
 
 ## A
 
@@ -60,6 +60,7 @@
 - [[comparison-ashwagandha-vs-rhodiola-cultivation]]
 - [[comparison-ashwagandha-vs-tulsi]]
 - [[comparison-astragalus-vs-ashwagandha]]
+- [[comparison-astragalus-vs-chamomile]]
 - [[comparison-astragalus-vs-echinacea]]
 - [[comparison-astragalus-vs-reishi]]
 - [[comparison-astragalus-vs-rhodiola]]
@@ -445,6 +446,7 @@
 - [[comparison-mullein-vs-chamomile]]
 - [[comparison-mullein-vs-comfrey]]
 - [[comparison-mullein-vs-echinacea]]
+- [[comparison-mullein-vs-lemon-balm]]
 - [[comparison-mullein-vs-st-johns-wort]]
 - [[comparison-mullein-vs-tulsi]]
 - [[comparison-mullein-vs-valerian]]
@@ -564,6 +566,7 @@
 - [[comparison-rotational-grazing-vs-set-stocking]]
 - [[comparison-scented-geraniums-vs-edible-flowers]]
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
+- [[comparison-schisandra-vs-chamomile]]
 - [[comparison-schisandra-vs-echinacea]]
 - [[comparison-schisandra-vs-passionflower]]
 - [[comparison-schisandra-vs-rhodiola]]
@@ -1238,6 +1241,7 @@
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[query-what-are-green-manures-and-how-to-use-them]]
 - [[query-what-are-heirloom-and-landrace-varieties-and-why-do-they-matter]]
+- [[query-what-are-insectary-plants-and-how-do-i-use-them]]
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]]
 - [[query-what-are-permaculture-zones-and-how-do-i-use-them]]

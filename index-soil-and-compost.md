@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**736 pages**
+**739 pages**
 
 ## A
 
@@ -86,6 +86,7 @@
 - [[biochar-soil-amendment]]
 - [[biochar-soil-remediation]]
 - [[biodiversity-soil-life]]
+- [[biofertilizers-and-micronutrient-sources]]
 - [[biological-element-transport-and-soil-ph]]
 - [[biological-indicators-of-soil-and-site]]
 - [[biological-indicators-of-soil-conditions]]
@@ -208,6 +209,8 @@
 - [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
 - [[direct-seeded-no-tillage-rice-winter-grain-succession]]
 - [[direct-seeded-notillage-rice-barley-clover-succession]]
+- [[diy-fertilizer-recipes-and-application-methods]]
+- [[diy-organic-fertilizer-recipes-and-application-methods]]
 - [[dryland-soils-and-mineral-nutrition]]
 - [[duggar-stable-manure-selection-compost-materials]]
 - [[dynamic-accumulator-bracken-fern-potash]]
@@ -234,7 +237,6 @@
 - [[essential-plant-macronutrients-npk]]
 - [[essential-plant-micronutrients]]
 - [[essential-plant-micronutrients-and-nutrient-mobility]]
-- [[essential-plant-nutrients-macronutrients]]
 - [[essential-soil-macronutrients-hydrogen-boron-carbon-nitrogen]]
 - [[establishing-healthy-soil-foodweb]]
 - [[exotic-plantations-soil-aggregates-and-carbon-sequestration]]
@@ -510,7 +512,6 @@
 - [[nutrient-mobility-cation-exchange-and-soil-chemistry]]
 - [[nutrient-movement-plant-roots]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[nutrient-movement-to-plant-roots]]
 - [[nutrient-uptake-and-membrane-transport-in-plants]]
 - [[nutrient-uptake-by-plant-roots]]
 
@@ -518,9 +519,11 @@
 
 - [[organic-composting-methods]]
 - [[organic-fertilizer-recipes]]
+- [[organic-fertilizer-sources-and-biofertilizers]]
 - [[organic-fertilizer-sources-guide]]
 - [[organic-garden-soil-preparation]]
 - [[organic-mulching-techniques]]
+- [[organic-phosphorus-potassium-calcium-fertilizers]]
 - [[organic-soil-enrichment-compost-manure-green-manures]]
 - [[organic-soil-management]]
 - [[organic-vs-chemical-fertilizers-and-manure-quality]]
@@ -619,6 +622,7 @@
 - [[soil-food-web-and-building-living-soil]]
 - [[soil-food-web-and-building-soil]]
 - [[soil-food-web-assessment]]
+- [[soil-food-web-key-points-cell-universe-analogy]]
 - [[soil-food-web-management-for-farmers]]
 - [[soil-food-web-nutrient-cycling]]
 - [[soil-food-web-structure]]
@@ -688,7 +692,6 @@
 - [[soil-temperature-and-plant-growth-solomon]]
 - [[soil-temperature-oxygen-plant-growth]]
 - [[soil-temperature-plant-growth-rate-doubling-rule]]
-- [[soil-testing]]
 - [[soil-testing-and-analysis]]
 - [[soil-testing-and-interpretation]]
 - [[soil-testing-methods-interpretation]]
