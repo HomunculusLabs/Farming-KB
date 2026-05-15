@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1771 pages**
+**1770 pages**
 
 ## #
 
@@ -66,7 +66,6 @@
 - [[archaeology-of-psychedelic-mushroom-use]]
 - [[archaeology-of-psychedelic-mushrooms]]
 - [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]]
-- [[atropine-antidote-mushroom-poisoning]]
 - [[atropine-solanaceous-antidotes-mushroom-poisoning]]
 - [[australian-magic-mushroom-common-names]]
 - [[azurescens-cyanescens-and-woodlovers-comparison]]

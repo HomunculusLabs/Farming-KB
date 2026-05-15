@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**718 pages**
+**729 pages**
 
 ## A
 
@@ -107,6 +107,8 @@
 - [[calcium-phosphate-bionutrient]]
 - [[capillary-action-in-soils]]
 - [[carbon-to-nitrogen-ratios]]
+- [[cation-exchange-and-nonessential-elements]]
+- [[cation-exchange-and-nutrient-mobility-in-soil]]
 - [[chelated-nutrients]]
 - [[chelation-and-nutrient-availability]]
 - [[chelation-plant-nutrient-availability]]
@@ -228,6 +230,11 @@
 - [[edaphic-factors-soil-microbial-community-structure]]
 - [[endorhiza-bacterial-communities]]
 - [[essential-plant-elements-hydrogen-boron-carbon-nitrogen]]
+- [[essential-plant-macronutrients]]
+- [[essential-plant-macronutrients-npk]]
+- [[essential-plant-micronutrients]]
+- [[essential-plant-micronutrients-and-nutrient-mobility]]
+- [[essential-plant-nutrients-macronutrients]]
 - [[essential-soil-macronutrients-hydrogen-boron-carbon-nitrogen]]
 - [[establishing-healthy-soil-foodweb]]
 - [[exotic-plantations-soil-aggregates-and-carbon-sequestration]]
@@ -411,6 +418,7 @@
 ## L
 
 - [[lactic-acid-bacteria-lab]]
+- [[law-of-minimum-and-npk-fertilizers]]
 - [[leaf-mold-composting]]
 - [[leaf-tissue-analysis-crop-nutrient-status]]
 - [[ley-farming-soil-rebuilding-solomon]]
@@ -498,6 +506,7 @@
 - [[nutrient-dense-gardening]]
 - [[nutrient-dynamic-accumulator-reference]]
 - [[nutrient-lockout]]
+- [[nutrient-mobility-cation-exchange-and-soil-chemistry]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 
 ## O
@@ -535,6 +544,7 @@
 - [[plant-sap-analysis-nutrient-diagnostics]]
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[plants-tolerant-of-alkaline-soils]]
+- [[plasmalemma-and-nutrient-transport]]
 - [[plow-pan-soil-compaction-remediation-solomon]]
 - [[pond-fertilisation-and-nutrient-management]]
 - [[pond-fertilizers-waste-management]]
@@ -565,6 +575,7 @@
 - [[savory-soil-carbon-sequestration]]
 - [[savory-soil-surface-and-capping]]
 - [[sawdust-toilet-composting]]
+- [[secondary-macronutrients-and-micronutrients]]
 - [[serpentine-soil-ecology]]
 - [[sheet-composting]]
 - [[sheet-composting-technique]]

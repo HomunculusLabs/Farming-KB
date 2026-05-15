@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2921 pages**
+**2920 pages**
 
 ## #
 
@@ -854,7 +854,6 @@
 - [[fungal-biodiversity-crisis]]
 - [[fungal-biodiversity-data-analysis]]
 - [[fungal-biodiversity-deep-subsurface-caves]]
-- [[fungal-biodiversity-ecosystem-function]]
 - [[fungal-biodiversity-education-citizen-science]]
 - [[fungal-biodiversity-estimates]]
 - [[fungal-biodiversity-estimation]]

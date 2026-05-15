@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1347 pages**
+**1353 pages**
 
 ## A
 
@@ -894,6 +894,7 @@
 - [[plant-cell-membrane-transport-proteins]]
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[plant-cell-structure-and-organelles]]
+- [[plant-cell-wall-and-water-pathways]]
 - [[plant-cellulose-and-carbohydrate-chemistry]]
 - [[plant-circadian-rhythms]]
 - [[plant-communication-volatile-organic-compounds]]
@@ -932,6 +933,7 @@
 - [[plant-memory-epigenetic-recall-mechanisms]]
 - [[plant-memory-what-a-plant-remembers]]
 - [[plant-mothers-spirits]]
+- [[plant-nutrition-science-history]]
 - [[plant-olfaction-and-chemical-communication]]
 - [[plant-olfaction-and-volatile-signaling]]
 - [[plant-olfaction-chemical-sensing]]
@@ -978,11 +980,15 @@
 - [[plant-thigmomorphogenesis-mechanosensing]]
 - [[plant-thigmomorphogenesis-what-a-plant-feels]]
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
+- [[plant-tissues-dermal-ground-and-root-structure]]
 - [[plant-tropisms-perception-mechanisms]]
+- [[plant-vascular-tissue-and-root-anatomy]]
 - [[plant-vision-and-light-perception-mechanisms]]
 - [[plant-vision-and-phototropism]]
 - [[plant-vision-light-perception]]
 - [[plant-volatile-communication-chemical-ecology]]
+- [[plant-water-transport-and-root-anatomy]]
+- [[plant-water-transport-and-transpiration]]
 - [[plantation-forestry-carbon-dynamics]]
 - [[plantation-monoculture-reform]]
 - [[planting-categories-and-keyhole-beds]]

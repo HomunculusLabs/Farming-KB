@@ -2,7 +2,7 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**74 pages**
+**73 pages**
 
 ## A
 
@@ -84,7 +84,6 @@
 - [[pharmaceutical-bioremediation]]
 - [[phytoextraction-mechanisms]]
 - [[phytomining]]
-- [[phytoremediation]]
 - [[phytoremediation-mechanisms]]
 - [[phytostabilization]]
 - [[phytovolatilization]]

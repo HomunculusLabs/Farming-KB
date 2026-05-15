@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1395 pages**
+**1401 pages**
 
 ## A
 
@@ -329,6 +329,7 @@
 - [[comparison-hardneck-vs-softneck-garlic]]
 - [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]]
 - [[comparison-hawthorn-vs-ashwagandha]]
+- [[comparison-hawthorn-vs-echinacea]]
 - [[comparison-hawthorn-vs-valerian]]
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
@@ -563,6 +564,7 @@
 - [[comparison-rotational-grazing-vs-set-stocking]]
 - [[comparison-scented-geraniums-vs-edible-flowers]]
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
+- [[comparison-schisandra-vs-echinacea]]
 - [[comparison-schisandra-vs-passionflower]]
 - [[comparison-schisandra-vs-rhodiola]]
 - [[comparison-schisandra-vs-tulsi]]
@@ -704,6 +706,7 @@
 - [[comparison-yarrow-vs-ashwagandha]]
 - [[comparison-yarrow-vs-chamomile]]
 - [[comparison-yarrow-vs-rhodiola]]
+- [[comparison-yarrow-vs-tulsi]]
 - [[comparison-yarrow-vs-valerian]]
 - [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
 - [[complete-knf-input-reference]]
@@ -871,6 +874,7 @@
 - [[query-how-do-i-grow-and-use-edible-flowers-in-my-garden]]
 - [[query-how-do-i-grow-and-use-ginger-and-turmeric]]
 - [[query-how-do-i-grow-and-use-mullein]]
+- [[query-how-do-i-grow-and-use-rosemary-in-my-garden]]
 - [[query-how-do-i-grow-and-use-yarrow]]
 - [[query-how-do-i-grow-bananas-in-a-subtropical-climate]]
 - [[query-how-do-i-grow-beans-in-my-garden]]
@@ -909,6 +913,7 @@
 - [[query-how-do-i-grow-spinach-successfully]]
 - [[query-how-do-i-grow-squash-pumpkins-and-cucumbers-successfully]]
 - [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]]
+- [[query-how-do-i-grow-strawberries-in-my-garden-or-backyard]]
 - [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]
 - [[query-how-do-i-grow-tomatoes-from-seed-to-harvest]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
@@ -1283,6 +1288,7 @@
 - [[query-what-are-the-most-medicinal-mushrooms]]
 - [[query-what-are-the-most-nutritious-backyard-berries-and-how-do-i-grow-them]]
 - [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
+- [[query-what-are-the-seven-layers-of-a-forest-garden]]
 - [[query-what-are-the-stages-of-cannabis-growth]]
 - [[query-what-are-the-stages-of-mushroom-cultivation]]
 - [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]]

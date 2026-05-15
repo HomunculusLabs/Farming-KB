@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1871 pages**
+**1879 pages**
 
 ## #
 
@@ -151,6 +151,7 @@
 - [[banisteriopsis-and-ayahuasca]]
 - [[banisteriopsis-ayahuasca-cross-cultural-vision-patterns]]
 - [[banisteriopsis-ayahuasca-vine]]
+- [[bardo-instruction-texts-psychedelic-sessions]]
 - [[barquinha-church-umbanda-orixas-ayahuasca-syncretism]]
 - [[beatrice-pihkal-entry-11]]
 - [[belladonna-atropa-belladonna-ethnobotany]]
@@ -1556,6 +1557,7 @@
 - [[psychedelic-experience-stages]]
 - [[psychedelic-experience-tibetan-bardo-framework]]
 - [[psychedelic-experience-tibetan-book-of-the-dead]]
+- [[psychedelic-guide-group-composition]]
 - [[psychedelic-harm-reduction]]
 - [[psychedelic-harm-reduction-guide]]
 - [[psychedelic-harm-reduction-philosophy]]
@@ -1583,6 +1585,9 @@
 - [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-safety-guidelines-turner]]
 - [[psychedelic-secrecy-comparative-eleusis-mesoamerica]]
+- [[psychedelic-session-instructions]]
+- [[psychedelic-session-instructions-bardo-guide]]
+- [[psychedelic-session-preparation-set-and-setting]]
 - [[psychedelic-set-and-setting]]
 - [[psychedelic-shamanism-as-death-practice]]
 - [[psychedelic-spirituality-and-religion]]
@@ -1615,6 +1620,7 @@
 - [[random-assembly-creative-design]]
 - [[rarian-plain-sacred-grain-eleusis]]
 - [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
+- [[re-entry-visions-judgment-psychedelic-experience]]
 - [[reactive-house-design-and-building-integration]]
 - [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]]
 - [[reversed-phase-hplc-tlc-confirmation-psilocybin-psilocin-quantification-bigwood-beug]]
@@ -1694,6 +1700,7 @@
 - [[set-and-setting-model-psychedelic-therapy]]
 - [[set-and-setting-psychedelic-therapy-framework]]
 - [[set-and-setting-universal-framework-altered-states]]
+- [[set-setting-psychedelic-therapy]]
 - [[shamanic-battles-and-protective-powers]]
 - [[shamanic-ecstasy-and-healing]]
 - [[shamanic-ecstasy-and-techniques]]
@@ -1933,6 +1940,7 @@
 - [[william-james-multiple-forms-of-consciousness]]
 - [[williams-pdc-stacking-functions-and-system-integration]]
 - [[world-of-the-yakuruna]]
+- [[wrathful-visions-psychedelic-experience]]
 
 ## Y
 
