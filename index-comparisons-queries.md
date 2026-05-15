@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1411 pages**
+**1416 pages**
 
 ## A
 
@@ -334,6 +334,8 @@
 - [[comparison-hawthorn-vs-ashwagandha]]
 - [[comparison-hawthorn-vs-chamomile]]
 - [[comparison-hawthorn-vs-echinacea]]
+- [[comparison-hawthorn-vs-lemon-balm]]
+- [[comparison-hawthorn-vs-tulsi]]
 - [[comparison-hawthorn-vs-valerian]]
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
@@ -571,6 +573,7 @@
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
 - [[comparison-schisandra-vs-chamomile]]
 - [[comparison-schisandra-vs-echinacea]]
+- [[comparison-schisandra-vs-lemon-balm]]
 - [[comparison-schisandra-vs-passionflower]]
 - [[comparison-schisandra-vs-rhodiola]]
 - [[comparison-schisandra-vs-tulsi]]
@@ -1002,6 +1005,7 @@
 - [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]
 - [[query-how-do-i-use-chop-and-drop-mulching-in-my-food-forest]]
 - [[query-how-do-i-use-comfrey-in-the-garden]]
+- [[query-how-do-i-use-coppicing-and-pollarding-for-sustainable-wood-production]]
 - [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]]
 - [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
 - [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]]
@@ -1324,6 +1328,7 @@
 - [[query-what-is-a-wavelet-transform-used-for]]
 - [[query-what-is-agroecology-and-how-does-it-differ-from-organic-farming]]
 - [[query-what-is-agroforestry-and-how-can-i-start]]
+- [[query-what-is-allelopathy-and-how-does-it-affect-my-garden]]
 - [[query-what-is-alley-cropping-and-when-should-i-use-it]]
 - [[query-what-is-azolla-and-why-is-it-called-a-superplant]]
 - [[query-what-is-bioacoustics-and-how-is-sound-used-in-nature]]

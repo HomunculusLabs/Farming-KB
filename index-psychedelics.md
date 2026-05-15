@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1879 pages**
+**1890 pages**
 
 ## #
 
@@ -254,6 +254,7 @@
 - [[dm-reference]]
 - [[dmmda-compound-profile]]
 - [[dmt-and-ayahuasca-history]]
+- [[dmt-and-the-logos-mckenna-tryptamine-consciousness]]
 - [[dmt-as-hallucinogen]]
 - [[dmt-black-hole-effect-and-incommunicability]]
 - [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]
@@ -650,6 +651,7 @@
 - [[hallucinogens-and-shamanism-introduction]]
 - [[hallucinogens-dissociative-agents-growing-united-states]]
 - [[hallucinogens-in-westernizing-cultures]]
+- [[hallucinogens-psychotherapy-shamanism-metzner-comparative-framework]]
 - [[halpern-internet-dissemination-psychoactive-plants-public-health]]
 - [[halpern-sacramental-peyote-and-native-american-church]]
 - [[harm-reduction-guide]]
@@ -855,6 +857,7 @@
 - [[mckenna-amazon-shamanism-and-ayahuasca]]
 - [[mckenna-archaic-paradise-techniques-ecstasy]]
 - [[mckenna-archaic-revival]]
+- [[mckenna-archaic-revival-dominator-culture-theory]]
 - [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]
 - [[mckenna-archaic-sexuality-and-partnership-society]]
 - [[mckenna-art-archaic-revival]]
@@ -1085,6 +1088,7 @@
 - [[mckenna-spice-trade-and-medieval-drug-scarcity]]
 - [[mckenna-stoned-ape-hypothesis]]
 - [[mckenna-stoned-ape-hypothesis-human-evolution]]
+- [[mckenna-stoned-ape-hypothesis-psilocybin-human-evolution]]
 - [[mckenna-sugar-addiction-slavery-dominator-culture]]
 - [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
 - [[mckenna-sugar-as-psychoactive-drug]]
@@ -1426,6 +1430,7 @@
 - [[psilocin-psilocybin-characterization]]
 - [[psilocin-psilocybin-synthesis-shirota]]
 - [[psilocybe-cubensis-strains-names-and-marketing]]
+- [[psilocybe-semilanceata-liberty-cap]]
 - [[psilocybin-5ht2a-receptor-pharmacology]]
 - [[psilocybin-accidental-ingestion-australia]]
 - [[psilocybin-accidental-ingestion-cases]]
@@ -1466,6 +1471,7 @@
 - [[psilocybin-default-mode-network-ego-dissolution]]
 - [[psilocybin-degradation-volatility-and-specimen-age]]
 - [[psilocybin-depression-anxiety-treatment]]
+- [[psilocybin-dosage-and-pharmacology]]
 - [[psilocybin-dosage-guidelines-australian-species]]
 - [[psilocybin-ego-dissolution-mechanisms]]
 - [[psilocybin-end-of-life-care]]
@@ -1605,6 +1611,7 @@
 - [[psychoactive-cacti-species-reference]]
 - [[psychoactive-plants-united-states]]
 - [[psycholytic-and-psychedelic-therapy-models]]
+- [[psycholytic-therapy-psilocybin-history-efficacy]]
 - [[psycholytic-versus-psychedelic-therapy-models]]
 - [[psycholytic-vs-psychedelic-therapy]]
 - [[psycholytic-vs-psychedelic-therapy-historical-models-metzner]]
@@ -1797,6 +1804,7 @@
 - [[soma-multi-plant-admixture-theory]]
 - [[soma-mystery-identity]]
 - [[soma-plant-admixture-theory]]
+- [[soma-question-identity-vedic-sacrament]]
 - [[soma-vedic-enigma]]
 - [[soma-vedic-history]]
 - [[stamets-psi-bluing-reaction-psilocybin-indicator]]
@@ -1849,8 +1857,11 @@
 - [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]
 - [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]
 - [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
+- [[tryptamine-biotransformation-psilocybe]]
+- [[tryptamine-biotransformation-psilocybe-cubensis]]
 - [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]
 - [[tryptamine-consciousness-theory]]
+- [[tryptamine-effects-on-psilocybe-cubensis]]
 - [[tryptamine-endogenous-familiarity-and-rapid-pharmacokinetics]]
 - [[tryptamine-family-overview]]
 - [[tryptamine-glossolalia-and-language]]

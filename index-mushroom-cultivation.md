@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1771 pages**
+**1784 pages**
 
 ## #
 
@@ -251,6 +251,7 @@
 - [[dikaryon-formation-mushroom-strain-genetics]]
 - [[dipole-antenna-array-configuration-microwave-surface-sterilization]]
 - [[directed-inoculum-production-process-for-amf]]
+- [[discovery-of-psilocybin-mushrooms-by-western-science]]
 - [[disposable-tray-casing-method-grass-seed-substrate]]
 - [[distinguishing-mushrooms-from-toadstools]]
 - [[dry-vermiculite-contaminant-barrier-pf-tek]]
@@ -454,6 +455,7 @@
 - [[gasteromycete-fruiting-bodies]]
 - [[giant-macrocybe-and-parasol-mushroom-cultivation]]
 - [[global-distribution-psilocybin-mushrooms]]
+- [[global-ethnography-psychoactive-mushroom-use]]
 - [[global-psychedelic-mushroom-species-diversity]]
 - [[global-wild-mushroom-trade]]
 - [[golden-guide-psilocybin-mushrooms-overview]]
@@ -481,6 +483,7 @@
 - [[gourmet-mushroom-natural-culture]]
 - [[gourmet-mushroom-species-guide]]
 - [[grain-spawn-generation]]
+- [[grain-spawn-mushroom-cultivation]]
 - [[grain-spawn-preparation]]
 - [[grain-spawn-production]]
 - [[grain-spawn-types-and-preparation]]
@@ -759,7 +762,6 @@
 - [[magic-mushrooms-british-underground]]
 - [[magnetron-oscillator-microwave-sterilization]]
 - [[maitake-cancer-clinical-research]]
-- [[maitake-cultivation]]
 - [[maitake-cultivation-guide]]
 - [[maitake-d-fraction-research]]
 - [[maitake-fruiting-body-morphogenetic-stages]]
@@ -767,6 +769,7 @@
 - [[maitake-grifola-frondosa]]
 - [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[maitake-grifola-frondosa-cultivation]]
+- [[maitake-growth-parameter-management]]
 - [[maitake-growth-parameters]]
 - [[maitake-hen-of-the-woods-cultivation]]
 - [[maitake-morphogenetic-stages-observation]]
@@ -774,6 +777,9 @@
 - [[maitake-problem-solving-troubleshooting]]
 - [[maitake-soil-casing-technique]]
 - [[maitake-spawn-types-and-suppliers]]
+- [[maitake-strain-selection-and-spawn-types]]
+- [[maitake-substrate-formulation]]
+- [[maitake-synthetic-log-cultivation]]
 - [[malt-agar-baseline-medium-psilocybe-cubensis-growth-assay]]
 - [[malt-agar-vs-dung-grain-comparative-cultivation-psilocybe-cubensis]]
 - [[maria-sabina-and-mazatec-mushroom-ceremony]]
@@ -900,6 +906,7 @@
 - [[mushroom-apoptosis-mechanisms]]
 - [[mushroom-bag-inoculation-short-needle-vs-long-needle]]
 - [[mushroom-bag-production-cost-justification]]
+- [[mushroom-basidiocarp-development-stages-psilocybe-cubensis]]
 - [[mushroom-bed-types-flat-and-ridge-beds]]
 - [[mushroom-biology-and-life-cycle]]
 - [[mushroom-biology-life-cycle-classification]]
@@ -908,6 +915,7 @@
 - [[mushroom-bioremediation]]
 - [[mushroom-business-startup-guide]]
 - [[mushroom-cancer-clinical-trials-overview]]
+- [[mushroom-casing-and-fruiting]]
 - [[mushroom-casing-layers]]
 - [[mushroom-casing-layers-fruiting-initiation-stamets]]
 - [[mushroom-casing-moisture-management]]
@@ -1189,6 +1197,7 @@
 - [[mushroom-species-selection-guide]]
 - [[mushroom-species-sequencing]]
 - [[mushroom-species-sequencing-cultivation]]
+- [[mushroom-sporulation-and-geotropism]]
 - [[mushroom-sterile-technique]]
 - [[mushroom-sterile-technique-detailed]]
 - [[mushroom-stipe-development-stages]]
@@ -1521,6 +1530,7 @@
 - [[psilocybin-mushroom-alcohol-extraction-pf-tek]]
 - [[psilocybin-mushroom-altitudinal-distribution]]
 - [[psilocybin-mushroom-biology-chemistry]]
+- [[psilocybin-mushroom-bluing-reaction-biochemistry]]
 - [[psilocybin-mushroom-bluing-reaction-chemistry]]
 - [[psilocybin-mushroom-chemistry]]
 - [[psilocybin-mushroom-chemistry-and-pharmacology-basics]]
@@ -1529,6 +1539,7 @@
 - [[psilocybin-mushroom-cultivation]]
 - [[psilocybin-mushroom-cultivation-basics]]
 - [[psilocybin-mushroom-cultivation-compost-basics]]
+- [[psilocybin-mushroom-cultivation-fundamentals]]
 - [[psilocybin-mushroom-cultural-artifacts]]
 - [[psilocybin-mushroom-deadly-lookalikes]]
 - [[psilocybin-mushroom-discovery-historical-periods]]
@@ -1551,6 +1562,7 @@
 - [[psilocybin-mushroom-habitats-ecology]]
 - [[psilocybin-mushroom-harvesting-potency]]
 - [[psilocybin-mushroom-history-ethnobotany]]
+- [[psilocybin-mushroom-history-law-australia-new-zealand]]
 - [[psilocybin-mushroom-hunting-conditions]]
 - [[psilocybin-mushroom-identification]]
 - [[psilocybin-mushroom-identification-guide]]
@@ -1592,6 +1604,7 @@
 - [[psychedelic-mushroom-pharmacology]]
 - [[psychedelic-mushroom-set-and-setting]]
 - [[psychedelic-mushroom-taxonomy]]
+- [[psychoactive-mushrooms-australia-new-zealand]]
 - [[pure-culture-spawn-method-duggar-usda-1902]]
 - [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]
 
@@ -1779,7 +1792,6 @@
 - [[sustainable-mushroom-cultivation]]
 - [[sustaining-mushroom-crop-flushing-harvesting]]
 - [[swaziland-mushroom-project-lessons]]
-- [[synthetic-log-cultivation]]
 - [[synthetic-log-cultivation-methods-guide]]
 - [[synthetic-log-cultivation-species-selection]]
 - [[synthetic-log-mushroom-cultivation]]
@@ -1804,6 +1816,7 @@
 - [[training-program-mushroom-cultivation]]
 - [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]]
 - [[tropical-shiitake-cultivation-sawdust-substrate-low-cost]]
+- [[tryptamine-biotransformation-psilocin-potency-cubensis-fruiting]]
 - [[turkey-tail-mushroom-cancer-research]]
 - [[turkey-tail-paddy-straw-cultivation]]
 

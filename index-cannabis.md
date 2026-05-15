@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**1213 pages**
+**1222 pages**
 
 ## #
 
@@ -383,6 +383,7 @@
 - [[cannabis-cultivar-specificity]]
 - [[cannabis-cultivar-specificity-endorhiza-microbiome]]
 - [[cannabis-cultivar-specificity-microbial-selection-mechanisms]]
+- [[cannabis-cultivar-specificity-microbiome]]
 - [[cannabis-curing-jar-technique]]
 - [[cannabis-curing-jars]]
 - [[cannabis-curing-storage-post-harvest-clarke]]
@@ -572,14 +573,19 @@
 - [[cannabis-methods-of-consumption]]
 - [[cannabis-mexican-strain-description-clarke]]
 - [[cannabis-microbial-terpene-enhancement]]
+- [[cannabis-microbiome]]
 - [[cannabis-microbiome-agricultural-implications-and-future-directions]]
 - [[cannabis-microbiome-alpha-diversity-gradient]]
 - [[cannabis-microbiome-best-analysis-edaphic-factor-ranking]]
 - [[cannabis-microbiome-cannabinoid-endorhiza-correlation]]
 - [[cannabis-microbiome-cultivar-specificity]]
+- [[cannabis-microbiome-dual-experiment-design-cultivar-specificity]]
 - [[cannabis-microbiome-experimental-design]]
 - [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
+- [[cannabis-microbiome-overview]]
+- [[cannabis-microbiome-plant-soil-feedback]]
 - [[cannabis-microbiome-research]]
+- [[cannabis-microbiome-soil-and-cannabinoid-interactions]]
 - [[cannabis-microbiome-soil-type-composition-strain-structure]]
 - [[cannabis-microbiome-two-tier-selection]]
 - [[cannabis-microbiome-unifrac-beta-diversity-analysis]]
@@ -996,6 +1002,7 @@
 - [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]]
 - [[edaphic-factor-ranking-nitrogen-salinity-carbon-cannabis-microbiome]]
 - [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
+- [[edaphic-factors-cannabis-microbiome]]
 - [[edaphic-factors-cannabis-microbiome-structuring]]
 - [[edaphic-factors-structuring-cannabis-microbiome]]
 - [[endocannabinoid-autonomic-nervous-system-balance-blesching]]
@@ -1013,6 +1020,7 @@
 - [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]
 - [[endorhiza-microbiome-cannabis-cultivar-specificity]]
 - [[endorhiza-shared-otu-soil-origin-cannabis]]
+- [[endorhiza-soil-otu-sharing-cannabis-cultivar-specificity]]
 - [[epinephrine-stress-response-endocannabinoid-modulation-blesching]]
 - [[expansive-constricting-emotions-neurotransmitter-associations-blesching]]
 
@@ -1103,6 +1111,7 @@
 
 ## L
 
+- [[lactic-acid-bacteria-serum-cannabis-cannabinoid-production]]
 - [[landrace-cannabis-sativa-strains]]
 - [[leaf-miners-cannabis]]
 - [[led-grow-lights]]

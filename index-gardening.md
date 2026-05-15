@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1364 pages**
+**1363 pages**
 
 ## A
 
@@ -123,7 +123,6 @@
 - [[clay-pellet-seed-dispersal]]
 - [[clay-pellet-seed-dissemination-revegetation]]
 - [[clay-pellet-seed-encapsulation]]
-- [[clay-pellet-seeding]]
 - [[clay-pellet-seeding-technique]]
 - [[clay-seed-balls-tsuchi-dango]]
 - [[clay-seed-pellet-composition-and-aerial-seeding-method]]

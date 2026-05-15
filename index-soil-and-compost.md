@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**769 pages**
+**772 pages**
 
 ## A
 
@@ -142,6 +142,7 @@
 - [[coleman-willow-basket-hotte-manure-transport]]
 - [[coleman-winter-soil-health]]
 - [[comfrey-tea-liquid-fertilizer]]
+- [[compacted-soil-and-trees]]
 - [[complete-organic-fertilizer-cof]]
 - [[complete-organic-fertilizer-cof-formula]]
 - [[complete-organic-fertilizer-cof-recipe-and-application]]
@@ -160,7 +161,6 @@
 - [[compost-science-and-soil-fertility]]
 - [[compost-tea-aact]]
 - [[compost-tea-application-and-disease-suppression]]
-- [[compost-tea-application-disease-suppression]]
 - [[compost-tea-application-methods]]
 - [[compost-tea-application-methods-and-rates]]
 - [[compost-tea-application-rates]]
@@ -292,6 +292,7 @@
 - [[green-manures-organic-gardening]]
 - [[greenhouse-soil-preparation-fertility]]
 - [[greg-green-npk-and-nutrient-deficiency]]
+- [[growing-annuals-and-vegetables-with-soil-food-web]]
 - [[growing-vegetables-with-less-fertilizer]]
 
 ## H
@@ -644,6 +645,8 @@
 - [[soil-food-web-assessment]]
 - [[soil-food-web-assessment-methods]]
 - [[soil-food-web-census-methods]]
+- [[soil-food-web-garden-calendar]]
+- [[soil-food-web-gardening-rules]]
 - [[soil-food-web-introduction]]
 - [[soil-food-web-key-points-cell-universe-analogy]]
 - [[soil-food-web-lawn-care]]
@@ -651,7 +654,6 @@
 - [[soil-food-web-nutrient-cycling]]
 - [[soil-food-web-restoration-tools]]
 - [[soil-food-web-structure]]
-- [[soil-foodweb]]
 - [[soil-foodweb-balancing-protocol-ingham]]
 - [[soil-foodweb-biological-balancing-protocol-ingham]]
 - [[soil-foodweb-biology]]
@@ -829,6 +831,7 @@
 
 - [[water-infiltration-soil-hydraulic-conductivity]]
 - [[water-soluble-potassium-wp]]
+- [[weed-and-pest-management-in-soil-food-web-gardens]]
 - [[weed-tea-liquid-fertilizer]]
 - [[white-clover-living-mulch]]
 - [[wireworm-control]]
