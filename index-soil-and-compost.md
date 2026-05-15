@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**729 pages**
+**736 pages**
 
 ## A
 
@@ -462,6 +462,7 @@
 - [[mechanical-soil-conditioning]]
 - [[mechanical-soil-conditioning-techniques]]
 - [[medium-quality-compost-method]]
+- [[membrane-transport-of-nutrients-into-plant-cells]]
 - [[microbial-alpha-diversity-soil-plant-gradient]]
 - [[microbial-chelation-nutrient-cycling]]
 - [[microbial-disease-suppression-soil]]
@@ -507,7 +508,11 @@
 - [[nutrient-dynamic-accumulator-reference]]
 - [[nutrient-lockout]]
 - [[nutrient-mobility-cation-exchange-and-soil-chemistry]]
+- [[nutrient-movement-plant-roots]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
+- [[nutrient-movement-to-plant-roots]]
+- [[nutrient-uptake-and-membrane-transport-in-plants]]
+- [[nutrient-uptake-by-plant-roots]]
 
 ## O
 
@@ -798,3 +803,8 @@
 - [[worm-ecology-soil-building]]
 - [[worm-farming-for-profit]]
 - [[wormery-construction]]
+
+## X
+
+- [[xylem-and-phloem-nutrient-transport-systems]]
+- [[xylem-phloem-nutrient-transport]]

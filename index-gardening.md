@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1353 pages**
+**1359 pages**
 
 ## A
 
@@ -763,6 +763,7 @@
 - [[meadow-vole-management-greenhouses]]
 - [[medicinal-plant-guide]]
 - [[medicinal-plant-preparations-tinctures-salves-teas]]
+- [[membrane-transport-proteins-in-plants]]
 - [[microbial-terroir-and-crop-specificity]]
 - [[microplastic-bioremediation]]
 - [[mineral-deficiency-remedies-and-garden-solutions]]
@@ -775,6 +776,7 @@
 - [[molecular-bonds-and-chemistry-for-gardeners]]
 - [[molecules-of-life-in-plants]]
 - [[molecules-of-life-plant-cells]]
+- [[molecules-of-life-plants]]
 - [[monster-cropping]]
 - [[mountain-gardening]]
 - [[movable-greenhouses]]
@@ -922,6 +924,7 @@
 - [[plant-mechanosensation-thigmomorphogenesis-touch-response]]
 - [[plant-mechanosensing-and-thigmomorphogenesis]]
 - [[plant-medicine-ethics]]
+- [[plant-membrane-transport-proteins]]
 - [[plant-memory]]
 - [[plant-memory-and-associative-learning]]
 - [[plant-memory-and-learning]]
@@ -1289,9 +1292,11 @@
 - [[top-bar-hive]]
 - [[town-garden-design]]
 - [[transcendent-other-and-plant-human-information-transfer]]
+- [[transpiration-and-water-movement-in-plants]]
 - [[transplanting-technique]]
 - [[transplanting-techniques-low-input]]
 - [[transplanting-techniques-solomon]]
+- [[transport-proteins-ion-uptake-plants]]
 - [[trap-cropping]]
 - [[tree-of-knowledge-and-forbidden-fruit-theory]]
 - [[trees-and-the-water-cycle]]
@@ -1364,6 +1369,7 @@
 - [[water-storage-tanks]]
 - [[water-storage-techniques]]
 - [[water-tank-selection-and-construction]]
+- [[water-transport-vascular-tissues-plants]]
 - [[water-use-efficiency-plants]]
 - [[water-wise-vegetable-gardening]]
 - [[watering-and-seedling-emergence]]

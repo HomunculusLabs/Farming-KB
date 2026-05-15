@@ -1,6 +1,6 @@
 # Complete Page Index
 
-> All 21561 pages in the wiki, alphabetically.
+> All 21583 pages in the wiki, alphabetically.
 
 ## #
 
@@ -4967,6 +4967,7 @@
 - [[comparison-xeriscaping-vs-drought-gardening]]
 - [[comparison-yarrow-vs-ashwagandha]]
 - [[comparison-yarrow-vs-chamomile]]
+- [[comparison-yarrow-vs-lemon-balm]]
 - [[comparison-yarrow-vs-rhodiola]]
 - [[comparison-yarrow-vs-tulsi]]
 - [[comparison-yarrow-vs-valerian]]
@@ -12660,6 +12661,8 @@
 - [[meloidogyne-hapla]]
 - [[mem-entity]]
 - [[mem-entity-pihkal]]
+- [[membrane-transport-of-nutrients-into-plant-cells]]
+- [[membrane-transport-proteins-in-plants]]
 - [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]]
 - [[memristor]]
 - [[mendo-breath-entity]]
@@ -13013,6 +13016,7 @@
 - [[molecular-tools-bioremediation]]
 - [[molecules-of-life-in-plants]]
 - [[molecules-of-life-plant-cells]]
+- [[molecules-of-life-plants]]
 - [[molinia-caerulea]]
 - [[mollison-animal-integration-permaculture-design]]
 - [[mollison-aquatic-pond-types-and-nomenclature]]
@@ -14526,7 +14530,11 @@
 - [[nutrient-mineralization]]
 - [[nutrient-mineralization-fungi]]
 - [[nutrient-mobility-cation-exchange-and-soil-chemistry]]
+- [[nutrient-movement-plant-roots]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
+- [[nutrient-movement-to-plant-roots]]
+- [[nutrient-uptake-and-membrane-transport-in-plants]]
+- [[nutrient-uptake-by-plant-roots]]
 - [[nutrioperiodism]]
 - [[nutritive-cycle-theory]]
 - [[nyc-diesel]]
@@ -15781,6 +15789,9 @@
 - [[phleum-pratense]]
 - [[phloem]]
 - [[phloem-sap-composition-and-long-distance-signaling-in-plants]]
+- [[phloem-transport-and-partitioning]]
+- [[phloem-transport-root-exudates]]
+- [[phloem-transport-sugars-organic-compounds]]
 - [[phoenicoid-fungi-fire-associated-ascomycetes-basidiomycetes]]
 - [[phoenix-canariensis]]
 - [[phoenix-dactylifera]]
@@ -16115,6 +16126,7 @@
 - [[plant-mechanosensation-thigmomorphogenesis-touch-response]]
 - [[plant-mechanosensing-and-thigmomorphogenesis]]
 - [[plant-medicine-ethics]]
+- [[plant-membrane-transport-proteins]]
 - [[plant-memory]]
 - [[plant-memory-and-associative-learning]]
 - [[plant-memory-and-learning]]
@@ -16198,6 +16210,7 @@
 - [[plant-volatile-communication-chemical-ecology]]
 - [[plant-water-transport-and-root-anatomy]]
 - [[plant-water-transport-and-transpiration]]
+- [[plant-water-transport-pathways]]
 - [[plantago-coronopus]]
 - [[plantago-lanceolata]]
 - [[plantago-major]]
@@ -20590,9 +20603,12 @@
 - [[transference-principle]]
 - [[translinguistic-objects-glossolalia-tryptamine]]
 - [[transpiration]]
+- [[transpiration-and-water-movement-in-plants]]
 - [[transplanting-technique]]
 - [[transplanting-techniques-low-input]]
 - [[transplanting-techniques-solomon]]
+- [[transport-proteins-and-membrane-channels]]
+- [[transport-proteins-ion-uptake-plants]]
 - [[transubstantiation]]
 - [[trap-cropping]]
 - [[trapa-bispinosa]]
@@ -21266,6 +21282,9 @@
 - [[water-storage-tanks]]
 - [[water-storage-techniques]]
 - [[water-tank-selection-and-construction]]
+- [[water-transport-pathways-in-plants]]
+- [[water-transport-pathways-plants]]
+- [[water-transport-vascular-tissues-plants]]
 - [[water-treatment-filtration-methods]]
 - [[water-use-efficiency-plants]]
 - [[water-wise-vegetable-gardening]]
@@ -21556,7 +21575,10 @@
 - [[xylaria-polymorpha]]
 - [[xylariaceous-endophytes]]
 - [[xylem]]
+- [[xylem-and-phloem-nutrient-transport-systems]]
+- [[xylem-and-phloem-transport-systems]]
 - [[xylem-and-phloem-transport-systems-in-plants]]
+- [[xylem-phloem-nutrient-transport]]
 
 ## Y
 

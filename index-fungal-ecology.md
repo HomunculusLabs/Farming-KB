@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2920 pages**
+**2924 pages**
 
 ## #
 
@@ -2355,6 +2355,7 @@
 - [[phase-i-compost-preparation-agaricus]]
 - [[phellinus-linteus-cancer-research]]
 - [[phellinus-linteus-meshima-cancer-research]]
+- [[phloem-transport-root-exudates]]
 - [[phoenicoid-fungi-fire-associated-ascomycetes-basidiomycetes]]
 - [[pholiotina-filaris-profile]]
 - [[phosphorus-cycling-mycorrhizal-solubilization-organic-p-turnover]]
@@ -2370,6 +2371,7 @@
 - [[pinhead-initiation-techniques]]
 - [[piriformospora-indica-in-plant-fungal-co-culture]]
 - [[plant-fungal-signaling-mycorrhiza]]
+- [[plant-water-transport-pathways]]
 - [[plants-gods-ergot]]
 - [[plants-gods-fly-agaric]]
 - [[plants-of-the-gods-amanita-muscaria]]
@@ -2969,6 +2971,8 @@
 - [[wasson-mycophobia-mycophilia-theory]]
 - [[wasson-mycophobia-mycophilia-theory-critique]]
 - [[water-activity-osmophilic-fungal-media-preparation]]
+- [[water-transport-pathways-in-plants]]
+- [[water-transport-pathways-plants]]
 - [[white-rot-fungi]]
 - [[white-rot-fungi-bioremediation]]
 - [[white-rot-fungi-in-pesticide-and-btex-bioremediation]]

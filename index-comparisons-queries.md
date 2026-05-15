@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1401 pages**
+**1402 pages**
 
 ## A
 
@@ -705,6 +705,7 @@
 - [[comparison-xeriscaping-vs-drought-gardening]]
 - [[comparison-yarrow-vs-ashwagandha]]
 - [[comparison-yarrow-vs-chamomile]]
+- [[comparison-yarrow-vs-lemon-balm]]
 - [[comparison-yarrow-vs-rhodiola]]
 - [[comparison-yarrow-vs-tulsi]]
 - [[comparison-yarrow-vs-valerian]]
