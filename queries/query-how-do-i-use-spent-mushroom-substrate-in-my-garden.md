@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: []
 type: query
 ---
-## What is spent mushroom substrate? [[soil-foodweb]] as it breaks down. Keep mulch a few inches away from plant stems to prevent rot.
+## What is spent mushroom substrate? [[soil-food-web]] as it breaks down. Keep mulch a few inches away from plant stems to prevent rot.
 
 ### As a compost accelerator
 

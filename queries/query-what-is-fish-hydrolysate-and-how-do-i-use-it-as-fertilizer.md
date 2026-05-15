@@ -14,7 +14,7 @@ type: query
 # What Is Fish Hydrolysate and How Do I Use It as Fertilizer?
 
 ## Short Answer
-Fish hydrolysate is a liquid [[soil-foodweb]] uses to build humus, cycle nutrients, and
+Fish hydrolysate is a liquid [[soil-food-web]] uses to build humus, cycle nutrients, and
 suppress pathogens. In this way, fish hydrolysate works more like a
 pre-digested food source for soil biology than a conventional fertilizer.
 

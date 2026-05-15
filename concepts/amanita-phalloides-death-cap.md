@@ -1,150 +1,106 @@
 ---
-title: Amanita Phalloides Death Cap
-created: 2026-04-28
-tags:
-  - mycology
-  - toxicology
-  - amanita
-  - mushroom-poisoning
-  - basidiomycota
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+title: Amanita Phalloides — Death Cap
+source: mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md
 type: concept
 ---
 
-# Amanita Phalloides (Death Cap)
-
-*Amanita phalloides*, commonly known as the death cap, is the most
-deadly mushroom in the world and is responsible for the majority of
-fatal mushroom poisonings globally. Native to Europe, the death cap has
-been introduced to other continents and causes widespread casualties
-wherever it establishes. Its attractive appearance and resemblance to
-edible species make it particularly dangerous, as unwary foragers
-frequently mistake it for harmless mushrooms.
-
-## Identification and Appearance
-
-The death cap produces a [[partial-veil-tropism-protection-before-spore-release]] that covers the gills during development. At the
-base of the stem sits a cup-like volva, the remnant of the universal
-veil that enclosed the entire immature [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (*[[volvariella-volvacea]]*), widely cultivated in Asia. Vietnamese and
-Laotian immigrants have been poisoned by this misidentification. In
-Ohio, a family added slices of a pure white mushroom to their soup; the
-poisoning was so severe that two young sisters required liver
-transplantation. The family owned a restaurant and intended to serve
-the dish to customers before the children fell ill.
-
-## Amatoxin Poisoning
-
-The poisonous nature of the death cap is due to amatoxins, miniproteins
-or peptides that are absorbed from the intestine and destroy the liver.
-In textbook cases, the patient feels fine for some time after consuming
-the mushrooms. First symptoms begin eight hours later, or even after a
-delay of two days, with abdominal cramping, vomiting, and violent
-diarrhea. Symptoms then abate during a deceptive "honeymoon" period
-during which the patient may appear well enough to leave the hospital.
-
-Unfortunately, this reprieve does not predict a favorable outcome.
-Liver damage continues during the honeymoon period, coma ensues, and
-death is a frequent result. Dennis Benjamin, a pathologist and mushroom
-poisoning expert, estimates that 6 to 7 milligrams of pure toxin is
-sufficient to kill an adult, corresponding to the dosage delivered by a
-single death cap. Overall mortality rates for treated patients are
-below 30 percent, but no antidote exists.
-
-## The Puzzle of Toxin Evolution
-
-The evolutionary purpose of amatoxins presents an intriguing puzzle.
-Unlike bee stings that have immediate deterrent effects, amatoxins
-cause delayed toxicity, hours after consumption. A delayed-action toxin
-offers no selective advantage to an organism whose genes have already
-been digested in an animal's stomach. There is no evolutionary benefit
-in late retribution against the consumer.
-
-A more compelling explanation involves insect larvae. Boletes and some
-*Russula* species become riddled with insect grubs. High rates of cell
-division make developing embryos vulnerable to genetic damage, so
-insect larvae hatching within toxin-saturated *Amanita* flesh are
-likely to be highly vulnerable. Poisonous *Amanita* species also
-contain phallotoxins that inhibit growth by binding to cell skeletal
-proteins. If insect larvae are the real targets, human casualties are
-truly unintended by evolution.
-
-## Other Amanita Toxins
-
-The fly [[amanita-phalloides]]
-- [[dom]]
-- [[spore]]
+# Amanita Phalloides — Death Cap
 
 ## Overview
 
-Amanita Phalloides Death Cap represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
+*Amanita phalloides* is the deadliest mushroom known, responsible for over 90% of all recorded deaths from fungal poisoning. More than 80% of poisoning cases are fatal, with some authorities placing the fatality rate as high as 90%. Despite its lethal reputation, it is common in woods and adjoining pastures throughout late summer and early autumn.
 
-## Key Characteristics
+## Morphology
 
-Several defining characteristics distinguish amanita phalloides death cap
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
+| Feature | Description |
+|---------|-------------|
+| **Cap** | Average width 3½ inches; fleshy, hemispherical at first, then flattening. Colour varies: usually olivaceous green or yellowish green with darker centre, occasionally brownish, yellow, or rarely whitish. Skin satiny when dry, somewhat viscid in wet weather. Surface finely streaked with radiating dark fibrils. |
+| **Gills** | Crowded, white, often with greenish or yellowish reflection |
+| **Stem** | Average height 4½ inches, width 5/8 inch; whitish often tinged green, solid at first, often becoming hollow. Well-marked large white or greenish ring. Narrowed upwards with striate apex. |
+| **Base** | Bulbous, surrounded by a large white or yellowish persistent volva, often greenish or yellowish within, free for half its length with lax margin |
+| **Flesh** | White with tinge of cap colour below the readily separable skin. Practically tasteless and without smell until decay, when fetid |
 
-## Ecological Context
+The differences in cap colour appear to depend on growth conditions. In dry weather, the thin outer layer of the stem breaks into squamules showing white flesh below, giving a well-marked marbled appearance. The ring often dries rapidly and sticks to the stem as a brownish skin.
 
-The ecological relationships involving amanita extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
+## The Amanita Genus
 
-## Practical Applications
+The genus *Amanita* includes three deadly species (*A. phalloides*, *A. verna*, *A. virosa*), two poisonous species (*A. muscaria*, *A. pantherina*), and several harmless ones including the edible *A. rubescens*.
 
-Amanita Phalloides Death Cap finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
+### Generic Characteristics
 
-## Management and Implementation
+The name *Amanita* derives from the Greek *Amanitai*, thought to originate from Mount Amanon in Cilicia. It was originally the Greek name for the Field Mushroom (*Amanites* or *Manitari*), later restricted to its present generic sense.
 
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
+Key characters include:
+- **White spores**
+- **White gills** that are more or less free, with shorter intermediate ones
+- **Ring** on the stem
+- **Volva** (wrapper) that completely encloses the young fungus
 
-## Regional Considerations
+### Volva Behaviour
 
-Different geographic regions present unique challenges and
-opportunities for amanita phalloides death cap. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
+The behaviour of the volva — the universal veil enclosing the immature fruiting body — is critical for species identification and depends on its microscopic structure:
 
-## Sustainability
+- **Friable volva** (mainly thin-branched hyphae with few elongated thick-walled cells): Holds together and splits as the cap expands, leaving a cup at the stem base. The cap surface is usually free of volval remnants ( Plates 1 & 2). Found in *A. phalloides*, *A. verna*, *A. virosa*.
 
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
+- **Warty volva** (few hyphae, many thick-walled spherical cells): Lacks tenacity to hold together; breaks into wart-like portions that adhere to the cap surface ( Plates 4 & 5). Found in *A. muscaria*, *A. pantherina*.
 
-## Research and Development
+- **Intermediate condition**: Volva portions remain on cap as irregular patches. Found in *A. mappa* (Plate 3).
 
-Ongoing research continues to expand understanding of
-amanita phalloides death cap and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
+The stem base is always swollen. In species with a friable volva, ornamentation at the stem base varies according to the degree of early adhesion and the proportion of thick-walled cells. In species with a warty volva, the base is encircled by concentric zones of squamules.
 
-## Historical Context
+The partial veil (a membranous structure enclosing the young gills) tears from the cap edge as it expands and remains as a ring on the stem, often showing striations on its upper surface — impressions left by the developing gills.
 
-Amanita Phalloides Death Cap has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
+## Poisoning Symptoms
 
-## Integration Strategies
+The clinical course of *A. phalloides* poisoning follows a characteristic and insidious pattern:
 
-Successful integration of amanita phalloides death cap into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
+### Phase 1: Silent Incubation (10–12 hours)
+No discomfort is felt. This long asymptomatic period is an almost diagnostic sign, distinguishing it from most other forms of food poisoning. During this time, the toxins are being absorbed and beginning their destructive work at the cellular level.
 
-## Challenges and Solutions
+### Phase 2: Acute Gastrointestinal Crisis
+Sudden and intense abdominal pains with vomiting, diarrhoea, and extreme thirst. The symptoms are violent and alarming.
+
+### Phase 3: Apparent Recovery (the "lull")
+After approximately two days, symptoms subside and the patient appears to improve. **This is the most dangerous period.** The apparent recovery is deceptive — the toxins continue their assault on internal organs.
+
+### Phase 4: Relapse and Systemic Collapse
+The gastrointestinal symptoms recur in more intense form. The nervous system is gradually paralysed. The liver undergoes degeneration (hepatic necrosis). Delirium, collapse, and death follow. Several distinct clinical forms have been recognized.
+
+### Dose and Recovery
+A surprisingly small amount can cause illness and death. If very little has been eaten, symptoms may abate after two or three days. Where recovery occurs, it is slow with prolonged convalescence.
+
+The long incubation period means ordinary measures for emptying the stomach (emetics, gastric lavage) are insufficient — the harm is already done by the time symptoms appear.
+
+## Treatments
+
+### Antiphalloidian Serum (Institut Pasteur)
+Produced by immunizing sheep, the serum has given good results when injected soon after the meal — either hypodermically or intravenously in a dose of at least 40 c.c. No ill effects follow injection.
+
+### Intravenous Glucose (German Method)
+Based on a century-old French treatment, intravenous injections of 20–25% glucose solution are given with good reported results. The poisoning causes hypoglycaemia (blood sugar shortage), probably through its effect on the liver.
+
+### Salt Solution (French Method)
+Administration of 20% common salt solution, either orally or intravenously in 20 c.c. doses. Various physiological hypotheses have been proposed to explain the reported success.
+
+### Rabbit Stomach Treatment
+A more unusual approach involves feeding the patient with the whole stomachs of three rabbits chopped up with the brains of seven. The rationale: the poison contains two distinct portions — a hepatic toxin (causing liver and kidney degeneration and intestinal irritation) and a neuro-toxin (acting on the central nervous system). Rabbits are immune to small portions of the fungus, so their stomach contents presumably contain substances neutralizing the hepatic toxin, while their brains contain antidotes to the neuro-toxin. As one commentator noted, "seven rabbits are more readily procurable than serum and these need not even be lost to the table."
+
+## Toxic Principles
+
+Much research has been devoted to isolating the poisonous constituents:
+
+1. **Phallin**: A glucoside that attacks red blood corpuscles (haemolysis). Initially assumed to be the active poison, but it is readily destroyed by heat and digestive juices, and the symptoms of *A. phalloides* poisoning are not those of haemolysis.
+
+2. **Amanita-toxin (Amanitin)**: Has a complicated and undefined chemical structure. Critically, it resists the action of heat, drying, and digestive juices — making it the substance responsible for death through eating the cooked fungus. In experimental animals, it produces the majority of lesions described in human post-mortems.
+
+3. **Phalloidin**: A polypeptide, quickly active though destroyed by heat. Contributes to acute symptoms but is neutralized by cooking.
+
+The heat-resistant nature of amanitin is what makes *A. phalloides* so dangerous — it cannot be rendered safe by any normal cooking method.
+
+## See Also
+
+- [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]
+- [[amanita-phalloides]]
+- [[amanita-phalloides-toxicology]]
+- [[amanita-identification-and-mushroom-cultivation]]
+- [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]

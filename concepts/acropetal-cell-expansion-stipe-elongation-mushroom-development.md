@@ -114,5 +114,5 @@ Understanding stipe elongation has practical implications:
 - **Temperature**: Avoiding gradients prevents differential expansion causing
   malformed fruiting bodies.
 - **Lighting**: Necessary for fruiting initiation [[evaporative-demand-hypothesis-mushroom-tropism]] — Environmental gradient model
-- [[anemotropism-in-psilocybe-cubensis]] — Wind-directed growth
+- [[psilocybe-cubensis-anemotropism]] — Wind-directed growth
 - [[mushroom-geotropism-spore-formation]] — Gravity response linked to sporulation

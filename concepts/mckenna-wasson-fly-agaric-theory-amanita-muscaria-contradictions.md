@@ -70,7 +70,7 @@ effects described in the Vedic texts.
 
 ## The Stropharia cubensis Alternative
 
-McKenna proposed Stropharia cubensis (now [[anemotropism-in-psilocybe-cubensis]]) as a more plausible
+McKenna proposed Stropharia cubensis (now [[psilocybe-cubensis-anemotropism]]) as a more plausible
 
 ## Overview
 

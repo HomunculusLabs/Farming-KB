@@ -32,7 +32,7 @@ The most important species for scent and cultivation include:
 
 ## Scent Profiles and Popular Cultivars
 
-Scented geraniums are primarily categorized by their fragrance. Hundreds of cultivars exist, each with a unique aromatic profile. The scent comes from glandular trichomes on the leaf surface that release volatile oils when brushed or crushed.
+Scented geraniums are primarily categorized by their fragrance. Hundreds of cultivars exist, each with a unique aromatic profile. The scent comes from glandular [[trichomes]] on the leaf surface that release volatile oils when brushed or crushed.
 
 ### Rose Group
 The most commercially significant group. Rose-scented geraniums (*P. graveolens* and hybrids) produce geranium oil used in perfumery, aromatherapy, and skincare.

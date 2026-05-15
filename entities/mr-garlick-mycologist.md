@@ -39,7 +39,7 @@ Palmer's objection to Garlick's rule was nuanced rather than absolute. He agreed
 
 ## The Fairy-Ring Champignon Example
 
-Palmer used the fairy-ring champignon (*[[marasmius-oreades]]*) as an example of why Garlick's rule was dangerous. This mushroom is "very common, easily recognized, and of rare excellence," yet Palmer had "never received them gathered by friends without detecting specimens of totally different species." Despite having been warned about the distinguishing marks, these persons still mixed in dangerous lookalikes.
+Palmer used the [[fairy-ring]] champignon (*[[marasmius-oreades]]*) as an example of why Garlick's rule was dangerous. This mushroom is "very common, easily recognized, and of rare excellence," yet Palmer had "never received them gathered by friends without detecting specimens of totally different species." Despite having been warned about the distinguishing marks, these persons still mixed in dangerous lookalikes.
 
 ## Relevance to Cultivation and Mycology
 

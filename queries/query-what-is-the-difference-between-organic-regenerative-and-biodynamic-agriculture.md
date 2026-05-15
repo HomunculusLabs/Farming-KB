@@ -28,7 +28,7 @@ preparations for their observable effects on compost biology and soil
 vitality. Permaculture designers often integrate all three philosophies,
 using organic standards as a baseline, regenerative outcomes as goals,
 and biodynamic timing and preparations as tools. The
-[[soil-foodweb|soil food web]] is central to regenerative and
+[[soil-food-web|soil food web]] is central to regenerative and
   biodynamic thinking but less emphasized in mainstream organic
 
 ## Related

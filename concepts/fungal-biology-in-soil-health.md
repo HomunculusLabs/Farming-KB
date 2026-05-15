@@ -10,7 +10,7 @@ type: concept
 
 ## Overview
 
-Fungi are among the most critical organisms in the [[soil-foodweb]]. Understanding the distinction between fungal functional groups, their structural indicators, and their interactions with nutrients and plant defense compounds is essential for building healthy soils through compost tea and biological management.
+Fungi are among the most critical organisms in the [[soil-food-web]]. Understanding the distinction between fungal functional groups, their structural indicators, and their interactions with nutrients and plant defense compounds is essential for building healthy soils through compost tea and biological management.
 
 ## Fungal Functional Groups
 

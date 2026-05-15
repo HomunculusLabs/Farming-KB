@@ -69,7 +69,7 @@ Samples can also be sent to SFI or to Oregon State Plant Clinic for professional
 
 [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] species. The equipment currently costs about $190,000 and there are repeatability issues. PCR isolation and probe development with specificity testing are required.
 
-Molecular methods are already used by SFI for nitrogen-fixation assessment and beneficial organism assays. Most pathogenic bacteria have multiple names depending on which plant they infect, making [[soil-foodweb]]
+Molecular methods are already used by SFI for nitrogen-fixation assessment and beneficial organism assays. Most pathogenic bacteria have multiple names depending on which plant they infect, making [[soil-food-web]]
 - [[mycorrhizal-fungi]]
 - [[ectomycorrhizal-associations]]
 

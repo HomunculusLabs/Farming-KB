@@ -40,7 +40,7 @@ The traditional Native American approach used hills on 4-foot (120 cm) centers a
 
 2. **Mark hill positions**: Mark out hills on the desired spacing pattern.
 
-3. **Add extra fertility**: At each hill location, place a shovelful or two of low-potency manure or compost in a small pile. For extra nutrition, add a pint or two (0.5-1 liter) of chicken manure or COF.
+3. **Add extra fertility**: At each hill location, place a shovelful or two of low-potency manure or compost in a small pile. For extra nutrition, add a pint or two (0.5-1 liter) of [[chicken-manure]] or COF.
 
 4. **Dig and blend**: Dig about 12-18 inches (30-45 cm) in diameter, blending the amendments in by going down the full depth of the shovel blade. Work up a circular spot, mixing everything thoroughly.
 

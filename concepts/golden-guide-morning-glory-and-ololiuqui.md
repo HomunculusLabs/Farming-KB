@@ -60,7 +60,7 @@ the Zapotecs of the same region and identified as tlitliltzin.
 
 ## Modern Ceremonial Use
 
-Present use of the sacred Mexican morning glory seeds differs little from
+Present use of the sacred Mexican [[morning-glory-seeds]] differs little from
 ancient practices. The seeds are used for divination, prophecy, and diagnosis
 and treatment of illness by many tribes, especially the Chatinos, Chinantecs,
 Mazatecs, and Zapotecs. In almost all Oaxacan villages, the seeds serve the

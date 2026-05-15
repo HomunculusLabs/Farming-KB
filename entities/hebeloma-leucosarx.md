@@ -46,7 +46,7 @@ tags: [fungi, ectomycorrhizal, basidiomycota, agaricales]
 
 ## Relevance to Cultivation and Mycology
 
-- **Dual mycorrhizal systems**: Illustrates how a single plant host can form associations with both ectomycorrhizal and arbuscular mycorrhizal fungi with different functional outcomes.
+- **Dual mycorrhizal systems**: Illustrates how a single plant host can form associations with both ectomycorrhizal and [[arbuscular-mycorrhizal-fungi]] with different functional outcomes.
 - **Ecosystem restoration**: High colonization rates and sustained growth benefits make it a candidate for inoculation in willow-based phytoremediation and riparian restoration projects.
 - **Mycorrhizal succession**: Represents the ectomycorrhizal component in the establishment phase of dual-mycorrhizal plant communities.
 - **Functional diversity**: Demonstrates that mycorrhizal diversity on a single host provides complementary nutrient acquisition strategies across environmental conditions.

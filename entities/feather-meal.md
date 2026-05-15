@@ -39,7 +39,6 @@ type: entity
 - In soils with robust microbial populations, feather meal provides a slow, steady nitrogen release that supports sustained mycelial growth of beneficial fungi.
 - The decomposition of feather meal by keratinolytic organisms demonstrates the importance of biological diversity in soil: specific microbes are needed to unlock specific nutrient sources.
 
-
 ## Properties and Characteristics
 
 The feather meal exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

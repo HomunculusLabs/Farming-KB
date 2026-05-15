@@ -9,7 +9,7 @@ tags: [turf-disease, fungal-pathogen, sclerophthora, oomycete, compost-tea]
 
 ## Description
 
-Downy mildew of turf grasses is a disease caused by oomycete pathogens in the genus *Sclerophthora* spp. Unlike true fungi, the causal organisms are oomycetes (water molds), which are more closely related to brown algae. Downy mildew on turf produces yellowish streaks or patches on leaves and is favored by wet, poorly drained conditions. It is among the turf diseases that can be suppressed using fungally dominated compost teas as part of an integrated soil food web management approach.
+[[downy-mildew]] of turf grasses is a disease caused by oomycete pathogens in the genus *Sclerophthora* spp. Unlike true fungi, the causal organisms are oomycetes (water molds), which are more closely related to brown algae. Downy mildew on turf produces yellowish streaks or patches on leaves and is favored by wet, poorly drained conditions. It is among the turf diseases that can be suppressed using fungally dominated compost teas as part of an integrated [[soil-food-web]] management approach.
 
 ## Classification
 
@@ -38,7 +38,7 @@ Downy mildew of turf grasses is a disease caused by oomycete pathogens in the ge
 Downy mildew is included in the list of turf diseases that respond to **fungally dominated compost tea** applications. The mechanism of suppression involves:
 
 - Beneficial fungi in the tea outcompete the oomycete pathogen for space and resources on leaf surfaces (phyllosphere) and in the root zone (rhizosphere)
-- Fungal hyphae create physical barriers that prevent oomycete zoospores from reaching infection sites
+- [[fungal-hyphae]] create physical barriers that prevent oomycete zoospores from reaching infection sites
 - The diverse microbial community in compost tea produces antibiotic compounds and lytic enzymes that inhibit oomycete growth
 - Improved soil drainage and structure (resulting from fungal soil aggregation) reduces the standing water that oomycetes require
 
@@ -60,5 +60,20 @@ Because oomycetes are not true fungi, some fungicides effective against true fun
 - Downy mildew's requirement for free water makes drainage improvement essential
 - Fungally dominated compost tea should be applied preventatively during wet seasons
 - The disease's oomycete nature means it may respond differently to conventional fungicides than true fungal diseases
-- Biological soil testing can identify whether the soil food web is sufficiently diverse to suppress oomycete pathogens
+- Biological soil testing can identify whether [[the-soil-food-web]] is sufficiently diverse to suppress oomycete pathogens
 - Avoid overwatering as a primary preventive measure
+## Practical Applications
+Understanding this topic enables more effective decision-making in
+practical contexts. Key implementation considerations include assessing
+current conditions, establishing clear objectives, selecting appropriate
+methods, and monitoring outcomes for adaptive management. Success depends
+on aligning practices with underlying biological and ecological principles.
+Documentation and observation support continuous improvement over time.
+
+## Broader Context
+This subject connects to wider systems of ecological management,
+sustainable production, and environmental stewardship. Integration with
+related practices amplifies individual technique effectiveness and creates
+synergistic benefits. Ongoing research continues to refine understanding
+and develop improved methods that build on foundational principles.
+Community knowledge sharing accelerates adoption of best practices.

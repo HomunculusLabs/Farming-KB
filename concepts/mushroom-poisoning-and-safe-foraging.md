@@ -78,5 +78,4 @@ He also dried mushrooms for winter use, noting that "the Chinese make dried fung
 
 Palmer carefully observed growth rates from his own closet cultivation. The common mushroom, "supposed to spring up in a night," actually takes about ten days to mature "from a button the size of a pin-head to a disk three or four inches in diameter." This was the average period for most species, although the Coprinariae required "not half that time."
 
-
 This entry provides reference information about mushroom poisoning and safe foraging and its significance in its respective field.

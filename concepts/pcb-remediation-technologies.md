@@ -141,11 +141,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[dighton-fungal-biosorption-heavy-metal-remediation]]
-- [[ectomycorrhizal-remediation]]
-- [[heavy-metal-remediation-fungi]]
-- [[singh-mycorrhizal-fungi-rhizosphere-remediation]]
-- [[singh-scaling-fungal-remediation-lab-to-field]]

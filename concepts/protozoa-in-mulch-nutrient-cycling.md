@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-When organic mulch is applied to garden beds, a complex biological process begins. Bacteria and fungi colonize the mulch and initiate decomposition, but they alone are not sufficient for a healthy nutrient cycle. Protozoa — microscopic single-celled organisms — play an essential role as **nutrient cyclers**, converting nutrients locked inside bacterial and fungal biomass into plant-available forms. This concept is central to the soil food web approach described by Lowenfels and Lewis in *Teaming with Microbes*.
+When [[organic-mulch]] is applied to garden beds, a complex biological process begins. Bacteria and fungi colonize the mulch and initiate decomposition, but they alone are not sufficient for a healthy nutrient cycle. Protozoa — microscopic single-celled organisms — play an essential role as **nutrient cyclers**, converting nutrients locked inside bacterial and fungal biomass into plant-available forms. This concept is central to [[the-soil-food-web]] approach described by Lowenfels and Lewis in *Teaming with Microbes*.
 
 ## Why Mulch Alone Isn't Enough
 
@@ -119,8 +119,8 @@ Apply during mild weather — early morning or late evening to avoid rapid evapo
 ## Related Concepts
 
 - [[soil-food-web]] — The interconnected community of organisms in healthy soil
-- [[bacterial-vs-fungal-soils]] — How bacterial and fungal communities differ in function
+- [[bacterial-vs-fungal-soil]] — How bacterial and fungal communities differ in function
 - [[compost-tea-brewing]] — Aerated compost tea as a biological inoculant
-- [[mulch-and-soil-temperature]] — How mulch moderates the soil environment
-- [[nitrogen-immobilization]] — Why fresh mulch can temporarily lock up nitrogen
+- [[soil-temperature]] — How mulch moderates the soil environment
+- [[soil-immobilization-mineralization]] — Why fresh mulch can temporarily lock up nitrogen
 - [[mycorrhizal-fungi]] — Fungal partners that extend plant root nutrient reach

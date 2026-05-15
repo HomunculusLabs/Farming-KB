@@ -67,7 +67,7 @@ Diversity is critically important for soil and compost tea health. Most quality 
 
 ### Assessment Methods
 
-[[soil-foodweb]] Inc. (SFI) testing examines the morphology of bacteria and fungi to assess whether the community is well-balanced or skewed. This morphological approach is more useful than plate counts (which capture less than 1% of soil organisms) but less precise than molecular methods.
+[[soil-food-web]] Inc. (SFI) testing examines the morphology of bacteria and fungi to assess whether the community is well-balanced or skewed. This morphological approach is more useful than plate counts (which capture less than 1% of soil organisms) but less precise than molecular methods.
 
 ### DNA-Based Assessment
 

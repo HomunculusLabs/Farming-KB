@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Successfully brewing actively aerated compost tea (AACT) depends on two critical factors beyond the brewer itself: maintaining the correct temperature throughout the brewing process, and selecting the right combination of ingredients to feed the microbial community. Temperature determines whether microbes remain active or go dormant, while the ingredients you choose determine whether the resulting tea is bacterially dominated, fungally dominated, or balanced. Understanding both variables is essential for producing high-quality, biologically active compost tea.
+Successfully brewing [[actively-aerated-compost-tea]] (AACT) depends on two critical factors beyond the brewer itself: maintaining the correct temperature throughout the brewing process, and selecting the right combination of ingredients to feed the microbial community. Temperature determines whether microbes remain active or go dormant, while the ingredients you choose determine whether the resulting tea is bacterially dominated, fungally dominated, or balanced. Understanding both variables is essential for producing high-quality, biologically active compost tea.
 
 ## Temperature Requirements
 
@@ -64,7 +64,7 @@ The quality of your compost directly determines the quality of your tea. All com
 - **Sniff test:** If it does not smell good (sweet, earthy), it is not good compost
 - **No chemical residues:** Ensure no chemical remnants from pesticides, herbicides, or synthetic fertilizers remain
 - **Fully finished:** Avoid "almost compost" that has not completed the decomposition process
-- **Not overheated:** Compost that was allowed to overheat has killed beneficial microbes and reduced soil food web diversity
+- **Not overheated:** Compost that was allowed to overheat has killed beneficial microbes and reduced [[soil-food-web]] diversity
 - **Biological testing:** The best way to know your compost's quality is to have it tested by a biological lab
 
 Low microbial diversity in compost means low diversity in the resulting tea. The tea can only contain the organisms present in the starting compost.
@@ -122,7 +122,7 @@ Fungal foods are more complex compounds that provide nutrition and surface area 
 
 ## Brewer Maintenance: Cleaning Bioslime
 
-Bacterial slime (bioslime) is a natural byproduct of compost tea brewing and must be cleaned promptly. Bioslime:
+Bacterial slime (bioslime) is a natural byproduct of [[compost-tea-brewing]] and must be cleaned promptly. Bioslime:
 
 - Clogs air holes in bubblers and tubing
 - Accumulates on bucket sides and in crevices
@@ -148,10 +148,3 @@ Always clean your system **before** brewing, not just after. This prevents cross
 | Bacterial foods | Molasses, cane/maple syrup, fruit juices — 2 tbsp per 5 gal |
 | Fungal foods | Kelp, humic/fulvic acids, rock dusts, fish hydrolysate, yucca |
 | Cleaning | Clean bioslime immediately; use H₂O₂ or baking soda for dried slime |
-| Record keeping | Track temperature and ingredients for lab correlation |
-
-## See Also
-
-- [[Fungal Activation for Compost Tea]] — Pre-brew fungal population boosting
-- [[Compost Tea Application and Disease Suppression]] — How to apply brewed tea effectively
-- [[Actively Aerated Compost Tea]] — Overview of AACT brewing fundamentals

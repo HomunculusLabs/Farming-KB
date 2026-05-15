@@ -9,7 +9,7 @@ tags: [plant, salicaceae, dual-mycorrhizal, willow]
 
 ## Description
 
-*Salix repens* (creeping willow) is a low-growing deciduous shrub in the family Salicaceae. It is distinguished by its ability to form dual mycorrhizal associations with both arbuscular mycorrhizal (AM) and ectomycorrhizal (ECM) fungi, making it a model species for studying the comparative functional roles of different mycorrhizal types on a single host plant.
+*Salix repens* (creeping willow) is a low-growing deciduous shrub in the family Salicaceae. It is distinguished by its ability to form dual mycorrhizal associations with both arbuscular mycorrhizal (AM) and ectomycorrhizal (ECM) fungi, making it a model species for studying the comparative functional roles of different [[mycorrhizal-types]] on a single host plant.
 
 ## Classification
 

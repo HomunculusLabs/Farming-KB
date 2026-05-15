@@ -95,5 +95,5 @@ Gut yeasts from beetles are **not phylogenetically clustered** — they are dist
 ## See Also
 
 - [[molecular-methods-geoactive-fungal-communities]] — Molecular methods for fungal community analysis
-- [[phylogenetic-species-recognition-fungi]] — Species delimitation in fungi
+- [[gadd-phylogenetic-species-recognition-fungi]] — Species delimitation in fungi
 - [[fungal-bioweathering-rocks-minerals]] — Fungi in environmental processes

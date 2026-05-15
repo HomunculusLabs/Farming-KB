@@ -40,7 +40,6 @@ The **N-P-K rating system** is the standard labeling convention for fertilizers 
 - The narrow focus on N-P-K has historically led to over-application of these three macronutrients at the expense of the other eleven essential mineral nutrients, degrading soil biology over time.
 - Mushroom substrates have their own nutritional profiles that parallel N-P-K concepts — carbon-to-nitrogen ratio (C:N) is often more relevant in fungal cultivation than N-P-K.
 
-
 ## Properties and Characteristics
 
 The n p k fertilizer rating exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

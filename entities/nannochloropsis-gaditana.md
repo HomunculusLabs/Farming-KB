@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ma Y, et al. (2016). "[[biodiesel-production]] from Nannochloropsis." Applied Energy, 179, 968-978.
+  - Ma Y, et al. (2016). "biodiesel-production from Nannochloropsis." Applied Energy, 179, 968-978.
   - Schuenemann TJ, et al. (2013). "Lipid and fatty acid composition of Nannochloropsis gaditana." Journal of Applied Phycology, 25, 73-84.
   - Javanmardian M, Palsson BO (1991). "High-density photoautotrophic algal cultures." Biotechnology and Bioengineering, 38, 1182-1189.
   - Lubzens E, et al. (1995). "Advances in production of rotifers for use in aquaculture." Hydrobiologia, 313, 319-332.

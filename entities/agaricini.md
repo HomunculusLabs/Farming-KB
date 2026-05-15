@@ -78,5 +78,4 @@ This topic has been studied and referenced across multiple traditions and academ
 
 Several defining features distinguish this subject from related topics. These characteristics inform both practical applications and theoretical understanding.
 
-
 This entry provides reference information about agaricini and its significance in its respective field.

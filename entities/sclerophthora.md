@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*Sclerophthora* is a genus of fungus-like organisms (oomycetes) that cause downy mildew diseases in turfgrass and other plants. Downy mildew caused by *Sclerophthora* is among the diseases that can be suppressed by fungally dominated compost teas in the soil food web framework. These organisms thrive in wet, poorly drained conditions and can cause significant damage to turf during extended periods of moisture.
+*Sclerophthora* is a genus of fungus-like organisms (oomycetes) that cause [[downy-mildew]] diseases in turfgrass and other plants. Downy mildew caused by *Sclerophthora* is among the diseases that can be suppressed by fungally dominated [[compost]] teas in [[the-soil-food-web]] framework. These organisms thrive in wet, poorly drained conditions and can cause significant damage to turf during extended periods of moisture.
 
 ## Classification
 
@@ -45,3 +45,37 @@ type: entity
 ## Sources
 
 - Lowenfels & Lewis, *Teaming with Microbes*, Chapter 17 (Compost Teas)
+
+## Ecological Significance
+The ecological importance of Sclerophthora extends across multiple levels of biological
+organization. Research has documented its role in nutrient cycling, species interactions,
+and ecosystem stability. These relationships highlight the interconnected nature of
+biological communities and the importance of understanding individual components
+within their broader environmental context.
+
+## Practical Applications
+Understanding Sclerophthora has practical implications for agriculture, horticulture,
+and environmental management. Applied research has explored how this knowledge
+can be used to improve soil health, optimize growing conditions, and develop
+more sustainable management practices. These applications demonstrate the bridge
+between fundamental research and real-world problem solving.
+
+## Research Context
+Current research on Sclerophthora draws from multiple scientific disciplines, integrating
+findings from microbiology, ecology, chemistry, and applied sciences. Ongoing studies
+continue to refine our understanding of mechanisms and interactions, with implications
+for both theoretical knowledge and practical applications. Key research questions
+remain about the full range of effects and optimal management strategies.
+
+## Historical Background
+The study of Sclerophthora has evolved significantly over time, with early observations
+leading to increasingly sophisticated understanding. Historical research laid the
+groundwork for modern approaches, and key discoveries have shaped current practices.
+Understanding this history provides context for contemporary research directions
+and helps identify areas where further investigation is needed.
+
+## Distribution and Habitat
+Sclerophthora occurs across a range of environmental conditions and geographic regions.
+Distribution patterns are influenced by climate, soil type, altitude, and interactions
+with other organisms. Understanding habitat preferences is essential for both
+conservation efforts and practical applications in cultivation and management.

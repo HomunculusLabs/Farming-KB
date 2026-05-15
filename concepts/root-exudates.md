@@ -87,3 +87,17 @@ In addition to chemical exudates, plant root tips constantly slough off cellular
 - [[phosphorus-availability]]
 - [[bacterial-vs-fungal-soil]]
 - [[plant-nutrient-uptake-mechanisms]]
+
+## Notes
+
+This topic is connected to related areas of study within
+the broader field. Further research continues to expand
+our understanding of root exudates and its applications.
+
+## See Also
+
+- [[mycorrhiza-root-exudates]]
+- [[phloem-transport-root-exudates]]
+- [[solomon-root-exudates-and-allelopathy]]
+- [[mycorrhizal-root-exudates-pathogen-interactions]]
+- [[mycorrhizal-biocontrol-phytophthora-root-exudates]]

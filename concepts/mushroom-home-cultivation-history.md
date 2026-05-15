@@ -12,7 +12,7 @@ tags: [cultivation, history, mushroom-cultivation]
 # Mushroom Home Cultivation History
 
 The development of reliable methods for cultivating [magic mushrooms at home was
-one of the key factors in their global dissemination. From the first laboratory successes of [Roger Heim to the revolutionary techniques of [Terence McKenna and the notorious
+one of the key factors in their global dissemination. From the first laboratory successes of [[roger-heim]] to the revolutionary techniques of [Terence McKenna and the notorious
 [[accessible-mushroom-cultivation-for-disabilities]] is a story of ingenuity,
 illicit entrepreneurship, and the democratisation of psychedelic access. Under American
 [prohibition, growing magic mushrooms became celebrated as an illicit
@@ -20,7 +20,7 @@ folk art, "like the secret stills supplying moonshine in the days of prohibition
 
 ## Early Cultivation: Roger Heim and Albert Hofmann
 
-[Roger Heim, Professor of Mycology at the Musee National d'Histoire Naturelle in Paris, was
+[[roger-heim]], Professor of Mycology at the Musee National d'Histoire Naturelle in Paris, was
 the first person ever to culture [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in the laboratory. He
 accompanied [Gordon Wasson to Mexico in 1956 to classify and describe the species
 used in Mazatec ceremonies. Attempts by his own laboratory and by American pharmaceutical companies (Merck;

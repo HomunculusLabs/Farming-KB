@@ -7,7 +7,7 @@ tags: [organization, soil-biology, testing, compost-tea]
 
 ## Description
 
-[[soil-foodweb]] Inc. (SFI) is a soil biology testing and consulting organization founded by Dr. [[elaine-ingham]]. SFI developed and commercialized direct microscopy methods for assessing soil, compost, and compost tea biology. The organization provides quantitative measurements of bacteria, fungi, protozoa, nematodes, and mycorrhizal colonization to guide biological soil management.
+[[soil-food-web]] Inc. (SFI) is a soil biology testing and consulting organization founded by Dr. [[elaine-ingham]]. SFI developed and commercialized direct microscopy methods for assessing soil, compost, and compost tea biology. The organization provides quantitative measurements of bacteria, fungi, protozoa, nematodes, and mycorrhizal colonization to guide biological soil management.
 
 ## Classification
 

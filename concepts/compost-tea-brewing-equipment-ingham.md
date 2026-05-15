@@ -13,7 +13,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[actively-aerated-compost-tea]] Tea, Dr. [[soil-foodweb]] Inc.
+Source: The [[actively-aerated-compost-tea]] Tea, Dr. [[soil-food-web]] Inc.
 
 Ingham provides guidance on selecting, using, and maintaining compost tea brewing equipment, based on years of testing different machines at Soil Foodweb Inc.
 
@@ -29,7 +29,7 @@ Key [[fungal-hyphae]])
 ### The Air Pump
 - Must be adequate for the tank volume and the oxygen demand of growing organisms
 - Oxygen demand depends on: food additions, [[compost-tea-brewing]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[ingham-kelp-seaweed-sea-minerals-compost-tea-brewing]]
 
 ## Overview

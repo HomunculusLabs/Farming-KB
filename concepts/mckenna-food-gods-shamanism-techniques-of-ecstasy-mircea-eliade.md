@@ -1,5 +1,5 @@
 ---
-title: Mckenna Food Gods Shamanism Techniques Of Ecstasy Mircea Eliade
+title: Mckenna Food Gods [[shamanism-techniques-of-ecstasy]] Mircea Eliade
 source: mckenna_t-food_of_the_gods.md
 topic: "Shamanism as the original human religion and its suppression by [[powell-ancient-entheogenic-cults-and-the-religious-impulse]] of the
 human species, one that predates and underlies all subsequent

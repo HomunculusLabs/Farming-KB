@@ -41,7 +41,7 @@ were recently grown.
 
 By moving these crops to different locations each year, the emerging pests and
 pathogens find no suitable host and die before reproducing. [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungal networks
-  described in the [[soil-foodweb]]
+  described in the [[soil-food-web]]
 ## Practical Considerations
 
 Successful implementation of What Is the Best Way to Rotate Crops in a Vegetable Garden? requires attention to

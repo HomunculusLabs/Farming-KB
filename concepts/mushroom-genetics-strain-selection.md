@@ -11,7 +11,7 @@ sources:
 
 # Mushroom Genetics and Strain Selection
 
-Understanding fungal genetics is essential for selecting productive, stable cultures and maintaining genetic quality over generations. Unlike plants, fungi have unique reproductive strategies — including heterokaryosis and clamp connections — that shape how traits are inherited and expressed.
+Understanding [[fungal-genetics]] is essential for selecting productive, stable cultures and maintaining genetic quality over generations. Unlike plants, fungi have unique reproductive strategies — including heterokaryosis and clamp connections — that shape how traits are inherited and expressed.
 
 ## Fungal Genetics Fundamentals
 
@@ -53,14 +53,14 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 ### Homothallism
 
 - Self-fertile: a single spore can produce a fertile dikaryon
-- Agaricus bisporus is predominantly homothallic (secondary homothallism) — most spores contain two compatible nuclei
+- [[agaricus-bisporus]] is predominantly homothallic (secondary homothallism) — most spores contain two compatible nuclei
 - Simpler breeding but less genetic diversity
 
 ## Strain Isolation
 
 ### From Spores (Multispore)
 
-- Spore print or spore syringe contains thousands of haploid spores
+- [[spore-print]] or spore syringe contains thousands of haploid spores
 - When inoculated onto agar or grain, spores germinate into many monokaryons that pair randomly
 - Result: a patchwork of many different dikaryotic strains
 - **Pros**: Maximum genetic diversity; potential for novel traits; inexpensive
@@ -142,11 +142,3 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 ## Genetic Tools
 
 ### Microscopy
-
-## See Also
-
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[straw-mushroom-cultivation]]
-- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

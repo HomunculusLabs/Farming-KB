@@ -28,7 +28,7 @@ Terpenes (also called terpenoids when modified with functional groups) are a lar
 - Terpenes disrupt cell membrane integrity in plant tissues.
 - Volatile terpenes can inhibit seed germination in nearby plants (allelopathy).
 - Some terpenes have antimicrobial properties that can suppress beneficial soil microorganisms.
-- These properties evolved as plant defense mechanisms against herbivores, pathogens, and competing vegetation.
+- These properties evolved as [[plant-defense-mechanisms]] against herbivores, pathogens, and competing vegetation.
 
 ### Natural Occurrence and Ecological Function
 - Plants produce terpenes as defense compounds against insect herbivores and fungal pathogens.
@@ -50,10 +50,10 @@ Terpenes (also called terpenoids when modified with functional groups) are a lar
 
 1. **Mulch safety**: Fresh pine and cedar mulches release terpenes that can damage or kill sensitive crop plants — always age these materials before garden use.
 2. **Allelopathic effects**: Terpene-producing plants (e.g., black walnut, certain eucalyptus) can inhibit growth of nearby crops through terpene exudation into soil.
-3. **Antimicrobial properties**: Terpene-rich environments can suppress both beneficial and pathogenic soil microorganisms, affecting soil food web dynamics.
-4. **Mushroom cultivation**: Some mushroom species (e.g., *Pleurotus* / oyster mushrooms) produce terpenes as secondary metabolites, and terpenes are key flavor/aroma compounds in many edible mushrooms.
+3. **Antimicrobial properties**: Terpene-rich environments can suppress both beneficial and pathogenic soil microorganisms, affecting [[soil-food-web]] dynamics.
+4. **[[mushroom-cultivation]]**: Some mushroom species (e.g., *Pleurotus* / [[oyster-mushrooms]]) produce terpenes as secondary metabolites, and terpenes are key flavor/aroma compounds in many edible mushrooms.
 5. **Cannabis cultivation**: Terpenes are major quality determinants in cannabis, contributing to aroma, flavor, and therapeutic effects. Growing conditions affect terpene profiles significantly.
-6. **Substrate preparation**: Conifer-derived substrates (pine shavings, cedar chips) may release terpenes inhibitory to mushroom mycelium — aging or heat treatment may be necessary.
+6. **[[substrate-preparation]]**: Conifer-derived substrates (pine shavings, cedar chips) may release terpenes inhibitory to mushroom mycelium — aging or heat treatment may be necessary.
 
 ## Practical Management
 
@@ -64,5 +64,20 @@ Terpenes (also called terpenoids when modified with functional groups) are a lar
 
 ## See Also
 
-- [[Peat Moss]]
-- [[C:N Ratio]]
+- [[peat-moss]]
+- [[solomon-carbon-nitrogen-ratios]]
+## Practical Applications
+Understanding this topic enables more effective decision-making in
+practical contexts. Key implementation considerations include assessing
+current conditions, establishing clear objectives, selecting appropriate
+methods, and monitoring outcomes for adaptive management. Success depends
+on aligning practices with underlying biological and ecological principles.
+Documentation and observation support continuous improvement over time.
+
+## Broader Context
+This subject connects to wider systems of ecological management,
+sustainable production, and environmental stewardship. Integration with
+related practices amplifies individual technique effectiveness and creates
+synergistic benefits. Ongoing research continues to refine understanding
+and develop improved methods that build on foundational principles.
+Community knowledge sharing accelerates adoption of best practices.

@@ -48,7 +48,7 @@ Danthonia is a genus of tussock-forming perennial grasses in the family Poaceae,
 
 ## Source References
 
-- [[bill-mollison]], *Permaculture: A Designer's Manual* — Chapter 11 (Dryland Strategies), mulch harvesting, fire management, and avenue cropping proposals
+- [[bill-mollison]], *Permaculture: A Designer's Manual* — Chapter 11 (Dryland Strategies), mulch harvesting, fire management, and [[avenue-cropping]] proposals
 
 ## Overview
 

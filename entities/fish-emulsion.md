@@ -43,7 +43,6 @@ type: entity
 - Fish-based fertilizers represent a historical agricultural practice: indigenous peoples of North America traditionally placed fish in planting holes with crops like corn, combining the Law of Return with targeted nutrient application.
 - The solubility of fish emulsion makes it suitable for fertigation (fertilizer + irrigation) systems in organic growing operations.
 
-
 ## Properties and Characteristics
 
 The fish emulsion exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

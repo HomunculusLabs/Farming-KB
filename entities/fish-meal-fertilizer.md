@@ -53,7 +53,6 @@ Fish meal is a dry organic fertilizer produced by heating and drying ground fish
 
 Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Timber Press.
 
-
 ## Properties and Characteristics
 
 The fish meal fertilizer exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

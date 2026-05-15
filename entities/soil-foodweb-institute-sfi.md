@@ -9,7 +9,7 @@ tags: [organization, soil-biology, compost-tea, microscopy, assessment]
 
 ## Description
 
-[[soil-foodweb]] Inc. (SFI) is the organization founded by Dr. [[elaine-ingham]] to provide commercial soil biology assessment services based on direct microscopy methods. SFI measures total and active bacteria, total and active fungi, protozoa (flagellates, amoebae, ciliates), nematodes (by functional group), and [[arbuscular-mycorrhizal-colonization-patterns]] (VAM, ectomycorrhizal, ericoid) in soil, compost, and compost tea samples. The organization's methodology is grounded in the understanding that the biomass and activity of different organism groups, rather than simple plate count numbers, determine soil health and plant productivity.
+[[soil-food-web]] Inc. (SFI) is the organization founded by Dr. [[elaine-ingham]] to provide commercial soil biology assessment services based on direct microscopy methods. SFI measures total and active bacteria, total and active fungi, protozoa (flagellates, amoebae, ciliates), nematodes (by functional group), and [[arbuscular-mycorrhizal-colonization-patterns]] (VAM, ectomycorrhizal, ericoid) in soil, compost, and compost tea samples. The organization's methodology is grounded in the understanding that the biomass and activity of different organism groups, rather than simple plate count numbers, determine soil health and plant productivity.
 
 ## Classification
 

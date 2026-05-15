@@ -119,7 +119,7 @@ tropic distortion of developing fruitbodies.
 
 ## References
 
-- Badham, E.R. (1982). Tropisms in the mushroom *[[anemotropism-in-psilocybe-cubensis]]*.
+- Badham, E.R. (1982). Tropisms in the mushroom *[[psilocybe-cubensis-anemotropism]]*.
   Mycologia, 74(2), 275-279.
 - Johnson, D.L. and Gamow, R.I. (1971). The avoidance response in *Phycomyces*.
   J. Gen. Physiol. 57, 41-49.

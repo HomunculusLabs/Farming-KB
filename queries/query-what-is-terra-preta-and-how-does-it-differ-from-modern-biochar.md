@@ -18,7 +18,7 @@ Modern [[terra-preta]] — a self-sustaining soil ecosystem that persists to thi
 
 ## The Role of Microbial Communities
 
-One of the most important differences between ancient terra preta and fresh [[glomalin-and-soil-carbon]], a sticky protein produced by [[soil-foodweb]] within terra preta is far more complex than what develops in soil amended with fresh biochar.
+One of the most important differences between ancient terra preta and fresh [[glomalin-and-soil-carbon]], a sticky protein produced by [[soil-food-web]] within terra preta is far more complex than what develops in soil amended with fresh biochar.
 
 Modern biochar inoculation attempts to shortcut this process, but replicating centuries of microbial succession is extremely difficult.
 
@@ -56,7 +56,7 @@ In practice, the two approaches can be combined — burying wood beneath a bioch
 - It was created over centuries through the intentional mixing of charcoal, organic waste, bones, and pottery shards.
 - The microbial community within terra preta is far more mature and complex than what fresh [[glomalin-and-soil-carbon]] from mycorrhizal fungi plays a critical role in binding charcoal into stable, nutrient-retaining aggregates.
 - Modern biochar is inspired by terra preta but cannot match its centuries of biological maturation.
-- Gardeners can approximate terra preta by pre-charging biochar with compost and integrating it into [[soil-foodweb]] within terra preta represents a benchmark for what healthy, carbon-rich soil microbiomes can achieve.
+- Gardeners can approximate terra preta by pre-charging biochar with compost and integrating it into [[soil-food-web]] within terra preta represents a benchmark for what healthy, carbon-rich soil microbiomes can achieve.
 - Terra preta demonstrates that human-created soils can remain fertile for millennia when designed with biological complexity in mind.
 
 ## Related Questions

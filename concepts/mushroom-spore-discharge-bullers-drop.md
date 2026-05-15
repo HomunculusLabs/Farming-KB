@@ -1,5 +1,5 @@
 ---
-title: Mushroom Spore Discharge Bullers Drop
+title: Mushroom [[spore]] Discharge Bullers Drop
 created: 2026-05-11
 tags: [[bloomfield-john-webster-ballistospore-discharge-discovery]]
 and [[single-spore-isolation-and-monokaryon-culture]], only ten-millionths of a meter

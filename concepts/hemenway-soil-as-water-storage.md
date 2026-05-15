@@ -22,7 +22,7 @@ slowly to plants over weeks and months.
 ## The Soil Sponge
 
 Humus and [[coleman-compost-and-organic-fertility-management]] matter
-- Use hemenway-cover-crops-guide and [[soil-foodweb]] organisms, including fungi and bacteria,
+- Use hemenway-cover-crops-guide and [[soil-food-web]] organisms, including fungi and bacteria,
 create glomalin and other substances that improve soil
 structure and water-holding capacity.
 

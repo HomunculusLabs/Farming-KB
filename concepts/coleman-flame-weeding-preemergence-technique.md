@@ -12,7 +12,7 @@ created: 2026-05-09
 
 Chapter 14 of *The [[hamilton-organic-weed-management]]. Thermal weed control kills or severely damages weeds through
 cellular disruption from brief heat exposure—without affecting soil structure or beneficial
-biology. Coleman integrates flame weeding into a comprehensive strategy alongside mechanical
+biology. Coleman integrates [[flame-weeding]] into a comprehensive strategy alongside mechanical
 tools and cultural practices.
 
 ## The Physics of Flame Weeding

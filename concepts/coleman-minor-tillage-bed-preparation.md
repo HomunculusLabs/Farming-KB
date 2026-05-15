@@ -13,7 +13,7 @@ type: concept
 Eliot Coleman advocates for minimal soil disturbance in permanent bed
 systems. Rather than inverting the soil profile with power tillers,
 Coleman uses [[fukuoka-why-tillage-destroys-soil]] soil aggregates, disrupts fungal
-networks, and releases carbon stored in soil [[soil-foodweb]].
+networks, and releases carbon stored in soil [[soil-food-web]].
 
 Coleman applies compost at a rate of approximately 2 to 4 cubic yards
 per 100 square feet of bed area annually. This rate maintains organic

@@ -53,7 +53,7 @@ Non-invasive methods to detect fungal presence from environmental samples:
 
 All fungal culture work requires strict aseptic (sterile) technique to prevent contamination:
 
-- Work in a laminar flow hood (Class II biological safety cabinet) whenever possible
+- Work in a [[laminar-flow-hood]] (Class II biological safety cabinet) whenever possible
 - Sterilize work surfaces with 70% ethanol or 10% bleach between operations
 - Flame sterilize inoculating loops, scalpels, and forceps before each use
 - Wear gloves; change between handling different cultures
@@ -61,14 +61,14 @@ All fungal culture work requires strict aseptic (sterile) technique to prevent c
 
 ### Media Preparation
 
-Common fungal culture media:
+Common [[fungal-culture-media]]:
 
-- **Potato Dextrose Agar (PDA)**: General-purpose medium; supports growth of most fungi. 200g potato, 20g dextrose, 15g agar per liter. Autoclave at 121°C for 15 minutes
-- **Malt Extract Agar (MEA)**: Similar to PDA; good for mushroom-forming fungi. 30g malt extract, 15g agar per liter
+- **[[potato-dextrose-agar]] (PDA)**: General-purpose medium; supports growth of most fungi. 200g potato, 20g dextrose, 15g agar per liter. Autoclave at 121°C for 15 minutes
+- **[[malt-extract-agar]] (MEA)**: Similar to PDA; good for mushroom-forming fungi. 30g malt extract, 15g agar per liter
 - **Sabouraud Dextrose Agar (SDA)**: Standard clinical mycology medium; acidic pH (5.6) inhibits bacterial growth. 40g dextrose, 10g peptone, 15g agar per liter
 - **Cornmeal Agar (CMA)**: Promotes sporulation in many fungi; useful for microscopic identification
 - **Minimal media**: Defined synthetic media for studying nutritional requirements and metabolic capabilities
-- **Selective media**: Media with antibiotics (chloramphenicol, gentamicin) to suppress bacterial contamination; cycloheximide to inhibit saprotrophic fungi when isolating pathogens
+- **Selective media**: Media with antibiotics (chloramphenicol, gentamicin) to suppress bacterial contamination; cycloheximide to inhibit [[saprotrophic-fungi]] when isolating pathogens
 
 ### Isolation Methods
 
@@ -142,11 +142,3 @@ Provides high-resolution surface detail:
 
 - **DNA Sequencing**:
   - **Sanger sequencing**: Standard for single-locus identification. PCR product purified and sequenced bidirectionally. Cost-effective for routine identification
-
-## See Also
-
-- [[grass-seed-substrate-mycology]]
-- [[palmer-early-american-mycology-nineteenth-century]]
-- [[mycology-modern-era]]
-- [[palmer-neglected-science-mycology]]
-- [[guerrilla-mycology]]

@@ -9,7 +9,7 @@ tags: [plant, ericaceae, ericoid-mycorrhizal, epacridaceae]
 
 ## Description
 
-*Woollsia pungens* is a small ericaceous shrub in the family Ericaceae, native to southeastern Australia. It belongs to the subfamily Epacridoideae (formerly Epacridaceae), a Southern Hemisphere plant group that occupies an ecological niche analogous to the Northern Hemisphere Ericaceae. Its mycorrhizal endophytes have been studied for their ability to access organic nitrogen sources in nutrient-poor Australian soils.
+*Woollsia pungens* is a small ericaceous shrub in the family Ericaceae, native to southeastern Australia. It belongs to the subfamily Epacridoideae (formerly Epacridaceae), a Southern Hemisphere plant group that occupies an [[ecological-niche]] analogous to the Northern Hemisphere Ericaceae. Its mycorrhizal endophytes have been studied for their ability to access organic nitrogen sources in nutrient-poor Australian soils.
 
 ## Classification
 

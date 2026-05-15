@@ -25,7 +25,7 @@ If the syringe needle is touched during inoculation, it should be flame-steriliz
 
 ### Storage of Unused Syringes
 
-Unused spore solution can be stored by replacing the needle guard and keeping the syringe in a dark, cool place. The needle should be resterilized immediately before re-use. Under proper [[anemotropism-in-psilocybe-cubensis]]), and establish a network of dikaryotic mycelium. The fastest-growing, most vigorous genetic combinations tend to dominate the substrate, providing a natural selection mechanism that favors healthy, robust cultures.
+Unused spore solution can be stored by replacing the needle guard and keeping the syringe in a dark, cool place. The needle should be resterilized immediately before re-use. Under proper [[psilocybe-cubensis-anemotropism]]), and establish a network of dikaryotic mycelium. The fastest-growing, most vigorous genetic combinations tend to dominate the substrate, providing a natural selection mechanism that favors healthy, robust cultures.
 
 ### Phenotypic Variation Between Flushes
 

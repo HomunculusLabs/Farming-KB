@@ -43,7 +43,7 @@ colonization of roots declines.
 This creates a dependency loop: the plant becomes dependent on applied
 phosphorus because its mycorrhizal partnerships have atrophied. Re-
 establishing [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] pathway —
-through [[soil-foodweb]]
+through [[soil-food-web]]
 - [[det]]
 - [[mycorrhiza]]
 

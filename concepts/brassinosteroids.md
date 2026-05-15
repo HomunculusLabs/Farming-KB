@@ -67,7 +67,7 @@ yield and quality in several crop species.
   vegetable crops through improved photosynthetic capacity
 - **Anti-stress effects**: Protection against environmental stressors including
   drought, cold, and salinity, improving crop resilience
-- **Quality improvement**: Enhanced [[anemotropism-in-psilocybe-cubensis]]*, suggesting
+- **Quality improvement**: Enhanced [[psilocybe-cubensis-anemotropism]]*, suggesting
 brassinosteroids may play physiological roles in higher fungi. This cross-
 kingdom activity raises interesting questions about the evolutionary
 conservation of brassinosteroid signaling mechanisms.

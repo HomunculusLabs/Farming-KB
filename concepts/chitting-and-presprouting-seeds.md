@@ -10,7 +10,7 @@ Chitting is the practice of presprouting seeds before planting them — initiati
 
 ## How Chitting Works
 
-When a seed germinates, the embryo first puts down a root to secure a moisture supply, and only then makes a shoot heading for light. Seeds usually need to be kept moist only until they begin putting down their first root. The time required depends on the species, the vigor of the seed batch, soil temperature, and weather.
+When a seed germinates, the embryo first puts down a root to secure a moisture supply, and only then makes a shoot heading for light. Seeds usually need to be kept moist only until they begin putting down their first root. The time required depends on the species, the vigor of the seed batch, [[soil-temperature]], and weather.
 
 Chitting initiates sprouting under nearly ideal conditions on your kitchen counter. After the root emerges but before it gets long (the root is delicate and snaps off easily), you gently place the sprouting seed in its drill or hill and cover it. Unless the soil is extremely dry, the seedling will be immune to drying out because its root is already working.
 

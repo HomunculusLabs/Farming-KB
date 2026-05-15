@@ -13,7 +13,7 @@ sources:
 Updated: 2026-04-18
 
 Dr. [[soil-compaction-solutions]]
-- [[soil-foodweb]]. When soil is compacted, the entire biological system that supports plant health breaks down.
+- [[soil-food-web]]. When soil is compacted, the entire biological system that supports plant health breaks down.
 
 ## Effects of Compaction
 

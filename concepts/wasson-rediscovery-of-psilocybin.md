@@ -17,7 +17,7 @@ led him to become the first Westerner to participate intentionally in a [mushroo
 ## Origins: The Honeymoon Incident
 
 Wasson's fascination with mushrooms was supposedly sparked during his honeymoon in the Catskill Mountains
-in 1926. He and his bride, valentina pavlovna wasson, a Russian-born
+in 1926. He and his bride, [[valentina-pavlovna-wasson]], a Russian-born
 paediatrician-in-training, encountered wild mushrooms on a walk through the beautiful autumn forests. Wasson
 reacted with horror and revulsion while Valentina gathered them with evident delight, stuffing as many as
 she could into her knotted skirt. Convinced that the pickings were toadstools, Wasson refused to touch the

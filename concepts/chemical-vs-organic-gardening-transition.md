@@ -148,7 +148,3 @@ The book's final chapter makes its most powerful point: "No One Ever Fertilized 
 This is not a romantic or anti-science position. It is an observation that the natural systems of nutrient cycling, disease suppression, and plant nutrition — all mediated by soil organisms — are more effective and sustainable than any chemical management approach humans have devised.
 
 ## The Stewardship Imperative
-
-Beyond gardening technique, the soil food web approach carries an ethical dimension. The authors argue that home gardeners have no business applying poisons to the food they grow and eat, and certainly not to the food they feed their families. Chemical gardening practices that were once considered standard are now recognized as harmful to human health, water quality, and ecosystem integrity.
-
-The transition from chemical to biological gardening is therefore not just a horticultural choice — it is a commitment to environmental stewardship and responsibility for the health of the living systems that sustain all life.

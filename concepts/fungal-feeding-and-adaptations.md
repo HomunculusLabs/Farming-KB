@@ -122,3 +122,9 @@ Fungi have evolved a diverse toolkit for capturing soil organisms:
 ---
 
 *Fungi are the unsung engineers of soil ecosystems. From dissolving [[lignin]] with phenol oxidase to trapping nematodes in a tenth of a second, their adaptations make them indispensable partners in any [[query-how-to-build-healthy-garden-soil]] or farm. Feed the fungi, and they will feed your soil — and your plants — in return.*
+
+## See Also
+- [[saprotrophic-fungi]]
+- [[mycorrhizal-fungi]]
+- [[fungal-decomposition]]
+- [[mushroom-cultivation-basics]]

@@ -63,7 +63,7 @@ The practical requirements for producing these two amendments differ considerabl
 
 Fish Aminos are the better choice when plants show signs of acute nitrogen deficiency (pale leaves, stunted growth) or when rapid vegetative growth is the primary goal. During the early vegetative stage, FAA provides a direct and potent source of amino acid nitrogen that plants absorb efficiently through both roots and leaves without relying on soil microbial activity to mineralize it first. This makes it especially useful in soils with depressed microbial life, in containers, or in cool conditions where soil biology is slow and [[cervantes-pest-disease-prevention-overview]] is critical to crop success. Its diverse [[vermicompost-tea]]
 - [[hot-composting-method]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[aact-compost-organism-levels]]
 
 ## Overview

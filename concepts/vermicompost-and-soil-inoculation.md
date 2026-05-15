@@ -6,13 +6,13 @@ type: concept
 
 # Vermicompost and Soil Inoculation
 
-Vermicompost is organic material that has been processed through earthworms, producing castings rich in bacteria and plant-available nutrients. Unlike thermophilic composting, vermicomposting occurs at ambient temperatures (since heat would kill the worms), relying on the digestive systems of earthworms and their associated bacteria to transform organic waste into a biologically active soil amendment. Along with traditional compost, vermicompost serves as a primary tool for inoculating soils with beneficial soil food web organisms.
+Vermicompost is organic material that has been processed through earthworms, producing castings rich in bacteria and plant-available nutrients. Unlike [[thermophilic-composting]], vermicomposting occurs at ambient temperatures (since heat would kill the worms), relying on the digestive systems of earthworms and their associated bacteria to transform organic waste into a biologically active soil amendment. Along with traditional compost, vermicompost serves as a primary tool for inoculating soils with beneficial [[soil-food-web]] organisms.
 
 ## The Vermicomposting Process
 
 ### How It Works
 
-Vermicompost is fundamentally different from thermal compost in its biological pathway:
+Vermicompost is fundamentally different from [[thermal-compost]] in its biological pathway:
 
 - **No heat involved** — the process occurs at ambient temperatures suitable for earthworm survival
 - **Worm digestion** — earthworms consume organic material, and the bacteria inside their digestive tracts break it down
@@ -24,7 +24,7 @@ Vermicompost is fundamentally different from thermal compost in its biological p
 A basic vermicompost operation requires:
 
 - **A bin** — a simple wooden or plastic box, commercially available or homemade
-- **Composting worms** — special earthworm species (typically *Eisenia fetida*, red wigglers) suited to confined bin conditions
+- **Composting worms** — special earthworm species (typically *[[eisenia-fetida]]*, red wigglers) suited to confined bin conditions
 - **Organic feedstock** — food wastes (no fats or meats), paper, cardboard, leaves, and green grass
 
 ### Feedstock Preparation
@@ -74,7 +74,7 @@ Once established, the introduced soil food web provides a cascade of benefits:
 Compost and mulch work best when used together in an integrated soil food web management strategy:
 
 - **Compost** provides rapid inoculation with a complete suite of soil food web organisms and immediately available nutrients
-- **Mulch** provides ongoing habitat and food sources that sustain the soil food web between compost applications
+- **Mulch** provides ongoing habitat and food sources that sustain [[the-soil-food-web]] between compost applications
 - **Together** they create a self-reinforcing system where compost establishes the biology and mulch maintains it
 
 ## Composting as Indispensable Practice

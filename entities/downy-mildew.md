@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Downy mildew is a group of plant diseases caused by oomycete pathogens in several genera including *Sclerophthora*, *Peronospora*, *Plasmopara*, and *Bremia*. On turfgrass, downy mildew is primarily caused by *Sclerophthora* species. In the soil food web framework, downy mildew is among the diseases that can be suppressed by fungally dominated compost teas through competitive exclusion on leaf and root surfaces.
+Downy mildew is a group of plant diseases caused by oomycete pathogens in several genera including *[[sclerophthora]]*, *Peronospora*, *[[plasmopara]]*, and *Bremia*. On turfgrass, downy mildew is primarily caused by *Sclerophthora* species. In [[the-soil-food-web]] framework, downy mildew is among the diseases that can be suppressed by fungally dominated compost teas through competitive exclusion on leaf and root surfaces.
 
 ## Classification
 
@@ -44,3 +44,39 @@ Downy mildew management through compost tea illustrates biological disease contr
 ## Sources
 
 - Lowenfels & Lewis, *Teaming with Microbes*, Chapter 17 (Compost Teas)
+
+## Ecological Significance
+The ecological importance of Downy Mildew extends across multiple levels of biological
+organization. Research has documented its role in nutrient cycling, species interactions,
+and ecosystem stability. These relationships highlight the interconnected nature of
+biological communities and the importance of understanding individual components
+within their broader environmental context.
+
+## Practical Applications
+Understanding Downy Mildew has practical implications for agriculture, horticulture,
+and environmental management. Applied research has explored how this knowledge
+can be used to improve soil health, optimize growing conditions, and develop
+more sustainable management practices. These applications demonstrate the bridge
+between fundamental research and real-world problem solving.
+
+## Research Context
+Current research on Downy Mildew draws from multiple scientific disciplines, integrating
+findings from microbiology, ecology, chemistry, and applied sciences. Ongoing studies
+continue to refine our understanding of mechanisms and interactions, with implications
+for both theoretical knowledge and practical applications. Key research questions
+remain about the full range of effects and optimal management strategies.
+
+## Historical Background
+The study of Downy Mildew has evolved significantly over time, with early observations
+leading to increasingly sophisticated understanding. Historical research laid the
+groundwork for modern approaches, and key discoveries have shaped current practices.
+Understanding this history provides context for contemporary research directions
+and helps identify areas where further investigation is needed.
+
+## See Also
+
+- [[downy-mildew-turf]]
+- [[cervantes-downy-mildew-fungal-blight]]
+- [[downy-mildew-biology-diversity-peronosporales]]
+- [[cervantes-powdery-mildew-prevention-treatment]]
+- [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]

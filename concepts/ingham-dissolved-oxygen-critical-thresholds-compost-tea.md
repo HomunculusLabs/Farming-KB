@@ -14,7 +14,7 @@ type: concept
 
 ## Overview
 
-Dissolved oxygen (DO) concentration is the single most critical variable in [[cervantes-trichoderma-beneficial-fungi]] essential to [[composting]], or in soil, the beneficial [[soil-foodweb]] laboratory.
+Dissolved oxygen (DO) concentration is the single most critical variable in [[cervantes-trichoderma-beneficial-fungi]] essential to [[composting]], or in soil, the beneficial [[soil-food-web]] laboratory.
 
 The consequences of oxygen dropping below 5.5 ppm are severe:
 

@@ -12,7 +12,7 @@ type: concept
 
 # AACT Disease Suppression Mechanisms
 
-Actively [[soil-foodweb]] functions as an active biological buffer.
+Actively [[soil-food-web]] functions as an active biological buffer.
 
 Ingham emphasizes that food is the second major control point after site occupation. First, the beneficials take up all the space. Then, they eat all the food. Between these two mechanisms, the pathogen faces an environment where it can neither find a place to establish nor the energy to grow. This dual pressure is why well-maintained AACT programs are so effective.
 

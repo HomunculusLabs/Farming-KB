@@ -27,7 +27,7 @@ Animals occupy different trophic niches:
 ### Chickens
 Chickens are the most integrated domestic animal in permaculture systems:
 - **In orchards**: At 120-240/ha, they scavenge windfall fruit, control codlin moth and fruit fly, and provide manurial turnover. They have a well-tested effect on orchard pests, reducing incidence to insignificant proportions over a few years.
-- **Chicken tractor systems**: Confined flocks on 5-6 fenced plots, rotated over 18 months. Chickens pioneer weeds; vegetables and papaya succeed them. All chicken tractors show remarkable lack of weeds and high production.
+- **[[chicken-tractor-systems]]**: Confined flocks on 5-6 fenced plots, rotated over 18 months. Chickens pioneer weeds; vegetables and papaya succeed them. All chicken tractors show remarkable lack of weeds and high production.
 - **Forage plants**: Oxalis, cleavers, dandelion, onion weed, nettle, nut grass, and Solanum family species (huckleberry, black nightshade, pepino, kangaroo apple, tomato) are excellent chicken fodders.
 - **Breeding**: A few small top-netted rearing pens allow broody hens to replace culled chickens, making the flock self-replacing.
 

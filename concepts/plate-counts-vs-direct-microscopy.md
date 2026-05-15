@@ -54,7 +54,7 @@ Because direct microscopy observes organisms as they actually exist in the sampl
 
 ## SFI (Soil Foodweb Inc.) Direct Microscopy Methods
 
-The [[soil-foodweb]] Inc. (SFI) methodology, developed by Dr. Elaine Ingham and colleagues, uses a suite of direct microscopy techniques to build a comprehensive assessment of soil and compost tea biology. These methods are designed to evaluate the full soil food web, not just isolated groups of organisms:
+The [[soil-food-web]] Inc. (SFI) methodology, developed by Dr. Elaine Ingham and colleagues, uses a suite of direct microscopy techniques to build a comprehensive assessment of soil and compost tea biology. These methods are designed to evaluate the full soil food web, not just isolated groups of organisms:
 
 - **Activity stains:** Fluorescent or vital dyes that differentiate between metabolically active organisms and dormant or dead ones, providing insight into the living, functional portion of the community.
 

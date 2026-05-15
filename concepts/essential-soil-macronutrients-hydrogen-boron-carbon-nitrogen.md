@@ -8,7 +8,7 @@ type: concept
 
 ## Hydrogen (H)
 
-Hydrogen is an extremely mobile and reactive gaseous element. The concentration of free hydrogen ions (H⁺) in solution, balanced against hydroxyl (OH⁻) ions, determines the **pH** of soils and water. This acid-alkaline balance is one of the most critical factors governing nutrient availability to plants.
+Hydrogen is an extremely mobile and reactive gaseous element. The concentration of free hydrogen ions (H⁺) in solution, balanced against hydroxyl (OH⁻) ions, determines the **pH** of soils and water. This acid-alkaline balance is one of the most critical factors governing [[nutrient-availability]] to plants.
 
 ### Chemical Roles
 

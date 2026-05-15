@@ -84,5 +84,5 @@ mushrooms appear to glow in accordance with the text. Other photos were similarl
 ## Academic Reception
 
 Wasson's radical idea gained immediate academic support from influential quarters, including
-[Roger Heim, Richard Evans Schultes, and Albert Hofmann. The thesis arrived in 1968 at a moment when the psychedelic counterculture was reaching the
+[Roger Heim, [[richard-evans-schultes]], and Albert Hofmann. The thesis arrived in 1968 at a moment when the psychedelic counterculture was reaching the
 zenith of its popularity and was eager to find historical self-justification for its practices. Wasson's

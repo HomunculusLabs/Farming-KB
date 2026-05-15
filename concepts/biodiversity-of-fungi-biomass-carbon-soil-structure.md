@@ -11,7 +11,7 @@ Updated: 2026-04-18
 Source: Biodiversity of Fungi (Hyde et al., eds.), Chapters 11, 13, and related sections
 ## The Scale of Fungal Biomass in Soils
 Fungi are the dominant [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and soil physical properties.
-See also: [[soil-foodweb]], carbon flows from plant material through decomposer fungi before reaching higher trophic levels. The fungal pathway has several [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Fungal biomass and necromass contribute to stable soil organic matter. Fungal cell walls contain chitin and melanin that are resistant to decomposition.
+See also: [[soil-food-web]], carbon flows from plant material through decomposer fungi before reaching higher trophic levels. The fungal pathway has several [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Fungal biomass and necromass contribute to stable soil organic matter. Fungal cell walls contain chitin and melanin that are resistant to decomposition.
 3. **Recalcitrant metabolites**: Fungi produce glomalin (from AMF), melanin, and other recalcitrant compounds that persist in soil for years to decades.
 4. **Hyphal turnover**: As fungal hyphae grow and die, they continuously deposit organic material throughout the soil matrix, not just at the surface.
 See also: fungal-carbon-use-efficiency, [[fungal-glomalin-and-soil-carbon]]: Glomalin is a glycoprotein produced by arbuscular fungal-soil-aggregate-formation-glomalin, fungal-soil-aggregation, [[soil-disturbance-mycorrhizal-impact]]

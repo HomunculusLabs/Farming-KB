@@ -9,7 +9,7 @@ tags: [compost-tea, manure, anaerobic, pathogen-risk, historical]
 
 ## Description
 
-Manure tea is an anaerobic liquid amendment created by suspending a bag of manure in water for several weeks. It is one of the oldest liquid fertilizer preparations, employed by farmers and gardeners for centuries. However, manure tea carries significant pathogen risks — particularly *Escherichia coli* — and is considered unsafe and inadvisable for use in modern soil food web management. It should not be confused with actively aerated compost tea (AACT).
+[[manure-tea]] is an anaerobic liquid amendment created by suspending a bag of manure in water for several weeks. It is one of the oldest liquid fertilizer preparations, employed by farmers and gardeners for centuries. However, manure tea carries significant pathogen risks — particularly *Escherichia coli* — and is considered unsafe and inadvisable for use in modern [[soil-food-web]] management. It should not be confused with [[actively-aerated-compost-tea]] (AACT).
 
 ## Classification
 
@@ -36,7 +36,7 @@ The primary concern with manure tea is the near-certainty of pathogenic contamin
 - Other potential pathogens include *Salmonella*, *Listeria*, and various parasitic organisms
 - Anaerobic conditions favor the survival and proliferation of these organisms
 - Application to food crops poses a direct human health risk
-- Even application to ornamental plants can introduce pathogens to the soil food web
+- Even application to ornamental plants can introduce pathogens to [[the-soil-food-web]]
 
 ### Why Anaerobic Conditions Are Problematic
 
@@ -61,3 +61,20 @@ Manure tea represents an early attempt at biological soil amendment, and its cen
 - The risk of E. coli contamination makes it unsafe for any application involving food crops
 - If manure must be used as a nutrient source, compost it fully (reaching thermophilic temperatures of 131°F+ for 15+ days) before brewing tea from the finished compost
 - The key difference between manure tea and AACT is **aeration**: beneficial soil microbes require oxygen to thrive
+## Practical Applications
+Understanding these compost dynamics enables targeted amendment strategies
+for specific crop needs and soil conditions. Different composting methods
+produce distinct microbial communities that influence plant health outcomes.
+Thermal composting favors bacterial dominance while fungal composting methods
+promote mycorrhizal associations essential for perennial crop systems.
+Application rates and timing depend on existing soil biology and crop stage.
+
+## Key Considerations
+Several factors influence the effectiveness of composting approaches:
+feedstock quality, moisture content, aeration frequency, and temperature
+management all play critical roles in determining final compost quality.
+Monitoring microbial populations throughout the process helps ensure
+consistent results across batches and seasonal variations.
+Storage conditions after completion also affect biological activity.
+
+This topic connects to related areas including [[mushroom-compost-and-stable-manure-preparation]], [[mushroom-nutrition-manure-fermentation]], [[mollison-designers-rabbit-housing-and-manure-management]].

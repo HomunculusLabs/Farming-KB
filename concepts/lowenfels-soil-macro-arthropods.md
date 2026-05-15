@@ -17,7 +17,7 @@ web, they occupy the third and higher trophic levels as consumers of fungi,
 bacteria, protozoa, nematodes, and each other. The soil arthropod community is
 divided into microarthropods (mites, springtails, and their kin) and
 macroarthropods (beetles, ants, millipedes, centipedes, spiders, and others).
-While often overlooked, they are essential for [[soil-foodweb]] health.
+While often overlooked, they are essential for [[soil-food-web]] health.
 
 **Ants (Formicidae)** -- Ants are [[comparison-predatory-mites-vs-ladybugs-biocontrol]] consume root-feeding
 nematodes, insect larvae, and other pests. Fungal-feeding mites can reduce

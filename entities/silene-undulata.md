@@ -21,7 +21,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Silene undulata** Aiton (syn. *Silene capensis*), known as **African dream root** or **Xhosa dream root** (*undlela ziimhlophe* — "white ways/paths"), is a perennial herb in the family Caryophyllaceae.
+**Silene undulata** Aiton (syn. *[[silene-capensis]]*), known as **African dream root** or **Xhosa dream root** (*undlela ziimhlophe* — "white ways/paths"), is a perennial herb in the family Caryophyllaceae.
 
 It is culturally significant to the **Xhosa people** of South Africa's Eastern Cape province, who use the powdered root as a traditional oneirogen to induce vivid, prophetic dreams during initiation rituals of shamans and healers (igqirha).
 

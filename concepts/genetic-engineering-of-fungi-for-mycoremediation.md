@@ -11,7 +11,7 @@ sources:
 updated: 2026-04-18
 
 Genetic engineering approaches offer powerful tools for enhancing the [bioremediation capabilities of fungi through metabolic pathway optimization, enzyme overproduction, and novel trait introduction. Advances in molecular biology, biotechnology, and enzymology are driving the development of improved [[mycoremediation-emerging-techniques]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[mycoremediation-techniques|Mycoremediation Techniques]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

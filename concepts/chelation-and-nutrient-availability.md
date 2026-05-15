@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Chelation is a fundamental process in soil biology that determines whether plants can access the nutrients present in the soil. In the context of [[elaine-ingham]]'s [[soil-foodweb]] approach, chelation is primarily carried out by soil microorganisms — bacteria, fungi, and their metabolites — which transform inorganic mineral compounds into plant-available organic forms. Without microbial chelation, many essential nutrients remain locked in unavailable forms, regardless of how much fertilizer is applied.
+Chelation is a fundamental process in soil biology that determines whether plants can access the nutrients present in the soil. In the context of [[elaine-ingham]]'s [[soil-food-web]] approach, chelation is primarily carried out by soil microorganisms — bacteria, fungi, and their metabolites — which transform inorganic mineral compounds into plant-available organic forms. Without microbial chelation, many essential nutrients remain locked in unavailable forms, regardless of how much fertilizer is applied.
 
 ## What Is Chelation?
 

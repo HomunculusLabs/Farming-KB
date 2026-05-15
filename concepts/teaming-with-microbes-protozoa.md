@@ -45,7 +45,7 @@ Protozoa illustrate a core principle of soil food web gardening:
 # Bacterial Biofilm and Slime
 
 Bacterial slime, or biofilm, is a matrix of sugars, proteins, and DNA. It is one of the most important substances produced by soil bacteria, serving multiple critical functions in the [[teaming-with-microbes-protozoa-and-nematodes]]
-- [[soil-foodweb]]. Their consumption of bacteria and fungi -- and subsequent release of wastes -- is the primary mechanism by which nutrients are mineralized and made available to plants.
+- [[soil-food-web]]. Their consumption of bacteria and fungi -- and subsequent release of wastes -- is the primary mechanism by which nutrients are mineralized and made available to plants.
 
 ## Types of Soil Protozoa
 

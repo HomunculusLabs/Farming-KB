@@ -9,7 +9,7 @@ tags: [turf-disease, fungal-pathogen, typhula, microdochium, winter-disease, com
 
 ## Description
 
-Snow mold is a group of winter turf diseases caused by fungi that develop under snow cover or during cold, wet conditions in late winter and early spring. Two primary types are recognized: **gray snow mold** (caused by *Typhula* spp.) and **pink snow mold** (caused by *Microdochium nivale*, formerly *Fusarium nivale*). Both types produce circular, matted patches of dead or damaged turf that become visible when snow melts. Snow molds are among the turf diseases that can be suppressed using fungally dominated compost teas.
+Snow mold is a group of winter turf diseases caused by fungi that develop under snow cover or during cold, wet conditions in late winter and early spring. Two primary types are recognized: **[[gray-snow-mold]]** (caused by *[[typhula]]* spp.) and **pink snow mold** (caused by *[[microdochium]] nivale*, formerly *Fusarium nivale*). Both types produce circular, matted patches of dead or damaged turf that become visible when snow melts. Snow molds are among the turf diseases that can be suppressed using fungally dominated compost teas.
 
 ## Classification
 
@@ -55,9 +55,9 @@ Snow mold severity is increased by:
 - Excessive nitrogen applications in late fall (promotes lush, susceptible growth)
 - Poor drainage and compacted soils
 - Thatch accumulation providing habitat for the pathogen
-- Lack of beneficial fungal competitors in the soil food web
+- Lack of beneficial fungal competitors in [[the-soil-food-web]]
 
-Managing snow mold through soil food web principles involves:
+Managing snow mold through [[soil-food-web]] principles involves:
 
 1. Discontinuing late-season nitrogen applications
 2. Applying fungally dominated AACT in late autumn (after leaf fall, before first snow)

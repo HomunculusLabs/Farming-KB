@@ -63,7 +63,7 @@ Sabinene occurs at significant concentrations in several commercially important 
 
 **Juniper berries** (*[[myristica-fragrans]]*): Present at lower concentrations, contributing to the complex spice aroma.
 
-**Holm oak** (*Quercus ilex*): Sabinene is a significant leaf volatile in this Mediterranean species.
+**Holm oak** (*[[quercus-ilex]]*): Sabinene is a significant leaf volatile in this Mediterranean species.
 
 **Tea tree** (*[[chamovitz-photoperiodism-agricultural-applications]].
 

@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Kramer, K.U. (1990). "Cyrtomium." In: Kubitzki, K. (ed.), The Families and Genera of Vascular Plants, Vol. 1. Springer.
   - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Cyrtomium." Flora [[dmt-containing-plants-united-states-halpern]] and Hawaii, the fern has escaped cultivation and established naturalized populations. It is considered potentially invasive in some Pacific island ecosystems.
+  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). "Cyrtomium." Flora [[dmt-containing-plants-united-states-halpern]] and Hawaii, the fern has escaped cultivation and established naturalized populations. It is considered potentially invasive in some Pacific island ecosystems.
 
 The genus Cyrtomium contains approximately 15–20 species distributed across eastern and southeastern Asia. C. falcatum is by far the most widely cultivated member of the genus.
 

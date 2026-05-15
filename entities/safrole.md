@@ -45,7 +45,7 @@ Major natural sources include:
 
 | Plant Species | Part | Safrole Content |
 |--------------|------|----------------|
-| Sassafras albidum | Root bark oil | 75-90% |
+| [[sassafras-albidum]] | Root bark oil | 75-90% |
 | Ocotea pretiosa | [[cinnamomum-camphora]] | Root bark oil | 80-90% |
 | [[illicium-verum]] | Fruit oil | Trace |
 

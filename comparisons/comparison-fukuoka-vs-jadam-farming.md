@@ -19,7 +19,7 @@ Both [[query-can-fungi-break-down-plastic-pollution]] each system in detail.
 Masanobu Fukuoka's "do-nothing" method, detailed in [[natural-farming-fukuoka]] — detailed guide to Fukuoka's four principles and rice-barley system
 - [[query-jadam-vs-korean-natural-farming]] Farming
 - [[gaias-garden-cover-crops-soil-building]] across systems
-- [[soil-foodweb]] — the [[fukuoka-microbial-ecology-decomposition]] both methods ultimately depend on
+- [[soil-food-web]] — the [[fukuoka-microbial-ecology-decomposition]] both methods ultimately depend on
 ## Practical Applications
 
 Fukuoka Natural Farming vs JADAM Farming has a range of practical applications that make it relevant to

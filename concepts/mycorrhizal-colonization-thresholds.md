@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Mycorrhizal colonization percentage is a key indicator of root-zone health. Research from [[soil-foodweb]] Inc. (SFI) shows clear thresholds that correlate with disease pressure, root-feeding pest activity, and overall plant vigor. Compost and compost tea play a central role in supporting [[mycorrhizal-fungi]] and moving colonization into healthy ranges.
+Mycorrhizal colonization percentage is a key indicator of root-zone health. Research from [[soil-food-web]] Inc. (SFI) shows clear thresholds that correlate with disease pressure, root-feeding pest activity, and overall plant vigor. Compost and compost tea play a central role in supporting [[mycorrhizal-fungi]] and moving colonization into healthy ranges.
 
 ## Colonization Thresholds and Their Meaning
 

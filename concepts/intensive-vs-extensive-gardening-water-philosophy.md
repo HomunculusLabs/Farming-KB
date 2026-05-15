@@ -6,7 +6,7 @@ type: concept
 
 # Intensive vs Extensive Gardening Water Philosophy
 
-The choice between intensive and extensive gardening is not merely about plant spacing — it is fundamentally about water. John Widstoe's 1911 book *Dry Farming* identified four causes of drought, and three of them are directly under the gardener's control: (1) failure to store natural precipitation in the soil, (2) failure to keep the moisture in the soil until needed, (3) sowing too much seed for the available soil moisture. Choosing an extensive approach addresses all three.
+The choice between intensive and extensive gardening is not merely about plant spacing — it is fundamentally about water. [[john-widstoe]]'s 1911 book *Dry Farming* identified four causes of drought, and three of them are directly under the gardener's control: (1) failure to store natural precipitation in the soil, (2) failure to keep the moisture in the soil until needed, (3) sowing too much seed for the available soil moisture. Choosing an extensive approach addresses all three.
 
 ## Historical Context
 

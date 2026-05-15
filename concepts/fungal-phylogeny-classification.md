@@ -1,102 +1,101 @@
 ---
 title: Fungal Phylogeny and Classification
-aliases: [kingdom fungi, fungal taxonomy, fungal evolution, fungal systematics]
-tags: [mycology, taxonomy, phylogeny, evolution, fungi]
-created: 2026-05-10
-source: "[[batrachochytrium-dendrobatidis]]*, the chytrid fungus causing amphibian declines worldwide).
-- The phylum is not monophyletic in modern analyses; some groups intergrade with Zygomycota.
+source: unknown-biodiversity-of-fungi.md
+type: concept
+---
 
-### Zygomycota
+# Fungal Phylogeny and Classification
 
-- Traditionally defined by the production of zygospores through sexual reproduction.
-- Not monophyletic in molecular analyses; the group is paraphyletic with respect to other fungal lineages.
-- Includes Mucorales (bread molds), Entomophthorales (insect pathogens), and Trichomycetes (gut symbionts of arthropods).
-- The Glomales ([[saccharomyces-cerevisiae]]*), molds (e.g., *Aspergillus*, *Penicillium*), morels, truffles, and many plant pathogens.
-- Many Ascomycota have no known sexual stage and were classified in a separate "Deuteromycota" (Fungi Imperfecti) — this artificial group has been largely abandoned with [[fungal-taxonomy]]
-- [[zoosporic-fungi]]
-- [[spore]]
+The classification of fungi has undergone revolutionary changes driven by molecular phylogenetics. A key finding of the past three decades is that "fungi" as traditionally conceived are **polyphyletic** — their morphological similarities are the result of convergent evolution from multiple independent eukaryotic lineages. True fungi form a well-supported monophyletic group most closely related to animals, not plants.
 
-## Overview
+## The Polyphyly of "Fungi"
 
-Fungal Phylogeny Classification represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
+Organisms historically classified as fungi span three separate kingdoms:
 
-## Key Characteristics
+- **Kingdom Fungi** (true fungi): Chytridiomycota, Zygomycota, Ascomycota, Basidiomycota
+- **Kingdom Straminipila** (heterokont organisms): Oomycota, Hyphochytriomycota, Labyrinthulomycota
+- **Kingdom Protista** (slime molds): Plasmodiophoromycota, Dictyosteliomycota, Acrasiomycota, Myxomycota
 
-Several defining characteristics distinguish fungal phylogeny classification
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
+The filamentous growth form, heterotrophic nutrition, and spore-based reproduction found across these groups evolved independently — a classic case of convergent evolution among organisms occupying similar ecological niches.
 
-## Ecological Context
+## Kingdom Fungi: Relationship to Animals
 
-The ecological relationships involving fungal extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
+Contemporary molecular studies indicate that members of Kingdom Fungi are **most closely related to animals**, possibly through a choanoflagellate-like ancestor (Barr 1992; Baldauf and Palmer 1993; Wainright et al. 1993; Baldauf et al. 2000; Cavalier-Smith 2001). This finding overturned centuries of classification that grouped fungi with plants in botanical studies.
 
-## Practical Applications
+The monophyletic group exclusive of slime molds and oomycetes is well defined and supported as "true fungi" at the kingdom level (Barr 1992; Bruns et al. 1993; Baldauf et al. 2000; Keeling et al. 2000).
 
-Fungal Phylogeny Classification finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
+## Phylogenetic Methods
 
-## Management and Implementation
+### Early Molecular Phylogenetics
+A skeleton phylogeny based on **ribosomal RNA gene (rDNA)** characters was developed relatively early (Bruns et al. 1991; Alexopoulos et al. 1996; McLaughlin et al. 2001). SSU rDNA (small subunit) studies revealed that it may be difficult to reconstruct patterns of an ancient rapid radiation of "crown eukaryotes."
 
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
+### Multi-Gene Approaches
+Baldauf and colleagues (2000) advanced the field by analyzing **deduced amino acid sequences from four protein-coding regions** (α-tubulin, β-tubulin, actin, and elongation factor 1-alpha [EF-1α]) in addition to rDNA. This multi-gene approach provided better resolution of deep branches representing the earliest divergences.
 
-## Regional Considerations
+### Key Relationships Identified
+The Baldauf et al. (2000) study strengthened or identified several important phylogenetic relationships:
 
-Different geographic regions present unique challenges and
-opportunities for fungal phylogeny classification. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
+- **Fungi–Microsporidia link**: Microsporidia, once considered primitive eukaryotes or protists, group within or near Fungi
+- **Dictyostelid–plasmodial slime mold grouping**: Dictyosteliomycota and Myxomycota (plasmodial slime molds) form a clade
+- **Remote basal position of acrasid slime molds**: Acrasiomycota are distantly related to the dictyostelid–myxomycete clade
+- Non-molecular traits (flagellum type, mitochondrial cristae arrangement) provided additional support for some branches
 
-## Sustainability
+## Classification Challenges
 
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
+### State of Flux
+Fungal classification is in a state of flux. Ideally, classifications should reflect phylogenetic relationships, but the relationships of all groups have not been resolved nor have all groups been represented in analyses. Fewer than 800 fungi or fungus-like taxa have been included together in any single phylogenetic reconstruction — representing less than 1% of the ~80,000 currently listed species.
 
-## Research and Development
+### rDNA Limitations
+Phylogenetic relationships, especially deep branches, are not always well resolved when based solely on rDNA characters. Different tree branches receive support depending on whether rDNA or protein-coding genes are used.
 
-Ongoing research continues to expand understanding of
-fungal phylogeny classification and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
+### Proposed Solutions
+- **Moratorium on higher-level taxonomy**: One suggestion called for halting publication of higher-level taxonomic systems until 2050 (Karatygin 1999)
+- **Clade-based nomenclature**: A more practical approach uses clade names rather than formal taxon designations (Hibbett and Donoghue 1998), which is increasingly adopted for higher taxa
 
-## Historical Context
+## Major Groups of True Fungi
 
-Fungal Phylogeny Classification has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
+### Phylum Chytridiomycota
+Zoosporic fungi retaining a flagellated stage, representing some of the earliest-diverging fungal lineages. Includes Blastocladiales and Monoblepharidales. The recent discovery of chytrids as factors in global amphibian decline has renewed interest in this group.
 
-## Integration Strategies
+### Phylum Zygomycota
+Includes Mucorales, Entomophthorales, and Trichomycetes. A diverse but paraphyletic assemblage that is being reclassified based on molecular evidence.
 
-Successful integration of fungal phylogeny classification into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
+### Clade Glomales
+Arbuscular mycorrhizal fungi (AMF), now often placed in their own phylum (Glomeromycota). These are among the most ecologically important fungi, forming obligate symbioses with the roots of most land plants.
 
-## Challenges and Solutions
+### Phylum Ascomycota
+The largest phylum of fungi, containing more described species than all other fungal phyla combined. Divided into:
+- **Archiascomycetes**: Early-diverging ascomycetes
+- **Saccharomycetes**: Yeasts
+- **Euascomycetes**: The vast majority of filamentous ascomycetes, including many plant pathogens, endophytes, and saprobes
 
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
+### Phylum Basidiomycota
+Includes the familiar mushroom-forming fungi. Divided into:
+- **Ustilaginiomycetes**: Smut fungi
+- **Urediniomycetes**: Rust fungi
+- **Hymenomycetes**: Typical mushroom-forming basidiomycetes
+
+## Fungus-Like Organisms
+
+### Kingdom Straminipila
+Heterokont zoosporic organisms including:
+- **Oomycota**: Water molds and plant pathogens (e.g., *Phytophthora*, *Pythium*) — ecologically and economically devastating but phylogenetically distinct from true fungi
+- **Hyphochytriomycetes**: Small group of zoosporic organisms
+- **Labyrinthulales and Thraustochytriales**: Marine organisms with unique ectoplasmic networks
+
+### Slime Molds (Kingdom Protista)
+- **Plasmodiophorales**: Parasitic slime molds affecting plant roots
+- **Myxomycetes, Protostelids, and Dictyostelids**: Plasmodial and cellular slime molds with complex life cycles involving amoeboid stages and spore-producing fruiting structures
+- **Acrasid slime molds**: The most basal group among slime mold lineages
+
+## Taxonomic Coverage Gap
+
+Taxonomic coverage across higher taxa in phylogenetic analyses remains limited. Until now, only molecular characters from ribosomal RNA genes have been used widely. The recent increase in use of other DNA regions and incorporation of phenotypic characters to resolve conflicting trees is encouraging but much work remains. The 1.5 million estimated fungal species — six times more than recognized land plant species — must be discovered, identified, and incorporated into the phylogenetic framework.
 
 ## See Also
 
-- [[aact-fungal-foods-chitin-rock-dust-protozoa-nematodes-ingham]]
-- [[ascomycota-phylogeny-major-classes-lineages]]
-- [[environmental-dna-fungal-discovery]]
-- [[fukuoka-textdoc-vegetable-disease-pest-resistance-classification]]
-- [[fungal-biodiversity]]
+- [[mycorrhiza]]
+- [[basidiomycota]]
+- [[ascomycota]]
+- [[kingdom-fungi]]
+- [[mushroom-identification]]

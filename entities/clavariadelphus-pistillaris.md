@@ -24,7 +24,7 @@ sources:
 
 **Clavariadelphus pistillaris** (L.) Donk, commonly known as the piggy-back fungus, giant club, or large club coral, is a basidiomycete fungus in the family Gomphaceae. It is one of the most distinctive non-gilled mushrooms of temperate forests, producing large, club-shaped to spindle-shaped fruiting bodies that can reach imposing dimensions — up to 30 cm tall and 7 cm wide in mature specimens.
 
-The species is widely distributed across temperate regions of the Northern Hemisphere, where it forms [[beta-glucans]] with potential immunomodulatory activity, consistent with findings across many [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and acid rain negatively impact [[dighton-fungi-climate-change-feedback]]:** Warming temperatures and altered precipitation patterns may shift suitable habitat northward and to higher elevations.
+The species is widely distributed across temperate regions of the Northern Hemisphere, where it forms [[beta-glucans]] with potential immunomodulatory activity, consistent with findings across many [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and [[acid-rain]] negatively impact [[dighton-fungi-climate-change-feedback]]:** Warming temperatures and altered precipitation patterns may shift suitable habitat northward and to higher elevations.
 - **Soil disturbance:** Compaction and disruption of [[mushroom-cultivation-basics]]
 ## Practical Considerations
 

@@ -7,7 +7,7 @@ tags: [plant-compound, polyphenol, composting, decomposition, brown-materials]
 
 ## Description
 
-Tannins are a class of astringent, polyphenolic compounds found in many plants, particularly concentrated in bark, leaves, wood, and some fruits. In the context of composting and soil food web management, tannins are identified as one of the key components of brown organic materials alongside lignin, cellulose, and hemicellulose. These compounds are among the difficult-to-digest substances that give brown materials their characteristic resistance to rapid decomposition and that selectively support fungal dominance over bacterial dominance in compost and mulch. Tannins affect decomposition rates, microbial community composition, and nutrient cycling in soils and compost piles.
+Tannins are a class of astringent, polyphenolic compounds found in many plants, particularly concentrated in bark, leaves, wood, and some fruits. In the context of composting and [[soil-food-web]] management, tannins are identified as one of the key components of brown organic materials alongside lignin, cellulose, and hemicellulose. These compounds are among the difficult-to-digest substances that give brown materials their characteristic resistance to rapid decomposition and that selectively support fungal dominance over bacterial dominance in compost and mulch. Tannins affect decomposition rates, microbial community composition, and nutrient cycling in soils and compost piles.
 
 ## Classification
 
@@ -71,9 +71,9 @@ In the composting system described by Lowenfels and Lewis:
 
 ## Relevance to Cultivation and Mycology
 
-- **Mushroom substrate chemistry:** Tannin content in mushroom substrates affects mycelial growth rates. Some mushroom species (e.g., oyster mushrooms) produce laccases and other enzymes that can degrade tannins, while others may be inhibited by high tannin concentrations.
+- **Mushroom substrate chemistry:** Tannin content in [[mushroom-substrates]] affects mycelial growth rates. Some mushroom species (e.g., oyster mushrooms) produce laccases and other enzymes that can degrade tannins, while others may be inhibited by high tannin concentrations.
 
-- **Outdoor mushroom bed preparation:** When preparing outdoor mushroom beds, tannin-rich materials like oak leaves and bark can be used as long-term, slow-release substrate components. However, very high tannin levels may initially inhibit mycelial growth.
+- **[[outdoor-mushroom-bed-preparation]]:** When preparing outdoor mushroom beds, tannin-rich materials like oak leaves and bark can be used as long-term, slow-release substrate components. However, very high tannin levels may initially inhibit mycelial growth.
 
 - **Fungal dominance in soil:** Tannin-rich mulches help establish fungal-dominated soil conditions beneficial for trees, shrubs, perennials, and mycorrhizal associations. This is the basis of the Rule #6 (brown materials support fungi).
 
@@ -89,5 +89,5 @@ In the composting system described by Lowenfels and Lewis:
 
 ## References
 
-- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web*. Chapter 15: Compost.
+- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to [[the-soil-food-web]]*. Chapter 15: Compost.
 - Tannin is listed as a component of brown materials alongside lignin, cellulose, and hemicellulose that supports fungal dominance in compost and mulch.

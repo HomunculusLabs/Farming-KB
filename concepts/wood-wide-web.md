@@ -12,7 +12,7 @@ type: concept
 
 [[teaming-with-microbes-fungi-the-underground-network]] of
 [[mycelial-networks]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 ## Background and Context
 
 Wood Wide Web is an important subject that has garnered significant attention

@@ -7,7 +7,7 @@ tags: [arthropod, compost, macrofauna, predator, soil-food-web, beetle]
 
 ## Description
 
-Rove beetles (family Staphylinidae) are small to medium-sized beetles commonly found in compost piles during the maturation stage. They are among the diverse macroarthropods that inhabit mature and maturing compost, where they serve as both physical decomposers and predators within the soil food web. Rove beetles are characterized by their short wing covers (elytra) that leave most of their abdomen exposed, giving them a distinctive elongated appearance. In compost piles, they contribute to the decomposition process by shredding organic matter and preying on other small organisms, helping to cycle nutrients and maintain balanced microbial and invertebrate populations.
+Rove beetles (family Staphylinidae) are small to medium-sized beetles commonly found in [[compost]] piles during the maturation stage. They are among the diverse macroarthropods that inhabit mature and maturing compost, where they serve as both physical decomposers and predators within [[the-soil-food-web]]. Rove beetles are characterized by their short wing covers (elytra) that leave most of their abdomen exposed, giving them a distinctive elongated appearance. In compost piles, they contribute to the [[decomposition]] process by shredding organic matter and preying on other small organisms, helping to cycle nutrients and maintain balanced microbial and invertebrate populations.
 
 ## Classification
 
@@ -54,11 +54,11 @@ In the composting food web described by Lowenfels and Lewis:
 
 - **Compost quality contributors:** Rove beetles contribute to the thorough decomposition of organic matter during compost maturation, producing higher-quality finished compost for garden and cultivation use.
 
-- **Biological pest control:** Some rove beetle species prey on fungus gnat larvae and other pests that can damage mushroom crops. Their presence in compost used for mushroom cultivation can provide ongoing pest suppression.
+- **Biological pest control:** Some rove beetle species prey on fungus gnat larvae and other pests that can damage mushroom crops. Their presence in compost used for [[mushroom-cultivation]] can provide ongoing pest suppression.
 
 - **Indicator species:** The presence of rove beetles in compost indicates a healthy, mature ecosystem with diverse trophic levels. Their absence may indicate compost that is too hot (thermophilic), too dry, or contaminated.
 
-- **Soil food web gardening:** In the soil food web approach, rove beetles are valued as part of the diverse macroarthropod community that maintains balanced soil ecology. They contribute to the higher trophic diversity that enables effective pathogen control.
+- **[[soil-food-web]] gardening:** In the soil food web approach, rove beetles are valued as part of the diverse macroarthropod community that maintains balanced soil ecology. They contribute to the higher trophic diversity that enables effective pathogen control.
 
 - **Cool compost indicator:** Rove beetles are more abundant in cool (slow) compost than in hot compost, as the lower temperatures allow macroarthropod populations to thrive throughout the composting process.
 

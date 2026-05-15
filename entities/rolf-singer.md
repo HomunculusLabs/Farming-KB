@@ -31,7 +31,7 @@ Rolf Singer (June 23, 1906 – January 18, 1994) was a German-born mycologist wi
 
 ## Early Life and Education
 
-Singer was born in Schneidemühl (now Piła, Poland), then part of the German Empire. He developed an interest in natural history early in life and studied at the University of Vienna in Austria. He earned his Ph.D. in 1930 with a dissertation on the morphology and taxonomy of the fungal genus *Mycena* and related agarics. His doctoral work was supervised within the tradition of Franz von Höhnel's mycological school, one of the centers of European fungal systematics.
+Singer was born in Schneidemühl (now Piła, Poland), then part of the German Empire. He developed an interest in natural history early in life and studied at the University of Vienna in Austria. He earned his Ph.D. in 1930 with a dissertation on the morphology and taxonomy of the fungal genus *[[mycena]]* and related agarics. His doctoral work was supervised within the tradition of Franz von Höhnel's mycological school, one of the centers of European fungal systematics.
 
 ## Escape from Nazi Germany
 

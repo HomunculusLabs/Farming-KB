@@ -74,7 +74,7 @@ Vermicompost (also called worm castings or vermicast) is the product of processi
 
 - **Nutrient supplement in mushroom cultivation:** While not a primary substrate, vermicompost can be used as a nutrient supplement in some mushroom growing systems where bacterial activity is desired (e.g., as a component of casing layers for Agaricus).
 
-- **Compost tea base:** Vermicompost can be used as the compost source for making actively aerated compost tea (AACT), producing a bacterially dominated tea for foliar spraying or soil drenching.
+- **Compost tea base:** Vermicompost can be used as the compost source for making [[actively-aerated-compost-tea]] (AACT), producing a bacterially dominated tea for foliar spraying or soil drenching.
 
 - **Seed starting mix component:** The fine texture, high nutrient content, and bacterial dominance of vermicompost make it an excellent component of seed starting mixes, providing gentle nutrition and disease suppression for seedlings.
 
@@ -82,12 +82,12 @@ Vermicompost (also called worm castings or vermicast) is the product of processi
 
 ## Soil Food Web Context
 
-In the soil food web gardening framework:
+In [[the-soil-food-web]] gardening framework:
 
 - Vermicompost excels at **inoculating soils with bacteria** and providing bacterial foods
-- It complements **fungal compost** (made with brown materials) for a complete soil food web approach
+- It complements **fungal compost** (made with brown materials) for a complete [[soil-food-web]] approach
 - Worm castings attract **protozoa and nematodes** (which eat bacteria), completing the nutrient cycling chain
-- The polysaccharide coating on castings contributes to **soil aggregate formation**, improving soil structure
+- The polysaccharide coating on castings contributes to **[[soil-aggregate-formation]]**, improving soil structure
 
 ## Practical Considerations
 

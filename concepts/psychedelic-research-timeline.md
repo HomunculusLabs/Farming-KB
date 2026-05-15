@@ -20,7 +20,7 @@ The history of psychedelic research spans nearly a century, from early serendipi
 
 ### 1938 — LSD Synthesis
 
-Albert Hofmann, a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes lysergic acid diethylamide (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
+[[albert-hofmann]], a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes [[lysergic-acid-diethylamide]] (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
 
 ### 1943 — LSD's Psychoactive Effects Discovered
 
@@ -32,7 +32,7 @@ Sandoz begins distributing LSD under the trade name Delysid to researchers and c
 
 ### 1949 — Mescaline Research Expands
 
-Early clinical research with mescaline (the active compound in peyote) continues, building on work by German pharmacologist Louis Lewin in the 1890s. Mescaline becomes a tool for studying consciousness and schizophrenia.
+Early clinical research with mescaline (the active compound in peyote) continues, building on work by German pharmacologist [[louis-lewin]] in the 1890s. Mescaline becomes a tool for studying consciousness and schizophrenia.
 
 ## 1950s-1960s: The Golden Age of Psychedelic Research
 
@@ -142,11 +142,3 @@ Oregon implements Measure 109 (psilocybin therapy) and Measure 110 (drug decrimi
 MAPS completes Phase 3 trials for MDMA-assisted therapy for PTSD. FDA advisory committee review and potential approval decision represents the culmination of nearly 40 years of advocacy.
 
 ### 2025-2026 — Expanding Indications
-
-## See Also
-
-- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
-- [[psychedelic-1960s-counterculture]]
-- [[psychedelic-consciousness-expansion]]
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
-- [[psychedelic-therapy-set-and-setting]]

@@ -35,7 +35,7 @@ The plant is a perennial herb growing 30–60 cm tall with deeply divided, silve
 
 | Parameter | Optimal Range |
 |---|---|
-| Soil pH | 6.5–7.5 (slightly alkaline preferred) |
+| [[soil-ph]] | 6.5–7.5 (slightly alkaline preferred) |
 | Soil type | Well-drained, sandy loam; rocky/limestone soils work well |
 | Annual rainfall | 400–600 mm (drier conditions concentrate pyrethrins) |
 | Temperature | 15–25°C [[cytochrome-p450-enzymes-structure-function-pharmacology]] monooxygenases) that metabolize pyrethrins.

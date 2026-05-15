@@ -40,7 +40,6 @@ type: entity
 - The high microbial content of guano (derived from cave ecosystems rich in decomposer organisms) can inoculate soils with beneficial microorganisms.
 - Bat guano represents a model of the Law of Return in natural cave ecosystems: bat colonies feed on insects, return nutrients to the cave floor, and support unique decomposer communities.
 
-
 ## Properties and Characteristics
 
 The bat guano exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.
@@ -85,5 +84,3 @@ The relationship between bat guano and broader systemic processes continues to b
 - [[aact-compost-feedstock-paper-wood-chips-worm-thermal-ingham]]
 - [[aact-compost-organism-levels]]
 - [[aact-compost-quality-standards-ingham]]
-
-

@@ -47,7 +47,7 @@ These varieties have been proven in Coleman's unheated greenhouse system in coas
 ### Salad Greens and Asian Greens
 | Crop | Varieties |
 |---|---|
-| Asian greens | [[tokyo-bekana]], Komatsuna, Tatsoi, Mizuna |
+| Asian greens | [[tokyo-bekana]], Komatsuna, [[tatsoi]], Mizuna |
 | Arugula | Astro, Sylvetta |
 | Endive | Bianca Riccia |
 | Lettuce | Red Saladbowl, Tango, Rex, Rouge d'hiver |

@@ -36,7 +36,7 @@ nutty flavor, firm [[agrocybe-aegerita-pioppino-medicinal-profile]] sensu auct. 
 - **Stipe:** 4–12 cm × 0.5–1.5 cm, cylindrical, white, tough and fibrous.
   Partial veil forming a prominent persistent annulus.
 - **Flesh:** White to cream, firm, thick. Odor mildly farinaceous.
-- **Spore print:** Dark brown to tobacco brown.
+- **[[spore-print]]:** Dark brown to tobacco brown.
 - **Spores:** 10–14 × 6–8 µm, ellipsoid to amygdaliform, smooth, with a
   distinct germ pore.
 

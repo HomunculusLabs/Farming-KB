@@ -12,7 +12,7 @@ type: comparison
 
 # Mind-Body Problem vs Information Paradigm of Consciousness
 
-The mind-body problem and the information paradigm of consciousness address the same basic territory from different directions.
+The mind-body problem and the [[information-paradigm-of-consciousness]] address the same basic territory from different directions.
 The mind-body problem is a question: how can subjective experience relate to physical matter?
 The information paradigm is a proposed answer: mind and matter may both be forms of organized information.
 [[weil-the-natural-mind-altered-states-normalcy]] as expanded information processing |

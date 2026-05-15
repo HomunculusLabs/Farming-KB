@@ -147,7 +147,3 @@ Organic gardeners maximize nutrient availability by:
 6. **Encouraging biological activity** through compost teas, biofertilizers, and minimal chemical inputs
 7. **Testing soil regularly** to monitor nutrient levels and pH over time
 8. **Watering appropriately** to maintain soil moisture without creating anaerobic conditions
-
-## Summary
-
-Nutrient availability is not simply about how much of a nutrient is present in the soil — it is about the complex interplay of chemical, physical, and biological factors that determine whether plants can actually access those nutrients. Organic gardening works to optimize all of these factors simultaneously, creating conditions where [[the-soil-food-web]] continuously cycles and delivers nutrients to plants in the right forms, at the right times, and in the right amounts.

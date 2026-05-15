@@ -41,7 +41,6 @@ type: entity
 - The protein content of corn gluten meal provides a carbon and nitrogen source that can support microbial activity in soil and compost systems.
 - This product illustrates the intersection of industrial agriculture by-products and organic growing — a tension between industrial processing and natural gardening practices.
 
-
 ## Properties and Characteristics
 
 The corn gluten meal exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

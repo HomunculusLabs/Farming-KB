@@ -34,7 +34,7 @@ In the United States, 200 proof ethyl alcohol can be acquired through liquor sto
 
 ### Step 1: Preparation and Soaking
 
-1. **Source material**: Use quality *[[anemotropism-in-psilocybe-cubensis]]* specimens harvested before or just as caps open, then cool-dried with desiccant until rock-hard.
+1. **Source material**: Use quality *[[psilocybe-cubensis-anemotropism]]* specimens harvested before or just as caps open, then cool-dried with desiccant until rock-hard.
 2. **Minimum quantity**: Use at least several grams of dried material to make the process worthwhile.
 3. **Pulverization**: Place dried mushrooms in a strong zip-lock freezer bag, cover with a magazine for protection, and pound with the rubber heel of a large shoe until fully powdered.
 4. **Soaking**: Transfer the powder to a bottle with a tight-fitting, leak-proof cap. Add enough alcohol to cover the material and create a loose slurry.

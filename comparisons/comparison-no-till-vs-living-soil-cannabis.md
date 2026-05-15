@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# No-Till vs [[soil-foodweb]], minimizing disturbance, and leveraging microbial ecology — but differ in philosophy and practice.
+# No-Till vs [[soil-food-web]], minimizing disturbance, and leveraging microbial ecology — but differ in philosophy and practice.
 
 No-till is primarily a *method*: leave the soil undisturbed between grows, preserving established microbial networks and soil structure. Living soil is primarily a *system*: build and maintain a biologically active soil ecosystem that cycles nutrients to plants through microbial activity. In practice, the two overlap heavily and are often combined into a single integrated approach.
 

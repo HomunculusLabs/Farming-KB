@@ -64,7 +64,6 @@ Siderophores are small, high-affinity iron-chelating compounds produced by certa
 - Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]*. Timber Press.
 - Neilands, J.B. "Siderophores: Structure and Function of Microbial Iron Transport Compounds." *Journal of Biological Chemistry*, 1995.
 
-
 ## Properties and Characteristics
 
 The siderophores exhibits distinct physical and chemical properties relevant to its use. These characteristics determine appropriate [[ingham-compost-tea-application-rates-and-timing]] methods.

@@ -37,7 +37,7 @@ like grass. The tropical conditions needed for sugarcane cultivation
 ensured that sugar would be a rare and imported commodity in Europe.
 Only in the [[medicinal-herbs-for-livestock]], entrails, and other materials typical of the medieval
 pharmacopoeia. In the age before antibiotics, sugar was commonly used to
-pack wounds before binding them, as the desiccant action of the sugar
+pack wounds before binding them, as the [[desiccant]] action of the sugar
 may have aided healing.
 
 The juice of the sugar cane was purified and made into sugar in India

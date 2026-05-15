@@ -21,7 +21,7 @@ into the soil, where it feeds the [[cannabis-seed-germination-methods]]. When us
 [[mycorrhizal-root-exudates-pathogen-interactions]] feed a diverse community of soil
 microorganisms, including bacteria, fungi, protozoa, and [[cover-crop-selection-guide]]
 that accounts for your hardiness zone, soil type, primary goals, and the cash
-crops that will follow. The [[soil-foodweb]] through living root exudates and
+crops that will follow. The [[soil-food-web]] through living root exudates and
   decomposing biomass, supporting the bacterial, fungal, and protozoan
   communities that drive [[query-how-does-propolis-benefit-honey-bees-and-can-beekeepers-harvest-it]] Questions
 - [[query-what-are-the-benefits-of-no-till-gardening]]

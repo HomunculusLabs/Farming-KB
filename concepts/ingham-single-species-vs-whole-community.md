@@ -30,7 +30,7 @@ environmental isolate that will grow in the conditions in your soil,
 and know the temperature, moisture, and humidity are right for it
 to grow. This approach can be extremely specific. You should also
 know if you already have the beneficial organism in your soil,
-compost, or [[soil-foodweb]]. A single
+compost, or [[soil-food-web]]. A single
 bacterial species may perform one function well, such as nitrogen
 fixation or phosphate solubilization, but it cannot provide the
 full range of [[aact-disease-suppression-mechanisms-ingham]], and soil

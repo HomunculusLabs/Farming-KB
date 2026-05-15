@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 The entourage effect is the theory that cannabis compounds, including cannabinoids,
-terpenes, and flavonoids, work together synergistically to produce therapeutic
+[[terpenes]], and flavonoids, work together synergistically to produce therapeutic
 effects greater than the sum of their individual parts. Rather than isolating single
 compounds like THC or CBD, the entourage effect suggests that the full spectrum of
 cannabis compounds creates a more effective and nuanced therapeutic experience.

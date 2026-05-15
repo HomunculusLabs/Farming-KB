@@ -9,12 +9,12 @@ tags: [water-quality, chlorine, compost-tea, water-treatment, microbes]
 
 ## Description
 
-Chloramine is a chemical disinfectant used by many municipal water treatment systems as an alternative to free chlorine. It is formed by combining chlorine with ammonia, producing a more stable and longer-lasting disinfectant residual in distribution pipes. While effective for ensuring drinking water safety, chloramine is lethal to the beneficial microorganisms used in compost tea brewing and soil food web management. Unlike free chlorine, chloramine does not dissipate quickly through simple aeration and requires specific treatment methods to remove from brewing water.
+Chloramine is a chemical disinfectant used by many municipal water treatment systems as an alternative to free chlorine. It is formed by combining chlorine with ammonia, producing a more stable and longer-lasting disinfectant residual in distribution pipes. While effective for ensuring drinking water safety, chloramine is lethal to the beneficial microorganisms used in [[compost-tea-brewing]] and [[soil-food-web]] management. Unlike free chlorine, chloramine does not dissipate quickly through simple aeration and requires specific treatment methods to remove from brewing water.
 
 ## Classification
 
 - **Chemical formula:** NH₂Cl (monochloramine, the most common form used in water treatment)
-- **Category:** Water disinfectant / chemical contaminant (in compost tea context)
+- **Category:** Water disinfectant / chemical contaminant (in [[compost]] tea context)
 - **Related compounds:** Free chlorine (Cl₂), chlorine dioxide (ClO₂), dichloramine (NHCl₂)
 
 ## Key Facts
@@ -32,7 +32,7 @@ Chloramine is a chemical disinfectant used by many municipal water treatment sys
 
 The presence of chloramine in brewing water is a critical failure point for AACT production:
 
-- **Rule #12** in the soil food web gardening framework: compost teas are very sensitive to chlorine and preservatives in the brewing water and ingredients
+- **Rule #12** in [[the-soil-food-web]] gardening framework: compost teas are very sensitive to chlorine and preservatives in the brewing water and ingredients
 - Chloramine kills both the compost-derived organisms being extracted and any microbial foods being added
 - A brew made with chloraminated water will have dramatically reduced microbial populations
 - The impact is insidious because the water looks and smells normal — there is no obvious sign that the tea has been compromised
@@ -64,3 +64,18 @@ Different methods for producing chlorine-free water, ranked by effectiveness aga
 - Never use hot tap water (which may have higher chlorine/chloramine from the water heater)
 - The same concern about preservatives extends to all tea ingredients: molasses (must be nonsulfured), fruit juices, kelp, and any other additive must be preservative-free
 - When watering lawns with a sprinkler, the fine mist spray and air exposure help dissipate most chlorine, but chloramine may persist — consider a hose-end chlorine filter
+## Management Approaches
+Effective [[water-management]] in growing systems balances drainage, retention,
+and distribution according to plant needs and soil characteristics. Key
+strategies include swales, keyline design, mulching, and soil organic
+matter building to improve water-holding capacity. Biological soil health
+directly influences infiltration rates and moisture retention through
+aggregation and humus formation in well-structured soil profiles.
+
+## System Design
+Water system design considers collection, storage, distribution, and
+drainage as integrated components. Rainwater harvesting, greywater reuse,
+and pond systems each serve multiple functions in productive landscapes.
+Soil moisture monitoring informs irrigation timing to optimize plant
+growth while minimizing waste. Drainage design prevents waterlogging
+that damages root systems and promotes anaerobic pathogen development.

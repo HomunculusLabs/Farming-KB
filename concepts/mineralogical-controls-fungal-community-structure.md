@@ -47,7 +47,7 @@ The mineral-specific distribution of fungal ribotypes implies:
 1. **Elemental selection**: Individual chemical elements (Si, Al, Ca, K, Na) create distinct microenvironments that favour different fungal taxa.
 2. **Mineral surface chemistry**: Differences in surface reactivity, [[cation-exchange-capacity]], and solubility between minerals create niche differentiation.
 3. **Weathering product effects**: Secondary minerals and dissolved ions released during weathering may further shape community structure.
-4. **Nutrient availability**: Different minerals release different nutrients at different rates, creating resource heterogeneity at the microscale.
+4. **[[nutrient-availability]]**: Different minerals release different nutrients at different rates, creating resource heterogeneity at the microscale.
 
 ## Fingerprinting Techniques for Mineral-Community Studies
 

@@ -38,7 +38,7 @@ Vermicompost (also called worm castings or vermicast) is the product of organic 
 - Not the preferred compost type for trees, shrubs, and perennials that benefit from fungal dominance.
 
 ### System Setup
-- Can use **commercially available earthworms** (e.g., *Eisenia fetida* — red wigglers) specifically bred for vermicomposting.
+- Can use **commercially available earthworms** (e.g., *[[eisenia-fetida]]* — red wigglers) specifically bred for vermicomposting.
 - Bins range from simple wooden or plastic boxes to multi-tier stacking systems.
 - Moisture management is critical — bins should be moist but not waterlogged.
 - Aeration is important to maintain aerobic conditions and prevent odors.
@@ -49,12 +49,12 @@ Vermicompost (also called worm castings or vermicast) is the product of organic 
 2. **Nutrient density**: Castings contain concentrated, plant-available nutrients including nitrogen, phosphorus, potassium, calcium, and micronutrients in biologically available forms.
 3. **Plant growth stimulation**: Contains plant growth hormones (auxins, cytokinins, gibberellins) produced during worm digestion that directly stimulate root development and plant vigor.
 4. **Disease suppression**: Beneficial bacterial populations in vermicompost can outcompete soil-borne pathogens through competitive exclusion and production of antifungal compounds.
-5. **Mycology applications**: While bacterially dominated (less ideal for fungal crops), vermicompost extracts can be used as bacterial supplements in substrate preparation or as foliar sprays.
+5. **Mycology applications**: While bacterially dominated (less ideal for fungal crops), vermicompost extracts can be used as bacterial supplements in [[substrate-preparation]] or as foliar sprays.
 6. **Small-scale production**: Feasible for indoor or small-space production, making it accessible for home gardeners and small-scale cultivators.
 
 ### Comparison with Thermal Compost
 
-| Feature | Vermicompost | Thermal Compost |
+| Feature | Vermicompost | [[thermal-compost]] |
 |---------|-------------|-----------------|
 | Temperature | Ambient (no heat) | 40–65°C thermophilic |
 | Time | 2–6 months | 2 weeks – 1 year |
@@ -72,7 +72,9 @@ Vermicompost (also called worm castings or vermicast) is the product of organic 
 
 ## See Also
 
-- [[Actively Aerated Compost Tea]]
-- [[C:N Ratio]]
-- [[Bacillus spp.]]
-- [[Mesophilic Organisms]]
+- [[actively-aerated-compost-tea]]
+- [[solomon-carbon-nitrogen-ratios]]
+- [[bacillus-spp]]
+- [[mesophilic-organisms]]
+
+This topic connects to related areas including [[vermicompost-production-systems-quality-standards]], [[aact-vermicompost-vs-thermal-compost-ingham]], [[vermicompost-and-soil-inoculation]].

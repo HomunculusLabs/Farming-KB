@@ -1,81 +1,83 @@
 ---
 title: Aeruginascin
-created: 2026-04-28
-type: chemical
-tags: [tryptamine-alkaloid, psilocybin-pathway, indole-derivative, mushroom-alkaloid, bioactive-compound]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-metabolic-pathway-of-psilocybin-production.md]
+source: magic-mushrooms-around-the-world-by-jochen-gartz.md
+type: entity
 ---
 
-# Aeruginascin
+## Overview
 
-Aeruginascin is a naturally occurring [[psilocybe-cyanescens]]*
-- *Psilocybe bohemica* (occasionally reported)
+Aeruginascin is a previously unknown alkaloid discovered by [[jochen-gartz]] in *[[inocybe-aeruginascens]]* mushrooms. It was identified during chemical analyses of mushroom extracts using thin-layer chromatography, where it appeared as a compound with a molecular structure similar to [[psilocybin]] and [[baeocystin]]. Aeruginascin is considered potentially significant for understanding the unique psychoactive effects of *Inocybe aeruginascens*, particularly the consistently euphoric nature of involuntary intoxications.
 
-Its distribution is not universal among psilocybin-containing fungi, suggesting it represents a side branch of the biosynthetic pathway rather than a core intermediate.
+## Classification
 
-## Biosynthetic Relationship
+- **Type**: Alkaloid / tryptamine derivative
+- **Source organism**: *Inocybe aeruginascens*
+- **Structural family**: Related to psilocybin and baeocystin
+- **Named by**: Jochen Gartz
 
-Aeruginascin is produced via the same pathway as psilocybin, likely diverging through an additional **N-methylation step** on psilocybin or a late-stage intermediate. The enzyme responsible for this extra methylation (a trimethyltransferase) appears to be present only in certain species. The compound may represent a **detoxification pathway** — converting bioactive amines into permanently charged, membrane-impermeant forms that cannot interact with serotonin receptors in the same way.
+## Discovery
 
-## Pharmacology
+Aeruginascin was discovered during Gartz's investigation of *Inocybe aeruginascens* extracts in the 1980s. His analyses of more than 100 mushrooms collected in Hungary and Germany from 1967 to 1990 revealed not only the expected psilocybin and baeocystin, but also a previously unknown compound. The presence of this compound was confirmed using thin-layer chromatography, where it appeared as a distinct spot that did not match any known reference standards.
 
-Unlike psilocybin, aeruginascin shows minimal classical psychedelic activity. The quaternary ammonium group prevents efficient passage across the blood-brain barrier. However, anecdotal reports from mushroom hunters consuming *[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. Gartz hypothesized that aeruginascin might act as a **modulator** of psilocybin's effects when co-ingested, potentially reducing negative psychological reactions.
+## Chemical Properties
+
+- **Solubility**: Soluble only in polar solvents including water, methanol, and acetic acid
+- **Molecular structure**: Similar to psilocybin and baeocystin (tryptamine backbone with modifications)
+- **Concentration levels**: Comparable to those of psilocybin and baeocystin in *Inocybe aeruginascens*
+- **Stability**: Properties not fully characterized at time of discovery
 
 ## Significance
 
-Aeruginascin is of interest to mycochemists for several reasons:
+### The Euphoria Question
 
-1. **Biosynthetic marker** — Its presence helps delineate phylogenetic relationships among psilocybin-containing genera
-2. **Pharmacological modifier** — Potential role in modulating the subjective effects of psilocybin-containing mushrooms
-3. **Taxonomic utility** — Useful as a chemotaxonomic character for distinguishing species within section *Cyanescens*
+The discovery of aeruginascin is particularly significant because of a puzzling pharmacological observation: all documented cases of involuntary intoxication with *Inocybe aeruginascens* produced feelings of euphoria, even when the psychological "set" (knowledge of being poisoned by unknown mushrooms) and "setting" (everyday activities including appointments) should have produced extremely negative experiences. This consistency of positive effects stands in stark contrast to the unpredictable and often terrifying experiences produced by other psilocybin-containing mushrooms when ingested under similar circumstances.
 
-Research into aeruginascin remains limited, and its precise biological role in the producing fungi is not fully understood. It may serve a defensive function, acting as a feeding deterrent against invertebrate predators.
+Gartz hypothesized that aeruginascin might function as a mood-altering substance that modulates the psychoactive effects of the mushroom as a whole, potentially explaining why *Inocybe aeruginascens* consistently produces euphoric experiences even under adverse conditions.
 
-## Practical Context
+### Pharmacological Implications
 
-Aeruginascin is best understood through its role in resilient farming,
-land stewardship, and low-input production systems. The practical value
-comes from matching the technique or organism to site conditions rather
-than treating it as an isolated recipe.
+The potential mood-altering influence of aeruginascin raises several important questions:
 
-## Field Assessment
+- Does aeruginascin itself possess psychoactive properties?
+- Does it modify the effects of psilocybin and baeocystin?
+- Could it serve as a template for novel mood-enhancing pharmaceuticals?
+- Does it explain the qualitative differences between *Inocybe* intoxications and those caused by *Psilocybe* species?
 
-Useful assessment starts with climate, substrate or soil conditions,
-water availability, and the existing biological community. Observations
-should be repeated across seasons because moisture, temperature, and
-management history often determine whether an approach succeeds.
+### Chemo-Taxonomic Significance
 
-## Management Considerations
+Aeruginascin appears to be characteristic of the *Inocybe aeruginascens* species. Thin-layer chromatography patterns showing aeruginascin alongside psilocybin and baeocystin constitute a kind of "fingerprint identification" for *Inocybe aeruginascens*, potentially useful for confirming species identity.
 
-Small trials are safer than whole-system changes. Record inputs,
-timing, yields, failures, and labor requirements so the method can be
-adapted to local constraints. Avoid interventions that create dependence
-on scarce inputs when a simpler ecological substitute is available.
+## Relationship to Other Alkaloids
 
-## Related Topics
+*Inocybe aeruginascens* contains three major alkaloids:
 
-- [[mushroom-cultivation]]
+| Alkaloid | Relative Amount | Notes |
+|---|---|---|
+| Psilocybin | Comparable to *[[psilocybe-mexicana]]* | Primary psychoactive compound |
+| Baeocystin | Comparable to psilocybin | Unusually high ratio vs. psilocybin |
+| Aeruginascin | Comparable to psilocybin and baeocystin | Unique to this species |
 
-## See Also
+The alkaloid profile of *Inocybe aeruginascens* differs significantly from *Psilocybe* species, which typically contain three to five times more psilocybin than baeocystin. The roughly equal proportions of psilocybin and baeocystin, combined with the presence of aeruginascin, may account for the qualitatively different psychoactive effects.
 
-- [[psilocybe-azurescens]]
-## Practical Considerations
+## Research Status
 
-Successful implementation of Aeruginascin requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
+At the time of Gartz's publication, the molecular structure of aeruginascin had not yet been fully characterized. Gartz recommended that future research should:
 
-## Future Directions
+1. Determine the molecular structure of aeruginascin
+2. Achieve synthesis of the compound
+3. Investigate the potentially mood-altering influence of aeruginascin on the mushroom's psychoactive effects
+4. Explore whether the mushroom's matrix causes slow release of alkaloids followed by gradual resorption
 
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+## Possible Mechanisms
+
+Gartz suggested several possible explanations for the unique effects of *Inocybe aeruginascens*:
+
+- **Aeruginascin as a direct modulator**: The compound may directly alter mood or emotional state
+- **Slow-release mechanism**: The mushroom matrix may cause gradual release of all alkaloids, producing a smoother, more sustained experience than pure psilocybin
+- **Synergistic effects**: The unique combination of psilocybin, baeocystin, and aeruginascin may produce effects qualitatively different from psilocybin alone
+
+## Sources
+
+- Gartz, J., *Magic Mushrooms Around the World* (1997)
+- Gartz, J., research reports from 1984–1990 on *Inocybe aeruginascens* analyses
+- Drewitz, G., reports of *Inocybe aeruginascens* intoxications in Potsdam area (1980)

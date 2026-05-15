@@ -63,7 +63,7 @@ Some bacteria also produce cellulose, leading to the hypothesis that cellulose-p
 - **Fungal decomposition:** Cellulose is the primary food source for cellulolytic fungi, which produce cellulase enzymes to break it down. This decomposition is fundamental to composting, soil formation, and the carbon cycle.
 - **Mushroom substrates:** Many cultivated mushrooms (oyster, shiitake, lion's mane) grow on cellulose-rich substrates including straw, hardwood sawdust, and paper. Understanding cellulose structure helps optimize substrate preparation.
 - **Compost quality:** The ratio of cellulose to lignin in organic matter determines decomposition rate and compost quality. Young, green materials have higher cellulose; woody materials have more lignin.
-- **Soil structure:** Decomposed cellulose contributes to soil organic matter, improving water retention, aeration, and cation exchange capacity.
+- **Soil structure:** Decomposed cellulose contributes to soil organic matter, improving water retention, aeration, and [[cation-exchange-capacity]].
 - **Growing containers:** Cellulose-based products (peat pots, cardboard, paper) are commonly used in cultivation. Their biodegradability is both an advantage and a consideration for longevity.
 
 ## Historical Context

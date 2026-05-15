@@ -41,7 +41,7 @@ The fungal nature of lichens is most evident during reproduction, when
 cup-shaped apothecia develop on the surface and blast ascospores into
 the air. Lichens also reproduce vegetatively through fragmentation or
 through specialized dispersal structures called soredia and isidia,
-which contain both fungal hyphae and algal cells, allowing the
+which contain both [[fungal-hyphae]] and algal cells, allowing the
 complete symbiotic partnership to be dispersed together.
 
 ## See Also

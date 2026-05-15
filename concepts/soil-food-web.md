@@ -1,108 +1,141 @@
 ---
 title: Soil Food Web
-source: lowenfels-teaming-with-microbes.md
-type: concept
+aliases: [soil foodweb, soil biology, soil microbiome]
+tags: [soil, biology, compost, microbiology, farming]
+source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+created: 2026-05-10
 ---
 
 # Soil Food Web
 
-[[the-soil-food-web]] is a complex network of interconnected food chains that link all organisms living in and on the soil. Rather than a simple linear chain, it is a web of relationships where energy and nutrients flow between bacteria, fungi, protozoa, nematodes, arthropods, earthworms, and higher predators. Understanding this web is fundamental to healthy, productive soil — and by extension, healthy plants.
+The soil food web is the complex community of organisms living in soil — bacteria, fungi, protozoa,
+nematodes, microarthropods, and larger organisms — that interact with each other and with plants in a
+mutually beneficial ecosystem. The concept was popularized and extensively researched by Dr. Elaine R.
+Ingham, founder of Soil Foodweb Inc. and one of the world's foremost soil microbiologists.
 
-## What Is the Soil Food Web?
+## Overview
 
-Every spoonful of healthy garden soil teems with life. The soil food web describes how all these organisms interact: who eats whom, how nutrients move through the system, and how energy from the sun (captured by plants) fuels the entire underground ecosystem.
+Healthy soil is not merely a growing medium; it is a living ecosystem. The soil food web describes the
+interconnected feeding relationships among soil organisms and how those relationships affect plant
+health, nutrient cycling, and [[mycorrhizal-agricultural-practices]] — tillage, [[chamovitz-plant-scent-communication-volatile-organic-compounds]] — sugars,
+proteins, and carbohydrates. Bacterial-dominated soils are characteristic of early successional
+ecosystems and are preferred by annual crops, brassicas, and leafy vegetables. Beneficial bacteria
+compete with pathogens for food resources and root exudate space, produce antibiotics that suppress
+disease organisms, and retain nutrients in their biomass that would otherwise leach.
 
-A teaspoon of good garden soil contains:
+### Fungi
 
-- **~1 billion bacteria**
-- **Several yards of [[fungal-hyphae]]**
-- **Thousands of protozoa**
-- **Dozens of nematodes**
-- Plus various arthropods, microarthropods, and other organisms in smaller numbers
+Fungi are the dominant decomposers in mature ecosystems — forests, prairies, and perennial plant
+communities. They break down complex organic materials including lignin, cellulose, and woody debris.
+Fungal hyphae create extensive networks that transport nutrients over distances, effectively increasing
+the root zone of plants. Fungal-dominated soils are preferred by perennials, trees, and woody plants.
+The ratio of fungi to bacteria is a key indicator of soil health and suitability for different plant
+types.
 
-These organisms are not random inhabitants — they form a structured, interdependent community that drives nutrient cycling, disease suppression, and [[soil-structure-formation]].
+### Protozoa
 
-## Carbon: The Common Denominator
+Protozoa — flagellates, amoebae, and ciliates — are single-celled predators that consume bacteria.
+This predation is critical for nutrient cycling: when protozoa eat bacteria, they release excess
+nitrogen and other nutrients in plant-available forms (ammonium). A single protozoan can consume
+thousands of bacteria per day. Their grazing activity stimulates bacterial growth and turnover,
+maintaining an active and dynamic [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] colonization. They also help distribute
+fungal spores and [[teaming-with-microbes-protozoa-and-nematodes]] consume these microbes, they excrete excess nutrients in
+plant-available forms. This natural nutrient cycling means that plants in biologically active soil
+have continuous access to nutrients without [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]]. As they feed, they mineralize nutrients
+that plants immediately absorb. This is the "microbial loop" — a closed-cycle system where nothing
+is wasted.
 
-Carbon is the universal currency of [[soil-life]]. Every organism in the soil food web depends on carbon as an energy source. Plants capture atmospheric carbon dioxide through photosynthesis and convert it into sugars and other carbon compounds. A significant portion of these compounds — often 20–40% or more of a plant's total photosynthetic output — is exuded through the roots into the soil. This below-ground carbon allocation is the engine that powers the entire soil food web.
+## Disease Suppression
 
-Soil organisms use this carbon to build their bodies, reproduce, and carry out metabolic functions. As they feed on each other, carbon moves through the web, with some being respired back to the atmosphere as CO₂ and the rest being incorporated into soil organic matter, where it contributes to long-term soil fertility and structure.
+One of the most important functions of the soil food web is natural disease suppression. This
+occurs through several mechanisms:
 
-## Plants Are in Control
+1. **Competition**: Beneficial organisms occupy the same ecological niches as pathogens. When the
+   food web is diverse and abundant, pathogens cannot find space, food, or root surfaces to colonize.
 
-A central insight from Lowenfels and Lewis is that **plants are the architects of the soil food web**, not passive beneficiaries. Through their [[root-exudates]] — a mix of carbohydrates, proteins, amino acids, organic acids, and other compounds — plants actively recruit and manage the microbial communities around their roots.
+2. **Antibiotic production**: Certain bacteria and fungi produce natural antibiotics that inhibit
 
-Key points about plant control:
+## Overview
 
-- Plants **choose which bacteria and fungi** to attract by varying the composition of their exudates
-- Different plant species produce different exudate profiles, fostering distinct microbial communities
-- Plants can **increase or decrease** the populations of specific organisms by altering exudate output
-- This selective recruitment allows plants to assemble a beneficial microbial team tailored to their needs
+Soil Foodweb represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-This is a radical departure from the conventional view of plants as passive recipients of soil nutrients. In reality, plants are active managers of their underground environment.
+## Key Characteristics
 
-## The Rhizosphere
+Several defining characteristics distinguish soil foodweb
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-The rhizosphere is the narrow zone of soil immediately surrounding plant roots — typically extending only **1–2 millimeters** from the root surface. Despite its tiny dimensions, the rhizosphere is one of the most biologically active and densely populated environments on Earth.
+## Ecological Context
 
-### What Happens in the Rhizosphere
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-- Root exudates create a nutrient-rich hotspot that attracts bacteria, fungi, protozoa, and other organisms
-- Microorganisms **compete fiercely** for access to exudates and the carbon they contain
-- [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] and fungi colonize the root surface, forming a protective biofilm
-- Predators ([[teaming-with-microbes-protozoa-and-nematodes]]) graze on the concentrated microbial populations
-- Nutrient cycling occurs at an accelerated rate due to the high biological activity
+## Practical Applications
 
-The rhizosphere is where the soil food web's most critical function — nutrient delivery to plants — takes place.
+Soil Foodweb finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## The Food Web Hierarchy
+## Management and Implementation
 
-The soil food web can be understood as a layered hierarchy:
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-### Primary Decomposers (Fertilizer Bags)
+## Regional Considerations
 
-- **Bacteria** — The most numerous organisms in soil. They specialize in breaking down simple [[plant-volatile-organic-compounds-and-chemical-ecology]] are particularly important in the rhizosphere, where they consume root exudates and hold nutrients in their bodies.
-- **Fungi** — Threadlike organisms (hyphae) that decompose more complex organic matter, including lignin and cellulose. Mycorrhizal fungi form symbiotic associations with plant roots, extending the plant's nutrient-absorbing network far beyond the root zone.
+Different geographic regions present unique challenges and
+opportunities for soil foodweb. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
 
-Lowenfels and Lewis aptly describe bacteria and fungi as **"fertilizer bags"** because they concentrate nutrients from organic matter and root exudates into their biomass, storing them in a form that is stable in the soil.
+## Sustainability
 
-### Grazers and Predators (Fertilizer Spreaders)
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
 
-- **Protozoa** — Single-celled organisms that feed on bacteria. As they consume bacteria in the rhizosphere, they excrete waste products that are rich in plant-available nitrogen (ammonium) and other nutrients.
-- **Nematodes** — Microscopic roundworms that feed on bacteria, fungi, and other soil organisms. Like protozoa, they release plant-available nutrients as waste — particularly when they graze on nutrient-rich bacteria and fungi near the root zone.
+## Research and Development
 
-Protozoa and nematodes are the **"fertilizer spreaders"** of the soil food web. They consume the nutrient-packed bacteria and fungi and excrete plant-available nutrients directly in the rhizosphere, right where the plant needs them.
+Ongoing research continues to expand understanding of
+soil foodweb and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
-## Nutrient Cycling in Action
+## Historical Context
 
-The nutrient cycling mechanism of the soil food web works as follows:
+Soil Foodweb has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-1. **Plants exude carbon compounds** into the rhizosphere
-2. **Bacteria and fungi** are attracted and multiply, consuming the exudates and absorbing soil nutrients (especially nitrogen) into their bodies
-3. **Protozoa and nematodes** feed on the bacteria and fungi
-4. **Predators excrete excess nutrients** (particularly ammonium, NH₄⁺) as metabolic waste in the rhizosphere
-5. **Plant roots absorb** the freshly released, plant-available nutrients
+## Integration Strategies
 
-This process is remarkably efficient. It means that plants, through their exudates, are essentially **farming their own fertilizer**. They invest carbon to grow a microbial workforce, and that workforce harvests nutrients from the surrounding soil and delivers them back to the root zone in a plant-available form.
+Successful integration of soil foodweb into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## Seasonal Dynamics
+## Challenges and Solutions
 
-The populations of organisms in the rhizosphere are not static — they wax and wane with the seasons:
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
-- **Spring** — As soils warm and plants begin active growth, root exudation increases, triggering a bloom of bacterial and fungal populations. Protozoa and nematode populations follow as food becomes abundant.
-- **Summer** — Peak biological activity coincides with peak plant growth. Exudation rates are highest, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] is most active.
-- **Autumn** — As plant growth slows and eventually stops, exudate production declines. Microbial populations begin to decrease, and nutrients released by their die-off become available for uptake before dormancy.
-- **Winter** — In cold climates, biological activity slows dramatically. Many organisms enter dormancy or form resistant structures (cysts, spores), waiting for spring warmth and fresh exudates.
+## See Also
 
-Understanding these seasonal cycles helps farmers and gardeners time their management practices to support — rather than disrupt — the natural rhythms of the soil food web.
-
-## Key Takeaways
-
-- The soil food web is a **complex, interconnected system** of organisms that cycle nutrients and drive soil health
-- A teaspoon of good soil contains **billions of bacteria, yards of fungi, thousands of protozoa, and dozens of nematodes**
-- **Carbon is the engine** — plants invest a huge portion of their photosynthetic output into root exudates that feed the web
-- **Plants are in control** — they recruit and manage their microbial workforce through exudate composition
-- The **rhizosphere** (1–2mm from roots) is the critical zone where [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] delivery occur
-- Bacteria and fungi are **fertilizer bags** (concentrating nutrients); protozoa and nematodes are **fertilizer spreaders** (releasing plant-available nutrients)
-- Populations **cycle seasonally**, synchronized with plant growth and environmental conditions
-- Healthy soil food webs reduce the need for [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] by making naturally cycling nutrients available to plants on demand
+- [[cool-temperate-soil-characteristics]]
+- [[jeavons-soil-ph-testing-balancing]]
+- [[lowenfels-tilling-no-till-soil-health]]
+- [[query-what-are-the-best-indicator-plants-for-soil-health]]
+- [[query-what-is-the-best-soil-mix-for-growing-cannabis]]

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Actively Aerated Compost Tea (AACT) is the third essential tool in the soil food
+[[actively-aerated-compost-tea]] (AACT) is the third essential tool in the soil food
 web gardener's toolkit, alongside compost and mulch. Its primary purpose is to
 put microbiology back into soils and onto plant surfaces, restoring the living
 ecosystems that healthy plants depend on. While compost and mulch are invaluable,
@@ -39,11 +39,11 @@ can be applied wherever the gardener needs them — soil, roots, or leaves.
 
 A common source of confusion is the variety of liquid products derived from
 compost or organic materials. Not all of them are created equal, and understanding
-the differences is critical for soil food web gardening.
+the differences is critical for [[soil-food-web]] gardening.
 
 ### Compost Leachate
 
-Compost leachate is the liquid that naturally oozes or drains out of compost
+[[compost-leachate]] is the liquid that naturally oozes or drains out of compost
 piles, often collected from the bottom of bins or windrows. While it contains
 some dissolved nutrients and organic compounds, it does **not** impart meaningful
 microbial life. Leachate is not aerated and should not be confused with compost
@@ -148,47 +148,3 @@ components. A basic 5-gallon DIY setup requires:
   containing the solid compost material
 
 ### Alternative Aeration Methods
-
-A **soaker hose** can be used as an alternative to a traditional air stone. The
-permeable hose material allows air to escape along its entire length, providing
-distributed aeration throughout the bucket rather than concentrated at a single
-point. This can improve oxygen distribution and microbial extraction.
-
-## Critical Brewing Factors
-
-### Temperature
-
-Temperature plays a significant role in the success of a compost tea brew. Room
-temperature (approximately 65–75°F / 18–24°C) is ideal. Extreme temperatures
-can slow microbial growth or kill sensitive organisms entirely. Avoid brewing
-outdoors in direct sun or freezing conditions.
-
-### Light Exposure
-
-**Ultraviolet (UV) light kills microbes.** Compost tea should always be brewed
-and stored in opaque containers, never in clear glass or plastic that allows
-light penetration. Finished tea should be applied within hours of brewing and
-never left sitting in sunlight.
-
-### Cleaning and Maintenance
-
-Bioslime (a biofilm of residual microorganisms) builds up quickly on brewer
-surfaces, tubing, and air stones after each batch. This must be cleaned
-immediately to prevent contamination of future brews and to maintain system
-performance. Two effective cleaning agents are:
-
-- **Hydrogen peroxide** — kills residual organisms and breaks down biofilm
-- **Baking soda** — a gentler abrasive option for scrubbing surfaces
-
-Regular cleaning is non-negotiable for consistent, high-quality compost tea
-production. Neglecting maintenance will compromise every subsequent batch.
-
-## Summary
-
-Actively Aerated Compost Tea is a powerful, science-based tool for restoring and
-amplifying soil microbiology. It overcomes the delivery and coverage limitations
-of compost and mulch, enables foliar application of beneficial organisms, and
-produces dramatically higher microbial concentrations than any passive method.
-With proper equipment, quality ingredients, and attention to aeration,
-temperature, and cleanliness, AACT can transform soil health and plant vigor in
-any garden or agricultural setting.

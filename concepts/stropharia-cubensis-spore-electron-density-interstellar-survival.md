@@ -9,7 +9,7 @@ source: raw/papers/mckenna_t-tryptamines_consciousness.md
 
 ## Overview
 
-In his 1983 Esalen lecture, [[anemotropism-in-psilocybe-cubensis]]) may be an
+In his 1983 Esalen lecture, [[psilocybe-cubensis-anemotropism]]) may be an
 extraterrestrial organism whose spores are physically adapted for
 interstellar travel. Central to this argument are the remarkable
 material properties of the spore casing: deep purple coloration
@@ -101,7 +101,7 @@ percolation, rather than deep terrestrial evolution.
 ## The Symbiosis Hypothesis
 
 Beyond the interstellar travel hypothesis, McKenna describes
-Stropharia cubensis as actively seeking deeper symbiosis with
+[[stropharia-cubensis]] as actively seeking deeper symbiosis with
 humanity:
 
 "The Stropharia cubensis mushroom, if one can believe what it

@@ -40,7 +40,6 @@ type: entity
 - Cottonseed meal can be used in compost for acid-loving plants or mixed into potting substrates for ericaceous (heath family) species.
 - The pesticide residue issue highlights the importance of sourcing organic-certified inputs when growing food crops or cultivating mushrooms for consumption.
 
-
 ## Properties and Characteristics
 
 The cottonseed meal exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

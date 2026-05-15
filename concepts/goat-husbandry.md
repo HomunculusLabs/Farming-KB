@@ -1,5 +1,5 @@
 ---
-title: [[comparison-cattle-husbandry-vs-goat-husbandry]]
+title: Goat Husbandry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

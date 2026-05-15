@@ -1,6 +1,6 @@
 ---
 title: "[[gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation]] Miniculture"
-aliases: [[[rye-grain-miniculture-production-parameters]], mushroom miniculture, gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation rye grain]
+aliases: [[rye-grain-miniculture-production-parameters]], mushroom miniculture, gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation rye grain]
 tags: [mycology, cultivation, psilocybe, grain-spawn, fruiting, methodology]
 source: variation of [[psilocybin-and-psilocin-biosynthesis-variation]] levels bigwood beug
 created: 2026-05-11

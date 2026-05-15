@@ -16,8 +16,8 @@ Different plants thrive with different microbial communities. Trees, shrubs, and
 
 The key lever is the ratio of **green materials** to **brown materials**:
 
-- **Green materials** (grass clippings, fresh kitchen scraps, manure) — rich in simple sugars and nitrogen. These feed [[bacteria]] and promote bacterial dominance.
-- **Brown materials** (dry leaves, wood chips, bark, cardboard) — rich in lignin, cellulose, and tannins (with some nitrogen). [[fungi]] have the enzymes needed to break these complex compounds down. Only after fungi have begun decomposing browns can bacteria attack them.
+- **Green materials** (grass clippings, fresh kitchen scraps, manure) — rich in simple sugars and nitrogen. These feed [[bacteria-and-microorganisms-in-mushroom-fruiting]] and promote bacterial dominance.
+- **Brown materials** (dry leaves, wood chips, bark, cardboard) — rich in lignin, cellulose, and tannins (with some nitrogen). [[fungi-in-garden-ecosystems]] have the enzymes needed to break these complex compounds down. Only after fungi have begun decomposing browns can bacteria attack them.
 
 **Rule of thumb:** More brown materials → more fungi. More green materials → more bacteria.
 
@@ -148,13 +148,3 @@ The ultimate goal of making targeted compost is inoculating your soil with the r
 - **Aeration** — improved soil structure increases air exchange.
 - **Water retention and drainage** — organic matter acts as a sponge while improving pore space.
 - **Nutrient retention and availability** — microbial communities hold nutrients in plant-available forms, reducing leaching and the need for external inputs.
-
-## Related Concepts
-
-- [[compost]] — overview of the composting process
-- [[bacteria]] — role of bacteria in soil and decomposition
-- [[fungi]] — role of fungi in soil, decomposition, and plant symbiosis
-- [[vermicompost]] — detailed guide to worm-based composting
-- [[carbon-nitrogen-ratio]] — balancing greens and browns
-- [[soil-food-web]] — the full community of soil organisms
-- [[actinomycetes]] — filamentous bacteria important in decomposition

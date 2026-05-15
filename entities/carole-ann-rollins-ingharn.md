@@ -40,7 +40,7 @@ Dr. Carole Ann Rollins is a soil microbiology researcher and editor who compiled
 
 - [[elaine-ingham]] — Mentor and primary author of AACT knowledge
 - [[actively-aerated-compost-tea-aact-brewing]] — Subject of the compiled field guide
-- [[soil-foodweb]] — Biological framework underlying the field guide
+- [[soil-food-web]] — Biological framework underlying the field guide
 
 ## Editorial Methodology
 

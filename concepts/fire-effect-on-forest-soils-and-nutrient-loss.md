@@ -68,7 +68,7 @@ Peat soils often combust to depths well below the surface, destroying the entire
 ### Clay Structure Degradation
 Clays lose their structure at high fire temperatures. The collapse of clay structure reduces:
 - Water-holding capacity
-- Soil aeration
+- [[soil-aeration]]
 - Root penetration ability
 - Nutrient retention
 

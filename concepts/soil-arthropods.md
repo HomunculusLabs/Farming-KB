@@ -106,3 +106,17 @@ Soil arthropods occupy a critical middle tier in [[the-soil-food-web]] — above
 - **Carbon sequestration** — incorporating organic carbon into stable soil forms
 
 The diversity and abundance of soil arthropods serve as a sensitive **bioindicator** of soil health, reflecting the overall maturity, fertility, and [[fukuoka-bushman-world-ecological-balance]] of the soil ecosystem.
+
+## Notes
+
+This topic is connected to related areas of study within
+the broader field. Further research continues to expand
+our understanding of soil arthropods and its applications.
+
+## See Also
+
+- [[lowenfels-soil-macro-arthropods]]
+- [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
+- [[soil-moisture-management-and-root-growth]]
+- [[fungal-glomalin-and-soil-carbon]]
+- [[chisel-plough-soil-rehabilitation-mollison]]

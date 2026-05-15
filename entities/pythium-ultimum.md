@@ -60,7 +60,7 @@ fungi, including [[laetisaria-arvalis]].
   fumigation
 
 ### Biological Control Interactions
-- Trichoderma virens efficiently suppresses P. ultimum in
+- [[trichoderma-virens]] efficiently suppresses P. ultimum in
   cotton fields through toxin production (Howell 1991)
 - Gliovirin, a new antibiotic from Gliocladium virens, plays
   a role in biocontrol of P. ultimum (Howell and Stipanovic

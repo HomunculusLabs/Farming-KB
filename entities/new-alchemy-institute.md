@@ -9,7 +9,7 @@ tags: [organisation, permaculture, aquaculture, research, solar-energy]
 
 ## Description
 
-The New Alchemy Institute was a research organisation based on Cape Cod, Massachusetts, USA, that pioneered integrated ecological design systems combining aquaculture, agriculture, and renewable energy. Active from 1969 to 1991, it was one of the most influential centres for developing practical permaculture and ecological engineering techniques.
+The New Alchemy Institute was a research organisation based on Cape Cod, Massachusetts, USA, that pioneered integrated ecological design systems combining aquaculture, agriculture, and renewable energy. Active from 1969 to 1991, it was one of the most influential centres for developing practical [[permaculture]] and ecological engineering techniques.
 
 ## Classification
 

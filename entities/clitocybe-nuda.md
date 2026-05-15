@@ -26,7 +26,7 @@ sources:
 
 **Wood Blewit** | **Blewit** | **Blue Foot** | **Lepiste nue**
 
-*Clitocybe nuda* (syn. *Lepista nuda*, *Tricholoma nudum*) is a widespread edible woodland mushroom prized for its attractive violet-blue coloration, distinctive aromatic fragrance, and excellent culinary quality. Found across [[palmer-edible-mushrooms-north-america]] in temperate forests, the Wood Blewit is relatively underutilized compared to more commonly foraged species. It is an excellent candidate for culinary exploration [[lepiota-procera]] for another autumn woodland edible.
+*Clitocybe nuda* (syn. *[[lepista-nuda]]*, *Tricholoma nudum*) is a widespread edible woodland mushroom prized for its attractive violet-blue coloration, distinctive aromatic fragrance, and excellent culinary quality. Found across [[palmer-edible-mushrooms-north-america]] in temperate forests, the Wood Blewit is relatively underutilized compared to more commonly foraged species. It is an excellent candidate for culinary exploration [[lepiota-procera]] for another autumn woodland edible.
 
 ## Taxonomy and Nomenclature
 

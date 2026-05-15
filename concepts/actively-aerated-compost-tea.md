@@ -6,14 +6,14 @@ type: concept
 
 ## Overview
 
-Actively aerated compost tea (AACT) is the third tool in the soil food web gardener's toolkit, alongside compost and mulch. It puts concentrated microbiology directly into soils and onto leaf surfaces, overcoming the key limitations of compost and mulch: slow delivery to the rhizosphere and inability to adhere to leaf surfaces. AACT is a fast, inexpensive, and effective way to manage soil food web microbiology in gardens and landscapes.
+Actively aerated compost tea (AACT) is the third tool in [[the-soil-food-web]] gardener's toolkit, alongside compost and mulch. It puts concentrated microbiology directly into soils and onto leaf surfaces, overcoming the key limitations of compost and mulch: slow delivery to the rhizosphere and inability to adhere to leaf surfaces. AACT is a fast, inexpensive, and effective way to manage [[soil-food-web]] microbiology in gardens and landscapes.
 
 ## How AACT Differs from Other Preparations
 
 It is critical to distinguish AACT from several related but inferior preparations:
 
-- **Compost leachate**: Liquid that drains from compost under pressure or gravity. Contains some color and nutrients but imparts little microbial life because bacteria and fungi are attached to organic matter with biological glues and do not simply wash off.
-- **Compost extract**: Compost soaked in water for weeks, producing an anaerobic soup. Loss of aerobic microbial diversity and risk of anaerobic pathogens and alcohols make it unsafe and inadvisable.
+- **[[compost-leachate]]**: Liquid that drains from compost under pressure or gravity. Contains some color and nutrients but imparts little microbial life because bacteria and fungi are attached to organic matter with biological glues and do not simply wash off.
+- **[[compost-extract]]**: Compost soaked in water for weeks, producing an anaerobic soup. Loss of aerobic microbial diversity and risk of anaerobic pathogens and alcohols make it unsafe and inadvisable.
 - **Manure tea**: Manure suspended in water for weeks. Also anaerobic, and virtually assures the presence of *E. coli* and other pathogens.
 
 AACT, by contrast, is a fully aerobic mixture that concentrates beneficial, aerobic microbes.

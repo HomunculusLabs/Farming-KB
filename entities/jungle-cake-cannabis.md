@@ -5,7 +5,7 @@ tags:
   - cannabis
   - strain
   - hybrid
-  - white-fire-og
+  - white-[[fire-og]]
   - wedding-cake
   - seed-junky-genetics
   - high-thc

@@ -40,7 +40,7 @@ A hotbed is a traditional horticultural structure used for growing plants in col
 
 ## Relevance to Cultivation
 
-Hotbeds represent one of the most elegant examples of closed-loop, low-input food production in horticultural history. The system required no external energy source beyond the metabolic heat of decomposition and demonstrated that year-round vegetable production is achievable without fossil fuels. Modern growers can adapt hotbed principles using various organic materials for winter production in community gardens, small farms, and off-grid situations. The hotbed model directly inspired Eliot Coleman's unheated greenhouse winter harvest system, substituting solar energy captured by plastic covers for biological heat.
+Hotbeds represent one of the most elegant examples of closed-loop, low-input food production in horticultural history. The system required no external energy source beyond the metabolic heat of decomposition and demonstrated that year-round vegetable production is achievable without fossil fuels. Modern growers can adapt hotbed principles using various organic materials for winter production in community gardens, small farms, and off-grid situations. The hotbed model directly inspired Eliot Coleman's [[unheated-greenhouse-winter-harvest]] system, substituting solar energy captured by plastic covers for biological heat.
 ## Overview
 
 Fundamental concept in agricultural and ecological systems. Understanding this topic provides insight into sustainable management practices and biological processes.

@@ -21,7 +21,7 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 ### High Doses (15mg+ THC)
 - Can trigger panic attacks, paranoia, and increased anxiety
 - Overstimulation of CB1 in the amygdala
-- The "bad trip" phenomenon in susceptible individuals
+- The "[[bad-trip]]" phenomenon in susceptible individuals
 
 ### CBD (any dose)
 - Consistently anxiolytic across dose ranges

@@ -40,7 +40,7 @@ Tedersoo et al. (2014) identified biome-specific fungal assemblages that were
 more strongly differentiated than those of plants or bacteria, suggesting that
 fungal distributions may be more tightly coupled to climate and soil
 conditions. These findings have important implications for predicting how soil
-fungal communities will respond to [[soil-foodweb]]
+fungal communities will respond to [[soil-food-web]]
 dynamics are particularly important for understanding long-term soil health.
 Fungi serve as both decomposers and food sources for microarthropods and
 

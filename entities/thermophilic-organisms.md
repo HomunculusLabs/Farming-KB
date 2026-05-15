@@ -22,7 +22,7 @@ Thermophilic organisms are microorganisms that thrive at **elevated temperatures
 
 #### Transition to Thermophilic Phase
 - Mesophilic metabolic activity raises compost temperature to 104°F (40°C), triggering the transition.
-- Mesophilic organisms that cannot tolerate higher temperatures either die, go dormant, or survive as **heat-resistant endospores**.
+- [[mesophilic-organisms]] that cannot tolerate higher temperatures either die, go dormant, or survive as **heat-resistant endospores**.
 - Thermophilic organisms, adapted to higher temperatures, **take over** all major decomposition functions.
 
 #### Thermophilic Decomposition Activity
@@ -74,7 +74,7 @@ Thermophilic organisms are microorganisms that thrive at **elevated temperatures
 2. **Hot composting speed**: Thermophilic activity enables compost production in as little as **2–3 weeks** (vs. 1+ year for cold composting), by dramatically accelerating decomposition rates.
 3. **Substrate pasteurization**: The same thermophilic principles apply to mushroom substrate pasteurization, where temperatures of 140–160°F (60–71°C) eliminate competitors and pathogens.
 4. **Carbon management**: Excessive thermophilic activity (>155°F) can "burn" carbon, reducing organic matter content and compost quality — temperature monitoring is critical.
-5. **Soil food web reset**: The thermophilic phase kills most mesophilic organisms (except spore-formers), creating a biological reset. Diversity is re-established during maturation as mesophiles return.
+5. **[[soil-food-web]] reset**: The thermophilic phase kills most mesophilic organisms (except spore-formers), creating a biological reset. Diversity is re-established during maturation as mesophiles return.
 
 ## Temperature Profile Summary
 
@@ -90,10 +90,10 @@ Thermophilic organisms are microorganisms that thrive at **elevated temperatures
 
 ## See Also
 
-- [[Mesophilic Organisms]]
-- [[Psychrophilic Bacteria]]
-- [[Bacillus spp.]]
-- [[Arthrobacter spp.]]
-- [[Pseudomonas spp.]]
-- [[Streptomyces]]
-- [[C:N Ratio]]
+- [[mesophilic-organisms]]
+- [[psychrophilic-bacteria]]
+- [[bacillus-spp]]
+- [[arthrobacter-spp]]
+- [[pseudomonas-spp]]
+- [[streptomyces]]
+- [[solomon-carbon-nitrogen-ratios]]

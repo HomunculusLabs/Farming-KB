@@ -30,7 +30,7 @@ Ingham asks: how do you establish the baseline that your plant should have? With
 ## Foliar Application and Plant Control
 
 Ingham's philosophy emphasizes letting the plant control its own [[cannabis-vegetative-growth-stage]] instead of [[elaine-ingham]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[aact-brix-soil-foodweb-health-indicator-ingham]]
 
 ## Overview

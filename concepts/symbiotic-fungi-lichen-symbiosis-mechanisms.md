@@ -46,7 +46,7 @@ kingdom:
 
 ## Ecological Significance
 
-Lichen symbiosis demonstrates that close, long-term interactions between different
+[[lichen-symbiosis]] demonstrates that close, long-term interactions between different
 species create novel organismal forms with emergent properties. Key ecological roles:
 
 - Bioindicators of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] contributes to ecosystem nitrogen inputs

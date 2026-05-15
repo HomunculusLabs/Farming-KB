@@ -87,7 +87,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Glucuronidation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

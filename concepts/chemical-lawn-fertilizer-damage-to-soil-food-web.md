@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-The modern chemical lawn care industry began in 1928 when a grass seed company developed inexpensive synthetic nitrogen-based fertilizers. While these products deliver impressive short-term results, they initiate a destructive cycle that progressively eliminates the soil food web, creating dependence on continued chemical inputs. Understanding this cycle is essential to reversing it.
+The modern chemical lawn care industry began in 1928 when a grass seed company developed inexpensive synthetic nitrogen-based fertilizers. While these products deliver impressive short-term results, they initiate a destructive cycle that progressively eliminates [[the-soil-food-web]], creating dependence on continued chemical inputs. Understanding this cycle is essential to reversing it.
 
 ## The Vicious Cycle of Chemical Fertilizers
 
@@ -19,7 +19,7 @@ Chemical lawn fertilizers are salts. When they contact soil microbes, they cause
 
 ### Rule #13
 
-Chemical fertilizers kill off most or all soil food web microbes. The severity depends on organism type, concentration, and application rate. A useful benchmark: **100 pounds of nitrogen lawn fertilizer per acre will wipe out a healthy soil food web**. Even lesser quantities cause significant damage.
+Chemical fertilizers kill off most or all [[soil-food-web]] microbes. The severity depends on organism type, concentration, and application rate. A useful benchmark: **100 pounds of nitrogen lawn fertilizer per acre will wipe out a healthy soil food web**. Even lesser quantities cause significant damage.
 
 ### The Downward Spiral
 
@@ -36,7 +36,7 @@ The destruction follows a predictable pattern:
 
 ### pH Destabilization
 
-Without the natural buffering action of bacteria and fungi, soil pH drops progressively as more nitrate salts are applied. This eventually requires lime or other amendments to correct — yet another chemical intervention.
+Without the natural buffering action of bacteria and fungi, [[soil-ph]] drops progressively as more nitrate salts are applied. This eventually requires lime or other amendments to correct — yet another chemical intervention.
 
 ### Grass Clipping Removal
 
@@ -63,7 +63,7 @@ Without a diverse, well-populated soil food web, natural defenses are absent. La
 
 - Mildew and black spot
 - Rots and gray mold
-- Dollar spot (one of the two most troublesome diseases of golf course greens)
+- [[dollar-spot]] (one of the two most troublesome diseases of golf course greens)
 - Other opportunistic diseases
 
 These problems indicate a lack of beneficial organism diversity that would normally suppress pathogens through competition.
@@ -73,7 +73,7 @@ These problems indicate a lack of beneficial organism diversity that would norma
 When the soil food web is destroyed, the gardener becomes solely responsible for all functions previously performed by soil biology:
 
 - Nutrient supply (now requiring repeated fertilizer applications)
-- Soil aeration (compaction increases without worm and root channeling)
+- [[soil-aeration]] (compaction increases without worm and root channeling)
 - Disease prevention (chemical fungicides replace biological competition)
 - Organic matter decomposition (clipping and leaf removal becomes mandatory)
 - Water management (degraded soil structure reduces water retention)

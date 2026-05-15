@@ -1,82 +1,125 @@
 ---
-title: Psilocybe Cubensis Tropisms
-created: 2026-05-09
-tags: [mycology, tropism, psilocybe, mushroom-development, phototropism]
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - /Users/t3rpz/wiki/raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md
+title: Tropisms in Psilocybe cubensis
+source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
 
-# Psilocybe cubensis Tropisms
+# Tropisms in *Psilocybe cubensis*
 
 ## Overview
 
-Badham (1982) studied the directed growth responses (tropisms) of
-[[mushroom-anemotropism]] (wind response) during early development, followed
-by a [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]] relevant to
-tropic behavior:
+Tropisms are directional growth responses in organisms, where growth is oriented by an environmental stimulus. In fungi, tropisms are particularly important for fruiting body (basidiocarp) development, as the mushroom must orient itself optimally for [[spore]] production and dispersal. The foundational study of tropisms in *[[psilocybe-cubensis]]* was conducted by Edmond R. Badham in 1982, using controlled wind tunnel experiments to systematically investigate how wind, gravity, and light influence mushroom growth and orientation.
 
-### Stage 1 — Early Pileus Swelling
-Characterized by slight swelling of the pileus. The stipe is actively elongating
-and responds strongly to directional stimuli. Primordia at this stage exhibit
-the most pronounced anemotropic (wind-directed) curvature when placed in an air
-stream.
+## Experimental Approach
 
-### Stage 2 — Spherical Pileus
-The pileus becomes nearly spherical. This stage marks the transition point where
-[[mushroom-negative-geotropism]].
-Spore production initiates, and the stipe begins to curve upward (negative
-geotropic response) regardless of wind direction.
+Badham's experiments placed *P. cubensis* fruitbodies in a wind tunnel where wind velocity, humidity, temperature, and light could be precisely controlled. This setup allowed the isolation of individual stimuli and the observation of their effects on stipe (stem) growth direction and curvature. The use of sporeless mutants as experimental controls was a particularly elegant methodological choice, as it helped disentangle the relationship between spore formation and geotropic behavior.
 
-### Stage 3 — Maturity / Sporulation
-The pileus opens into a hemispherical shape. Spores are actively being produced
-and released. The negative geotropic response is fully expressed, with the
-pileus turning upward from the wind direction and lamellae facing downward for
-optimal [[spore-dispersal]].
+### Wind Tunnel Conditions
 
-### Stage 4 — Late Maturity
-The pileus becomes more or less plane (flat). This represents the final stage
-of development with continued spore release.
+The closed-circuit wind tunnel had a working area of 43 × 30 × 20 cm and was illuminated with "cool white" fluorescent light (12 h photoperiod). Key environmental parameters were maintained at:
 
-## Environmental Controls
+- **Wind velocity:** 9 ± 3 cm/sec (measured with a TSI hot wire anemometer)
+- **Relative humidity:** 94 ± 3% (monitored via wet and dry copper constantan thermocouples)
+- **Temperature:** 24.5 ± 1.5°C (regulated by a temperature proportioner)
+- **Light intensity:** 0.002 calories/cm²/min (measured with an Eppley radiometer)
 
-The wind tunnel experiments controlled four key environmental variables:
+Cultures were placed in the chamber when primordia reached approximately 2 cm in height and removed after 72 hours at maturity. The humidity control system used a wet bulb depression mechanism with a reed switch and relay to cycle the humidifier on and off, maintaining stable moisture conditions critical for observing tropic responses.
 
-| Variable | Value |
-|----------|-------|
-| Wind velocity | 9 ± 3 cm/sec |
-| Humidity | 94 ± 3% RH |
-| Temperature | 24.5 ± 1.5°C |
-| Light | 0.002 cal/cm²/min, 12h photoperiod |
+### Cultivation Methods
 
-## Key Findings
+An isolate from a previous study (Badham, 1980) was inoculated onto autoclaved brown rice (6 g per 20 mL deionized water) in 50 mm Petri plates. A sterile mutant of the same strain was also maintained for comparison. After the hyphae covered the substrate, the hyphal mass was transferred to 13 cm diameter pie tins with [[vermiculite]] and 25 mL of water, covered with glass, and placed under fluorescent light for approximately 10 days until primordia formed. Distilled water was added when cultures lost more than 10 mL of water (determined by weight). Approximately 100 developing basidiocarps were studied across all experimental conditions.
 
-### Anemotropism (Stages 1–2)
+## Developmental Stages of the Basidiocarp
 
-When primordia between Stage 1 and Stage 2 are placed in the wind tunnel, stipe
-growth is directed into the air flow. This response occurs:
+The research identified four distinct developmental stages in *P. cubensis* fruitbody maturation:
 
-- With or without a 12-hour photoperiod
-- In complete darkness
-- In both fertile and sterile basidiocarps
-- Even when basidiocarps are initially oriented away from the wind
-- When cultures are rotated perpendicular to the wind, growth proceeds upward
+- **Stage 1 — Slight Pileus Swelling:** The cap (pileus) begins to expand slightly beyond the stipe. The stipe is actively elongating at this point, and growth direction is primarily governed by wind (anemotropism).
+- **Stage 2 — Nearly Spherical Pileus:** The cap becomes approximately spherical as it continues to expand. Stipe elongation is still the dominant growth process, and the fruitbody remains responsive to wind direction.
+- **Stage 3 — Maturity and Sporulation:** The pileus opens into a hemispherical shape, exposing the gills (lamellae). Spore production begins. This stage marks the critical transition point where geotropic responses override anemotropic ones.
+- **Stage 4 — Late Maturity:** The pileus becomes fully planar (flat). Spore release is at its peak, and the fruitbody has completed its reorientation for optimal dispersal.
 
-If upright fertile cultures are placed in the chamber at Stage 2 or later,
-bending is not as pronounced, suggesting the anemotropic response weakens as
-development progresses.
+## Two Phases of Directed Growth
 
-### Negative Geotropism (Stage 2+)
+Badham proposed that basidiocarp growth in *P. cubensis* occurs in two functionally distinct phases:
 
-At Stage 2, a negative geotropic response emerges in fertile basidiocarps:
-- The pileus turns upward from the wind direction
-- Lamellae face downward (oriented for spore release)
-- This occurs regardless of whether light comes from above or below
-- Recurvation does NOT occur in sterile (sporeless) strains
-- The response requires at least some light, possibly because light is necessary
-  for spore production
+### Phase 1: Anemotropism (Wind-Directed Growth)
 
-When mushrooms are rotated horizontally to equalize gravity under constant
-illumination, growth and pileus expansion are both horizontal. Rotation
+During the early stages of development (Stages 1–2), the stipe grows **into the wind**. This response is called anemotropism — growth oriented by the direction of airflow. The mechanism is not a direct mechanical response to wind force, but rather an indirect response driven by differential moisture loss across the stipe surface.
+
+When fruitbodies were rotated so their long axis was perpendicular to the wind direction, they grew upright rather than bending, confirming that the growth response is directed toward the greatest evaporative demand rather than being a simple passive bending.
+
+### Phase 2: Negative Geotropism (Gravity-Directed Growth)
+
+When spore formation begins (Stage 3), a **negative geotropic curvature** occurs — the stipe bends to grow upward, opposing gravity. This reorientation positions the cap horizontally above the ground, which is ideal for basidiospore release and wind-assisted dispersal.
+
+Critically, **sporeless mutants did not exhibit this negative geotropic response**. This finding strongly suggests that the geotropic curvature is linked to spore production itself, possibly through hormonal signals originating in the lamellae (gills).
+
+## The Boundary Layer Mechanism
+
+The physical basis for anemotropic curvature lies in the concept of the **boundary layer** — a thin layer of relatively still air that clings to the surface of the stipe:
+
+1. On the **windward side** of the stipe, the boundary layer is thinner because wind shear strips it away more effectively.
+2. A thinner boundary layer means **greater evaporative demand**, so cells on the windward side lose water more rapidly.
+3. Differential water loss leads to **differential cell growth rates** — cells on the drier (windward) side elongate less, while cells on the leeward (more humid) side elongate more.
+4. This asymmetry in cell expansion causes the stipe to **curve toward the wind**.
+
+This mechanism places anemotropism in *P. cubensis* in the same category as hydrotropic and avoidance responses seen in other fungi, where differential water relations drive directional growth.
+
+## Role of Light
+
+Light plays multiple and sometimes opposing roles in *P. cubensis* development:
+
+- **Basidiocarp initiation** requires light — fruitbodies will not form in complete darkness.
+- **Spore formation** is light-dependent; dark-grown fruitbodies fail to produce viable spores.
+- **Geotropic sensitivity** depends on light exposure — without light, the mushroom does not exhibit negative geotropism.
+- **Stipe elongation is inhibited by light** — in darkness, stipes elongate significantly more, which is a common response among agaric mushrooms (sometimes called etiolation).
+
+The dual role of light — as both an enabler of developmental transitions and an inhibitor of elongation — suggests a complex photoreceptor system that modulates multiple growth pathways simultaneously.
+
+## The Partial Veil and Developmental Timing
+
+The **partial veil** (the tissue connecting the cap margin to the stipe in young fruitbodies) may serve an important role in tropic behavior. Before the cap opens at Stage 3, the veil could protect the upper stipe from wind and light exposure, preventing premature anemotropic bending or photoinhibition of elongation on that surface. This protection would allow the stipe to elongate relatively straight until the critical moment of cap expansion, at which point the veil ruptures and the fruitbody undergoes its geotropic reorientation.
+
+## Hormonal Influences and the Lamellae
+
+Badham postulated the existence of one or more **mushroom hormones** produced in or associated with the lamellae (gills). Evidence for this includes:
+
+- Sporeless mutants lack both spores and geotropic response, suggesting the lamellae produce a substance that triggers the Phase 2 curvature.
+- **Agar diffusates** collected from excised gills can partially substitute for the influence of the intact pileus, implying that a diffusible chemical factor is involved.
+- The link between spore production and geotropism is consistent with a model in which spore development (or a closely associated metabolic process) releases or activates a hormone that reprograms stipe growth from anemotropic to geotropic.
+
+The identity of such a hormone remains speculative, but candidates might include ethylene, auxin-like compounds, or novel fungal growth regulators.
+
+## Comparison with Phycomyces
+
+*P. cubensis* tropisms share notable similarities with the extensively studied zygomycete fungus *Phycomyces*:
+
+- Both exhibit **anemotropism** (growth toward wind) driven by differential water loss across the sporangiophore/stipe.
+- Both show **avoidance responses** to mechanical barriers and unilateral stimuli.
+- **Water vapor gradients** are the primary signal for wind-directed growth in both organisms.
+- **Ethylene** may be involved as a signaling molecule in both systems.
+
+These parallels suggest that the fundamental mechanisms of fungal tropisms — particularly those involving boundary layer physics and water relations — may be broadly conserved across major fungal lineages.
+
+## Adaptive Significance
+
+The tropic behaviors of *P. cubensis* have clear adaptive value for a coprophagous (dung-inhabiting) and lignicolous (wood-inhabiting) fungus:
+
+- **Anemotropism** (Phase 1) positions the developing cap into the airflow, maximizing evaporative cooling and preparing the fruitbody for efficient [[spore-dispersal]]. Growing into wind also helps the stipe reach above the boundary layer of the dung or wood substrate, where air currents are stronger.
+- **Negative geotropism** (Phase 2) ensures the cap is horizontal at the time of sporulation, which is the optimal orientation for basidiospore release and catch by air currents. This is especially important for species growing on **unstable substrates** — dung pats and decaying wood that may be irregularly shaped or tilted. A strong geotropic response guarantees horizontal cap orientation regardless of substrate angle.
+- The **sequential deployment** of these two tropisms — first anemotropic, then geotropic — ensures that the mushroom first reaches a favorable position for height and exposure, then locks in the correct cap orientation for spore release.
+
+## Summary of Key Relationships
+
+| Factor | Effect on Growth | Stage |
+|--------|-----------------|-------|
+| Wind (anemotropism) | Stipe curves into wind | Phases 1–2 |
+| Gravity (negative geotropism) | Stipe curves upward | Phase 2 onward |
+| Light | Required for initiation, spore formation, geotropism; inhibits elongation | All stages |
+| Spore formation | Triggers geotropic curvature | Stage 3+ |
+| Lamellae hormones | Mediate geotropic transition | Stage 3+ |
+| Partial veil | Protects upper stipe from wind/light | Stages 1–2 |
+
+## References
+
+- Badham, E. R. (1982). Tropisms in the mushroom *Psilocybe cubensis*. Mycologia, 74(2), 275–279.

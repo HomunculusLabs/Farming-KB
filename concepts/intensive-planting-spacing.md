@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Intensive Planting and Spacing
 
-Steve Solomon's analysis of plant spacing systems, from ultra-intensive raised beds to wide-spaced drought gardening. Solomon himself once taught and practiced intensive gardening but came to believe that wider spacing produces better results with far less water and labor.
+[[steve-solomon]]'s analysis of plant spacing systems, from ultra-intensive raised beds to wide-spaced drought gardening. Solomon himself once taught and practiced intensive gardening but came to believe that wider spacing produces better results with far less water and labor.
 
 ## Solomon's Evolution
 

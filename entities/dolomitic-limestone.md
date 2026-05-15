@@ -77,7 +77,6 @@ The ratio of calcium to magnesium in soil is critical:
 - Lowenfels, Jeff. *Teaming with Nutrients*. Timber Press.
 - Brady, N.C. and Weil, R.R. *The Nature and Properties of Soils*. Pearson.
 
-
 ## Notes
 
 Dolomitic Limestone plays an important role in its respective domain. Proper understanding of its characteristics and appropriate application methods ensures effective use in practice.

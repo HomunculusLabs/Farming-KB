@@ -23,7 +23,7 @@ sources:
   Transform Press.
   - Hofmann, A. (1959). "The Active Principles of the Seeds of
     [[ipomoea-violacea]]." Public Health Service.
-  - Taber, W.A., Heacock, R.A. (1962). "[[ipomoea-tricolor]]*, *I. violacea*, *[[albert-hofmann]] first isolated ergine from *Rivea corymbosa*
+  - Taber, W.A., Heacock, R.A. (1962). "[[ipomoea-tricolor]]*, *I. violacea*, *[[albert-hofmann]] first isolated ergine from *[[rivea-corymbosa]]*
 seeds in 1960, confirming these plants as the botanical source of the
 Aztec entheogen *ololiuqui*.
 

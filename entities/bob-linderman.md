@@ -7,7 +7,7 @@ tags: [person, mycology, mycorrhizae, VAM, researcher]
 
 ## Description
 
-Bob Linderman is a mycology researcher recognized by [[elaine-ingham]] as a key expert consulted on questions related to vesicular-arbuscular mycorrhizal (VAM) and [[ectomycorrhizal-fungi]]. Alongside [[jim-trappe]], Linderman served as one of the primary scientific resources that Ingham relied upon when developing the [[soil-foodweb]] Inc. (SFI) approach to mycorrhizal assessment and soil biology management. His expertise spans the full range of mycorrhizal associations including VAM (endomycorrhizal), ectomycorrhizal, and ericoid [[mycorrhizal-types]].
+Bob Linderman is a mycology researcher recognized by [[elaine-ingham]] as a key expert consulted on questions related to vesicular-arbuscular mycorrhizal (VAM) and [[ectomycorrhizal-fungi]]. Alongside [[jim-trappe]], Linderman served as one of the primary scientific resources that Ingham relied upon when developing the [[soil-food-web]] Inc. (SFI) approach to mycorrhizal assessment and soil biology management. His expertise spans the full range of mycorrhizal associations including VAM (endomycorrhizal), ectomycorrhizal, and ericoid [[mycorrhizal-types]].
 
 ## Classification
 

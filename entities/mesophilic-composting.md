@@ -7,7 +7,7 @@ tags: [composting, mesophilic, soil-food-web, technique, temperature]
 
 ## Description
 
-The mesophilic composting phase is the first and third stage of the composting cycle, occurring when internal pile temperatures are between 68 and 104F (20-40C). Mesophilic organisms -- those that thrive at moderate temperatures -- dominate during these periods. In the initial mesophilic phase, decomposition begins as bacteria and fungi start breaking down readily available organic compounds. After the thermophilic phase peaks and subsides, mesophilic organisms return for a second mesophilic period during the maturation stage. Understanding the mesophilic phase is essential because it initiates the composting process and completes it, bookending the full composting cycle.
+The mesophilic composting phase is the first and third stage of the composting cycle, occurring when internal pile temperatures are between 68 and 104F (20-40C). [[mesophilic-organisms]] -- those that thrive at moderate temperatures -- dominate during these periods. In the initial mesophilic phase, decomposition begins as bacteria and fungi start breaking down readily available organic compounds. After the thermophilic phase peaks and subsides, mesophilic organisms return for a second mesophilic period during the maturation stage. Understanding the mesophilic phase is essential because it initiates the composting process and completes it, bookending the full composting cycle.
 
 ## Classification
 
@@ -21,7 +21,7 @@ The mesophilic composting phase is the first and third stage of the composting c
 
 - **Bookend phases:** Mesophilic organisms are active in both the first stage of composting (initial decomposition) and the final stage (maturation). Their specially protected endospores survive the thermophilic phase, allowing them to reassert themselves when temperatures cool.
 
-- **Initial decomposition:** During the first mesophilic phase, bacteria begin attacking straight chains of cellulose, breaking them into smaller chains of glucose through a process called depolymerization. Brown rot fungi (basidiomycetes) and specific bacteria (Bacillus spp., Heliospirillum spp.) also become active.
+- **Initial decomposition:** During the first mesophilic phase, bacteria begin attacking straight chains of cellulose, breaking them into smaller chains of glucose through a process called depolymerization. [[brown-rot]] fungi (basidiomycetes) and specific bacteria (Bacillus spp., Heliospirillum spp.) also become active.
 
 - **Endospore survival:** Many mesophilic organisms produce endospores -- spores resistant to chemicals and heat -- that enable them to survive the thermophilic phase. When temperatures drop back into the mesophilic range, these spores germinate and the organisms return to activity.
 
@@ -92,11 +92,11 @@ The three-phase composting cycle as described by Lowenfels and Lewis:
 
 - **Earthy smell indicator:** The actinomycetes active during mesophilic maturation produce geosmin and other compounds that give good compost and soil their characteristic earthy smell. This is a practical quality indicator for cultivators.
 
-- **Soil aggregate formation:** The mesophilic maturation phase produces soil aggregates through worm mucus binding and microbial activity. These aggregates improve water retention, aeration, and structure in garden beds and mushroom substrates.
+- **[[soil-aggregate-formation]]:** The mesophilic maturation phase produces soil aggregates through worm mucus binding and microbial activity. These aggregates improve water retention, aeration, and structure in garden beds and mushroom substrates.
 
 - **Biological diversity:** The return of mesophilic organisms after thermophilic pasteurization creates a diverse microbial community in finished compost. This diversity is what makes compost an effective soil inoculant.
 
 ## References
 
-- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web*. Chapter 15: Compost.
+- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to [[the-soil-food-web]]*. Chapter 15: Compost.
 - Mesophilic and thermophilic stages are described in detail, including the role of endospores in organism survival and the return of mesophiles during maturation.

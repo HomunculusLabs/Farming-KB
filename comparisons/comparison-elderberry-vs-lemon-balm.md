@@ -42,7 +42,7 @@ perennial woody shrub that takes 2-3 years to reach full production.
 
 ## Lemon Balm
 
-Lemon balm (Melissa officinalis) is a compact herbaceous perennial
+Lemon balm ([[melissa-officinalis]]) is a compact herbaceous perennial
 in the mint family (Lamiaceae), growing 30-80 cm tall and spreading
 by rhizomes. Native to the Mediterranean, it is hardy in zones 4-9
 and adapts readily to most well-drained soils.
@@ -127,4 +127,4 @@ the spreading herb from being shaded out.
 - [[lemon-balm-melissa-officinalis]]
 - [[elderberry-cultivation-and-variety-guide]]
 - [[comparison-chamomile-vs-valerian]]
-- [[comparison-echinacea-vs-ashwagandha]]
+- [[comparison-ashwagandha-vs-echinacea]]

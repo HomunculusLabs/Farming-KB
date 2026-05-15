@@ -36,7 +36,7 @@ potassium, calcium, phosphorus, magnesium, and iron. The harvested leaf
 biomass has an NPK of roughly 3-0.8-8 on a dry-weight basis, making it an
 exceptional source of potassium for fruiting and flowering crops. Comfrey
 leaves are used as mulch, compost activator, and the base for fermented
-comfrey tea liquid fertilizer. A single established plant can be harvested
+[[comfrey-tea-liquid-fertilizer]]. A single established plant can be harvested
 4 to 6 times per season, yielding 2 to 5 kg of fresh leaf matter annually.
 
 Medicinally, comfrey is renowned for wound healing and tissue repair. Its

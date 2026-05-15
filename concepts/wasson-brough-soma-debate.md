@@ -9,7 +9,7 @@ sources: []
 # The Wasson-Brough Soma Debate
 
 The question of whether the [[mckenna-vedic-soma-indo-european-mysteries]] was the [flyic mushroom ([[amanita-muscaria]]), as
-proposed by [[[gordon-wasson]], remains one of the most contested
+proposed by [[gordon-wasson]], remains one of the most contested
 issues in the history of ethnobotany and Vedic studies. The most trenchant
 [[golden-guide-syrian-rue-and-maoi-plants]]
 ([[soma-and-the-sacred-mushroom-debate]]

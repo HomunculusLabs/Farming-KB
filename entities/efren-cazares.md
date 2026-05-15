@@ -7,7 +7,7 @@ tags: [person, mycology, mycorrhizae, VAM, ectomycorrhizal, researcher]
 
 ## Description
 
-Dr. Efren Cazares is a mycology researcher who trained under [[jim-trappe]] at Oregon State University as a graduate student and post-doctoral researcher. He specializes in the identification and measurement of vesicular-arbuscular mycorrhizal (VAM) and ectomycorrhizal fungal colonization. Cazares plays a critical role in the [[soil-foodweb]] Inc. (SFI) ecosystem by performing mycorrhizal sample analyses and training SFI laboratory technicians in the identification and measurement of both VAM and [[ectomycorrhizal-fungi]].
+Dr. Efren Cazares is a mycology researcher who trained under [[jim-trappe]] at Oregon State University as a graduate student and post-doctoral researcher. He specializes in the identification and measurement of vesicular-arbuscular mycorrhizal (VAM) and ectomycorrhizal fungal colonization. Cazares plays a critical role in the [[soil-food-web]] Inc. (SFI) ecosystem by performing mycorrhizal sample analyses and training SFI laboratory technicians in the identification and measurement of both VAM and [[ectomycorrhizal-fungi]].
 
 ## Classification
 

@@ -28,7 +28,7 @@ sources:
 - **Genus:** Penicillium
 - **Section:** Simplicissima (or Aspergilloides)
 
-The taxonomy of *Penicillium* has undergone extensive revision, with many species reclassified based on molecular phylogenetic data. *P. simplicissimummalt-extract-agarof the major clades within the genus and is distinguished from related species by its morphological characteristics, growth patterns, and [[soil-foodweb]] dynamics
+The taxonomy of *Penicillium* has undergone extensive revision, with many species reclassified based on molecular phylogenetic data. *P. simplicissimummalt-extract-agarof the major clades within the genus and is distinguished from related species by its morphological characteristics, growth patterns, and [[soil-food-web]] dynamics
 
 ## Secondary Metabolites
 

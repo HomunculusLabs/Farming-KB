@@ -24,7 +24,7 @@ making them complementary additions to any medicinal herb garden.
 
 [[lemon-balm-melissa-officinalis]]
 
-Lemon balm (Melissa officinalis) is a lemon-scented perennial herb in the
+Lemon balm ([[melissa-officinalis]]) is a lemon-scented perennial herb in the
 Lamiaceae family, native to the Mediterranean Basin and southern Europe. The
 genus name Melissa derives from the Greek word for honeybee, reflecting its
 long-standing reputation as a bee forage plant. It has been cultivated since

@@ -37,7 +37,6 @@ type: entity
 - Understanding siderophore dynamics helps explain why synthetic iron supplements are often unnecessary in biologically active organic soils — the soil food web provides this service for free.
 - Some pathogenic fungi also produce siderophores to compete for iron, making siderophore production a factor in disease suppression by beneficial microbes that outcompete pathogens for this critical nutrient.
 
-
 ## Properties and Characteristics
 
 The siderophore exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

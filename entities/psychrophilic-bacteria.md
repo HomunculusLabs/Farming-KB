@@ -7,7 +7,7 @@ tags: [bacteria, soil-microbiology, composting, cold-tolerance]
 
 ## Description
 
-Psychrophilic bacteria are cold-adapted microorganisms that thrive at **temperatures just above freezing**, with some remaining metabolically active at temperatures as low as 32°F (0°C). In the composting cycle, they play a critical **bootstrap role**: after a compost pile has frozen during winter, psychrophilic bacteria are the first organisms to become active as temperatures rise slightly. Their metabolic activity generates enough heat to warm the pile, which in turn activates mesophilic organisms, initiating the full composting process. Without psychrophilic bacteria, frozen compost piles would not self-start.
+Psychrophilic bacteria are cold-adapted microorganisms that thrive at **temperatures just above freezing**, with some remaining metabolically active at temperatures as low as 32°F (0°C). In the composting cycle, they play a critical **bootstrap role**: after a compost pile has frozen during winter, psychrophilic bacteria are the first organisms to become active as temperatures rise slightly. Their metabolic activity generates enough heat to warm the pile, which in turn activates [[mesophilic-organisms]], initiating the full composting process. Without psychrophilic bacteria, frozen compost piles would not self-start.
 
 ## Classification
 
@@ -45,9 +45,9 @@ Psychrophilic bacteria are cold-adapted microorganisms that thrive at **temperat
 ## Relevance to Cultivation and Mycology
 
 1. **Cold climate composting**: Understanding psychrophilic activity explains why compost piles "come back to life" in spring — these bacteria are the biological spark plugs of seasonal composting.
-2. **Winter soil biology**: In cold-region cultivation, psychrophilic bacteria maintain baseline soil biological activity through winter, preserving soil food web structure for rapid spring recovery.
+2. **Winter soil biology**: In cold-region cultivation, psychrophilic bacteria maintain baseline soil biological activity through winter, preserving [[soil-food-web-structure]] for rapid spring recovery.
 3. **Overwintering mushroom beds**: Psychrophilic microorganisms may contribute to substrate conditioning during cold months when mycelial growth is slow, preparing substrates for vigorous spring colonization.
-4. **Cool composting systems**: Cold/slow composting methods rely partially on psychrophilic organisms for decomposition when piles never reach mesophilic temperatures.
+4. **Cool [[composting-systems]]**: Cold/slow composting methods rely partially on psychrophilic organisms for decomposition when piles never reach mesophilic temperatures.
 5. **Seasonal management**: Knowing that psychrophilic bacteria will restart a frozen pile means composters can leave piles through winter with confidence they will resume activity in spring.
 
 ## Practical Implications
@@ -61,7 +61,7 @@ Psychrophilic bacteria are cold-adapted microorganisms that thrive at **temperat
 ```
 32°F (0°C)  → Psychrophilic bacteria active, begin warming pile
 68°F (20°C) → Mesophilic organisms activate, rapid decomposition begins
-104°F (40°C)→ Thermophilic organisms take over, pathogen destruction
+104°F (40°C)→ [[thermophilic-organisms]] take over, pathogen destruction
 150°F (65°C)→ Peak thermophilic, weed seed destruction
 104°F (40°C)→ Cooling phase, mesophiles return
 Ambient     → Maturation complete, compost ready
@@ -69,7 +69,14 @@ Ambient     → Maturation complete, compost ready
 
 ## See Also
 
-- [[Mesophilic Organisms]]
-- [[Thermophilic Organisms]]
-- [[Bacillus spp.]]
-- [[C:N Ratio]]
+- [[mesophilic-organisms]]
+- [[thermophilic-organisms]]
+- [[bacillus-spp]]
+- [[solomon-carbon-nitrogen-ratios]]
+## Ecological Roles
+Microbial communities drive essential ecosystem processes including
+decomposition, nutrient mineralization, nitrogen fixation, and disease
+suppression. Bacterial diversity in healthy soils can exceed 10,000
+species per gram, forming complex food webs with fungi, protozoa, and
+nematodes. Understanding these interactions enables biological approaches
+to soil management that reduce dependence on synthetic inputs.

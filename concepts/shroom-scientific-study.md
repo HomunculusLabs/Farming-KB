@@ -26,7 +26,7 @@ There are currently around 186 known psilocybin species -- the figure
 is rising all the time -- of which 76 occur in Mexico alone. The most
 important species include [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], though its psychoactive
 properties were not recognised until the 1960s. The American mycologist
-Franklin Sumner Earle first described [[anemotropism-in-psilocybe-cubensis]] at the turn of
+Franklin Sumner Earle first described [[psilocybe-cubensis-anemotropism]] at the turn of
 the twentieth century. The pioneer of fungal taxonomy established the
 foundations upon which later identification work was built.
 

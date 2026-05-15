@@ -25,7 +25,7 @@ The thermophilic composting phase is the second and most biologically intense st
 
 - **Weed seed destruction:** At 150F (65C), weed seeds in the compost are also destroyed, preventing unwanted germination when the compost is later applied to gardens.
 
-- **Key organisms:** Many more bacteria become active during this phase, including Arthrobacter spp., Pseudomonas spp., and Streptomyces (and other actinomycetes). Certain fungi also join or play more prominent roles in decomposition.
+- **Key organisms:** Many more bacteria become active during this phase, including [[arthrobacter-spp]]., [[pseudomonas-spp]]., and Streptomyces (and other actinomycetes). Certain fungi also join or play more prominent roles in decomposition.
 
 - **Complex compound breakdown:** During the thermophilic phase, complex carbohydrates are fully broken down, proteins are decomposed, and hemicelluloses (the more resistant structural components of plant cell walls) are decayed. These are materials too complex for mesophilic organisms to handle efficiently.
 
@@ -69,7 +69,7 @@ As temperatures rise through the thermophilic range, the microbial community shi
 
 ## Relevance to Cultivation and Mycology
 
-- **Mushroom substrate preparation:** Agaricus (button mushroom) composting relies on a carefully managed thermophilic phase to condition the substrate. The temperature profile directly affects the nutritional quality of the final substrate for mycelial growth.
+- **[[mushroom-substrate-preparation]]:** Agaricus (button mushroom) composting relies on a carefully managed thermophilic phase to condition the substrate. The temperature profile directly affects the nutritional quality of the final substrate for mycelial growth.
 
 - **Pathogen-free compost:** The thermophilic phase ensures that compost used as casing material or substrate amendment is free of competing organisms and pathogens that could contaminate mushroom cultures.
 
@@ -77,9 +77,9 @@ As temperatures rise through the thermophilic range, the microbial community shi
 
 - **Compost quality control:** Mushroom cultivators can assess compost quality by whether it achieved proper thermophilic temperatures. Insufficient heating indicates incomplete decomposition and potential contamination risk.
 
-- **Soil food web restoration:** Gardeners restoring depleted soils rely on thermophilic composting to produce pathogen-free, biologically rich compost that inoculates soils with beneficial organisms without introducing diseases or weeds.
+- **[[soil-food-web]] restoration:** Gardeners restoring depleted soils rely on thermophilic composting to produce pathogen-free, biologically rich compost that inoculates soils with beneficial organisms without introducing diseases or weeds.
 
 ## References
 
-- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web*. Chapter 15: Compost.
+- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to [[the-soil-food-web]]*. Chapter 15: Compost.
 - The thermophilic phase is described in detail with temperature targets, management strategies, and the key organisms active during this stage.

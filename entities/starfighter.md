@@ -14,7 +14,7 @@ sources:
   - Leafly Strain Database. "Starfighter." leafly.com.
   - AllBud Strain Reviews. "Starfighter." allbud.com.
   - SeedFinder Database. "Starfighter." seedfinder.eu.
-  - Dutch Passion Seed Co. "cannabis-strain-breeding-techniques notes." dutch-passion.com.
+  - Dutch Passion Seed Co. "[[cannabis-strain-breeding-techniques]] notes." dutch-passion.com.
   - "[[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing **Chemdawg 91** (also known as Alien Dawg) with **Lemon OG** (also called Lemon Alien).
 
 The strain was developed by Alien Genetics and gained recognition for its exceptionally resinous buds and complex citrus-fuel aroma.

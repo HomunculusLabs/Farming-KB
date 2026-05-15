@@ -32,7 +32,7 @@ sources:
 ethnobotanist recognized for pioneering work on [[archaeology-of-psychedelic-mushroom-use]] use in Africa and the
 Mediterranean.
 
-Samorini is a central figure in entheogen studies alongside Jonathan Ott,
+Samorini is a central figure in entheogen studies alongside [[jonathan-ott]],
 Christian Rätsch, and Terence McKenna. His work bridges academic [[plants-of-the-gods-tabernanthe-iboga-chemistry]]):** Reports of goats consuming
   iboga [[amanita-muscaria]]
 ## Practical Considerations

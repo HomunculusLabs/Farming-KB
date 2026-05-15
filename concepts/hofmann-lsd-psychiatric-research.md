@@ -12,7 +12,7 @@ tags: [lsd]
 
 ## The Psychotherapeutic Foundation
 
-The use of LSD in analytical psychotherapy is based on several characteristic
+The use of [[lsd]] in analytical psychotherapy is based on several characteristic
 psychic effects. In LSD inebriation, the accustomed world view undergoes a
 deep-seated transformation and disintegration. Connected with this is a
 loosening or even suspension of the I-you barrier. Patients bogged down in an

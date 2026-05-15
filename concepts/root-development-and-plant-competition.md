@@ -24,7 +24,7 @@ In Weaver's pictures, roots never turn back toward the center. The plant tries t
 
 ### 2. Root Exudates and Chemical Warfare
 
-Plants "know" where other plants' roots are through chemical signals called **root exudates**. These chemicals:
+Plants "know" where other plants' roots are through chemical signals called **[[root-exudates]]**. These chemicals:
 
 - **Repel other species' roots**: Each plant secretes chemicals that repel roots of other species
 - **Stop own-root overlap**: Chemical signals stop a plant's roots from growing near its own already-established roots

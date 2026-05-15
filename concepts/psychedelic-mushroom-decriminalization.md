@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-The movement to decriminalize psilocybin-containing mushrooms has been one of the most significant drug policy developments of the 21st century. Beginning with grassroots activism in the mid-2010s, the movement has achieved remarkable success at both the local and state level in the United States, with ripple effects worldwide. As of 2026, psilocybin mushrooms have been decriminalized in over two dozen US cities and legalized for therapeutic use in two states.
+The movement to decriminalize [[psilocybin]]-containing mushrooms has been one of the most significant drug policy developments of the 21st century. Beginning with grassroots activism in the mid-2010s, the movement has achieved remarkable success at both the local and state level in the United States, with ripple effects worldwide. As of 2026, [[psilocybin-mushrooms]] have been decriminalized in over two dozen US cities and legalized for therapeutic use in two states.
 
 This page traces the history, strategy, and current status of the psychedelic mushroom decriminalization movement.
 
@@ -41,7 +41,7 @@ Psilocybin mushrooms occupy a unique position in drug policy discussions:
 
 **Oakland, California (June 2019)**
 - City council unanimously passed a resolution decriminalizing psilocybin
-- Went further than Denver by decriminalizing all "entheogenic plants and fungi" — including peyote, ayahuasca, iboga, and mescaline-containing cacti
+- Went further than Denver by decriminalizing all "entheogenic plants and fungi" — including [[peyote]], ayahuasca, iboga, and mescaline-containing cacti
 - Became the model for subsequent broader entheogen decriminalization
 
 **Santa Cruz, California (January 2020)**
@@ -64,7 +64,7 @@ Cities that decriminalized during this period include:
 
 Oregon became the first state to legalize psilocybin for therapeutic use:
 
-- **Measure 109** (passed November 2020, 55.6% of vote): Created a regulated psilocybin therapy program overseen by the Oregon Health Authority
+- **Measure 109** (passed November 2020, 55.6% of vote): Created a regulated [[psilocybin-therapy]] program overseen by the Oregon Health Authority
 - Licensed service centers can administer psilocybin to clients 21+
 - Trained facilitators guide sessions (not requiring a medical diagnosis)
 - The program launched in 2023, making Oregon the first jurisdiction to offer legal, regulated psychedelic therapy
@@ -142,11 +142,3 @@ Colorado became the second state to legalize psilocybin:
 The US movement has inspired reform efforts worldwide:
 - **Netherlands**: Magic truffles (sclerotia) remain legally available
 - **Portugal**: All drugs decriminalized since 2001
-
-## See Also
-
-- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
-- [[psychedelic-1960s-counterculture]]
-- [[psychedelic-consciousness-expansion]]
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
-- [[psychedelic-therapy-set-and-setting]]

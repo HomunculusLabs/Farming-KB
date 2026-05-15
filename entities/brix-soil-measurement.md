@@ -30,7 +30,7 @@ Brix is a measurement of dissolved solids in plant sap, primarily sugars, expres
 
 5. **Standard Curve Needed**: To properly evaluate brix, a standard curve of typical brix fluctuations through the day is needed for each crop. Hourly readings could establish baselines. Without knowing the baseline for a conventionally grown plant, it is impossible to say whether treated plants are actually improved.
 
-6. **Correlation with Foodweb Health**: When [[soil-foodweb]] Inc. tests show higher biomass of bacteria, fungi, protozoa, or nematodes, this correlates with improved disease protection, nutrient retention, nutrient cycling, soil aggregation, and often higher brix readings.
+6. **Correlation with Foodweb Health**: When [[soil-food-web]] Inc. tests show higher biomass of bacteria, fungi, protozoa, or nematodes, this correlates with improved disease protection, nutrient retention, nutrient cycling, soil aggregation, and often higher brix readings.
 
 7. **Foliar Spray Impact**: After applying compost tea, brix changes can be measured within hours. Ingham recommends a controlled test design: measure brix before and after applying good tea, poor tea, water, and nutrient solution across four plots to document actual responses.
 

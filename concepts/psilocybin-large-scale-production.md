@@ -23,7 +23,7 @@ sources:
 
 # Large-Scale Psilocybin Production — Room Design and Workflow
 
-Gottlieb's design for a dedicated 10x15 ft production room for bulk psilocybin mushroom cultivation. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for fruiting chamber details and [[psilocybin-liquid-culture]] for culture preparation.
+Gottlieb's design for a dedicated 10x15 ft production room for bulk [[psilocybin-mushroom]] cultivation. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for fruiting chamber details and [[psilocybin-liquid-culture]] for culture preparation.
 
 Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-extraction-guide]]
 

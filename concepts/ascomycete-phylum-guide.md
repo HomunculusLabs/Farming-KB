@@ -70,7 +70,7 @@ Ascomycetes form the fungal partner in most lichen symbioses (roughly 98% of lic
 
 ### Human Uses
 - Antibiotics (Penicillium)
-- Fermented foods and beverages (Saccharomyces, Aspergillus, Penicillium)
+- [[fermented-foods-and-beverages]] (Saccharomyces, Aspergillus, Penicillium)
 - Cheese production (Penicillium roqueforti, P. camemberti)
 - Model organisms in genetics (Neurospora crassa, Saccharomyces cerevisiae)
 - Biocontrol agents (Trichoderma, Beauveria)

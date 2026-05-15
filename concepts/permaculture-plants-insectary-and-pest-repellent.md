@@ -58,7 +58,7 @@ Species with combined bee forage, medicinal (to livestock), and fire-retardant p
 
 The book lists extensive eucalypt species for bee forage. Notable producers:
 
-- **Eucalyptus melliodora (yellow box)** -- Considered the best honey of all eucalypts
+- **[[eucalyptus-melliodora]] (yellow box)** -- Considered the best honey of all eucalypts
 - **Eucalyptus maculata (spotted gum)** -- Major source of winter/spring nectar
 - **Eucalyptus salmonophloia (salmon gum)** -- Choice honey; summer, autumn
 - **Eucalyptus microcarpa (grey box)** -- Good honey; summer, autumn, winter

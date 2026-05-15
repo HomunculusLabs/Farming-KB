@@ -78,5 +78,4 @@ His work illustrates the importance of regional collection and
 
 documentation — principles that remain central to mycology today.
 
-
 This entry provides reference information about dr curtis mycologist and its significance in its respective field.

@@ -9,7 +9,7 @@ tags: [fungi, ectomycorrhizal, basidiomycota, agaricales]
 
 ## Description
 
-*Hebeloma cylindrosporum* is an ectomycorrhizal basidiomycete fungus in the family Hymenogastraceae. It is one of the most extensively studied model organisms for ectomycorrhizal symbiosis research, particularly in European forest ecosystems. The species forms characteristic ectomycorrhizal associations with a range of coniferous and deciduous tree species, especially pines (*Pinus* spp.) and birches (*Betula* spp.).
+*Hebeloma cylindrosporum* is an ectomycorrhizal basidiomycete fungus in the family Hymenogastraceae. It is one of the most extensively studied model organisms for ectomycorrhizal symbiosis research, particularly in European forest ecosystems. The species forms characteristic [[ectomycorrhizal-associations]] with a range of coniferous and deciduous tree species, especially pines (*Pinus* spp.) and birches (*Betula* spp.).
 
 ## Classification
 

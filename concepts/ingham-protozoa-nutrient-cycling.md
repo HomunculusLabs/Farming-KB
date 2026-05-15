@@ -44,7 +44,7 @@ When applying these concepts, consider regional variations, available resources,
 
 - [[ingham-protozoa-soil-food-web-nutrient-cycling]]
 - [[soil-protozoa-nutrient-cycling-and-mineralization]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[protozoa-nematode-nutrient-cycling-ingham]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 

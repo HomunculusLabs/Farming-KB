@@ -72,3 +72,10 @@ A noticeable worm population is a clear indicator of a healthy food web communit
 Invasive earthworm introductions can have negative consequences in some ecosystems. In parts of the United States and Canada, earthworms left by fishermen have invaded forests, completely altering the forest floor habitat by decaying the litter layer far faster than is healthy for trees and the rest of the soil food web. This demonstrates that even beneficial organisms can become disruptive when introduced into ecosystems that did not evolve with them.
 
 Charles Darwin, who studied earthworms extensively and authored *The Formation of Vegetable Mould Through the Action of Worms*, argued that every particle of soil has passed through a worm at least once. Whether or not this is literally true, the earthworm's role in shredding organic matter, aerating soil, aggregating soil particles, and redistributing nutrients and microorganisms makes it one of the most important members of any garden soil food web.
+## Practical Applications
+These soil principles directly inform management decisions in agriculture
+and horticulture. Understanding soil structure dynamics helps growers
+optimize tillage practices, amendment applications, and planting schedules.
+Biological soil management focuses on feeding soil organisms rather than
+directly supplying nutrients to plants, creating self-sustaining fertility.
+Regular soil food web assessments guide adaptive management strategies.

@@ -14,7 +14,7 @@ type: query
 Living soil is an organic growing method that relies on a diverse community of soil
 microorganisms (bacteria, fungi, protozoa, nematodes, and arthropods) to break down
 [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-that produces more complex [[soil-foodweb]] page explains this trophic cascade in detail, and the
+that produces more complex [[soil-food-web]] page explains this trophic cascade in detail, and the
 [[cannabis-living-soil-amendment-schedule]] page provides a feeding calendar that shows
 when and how to top-dress with organic amendments throughout the grow cycle. The
 [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] specifically, and the

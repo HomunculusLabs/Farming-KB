@@ -6,7 +6,7 @@ type: concept
 
 # Soil Food Web Lawn Care
 
-Maintaining a healthy lawn through the soil food web means shifting from
+Maintaining a healthy lawn through [[the-soil-food-web]] means shifting from
 chemical-dependent practices to biology-based management. Grass evolved in
 partnership with soil microorganisms — bacteria, fungi, protozoa, nematodes,
 microarthropods, and earthworms — that cycle nutrients, build soil structure,
@@ -16,7 +16,7 @@ lawns that are self-sustaining, resilient, and genuinely green.
 ## Historical Context
 
 Before 1928, lawns were maintained with animal manures, compost, and hand weeding.
-These organic inputs fed the soil food web directly, and the web in turn fed the
+These organic inputs fed the [[soil-food-web]] directly, and the web in turn fed the
 grass. Nutrient cycling was biological, slow-release, and self-regulating. Lawns
 managed this way developed deep root systems, retained moisture, and resisted
 pests and disease without chemical intervention.
@@ -49,8 +49,8 @@ When the food web collapses, a cascade of problems follows:
 
 ### Loss of Soil Structure
 
-Without bacterial glues and fungal hyphae binding soil particles, the soil loses
-its crumb structure and tilth. It becomes compacted and inhospitable to root
+Without bacterial glues and [[fungal-hyphae]] binding soil particles, the soil loses
+its [[crumb-structure]] and tilth. It becomes compacted and inhospitable to root
 growth, making grass vulnerable to drought and heat stress.
 
 ### Declining Air and Water Retention
@@ -147,52 +147,4 @@ Aeration also brings beneficial microorganisms from deeper layers to the surface
 Lawns are naturally bacterially dominated ecosystems (unlike forests, which are
 fungal dominated). Applying a thin layer — one-quarter inch or less — of
 bacterially dominated compost introduces beneficial organisms. Alternatively,
-spraying actively aerated compost tea delivers living microbes in liquid
-suspension. These inoculations jumpstart the food web in degraded soils and
-maintain diversity in healthy ones. Apply in spring or early fall.
-
-## Watering Considerations
-
-### Chlorine in Irrigation Water
-
-Municipal water often contains chlorine, which can harm beneficial soil microbes.
-However, when water is delivered through sprinkler heads creating a fine mist,
-much of the chlorine off-gasses before reaching the soil. In most lawn situations,
-this natural dispersion is sufficient to protect the food web.
-
-For gardens watered by hose, an inline chlorine filter on the hose bib provides
-additional protection — worthwhile when restoring degraded soils. For sprinkler-
-irrigated lawns, a chlorine filter is optional since the mist effect handles
-adequate dissipation.
-
-## Transitioning from Chemical to Biological Lawn Care
-
-Transitioning a chemically maintained lawn to biology-based care requires patience.
-The soil food web cannot be rebuilt overnight, but a structured approach
-accelerates recovery:
-
-1. **Stop applying synthetic fertilizers and pesticides immediately** to halt
-   ongoing damage and give surviving biology a chance to recover.
-2. **Begin leaving clippings and mulching leaves in place** to restore organic
-   matter inputs that feed the food web.
-3. **Apply organic amendments** (soybean meal, alfalfa meal) at recommended rates
-   to feed the remaining and reintroduced biology.
-4. **Inoculate with compost or compost tea** to re-establish diverse microbial
-   populations in the soil.
-5. **Aerate if compaction is present** to create conditions for fungal recovery
-   and root expansion.
-6. **Monitor earthworm and microarthropod populations** as biological indicators
-   of recovery progress over time.
-7. **Expect 1–3 growing seasons** for visible improvement in soil structure,
-   thatch reduction, water retention, and grass health.
-
-The end result is a lawn fed by its own soil biology — requiring fewer inputs,
-retaining water and nutrients more effectively, resisting disease naturally, and
-supporting a thriving ecosystem beneath the surface.
-
-## See Also
-
-- [[soil-food-web]] — Overview of the soil food web concept
-- [[bacterial-vs-fungal-soils]] — Understanding bacterial and fungal dominance
-- [[compost-tea]] — Actively aerated compost tea for soil inoculation
-- [[nutrient-cycling]] — How the microbial loop delivers plant-available nutrients
+spraying [[actively-aerated-compost-tea]] delivers living microbes in liquid

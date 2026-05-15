@@ -148,24 +148,3 @@ Conventional agricultural soil tests report NPK (nitrogen, phosphorus, potassium
 ### Recommended Laboratories
 
 - **Soil Foodweb Inc.** (soilfoodweb.com) — founded by Dr. Elaine Ingham, this laboratory specializes in comprehensive soil food web analysis and provides actionable recommendations based on results. Other qualified labs offering similar services may also be available regionally.
-
-### Using Test Results
-
-Professional test results tell a land manager two critical things:
-
-1. **What is active.** The living, functioning portion of the soil biology that is currently contributing to [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] disease suppression.
-2. **What is missing.** Gaps in the biological community that need to be addressed through compost, compost tea, mulching, cover cropping, [[comparison-no-till-vs-reduced-tillage]], or other restorative practices.
-
-Regular testing — ideally annually or biannually — allows managers to track changes over time and evaluate the effectiveness of their soil management strategies.
-
-## Summary of Assessment Methods
-
-| Method | Target Organisms | Equipment Required | Skill Level |
-|--------|-----------------|--------------------|-------------|
-| Visual survey (shovel & tarp) | Macrofauna: worms, beetles, larvae, etc. | Shovel, tarp | Beginner |
-| Pitfall traps | Surface-active arthropods and gastropods | Containers, preservative, rain cover | Beginner |
-| Berlese funnel | Microarthropods: mites, springtails, small beetles | DIY funnel, heat source or mothballs, magnification | Intermediate |
-| Nematode extraction | Nematodes (all functional groups) | Funnel, surgical tubing, microscope | Intermediate to advanced |
-| Professional lab testing | Bacteria, fungi, protozoa, nematodes, F:B ratio | Soil sample, lab submission | Minimal (interpretation requires knowledge) |
-
-No single method provides a complete picture. The most thorough assessments combine at least two or three of these approaches, supplemented by periodic professional laboratory analysis for quantitative microbial data.

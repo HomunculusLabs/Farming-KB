@@ -10,7 +10,7 @@ tags: [emcdda, mushroom-market, strain-marketing, cubensis-varieties, smartshop,
 
 ## Overview
 
-The European market for [[anemotropism-in-psilocybe-cubensis]] was by far the most frequently marketed hallucinogenic
+The European market for [[psilocybe-cubensis-anemotropism]] was by far the most frequently marketed hallucinogenic
 mushroom in the European retail market. The EMCDDA's 2006 case study identified
 cubensis varieties as the primary products available through smartshops and
 online retailers. Other species, while present in the wild throughout Europe,

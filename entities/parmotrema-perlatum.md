@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
   - Kirk, P.M., Cannon, P.F., Minter, D.W., Stalpers, J.A. (2008). "Ainsworth & Bisby's Dictionary of the Fungi." 10th ed. CABI.
   - Nash III, T.H. et al. (2004). "[[polypore-fungi-eastern-north-america]] America, and parts of [[cervantes-air-quality-ventilation]], though it tolerates some pollution.
 

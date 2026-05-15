@@ -10,7 +10,7 @@ Developmental and property trusts are specialized legal instruments designed to 
 
 ## Why Ethical Property Trusts?
 
-No investment in "glamour stocks" is likely to yield anything but more pollution and to hasten global collapse. The evidence on acid rain alone should convince any sane person that further destructive "progress and development" will cause social and environmental upheaval. Developmental trusts provide a vehicle for turning money resources toward earth repair while also ensuring community survival through community involvement.
+No investment in "glamour stocks" is likely to yield anything but more pollution and to hasten global collapse. The evidence on [[acid-rain]] alone should convince any sane person that further destructive "progress and development" will cause social and environmental upheaval. Developmental trusts provide a vehicle for turning money resources toward earth repair while also ensuring community survival through community involvement.
 
 With good management and skillful work, there is no reason why such trusts cannot pay for themselves or show a financial advantage to investors. It is an invaluable experience to model a property trust and teach others how to follow any successes achieved.
 

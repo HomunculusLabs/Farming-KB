@@ -44,7 +44,7 @@ sources: []
 - Annular zone often present but fragile and easily lost
 
 ### Spores
-- Spore print dark purple brown to blackish
+- [[spore-print]] dark purple brown to blackish
 - Spores broadly ellipsoid to slightly rhomboid
 - 9 to 12 × 6 to 7.5 µm in var. liniformans
 - Wall slightly thickened, with a distinct germ pore

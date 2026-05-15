@@ -7,7 +7,7 @@ tags: [mulch, soil-food-web, composting, cultivation, technique, organic-matter]
 
 ## Description
 
-Organic mulch consists of natural materials derived from once-living organisms that are placed on top of soil to reduce erosion, prevent weed growth, insulate plants, and -- critically in the soil food web approach -- establish or supplement specific members of the soil food web. Unlike inorganic mulches (plastic sheeting, gravel), organic mulches decompose over time, feeding soil organisms and cycling nutrients back into the soil. In the soil food web gardening system described by Lowenfels and Lewis, organic mulch is one of the three primary tools (alongside compost and compost tea) for restoring and maintaining healthy soil biology. By selecting the right type of mulch -- green or brown, coarse or fine, wet or dry -- gardeners can establish either fungal or bacterial dominance to match the needs of their plants.
+Organic mulch consists of natural materials derived from once-living organisms that are placed on top of soil to reduce erosion, prevent weed growth, insulate plants, and -- critically in [[the-soil-food-web]] approach -- establish or supplement specific members of the [[soil-food-web]]. Unlike inorganic mulches (plastic sheeting, gravel), organic mulches decompose over time, feeding soil organisms and cycling nutrients back into the soil. In the soil food web gardening system described by Lowenfels and Lewis, organic mulch is one of the three primary tools (alongside compost and compost tea) for restoring and maintaining healthy soil biology. By selecting the right type of mulch -- green or brown, coarse or fine, wet or dry -- gardeners can establish either fungal or bacterial dominance to match the needs of their plants.
 
 ## Classification
 
@@ -38,7 +38,7 @@ Organic mulch consists of natural materials derived from once-living organisms t
 - **Wood chips and shredded bark:** Aged chips are excellent brown mulches. Bark chips last 3-4 years due to high lignin and hemicellulose content. Should be mixed with nitrogen source to prevent nitrogen robbing.
 - **Aged pine needles:** Good mulch but must be aged first to allow terpenes (toxic to many plants) to dissipate.
 - **Sawdust:** Can be used but has very high C:N ratio (500:1); must be supplemented with nitrogen.
-- **Peat moss:** Biologically sterile; should be mixed with other materials to introduce microbiology.
+- **[[peat-moss]]:** Biologically sterile; should be mixed with other materials to introduce microbiology.
 
 **Green (Bacterial-Supporting) Mulches:**
 - **Fresh grass clippings:** The most readily available green mulch, containing necessary sugars to attract and feed bacteria. Must avoid clippings from lawns treated with pesticides or herbicides, or from yards with dogs. Should not be piled too thickly to avoid anaerobic composting.
@@ -47,7 +47,7 @@ Organic mulch consists of natural materials derived from once-living organisms t
 **Other Organic Mulches:**
 - **Straw:** Moderate C:N ratio, good general-purpose mulch
 - **Seaweed:** Rich in micronutrients and minerals
-- **Paper and cardboard:** High carbon content, good for sheet mulching
+- **Paper and cardboard:** High carbon content, good for [[sheet-mulching]]
 
 ## Rules for Mulch Application (from Lowenfels and Lewis)
 
@@ -84,7 +84,7 @@ The nitrogen robbing concern is real but often overstated:
 
 ## Relevance to Cultivation and Mycology
 
-- **Fungal habitat creation:** Brown mulches create surface conditions ideal for fungal growth and mycelial networks. This is directly relevant for outdoor mushroom cultivation and for establishing mycorrhizal associations with plants.
+- **Fungal habitat creation:** Brown mulches create surface conditions ideal for fungal growth and mycelial networks. This is directly relevant for [[outdoor-mushroom-cultivation]] and for establishing mycorrhizal associations with plants.
 
 - **Moisture management:** Mulch maintains consistent soil moisture, which is critical for mycelial growth in outdoor beds and for maintaining active soil food webs that support plant health.
 

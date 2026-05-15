@@ -59,7 +59,7 @@ The species is classified as an indicator plant of nutrient-poor, calcium-rich g
 
 Field scabious is one of the single most important nectar plants for butterflies in European grassland ecosystems. Studies have consistently ranked it among the top five nectar sources for butterfly diversity and abundance.
 
-Key butterfly species that depend on *K. arvensis* nectar include the marbled white (*Melanargia galathea*), dark green fritillary (*Argynnis aglaja*), and common blue (*Polyommatus icarus*). Bumblebees, honeybees, and hoverflies also visit extensively.
+Key butterfly species that depend on *K. arvensis* nectar include the marbled white (*Melanargia galathea*), dark green fritillary (*Argynnis aglaja*), and common blue (*[[polyommatus-icarus]]*). Bumblebees, honeybees, and hoverflies also visit extensively.
 
 The flowers are protandrous, with male-phase florets opening before female-phase florets on the same head. This temporal separation promotes cross-pollination and reduces self-fertilisation rates.
 

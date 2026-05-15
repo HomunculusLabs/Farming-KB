@@ -25,7 +25,7 @@ A psychoactive mushroom species found primarily in Central Europe, particularly 
 
 ## Taxonomy and Discovery
 
-Originally described from specimens collected near Sázava, Bohemia (Czech Republic). The species was confirmed as distinct from *Psilocybe cyanescens* through cross-breeding experiments — mycelia from *P. bohemica* and *P. cyanescens* (US collections) cannot be fused together, proving they are separate species.
+Originally described from specimens collected near Sázava, Bohemia (Czech Republic). The species was confirmed as distinct from *[[psilocybe-cyanescens]]* through cross-breeding experiments — mycelia from *P. bohemica* and *P. cyanescens* (US collections) cannot be fused together, proving they are separate species.
 
 ## Identification
 

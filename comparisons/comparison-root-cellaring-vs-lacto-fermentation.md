@@ -26,7 +26,7 @@ characteristics.
 Lacto-fermentation is a preservation method that utilizes beneficial lactic acid
 bacteria to convert sugars into lactic acid, creating an acidic environment that
 preserves food while transforming its flavor and nutritional properties. The
-process works by creating conditions where lactic acid bacteria (naturally present
+process works by creating conditions where [[lactic-acid-bacteria]] (naturally present
 on vegetables) thrive and outcompete harmful microorganisms.
 
 This method transforms raw ingredients through controlled microbial action,

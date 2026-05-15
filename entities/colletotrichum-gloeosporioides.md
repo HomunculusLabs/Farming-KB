@@ -37,7 +37,7 @@ wide range of host plants, including avocado, citrus, mango, papaya,
   activate post-harvest
 
 ### Mycoparasitic Interactions
-- Trichoderma viride is noted as an efficient antagonist of
+- [[trichoderma-viride]] is noted as an efficient antagonist of
   C. gloeosporioides, among other pathogens (Vakili 1985)
 - Sphaeronaemella helvellae and Exobasidium species are also
   reported as antagonists

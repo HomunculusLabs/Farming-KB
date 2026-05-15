@@ -16,11 +16,11 @@ Exudates create a nutrient-rich hotspot that supports microbial populations orde
 This [[ph-and-nutrient-availability-garden-soils]], [[arbuscular-mycorrhizal-fungi]] detect strigolactone signals in exudates and grow toward the root.
 Once inside the root cortex, the fungus trades phosphorus and water for plant-derived carbon.
 
-The [[soil-foodweb]] and makes plants more dependent on external inputs.
+The [[soil-food-web]] and makes plants more dependent on external inputs.
 
 No-till practices, cover cropping, and diverse rotations encourage deeper and more diverse exudation.
 Living roots in the soil year-round maintain a continuous carbon supply to microbes.
-[[soil-foodweb]] management expands the rhizosphere and enhances exudate-driven processes.
+[[soil-food-web]] management expands the rhizosphere and enhances exudate-driven processes.
 
 ### What About Perennial vs Annual Exudation Patterns?
 

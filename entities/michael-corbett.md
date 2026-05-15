@@ -55,7 +55,7 @@ permaculture literature.
 - Tree-lined swales produce significant **leaf litter** that feeds decomposer
   fungal communities in the soil.
 - The integrated food-producing landscapes (orchards, vineyards) benefit from
-  **mycorrhizal networks** supported by the swale irrigation system.
+  **[[mycorrhizal-networks]]** supported by the swale irrigation system.
 - Demonstrates how **suburban-scale water harvesting** can maintain soil
   moisture levels favourable to fungal activity even in semi-arid climates.
 - The mulched swale bases provide habitat for **saprophytic fungi** that

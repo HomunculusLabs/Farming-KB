@@ -146,5 +146,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[oyster-mushroom-brown-blotch-disease]]
-- [[oyster-mushroom-species-overview]]
+- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
+- [[straw-based-oyster-mushroom-cultivation]]

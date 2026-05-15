@@ -1,7 +1,7 @@
 ---
 title: Mescalero mescalero-apache-peyote-use Shamanism
 created: 2026-04-26
-sources: Harner (ed.), [[hallucinogens-and-shamanism]] (1973), Ch. 5 (Boyer, Boyer, Basehart)
+sources: Harner (ed.), hallucinogens-and-shamanism (1973), Ch. 5 (Boyer, Boyer, Basehart)
 related:
   - peyote
   - lophophora-williamsii

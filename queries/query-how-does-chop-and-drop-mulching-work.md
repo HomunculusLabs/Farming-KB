@@ -22,7 +22,7 @@ herbaceous plants fall and decompose in place, cycling nutrients back to the
 soil surface where they are most accessible to the biological community that
 drives soil fertility and plant nutrition.
 
-The technique works through the natural [[soil-foodweb]] and the foundation of
+The technique works through the natural [[soil-food-web]] and the foundation of
 long-term soil fertility in any organic growing system.
 
 The timing of chop and drop matters significantly for [[dry-gardening-unirrigated-vegetable-production-solomon]].

@@ -18,13 +18,13 @@ dactylaria brochopaga is a predatory soil fungus belonging to the phylum [[dight
 - Compost and organic-rich substrates
 - Greenhouse and nursery soils
 
-The fungus is generally more abundant in moist, organic-rich soils where nematode prey are plentiful. The presence of nematodes in the environment can actually induce the fungus to produce trapping structures, as the energy investment in trap formation is only triggered by [[soil-foodweb]], regulating nematode populations from above.
+The fungus is generally more abundant in moist, organic-rich soils where nematode prey are plentiful. The presence of nematodes in the environment can actually induce the fungus to produce trapping structures, as the energy investment in trap formation is only triggered by [[soil-food-web]], regulating nematode populations from above.
 - **Plant protection:** By reducing populations of plant-parasitic nematodes, it indirectly protects plant roots from damage.
 - **[[savory-energy-flow-and-solar-capture]]:** The fungus channels energy from the nematode-based decomposer pathway into the fungal decomposer pathway, contributing to the complexity and stability of soil food webs.
 
 ### Soil Food Web Dynamics
 
-Nematode-trapping fungi like dactylaria brochopaga occupy a unique trophic position in soil ecosystems, functioning as intermediaries between bacterial-feeding and fungal-feeding energy channels. They represent a critical link in the soil food web, connecting the bacterial energy channel (via bacterivorous nematodes) to the fungal energy channel.
+Nematode-trapping fungi like dactylaria brochopaga occupy a unique trophic position in soil ecosystems, functioning as intermediaries between bacterial-feeding and fungal-feeding energy channels. They represent a critical link in [[the-soil-food-web]], connecting the bacterial energy channel (via bacterivorous nematodes) to the fungal energy channel.
 
 ## Interactions with Other Organisms
 
@@ -39,7 +39,7 @@ The species is commonly found in the rhizosphere of plants, where its predatory 
 ## See Also
 
 - nematode-trapping-fungi
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - biological control
 - Rhizosphere
 - Nematode

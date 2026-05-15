@@ -81,7 +81,7 @@ Diversity is critically important for soil and compost health. Using multiple co
 
 ### Assessing Diversity
 
-[[soil-foodweb]] Inc. (SFI) testing examines the morphology (shape and appearance) of bacteria and fungi to assess whether the community is balanced or skewed. This morphotyping approach differentiates many more species than traditional plate count methods.
+[[soil-food-web]] Inc. (SFI) testing examines the morphology (shape and appearance) of bacteria and fungi to assess whether the community is balanced or skewed. This morphotyping approach differentiates many more species than traditional plate count methods.
 
 ### DNA Testing and Species Quantification
 

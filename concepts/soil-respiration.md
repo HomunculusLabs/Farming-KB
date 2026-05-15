@@ -16,7 +16,7 @@ soil through the [[photosynthesis-carbon-cycle-plants]]. Soil respiration accoun
 terrestrial
 ecosystem respiration, releasing roughly 10 times more CO2
 annually
-than [[soil-foodweb]]
+than [[soil-food-web]]
 - [[savory-soil-carbon-sequestration]]
 - carbon assimilation
 ## Practical Applications

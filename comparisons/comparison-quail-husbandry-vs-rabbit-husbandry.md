@@ -88,7 +88,7 @@ Rabbits are the best choice when maximizing meat production per square foot is
 the priority. A single breeding trio produces 80-100+ lbs of meat per year, far
 exceeding quail output from equivalent space. Their cold manure is a significant
 advantage for gardeners, providing direct fertilizer without the composting step
-required for quail and chicken manure. Rabbit pelts from heritage breeds provide
+required for quail and [[chicken-manure]]. Rabbit pelts from heritage breeds provide
 additional income or material for homestead crafting. Rabbits tolerate cold
 weather well, making them easier to manage through winter in northern climates
 where quail would require heat. Choose rabbits when your priority is maximum

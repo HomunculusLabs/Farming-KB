@@ -9,7 +9,7 @@ created: 2026-05-10
 # Mango Haze
 
 > *A sativa-dominant masterpiece from [[oner-mango-haze-mr-nice-seedbank-haze-skunk]], Holland |
-| **Genetics** | [[northern-lights]]/Haze and Skunk/Haze, delivering a quadruple dose of [[skunk-#1]] and [[haze-genetics]]** — The quintessential sativa, originally developed in Santa Cruz, California
+| **Genetics** | [[northern-lights]]/Haze and Skunk/Haze, delivering a quadruple dose of [[skunk-1]] and [[haze-genetics]]** — The quintessential sativa, originally developed in Santa Cruz, California
 during the 1970s by the Haze Brothers. Haze became the genetic backbone for countless
 satviva-dominant hybrids worldwide, prized for its soaring cerebral effects, long
 flowering time, and complex [[northern-lights]]** — One of the most influential indica breeding lines ever

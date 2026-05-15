@@ -147,4 +147,3 @@ The shape of a nonessential element or its ion determines whether it slips throu
 ### Plant Strategies for Nonessential Elements
 
 Plants have developed several strategies to handle nonessential and potentially toxic elements:
-

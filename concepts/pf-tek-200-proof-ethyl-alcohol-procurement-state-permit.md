@@ -30,7 +30,7 @@ This description positions the use within legitimate, recognized applications th
 
 ### PF's Perspective on Regulations
 
-PF describes the poison warnings on alcohol bottles and the permit requirements as "bureaucratic nonsense" that results in the state collecting revenue from the sale. The characterization reflects the tension between [[anemotropism-in-psilocybe-cubensis]], harvested before caps open, cool-dried with desiccant
+PF describes the poison warnings on alcohol bottles and the permit requirements as "bureaucratic nonsense" that results in the state collecting revenue from the sale. The characterization reflects the tension between [[psilocybe-cubensis-anemotropism]], harvested before caps open, cool-dried with desiccant
 - **200-proof ethyl alcohol** — the extraction solvent
 - **Drinking glass** — with spoon, knife, etc. for handling
 - **Funnel** — for transferring liquids

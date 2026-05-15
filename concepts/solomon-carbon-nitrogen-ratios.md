@@ -17,7 +17,7 @@ type: concept
 
 Understanding carbon-to-nitrogen (C/N) ratios is fundamental to managing
 soil organic matter effectively. Solomon provides one of the clearest
-explanations of this critical topic in "Gardening When It Counts," showing
+explanations of this critical topic in "[[gardening-when-it-counts]]," showing
 how C/N ratios determine whether adding organic material builds or
 destroys soil humus.
 

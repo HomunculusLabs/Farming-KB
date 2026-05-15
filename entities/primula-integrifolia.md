@@ -75,7 +75,7 @@ Primula integrifolia is among the more challenging primulas to cultivate. It req
 
 Unlike many garden primulas, it resents warm, humid conditions and is prone to fungal collapse during hot summers. Plants grown in lowland gardens rarely persist beyond two or three seasons.
 
-- **Substrate:** Gritty, alkaline loam with 40–50% coarse grit or limestone chippings
+- **Substrate:** Gritty, alkaline [[loam]] with 40–50% coarse grit or limestone chippings
 - **Light:** Full sun to partial shade; protection from hot afternoon sun
 - **Watering:** Regular during growth; avoid winter waterlogging
 - **Hardiness:** USDA zones 4–7; benefits from snow cover in winter

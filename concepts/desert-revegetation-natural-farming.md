@@ -64,7 +64,7 @@ infrastructure before any planting occurs.
 
 ## Philosophical Foundation
 
-The desert revegetation proposal extends from Fukuoka's broader critique
+The [[desert-revegetation]] proposal extends from Fukuoka's broader critique
 [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]],
 though typically with site-specific species selection rather than the
 broad mixtures Fukuoka advocated. The principle that vegetation creates

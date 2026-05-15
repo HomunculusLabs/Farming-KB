@@ -53,7 +53,7 @@ and tyramine, with subsequent oxidative deamination by MAO.
 **Dose ranges:**
 - **[[san-pedro-cactus-history]]), *E. peruvianus*,
   *E. bridgesii* at 0.01–0.1% dry weight.
-- **Fabaceae:** *Acacia* species, bitter orange (*Citrus aurantium*),
+- **Fabaceae:** *Acacia* species, bitter orange (*[[citrus-aurantium]]*),
   some *Prosopis* species.
 
 Barley malt and beer are the most common dietary sources. Sprouted barley

@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-A spore syringe is a sterile medical-grade syringe filled with a suspension of mushroom spores in water, used to inoculate substrate jars in the PF TEK and other [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]. In the context of the PF TEK, the spore syringe is the primary vector for introducing *[[anemotropism-in-psilocybe-cubensis]]* genetics to the substrate. [[psylocybe-fanaticus]] distributed spore syringes commercially from Seattle, Washington, guaranteeing them as clean (uncontaminated) and viable (germinating), with a money-back replacement policy.
+A spore syringe is a sterile medical-grade syringe filled with a suspension of mushroom spores in water, used to inoculate substrate jars in the PF TEK and other [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]. In the context of the PF TEK, the spore syringe is the primary vector for introducing *[[psilocybe-cubensis-anemotropism]]* genetics to the substrate. [[psylocybe-fanaticus]] distributed spore syringes commercially from Seattle, Washington, guaranteeing them as clean (uncontaminated) and viable (germinating), with a money-back replacement policy.
 
 ## Classification
 

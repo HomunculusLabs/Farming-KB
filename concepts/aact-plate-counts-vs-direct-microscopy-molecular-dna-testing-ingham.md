@@ -10,7 +10,7 @@ created: 2026-05-10
 
 ## Overview
 
-Assessing the microbiology of aact requires reliable methods for identifying and quantifying the organisms present in compost tea. Three broad approaches exist: traditional plate count methods, direct microscopy (as used in the [[solomon-domestication-vulnerability-vegetable-competitive-disadvantage]] by this artifact, skewing the apparent [[soil-foodweb]] methodology — offers a fundamentally different window into compost tea microbiology. Rather than attempting to culture organisms, the microscopist observes them directly in a prepared sample. This approach provides several critical capabilities:
+Assessing the microbiology of aact requires reliable methods for identifying and quantifying the organisms present in compost tea. Three broad approaches exist: traditional plate count methods, direct microscopy (as used in the [[solomon-domestication-vulnerability-vegetable-competitive-disadvantage]] by this artifact, skewing the apparent [[soil-food-web]] methodology — offers a fundamentally different window into compost tea microbiology. Rather than attempting to culture organisms, the microscopist observes them directly in a prepared sample. This approach provides several critical capabilities:
 
 - **Active vs. total bacteria:** Staining methods distinguish metabolically active bacteria from dormant or inactive cells, giving a meaningful assessment of biological activity
 - **Fungal biomass and morphology:** Hyphal diameter, branching patterns, and presence of spores provide functional information about the fungal community
@@ -20,7 +20,7 @@ Assessing the microbiology of aact requires reliable methods for identifying and
 - **Ectomycorrhizae:** Form a sheath around root tips; essential for many forest trees including oaks, pines, and spruces
 
 This level of differentiation is impossible with plate count methods and remains challenging even for [[soil-testing]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[det]]
 
 ## Overview

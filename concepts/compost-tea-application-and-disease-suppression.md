@@ -62,10 +62,10 @@ Bacteria are microscopic, but fungi and nematodes can be filtered out by
 equipment that is too fine:
 
 - **Straining:** Minimum **400-micrometer mesh**, or decant after 15 minutes.
-- **Pump sprayers:** Use a concrete sprayer or any sprayer with wide orifices
-  that won't shred fungal hyphae.
+- **Pump sprayers:** Use a [[concrete-sprayer]] or any sprayer with wide orifices
+  that won't shred [[fungal-hyphae]].
 - **Large yards:** Gasoline-powered backpack mist sprayer.
-- **Lawns:** Traveling sprinkler with fertilizer (siphon) dispenser.
+- **Lawns:** [[traveling-sprinkler]] with fertilizer (siphon) dispenser.
 
 ## Shelf Life and Storage
 
@@ -110,7 +110,7 @@ induced systemic resistance, and direct predation of pathogens.
 
 ### Fungal-Dominated Teas
 
-Effective against: powdery mildew, downy mildew, take-all, gray/pink snow mold,
+Effective against: [[powdery-mildew]], [[downy-mildew]], take-all, gray/pink snow mold,
 red thread, crown/root rots, damping off, brown patch, summer patch, rusts,
 fairy rings.
 

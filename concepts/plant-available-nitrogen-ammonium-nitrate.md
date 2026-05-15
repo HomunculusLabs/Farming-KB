@@ -10,7 +10,7 @@ tags: [plant-nutrition, nitrogen, soil-chemistry]
 
 ## Overview
 Nitrogen (N) is the nutrient most commonly limiting plant growth in
-temperate and [[soil-foodweb]] function.
+temperate and [[soil-food-web]] function.
 
 ## The Nitrogen Cycle in Soil
 Organic nitrogen enters soil through plant residues, animal manures,

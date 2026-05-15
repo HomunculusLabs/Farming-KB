@@ -56,7 +56,7 @@ white flowers, making it both functional and ornamental.
 
 Mollison recommends combining *Oncoba spinosa* with other barrier plants:
 - *[[acacia-tortilis]]* (umbrella thorn)
-- *Euphorbia tirucalli* (pencil cactus — requires eye protection when handling)
+- *[[euphorbia-tirucalli]]* (pencil cactus — requires eye protection when handling)
 
 ## References
 

@@ -73,7 +73,7 @@ While the Casparian strip is the most studied feature, the endodermis serves add
 
 - The endodermis explains why root health is essential for nutrient uptake — damaged or immature endodermal tissue cannot properly regulate what enters the plant.
 - Young seedlings and transplants are more sensitive to soil contaminants because their root endodermis is not yet fully developed.
-- **Mycorrhizal fungi** extend their hyphae beyond the root surface and into the cortex, but the endodermis still governs the final entry of nutrients into the vascular system.
+- **[[mycorrhizal-fungi]]** extend their hyphae beyond the root surface and into the cortex, but the endodermis still governs the final entry of nutrients into the vascular system.
 - Understanding the endodermis helps explain why soil-borne pathogens and chemical contaminants affect plants differently depending on root maturity.
 - In mushroom cultivation involving plant partners (outdoor beds, mycorrhizal systems), root endodermal function affects the overall health of the plant partner.
 

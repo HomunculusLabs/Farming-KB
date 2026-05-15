@@ -69,7 +69,6 @@ Frankia is a genus of filamentous, nitrogen-fixing actinomycete bacteria that fo
 - Lowenfels, Jeff. *Teaming with Nutrients*. Timber Press.
 - Benson, D.R. and Silvester, W.B. "Biology of Frankia Strains, Actinomycete Symbionts of Actinorhizal Plants." *Microbiological Reviews*, 1993.
 
-
 ## Notes
 
 Frankia plays an important role in its respective domain. Proper understanding of its characteristics and appropriate application methods ensures effective use in practice.

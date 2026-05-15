@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-*Magnaporthe grisea* (now *Magnaporthe oryzae*) is the causal agent of rice blast disease, one of the most devastating diseases of rice worldwide. It serves as a model organism for understanding fungal pathogenicity, particularly the formation and function of appressoria — specialized infection structures that generate enormous turgor pressure to mechanically penetrate host surfaces. The complete genome sequence of *M. grisea* has enabled genome-wide functional analyses of pathogenicity mechanisms.
+*[[magnaporthe-grisea]]* (now *Magnaporthe oryzae*) is the causal agent of rice blast disease, one of the most devastating diseases of rice worldwide. It serves as a model organism for understanding fungal pathogenicity, particularly the formation and function of appressoria — specialized infection structures that generate enormous turgor pressure to mechanically penetrate host surfaces. The complete genome sequence of *M. grisea* has enabled genome-wide functional analyses of pathogenicity mechanisms.
 
 ## Appressorium Formation and Function
 

@@ -60,7 +60,6 @@ type: entity
 - Understanding soil test results helps cultivators make informed decisions about compost, mulch, and organic amendment applications rather than applying materials prophylactically.
 - Tissue testing (in addition to soil testing) may be necessary when plants show deficiency symptoms, since visual symptoms of different deficiencies can be similar.
 
-
 ## Properties and Characteristics
 
 The soil testing exhibits distinct physical and chemical properties relevant to its use. These characteristics determine appropriate application rates and methods.

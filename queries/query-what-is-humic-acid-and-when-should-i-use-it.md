@@ -42,7 +42,7 @@ While often sold together, [[biochar-in-agriculture]]:** Pre-charge biochar with
 ## Key Points
 
 - Humic acid is a natural chelator that keeps micronutrients available for plant uptake
-- It improves soil structure by promoting [[soil-foodweb]] activity and pairs well with biochar and compost tea
+- It improves soil structure by promoting [[soil-food-web]] activity and pairs well with biochar and compost tea
 
 ## Related Questions
 

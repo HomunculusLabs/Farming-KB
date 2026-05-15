@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-[[albert-bernhard-frank]] (1839–1900) was a German botanist and mycologist credited with first documenting the symbiotic relationship between plant roots and fungi, which he named "mycorrhiza" (from the Greek for "fungus-root") in 1885. In *[[teaming-with-microbes-actinomycetes]]*, Lowenfels and Lewis credit Frank with the foundational experiment that established mycorrhizal science: comparing pines grown in sterilized soil to those grown in sterilized soil inoculated with forest fungi, and finding that the [[truffle-inoculated-seedlings]] grew faster and much larger.
+albert bernard frank (1839–1900) was a German botanist and mycologist credited with first documenting the symbiotic relationship between plant roots and fungi, which he named "mycorrhiza" (from the Greek for "fungus-root") in 1885. In *[[teaming-with-microbes-actinomycetes]]*, Lowenfels and Lewis credit Frank with the foundational experiment that established mycorrhizal science: comparing pines grown in sterilized soil to those grown in sterilized soil inoculated with forest fungi, and finding that the [[truffle-inoculated-seedlings]] grew faster and much larger.
 
 Frank's work laid the groundwork for understanding what is now recognized as one of the most important [[fungi-in-the-environment-symbiotic-relationships]] in terrestrial ecology — at least 90-95% of all plant species form mycorrhizal associations.
 

@@ -45,7 +45,6 @@ type: entity
 - In mushroom substrate preparation, sodium nitrate is rarely used; organic nitrogen sources (grain, bran, meal) are preferred for building substrate that supports sustained mycelial growth.
 - The existence of natural nitrate deposits in Chile is a reminder that nitrogen cycles through geological as well as biological pathways.
 
-
 ## Properties and Characteristics
 
 The chilean nitrate exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Psychedelic integration is the process of incorporating insights, emotions, and experiences from psychedelic or entheogenic journeys into everyday life. The psychedelic experience itself is often just the beginning; the real therapeutic work happens in the days, weeks, and months afterward. Without intentional integration, powerful experiences may fade or even become sources of confusion and distress.
+[[psychedelic-integration]] is the process of incorporating insights, emotions, and experiences from psychedelic or entheogenic journeys into everyday life. The psychedelic experience itself is often just the beginning; the real therapeutic work happens in the days, weeks, and months afterward. Without intentional integration, powerful experiences may fade or even become sources of confusion and distress.
 
 ## Why Integration Matters
 
@@ -143,9 +143,6 @@ The sense that the psychedelic experience exists in a separate reality from dail
 - Feeling that the experience was "more real" than ordinary life
 
 ## See Also
-
-- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
-- [[psychedelic-1960s-counterculture]]
-- [[psychedelic-consciousness-expansion]]
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
-- [[psychedelic-therapy-set-and-setting]]
+- [[set-and-setting]]
+- [[psilocybin-therapy]]
+- [[psychedelic-harm-reduction]]

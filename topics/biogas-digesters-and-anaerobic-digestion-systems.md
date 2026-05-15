@@ -21,7 +21,7 @@ The technology serves a dual purpose: **[[jadam-local-material-resource-cycling]
 
 ## History
 
-- **Ancient origins:** Decomposition of organic matter in sealed containers producing flammable gas was observed as early as the 10th century BCE in Assyria, though not understood scientifically.
+- **Ancient origins:** [[decomposition]] of organic matter in sealed containers producing flammable gas was observed as early as the 10th century BCE in Assyria, though not understood scientifically.
 - **1776:** Alessandro Volta discovered methane gas emanating from marsh sediments, noting its flammability.
 - **1808:** Sir Humphry Davy confirmed methane production from cattle [[agricultural-waste-substrates]], sewage treatment, and food waste. Germany became the global leader in farm-scale biogas electricity generation, with over 10,000 plants by the 2010s.
 - **21st century:** Growing interest in small-scale and community digesters for climate resilience, [[off-grid-electricity-basics]] energy in developing nations.

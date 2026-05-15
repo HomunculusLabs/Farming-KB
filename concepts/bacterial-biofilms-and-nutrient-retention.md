@@ -119,4 +119,3 @@ Fungi possess several key advantages over bacteria:
 *Source: "[[teaming-with-microbes-actinomycetes]]" by [[jeff-lowenfels]] & [[wayne-lewis]]*
 
 [Back to Concepts Index](../concepts.md)
-

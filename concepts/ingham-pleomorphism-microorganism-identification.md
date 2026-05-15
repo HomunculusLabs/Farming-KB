@@ -57,7 +57,7 @@ Ingham anticipated that as costs decreased and protocols were standardized, mole
 SFI was developing a new set of assays to allow practitioners to learn whether they have the specific beneficial species required in their soil, compost, or compost tea. These assays would use morphotyping — differentiating many more species of bacteria and fungi than plate counts allow — combined with molecular methods for specific functional assessments.
 
 The goal was to move beyond biomass measurements to species-level assessment: not just "do you have enough fungi?" but "do you have the right species of fungi?" This represents the convergence of morphological and [[elaine-ingham]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[det]]
 
 ## Overview

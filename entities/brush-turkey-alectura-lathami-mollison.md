@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-The brush turkey (*Alectura lathami*), also referred to as the scrub turkey or bush turkey, is a large ground-dwelling bird of the family Megapodiidae native to eastern Australia. It is one of the most well-known megapode species, recognised for its remarkable nest-building behaviour in which the male constructs and maintains a large composting mound from decomposing vegetation to incubate eggs. The species plays a significant ecological role in forest nutrient cycling and soil formation, and has adapted well to suburban environments along Australia's eastern coast.
+The [[brush-turkey]] (*Alectura lathami*), also referred to as the scrub turkey or bush turkey, is a large ground-dwelling bird of the family Megapodiidae native to eastern Australia. It is one of the most well-known megapode species, recognised for its remarkable nest-building behaviour in which the male constructs and maintains a large composting mound from decomposing vegetation to incubate eggs. The species plays a significant ecological role in forest nutrient cycling and soil formation, and has adapted well to suburban environments along Australia's eastern coast.
 
 ## Classification
 

@@ -124,7 +124,7 @@ The serpent's skin-shedding parallels:
 
 - The mushroom shedding its universal veil
 - The shamanic "death and rebirth" experience
-- The seasonal cycle of fungal growth and decay
+- The seasonal cycle of [[fungal-growth-and-decay]]
 - The transformative journey of the initiate
 
 ## Connection to Other Mushroom Symbols

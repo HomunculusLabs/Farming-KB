@@ -16,7 +16,7 @@ that cycles organic matter into plant-available nutrients, with the grower
 feeding the soil biology and the biology feeding the plant. Hydroponic
 systems grow plants in inert soilless media with precisely controlled
 nutrient solutions delivered directly to roots. Both approaches are widely
-used in commercial and home [[soil-foodweb]].
+used in commercial and home [[soil-food-web]].
 The grower's role shifts from managing nutrient solutions to maintaining
 conditions that allow soil biology to thrive. This means managing
 moisture, aeration, temperature, and periodically top-dressing with
@@ -40,7 +40,7 @@ Living soil cannabis cultivation is ideal for growers who prioritize
 flavor, terpene complexity, and sustainability over maximum yield. It
 suits artisan and craft cannabis producers who market based on quality
 and natural [[integrated-pest-management]] and [[comparison-dwc-vs-ebb-and-flow]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 
 ## Overview
 

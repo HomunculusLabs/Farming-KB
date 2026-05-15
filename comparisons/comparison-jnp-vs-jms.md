@@ -29,7 +29,7 @@ potatoes, leaf mold, and water. It serves as the biological foundation of the
 JADAM system, building the soil health and plant resilience that make the overall
 approach work. Healthy plants growing in biologically active soil are inherently
 more resistant to [[korean-natural-farming]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - composting and soil biology
 
 ## Overview

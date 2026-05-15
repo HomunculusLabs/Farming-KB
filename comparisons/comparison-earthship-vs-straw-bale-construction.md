@@ -65,7 +65,7 @@ wet climates demands extra vigilance and often a rainscreen detail.
 
 Choose an earthship when your priority is complete self-sufficiency and
 off-grid independence in a sunny, arid, or temperate climate. Earthships
-excel where winters are cold but sunny — the passive solar design with
+excel where winters are cold but sunny — the [[passive-solar-design]] with
 high thermal mass captures daytime heat and releases it through the night.
 They are ideal for builders who have access to waste tires and want to
 repurpose landfill-bound materials. The integrated water and energy systems

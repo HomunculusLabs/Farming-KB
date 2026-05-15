@@ -13,7 +13,7 @@ The Carbon-to-Nitrogen ratio (C:N ratio) is the fundamental measurement of the r
 
 - **Type**: Chemical ratio / Soil science parameter
 - **Units**: Mass ratio (dimensionless)
-- **Application**: Composting, mulching, soil management, substrate preparation
+- **Application**: Composting, mulching, soil management, [[substrate-preparation]]
 
 ## Key Facts
 
@@ -32,7 +32,7 @@ The Carbon-to-Nitrogen ratio (C:N ratio) is the fundamental measurement of the r
 | Tree leaves | 40:1 – 80:1 |
 | Wood chips | ~400:1 |
 | Grass clippings | ~19:1 |
-| Alfalfa meal | ~12:1 |
+| [[alfalfa-meal]] | ~12:1 |
 | Kitchen scraps | ~15:1 |
 | Straw | ~80:1 |
 
@@ -71,9 +71,9 @@ The Carbon-to-Nitrogen ratio (C:N ratio) is the fundamental measurement of the r
 
 ## See Also
 
-- [[Vermicompost]]
-- [[Actively Aerated Compost Tea]]
-- [[Alfalfa Meal]]
-- [[Peat Moss]]
-- [[Mesophilic Organisms]]
-- [[Thermophilic Organisms]]
+- [[vermicompost]]
+- [[actively-aerated-compost-tea]]
+- [[alfalfa-meal]]
+- [[peat-moss]]
+- [[mesophilic-organisms]]
+- [[thermophilic-organisms]]

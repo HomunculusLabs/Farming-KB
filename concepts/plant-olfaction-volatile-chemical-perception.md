@@ -12,7 +12,7 @@ Plants release hundreds of volatile organic compounds (VOCs) into the
 atmosphere. These include:
 
 - **Terpenoids** — the largest class of plant VOCs, including monoterpenes
-  (C10), sesquiterpenes (C15), and diterpenes (C20). Examples: limonene,
+  (C10), sesquiterpenes (C15), and diterpenes (C20). Examples: [[limonene]],
   pinene, linalool
 - **Green leaf volatiles (GLVs)** — C6 aldehydes, alcohols, and esters
   released from damaged leaves. Examples: hexenal, hexanol, hexenyl acetate

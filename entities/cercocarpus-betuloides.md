@@ -49,7 +49,7 @@ The species is adapted to Mediterranean and semi-arid climates with hot, dry sum
 
 ## Ecology and Interactions
 
-Cercocarpus betuloides is well adapted to fire-prone landscapes. It resprouts vigorously from a lignotuber after top-kill by wildfire, often regaining pre-fire stature within 3–5 years.
+Cercocarpus betuloides is well adapted to fire-prone landscapes. It resprouts vigorously from a lignotuber after top-kill by [[wildfire]], often regaining pre-fire stature within 3–5 years.
 
 The plumose achenes are dispersed by wind, with the feathery style acting as a parachute. Seeds germinate readily in post-fire environments where mineral soil is exposed and competition is reduced.
 

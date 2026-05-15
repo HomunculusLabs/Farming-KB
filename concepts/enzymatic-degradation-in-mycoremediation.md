@@ -35,7 +35,7 @@ changes.
 ## Related
 
 - [[singh-white-rot-fungi-lignin-modifying-enzymes]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes|Mycoremediation White Rot Fungi Lignin Degradation Enzymes]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

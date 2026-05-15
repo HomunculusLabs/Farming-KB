@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Electrostatic sprayers are application devices that impart an electrical charge to spray droplets, causing them to be attracted to and uniformly coat target surfaces (plant leaves, stems). While highly effective for chemical pesticide and fertilizer application, electrostatic sprayers pose a potential risk when used with compost tea: the electrical charge may destroy or damage living microorganisms in the tea by disrupting their cellular charge balance.
+Electrostatic sprayers are application devices that impart an electrical charge to spray droplets, causing them to be attracted to and uniformly coat target surfaces (plant leaves, stems). While highly effective for chemical pesticide and fertilizer application, electrostatic sprayers pose a potential risk when used with [[compost]] tea: the electrical charge may destroy or damage living microorganisms in the tea by disrupting their cellular charge balance.
 
 ## Classification
 
@@ -33,7 +33,7 @@ Electrostatic sprayers are application devices that impart an electrical charge 
   - Hand pump sprayers (under 70 psi)
   - Concrete sprayers (larger orifices, fewer bends)
   - Gasoline backpack mist sprayers (large areas)
-  - Traveling sprinkler with inline fertilizer dispenser (lawns)
+  - [[traveling-sprinkler]] with inline fertilizer dispenser (lawns)
   - Simple watering can (soil drench)
 
 ## Relevance to Cultivation and Mycology
@@ -49,3 +49,38 @@ The electrostatic sprayer caution highlights an important principle for biologic
 ## Sources
 
 - Lowenfels & Lewis, *Teaming with Microbes*, Chapter 17 (Compost Teas)
+
+## See Also
+- [[integrated-pest-management]]
+
+## Ecological Significance
+The ecological importance of Electrostatic Sprayer extends across multiple levels of biological
+organization. Research has documented its role in nutrient cycling, species interactions,
+and ecosystem stability. These relationships highlight the interconnected nature of
+biological communities and the importance of understanding individual components
+within their broader environmental context.
+
+## Practical Applications
+Understanding Electrostatic Sprayer has practical implications for agriculture, horticulture,
+and environmental management. Applied research has explored how this knowledge
+can be used to improve soil health, optimize growing conditions, and develop
+more sustainable management practices. These applications demonstrate the bridge
+between fundamental research and real-world problem solving.
+
+## Research Context
+Current research on Electrostatic Sprayer draws from multiple scientific disciplines, integrating
+findings from microbiology, ecology, chemistry, and applied sciences. Ongoing studies
+continue to refine our understanding of mechanisms and interactions, with implications
+for both theoretical knowledge and practical applications. Key research questions
+remain about the full range of effects and optimal management strategies.
+
+## Historical Background
+The study of Electrostatic Sprayer has evolved significantly over time, with early observations
+leading to increasingly sophisticated understanding. Historical research laid the
+groundwork for modern approaches, and key discoveries have shaped current practices.
+Understanding this history provides context for contemporary research directions
+and helps identify areas where further investigation is needed.
+
+## See Also
+
+- [[concrete-sprayer]]

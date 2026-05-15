@@ -106,10 +106,10 @@ Without protozoa, the soil food web would lose a critical bridge between the mic
 
 ## See Also
 
-- [[Soil Bacteria]] — The primary prey of most soil protozoa
-- [[Soil Nematodes]] — Both predators and prey of protozoa
-- [[Soil Food Web]] — Protozoa's position in the broader soil ecosystem
-- [[Nitrogen Mineralization]] — The process by which protozoa release plant-available nitrogen
+- [[soil-bacteria-decomposition]] — The primary prey of most soil protozoa
+- [[soil-nematodes]] — Both predators and prey of protozoa
+- [[soil-food-web]] — Protozoa's position in the broader soil ecosystem
+- [[fungal-nitrogen-mineralization-pathways]] — The process by which protozoa release plant-available nitrogen
 
 ## Summary
 

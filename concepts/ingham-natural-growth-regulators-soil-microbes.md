@@ -27,7 +27,7 @@ building the right biology around roots is so important.
 Commercial root hormone products are microbial in origin, meaning
 they were originally produced by bacteria or fungi. However, these
 products are stabilized with preservatives and do not contain
-[[soil-foodweb]], by
+[[soil-food-web]], by
 contrast, produces growth regulators continuously as long as the
 organisms remain active and have adequate food resources.
 

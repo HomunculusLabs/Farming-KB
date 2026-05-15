@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-The ingredients chosen for actively aerated compost tea (AACT) determine the microbial composition of the final brew. By selecting specific compost types and supplemental nutrients, gardeners can tailor teas to be bacterially dominated, fungally dominated, or balanced — matching the needs of specific plants through Rule #10 of soil food web gardening.
+The ingredients chosen for [[actively-aerated-compost-tea]] (AACT) determine the microbial composition of the final brew. By selecting specific compost types and supplemental nutrients, gardeners can tailor teas to be bacterially dominated, fungally dominated, or balanced — matching the needs of specific plants through Rule #10 of [[soil-food-web]] gardening.
 
 ## Core Ingredients
 
@@ -51,7 +51,7 @@ Simple sugars feed bacteria and rapidly increase their populations:
 - Cane syrup
 - Maple syrup
 - Fruit juices
-- More complex sugars and fish emulsion (also support some fungal growth)
+- More complex sugars and [[fish-emulsion]] (also support some fungal growth)
 
 **Dosage**: 2 tablespoons per 4–5 gallons of water.
 

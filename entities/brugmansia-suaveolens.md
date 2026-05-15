@@ -35,7 +35,7 @@ The hallucinations produced are typically described as non-differentiated from r
 
 ## Traditional Use
 
-In [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (*Echinopsis pachanoi*) ceremonies, *toé* leaves are sometimes added to enhance the visionary effects.
+In [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (*[[echinopsis-pachanoi]]*) ceremonies, *toé* leaves are sometimes added to enhance the visionary effects.
 
 In the Putumayo region of Colombia, *B. suaveolens* has been used in sorcery and healing practices. Scopolamine extracted from the plant has been implicated in criminal poisonings in Colombia, where it is used to incapacitate victims — a practice known locally as *burundanga*.
 

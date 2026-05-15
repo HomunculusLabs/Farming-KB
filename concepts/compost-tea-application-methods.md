@@ -42,7 +42,7 @@ Application frequency depends on the objective and the growing conditions:
 - **Maintenance:** Every 2–4 weeks during the growing season
 - **[[aact-disease-suppression-mechanisms-ingham]]:** Every 3–7 days until symptoms subside
 - **Soil restoration:** Multiple applications (3–5) during the first growing season, then maintenance frequency
-- **[[soil-foodweb]]
+- **[[soil-food-web]]
 - [[elaine-ingham]]
 - [[mycorrhiza]]
 

@@ -18,7 +18,7 @@ Glomalin is a glycoprotein-like substance found in soil that acts as a biologica
 
 > "VAM are not the only organisms making glomalin. Many other organisms in soil make this material."
 
-The production of glomalin and related soil glues is a fundamental function of a healthy [[soil-foodweb]]. These substances:
+The production of glomalin and related soil glues is a fundamental function of a healthy [[soil-food-web]]. These substances:
 
 - Bind soil particles into micro- and macro-aggregates
 - Improve soil structure and porosity

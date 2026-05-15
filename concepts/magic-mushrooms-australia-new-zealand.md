@@ -20,7 +20,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 ### [[psilocybin-mushroom-common-names-slang]] — Regional slang and common names for psychedelic mushrooms in Australia, NZ, and worldwide
 - [psilocybe eucalypta
-- [[[psilocybe-subaeruginosa]]
+- [[psilocybe-subaeruginosa-australia]]
 - [psilocybe tasmaniana
 - [psilocybe makarorae
 - [psilocybe australiana

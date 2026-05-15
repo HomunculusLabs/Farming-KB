@@ -39,7 +39,6 @@ type: entity
 - In soil applications, blood meal feeds the soil food web (bacteria and fungi) while also providing directly available nitrogen — bridging the gap between synthetic and slow-release organic fertilizers.
 - Blood meal represents an example of industrial waste stream valorization: converting a slaughterhouse by-product into a valuable agricultural input.
 
-
 ## Properties and Characteristics
 
 The blood meal exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

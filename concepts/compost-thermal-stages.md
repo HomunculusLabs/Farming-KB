@@ -20,19 +20,19 @@ type: concept
 
 ## Mesophilic Stage (68–104°F / 20–40°C)
 
-The mesophilic stage is the opening act of composting. [[bacteria|Bacteria]] begin the work of decomposing organic matter by breaking down cellulose chains into glucose through a process called [[depolymerization]]. This is the chemical dismantling of long-chain molecules into simpler, consumable forms.
+The mesophilic stage is the opening act of composting. [[bacteria-and-microorganisms-in-mushroom-fruiting|Bacteria]] begin the work of decomposing organic matter by breaking down cellulose chains into glucose through a process called [[depolymerization]]. This is the chemical dismantling of long-chain molecules into simpler, consumable forms.
 
 Key microbial players in this stage include:
 
 - **Brown rot fungi** ([[basidiomycetes]]) — break down resistant structural materials
 - **Bacillus spp.** and **Heliospirillum spp.** — attack tough organic compounds
-- These organisms produce [[endospores]] that are highly resistant to heat and chemicals, allowing them to survive the intense temperatures of the next stage and re-colonize afterward
+- These organisms produce [[bacterial-spore-microwave-resistance]] that are highly resistant to heat and chemicals, allowing them to survive the intense temperatures of the next stage and re-colonize afterward
 
 As decomposition proceeds, larger organisms join in, physically tearing apart organic matter and increasing surface area for microbial attack. The collective metabolic activity of all these organisms steadily raises the pile temperature to approximately 104°F, at which point the thermophilic community takes over.
 
 ### The Role of Psychrophilic Bacteria
 
-In cold climates, [[psychrophilic]] bacteria can initiate decomposition even from frozen starting conditions. These cold-adapted organisms work at temperatures as low as 32°F (0°C), generating enough metabolic heat to gradually warm the pile until mesophilic conditions are reached. Without psychrophiles, composting in winter would be nearly impossible to start.
+In cold climates, [[psychrophilic-bacteria]] bacteria can initiate decomposition even from frozen starting conditions. These cold-adapted organisms work at temperatures as low as 32°F (0°C), generating enough metabolic heat to gradually warm the pile until mesophilic conditions are reached. Without psychrophiles, composting in winter would be nearly impossible to start.
 
 ---
 
@@ -85,7 +85,7 @@ As readily available proteins and carbohydrates are consumed, metabolic activity
 
 ### Return of the Mesophiles
 
-[[mesophilic]] organisms that survived the thermophilic phase as protected [[endospores]] now reassert themselves, recolonizing the cooling pile and continuing decomposition at moderate temperatures. After the thermophilic run-up, the ideal temperature range for maturation is 104–131°F.
+[[mesophilic-composting]] organisms that survived the thermophilic phase as protected [[bacterial-spore-microwave-resistance]] now reassert themselves, recolonizing the cooling pile and continuing decomposition at moderate temperatures. After the thermophilic run-up, the ideal temperature range for maturation is 104–131°F.
 
 ### Lignin Decay
 
@@ -112,7 +112,7 @@ Compost is complete when you can no longer recognize the original materials. The
 
 ## Carbon-to-Nitrogen Ratio
 
-The [[carbon-nitrogen-ratio]] (C:N ratio) is one of the most critical factors influencing composting success. The ideal range for active composting is **25:1 to 30:1**.
+The [[solomon-carbon-nitrogen-ratios]] (C:N ratio) is one of the most critical factors influencing composting success. The ideal range for active composting is **25:1 to 30:1**.
 
 ### Imbalance Problems
 
@@ -123,8 +123,8 @@ The [[carbon-nitrogen-ratio]] (C:N ratio) is one of the most critical factors in
 
 | Category | Examples | C:N Ratio | Microbial Preference |
 |----------|----------|-----------|---------------------|
-| Brown (carbon) | Leaves, bark, wood chips, sawdust, paper | 40:1–500:1 | Supports [[fungi]] |
-| Green (nitrogen) | Grass clippings, weeds, kitchen scraps | ~19:1 | Supports [[bacteria]] |
+| Brown (carbon) | Leaves, bark, wood chips, sawdust, paper | 40:1–500:1 | Supports [[fungi-in-garden-ecosystems]] |
+| Green (nitrogen) | Grass clippings, weeds, kitchen scraps | ~19:1 | Supports [[bacteria-and-microorganisms-in-mushroom-fruiting]] |
 
 ### Common Material C:N Ratios
 
@@ -138,16 +138,3 @@ The [[carbon-nitrogen-ratio]] (C:N ratio) is one of the most critical factors in
 Achieving the right balance of browns and greens from the start ensures the pile moves smoothly through all three thermal stages and produces finished compost in the shortest possible time.
 
 ---
-
-## See Also
-
-- [[compost]]
-- [[bacteria]]
-- [[fungi]]
-- [[actinomycetes]]
-- [[basidiomycetes]]
-- [[lignin]]
-- [[carbon-nitrogen-ratio]]
-- [[depolymerization]]
-- [[endospores]]
-- [[psychrophilic]]

@@ -6,7 +6,7 @@ The [[comparison-pressure-canning-vs-water-bath-canning]] because grains contain
 heat-resistant endospores that survive atmospheric-pressure boiling. The PF
 substrate eliminates this concern:
 
-- **No grain present**: Brown rice powder does not harbor the same endospore load
+- **No grain present**: [[brown-rice-powder]] does not harbor the same endospore load
 - **Airy structure**: Vermiculite matrix allows steam to penetrate completely
 - **Small jar size**: Half-pint jars allow heat to reach the center efficiently
 

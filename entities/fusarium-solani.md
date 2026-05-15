@@ -43,7 +43,7 @@ of fungi in [[antifungal-secondary-metabolites-coprophilous-fungi]]. In Dighton'
 solani is
 presented within Table 3.23, which summarizes interactions
 between
-root pathogenic fungi and [[soil-foodweb]] studies, F. solani
+root pathogenic fungi and [[soil-food-web]] studies, F. solani
 participates in fungal-fungal interactions, including competitive
 and
 antagonistic relationships with other soil microfungi.

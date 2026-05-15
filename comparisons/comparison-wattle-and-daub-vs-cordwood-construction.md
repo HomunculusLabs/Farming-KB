@@ -10,7 +10,7 @@ sources: []
 ## Overview
 
 Wattle-and-daub and cordwood construction are two of the most accessible
-natural building techniques available to homesteaders and permaculture
+[[natural-building-techniques]] available to homesteaders and permaculture
 practitioners. Both rely on locally sourced, low-cost materials and can be
 built by hand without heavy equipment. Yet they differ fundamentally in their
 approach: wattle-and-daub creates thin, lightweight infill panels within a

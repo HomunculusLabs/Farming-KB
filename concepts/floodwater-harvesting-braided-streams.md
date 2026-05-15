@@ -47,7 +47,7 @@ boundaries. Crop complexes were typically 4 hectares or less.
 
 ### Design Elements for Floodplain Agriculture
 
-Braided rivers naturally deposit silt and organic mulch at high-water marks.
+Braided rivers naturally deposit silt and [[organic-mulch]] at high-water marks.
 Design elements that build on this process include:
 
 - **Scoop fences**: Structures that trap seed, manure, twigs, molluscs, and

@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Hempcrete and adobe are both natural building materials with deep roots in
+Hempcrete and adobe are both [[natural-building]] materials with deep roots in
 sustainable construction. Adobe is one of the oldest building techniques on
 Earth, using sun-dried clay bricks for over 4,000 years across the Americas,
 the Middle East, and North Africa. Hempcrete is a modern biocomposite made

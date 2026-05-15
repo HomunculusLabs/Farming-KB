@@ -86,7 +86,7 @@ Individual mounds of soil, often enriched with extra fertilizer, where 3-6 seeds
 
 The book describes three levels of soil fertility:
 - **Low-demand vegetables**: Grow adequately in minimally fertile soil
-- **Medium-demand vegetables**: Need moderate fertility with compost or COF
+- **Medium-demand vegetables**: Need moderate fertility with [[compost]] or COF
 - **High-demand vegetables**: Require the most fertile soil possible
 
 ### Don't Forget

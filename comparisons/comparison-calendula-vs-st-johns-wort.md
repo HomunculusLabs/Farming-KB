@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Calendula (*Calendula officinalis*) and St. John's Wort (*Hypericum 
+Calendula (*[[calendula-officinalis]]*) and St. John's Wort (*Hypericum 
 perforatum*) represent two of European herbalism's most venerable medicinal 
 plants, each with over 2,000 years of documented use. While both offer 
 significant healing properties, they differ fundamentally in their primary 

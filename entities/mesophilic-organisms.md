@@ -47,12 +47,12 @@ Mesophilic organisms are microorganisms that thrive at **moderate temperatures**
 | Basidiomycetes | Lignin and cellulose decomposition |
 | Actinomycetes | Final-stage decay, earthy smell production |
 | Nematodes | Bacterial/fungal grazing, nutrient mineralization |
-| Springtails | Physical decomposition, fungal spore dispersal |
+| Springtails | Physical decomposition, [[fungal-spore-dispersal]] |
 | Earthworms | Material processing, aggregate formation, castings production |
 
 ### Soil Ecosystem Function
 - The vast majority of soil biological activity occurs at mesophilic temperatures under normal field conditions.
-- Most beneficial soil food web interactions (nutrient cycling, disease suppression, aggregate formation) are driven by mesophilic organisms.
+- Most beneficial [[soil-food-web]] interactions (nutrient cycling, disease suppression, aggregate formation) are driven by mesophilic organisms.
 - Soil temperatures in temperate growing regions typically remain within the mesophilic range during the growing season.
 
 ## Relevance to Cultivation and Mycology
@@ -62,7 +62,7 @@ Mesophilic organisms are microorganisms that thrive at **moderate temperatures**
 3. **Cold composting**: "Cool" or "cold" composting relies entirely on mesophilic organisms (never reaching thermophilic temperatures), resulting in slower decomposition but higher macro-organism diversity (worms, beetles, millipedes, arthropods).
 4. **Mushroom substrate colonization**: Most cultivated mushroom species grow optimally at mesophilic temperatures (20–30°C), and mesophilic microorganisms in substrates compete with or support mycelial growth.
 5. **Compost maturity**: The return of mesophilic organisms signals compost maturity — when mesophiles dominate and the pile no longer heats up after turning, compost is finished.
-6. **Cool compost benefits**: Maintaining a cool compost pile alongside hot compost provides greater organism diversity — more worms, beetles, millipedes, and arthropods that enhance the soil food web when applied.
+6. **Cool compost benefits**: Maintaining a cool compost pile alongside hot compost provides greater organism diversity — more worms, beetles, millipedes, and arthropods that enhance [[the-soil-food-web]] when applied.
 
 ## Temperature Management in Compost
 
@@ -72,10 +72,10 @@ Mesophilic organisms are microorganisms that thrive at **moderate temperatures**
 
 ## See Also
 
-- [[Thermophilic Organisms]]
-- [[Psychrophilic Bacteria]]
-- [[Bacillus spp.]]
-- [[Heliospirillum spp.]]
-- [[Actinomycetes]]
-- [[Streptomyces]]
-- [[C:N Ratio]]
+- [[thermophilic-organisms]]
+- [[psychrophilic-bacteria]]
+- [[bacillus-spp]]
+- [[heliospirillum-spp]]
+- [[actinomycetes]]
+- [[streptomyces]]
+- [[solomon-carbon-nitrogen-ratios]]

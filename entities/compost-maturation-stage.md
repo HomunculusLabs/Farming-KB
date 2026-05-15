@@ -7,7 +7,7 @@ tags: [composting, maturation, soil-food-web, lignin, basidiomycetes, actinomyce
 
 ## Description
 
-The compost maturation stage is the final phase of the composting process, beginning when the thermophilic phase subsides and temperatures drop back into the mesophilic range (below 104F / 40C). During maturation, the most resistant plant components -- particularly lignin -- are decomposed, and the compost develops its final character: dark, crumbly, coffee-colored, sweet-smelling humus teeming with diverse soil life. This stage is characterized by the return of mesophilic organisms from heat-protected endospores, intense activity by actinomycetes and basidiomycetes, and vigorous grazing by macrofauna (nematodes, springtails, worms, beetles). The maturation stage is critical because incomplete maturation leaves toxic intermediates and undecomposed compounds that can harm plants.
+The compost maturation stage is the final phase of the composting process, beginning when the thermophilic phase subsides and temperatures drop back into the mesophilic range (below 104F / 40C). During maturation, the most resistant plant components -- particularly lignin -- are decomposed, and the compost develops its final character: dark, crumbly, coffee-colored, sweet-smelling humus teeming with diverse [[soil-life]]. This stage is characterized by the return of [[mesophilic-organisms]] from heat-protected endospores, intense activity by actinomycetes and basidiomycetes, and vigorous grazing by macrofauna (nematodes, springtails, worms, beetles). The maturation stage is critical because incomplete maturation leaves toxic intermediates and undecomposed compounds that can harm plants.
 
 ## Classification
 
@@ -15,7 +15,7 @@ The compost maturation stage is the final phase of the composting process, begin
 - **Temperature range:** 68-104F (20-40C), gradually declining toward ambient
 - **Duration:** Weeks to months, depending on pile management
 - **Preceded by:** Thermophilic phase (104-150F / 40-65C)
-- **Key characteristic:** Lignin decomposition, earthy smell development, soil aggregate formation
+- **Key characteristic:** Lignin decomposition, earthy smell development, [[soil-aggregate-formation]]
 
 ## Key Facts
 
@@ -79,7 +79,7 @@ The compost maturation stage is the final phase of the composting process, begin
 
 - **Soil aggregate formation:** The mucus-mediated binding of particles by worms during maturation creates soil aggregates that improve water retention, aeration, and nutrient-holding capacity. These aggregates are the physical foundation of healthy soil structure.
 
-- **Beneficial biology inoculation:** Mature compost contains the complete complement of soil food web organisms -- bacteria, fungi, protozoa, and nematodes -- in balanced proportions. When applied to soil, this diversity inoculates depleted areas with a full food web.
+- **Beneficial biology inoculation:** Mature compost contains the complete complement of [[soil-food-web]] organisms -- bacteria, fungi, protozoa, and nematodes -- in balanced proportions. When applied to soil, this diversity inoculates depleted areas with a full food web.
 
 - **Nutrient cycling verification:** The plant test during maturation verifies that nutrients are being properly cycled through the food web. If plants show deficiencies, it indicates that protozoan and nematode predators are insufficient to graze bacteria and fungi and release plant-available nutrients.
 
@@ -93,5 +93,5 @@ The text also describes an alternative maturation approach: cold composting, whe
 
 ## References
 
-- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web*. Chapter 15: Compost.
+- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to [[the-soil-food-web]]*. Chapter 15: Compost.
 - The maturation stage is described in detail, including the return of mesophilic organisms, lignin decomposition by actinomycetes and basidiomycetes, and the role of macrofauna in final compost development.

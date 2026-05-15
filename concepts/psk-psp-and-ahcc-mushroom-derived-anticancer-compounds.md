@@ -67,7 +67,7 @@ First isolated in **1983** from cultured deep-layer [[mycelium]] of the **COU-1 
 - 1-3 and 1-4 arabinose linkages
 
 ### Binding Characteristics
-"Sephadex gel chromatography, DEAE-cellulose column chromatography and HPLC reveal that the polysaccharides and peptides of PSP are clearly bound and not separated. Where there is polysaccharide there is polypeptide."
+"Sephadex gel chromatography, DEAE-[[cellulose]] column chromatography and HPLC reveal that the polysaccharides and peptides of PSP are clearly bound and not separated. Where there is polysaccharide there is polypeptide."
 
 ### Clinical Profile
 "PSP is rapidly gaining recognition with many successful human cancer trials." It can be easily delivered by oral route, making it more practical for widespread use than intravenous alternatives.

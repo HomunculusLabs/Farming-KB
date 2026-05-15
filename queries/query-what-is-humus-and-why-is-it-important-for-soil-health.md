@@ -26,7 +26,7 @@ complex mixture of large carbon-based molecules that resist further breakdown,
 persisting in soil for hundreds or even thousands of years. The
 [[fungal-volatile-organic-compounds-communication]] and reassemble them into humic substances,
 including humic acids, fulvic acids, and humin. A particularly important fungal
-contribution is glomalin, a glycoprotein produced by [[soil-foodweb]], and those organisms in turn
+contribution is glomalin, a glycoprotein produced by [[soil-food-web]], and those organisms in turn
 produce more humus as they process organic matter. This living soil system
 creates a positive feedback loop: more humus supports more soil life, which
 produces more humus. However, this cycle can be broken by practices that

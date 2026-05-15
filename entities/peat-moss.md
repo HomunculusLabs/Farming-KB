@@ -7,7 +7,7 @@ tags: [soil-amendment, mulch, organic-matter, growing-medium]
 
 ## Description
 
-Peat moss (genus *Sphagnum*) is a partially decomposed organic material harvested from peat bogs and wetlands. It is widely used in horticulture as a soil amendment, mulch, and primary component of potting mixes. In the context of the soil food web, peat moss is characterized as **biologically sterile** — it contains very few living microorganisms compared to compost or other organic amendments. While it provides excellent physical properties (water retention, aeration, acidity), its biological sterility means it does not contribute living soil food web organisms and should be mixed with biologically active materials.
+Peat moss (genus *Sphagnum*) is a partially decomposed organic material harvested from peat bogs and wetlands. It is widely used in horticulture as a soil amendment, mulch, and primary component of potting mixes. In the context of [[the-soil-food-web]], peat moss is characterized as **biologically sterile** — it contains very few living microorganisms compared to compost or other organic amendments. While it provides excellent physical properties (water retention, aeration, acidity), its biological sterility means it does not contribute living [[soil-food-web]] organisms and should be mixed with biologically active materials.
 
 ## Classification
 
@@ -44,7 +44,7 @@ Peat moss (genus *Sphagnum*) is a partially decomposed organic material harveste
 ## Relevance to Cultivation and Mycology
 
 1. **Potting mixes**: Widely used as a base ingredient in commercial and homemade potting mixes for its water-holding capacity and light structure.
-2. **pH modification**: Useful for lowering soil pH for acid-loving crops and certain mushroom species that prefer acidic substrates.
+2. **pH modification**: Useful for lowering [[soil-ph]] for acid-loving crops and certain mushroom species that prefer acidic substrates.
 3. **Mushroom cultivation**: Sometimes used as a casing layer component due to its water retention and clean (sterile) nature, though it lacks the biological activity of peat-based casings that have been augmented with microbial supplements.
 4. **Substrate moisture management**: Can be blended into substrates to improve water retention without adding competing microorganisms.
 5. **Soil food web limitation**: Must be paired with compost or other biologically active amendments to achieve soil food web benefits; used alone, it provides only physical improvements.
@@ -64,7 +64,22 @@ Peat moss (genus *Sphagnum*) is a partially decomposed organic material harveste
 
 ## See Also
 
-- [[C:N Ratio]]
-- [[Vermicompost]]
-- [[Terpenes]]
-- [[Alfalfa Meal]]
+- [[solomon-carbon-nitrogen-ratios]]
+- [[vermicompost]]
+- [[terpenes]]
+- [[alfalfa-meal]]
+## Practical Applications
+Understanding this topic enables more effective decision-making in
+practical contexts. Key implementation considerations include assessing
+current conditions, establishing clear objectives, selecting appropriate
+methods, and monitoring outcomes for adaptive management. Success depends
+on aligning practices with underlying biological and ecological principles.
+Documentation and observation support continuous improvement over time.
+
+## See Also
+
+- [[query-what-is-the-difference-between-coco-coir-and-peat-moss]]
+- [[casing-soil-recipe-peat-vermiculite-limestone]]
+- [[hamilton-peat-free-gardening-and-alternatives]]
+- [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]]
+- [[comparison-coco-coir-vs-peat]]

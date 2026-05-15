@@ -9,7 +9,7 @@ tags: [mycology, biogeography, neurotropic-fungi, distribution, hongo, psilocybe
 
 ## Background
 
-Akira Hongo (1978) proposed nine types of geographical distribution for Japanese fungi, a biogeographic framework that Guzmán, Allen, and Gartz (1998) applied to neurotropic fungi worldwide. This classification system provides a structured way to understand the [[health-risks-of-hallucinogenic-mushrooms]] and related species.
+Akira Hongo (1978) proposed nine types of geographical distribution for Japanese fungi, a biogeographic framework that Guzmán, Allen, and Gartz (1998) applied to [[neurotropic-fungi]] worldwide. This classification system provides a structured way to understand the [[health-risks-of-hallucinogenic-mushrooms]] and related species.
 
 ## The Nine Distribution Types
 

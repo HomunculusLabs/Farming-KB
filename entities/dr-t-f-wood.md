@@ -78,5 +78,4 @@ This convergence, which Palmer described as remarkable, is now recognized as a c
 - **Geography**: North Carolina, United States
 - **Profession**: Physician
 
-
 This entry provides reference information about dr t f wood and its significance in its respective field.

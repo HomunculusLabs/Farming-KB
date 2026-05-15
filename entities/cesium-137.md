@@ -26,7 +26,7 @@ Cesium-137 (¹³⁷Cs) is a radioactive isotope of cesium with a half-life of ap
 - Uptake and accumulation of ¹³⁷Cs by upland grassland soil fungi documented as a potential pool of Cs immobilization (Dighton et al., 1991).
 - Ectomycorrhizal and [[saprotrophic-fungi]] can concentrate ¹³⁷Cs to levels significantly exceeding surrounding soil concentrations.
 - Chemical similarity to potassium (K⁺) facilitates uptake through potassium transport channels in fungal cell membranes.
-- Persists in forest ecosystems for decades due to fungal immobilization and recycling through organic soil horizons.
+- Persists in forest ecosystems for decades due to fungal immobilization and recycling through organic [[soil-horizons]].
 
 ## Relevance to Cultivation and Mycology
 

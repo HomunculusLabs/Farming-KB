@@ -74,7 +74,7 @@ Good for recovering stressed or slow-growing cultures.
 
 - Prepared agar solution (still hot/liquid)
 - Sterile petri dishes (pre-sterilized plastic or glass)
-- Still air box (SAB) or laminar flow hood
+- Still air box (SAB) or [[laminar-flow-hood]]
 - Isopropyl alcohol (70%)
 
 ### Process
@@ -145,9 +145,6 @@ Strain isolation is the process of selecting and separating individual genetic s
 Agar slants are test tubes partially filled with solidified agar, stored at cool temperatures. They allow long-term culture preservation (6-12 months) without the need for frequent transfers.
 
 ## See Also
-
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[straw-mushroom-cultivation]]
-- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]
+- [[agar-culture-technique]]
+- [[mushroom-sterile-technique]]
+- [[mushroom-cultivation-basics]]

@@ -28,7 +28,7 @@ The reduction in leaf litter loss and subsequent incorporation of organic matter
 
 ### Epiphytic Lichens and Throughfall Chemistry
 
-Even in temperate forest ecosystems, the changes occurring in stemflow water chemistry are sufficient to provide a suitable habitat for epiphytic lichen communities. Knops et al. (1996) demonstrated that the presence of the epiphytic lichen [[ramalina-menziesii]] on blue oak altered throughfall chemistry, thereby modifying nutrient availability in forest soil.
+Even in temperate forest ecosystems, the changes occurring in stemflow water chemistry are sufficient to provide a suitable habitat for epiphytic lichen communities. Knops et al. (1996) demonstrated that the presence of the epiphytic lichen [[ramalina-menusis]] on blue oak altered throughfall chemistry, thereby modifying nutrient availability in forest soil.
 
 They measured 590 kg ha⁻¹ of lichen biomass in the forest, compared with a standing crop of 958 kg ha⁻¹ of oak leaves. Trees with lichens had higher deposition of total nitrogen, organic nitrogen, calcium, magnesium, sodium, and chloride in throughfall rain than trees without lichens. Trees with lichens had lower throughfall of sulfate, while concentrations of nitrate, ammonium, potassium, and total phosphorus were not different.
 

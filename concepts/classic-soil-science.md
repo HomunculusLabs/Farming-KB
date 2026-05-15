@@ -147,10 +147,3 @@ The A horizon is the most biologically active and agriculturally important layer
 Below the A horizon, subsurface layers (E, B, C) become increasingly mineral-dominated — less relevant to farming but part of the complete profile.
 
 ## Key Takeaways for Farmers
-
-1. **Soil is a living system** — protect it.
-2. **Only ~10% of Earth's land is usable soil** — every acre matters.
-3. **Weathering builds soil minerals**; biological weathering shows life builds soil.
-4. **Organic matter at just 5%** drives most soil fertility and biological activity.
-5. **Air and water must be balanced** in pore spaces — compaction kills by suffocation.
-6. **The O and A horizons** are where the action is — preserve them with compost, mulch, and minimal disturbance.

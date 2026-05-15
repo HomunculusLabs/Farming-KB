@@ -9,7 +9,7 @@ type: concept
 ## Historical Context
 
 Before 1928, lawns were maintained using manure or compost top-dressing — practices
-that nourished the soil food web and sustained healthy turf for generations. The
+that nourished [[the-soil-food-web]] and sustained healthy turf for generations. The
 introduction of synthetic nitrogen fertilizers transformed lawn care into a
 multibillion-dollar industry built on a flawed premise: feeding plants directly while
 ignoring — and ultimately destroying — the living soil ecosystem that sustains them.
@@ -17,9 +17,9 @@ ignoring — and ultimately destroying — the living soil ecosystem that sustai
 ## How Chemical Fertilizers Work — And Why They're Destructive
 
 Chemical fertilizers deliver nutrients directly to plant roots, entirely bypassing
-the soil biology that naturally processes and regulates nutrient availability.
+the soil biology that naturally processes and regulates [[nutrient-availability]].
 
-**Rule #13: Chemical fertilizers kill soil food web microbes.**
+**Rule #13: Chemical fertilizers kill [[soil-food-web]] microbes.**
 
 Synthetic fertilizers are salts. When applied to soil, they create zones of high salt
 concentration. Through osmotic shock, water rushes out of microbe cells toward the
@@ -33,7 +33,7 @@ flee from chemical odor or perish from lack of food as their symbiotic partners 
 
 ## The pH Cascade
 
-Bacteria and fungi normally buffer soil pH. When eliminated by chemical fertilizers,
+Bacteria and fungi normally buffer [[soil-ph]]. When eliminated by chemical fertilizers,
 nitrate salts accumulate unchecked, causing pH to drop and creating perceived need for
 lime applications — another intervention that further disrupts the soil system.
 Removing grass clippings compounds this by stripping organic matter that would feed

@@ -27,7 +27,7 @@ Hypsizygus is a genus of hardwood-loving mushrooms that includes two commerciall
 
 ## Key Facts
 
-- Both species are brown rot mushrooms, important for soil-building ecology
+- Both species are [[brown-rot]] mushrooms, important for soil-building ecology
 - Easy to cultivate both indoors and outdoors (difficulty 1/5 for both)
 - Mycelium is white and linear, exuding a light yellow metabolite on overcolonized substrates
 - Sweet to slightly anise-like odor

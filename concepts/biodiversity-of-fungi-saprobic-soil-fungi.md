@@ -23,7 +23,7 @@ Among microorganisms inhabiting soils, fungi commonly rank as the most abundant 
 
 Grassland soils are enriched by organic accretion throughout the soil profile, especially from grass roots that are annual, finely divided, and contribute a biomass that far exceeds above-ground biomass. Forest soils, in contrast, are enriched by debris from a massive above-ground biomass plus substantial input from mycorrhizae. In deserts, desert-grasslands, and some forest communities, the above-ground debris often consists of relatively intact organic matter (litter) only. In mesic or wet grasslands and in most shrublands, heathlands, and forests, the superficial debris is underlain by an amorphous, aromatic layer of organic material (humus) that rests on mineral soil impregnated with humus.
 
-See also: fungal-biodiversity-in-soil-ecosystems, [[soil-foodweb]] dynamics.
+See also: fungal-biodiversity-in-soil-ecosystems, [[soil-food-web]] dynamics.
 
 3. **Soil Stabilization**: Fungi play a critical role in [[fungal-biodiversity]] matters.
 

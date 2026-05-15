@@ -33,7 +33,7 @@ Dr. Eric Nelson is a soil microbiologist at Cornell University whose research fo
 - **Assessment methodology**: Nelson's work supports the argument that direct microscopy reveals more about soil biological function than plate count methods, which capture only approximately 0.01% of soil organisms.
 - **Turf grass management**: His biological approaches to turf health demonstrate that [[building-soil]] biology can replace chemical disease management in lawns and sports fields.
 - **Compost tea validation**: Nelson's research provides scientific backing for the claim that biological assessment must go beyond simple bacterial enumeration to evaluate disease suppressiveness.
-- **Interdisciplinary collaboration**: The relationship between Nelson's work at Cornell and Ingham's [[soil-foodweb]] approach illustrates how multiple assessment methods each reveal different aspects of soil biology.
+- **Interdisciplinary collaboration**: The relationship between Nelson's work at Cornell and Ingham's [[soil-food-web]] approach illustrates how multiple assessment methods each reveal different aspects of soil biology.
 - **Practical implication**: For compost tea producers, Nelson's findings suggest that product quality should be assessed by organism type and biomass rather than total plate count numbers.
 
 ## Related Entities

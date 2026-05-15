@@ -45,7 +45,7 @@ leaves have vulnerary (wound-healing) properties when applied as
 poultices, and the plant has mild antibacterial activity against several
 respiratory pathogens. In permaculture, mullein's deep taproot breaks
 compacted soil layers and mines calcium, potassium, and magnesium, making
-it a valuable chop-and-drop mulch plant and pioneer species.
+it a valuable [[chop-and-drop]] mulch plant and pioneer species.
 
 ## Key Differences
 

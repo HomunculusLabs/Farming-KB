@@ -54,7 +54,7 @@ Pahnke assessed experiences using a modified version of philosopher
 **Walter T. Stace's** typology of mystical consciousness, measuring seven
 dimensions: unity, transcendence of time and space, deep positive mood,
 sense of sacredness, paradoxicality, ineffability, and transiency. **9 of
-10** psilocybin subjects reported a genuine mystical experience versus only
+10** psilocybin subjects reported a genuine [[mystical-experience]] versus only
 **1 of 10** controls -- a statistically significant result. Several
 subjects described the experience as among the most meaningful of their
 lives.

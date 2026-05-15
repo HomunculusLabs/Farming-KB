@@ -11,7 +11,7 @@ sources:
 # Amazonian Medicinal Plants in Amaringo's Visions
 
 Pablo Amaringo's [[amaringo-ayahuasca-visions-shipibo-iconography]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[harner-amazonian-ayahuasca-preparation-methods|Harner Amazonian Ayahuasca Preparation Methods]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

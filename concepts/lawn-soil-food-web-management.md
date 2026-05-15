@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Managing a lawn through its soil food web represents a fundamentally different approach from chemical lawn care. Instead of feeding grass directly with soluble salts, the gardener feeds soil microbes, which in turn feed the grass roots. This section covers assessment, feeding, aeration, weeding, pH management, and application techniques specific to lawn soil food web restoration.
+Managing a lawn through its [[soil-food-web]] represents a fundamentally different approach from chemical lawn care. Instead of feeding grass directly with soluble salts, the gardener feeds soil microbes, which in turn feed the grass roots. This section covers assessment, feeding, aeration, weeding, pH management, and application techniques specific to lawn soil food web restoration.
 
 ## Assessing Lawn Soil Biology
 
@@ -15,7 +15,7 @@ Managing a lawn through its soil food web represents a fundamentally different a
 Before applying amendments, assess the current state of the lawn's soil food web:
 
 - **Earthworms**: Their presence indicates healthy populations of bacteria, fungi, and protozoa (their food). Signs include birds hunting worms, worms visible after rain, and surface castings deposited at night
-- **Microarthropods**: Visible with a hand lens, macroscope, or light microscope. These assist with nutrient cycling, open grass clippings, and aerate soil. A Berlese funnel can extract and count them
+- **Microarthropods**: Visible with a hand lens, macroscope, or light microscope. These assist with nutrient cycling, open grass clippings, and aerate soil. A [[berlese-funnel]] can extract and count them
 - **Mushrooms**: Usually a positive sign indicating healthy fungal activity beneath the grass
 
 If worms and microarthropods are abundant, the lawn likely needs maintenance rather than full restoration.
@@ -24,14 +24,14 @@ If worms and microarthropods are abundant, the lawn likely needs maintenance rat
 
 ### Rule #14
 
-Avoid additives with NPK numbers greater than 10-10-10. A high phosphorus concentration (above 10) not only prevents mycorrhizal fungi from growing but kills existing populations, locking up phosphorus and making it unavailable to grass.
+Avoid additives with NPK numbers greater than 10-10-10. A high phosphorus concentration (above 10) not only prevents [[mycorrhizal-fungi]] from growing but kills existing populations, locking up phosphorus and making it unavailable to grass.
 
 ### Recommended Organic Microbe Foods
 
 | Product | NPK | Application Rate |
 |---------|-----|-----------------|
-| Soybean meal | 6-1-1 | 3–4 lbs/100 sq ft |
-| Alfalfa meal | — | 4 lbs/100 sq ft |
+| [[soybean-meal]] | 6-1-1 | 3–4 lbs/100 sq ft |
+| [[alfalfa-meal]] | — | 4 lbs/100 sq ft |
 | Blood meal | — | 4 lbs/100 sq ft |
 | Cottonseed meal | — | 4 lbs/100 sq ft |
 | Feather meal | — | 4 lbs/100 sq ft |

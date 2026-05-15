@@ -11,7 +11,7 @@ addictions and obsessive-compulsive patterns.
 
 ## Origins at Harvard
 
-Timothy Leary, working with Frank Barron and Richard Alpert at the Harvard
+[[timothy-leary]], working with Frank Barron and Richard Alpert at the Harvard
 research project, developed the concept of "consciousness expansion" to describe
 the effects of psychedelic substances when provided in a relatively unstructured
 but supportive, home-like setting.

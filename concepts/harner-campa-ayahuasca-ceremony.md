@@ -1,7 +1,7 @@
 ---
 title: Harner Campa Ayahuasca Ceremony
 created: 2026-04-26
-sources: Harner (ed.), [[hallucinogens-and-shamanism]] (1973), Ch. 4 (Weiss)
+sources: Harner (ed.), hallucinogens-and-shamanism (1973), Ch. 4 (Weiss)
 related:
   - amazonian-ayahuasca-shamanism
   - shamanism-vs-priesthood

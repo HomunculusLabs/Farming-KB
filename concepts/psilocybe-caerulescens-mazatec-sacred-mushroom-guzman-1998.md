@@ -60,7 +60,7 @@ As a confirmed psilocybin-containing species, P. caerulescens produces the follo
 
 ## Ecological Role
 
-P. caerulescens is a saprotrophic species that colonizes disturbed soils rich in organic matter. Its preference for landslide scars and road cuts suggests it plays an early successional role in soil colonization following disturbance. The species appears to benefit from soil disruption that breaks up compacted earth and exposes buried organic matter, creating favorable conditions for [[anemotropism-in-psilocybe-cubensis]]:** Larger, typically fruits on bovine dung rather than disturbed soil.
+P. caerulescens is a saprotrophic species that colonizes disturbed soils rich in organic matter. Its preference for landslide scars and road cuts suggests it plays an early successional role in soil colonization following disturbance. The species appears to benefit from soil disruption that breaks up compacted earth and exposes buried organic matter, creating favorable conditions for [[psilocybe-cubensis-anemotropism]]:** Larger, typically fruits on bovine dung rather than disturbed soil.
 - **Psilocybe mexicana:** Smaller, typically found in grassy areas and pastures rather than landslide zones.
 - **Psilocybe weilii:** Southeastern US species with similar habitat preferences for disturbed soils.
 - **[[psilocybe-hoogshagenii]]:** Related species with a persistent annulus; found in similar Mexican habitats.

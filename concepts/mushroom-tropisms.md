@@ -1,150 +1,150 @@
 ---
 title: Mushroom Tropisms
-slug: mushroom-tropisms
-source: tropisms-in-the-mushroom-psilocybe-cubensis
-tags:
-  - tropism
-  - mushroom
-  - psilocybe-cubensis
-  - phototropism
-  - geotropism
-  - anemotropism
-  - directional-growth
-created: 2026-05-10
+source: tropisms-in-the-mushroom-psilocybe-cubensis.md
+type: concept
 ---
 
 # Mushroom Tropisms
 
-Mushroom tropisms are directional growth responses to environmental
-stimuli that guide the basidiocarp ([[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] and dispersal. The primary tropisms include
-anemotropism (wind response), [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]."
-*Mycologia* 74(2):275-279.
-
-## Developmental Stages
-
-Badham (1982) identified four developmental stages in *P. cubensis*
-basidiocarp maturation, each marked by changes in pileus (cap) morphology
-and shifts in tropic responses.
-
-**Stage 1 — Slight Pileus Swelling:** The stipe elongates and the
-pileus begins to swell. Primary [[evaporative-demand-hypothesis-mushroom-growth]]. [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]]. Both anemotropic and geotropic forces shape
-fruiting body orientation.
-
-**Stage 4 — Plane Pileus (Late Maturity):** The pileus flattens
-into a plane configuration. Spore release continues or tapers off
-depending on environmental conditions.
-
-## The Two-Phase Growth Model
-
-Directed growth proceeds through two distinct phases governed by
-different tropic mechanisms.
-
-**Phase 1 — Anemotropic Stipe Elongation:** During primary stipe
-elongation (Stage 1), the mushroom orients growth toward greatest
-evaporative demand. This anemotropic response causes the stipe to grow
-into the wind. [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] explains this: the leeward
-side becomes more humid as wind redirects moisture, and the mushroom
-grows toward the drier windward side. Wind tunnel experiments confirmed
-this directional bias under controlled airflows.
-
-**Phase 2 — Negative Geotropism:** Beginning at Stage 2, negative
-geotropism takes over as the dominant orienting force. The pileus turns
-upward, positioning the lamellae for optimal gravitationally assisted
-spore release. This shift coincides with spore production onset, linking
-reproductive development and graviperception.
-
-## Anemotropism
-
-Anemotropism is the growth response to wind or air currents. In *P.
-cubensis*, the stipe grows toward greatest evaporative demand,
-corresponding to the windward side under wind conditions. The mechanism
-involves boundary layer redistribution: wind creates differential
-humidity, with the leeward side more humid. Growth is directed toward
-the drier side, causing the mushroom to lean into the wind. The
-zygomycete *Phycomyces* exhibits similar anemotropic and avoidance
-responses, suggesting conserved mechanisms across fungal lineages.
-Ethylene may be involved in avoidance, though its exact contribution in
-basidiomycetes remains to be elucidated.
-
-## Negative Geotropism
-
-Negative geotropism is the upward growth response opposing gravity. In
-*P. cubensis*, it begins at Stage 2 and positions the pileus so spores
-can fall freely and be carried by air currents.
+> Based on Badham, E.R. (1982). "Tropisms in the Mushroom *[[psilocybe-cubensis]]*."
+> *Mycologia* 74(2): 275–279.
 
 ## Overview
 
-Mushroom Tropisms represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
+The initiation and development of many mushrooms are controlled by environmental
+stimuli (Reijnders 1963; Taber 1973; Manachere 1980). While studies of tropisms
+have generally been confined to photo- and geotropism, Badham (1982) demonstrated
+that *Psilocybe cubensis* exhibits a two-phase system of directed growth
+involving both anemotropism (wind response) and negative geotropism (gravity
+response), with the transition linked to [[spore]] production.
 
-## Key Characteristics
+Different physiological stages have been described, and several workers have
+postulated mushroom hormones involved in tropisms (Gruen 1963; Hagimoto 1963).
+Decapitation experiments linked these hormones to the lamellae; agar diffusates
+from the gills can partially replace pileus influence. At least four light
+responses have been described for mushrooms; *P. cubensis* resembles *Coprinus
+congregatus* in this respect.
 
-Several defining characteristics distinguish mushroom tropisms
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
+## Materials and Methods
 
-## Ecological Context
+- **Substrate:** Isolate inoculated onto autoclaved brown rice in 50 mm Petri plates.
+- **Mutant control:** A sterile (sporeless) mutant was also studied.
+- **Primordia:** 15–25 mm high, placed in a closed-circuit wind tunnel
+  (43 × 30 × 20 cm) with a 12-hour photoperiod.
+- **Wind velocity:** 9 ± 3 cm/sec; **Humidity:** 94 ± 3% RH;
+  **Temperature:** 24.5 ± 1.5 °C; **Light:** 0.002 cal/cm²/min.
 
-The ecological relationships involving mushroom extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
+## Developmental Stages
 
-## Practical Applications
+| Stage | Description |
+|-------|-------------|
+| **Stage 1** | Slight swelling of the pileus. |
+| **Stage 2** | Pileus nearly spherical. |
+| **Stage 3** | Maturity (sporulation begins); open hemispherical pileus. |
+| **Stage 4** | Late maturity; pileus becomes plane. |
 
-Mushroom Tropisms finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
+## Phase 1 — Anemotropic Stipe Elongation (Stages 1–2)
 
-## Management and Implementation
+During Stages 1–2, stipe growth is directed **into the airflow**. Key observations:
 
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
+- If fruitbodies are rotated so the long stipe axis is perpendicular to the wind,
+  growth proceeds **upward**.
+- This response occurs under a 12-hour photoperiod **and** in complete darkness.
+- Both fertile and sterile (sporeless) basidiocarps exhibit the response.
+- Stipes directed away from the wind still bend toward it.
+- Upright cultures at Stage 2+ show **less bending**, suggesting sensitivity
+  declines with maturity.
+- When stipes at Stage 2 are rotated into parallel airflow, the result is stipe
+  elongation with pileus opening **into the wind**.
 
-## Regional Considerations
+### Proposed Mechanisms
 
-Different geographic regions present unique challenges and
-opportunities for mushroom tropisms. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
+Two mechanisms have been proposed for Phase 1 anemotropism:
 
-## Sustainability
+1. **Boundary layer redistribution.** The boundary layer is thicker on the
+   leeward side, causing differential evaporative demand that affects cell
+   growth rates. Wind, humidity, light, and temperature are all contributing
+   factors. Analogous to the anemotropism and avoidance response in *Phycomyces*.
+2. **Direct mechanical response** to the force of the wind itself.
 
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
+## Phase 2 — Negative Geotropism (Stage 2 onward)
 
-## Research and Development
+Beginning at Stage 2, a fundamentally different tropic response emerges in
+fertile basidiocarps under a 12-hour photoperiod:
 
-Ongoing research continues to expand understanding of
-mushroom tropisms and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
+- The pileus turns **upward** away from the wind direction.
+- The lamellae face **downwards**.
+- This negative geotropic curvature effectively **masks** the earlier anemotropic
+  response.
 
-## Historical Context
+### Conditions Required
 
-Mushroom Tropisms has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
+- **Fertility is essential.** The response does **not** occur in sterile
+  (sporeless) strains — a critical finding linking geotropic sensitivity to
+  spore production.
+- **Light is required.** The response does **not** occur in the absence of
+  light. Light may be necessary only insofar as it is required for spore
+  production.
 
-## Integration Strategies
+## Role of Light
 
-Successful integration of mushroom tropisms into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
+Light influences tropism in *P. cubensis* through at least two roles:
+- **Basidiocarp initiation** — light is required for the initial formation of
+  fruitbodies.
+- **Spore formation and geotropic sensitivity** — light appears necessary for
+  triggering spore production, which in turn activates the negative geotropic
+  response. Light could also influence tropism indirectly by heating the stipe
+  surface and increasing evaporative demand, or by triggering hormonal responses.
 
-## Challenges and Solutions
+## Two-Phase Model of Directed Growth
 
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
+The two phases operate through fundamentally different mechanisms:
+
+1. **Phase 1 — Primary stipe elongation** is oriented toward the greatest
+   evaporative demand (typically into the wind). Individual stipe cells respond
+   independently to local microenvironmental conditions, regardless of fertility
+   or light.
+2. **Phase 2 — Negative geotropism** is triggered by spore production and
+   mediated by a substance originating in the gills. This substance modifies the
+   first tropism, causing the mushroom to respond primarily to gravity. The
+   pileus reorients to a horizontal position for effective spore release.
+
+## Adaptive Significance
+
+### Anemotropism
+
+- Places caps in a favorable position for **[[spore-dispersal]]** by orienting
+  growth toward airflow.
+- Directed growth toward evaporative demand could increase **spacing between
+  cespitose stipes**, reducing competition and improving individual dispersal
+  efficiency.
+
+### Negative Geotropism
+
+- Particularly important for **lignicolous** (wood-dwelling) and
+  **coprophagous** (dung-inhabiting) species, since these habitats are
+  inherently unstable.
+- Effective spore dispersal demands a **horizontal pileus** orientation so that
+  spores fall freely from the gills.
+- The **partial veil** may protect the unexpanded stipe from wind and light
+  before the final readjustment to gravity-dominated growth.
+
+## Summary Table
+
+| Feature | Phase 1 (Anemotropism) | Phase 2 (Negative Geotropism) |
+|---------|----------------------|------------------------------|
+| **Stages** | 1–2 | 2 onward |
+| **Direction** | Into wind | Upward (against gravity) |
+| **Requires light?** | No | Yes (indirectly, for sporulation) |
+| **Requires fertility?** | No | Yes (sporeless mutants lack response) |
+| **Cellular basis** | Individual cell response | Hormonal signal from gills |
+| **Primary factor** | Evaporative demand / wind | Gravity |
+| **Masking** | Masked by Phase 2 | Overrides Phase 1 |
+
+## References
+- Badham, E.R. (1982). *Mycologia* 74(2): 275–279.
+- Gruen, H.E. (1963). Endogenous growth regulation in carpophores.
+- Hagimoto, H. (1963). Studies on the growth of fruit-bodies of fungi.
+- Manachere, G. (1980). Conditions essential for fruit body formation.
+- Reijnders, A.F.M. (1963). Développement des carpophores des [[agaricales]].
+- Taber, W.A. (1973). Microbial products as plant growth substances.

@@ -26,7 +26,7 @@ potassium than surrounding soil, along with significant amounts of calcium,
 magnesium, and micronutrients.
 
 The [[vermicompost-tea]] brewed from worm castings is
-widely used as a foliar spray and soil drench in [[soil-foodweb]] benefits enormously from vermicomposting. Worm castings
+widely used as a foliar spray and soil drench in [[soil-food-web]] benefits enormously from vermicomposting. Worm castings
 improve soil structure by increasing aggregate stability, enhancing water
 retention, and creating channels for root growth and air movement. The humic
 acids and plant [[vermicomposting]] system can process the

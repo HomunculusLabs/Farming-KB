@@ -23,8 +23,8 @@ Before examining the temperature phases, it is important to understand the five 
 The mesophilic stage is the initial phase of composting, dominated by organisms adapted to moderate temperatures. Even in this early stage, significant decomposition work begins:
 
 - **Cellulose breakdown** — straight, difficult-to-digest cellulose chains are depolymerized into smaller glucose chains, primarily by bacteria
-- **Brown rot fungi** (basidiomycetes) and certain bacteria (*Bacillus* spp., *Heliospirillum* spp.) break down other resistant materials
-- **Survival strategy** — mesophilic organisms produce endospores, which are resistant to chemicals and heat, allowing them to survive the upcoming high-temperature phase and return when conditions cool
+- **[[brown-rot]] fungi** (basidiomycetes) and certain bacteria (*Bacillus* spp., *Heliospirillum* spp.) break down other resistant materials
+- **Survival strategy** — [[mesophilic-organisms]] produce endospores, which are resistant to chemicals and heat, allowing them to survive the upcoming high-temperature phase and return when conditions cool
 - **Larger organisms** join the decomposition effort — soil arthropods and other invertebrates physically break apart organic matter, and microbial activity in their guts contributes further chemical breakdown
 
 **Psychrophilic bacteria** — those thriving at temperatures just above freezing (some as low as 32°F/0°C) — play a critical role in starting compost piles in spring after frozen winters. Their metabolic activity generates enough heat to wake up mesophilic organisms, which then take over.
@@ -90,3 +90,7 @@ Compost is mature when you can no longer recognize the original ingredients. Add
 
 - **Smell test** — good compost smells clean and earthy; bad smells (vomit, putrefaction, vinegar) indicate anaerobic conditions; ammonia smell means it's not finished
 - **Plant growth test** — plant seeds in the compost; good compost supports healthy growth, while incomplete compost shows nutrient deficiency symptoms due to locked-up nutrients
+
+## See Also
+- [[thermophilic-composting]]
+- [[vermicompost]]

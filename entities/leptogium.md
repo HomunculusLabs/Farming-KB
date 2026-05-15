@@ -78,5 +78,4 @@ Morphological and molecular characteristics distinguish this organism from relat
 
 Comparative studies reveal both shared characteristics and unique features relative to related organisms and concepts. Morphological, physiological, and genetic comparisons highlight the diversity within this group and its ecological significance. Cross-system analyses identify common patterns and context-dependent variations that advance our understanding of ecological processes.
 
-
 This entry provides reference information about leptogium and its significance in its respective field.

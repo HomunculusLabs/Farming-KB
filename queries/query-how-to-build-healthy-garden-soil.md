@@ -30,7 +30,7 @@ Understanding [[mushroom-compost]] | [[query-how-do-i-design-habitat-for-benefic
 
 ## Biochar for Long-Term Soil Improvement
 
-[[soil-foodweb]] cycles nutrients naturally and suppresses disease
+[[soil-food-web]] cycles nutrients naturally and suppresses disease
 - [[cannabis-living-soil-amendment-schedule]]
 
 ## See Also

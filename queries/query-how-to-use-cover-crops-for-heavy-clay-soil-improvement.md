@@ -38,7 +38,7 @@ Proper termination and incorporation of cover crops is crucial for maximizing th
 
 **Mechanical Termination**: Mowing or roller-crimping is suitable for crops like [[cover-crops]]. This method minimizes soil disturbance while killing the plants. The biomass can be left as surface mulch or lightly incorporated.
 
-**Tillage Incorporation**: For deep-rooted crops like [[cover-crops]] and [[soil-foodweb]] diversity increases, with greater populations of earthworms, beneficial fungi, and bacteria. Microbial activity rates improve, accelerating nutrient cycling.
+**Tillage Incorporation**: For deep-rooted crops like [[cover-crops]] and [[soil-food-web]] diversity increases, with greater populations of earthworms, beneficial fungi, and bacteria. Microbial activity rates improve, accelerating nutrient cycling.
 
 **Chemical Properties**: Nutrient availability increases as organic matter levels rise. Cation exchange capacity may improve slightly, but more importantly, nutrient retention becomes more dynamic rather than static.
 

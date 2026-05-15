@@ -32,7 +32,7 @@ Meanwhile, the phloem system distributes sugars and [[teaming-with-nutrients-com
 
 Several well-tested foliar spray formulations are commonly used in [[comparison-seaweed-extract-vs-fish-hydrolysate]] per gallon of water. Provides a broad spectrum of micronutrients including iron, manganese, zinc, and boron, plus natural growth hormones (cytokinins and auxins) that can stimulate plant growth. Safe for all plants and can be applied every 2-3 weeks during the growing season
 - **Fish emulsion spray**: Dilute 1-2 tablespoons of fish emulsion per gallon of water. Provides nitrogen (approximately 5% N), phosphorus, and trace minerals. The strong odor dissipates within 24-48 hours. Best used as a transplant starter or for nitrogen-deficient plants
-- **Compost tea foliar**: Apply actively aerated compost tea (AACT) as a foliar spray at 1:10 dilution. The living [[soil-foodweb]] remains the most effective and efficient approach. Foliar sprays are at best a supplementary tool for specific, temporary situations.
+- **Compost tea foliar**: Apply actively aerated compost tea (AACT) as a foliar spray at 1:10 dilution. The living [[soil-food-web]] remains the most effective and efficient approach. Foliar sprays are at best a supplementary tool for specific, temporary situations.
 
 ## See Also
 

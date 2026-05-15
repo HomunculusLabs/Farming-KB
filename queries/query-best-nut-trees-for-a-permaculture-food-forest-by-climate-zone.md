@@ -38,7 +38,7 @@ Choosing the right nut trees for your climate zone is one of the most important 
 **1. American Hazelnut (*Corylus americana*)**
 - Most reliable nut producer in Zone 3–4
 - Bears in 3–5 years from seed
-- Compact shrub (2–4 m) fits easily into food forest understory
+- Compact shrub (2–4 m) fits easily into [[food-forest]] understory
 - Excellent for hedgerows and windbreaks
 - Nuts are small (1–2 g) but produced prolifically
 

@@ -22,7 +22,7 @@ Actinomycetes are filamentous bacteria that bridge the gap between bacteria
 and fungi in the soil food web. They are primary decomposers of tough organic
 materials like cellulose, chitin, and lignin, produce antibiotics that
 suppress plant pathogens, contribute to the earthy smell of healthy soil, and
-form symbiotic partnerships with plants that enhance [[soil-foodweb]], sharing
+form symbiotic partnerships with plants that enhance [[soil-food-web]], sharing
 morphological characteristics with fungi while maintaining bacterial cellular
 structure. Their populations in healthy soil can reach 10 million per gram,
 and they are particularly abundant in alkaline soils and mature compost. The

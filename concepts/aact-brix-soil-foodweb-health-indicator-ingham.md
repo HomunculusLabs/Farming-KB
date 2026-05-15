@@ -72,7 +72,7 @@ The development and understanding of aact brix soil foodweb health indicator ing
 ## See Also
 - [[ingham-brix-plant-health-indicator-limitations]]
 - [[aact-glomalin-and-soil-aggregation-ingham]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[doc]]
 - [[brix-testing-plant-health-indicator-ingham]]
 

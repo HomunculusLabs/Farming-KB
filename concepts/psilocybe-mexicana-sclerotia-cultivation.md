@@ -83,7 +83,7 @@ optimization and contamination risk.
 ## Harvesting and Storage
 
 Sclerotia are harvested by breaking open the colonized jar and separating the
-hardened masses from the grass seed substrate. The sclerotia are typically
+hardened masses from the [[grass-seed-substrate]]. The sclerotia are typically
 firm, with a texture similar to nuts, and range in color from tan to brown.
 They should be rinsed clean of substrate particles and any uncolonized seed.
 

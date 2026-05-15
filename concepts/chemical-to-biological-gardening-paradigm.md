@@ -75,3 +75,5 @@ The shift from chemical to biological gardening has practical implications:
 5. **Think ecologically** — understand that garden health depends on the health of the entire soil ecosystem, not just nutrient levels
 
 This approach produces gardens that are not only more sustainable and environmentally responsible, but also more productive and resilient over time. Once a healthy soil food web is established, it becomes largely self-sustaining, reducing or eliminating the need for external chemical inputs.
+
+This topic connects to related areas including [[neurotropic-fungi-chemical-groups-classification]], [[singh-mycorrhizal-network-chemical-signaling-plants]], [[plant-olfaction-volatile-chemical-perception]].

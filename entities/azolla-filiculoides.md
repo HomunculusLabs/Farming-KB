@@ -27,7 +27,7 @@ symbiotic relationship with the nitrogen-fixing cyanobacterium *Nostoc
 azollae* (formerly *Anabaena azollae*), enabling it to fix atmospheric
 nitrogen at rates comparable to legumes.
 
-Azolla has been used for centuries in Asian rice paddies as a green manure
+Azolla has been used for centuries in Asian rice paddies as a [[green-manure]]
 and biofertilizer. Its rapid growth rate (doubling biomass in 2–5 days under
 optimal conditions), high protein content, and nitrogen-fixing capacity make
 it one of the most productive plants per unit area on Earth.

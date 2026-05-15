@@ -46,7 +46,7 @@ remedy for ear infections, particularly in children.
 As a permaculture plant, mullein excels as a dynamic mineral accumulator.
 Its thick taproot reaches 30–60 cm deep, mining calcium, potassium, and
 magnesium from subsoil. The large rosette produces substantial biomass for
-chop-and-drop mulch. Mullein acts as a pioneer species on disturbed, compacted
+[[chop-and-drop]] mulch. Mullein acts as a pioneer species on disturbed, compacted
 soils, initiating ecological succession. Its flowers attract bees, butterflies,
 and hoverflies, while its seeds feed finches and other birds.
 

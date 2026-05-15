@@ -18,7 +18,7 @@ sources:
 
 **Kalanchoe luciae** Raym.-Hamet is a stemless, monocarpic succulent native to southern Africa, widely known as the paddle plant or flapjacks. It is prized for its large, round, chalky-white leaves that flush vivid red-orange at the margins when stressed by sun and drought.
 
-The species is one of the most popular ornamental Kalanchoe cultivars in the global horticultural trade. It is frequently confused with *Kalanchoe thyrsiflora*, which has narrower, yellower leaves and a denser bloom.
+The species is one of the most popular ornamental Kalanchoe cultivars in the global horticultural trade. It is frequently confused with *[[kalanchoe-thyrsiflora]]*, which has narrower, yellower leaves and a denser bloom.
 
 Unlike many Kalanchoe species, *Kalanchoe luciae* does not produce plantlets along its leaf margins. It reproduces solely by seed and basal offsets after the mother plant flowers and dies.
 

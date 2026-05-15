@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-The most technically significant aspect of [[soil-foodweb]], including earthworms, springtails, and beneficial fungi, all of which contribute to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. No fertilizer is applied; no pesticides are sprayed; no weeding is performed.
+The most technically significant aspect of [[soil-food-web]], including earthworms, springtails, and beneficial fungi, all of which contribute to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. No fertilizer is applied; no pesticides are sprayed; no weeding is performed.
 
 ### Phase 2: Harvest and Transition (October–November)
 

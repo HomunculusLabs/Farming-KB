@@ -32,7 +32,7 @@ this threshold in a cow-bamboo integration system.
 ## Soil Food Web Connections
 
 The soil beneath the bamboo grove becomes a thriving ecosystem. Cow manure
-introduces [[soil-foodweb]] processes this material, making nutrients available to
+introduces [[soil-food-web]] processes this material, making nutrients available to
 
 ## Overview
 

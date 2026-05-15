@@ -51,7 +51,7 @@ Transmission: Primarily by aphids (over 60 aphid species) in a non-persistent ma
 
 Management:
 - Control aphid populations early in the season
-- Remove weed reservoirs (chickweed, pokeweed, milkweed are common hosts)
+- Remove weed reservoirs ([[chickweed]], pokeweed, milkweed are common hosts)
 - Use reflective mulches to deter aphid landing
 - Plant CMV-resistant varieties when available
 - Remove infected plants immediately to reduce source

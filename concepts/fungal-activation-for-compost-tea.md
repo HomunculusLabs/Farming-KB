@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungal activation is a pre-brewing technique used to boost fungal populations in compost tea. Rather than relying on the compost tea brewing process alone to grow fungi, the compost is first inoculated with fungal foods and incubated for several days. This gives fungi time to multiply and form robust mycelial networks before being brewed into aerated compost tea (ACT). The method is described in detail in *Teaming with Microbes* by Jeff Lowenfels and Wayne Lewis.
+Fungal activation is a pre-brewing technique used to boost fungal populations in compost tea. Rather than relying on the [[compost-tea-brewing]] process alone to grow fungi, the compost is first inoculated with fungal foods and incubated for several days. This gives fungi time to multiply and form robust [[mycelial-networks]] before being brewed into aerated compost tea (ACT). The method is described in detail in *Teaming with Microbes* by [[jeff-lowenfels]] and [[wayne-lewis]].
 
 ## The Problem: Fungi Don't Multiply During Brewing
 
@@ -23,7 +23,7 @@ This asymmetry between bacterial and fungal growth rates during brewing is the s
 
 ## The Solution: Pre-Brew Fungal Activation
 
-The solution is straightforward: give the fungi a head start by activating them in the compost *before* it goes into the tea brewer. By providing fungal foods and optimal incubation conditions, fungal hyphae grow, branch, and multiply over a period of days rather than hours. When this activated compost is then added to the tea brewer, the resulting tea contains a dramatically higher fungal biomass and diversity.
+The solution is straightforward: give the fungi a head start by activating them in the compost *before* it goes into the tea brewer. By providing fungal foods and optimal incubation conditions, [[fungal-hyphae]] grow, branch, and multiply over a period of days rather than hours. When this activated compost is then added to the tea brewer, the resulting tea contains a dramatically higher fungal biomass and diversity.
 
 ## Fungal Foods
 

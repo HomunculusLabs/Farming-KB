@@ -6,7 +6,7 @@ type: concept
 
 # Carbon-to-Nitrogen Ratio and Compost Microbial Dominance
 
-The carbon-to-nitrogen (C:N) ratio is the single most important factor determining whether a compost pile will support fungal or bacterial dominance in its finished product. By manipulating the types and proportions of materials fed to a compost pile, a gardener can produce compost specifically tailored to the needs of different plant types — fungal compost for trees and perennials, or bacterial compost for vegetables and annual flowers.
+The carbon-to-nitrogen (C:N) ratio is the single most important factor determining whether a [[compost]] pile will support fungal or bacterial dominance in its finished product. By manipulating the types and proportions of materials fed to a compost pile, a gardener can produce compost specifically tailored to the needs of different plant types — fungal compost for trees and perennials, or bacterial compost for vegetables and annual flowers.
 
 ## The Ideal C:N Ratio
 
@@ -38,7 +38,7 @@ Green materials are fresh, succulent organic matter high in nitrogen and simple 
 - Grass clippings
 - Fresh-picked weeds
 - Kitchen scraps
-- Alfalfa meal
+- [[alfalfa-meal]]
 
 The fresher the green material, the more nitrogen it contributes. These provide simple, easy-to-digest sugars and abundant nitrogen that fuel rapid bacterial growth.
 
@@ -85,7 +85,7 @@ Including some fungal material in all composts prevents them from becoming too a
 
 ### Chemical Contamination
 
-Inorganic fertilizers, pesticides, herbicides, miticides, and fungicides kill soil food web organisms and must never be included in compost. Many of these chemicals are non-selective, eliminating the very microbes responsible for generating heat and driving decomposition. Even if they eventually break down, they may persist long enough to contaminate the finished product.
+Inorganic fertilizers, pesticides, herbicides, miticides, and fungicides kill [[soil-food-web]] organisms and must never be included in compost. Many of these chemicals are non-selective, eliminating the very microbes responsible for generating heat and driving decomposition. Even if they eventually break down, they may persist long enough to contaminate the finished product.
 
 ### Particle Size
 
@@ -114,4 +114,4 @@ Proper moisture content is critical throughout composting:
 
 ## Cool Composting as an Alternative
 
-For gardeners who cannot manage hot composting, cool (cold) composting is a viable alternative: simply pile organic matter in a corner and leave it. While decomposition takes a year or more (versus weeks for hot composting), the end product is still compost. Cool compost tends to have higher populations of worms, beetles, millipedes, and micro- and macroarthropods, contributing valuable diversity to the soil food web. Maintaining a cool compost pile alongside hot composting is recommended for maximizing organismal diversity.
+For gardeners who cannot manage hot composting, cool (cold) composting is a viable alternative: simply pile organic matter in a corner and leave it. While decomposition takes a year or more (versus weeks for hot composting), the end product is still compost. Cool compost tends to have higher populations of worms, beetles, millipedes, and micro- and macroarthropods, contributing valuable diversity to [[the-soil-food-web]]. Maintaining a cool compost pile alongside hot composting is recommended for maximizing organismal diversity.

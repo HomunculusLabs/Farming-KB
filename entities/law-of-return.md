@@ -75,7 +75,6 @@ The Law of Return is a foundational principle of organic agriculture articulated
 - Howard, Albert. *An Agricultural Testament*. Oxford University Press, 1940.
 - Lowenfels, Jeff. *Teaming with Nutrients*. Timber Press.
 
-
 ## Notes
 
 Law Of Return plays an important role in its respective domain. Proper understanding of its characteristics and appropriate application methods ensures effective use in practice.

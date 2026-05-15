@@ -2,7 +2,7 @@
 title: The Sunken Hearth and the Extinction of Village Culture
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: masanobu-fukuoka
-tags: [[[natural-farming]], japan, village-culture, modernization, irori, philosophy, mu, tradition, mechanization]
+tags: [[mulching-in-natural-farming]], japan, village-culture, modernization, irori, philosophy, mu, tradition, mechanization]
 date: 2026-05-11
 updated: 2026-05-11
 type: concept

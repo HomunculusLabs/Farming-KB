@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis Therapeutic Index Overview
 
-The Cannabis Health Index (CHI) by Uwe Blesching provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from clinical trials, case studies, and preclinical research using a standardized index.
+The [[cannabis-health-index]] (CHI) by Uwe Blesching provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from clinical trials, case studies, and preclinical research using a standardized index.
 
 ## Evidence Grading System
 

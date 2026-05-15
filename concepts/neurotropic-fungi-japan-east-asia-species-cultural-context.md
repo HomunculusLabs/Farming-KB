@@ -56,7 +56,7 @@ identity of the sacred Soma plant described in the Rig Veda (Wasson,
 India has a notably rich neurotropic mycoflora, with particular
 diversity in Psilocybe and Copelandia:
 - **[[guzman-allen-gartz-neurotropic-fungi-asia]].md)
-- [[[amanita-muscaria-and-ibotenic-acid-containing-fungi]] [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] Fungi](amanita-muscaria-and-ibotenic-acid-fungi.md)
+- [[amanita-muscaria-and-ibotenic-acid-containing-fungi]] [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] Fungi](amanita-muscaria-and-ibotenic-acid-fungi.md)
 - Psilocybe Venenata
 ## Practical Considerations
 

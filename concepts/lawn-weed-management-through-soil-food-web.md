@@ -7,14 +7,14 @@ type: concept
 # Lawn Weed Management Through Soil Food Web
 
 The presence of specific weeds in a lawn is not random — it is a direct indicator of soil
-conditions. Rather than fighting weeds with chemicals, the soil food web approach addresses
+conditions. Rather than fighting weeds with chemicals, [[the-soil-food-web]] approach addresses
 the underlying imbalances that allow weeds to thrive. By managing the microbial community
 in the soil, lawns can become self-regulating systems that naturally resist weed invasion.
 
 ## Core Principle: Weeds as Soil Indicators
 
 Every weed tells a story about what is missing or out of balance in the soil. Rather than
-eradicating the messenger, the soil food web approach corrects the conditions that invited
+eradicating the messenger, the [[soil-food-web]] approach corrects the conditions that invited
 the weed in the first place. Healthy soil biology creates conditions favorable to grasses
 and unfavorable to weeds.
 
@@ -28,7 +28,7 @@ the upper soil layer, and dandelions effectively mine themselves out of existenc
 **To accelerate the process:**
 - Boost fungal activity — fungi tie up and retain calcium far more effectively than
   bacteria, cycling it into plant-available forms in the root zone.
-- Apply corn gluten meal (10-10-10, a byproduct of corn starch production) as an organic
+- Apply [[corn-gluten-meal]] (10-10-10, a byproduct of corn starch production) as an organic
   preemergent. Time application as weeds begin to go to seed — it prevents new seeds from
   developing secondary roots while simultaneously feeding the soil food web.
 
@@ -136,7 +136,7 @@ For immediate weed removal without chemicals:
 
 ## Applying Compost Tea to Lawns
 
-- Use slightly bacterial Actively Aerated Compost Tea (AACT).
+- Use slightly bacterial [[actively-aerated-compost-tea]] (AACT).
 - Application rate: 5 gallons per acre.
 - Delivery methods include a traveling sprinkler with an inline fertilizer dispenser
   filled with tea, a gas blower on a gentle setting (can mist an acre in 5-10 minutes),

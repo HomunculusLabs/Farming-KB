@@ -53,7 +53,7 @@ If tea smells bad, apply it only to non-food areas (weeds, bare soil needing [[a
 - [[aact-pathogen-safety-ingham]]
 - [[ingham-field-guide-compost-tea-ingredients-and-recipes]]
 - [[aact-brewing-methodology]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[det]]
 
 ## Overview

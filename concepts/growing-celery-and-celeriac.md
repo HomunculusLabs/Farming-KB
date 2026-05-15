@@ -6,7 +6,7 @@ type: concept
 
 # Growing Celery and Celeriac
 
-Celery and celeriac require deep sandy loam soil to grow to perfection. Soils containing more than about 25% clay will not grow great celery; clay soils (more than half clay) are out of the question. However, an herbal form called "Chinese" celery or "cutting" celery is far better adapted to poor situations — it's a short-stalked type with a stronger flavor.
+Celery and celeriac require deep sandy [[loam-soil]] to grow to perfection. Soils containing more than about 25% clay will not grow great celery; clay soils (more than half clay) are out of the question. However, an herbal form called "Chinese" celery or "cutting" celery is far better adapted to poor situations — it's a short-stalked type with a stronger flavor.
 
 ## Soil Requirements
 

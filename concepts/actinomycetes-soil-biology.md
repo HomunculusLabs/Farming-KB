@@ -15,7 +15,7 @@ Actinomycetes are a group of filamentous bacteria that play critical roles in so
 - Their filamentous growth physically binds soil particles together
 - They produce polysaccharides and other sticky compounds that act as biological glues
 - Their hyphae help form and stabilize soil microaggregates
-- Combined with bacterial slimes and fungal [[soil-foodweb]]
+- Combined with bacterial slimes and fungal [[soil-food-web]]
 
 Actinomycetes occupy an intermediate position in the  brewing:
 - Good quality compost used as the tea starter should contain diverse actinomycete populations

@@ -10,7 +10,7 @@ This concept covers the fundamentals of cultivating [[amanita-muscaria-legal-alt
 
 ## Why Cultivate?
 
-The author notes that because *[[anemotropism-in-psilocybe-cubensis]]* is so widely distributed and abundant across the southern United States, there is little practical need for cultivation. However, cultivation offers several advantages: year-round availability independent of seasonal conditions, controlled potency, privacy, and reliable supply. Cultivation also eliminates the legal risks associated with trespassing on private pastures to forage.
+The author notes that because *[[psilocybe-cubensis-anemotropism]]* is so widely distributed and abundant across the southern United States, there is little practical need for cultivation. However, cultivation offers several advantages: year-round availability independent of seasonal conditions, controlled potency, privacy, and reliable supply. Cultivation also eliminates the legal risks associated with trespassing on private pastures to forage.
 
 ## Compost Preparation
 

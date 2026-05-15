@@ -43,7 +43,6 @@ type: entity
 - In grain spawn preparation for mushroom cultivation, soybean meal is sometimes added to grain to boost protein and nitrogen content for more vigorous mycelial growth.
 - The GMO issue intersects with fungal cultivation: mushroom mycelium growing on GMO soybean substrate may interact differently with the novel proteins, though this area is under-researched.
 
-
 ## Properties and Characteristics
 
 The soybean meal exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

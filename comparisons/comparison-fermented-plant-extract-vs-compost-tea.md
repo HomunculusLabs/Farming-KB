@@ -86,4 +86,4 @@ then maintain it with regular FPE applications for crop-specific nutrition.
 ## See Also
 
 - [[compost-tea-recipe-guide]]
-- [[soil-foodweb]]
+- [[soil-food-web]]

@@ -42,7 +42,7 @@ Soil structure refers to the arrangement of soil particles into aggregates (clus
 
 ## Key Facts
 
-- Soil structure and the soil food web are inseparable: the biology creates the structure, and the structure provides habitat for the biology.
+- Soil structure and [[the-soil-food-web]] are inseparable: the biology creates the structure, and the structure provides habitat for the biology.
 - Without a functioning soil food web, soil structure deteriorates: compaction increases, drainage decreases, and air exchange fails.
 - An acre of good garden soil contains 900 lbs each of earthworms and arthropods — all constantly engineering soil structure.
 - Aggregates range in size from microaggregates (<0.25mm, bound by bacterial slime and fungal hyphae) to macroaggregates (>0.25mm, bound by roots and fungal networks).

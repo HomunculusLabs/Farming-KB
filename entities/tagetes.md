@@ -23,7 +23,7 @@ Tagetes is a genus of annual and perennial herbaceous plants in the aster family
 
 ## Key Facts
 
-- **Nematode suppression**: Tagetes roots release thiophene compounds (particularly alpha-terthienyl) that are toxic to root-knot nematodes (Meloidogyne spp.) and other soil nematodes, making them one of the most effective biological nematode controls available
+- **Nematode suppression**: Tagetes roots release thiophene compounds (particularly alpha-terthienyl) that are toxic to root-knot nematodes (Meloidogyne spp.) and other [[soil-nematodes]], making them one of the most effective biological nematode controls available
 - **[[keyhole-bed]] designs
 - Tolerant of the high temperatures and light conditions found in desert gardens
 - Requires minimal water once established

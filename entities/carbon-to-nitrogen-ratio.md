@@ -7,7 +7,7 @@ tags: [composting, soil-science, nutrient-cycling, chemistry, technique]
 
 ## Description
 
-The carbon-to-nitrogen ratio (C:N ratio) is the ratio of the mass of carbon to the mass of nitrogen in organic matter. It is the single most important chemical parameter in composting, mulching, and soil food web management. The ideal C:N ratio for making compost is approximately 25:1 to 30:1. This ratio determines how quickly organic materials decompose, which microbial communities dominate, and whether nitrogen becomes available to plants or is temporarily immobilized by microbes. Understanding and manipulating the C:N ratio is fundamental to the soil food web gardening approach.
+The carbon-to-nitrogen ratio (C:N ratio) is the ratio of the mass of carbon to the mass of nitrogen in organic matter. It is the single most important chemical parameter in composting, mulching, and [[soil-food-web]] management. The ideal C:N ratio for making compost is approximately 25:1 to 30:1. This ratio determines how quickly organic materials decompose, which microbial communities dominate, and whether nitrogen becomes available to plants or is temporarily immobilized by microbes. Understanding and manipulating the C:N ratio is fundamental to [[the-soil-food-web]] gardening approach.
 
 ## Classification
 
@@ -26,7 +26,7 @@ The carbon-to-nitrogen ratio (C:N ratio) is the ratio of the mass of carbon to t
 
 - **Brown vs. green materials:** The C:N ratio underpins the distinction between brown (carbon-rich, fungal-supporting) and green (nitrogen-rich, bacterial-supporting) composting materials:
   - **Brown materials** (high C:N): Autumn leaves (40:1 to 80:1), sawdust (500:1), paper (170:1), bark, wood chips, twigs
-  - **Green materials** (low C:N): Grass clippings (~19:1), fresh weeds, kitchen scraps, alfalfa meal
+  - **Green materials** (low C:N): Grass clippings (~19:1), fresh weeds, kitchen scraps, [[alfalfa-meal]]
 
 - **Mulch and nitrogen robbing:** When mulch with a C:N ratio of 30:1 or greater is applied to soil surface, decaying microbes may deplete nitrogen at the soil-mulch interface. This primarily affects the thin contact zone and rarely impacts the rhizosphere below. Using wood chips 3/8 inch or larger reduces bacterial colonization and minimizes this effect.
 
@@ -74,7 +74,7 @@ The C:N ratio governs the entire soil food web's nutrient cycling:
 
 ## Relevance to Cultivation and Mycology
 
-- **Mushroom substrate formulation:** The C:N ratio of mushroom substrates must be carefully controlled. Different species have different optimal ratios. Wood-loving species (Shiitake, Oyster) prefer high C:N substrates like sawdust supplemented with modest nitrogen sources.
+- **[[mushroom-substrate-formulation]]:** The C:N ratio of mushroom substrates must be carefully controlled. Different species have different optimal ratios. Wood-loving species (Shiitake, Oyster) prefer high C:N substrates like sawdust supplemented with modest nitrogen sources.
 
 - **Compost for mushroom cultivation:** Agaricus and other compost-grown mushrooms require substrates with carefully managed C:N ratios throughout the composting process. The initial mix, composting phases, and final substrate all have target ratios.
 

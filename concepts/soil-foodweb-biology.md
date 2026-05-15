@@ -73,7 +73,7 @@ plants; and physical barriers created by mycorrhizal hyphae around roots.
 
 ## References
 
-- Ingham, E.R. *The Field Guide I for Actively Aerated Compost Tea*.
+- Ingham, E.R. *The Field Guide I for [[actively-aerated-compost-tea]]*.
   Sustainable Studies Institute, 2004.
 
 ## Overview

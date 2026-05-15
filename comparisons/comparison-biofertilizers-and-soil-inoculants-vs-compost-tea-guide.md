@@ -43,7 +43,7 @@ The brewing process itself is educational. Farmers who brew compost tea develop 
 
 For farmers new to biological management, starting with compost tea is often easier than evaluating and selecting among the many biofertilizer products on the market. The brewing process teaches core concepts about [[biofertilizers-and-soil-inoculants]]
 - [[legume-nitrogen-fixation-mechanism]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 
 ## Overview
 

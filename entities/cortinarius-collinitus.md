@@ -29,7 +29,7 @@ Cortinarius collinitus, commonly known as the smeared cortinarius or the blue-gi
 - **Gills:** Attached, close; initially pale violet-blue, becoming rusty cinnamon-brown as spores mature
 - **Stem:** 6-12 cm tall, cylindrical, often covered with a gelatinous sheath; frequently with bluish-violet zones, especially near the apex; sometimes with banded appearance from cortina remnants
 - **Flesh:** Pale to slightly bluish; firm
-- **Spore print:** Rusty brown (diagnostic for the genus)
+- **[[spore-print]]:** Rusty brown (diagnostic for the genus)
 - **Odor/Taste:** Slight, not distinctive
 
 ## Key Facts

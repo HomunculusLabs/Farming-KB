@@ -11,7 +11,7 @@ sources:
 # Mycoremediation of Pesticide and Herbicide Contamination
 
 Fungi possess remarkable abilities to degrade a wide array of synthetic pesticides and herbicides through diverse biochemical mechanisms. [[fungal-pesticide-and-herbicide-degradation]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[singh-fungal-degradation-of-pesticides-and-agrochemicals|Singh Fungal Degradation Of Pesticides And Agrochemicals]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

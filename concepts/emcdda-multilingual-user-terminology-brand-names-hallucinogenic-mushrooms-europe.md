@@ -91,7 +91,7 @@ In the late 1990s, as smartshops commercialized hallucinogenic mushrooms, produc
 
 ### Sclerotia Marketing
 
-The term **"Philosopher's stones"** for *Psilocybe mexicana* sclerotia represents a notable example of commercial naming innovation. Sclerotia (also called truffles) are dense masses of mycelium that serve as nutrient storage organs for the fungus. In the smartshop context, they were marketed as a distinct product category from fresh or dried mushrooms, with the alchemical name adding perceived mystique and value.
+The term **"Philosopher's stones"** for *[[psilocybe-mexicana]]* sclerotia represents a notable example of commercial naming innovation. Sclerotia (also called truffles) are dense masses of mycelium that serve as nutrient storage organs for the fungus. In the smartshop context, they were marketed as a distinct product category from fresh or dried mushrooms, with the alchemical name adding perceived mystique and value.
 
 ### Strain and Variety Names
 

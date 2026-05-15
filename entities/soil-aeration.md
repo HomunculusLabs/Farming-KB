@@ -42,7 +42,6 @@ type: entity
 - Tunnels and burrows created by soil fauna further increase the air- and water-holding capabilities of well-structured soils.
 - The balance between air and water in soil pores is delicate: too much water displaces air, causing anaerobic conditions that harm both plants and beneficial fungi.
 
-
 ## Properties and Characteristics
 
 The soil aeration exhibits distinct physical and chemical properties that determine its application and effectiveness. Understanding these properties is essential for proper selection and use in agricultural and horticultural contexts.

@@ -24,7 +24,7 @@ related_concepts:
 
 # Geoff Hamilton — The Organic Gardening Companion
 
-Geoff Hamilton (1936–1996) was one of Britain's most beloved gardening
+[[geoff-hamilton]] (1936–1996) was one of Britain's most beloved gardening
 broadcasters and the presenter of BBC Television's *Gardeners' World*
 for seventeen years. His book *The Organic Gardening Companion*, later
 revised and expanded by his son Nick Hamilton, stands as one of the most

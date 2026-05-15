@@ -20,7 +20,7 @@ before the plants set seed.
 
 Cover crops are one of the most powerful tools available for building healthy
 soil in any growing system, from backyard vegetable gardens to broadacre
-farms. The [[soil-foodweb]]. Bacteria,
+farms. The [[soil-food-web]]. Bacteria,
 fungi, earthworms, and other soil organisms consume this fresh organic
 matter, converting it into stable [[ozier-pdc-composting-and-soil-building|nitrogen cycle]] in your
 garden becomes more self-sustaining when legume cover crops are rotated

@@ -58,7 +58,7 @@ nitrate back to atmospheric N2 under waterlogged conditions, representing a
 nitrogen loss pathway. This is why good drainage in
 mollison-soil-gaseous-exchange-and-micro-sites.
 
-The implications for [[soil-foodweb]] as a pyramid of feeding relationships:
+The implications for [[soil-food-web]] as a pyramid of feeding relationships:
 
 1. **Primary producers**: Photosynthetic plants and algae (above ground and
    at the soil surface).

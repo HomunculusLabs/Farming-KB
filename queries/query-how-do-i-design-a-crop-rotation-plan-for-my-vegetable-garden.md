@@ -26,7 +26,7 @@ season, you break the pest's life cycle and reduce populations without
 chemical intervention. Similarly, soil-borne diseases like clubroot in
 brassicas and fusarium wilt in tomatoes build up in soil when the same
 family is planted repeatedly. Rotation is a foundational practice in
-[[soil-foodweb]] benefits enormously from well-designed crop
+[[soil-food-web]] benefits enormously from well-designed crop
 rotations. Different plant families exude different root exudates —
 sugars, amino acids, and organic acids — that feed different communities
 of soil microorganisms. By rotating through diverse plant families, you

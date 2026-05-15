@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Araucaria heterophylla, commonly known as the Norfolk Island pine, is a large evergreen conifer endemic to Norfolk Island in the Pacific Ocean. In permaculture literature, it is classified as a **wind-tolerant (wind-fast)** species, one of the frontline plants capable of withstanding severe coastal and maritime winds with minimal yield reduction. Mollison specifically recommends it for alternate (zig-zag) windbreak plantings on seafronts to reduce salt burn and provide shelter for denser plantings behind.
+Araucaria heterophylla, commonly known as the [[norfolk-island-pine]], is a large evergreen conifer endemic to Norfolk Island in the Pacific Ocean. In permaculture literature, it is classified as a **wind-tolerant (wind-fast)** species, one of the frontline plants capable of withstanding severe coastal and maritime winds with minimal yield reduction. Mollison specifically recommends it for alternate (zig-zag) windbreak plantings on seafronts to reduce salt burn and provide shelter for denser plantings behind.
 
 ## Classification
 

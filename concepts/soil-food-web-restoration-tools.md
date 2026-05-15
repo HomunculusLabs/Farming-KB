@@ -6,7 +6,7 @@ type: concept
 
 # Soil Food Web Restoration Tools
 
-Once a gardener understands the biology of the [[soil-food-web]], the next logical question is: *what do I do with this knowledge?* The answer lies in three core tools that form the practical foundation of soil food web gardening: [[compost]], [[mulch]], and actively aerated compost tea (AACT). Together, these three strategies allow gardeners to ensure their soil food webs are robust enough to provide adequate nutrients and protection for plants — without relying on synthetic fertilizers, pesticides, or tilling.
+Once a gardener understands the biology of the [[soil-food-web]], the next logical question is: *what do I do with this knowledge?* The answer lies in three core tools that form the practical foundation of soil food web gardening: [[compost]], [[organic-mulch-soil-food-web]], and [[actively-aerated-compost-tea]] (AACT). Together, these three strategies allow gardeners to ensure their soil food webs are robust enough to provide adequate nutrients and protection for plants — without relying on synthetic fertilizers, pesticides, or tilling.
 
 ## The Three Tools at a Glance
 
@@ -18,21 +18,21 @@ Once a gardener understands the biology of the [[soil-food-web]], the next logic
 
 ## Why These Tools Matter
 
-The [[soil-food-web]] is a complex, interdependent community of [[bacteria]], [[fungi]], [[protozoa]], and [[nematodes]] — along with microarthropods and earthworms — that cycle nutrients, suppress disease, and build soil structure. When this web is intact and functioning, plants receive steady nutrition through natural decomposition and predation cycles, rather than through soluble fertilizer salts that bypass biological processes.
+The [[soil-food-web]] is a complex, interdependent community of [[bacteria-and-microorganisms-in-mushroom-fruiting]], [[fungi-in-garden-ecosystems]], [[protozoa-and-soil-ecology]], and [[nematodes-in-soil-ecology]] — along with microarthropods and earthworms — that cycle nutrients, suppress disease, and build soil structure. When this web is intact and functioning, plants receive steady nutrition through natural decomposition and predation cycles, rather than through soluble fertilizer salts that bypass biological processes.
 
-The three restoration tools work in concert to build, maintain, and reinforce this biological community. They are the practical application of everything the soil food web gardener has learned about soil biology.
+The three restoration tools work in concert to build, maintain, and reinforce this biological community. They are the practical application of everything [[the-soil-food-web]] gardener has learned about soil biology.
 
 ## 1. Compost — The Inoculant
 
-[[Compost]] is the first and most fundamental tool. Its primary role is to **inoculate** soil with a full complement of the organisms that make up the [[soil-food-web]]. A properly made compost contains:
+[[compost]] is the first and most fundamental tool. Its primary role is to **inoculate** soil with a full complement of the organisms that make up the [[soil-food-web]]. A properly made compost contains:
 
-- **[[Bacteria]]** — the primary decomposers of simple organic compounds
-- **[[Fungi]]** — decomposers of more complex materials, critical for woody plant nutrition
-- **[[Protozoa]]** — bacterial grazers that release plant-available nitrogen
-- **[[Nematodes]]** — both bacterial-feeding and fungal-feeding, providing nutrient cycling and some pest regulation
+- **[[bacteria-and-microorganisms-in-mushroom-fruiting]]** — the primary decomposers of simple organic compounds
+- **[[fungi-in-garden-ecosystems]]** — decomposers of more complex materials, critical for woody plant nutrition
+- **[[protozoa-and-soil-ecology]]** — bacterial grazers that release plant-available nitrogen
+- **[[nematodes-in-soil-ecology]]** — both bacterial-feeding and fungal-feeding, providing nutrient cycling and some pest regulation
 - **Microarthropods** — further cycling of nutrients and physical soil aeration
 
-When compost is applied to soil, it seeds the area with these organisms, jump-starting or reinforcing the biological community. The key is applying *proper* compost — compost that has been made with sufficient diversity of starting materials and managed to encourage the right balance of [[bacteria]] and [[fungi]]. Not all compost is created equal; a compost dominated by only bacterial biomass will favor weeds and early-succession plants, while a compost with significant fungal content is needed to support perennials, shrubs, and trees.
+When compost is applied to soil, it seeds the area with these organisms, jump-starting or reinforcing the biological community. The key is applying *proper* compost — compost that has been made with sufficient diversity of starting materials and managed to encourage the right balance of [[bacteria-and-microorganisms-in-mushroom-fruiting]] and [[fungi-in-garden-ecosystems]]. Not all compost is created equal; a compost dominated by only bacterial biomass will favor weeds and early-succession plants, while a compost with significant fungal content is needed to support perennials, shrubs, and trees.
 
 ### Application Considerations
 
@@ -44,7 +44,7 @@ When compost is applied to soil, it seeds the area with these organisms, jump-st
 
 If compost introduces the organisms, **mulch** is what keeps them alive and thriving. Organic mulches — such as leaves, grass clippings, straw, wood chips, and shredded bark — serve two critical functions:
 
-1. **They provide food.** As mulch breaks down from the bottom up, it supplies a steady stream of organic carbon that feeds [[bacteria]] and [[fungi]] in the soil surface. This ongoing decomposition is essentially what makes mulch a form of "cold [[compost]]."
+1. **They provide food.** As mulch breaks down from the bottom up, it supplies a steady stream of organic carbon that feeds [[bacteria-and-microorganisms-in-mushroom-fruiting]] and [[fungi-in-garden-ecosystems]] in the soil surface. This ongoing decomposition is essentially what makes mulch a form of "cold [[compost]]."
 2. **They provide habitat.** Mulch creates a buffered microclimate beneath it — cooler temperatures in summer, warmer in winter, and consistent moisture levels. This environment is ideal for the soil organisms that form the [[soil-food-web]].
 
 ### The "Cold Compost" Concept
@@ -54,8 +54,8 @@ Mulch can be thought of as **cold compost** — compost in slow motion. Where a 
 ### Choosing the Right Mulch
 
 - **Leaves** — excellent all-purpose mulch; support both bacterial and fungal growth
-- **Wood chips** — high in carbon, favor [[fungi]]; ideal around trees and shrubs
-- **Grass clippings** — nitrogen-rich, favor [[bacteria]]; good for annual vegetable beds
+- **Wood chips** — high in carbon, favor [[fungi-in-garden-ecosystems]]; ideal around trees and shrubs
+- **Grass clippings** — nitrogen-rich, favor [[bacteria-and-microorganisms-in-mushroom-fruiting]]; good for annual vegetable beds
 - **Straw** — balanced carbon-to-nitrogen ratio; widely available and versatile
 
 Mulching the right way means applying an appropriate depth (typically 2–4 inches), keeping it away from direct contact with plant stems to prevent rot, and replenishing it as it decomposes.
@@ -66,7 +66,7 @@ Actively aerated compost tea (AACT) is the third tool, and it extends the reach 
 
 ### What AACT Contains
 
-When properly brewed, AACT contains essentially the same spectrum of [[bacteria]], [[fungi]], [[protozoa]], and [[nematodes]] found in the source compost, but in liquid form. This liquid delivery system opens up applications that are impossible with solid compost:
+When properly brewed, AACT contains essentially the same spectrum of [[bacteria-and-microorganisms-in-mushroom-fruiting]], [[fungi-in-garden-ecosystems]], [[protozoa-and-soil-ecology]], and [[nematodes-in-soil-ecology]] found in the source compost, but in liquid form. This liquid delivery system opens up applications that are impossible with solid compost:
 
 - **Foliar spraying** — AACT can be sprayed directly onto plant leaves, coating the leaf surfaces with beneficial organisms that compete with pathogens and stimulate plant immune responses
 - **Soil drenching** — AACT can be watered into soil to quickly boost microbial populations in the root zone
@@ -110,7 +110,7 @@ The soil food web gardener's toolkit is elegantly simple: **apply proper compost
 ## See Also
 
 - [[compost]] — detailed guide to making and applying quality compost
-- [[mulch]] — types, application methods, and material selection
+- [[organic-mulch-soil-food-web]] — types, application methods, and material selection
 - [[soil-food-web]] — the biological community these tools support
 - [[mycorrhizal-fungi]] — fungal partners critical for plant nutrition
-- [[bacteria]], [[fungi]], [[protozoa]], [[nematodes]] — key members of the soil food web
+- [[bacteria-and-microorganisms-in-mushroom-fruiting]], [[fungi-in-garden-ecosystems]], [[protozoa-and-soil-ecology]], [[nematodes-in-soil-ecology]] — key members of the soil food web

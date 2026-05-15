@@ -1,6 +1,6 @@
 # Hybrid vs Open-Pollinated Seed Nutrition and Variety Decline
 
-**Source:** Gardening When It Counts — Steve Solomon (2005)
+**Source:** [[gardening-when-it-counts]] — Steve Solomon (2005)
 
 ## Core Concept
 

@@ -20,7 +20,7 @@ Mobile nutrients can be redistributed from older tissues to areas of new growth 
 - Plants require nitrogen for amino acid synthesis, enzyme production, and chlorophyll formation
 - Available as both ammonium (NH₄⁺) and nitrate (NO₃⁻), with form affecting [[soil-ph]]
 - Atmospheric nitrogen (78% of air) is unavailable to plants without microbial fixation
-- The nitrogen cycle involves microbial partners (Rhizobia in legumes, free-living bacteria)
+- The [[nitrogen-cycle]] involves microbial partners (Rhizobia in legumes, free-living bacteria)
 - Excess nitrogen promotes lush vegetative growth at the expense of flowers and fruit
 
 ### Phosphorus (P)
@@ -28,7 +28,7 @@ Mobile nutrients can be redistributed from older tissues to areas of new growth 
 - Deficiency shows as purplish or bluish-green discoloration of older leaves
 - Critical for root development, flower formation, seed production, and energy transfer (ATP)
 - Readily fixed (bound) by aluminum and iron in acidic soils, by calcium in alkaline soils
-- Mycorrhizal fungi dramatically increase phosphorus availability to plants
+- [[mycorrhizal-fungi]] dramatically increase [[phosphorus-availability]] to plants
 - The phosphorus cycle is relatively slow compared to the nitrogen cycle
 - Phosphate-solubilizing bacteria (biofertilizers) can help release bound phosphorus
 
@@ -147,46 +147,3 @@ Multiple soil and environmental factors affect whether nutrients are accessible 
 - Both drought and waterlogging reduce nutrient availability
 - Mass flow of dissolved nutrients to roots depends on water movement
 - Excess water displaces oxygen, creating anaerobic conditions that change nutrient chemistry
-
-### Soil Aeration
-- Well-aerated soils support beneficial microbial activity
-- Anaerobic conditions reduce nitrogen fixation and promote denitrification
-- Compaction reduces root penetration and limits access to nutrients
-
-### Organic Matter
-- Increases cation exchange capacity, holding more nutrients
-- Provides slow-release nutrients as it decomposes
-- Supports microbial populations that solubilize nutrients
-- Buffers soil pH changes
-- Humus improves soil structure, water retention, and nutrient cycling
-
-## Macronutrients Summary
-
-The six macronutrients required in relatively large quantities:
-
-| Nutrient | Symbol | Mobile? | Primary Functions |
-|----------|--------|---------|-------------------|
-| Nitrogen | N | Yes | Amino acids, chlorophyll, enzymes, growth |
-| Phosphorus | P | Moderate | Roots, flowers, seeds, energy (ATP) |
-| Potassium | K | Yes | Enzyme activation, stomatal control, disease resistance |
-| Calcium | Ca | No | Cell walls, membrane integrity, signaling |
-| Magnesium | Mg | Yes | Chlorophyll center, enzyme activation |
-| Sulfur | S | Moderate | Amino acids (cysteine, methionine), proteins, enzymes |
-
-## Diagnostic Approach
-
-When diagnosing nutrient problems:
-
-1. **Note which leaves show symptoms** — older leaves suggest mobile nutrient deficiency; new growth suggests immobile nutrient deficiency
-2. **Check soil pH** — this single factor can explain multiple deficiency symptoms simultaneously
-3. **Consider soil type** — sandy soils leach mobile nutrients; clay soils may bind nutrients
-4. **Review recent practices** — over-fertilization of one nutrient can induce deficiency of another (antagonism)
-5. **Get a soil test** — the only reliable way to confirm nutrient status and pH
-6. **Consider microbial health** — mycorrhizal fungi, Rhizobia, and phosphate-solubilizing bacteria affect nutrient availability
-
-## See Also
-
-- [[soil-food-web]] — The biological system that cycles and delivers nutrients
-- [[mycorrhizal-fungi]] — Symbiotic fungi that extend nutrient uptake
-- nitrogen fixation — Biological conversion of atmospheric nitrogen
-- [[soil-ph-and-nutrient-availability]] — How pH controls nutrient access

@@ -25,7 +25,7 @@ for crop production. The IMO process:
 as the ideal soil type, [[stamets-substrate-supplementation-strategies-mushroom-cultivation]].
 Together, these approaches address soil physical structure,
 biological activity, and [[fukuoka-natural-farming]]
-- [[soil-foodweb]]
+- [[soil-food-web]]
 - [[jadam-soil-management-principles]]
 
 ## Overview

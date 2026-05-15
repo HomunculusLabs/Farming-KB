@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Enzyme inhibition is the reduction of catalytic activity when a molecule binds to an enzyme, changes the enzyme's accessible
+[[enzyme]] inhibition is the reduction of catalytic activity when a molecule binds to an enzyme, changes the enzyme's accessible
 conformations, or covalently modifies a functional group required for catalysis. The inhibitor may resemble a substrate, mimic a
 transition state, occupy an allosteric pocket, chelate a metal cofactor, or react with a catalytic residue.
 

@@ -16,7 +16,7 @@ type: concept
 
 # Honey Locust Pod Fodder System
 
-The honey locust (Gleditsia triacanthos) is a moderately fast-growing,
+The honey locust ([[gleditsia-triacanthos]]) is a moderately fast-growing,
 long-lived leguminous tree native to [[permaculture-food-forests-design-course]]
 integration.
 
