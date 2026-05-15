@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2924 pages**
+**2923 pages**
 
 ## #
 
@@ -2479,7 +2479,6 @@
 - [[rock-inhabiting-oligotrophic-extremophilic-fungi]]
 - [[rock-penetrating-fungi]]
 - [[rodale-mycorrhizal-inoculum]]
-- [[root-exudates]]
 - [[root-exudates-rhizosphere]]
 - [[rozella-intracellular-parasitism-chytridiomycota]]
 - [[russula-edible-species]]

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1406 pages**
+**1408 pages**
 
 ## A
 
@@ -62,6 +62,7 @@
 - [[comparison-astragalus-vs-ashwagandha]]
 - [[comparison-astragalus-vs-chamomile]]
 - [[comparison-astragalus-vs-echinacea]]
+- [[comparison-astragalus-vs-lemon-balm]]
 - [[comparison-astragalus-vs-reishi]]
 - [[comparison-astragalus-vs-rhodiola]]
 - [[comparison-astragalus-vs-tulsi]]
@@ -1425,6 +1426,7 @@
 - [[query-what-is-tissue-culture-and-why-does-it-matter-for-growers]]
 - [[query-what-is-trap-cropping-and-how-does-it-work]]
 - [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
+- [[query-what-plants-can-i-grow-near-black-walnut-trees]]
 - [[query-when-and-how-should-i-prune-my-fruit-trees]]
 - [[query-when-should-i-flush-my-cannabis-plants-before-harvest]]
 - [[query-when-should-i-use-slip-form-stone-construction]]

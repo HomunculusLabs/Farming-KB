@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1359 pages**
+**1364 pages**
 
 ## A
 
@@ -109,6 +109,10 @@
 - [[chamovitz-what-a-plant-knows-overview]]
 - [[chelation-and-metal-binding-in-plants]]
 - [[chelation-and-mineral-uptake-in-plants]]
+- [[chemical-to-biological-gardening-paradigm]]
+- [[chemical-to-organic-gardening-paradigm]]
+- [[chemical-vs-biological-gardening]]
+- [[chemical-vs-organic-gardening-transition]]
 - [[chitting-and-presprouting-seeds]]
 - [[chrysanthemum-greenhouse-photoperiod-manipulation]]
 - [[chrysanthemum-greenhouse-photoperiod-manipulation-detailed]]
@@ -292,6 +296,7 @@
 - [[container-gardening-techniques]]
 - [[container-growing-vegetables-herbs]]
 - [[contour-line-water-management]]
+- [[conventional-vs-biological-gardening]]
 - [[cool-climate-glasshouse-orchard-design]]
 - [[cool-climate-home-garden-and-seed-saving]]
 - [[cool-climate-home-garden-design]]
