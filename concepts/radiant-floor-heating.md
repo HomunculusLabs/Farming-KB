@@ -17,9 +17,9 @@ Unlike forced-air systems that heat air and blow it into a room, radiant heating
 
 - Even temperature distribution (no hot/cold spots)
 - No drafts or fan noise
-- No dust circulation (better air quality)
+- No dust circulation (better [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]])
 - Comfort at lower air temperatures (you feel warm even if air is cooler)
-- Compatibility with [[passive-solar-design|passive solar]] thermal mass floors
+- Compatibility with [[passive-solar-design|passive solar]] [[comparison-windbreak-vs-thermal-mass]] floors
 
 ## Types of Radiant Floor Heating
 
@@ -39,12 +39,12 @@ Circulates heated water through PEX tubing embedded in the floor.
 
 1. **Slab-on-grade (Most Common for New Construction)**
    - PEX tubing stapled to wire mesh or rebar before pouring concrete
-   - Tubing spacing: 6-12 inches on center (tighter in cold climates)
+   - Tubing spacing: 6-12 inches on center (tighter [[query-how-do-i-grow-figs-in-cold-climates]])
    - 2-4 inches of concrete above the tubing provides thermal mass
    - Insulation (2 inches rigid foam) beneath the slab prevents downward heat loss
 
 2. **Thin-Slab Over Subfloor**
-   - PEX attached to subfloor with aluminum heat transfer plates
+   - PEX attached to subfloor with aluminum [[albedo-absorption-and-heat-transfer]] plates
    - 1-1.5 inches of lightweight concrete or gypcrete poured over
    - Lower thermal mass but faster response time
    - Good for retrofits

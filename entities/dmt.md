@@ -1,137 +1,81 @@
 ---
-title: "Dmt"
+title: DMT (Dimethyltryptamine)
+source: leary-t-the-psychedic-experience.md
+type: entity
 ---
 
-# N,N-Dimethyltryptamine (DMT)
+# DMT (Dimethyltryptamine)
 
-**N,N-Dimethyltryptamine (DMT)** is a naturally occurring indolealkylamine tryptamine and one of the most potent psychedelic compounds known. Found across plants, animals, and potentially in the human brain, DMT produces profoundly [[psilocybin-mystical-experiences-personality-change]] — typically lasting 5–30 minutes when smoked or injected.
+## Description
 
-## Chemical Identity
+Dimethyltryptamine (DMT) is a powerful naturally occurring psychedelic compound of the tryptamine family. It is found in numerous plant species across multiple continents and, remarkably, is also produced endogenously in the human brain — specifically in the [[pineal-gland]] and other neural tissues. Its presence in the human body has led to considerable speculation about its role in dreaming, near-death experiences, and mystical states.
 
-- **IUPAC:** N,N-dimethyl-2-(1H-indol-3-yl)ethan-1-amine
-- **Formula:** C₁₂H₁₆N₂ | **MW:** 188.27 g/mol | **CAS:** 54-11-5
-- **SMILES:** CN(C)CCC1=CNC2=C1C=CC=C2
-- **Appearance:** White crystalline powder (freebase); white solid (fumarate salt)
-- **Melting point:** 44–46 °C (freebase); 165–168 °C (fumarate)
-- **Solubility:** Freebase soluble in organic solvents; fumarate [[yopo-anadenanthera-peregrina-snuff]]* | Yopo | Seeds | 0.04–0.6 |
+In *The Psychedelic Experience*, Leary references DMT in two distinct contexts: as a primary psychedelic agent at full dose and as a "set-breaker" or booster during ongoing sessions with other psychedelics. Its extremely rapid onset and short duration make it pharmacologically unique among classical psychedelics.
 
-### Animal Sources
-Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin secretions (note: *Bufo alvarius* contains 5-MeO-DMT, not DMT).
+## Classification
 
-## Pharmacology
+- **Chemical class:** Tryptamine alkaloid
+- **Pharmacological class:** Serotonin 5-HT2A receptor agonist (classical psychedelic / hallucinogen)
+- **Legal status:** Schedule I controlled substance in the United States and most jurisdictions worldwide; ayahuasca preparations containing DMT have received limited religious exemptions in certain countries
+- **Type:** Naturally occurring indole alkaloid (also synthetically producible)
 
-### Receptor Binding
-| Receptor | Ki | Activity |
-|----------|----|----------|
-| **5-HT₂A** | ~200 nM | Full agonist (primary psychedelic mechanism) |
-| **5-HT₂C** | ~200 nM | Full agonist |
-| **5-HT₁A** | ~1 µM | Partial agonist |
-| **[[dmt-entity-encounters-and-the-logos]]
+## Dosage Information (per Leary)
 
-### Intensity Scale (Smoked)
-| Dose | Level |
-|------|-------|
-| 5–15 mg | Threshold; mild visual distortion |
-| 15–30 mg | Moderate; open-eye visuals, altered thought |
-| 30–50 mg | Strong; immersive visuals, time distortion |
-| 50–75 mg | Breakthrough; ego dissolution, entity contact |
+The Psychedelic Experience provides two distinct dosage protocols for DMT:
 
-## Traditional Use
+| Context | Dosage | Route | Purpose |
+|---------|--------|-------|---------|
+| Full transcendental session | 50–60 mg | Intramuscular (IM) injection | Complete psychedelic experience equivalent to 500 mcg LSD |
+| Session booster / set-breaker | 50 mg | Intramuscular (IM) injection | Interrupt repetitive game-routines during ongoing sessions |
 
-- **Ayahuasca:** Amazonian brew combining DMT plants with MAO-inhibiting *Banisteriopsis caapi*; used by 70+ indigenous groups for [[johns-hopkins-psychedelic-research]]:** First FDA-approved IV DMT trial for major depressive disorder (2021+)
-- **Imperial College London:** fMRI/EEG mapping of DMT's effects on brain connectivity
-- **Therapeutic targets:** Depression, anxiety, substance use disorders, PTSD, end-of-life anxiety
-- DMT has become a key tool for consciousness research due to its rapid, intense, reversible alterations of conscious state
+The intramuscular route is specified because DMT is not orally active as a sole agent — it is rapidly degraded by monoamine oxidase (MAO) in the gut. Oral activity requires combination with an MAO inhibitor, as in the traditional [[ayahuasca-preparation]].
 
-## Legal Status
+## Pharmacokinetics
 
-- **US:** Schedule I; **UN:** Schedule I (1971 Convention)
-- **Brazil:** Legal for religious ayahuasca use (regulated since 1987)
-- **Canada:** Schedule III; ayahuasca protected in several jurisdictions for indigenous ceremonies
-- Plant material legal status varies — extracted compound is controlled everywhere
+- **Route of administration:** Intramuscular injection, inhalation (vaporized/smoked), or oral with MAO inhibitor
+- **Onset (IM):** Extremely rapid — within minutes
+- **Peak effects:** Reached within 5–15 minutes
+- **Total duration (IM):** Approximately 30 minutes for full-dose experience
+- **After-effects:** Rapid return to baseline within 1–2 hours
 
-## Harm Reduction
+The extraordinary brevity of DMT's action — producing a full psychedelic experience compressed into roughly 30 minutes — distinguishes it sharply from LSD and mescaline, whose effects last 8–10 hours. This pharmacokinetic profile has earned DMT the popular description as the "businessman's trip."
 
-- **Psychological:** Panic, traumatic experiences, latent psychiatric triggering (especially schizophrenia-spectrum)
-- **Physical:** Very low risk; transient BP/HR increase; nausea (oral preparations)
-- **[[lsd-set-and-setting-framework]] critical** — experienced sitter recommended
-- **Contraindications:** Psychotic disorders, cardiovascular disease, pregnancy, MAOIs/SSRIs (serotonin syndrome risk)
+## Key Facts
 
-## See Also
+1. DMT is endogenously produced in the human body, with detectable levels in cerebrospinal fluid, blood, and urine.
+2. [[rick-strassman]]'s clinical research at the University of New Mexico (1990–1995) produced the first FDA-approved human DMT studies in over two decades, documented in *DMT: The Spirit Molecule* (2000).
+3. DMT is a core component of ayahuasca, the Amazonian psychoactive brew that combines DMT-containing plants (*[[psychotria-viridis]]*, *Diplopterys cabrerana*) with MAO inhibitor-containing vines (*[[banisteriopsis-caapi]]*).
+4. The compound produces some of the most intense and otherworldly visionary experiences reported with any psychedelic, including encounters with apparently autonomous entities.
+5. DMT is structurally related to serotonin (5-hydroxytryptamine) and psilocin (4-HO-DMT), the active metabolite of psilocybin.
+6. Its presence has been confirmed in over 60 plant species across at least 20 families.
 
-## Overview
+## Relevance to Psychedelic Studies
 
-Dmt represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
+In *The Psychedelic Experience*, DMT occupies a specialized role. At full dose (50–60 mg IM), Leary describes it as producing a complete transcendental experience equivalent in depth to 500 mcg of LSD — the highest dose range recommended in the text. The experience is every bit as profound but compressed into a fraction of the time.
 
-## Key Characteristics
+As a "set-breaker" at 50 mg, DMT serves a therapeutic function within ongoing sessions. When a voyager becomes trapped in repetitive thought-patterns or "game-routines" — cyclical ego-defenses that prevent deeper exploration — a DMT injection can shatter the loop and reopen the experience to new phenomenological territory. This application reflects Leary's understanding that psychedelic sessions can stagnate, and that pharmacological intervention may be necessary to restore momentum toward transcendence.
 
-Several defining characteristics distinguish dmt
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
+The concept of using a short-acting psychedelic as a booster or reset mechanism within a longer session is pharmacologically sophisticated and reflects the practical clinical experience of Leary's research group at Harvard and subsequent venues.
 
-## Ecological Context
+## Biological and Philosophical Significance
 
-The ecological relationships involving dmt extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
+The discovery of endogenous DMT in the human brain has profound implications for understanding consciousness. Researchers including Strassman have hypothesized that DMT may be released in large quantities during birth, death, and dream states, potentially mediating mystical or near-death experiences. While this hypothesis remains unproven, it resonates with the Tibetan Book of the Dead framework that Leary employs.
 
-## Practical Applications
+## Safety Considerations
 
-Dmt finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
+- The intensity of the DMT experience can be overwhelming; rapid onset leaves little time for psychological preparation once effects begin.
+- Intramuscular injection carries standard risks associated with needle use (infection, improper technique).
+- Hypertension and elevated heart rate are common during onset.
+- Psychological integration of the experience may require support, given its extreme intensity and otherworldly content.
+- DMT should not be combined with SSRIs or MAO inhibitors without expert knowledge (serotonin syndrome risk with MAOIs + DMT is complex and dose-dependent).
 
-## Management and Implementation
+## Role as Set-Breaker
 
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
+The use of DMT as a "set-breaker" is one of the more distinctive pharmacological strategies described in The Psychedelic Experience. When a psychedelic session becomes stuck in repetitive loops — what Leary terms "game-routines" — the ego cycles through familiar defensive patterns, preventing the deeper exploration that the session is intended to facilitate. A 50 mg IM injection of DMT shatters these loops by introducing an overwhelming surge of psychedelic intensity that the ego cannot maintain its defensive structures against. This creates an opening — a window of vulnerability and plasticity — through which the voyager can re-engage with the transformative process. The strategy recognizes that psychedelic sessions are not uniformly deepening experiences; they have plateaus, regressions, and dead ends that may require active intervention to overcome.
 
-## Regional Considerations
+## Contraindications
 
-Different geographic regions present unique challenges and
-opportunities for dmt. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-dmt and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
-
-## Historical Context
-
-Dmt has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
-
-## Integration Strategies
-
-Successful integration of dmt into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
+- Individuals with personal or family history of psychotic disorders.
+- Cardiovascular conditions including hypertension and arrhythmia.
+- Concurrent use with MAO inhibitors (in ayahuasca context, this is intentional and managed).
+- Pregnancy (insufficient safety data).

@@ -17,7 +17,7 @@ type: concept
 #  have attracted significant attention
 from the scientific community since the early 2000s. Researchers have
 investigated its potential as a treatment for depression, anxiety, and
-substance use disorders, given its unique kappa opioid receptor
+substance use disorders, given its unique [[salvinorin-a-kappa-opioid-receptor-pharmacology]]
 mechanism. Unlike classical psychedelics, salvinorin A produces no
 tolerance with repeated use, making it unusual among psychoactive
 compounds. However, its intense and often dysphoric effects have
@@ -50,7 +50,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Salvia Divinorum and the Diviner's Sage. These include both technical difficulties and broader systemic
+[[golden-guide-salvia-divinorum-and-diviner-sage]] the Diviner's Sage. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.
@@ -71,7 +71,7 @@ better results with each iteration of practice and experimentation.
 ## Overview
 
 Schultes Salvia Diviners Sage represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Schultes Salvia Diviners Sage finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,7 +100,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 schultes salvia diviners sage and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,12 +1,12 @@
 ---
-title: Jivaro Shamanism and Natem
+title: [[harner-jivaro-shamanism-yage]] and Natem
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
 # Jivaro Shamanism and Natem
 
-The Jivaro Indians of the Ecuadorian Amazon maintain one of the most vividly documented shamanistic traditions in the ethnographic literature, centered on the use of a hallucinogenic brew called **natem** (or *natemd*). As described by anthropologist Michael J. Harner, the Jivaro worldview holds that normal waking life is simply a "lie" or illusion, while the true forces determining daily events are supernatural and can only be perceived through hallucinogenic experience.
+The Jivaro Indians of the Ecuadorian Amazon maintain one of the most vividly documented shamanistic traditions in the ethnographic literature, centered on the use of a hallucinogenic brew called **natem** (or *natemd*). As described by anthropologist Michael J. Harner, the Jivaro worldview holds that normal waking life is simply a "lie" or illusion, while the true forces determining daily events are supernatural and can only be perceived through [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]].
 
 ## The Jivaro Worldview: Ordinary Life as Illusion
 
@@ -18,14 +18,14 @@ This worldview creates a particularly strong demand for specialists who can cros
 
 The Jivaro hallucinogenic drink, called natem, is prepared from:
 
-- **Banisteriopsis caapi** vine segments — the primary ingredient
+- **[[ayahuasca-and-banisteriopsis-caapi]]** vine segments — the primary ingredient
 - **Leaves of a second Banisteriopsis-like vine** — added to the brew
 
 The brew contains the powerful hallucinogenic alkaloids **harmaline**, **harmine**, **d-tetrahydroharmine**, and quite possibly **N,N-dimethyltryptamine (DMT)**.
 
 ## High Prevalence of Shamanism
 
-The use of natem makes it possible for almost anyone to achieve the trance state essential for shamanic practice. Given the presence of the drug and the felt need to contact the supernatural world, approximately **one out of every four Jivaro men** is a shaman—a remarkably high proportion. Women rarely become shamans, but when they do, they are considered particularly powerful because they are believed to possess special spirit helpers.
+The use of natem makes it possible for almost anyone to achieve the trance state essential for [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]. Given the presence of the drug and the felt need to contact the supernatural world, approximately **one out of every four Jivaro men** is a shaman—a remarkably high proportion. Women rarely become shamans, but when they do, they are considered particularly powerful because they are believed to possess special spirit helpers.
 
 Any adult who desires to become a shaman simply presents a gift to a practicing shaman, who administers the Banisteriopsis drink and transfers some of his own supernatural power to the apprentice.
 
@@ -46,7 +46,7 @@ The central concept in Jivaro shamanism is the **tsentsak** — spirit helpers, 
 - Even shamans can perceive them **only under the influence of natem**
 - They form **shields** that protect their shaman masters from attacks by other shamans
 - Shamans **send** tsentsak into victims' bodies to make them ill or kill them
-- Shamans **extract** tsentsak sent by enemy shamans from patients' bodies during curing rituals
+- Shamans **extract** tsentsak sent by enemy shamans from patients' bodies during [[jivaro-shamanic-curing-rituals]]
 
 ### Transfer of Tsentsak
 

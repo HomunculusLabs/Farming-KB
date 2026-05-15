@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[ericoid-mycorrhizae]] represent a specialized symbiotic association between fungi and plants in the order Ericales, enabling these plants to thrive in nutrient-poor, acidic soils. Alongside ectomycorrhizal and arbuscular mycorrhizal systems, ericoid mycorrhizae form a critical component of forest fungal ecology, contributing to nutrient cycling, plant community dynamics, and ecosystem resilience. This concept page synthesizes research on ericoid mycorrhizal physiology, forest mycorrhizal community ecology, and the broader ecological roles of fungi in woodland ecosystems.
+[[ericoid-mycorrhizae]] represent a specialized symbiotic association between fungi and plants in the order Ericales, enabling these plants to thrive in nutrient-poor, acidic soils. Alongside ectomycorrhizal and arbuscular mycorrhizal systems, ericoid mycorrhizae form a critical component of forest [[fungal-ecology]], contributing to nutrient cycling, plant community dynamics, [[fungal-rhizosphere-and-ecosystem-resilience]]. This concept page synthesizes research on ericoid mycorrhizal physiology, forest mycorrhizal community ecology, and the broader ecological roles of fungi in woodland ecosystems.
 
 ## Ericoid Mycorrhizal Physiology
 
@@ -23,15 +23,15 @@ Ericoid mycorrhizal fungi are exceptionally capable of accessing nitrogen from c
 
 ### Phosphorus Acquisition
 
-Ericoid mycorrhizal fungi access phosphorus from organic sources through specialized enzymatic capabilities:
+Ericoid mycorrhizal fungi access phosphorus from organic sources through specialized [[fungal-enzymatic-capabilities]]:
 
-- Mitchell and Read (1981) documented utilization of inorganic and organic phosphate by mycorrhizal endophytes of *Vaccinium macrocarpon* (cranberry) and *Rhododendron ponticum*
+- Mitchell and Read (1981) documented utilization of inorganic and organic phosphate by mycorrhizal endophytes of *Vaccinium macrocarpon* (cranberry) and *[[rhododendron-ponticum]]*
 - Leake and Miles (1996) demonstrated phosphodiesterase production and utilization of DNA as a phosphorus source by *Hymenoscyphus ericae*
 - Myers and Leake (1996) extended this work to show that ericoid mycorrhiza of *Vaccinium macrocarpon* can utilize nuclei as both phosphorus and nitrogen sources
 
 ### Phosphorus Relations in Natural Settings
 
-Dighton and Coleman (1992) studied phosphorus relations of roots and mycorrhizas of *Rhododendron maximum* in the southern Appalachians of North Carolina. Their work revealed complex phosphorus dynamics in the rhizosphere of ericaceous plants in natural forest understories, where phosphorus availability is often limiting due to acidic soil conditions and competition from organic matter.
+Dighton and Coleman (1992) studied phosphorus relations of roots and mycorrhizas of *[[rhododendron-maximum]]* in the southern Appalachians of North Carolina. Their work revealed complex phosphorus dynamics in the rhizosphere of ericaceous plants in natural forest understories, where phosphorus availability is often limiting due to acidic soil conditions and competition from organic matter.
 
 ### Heavy Metal Resistance
 
@@ -94,7 +94,7 @@ Boddy (1999) reviewed saprotrophic cord-forming fungi and their ability to meet 
 The structure and function of the vegetative mycelium of ectomycorrhizal plants was systematically studied by Read and colleagues:
 
 - Bending and Read (1995a) documented foraging behavior and translocation of nutrients from exploited litter
-- Bending and Read (1995b) measured activities of nutrient-mobilizing enzymes in birch litter colonized by *Paxillus involutus*
+- Bending and Read (1995b) measured activities of nutrient-mobilizing enzymes in birch litter colonized by *[[paxillus-involutus]]*
 - Cairney (1992) reviewed translocation of solutes in ectomycorrhizal and saprotrophic rhizomorphs
 - Cairney and Burke (1996) emphasized physiological heterogeneity within fungal mycelia as an important concept
 
@@ -122,7 +122,7 @@ Baar et al. (1994) found both stimulatory and inhibitory effects of needle litte
 
 Augé (2001) comprehensively reviewed water relations, drought, and vesicular-[[arbuscular-mycorrhizal-symbiosis]], documenting that mycorrhizae can improve plant water status through both direct (hyphal water uptake) and indirect (improved root morphology and nutrient status) mechanisms.
 
-Cruz et al. (2000) demonstrated that arbuscular mycorrhizal fungi affected tree growth, leaf water potential, and levels of the ethylene precursor ACC in papaya roots under water-stress conditions.
+Cruz et al. (2000) demonstrated that [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] affected tree growth, leaf water potential, and levels of the ethylene precursor ACC in papaya roots under water-stress conditions.
 
 ### Drought and Endophytes
 
@@ -147,25 +147,3 @@ Dighton et al. (2000) studied determinants of leaf litter patchiness in mixed sp
 ## Ecological Synthesis: The Role of Fungi in Woodlands
 
 Rayner (1993) argued for the "fundamental importance of fungi in woodlands," emphasizing that fungi are not merely decomposers but are central to virtually all ecosystem processes:
-
-- As mycorrhizae, they mediate [[plant-nutrient-uptake]] and interplant resource sharing
-- As decomposers, they drive nutrient cycling from organic matter
-- As pathogens, they influence plant population dynamics and community composition
-- As endophytes, they alter plant stress tolerance and herbivore resistance
-- As mineral weathering agents, they contribute to soil development
-
-The interconnectedness of these roles means that changes to any one fungal functional group can have cascading effects throughout the ecosystem. Rayner's concept of "fountains of the forest" captures the idea that trees and their fungal partners create the conditions that sustain the entire forest ecosystem.
-
-## Key References
-
-- Bajwa, R., Read, D. J. (1985). Peptides as nitrogen sources for the ericoid endophyte. *New Phytol.* 101:459–467.
-- Bending, G. D., Read, D. J. (1996). Nitrogen mobilization from protein–polyphenol complexes. *Soil Biol. Biochem.* 28:1603–1612.
-- Boddy, L. (1999). Cord-forming fungi and heterogeneous environments. *Mycologia* 91:13–32.
-- Bradley, R. et al. (1982). Mycorrhizal infection and heavy metal resistance. *New Phytol.* 91:197–209.
-- Dighton, J., Coleman, D. C. (1992). Phosphorus relations of *Rhododendron maximum* mycorrhizas. *Mycorrhiza* 1:175–184.
-- Kerley, S. J., Read, D. J. (1995). Chitin degradation by *Hymenoscyphus ericae*. *New Phytol.* 131:369–375.
-- Leake, J. R. (2001). Is diversity of ECM fungi important for ecosystem function? *New Phytol.* 152:1–8.
-- Leake, J. R., Read, D. J. (1989). Extracellular proteinase activity of *H. ericae*. *New Phytol.* 112:69–76.
-- Leake, J. R., Miles, W. (1996). Phosphodiesters as mycorrhizal P sources. *New Phytol.* 132:435–443.
-- Rayner, A. D. M. (1993). The fundamental importance of fungi in woodlands. *Br. Wildl.* 4:205–215.
-- Read, D. J. (1996). The structure and function of the ericoid mycorrhizal root. *Ann. Bot.* 77:345–354.

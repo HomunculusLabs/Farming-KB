@@ -1,5 +1,5 @@
 ---
-title: Query How Do I Prune Brambles For Maximum Fruit Production
+title: Query How Do I Prune Brambles For Maximum [[berry-fruit-production-cool-humid-climates]]
 created: 2026-05-06
 tags:
 type: query

@@ -16,7 +16,7 @@ In *Teaming with Microbes*, Lowenfels and Lewis describe soil arthropods as the 
 ## Bioindicators
 
 Soil arthropod diversity indicates soil health:
-- Diverse arthropod communities indicate a functioning soil food web
+- Diverse arthropod communities indicate a functioning [[soil-food-web]]
 - Their absence suggests chemical contamination or severe physical disturbance
 - They are sensitive to pesticides and other chemicals
 - Their presence generally indicates adequate [[teaming-with-microbes-nematodes]], [[teaming-with-microbes-nematodes]], [[teaming-with-microbes-classic-soil-science]], [[fukuoka-direct-observation-method]].

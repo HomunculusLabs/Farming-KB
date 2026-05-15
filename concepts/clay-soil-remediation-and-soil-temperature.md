@@ -1,12 +1,12 @@
 ---
-title: Clay Soil Remediation and Soil Temperature
+title: [[clay-soil-remediation]] and Soil Temperature
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Clay Soil Remediation and Soil Temperature
 
-Two of the most consequential factors in vegetable gardening are the physical properties of your soil and its temperature. Clay soils present formidable challenges, but there are proven remediation strategies ranging from low-cost annual amendments to a one-time topsoil investment that pays dividends for decades. Separately, [[soil-temperature]] governs nearly every biological process in the garden — from seed germination to root growth to the nighttime metabolic engine that drives vegetative expansion.
+Two of the most consequential factors in [[dryland-vegetable-gardening]] are the physical properties of your soil and its temperature. Clay soils present formidable challenges, but there are proven [[soil-pollution-and-remediation-strategies]] ranging from low-cost annual amendments to a one-time topsoil investment that pays dividends for decades. Separately, [[soil-temperature]] governs nearly every biological process in the garden — from seed germination to root growth to the nighttime metabolic engine that drives vegetative expansion.
 
 ## Clay Soil Remediation: The "Cheap" Approach
 
@@ -45,7 +45,7 @@ The imported loam sits above the clay like a blanket. Roots can penetrate the lo
 
 ## Soil Temperature and the Doubling Rule
 
-Soil temperature is arguably the single most underappreciated variable in vegetable gardening. It controls seed germination, root growth, nutrient availability, and — most critically — the rate at which plants accumulate biomass.
+Soil temperature is arguably the single most underappreciated variable in vegetable gardening. It controls seed germination, root growth, [[chelation-and-nutrient-availability]], and — most critically — the rate at which plants accumulate biomass.
 
 ### The 10°F Doubling Rule
 
@@ -97,11 +97,11 @@ Closely related to tilth is the concept of **capillarity** — the ability of so
 - Distribute moisture evenly through the root zone
 - Reduce the frequency of irrigation needed
 
-Clay soils have very fine pores with strong capillary action but poor drainage; sandy soils drain freely but have weak capillary movement. Loam — with its mix of particle sizes — achieves the best balance of both capillarity and drainage.
+Clay soils have very fine pores with strong [[capillary-action-in-soils]] but poor drainage; sandy soils drain freely but have weak capillary movement. Loam — with its mix of particle sizes — achieves the best balance of both capillarity and drainage.
 
 ## Key Takeaways
 
-1. **The cheap fix works but is labor-intensive**: 1 inch of compost/year plus first-year lime will gradually improve clay, but locks you into high annual amendment rates
+1. **The cheap fix works but is labor-intensive**: 1 inch of compost/year plus first-year lime will gradually improve clay, but locks you into high annual [[soil-fertility-amendment-rates]]
 2. **Importing topsoil is a one-time investment that pays for itself**: Reducing compost needs from 20–25 to 2–3 cubic yards/year saves enormous labor and cost over decades
 3. **Soil temperature governs everything**: The 10°F doubling rule means warm soil produces exponentially more growth than cold soil
 4. **Nighttime temperatures drive growth**: Plants manufacture food by day but build tissue at night — cool nights throttle growth regardless of daytime sunshine

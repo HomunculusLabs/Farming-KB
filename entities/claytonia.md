@@ -9,7 +9,7 @@ tags: [crop, cold-hardy, winter-vegetable, salad-green, montiaceae]
 
 ## Description
 
-Claytonia, commonly known as **miner's lettuce** or **winter purslane**, is a small, cold-hardy annual green in the family Montiaceae. It is one of the signature "novel" cold-hardy crops in Eliot Coleman's winter harvest system, valued for its succulent, mild-flavored leaves and stems and its exceptional ability to grow through the darkest, coldest months of winter. The plant produces distinctive rounded leaves that form a complete disc around the stem (perfoliate), with tiny white flowers emerging from the center.
+Claytonia, commonly known as **miner's lettuce** or **winter purslane**, is a small, cold-hardy annual green in the family Montiaceae. It is one of the signature "novel" cold-hardy crops in Eliot Coleman's [[cold-house-winter-harvest-system]], valued for its succulent, mild-flavored leaves and stems and its exceptional ability to grow through the darkest, coldest months of winter. The plant produces distinctive rounded leaves that form a complete disc around the stem (perfoliate), with tiny white flowers emerging from the center.
 
 ## Classification
 
@@ -22,12 +22,12 @@ Claytonia, commonly known as **miner's lettuce** or **winter purslane**, is a sm
 ## Key Facts
 
 - Listed among the **"novel" cold-hardy vegetables** at Four Season Farm alongside mâche and minutina
-- Included in the full inventory of approximately **30 cold-hardy vegetable species** grown in winter greenhouses
+- Included in the full inventory of approximately **30 cold-hardy vegetable species** grown [[weed-control-in-winter-greenhouses]]
 - Appears on **both cool-house and cold-house harvest charts** as a reliable producer from October through May in Zone 5
 - Named "miner's lettuce" because it was consumed by **Gold Rush-era miners** in California to prevent scurvy, indicating its high vitamin C content
 - Native to **western North America**, where it grows as a cool-season annual in moist, shaded areas
 - The plant's succulent, slightly tart leaves and stems have a refreshing, mild flavor well-suited to salad mixes
-- Exceptionally cold-tolerant — one of the most reliable midwinter producers in unheated greenhouse systems
+- Exceptionally cold-tolerant — one of the most reliable midwinter producers in [[cold-house-unheated-greenhouse]] systems
 - Grows well under the **double-layer protection** system (greenhouse + row cover) even when temperatures outside drop to −15°F
 - The plant's small size and upright growth habit make it suitable for dense planting and [[cut-and-come-again]] harvesting
 
@@ -36,11 +36,11 @@ Claytonia, commonly known as **miner's lettuce** or **winter purslane**, is a sm
 Claytonia is one of the **most valuable winter salad crops** for intensive cold-climate production because it continues actively growing even in the shortest, coldest days of midwinter when most other greens have stalled. This makes it a critical component of year-round salad production — it fills the production gap when spinach and lettuce growth slows. Its succulent texture and mild flavor make it a premium ingredient in winter salad mixes, and its historical use by miners underscores its nutritional value. For growers using Coleman's four-season model, claytonia is a reliable revenue-generating crop during the period when fresh local greens are scarcest and most valuable.
 ## Botanical Description
 
-Herbaceous plant with distinctive leaf morphology and growth habit. Adapted to seasonal climates with specific temperature and moisture requirements for optimal development.
+Herbaceous plant with distinctive leaf morphology and growth habit. Adapted to seasonal climates with specific [[mushroom-growing-temperature-and-moisture]] requirements for optimal development.
 
 ## Cultivation
 
-Grown as a cool-season crop in temperate regions. Propagated from seed with specific spacing and soil requirements. Requires consistent moisture and well-drained soil for best results.
+Grown as a cool-season crop in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Propagated from seed with specific spacing and soil requirements. Requires consistent moisture and well-drained soil for best results.
 
 ## Culinary Uses
 
@@ -75,7 +75,7 @@ Functions as part of interconnected agricultural and ecological systems. Synergi
 
 ## Common Challenges
 
-Practitioners face various obstacles including pest pressure, climate variability, and resource limitations. Proven strategies exist for addressing each of these challenges effectively.
+Practitioners face various obstacles including pest pressure, [[macrofungal-fruiting-phenology-climate-variability]], and resource limitations. Proven strategies exist for addressing each of these challenges effectively.
 
 ## Measurement and Assessment
 

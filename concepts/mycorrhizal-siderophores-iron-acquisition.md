@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhizal Siderophores and fungal-siderophores-iron-acquisition-mycorrhiza"
+title: "[[mycorrhizal-siderophores]] and fungal-siderophores-iron-acquisition-mycorrhiza"
 created: 2026-04-26
 tags: [mycorrhiza, siderophore, iron, fungal-physiology, nutrient-cycling]
 date: 2026-04-25
@@ -17,9 +17,9 @@ Siderophores are high-affinity iron-chelating compounds produced by
 microorganisms under iron-limiting conditions. [[ectomycorrhizal-fungal-ecology]]
     species (ascomycete)
   - Wilcoxina spp. forming ectendomycorrhizae
-  - Phialocephala fortinii, a [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi), which form the most
+  - [[phialocephala-fortinii]], a [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi), which form the most
     widespread type of [[singh-fungal-siderophore-production-iron-acquisition]]
-  - The ecological significance of mycorrhizal siderophores in iron cycling
+  - The [[lichen-biology-and-ecological-significance]] of mycorrhizal siderophores in iron cycling
     in natural ecosystems requires further investigation
 
 ## Ecological Significance
@@ -81,7 +81,7 @@ between multiple variables and the difficulty of predicting outcomes
 ## Overview
 
 Mycorrhizal Siderophores Iron Acquisition represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mycorrhizal Siderophores Iron Acquisition finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mycorrhizal siderophores iron acquisition and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

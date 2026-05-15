@@ -21,7 +21,7 @@ type: query
 ---
 # How to Extract [[hydnellum-peckii]]** and other "bleeding" tooth fungi: Offer deep reds and burgundies from their exuded pigments.
 
-Beginners should start with Phaeolus schweinitzii or Pisolithus tinctorius, as they are abundant, easy to identify, and forgiving in the dye pot.
+Beginners should start with Phaeolus schweinitzii or [[pisolithus-tinctorius]], as they are abundant, easy to identify, and forgiving in the dye pot.
 
  -
 

@@ -1,5 +1,5 @@
 ---
-title: Williams Pdc Water Courses
+title: [[williams-pdc-additional-permaculture-principles]] Water Courses
 created: 2026-04-28
 tags: [permaculture, water-courses, streams, ponds, erosion, meandering, gabions, micro-hydro, edge-effect]
 date: 2026-04-25
@@ -49,7 +49,7 @@ This overflow management connects directly to broader [[ozier-pdc-hydro-cycle-an
 
 ## Enhancing Ponds with Edge Effect
 
-If you have a pre-existing pond on your site, the main recommendation is to increase the edge effect. Increasing the edge effect will likewise increase the amount of ecological activity within the pond. To increase the edge effect simply go around the edge of the pond and dig out chunks. You may also want to plant reeds within these dug-out chunks, or plantings around the edge that will grow out over the water and provide shade areas for fish and other aquatic denizens to rest in.
+If you have a pre-existing pond on your site, the main recommendation is to increase [[query-what-is-the-edge-effect-in-permaculture]]. Increasing the edge effect will likewise increase the amount of ecological activity within the pond. To increase the edge effect simply go around the edge of the pond and dig out chunks. You may also want to plant reeds within these dug-out chunks, or plantings around the edge that will grow out over the water and provide shade areas for fish and other aquatic denizens to rest in.
 
 ### Aquatic Plantings for Water Courses
 
@@ -59,14 +59,14 @@ Planting along water course edges serves multiple functions simultaneously. Ripa
 
 Inventive designers may be able to include water courses as part of sustainable irrigation systems or [[pdc-water-harvesting-earthworks-design]]
 
-Water courses should never be designed in isolation from the broader site water management strategy. Swales, keyline systems, and diversion drains all feed into or draw from water courses. The most resilient designs create redundant pathways — if one element fails during an extreme rain event, others can safely convey the overflow without catastrophic erosion.
+Water courses should never be designed in isolation from the broader site water management strategy. Swales, keyline systems, and [[diversion-drains-and-spreader-banks]] all feed into or draw from water courses. The most resilient designs create redundant pathways — if one element fails during an extreme rain event, others can safely convey the overflow without catastrophic erosion.
 
 ## Key Principles
 
 - Leave healthy natural water courses alone: intervene only when waterways have been degraded or will be affected by your design
 - Slow the flow: straight, fast-running water courses cause erosion; meandering S-curves slow water and reduce destructive force
 - Plan for overflow: all earthwork designs must account for where excess water goes and how it affects downstream water courses
-- Increase edge effect in ponds: irregular shorelines with reeds and shade plantings dramatically increase ecological activity
+- Increase [[edge-effect-in-permaculture]] ponds: irregular shorelines with reeds and shade plantings dramatically increase ecological activity
 - Always think downstream: whatever you do with a water course on your site affects everything below it and must be designed accordingly
 
 ## Applications

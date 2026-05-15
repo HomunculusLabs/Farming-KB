@@ -22,7 +22,7 @@ Key considerations when buying seeds include:
 
 ## Selecting a Seed Company
 
-Solomon advises careful selection of seed suppliers. Notable companies referenced include **SESE (Southern Exposure Seed Exchange)** and **Territorial Seed Company**, both recognized for regional adaptation and reliable germination. When evaluating a seed company, gardeners should consider:
+Solomon advises careful selection of seed suppliers. Notable companies referenced include **SESE (Southern Exposure Seed Exchange)** and **[[territorial-seed-company]]**, both recognized for regional adaptation and reliable germination. When evaluating a seed company, gardeners should consider:
 
 - Regional suitability of offered varieties
 - Germination guarantees and customer feedback
@@ -48,7 +48,7 @@ Importing seeds from other countries introduces additional regulatory and practi
 
 Proper **storage of seeds** is essential for maintaining viability from one season to the next, and potentially for several years. Solomon outlines the following principles:
 
-- **Temperature and humidity**: Seeds store best in cool, dry conditions. Lower temperatures slow metabolic activity and extend storage life. Ideal storage environments are consistently below 50°F (10°C) with low relative humidity.
+- **[[greg-green-temperature-and-humidity-control]]**: Seeds store best in cool, dry conditions. Lower temperatures slow [[arbuscule-isolation-metabolic-activity-assays]] and extend storage life. Ideal storage environments are consistently below 50°F (10°C) with low relative humidity.
 - **Moisture control**: Seeds must be thoroughly dried before storage. Excess moisture promotes fungal growth and premature germination. Airtight containers with desiccant packets are recommended for long-term storage.
 - **Darkness**: Exposure to light can degrade some seed types over time. Opaque containers or dark storage locations are preferable.
 - **Longevity varies by species**: Some vegetables (e.g., onions, parsnips) lose viability quickly—often within one to two years—while others (e.g., tomatoes, beans) can remain viable for five years or more under proper conditions.
@@ -73,7 +73,7 @@ Successful **sowing** requires attention to several variables:
 
 - **Depth in the seedbed**: Planting depth is critical and varies by seed size. A general rule is to plant at a depth roughly two to three times the seed's diameter. Planting too deep prevents emergence; planting too shallow leaves seeds vulnerable to drying and birds.
 - **Overseeding and resowing**: Because germination is never 100%, gardeners typically overseed slightly and thin later. If emergence is poor, prompt resowing can recover the planting window.
-- **Raised beds**: Raised beds warm faster in spring, improving germination for early plantings. They also provide better drainage, which benefits seedling emergence in wet conditions.
+- **Raised beds**: Raised beds warm faster in spring, improving germination for early plantings. They also provide better drainage, which benefits [[watering-and-seedling-emergence]] in wet conditions.
 - **Watering newly planted seeds**: Consistent moisture is essential during germination. The seedbed should be kept evenly moist but not waterlogged. Drip irrigation and fine-nozzle watering are preferred over heavy spraying, which can displace small seeds.
 
 ## Plant Spacing
@@ -83,7 +83,7 @@ Solomon provides a detailed **plant spacing chart** and explains the rationale b
 Two broad approaches exist:
 
 - **Intensive (close) spacing**: Maximizes yield per unit area but demands high soil fertility, consistent watering, and careful management. More common in raised-bed and market-garden systems.
-- **Separated (wide) row spacing**: Easier weeding and cultivation, better drought tolerance per plant, and lower input requirements. Solomon generally favors wider spacing for low-input, self-sufficient gardening.
+- **Separated (wide) row spacing**: Easier [[flame-weeding-and-cultivation]], better drought tolerance per plant, and lower input requirements. Solomon generally favors wider spacing for low-input, self-sufficient gardening.
 
 **Uniform rows** facilitate efficient weeding, thinning, and harvesting. **Isolating self-pollinators** at appropriate distances prevents unwanted cross-pollination when seed saving is a goal.
 
@@ -107,7 +107,7 @@ For gardeners managing tight budgets, Solomon recommends several strategies to r
 
 - **Sheet composting** and **soil preparation** provide the foundation into which seeds are sown
 - **Compost teas** and **kelp teas** support seedling vigor after emergence
-- **Insects and diseases in seeds** pose risks that proper sourcing and storage help mitigate
+- **[[solomon-insects-and-diseases-integrated-approach]] in seeds** pose risks that proper sourcing and storage help mitigate
 - **Survival gardening** depends critically on seed sourcing knowledge and seed bank management
 - **Soil tests** and fractional analysis can inform site-specific sowing and spacing decisions
 

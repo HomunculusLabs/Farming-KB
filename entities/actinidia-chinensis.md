@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Ferguson, A.R. (1999). "New Zealand Kiwifruit: The First Fifty Years." New Zealand Journal of Crop and Horticultural Science, 27(1), 1–3.
   - Huang, H. & Ferguson, A.R. (2007). "Genetic Resources of Kiwifruit." In Janick, J. & Whipkey, A. (eds.), Issues in New Crops and New Uses. ASHS Press.
-  - Nishiyama, I. (2007). "Chemical Composition and Authenticity of Kiwifruit." Food Science and Technology Research, 13(1), 1–12.
+  - Nishiyama, I. (2007). "[[chemical-composition-of-hallucinogens]] and Authenticity of Kiwifruit." Food Science and Technology Research, 13(1), 1–12.
   - Li, J. et al. (2013). "Genome Sequence of the Polar Kiwifruit." Nature Communications, 4, 2640.
   - Beever, D.J. & Hopkirk, G. (1990). "Fruit Development and Maturation." In Warrington, I.J. & Weston, G.C. (eds.), Kiwifruit: Science and Management. Ray Richards Publisher.
 ---
@@ -27,7 +27,7 @@ Global kiwifruit production exceeds 4 million metric tons annually, with New Zea
 
 ## Taxonomy and Morphology
 
-Actinidia chinensis was described by Jules Émile Planchon in 1847. The genus Actinidia comprises approximately 60 species native to East Asia, with A. chinensis and A. deliciosa being the two most commercially important.
+Actinidia chinensis was described by Jules Émile Planchon in 1847. The genus Actinidia comprises approximately 60 species native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]], with A. chinensis and A. deliciosa being the two most commercially important.
 
 The authority is **Actinidia chinensis** Planch. The closely related A. deliciosa (A. Chev.) C.F. Liang & A.R. Ferguson was long treated as a variety of A. chinensis but was elevated to species rank in 1984 based on morphological, cytological, and chemical differences.
 
@@ -45,7 +45,7 @@ Actinidia chinensis is native to eastern and central China, with a natural range
 
 The species inhabits forest margins, thickets, and stream valleys in mountainous regions at elevations of 200–2,300 meters. It is a component of broadleaf and mixed forest communities, often climbing on canopy trees in forest-edge situations.
 
-Naturalized populations have become established in parts of Japan, Korea, and the eastern [[savory-growing-season-and-non-growing-season-management]]. Drought stress during fruit development reduces fruit size and increases [[cervantes-wind-protection-outdoor-cannabis]] is critical, as the large leaves and heavy fruit load create significant wind resistance. Shelterbelts or windbreak nets are standard features of commercial kiwifruit orchards in exposed sites.
+Naturalized populations have become established in parts of Japan, Korea, and the eastern [[savory-growing-season-and-non-growing-season-management]]. [[mycorrhizal-biodiversity-drought-stress-response]] during fruit development reduces fruit size and increases [[cervantes-wind-protection-outdoor-cannabis]] is critical, as the large leaves and heavy fruit load create significant wind resistance. Shelterbelts or windbreak nets are standard features of commercial kiwifruit orchards in exposed sites.
 
 ## Cultivation
 
@@ -59,7 +59,7 @@ Major commercial cultivars include 'Hort16A' (marketed as Zespri Gold, a golden-
 
 Harvest occurs in autumn (March–May in the [[psilocybin-shelf-life-stability]].
 
-Post-harvest storage at 0–1 °C with controlled atmosphere (2–5% CO₂, 1–2% O₂) extends shelf life to 3–6 months. Ethylene exposure accelerates softening, and fruits are highly sensitive to ethylene contamination during storage and transport.
+Post-harvest storage at 0–1 °C with controlled atmosphere (2–5% CO₂, 1–2% O₂) extends [[ingham-aact-holding-time-shelf-life-decay]] to 3–6 months. Ethylene exposure accelerates softening, and fruits are highly sensitive to ethylene contamination during storage and transport.
 
 Soluble solids content at harvest should reach at least 6.2 °Brix for golden kiwifruit and 6.5 °Brix for green kiwifruit to ensure acceptable eating quality after ripening. Dry matter content is increasingly used as a harvest maturity indicator.
 

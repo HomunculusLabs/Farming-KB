@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Dutch lights are a traditional cold-frame design consisting of approximately 30-by-60-inch glass panes set in wooden frames. They are a simplified, time-tested approach to cold-frame vegetable production originating in the Netherlands. Eliot Coleman adopted the Dutch light design for his [[winter-harvest-system]] after observing their use during trips to European farms in the 1970s.
+Dutch lights are a traditional cold-frame design consisting of approximately 30-by-60-inch glass panes set in wooden frames. They are a simplified, time-tested approach to cold-frame [[coleman-french-historical-winter-vegetable-production]] originating in the Netherlands. Eliot Coleman adopted the Dutch light design for his [[winter-harvest-system]] after observing their use during trips to European farms in the 1970s.
 
 ## Classification
 
@@ -36,7 +36,7 @@ Coleman cited three key references for Dutch light design:
 
 ### The Double-Layer Breakthrough
 
-In the winter of 1980, Coleman constructed an unheated greenhouse in a traditional Dutch style — a structural frame of 2x4 lumber covered with Dutch lights — and erected cold frames inside over winter crops. This double-layer approach moved the effective growing climate an additional 500 miles south to USDA Zone 8, with the added benefit of a snow-shedding roof overhead.
+In the winter of 1980, Coleman constructed an [[cold-house-unheated-greenhouse]] in a traditional Dutch style — a structural frame of 2x4 lumber covered with Dutch lights — and erected cold frames inside over winter crops. This double-layer approach moved the effective growing climate an additional 500 miles south to USDA Zone 8, with the added benefit of a snow-shedding roof overhead.
 
 ## Relevance to Cultivation
 
@@ -60,15 +60,15 @@ While Dutch lights served as the original model, commercial winter production ev
 - **USDA hardiness zones**: Each layer of protection shifts the effective zone approximately 1.5 zones southward
 ## Construction
 
-Design considerations include orientation, ventilation, thermal mass, and covering materials. Proper construction ensures optimal growing conditions throughout the year.
+Design considerations include orientation, ventilation, thermal mass, and [[coleman-greenhouse-covering-materials-comparison]]. Proper construction ensures optimal growing conditions throughout the year.
 
 ## Climate Management
 
-Temperature regulation through passive and active methods. Humidity control, ventilation strategies, and frost protection techniques extend the growing season.
+[[blesching-cannabis-fever-temperature-regulation]] through passive and active methods. Humidity control, ventilation strategies, and [[holzer-frost-protection-techniques]] extend the growing season.
 
 ## Seasonal Use
 
-Winter growing requires additional protection measures. Succession planting and crop selection maximize productivity across seasons.
+Winter growing requires additional protection measures. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] crop selection maximize productivity across seasons.
 ## Historical Context
 
 Development of understanding and practices related to this topic has evolved significantly over time. Early observations led to systematic study and practical applications that continue to influence modern approaches.

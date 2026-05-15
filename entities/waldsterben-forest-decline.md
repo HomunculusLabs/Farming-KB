@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Waldsterben (German for "forest dieback") refers to the large-scale decline and dieback of Central European forests first observed in the 1970s, particularly in Bavaria, Germany. The phenomenon became one of the most studied environmental crises in European forest ecology and catalyzed extensive research into the effects of acidifying pollutants on forest ecosystems, including the critical role of mycorrhizal fungi.
+Waldsterben (German for "forest dieback") refers to the large-scale decline and dieback of Central European forests first observed in the 1970s, particularly in Bavaria, Germany. The phenomenon became one of the most studied environmental crises in European forest ecology and catalyzed extensive research into the effects of acidifying pollutants on forest ecosystems, including the critical role of [[mycorrhizal-fungi]].
 
 ## Classification
 
@@ -63,7 +63,7 @@ Fuhrer (1990) cautioned that forest decline was exacerbated by multiple stressor
 
 The Waldsterben phenomenon demonstrates the critical importance of soil chemistry and air quality for maintaining healthy mycorrhizal associations. For cultivation, this research highlights:
 
-1. **Soil pH management** is essential for mycorrhizal health; acidification can shift fungal community structure dramatically
+1. **[[soil-ph-management]]** is essential for mycorrhizal health; acidification can shift fungal community structure dramatically
 2. **Mycorrhizal diversity** serves as a bioindicator of ecosystem health
 3. **Aluminum toxicity** thresholds must be monitored, particularly in acidic soils
 4. **The dual-pathway model** shows that both above-ground (photosynthate supply) and below-ground (soil chemistry) factors influence mycorrhizal colonization
@@ -76,3 +76,8 @@ The Waldsterben phenomenon demonstrates the critical importance of soil chemistr
 - Fellner and Pesková (1995)
 - Dighton and Jansen (1991); Jansen et al. (1988)
 - Markkola and Ohtonen (1988); Dighton and Skeffington (1987)
+## See also
+
+- [[waldsterben]]
+- [[acidifying-pollutants-mycorrhizae]]
+- [[nitrogen-deposition-fungal-communities]]

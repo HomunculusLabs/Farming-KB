@@ -41,7 +41,7 @@ significant quantities of carbon:
 ### Nitrogen Limitation in Mat-Forming Lichens
 
 Mat-forming lichens — extensive ground-covering species common in boreal and
-arctic tundra — are frequently **limited by nitrogen availability**. Crittenden
+arctic tundra — are frequently **limited by [[nitrogen-availability-in-legumes]]**. Crittenden
 et al. (1994) demonstrated that these lichens exhibit **near 100% N interception
 efficiency**, meaning they capture virtually all inorganic nitrogen deposited
 onto their surfaces from atmospheric sources. This extraordinary efficiency
@@ -106,7 +106,7 @@ productivity.
 ### Light Stress and Photoprotection
 
 The fungal partner provides critical protection for the photosynthetic
-apparatus. In *Xanthoria parietina*, the secondary metabolite **parietin**
+apparatus. In *[[xanthoria-parietina]]*, the [[fungal-elicitors-enhanced-secondary-metabolite-production]] **parietin**
 functions as a **blue-light filter**, shielding the algal photobiont from excess
 visible radiation (Solhaug & Gauslaa 1996). This photoprotective role is
 essential for lichen survival in high-light environments such as exposed rocks,
@@ -124,7 +124,7 @@ by fungi, many of which are exemplified by lichens:
 | **Soil fertility** | Nutrient cycling, N fixation by cyanolichens |
 | **Soil stability** | Crust formation, aggregate binding |
 | **Primary production** | Carbon fixation via photobiont symbioses |
-| **Plant defense** | Endophytic protection, secondary metabolites |
+| **Plant defense** | Endophytic protection, [[antifungal-secondary-metabolites-coprophilous-fungi]] |
 | **Community structure** | Host-specific symbioses, succession drivers |
 | **Secondary production** | Food for invertebrates, wildlife forage |
 
@@ -138,13 +138,13 @@ within the thallus), **mycorrhizal fungi** influence primary production through
 an entirely different mechanism: by forming mutualistic associations with plant
 roots, they dramatically enhance host plant nutrient and water uptake. This
 symbiosis indirectly amplifies whole-ecosystem primary production far beyond
-what plants could achieve alone. Mycorrhizal contributions to carbon dynamics,
+what plants could achieve alone. [[mycorrhizal-contributions-terrestrial-carbon-cycle]] to carbon dynamics,
 nutrient cycling, and plant community structure form the subject of the
 following sections.
 
 ## Key References
 
-- Belnap, J. (2002). Nitrogen fixation in biological soil crusts from
+- Belnap, J. (2002). Nitrogen fixation in [[biological-soil-crusts]] from
   southeast Utah, USA. *Biology and Fertility of Soils*.
 - Beymer, R.J. & Klopatek, J.M. (1991). Potential contribution of carbon by
   microphytic crusts in pinyon-juniper woodlands. *Arid Soil Research and

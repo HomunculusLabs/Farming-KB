@@ -122,7 +122,6 @@ ashwagandha powder in warm milk before bed. Together they address both
 arms of the stress-immune axis — astragalus building defensive capacity
 while ashwagandha reduces the stress hormones that suppress immunity.
 
-
 ## See Also
 
 - [[comparison-astragalus-vs-rhodiola]]

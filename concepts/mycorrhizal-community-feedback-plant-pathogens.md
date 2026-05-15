@@ -105,5 +105,5 @@ The interplay between mycorrhizal mutualisms, interplant resource networks, and 
 ## See also
 
 - [[mycorrhizal-pathogen-interactions-defense]]
-- [[mycorrhizae-and-plant-fitness]]
+- [[mycorrhizae-plant-fitness]]
 - [[mycorrhizae-plant-succession-regulation]]

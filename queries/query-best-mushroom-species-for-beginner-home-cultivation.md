@@ -6,9 +6,9 @@ updated: 2026-04-28
 sources:
   - Stamets, Paul. *Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive*, 3rd ed., Ten Speed Press, 2000.
   - Royse, Daniel J., et al. *accessible-mushroom-cultivation-for-disabilities and Marketing*, ATTRA, USDA, 2010.
-  - "falconer-growing-mushrooms-in-sheds at Home," North American Mycological Association, https://namyco.org/resources
-  - Kozak, Magdalena, and Kawiak, Anna. "Cultivation of Oyster Mushrooms (Pleurotus spp.) on Various Substrates," *BioMed Research International*, 2018.
-  - Stamets, Paul. *The Mushroom Cultivator*, Agarikon Press, 1983.
+  - "falconer-growing-mushrooms-in-sheds at Home," North [[palmer-mushroom-charts-american-mycological-education]] Association, https://namyco.org/resources
+  - Kozak, Magdalena, and Kawiak, Anna. "[[cultivation-of-oyster-mushrooms]] Mushrooms (Pleurotus spp.) on Various Substrates," *BioMed Research International*, 2018.
+  - Stamets, Paul. *[[coprinus-atrementarius-entity-the-mushroom-cultivator]]*, Agarikon Press, 1983.
   - "duggar-mushroom-growing-history-and-methods 101: A Beginner's Guide," FreshCap Mushrooms, https://freshcap.com/guides
 created: 2026-05-07
 type: query
@@ -72,7 +72,7 @@ Largest oyster species, producing thick-stemmed, portobello-like caps prized in 
 ## Overview
 
 Query Best Mushroom Species For Beginner Home Cultivation represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Query Best Mushroom Species For Beginner Home Cultivation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 query best mushroom species for beginner home cultivation and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

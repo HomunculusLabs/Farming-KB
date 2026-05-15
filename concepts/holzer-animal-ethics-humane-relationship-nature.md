@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[sepp-holzer]]'s philosophy extends beyond land management to encompass a broader ethic of relationship with animals, nature, and human community. This concept page examines his views on animal welfare, humane slaughter, emotional connection to nature, political engagement, and children's education.
+[[sepp-holzer]]'s philosophy extends beyond [[integrated-land-management-and-polyculture-design]] to encompass a broader ethic of relationship with animals, nature, and human community. This concept page examines his views on animal welfare, humane slaughter, emotional connection to nature, political engagement, and children's education.
 
 ## The Lamb That Formed a Life
 
@@ -20,7 +20,7 @@ This early experience of emotional bonding with an animal—and the pain of its 
 
 ### The Question of Cruelty
 
-"When I see an animal mistreated I take action... What has happened to us? Why have we become so stupid and cruel? What can we do to change? We have to realise that we have become the most dangerous pest to natural life on earth."
+"When I see an animal mistreated I take action... What has happened to us? Why have we become so stupid and cruel? What can we do to change? We have to realise that we have become the most dangerous pest to natural [[pulsing-patterns-of-life-on-earth]]."
 
 Holzer's language is intentionally provocative: calling humans "the most dangerous pest" challenges the assumption of human superiority and demands a fundamental rethinking of the human relationship with nature.
 
@@ -50,7 +50,7 @@ Holzer advocates for on-farm slaughter by a familiar person—an approach that e
 
 ### Healthier Products
 
-"The product will also then be much healthier." Stress before slaughter produces cortisol and other stress hormones that affect meat quality. Humane slaughter produces healthier food—a practical as well as an ethical argument.
+"The product will also then be much healthier." Stress before slaughter produces cortisol and other [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]] that affect meat quality. Humane slaughter produces healthier food—a practical as well as an ethical argument.
 
 ## Intuition and Emotion
 
@@ -106,4 +106,4 @@ Holzer advocates for a community-based model of children's education in which al
 
 - [[sepp-holzer-permaculture-water-landscapes-climate-restoration]] — The agricultural system
 - [[biodiversity-power-natural-regeneration]] — Natural recovery
-- [[holzer-global-food-systems-reforestation-failures]] — Policy critique
+- [[holzer-global-food-systems-reforestation-failures]] — [[fukuoka-japanese-agriculture-breakdown-policy-critique]]

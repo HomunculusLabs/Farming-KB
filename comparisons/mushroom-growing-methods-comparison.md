@@ -55,14 +55,14 @@ The typical learning progression moves from small, controlled indoor methods
 to larger and more natural systems:
 
 1. PF tek (learn sterile technique, fungal biology, fruiting triggers)
-2. Monotub (learn bulk substrate, grain spawn, environmental control)
+2. Monotub (learn bulk substrate, grain spawn, [[cannabis-indoor-growing-environmental-control]])
 3. Straw bags (learn pasteurization, production-scale thinking)
 4. Log cultivation (learn outdoor management, seasonal production cycles)
 5. Outdoor beds (learn integrated permaculture mushroom systems)
 
 Each step builds on skills from the previous one. Jumping straight to log
 cultivation or outdoor beds without indoor experience is possible but leads to
-higher failure rates due to limited understanding of contamination vectors and
+higher failure rates due to limited understanding of [[mushroom-contamination-vectors]] and
 [[fruiting-conditions]].
 
 ## Verdict
@@ -93,7 +93,7 @@ Each approach has different vulnerability profiles:
   for 60-90 minutes) is essential to reduce competitor organisms without
   killing beneficial thermophiles
 - **Log cultivation:** Very low contamination risk outdoors. The dense wood
-  substrate resists contamination, and the natural microbial community of
+  substrate resists contamination, and the natural [[cannabis-cultivar-microbial-community-effects]] of
   fresh-cut logs provides competitive protection. The main risk is log
   drying or excessive sun exposure
 - **Outdoor beds:** Low risk once established. The diverse soil microbial
@@ -102,8 +102,8 @@ Each approach has different vulnerability profiles:
 
 ## PF Tek in Detail
 
-The PF Tek (Psilocybe Fanaticus Technique) remains the most accessible entry
-point for mushroom cultivation. Developed in the early 1990s, it uses
+The PF Tek ([[pf-tek-psilocybe-fanaticus]] Technique) remains the most accessible entry
+point [[grass-seed-substrate-for-mushroom-cultivation]]. Developed in the early 1990s, it uses
 half-pint wide-mouth mason jars filled with a substrate of brown rice flour
 and vermiculite. The method is valued for its simplicity and low startup cost:
 
@@ -129,5 +129,5 @@ holes for gas exchange and filled with a bulk substrate (usually coco coir
 and vermiculite, sometimes supplemented with gypsum and coffee grounds)
 inoculated with colonized grain spawn.
 
-- **Grain spawn preparation:** Requires a pressure cooker and jars or bags
+- **[[cultivator-grain-spawn-preparation-and-inoculation]]:** Requires a pressure cooker and jars or bags
   of sterilized grain (rye, millet, or wheat). Grain-to-bulk ratio of

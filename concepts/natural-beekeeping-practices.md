@@ -16,7 +16,6 @@ Many countries face massive die-off of bee populations. In the [[comparison-esse
   hive, at least 3-4m wide and deep
 - Install a sloping piece of wood above the entrance that forces bees to
 
-
 ## See Also
 
 - [[natural-diet-philosophy]]

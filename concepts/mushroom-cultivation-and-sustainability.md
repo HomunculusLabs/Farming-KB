@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation and Sustainability
+title: [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] Sustainability
 source: fungi-and-sustainability-fungi-magazine.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Mushroom cultivation represents one of the most promising intersections between food production and environmental sustainability. As the global community grapples with resource depletion, waste accumulation, and food insecurity, fungi offer unique solutions through their ability to transform organic waste into nutritious, marketable products. The concept of sustainability—meeting present needs without compromising future generations—finds a powerful ally in mushroom cultivation, which can convert agricultural residues into food, medicine, livestock feed, and soil amendments.
+Mushroom cultivation represents one of the most promising intersections between food production and environmental sustainability. As the global community grapples with resource depletion, waste accumulation, and food insecurity, fungi offer unique solutions through their ability to transform organic waste into nutritious, marketable products. The concept of sustainability—meeting present needs without compromising future generations—finds a powerful ally [[contamination-prevention-in-mushroom-cultivation]], which can convert agricultural residues into food, medicine, livestock feed, and soil amendments.
 
 ## The Sustainability Movement
 
@@ -30,11 +30,11 @@ Mushrooms are a crop that grows rapidly and yields high returns. Oyster mushroom
 Mushrooms are quite nutritious and can serve as both a food source and a marketable product in impoverished areas. They represent a potential strategy for addressing hunger and malnutrition in vulnerable populations.
 
 ### Medicinal Properties
-Mushrooms possess significant medicinal properties. Shiitake mushrooms (*Lentinula edodes*) are a source of Lentinan, a compound being evaluated as an anti-cancer drug. The Turkey Tail polypore (*Trametes versicolor*) produces PSK, another substance with anti-cancer potential. Health food stores now carry entire lines of "mycomedicinals."
+Mushrooms possess significant medicinal properties. Shiitake mushrooms (*Lentinula edodes*) are a source of Lentinan, a compound being evaluated as an anti-cancer drug. The Turkey Tail polypore (*[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*) produces PSK, another substance with anti-cancer potential. Health food stores now carry entire lines of "mycomedicinals."
 
 ## Transforming Waste into Value
 
-The most significant virtue of mushroom cultivation is the ability of fungi to transform agricultural and other organic waste into nutritious products. Oyster mushrooms can grow on:
+The most significant virtue [[historical-development-of-mushroom-cultivation]] is the ability of fungi to transform agricultural and other organic waste into nutritious products. Oyster mushrooms can grow on:
 - Cottonseed hulls
 - Coconut hulls
 - Banana leaves
@@ -42,7 +42,7 @@ The most significant virtue of mushroom cultivation is the ability of fungi to t
 - Straw
 - Newspaper and cardboard
 
-Shiitake mushrooms grow well on many different woods and forest waste materials. The process does not end with the mushroom harvest—the spent mushroom substrate retains all the nutrients, protein, and medicinal compounds found in the mushrooms themselves. This spent substrate has multiple uses:
+Shiitake mushrooms grow well on many different woods and forest waste materials. The process does not end with the mushroom harvest—the [[fao-spent-mushroom-substrate-composting-recycling]] retains all the nutrients, protein, and medicinal compounds found in the mushrooms themselves. This spent substrate has multiple uses:
 - **Livestock feed**: Both nutritional and medicinal for animals
 - **Compost**: Excellent organic amendment for plant and vegetable crops
 
@@ -60,7 +60,7 @@ ZERI's design principles are modeled on the natural world, drawing instruction f
 
 The ZERI brewery project in Tsumeb, Namibia, illustrates how mushroom cultivation integrates into circular production systems:
 
-1. **Spent grain** from the brewing process, normally a waste product, serves as prime substrate for oyster mushroom cultivation
+1. **Spent grain** from the brewing process, normally a waste product, serves as prime substrate for [[comparison-reishi-vs-oyster-mushroom-cultivation]]
 2. **Mushroom harvest** yields a marketable, nutritious crop and creates local jobs
 3. **Spent mushroom substrate**, now enriched with mycelium and increased protein content, becomes palatable and nutritious livestock feed
 4. **Brewery wastewater** flushes animal manure into an anaerobic digester, producing methane for energy

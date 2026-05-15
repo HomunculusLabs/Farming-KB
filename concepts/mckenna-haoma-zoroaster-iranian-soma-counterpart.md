@@ -14,7 +14,7 @@ single collection among them is dedicated to soma, reflecting the
 centrality of this sacrament in Vedic religion. The Iranian
 counterpart, preserved in the Avesta, contains parallel hymns to
 haoma that display remarkable structural and thematic similarities
-to the Vedic soma hymns. Both traditions describe the sacred plant
+to the [[mckenna-vedic-soma-indo-european-mysteries]] hymns. Both traditions describe the sacred plant
 as growing in mountains, being pressed or pounded to extract its
 juice, and producing effects of exhilaration, visionary experience,
 and healing. The parallelism between these traditions provides
@@ -49,7 +49,7 @@ It has a long history of ritual and medicinal use in the region.
 Its seeds produce a vivid yellow-orange dye, which may connect to
 the golden or solar imagery associated with both soma and haoma
 in their respective textual traditions. The MAO-inhibiting
-alkaloids in Peganum harmala would potentiate any DMT-containing
+alkaloids in [[mckenna-food-gods-peganum-harmala-soma]] would potentiate any DMT-containing
 plants consumed alongside it, potentially explaining the
 extraordinary visionary experiences attributed to the sacred drink.
 
@@ -80,10 +80,10 @@ in folk botanical traditions across many cultures.
 
 One of the central mysteries surrounding soma and haoma is why
 the knowledge of the sacred plant was lost. The Indo-Aryans who
-composed the Rig Veda clearly knew the identity of the soma plant,
+composed the [[rig-veda]] clearly knew the identity of the soma plant,
 yet the later Brahmana and Upanishadic texts already show confusion
 about its botanical identity. Similarly, the Zoroastrian tradition
-gradually substituted other plants for haoma in ritual practice.
+gradually substituted other plants for haoma in [[powell-shamanic-wisdom-and-ritual-practice]].
 McKenna argues that this loss of botanical knowledge occurred
 during the Indo-European migrations, when nomadic peoples moved
 into regions where their original sacred plant could not grow.

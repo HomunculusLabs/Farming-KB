@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [food-forest, orchard]
-sources: []
+sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
 # Fruiting Conditions in The Mushroom Cultivator
 

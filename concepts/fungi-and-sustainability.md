@@ -87,11 +87,9 @@ Matching native fungi to native tree species is a core principle of [[mycoforest
 - Reduces erosion and silt flow along roadsides and clear-cuts
 - Creates densely bound mycelial networks that hold soil
 
-
 ## See Also
 
-- [[fungi-as-food-for-secondary-producers]]
-- [[fungi-ecosystem-primary-production]]
-- [[fungi-environment-roles-research-frontiers]]
-- [[fungi-in-tropical-canopy-and-litter-dynamics]]
-- [[fungi-population-community-regulation]]
+- [[fungi-and-their-allies-classification]]
+- [[fungi-in-the-environment-fungi-in-beetle-guts]]
+- [[fungi-living-plant-substrata]]
+- [[fungi-plant-community-assembly-regulation]]

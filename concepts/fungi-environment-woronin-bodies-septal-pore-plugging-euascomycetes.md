@@ -4,7 +4,7 @@
 
 ## Core Concept
 
-Woronin bodies are dense, spherical organelles unique to filamentous
+[[woronin-bodies]] are dense, spherical organelles unique to filamentous
 ascomycetes (euascomycetes) that function as emergency plugs for septal pores.
 When a hypha is damaged, Woronin bodies rapidly migrate to the septum and
 physically occlude the pore, preventing catastrophic loss of cytoplasm and

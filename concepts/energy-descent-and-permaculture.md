@@ -1,6 +1,6 @@
 ---
 title: Energy Descent and Permaculture
-source: David Holmgren, Permaculture: Principles & Pathways Beyond Sustainability (2002)
+source: David Holmgren, Permaculture: Principles & [[permaculture-principles-pathways-beyond-sustainability]] (2002)
 tags: [permaculture, energy, fossil-fuels, peak-oil, sustainability]
 created: 2026-05-11
 ---
@@ -48,7 +48,7 @@ years of super-accelerated growth, is strong and increasing.
 ## Permaculture as Positivistic Response
 
 Bill Mollison described permaculture as a "positivistic" response to
-environmental crisis—meaning it focuses on what people want to do and can do,
+[[global-environmental-crisis-forests-soils-water]]—meaning it focuses on what people want to do and can do,
 rather than what they oppose and want others to change. This response is both
 ethical and pragmatic, philosophical and technical. Rather than activism that
 demands systemic change from governments and corporations, permaculture
@@ -73,13 +73,13 @@ Holmgren explicitly contrasts permaculture with "green tech" approaches to
 sustainability championed by Amory Lovins and others. While both emphasize
 design processes drawn from nature and doing more with fewer resources, key
 differences exist. Permaculture gives priority to using existing wealth to
-rebuild natural capital, especially trees and forests, as proven storage of
+rebuild natural capital, especially [[pdc-trees-and-forests]], as proven storage of
 wealth to sustain humanity into a future with less fossil fuel. Permaculture
 emphasizes bottom-up redesign processes, starting with the individual and
 household as drivers for change. Most fundamentally, permaculture was
 predicated on the likelihood of some degree of collapse and breakdown in
 technology, economics, and even society—scenarios not envisaged by green tech
-optimists but already a current reality for many people around the world.
+optimists but already a current reality for many people [[fungi-around-the-world-species-distribution]].
 
 Permaculture also sees pre-industrial sustainable societies as providing
 models that reflect general system design principles observable in nature,
@@ -106,10 +106,10 @@ evolutionary progression in environmental thinking.
 ## Odum's Influence
 
 Howard T. Odum's influence on Holmgren's thinking pervades the book and the
-permaculture framework. Odum's concepts of energy hierarchy, maximum power
+permaculture framework. Odum's concepts of energy hierarchy, [[maximum-power-law]]
 principle, and emergy analysis provided the scientific foundation for
 understanding why energy descent is inevitable and how systems adapt to
-declining energy availability. The trophic pyramid model shows how energy
+declining energy availability. The [[trophic-pyramid-mollison]] model shows how energy
 concentrates and transforms through ecosystem levels—from plants through
 herbivores to predators—and how industrial society represents an extreme
 concentration of energy that cannot persist without fossil fuel subsidy.

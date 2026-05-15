@@ -26,7 +26,7 @@ The only way to achieve uniform coverage is to operate several correctly spaced 
 
 ### The Sweet Spot: 7/64 Inch (2.75 mm)
 
-For vegetable gardening, sprinkler systems designed around this nozzle size cover the largest ground while using the smallest possible number of gallons per minute. This size allows the lowest practical application rates.
+For [[dryland-vegetable-gardening]], sprinkler systems designed around this nozzle size cover the largest ground while using the smallest possible number of gallons per minute. This size allows the lowest practical [[compost-tea-application-rates]].
 
 ### Comparison of Nozzle Sizes
 
@@ -52,7 +52,7 @@ Larger bore nozzles (>7/64 inch):
 1. Emit massive droplets that cause soil compaction, reducing root penetration and making cultivation and weeding more difficult
 2. May contribute to forming soil crusts
 3. Require larger water supply than most home gardeners have (5+ GPM per sprinkler)
-4. Are designed for pastures, golf courses, and corn fields, not vegetable gardens
+4. Are designed for pastures, golf courses, and corn fields, not [[maintaining-organic-matter-in-vegetable-gardens]]
 
 ## Operating Pressure
 
@@ -90,7 +90,7 @@ After piped water gets past the house's pressure regulator, pressure is usually 
 
 ## Recommended Equipment: Naan 501U
 
-The Naan 501U sprinkler head is recommended for vegetable garden irrigation:
+The Naan 501U sprinkler head is recommended for vegetable [[dryland-garden-irrigation-systems]]:
 
 - 7/64 inch (~2.75 mm) nozzle — the ideal size
 - Low-angle design — good for windy conditions and tight spaces

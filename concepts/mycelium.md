@@ -22,12 +22,12 @@ Mycelium is composed of hyphae, individual tubular cells that grow by extending
 at their tips. Each hypha is typically 2 to 10 micrometers in diameter and can
 extend at rates of up to several millimeters per day under optimal conditions.
 Hyphae are divided by septa (cross-walls) that contain pores allowing cytoplasmic
-streaming and the transport of nutrients, organelles, and signaling molecules
+streaming and the [[membrane-transport-of-nutrients-into-plant-cells]], organelles, and signaling molecules
 between cells.
 
 As hyphae branch and interweave, they form a dense network called a mycelial
 mat. In some species, particularly wood-decay fungi, this mat can become
-extremely dense and leathery. A single individual of Armillaria ostoyae (honey
+extremely dense and leathery. A single individual of [[armillaria-ostoyae]] (honey
 fungus) in Oregon covers over 2,385 acres and is estimated to be between 2,400
 and 8,650 years old, making it one of the largest and oldest organisms on Earth.
 
@@ -37,12 +37,12 @@ Mycelium plays fundamental roles in virtually all terrestrial ecosystems:
 
 **Decomposition**: Saprotrophic fungi break down dead organic matter, recycling
 carbon, nitrogen, and other nutrients back into the ecosystem. Mycelium secretes
-extracellular enzymes including cellulases, ligninases, and proteases that
+[[fungal-extracellular-enzymes]] including cellulases, ligninases, and proteases that
 decompose complex organic polymers that few other organisms can process. Without
 fungal decomposition, the world's forests would be buried under mountains of
 undecomposed plant material. See
 [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]**: Approximately 90 percent of plant species form
-mycorrhizal associations with fungi. In exchange for carbohydrates from
+[[plants-without-mycorrhizal-associations]] with fungi. In exchange for carbohydrates from
 photosynthesis, the fungal mycelium extends the plant's root system dramatically,
 providing access to water and minerals (particularly phosphorus) that would
 otherwise be unavailable. See [[fungal-mycelial-networks-nutrient-translocation]] help bind soil particles together,
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mycelium finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mycelium and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

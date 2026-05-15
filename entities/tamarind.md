@@ -34,18 +34,18 @@ Mollison identifies tamarind as a late-successional tree species in tropical eco
 
 - **Forest succession endpoint**: Listed among the larger trees (along with Vitex, Sapium, and palms) that represent the final successional stage from grassland to forest in the humid tropics. Tamarind establishes after the shrub stage (castor oil bean, Prosopis, thorny legumes) has modified the microclimate.
 - **Dry-deciduous forests**: Mentioned in the context of dry-deciduous tropical broadleaf forests, where teak and bamboo were once extensive. Tamarind is a component of these endangered forest types, particularly in the Indian subcontinent.
-- **Multi-purpose tropical tree**: Combines food production, timber, shade, and soil stabilization in a single long-lived perennial, embodying the permaculture principle of each element performing multiple functions.
+- **Multi-purpose tropical tree**: Combines food production, timber, shade, and soil stabilization in a single long-lived perennial, embodying the [[permaculture-principle-1-observe-interact]] of each element performing multiple functions.
 - **Traditional agroforestry**: Has been integrated into homegardens and parkland systems across the tropics for centuries, providing reliable yields with minimal management input.
 
 ## Ecological Considerations
 
 - Provides habitat and food for wildlife including birds, bats, and primates that disperse seeds.
-- Dense canopy creates favorable microclimate for understory crops in tropical polycultures.
+- Dense canopy creates favorable microclimate for understory crops [[integrated-pest-management-in-tropical-polycultures]].
 - Can dominate in mixed plantings due to long lifespan and large canopy; requires adequate spacing.
 
 ## Cultivation Notes
 
-- Propagated by seed, though vegetative propagation (grafting, air layering) preserves desirable cultivar traits.
+- Propagated by seed, though [[hamilton-vegetative-propagation]] (grafting, air layering) preserves desirable cultivar traits.
 - Begins fruiting at 6–8 years from seed; grafted trees may fruit in 3–4 years.
 - Prefers well-drained soils but tolerates a wide pH range (4.5–9.0).
 - Mature trees produce 150–250 kg of fruit per year under good conditions.
@@ -60,7 +60,7 @@ Mollison identifies tamarind as a late-successional tree species in tropical eco
 ## Overview
 
 Tamarind represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -81,7 +81,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tamarind finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -110,7 +110,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 tamarind and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

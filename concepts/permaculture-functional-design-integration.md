@@ -14,7 +14,7 @@ Each placement decision follows the principle of **least work for greatest effec
 
 ## Information as a Resource Versus Real Resources
 
-A critical distinction in permaculture design is between **resources** and **information**. Resources are practical and useful energy storages — they exist and function in the real world. Information is only a potential resource until it is put to use. Mollison warns against the "academic fallacy" of confusing the assembly of information with making a real resource difference — the mistaken belief that "I think, therefore I have acted."
+A critical distinction [[ecological-succession-in-permaculture-design]] is between **resources** and **information**. Resources are practical and useful energy storages — they exist and function in the real world. Information is only a potential resource until it is put to use. Mollison warns against the "academic fallacy" of confusing the assembly of information with making a real resource difference — the mistaken belief that "I think, therefore I have acted."
 
 Analytical design methods are valuable because they can operate without site experience, generating good ideas about patterns and self-regulatory systems before leaving the desk. However, until a chicken is actually heating the greenhouse, manuring the orchard, or producing methane for the house, the system remains purely informational — potential rather than reality. No real resources have been produced and no real problems have been solved until design is implemented on the ground.
 
@@ -40,7 +40,7 @@ Functional design typically proceeds through several stages:
 
 5. **Evolution**: Allowing the design to evolve over time as the system matures and new opportunities become apparent.
 
-The transition from an isolated system diagram to an integrated system diagram — even as a simple conceptual exercise — reveals the enormous potential for energy conservation and yield improvement that functional design makes possible.
+The transition from an isolated system diagram to an integrated system diagram — even as a simple conceptual exercise — reveals the enormous potential for [[mollison-designers-home-energy-conservation-and-solar-heating]] yield improvement that functional design makes possible.
 
 ## Key Principles of Functional Design
 
@@ -65,11 +65,11 @@ The ultimate goal is a system where nature does most of the work, where human ma
 ## Key Principles
 - Central to understanding ecological and sustainable design systems
 - Integrates theoretical knowledge with practical application
-- Functions within complex adaptive systems and natural patterns
+- Functions within complex adaptive systems and [[natural-patterns-in-permaculture-design]]
 - Requires consideration of multiple interacting factors
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
+- Applied in [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] sustainable land management
 - Supports decision-making in agricultural and ecological contexts
 - Used in conservation and environmental restoration projects
 - Helps practitioners develop more resilient and productive systems
@@ -77,8 +77,8 @@ The ultimate goal is a system where nature does most of the work, where human ma
 ## Ecological Significance
 - Contributes to understanding of ecosystem dynamics and function
 - Supports biodiversity and enhances natural system resilience
-- Plays role in nutrient cycling and energy flow processes
-- Understanding improves capacity for sustainable resource management
+- Plays role in [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] energy flow processes
+- Understanding improves capacity for sustainable [[savory-holistic-resource-management-animal-impact]]
 
 ## Related Concepts
 - [[functional-design-component-placement]]

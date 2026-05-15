@@ -59,7 +59,7 @@ Beginners will find Kalapuya manageable due to its moderate THC content and bala
 
 ## Cultural Significance
 
-The strain's name honors the Kalapuya people, who inhabited the Willamette Valley for thousands of years prior to Euro-American settlement. The Kalapuya practiced controlled burning of valley grasslands to maintain habitat for game and edible plants, including wild strawberries — a botanical connection reflected in the strain's terpene profile.
+The strain's name honors the Kalapuya people, who inhabited the Willamette Valley for thousands of years prior to Euro-American settlement. The Kalapuya practiced controlled burning of valley grasslands to maintain habitat for game and edible plants, including wild strawberries — a botanical connection reflected in the strain's [[terpene-profile-chemotaxonomy]].
 
 The adoption of indigenous names for [[cannabis-for-chronic-pain]], headaches, and muscle tension without overwhelming intoxication.
 
@@ -72,7 +72,7 @@ The strain's functional clarity makes it suitable for patients who need symptom 
 ## Overview
 
 Kalapuya represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Kalapuya finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for kalapuya. Climate adaptation
+opportunities for kalapuya. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 kalapuya and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

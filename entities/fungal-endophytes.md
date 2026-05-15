@@ -53,11 +53,11 @@ type: entity
   (between plant cells) or intracellularly (within plant cells), growing without
   triggering a visible immune response
 - **Anti-herbivore defense:** Provide defense against herbivory through the
-  production of secondary metabolites — primarily alkaloids such as peramine,
+  production of [[antifungal-secondary-metabolites-coprophilous-fungi]] — primarily alkaloids such as peramine,
   lolitrem, ergovaline, and loline derivatives — that are toxic or deterrent to
   herbivorous insects and mammalian grazers
 - **Nutrient enhancement:** Improve nutrient levels in host plants, potentially
-  by facilitating nitrogen uptake, enhancing phosphorus acquisition, or
+  by facilitating nitrogen uptake, enhancing [[arbuscular-mycorrhizal-phosphorus-acquisition]], or
   modulating host metabolism toward more efficient nutrient use
 - **Stress resistance:** Can enhance plant resistance to both biotic stresses
   (pathogens, herbivores) and abiotic stresses (drought, heat, salinity, heavy
@@ -65,7 +65,7 @@ type: entity
 - **Grass endophyte model:** Best studied in grasses where *Neotyphodium* /
   *Epichloë* species confer herbivore resistance — tall fescue (*Festuca
   arundinacea*) and perennial ryegrass (*[[lolium-perenne]]*) are classic examples
-- **Community-level effects:** Can influence plant community composition through
+- **Community-level effects:** Can influence [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]] through
   differential herbivore protection; endophyte-infected grasses may outcompete
   uninfected conspecifics in grazed ecosystems
 - **Ubiquity:** Found in virtually every plant species examined, from Arctic
@@ -80,7 +80,7 @@ type: entity
 - **Horizontal transmission:** Many woody plant endophytes are horizontally
   transmitted via spores dispersed by wind, rain, or insect vectors, colonizing
   new hosts through leaf surfaces, wounds, or natural openings
-- **Drought tolerance:** May confer drought tolerance to host plants through
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** May confer drought tolerance to host plants through
   osmotic adjustment, improved water-use efficiency, and regulation of stomatal
   conductance
 
@@ -93,14 +93,14 @@ type: entity
   resistance without chemical inputs, aligning with organic and sustainable
   agriculture movements
 - **Substrate enhancement:** Potential exists for improving substrate plants used
-  in mushroom cultivation — endophyte-colonized substrates may resist
+  [[contamination-prevention-in-mushroom-cultivation]] — endophyte-colonized substrates may resist
   contamination or provide favorable nutrient profiles for saprotrophic fungi
 - **Fungal competitor dynamics:** Endophyte metabolites (alkaloids, terpenes,
   phenols) may influence fungal competitor dynamics, potentially suppressing
   undesirable molds or competitor fungi in cultivation environments
 - **Parallel research streams:** Research into endophyte applications for
   sustainable agriculture parallels mycological cultivation research in areas
-  such as inoculation techniques, substrate optimization, and biological control
+  such as inoculation techniques, substrate optimization, [[odonata-dragonflies-damselflies-ecology-and-biological-control]]
 - **Mycorrhizal interactions:** Endophyte diversity in host plants can affect
   mycorrhizal colonization success — some endophytes facilitate mycorrhizal
   establishment while others may compete for root space, making endophyte

@@ -18,7 +18,7 @@ The book is deliberately written for "Mr. and Ms. Everybody Else"—people who l
 
 ## Historical Context
 
-Solomon draws on personal experience spanning the economic cycles of the 1970s through the 2000s:
+Solomon draws on [[palmer-mushroom-cooking-and-personal-experience]] spanning the economic cycles of the 1970s through the 2000s:
 
 - **The 1970s**: High inflation and unemployment drove many people to home food production as a necessity
 - **The 1980s–2000s**: Economic good times reduced the urgency of home gardening for many, though Solomon continued year-round production
@@ -58,7 +58,7 @@ Water is often the limiting factor in productive gardening. Solomon covers:
 - **A gardener's textbook of sprinkler irrigation**: Practical irrigation methods for when supplemental water is needed
 
 ### Compost
-Soil fertility management through composting is central to Solomon's approach:
+[[soil-fertility-management]] through composting is central to Solomon's approach:
 - **Why compost?**: The role of decomposed organic matter in soil health
 - **Making low-grade compost**: Simple methods for producing useful compost with minimal effort
 - **Medium-quality compost**: The once-a-year heap method for better results
@@ -68,7 +68,7 @@ Soil fertility management through composting is central to Solomon's approach:
 ### Insects and Diseases
 Pest management without relying on synthetic chemicals:
 - **Avoiding trouble**: Preventive strategies that reduce pest and disease pressure before it becomes a problem
-- **Insects and their remedies**: Identification and organic management of common garden insects
+- **Insects and their remedies**: [[solomon-disease-identification-and-organic-remedies]] management of common garden insects
 - **Diseases and their remedies**: Recognition and treatment of common plant diseases
 
 ### What to Grow and How to Grow It
@@ -76,12 +76,12 @@ The culminating practical section provides crop-specific guidance:
 - **Some general tips**: Cross-cutting advice applicable to many crops
 - **Crops that are easiest to grow**: Recommendations for beginners and for ensuring reliable production
 - **Crops that are harder to grow**: Intermediate crops requiring more skill or attention
-- **Difficult vegetables**: Advanced crops for experienced gardeners seeking a challenge
+- **[[solomon-difficult-vegetables-celery-cauliflower-high-demand-crops]]**: Advanced crops for experienced gardeners seeking a challenge
 
 ## Key Principles
 
 ### Low-Input High-Output
-The overarching goal is maximum food production with minimum purchased inputs. This means building soil fertility from on-site resources, saving seeds, minimizing irrigation needs, and choosing crops that are productive under less-than-ideal conditions.
+The overarching goal is maximum food production with minimum purchased inputs. This means [[building-soil-fertility-long-term]] from on-site resources, saving seeds, minimizing irrigation needs, and choosing crops that are productive under less-than-ideal conditions.
 
 ### Wide Spacing
 One of Solomon's more controversial recommendations is wider plant spacing than commonly advised. This reduces competition for water and nutrients, decreases disease pressure through better air circulation, and allows individual plants to reach their full productive potential—critical when water is limited.
@@ -95,7 +95,7 @@ Rather than prescribing a universal method, Solomon encourages gardeners to obse
 ## Relevance to Sustainability
 
 Solomon's approach aligns closely with broader sustainability principles:
-- **Closed-loop fertility**: Composting and green manures eliminate the need for synthetic fertilizers
+- **Closed-loop fertility**: Composting and green manures eliminate the need for [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]
 - **Water conservation**: Spacing and irrigation strategies minimize water use
 - **Genetic diversity**: Open-pollinated seed saving preserves crop genetic diversity
 - **Local food production**: Reduces transportation energy and increases food security

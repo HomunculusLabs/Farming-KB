@@ -54,7 +54,6 @@ known demonstration sites, in [[holmgren-observe-and-interact-detailed]]** — "
 10. **Use [[permaculture-principle-creatively-use-and-respond-to-change]]** — "Vision is not seeing things as
     they are but as they will be."
 
-
 ## See Also
 
 - [[permaculture-appropriate-technology-design]]

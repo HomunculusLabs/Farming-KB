@@ -1,7 +1,7 @@
 ---
 title: "Chamovitz Retina Photoreceptor Rod Cone Resolution Plant Comparison"
 source: grahamholmes-what-a-plant-knowsindd.md
-tags: [photoreceptor, retina, rod, cone, rhodopsin, photopsin, plant-perception, Chamovitz, vision, botany]
+tags: [photoreceptor, retina, rod, cone, rhodopsin, photopsin, [[plant-perception]], Chamovitz, vision, botany]
 ---
 
 # Retinal Photoreceptors — Rods, Cones, and Resolution Compared to Plant Light Perception
@@ -11,7 +11,7 @@ tags: [photoreceptor, retina, rod, cone, rhodopsin, photopsin, plant-perception,
 - **Do not contribute to colour perception** — the world seen by rods alone is monochrome
 - **Contain the pigment rhodopsin**, a light-absorbing protein that triggers the visual signal cascade when struck by photons
 
-Because rods respond to every wavelength of visible light, they provide broad coverage but no spectral discrimination. Colour is not their function.
+Because rods respond to every wavelength of [[plant-photoreception-visible-light]], they provide broad coverage but no spectral discrimination. Colour is not their function.
 
 ## Cones: Colour Vision in Bright Light
 
@@ -73,7 +73,7 @@ Plants do not see images or form pictures in any sense analogous to human vision
 
 Where human vision trades spectral breadth for image-forming resolution, plant light perception trades image formation for spectral range and functional adaptiveness. A plant does not need to recognise a face; it needs to know whether it is in shade, which direction the sun is moving, and how long the day lasts.
 
-This difference reflects fundamentally different ecological imperatives. Animals evolved vision primarily for navigation, predator avoidance, and prey capture — tasks that benefit enormously from high-resolution spatial information. Plants, being sessile organisms, evolved light perception to optimise their growth, development, and reproductive timing in response to their light environment. A plant that can detect UV stress or measure day length has a direct survival advantage, even without forming a single image.
+This difference reflects fundamentally different ecological imperatives. Animals evolved vision primarily for navigation, predator avoidance, and prey capture — tasks that benefit enormously from high-resolution spatial information. Plants, being sessile organisms, evolved light perception to optimise their growth, development, and reproductive timing in response to their light environment. A plant that can detect UV stress or measure [[coleman-persephone-months-winter-day-length]] has a direct survival advantage, even without forming a single image.
 
 Chamovitz's broader argument is that the word "see" need not be reserved exclusively for image-forming visual systems. If we define seeing more loosely as the ability to detect and respond meaningfully to light, then plants have been seeing the world around them for hundreds of millions of years — long before the first animal eye ever opened.
 
@@ -94,5 +94,5 @@ Chamovitz's broader argument is that the word "see" need not be reserved exclusi
 
 ## Sources
 
-- Chamovitz, Daniel. *What a Plant Knows: A Field Guide to the Senses*. Chapter on light perception and the comparison between human retinal photoreceptors and plant light-sensing mechanisms.
+- Chamovitz, Daniel. *What a Plant Knows: A [[field-guide-psilocybin-bluing-reaction-identification]] to the Senses*. Chapter on light perception and the comparison between human retinal photoreceptors and plant light-sensing mechanisms.
 - Additional reference: the discussion of retinal resolution (130 megapixels) and its comparison to digital camera sensors and LED display density appears in the opening sections of the light-perception chapter.

@@ -6,7 +6,7 @@ type: concept
 
 # Arbuscular Mycorrhizae and Nematode Suppression
 
-Arbuscular mycorrhizal (AM) fungi form symbiotic associations with the roots of most terrestrial plants and play a well-documented role in suppressing plant-parasitic nematode populations. This protective function is mediated through multiple, often interacting mechanisms that operate at both the physiological and ecological levels. The relationship between AM fungi and nematode suppression has significant implications for sustainable agriculture and for understanding belowground plant–microbe interactions more broadly.
+Arbuscular mycorrhizal (AM) fungi form symbiotic associations with the roots of most terrestrial plants and play a well-documented role in suppressing plant-parasitic nematode populations. This protective function is mediated through multiple, often interacting mechanisms that operate at both the physiological and ecological levels. The relationship between AM fungi and nematode suppression has significant implications [[mushroom-cultivation-for-sustainable-agriculture]] and for understanding belowground plant–microbe interactions more broadly.
 
 Beyond direct interactions with nematodes, AM fungi also influence the dynamics between host plants and a wide range of other belowground antagonists, including fungal pathogens and root hemiparasitic plants. The net effect on host plant fitness depends on the balance of these interactions and is sensitive to environmental context, plant phenology, and the specific species involved. Understanding these complex multi-trophic interactions is a central challenge in belowground ecology.
 
@@ -38,7 +38,7 @@ These mechanisms are not mutually exclusive and likely act synergistically. The 
 
 ## Elsen et al. (2001): *Glomus intraradices* and Burrowing Nematode Suppression
 
-One of the most quantitatively clear demonstrations of AM-mediated nematode suppression comes from Elsen et al. (2001), who studied the interaction between the arbuscular mycorrhizal fungus *Glomus intraradices* and the burrowing nematode *Radopholus similis* on carrot roots. *Radopholus similis* is a migratory endoparasitic nematode of considerable economic importance, affecting banana, citrus, pepper, and other crops worldwide.
+One of the most quantitatively clear demonstrations of AM-mediated nematode suppression comes from Elsen et al. (2001), who studied the interaction between the arbuscular mycorrhizal fungus *Glomus intraradices* and the burrowing nematode *[[radopholus-similis]]* on carrot roots. *Radopholus similis* is a migratory endoparasitic nematode of considerable economic importance, affecting banana, citrus, pepper, and other crops worldwide.
 
 Their results showed an approximately 50% reduction in nematode populations within mycorrhizal roots compared to non-mycorrhizal controls. The specific counts were as follows:
 
@@ -62,7 +62,7 @@ In their study, both pathogens caused substantial reductions in plant growth par
 
 - Mycorrhizal colonization ameliorated the negative effects of pathogens on shoot and root dry biomass, with mycorrhizal plants showing growth levels comparable to uninfected non-mycorrhizal controls.
 - Pod number and seed weight were significantly higher in mycorrhizal plants compared to non-mycorrhizal plants under pathogen pressure, indicating that the protective effect translated directly into improved yield components.
-- The number of pathogen propagules was reduced in the rhizosphere of mycorrhizal plants relative to non-mycorrhizal controls, indicating that AM fungi may alter the soil microbial community in ways that are less favorable to pathogen establishment and persistence.
+- The number of pathogen propagules was reduced in the rhizosphere of mycorrhizal plants relative to non-mycorrhizal controls, indicating that AM fungi may alter the [[edaphic-factors-soil-microbial-community-structure]] in ways that are less favorable to pathogen establishment and persistence.
 
 These results reinforce the concept of mycorrhiza-induced resistance, where the presence of AM fungi primes or activates plant defense pathways that are effective against a broad spectrum of belowground antagonists. The reduction in pathogen propagules in the rhizosphere further suggests that AM-mediated pathogen suppression operates at the community level, not solely through changes in host plant physiology.
 
@@ -82,7 +82,7 @@ This work highlights the complexity of belowground interactions mediated by AM f
 
 Borowicz (2001) conducted a meta-analysis of studies examining the effects of AM fungi on plant interactions with pathogens, parasites, and herbivores. Several important patterns emerged from this synthesis:
 
-- The majority of studies in this area have focused on crop plants grown under controlled greenhouse conditions, typically in low-phosphorus soils. This experimental bias limits the generalizability of findings to natural ecosystems where phosphorus availability and competitive dynamics differ substantially.
+- The majority of studies in this area have focused on crop plants grown under controlled greenhouse conditions, typically in low-phosphorus soils. This experimental bias limits the generalizability of findings to natural ecosystems where [[phosphorus-availability]] and competitive dynamics differ substantially.
 - Despite the predominance of greenhouse studies, the overall pattern across studies supports a net protective effect of AM fungi against a range of belowground antagonists, including nematodes, fungal pathogens, and some parasitic plants.
 - The strength and direction of AM effects vary considerably among studies, likely reflecting differences in AM fungal species, host plant species, antagonist identity, and environmental conditions.
 
@@ -104,7 +104,7 @@ As the plant transitions to reproductive growth and carbon demand shifts abovegr
 
 Environmental conditions—particularly soil nutrient availability, moisture, and temperature—also modulate the strength and direction of these interactions. For example, under high-phosphorus conditions, the mutualistic nature of the AM symbiosis may weaken, potentially reducing the protective benefits against nematodes and other antagonists. Similarly, drought or other environmental stresses may alter the allocation of plant resources between growth, defense, and symbiotic maintenance, changing the dynamics of the mycorrhiza–pathogen interaction.
 
-Soil pH, organic matter content, and the composition of the broader soil microbial community can all influence the outcome of AM–antagonist interactions. In soils with diverse and well-established microbial communities, the protective effects of AM fungi may be amplified through synergistic interactions with other beneficial microorganisms, such as plant growth-promoting rhizobacteria and saprotrophic fungi that compete with pathogens for resources or produce antimicrobial compounds.
+Soil pH, organic matter content, and the composition of the broader soil microbial community can all influence the outcome of AM–antagonist interactions. In soils with diverse and well-established microbial communities, the protective effects of AM fungi may be amplified through synergistic interactions with other [[forest-and-bamboo-beneficial-microorganisms]], such as plant growth-promoting rhizobacteria and saprotrophic fungi that compete with pathogens for resources or produce antimicrobial compounds.
 
 Understanding these context-dependent shifts is essential for predicting when and where AM fungi will provide meaningful biological control of nematodes and other belowground pests, and for developing effective mycorrhizal-based management strategies in agricultural and natural systems.
 
@@ -118,7 +118,7 @@ Third, the context-dependent nature of AM-mediated protection means that managem
 
 ## Research Gaps and Future Directions
 
-Despite considerable progress in understanding AM-mediated nematode and pathogen suppression, several important knowledge gaps remain. Most studies have been conducted under controlled greenhouse conditions with crop plants, and the extent to which these findings generalize to field conditions and natural ecosystems is unclear. More research is needed on the specific biochemical and molecular mechanisms underlying mycorrhiza-induced resistance, including the signaling pathways involved and how they interact with other plant defense systems.
+Despite considerable progress in understanding AM-mediated nematode and pathogen suppression, several important knowledge gaps remain. Most studies have been conducted under controlled greenhouse conditions with crop plants, and the extent to which these findings generalize to field conditions and natural ecosystems is unclear. More research is needed on the specific biochemical and molecular mechanisms underlying mycorrhiza-induced resistance, including the [[plant-signaling-pathways]] involved and how they interact with other plant defense systems.
 
 The role of AM fungal diversity in mediating protective effects also warrants further investigation. Different AM fungal species and even different isolates within a species may vary substantially in their ability to suppress nematodes and pathogens. Understanding this variation could inform the selection of optimal AM fungal inoculants for specific crop–antagonist combinations.
 

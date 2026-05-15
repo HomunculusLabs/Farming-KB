@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags: [tillage, no-till, fungal-networks, soil-structure]
-sources: []
+sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
 # Tilling Damage to Fungal Networks

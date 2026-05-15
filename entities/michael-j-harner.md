@@ -23,7 +23,7 @@ People of the Sacred Waterfalls* (1972).
   Columbia University, Yale University, UC Berkeley
 - **Research area:** Upper Amazon ethnology, hallucinogenic
   plants, shamanism
-- **Field sites:** Ecuadorian and Peruvian Amazon
+- **Field sites:** Ecuadorian and [[ayahuasca-tourism-economics-peruvian-amazon]]
 
 ## Key Facts
 
@@ -47,7 +47,7 @@ through 1964 (return to Jivaro focusing on hallucinogen use).
 
 ### Personal Hallucinogenic Experience
 
-A turning point in Harner's career came in 1961 when he drank
+A [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] in Harner's career came in 1961 when he drank
 the Banisteriopsis brew during fieldwork with an Upper Amazon
 tribe. His experience was profound:
 
@@ -63,7 +63,7 @@ the Jivaro to focus specifically on hallucinogen use.
 
 ### Major Publications
 
-- **Hallucinogens and Shamanism** (1973, ed.) — collected papers
+- **[[hallucinogens-and-shamanism-harner-anthology]]** (1973, ed.) — collected papers
   from a symposium at the American Anthropological Association;
   remains a foundational text in the ethnography of
   hallucinogenic plant use
@@ -71,7 +71,7 @@ the Jivaro to focus specifically on hallucinogen use.
   comprehensive ethnography of Jivaro culture including
   shamanism and hallucinogen use
 - **"The Sound of Rushing Water"** (Natural History Magazine,
-  1968) — influential account of Jivaro shamanism from the
+  1968) — influential account of [[harner-jivaro-shamanism-yage]] from the
   "inside view"
 
 ### Theoretical Contributions
@@ -101,7 +101,7 @@ His insistence on "participant observation"—personally
 experiencing the hallucinogens he studied—pioneered a more
 phenomenologically grounded approach to ethnobotany. His
 documentation of Jivaro *Banisteriopsis* use provides crucial
-data on preparation methods, dosage, experiential effects,
+data on [[amanita-muscaria-preparation-methods]], dosage, experiential effects,
 and cultural integration of hallucinogenic plants.
 
 ## Sources

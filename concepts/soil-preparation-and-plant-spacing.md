@@ -18,7 +18,7 @@ Before any physical preparation begins, Solomon emphasizes understanding what ty
 
 - **Clay soils** (pages 34-37, 48-49, 59, 166): Heavy, sticky when wet, hard when dry. Excellent nutrient-holding capacity but poor drainage and aeration. Prone to crusting (pages 63-64, 122-123, 152, 167) which prevents seed emergence and water infiltration.
 - **Sandy soils** (pages 154, 155, 158-159, 166): Free-draining and easy to work but poor at retaining moisture and nutrients. Compost (page 64) helps improve water retention. Asparagus can thrive in sandy soil (page 317).
-- **Soil tests** (pages 31, 35, 156-158): Fractional analysis tests for clay soils (pages 35, 156-158) help quantify clay content and guide amendment decisions. pH testing determines acidity (page 23) and lime requirements.
+- **Soil tests** (pages 31, 35, 156-158): [[solomon-soil-profile-assessment-fractional-analysis-jar-test]] tests for clay soils (pages 35, 156-158) help quantify clay content and guide amendment decisions. pH testing determines acidity (page 23) and lime requirements.
 - **Gravel in subsoil** (pages 156-157): Can create drainage problems or, conversely, perched water tables that restrict root depth.
 
 ### Goals of Soil Preparation
@@ -61,7 +61,7 @@ For gardeners who want to avoid both hand digging and rototilling:
 Compost plays multiple roles in soil preparation:
 
 - **In seedbeds** (pages 65, 68, 89, 122-123): A thin layer of finished compost worked into the top few inches provides nutrients and improves soil structure for seed germination
-- **In pre-planting** (pages 186-189): Sheet composting and pre-planting compost applications build long-term soil organic matter
+- **In pre-planting** (pages 186-189): Sheet composting and pre-planting compost applications build long-term [[humus-and-soil-organic-matter]]
 - **For soil improvement** (pages 32, 39): Compost improves both clay and sandy soils, though the mechanisms differ (improving drainage in clay, improving water retention in sand)
 - **To prevent puddling or crusting** (pages 64, 152): Compost creates stable soil aggregates that resist both surface crusting and erosion
 - **Measuring compost** (page 66): Solomon provides guidance on how much compost to apply, emphasizing that more is not always better
@@ -70,7 +70,7 @@ Compost plays multiple roles in soil preparation:
 
 - **Acidity of soils** (page 23): Most vegetables prefer slightly acidic to neutral soil (pH 6.0-7.0)
 - **Agricultural lime** (page 31): Applied to raise pH in acidic soils, particularly important for clay soils
-- **Dolomite** (page 22): A source of both calcium and magnesium, used when both pH adjustment and magnesium supplementation are needed
+- **Dolomite** (page 22): A source of both [[dynamic-accumulator-plants-calcium-and-magnesium]], used when both pH adjustment and magnesium supplementation are needed
 - **Sulfur** (pages 17, 18, 21): Applied to lower pH in alkaline soils
 
 ### Raised Beds (Pages 57-59)
@@ -94,7 +94,7 @@ In a survival gardening context, where labor and inputs are minimal:
 
 ### The Spacing Philosophy
 
-Solomon's approach to plant spacing is one of the most distinctive aspects of his gardening philosophy. He argues strongly against the [[intensive-planting-spacing]], close-spacing approach popularized by authors like John Jeavons, advocating instead for wider spacing that allows each plant to develop a deep, extensive root system.
+Solomon's approach to plant spacing is one of the most distinctive aspects of his [[solomon-hard-times-gardening-philosophy-self-sufficiency]]. He argues strongly against the [[intensive-planting-spacing]], close-spacing approach popularized by authors like John Jeavons, advocating instead for wider spacing that allows each plant to develop a deep, extensive root system.
 
 ### Intensive vs. Extensive Spacing (Pages 1-2, 56-57, 146, 147, 152)
 
@@ -107,8 +107,8 @@ Solomon's approach to plant spacing is one of the most distinctive aspects of hi
 **Extensive gardening** (Solomon's recommended approach):
 - Plants spaced wider apart
 - Goal: Maximum yield per unit of labor and water
-- Requires: Complete organic fertilizer, adequate initial soil preparation
-- Result: Deep root systems, less competition, greater drought tolerance, lower water needs
+- Requires: [[complete-organic-fertilizer]], adequate initial soil preparation
+- Result: Deep root systems, less competition, greater [[dighton-fungal-drought-tolerance-plant-water-relations]], lower water needs
 
 ### The Spacing Chart (Pages 147-152)
 

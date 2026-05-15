@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungal weathering of rocks and minerals proceeds through two synergistic categories of action: **biomechanical weathering** (physical disruption) and **biochemical weathering** (chemical dissolution, also called "heterotrophic leaching"). While biomechanical processes directly damage mineral substrates, biochemical processes are generally considered far more important in terms of overall mineral dissolution and element mobilization. Both categories are intimately connected, with biomechanical penetration creating new surfaces for biochemical attack.
+Fungal weathering of rocks and minerals proceeds through two synergistic categories of action: **biomechanical weathering** (physical disruption) and **[[gadd-fungal-biochemical-weathering-acidolysis-complexolysis-redoxolysis-protonolysis]]** (chemical dissolution, also called "[[staycare-fungal-heterotrophic-leaching-biosorption]]"). While biomechanical processes directly damage mineral substrates, biochemical processes are generally considered far more important in terms of overall mineral dissolution and element mobilization. Both categories are intimately connected, with biomechanical penetration creating new surfaces for biochemical attack.
 
 ## Biomechanical Weathering
 
@@ -67,7 +67,7 @@ Metal immobilization mechanisms reduce external free metal activity, shifting eq
 
 1. **Biosorption**: Binding to biomass — cell walls, pigments, and extracellular polysaccharides. This can be a passive process in both living and dead biomass.
 2. **Intracellular accumulation**: Active transport of metals into cells.
-3. **Extracellular precipitation**: Formation of secondary minerals (carbonates, oxalates, phosphates, hydroxides) that immobilize metals.
+3. **Extracellular precipitation**: Formation of [[gadd-mycogenic-mineral-precipitation-secondary-minerals]] (carbonates, oxalates, phosphates, hydroxides) that immobilize metals.
 
 Fungi are highly efficient bioaccumulators of soluble and particulate metals (Ni, Zn, Ag, Cu, Cd, Pb), especially from dilute external concentrations.
 
@@ -86,11 +86,11 @@ The dominant weathering mechanism depends on:
 The biochemical weathering activities of fungi have wide-ranging consequences:
 
 - **Soil formation**: Mineral dissolution releases essential nutrients for plant and microbial growth.
-- **Nutrient cycling**: Mobilization of P, K, Ca, Mg, Fe, Mn, and trace elements from mineral sources.
+- **Nutrient cycling**: Mobilization of P, K, Ca, Mg, Fe, Mn, [[teaming-with-nutrients-micronutrients-and-trace-elements]] from mineral sources.
 - **Toxic metal mobilization**: Release of Cd, Pb, Hg, Al from geological sources into bioavailable forms.
 - **Metal immobilization**: Precipitation of secondary minerals can detoxify contaminated environments.
-- **Carbon cycling**: Carbonate precipitation coupled with silicate weathering provides a terrestrial CO₂ sink.
-- **Material deterioration**: Bioweathering degrades building stone, concrete, ceramics, and cultural heritage materials.
+- **Carbon cycling**: [[fungal-calcium-oxalate-and-carbonate-precipitation]] coupled with silicate weathering provides a terrestrial CO₂ sink.
+- **[[fungal-building-material-deterioration]]**: Bioweathering degrades building stone, concrete, ceramics, and cultural heritage materials.
 
 ## See Also
 

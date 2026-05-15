@@ -6,7 +6,7 @@ type: concept
 
 # Hybrid vs Open-Pollinated Varieties
 
-The debate between hybrid (F1) and open-pollinated (OP) varieties is one of the most misunderstood topics in gardening. Much of the anti-hybrid propaganda in circulation is misinformation put forth by people who want to profitably sell you low-cost seed. At the same time, hybrid varieties do present real issues for home gardeners — just not the ones usually cited. Understanding the actual differences helps you make informed seed-purchasing decisions.
+The debate between hybrid (F1) and open-pollinated (OP) varieties is one of the most misunderstood topics in gardening. Much of the anti-hybrid propaganda in circulation is misinformation put forth by people who want to profitably sell you low-cost seed. At the same time, [[cervantes-hybrid-varieties-types]] do present real issues for home gardeners — just not the ones usually cited. Understanding the actual differences helps you make informed seed-purchasing decisions.
 
 ## Definitions
 
@@ -33,11 +33,11 @@ The first-generation offspring of a cross between two genetically distinct, high
 
 ### Claim: "OP varieties are always more nutritious and better-tasting"
 
-**False — with a grain of truth**. The modern OP varieties bred after roughly 1870 are just as nutritious and tasty as the old-fashioned heirlooms were. However, the *reason* older varieties sometimes taste better is not because they are OP or heirloom — it is because they were selected over thousands of years by families choosing for flavor and nutrition. After 1870, when vegetable growing shifted from subsistence to commercial, breeders selected for marketability (appearance, shipping quality, uniformity) rather than flavor.
+**False — with a grain of truth**. The modern OP varieties bred after roughly 1870 are just as nutritious and tasty as the old-fashioned heirlooms were. However, the *reason* older varieties sometimes taste better is not because they are OP or heirloom — it is because they were selected over thousands of years by families choosing for flavor and nutrition. After 1870, when [[fukuoka-natural-vegetable-growing]] shifted from subsistence to commercial, breeders selected for marketability (appearance, shipping quality, uniformity) rather than flavor.
 
 ### Claim: "Heirlooms are always better"
 
-**False**. Many heirloom varieties have degenerated from their original quality due to careless seed saving, too-small gene pools, and selection for the wrong traits. Some heirlooms are outstanding; many are mediocre.
+**False**. Many [[cannabis-landrace-and-heirloom-varieties]] have degenerated from their original quality due to careless seed saving, too-small gene pools, and selection for the wrong traits. Some heirlooms are outstanding; many are mediocre.
 
 ## How Hybrids Are Made
 
@@ -99,11 +99,11 @@ The problem: hybrid seed has caused interest in OP varieties to virtually disapp
 
 ## The Heirloom Nutrition Story
 
-The full truth about nutrition is worth understanding. For thousands of years, each family raised seed for its own unique varieties, selected over generations for the needs, tastes, and health of the family. Better vegetable varieties tended to produce children who survived childhood diseases. Less nutritious varieties tended to disappear.
+The full truth about nutrition is worth understanding. For thousands of years, each family raised seed for its own unique varieties, selected over generations for the needs, tastes, and health of the family. Better [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] tended to produce children who survived childhood diseases. Less nutritious varieties tended to disappear.
 
-After about 1870, as industrialization progressed and vegetable growing shifted from subsistence to commerce, breeders selected for marketability — appearance, shipping quality, yield — rather than nutritional quality. This is why some old varieties genuinely taste better: not because they are heirlooms, but because they were selected for flavor and nutrition during an era when that mattered for survival.
+After about 1870, as industrialization progressed and vegetable growing shifted from subsistence to commerce, breeders selected for marketability — appearance, shipping quality, yield — rather than [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. This is why some old varieties genuinely taste better: not because they are heirlooms, but because they were selected for flavor and nutrition during an era when that mattered for survival.
 
-Modern OP varieties, when bred with nutrition and flavor as selection criteria, can be just as nutritious and tasty as the best heirlooms.
+Modern OP varieties, when bred with nutrition and flavor as [[cannabis-breeding-traits-selection-criteria-clarke]], can be just as nutritious and tasty as the best heirlooms.
 
 ## Practical Recommendations
 

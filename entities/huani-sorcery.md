@@ -29,7 +29,7 @@ Huani (also spelled *huani*) is a form of sorcery in Amazonian vegetalismo that 
 - The visionary diagnostic pattern belongs with [[amaringo-ayahuasca-visions-shipibo-iconography]], where visual forms carry clinical and spiritual information.
 - In Amaringo's system, the distinction between curable and incurable attack is central.
 - Huani marks the boundary case: ordinary shamanic technique can identify it, but cannot reliably reverse it.
-- That makes the category useful for understanding triage, prognosis, and humility in vegetalista healing.
+- That makes the category useful for understanding triage, prognosis, and humility in [[vegetalista-healing-techniques-and-plant-medicines]].
 - The steel bow and crystal arrow combine manufactured hardness with visionary translucence, suggesting a weapon that is both material and subtle.
 - The living piranha in the mariri gives the attack a predatory digestive image: the victim is consumed from within.
 - The association with stinging plants reinforces the theme of piercing, burning, and irreversible penetration.
@@ -71,7 +71,7 @@ Huani (also spelled *huani*) is a form of sorcery in Amazonian vegetalismo that 
 ## Overview
 
 Huani Sorcery represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Huani Sorcery finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,13 +100,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for huani sorcery. Climate adaptation
+opportunities for huani sorcery. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 huani sorcery and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

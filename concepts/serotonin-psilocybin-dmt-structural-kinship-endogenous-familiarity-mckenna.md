@@ -1,5 +1,5 @@
 ---
-title: Serotonin Psilocybin and DMT Structural Kinship as Argument for Endogenous Brain Familiarity
+title: [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] and DMT Structural Kinship as Argument for Endogenous Brain Familiarity
 created: 2026-05-11
 source: mckenna_t-tryptamines_consciousness.md
 tags: [serotonin, psilocybin, dmt, tryptamine, structural-kinship, endogenous, neurotransmitter, pharmacology, mckenna]
@@ -14,7 +14,7 @@ extraordinary effects with such rapid onset and brief duration: the structural
 kinship between DMT, psilocybin, and serotonin — the major neurotransmitter in the
 human brain — means that the brain is "absolutely at home with this compound." This
 argument connects molecular pharmacology to the phenomenological intensity of the
-tryptamine experience and deserves examination as a bridge between chemistry and
+[[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] and deserves examination as a bridge between chemistry and
 consciousness studies.
 
 ## The Three Molecules and Their Structural Relationships
@@ -82,7 +82,7 @@ apparently alien intelligence.
 ## The Quantum Mechanical Correlates Argument
 
 McKenna further supports the structural argument with a quantum mechanical one,
-citing John Smythies and Alexander Shulgin: "if one atom on the molecular ring of
+citing John Smythies and [[alexander-shulgin]]: "if one atom on the molecular ring of
 an inactive compound is moved, the compound becomes highly active." This single-
 atom sensitivity is, for McKenna, "a perfect proof of the dynamic linkage at the
 formative level between quantum mechanically described matter and mind." The
@@ -93,7 +93,7 @@ at the quantum-mechanical foundation of neural computation.
 
 This argument, while provocative, connects to legitimate research in
 psychopharmacology. The differential activity of 4-substituted vs. 5-substituted
-tryptamines at serotonin receptor subtypes (particularly 5-HT₂A) is well
+tryptamines at [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes (particularly 5-HT₂A) is well
 documented, and the relationship between molecular conformation and receptor
 activation is indeed a quantum-mechanical phenomenon involving electron orbital
 overlap, binding pocket complementarity, and conformational entropy.
@@ -104,7 +104,7 @@ McKenna's argument gains additional force from the fact that DMT is endogenous.
 It is present in the human brain, cerebrospinal fluid, and peripheral tissues,
 and is synthesized from tryptophan via the enzymatic pathways TPH → 5-HTP →
 serotonin → tryptamine → DMT (via INMT). The presence of endogenous DMT, combined
-with the structural similarity of psilocybin's active metabolite (psilocin) to
+with the [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]] of psilocybin's active metabolite (psilocin) to
 serotonin, creates a three-member family of molecules that span the range from
 endogenous neurotransmitter (serotonin) through endogenous trace amine (DMT) to
 exogenous psychedelic (psilocybin), with only the most minute structural
@@ -112,7 +112,7 @@ differences separating them.
 
 McKenna does not develop the full pharmacological implications of this argument —
 he is explicit that he is "an explorer, not a scientist" — but the structural
-kinship he identifies has become a cornerstone of modern psychedelic pharmacology
+kinship he identifies has become a cornerstone of modern [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]
 and provides a molecular explanation for why tryptamine experiences feel
 qualitatively different from experiences produced by compounds with more distant
 structural relationships to endogenous neurochemistry.

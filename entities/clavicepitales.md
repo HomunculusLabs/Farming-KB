@@ -56,7 +56,7 @@ herbivore resistance.
 
 ## Relevance to Cultivation and Mycology
 
-- **Pasture management:** Clavicipitalean endophytes are central to pasture
+- **[[pasture-management]]:** Clavicipitalean endophytes are central to pasture
   grass breeding programs, particularly for tall fescue and perennial ryegrass
   used in livestock production.
 - **Novel endophyte technology:** Breeding programs select for strains
@@ -81,8 +81,13 @@ herbivore resistance.
 
 ## References
 
-- Clay, K. (1990). Fungal endophytes of grasses. Annual Review of Ecology and
+- Clay, K. (1990). [[fungal-endophytes]] of grasses. Annual Review of Ecology and
   Systematics, 21, 275-297.
 - Bacon, C. W., White, J. F. (2000). Microbial Endophytes. Marcel Dekker.
 - Richardson, M. D. (2000). Alkaloids of endophyte-infected grasses.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+## See also
+
+- [[clavicipitales]]
+- [[epichloe]]
+- [[neotyphodium]]

@@ -38,7 +38,7 @@ The elements typically included:
 The plant entheogens used in these circles reflected a global
 pharmacopoeia of shamanic substances:
 
-- **Psilocybe mushrooms** — the most commonly used medicine
+- **[[grass-seed-cultivation-of-psilocybe-mushrooms]]** — the most commonly used medicine
 - **Ayahuasca** — the Amazonian brew combining [[stanislav-grof]])
 - Various forms of psychotherapy and body-oriented therapy
 
@@ -50,7 +50,7 @@ synthesis of contemplative and therapeutic approaches.
 
 A distinctive feature of these ceremonies was the use of the **talking
 staff** or **singing staff** — a practice that "seems to have originated
-among the Indians of the Pacific Northwest" and is more generally
+among the Indians of the [[psilocybin-north-america-pacific-northwest]]" and is more generally
 referred to as "**council**."
 
 In council practice, only the person holding the circulating staff may
@@ -79,7 +79,7 @@ integration:
 ## Overview
 
 Metzner Hybrid Circle Ritual Structure And Council Practice represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Metzner Hybrid Circle Ritual Structure And Council Practice finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -108,7 +108,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 metzner hybrid circle ritual structure and council practice and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Fungal endophytes are fungi that grow within plant tissues for a period and then egress to sporulate, generally causing no apparent damage to their host. They represent a model system demonstrating how fungi can have important cascading effects upward through entire communities by virtue of their interactions with grazing animals. The most extensively studied endophyte-plant interactions involve members of the Clavicepitales and grasses, where endophyte presence in leaves reduces insect herbivory, grazing by ungulates, and oviposition by insects.
+[[fungal-endophytes]] are fungi that grow within plant tissues for a period and then egress to sporulate, generally causing no apparent damage to their host. They represent a model system demonstrating how fungi can have important cascading effects upward through entire communities by virtue of their interactions with grazing animals. The most extensively studied endophyte-plant interactions involve members of the Clavicepitales and grasses, where endophyte presence in leaves reduces insect herbivory, grazing by ungulates, and oviposition by insects.
 
 ## Definition and Classification
 
@@ -24,7 +24,7 @@ Where A = uninfected plant with no herbivory, B = endophyte infection with no he
 
 ### Reduction of Insect Herbivory
 
-The presence of endophytic fungi in grass leaves has been documented to reduce the incidence of insect herbivory across a wide range of herbivore species and host plants (Table 5.11 in source). Documented effects include:
+The presence of [[endophytic-fungi]] in grass leaves has been documented to reduce the incidence of insect herbivory across a wide range of herbivore species and host plants (Table 5.11 in source). Documented effects include:
 
 - **Avoidance**: Rhopalosiphum padi on Festuca
 - **Reduced survival and development rate**: Spodoptera frugiperda on Cenchrus, and S. eridania on multiple genera (Cyperus, Danthonia, Festuca, Glyceria, Lolium, Panicum, Paspalum, Stipa, Tridens)

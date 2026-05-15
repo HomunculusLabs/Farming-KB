@@ -1,7 +1,7 @@
 ---
-title: Madeira and the Origin of Commercial Sugar Slavery
+title: Madeira and the Origin of Commercial [[mckenna-sugar-slavery-and-dominance]]
 source: mckenna_t-food_of_the_gods.md
-author: Terence McKenna
+author: [[terence-mckenna]]
 topics: [history, sugar, slavery, colonialism, Madeira, Atlantic-trade, plantation-economy]
 ---
 
@@ -89,7 +89,7 @@ testifies to the profitability of sugar and the ruthlessness with which
 the colonial powers pursued it.
 
 The slave trade was itself a kind of addiction, McKenna argues. The
-early importation of African slave labor into the New World was for one
+early importation of [[guzman-allen-gartz-cubensis-introduction-african-slave-commerce-hypothesis]] labor into the New World was for one
 purpose only: to support an agricultural economy based on sugar. The
 craze for sugar was so overwhelming that a thousand years of Christian
 ethical conditioning meant nothing. An outbreak of human cruelty and
@@ -101,7 +101,7 @@ institutions of polite society.
 McKenna draws a direct comparison between the modern [[cocaine]] trade and
 the historical sugar trade — and finds the modern trade wanting in
 scale of destruction. The distortion and dehumanizing of human
-institutions caused by crack cocaine today is nothing compared with
+institutions caused by [[mdma-crack-cocaine-drug-terror-1980s]] today is nothing compared with
 what the European desire for sugar did in the seventeenth and
 eighteenth centuries.
 
@@ -132,7 +132,7 @@ represented a regression from even this modest improvement.
 
 The plantation model developed on Madeira became the template for
 colonial agriculture across the tropical world. Its basic elements — a
-monoculture cash crop, a racially defined slave labor force, a distant
+monoculture [[cash-crop-guide]], a racially defined slave labor force, a distant
 European market, and enormous profits concentrated in the hands of a
 few — would be replicated from Brazil to the Caribbean to the American
 South. The institution that began with a thousand European debtors on a

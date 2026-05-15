@@ -29,7 +29,7 @@ This finding directly validates the permaculture principle that edge-maximized w
 - Published by Fishing News Books Ltd., Surrey, United Kingdom
 - Comprehensive coverage of breeding and rearing techniques for freshwater and coldwater fish species
 - Mollison rates it as "excellent" and includes it as a recommended basic reference text for permaculture designers
-- Serves as a critical bridge between conventional aquaculture science and permaculture design methodology
+- Serves as a critical bridge between conventional aquaculture science and [[permaculture-design]] methodology
 - Covers both temperate coldwater species and warm-water fish culture methods
 
 ### Research Contributions to Aquaculture Science

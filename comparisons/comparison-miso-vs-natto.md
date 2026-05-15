@@ -15,7 +15,7 @@ type: comparison
 ## Overview
 Miso and natto are two traditional Japanese fermented soybean foods with
 distinct production methods, flavors, and health benefits. Miso is a paste
-made by fermenting soybeans with salt and koji (Aspergillus oryzae) for
+made by fermenting soybeans with salt and koji ([[aspergillus-oryzae]]) for
 periods ranging from weeks to years, producing a savory, umami-rich
 condiment used in soups, marinades, and sauces. Natto is made by fermenting
 steamed soybeans with Bacillus subtilis natto, a bacterium that produces a

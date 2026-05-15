@@ -1,5 +1,5 @@
 ---
-title: Composting and Vermicomposting
+title: [[kitchen-composting-and-vermicomposting]]
 created: 2026-04-28
 tags: [composting, vermicomposting, soil-amendment, organic-waste, natural-farming]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 Composting transforms organic waste into rich, fertile soil amendment. Food
 scraps and kitchen waste that would otherwise fill about 30 percent of your
 garbage can instead decompose and return to the soil from whence they came.
-Composting is a cornerstone of natural-farm-permaculture-ethics-principles
+Composting is a cornerstone of natural-farm-[[permaculture-ethics]]-principles
 circular systems where every output becomes an input.
 
 ## Kitchen Composting Basics
@@ -79,8 +79,8 @@ Ongoing developments in research and practice continue to expand our
 
 ## Overview
 
-Natural Farm Composting Vermicomposting represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+Natural Farm [[cotter-recycling-composting-vermicomposting-mushrooms]] represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Natural Farm Composting Vermicomposting finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 natural farm composting vermicomposting and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

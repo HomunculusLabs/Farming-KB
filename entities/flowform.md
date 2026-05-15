@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-A **flowform** is a sculptural water feature designed to guide water through a series of vessel shapes that generate rhythmic vortices, figure-eight flow patterns, and aeration cascades. Flowforms exploit the natural phenomenon of vortex shedding from bluff bodies in flowing water — alternating vortices are released from each side of an obstacle, creating complex and aesthetically beautiful flow patterns. The concept was developed at the **Virbela Institute** and is referenced by Mollison as an application of natural flow dynamics to [[mushroom-substrate-preparation]], particularly in liquid culture systems where dissolved oxygen is a limiting factor. The rhythmic mixing action of flowforms can be used in compost tea production — a technique increasingly used in organic mushroom cultivation to create biological inoculants. The vortex dynamics also model the flow patterns found in natural streams where many aquatic and riparian fungi thrive, informing the design of artificial waterways in integrated aquaculture-mushroom systems.
+A **flowform** is a sculptural water feature designed to guide water through a series of vessel shapes that generate rhythmic vortices, figure-eight flow patterns, and aeration cascades. Flowforms exploit the natural phenomenon of vortex shedding from bluff bodies in flowing water — alternating vortices are released from each side of an obstacle, creating complex and aesthetically beautiful flow patterns. The concept was developed at the **[[virbela-institute]]** and is referenced by Mollison as an application of natural flow dynamics to [[mushroom-substrate-preparation]], particularly in liquid culture systems where dissolved oxygen is a limiting factor. The rhythmic mixing action of flowforms can be used in compost tea production — a technique increasingly used in [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]] to create biological inoculants. The vortex dynamics also model the flow patterns found in natural streams where many aquatic and riparian fungi thrive, informing the design of artificial waterways in integrated aquaculture-mushroom systems.
 
 ## Design Principles
 
@@ -23,7 +23,7 @@ Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 4, section on [[spir
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies
-- Relates to fundamental principles of natural system design
+- Relates to fundamental [[four-principles-of-natural-farming]] system design
 - Has applications across multiple disciplines and contexts
 - Understanding this topic supports better environmental stewardship
 
@@ -46,7 +46,7 @@ Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 4, section on [[spir
 - Influenced by landscape-level patterns and processes
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
+- Applied in [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] sustainable land management
 - Used in conservation and ecological restoration projects
 - Informs decision-making in agricultural and horticultural systems
 - Supports development of regenerative practices
@@ -84,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Flowform finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -113,7 +113,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 flowform and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

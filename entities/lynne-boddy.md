@@ -9,7 +9,7 @@ tags: [person, mycologist, basidiomycete, decomposition, ecology, researcher]
 
 ## Description
 
-Lynne Boddy MBE is a prominent British mycologist and one of the world's leading authorities on the ecology of wood-decay fungi and basidiomycete mycelial networks. She is a professor at Cardiff University's School of Biosciences and has made foundational contributions to understanding fungal decomposition, mycelial foraging behavior, and nutrient cycling in forest ecosystems. In "Fungi in the Environment," she is a contributor to two major chapters: Chapter 1 on imaging complex nutrient dynamics in mycelial networks (with Bebber, Tlalka, Hynes, Darrah, Ashford, Watkinson, and Fricker) and Chapter 6 on mycelial responses in heterogeneous environments (with T. Hefin Jones). Her work bridges cellular-level imaging with ecosystem-scale ecology, making her one of the most influential voices in modern environmental mycology.
+Lynne Boddy MBE is a prominent British mycologist and one of the world's leading authorities on the ecology of wood-decay fungi and basidiomycete mycelial networks. She is a professor at Cardiff University's School of Biosciences and has made foundational contributions to understanding fungal decomposition, mycelial foraging behavior, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] in forest ecosystems. In "Fungi in the Environment," she is a contributor to two major chapters: Chapter 1 on imaging complex nutrient dynamics in mycelial networks (with Bebber, Tlalka, Hynes, Darrah, Ashford, Watkinson, and Fricker) and Chapter 6 on mycelial responses in heterogeneous environments (with T. Hefin Jones). Her work bridges cellular-level imaging with ecosystem-scale ecology, making her one of the most influential voices in modern environmental mycology.
 
 ## Classification
 
@@ -35,7 +35,7 @@ Lynne Boddy MBE is a prominent British mycologist and one of the world's leading
 - Studied the role of cord-forming fungi in connecting and decomposing discrete wood resources in soil
 
 #### Mycelial Network Biology
-- Developed microcosm systems for studying mycelial cord network development and behavior
+- Developed microcosm systems for studying [[mycelial-cord-network-topology-graph-theory-bebber]] development and behavior
 - Demonstrated that mycelial networks are dynamic structures continuously reconfigured in response to environmental cues
 - Showed that different basidiomycete species have distinct foraging strategies reflected in their network architectures
 - Contributed to understanding nutrient translocation through cord networks using radiolabeling and imaging techniques
@@ -53,7 +53,7 @@ Lynne Boddy MBE is a prominent British mycologist and one of the world's leading
 
 ### Influence on the Field
 - Helped establish mycelial network ecology as a major research discipline
-- Her microcosm experimental designs are widely adopted in fungal ecology research
+- Her microcosm experimental designs are widely adopted in [[frontiers-fungal-ecology-research]]
 - Mentored numerous researchers who have continued work in fungal ecology
 - Advocated for the importance of fungi in ecosystem science, countering historical neglect of mycology
 
@@ -62,17 +62,17 @@ Lynne Boddy MBE is a prominent British mycologist and one of the world's leading
 ### Practical Implications
 - Understanding mycelial network behavior directly informs mushroom cultivation practices
 - Her work on competitive interactions between fungi helps explain successional dynamics in cultivation substrates
-- Research on cord formation and nutrient translocation explains how mycelium colonizes and exploits substrates
+- Research on cord formation [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]] explains how mycelium colonizes and exploits substrates
 - Knowledge of fungal responses to environmental heterogeneity helps optimize growing conditions
 
 ### Educational Impact
-- Her research provides foundational knowledge for courses in fungal biology and ecology
+- Her research provides foundational knowledge for courses in fungal [[epiphyte-biology-and-ecology]]
 - The experimental systems she developed are used in teaching laboratories worldwide
 - Her publications serve as key references in mycology textbooks
 
 ### Conservation Relevance
 - Work on wood decomposition has implications for forest management and deadwood conservation
-- Understanding fungal community dynamics supports biodiversity conservation in forest ecosystems
+- Understanding [[fungal-community-dynamics-ecosystem-stability]] supports biodiversity conservation in forest ecosystems
 
 ## Related Topics
 

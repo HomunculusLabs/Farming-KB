@@ -1,12 +1,12 @@
 ---
-title: Precision Seeders for Vegetable Production
+title: [[precision-seeders-for-greenhouse-sowing]] [[coleman-french-historical-winter-vegetable-production]]
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Precision Seeders for Vegetable Production
 
-Precision seeders are specialized tools that enable vegetable growers to sow multiple rows of seed at exact, consistent spacing, dramatically increasing yields per square foot of valuable greenhouse or field space. In intensive vegetable production systems — particularly for baby-leaf salad crops and root vegetables — precision seeding is one of the most impactful investments a grower can make, practically doubling yields compared to single-row or homemade multi-row alternatives.
+Precision seeders are specialized tools that enable vegetable growers to sow multiple rows of seed at exact, consistent spacing, dramatically increasing yields per square foot of valuable greenhouse or field space. In intensive vegetable production systems — particularly for baby-leaf salad crops and root vegetables — [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] is one of the most impactful investments a grower can make, practically doubling yields compared to single-row or homemade multi-row alternatives.
 
 In a well-managed greenhouse operation, space is the most expensive and limiting resource. Every square foot must produce maximum returns. Precision seeders allow growers to sow crops at 2.25-inch row spacing, fitting far more productive rows into each 30-inch bed than would be possible with hand broadcasting or single-row sowing. The improvement is so significant that Coleman credits precision seeders with practically doubling yields per square foot over the seeders used previously on his farm.
 
@@ -49,7 +49,7 @@ Some crops need wider spacing for optimal development. Spinach, claytonia, and t
 
 ### Modifications for Very Small Seeds
 
-Three of the seeds commonly sown in winter greenhouses — claytonia, minutina, and sylvetta — are so small that even the smallest hole (A) sows multiple seeds per drop. This is an inherent limitation of any mechanical seeder when dealing with seed sizes below a certain threshold. For these species, Coleman recommends setting the brushes down tightly, as the crops tolerate close growing conditions and the extra seeds have not proven problematic in practice.
+Three of the seeds commonly sown [[weed-control-in-winter-greenhouses]] — claytonia, minutina, and sylvetta — are so small that even the smallest hole (A) sows multiple seeds per drop. This is an inherent limitation of any mechanical seeder when dealing with seed sizes below a certain threshold. For these species, Coleman recommends setting the brushes down tightly, as the crops tolerate close growing conditions and the extra seeds have not proven problematic in practice.
 
 A practical modification for tiny seeds involves sealing the seams of the seed hoppers with liquid solder. The original seed hoppers were not designed to hold such small seeds, and the seeds were falling through the seams between hopper sections. Carefully filling all seams with liquid solder eliminates this problem entirely and makes a good tool even better.
 
@@ -119,7 +119,7 @@ The choice between a four-row pinpoint seeder and a six-row push seeder depends 
 
 Precision seeding is most effective when integrated into a complete system of intensive bed management. Proper soil preparation — including thorough compost incorporation, careful raking, and light rolling — is a prerequisite. Without a well-prepared seedbed, even the best seeder will deliver inconsistent results.
 
-The seeder works in concert with other tools in the four-season grower's toolkit. The same mesh roller used for bed preparation serves double duty for firming seeds after sowing. Efficient weed control strategies, particularly preemergence flaming, protect the precisely placed crop seeds during the critical germination period. And the uniform crop stands produced by precision seeding make subsequent harvesting operations faster and more efficient, since the crop grows at a consistent density and height across the entire bed.
+The seeder works in concert with other tools in the four-season grower's toolkit. The same mesh roller used for bed preparation serves double duty for firming seeds after sowing. Efficient [[jadam-weed-control-strategies-natural]], particularly [[coleman-preemergence-flaming-weed-control]], protect the precisely placed crop seeds during the critical germination period. And the uniform crop stands produced by precision seeding make subsequent harvesting operations faster and more efficient, since the crop grows at a consistent density and height across the entire bed.
 
 Growers new to precision seeding should expect a learning curve of a few plantings before achieving optimal results. The time invested in testing settings, recording codes, and developing a feel for the tool's operation pays dividends in increased yield, reduced seed waste, and more predictable crop performance throughout the season. Starting with forgiving crops like lettuce and arugula allows the operator to build confidence before moving to more demanding seeds.
 ## See also

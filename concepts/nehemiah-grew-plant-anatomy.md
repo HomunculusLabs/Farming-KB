@@ -23,7 +23,7 @@ type: concept
 - **Tissue differentiation**: Grew distinguished between different types
   of plant tissue, recognizing that roots, stems, and leaves each
   possessed characteristic internal arrangements. His descriptions of
-  vascular bundles laid the groundwork for later understanding of xylem
+  vascular bundles laid the groundwork for later understanding of [[xylem]]
   and phloem.
 
 - **Comparative plant morphology**: By systematically comparing the

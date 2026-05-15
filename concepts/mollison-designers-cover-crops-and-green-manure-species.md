@@ -20,7 +20,7 @@ type: concept
 [[cover-crops]] are living plants grown primarily to benefit the
 soil rather than for harvest. Mollison treats them as essential components of
 any permaculture system, serving multiple functions simultaneously: nitrogen
-fixation, organic matter addition, [[mycorrhizal-networks]] and soil microbial communities.
+fixation, organic matter addition, [[mycorrhizal-networks]] and [[endorhiza-rhizosphere-bulk-soil-microbial-communities]].
 Above-ground biomass acts as a mulch layer when terminated, conserving moisture
 and moderating soil temperature. Diverse cover crop mixtures support a wider
 range of soil organisms than monocultures, building more resilient soil food
@@ -56,7 +56,7 @@ production while adding nitrogen fixation.
 **Cereals and grasses:** Winter rye, oats, barley, wheat, annual ryegrass,
 and sorghum-sudangrass. Cereal rye is the most cold-hardy winter cover,
 establishing in autumn and producing extensive root systems that suppress
-weeds and improve soil structure. Sorghum-sudangrass produces enormous biomass
+weeds and [[query-how-do-fungi-improve-soil-structure]]. Sorghum-sudangrass produces enormous biomass
 in summer and its roots penetrate compacted subsoil layers.
 
 **Brassicas:** Daikon radish (tillage radish), mustard, and forage radish.
@@ -76,7 +76,7 @@ roots access deep soil nutrients and the tall plants create wind protection.
 ## Overview
 
 Mollison Designers Cover Crops And Green Manure Species represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mollison Designers Cover Crops And Green Manure Species finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mollison designers cover crops and green manure species and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

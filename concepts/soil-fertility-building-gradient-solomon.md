@@ -1,7 +1,7 @@
 # Soil Fertility Building Gradient — Solomon's Stepwise Approach
 
 ## Overview
-In *Gardening When It Counts*, [[soil-health-and-management]].
+In *[[gardening-when-it-counts]]*, [[soil-health-and-management]].
 
 ## Step 3: Manure Plus COF (Recommended)
 The recommended approach for most gardeners is a 1-inch layer of steer manure

@@ -73,7 +73,7 @@ An opposite effect from shaded gorges occurs in **sun-facing wider valleys shelt
 
 In large valleys, especially in cool moist climates, the upslope wind may generate a chain of cumulus clouds at the valley head, trailing off as a succession of clouds from mid-morning to evening. In more tropical humid climates, cloud may be continuously held on mountain tops, forming part of the **standing cloud of high islands**.
 
-Such cloud and rainfall effects are accentuated by **forest on valley sides and ridges**, as trees actively humidify air streams by transpiration in hot weather.
+Such cloud and rainfall effects are accentuated by **forest on valley sides and ridges**, as trees actively humidify air streams by [[transpiration]] in hot weather.
 
 ### Valleys as Refugia
 

@@ -1,5 +1,5 @@
 ---
-title: Leek Cultivation and Deep Planting Techniques
+title: Leek Cultivation and Deep [[hamilton-companion-planting-techniques]]
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
@@ -10,14 +10,14 @@ Leeks are a nearly year-round crop in the diversified winter-harvest system, pri
 
 ## Year-Round Leek Supply
 
-With proper variety selection and succession planning, leeks can be available for ten or more months of the year:
+With proper [[coleman-winter-greens-variety-selection]] and succession planning, leeks can be available for ten or more months of the year:
 
 | Season | Source | Variety Type |
 |--------|--------|-------------|
 | May | Cold house (extra-early transplants) | Early variety |
 | June–September | Outdoor field | Summer variety |
 | October–November | Outdoor field (plastic-covered late) | Fall variety |
-| December–March | Movable greenhouse + inner layer | Winter variety |
+| December–March | [[movable-greenhouse]] + [[inner-layer-row-cover-management]] | Winter variety |
 
 Winter leeks typically sell out by early March due to strong demand. Each season uses a different variety selected for its performance under those specific conditions.
 
@@ -73,7 +73,7 @@ The dibble-and-drop method is essential at this spacing—there is no way to hil
 
 ## Adaptable to Constrained Spaces
 
-The dibble method's minimal soil disturbance makes it adaptable to spaces where other planting methods would fail. Leeks have been successfully grown in single rows between the edge bed and the wall of a greenhouse—space that would otherwise go unused.
+The dibble method's minimal soil disturbance makes it adaptable to spaces where other [[desert-garden-bed-design-and-planting-methods]] would fail. Leeks have been successfully grown in single rows between the edge bed and the wall of a greenhouse—space that would otherwise go unused.
 
 ## Maximizing Blanched Shank Length
 
@@ -90,7 +90,7 @@ Winter leeks are covered with a movable greenhouse starting in early December. A
 ## Key Takeaways
 
 - Deep planting via dibble eliminates hilling labor while producing superior blanched stems
-- Growing your own transplants in seedbeds allows precise scheduling and variety selection
+- Growing your own transplants in seedbeds allows precise scheduling [[seed-saving-and-variety-selection]]
 - Intensive spacing (3 rows × 4 inches = 270 plants per 10-foot bed section) maximizes yield per square foot
 - Year-round supply requires multiple varieties matched to each season's conditions
 - Baby leeks at tighter spacing offer a high-value restaurant crop

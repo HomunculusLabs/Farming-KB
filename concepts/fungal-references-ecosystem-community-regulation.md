@@ -22,7 +22,7 @@ The role of mycorrhizal fungi in shaping plant community structure has been demo
 
 Research on how mycorrhizal fungal communities change through time and across environmental gradients:
 
-- **Hart, Reader & Klironomos (2001)** developed life-history strategies for arbuscular mycorrhizal fungi in relation to their successional dynamics, linking fungal traits to temporal patterns.
+- **Hart, Reader & Klironomos (2001)** developed life-history strategies for [[arbuscular-mycorrhizal-fungi]] in relation to their successional dynamics, linking fungal traits to temporal patterns.
 - **Last, Dighton & Mason (1987)** described successions of sheathing (ectomycorrhizal) fungi, establishing that fungal communities on roots change predictably through stand development.
 - **Jumpponen, Trappe & Cázares (1999, 2002)** documented ectomycorrhizal fungi at Lyman Lake Basin, comparing primary and secondary successional sites and tracking fungal colonization of recently deglaciated terrain.
 - **Ohtonen et al. (1999)** examined ecosystem properties and microbial community changes during primary succession on a glacier forefront, linking fungal community development to soil formation processes.
@@ -121,7 +121,7 @@ The global movement of fungal pathogens threatens forest ecosystems worldwide:
 
 ## See Also
 
-- [[Mycorrhizal-Symbiosis]] — fundamental biology of mycorrhizal associations
-- [[Ectomycorrhizal-Diversity-and-Ecosystem-Function]] — how ectomycorrhizal community composition affects ecosystem processes
-- [[Fungal-Endophytes-in-Grass-Ecosystems]] — defensive mutualisms between endophytic fungi and grasses
-- [[Common-Mycorrhizal-Networks]] — carbon and nutrient transfer between plants through shared fungal networks
+- [[mycorrhizal-symbiosis]] — fundamental biology of mycorrhizal associations
+- [[ectomycorrhizal-diversity-ecosystem-function]] — how ectomycorrhizal community composition affects ecosystem processes
+- [[fungal-endophytes-grass-crop-systems]] — defensive mutualisms between endophytic fungi and grasses
+- [[common-mycorrhizal-networks]] — carbon and nutrient transfer between plants through shared fungal networks

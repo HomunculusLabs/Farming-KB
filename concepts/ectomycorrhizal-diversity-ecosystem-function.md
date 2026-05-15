@@ -6,7 +6,7 @@ type: concept
 
 # Ectomycorrhizal Diversity and Ecosystem Function
 
-The relationship between ectomycorrhizal fungal diversity and ecosystem function represents a frontier in microbial ecology. While it has long been recognized that different ectomycorrhizal species perform different physiological functions, the question of whether diversity per se drives ecosystem productivity—beyond the contributions of individual species—has only recently been addressed through controlled experimentation.
+The relationship between ectomycorrhizal [[fungal-diversity-and-ecosystem-function]] represents a frontier in microbial ecology. While it has long been recognized that different ectomycorrhizal species perform different physiological functions, the question of whether diversity per se drives ecosystem productivity—beyond the contributions of individual species—has only recently been addressed through controlled experimentation.
 
 ## Historical Context
 
@@ -24,7 +24,7 @@ Despite these recognized differences, the broader question of whether the number
 
 The general biodiversity-ecosystem function debate in ecology received major impetus from Tilman et al. (1996), who demonstrated that plant species diversity enhances ecosystem productivity and stability. This work catalyzed investigation of whether similar relationships exist for below-ground microbial communities, including mycorrhizal fungi.
 
-Van der Heijden et al. (1998) provided the first compelling evidence in the mycorrhizal context, showing that plant productivity is highest when arbuscular mycorrhizal fungal diversity is greatest. This work established the principle that mycorrhizal diversity could have ecosystem-level consequences, not merely community-level effects.
+Van der Heijden et al. (1998) provided the first compelling evidence in the mycorrhizal context, showing that plant productivity is highest when [[arbuscular-mycorrhizal-fungal-diversity]] is greatest. This work established the principle that mycorrhizal diversity could have ecosystem-level consequences, not merely community-level effects.
 
 ## The Baxter and Dighton Diversity Manipulation Experiments
 
@@ -98,3 +98,8 @@ The diversity-function debate regarding mycorrhizal fungi remains in its infancy
 - Extending diversity manipulation experiments to include saprotrophic fungi and their interactions with mycorrhizal communities
 
 Much more work is needed to fully explain the consequences of changes in both mycorrhizal and saprotrophic fungal community structure on ecosystem-level processes, particularly under the multiple stressors imposed by human activities.
+## See also
+
+- [[nitrogen-deposition-ectomycorrhizal-diversity-function]]
+- [[mycorrhizal-fungi-community-structure]]
+- [[nitrogen-deposition-ectomycorrhizal-community-structure]]

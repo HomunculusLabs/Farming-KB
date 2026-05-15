@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Phosphorus Acquisition and Ecosystem Services
+title: Arbuscular [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] and Ecosystem Services
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -29,7 +29,7 @@ AM fungi contribute directly to [[phosphorus-availability]] through phosphatase 
 Azcón et al. (1976) demonstrated that AM [[fungal-hyphae]] secrete acid phosphatases capable of
 hydrolyzing organic phosphate esters in the rhizosphere, mineralizing organic P into
 plant-available orthophosphate. Singh and Kapoor (1998) further showed that different AM
-fungal species vary in their phosphatase activity, suggesting functional complementarity
+fungal species vary in their [[mycorrhizal-phosphatase-activity-elf97-detection]], suggesting functional complementarity
 among species in mixed communities. This enzymatic pathway is critical because 30–80% of
 total soil phosphorus exists in organic forms (phytate, nucleic acids, phospholipids)
 inaccessible to plant roots.
@@ -63,7 +63,7 @@ kinetics. AM fungi effectively bypass each of these limitations.
 
 ## Calcicole–Calcifuge Dynamics and Soil Chemistry
 
-Phosphorus availability is intimately linked to soil pH, creating distinct niches for
+[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] is intimately linked to soil pH, creating distinct niches for
 calcicole (lime-tolerant) and calcifuge (lime-intolerant) plants. Tyler (1994) showed that
 calcifuge plants cannot grow on limestone soils because iron-phosphate complexes become
 highly insoluble under alkaline conditions, locking P into unavailable forms.
@@ -82,7 +82,7 @@ critical for high-pH soils where both nutrients have limited solubility.
 
 Clark and Zeto (2000) emphasized that AM fungi also enhance nitrogen uptake, absorbing
 ammonium, nitrate, and amino acids through hyphal networks. The AM–legume interaction is
-particularly significant: biological nitrogen fixation requires ~16 ATP per mole of N₂
+particularly significant: [[biological-nitrogen-fixation-agriculture]] requires ~16 ATP per mole of N₂
 reduced, making it energetically expensive and P-dependent. Azcón-Aguilar et al. (1979)
 demonstrated that AM colonization maximizes nitrogen fixation by improving P supply to nodules.
 Peoples and Craswell (1992) showed that AM symbiosis becomes essentially obligatory for
@@ -130,9 +130,9 @@ directed to flowers and seeds rather than vegetative tissue, directly enhancing 
 
 ## Synthesis
 
-AM fungi are central to phosphorus cycling and plant nutrition across scales—from molecular
+AM fungi are central to [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] plant nutrition across scales—from molecular
 enzymatic activities (phosphatase, organic acid exudation) through organism-level benefits
-(enhanced P and N uptake, pathogen protection, P use efficiency) to ecosystem-level services
+(enhanced P and N uptake, [[arbuscular-mycorrhizae-pathogen-protection]], P use efficiency) to ecosystem-level services
 (soil aggregation, biogeochemical cycling). The field has progressed from laboratory
 demonstrations of P uptake enhancement to nuanced understanding of how context—soil chemistry,
 plant demand, seasonality, and species identity—modulates AM effects. The balance between

@@ -1,5 +1,5 @@
 ---
-title: Implicate Order and the Unity of Phenomena
+title: [[implicate-order-and-unity-of-nature]] the Unity of Phenomena
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The concept of **implicate order**, drawn from physicist David Bohm's *Wholeness and the Implicate Order* (1980), provides a philosophical foundation for understanding how all natural phenomena are interconnected. In [[permaculture]] design:
+The concept of **implicate order**, drawn from physicist David Bohm's *Wholeness and the Implicate Order* (1980), provides a [[fukuoka-spiritual-philosophical-foundation]] for understanding how all natural phenomena are interconnected. In [[permaculture]] design:
 
 - **Duality is misleading**: Concepts like "pest vs. beneficial insect" or "weed vs. crop" are artificial distinctions. In reality, each organism plays multiple roles within the whole system.
 - **Reductionism is limited**: Studying parts in isolation cannot reveal the emergent properties of the whole system. Holistic observation is essential.
@@ -16,7 +16,7 @@ The concept of **implicate order**, drawn from physicist David Bohm's *Wholeness
 
 ## Genealogy and Pattern Streams
 
-Mollison extends the concept of implicate order to genealogy and time. Rather than seeing ancestry as a linear chain of separate individuals, pattern understanding reveals that we are simultaneously defined by our ancestors and our descendants. We exist within a **pattern stream** — a flowing continuum where past, present, and future are interwoven.
+Mollison extends the concept of implicate order to genealogy and time. Rather than seeing ancestry as a linear chain of separate individuals, [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] reveals that we are simultaneously defined by our ancestors and our descendants. We exist within a **pattern stream** — a flowing continuum where past, present, and future are interwoven.
 
 This perspective has practical consequences for permaculture:
 
@@ -29,7 +29,7 @@ Pattern understanding reveals that natural phenomena manifest as streams, partic
 
 - **Streams** represent flow (water, nutrients, energy, information)
 - **Particles** represent discrete elements (plants, animals, structures)
-- **Waves** represent cyclical patterns (seasons, tides, population dynamics)
+- **Waves** represent cyclical patterns (seasons, tides, [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]])
 
 Effective design works with all three modalities. A [[swale]], for example, is a structure (particle) that directs water flow (stream) and operates on seasonal cycles (wave).
 
@@ -37,7 +37,7 @@ Effective design works with all three modalities. A [[swale]], for example, is a
 
 [[gaia-hypothesis]]** (1979) provides a scientific framework consistent with implicate order. Earth behaves as a self-regulating, self-generated construct — akin to a single organism or thought process. The conditions that make life possible are balanced about such fine tolerances that many processes appear to exist specifically to preserve this equilibrium in dynamic stability.
 
-For permaculture designers, this means:
+For [[bill-mollison-permaculture-designers-manual]], this means:
 
 - **Earth-care is self-care**: Damaging the biosphere damages the system that sustains all life, including human life.
 - **Self-regulation over control**: Design systems that regulate themselves (through biological feedback loops, succession dynamics, and closed nutrient cycles) rather than systems requiring constant external management.
@@ -107,5 +107,5 @@ The permaculture designer, informed by implicate order, operates not as an engin
 - Design must work with streams, particles, and waves simultaneously
 - Self-regulating systems are more resilient than controlled systems
 - Pattern perception and pattern imposition are complementary design skills
-- Traditional land division patterns often outperform rectilinear grids in both function and aesthetics
+- Traditional [[sensible-land-division-patterns]] often outperform rectilinear grids in both function and aesthetics
 - The unity of phenomena demands an ethic of earth-care, without which human existence has no meaning in the larger cosmic context

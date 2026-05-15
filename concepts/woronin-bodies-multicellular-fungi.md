@@ -1,5 +1,5 @@
 ---
-title: Woronin Bodies and Multicellular Organization in Fungi
+title: [[fungal-woronin-bodies-and-septal-pore-organization]] Multicellular Organization in Fungi
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -76,7 +76,7 @@ Different fungal lineages have evolved distinct organelles associated with septa
 
 ### Urediniomycetes (Basidiomycota): "Woronin-Body-Like" Organelles
 - Peroxisome-like appearance
-- Sometimes contain electron-dense polyhedral structures in the lumen
+- Sometimes contain electron-dense [[cage-fungi-and-polyhedral-structures]] in the lumen
 - Superficially resemble Woronin bodies but have distinct core composition
 - Core shows fine striations unlike the homogeneous Euascomycete Woronin body core
 
@@ -86,7 +86,7 @@ Different fungal lineages have evolved distinct organelles associated with septa
 Fungi with the most prominent and complex septal-pore-associated organelles -- the **Hymenomycetes** and **Euascomycetes** -- also produce the **largest and most complex multicellular fruiting bodies** (Alexopolous et al., 1996). This correlation suggests that these organelles directly support complex multicellular organization by:
 
 1. **Damage containment**: Rapidly sealing off damaged compartments prevents catastrophic loss of cytoplasm
-2. **Developmental compartmentalization**: Allowing controlled cellular differentiation during fruiting body formation
+2. **Developmental compartmentalization**: Allowing controlled cellular differentiation during [[fungal-fruiting-body-formation-environmental-triggers]]
 3. **Senescence management**: Isolating aged or stressed compartments from the rest of the colony
 4. **Protoplasmic streaming regulation**: Controlling the flow of nutrients and organelles between compartments
 
@@ -98,7 +98,7 @@ The fungal colony does not conform to a simple cellular concept. Adjacent septa 
 
 ## Evolutionary Origin
 
-The phylogenetic distribution of Woronin bodies, "Woronin-body-like" organelles, and septal pore caps each appears to result from **single evolutionary origins**:
+The [[basidiomycetous-yeasts-diversity-phylogenetic-distribution]] of Woronin bodies, "Woronin-body-like" organelles, and septal pore caps each appears to result from **single [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]]**:
 
 - Woronin bodies: Ancestral Euascomycetes
 - Septal pore caps: Hymenomycetes
@@ -108,7 +108,7 @@ These represent independent evolutionary solutions to the same functional proble
 
 ## See Also
 
-- [[vacuolar-transport-fungal-hyphae]] - Intracellular transport within hyphal compartments
+- [[vacuolar-transport-fungal-hyphae]] - [[vacuolar-system-intracellular-transport-fungi]] within hyphal compartments
 - [[fungal-mycelial-network-analysis]] - Network-level organization of fungal colonies
 - [[mycelial-nutrient-transport-network-dynamics]] - Nutrient movement across the mycelial network
 

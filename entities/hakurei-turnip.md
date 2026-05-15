@@ -34,7 +34,7 @@ The Hakurei turnip (*[[brassica-rapa]]* subsp. *rapa*) is a Japanese-type salad 
 
 ## Relevance to Cultivation
 
-Hakurei turnips are particularly well-suited to winter harvest and season extension systems:
+Hakurei turnips are particularly well-suited to winter harvest [[cold-climate-farming-and-season-extension]] systems:
 
 - **Quick maturity**: At 38–40 days, they fit easily into fall planting windows
 - **Cold tolerance**: Can withstand light freezes and continue growing under row covers or in unheated greenhouses
@@ -62,12 +62,12 @@ Hakurei turnips are particularly well-suited to winter harvest and season extens
 
 ## Sources
 
-- Coleman, Eliot. *The Winter Harvest Handbook*. Chelsea Green, 2009. pp. 33, 90.
+- Coleman, Eliot. *The [[eliot-coleman-and-the-winter-harvest-handbook]]*. Chelsea Green, 2009. pp. 33, 90.
 - Johnny's Selected Seeds catalog documentation.
 
 ## Practical Applications
 
-Hakurei Turnip has several important applications in sustainable agriculture
+Hakurei Turnip has several important applications in [[mushroom-cultivation-for-sustainable-agriculture]]
 and organic growing systems. Growers and researchers have developed
 practical methods for implementation across diverse climate zones.
 Understanding these applications helps integrate the concept into
@@ -75,10 +75,10 @@ broader farming and gardening practice.
 
 ## Historical Significance
 
-The historical development of hakurei turnip reflects broader trends
-in agricultural science and ecological thinking. Early observations
+The [[historical-development-of-mushroom-cultivation]] hakurei turnip reflects broader trends
+in [[fukuoka-critique-agricultural-science-laws-liebig]] and ecological thinking. Early observations
 and experiments laid groundwork that modern practitioners continue
-to build upon, connecting traditional knowledge with contemporary
+to build upon, connecting [[wasted-human-resources-and-traditional-knowledge]] with contemporary
 research and sustainable management approaches.
 
 ## Environmental Impact

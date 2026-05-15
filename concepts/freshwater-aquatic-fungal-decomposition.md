@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungi are dominant decomposers in freshwater aquatic ecosystems, where they colonize decaying plant litter, wood, and suspended organic matter in streams, ponds, lakes, and deep aquifers. With more than 600 known species of aquatic fungi (Wong et al., 1998), these organisms possess specific morphological and physiological adaptations that allow them to thrive in aquatic habitats and play critical roles in nutrient cycling and carbon processing.
+Fungi are dominant decomposers [[fungi-in-freshwater-aquatic-ecosystems]] ecosystems, where they colonize decaying plant litter, wood, and suspended organic matter in streams, ponds, lakes, and deep aquifers. With more than 600 known species of aquatic fungi (Wong et al., 1998), these organisms possess specific morphological and physiological adaptations that allow them to thrive in aquatic habitats and play critical roles in [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] carbon processing.
 
 ## Adaptations to Aquatic Life
 
@@ -16,7 +16,7 @@ The success of [[aquatic-hyphomycetes]] in freshwater systems stems from key ada
 
 - **Spore morphology**: Aquatic fungi produce tetraradiate (four-armed) and sigmoid (curved) spores that are more efficient at colonizing submerged substrates than the rounded, wind-dispersed spores of terrestrial fungi. These shapes increase the probability of attachment to submerged surfaces.
 - **Submerged growth capacity**: Terrestrial fungi are unable to effectively macerate (soften and break apart) resources when submerged, whereas aquatic fungi are adapted to decompose material under water.
-- **Fungal biomass dominance**: On decomposing leaf litter in aquatic ecosystems, fungal biomass typically exceeds bacterial biomass.
+- **Fungal biomass dominance**: On decomposing leaf litter [[fungal-decomposition-in-aquatic-ecosystems-concluding-perspectives]], fungal biomass typically exceeds bacterial biomass.
 
 ## Plant Litter Inputs to Streams
 
@@ -69,7 +69,7 @@ Gessner et al. (1993) demonstrated temporal successions of aquatic fungi on alde
 2. **Mid-succession (4 weeks)**: More equitable community with approximately 11 species.
 3. **Late succession (8 weeks)**: Continued community with some shifts in dominance.
 
-**Fungal biomass (ergosterol) and conidial production both peak during mid-succession**, indicating maximum metabolic activity during the transition from early to late colonization.
+**Fungal biomass (ergosterol) and conidial production both peak during mid-succession**, indicating maximum [[arbuscule-isolation-metabolic-activity-assays]] during the transition from early to late colonization.
 
 In the Florida Everglades, bacteria account for approximately 30% of respiration from decomposing leaf litter, with the remaining 70% from fungi (Hackney et al., 2000).
 
@@ -85,7 +85,7 @@ Suberkropp and Chauvet (1995) performed reciprocal leaf exchange experiments bet
 
 **Hardwater streams** (higher pH, more nitrate-N and phosphorus, higher temperatures) supported faster litter decomposition, more abundant and diverse fungal biomass and activity, and approximately 6 common species across all hardwater streams.
 
-**Softwater streams** had only 2 species in common with hardwater streams, different dominant species (*Anguillospora filiformis* and *Flagellospora curvula*), and slower decomposition rates.
+**Softwater streams** had only 2 species in common with hardwater streams, different dominant species (*[[anguillospora-filiformis]]* and *Flagellospora curvula*), and slower decomposition rates.
 
 Correlation analysis showed strong positive relationships between decomposition and both NO₃-N (r = 0.97) and PO₄-P (r = 0.83) across all streams.
 
@@ -145,4 +145,4 @@ Gulis (2001) performed multivariate analysis of 146 samples from 92 aquatic syst
 - Suberkropp, K. and Chauvet, E. (1995). Reciprocal leaf exchange and stream chemistry.
 - Thomas, K. et al. (1989). Seasonal changes in aquatic fungal communities.
 - Weigelhofer, G. and Waringer, J. (1994). Coarse particulate organic matter inputs to streams.
-- Wong, M.K.M. et al. (1998). Aquatic fungal diversity and ecology.
+- Wong, M.K.M. et al. (1998). Aquatic fungal [[neurotropic-fungi-colombia-species-diversity-and-ecology]].

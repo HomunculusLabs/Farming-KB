@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In the later chapters of "LSD — My Problem Child," Albert Hofmann moves beyond the laboratory to reflect on the personal and philosophical dimensions of his discovery. He recounts encounters with individuals affected by LSD—both positively and tragically—and develops a philosophical perspective on the relationship between consciousness, reality, and the natural world.
+In the later chapters of "LSD — My Problem Child," [[albert-hofmann]] moves beyond the laboratory to reflect on the personal and philosophical dimensions of his discovery. He recounts encounters with individuals affected by LSD—both positively and tragically—and develops a philosophical perspective on the relationship between consciousness, reality, and the natural world.
 
 ## The Critic on the Train
 

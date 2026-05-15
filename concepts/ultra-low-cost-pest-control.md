@@ -12,9 +12,9 @@ sources:
 
 ## The Diversity-Over-Disinfection Approach
 
-JADAM's pest control philosophy represents a fundamental paradigm shift: instead of trying to kill specific pests and pathogens, the focus is on maximizing the population and diversity of soil and foliar microorganisms so that no single pest or disease organism can gain dominance. This "shift from disinfection to diversity" is the core principle underlying all of JADAM's pest management strategies.
+JADAM's pest control philosophy represents a fundamental paradigm shift: instead of trying to kill specific pests and pathogens, the focus is on maximizing the population and diversity of soil and foliar microorganisms so that no single pest or disease organism can gain dominance. This "shift from disinfection to diversity" is the core principle underlying all of JADAM's pest [[forest-management-strategies]].
 
-Modern agriculture has relied on increasingly toxic chemical pesticides, yet pest damage continues to rise. Pathogens are building resistance to chemicals, and the chemical approach creates a vicious cycle: pesticides kill beneficial organisms along with targets, weakening the crop's natural defenses and creating conditions that invite new pest problems, which require more pesticides. JADAM breaks this cycle entirely.
+Modern agriculture has relied on increasingly toxic [[comparison-parasitoid-wasps-vs-chemical-pesticides]], yet pest damage continues to rise. Pathogens are building resistance to chemicals, and the chemical approach creates a vicious cycle: pesticides kill beneficial organisms along with targets, weakening the crop's natural defenses and creating conditions that invite new pest problems, which require more pesticides. JADAM breaks this cycle entirely.
 
 ## Why Pests Attack
 
@@ -68,12 +68,12 @@ JADAM directly challenges the conventional practice of removing all crop residue
 
 ## [[integrated-pest-management]]: The JADAM Way
 
-JADAM's approach can be summarized as a form of integrated pest management that prioritizes prevention over treatment:
+JADAM's approach can be summarized as a form of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that prioritizes prevention over treatment:
 
 ## Overview
 
 Ultra Low Cost Pest Control represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ultra Low Cost Pest Control finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 ultra low cost pest control and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

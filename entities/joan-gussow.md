@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-Joan Gussow is a nutritionist and author recognized for her critical analysis of processed food and the industrial organic food system. She is cited by [[eliot-coleman]] in *The Winter Harvest Handbook* for her characterizing industrial organic products as "value added, nutritionally degraded" — a phrase that encapsulates the critique of shallow organic production that prioritizes marketing over nutritional quality.
+Joan Gussow is a nutritionist and author recognized for her critical analysis of processed food and the industrial organic food system. She is cited by [[eliot-coleman]] in *The [[winter-harvest-handbook-guide]]* for her characterizing industrial organic products as "value added, nutritionally degraded" — a phrase that encapsulates the critique of shallow organic production that prioritizes marketing over [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 ## Classification
 
 - **Entity Type:** Person / Nutritionist / Author / Educator
-- **Field:** Nutrition Science, Food Systems, Sustainable Agriculture
+- **Field:** [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]], Food Systems, [[mushroom-cultivation-for-sustainable-agriculture]]
 - **Known For:** Critique of industrial food processing, advocacy for whole food nutrition
 
 ## Key Contributions
@@ -53,8 +53,8 @@ While Gussow is not directly involved in winter harvest techniques, her nutritio
 
 - Nutritionist cited by Eliot Coleman in *The Winter Harvest Handbook*
 - Known for the phrase "value added, nutritionally degraded" describing processed organic foods
-- Her work supports the philosophical foundation of deep-organic farming
-- Represents the nutritional science perspective that complements the agricultural perspective of deep-organic practitioners
+- Her work supports the [[fukuoka-spiritual-philosophical-foundation]] of deep-organic farming
+- Represents the [[fukuoka-critique-western-dietetics-nutritional-science]] perspective that complements the agricultural perspective of deep-organic practitioners
 
 ## Relevance to Cultivation
 

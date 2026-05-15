@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags: [soil-biology, fungi, decomposition, mycorrhizae]
-sources: []
+sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
 # Fungi — The Underground Network

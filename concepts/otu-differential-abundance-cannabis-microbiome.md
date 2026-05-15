@@ -1,5 +1,5 @@
 ---
-title: Otu Differential Abundance Cannabis Microbiome
+title: Otu Differential [[strain-otu-presence-absence-vs-abundance-cannabis-microbiome]]
 created: 2026-04-28
 tags: [microbiome, bioinformatics, cannabis, statistics]
 date: 2026-04-28

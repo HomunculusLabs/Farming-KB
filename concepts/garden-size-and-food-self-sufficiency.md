@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-One of the most practical questions facing any serious food gardener is: how much land do I actually need? Steve Solomon draws on historical examples, personal experience, and agricultural research to provide concrete guidance on garden sizing for meaningful food production.
+One of the most practical questions facing any serious food gardener is: how much land do I actually need? Steve Solomon draws on historical examples, [[palmer-mushroom-cooking-and-personal-experience]], and [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] to provide concrete guidance on garden sizing for meaningful food production.
 
 ## Historical Benchmarks
 
@@ -21,7 +21,7 @@ During the war, Britain's farmland was devoted to essential cereals and potatoes
 Key observations from the British experience:
 
 - 2,700 square feet of garden made the difference between health and sickness
-- Britain's cool, frequently cloudy summers meant vegetables grew more slowly than in most of North America
+- Britain's cool, frequently cloudy summers meant vegetables grew more slowly than in most [[huckleberries-and-wild-berries-of-north-america]]
 - Mild English winters allowed year-round growing of frost-hardy crops, partially compensating for the slower summer growth
 - After the economy recovered in the early 1980s, most allotments disappeared — a pattern that may reverse in future hard times
 
@@ -41,7 +41,7 @@ Results by the year 2000:
 - All produce was organically grown
 - No one went hungry despite ongoing US economic sanctions
 - Most areas produced two crops per year
-- Community gardens donated surplus to schools, clinics, and senior centers
+- [[gaias-garden-creating-community-gardens]] donated surplus to schools, clinics, and senior centers
 
 Cuba became a world leader in holistic, non-petroleum-based horticulture — a practical demonstration that large-scale organic food production is achievable.
 
@@ -94,7 +94,7 @@ The fencing dimension is practical: standard fencing comes in 100-meter rolls, a
 - **Cooler, cloudier climates** (like the UK): Vegetables grow more slowly but mild winters extend the season
 - **Warmer, sunnier climates**: Faster growth but may need more water
 - **Frost-free days and latitude** significantly affect what can be grown and for how long
-- **Soil quality, gardener skill, water availability, and variety selection** all influence actual production
+- **Soil quality, gardener skill, water availability, [[seed-saving-and-variety-selection]]** all influence actual production
 
 ## Why Postage-Stamp Gardens Are Insufficient
 
@@ -105,7 +105,7 @@ The popular intensive-gardening approach of several small raised beds in a tiny 
 1. The British wartime allotment of 2,700 square feet is a proven minimum for meaningful food production
 2. Cuba's post-Soviet urban gardens demonstrate that community-scale organic food production can feed a population
 3. Plan for double the growing area to account for ley rotations, paths, and perennials
-4. Potatoes are the most land-efficient calorie crop for temperate climates
+4. Potatoes are the most land-efficient calorie crop for [[fukuoka-natural-farming-temperate-climates]]
 5. Near-complete caloric self-sufficiency requires approximately 3,000–4,500 square feet of growing beds per adult
 6. Climate, soil quality, water availability, and gardener skill all significantly affect the actual area needed
 

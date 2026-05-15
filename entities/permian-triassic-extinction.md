@@ -21,14 +21,14 @@ The Permian-Triassic extinction event (also called the "Great Dying") was the gr
 
 - The greatest extinction in Earth history, with 90% of all species lost.
 - A meteor impact associated with the Permian extinction was recently discovered beneath a mile of Antarctic ice (Gorder, 2006).
-- Followed the same pattern as the K-T extinction: fungal dominance followed by plant succession.
+- Followed the same pattern as the K-T extinction: [[gadd-soil-biomass-fungal-dominance-elemental-cycles]] followed by plant succession.
 - After the extinction, fungi thrived on massive amounts of dead plant material.
-- Fungal mycelia prepared the way for new ecosystems and the eventual rise of dinosaurs.
+- [[davidson-mathematical-modeling-fungal-mycelia]] prepared the way for new ecosystems and the eventual rise of dinosaurs.
 - Reported by Monastersky (1996) as "Global crisis: The fungi stand alone — mass extinction at the end of the Permian period."
 
 ## Relevance to Cultivation and Mycology
 
-The Permian extinction demonstrates that fungal dominance after catastrophic events is not unique to the K-T boundary but is a repeatable ecological pattern. This reinforces the concept that fungi are Earth's primary ecosystem recovery agents — they break down dead biomass, rebuild soil, and create conditions for new plant life to establish. For mycologists, this dual-extinction evidence strengthens the argument for investing in fungal biotechnology as a tool for ecosystem restoration and climate change adaptation. The fact that fungi performed this role successfully during the worst extinction in history suggests extraordinary resilience in cultivation systems.
+The Permian extinction demonstrates that fungal dominance after catastrophic events is not unique to the K-T boundary but is a repeatable ecological pattern. This reinforces the concept that fungi are Earth's primary ecosystem recovery agents — they [[query-can-fungi-break-down-plastic-pollution]] dead biomass, rebuild soil, and create conditions for new plant life to establish. For mycologists, this dual-extinction evidence strengthens the argument for investing in fungal biotechnology as a tool for [[bioremediation-ecosystem-restoration]] and [[mollison-designers-climate-change-adaptation-strategies]]. The fact that fungi performed this role successfully during the worst extinction in history suggests extraordinary resilience in cultivation systems.
 
 ## References
 
@@ -76,7 +76,7 @@ particularly productive in generating new insights.
 The study of Permian Triassic Extinction intersects with several related fields.
 Ecological principles provide context for understanding broader
 system dynamics. The practical applications extend beyond the
-immediate domain into areas of sustainable design and resource
+immediate domain into areas of [[ozier-pdc-maslows-hierarchy-sustainable-design]] and resource
 management that affect communities worldwide.
 
 ## Practical Applications and Methods

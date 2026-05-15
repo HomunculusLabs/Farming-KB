@@ -21,11 +21,11 @@ sources:
 
 **Ramalina farinacea**, commonly known as the strap lichen or farinose ramalina, is a widespread fruticose lichen in the family Ramalinaceae. It forms characteristic narrow, strap-like thalli that are densely covered with soredia on the margins.
 
-The species is one of the most common epiphytic lichens in temperate regions of the Northern Hemisphere. It colonises the bark and twigs of a wide range of trees in both rural and urban environments.
+The species is one of the most common epiphytic lichens in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It colonises the bark and twigs of a wide range of trees in both rural and urban environments.
 
-Its sorediate propagation strategy makes it an effective coloniser of new substrates. Soredia can establish on young twigs within 2–3 years, making *R. farinacea* a pioneer species in successional lichen communities.
+Its sorediate propagation strategy makes it an effective coloniser of new substrates. Soredia can establish on young twigs within 2–3 years, making *R. farinacea* a pioneer species in successional [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]].
 
-*R. farinacea* is moderately pollution-tolerant and has been widely used as a biomonitor for heavy metal deposition. Its ease of identification and abundant soredia make it a familiar species to both professional lichenologists and amateur naturalists.
+*R. farinacea* is moderately pollution-tolerant and has been widely used as a biomonitor [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]] deposition. Its ease of identification and abundant soredia make it a familiar species to both professional lichenologists and amateur naturalists.
 
 ## Taxonomy and Morphology
 
@@ -45,13 +45,13 @@ The internal anatomy shows a well-developed cortex of densely interwoven hyphae 
 
 ## Distribution and Habitat
 
-*Ramalina farinacea* has a wide distribution across Europe, Asia, North Africa, and North America. It is absent from polar regions and is most abundant in temperate maritime climates.
+*Ramalina farinacea* has a wide distribution across Europe, Asia, North Africa, and [[guzman-psilocybin-mushrooms-north-america]]. It is absent from polar regions and is most abundant in temperate maritime climates.
 
 The species is primarily epiphytic, growing on the bark and twigs of deciduous and coniferous trees. It shows a preference for nutrient-enriched bark, particularly on trees such as oak, ash, elm, and sycamore.
 
 It is commonly found in orchards, parkland, hedgerows, and along roadsides. In urban environments it persists on street trees and garden shrubs where pollution levels are moderate.
 
-The species also occurs on rock and wooden fence posts, though these substrates are less typical. It is rarely found in the extreme conditions of montane or coastal zones.
+The species also occurs on rock and wooden fence posts, though these substrates are less typical. It is rarely found in the extreme conditions of montane or [[mollison-designers-sea-level-change-coastal-zones]].
 
 Altitudinal range is from sea level to approximately 1200 m. It becomes less frequent at higher elevations where it is replaced by more cold-tolerant lichen species.
 
@@ -63,7 +63,7 @@ Spot test reactions are typically cortex K+ yellow (usnic acid), medulla C+ red 
 
 Additional substances reported include thamnolic acid, squamatic acid, and salazinic acid in minor quantities. These trace compounds have limited taxonomic significance but may contribute to the overall antimicrobial activity of the thallus.
 
-Geographic variation in chemical composition has been documented, with Mediterranean populations showing different medullary acid profiles compared to northern European populations. This chemical variation may reflect adaptation to different climatic conditions or photobiont associations.
+Geographic variation in [[chemical-composition-of-hallucinogens]] has been documented, with Mediterranean populations showing different medullary acid profiles compared to northern European populations. This chemical variation may reflect adaptation to different climatic conditions or photobiont associations.
 
 The lichen acids of *R. farinacea* have demonstrated antioxidant, antibacterial, and anti-inflammatory properties in laboratory studies. Extracts have been investigated for potential pharmaceutical applications.
 

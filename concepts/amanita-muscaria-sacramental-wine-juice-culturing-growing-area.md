@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Sacramental Wine Juice Culturing Growing Area
+title: [[amanita-muscaria-sacramental-wine-preparation]] Wine Juice Culturing Growing Area
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -67,11 +67,11 @@ adjust sugar content by varying the concentrate-to-water ratio.
 - **Orange juice** — moderate sugar with strong flavor; may need added sugar.
 - **Blueberry/Bilberry juice** — bilberries have recorded historical use in
   Siberia specifically for Amanita muscaria culturing, suggesting long-
-  established traditional knowledge of which fruit media work best.
+  established [[wasted-human-resources-and-traditional-knowledge]] of which fruit media work best.
 
 ## Pasteurization Process
 
-The fruit juice **must be pasteurized** before inoculation to eliminate
+The [[bionutrients-lab-fermented-fruit-juice-ffj]] **must be pasteurized** before inoculation to eliminate
 competing organisms. Unpasteurized juice contains wild yeasts, bacteria, and
 mold spores that will rapidly outcompete Amanita muscaria mycelium.
 

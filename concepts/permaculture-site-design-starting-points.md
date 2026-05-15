@@ -1,5 +1,5 @@
 ---
-title: Permaculture Site Design Starting Points
+title: [[permaculture-site-design-and-zones]] Starting Points
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -24,7 +24,7 @@ Before any design work begins, catalog every resource on and around the site:
 
 - **Earth resources**: Clay, minerals, stone, topsoil
 - **Plant resources**: Existing vegetation, timber, forage
-- **Animal resources**: Wildlife, insect life, domestic animals
+- **Animal resources**: Wildlife, insect life, [[permaculture-domestic-animals]]
 - **Energy resources**: Wind, water, wood, oil, gas, solar potential
 - **Water**: Springs, streams, runoff patterns, good-quality water for sale
 - **Social resources**: Rights to collect seaweed, driftwood, shells; mining rights; water rights
@@ -33,7 +33,7 @@ A critical but frequently missed category is **resources extrinsic to the site**
 
 ### Step Four: Advise on Legal Protections
 
-Ensure the client stakes out rights to resources on their property before others discover them. Wind power sites can be claimed by multinationals under mining law. Clay deposits, mineral rights, and water rights should be secured. Clients on the seashore need special rights to collect natural materials. A good lawyer should check for covenants before purchase.
+Ensure the client stakes out rights to resources on their property before others discover them. Wind power sites can be claimed by multinationals under mining law. Clay deposits, mineral rights, and water rights should be secured. Clients on the seashore need special rights to collect [[building-with-natural-materials]]. A good lawyer should check for covenants before purchase.
 
 ### Step Five: Water Layout
 
@@ -69,11 +69,11 @@ Placing a client in a tiny clearing in the bush creates terrible conflict. Conse
 
 ### Additional Hazards
 
-Also verify the site is not subject to mud flows, volcanoes, or other catastrophic events. A check-list should be maintained for report writing.
+Also verify the site is not subject to mud flows, volcanoes, or other catastrophic events. A check-list should be maintained for [[permaculture-site-assessment-report-writing]].
 
 ## Working with Rich Clients
 
-A practical warning: keep your mouth shut around wealthy clients until you have things together and can present your report properly. A casual suggestion about a diversion drain can result in a rich client immediately bulldozing a catastrophically bad canal uphill. Present complete recommendations at once, with clear instructions.
+A practical warning: keep your mouth shut around wealthy clients until you have things together and can present your report properly. A casual suggestion about a [[diversion-drain-mollison]] can result in a rich client immediately bulldozing a catastrophically bad canal uphill. Present complete recommendations at once, with clear instructions.
 
 ## Retrofit vs. New Design
 
@@ -95,4 +95,4 @@ No client has unlimited resources. Set criteria for priorities:
 2. **Second** (or concurrently): Energy-conserving systems
 3. **Last**: Systems that consume energy
 
-Design for caloric efficiency. Work with architects when possible, as interaction between designer and architect is fruitful. Plan for evolution in the design over time.
+Design for [[fukuoka-textdoc-natural-livestock-caloric-efficiency]]. Work with architects when possible, as interaction between designer and architect is fruitful. Plan for evolution in the design over time.

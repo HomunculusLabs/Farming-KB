@@ -1,5 +1,5 @@
 ---
-title: Mobile Greenhouses and Winter Harvest Seed Varieties
+title: Mobile Greenhouses [[eliot-coleman-deep-organic-farming-and-winter-harvest]] Seed Varieties
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[mobile-greenhouses]] represent one of the most innovative approaches to year-round growing, allowing a single structure to serve multiple plots of land through seasonal movement. Combined with carefully selected cold-tolerant varieties, mobile greenhouses enable growers to extend the harvest season dramatically. This page covers two [[mobile-greenhouse]] systems, row cover suppliers, seed companies specializing in winter harvest varieties, and Coleman's recommended variety list.
+[[mobile-greenhouses]] represent one of the most innovative approaches to year-round growing, allowing a single structure to serve multiple plots of land through seasonal movement. Combined with carefully selected cold-tolerant varieties, mobile greenhouses enable growers to extend the harvest season dramatically. This page covers two [[mobile-greenhouse]] systems, row cover suppliers, seed companies specializing in [[greenhouse-suppliers-and-winter-harvest-varieties]], and Coleman's recommended variety list.
 
 ## Mobile Greenhouse Systems
 
@@ -38,7 +38,7 @@ Coleman collaborated with [[rimol-greenhouse-systems]] to design and develop a m
 
 ### Four Season Tools
 
-Coleman also worked with [[four-season-tools]] on their mobile greenhouse design, which incorporates drop-down side technology on both sides plus a full-length roof opening for ventilation. These houses are available in both wheeled and sled models, and the company offers conversion kits to make existing stationary greenhouses mobile.
+Coleman also worked with [[four-season-tools]] on their [[coleman-mobile-greenhouse-design-and-operation]], which incorporates drop-down side technology on both sides plus a full-length roof opening for ventilation. These houses are available in both wheeled and sled models, and the company offers conversion kits to make existing stationary greenhouses mobile.
 
 **Design Features:**
 
@@ -55,7 +55,7 @@ Coleman also worked with [[four-season-tools]] on their mobile greenhouse design
 
 ### Agribon
 
-The primary row cover used for both greenhouse inner layers and quick-hoop covering. Available in different weights providing varying degrees of frost protection and light transmission.
+The primary row cover used for both greenhouse inner layers and quick-hoop covering. Available in different weights providing varying degrees of [[frost-protection-and-radiation-management]] light transmission.
 
 **Supplier:** Johnny's Selected Seeds, Winslow, ME
 
@@ -83,11 +83,11 @@ Territorial publishes a supplementary catalog in June specifically focused on wi
 
 ### Fedco Seeds (Waterville, ME)
 
-Fedco specializes in varieties for northern growers and short growing seasons. Their selection is particularly relevant for growers in cold climates who need varieties that mature quickly and tolerate cool conditions.
+Fedco specializes in varieties for northern growers and short [[jeavons-climate-adaptation-growing-seasons]]. Their selection is particularly relevant for growers in cold climates who need varieties that mature quickly and tolerate cool conditions.
 
 ### Wood Prairie Farm (Bridgewater, ME)
 
-Supplier of organic 'Rose Gold' seed potatoes, a variety that Coleman grows and recommends for winter greenhouse production.
+Supplier of organic 'Rose Gold' seed potatoes, a variety that Coleman grows and recommends for [[economics-of-winter-greenhouse-production]].
 
 ### Graines Baumaux (Nancy, France)
 

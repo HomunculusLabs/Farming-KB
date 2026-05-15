@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Alcohol Extraction
+title: Psilocybin [[ethyl-alcohol-extraction]]
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Alcohol extraction is a method for concentrating the active alkaloids (psilocybin and psilocin) from dried mushroom material into a liquid solution. The technique uses pure ethyl alcohol as a solvent to dissolve the psychoactive compounds, producing a potent "magic mushroom liqueur" that can be dosed with precision. The entire process involves only mushrooms and alcohol, with no toxic chemicals required.
+Alcohol extraction is a method for concentrating the active alkaloids ([[hplc-analysis-of-psilocybin-and-psilocin]]) from dried mushroom material into a liquid solution. The technique uses pure [[pf-tek-200-proof-ethyl-alcohol-procurement-state-permit]] as a solvent to dissolve the psychoactive compounds, producing a potent "magic mushroom liqueur" that can be dosed with precision. The entire process involves only mushrooms and alcohol, with no toxic chemicals required.
 
 ## Why Extract?
 
@@ -16,7 +16,7 @@ Several motivations drive cultivators and researchers toward alcohol extraction:
 
 - **Precise dosing**: A concentrated liquid allows measurement by volume (e.g., via syringe), reducing the risk of over- or under-dosing.
 - **Potency concentration**: The extract can be evaporated down to any desired concentration, enabling very strong doses in small volumes.
-- **Storage stability**: Alcohol acts as a preservative. The concentrated liqueur stores indefinitely in the freezer without degradation.
+- **[[psilocybin-storage-stability-post-harvest-degradation-mushrooms]]**: Alcohol acts as a preservative. The concentrated liqueur stores indefinitely in the freezer without degradation.
 - **Consistent experience**: Liquid preparations offer more uniform distribution of active compounds than whole dried mushrooms, which can vary in potency from specimen to specimen.
 
 ## The Solvent: Ethyl Alcohol
@@ -34,7 +34,7 @@ In the United States, 200 proof ethyl alcohol can be acquired through liquor sto
 
 ### Step 1: Preparation and Soaking
 
-1. **Source material**: Use quality *Psilocybe cubensis* specimens harvested before or just as caps open, then cool-dried with desiccant until rock-hard.
+1. **Source material**: Use quality *[[anemotropism-in-psilocybe-cubensis]]* specimens harvested before or just as caps open, then cool-dried with desiccant until rock-hard.
 2. **Minimum quantity**: Use at least several grams of dried material to make the process worthwhile.
 3. **Pulverization**: Place dried mushrooms in a strong zip-lock freezer bag, cover with a magazine for protection, and pound with the rubber heel of a large shoe until fully powdered.
 4. **Soaking**: Transfer the powder to a bottle with a tight-fitting, leak-proof cap. Add enough alcohol to cover the material and create a loose slurry.
@@ -62,7 +62,7 @@ Retrieve the shroom material from the filters and resoak with **fresh alcohol**.
 
 ### Safety Note
 
-Because the solvent is drinkable ethyl alcohol (unlike methanol or other toxic solvents), any fumes generated during evaporation are **non-toxic**. This is a significant safety advantage over extraction methods using denatured alcohol or chemical solvents.
+Because the solvent is drinkable ethyl alcohol (unlike methanol or other toxic solvents), any fumes generated during evaporation are **non-toxic**. This is a significant safety advantage over [[arbuscular-mycorrhizal-spore-extraction-methods]] using denatured alcohol or chemical solvents.
 
 ### Target Concentration
 

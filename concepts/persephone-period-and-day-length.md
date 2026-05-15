@@ -1,12 +1,12 @@
 ---
-title: Persephone Period and Day Length
+title: [[persephone-period]] and Day Length
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Persephone Period and Day Length
 
-The Persephone period is the portion of the year when day length falls below ten hours, causing plant growth to slow dramatically or effectively cease for most vegetable crops. Named by Eliot Coleman after the Greek myth of Persephone's descent to the underworld, this period is the central biological constraint that drives all planning for winter vegetable production. Understanding its timing, its effects on different crops, and its variation by latitude is essential for successful winter harvesting.
+The Persephone period is the portion of the year when day length falls below ten hours, causing plant growth to slow dramatically or effectively cease for most vegetable crops. Named by Eliot Coleman after the Greek myth of Persephone's descent to the underworld, this period is the central biological constraint that drives all planning for [[coleman-french-historical-winter-vegetable-production]]. Understanding its timing, its effects on different crops, and its variation by latitude is essential for successful [[coleman-winter-harvesting-logistics-workflow]].
 
 ## The Ten-Hour Threshold
 
@@ -18,11 +18,11 @@ The ten-hour day provides a remarkably consistent yardstick across latitudes. Th
 
 The concept takes its name from the Greek myth of Persephone, daughter of the earth goddess Demeter. According to the story, Persephone was abducted by Hades to live as his wife in the underworld. Demeter, devastated by her daughter's absence, threatened to shut down all plant growth. Zeus brokered a deal whereby Persephone would spend only the winter months with Hades. During that time, Demeter made the earth barren.
 
-This myth elegantly encodes an agricultural truth that ancient Greek farmers understood intuitively: the sun's power and the length of the day are the principal influences on agriculture, and there is a period each year when growth ceases.
+This myth elegantly encodes an agricultural truth that [[ancient-greek-mystery-cults-comparison]] farmers understood intuitively: the sun's power and the length of the day are the principal influences on agriculture, and there is a period each year when growth ceases.
 
 ## Persephone Period by Latitude
 
-The duration and timing of the Persephone period vary significantly with latitude. At higher latitudes, the period is longer; at lower latitudes, it is shorter. South of the 32nd parallel (Savannah, Georgia; El Paso, Texas; San Diego, California), winter day length never drops below ten hours.
+The [[phenethylamine-duration-and-timing]] of the Persephone period vary significantly with latitude. At higher latitudes, the period is longer; at lower latitudes, it is shorter. South of the 32nd parallel (Savannah, Georgia; El Paso, Texas; San Diego, California), winter day length never drops below ten hours.
 
 | Location | Latitude | Persephone Period Start | Persephone Period End | Duration |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ Alternatively, growers can simply count backward from their desired harvest date
 
 1. **All winter crops must reach minimum harvestable size before the Persephone period begins** at the grower's latitude
 2. **Planting dates must be calculated backward** from desired harvest dates, accounting for the growth-rate slowdown
-3. **Succession planting** before the Persephone period ensures a spread of harvest dates during the slow-growth months
+3. **[[coleman-succession-planting]]** before the Persephone period ensures a spread of harvest dates during the slow-growth months
 4. **True winter annuals** (mâche, claytonia, spinach) will germinate if sown during short days but will grow very slowly until February
 5. **The Persephone period is not a barrier** to winter production — it is a biological reality that must be planned around, not fought against
 

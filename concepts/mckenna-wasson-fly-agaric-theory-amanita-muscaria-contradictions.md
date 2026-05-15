@@ -27,7 +27,7 @@ being available in the geographical region occupied by the Indo-European peoples
 
 The Wassons' fieldwork among Siberian shamans provided the ethnographic foundation
 for their theory. The Koryak, Chukchi, and other peoples of the Kamchatka Peninsula
-use Amanita muscaria in religious and communal ceremonies. The shaman, acting as
+use [[amanita-muscaria-in-eastern-religions]] religious and communal ceremonies. The shaman, acting as
 intermediary between the human and spirit worlds, consumes dried fly-agaric caps
 and enters a trance state. The Wassons documented the elaborate rituals surrounding
 mushroom collection, preparation, and consumption — including the practice of urine
@@ -70,12 +70,12 @@ effects described in the Vedic texts.
 
 ## The Stropharia cubensis Alternative
 
-McKenna proposed Stropharia cubensis (now Psilocybe cubensis) as a more plausible
+McKenna proposed Stropharia cubensis (now [[anemotropism-in-psilocybe-cubensis]]) as a more plausible
 
 ## Overview
 
 Mckenna Wasson [[fly-agaric]] Theory Amanita Muscaria Contradictions represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mckenna Wasson Fly Agaric Theory Amanita Muscaria Contradictions finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,7 +104,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mckenna wasson fly agaric theory amanita muscaria contradictions and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

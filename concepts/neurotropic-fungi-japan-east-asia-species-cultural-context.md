@@ -1,5 +1,5 @@
 ---
-title: challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of Japan and East Asia Species and Cultural Context
+title: challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of Japan and East Asia Species [[ayahuasca-pharmacology-and-cultural-context]]
 created: 2026-04-28
 tags:
   - mycology
@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
-  - Guzmán G, Allen JW, Gartz J (1998) A worldwide geographical distribution
+  - Guzmán G, Allen JW, Gartz J (1998) A worldwide [[psilocybe-geographical-distribution-patterns]]
     of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto
     14: 189-280
 type: concept
@@ -56,7 +56,7 @@ identity of the sacred Soma plant described in the Rig Veda (Wasson,
 India has a notably rich neurotropic mycoflora, with particular
 diversity in Psilocybe and Copelandia:
 - **[[guzman-allen-gartz-neurotropic-fungi-asia]].md)
-- [Amanita Muscaria and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] Fungi](amanita-muscaria-and-ibotenic-acid-fungi.md)
+- [[[amanita-muscaria-and-ibotenic-acid-containing-fungi]] [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] Fungi](amanita-muscaria-and-ibotenic-acid-fungi.md)
 - Psilocybe Venenata
 ## Practical Considerations
 
@@ -80,7 +80,7 @@ communities, and systematic experimentation to build expertise.
 ## Overview
 
 Neurotropic Fungi Japan East Asia Species Cultural Context represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Neurotropic Fungi Japan East Asia Species Cultural Context finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 neurotropic fungi japan east asia species cultural context and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

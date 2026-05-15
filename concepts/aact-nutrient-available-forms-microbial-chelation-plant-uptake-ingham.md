@@ -6,7 +6,7 @@ type: concept
 
 # Nutrient Available Forms — Microbial Chelation and Plant Uptake
 
-Elaine Ingham's soil food web framework emphasizes that nutrient availability is not simply about total mineral content in soil, but about whether those minerals exist in forms that plant roots can actually absorb.
+Elaine Ingham's soil food web framework emphasizes that [[chelation-and-nutrient-availability]] is not simply about total mineral content in soil, but about whether those minerals exist in forms that plant roots can actually absorb.
 
 ## The Problem with Total Soil Tests
 
@@ -14,11 +14,11 @@ Conventional soil tests measure total elemental concentrations — the sum of al
 
 However, most minerals in soil are locked in unavailable forms: bound in rock particles, precipitated as insoluble compounds, or adsorbed onto clay and organic matter surfaces.
 
-A soil may test high in calcium, iron, or phosphorus while plants growing in it show deficiency symptoms, because the nutrients are present but not accessible to root membranes.
+A soil may test high in calcium, iron, or phosphorus while plants growing in it show [[knf-calcium-deficiency-symptoms]], because the nutrients are present but not accessible to root membranes.
 
 ## Plant-Uptakeable Forms
 
-Plants absorb nutrients primarily through root hairs and mycorrhizal associations. The forms they can take up are limited and specific.
+Plants absorb nutrients primarily through root hairs and [[plants-without-mycorrhizal-associations]]. The forms they can take up are limited and specific.
 
 Nitrogen is absorbed as ammonium (NH₄⁺) or nitrate (NO₃⁻). Organic nitrogen compounds like amino acids and amino sugars can also be absorbed directly by some plants, especially in conjunction with mycorrhizal fungi.
 
@@ -44,7 +44,7 @@ Fungal chelation, especially from mycorrhizal fungi and saprophytic fungi, produ
 
 Bacteria and fungi absorb nutrients from their surroundings, incorporating them into their biomass. When protozoa, nematodes, and microarthropods consume these microbes, they excrete excess nutrients in plant-available ionic forms.
 
-This predator-prey nutrient cycling is the primary mechanism by which organic matter and mineral nutrients become available to plants in healthy soil ecosystems.
+This predator-prey nutrient cycling is the primary mechanism by which organic matter [[soil-phosphorus-and-mineral-nutrients]] become available to plants in healthy soil ecosystems.
 
 The rate of nutrient cycling depends on the activity and diversity of [[soil-food-web]]. A diverse, active microbial community cycles nutrients faster and more completely than a depleted one.
 
@@ -86,11 +86,11 @@ The mycorrhizal nutrient pathway is particularly important in low-fertility soil
 
 [[actively-aerated-compost-tea]] (AACT) contributes to nutrient availability primarily by inoculating the soil and foliar surfaces with diverse microbial communities.
 
-The microbial inoculum from compost tea establishes or augments [[soil-food-web]], accelerating nutrient cycling from organic matter and mineral sources.
+The microbial inoculum from compost tea establishes or augments [[soil-food-web]], accelerating nutrient cycling from organic matter [[plant-nutrients-and-mineral-sources]].
 
 Foliar applications of compost tea can supply directly absorbable nutrients in chelated forms, bypassing soil fixation processes entirely.
 
-Compost tea ingredients like kelp, fish hydrolysate, and humic acids also contribute chelated micronutrients and growth-promoting compounds that enhance [[plant-nutrient-uptake]] capacity.
+[[compost-tea-ingredients-and-recipes]] like kelp, fish hydrolysate, and humic acids also contribute chelated micronutrients and growth-promoting compounds that enhance [[plant-nutrient-uptake]] capacity.
 
 ## Implications for Fertilization
 
@@ -107,5 +107,5 @@ The preferred approach is to feed [[soil-food-web]] — ensuring adequate organi
 - Total nutrient content in soil does not equal available nutrient content for plants.
 - Microorganisms are the primary agents that convert unavailable nutrients into plant-available forms.
 - Chelation by bacteria and fungi is essential for keeping micronutrients in soluble, absorbable forms.
-- Predator-prey cycling in [[the-soil-food-web]] is the main pathway for nutrient release.
+- Predator-prey cycling in [[soil-food-web]] is the main pathway for nutrient release.
 - Compost tea supports nutrient availability by building the microbial community that drives cycling.

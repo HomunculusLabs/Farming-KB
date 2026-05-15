@@ -7,10 +7,10 @@ type: concept
 # Soil Fertility Amendment Rates
 
 In *[[gardening-when-it-counts]]*, [[steve-solomon]] presents a stepwise gradient
-for building soil fertility. Rather than insisting on one "ideal" fertility
+for [[building-soil-fertility-long-term]]. Rather than insisting on one "ideal" fertility
 level, Solomon recognizes that gardeners operate under wildly different resource
 constraints and offers a graduated sequence — from zero amendments up to full
-complete organic fertilizer (COF) application — so that anyone can grow
+[[complete-organic-fertilizer]] (COF) application — so that anyone can grow
 productive vegetables regardless of their starting point.
 
 ## The Fertility Gradient
@@ -68,7 +68,7 @@ Solomon draws an important quality distinction between common manure types:
   over-apply — a forgiving choice for inexperienced gardeners.
 - **Chicken manure** is substantially richer in nitrogen, phosphorus, and
   potassium — roughly three to four times more concentrated than steer
-  manure by volume. Because of this potency, application rates are
+  manure by volume. Because of this potency, [[compost-tea-application-rates]] are
   correspondingly lower (roughly one-third the volume of steer manure).
   Over-application of chicken manure can burn plants or cause excessive
   leafy growth at the expense of fruit production.
@@ -99,7 +99,7 @@ matter is not always better.** Excessive application of manure or compost
 can:
 
 - **Unbalance soil mineral content.** Large additions of organic matter
-  dilute the relative proportions of essential trace minerals, potentially
+  dilute the relative proportions of essential [[dynamic-accumulator-plants-trace-minerals]], potentially
   creating deficiencies even as total nutrient volume increases.
 - **Excessively raise soil phosphorus.** Repeated manure applications
   accumulate phosphorus far beyond crop needs, which can inhibit uptake
@@ -108,7 +108,7 @@ can:
   drought conditions — the opposite of what a water-efficient garden needs.
 
 Solomon's tiered approach deliberately caps organic matter at 1 inch per
-season and relies on COF to supply the precise mineral balance that raw
+season and relies on COF to supply the precise [[garden-soil-fertility-mineral-balance-solomon]] that raw
 manure or compost cannot guarantee.
 
 ## Clay Soil Challenges
@@ -125,7 +125,7 @@ compound every fertility decision:
   organic matter on the surface does little; it must be thoroughly mixed
   into the clay profile to create the aggregated structure that improves
   drainage and root penetration.
-- **Moisture management is critical**: clay holds water tightly but
+- **[[mushroom-bed-moisture-management]] is critical**: clay holds water tightly but
   releases it slowly to plant roots. Overwatering is as dangerous as
   underwatering.
 

@@ -14,7 +14,7 @@ type: query
 
 Black [[hamilton-composting-and-organic-matter-management]] into nutrient-dense animal feed and compost.
 The larvae consume large quantities of organic waste, reduce volume dramatically, and turn discarded food into protein- and fat-rich biomass.
-A [[composting-methods-comparison]] resource shows how black soldier fly composting compares to other methods in terms of speed, volume capacity, and nutrient retention.
+A [[composting-methods-comparison]] resource shows how [[black-soldier-fly-composting]] compares to other methods in terms of speed, volume capacity, and nutrient retention.
 
 ## What to Feed Them
 

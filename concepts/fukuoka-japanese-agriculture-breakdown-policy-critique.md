@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Japanese Agriculture Breakdown Policy Critique"
+title: "Fukuoka [[fukuoka-breakdown-japanese-agriculture]] Breakdown Policy Critique"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -7,9 +7,9 @@ type: concept
 # The Breakdown of Japanese Agriculture
 
 [[masanobu-fukuoka]]'s second chapter presents a sweeping indictment of the forces that
-dismantled Japan's traditional farming culture and replaced it with an industrialized,
+dismantled Japan's [[jadam-nutrient-cycling-traditional-farming-mineral-science]] culture and replaced it with an industrialized,
 policy-driven system that impoverishes both the land and the farmer. His analysis weaves
-cultural history, economics, and philosophy to argue that modern agriculture represents
+[[amanita-muscaria-cultural-history]], economics, and philosophy to argue that modern agriculture represents
 not progress but a catastrophic fall from a truthful way of living.
 
 ## Life in the Farming Villages of the Past
@@ -44,7 +44,7 @@ The cultural losses were equally devastating. Singing voices in the fields were
 replaced by the drone of television sets. Fireside discussions — the communal
 storytelling and knowledge-sharing that bound generations together — vanished. The
 disappearance of the traditional sunken hearth (*irori*) extinguished the last embers
-of ancient farming village culture. That hearth had been the physical and spiritual
+of ancient farming [[fukuoka-textdoc-sunken-hearth-extinction-village-culture]]. That hearth had been the physical and spiritual
 center of the home; without it, the rhythms of family life shifted irreversibly.
 Fukuoka's verdict is stark: "We have fallen from a true way of life to one that is
 false."
@@ -57,7 +57,7 @@ not a natural migration but a deliberate appropriation: farmers' labor was effec
 commandeered to build urban civilization. Their production, surplus, and land subsidized
 Japan's rapid industrial rise.
 
-The arrival of the **motorized transport-tiller** marked the major turning point.
+The arrival of the **motorized transport-tiller** marked the major [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]].
 Horse-drawn plows gave way to tillers, which gave way to full-sized tractors. Motorized
 sprayers were eventually abandoned in favor of helicopter spraying — removing the
 farmer from the field almost entirely. Traditional farming with draft animals and
@@ -117,7 +117,7 @@ Fukuoka offers no easy optimism. The future [[four-principles-of-natural-farming
 acceptance of the Mu philosophy and a fundamental reversal of society's value system —
 a shift from the arrogance of human intellect to the humility of working with nature.
 
-Even **organic farming** — often celebrated as a progressive alternative — is in his
+Even **[[coleman-deep-organic-farming]]** — often celebrated as a progressive alternative — is in his
 view only a temporary stopgap that will eventually be assimilated by scientific
 agriculture. Organic methods still operate within the framework of human control; they
 substitute natural inputs for chemical ones without challenging the assumption that

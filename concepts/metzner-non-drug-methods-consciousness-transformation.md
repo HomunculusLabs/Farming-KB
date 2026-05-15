@@ -20,7 +20,7 @@ methods (drumming, fasting, wilderness vision questing, sweat lodges) in the
 [[mckenna-food-gods-designer-states-of-consciousness]], involving
 nondrug triggers such as hypnosis, meditation, rhythmic drumming, sensory
 isolation, fasting, and others." This extension is significant because it
-suggests that the psychedelic experience is not a sui generis phenomenon
+suggests that the [[leary-psychedelic-experience-bardo-mapping]] is not a sui generis phenomenon
 produced uniquely by pharmacological intervention but an instance of a more
 general capacity of the human nervous system to access altered states of
 consciousness.
@@ -73,7 +73,7 @@ psychological purification.
 ## Overview
 
 Metzner Non Drug Methods Consciousness Transformation represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Metzner Non Drug Methods Consciousness Transformation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -102,13 +102,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for metzner non drug methods consciousness transformation. Climate adaptation
+opportunities for metzner non drug methods consciousness transformation. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 metzner non drug methods consciousness transformation and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -113,7 +113,7 @@ This psychological preparation applies to all catastrophes, not just fire.
 A critical principle for post-fire rebuilding: **do not rebuild "just the same" as before**. Most people instinctively rebuild identically, reproducing the same vulnerabilities. Instead:
 
 - Build to **survive the next disaster**
-- Incorporate **fire-resistant design principles** from the outset
+- Incorporate **fire-resistant [[aact-brewer-design-principles-aeration-systems-ingham]]** from the outset
 - Improve **siting** based on lessons learned about fire behavior on the property
 - Install **permanent fire refuges** as part of the new structure
 - Create **better fuel management zones** than existed before
@@ -142,6 +142,6 @@ Every [[permaculture]] designer working in fire-prone areas carries the responsi
 - Educate clients and communities about fire risk and survival
 - Design settlements that minimize fire damage and mortality
 - Create systems that allow people to survive "caught at home" scenarios
-- Plan for the inevitable recurrence of fire on 8-30 year cycles
+- Plan for the inevitable recurrence of fire on 8-30 [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]]
 - Ensure that rebuilding after fire incorporates improved fire-resistant design
 - Accept that in every large wildfire in settled areas, people will be lost or badly injured, property destroyed, and psychological effects will persist — but good design dramatically reduces these losses

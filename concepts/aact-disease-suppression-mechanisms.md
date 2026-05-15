@@ -1,12 +1,12 @@
 ---
-title: AACT Disease Suppression Mechanisms
+title: AACT [[compost-tea-disease-suppression-mechanisms]]
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
 # AACT Disease Suppression Mechanisms
 
-Actively aerated compost tea (AACT) suppresses plant disease through
+[[actively-aerated-compost-tea-introduction]] tea (AACT) suppresses plant disease through
 entirely **non-toxic** biological mechanisms. Unlike chemical pesticides,
 the beneficial organisms in compost tea do not kill pathogens through
 chemical toxicity. Instead, they protect plants by occupying ecological
@@ -73,7 +73,7 @@ registration processes.
 ## Leaf Surface Protection and Foliar Uptake Enhancement
 
 Beyond disease suppression, AACT organisms on leaf surfaces provide a
-direct benefit to foliar nutrient uptake through microbial respiration:
+direct benefit to [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] through microbial respiration:
 
 1. Microbes on the leaf surface respire, producing CO₂.
 2. This locally increases CO₂ concentration in the leaf surface
@@ -84,7 +84,7 @@ direct benefit to foliar nutrient uptake through microbial respiration:
 This system is self-regulating: as weather gets drier and microbes have
 less water, they respire less. This biological feedback loop helps
 plants pump nutrients in when appropriate and reduces uptake during
-stressful conditions — a naturally optimized nutrient delivery system.
+stressful conditions — a naturally optimized [[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]].
 
 ## The Importance of Soil Microbial Life
 
@@ -99,7 +99,7 @@ over-applied.
 
 ## Indigenous vs. Purchased Inoculum
 
-Commercial inoculum products like Effective Microorganisms (EM) can help
+Commercial inoculum products like [[bokashi-composting-and-effective-microorganisms]] (EM) can help
 get biological processes started, but Dr. Ingham strongly emphasizes
 developing **locally adapted indigenous inoculum** over time. Purchased
 products provide a starting point, but locally sourced organisms from
@@ -127,7 +127,7 @@ carbon sources, single temperature/humidity, and miss approximately
 **99.99%** of bacterial and fungal diversity. Dr. Eric Nelson at Cornell
 has shown there is **no relationship between plate count assays and
 pathogen inhibition, disease suppressiveness, or plant response**.
-Direct microscopic examination provides a far more accurate picture.
+Direct [[fungal-microscopic-examination-mounting-media-techniques]] provides a far more accurate picture.
 
 ## Summary
 

@@ -1,5 +1,5 @@
 ---
-title: "comparison ferrocement vs cob construction Construction"
+title: "[[comparison-ferrocement-vs-earthbag]] cob construction Construction"
 created: 2026-04-28
 tags: [natural-building, sustainable-architecture, ferrocement, cob, earth-building]
 date: 2026-04-28
@@ -14,7 +14,7 @@ Both ferrocement and cob are affordable, low-tech [[coleman-first-rule-nature-ma
 
 ## Climate Performance
 
-**Thermal mass vs. insulation:** Cob's enormous thermal mass moderates indoor temperatures in climates with large diurnal swings—hot days and cool nights. It absorbs heat during the day and releases it at night, creating a self-regulating thermal flywheel. However, it provides almost no insulation (R-0.25 per inch), so in sustained cold climates it performs poorly without external insulation. In temperate or desert climates, cob walls create comfortable interiors with minimal heating or cooling.
+**[[comparison-windbreak-vs-thermal-mass]] vs. insulation:** Cob's enormous thermal mass moderates indoor temperatures in climates with large diurnal swings—hot days and cool nights. It absorbs heat during the day and releases it at night, creating a self-regulating thermal flywheel. However, it provides almost no insulation (R-0.25 per inch), so in sustained cold climates it performs poorly without external insulation. In temperate or desert climates, cob walls create comfortable interiors with minimal heating or cooling.
 
 Ferrocement is essentially a thin concrete shell with minimal thermal mass. Without insulation backing, it conducts heat readily and can overheat in sun or feel cold in winter. Builders typically pair ferrocement shells with insulation ([[cob-building]] (20–30 m²) typically takes a full building season (3–5 months) with a crew of 3–5 working steadily. No curing period beyond natural drying is required, and walls can be trimmed and sculpted while still plastic.
 
@@ -34,10 +34,10 @@ Cob wins decisively on raw material cost, especially where suitable subsoil is a
 ## Suitable Applications
 
 **Choose ferrocement when building:**
-- Water tanks, cisterns, and aquaculture ponds
+- Water tanks, cisterns, and [[salinity-management-in-aquaculture-ponds]]
 - Thin-shell domes and vaulted roofs
 - Boat hulls and marine structures
-- Structures in high-rainfall or humid climates
+- Structures in high-rainfall or [[berry-fruit-production-cool-humid-climates]]
 - Small, rapidly-built shelters where cement is available
 - Retaining walls and foundation elements
 
@@ -45,7 +45,7 @@ Cob wins decisively on raw material cost, especially where suitable subsoil is a
 - Single-story homes and cottages
 - Garden walls, benches, fireplaces, and sculptural elements
 - Structures where thermal mass is desirable
-- Buildings in arid or temperate climates with low rainfall
+- Buildings in arid or [[fukuoka-natural-farming-temperate-climates]] with low rainfall
 - Projects maximizing local, on-site materials and minimal embodied energy
 - Community build projects where unskilled labor is abundant
 
@@ -78,4 +78,4 @@ Cob buildings that are kept dry can last centuries—many cob structures in Devo
 
 Cob has very low embodied energy—earth is excavated, mixed, and stacked with minimal processing. Carbon footprint is near zero if straw is locally sourced and no imported sand is needed. At [[powell-psilocybin-end-of-life-anxiety]], cob walls can simply return to the earth they came from.
 
-Ferrocement's Portland cement production is carbon-intensive (roughly 0.9 kg CO₂ per kg of cement), though the thin shells use relatively small volumes compared to conventional concrete construction. Steel mesh production also carries significant embodied energy. Recycled steel mesh and supplementary cementitious materials (fly ash, slag, or natural pozzolans) can reduce the carbon footprint. Bio-cement alternatives using bacterial calcium carbonate precipitation are emerging but not yet practical at building scale.
+Ferrocement's Portland cement production is carbon-intensive (roughly 0.9 kg CO₂ per kg of cement), though the thin shells use relatively small volumes compared to conventional concrete construction. Steel mesh production also carries significant embodied energy. Recycled steel mesh and supplementary cementitious materials (fly ash, slag, or natural pozzolans) can reduce the carbon footprint. Bio-cement alternatives using bacterial calcium [[fungal-calcium-oxalate-and-carbonate-precipitation]] are emerging but not yet practical at building scale.

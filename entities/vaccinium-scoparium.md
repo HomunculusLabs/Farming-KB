@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hitchcock, C.L. & Cronquist, A. (1959). "Vaccinium." In Vascular Plants of the Pacific Northwest, Part 4, University of Washington Press.
+  - Hitchcock, C.L. & Cronquist, A. (1959). "Vaccinium." In Vascular Plants of the psilocybin-north-america-pacific-northwest, Part 4, University of Washington Press.
   - Vander Kloet, S.P. & Dickinson, T.A. (2009). "A Subgeneric Classification of the Genus Vaccinium and the Metamorphosis of V. section Bracteata." Botanical Review, 75(4), 423–466.
   - Stickney, P.F. (1986). "First Decade of Plant Succession After the 1980 eruption of Mount St. Helens." USDA Forest Service General Technical Report PNW-177.
   - USDA NRCS (2024). "Vaccinium scoparium Leiberg ex Coville — Grouseberry." PLANTS Database.
@@ -72,7 +72,7 @@ White-tailed deer and elk browse the foliage lightly in winter and [[vaccinium-m
 ## Overview
 
 Vaccinium Scoparium represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Vaccinium Scoparium finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for vaccinium scoparium. Climate adaptation
+opportunities for vaccinium scoparium. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 vaccinium scoparium and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

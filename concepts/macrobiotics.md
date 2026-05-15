@@ -40,7 +40,7 @@ Foods generally avoided in macrobiotic practice include refined sugar, dairy pro
 
 Michio Kushi (1926-2014) brought macrobiotics to the West in the 1950s and established it as a significant alternative health movement. He founded the Kushi Institute in Massachusetts and wrote extensively on macrobiotic theory and practice. Kushi's approach was more flexible and practical than Ohsawa's, making the system accessible to Western practitioners while retaining its philosophical foundations.
 
-Kushi emphasized the connection between personal health, dietary choice, and global ecological sustainability -- ideas that anticipated the modern organic food and sustainable agriculture movements.
+Kushi emphasized the connection between personal health, dietary choice, and global ecological sustainability -- ideas that anticipated the modern organic food [[soil-health-ethics-and-sustainable-agriculture]] movements.
 
 ## The Yin-Yang Food Classification
 
@@ -56,9 +56,9 @@ The goal is to consume primarily balanced and moderately balanced foods, avoidin
 
 ## Connection to Natural Farming
 
-[[masanobu-fukuoka]]'s natural food philosophy shares deep roots with macrobiotic thinking. Both emphasize:
+[[masanobu-fukuoka]]'s [[fukuoka-natural-food-philosophy]] shares deep roots with macrobiotic thinking. Both emphasize:
 - Brown rice as the ideal staple food
-- Local and seasonal eating as fundamental
+- Local [[natural-diet-and-seasonal-eating]] as fundamental
 - Avoidance of processed and refined foods
 - Understanding food as more than nutrition -- as a connection to nature
 - The concept that modern food has become disconnected from its source
@@ -72,7 +72,7 @@ Macrobiotics shares several principles with [[mushroom-cancer-clinical-trials-ov
 ## Overview
 
 Macrobiotics represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Macrobiotics finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 macrobiotics and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

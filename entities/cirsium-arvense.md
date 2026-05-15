@@ -38,7 +38,7 @@ infection on herbivore feeding behavior and insect performance.
 - **Global distribution:** Native to Europe and western Asia, it has become one
   of the most problematic weeds in temperate agriculture worldwide.
 - **Fungal interaction model:** Kruess (2002) used C. arvense to demonstrate
-  that infection by the plant pathogenic fungus Phoma destructiva reduced
+  that infection by the plant pathogenic fungus [[phoma-destructiva]] reduced
   palatability to the specialist herbivore Cassida rubiginosa.
 - **Herbivore defense trade-off:** When infected by P. destructiva, plants were
   less consumed by beetle larvae, and surviving larvae showed retarded
@@ -56,7 +56,7 @@ infection on herbivore feeding behavior and insect performance.
 - **Biocontrol agent interactions:** The interplay between Phoma destructiva and
   Cassida rubiginosa on C. arvense informs integrated weed management approaches
   combining multiple biocontrol agents for synergistic effects.
-- **Fungal ecology research:** Serves as a tractable experimental system for
+- **[[fungal-ecology]] research:** Serves as a tractable experimental system for
   studying tripartite plant-fungus-insect interactions and the continuum between
   pathogenesis and mutualism in fungal ecology.
 - **Root system ecology:** The extensive root system creates a large
@@ -78,3 +78,8 @@ infection on herbivore feeding behavior and insect performance.
 - Kruess, A. (2002). Indirect effects of a plant pathogen on herbivore
   performance. Oikos.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+## See also
+
+- [[baccharis]]
+- [[fungal-plant-diseases]]
+- [[cercospora]]

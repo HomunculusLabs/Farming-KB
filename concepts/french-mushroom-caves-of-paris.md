@@ -1,5 +1,5 @@
 ---
-title: French Mushroom Caves of Paris
+title: [[french-mushroom-caves-and-underground-cultivation]] of Paris
 source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The extraordinary system of underground limestone quarries surrounding Paris represents one of the most remarkable examples of adaptation of industrial infrastructure to agricultural production. These subterranean spaces — originally excavated for building stone over many centuries — became the foundation upon which the French mushroom industry was built, enabling production on a scale unmatched anywhere else in the world during the late nineteenth and early twentieth centuries.
+The extraordinary system of underground limestone quarries surrounding Paris represents one of the most remarkable examples of adaptation of industrial infrastructure to [[fukuoka-agricultural-production-net-energy-deduction]]. These subterranean spaces — originally excavated for building stone over many centuries — became the foundation upon which the French mushroom industry was built, enabling production on a scale unmatched anywhere else in the world during the late nineteenth and early twentieth centuries.
 
 ## Geological and Historical Origins
 
@@ -20,7 +20,7 @@ The catacombs — the cave systems lying directly beneath the city proper — ar
 
 ### The Birth of Cave Cultivation
 
-While mushrooms were cultivated in France as early as the reign of Louis XIV, the use of underground quarries for this purpose does not appear to have become common until the beginning of the nineteenth century. [[mushroom-cultivation]] makes no mention of caves, suggesting that the earlier practice relied on surface-level structures. The transition to cave cultivation represented a significant advance, as the stable underground environment greatly simplified the management of temperature and humidity.
+While mushrooms were cultivated in France as early as the reign of Louis XIV, the use of underground quarries for this purpose does not appear to have become common until the beginning of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. [[mushroom-cultivation]] makes no mention of caves, suggesting that the earlier practice relied on surface-level structures. The transition to cave cultivation represented a significant advance, as the stable underground environment greatly simplified the management of [[greg-green-temperature-and-humidity-control]].
 
 ## Physical Characteristics of the Caves
 
@@ -73,7 +73,7 @@ Access to the champignonnières varied considerably:
 ## Overview
 
 French Mushroom Caves Of Paris represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 french mushroom caves of paris and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

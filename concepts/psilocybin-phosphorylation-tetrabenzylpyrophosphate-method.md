@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Phosphorylation Tetrabenzylpyrophosphate Method
+title: [[psilocybin-phosphorylation-via-zwitterionic-intermediate]] Tetrabenzylpyrophosphate Method
 created: 2026-04-28
 tags:
   - synthesis
@@ -44,7 +44,7 @@ The pyrophosphate method using tetrabenzylpyrophosphate and n-butyllithium
 was found to be the most promising approach. This method was selected for
 large-scale [[gottlieb-psilocybin-production-extraction-methods]] for two practical reasons: easy
 handling of reagents and reagent stability. Tetrabenzylpyrophosphate can
-be prepared in nearly quantitative yield from dibenzyl phosphate using a
+be prepared in nearly quantitative yield from [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]] using a
 literature procedure (Almeida et al., 1999) with minor modifications.
 
 ## Experimental Procedure
@@ -76,7 +76,7 @@ deprotonation of the phenolic OH (pKa approximately 10) rather than the
 ## Overview
 
 Psilocybin Phosphorylation Tetrabenzylpyrophosphate Method represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Psilocybin Phosphorylation Tetrabenzylpyrophosphate Method finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 psilocybin phosphorylation tetrabenzylpyrophosphate method and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

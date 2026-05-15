@@ -24,7 +24,7 @@ tags: [plant, aquatic, wetland, nitrogen-fixer, water-treatment, permaculture]
 - **Scirpus americanus** (= Schoenoplectus americanus): Three-square bulrush
 - **[[hamilton-pest-and-disease-control-organic|organic]] pollutants
 - Removes excess nitrogen and phosphorus from nutrient-rich water
-- Used in reed-bed filtration systems for natural pool design as described by Mollison
+- Used in reed-bed filtration systems for [[natural-pool-design-and-water-conservation]] as described by Mollison
 - Effective in treating agricultural runoff, sewage effluent, and mine drainage
 
 ### Aquaculture Integration
@@ -61,12 +61,12 @@ tags: [plant, aquatic, wetland, nitrogen-fixer, water-treatment, permaculture]
 ## References
 
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 8: Soils.
-- Kadlec, R.H. and Wallace, S. (2008). *Treatment Wetlands*. CRC Press.
+- Kadlec, R.H. and Wallace, S. (2008). *[[mollison-designers-wastewater-treatment-wetlands]]*. CRC Press.
 
 ## Overview
 
 Scirpus represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -87,7 +87,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Scirpus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -95,7 +95,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -116,7 +116,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 scirpus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

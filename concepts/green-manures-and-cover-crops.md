@@ -16,7 +16,7 @@ If a plot of land is put to work growing as much biomass as possible during ever
 
 ### The Garden's Problem
 
-In a vegetable garden, the opposite occurs. Just at the time when plants would be growing their fastest (midsummer), we harvest them, and the ground is left bare. By the time new plants are growing and their leaves form a "crop canopy" that thickly covers the ground, much of the growing season has already passed.
+In [[query-how-do-i-plan-and-start-a-vegetable-garden-from-scratch]], the opposite occurs. Just at the time when plants would be growing their fastest (midsummer), we harvest them, and the ground is left bare. By the time new plants are growing and their leaves form a "crop canopy" that thickly covers the ground, much of [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] has already passed.
 
 Cover cropping means making sure the ground produces biomass by covering it with a crop canopy for as much of the growing season as possible.
 
@@ -59,10 +59,10 @@ In semi-arid conditions, a green-manure crop might suck so much moisture out of 
 If all goes well:
 
 - **Soil structure**: The soil is thickly filled with rapidly decomposing roots, leaving land loose, airy, and totally open to rapid penetration by crops
-- **Beneficial insects**: Provide overwintering habitat
+- **[[beneficial-insects-and-biological-pest-control]]**: Provide overwintering habitat
 - **Nitrogen fixation**: If the cover crop was a legume, it adds nitrogen to the soil
 - **Nutrient capture**: Overwintering crops incorporate nutrients that might otherwise leach out during winter rains
-- **Erosion prevention**: Cover crops protect soil from wind and water erosion
+- **[[dighton-fungal-roles-soil-erosion-prevention]]**: Cover crops protect soil from wind and water erosion
 - **Weed suppression**: Dense cover crop canopy suppresses weed germination
 
 ## Specific Cover Crops
@@ -93,7 +93,7 @@ You can fill whole beds with ordinary garden peas as a green-manure crop. Benefi
 
 ### Brassicas (Autumn)
 
-Fodder kale, oilseed radish, tyfon (turnip × Chinese cabbage hybrid), rape, and field turnips make excellent autumn green manures:
+Fodder kale, oilseed radish, tyfon (turnip × [[growing-chinese-cabbage]] hybrid), rape, and field turnips make excellent autumn green manures:
 - In cold climates they will certainly freeze out — no spring problem
 - Where winters are milder, they may overwinter and make lush spring growth
 - Their leaves protect the ground in autumn
@@ -143,4 +143,4 @@ A technique where rye (sometimes mixed with hairy vetch) is grown right on the s
 - [[sheet-composting-technique]]
 - [[compost-science-and-soil-fertility]]
 - [[carbon-to-nitrogen-ratios]]
-- legume nitrogen fixation
+- [[legume-nitrogen-fixation-and-green-manure]]

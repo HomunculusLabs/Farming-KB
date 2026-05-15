@@ -1,6 +1,6 @@
 ---
-title: "Terpene Profiles In Sativa Strains"
-aliases: cannabis-terpenes-and-the-entourage-effect, sativa terpene profile, cannabis aroma, terpene effects, entourage effect]
+title: "[[cannabis-terpene-profiles]] In Sativa Strains"
+aliases: cannabis-terpenes-and-the-entourage-effect, sativa terpene profile, cannabis aroma, terpene effects, [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]]
 tags: [cannabis, terpenes, chemistry, aroma, sativa, cannabinoids, entourage-effect]
 source: cannabis-sativa-volume-3-essential-guide.md
 created: 2026-05-11
@@ -14,11 +14,11 @@ Terpenes are the aromatic compounds responsible for the distinctive smells and f
 
 ## What Are Terpenes
 
-Terpenes are a large class of organic hydrocarbons (C₁₀H₁₆) produced by many plants, not just cannabis. They are the primary constituents of essential oils and are responsible for the characteristic aromas of pine, citrus, lavender, hops, and countless other plants. In cannabis, over 200 different terpenes have been identified, though a much smaller number of approximately 20–30 account for the majority of the aromatic profile in most strains.
+Terpenes are a large class of organic hydrocarbons (C₁₀H₁₆) produced by many plants, not just cannabis. They are the primary constituents of [[essential-oils-and-hydrosol-distillation]] are responsible for the characteristic aromas of pine, citrus, lavender, hops, and countless other plants. In cannabis, over 200 different terpenes have been identified, though a much smaller number of approximately 20–30 account for the majority of the aromatic profile in most strains.
 
 Terpenes serve [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] at moderate levels
 - **Sativa association**: Found in both sativa and indica strains. Particularly prominent in strains with "peppery" or "spicy" aroma descriptions
-- **Effects**: Anti-inflammatory, analgesic, anti-anxiety. Unique among cannabis terpenes in that it directly activates CB2 [[girl-scout-cookies]]
+- **Effects**: Anti-inflammatory, analgesic, anti-anxiety. Unique among [[cannabis-terpenes-and-the-entourage-effect]] in that it directly activates CB2 [[girl-scout-cookies]]
 
 ### Linalool
 
@@ -32,7 +32,7 @@ Terpenes serve [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]
 ### Humulene
 
 - **Aroma**: Earthy, woody, hoppy (similar to beer hops)
-- **Prevalence**: Present at low to moderate levels in most cannabis strains
+- **Prevalence**: Present at low to moderate levels in most [[cannabis-strains-genetics-potency]]
 - **Sativa association**: Found across the spectrum, contributes earthy base notes
 - **Effects**: Anti-inflammatory, appetite suppressant, antibacterial
 - **Other sources**: Hops, coriander, basil, sage
@@ -60,7 +60,7 @@ Sativa-dominant strains tend to share common terpene patterns distinguishing the
 
 ### Strain-Specific Terpene Profiles
 
-The Cannabis Sativa Vol. 3 guide provides aromatic descriptions that correspond to specific terpene combinations: Super Lemon Haze (limonene-dominant with terpinolene), Amnesia Haze (limonene, terpinolene, caryophyllene), Sour Diesel (caryophyllene, myrcene, limonene with rare sulfur terpenes), Jack Herer (terpinolene-forward with pinene), and Trainwreck (pinene, myrcene, caryophyllene).
+The Cannabis Sativa Vol. 3 guide provides aromatic descriptions that correspond to specific terpene combinations: [[super-lemon-haze]] (limonene-dominant with terpinolene), Amnesia Haze (limonene, terpinolene, caryophyllene), Sour Diesel (caryophyllene, myrcene, limonene with rare sulfur terpenes), Jack Herer (terpinolene-forward with pinene), and Trainwreck (pinene, myrcene, caryophyllene).
 
 ## The Entourage Effect
 
@@ -71,7 +71,7 @@ The entourage effect, proposed by Ethan Russo and others, suggests that the ther
 Evidence supporting the entourage effect includes:
 
 - **Terpene-cannabinoid synergy**: Myrcene enhances THC binding to CB1 receptors. Pinene may counteract THC-induced memory impairment. Linalool may modulate THC anxiety effects.
-- **Clinical observations**: Whole-plant cannabis extracts show greater [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] activity, enzyme activity (FAAH, which breaks down anandamide), and neurotransmitter systems (GABA, serotonin, dopamine) in complex ways.
+- **Clinical observations**: Whole-plant cannabis extracts show greater [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] activity, [[ectomycorrhizal-enzyme-activity-organic-nutrients]] (FAAH, which breaks down anandamide), and neurotransmitter systems (GABA, serotonin, dopamine) in complex ways.
 
 ### Practical Implications for Selection
 

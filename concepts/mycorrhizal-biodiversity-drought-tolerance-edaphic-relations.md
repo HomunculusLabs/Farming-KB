@@ -1,12 +1,12 @@
 ---
-title: Mycorrhizal Biodiversity Drought Tolerance and Edaphic Relations
+title: [[mycorrhizal-biodiversity-drought-stress-response]] Tolerance and Edaphic Relations
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
 ## Overview
 
-The functional diversity of ectomycorrhizal fungal communities on plant root systems is a critical factor in ecosystem resilience and nutrient cycling efficiency. Individual forest trees can simultaneously host communities of many ectomycorrhizal species, and this biodiversity provides **functional plasticity** — the ability to shift mycorrhizal species composition in response to changing soil conditions, nutrient availability, and environmental stresses. Additionally, mycorrhizal associations play significant roles in plant drought tolerance and mediate plant responses to disturbances such as fire.
+The functional diversity of ectomycorrhizal fungal communities on plant root systems is a critical factor in ecosystem resilience [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] efficiency. Individual forest trees can simultaneously host communities of many ectomycorrhizal species, and this biodiversity provides **functional plasticity** — the ability to shift mycorrhizal species composition in response to changing soil conditions, nutrient availability, and environmental stresses. Additionally, mycorrhizal associations play significant roles in plant drought tolerance and mediate plant responses to disturbances such as fire.
 
 ## Species-Specific Effects on Nutrient Uptake
 
@@ -74,7 +74,7 @@ The nature of the post-fire ECM community depends on:
 
 ### Arbuscular Mycorrhizae After Fire
 
-In Australian dry sclerophyllous shrub communities, **Torpy et al. (1999)** found that fire effects on arbuscular mycorrhizal colonization were more closely related to **host plant density** than to direct fire effects on the mycorrhizae themselves. This suggests that AM community recovery is mediated primarily through changes in the host plant community rather than direct thermal effects on fungal propagules.
+In Australian dry sclerophyllous shrub communities, **Torpy et al. (1999)** found that fire effects on [[arbuscular-mycorrhizal-colonization-patterns]] were more closely related to **host plant density** than to direct fire effects on the mycorrhizae themselves. This suggests that AM community recovery is mediated primarily through changes in the host plant community rather than direct thermal effects on fungal propagules.
 
 ## Drought Tolerance Mediated by Mycorrhizae
 
@@ -83,7 +83,7 @@ Mycorrhizal associations significantly impact **plant-water relations** and can 
 ### Mechanisms of Drought Protection
 
 1. **Direct water transport**: Water flows through fungal hyphae, extending the effective root absorptive surface
-2. **Improved phosphate nutrition**: Better P status improves root hydraulic conductivity and osmotic adjustment
+2. **Improved phosphate nutrition**: Better P status improves root [[water-infiltration-soil-hydraulic-conductivity]] and osmotic adjustment
 3. **Altered hormonal balance**: Mycorrhizal colonization can modify abscisic acid and other hormone levels affecting stomatal regulation
 
 ### Evidence from Experimental Studies
@@ -104,7 +104,7 @@ Drought protection is not limited to mycorrhizal endophytes. **Belesky and Malin
 
 ### Saprotrophic Fungi and Drought Tolerance
 
-**Osonubi et al. (1990)** demonstrated that inoculation of *Gmelina arborea* (a Nigerian pulpwood tree) with the saprotrophic fungus *Chaetomium bostrychoides*:
+**Osonubi et al. (1990)** demonstrated that inoculation of *[[gmelina-arborea]]* (a Nigerian pulpwood tree) with the saprotrophic fungus *[[chaetomium-bostrychoides]]*:
 
 - Increased seed germination
 - Significantly increased drought tolerance

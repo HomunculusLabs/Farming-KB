@@ -1,5 +1,5 @@
 ---
-title: Tissue Culture Method for Mushroom Spawn Production
+title: Tissue Culture Method for [[mushroom-spawn-production-and-laboratory-techniques]]
 source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
@@ -23,7 +23,7 @@ The initial approach to controlled [[spore]] germination. In 1899, while working
 
 ### The Tissue Culture Discovery
 
-While the spore approach was being pursued, the author made a critical observation: **fragments of growing mushrooms, obtained under aseptic conditions, may serve as the starting point for pure cultures of spawn**. This is based on the biological fact that a small piece of the inner tissue of a fresh mushroom will, when placed on any suitable sterile nutrient medium, promptly develop mycelium, yielding a pure culture of the spawn.
+While the spore approach was being pursued, the author made a critical observation: **fragments [[query-what-are-the-benefits-of-growing-mushrooms-at-home]], obtained under aseptic conditions, may serve as the starting point for pure cultures of spawn**. This is based on the biological fact that a small piece of the inner tissue of a fresh mushroom will, when placed on any suitable sterile nutrient medium, promptly develop mycelium, yielding a pure culture of the spawn.
 
 The principle is straightforward: the inner tissue of a living, healthy mushroom is naturally free from contamination by other organisms. If this tissue can be transferred to a sterile growing medium without introducing contaminants, it will grow into a pure culture of the desired mushroom strain.
 
@@ -56,7 +56,7 @@ For containers more than about one inch in diameter, longer steaming times are r
 
 ### Step 3: Selection of Source Mushrooms
 
-This is the critical stage where **selection** may be made. The grower should procure from a bed of mushrooms in full bearing specimens representing the most desirable qualities. Selection criteria include:
+This is the critical stage where **selection** may be made. The grower should procure from a bed of mushrooms in full bearing specimens representing the most desirable qualities. [[cannabis-breeding-traits-selection-criteria-clarke]] include:
 
 - **Size**: Large mushrooms preferred for heavy-yielding varieties
 - **Quality**: Firm texture, good color, desirable flavor characteristics
@@ -119,8 +119,8 @@ There was initial concern that even with tissue culture methods, "running out" (
 
 ### Comparison with Analogous Systems
 
-The concern about running out has analogues in other mycological systems—for example, continuous culture of certain pathogenic fungi in the laboratory can materially lower their pathogenicity. This phenomenon underscores the importance of proper technique and periodic re-selection from high-performing specimens.
+The concern about running out has analogues in other mycological systems—for example, continuous culture of certain [[cordyceps-insect-pathogenic-fungi]] in the laboratory can materially lower their pathogenicity. This phenomenon underscores the importance of proper technique and periodic re-selection from high-performing specimens.
 
 ## The Broader Significance
 
-The tissue culture method was the primary cause of the rapid development of mushroom growing in the United States in the early 20th century. By enabling reliable selection, propagation, and distribution of superior mushroom varieties, it transformed the industry from one dependent on chance and mystery to one built on scientific principles and systematic improvement. The method remains the foundation of modern commercial [[spawn-production]] worldwide.
+The tissue culture method was the primary cause of the rapid [[historical-development-of-mushroom-cultivation]] growing in the United States in the early 20th century. By enabling reliable selection, propagation, and distribution of superior [[emcdda-european-mushroom-varieties-and-market-products]], it transformed the industry from one dependent on chance and mystery to one built on scientific principles and systematic improvement. The method remains the foundation of modern commercial [[spawn-production]] worldwide.

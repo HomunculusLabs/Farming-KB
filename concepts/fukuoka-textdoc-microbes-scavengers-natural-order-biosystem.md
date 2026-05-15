@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Textdoc Microbes Scavengers Natural Order Biosystem"
+title: "Fukuoka Textdoc [[microbes-scavengers-natural-farming]] Order Biosystem"
 subtitle: "Fukuoka's Biosystem Self-Maintenance Theory"
 author: "Masanobu Fukuoka"
 source: "The Natural Way of Farming — The Theory (Green-Philosophy)"
@@ -24,7 +24,7 @@ related:
 
 ## Overview
 
-Masanobu Fukuoka's understanding of soil microbiology underpins his entire
+[[masanobu-fukuoka]]'s understanding of soil microbiology underpins his entire
 philosophy [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] or pesticides, harbor populations that
 far exceed those of conventionally managed soils. The fertility of his
 orchards and grain fields arises not from inputs but from the
@@ -68,7 +68,7 @@ The matsutake mushroom (*[[fukuoka-microbes-scavengers-natural-decomposition-bio
 - [[fukuoka-textdoc-natural-order-food-chain-unity]]
   analysis from "The Theory" (Green-Philosophy edition)
 - **No-Tillage Principle** — How avoiding plowing preserves soil
-  microbial communities
+  [[cannabis-rhizosphere-microbial-communities]]
 - **Soil Health [[mulching-in-natural-farming]]** — Broader context on Fukuoka's
   approach to building and maintaining living soil
 - **Pine Rot Epidemic** — Detailed case study of the forest decline
@@ -76,7 +76,7 @@ The matsutake mushroom (*[[fukuoka-microbes-scavengers-natural-decomposition-bio
 ## Overview
 
 Fukuoka Textdoc Microbes Scavengers Natural Order Biosystem represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fukuoka Textdoc Microbes Scavengers Natural Order Biosystem finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 fukuoka textdoc microbes scavengers natural order biosystem and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

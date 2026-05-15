@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Medicinal Properties Heart Anxiety Pain and Dreams
+title: [[allegro-amanita-muscaria-properties-and-pharmacology]] [[ginseng-cultivation-and-medicinal-properties]] Heart Anxiety Pain and Dreams
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -10,7 +10,7 @@ type: concept
 cardiovascular health, anxiety relief, pain management, and dream induction. Its
 pharmacological profile — combining antibiotic, anxiolytic, analgesic, and psychoactive
 compounds — made it one of the most valued medicines [[ganoderma-lucidum]]*) has been used in Chinese medicine for
-centuries to strengthen the heart and calm the spirit. Shiitake (*Lentinula edodes*)
+centuries to strengthen the heart and calm the spirit. Shiitake (*[[lentinula-edodes]]*)
 contains compounds that help lower cholesterol and improve circulation. Cordyceps is
 known to enhance oxygen utilization and support cardiac function in traditional Tibetan
 medicine.
@@ -79,13 +79,13 @@ its most ancient and culturally significant uses.
 
 Ancient "seers" and prophets across many traditions may have used AM to induce
 prophetic or divinatory dreams. The mushroom's ability to produce visionary experiences
-[[shamanic-entheogenic-healing-rituals]]. The shamanic journey, conducted in altered states induced
+[[shamanic-entheogenic-healing-rituals]]. The [[harner-shamanic-journey-and-altered-states]], conducted in altered states induced
 by AM, was understood as travel to other realms where knowledge, healing, and prophecy
 could be obtained — experiences mediated by the mushroom's dream-promoting properties.
 
 ## Other Medicinal Applications
 
-The medicinal profile of AM extends well beyond the primary areas discussed above:
+The [[agrocybe-aegerita-pioppino-medicinal-profile]] of AM extends well beyond the primary areas discussed above:
 
 - **Anti-inflammatory properties:** AM reduces swelling and inflammation in tissues,
   making it useful for a variety of [[cannabis-for-inflammatory-conditions]] beyond dental pain.
@@ -114,7 +114,7 @@ facilitate visionary experiences — all with a single medicine.
 
 Ancient healers using AM would appear to perform miracles across many different
 conditions precisely because the mushroom's effects are so diverse. An infection that
-seemed incurable would respond to AM's antibiotic properties. A patient in agony
+seemed incurable would respond to AM's [[amanita-muscaria-antibiotic-properties-nanobacteria-fungal-medicine]]. A patient in agony
 would find relief from its analgesic action. A person consumed by anxiety or spiritual
 distress would be calmed and transported to a peaceful state. A heart weakened by
 chronic stress and arterial disease would benefit from both the direct and indirect

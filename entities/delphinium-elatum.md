@@ -51,7 +51,7 @@ Isolated populations occur in the Altai Mountains of Central Asia and the Sayan 
 
 The species typically grows at elevations between 1,200 and 2,400 m. It inhabits moist subalpine meadows, stream banks, and open woodland clearings where snowmelt provides consistent moisture.
 
-Delphinium elatum prefers cool summer conditions and struggles in hot, humid climates. It thrives in regions with cool nights, moderate daytime temperatures, and reliable summer rainfall.
+Delphinium elatum prefers cool summer conditions and struggles in hot, [[berry-fruit-production-cool-humid-climates]]. It thrives in regions with cool nights, moderate daytime temperatures, and reliable summer rainfall.
 
 The species is classified as a hemicryptophyte, surviving winter as a basal bud at ground level. Spring emergence is relatively late compared to many alpine species, typically beginning in April or May.
 
@@ -63,7 +63,7 @@ Historical use of delphinium preparations as pediculicides (lice treatments) and
 
 Delphinium elatum is the foundation of the tall garden delphinium trade. The species is hardy to USDA zones 3–7 and performs best in regions with cool summers.
 
-Plants require full sun to light shade and fertile, moisture-retentive but well-drained soil. A [[soil-ph]] of 6.5–7.0 is ideal. Heavy clay or waterlogged conditions lead to crown rot and plant loss.
+Plants require full sun to light shade and fertile, moisture-retentive but well-drained soil. A [[soil-ph]] of 6.5–7.0 is ideal. [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] or waterlogged conditions lead to crown rot and plant loss.
 
 The Elatum Group hybrids represent the tallest garden delphiniums, reaching 1.5–2.5 m. Notable series include the Pacific Giants, Magic fountains, and New Zealand hybrids bred for improved disease resistance.
 
@@ -77,10 +77,10 @@ The species hybridizes readily with other Delphinium species, which has been exp
 
 ## Toxicity
 
-All parts of Delphinium elatum contain toxic diterpenoid alkaloids, primarily delphinine, ajacine, and related compounds. These alkaloids act as neuromuscular blockers affecting the central nervous system.
+All parts of Delphinium elatum contain toxic diterpenoid alkaloids, primarily delphinine, ajacine, and [[lsd-structure-activity-relationships-related-compounds]]. These alkaloids act as neuromuscular blockers affecting the central nervous system.
 
 Ingestion causes nausea, vomiting, abdominal pain, muscle weakness, and in severe cases, respiratory paralysis. Fatalities have been reported in livestock that grazed on delphinium in mountain pastures.
 
-Cattle are particularly susceptible to delphinium poisoning, and the plant is considered a significant cause of livestock loss in western North America. Native Delphinium species pose a similar risk.
+Cattle are particularly susceptible to delphinium poisoning, and the plant is considered a significant cause of livestock loss in western [[guzman-psilocybin-mushrooms-north-america]]. Native Delphinium species pose a similar risk.
 
 Gardeners should wear gloves when handling the foliage, as the alkaloids can cause skin irritation in sensitive individuals. Contact with sap followed by eye rubbing has caused corneal irritation.

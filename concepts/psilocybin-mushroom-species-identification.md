@@ -9,7 +9,7 @@ tags:
   - field-guide
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ["raw/papers/field-guide-to-the-psilocybin-mushroom.md"]
 type: concept
 ---
 

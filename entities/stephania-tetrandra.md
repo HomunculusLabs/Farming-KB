@@ -49,7 +49,7 @@ and trees in forest understory.
 
 **Root:** The medicinal organ — a large tuberous root reaching 30 cm length
 and 10 cm diameter. Cross-section shows a distinctive pale yellow-white
-xylem ring pattern.
+[[xylem]] ring pattern.
 
 **Leaves:** Peltate (petiole attached to blade interior), broadly ovate to
 reniform, 4–10 × 4–9 cm, with 5–9 palmate veins radiating from the point

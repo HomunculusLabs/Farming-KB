@@ -4,7 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, beginner, education, reference, homestead-crafts]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
+  - "raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md"
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  - "raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"
+  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 ---
 
 # Homestead Education Resources

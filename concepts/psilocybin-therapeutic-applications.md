@@ -101,5 +101,5 @@ This model emphasizes **set and setting** -- the psychological preparation and t
 
 - [[psilocybin-psychological-mechanisms]] for the neuroscience
 - [[psychedelic-integration-practices]] for post-session integration
-- [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
+- [[psychedelic-mushroom-set-and-setting]] for the [[set-and-setting-framework]]
 - [[psychedelic-harm-reduction]] for safety considerations

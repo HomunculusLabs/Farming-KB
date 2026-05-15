@@ -14,7 +14,7 @@ sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Thomson, J.W. (1984). "American Arctic Lichens: The Macrolichens." Columbia University Press.
   - Nimis, P.L. (2016). "The Lichens of Italy: A Second Annotated Catalogue." EUT Edizioni.
-  - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." 2nd ed. Oregon State University Press.
+  - McCune, B. & Geiser, L. (2009). "Macrolichens of the [[psilocybin-north-america-pacific-northwest]]." 2nd ed. Oregon State University Press.
 ---
 
 ## Overview
@@ -41,7 +41,7 @@ The *Nostoc* cyanobacterial partner of *D. arctica* enables [[mycelium-running-m
 
 The species' role in nitrogen enrichment of tundra soils has indirect cultural significance through its support of the caribou and reindeer herds that Arctic indigenous communities depend upon. Healthy lichen communities contribute to the productivity of grazing ecosystems.
 
-In scientific culture, *D. arctica* has served as a model organism for studying cyanolichen symbiosis in extreme environments. Research on its nitrogen fixation rates has contributed to understanding of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in polar ecosystems.
+In scientific culture, *D. arctica* has served as a model organism for studying cyanolichen symbiosis [[fungal-biodiversity-in-extreme-environments]]. Research on its nitrogen fixation rates has contributed to understanding of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in polar ecosystems.
 
 ## Similar Species
 
@@ -49,7 +49,7 @@ In scientific culture, *D. arctica* has served as a model organism for studying 
 
 Terricolous *Cladonia* species, particularly *C. rangiferina* and *C. arbuscula*, can appear superficially similar in tundra habitats but are readily distinguished by their podetia-bearing growth form and green-algal photobionts.
 
-*Cetraria aculeata* occupies similar Arctic terricolous habitats but has a distinctly flattened, more branched thallus with spiny margins and contains different lichen acids (fumarprotocetraric acid rather than pannarin).
+*[[cetraria-aculeata]]* occupies similar Arctic terricolous habitats but has a distinctly flattened, more branched thallus with spiny margins and contains different lichen acids (fumarprotocetraric acid rather than pannarin).
 
 ## Conservation Status
 
@@ -61,7 +61,7 @@ The species is protected in several European countries within its alpine range. 
 
 ## Reproduction and Dispersal
 
-*Dactylina arctica* relies primarily on vegetative propagation through thallus fragmentation. Fragments broken by wind, frost heaving, or animal trampling can establish on new substrates when conditions of moisture and light are favorable.
+*Dactylina arctica* relies primarily on [[hamilton-vegetative-propagation]] through thallus fragmentation. Fragments broken by wind, frost heaving, or animal trampling can establish on new substrates when conditions of moisture and light are favorable.
 
 Apothecia are extremely rare, and the species does not produce soredia or isidia. This limited dispersal capacity explains its patchy distribution within suitable habitats and its slow colonization of new terrain.
 
@@ -89,7 +89,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Dactylina Arctica finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -118,7 +118,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 dactylina arctica and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

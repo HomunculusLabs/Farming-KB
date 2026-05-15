@@ -58,7 +58,7 @@ Conklin calculated that approximately 1,000 years of collective labor created th
 Harold Conklin's work is foundational for understanding how traditional agricultural systems achieve sustainability over millennia. For permaculture practitioners, his research provides critical evidence and design principles:
 
 1. **Evidence of agricultural permanence**: The Ifugao terraces prove that 3,000+ year continuous agricultural sustainability is achievable without synthetic inputs, external energy, or centralized governance
-2. **Self-governance models for community land management**: Communities can manage shared water infrastructure effectively without centralized authority — a key principle for ecovillage and permaculture community design
+2. **Self-governance models for community land management**: Communities can manage shared water infrastructure effectively without centralized authority — a key principle for ecovillage and [[permaculture-community-design]]
 3. **Design intelligence through indigenous knowledge**: Ifugao classification systems map microenvironments with precision that rivals modern GIS, demonstrating the irreplaceable value of site-specific knowledge accumulation over generations
 4. **Labor efficiency benchmarks**: Food self-sufficiency requires approximately 80 days of labor per person per year — a realistic and achievable target for permaculture homestead design
 

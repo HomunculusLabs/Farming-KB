@@ -13,7 +13,7 @@ sources:
   - Pascual, B. et al. (2007). "Psidium cattleianum Sabine." In: "Fruits and Nuts." Springer.
   - Lorence, D.H. & Sussman, R.W. (1986). "Exotic Species Invasion into Tahiti's Native Forests." Biotropica 18(4): 340-342.
   - Wilson, K.A. (1994). "Strawberry Guava — A Weed of Hawaiian Forests." Weed Technology 8(4): 964-966.
-  - Vasconcelos, L. et al. (2019). "Chemical Composition and Antioxidant Activity of Psidium cattleianum Fruit." Food Chemistry 274: 165-171.
+  - Vasconcelos, L. et al. (2019). "[[chemical-composition-of-hallucinogens]] and Antioxidant Activity of Psidium cattleianum Fruit." Food Chemistry 274: 165-171.
   - GBIF Secretariat (2023). "Psidium cattleianum Sabine." GBIF Backbone Taxonomy.
 ---
 
@@ -58,7 +58,7 @@ The species is hardier than common guava, tolerating temperatures as low as -4°
 ## Overview
 
 Psidium Cattleianum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -79,7 +79,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Psidium Cattleianum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -87,13 +87,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for psidium cattleianum. Climate adaptation
+opportunities for psidium cattleianum. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -108,7 +108,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 psidium cattleianum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

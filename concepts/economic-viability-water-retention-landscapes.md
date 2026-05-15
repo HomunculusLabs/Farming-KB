@@ -24,11 +24,11 @@ Holzer's claim is counterintuitive: water retention landscapes, which allocate s
 
 ### Spanish and Portuguese Projects
 
-"The projects in Spain and Portugal yield more vegetables from the terraced banks than the whole properties used to before conversion, with less work and at lower costs." The terraced banks of the water features are themselves productive growing areas, and the microclimate they create extends the growing season and increases yields on surrounding land.
+"The projects in Spain and Portugal yield more vegetables from the terraced banks than the whole properties used to before conversion, with less work and at lower costs." The terraced banks of the water features are themselves productive growing areas, and the microclimate they create extends [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and increases yields on surrounding land.
 
 ### Reduced Costs
 
-"A water retention space ensures economic success as it increases the fertility of the whole area." By eliminating the need for irrigation, chemical fertilizers, and pesticides, water retention landscapes dramatically reduce input costs. The water itself provides fertility through the biological activity it supports.
+"A water retention space ensures economic success as it increases the fertility of the whole area." By eliminating the need for irrigation, [[cannabis-chemical-fertilizers]], and pesticides, water retention landscapes dramatically reduce input costs. The water itself provides fertility through the biological activity it supports.
 
 ### Aquatic Production
 
@@ -46,7 +46,7 @@ The recreational value of water landscapes creates additional revenue streams th
 
 "I have no problem asking for an admission fee from these people. Nature conservation combined with earning money might inspire other people to do the same, which is good for nature. People will pay money for the creation of these spaces."
 
-Holzer reframes nature conservation as a business opportunity rather than a cost. If ecological restoration can generate revenue through tourism, recreation, and education, it becomes self-sustaining rather than dependent on grants and subsidies.
+Holzer reframes nature conservation as a business opportunity rather than a cost. If [[mycorrhizal-fungi-ecological-restoration]] can generate revenue through tourism, recreation, and education, it becomes self-sustaining rather than dependent on grants and subsidies.
 
 ### Unique Nature Experience
 
@@ -54,7 +54,7 @@ Holzer reframes nature conservation as a business opportunity rather than a cost
 
 ### Local Produce Sales
 
-"On top of that, it is also possible to sell the local produce to these visitors." The integration of agricultural production with tourism creates synergies: visitors enjoy the landscape and purchase the food it produces, creating a local food economy.
+"On top of that, it is also possible to sell the local produce to these visitors." The integration of [[fukuoka-agricultural-production-net-energy-deduction]] with tourism creates synergies: visitors enjoy the landscape and purchase the food it produces, creating a local food economy.
 
 ## Water Supply
 
@@ -74,13 +74,13 @@ Holzer describes his technical innovation for dam outlet pipes: "At the lowest p
 
 ### Natural Waterproofing
 
-"To make the connection watertight I shovel some sawdust or horse manure around the pipes. The fibrous particles get sucked into the gaps." This technique—using natural organic materials to seal pipe connections—exemplifies Holzer's approach of working with natural materials rather than relying on industrial products.
+"To make the connection watertight I shovel some sawdust or horse manure around the pipes. The fibrous particles get sucked into the gaps." This technique—using natural organic materials to seal pipe connections—exemplifies Holzer's approach of working [[building-with-natural-materials]] rather than relying on industrial products.
 
 ## Independence from Subsidies
 
 ### Self-Sustaining Systems
 
-Holzer explicitly addresses the concern that ecological agriculture requires subsidies: the economic benefits of water retention landscapes—higher productivity, lower input costs, tourism revenue, and water supply—make them financially viable without external support.
+Holzer explicitly addresses the concern that ecological agriculture requires subsidies: the [[knf-economic-benefits]] of water retention landscapes—higher productivity, lower input costs, tourism revenue, and water supply—make them financially viable without external support.
 
 ### Knowledge as the Key
 

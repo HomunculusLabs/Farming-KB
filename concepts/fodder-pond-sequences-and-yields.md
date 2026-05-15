@@ -120,7 +120,7 @@ The implication for [[permaculture-design]] is clear: well-designed extensive po
 
 ## Key Design Principles
 
-1. **Design pond sequences** with [[keystone-species-and-trophic-cascades]]—lowest organisms upstream, predators downstream
+1. **Design pond sequences** with [[keystone-species-fungal]]—lowest organisms upstream, predators downstream
 2. **Integrate ponds with agriculture** for mutual benefit—pond water fertilizes crops, crop waste feeds fish
 3. **Maximize shallow areas** (up to 50%) for forage production rather than prioritizing deep water
 4. **Harvest at multiple levels**—ducks, snails, shrimp, taro, and various fish species from a single system

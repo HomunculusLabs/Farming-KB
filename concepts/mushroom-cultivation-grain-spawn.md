@@ -9,7 +9,7 @@ sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 
 # Mushroom Cultivation - Grain Spawn
 
-Grain spawn is the primary inoculum used in mushroom cultivation, consisting of cereal grain fully colonized by mushroom mycelium. Each individual kernel becomes a point from which mycelium can spread, making grain spawn the most efficient medium for expanding mycelial mass.
+Grain spawn is the primary inoculum used [[contamination-prevention-in-mushroom-cultivation]], consisting of cereal grain fully colonized by mushroom mycelium. Each individual kernel becomes a point from which mycelium can spread, making grain spawn the most efficient medium for expanding mycelial mass.
 
 ## History
 
@@ -77,7 +77,7 @@ Generational expansion: 1 petri dish can inoculate 10 G-1 jars, which can inocul
 
 ## Overview
 
-Mushroom Cultivation Grain Spawn represents an important element within sustainable
+Mushroom [[gottlieb-psilocybin-cultivation-grain-spawn-production]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mushroom Cultivation Grain Spawn finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -113,7 +113,7 @@ Integration with complementary elements enhances system function.
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for mushroom cultivation grain spawn. Climate adaptation
+opportunities [[grass-seed-substrate-for-mushroom-cultivation]] grain spawn. Climate adaptation
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mushroom cultivation grain spawn and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context
@@ -140,7 +140,7 @@ current understanding and implementation strategies.
 
 ## Integration Strategies
 
-Successful integration of mushroom cultivation grain spawn into broader
+Successful integration [[historical-development-of-mushroom-cultivation]] grain spawn into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.

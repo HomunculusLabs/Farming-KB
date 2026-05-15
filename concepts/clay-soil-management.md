@@ -1,5 +1,5 @@
 ---
-title: Clay Soil Management
+title: [[clay-soil-management-solomon]]
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -10,7 +10,7 @@ Clay soils present some of the greatest challenges for vegetable gardeners. They
 
 ## Characteristics of Clay Soils
 
-Clay soils are the heaviest, most airless of all soil types. They have some agricultural uses — orchards and permanent pastures can do well on clay, provided it drains — but no sensible farmer would willingly use [[clay-soil]] for any crop requiring a prepared seedbed, which is exactly what vegetable gardening demands.
+Clay soils are the heaviest, most airless of all soil types. They have some agricultural uses — orchards and permanent pastures can do well on clay, provided it drains — but no sensible farmer would willingly use [[clay-soil]] for any crop requiring a prepared seedbed, which is exactly what [[dryland-vegetable-gardening]] demands.
 
 ### Working Difficulties
 
@@ -42,7 +42,7 @@ Many garden magazines enthusiastically recommend "fixing" clay by tilling in mas
 - **Expense:** The quantities needed are enormous — four inches (7.5–10 cm) the first year, then 1½ inches (4 cm) annually to maintain the effect.
 - **Rapid decomposition:** The organic matter breaks down quickly and requires constant replacement.
 - **Labor:** Hauling and spreading that volume of compost is a significant ongoing burden.
-- **Nutritional harm:** Excessive organic matter unbalances soil minerals, reducing the nutritional quality of the vegetables grown.
+- **Nutritional harm:** Excessive organic matter unbalances soil minerals, reducing the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of the vegetables grown.
 - **Diminishing returns:** Even after all that effort, remediated clay will **never** grow vegetables as well as a naturally light soil.
 
 ## Practical Remedies
@@ -71,7 +71,7 @@ The most effective long-term solution is to **import a thick layer of loam topso
 ## Key Takeaways
 
 1. **Clay is the most challenging soil type** for vegetable gardening — accept this reality.
-2. **The ready-to-till test is essential** — working clay at the wrong moisture ruins soil structure.
+2. **The ready-to-till test is essential** — working clay at the wrong moisture [[fukuoka-plowing-ruins-soil-structure-mechanism]].
 3. **More organic matter is not the answer** — it's expensive, labor-intensive, and can harm nutritional quality.
 4. **Importing topsoil is the best investment** for long-term clay management.
 5. **Clay holds nutrients tightly** — increase fertilizer rates by ~50% initially.
@@ -79,7 +79,7 @@ The most effective long-term solution is to **import a thick layer of loam topso
 
 ## Soil Health Context
 Understanding soil structure and management is essential for
-sustainable agriculture. Healthy soil provides the foundation
-for plant growth, water retention, and nutrient cycling.
+[[mushroom-cultivation-for-sustainable-agriculture]]. Healthy soil provides the foundation
+for plant growth, water retention, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 Proper soil management practices improve long-term productivity
 and reduce the need for external inputs.

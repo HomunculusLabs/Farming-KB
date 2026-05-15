@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Vs Scientific Agriculture
+title: Natural Farming [[natural-farming-energy-efficiency-vs-scientific-agriculture]]
 created: 2026-04-28
 tags: [natural-farming, scientific-agriculture, philosophy, masanobu-fukuoka, ecology, green-philosophy]
 date: 2026-04-28
@@ -72,7 +72,7 @@ growing urgency of environmental and social challenges. Staying
 ## Overview
 
 Natural Farming Vs Scientific Agriculture represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Natural Farming Vs Scientific Agriculture finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,7 +107,7 @@ Integration with complementary elements enhances system function.
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for natural farming vs scientific agriculture. Climate adaptation
+opportunities [[query-how-do-clay-seed-balls-work-for-natural-farming]] vs scientific agriculture. Climate adaptation
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 natural farming vs scientific agriculture and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context
@@ -134,7 +134,7 @@ current understanding and implementation strategies.
 
 ## Integration Strategies
 
-Successful integration of natural farming vs scientific agriculture into broader
+Successful integration [[four-principles-of-natural-farming]] vs scientific agriculture into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.

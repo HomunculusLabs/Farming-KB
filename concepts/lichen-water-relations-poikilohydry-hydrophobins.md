@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Lichens dominate approximately 10% of terrestrial ecosystems — primarily polar, alpine, and desert regions where higher plants are at their physiological limits. Their remarkable environmental stress tolerance derives from **poikilohydric water relations** (equilibrating body water content with atmospheric humidity) and sophisticated structural adaptations that manage water movement within the thallus. The fungal partner (mycobiont), which typically constitutes >80% of thallus biomass, constructs elaborate water-channeling structures using **hydrophobins** and polyphenolic secondary metabolites.
+Lichens dominate approximately 10% of terrestrial ecosystems — primarily polar, alpine, and desert regions where higher plants are at their physiological limits. Their remarkable environmental stress tolerance derives from **poikilohydric water relations** (equilibrating body water content with atmospheric humidity) and sophisticated structural adaptations that manage water movement within the thallus. The fungal partner (mycobiont), which typically constitutes >80% of thallus biomass, constructs elaborate water-channeling structures using **hydrophobins** and polyphenolic [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Lichen Thallus Architecture
 
@@ -43,7 +43,7 @@ A semicrystalline **rodlet layer** on wall surfaces of medullary hyphae provides
 
 ### Developmental Regulation
 
-Hydrophobin gene expression is **developmentally regulated** in lichenized asco- and basidiomycetes, as in many non-lichenized fungi. Different hydrophobins are expressed in different thallus regions at different developmental stages.
+Hydrophobin gene expression is **developmentally regulated** in lichenized asco- and basidiomycetes, as in many non-lichenized fungi. Different hydrophobins are expressed in different thallus regions at different [[psilocybe-cubensis-developmental-stages]].
 
 ### Enhancement by Secondary Metabolites
 
@@ -69,14 +69,14 @@ Lichen-forming fungi and their photobionts are **poikilohydric** — their water
 
 ### Desiccation Tolerance
 
-- Desiccated thalli of *Xanthoria parietina* grew normally after cryoimmobilization in sub-cooled liquid nitrogen (c. −200°C), freeze-fracturing, and examination under high vacuum.
+- Desiccated thalli of *[[xanthoria-parietina]]* grew normally after cryoimmobilization in sub-cooled liquid nitrogen (c. −200°C), freeze-fracturing, and examination under high vacuum.
 - **Hydrated thalli did not survive** this treatment — desiccation is essential for stress tolerance.
 - Desiccated cells survive temperature extremes in a state of dormancy.
 - Most lichen-forming fungi die under **continuously moist conditions** or when prevented from drying at elevated temperatures.
 
 ### Consequences for Distribution
 
-- Abundant epiphytic lichen growth in boreal to temperate climates.
+- Abundant epiphytic lichen growth in boreal to [[fukuoka-natural-farming-temperate-climates]].
 - **Bryophytes** dominate epiphytic communities in temperate rainforests.
 - **Tracheophytes** (ferns, bromeliads, orchids) dominate in tropical rainforests.
 - Biological soil crust communities in arid ecosystems are ecologically important stabilizers, reducing wind erosion.
@@ -91,7 +91,7 @@ Lichen-forming fungi and their photobionts are **poikilohydric** — their water
 
 ### Trebouxia-Dominated Chlorolichens
 
-*Trebouxia* (Trebouxiophyceae) is the photobiont for >50% of lichen-forming ascomycetes. Drought-stressed chlorolichens with Trebouxia can **rehydrate and re-establish partial metabolic activity with water vapour** alone, giving them a competitive advantage in arid ecosystems.
+*Trebouxia* (Trebouxiophyceae) is the photobiont for >50% of lichen-forming ascomycetes. Drought-stressed chlorolichens with Trebouxia can **rehydrate and re-establish partial [[arbuscule-isolation-metabolic-activity-assays]] with water vapour** alone, giving them a competitive advantage in arid ecosystems.
 
 ### Cyanolichens
 
@@ -101,7 +101,7 @@ Lichen-forming fungi and their photobionts are **poikilohydric** — their water
 
 ### Cephalodiate Lichens (Triple Symbiosis)
 
-~4% of lichens have both a green algal partner (fixed carbon) and a diazotrophic cyanobacterial partner (fixed nitrogen). The fungal partner creates **microaerobic conditions** around the cyanobacterial colony, resulting in increased heterocyst frequencies and enhanced nitrogen fixation compared with the free-living state.
+~4% of lichens have both a green algal partner (fixed carbon) and a diazotrophic cyanobacterial partner (fixed nitrogen). The fungal partner creates **microaerobic conditions** around the cyanobacterial colony, resulting in increased heterocyst frequencies and enhanced [[biological-nitrogen-fixation-agriculture]] compared with the free-living state.
 
 ## Polyphenolic Secondary Metabolites
 

@@ -14,8 +14,8 @@ tags:
 
 ## Description
 
-Acremonium lolii (now reclassified as Epichloe festucae var. lolii) is a fungal
-endophyte intimately associated with perennial ryegrass (Lolium perenne). This
+Acremonium lolii (now reclassified as [[epichloe-festucae]] var. lolii) is a fungal
+endophyte intimately associated with perennial ryegrass ([[lolium-perenne]]). This
 fungus is inseparable from its host in nature, having co-evolved to the point
 where the two partners function as a single ecological unit. A. lolii produces
 the neurotoxic alkaloid lolitrem B, which causes ryegrass staggers in grazing
@@ -89,3 +89,8 @@ livestock, along with peramine, which deters insect herbivores.
   mind. Oikos, 68, 379-383.
 - Richardson, M. D. (2000). Alkaloids of endophyte-infected grasses.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+## See also
+
+- [[neotyphodium]]
+- [[epichloe]]
+- [[clavicipitales]]

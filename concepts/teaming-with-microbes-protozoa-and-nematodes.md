@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags: [soil-biology, protozoa, nematodes, mineralization]
-sources: []
+sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
 # Protozoa and Nematodes — Nutrient Mineralizers

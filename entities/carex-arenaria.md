@@ -21,7 +21,7 @@ sources:
 
 **Carex arenaria**, commonly known as sand sedge, is a rhizomatous perennial sedge of the family Cyperaceae. It is native to coastal dunes and sandy soils across Europe and western Asia.
 
-The species is a vigorous coloniser of unstable sand, forming extensive mats through its creeping rhizome system. It plays a major role in dune stabilisation and is considered a key framework species in coastal plant communities.
+The species is a vigorous coloniser of unstable sand, forming extensive mats through its creeping rhizome system. It plays a major role in [[desert-dune-stabilisation-and-forestry]] is considered a key framework species in [[coastal-plant-communities-permaculture]].
 
 Sand sedge is a distinctive component of strandline and foredune vegetation across its range. It can form near-monocultures spanning hundreds of square metres where conditions are favourable.
 
@@ -72,7 +72,7 @@ In [[hamilton-vegetative-propagation]] the preferred method for large-scale plan
 ## Overview
 
 Carex Arenaria represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for carex arenaria. Climate adaptation
+opportunities for carex arenaria. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 carex arenaria and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -8,9 +8,9 @@ sources:
   - 'Ravindran, P.N., et al. (2007). Turmeric: The Genus Curcuma. CRC Press.'
   - 'Ravindran, P.N. & Babu, K.N. (2005). Ginger: The Genus Zingiber. CRC Press.'
   - 'USDA Natural Resources Conservation Service — Plant Profile: Curcuma longa, zingiber-officinale'
-  - 'Kumar, A., et al. (2017). "A review on chemical composition ginseng cultivation and medicinal properties of turmeric." Int. J. Pharm. Sci. Res., 8(8), 3149–3156.'
+  - 'Kumar, A., et al. (2017). "A review on chemical composition ginseng [[calendula-cultivation-and-medicinal-uses]] properties of turmeric." Int. J. Pharm. Sci. Res., 8(8), 3149–3156.'
   - 'Mao, Q.Q., et al. (2019). "Ginger and its bioactive constituents: a review of their potential as chemopreventive and therapeutic agents." Phytotherapy Research, 33(8), 1967–1981.'
-  - 'FAO (2023). FAOSTAT — Crops and livestock products: ginger and turmeric psilocybe-cubensis-miniculture-production-data-and-flush-longevity.'
+  - 'FAO (2023). FAOSTAT — Crops and livestock products: [[query-how-do-i-grow-and-use-ginger-and-turmeric]] psilocybe-cubensis-miniculture-production-data-and-flush-longevity.'
 type: comparison
 ---
 
@@ -80,8 +80,8 @@ expertise and contributing to the ongoing evolution of this field.
 
 ## Overview
 
-Comparison Turmeric Vs Ginger represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[comparison-turmeric-vs-ashwagandha]] Ginger represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -110,7 +110,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 comparison turmeric vs ginger and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

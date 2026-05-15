@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation for Sustainable Agriculture
+title: [[accessible-mushroom-cultivation-for-disabilities]] Sustainable Agriculture
 source: fungi-magazine-fungi-and-sustainability.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Mushroom cultivation represents a powerful intersection of sustainable agriculture, waste recycling, poverty alleviation, and nutrition. The ability of fungi — particularly cultivated mushroom species — to transform agricultural and industrial waste into nutritious, marketable food products makes them uniquely valuable in the pursuit of sustainability. Organizations worldwide, including the United Nations and [[zero-emissions-research-and-initiatives]] (ZERI), recognize mushroom cultivation as a key strategy for achieving multiple sustainability goals simultaneously.
+Mushroom cultivation represents a powerful intersection of sustainable agriculture, waste recycling, poverty alleviation, and nutrition. The ability of fungi — particularly [[classification-of-cultivated-mushroom-species]] — to transform agricultural and industrial waste into nutritious, marketable food products makes them uniquely valuable in the pursuit of sustainability. Organizations worldwide, including the United Nations and [[zero-emissions-research-and-initiatives]] (ZERI), recognize mushroom cultivation as a key strategy for achieving multiple sustainability goals simultaneously.
 
 ## Why Promote Mushroom Cultivation?
 
@@ -20,7 +20,7 @@ Several compelling reasons make mushroom cultivation an attractive option for su
 - Global demand for "gourmet mushrooms" is steadily increasing
 
 ### Low-Tech Accessibility
-- Mushroom growing houses can be constructed simply and at low cost
+- [[mushroom-growing-houses]] can be constructed simply and at low cost
 - Methods require minimal technology
 - Small plots of land are sufficient
 - A mushroom cultivation business can be managed by a single family or small community
@@ -39,7 +39,7 @@ Several compelling reasons make mushroom cultivation an attractive option for su
 
 ## The Waste Transformation Alchemy
 
-The most significant virtue of mushroom cultivation is the ability of mushrooms to transform agricultural and other organic waste into nutritious, marketable products. This waste-to-food transformation operates on multiple levels.
+The most significant virtue [[historical-development-of-mushroom-cultivation]] is the ability of mushrooms to transform agricultural and other organic waste into nutritious, marketable products. This waste-to-food transformation operates on multiple levels.
 
 ### Substrates for Oyster Mushrooms
 Oyster mushrooms are remarkably versatile in their substrate requirements and can grow on:
@@ -113,7 +113,7 @@ Each step creates value from what would otherwise be waste.
 
 ## Coffee Waste Mushroom Cultivation (Colombia)
 
-In Chinchina, Colombia, a coffee-growing region populated mostly by low-income peasants with precarious livelihoods due to volatile coffee prices, a ZERI-affiliated project led by Carmenza Jaramillo Lopez demonstrated the potential:
+In Chinchina, Colombia, a coffee-growing region populated mostly by low-income peasants with precarious livelihoods due to volatile coffee prices, a ZERI-affiliated project led by [[carmenza-jaramillo-lopez]] demonstrated the potential:
 
 - Coffee beans represent only a small fraction of the total agricultural biomass
 - Traditionally, massive quantities of coffee waste (pulp, hulls, parchment) were discarded
@@ -128,7 +128,7 @@ This model is directly transferable to other coffee-growing regions worldwide.
 While mushroom cultivation offers significant benefits, several challenges exist:
 
 - **Contamination risk**: Sterilization of substrate is critical; contamination by competing molds or bacteria can ruin crops
-- **Climate sensitivity**: Temperature and humidity must be carefully controlled
+- **Climate sensitivity**: [[greg-green-temperature-and-humidity-control]] must be carefully controlled
 - **Market access**: Farmers need connections to markets for gourmet mushrooms
 - **Knowledge transfer**: Successful cultivation requires training in sterilization, inoculation, and fruiting techniques
 - **Species selection**: Choosing appropriate mushroom species for available substrates and local conditions is essential

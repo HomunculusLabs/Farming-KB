@@ -35,7 +35,7 @@ This compendium consolidates the species recommended for desert and arid-zone se
 | Species | Uses |
 |---------|------|
 | Black Locust ([[robinia-pseudoacacia]]) | Durable timber; poultry seed; spiny (toxic to stock—advantageous); fire-resistant |
-| Honey Locust (Gleditsia triacanthos) | Timber; edible beans; pole timbers |
+| Honey Locust ([[gleditsia-triacanthos]]) | Timber; edible beans; pole timbers |
 | Olive (Olea europaea) | Oil; shade; poultry forage; cuttings propagate easily |
 | Karreeboom (Rhus lancea) | Fodder; small edible berries; frost and termite resistant |
 | Jujube (Zizyphus jujuba) | Est.; hedge potential |
@@ -72,7 +72,7 @@ Kudzu, hops, kiwi fruit and other vine crops help with shade and forage.
 - **Chenopodium rhadinostachyum**
 
 ### Other Native Foods
-- **Portulaca oleracea** (Wakati)
+- **[[portulaca-oleracea]]** (Wakati)
 - **Owenia reticulata** (Emu berry / Marloo / Gnarloopooj)
 - **Acacia aneura** (Mulga / Wata / Kuraku)
 - **A. kempeana** (also for witchetty grubs)
@@ -111,7 +111,7 @@ Parsley, fennel, celery
 Sweet corn, tomato, melons, borage, lettuce, chard, spinach, sprouts, cabbage, peas, beans
 
 ### Tubers and Roots
-Potato, sweet potato, turnip, carrot, onion, cassava, jerusalem artichoke, oca, native wapiti, yala
+Potato, sweet potato, turnip, carrot, onion, cassava, [[comparison-jerusalem-artichoke-vs-potato]], oca, native wapiti, yala
 
 ## Legumes for Interplanting
 
@@ -126,12 +126,12 @@ Potato, sweet potato, turnip, carrot, onion, cassava, jerusalem artichoke, oca, 
 | Mesquites (Prosopis spp.) | Deep-rooted nutrient pumps |
 
 ## Hedgerow Species
-- Coprosma repens: Fire-resistant; poultry/stock fodder
+- [[coprosma-repens-entity]]: Fire-resistant; poultry/stock fodder
 - Bamboo spp.: Structural needs; larger varieties needed
 - Cacti, Wormwood, Jujube: Formidable barriers
 
 ## Shade and Shelter Only
-- White Cedar (Melia azedarach): Use with care—fruits poisonous to pigs and poultry
+- White Cedar ([[melia-azedarach-entity]]): Use with care—fruits poisonous to pigs and poultry
 - Jacaranda (J. mimosifolia)
 - Tamarind (Tamarindus indicus): Marginal food use
 - Tamarisk (Tamarix articulata): Also for mulch
@@ -145,5 +145,5 @@ Potato, sweet potato, turnip, carrot, onion, cassava, jerusalem artichoke, oca, 
 - Lotus
 - Sweet rush: shoots and bulbs
 - Freshwater mussels (water filters, food, shell grit for poultry)
-- Goldfish and grass carp (algae and mosquito control)
+- Goldfish and grass carp (algae and [[backswimmer-mosquito-control-mollison]])
 - Native snails (grit for ducks)

@@ -1,6 +1,6 @@
 ---
-title: Winter Harvesting Logistics and Workflow
-source: The Winter Harvest Handbook, Eliot Coleman, Chapter 15
+title: [[coleman-winter-harvesting-techniques]] Logistics and Workflow
+source: The [[winter-harvest-handbook-guide]], [[eliot-coleman-deep-organic-farming-and-winter-harvest]], Chapter 15
 tags:
   - winter-harvest
   - harvesting
@@ -23,7 +23,7 @@ inviolable, adjusting other farm tasks around it rather than the reverse.
 
 ## Waiting for the Thaw and the Harvest Window
 
-Winter harvesting cannot begin until the greenhouse temperature rises above
+Winter harvesting cannot begin until the [[coleman-cool-greenhouse-vs-cold-greenhouse-temperature-comparison]] rises above
 32°F. Harvesting frozen plants causes cellular damage as ice crystals rupture
 cell walls, producing mushy unmarketable tissue upon thawing. Coleman waits
 for the greenhouse to thaw naturally, meaning harvest start time shifts with
@@ -42,7 +42,7 @@ A counterintuitive benefit of winter harvesting from minimally heated
 greenhouses is the quality advantage that cool temperatures confer. Vegetables
 cut at 35-40°F are already at ideal storage temperature when they leave the
 greenhouse, eliminating the need for expensive post-harvest cooling equipment.
-Cool harvest temperatures also preserve texture and flavor: winter greenhouse
+Cool harvest temperatures also preserve texture and flavor: [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]
 greens cut at near-freezing temperatures are crisp, sweet, and exceptionally
 long-lasting. Customers consistently report that winter-harvested greens taste
 better and keep longer than warm-season counterparts.
@@ -110,7 +110,7 @@ covers, and a fourth begins washing as soon as the first greens arrive.
 ## Mechanized Harvesting: The Quality vs. Speed Balance
 
 Coleman has explored mechanized options including the Greens Harvester from
-Johnny's Selected Seeds, a hand-pushed device using a reciprocating knife to
+Johnny's [[johnnys-selected-seeds]], a hand-pushed device using a reciprocating knife to
 cut salad greens at adjustable heights. He has also followed development of
 battery-powered harvesters. However, machine-cut greens are not always as
 clean or precise as hand-cut greens. For premium markets paying top dollar for

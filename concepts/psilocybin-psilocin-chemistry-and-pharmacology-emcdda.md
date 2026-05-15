@@ -76,7 +76,7 @@ The greatest value from this topic often comes through integration
 
 ## Overview
 
-Psilocybin Psilocin Chemistry And Pharmacology Emcdda represents an important element within sustainable
+[[psilocybin-psilocin-chemistry-and-pharmacology]] Emcdda represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

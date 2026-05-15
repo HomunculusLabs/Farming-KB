@@ -65,7 +65,7 @@ Peniophora gigantea (now reclassified as **Phlebiopsis gigantea**) is a saprotro
 - Its ecological niche overlap with *H. annosum* is what makes it effective as a biocontrol agent
 
 ### Cultivation Considerations
-- Can be cultured on malt extract agar and various wood-based media
+- Can be cultured on [[malt-extract-agar]] and various wood-based media
 - Optimal growth temperature around 20-25°C
 - Requires wood substrate for fruiting body production
 - Mass production for biocontrol uses liquid fermentation to produce oidia inoculum
@@ -90,4 +90,9 @@ Peniophora gigantea (now reclassified as **Phlebiopsis gigantea**) is a saprotro
 - Mycoparasitism
 - Biological control of forest pathogens
 - Wood decay fungal succession
-- White rot fungi
+- [[white-rot-fungi]]
+## See also
+
+- [[amphinema-byssoides]]
+- [[fungal-plant-diseases]]
+- [[sclerophoma-pythiophila]]

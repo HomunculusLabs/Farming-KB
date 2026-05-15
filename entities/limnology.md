@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Limnology is the scientific study of inland waters — lakes, ponds, rivers, springs, streams, and wetlands — including their biological, physical, chemical, geological, and hydrological properties. Mollison references limnologists (those who study freshwater lakes and lake organisms) in a sardonic aside about how scientists inadvertently become the most important factor in the spread of lake organisms via their boats, boots, and nets. This observation illustrates a broader permaculture principle: that observers and designers are always participants in the systems they study.
+Limnology is the scientific study of inland waters — lakes, ponds, rivers, springs, streams, and wetlands — including their biological, physical, chemical, geological, and hydrological properties. Mollison references limnologists (those who study freshwater lakes and lake organisms) in a sardonic aside about how scientists inadvertently become the most important factor in the spread of lake organisms via their boats, boots, and nets. This observation illustrates a broader [[permaculture-principle-1-observe-interact]]: that observers and designers are always participants in the systems they study.
 
 ## Classification
 
@@ -20,7 +20,7 @@ Limnology is the scientific study of inland waters — lakes, ponds, rivers, spr
 ## Key Facts
 
 - Encompasses the study of both lentic (still water: lakes, ponds) and lotic (flowing water: rivers, streams) ecosystems.
-- Includes the study of aquatic fungi, including many species important in decomposition and nutrient cycling in freshwater systems.
+- Includes the study of aquatic fungi, including many species important in decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] in freshwater systems.
 - Aquatic fungi in the orders Saccharomycetales, Mucorales, and various Chytridiomycota play critical roles in breaking down leaf litter and woody debris in streams and lakes.
 - The field demonstrates how human activity (including scientific study itself) can inadvertently transport organisms between isolated water bodies.
 - Limnological principles of nutrient cycling, dissolved oxygen, and biological oxygen demand (BOD) are directly applicable to aquatic cultivation systems.
@@ -40,7 +40,7 @@ Mollison references limnologists in Chapter 2: "given enough limnologists (those
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies
-- Relates to fundamental principles of natural system design
+- Relates to fundamental [[four-principles-of-natural-farming]] system design
 - Has applications across multiple disciplines and contexts
 - Understanding this topic supports better environmental stewardship
 
@@ -63,7 +63,7 @@ Mollison references limnologists in Chapter 2: "given enough limnologists (those
 - Influenced by landscape-level patterns and processes
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
+- Applied in [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] sustainable land management
 - Used in conservation and ecological restoration projects
 - Informs decision-making in agricultural and horticultural systems
 - Supports development of regenerative practices
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Limnology finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 limnology and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

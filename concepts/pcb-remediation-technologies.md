@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [remediation, environment]
-sources: []
+sources:
+  - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 # PCB Remediation Technologies
 

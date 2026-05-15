@@ -1,7 +1,7 @@
 ---
-title: Echinacea Cultivation And Medicinal Uses
+title: Echinacea [[calendula-cultivation-and-medicinal-uses]] Uses
 subtitle: "A comprehensive guide to growing, harvesting, and using purple coneflower
-  as medicine, from Indigenous traditions to modern clinical research"
+  as medicine, from [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] to modern [[hofmann-lsd-clinical-research-early-studies]]"
 tags: [echinacea, medicinal-herbs, cultivation, immunology, herbal-medicine,
   ethnobotany, permaculture, native-plants]
 date: 2026-05-11
@@ -32,7 +32,7 @@ carries a distinct phytochemical fingerprint, yet all share the
 alkylamides and caffeic acid derivatives that make the genus
 pharmacologically valuable.
 
-What makes echinacea remarkable is the depth of its cultural history.
+What makes echinacea remarkable is the depth of its [[amanita-muscaria-cultural-history]].
 Plains Indigenous peoples — the Lakota, Cheyenne, Pawnee, Omaha, and
 Ponca among them — regarded echinacea as one of their most important
 medicinal plants long before European settlers arrived. The roots were
@@ -97,7 +97,7 @@ Among the Pawnee, echinacea root was considered one of the most
 important plants in their pharmacopoeia, used for both internal and
 external applications. The root was typically harvested in autumn when
 alkylamide concentrations peak, dried, and stored for year-round use.
-Preparation methods included chewing the fresh root, preparing decoctions
+[[amanita-muscaria-preparation-methods]] included chewing the fresh root, preparing decoctions
 by simmering the dried root, applying poultices of mashed root to
 wounds and burns, and inhaling smoke from the burning plant for
 respiratory complaints.
@@ -106,7 +106,7 @@ European settlers in the 1870s learned of echinacea from Indigenous
 peoples, and the herb quickly entered the practice of the Eclectic
 physicians — a school of American medicine that emphasized botanical
 remedies. By the 1890s, echinacea preparations were among the most
-widely prescribed medicines in the Eclectic materia medica. John Uri
+widely prescribed medicines in the Eclectic [[herbal-materia-medica]]. John Uri
 Lloyd, the leading Eclectic pharmacist, called echinacea "the most
 important of the indigenous remedies" and produced standardized
 tinctures that were shipped nationwide.

@@ -1,5 +1,5 @@
 ---
-title: Field Observation in Permaculture Design
+title: Field Observation [[ecological-succession-in-permaculture-design]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -16,7 +16,7 @@ A camera, a notebook, and a good memory for events are great aids to observation
 This approach begins with "I wonder why..." and maintains open curiosity before making any actual observation. It guards against preconceived notions that might filter out important information.
 
 ### Thematic Approach
-Here the observer focuses on a specific theme such as water flow, potential energy sources, or the conditions for natural regeneration. This focused observation yields deep understanding of particular site factors.
+Here the observer focuses on a specific theme such as water flow, potential energy sources, or the conditions for [[biodiversity-power-natural-regeneration]]. This focused observation yields deep understanding of particular site factors.
 
 ### Instrumental Approach
 The observer measures specific factors using equipment — temperature gradients, wind speed and direction, reflection from trees, soil moisture, light levels. This provides quantitative data to complement qualitative observations.
@@ -43,7 +43,7 @@ Test speculations through multiple methods:
 Review all evidence now in hand. Have patterns emerged? Is there a mode of operating? What other creatures or processes are connected? This synthesis phase is where understanding deepens.
 
 ### Stage 5: Application to Design
-How can all this information be used? What design strategies does it suggest? The mole, for instance, may be understood as a fine soil aerator and seed-bed provider to be encouraged — or the very opposite. Places where moles are beneficial can be identified, as well as places where they should be excluded. Methods of control or even culinary preparation may surface.
+How can all this information be used? What design strategies does it suggest? The mole, for instance, may be understood as a fine soil aerator and seed-bed provider to be encouraged — or the very opposite. Places where moles are beneficial can be identified, as well as places where they should be excluded. Methods of control or even [[duggar-mushroom-culinary-preparation-and-cooking]] may surface.
 
 ## The Interconnectedness of Natural Systems
 
@@ -68,7 +68,7 @@ Nature itself serves as the teacher through observation. The huge information st
 - Requires consideration of multiple interacting factors
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
+- Applied in [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] sustainable land management
 - Supports decision-making in agricultural and ecological contexts
 - Used in conservation and environmental restoration projects
 - Helps practitioners develop more resilient and productive systems
@@ -76,8 +76,8 @@ Nature itself serves as the teacher through observation. The huge information st
 ## Ecological Significance
 - Contributes to understanding of ecosystem dynamics and function
 - Supports biodiversity and enhances natural system resilience
-- Plays role in nutrient cycling and energy flow processes
-- Understanding improves capacity for sustainable resource management
+- Plays role in [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] energy flow processes
+- Understanding improves capacity for sustainable [[savory-holistic-resource-management-animal-impact]]
 
 ## Related Concepts
 - [[hemenway-garden-design-process-observation-and-visioning]]

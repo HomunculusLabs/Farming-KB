@@ -6,13 +6,13 @@ type: concept
 
 # Rototilling Limitations and Plow Pans
 
-Rototilling is one of the most common practices in vegetable gardening, yet it carries significant hidden drawbacks. While tillers make initial ground-breaking work easier, repeated use creates structural soil problems that can persist for decades. Understanding these limitations is critical for building deep, productive soil that supports healthy vegetable crops over the long term.
+Rototilling is one of the most common practices in [[dryland-vegetable-gardening]], yet it carries significant hidden drawbacks. While tillers make initial ground-breaking work easier, repeated use creates structural soil problems that can persist for decades. Understanding these limitations is critical for building deep, productive soil that supports healthy vegetable crops over the long term.
 
 ## The Illusion of Tilling Depth
 
 Walk-behind rototillers create a misleading impression of how deeply they work the soil. While the tines may appear to penetrate 8 inches during operation — throwing soil dramatically and looking impressively deep — the loosened soil settles back to an effective depth of only about **5 inches** once the machine has passed and the soil re-settles.
 
-This shallow working depth has important consequences for root development and moisture availability. Even large tractor-mounted rotary cultivators — far more powerful than garden walk-behind models — achieve a maximum effective depth of approximately 7 inches. For most garden vegetables, whose root systems benefit from 12 inches or more of loose, well-structured soil, this represents a serious limitation.
+This shallow working depth has important consequences for [[root-development-and-plant-competition]] moisture availability. Even large tractor-mounted rotary cultivators — far more powerful than garden walk-behind models — achieve a maximum effective depth of approximately 7 inches. For most [[companion-cultivation-of-mushrooms-with-garden-vegetables]], whose root systems benefit from 12 inches or more of loose, well-structured soil, this represents a serious limitation.
 
 The gap between what the tiller appears to accomplish and what it actually delivers is at the heart of many gardeners' frustration with crop performance. Plants that should thrive in deep, loose soil instead struggle in a thin layer of worked earth sitting atop compacted ground.
 
@@ -42,13 +42,13 @@ This is labor-intensive but necessary work that no tiller can perform on its own
 
 ## Capillarity and Moisture Movement
 
-Soil moisture moves upward through the earth via **capillary action** — the same physical principle that draws water up through a narrow tube. In tilled soil, this capillary movement is clearly visible as a practical phenomenon: footprints left in freshly tilled ground will darken over time as moisture rises from below to dampen the compressed surface where the foot pressed down.
+Soil moisture moves upward through the earth via **[[capillary-action-in-soils]]** — the same physical principle that draws water up through a narrow tube. In tilled soil, this capillary movement is clearly visible as a practical phenomenon: footprints left in freshly tilled ground will darken over time as moisture rises from below to dampen the compressed surface where the foot pressed down.
 
 This visible dampening is not surface moisture from dew or recent rain — it is water drawn upward from deeper soil layers through the network of tiny capillary channels in the soil. The phenomenon demonstrates that even after tilling, the soil maintains some capillary connectivity, at least within the tilled layer itself.
 
 Capillarity is what makes deep, well-structured soil so valuable for vegetable gardening. When the soil profile is continuous and uncompacted, moisture can travel upward from deeper reserves to feed surface-rooting crops during dry periods. This natural sub-irrigation effect reduces the need for frequent watering and helps plants survive between rains.
 
-A plow pan interrupts this capillary connection, effectively cutting off the tilled layer from the moisture reservoir below. Crops growing in shallow tilled soil above a plow pan are therefore far more dependent on frequent irrigation and rainfall, and are much more vulnerable to drought stress.
+A plow pan interrupts this capillary connection, effectively cutting off the tilled layer from the moisture reservoir below. Crops growing in shallow tilled soil above a plow pan are therefore far more dependent on frequent irrigation and rainfall, and are much more vulnerable to [[mycorrhizal-biodiversity-drought-stress-response]].
 
 ## The Case for Switching to Hand-Digging
 
@@ -56,7 +56,7 @@ A plow pan interrupts this capillary connection, effectively cutting off the til
 
 [[steve-solomon]] advocates using a [[rototiller]] for exactly one purpose: the **initial breaking of new ground**. The first tilling pass kills existing grass or sod and breaks up the top compacted layer. After that single pass, the tiller should be put away permanently and all subsequent soil work should be done by hand tools.
 
-The rationale is straightforward. After the first tilling eliminates the toughest surface vegetation and cracks the top layer, the remaining work — deep digging to a full foot, soil loosening, and seedbed preparation — can be accomplished with hand tools at comparable or even lesser effort than continued tilling, while producing dramatically better soil structure.
+The rationale is straightforward. After the first tilling eliminates the toughest surface vegetation and cracks the top layer, the remaining work — deep digging to a full foot, soil loosening, [[soil-tilth-and-seedbed-preparation]] — can be accomplished with hand tools at comparable or even lesser effort than continued tilling, while producing dramatically better soil structure.
 
 The tiller has done the hardest single job (killing the grass and breaking the surface), and everything after that is actually easier by hand. Continued tilling after this point is counterproductive — it deepens the plow pan, destroys soil aggregates, and achieves no additional depth.
 

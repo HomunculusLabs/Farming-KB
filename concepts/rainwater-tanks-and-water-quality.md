@@ -1,5 +1,5 @@
 ---
-title: Rainwater Tanks and Water Quality
+title: [[rainwater-tanks-and-storage-costs]] Water Quality
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -24,7 +24,7 @@ This discrepancy illustrates how cultural inertia and institutional preferences 
 
 ### Sizing Guidelines
 
-- Approximately **22,500 liters** (about 6,000 gallons) provides a family with all needed water for a year, including drinking, showers, cooking, and modest garden irrigation via trickle systems
+- Approximately **22,500 liters** (about 6,000 gallons) provides a family with all needed water for a year, including drinking, showers, cooking, and modest [[dryland-garden-irrigation-systems]] via trickle systems
 - Tank water is renewed by rainfall at any time of year
 - Every roof, whether domestic or industrial, would fill multiple tanks of this size
 
@@ -79,7 +79,7 @@ Taps or outlet pipes should be fitted **15–20 cm (6–8 inches) above the tank
 
 ### Water Hardness and Health
 
-A net or bag of **limestone, shell, or marble chips** suspended in the tank creates hard (alkaline) water through slow dissolution of calcium carbonate. This has important health implications:
+A net or bag of **limestone, shell, or marble chips** suspended in the tank creates hard (alkaline) water through slow dissolution of [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]]. This has important health implications:
 
 - Alkaline water **prevents heavy metal uptake** from tank walls and piping
 - Epidemiological evidence links hard water to **decreased incidence of heart attacks** in communities using tank water
@@ -104,7 +104,7 @@ Rainwater tanks should not be considered in isolation but as part of an integrat
 Every tank should have an overflow that leads to productive use:
 
 - **Swales** — Tank overflow can feed swale systems for groundwater recharge and tree irrigation
-- **Ponds and wetlands** — Excess water supports aquatic ecosystems
+- **Ponds and wetlands** — Excess water supports [[dighton-fungal-biomass-production-aquatic-ecosystems]]
 - **Greywater systems** — Combined with household greywater for additional irrigation capacity (provided boron-based detergents are not used)
 
 ### Sequential Use Principle
@@ -124,7 +124,7 @@ Mollison makes a strong case for policy reform around water storage:
 - Local clean air regulations would be better observed when residents directly consume roof-collected water
 - Householders would naturally become more conservative in water use when they manage their own supply
 - Distributed tank systems reduce the enormous infrastructure costs and energy requirements of centralized water supply
-- The chlorinated, metallic, and potentially asbestos-contaminated water of centralized systems is linked to serious health problems including cancer, bone marrow failure, and gastrointestinal disorders
+- The chlorinated, metallic, and potentially asbestos-contaminated water of centralized systems is linked to serious health problems including cancer, bone marrow failure, and [[blesching-cannabis-gastrointestinal-disorders]]
 
 ## Practical Recommendations
 
@@ -137,7 +137,7 @@ Mollison makes a strong case for policy reform around water storage:
 7. Use self-cleaning gutters or maintain gutters regularly
 8. In areas with bird problems, install wire deterrents on roof ridges
 9. Consider below-grade (earth) tanks where possible for cost savings
-10. Treat drinking water tanks with biological methods rather than chemical treatments
+10. Treat drinking water tanks with [[soil-conditioning-chisel-plow-biological-methods]] rather than chemical treatments
 
 ## See Also
 

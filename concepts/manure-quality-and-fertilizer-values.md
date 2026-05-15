@@ -1,5 +1,5 @@
 ---
-title: Manure Quality and Fertilizer Values
+title: [[manure-quality-and-soil-amendment-variability]] Fertilizer Values
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -12,7 +12,7 @@ Manure is one of the oldest and most widely used garden fertilizers, but its val
 
 ## The Core Problem: Unpredictable Quality
 
-The fundamental challenge with manure is that you rarely know what you're getting. Unlike bagged fertilizer with a guaranteed analysis, manure's nutrient content depends on factors entirely outside the gardener's control. Two loads of "horse manure" can differ by 200-300% in nitrogen content alone.
+The fundamental challenge with manure is that you rarely know what you're getting. Unlike bagged fertilizer with a guaranteed analysis, manure's [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] depends on factors entirely outside the gardener's control. Two loads of "horse manure" can differ by 200-300% in nitrogen content alone.
 
 ### Factors Affecting Manure Quality
 
@@ -65,7 +65,7 @@ These ranges come from multiple agricultural sources and illustrate the enormous
 
 Solomon illustrates the variability problem with two neighboring horse manure sources:
 
-**Neighbor 1 (Ken):** Feeds his horses like endurance athletes — premium hay from knowledgeable farmers, oilseed meal supplements, abundant vitamins and minerals. His manure grows an excellent garden (though Solomon notes the nutritional quality may be questionable without mineral balancing).
+**Neighbor 1 (Ken):** Feeds his horses like endurance athletes — premium hay from knowledgeable farmers, oilseed meal supplements, abundant vitamins and minerals. His manure grows an excellent garden (though Solomon notes the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] may be questionable without mineral balancing).
 
 **Neighbor 2:** Keeps horses in a back pasture with pathetic vegetation despite heavy urine deposition. She must buy most of the horse food and feeds mainly low-quality local grass hay that better farmers would reject as bedding straw. Her manure is so poor it barely improves rose bushes.
 
@@ -76,7 +76,7 @@ Both are "horse manure." Both are free or cheap. One grows food; the other barel
 Given the unpredictability of manure quality, Solomon recommends:
 
 1. **Use only the minimum amount of manure necessary** to supply the soil ecology's requirement for organic matter
-2. **Rely on COF ([[complete-organic-fertilizer]])** for the plants' mineral nutrient requirements
+2. **Rely on COF ([[complete-organic-fertilizer]])** for the plants' mineral [[cannabis-soil-and-nutrient-requirements]]
 3. **Do not assume manure provides balanced nutrition** — it almost certainly does not
 4. **If you must rely primarily on manure**, get it from the best possible source: animals fed premium diets with known supplements
 
@@ -92,7 +92,7 @@ Fresh manure from any animal can contain pathogens (E. coli, Salmonella, parasit
 
 ### The Myth of "Natural" Superiority
 
-Natural manure is not inherently superior to chemical fertilizers just because it's natural. If the manure is mineral-imbalanced — which it almost certainly is — it will produce nutritionally inferior vegetables compared to crops grown with properly balanced COF. The key is mineral balance, not the source.
+Natural manure is not inherently superior to [[cannabis-chemical-fertilizers]] just because it's natural. If the manure is mineral-imbalanced — which it almost certainly is — it will produce nutritionally inferior vegetables compared to crops grown with properly balanced COF. The key is mineral balance, not the source.
 
 ## Manure vs COF: A Clear Framework
 
@@ -104,7 +104,7 @@ Natural manure is not inherently superior to chemical fertilizers just because i
 | Cost | Often free or cheap | Moderate upfront, very economical per season |
 | Storage | Requires composting, bulky | Compact, stores indefinitely when dry |
 | Consistency | Highly variable | Consistent from batch to batch |
-| Primary role | Soil ecology food | Plant mineral nutrition |
+| Primary role | Soil ecology food | Plant [[dryland-soils-and-mineral-nutrition]] |
 
 ## Practical Guidelines
 

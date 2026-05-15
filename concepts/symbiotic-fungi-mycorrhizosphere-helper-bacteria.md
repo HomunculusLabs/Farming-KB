@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhizosphere Bacteria and Mycorrhiza Helper Bacteria"
+title: "Mycorrhizosphere Bacteria and [[mycorrhiza-helper-bacteria-fungal-interactions]]"
 created: 2026-04-28
 tags: [mycorrhiza, soil-ecology, bacteria-fungi-interactions, symbiosis]
 date: 2026-04-25
@@ -30,7 +30,7 @@ Mycorrhizosphere bacteria occupy several ecological niches. Intrahyphal
 bacteria have been found within ectomycorrhizal hyphae, and intra-spore
 bacteria within arbuscular mycorrhizal fungal spores. Additional
 bacterial species colonize the surfaces of fungal hyphae and mycorrhizal
-roots. These diverse bacterial communities include both Gram-negative
+roots. These diverse [[cannabis-endorhiza-bacterial-communities]] include both Gram-negative
 and Gram-positive species, with the latter including important genera
 such as Streptomyces and other actinomycetes.
 
@@ -51,7 +51,7 @@ spruce (Picea abies) stand, has been extensively characterized as a
 model MHB. This actinomycete significantly promotes mycelial growth and
 mycorrhization rate of the ectomycorrhizal fungus [[allegro-amanita-muscaria-properties-and-pharmacology]] while
 simultaneously suppressing the mycelial extension of plant pathogens
-Armillariella obscura and Heterobasidion annosum. This dual activity,
+Armillariella obscura and [[heterobasidion-annosum]]. This dual activity,
 promoting beneficial symbiosis while suppressing pathogens, illustrates
 an important application potential for [[mycorrhization-helper-bacteria]] in
 forestry and agriculture.
@@ -63,7 +63,7 @@ Media composition and the distance between and size of microbial inocula
 are critically important. Microorganisms commonly activate secondary
 metabolism during stress or competition, so interaction-relevant
 substances may be produced primarily during direct contact. The
-interaction between Streptomyces AcH 505 and Amanita muscaria changes
+interaction between Streptomyces AcH 505 [[biblical-manna-and-amanita-muscaria]] changes
 from mutualistic to antagonistic when the medium is changed from MMN to
 ISP2, because AcH 505 grows better on ISP2 and produces higher
 concentrations of antifungal metabolites.
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Symbiotic Fungi Mycorrhizosphere Helper Bacteria finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 symbiotic fungi mycorrhizosphere helper bacteria and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

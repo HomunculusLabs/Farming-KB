@@ -1,5 +1,5 @@
 ---
-title: Mushroom Species Selection Guide
+title: [[mushroom-species-selection]] Guide
 created: 2026-04-28
 tags: [mycology, species, cultivation, beginner]
 date: 2026-04-28
@@ -51,8 +51,8 @@ Different mushroom species have evolved to decompose different materials.
 Matching species to locally available substrate materials is key to
 low-cost, sustainable cultivation:
 
-- **Straw and agricultural waste**: Oysters (all types), Wine Cap,
-  Paddy Straw mushroom (Volvariella volvacea)
+- **Straw [[fungi-in-composting-and-agricultural-waste-conversion]]**: Oysters (all types), Wine Cap,
+  [[comparison-king-stropharia-vs-paddy-straw-mushroom]] ([[paddy-straw-mushroom-volvariella-volvacea-cultivation]])
 - **Hardwood sawdust**: Shiitake, Lion's Mane, Maitake, Reishi,
   Nameko (Pholiota nameko)
 - **Softwood sawdust**: Limited options; some oyster strains
@@ -67,7 +67,7 @@ low-cost, sustainable cultivation:
 
 ## Contamination Risk and Species Difficulty
 
-Contamination is the primary challenge in mushroom cultivation. Species
+Contamination is the primary challenge [[contamination-prevention-in-mushroom-cultivation]]. Species
 vary dramatically in their susceptibility:
 
 - **Low risk**: Oysters, Wine Cap -- aggressive colonizers that
@@ -81,6 +81,6 @@ vary dramatically in their susceptibility:
 
 Beginners should start with oyster mushrooms on pasteurised straw or
 coffee grounds before attempting species that require pressure-cooked
-supplemented sawdust blocks. Building sterile technique gradually
+[[oyster-mushroom-supplemented-sawdust-blocks]]. Building sterile technique gradually
 through increasing difficulty levels prevents frustration and wasted
 materials during the learning process.

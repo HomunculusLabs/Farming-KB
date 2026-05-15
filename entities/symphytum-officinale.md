@@ -1,5 +1,5 @@
 ---
-title: "Symphytum officinale"
+title: "[[comfrey-symphytum-officinale]]"
 type: species
 tags:
   - herbal-plant
@@ -18,7 +18,7 @@ sources:
   - "Whitehead, D.C. (2000). Nutrient Elements in Grassland: Soil-Plant-Animal Relationships. CABI Publishing."
   - "Stickel, F. & Seitz, H.K. (2000). The efficacy and safety of comfrey. Public Health Nutrition, 3(4A), 501–508."
   - "Marschner, H. (2012). Mineral Nutrition of Higher Plants. 3rd Edition. Academic Press."
-  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. Chelsea Green Publishing."
+  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. [[chelsea-green-publishing]]."
 ---
 
 # Symphytum officinale
@@ -46,7 +46,7 @@ The genus *Symphytum* contains approximately 35 species native to Europe and wes
 
 The most widely planted comfrey in permaculture systems is the **Bocking 14** cultivar, developed by Lawrence D. Hills at the Henry Doubleday Research Association (HDRA) in England during the 1950s. Key characteristics:
 
-- **Sterile triploid:** Produces no viable seeds, preventing unwanted spread — a critical consideration for [[nutrient-dynamic-accumulator-reference]]** — a plant that mines nutrients from deep soil horizons and concentrates them in its above-ground biomass, making those nutrients available to other plants when used as mulch, compost, or liquid feed.
+- **Sterile triploid:** Produces no viable seeds, preventing unwanted spread — a critical consideration for [[nutrient-dynamic-accumulator-reference]]** — a plant that mines nutrients from deep [[soil-horizons]] and concentrates them in its above-ground biomass, making those nutrients available to other plants when used as mulch, compost, or liquid feed.
 
 ### Nutrient Composition (per 100 kg dry weight)
 
@@ -73,7 +73,7 @@ Comfrey tea is one of the most widely used organic [[solomon-liquid-fertilizers-
 ## Overview
 
 Symphytum Officinale represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,13 +102,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for symphytum officinale. Climate adaptation
+opportunities for symphytum officinale. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 symphytum officinale and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

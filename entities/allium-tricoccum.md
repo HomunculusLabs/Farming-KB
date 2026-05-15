@@ -59,7 +59,7 @@ Commercial demand has increased dramatically since the 2000s.
 
 Ramps now appear in high-end restaurants and farmers' markets across the United States, which has raised serious sustainability concerns.
 
-[[allium-sativum-entity]]*) and onion (*Allium cepa*).
+[[allium-sativum-entity]]*) and onion (*[[allium-cepa]]*).
 When tissue is damaged, the enzyme alliinase converts ACSOs to volatile thiosulfinates.
 These include allicin, methyl methanethiosulfinate, and various polysulfides responsible for the characteristic aroma.
 The ACSO profile of ramps is distinct from that of cultivated garlic.

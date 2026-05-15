@@ -13,7 +13,7 @@ Arugula (*Eruca vesicaria* subsp. *sativa*, synonym *Eruca sativa*), also known 
 ## Classification
 
 - **Kingdom**: Plantae
-- **Family**: Brassicaceae (mustard / cabbage family)
+- **Family**: Brassicaceae (mustard / [[cabbage-family-pests]])
 - **Genus**: *Eruca*
 - **Species**: *Eruca vesicaria* subsp. *sativa*
 - **Common names**: Arugula, rocket, roquette, rucola
@@ -57,16 +57,16 @@ Arugula's distinctive flavor makes it a valuable component of baby-leaf salad mi
 
 ### Market Appeal
 
-Arugula is one of the crops that has grown significantly in popularity in North American markets. Its inclusion in the winter harvest system reflects both its agronomic suitability for protected winter cultivation and its strong market demand as a premium salad ingredient.
+Arugula is one of the crops that has grown significantly in popularity in [[growing-gourmet-north-american-reishi-species]] markets. Its inclusion in the [[cold-house-winter-harvest-system]] reflects both its agronomic suitability for protected winter cultivation and its strong market demand as a premium salad ingredient.
 
 ### Rotation Considerations
 
-As a member of the Brassicaceae (cabbage) family, arugula must be rotated with crops from other families to prevent buildup of Brassica-specific pests and diseases. In Coleman's cool-house rotation, brassica crops are alternated with lettuce family (Compositae) crops and warm-weather crops (cucumbers, peppers, eggplants) to maintain a complex rotation.
+As a member of the Brassicaceae (cabbage) family, arugula must be rotated with crops from other families to prevent buildup of Brassica-specific [[mushroom-pests-and-diseases]]. In Coleman's cool-house rotation, brassica crops are alternated with lettuce family (Compositae) crops and warm-weather crops (cucumbers, peppers, eggplants) to maintain a complex rotation.
 
 ## Relationship to Other Concepts
 
-- **Cool house**: Arugula's primary winter production environment
-- **Brassica rotation**: Crop family considerations for arugula in rotation planning
+- **Cool house**: Arugula's primary [[coleman-beet-greens-cold-house-winter-production]] environment
+- **Brassica rotation**: Crop family considerations for arugula in [[coleman-yearly-schedule-multi-crop-winter-rotation-planning]]
 - **Salad mix**: Arugula as a flavor component in baby-leaf mixes
 - **Cut-and-come-again**: Arugula's regrowth after harvest
 - **Winter harvest**: Protected production during cold months

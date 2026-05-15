@@ -6,7 +6,7 @@ type: concept
 
 # Firebreaks and Fuel Reduction Strategies
 
-[[wildfire]] is an inevitable recurring event in many landscapes, occurring on regular schedules depending on vegetation type — approximately every 30 years in wet sclerophyll forest, 8-10 years in dry savannah, and annually in unbrowsed grassland. The goal of fire management is not to eliminate fire entirely but to reduce its intensity and destructive potential through systematic fuel management and strategic firebreak placement.
+[[wildfire]] is an inevitable recurring event in many landscapes, occurring on regular schedules depending on vegetation type — approximately every 30 years in wet sclerophyll forest, 8-10 years in dry savannah, and annually in unbrowsed grassland. The goal of [[permaculture-fire-management]] is not to eliminate fire entirely but to reduce its intensity and destructive potential through systematic fuel management and strategic firebreak placement.
 
 ## Types of Firebreaks
 
@@ -28,7 +28,7 @@ Vertical firebreaks prevent fire from "crowning" — leaping from ground level i
 It is critical to understand that **no firebreak is effective in [[firestorm]] conditions**. Even a 10 km stretch of open water cannot stop a fire tornado. In extreme conditions:
 - Fire tornadoes develop on the lee side of hill crests
 - These travel downwind with ascent velocities up to 250 km/h
-- They lift large logs, branches, and building materials aloft
+- They lift large logs, branches, and [[gadd-fungal-biodegradation-concrete-building-materials]] aloft
 - They create massive aerial gaseous explosions
 - Incandescent material is carried and dropped 1-30 km downwind to start fresh fires
 
@@ -58,7 +58,7 @@ Physically cutting and removing fuels:
 - Material can be chopped and stoneweighted into hollows and swales
 
 #### 3. Composting in Swales
-Organic matter collected from fuel reduction can be incorporated into [[swale]] systems, converting fire hazard into soil-building material.
+[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] collected from fuel reduction can be incorporated into [[swale]] systems, converting fire hazard into soil-building material.
 
 #### 4. Firewood Collection
 Using collected dry material as cooking and heating fuel transforms a fire risk into a useful resource.
@@ -75,9 +75,9 @@ The most effective long-term strategy — replacing flammable vegetation with mo
 The Pain system represents the most comprehensive approach to broadscale beneficial fire reduction. Developed in France and documented in "Another Kind of Garden" (1982), this system:
 
 1. **Chips all dry forest fuels** using mechanical equipment
-2. **Composts or processes** the chipped material for biogas production
+2. **Composts or processes** the chipped material for [[anaerobic-digestion-biogas-production]]
 3. **Uses the biogas** to fuel the chipping and carting operations, creating energy self-sufficiency
-4. **Applies compost and sludge** to gardens and agricultural land, improving soils
+4. **Applies compost and sludge** to gardens and [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]], improving soils
 5. **Further reduces litter** by converting forest waste into productive soil amendments
 
 Every bioregion should adopt these methods if forests are to be preserved and eventually made fireproof.
@@ -109,7 +109,7 @@ When developing forest from grazed areas, the 3-5 year establishment period pres
 - Program **planting mosaics** to reduce district-wide risk
 - Maintain **grazed buffers** between newly planted areas
 - Use **temporary firebreaks** of slashed or closely grazed vegetation
-- Progressively replace grass fuels with fire-resistant ground covers and saplings
+- Progressively replace grass fuels with fire-resistant [[permaculture-plants-ground-covers-and-accumulators]] saplings
 
 ## Community-Level Fire Infrastructure
 

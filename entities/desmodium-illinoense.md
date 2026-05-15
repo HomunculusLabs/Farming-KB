@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Isely, D. (1990). Vascular Flora of the Eastern United States, Vol. 3, Part 2. New York Botanical Garden Press.
-  - Schubert, B.G. (1943). "A revision of the genus Desmodium for North America." Brittonia 4(2): 91-123.
+  - Schubert, B.G. (1943). "A revision of the genus Desmodium for [[guzman-psilocybin-mushrooms-north-america]]." Brittonia 4(2): 91-123.
   - Great Plains Flora Association (1986). Flora of the Great Plains. University Press of Kansas.
   - USDA NRCS (2024). "Plant Guide: Illinois tick-trefoil." USDA Natural Resources Conservation Service.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada, 2nd ed. New York Botanical Garden Press.
@@ -54,7 +54,7 @@ It is also found in the Midwest from Ohio and Indiana westward, with scattered p
 
 The species is most common in mesic to dry prairies, savannas, open woodlands, and glades. It is a characteristic forb of the tallgrass prairie assemblage.
 
-It prefers well-drained loam to clay-loam soils with a pH of 5.5–7.0. It tolerates moderate drought but is less common on very sandy or very wet sites.
+It prefers well-drained [[loam]] to clay-loam soils with a pH of 5.5–7.0. It tolerates moderate drought but is less common on very sandy or very wet sites.
 
 Illinois tick-trefoil is frequently associated with dominant prairie grasses such as big bluestem ([[sorghastrum-nutans]]).
 
@@ -75,7 +75,7 @@ Seeding rate for restoration is 2–4 kg/ha pure live seed, planted in early spr
 ## Overview
 
 Desmodium Illinoense represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -89,7 +89,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving desmodium extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -104,13 +104,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for desmodium illinoense. Climate adaptation
+opportunities for desmodium illinoense. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 desmodium illinoense and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

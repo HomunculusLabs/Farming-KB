@@ -16,7 +16,7 @@ tags:
 
 Phoma destructiva is a fungal species traditionally classified as a plant pathogen
 that has been shown to exhibit endophyte-like antiherbivore properties. Research by
-Kruess (2002) demonstrated that infection of the creeping thistle (Cirsium arvense)
+Kruess (2002) demonstrated that infection of the creeping thistle ([[cirsium-arvense]])
 with P. destructiva rendered host plants less palatable to herbivorous insects,
 functioning similarly to known mutualistic endophytes. This dual role blurs the
 boundary between pathogenic and mutualistic fungal strategies and provides evidence
@@ -52,7 +52,7 @@ for the continuum model of plant-fungal interactions in ecological theory.
 ## Relevance to Cultivation and Mycology
 
 - **Weed biocontrol implications:** Antiherbivore properties may be harnessed in
-  integrated pest management strategies.
+  [[integrated-pest-management]] strategies.
 - **Ecological theory:** Key case study for the continuum model of fungal-plant
   interactions where functional classification depends on environmental context.
 - **Chemical ecology:** Mechanism of palatability reduction likely involves induction of
@@ -83,3 +83,8 @@ for the continuum model of plant-fungal interactions in ecological theory.
   conditions and host plant genotype.
 - Long-term effects of P. destructiva infection on C. arvense population dynamics
   have not been studied under natural field conditions.
+## See also
+
+- [[fungal-plant-diseases]]
+- [[cercospora]]
+- [[discula-quercina]]

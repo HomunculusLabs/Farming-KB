@@ -9,7 +9,7 @@ sources: []
 
 # CSA Farm Share Model
 
-Community Supported Agriculture (CSA) connects farmers directly with consumers through prepaid seasonal subscriptions. Members receive a weekly or biweekly box of fresh produce (and sometimes meat, eggs, herbs, flowers) throughout the growing season. The model provides farmers with upfront capital, predictable demand, and a committed customer base.
+[[community-supported-agriculture-csa]] (CSA) connects farmers directly with consumers through prepaid seasonal subscriptions. Members receive a weekly or biweekly box of fresh produce (and sometimes meat, eggs, herbs, flowers) throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. The model provides farmers with upfront capital, predictable demand, and a committed customer base.
 
 ## How CSAs Work
 
@@ -55,7 +55,7 @@ Community Supported Agriculture (CSA) connects farmers directly with consumers t
 ### Planning Principles
 - Plan for 6-10 items per box (varies by size)
 - Balance staples (lettuce, carrots, onions, potatoes) with specialties
-- Succession planting ensures continuous harvest
+- [[coleman-succession-planting]] ensures continuous harvest
 - Include a newsletter with storage tips, recipes, and farm updates
 - "U-pick" options for herbs, flowers, cherry tomatoes reduce packing labor
 
@@ -135,8 +135,8 @@ Week 4: heirloom tomatoes, sweet corn, green beans, squash, onions, garlic
 
 - Member agreement: outlines share terms, pickup policies, risk acknowledgment
 - Not a contract for specific produce (CSA is a shared-risk model)
-- Liability insurance: see homestead insurance guide
-- Food safety: follow GAP (Good Agricultural Practices) guidelines
+- Liability insurance: see [[homestead-insurance-guide]]
+- Food safety: follow GAP (Good [[mycorrhizal-agricultural-practices]]) guidelines
 - No warranties implied -- members accept crop variability
 - Check state regulations on direct farm sales
 
@@ -144,6 +144,6 @@ Week 4: heirloom tomatoes, sweet corn, green beans, squash, onions, garlic
 
 - Start with 15-25 members and grow 20-30% per year
 - Each 10 additional members adds ~2 hours/week of harvest and packing
-- Hire help at 50+ members (see homestead labor and volunteers)
+- Hire help at 50+ members (see [[homestead-labor-and-volunteers]] volunteers)
 - Software helps manage memberships: Harvie, Barn2Door, CSAware
 - Winter shares extend revenue and maintain member relationships year-round

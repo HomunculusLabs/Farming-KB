@@ -3,7 +3,7 @@ title: "What Are Dynamic Accumulators and How Do I Use Them?"
 tags: [query, dynamic-accumulators, soil-fertility, permaculture, organic-fertilizer]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ["raw/papers/nutrient-and-dynamic-accumulators.md"]
 ---
 
 # What Are Dynamic Accumulators and How Do I Use Them?

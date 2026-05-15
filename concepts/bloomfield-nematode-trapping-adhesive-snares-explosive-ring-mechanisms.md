@@ -1,7 +1,7 @@
 # Nematode-Trapping Fungi: Adhesive Snares and Explosive Rings
 
 ## Overview
-Nematode-trapping fungi are predatory soil fungi that capture and consume microscopic
+Nematode-trapping fungi are [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]] that capture and consume microscopic
 roundworms (nematodes) using an array of remarkable mechanical trapping devices.
 These include adhesive branches, adhesive nets, adhesive knobs, and constricting
 rings that inflate to grip passing worms with tremendous force. A single gram of
@@ -34,20 +34,20 @@ an intricate mesh that ensnares nematodes as they move through the soil. Adhesiv
 knobs are swollen terminal cells that secrete a sticky coating. When a nematode
 touches a knob, it adheres firmly. Both nets and knobs rely on the mechanical
 properties of the adhesive rather than any active movement on the part of the fungus.
-The net-forming species, such as Arthrobotrys dactyloides, can produce extensive
+The net-forming species, such as [[arthrobotrys-dactyloides]], can produce extensive
 networks that increase the probability of capture in nutrient-poor soils.
 
 ## Constricting Rings: Explosive Traps
 The most dramatic trapping structures are the constricting (explosive) rings. These
 three-celled rings sit on the hyphae and remain open until triggered. Nematodes are
-lured to these ring traps by chemical attractants—described as "siren songs"—that
+lured to these ring traps by chemical attractants—described as "[[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]]"—that
 the fungus secretes into the surrounding soil. As the animal glides through the
 opening of the ring, the trap is triggered: the interior wall of each cell inflates
 rapidly, and the ring constricts around the nematode's body.
 
 The force exerted by a constricting ring is extraordinary. A single ring can grip
 a nematode with a pressure of up to 18 atmospheres. This inflation occurs in
-milliseconds, making it one of the fastest movements in the fungal kingdom. The
+milliseconds, making it one of the fastest movements in the [[bloomfield-stramenopila-oomycete-fungal-kingdom-distinction]]. The
 mechanism relies on rapid water uptake by the ring cells, causing them to swell
 dramatically and reduce the diameter of the opening. The energy for this movement
 comes from osmotic potential stored in the ring cells prior to triggering.
@@ -70,7 +70,7 @@ dissolve and absorb the internal tissues of the worm. The entire process of
 digestion occurs externally—the fungus secretes enzymes into the nematode body and
 absorbs the resulting nutrient broth. This is consistent with the absorptive mode
 of nutrition that characterizes all fungi. Proteases, chitinases, and lipases work
-in combination to break down the nematode's internal organs into their molecular
+in combination to [[query-can-fungi-break-down-plastic-pollution]] the nematode's internal organs into their molecular
 components.
 
 ## Nitrogen Acquisition Strategy
@@ -85,7 +85,7 @@ provide a valuable nitrogen supplement to the fungal diet.
 Some fungi obtain nitrogen by a different predatory strategy: secreting antibiotics
 to kill soil bacteria and absorbing nutrients from their leaking cells. Mushroom-
 forming basidiomycetes, including those that produce ink-caps, puffballs, and bird's
-nest fungi, are adept predators of bacteria through this [[bloomfield-fungal-antibiotics-bacterial-predation-nitrogen-acquisition-soil]] via antibiotics and [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agent.
+[[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]], are adept predators of bacteria through this [[bloomfield-fungal-antibiotics-bacterial-predation-nitrogen-acquisition-soil]] via antibiotics and [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agent.
 Understanding the mechanisms of [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]].
 
 ## See Also

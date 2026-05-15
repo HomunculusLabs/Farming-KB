@@ -1,16 +1,16 @@
 ---
-title: Cool Climate Home Garden Design
+title: [[cool-climate-home-garden-and-seed-saving]] Garden Design
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Cool Climate Home Garden Design
 
-The cool climate home garden presents unique challenges and opportunities compared to tropical and arid gardens. The defining characteristic is the need to **grow and store crops over the winter months**, as growth effectively ceases from late autumn to early spring. The middle of spring is known as the **"hungry gap"** — a period when winter crops are finished and new crops are not yet yielding. Successful cool-climate garden design revolves around bridging this gap through strategic planting, storage, and preservation.
+The cool climate home garden presents unique challenges and opportunities compared to tropical and arid gardens. The defining characteristic is the need to **grow and store crops over the winter months**, as growth effectively ceases from late autumn to [[coleman-overwintered-onions-and-early-spring-crops]]. The middle of spring is known as the **"hungry gap"** — a period when winter crops are finished and new crops are not yet yielding. Successful cool-climate garden design revolves around bridging this gap through strategic planting, storage, and preservation.
 
 ## The Winter Food Gap
 
-The winter food gap is bridged by growing root crops, cucurbits, and subsequently processed crops for preservation. These crops mature in late summer and are stored or preserved (some can also be left in the ground). Staple root crops include:
+The winter food gap is bridged by [[solomon-growing-root-crops-guide]], cucurbits, and subsequently processed crops for preservation. These crops mature in late summer and are stored or preserved (some can also be left in the ground). Staple root crops include:
 
 - **Potato** — the primary staple, stored in straw or ash in dark boxes or humid cellars
 - **Parsnip and carrot** — tops removed, stored in mounds of sand or ash
@@ -47,7 +47,7 @@ Even potatoes can be sprouted on old hessian bags indoors or in any open shadeho
 One of the most valuable techniques for the cool climate gardener is the perennialisation of annual vegetables — methods that allow continuous harvest without repeated sowing:
 
 - **Carrots**: Cut a disc off the top, sprout it on soft wet paper in a shallow tray, and replant. One gardener reported eating the same carrots for 9 years using this technique.
-- **Leeks**: Let one in four go to seed and dry off, then remove the small bulbils from the base and replant. When harvesting, cut off the leek 2 cm below ground level — the central shoot quickly regrows. A perennial bunching leek variety (called "pearl onions") also exists.
+- **Leeks**: Let one in four go to seed and dry off, then remove the small bulbils from the base and replant. When harvesting, cut off the leek 2 cm [[jeavons-root-systems-below-ground-composting]] level — the central shoot quickly regrows. A perennial bunching leek variety (called "pearl onions") also exists.
 - **Lettuce**: Pick single leaves, allow to go to seed, and scatter seed. Mignonette variety is a good self-seeder, as are some Italian varieties.
 - **Cabbage**: Cut the head 8 cm above the ground, then deeply crosscut the stem. Each quarter of the stem regrows a small cabbage.
 - **Self-seeding plants**: Garden fennel, chard, parsley, and parsnip will all self-seed if allowed to go to seed. Judicious thinning, weeding, and transplanting is all that is needed.
@@ -68,7 +68,7 @@ All trellis should be aligned **north–south** where possible for even sun expo
 
 ## Small Fruit Integration
 
-Small fruit plantings are a distinctive feature of cool-area gardens. Six to fifteen plants of 7–8 species of currants, gooseberry, raspberry, or trellis blackberry yield a great deal of fresh or frozen food of high vitamin C value. Many such rows can also serve as **windbreak within the garden**, providing both food production and microclimate protection simultaneously.
+Small fruit plantings are a distinctive feature of cool-area gardens. Six to fifteen plants of 7–8 species of currants, gooseberry, raspberry, or trellis blackberry yield a great deal of fresh or frozen food of high vitamin C value. Many such rows can also serve as **windbreak within the garden**, providing both food production and [[coleman-double-cover-microclimate-protection]] simultaneously.
 
 ## Seed Sovereignty
 
@@ -76,7 +76,7 @@ The preservation of open-pollinated, non-patented seed is critical for food sove
 
 Every gardener who is opposed to external control preserves a few valuable varieties — many of these are heirloom or locally reliable traditional food plants specific to site, climate, or regional preference. A region in any climate can escape external food control via a local, regional, and national network of seed exchanges and open-pollinated, non-hybrid, non-patented seed. Perennials and trees providing staple food have largely usurped seed patenting, making them particularly important for independence from industrial seed control.
 
-The cool climate home garden, when designed with these principles, becomes not merely a food production space but a resilient system that bridges seasonal gaps, preserves genetic diversity, and reduces dependence on external supply chains — all while producing high-quality nutrition year-round.
+The cool climate home garden, when designed with these principles, becomes not merely a food production space but a resilient system that bridges seasonal gaps, preserves [[biodiversity-fungal-genetic-diversity]], and reduces dependence on external supply chains — all while producing high-quality nutrition year-round.
 
 ## See Also
 - [[cool-climate-home-garden-mollison]]

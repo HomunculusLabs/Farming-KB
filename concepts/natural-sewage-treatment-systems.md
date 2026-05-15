@@ -7,7 +7,7 @@ type: concept
 # Natural Sewage Treatment Systems
 
 Natural sewage treatment systems use biological processes, specific plant species, and
-designed landscape features to purify wastewater, recover nutrients, and produce useful
+designed [[desert-landscape-features-and-erosion-landforms]] to purify wastewater, recover nutrients, and produce useful
 outputs such as biogas, fodder, and compost. These systems replace or supplement
 conventional sewage infrastructure with ecologically integrated alternatives that turn
 waste into a productive resource.
@@ -30,7 +30,7 @@ or ditches where specific species absorb and break down pollutants:
 | *Alisma plantago-aquatica* | General water purification |
 | *Mentha aquatica* (water mint) | General water purification |
 | *Juncus effusus* (soft rush) | Chlorinated hydrocarbons, cyanide, thiocyanates, phenols |
-| *Schoenoplectus lacustris* (bulrush) | Chlorinated hydrocarbons (large aerenchyma pith cells) |
+| *[[schoenoplectus-lacustris]]* (bulrush) | Chlorinated hydrocarbons (large aerenchyma pith cells) |
 | *Spartina* spp. (cordgrass) | General water purification, saline environments |
 | *Iris pseudacorus* (yellow flag) | General water purification |
 
@@ -81,7 +81,7 @@ treatment:
 
 ## Leach Field Design
 
-For septic tank effluent disposal, underground leach fields integrated with tree planting
+For septic tank [[septic-effluent-disposal-designs]], underground leach fields integrated with tree planting
 offer an effective solution:
 
 ### Trench Design
@@ -95,7 +95,7 @@ offer an effective solution:
 
 - Square or round pits, approximately 25 m square
 - Layered construction: graded stone at base, cardboard layer, then straw layer on top
-- Provides distributed nutrient release to surrounding soil
+- Provides distributed [[solomon-cool-climate-compost-soil-temperature-nutrient-release]] to surrounding soil
 
 ## Biogas Systems
 
@@ -109,7 +109,7 @@ Biogas conversion turns sewage solids into methane for cooking, heating, or elec
 
 ## Natural Swimming Pools
 
-[[natural-swimming-pools]] demonstrate the principles of biological water treatment applied
+[[natural-swimming-pools]] demonstrate the principles of [[sand-filtration-and-biological-water-treatment]] applied
 to recreational use:
 
 1. Water filters down through a pebble bed beneath the pool
@@ -119,7 +119,7 @@ to recreational use:
 
 ## Designer's Checklist for Water on Property
 
-When designing water and sewage systems for a permaculture property:
+When designing water and sewage systems for [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]]:
 
 - [ ] Map all water sources, flows, and existing drainage patterns
 - [ ] Identify opportunities for gravity-fed systems to minimise energy inputs

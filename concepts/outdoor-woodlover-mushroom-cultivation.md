@@ -4,7 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cultivation, mycology]
-sources: []
+sources: ["raw/papers/peter-oei-5-pages-mushroom-cultivation.md"]
 ---
 # Outdoor Woodlover Mushroom Cultivation
 

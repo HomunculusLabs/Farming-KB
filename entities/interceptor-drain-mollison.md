@@ -13,7 +13,7 @@ An interceptor drain is a specialised earthwork designed to prevent overland wat
 
 ## Classification
 
-- **Category**: Water management earthwork
+- **Category**: [[water-management]] earthwork
 - **Function**: Subsoil water interception and salinity control
 - **Design lineage**: Permaculture earthworks / dryland rehabilitation
 

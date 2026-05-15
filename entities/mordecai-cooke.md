@@ -27,7 +27,7 @@ Victorian mycologist and science writer (1825-1914), author of "The Seven Sister
 
 ## Overview
 
-Mordecai Cubitt Cooke was a prolific mycological writer and a member of the Woolhope Naturalists' Field Club in Hereford, which organized the first systematic fungus forays in Britain beginning in 1868. Despite his humble origins (which prevented him from entering the gentlemanly classes establishing academic mycology), Cooke made significant contributions to popularizing mycology. He is shown seated in the middle of the front row of the founding members of the British Mycological Society (c. 1896).
+Mordecai Cubitt Cooke was a prolific mycological writer and a member of the Woolhope Naturalists' Field Club in Hereford, which organized the first systematic fungus forays in Britain beginning in 1868. Despite his humble origins (which prevented him from entering the gentlemanly classes establishing academic mycology), Cooke made significant contributions to popularizing mycology. He is shown seated in the middle of the front row of the founding members of the [[british-mycological-society]] (c. 1896).
 
 ## Key Contributions
 
@@ -43,17 +43,17 @@ Cooke authored "Rust, Smut, Mildew and Mould" (1865), "A Plain and Easy Account 
 
 ### Reversal on Psychoactive Mushrooms
 
-By the time Cooke published "Poisonous Mushrooms" in 1894, published by the Society for Promoting Christian Knowledge, he had completely reversed his earlier positions. Despite knowing how to identify Liberty Caps (Psilocybe semilanceata), he now warned the public to avoid them, reflecting the growing conservatism of his career.
+By the time Cooke published "Poisonous Mushrooms" in 1894, published by the Society for Promoting Christian Knowledge, he had completely reversed his earlier positions. Despite knowing how to identify Liberty Caps ([[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]), he now warned the public to avoid them, reflecting the growing conservatism of his career.
 
 ## Legacy
 
-Cooke represents a fascinating "what if" in the history of psychedelics — a brilliant naturalist who knew about psychoactive mushrooms, described their effects favorably in his youth, but never consumed them and ultimately warned against them. His trajectory from enthusiastic drug defender to conservative mycological authority mirrors the broader Victorian ambivalence toward psychoactive substances.
+Cooke represents a fascinating "what if" in the history of psychedelics — a brilliant naturalist who knew about psychoactive mushrooms, described their effects favorably in his youth, but never consumed them and ultimately warned against them. His trajectory from enthusiastic drug defender to conservative mycological authority mirrors the broader Victorian ambivalence toward [[cultural-evolution-and-psychoactive-substances]].
 
 ## See Also
 
 - [[victorian-mycology]] — Broader context of Victorian fungal studies
 - [[psychedelic-mushroom-history]] — Timeline of psychedelic mushroom discovery
-- [[mushroom-identification]] — Modern identification methods descended from Victorian taxonomy
+- [[mushroom-identification]] — Modern [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] descended from Victorian taxonomy
 - [[mushroom-folklore-and-culture]] — Mushrooms in fairy lore and popular culture
 
 ## Overview
@@ -80,7 +80,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mordecai Cooke finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mordecai cooke and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

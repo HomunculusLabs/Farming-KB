@@ -1,6 +1,6 @@
 ---
 title: Mushroom Biology and Life Cycle
-source: MushWorld, Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation (2004)
+source: MushWorld, Mushroom Growers' Handbook 1: [[comparison-reishi-vs-oyster-mushroom-cultivation]] (2004)
 tags: [mushroom, cultivation, fungi, biology, life-cycle, mycology]
 created: 2026-05-11
 ---
@@ -81,7 +81,7 @@ several distinct stages:
 
 ## Vegetative vs. Reproductive Growth Phases
 
-- **Vegetative Phase:** Mycelial colonization of the substrate. The fungus
+- **Vegetative Phase:** [[mycelial-colonization]] of the substrate. The fungus
   focuses on nutrient acquisition and biomass accumulation. Conditions favor
   higher temperatures (20-30°C for oyster mushrooms), moderate humidity, and
   darkness or dim light. No fruiting bodies are produced during this phase.
@@ -107,13 +107,13 @@ Fungi obtain nutrients through three primary tropic patterns:
 
 - **Mycorrhizae:** Form mutually beneficial associations with plant roots.
   The fungus provides minerals and water; the plant supplies carbohydrates.
-  Mycorrhizal mushrooms (truffles, chanterelles) are difficult to cultivate
+  [[mycorrhizal-mushrooms]] (truffles, chanterelles) are difficult to cultivate
   because they depend on living host plants.
 
 ## Cellulose Digestion and Fungal Enzymes
 
 Oyster mushrooms decompose lignocellulosic biomass—the structural material of
-plant cell walls—through secretion of extracellular enzymes:
+plant cell walls—through secretion of [[fungal-extracellular-enzymes]]:
 
 - **Cellulase:** A suite of enzymes (endoglucanases, exoglucanases,
   beta-glucosidases) that hydrolyze cellulose into glucose. Cellulose is a
@@ -125,12 +125,12 @@ plant cell walls—through secretion of extracellular enzymes:
   sugars that cross-link cellulose microfibrils.
 
 - **Lignin-degrading enzymes:** White-rot fungi including Pleurotus produce
-  lignin peroxidase, manganese peroxidase, and laccase to break down lignin,
+  lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and laccase to break down lignin,
   a complex aromatic polymer that provides rigidity to plant cell walls.
   This ability distinguishes white-rot fungi from most other organisms.
 
 The efficiency of these enzymatic systems enables oyster mushrooms to
-colonize a wide range of agricultural waste substrates, converting low-value
+colonize a wide range of [[agricultural-waste-substrates]], converting low-value
 plant residues into nutritious, high-value food products.
 
 ## See Also

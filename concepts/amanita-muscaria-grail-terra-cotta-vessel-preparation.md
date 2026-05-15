@@ -1,5 +1,5 @@
 ---
-title: "Amanita Muscaria Grail Terra Cotta Vessel Preparation"
+title: "[[amanita-muscaria-grail-legends-healing-immortality-magic-pots]] Terra Cotta Vessel Preparation"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## The Grail Concept
 
-The Holy Grail of Arthurian legend and European mythology may not be a purely
+The [[amanita-muscaria-holy-grail-theory-detailed]] of Arthurian legend and European mythology may not be a purely
 symbolic or religious object. A strong case can be made that the Grail legend
 originates from a practical, functional artifact — a terra cotta vessel used to
 rehydrate and cultivate *[[amanita-muscaria]]* from dried specimens. Rather than a
@@ -45,7 +45,7 @@ over thousands of years:
    mushroom material into the liquid, and the fungal tissue begins to absorb
    moisture and reanimate.
 
-4. Pour off the liquid and consume it. This is the "magic drink" of legend.
+4. Pour off the liquid and consume it. This is the "[[schultes-ayahuasca-magic-drink-amazon]]" of legend.
 
 5. Allow the Grail to sit empty for at least a week, sometimes longer. During
    this resting period, the rehydrated mycelium on the inner surface of the
@@ -88,9 +88,9 @@ nutritious broth does more than simply rehydrate the dried mushroom — it feeds
 the mycelium, providing the chemical building blocks it needs to regrow and
 expand its network within the terra cotta.
 
-The significance of barley runs deep. The Rig Veda (composed approximately 1500
+The significance of barley runs deep. The [[rig-veda]] (composed approximately 1500
 BCE) specifies barley water as the medium for preparing **Soma** — the divine
-sacramental substance of Vedic religion. The identification of Soma with
+[[biblical-manna-and-sacramental-substance]] of Vedic religion. The identification of Soma with
 *Amanita muscaria* has been argued by numerous scholars, and the specification
 of barley water as the preparation medium strongly supports this connection. The
 barley-fungus relationship in sacramental preparation is therefore documented as

@@ -24,7 +24,7 @@ include:
 - **Wheat bran**: Most widely used supplement, typically 10-25% by volume.
   In Japan, up to 36-40% rice bran is added for P. ostreatus cultivation.
 - **Rice bran**: Provides organic nitrogen, especially important during
-  fruiting body formation.
+  [[fungal-fruiting-body-formation-environmental-triggers]].
 - **Cottonseed meal**: Rich nitrogen source for enriching substrates.
 - **Urea and ammonium sulfate**: Inorganic nitrogen sources; ammonium
   sulfate at growth-limiting concentrations increased yields up to 100%
@@ -33,7 +33,7 @@ include:
 
 ## Nitrogen Form and Timing
 
-The form of nitrogen matters for oyster mushroom cultivation. Amino nitrogen
+The form of nitrogen matters for [[oyster-mushroom-cultivation]]. Amino nitrogen
 is utilized during the spawn run phase but is not suitable for fruiting.
 Therefore, growers generally avoid adding amino nitrogen supplements during
 initial substrate mixing. Inorganic mineral materials (K, P, Si, Fe, Mg) are
@@ -42,15 +42,15 @@ supplementation.
 
 ## Supplementation Risks
 
-Excessive nitrogen supplementation can be counterproductive. On sunflower seed
+Excessive [[nitrogen-supplementation-for-mushroom-substrates]] can be counterproductive. On sunflower seed
 hull substrates, colonization was suppressed when wheat bran exceeded 50% of
-the substrate. In tropical regions, heavy nitrogen supplementation that
+the substrate. [[fukuoka-natural-farming-in-tropical-regions]], heavy nitrogen supplementation that
 increases yield in temperate areas may instead increase contamination rates.
 Each grower must find the optimal balance through trial and error based on
 local materials, climate, and species requirements.
 
 The cottonseed hull substrate demonstrates the balance well: its nutrient
-content is sufficient alone for oyster mushroom cultivation due to its
+content is sufficient alone for [[comparison-reishi-vs-oyster-mushroom-cultivation]] due to its
 relatively favorable C/N ratio, yet 5-10% rice or wheat bran is commonly
 added before sterilization to improve yields. When cottonseed hulls are
 sterilized at normal pressure rather than autoclaved, 10% bran or other
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Oyster Substrate Carbon Nitrogen Ratio finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 oyster substrate carbon nitrogen ratio and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -58,11 +58,11 @@ organism in studies of plant-pathogen-herbivore tripartite interactions.
 ## Relevance to Cultivation and Mycology
 
 - **Thistle biocontrol:** One of several insect agents used in biological control
-  programs targeting Cirsium arvense in pasture and crop systems worldwide.
+  programs targeting [[cirsium-arvense]] in pasture and crop systems worldwide.
 - **Fungal-insect interaction studies:** Reduced performance on fungus-infected
   plants illustrates how plant pathogens indirectly affect herbivore populations,
   a key concept in multitrophic interaction ecology.
-- **Integrated pest management:** Understanding how fungal infections of weeds
+- **[[integrated-pest-management]]:** Understanding how fungal infections of weeds
   alter herbivore behavior informs strategies combining pathogen releases with
   insect biocontrol agents for synergistic weed suppression.
 - **Feeding preference assays:** Commonly used in laboratory choice and no-choice
@@ -84,3 +84,8 @@ organism in studies of plant-pathogen-herbivore tripartite interactions.
 - Kruess, A. (2002). Indirect effects of a plant pathogen on herbivore
   performance. Oikos.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+## See also
+
+- [[spodoptera-frugiperda]]
+- [[biston-betularia]]
+- [[entomopathogenic-fungi]]

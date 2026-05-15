@@ -30,7 +30,7 @@ Palmer proposed that fungal toxins work by **absorption** rather than digestion:
 
 1. **Intestinal absorption**: The alkaloid enters the system through the villi of the intestinal canal. "Were we to remove every vestige of the mushroom, the system might possibly be left so charged with poison as to refuse to rally."
 
-2. **Cross-contamination**: Edible mushrooms absorb the properties of poisonous ones when stored together. "If edible and noxious toadstools be gathered together, the former will absorb the properties of the latter." He proved this by personal experience — eating common mushrooms that had been in a box with decomposing Coprinus deliquescens caused immediate symptoms.
+2. **Cross-contamination**: Edible mushrooms absorb the properties of poisonous ones when stored together. "If edible and noxious toadstools be gathered together, the former will absorb the properties of the latter." He proved this by personal experience — eating common mushrooms that had been in a box with decomposing [[coprinus-deliquescens]] caused immediate symptoms.
 
 3. **Dermal absorption**: "An Amanita held in the closed hand will produce all the symptoms of poisoning, even to convulsions." He experienced nausea from holding Amanitas in a warm, perspiring hand while traveling in a closed railway car.
 
@@ -60,7 +60,7 @@ Palmer correctly noted that one case survivor used vinegar on the toadstool befo
 - Absorption (not just ingestion) of fungal toxins is real
 
 **Where Palmer was mistaken:**
-- His "Amanitine" conflated muscarine (A. muscaria), amatoxins (A. phalloides), and ibotenic acid/muscimol — different toxins with different mechanisms
+- His "Amanitine" conflated muscarine (A. muscaria), amatoxins (A. phalloides), and [[ibotenic-acid]]/muscimol — different toxins with different mechanisms
 - Atropine antagonizes muscarine but not amatoxins (the truly deadly compounds)
 - Dermal absorption of amatoxins is not medically established
 - The "vinegar antidote" is not reliable

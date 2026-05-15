@@ -87,7 +87,6 @@ Psilocin is a **partial agonist** at 5-HT₂A serotonin receptors, densely expre
 - **NYU (2016)**: Single dose (0.3 mg/kg) produced significant reductions in anxiety and depression in cancer patients, sustained at 6.5-year follow-up
 - Participants consistently ranked the experience among the most meaningful of their lives
 
-
 ## See Also
 
 - [[psilocybin-and-psilocin-chemistry-and-pharmacology]]

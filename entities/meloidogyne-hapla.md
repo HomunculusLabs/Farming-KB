@@ -45,7 +45,7 @@ organic soils, revealing natural biocontrol potential.
   M. hapla egg masses in organic soils were infected with parasitic fungi,
   including Fusarium, Verticillium, and Alternaria species.
 - **Juvenile trapping:** The same study found 5-24% of J2 stage juveniles were
-  attacked by nematophagous fungi (Arthrobotrys, Monacrosporium), indicating
+  attacked by [[nematophagous-fungi]] (Arthrobotrys, Monacrosporium), indicating
   multi-stage natural control.
 - **Northern distribution:** M. hapla is the most cold-tolerant root-knot
   nematode species, capable of overwintering in soil in temperate regions where
@@ -75,7 +75,7 @@ organic soils, revealing natural biocontrol potential.
   species in natural soils.
 - J2 juveniles trapped by Arthrobotrys and Monacrosporium nematophagous fungi.
 - Root galls alter rhizosphere chemistry, affecting colonization by beneficial
-  microbes including mycorrhizal fungi.
+  microbes including [[mycorrhizal-fungi]].
 - Population dynamics influenced by soil type, organic matter, temperature, and
   moisture.
 
@@ -85,3 +85,8 @@ organic soils, revealing natural biocontrol potential.
   masses and juveniles in organic soils in New York. Journal of Nematology.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
 - Kerry, B. R. (1988). Fungal parasites of cyst nematodes.
+## See also
+
+- [[meloidogyne]]
+- [[verticillium-chlamydosporium]]
+- [[radopholus-similis]]

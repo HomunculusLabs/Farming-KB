@@ -22,22 +22,22 @@ Joseph Pitton de Tournefort (1656-1708) was a French botanist and mycologist not
 
 - Authored an important note dated **1707** describing the mushroom cultural operations practiced in France during his time.
 - While little was then known of the life relations of the fungal organism, Tournefort's account indicates that the **requisite conditions for successful culture were clearly appreciated** -- namely temperature, moisture, and substrate management.
-- His observations predate the common use of underground quarries (caves) for mushroom cultivation near Paris, which did not become widespread until the beginning of the 19th century.
+- His observations predate the common use of underground quarries (caves) [[grass-seed-substrate-for-mushroom-cultivation]] near Paris, which did not become widespread until the beginning of the 19th century.
 - Tournefort is best known in general botany for his system of plant classification, which preceded and influenced Linnaeus.
 - His 1707 note was later reproduced in the publication "La culture des champignons comestibles" (June 1985 reprint), pages 159-143.
 
 ## Relevance to Cultivation and Mycology
 
-Tournefort's documentation is among the earliest evidence that mushroom cultivation in France dates back to at least the early 18th century. His work provides a historical anchor for understanding how cultivation knowledge developed:
+Tournefort's documentation is among the earliest evidence that [[mushroom-cultivation-in-kenya]] France dates back to at least the early 18th century. His work provides a historical anchor for understanding how cultivation knowledge developed:
 
 1. **Historical provenance**: Establishes that mushroom growing was practiced in France during the reign of Louis XIV, confirming the deep roots of the French mushroom industry.
-2. **Early technique awareness**: Demonstrates that growers understood environmental control (temperature, moisture) even without knowledge of fungal biology.
+2. **Early technique awareness**: Demonstrates that growers understood [[cannabis-indoor-growing-environmental-control]] (temperature, moisture) even without knowledge of fungal biology.
 3. **Cultural continuity**: His observations form part of the tradition that eventually led to the Parisian cave-based mushroom industry, which became the world's largest by the 19th and early 20th centuries.
 4. **Pre-cave era**: Confirms that early cultivation occurred above ground; the transition to cave cultivation came later as a French innovation.
 
 ## Historical Context
 
-Tournefort's work places the origins of systematic mushroom cultivation firmly in France, well before similar efforts in England or the United States. The fact that his observations were detailed enough to be reproduced centuries later speaks to the care with which early French growers approached the craft. This tradition of mushroom cultivation would eventually expand into the vast limestone quarry systems beneath Paris and its suburbs, producing millions of kilograms annually by the early 20th century.
+Tournefort's work places the origins of systematic mushroom cultivation firmly in France, well before similar efforts in England or the United States. The fact that his observations were detailed enough to be reproduced centuries later speaks to the care with which early French growers approached the craft. This tradition [[historical-development-of-mushroom-cultivation]] would eventually expand into the vast limestone quarry systems beneath Paris and its suburbs, producing millions of kilograms annually by the early 20th century.
 
 ## Sources
 
@@ -72,7 +72,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tournefort finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -101,7 +101,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 tournefort and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

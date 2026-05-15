@@ -70,13 +70,13 @@ side effects. The study, though small (n=8), found complete or near-
 complete suppression of vomiting in all subjects without the
 psychotropic intensity associated with delta-9-THC treatment.
 
-Appetite stimulation has been documented in preclinical models,
+[[cannabis-for-cachexia-and-appetite-stimulation]] has been documented in preclinical models,
 consistent with CB1-mediated orexigenic signaling in the
 hypothalamus. Anxiolytic and analgesic properties have been reported
 in animal behavioral assays, though human clinical data remain
 limited. Neuroprotective effects observed in in vitro studies may
-relate to CB1 receptor-mediated reduction of glutamate excitotoxicity
-and oxidative stress pathways.
+relate to CB1 receptor-mediated reduction of [[blesching-glutamate-excitotoxicity-cannabinoid-neuroprotection]]
+[[reactive-oxygen-species-and-oxidative-stress]] pathways.
 
 ## Legal Status and Regulatory Landscape
 
@@ -89,7 +89,7 @@ enabling a commercial market for hemp-derived delta-8-THC products.
 
 The U.S. Drug Enforcement Administration issued an interpretive rule
 in 2020 clarifying that all synthetically derived tetrahydrocannabinols
-remain Schedule I controlled substances. Since commercial delta-8-THC
+remain Schedule I [[controlled-substances-act-and-psychedelic-research]]. Since commercial delta-8-THC
 is produced by chemical isomerization of CBD rather than direct
 extraction from plant material, the DEA position classifies it as a
 controlled substance analogue. Multiple states have since enacted
@@ -108,7 +108,7 @@ delta-9-THC.
 
 Concerns have been raised about product safety rather than inherent
 compound toxicity. Because delta-8-THC is typically produced through
-chemical synthesis from CBD, residual solvents, acid catalysts, and
+[[psilocin-chemical-synthesis]] from CBD, residual solvents, acid catalysts, and
 reaction byproducts may contaminate finished products if proper
 purification and quality control are not performed. The FDA has issued
 warning letters to companies marketing delta-8-THC products with
@@ -130,7 +130,7 @@ hydroxylation primarily at the 11-position by CYP2C9 and CYP3A4,
 producing 11-hydroxy-THC as the principal active metabolite. However,
 delta-8-THC may exhibit slightly slower metabolic clearance, which
 could contribute to its reported longer duration of effect relative
-to subjective intensity. The entourage effect, where multiple
+to subjective intensity. [[cannabis-terpenes-and-the-entourage-effect]], where multiple
 cannabinoids and terpenes interact synergistically, applies equally
 to delta-8-THC formulations as to full-spectrum cannabis extracts.
 

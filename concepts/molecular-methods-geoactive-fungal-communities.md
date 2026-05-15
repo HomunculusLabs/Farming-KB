@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Understanding the composition and diversity of fungal communities associated with rocks and minerals is essential for elucidating their impact on biogeochemical cycling. Traditional culture-based methods capture at most ~5% of environmental fungal species, leading to severe underestimation of community complexity. **Culture-independent molecular methods** — particularly DNA-based characterization techniques — have become indispensable for studying geomycological communities, though they come with their own biases and limitations.
+Understanding the composition and diversity of fungal communities associated with rocks and minerals is essential for elucidating their impact on [[arbuscular-mycorrhizal-phosphorus-biogeochemical-cycling]]. Traditional culture-based methods capture at most ~5% of environmental fungal species, leading to severe underestimation of community complexity. **Culture-independent molecular methods** — particularly DNA-based characterization techniques — have become indispensable for studying geomycological communities, though they come with their own biases and limitations.
 
 ## Limitations of Culture-Based Methods
 
@@ -18,7 +18,7 @@ Traditional cultivation-dependent approaches are insufficient for several reason
   - **Biotrophs** (rust and [[smut-fungi]])
   - Many **[[basidiomycetes]]**
   - **Arbuscular endomycorrhizas** (Glomales)
-  - **Rock-dwelling fungi** with low metabolic activity
+  - **Rock-dwelling fungi** with low [[arbuscule-isolation-metabolic-activity-assays]]
 - **Cultivation bias**: Growth conditions favour fast-growing, copiotrophic species, distorting community representation.
 - **Morphological identification**: Reliance on morphology of cultivable species cannot capture the inherent complexities of community dynamics in complex in situ ecosystems.
 
@@ -43,13 +43,13 @@ Standard extraction protocols use combinations of:
 
 ### Extraction Bias
 
-Even with optimized protocols, **lysis efficiency varies** between different species and between spores and mycelia. Gabor et al. (2003) compared four extraction methods (soft lysis, hard lysis, blending, cation exchange) and found significant variations in DNA recovery, emphasizing that the most effective extraction technique should be determined before any molecular community analysis.
+Even with optimized protocols, **lysis efficiency varies** between different species and between spores and mycelia. Gabor et al. (2003) compared four extraction methods (soft lysis, hard lysis, blending, cation exchange) and found significant variations in DNA recovery, emphasizing that the most effective extraction technique should be determined before any [[fungal-molecular-community-analysis]].
 
 ## PCR Amplification and Target Regions
 
 ### Target Genes
 
-Fungal community characterization typically involves PCR amplification of ribosomal RNA gene regions:
+[[fungal-community-characterization-collection-effort-curves]] typically involves PCR amplification of ribosomal RNA gene regions:
 
 | Region | Advantages | Limitations |
 |---|---|---|
@@ -129,8 +129,8 @@ Key needs for advancing geomycological community studies:
 - **More variable genetic markers**: The 18S region lacks resolution; multi-gene approaches are needed.
 - **Better fungal databases**: Expanded reference sequences for environmental comparison.
 - **Quantitative methods**: Addressing the rRNA copy number problem for accurate species quantification.
-- **Rock-specific protocols**: Optimized DNA extraction methods for mineral substrates.
-- **Integration with geochemical data**: Linking community composition to measured weathering rates and mineral transformations.
+- **Rock-specific protocols**: Optimized [[fungal-dna-extraction-methods]] for mineral substrates.
+- **Integration with geochemical data**: Linking community composition to measured weathering rates [[fungal-bioweathering-and-mineral-transformations]].
 
 ## See Also
 

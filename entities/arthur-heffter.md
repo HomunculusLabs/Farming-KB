@@ -33,7 +33,7 @@ Beyond mescaline, Heffter made several other important contributions to pharmaco
 
 ## Heffter Research Institute
 
-Heffter's contributions are commemorated by the **Heffter Research Institute**, founded in 1993 as a nonprofit organization dedicated to supporting research on psychedelic substances and their therapeutic potential. The institute, based in Santa Fe, New Mexico, funds clinical and preclinical research on psilocybin, MDMA, and other psychedelics for the treatment of conditions including depression, anxiety, PTSD, and substance use disorders.
+Heffter's contributions are commemorated by the **Heffter Research Institute**, founded in 1993 as a nonprofit organization dedicated to supporting research on [[psychedelic-substances-comparison]] and their [[metzner-ayahuasca-therapeutic-potential]]. The institute, based in Santa Fe, New Mexico, funds clinical and preclinical research on psilocybin, MDMA, and other psychedelics for the treatment of conditions including depression, anxiety, PTSD, and substance use disorders.
 
 ## Historical Significance
 
@@ -43,7 +43,7 @@ Heffter's work established several foundational principles of modern psychopharm
 2. **Dose-response**: The intensity of psychoactive effects is proportional to the dose of the active compound
 3. **Self-experimentation**: Trained researchers can safely and productively study psychoactive compounds through carefully controlled self-administration
 
-These principles directly enabled the work of later researchers including Alexander Shulgin, Albert Hofmann, and the entire field of modern psychedelic science.
+These principles directly enabled the work of later researchers including [[alexander-shulgin]], Albert Hofmann, and the entire field of modern psychedelic science.
 
 ## Death and Legacy
 
@@ -72,7 +72,7 @@ communities, and systematic experimentation to build expertise.
 ## Overview
 
 Arthur Heffter represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Arthur Heffter finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 arthur heffter and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

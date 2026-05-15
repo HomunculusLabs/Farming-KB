@@ -31,11 +31,11 @@ This is why on a hot midsummer night you can literally hear the corn growing —
 
 ### Low-Temperature Stagnation
 
-When nighttime temperatures drop much below 50F (10C), all biological chemical reactions slow dramatically. Nothing much seems to happen — plants sit virtually motionless. Even fruit will not ripen during chilly nights because ripening is itself a form of growth.
+When nighttime temperatures drop much below 50F (10C), all [[soil-health-assessment-biological-chemical-physical-indicators]] reactions slow dramatically. Nothing much seems to happen — plants sit virtually motionless. Even fruit will not ripen during chilly nights because ripening is itself a form of growth.
 
 ### Seed Germination
 
-The same temperature principle applies to seed germination:
+The same [[jadam-ambient-temperature-principle]] applies to seed germination:
 
 - Seeds that sprout in chilly soils do so slowly, often taking four to six weeks to emerge
 - The same seeds in warm soil would be up and growing in one to two weeks
@@ -80,7 +80,7 @@ The physical structure of soil — how easily it crumbles, how well it holds bot
 Tilth is influenced by:
 
 - **Organic matter content**: Decomposed organic matter acts as a binding agent, creating stable soil aggregates with plenty of pore space
-- **Mineral balance**: Proper calcium levels (from liming) help clay particles flocculate into crumbs rather than forming a solid mass
+- **[[garden-soil-fertility-mineral-balance-solomon]]**: Proper calcium levels (from liming) help clay particles flocculate into crumbs rather than forming a solid mass
 - **Avoidance of compaction**: Minimizing working of wet soil, reducing foot traffic in growing areas, and avoiding excessive rototilling
 - **Biological activity**: Earthworms and other soil organisms create channels and burrows that improve aeration and drainage
 
@@ -95,14 +95,14 @@ After tilling or digging, the soil surface is damp. But after the sun dries the 
 This principle has profound implications:
 
 - **Seed placement**: Seeds need to be in contact with moist soil through capillarity to germinate reliably
-- **Surface cultivation**: Breaking the capillary connection to the soil surface (through hoeing or raking) can reduce moisture loss from deeper soil layers
+- **[[jeavons-surface-cultivation-technique]]**: Breaking the capillary connection to the soil surface (through hoeing or raking) can reduce moisture loss from deeper soil layers
 - **Mulching**: A mulch layer breaks capillary continuity, reducing evaporation from the soil surface
 - **Watering strategy**: Understanding capillarity helps gardeners water more effectively and potentially grow crops without irrigating at all
 
 ## Practical Implications
 
 1. **Plant heat-loving crops only when soil temperature is adequate** — use a soil thermometer to confirm
-2. **Improve soil structure** to maximize both oxygen availability and moisture retention through proper organic matter management
+2. **[[query-how-do-fungi-improve-soil-structure]]** to maximize both oxygen availability and moisture retention through proper organic matter management
 3. **Avoid working soil when wet** — this destroys tilth, compacts the soil, and eliminates the air spaces roots need
 4. **Monitor soil temperature in spring** before planting — air temperature alone is misleading
 5. **Consider raised beds** to accelerate soil warming in cool climates
@@ -116,5 +116,5 @@ Soil temperature and oxygen are not secondary concerns — they are foundational
 
 - [[soil-fertility-gradient-approach]]
 - [[clay-soil-management]]
-- garden tools and techniques
+- garden [[levelling-tools-and-techniques]]
 - plow pans and soil compaction

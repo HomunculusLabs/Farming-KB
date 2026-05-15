@@ -65,7 +65,7 @@ on top of established terraces. This layered approach maximizes water
 retention and soil fertility on each platform while benefiting from the
 structural stability and drainage management of the terrace system.
 Terraces provide the stable foundation, while hugelkultur beds add
-biological activity and organic matter, creating a synergistic system
+biological activity [[mollison-humus-and-organic-matter-in-soils]], creating a synergistic system
 that outperforms either technique alone.
 
 ## See Also
@@ -75,8 +75,8 @@ that outperforms either technique alone.
 
 ## Overview
 
-Comparison Hugelkultur Vs Terracing represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[comparison-hugelkultur-vs-chinampas]] Terracing represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Comparison Hugelkultur Vs Terracing finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 comparison hugelkultur vs terracing and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -131,7 +131,7 @@ Mostly in the northeastern United States, though it feeds on many kinds of plant
 1. **Healthy soil grows healthy plants** — the single most important factor
 2. **Foliar feeding** with fish emulsion and kelp gives plants a boost when under attack
 3. **Diverse plantings** spread risk — don't put all your brassicas in one spot
-4. **Beneficial insect habitat** provides natural pest control
+4. **[[beneficial-insect-habitat]]** provides natural pest control
 5. **Timely planting** avoids peak pest emergence windows
 6. **Resistant varieties** when available — some brassica varieties show root maggot resistance
 

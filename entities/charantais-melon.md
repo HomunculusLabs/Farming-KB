@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Charantais melon (*[[cucumis-melo]]* var. *cantalupensis*) is a small, deeply ribbed French melon prized for its intensely aromatic, sweet flesh. In [[eliot-coleman]]'s [[winter-harvest-system]], Charantais melons serve as a summer rotation crop in the movable greenhouse cycle, following winter-harvested carrots and spring baby potatoes. Their inclusion demonstrates the economic principle of using protected structures for high-value heat-loving crops during summer months.
+The Charantais melon (*[[cucumis-melo]]* var. *cantalupensis*) is a small, deeply ribbed French melon prized for its intensely aromatic, sweet flesh. In [[eliot-coleman]]'s [[winter-harvest-system]], Charantais melons serve as a summer rotation crop in the [[movable-greenhouse]] cycle, following winter-harvested carrots and spring baby potatoes. Their inclusion demonstrates the economic principle of using protected structures for high-value heat-loving crops during summer months.
 
 ## Classification
 
@@ -32,20 +32,20 @@ The Charantais melon originates from the Charentes region of western France, whe
 ### Growing Requirements
 
 - **Temperature**: Requires warm growing conditions; thrives at 75-85F (24-29C)
-- **Soil**: Rich, well-drained soil with high organic matter content
+- **Soil**: Rich, well-drained soil with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content
 - **Water**: Consistent moisture during growth; reduced near harvest for sweetness
 - **Light**: Full sun; benefits from the enhanced light in greenhouse environments
 - **Days to maturity**: Approximately 75-90 days from transplanting
 
 ### Greenhouse Performance
 
-In Coleman's movable greenhouse rotation, Charantais melons are transplanted in late May following the harvest of baby new potatoes. The greenhouse environment provides warmth for rapid growth, protection from cool nights, trellising capability from overhead supports, and an extended season for ripening.
+In Coleman's movable [[coleman-mobile-greenhouse-rotation-design-two-three-four-plot-systems]], Charantais melons are transplanted in late May following the harvest of baby new potatoes. The greenhouse environment provides warmth for rapid growth, protection from cool nights, trellising capability from overhead supports, and an extended season for ripening.
 
 ## Relevance to Cultivation
 
 ### Crop Rotation Role
 
-The Charantais melon plays a specific role in the four-season rotation cycle of movable greenhouses:
+The Charantais melon plays a specific role in the four-season rotation cycle of [[movable-greenhouses]]:
 
 1. **Winter**: Cold-house carrot crop (harvested by March 15)
 2. **Spring**: Baby new potatoes (planted March 15, harvested by late May)
@@ -70,9 +70,9 @@ The greenhouse environment allows Charantais melons to be grown reliably in Main
 
 ## Relationship to Other Concepts
 
-- **Movable greenhouse**: The infrastructure that enables Charantais production in cold climates
+- **Movable greenhouse**: The infrastructure that enables Charantais production [[query-how-do-i-grow-figs-in-cold-climates]]
 - **Crop rotation**: Charantais melons as a summer phase in the four-season rotation
-- **Cool house / cold house**: The same structure serves different temperature regimes by season
+- **Cool house / cold house**: The same structure serves different [[desert-temperature-regimes-and-soil-chemistry]] by season
 - **Tomatoes and peppers**: Other heat-loving summer crops in the greenhouse rotation
 - **Baby new potatoes**: The spring crop preceding Charantais melons in the rotation
 

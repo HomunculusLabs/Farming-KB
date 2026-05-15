@@ -1,5 +1,5 @@
 ---
-title: Evaporative Demand as a Unified Four-Factor Model for Mushroom Tropism
+title: [[evaporative-demand-and-fungal-growth]] as a Unified Four-Factor Model for [[closed-circuit-wind-tunnel-design-mushroom-tropism-badham-1982]]
 source: raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md
 author: Edmond R. Badham (1982)
 topic: mycology, tropism, mushroom physiology
@@ -85,7 +85,7 @@ the active signaling agent. In this view:
 - The differential distribution of water vapor concentration around the stipe
   creates a chemical gradient that individual stipe cells can perceive
 - Cells on the high-evaporation side respond by altered growth rates
-- This is analogous to the ethylene involvement fungal tropism avoidance response tropism avoidance response in *Phycomyces blakesleeanus*,
+- This is analogous to the [[ethylene-involvement-fungal-tropism-avoidance-response]] tropism avoidance response tropism avoidance response in *Phycomyces blakesleeanus*,
   where sporangiophores grow away from high-humidity barriers
 
 Russo et al. (1975) further suggested that ethylene might be involved in the
@@ -100,7 +100,7 @@ Several observations complicate the evaporative demand model:
    still exhibits anemotropic curvature during Stages 1-2, suggesting the two
    tropisms operate through distinct pathways.
 
-3. **Light has at least four documented roles** in acropetal cell expansion stipe elongation mushroom development stipe elongation [[fungal-tropisms-and-gravitropic-responses]] provides useful comparisons:
+3. **Light has at least four documented roles** in [[acropetal-cell-expansion-stipe-elongation-mushroom-development]] stipe elongation [[bloomfield-mushroom-development-without-meristems]] stipe elongation [[fungal-tropisms-and-gravitropic-responses]] provides useful comparisons:
 
 - *Phycomyces* shows both anemotropism and an avoidance response (Cohen et al.,
   1975), paralleling the dual tropism phases in *P. cubensis*
@@ -119,7 +119,7 @@ tropic distortion of developing fruitbodies.
 
 ## References
 
-- Badham, E.R. (1982). Tropisms in the mushroom *Psilocybe cubensis*.
+- Badham, E.R. (1982). Tropisms in the mushroom *[[anemotropism-in-psilocybe-cubensis]]*.
   Mycologia, 74(2), 275-279.
 - Johnson, D.L. and Gamow, R.I. (1971). The avoidance response in *Phycomyces*.
   J. Gen. Physiol. 57, 41-49.

@@ -1,12 +1,12 @@
 ---
-title: Acidifying Pollutants, Mycorrhizae, and Plant Nutrient Uptake
+title: [[acidifying-pollutants-mycorrhizae]], Mycorrhizae, and Plant Nutrient Uptake
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
 # Acidifying Pollutants, Mycorrhizae, and Plant Nutrient Uptake
 
-Acidifying pollutants from atmospheric deposition exert profound effects on mycorrhizal symbioses and plant nutrient acquisition. The mechanisms involve both direct toxicity to fungal structures and indirect effects through altered soil chemistry and host plant physiology.
+Acidifying pollutants from atmospheric deposition exert profound [[faunal-grazing-effects-on-mycorrhizal-function]] symbioses and plant nutrient acquisition. The mechanisms involve both direct toxicity to fungal structures and indirect effects through altered soil chemistry and host plant physiology.
 
 ## Critical Loads and Assessment Methods
 
@@ -50,7 +50,7 @@ Ectomycorrhizal fungal species vary enormously in their tolerance to aluminum to
 | Fungal Species | Al Tolerance | Response to Acidification |
 |---|---|---|
 | *Suillus* spp. | Very high | No growth reduction below 1000 mM Al |
-| *Cenococcum geophilum* | Low-Moderate | Growth suppressed at 146 mM Al; but can increase in polluted stands due to stress tolerance of sclerotia |
+| *[[cenococcum-geophilum]]* | Low-Moderate | Growth suppressed at 146 mM Al; but can increase in polluted stands due to stress tolerance of sclerotia |
 | *Pisolithus* spp. | Low | Growth suppressed at 146 mM Al |
 | *Thelephora* spp. | Low | Growth suppressed at 146 mM Al |
 
@@ -64,7 +64,7 @@ A key detoxification mechanism was identified by **Kottke & Oberwinkler (1990)**
 
 In a field fumigation experiment by **McLeod et al. (1992)**, SO₂ and O₃ were released over circular plots containing monospecific stands of Scots pine, Sitka spruce, and Norway spruce. Key findings:
 
-- **Shaw et al. (1992, 1993)** found that only SO₂ fumigation of Scots pine significantly altered mycorrhizal community structure, reducing *Paxillus involutus* mycorrhizae on roots
+- **Shaw et al. (1992, 1993)** found that only SO₂ fumigation of Scots pine significantly altered mycorrhizal community structure, reducing *[[paxillus-involutus]]* mycorrhizae on roots
 - Paradoxically, *Paxillus involutus* fruit bodies were more abundant in high-SO₂ Scots pine plots — the opposite of the root colonization pattern
 - This discrepancy highlights the disconnect between aboveground fruiting and belowground colonization
 
@@ -99,8 +99,8 @@ The response of root systems to nitrogen addition varies with initial N status:
 
 ### Mycelial Growth and Physiology Under Elevated N
 
-- **Arnebrant (1994)** showed that ammonium sulfate and ammonium nitrate at 1–4 mg g⁻¹ peat significantly reduced mycelial growth of *Paxillus involutus* and *Suillus bovinus* on lodgepole pine seedlings
-- **Kieliszewska-Rokicka (1992)** found that small amounts of NH₄-N (0.17–19 mM) increased both growth and acid phosphatase activity of *Paxillus involutus* mycelia — possibly a synergistic effect where additional N induces temporary P deficiency, stimulating phosphatase production via positive feedback
+- **Arnebrant (1994)** showed that ammonium sulfate and [[plant-available-nitrogen-ammonium-nitrate]] at 1–4 mg g⁻¹ peat significantly reduced mycelial growth of *Paxillus involutus* and *Suillus bovinus* on lodgepole pine seedlings
+- **Kieliszewska-Rokicka (1992)** found that small amounts of NH₄-N (0.17–19 mM) increased both growth and acid [[mycorrhizal-phosphatase-activity-elf97-detection]] of *Paxillus involutus* mycelia — possibly a synergistic effect where additional N induces temporary P deficiency, stimulating phosphatase production via positive feedback
 - **Wallander et al. (1999)** demonstrated that fungal isolates with inherently high NH₄ uptake affinity had N uptake rates more inhibited by elevated N than low-affinity isolates, suggesting that low uptake rates may enable ectomycorrhizal fungi to avoid stress from elevated nitrogen loading
 
 ### Phosphorus Availability Under Acidification
@@ -119,7 +119,7 @@ However, **Johansson (2000)** found no significant effects of adding ammonium ni
 
 ## See Also
 
-- [[Fungal-Interactions-with-Humans]] — overview of human-fungal interactions
-- [[Acidifying-Pollutants-and-Saprotrophic-Fungal-Activity]] — effects on decomposition fungi
-- [[Nitrogen-Deposition-and-Ectomycorrhizal-Community-Structure]] — N deposition effects on fungal community composition
-- [[Ectomycorrhizal-Diversity-and-Ecosystem-Function]] — diversity-function relationships
+- [[fungal-interactions-with-humans]] — overview of human-fungal interactions
+- [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]] — effects on decomposition fungi
+- [[nitrogen-deposition-ectomycorrhizal-community-structure]] — N deposition effects on fungal community composition
+- [[ectomycorrhizal-diversity-ecosystem-function]] — diversity-function relationships

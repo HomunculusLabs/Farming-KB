@@ -7,12 +7,12 @@ tags: [folk-illness, anthropology, peru, amazon, healing]
 
 ## Description
 
-Mal de Ojo ("evil eye") is a folk illness found throughout Peru and Latin America, caused by the magical action of one person's glance upon another -- not necessarily with evil intentions, though it can be motivated by envy. The condition is especially common among children whose personal attraction may catch the evil eye. It is documented by Valdivia (1964) and recognized alongside [[susto]], dano, and pulsario as one of the major categories of magical illness in the Peruvian Amazon.
+Mal de Ojo ("evil eye") is a folk illness found throughout Peru and Latin America, caused by the magical action of one person's glance upon another -- not necessarily with evil intentions, though it can be motivated by envy. The condition is especially common among children whose personal attraction may catch the evil eye. It is documented by Valdivia (1964) and recognized alongside [[susto]], dano, and pulsario as one of the major categories of [[dano-magical-illness]] in the Peruvian Amazon.
 
 ## Classification
 
 - **Type:** Folk illness / culture-bound syndrome
-- **Geographic distribution:** Throughout Latin America, Mediterranean regions, and globally across many cultures
+- **[[geographic-distribution-of-psilocybe-species]]:** Throughout Latin America, Mediterranean regions, and globally across many cultures
 - **Primary demographic:** Especially common in children
 - **Causation model:** Magical -- caused by the power of a person's gaze
 - **Alternative names:** Evil eye, evil eye syndrome
@@ -33,7 +33,7 @@ Mal de Ojo ("evil eye") is a folk illness found throughout Peru and Latin Americ
 
 ## Relevance to Cultivation and Mycology
 
-Mal de ojo is part of the illness taxonomy that structures ayahuasca healing in the Peruvian Amazon. While it is not always treated with ayahuasca directly (mothers' preventive rituals with tobacco smoke and amulets are the first line of defense), severe or persistent cases may be brought to an ayahuasquero for treatment. The condition highlights the role of tobacco (Nicotiana tabacum) as a ritual plant with protective and exorcistic properties in Amazonian folk medicine. For cultivators and researchers, mal de ojo illustrates how plant-based healing traditions address not only acute conditions but also everyday anxieties about children's health, demonstrating the pervasiveness of magical thinking in Amazonian health culture. The preventive use of tobacco smoke connects to broader patterns of ritual plant use in the Amazon.
+Mal de ojo is part of the illness taxonomy that structures [[ayahuasca-healing-ceremonies-iquitos]] in the Peruvian Amazon. While it is not always treated with ayahuasca directly (mothers' preventive rituals with tobacco smoke and amulets are the first line of defense), severe or persistent cases may be brought to an ayahuasquero for treatment. The condition highlights the role of tobacco (Nicotiana tabacum) as a ritual plant with protective and exorcistic properties in Amazonian folk medicine. For cultivators and researchers, mal de ojo illustrates how plant-based healing traditions address not only acute conditions but also everyday anxieties about children's health, demonstrating the pervasiveness of magical thinking in Amazonian health culture. The preventive use of tobacco smoke connects to broader patterns of ritual plant use in the Amazon.
 
 ## Preventive and Treatment Practices
 
@@ -41,7 +41,7 @@ Mal de ojo is part of the illness taxonomy that structures ayahuasca healing in 
 - Daily exorcism with tobacco smoke performed by mothers
 - For severe cases, consultation with an ayahuasquero for ritual treatment
 - Ayahuasca visions may help identify the person whose gaze caused the affliction
-- Traditional healing techniques including whistling, singing, and blowing smoke over the patient
+- Traditional [[vegetalista-healing-techniques-and-plant-medicines]] including whistling, singing, and blowing smoke over the patient
 - The use of a narcotic-like tobacco (possibly Nicotiana tabacum) in exorcistic rituals
 
 ## Global Parallels
@@ -87,7 +87,7 @@ In the Amazonian folk illness system, the gaze carries enormous power. A person'
 ## References
 
 - Valdivia, 1964 -- documentation of mal de ojo symptoms in Peru.
-- Dobkin de Rios, Marlene. "Curing with Ayahuasca in an Urban Slum" in Harner, M. J. (ed.), Hallucinogens and Shamanism.
+- Dobkin de Rios, Marlene. "[[curing-with-ayahuasca-urban-iquitos]] in an Urban Slum" in Harner, M. J. (ed.), [[hallucinogens-and-shamanism-harner-anthology]].
 - The condition is documented across indigenous, mestizo, and campesino populations throughout Latin America.
 ## See Also
 - [[nicotiana-tabacum]]

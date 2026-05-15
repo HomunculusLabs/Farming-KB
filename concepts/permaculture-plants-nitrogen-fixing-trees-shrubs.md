@@ -15,7 +15,7 @@ desirable.
 The pea family provides the largest number of nitrogen-fixing trees and shrubs for
 Permaculture use. Key genera include:
 
-- **Tagasaste (Chamaecytisus palmensis)**: Canary Island native; one of the most
+- **Tagasaste ([[chamaecytisus-palmensis]])**: Canary Island native; one of the most
   useful pioneer species. Grows to 7m on 300mm rainfall. Crude protein 17-31% in
   foliage. The nitrogen-fixing bacteria is usually present in soil from other
   Acacia, Albizia, and Cassia species. Rock phosphate at planting improves
@@ -62,13 +62,13 @@ Casuarinas form a symbiosis with Frankia, a bacteria-like organism that infects
 root hairs and enables atmospheric nitrogen use. About 80 species exist, mostly
 native to Australia:
 
-- **Casuarina equisetifolia (Horsetail Tree)**: Small tree to 16m, at home in sand
+- **[[casuarina-equisetifolia]] (Horsetail Tree)**: Small tree to 16m, at home in sand
   dunes. One of the best firewoods (calorific value ~4950 kcal/kg), burns even
   when green. Bark contains 6-18% tannin. Vanilla growers in Brazil use it as a
   companion because soil beneath remains moist—condensed from air moisture on
   needles and twigs.
 
-- **Casuarina cunninghamiana (River Sheoak)**: Largest Australian casuarina at
+- **[[casuarina-cunninghamiana]] (River Sheoak)**: Largest Australian casuarina at
   20-35m, occurring along watercourses (500-1500mm rainfall). Very good firewood
   with dark red to purplish-brown timber (density 900 kg/m³).
 
@@ -87,7 +87,7 @@ designed ecosystems and agricultural systems.
 
 ## Key Characteristics
 
-Several defining characteristics distinguish permaculture plants nitrogen fixing trees shrubs
+Several defining characteristics distinguish permaculture plants [[nitrogen-fixing-trees]] shrubs
 from related concepts in permaculture and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Permaculture Plants Nitrogen Fixing Trees Shrubs finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 permaculture plants nitrogen fixing trees shrubs and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

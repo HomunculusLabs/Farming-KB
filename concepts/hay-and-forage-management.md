@@ -37,7 +37,7 @@ feed inputs.
   and horses in work. Can cause bloat if fed as the sole forage to cattle
   and sheep.
 - **Clover hay (red/white):** 12-18% protein. Good quality, but [[red-clover]]
-  can cause reproductive issues in sheep (phytoestrogens). White clover is
+  can cause reproductive issues in sheep (phytoestrogens). [[fukuoka-white-clover-cover-crop-system]] is
   lower-yielding but excellent quality.
 - **Birdsfoot Trefoil:** 12-16% protein. Non-bloating legume. Tolerates
   wet and acid soils. Good for sheep and cattle pastures and hay.
@@ -130,13 +130,13 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 - Store on pallets or gravel floor (never directly on concrete or dirt).
 - Stack with adequate ventilation between bales.
 - Barn-stored hay retains quality for 2-3 years.
-- Ideal temperature: below 70°F. Monitor for heating in the first 2 weeks
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: below 70°F. Monitor for heating in the first 2 weeks
   after baling.
 
 ### Outdoor Storage
 - Net-wrapped round bales stored outside lose 10-20% of dry matter in the
   outer 4-6 inches.
-- Store bales on gravel or raised racks (never on bare ground).
+- Store bales on gravel or raised racks (never on [[savory-bare-ground-and-soil-exposure]]).
 - Line bales up end-to-end (not in pyramid) in a well-drained area.
 - Store north-south to maximize sun exposure and drying on both sides.
 - Use bales stored outside first (oldest first, FIFO system).
@@ -147,4 +147,4 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
 - [[poultry-forage-days-mollison]]
 - [[tropical-forage-legumes]]
-- integrated poultry forage systems zone two
+- [[integrated-poultry-forage-systems-zone-two]] systems zone two

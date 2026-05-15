@@ -9,7 +9,7 @@ tags: [concept, intensive-farming, land-use, season-extension, eliot-coleman]
 
 ## Description
 
-The "hidden farm" is a conceptual framework developed by Eliot Coleman to describe the productive potential of land that is currently lying fallow or unused on an existing farm. Whenever a section of land is empty of crops and something could have been growing there, that represents the hidden farm — unrealized productive capacity hidden in plain sight. The concept drives Coleman's approach to intensive, year-round cropping and is the philosophical engine behind his innovations in season extension, mobile greenhouses, quick hoops, and succession planting.
+The "hidden farm" is a [[holmgren-permaculture-flower-conceptual-framework]] developed by Eliot Coleman to describe the productive potential of land that is currently lying fallow or unused on an existing farm. Whenever a section of land is empty of crops and something could have been growing there, that represents the hidden farm — unrealized productive capacity hidden in plain sight. The concept drives Coleman's approach to intensive, year-round cropping and is the philosophical engine behind his innovations in season extension, mobile greenhouses, quick hoops, [[crop-rotation-and-succession-planting]].
 
 ## Classification
 
@@ -71,7 +71,7 @@ The hidden farm concept connects to Henry Dreer's 1896 admonition: "Work the laz
 
 - Concept originated by Eliot Coleman at Four Season Farm
 - Driven by limited land base (~1.5 cultivated acres)
-- Achieved nearly double expected yields per acre through intensive cropping
+- Achieved nearly double expected yields per acre through [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]]
 - Extended sales season by approximately 2.5 months using season extension
 - Eliminated most dedicated green manure periods in favor of continuous cropping
 - Enabled by mobile greenhouses, quick hoops, and close spacing techniques
@@ -80,11 +80,11 @@ The hidden farm concept connects to Henry Dreer's 1896 admonition: "Work the laz
 
 ## Relevance to Cultivation and Horticulture
 
-The hidden farm concept is broadly applicable to any small-scale growing operation where land is limited and expensive. The principle — identify every moment when land is unproductive and find a way to make it productive — drives innovations in succession planting, intercropping, and season extension that benefit growers in any climate and at any scale. For urban agriculture, community gardens, and small market farms, the concept provides a framework for thinking about land use that can dramatically increase output without expanding the land base. The concept also challenges the assumption that rest periods (green manures) are always necessary — Coleman's experience suggests that continuous production with adequate compost inputs can maintain soil fertility while generating more revenue.
+The hidden farm concept is broadly applicable to any small-scale growing operation where land is limited and expensive. The principle — identify every moment when land is unproductive and find a way to make it productive — drives innovations in succession planting, intercropping, [[greenhouse-gardening-and-season-extension]] that benefit growers in any climate and at any scale. For urban agriculture, community gardens, and small market farms, the concept provides a framework for thinking about land use that can dramatically increase output without expanding the land base. The concept also challenges the assumption that rest periods (green manures) are always necessary — Coleman's experience suggests that continuous production with adequate compost inputs can maintain soil fertility while generating more revenue.
 
 ## Source
 
-Eliot Coleman, *The Winter Harvest Handbook* (Chelsea Green, 2009), Chapters on Greenhouse Design and Year-Round Intensive Cropping.
+Eliot Coleman, *The [[eliot-coleman-and-the-winter-harvest-handbook]]* (Chelsea Green, 2009), Chapters on [[coleman-mobile-greenhouse-design-and-operation]] Year-Round Intensive Cropping.
 ## See also
 
 - [[marketing-economics-small-scale-farms]]

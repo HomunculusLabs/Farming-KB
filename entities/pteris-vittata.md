@@ -13,9 +13,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Ma, L.Q. et al. (2001). "A fern that hyperaccumulates arsenic." Nature 409: 579.
-  - Singh, N. et al. (2006). "Arsenic tolerance and accumulation in Pteris vittata." Environmental Pollution 143: 261–267.
+  - Singh, N. et al. (2006). "Arsenic tolerance and accumulation in Pteris vittata." [[bloomfield-environmental-pollution-overcollection-impact-fungi]] 143: 261–267.
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora of North America, Vol. 2.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora [[huckleberries-and-wild-berries-of-north-america]], Vol. 2.
   - Jones, D.L. (1998). "Encyclopaedia of Ferns." Timber Press.
 ---
 
@@ -23,7 +23,7 @@ sources:
 
 **Pteris vittata** L., commonly known as the Chinese brake fern or ladder fern, is a perennial fern in the family Pteridaceae. It is best known as the first identified arsenic hyperaccumulator, capable of concentrating arsenic in its fronds to concentrations exceeding 2% of dry weight.
 
-The species is native to subtropical and tropical regions of Asia and has become widely naturalized across the Americas, Africa, and the Pacific Islands. Its ornamental value and aggressive growth habit have contributed to its global spread as both a cultivated and invasive species.
+The species is native to subtropical and [[fukuoka-natural-farming-in-tropical-regions]] of Asia and has become widely naturalized across the Americas, Africa, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. Its ornamental value and aggressive growth habit have contributed to its global spread as both a cultivated and invasive species.
 
 Discovered as an arsenic hyperaccumulator in 2001 by a research team at the University of Florida, P. vittata has since become a model organism for [[phytoremediation]] research. The discovery opened new avenues for using plants to clean arsenic-contaminated soils and groundwater.
 
@@ -47,7 +47,7 @@ Spores are tetrahedral, 35–45 µm in diameter, with a prominently verrucate ex
 
 P. vittata is native to southern China, Japan, Korea, Taiwan, the Indian subcontinent, and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to Brazil, as well as in Africa, Australia, and numerous Pacific Islands. Naturalized populations often establish on disturbed ground near human settlements.
 
-Natural habitats include forest margins, rocky slopes, road cuts, stream banks, and abandoned agricultural land. The fern shows strong preference for calcareous soils and is frequently found growing on limestone outcrops and mortared walls.
+[[mushroom-natural-habitats]] include forest margins, rocky slopes, road cuts, stream banks, and abandoned agricultural land. The fern shows strong preference for calcareous soils and is frequently found growing on limestone outcrops and mortared walls.
 
 In subtropical Florida, where it was first documented in the wild in the 1920s, P. vittata has become naturalized in hammocks, shell middens, and disturbed sites throughout the peninsula. It is considered invasive in parts of its introduced range.
 
@@ -73,7 +73,7 @@ Phytochemical studies have identified several [[query-what-are-the-main-bioactiv
 
 The arsenic hyperaccumulation capacity raises questions about the safety of traditional medicinal preparations. Arsenic concentrations in fronds collected from uncontaminated soils are typically below 10 mg/kg, well within safe limits for occasional use.
 
-Modern pharmacological research has focused primarily on the arsenic transport mechanisms rather than the fern's direct therapeutic potential. No pharmaceutical products derived from P. vittata are currently in clinical development.
+Modern pharmacological research has focused primarily on the arsenic transport mechanisms rather than the fern's direct [[metzner-ayahuasca-therapeutic-potential]]. No pharmaceutical products derived from P. vittata are currently in clinical development.
 
 ## Cultivation and Invasive Potential
 

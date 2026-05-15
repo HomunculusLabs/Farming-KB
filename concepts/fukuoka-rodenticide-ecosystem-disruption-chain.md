@@ -64,7 +64,7 @@ consequences illustrates the insanity of intervening in natural
 systems without understanding their full complexity.
 
 ## Pesticide Application on [[fukuoka-natural-farming]]
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]] for more on Query What Is The Soil Food Web And Why Does It Matter.
+- [[query-what-is-the-soil-food-web-and-why-does-it-matter]] for more on Query What Is [[the-soil-food-web]] And Why Does It Matter.
 See [[det]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[ectomycorrhizal-fungi]]

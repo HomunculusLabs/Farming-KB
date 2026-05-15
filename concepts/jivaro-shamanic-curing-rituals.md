@@ -136,7 +136,6 @@ birds, identifying bewitchers, and constructing rainbow bridges. Without it,
 the supernatural dimension is inaccessible — the pharmacological prerequisite
 for all shamanic agency.
 
-
 ## See Also
 
 - [[jivaro-shamanic-apprenticeship]]

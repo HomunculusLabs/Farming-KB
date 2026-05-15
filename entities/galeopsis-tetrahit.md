@@ -59,7 +59,7 @@ Internally, the herb was used as an astringent for diarrhea, dysentery, and exce
 
 Anti-inflammatory activity has been confirmed in vitro, with extracts inhibiting COX-2, TNF-α, and IL-6 production in stimulated macrophage models. The iridoid glycosides are the primary anti-inflammatory constituents.
 
-Antioxidant activity is among the best-documented pharmacological properties. Methanolic extracts show potent DPPH and ABTS radical scavenging, with activity comparable to standard antioxidants including ascorbic acid and Trolox.
+Antioxidant activity is among the best-documented [[lsd-discovery-aftermath-pharmacological-properties]]. Methanolic extracts show potent DPPH and ABTS radical scavenging, with activity comparable to standard antioxidants including ascorbic acid and Trolox.
 
 The European Medicines Agency HMPC has recognized the traditional use of Galeopsis tetrahit herb for minor wound healing and as a mild astringent. The community monograph specifies minimum quality requirements for dried herbal material.
 
@@ -70,7 +70,7 @@ In Scandinavian folk tradition, the herb was used as a tea for respiratory compl
 ## Overview
 
 Galeopsis Tetrahit represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -91,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Galeopsis Tetrahit finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -99,13 +99,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for galeopsis tetrahit. Climate adaptation
+opportunities for galeopsis tetrahit. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -120,7 +120,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 galeopsis tetrahit and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

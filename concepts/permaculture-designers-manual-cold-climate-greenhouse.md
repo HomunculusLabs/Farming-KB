@@ -7,7 +7,7 @@ tags: [permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Cold Climate Greenhouse updated: 2026-04-18 From: [[comparison-composting-toilets-vs-greywater-systems-detailed]] or animal pens, when properly treated through biological filtration systems, can supply both water and nutrients to greenhouse crops.
-The integration of water storage, thermal mass, and nutrient recycling exemplifies the permaculture principle of each element performing multiple functions.
+The integration of water storage, thermal mass, and nutrient recycling exemplifies the [[permaculture-principle-1-observe-interact]] of each element performing multiple functions.
 
 ## Climate-Specific Crop Selection
 
@@ -79,8 +79,8 @@ The greatest value from this topic often comes through integration
 
 ## Overview
 
-Permaculture Designers Manual Cold Climate Greenhouse represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[bill-mollison-permaculture-designers-manual]] Cold Climate Greenhouse represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Permaculture Designers Manual Cold Climate Greenhouse finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 permaculture designers manual cold climate greenhouse and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context
@@ -142,7 +142,7 @@ current understanding and implementation strategies.
 
 ## Integration Strategies
 
-Successful integration of permaculture designers manual cold climate greenhouse into broader
+Successful integration [[preface-and-author-context-of-permaculture-designers-manual]] manual cold climate greenhouse into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.

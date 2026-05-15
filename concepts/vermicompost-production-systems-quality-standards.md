@@ -1,5 +1,5 @@
 ---
-title: Vermicompost Production Systems Quality Standards
+title: Vermicompost Production Systems [[aact-compost-quality-standards-ingham]]
 category: composting
 source: general-knowledge
 mined: 2026-05-10
@@ -11,14 +11,14 @@ aliases: [vermicomposting-guide, worm-bin-production, vermicast-production, comm
 
 ## Overview
 
-[[vermicomposting]] is the mesophilic, aerobic process of using epigeic earthworms to transform organic waste into a stable, nutrient-rich soil amendment called vermicompost (also vermicast or worm castings). The process combines the digestive action of earthworms with the [[cannabis-rhizosphere-microbial-communities]] in the worm gut and the surrounding substrate. Vermicompost differs from traditional thermophilic composting in temperature regime, processing time, microbial ecology, and the resulting product characteristics.
+[[vermicomposting]] is the mesophilic, aerobic process of using epigeic earthworms to transform organic waste into a stable, nutrient-rich soil amendment called vermicompost (also vermicast or worm castings). The process combines the digestive action of earthworms with the [[cannabis-rhizosphere-microbial-communities]] in the worm gut and the surrounding substrate. Vermicompost differs from traditional thermophilic composting in temperature regime, processing time, [[fukuoka-microbial-ecology-decomposition]], and the resulting product characteristics.
 
 ## Earthworm Species for Vermicomposting
 
 ### Epigeic Species
 Only epigeic (surface-dwelling, litter-feeding) earthworms are suitable for vermicomposting:
 
-- **Eisenia fetida** (red wiggler, tiger worm): The most widely used species worldwide. Tolerant of handling, disturbance, and a wide range of environmental conditions. Optimal temperature: 15-25°C. Processing rate: approximately 0.5-1.0 kg of feedstock per kg of worms per day.
+- **[[eisenia-fetida]]** (red wiggler, tiger worm): The most widely used species worldwide. Tolerant of handling, disturbance, and a wide range of environmental conditions. Optimal temperature: 15-25°C. Processing rate: approximately 0.5-1.0 kg of feedstock per kg of worms per day.
 - **Eisenia andrei** (red tiger): Very similar to E. fetida, often considered a subspecies. Slightly larger, more prolific, and equally tolerant. Often sold interchangeably.
 - **Perionyx excavatus** (Indian blue, Malaysian blue): Tropical species suited for warm, humid conditions. More sensitive to cold and handling than Eisenia species. Processing rate comparable to or slightly higher than E. fetida.
 - **Eudrilus eugeniae** (African nightcrawler): Larger tropical species with high processing rates. Optimal temperature: 25-30°C. Less cold-tolerant than Eisenia species. Prone to migration and escape in unsuitable conditions.
@@ -52,7 +52,7 @@ Only epigeic (surface-dwelling, litter-feeding) earthworms are suitable for verm
 - Vertical system with worms in a deep bed; finished vermicompost is scraped off the bottom through a bar grate.
 - Footprint: 60 × 60 cm or larger. Capacity: 5-15 kg of food waste per week.
 - Advantages: No need to separate worms from castings, continuous production, minimal disturbance.
-- Disadvantages: Higher initial cost, requires more careful moisture management.
+- Disadvantages: Higher initial cost, requires more careful [[mushroom-bed-moisture-management]].
 
 **Single-Bin Systems (Plastic tote or wooden box):**
 - Simple container with drainage holes, filled with bedding and feedstock.
@@ -83,7 +83,7 @@ Only epigeic (surface-dwelling, litter-feeding) earthworms are suitable for verm
 - Above 30°C: Stress increases, worms migrate or die. Above 35°C: Lethal.
 - [[cervantes-reservoir-temperature-management]]: shade in summer, insulation or heated indoor space in winter.
 ### Moisture
-- Optimal: 70-85% (vermicompost holds more water than traditional compost).
+- Optimal: 70-85% (vermicompost holds more water than [[query-what-is-the-difference-between-vermicompost-and-traditional-compost]]).
 - Below 60%: Worms lose water through skin, feeding stops, cocoons desiccate.
-- Above 90%: Anaerobic conditions develop, worms may drown or migrate.
+- Above 90%: [[aact-ph-and-anaerobic-conditions]] develop, worms may drown or migrate.
 - Monitoring: Squeeze test (a few drops from a fistful), or quantitative moisture meter.

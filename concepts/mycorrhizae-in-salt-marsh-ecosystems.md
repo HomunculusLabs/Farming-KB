@@ -129,6 +129,6 @@ driven systems.
 - Valiela, I. and Teal, J.M. (1974). Phosphorus as primary limiting nutrient in salt marshes.
 ## See also
 
-- [[mycorrhizae-and-plant-succession]]
+- [[mycorrhizae-plant-succession]]
 - [[ectomycorrhizal-associations]]
 - [[arbuscular-mycorrhizae]]

@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Thuidium delicatulum** (delicate fern moss, common fern moss) is a pleurocarpous moss in the family Thuidiaceae, widespread across temperate regions of the Northern Hemisphere. It forms extensive, fern-like mats on forest floors, logs, and rocky substrates, and is among the most recognizable woodland mosses.
+**Thuidium delicatulum** (delicate fern moss, common fern moss) is a pleurocarpous moss in the family Thuidiaceae, widespread across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It forms extensive, fern-like mats on forest floors, logs, and rocky substrates, and is among the most recognizable woodland mosses.
 
 The species is named for its delicate, bipinnately branched appearance that superficially resembles a small fern frond. Its regularly branched, feathery shoots create soft, carpet-like colonies that can cover large areas of forest floor.
 
@@ -52,11 +52,11 @@ The sporophyte bears a cylindrical, curved capsule on a roughened seta 1.5 to 2.
 
 Thuidium delicatulum is widespread across [[lowenfels-humus-formation-benefits]], creating favorable conditions for vascular plant colonization.
 
-Its mats provide habitat for diverse invertebrate communities including springtails, mites, nematodes, and various insect larvae. Small amphibians and reptiles may shelter within the moss layer during periods of extreme weather.
+Its mats provide habitat for diverse invertebrate communities including springtails, mites, nematodes, and various insect larvae. Small amphibians and reptiles may shelter within the moss layer during periods of [[windbreak-effects-on-soil-moisture-and-extreme-weather]].
 
 Thuidium delicatulum commonly associates with [[dicranum-scoparium]] in mixed bryophyte communities. These assemblages form the dominant [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] but recovers well from moderate disturbance if moisture conditions are maintained.
 
-Vegetative propagation is the primary mode of colony expansion. Stem fragments dispersed by water runoff, wind, or animal activity readily establish on suitable moist substrates. This dispersal mechanism allows rapid colonization of disturbed sites.
+[[hamilton-vegetative-propagation]] is the primary mode of colony expansion. Stem fragments dispersed by water runoff, wind, or animal activity readily establish on suitable moist substrates. This dispersal mechanism allows rapid colonization of disturbed sites.
 
 ## Cultivation and Horticulture
 
@@ -73,7 +73,7 @@ In cultivation, mats may expand 3 to 8 cm per year under ideal conditions. The s
 ## Overview
 
 Thuidium Delicatulum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 thuidium delicatulum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

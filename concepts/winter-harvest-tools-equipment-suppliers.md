@@ -1,5 +1,5 @@
 ---
-title: Winter Harvest Tools and Equipment Suppliers
+title: [[winter-harvest-tools-and-equipment]] and Equipment Suppliers
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
@@ -14,7 +14,7 @@ Successful winter harvesting requires specialized tools for planting, cultivatin
 
 ### Seeding and Cultivation
 
-- **Six-row seeder** — Precision seeder for efficiently planting multiple rows of salad greens and other small-seeded crops in one pass. Dramatically speeds up direct seeding compared to hand broadcasting.
+- **Six-row seeder** — Precision seeder for efficiently planting multiple rows of [[query-how-do-i-grow-salad-greens-and-lettuce-year-round]] other small-seeded crops in one pass. Dramatically speeds up [[clay-seed-pellets-direct-seeding]] compared to hand broadcasting.
 - **The Tilther** — A specialized tool for shallow tillage of bed surfaces. Creates a fine seedbed without deeply disturbing soil structure. Essential for preparing beds for successive plantings in the intensive winter harvest schedule.
 - **[[soil-block]] makers** — Produce compressed soil blocks for seed starting without plastic pots. Roots air-prune naturally at block edges, producing stronger transplants. Available in multiple sizes for different crop stages.
 - **Three-tooth cultivator** — For shallow cultivation between rows. Loosens soil crust and disrupts small weeds without damaging crop roots.
@@ -44,13 +44,13 @@ Successful winter harvesting requires specialized tools for planting, cultivatin
 ### Miscellaneous
 
 - **European-style scythe** with folding blade for safe storage — For managing cover crops and grass pathways around the farm
-- **Potting and soil blocking mixes** — Including the full line of Vermont Compost products for seed starting and transplant production
+- **Potting and soil blocking mixes** — Including the full line of Vermont Compost products for [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] transplant production
 
 ## Row Cover Fabrics
 
 ### Agribon
 
-Agribon row covers are used for both inner layers within the greenhouse and for covering quick hoops in the field. Available in different weights (thicknesses) that provide varying levels of frost protection and light transmission. Heavier weights offer more protection but transmit less light.
+Agribon row covers are used for both inner layers within the greenhouse and for covering quick hoops in the field. Available in different weights (thicknesses) that provide varying levels of [[frost-protection-and-radiation-management]] light transmission. Heavier weights offer more protection but transmit less light.
 
 ### Covertan Pro 17
 
@@ -76,7 +76,7 @@ A conduit bender designed specifically for bending metal conduit (EMT) into quic
 
 | Category | Supplier | Specialty |
 |----------|----------|-----------|
-| Seeds, tools, row covers | Johnny's Selected Seeds (Winslow, ME) | Comprehensive selection for winter harvest |
+| Seeds, tools, row covers | Johnny's Selected Seeds (Winslow, ME) | Comprehensive selection [[us-climate-zones-for-winter-harvest]] |
 | Ground anchors | A.M. Leonard (Piqua, OH) | Heavy-duty anchoring systems |
 | Vole traps | Intruder Inc. (Rice Lake, WI) | "The Better Mouse Trap" |
 | Predator urine granules | Critter-Repellent.Com (Canisteo, NY) | Vole deterrent products |

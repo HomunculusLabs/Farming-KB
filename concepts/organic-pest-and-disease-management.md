@@ -1,5 +1,5 @@
 ---
-title: Organic Pest and Disease Management
+title: Organic Pest [[insect-and-disease-management-organic-garden]]
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In *[[gardening-when-it-counts]]*, Steve Solomon argues that the most effective pest and disease management begins not with sprays or treatments but with growing conditions. His philosophy centers on a fundamental principle: healthy plants growing in balanced soil are inherently more resistant to insects and diseases. When pest problems do arise, Solomon advocates a graduated response that starts with cultural practices and only escalates to direct interventions when absolutely necessary.
+In *[[gardening-when-it-counts]]*, Steve Solomon argues that the most effective pest and disease management begins not with sprays or treatments but with growing conditions. His philosophy centers on a fundamental principle: healthy plants growing in balanced soil are inherently more resistant to [[solomon-insects-and-diseases-integrated-approach]]. When pest problems do arise, Solomon advocates a graduated response that starts with cultural practices and only escalates to direct interventions when absolutely necessary.
 
 ## The Foundation: Plant Health Through Proper Nutrition
 
@@ -23,7 +23,7 @@ Solomon repeatedly emphasizes (pages 217-218) that insects and diseases primaril
 
 ### Nutritional Balance as Pest Prevention
 
-The Complete Organic Fertilizer (COF) system described throughout the book provides balanced primary and secondary nutrients that support strong cell walls, vigorous growth, and natural pest resistance:
+The [[complete-organic-fertilizer]] (COF) system described throughout the book provides balanced primary [[solomon-phosphorus-potassium-and-secondary-nutrients]] that support strong cell walls, vigorous growth, and natural pest resistance:
 
 - **Calcium** strengthens cell walls and reduces susceptibility to many fungal diseases
 - **Phosphorus** supports strong root development, enabling plants to access water and nutrients even under stress
@@ -68,7 +68,7 @@ The index provides a comprehensive listing of the major insect and disease chall
 
 ### Diseases
 
-**Blight** (page 219): A general term for several fungal and bacterial diseases that cause rapid plant decline. Late blight of tomatoes and early blight are the most common in home gardens. Proper spacing, air circulation, and avoiding overhead watering help prevent outbreaks.
+**Blight** (page 219): A general term for several fungal [[plant-viral-and-bacterial-diseases]] that cause rapid plant decline. Late blight of tomatoes and early blight are the most common in home gardens. Proper spacing, air circulation, and avoiding overhead watering help prevent outbreaks.
 
 **Mildew** (pages 121, 237, 302, 307): Powdery and downy mildew affect a wide range of vegetables. Powdery mildew thrives in dry conditions with cool nights; downy mildew prefers wet conditions. Both are managed through resistant varieties, proper spacing, and foliar sprays of compost tea or baking soda solutions.
 
@@ -107,7 +107,7 @@ The first line of defense is creating conditions where pests and diseases are le
 
 ### Biological Controls
 
-- **Predator provision** (page 219, 232): Creating habitat for beneficial insects (ground beetles, ladybugs, lacewings, parasitic wasps) by maintaining diverse plantings and avoiding broad-spectrum pesticides
+- **Predator provision** (page 219, 232): Creating [[query-how-do-i-design-habitat-for-beneficial-insects]] insects (ground beetles, ladybugs, lacewings, parasitic wasps) by maintaining diverse plantings and avoiding broad-spectrum pesticides
 - **Bacillus thuringiensis (Bt)**: A naturally occurring soil bacterium that selectively kills caterpillar larvae without harming beneficial insects
 - **Parasites as pest control** (page 232): Encouraging natural parasites that attack pest species
 

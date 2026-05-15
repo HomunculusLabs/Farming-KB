@@ -9,16 +9,16 @@ sources: []
 
 # Ground Cover Plants
 
-Ground cover plants form living carpets over soil, suppressing weeds, retaining moisture, preventing erosion, and adding ecological function to the landscape. They serve as living mulches in [[edible-landscaping]] and [[permaculture-design|permaculture]] systems, filling the lowest layer of the plant stack.
+Ground cover plants form living carpets over soil, suppressing weeds, retaining moisture, preventing erosion, and adding [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] to the landscape. They serve as living mulches in [[edible-landscaping]] and [[permaculture-design|permaculture]] systems, filling the lowest layer of the plant stack.
 
 ## Benefits of Ground Covers
 
 - **Weed suppression**: Dense foliage blocks light to weed seeds, preventing germination
 - **Moisture retention**: Shade soil surface, reduce evaporation by 25-50%
-- **Soil protection**: Prevent erosion from rain impact and wind
+- **Soil protection**: [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]] from rain impact and wind
 - **Temperature moderation**: Keep soil cooler in summer, warmer in winter
 - **Soil building**: Add organic matter as leaves decompose; some fix nitrogen
-- **Biodiversity**: Provide habitat for ground beetles, spiders, and other beneficial insects
+- **Biodiversity**: Provide habitat for ground beetles, spiders, and other [[beneficial-insects-and-biological-pest-control]]
 - **Aesthetic**: Fill gaps between larger plants, soften hardscape edges
 - **Living mulch**: Replace wood chip mulch with plants that perform the same function while adding beauty and ecological value
 
@@ -37,7 +37,7 @@ A low-growing, aromatic ground cover that thrives between stepping stones, along
 
 ## Clover (Trifolium spp.)
 
-Nitrogen-fixing ground covers that improve soil fertility while providing nectar for bees.
+Nitrogen-fixing ground covers that [[query-how-does-rock-dust-improve-soil-fertility]] while providing nectar for bees.
 
 ### White Clover (Trifolium repens)
 - **Height**: 4-6 inches
@@ -89,7 +89,7 @@ A shade-tolerant, variegated ground cover with silver-marked leaves and long-blo
 - **Creeping phlox (Phlox subulata)**: Masses of pink/purple/white flowers in spring, evergreen, 4-6 inches tall
 - **Ice plant (Delosperma)**: Succulent with daisy-like flowers, extremely drought-tolerant, zones 5-10
 - **Ajuga (bugleweed)**: Bronze or purple foliage, blue flower spikes, fast-spreading, 4-6 inches
-- **Yarrow (Achillea millefolium)**: Ferny foliage, flat flower clusters, drought-tolerant, 6-12 inches in ground cover form
+- **Yarrow ([[achillea-millefolium]])**: Ferny foliage, flat flower clusters, drought-tolerant, 6-12 inches in ground cover form
 - **Strawberry (Fragaria spp.)**: Edible fruit, runners fill gaps, 6-8 inches, sun to part shade
 
 ### For Shade
@@ -102,7 +102,7 @@ A shade-tolerant, variegated ground cover with silver-marked leaves and long-blo
 ### Nitrogen-Fixing Ground Covers
 - **White clover**: Best all-purpose nitrogen fixer
 - **Vetch (Vicia spp.)**: Vigorous climber, excellent for slopes and banks
-- **Crown vetch (Coronilla varia)**: Aggressive spreader for erosion control (can be invasive — use with caution)
+- **Crown vetch (Coronilla varia)**: Aggressive spreader [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] (can be invasive — use with caution)
 - **Bird's-foot trefoil (Lotus corniculatus)**: Drought-tolerant, yellow flowers, good for poor soils
 
 ## Weed Suppression Strategies

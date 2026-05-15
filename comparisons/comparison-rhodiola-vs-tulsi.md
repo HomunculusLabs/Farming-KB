@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Rhodiola rosea (golden root) and tulsi (holy basil, Ocimum tenuiflorum)
+Rhodiola rosea (golden root) and tulsi (holy basil, [[ocimum-tenuiflorum-entity]])
 are two of the most widely used adaptogenic herbs in the world, yet they
 come from entirely different botanical families, native ranges, and
 healing traditions. Rhodiola is a cold-climate succulent root prized in
@@ -19,7 +19,7 @@ enhancing physical endurance. Tulsi is a warm-climate aromatic herb
 revered in Ayurveda for over 3,000 years as a daily wellness tonic with
 deep spiritual significance in Hindu culture. Comparing them illuminates
 how two adaptogens can share stress-modulating properties while differing
-markedly in chemistry, cultivation requirements, and best use cases.
+markedly in chemistry, [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]], and best use cases.
 
 ## Rhodiola
 
@@ -55,7 +55,7 @@ aroma profile. It has been cultivated for over three millennia as both a
 medicinal and sacred plant.
 
 Ayurvedic medicine classifies tulsi as a rasayana (rejuvenating) herb.
-Its active compounds include eugenol, ursolic acid, rosmarinic acid,
+Its active compounds include eugenol, [[ursolic-acid]], rosmarinic acid,
 linalool, and beta-caryophyllene. Unlike rhodiola, tulsi is consumed
 daily as a tea or fresh-leaf preparation across India. It modulates
 cortisol, supports immune function, and demonstrates broad antimicrobial
@@ -88,7 +88,7 @@ athletes training at altitude. Because it acts partly through dopamine
 and norepinephrine modulation, it is particularly effective for the
 lethargy and low motivation associated with burnout.
 
-Cultivators in cold climates (USDA zones 1 to 7) will find rhodiola
+Cultivators [[query-how-do-i-grow-figs-in-cold-climates]] (USDA zones 1 to 7) will find rhodiola
 well-suited to their conditions. It thrives in rocky, well-drained soils
 with cool summers and requires winter dormancy. However, patience is
 essential: roots need three to five years to reach harvestable maturity.
@@ -106,15 +106,15 @@ pharmacological effects.
 Gardeners in warm climates (zones 10 and above) or those with indoor
 growing space can harvest tulsi leaves within two to three months of
 sowing. It is far easier and faster to cultivate than rhodiola. Tulsi
-also serves as a companion plant in permaculture gardens, attracting
+also serves as a companion plant [[mollison-guinea-pig-integration-in-permaculture-gardens]], attracting
 pollinators and repelling certain pests. It pairs well with culinary
-basil in herb gardens and can be used as both a medicinal and culinary
+basil in herb gardens and can be used as both a [[holzer-medicinal-and-culinary-herbs-compendium]]
 herb.
 
 ## Combined Use
 
 Some practitioners combine both herbs to leverage rhodiola's stimulating
-adaptogenic properties alongside tulsi's calming, immunomodulating
+[[ashwagandha-cultivation-uses-and-adaptogenic-properties]] alongside tulsi's calming, immunomodulating
 effects. A typical protocol might use rhodiola in the morning for
 energy and focus, and tulsi tea in the evening for relaxation and immune
 support. Because they modulate stress through different pathways

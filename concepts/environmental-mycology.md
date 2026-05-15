@@ -52,7 +52,7 @@ The distinction between **yeasts** and **filamentous fungi** is not merely morph
 
 In most terrestrial soils, fungi constitute the **single largest component of the living microbial biomass**. Estimates suggest that fungal biomass in temperate forest soils can account for 60–90% of total microbial biomass, far exceeding that of bacteria and other microorganisms. In grassland and agricultural soils, fungal biomass remains substantial, typically comprising 30–70% of the total microbial pool depending on management practices and soil type.
 
-This dominance is attributable to the filamentous growth habit, which allows fungi to forage efficiently through heterogeneous soil pore networks, access spatially separated nutrient sources, and translocate resources over centimeter-scale distances via cytoplasmic streaming within hyphae. The sheer magnitude of fungal biomass means that any shifts in fungal community structure or activity — whether driven by land-use change, climate perturbation, or pollution — can have profound consequences for ecosystem-level processes.
+This dominance is attributable to the filamentous growth habit, which allows fungi to forage efficiently through heterogeneous soil pore networks, access spatially separated nutrient sources, and translocate resources over centimeter-scale distances via cytoplasmic streaming within hyphae. The sheer magnitude of fungal biomass means that any shifts in [[mineralogical-controls-fungal-community-structure]] or activity — whether driven by land-use change, climate perturbation, or pollution — can have profound consequences for ecosystem-level processes.
 
 ## Soil Structure Maintenance
 
@@ -70,7 +70,7 @@ Few other groups of organisms possess the enzymatic machinery to degrade lignin,
 
 ### Decomposition and Solubilization of Xenobiotics
 
-Fungi are also capable of decomposing and **solubilizing a wide range of recalcitrant and xenobiotic compounds**, including polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), pesticides, and various synthetic organic pollutants. This capacity underpins the use of fungi in **bioremediation** strategies for contaminated soils and waters. The extracellular, non-specific nature of [[fungal-enzyme-systems]] — particularly the lignin-degrading peroxidases and laccases of white-rot fungi — gives them an unusual ability to transform or mineralize structurally diverse pollutants.
+Fungi are also capable of decomposing and **solubilizing a wide range of recalcitrant and xenobiotic compounds**, including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), polychlorinated biphenyls (PCBs), pesticides, and various synthetic organic pollutants. This capacity underpins the use of fungi in **bioremediation** strategies for contaminated soils and waters. The extracellular, non-specific nature of [[fungal-enzyme-systems]] — particularly the lignin-degrading peroxidases and laccases of white-rot fungi — gives them an unusual ability to transform or mineralize structurally diverse pollutants.
 
 ## Roles in Carbon, Nitrogen, and Biogeochemical Cycles
 
@@ -80,15 +80,15 @@ In the **carbon cycle**, fungal respiration returns substantial quantities of CO
 
 In the **nitrogen cycle**, fungi influence nitrogen availability through the decomposition of nitrogen-containing organic compounds, the immobilization of inorganic nitrogen into fungal biomass, and the facilitation of nitrogen transfer in mycorrhizal networks. Some fungi are capable of accessing organic nitrogen sources directly, a capacity that gives them a competitive advantage in nitrogen-limited environments.
 
-Fungi also participate in the **phosphorus cycle** by solubilizing mineral phosphates through organic acid production and by mediating phosphorus uptake in mycorrhizal plants. Additionally, fungi are involved in transformations of sulfur, iron, manganese, and other elements, underscoring their centrality to ecosystem biogeochemistry.
+Fungi also participate in the **phosphorus cycle** by solubilizing mineral phosphates through [[staycare-fungal-organic-acid-production-metal-leaching]] and by mediating phosphorus uptake in mycorrhizal plants. Additionally, fungi are involved in transformations of sulfur, iron, manganese, and other elements, underscoring their centrality to ecosystem biogeochemistry.
 
 ## Mycorrhizal Associations with Plant Roots
 
-**Mycorrhizal fungi** form symbiotic associations with the roots of the vast majority of terrestrial plant species — an estimated 80–90% of all plant families. The two most widespread types are **arbuscular mycorrhizal fungi (AMF)**, which associate primarily with herbaceous plants and many trees, and **ectomycorrhizal fungi (ECM)**, which partner predominantly with woody plants in temperate and boreal forests. Other types include ericoid, orchid, and ectendomycorrhizae, each adapted to specific plant groups and environmental conditions.
+**Mycorrhizal fungi** form symbiotic associations with the roots of the vast majority of terrestrial plant species — an estimated 80–90% of all plant families. The two most widespread types are **[[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] (AMF)**, which associate primarily with herbaceous plants and many trees, and **ectomycorrhizal fungi (ECM)**, which partner predominantly with woody plants in temperate and boreal forests. Other types include ericoid, orchid, and ectendomycorrhizae, each adapted to specific plant groups and environmental conditions.
 
-In exchange for plant-derived carbon (primarily as sugars and lipids), mycorrhizal fungi provide the host plant with enhanced access to soil nutrients — particularly phosphorus and nitrogen — and improve resistance to environmental stresses such as drought, heavy metals, and soil-borne pathogens. Mycorrhizal hyphal networks can also link multiple plants, facilitating **interplant resource transfer** and contributing to the maintenance of plant community diversity and stability.
+In exchange for plant-derived carbon (primarily as sugars and lipids), mycorrhizal fungi provide the host plant with enhanced access to soil nutrients — particularly phosphorus and nitrogen — and improve resistance to environmental stresses such as drought, heavy metals, and soil-borne pathogens. Mycorrhizal hyphal networks can also link multiple plants, facilitating **[[interplant-resource-transfer-mycorrhizal-succession]]** and contributing to the maintenance of plant community diversity and stability.
 
-The mycorrhizal symbiosis is one of the most ecologically and economically important mutualisms on Earth, influencing plant community composition, ecosystem productivity, and nutrient retention at landscape scales.
+The mycorrhizal symbiosis is one of the most ecologically and economically important mutualisms on Earth, influencing [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]], ecosystem productivity, and nutrient retention at landscape scales.
 
 ## Fungi as Plant Pathogens
 

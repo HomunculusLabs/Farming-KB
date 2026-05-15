@@ -1,5 +1,5 @@
 ---
-title: Pleurotus ostreatus
+title: [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]
 created: 2026-04-28
 tags: [mycology, oyster-mushrooms, species, cultivation]
 date: 2026-04-28
@@ -24,7 +24,7 @@ Research has demonstrated several pharmacological activities:
 - **Hypocholesterolemic**: Lovastatin and dietary fiber reduce serum LDL
   cholesterol.
 - **Immunomodulatory**: β-glucans activate macrophages and NK cells.
-- **Antioxidant**: Phenolic compounds and ergothioneine scavenge free
+- **Antioxidant**: [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and ergothioneine scavenge free
   radicals.
 - **Antimicrobial**: Exhibits activity against gram-positive bacteria and
   some fungi.
@@ -37,7 +37,7 @@ In nature, P. ostreatus is a primary white-rot decomposer of hardwood. It
 secretes [[fungal-manganese-peroxidase-remediation]], lignin
 peroxidase) that break down lignin, playing a critical role in forest carbon
 cycling. This same enzymatic capacity makes it valuable for
-bioremediation of polluted environments.
+bioremediation of [[fungi-in-extreme-and-polluted-environments]].
 
 ## Substrate Preferences
 
@@ -59,7 +59,7 @@ colonizes and fruits on a wide range of lignocellulosic materials:
 
 ## Fruiting Parameters
 
-Optimal fruiting conditions for P. ostreatus:
+Optimal [[fruiting-conditions-for-mushrooms]] P. ostreatus:
 - **Temperature**: Initiation at 10-15 deg C, with continued growth at
   15-20 deg C. Cold-shocking by lowering temperature 5-10 deg C from
   incubation temperature triggers pinning.
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pleurotus Ostreatus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pleurotus ostreatus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

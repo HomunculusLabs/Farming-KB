@@ -6,11 +6,11 @@ type: concept
 
 # Right Not to Be in Debt — Permaculture Perspectives on Shelter and Self-Reliance
 
-In Chapter 14 of Permaculture: A Designers' Manual, Bill Mollison mounts a provocative argument that the fundamental barriers to adequate shelter and food security are not financial but regulatory. He uses the example of self-built housing without debt to illustrate how existing political and economic systems deny people basic rights to provide for themselves.
+In Chapter 14 of Permaculture: A Designers' Manual, [[bill-mollison]] mounts a provocative argument that the fundamental barriers to adequate shelter and food security are not financial but regulatory. He uses the example of self-built housing without debt to illustrate how existing political and economic systems deny people basic rights to provide for themselves.
 
 ## Self-Built Housing Without Debt
 
-Mollison observes that some of the most charming and climatically appropriate houses on earth are built without bank loans, architects, metals, concrete, or contractors. In every documented case, these houses exist in areas where trade unions, building surveyors, health officials, and government regulators do not impede home builders or communities providing their own shelter.
+Mollison observes that some of the most charming and climatically appropriate houses on earth are built without bank loans, architects, metals, concrete, or contractors. In every documented case, these houses exist in areas where trade unions, building surveyors, health officials, and government regulators do not impede [[bendigo-home-builders-club]] or communities providing their own shelter.
 
 ### The Chile Example
 
@@ -32,7 +32,7 @@ The primary barrier is restrictive practices enforced by regulatory bureaucracie
 
 ### Resource Ownership Patterns
 
-State or private ownership of forests, small mines, and lands—devoted to state or corporate profits—denies basic biological and earth resources to the people who work to produce or extract them. These ownership patterns support a largely urban, leisured class of bureaucrats at the expense of rural and self-reliant populations.
+State or private ownership of forests, small mines, and lands—devoted to state or corporate profits—denies basic biological [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]] to the people who work to produce or extract them. These ownership patterns support a largely urban, leisured class of bureaucrats at the expense of rural and self-reliant populations.
 
 ### The Inversion of National Service
 
@@ -47,7 +47,7 @@ In contemporary societies, the recognized "rights" are to vote, form unions, pro
 - The right to grow food
 - The right to collect water from roof areas
 
-These fundamental rights to personal responsibility for sustenance are commonly denied by local and state regulations.
+These fundamental rights to [[permaculture-self-regulation-energy-hierarchy-personal-responsibility]] for sustenance are commonly denied by local and state regulations.
 
 ## Alternatives to Political Systems
 
@@ -76,7 +76,7 @@ For this reason, Mollison identifies the correct sequence for change:
 Mollison contrasts two systems of exchange:
 
 - **Natural law** demands a fair return for every gift received
-- **The laws of power** demand gifts without thought of return—this is called "economic growth" and means unlimited resource exploitation alongside the exploitation of people
+- **The laws of power** demand gifts without thought of return—this is called "economic growth" and means unlimited [[fungal-hyphal-structure-resource-exploitation]] alongside the exploitation of people
 
 ## The Wealth of a Region
 
@@ -84,7 +84,7 @@ He concludes with a redefinition of wealth: the wealth of any area lies not in b
 
 ## Practical Implications
 
-For permaculture designers and community builders, this analysis suggests:
+For [[bill-mollison-permaculture-designers-manual]] and community builders, this analysis suggests:
 
 - **Prioritize regulatory reform** as much as technical design — the best design is useless if regulations prevent its implementation
 - **Document and publicize successful self-build examples** to build the case for regulatory change

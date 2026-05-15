@@ -73,7 +73,7 @@ psychedelic session) address the "set" component: building therapeutic alliance,
 
 ## Overview
 
-Set And Setting Framework represents an important element within sustainable
+[[set-and-setting]] Framework represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

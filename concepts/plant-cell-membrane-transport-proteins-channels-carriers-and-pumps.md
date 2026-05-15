@@ -75,7 +75,7 @@ The tonoplast (vacuolar membrane) works in coordination with the plasmalemma to 
 
 ## Overview
 
-Plant Cell Membrane Transport Proteins Channels Carriers And Pumps represents an important element within sustainable
+[[plant-cell-membrane-transport-proteins]] Channels Carriers And Pumps represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

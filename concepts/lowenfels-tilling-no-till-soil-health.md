@@ -24,7 +24,7 @@ initiated a pattern of soil destruction that continues today.
 ## What Rototilling Destroys
 
 Rototilling and other forms of mechanical soil disturbance damage virtually
-every component of the soil food web:
+every component of [[the-soil-food-web]]:
 
 **Fungal hyphae** -- The single most destructive effect. Fungal hyphae are
 fragile thread-like structures that form extensive networks through soil.

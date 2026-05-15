@@ -24,12 +24,12 @@ tags: [plant, asparagaceae, arbuscular-mycorrhizal, geophyte]
 
 ## Key Facts
 
-- Considered obligately mycorrhizal, requiring arbuscular mycorrhizal associations for normal growth and reproduction.
+- Considered obligately mycorrhizal, requiring arbuscular [[plants-without-mycorrhizal-associations]] for normal growth and reproduction.
 - As bluebell bulbs age, they descend deeper into the soil into zones where phosphorus becomes increasingly depleted.
-- Root colonization by arbuscular mycorrhizal fungi increases with plant age and rooting depth, compensating for declining phosphorus availability at depth.
-- Enhanced phosphorus acquisition through mycorrhizae allows the maintenance of fecundity (measured as bulb diameter) despite deeper rooting.
+- Root colonization by [[arbuscular-mycorrhizal-fungi]] increases with plant age and rooting depth, compensating for declining [[phosphorus-availability]] at depth.
+- Enhanced [[arbuscular-mycorrhizal-phosphorus-acquisition]] through mycorrhizae allows the maintenance of fecundity (measured as bulb diameter) despite deeper rooting.
 - Benomyl application to reduce AM colonization decreases vegetative tissue phosphorus but does not alter preferential allocation of phosphorus to flowers and seeds.
-- Demonstrates that mycorrhizal symbiosis directly controls plant fitness through reproductive resource allocation.
+- Demonstrates that mycorrhizal symbiosis directly controls plant fitness through reproductive [[mycelial-foraging-resource-allocation]].
 - Forms characteristic spring carpets in deciduous woodland, completing above-ground growth before canopy closure.
 
 ## Mycorrhizal Ecology
@@ -49,7 +49,7 @@ The species integrates mycorrhizal function into a complete carbon and phosphoru
 - **Obligate mycorrhizal model**: Demonstrates the strongest form of mycorrhizal dependency, where the symbiosis is essential for long-term survival and reproduction.
 - **Plant aging and mycorrhizae**: Provides a unique natural system for studying how mycorrhizal function changes over the lifetime of an individual plant.
 - **Fitness and reproduction**: Shows direct mycorrhizal control over plant fitness through reproductive resource allocation, not just growth enhancement.
-- **Conservation**: Bluebell woodland is a priority conservation habitat in Europe; understanding mycorrhizal requirements is essential for habitat restoration.
+- **Conservation**: Bluebell woodland is a priority conservation habitat in Europe; understanding mycorrhizal requirements is essential for [[pollinator-conservation-and-habitat-restoration]].
 - **Soil depth gradients**: Illustrates how mycorrhizae enable plants to exploit progressively deeper and more nutrient-poor soil horizons.
 - **Woodland management**: Informs management practices for ancient woodlands where bluebell populations are indicators of ecosystem integrity.
 
@@ -57,7 +57,7 @@ The species integrates mycorrhizal function into a complete carbon and phosphoru
 
 - [[glomus-intraradices]] - common AM fungal associate
 - [[ericoid-mycorrhizae]] - contrasting mycorrhizal type in related habitats
-- [[vaccinium-macrocarpon]] - another ericaceous species studied for mycorrhizal nutrient acquisition
+- [[vaccinium-macrocarpon]] - another ericaceous species studied for [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
 - [[ectomycorrhiza]] - dominant mycorrhizal type in the forest ecosystems where bluebells occur
 
 ## Habitat and Distribution

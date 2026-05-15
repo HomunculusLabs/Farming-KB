@@ -60,7 +60,7 @@ Opposite, simple, lanceolate to ovate-lanceolate, 5–15 cm long and 1–5 cm wi
 The most distinctive feature — arranged in dense, spherical whorls (verticillasters) at intervals along the terminal flower spikes. Each whorl contains 6–12 tubular flowers. Individual flowers are 25–35 mm long, bilabiate (two-lipped), with the characteristic bright orange to reddish-orange corolla. The calyx is tubular, 10–12 mm long, with 5 teeth. Flowering occurs primarily from late summer through autumn (February–May in the [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. In some regions (e.g., parts of Australia), it is considered an environmental weed.
 
 ### Climate Requirements
-- Hardiness zones: 9–11 (USDA)
+- [[hardiness-zones-mollison]]: 9–11 (USDA)
 - Temperature: Tolerates light frost but prefers warm climates (15–35°C optimal)
 - Rainfall: 400–1200 mm annually; drought-tolerant once established
 - Soil: Well-drained sandy or loamy soils; tolerant of poor soils and moderate salinity
@@ -76,7 +76,7 @@ The most pharmacologically significant constituents are labdane diterpenoids, pa
 ## Overview
 
 Leonotis Leonurus represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -90,7 +90,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving leonotis extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -105,13 +105,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for leonotis leonurus. Climate adaptation
+opportunities for leonotis leonurus. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 leonotis leonurus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

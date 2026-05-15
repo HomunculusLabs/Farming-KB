@@ -45,7 +45,7 @@ particularly [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] has demonstrated
 The Singh source describes two broad fungal strategies for PAH
 mineralization:
 
-1. Ligninolytic pathway: Extracellular enzymes generate free radicals
+1. Ligninolytic pathway: [[fungal-extracellular-enzymes]] generate free radicals
    that attack the aromatic ring system, leading to ring cleavage and
    formation of quinones, carboxylic acids, and eventually CO2 and H2O.
    This pathway does not require initial uptake of the hydrophobic
@@ -61,7 +61,7 @@ mineralization:
 - [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]: Produces laccase and MnP; effective against
   a broad PAH spectrum including benzo-a-pyrene.
 
-- Pleurotus ostreatus: Laccase-rich edible mushroom with demonstrated
+- [[oyster-mushroom-pleurotus-ostreatus]]: Laccase-rich edible mushroom with demonstrated
   PAH removal from contaminated soils.
 
 - Bjerkandera adusta: Produces MnP and versatile peroxidase; active
@@ -74,8 +74,8 @@ mineralization:
 
 ## Overview
 
-Singh Fungal Biodegradation Of Polycyclic Aromatic Hydrocarbons represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[singh-fungal-biodegradation-biodeterioration-materials]] Of Polycyclic Aromatic Hydrocarbons represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Singh Fungal Biodegradation Of Polycyclic Aromatic Hydrocarbons finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 singh fungal biodegradation of polycyclic aromatic hydrocarbons and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

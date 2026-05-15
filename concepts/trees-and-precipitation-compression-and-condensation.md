@@ -1,5 +1,5 @@
 ---
-title: Trees and Precipitation — Compression and Condensation
+title: [[trees-and-precipitation]] — Compression and Condensation
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Trees as Creators of Soils and Atmosphere
 
-Trees have played a fundamental role in creating both our soils and our atmosphere. They build soil through mechanical breakdown of rock (root pressure) and chemical weathering (humic acid production), while adding life processes as humus and supporting myriad decomposers. In the atmosphere, they maintain gaseous exchange, establishing and preserving an oxygenated atmosphere and an active water-vapour cycle essential to life.
+Trees have played a fundamental role in creating both our soils and our atmosphere. They build soil through mechanical breakdown of rock (root pressure) and chemical weathering (humic acid production), while adding life processes as humus and supporting myriad decomposers. In the atmosphere, they maintain [[soil-gaseous-exchange-mollison]], establishing and preserving an oxygenated atmosphere and an active water-vapour cycle essential to life.
 
 Forests may be doing approximately 80% of the work of maintaining atmospheric composition, with the remaining 20% due to oceanic or aquatic exchange. Many cities and most deforested areas — such as Greece — no longer produce the oxygen they consume, illustrating the critical role trees play in atmospheric health.
 
@@ -19,7 +19,7 @@ Trees influence precipitation through five primary mechanisms:
 1. **Compression of streamlines** and induced turbulence in air flows
 2. **Condensation phenomena**, especially at night
 3. **Rehumidification** by cycling water back to the air
-4. **Snow and meltwater effects** on high-altitude water storage
+4. **Snow and [[forest-rehumidification-and-snow-meltwater-effects]]** on high-altitude water storage
 5. **Provision of nucleii** for rain formation
 
 ## Compression and Turbulence Effects
@@ -40,7 +40,7 @@ Under the forest canopy, negative ions produced by life processes cause dust par
 
 At the forest edge, thick-stemmed and specially wind-adapted trees buffer the front-line attack of the wind. If a windward forest edge is cut and these defences removed, windburn by salt, dust abrasion, or plain windforce may kill or throw down the inner forest of weaker stems and less resistant species. This phenomenon is called **"edge break."**
 
-Conversely, a forest can be established by planting tough, resistant trees as windbreak to protect subsequent downwind plantings. Forest edges are therefore essential and permanent protection that should never be cut or removed.
+Conversely, a forest can be established by planting tough, [[permaculture-plants-fire-resistant-trees-shrubs]] as windbreak to protect subsequent downwind plantings. Forest edges are therefore essential and permanent protection that should never be cut or removed.
 
 ### Air Modification by Forests
 
@@ -84,13 +84,13 @@ All types of trees act as condensers: Canary Island pines, laurels, holm oaks, r
 
 ### Forests Created by Condensation
 
-Condensation produced the dense rainforests of Tasmania, Chile, Hawaii, Washington/Oregon, and Scandinavia. It created the redwood forests of California and the giant laurel forests of the pre-conquest Canary Islands — now an arid area due to almost complete deforestation by the Spanish.
+Condensation produced the dense rainforests of Tasmania, Chile, Hawaii, Washington/Oregon, and Scandinavia. It created the [[california-redwood-forests-mollison]] of California and the giant laurel forests of the pre-conquest Canary Islands — now an arid area due to almost complete deforestation by the Spanish.
 
 ### The Fragility of Condensation Systems
 
 The effects of condensation can be quickly destroyed. Felling of forests causes rivers to dry up, swamps to evaporate, shallow water to dry out, and drought to grip the land. All of this can occur within a single human lifetime.
 
-Precipitation from clear air is much less than from fog. Advection fogs are most noticeable where cold currents — such as the [[oya-shio]] off East Asia and the Labrador current off northeast America — cause humid inland airstreams in spring and summer.
+Precipitation from clear air is much less than from fog. Advection fogs are most noticeable where cold currents — such as the [[oya-shio]] off East Asia and the [[labrador-current]] off northeast America — cause humid inland airstreams in spring and summer.
 
 ## See Also
 - [[trees-and-precipitation-cycle]]

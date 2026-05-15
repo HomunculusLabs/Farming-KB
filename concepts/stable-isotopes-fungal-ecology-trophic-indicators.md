@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The natural abundance of stable isotopes — particularly ¹⁵N and ¹³C — provides a powerful, indirect method for investigating [[fungal-ecology]] in situ, where direct observation of cryptic mycelia is often impossible. Isotope ratios in fungal sporocarps reflect the substrates utilized, the trophic strategy (saprotrophic vs. ectomycorrhizal), and the ecophysiology of individual species. The "saprotrophic–mycorrhizal divide" in isotope space has become a key tool for determining the functional roles of unknown fungal taxa.
+The [[gadd-saprotrophic-fungi-15n-13c-natural-abundance-isotopes]] of stable isotopes — particularly ¹⁵N and ¹³C — provides a powerful, indirect method for investigating [[fungal-ecology]] in situ, where direct observation of cryptic mycelia is often impossible. Isotope ratios in fungal sporocarps reflect the substrates utilized, the trophic strategy (saprotrophic vs. ectomycorrhizal), and the ecophysiology of individual species. The "saprotrophic–mycorrhizal divide" in isotope space has become a key tool for determining the functional roles of unknown fungal taxa.
 
 ## Stable Isotope Terminology
 
@@ -59,7 +59,7 @@ Isotopic fractionation occurs because heavier isotopes react more slowly and are
 
 Kohzu et al. (1999) found consistent ¹³C enrichment of ~3.5‰ between wood substrate and fungal mycelium:
 
-- Laboratory inoculation of *Trametes versicolor* on wood blocks confirmed enrichment (ε = 3.5 ± 0.5‰).
+- Laboratory inoculation of *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* on wood blocks confirmed enrichment (ε = 3.5 ± 0.5‰).
 - Wood δ¹³C remained remarkably constant (−26.3‰) even with 70% mass loss over 181 days.
 - Respired CO₂ had δ¹³C similar to wood, suggesting respiration had little effect.
 - **Explanation**: Enrichment relates to differences in cellular components — chitin (fungal cell walls) is enriched in ¹³C relative to woody substrates.
@@ -95,12 +95,12 @@ Abraham & Hesse (2003) examined four fungal species (zygomycetes and ascomycetes
 
 - ***Agaricus*** species had high δ¹⁵N (5.56‰–9.92‰) despite being saprotrophic — likely reflects utilization of ¹⁵N-enriched substrates in mineral soil layers.
 - ***Entoloma clypeatum***: High δ¹⁵N + low δ¹³C suggests mutualistic status despite being classified as saprotrophic.
-- ***Clavariadelphus pistillaris***: Very high δ¹⁵N (11.52‰) + ambiguous δ¹³C suggests possible ECM status.
-- ***Fistulina hepatica***: Lowest δ¹³C (−26.4‰) — may indicate access to phloem sugars from host oak.
+- ***[[clavariadelphus-pistillaris]]***: Very high δ¹⁵N (11.52‰) + ambiguous δ¹³C suggests possible ECM status.
+- ***[[fistulina-hepatica]]***: Lowest δ¹³C (−26.4‰) — may indicate access to phloem sugars from host oak.
 
 ## Environmental and Methodological Considerations
 
-- **Nitrogen deposition**: Elevated N deposition significantly impacts average δ¹⁵N and narrows the range of potential values.
+- **[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]**: Elevated N deposition significantly impacts average δ¹⁵N and narrows the range of potential values.
 - **Soil horizon**: The horizon in which mycelium exists has significant influence on δ values.
 - **Sporocarp vs. mycelium**: Most studies use sporocarps; whether these reflect mycelial values is assumed but not always verified.
 - **Chemical components**: Proteins and amino acids can be enriched by up to 9‰ compared with cell wall chitin within the same fungus.
@@ -116,4 +116,4 @@ Abraham & Hesse (2003) examined four fungal species (zygomycetes and ascomycetes
 ## See Also
 
 - [[mycorrhizal-mineral-weathering]] — ECM fungi in mineral cycling
-- [[molecular-methods-geoactive-fungal-communities]] — Molecular tools for community analysis
+- [[molecular-methods-geoactive-fungal-communities]] — Molecular tools for [[fungal-diversity-indices-community-analysis]]

@@ -9,7 +9,7 @@ of a species that naturally flowers only in autumn.
 ## The Natural Photoperiodic Behavior
 
 Chrysanthemums are short-day plants that naturally flower in autumn as days
-shorten. Their critical night length is typically 9-12 hours depending on the
+shorten. Their critical [[photoperiodism-plants-measure-night-length]] is typically 9-12 hours depending on the
 cultivar, meaning they initiate flowering when continuous darkness exceeds this
 threshold. Under natural conditions, this produces a reliable autumn bloom, but
 it also means that chrysanthemums are not available as cut flowers during spring
@@ -37,7 +37,7 @@ States — a spring holiday that occurs months after chrysanthemums would natura
 flower. Growers begin the cycle in late autumn or early winter, starting plants
 from cuttings under long-day conditions (natural short days supplemented with
 night-interruption lighting). The plants grow vegetatively through winter and
-early spring, accumulating biomass. Approximately two weeks before Mother's Day,
+[[coleman-overwintered-onions-and-early-spring-crops]], accumulating biomass. Approximately two weeks before Mother's Day,
 the night lights are turned off. The plants perceive the now-uninterrupted long
 nights of spring and initiate flowering, producing blooms ready for harvest and
 shipment in time for the holiday.
@@ -49,12 +49,12 @@ and quality of light. The light interruption must occur during the middle of the
 dark period for maximum effectiveness. Red light is most efficient, as it
 specifically activates [[phytochrome]], the photoreceptor responsible for photoperiod
 perception. Modern operations typically use LED fixtures emitting in the red
-spectrum (approximately 660 nm) for energy efficiency.
+spectrum (approximately 660 nm) for [[aquaculture-design-principles-and-energy-efficiency]].
 
 Light intensity during the interruption need not be high — just a few seconds of
 sufficient red light is enough to activate phytochrome. Typical commercial
 systems use 2-5 foot-candles of red light for 2-4 minutes per night. However, the interruption
-must be reliably delivered every night throughout the vegetative phase. Any missed
+must be reliably delivered every night throughout the [[cervantes-vegetative-phase]]. Any missed
 night can allow the dark period to exceed the critical threshold and initiate
 premature flowering, which would disrupt the synchronized production schedule.
 
@@ -98,14 +98,14 @@ create an early sunset, ensuring the critical night length is met. This approach
 is used when producing autumn-flowering crops during summer, or when forcing
 early-flowering varieties for specific market dates. Light pollution from street
 lights or neighboring operations can inadvertently disrupt photoperiodic control,
-making site selection and light-exclusion measures important considerations for
+making [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]] and light-exclusion measures important considerations for
 greenhouse operations.
 
 ## Future Directions
 
 Research continues to optimize photoperiod management through understanding of
 the underlying molecular mechanisms. The identification of genes such as CONSTANS
-and FLOWERING LOCUS T that mediate the photoperiodic flowering response may
+and FLOWERING LOCUS T that mediate the photoperiodic [[mollison-designers-day-length-and-flowering-response]] may
 eventually allow genetic approaches to photoperiod manipulation, reducing or
 eliminating the need for energy-intensive lighting systems. Until such approaches
 are commercially viable, photoperiodic lighting remains an essential tool in the

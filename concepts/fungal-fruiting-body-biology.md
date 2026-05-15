@@ -80,7 +80,7 @@ soil [[fungal-ecology-and-symbiosis]]
 
 ## Overview
 
-Fungal Fruiting Body Biology represents an important element within sustainable
+[[fungal-fruiting-body]] Biology represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

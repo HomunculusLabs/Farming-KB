@@ -146,3 +146,5 @@ See also [[mushroom-identification]], [[mushroom-toxicity-identification-warning
 ## Related
 
 - [[mushroom-toxicology-palmer-theory]]
+
+## See Also

@@ -28,12 +28,12 @@ as tiny specks; a 10-30X magnifier reveals yellow-white, two-spotted
 brown or red mites and translucent eggs. Spider mites are the single
 most common and destructive pest in indoor cannabis gardens.
 
-The two-spotted spider mite has an extraordinarily rapid life cycle.
+The two-spotted [[spider-mite]] has an extraordinarily rapid life cycle.
 Each female lays roughly 100 eggs. At 80°F (27°C), the full cycle from
 egg to egg-laying adult takes only five days. A single unchecked female
 can produce millions of descendants within a month. Spider mites
 quickly develop resistance to synthetic pyrethrum, making rotation of
-control methods essential.
+[[cho-natural-pest-control-methods]] essential.
 
 Their signature damage includes yellowish-white stippling on leaf tops,
 fine webbing on stems and under leaves (visible when misted with water),
@@ -77,7 +77,7 @@ plants before introducing them to the grow space.
 ## Overview
 
 Comparison Aphids Vs Spider Mites represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Comparison Aphids Vs Spider Mites finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,13 +106,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for comparison aphids vs spider mites. Climate adaptation
+opportunities for comparison aphids vs spider mites. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 comparison aphids vs spider mites and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

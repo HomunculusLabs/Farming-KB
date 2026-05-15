@@ -7,11 +7,11 @@ tags: [person, french, horticulture, historical, Versailles, season-extension]
 
 ## Overview
 
-Jean-Baptiste de La Quintinie (1626-1688) was a celebrated French botanist and gardener who served as the head gardener (directeur du potager) of the royal vegetable garden (potager du roi) at the Palace of Versailles under King Louis XIV. He is recognized as a foundational figure in the development of season-extension techniques, having pioneered the use of primitive cold frames and protected cultivation for out-of-season vegetable production in the 1670s and 1680s.
+Jean-Baptiste de La Quintinie (1626-1688) was a celebrated French botanist and gardener who served as the head gardener (directeur du potager) of the royal vegetable garden (potager du roi) at the Palace of Versailles under King Louis XIV. He is recognized as a foundational figure in the development of season-extension techniques, having pioneered the use of primitive cold frames and [[coleman-protected-cultivation]] for out-of-season [[coleman-french-historical-winter-vegetable-production]] in the 1670s and 1680s.
 
 ## Historical Significance
 
-La Quintinie's work at Versailles represents the earliest systematic development of protected cultivation for vegetable production in Europe. His innovations in the 1670s and 1680s laid the groundwork for what would eventually become the sophisticated Parisian maraichage system that peaked between 1850 and 1900.
+La Quintinie's work at Versailles represents the earliest systematic development of protected cultivation for vegetable production in Europe. His innovations in the 1670s and 1680s laid the groundwork for what would eventually become the sophisticated [[parisian-maraichage]] system that peaked between 1850 and 1900.
 
 ### The Potager du Roi
 
@@ -54,7 +54,7 @@ La Quintinie's pioneering work in protected cultivation is directly relevant to 
 
 - His cold frame concept evolved into the modern hoop house and high tunnel
 - His forcing techniques are the ancestors of modern season extension
-- His systematic approach to microclimate management informs current greenhouse design
+- His systematic approach to [[climate-and-microclimate-management]] informs current greenhouse design
 - His emphasis on year-round production parallels modern four-season farming goals
 
 ## Key Facts
@@ -74,14 +74,14 @@ La Quintinie's pioneering work in protected cultivation is directly relevant to 
 - Parisian Maraichage
 - Louis Savier
 - Eliot Coleman
-- Vincent Gressent
+- [[vincent-gressent]]
 - [[floating-row-cover]]
 
 ## Additional Notes
 
 La Quintinie's influence extends beyond France. His work was studied across Europe and helped establish the concept that food production could be divorced from natural seasonality through human ingenuity and protected cultivation. His potager at Versailles remains standing and is now a UNESCO World Heritage site, still producing fruit and vegetables using many of his original techniques.
 
-The transition from La Quintinie's royal-scale cold frames to the commercial Parisian maraicher system demonstrates how innovations initially developed for elite consumption can be democratized and scaled for urban food supply.
+The transition from La Quintinie's royal-scale cold frames to the commercial [[coleman-parisian-maraicher-system]] demonstrates how innovations initially developed for elite consumption can be democratized and scaled for urban food supply.
 
 ## See Also
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques|Query How Do I Extend My Growing Season With Cold Frames And Season Extension Techniques]]

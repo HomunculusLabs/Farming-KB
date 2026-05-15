@@ -59,7 +59,7 @@ Edge:      g g g g g g g g       (ground covers, herbs, brambles)
 **Shrubs**
 - Elderberry (Sambucus canadensis): Edible berries, flowers for fritters, wildlife magnet
 - Winterberry (Ilex verticillata): Brilliant red winter berries, bird food
-- Ninebark (Physocarpus opulifolius): Adaptable, attractive bark, pollinator nectar
+- Ninebark ([[physocarpus-opulifolius]]): Adaptable, attractive bark, pollinator nectar
 - Hazelnut (Corylus americana): Edible nuts, wildlife food
 - American cranberrybush (Viburnum opulus var. americanum): Berries for birds and jelly
 - Chokeberry (Aronia melanocarpa): Edible, antioxidant-rich berries
@@ -68,7 +68,7 @@ Edge:      g g g g g g g g       (ground covers, herbs, brambles)
 
 **Ground Covers and Herbaceous**
 - Wild strawberry (Fragaria virginiana)
-- Virginia creeper (Parthenocissus quinquefolia) — for vertical coverage
+- Virginia creeper ([[parthenocissus-quinquefolia]]) — for vertical coverage
 - Native ferns for shaded edges
 - [[ground-cover-plants]] like wild ginger, creeping phlox
 
@@ -78,12 +78,12 @@ Edge:      g g g g g g g g       (ground covers, herbs, brambles)
 - Beautyberry (Callicarpa americana): Purple fall berries, pollinator flowers
 - Persimmon (Diospyros virginiana): Edible fruit, wildlife food
 - Yaupon holly (Ilex vomitoria): Evergreen, caffeine-containing leaves, berries
-- Pawpaw (Asimina triloba): Edible fruit, tropical appearance, zebra swallowtail host
+- Pawpaw ([[asimina-triloba]]): Edible fruit, tropical appearance, zebra swallowtail host
 - Sumac (Rhus spp.): Fall color, berries for tea, wildlife food
 
 ### Pacific Northwest (Zones 7-9)
 
-- Oregon grape (Mahonia aquifolium): Evergreen, edible tart berries
+- Oregon grape ([[mahonia-aquifolium]]): Evergreen, edible tart berries
 - Red-flowering currant (Ribes sanguineum): Early hummingbird nectar source
 - Pacific ninebark (Physocarpus capitatus): Erosion control, wildlife cover
 - Salmonberry (Rubus spectabilis): Edible berries, thicket-forming
@@ -97,8 +97,8 @@ Including nitrogen fixers improves soil fertility for surrounding plants:
 - Russian olive (Elaeagnus angustifolia) — note: invasive in some areas
 - Sea buckthorn (Hippophae rhamnoides)
 - American silverberry (Elaeagnus commutata)
-- Black locust (Robinia pseudoacacia) — fast-growing, excellent fence posts
-- Siberian pea shrub (Caragana arborescens) — edible seeds, hardy
+- Black locust ([[robinia-pseudoacacia]]) — fast-growing, excellent fence posts
+- Siberian pea shrub ([[caragana-arborescens]]) — edible seeds, hardy
 - Redbud (Cercis spp.)
 
 ## Windbreak Function

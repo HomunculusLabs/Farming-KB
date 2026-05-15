@@ -1,5 +1,5 @@
 ---
-title: Manganese Peroxidase
+title: [[fungal-manganese-peroxidase-remediation]]
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
@@ -17,7 +17,7 @@ The Mn(III) product forms chelates with organic acids (e.g., oxalate) secreted b
 | Enzyme class | Oxidoreductase |
 | EC number | EC 1.11.1.13 |
 | Cofactor | Heme (iron protoporphyrin IX) |
-| Co-substrate | Hydrogen peroxide |
+| Co-substrate | [[cervantes-hydrogen-peroxide-sterilization]] |
 | Primary producers | White-rot and brown-rot basidiomycetes |
 | Key substrate | Mn(II) → Mn(III) |
 | pH optimum | 4.0–5.0 |
@@ -42,7 +42,7 @@ The Mn(III) product forms chelates with organic acids (e.g., oxalate) secreted b
 
 ## Ecological Significance
 
-The ecological role of this entity within broader ecosystem processes is significant for understanding fungal contributions to nutrient cycling, decomposition dynamics, and food web interactions. Fungi occupy central positions in detrital food webs and their enzymatic activities regulate the rate at which organic matter is processed and nutrients are made available for primary production. The interactions between this entity and other components of the soil and aquatic microbiome highlight the interconnected nature of fungal ecology and ecosystem function.
+The ecological role of this entity within broader ecosystem processes is significant for understanding fungal contributions to nutrient cycling, decomposition dynamics, and food web interactions. Fungi occupy central positions in detrital food webs and their enzymatic activities regulate the rate at which organic matter is processed and nutrients are made available for primary production. The interactions between this entity and other components of the soil and aquatic microbiome highlight the interconnected nature of fungal ecology [[fungal-biodiversity-and-ecosystem-function]].
 
 Understanding the ecological context of fungal species and their activities provides insights into the complexity of decomposition processes and the factors that regulate nutrient availability in terrestrial and aquatic ecosystems. The balance between immobilization and mineralization of nutrients by fungi is a key control point in ecosystem nutrient dynamics.
 
@@ -52,7 +52,7 @@ Understanding the ecological context of fungal species and their activities prov
 
 - MnP activity levels can indicate substrate colonization readiness for fruiting in species such as Pleurotus and Lentinula.
 
-- Significant biotechnological potential for bioremediation of phenolic pollutants, textile dye decolorization, and bioleaching.
+- Significant biotechnological potential for bioremediation of phenolic pollutants, [[fungal-laccase-and-textile-dye-decolorization]], and bioleaching.
 
 - Knowledge of MnP regulation by nutrient status informs fertilizer and supplementation strategies in mushroom production.
 
@@ -62,13 +62,13 @@ Understanding the ecological context of fungal species and their activities prov
 
 ## Environmental Context
 
-The study of this entity within the broader framework of fungal ecology and ecosystem processes highlights the interconnected nature of decomposition, nutrient cycling, and food web dynamics. Fungi occupy central positions in detrital food webs and their enzymatic activities regulate the rate at which organic matter is processed and nutrients are made available for primary production. The interactions between fungal species and their abiotic environment — including moisture, temperature, pH, and nutrient availability — determine the efficiency and trajectory of decomposition processes.
+The study of this entity within the broader framework of fungal ecology and ecosystem processes highlights the interconnected nature of decomposition, nutrient cycling, and food web dynamics. Fungi occupy central positions in detrital food webs and their enzymatic activities regulate the rate at which organic matter is processed and nutrients are made available for primary production. The interactions between fungal species and their abiotic environment — including moisture, temperature, pH, [[ph-and-nutrient-availability-garden-soils]] — determine the efficiency and trajectory of decomposition processes.
 
 In forest ecosystems, the balance between nutrient immobilization in fungal biomass and mineralization through decomposition is a key control point for soil fertility. The spatial and temporal heterogeneity of resource distribution on the forest floor creates a mosaic of decomposition microenvironments, each supporting distinct fungal communities adapted to local conditions. Understanding these patterns is essential for predicting ecosystem responses to environmental change.
 
 ## Research Directions
 
-Current research on this topic focuses on understanding the mechanistic basis of fungal interactions with their substrates and the environmental factors that regulate enzyme expression and community dynamics. Molecular approaches, including FT-IR spectrometry (Mascarenhas et al., 2000; Dighton et al., 2001), are beginning to reveal real-time microscale changes in substrate chemistry caused by fungal colonization. These techniques offer the potential to link fine-scale decomposition processes to ecosystem-level nutrient cycling models.
+Current research on this topic focuses on understanding the mechanistic basis of fungal interactions with their substrates and the environmental factors that regulate enzyme expression [[savory-plant-succession-and-community-dynamics]]. Molecular approaches, including FT-IR spectrometry (Mascarenhas et al., 2000; Dighton et al., 2001), are beginning to reveal real-time microscale changes in substrate chemistry caused by fungal colonization. These techniques offer the potential to link fine-scale decomposition processes to ecosystem-level nutrient cycling models.
 
 The development of mathematical models incorporating both microbial and environmental controls over decomposition (Sinsabaugh et al., 1993) enables hypothesis-driven experimental design. Such models allow researchers to systematically alter individual parameters to identify the key processes and organisms responsible for driving ecosystem functions.
 

@@ -1,5 +1,5 @@
 ---
-title: Flat Land Permaculture Design
+title: Flat Land [[bee-forage-systems-permaculture-design]]
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -23,7 +23,7 @@ The key principle is using the slope to your advantage — nutrients fall downhi
 
 ### Chicken Integration Above Gardens
 
-Placing chicken coops above garden sites provides multiple benefits:
+Placing [[faires-chicken-coops-tractors-and-breeding-guide]] above garden sites provides multiple benefits:
 
 - Chickens shred mulch as it passes through their system
 - Weed seeds are removed from mulch material
@@ -56,7 +56,7 @@ Earth banks are excellent at reducing traffic and environmental noise. The rule 
 Achieving privacy on flat land can be difficult. Earth banks surrounding a dwelling create visual screening and a sense of enclosure without the need for dense vegetation.
 
 ### Radiation Shielding
-Earth banks provide excellent radiation shielding from fire, protecting structures through their thermal mass.
+Earth banks provide excellent radiation shielding from fire, protecting structures through their [[comparison-windbreak-vs-thermal-mass]].
 
 ### Mulch and Silt Collection
 Earth banks accumulate leaf litter and silt from flowing water. This material can be transferred to gardens as high-quality mulch at very low cost.
@@ -68,7 +68,7 @@ On an alluvial plain with a noisy roadside and eroded gully, Mollison's team des
 
 - The cave extended beyond the house at both ends
 - One end opened to a pond at water level, glassed and trellised on top
-- The cool end served as cold storage for root vegetables
+- The cool end served as [[root-cellars-and-cold-storage]] for [[growing-root-vegetables-guide]]
 - Heat could be drawn up through ducts anywhere in the structure
 - The client gained an underground glass house, shower, and deck overlooking water
 - The cave remained dry, about a foot above dam level
@@ -95,7 +95,7 @@ A park director's property with excessive water flow across the site:
 ## Key Principles for Flat Land Design
 
 1. **Create your own slopes** — throw up roofs, tanks, and earth banks while keeping the house low
-2. **Study local wind patterns** — determine summer cooling winds, winter cold winds, and hot winds; any local longtime resident can tell you
+2. **Study local [[wind-patterns-and-beaufort-scale]]** — determine summer cooling winds, winter cold winds, and hot winds; any local longtime resident can tell you
 3. **Use earth as your primary material** — it's already on site, free, and multi-functional
 4. **Design for multiple functions** — every earth bank should serve windbreak, privacy, [[water-management]], and fire defense simultaneously
 5. **Keep houses low and tanks high** — or use upper rooms only as bedrooms with service rooms below

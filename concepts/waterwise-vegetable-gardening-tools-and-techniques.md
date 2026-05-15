@@ -1,5 +1,5 @@
 ---
-title: Waterwise Vegetable Gardening — Tools and Techniques
+title: Waterwise [[dryland-vegetable-gardening]] — [[levelling-tools-and-techniques]]
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -26,7 +26,7 @@ Effective watering goes beyond simply applying water. Key principles include:
 
 - **Fan nozzle application**: Using a fan nozzle on a hose delivers water in a gentle, wide spray that minimizes soil compaction and runoff, allowing better infiltration into the root zone.
 - **Night watering**: Watering during the evening or at night reduces evaporative losses significantly compared to daytime watering, when heat and wind can carry away a substantial portion of applied moisture.
-- **Fertigation**: Combining fertilization with irrigation (fertigation) delivers nutrients directly to the root zone in solution, improving nutrient uptake efficiency while simultaneously meeting water needs. Solomon describes fertigation techniques for beds producing 153–156 units.
+- **Fertigation**: Combining fertilization with irrigation (fertigation) delivers nutrients directly to the root zone in solution, improving nutrient uptake efficiency while simultaneously meeting water needs. Solomon describes [[fertigation-techniques]] for beds producing 153–156 units.
 - **Leaf watering considerations**: While foliar moisture can help in extreme heat, overhead watering that wets leaves excessively can promote fungal diseases. Solomon warns that disease incidence increases with certain sprinkler-based approaches.
 
 ### Watering Schedules
@@ -100,11 +100,11 @@ When purchasing transplants, Solomon advises attention to (83–87):
 
 ### Compost and Transplant Success
 
-Compost plays a key role in transplant establishment (68, 94–95). A handful of compost in each planting hole provides:
+Compost plays a key role in [[solomon-fertigation-and-transplant-establishment]] (68, 94–95). A handful of compost in each planting hole provides:
 
-- Immediate nutrient availability in a form accessible to stressed roots.
+- Immediate [[chelation-and-nutrient-availability]] in a form accessible to stressed roots.
 - Improved moisture retention around the transplant's root zone.
-- Beneficial microorganisms that help protect against soil-borne pathogens.
+- [[forest-and-bamboo-beneficial-microorganisms]] that help protect against soil-borne pathogens.
 
 ## Weeding Strategies
 

@@ -9,7 +9,7 @@ tags: [genus, salt-tolerant, halophyte, coastal, edible, dryland]
 
 Crithmum is a monotypic genus of flowering plants in the family Apiaceae, with the sole species Crithmum maritimum, commonly known as rock samphire or sea fennel. It is a coastal halophyte that grows on cliffs, rocky shores, and salt-affected habitats. Mollison references samphire (including Crithmum and [[permaculture]] systems on saline land
 - Requires minimal fresh water once established, making it suitable for dryland saline environments
-- As a member of the Apiaceae, may serve as an insectary plant supporting beneficial insects
+- As a member of the Apiaceae, may serve as an insectary plant supporting [[beneficial-insects-and-biological-pest-control]]
 
 ## Cultivation Notes
 
@@ -24,7 +24,7 @@ Crithmum is a monotypic genus of flowering plants in the family Apiaceae, with t
 
 ## Overview
 Crithmum Samphire represents an important component within sustainable
-design and ecological management systems. Understanding its role
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Understanding its role
 helps inform better integration strategies for diverse environments.
 The interactions between crithmum and surrounding ecological
 systems create complex feedback loops that enhance overall resilience.
@@ -38,7 +38,7 @@ Regional differences necessitate site-specific approaches.
 
 ## Practical Applications
 Crithmum Samphire has several practical applications in sustainable systems.
-Integration with permaculture design principles enhances its utility.
+Integration with [[permaculture-design-principles]] enhances its utility.
 Consideration of local climate and soil conditions is essential.
 Multiple functions can be served within a single system design.
 
@@ -61,7 +61,7 @@ Long-term ecological health depends on responsible stewardship.
 
 ## Historical Significance
 Crithmum Samphire has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
 ## See Also
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Crithmum Samphire finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -101,7 +101,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 crithmum samphire and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

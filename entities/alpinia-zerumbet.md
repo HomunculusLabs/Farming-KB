@@ -39,15 +39,15 @@ Fruits are globose capsules 1–1.5 cm in diameter, orange-red when ripe, contai
 
 ## Distribution and Habitat
 
-A. zerumbet is native to eastern India, southern China, Taiwan, and the Ryukyu Islands of Japan. It has been introduced and naturalized throughout tropical and subtropical Asia, the Pacific Islands, and parts of the Americas.
+A. zerumbet is native to eastern India, southern China, Taiwan, and the Ryukyu Islands of Japan. It has been introduced and naturalized throughout tropical and subtropical Asia, the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and parts of the Americas.
 
 The species grows naturally in forest margins, thickets, and disturbed areas at low to middle elevations (0–800 m). It prefers warm, humid conditions with annual rainfall exceeding 1500 mm.
 
-Shell ginger is frost-sensitive and does not tolerate temperatures below 5°C for extended periods. In subtropical climates, the aerial stems die back in winter and regrow from the rhizome in spring. It performs best in partial shade to full sun with rich, well-drained soils.
+Shell ginger is frost-sensitive and does not tolerate temperatures below 5°C for extended periods. In [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], the aerial stems die back in winter and regrow from the rhizome in spring. It performs best in partial shade to full sun with rich, well-drained soils.
 
 ## Chemistry and Pharmacology
 
-The leaves contain significant quantities of phenolic compounds, primarily diarylheptanoids. The major bioactive constituents include **caftaric acid**, **5-O-caffeoylquinic acid**, and various flavonoid glycosides.
+The leaves contain significant quantities of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], primarily diarylheptanoids. The major bioactive constituents include **caftaric acid**, **5-O-caffeoylquinic acid**, and various flavonoid glycosides.
 
 The essential oil is composed mainly of monoterpenes, with **1,8-cineole** ([[eucalyptol]]), **α-pinene**, **β-pinene**, and **limonene** as principal components. The oil content ranges from 0.1–0.5% of fresh leaf weight.
 
@@ -65,7 +65,7 @@ The leaves are brewed into a popular herbal tea (*getto-cha*) consumed daily in 
 
 In traditional Chinese medicine, the seeds (known as *yi-zhi-ren* or *cardamom of the mountains*) are used to warm the spleen, stop diarrhea, and promote digestion. The rhizome is used similarly to other *Alpinia* species.
 
-In Southeast Asian folk medicine, leaf poultices are applied to wounds and skin infections. A decoction of the rhizome is consumed for stomach ache and intestinal parasites.
+In [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] folk medicine, leaf poultices are applied to wounds and skin infections. A decoction of the rhizome is consumed for stomach ache and intestinal parasites.
 
 The essential oil of A. zerumbet has shown insecticidal and larvicidal activity against mosquito vectors of dengue and malaria. This has generated interest in the plant as a source of natural biopesticides for vector control programs.
 
@@ -77,7 +77,7 @@ Plants are established at 0.5–1 m spacing in fertile, organic-rich soil. Regul
 
 The species is relatively pest-free but may be affected by mealybugs, [[cervantes-foliar-spots-blight-fungal-leaf-diseases]] spot diseases in humid conditions. Good [[stamets-growing-room-air-circulation-co2-management]] and well-drained soil minimize disease pressure.
 
-In temperate climates, A. zerumbet is grown as a container plant and overwintered indoors. The rhizomes survive light frosts if well-mulched, but extended freezing kills the plant.
+[[query-how-to-grow-and-use-oca-in-temperate-climates]], A. zerumbet is grown as a container plant and overwintered indoors. The rhizomes survive light frosts if well-mulched, but extended freezing kills the plant.
 
 ## Ethnobotany and Cultural Significance
 
@@ -85,4 +85,4 @@ A. zerumbet holds particular cultural importance in Okinawa, Japan, where it is 
 
 The plant is incorporated into traditional Okinawan festivals and rituals. Its flowers are used in seasonal decorations, and the leaves are used to wrap ceremonial foods. The species is considered a symbol of resilience due to its ability to recover quickly from typhoon damage.
 
-In Hawaii, A. zerumbet has become naturalized and is known as "shell ginger." It is used in traditional Hawaiian healing practices and is commonly planted around homes for its ornamental value and cultural associations.
+In Hawaii, A. zerumbet has become naturalized and is known as "shell ginger." It is used in traditional Hawaiian [[blesching-cannabis-healing-practices-setting-intention-affirmations]] and is commonly planted around homes for its ornamental value and cultural associations.

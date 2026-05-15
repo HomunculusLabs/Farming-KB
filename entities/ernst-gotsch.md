@@ -19,7 +19,7 @@ sources:
   - Wilmsen C., Fikret P. (2017). "query-what-is-syntropic-agriculture-and-how-do-i-start: A Dialogue with Ernst Götsch." Agroecology and Sustainable Food Systems, 41(8), 808-822.
   - Via Campesina (2019). "Ernst Götsch and Syntropic Farming in Brazil." La Via Campesina Documentation Series.
   - Tavares M.S. (2015). "Life in Syntropy: A Film About Ernst Götsch." Documentary film, 45 min.
-  - Fonseca M.L. (2020). "Syntropic Agriculture as a Regenerative Strategy for Degraded Pastures in the Brazilian Atlantic Forest." Agroforestry Systems, 94(4), 1485-1497.
+  - Fonseca M.L. (2020). "[[comparison-hugelkultur-vs-syntropic-agriculture]] as a Regenerative Strategy for Degraded Pastures in the Brazilian Atlantic Forest." Agroforestry Systems, 94(4), 1485-1497.
 ---
 
 # Ernst Götsch
@@ -36,11 +36,11 @@ Götsch's approach is rooted in the observation that natural ecosystems do not r
 
 The key insight is that **plants are not competitors but collaborators** in a syntropic (mutually beneficial) system. By arranging species in the correct temporal and spatial sequence, each planting prepares optimal conditions for the next. This stands in contrast to the competitive framing of conventional agriculture, where plants are managed as rivals for water, nutrients, and light.
 
-Götsch distinguishes syntropic agriculture from organic or agroecological farming by its emphasis on active succession management rather than mere input substitution. The goal is not to avoid synthetic fertilizers but to create systems so productive that external inputs become unnecessary.
+Götsch distinguishes syntropic agriculture from organic or agroecological farming by its emphasis on active succession management rather than mere input substitution. The goal is not to avoid [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] but to create systems so productive that external inputs become unnecessary.
 
 ## Ecological Impact
 
-Götsch's work has demonstrated measurable ecological restoration on degraded tropical land:
+Götsch's work has demonstrated measurable [[mycorrhizal-fungi-ecological-restoration]] on degraded tropical land:
 
 - **Soil regeneration:** Organic matter content in syntropic systems increases from <1% (degraded pasture) to 5–8% within 10–15 years. Soil structure, water retention, and biological activity recover substantially.
 - **Water cycle restoration:** Restored forest canopy and soil organic matter dramatically improve water infiltration and retention. Springs and streams that had dried up on degraded land have recovered flow within syntropic systems.
@@ -64,7 +64,7 @@ Economic analysis suggests that syntropic systems reach profitability within 3�
 ## Overview
 
 Ernst Gotsch represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -85,7 +85,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ernst Gotsch finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -114,7 +114,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 ernst gotsch and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

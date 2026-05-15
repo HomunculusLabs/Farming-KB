@@ -1,5 +1,5 @@
 ---
-title: Allegro Menstrual Blood Creative Process Purple Fertility
+title: Allegro Menstrual Blood [[allegro-womans-part-in-the-creative-process]] Purple Fertility
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---

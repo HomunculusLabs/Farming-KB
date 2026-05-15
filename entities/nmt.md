@@ -22,7 +22,7 @@ sources:
   - Szára, S. (1956). "Dimethyltryptamine: its metabolism in man." Science, 123(3186), 104–105.
   - Shanahan, B. & Whiteman, M. (2015). "Authoritative overview of dietary (Pharma-)nutritional psychedelics." Journal of Psychoactive Drugs, 47(5), 383–391.
   - Tiwari, H.K. et al. (2023). "Tryptamine derivatives: a review of occurrence, synthesis, and pharmacology." Frontiers in Chemistry, 11, 1185.
-  - Jacob, M.S. & Presti, D.E. (2005). "Endogenous psychoactive tryptamines reconsidered." Journal of Psychoactive Drugs, 37(2), 167–178.
+  - Jacob, M.S. & Presti, D.E. (2005). "Endogenous [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]] reconsidered." Journal of Psychoactive Drugs, 37(2), 167–178.
 created: 2026-05-07
 ---
 
@@ -34,7 +34,7 @@ created: 2026-05-07
 
 NMT was first isolated and characterized in the 1950s during the early wave of tryptamine alkaloid research led by figures including J. Axelrod and S. Szára.
 
-The identification of NMT in human tissues followed the discovery of DMT as an endogenous compound, part of the broader exploration of endogenous psychoactive substances.
+The identification of NMT in human tissues followed the discovery of DMT as an endogenous compound, part of the broader exploration of endogenous [[cultural-evolution-and-psychoactive-substances]].
 
 Interest in NMT increased in the 2000s as analytical methods improved, allowing detection of trace tryptamines in plant matrices and biological samples at increasingly low concentrations.
 
@@ -54,15 +54,15 @@ The compound is structurally positioned between tryptamine (primary amine) and D
 
 The freebase form is volatile and can be vaporized, though its vaporization temperature and pharmacological activity via this route are less characterized than DMT.
 
-NMT serves as a biosynthetic precursor to DMT via the enzyme indolethylamine N-methyltransferase (INMT), which catalyzes the second methylation step.
+NMT serves as a [[stigmasterol-as-brassinosteroid-biosynthetic-precursor]] to DMT via the enzyme indolethylamine N-methyltransferase (INMT), which catalyzes the second methylation step.
 
 ## Pharmacology
 
-NMT acts primarily as a serotonin receptor agonist, with binding affinity for 5-HT₂A, 5-HT₁A, and 5-HT₂C receptor subtypes.
+NMT acts primarily as a [[serotonin-receptor-interference-psychedelic-mechanism]] agonist, with binding affinity for 5-HT₂A, 5-HT₁A, and 5-HT₂C receptor subtypes.
 
 Its affinity at the 5-HT₂A receptor is significantly lower than that of DMT, approximately 5–10 times less potent in [[yopo-anadenanthera-peregrina-snuff]]** (yopo), **Virola** spp. (Amazonian snuff resins), and **[[mimosa-tenuiflora]]** (jurema).
 
-It has also been detected in **Desmanthus illinoensis**, **Phalaris** grasses, and various species of legumes where it likely serves a defensive ecological function.
+It has also been detected in **[[desmanthus-illinoensis]]**, **Phalaris** grasses, and various species of legumes where it likely serves a defensive ecological function.
 
 In mammals, NMT has been detected in human urine, blood plasma, and brain tissue, suggesting it is an endogenous trace amine produced via methylation of tryptamine by INMT.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Nmt finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

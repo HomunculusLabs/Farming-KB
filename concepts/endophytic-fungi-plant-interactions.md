@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Endophytic Fungi and Plant Interactions
 
-Endophytic fungi live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens.
+[[endophytic-fungi]] live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens.
 
 ## Types of Endophytes
 
@@ -17,7 +17,7 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 - Systemic infections of grasses (cool-season grasses: Festuca, Lolium)
 - Vertically transmitted (through seeds) and horizontally (through spores)
 - Produce alkaloids toxic to herbivores and some pathogens
-- Examples: Epichloe festucae in tall fescue, Neotyphodium in perennial ryegrass
+- Examples: [[epichloe-festucae]] in tall fescue, Neotyphodium in perennial ryegrass
 
 ### Non-Clavicipitaceous Endophytes (Classes 2-4)
 - Found in all plant groups (not just grasses)
@@ -32,7 +32,7 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 - Produce plant hormones (auxins, gibberellins, cytokinins)
 - Enhance nutrient uptake (solubilize phosphate, fix nitrogen)
 - Increase root biomass and branching
-- Improve photosynthetic efficiency
+- Improve [[photosynthetic-efficiency]]
 
 ### Stress Tolerance
 - **Drought**: Endophytes produce osmolytes that help plants retain water
@@ -44,7 +44,7 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 ### Pest and Disease Resistance
 - Produce anti-herbivore alkaloids (in Clavicipitaceous endophytes)
 - Antibacterial and antifungal metabolites suppress pathogens
-- Induce systemic resistance in the host plant
+- Induce [[endophytic-mycorrhizal-induced-systemic-resistance]] in the host plant
 - Competitive exclusion of pathogens in plant tissue
 
 ### Competitive Advantage
@@ -62,7 +62,7 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 ### Crop Plants
 - Inoculation with endophytes to improve stress tolerance
 - Endophyte-treated rice shows improved drought and salt tolerance
-- Endophytes of medicinal plants produce bioactive compounds
+- Endophytes of medicinal plants produce [[cordyceps-cancer-bioactive-compounds]]
 - Potential for reducing fertilizer and pesticide inputs
 
 ### Biocontrol
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Endophytic Fungi Plant Interactions finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 endophytic fungi plant interactions and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

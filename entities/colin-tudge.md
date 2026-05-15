@@ -15,15 +15,15 @@ Colin Tudge is a British biologist, science writer, and author known for his wor
 
 - **Category**: Person / Scientist / Author
 - **Nationality**: British
-- **Fields**: Biology, agricultural science, science communication
+- **Fields**: Biology, [[fukuoka-critique-agricultural-science-laws-liebig]], science communication
 - **Era**: Late 20th century to present
 
 ## Key Facts
 
 - Published influential analysis in New Scientist (1986) on land use and rewilding potential of the British Isles
 - Estimated that approximately 60% of the British Isles could be given back to nature
-- This conservative estimate supported the permaculture argument that intensive food production on small areas can free vast tracts for ecological restoration
-- Mollison contrasted this with [[john-jeavons]]' even more ambitious estimate of 94% based on biointensive gardening methods
+- This conservative estimate supported the permaculture argument that intensive food production on small areas can free vast tracts for [[mycorrhizal-fungi-ecological-restoration]]
+- Mollison contrasted this with [[john-jeavons]]' even more ambitious estimate of 94% based on [[biointensive-gardening-and-minifarming]] methods
 - His work helped challenge the assumption that agriculture (rather than individual and market gardening) provides the food people actually eat
 - Advocate for the idea that small-scale intensive horticulture is more productive per unit area than broadacre agriculture
 - His 1986 article provided quantitative backing for permaculture land use principles
@@ -48,7 +48,7 @@ Colin Tudge is a British biologist, science writer, and author known for his wor
 - John Jeavons estimated even higher: 94% could be returned based on biointensive gardens
 
 ### Conservation and Rewilding
-- His work on returning land to nature aligns with permaculture ethics of earth care
+- His work on returning land to nature aligns with [[permaculture-ethics-of-earth-care-and-people-care]] earth care
 - Demonstrated that conservation and food production need not be in conflict
 - Provided quantitative estimates that made the case for rewilding credible and specific
 - Influenced subsequent thinking about ecosystem restoration at landscape scale
@@ -86,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Colin Tudge finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -115,7 +115,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 colin tudge and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

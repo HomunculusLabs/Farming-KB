@@ -20,7 +20,7 @@ Genetics). Named for its devastatingly potent effects, this strain has earned le
 status among both growers and connoisseurs for its extraordinarily high THC content,
 complex [[psilocybin-therapeutic-applications]]. With tested THC levels reaching
 26.6%, Jack the Ripper is one of the most potent sativa-dominant strains documented in
-S.T. Oner's Cannabis Sativa series. (see [[cannabis-strain-mango-haze-northern-lights-skunk-haze]] #5 and Purple Haze genetics. The Cleaner earned its name
+S.T. Oner's [[cannabis-sativa]] series. (see [[cannabis-strain-mango-haze-northern-lights-skunk-haze]] #5 and Purple Haze genetics. The Cleaner earned its name
 from its distinctive Mr. Clean-like odor. The Jack's Cleaner line was ultimately
 pollinated by a Jack Herer female to stabilize the prized characteristics. (see [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]]. This deep genetic heritage from some of the most
 celebrated cannabis lines gives Jack the Ripper an exceptionally complex and layered

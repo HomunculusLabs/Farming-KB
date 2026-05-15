@@ -33,7 +33,7 @@ Homocysteine can be remethylated to methionine, closing the methionine cycle.
 Alternatively, homocysteine can enter cysteine and glutathione synthesis.
 SAM can also be decarboxylated for aminopropylation reactions.
 Those reactions contribute to polyamine biosynthesis.
-Polyamines such as spermidine and spermine support growth, translation, and stress responses.
+Polyamines such as spermidine and spermine support growth, translation, [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]].
 Thus SAM sits at the junction of methylation, sulfur balance, antioxidant capacity, and cellular proliferation.
 ## Regulatory Importance
 Because SAM reflects methionine and ATP status, cells use it as a metabolic signal.
@@ -71,7 +71,7 @@ communities, and systematic experimentation to build expertise.
 ## Overview
 
 S Adenosylmethionine represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -85,14 +85,14 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving s extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
 ## Practical Applications
 
 S Adenosylmethionine finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,13 +100,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for s adenosylmethionine. Climate adaptation
+opportunities for s adenosylmethionine. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 s adenosylmethionine and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

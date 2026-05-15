@@ -8,17 +8,17 @@ type: concept
 
 ## Overview
 
-Hydroponics is a method of growing plants without soil, using nutrient-rich water solutions as the growing medium. Cannabis plants respond exceptionally well to hydroponic cultivation, typically producing faster growth and higher yields than soil-based methods. This page covers the core principles of [[hydroponic-cannabis]] growing.
+Hydroponics is a method of growing plants without soil, using nutrient-rich water solutions as the [[cervantes-green-algae-growing-medium]]. Cannabis plants respond exceptionally well to hydroponic cultivation, typically producing faster growth and higher yields than soil-based methods. This page covers the core principles of [[hydroponic-cannabis]] growing.
 
 ## Basic Hydroponic System Components
 
 A simple hydroponic system consists of:
 
 1. **Pot/Container** — Holds the grow medium.
-2. **Reservoir** — Holds the nutrient solution.
+2. **Reservoir** — Holds the [[cannabis-nutrient-solution-preparation]].
 3. **Grow Medium** — Supports the plant (rockwool, clay pebbles, coco coir, etc.).
 4. **Pump** — Delivers nutrient solution to the plants.
-5. **Nutrient Solution** — Water with dissolved mineral nutrients.
+5. **Nutrient Solution** — Water with dissolved [[mineral-nutrients-magnesium-aluminium-silicon-phosphorus]].
 
 ### How It Works
 
@@ -37,8 +37,8 @@ Hydroponics produces **massive root clusters** — a single plant can fill a 2-g
 ### 3-Part Nutrient Systems
 
 Popular systems like the **G.H. Flora Series** use three components:
-- **Gro** — Vegetative growth nutrients.
-- **Micro** — Micronutrients and trace elements.
+- **Gro** — [[cannabis-vegetative-growth-stage]] nutrients.
+- **Micro** — [[teaming-with-nutrients-micronutrients-and-trace-elements]] elements.
 - **Bloom** — Flowering nutrients.
 
 Experienced growers can adjust these ratios to optimize performance for each growth phase.
@@ -96,5 +96,5 @@ Experienced growers can adjust these ratios to optimize performance for each gro
 
 ## See Also
 
-- [[cannabis-indoor-growing-environmental-control]] — Environmental parameters
+- [[cannabis-indoor-growing-environmental-control]] — [[mushroom-cultivation-environmental-parameters]]
 - [[cannabis-grow-lighting-hid-systems]] — Lighting selection and setup

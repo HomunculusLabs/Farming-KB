@@ -67,7 +67,7 @@ The Trainwreck × GSC cross represents a strategic pairing that addresses comple
 
 - **Flowering time**: 9-10 weeks — slightly longer than pure Trainwreck due to the GSC influence
 - **Stretch**: Moderate to significant (1.5-2x) in the first 2-3 weeks after switching to 12/12
-- **Bud development**: Dense, heavy buds form throughout the plant. The GSC parentage contributes to exceptional calyx density and resin production
+- **Bud development**: Dense, heavy buds form throughout the plant. The GSC parentage contributes to exceptional calyx density [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]]
 - **Color potential**: Buds may develop purple, blue, or pink hues in the final 2-3 weeks, especially if night temperatures drop below 15°C (59°F)
 - **Trichome production**: Very heavy — both parents are known for exceptional resin production
 - **Support**: Essential in later flowering. Install trellis netting or bamboo stakes to prevent branches from bending or breaking under bud weight
@@ -81,7 +81,7 @@ The Trainwreck × GSC cross represents a strategic pairing that addresses comple
 ## Overview
 
 Oner Cookie Wreck Trainwreck Girl Scout Cookies Hybrid represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Oner Cookie Wreck Trainwreck Girl Scout Cookies Hybrid finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -110,13 +110,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for oner cookie wreck trainwreck girl scout cookies hybrid. Climate adaptation
+opportunities for oner cookie wreck trainwreck girl scout cookies hybrid. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 oner cookie wreck trainwreck girl scout cookies hybrid and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

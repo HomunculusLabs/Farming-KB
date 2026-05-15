@@ -8,7 +8,7 @@ tags: [mckenna, shamanism, culture, religion, ecstasy, monotheism, dominator]
 
 # Habit as Culture and Religion
 
-In Chapter 5 of *Food of the Gods*, Terence McKenna explores the
+In Chapter 5 of *Food of the Gods*, [[terence-mckenna]] explores the
 relationship between habitual psychoactive plant use, the formation
 of culture, and the emergence of organized religion. He argues that
 religion has its roots in the ecstatic experiences provided by
@@ -35,7 +35,7 @@ remote, transcendent, and mediated exclusively through a male priesthood.
 McKenna uses this term to describe a religious orientation that:
 
 - Insists on a single male deity separate from and superior to nature
-- Denies the legitimacy of direct personal experience of the divine
+- Denies the legitimacy of direct [[palmer-mushroom-cooking-and-personal-experience]] of the divine
 - Requires intermediaries (priests, prophets, scriptures) to mediate
   the human-sacred relationship
 - Views nature as a resource to exploit, not a living community
@@ -72,7 +72,7 @@ The partnership/dominator divide is most visible in sexual politics:
 ## Overview
 
 Mckenna Habit Culture Religion represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mckenna Habit Culture Religion finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for mckenna habit culture religion. Climate adaptation
+opportunities for mckenna habit culture religion. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mckenna habit culture religion and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

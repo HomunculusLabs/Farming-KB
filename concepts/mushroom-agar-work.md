@@ -4,7 +4,11 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, lab-technique, preparation, recipe, workflow, genetics]
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
+  - "raw/papers/unknown-working-with-agar.md"
+  - "raw/papers/working-with-agar.md"
 ---
 
 ## Overview

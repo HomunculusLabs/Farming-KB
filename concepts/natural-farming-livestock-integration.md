@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Livestock Integration
+title: [[chos-global-natural-farming-livestock-applications]] Integration
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - Produce eggs and meat
 
 ### Integration Methods
-- **Chicken tractors**: Moveable pens placed over garden beds between crops; chickens scratch, fertilize, and weed the bed in 1-2 weeks
+- **[[mollison-designers-chicken-tractors-egg-production]]**: Moveable pens placed over garden beds between crops; chickens scratch, fertilize, and weed the bed in 1-2 weeks
 - **Free-range in orchards**: Chickens forage fallen fruit (reducing pest overwintering), eat codling moth larvae, and fertilize fruit trees
 - **Deep litter system**: Chickens in a coop with deep bedding (straw, leaves) that composts in place; remove finished compost for garden beds
 - **Winter housing**: Chickens can overwinter in a greenhouse, adding CO2 and heat while producing manure
@@ -55,7 +55,7 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - Manure is a good soil amendment (needs composting before use)
 
 ### Integration
-- Rotational grazing on marginal land, brushy areas, and fallow fields
+- [[comparison-rotational-grazing-vs-continuous-grazing]] on marginal land, brushy areas, and fallow fields
 - Fence with electric netting; rotate every 3-7 days
 - 2-4 goats per acre on brushy land
 - Keep away from fruit trees and gardens (they eat everything)
@@ -74,7 +74,7 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 
 ## Overview
 
-Natural Farming Livestock Integration represents an important element within sustainable
+[[natural-farming]] Livestock Integration represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Natural Farming Livestock Integration finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -110,7 +110,7 @@ Integration with complementary elements enhances system function.
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for natural farming livestock integration. Climate adaptation
+opportunities [[query-how-do-clay-seed-balls-work-for-natural-farming]] livestock integration. Climate adaptation
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -137,7 +137,7 @@ current understanding and implementation strategies.
 
 ## Integration Strategies
 
-Successful integration of natural farming livestock integration into broader
+Successful integration [[four-principles-of-natural-farming]] livestock integration into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.

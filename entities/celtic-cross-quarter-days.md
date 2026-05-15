@@ -21,7 +21,7 @@ The Celtic cross-quarter days are four agricultural festivals from the pagan cal
 
 ### The Four Cross-Quarter Festivals
 
-1. **Imbolc** (February 1-2): Celebrates the growing of the light, the onset of lactation in ewes about to give birth, and Brigid, the goddess of fire and fertility. Fires were lit to represent the increasing power of the returning sun. On Coleman's farm, this is when more rapid spring growth begins in the greenhouses as the Persephone period draws to a close.
+1. **Imbolc** (February 1-2): Celebrates the growing of the light, the onset of lactation in ewes about to give birth, and Brigid, the goddess of fire and fertility. Fires were lit to represent the increasing power of the returning sun. On Coleman's farm, this is when more rapid spring growth begins in the greenhouses as the [[persephone-period]] draws to a close.
 
 2. **Beltane** (May 1): Marks the beginning of the summer pastoral season when grasses for livestock begin to grow again and the lushness of summer begins. Coleman noted that outdoor transplanted vegetables begin their season of rapid growth right about May 1.
 
@@ -51,7 +51,7 @@ The cross-quarter days provide natural milestones for the four-season grower:
 - **Imbolc**: Begin planning spring greenhouse sowings; rapid growth resumes
 - **Beltane**: Safe to begin outdoor transplanting; summer production begins
 - **Lughnasadh**: Begin fall and winter crop sowings in greenhouses
-- **Samhain**: Outdoor harvest ends; shift fully to protected cultivation
+- **Samhain**: Outdoor harvest ends; shift fully to [[coleman-protected-cultivation]]
 
 ### Connection to Day Length
 
@@ -67,11 +67,11 @@ This correspondence suggests that ancient farmers were well aware of the biologi
 
 ## Relationship to Other Concepts
 
-- **Persephone days**: The growth-slowdown period bounded by Samhain and Imbolc
+- **[[persephone-days]]**: The growth-slowdown period bounded by Samhain and Imbolc
 - **Ten-hour day**: The light threshold that corresponds to the cross-quarter dates
-- **Succession planting**: The cross-quarter days mark key planting and harvest transitions
-- **Winter harvest**: Samhain marks the transition from outdoor to protected cultivation
-- **Eliot Coleman**: The modern grower who recognized the practical agricultural significance of these ancient festivals
+- **[[coleman-succession-planting]]**: The cross-quarter days mark key planting and harvest transitions
+- **[[cold-greenhouse-winter-harvest]]**: Samhain marks the transition from outdoor to protected cultivation
+- **[[eliot-coleman-and-the-winter-harvest-handbook]]**: The modern grower who recognized the practical agricultural significance of these ancient festivals
 
 ## See Also
 - [[mdma-tolerance-and-cross-tolerance|Mdma Tolerance And Cross Tolerance]]

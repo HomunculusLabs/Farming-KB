@@ -1,5 +1,5 @@
 ---
-title: Phototropism Plant Light Perception
+title: Phototropism [[chamovitz-ultraviolet-and-infrared-plant-light-perception]]
 created: 2026-05-11
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [phototropism, plant-vision, photoreceptor, darwin, blue-light, auxin]
@@ -46,7 +46,7 @@ The auxin redistribution is mediated by PIN proteins — auxin efflux carriers
 that are repositioned within cell membranes in response to blue light
 perception by phototropins. This precise cellular choreography converts a
 light gradient into a growth gradient, enabling plants to optimize their
-position relative to light sources for maximum photosynthetic efficiency.
+position relative to light sources for maximum [[photosynthetic-efficiency]].
 
 ## Photoperiodism: Measuring Day Length
 
@@ -74,14 +74,14 @@ and photoperiod all influence plant growth, morphology, flowering time, and
 ## References
 
 - Chamovitz D (2012) What a Plant Knows. Oneworld Publications.
-- Darwin C, Darwin F (1880) The Power of Movement in Plants.
+- Darwin C, Darwin F (1880) The [[darwin-power-of-movement-in-plants]] in Plants.
 - Sachs J (1864) Über das Wachsthum der Wurzeln.
 - Garner WW, Allard HA (1918) J Agric Res 1: 55-72.
 
 ## Overview
 
 Phototropism Plant Light Perception represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phototropism Plant Light Perception finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 phototropism plant light perception and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

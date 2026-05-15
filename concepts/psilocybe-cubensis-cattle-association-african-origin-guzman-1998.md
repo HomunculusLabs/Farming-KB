@@ -69,7 +69,7 @@ Spanish colonial period. The reasoning follows several lines of evidence:
    of cattle herding by indigenous peoples.
 
 3. **Historical trade routes**: The transatlantic slave trade operated between
-   West Africa and the Americas (Mexico, Central America, Caribbean, South
+   West Africa and the Americas (Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Caribbean, South
    America) during the 16th through 19th centuries. It is plausible that
    spore-contaminated cattle or fodder carried the fungus across the Atlantic.
 
@@ -79,8 +79,8 @@ Spanish colonial period. The reasoning follows several lines of evidence:
 
 ## Overview
 
-Psilocybe Cubensis Cattle Association African Origin Guzman 1998 represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]] Association African Origin Guzman 1998 represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Psilocybe Cubensis Cattle Association African Origin Guzman 1998 finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -115,7 +115,7 @@ Integration with complementary elements enhances system function.
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for psilocybe cubensis cattle association african origin guzman 1998. Climate adaptation
+opportunities [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] cattle association african origin guzman 1998. Climate adaptation
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 psilocybe cubensis cattle association african origin guzman 1998 and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Tachinid wasps, more accurately called tachinid flies, are a large and diverse family of parasitic insects in the order Diptera. Despite Mollison referring to them as wasps, they are true flies (two-winged) rather than wasps (four-winged). They are among the most important groups of beneficial insects in agricultural and ecological systems, with nearly all species being parasitoids of other arthropods, particularly caterpillars, beetles, and true bugs.
+Tachinid wasps, more accurately called tachinid flies, are a large and diverse family of parasitic insects in the order Diptera. Despite Mollison referring to them as wasps, they are true flies (two-winged) rather than wasps (four-winged). They are among the most important groups of [[beneficial-insects-and-biological-pest-control]] in agricultural and ecological systems, with nearly all species being parasitoids of other arthropods, particularly caterpillars, beetles, and true bugs.
 
 In Mollison's permaculture framework, Tachinid wasps are specifically identified as key predatory insects attracted to insectary interplants in orchard systems. Their presence is a critical component of [[orchard-plant-guilds]], Tachinid flies are among the primary beneficial insects attracted by insectary interplants. They parasitise key orchard pests including codlin moth (Cydia pomonella), fruit fly larvae, and various leaf-feeding caterpillars. Mollison notes that a combination of predatory insects (including Tachinids), insectivorous birds, and strategic interplanting can reduce pest incidence dramatically below monocrop levels.
 
@@ -41,7 +41,7 @@ Small trees and shrubs planted in windbreaks around orchards also support Tachin
 
 ## Ecological Significance
 
-Tachinid flies represent one of the most diverse and ecologically important families of parasitoid insects. Their collective impact on herbivorous insect populations is estimated to exceed that of all other parasitoid groups combined in many terrestrial ecosystems. In natural systems, they serve as a primary population regulation mechanism for Lepidoptera and Coleoptera species, preventing outbreaks that could devastate plant communities.
+Tachinid flies represent one of the most diverse and ecologically important families of parasitoid insects. Their collective impact on herbivorous insect populations is estimated to exceed that of all other parasitoid groups combined in many terrestrial ecosystems. In natural systems, they serve as a primary [[fungal-pathogens-animal-population-regulation]] mechanism for Lepidoptera and Coleoptera species, preventing outbreaks that could devastate plant communities.
 
 The evolutionary arms race between Tachinids and their hosts has produced remarkable specialisations. Some species locate hosts by detecting volatile chemical signals released by damaged host plants (parasitoid learning), while others intercept host pheromone trails. A few tropical species are phonotactic, locating their cricket and katydid hosts by homing in on the insects' mating calls.
 
@@ -50,8 +50,8 @@ The evolutionary arms race between Tachinids and their hosts has produced remark
 In well-designed permaculture orchards, Tachinid flies function as part of a complex beneficial organism community that includes:
 
 - **Predatory wasps:** Robber flies, jewel beetles, and hunting wasps target different pest species and life stages
-- **Ladybirds (Coccinellidae):** Focus on aphid and scale insect control, complementing Tachinid caterpillar control
-- **Pollinator bees and wasps:** Ensured by the same [[mycorrhizal-fungi]] and saprophytic decomposers. The reduced chemical inputs in biological-control-managed orchards allow fungal networks to develop more fully, improving nutrient cycling and tree health. Tachinid pupae overwintering in orchard soils may also serve as prey for ground-foraging poultry, linking above-ground and below-ground food webs in integrated permaculture animal-plant-fungal systems.
+- **Ladybirds (Coccinellidae):** Focus on aphid and [[cervantes-mealybugs-scale-insect-control]], complementing Tachinid caterpillar control
+- **Pollinator bees and wasps:** Ensured by the same [[mycorrhizal-fungi]] and [[mycelium-running-saprophytic-decomposers]]. The reduced chemical inputs in biological-control-managed orchards allow fungal networks to develop more fully, improving [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] tree health. Tachinid pupae overwintering in orchard soils may also serve as prey for ground-foraging poultry, linking above-ground and below-ground food webs in integrated permaculture animal-plant-fungal systems.
 
 ## Overview
 
@@ -106,7 +106,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 tachinid wasp and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

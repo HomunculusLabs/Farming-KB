@@ -9,7 +9,7 @@ type: entity
 ## Description
 
 Kniphofia is a genus of approximately 70 species of perennial flowering plants in the family Asphodelaceae, native primarily to southern and eastern Africa. Commonly known as red hot pokers or torch lilies, they produce tall, dense spikes of tubular flowers in striking gradations of red, orange, and yellow. The genus is named after Johann Hieronymus Kniphof, an 18th-century German botanist. In [[permaculture]] orchard design, Kniphofia is recommended alongside Fuchsia spp., [[orchard-management]] strategies.
-- When combined with other pest reduction strategies — disease-resistant stock, minimal pruning, predatory insects, leguminous interplants, windbreak and mulch, and ground foraging by poultry — pest species can be reduced to 4-7% of monocrop orchard levels.
+- When combined with other pest [[firebreaks-and-fuel-reduction-strategies]] — disease-resistant stock, minimal pruning, predatory insects, leguminous interplants, windbreak and mulch, and ground foraging by poultry — pest species can be reduced to 4-7% of monocrop orchard levels.
 - Kniphofia is also effective as a border plant and mass planting in landscape design, with architectural flower spikes that provide visual structure in perennial borders.
 
 ## Cultivation Requirements
@@ -22,7 +22,7 @@ Kniphofia plays a supporting role in permaculture and horticultural systems as a
 
 ## Overview
 Kniphofia represents an important component within sustainable
-design and ecological management systems. Understanding its role
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Understanding its role
 helps inform better integration strategies for diverse environments.
 The interactions between kniphofia and surrounding ecological
 systems create complex feedback loops that enhance overall resilience.
@@ -59,7 +59,7 @@ Long-term ecological health depends on responsible stewardship.
 
 ## Historical Significance
 Kniphofia has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
 ## Overview
@@ -86,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Kniphofia finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -94,7 +94,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -115,7 +115,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 kniphofia and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

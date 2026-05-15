@@ -1,5 +1,5 @@
 ---
-title: Pig Forage and Integrated Management
+title: Pig Forage and [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -21,7 +21,7 @@ high-calorie, nutrient-dense forage appropriate to the local climate.
 Tree crops provide long-term, low-maintenance fodder. In temperate zones, oak (acorns),
 carob, honey locust (pod-bearing), mulberry, fodder beech, and chestnut are excellent
 choices. Chestnuts provide a high-starch autumn harvest; mulberry is valued for prolific
-leaf production and high protein. In the tropics, Leucaena leucocephala, gliricidia,
+leaf production and high protein. In the tropics, [[leucaena-leucocephala]], gliricidia,
 and moringa offer protein-rich browse that pigs readily consume.
 
 ### Root Crops
@@ -103,12 +103,12 @@ or chemical control, yielding fertile, well-cultivated ground ready for planting
 Establishing a complete pig-forage system takes **3 to 5 years** from initial planting.
 Tree crops need time to mature, root crop patches must be established across the
 rotation, and soil biology must recover from prior degradation. During the establishment
-phase, supplemental feeding is necessary, but costs decrease each year as the forage
+phase, [[savory-supplemental-feeding-and-winter-management]] is necessary, but costs decrease each year as the forage
 system matures toward self-sufficiency.
 
 ## Pest and Parasite Control
 
-Natural pest management is preferable to chemical treatments in integrated systems:
+[[diatomaceous-earth-and-natural-pest-management]] is preferable to chemical treatments in integrated systems:
 - **Neem oil**: Applied as a spray or used in rubbing posts, neem effectively controls
   mites, lice, and other external parasites.
 - **Pyrethrum**: Useful as a broad-spectrum insecticide for topical application or
@@ -124,7 +124,7 @@ Pigs are highly beneficial in **mature orchards**, where they consume fallen fru
 (reducing disease carryover), control groundcover, and fertilize trees. However, pigs
 must be excluded from orchards with young trees, as they will ring-bark and uproot
 saplings. Once trees are beyond pig reach (typically 3-4 years), pigs can be rotated
-through orchard alleys during fruiting seasons with excellent results.
+through orchard alleys during [[azurescens-fruiting-seasons-and-conditions]] with excellent results.
 
 ## Tropical vs. Temperate Considerations
 
@@ -145,5 +145,5 @@ Tropical systems have specific constraints that differ markedly from temperate d
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
 - [[poultry-forage-days-mollison]]
 - [[tropical-forage-legumes]]
-- integrated poultry forage systems zone two
+- [[integrated-poultry-forage-systems-zone-two]] systems zone two
 - [[mollison-designers-bee-forage-tree-planting]]

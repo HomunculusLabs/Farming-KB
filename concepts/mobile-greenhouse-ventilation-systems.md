@@ -1,16 +1,16 @@
 ---
-title: Mobile Greenhouse Ventilation Systems
+title: Mobile [[coleman-greenhouse-ventilation-design]] Systems
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Mobile Greenhouse Ventilation Systems
 
-Ventilation is one of the most critical design considerations for [[mobile-greenhouses]] used in winter harvest farming. Unlike stationary structures, mobile hoop houses moved to multiple sites throughout the season require ventilation systems that are simple, reliable, and adaptable to conditions ranging from subfreezing winters with snow and ice to hot summers demanding maximum airflow.
+Ventilation is one of the most critical [[mycoremediation-bioreactor-design-considerations]] for [[mobile-greenhouses]] used in [[tools-supplies-winter-harvest-farming]]. Unlike stationary structures, mobile hoop houses moved to multiple sites throughout the season require ventilation systems that are simple, reliable, and adaptable to conditions ranging from subfreezing winters with snow and ice to hot summers demanding maximum airflow.
 
 ## The Problem with Roll-Up Side Ventilation in Winter
 
-In most standard tunnel greenhouse designs, roll-up sides are the conventional ventilation method. The plastic sidewall is attached to a pipe roller at the base, and the grower rolls the plastic upward to create an opening along the length of the house. However, this approach has serious drawbacks for winter-harvest applications in cold climates:
+In most standard tunnel greenhouse designs, roll-up sides are the conventional ventilation method. The plastic sidewall is attached to a pipe roller at the base, and the grower rolls the plastic upward to create an opening along the length of the house. However, this approach has serious drawbacks for winter-harvest applications [[query-how-do-i-grow-figs-in-cold-climates]]:
 
 - **Snow and ice interference:** Snow accumulation around the base and ice formation on the plastic make it extremely difficult to attach or detach the pipe roller. A grower may need to clear significant snow before ventilation can be adjusted — labor-intensive and sometimes impractical during winter storms.
 
@@ -18,7 +18,7 @@ In most standard tunnel greenhouse designs, roll-up sides are the conventional v
 
 - **Difficulty of daily management:** Winter ventilation requires opening during sunny days and closing promptly in the evening. If the roll-up mechanism is frozen or blocked by snow, the grower loses control of the internal climate.
 
-For these reasons, roll-up side ventilation was rejected as the primary ventilation strategy for winter-harvest mobile greenhouses.
+For these reasons, roll-up side ventilation was rejected as the primary ventilation strategy for winter-harvest [[mobile-greenhouses-winter-harvest-seed-varieties]].
 
 ## Elevated Roll-Up Side Design (Modified Approach)
 
@@ -86,7 +86,7 @@ The wheeled houses feature a dramatically improved end-wall ventilation layout:
 
 ### Winter: Drop-Down Ventilation
 
-The priority is protecting crops from cold air infiltration while allowing temperature regulation on sunny days:
+The priority is protecting crops from cold air infiltration while allowing [[blesching-cannabis-fever-temperature-regulation]] on sunny days:
 
 - The wiggle wire is **unclipped across the top and upper sides** of one or both ends.
 - The plastic door is **dropped downward** to open as large an area as needed.

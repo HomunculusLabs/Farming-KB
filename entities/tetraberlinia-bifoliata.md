@@ -57,7 +57,7 @@ under conspecific adult trees at varying stem densities.
 
 ## Relevance to Cultivation and Mycology
 
-- **Tropical ectomycorrhizal ecology:** T. bifoliata is a model species for
+- **Tropical [[ectomycorrhizal-ecology]]:** T. bifoliata is a model species for
   studying how ectomycorrhizal networks influence tropical tree seedling
   establishment and forest community dynamics.
 - **Forest regeneration:** Understanding density-dependent seedling survival
@@ -72,7 +72,7 @@ under conspecific adult trees at varying stem densities.
 
 ## Ecological Interactions
 
-- Forms ectomycorrhizal associations that connect seedlings to established adult
+- Forms [[ectomycorrhizal-associations]] that connect seedlings to established adult
   tree root systems through shared fungal networks.
 - Seedling survival enhanced at high conspecific adult density, suggesting
   mycorrhizal benefits override pathogen accumulation effects.
@@ -89,3 +89,8 @@ under conspecific adult trees at varying stem densities.
 - Onguene, N. A., Kuyper, T. W. (2002). Tropical tree seedling mycorrhizal
   connections. Mycorrhiza.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+## See also
+
+- [[microberlinia-bisulcata]]
+- [[paraberlinia-bifoliolata]]
+- [[mycorrhizal-fungi]]

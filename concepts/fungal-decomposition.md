@@ -110,3 +110,9 @@ Fungi are fundamental to pedogenesis (soil formation):
 - [[mushroom-composting-and-recycling]]
 - [[mycorrhizal-fungi]]
 - [[mushroom-species-guide]]
+
+## See Also
+
+- [[fungal-decomposition-ecosystem-processes]]
+- [[fungal-decomposition-in-aquatic-ecosystems-concluding-perspectives]]
+- [[fungal-decomposition-mycorrhizal-types]]

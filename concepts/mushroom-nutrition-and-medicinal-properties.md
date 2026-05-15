@@ -1,12 +1,12 @@
 ---
-title: Mushroom Nutrition and Medicinal Properties
+title: Mushroom Nutrition [[ginseng-cultivation-and-medicinal-properties]]
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
 # Mushroom Nutrition and Medicinal Properties
 
-Mushrooms occupy a unique position at the intersection of nutrition and medicine—valued as food for millennia while simultaneously recognized for profound health benefits. This concept examines their nutritional profile, the evolution of medicinal use, and their role as functional foods and dietary supplements.
+Mushrooms occupy a unique position at the intersection of nutrition and medicine—valued as food for millennia while simultaneously recognized for profound health benefits. This concept examines their nutritional profile, the evolution of medicinal use, and their role as [[functional-foods-and-dietary-supplements-from-medicinal-mushrooms]] [[medicinal-mushroom-dietary-supplements]].
 
 ## Nutritional Profile of Edible Mushrooms
 
@@ -36,7 +36,7 @@ Mushrooms occupy a unique position at the intersection of nutrition and medicine
 ### The Diet-Disease Connection
 "In the developed nations of this world many causes of death or disability such as coronary heart disease, strokes, diabetes, atherosclerosis, obesity and certain forms of cancer can, in considerable part, be attributed to diet."
 
-Nutritional science has progressed from epidemiological foundations to understanding physiological and genetic mechanisms by which diet influences health and disease. "It is indeed a paradox that nutrition is essential to support life but can also be considered as a causation of many chronic diseases."
+[[fukuoka-critique-western-dietetics-nutritional-science]] has progressed from epidemiological foundations to understanding physiological and genetic mechanisms by which diet influences health and disease. "It is indeed a paradox that nutrition is essential to support life but can also be considered as a causation of many chronic diseases."
 
 ### Functional Food Evolution
 The awareness of diet-disease relationships led to the concept of "functional foods" and a new discipline: "functional food science." Functional foods cannot claim to cure diseases but evidence increasingly supports their role in disease prevention.
@@ -78,7 +78,7 @@ When used for therapeutic intention, medicinal mushrooms are consumed as powdere
 
 ## The Hippocratic Principle
 
-The tenet of Hippocrates (c. 400 B.C.)—"Let food be your medicine and medicine be your food"—is described as "fast becoming a truism for many people." Medicinal mushrooms embody this principle: they are simultaneously food and medicine, bridging the gap between nutrition science and pharmacology.
+The tenet of Hippocrates (c. 400 B.C.)—"Let food be your medicine and medicine be your food"—is described as "fast becoming a truism for many people." Medicinal mushrooms embody this principle: they are simultaneously food and medicine, bridging the gap between [[plant-nutrition-science-history]] and pharmacology.
 
 ## Cancer Prevention Through Diet
 
@@ -87,7 +87,7 @@ The tenet of Hippocrates (c. 400 B.C.)—"Let food be your medicine and medicine
 ## The Western Awakening
 
 ### US Market Growth
-"Several of the medicinal mushrooms and their concentrates are becoming particularly popular in the US—the movement began with a drive towards 'healthy food' in the 60s-70s; now it is towards 'healthy medicine.'"
+"Several of the [[medicinal-mushrooms-and-cancer-chemoprevention]] their concentrates are becoming particularly popular in the US—the movement began with a drive towards 'healthy food' in the 60s-70s; now it is towards 'healthy medicine.'"
 
 ### Consumer Motivation
 "People are interested in the medicinal mushrooms because they appear to have been used with considerable effect for hundreds of years in the Orient while many modern widely used pharmaceuticals while offering undoubted health benefits can also in some cases have serious side-effects."

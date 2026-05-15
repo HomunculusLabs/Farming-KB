@@ -15,7 +15,7 @@ tags:
 
 Discula quercina is a fungal endophyte of oak trees (Quercus spp.) that is
 transmitted horizontally between trees via rain splash, as described by Wilson
-(1993). Unlike vertically transmitted grass endophytes such as Neotyphodium,
+(1993). Unlike vertically transmitted grass endophytes such as [[neotyphodium]],
 D. quercina relies on environmental dispersal, meaning colonization of new host
 trees depends on weather conditions and proximity to infected source trees. This
 transmission strategy results in a patchy distribution of infected and uninfected
@@ -70,7 +70,7 @@ trees within oak forests.
 
 ## References
 
-- Wilson, D. (1993). Fungal endophytes: out of sight but should not be out of mind.
+- Wilson, D. (1993). [[fungal-endophytes]]: out of sight but should not be out of mind.
   Oikos, 68, 379-383.
 - Clay, K. (1990). Fungal endophytes of grasses. Annu. Rev. Ecol. Syst. 21, 275-297.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
@@ -84,3 +84,8 @@ trees within oak forests.
   are poorly documented in the literature.
 - The interaction between D. quercina and other leaf surface microorganisms in
   natural oak canopies requires further investigation.
+## See also
+
+- [[fungal-plant-diseases]]
+- [[cercospora]]
+- [[rhizosphaera-kalkhoffii]]

@@ -144,7 +144,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[boletus-edulis-and-pore-fungi-polyporaceae]]
-- [[boletus-reticulatus]]
-- [[boletus-rex-veris]]
-- [[guzman-allen-gartz-new-guinea-sacred-fungi-boletus-russula-controversy]]
+- [[boletus-aestialis]]
+- [[boletus-genus]]
+- [[boletus-sub-tomentosus]]

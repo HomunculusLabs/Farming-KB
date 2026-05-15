@@ -1,5 +1,5 @@
 ---
-title: Bamboo in Permaculture Systems
+title: [[query-how-to-use-bamboo-in-permaculture]] Systems
 created: 2026-04-26
 tags: [bamboo, forestry, structural, tropical, permaculture]
 date: 2026-04-25
@@ -78,7 +78,7 @@ placements, and bamboo divisions compete very well with
 ## Overview
 
 Mollison Bamboo Permaculture Systems represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -92,7 +92,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving mollison extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -107,13 +107,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for mollison bamboo permaculture systems. Climate adaptation
+opportunities for mollison bamboo permaculture systems. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mollison bamboo permaculture systems and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

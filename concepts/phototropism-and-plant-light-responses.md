@@ -1,5 +1,5 @@
 ---
-title: Phototropism and Plant Light Responses
+title: Phototropism and [[solar-radiation-and-plant-light-responses]]
 source: grahambolmes-what-a-plant-knowsindd.md
 tags: [botany, phototropism, auxin, plant-growth, light-responses, tropisms]
 created: 2026-05-09
@@ -56,7 +56,7 @@ Multiple photoreceptor systems contribute to phototropic responses:
    absorption.
 
 2. **Cryptochromes**: Blue-light receptors that modulate phototropic responses
-   and interact with phototropin signaling pathways. They help regulate the
+   and interact with phototropin [[plant-signaling-pathways]]. They help regulate the
    overall magnitude of the tropic response.
 
 3. **Phytochromes**: While primarily associated with red/far-red light sensing,
@@ -76,7 +76,7 @@ The molecular pathway of phototropism involves several key steps:
 ## Overview
 
 Phototropism And Plant Light Responses represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phototropism And Plant Light Responses finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 phototropism and plant light responses and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

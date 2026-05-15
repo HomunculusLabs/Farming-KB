@@ -32,19 +32,19 @@ Pulegone occurs in the essential oils of several Lamiaceae species:
 - **Mentha × piperita** (peppermint): Minor constituent, typically 0.5-3% depending on chemotype and harvest conditions.
 - **Agastache rugosa** (Korean mint): Moderate levels in essential oil.
 - **Calamintha nepeta** (lesser calamint): Variable, 10-40% of essential oil.
-- **[[cannabis-terpene-entourage-effect-profiles]] and may modulate the subjective experience of other cannabinoids and terpenes. Its presence is more common in Sativa-dominant and hybrid chemovars.
+- **[[cannabis-terpene-entourage-effect-profiles]] and may modulate the [[dosage-unpredictability-psilocybin-subjective-experience]] of other cannabinoids and terpenes. Its presence is more common in Sativa-dominant and hybrid chemovars.
 
 ## Pharmacology and Toxicology
 
 ### Metabolism
 
-Pulegone is metabolized primarily in the liver through cytochrome P450-mediated oxidation. The major metabolic pathway involves conversion to menthofuran, a reactive α,β-unsaturated γ-ketoenal intermediate. Menthofuran is further metabolized to reactive intermediates that covalently bind to hepatic proteins and deplete glutathione.
+Pulegone is metabolized primarily in the liver through cytochrome P450-mediated oxidation. The major [[gluconeogenesis-biochemistry-metabolic-pathway]] involves conversion to menthofuran, a reactive α,β-unsaturated γ-ketoenal intermediate. Menthofuran is further metabolized to reactive intermediates that covalently bind to hepatic proteins and deplete glutathione.
 
 **Key metabolic steps:**
 
 1. CYP2E6, CYP1A2, and CYP3A4 catalyze the initial oxidation.
 2. Menthofuran formation is the rate-limiting toxification step.
-3. Reactive metabolites form protein adducts in centrilobular hepatocytes.
+3. [[reactive-metabolites-and-bioactivation-toxicology]] form protein adducts in centrilobular hepatocytes.
 4. Glutathione depletion occurs rapidly at high doses, leading to [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and necrosis.
 
 ### Hepatotoxicity
@@ -70,7 +70,7 @@ Symptoms of pulegone poisoning include nausea, vomiting, abdominal pain, dizzine
 ## Overview
 
 Pulegone represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -91,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pulegone finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -120,7 +120,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pulegone and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

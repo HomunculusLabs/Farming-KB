@@ -1,12 +1,12 @@
 ---
-title: Photon-Counting Scintillation Imaging of Mycelial Transport
+title: Photon-Counting [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]] of Mycelial Transport
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
 ## Overview
 
-Photon-counting scintillation imaging (PCSI) is a non-invasive radiotracer technique developed to visualize and quantify real-time nutrient translocation in fungal mycelial networks. By tracking the movement of ¹⁴C-labelled compounds across growing colonies, PCSI reveals spatial and temporal patterns of resource allocation that are invisible to conventional microscopy. The technique has been particularly valuable for studying how saprotrophic basidiomycetes such as *Phanerochaete velutina* distribute nitrogen and carbon through corded mycelial networks spanning centimetre to metre scales, and has revealed phenomena including pulsatile transport, route-switching, and resource-directed foraging.
+Photon-counting scintillation imaging (PCSI) is a non-invasive radiotracer technique developed to visualize and quantify real-time nutrient translocation in [[fungal-mycelial-networks-ecosystem-engineers]]. By tracking the movement of ¹⁴C-labelled compounds across growing colonies, PCSI reveals spatial and temporal patterns of resource allocation that are invisible to conventional microscopy. The technique has been particularly valuable for studying how saprotrophic basidiomycetes such as *[[phanerochaete-velutina]]* distribute nitrogen and carbon through corded mycelial networks spanning centimetre to metre scales, and has revealed phenomena including pulsatile transport, route-switching, and resource-directed foraging.
 
 ## Principles of PCSI
 
@@ -88,7 +88,7 @@ The transport phenomena revealed by PCSI have important implications for underst
 - **Soil nutrient redistribution**: fungal networks serve as major conduits for moving nitrogen and other nutrients between spatially separated organic resources
 - **Foraging efficiency**: the shift from symmetric to asymmetric growth, combined with resource-directed allocation, maximizes the efficiency of resource capture
 - **Network resilience**: route-switching and multi-pathway transport provide redundancy that maintains nutrient distribution even when parts of the network are damaged
-- **Compost and soil management**: understanding fungal transport mechanisms can inform practices that promote beneficial saprotrophic networks for organic matter decomposition and nutrient cycling
+- **Compost and soil management**: understanding fungal transport mechanisms can inform practices that promote beneficial saprotrophic networks for organic matter decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
 
 ## Technical Considerations and Limitations
 
@@ -109,8 +109,8 @@ Ongoing work is extending PCSI approaches to study a broader range of fungal spe
 ## See Also
 
 - [[vacuolar-nutrient-transport-in-fungi]]
-- Pulsatile Nutrient Transport in Fungal Mycelia
-- Fungal Mycelial Network Analysis
+- [[pulsatile-nutrient-transport-fungal-mycelia]] in Fungal Mycelia
+- Fungal [[fungal-mycelial-network-analysis]]
 
 ## See Also
 

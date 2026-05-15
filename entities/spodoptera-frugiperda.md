@@ -19,7 +19,7 @@ whose larvae are major agricultural pests. Native to the tropical and
 subtropical regions of the Americas, S. frugiperda feeds on a wide range of
 host plants including grasses, corn, sorghum, and many vegetable crops. It has
 become a globally significant invasive pest, spreading to Africa, Asia, and
-Oceania since 2016. In fungal ecology, S. frugiperda serves as a model
+Oceania since 2016. In [[fungal-ecology]], S. frugiperda serves as a model
 herbivore for studying endophyte-mediated plant defense.
 
 ## Classification
@@ -66,7 +66,7 @@ herbivore for studying endophyte-mediated plant defense.
   elevated CO2 informs predictions of how plant-endophyte-herbivore
   interactions will respond to climate change.
 - **Biological control target:** Endophyte-infected grass varieties that deter
-  S. frugiperda offer a component of integrated pest management for this
+  S. frugiperda offer a component of [[integrated-pest-management]] for this
   destructive pest.
 - **Resistance management:** The species has developed resistance to multiple
   insecticide classes and Bt toxins, increasing the value of endophyte-mediated
@@ -90,3 +90,8 @@ herbivore for studying endophyte-mediated plant defense.
 - Marks, S., Lincoln, D. E. (1996). Antiherbivore defense in endophyte-infected
   tall fescue. Oecologia.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+## See also
+
+- [[cassida-rubiginosa]]
+- [[biston-betularia]]
+- [[epicoccum-nigrum]]

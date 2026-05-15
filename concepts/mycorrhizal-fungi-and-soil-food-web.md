@@ -47,7 +47,7 @@ Adding almost any organism to a severely degraded soil will produce a noticeable
 Diseases vary in how difficult they are to prevent through biological means:
 
 - **Easy-to-prevent diseases** — Often controlled by bacteria alone, particularly through competitive exclusion on leaf surfaces or in the rhizosphere.
-- **Harder-to-prevent diseases** — Require the full complement of fungal, protozoan, nematode, and microarthropod interactions to suppress. These organisms create the complex [[keystone-species-and-trophic-cascades]] that maintain disease suppression over time.
+- **Harder-to-prevent diseases** — Require the full complement of fungal, protozoan, nematode, and microarthropod interactions to suppress. These organisms create the complex [[keystone-species-fungal]] that maintain disease suppression over time.
 
 ### Why Compost Teas Fail
 

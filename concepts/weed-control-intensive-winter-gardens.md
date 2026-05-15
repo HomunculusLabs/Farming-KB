@@ -6,7 +6,7 @@ type: concept
 
 # Weed Control in Intensive Winter Gardens
 
-Weed management in intensive winter growing systems demands a proactive, multi-layered approach. Because crops are planted at very close spacings to maximize yield per square foot, weeds that go unchecked can dramatically slow harvest and reduce crop quality. The strategy outlined here prioritizes prevention first, then preemergence flaming, followed by precision cultivating — a hierarchy that aligns with the economics of small-scale, high-value winter production.
+[[fukuoka-natural-weed-management]] in intensive winter growing systems demands a proactive, multi-layered approach. Because crops are planted at very close spacings to maximize yield per square foot, weeds that go unchecked can dramatically slow harvest and reduce crop quality. The strategy outlined here prioritizes prevention first, then preemergence flaming, followed by precision cultivating — a hierarchy that aligns with the economics of small-scale, high-value [[coleman-beet-greens-cold-house-winter-production]].
 
 ## The Prevention Hierarchy
 
@@ -22,13 +22,13 @@ The most effective technique for dealing with weeds after germination but before
 
 Timing is everything with flaming. Two approaches exist:
 
-1. **Glass-pane method** (traditional European technique): After sowing, place panes of glass about one square foot in size, held an inch off the ground in a wooden frame, randomly on the field surface. The glass warms the soil and speeds crop seed germination. Flame immediately upon seeing the first crop seed germinate under the glass. This works well in early spring but is impractical in summer when it gets too hot under the glass.
+1. **Glass-pane method** (traditional European technique): After sowing, place panes of glass about one square foot in size, held an inch off the ground in a wooden frame, randomly on the field surface. The glass warms the soil and speeds crop [[cannabis-seed-germination]]. Flame immediately upon seeing the first crop seed germinate under the glass. This works well in early spring but is impractical in summer when it gets too hot under the glass.
 
 2. **Record-keeping method** (more practical): Keep notes on days-to-germination for different crops at different seasons. Leave a one- or two-day safety margin, then flame when the time comes.
 
 ### When Flaming Works Best
 
-Preemergence flaming is most effective for crops that take a while to germinate — carrots, onions, and parsley — especially against quick-germinating weeds like **chickweed** (*Stellaria media*), which is the most troublesome weed in winter greenhouses. Chickweed thrives on fertile soils and can both germinate and set seed at surprisingly low temperatures; plants have been observed in full bloom on January 15 in unheated cold houses.
+Preemergence flaming is most effective for crops that take a while to germinate — carrots, onions, and parsley — especially against quick-germinating weeds like **chickweed** (*[[stellaria-media]]*), which is the most troublesome weed in winter greenhouses. Chickweed thrives on fertile soils and can both germinate and set seed at surprisingly low temperatures; plants have been observed in full bloom on January 15 in unheated cold houses.
 
 For quick-germinating crops like lettuce and arugula, the window between weed emergence and crop emergence is too narrow for reliable flaming.
 
@@ -51,7 +51,7 @@ Once weed seedlings appear within the crop, the mantra is: **early and often, sh
 
 ### The Collinear Hoe and Wire Weeder
 
-Eliot Coleman designed two specialized hoes for precision weeding:
+[[eliot-coleman]] designed two specialized hoes for precision weeding:
 
 - **Collinear hoe** — the blade is in line with the handle, allowing the gardener to stand upright and work between closely spaced rows.
 - **Wire weeder** — a thin wire blade that slices just below the soil surface, ideal for tiny weeds.
@@ -72,7 +72,7 @@ Each stroke takes about a second. The return stroke can further disturb cut weed
 
 ### Speed Cultivation
 
-For very tiny weeds on a sunny day, an even faster technique is available: walk down the path holding the collinear hoe or wire weeder between rows just slightly under the soil surface, like a tractor with cultivator tines. Adjust the forward angle to compensate for slight discrepancies in row spacing. Keep depth consistent (never more than ½ inch). This eliminates the forward/return stroke, significantly reducing time.
+For very tiny weeds on a sunny day, an even faster technique is available: walk down the path holding the collinear hoe or wire weeder between rows just slightly under the soil surface, like a tractor with cultivator tines. Adjust the forward angle to compensate for slight discrepancies in [[wide-row-spacing-intensive-gardening-comparison]]. Keep depth consistent (never more than ½ inch). This eliminates the forward/return stroke, significantly reducing time.
 
 ### Core Principles
 

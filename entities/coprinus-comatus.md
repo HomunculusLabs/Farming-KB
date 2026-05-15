@@ -1,142 +1,84 @@
 ---
-title: "stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation"
-type: species
-tags:
-  - fungi
-  - agaricales
-  - edible-mushroom
-  - coprinoid
-  - deliquescing
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Ursula E. Stöcker (2012). 'coprinus-comatus-cultivation — Eine Monographie.' MykoBank."
-  - "Ryvarden, L. & Gilbertoni, T.B. (2004). 'Wood-inhabiting polyporoid and corticioid fungi.' Synopsis Fungorum."
-  - "Kühner, R. (1980). 'Les Hyménomycètes agaricoïdes.' Bulletin de la Société des Naturalistes Luxembourgeois."
-  - "Arora, D. (1986). 'Mushrooms Demystified.' Ten Speed Press."
-  - "Kuo, M. (2024). 'Coprinus comatus.' MushroomExpert.com."
+title: Coprinus comatus
+source: julius-auboineau-palmer-about-mushrooms.md
+type: entity
 ---
 
-## Overview
+## Description
 
-Coprinus comatus, commonly known as the shaggy mane or lawyer's wig, is an edible
-mushroom in the family Agaricaceae. It is one of the most widely recognized
-wild edible fungi, prized for its delicate flavor when harvested young.
+Coprinus comatus, commonly known as the shaggy mane or shaggy ink cap, is an edible mushroom species notable for its tall, cylindrical, bell-shaped cap covered in shaggy scales.
 
-The species is notable for its rapid autodeliquescence — the gills dissolve into
-an inky black fluid as the spores mature. This process, called deliquescence,
-occurs within hours of the cap opening under favorable conditions.
+The cap begins white and elongated, gradually becoming darker and deliquescent as the mushroom matures, eventually dissolving into a black inky fluid containing the spores. This distinctive autodigestion process, known as deliquescence, is the source of the common name "ink cap."
 
-Shaggy mane mushrooms are cosmopolitan in distribution and frequently fruit in
-disturbed habitats, especially along roadsides, in gardens, and on
-compacted soils rich in [[fungal-taxonomy-and-kingdom-fungi]] → Division Basidiomycota → Class Agaricomycetes →
-Order Agaricales → Family Agaricaceae → Genus *Coprinus* → Species *C. comatus*.
+This species was historically misunderstood. [[julius-auboineau-palmer]], writing in the 1870s-1880s, noted that C. comatus was "freely eaten now, although twenty years ago thought to be poisonous."
 
-**Authority:** (Pers.) Gray (1821). Basionym: *Agaricus comatus* O.F. Müll.
-(1780).
+This shift in perception illustrates how mycological knowledge evolved during the 19th century, as empirical testing gradually overturned folk assumptions about toxicity.
 
-The genus *Coprinus* was historically placed in the Coprinaceae, but molecular
-phylogenetics moved it to Agaricaceae in 2001. Only *C. comatus* and a few close
-relatives remain in the redefined genus.
+## Classification
 
-The cap is cylindrical to bell-shaped, 3–8 cm tall and 2–5 cm wide. The surface
-is covered in shaggy, erect white to buff scales that give the mushroom its
-common name. The cap margin extends slightly beyond the gills at maturity.
+- **Kingdom:** Fungi
+- **Division:** Basidiomycota
+- **Class:** Agaricomycetes
+- **Order:** Agaricales
+- **Family:** Agaricaceae (formerly Coprinaceae)
+- **Genus:** Coprinus
 
-Gills are crowded, free from the stipe, and initially white. They progress
-through pink to gray and finally black as deliquescence begins. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across temperate and
-subtropical regions. It is found throughout Europe, [[bloomfield-fairy-rings-armillaria-giant-fungi]] in
-open, sunny locations.
+## Key Facts
 
-Unlike many agarics, shaggy mane is not a strict woodland species. It thrives
-in full sun and prefers compacted, nitrogen-rich soils. This ecological
-preference makes it one of the most common urban mushrooms.
+- **Edibility:** Choice edible, widely regarded as one of the best wild mushrooms for the table
+- **Self-digestion:** The gills autodigest (deliquesce) into a dark inky fluid shortly after maturity
+- **Historical status:** Once feared as poisonous, now considered safe and desirable
+- **Growth habit:** Often found in disturbed ground, roadsides, and grassy areas
+- **Collection rule:** Must be harvested young and consumed or preserved immediately before autodigestion begins
+- **Drying preservation:** Palmer noted the mushroom could be dried and reconstituted
 
-## Culinary Use
+## Mycelial Network Discovery
 
-Shaggy mane is considered one of the finest edible [[coprinopsis-atramentaria]]* (common
+Palmer provided a vivid firsthand account of discovering C. comatus mycelium during construction work near the Brunswick Hotel in Boston.
 
-## Overview
+When workmen broke up the soil to level the lot, a white substance ran through every piece of earth. Starting with large branches, it divided and subdivided like the veins on the back of the hand.
 
-Coprinus Comatus represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
+The smell was very strong, quickly noticed on the opposite side of the way. This subterranean white vine, for it had that appearance, was nothing but the hidden part of the Coprinus comatus.
 
-## Key Characteristics
+A piece of this vine transplanted would continue to ramify, and in time show the result in the form of mushrooms. Just as a cutting of the grape-vine placed in conditions favorable to growth will shoot up, put forth branches and bear fruit.
 
-Several defining characteristics distinguish coprinus comatus
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
+Palmer used this observation to disprove the popular belief that toadstools spring up overnight in unforeseen places. He demonstrated that the entire earth beneath one's feet is alive with fungal vegetation to a great depth.
 
-## Ecological Context
+The [[mycelial-networks]] (spawn) are just as distinct from one another as visible plants like hop-vines and woodbine, the ivy and the virgin's bower that twine their tendrils above.
 
-The ecological relationships involving coprinus extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
+## Growth Patterns and Seasonality
 
-## Practical Applications
+Palmer observed that C. comatus, like other fungi, follows predictable seasonal patterns. On the very spots where he gathered mushrooms in 1874, he found the identical variety in 1879.
 
-Coprinus Comatus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
+This regularity allowed him to compare [[mushroom-harvesting]] to farming:
 
-## Management and Implementation
+- The mycelial networks persist year after year in the same locations
+- Environmental conditions affect fruiting, just as weather affects crop yields
+- In favorable years, abundant harvests appear; in unfavorable years, production may fail entirely
+- The "blight" that visits all life can also affect fungal mycelia
 
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
-
-## Regional Considerations
-
-Different geographic regions present unique challenges and
-opportunities for coprinus comatus. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-coprinus comatus and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
+The various varieties of toadstools succeed each other in rotation just as the bloodroot and anemones of spring are followed by the roses of summer and the cardinal or gentian of fall.
 
 ## Historical Context
 
-Coprinus Comatus has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
+Palmer noted that C. comatus was freely eaten in his time, though twenty years earlier it had been thought poisonous. This mirrors the broader pattern in 19th-century mycology where folk fear gradually gave way to empirical knowledge.
 
-## Integration Strategies
+The species' dramatic shift in reputation — from feared poison to prized edible — was not achieved through folk tests or silver spoons, but through careful study and the willingness of naturalists like Palmer to test species personally.
 
-Successful integration of coprinus comatus into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
+## Relevance to Mycology
 
-## Challenges and Solutions
+Coprinus comatus holds several important positions in mycological history:
 
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
+1. **Taxonomic significance:** The deliquescent gills made it a type species for studies of [[spore-dispersal]] mechanisms
+2. **Historical perception shift:** Its journey from feared poison to prized edible mirrors the broader evolution of mycological knowledge
+3. **Mycelium visibility:** Palmer's account of discovering the extensive underground network provided early popular education about fungal biology
+4. **Cultivation potential:** The species' preference for disturbed ground and compost-rich substrates makes it relevant to [[mushroom-cultivation]]
+5. **Field identification:** Its distinctive shaggy appearance and inky autodigestion make it one of the easier species for beginners to identify
 
-## See Also
+The species remains valued in modern mycology as an excellent beginner mushroom for foragers, though Palmer's caution about carefully verifying identity before consumption remains essential advice.
 
-- [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
-- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
-- [[coprinus-comatus-cultivation]]
-- [[coprinus-picaceus]]
-- [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]
+## Modern Status
+
+Coprinus comatus continues to be widely recommended as a safe and delicious wild mushroom for beginning foragers. Its distinctive appearance, with the tall shaggy cap and the dramatic ink-phase autodigestion, makes misidentification unlikely for anyone who has studied its characteristics.
+
+However, Palmer's warnings about the care needed when foraging any wild mushroom remain as relevant today as they were in the 1870s. The transformation of this species from feared toadstool to prized edible serves as a reminder that mycological knowledge is built through careful observation and study.

@@ -1,5 +1,5 @@
 ---
-title: Shelterbelt Species Selection and Design
+title: [[windbreak-shelterbelt-species-selection]] and Design
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -19,7 +19,7 @@ These species can withstand significant wind but show some yield reduction:
 - Barley
 - Some Brassicas
 - *Casuarina* (she-oak)
-- *Coprosma repens* (mirror bush)
+- *[[coprosma-repens-entity]]* (mirror bush)
 
 Yields are reduced in strong winds, but dry matter yield is less affected than in wind-sensitive plants.
 
@@ -44,7 +44,7 @@ Many fire-resistant plants are also wind resistant. In addition, some drought-re
 - **Fibrous stems**: Palms resist wind through flexible, resilient trunks that bend rather than break
 - **Fleshy leaves**: Aloes, agaves, and Euphorbias store water in thick leaves, reducing transpiration stress
 - **Hard, needle-like leaves or stems**: Pines, tamarisks, *Casuarina*, and some *Acacias* present minimal surface area to drying winds
-- **"Furry" or hairy (tomentose) leaf covers**: Create a boundary layer of still air that reduces moisture loss
+- **"Furry" or hairy (tomentose) leaf covers**: Create a [[boundary-layer-redistribution-fungal-tropism]] of still air that reduces moisture loss
 - **Waxy leaves**: *Coprosma*, eucalypts, some pines, and some *Acacias* have cuticular wax coatings that reduce transpiration
 
 ## Shelterbelt Permeability
@@ -99,7 +99,7 @@ Problems arise when plants used for shelterbelts (e.g., poplar) are themselves h
 
 ### Yield and Water Use Balance
 
-Research shows that hedgerows increase yields on both sides but also increase total water use (Figure 5.17 in the source). The net effect is generally positive because the yield increase outweighs the additional water consumption, but in water-limited environments this trade-off must be carefully managed.
+Research shows that hedgerows increase yields on both sides but also increase total water use (Figure 5.17 in the source). The net effect is generally positive because the [[farm-strategies-for-yield-increase]] outweighs the additional water consumption, but in water-limited environments this trade-off must be carefully managed.
 
 ## Photosynthetic Efficiency and Wind Damage
 
@@ -112,8 +112,8 @@ This highlights the critical importance of shelterbelts not just for preventing 
 A well-designed shelterbelt system integrates multiple functions:
 
 1. **Wind protection** for crops, livestock, and structures
-2. **Soil moisture conservation** through reduced evaporation and increased precipitation capture
-3. **Soil building** through nitrogen fixation and leaf litter
+2. **Soil [[cervantes-mulch-outdoor-moisture-conservation]]** through reduced evaporation and increased precipitation capture
+3. **Soil building** through [[legume-nitrogen-fixation-and-green-manure]] leaf litter
 4. **Biodiversity support** through habitat for predatory insects and birds
 5. **Productive yield** from forage, timber, fuel, mulch, and food species
 6. **Frost mitigation** through canopy heat trapping

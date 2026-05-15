@@ -34,7 +34,7 @@ Plant nutrients in aquatic systems are available in soluble and easily assimilab
 Water and nutrient flow provides a constant refreshment of resources — a factor not represented in static fields but critically important to production in water systems.
 
 ### Reduced Energy Expenditure by Organisms
-Aquatic organisms (fish, shellfish) waste little energy on movement. They are largely free of gravitational effects and weight disadvantages that constrain terrestrial animals. The buoyancy of water means metabolic energy goes primarily into growth and reproduction rather than locomotion and structural support.
+Aquatic organisms (fish, shellfish) waste little energy on movement. They are largely free of gravitational effects and weight disadvantages that constrain terrestrial animals. The buoyancy of water means metabolic energy goes primarily into growth and reproduction rather than locomotion [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]].
 
 ### Three-Dimensional Habitat
 Light, nutrients, and plants occupy a three-dimensional medium in water. This creates complex edges, surfaces, and microconditions, supporting a far greater variety of species per unit area than two-dimensional land surfaces.
@@ -74,7 +74,7 @@ Terraced padi (rice and taro) cultures serve much of Asia and Oceania, with mino
 The deltaic mazes of the Fly, Chao Phraya, Mekong, Nile, and Ganges rivers support rich cultures with access to marine, estuary, freshwater, mangrove, and land organisms.
 
 ### Island Cultures
-Island cultures neatly combine water and earth resources, as exemplified by the old Hawaiian ohana synthesis. On atolls and in deserts, totally innovative aquaculture systems have evolved where local species were absent or of minor productive capacity.
+Island cultures neatly combine water [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]], as exemplified by the old Hawaiian ohana synthesis. On atolls and in deserts, totally innovative aquaculture systems have evolved where local species were absent or of minor productive capacity.
 
 ## The Catchment-Waterway Connection
 
@@ -100,7 +100,7 @@ While most aquacultures have a predominantly local flavour and species compositi
 
 ## Natural Yield Comparisons
 
-Of all existing natural systems, tropical rainforest and shallow-water aquatic environments have the greatest natural yields. Mangrove swamps, marshes, and estuaries produce sometimes prodigious biomass of great complexity. Historically, human attitudes toward these systems have been ambivalent and, since the invention of the bucket dredge and bulldozer, typically destructive. Many marshes, estuaries, saltflats, and ponds have been drained or deeply flooded, often in disregard of their total yields and values.
+Of all existing natural systems, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and shallow-water [[fungal-roles-aquatic-environments]] have the greatest natural yields. Mangrove swamps, marshes, and estuaries produce sometimes prodigious biomass of great complexity. Historically, human [[weil-cultural-attitudes-toward-altered-states]] these systems have been ambivalent and, since the invention of the bucket dredge and bulldozer, typically destructive. Many marshes, estuaries, saltflats, and ponds have been drained or deeply flooded, often in disregard of their total yields and values.
 
 ## System Types
 
@@ -111,4 +111,4 @@ Modern aquacultures range from:
 - Integrated rice-fish systems
 - Chinampa-style raised bed systems
 
-The key insight for designers is that many advantages of aquaculture can be fairly cheaply created in most humid and some arid environments, even if in miniature. The transition from terrestrial to aquatic food production represents one of the highest-yield investments available in permaculture design.
+The key insight for designers is that many advantages of aquaculture can be fairly cheaply created in most humid and some arid environments, even if in miniature. The transition from terrestrial to aquatic food production represents one of the highest-yield investments available [[ecological-succession-in-permaculture-design]].

@@ -1,5 +1,5 @@
 ---
-title: Infiltration, Slope Stabilisation, and Floodwater Harvesting
+title: Infiltration, Slope Stabilisation, and [[floodwater-harvesting-and-braided-stream-management]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -24,7 +24,7 @@ These rates have direct design implications. Water must be held for a day or mor
 
 A powerful strategy involves spreading neutral or acidic sands approximately 0.5 m deep or more over alkaline clay pans. This creates an excellent surface that first infiltrates rain rapidly, then holds it for extended periods — producing an ideal garden or tree site capable of storing up to 1 m of water long-term.
 
-This effect occurs naturally at the discharge end of some gullies or canyons where sandy material accumulates over clay substrates. It can also be created artificially by opening deep swales in alkaline soils in front of advancing sands and gravels, allowing them to fill naturally.
+This effect occurs naturally at the discharge end of some gullies or canyons where sandy material accumulates over clay substrates. It can also be created artificially by opening deep swales in [[plants-tolerant-of-alkaline-soils]] in front of advancing sands and gravels, allowing them to fill naturally.
 
 People have also buried layers of clay, plastic, thick colloidal green matter (gley), tar, or latex under deep sands of gardens to achieve the same water-retention effect, with drainage slits every 100–200 m.
 
@@ -55,7 +55,7 @@ Where natural stabilisation is insufficient, designers can create:
 
 ### Traditional Systems
 
-**Aboriginal Australians** (Stevenson, 1978) constructed earthwall floodwater dams to increase Panicum grass and seed production. **Papago and neighbouring groups** in the Sonora region of the USA (Nabham, 1979) developed sophisticated floodwater farming systems on river floodplains and deltaic deposits at wadi mouths.
+**Aboriginal Australians** (Stevenson, 1978) constructed earthwall floodwater dams to increase Panicum grass and [[cannabis-controlled-pollination-seed-production]]. **Papago and neighbouring groups** in the Sonora region of the USA (Nabham, 1979) developed sophisticated floodwater farming systems on river floodplains and deltaic deposits at wadi mouths.
 
 ### Papago Floodwater Farming
 
@@ -64,7 +64,7 @@ Key parameters from the Papago systems:
 - **Rainfall threshold**: Approximately 8 cm needed for useful runoff
 - **Catchment ratio**: 15–27 times the area of fields for general crops
 - **Hardy crops** (sorghum): Can be produced with runoff only 4 times the field area
-- **Seasonal distribution**: Summer storms bring 40–60% of water but only 15% of runoff to mainstream reservoirs; most runoff is localised in intermittent streams
+- **[[seasonal-distribution-and-habitat-of-wild-mushrooms]]**: Summer storms bring 40–60% of water but only 15% of runoff to mainstream reservoirs; most runoff is localised in intermittent streams
 - **Field size**: 4 hectares or less per field
 - **Crop system**: Planted and wild/weed species grown together as a crop complex
 
@@ -104,7 +104,7 @@ These can be constructed or enhanced using:
 
 ### Design Considerations
 
-- Deep sands in the river contain millions of litres of slow seepage (increased by sand dams higher in the system)
+- Deep sands in the river contain millions of litres of slow seepage (increased by [[pitting-spillways-and-sand-dams]] higher in the system)
 - Open-water systems should not be created too frequently unless silt dams of **9–10 times** the pool capacity are provided, as open water evaporates over time
 - Below roost trees around such dams, bird guano can be gathered as phosphate fertiliser sheets (used as dilute solution or mixed with 30–40 parts damp sand)
 

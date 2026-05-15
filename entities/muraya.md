@@ -15,7 +15,7 @@ The muraya is a type of shaman in the Amazonian vegetalismo hierarchy, ranking a
 - **Domain**: Amazonian vegetalismo / mestizo [[yakumama]] to descend to the deepest parts of rivers in visionary travel, where the great serpent transforms into a beautiful submarine as their vehicle.
 - They are received by mermaids who serve as guides to golden cities beneath the waters when entering the subaquatic world.
 - Their guardian animals include the tibemama (osprey, Pandion haliaetus), sarara (Anhinga anhinga), and tibe negro (Neotropic cormorant).
-- Murayas work alongside bancos (who possess diamond swords and flying wheels) and sumirunas in healing ceremonies.
+- Murayas work alongside bancos (who possess diamond swords and flying wheels) and sumirunas in [[ayahuasca-healing-ceremonies-iquitos]].
 - They receive the powers of [[mariri]] (magical phlegm) cords including the yura-mariri (white) and puka-mariri (red).
 
 ## Relevance to Cultivation and Mycology
@@ -31,7 +31,7 @@ A muraya's authority comes from cultivated relationships with perfumes, water be
 ## Subaquatic Travel
 
 The muraya's descent with shamanism by showing that healing power can be organized through smell as much as ingestion.
-For research, muraya work suggests that olfaction deserves attention in studies of ayahuasca ceremony and plant-based therapeutics.
+For research, muraya work suggests that olfaction deserves attention in studies of [[ayahuasca-ceremony]] and plant-based therapeutics.
 
 ## Relationship to Other Ranks
 
@@ -50,7 +50,7 @@ This practical sensory dimension is part of why aromatic plants are so persisten
 ## Overview
 
 Muraya represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -71,7 +71,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Muraya finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -79,13 +79,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for muraya. Climate adaptation
+opportunities for muraya. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -100,7 +100,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 muraya and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

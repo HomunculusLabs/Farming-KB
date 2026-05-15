@@ -32,7 +32,7 @@ Together, these studies reveal ericoid mycorrhizae as sophisticated organic nutr
 
 ## 2. Lichen Carbon Gain and Primary Production
 
-Lichens — symbiotic associations between fungi and photobionts (algae or cyanobacteria) — contribute significantly to primary production, particularly in extreme environments such as arctic tundra, deserts, and tropical canopies.
+Lichens — symbiotic associations between fungi and photobionts (algae or cyanobacteria) — contribute significantly to primary production, particularly [[fungal-biodiversity-in-extreme-environments]] such as arctic tundra, deserts, and tropical canopies.
 
 Lange et al. (2000) measured lichen carbon gain under tropical conditions in Panama, revealing that net photosynthesis in lichens is highly sensitive to hydration dynamics and microclimatic variation even in humid tropical settings.
 
@@ -42,7 +42,7 @@ In arctic systems, Peck et al. (2000) documented biomass growth rates of the fru
 
 Kärenlampi (1971) had earlier provided foundational data on relative growth rates across multiple fruticose lichen species, creating a comparative framework still referenced today.
 
-Cooper & Wookey (2001) linked forage lichen growth rates to reindeer grazing pressure in Svalbard, highlighting the ecological coupling between lichen primary production and herbivore population dynamics in tundra ecosystems.
+Cooper & Wookey (2001) linked forage lichen growth rates to reindeer grazing pressure in Svalbard, highlighting the ecological coupling between [[fungal-ecosystem-services-and-lichen-primary-production]] and herbivore population dynamics in tundra ecosystems.
 
 These studies collectively demonstrate that lichens, despite their characteristically slow growth, are key primary producers in environments where vascular plant productivity is limited. Their carbon economy is tightly regulated by water availability, light interception, and herbivory, and they play outsized roles in nutrient cycling and food web support in extreme environments.
 
@@ -72,7 +72,7 @@ The convergence of evidence indicates that mycorrhizal fungi act as biological a
 
 ## 4. Salt Marsh and Wetland Mycorrhizae
 
-Salt marshes and wetlands present unique challenges for mycorrhizal fungi, including periodic inundation, anaerobic soil conditions, and high salinity. Despite these constraints, mycorrhizal associations persist and contribute to marsh plant productivity.
+Salt marshes and wetlands present unique challenges for mycorrhizal fungi, including periodic inundation, [[lowenfels-aerobic-anaerobic-soil-conditions]], and high salinity. Despite these constraints, mycorrhizal associations persist and contribute to marsh plant productivity.
 
 Hoefnagels et al. (1993) surveyed VAM colonization in North Carolina salt marshes, finding that mycorrhizal associations persist even in these extreme environments, though colonization intensity varies with elevation, flooding frequency, and plant species identity.
 
@@ -80,7 +80,7 @@ Mansfield & Bärlocher (1993) documented seasonal variation in fungal biomass wi
 
 Padgett & Celio (1990) isolated and characterized aerobic fungi from anaerobic salt marsh soils, revealing that fungal communities maintain metabolic activity even within predominantly anaerobic sediment profiles — likely through oxygen diffusion from plant roots and the formation of micro-aerophilic niches.
 
-A series of studies by Cooke and colleagues (1990, 1993, 1998) compared VAM colonization in disturbed versus undisturbed coastal salt marshes and wetlands, finding that anthropogenic disturbance significantly alters mycorrhizal community structure and function, with important implications for marsh restoration and resilience.
+A series of studies by Cooke and colleagues (1990, 1993, 1998) compared VAM colonization in disturbed versus undisturbed coastal salt marshes and wetlands, finding that anthropogenic disturbance significantly alters [[acidifying-pollutants-mycorrhizal-community-structure]] and function, with important implications for marsh restoration and resilience.
 
 McHugh (2001) investigated mycorrhizal effects on the dominant saltmarsh grasses *Spartina alterniflora* and *S. cynosuroides*, demonstrating that mycorrhizal colonization enhances phosphorus uptake and growth, particularly in low-phosphorus sediments.
 
@@ -100,7 +100,7 @@ McCann (2000) reviewed the broader diversity-stability debate, noting that while
 
 Miller (1995) emphasized the concept of functional diversity in fungi, arguing that taxonomic richness alone is an insufficient predictor of ecosystem function — what matters is the range of functional traits represented within the fungal community.
 
-These perspectives collectively suggest that mycorrhizal fungal diversity contributes to ecosystem resilience through functional complementarity and redundancy, but that the strength and direction of diversity effects depend on environmental context and the specific functional traits involved.
+These perspectives collectively suggest that [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] contributes to ecosystem resilience through functional complementarity and redundancy, but that the strength and direction of diversity effects depend on environmental context and the specific functional traits involved.
 
 ---
 
@@ -108,7 +108,7 @@ These perspectives collectively suggest that mycorrhizal fungal diversity contri
 
 Mycorrhizal fungi offer significant potential for enhancing the sustainability of agricultural systems.
 
-Jeffries & Barea (1994) reviewed the role of arbuscular mycorrhizae in biogeochemical cycling and the sustainability of plant-soil systems, arguing that AM fungi reduce the need for chemical fertilizers by enhancing phosphorus uptake, improve soil structure through hyphal aggregation and glomalin production, and contribute to disease suppression through competitive interactions with soil pathogens.
+Jeffries & Barea (1994) reviewed the role of arbuscular mycorrhizae in biogeochemical cycling and the sustainability of plant-soil systems, arguing that AM fungi reduce the need for chemical fertilizers by enhancing phosphorus uptake, improve soil structure through hyphal aggregation and glomalin production, and contribute to [[ingham-aact-disease-suppression-through-food-competition]] competitive interactions with soil pathogens.
 
 Barea et al. (1997) expanded this framework by examining interactions between mycorrhizal fungi and other rhizosphere micro-organisms, demonstrating that the mycorrhizosphere supports a complex microbial community that collectively enhances nutrient availability, plant growth, and soil health.
 

@@ -8,7 +8,7 @@ sources: [papers/tropisms-in-the-mushroom-psilocybe-cubensis.md]
 ---
 # Mushroom Tropisms: Phototropism and Geotropism Mushroom fruitbody development involves directed growth responses (tropisms) to environmental stimuli. Badham (1982) studied these tropisms in [[aquatic-fungi-spore-dispersal-ingold]] by orienting toward airflow
 - **Directed growth toward evaporative demand** increases spacing between stipes of cespitose (clustered) fruitbodies
-- **Negative geotropism** ensures a horizontal pileus for effective spore release, critical for coprophilous species in unstable habitats
+- **[[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]** ensures a horizontal pileus for effective spore release, critical for coprophilous species in unstable habitats
 
 ## Comparison with Phycomyces and Other Fungi
 
@@ -70,8 +70,8 @@ uncertainty and improve the resilience of implementations over time.
 
 ## Overview
 
-Mushroom Tropisms Phototropism Geotropism represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+Mushroom Tropisms [[phototropism-geotropism-interaction-psilocybe-cubensis-basidiocarp-development]] represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mushroom Tropisms Phototropism Geotropism finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,7 +100,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mushroom tropisms phototropism geotropism and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

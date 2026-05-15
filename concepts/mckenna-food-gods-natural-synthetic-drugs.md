@@ -1,5 +1,5 @@
 ---
-title: Mckenna Food Gods Natural Synthetic Drugs
+title: [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] Natural [[mckenna-distillation-and-the-birth-of-synthetic-drugs]]
 created: 2026-04-28
 tags: [drugs, natural, synthetic, mckenna, ethnobotany]
 date: 2026-04-28

@@ -13,7 +13,7 @@ sources:
   - Ask, E.I. & Azanza, R.V. (2002). "Advances in cultivation of Kappaphycus spp." Seaweed Resources of the World. JICA.
   - Hayashi, L. et al. (2011). "Kappaphycus alvarezii: a review of cultivation and applications." Journal of Applied Phycology, 23, 987–996.
   - Bixler, H.J. & Porse, H. (2011). "A decade of change in the seaweed hydrocolloids industry." Journal of Applied Phycology, 23, 321–335.
-  - Valderrama, D. et al. (2013). "Social and economic dimensions of carrageenan seaweed farming." FAO Fisheries Technical Paper, 580.
+  - Valderrama, D. et al. (2013). "Social and economic dimensions of carrageenan [[seaweed-farming-and-marine-aquaculture]]." FAO Fisheries Technical Paper, 580.
 ---
 
 # Kappaphycus alvarezii
@@ -24,7 +24,7 @@ sources:
 
 The species is native to the Indo-Pacific region, with origins traced to the Philippines and Indonesia. Global aquaculture production exceeds 15 million tonnes fresh weight annually, making it one of the most cultivated seaweeds worldwide.
 
-K. alvarezii farming provides livelihoods for an estimated 100,000+ coastal families across Southeast Asia, East Africa, and the Pacific Islands. The crop is relatively easy to cultivate, requiring no feed inputs beyond sunlight and dissolved nutrients.
+K. alvarezii farming provides livelihoods for an estimated 100,000+ coastal families across Southeast Asia, East Africa, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. The crop is relatively easy to cultivate, requiring no feed inputs beyond sunlight and dissolved nutrients.
 
 ## Taxonomy and Morphology
 
@@ -60,7 +60,7 @@ Ash content ranges from 20–35% dry weight, reflecting high mineral concentrati
 
 ## Cultivation and Harvesting
 
-Commercial cultivation uses two primary methods: off-bottom monoline and floating raft systems. Both employ vegetative propagation from cuttings (approximately 50–100 g each) tied to cultivation ropes at 15–25 cm intervals.
+Commercial cultivation uses two primary methods: off-bottom monoline and floating raft systems. Both employ [[hamilton-vegetative-propagation]] from cuttings (approximately 50–100 g each) tied to cultivation ropes at 15–25 cm intervals.
 
 Off-bottom systems stretch ropes between stakes in shallow bays at 0.3–0.5 m above the seafloor. Raft systems suspend ropes from floating frames in deeper water (1–3 m depth), providing better water exchange.
 
@@ -68,7 +68,7 @@ Growth rates under optimal conditions reach 3–5% per day in fresh weight, enab
 
 Major [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] causing whitening), epiphytic algae, and grazing by herbivorous fish and invertebrates. [[neem]]-based dips and proper spacing help manage disease pressure.
 
-Post-harvest, thalli are typically sun-dried on platforms or raised nets for 3–7 days to moisture content below 35%. Dried product is baled or packed for transport to carrageenan extraction facilities.
+Post-harvest, thalli are typically sun-dried on platforms or raised nets for 3–7 days to moisture content below 35%. [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]] is baled or packed for transport to carrageenan extraction facilities.
 
 ## Applications and Uses
 
@@ -76,7 +76,7 @@ Kappa-carrageenan extracted from K. alvarezii is used as a gelling, thickening, 
 
 Beyond food, carrageenan finds applications in pharmaceuticals (tablet binding, controlled release matrices), cosmetics (toothpaste, lotions, creams), and industrial products (air freshener gels, fire-fighting foams).
 
-Dried K. alvarezii is consumed directly as food in Southeast Asian cuisines, particularly in salads ( Filipino *kinilaw*, Indonesian *gado-gado* garnish) and as a thickening agent in soups. It is marketed as "sea moss" in health food contexts.
+Dried K. alvarezii is consumed directly as food in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisines, particularly in salads ( Filipino *kinilaw*, Indonesian *gado-gado* garnish) and as a thickening agent in soups. It is marketed as "sea moss" in health food contexts.
 
 Emerging applications include carrageenan-based films for biodegradable packaging, [[savory-livestock-nutrition-and-supplementation]].
 
@@ -86,4 +86,4 @@ Large-scale K. alvarezii cultivation has generated ecological concerns, particul
 
 Monoculture farming reduces benthic biodiversity beneath cultivation rafts by shading underlying substrates. However, the structures themselves can serve as artificial reef habitat, attracting fish and invertebrate species.
 
-[[plant-nutrient-uptake-mechanisms]] by farmed Kappaphycus may improve local water quality by absorbing dissolved nitrogen and phosphorus from agricultural runoff. This phytoremediation potential is being studied in eutrophic coastal zones.
+[[plant-nutrient-uptake-mechanisms]] by farmed Kappaphycus may improve local water quality by absorbing dissolved nitrogen and phosphorus from agricultural runoff. This phytoremediation potential is being studied in eutrophic [[mollison-designers-sea-level-change-coastal-zones]].

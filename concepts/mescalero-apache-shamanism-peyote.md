@@ -1,5 +1,5 @@
 ---
-title: Mescalero Apache Shamanism and Peyote Use
+title: [[mescalero-apache-shamanism-and-peyote-rejection]] and Peyote Use
 source: harner-j-hallucinogens-and-shamanism.md (chunk 9, lines 1801–2000)
 type: concept
 ---
@@ -86,7 +86,7 @@ In the aboriginal nomadic situation, these hostilities were externalized toward 
 
 ### The Distinction
 
-The study drew a clear empirical distinction between accredited shamans and pseudoshamans on the reservation. During the study period, 13 shamans and 15 pseudoshamans were identified. The critical difference lay not in the personality structure — both groups shared the typical Apache character disorder profile — but in the presence or absence of specific psychological capacities necessary for successful shamanic practice.
+The study drew a clear empirical distinction between accredited shamans and pseudoshamans on the reservation. During the study period, 13 shamans and 15 pseudoshamans were identified. The critical difference lay not in the personality structure — both groups shared the typical Apache character disorder profile — but in the presence or absence of specific psychological capacities necessary for successful [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]].
 
 ### Psychological Requirements for Shamanism
 
@@ -94,7 +94,7 @@ The authors proposed that successful shamans are distinguished by two key psycho
 
 1. **Creative potential**: Shamans possess greater creative ability than the general Apache population. This creativity manifests in the composition of songs, the innovation of rituals, and the theatrical performance of curing ceremonies. It also enables the effective use of imposture — the deliberate construction of convincing shamanic performances.
 
-2. **Regression in the service of the ego**: Drawing on Ernst Kris's (1952) psychoanalytic formulation, the authors argued that shamans possess the capacity to regress to primary process thinking — the mode of thought characterized by illogical, associative, and hallucinatory content — while maintaining ego control. This ego-controlled availability of primary process material is related both to creativity and to the showmanship necessary for successful shamanism. The shaman can enter altered states of consciousness, experience visions, and communicate with supernatural entities, yet return to oriented functioning and direct the ceremonial performance.
+2. **Regression in the service of the ego**: Drawing on Ernst Kris's (1952) psychoanalytic formulation, the authors argued that shamans possess the capacity to regress to primary process thinking — the mode of thought characterized by illogical, associative, and hallucinatory content — while maintaining ego control. This ego-controlled availability of primary process material is related both to creativity and to the showmanship necessary for successful shamanism. The shaman can enter altered [[mckenna-food-gods-designer-states-of-consciousness]], experience visions, and communicate with supernatural entities, yet return to oriented functioning and direct the ceremonial performance.
 
 Pseudoshamans, by contrast, lacked both the creative potentials and the capacity for regression in the service of the ego. They could neither produce convincing ceremonial innovations nor maintain the ego control necessary to integrate visionary experiences into effective practice.
 
@@ -106,10 +106,10 @@ Importantly, the authors argued that shamans are not autocultural deviants who r
 
 The Mescalero Apache case offers several contributions to the comparative study of shamanism and hallucinogen use:
 
-- It demonstrates that the adoption or rejection of a hallucinogenic substance is not determined solely by its pharmacological properties but by the fit between the social dynamics the substance produces and the pre-existing structure of religious authority.
-- It illustrates how a fundamentally amoral ontology of power can nonetheless produce a moral classification — peyote as uniformly evil — when the substance disrupts established patterns of social and religious organization.
+- It demonstrates that the adoption or rejection of a hallucinogenic substance is not determined solely by its [[lsd-discovery-aftermath-pharmacological-properties]] but by the fit between the social dynamics the substance produces and the pre-existing structure of religious authority.
+- It illustrates how a fundamentally amoral ontology of power can nonetheless produce a moral classification — peyote as uniformly evil — when the substance disrupts established [[patterns-of-social-hierarchy]] and religious organization.
 - It provides empirical support for the psychoanalytic theory that shamanic capacity depends on specific psychological functions (creativity and controlled regression) rather than on psychopathology per se.
-- It shows how changes in social conditions — specifically the transition from nomadic to reservation life — can alter the functional consequences of personality structures that were adaptive in the original cultural context.
+- It shows how changes in social conditions — specifically the transition from nomadic to reservation life — can alter the functional consequences of personality structures that were adaptive in the original [[ayahuasca-pharmacology-and-cultural-context]].
 - It challenges the common assumption that hallucinogen use in indigenous societies invariably produces social cohesion, demonstrating instead that communal visionary experience can intensify pre-existing rivalries when it undermines individualized authority structures.
 
 The case thus underscores the importance of analyzing hallucinogenic religious practices within their specific sociocultural and psychological matrices rather than treating them as self-explanatory phenomena.

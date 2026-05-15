@@ -41,13 +41,13 @@ Mollison lists Trichocerca among the zooplankton thriving in sewage lagoons with
 ## Relevance to Cultivation and Mycology
 
 - **Aquaculture systems**: Rotifers including Trichocerca are essential food for fish larvae in aquaculture, directly relevant to integrated permaculture fish farming.
-- **Biological water treatment**: Rotifer grazing on bacteria and algae enhances the efficiency of constructed wetlands and treatment ponds.
+- **[[sand-filtration-and-biological-water-treatment]]**: Rotifer grazing on bacteria and algae enhances the efficiency of [[constructed-wetlands-and-ecological-wastewater-treatment]] treatment ponds.
 - **Compost tea**: Zooplankton in compost tea systems may contribute to biological processing of organic matter.
 - **Ecosystem health indicator**: Rotifer diversity and abundance are widely used bioindicators for freshwater ecosystem health and water quality.
 
 ## Historical Background
 
-The study of trichocerca has evolved through decades of scientific research
+The study of trichocerca has evolved through decades of [[psilocybin-isolation-and-early-scientific-research]]
 and practical experimentation. Early observations by naturalists and agricultural
 pioneers laid the groundwork for modern understanding, while contemporary
 research continues to refine techniques and applications.
@@ -71,7 +71,7 @@ Trichocerca and other rotifers can produce resting eggs (ephippia) that survive 
 ## Overview
 
 Trichocerca Mollison represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 trichocerca mollison and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

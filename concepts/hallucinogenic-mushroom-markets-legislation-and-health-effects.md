@@ -1,12 +1,12 @@
 ---
-title: Hallucinogenic Mushroom Markets Legislation and Health Effects
+title: [[emcdda-hallucinogenic-mushroom-markets]] Legislation and Health Effects
 source: carolina-mushrooms_08qxp.md
 type: concept
 ---
 
 # Hallucinogenic Mushroom Markets, Legislation, and Health Effects
 
-The European market for hallucinogenic mushrooms has driven significant legislative changes across EU member states. This concept covers the market structure, product forms, health effects, and the evolving legal landscape.
+The European market for [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] has driven significant legislative changes across EU member states. This concept covers the market structure, product forms, health effects, and the evolving legal landscape.
 
 ## Market and Availability
 
@@ -81,13 +81,13 @@ A Google/AltaVista search for mushroom retailers found:
 "The effects are not viewed as positively as the entactogenic effects of ecstasy, and the negative effects may outweigh the positive effects in social situations."
 
 ### Barrier to Widespread Use
-"Comparing the ease with which an ecstasy tablet can be swallowed in a party or dance setting, this cumbersome route of administration, combined with unfamiliar and unpleasant taste, is likely to serve as a barrier to widespread or frequent use of mushrooms."
+"Comparing the ease with which an ecstasy tablet can be swallowed in a party or dance setting, this cumbersome [[mushroom-taste-route-of-administration-and-consumption-barriers]], combined with unfamiliar and unpleasant taste, is likely to serve as a barrier to widespread or frequent use of mushrooms."
 
 ## Emergency and Help Line Data
 
 ### Drug Telephone Help Lines (FESAT)
 - Based on data from 26 drug telephone help lines in 16 European countries
-- "No significant increase in calls to drug help lines regarding the use of hallucinogenic mushrooms during 2004"
+- "No significant increase in calls to drug help lines regarding the use [[health-risks-of-hallucinogenic-mushrooms]] during 2004"
 
 ### Belgium
 - 1% of all inquiries to Druglijn, Flanders in 2003 and 2004 were mushroom-related
@@ -114,12 +114,12 @@ Many drug laws were written to control "plants" from which narcotic substances c
 The UK law previously only controlled mushrooms "if treated or prepared" (dried, mashed, or processed in food) — but not fresh mushrooms. In 2005, the law changed to apply to psilocin mushrooms of any kind, regardless of state.
 
 ### Emerging Concern: Amanita muscaria
-"The recent prohibition of psilocybin and psilocin containing fungi appears to have provoked an emerging interest of retailers in alternative, legal, types of hallucinogenic mushroom such as [[amanita-muscaria]] ([[fly-agaric]])."
+"The recent prohibition of [[hplc-analysis-of-psilocybin-and-psilocin]] containing fungi appears to have provoked an emerging interest of retailers in alternative, legal, types of hallucinogenic mushroom such as [[amanita-muscaria]] ([[fly-agaric]])."
 
 **Warning**: "The active chemicals in these are known to carry substantial toxicity risks and some closely related Amanita species are highly toxic and could cause fatal poisoning."
 
 ## Wild Picking Risks
-"Hallucinogenic mushrooms are easily mistakable for any number of non-psychoactive, inedible, or poisonous mushrooms." This natural confusion may limit the number of people willing to consume wild-picked specimens.
+"Hallucinogenic mushrooms are easily mistakable for any number of non-psychoactive, inedible, or [[identifying-poisonous-mushrooms]]." This natural confusion may limit the number of people willing to consume wild-picked specimens.
 
 ## Key Conclusions
 

@@ -1,5 +1,5 @@
 ---
-title: Seed Starting Indoors
+title: [[comparison-cannabis-cloning-vs-seed-starting-indoors]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Seed Starting Indoors
 
-How to raise your own vegetable transplants indoors, from Steve Solomon's *Gardening When It Counts*. Solomon prefers direct seeding for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
+How to raise your own vegetable transplants indoors, from Steve Solomon's *[[gardening-when-it-counts]]*. Solomon prefers [[clay-seed-pellets-direct-seeding]] for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
 
 ## Why Raise Your Own
 
@@ -53,8 +53,8 @@ Use soil at the ready-to-till moisture content (as described for garden beds in 
 ### Fertilizer Strategy
 
 - **Before first true leaf**: Minimal NPK (nitrogen-phosphorus-potassium) but plenty of calcium. Excess soil nutrients encourage damping-off diseases that attack emerging seedlings.
-- **After first true leaf**: Begin fertilizing. Organic liquid fertilizers are often deficient in phosphorus — look for fish emulsion that has been fortified with phosphoric acid or use a complete liquid fertilizer.
-- **Coffee grounds**: Worth reckoning as about half-strength chicken manure. Free espresso grounds from restaurants are an excellent amendment.
+- **After first true leaf**: Begin fertilizing. Organic [[solomon-liquid-fertilizers-and-foliar-feeding]] are often deficient in phosphorus — look for fish emulsion that has been fortified with phosphoric acid or use a complete liquid fertilizer.
+- **[[oyster-mushroom-coffee-grounds-cultivation]]**: Worth reckoning as about half-strength chicken manure. Free espresso grounds from restaurants are an excellent amendment.
 
 ## Sowing Procedure
 
@@ -72,7 +72,7 @@ Each time you water a sprouting seed, the medium gets too wet and the moisture m
 
 - **Solanums (tomatoes, peppers, eggplant)**: Start about 6 weeks before you'll transplant
   - Sow tomatoes first
-  - When tomatoes are up and growing, start peppers and eggplant
+  - When tomatoes are up and growing, start [[growing-tomatoes-peppers-and-eggplant]]
   - When those are up, consider starting hardiest cucurbits
   - Start zucchini about 2 weeks after solanums
   - Start tender cucurbits (melons, etc.) when it's warm enough to put tomatoes out
@@ -102,7 +102,7 @@ Small batches of seedlings can be raised in a sunny window. If light is insuffic
 
 ## Transplanting Seedlings to the Garden
 
-Solomon's transplanting technique:
+Solomon's [[transplanting-technique]]:
 
 1. Dig a hole large enough for the rootball
 2. Pour a quart (liter) of liquid fertilizer or compost/manure tea into the hole

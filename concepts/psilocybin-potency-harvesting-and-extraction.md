@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Potency, Harvesting, and Alcohol Extraction
+title: [[allen-psilocybin-potency-australian-species]], Harvesting, and [[ethyl-alcohol-extraction]]
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-The potency of psilocybin-containing mushrooms is not static — it changes dramatically throughout the mushroom's life cycle and is influenced by substrate, harvest timing, and preservation methods. Understanding these factors is essential for maximizing the quality of harvested specimens. Additionally, techniques exist for extracting and concentrating the active alkaloids into a more compact and dose-controllable form.
+The potency of psilocybin-containing mushrooms is not static — it changes dramatically throughout the mushroom's life cycle and is influenced by substrate, harvest timing, [[oss-oeric-drying-and-preservation-methods]]. Understanding these factors is essential for maximizing the quality of harvested specimens. Additionally, techniques exist for extracting and concentrating the active alkaloids into a more compact and dose-controllable form.
 
 ## Potency Through the Life Cycle
 
-Psilocybin content in mushrooms peaks before sporulation begins and declines steadily afterward. When a mushroom cap opens, the veil tears away, gills turn dark brown to purple, and spore deposits gather on the stem, the specimen has passed its prime for psychedelic use. This principle appears to hold true across all psilocybin mushroom species, whether cultivated or wild-harvested.
+Psilocybin content in mushrooms peaks before sporulation begins and declines steadily afterward. When a mushroom cap opens, the veil tears away, gills turn dark brown to purple, and spore deposits gather on the stem, the specimen has passed its prime for psychedelic use. This principle appears to hold true across all [[emcdda-psilocybin-mushroom-species-and-identification]], whether cultivated or wild-harvested.
 
-Research by Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of 1% by dry weight — comparable to the more famously potent *Psilocybe semilanceata* (liberty cap). However, reaching this level depends on several converging factors:
+Research by Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of 1% by dry weight — comparable to the more famously potent *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (liberty cap). However, reaching this level depends on several converging factors:
 
 - **Substrate**: Brown rice provides an excellent base for potency development
 - **Age/maturity**: Young, pre-veil-break specimens contain the highest concentrations
@@ -33,7 +33,7 @@ A deliberate harvest strategy focuses on collecting the smallest, youngest speci
 
 As the mushroom cap expands like an umbrella, the physical size increases dramatically, but by weight the concentration of active alkaloids decreases proportionally. The mushroom is essentially diluting its psychoactive content as it allocates energy to spore production and cap expansion. By harvesting early, you capture the alkaloids at their peak concentration.
 
-The trade-off is clear: harvesting only young and abortive specimens yields significantly lower total weight, but the quality and potency per gram can rival *P. semilanceata* — widely considered one of the most potent psilocybin mushrooms in the world.
+The trade-off is clear: harvesting only young and abortive specimens yields significantly lower total weight, but the quality and potency per gram can rival *P. semilanceata* — widely considered one of the most potent [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] in the world.
 
 ## Consumption Guidelines
 

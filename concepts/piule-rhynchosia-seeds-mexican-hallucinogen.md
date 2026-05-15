@@ -43,7 +43,7 @@ rituals aimed at ensuring rainfall and agricultural productivity.
 ## The Name Piule: A Shared Designation
 
 The name "piule" is shared between Rhynchosia seeds and hallucinogenic
-morning glory seeds ([[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] contain ergoline alkaloids
+[[morning-glory-seeds]] ([[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] contain ergoline alkaloids
 closely related to LSD, while the chemistry of Rhynchosia seeds is less
 well characterized.
 

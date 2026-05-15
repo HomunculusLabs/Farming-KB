@@ -1,12 +1,12 @@
 ---
-title: Forest Management Strategies
+title: Forest [[livestock-grassland-management-strategies]]
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
 # Forest Management Strategies
 
-Effective forest management in permaculture requires a multi-layered approach that values standing biomass, diversifies products, and maintains ecological function. Rather than single-purpose extraction, permaculture forestry aims to maximize the value derived from every acre while preserving the forest's capacity for regeneration, [[water-management]], and wildlife habitat.
+Effective forest [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]] requires a multi-layered approach that values standing biomass, diversifies products, and maintains ecological function. Rather than single-purpose extraction, [[permaculture-forestry-systems]] aims to maximize the value derived from every acre while preserving the forest's capacity for regeneration, [[water-management]], and [[hemenway-backyard-wildlife-habitat]].
 
 ## Dry Distillation of Wood
 
@@ -22,7 +22,7 @@ A simple brick-lined container is loaded with wood, sealed, and heated from belo
 - **Heat**: A massive thermal mass below the living space provides heating
 
 ### Environmental Benefits
-The system produces remarkably clean emissions. Flue gases can be passed through pond water to precipitate calcium carbonate, which is then thrown back onto fields or into the lake. This contrasts sharply with traditional charcoal making, where all gases were wasted to atmosphere.
+The system produces remarkably clean emissions. Flue gases can be passed through pond water to precipitate [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]], which is then thrown back onto fields or into the lake. This contrasts sharply with traditional charcoal making, where all gases were wasted to atmosphere.
 
 ### Application to Forest Management
 Dead and dying trees represent an urgent priority. Trees lying on the ground against living trunks pose fire scar risk. Old chestnut logs, which resist rot, accumulate as ground fuel. In regions with high fire frequency like North Carolina, this material ultimately burns in wildfire. Dry distillation converts this liability into multiple valuable products while reducing fire danger.
@@ -102,7 +102,7 @@ Forest maintenance generates constant trimmings that must be managed:
 A promising strategy emerging in North Carolina involves cooperative approaches:
 
 - Individual foresters cannot supply large orders alone, but groups can
-- Shared tools and equipment reduce capital requirements
+- Shared [[winter-harvest-tools-and-equipment]] reduce capital requirements
 - Collective bargaining power improves market access
 - Knowledge sharing accelerates learning
 

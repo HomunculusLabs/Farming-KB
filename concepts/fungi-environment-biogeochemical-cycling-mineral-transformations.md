@@ -35,7 +35,7 @@ biogeochemical implications:
 Organic acid secretion dissolves metal-bearing minerals, releasing metal
 ions into solution. This is important for:
 - **Nutrient acquisition**: Solubilizing iron, manganese, zinc, and copper
-  from mineral sources for fungal and plant nutrition
+  from [[mineral-sources-for-soils]] fungal and plant nutrition
 - **Toxic metal tolerance**: Some fungi can mobilize and then sequester or
   export toxic metals like aluminum and lead
 
@@ -51,7 +51,7 @@ mineral weathering rates, releasing nutrients from silicate minerals. The
 "rock-eating fungi" hypothesis suggests that some fungi actively weather
 minerals as a nutrient acquisition strategy, particularly in nutrient-poor
 soils where mineral dissolution is a primary source of potassium, calcium,
-magnesium, and trace elements.
+magnesium, [[teaming-with-nutrients-micronutrients-and-trace-elements]].
 
 ## Ecosystem-Level Significance
 
@@ -65,7 +65,7 @@ The cumulative effect of these mineral transformations is profound:
 
 Understanding fungal biogeochemistry is essential for predicting ecosystem
 responses to environmental change, managing soil fertility, and developing
-bioremediation strategies for contaminated sites.
+[[bioremediation-strategies]] for contaminated sites.
 
 ## See Also
 
@@ -75,7 +75,7 @@ bioremediation strategies for contaminated sites.
 
 ## Overview
 
-Fungi Environment Biogeochemical Cycling Mineral Transformations represents an important element within sustainable
+Fungi Environment Biogeochemical [[fungal-nutrient-cycling-mineral-transformations]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fungi Environment Biogeochemical Cycling Mineral Transformations finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 fungi environment biogeochemical cycling mineral transformations and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

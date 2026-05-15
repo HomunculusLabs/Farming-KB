@@ -12,13 +12,13 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Barrow, S.C. (1998). "A monograph of Phoenix L. (Palmae: Coryphoideae)." Kew Bulletin 53(3): 513-575.
-  - Christodoulou, C.S. (1992). "The fungal-diversity-mediterranean-ecosystems."
+  - Christodoulou, C.S. (1992). "The [[fungal-diversity-mediterranean-ecosystems]]."
   - Greuter, W. (1967). "Flora der Insel Kythira." Botanische Jahrbücher 87: 1-140.
 ---
 
 # Phoenix theophrasti
 
-Phoenix theophrasti, the Cretan date palm, is the only native palm species in Europe. It is endemic to a handful of coastal locations in southern Greece and Turkey, where it forms the northernmost natural palm populations in the world.
+Phoenix theophrasti, the Cretan [[permaculture-date-palm-guide]], is the only native palm species in Europe. It is endemic to a handful of coastal locations in southern Greece and Turkey, where it forms the northernmost natural palm populations in the world.
 
 The species was recognized as distinct from the cultivated date palm [[ancient-greek-mystery-cults-comparison]] philosopher who documented the flora of Crete.
 
@@ -60,9 +60,9 @@ The Vai palm forest creates a unique coastal ecosystem that supports specialized
 
 Fruit of Phoenix theophrasti is smaller and less sweet than that of the cultivated date palm. It is consumed by birds, rodents, and feral goats, though seed predation rates are high.
 
-The species requires cross-pollination between male and female individuals. In small, isolated populations, the skewed sex ratios reported at some sites may limit natural regeneration.
+The species requires cross-pollination between male and female individuals. In small, isolated populations, the skewed sex ratios reported at some sites may limit [[biodiversity-power-natural-regeneration]].
 
-Competition with invasive plant species, particularly [[acacia]] saligna and Carpobrotus edulis, has been identified as a threat at several sites. These aggressive exotics can suppress palm seedling establishment in dune habitats.
+Competition with invasive plant species, particularly [[acacia]] saligna and [[carpobrotus]] edulis, has been identified as a threat at several sites. These aggressive exotics can suppress palm seedling establishment in dune habitats.
 
 Herbivory by feral goats is a significant pressure at some sites, particularly on the Dodecanese islands. Goats consume young palm shoots and seedlings, effectively preventing recruitment in heavily grazed areas.
 
@@ -74,7 +74,7 @@ Phoenix theophrasti is classified as Endangered on the IUCN Red List. Its total 
 
 The largest population at Vai beach is partially protected within a fenced reserve managed by the Greek Forest Service. However, the site faces pressure from tourism development, with visitor numbers exceeding 200,000 annually.
 
-The Preveli population is protected within a Natura 2000 site but faces ongoing pressure from grazing, invasive species, and occasional wildfire. A major fire in 2010 damaged a significant portion of the Preveli grove.
+The Preveli population is protected within a Natura 2000 site but faces ongoing pressure from grazing, invasive species, and occasional [[wildfire]]. A major fire in 2010 damaged a significant portion of the Preveli grove.
 
 Genetic studies have revealed low [[dighton-fungal-responses-climate-change]] poses a long-term threat through increased drought frequency and rising sea levels. Many populations are within 100 meters of the coastline and could be affected by saltwater intrusion into the freshwater aquifers they depend on.
 

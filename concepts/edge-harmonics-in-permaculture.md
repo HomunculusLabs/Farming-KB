@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Edge is one of the most important and far-reaching concepts in [[permaculture-design]]. [[bill-mollison]] devoted extensive study to understanding how edges function in natural systems and how designers can deliberately manipulate them to increase yield, diversity, and system stability. The concept draws from Aboriginal Australian ecological knowledge, mathematics, and direct observation of natural patterns.
+Edge is one of the most important and far-reaching concepts in [[permaculture-design]]. [[bill-mollison]] devoted extensive study to understanding how edges function in natural systems and how designers can deliberately manipulate them to increase yield, diversity, and system stability. The concept draws from Aboriginal Australian ecological knowledge, mathematics, and [[fukuoka-direct-observation-method]] of [[natural-patterns-in-permaculture-design]].
 
 ## Defining Edge
 
@@ -29,7 +29,7 @@ However, not all edges are productive. When unlike systems are butted together, 
 
 ## The Blueberry Example
 
-Blueberries grow at the edge of clearings in pine forests — they are an edge species. An agricultural college graduate wanting to grow blueberries commercially will clear the area, remove the pines, and set out blueberries as open row crop. If instead the designer loops rows of blueberries through existing pine plantings and runs pastures into the edges, the equivalent of an acre of blueberries can be produced on a quarter acre, probably doubling the yield.
+Blueberries grow at the edge of clearings in pine forests — they are an edge species. An agricultural college graduate wanting to grow blueberries commercially will clear the area, remove the pines, and set out blueberries as open row crop. If instead the designer loops rows of blueberries through existing pine plantings and runs pastures into the edges, the equivalent of an acre of blueberries can be produced on a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]], probably doubling the yield.
 
 ## Edge Harmonics: The Mathematical Discovery
 
@@ -46,7 +46,7 @@ The harmonics of the edge decide:
 
 Mollison observed Pitjantjatjara women creating elaborate patterns in pigments on windows and dresses. When he flew over the desert in a light plane, he recognized that these patterns were accurate ecological [[maps]] of the desert — the spacings were precise, and one woman could direct another to a specific stone and salt pan at a distance she had never visited.
 
-These patterns represent the desert's own edge harmonics — the way the land itself organizes its interfaces between different ecological zones. The women's patterns describe aspects of desert ecology in terms of story and myth. In Pitjantjatjara culture, celebration, way, and pattern are indistinguishable — a totality.
+These patterns represent the desert's own edge harmonics — the way the land itself organizes its interfaces between different ecological zones. The women's patterns describe aspects of [[dryland-strategies-and-desert-ecology]] in terms of story and myth. In Pitjantjatjara culture, celebration, way, and pattern are indistinguishable — a totality.
 
 ## Practical Application: The Box-Thorn Clump
 
@@ -56,7 +56,7 @@ He planted avocado in a hot edge pocket — over a thousand miles south of banan
 
 ## The Ziggurat Garden
 
-Inspired by the spiral of a sea shell (which efficiently stacks digestion into a small space), Mollison built a ziggurat garden about six feet across at the base — an open spiral ascending a rock cairn. This three-dimensional edge creation produced roughly 51 feet of row in a compact footprint, with no inter-row problems. Different drainages, heats, and shade created multiple microclimates suitable for different culinary herbs — parsley, chives, thyme, rosemary on top, tarragon lower down.
+Inspired by the spiral of a sea shell (which efficiently stacks digestion into a small space), Mollison built a ziggurat garden about six feet across at the base — an open spiral ascending a rock cairn. This three-dimensional edge creation produced roughly 51 feet of row in a compact footprint, with no inter-row problems. Different drainages, heats, and shade created multiple microclimates suitable for different [[culinary-herbs-cultivation-and-kitchen-garden-guide]] — parsley, chives, thyme, rosemary on top, tarragon lower down.
 
 The ziggurat condenses space, reduces intercrop competition, gives every plant plenty of root and climbing space, and relieves the monotony of flattened landscapes.
 
@@ -86,7 +86,7 @@ The edge concept has several critical implications for [[permaculture]] designer
 - **Superimposed sine waves** create edge harmonics or moiré patterns on a flat plane
 - **Spherical or round design elements** (like geodesic domes) minimize energy flows — useful for conservation
 - **Curvilinear patterns** amplify energy exchanges — useful when productivity is the goal
-- **Pattern recognition** becomes the designer's primary skill — linking disparate phenomena from different disciplines into a single theoretical framework
+- **[[pattern-recognition-and-geometric-garden-design-permaculture]]** becomes the designer's primary skill — linking disparate phenomena from different disciplines into a single theoretical framework
 - **Time stacking** is another dimension of edge — placing lettuce under pole beans so lettuce is harvested before beans shade it
 
 The boundary condition is critically important to many things. Mollison argues we pay too little attention to it and should use it as a powerful design tool wherever it does not cost too much.

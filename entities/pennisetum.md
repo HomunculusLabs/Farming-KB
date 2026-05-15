@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Pennisetum is a large genus of tropical and subtropical grasses in the family Poaceae, commonly known as fountaingrasses or bristle grasses. The genus includes both highly productive forage grasses and significant cereal crops. Species range from low-growing ground covers to tall perennial bunch grasses reaching 3–5 meters in height. They are distributed across Africa, Asia, and the Pacific Islands.
+Pennisetum is a large genus of tropical and subtropical grasses in the family Poaceae, commonly known as fountaingrasses or bristle grasses. The genus includes both highly productive forage grasses and significant cereal crops. Species range from low-growing ground covers to tall perennial bunch grasses reaching 3–5 meters in height. They are distributed across Africa, Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 ## Classification
 
@@ -22,9 +22,9 @@ Pennisetum is a large genus of tropical and subtropical grasses in the family Po
 
 - Elephant grass (*P. purpureum*) is one of the highest-yielding tropical forage grasses, producing 30–80 tonnes of dry matter per hectare per year under favorable conditions.
 - Pearl millet (*P. glaucum*) is a critical staple cereal crop in arid and semi-arid tropical regions of Africa and South Asia, tolerant of drought and high temperatures.
-- Pennisetum species are effective pioneer plants in ecological succession, often the first tall grasses to colonize disturbed sites in tropical grasslands.
+- Pennisetum species are effective pioneer plants in [[ecological-succession]], often the first tall grasses to colonize disturbed sites in tropical grasslands.
 - The genus includes both annual and perennial species adapted to a wide range of rainfall conditions.
-- Many species produce abundant biomass suitable for mulch, thatch, and erosion control.
+- Many species produce abundant biomass suitable for mulch, thatch, [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]].
 
 ## Relevance to Cultivation and Permaculture
 
@@ -57,7 +57,7 @@ Mollison references Pennisetum in multiple contexts within the humid tropics cha
 ## Overview
 
 Pennisetum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -78,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pennisetum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,7 +107,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pennisetum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

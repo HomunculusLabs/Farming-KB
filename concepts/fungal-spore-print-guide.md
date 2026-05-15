@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-A spore print is the pattern of spores deposited when a mushroom cap is placed gill- or pore-side down on a surface. Spore print color is one of the most important macroscopic identification characters for mushrooms, used since the time of Elias Magnus Fries in the early 19th century. This guide covers the technique, spore colors by genus, and how to use spore prints for identification. See [[mushroom-taxonomy-history]] for the historical context of spore-based classification.
+A spore print is the pattern of spores deposited when a mushroom cap is placed gill- or pore-side down on a surface. Spore print color is one of the most important macroscopic identification characters for mushrooms, used since the time of Elias Magnus Fries in the early 19th century. This guide covers the technique, spore colors by genus, and how to use spore prints for identification. See [[mushroom-taxonomy-history]] for the [[ghouled-field-guide-historical-context]] of spore-based classification.
 
 ## Making a Spore Print
 
@@ -53,8 +53,8 @@ Common genera with white spores:
 - **Lepiota**: Parasol mushrooms; some deadly (L. brunneoincarnata)
 - **Tricholoma**: Many species including matsutake (T. matsutake)
 - **Pleurotus**: Oyster mushrooms (P. ostreatus)
-- **Volvariella**: Paddy straw mushroom (V. volvacea)
-- **Marasmius**: Marasmius oreades (fairy ring mushroom)
+- **Volvariella**: [[paddy-straw-mushroom]] (V. volvacea)
+- **Marasmius**: [[marasmius-oreades]] (fairy ring mushroom)
 - **Lycoperdon**: Puffballs (when mature and releasing spores)
 
 ### Pink / Salmon Spore Print
@@ -70,7 +70,7 @@ Note: Pink spore prints can fade over time, so observe immediately after lifting
 ### Brown Spore Print
 
 The largest group of gilled mushrooms:
-- **Psilocybe**: Psychoactive mushrooms (P. cubensis, P. semilanceata)
+- **Psilocybe**: [[ceremonial-shamanic-use-psychoactive-mushrooms]] (P. cubensis, P. semilanceata)
 - **Agrocybe**: Field mushrooms, common in disturbed habitats
 - **Panaeolus**: Banded mottlegill; some species contain psilocybin
 - **Tubaria**: Small brown mushrooms
@@ -97,7 +97,7 @@ The largest group of gilled mushrooms:
 - **Gymnopilus**: Some species contain psilocybin
 - **Pholiota**: Scaly caps, often on wood
 - **Inocybe**: Many species are toxic (muscarine)
-- **Paxillus**: Paxillus involutus (poisonous, causes autoimmune hemolysis)
+- **Paxillus**: [[paxillus-involutus]] (poisonous, causes autoimmune hemolysis)
 
 ### Buff / Pale Yellow Spore Print
 
@@ -117,7 +117,7 @@ Spore print color is a first-level sorting character. It narrows identification 
 
 1. **Habitat**: Wood, ground, grass, dung, specific tree associations
 2. **Morphology**: Cap shape, gill attachment, stem features, presence of ring or volva
-3. **Microscopic features**: Spore shape and size, presence of cheilocystidia, clamp connections
+3. **Microscopic features**: Spore shape and size, presence of cheilocystidia, [[basidiomycete-sexual-reproduction-and-clamp-connections]]
 4. **Chemical tests**: KOH reaction on cap surface, iron salts, guaiac
 5. **Bruising/staining**: Blue bruising (Psilocybe, some Boletes), color changes
 6. **Odor**: Farinaceous (flour-like), anise-like, mealy, fruity
@@ -136,7 +136,7 @@ Document your spore prints for future reference:
 ## See Also
 
 - [[mushroom-taxonomy-history]] — How spore colors shaped early fungal classification
-- [[fungal-dna-barcoding]] — Modern molecular identification methods
+- [[fungal-dna-barcoding]] — Modern [[fungal-molecular-identification]] methods
 - [[mushroom-cooking-techniques]] — Once identified, how to prepare edible species
 
 ## Related

@@ -9,14 +9,14 @@ type: concept
 Principles and practices for successfully marketing and pricing winter-harvested
 vegetables, drawn from [[eliot-coleman]]'s experience with [[four-season-farm]] in Maine.
 Covers differentiation strategy, packaging design, pricing philosophy, biological
-quality advantages, and financial benchmarks for small-scale winter vegetable
+quality advantages, and financial benchmarks for small-scale [[coleman-french-historical-winter-vegetable-production]]
 operations.
 
 ## The Limits of "Organic" as a Differentiator
 
 The "organic" label has lost its distinctiveness as industrial-scale operations
 have adopted it. The term no longer signals the small-scale, ecologically
-integrated farming practices that originally defined it. The organic label alone
+[[ultra-low-cost-integrated-farming]] practices that originally defined it. The organic label alone
 is no longer sufficient for small farmers to command premium prices.
 
 Coleman argues that small farmers must find new forms of distinction — the two
@@ -104,7 +104,7 @@ but engineering and materials quality are fundamentally different.
 Foods with high coloration grown under **cool conditions** develop higher
 concentrations of **anthocyanins** — antioxidant compounds responsible for red,
 blue, and purple pigmentation. Cool temperatures and shorter days stimulate
-anthocyanin production as a protective mechanism. Winter greenhouse produce
+anthocyanin production as a protective mechanism. [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] produce
 consistently develops deeper, more intense colors than the same varieties grown
 warm, making winter-harvested crops **nutritionally denser** in antioxidants.
 This provides a scientifically grounded basis for premium positioning — the
@@ -114,7 +114,7 @@ product is objectively better, not just subjectively fresher.
 
 ### Per-Square-Foot Revenue Goals
 
-Coleman established clear financial targets for his winter production system:
+Coleman established clear financial targets for his [[coleman-beet-greens-cold-house-winter-production]] system:
 
 | House Type | Crops/Year | Target Gross Revenue |
 |---|---|---|
@@ -127,13 +127,13 @@ earns its place in the rotation.
 
 ### Acreage-Level Returns and the Five-Year Ramp-Up
 
-Combining field and greenhouse production across the full year, Coleman achieved
+Combining field and [[economics-of-winter-greenhouse-production]] across the full year, Coleman achieved
 a gross return of **$80,000 per acre**. This demonstrates that small acreage,
 intensively managed with winter capacity, can generate revenue comparable to or
 exceeding many conventional large-scale operations on a per-acre basis.
 
 However, Coleman expects a **five-year ramp-up** before reaching target gross
-revenue. This accounts for the learning curve of winter production techniques,
+revenue. This accounts for the learning curve of winter [[spawn-production-techniques]],
 time to build market relationships, soil improvement under intensive
 cultivation, and gradual optimization of crop rotations and variety
 selection. The ramp-up expectation prevents discouragement from comparing

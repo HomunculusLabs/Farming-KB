@@ -41,12 +41,12 @@ Microbes that have colonized inside root tissue. This is where cultivar-specific
 Winston et al. confirmed a model first proposed by Bulgarelli et al. (2013) for Arabidopsis, now validated for cannabis:
 
 ### Tier 1: Soil-Driven Selection
-Soil type determines the composition of rhizosphere and root-inhabiting communities. Edaphic factors ranked by influence (most to least):
+Soil type determines the composition of rhizosphere and root-inhabiting communities. [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] ranked by influence (most to least):
 
 1. **Nitrogen** — strongest predictor (r-stat: 0.465 weighted, 0.630 unweighted)
 2. **Salinity** — high salt reduces microbial diversity (r-stat: 0.437/0.620)
 3. **Total organic carbon** — drives microbial biomass (r-stat: 0.330/0.512)
-4. **Water content** — shapes aerobic vs anaerobic communities (r-stat: 0.281/0.466)
+4. **Water content** — shapes [[aact-aerobic-vs-anaerobic-brew-comparison-ingham]] communities (r-stat: 0.281/0.466)
 5. **pH** — moderate influence (r-stat: 0.221/0.292)
 
 BEST analysis showed the optimal combination of three factors — Nitrogen, Carbon, and Water — explains community variance with rho = 0.632.
@@ -90,12 +90,12 @@ A consistent set of microbial taxa found inside cannabis roots across cultivars 
 | **Oxalobacteraceae** | Organic acid metabolism, nutrient cycling |
 | **Xanthomonadaceae** | Diverse metabolic capabilities |
 | **Rhizobiales** | Nitrogen fixation potential |
-| **Burkholderiaceae** | Plant growth promotion, biocontrol |
+| **Burkholderiaceae** | [[pseudomonas-endophyte-cannabis-endorhiza-plant-growth-promotion]], biocontrol |
 | **Actinomycetales** | Filamentous bacteria, decompose complex organic matter, produce antibiotics |
 | **Sphingobacteriales** | Organic matter degradation |
 | **Mortierellaceae** | Early successional fungi, plant growth promotion, pathogen suppression |
 
-All prevalent members except Cellvibrio are well-known endophytic bacteria, primarily within Gammaproteobacteria and Alphaproteobacteria — consistent with observations from other plant systems.
+All prevalent members except Cellvibrio are well-known [[endorhiza-endophytic-bacteria]], primarily within Gammaproteobacteria and Alphaproteobacteria — consistent with observations from other plant systems.
 
 ## Cultivar-Specific Differences
 
@@ -104,7 +104,7 @@ All prevalent members except Cellvibrio are well-known endophytic bacteria, prim
 - Methylophilus is a methylotrophic bacterium — consumes methanol, a byproduct of plant cell wall metabolism
 
 ### Maui Wowie
-- Prevalence of Sphingomonas wittichii
+- Prevalence of [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]
 - This species can metabolize phenazine-1-carboxylic acid and has been implicated in increased survival in soil environments
 
 ### Sour Diesel and Burmese
@@ -113,7 +113,7 @@ All prevalent members except Cellvibrio are well-known endophytic bacteria, prim
 
 ## Cannabinoid-Microbiome Connection
 
-Winston et al. found a significant correlation between endorhiza community structure and cannabinoid composition (Mantel test r-stat: 0.863, p = 0.001). However, this correlation is confounded — THC levels were also significantly correlated to soil edaphic variables, making it difficult to disentangle the cannabinoid-microbiome relationship from the soil-cannabinoid relationship. The authors note this requires further research with controlled experiments.
+Winston et al. found a significant correlation between [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] and cannabinoid composition (Mantel test r-stat: 0.863, p = 0.001). However, this correlation is confounded — THC levels were also significantly correlated to soil edaphic variables, making it difficult to disentangle the cannabinoid-microbiome relationship from the soil-cannabinoid relationship. The authors note this requires further research with controlled experiments.
 
 ## Alpha Diversity Pattern
 

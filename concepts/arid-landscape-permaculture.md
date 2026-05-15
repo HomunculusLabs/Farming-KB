@@ -96,7 +96,7 @@ permaculture stacking.
 
 ### Australian Aboriginal Systems
 Aboriginal peoples developed intimate knowledge of desert food plants including the
-**yala tuber** — a deep-rooted native storing water and carbohydrate underground. These
+**yala tuber** — a deep-rooted native storing water and [[carbohydrate]] underground. These
 systems required no irrigation, relying on detailed knowledge of plant locations,
 seasonal timing, and landscape reading accumulated over millennia.
 

@@ -23,7 +23,7 @@ The cross-cultural patterns of psychedelic plant use in shamanic and indigenous 
 
 ## Defining Shamanism
 
-Shamanism has been described by Mircea Eliade as "the archaic techniques of ecstasy." The shaman is a figure who gains entrance into a hidden world through altered states of consciousness, interacting with powers both helpful and malevolent that operate by rules different from those of ordinary reality. In this other dimension, shamans diagnose illness, retrieve lost souls, negotiate with spirits, and restore balance to individuals and communities.
+Shamanism has been described by Mircea Eliade as "the archaic [[mckenna-shamanism-and-techniques-of-ecstasy]]." The shaman is a figure who gains entrance into a hidden world through altered states of consciousness, interacting with powers both helpful and malevolent that operate by rules different from those of ordinary reality. In this other dimension, shamans diagnose illness, retrieve lost souls, negotiate with spirits, and restore balance to individuals and communities.
 
 Psychedelic plants are not universal in shamanism, but they constitute the most reliable and culturally widespread method of inducing the shamanic trance state across the Americas, parts of Africa, and Asia.
 
@@ -33,7 +33,7 @@ Psychedelic plants are not universal in shamanism, but they constitute the most 
 
 The most complex and powerful of shamanic plant preparations. See [[ayahuasca-preparation-and-ceremony]] for detailed coverage.
 
-- A brew combining *Banisteriopsis caapi* (containing harmala alkaloids that act as MAO inhibitors) with DMT-containing plants (typically *Psychotria viridis* or *Diplopterys cabrerana*).
+- A brew combining *Banisteriopsis caapi* (containing [[harmala-alkaloids]] that act as MAO inhibitors) with DMT-containing plants (typically *[[chacruna-psychotria-viridis]]* or *Diplopterys cabrerana*).
 - Used by indigenous peoples throughout the Amazon basin, including the Shipibo-Conibo, Shuar, Ashaninka, Quechua, and many others.
 - Shamans use ayahuasca to diagnose illness, communicate with plant spirits, conduct healing ceremonies, and hunt for knowledge.
 - Michael Harner described his first ayahuasca experience among the Shuar of Ecuador: he felt his soul transported in a ship crewed by bird-headed deities and was shown the secrets of life by great black whale-like entities with pterodactyl wings.
@@ -48,8 +48,8 @@ See [[maria-sabina-and-mazatec-mushroom-ceremony]] for detailed coverage of the 
 
 ### Peyote (North America)
 
-- *Lophophora williamsii*, a small cactus containing mescaline, has been used for thousands of years by indigenous peoples of Mexico and the southwestern United States.
-- The **Native American Church** (NAC) is the largest and most legally recognized peyote-using religious organization, with an estimated 250,000-400,000 members.
+- *[[lophophora-williamsii]]*, a small cactus containing mescaline, has been used for thousands of years by indigenous peoples of Mexico and the southwestern United States.
+- The **[[halpern-sacramental-peyote-and-native-american-church]]** (NAC) is the largest and most legally recognized peyote-using religious organization, with an estimated 250,000-400,000 members.
 - Peyote ceremonies typically involve all-night prayer, singing, drumming, and the consumption of peyote buttons in a structured ritual context.
 - The NAC has fought legal battles to protect peyote use as a religious freedom, achieving partial legal protections under the American Indian Religious Freedom Act (1994).
 
@@ -61,7 +61,7 @@ See [[maria-sabina-and-mazatec-mushroom-ceremony]] for detailed coverage of the 
 
 ### San Pedro / Huachuma (Andean South America)
 
-- *Echinopsis pachanoi* (San Pedro cactus) contains mescaline and has been used in Andean healing ceremonies for at least 3,000 years, as evidenced by archaeological finds at Chavin de Huantar in Peru.
+- *[[echinopsis-pachanoi]]* (San Pedro cactus) contains mescaline and has been used in Andean healing ceremonies for at least 3,000 years, as evidenced by archaeological finds at Chavin de Huantar in Peru.
 - Healers (curanderos) use San Pedro in ceremonies called *mesadas* to diagnose illness, cleanse negative energies, and promote healing.
 
 ### Fly-Agaric / Amanita Muscaria (Siberia and Northern Europe)

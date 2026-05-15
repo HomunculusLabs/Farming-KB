@@ -47,7 +47,7 @@ material in its futile search for nourishment.
 
 As hyphae extend and branch, they form a maze of filaments whose pattern
 resembles a series of river deltas. This collective structure is the colony, or
-mycelium — the feeding phase of the fungus. Most often, hyphal growth is
+mycelium — [[fungal-mycelium-hyphae-and-the-feeding-phase]] of the fungus. Most often, hyphal growth is
 invasive, so mycelia develop inside their food source (substrate). In
 mushroom-forming basidiomycetes, the mycelium is submerged in soil or rotting
 wood beneath the visible fruiting bodies. In pathogenic species, mycelia
@@ -73,7 +73,7 @@ difficult. However, fruiting bodies duplicate the genetic makeup of their
 ## Overview
 
 Mycelium Structure And Growth represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mycelium Structure And Growth finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -102,13 +102,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for mycelium structure and growth. Climate adaptation
+opportunities for mycelium structure and growth. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mycelium structure and growth and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

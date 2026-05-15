@@ -103,6 +103,6 @@ modern man has forgotten.
 ## The Critique of Human Arrogance
 
 Underlying all of Fukuoka's observations is a deep critique of human arrogance toward nature. Scientists today, he argues, are under the illusion that they can replace God as the Lord of all creation. But the organisms they create through [[masanobu-fukuoka]]
-- fukuoka natural farming do nothing agriculture
+- fukuoka [[natural-farming-do-nothing-agriculture]]
 - fukuoka desertification agricultural civilization collapse
 - [[fukuoka-natural-diet-food-philosophy]]

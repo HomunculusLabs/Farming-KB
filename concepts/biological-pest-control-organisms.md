@@ -126,7 +126,7 @@ The vineyard case study illustrates this integration: bacterial biomass alone wa
 - Source biocontrol organisms locally for adaptation to regional conditions
 - Understand the actual feeding ecology of pests (many "plant-eating" insects are actually fungal feeders)
 - Fungal biomass in compost tea is critical for disease protection on foliage
-- [[keystone-species-and-trophic-cascades]] in aquatic systems require restoring complete food webs, not single organisms
+- [[keystone-species-fungal]] in aquatic systems require restoring complete food webs, not single organisms
 - Humic acids support entomopathogenic fungi like Beauveria
 - Bacterial inocula can repel leaf-feeding insects but require specificity matching
 - Always validate that commercial inocula survive the brewing, application, and establishment process with field data

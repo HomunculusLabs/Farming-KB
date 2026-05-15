@@ -7,7 +7,7 @@ tags: [technique, season-extension, crop-protection, greenhouse]
 
 ## Overview
 
-Floating row cover is a lightweight, permeable fabric material used in agriculture and horticulture to protect crops from cold temperatures, wind, and pests while allowing light, air, and moisture to pass through. In the context of Eliot Coleman's winter-harvest system at [[four-season-farm]], floating row cover serves as the critical inner layer of protection inside unheated hoop houses, creating a "twice-tempered climate" that enables cold-hardy vegetable production through Zone 5 Maine winters.
+Floating row cover is a lightweight, permeable fabric material used in agriculture and horticulture to protect crops from cold temperatures, wind, and pests while allowing light, air, and moisture to pass through. In the context of Eliot Coleman's winter-harvest system at [[four-season-farm]], floating row cover serves as the critical inner layer of protection inside unheated hoop houses, creating a "twice-tempered climate" that enables cold-hardy [[coleman-french-historical-winter-vegetable-production]] through Zone 5 Maine winters.
 
 ## Physical Description
 
@@ -63,7 +63,7 @@ Most of these crops tolerate temperatures down to 10°F (-12°C) or lower under 
 
 ## Types and Selection
 
-Any lightweight floating row cover that allows light, air, and moisture transmission is suitable. Key selection criteria:
+Any lightweight floating row cover that allows light, air, and moisture transmission is suitable. Key [[cannabis-breeding-traits-selection-criteria-clarke]]:
 
 1. **Light transmission**: Must allow adequate photosynthetically active radiation (PAR)
 2. **Air permeability**: Prevents excessive humidity buildup and disease
@@ -78,10 +78,10 @@ The use of row cover material as an inner protective layer in unheated greenhous
 
 The floating row cover concept has direct applications beyond vegetable production:
 
-- **Mushroom beds**: Row cover can moderate temperature and humidity for outdoor mushroom beds and tunnels
-- **Spawn run protection**: Helps maintain stable conditions during mycelial colonization
-- **Fruiting chamber modification**: Can be used to create microclimates within larger growing structures
-- **Integrated systems**: Useful in combined vegetable-mushroom production setups where environmental control must be low-cost
+- **Mushroom beds**: Row cover can moderate [[greg-green-temperature-and-humidity-control]] for outdoor mushroom beds and tunnels
+- **Spawn run protection**: Helps maintain stable conditions during [[mycelial-colonization]]
+- **Fruiting chamber modification**: Can be used to create microclimates within larger [[duggar-mushroom-growing-structures-caves-cellars-houses]]
+- **Integrated systems**: Useful in combined vegetable-mushroom production setups where [[cannabis-indoor-growing-environmental-control]] must be low-cost
 
 ## Key Facts
 

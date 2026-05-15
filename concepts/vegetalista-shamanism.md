@@ -1,5 +1,5 @@
 ---
-title: Vegetalista Shamanism
+title: [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]]
 source: amaringo-p-ayahuasca-visions.md
 tags: [vegetalista, shamanism, amazon, peru, plant-medicine, ayahuasca, shipibo]
 ---
@@ -7,7 +7,7 @@ tags: [vegetalista, shamanism, amazon, peru, plant-medicine, ayahuasca, shipibo]
 # Vegetalista Shamanism
 
 The vegetalista tradition is a system of Amazonian plant medicine and
-spiritual healing practiced throughout the Peruvian Amazon, particularly
+[[planetary-spirits-spiritual-healing]] practiced throughout the Peruvian Amazon, particularly
 along the Ucayali River. A vegetalista is a healer who derives their
 knowledge and power from plants — specifically from the plant-teachers
 that reveal their medicinal and spiritual properties through ayahuasca
@@ -77,7 +77,7 @@ the visionary experience.
 ## Overview
 
 Vegetalista Shamanism represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -106,13 +106,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for vegetalista shamanism. Climate adaptation
+opportunities for vegetalista shamanism. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 vegetalista shamanism and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

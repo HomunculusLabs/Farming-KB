@@ -9,7 +9,7 @@ tags: [company, manufacturer, isomerizer, cannabis-device, 1970s]
 
 ## Description
 
-Thai Power, Inc. (also referred to as Thai Power or TPI) was the manufacturer and distributor of the Isomerizer and ISO-2 cannabis extraction and isomerization devices invented by D. Gold. The company operated during the 1970s and early 1980s, marketing directly to cannabis consumers through counterculture publications and mail order.
+Thai Power, Inc. (also referred to as Thai Power or TPI) was the manufacturer and distributor of the Isomerizer and ISO-2 [[high-volume-cannabis-extraction-and-fractional-distillation]] isomerization devices invented by D. Gold. The company operated during the 1970s and early 1980s, marketing directly to cannabis consumers through counterculture publications and mail order.
 
 ## Classification
 
@@ -24,7 +24,7 @@ Thai Power, Inc. (also referred to as Thai Power or TPI) was the manufacturer an
 - Manufactured and sold the Isomerizer and ISO-2 devices
 - Published *IsoNews*, a newsletter for Isomerizer users sharing techniques and recipes
 - Provided customer support and responded to user letters about extraction techniques
-- Sold consumables including 100% isopropyl alcohol and activator solution
+- Sold consumables including 100% [[isopropyl-alcohol]] and activator solution
 - Advertised in counterculture magazines including *Head*
 - Was developing an automatic filtration accessory for the Isomerizer
 - Encouraged user experimentation while disclaiming responsibility for accidents from non-standard procedures
@@ -63,7 +63,7 @@ This subject has relevance across multiple disciplines and applications. Underst
 
 ## Practical Applications
 
-Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
+Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 
 ## See Also
 - [[lemon-cannabis-alchemy-isomerization]]
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Thai Power finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 thai power and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

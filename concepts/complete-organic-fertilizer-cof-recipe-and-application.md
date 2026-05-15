@@ -1,5 +1,5 @@
 ---
-title: Complete Organic Fertilizer COF Recipe and Application
+title: [[complete-organic-fertilizer-cof]] COF Recipe and Application
 source: gardening-when-it-counts-steve-[[solomon-complete-organic-fertilizer-cof-recipe|solomon]].md
 type: concept
 ---
@@ -74,11 +74,11 @@ If tankage is unavailable, simply increase the seedmeal portion slightly and acc
 
 ### Lime Types
 
-Three types of ground natural rock provide calcium and magnesium:
+Three types of ground natural rock provide [[dynamic-accumulator-plants-calcium-and-magnesium]]:
 
 | Type | Provides | Notes |
 |------|----------|-------|
-| Agricultural lime | Calcium | Relatively pure calcium carbonate |
+| Agricultural lime | Calcium | Relatively pure [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] |
 | Dolomite lime | Calcium + Magnesium | Both minerals, usually in roughly equal amounts |
 | Gypsum | Calcium + Sulfur | Calcium sulfate — does not affect pH |
 
@@ -123,7 +123,7 @@ For medium and high-demand vegetables, additional side-dressings boost performan
 
 ## How COF Works: Slow Release Biology
 
-COF ingredients are not immediately soluble — they release nutrients as soil microorganisms decompose them. This is fundamentally different from chemical fertilizers:
+COF ingredients are not immediately soluble — they release nutrients as soil microorganisms decompose them. This is fundamentally different from [[cannabis-chemical-fertilizers]]:
 
 - **Chemical fertilizers** dissolve rapidly in water, causing a growth spike followed by a nutrient crash, requiring repeated applications. Much of the dissolved nutrients leach away before plants can absorb them, especially in sandy soils.
 - **COF ingredients** decompose slowly through soil biology. The rate is determined by soil temperature — roughly doubling for each 10°F (5°C) increase. Full decomposition of a COF application takes about 2 months in warm soil.
@@ -137,7 +137,7 @@ This slow-release biology means nutrients are available as plants need them, wit
 1. **Incomplete nutrition**: Even so-called "complete" chemical fertilizers (like 16-16-16) contain only NPK plus possibly sulfur. They lack calcium, magnesium, and all trace minerals.
 2. **Potassium excess**: Most chemical blends push potassium too high, increasing starch/fiber yield while diluting protein, vitamin, and mineral content.
 3. **Rapid leaching**: Water-soluble nutrients wash through the soil profile, wasting money and polluting groundwater.
-4. **Boom-and-bust growth**: Rapid nitrogen availability causes flush growth that is more susceptible to pests and diseases.
+4. **Boom-and-bust growth**: Rapid [[nitrogen-availability-in-legumes]] causes flush growth that is more susceptible to [[mushroom-pests-and-diseases]].
 5. **Soil biology damage**: Excess soluble salts harm beneficial soil microorganisms over time.
 
 ## Cost Considerations

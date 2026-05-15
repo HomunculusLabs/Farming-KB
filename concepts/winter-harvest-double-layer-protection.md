@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The double-layer protection system is the foundational innovation behind Eliot Coleman's winter harvest method. By adding a second layer of covering inside an unheated greenhouse, growers can create a microclimate equivalent to moving approximately 1,500 miles to the south (three USDA hardiness zones), enabling the production of fresh salad greens and root vegetables throughout winter even in cold climates like coastal Maine.
+The double-layer protection system is the foundational innovation behind Eliot Coleman's [[winter-harvest-method-overview]]. By adding a second layer of covering inside an unheated greenhouse, growers can create a microclimate equivalent to moving approximately 1,500 miles to the south (three USDA hardiness zones), enabling the production of fresh salad greens and root vegetables throughout winter even in cold climates like coastal Maine.
 
 ## The Concept: Extending the Harvest Season
 
@@ -32,7 +32,7 @@ For commercial production, the inner layer evolved from glass cold frames (which
 
 ### Temperature Performance
 
-The effectiveness of the double-layer system increases progressively as ambient temperature drops:
+The effectiveness of the double-layer system increases progressively as [[jadam-ambient-temperature-principle]] drops:
 
 - At 25°F (-4°C) outside: approximately 6-7°F (3.5°C) of freeze protection inside
 - At -15°F (-26°C) outside: approximately 30-35°F (16-19°C) of freeze protection inside
@@ -47,7 +47,7 @@ Replanting through the winter, as spaces open up following harvest, is an import
 
 ## Greenhouse Scale
 
-For commercial production, Coleman settled on 30-foot-wide by 96-foot-long houses as the most efficient choice. These were designed to be movable, using a metal sled-runner design pulled by tractor. Once moved to position, the houses are bolted securely to ground anchors. Movable greenhouses solve the fundamental soil-health problem that plagued traditional stationary greenhouses, where soil degradation necessitated digging out and replacing the top 16 inches of soil.
+For commercial production, Coleman settled on 30-foot-wide by 96-foot-long houses as the most efficient choice. These were designed to be movable, using a metal sled-runner design pulled by tractor. Once moved to position, the houses are bolted securely to ground anchors. [[movable-greenhouses]] solve the fundamental soil-health problem that plagued traditional stationary greenhouses, where soil degradation necessitated digging out and replacing the top 16 inches of soil.
 
 ## Customer Response and Market Impact
 
@@ -64,11 +64,11 @@ Operates through complex interactions between biological, chemical, and physical
 
 ## Practical Applications
 
-Applied in agricultural production, land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
+Applied in [[fukuoka-agricultural-production-net-energy-deduction]], land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
 
 ## Research Findings
 
-Studies demonstrate measurable effects on soil health, plant growth, and ecosystem function. Ongoing research continues to refine understanding and application methods.
+Studies demonstrate measurable effects on soil health, plant growth, [[fungal-biodiversity-and-ecosystem-function]]. Ongoing research continues to refine understanding [[diy-fertilizer-recipes-and-application-methods]].
 ## Historical Context
 
 Development of understanding and practices related to this topic has evolved significantly over time. Early observations led to systematic study and practical applications that continue to influence modern approaches.

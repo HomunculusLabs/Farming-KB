@@ -26,7 +26,7 @@ Tryptamine chemistry revolves around modification at several critical positions:
 
 The primary synthetic route to substituted tryptamines described in TIHKAL follows a consistent pattern:
 
-1. **Indole [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]** in anhydrous diethyl ether to form the **indol-3-ylglyoxyl chloride** intermediate.
+1. **Indole [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]** in anhydrous [[diethyl-ether]] to form the **indol-3-ylglyoxyl chloride** intermediate.
 
 2. This intermediate is treated with a **secondary amine** (dimethylamine, diethylamine, etc.) to form the corresponding **glyoxylamide**.
 

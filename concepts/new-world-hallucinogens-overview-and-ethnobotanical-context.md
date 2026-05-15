@@ -37,7 +37,7 @@ The New World — North, Central, and South America and the West Indies — harb
 
 - Ayahuasca/caapi/yajé prepared primarily from Banisteriopsis caapi or B. inebrians bark
 - Common additives include:
-  - **Psychotria viridis** leaves — contain hallucinogenic tryptamines (DMT)
+  - **[[chacruna-psychotria-viridis]]** leaves — contain hallucinogenic tryptamines (DMT)
   - **Banisteriopsis rusbyana** leaves — also contain tryptamines
   - **Brunfelsia** species — hallucinogenic in their own right
   - **Datura** species — tropane alkaloid hallucinogens
@@ -64,9 +64,9 @@ The New World — North, Central, and South America and the West Indies — harb
 - Peyote cactus for prophecy, diagnosis, and curing disease
 - Datura species for divination and ritualistic curing
 - Mixtec puffballs (Lycoperdon mixtecorum and L. marginotum) to hear voices from heaven
-- Salvia divinorum for healing and divination among Mazatec people
-- Ololiuqui and other morning glory seeds in Aztec and Mazatec traditions
-- Culebra borrachera and other local hallucinogens in shamanic practice
+- Salvia divinorum for [[metzner-shamanic-healing-and-divination-paradigm]] among Mazatec people
+- Ololiuqui and other [[morning-glory-seeds]] in Aztec and Mazatec traditions
+- [[culebra-borrachera-methysticodendron-amesianum]] and other local hallucinogens [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
 
 ### South America
 
@@ -82,7 +82,7 @@ The New World — North, Central, and South America and the West Indies — harb
 ### North America
 
 - Peyote cult spread from Mexico into the southwestern United States and Great Plains
-- Native American Church formalized peyote use as a sacramental practice
+- [[halpern-sacramental-peyote-and-native-american-church]] formalized peyote use as a sacramental practice
 - Datura used by southwestern and plains tribes in divination and medicine
 - Fewer species employed hallucinogenically than in Mesoamerica or South America
 - Role of hallucinogens often secondary to other ceremonial elements

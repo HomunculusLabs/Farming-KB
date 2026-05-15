@@ -4,7 +4,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, law, safety, reform, psychopharmacology, counterculture, activism, history, culture, reference, entheogen-research]
-sources: []
+sources:
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
+  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 
 # Psychedelic Plants Legal Status

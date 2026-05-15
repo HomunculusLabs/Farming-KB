@@ -22,7 +22,7 @@ created: 2026-05-11
 
 ## Overview
 
-The cultivated mushroom (*Agaricus campestris* and related species) completes
+The cultivated mushroom (*[[agaricus-campestris]]* and related species) completes
 a life cycle progressing through several distinct phases: spore production,
 germination, vegetative mycelial growth, nutrient accumulation, and fruiting
 body formation. B.M. Duggar's *Mushroom Growing* (1915) provides one of the
@@ -32,7 +32,7 @@ pertains to commercial cultivation.
 Understanding each phase is essential for the grower, since the mushroom does
 not reproduce dependably from spore alone under practical conditions —
 instead, the vegetative phase known as **spawn** serves as the primary
-starting material for commercial beds.
+[[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for commercial beds.
 
 ## Spore Production and Structure
 
@@ -52,7 +52,7 @@ Although each spore is theoretically capable of germination, doing so
 reliably is difficult even under carefully controlled laboratory conditions.
 Duggar notes that growers cannot practically employ spores as a starting
 material — the germination process is too uncertain. Only under precisely
-favourable conditions of moisture, temperature, and nutrient availability
+favourable conditions of moisture, temperature, [[chelation-and-nutrient-availability]]
 will a spore produce a **germ tube**, the first visible sign of growth, from
 which filamentous mycelium eventually arises.
 
@@ -82,7 +82,7 @@ methods, an important technique for maintaining desirable strains.
 
 Fresh, undried spawn of *Agaricus campestris* possesses a characteristic
 pleasing aroma — a blend of fresh mushroom scent with a slight note of
-powdered almonds. The related *Agaricus fabaceus* yields a more pronounced
+powdered almonds. The related *[[agaricus-fabaceus]]* yields a more pronounced
 amygdaline-type odour. These aromas are valuable diagnostic cues but are
 largely lost upon drying.
 
@@ -95,7 +95,7 @@ threads. These primordial structures represent the earliest stage of fruiting
 body formation and mark the shift from vegetative growth to reproductive
 development.
 
-The transition depends on adequate mycelial colonisation, appropriate
+The transition depends on adequate [[jar-shaking-grain-redistribution-mycelial-colonisation]], appropriate
 temperature, sufficient moisture, and fresh air exposure. When these
 conditions align, the mycelium redirects its resources toward forming
 mushrooms.
@@ -124,7 +124,7 @@ thoroughness of this prior accumulation.
 
 Growers who maximise mycelial colonisation before introducing fruiting
 conditions are rewarded with heavier and more reliable crops — a principle
-that remains central to modern mushroom cultivation.
+that remains central to modern [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Spawn Recognition and Identification
 

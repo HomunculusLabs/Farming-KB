@@ -5,7 +5,8 @@ tags: cotter-compost-substrate-preparation-manure-mushroom-cultivation], mushroo
       peat-moss, buffering-agents, pH-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md"
 type: concept
 ---
 

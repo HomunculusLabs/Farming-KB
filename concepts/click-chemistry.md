@@ -55,7 +55,7 @@ Proteomics workflows use click chemistry to enrich labeled proteins on beads and
 
 Glycobiology benefited strongly because many cell-surface glycans are difficult to study with antibodies alone.
 
-The method also supports imaging of RNA, lipid remodeling, enzyme activity, and post-translational modification dynamics.
+The method also supports imaging of RNA, lipid remodeling, [[enzyme]] activity, and post-translational modification dynamics.
 
 ## Applications in Materials and Polymer Science
 Click chemistry is useful for polymer end-group modification, network formation, dendrimer assembly, and surface functionalization.

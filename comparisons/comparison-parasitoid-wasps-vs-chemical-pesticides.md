@@ -19,7 +19,7 @@ used in . Major commercial species include *Trichogramma* spp.
 (egg parasitoids of caterpillars and borers), *Aphidius* spp. (aphid parasitoids), and
 *Encarsia formosa* (whitefly parasitoid). They are a cornerstone of 
 programs in agriculture, with over 100 species produced commercially worldwide for release
-in field and protected cropping systems.
+in field and [[mollison-designers-glasshouse-protected-cropping]] systems.
 
 Chemical pesticides encompass a broad range of synthetic compounds—including
 organophosphates, pyrethroids, neonicotinoids, diamides, and spinosyns—designed to kill,
@@ -51,7 +51,7 @@ Parasitoid wasps do not harm bees, butterflies, or other pollinating insects—t
 themselves incidental pollinators in some ecosystems. Many chemical pesticides—especially
 neonicotinoids, pyrethroids, and organophosphates—are highly toxic to  and
 require strict application timing (e.g., pre-bloom only), buffer zones, and drift
-management to mitigate exposure risk. Chronic sublethal effects on bee foraging behavior
+management to mitigate exposure risk. Chronic sublethal effects on bee [[root-foraging-behavior]]
 and colony health have been well documented for several widely used insecticide classes.
 
 ### Aquatic Toxicity
@@ -80,7 +80,7 @@ in any form and leave no chemical residues on harvested produce or in the enviro
 ## Overview
 
 Comparison Parasitoid Wasps Vs Chemical Pesticides represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Comparison Parasitoid Wasps Vs Chemical Pesticides finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 comparison parasitoid wasps vs chemical pesticides and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

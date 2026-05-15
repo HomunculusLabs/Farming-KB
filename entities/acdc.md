@@ -16,7 +16,7 @@ created: 2026-05-07
 
 ## Overview
 
-**ACDC** is a high-CBD, low-THC cannabis strain that has become one of the most recognized medical cannabis varieties worldwide. Renowned for delivering the therapeutic benefits of cannabidiol (CBD) without the intoxicating psychoactive effects typically associated with cannabis, ACDC has gained popularity among medical patients seeking relief from pain, anxiety, inflammation, and seizure disorders. The strain consistently produces CBD-to-THC ratios of 20:1 or higher, making it a flagship variety in the medical cannabis movement and a cornerstone of CBD-dominant breeding programs.
+**ACDC** is a high-CBD, low-THC cannabis strain that has become one of the most recognized medical cannabis varieties worldwide. Renowned for delivering the therapeutic benefits of cannabidiol (CBD) without the intoxicating psychoactive effects typically associated with cannabis, ACDC has gained popularity among medical patients seeking relief from pain, anxiety, inflammation, [[cannabis-for-epilepsy-and-seizure-disorders]]. The strain consistently produces CBD-to-THC ratios of 20:1 or higher, making it a flagship variety in the medical cannabis movement and a cornerstone of CBD-dominant breeding programs.
 
 ## Lineage and Genetics
 
@@ -34,7 +34,7 @@ ACDC is a phenotype of **Cannatonic**, itself a cross between **MK Ultra** and *
 
 ### Genetic Background
 
-The Cannatonic lineage brings together the heavy indica genetics of MK Ultra (itself a cross of G13 and OG Kush) with the sativa-dominant G13 Haze. The ACDC phenotype represents a rare genetic expression where CBD synthase enzymes dominate over THC synthase during [[cannabis-landrace-sativa-heritage-varieties]].
+The Cannatonic lineage brings together the heavy indica genetics of MK Ultra (itself a cross of G13 and OG Kush) with the sativa-dominant G13 Haze. The ACDC phenotype represents a rare [[oner-cannabis-phenotypes-genetic-expression]] where CBD synthase enzymes dominate over THC synthase during [[cannabis-landrace-sativa-heritage-varieties]].
 
 ### Aroma and Flavor Profile
 
@@ -55,7 +55,7 @@ The Cannatonic lineage brings together the heavy indica genetics of MK Ultra (it
 The terpene profile of ACDC contributes to its reported [[cannabis-pain-management-protocols]]**: Effective for [[cannabis-chronic-pain-management]], neuropathic pain, and inflammatory pain conditions including arthritis and fibromyalgia.
 - **Anti-inflammatory**: Broad anti-inflammatory effects attributed to CBD and β-caryophyllene.
 - **Seizure management**: ACDC has been used by patients with treatment-resistant epilepsy, particularly Dravet syndrome and Lennox-Gastaut syndrome. It is often compared to pharmaceutical CBD formulations.
-- **Muscle spasms**: Relief from muscle spasms and spasticity associated with multiple sclerosis and other neurological conditions.
+- **Muscle spasms**: Relief from muscle spasms and spasticity associated with [[blesching-cannabis-multiple-sclerosis]] and other [[cannabis-and-neurological-conditions]].
 - **Nausea relief**: Mild anti-emetic properties, though less potent than high-THC strains for chemotherapy-induced nausea.
 
 ### Adverse Effects
@@ -69,7 +69,7 @@ The terpene profile of ACDC contributes to its reported [[cannabis-pain-manageme
 ACDC has become a staple recommendation in medical cannabis programs across the United States, Canada, and other regulated markets. It is particularly favored by:
 
 - **Patients new to cannabis**: The non-intoxicating profile makes it an ideal introductory strain.
-- **Elderly patients**: Low psychoactivity and good tolerability.
+- **[[cannabis-elderly-patients]]**: Low psychoactivity and good tolerability.
 - **Working professionals**: Therapeutic benefits without impairment of cognitive function or workplace performance.
 
 ## Overview
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 acdc and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

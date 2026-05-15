@@ -1,5 +1,5 @@
 ---
-title: mckenna tryptamine glossolalia and primal language and mckenna-glossolalia-and-primal-language-tryptamine-states
+title: mckenna [[tryptamine-glossolalia-and-language]] primal language and mckenna-glossolalia-and-primal-language-tryptamine-states
 created: 2026-04-28
 tags: [tryptamines, dmt, glossolalia, shamanism, consciousness, language, 
 psilocybin]
@@ -29,11 +29,11 @@ meaning-toned, three-dimensional rotating complexes of transforming light and
 color." To know this, McKenna wrote, "is to feel like a child. One is playing 
 with colored balls; one has become the Aeon." This reference to Heraclitus 
 captures the quality of return to a more primal mode of consciousness in which 
-language and reality have not yet separated into distinct domains.
+[[mckenna-language-and-reality]] have not yet separated into distinct domains.
 
 ## Terror as Criterion of Authenticity
 
-One of the most significant aspects of the tryptamine experience, for McKenna, 
+One of the most significant aspects of the [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]], for McKenna, 
 was the element of genuine fear. "One of the interesting characteristics of DMT 
 is that it sometimes inspires fear; this marks the experience as existentially 
 authentic." He argued that "a touch of terror gives the stamp of validity to 
@@ -65,7 +65,7 @@ psychoactive plants.
 ## Neuroscience of Speech and Psychedelics
 
 Modern neuroscience has begun to map the brain regions involved in
-both glossolalia and psychedelic states. The default mode network
+both glossolalia and psychedelic states. The [[default-mode-network-and-ego-dissolution]]
 (DMN), which normally regulates self-referential thought and
 linguistic filtering, shows decreased activity under psychedelics.
 This DMN suppression may release lower-level speech motor patterns
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mckenna Tryptamine Glossolalia And Primal Language finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mckenna tryptamine glossolalia and primal language and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

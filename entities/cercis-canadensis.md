@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Sargent, C.S. (1965). "Manual of the Trees of psilocybin-north-america-pacific-northwest." Dover Publications.
+  - Sargent, C.S. (1965). "Manual of the Trees of [[psilocybin-north-america-pacific-northwest]]." Dover Publications.
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
   - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern." University of [[polypore-fungi-eastern-north-america]] America and is widely planted as an ornamental for its showy pink-purple spring flowers.
@@ -72,7 +72,7 @@ Cercis canadensis is an early-successional species that colonizes forest edges a
 ## Overview
 
 Cercis Canadensis represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -86,14 +86,14 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving cercis extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
 ## Practical Applications
 
 Cercis Canadensis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for cercis canadensis. Climate adaptation
+opportunities for cercis canadensis. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cercis canadensis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

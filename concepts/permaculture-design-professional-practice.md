@@ -1,5 +1,5 @@
 ---
-title: Professional Permaculture Design Practice
+title: Professional [[bee-forage-systems-permaculture-design]] Practice
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -40,7 +40,7 @@ The professional permaculture designer's core function is **placement** — know
 
 ### Gender Balance
 
-The movement has historically been short of women designers. Half of design course participants must be women. Hosts are required to recruit at least half women students, with scholarships used to assist women where payment is a barrier. All hosts must offer free or affordable childcare.
+The movement has historically been short of women designers. Half of [[permaculture-design-course-methodology]] participants must be women. Hosts are required to recruit at least half women students, with scholarships used to assist women where payment is a barrier. All hosts must offer free or affordable childcare.
 
 ### Scholarship Structure
 
@@ -53,7 +53,7 @@ The movement has historically been short of women designers. Half of design cour
 
 ### Course Types
 
-- **3-week Permaculture Design Course**: Covers many topics broadly.
+- **3-week [[mollison-permaculture-design-course-curriculum]]**: Covers many topics broadly.
 - **10-day Design Intensive**: Qualifies people to design their own homes; provides more design experience than the full course and serves as preparation for or post-graduate follow-up to the design course.
 - **Weekend Workshops** (Friday night through Sunday afternoon): Short enough for broad attendance, long enough for design experience.
 
@@ -101,7 +101,7 @@ Almost without exception, a free job can be organized alongside a paid job. Do f
 |---------|-------------|-----|
 | Property Finding | Find specific property for client (not like real estate — charge the buyer, not seller) | 0.5% of purchase price (finding) + 1.5% on purchase |
 | Property Management | Ongoing oversight of land the client doesn't live on | $2,000–$5,000/year or ~$5,000/year for 3–5 properties |
-| Energy Budgeting | Resource inventory and energy analysis | Investigate own price structure |
+| Energy Budgeting | Resource inventory and [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] | Investigate own price structure |
 | Pre-Design Reports | Community zoning-like recommendations | Varies |
 | Architectural Liaison | Principles sheets for client's architect; builder recommendations | Varies |
 | Village Projects | Pre-design for groups, then individual designs | Varies |
@@ -138,4 +138,4 @@ At least 80% of real estate agents are reported to support permaculture approach
 
 Designers should establish much of their work as demonstration sites. When looking for land, persuade clients to share concern for rehabilitation. A nursery on a small separate title can provide ongoing site improvement and supply materials for future design jobs.
 
-The ultimate vision is to become developers — acquiring and preserving wild areas, converting destructive land uses (cattle and sheep on dry lands) to productive permaculture systems, and demonstrating that [[regenerative-agriculture]] can outperform extractive land use by orders of magnitude.
+The ultimate vision is to become developers — acquiring and preserving wild areas, converting destructive land uses (cattle and sheep on dry lands) to productive permaculture systems, and demonstrating that [[regenerative-agriculture]] can outperform extractive land use by [[event-classification-and-orders-of-magnitude]].

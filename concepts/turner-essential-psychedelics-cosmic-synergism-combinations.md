@@ -34,7 +34,7 @@ spiritual quality.
 
 ### Mushrooms + Syrian Rue + N,N-DMT + Nitrous Oxide + Ketamine
 
-The mushrooms + Syrian Rue was medium strength and pleasant. DMT added
+The mushrooms + [[syrian-rue]] was medium strength and pleasant. DMT added
 especially to the visual context. The ketamine at the end overpowered what
 remained of the previous high but was pleasantly enhanced with a wider range of
 feelings than ketamine alone. Turner was semi-consciously aware of his body

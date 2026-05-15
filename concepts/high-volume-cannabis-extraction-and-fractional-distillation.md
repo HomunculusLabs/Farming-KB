@@ -1,5 +1,5 @@
 ---
-title: High Volume Cannabis Extraction And Fractional Distillation
+title: High [[high-volume-cannabis-extraction-and-refinement]] And [[cannabis-advanced-refinement-fractional-distillation]]
 source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 - Perform all operations: refluxing, soxhleting, distilling, and solvent collection
 - Incorporate necessary safety features for working with large volumes of flammable solvents
 
-Despite safety features (pressure relief valves, construction design to contain minor mishaps), the large volumes of flammable solvents pose a serious fire hazard. The potential scale and violence of a major accident warrant extreme caution. Such a device is **always tended during operation**, and emergency shutdown measures are ready at all times.
+Despite safety features (pressure relief valves, [[mushroom-house-construction-design]] to contain minor mishaps), the large volumes of flammable solvents pose a serious fire hazard. The potential scale and violence of a major accident warrant extreme caution. Such a device is **always tended during operation**, and emergency shutdown measures are ready at all times.
 
 ### Condenser Drum (Upper Drum)
 

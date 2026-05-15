@@ -1,5 +1,5 @@
 ---
-title: "Shirota Large-Scale tryptamine-chemistry-psilocin-and-psilocybin-synthesis Synthesis Pathway"
+title: "Shirota Large-Scale tryptamine-chemistry-psilocin-and-psilocybin-synthesis [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]"
 created: 2026-04-28
 tags:
   - chemistry
@@ -52,7 +52,7 @@ The zwitterionic nature of compound 8 enabled its isolation on large scale by si
 
 ### Final Deprotection to Psilocybin
 
-[[psilocybin]] (2) as a crystalline product. After approximately 2 hours, water was added to the mixture (to address product deposition) and stirring continued for one more hour. The product was filtered through a Celite pad and concentrated to afford psilocybin as a white needle crystalline powder.
+[[psilocybin]] (2) as a [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]]. After approximately 2 hours, water was added to the mixture (to address product deposition) and stirring continued for one more hour. The product was filtered through a Celite pad and concentrated to afford psilocybin as a white needle crystalline powder.
 
 The isolated yield of psilocybin from psilocin was greater than 72%, even for gram-scale production, representing a substantial improvement over the previously reported yields of 20% and 47%.
 
@@ -75,7 +75,7 @@ The isolated yield of psilocybin from psilocin was greater than 72%, even for gr
 
 ## Overview
 
-Shirota Psilocin Psilocybin Large Scale Synthesis Pathway represents an important element within sustainable
+[[shirota-psilocin-psilocybin-spectroscopic-characterization-forensic-standards]] [[concise-large-scale-synthesis-of-psilocin-and-psilocybin]] Pathway represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Shirota Psilocin Psilocybin Large Scale Synthesis Pathway finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 shirota psilocin psilocybin large scale synthesis pathway and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

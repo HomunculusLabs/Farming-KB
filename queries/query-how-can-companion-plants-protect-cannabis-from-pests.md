@@ -47,7 +47,6 @@ interference to light penetration and airflow around your cannabis canopy.
   cannabis scent and chemically repel pests through [[query-how-to-control-pests-without-chemicals]]
 - [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
 
-
 ## See Also
 
 - [[query-how-and-when-should-i-prune-my-fruit-trees-and-bushes]]

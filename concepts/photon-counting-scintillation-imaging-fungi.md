@@ -1,5 +1,5 @@
 ---
-title: Photon-Counting Scintillation Imaging of Fungi
+title: Photon-Counting [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]] of Fungi
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Photon-counting scintillation imaging (PCSI) is a novel non-invasive technique developed to track the movement of radiolabelled compounds through fungal mycelial networks in real time. Unlike traditional autoradiography or destructive scintillation counting methods, PCSI enables continuous, long-term monitoring of nutrient translocation patterns in living fungal colonies. The technique has been primarily applied to study the distribution and transport of 14C-labelled nitrogen compounds, specifically the non-metabolized amino acid analogue alpha-amino-isobutyrate (14C-AIB), in foraging mycelial networks of saprotrophic basidiomycetes such as *Phanerochaete velutina*.
+Photon-counting scintillation imaging (PCSI) is a novel non-invasive technique developed to track the movement of radiolabelled compounds through [[fungal-mycelial-networks-ecosystem-engineers]] in real time. Unlike traditional autoradiography or destructive scintillation counting methods, PCSI enables continuous, long-term monitoring of [[dighton-fungal-nutrient-translocation-element-redistribution]] patterns in living fungal colonies. The technique has been primarily applied to study the distribution and transport of 14C-labelled nitrogen compounds, specifically the non-metabolized amino acid analogue alpha-amino-isobutyrate (14C-AIB), in foraging mycelial networks of saprotrophic basidiomycetes such as *[[phanerochaete-velutina]]*.
 
 ## How PCSI Works
 
@@ -58,7 +58,7 @@ These growth phases can be described mathematically by **two superimposed logist
 Time series data for CMD_AIB, ConcD_AIB, CMD_area, and ConcD_area are normalized to the start of the second growth phase and fitted using **Linear Mixed Effects models** (Pinheiro & Bates, 2000). This allows rigorous statistical comparison between different treatments (e.g., control vs. resource addition).
 
 ### Resource Addition Effects
-- **Controls** (no additions): Spontaneously switched to asymmetric growth with selective resource allocation to broad colony sectors
+- **Controls** (no additions): Spontaneously switched to asymmetric growth with selective [[mycelial-foraging-resource-allocation]] to broad colony sectors
 - **Damp cellulosic resources** (filter paper): Induced marked nitrogen accumulation and asymmetric growth tightly focused on the new resource
 - **Damp glass-fibre resources**: More variable response, often transient and not sustained compared with filter-paper resources
 
@@ -86,7 +86,7 @@ The PCSI approach has been modified for use with more realistic microcosms incor
 
 ## See Also
 
-- [[vacuolar-transport-fungal-hyphae]] - Intracellular transport mechanisms
+- [[vacuolar-transport-fungal-hyphae]] - [[vacuolar-system-intracellular-transport-fungi]] mechanisms
 - [[pulsatile-nutrient-transport-fungal-mycelia]] - Oscillatory components of transport
 - [[mycelial-nutrient-transport-network-dynamics]] - Overview of transport across scales
 

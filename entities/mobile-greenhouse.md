@@ -1,5 +1,5 @@
 ---
-title: Mobile Greenhouse
+title: [[coleman-mobile-greenhouse-crop-rotation-soil-health]]
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [technique, infrastructure, greenhouse, season-extension, crop-rotation]
@@ -23,7 +23,7 @@ The first documented mobile greenhouse was built in England in 1898. It was a la
 
 ### Movement Cycle
 1. **August**: Winter crops sown outdoors in the field where the greenhouse will move
-2. **Summer (August-October)**: Greenhouse remains over summer crops (tomatoes, peppers, cucumbers, eggplants, melons, sweet potatoes)
+2. **Summer (August-October)**: Greenhouse remains over summer crops (tomatoes, peppers, cucumbers, eggplants, melons, [[growing-sweet-potatoes]])
 3. **Mid-late October**: Greenhouse moved to cover the winter-sown crops
 4. **Winter**: Greenhouse protects winter vegetables
 5. **Following October**: Process reverses — greenhouse moves back to the summer position
@@ -55,7 +55,7 @@ The mobile greenhouse concept reduces costs by:
 - Eliminating the need for separate summer and winter greenhouse structures
 - Reducing pest management costs through biological rotation
 - Eliminating cooling energy costs for August planting
-- Building soil fertility through green manure years
+- [[building-soil-fertility-long-term]] through green manure years
 - Avoiding permanent greenhouse soil degradation
 
 ## Technical Considerations
@@ -70,11 +70,11 @@ The mobile greenhouse concept reduces costs by:
 
 The mobile greenhouse concept has direct applications for integrated mushroom-vegetable systems:
 
-- **Substrate rotation**: Moving the structure between mushroom and vegetable positions allows natural decomposition of spent substrate
+- **Substrate rotation**: Moving the structure between mushroom and vegetable positions allows [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] of spent substrate
 - **Pest break**: Uncovered periods break pest cycles for both mushroom and vegetable crops
 - **Soil building**: Green manure years improve soil for subsequent mushroom bed production
 - **Cost efficiency**: One structure serves multiple production purposes across seasons
-- **Solarization**: Uncovered periods use solar energy to sterilize soil, reducing pathogen load for subsequent mushroom cultivation
+- **Solarization**: Uncovered periods use solar energy to sterilize soil, reducing pathogen load for subsequent [[accessible-mushroom-cultivation-for-disabilities]]
 
 ## Key Facts
 
@@ -92,7 +92,7 @@ The mobile greenhouse concept has direct applications for integrated mushroom-ve
 
 - Four Season Farm
 - Eliot Coleman
-- Cold House (Unheated Greenhouse)
+- Cold House ([[coleman-unheated-greenhouse-design]])
 - [[floating-row-cover]]
 
 ## See Also

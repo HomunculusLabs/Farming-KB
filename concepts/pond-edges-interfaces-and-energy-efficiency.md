@@ -1,5 +1,5 @@
 ---
-title: Pond Edges, Interfaces, and Energy Efficiency
+title: Pond Edges, Interfaces, [[aquaculture-design-principles-and-energy-efficiency]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -23,10 +23,10 @@ Edges occur—or can be produced—in great variety at the land/water interface:
 - **Forest edge**: Provides shade, leaf litter, and insect habitat
 - **Shrubbery edge**: Offers nesting sites and cover for waterfowl
 - **Reed bed**: Critical habitat for spawning fish, frogs, and invertebrates
-- **Mudflat**: Supports wading birds and burrowing organisms
+- **Mudflat**: Supports wading birds and [[soil-burrowing-organisms]]
 - **Gravel shoreline**: Used by spawning fish and specific molluscs
 - **Marsh**: Rich in unique plant species and wildlife
-- **Ice and snow**: Create seasonal habitat with unique ecological functions
+- **Ice and snow**: Create seasonal habitat with unique [[fungal-melanin-biosynthesis-ecological-functions]]
 
 Each edge type supports very different organisms. Among waterfowl, preferences for edge variety are as marked as among frogs—some preferring barren spits while others favour forest and mulch. Quite small ponds can provide essential nesting and refuge places for many bird and frog species.
 
@@ -50,7 +50,7 @@ The pond bottom generates and hides a host of organisms:
 - Burrowing and sliding lifeforms from mussels to larval lampreys
 - Tubifex worms to tubers
 
-Just as the pond surface is critical to gaseous exchange, the mud surface is critical to nutrient retention. It is there that phosphates and nitrogenous products are stored, and humic and faecal products accumulate as mulch. Anaerobic and reducing processes take place within the close confines of the base mulch, while aeration occurs on the water surface or through the medium of plants, wind, or flow turbulence.
+Just as the pond surface is critical to [[soil-gaseous-exchange-mollison]], the mud surface is critical to [[bacterial-biofilms-and-nutrient-retention]]. It is there that phosphates and nitrogenous products are stored, and humic and faecal products accumulate as mulch. Anaerobic and reducing processes take place within the close confines of the base mulch, while aeration occurs on the water surface or through the medium of plants, wind, or flow turbulence.
 
 ## Energy Considerations in Aquaculture Design
 
@@ -73,7 +73,7 @@ J.E. Bardach identifies food, fertiliser, and fuels for water pumping as the mai
 | Pond polyculture of carp, mullet, [[tilapia]] (Israel) | 0.027 | 184 |
 | Sewage/stream culture of carp in cages | <0.004 | 8 |
 
-This analysis reveals why distant-water fishing is collapsing in all sensible countries, and why aquaculture is likely to eclipse terrestrial protein production. The difference between intensive monoculture and integrated polyculture is staggering—nearly two orders of magnitude in energy efficiency.
+This analysis reveals why distant-water fishing is collapsing in all sensible countries, and why aquaculture is likely to eclipse terrestrial protein production. The difference between intensive monoculture and integrated polyculture is staggering—nearly two [[event-classification-and-orders-of-magnitude]] in energy efficiency.
 
 ### Conversion Efficiency
 

@@ -4,7 +4,9 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, biology, lab-technique, academia, methods]
-sources: []
+sources:
+  - "raw/papers/unknown-working-with-agar.md"
+  - "raw/papers/working-with-agar.md"
 ---
 
 # Mushroom Genetics and Strain Selection

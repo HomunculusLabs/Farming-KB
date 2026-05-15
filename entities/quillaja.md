@@ -18,7 +18,7 @@ As an insectary tree, Quillaja functions as a wasp-attracting hub within the orc
 
 ## Relevance to Cultivation and Mycology
 
-Quillaja serves a dual function in permaculture systems: as an insectary species supporting biological pest control in orchards, and as a source of saponins with antifungal properties directly relevant to plant pathology. The saponin-rich bark extracts have demonstrated efficacy against various fungal pathogens, suggesting potential applications in organic fungicide formulations for crop protection without damaging soil biology. In integrated orchard design, Quillaja contributes to the insectary component of plant guilds, helping reduce pest species to manageable levels without chemical biocides. Its inclusion in windbreaks provides both shelter and ecological services — a prime example of the permaculture principle of stacking functions in every element.
+Quillaja serves a dual function in permaculture systems: as an insectary species supporting [[beneficial-insects-and-biological-pest-control]] in orchards, and as a source of saponins with antifungal properties directly relevant to plant pathology. The saponin-rich bark extracts have demonstrated efficacy against various fungal pathogens, suggesting potential applications in organic fungicide formulations for crop protection without damaging soil biology. In integrated orchard design, Quillaja contributes to the insectary component of plant guilds, helping reduce pest species to manageable levels without chemical biocides. Its inclusion in windbreaks provides both shelter and ecological services — a prime example of the [[permaculture-principle-1-observe-interact]] of [[gaias-garden-stacking-functions]] in every element.
 
 ## Overview
 Quillaja represents an important component within sustainable
@@ -59,7 +59,7 @@ Long-term ecological health depends on responsible stewardship.
 
 ## Historical Significance
 Quillaja has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
 ## Overview
@@ -86,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Quillaja finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -115,7 +115,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 quillaja and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

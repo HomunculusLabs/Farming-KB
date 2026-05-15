@@ -1,5 +1,5 @@
 ---
-title: Dimethylamine Amidation Tryptamine Side Chain Construction
+title: Dimethylamine Amidation Tryptamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]
 tags: [dimethylamine, amidation, organic-synthesis, indole, glyoxalylamide, psilocin, shirota, laboratory-technique]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,7 +13,7 @@ N,N-dimethyltryptamine side chain during the synthesis of [[tryptamine]] molecul
 
 ## Reaction Overview
 
-The glyoxalylamide formation proceeds in a single step from the oxalyl
+The [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] proceeds in a single step from the oxalyl
 chloride adduct. The yellow crystals of compound 5, which were isolated by
 n-hexane anti-solvent crystallization from the previous step, are dissolved in
 anhydrous tetrahydrofuran and treated with dimethylamine and pyridine.
@@ -29,11 +29,11 @@ the reduction of the glyoxalyl carbonyl groups remains.
 
 The procedure as reported in the Shirota synthesis proceeds as follows:
 
-1. The oxalyl chloride adduct (yellow crystals of compound 5) is dissolved in anhydrous tetrahydrofuran (100 mL per approximately 100 mmol scale)
+1. The [[shirota-oxalyl-chloride-glyoxalylamide-crystallization-psilocin-route]] adduct (yellow crystals of compound 5) is dissolved in anhydrous tetrahydrofuran (100 mL per approximately 100 mmol scale)
 2. The solution is stirred in an ice bath at zero degrees Celsius
 3. A 2 M dimethylamine solution in tetrahydrofuran (60 mL, 120 mmol, 1.2 equivalents) is added over fifteen minutes
 4. Pyridine (10 mL, 123 mmol) is added simultaneously over the same period
-5. Additional anhydrous diethyl ether is added because the mixture begins to solidify
+5. Additional anhydrous [[diethyl-ether]] is added because the mixture begins to solidify
 6. The reaction is stirred for fifteen minutes at room temperature
 7. The product is collected by filtration and washed with n-hexane, ethyl acetate, and water
 
@@ -102,7 +102,7 @@ The dimethylamine amidation step is the point at which the [[psilocin]].
 This represents a significant improvement over earlier routes that required
 additional protection and deprotection steps to install the dimethylamino
 group. The single-step installation of both the two-carbon bridge and the
-dimethylamino group via the glyoxalylamide intermediate is an elegant feature
+dimethylamino group via the [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]] is an elegant feature
 of this synthetic design.
 
 ## Solidification Phenomenon

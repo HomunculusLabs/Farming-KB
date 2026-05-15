@@ -1,5 +1,5 @@
 ---
-title: Planning Earthworks and Revegetation
+title: [[planning-earthworks-and-post-earthworks-planting]] Revegetation
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The planning of earthworks is as critical as their execution. Poorly planned earth-moving operations can lead to soil degradation, erosion, structural failure, and long-term landscape damage. In permaculture design, earthworks are always planned as an integrated sequence: survey, design, soil testing, pegging, topsoil management, excavation, and immediate revegetation.
+The planning of earthworks is as critical as their execution. Poorly planned earth-moving operations can lead to soil degradation, erosion, structural failure, and long-term landscape damage. [[ecological-succession-in-permaculture-design]], earthworks are always planned as an integrated sequence: survey, design, soil testing, pegging, topsoil management, excavation, and immediate revegetation.
 
 ## Pre-Excavation Planning Sequence
 
@@ -31,7 +31,7 @@ The site must be pegged out using a level (simple or complex), a measuring tape,
 
 ### 4. Topsoil Management
 
-A designated storage area must be planned for all topsoil removed during excavation. **Topsoil must never be mixed with subsoil.** It should be carefully stripped and stored separately to be later returned to the site as a growing medium and to stabilise subsoil erosion. Topsoil contains the majority of soil biology, organic matter, seed bank, and nutrient cycling capacity — its preservation is essential for rapid site recovery.
+A designated storage area must be planned for all topsoil removed during excavation. **Topsoil must never be mixed with subsoil.** It should be carefully stripped and stored separately to be later returned to the site as a growing medium and to stabilise subsoil erosion. Topsoil contains the majority of soil biology, organic matter, seed bank, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] capacity — its preservation is essential for rapid site recovery.
 
 ## Soil Volume Changes After Moving
 
@@ -51,7 +51,7 @@ A systematic approach to preparing a house site with drainage:
 3. **Cut to level** — use subsoil fill for access roads only
 4. **Foundation trenches** — call in ditcher or backhoe to cut foundation and drainage trenches; pour foundations and slab, place paths, drains, and pipes
 5. **Replace topsoil** — call in small blade and bucket machine (Bobcat or wheeled tractor) to replace topsoil and neaten the site; mound some soil to the windward side for hedges
-6. **Plant or seed** all topsoil areas immediately to prevent erosion
+6. **Plant or seed** all topsoil areas immediately to [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]]
 7. **Fine-tune** with barrow and rakes; check drainage
 
 When topsoil is replaced over fill, the area should not be over-compacted to avoid waterlogging. When replaced over deep or solid subsoil in a cut, the base subsoil should first be ripped or loosened to allow root penetration — the same treatment needed for old roads, quarries, parking areas, or heavily-trafficked fill before planting trees and meadows.
@@ -62,7 +62,7 @@ Every time soil is moved, planting or seeding must follow immediately. The plant
 
 ### Two Critical Reasons for Immediate Planting
 
-1. **Erosion prevention** — can be severe on bare slopes at only 2% slope, especially during rain
+1. **[[dighton-fungal-roles-soil-erosion-prevention]]** — can be severe on bare slopes at only 2% slope, especially during rain
 2. **Weed prevention** — to prevent invasion by unwanted volunteer plants that may become difficult to displace later
 
 ### Plant Materials for Rapid Stabilisation
@@ -72,7 +72,7 @@ A broadscale scatter of mixed seed, raked in, prepares the way for permanent pla
 - **Annual seeds**: sunflower, mixed parrot seed with millets, pulses, chard, parsley, lupin, and clovers
 - **Root crops** (soil "spikers"): parsnip (fresh seed), salsify, daikon radish, radish, turnip
 - **Bulbs**: lilies, grape hyacinth
-- **Perennial roots**: sunroot (Jerusalem artichoke), comfrey, chicory, horseradish, ginger, sweet potato, turmeric
+- **Perennial roots**: sunroot ([[comparison-jerusalem-artichoke-vs-potato]]), comfrey, chicory, horseradish, ginger, sweet potato, turmeric
 - **Grass divisions**: bamboo, banana grass, pampas grass, aloes, agave, New Zealand hemp
 - **Seedlings or sets**: elephant garlic, asparagus, globe artichoke
 - **Cuttings**: elderberry, willow, poplar, mulberry, Pride of Madeira (Echium fastuosum)

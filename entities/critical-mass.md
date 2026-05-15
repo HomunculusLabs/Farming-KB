@@ -16,7 +16,7 @@ sources: ["domain-knowledge"]
 - **Origin:** Bred from an Afghani indica crossed with Skunk #1
 - **Name Origin:** Named for massive, heavy yields — buds grow so dense they can reach
   "critical mass" and snap branches under their own weight
-- **Reputation:** One of the most recognized medicinal cannabis strains worldwide,
+- **Reputation:** One of the most recognized medicinal [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] worldwide,
   prized for therapeutic potency and exceptional production
 - **Breeder:** Originally developed by Mr. Nice Seed Bank (Shantibaba) in the 1990s
 - **General Profile:** Combines the sedating body stone of Afghani genetics with the
@@ -75,7 +75,7 @@ sources: ["domain-knowledge"]
 ## Overview
 
 Critical Mass represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Critical Mass finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,13 +104,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for critical mass. Climate adaptation
+opportunities for critical mass. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 critical mass and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

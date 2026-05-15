@@ -1,21 +1,21 @@
 ---
-title: Growing Sweet Corn
+title: [[growing-sweet-corn-organically]]
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Growing Sweet Corn
 
-Sweet corn is a warm-season grass with unique pollination biology that makes it behave differently from most other garden vegetables. Understanding its wind-pollination mechanism, its tillering tendency, and the critical spacing-yield relationship is essential for getting a reliable crop with well-filled ears.
+Sweet corn is a warm-season grass with unique pollination biology that makes it behave differently from most other [[companion-cultivation-of-mushrooms-with-garden-vegetables]]. Understanding its wind-pollination mechanism, its tillering tendency, and the critical spacing-yield relationship is essential for getting a reliable crop with well-filled ears.
 
 ## Tillering: The Hidden Advantage
 
-Corn has a natural tendency to tiller — it will send up additional bearing stalks if there is enough growing room. Modern commercial breeders try to eliminate tillering (because tiller stalks produce smaller ears), but for the home gardener, tillering is an advantage:
+Corn has a natural tendency to tiller — it will send up additional bearing stalks if there is enough [[duggar-mushroom-growing-room-design]]. Modern commercial breeders try to eliminate tillering (because tiller stalks produce smaller ears), but for the home gardener, tillering is an advantage:
 
 - More soil access protects against drought
 - Main ears get a bit bigger
 - Additional ears on tillers can add significantly to total yield
-- The Native American proverb: "One for the worm, one for the crow, one to rot, and one to grow" — with tillering, you may get 2-4 harvestable ears per planting station
+- The [[halpern-sacramental-peyote-and-native-american-church]] proverb: "One for the worm, one for the crow, one to rot, and one to grow" — with tillering, you may get 2-4 harvestable ears per planting station
 
 ## Spacing: The Critical Decision
 
@@ -40,7 +40,7 @@ Maximum space: about **16 square feet** (1.5 sq m) per plant, or 4-foot centers.
 
 ### Key Insight
 
-> Using a row spacing greater than 48 inches makes little sense for most varieties.
+> Using a [[wide-row-spacing-intensive-gardening-comparison]] greater than 48 inches makes little sense for most varieties.
 
 ## Soil Preparation
 
@@ -97,7 +97,7 @@ If your intention is to grow field corn (not sweet corn) as a family staple:
 - Use OP varieties, not hybrids
 - The classic OP varieties are closely related to old Native American field corns
 - They are acceptable for making cornmeal, flour, or parched corn
-- Hybrid field corn appears more productive only because of hybrid vigor and because it draws fewer nutrients per ear — but it makes lower-nutrition food
+- Hybrid field corn appears more productive only because of [[cannabis-hybrid-vigor-and-phenotypes-clarke]] because it draws fewer nutrients per ear — but it makes lower-nutrition food
 - **Advice**: Do your own trials the first year; test as many OP sorts as you can find
 
 ### Longkeeper

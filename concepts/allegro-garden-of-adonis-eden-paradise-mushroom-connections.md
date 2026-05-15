@@ -1,5 +1,5 @@
 ---
-title: Allegro Garden of Adonis, Eden, and Paradise Mushroom Connections
+title: [[allegro-garden-of-eden-and-delight]] Adonis, Eden, and Paradise Mushroom Connections
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
@@ -16,7 +16,7 @@ among scholars—candidates include the castor oil plant, the gourd, and the pal
 Allegro reads it as a reference to a fungus, something that appears overnight and dies just as
 fast, exactly matching the divine rebuke's emphasis on the plant's ephemerality.
 
-Modern mycological observation confirms the aptness of this imagery. [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (the common "stinkhorn") can rise three inches in thirty
+[[telluride-mushroom-festival-modern-mycological-culture]] observation confirms the aptness of this imagery. [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (the common "stinkhorn") can rise three inches in thirty
 minutes and reach full expansion in approximately one and a half hours. These growth rates are
 extraordinary in the botanical world and would have made a profound impression on ancient
 observers, who would naturally have associated such a plant with divine power.
@@ -56,7 +56,7 @@ remained.
 
 The Hebrew word *'ēden* (עֵדֶן), giving us "Eden," carries the meaning "luxuriating, delight,
 pleasure." The "Garden of Eden" thus originally meant something closer to "the garden of
-luxuriant delight" or "the mushroom garden of ecstatic experience." In the Qur'an, Paradise is
+luxuriant delight" or "the [[cotter-mushroom-garden-design]] of ecstatic experience." In the Qur'an, Paradise is
 consistently referred to as *jannātu n-na'īmi*—literally "gardens of delight"—the direct Arabic
 cognate of the Semitic *gan-Na'iman*. The word "garden" in all three traditions (Sumerian GAN,
 Hebrew *gān*, Arabic *janna*) thus preserves, in Allegro's analysis, the memory of the mushroom
@@ -65,11 +65,11 @@ canopy: a rounded dome of delight stretched overhead.
 ## Isaiah 17:10 — The Adonis Plant
 
 Isaiah 17:10 provides a crucial passage linking the Adonis/Na'iman terminology directly to the
-sacred mushroom. In Allegro's reading, the verse declares: "You plant the plantings of Na'iman
-and sow the sacred mushroom… they grow on the day you plant, blossom in the morning you sow; yet
+[[allegro-sacred-mushroom-cross-introduction-fertility-cults]]. In Allegro's reading, the verse declares: "You plant the plantings of Na'iman
+and sow [[allegro-the-sacred-mushroom-amanita-identification]]… they grow on the day you plant, blossom in the morning you sow; yet
 harvest will flee away in a day of grief and incurable pain." The prophet is condemning Israel
 for continuing the old fertility-cult practices centered on the sacred fungus, warning that the
-ephemeral mushroom harvest—however spectacular its brief bloom—will end in grief.
+ephemeral [[duggar-mushroom-harvest-and-post-harvest]]—however spectacular its brief bloom—will end in grief.
 
 The divine names themselves encode [[pf-tek-mushroom-morphology-aborts-sporocarps]]. Adonis, reconstructed from its Sumerian
 roots as *\*ANDUL_AN*, means "heavenly shade"—a reference to the umbrella-like canopy of the

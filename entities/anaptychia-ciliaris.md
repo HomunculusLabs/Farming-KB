@@ -20,7 +20,7 @@ sources:
 
 **Anaptychia ciliaris** is a large, foliose lichen in the family Physciaceae, commonly known as the **ciliate fringe lichen**. It is named for the conspicuous dark cilia (hair-like projections) along its lobe margins.
 
-The species is widespread in temperate regions of Europe, western North America, and parts of [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]. In Europe, it occurs from Scandinavia and the British Isles south to the Mediterranean basin. In North America, it is found along the Pacific Coast from Alaska to California.
+The species is widespread in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, western North America, and parts of [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]. In Europe, it occurs from Scandinavia and the British Isles south to the Mediterranean basin. In North America, it is found along the Pacific Coast from Alaska to California.
 
 The species is corticolous (bark-dwelling), preferring the trunks and branches of deciduous trees, especially **oak** (*Quercus* spp.), **elm** (*Ulmus* spp.), and **ash** (*Fraxinus* spp.). It occasionally colonizes fence posts and weathered wood.
 
@@ -61,7 +61,7 @@ Vegetative reproduction through thallus fragmentation is probably the primary di
 ## Overview
 
 Anaptychia Ciliaris represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -75,7 +75,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving anaptychia extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -90,13 +90,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for anaptychia ciliaris. Climate adaptation
+opportunities for anaptychia ciliaris. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -111,7 +111,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 anaptychia ciliaris and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

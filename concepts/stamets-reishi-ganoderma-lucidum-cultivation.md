@@ -75,18 +75,18 @@ Traditional method: inoculate logs, lay on ground or shallowly bury in shady, mo
 
 ## Yield and Marketing
 
-Marketed as fresh, dried, powdered, and in tablet form. Dried Reishi is 70-80% water (woody texture). Can be stored for months. Used in teas, extracts, and traditional preparations. The mushroom is more valued in compact fruitbody form than in mycelial form.
+Marketed as fresh, dried, powdered, and in tablet form. Dried Reishi is 70-80% water (woody texture). Can be stored for months. Used in teas, extracts, and [[classic-mushroom-recipes-traditional-preparations]]. The mushroom is more valued in compact fruitbody form than in mycelial form.
 
 ## Overview
 
 Stamets [[reishi-ganoderma-lucidum]] Cultivation represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
 ## Key Characteristics
 
-Several defining characteristics distinguish stamets reishi ganoderma lucidum cultivation
+Several defining characteristics distinguish stamets reishi [[ganoderma-lucidum-cultivation]]
 from related concepts in permaculture and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Stamets Reishi Ganoderma Lucidum Cultivation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 stamets reishi ganoderma lucidum cultivation and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

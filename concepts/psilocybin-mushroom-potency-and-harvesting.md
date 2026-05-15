@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Potency and Harvesting
+title: [[emcdda-psilocybin-mushroom-potency-species-comparison-dosage-guidelines]] and Harvesting
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
@@ -10,13 +10,13 @@ The potency of psilocybin mushrooms is not static — it changes dramatically ov
 
 ## Maturity and Potency Decline
 
-Psilocybin mushrooms reach peak potency before full maturity. As the cap expands like an umbrella and the mushroom increases in physical size, the concentration of active alkaloids (psilocybin and psilocin) per unit of weight decreases. A mushroom that is past its prime for psychedelic use shows clear visual indicators: the cap has fully opened, the partial veil has torn away, the gills have darkened to a deep brown or purple, and spore deposits begin gathering on the stem.
+Psilocybin mushrooms reach peak potency before full maturity. As the cap expands like an umbrella and the mushroom increases in physical size, the concentration of active alkaloids ([[hplc-analysis-of-psilocybin-and-psilocin]]) per unit of weight decreases. A mushroom that is past its prime for psychedelic use shows clear visual indicators: the cap has fully opened, the partial veil has torn away, the gills have darkened to a deep brown or purple, and spore deposits begin gathering on the stem.
 
-This inverse relationship between size and potency is consistent across psilocybin mushroom species, including wild-harvested specimens. The biological explanation relates to resource allocation: as the mushroom matures and directs energy toward spore production, the relative concentration of psychoactive alkaloids diminishes.
+This inverse relationship between size and potency is consistent across [[emcdda-psilocybin-mushroom-species-and-identification]], including wild-harvested specimens. The biological explanation relates to [[mycelial-foraging-resource-allocation]]: as the mushroom matures and directs energy toward spore production, the relative concentration of psychoactive alkaloids diminishes.
 
 ## The Gartz Research Benchmark
 
-Research conducted by mycologist Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of approximately 1% by dry weight — a figure comparable to the more celebrated *Psilocybe semilanceata* (liberty cap). However, achieving this potential requires optimal conditions across several variables:
+Research conducted by mycologist Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of approximately 1% by dry weight — a figure comparable to the more celebrated *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (liberty cap). However, achieving this potential requires optimal conditions across several variables:
 
 - **Substrate**: Brown rice provides an excellent nutritional base for maximizing alkaloid production.
 - **Age**: Young, pre-sporulation specimens contain the highest concentrations.
@@ -27,7 +27,7 @@ Research conducted by mycologist Jochen Gartz demonstrated that *Psilocybe cuben
 
 ### Targeting Young Specimens
 
-The most potent approach involves harvesting mushrooms while their caps are still round and convex, before the veil beneath the cap breaks and the cap begins to expand outward. At this stage, the mushroom has not yet begun directing energy toward spore production, so the alkaloid concentration remains at its peak.
+The most potent approach involves harvesting mushrooms while their caps are still round and convex, before the veil beneath the cap breaks and the cap begins to expand outward. At this stage, the mushroom has not yet begun directing energy toward spore production, so the [[abort-harvesting-alkaloid-concentration-pf-tek]] remains at its peak.
 
 ### Collecting Aborted and Mutant Growth
 

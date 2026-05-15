@@ -1,5 +1,5 @@
 ---
-title: PF Substrate Formula and Jar Preparation
+title: [[pf-substrate-formula]] and Jar Preparation
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The PF substrate formula is the foundation of the PF TEK. It consists of three simple ingredients — **brown rice powder**, **vermiculite**, and **water** — loaded into half-pint canning jars and steam-sterilized. The formula's simplicity and reliability are what make the PF TEK accessible to beginners. Understanding the substrate's composition, preparation, and the critical role of vermiculite is essential for successful cultivation.
+The PF substrate formula is the foundation of the PF TEK. It consists of three simple ingredients — **[[brown-rice-powder]]**, **vermiculite**, and **water** — loaded into half-pint canning jars and steam-sterilized. The formula's simplicity and reliability are what make the PF TEK accessible to beginners. Understanding the substrate's composition, preparation, and the critical role of vermiculite is essential for successful cultivation.
 
 ## Jar Selection
 
@@ -42,7 +42,7 @@ The **Kerr low form 1/2 pint canning jar** is considered the most versatile opti
 | Horticultural vermiculite | 1/2 cup |
 | Water | 60 cc |
 
-The maximum fruiting formula produces higher yields but requires careful moisture management — if used with finer vermiculite, the jar lid should be kept **loose** during incubation to prevent water accumulation.
+The maximum fruiting formula produces higher yields but requires careful [[mushroom-bed-moisture-management]] — if used with finer vermiculite, the jar lid should be kept **loose** during incubation to prevent water accumulation.
 
 ## The Critical Role of Vermiculite
 
@@ -53,7 +53,7 @@ Vermiculite is described by PF as the "magic ingredient" of the PF TEK. Not all 
 - **Fine vermiculite**: Particles average around **1 mm** across (some larger, some smaller). Holds **more water** and is **recommended** over the coarser type
 - **Coarse vermiculite**: Particles average around **4–5 mm** across, up to 8 mm. Holds **less water**, which alters the substrate's water-holding capacity
 
-To determine particle size, observe the vermiculite under a photo magnifier next to a millimeter ruler. Stores typically carry one type, and there are regional differences between brands. PF recommends shopping around and trying both types to compare results.
+To determine [[vermiculite-particle-size-water-retention-calibration-pf-tek]], observe the vermiculite under a photo magnifier next to a millimeter ruler. Stores typically carry one type, and there are regional differences between brands. PF recommends shopping around and trying both types to compare results.
 
 ### Moisture Adjustment
 
@@ -117,7 +117,7 @@ The jar lid is prepared by punching **4 holes** inside the periphery of the rubb
 
 **Critical warnings about steam sterilization**:
 - **Do not overheat** the jars — this dries the substrate
-- Signs of dried substrate: OK spore germination but growth halts at a certain point
+- Signs of dried substrate: OK [[duggar-mushroom-life-cycle-spore-germination-fruiting]] but growth halts at a certain point
 - Remedy: increase the water content of the substrate formula
 - After jars cool, tighten lids and store in a cool, draft-free place until inoculation
 
@@ -126,7 +126,7 @@ The jar lid is prepared by punching **4 holes** inside the periphery of the rubb
 | Problem | Likely Cause | Solution |
 |---|---|---|
 | Wet/sloppy substrate | Too much water or coarse vermiculite | Reduce water amount |
-| Halted mycelium growth | Overheating during sterilization | Reduce heat, check pot lid seal |
+| Halted [[fungal-spawn-and-mycelium-growth]] | Overheating during sterilization | Reduce heat, check pot lid seal |
 | Poor fruiting | Substrate too dry | Increase water in formula |
 | Water pooling in jar bottom | High moisture + tight lid | Use loose lid during incubation |
 

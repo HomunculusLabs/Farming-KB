@@ -17,7 +17,7 @@ tags:
 Masanobu Fukuoka regarded the black wattle (*Acacia mearnsii*) as one of the most
 valuable companion trees for orchard rehabilitation and long-term soil fertility.
 In his natural farming system, the black wattle serves a dual role: it physically
-improves impoverished soil through deep root penetration and nitrogen fixation, and
+improves impoverished soil through deep root penetration and [[biological-nitrogen-fixation-agriculture]], and
 it supports populations of [[query-how-do-i-design-habitat-for-beneficial-insects]]. The tree
 attracts aphids and scales, which in turn support a growing population of ladybugs.
 By planting five or more black wattles per quarter-acre, Fukuoka found that scale
@@ -71,7 +71,7 @@ fertilizers in artificially prepared soil.
 ## Overview
 
 Fukuoka Textdoc Black Wattle Soil Improvement represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fukuoka Textdoc Black Wattle Soil Improvement finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,13 +100,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for fukuoka textdoc black wattle soil improvement. Climate adaptation
+opportunities for fukuoka textdoc black wattle soil improvement. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 fukuoka textdoc black wattle soil improvement and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

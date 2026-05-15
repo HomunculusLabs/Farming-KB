@@ -20,7 +20,7 @@ rotifers and nematodes, represent a diverse but poorly known
 component of soil and aquatic fungal-nematode-feeding-interactions and
 fungal-nematode-feeding-interactions
 - fungal-parasites-invertebrates
-- [[fungal-biodiversity-ecosystem-function]]
+- [[fungal-biodiversity-and-ecosystem-function]]
 ## Practical Applications
 
 Fungal Parasites and Predators of Rotifers and Invertebrates has a range of practical applications that make it relevant to

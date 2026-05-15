@@ -6,7 +6,7 @@ type: concept
 
 # Organic Mushroom Farming and Mycoremediation: Overview and Philosophy
 
-[[tradd-cotter]]'s *Organic Mushroom Farming and Mycoremediation* (2014, Chelsea Green Publishing) is a comprehensive guide covering indoor and [[outdoor-mushroom-cultivation]] from simple to advanced techniques, with emphasis on organic methods, ecological integration, and mycoremediation applications.
+[[tradd-cotter]]'s *Organic Mushroom Farming and Mycoremediation* (2014, [[chelsea-green-publishing]]) is a comprehensive guide covering indoor and [[outdoor-mushroom-cultivation]] from simple to advanced techniques, with emphasis on organic methods, ecological integration, and [[mycoremediation-applications]].
 
 ## Author's Journey
 
@@ -15,7 +15,7 @@ Tradd Cotter's introduction to mushrooms came unexpectedly during a visit to a s
 ## Core Philosophy
 
 ### Anti-Chemical Stance
-"I am against the use of all chemical pesticides and synthetic fertilizers; I think nature knows best."
+"I am against the use of all chemical pesticides and [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]; I think nature knows best."
 
 ### Sustainable Practices
 - Mycorrhizae and composted mushroom substrate with worm castings
@@ -38,13 +38,13 @@ Tradd Cotter's introduction to mushrooms came unexpectedly during a visit to a s
 - Making nutrients available for other organisms (bacteria, plants)
 
 ### Specialization vs. Generalization
-**Maitake (Grifola frondosa)**: Can break down only very particular types of wood — mostly oak, and certain species/densities. This limits cultivation if those resources aren't locally available.
+**Maitake ([[grifola-frondosa]])**: Can break down only very particular types of wood — mostly oak, and certain species/densities. This limits cultivation if those resources aren't locally available.
 
 ### Brown Rot vs. White Rot Fungi
 
 | Type | Target | Visual Result | Applications |
 |------|--------|---------------|-------------|
-| **Brown rot** | Cellulose (leaves lignin) | Brown, cracked wood | Natural decomposition |
+| **Brown rot** | Cellulose (leaves lignin) | Brown, cracked wood | [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] |
 | **White rot** | Lignin first (then cellulose) | Bleached white wood | Biobleaching, mycoremediation |
 
 "[[white-rot-fungi]] make excellent candidates for biobleaching and for breaking down very complex man-made molecules in a process called mycoremediation."
@@ -58,7 +58,7 @@ Tradd Cotter's introduction to mushrooms came unexpectedly during a visit to a s
 
 ### Basic Stages
 1. **Sporulation**: Mature mushroom releases spores
-2. **Spore germination and cell mating**: Spores germinate on suitable media; compatible spores mate
+2. **[[spore-germination-and-commercial-brick-spawn-production]] cell mating**: Spores germinate on suitable media; compatible spores mate
 3. **Colonization**: Mycelium captures territory and builds competitive biomass
 4. **Fruiting**: When confined, mushrooms form and mature
 5. **Repeat**: Cycle begins again
@@ -109,7 +109,7 @@ Cotter's work includes creating mushroom rescue modules for:
 
 ## Fungal Metabolites
 
-"Fungi secrete metabolites that are filled with enzymes, antibiotics, and other waste by-products." Shiitake mycelium, for example, sweats amber-colored metabolites "likely as a defense mechanism in response to an environmental contaminant."
+"Fungi secrete metabolites that are filled with enzymes, antibiotics, and other waste by-products." Shiitake mycelium, for example, sweats amber-colored metabolites "likely as a [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]] in response to an environmental contaminant."
 
 ## Ecological Observation Method
 "I spend a great amount of time observing the natural cycles of these mushrooms in the wild in the hope of catching clues from the mushrooms in their natural habitat, and I encourage all growers to spend more time collecting fungi to build an understanding of the ecological connections that trigger them to fruit."

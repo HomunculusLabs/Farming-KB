@@ -25,7 +25,7 @@ system:
 - Molten agar was pipetted into hexagonal arrays of 19 circular droplets (10 mm
   diameter) separated by 2 mm nutrient-free gaps.
 - 16 combinations of droplet compositions were tested using standard medium,
-  glucose-amended, calcium phosphate-amended, and both glucose and calcium
+  glucose-amended, [[calcium-phosphate]]-amended, and both glucose and calcium
   phosphate amendments.
 
 The model accurately replicated observed growth characteristics and extended

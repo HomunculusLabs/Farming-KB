@@ -22,10 +22,10 @@ Limonene-dominant cultivars are typically classified as sativa-leaning in tradit
 
 ## Industrial Applications
 
-Beyond its pharmacological properties, limonene has extensive industrial
+Beyond its [[lsd-discovery-aftermath-pharmacological-properties]], limonene has extensive industrial
 applications. It is widely used as a solvent in cleaning products, as a
 fragrance ingredient in perfumes and personal care products, and as a
-flavoring agent in foods and beverages. D-limonene from citrus peel is
+flavoring agent in [[fermented-foods-and-beverages]]. D-limonene from citrus peel is
 used in eco-friendly cleaning solutions as a replacement for petroleum-based
 solvents. The compound is also employed in paint strippers, adhesives
 removers, and degreasing agents.
@@ -33,7 +33,7 @@ removers, and degreasing agents.
 In the cannabis industry, isolated limonene is used in terpene formulation
 blends designed to replicate specific cultivar profiles. These formulations
 are added to vape cartridges, tinctures, and topicals to enhance aroma and
-potentially contribute to the entourage effect. The availability of
+potentially contribute to [[cannabis-terpenes-and-the-entourage-effect]]. The availability of
 food-grade limonene from citrus sources makes it one of the most accessible
 terpenes for commercial formulation.
 
@@ -67,7 +67,7 @@ absorption of other topical compounds.
 ## Overview
 
 Limonene represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -88,7 +88,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Limonene finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -117,7 +117,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 limonene and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

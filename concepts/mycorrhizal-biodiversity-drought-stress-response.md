@@ -34,7 +34,7 @@ Tibbett (2000) emphasized that extraradical hyphae of both ericoid and ECM symbi
 
 ### Oligotrophic vs. Fertile Systems
 
-Mycorrhizal function has a more dramatic effect on plant growth in oligotrophic systems than in fertile ones. Gehring and Whitham (1994) showed that ECM addition doubled pinyon pine growth on cinder soils (half the moisture, one-third available phosphorus, no mineralizable nitrogen compared to adjacent loam) but had a lesser effect on loam soil. Jumpponen et al. (1998) demonstrated enhanced lodgepole pine growth on glacial outwash soil through the dark septate mycorrhizal fungus *Phialocephala fortinii*, attributed to its phosphate acquisition ability in nutrient-poor conditions.
+Mycorrhizal function has a more dramatic effect on plant growth in oligotrophic systems than in fertile ones. Gehring and Whitham (1994) showed that ECM addition doubled pinyon pine growth on cinder soils (half the moisture, one-third available phosphorus, no mineralizable nitrogen compared to adjacent loam) but had a lesser effect on loam soil. Jumpponen et al. (1998) demonstrated enhanced lodgepole pine growth on glacial outwash soil through the dark septate mycorrhizal fungus *[[phialocephala-fortinii]]*, attributed to its phosphate acquisition ability in nutrient-poor conditions.
 
 ### Fire and Mycorrhizal Succession
 
@@ -63,7 +63,7 @@ Augé (2001) reviewed the effects of AM colonization on plant water relations an
 ### Evidence from Tree Species
 
 Michelsen and Rosendahl (1990) demonstrated synergistic benefits of AM inoculation and drought stress in tropical trees:
-- *Leucaena leucocephala* showed the greatest AM benefit specifically under drought conditions
+- *[[leucaena-leucocephala]]* showed the greatest AM benefit specifically under drought conditions
 - The AM effect was greater than the effect of phosphorus addition for *Leucaena* under drought stress
 - Both *Acacia nilotica* and *Leucaena* benefited from AM + P addition, but the interaction was strongest for *Leucaena*
 
@@ -75,7 +75,7 @@ Drought tolerance conferred by fungal associations is not limited to mycorrhizal
 
 ### Saprotrophic Fungus Effects on Desiccation Tolerance
 
-Osonubi et al. (1990) demonstrated that inoculation of the Nigerian pulpwood tree *Gmelina arborea* with the saprotrophic fungus *Chaetomium bostrychoides* increased both seed germination and tolerance to desiccating conditions:
+Osonubi et al. (1990) demonstrated that inoculation of the Nigerian pulpwood tree *[[gmelina-arborea]]* with the saprotrophic fungus *[[chaetomium-bostrychoides]]* increased both seed germination and tolerance to desiccating conditions:
 
 | Timing | Plant Part | Inoculation | Droughted (g DW) | Undroughted (g DW) |
 |--------|-----------|-------------|-------------------|-------------------|
@@ -90,10 +90,10 @@ Seed-inoculated plants consistently outperformed seedling-inoculated plants, and
 
 The combination of functional biodiversity within mycorrhizal communities and the multi-stress protection conferred by mycorrhizal associations has several important ecological consequences:
 
-1. **Ecosystem resilience**: Diverse mycorrhizal communities provide functional redundancy, ensuring that some fungal partners can respond to changing conditions
+1. **Ecosystem resilience**: Diverse mycorrhizal communities provide [[functional-redundancy]], ensuring that some fungal partners can respond to changing conditions
 2. **Plant community dynamics**: Differential drought tolerance among mycorrhizal types influences which plant species persist during drought periods
 3. **Succession trajectories**: Post-disturbance recovery depends on mycorrhizal community survival and recolonization capacity
-4. **Climate change adaptation**: Mycorrhizal-mediated drought tolerance may become increasingly important as climate change alters precipitation patterns
+4. **[[mollison-designers-climate-change-adaptation-strategies]]**: Mycorrhizal-mediated drought tolerance may become increasingly important as climate change alters precipitation patterns
 
 ## References
 

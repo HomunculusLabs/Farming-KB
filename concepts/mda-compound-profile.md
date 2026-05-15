@@ -1,5 +1,5 @@
 ---
-title: MDA Compound Profile
+title: [[shulgin-mda-compound-profile]]
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -31,12 +31,12 @@ Effective duration: 8-12 hours.
 MDA combines psychedelic and empathogenic/entactogenic qualities. Shulgin's reports describe it as having:
 
 - Strong visual effects, often described as colorful and flowing
-- Significant emotional opening and feelings of connectedness
+- Significant [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening]] and feelings of connectedness
 - A stimulant component (as an amphetamine derivative)
-- Enhanced sensory perception
+- Enhanced [[plant-sensory-perception]]
 - Deep introspective potential
 
-At moderate doses (100-120 mg), MDA produces a full-spectrum psychedelic experience with more visual intensity than [[mdma-in-pihkal-context]] but somewhat less emotional warmth. The stimulant component is more pronounced, and the overall experience tends to be more "edgy" or intense.
+At moderate doses (100-120 mg), MDA produces a full-spectrum [[leary-psychedelic-experience-bardo-mapping]] with more visual intensity than [[mdma-in-pihkal-context]] but somewhat less emotional warmth. The stimulant component is more pronounced, and the overall experience tends to be more "edgy" or intense.
 
 ## History
 
@@ -50,7 +50,7 @@ MDA (mda compound profile) and MDMA ([[mdma-in-pihkal-context]]) are closely rel
 - **Stimulation**: MDA is more stimulating; MDMA has a gentler stimulant profile
 - **Emotional warmth**: MDMA is noted for greater empathy and emotional openness
 - **Duration**: Both have similar durations (8-12 hours)
-- **Neurotoxicity**: MDA has been more associated with serotonergic neurotoxicity in animal studies
+- **Neurotoxicity**: MDA has been more associated with [[mdma-serotonergic-neurotoxicity]] in animal studies
 
 MDA can be formed as a metabolite of MDMA through N-demethylation, which contributes to the overall profile of an MDMA experience.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mda Compound Profile finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mda compound profile and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

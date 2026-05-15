@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ma Y, et al. (2016). "Biodiesel production from Nannochloropsis." Applied Energy, 179, 968-978.
+  - Ma Y, et al. (2016). "[[biodiesel-production]] from Nannochloropsis." Applied Energy, 179, 968-978.
   - Schuenemann TJ, et al. (2013). "Lipid and fatty acid composition of Nannochloropsis gaditana." Journal of Applied Phycology, 25, 73-84.
   - Javanmardian M, Palsson BO (1991). "High-density photoautotrophic algal cultures." Biotechnology and Bioengineering, 38, 1182-1189.
   - Lubzens E, et al. (1995). "Advances in production of rotifers for use in aquaculture." Hydrobiologia, 313, 319-332.
@@ -44,14 +44,14 @@ This improves the nutritional profile of farmed products, reducing reliance on w
 
 It often contributes to nanoplankton communities in estuarine and nearshore habitats, where nutrient inputs from upwelling or terrestrial runoff support elevated cell densities.
 
-The species can form dense blooms under conditions of high [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]] and forms the base of short food chains supporting zooplankton, larval fish, and filter-feeding invertebrates in coastal ecosystems.
+The species can form dense blooms under conditions of high [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]] and forms the base of short food chains supporting zooplankton, larval fish, and filter-feeding invertebrates in [[dighton-fungi-mangrove-coastal-ecosystems]].
 
 ## Strain Improvement
 
 ## Overview
 
 Nannochloropsis Gaditana represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -80,13 +80,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for nannochloropsis gaditana. Climate adaptation
+opportunities for nannochloropsis gaditana. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -101,7 +101,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 nannochloropsis gaditana and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

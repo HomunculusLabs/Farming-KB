@@ -1,12 +1,12 @@
 ---
-title: Convection, Thermosiphons, and Heat Transfer in Design
+title: Convection, Thermosiphons, [[albedo-absorption-and-heat-transfer]] in Design
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Convection, Thermosiphons, and Heat Transfer in Design
 
-Understanding how heat is stored and transmitted is essential for building and garden design in permaculture. Heat flows from warmer to colder bodies through three primary mechanisms — conduction, convection, and radiation — each with distinct properties, efficiencies, and design applications that can be harnessed to create comfortable and productive living systems.
+Understanding how heat is stored and transmitted is essential for building and garden [[applied-pattern-design-in-permaculture]]. Heat flows from warmer to colder bodies through three primary mechanisms — conduction, convection, and radiation — each with distinct properties, efficiencies, and design applications that can be harnessed to create comfortable and productive living systems.
 
 ## Convection Loops and Thermosiphons
 
@@ -26,7 +26,7 @@ If heated air or water is contained in pipes or ducts, a closed-loop circulation
 
 ### Limitations of Convection
 
-Convection loops will not occur in closed rooms where hot air (at 8–10°C or 15–18°F higher temperature) sits in a quiet or stratified layer below ceilings. As air is difficult to heat and stores little heat, air convection is not an efficient way to heat building interiors, although it is the main engine of atmospheric circulation in the global sense.
+Convection loops will not occur in closed rooms where hot air (at 8–10°C or 15–18°F higher temperature) sits in a quiet or stratified layer below ceilings. As air is difficult to heat and stores little heat, air convection is not an efficient way to heat building interiors, although it is the main engine of [[global-atmospheric-circulation-patterns]] in the global sense.
 
 ## Three Grades of Heat Transfer
 
@@ -62,9 +62,9 @@ The invasion of cool areas by warm advected air causes moisture condensation, wh
 
 ## Plants as Biological Heaters
 
-Most or all Arum lilies and species such as *Philodendron selloum* store fats which are "burnt" to create heat, so that the flowers actually heat up. Philodendrons may register 46°C (115°F) when the surrounding air is only 4°C (39°F) — a remarkable 42°C differential. Crocuses heat up to 15°C (27°F) above ambient air temperature. The warmth generated is probably used to attract flies and heat-seeking insects to the pollen.
+Most or all Arum lilies and species such as *[[philodendron-selloum]]* store fats which are "burnt" to create heat, so that the flowers actually heat up. Philodendrons may register 46°C (115°F) when the surrounding air is only 4°C (39°F) — a remarkable 42°C differential. Crocuses heat up to 15°C (27°F) above ambient air temperature. The warmth generated is probably used to attract flies and heat-seeking insects to the pollen.
 
-Some plants, however, may use their heat more strategically. **Skunk cabbage** (*Symplocarpus foetidus*) may use its heat to melt a hole in the spring snow, protecting blooms from cold. These thermogenic plants demonstrate that biological systems can serve as active heat sources in garden design, potentially moderating microclimates for neighbouring frost-sensitive species in ways that designers can exploit.
+Some plants, however, may use their heat more strategically. **Skunk cabbage** (*[[symplocarpus-foetidus]]*) may use its heat to melt a hole in the spring snow, protecting blooms from cold. These thermogenic plants demonstrate that biological systems can serve as active heat sources in garden design, potentially moderating microclimates for neighbouring frost-sensitive species in ways that designers can exploit.
 
 ## Ecological Significance
 The principles described in relation to convection thermosiphons heat transfer
@@ -74,7 +74,7 @@ regulation, and atmospheric processes that sustain regional climate patterns.
 
 ## Practical Applications
 These concepts apply directly to permaculture design, agroforestry systems,
-and watershed management. Understanding the interactions between vegetation,
+[[ozier-pdc-hydro-cycle-and-watershed-management]]. Understanding the interactions between vegetation,
 water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 

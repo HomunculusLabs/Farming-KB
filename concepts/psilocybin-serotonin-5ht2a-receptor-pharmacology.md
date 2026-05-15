@@ -1,5 +1,5 @@
 ---
-title: Psilocybin and Serotonin 5-HT2A Receptor Pharmacology
+title: Psilocybin and Serotonin 5-HT2A [[cannabinoid-receptor-pharmacology]]
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [pharmacology, psilocybin, serotonin]
 
 # [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] enter the diet, and the new chemicals subsequently operating within the brain alter awareness so that consensual serotonergic reality shifts to a rare psilocybinetic reality.
 
-This environmental embeddedness of brain chemistry has profound implications. The various compounds employed by brains in order to process information have evolved over millions of years and they are determined by the chemicals available in the environment, in particular from the raw materials available in food. Serotonin has emerged as a key neurotransmitter because it can be produced from these raw materials. You cannot just have any old chemical compound acting as a neurotransmitter; it has to have arisen through evolution under the deterministic constraints set by the laws of chemistry and the further constraints set by food/raw material availability.
+This environmental embeddedness of [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]] has profound implications. The various compounds employed by brains in order to process information have evolved over millions of years and they are determined by the chemicals available in the environment, in particular from the raw materials available in food. Serotonin has emerged as a key neurotransmitter because it can be produced from these raw materials. You cannot just have any old chemical compound acting as a neurotransmitter; it has to have arisen through evolution under the deterministic constraints set by the laws of chemistry and the further constraints set by food/raw material availability.
 
 Hence, serotonin is bound up with the chemistry of the environment. Our minds, our very consciousness, depends upon the hardware of the brain, which in turn depends upon chemical structure, which further depends upon diet. The [[psilocybin-mushroom]] is part of the environment, and its consumption triggers an environmentally driven alteration in brain chemistry.
 
@@ -22,9 +22,9 @@ When psilocybin binds to 5-HT2 receptors in the cortex, it effectively releases 
 
 ## Clinical Implications
 
-The discovery that psilocybin acts primarily upon 5-HT2 receptors has important clinical implications. Modern psychedelic-assisted therapy research builds upon this pharmacological foundation, using psilocybin's ability to increase neuronal activity in brain regions involved with emotion processing, sensory integration, and self-referential thought. The combination of increased locus coeruleus-mediated arousal and cortical disinhibition creates a neurochemical state uniquely suited to therapeutic introspection and the reprocessing of entrenched psychological patterns.
+The discovery that psilocybin acts primarily upon 5-HT2 receptors has important clinical implications. Modern psychedelic-assisted [[metzner-mdma-assisted-therapy-research]] builds upon this pharmacological foundation, using psilocybin's ability to increase neuronal activity in brain regions involved with emotion processing, sensory integration, and self-referential thought. The combination of increased locus coeruleus-mediated arousal and cortical disinhibition creates a neurochemical state uniquely suited to therapeutic introspection and the reprocessing of entrenched psychological patterns.
 
-The relationship between 5-HT2 receptor activation and the therapeutic potential of psychedelics continues to be an active area of research, with implications for treating depression, anxiety, addiction, and end-of-life distress.
+The relationship between 5-HT2 receptor activation and the [[metzner-ayahuasca-therapeutic-potential]] of psychedelics continues to be an active area of research, with implications for treating depression, anxiety, addiction, and end-of-life distress.
 
 ## See Also
 
@@ -47,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -133,11 +133,10 @@ Fungi provide multiple ecosystem services relevant to plant succession and commu
 | Carbon sequestration and storage | Mycorrhizae, Saprotrophs |
 | Modification of pollutants | Saprotrophs, Mycorrhizae |
 
-
 ## See Also
 
 - [[mycorrhizae-plant-fitness]]
-- [[mycorrhizae-plant-fitness-community]]
+- [[mycorrhizae-plant-fitness-community-structure]]
 - [[mycorrhizae-plant-fitness-community-structure]]
 - [[mycorrhizae-plant-fitness-competition]]
 - [[mycorrhizae-plant-pathogen-interactions]]

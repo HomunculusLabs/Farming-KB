@@ -1,5 +1,5 @@
 ---
-title: Mushroom Geotropism Spore Formation
+title: [[mushroom-geotropism]] [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]]
 aliases: coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation fungi, windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982 gravity, gravitropic response basidiocarp]
 tags: [mycology, tropism, geotropism, mushroom-development, spore-dispersal]
 created: 2026-05-09
@@ -15,7 +15,7 @@ source: ["tropisms-in-the-mushroom-psilocybe-cubensis.md"]
 Badham (1982) identified a clear switching point in the tropic behavior of P. cubensis:
 
 ### Before Stage 2: Anemotropism Dominant
-During early [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] (Stages 1–2), growth is primarily directed by wind (anemotropism). The stipe grows toward the air current, and gravity plays a secondary role. When cultures are rotated perpendicular to wind at 3 rpm, the anemotropic stimulus is equalized and growth proceeds vertically upward — but this upward growth is due to elimination of anemotropic bias rather than active negative geotropism.
+During early [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] (Stages 1–2), growth is primarily directed by wind (anemotropism). The stipe grows toward the air current, and gravity plays a secondary role. When cultures are rotated perpendicular to wind at 3 rpm, the anemotropic stimulus is equalized and growth proceeds vertically upward — but this upward growth is due to elimination of anemotropic bias rather than active [[mushroom-negative-geotropism]].
 
 ### Stage 2 Onward: Negative Geotropism Emerges
 As the pileus approaches spherical shape and [[spore]] production begins, a negative geotropic response becomes apparent. The pileus turns upward from the direction of wind, and the cap opens with lamellae facing downward. This recurvature represents a genuine shift in tropic priority.
@@ -23,7 +23,7 @@ As the pileus approaches spherical shape and [[spore]] production begins, a nega
 ### Critical Observation: Sporeless Mutants
 Sterile (sporeless) mutants of P. cubensis do NOT exhibit this negative geotropic curvature. They continue growing in the direction established by anemotropism (into the wind) without the characteristic upward correction at maturity. This finding strongly suggests that:
 
-1. Spore production and geotropic sensitivity share a common regulatory pathway
+1. [[geotropism-and-spore-production-in-mushrooms]] and geotropic sensitivity share a common regulatory pathway
 2. Hormones or signaling molecules from the developing lamellae may trigger the geotropic switch
 3. The geotropic response at maturity is not a general property of stipe growth but is specifically coupled to reproductive development
 
@@ -59,11 +59,11 @@ When geotropism and anemotropism are in conflict (e.g., wind blowing horizontall
 | Rotated parallel to wind | Stipe elongates horizontally | Pileus opens into wind |
 | No wind, stationary | Grows vertically (geotropism) | Grows vertically (geotropism) |
 
-The most dramatic demonstration of the geotropic switch occurs when fruiting bodies are rotated parallel to airflow. Under constant illumination, stipes elongate horizontally and the pileus opens into the wind. The geotropic response is suppressed because rotation equalizes the gravitational stimulus, leaving anemotropism as the dominant directional cue.
+The most dramatic demonstration of the geotropic switch occurs when [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are rotated parallel to airflow. Under constant illumination, stipes elongate horizontally and the pileus opens into the wind. The geotropic response is suppressed because rotation equalizes the gravitational stimulus, leaving anemotropism as the dominant directional cue.
 
 ## Comparative Geotropism Across Fungal Species
 
-Geotropic responses vary considerably across the fungal kingdom:
+Geotropic responses vary considerably across the [[bloomfield-stramenopila-oomycete-fungal-kingdom-distinction]]:
 
 ### Agarics (Gilled Mushrooms)
 Most agarics show strong negative geotropism, ensuring cap elevation for spore release. The response is typically mediated by differential cell elongation on opposite sides of the stipe.

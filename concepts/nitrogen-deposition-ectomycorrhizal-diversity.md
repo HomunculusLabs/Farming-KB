@@ -19,7 +19,7 @@ Atmospheric nitrogen deposition onto forest ecosystems occurs through both direc
 A consistent finding across multiple studies is that nitrogen deposition affects ectomycorrhizal and saprotrophic fungal communities differently:
 
 - **Mycorrhizal fungi generally decline**: Their primary function of providing nitrogen to host plants becomes less valuable when nitrogen is freely available in soil. This reduces the plant's dependency on mycorrhizae, potentially decreasing carbohydrate allocation to fungal partners.
-- **Saprotrophic fungi generally increase**: Additional nitrogen stimulates decomposition of recalcitrant organic matter, favoring saprotrophic species that were previously limited by nitrogen availability.
+- **[[saprotrophic-fungi]] generally increase**: Additional nitrogen stimulates decomposition of recalcitrant organic matter, favoring saprotrophic species that were previously limited by nitrogen availability.
 
 Arnolds (1989a,b, 1991, 1997) documented this pattern in The Netherlands, where the decline in ectomycorrhizal fruit bodies and increase in saprotrophic and pathogenic fungal fruit bodies was associated with nitrogen deposition combined with other acidifying pollutants. In beech woodlands, the addition of three times ambient N deposition (65 and 198 kg N ha⁻¹ yr⁻¹ as ammonium nitrate) caused an almost complete cessation of mycorrhizal fungal fruiting, while leaf litter saprotrophic species including *Mycena*, *Clitocybe*, *Lepista*, *Agaricus*, and *Lycoperdon* increased fruiting dramatically (Rühling and Tyler, 1991).
 
@@ -85,7 +85,7 @@ Given the dependence of ericaceous plants on their ericoid mycorrhizae for extra
 
 ## Context-Dependent Responses and Caution Against Generalization
 
-Sæstad and Jenssen (1993) demonstrated that the direction of response can depend on local conditions. In contrast to studies showing decreased mycorrhizal fungal diversity with nitrogen addition, they found a decrease in saprotrophic species richness and an increase in dominance of some ectomycorrhizal species in response to simulated acid rain at two Norwegian localities. They cautioned against broad generalizations about the effects of acidifying pollutants, emphasizing that local conditions (soils, climate, initial community composition) mediate the response.
+Sæstad and Jenssen (1993) demonstrated that the direction of response can depend on local conditions. In contrast to studies showing decreased [[mycorrhizal-fungal-diversity]] with nitrogen addition, they found a decrease in saprotrophic species richness and an increase in dominance of some ectomycorrhizal species in response to simulated acid rain at two Norwegian localities. They cautioned against broad generalizations about the effects of acidifying pollutants, emphasizing that local conditions (soils, climate, initial community composition) mediate the response.
 
 ## The Diversity-Function Debate in Mycorrhizal Communities
 
@@ -100,3 +100,8 @@ The sensitivity of ectomycorrhizal fungal communities to nitrogen deposition has
 ## Conclusions
 
 Nitrogen deposition restructures ectomycorrhizal communities through complex interactions involving plant-fungal carbon economics, soil nutrient availability, competitive dynamics among fungal species, and differential species tolerances. The effects are context-dependent, sometimes contradictory, and mediated through both aboveground (fruiting) and belowground (root colonization) pathways that respond differently to nitrogen addition. The poor correspondence between fruit body surveys and molecular assessments of root mycorrhizae complicates both research and monitoring. Despite these complexities, the overall trajectory is clear: chronic nitrogen deposition reduces ectomycorrhizal diversity and function, with cascading consequences for forest health and ecosystem nutrient cycling.
+## See also
+
+- [[nitrogen-deposition-ectomycorrhizal-diversity-function]]
+- [[nitrogen-deposition-ectomycorrhizal-community-structure]]
+- [[ectomycorrhizal-diversity-ecosystem-function]]

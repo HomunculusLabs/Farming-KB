@@ -5,7 +5,7 @@ type: species
 tags: [edible-mushroom, cultivable-species, agaricales, tricholomataceae, wood-decomposer]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
 
 # Lepista nuda (Blewit)

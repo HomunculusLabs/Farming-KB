@@ -70,7 +70,7 @@ The disjunct distribution between the Pyrenees and the Cantabrian Mountains sugg
 Campanula thyrsoidea is cultivated as an ornamental perennial, valued for its architectural flower spike and unusual yellow coloration. It is available from specialist nurseries and seed exchanges.
 
 **Growing requirements:**
-- **Soil:** Well-drained, gritty loam, preferably calcareous
+- **Soil:** Well-drained, gritty [[loam]], preferably calcareous
 - **Position:** Full sun
 - **Hardiness:** Hardy to USDA zones 4–7
 - **Propagation:** Seed sown fresh in autumn; does not divide well due to taproot

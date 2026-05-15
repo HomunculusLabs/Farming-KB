@@ -13,7 +13,7 @@ Tropical humid and coastal climates share many design challenges with arid lands
 ### The Critical Role of Trees
 "It is in this climate that trees are most essential. Trees grow easily from seed and cuttings, divisions and roots. Some trees are necessary at all times, even over crop."
 
-Paulsen asserts that **"more than 75% of the soluble plant nutrients that are present in a certain area are held within the biomass of the growing plant community."** These nutrients are not absorbed into soil as in temperate climates, but caught in the web of roots and fungal symbionts below the soil surface. Only 'transitory' fertility is released by clear-felling, then leaching of nutrients and sterility of soil results.
+Paulsen asserts that **"more than 75% of the soluble plant nutrients that are present in a certain area are held within the biomass of the growing plant community."** These nutrients are not absorbed into soil as [[query-how-to-grow-and-use-oca-in-temperate-climates]], but caught in the web of roots and fungal symbionts below the soil surface. Only 'transitory' fertility is released by clear-felling, then leaching of nutrients and sterility of soil results.
 
 ### The Nutrient Pump
 Paulsen reinforces the "nutrient pump" role of trees: both leaves and roots trap minerals from air and weathered stone, and leaves recycle to topsoil. Examples:
@@ -63,8 +63,8 @@ Species useful in both desert and coastal environments:
 | Species | Botanical Name |
 |---------|---------------|
 | Coconut Palm | [[cocos-nucifera]] |
-| Cotton Palm | Washingtonia filifera |
-| Canary Palm | Phoenix canariensis |
+| Cotton Palm | [[washingtonia-filifera]] |
+| Canary Palm | [[phoenix-canariensis]] |
 | Date Palm | Phoenix dactylus |
 | [[norfolk-island-pine]] | Araucaria excelsa |
 | Macrocarpa Pine | Cedrus macrocarpa |
@@ -75,7 +75,7 @@ Species useful in both desert and coastal environments:
 - Boobyalla and Acacia (A. sophorea, A. cyclops, A. myopororum)
 - Banksia (B. marginata, B. serrata, B. attenuata, B. menziesii)
 - Tamarisk (T. aphylla, T. parviflora)
-- Carob (Ceratonia siliqua)
+- Carob ([[carob-ceratonia-siliqua-mediterranean-leguminous-tree]])
 - Cape thorn (Lycium ferocissimum)
 - Crested Wattle (Albizia lophantha)
 - Coprosma (C. repens, C. retusa, C. kirkii)
@@ -83,7 +83,7 @@ Species useful in both desert and coastal environments:
 - Metrosideros (M. excelsa)
 
 ### Inner Garden Hedges
-- Rosemary (Rosmarinus officinalis)
+- Rosemary ([[rosmarinus-officinalis-entity]])
 - Wormwood (Artemisia)
 - Euonymus (E. japonica)
 - Chilean barberry (Berberis darwinii)
@@ -105,7 +105,7 @@ Coastal ti-tree (Melaleuca): M. pubescens, M. hypericifolia, Leptospermum laevig
 - **Kennedia prostrata**: Good leguminous mulch (Ruth Geneff, Perth)
 - **Mesembryanthemum, Dolichos, Tecoma, Tetragonia**: Prevent sand drift
 - **Lupins** (annual and perennial): Thrive as coastal scrub, add soil fertility, bind loose sand
-- On rocky exposed headlands: Quercus ilex, Casuarina equisetifolia, Callitris spp.
+- On rocky exposed headlands: Quercus ilex, [[casuarina-equisetifolia]], Callitris spp.
 
 ### Acid Mulch from Pines
 Needle-leaved pines (P. pinea, P. pineaster, P. radiata) thrive on hillsides and provide acid mulch that offsets alkalinity of desert and coastal gardens, or provides mulch for blueberry crops.

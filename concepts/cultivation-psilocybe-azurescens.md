@@ -1,5 +1,5 @@
 ---
-title: Cultivation of Psilocybe azurescens — The World's Most Potent Psilocybin Mushroom
+title: [[grass-seed-cultivation-of-psilocybe-mushrooms]] azurescens — The World's Most Potent [[african-psilocybin-mushroom-guide]]
 source: growing-psilocybe-azurescens.md
 type: concept
 ---
@@ -8,15 +8,15 @@ type: concept
 
 ## Overview
 
-*Psilocybe azurescens* (Stamets & Gartz, 1995) is the most potent psilocybin-containing mushroom known, capable of accumulating up to **25 mg of tryptamine alkaloids per gram of dried material**. Originally discovered in 1979 in the Columbia River basin near Astoria, Oregon, it grows in beds of hardwood or conifer chips in half-shaded environments. Cultivation involves agar germination, wood substrate expansion, and outdoor bed preparation.
+*Psilocybe azurescens* (Stamets & Gartz, 1995) is the most potent psilocybin-containing mushroom known, capable of accumulating up to **25 mg [[hplc-analysis-of-tryptamine-alkaloids]] per gram of dried material**. Originally discovered in 1979 in the Columbia River basin near Astoria, Oregon, it grows in beds of hardwood or conifer chips in half-shaded environments. Cultivation involves agar germination, wood substrate expansion, and [[azurescens-outdoor-bed-preparation-woodchips]].
 
 ## Species Description
 
 ### Taxonomy
 
 - **Author**: Stamets & Gartz (1995).
-- **Complex**: *Psilocybe cyanescens* complex — closely related to *P. cyanescens* and *P. cyanofibrillosa*.
-- **Distinguishing features**: Comparatively great size, microscopic characteristics, and extraordinary alkaloid production.
+- **Complex**: *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]* complex — closely related to *P. cyanescens* and *P. cyanofibrillosa*.
+- **Distinguishing features**: Comparatively great size, microscopic characteristics, and extraordinary [[mycelial-broth-alkaloid-production]].
 
 ### Morphology (Latin Description)
 

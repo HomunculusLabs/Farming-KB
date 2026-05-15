@@ -103,7 +103,6 @@ This pattern is not unique to cannabis. [[arabidopsis-thaliana]]:** Strong deple
 - [[cannabis-herpes-treatment]]
 - [[cannabis-menopause-research]]
 
-
 ## See Also
 
 - [[cannabis-spiritual-use]]

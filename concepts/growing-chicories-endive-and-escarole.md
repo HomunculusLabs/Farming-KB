@@ -1,12 +1,12 @@
 ---
-title: Growing Chicories Endive and Escarole
+title: [[growing-chicories-endive-radicchio]] and Escarole
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Growing Chicories — Endive, Escarole, and Radicchio
 
-Chicories are remarkably cold-hardy salad greens that shrug off nighttime lows of under 10°F (-12°C) when the soil isn't frozen. In cold-winter climates, they are good eating in both autumn and winter, although winter humidity can cause mold problems. In mild climates, they grow steadily right through winter into spring.
+Chicories are remarkably cold-hardy [[growing-lettuce-salad-greens]] that shrug off nighttime lows of under 10°F (-12°C) when the soil isn't frozen. In cold-winter climates, they are good eating in both autumn and winter, although winter humidity can cause mold problems. In mild climates, they grow steadily right through winter into spring.
 
 ## The Bitterness Myth
 
@@ -52,7 +52,7 @@ Chicory root systems resemble those of other biennials like beetroot or carrot, 
 
 ### Radicchio
 
-Lately, productive and uniformly heading radicchio (with small, sound, red, cabbage-like heads) have appeared. These are usually more expensive hybrid varieties. Some OP varieties permit a few outer leaves to be cut while the heads continue developing.
+Lately, productive and uniformly heading radicchio (with small, sound, red, cabbage-like heads) have appeared. These are usually more expensive [[cervantes-hybrid-varieties-types]]. Some OP varieties permit a few outer leaves to be cut while the heads continue developing.
 
 ### Endive and Escarole
 
@@ -65,7 +65,7 @@ It's a good idea to isolate OP varieties by 50 feet (15 meters). Chicories have 
 ## Overwintering for Seed Production
 
 - In mild winter climates: let plants overwinter in the garden, they'll produce seed the following spring
-- In cold climates: dig roots before hard freeze, store in root cellar (like carrots in moist sand), replant outside in spring
+- [[query-how-do-i-grow-figs-in-cold-climates]]: dig roots before hard freeze, store in root cellar (like carrots in moist sand), replant outside in spring
 - If only a seed crop is intended, trim the tops (removing all but the core and growing point) and cellar only the roots
 - Chicories are biennials — after overwintering, they put up large masses of waist-high jointed stalks covered with pretty blue flowers that almost always self-pollinate
 
@@ -73,13 +73,13 @@ It's a good idea to isolate OP varieties by 50 feet (15 meters). Chicories have 
 
 - After overwintering, plants produce tall flower stalks
 - The capsules holding chicory seed are quite hard and tend to shatter
-- Harvest method: hold a vigorous tap dance on thoroughly dry stalks spread on a strong tarp on a hard surface
+- [[winter-harvest-method-overview]]: hold a vigorous tap dance on thoroughly dry stalks spread on a strong tarp on a hard surface
 - After sieving out larger trash, winnow away fine chaff
 - **Warning**: After throwing chicory trash into the heap, you may get millions of endive and escarole plants coming up all over the garden as an undesirable bonus — the seeds are prolific volunteers
 
 ## Winter Harvest Strategy
 
-For winter salad greens:
+For [[coleman-winter-salad-braising-mix-composition]] greens:
 1. Plant chicories in late summer for autumn/winter harvest
 2. In mild climates, they'll grow through winter
 3. In cold climates, dig and cellar before hard freeze

@@ -1,13 +1,13 @@
 ---
-title: Withania Somnifera
+title: [[ashwagandha-withania-somnifera]]
 type: species
 tags:
   - herbal-plant
   - adaptogen
   - ayurveda
-  - solanaceae
+  - [[solanaceae]]
   - withanolides
-  - ashwagandha
+  - [[ashwagandha]]
   - nootropic
   - anti-inflammatory
   - rasayana

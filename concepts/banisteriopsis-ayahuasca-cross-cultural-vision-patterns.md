@@ -1,5 +1,5 @@
 ---
-title: Banisteriopsis Ayahuasca — Cross-Cultural Visionary Experience Patterns
+title: [[banisteriopsis-ayahuasca-vine]] — Cross-Cultural Visionary Experience Patterns
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Michael J. Harner's survey of anthropological reports on *Banisteriopsis* (ayahuasca/yage) use across South American indigenous cultures reveals a consistent set of visionary experiences that recur across diverse linguistic and cultural groups. This concept page catalogs these cross-cultural patterns and examines their implications for understanding the relationship between psychoactive substances and cultural belief systems.
+Michael J. Harner's survey of anthropological reports on *Banisteriopsis* (ayahuasca/yage) use across South American [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] reveals a consistent set of visionary experiences that recur across diverse linguistic and cultural groups. This concept page catalogs these cross-cultural patterns and examines their implications for understanding the relationship between [[cultural-evolution-and-psychoactive-substances]] and cultural belief systems.
 
 ## The Common Core of Ayahuasca Experience
 
@@ -18,7 +18,7 @@ Harner identifies five major experiential themes that recur across ayahuasca-usi
 
 The experience frequently begins with a sensation of dying—nausea, physical weakness, loss of bodily awareness—followed by a sense of being freed from the body. Reinburg's (1921) account is vivid: "Comprehension is highly exaggerated; it seems to me as though my body has disappeared; I am nothing more than a mind observing with interest the phases of experience going on within another person."
 
-The physiological basis is clear: ayahuasca contains monoamine oxidase inhibitors (MAOIs) from *Banisteriopsis caapi* and N,N-dimethyltryptamine (DMT) from the admixture plant (*Psychotria viridis* or *Diplopterys cabrerana*). The initial nausea and physical distress are common side effects, and the subsequent dissociation from the body reflects DMT's action on serotonin receptors.
+The physiological basis is clear: ayahuasca contains monoamine oxidase inhibitors (MAOIs) from *Banisteriopsis caapi* and N,N-dimethyltryptamine (DMT) from the admixture plant (*[[chacruna-psychotria-viridis]]* or *Diplopterys cabrerana*). The initial nausea and physical distress are common side effects, and the subsequent dissociation from the body reflects DMT's action on [[psilocybin-pharmacology-and-serotonin-receptors]].
 
 ### 2. The Sensation of Flight or Floating
 
@@ -94,5 +94,5 @@ Among the Desana, "the voice of the kumu [ritual leader] has guided him and has 
 
 - [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]] — Harner's theoretical framework
 - [[ayahuasca-pharmacology]] — The chemistry of the ayahuasca brew
-- [[hallucinogens-and-shamanism]] — Jivaro shamanic practices in detail
+- [[hallucinogens-and-shamanism]] — Jivaro [[jivaro-bewitching-and-curing-shamanic-practices]] in detail
 - [[mazatec-mushroom-shamanism-language-and-revelation]] — Comparison with Mazatec mushroom practices

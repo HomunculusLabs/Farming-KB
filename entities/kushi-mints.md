@@ -28,7 +28,7 @@ Kushi Mints typically tests between 22–28% THC, placing it firmly in the high-
 
 Kushi Mints is a cross of **Kush Mints** × an unspecified backcross or sibling selection within the Cookies genetic library.
 
-The parent strain Kush Mints is itself a cross of **Animal Mints** and **Bubba Kush**, making Kushi Mints a descendant of two of the most influential breeding lines in modern cannabis. Animal Mints contributes the signature Cookies terpene profile and trichome density.
+The parent strain Kush Mints is itself a cross of **Animal Mints** and **[[bubba-kush]]**, making Kushi Mints a descendant of two of the most influential breeding lines in modern cannabis. Animal Mints contributes the signature Cookies terpene profile and trichome density.
 
 Bubba Kush contributes the heavy indica body stone and deep relaxation effects. The resulting progeny expresses traits from both lineages, with the Cookies side dominant in aroma and the Kush side dominant in effects.
 
@@ -46,14 +46,14 @@ Trichome coverage is exceptionally heavy, giving the buds a frosted, almost whit
 
 Kushi Mints is considered moderately difficult to cultivate, requiring some experience to achieve optimal results.
 
-Indoor flowering time is approximately 8–10 weeks, with outdoor harvests typically ready by mid to late October in northern temperate climates. The plants have a moderately bushy growth pattern with strong lateral branching.
+Indoor flowering time is approximately 8–10 weeks, with outdoor harvests typically ready by mid to late October in northern [[fukuoka-natural-farming-temperate-climates]]. The plants have a moderately bushy growth pattern with strong lateral branching.
 
 Yields are moderate to above average when grown under optimal conditions. Indoor yields of 350–450 g/m² are typical, while outdoor plants can produce 400–600 g each depending on training method and [[savory-growing-season-and-non-growing-season-management]].
 
 ## Overview
 
 Kushi Mints represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -74,7 +74,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Kushi Mints finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -82,13 +82,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for kushi mints. Climate adaptation
+opportunities for kushi mints. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -103,7 +103,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 kushi mints and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

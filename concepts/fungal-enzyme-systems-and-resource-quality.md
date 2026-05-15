@@ -1,5 +1,5 @@
 ---
-title: Fungal Enzyme Systems and Resource Quality
+title: Fungal Enzyme Systems [[fungal-decomposition-enzymes-and-resource-quality]]
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -17,11 +17,11 @@ The chemical composition of plant litter varies widely across ecosystem types an
 - **Carbon:Nitrogen (C:N) ratio**: Higher ratios indicate reduced decomposition rates because decomposer organisms require nitrogen to synthesize enzymes and build biomass. When C:N ratios are very high, fungi must import nutrients from surrounding soil to meet their metabolic demands.
 - **Lignin:Nitrogen (lignin:N) ratio**: Lignin is a recalcitrant structural polymer. High lignin:N ratios further slow decomposition because lignin requires specialized enzymatic systems to break down.
 
-Additionally, **secondary plant compounds** such as polyphenols and tannins inhibit decomposition by soil microorganisms. Vanlauwe et al. (1997) demonstrated that while individual polyphenol:N or lignin:N ratios show inconsistent relationships with nitrogen mineralization, the **combined (lignin + polyphenol):N ratio** is strongly and significantly correlated with both decomposition (mass loss) and nitrogen release rates.
+Additionally, **secondary plant compounds** such as polyphenols and tannins inhibit decomposition by soil microorganisms. Vanlauwe et al. (1997) demonstrated that while individual polyphenol:N or lignin:N ratios show inconsistent relationships with [[fungal-nitrogen-mineralization-pathways]], the **combined (lignin + polyphenol):N ratio** is strongly and significantly correlated with both decomposition (mass loss) and nitrogen release rates.
 
 ## Fungal Extracellular Enzyme Systems
 
-Fungi produce a diverse array of extracellular enzymes (ectoenzymes) that degrade specific chemical constituents of plant litter. The enzymatic repertoire of a fungal species largely determines which substrates it can colonize and decompose. The major enzyme systems include:
+Fungi produce a diverse array of [[fungal-extracellular-enzymes]] (ectoenzymes) that degrade specific chemical constituents of plant litter. The enzymatic repertoire of a fungal species largely determines which substrates it can colonize and decompose. The major enzyme systems include:
 
 ### Lignin-Degrading Enzymes
 
@@ -62,7 +62,7 @@ Pectin, a structural polysaccharide in plant cell walls, is degraded by:
 
 ## Regulation of Enzyme Expression
 
-Enzyme production by decomposer fungi is not constant but is regulated by both the chemical environment and nutrient availability. Sinsabaugh et al. (1993) studied extracellular enzymes in wood decomposition and developed a model incorporating both microbial and soil nutrient controls over enzyme expression:
+Enzyme production by decomposer fungi is not constant but is regulated by both the chemical environment [[chelation-and-nutrient-availability]]. Sinsabaugh et al. (1993) studied extracellular enzymes in wood decomposition and developed a model incorporating both microbial and soil nutrient controls over enzyme expression:
 
 - Where inorganic nitrogen and phosphorus are scarce, fungi expend greater energy producing enzymes to sequester nutrients from organic sources.
 - Acid phosphatase and N-acetylglucosaminidase activity showed high spatial variability related to edaphic conditions.
@@ -104,7 +104,7 @@ The pattern of fungal colonization of decomposing resources is determined by:
 
 1. **Resource quality**: Chemical composition of the substrate dictates which species can utilize it.
 2. **Propagule arrival rate**: Speed of arrival via spore dispersal or hyphal growth from adjacent resources.
-3. **Competitive ability**: Relative combative ability against other fungal species, including production of antibiotic secondary metabolites.
+3. **Competitive ability**: Relative combative ability against other fungal species, including production of antibiotic [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Ecosystem Succession and Decomposer Communities
 
@@ -123,7 +123,7 @@ While most decomposition studies have characterized chemical changes at the whol
 
 - Cooke, R.C. and Rayner, A.D.M. (1984). *Ecology of Saprotrophic Fungi*. Longman.
 - Frankland, J.C. (1992, 1998). Fungal succession on decaying plant litter.
-- Linkins, A.E. et al. (1984). Factors affecting extracellular cellulase activity.
+- Linkins, A.E. et al. (1984). [[factors-affecting-mycoremediation-efficiency]] extracellular cellulase activity.
 - Ponge, J.F. (1990, 1991). Colonization stages of *Pinus sylvestris* needles.
 - Sinsabaugh, R.L. and Liptak, M.A. (1997). Fungal ectoenzyme systems.
 - Sinsabaugh, R.L. et al. (1993). Wood decomposition and enzyme expression.

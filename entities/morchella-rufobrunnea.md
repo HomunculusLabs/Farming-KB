@@ -14,7 +14,7 @@ sources:
   - "Kuo, M. (2024). Morchella rufobrunnea. MushroomExpert.com."
   - "Richard, F., Gardes, M., & Moreau, P.A. (2015). \"Morchella rufobrunnea.\" Fungal Biology, 119(12), 1248-1257."
   - "O'Donnell, K. et al. (2011). \"Multilocus phylogenetic analysis of Morchella.\" Mycologia, 103(4), 770-780."
-  - "Pilz, D. et al. (2007). Ecology and management of morels. USDA PNW-GTR-710."
+  - "Pilz, D. et al. (2007). [[soil-nematodes-ecology-and-management]] of morels. USDA PNW-GTR-710."
   - "Cao, Y. et al. (2023). \"fukuoka-matsutake-artificial-cultivation-attempt of Morchella species.\" Frontiers in Microbiology, 14, 1156321."
 ---
 
@@ -63,7 +63,7 @@ sources:
 
 ## Ecological Role
 
-Forms facultative ectomycorrhizal associations with a broad range of hardwood and conifer hosts. Also functions as a primary decomposer of woody substrates in disturbed environments. Fruits prolifically after forest fires, exploiting the nutrient pulse from burned organic matter. Contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through decomposition of woody debris and leaf litter.
+Forms facultative [[ectomycorrhizal-associations]] with a broad range of hardwood and conifer hosts. Also functions as a primary decomposer of woody substrates in disturbed environments. Fruits prolifically after forest fires, exploiting the nutrient pulse from burned organic matter. Contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through decomposition of woody debris and leaf litter.
 
 ## Notable Cultivars and Commercial Strains
 
@@ -71,13 +71,13 @@ Forms facultative ectomycorrhizal associations with a broad range of hardwood an
   robust contamination resistance; fruits at 12-16°C
 - **Strain M3:** Selected for cold tolerance; commercially grown in
   Gansu and Shaanxi at higher altitudes; slightly longer cycle time
-- **Strain M7:** Recent selection with improved biological efficiency
+- **Strain M7:** Recent selection with improved [[biological-efficiency]]
   (>25% on supplemented substrates); reduced genetic degeneration
 
 ## Overview
 
 Morchella Rufobrunnea represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Morchella Rufobrunnea finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 morchella rufobrunnea and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

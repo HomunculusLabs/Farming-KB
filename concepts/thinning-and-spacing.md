@@ -6,7 +6,7 @@ type: concept
 
 # Thinning and Spacing
 
-Thinning is the gradual removal of excess seedlings to give the remaining plants adequate room to develop. It is one of the most important — and most resisted — practices in vegetable gardening. Many gardeners sow too densely and then fail to thin adequately, resulting in stunted, unproductive plants. Understanding the biology behind competition and the practical techniques for thinning transforms garden productivity.
+Thinning is the gradual removal of excess seedlings to give the remaining plants adequate room to develop. It is one of the most important — and most resisted — practices in [[dryland-vegetable-gardening]]. Many gardeners sow too densely and then fail to thin adequately, resulting in stunted, unproductive plants. Understanding the biology behind competition and the practical techniques for thinning transforms garden productivity.
 
 ## Why Thinning Is Necessary
 
@@ -28,7 +28,7 @@ When you sowed those seeds, you undertook to maintain the terms of a contractual
 
 ## Overseeding as Insurance
 
-Some seedlings are always going to die. If you sow one seed to get one plant, prepare to be disappointed — you will soon be going to the garden center and purchasing seedlings. Better to sow three or five (or sometimes even more) seeds for every plant you want. Then when nature kills off a few, you can consider it helping with your task of thinning.
+Some seedlings are always going to die. If you sow one seed to get one plant, prepare to be disappointed — you will soon be going to the [[garden-center-transplant-pitfalls]] and purchasing seedlings. Better to sow three or five (or sometimes even more) seeds for every plant you want. Then when nature kills off a few, you can consider it helping with your task of thinning.
 
 ### General Rule
 
@@ -42,7 +42,7 @@ The bigger the seed, the higher the germination percentage and the smaller the n
 
 ### Three Steps Over Three to Five Weeks
 
-Gradual thinning helps you avoid ending up with gaps in the row if bad weather slows early growth, if germination is low, or if seedlings are lost to predation.
+Gradual thinning helps you avoid ending up with gaps in the row if bad weather slows [[cervantes-seedling-care-early-growth]], if germination is low, or if seedlings are lost to predation.
 
 **Step 1 — After emergence (first week):**
 A few obviously dead seedlings may need removal. Weaker seedlings may thin themselves through damping-off diseases and insects. Let this natural selection proceed.
@@ -58,9 +58,9 @@ When seedlings are established with three true leaves and growing well, they are
 
 ## The Thumbprint Method
 
-For small seeds that will grow into large plants (cabbage, broccoli, Brussels sprouts, cauliflower, Chinese cabbage, celery, celeriac, and kale):
+For small seeds that will grow into large plants (cabbage, broccoli, Brussels sprouts, cauliflower, [[growing-chinese-cabbage]], celery, celeriac, and kale):
 
-1. Spread complete organic fertilizer or chicken manure compost and dig the bed
+1. Spread [[complete-organic-fertilizer]] or [[chicken-manure]] compost and dig the bed
 2. Let a few days pass for the soil to resettle and capillary connections to restore
 3. Place manure/compost on the surface and rake level
 4. With your thumb, press a small indentation slightly over half an inch (1.25 cm) deep
@@ -79,7 +79,7 @@ For celery and other tiny, expensive seeds, cover with a thin mulch of fine comp
 
 When you allow for seeds that don't sprout and for thinning, you will want to end up with more plants than you initially thought. Buying bulk seed rather than small packets can save enormous amounts of money.
 
-Example: Johnny's Selected Seeds sells a mini-packet of kohlrabi (about 45 seeds) for $2.85. A thousand seeds of the same variety costs $7.60. If you purchased 1,000 seeds in mini-packets, you'd need eight or nine of them, costing $23.75 instead of $7.60.
+Example: Johnny's [[johnnys-selected-seeds]] sells a mini-packet of kohlrabi (about 45 seeds) for $2.85. A thousand seeds of the same variety costs $7.60. If you purchased 1,000 seeds in mini-packets, you'd need eight or nine of them, costing $23.75 instead of $7.60.
 
 ### When Bulk Buying Makes Sense
 

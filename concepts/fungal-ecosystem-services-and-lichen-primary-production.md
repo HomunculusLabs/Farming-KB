@@ -1,5 +1,5 @@
 ---
-title: Fungal Ecosystem Services and Lichen Primary Production
+title: [[dighton-fungal-ecosystem-services-framework]] and Lichen Primary Production
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -29,7 +29,7 @@ Fungi provide a remarkable range of ecosystem services that underpin the functio
 - **Plant yield enhancement**: Mycorrhizal associations increase plant growth rates and biomass production.
 
 ### Plant Defense
-- **Pathogen defense**: Mycorrhizae, endophytes, and certain saprotrophs protect host plants against pathogenic organisms through competition, antibiosis, and induced systemic resistance.
+- **Pathogen defense**: Mycorrhizae, endophytes, and certain saprotrophs protect host plants against pathogenic organisms through competition, antibiosis, and [[endophytic-mycorrhizal-induced-systemic-resistance]].
 - **Herbivore defense**: Endophytic fungi produce alkaloids and other secondary compounds that deter herbivory, indirectly supporting primary productivity by reducing biomass loss.
 
 ### Community Structure
@@ -64,10 +64,10 @@ Ground-inhabiting species achieve greater biomass due to better water-holding ca
 
 In the Norwegian high Arctic, Cooper and Wookey (2001) measured growth of fruticose lichens:
 
-- Species studied: *Cetraria* spp., *Cladonia* spp., and *Alectoria nigricans*
+- Species studied: *Cetraria* spp., *Cladonia* spp., and *[[alectoria-nigricans]]*
 - Growth rates: **2.4–10.6 mg g⁻¹ per week**
 - Seasonal biomass increase: **2.5–11.2%** over approximately 10 weeks
-- Comparable rates reported by Peck et al. (2000) for *Masonhalea richardsonii* in Alaska (~10% per year)
+- Comparable rates reported by Peck et al. (2000) for *[[masonhalea-richardsonii]]* in Alaska (~10% per year)
 
 These lichens provide critical winter forage for reindeer, but their slow growth makes them vulnerable to overgrazing and trampling damage.
 
@@ -78,7 +78,7 @@ Sillett et al. (2000) studied epiphytic lichen colonization on experimental bran
 - **Highest colonization**: Clear-cut and old-growth stands
 - **Lowest colonization**: Young (10-year-old) forests
 - Bark texture preference varied by species and forest age
-- *Lobaria oregana* showed species-specific responses: preferred smooth bark in clear-cuts, no preference in young stands, and rough bark in old-growth
+- *[[lobaria-oregana]]* showed species-specific responses: preferred smooth bark in clear-cuts, no preference in young stands, and rough bark in old-growth
 
 Light availability appears to be the primary driver, with lichen light use efficiency ranging from **0.5–2%** per dry weight at standard light energy equivalents (Palmqvist and Sundberg, 2000).
 
@@ -107,7 +107,7 @@ The fungal partner provides critical photoprotection for the photosynthetic symb
 
 Mat-forming lichens are highly efficient at intercepting nutrients from precipitation:
 
-- *Stereocaulon paschale*: retains 86–100% of NO₃-N and 40–99% of NH₄-N
+- *[[stereocaulon-paschale]]*: retains 86–100% of NO₃-N and 40–99% of NH₄-N
 - *Cladonia stellaris*: retains 62–99% of NO₃-N and 50–97% of NH₄-N
 - *Stereocaulon paschale* can fix **669 mg N m⁻²** over 82 days through its cyanobacterial symbiont
 

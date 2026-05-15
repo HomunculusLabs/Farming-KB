@@ -40,7 +40,7 @@ The plant's distinctive vanilla-scented wood and attractive flowers make it a st
 
 Latua pubiflora is endemic to Chile, where it grows in the Valdivian region. Its restricted range and rarity make it one of the most geographically limited psychoactive plants known. The plant grows in the temperate rainforests of southern Chile, in areas with high rainfall and mild temperatures. It is typically found in forest margins, clearings, and along watercourses.
 
-[[kava-traditional-preparation-ceremonial-context]] methods for Latue are not well documented in the ethnographic literature. It is believed that the leaves and possibly the fruits were the primary plant parts used. Preparations may have included teas, infusions, or possibly smoking of dried plant material. The secrecy surrounding Mapuche shamanic practices has meant that much knowledge about the specific preparation and use of Latue has been lost.
+[[kava-traditional-preparation-ceremonial-context]] methods for Latue are not well documented in the ethnographic literature. It is believed that the leaves and possibly the fruits were the primary plant parts used. Preparations may have included teas, infusions, or possibly smoking of dried plant material. The secrecy surrounding Mapuche [[jivaro-bewitching-and-curing-shamanic-practices]] has meant that much knowledge about the specific preparation and use of Latue has been lost.
 
 ### Shamanic Context
 
@@ -51,7 +51,7 @@ The use of Latue was deeply embedded in Mapuche spiritual practice. The plant wa
 The Mapuche shamanic tradition, known as machitun, is one of the oldest continuously practiced spiritual systems in South America. The machi (shaman), who has historically been more often female than male, serves as a healer, diviner, and intermediary between the human and spirit worlds. Psychoactive plants like Latue, [[scopolamine]]** (likely) — a potent deliriant and anti-cholinergic
 - **[[atropine]]** (possible) — the racemic form of hyoscyamine
 
-The specific alkaloid profile of Latua has not been fully characterized, and chemical investigation of this rare plant remains a priority for ethnopharmacologists. Preliminary phytochemical screening has confirmed the presence of tropane alkaloids, though detailed quantitative analysis has been hampered by the difficulty of obtaining plant material.
+The specific alkaloid profile of Latua has not been fully characterized, and chemical investigation of this rare plant remains a priority for ethnopharmacologists. Preliminary phytochemical screening has confirmed the presence of [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]], though detailed quantitative analysis has been hampered by the difficulty of obtaining plant material.
 
 ## Pharmacology
 
@@ -74,7 +74,7 @@ Latua pubiflora is considered extremely dangerous. Tropane alkaloid poisoning ca
 ## Overview
 
 Latua Pubiflora represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Latua Pubiflora finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -103,7 +103,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 latua pubiflora and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

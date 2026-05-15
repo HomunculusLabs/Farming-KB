@@ -1,132 +1,146 @@
 ---
-title: Laminar Flow Hood Construction
-source: cotter-organic-mushroom-farming-mycoremediation.md
+title: [[comparison-laminar-flow-hood-vs-fruiting-chamber]] Construction
+source: laminar-flow-hood-construction-1.md
 type: concept
 ---
 
 # Laminar Flow Hood Construction
 
-A [[laminar-flow-hood]] is the single most important investment for anyone serious about
-[[mushroom-cultivation]], tissue culture, or any work requiring a sterile environment. It
-provides a continuous stream of HEPA-filtered air across a work surface, creating a
-clean zone free of airborne contaminants such as mold spores and bacteria.
+## Overview
 
-## What Is a Laminar Flow Hood?
+A [[laminar-flow-hood]] (also called a laminar flow cabinet or [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]) is an enclosed
+workspace designed to provide a nearly sterile environment for sensitive laboratory work.
+It is considered essential equipment in plant [[cervantes-tissue-culture-micropropagation]] laboratories, mycology labs,
+and any setting where contamination by airborne particles—dust, spores, bacteria, or
+mycelia—must be minimized. The device works by drawing room air through a HEPA (High
+Efficiency Particulate Air) filter, which removes 99.99% of all airborne materials, and
+then delivering that filtered air in a smooth, unidirectional (laminar) stream across an
+open work surface.
 
-A laminar flow hood is essentially a bench or small work surface surrounded by an open
-cabinet or hood equipped with a HEPA-filtered air supply. The unit pulls in ambient room
-air, passes it through a high-efficiency particulate air (HEPA) filter, and then blows
-the clean, filtered air in a smooth, unidirectional stream across the entire work
-surface. This constant outward flow of filtered air prevents ambient contamination from
-airborne microorganisms from entering the sterile work zone.
+## Design Principles
 
-In home labs and small-scale commercial operations, a well-built laminar flow hood can
-handle round-the-clock air purification, enabling continuous sterile work sessions. Many
-experienced cultivators set up two laminar hoods side by side: one dedicated to cooling
-sterilized substrate containers and another used as the primary workspace for transfers,
-inoculations, and other sterile procedures. This separation further reduces cross-
-contamination risk and streamlines the workflow.
+The core principle behind laminar flow hood operation is the creation of a controlled
+airstream in which all particles travel in parallel paths at uniform velocity. This
+laminar (non-turbulent) airflow sweeps contaminants away from the work area and prevents
+unfiltered air from entering the sterile zone. Key [[mycoremediation-bioreactor-design-considerations]] include:
 
-## Purchasing vs. Building
+- **Airflow velocity**: Must be sufficient to overcome minor disturbances (typically
+  0.3–0.5 m/s) without creating turbulence that could draw contaminants into the work
+  zone.
+- **Filter coverage**: The [[hepa-filter]] should span the full width and height of the
+  work opening to ensure complete coverage of the sterile air curtain.
+- **Enclosure integrity**: All joints, seams, and connections must be airtight to prevent
+  unfiltered air from bypassing the HEPA filter.
+- **Pre-filtration**: A coarse pre-filter extends the life of the more expensive HEPA
+  filter by capturing larger particles before they reach it.
 
-Commercial prefabricated laminar flow hood kits are available, typically starting at
-$1,000 or more for small benchtop units that you screw together and plug in. While
-convenient, these prebuilt units carry a significant price premium and may not offer the
-customization needed for specific lab layouts or workflows.
+## HEPA Filtration
 
-Building your own laminar flow hood is a highly practical alternative. A high-quality
-DIY unit can be assembled for roughly $400, covering the cost of a [[hepa-filter]] and a
-blower or fan, plus wood for the enclosure, a work surface, and fasteners. The savings
-are substantial, and the builder gains intimate knowledge of the unit's construction,
-which is invaluable for maintenance and troubleshooting down the road.
+HEPA filters are the critical component of any laminar flow hood. They are classified by
+their ability to capture particles of 0.3 micrometers in diameter with at least 99.97%
+efficiency (the "99.99%" figure cited in many construction references reflects testing
+protocols specific to the filter model used). For mycology and plant tissue culture
+applications, the HEPA filter removes fungal spores, bacterial cells, dust, and other
+particulate matter that could contaminate cultures. Extended surface pre-filters (such
+as the Dayton extended surface pre-filters referenced in the Forister-Burger design) are
+mounted upstream of the HEPA element to trap larger debris and prolong HEPA filter life.
 
-## HEPA Filter Selection
+## The Forister-Burger Construction Method
 
-The heart of any laminar flow hood is the HEPA filter. Select a gasketed HEPA filter
-rated for 99.997% efficiency at 0.3 microns. The gasketing is critical because it
-allows a perfect seal between the filter and the enclosure, eliminating unfiltered air
-leakage around the filter edges. Without a proper gasket seal, even the best HEPA filter
-is compromised by unfiltered air bypassing it.
+The most widely referenced DIY laminar flow hood [[holzer-terrace-construction-guide]] for plant tissue
+culture and mycology was published by G.W. Forister and D.W. Burger of the Department
+of Environmental Horticulture at the University of California, Davis. Their design was
+itself adapted from an earlier publication by Meyer (HortScience 21(4):1064-1065, 1986).
 
-The preferred size for a full-size laminar flow hood is approximately 2 feet high by 3
-feet wide. This provides ample work surface area while remaining manageable in a home or
-small commercial lab setting. A smaller, separate laminar flow hood is also recommended
-for isolating wild specimens, molds, and sporulating cultures. Using a dedicated hood
-for dirty work protects the main filter from excessive [[spore]] loading and extends its
-service life.
+The Forister-Burger design is notable for using a single blower to supply filtered air
+to two separate laminar flow hoods via dryer vent hose, making it a cost-effective
+solution for labs requiring multiple sterile workstations. The design was validated
+through open [[brown-rice-petri-plate-inoculation-vermiculite-transfer-psilocybe-cubensis-badham-1982]] contamination tests, confirming that the hoods provided a
+genuinely sterile environment for plant tissue culture work.
 
-## Blower/Fan Selection
+## Fan Housing Construction
 
-The air mover is the other critical component. A furnace-type "squirrel-cage" blower,
-readily available at most hardware stores, is the standard choice. These blowers move
-large volumes of air at moderate pressure, which is exactly what a HEPA filter demands.
-The blower must have the proper electrical rating for safe, reliable operation.
+The fan housing serves as the central air-moving and pre-filtration unit. Construction
+details from the Forister-Burger method are as follows:
 
-Matching the blower's CFM (cubic feet per minute) output to the HEPA filter is
-essential. Too little force results in inadequate airflow that cannot maintain a sterile
-laminar stream across the work surface. Too much force can damage delicate tissues and
-create turbulent whirlwinds that actually pull contamination into the work area. The
-ideal commercial airflow rate is approximately 550 CFM, with an acceptable operating
-range of 100 to 600 CFM depending on the filter size and lab requirements.
+1. **Main box**: Built from 3/4-inch thick plywood (4×8 sheet), cut per a detailed parts
+   layout. All edges are joined using rabbet joints (3/4" wide, 1/2" deep) for strength
+   and airtightness.
+2. **Air passages**: Cut into the END pieces to allow air to flow from the blower
+   compartment into the pre-filter chamber.
+3. **Assembly**: Sides, ends, and bottom are glued and screwed together to ensure a
+   rigid, airtight enclosure.
+4. **Blower mount**: A fan hood constructed from #2 pine fits inside the box. The bottom
+   of the fan hood is attached directly to the blower outlet using #10 × 3/4" screws.
+5. **Output manifold**: The "Top Center" panel features six 4-inch diameter holes fitted
+   with aluminum irrigation pipe hose attachments, allowing connection to multiple hoods
+   via flexible dryer vent hose.
+6. **Pre-filter access**: Filter lids are designed as loose-fit covers with handles for
+   easy removal during filter replacement.
+7. **Pre-filter mounting**: The inside end panel is attached to a spacer with fence wire
+   sandwiched between them. The spacer holds a 16"×20"×2" pre-filter in place.
+8. **Electrical**: A recessed switch plate is installed, with a 1-inch wire hole fitted
+   with a conduit grommet for clean wiring routing.
 
-## Building the Box
+The specified blower is a Dayton #5C094 direct-drive blower, paired with an
+ELECTROSWITCH part #21301A for power control.
 
-Construction begins with measuring the exact dimensions of the HEPA filter, as the box
-must fit the filter precisely. The box extends roughly 8 to 10 inches from the back of
-the filter and 18 to 24 inches from the front. The deeper front section serves as the
-primary work space, while the shallower back section houses the blower assembly.
+## Laminar Flow Hood Assembly
 
-The blower is mounted through a cutout hole, usually on top of the box. In some designs,
-the blower sits in a separate box or plenum chamber that also holds a coarse prefilter
-to catch large dust particles before they reach the HEPA element. This prefilter
-dramatically extends HEPA life.
+Each individual laminar flow hood unit is constructed as follows:
 
-The work surface should be a stainless steel sheet or any comparable smooth,
-disinfectable surface. Old tabletops or salvaged commercial kitchen components can be
-converted for this purpose with good results. The HEPA filter is fastened using small
-bolts, wing nuts, and compression washers, which allow for easy removal and replacement.
-A removable lid design is strongly recommended because it lets you slip the filter out
-without disassembling the entire unit.
+1. **Work surface (bottom/table)**: Made from two layers of 3/4-inch plywood laminated
+   together for rigidity and durability. A smooth, cleanable surface is essential.
+2. **HEPA filter placement**: The HEPA filter is set back from the front edge of the
+   table by a distance equal to the width of an egg crate white panel. This creates a
+   diffuser zone that helps establish smooth, uniform laminar flow across the work area
+   rather than a concentrated jet of air directly from the filter face.
+3. **Filter enclosure**: A 1"×12" pine enclosure is dadoed (grooved) to accept the edges
+   of the HEPA filter, ensuring a snug, airtight seal around the filter perimeter.
+4. **Back panel**: Covered with 1/4-inch plywood to enclose the filter plenum.
+5. **Viewing hood**: A plexiglass (acrylic) hood with a 1-inch angle aluminum frame
+   provides visibility and physical protection for the work area while allowing the
+   laminar airflow to exit cleanly at the open front.
 
-With heavy daily use, expect to replace the HEPA filter annually. With a prefilter in
-place and moderate use, a HEPA can last 2 to 3 years before replacement is necessary.
+## Cost Analysis
 
-## Box Materials and Sealing
+The Forister-Burger paper provided a detailed cost breakdown (in 1980s dollars) for a
+two-hood, one-fan system:
 
-The enclosure can be built from wood, scrap metal, galvanized steel, or any sturdy
-material that holds its shape. Whatever material is chosen, the interior must be
-impervious to water for easy cleaning and disinfection. Wood enclosures can be sealed
-with epoxy resin or covered with laminate to create a waterproof barrier.
+| Component | Cost |
+|---|---|
+| Two laminar flow hoods (HEPA filters, plywood, plexiglass, hardware) | $525 |
+| Fan housing (Dayton blower, switch, plywood, fittings) | $378 |
+| **Grand Total** | **$903** |
 
-All joints and seams must be sealed to create an airtight enclosure. Aluminum tape —
-the same HVAC ductwork tape used in heating and cooling installations — is strongly
-preferred over silicone caulk. Aluminum tape provides a more reliable, uniform seal and
-is easier to inspect and reapply if needed. Tape all joints and junctions between the
-box and the HEPA filter, extending the tape over the filter frame edges and along the
-entire inside perimeter of the enclosure.
+Major individual costs within the hood assembly included HEPA filters ($220), plexiglass
+($110), and plywood ($34). Within the fan housing, the Dayton blower accounted for $185
+and the electrical switch for $40. While material prices have increased substantially
+since publication, the proportional breakdown remains useful for budgeting a DIY build.
+Modern equivalents of the components listed are readily available from HVAC suppliers,
+laboratory equipment vendors, and online retailers.
 
-## Testing for Air Leaks
+## Applications in Plant Tissue Culture and Mycology
 
-Once construction is complete, turn on the blower and verify that adequate airflow is
-reaching the work surface. The definitive leak test uses a smoldering incense stick.
-Pass the smoldering end slowly along every seam, joint, and edge of the enclosure. If
-the smoldering end brightens or the smoke trail is drawn inward at any point, unfiltered
-air is being pulled in at that location, and the seal must be reinforced.
+Laminar flow hoods are indispensable in two primary domains:
 
-Check the entire construction methodically — top, bottom, sides, back, and all filter
-frame edges. Even a small leak can compromise the sterile field, so thoroughness here
-pays dividends in every subsequent culture session.
+### Plant Tissue Culture
+In plant tissue culture laboratories, laminar flow hoods provide the sterile workspace
+needed for aseptic transfer of explants, subculturing of callus and cell suspensions, and
+preparation of growth media. Contamination by fungal spores or bacteria can destroy weeks
+or months of culture work, making the sterile environment of the flow hood critical to
+successful outcomes.
 
-## Key Philosophy
+### Mycology and Mushroom Cultivation
+For mushroom cultivators, laminar flow hoods are used during inoculation of grain spawn,
+agar plate work, [[spore-syringe-preparation]], and transfer of mycelial cultures. The
+99.99% particle removal efficiency of HEPA filters effectively eliminates airborne
+contaminant spores, allowing clean inoculations with drastically reduced contamination
+rates compared to open-air techniques such as still-air boxes.
 
-A laminar flow hood does not need to look pretty — it needs to work. The goal is
-functional sterility, not aesthetic refinement. You do not need an expensive prebuilt
-laminar flow hood to become a proficient tissue culturist. A simple, well-sealed box
-built from readily available materials, paired with a quality HEPA filter and an
-appropriately rated blower, will provide years of reliable sterile workflow.
+## References
 
-The emphasis on easy-to-remove components — wing nuts, compression washers, removable
-lids — ensures that maintenance is straightforward and that the unit can serve a lab for
-many years with minimal downtime. Invest the effort in proper sealing and component
-selection upfront, and the laminar flow hood will become the most dependable tool in the
-cultivation lab.
+- Forister, G.W. and Burger, D.W. "Laminar Flow Hood Construction." Department of
+  Environmental Horticulture, University of California, Davis.
+- Meyer, H.J. 1986. "Inexpensive Laminar Flow Hood for Tissue Culture."
+  HortScience 21(4):1064-1065.

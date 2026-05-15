@@ -74,7 +74,6 @@ The Mazatec mushroom ceremonies have profoundly influenced Western understanding
 
 Harner discusses the Mazatec in the context of Munn's essay on shamanistic curing by the Mazatec Indians of Oaxaca, Mexico.
 
-
 ## See Also
 
 - [[mazatec-fright-and-shamanic-calling]]

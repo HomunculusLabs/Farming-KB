@@ -18,7 +18,7 @@ endoparasitic nematode that attacks the roots of a wide range of economically
 important crops. It is one of the most destructive plant-parasitic nematodes in
 tropical and subtropical agriculture, causing significant yield losses in banana,
 citrus, and other crops. Elsen et al. (2001) demonstrated that arbuscular
-mycorrhizal fungi can significantly reduce R. similis populations.
+[[mycorrhizal-fungi]] can significantly reduce R. similis populations.
 
 ## Classification
 
@@ -61,7 +61,7 @@ mycorrhizal fungi can significantly reduce R. similis populations.
 ## Ecological Interactions
 
 - Migratory endoparasite of banana, citrus, and 250+ other plant species.
-- Populations significantly reduced by arbuscular mycorrhizal fungi (Glomus
+- Populations significantly reduced by [[arbuscular-mycorrhizal-fungi]] (Glomus
   intraradices), particularly affecting female nematodes.
 - Interacts with soil microbial communities influencing survival and infectivity.
 - Movement through soil facilitated by moisture films between soil particles.
@@ -82,3 +82,8 @@ mycorrhizal fungi can significantly reduce R. similis populations.
   raising concerns about durability of resistant cultivars.
 - Economic thresholds for mycorrhizal-based biocontrol in banana plantations
   have not been established.
+## See also
+
+- [[meloidogyne]]
+- [[meloidogyne-hapla]]
+- [[entomopathogenic-nematodes-biological-pest-control]]

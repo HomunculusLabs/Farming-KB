@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Phosphorus Uptake and Biogeochemical Cycling
+title: [[arbuscular-mycorrhizal-phosphorus-acquisition]] Uptake and Biogeochemical Cycling
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Arbuscular mycorrhizal (AM) fungi are the dominant mycorrhizal type in temperate grasslands, tropical forests, and agricultural systems. In these environments, rapid decomposition means most soil nutrients exist in inorganic form, with phosphorus typically being the primary limiting nutrient. AM fungi enhance plant phosphorus acquisition through three complementary mechanisms: exploitation of a larger soil volume, accelerated phosphate transport via hyphal networks, and the ability to solubilize complex phosphate compounds.
+Arbuscular mycorrhizal (AM) fungi are the dominant mycorrhizal type in temperate grasslands, tropical forests, and agricultural systems. In these environments, rapid decomposition means most soil nutrients exist in inorganic form, with phosphorus typically being the primary limiting nutrient. AM fungi enhance plant [[dighton-mycorrhizal-phosphatase-phosphorus-acquisition]] through three complementary mechanisms: exploitation of a larger soil volume, accelerated phosphate transport via hyphal networks, and the ability to solubilize complex phosphate compounds.
 
 ## The Three Mechanisms of Mycorrhizal Phosphorus Enhancement
 
@@ -26,7 +26,7 @@ While AM fungi are generally considered less enzyme-competent than ericoid or [[
 
 ### Phosphatase Enzyme Production
 
-AM fungi can produce phosphatase enzymes to solubilize poorly available phosphates (Azcón et al., 1976; Singh and Kapoor, 1998). Jayachandran et al. (1992) demonstrated this dramatically in big bluestem grass (*Andropogon gerardii*):
+AM fungi can produce phosphatase enzymes to solubilize poorly available phosphates (Azcón et al., 1976; Singh and Kapoor, 1998). Jayachandran et al. (1992) demonstrated this dramatically in big bluestem grass (*[[andropogon-gerardii]]*):
 
 - **Non-mycorrhizal plants**: Could access phosphorus from glycerophosphate and adenosine monophosphate, but NOT from phytic acid, RNA, ATP, or CMP
 - **Mycorrhizal plants (with *Glomus etunicatum*)**: Could access ALL forms of organic phosphorus, with uptake 500- to 600-fold higher than non-mycorrhizal plants
@@ -37,11 +37,11 @@ This demonstrates that AM fungi dramatically expand the range of organic phospho
 
 ### The Challenge of Calcareous Soils
 
-In calcareous soils, phosphate is limited because of complexing with heavy metal ions (particularly iron and calcium). Tyler (1994) showed that calcifuge plant species (*Carex pilulifera*, *Deschampsia flexuosa*, *Holcus mollis*, *Luzula pilosa*, *Nardus stricta*, *Veronica officinalis*) cannot grow on limestone because they cannot decouple iron-phosphate complexes.
+In calcareous soils, phosphate is limited because of complexing with heavy metal ions (particularly iron and calcium). Tyler (1994) showed that calcifuge plant species (*Carex pilulifera*, *[[deschampsia-flexuosa]]*, *Holcus mollis*, *Luzula pilosa*, *Nardus stricta*, *Veronica officinalis*) cannot grow on limestone because they cannot decouple iron-phosphate complexes.
 
 ### Calcicole Adaptation
 
-Calcicole species have developed mechanisms for acquiring both P and Fe from calcareous soils through production of organic acids in the rhizosphere. Ström (1997) documented dramatic differences in organic acid production:
+Calcicole species have developed mechanisms for acquiring both P and Fe from calcareous soils through production of organic acids in the rhizosphere. Ström (1997) documented dramatic differences in [[staycare-fungal-organic-acid-production-metal-leaching]]:
 
 | Strategy | Species | Total Organic Acid (mmol m⁻³) |
 |----------|---------|------------------------------|
@@ -97,7 +97,7 @@ Rangeley et al. (1982) found no effect of AM inoculation on clover growth in aci
 
 ### Seasonal Benefits
 
-Sanders and Fitter (1992a, 1992b) found minimal mycorrhizal influence on phosphorus and heavy metal uptake by natural grasses, but suggested benefits may occur seasonally during periods of low phosphorus availability and high plant demand.
+Sanders and Fitter (1992a, 1992b) found minimal mycorrhizal influence on phosphorus and heavy metal uptake by natural grasses, but suggested benefits may occur seasonally during periods of low [[phosphorus-availability]] and high plant demand.
 
 ### The Bluebell Case Study
 

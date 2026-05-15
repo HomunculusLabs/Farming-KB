@@ -1,5 +1,5 @@
 ---
-title: Humid Cool Climate Characteristics (Mollison)
+title: Humid Cool [[cool-humid-climate-characteristics]] (Mollison)
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -9,7 +9,7 @@ type: concept
 Mollison's detailed characterisation of cool humid (mesothermal) climates
 covers the vegetation, soils, frost behaviour, wind exposure, and geographic
 distribution that define these agriculturally productive but demanding regions.
-These climates span much of Europe, North America, southern South America,
+These climates span much of Europe, [[guzman-psilocybin-mushrooms-north-america]], southern [[guzman-psilocybin-mushrooms-south-america]],
 southeast Australia, New Zealand, and highland tropical areas.
 
 ## Natural Vegetation and Food Resources
@@ -87,7 +87,7 @@ Windbreak is essential for animal health and crop protection in all but the
 cooler inland and sheltered sites, and permanent forest edges must be
 developed both to retard fire and to prevent blowdown of single-age stands.
 Ideal forest-edge trees include oak, willow, blackwood ([[acacia-melanoxylon]]),
-Coprosma repens, poplar, hawthorn, alder, aspen, and birch.
+[[coprosma-repens-entity]], poplar, hawthorn, alder, aspen, and birch.
 
 On coasts, firs, cypress, Araucaria spp., Coprosma, waxberry (Myrica), and
 Lycium in snow-free areas provide frontline protection, with lower hedges of
@@ -108,7 +108,7 @@ escarpments capped by high plateaus, may be subject to severe winter frosts.
 In mountain foothills, frost can lie all day in winter on the shaded side of
 valley slopes. Frosts affect pasture and herbaceous plants by stopping growth
 or causing frost death by plant cell rupture. Many cool area farmers choose
-crop plants on the basis of frost-free days in the growing season, or (where
+crop plants on the basis of frost-free days in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], or (where
 frosts can occur in any month) by excluding from field culture any plant which
 is frost-susceptible over its growing season.
 
@@ -133,6 +133,6 @@ in tall forest are therefore chosen growing sites in frosty areas.
 
 ## See Also
 
-- [[frost-mechanics-radiation-protection]] — Detailed frost protection techniques
+- [[frost-mechanics-radiation-protection]] — Detailed [[holzer-frost-protection-techniques]]
 - [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]] — Windbreak species and design
 - [[cool-climate-settlement-design-mollison]] — Settlement siting in cool climates

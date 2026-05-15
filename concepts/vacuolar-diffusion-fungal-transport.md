@@ -1,5 +1,5 @@
 ---
-title: Vacuolar Diffusion and Intracellular Transport in Fungal Hyphae
+title: Vacuolar Diffusion and [[vacuolar-system-intracellular-transport-fungi]] in Fungal Hyphae
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In filamentous basidiomycete fungi, the **vacuolar system** serves as a major intracellular transport pathway for nutrient distribution across the mycelial network. Rather than relying solely on cytoplasmic streaming, these fungi utilize an extensive network of tubular and reticulate vacuoles that facilitate long-distance diffusion of metabolites and amino acids. This vacuolar transport system is fundamental to coordinating tip growth, branching patterns, and resource allocation in response to environmental nutrient gradients.
+In filamentous basidiomycete fungi, the **vacuolar system** serves as a major intracellular transport pathway for nutrient distribution across the mycelial network. Rather than relying solely on cytoplasmic streaming, these fungi utilize an extensive network of tubular and reticulate vacuoles that facilitate long-distance diffusion of metabolites and amino acids. This [[mycelial-nutrient-translocation-and-vacuolar-transport]] system is fundamental to coordinating tip growth, branching patterns, and [[mycelial-foraging-resource-allocation]] in response to environmental nutrient gradients.
 
 ## The Vacuolar System as a Transport Organelle
 
@@ -63,7 +63,7 @@ These simulations allow systematic variation of vacuolar parameters (tube diamet
 
 ## FRAP Measurements of Vacuolar Diffusivity
 
-**Fluorescence Recovery After Photobleaching (FRAP)** provides experimental validation of diffusion rates within vacuolar compartments:
+**[[fluorescence-recovery-after-photobleaching]] Photobleaching (FRAP)** provides experimental validation of diffusion rates within vacuolar compartments:
 
 - A region of the vacuole loaded with a fluorescent tracer (e.g., fluorescein-conjugated dextran) is bleached with a focused laser pulse.
 - The rate at which fluorescence recovers — as unbleached tracer molecules diffuse into the bleached zone — is measured over time.
@@ -110,7 +110,7 @@ This biphasic behavior is captured by **bi-logistic growth models**, which fit t
 
 $$R(t) = \frac{K_1}{1 + e^{-r_1(t - t_1)}} + \frac{K_2}{1 + e^{-r_2(t - t_2)}}$$
 
-where each component logistic describes a distinct growth phase with its own carrying capacity (*K*), growth rate (*r*), and inflection time (*t*). The bi-logistic model provides a significantly better fit than a single logistic for colonies exhibiting directional transitions, confirming the shift from symmetrical to asymmetric expansion.
+where each component logistic describes a distinct growth phase with its own [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] (*K*), growth rate (*r*), and inflection time (*t*). The bi-logistic model provides a significantly better fit than a single logistic for colonies exhibiting directional transitions, confirming the shift from symmetrical to asymmetric expansion.
 
 ## Statistical Analysis: Linear Mixed Effects Models
 
@@ -132,7 +132,7 @@ The vacuolar system in basidiomycete fungi represents a sophisticated intracellu
 
 ## See Also
 
-- [[mycelial-foraging-strategies-nutrient-translocation]] — How vacuolar transport capacity constrains and enables foraging behavior
+- [[mycelial-foraging-strategies-nutrient-translocation]] — How vacuolar transport capacity constrains and enables [[root-foraging-behavior]]
 - [[fungal-biology-fundamentals]] — Alternative transport mechanism operating alongside vacuolar diffusion
 - [[fungal-biology-fundamentals]] — Detailed classification of vacuolar forms and their biogenesis
 - [[isotopic-tracers-mycorrhizal-research]] — Broader context of radiotracer techniques in mycology

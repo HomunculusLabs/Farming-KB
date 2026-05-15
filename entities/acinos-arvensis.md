@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Conforti, F. et al. (2006). "Chemical composition and biological activities of Acinos arvensis." Journal of Food Biochemistry, 30(1), 1–12.
+  - Conforti, F. et al. (2006). "[[chemical-composition-of-hallucinogens]] and biological activities of Acinos arvensis." Journal of Food Biochemistry, 30(1), 1–12.
   - Formisano, C. et al. (2007). "Volatile constituents of Acinos arvensis from Italy." Journal of Chromatography A, 1170(1–2), 241–245.
   - Rosselli, S. et al. (2007). "Antibacterial and antifungal activity of Acinos arvensis permaculture-designers-manual-essential-oil-plants." Flavour and Fragrance Journal, 22(5), 398–401.
   - Tuttolomondo, T. et al. (2013). "[[childrens-herbal-medicine]]. Modern research has investigated its essential oil for antimicrobial and antioxidant properties.
@@ -77,7 +77,7 @@ Moderate antifungal activity has been reported against *[[aspergillus-niger]]*.
 ## Overview
 
 Acinos Arvensis represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Acinos Arvensis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,13 +106,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for acinos arvensis. Climate adaptation
+opportunities for acinos arvensis. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 acinos arvensis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

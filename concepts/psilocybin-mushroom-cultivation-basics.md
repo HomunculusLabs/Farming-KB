@@ -1,20 +1,20 @@
 ---
-title: Psilocybin Mushroom Cultivation Basics
+title: [[psilocybin-mushroom-cultivation]] Basics
 source: field-guide-to-the-psilocybin-mushroom.md
 type: concept
 ---
 
 # Psilocybin Mushroom Cultivation Basics
 
-This concept covers the fundamentals of cultivating psilocybin mushrooms, as described in F.C. Ghouled's 1972 *Field Guide to the Psilocybin Mushroom*. While the original guide emphasizes that wild specimens are so common that cultivation is largely unnecessary, it provides a foundational overview of the composting and cultivation process that informed later, more refined techniques like the PF Tek.
+This concept covers the fundamentals of cultivating [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]], as described in F.C. Ghouled's 1972 *Field Guide to the Psilocybin Mushroom*. While the original guide emphasizes that wild specimens are so common that cultivation is largely unnecessary, it provides a foundational overview of the composting and cultivation process that informed later, more refined techniques like the PF Tek.
 
 ## Why Cultivate?
 
-The author notes that because *Psilocybe cubensis* is so widely distributed and abundant across the southern United States, there is little practical need for cultivation. However, cultivation offers several advantages: year-round availability independent of seasonal conditions, controlled potency, privacy, and reliable supply. Cultivation also eliminates the legal risks associated with trespassing on private pastures to forage.
+The author notes that because *[[anemotropism-in-psilocybe-cubensis]]* is so widely distributed and abundant across the southern United States, there is little practical need for cultivation. However, cultivation offers several advantages: year-round availability independent of seasonal conditions, controlled potency, privacy, and reliable supply. Cultivation also eliminates the legal risks associated with trespassing on private pastures to forage.
 
 ## Compost Preparation
 
-Mushroom cultivation begins with preparing a suitable growing medium (compost). The traditional compost for *P. cubensis* cultivation is based on horse manure and wheat straw.
+Mushroom cultivation begins with preparing a suitable growing medium (compost). The [[query-what-is-the-difference-between-vermicompost-and-traditional-compost]] for *P. cubensis* cultivation is based on horse manure and wheat straw.
 
 ### Ingredients
 
@@ -41,7 +41,7 @@ The prepared compost must be inoculated with living mushroom mycelium, known as 
 1. **Enriched manure compost**: Horse manure is composted alone after enrichment with malt-extract sugar.
 2. **Shredding and packing**: The enriched compost is shredded and packed loosely into wide-mouth jars.
 3. **Inoculation**: Fresh cap tissue from the desired mushroom strain is placed into the jars.
-4. **Mycelial colonization**: The mycelium grows from the cap tissue, permeating the entire compost mass in the jar. This process is observed as a white, web-like growth "running" through the medium.
+4. **[[mycelial-colonization]]**: The mycelium grows from the cap tissue, permeating the entire compost mass in the jar. This process is observed as a white, web-like growth "running" through the medium.
 5. **Drying**: Once fully colonized, the spawn is removed from the jar and dried. The dried colonized compost is now called "spawn."
 
 ## Bed Construction
@@ -82,7 +82,7 @@ The field guide describes a basic extraction method:
 - **Indigenous reference dose**: 30 to 40 fresh *P. cubensis* per traditional Mazatec ceremony
 - **Dose-response**: Increasing dosage intensifies the experience rather than prolonging it
 
-Actual alkaloid concentration varies considerably depending on species, growing conditions, age at harvest, and preservation method. No fixed universal dosage figures can be stated.
+Actual [[abort-harvesting-alkaloid-concentration-pf-tek]] varies considerably depending on species, growing conditions, age at harvest, and preservation method. No fixed universal dosage figures can be stated.
 
 ## Recommended Reading
 

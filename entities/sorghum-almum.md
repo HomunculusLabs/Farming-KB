@@ -32,7 +32,7 @@ Sorghum almum, commonly known as silk sorghum or Columbus grass, is a robust per
 
 ### Perennial Forage Alternative
 
-Silk sorghum offers a perennial alternative to annual forage sorghums, eliminating the need for yearly reseeding. This permanence aligns with permaculture design principles that favor perennial systems over annual ones. Once established, a silk sorghum pasture can produce forage for 5+ years, reducing labor, seed costs, and soil disturbance.
+Silk sorghum offers a perennial alternative to annual forage sorghums, eliminating the need for yearly reseeding. This permanence aligns with [[permaculture-design-principles]] that favor perennial systems over annual ones. Once established, a silk sorghum pasture can produce forage for 5+ years, reducing labor, seed costs, and soil disturbance.
 
 ### Heavy Clay Soil Forage
 

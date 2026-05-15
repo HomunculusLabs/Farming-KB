@@ -12,7 +12,7 @@ created: 2026-05-08
 
 [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 centers on the observation that modern [[mckenna-food-gods-designer-states-of-consciousness]] that tryptamine compounds
-can produce. McKenna's firsthand experience with indigenous shamanic practices,
+can produce. McKenna's firsthand experience with indigenous [[jivaro-bewitching-and-curing-shamanic-practices]],
 particularly in the Amazon, informed his understanding of shamanism as a
 practical technology for exploring non-ordinary states of consciousness.
 
@@ -75,7 +75,7 @@ This accumulated pharmacological wisdom means that plants with a history
 ## Overview
 
 Shamanism In Tryptamine Context represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Shamanism In Tryptamine Context finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,13 +104,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for shamanism in tryptamine context. Climate adaptation
+opportunities for shamanism in tryptamine context. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 shamanism in tryptamine context and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

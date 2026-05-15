@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-[[clay-soil]] remediation refers to the strategies and techniques for making heavy clay soils productive for vegetable gardening. [[steve-solomon]] addresses clay soils as one of the most challenging garden substrates and provides a hierarchy of remediation approaches ranging from minimal amendments to importing topsoil. Solomon's perspective is notably pragmatic: he argues that heavily amending clay with organic matter is expensive, unsustainable, and nutritionally risky, and that importing loam topsoil is usually the better investment.
+[[clay-soil]] remediation refers to the strategies and techniques for making heavy clay soils productive for [[dryland-vegetable-gardening]]. [[steve-solomon]] addresses clay soils as one of the most challenging garden substrates and provides a hierarchy of [[combined-biological-remediation-approaches]] ranging from minimal amendments to importing topsoil. Solomon's perspective is notably pragmatic: he argues that heavily amending clay with organic matter is expensive, unsustainable, and nutritionally risky, and that importing loam topsoil is usually the better investment.
 
 ## Classification
 
@@ -18,7 +18,7 @@ type: entity
 
 - Clay soil is twice as heavy as loam per shovelful, making hand-digging extremely fatiguing.
 - Clay forms rock-hard clods if dug when too wet, and turns to dust if worked when too dry. There is a narrow moisture window for successful tillage.
-- Clay contains little air, restricting root growth and microbial activity essential for vegetable production.
+- Clay contains little air, restricting root growth and microbial activity essential for [[coleman-french-historical-winter-vegetable-production]].
 - **Cheap approach:** Spread 1 inch (2.5 cm) of compost or well-rotted manure plus 100 lb agricultural lime per 1,000 sq ft for the first year. Accept reduced yields and avoid root crops.
 - **Investment approach:** Import sandy loam topsoil and spread 12 inches (30 cm) deep over the clay, creating raised beds with loam topsoil over a clay subsoil.
 - Solomon spent approximately $1,200 to import 120 cubic yards of sandy loam for his garden on clay — and considers it the best garden investment he ever made.
@@ -49,8 +49,8 @@ Once clay has been capped with loam topsoil, annual management reduces to 2–3 
 
 ## Soil Health Context
 Understanding soil structure and management is essential for
-sustainable agriculture. Healthy soil provides the foundation
-for plant growth, water retention, and nutrient cycling.
+[[mushroom-cultivation-for-sustainable-agriculture]]. Healthy soil provides the foundation
+for plant growth, water retention, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 Proper soil management practices improve long-term productivity
 and reduce the need for external inputs.
 
@@ -72,7 +72,7 @@ in well-managed soil systems.
 Timing of soil management activities affects outcomes significantly.
 Spring and fall offer different conditions for soil work. Soil
 moisture levels must be appropriate for any tillage or amendment
-operations. Plan activities around weather patterns and crop
+operations. Plan activities around [[global-weather-patterns-and-atmospheric-engines]] crop
 rotations for best results.
 
 ## Additional Notes

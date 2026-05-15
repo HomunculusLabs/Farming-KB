@@ -1,5 +1,5 @@
 ---
-title: Mushroom Foraging Safety
+title: [[mushroom-foraging-safety-and-toxicology]]
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -14,7 +14,7 @@ Mushroom foraging is rewarding but carries genuine risks. Several mushroom speci
 ## The Golden Rules
 
 1. **Never eat a mushroom unless you are 100% certain of its identification.** If in doubt, throw it out.
-2. **Learn from experts.** Join a local mycological society, take guided walks, and study with experienced foragers.
+2. **Learn from experts.** Join a local [[british-mycological-society]], take guided walks, and study with experienced foragers.
 3. **Identify the mushroom, not just match pictures.** Consider habitat, season, substrate, cap features, gill structure, stem characteristics, spore print color, and bruising reactions.
 4. **When trying a new edible species for the first time, eat only a small amount and wait 24 hours.** Some people have individual sensitivities.
 5. **Keep a voucher specimen** of every mushroom you eat, in case identification needs to be confirmed later.
@@ -39,10 +39,10 @@ A small brown mushroom that grows on wood -- the same habitat as many edible spe
 
 | Edible Species | Deadly Lookalike | Key Differences |
 |---------------|-----------------|-----------------|
-| Paddy straw (Volvariella volvacea) | Death cap (A. phalloides) | Death cap has white gills and a volva; paddy straw has pink gills |
+| Paddy straw ([[paddy-straw-mushroom-volvariella-volvacea-cultivation]]) | Death cap (A. phalloides) | Death cap has white gills and a volva; paddy straw has pink gills |
 | Honey mushroom (Armillaria mellea) | Deadly galerina (G. marginata) | Galerina has a brown spore print; Armillaria has white spores |
 | Caesar's mushroom (Amanita caesarea) | Death cap | Careful attention to volva color, gill color, and spore print needed |
-| Chanterelle (Cantharellus cibarius) | Jack-o'-lantern (Omphalotus olearius) | Jack-o'-lantern has true gills; chanterelles have forked ridges |
+| Chanterelle ([[cantharellus-cibarius-entity]]) | Jack-o'-lantern ([[omphalotus-olearius]]) | Jack-o'-lantern has true gills; chanterelles have forked ridges |
 
 ## Spore Prints
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mushroom Foraging Safety finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Biodiversity, Edaphic Relations, and Environmental Adaptation
+title: Mycorrhizal Biodiversity, [[mycorrhizal-biodiversity-drought-tolerance-edaphic-relations]], and Environmental Adaptation
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -7,7 +7,7 @@ type: concept
 # Mycorrhizal Biodiversity, Edaphic Relations, and Environmental Adaptation
 
 [[mycorrhizal-fungal-diversity]] reflects a functional mosaic in which different taxa contribute
-differentially to plant nutrition, stress tolerance, and ecosystem resilience. The interactions
+differentially to plant nutrition, stress tolerance, [[fungal-rhizosphere-and-ecosystem-resilience]]. The interactions
 between mycorrhizal communities and their edaphic (soil) environment are shaped by soil chemistry,
 moisture regimes, disturbance history, and biotic interactions including faunal grazing. This
 concept page synthesizes key findings from Dighton's *Fungi in Ecosystem Processes* on how
@@ -67,7 +67,7 @@ mycorrhizal colonization doubled plant growth relative to loam-soil performance,
 that the fungal symbiosis can override edaphic limitations that would otherwise be prohibitive.
 
 On glacial outwash soils, Jumpponen et al. (1998) found that the root-endophytic fungus
-*Phialocephala fortinii* enhanced phosphate acquisition, illustrating that even non-mycorrhizal
+*[[phialocephala-fortinii]]* enhanced phosphate acquisition, illustrating that even non-mycorrhizal
 endophytes can perform mycorrhiza-like nutrient-scavenging functions in oligotrophic environments.
 
 ## Arbuscular Mycorrhizae and Drought Tolerance
@@ -100,7 +100,7 @@ on alkaloid profiles, host genetics, and environmental context.
 
 The boundary between mycorrhizal and saprotrophic fungi in promoting plant stress tolerance is
 permeable. Osonubi et al. (1990) demonstrated that the saprotrophic fungus *Chaetomium
-bostrychoides* increased both germination success and drought tolerance in *Gmelina arborea*, an
+bostrychoides* increased both germination success and drought tolerance in *[[gmelina-arborea]]*, an
 effect not attributable to mycorrhizal colonization. The saprotroph likely modified the
 rhizosphere through growth-promoting metabolites or pathogen suppression, complementing mycorrhizal
 functions during critical seedling establishment when mycorrhizal networks are not yet developed.
@@ -110,7 +110,7 @@ functions during critical seedling establishment when mycorrhizal networks are n
 Soil fauna modulate mycorrhizal efficiency through hyphal grazing, adding a trophic dimension to
 mycorrhizal ecology. Warnock et al. (1982) showed that collembola reduced AM fungal efficiency by
 consuming extraradical hyphal networks, diminishing the hyphal pathway for phosphorus transport
-to host plants. This grazing pressure can shift nutrient acquisition from the fungal to the
+to host plants. This [[gadd-mycelial-network-resilience-grazing-pressure]] can shift nutrient acquisition from the fungal to the
 decomposition-mediated pathway. Brussard et al. (2001) extended this by demonstrating that
 nematode grazing can alter plant competitive fitness by differentially affecting mycorrhizal
 associations of co-occurring species, integrating mycorrhizal ecology into broader [[soil-food-web]]
@@ -136,7 +136,7 @@ and efficiency of soil resource capture for the host plant community.
 The collective evidence underscores that mycorrhizal biodiversity is functionally significant at
 multiple scales. Different fungal taxa vary in nutrient acquisition capacity, drought protection,
 and stress tolerance, with these differences mediated by edaphic conditions, disturbance regimes,
-and trophic interactions. A diverse mycorrhizal community provides functional redundancy—ensuring
+and trophic interactions. A diverse mycorrhizal community provides [[functional-redundancy]]—ensuring
 critical processes continue if one species is lost—and complementarity, where different species
 specialize on different resources or conditions. Managing for mycorrhizal diversity is therefore
 a pragmatic strategy for sustaining ecosystem function amid climate intensification, habitat

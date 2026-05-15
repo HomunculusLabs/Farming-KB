@@ -68,15 +68,15 @@ flush. Harvest when caps are fully expanded but before margins curl upward.
 
 Stump cultivation fits naturally into [[oyster-mushroom-growing-house-design-site-selection-tropical-climates]]
 
-- stamets log culture — Conventional log-based mushroom cultivation
+- stamets log culture — Conventional log-based [[accessible-mushroom-cultivation-for-disabilities]]
 - mycological wood decay — Fungal ecology of wood decomposition
-- permaculture food forests — Design principles for integrated food production
+- [[nut-tree-cultivation-for-permaculture-food-forests]] — Design principles for integrated food production
 - medicinal mushroom species — Profiles of therapeutic mushroom species
 
 ## Overview
 
 Stamets Stump Platform Cultivation represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Stamets Stump Platform Cultivation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 stamets stump platform cultivation and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

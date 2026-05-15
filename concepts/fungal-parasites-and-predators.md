@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, biology, ecology, pest-control, pest-management, agriculture, species-profiles, microbes, entomopathogenic]
-sources: []
+sources:
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
 # Fungal Parasites and Predators

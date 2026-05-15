@@ -17,7 +17,7 @@ Several techniques can manage sativa height indoor [[landrace-cannabis-sativa-st
 - [[cannabis-strain-breeding-techniques]]
 ## Practical Applications
 
-Sativa vs Indica Growing Challenges has a range of practical applications that make it relevant to
+[[sativa-vs-indica]] Growing Challenges has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

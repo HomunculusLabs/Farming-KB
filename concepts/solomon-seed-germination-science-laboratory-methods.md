@@ -1,6 +1,6 @@
 # Seed Germination Science and Laboratory Methods
 
-**Source:** Gardening When It Counts — [[solomon-seed-sprouting-conditions-laboratory-germination-technique]] testing is standardized, accurate, and reproducible:
+**Source:** [[gardening-when-it-counts]] — [[solomon-seed-sprouting-conditions-laboratory-germination-technique]] testing is standardized, accurate, and reproducible:
 two different labs testing samples from the same seed bag should produce
 nearly identical results. The key is controlling moisture, temperature,
 oxygen, and media sterility to match laboratory conditions as closely as
@@ -44,7 +44,7 @@ several important ways from the sterile, controlled lab environment:
    seedlings. Damping-off fungi thrive in cool, wet field conditions but are
    absent from sterile lab media.
 
-2. **Temperature variability**: Outdoor soil temperature fluctuates and is
+2. **Temperature variability**: Outdoor [[soil-temperature]] fluctuates and is
    often colder than the species optimum. Seeds sown too early sit in chilled
    soil where germination is slow and vulnerability to pathogens is high.
 
@@ -52,7 +52,7 @@ several important ways from the sterile, controlled lab environment:
    Surface layers dry between rains, and deeper layers may be waterlogged.
 
 4. **Physical impedance**: Soil crusts, clods, and compacted layers can
-   physically block seedling emergence even when germination occurs.
+   physically block [[watering-and-seedling-emergence]] even when germination occurs.
 
 Despite these differences, laboratory germination percentages correlate
 linearly with field emergence. If two lots of cabbage seed show 95% and 78%
@@ -121,7 +121,7 @@ A germination rate below 80% for most vegetables suggests declining vigor.
   onions, carrots, parsnips — wait for 50°F minimum soil temperature
 - **Warm-season** (65-85°F / 18-29°C): tomatoes, peppers, eggplant, beans,
   corn, cucurbits — never sow until soil is thoroughly warm
-- **Heat-loving** (75-95°F / 24-35°C): sweet potatoes, melons, okra — demand
+- **Heat-loving** (75-95°F / 24-35°C): [[growing-sweet-potatoes]], melons, okra — demand
   warm soil and are severely set back by cool conditions
 
 ## See Also

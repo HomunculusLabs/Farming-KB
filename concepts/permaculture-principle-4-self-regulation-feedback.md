@@ -1,14 +1,14 @@
 ---
-title: Permaculture Principle 4 Apply Self-Regulation and Accept Feedback
+title: [[permaculture-principle-1-observe-interact]] 4 Apply Self-Regulation and Accept Feedback
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
 # Permaculture Principle 4: Apply Self-Regulation and Accept Feedback
 
-*"The sins of the fathers are visited on the children unto the seventh generation"*
+*"The sins of the fathers are visited on the children unto the [[seventh-generation-principle-mollison]]"*
 
-This principle deals with self-regulatory aspects of [[permaculture-design]] that limit or discourage inappropriate growth or behavior. With better understanding of how positive and negative feedbacks work in nature, we can design systems that are more self-regulating, reducing the need for harsh corrective management. Self-maintaining and regulating systems might be said to be the Holy Grail of [[permaculture]].
+This principle deals with self-regulatory aspects of [[permaculture-design]] that limit or discourage inappropriate growth or behavior. With better understanding of how positive and negative feedbacks work in nature, we can design systems that are more self-regulating, reducing the need for harsh corrective management. Self-maintaining and regulating systems might be said to be the [[amanita-muscaria-holy-grail-theory-detailed]] of [[permaculture]].
 
 ## Feedback Systems
 
@@ -39,7 +39,7 @@ Predators, pests, and diseases control particular species while providing a serv
 
 ### The Cancer Analogy
 
-Cells within an organism that grow and reproduce without control can be fatal — we call this cancer. Similarly, at all levels of nature including ecosystems and the living planet, the larger system controls its constituent parts for the good of that system. A hierarchy of large-scale controls flows back down the energy hierarchy to constrain exuberant smaller-scale systems.
+Cells within an organism that grow and reproduce without control can be fatal — we call this cancer. Similarly, at all levels of nature including ecosystems and the living planet, the larger system controls its constituent parts for the good of that system. A hierarchy of large-scale controls flows back down the [[holmgren-trophic-pyramid-energy-hierarchy-societies]] to constrain exuberant smaller-scale systems.
 
 ### Life Sciences Lag
 

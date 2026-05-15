@@ -15,8 +15,8 @@ tags:
 ## Description
 
 Acremonium coenophialum (now reclassified as Epichloe coenophiala) is a fungal
-endophyte systemically associated with tall fescue (Festuca arundinacea, now
-Schedonorus arundinaceus). Along with Acremonium lolii in ryegrass, A.
+endophyte systemically associated with tall fescue ([[festuca-arundinacea]], now
+Schedonorus arundinaceus). Along with [[acremonium-lolii]] in ryegrass, A.
 coenophialum is one of the two most economically important grass endophytes
 worldwide. It produces ergot alkaloids (particularly ergovaline) that cause
 fescue toxicosis in grazing livestock, while simultaneously protecting host
@@ -94,3 +94,8 @@ plants from insect herbivory through multiple alkaloid classes.
   pest management.
 - Wilson, D. (1993). Fungal endophytes. Oikos, 68, 379-383.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+## See also
+
+- [[neotyphodium]]
+- [[epichloe]]
+- [[clavicipitales]]

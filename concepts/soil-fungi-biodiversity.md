@@ -1,7 +1,7 @@
 ---
 created: 2026-04-12
 source: biodiversity-of-fungi (Hyde et al. Chs. 4-5, Bills/Christensen/Widden)
-sources: []
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 tags:
 - soil-fungi
 - biodiversity

@@ -43,7 +43,7 @@ Larger worm that is both a composter and a bait worm.
 ### Perionyx excavatus (Indian Blue Worm)
 Tropical species that processes waste quickly but is sensitive to temperature fluctuations. Not recommended for beginners or cooler climates.
 
-**Recommendation**: Start with Eisenia fetida (red wigglers). They are the most forgiving, widely available, and efficient composters.
+**Recommendation**: Start with [[eisenia-fetida]] (red wigglers). They are the most forgiving, widely available, and efficient composters.
 
 ## Bin Setup
 

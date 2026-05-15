@@ -1,5 +1,5 @@
 ---
-title: "mckenna fungal fossil gap spore electron density and metal hardness Gap, Spore Electron Density, and the Metal-Hardness Anomaly"
+title: "mckenna fungal fossil gap [[stropharia-cubensis-spore-electron-density-interstellar-survival]] and metal hardness Gap, Spore Electron Density, and the Metal-Hardness Anomaly"
 source: "mckenna-tryptamine-hallucinogens-and-consciousness and Consciousness (Esalen, 1983)"
 topic: "panspermia-fungi"
 tags:
@@ -69,7 +69,7 @@ biological solution to ultraviolet shielding that organic evolution on Earth,
 where surface UV is relatively modest, would have no particular reason to
 produce. The color is, in McKenna's framing, a signature of extraterrestrial
 adaptation: the color a spore would need to be to cross the void between
-stars, where UV flux is orders of magnitude greater than at any planetary
+stars, where UV flux is [[event-classification-and-orders-of-magnitude]] greater than at any planetary
 surface protected by atmosphere and magnetic field.
 
 ## Brownian Motion and Atmospheric Percolation
@@ -77,7 +77,7 @@ surface protected by atmosphere and magnetic field.
 ## Overview
 
 Mckenna Fungal Fossil Gap Spore Electron Density And Metal Hardness represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mckenna Fungal Fossil Gap Spore Electron Density And Metal Hardness finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,7 +106,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mckenna fungal fossil gap spore electron density and metal hardness and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

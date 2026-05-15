@@ -16,12 +16,12 @@ fundamentally different purposes. Mullein is the quintessential respiratory
 remedy, prized for its ability to soothe coughs, clear congestion, and support
 lung health. Chamomile is the archetypal calming herb, celebrated for its
 gentle sedative, digestive, and anti-inflammatory properties. Comparing them
-reveals contrasting therapeutic profiles, growth habits, and roles in both the
+reveals contrasting [[cannabis-sativa-vs-indica-therapeutic-profiles]], growth habits, and roles in both the
 home apothecary and the permaculture garden.
 
 ## Mullein
 
-Mullein (*Verbascum thapsus*) is a tall biennial in the figwort family that
+Mullein (*[[verbascum-thapsus]]*) is a tall biennial in the figwort family that
 produces a distinctive woolly rosette in its first year and an imposing flower
 spike reaching 2 meters or more in its second year. Every part of the plant is
 covered in soft, felt-like hairs, earning it folk names like "flannel plant"
@@ -53,7 +53,7 @@ Chamomile's medicinal reputation rests on four key compounds: chamazulene,
 which gives German chamomile oil its distinctive blue color and provides
 potent anti-inflammatory action; apigenin, a flavonoid that binds GABA
 receptors to promote calmness and sleep; bisabolol, with anti-inflammatory
-and antimicrobial properties; and a range of supporting flavonoids. Together
+and [[medicinal-mushroom-antimicrobial-properties]]; and a range of supporting flavonoids. Together
 these make chamomile effective for relaxation and sleep support, digestive
 complaints including gas and bloating, topical inflammation and skin
 conditions, menstrual cramp relief, and mild immune support.
@@ -76,7 +76,7 @@ repel certain pests when planted near vegetables.
 | **Preparation** | Tea, tincture, oil, smoke | Tea, tincture, essential oil, compress |
 | **Growth habit** | Tall, solitary spike | Bushy or creeping |
 | **Soil preference** | Disturbed, poor soils tolerated | Light, well-drained, sandy |
-| **Ecological role** | Dynamic accumulator, pioneer | Ground cover, pollinator plant |
+| **Ecological role** | [[comparison-hyperaccumulator-vs-dynamic-accumulator]], pioneer | Ground cover, pollinator plant |
 | **Propagation** | Seed (needs light to germinate) | Seed, division, cuttings |
 | **Hardiness** | Very hardy, widespread | German: annual; Roman: zones 4-9 |
 
@@ -85,9 +85,9 @@ repel certain pests when planted near vegetables.
 Mullein is the clear choice when respiratory symptoms are the primary concern.
 Its demulcent and expectorant properties make it ideal for dry, hacking coughs,
 productive coughs with thick mucus, bronchial irritation from colds or flu,
-and chronic respiratory conditions. The flower oil preparation is specifically
+and chronic [[cannabis-respiratory-conditions]]. The flower oil preparation is specifically
 indicated for ear infections, a use that chamomile does not address. Mullein
-is also the better option when you need a [[dynamic-accumulator-chop-and-drop-mulching| chop-and-drop mulching]] strategies. In permaculture design, mullein fills the
+is also the better option when you need a [[dynamic-accumulator-chop-and-drop-mulching| chop-and-drop mulching]] strategies. [[ecological-succession-in-permaculture-design]], mullein fills the
 role of a pioneer species and soil breaker on compacted or degraded land.
 
 ## When to Choose Chamomile

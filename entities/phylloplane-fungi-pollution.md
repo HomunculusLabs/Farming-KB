@@ -14,7 +14,7 @@ Phylloplane (leaf surface) fungi are a diverse community of saprotrophic, endoph
 
 - **Category:** Ecological interaction / fungal habitat
 - **Habitat:** Living leaf surfaces (phyllosphere)
-- **Fungal groups:** Saprotrophic fungi, endophytes, weak pathogens, yeasts
+- **Fungal groups:** [[saprotrophic-fungi]], endophytes, weak pathogens, yeasts
 - **Key pollutants:** SO2, O3, acid mist (H2SO4:HNO3)
 
 ## Key Facts
@@ -97,3 +97,8 @@ Lichens (fungal-algal symbioses) are among the most pollution-sensitive organism
 - Newsham et al. (1992a,b); Dursun et al. (1996a,b)
 - Shaw (1996); Brown (1996); Richardson (1988)
 - McLeod et al. (1992); McLeod (1995)
+## See also
+
+- [[acidifying-pollutants-mycorrhizae-plant-nutrition]]
+- [[epicoccum-nigrum]]
+- [[fungal-plant-diseases]]

@@ -10,7 +10,7 @@ type: concept
 
 # Palmer on Mushroom vs Toadstool Terminology
 
-Julius Auboineau Palmer devoted considerable effort throughout his writings
+[[julius-auboineau-palmer]] devoted considerable effort throughout his writings
 to correcting what he called the most fundamental error in popular
 understanding of fungi: the idea that "mushrooms" and "toadstools" are
 two different kinds of organisms. In his view, this misconception lay at
@@ -34,7 +34,7 @@ Palmer traced the confusion to the fact that only one variety of fungus
 - [[palmer-toadstool-poisoning-cases]]
 ## Practical Applications
 
-Palmer on Mushroom vs Toadstool Terminology has a range of practical applications that make it relevant to
+Palmer on [[mushroom-vs-toadstool-terminology]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

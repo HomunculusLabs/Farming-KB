@@ -50,13 +50,13 @@ Cannabimovone is believed to arise through oxidative rearrangement of cannabinol
 
 The proposed biosynthetic pathway involves allylic oxidation at the C-10 position followed by a Wagner-Meerwein rearrangement of the cyclohexene ring. This rearrangement is distinct from the simple aromatization pathway that converts THCA to CBNA.
 
-The low natural abundance (typically <0.01% of total cannabinoid content) suggests that this rearrangement is a minor side-reaction rather than a primary metabolic pathway. Different cannabis chemotypes produce varying amounts, with some fiber hemp varieties showing detectable levels.
+The low natural abundance (typically <0.01% of total cannabinoid content) suggests that this rearrangement is a minor side-reaction rather than a primary [[gluconeogenesis-biochemistry-metabolic-pathway]]. Different cannabis chemotypes produce varying amounts, with some fiber hemp varieties showing detectable levels.
 
 ## Pharmacology
 
 Cannabimovone has undergone minimal pharmacological characterization. No published [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to CBN (both are oxidized cannabinoid derivatives) suggests potential weak CB₁/CB₂ affinity, but this has not been experimentally confirmed. The rearranged skeleton may significantly alter receptor interaction profiles.
 
-In the broader context of minor cannabinoids, many structurally unique compounds show activity at orphan GPCRs, PPAR receptors, or nuclear hormone receptors rather than classical cannabinoid receptors. This remains speculative for cannabimovone specifically.
+In the broader context of minor cannabinoids, many structurally unique compounds show activity at orphan GPCRs, PPAR receptors, or nuclear hormone receptors rather than classical [[cannabinoid-receptors-cb1-cb2]]. This remains speculative for cannabimovone specifically.
 
 The compound has not been evaluated in any published in vivo studies, animal models, or [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and pathogen attack may increase production of oxidized cannabinoid derivatives including cannabimovone, though systematic studies are lacking.
 
@@ -64,9 +64,9 @@ The compound has not been identified as a significant metabolite in any commerci
 
 ## Legal Status
 
-As a naturally occurring phytocannabinoid with no psychoactive effects documented, cannabimovone is not individually scheduled under the UN Convention on Psychotropic Substances or the US Controlled Substances Act.
+As a naturally occurring phytocannabinoid with no psychoactive effects documented, cannabimovone is not individually scheduled under the UN Convention on Psychotropic Substances or the US [[controlled-substances-act-and-psychedelic-research]].
 
-In jurisdictions where cannabis is regulated, it would fall under the general regulatory framework for cannabis-derived compounds. The legal status of individual minor cannabinoids varies significantly by jurisdiction.
+In jurisdictions where cannabis is regulated, it would fall under the general [[mycoremediation-regulatory-framework]] for cannabis-derived compounds. The legal status of individual minor cannabinoids varies significantly by jurisdiction.
 
 ## Overview
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cannabimovone finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cannabimovone and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

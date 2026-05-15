@@ -1,5 +1,5 @@
 ---
-title: Plant plant macronutrient functions nitrogen phosphorus potassium Nitrogen solomon-phosphorus-potassium-and-secondary-nutrients
+title: Plant [[plant-macronutrient-functions]] nitrogen [[soil-phosphorus-potassium-calcium-and-micronutrient-management]] Nitrogen solomon-phosphorus-potassium-and-secondary-nutrients
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -33,7 +33,7 @@ Phosphorus is critical for energy transfer, genetic coding, and membrane integri
 
 ### Key Roles
 
-- **ATP (Adenosine Triphosphate)**: Two phosphate-to-phosphate bonds store and release energy. Without phosphorus, there is no energy currency for the cell.
+- **ATP ([[adenosine-triphosphate-and-cellular-energy]])**: Two phosphate-to-phosphate bonds store and release energy. Without phosphorus, there is no energy currency for the cell.
 - **DNA and RNA**: Phosphorus is a structural component of nucleotides
 - **Phospholipids**: Major component of cell membranes, essential for the cellular gate-keeping system
 - **Starch formation**: Required for converting and storing sugars from photosynthesis
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Plant Macronutrient Functions Nitrogen Phosphorus Potassium finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -122,8 +122,8 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-plant macronutrient functions nitrogen phosphorus potassium and its applications. Active investigation
-areas include ecological interactions and optimization.
+plant macronutrient functions nitrogen [[solomon-phosphorus-potassium-and-secondary-nutrients]] its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

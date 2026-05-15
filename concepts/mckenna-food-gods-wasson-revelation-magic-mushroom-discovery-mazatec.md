@@ -62,7 +62,7 @@ to participate in a [[terence-mckenna]] culture. It demonstrated
 that indigenous societies had preserved sophisticated psychoactive
 plant knowledge — knowledge that modern science had entirely
 overlooked. It catalyzed the scientific study of psilocybin, leading
-to decades of psychiatric research. It also raised enduring questions
+to decades of [[hofmann-lsd-psychiatric-research]]. It also raised enduring questions
 about the responsibilities of ethnographers toward the communities
 they study, the tension between scientific openness and cultural
 preservation, and the costs of bringing sacred knowledge into the
@@ -78,8 +78,8 @@ with consequences both liberating and devastating.
 
 ## Overview
 
-Mckenna Food Gods Wasson Revelation Magic Mushroom Discovery Mazatec represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+Mckenna Food Gods Wasson Revelation [[london-underground-and-british-magic-mushroom-discovery]] Mazatec represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mckenna Food Gods Wasson Revelation Magic Mushroom Discovery Mazatec finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -108,7 +108,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mckenna food gods wasson revelation magic mushroom discovery mazatec and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

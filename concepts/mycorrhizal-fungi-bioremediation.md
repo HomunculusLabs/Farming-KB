@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources: []
+sources:
+  - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 # Mycorrhizal Fungi in Bioremediation Mycorrhizal fungi -- symbiotic associations between fungi and plant roots -- represent a potentially economical approach to white-rot-fungi-effluent-decolorization for pollutant degradation, mycorrhizal systems offer unique advantages through their direct connection to plant metabolism and their ability to support associated microbial communities. ## Why Mycorrhizas for Bioremediation? The practical appeal of mycorrhizal bioremediation lies in economics and scale: - **Low cost** -- mycorrhizal associations may provide "an economically attractive alternative to more engineered bioremediation methods" - **Large area treatment** -- suited for agricultural land and other sites where "very large amounts of soil need to be remediated" - **Time flexibility** -- applicable "if time is not an important issue" - **Integration with phytoremediation** -- mycorrhizas enhance plant establishment and survival on contaminated sites ## Ectomycorrhizal Fungi Ectomycorrhizal (ECM) fungi have shown the most promise for organic pollutant degradation: ### Degradative Capabilities - At least one ectomycorrhizal fungus has demonstrated [[ligninolytic-enzymes-bioremediation]]
 - ECM fungi can transform atrazine, 2,4-dichlorophenoxyacetic acid (2,4-D), TNT, and 2,4-dichlorophenol

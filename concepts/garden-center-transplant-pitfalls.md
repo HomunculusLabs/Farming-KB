@@ -55,7 +55,7 @@ This is one quality issue the buyer can actually see before purchasing. The spec
 ### Too Young
 - Root system has not filled the pot
 - The soil ball will not hold together during transplanting
-- So much damage may be done to delicate root hairs that the seedling will not grow well for a week to ten days
+- So much damage may be done to delicate [[root-hairs]] that the seedling will not grow well for a week to ten days
 - This is one reason directly seeded plants often outgrow transplants
 
 ### Just Right

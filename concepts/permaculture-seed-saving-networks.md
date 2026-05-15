@@ -84,7 +84,7 @@ Seed libraries are community collections where members can borrow seeds, grow pl
 2. Members "check out" seeds for planting
 3. Members grow plants and save seeds from the healthiest individuals
 4. Members return a portion of saved seeds to the library
-5. The library maintains the collection and provides education on seed saving techniques
+5. The library maintains the collection and provides education on [[seed-saving-techniques]]
 
 ### Hosting Models
 - **Public libraries** — many public libraries host seed collections as a community service

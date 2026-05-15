@@ -6,13 +6,13 @@ In his 1983 Esalen lecture "[[tryptamine]] [[shulgin-gamma-dom-positional-isomer
 
 Shulgin's systematic exploration of phenethylamines and tryptamines, documented in PiHKAL and TiHKAL, provided exhaustive evidence for this phenomenon.
 
-Compounds separated by trivial structural differences — sometimes differing only in the position of a single substituent on an aromatic ring — could produce wildly different qualitative experiences, different potencies spanning several orders of magnitude, or no activity whatsoever.
+Compounds separated by trivial structural differences — sometimes differing only in the position of a single substituent on an aromatic ring — could produce wildly different qualitative experiences, different potencies spanning several [[event-classification-and-orders-of-magnitude]], or no activity whatsoever.
 
 This extreme sensitivity of subjective consciousness to molecular structure is, for McKenna, not merely a pharmacological curiosity but a window into the fundamental nature of the mind-matter relationship.
 
 McKenna described this as "perfect proof of the dynamic linkage at the formative level between quantum mechanically described matter and mind."
 
-The reasoning proceeds as follows: if consciousness were an emergent property of classical neural computation alone, one might expect a more graded, less discontinuous relationship between molecular structure and subjective experience.
+The reasoning proceeds as follows: if consciousness were an emergent property of classical neural computation alone, one might expect a more graded, less discontinuous relationship between molecular structure and [[dosage-unpredictability-psilocybin-subjective-experience]].
 
 Instead, what is observed is a relationship that suggests the quantum mechanical properties of the molecule itself — its electron distribution, its conformational dynamics, its interaction with [[glossolalia-and-altered-states]] of consciousness.
 
@@ -26,7 +26,7 @@ The implication is that consciousness itself may have quantum mechanical propert
 
 McKenna positioned this argument within a broader tradition of quantum consciousness theories, including those of David Bohm (implicate order), Roger Penrose and Stuart Hameroff (orchestrated objective reduction), and Evan Harris Walker (quantum mechanical tunneling at synaptic clefts).
 
-While McKenna did not endorse any specific formal model, he saw psychedelic experience as empirical evidence that such a quantum mechanical interface exists and is accessible to direct experience.
+While McKenna did not endorse any specific formal model, he saw [[leary-psychedelic-experience-bardo-mapping]] as empirical evidence that such a quantum mechanical interface exists and is accessible to direct experience.
 
 The psychedelic experience, in McKenna's view, functions as a kind of phenomenological probe — a tool for investigating the quantum mechanical substrate of consciousness that is more direct and informative than any particle accelerator or double-slit apparatus.
 
@@ -36,7 +36,7 @@ McKenna identified dreams and hallucinations as the major quantum mechanical phe
 
 This framing was deliberately provocative.
 
-Most people associate quantum mechanics with particle accelerators, double-slit experiments, and the exotic behavior of subatomic particles.
+Most people associate [[quantum-mechanics-fundamentals]] with particle accelerators, double-slit experiments, and the exotic behavior of subatomic particles.
 
 McKenna argued that the most intimate and universal quantum mechanical phenomena are the contents of our own minds — the vivid, three-dimensional, informationally rich worlds of dreams, the transformative visions of the psychedelic experience, and even the ordinary stream of conscious awareness.
 
@@ -54,7 +54,7 @@ The quantum mechanical hallucinogenesis argument has several important implicati
 
 First, it suggests that the "hard problem" of consciousness — the question of how physical matter gives rise to subjective experience — cannot be solved within a purely classical framework.
 
-Second, it implies that the study of psychedelic compounds is not merely pharmacological recreation but a legitimate and potentially revolutionary method for investigating the fundamental nature of consciousness.
+Second, it implies that the study of psychedelic compounds is not merely pharmacological recreation but a legitimate and potentially revolutionary method for investigating the fundamental [[tryptamine-hallucinogens-and-nature-of-consciousness]].
 
 Third, it provides a framework for understanding why subjective experience is so exquisitely sensitive to molecular structure: because the interface between matter and mind operates at the quantum mechanical level, where small perturbations can produce large qualitative effects.
 
@@ -80,7 +80,7 @@ Where other theorists relied on mathematical formalism and theoretical argumenta
 
 ## See Also
 
-- tryptamine structure activity relationships
+- tryptamine [[lsd-structure-activity-relationships-related-compounds]]
 - quantum consciousness theories
 - smythies transmethylation hypothesis
 - shulgin phenethylamine research

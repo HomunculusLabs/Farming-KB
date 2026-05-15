@@ -12,7 +12,7 @@ type: concept
   signals between plants.
 - **Soil health**: Saprotrophic fungal networks decompose [[plant-fungal-signaling-mycorrhiza]], mapping network architecture using X-ray CT
 scanning and microfluidic models, and exploring the computational properties
-of mycelial networks for bio-inspired computing applications.
+of [[mycelial-networks]] for bio-inspired computing applications.
 
 ## See Also
 

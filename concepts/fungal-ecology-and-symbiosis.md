@@ -10,7 +10,7 @@ source: Nicholas P. Money - Mr. Bloomfield's Orchard
 
 Fungi are among the most ecologically important organisms on Earth, playing
 essential roles as decomposers, mutualists, and parasites in virtually every
-terrestrial and aquatic ecosystem. Their ecological significance far
+terrestrial and aquatic ecosystem. Their [[lichen-biology-and-ecological-significance]] far
 exceeds their visibility — while most people notice fungi only when they
 produce fruiting bodies, the vast mycelial networks that permeate soil,
 wood, and living tissue are continuously shaping the structure and function
@@ -31,7 +31,7 @@ primarily decompose cellulose, leaving behind a brown, crumbly residue of
 modified lignin. These different decomposition strategies have profound
 effects on soil formation, carbon cycling, [[ectomycorrhizal-associations]], common in forest trees, the fungus forms
 a sheath around the root tips and extends hyphae into the soil but does not
-penetrate the root cells. In arbuscular mycorrhizal associations, common in
+penetrate the root cells. In arbuscular [[plants-without-mycorrhizal-associations]], common in
 grasses and many crops, fungal hyphae penetrate root cells and form
 branched structures called arbuscules where nutrient exchange occurs.
 
@@ -72,7 +72,7 @@ applications, making them a subject of active research in drug discovery.
 
 ## Fungal Parasites and Pathogens
 
-Not all fungal interactions with other organisms are benign or beneficial.
+Not all [[fungal-interactions-with-humans]] other organisms are benign or beneficial.
 Fungal parasites and pathogens cause some of the most devastating diseases
 in agriculture, forestry, and human health. Plant diseases caused by fungi
 include wheat rust (Puccinia graminis), rice blast (Magnaporthe oryzae),
@@ -87,7 +87,7 @@ demanding species to establish, and the dead wood provides habitat for
 numerous other organisms. In this sense, even pathogenic fungi contribute
 to ecosystem health and resilience.
 
-Human fungal pathogens include Candida, Aspergillus, Cryptococcus, and
+[[human-fungal-pathogens]] include Candida, Aspergillus, Cryptococcus, and
 Histoplasma, causing infections from superficial skin conditions to
 life-threatening systemic disease. The rise of immunocompromised populations
 has made fungal infections an increasingly important medical concern.
@@ -110,7 +110,7 @@ Fungi colonize human-built environments with remarkable efficiency. They
 grow on building materials, food, clothing, and virtually any organic
 surface. While most of these fungi are harmless or merely annoying, some
 produce mycotoxins that contaminate food and indoor air. The economics of
-fungal damage — from crop losses to building deterioration to food
+fungal damage — from crop losses to [[indoor-wood-decay-fungi-building-deterioration]] to food
 spoilage — runs into hundreds of billions of dollars annually worldwide.
 
 Understanding fungal ecology is essential for managing these interactions,
@@ -121,4 +121,4 @@ in biotechnology and environmental remediation.
 ## See Also
 
 - [[ingolds-spore-dispersal-research]]
-- history of mycology
+- [[bloomfield-history-of-mycology-pioneers]]

@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Effects On Plant Community Composition
+title: Mycorrhizal Effects On [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]
 created: 2026-04-16
 updated: 2026-05-09
 type: concept
@@ -37,7 +37,7 @@ communities toward less mycorrhizal-dependent species.
 
 ### Modified Bacterial Communities
 
-Mycorrhizal colonization modifies the bacterial community in the
+[[mycorrhizal-colonization-thresholds]] modifies the bacterial community in the
 rhizosphere, creating distinct microbial habitats that can favor
 certain plant species over others. The hyphosphere -- the zone of
 influence around individual hyphae -- harbors bacterial communities
@@ -78,7 +78,7 @@ species, driving predictable shifts in plant community composition.
 ## Overview
 
 Mycorrhizal Effects On Plant Community Composition represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mycorrhizal Effects On Plant Community Composition finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,7 +107,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mycorrhizal effects on plant community composition and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

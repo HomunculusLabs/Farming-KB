@@ -28,7 +28,7 @@ Englished.
 
 ## Glossolalia and the Assembly Language of Mind
 
-One of the most striking features of the tryptamine Logos is its capacity
+One of the most striking features of the [[tryptamine-logos]] is its capacity
 to induce glossolalia — spontaneous vocalization in an unknown language. This
 is not classical glossolalia of the kind studied in Pentecostal churches,
 where practitioners speak in tongues and afterward ask those nearby, "Did I do

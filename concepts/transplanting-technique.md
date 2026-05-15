@@ -6,7 +6,7 @@ type: concept
 
 # Transplanting Technique
 
-Proper transplanting technique can make the difference between seedlings that stall for weeks and seedlings that take off immediately. The key is creating a seamless connection between the seedling's root ball and the surrounding garden soil, eliminating the transplant shock that sets most garden center purchases back by days or even weeks.
+Proper transplanting technique can make the difference between seedlings that stall for weeks and seedlings that take off immediately. The key is creating a seamless connection between the seedling's root ball and the surrounding garden soil, eliminating the [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] that sets most garden center purchases back by days or even weeks.
 
 ## The Goal: Zero Setback
 
@@ -37,7 +37,7 @@ This is the critical step that eliminates transplant shock:
 
 ### Materials Needed
 
-- One bucket of full-strength liquid fertilizer (or compost/manure tea)
+- One bucket of full-strength [[comfrey-tea-liquid-fertilizer]] (or compost/manure tea)
 - One quart jar or tin can
 - Loose soil for refilling
 
@@ -52,7 +52,7 @@ This is the critical step that eliminates transplant shock:
 
 ### Why This Works
 
-The muddy slurry creates a tight connection between the seedling's roots and the surrounding soil. There are no air gaps, no dry zones, and no abrupt transitions between potting mix and garden soil. The roots can immediately begin drawing moisture and nutrients from the surrounding soil.
+The muddy slurry creates a tight connection between the seedling's roots and the surrounding soil. There are no air gaps, no dry zones, and no abrupt transitions between [[solomon-potting-mix-and-seedling-soil-recipe]] garden soil. The roots can immediately begin drawing moisture and nutrients from the surrounding soil.
 
 ### Results
 
@@ -78,7 +78,7 @@ Seedlings raised indoors need gradual exposure to outdoor conditions:
 
 - Thicker stems
 - Darker green leaves
-- Compact growth (not leggy)
+- [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] (not leggy)
 - Slight reduction in leaf size compared to greenhouse-grown plants
 
 ### What Happens Without Hardening Off
@@ -101,7 +101,7 @@ Unhardened seedlings face cascading shocks when planted directly from indoor con
 
 ### Timing by Weather
 
-- **Soil temperature**: Most warm-season transplants need soil above 60°F (15°C) to grow
+- **[[soil-temperature]]**: Most warm-season transplants need soil above 60°F (15°C) to grow
 - **Air temperature**: No benefit to putting warm-season crops out before the last frost date unless using protection
 - **Overcast days**: Ideal for transplanting — reduced sun stress
 - **Cool, calm evenings**: Best time of day to set out transplants
@@ -120,7 +120,7 @@ Unhardened seedlings face cascading shocks when planted directly from indoor con
 - **Corn**: Root system is badly shocked by transplanting
 - **Peas and beans**: Germinate quickly from seed and resent root disturbance
 - **Lettuce and most greens**: Direct seeding produces better results with less effort
-- **Cabbage family**: Direct seeding with succession planting provides continuous harvest without the all-at-once problem of purchased transplants
+- **[[cabbage-family-pests]]**: Direct seeding with [[coleman-succession-planting]] provides continuous harvest without the all-at-once problem of purchased transplants
 
 ### The Succession Planting Alternative
 

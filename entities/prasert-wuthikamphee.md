@@ -9,7 +9,7 @@ type: entity
 ## Description
 
 Prasert Wuthikamphee is a Thai agricultural expert from the Ministry of Agriculture and Cooperatives who served as one of two national consultants for the FAO TCP/THA/8821(A) project on mushroom production training [[fukuoka-critique-agricultural-science-laws-liebig]] with practical [[substrate-bag-preparation]], three [[mushroom-cultivation-for-disabilities-training-program]] People with Disabilities — A Training Manual"
-- TCP/THA/8821(A): Mushroom Production Training for Disabled People project, Thailand
+- TCP/THA/8821(A): Mushroom Production Training [[holzer-lebenshilfe-permaculture-project-for-disabled-people]] project, Thailand
 
 ## Project Role
 
@@ -40,8 +40,8 @@ That attention to procedure is one reason the FAO manual remains useful as a tea
 
 ## Mycology Context
 
-The project treated mushroom cultivation as applied biology, sanitation practice, and livelihood design at the same time.
-Spawn quality, substrate preparation, incubation conditions, and harvest timing all had to be reliable before marketing or processing could succeed.
+The project treated [[mushroom-cultivation]] as applied biology, sanitation practice, and livelihood design at the same time.
+Spawn quality, [[bulk-substrate-preparation]], incubation conditions, and harvest timing all had to be reliable before marketing or processing could succeed.
 Wuthikamphee's institutional background helped anchor those steps in extension-friendly standards.
 This makes him an important but easily overlooked figure in the manual's practical success.
 The entry is therefore a concise node for connecting named project personnel to the manual's cultivation workflow.
@@ -49,7 +49,7 @@ The entry is therefore a concise node for connecting named project personnel to 
 ## Overview
 
 Prasert Wuthikamphee represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -70,7 +70,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Prasert Wuthikamphee finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -78,7 +78,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -99,7 +99,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 prasert wuthikamphee and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

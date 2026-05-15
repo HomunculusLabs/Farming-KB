@@ -6,11 +6,11 @@ type: concept
 
 # Eliot Coleman and Four Season Farming
 
-[[eliot-coleman]] is one of the most influential figures in modern organic agriculture. His pioneering work in year-round vegetable production has demonstrated that fresh, organic produce can be grown and marketed profitably even in the coldest climates of North America, without reliance on fossil-fuel-intensive heating systems.
+[[eliot-coleman]] is one of the most influential figures in modern organic agriculture. His pioneering work in year-round vegetable production has demonstrated that fresh, organic produce can be grown and marketed profitably even in the coldest climates [[huckleberries-and-wild-berries-of-north-america]], without reliance on fossil-fuel-intensive heating systems.
 
 ## Biography and Career
 
-Coleman brings nearly 40 years of experience across all aspects of organic farming:
+Coleman brings nearly 40 years of experience across all aspects [[fukuoka-critique-of-organic-farming]]:
 
 - **Field vegetables** — Extensive experience with outdoor vegetable production for market
 - **Greenhouse vegetables** — Development of unheated and minimally heated winter production systems
@@ -29,9 +29,9 @@ Coleman conducted extensive study tours of organic farms, market gardens, orchar
 
 ## Four Season Farm
 
-Coleman operates **[[four-season-farm]]** in Harborside, Maine (coastal zone 5) with his wife, **Barbara Damrosch**, herself an accomplished garden writer. The farm serves dual purposes:
+Coleman operates **[[four-season-farm]]** in Harborside, Maine (coastal zone 5) with his wife, **[[barbara-damrosch]]**, herself an accomplished garden writer. The farm serves dual purposes:
 
-1. **Commercial year-round market garden** — A working farm that demonstrates the economic viability of winter harvesting
+1. **Commercial year-round market garden** — A working farm that demonstrates the [[economic-viability-water-retention-landscapes]] of winter harvesting
 2. **Horticultural research** — Ongoing experimentation with crops, varieties, and techniques
 
 The farm's coastal Maine location is significant — it represents a challenging northern climate where winter temperatures regularly drop well below freezing, yet Coleman has shown that fresh vegetable production is possible from October through April without artificial heating.
@@ -40,7 +40,7 @@ The farm's coastal Maine location is significant — it represents a challenging
 
 ### The New Organic Grower (1995, revised edition)
 
-This is Coleman's foundational work, described as providing "indispensable background information on soil-fertility management and cultural techniques for both field and greenhouse vegetable growers." It covers the core principles of organic growing that underpin all of Coleman's subsequent work. The Winter Harvest Handbook complements and updates the winter-specific chapters in this earlier book.
+This is Coleman's foundational work, described as providing "indispensable background information on soil-fertility management and cultural techniques for both field and greenhouse vegetable growers." It covers the core principles of organic growing that underpin all of Coleman's subsequent work. The [[winter-harvest-handbook-guide]] complements and updates the winter-specific chapters in this earlier book.
 
 ### Four-Season Harvest
 
@@ -89,7 +89,7 @@ Coleman is notable for his commitment to experimentation and evidence-based prac
 
 Coleman's writing reflects unusually broad intellectual interests for a farming manual:
 
-- **Classical mythology** — The Persephone and Demeter myths serve as metaphors for the seasonal cycle and the possibility of bringing growth back from the underworld of winter
+- **Classical mythology** — The [[persephone-and-demeter-in-the-mysteries]] myths serve as metaphors for the seasonal cycle and the possibility of bringing growth back from the underworld of winter
 - **Pagan agricultural calendar** — References to Celtic festivals (Imbolc, Beltane, Lughnasadh, Samhain) and the equinoxes/solstices connect the farming calendar to ancient traditions
 - **Poetry** — Quotes from Andrew Marvell ("To His Coy Mistress") and William Blake appear alongside technical discussions
 - **Ecological philosophy** — Aldo Leopold's *A Sand County Almanac* and Barry Commoner's work on ecological systems inform the environmental perspective

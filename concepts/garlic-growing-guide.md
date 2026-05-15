@@ -33,7 +33,7 @@ Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. 
 - **Creole** — adapted to warm climates, long-storing, moderate clove count (e.g., Ajo Rojo).
 
 ### Elephant Garlic
-- Not true garlic — a leek relative (Allium ampeloprasum).
+- Not true garlic — a leek relative ([[allium-ampeloprasum]]).
 - Produces very large heads (4-6 inches) with 4-6 massive cloves.
 - Milder, sweeter flavor than true garlic.
 - Plant 6 inches deep and 12 inches apart (larger than true garlic).

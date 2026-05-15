@@ -1,12 +1,12 @@
 ---
-title: The Winter Harvest Handbook
+title: The [[winter-harvest-handbook-index-a-l-reference-topics]]
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # The Winter Harvest Handbook
 
-*The Winter Harvest Handbook: Year-Round Vegetable Production Using Deep-Organic Techniques and Unheated Greenhouses* by Eliot Coleman, published by [[chelsea-green-publishing]] (2009), is the definitive guide to growing and selling fresh organic vegetables through the winter in cold climates using unheated or minimally heated movable plastic greenhouses. The book represents the culmination of Coleman's decades of experimentation at [[four-season-farm]] in Harborside, Maine.
+*The Winter Harvest Handbook: Year-Round [[coleman-french-historical-winter-vegetable-production]] Using Deep-Organic Techniques and Unheated Greenhouses* by Eliot Coleman, published by [[chelsea-green-publishing]] (2009), is the definitive guide to growing and selling fresh organic vegetables through the winter in cold climates using unheated or minimally heated movable plastic greenhouses. The book represents the culmination of Coleman's decades of experimentation at [[four-season-farm]] in Harborside, Maine.
 
 ## Book Overview
 
@@ -29,7 +29,7 @@ Detailed instructions for building and maintaining several types of protected gr
 
 ### Planting Schedules
 
-Comprehensive succession planting calendars for more than 30 different crops across four distinct growing environments:
+Comprehensive succession planting calendars for more than 30 different crops across four distinct [[mushroom-growing-environments]]:
 
 - Outdoor fields
 - Early greenhouses
@@ -52,7 +52,7 @@ Specific guidance for each crop in the winter harvest system:
 Detailed harvesting methods optimized for winter conditions:
 
 - [[cut-and-come-again]] techniques for leafy greens
-- Knife selection and maintenance
+- Knife [[solomon-garden-tools-selection-and-maintenance]]
 - Handling crops in cold temperatures to prevent damage
 - The Greens Harvester for mechanized salad mix production
 
@@ -74,7 +74,7 @@ Perhaps the book's most important contribution is the detailed description of mo
 
 - **Soil health** — Each year the greenhouse covers fresh ground, preventing the soil degradation common in permanent greenhouses
 - **Crop rotation** — Allows integration of greenhouse crops into the field rotation plan
-- **Pest and disease management** — Breaking the continuous greenhouse cycle reduces pest and disease pressure
+- **Pest [[insect-and-disease-management-organic-garden]]** — Breaking the continuous greenhouse cycle reduces pest and disease pressure
 - **Summer use** — The greenhouse area is available for summer field crops when the house has moved away
 
 ### Daylight-Based Scheduling
@@ -124,7 +124,7 @@ Coleman shows that the key economic advantage of the unheated system is the elim
 
 ## Publisher and Availability
 
-Published by **Chelsea Green Publishing** of White River Junction, Vermont (ISBN 978-1-60358-081-6), the book is part of Chelsea Green's catalog of sustainable agriculture titles. It is the companion volume to Coleman's earlier *The New Organic Grower* (1995 revised edition), which provides the foundational soil fertility and cultural technique information that the Winter Harvest Handbook builds upon.
+Published by **Chelsea Green Publishing** of White River Junction, Vermont (ISBN 978-1-60358-081-6), the book is part of Chelsea Green's catalog of [[mushroom-cultivation-for-sustainable-agriculture]] titles. It is the companion volume to Coleman's earlier *The New Organic Grower* (1995 revised edition), which provides the foundational soil fertility and cultural technique information that the Winter Harvest Handbook builds upon.
 
 ## Significance
 

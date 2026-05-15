@@ -58,7 +58,7 @@ Low calcium areas produce predominantly **male** farm animals and humans (as a p
 
 ### Biological Cycling
 
-Bacteria fix insoluble manganese and can create problems in pipes and concrete water raceways even at 2–3 ppm. **Aluminium sulphate** (from acid rain on soil) may mobilise manganese, mercury, and cadmium to lethal levels. Manganese leaches out of acid soils and deposits in alkaline horizons as manganese-iron concretions, and on sea floors as larger manganese nodules.
+Bacteria fix insoluble manganese and can create problems in pipes and concrete water raceways even at 2–3 ppm. **Aluminium sulphate** (from [[acid-rain]] on soil) may mobilise manganese, mercury, and cadmium to lethal levels. Manganese leaches out of acid soils and deposits in alkaline horizons as manganese-iron concretions, and on sea floors as larger manganese nodules.
 
 ## Iron (Fe)
 

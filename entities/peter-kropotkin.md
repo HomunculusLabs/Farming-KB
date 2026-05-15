@@ -9,7 +9,7 @@ tags: [person, russian, anarchist, agriculture-writer, french-market-gardening]
 
 ## Description
 
-Prince Peter Kropotkin (1842–1921) was a Russian anarchist revolutionary, geographer, and social theorist who also made significant contributions to agricultural literature. His book *Fields, Factories and Workshops* (first published 1898, expanded 1899) enthusiastically praised the Parisian maraîchers (market gardeners) and helped bring attention to their intensive cultivation techniques in the English-speaking world. [[eliot-coleman]] quotes Kropotkin at the opening of The Winter Harvest Handbook.
+Prince Peter Kropotkin (1842–1921) was a Russian anarchist revolutionary, geographer, and social theorist who also made significant contributions to agricultural literature. His book *Fields, Factories and Workshops* (first published 1898, expanded 1899) enthusiastically praised the Parisian maraîchers (market gardeners) and helped bring attention to their intensive cultivation techniques in the English-speaking world. [[eliot-coleman]] quotes Kropotkin at the opening of The [[winter-harvest-handbook-guide]].
 
 ## Classification
 
@@ -22,14 +22,14 @@ Prince Peter Kropotkin (1842–1921) was a Russian anarchist revolutionary, geog
 
 - Kropotkin praised the Parisian maraîchers in *Fields, Factories and Workshops*, arguing that their intensive cultivation methods demonstrated the potential for decentralized, local food production
 - He referred to chemical fertilizers as **"pompously labeled and unworthy drug[s]"**, expressing a preference for organic methods decades before the modern organic movement
-- Coleman quotes Kropotkin's summary of the French system's essence: "to create for the plant a nutritive and porous soil, which contains both the necessary decaying organic matter and the inorganic compounds; and then to keep that soil and the surrounding atmosphere at a temperature and moisture superior to those of the open air"
+- Coleman quotes Kropotkin's summary of the French system's essence: "to create for the plant a nutritive and porous soil, which contains both the necessary decaying organic matter and the inorganic compounds; and then to keep that soil and the surrounding atmosphere at a [[mushroom-growing-temperature-and-moisture]] superior to those of the open air"
 - Kropotkin's advocacy helped spark British interest in French gardening techniques after his book's publication
 - When British market gardeners visited Paris in **1905**, the interest that Kropotkin had helped generate contributed to the surge of enthusiasm for adopting French intensive methods in England
 - He wrote the introduction to Joseph Smith's instruction book *French Gardening*, one of the best practical manuals on the French intensive system
 
 ## Relevance to Cultivation
 
-Kropotkin's significance to cultivation lies in his role as a **propagandist and popularizer** of the [[french-intensive-market-gardening]] system. While not a practitioner himself, his enthusiastic and detailed descriptions of the Parisian maraîchers helped preserve knowledge of these techniques and inspired later generations of growers, including Eliot Coleman. His critique of chemical fertilizers and advocacy for compost-based fertility also anticipated core principles of modern organic farming. Coleman's choice to open The Winter Harvest Handbook with a Kropotkin quote signals the intellectual lineage connecting nineteenth-century French market gardening to twenty-first-century four-season farming.
+Kropotkin's significance to cultivation lies in his role as a **propagandist and popularizer** of the [[french-intensive-market-gardening]] system. While not a practitioner himself, his enthusiastic and detailed descriptions of the Parisian maraîchers helped preserve knowledge of these techniques and inspired later generations of growers, including Eliot Coleman. His critique of [[organic-vs-chemical-fertilizers-and-manure-quality]] advocacy for compost-based fertility also anticipated core principles of modern organic farming. Coleman's choice to open The Winter Harvest Handbook with a Kropotkin quote signals the intellectual lineage connecting nineteenth-century [[french-market-gardening-maraichage]] to twenty-first-century four-season farming.
 ## Biography
 
 Contributions to agricultural science and sustainable farming practices through research and field work.
@@ -44,7 +44,7 @@ Authored and co-authored significant research papers and technical guides in the
 
 ## Legacy
 
-Influence on modern agricultural practices and ongoing relevance to sustainable farming movements.
+Influence on modern [[mycorrhizal-agricultural-practices]] and ongoing relevance to sustainable farming movements.
 ## Historical Context
 
 Development of understanding and practices related to this topic has evolved significantly over time. Early observations led to systematic study and practical applications that continue to influence modern approaches.
@@ -80,7 +80,7 @@ Cost-benefit analysis demonstrates long-term value despite potential upfront inv
 ## Professional Background
 
 Active in agricultural research and Extension education,
-this researcher contributed to the scientific understanding
+this researcher contributed to the [[fukuoka-fallacies-scientific-understanding]]
 of biological systems and their applications in farming.
 Their work bridges academic research and practical agriculture.
 

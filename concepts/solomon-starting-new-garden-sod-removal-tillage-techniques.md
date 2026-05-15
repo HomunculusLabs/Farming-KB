@@ -1,5 +1,5 @@
 ---
-title: Solomon Starting New Garden Sod Removal Tillage Techniques
+title: Solomon [[starting-new-garden-sod-elimination]] Sod Removal Tillage Techniques
 source: Gardening When It Counts (steve-solomon, 2005)
 source_path: /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
 tags: [gardening, new-garden, sod-removal, rototilling, bed-preparation, [[solomon-starting-new-garden-sod-clay-soil|soil]]-preparation, solomon, raised-beds, self-sufficiency]
@@ -20,7 +20,7 @@ collective wisdom that he argues is often wrong about gardening.
 
 ### When to Start
 
-The best season for starting a new garden is not spring (when many acquire
+The best season for [[starting-a-new-garden]] is not spring (when many acquire
 a passion for gardening) but **the end of summer**, in anticipation of the
 following spring. In mild climates (Deep South, California, Australia),
 the work can proceed any time of year when soil moisture is correct. In
@@ -67,12 +67,12 @@ the gardener is not strictly organic.
 ### Method 3: Hand Digging (Solomon's Preferred Method)
 
 Despite the speed advantage of tillers, Solomon prefers hand digging with
-a sharpened combination shovel or spade:
+a sharpened [[combination-shovel]] or spade:
 
 ## Overview
 
 Solomon Starting New Garden Sod Removal Tillage Techniques represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for solomon starting new garden sod removal tillage techniques. Climate adaptation
+opportunities for solomon starting new garden sod removal tillage techniques. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 solomon starting new garden sod removal tillage techniques and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

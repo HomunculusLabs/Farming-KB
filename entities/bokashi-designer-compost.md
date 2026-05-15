@@ -7,21 +7,21 @@ tags: [farming, composting, fermentation, soil-fertility, korean-natural-farming
 
 ## Description
 
-Bokashi is a Japanese term for "fermented organic matter" — a designer compost that is naturally fortified with macro and micro nutrients (bionutrients) and biodiversed [[beneficial-indigenous-microorganisms]] (BIM). Unlike traditional composting which relies on aerobic decomposition, bokashi uses **anaerobic fermentation** to break down organic materials, resulting in a potent, microbially-rich soil amendment.
+Bokashi is a Japanese term for "fermented organic matter" — a designer compost that is naturally fortified with macro and micro nutrients (bionutrients) and biodiversed [[beneficial-indigenous-microorganisms]] (BIM). Unlike traditional composting which relies on aerobic decomposition, bokashi uses **[[jadam-anaerobic-fermentation]]** to break down organic materials, resulting in a potent, microbially-rich soil amendment.
 
 ## Classification
 
 - **Domain**: Agricultural inputs / Composting method
 - **Origin**: Japan (term), Korea (refined method via [[korean-natural-farming]])
 - **Type**: Fermented organic fertilizer
-- **Related Practices**: Korean Natural Farming (KNF), Effective Microorganisms (EM)
+- **Related Practices**: [[korean-natural-farming-and-jadam]] (KNF), [[bokashi-composting-and-effective-microorganisms]] (EM)
 
 ## Key Facts
 
 - Bokashi is a **designer compost** — its formulation can be adjusted based on specific nutritional goals (e.g., higher potassium for flowering, higher nitrogen for vegetative growth).
 - The basic formulation follows a **80% carbon / 17% nitrogen / 3% trace elements** ratio, mirroring the general animal feed formulation of 80% carbohydrate / 17% protein / 3% vitamin-mineral.
-- Charcoal dust is included as a substrate because it provides an ideal habitat for beneficial microorganism proliferation.
-- Molasses serves as a food source for the beneficial microorganisms, boosting their population during fermentation.
+- Charcoal dust is included as a substrate because it provides an ideal [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganism proliferation.
+- Molasses serves as a food source for the [[forest-and-bamboo-beneficial-microorganisms]], boosting their population during fermentation.
 - The finished product can also be used to make **compost tea** for foliar application.
 
 ## Philippine Recipe (Typical Bokashi Formulation)
@@ -33,7 +33,7 @@ Bokashi is a Japanese term for "fermented organic matter" — a designer compost
 | Coco Peat | 20 kilos |
 | Chicken Manure | 30 kilos |
 | Charcoal Dust | 20 kilos |
-| BIM (Beneficial Indigenous Microorganisms) | 1 liter |
+| BIM ([[beneficial-indigenous-microorganisms-lacto-bacilli]]) | 1 liter |
 | Molasses | 1 kilo |
 | Bionutrient | 1 liter |
 

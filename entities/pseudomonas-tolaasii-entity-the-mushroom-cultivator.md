@@ -5,7 +5,7 @@ type: species
 tags: [bacterial-pathogen, bacterial-blotch, mushroom-disease, casing-contaminant, gram-negative]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
 
 # Pseudomonas tolaasii

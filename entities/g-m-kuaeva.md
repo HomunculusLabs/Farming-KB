@@ -29,7 +29,7 @@ Kuaeva's 1975 work "Physical Properties of Snow Cover of the Greater Caucasus" w
 The Greater Caucasus mountain range stretches approximately 1,200 km between the Black Sea and Caspian Sea, with peaks exceeding 5,000 metres. The region experiences:
 
 - Deep, persistent snow packs at high elevations
-- Steep terrain with complex topography creating varied snow accumulation patterns
+- Steep terrain with complex topography creating varied snow [[psilocybin-psilocin-flush-accumulation-patterns]]
 - Dramatic temperature variations between slopes, aspects, and elevations
 - Frequent avalanche activity across multiple avalanche paths and types
 - A long history of human settlement requiring avalanche forecasting and mitigation
@@ -49,11 +49,11 @@ Through Mollison's synthesis in the Designers' Manual, Kuaeva's research contrib
 
 ### USDA Translation Programme
 
-The USDA translation programme that made Kuaeva's work available in English was part of a broader effort to access Soviet scientific research in agriculture, forestry, and earth sciences. Soviet cold-climate research was among the most advanced in the world, given the vast extent of Russia's arctic and subarctic territories and the practical necessity of understanding snow and ice behaviour for infrastructure, agriculture, and resource extraction.
+The USDA translation programme that made Kuaeva's work available in English was part of a broader effort to access Soviet [[psilocybin-isolation-and-early-scientific-research]] in agriculture, forestry, and earth sciences. Soviet cold-climate research was among the most advanced in the world, given the vast extent of Russia's arctic and subarctic territories and the practical necessity of understanding snow and ice behaviour for infrastructure, agriculture, and resource extraction.
 
 ## Relevance to Cultivation and Cold Climate Design
 
-Kuaeva's data, as synthesised by Mollison, provides essential technical knowledge for designing cold-climate permaculture systems. Understanding snow behaviour — how it accumulates, moves, transforms the landscape, and responds to environmental triggers — is fundamental to:
+Kuaeva's data, as synthesised by Mollison, provides essential technical knowledge for designing cold-climate permaculture systems. Understanding snow behaviour — how it accumulates, moves, transforms the landscape, and responds to [[fungal-fruiting-body-formation-environmental-triggers]] — is fundamental to:
 
 - Site selection and structure placement relative to avalanche paths
 - Access road design that does not concentrate or redirect snow movement
@@ -63,7 +63,7 @@ Kuaeva's data, as synthesised by Mollison, provides essential technical knowledg
 
 ### Legacy and Influence
 
-Kuaeva's work, though not widely cited independently in Western literature, has had significant influence through Mollison's synthesis. The detailed quantitative data on snow behaviour has informed cold-climate permaculture design education worldwide, reaching thousands of permaculture practitioners who may never encounter the original Soviet research. The translation of this knowledge from academic snow science into practical design guidelines represents one of the many ways permaculture synthesises specialised research into accessible, actionable knowledge for land designers and managers.
+Kuaeva's work, though not widely cited independently in [[fly-agaric-western-literature]], has had significant influence through Mollison's synthesis. The detailed quantitative data on snow behaviour has informed cold-climate permaculture design education worldwide, reaching thousands of permaculture practitioners who may never encounter the original Soviet research. The translation of this knowledge from academic snow science into practical design guidelines represents one of the many ways permaculture synthesises specialised research into accessible, actionable knowledge for land designers and managers.
 
 ### Broader Context of Soviet Cold Climate Research
 
@@ -80,4 +80,4 @@ This research tradition, born of necessity in a nation with vast northern territ
 
 ### Practical Applications for Designers
 
-The specific numerical data from Kuaeva's research enables permaculture designers to make quantitative assessments rather than relying solely on qualitative judgement. Knowing that avalanche air blast reaches 330 m/sec, that snow becomes unstable above 70% humidity, or that episodic avalanches recur on approximately 35-year cycles allows designers to set appropriate safety margins, assess historical risk from vegetation patterns, and make informed decisions about where to place critical infrastructure in mountainous cold-climate landscapes.
+The specific numerical data from Kuaeva's research enables [[bill-mollison-permaculture-designers-manual]] to make quantitative assessments rather than relying solely on qualitative judgement. Knowing that avalanche air blast reaches 330 m/sec, that snow becomes unstable above 70% humidity, or that episodic avalanches recur on approximately 35-year cycles allows designers to set appropriate safety margins, assess historical risk from [[holmgren-vegetation-patterns-biomass-fertility]], and make informed decisions about where to place critical infrastructure in mountainous cold-climate landscapes.

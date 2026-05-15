@@ -1,5 +1,5 @@
      1|---
-     2|title: Tree Biomass and Energy Transactions
+     2|title: Tree Biomass [[trees-and-energy-transactions]]
      3|source: [[bill-mollison]]-[[permaculture-design]], understanding how trees manage
     13|energy flows is essential to creating productive, resilient landscapes.
     14|
@@ -57,7 +57,7 @@
     73|  and local precipitation declines. Regions that were once reliably moist can
     74|  become arid within years of forest removal.
     75|
-    76|- **Nutrient loss**: The nutrient cycling systems maintained by tree roots,
+    76|- **Nutrient loss**: The [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] systems maintained by tree roots,
     77|  leaf litter, and associated soil organisms are disrupted. Topsoil erodes
     78|  rapidly without the binding and sheltering effect of roots and canopy.
     79|  Nutrients held in living biomass are released and washed away.
@@ -78,7 +78,7 @@
 ## Overview
 
 Tree Biomass And Energy Transactions represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -107,13 +107,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for tree biomass and energy transactions. Climate adaptation
+opportunities for tree biomass and energy transactions. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 tree biomass and energy transactions and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

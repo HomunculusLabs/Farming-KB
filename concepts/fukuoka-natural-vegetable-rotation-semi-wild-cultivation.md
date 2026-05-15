@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Natural Vegetable Rotation and Semi-Wild Cultivation
+title: [[fukuoka-natural-vegetable-growing]] Rotation and Semi-Wild Cultivation
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -33,7 +33,7 @@ These four principles work together synergistically. As Fukuoka summarizes:
 
 ### The Practical Challenge
 
-Fukuoka is candid about the difficulties of scaling natural vegetable cultivation:
+Fukuoka is candid about the difficulties of scaling natural [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]:
 
 > "Producing and shipping naturally grown vegetables out to market for sale as natural food is far from easy."
 
@@ -79,7 +79,7 @@ Man becomes a heretic by disposing of wastes in ways that do not return to the s
 ## Overview
 
 Fukuoka Natural Vegetable Rotation Semi Wild Cultivation represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fukuoka Natural Vegetable Rotation Semi Wild Cultivation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -108,7 +108,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 fukuoka natural vegetable rotation semi wild cultivation and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

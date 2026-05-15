@@ -24,14 +24,14 @@ Understanding vole biology is essential to effective management. Their reproduct
 - **Breeding season**: Year-round, with no interruption during winter months. Unlike many temperate-zone mammals, voles do not reduce or pause reproduction during cold weather.
 - **Reproductive rate**: Up to 10 litters per year, each containing 3–6 young.
 
-These traits combine to produce explosive population growth. A single breeding pair can produce dozens of offspring in a single growing season, and populations can escalate rapidly once voles gain access to a favorable habitat. The year-round breeding cycle is particularly relevant to winter greenhouse management: even in cold months, vole populations continue to expand, and the greenhouse provides the warmth and food supply that supports this growth.
+These traits combine to produce explosive population growth. A single breeding pair can produce dozens of offspring in a single [[extending-growing-season]], and populations can escalate rapidly once voles gain access to a favorable habitat. The year-round breeding cycle is particularly relevant to [[coleman-aphid-nitrogen-flushing-winter-greenhouse-management]]: even in cold months, vole populations continue to expand, and the greenhouse provides the warmth and food supply that supports this growth.
 
 ## Greenhouse Habitat
 
 Voles consider greenhouses to be an "idyllic" winter habitat. The protected environment offers advantages that far exceed what is available outdoors during the cold months:
 
 - **Consistent warmth**: Even unheated greenhouses maintain temperatures well above outdoor levels, reducing the energetic cost of thermoregulation and allowing voles to devote more energy to foraging and reproduction.
-- **Abundant food**: Crops, roots, and organic matter in the greenhouse soil provide a near-unlimited food supply — critical for an animal that must eat its own weight daily.
+- **Abundant food**: Crops, roots, [[hamilton-composting-and-organic-matter-management]] in the greenhouse soil provide a near-unlimited food supply — critical for an animal that must eat its own weight daily.
 - **Ideal tunneling substrate**: Soft, cultivated soil is far easier to burrow through than compacted field soil or frozen ground, making greenhouse beds and aisles ideal for vole tunnel systems.
 - **Nesting material**: Row-cover fabric and other greenhouse textiles are chewed up by voles and used to line their nests, providing insulation for young.
 
@@ -39,7 +39,7 @@ Voles gain entry to the greenhouse by tunneling under the soil surface and throu
 
 ## Prevention Challenges
 
-Preventing vole entry is particularly difficult with mobile greenhouses — a central feature of Coleman's four-season farming system. Several exclusion approaches have been tried without lasting success:
+Preventing vole entry is particularly difficult with [[mobile-greenhouses]] — a central feature of Coleman's four-season farming system. Several exclusion approaches have been tried without lasting success:
 
 ### Deeper Buried Edges
 
@@ -114,8 +114,8 @@ While year-round trapping is recommended, the seasonal pattern of vole activity 
 
 - **Trap density**: While Coleman does not specify an exact trap-to-area ratio, the volume of voles caught (50+ in a two-month period) suggests that a substantial number of traps are necessary to achieve meaningful population control.
 - **Check frequency**: Traps should be checked and reset regularly. Dead voles in traps serve as a warning to other colony members and can accelerate bait-avoidance learning.
-- **Integration with other methods**: While snap traps are the primary tool, any additional pressure — such as predation by cats — can contribute to overall population reduction. The neighbor's cat's catch rate was comparable to Coleman's trapping rate, suggesting that natural predators can play a supplementary role.
-- **Record keeping**: Tracking catch numbers over time helps identify population trends, bait effectiveness windows, and seasonal peaks. Coleman's detailed records of trapping outcomes inform his recommendations.
+- **Integration with other methods**: While snap traps are the primary tool, any additional pressure — such as predation by cats — can contribute to overall population reduction. The neighbor's cat's catch rate was comparable to Coleman's trapping rate, suggesting that [[fukuoka-fruit-tree-disease-pest-control-natural-predators]] can play a supplementary role.
+- **[[fungal-herbarium-record-keeping-specimen-transactions]]**: Tracking catch numbers over time helps identify population trends, bait effectiveness windows, and seasonal peaks. Coleman's detailed records of trapping outcomes inform his recommendations.
 
 ## Key Principles
 

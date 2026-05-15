@@ -1,5 +1,5 @@
 ---
-title: mollison designers community seed banks and exchange Banks and Exchange in Permaculture
+title: [[mollison-designers-community-garden-design-urban-permaculture]] seed banks and exchange Banks and Exchange in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -37,7 +37,7 @@ security and permaculture's capacity to design resilient systems.
 Local varieties, also known as landraces or farmer varieties, are adapted
 to specific regional conditions through generations of natural and human
 selection. They possess traits for [[mollison-designers-climate-change-adaptation-strategies]]
-by preserving diverse genetic resources, and strengthen community resilience
+by preserving diverse genetic resources, and strengthen [[permaculture-community-resilience]]
 through shared knowledge and mutual aid. The seed saving ethic embodies
 permaculture's core principle of producing no waste and cycling resources
 within the system.
@@ -81,7 +81,7 @@ conditions. This approach recognizes that some degree of uncertainty is
 ## Overview
 
 Mollison Designers Community Seed Banks And Exchange represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mollison Designers Community Seed Banks And Exchange finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -110,7 +110,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mollison designers community seed banks and exchange and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

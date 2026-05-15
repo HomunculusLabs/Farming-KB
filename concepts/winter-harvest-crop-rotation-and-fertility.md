@@ -1,12 +1,12 @@
 ---
-title: Winter Harvest Crop Rotation and Fertility Management
+title: Winter Harvest Crop Rotation [[tropical-soils-and-fertility-management]]
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Winter Harvest Crop Rotation and Fertility Management
 
-Crop rotation and soil fertility are the twin pillars supporting sustainable winter vegetable production. Eliot Coleman's [[winter-harvest-system]] relies on carefully planned rotations across multiple protected environments, combined with organic fertility practices that build rather than deplete soil health over time.
+Crop rotation and soil fertility are the twin pillars supporting sustainable [[coleman-french-historical-winter-vegetable-production]]. Eliot Coleman's [[winter-harvest-system]] relies on carefully planned rotations across multiple protected environments, combined with organic fertility practices that build rather than deplete soil health over time.
 
 ## Crop Rotation Principles
 
@@ -59,7 +59,7 @@ When soil tests indicate deficiencies, mineral amendments are used:
 
 ### Nitrogen Management
 
-Nitrogen availability is a critical concern, especially in cool soil temperatures where microbial activity slows:
+[[nitrogen-availability-in-legumes]] is a critical concern, especially in cool soil temperatures where microbial activity slows:
 
 - Compost and manure provide slow-release nitrogen that becomes available as soils warm
 - Cover crops (cowpeas, clover) fix atmospheric nitrogen
@@ -71,7 +71,7 @@ Nitrogen availability is a critical concern, especially in cool soil temperature
 
 Coleman advocates minimal soil disturbance:
 
-- **Broadforks** — Used to aerate compacted soil without inverting the profile. The broadfork lifts and loosens soil while preserving stratification and microbial communities.
+- **Broadforks** — Used to aerate compacted soil without inverting the profile. The broadfork lifts and loosens soil while preserving stratification and [[cannabis-rhizosphere-microbial-communities]].
 - **Tillers** — Used sparingly, primarily for initial bed preparation or incorporating large amounts of organic matter. Over-tilling destroys soil structure and organic matter.
 - **The Tilther** — Coleman's preferred tool for surface cultivation, which prepares a seedbed in the top 2 inches of soil without disturbing deeper layers.
 
@@ -122,7 +122,7 @@ Coleman introduces the idea of the "hidden farm" — the period between cash cro
 - Soil structure is restored through root penetration
 - Weed seeds are stimulated to germinate and are then eliminated
 
-The hidden farm is as important as the visible production periods. Without it, the intensive cropping system would quickly degrade soil health.
+The hidden farm is as important as the visible production periods. Without it, the [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]] system would quickly degrade soil health.
 
 ## Integration with Protected Growing Structures
 
@@ -135,7 +135,7 @@ The fertility and rotation system must account for the unique conditions inside 
 
 ## Fertility and Plant Health
 
-The connection between soil fertility and plant resistance to pests and diseases is a core principle:
+The connection between soil fertility and plant resistance to [[mushroom-pests-and-diseases]] is a core principle:
 
 - Biologically healthy soil produces nutritionally dense crops
 - Well-fed plants are more resistant to insect damage and disease

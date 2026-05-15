@@ -21,7 +21,7 @@ sources:
 
 The species is one of the most commercially important timber trees in its native range, valued for its moderately durable, straight-grained wood. Ecuador laurel is also widely planted in agroforestry systems, particularly in [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] (Guatemala, Honduras, Nicaragua, Costa Rica, Panama) into northern South America (Colombia, Venezuela, Ecuador, Peru, Bolivia).
 
-It is also found throughout the Caribbean, including Cuba, Jamaica, Hispaniola, Puerto Rico, and the Lesser Antilles. The species has been introduced to several tropical regions for plantation forestry.
+It is also found throughout the Caribbean, including Cuba, Jamaica, Hispaniola, Puerto Rico, and the Lesser Antilles. The species has been introduced to several tropical regions for [[plantation-forestry-carbon-dynamics]].
 
 The tree occurs naturally in lowland to premontane tropical moist and wet forests, typically at elevations of 0–1,500 meters. It grows on a wide range of soils but performs best on well-drained, fertile volcanic loams.
 
@@ -43,7 +43,7 @@ Timber uses include furniture, cabinetry, interior paneling, veneer, boat buildi
 
 In traditional medicine, bark decoctions are used as an anti-inflammatory and antirheumatic remedy in several Latin American countries. Leaf infusions are employed as a treatment for coughs and respiratory ailments.
 
-Bark extracts have also been used topically to treat skin wounds and fungal infections in rural communities across Central America. The resinous exudate from cut bark is applied as a poultice for insect bites and minor burns.
+Bark extracts have also been used topically to treat skin wounds and fungal infections in rural communities across [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. The resinous exudate from cut bark is applied as a poultice for insect bites and minor burns.
 
 The species is also planted as an ornamental street tree and windbreak in tropical urban areas. Its rapid growth and attractive form make it popular in landscape architecture.
 
@@ -58,7 +58,7 @@ Cordia alliodora plays a significant ecological role [[endorhiza-endophytic-bact
 ## Overview
 
 Cordia Alliodora represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -79,7 +79,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cordia Alliodora finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -87,7 +87,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -108,7 +108,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cordia alliodora and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

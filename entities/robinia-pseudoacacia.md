@@ -46,7 +46,7 @@ Seeds and inner bark are most toxic — ingestion causes nausea, vomiting, abdom
 - **Nitrogen-fixing canopy tree**: High N fixation supports understory productivity; ideal canopy-layer N contributor
 - **Pioneer function**: Establishes rapidly on degraded sites, improving soil for subsequent climax species
 - **Coppice system**: Regrows vigorously from cut stumps; 3–8 year rotation produces posts, fuelwood, and mulch
-- **Chop-and-drop**: N-rich leaf litter acts as green mulch for understory plants
+- **[[chop-and-drop]]**: N-rich leaf litter acts as green mulch for understory plants
 - **Pollinator support**: Late spring nectar source during critical forage gap; supports bee populations for crop pollination
 
 ### Polyculture and Management

@@ -1,5 +1,5 @@
 ---
-title: Japan's Postwar Farmer Alienation Through Mechanization and Food Policy
+title: Japan's Postwar [[fukuoka-mechanization-trap-and-farmer-alienation]] Through Mechanization and Food Policy
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: masanobu-fukuoka
 tags: [natural-farming, japan, postwar, mechanization, agriculture-policy, alienation, food-control, economic-miracle, basic-agriculture-law]
@@ -11,7 +11,7 @@ type: concept
 # Japan's Postwar Farmer Alienation Through Mechanization and Food Policy
 
 [[masanobu-fukuoka]] provides a scathing farmer's-eye analysis of Japan's
-postwar agricultural transformation, arguing that the celebrated economic
+[[fukuoka-japan-postwar-agricultural-transformation-mechanization-trap]], arguing that the celebrated economic
 miracle was built on appropriated farm labor, that mechanization
 tightened rather than loosened the trap around farmers, and that food
 policy systematically transferred control from those who work the land to
@@ -40,7 +40,7 @@ In Fukuoka's formulation, he "tightened the noose about his own neck."
 ## The Transport-Tiller as Turning Point
 
 The arrival of the motorized transport-tiller marked a major turning
-point in Japanese agriculture. This was rapidly followed by three-wheeled
+point in [[fukuoka-breakdown-japanese-agriculture]]. This was rapidly followed by three-wheeled
 vehicles and trucks. Before long, ropeways, monorails, and paved roads
 stretched to the furthest corners of the village, completely altering the
 farmer's notions of time and space. The pace and scale of agricultural
@@ -49,9 +49,9 @@ life were fundamentally transformed.
 With this wave of change from labor-intensive to capital-intensive
 farming came the systematic replacement of human and animal power with
 machines. The horse-drawn plow gave way to tillers, and later to
-tractors. Methods of pesticide and fertilizer application underwent
+tractors. Methods of pesticide and [[cervantes-fertilizer-application-strain-feeding]] underwent
 major revisions, with motorized hand sprayers being abandoned in favor
-of helicopter spraying. Traditional farming with draft animals was
+of helicopter spraying. [[jadam-nutrient-cycling-traditional-farming-mineral-science]] with draft animals was
 entirely replaced by methods involving the heavy application of chemical
 fertilizers and pesticides.
 
@@ -61,7 +61,7 @@ Fukuoka identifies the symbiotic relationship between agricultural
 mechanization and industrial growth with precision. The rapid
 mechanization of agriculture lit the fires for the revival and
 precipitous growth of the machine industry. Simultaneously, the adoption
-of pesticides, chemical fertilizers, and petroleum-based farming
+of pesticides, [[cannabis-chemical-fertilizers]], and petroleum-based farming
 materials laid the foundation for development of the chemical industry.
 
 The desire by farmers to modernize — to assure adequate food supplies in

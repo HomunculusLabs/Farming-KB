@@ -10,12 +10,12 @@ sources: []
 
 ## Overview
 
-Ginkgo biloba and Panax ginseng represent two of the world's most extensively
+[[ginkgo-biloba]] and Panax ginseng represent two of the world's most extensively
 researched medicinal plants, both holding positions of prominence in traditional
 medicine systems while having achieved widespread global use in modern herbal
 practice. Despite their shared status as premier adaptogenic herbs, these plants
 possess fundamentally different botanical characteristics, phytochemical profiles,
-and primary therapeutic applications that make them complementary rather than
+and primary [[psilocybin-therapeutic-applications]] that make them complementary rather than
 interchangeable in clinical practice.
 
 ## Ginkgo biloba
@@ -37,12 +37,12 @@ develops its characteristic anthropomorphic shape after 4-6 years of growth.
 The pharmacological activity is attributed to ginsenosides—unique steroidal
 saponins classified into protopanaxadiol (PPD) and protopanaxatriol (PPT)
 groups. Over 180 ginsenosides have been identified, each with potentially
-distinct biological activities. The traditional preparation methods yield
+distinct biological activities. The [[kava-traditional-preparation-ceremonial-context]] methods yield
 different products: white ginseng (dried fresh root) and red ginseng (steamed
 and dried root), each with distinct ginsenoside profiles and therapeutic
 applications. Beyond ginsenosides, the root contains polysaccharides with
 immunomodulatory activity, polyacetylenes with anti-inflammatory properties,
-and various other bioactive compounds.
+and various other [[cordyceps-cancer-bioactive-compounds]].
 
 ## Key Differences
 
@@ -55,7 +55,7 @@ and various other bioactive compounds.
 | **Primary Mechanism** | Circulatory enhancement, antioxidant | HPA axis modulation, immune regulation |
 | **Traditional Origin** | Limited historical use, modern discovery | 2,000+ years of Asian traditional use |
 | **Cultivation Time** | Decades for therapeutic leaf production | 4-6 years for root maturity |
-| **Environmental Requirements** | Highly adaptable, pollution tolerant | Narrow ecological range, shade-dependent |
+| **[[mushroom-environmental-requirements-temperature-moisture-light]]** | Highly adaptable, pollution tolerant | Narrow ecological range, shade-dependent |
 | **Dosage Form** | Standardized leaf extracts | Whole root, powdered extracts, teas |
 | **Cost Considerations** | Moderate (leaf material abundant) | High (long cultivation, labor-intensive) |
 
@@ -86,11 +86,11 @@ by fatigue, poor digestion, weak immune response, and generalized weakness.
 ## Combined Use
 
 The complementary mechanisms of ginkgo and ginseng make them excellent
-candidates for combination therapy, particularly for cognitive enhancement
+candidates for [[lentinan-gastric-cancer-combination-therapy]], particularly for cognitive enhancement
 in aging populations. Several clinical studies have examined this combination,
 finding synergistic effects that exceed either herb used alone. Ginkgo's
 circulatory enhancement may improve delivery of ginseng's active compounds
-to target tissues, while ginseng's adaptogenic properties may help mitigate
+to target tissues, while ginseng's [[ashwagandha-cultivation-uses-and-adaptogenic-properties]] may help mitigate
 the stress response that can exacerbate circulatory and cognitive concerns.
 This combination is particularly valuable for older adults experiencing both
 cognitive decline and reduced vitality, though proper dosage adjustment and

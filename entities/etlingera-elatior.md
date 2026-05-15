@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Poulsen, A.D. (2006). "Etlingera of Borneo." Natural History Publications, Kota Kinabalu.
   - Lim, T.K. (2015). "Edible Medicinal and Non-Medicinal Plants." Springer, Volume 9.
-  - Ong, H.C. & Norzalina, I. (2009). "Traditional knowledge of the usage of Etlingera elatior among Malay community in Peninsular Malaysia." Ethnobotanical Leaflets, 13, 1042–1051.
+  - Ong, H.C. & Norzalina, I. (2009). "[[wasted-human-resources-and-traditional-knowledge]] of the usage of Etlingera elatior among Malay community in Peninsular Malaysia." Ethnobotanical Leaflets, 13, 1042–1051.
   - Sirirugsa, P. (1999). "Thai Zingiberaceae: Species diversity and their uses." International Conference on Biodiversity and Bioresources Conservation.
 ---
 
@@ -80,7 +80,7 @@ Tuhau stems are finely shredded, mixed with chili and vinegar, and served as a c
 ## Overview
 
 Etlingera Elatior represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Etlingera Elatior finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,13 +109,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for etlingera elatior. Climate adaptation
+opportunities for etlingera elatior. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 etlingera elatior and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

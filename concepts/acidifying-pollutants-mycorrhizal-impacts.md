@@ -1,12 +1,12 @@
 ---
-title: Acidifying Pollutants and Mycorrhizal Fungi
+title: [[acidifying-pollutants-mycorrhizae]] and Mycorrhizal Fungi
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
 # Acidifying Pollutants and Mycorrhizal Fungi
 
-The effects of acidifying pollutants on mycorrhizal fungi represent one of the most thoroughly studied aspects of anthropogenic impacts on belowground fungal communities. Research emerging from the *Waldsterben* (forest dieback) phenomenon in central European forests during the 1970s and 1980s established that acidifying pollutants damage both root systems and their associated mycorrhizal symbionts through multiple interacting mechanisms. These findings have profound implications for forest health, nutrient cycling, and ecosystem resilience.
+The effects of acidifying pollutants on [[mycorrhizal-fungi]] represent one of the most thoroughly studied aspects of anthropogenic impacts on belowground fungal communities. Research emerging from the *Waldsterben* (forest dieback) phenomenon in central European forests during the 1970s and 1980s established that acidifying pollutants damage both root systems and their associated mycorrhizal symbionts through multiple interacting mechanisms. These findings have profound implications for forest health, nutrient cycling, [[fungal-rhizosphere-and-ecosystem-resilience]].
 
 ## The Dighton and Jansen Two-Directional Impact Model
 
@@ -24,7 +24,7 @@ Multiple lines of evidence support the negative effects of acidifying pollutants
 
 - **Root damage**: Sobotka (1964), Liss et al. (1984), Meyer (1987), and Blaschke (1988) all documented declines in mycorrhizal formation and reduced root vigor in declining forests.
 - **Reduced fruiting**: Arnolds (1985, 1988), Jansen and Van Dobben (1987), and Fellner (1988) demonstrated reduced ectomycorrhizal fruit body production in polluted stands.
-- **Community shifts**: In healthy forests, ectomycorrhizal fungal fruit bodies typically constitute 45–50% of all macrofungal fruit bodies. In polluted stands, this drops to approximately 10%, indicating a dramatic shift in fungal community structure.
+- **Community shifts**: In healthy forests, ectomycorrhizal fungal fruit bodies typically constitute 45–50% of all macrofungal fruit bodies. In polluted stands, this drops to approximately 10%, indicating a dramatic shift in [[mineralogical-controls-fungal-community-structure]].
 
 ## Stages of Forest Decline Assessed by Fungal Community Structure
 
@@ -36,7 +36,7 @@ Fellner and Pešková (1995) developed a classification system for stages of for
 | **Acute** | Decreasing to <40% | Increasing to >40% |
 | **Lethal** | Decreasing to <20% | Increasing to >55% |
 
-This staging system provides a practical tool for assessing forest health using macrofungal surveys, reflecting the sensitivity of ectomycorrhizal fungi to pollution-induced stress relative to wood-decomposing (lignicolous) saprotrophs.
+This staging system provides a practical tool for assessing forest health using [[sampling-design-macrofungal-surveys]], reflecting the sensitivity of ectomycorrhizal fungi to pollution-induced stress relative to wood-decomposing (lignicolous) saprotrophs.
 
 ## Changes in Ectomycorrhizal Community Structure
 
@@ -58,7 +58,7 @@ The ratios of Al:Ca, Al:Mg, and Al:PO4 were found to be important determinants o
 
 ## Field Fumigation Experiments: SO2 and Ozone
 
-McLeod et al. (1992) conducted a landmark field fumigation experiment in which SO2 and O3 were released over circular plots containing monospecific stands of Scots pine, Sitka spruce, and Norway spruce. Multivariate analysis of ectomycorrhizal community structure revealed that SO2 fumigation affected only Scots pine, where a reduction in *Paxillus involutus* mycorrhizae occurred (Shaw et al., 1992, 1993).
+McLeod et al. (1992) conducted a landmark field fumigation experiment in which SO2 and O3 were released over circular plots containing monospecific stands of Scots pine, Sitka spruce, and Norway spruce. Multivariate analysis of ectomycorrhizal community structure revealed that SO2 fumigation affected only Scots pine, where a reduction in *[[paxillus-involutus]]* mycorrhizae occurred (Shaw et al., 1992, 1993).
 
 Paradoxically, fruit body surveys showed that *Paxillus involutus* fruited more abundantly in Scots pine plots receiving high SO2 loading — the converse of the root colonization pattern. This discrepancy highlights the complexity of interpreting fungal responses to pollutants and underscores the need to distinguish between belowground (root colonization) and aboveground (fruiting) responses.
 
@@ -84,4 +84,9 @@ Estivalet et al. (1990) identified several fungal genera — *Penicillium*, *Tri
 
 ## Conclusions
 
-The effects of acidifying pollutants on mycorrhizal fungi are mediated through multiple pathways — aboveground photosynthetic reduction, belowground soil acidification and metal toxicity, changes in nutrient availability, and shifts in competitive interactions within soil fungal communities. The species-specific nature of these responses means that pollution does not simply reduce mycorrhizal abundance but fundamentally restructures the mycorrhizal community, with potentially significant consequences for tree nutrition, forest health, and ecosystem function. Understanding these complex interactions remains essential for predicting forest responses to ongoing and future atmospheric pollution.
+The effects of acidifying pollutants on mycorrhizal fungi are mediated through multiple pathways — aboveground photosynthetic reduction, belowground soil acidification and metal toxicity, changes in nutrient availability, and shifts in competitive interactions within soil fungal communities. The species-specific nature of these responses means that pollution does not simply reduce mycorrhizal abundance but fundamentally restructures the mycorrhizal community, with potentially significant consequences for tree nutrition, forest health, [[fungal-biodiversity-and-ecosystem-function]]. Understanding these complex interactions remains essential for predicting forest responses to ongoing and future atmospheric pollution.
+## See also
+
+- [[acidifying-pollutants-mycorrhizae-plant-nutrition]]
+- [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]]
+- [[nitrogen-deposition-ectomycorrhizal-community-structure]]

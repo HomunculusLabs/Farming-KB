@@ -43,7 +43,7 @@ The species is a weak competitor that relies on open, disturbed habitat. It is t
 
 Pilularia globulifera has experienced significant declines across its European range and is considered threatened in many countries. In the United Kingdom, it is listed as Vulnerable on the Vascular Plant Red List.
 
-Primary threats include eutrophication of water bodies, infilling of ponds, loss of traditional grazing management, and [[dighton-fungal-responses-climate-change]] may affect the species through altered precipitation patterns and increased drought frequency. Seasonal pond drying that exceeds the rhizome's tolerance could eliminate local populations.
+Primary threats include eutrophication of water bodies, infilling of ponds, loss of traditional grazing management, and [[dighton-fungal-responses-climate-change]] may affect the species through altered [[desert-precipitation-patterns-and-opportunistic-ecology]] increased drought frequency. Seasonal pond drying that exceeds the rhizome's tolerance could eliminate local populations.
 
 Conservation measures include creation of new ponds with suitable margins, restoration of traditional grazing regimes, and reduction of nutrient inputs to existing water bodies. The species responds well to management that maintains open substrate.
 
@@ -54,7 +54,7 @@ The species is listed on Annex II of the EU Habitats Directive as a species requ
 ## Overview
 
 Pilularia Globulifera represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -75,7 +75,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pilularia Globulifera finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -83,13 +83,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for pilularia globulifera. Climate adaptation
+opportunities for pilularia globulifera. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -104,7 +104,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pilularia globulifera and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

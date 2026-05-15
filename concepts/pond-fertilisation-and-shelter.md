@@ -1,5 +1,5 @@
 ---
-title: Pond Fertilisation and Shelter
+title: [[pond-fertilisation-and-nutrient-management]] Shelter
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -51,12 +51,12 @@ Even modestly fertilised ponds can alter yields by factors of 2 to 10 times. As 
 
 - **Excess nitrate** can be filtered via forage food ponds of crustaceans or through reed beds
 - **Land crops downstream** remove excess nutrient from pond overflow
-- **Flow-on systems** to land can usually achieve a doubling in yield for species such as melons, tomatoes, or fuel forests
+- **Flow-on systems** to land can usually achieve a doubling in yield for species such as melons, tomatoes, or [[dryland-settlement-vegetation-and-fuel-forests]]
 - **Holding back flow** for a few days allows fertiliser uptake before resuming flow for aeration
 
 ## Mud, Silt, and Waste Removal
 
-Wastes of any nature in ponds reduce water quality if they occur in excess, or as dead material. A useful distinction can be made between rotting wastes and fertilisers: fertilisers need not create excessive growth if herbivorous fish, nutria (a large aquatic rodent), or shrimp are available to eat the detritus or weeds that would otherwise die and create anaerobic conditions.
+Wastes of any nature in ponds reduce water quality if they occur in excess, or as dead material. A useful distinction can be made between rotting wastes and fertilisers: fertilisers need not create excessive growth if herbivorous fish, nutria (a large aquatic rodent), or shrimp are available to eat the detritus or weeds that would otherwise die and create [[aact-ph-and-anaerobic-conditions]].
 
 ### Still Pond Management
 
@@ -75,7 +75,7 @@ In deeper reservoirs that cannot be drained, a **jet pump** serves as a vacuum c
 Stacks of pots, pipes, tyres, and bundles of rope, reeds, or brush can have a decisive yield effect on predation losses. Effective refuges include:
 - **Artificial structures** — pots, pipes, tyre stacks, rope bundles, reed bundles, brush piles
 - **Natural features** — shallows, weedy areas, submerged logs, rock piles
-- **Cage culture** — enables strategic separation of predator and prey, or adults and juveniles
+- **[[aquaculture-structures-and-cage-culture]]** — enables strategic separation of predator and prey, or adults and juveniles
 
 ### Yield Impact
 

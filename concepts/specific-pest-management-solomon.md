@@ -12,9 +12,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Gardening When It Counts, Steve Solomon, Chapter 9
+Source: [[gardening-when-it-counts]], Steve Solomon, Chapter 9
 
-Beyond general insect philosophy, Solomon provides specific management strategies for common garden pests encountered in [[solomon-foliar-feeding-fish-emulsion-and-kelp]] (foul smell may also confuse beetles)
+Beyond general insect philosophy, Solomon provides specific [[forest-management-strategies]] for common garden pests encountered in [[solomon-foliar-feeding-fish-emulsion-and-kelp]] (foul smell may also confuse beetles)
 - If exceeding 20%, spray every few days with rotenone or liquid pyrethrum
 - Once weather moderates, the problem should resolve
 - See also [[aact-nematode-protozoa-management-ingham]]
@@ -77,8 +77,8 @@ Learning from both successes and failures is essential for continuous
 
 ## Overview
 
-Specific Pest Management Solomon represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+Specific Pest [[clay-soil-management-solomon]] represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Specific Pest Management Solomon finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -113,7 +113,7 @@ Integration with complementary elements enhances system function.
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for specific pest management solomon. Climate adaptation
+opportunities for specific pest management solomon. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 specific pest management solomon and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

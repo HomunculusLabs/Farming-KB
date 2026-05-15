@@ -16,7 +16,7 @@ Salt marshes represent one of the most physically stressful environments for [[m
 
 ### Distribution and Colonization
 
-- VAM occur in salt marsh plants including *Spartina alterniflora* and *Spartina cynosuroides* (Buresh et al., 1980; McCann, 2001)
+- VAM occur in salt marsh plants including *[[spartina-alterniflora]]* and *[[spartina-cynosuroides]]* (Buresh et al., 1980; McCann, 2001)
 - Mycorrhizal colonization varies along hydrological gradients (Miller, 2000)
 - Semi-aquatic grasses show varying degrees of colonization depending on the period and depth of inundation (Hoefnagels et al., 1993)
 - Cooke and Lefor (1990) compared VAM in plants from disturbed and undisturbed regions of coastal salt marshes in Connecticut
@@ -41,14 +41,14 @@ Herrera et al. (1993) pioneered the use of dual inoculation with selected [[arbu
 
 ### African Acacia Reclamation
 
-Michelsen (1993) showed that growth of Ethiopian acacias improved significantly when vesicular-arbuscular mycorrhizal fungi or roots of native plants were added to non-sterile soil. This indicated that the mycorrhizal inoculum potential, not just soil nutrients, was the limiting factor for tree establishment. Similarly, Michelsen and Rosendahl (1990) demonstrated that VAM fungi, combined with phosphorus, improved drought stress tolerance in *Acacia nilotica* and *Leucaena leucocephala* seedlings.
+Michelsen (1993) showed that growth of Ethiopian acacias improved significantly when vesicular-arbuscular mycorrhizal fungi or roots of native plants were added to non-sterile soil. This indicated that the mycorrhizal inoculum potential, not just soil nutrients, was the limiting factor for tree establishment. Similarly, Michelsen and Rosendahl (1990) demonstrated that VAM fungi, combined with phosphorus, improved drought stress tolerance in *Acacia nilotica* and *[[leucaena-leucocephala]]* seedlings.
 
 ## Mine Reclamation and Ectomycorrhizae
 
 Marx (1980) documented the role of ectomycorrhizae in forestation of surface mines, establishing that mycorrhizal inoculation is critical for tree seedling survival on mined lands. Key findings include:
 
 - Mine spoils typically lack indigenous mycorrhizal inoculum
-- Inoculated seedlings show dramatically improved survival and growth
+- [[truffle-inoculated-seedlings]] show dramatically improved survival and growth
 - Ectomycorrhizal fungi help seedlings access nutrients in otherwise inhospitable substrates
 
 This work has had significant practical implications for mine reclamation practices worldwide.
@@ -65,7 +65,7 @@ The interaction between mycorrhizae and salinity has agricultural relevance as w
 
 - Allen and Cunningham (1983) demonstrated effects of VAM on *Distichlis spicata* across three salinity levels
 - Juniper and Abbott (1993) reviewed VAM and soil salinity interactions more broadly
-- Baker et al. (1995) examined effects of sodium chloride and mycorrhizal infection on growth and nitrogen fixation in *Prosopis juliflora*
+- Baker et al. (1995) examined effects of sodium chloride and mycorrhizal infection on growth and nitrogen fixation in *[[prosopis-juliflora]]*
 
 These studies collectively suggest that mycorrhizae can partially ameliorate the negative effects of salinity on plant growth, though the mechanisms (improved P nutrition, osmotic adjustment, or altered root morphology) remain debated.
 
@@ -95,7 +95,7 @@ Jonsson et al. (2001) showed context-dependent effects of ectomycorrhizal specie
 
 ### Community Composition
 
-Eom et al. (2000) demonstrated host plant species effects on AM fungal communities in tallgrass prairie, showing that plant community composition directly shapes the mycorrhizal fungal community. Jonsson et al. (1999a) studied continuity of ectomycorrhizal fungi in self-regulating boreal *Pinus sylvestris* forests by comparing mycobiont diversity on seedlings and mature trees, finding evidence for persistent fungal populations across generations.
+Eom et al. (2000) demonstrated host plant species effects on AM fungal communities in tallgrass prairie, showing that [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]] directly shapes the mycorrhizal fungal community. Jonsson et al. (1999a) studied continuity of ectomycorrhizal fungi in self-regulating boreal *Pinus sylvestris* forests by comparing mycobiont diversity on seedlings and mature trees, finding evidence for persistent fungal populations across generations.
 
 ### Repeated Harvesting Effects
 

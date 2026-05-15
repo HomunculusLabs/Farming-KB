@@ -60,17 +60,17 @@ the complex terpene profile inherited from the Super Silver Haze parent.
 
 ## Cultivation Recommendations
 
-Organic cultivation methods are strongly recommended for Temple, particularly
+Organic [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] are strongly recommended for Temple, particularly
 when the strain is intended for medical use. Organic growing practices tend
 to produce a more complex terpene profile and a cleaner final product, which
-is especially important for patients using cannabis as medicine. The strain
-responds well to standard nutrient regimens and does not demand unusual
+is especially important for patients using [[cannabis-as-medicine-clinical-reference]]. The strain
+responds well to standard [[cannabis-nutrient-regimens-comparison]] and does not demand unusual
 feeding schedules or environmental conditions.
 
-Temple is versatile in terms of growing environment. It performs well both
+Temple is versatile in terms of [[cannabis-growing-environment-setup]]. It performs well both
 indoors and outdoors, making it accessible to growers regardless of their
 setup. Indoor growers will appreciate the manageable height, while outdoor
-growers in warm, Mediterranean, or temperate climates can expect robust
+growers in warm, Mediterranean, or [[fukuoka-natural-farming-temperate-climates]] can expect robust
 plants with substantial yields. The strain's resilience and relatively fast
 flowering time also make it suitable for growers in regions with shorter
 growing seasons who might otherwise avoid sativa-dominant genetics.
@@ -124,7 +124,7 @@ nutrient residues.
 
 ## Summary
 
-Temple stands as a testament to Bodhi Seeds' breeding philosophy: combining
+Temple stands as a testament to Bodhi Seeds' [[fukuoka-happy-hill-rice-breeding-philosophy]]: combining
 elite genetics to create strains that are both exceptional in quality and
 practical to grow. Its Super Silver Haze and William's Wonder heritage gives
 it a pedigree few strains can match, while its manageable height, fast

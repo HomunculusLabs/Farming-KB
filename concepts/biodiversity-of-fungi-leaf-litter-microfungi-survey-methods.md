@@ -1,9 +1,9 @@
 ---
 title: "Leaf Litter Microfungi Survey Methods"
-source: "Biodiversity of Fungi (Mueller, Bills, Foster)"
+source: "[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills, Foster)"
 source_key: "unknown-biodiversity-of-fungi.md"
 topics: [mycology, fungal-biodiversity, survey-methods, microfungi, leaf-litter, sampling]
-aliases: [litter fungi, leaf litter microfungi, microfungal diversity]
+aliases: [litter fungi, leaf litter microfungi, [[leaf-litter-microfungal-diversity-tropical-temperate]]]
 ---
 
 # Leaf Litter Microfungi Survey Methods
@@ -12,7 +12,7 @@ aliases: [litter fungi, leaf litter microfungi, microfungal diversity]
 
 Leaf litter is one of the richest substrates for fungal diversity in terrestrial
 ecosystems. Microfungi associated with decomposing leaf litter represent a vast
-and largely unexplored component of global fungal biodiversity. Surveys have
+and largely unexplored component of global [[fungal-biodiversity]]. Surveys have
 revealed that a single plant species can support well over 100 fungal species,
 and tropical forest plots can harbor hundreds of species per sample.
 
@@ -27,9 +27,9 @@ and tropical forest plots can harbor hundreds of species per sample.
   samples — demonstrating that many litter microfungi are genuinely rare.
 
 - **Heliconia mariae** (Costa Rica): Bills and Polishook recovered 56–98 species
-  per individual leaf using particle filtration.
+  per individual leaf using [[particle-filtration-dilution-plating-microfungal-isolation]].
 
-- **Pteridium aquilinum** (bracken): Frankland's classic 1966 study documented
+- **[[pteridium-aquilinum]]** (bracken): Frankland's classic 1966 study documented
   114 fungal species and distinct successional stages on dead rachides.
 
 - **Panama (six tree species)**: Cornejo et al. reported ~500 species using
@@ -77,7 +77,7 @@ high-nutrient media favoring ruderal overgrowth.
 
 ### Direct Observation
 
-Microscopic examination of leaf surfaces reveals epiphyllous fungi, embedded
+[[fungal-microscopic-examination-mounting-media-techniques]] of leaf surfaces reveals epiphyllous fungi, embedded
 pycnidia/perithecia/apothecia, and distinctive hyphomycetes that may not grow in
 culture. Requires taxonomic expertise but captures culture-resistant taxa.
 
@@ -124,7 +124,7 @@ tropical microfungal genera. Fourth, many litter fungi produce sterile cultures
 that defy identification by traditional morphological methods alone — molecular
 techniques are increasingly necessary but add cost and complexity.
 
-The relationship between litter diversity and ecosystem function remains an
+The relationship between litter [[fungal-diversity-and-ecosystem-function]] function remains an
 active research frontier. Litter microfungi drive decomposition, nutrient
 cycling, and soil organic matter formation. Their diversity may influence
 decomposition rates and nutrient release patterns, though establishing causal

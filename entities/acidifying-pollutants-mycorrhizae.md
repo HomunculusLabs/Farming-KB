@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The interaction between acidifying pollutants (acid rain, sulfur dioxide, nitrogen oxides, and ozone) and mycorrhizal fungi is a major area of study in fungal ecology. Acidifying pollutants alter mycorrhizal community structure, colonization rates, fruiting body production, and the functional capacity of mycorrhizal symbioses in forest ecosystems. The effects are mediated through changes in soil chemistry, direct toxicity to fungal hyphae, and indirect effects via reduced host plant photosynthesis.
+The interaction between acidifying pollutants (acid rain, sulfur dioxide, nitrogen oxides, and ozone) and [[mycorrhizal-fungi]] is a major area of study in [[fungal-ecology]]. Acidifying pollutants alter mycorrhizal community structure, colonization rates, fruiting body production, and the functional capacity of mycorrhizal symbioses in forest ecosystems. The effects are mediated through changes in soil chemistry, direct toxicity to fungal hyphae, and indirect effects via reduced host plant photosynthesis.
 
 ## Classification
 
@@ -82,3 +82,8 @@ Understanding pollutant-mycorrhizae interactions is essential for:
 - Rühling and Tyler (1991); Carreira et al. (2000)
 - Thompson and Medve (1984); Kottke and Oberwinkler (1990)
 - Baxter and Dighton (2001); Duckmanton and Widden (1994)
+## See also
+
+- [[acidifying-pollutants-mycorrhizae-plant-nutrition]]
+- [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]]
+- [[nitrogen-deposition-ectomycorrhizal-community-structure]]

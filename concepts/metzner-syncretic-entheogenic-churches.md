@@ -1,5 +1,5 @@
 ---
-title: Metzner Syncretic Entheogenic Churches
+title: [[metzner-syncretic-entheogenic-churches-brazil-bwiti]] Churches
 aliases: [Santo Daime, UDV, ayahuasca-churches-syncretic-ceremonies, hoasca]
 tags: [psychedelics, religion, shamanism, community, indigenous, legal, entheogens]
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
@@ -52,14 +52,14 @@ but at the cultural level of preserving indigenous identity and knowledge system
 ## Contrast with Shamanic Healing
 
 Metzner drew a distinction between entheogen-based shamanic rituals and folk
-religious ceremonies, though he acknowledged this is "in some ways arbitrary"
+[[entheogenic-folk-religious-ceremonies]], though he acknowledged this is "in some ways arbitrary"
 and that there exists "a continuum of ritual forms and practices." The emphasis
-in shamanic practices is healing and divination, usually in small groups of around
+in shamanic practices is [[metzner-shamanic-healing-and-divination-paradigm]], usually in small groups of around
 a dozen, or sometimes with just one or two afflicted individuals. The folk
 religious ceremonies involve larger groups, and the aspect of healing and
 divination tends to recede in favor of group worship, singing, and prayer.
 
-Instead of a shaman or healer, syncretic ceremonies feature priests and
+Instead of a shaman or healer, [[ayahuasca-churches-syncretic-ceremonies]] feature priests and
 officiants. There is very little discussion or sharing of visions or insights,
 in contrast to the integrative processing that follows shamanic healing sessions.
 The community bonding function, while present in shamanic work, becomes the
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Metzner Syncretic Entheogenic Churches finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 metzner syncretic entheogenic churches and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

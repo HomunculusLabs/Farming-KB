@@ -6,7 +6,7 @@ type: concept
 
 # Seed Quality and Selection
 
-The quality of seed you plant is one of the most important — and most overlooked — factors in gardening success. Most home gardeners have no idea that the seed sold in garden centers and on seed racks is often a fundamentally different product from the seed used by commercial farmers and market gardeners. Understanding the seed industry and what separates quality seed from cheap seed is essential for getting reliable results.
+The quality of seed you plant is one of the most important — and most overlooked — factors in gardening success. Most home gardeners have no idea that the seed sold in [[solomon-garden-centers-seedling-traps]] and on seed racks is often a fundamentally different product from the seed used by commercial farmers and market gardeners. Understanding the [[seed-industry-and-primary-growers]] what separates quality seed from cheap seed is essential for getting reliable results.
 
 ## The Seed Industry Structure
 
@@ -62,7 +62,7 @@ A primary grower's sales manager candidly explained the garden seed business:
 
 When seed is produced the cheap way:
 
-1. Off-types are not eradicated from seed production fields
+1. Off-types are not eradicated from [[cannabis-controlled-pollination-seed-production]] fields
 2. No skilled plant breeders maintain pure genetic lines
 3. Fields surrounding production areas are not patrolled for cross-pollination risks
 4. Plants are not carefully hand-selected for seed production
@@ -112,7 +112,7 @@ Maintaining a quality variety requires:
 
 What has been described was standard practice in the home-garden seed trade long before the 1970s. But with retail chains demanding ever lower prices, the primary garden-seed grower must cut more corners to survive.
 
-By the 1980s, a few quality-focused seed companies like Johnny's Selected Seeds began to challenge this model, offering genuinely commercial-quality seed to home gardeners. But the overall trend continues toward lower quality at lower prices.
+By the 1980s, a few quality-focused seed companies like Johnny's [[johnnys-selected-seeds]] began to challenge this model, offering genuinely commercial-quality seed to home gardeners. But the overall trend continues toward lower quality at lower prices.
 
 ## Practical Recommendations
 
@@ -120,13 +120,13 @@ By the 1980s, a few quality-focused seed companies like Johnny's Selected Seeds 
 
 - Seek out specialty seed companies that serve both home gardeners and small market growers
 - Companies that also sell to farmers are more likely to offer genuine commercial quality
-- Look for companies that publish germination rates and variety trial results
+- Look for companies that publish germination rates and [[solomon-variety-trial-methodology]] results
 - Mail-order from reputable specialists is generally superior to seedrack purchases
 
 ### What to Avoid
 
 - Seed racks in discount stores and big-box retailers
-- Heirloom varieties from unknown sources — many are not what they claim
+- [[cannabis-landrace-and-heirloom-varieties]] from unknown sources — many are not what they claim
 - Seeds sold primarily by attractive picture packets rather than performance data
 - Companies that cannot provide germination information
 

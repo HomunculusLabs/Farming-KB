@@ -1,18 +1,18 @@
 ---
-title: Manure Composting Methods
+title: Manure [[composting-methods-comparison]]
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Manure Composting Methods
 
-If you have access to livestock manure — whether from your own animals, a neighbor's farm, or a feedlot — you have one of the most valuable materials for compost production. Different types of manure require different handling, but all share the same fundamental principles: proper C:N balancing, adequate moisture, sufficient soil for nitrate capture, and careful temperature management.
+If you have access to livestock manure — whether from your own animals, a neighbor's farm, or a feedlot — you have one of the most valuable materials for compost production. Different types of manure require different handling, but all share the same fundamental principles: proper C:N balancing, adequate moisture, sufficient soil for nitrate capture, and careful [[cervantes-reservoir-temperature-management]].
 
 ## General Principles
 
 ### Raw Manure Safety
 
-Do NOT incorporate raw manure into soil before starting a vegetable crop whose edible parts will contact the soil. Some manures are contaminated with antibiotics, hormones, and pesticides. Certified organic growers are not allowed to harvest a crop unless more than 120 days have elapsed between putting the manure into soil and harvest.
+Do NOT incorporate raw manure into soil before starting a [[vegetable-crop-demand-classification-fertility-matching-solomon]] whose edible parts will contact the soil. Some manures are contaminated with antibiotics, hormones, and pesticides. Certified organic growers are not allowed to harvest a crop unless more than 120 days have elapsed between putting the manure into soil and harvest.
 
 ### Solids and Liquids
 
@@ -25,7 +25,7 @@ Animal wastes come in two parts — solid and liquid (urine). They are equally v
 - C:N of solid fraction varies with what the animals are fed
 - Could range from 15:1 to 30:1 depending on bedding and diet
 - May contain valuable minerals in addition to nitrogen and potassium
-- Urine-soaked grain straw: C:N ~30:1
+- Urine-soaked [[fukuoka-straw-winter-grain-straw-mulch]]: C:N ~30:1
 - Urine/straw and solids mixed in roughly equal quantities: excellent compost base
 
 ### Composting Method
@@ -90,7 +90,7 @@ Properly composted poultry or rabbit manure will end up with a C:N of about 10:1
 
 ## Commercial Chicken Manure Products
 
-Many garden centers sell bagged chicken manure compost. These are usually made by blending chicken manure with sawdust. After a brief initial heating, the material cools and sits while the sawdust slowly decomposes. The product is then dried and sacked or pelletized.
+Many [[solomon-garden-centers-seedling-traps]] sell bagged [[chicken-manure]] compost. These are usually made by blending chicken manure with sawdust. After a brief initial heating, the material cools and sits while the sawdust slowly decomposes. The product is then dried and sacked or pelletized.
 
 ### The Problem
 
@@ -104,7 +104,7 @@ These products work okay, but only if you use larger quantities than would be in
 
 ### Feedlot Manure
 
-Well-rotted feedlot manure can be obtained relatively cheaply. One dump-truck load can supply an average home garden's organic matter deficit for about two years. Check with local farmers, feedlots, or livestock operations.
+Well-rotted feedlot manure can be obtained relatively cheaply. One dump-truck load can supply an average home garden's [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] deficit for about two years. Check with local farmers, feedlots, or livestock operations.
 
 ### Freshness Matters
 

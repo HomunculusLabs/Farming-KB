@@ -1,6 +1,6 @@
 ---
-title: Windbreak Establishment and Benefits
-source: [[permaculture]], particularly on exposed sites. The chill factor — the removal of heat from surfaces and evaporation of fluids — creates cool to cold climates in the tropics at lower altitudes than adiabatic or altitude factors would indicate. This chill factor retards plant growth and lowers the efficiency of solar devices and insulation. In cyclonic or hurricane areas, catastrophic winds may become the overriding design consideration around which all other factors must be arranged.
+title: [[windbreak-establishment-methods]] and Benefits
+source: [[permaculture]], particularly on exposed sites. The chill factor — the removal of heat from surfaces and evaporation of fluids — creates cool to [[query-best-kiwifruit-varieties-for-cold-climates]] in the tropics at lower altitudes than adiabatic or altitude factors would indicate. This chill factor retards plant growth and lowers the efficiency of solar devices and insulation. In cyclonic or hurricane areas, catastrophic winds may become the overriding design consideration around which all other factors must be arranged.
 
 ## Windbreak Design Strategy
 
@@ -22,7 +22,7 @@ source: [[permaculture]], particularly on exposed sites. The chill factor — th
 
 ### Mesh Fence "Fedges"
 
-Mesh fences, if stoutly built with a heavy top rail, can serve as the basis for **fedges** (fence-hedges) of thick-leaved vines. On coasts, these may be completely mounded over with tough semi-succulents, creating living barriers that combine wind protection with food production.
+Mesh fences, if stoutly built with a heavy top rail, can serve as the basis for **fedges** (fence-hedges) of thick-leaved vines. On coasts, these may be completely mounded over with tough semi-succulents, creating living barriers that combine [[cervantes-wind-protection-outdoor-cannabis]] with food production.
 
 ## Coastal Windbreak Considerations
 
@@ -30,7 +30,7 @@ Mesh fences, if stoutly built with a heavy top rail, can serve as the basis for 
 
 It is rare for tree canopies on dry salt-wind coasts to gain more than 46 cm height in 1 m width (18 inches in 3 feet), so considerable width must be given to pioneer windbreaks in these situations. Options include:
 
-- Nursing hardy pioneers such as **Norfolk Island pines** (*[[araucaria-heterophylla]]*) to grow to windward
+- Nursing hardy pioneers such as **[[norfolk-island-pine]] pines** (*[[araucaria-heterophylla]]*) to grow to windward
 - Using fence, building, earth bank, or barrier to give trees a great start for far less spread
 
 ### Small-Scale Shelter Effects
@@ -91,7 +91,7 @@ Effects of shelterbelts are compound and include:
 
 Windbreaks are very effective in snowy areas, increasing soil moisture to **four times the height of the break** and to 1.2 m depth in soils. In foggy climates or facing sea coasts, the effect of sea air condensation can provide from **80–300% of rainfall** as leaf drip.
 
-In hot deserts and hot winds, advected hot winds are the major factor in soil moisture loss. Windbreaks prevent serious soil losses of up to 100 tonnes/hectare/day in duststorm episodes. Approximately **50–70% of dusts settle out of the air** 100 m into tree clumps, making treelines the essential accompaniment to any pastoral or crop system in arid areas.
+In hot deserts and hot winds, advected hot winds are the major factor in soil moisture loss. Windbreaks prevent serious soil losses of up to 100 tonnes/hectare/day in duststorm episodes. Approximately **50–70% of dusts settle out of the air** 100 m into tree clumps, making treelines the essential accompaniment to any pastoral or crop system [[soil-amelioration-and-fertilisers-in-arid-areas]].
 
 On coasts, removal of mangroves and coastal dune vegetation results in sudden acceleration of wind erosion, and following deforestation, up to **30% more silt per annum** flows into and reduces the useful life of water storages.
 
@@ -101,4 +101,4 @@ Windbreak species can be chosen to provide:
 
 - Excellent **crop mulch** (*[[prosopis]]*, *Acacia*, *Erythrina*, *Melia*, *Canna*)
 - **Fodder** (all the foregoing species plus *Leucaena*, fig, *Pennisetum*)
-- **Nitrogen fixation** and phosphatic fertiliser recycling
+- **[[biological-nitrogen-fixation-agriculture]]** and phosphatic fertiliser recycling

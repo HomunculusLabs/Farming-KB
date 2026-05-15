@@ -54,7 +54,7 @@ present.
 ### Spores and Microscopic Features
 Spores are broadly elliptical to rhombic, smooth, and thin-walled, measuring
 approximately 6 to 8 µm by 5 to 6.5 µm. [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] [[dmt-containing-plants-united-states-halpern]] and
-southeastern Canada, with scattered records from the Pacific Northwest. European records
+southeastern Canada, with scattered records from the [[psilocybin-north-america-pacific-northwest]]. European records
 span from Scandinavia to the Mediterranean region.
 
 This species is exclusively saprotrophic on hardwood, growing on decaying logs, stumps,
@@ -71,7 +71,7 @@ ambient light.
 ## Overview
 
 Pluteus Villosus represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pluteus Villosus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,13 +100,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for pluteus villosus. Climate adaptation
+opportunities for pluteus villosus. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pluteus villosus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

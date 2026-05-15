@@ -10,7 +10,7 @@ As human populations expand and industrial activities intensify, the effects of 
 
 ## The Evolution of Acid Rain Research
 
-The story of acid rain research in mycology illustrates how scientific understanding evolves. Following the industrial revolution in Europe, industrially-related changes in ecosystems became apparent. The emergence of a dark form of the peppered moth (*Biston betularia*) adapted to soot-coated bark was one early observation. More relevant to mycology, the dramatic decline of lichens near industrial centers provided one of the first biological indicators of atmospheric pollution.
+The story of acid rain research in mycology illustrates how [[fukuoka-fallacies-scientific-understanding]] evolves. Following the [[mckenna-caffeine-coffee-and-industrial-revolution]] in Europe, industrially-related changes in ecosystems became apparent. The emergence of a dark form of the peppered moth (*[[biston-betularia]]*) adapted to soot-coated bark was one early observation. More relevant to mycology, the dramatic decline of lichens near industrial centers provided one of the first [[biological-indicators-of-soil]] [[lichen-bioindicators-atmospheric-pollution]].
 
 The identification of declining forest health in central Europe during the 1970s—the "Waldsterben" (forest dieback) effect—focused attention on acid rain as the culprit. Sulfuric acid, dissolved in rain droplets, was partly a by-product of energy production using high-sulfur coal. Initially, plant physiologists documented damage to cuticular waxes and reduced photosynthetic capacity of tree canopies. It was only in the late 1970s that soil ecologists connected acid rain to root damage and mycorrhizal disruption.
 
@@ -18,7 +18,7 @@ Key researchers including Ulrich et al. (1979), Hütterman (1982), and Blaschke 
 
 ## The Pollutant Landscape
 
-Modern understanding recognizes multiple interacting acidifying pollutants:
+Modern understanding recognizes multiple interacting [[acidifying-pollutants-mycorrhizae]]:
 
 - **Sulfur dioxide (SO₂)**: Released from fossil fuel combustion; combines with water to form sulfuric acid
 - **Ozone (O₃)**: Tropospheric (ground-level) ozone damages cuticular waxes and photosynthetic capacity
@@ -55,7 +55,7 @@ The ratios of Al to other nutrients—Al:Ca, Al:Mg, and Al:PO₄—are important
 
 ## Field Fumigation Experiments
 
-Field-scale experiments have provided crucial evidence. In a fumigation experiment where SO₂ and O₃ were released over plots containing Scots pine, Sitka spruce, and Norway spruce (McLeod et al., 1992), multivariate analysis revealed that SO₂ fumigation caused a reduction in *Paxillus involutus* mycorrhizae on Scots pine. Paradoxically, *Paxillus involutus* fruit bodies were more abundant in high-SO₂ plots—the converse of root colonization patterns, highlighting the complex relationship between root colonization and fruiting.
+Field-scale experiments have provided crucial evidence. In a fumigation experiment where SO₂ and O₃ were released over plots containing Scots pine, Sitka spruce, and Norway spruce (McLeod et al., 1992), multivariate analysis revealed that SO₂ fumigation caused a reduction in *[[paxillus-involutus]]* mycorrhizae on Scots pine. Paradoxically, *Paxillus involutus* fruit bodies were more abundant in high-SO₂ plots—the converse of root colonization patterns, highlighting the complex relationship between root colonization and fruiting.
 
 ## Ozone Effects on Arbuscular Mycorrhizae
 
@@ -78,3 +78,8 @@ Changes in the composition and abundance of macrofungal fruit bodies, particular
 ## Emerging Research Directions
 
 Dighton and Jansen (1991) identified two critical gaps in the research: understanding changes in ectomycorrhizal community structure (now being addressed through molecular analysis) and understanding the functional consequences of community change for ecosystem processes. The diversity-function debate in mycorrhizal ecology is still in its infancy, though early evidence suggests that mycorrhizal diversity per se may be a better determinant of plant nutrient status than specific species composition.
+## See also
+
+- [[fungal-interactions-with-humans]]
+- [[waldsterben]]
+- [[acidifying-pollutants-mycorrhizae-plant-nutrition]]

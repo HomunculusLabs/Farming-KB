@@ -25,9 +25,9 @@ Harmalol is a β-carboline alkaloid found in several plant species, most notably
 *[[golden-guide-syrian-rue-and-maoi-plants]]) and *[[schultes-ayahuasca-preparations]] by preventing the
 metabolic breakdown of DMT in the gastrointestinal tract. However, it is
 typically present in much lower concentrations than harmine or harmaline in
-traditional preparations.
+[[classic-mushroom-recipes-traditional-preparations]].
 
-Harmalol was first isolated from *Peganum harmala* seeds in the mid-20th
+Harmalol was first isolated from *[[mckenna-food-gods-peganum-harmala-soma]]* seeds in the mid-20th
 century. Despite being less studied than its better-known relatives, it has
 attracted research interest for its pharmacological profile and potential
 neuroprotective properties.
@@ -75,7 +75,7 @@ though the functional significance of this interaction is not well understood.
 ## Overview
 
 Harmalol represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Harmalol finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,7 +104,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 harmalol and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

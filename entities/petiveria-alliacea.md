@@ -62,14 +62,14 @@ The chemical profile of *P. alliacea* is diverse, with sulfur-containing compoun
 - **Benzyl 2-hydroxyethyl trisulfide** and related benzyl polysulfides — primary sulfur compounds responsible for the garlic-like odor; exhibit antimicrobial and cytotoxic activity.
 - **6-Benzyl-1,3-cyclohexanedione derivatives** — dibenzyl trisulfide (DTS) is the most studied; demonstrates immunomodulatory and anticancer properties in vitro.
 - **Flavonoids** — including quercetin and kaempferol glycosides, contributing antioxidant and anti-inflammatory activity.
-- **Coumarins** — scopoletin and related compounds with documented antispasmodic and anticoagulant effects.
+- **Coumarins** — scopoletin and [[lsd-structure-activity-relationships-related-compounds]] with documented antispasmodic and anticoagulant effects.
 - **Triterpenes and saponins** — betulinic acid derivatives with reported cytotoxic activity against [[cannabis-respiratory-conditions]] including asthma and bronchitis.
 
 Modern herbal practitioners continue to use the plant for immune support, arthritis pain, and as an adjunctive therapy in cancer [[cho-plant-growth-stage-treatment-protocols]]. The root decoction is the most common preparation method.
 
 ### Preparations and Dosage
 
-Traditional preparations include cold-water macerations of the fresh or dried root, alcoholic tinctures, and dried leaf infusions. The cold-water extract is preferred in Caribbean practice, as heating is believed to degrade some of the active sulfur compounds.
+[[classic-mushroom-recipes-traditional-preparations]] include cold-water macerations of the fresh or dried root, alcoholic tinctures, and dried leaf infusions. The cold-water extract is preferred in Caribbean practice, as heating is believed to degrade some of the active sulfur compounds.
 
 Typical dosing in traditional practice ranges from 1–3 g of dried root material per day in decoction. Tinctures are commonly used at 2–4 mL of a 1:5 extract taken two to three times daily.
 
@@ -80,7 +80,7 @@ Typical dosing in traditional practice ranges from 1–3 g of dried root materia
 ## Overview
 
 Petiveria Alliacea represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Petiveria Alliacea finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 petiveria alliacea and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -19,7 +19,7 @@ sources:
   improvement of horticulture.' Fruits, 64(3), 157–176."
 - "Ferreres, F., et al. (2009). 'New approach to the flavonoid profile of loquat
   (Eriobotrya japonica) fruits.' J. Agric. Food Chem., 57(18), 8522–8528."
-- "Ercisli, S., & Orhan, E. (2007). 'Chemical composition of white (Morus alba)
+- "Ercisli, S., & Orhan, E. (2007). '[[chemical-composition-of-hallucinogens]] white (Morus alba)
   and dark (Morus nigra) mulberry fruits.' Food Chemistry, 100(3), 984–988."
 - "Polat, A.A., et al. (2005). 'Loquat growing in Turkey.' Acta Horticulturae,
   673, 45–51."
@@ -36,7 +36,7 @@ family that produces sweet, aromatic fruit during late winter and early
 spring, one of the few temperate-zone trees to flower in autumn and ripen its
 crop in late winter. Native to the hill country of southeastern China, the
 loquat has been cultivated for over two thousand years and has spread across
-subtropical and warm temperate regions worldwide, from the Mediterranean basin
+subtropical and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, from the Mediterranean basin
 to Japan, Brazil, and the southern [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are entering dormancy, they ripen their fruit during the
 traditional "hunger gap" between citrus and [[shroom-cultural-history-hippie-revolution-and-counterculture]] in East Asia. The earliest written
 records of loquat cultivation appear in Chinese texts dating to the Han
@@ -74,7 +74,7 @@ Optimal growing conditions include warm to hot summers for [[banana-and-plantain
 ## Overview
 
 Loquat Cultivation And Variety Guide represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Loquat Cultivation And Variety Guide finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -103,7 +103,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 loquat cultivation and variety guide and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

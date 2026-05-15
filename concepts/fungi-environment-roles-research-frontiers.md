@@ -28,7 +28,7 @@ Fungal pathogens cause some of the most devastating crop diseases. The rice blas
 
 Fungi form two major types of mutualistic symbiosis:
 
-- **Mycorrhizas**: Symbiotic associations between fungi and plant roots. Mycorrhizal fungi can be associated with the vast majority of plant species and are responsible for major transformations and redistribution of inorganic nutrients as well as carbon flow between plants and soil. They enhance plant uptake of phosphorus and other immobile nutrients, influence plant community composition, and affect global carbon sequestration.
+- **Mycorrhizas**: Symbiotic associations between fungi and plant roots. Mycorrhizal fungi can be associated with the vast majority of plant species and are responsible for major transformations and redistribution of inorganic nutrients as well as carbon flow between plants and soil. They enhance plant uptake of phosphorus and other immobile nutrients, influence [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]], and affect global carbon sequestration.
 - **Lichens**: Symbiotic associations between fungi (usually ascomycetes) and photosynthetic partners (algae or cyanobacteria). Lichens are pioneer organisms capable of colonizing bare rock and other exposed environments where water relations are critical survival determinants. They contribute to soil formation through biochemical weathering of rock surfaces.
 
 ## Biogeochemical Cycling
@@ -61,13 +61,13 @@ The book highlights several modern approaches transforming environmental mycolog
 
 - **DNA microarrays** enable genome-wide expression profiling of fungi during interactions with hosts (e.g., nematode-trapping fungi during prey capture).
 - **Functional genomics** of pathogenic fungi (e.g., *Magnaporthe* species) reveals the gene regulatory networks underlying infection processes.
-- **Genomic insights into arbuscular mycorrhizal development** are uncovering the molecular dialogue between plant and fungus during symbiosis establishment.
+- **Genomic insights into [[genomics-arbuscular-mycorrhizal-development]]** are uncovering the molecular dialogue between plant and fungus during symbiosis establishment.
 
 ### Imaging and Cell Biology
 
 - **Confocal microscopy** with fluorescent probes allows visualization of nutrient dynamics within living hyphal networks at sub-cellular resolution.
 - **[[fluorescence-recovery-after-photobleaching]] (FRAP)** provides quantitative measurements of molecular diffusion and transport rates within fungal cells.
-- **Advanced imaging of sub-cellular organelles** has revealed unsuspected complexity in fungal cell structure, including the roles of Woronin bodies and peroxisomes in the ascomycete lifestyle.
+- **Advanced imaging of sub-cellular organelles** has revealed unsuspected complexity in fungal cell structure, including the roles of Woronin bodies and peroxisomes in the [[gadd-peroxisomes-ascomycete-lifestyle]].
 
 ### Mathematical Modeling
 
@@ -104,7 +104,7 @@ Examines plant pathogens (rice blast fungus), nematode-trapping fungi as biocont
 
 ### V. Environmental Population Genetics of Fungi
 
-Advances in understanding fungal species concepts, species recognition, and population structure using multilocus sequence typing (MLST) and multilocus microsatellite typing (MLMT).
+Advances in understanding fungal species concepts, species recognition, and population structure using [[fungi-multilocus-sequence-typing-molecular-epidemiology]] (MLST) and multilocus microsatellite typing (MLMT).
 
 ### VI. Molecular Ecology of Fungi in the Environment
 
@@ -115,7 +115,7 @@ Examples of molecular approaches to studying fungal communities in specialized e
 The editors note that mycological interests are fragmented between traditional microbiological and botanical activities, and across fields including cell biology, plant symbiosis, pathogenesis, and genetics. Modern environmental mycology requires integration of these disparate areas:
 
 - **Cell biologists** and **geneticists** rely on fungal model systems (*Saccharomyces*, *Aspergillus*, *Neurospora*, *Coprinopsis*) but may not consider the environmental context.
-- **Ecologists** study fungal community dynamics and ecosystem function but may lack awareness of the molecular mechanisms underlying observed patterns.
+- **Ecologists** study [[fungal-community-dynamics-ecosystem-stability]] [[fungal-biodiversity-and-ecosystem-function]] but may lack awareness of the molecular mechanisms underlying observed patterns.
 - **Plant pathologists** focus on disease but may overlook the broader ecological roles of their study organisms.
 
 The interdisciplinary approaches showcased in this volume — combining molecular tools, advanced imaging, mathematical modeling, and ecological field research — represent a movement toward a more unified, systems-level understanding of fungi in their environments.

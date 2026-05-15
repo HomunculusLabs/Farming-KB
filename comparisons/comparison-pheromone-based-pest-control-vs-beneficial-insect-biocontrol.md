@@ -26,7 +26,7 @@ type: comparison
 | **Cost per season** | $20–$150/acre depending on crop and pest | $30–$400/acre depending on agent and release rate |
 | **Non-target impact** | Negligible (species-specific compounds) | Low but possible (generalist predators may affect non-pest species) |
 | **Resistance risk** | Very low | Low to moderate |
-| **Best for** | Lepidopteran pests in orchards/vineyards, stored product moths | Aphids, mites, whiteflies, caterpillars in diverse [[comparison-predatory-mites-vs-ladybugs-biocontrol]] and parasitic wasps.
+| **Best for** | Lepidopteran pests in orchards/vineyards, stored product moths | Aphids, mites, whiteflies, caterpillars in diverse [[comparison-predatory-mites-vs-ladybugs-biocontrol]] and [[parasitic-wasps-biological-pest-control]].
 - **Targeted *Trichogramma* releases** for secondary lepidopteran pests.
 - **Minimal insecticide use** — reserved for threshold-based interventions only.
 
@@ -42,10 +42,10 @@ This integrated program has reduced synthetic insecticide applications by 60–8
 
 ### Biocontrol
 
-- **Ecological footprint:** Minimal chemical input. Rearing facilities use energy and resources but the field application is biologically benign.
+- **Ecological footprint:** Minimal chemical input. Rearing facilities use energy and resources but the [[knf-imo-four-soil-foundation-and-field-application]] is biologically benign.
 - **Biodiversity impact:** Generally positive — biocontrol promotes a more diverse predatory arthropod community. However, poorly chosen agents (especially generalist predators) can disrupt native food webs.
 - **Invasive species risk:** Historical biocontrol introductions (e.g., cane toad in Australia, *Harmonia axyridis* globally) demonstrate the risk of releasing non-native agents without adequate screening.
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] (ground beetles are both predators and detritivores).
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] ([[ground-beetles-carabidae-and-biological-pest-control]] are both predators and detritivores).
 
 ## Cost-Benefit Summary
 
@@ -62,7 +62,7 @@ This integrated program has reduced synthetic insecticide applications by 60–8
 ## Decision Framework
 
 1. **Identify the target pest species.** If the pest is a lepidopteran with a commercially available pheromone in an orchard/vineyard/greenhouse, pheromone-based control is likely the best primary strategy.
-2. **Assess the cropping environment.** Enclosed spaces (greenhouses, storage facilities) favor both approaches; open fields favor biocontrol and habitat-based conservation strategies.
+2. **Assess the cropping environment.** [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces]] (greenhouses, storage facilities) favor both approaches; open fields favor biocontrol and habitat-based [[endangered-fungi-and-conservation-strategies]].
 3. **Evaluate existing beneficial populations.** If the farm already has diverse predator populations, conservation biocontrol (habitat enhancement) may be the most cost-effective option.
 4. **Consider the pest pressure level.** For low-to-moderate pressure, pheromone disruption or biocontrol alone may suffice. For high pressure, combine both or use selective insecticides as a rescue treatment.
 5. **Check for registered products** in your region. Pheromone product availability varies by country and pest species.

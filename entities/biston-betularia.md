@@ -87,8 +87,13 @@ tags: [entomology, ecology, industrial-pollution, evolution, bioindicators]
 
 ## See Also
 
-- Lichens as bioindicators
+- [[lichens-as-bioindicators]]
 - Industrial pollution effects on fungi
 - Acidifying pollutants and mycorrhizae
 - Waldsterben (forest dieback)
 - Sulfur dioxide effects on ecosystems
+## See also
+
+- [[cassida-rubiginosa]]
+- [[spodoptera-frugiperda]]
+- [[entomopathogenic-fungi]]

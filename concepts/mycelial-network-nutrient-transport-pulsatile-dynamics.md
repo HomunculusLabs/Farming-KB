@@ -48,7 +48,7 @@ centimetres.
 The vacuolar structure develops from a complex reticulum of fine tubes interspersed
 with small spherical vacuoles at the hyphal tip to a series of larger, more
 spherical, adherent vacuoles interconnected with fine tubes in more mature regions.
-Using fluorescence recovery after photobleaching (FRAP) with Oregon Green dye,
+Using [[fluorescence-recovery-after-photobleaching]] (FRAP) with Oregon Green dye,
 researchers measured the vacuolar diffusion coefficient in vivo and found it
 compared favorably with values for fluorescein in pure water, indicating that the
 dye was freely diffusible in a largely aqueous vacuole.

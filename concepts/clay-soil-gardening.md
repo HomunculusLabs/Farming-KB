@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Clay soils present some of the greatest challenges for vegetable gardeners. They are heavy, difficult to work, prone to compaction, and drain poorly. However, with proper management, clay soils can be made productive — though [[steve-solomon]] is candid that they will never match the performance of naturally light soils for vegetable production.
+Clay soils present some of the greatest challenges for vegetable gardeners. They are heavy, difficult to work, prone to compaction, and drain poorly. However, with proper management, clay soils can be made productive — though [[steve-solomon]] is candid that they will never match the performance of naturally light soils for [[coleman-french-historical-winter-vegetable-production]].
 
 ## Characteristics of Clay Soils
 
@@ -21,7 +21,7 @@ Clay soils are the heaviest, most airless of all soil types. They share several 
 - **Difficult weeding**: The settled hardness makes hoeing and pulling weeds far more laborious than in lighter soils
 - **Low air content**: Most vegetables struggle in the airless environment clay provides
 
-Despite these drawbacks, clay soils do have agricultural uses. They can support orchards and permanent pastures if they drain well. But no experienced farmer or market gardener would willingly choose clay for crops requiring seedbed preparation — the core activity of vegetable gardening.
+Despite these drawbacks, clay soils do have agricultural uses. They can support orchards and permanent pastures if they drain well. But no experienced farmer or market gardener would willingly choose clay for crops requiring [[soil-tilth-and-seedbed-preparation]] — the core activity of [[dryland-vegetable-gardening]].
 
 ## The Ready-to-Till Test
 
@@ -54,7 +54,7 @@ The most commonly recommended approach in garden magazines is to blend large amo
 - First year: Dig in a layer 3–4 inches (7.5–10 cm) thick of compost or well-rotted manure
 - Subsequent years: Add 1½ inch (4 cm) layers annually to maintain the improvement
 
-**Solomon's critique**: This approach is expensive, labor-intensive, and never fully successful. The organic matter decomposes rapidly in clay and requires constant replacement. Even after years of amendment, remediated clay will never grow vegetables as well as naturally light soil. Worse, excessive organic matter can unbalance the soil's mineral content, directly harming the nutritional quality of the vegetables grown in it.
+**Solomon's critique**: This approach is expensive, labor-intensive, and never fully successful. The organic matter decomposes rapidly in clay and requires constant replacement. Even after years of amendment, remediated clay will never grow vegetables as well as naturally light soil. Worse, excessive organic matter can unbalance the soil's mineral content, directly harming the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of the vegetables grown in it.
 
 ### Option 2: Low-Budget Clay Remediation
 
@@ -72,7 +72,7 @@ The result won't be light and fluffy, but it will be enough to make a decent gar
 
 Solomon's recommended approach when finances allow: simply import a thick layer of loam topsoil and spread it over the clay.
 
-**His personal experience**: He had 120 cubic yards of sandy loam topsoil delivered and spread it nearly one foot (30 cm) thick over his clay-based garden site, covering the beds (not the paths). This cost approximately $1,200 but transformed the garden.
+**His [[palmer-mushroom-cooking-and-personal-experience]]**: He had 120 cubic yards of sandy loam topsoil delivered and spread it nearly one foot (30 cm) thick over his clay-based garden site, covering the beds (not the paths). This cost approximately $1,200 but transformed the garden.
 
 **Advantages of imported topsoil**:
 - The imported loam becomes the topsoil; the clay becomes the subsoil
@@ -110,6 +110,6 @@ A critical concern for gardens located on former farmland: clay soils (and indee
 1. Clay is the most challenging soil type for vegetable gardening — it is heavy, airless, and difficult to work
 2. The ready-to-till test is essential before any digging or tilling operation on clay
 3. Importing topsoil over clay is the most effective long-term solution, despite upfront cost
-4. Excessive organic matter amendment can harm vegetable nutritional quality by unbalancing soil minerals
+4. Excessive organic matter amendment can harm [[solomon-vegetable-nutritional-decline-trace-minerals]] quality by unbalancing soil minerals
 5. Clay has high nutrient-holding capacity — once "charged," it retains fertility well
 6. Always check for plow pans on former agricultural land and break through them manually

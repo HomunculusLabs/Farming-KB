@@ -12,7 +12,7 @@ type: concept
 # Fungal Exopolysaccharides, Biofilm, and Soil Aggregation
 
 Fungal exopolysaccharides (EPS) and related extracellular polymeric substances
-play critical roles in soil structure formation, water retention, and
+play critical roles in [[soil-structure-formation]], water retention, and
 ecosystem stability. Singh's treatment of this topic within the mycoremediation
 context emphasizes that fungal contributions to soil physical properties are
 at least as important as their well-documented [[trichoderma-forest-green-mold-guide]] species,
@@ -37,7 +37,7 @@ mechanisms:
   reduces surface runoff
 - The hydrophilic functional groups in EPS (hydroxyl, carboxyl) bind
   water molecules through hydrogen bonding, increasing the water-
-  holding capacity of sandy soils
+  [[pf-tek-vermiculite-type-comparison-water-holding-capacity]] of sandy soils
 - In clay soils, EPS can reduce swelling and shrinkage cycles by
   stabilizing clay domains, preventing crack formation and maintaining
   continuity of water-conducting pores
@@ -54,7 +54,7 @@ water and wind erosion:
 - Water-stable macroaggregates (greater than 250 micrometers) resist
   detachment by raindrop impact and surface water flow, reducing
   splash erosion and interrill erosion
-- Surface biological soil crusts formed by fungal EPS bind surface
+- Surface [[biological-soil-crusts]] formed by fungal EPS bind surface
   particles and protect against wind erosion in arid and semi-arid
   environments
 - [[permplant-willows-salix-erosion-control-fodder]] function of fungal EPS is particularly important
@@ -73,13 +73,13 @@ bacterial partners:
 - Biofilm EPS provides protection against environmental stresses
   including desiccation, UV radiation, and toxic metal exposure,
   enhancing fungal survival in contaminated soils
-- The biofilm matrix concentrates extracellular enzymes, creating
+- The biofilm matrix concentrates [[fungal-extracellular-enzymes]], creating
 ## See Also
 
 ## Overview
 
 Singh Fungal Exopolysaccharides Biofilm Soil Aggregation represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Singh Fungal Exopolysaccharides Biofilm Soil Aggregation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 singh fungal exopolysaccharides biofilm soil aggregation and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

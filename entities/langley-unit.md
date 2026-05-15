@@ -41,7 +41,7 @@ Despite these losses, Mollison notes that most homes receive enough sunlight on 
 
 ### Related Measurements
 
-The Langley has been largely superseded by W/m2 (watts per square meter) in modern scientific use, but remains referenced in [[greenhouse-design]]:** Calculating the solar energy available for passive heating of growing structures.
+The Langley has been largely superseded by W/m2 (watts per square meter) in modern scientific use, but remains referenced in [[greenhouse-design]]:** Calculating the solar energy available for passive heating of [[duggar-mushroom-growing-structures-caves-cellars-houses]].
 2. **Site selection:** Choosing sun-facing slopes that maximize Langleys received for both house siting and crop production.
 3. **Solar thermal systems:** Sizing solar hot water and space heating collectors based on local radiation data.
 4. **Season extension:** Estimating available energy for growing crops outside their normal range by concentrating radiation.
@@ -54,7 +54,7 @@ The Langley has been largely superseded by W/m2 (watts per square meter) in mode
 ## Historical Context
 - Emerged from observations of natural systems and ecological patterns
 - Documented through systematic study and practical experimentation
-- Has evolved through integration with modern scientific understanding
+- Has evolved through integration with modern [[fukuoka-fallacies-scientific-understanding]]
 - Continues to be refined through ongoing research and practice
 
 ## Ecological Significance
@@ -80,7 +80,7 @@ The Langley has been largely superseded by W/m2 (watts per square meter) in mode
 ## Overview
 
 Langley Unit represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -109,13 +109,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for langley unit. Climate adaptation
+opportunities for langley unit. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 langley unit and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

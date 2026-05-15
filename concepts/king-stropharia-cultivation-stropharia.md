@@ -1,12 +1,12 @@
 ---
-title: King Stropharia Cultivation (Stropharia)
+title: [[comparison-enoki-vs-king-stropharia-cultivation]] (Stropharia)
 source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
 # King Stropharia Cultivation (Stropharia)
 
-[[king-stropharia]] (*Stropharia rugoso-annulata*), also known as the [[wine-cap]] or garden giant, is one of the most rewarding mushrooms for home cultivators. Along with oyster and shiitake, it ranks among the top three mushrooms for beginners. People around the world enjoy cultivating, collecting, and eating these mushrooms since they are not only easy to grow but also easy to identify. King stropharia is an aggressive saprophyte that thrives on wood chips and agricultural waste, making it an excellent choice for garden integration and permaculture systems.
+[[king-stropharia]] (*Stropharia rugoso-annulata*), also known as the [[wine-cap]] or garden giant, is one of the most rewarding mushrooms for home cultivators. Along with oyster and shiitake, it ranks among the top three [[query-what-are-the-best-mushrooms-for-beginners-to-grow]]. People around the world enjoy cultivating, collecting, and eating these mushrooms since they are not only easy to grow but also easy to identify. King stropharia is an aggressive saprophyte that thrives on wood chips [[fungi-in-composting-and-agricultural-waste-conversion]], making it an excellent choice for garden integration and permaculture systems.
 
 ## Ecology and General Description
 
@@ -14,7 +14,7 @@ Wild strains are very aggressive saprophytes, unique to their fruiting substrate
 
 ## Mycelium and Spawn
 
-The mycelium is white and linear, exuding a light yellow metabolite on overcolonized spawn and fruiting substrates. Its smell is very sweet. Commercial spawn is usually available as supplemented sawdust; [[grain-spawn]] exists but is hard to find.
+The mycelium is white and linear, exuding a light yellow metabolite on overcolonized [[mushroom-spawn-and-fruiting-stages]] substrates. Its smell is very sweet. Commercial spawn is usually available as [[oyster-mushroom-supplemented-sawdust-blocks]]; [[grain-spawn]] exists but is hard to find.
 
 ## Fruitbody Characteristics
 
@@ -50,7 +50,7 @@ King stropharia prefers:
 
 ## Casing Soil Requirement
 
-A microbial casing soil is **required**. When the entire surface of the substrate is a continuous white mat, dress the bed with 2–3 inches of microbial casing soil to stimulate primordia formation.
+A microbial casing soil is **required**. When the entire surface of the substrate is a continuous white mat, dress the bed with 2–3 inches of microbial casing soil to stimulate [[growing-gourmet-primordia-formation-pinning]].
 
 ## Outdoor Cultivation
 

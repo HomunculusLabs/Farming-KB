@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Papageorgiou VP et al. (1999). "The chemistry and biology of alkannin and shikonin." Angewandte Chemie International Edition, 38(1-2), 151-160.
-  - Andújar I et al. (2012). "Pharmacological properties of shikonin." Journal of Pharmacy and Pharmacology, 64(9), 1271-1281.
+  - Andújar I et al. (2012). "[[lsd-discovery-aftermath-pharmacological-properties]] of shikonin." Journal of Pharmacy and Pharmacology, 64(9), 1271-1281.
   - Chen X et al. (2002). "Anti-inflammatory and antioxidant activities of Lithospermum erythrorhizon." Phytotherapy Research, 16(4), 321-326.
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China.
   - Yadav DK et al. (2017). "Shikonin and its derivatives: A comprehensive review." European Journal of Medicinal Chemistry, 136, 36-48.
@@ -27,7 +27,7 @@ The root of L. erythrorhizon contains over 30 identified naphthoquinone derivati
 
 Shikonin exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria, including methicillin-resistant Staphylococcus aureus (MRSA), with minimum inhibitory concentrations (MICs) in the range of 4–32 μg/mL. Antifungal activity against Candida species and dermatophytes has also been documented.
 
-Anti-inflammatory effects are mediated through inhibition of NF-κB signaling, TNF-α suppression, and cyclooxygenase-2 (COX-2) downregulation. Topical preparations of shikonin accelerate wound healing in animal models by promoting fibroblast proliferation and angiogenesis.
+Anti-inflammatory effects are mediated through inhibition of NF-κB signaling, TNF-α suppression, and cyclooxygenase-2 (COX-2) downregulation. [[blesching-cannabis-tinctures-infused-oils-topical-preparations]] of shikonin accelerate wound healing in animal models by promoting fibroblast proliferation and angiogenesis.
 
 Recent studies have identified anticancer properties of shikonin, including induction of apoptosis in various [[cannabis-for-skin-conditions-detailed]] and as a hemostatic agent. Contemporary Korean research has focused on standardizing shikonin content in commercial preparations.
 
@@ -54,7 +54,7 @@ In Japan, shikonin-derived purple dye was historically used to color paper, fabr
 ## Overview
 
 Lithospermum Erythrorhizon represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -75,7 +75,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Lithospermum Erythrorhizon finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -83,7 +83,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -104,7 +104,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 lithospermum erythrorhizon and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Nutrient Uptake Mechanisms
+title: Mycorrhizal [[plant-nutrient-uptake-mechanisms]]
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -51,7 +51,7 @@ total absorptive capacity:
 - In **ectomycorrhizal (ECM) pine seedlings**, Rousseau et al. (1994) demonstrated that
   extraradical mycelium constituted only ~5% of total dry weight, yet accounted for
   roughly 75% of total absorbing surface area and more than 99% of total absorbing
-  length. Data for *Pisolithus tinctorius* and *Cenococcum geophilum* on pine seedlings
+  length. Data for *[[pisolithus-tinctorius]]* and *[[cenococcum-geophilum]]* on pine seedlings
   are summarized in Table 3.6 of the source text. These figures illustrate the enormous
   absorptive leverage provided by relatively small investments in fungal biomass.
 
@@ -100,7 +100,7 @@ taxa, with direct implications for the speed and extent of soil exploitation:
   rapid soil colonization and early access to distant nutrient sources.
 
 - *Glomus* species extend at less than 10 mm per week, a slower but still ecologically
-  significant rate that may reflect different resource allocation strategies.
+  significant rate that may reflect different [[mycelial-foraging-resource-allocation]] strategies.
 
 These differences in extension rate likely influence competitive dynamics among AM fungal
 species and their relative effectiveness under different soil conditions.
@@ -143,7 +143,7 @@ hyphae could achieve independently.
 Mycorrhizal nutrient uptake mechanisms represent a far more sophisticated system than
 simple surface-area augmentation. The symbiosis involves active suppression of root hair
 development, metabolic trade-offs governed by nutrient economics, specialized transport
-structures in ECM fungi, enzymatic capabilities for organic nutrient mobilization, and
+structures in ECM fungi, [[fungal-enzymatic-capabilities]] for organic nutrient mobilization, and
 architectural modification of host root systems. These integrated mechanisms explain why
 mycorrhizal associations are nearly ubiquitous and why they play such a central role
-in ecosystem nutrient cycling and plant community dynamics.
+in ecosystem [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] plant community dynamics.

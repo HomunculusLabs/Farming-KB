@@ -2,9 +2,9 @@
 
 ## Overview
 
-In his 1983 Esalen lecture, Terence McKenna proposed a speculative but detailed hypothesis for the [[statistical-mechanics]], and the geological record of fungal evolution, McKenna argued that psilocybin-containing mushrooms may have originated beyond Earth and arrived through a natural process of interstellar percolation.
+In his 1983 Esalen lecture, [[terence-mckenna]] proposed a speculative but detailed hypothesis for the [[statistical-mechanics]], and the geological record of [[bloomfield-chytrid-fungi-early-fungal-evolution]], McKenna argued that psilocybin-containing mushrooms may have originated beyond Earth and arrived through a natural process of interstellar percolation.
 
-This hypothesis represents a distinctive contribution to panspermia theory, one grounded in the specific biology of psychoactive fungi rather than general arguments about microbial survivability.
+This hypothesis represents a distinctive contribution to panspermia theory, one grounded in the specific biology of [[allen-new-zealand-psychoactive-fungi]] rather than general arguments about microbial survivability.
 
 ## Panspermia and Its Discontents
 
@@ -40,7 +40,7 @@ The melanized cell walls of certain fungi, notably those found growing in the co
 
 The spores are also extremely small — typically 10-15 micrometers in length — which is relevant to their capacity for atmospheric escape and interstellar transport.
 
-Their size places them at the intersection of several physical regimes: small enough to be influenced significantly by Brownian motion, large enough to carry the genetic complement of the organism, and robust enough to survive extreme environmental stress.
+Their size places them at the intersection of several physical regimes: small enough to be influenced significantly by [[mckenna-spore-brownian-motion-and-galactic-percolation]], large enough to carry the genetic complement of the organism, and robust enough to survive extreme [[ectomycorrhizal-community-environmental-stress]].
 
 ## The Percolation Mechanism
 
@@ -100,6 +100,6 @@ Fungal spores are known for their exceptional longevity and resilience — viabl
 
 - panspermia theory history
 - stropharia cubensis morphology
-- fungal spore wall melanin radiation resistance
+- fungal spore wall [[radiotrophic-fungi-melanin-radiation-response]] resistance
 - gunflint chert microfossils
 - psychedelic mycology ethnobotany

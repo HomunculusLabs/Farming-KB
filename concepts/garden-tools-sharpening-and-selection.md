@@ -1,5 +1,5 @@
 ---
-title: Garden Tools — Selection and Sharpening
+title: [[garden-tools-and-sharpening]] — Selection and Sharpening
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -12,17 +12,17 @@ type: concept
 
 ## The Essential Three Tools
 
-To handle a garden up to a quarter acre (1,000 square meters), Solomon says you need only three essential tools:
+To handle a garden up to a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] (1,000 square meters), Solomon says you need only three essential tools:
 
 1. **A [[combination-shovel]]** (his preferred all-around digging tool)
-2. **A bow rake** (for leveling, smoothing, and cultivating)
+2. **A [[bow-rake-garden-tool]]** (for leveling, smoothing, and cultivating)
 3. **A hoe** (for weeding and cultivating between rows)
 
 Plus one maintenance tool:
 
 4. **A 10-inch (25 cm) mill bastard file** for sharpening the shovel and hoe
 
-With these four items, a reasonably fit person can maintain a substantial vegetable garden without any power equipment.
+With these four items, a reasonably fit person can maintain a substantial [[aphid-management-vegetable-garden-solomon]] without any power equipment.
 
 ## Shovel vs. Spade vs. Combination Shovel
 
@@ -70,7 +70,7 @@ Spading forks are designed for naturally loose (sandy) soils. They work effectiv
 
 When selecting shovels, spades, and hoes, Solomon recommends:
 
-1. **Brand names used by tradespeople** — professionals can't afford tools that break
+1. **[[emcdda-brand-names-user-terms-smartshop-marketing]] used by tradespeople** — professionals can't afford tools that break
 2. **Solid handle attachment** — loose handles mean a short tool life
 3. **Light and well-balanced, yet strong** — heavy tools are fatiguing
 4. **Rolled-over blade top** (on shovels and spades) — allows pressing with your foot without pain

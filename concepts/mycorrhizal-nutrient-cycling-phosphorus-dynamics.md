@@ -1,18 +1,18 @@
 ---
-title: Mycorrhizal Nutrient Cycling and Phosphorus Dynamics
+title: Mycorrhizal Nutrient Cycling [[desert-soils-nutrition-and-phosphorus-dynamics]]
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
 # Mycorrhizal Nutrient Cycling and Phosphorus Dynamics
 
-[[mycorrhizal-fungi]] are central to nutrient cycling in terrestrial ecosystems, with phosphorus (P) representing one of the most critical nutrients mediated by these symbiotic associations. The research literature reveals a complex picture of how different [[mycorrhizal-types]] access, transport, and redistribute phosphorus and other nutrients between soil, fungi, and host plants.
+[[mycorrhizal-fungi]] are central to [[nutrient-cycling-in-soil]] terrestrial ecosystems, with phosphorus (P) representing one of the most critical nutrients mediated by these symbiotic associations. The research literature reveals a complex picture of how different [[mycorrhizal-types]] access, transport, and redistribute phosphorus and other nutrients between soil, fungi, and host plants.
 
 ## Phosphorus Uptake Mechanisms
 
 ### Depletion Zone Extension
 
-Non-mycorrhizal plants rely solely on root interception, mass flow, and diffusion for phosphorus acquisition. Because phosphorus diffuses very slowly in soil, a depletion zone rapidly forms around roots. Mycorrhizal fungi overcome this limitation by:
+Non-mycorrhizal plants rely solely on root interception, mass flow, and diffusion for [[arbuscular-mycorrhizal-phosphorus-acquisition]]. Because phosphorus diffuses very slowly in soil, a depletion zone rapidly forms around roots. Mycorrhizal fungi overcome this limitation by:
 
 - Extending hyphae far beyond the root depletion zone, accessing P from bulk soil
 - Transporting P along hyphae back to the host plant (Jakobsen, 1995; Jakobsen et al., 1992a, b)
@@ -43,7 +43,7 @@ Some mycorrhizal fungi can solubilize otherwise unavailable phosphorus sources:
 ECM fungi have a remarkable ability to access organic nitrogen sources that are unavailable to most plants:
 
 - ECM fungi can utilize peptides and proteins as nitrogen sources (Abuzinadah and Read, 1986a)
-- *Hebeloma crustuliniforme* enables utilization of proteins by birch, spruce, and pine (Abuzinadah and Read, 1986b)
+- *[[hebeloma-crustuliniforme]]* enables utilization of proteins by birch, spruce, and pine (Abuzinadah and Read, 1986b)
 - Different ECM fungi vary in their ability to utilize peptides by birch (Abuzinadah and Read, 1989)
 - ECM fungi can mobilize nitrogen from protein–polyphenol complexes (Bending and Read, 1996)
 - Nitrogen mobilization from exploited litter by ECM mycelial strands has been demonstrated (Bending and Read, 1995a, b)
@@ -70,7 +70,7 @@ One of the most significant discoveries in mycorrhizal ecology is the ability of
 
 ### Translocation in Rhizomorphs
 
-Solute translocation occurs in both ECM and saprotrophic rhizomorphs (Cairney, 1992), and rhizomorphs play a special role in water transport (Duddridge et al., 1980). The mycelial cord-forming fungi that produce rhizomorphs are well-adapted to heterogeneous environments (Boddy, 1999).
+Solute translocation occurs in both ECM and saprotrophic rhizomorphs (Cairney, 1992), and rhizomorphs play a special role in water transport (Duddridge et al., 1980). The mycelial cord-forming fungi that produce rhizomorphs are well-adapted to [[fungal-foraging-strategies-heterogeneous-environments]] (Boddy, 1999).
 
 ## Mycorrhizae and Soil Development
 
@@ -80,7 +80,7 @@ Mycorrhizal fungi contribute to soil development through mineral weathering:
 
 - Lichen colonization induces rock weathering through physical and chemical processes (Chen et al., 2000)
 - Rhizospheric microflora associated with mycorrhizae can weather micas and promote plant growth (Berthelin and Leyval, 1982)
-- Calcium oxalate accumulation in mats of hypogeous fungi contributes to soil weathering (Cromack et al., 1979)
+- [[fungal-calcium-oxalate-and-carbonate-precipitation]] accumulation in mats of hypogeous fungi contributes to soil weathering (Cromack et al., 1979)
 
 ### Litter Decomposition Interactions
 

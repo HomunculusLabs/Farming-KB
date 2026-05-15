@@ -10,7 +10,7 @@ Fertigation — the practice of applying liquid fertilizer through irrigation wa
 
 ## Why Fertigation Works
 
-Crop scientists of John Widstoe's era (early 1900s) noticed that it took **twice as much water** to make a given weight of dry plant material on infertile soils as it did on highly fertile soil. William Albrecht later explained that much of what appears to be drought damage is actually nutrient deficiency induced by dry surface soil when plant nutrients are located in the plowed surface layer.
+Crop scientists of John Widstoe's era (early 1900s) noticed that it took **twice as much water** to make a given weight of dry plant material on infertile soils as it did on highly fertile soil. [[william-albrecht]] later explained that much of what appears to be drought damage is actually [[cannabis-grow-nutrient-deficiency-problem-solving]] induced by dry surface soil when plant nutrients are located in the plowed surface layer.
 
 When plants are finding water in the surface layers, they may mainly feed there. But if that surface layer is infertile, the plants are absorbing water without getting adequate nutrition. This can be especially true in new veggie gardens because it can take a few years for the fertility you put into the topsoil to work its way down into the subsoil.
 
@@ -64,7 +64,7 @@ Fertigation is especially useful for big plants: tomatoes, melons, corn, and squ
 
 ### Comfrey Tea Variation
 
-Put armloads of comfrey leaves in the brew instead of manure. Comfrey is exceptionally rich in potassium and trace minerals.
+Put armloads of comfrey leaves in the brew instead of manure. Comfrey is exceptionally rich in potassium and [[dynamic-accumulator-plants-trace-minerals]].
 
 ### Other Organic Amendments
 
@@ -77,7 +77,7 @@ Other forms of organic matter to toss into the brew include:
 ### Commercial Products
 
 - **Fish emulsion fertilizer**: About one part concentrate to 100 parts water. Excellent and rather cheap organic result.
-- **Soluble chemical fertilizers**: Also highly effective if they contain trace elements as well as NPK. These will not damage soil life because they are applied in highly dilute form. However, they do not replace regular additions of organic matter.
+- **Soluble [[cannabis-chemical-fertilizers]]**: Also highly effective if they contain [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]] as well as NPK. These will not damage soil life because they are applied in highly dilute form. However, they do not replace regular additions of organic matter.
 
 ## Foliar Feeding
 
@@ -85,7 +85,7 @@ If you are so short of water that finding a few hundred gallons a week for ferti
 
 ### Best Foliar Sprays
 
-- **Kelp tea**: One of the best organics for foliar feeding. Contains phytamins and a full range of trace mineral nutrients. Kelp sprayed once a week will make the plants grow much faster.
+- **Kelp tea**: One of the best organics for foliar feeding. Contains phytamins and a full range of trace [[mineral-nutrients-magnesium-aluminium-silicon-phosphorus]]. Kelp sprayed once a week will make the plants grow much faster.
 - **Kelp + fish emulsion**: An even more effective mixture
 - **Complete soluble chemical mix** with trace minerals: Also very effective
 - **Half-strength Coca Cola**: Contains significant amounts of phosphoric acid, and the sugar helps plants. Discovered by farmers in India.
@@ -99,7 +99,7 @@ If you are so short of water that finding a few hundred gallons a week for ferti
 
 ## Accelerating Subsoil Fertility
 
-To more rapidly remedy subsoil infertility when starting a new garden in humid regions, spread a full dose of fertility-building materials at the end of summer the year before the land will become a veggie garden. This allows the autumn rains and the spring snowmelt to carry this nutrition down into the subsoil.
+To more rapidly remedy subsoil infertility when [[starting-a-new-garden]] in humid regions, spread a full dose of fertility-building materials at the end of summer the year before the land will become a veggie garden. This allows the autumn rains and the spring snowmelt to carry this nutrition down into the subsoil.
 
 ## When to Fertigate
 

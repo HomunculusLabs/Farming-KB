@@ -28,18 +28,18 @@ Mâche, also known as **corn salad** or **lamb's lettuce**, is a small, tender, 
 - Leaves have a distinctive **nutty, slightly sweet flavor** that intensifies in cold weather
 - Plants form small rosettes typically 2–4 inches across, with smooth, tender leaves
 - Has a long history of use in **European (especially French) winter cuisine**, where it has been a traditional cold-weather salad ingredient for centuries
-- Benefits from the same protection strategy as other winter crops: unheated greenhouse + [[floating-row-cover]]
+- Benefits from the same protection strategy as other winter crops: [[cold-house-unheated-greenhouse]] + [[floating-row-cover]]
 
 ## Relevance to Cultivation
 
-Mâche is an **ideal winter salad crop** because it combines exceptional cold hardiness with premium eating quality that actually improves in cool weather. Unlike many salad greens that become bitter or tough in cold conditions, mâche becomes sweeter and more tender. Its small size allows for dense planting and high productivity per square foot, making it well-suited to intensive winter production systems. For growers using Eliot Coleman's four-season model, mâche represents one of the most economically valuable winter crops because it commands premium prices when few other local salad greens are available. Its historical importance in French market gardening connects it directly to the tradition that inspired the winter harvest system.
+Mâche is an **ideal winter salad crop** because it combines exceptional cold hardiness with premium eating quality that actually improves in cool weather. Unlike many salad greens that become bitter or tough in cold conditions, mâche becomes sweeter and more tender. Its small size allows for dense planting and high productivity per square foot, making it well-suited to intensive winter production systems. For growers using Eliot Coleman's four-season model, mâche represents one of the most economically valuable winter crops because it commands premium prices when few other local salad greens are available. Its historical importance in [[french-market-gardening-maraichage]] connects it directly to the tradition that inspired the [[cold-house-winter-harvest-system]].
 ## Botanical Description
 
-Herbaceous plant with distinctive leaf morphology and growth habit. Adapted to seasonal climates with specific temperature and moisture requirements for optimal development.
+Herbaceous plant with distinctive leaf morphology and growth habit. Adapted to seasonal climates with specific [[mushroom-growing-temperature-and-moisture]] requirements for optimal development.
 
 ## Cultivation
 
-Grown as a cool-season crop in temperate regions. Propagated from seed with specific spacing and soil requirements. Requires consistent moisture and well-drained soil for best results.
+Grown as a cool-season crop in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Propagated from seed with specific spacing and soil requirements. Requires consistent moisture and well-drained soil for best results.
 
 ## Culinary Uses
 
@@ -74,7 +74,7 @@ Functions as part of interconnected agricultural and ecological systems. Synergi
 
 ## Common Challenges
 
-Practitioners face various obstacles including pest pressure, climate variability, and resource limitations. Proven strategies exist for addressing each of these challenges effectively.
+Practitioners face various obstacles including pest pressure, [[macrofungal-fruiting-phenology-climate-variability]], and resource limitations. Proven strategies exist for addressing each of these challenges effectively.
 
 ## Measurement and Assessment
 

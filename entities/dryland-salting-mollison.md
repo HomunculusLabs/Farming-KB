@@ -1,5 +1,5 @@
 ---
-title: Dryland Salting
+title: [[dryland-salting-causes-and-cautious-approaches]]
 source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
@@ -30,13 +30,13 @@ Two principal models explain dryland salting:
 
 ### Groundwater Rising Theory
 
-The earlier and widely accepted model holds that removal of deep-rooted trees allows rainfall to infiltrate beyond the root zone, causing the saline groundwater table to rise. As the water table approaches the surface, capillary action draws salt upward, where it concentrates upon evaporation. This model was promoted by the S.A.L.T. (Salinity Liaison Team) initiative founded by Bill Mollison and Terry White in 1978.
+The earlier and widely accepted model holds that removal of deep-rooted trees allows rainfall to infiltrate beyond the root zone, causing the saline groundwater table to rise. As the water table approaches the surface, [[capillary-action-in-soils]] draws salt upward, where it concentrates upon evaporation. This model was promoted by the S.A.L.T. (Salinity Liaison Team) initiative founded by Bill Mollison and Terry White in 1978.
 
 ### Soil Collapse Theory (Whittington)
 
 Developed by Harry Whittington of Brookton, West Australia, this model argues that deforestation is not the sole cause. Primary soil collapse results from:
 
-1. **Clearing and cultivation**: Destroys soil structure and organic matter.
+1. **Clearing and cultivation**: Destroys soil structure [[hamilton-composting-and-organic-matter-management]].
 2. **Hoofed animal compaction**: Physical crushing of soil aggregates by livestock.
 3. **Surface water swamping**: Compacted soils cannot absorb rainfall, leading to overland flow that carries small quantities of cyclic salt.
 
@@ -67,13 +67,13 @@ W. C. Lowdermilk of the United States Department of Agriculture surveyed archaeo
 Dryland salting is central to permaculture design in arid and semi-arid zones:
 
 - **Tree-based farming systems**: Permanent tree cover prevents groundwater rise and maintains the freshwater-saltwater balance.
-- **Landscape reading**: Understanding salting processes enables designers to place elements correctly -- forests on recharge areas, salt-tolerant species in discharge zones.
-- **Soil management**: Avoiding compaction, maintaining organic matter, and preventing surface sealing are foundational permaculture practices that directly prevent salting.
+- **[[desert-landscape-reading-and-erosion-landforms]]**: Understanding salting processes enables designers to place elements correctly -- forests on recharge areas, salt-tolerant species in discharge zones.
+- **Soil management**: Avoiding compaction, [[maintaining-organic-matter-in-vegetable-gardens]], and preventing surface sealing are foundational permaculture practices that directly prevent salting.
 - **Water harvesting**: Designed swales and infiltration systems that direct water into the soil profile rather than allowing overland flow reduce the cascade effect.
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. pp. 437-439.
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. pp. 437-439.
 - Lowdermilk, W. C. (1929). U.S.D.A. Bulletin #99.
 - Whittington, H. W.A.S.A.L.T. (Whittington Interceptor Salt-Affected Land Treatment Society), Brookton, West Australia.
 - Le Huerou, H. N. (1968). *La Desertification du Sahara*. Int. Biol. Prog. Sect. C. T. Colloque Hammamet, London.

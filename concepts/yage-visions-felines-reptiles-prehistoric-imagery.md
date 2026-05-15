@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Claudio Naranjo's experimental research documented recurring visions of large felines (tigers, panthers, jaguars), reptiles (snakes, crocodiles, lizards), dragons, and prehistoric creatures among subjects under the influence of yage and harmaline. These visions closely parallel the animal spirits encountered by indigenous Amazonian shamans, providing further evidence for the biochemical basis of cross-cultural shamanic imagery.
+[[claudio-naranjo]]'s experimental research documented recurring visions of large felines (tigers, panthers, jaguars), reptiles (snakes, crocodiles, lizards), dragons, and prehistoric creatures among subjects under the influence of yage and harmaline. These visions closely parallel the animal spirits encountered by indigenous Amazonian shamans, providing further evidence for the biochemical basis of cross-cultural shamanic imagery.
 
 ## Feline Visions
 

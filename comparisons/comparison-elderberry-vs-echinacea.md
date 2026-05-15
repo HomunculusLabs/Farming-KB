@@ -143,8 +143,6 @@ commercial formulations already combine both herbs in a single product.
 
 ## See Also
 
-- [[elderberry-growing-guide]]
-- [[echinacea-growing-guide]]
-- [[comparison-astragalus-vs-echinacea]]
-- [[comparison-chamomile-vs-valerian]]
-- [[echinacea-purpurea]]
+- [[comparison-elderberry-vs-ashwagandha]]
+- [[comparison-elderberry-vs-chamomile]]
+- [[comparison-elderberry-vs-valerian]]

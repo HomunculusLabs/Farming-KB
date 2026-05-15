@@ -1,5 +1,5 @@
 ---
-title: Plant Disease Identification
+title: Plant [[garden-disease-identification]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Plant Disease Identification
 
-Accurate disease identification is the critical first step in effective plant disease management. Misidentification leads to incorrect treatment, wasted resources, and potentially worse outcomes. This guide provides a systematic approach to diagnosing plant diseases based on symptoms, affected plant parts, and environmental conditions.
+Accurate disease identification is the critical first step in effective [[plant-disease-management-in-organic-gardens]]. Misidentification leads to incorrect treatment, wasted resources, and potentially worse outcomes. This guide provides a systematic approach to diagnosing plant diseases based on symptoms, affected plant parts, and environmental conditions.
 
 ## Systematic Diagnostic Approach
 
@@ -27,10 +27,10 @@ Accurate disease identification is the critical first step in effective plant di
 
 | Symptom Pattern | Likely Cause | Key Distinguishing Features |
 |---|---|---|
-| White powdery coating (top/bottom) | Powdery mildew | Dry conditions, starts lower leaves, rubs off |
+| White powdery coating (top/bottom) | [[cervantes-powdery-mildew-prevention-treatment]] | Dry conditions, starts lower leaves, rubs off |
 | Yellow patches with gray fuzz underneath | Downy mildew | Angular lesions bounded by veins, cool wet weather |
 | Brown concentric ring spots ("bullseye") | Early blight (Alternaria) | Starts on lower leaves, solanaceous crops |
-| Yellowing between veins (interveinal) | Nutrient deficiency | Often iron or manganese, pH-related |
+| Yellowing between veins (interveinal) | [[cannabis-grow-nutrient-deficiency-problem-solving]] | Often iron or manganese, pH-related |
 | Mosaic pattern (light/dark green) | Virus (TMV, CMV) | Irregular pattern, may include leaf curling |
 | Small dark spots with yellow halos | Bacterial spot | Water-soaked edges, "shot-hole" when centers drop |
 | Rust-colored pustules on undersides | Rust fungi | Orange-brown powder when touched |
@@ -61,7 +61,7 @@ Accurate disease identification is the critical first step in effective plant di
 |---|---|---|
 | Water-soaked lesions, rapid collapse | Late blight | Fast-spreading, gray fuzz on margins |
 | Sunken dark spots with pink spore masses | Anthracnose | Concentric rings possible, warm wet weather |
-| Black leathery spots on blossom end | Blossom-end rot | Calcium deficiency, not infectious |
+| Black leathery spots on blossom end | Blossom-end rot | [[knf-calcium-deficiency-symptoms]], not infectious |
 | Gray fuzzy mold on soft fruit | Botrytis gray mold | Starts on damaged or senescing tissue |
 | Mosaic pattern or ring spots on fruit | Virus | Associated leaf symptoms present |
 
@@ -85,7 +85,7 @@ Accurate disease identification is the critical first step in effective plant di
 ### Apples and Pears
 - Apple scab -- olive-green velvety spots on leaves and fruit
 - Fire blight -- blackened blossoms, shepherd's crook branch tips
-- Cedar apple rust -- orange gelatinous spots on leaves and fruit
+- [[cedar-apple-rust]] -- orange gelatinous spots on leaves and fruit
 - Powdery mildew -- gray-white coating on leaves and shoots
 - Flyspeck and sooty blotch -- dark smudges on fruit surface
 
@@ -119,7 +119,7 @@ Accurate disease identification is the critical first step in effective plant di
 
 - [[viral-plant-diseases]] -- viral diseases
 
-- [[bacterial-plant-diseases]] -- bacterial diseases
+- [[bacterial-plant-diseases]] -- [[plant-viral-and-bacterial-diseases]]
 
 - [[fungal-plant-diseases]] -- detailed management for specific fungal pathogens
 - [[integrated-pest-management]] -- what to do after you have identified the disease

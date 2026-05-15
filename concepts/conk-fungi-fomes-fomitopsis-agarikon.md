@@ -10,8 +10,8 @@ The genera *Fomes*, *Fomitopsis*, and *Laricifomes* encompass some of the most i
 significant polypore mushrooms in the world. These woody, perennial conks include the iceman polypore
 (*[[fomes-fomentarius]]*) — famously found among the possessions of Ötzi, a nomadic traveler who lived
 around 3300 BCE and was discovered frozen in the Alps in 1991 — and the extremely rare agarikon
-(*Fomitopsis officinalis*, formerly *[[laricifomes-officinalis]]*). These mushrooms are primarily valued
-for their medicinal properties rather than as food, and several species are endangered due to slow
+(*[[fomitopsis-officinalis-entity]]*, formerly *[[laricifomes-officinalis]]*). These mushrooms are primarily valued
+for their [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]] rather than as food, and several species are endangered due to slow
 growth rates and overharvesting.
 
 ## General Description and Ecology
@@ -41,13 +41,13 @@ spawn is rare but when available is typically in the form of wooden dowels for o
 
 The iceman polypore is one of the most recognizable mushrooms in the world. It fruits primarily on
 dying birch trees at higher elevations but occupies a wide range of hardwoods in North America. New
-fruitbodies emerge in late spring through temperate climates at higher elevations. These are
+fruitbodies emerge in late spring through [[fukuoka-natural-farming-temperate-climates]] at higher elevations. These are
 perennial conks that add growth layers every season and can endure "stop and go" growing conditions
 such as alternating rain and drought periods.
 
 The tissue is extremely tough, with a hard outer rind, making tissue samples difficult to excise for
 culturing. The best approach is to pop a conk off the tree, harvest the attachment point where wood
-is exposed, surface-sterilize with diluted alcohol or 3% hydrogen peroxide, and transfer colonized
+is exposed, surface-sterilize with diluted alcohol or 3% [[cervantes-hydrogen-peroxide-sterilization]], and transfer colonized
 tissue bits to agar media.
 
 ### Agarikon (Fomitopsis officinalis)
@@ -86,7 +86,7 @@ preferred preservation method since these fungi do not contain much water.
 
 ## Medicinal Properties
 
-These mushrooms are rich in compounds similar to turkey tail (*Trametes versicolor*), including
+These mushrooms are rich in compounds similar to turkey tail (*[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*), including
 polysaccharide-K (PSK), a protein-bound polysaccharide used in Chinese medicine for treating cancer
 patients during chemotherapy. Documented benefits include:
 
@@ -99,7 +99,7 @@ patients during chemotherapy. Documented benefits include:
 
 ## Mycoremediation
 
-The antibiotic properties of these fungi make them strong candidates for mycofiltration of bacteria
+The [[amanita-muscaria-antibiotic-properties-nanobacteria-fungal-medicine]] of these fungi make them strong candidates for mycofiltration of bacteria
 in contaminated soil and water. Colonized biomasses of myceliated wood chips can be deployed in
 trenches downslope of livestock operations to absorb and filter surface runoff, providing biological
 water treatment.

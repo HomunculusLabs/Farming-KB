@@ -1,12 +1,12 @@
 ---
-title: Seed Sprouting and Germination
+title: [[solomon-seed-sprouting-conditions-laboratory-germination-technique]] and Germination
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Seed Sprouting and Germination
 
-Understanding exactly how seeds germinate — the physics, chemistry, and timing of the process — is essential for successful direct seeding. Most gardening failures with small seeds are not caused by bad seeds but by conditions that prevent germination: soil that is too cold, too wet, too dry, too crusted, or too compacted. Mastering the germination process eliminates these failures.
+Understanding exactly how seeds germinate — the physics, chemistry, and timing of the process — is essential for successful [[clay-seed-pellets-direct-seeding]]. Most gardening failures with small seeds are not caused by bad seeds but by conditions that prevent germination: soil that is too cold, too wet, too dry, too crusted, or too compacted. Mastering the germination process eliminates these failures.
 
 ## The Germination Process
 
@@ -56,12 +56,12 @@ When seeds fail to emerge, the cause is almost always one of these conditions:
 
 ## The Shoot's Mechanical Limitations
 
-Rarely is the emerging shoot capable of exerting much mechanical force. It does have considerable ability to wiggle its way between larger soil particles, but it cannot push aside a heavy lump of soil, much less break through a crust. This is why seedbed preparation is so critical — the shoot needs a fine, crumbly, friable surface layer to emerge successfully.
+Rarely is the emerging shoot capable of exerting much mechanical force. It does have considerable ability to wiggle its way between larger soil particles, but it cannot push aside a heavy lump of soil, much less break through a crust. This is why [[soil-tilth-and-seedbed-preparation]] is so critical — the shoot needs a fine, crumbly, friable surface layer to emerge successfully.
 
 ### Large Seeds vs. Small Seeds
 
 - **Large seeds** (beans, peas, corn): Can push harder against obstacles. If extra seeds are sown, enough will usually emerge even in rough ground.
-- **Small seeds** (lettuce, carrots, celery): Cannot fight their way past lumps. They need what is termed a "fine seedbed" to come up in.
+- **Small seeds** (lettuce, carrots, celery): Cannot fight their way past lumps. They need what is termed a "[[solomon-fine-seedbed-soil-tilth-clod-management-raking]]" to come up in.
 
 ## Soil Crust Formation
 
@@ -76,11 +76,11 @@ Crust formation and puddling are two related soil phenomena that prevent shoots 
 
 ### Preventing Crust Formation
 
-The solution is to increase the amount of decomposed organic matter (humus) in the soil:
+The solution is to increase the amount of decomposed [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] (humus) in the soil:
 
 - Humus cements sand, silt, and clay particles into stable, irregularly shaped crumbs — sometimes as large as grains of uncooked rice
 - These crumbs do not easily separate into their component particles, so the soil will not crust over after rain or irrigation
-- The crumbs also create more air spaces in the soil, greatly improving root development
+- The crumbs also create more air spaces in the soil, greatly improving [[root-development-and-plant-competition]]
 
 ### The Practical Shortcut
 

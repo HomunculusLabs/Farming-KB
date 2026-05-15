@@ -34,7 +34,7 @@ Plaster has served as the primary protective and decorative finish for earthen, 
 
 ### Clay-Based (Earthen) Plasters
 
-Clay plasters are the simplest and most accessible natural finish. They are composed of clay soil, sand aggregate, and chopped fiber (typically straw), mixed with water to a workable consistency. The clay acts as the binder, the sand provides structure and reduces shrinkage cracking, and the fiber adds tensile strength.
+Clay plasters are the simplest and most accessible natural finish. They are composed of [[clay-soil]], sand aggregate, and chopped fiber (typically straw), mixed with water to a workable consistency. The clay acts as the binder, the sand provides structure and reduces shrinkage cracking, and the fiber adds tensile strength.
 
 **Composition:**
 - **Clay**: 10–30% by volume; sourced from subsoil with adequate clay content

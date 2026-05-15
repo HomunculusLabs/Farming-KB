@@ -17,7 +17,7 @@ Trichostrongylus colubriformis is an intestinal parasitic nematode (strongyle)
 that infects ruminant animals, particularly sheep and goats. It is one of the
 most economically important gastrointestinal parasites in livestock worldwide.
 The free-living stages develop in dung pads on pasture, where they are vulnerable
-to predation by nematophagous fungi, particularly Duddingtonia flagrans.
+to predation by [[nematophagous-fungi]], particularly [[duddingtonia-flagrans]].
 
 ## Classification
 
@@ -84,3 +84,8 @@ to predation by nematophagous fungi, particularly Duddingtonia flagrans.
   timing to avoid negative interactions between treatments.
 - Long-term effects of continuous D. flagrans supplementation on pasture ecology
   and non-target soil organisms have not been assessed.
+## See also
+
+- [[meloidogyne]]
+- [[verticillium-chlamydosporium]]
+- [[entomopathogenic-fungi]]

@@ -1,25 +1,25 @@
 ---
-title: Winter Harvest Tools and Equipment
+title: [[winter-harvest-tools-equipment-operations]] and Equipment
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Winter Harvest Tools and Equipment
 
-The [[winter-harvest-system]] requires a specific toolkit optimized for intensive planting, efficient weed control, precise seeding, and careful harvesting in cold conditions. [[eliot-coleman]] has spent decades testing, designing, and refining tools for the year-round market garden, and his recommendations reflect both historical precedent and practical innovation.
+The [[winter-harvest-system]] requires a specific toolkit optimized for [[intensive-planting-spacing]], efficient weed control, precise seeding, and careful harvesting in cold conditions. [[eliot-coleman]] has spent decades testing, designing, and refining tools for the year-round market garden, and his recommendations reflect both historical precedent and practical innovation.
 
 ## Seeding Tools
 
 ### Pinpoint Seeders
 
-The [[pinpoint-seeder]] (also called a four-row seeder in some configurations) is the primary tool for direct sowing in the winter harvest system. It offers several advantages over broadcast sowing or hand planting:
+The [[pinpoint-seeder]] (also called a four-row seeder in some configurations) is the primary tool for direct sowing in [[eliot-coleman-and-the-winter-harvest-handbook]] system. It offers several advantages over broadcast sowing or hand planting:
 
 - **Precision spacing** — Seeds are placed at consistent intervals within rows, reducing the need for thinning
 - **Multiple rows per pass** — Can sow 4–6 rows simultaneously, dramatically increasing planting speed
 - **Depth control** — Adjustable planting depth ensures optimal germination conditions for different seed sizes
 - **Time efficiency** — A task that takes hours by hand can be completed in minutes
 
-The seeder is particularly valuable for the dense succession planting required by the winter harvest schedule, where crops like arugula, radishes, and turnips are sown every few days throughout the season.
+The seeder is particularly valuable for the dense [[succession-planting]] required by the winter harvest schedule, where crops like arugula, radishes, and turnips are sown every few days throughout the season.
 
 ### Six-Row Seeders
 
@@ -45,7 +45,7 @@ Seed quality directly affects tool effectiveness. Coleman emphasizes:
 The broadfork is the primary tool for deep soil aeration:
 
 - **Function** — Lifts and loosens compacted soil without inverting the profile
-- **Benefits** — Preserves soil structure, maintains microbial communities, improves drainage
+- **Benefits** — Preserves soil structure, maintains [[cannabis-rhizosphere-microbial-communities]], improves drainage
 - **Technique** — Push the broadfork into the soil with foot pressure, then pull back to fracture compacted layers
 - **Use case** — Used when soil shows signs of compaction, typically once per year per bed
 
@@ -70,7 +70,7 @@ Standard garden rakes serve multiple purposes:
 
 ### Flame Weeders
 
-Flame weeding is a cornerstone of organic weed management in the winter harvest system:
+Flame weeding is a cornerstone of [[hamilton-organic-weed-management]] in the winter harvest system:
 
 - **Principle** — A propane flame passes over weed seedlings just after germination but before crop emergence, killing the weeds without disturbing the soil
 - **Timing** — Critical — must be done after weeds have germinated but before the crop has emerged. This requires careful attention to germination rates.
@@ -97,7 +97,7 @@ Wire weeders are used for very early weed control:
 
 ### Scythes
 
-Scythes serve both weed control and crop management functions:
+Scythes serve both weed control [[mushroom-growing-period-and-crop-management]] functions:
 
 - Cutting down mature crop residues between plantings
 - Managing weed growth in pathways and margins

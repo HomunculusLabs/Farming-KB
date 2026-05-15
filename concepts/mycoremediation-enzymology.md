@@ -11,11 +11,11 @@ sources:
 
 ## Overview
 
-Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-techniques]]. The extracellular oxidative enzymes produced primarily by white-rot basidiomycetes can degrade recalcitrant environmental pollutants including lignin, polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), dyes, explosives, and pesticides. Three major enzyme families dominate: laccases, lignin peroxidases (LiP), and manganese peroxidases (MnP), with cytochrome P450 systems playing important intracellular roles.
+Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-techniques]]. The extracellular oxidative enzymes produced primarily by white-rot basidiomycetes can degrade recalcitrant environmental pollutants including lignin, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), polychlorinated biphenyls (PCBs), dyes, explosives, and pesticides. Three major enzyme families dominate: laccases, lignin peroxidases (LiP), and manganese peroxidases (MnP), with cytochrome P450 systems playing important intracellular roles.
 
 ## Lignin Peroxidase (LiP; EC 1.11.1.14)
 
-- First isolated from **Phanerochaete chrysosporium** (Tien and Kirk, 1983; Glenn and Gold, 1983)
+- First isolated from **[[phanerochaete-chrysosporium]]** (Tien and Kirk, 1983; Glenn and Gold, 1983)
 - A heme-containing glycoprotein requiring H2O2 as cosubstrate and veratryl alcohol (VA) as redox mediator
 - Catalyzes one-electron oxidation of non-phenolic aromatic compounds with high redox potentials (~1.5 V)
 - Capable of cleaving C-C bonds and C-O bonds in lignin model compounds
@@ -28,7 +28,7 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - Heme-containing enzyme that oxidizes Mn(II) to Mn(III), which then acts as a diffusible oxidant
 - Mn(III) chelated by organic acids (oxalate, malonate, malate) diffuses to oxidize phenolic substrates
 - More widely distributed among white-rot fungi than LiP
-- Key role in dye decolorization — MnP activity correlates with efficient decolorization of olive mill wastewater and textile dyes
+- Key role in dye decolorization — MnP activity correlates with efficient decolorization of [[fungal-olive-mill-wastewater-treatment]] and textile dyes
 - Works in conjunction with Mn-independent peroxidase (MIP) in some species
 
 ## Laccase (EC 1.10.3.2)
@@ -37,7 +37,7 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - Does not require H2O2 (advantage over peroxidases for bioreactor applications)
 - Oxidizes phenolic and some non-phenolic compounds; mediators (ABTS, HBT) extend substrate range
 - Detected early in white-rot fungal dye decolorization; correlates with reduction of total phenolics
-- Produced by Trametes versicolor, Pleurotus ostreatus, P. sajor-caju, Coriolopsis polyzona, Bjerkandera adusta, and others
+- Produced by [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Pleurotus ostreatus, P. sajor-caju, [[coriolopsis-polyzona]], Bjerkandera adusta, and others
 - Involved in dye decolorization of azo, anthraquinone, triphenylmethane, and phthalocyanine dyes
 
 ## Cytochrome P450 Enzyme Systems
@@ -46,7 +46,7 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - Terminal hydroxylation of n-alkanes and omega-hydroxylation of fatty acids
 - Well-studied in Candida maltosa, C. tropicalis, C. apicola, and Yarrowia lipolytica
 - The cyp52 gene family encodes multiple P450 isoforms with different substrate specificities
-- In Cunninghamella elegans, P450 mediates N-demethylation of triphenylmethane dyes (Crystal Violet, Malachite Green)
+- In [[staycare-cunninghamella-elegans-in-bioremediation]], P450 mediates N-demethylation of triphenylmethane dyes (Crystal Violet, Malachite Green)
 - P450 reductase (CPR) genes identified in Aspergillus niger, S. cerevisiae, and Schizosaccharomyces pombe
 - P450 overproduction in fungi has potential for enhanced bioremediation of oil contaminants
 

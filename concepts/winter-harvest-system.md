@@ -1,16 +1,16 @@
 ---
-title: Winter Harvest System
+title: [[cold-house-winter-harvest-system]]
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Winter Harvest System
 
-The winter harvest system is a method of year-round [[coleman-french-historical-winter-vegetable-production]] developed by Eliot
+[[eliot-coleman-and-the-winter-harvest-handbook]] system is a method of year-round [[coleman-french-historical-winter-vegetable-production]] developed by Eliot
 Coleman at Four Season Farm in Harborside, Maine. It demonstrates that fresh, high-quality
 vegetables can be harvested throughout the winter months in cold climates without reliance on
-expensive heating systems. The system combines deep-organic growing techniques with simple,
-passive protective structures to extend the growing season far beyond what conventional
+expensive heating systems. The system combines deep-organic [[cannabis-advanced-growing-techniques]] with simple,
+passive protective structures to [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season far beyond what conventional
 agriculture considers possible.
 
 ## Core Philosophy
@@ -45,7 +45,7 @@ are wasted on frost-tender varieties.
 
 ## Cold-Hardy Vegetable Varieties
 
-Coleman has identified approximately 30 species of vegetables suitable for winter harvest.
+Coleman has identified approximately 30 species of vegetables suitable [[us-climate-zones-for-winter-harvest]].
 These are not warm-season crops forced to survive in cold conditions, but rather plants whose
 natural growth cycle includes tolerance of sub-freezing temperatures. Key species include:
 
@@ -118,7 +118,7 @@ building a permanent structure, the greenhouse is mounted on rails or skids and 
 different growing areas throughout the year. In practice, the greenhouse shelters winter
 crops from October through March, then is rolled onto adjacent open ground where a summer
 crop (such as tomatoes or peppers) has been planted. The summer crop benefits from the
-greenhouse protection during its own growing season.
+[[double-layer-greenhouse-protection]] during its own growing season.
 
 The advantages of mobile greenhouses include:
 

@@ -10,7 +10,7 @@ Growing your own seedlings is not complicated, does not require greenhouses or h
 
 ## Which Crops Need Transplanting
 
-Most vegetables should be direct-seeded. Only a few species genuinely benefit from being given every possible frost-free day by starting indoors:
+Most vegetables should be direct-seeded. Only a few species genuinely benefit from being given every possible frost-free day by [[comparison-cannabis-cloning-vs-seed-starting-indoors]]:
 
 - **Tomatoes, peppers, and eggplants** (the solanum family): These benefit enormously from a head start in all but the longest-season climates
 - **Melons and winter squash** (in short-season areas only): A couple of transplants can extend the harvest window
@@ -22,7 +22,7 @@ Most vegetables should be direct-seeded. Only a few species genuinely benefit fr
 
 ### The Problem with Commercial Potting Mix
 
-Commercial potting mixes are designed for greenhouse bedding plants adapted to growing in sterile medium — not for vigorous vegetable seedlings. They are often not soil at all, but a mix of peat moss, perlite, and chemical fertilizer.
+Commercial potting mixes are designed for greenhouse bedding plants adapted to growing in sterile medium — not for vigorous vegetable seedlings. They are often not soil at all, but a mix of peat moss, perlite, and [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]].
 
 Vegetable seedlings should start out in soil fertile with rich compost, which provides the biological foundation for vigorous growth. Starting in sterile medium creates plants dependent on constant liquid feeding.
 
@@ -33,7 +33,7 @@ Use a 5-gallon (20-liter) plastic bucket and follow these proportions:
 **For loamy or sandy garden soil:**
 1. Half-fill the bucket with ordinary garden soil
 2. Blend in about 1.25 gallons (5 liters) of well-rotted manure or well-ripened compost
-3. Add **one cup (250 ml) of Complete Organic Fertilizer (COF)** per 3-4 gallons (12-15 liters) of mix
+3. Add **one cup (250 ml) of [[complete-organic-fertilizer]] (COF)** per 3-4 gallons (12-15 liters) of mix
 4. If no COF is available, add **one-quarter cup (60 ml) of ordinary all-purpose organic fertilizer** per gallon
 
 **For clayey garden soil:**
@@ -53,7 +53,7 @@ Use a 5-gallon (20-liter) plastic bucket and follow these proportions:
 
 - Sphagnum moss contains almost no plant nutrients and does not decompose rapidly
 - It creates an airy mix that stays loose for several months
-- One small bale should be enough for many seasons of seedling raising
+- One small bale should be enough for many seasons of [[jeavons-flat-preparation-seedling-raising]]
 - Beware of using bagged "steer manure" sold in garden centers — its quality varies enormously
 
 ## Containers for Seedlings
@@ -131,8 +131,8 @@ Use small scissors or fingernails to thin seedlings:
 
 **Important notes on fertilizers**:
 - The most effective liquid fertilizers for seedlings are often not strictly organic — nearly impossible to get organic phosphorus into solution
-- Fish emulsion and liquid seaweed are deficient in phosphorus, which seedlings need to grow wide, strong, and fast
-- Any organic liquid fertilizer claiming high phosphorus levels likely contains phosphoric acid, which does not meet organic certification standards
+- [[solomon-foliar-feeding-fish-emulsion-and-kelp]] liquid seaweed are deficient in phosphorus, which seedlings need to grow wide, strong, and fast
+- Any organic liquid fertilizer claiming high phosphorus levels likely contains phosphoric acid, which does not meet [[fukuoka-critique-organic-certification]] standards
 - Dilute any liquid fertilizer to **one-third strength** and use it about every other watering
 - Seedlings mainly need fertilizer when the sun is shining — during cloudy spells, water without fertilizer
 - **Overfertilizing is dangerous**: Even slight toxicity prevents seedlings from growing normally. The typical response is to add more fertilizer, which makes things worse. Vigilance is essential.

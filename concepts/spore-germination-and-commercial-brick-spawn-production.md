@@ -1,5 +1,5 @@
 ---
-title: Spore Germination and Commercial Brick Spawn Production
+title: [[spore-germination-and-tissue-cloning]] Commercial Brick Spawn Production
 source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-While the tissue culture method became the dominant approach to mushroom [[inoculation-methods]]. This page examines both the ongoing quest for reliable spore germination and the practical craft of [[agaricus-campestris]]* **do not germinate readily**. While they are capable of germination, and suitably stimulated a considerable percentage may grow, the methods of stimulating germination that have been developed are far less easily applied than the tissue culture method.
+While the [[tissue-culture-method-for-mushroom-spawn-production]] became the dominant approach to mushroom [[inoculation-methods]]. This page examines both the ongoing quest for reliable spore germination and the practical craft of [[agaricus-campestris]]* **do not germinate readily**. While they are capable of germination, and suitably stimulated a considerable percentage may grow, the methods of stimulating germination that have been developed are far less easily applied than the tissue culture method.
 
 ### Costantin and Matruchot's Secret Method
 
 Some years before the early 1900s, the French mycologists **Costantin and Matruchot** reported that they had been able to produce [[mushroom-spawn]] from spores. Their work was reported in such a manner that only the results—not the methods—were made known, and it remained a secret. Since they distinctly referred to the use of spores, it was assumed they found a practicable method of stimulating spore germination, though even this was not certain.
 
-Their method found practical application for a time in a department of the **Pasteur Institute** in Paris, and later appeared to have been taken over by a corporation in Paris interested in mushroom growing. Under their system, spore culture tubes of spawn were grown and sold to growers who were expected to multiply the volume by preparing beds yielding the crop spawn required.
+Their method found practical application for a time in a department of the **Pasteur Institute** in Paris, and later appeared to have been taken over by a corporation in Paris interested in [[duggar-mushroom-growing-history-and-methods]]. Under their system, spore culture tubes of spawn were grown and sold to growers who were expected to multiply the volume by preparing beds yielding the crop spawn required.
 
 ### Repin's Method
 
@@ -26,7 +26,7 @@ Miss **Ferguson's** investigations on spore germination were reported in **Bulle
 
 ### Future Prospects
 
-The author had not abandoned the hope that a practical spore method might be developed, but even should such a method be found, it was not certain that it would be more practicable than the tissue culture method, which had already been the primary cause of the rapid development of mushroom growing in the United States.
+The author had not abandoned the hope that a practical spore method might be developed, but even should such a method be found, it was not certain that it would be more practicable than the tissue culture method, which had already been the primary cause of the rapid [[historical-development-of-mushroom-cultivation]] growing in the United States.
 
 The tissue culture method with its approach might also develop further in the United States—as it had in France, where growers purchase spore cultures and make their own general supply of spawn.
 
@@ -113,8 +113,8 @@ The reliability of the final product depends on every step of the process:
 - **Quality of starting materials**: Good stable manure, free from contamination
 - **Proper composting**: Adequate fermentation of the manure before brick-making
 - **Thorough sterilization**: Elimination of competing organisms from the medium
-- **Vigorous inoculum**: Pure culture spawn of known, tested variety
+- **Vigorous inoculum**: [[pure-culture-spawn-method-duggar-usda-1902]] of known, tested variety
 - **Controlled drying**: Neither too rapid (which damages viability) nor too slow (which allows contamination)
 - **Proper storage**: Cool, dry conditions until use
 
-The commercial brick spawn industry, built upon these principles, became the backbone of mushroom cultivation in the English-speaking world and laid the foundation for the modern spawn industry.
+The commercial brick spawn industry, built upon these principles, became the backbone [[history-of-mushroom-cultivation]] in the English-speaking world and laid the foundation for the modern spawn industry.

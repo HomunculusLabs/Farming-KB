@@ -134,7 +134,6 @@ spanning several fungal lineages:
 
 ## See Also
 
-- [[mycorrhizal-fungi-and-soil-food-web]]
-- [[mycorrhizal-fungi-and-whole-soil-food-web]]
-- [[mycorrhizal-fungi-application-and-colonization]]
-- [[mycorrhizal-fungi-application-and-food-web-integration]]
+- [[mycorrhizal-fungi-ecological-restoration]]
+- [[mycorrhizal-fungi-heavy-metal-tolerance]]
+- [[mycorrhizal-fungi-pollution-responses]]

@@ -106,7 +106,6 @@ Anthocyanin accumulation in cold-exposed tissues provides antioxidant protection
 
 Vernalization requirements in winter cereals interact with cold acclimation pathways. The prolonged cold exposure needed for floral induction overlaps with the period of maximum AFP accumulation, potentially linking reproductive timing to cryoprotective capacity.
 
-
 ## See Also
 
 - [[plant-awareness-consciousness-debate-neurobiology]]

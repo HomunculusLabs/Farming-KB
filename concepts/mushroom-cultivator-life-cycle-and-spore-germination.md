@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivator Mushroom Life Cycle and Spore Germination
+title: [[coprinus-atrementarius-entity-the-mushroom-cultivator]] [[duggar-mushroom-life-cycle-spore-germination-fruiting]] and Spore Germination
 source: the-mushroom-cultivator-stamets.md
 source_author: Paul Stamets, J.S. Chilton
 extracted: 2026-05-10
@@ -24,7 +24,7 @@ tens of thousands of known fungi, mushrooms constitute only a few thousand speci
 
 ## The Three Phases of Cultivation
 
-The three major steps in growing mushrooms parallel three phases in their life
+The three major steps in [[falconer-growing-mushrooms-in-sheds]] parallel three phases in their life
 cycle:
 
 1. **Spore collection, germination, and mycelium isolation** — or tissue cloning
@@ -55,10 +55,10 @@ on standard agar media. Several techniques promote germination:
 - **Heat shock** — brief exposure to elevated temperature (50°C for some species)
 - **Activated charcoal** — incorporating a thin layer into the agar surface
 - **Wheat grain water agar** — a simple, effective medium for many species
-- **Microwaving spores** — brief microwave exposure can stimulate germination
+- **Microwaving spores** — brief [[microbial-kill-curve-microwave-exposure-dose-response]] can stimulate germination
 
 Not all spores within a print are viable. Germination rates vary from less than 1%
-to over 50% depending on species, spore age, storage conditions, and medium.
+to over 50% depending on species, spore age, [[spawn-storage-conditions]], and medium.
 
 ## Multispore Culture and Genetic Variation
 
@@ -87,7 +87,7 @@ genetic strain.
 
 Cultivators transfer sectors to fresh media to isolate individual strains, then
 test them for fruiting ability, yield, growth rate, and other desirable traits.
-This process of selection and testing is the foundation of strain development.
+This process of [[hepa-filter-selection-and-testing]] is the foundation of strain development.
 
 ## Tissue Culture (Cloning)
 

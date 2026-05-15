@@ -1,5 +1,5 @@
 ---
-title: Pulsing Agricultural Ecosystems
+title: Pulsing [[fungi-grassland-agricultural-ecosystems-dighton]]
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
@@ -22,7 +22,7 @@ Cell grazing is based on the principle that pastures grow better without constan
 
 The consumption phase is always brief and relatively intense if the system is to remain healthy. Two critical management questions for pastoral farmers are:
 - **How brief?** — The duration of the grazing pulse
-- **How intense?** — The stocking density and grazing pressure during the pulse
+- **How intense?** — The stocking density and [[gadd-mycelial-network-resilience-grazing-pressure]] during the pulse
 
 In a systems ecology sense, separating production from consumption increases the total energy processing and resilience of the system.
 
@@ -30,7 +30,7 @@ In a systems ecology sense, separating production from consumption increases the
 
 ### The Traditional System
 
-Another important agricultural example of pulsing systems is the rotation of fertility-demanding annual crops with longer rotations (**leys**) of soil-improving perennial pastures. In moderate rainfall temperate climates, mixtures of clovers, perennial grasses, and other herbaceous plants improve:
+Another important agricultural example of pulsing systems is the rotation of fertility-demanding annual crops with longer rotations (**leys**) of soil-improving perennial pastures. In moderate rainfall [[fukuoka-natural-farming-temperate-climates]], mixtures of clovers, perennial grasses, and other herbaceous plants improve:
 - Soil organic matter
 - Soil structure
 - Soil fertility (especially under pulsing grazing regimes)
@@ -92,12 +92,12 @@ Sheet mulching is an easy way to convert lawn and pasture into productive food g
 Three successional alternatives include:
 
 1. **Fallow reversion**: Reverting to grass and weed fallow, and moving the garden to a fresh location
-2. **Food forest succession**: Gradual dominance by fruit trees and shade-tolerant perennials, with natural litter fall and prunings providing adequate mulch
+2. **[[mollison-designers-food-forest-succession-design]]**: Gradual dominance by fruit trees and shade-tolerant perennials, with natural litter fall and prunings providing adequate mulch
 3. **Intensive soil management**: Application of high-quality compost, carefully selected rock minerals, modest mulching, combined with light surface cultivation and deep aeration forking to maintain balanced productive soil
 
 ## Food Forest Succession
 
-Many intensive sheet-mulch Permaculture gardens of mixed annuals and perennials apply the initial floristic composition model of succession. The succession to fruit trees, climbers, shade-tolerant herbs, and perennial vegetables has resulted in many varied food forests providing yields for very little work.
+Many intensive sheet-mulch [[mollison-guinea-pig-integration-in-permaculture-gardens]] of mixed annuals and perennials apply the initial floristic composition model of succession. The succession to fruit trees, climbers, shade-tolerant herbs, and [[comparison-perennial-vegetables-vs-cover-crops]] has resulted in many varied food forests providing yields for very little work.
 
 However, high-yielding production of valued annual vegetables requires open sunny space. After a decade of nurturing an expanding food forest, permaculturalists sometimes take chainsaws to overgrown leguminous trees to release fertility and sunlight for vegetable gardening — a reinvention of [[slash-and-burn-agriculture]] in miniature.
 

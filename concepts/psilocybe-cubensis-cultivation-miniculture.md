@@ -1,14 +1,14 @@
 ---
-title: "Psilocybe Cubensis Cultivation Miniculture"
-aliases: [rye grain miniculture, mushroom miniculture, gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation rye grain]
+title: "[[gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation]] Miniculture"
+aliases: [[[rye-grain-miniculture-production-parameters]], mushroom miniculture, gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation rye grain]
 tags: [mycology, cultivation, psilocybe, grain-spawn, fruiting, methodology]
-source: variation of psilocybin and psilocin levels bigwood beug
+source: variation of [[psilocybin-and-psilocin-biosynthesis-variation]] levels bigwood beug
 created: 2026-05-11
 ---
 
 # Psilocybe Cubensis Miniculture Method
 
-The miniculture method is a small-scale cultivation technique for *Psilocybe cubensis* using rye grain substrate in half-pint mason jars. Developed as an adaptation of the San Antonio (1971) rye-grain method and refined by Oss and Oeric (1976), this approach was used by Bigwood and Beug (1982) to produce controlled, repeatable flushes of *P. cubensis* for alkaloid analysis. The method is notable for its simplicity, minimal space requirements, and ability to produce multiple flushes over an extended period.
+The miniculture method is a small-scale [[boil-a-bag-mushroom-cultivation-technique]] for *Psilocybe cubensis* using rye grain substrate in half-pint mason jars. Developed as an adaptation of the San Antonio (1971) rye-grain method and refined by Oss and Oeric (1976), this approach was used by Bigwood and Beug (1982) to produce controlled, repeatable flushes of *P. cubensis* for alkaloid analysis. The method is notable for its simplicity, minimal space requirements, and ability to produce multiple flushes over an extended period.
 
 ## Overview
 
@@ -23,7 +23,7 @@ The miniculture method produces *P. cubensis* fruiting bodies in wide-mouth half
 
 ### Casing Layer
 - Peat moss: 2 parts by volume
-- Calcium carbonate (agricultural lime): 1 part by volume
+- [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] (agricultural lime): 1 part by volume
 - Perlite and/or vermiculite: 2 parts by volume
 - Total casing depth: approximately 2 cm
 
@@ -35,7 +35,7 @@ The miniculture method produces *P. cubensis* fruiting bodies in wide-mouth half
 ### Maintenance
 - Sterile water: 1 ml per jar, applied via syringe, every two days
 - Plastic bags or sealing equipment for specimen storage
-- Freezer or cold storage (-5°C) for specimen preservation
+- Freezer or cold storage (-5°C) for [[fungal-specimen-preservation-herbarium]]
 
 ## Step-by-Step Procedure
 

@@ -86,13 +86,13 @@ tip that acts as both a sensory and growth-organizing center.
 The Spitzenkörper responds to local environmental signals within seconds,
 reorienting hyphal growth toward nutrients or away from toxins. This
 responsiveness is fundamental to how mycelial networks explore and exploit
-heterogeneous environments.
+[[fungal-foraging-strategies-heterogeneous-environments]].
 
 ## Responses to Heterogeneous Environments
 
 Boddy and Jones draw parallels between fungal mycelial responses and those
 of macroorganisms. Fungi in patchy environments demonstrate behaviors that
-echo animal foraging strategies:
+echo animal [[mycelial-foraging-strategies-nutrient-translocation]]:
 
 - They grow preferentially toward richer resource patches
 - They maintain connections to multiple resource patches simultaneously
@@ -103,7 +103,7 @@ echo animal foraging strategies:
 ## Distance and Rate of Transport
 
 Translocation distances vary enormously among fungal species and depend on
-hyphal diameter, septation frequency, and metabolic activity:
+hyphal diameter, septation frequency, and [[arbuscule-isolation-metabolic-activity-assays]]:
 
 - **Microfungi** (molds): Translocation over centimeters to tens of
   centimeters, primarily within small substrates
@@ -111,7 +111,7 @@ hyphal diameter, septation frequency, and metabolic activity:
   moving resources from one end of a log to another
 - **Cord-forming fungi**: Produce specialized rhizomorphs that function
   as "highways" for long-distance transport across soil surfaces
-- **Arbuscular mycorrhizal fungi**: Transport carbon from plant roots to
+- **[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]**: Transport carbon from plant roots to
   external hyphae extending centimeters into soil
 
 ## Ecological Significance
@@ -122,7 +122,7 @@ Mycelial transport capacity underpins several critical ecosystem functions:
    growing front by translocating enzymes and absorbing breakdown products
 2. **Nutrient cycling**: Fungi move nutrients between different soil
    horizons and between litter and mineral soil
-3. **Carbon distribution**: In mycorrhizal networks, carbon flows from
+3. **Carbon distribution**: In [[arbuscular-mycorrhizal-networks]], carbon flows from
    plants to fungi and potentially between different plants
 4. **Stress tolerance**: Internal resource sharing helps colonies survive
    local environmental stresses
@@ -133,7 +133,7 @@ Understanding mycelial transport has practical applications for agriculture
 and forestry. Practices that damage mycelial networks — excessive tilling,
 compaction, or fungicide application — can disrupt these transport
 functions. Maintaining soil structure and organic matter supports the
-mycelial networks that drive nutrient cycling and plant health.
+mycelial networks that drive [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] plant health.
 
 ## Related Concepts
 

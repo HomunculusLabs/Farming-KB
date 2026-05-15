@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-Two important yet often overlooked aspects of the PF Tek are the inoculation-without-lids technique (for use with drinking glasses) and the [[psylocybe-fanaticus]] as practical solutions to common [[boil-a-bag-long-needle-inoculation-method-jarrold]] is needed.
+Two important yet often overlooked aspects of the [[pf-tek]] are the inoculation-without-lids technique (for use with drinking glasses) and the [[psylocybe-fanaticus]] as practical solutions to common [[boil-a-bag-long-needle-inoculation-method-jarrold]] is needed.
 
 The [[cho-brown-rice-vinegar-preparation]] powder, so any contaminants that land on it cannot easily propagate
 

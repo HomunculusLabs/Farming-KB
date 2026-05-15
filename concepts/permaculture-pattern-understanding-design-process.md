@@ -7,7 +7,7 @@ tags: [permaculture, design-methodology, pattern-language]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Pattern Understanding in the Design Process
-**Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
+**Source:** Permaculture: A Designers' Manual, [[bill-mollison]] (1988)
 **Updated:** 2026-05-09
 
 ## Overview

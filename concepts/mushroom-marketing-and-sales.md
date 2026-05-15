@@ -1,12 +1,12 @@
 ---
-title: Mushroom Marketing and Sales
+title: [[duggar-mushroom-marketing-economics-1915]] and Sales
 source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
 # Mushroom Marketing and Sales
 
-Growing consistently high-quality mushrooms is one skill; finding buyers and marketing them effectively is another. Success in the mushroom business requires understanding consumer demand, educating your market, and employing practical sales strategies. A popular saying in the agricultural market captures this principle: "Don't sell what you can grow — grow what you can sell."
+Growing consistently high-quality mushrooms is one skill; finding buyers and marketing them effectively is another. Success in the [[cotter-mushroom-business-marketing]] requires understanding consumer demand, educating your market, and employing practical sales strategies. A popular saying in the agricultural market captures this principle: "Don't sell what you can grow — grow what you can sell."
 
 ## Understanding Your Market
 
@@ -75,7 +75,7 @@ Always include the FDA disclaimer: "This statement has not been evaluated by the
 
 ### Supporting Research
 
-Maintain a binder of legitimate scientific research photocopies at your booth. Post references on your website with direct links, and regularly update with the most current research available.
+Maintain a binder of legitimate [[psilocybin-isolation-and-early-scientific-research]] photocopies at your booth. Post references on your website with direct links, and regularly update with the most current research available.
 
 ## Packaging
 
@@ -93,11 +93,11 @@ Mushrooms may begin feeding on biodegradable packaging. [[oyster-mushrooms]] hav
 
 ### Shipping Considerations
 
-Packaging must include ventilation holes for breathability and storage requirements clearly marked on all sides: "Fresh shiitake mushrooms / keep refrigerated at 38–45°F (3.3–7.2°C)."
+Packaging must include ventilation holes for breathability and storage requirements clearly marked on all sides: "Fresh [[query-how-to-grow-shiitake-mushrooms]] / keep refrigerated at 38–45°F (3.3–7.2°C)."
 
 ### Food Safety Standards
 
-Consult the **Mushroom Good Agricultural Practices (mGAP)** guidelines developed by Penn State University and the American Mushroom Institute. Arrange for inspection from local health inspectors when seeking food safety certification.
+Consult the **Mushroom Good [[mycorrhizal-agricultural-practices]] (mGAP)** guidelines developed by Penn State University and the American Mushroom Institute. Arrange for inspection from local health inspectors when seeking food safety certification.
 
 ## Branding
 
@@ -137,4 +137,4 @@ A website showcasing your operation extends your reach. Include preparation tips
 
 ## Educational Marketing
 
-When customers understand what makes your mushrooms special — their nutritional profile, unique flavors, cultivation methods, and culinary applications — they become loyal advocates. Every customer interaction is an opportunity to share knowledge and build the market for specialty mushrooms.
+When customers understand what makes your mushrooms special — their nutritional profile, unique flavors, [[gourmet-medicinal-mushroom-oyster-cultivation-methods]], and culinary applications — they become loyal advocates. Every customer interaction is an opportunity to share knowledge and build the market for specialty mushrooms.

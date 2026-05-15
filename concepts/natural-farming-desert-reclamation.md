@@ -22,7 +22,7 @@ Masanobu Fukuoka extended his [[allegro-garden-of-eden-and-delight]], then natur
 Seeds of plants suited to the local climate are encased in [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - **Grains and vegetables** — adapted to local conditions
 
-The seed mixture is coated first with a layer of soil, then one of clay, to form "microbe-containing clay pellets." The soil layer carries beneficial microorganisms from fertile land; the clay layer provides protection.
+The seed mixture is coated first with a layer of soil, then one of clay, to form "microbe-containing clay pellets." The soil layer carries [[forest-and-bamboo-beneficial-microorganisms]] from fertile land; the clay layer provides protection.
 
 ### Application
 Seed balls are scattered by hand over the desert and savanna. "The seeds within the hard pellets are protected from predation by mice and birds, and do not germinate until rain has fallen and conditions are just right." A year later, several of the plants will have survived, "giving a clue as to how best to proceed. Any types of plant will do as long as the deserts are soon covered once again with vegetation. Such a method will surely bring the rains back to the desert."
@@ -52,7 +52,7 @@ Fukuoka argued that science cannot solve desertification because it cannot trace
 - [[fukuoka-desert-revegetation-natural-farming]]
 ## Practical Considerations
 
-Successful implementation of Natural Farming and Desert Reclamation requires attention to
+Successful implementation [[four-principles-of-natural-farming]] and Desert Reclamation requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -72,7 +72,7 @@ communities, and systematic experimentation to build expertise.
 ## Overview
 
 Natural Farming Desert Reclamation represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Natural Farming Desert Reclamation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,7 +107,7 @@ Integration with complementary elements enhances system function.
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for natural farming desert reclamation. Climate adaptation
+opportunities [[query-how-do-clay-seed-balls-work-for-natural-farming]] desert reclamation. Climate adaptation
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 natural farming desert reclamation and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

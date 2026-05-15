@@ -4,7 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [history, timeline, psychedelics, academia, psychopharmacology, entheogen-research, consciousness, counterculture]
-sources: []
+sources:
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
+  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 
 # Psychedelic Research Timeline

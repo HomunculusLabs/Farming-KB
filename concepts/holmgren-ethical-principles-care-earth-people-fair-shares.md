@@ -1,5 +1,5 @@
 ---
-title: Holmgren Ethical Principles - Care for Earth, People and Fair Shares
+title: Holmgren [[permaculture-ethical-principles-care-earth-people-limits]] - Care for Earth, People and Fair Shares
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 source_author: David Holmgren
 extracted: 2026-05-10
@@ -57,7 +57,7 @@ broader canvas of utility than reductionist econometric perspectives.
 ## Care for the Earth: Multiple Scales
 
 ### Global: The Gaia Hypothesis
-The Gaia hypothesis of James Lovelock and Lynn Margulis provides a whole-system
+The Gaia hypothesis of [[james-lovelock]] and Lynn Margulis provides a whole-system
 science showing Earth as a self-organized system. Four billion years of
 evolutionary history demonstrate that if humanity seriously affects fundamental
 life-support systems, we will be "neutralized" by co-evolutionary mechanisms such
@@ -73,11 +73,11 @@ controversial, but careless use can rapidly destroy its capacity to support life
 
 ### Local: Stewardship of Place
 At the scale of the horizon, Care for the Earth means looking after home, place,
-or territory — as understood by indigenous cultures and through bioregionalism.
+or territory — as understood by [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] and through bioregionalism.
 This acknowledges individual and collective responsibility for particular natural
 resources about which we have some understanding and power.
 
-Wendell Berry's critique of planetary stewardship is relevant here: the notion
+[[wendell-berry]]'s critique of planetary stewardship is relevant here: the notion
 of managing the entire planet reflects arrogant disconnection from nature and
 belief in our own power, rather than genuine care.
 
@@ -98,12 +98,12 @@ and ecology, the more we see wisdom in spiritual perspectives and traditions.
 
 The union of materialism and spirituality is occurring along both creative and
 destructive pathways. Holmgren places permaculture between inclusive ecological
-spirituality and emerging holistic science, distinct from both fundamentalist
+spirituality and emerging [[savory-reductionist-vs-holistic-science]], distinct from both fundamentalist
 religion and fundamentalist reductionism.
 
 ## Beyond Sustainability
 
-The subtitle of Holmgren's book — "Principles & Pathways Beyond Sustainability"
+The subtitle of Holmgren's book — "Principles & [[permaculture-principles-pathways-beyond-sustainability]]"
 — signals that sustainability itself is an insufficient goal. A sustainable
 system merely maintains existing conditions, while permaculture aims for systems
 that actively regenerate and improve over time. The design principles are

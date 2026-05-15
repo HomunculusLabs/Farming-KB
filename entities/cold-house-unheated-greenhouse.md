@@ -1,5 +1,5 @@
 ---
-title: Cold House (Unheated Greenhouse)
+title: Cold House ([[coleman-unheated-greenhouse-design]])
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [technique, infrastructure, greenhouse, season-extension, winter-production]
@@ -7,7 +7,7 @@ tags: [technique, infrastructure, greenhouse, season-extension, winter-productio
 
 ## Overview
 
-A "cold house" is Eliot Coleman's term for an unheated greenhouse used for winter vegetable production. In contrast to traditional heated "hothouses" (maintained at 55-65°F for crops like tomatoes and lettuce), the cold house relies entirely on passive solar gain and an inner layer of [[floating-row-cover]] to create a climate suitable for cold-hardy vegetables through the winter months. At [[four-season-farm]] in Harborside, Maine (Zone 5), cold houses enable year-round production despite outdoor temperatures reaching -20°F (-29°C).
+A "cold house" is Eliot Coleman's term for an unheated greenhouse used for [[coleman-french-historical-winter-vegetable-production]]. In contrast to traditional heated "hothouses" (maintained at 55-65°F for crops like tomatoes and lettuce), the cold house relies entirely on passive solar gain and an inner layer of [[floating-row-cover]] to create a climate suitable for cold-hardy vegetables through the winter months. At [[four-season-farm]] in Harborside, Maine (Zone 5), cold houses enable year-round production despite outdoor temperatures reaching -20°F (-29°C).
 
 ## Terminology Note
 
@@ -63,8 +63,8 @@ Most tolerate temperatures to 10°F (-12°C) or lower under protection, provided
 ## Key Principles
 
 1. **Soil as thermal mass**: No water or stone ballast; soil alone stores and releases heat
-2. **Double coverage**: Two layers of protection (greenhouse + row cover) create synergistic climate modification
-3. **Humidity management**: Inner layer increases relative humidity, providing additional freeze protection
+2. **Double coverage**: Two layers of protection (greenhouse + row cover) create synergistic [[coleman-double-layer-climate-modification-temperature-data]]
+3. **[[pf-tek-dual-chambered-terrarium-design-humidity-management]]**: Inner layer increases relative humidity, providing additional freeze protection
 4. **Wind exclusion**: More critical than temperature — desiccation kills faster than cold
 5. **No complicated technology**: No pumps, fans, buried insulation, or space-age materials
 
@@ -81,10 +81,10 @@ Most tolerate temperatures to 10°F (-12°C) or lower under protection, provided
 
 ## Relevance to Cultivation and Mycology
 
-The cold house concept has direct applications to mushroom cultivation:
+The cold house concept has direct applications to [[accessible-mushroom-cultivation-for-disabilities]]:
 
 - **Winter mushroom production**: Cold houses can moderate temperatures for cold-tolerant mushroom species (oyster, enoki, nameko, shiitake in certain phases)
-- **Spawn run chambers**: The double-layer system maintains stable temperatures for mycelial colonization
+- **Spawn run chambers**: The double-layer system maintains stable temperatures for [[mycelial-colonization]]
 - **Low-cost infrastructure**: Unheated structures reduce the capital and operating costs of mushroom production
 - **Integrated systems**: Vegetable-mushroom intercropping under the same protected structure
 - **Soil thermal mass**: Ground heat can be harnessed for substrate temperature moderation

@@ -14,8 +14,8 @@ This review by John H. Halpern (Harvard Medical School, McLean Hospital), publis
 
 ### 1. Mescaline-Containing Cacti
 
-- **Peyote** (*Lophophora williamsii*): Native to South Texas and Northern Mexico. Used sacramentally by the **Native American Church (NAC)** — ~300,000 members. Typical dose: 6–10 dried buttons (~12–20 mg mescaline). Potent intoxication threshold: ~3.75 mg/kg. Peak effects in 2–4 hours, lasting 4–6 hours.
-- **San Pedro** (*Trichocereus pachanoi*): Native to Andes; contains mescaline at 0.3–1.2%. Often prepared as a soup; higher risk of nausea than peyote due to larger volume of plant material.
+- **Peyote** (*[[lophophora-williamsii]]*): Native to South Texas and Northern Mexico. Used sacramentally by the **[[halpern-sacramental-peyote-and-native-american-church]] (NAC)** — ~300,000 members. Typical dose: 6–10 dried buttons (~12–20 mg mescaline). Potent intoxication threshold: ~3.75 mg/kg. Peak effects in 2–4 hours, lasting 4–6 hours.
+- **San Pedro** (*[[trichocereus-pachanoi]]*): Native to Andes; contains mescaline at 0.3–1.2%. Often prepared as a soup; higher risk of nausea than peyote due to larger volume of plant material.
 
 ### 2. Psilocybin/Psilocin-Containing Mushrooms
 
@@ -40,14 +40,14 @@ This review by John H. Halpern (Harvard Medical School, McLean Hospital), publis
 ### 5. Morning Glory and Hawaiian Baby Woodrose
 
 - **Morning Glory** (*Ipomoea* spp.): Seeds contain **lysergic acid amide** (LSA).
-- **Hawaiian Baby Woodrose** (*Argyreia nervosa*): Seeds contain LSA and related ergoline alkaloids.
+- **Hawaiian Baby Woodrose** (*[[argyreia-nervosa]]*): Seeds contain LSA and related ergoline alkaloids.
 - LSA is chemically related to LSD but significantly less potent.
 
 ### 6. *Salvia divinorum*
 
 - From the mint family (Lamiaceae).
 - Contains **salvinorin-A**, a **non-nitrogenous κ-opioid receptor agonist** — unique among hallucinogens.
-- Unlike virtually all other hallucinogens, salvinorin-A has **no activity at 5-HT2A serotonin receptors**.
+- Unlike virtually all other hallucinogens, salvinorin-A has **no activity at 5-HT2A [[psilocybin-pharmacology-and-serotonin-receptors]]**.
 - Traditionally used by Mazatec Indians of Oaxaca, Mexico (chewing fresh leaves or drinking leaf juice).
 - Modern use: smoking dried leaves or concentrated extracts.
 - **Smoked**: Psychoactive for ~15 minutes at 200–500 µg doses.
@@ -82,7 +82,7 @@ This review by John H. Halpern (Harvard Medical School, McLean Hospital), publis
 - The primary threat is **not** from religious practice but from irresponsible, illicit drug abuse.
 - **Drug education** should be expanded to cover these indigenous botanicals.
 - Physicians should question younger patients about information obtained online about drugs.
-- Internet dissemination has dramatically increased access to information about identification, preparation, and cultivation of these substances.
+- [[halpern-internet-dissemination-psychoactive-plants-public-health]] has dramatically increased access to information about identification, preparation, and cultivation of these substances.
 
 ## See Also
 

@@ -64,7 +64,6 @@ The compound gained significant popularity in the  community during [[mushroom-t
 - **25B-NBOMe**: N-benzyl derivative, vastly more potent (µg range), higher risk profile — **not** the same compound despite sharing the "2C-B" letters
 - **DOB**: Amphetamine analogue of 2C-B, much longer duration (18–30 hours)
 
-
 ## See Also
 
 - [[2c-n-entity-pihkal]]

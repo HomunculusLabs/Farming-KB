@@ -1,12 +1,12 @@
 ---
-title: Perlite Humidification Technique
+title: [[perlite-humidification-technique-mushroom-fruiting-pf-tek]]
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
 # Perlite Humidification Technique
 
-The perlite humidification technique is a low-tech, highly effective method for maintaining humidity in mushroom fruiting chambers. Originally popularized through anonymous internet newsgroup posts in the 1990s, it has become one of the most widely used passive humidification methods among home cultivators, particularly those working with the PF Tek method.
+The perlite humidification technique is a low-tech, highly effective method for maintaining humidity in [[mushroom-fruiting-chambers]]. Originally popularized through anonymous internet newsgroup posts in the 1990s, it has become one of the most widely used passive humidification methods among home cultivators, particularly those working with the PF Tek method.
 
 ## What is Perlite?
 
@@ -20,7 +20,7 @@ The mechanism is straightforward but remarkably effective:
 
 1. **Water Uptake**: When perlite is wetted, water is drawn into its porous structure by capillary action. Gravity keeps the bulk of the water at the bottom of the perlite layer.
 
-2. **Gradual Evaporation**: The porous structure of the perlite causes the absorbed water to evaporate slowly and steadily into the air above the layer. This gradual release is highly desirable for mushroom cultivation because it maintains consistent humidity without the fluctuations associated with electric humidifiers.
+2. **Gradual Evaporation**: The porous structure of the perlite causes the absorbed water to evaporate slowly and steadily into the air above the layer. This gradual release is highly desirable [[grass-seed-substrate-for-mushroom-cultivation]] because it maintains consistent humidity without the fluctuations associated with electric humidifiers.
 
 3. **Long Duration**: A properly prepared perlite layer can maintain adequate humidity for weeks without needing to be re-wetted. This makes it sufficient for multiple flushes of mushrooms from a single setup.
 
@@ -28,7 +28,7 @@ The mechanism is straightforward but remarkably effective:
 
 ## Key Distinction from Vermiculite
 
-It is important to note that perlite and vermiculite, while often used together in cultivation, function differently:
+It is important to note that [[query-what-is-the-difference-between-perlite-and-vermiculite]], while often used together in cultivation, function differently:
 
 - **Perlite** does not absorb and hold water internally in the same way as vermiculite. Instead, water clings to the extensive surface area of its porous structure and evaporates from there.
 - **Vermiculite** absorbs water into its layered structure and holds it more tightly. While it also provides humidification, perlite's evaporative properties are superior for this specific application.
@@ -44,7 +44,7 @@ It is important to note that perlite and vermiculite, while often used together 
 
 ### Layer Depth
 
-A depth of 2 to 4 inches of wetted perlite is generally sufficient for a standard-sized fruiting chamber. Deeper layers provide longer-lasting humidification but reduce the available vertical growing space.
+A depth of 2 to 4 inches of wetted perlite is generally sufficient for a standard-sized fruiting chamber. Deeper layers provide longer-lasting humidification but reduce the available [[coleman-greenhouse-tomato-vertical-growing]] space.
 
 ### Placement of Mushroom Cakes
 
@@ -77,4 +77,4 @@ Excess water reduces the humidity gradient the technique depends on.
 A thin layer of water at the bottom is sufficient for sustained
 humidification over several weeks of fruiting.
 Regular misting of the chamber walls helps maintain the 90-95%
-relative humidity that primordia formation requires.
+relative humidity that [[growing-gourmet-primordia-formation-pinning]] requires.

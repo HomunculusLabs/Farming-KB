@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Mycorrhizae are symbiotic associations between fungi and plant roots that are among the most widespread and ecologically important mutualisms on Earth. Approximately **95% of vascular plants** form mycorrhizal associations (Brundrett 1991), making them a nearly universal feature of terrestrial plant ecology. These associations play critical roles in nutrient cycling, primary production, soil formation, and ecosystem stability.
+Mycorrhizae are symbiotic associations between fungi and plant roots that are among the most widespread and ecologically important mutualisms on Earth. Approximately **95% of vascular plants** form [[plants-without-mycorrhizal-associations]] (Brundrett 1991), making them a nearly universal feature of terrestrial plant ecology. These associations play critical roles [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], primary production, soil formation, and [[biodiversity-specialization-ecosystem-stability]].
 
 The seven recognized [[mycorrhizal-types]] — arbuscular, ecto-, ectendo-, ericoid, arbutoid, orchidaceous, and monotropoid — differ fundamentally in their anatomy, host specificity, [[fungal-taxonomy]], and ecological function. Understanding these distinctions is essential for interpreting belowground processes in any ecosystem.
 
@@ -32,7 +32,7 @@ The term "arbuscular" derives from the Latin *arbusculum* (small tree), referrin
 
 **Host range:** Herbaceous plants, grasses, and tropical trees. AM associations are formed with a very broad range of plant species but involve relatively few fungal species — a striking asymmetry in specificity.
 
-**Structural features:**
+**[[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]:**
 - **Arbuscules** — highly branched hyphal structures that form within root cortical cells, serving as the primary site of nutrient exchange between fungus and plant
 - **Vesicles** — swollen hyphal compartments used for lipid storage, typically found in the root cortex
 - Extensive extraradical hyphal networks extending into the surrounding soil
@@ -56,7 +56,7 @@ ECM associations are the dominant mycorrhizal type in many temperate and boreal 
 
 ### Ectendomycorrhizae
 
-Ectendomycorrhizae exhibit a combination of both **ectomycorrhizal and arbuscular mycorrhizal** characteristics (Laiho & Mikola 1964). They possess a fungal sheath on the root surface and a Hartig net, but also penetrate cortical cells in a manner somewhat analogous to arbuscule formation. This intermediate morphology places them at the boundary between the two dominant mycorrhizal categories.
+Ectendomycorrhizae exhibit a combination of both **ectomycorrhizal and [[arbuscular-mycorrhizal-colonization-patterns]]** characteristics (Laiho & Mikola 1964). They possess a fungal sheath on the root surface and a Hartig net, but also penetrate cortical cells in a manner somewhat analogous to arbuscule formation. This intermediate morphology places them at the boundary between the two dominant mycorrhizal categories.
 
 ### Ericoid Mycorrhizae
 
@@ -118,5 +118,5 @@ The diversity of mycorrhizal types reflects adaptations to different environment
 ## See Also
 
 - fungal roles in decomposition — complementary perspectives on fungal contributions to nutrient cycling
-- [[soil-food-web-structure]] — how mycorrhizal fungi fit into broader belowground food webs
+- [[soil-food-web-structure]] — [[query-how-mycorrhizal-fungi-help-plants]] fit into broader belowground food webs
 - carbon sequestration in soils — the role of mycorrhizal biomass in long-term carbon storage

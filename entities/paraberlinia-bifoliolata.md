@@ -39,12 +39,12 @@ network connectivity between tropical tree species.
   of adult Paraberlinia trees showed significantly higher shoot biomass (2.43g)
   compared to isolated seedlings (1.52g) after 8 months of growth.
 - **Cross-species mycorrhizal benefits:** When P. bifoliolata seedlings were
-  connected to mycorrhizal networks of different adult tree species, all
+  connected to [[mycorrhizal-networks]] of different adult tree species, all
   combinations showed enhanced growth compared to isolated seedlings: Afzelia
   (1.59g vs 1.16g isolated), Brachystegia (1.48g vs 1.24g), Tetraberlinia
   (2.19g vs 1.78g).
 - **Ectomycorrhizal association:** As an ectomycorrhizal species, P.
-  bifoliolata forms fungal sheaths around root tips and a Hartig net within the
+  bifoliolata forms fungal sheaths around root tips and a [[hartig-net]] within the
   root cortex, facilitating bidirectional nutrient exchange.
 - **Cameroon rainforest habitat:** Native to Central African rainforests where
   it co-occurs with other ectomycorrhizal Caesalpinioideae trees including
@@ -88,3 +88,8 @@ network connectivity between tropical tree species.
   mycorrhizal network connectivity. Mycorrhiza.
 - Newbery, D. M., et al. (2000). Ectomycorrhizal tree seedling survival.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+## See also
+
+- [[tetraberlinia-bifoliata]]
+- [[microberlinia-bisulcata]]
+- [[mycorrhizal-fungi]]

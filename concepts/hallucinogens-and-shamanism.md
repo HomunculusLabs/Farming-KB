@@ -1,5 +1,5 @@
 ---
-title: "Hallucinogens and Shamanism — Introduction and Overview"
+title: "[[hallucinogens-and-shamanism-harner-anthology]] — Introduction and Overview"
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
@@ -80,7 +80,7 @@ Among these groups, the mushroom was not merely a casual intoxicant but a centra
 
 ## Jochelson's Account of Koryak Use
 
-The ethnographer **Waldemar Jochelson** provided one of the most detailed early descriptions of Amanita muscaria use among the Koryak people. His account, recorded during the Jesup North Pacific Expedition (1900–1910), documented several striking features:
+The ethnographer **Waldemar Jochelson** provided one of the most detailed early descriptions of [[amanita-muscaria-use-australia-nz]] among the Koryak people. His account, recorded during the Jesup North Pacific Expedition (1900–1910), documented several striking features:
 
 1. **Ritual consumption** — Fresh mushrooms were consumed during communal gatherings, often in ritual contexts presided over by shamans who determined dosage and set the ceremonial frame for the experience.
 
@@ -106,15 +106,15 @@ Hallucinogenic shamanism, with its emphasis on individual visionary authority an
 
 While Siberia provided the classic model that shaped Western anthropological thinking about shamanism, the **New World** (the Americas) is by far the richest region on Earth in terms of hallucinogenic plant diversity. Indigenous cultures across North, Central, and South America developed elaborate pharmacopoeias of psychoactive plants, far exceeding anything found in Siberia:
 
-- **Peyote** (*Lophophora williamsii*) — used by peoples of the Mexican desert and later by the [[native-american-church]]; contains mescaline
-- **Ayahuasca** (*Banisteriopsis caapi* + *Psychotria viridis*) — the Amazonian brew containing DMT, used in healing ceremonies throughout western Amazonia
+- **Peyote** (*[[lophophora-williamsii]]*) — used by peoples of the Mexican desert and later by the [[native-american-church]]; contains mescaline
+- **Ayahuasca** (*Banisteriopsis caapi* + *[[chacruna-psychotria-viridis]]*) — the Amazonian brew containing DMT, used in healing ceremonies throughout western Amazonia
 - **Ololiuqui** (*Turbina corymbosa*) — morning glory seeds containing ergine (LSA), used in Aztec and Mazatec ritual
 - **Psilocybin mushrooms** — numerous species used in Mesoamerican ritual, particularly the "teonanácatl" ("flesh of the gods") of the Aztecs
-- **San Pedro** (*Echinopsis pachanoi*) — the Andean cactus containing mescaline, used in Peruvian curanderismo
+- **San Pedro** (*[[echinopsis-pachanoi]]*) — the Andean cactus containing mescaline, used in Peruvian curanderismo
 - **Virola snuffs** — DMT-containing resins used by Amazonian tribes of the upper Orinoco and Rio Negro basins
 - **Datura** (*Datura* spp.) — powerful tropane alkaloids used in both New and Old World contexts, often with significant danger due to the narrow margin between effective and toxic doses
 
-Despite this extraordinary richness, anthropological attention has been profoundly uneven. **Peyote**, largely because of its visibility in the United States and its association with the organized Native American Church, has been extensively studied. Many other New World hallucinogens — and the complex shamanic systems built around them — have received far less systematic attention from researchers.
+Despite this extraordinary richness, anthropological attention has been profoundly uneven. **Peyote**, largely because of its visibility in the United States and its association with the organized [[halpern-sacramental-peyote-and-native-american-church]], has been extensively studied. Many other New World hallucinogens — and the complex shamanic systems built around them — have received far less systematic attention from researchers.
 
 ## The Ethnocentric Blindspot of Anthropologists
 

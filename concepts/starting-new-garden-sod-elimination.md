@@ -1,12 +1,12 @@
 ---
-title: Starting a New Garden — Sod Elimination and Bed Preparation
+title: Starting a New Garden — Sod Elimination [[solomon-raised-beds-and-bed-preparation]]
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Starting a New Garden — Sod Elimination and Bed Preparation
 
-Starting a new vegetable garden almost always means converting an area covered in grass sod into productive growing beds. Grass creates an especially dense network of tough roots that holds soil together firmly. This chapter covers two primary approaches — rotary cultivation and hand-digging — plus critical timing and soil moisture considerations.
+Starting a new [[aphid-management-vegetable-garden-solomon]] almost always means converting an area covered in grass sod into productive growing beds. Grass creates an especially dense network of tough roots that holds soil together firmly. This chapter covers two primary approaches — rotary cultivation and hand-digging — plus critical timing and soil moisture considerations.
 
 ## Timing
 
@@ -70,13 +70,13 @@ Rototillers create a serious hidden problem: the **[[plow-pan]]** (also called a
 - A large tractor-mounted tiller: perhaps 7 inches (18 cm) at best
 - Most vegetable root systems ideally extend **several feet deep**
 
-**This is why Solomon recommends switching to hand tools after the initial tillings.** The spade or [[combination-shovel]] can break through the plow pan and work soil to the full depth of the blade (10–12 inches / 25–30 cm), reaching far deeper than any rototiller.
+**This is why Solomon recommends switching to [[garden-hand-tools]] after the initial tillings.** The spade or [[combination-shovel]] can break through the plow pan and work soil to the full depth of the blade (10–12 inches / 25–30 cm), reaching far deeper than any rototiller.
 
 Plow pans from agricultural moldboard plows are even worse — they can persist for **half a century** and restrict roots to the top 7 inches (18 cm) permanently. The only remedy is to dig through them with a shovel or fork.
 
 ### Capillarity Lesson from Footprints
 
-After tilling, visit your plot the next morning before the sun hits the surface. Look at your footprints — they will be damp while the surrounding tilled soil is dry. Your weight compressed the soil particles enough to allow **capillary action** to draw moisture upward from below. This illustrates why compacted soil (footprints, paths, plow pans) wicks moisture to the surface where it evaporates, effectively **drying out the soil** beneath.
+After tilling, visit your plot the next morning before the sun hits the surface. Look at your footprints — they will be damp while the surrounding tilled soil is dry. Your weight compressed the soil particles enough to allow **[[capillary-action-in-soils]]** to draw moisture upward from below. This illustrates why compacted soil (footprints, paths, plow pans) wicks moisture to the surface where it evaporates, effectively **drying out the soil** beneath.
 
 ## Method 2: Hand-Digging (Solomon's Preferred Method)
 
@@ -108,13 +108,13 @@ After the initial rototilling has destroyed most of the sod (or instead of tilli
 
 ### Realistic Expectations
 
-Solomon, at 63 with 33 years of gardening experience, finds he can turn about **125 sq ft (11.5 m²) of new sod per 90-minute session** before getting tired. One bed per day, six days a week, produces **725 sq ft (70 m²)** of prepared garden in a week — a substantial area for a home garden.
+Solomon, at 63 with 33 years of gardening experience, finds he can turn about **125 sq ft (11.5 m²) of new sod per 90-minute session** before getting tired. One bed per day, six days a week, produces **725 sq ft (70 m²)** of prepared garden in a week — a substantial area for a [[cool-climate-home-garden-and-seed-saving]].
 
 ## Key Takeaways
 
 1. **Start in autumn, not spring** — sod decomposition, weed seed control, and early planting readiness all favor fall preparation.
 2. **The ready-to-till test is mandatory** — working soil at the wrong moisture is the most common beginner mistake.
-3. **Rototillers are for sod destruction, not bed preparation** — they create plow pans that restrict root growth.
+3. **Rototillers are for sod destruction, not bed preparation** — they create plow pans that restrict [[soil-moisture-management-and-root-growth]].
 4. **Hand-digging produces superior results** — deeper, no plow pan, better soil structure.
 5. **Divide the work into manageable beds** — 5 × 25 foot strips, one per day.
 6. **Multiple passes kill sod more effectively** than trying to do it all at once.

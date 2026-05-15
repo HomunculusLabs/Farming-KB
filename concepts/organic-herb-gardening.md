@@ -22,7 +22,7 @@ sources:
 
 # Organic Herb Gardening
 
-Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract beneficial insects. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based companion planting strategies.
+Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract [[beneficial-insects-and-biological-pest-control]]. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based [[cervantes-companion-planting-pest-deterrent]] strategies.
 
 ## Herb Classification by Growth Habit
 
@@ -57,7 +57,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 |------|-------|
 | Bay laurel | Evergreen shrub. Bring indoors or wrap in fleece in hard winters. Slow-growing; buy a plant |
 | Lavender | Full sun, very well-drained soil. Prune after flowering to keep compact. English lavender hardiest |
-| Myrtle | Tender evergreen. Excellent in pots. Bring indoors in winter in cold climates |
+| Myrtle | Tender evergreen. Excellent in pots. Bring indoors in winter [[query-how-do-i-grow-figs-in-cold-climates]] |
 
 ## Growing Herbs from Seed
 
@@ -73,7 +73,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 - **Division** -- mint, chives, lemon balm, oregano: lift in spring, divide into sections, replant
 - **Cuttings** -- rosemary, sage, thyme, lavender: take softwood cuttings in summer, hardwood in autumn. Root in free-draining compost (50/50 compost/perlite). Use rooting hormone for woody cuttings
 - **Layering** -- rosemary, thyme, sage: bend a low stem to ground, peg down, cover with soil. Separate when rooted
-- **Seed** -- see [[seed-starting-reference]] for detailed propagation methods
+- **Seed** -- see [[seed-starting-reference]] for detailed [[organic-propagation-methods]]
 
 ## Harvesting
 
@@ -94,7 +94,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 Herbs are central to organic pest management. See [[companion-planting-reference]] for full details:
 - **Basil** with tomatoes -- repels whitefly, improves flavour
 - **Rosemary, sage, thyme** with brassicas -- deter cabbage white butterfly
-- **Mint** near cabbage family -- deters flea beetles and cabbage moths
+- **Mint** near [[cabbage-family-pests]] -- deters flea beetles and cabbage moths
 - **Dill** with carrots -- attracts predatory wasps that control carrot fly
 - **Borage** -- attracts pollinators and predatory insects; companion for tomatoes, squash, strawberries
 - **Tansy** -- deters ants, flea beetles, and Japanese beetles
@@ -102,7 +102,7 @@ Herbs are central to organic pest management. See [[companion-planting-reference
 
 ## Links
 
-- [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
+- [[geoff-hamilton-organic-techniques]] -- Full [[chemical-to-organic-gardening-paradigm]] system
 - [[companion-planting-reference]] -- Herb-based pest deterrence and companion combinations
 - [[seed-starting-reference]] -- Propagation methods
 - [[seasonal-planning]] -- Monthly task calendar

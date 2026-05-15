@@ -1,16 +1,16 @@
 ---
-title: Precision Seeding in Greenhouses
+title: [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] in Greenhouses
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Precision Seeding in Greenhouses
 
-Precision seeding is one of the most impactful techniques a winter-harvest grower can adopt. By sowing seeds at exact spacings with mechanical seeders, growers can practically double their yields per square foot compared to single-row or homemade multi-row seeders. In the intensive greenhouse environment where every square foot of protected growing space commands a premium, the efficiency gains from precision seeding are substantial.
+Precision seeding is one of the most impactful techniques a winter-harvest grower can adopt. By sowing seeds at exact spacings with mechanical seeders, growers can practically double their yields per square foot compared to single-row or homemade multi-row seeders. In the intensive greenhouse environment where every square foot of protected [[cotter-growing-space-design-fruiting-rooms]] commands a premium, the efficiency gains from precision seeding are substantial.
 
 ## Row Spacing and Crop Density
 
-The standard row spacing for most greenhouse salad and root crops is 2¼ inches between rows. This tight spacing makes optimal use of the valuable greenhouse footprint. Some crops require more room — spinach, claytonia, and turnips are planted at 4½-inch row spacing by filling only every other hopper on the seeder. Baby-leaf salad crops, radishes (at 2 square inches per plant), and carrots (at 4 square inches per plant) all thrive on the standard 24-inch spacing.
+The standard row spacing for most greenhouse salad and root crops is 2¼ inches between rows. This tight spacing makes optimal use of the valuable greenhouse footprint. Some crops require more room — spinach, claytonia, and turnips are planted at 4½-inch row spacing by filling only every other hopper on the seeder. Baby-leaf [[salad-crops-growing-guide]], radishes (at 2 square inches per plant), and carrots (at 4 square inches per plant) all thrive on the standard 24-inch spacing.
 
 The economic rationale is straightforward: in a greenhouse where heating, covering, and maintaining the structure represent fixed costs, maximizing output per unit area is the primary lever of profitability. [[precision-seeders]] that are ten to fifteen times less expensive than large European multi-row greenhouse seeders can deliver comparable results when used skillfully.
 
@@ -25,7 +25,7 @@ The rolling circumference of the wheel is approximately 9 inches, and sizes A, B
 
 ### Soil Preparation Requirements
 
-Precision seeders demand finely prepared soil. Rocks, undecomposed compost chunks, stringy weeds, or root residues will jam the mechanism and produce erratic results. The extra production per square foot more than justifies the additional care in seedbed preparation. Beds should be raked smooth and lightly rolled afterward — a 30-inch-wide mesh-surfaced roller is ideal because it compacts without glazing the soil surface.
+[[precision-seeders-for-greenhouse-sowing]] demand finely prepared soil. Rocks, undecomposed compost chunks, stringy weeds, or root residues will jam the mechanism and produce erratic results. The extra production per square foot more than justifies the additional care in [[soil-tilth-and-seedbed-preparation]]. Beds should be raked smooth and lightly rolled afterward — a 30-inch-wide mesh-surfaced roller is ideal because it compacts without glazing the soil surface.
 
 ### Record-Keeping System
 
@@ -71,7 +71,7 @@ The six-row seeder dramatically speeds up the sowing process: no separate bed-ro
 | Wide-row crops | 4½ inches (spinach, claytonia, turnips) |
 | Soil prep | Fine, rock-free, lightly rolled |
 | Yield improvement | ~2× over single-row seeders |
-| Record keeping | Write settings on each seed packet |
+| [[fungal-herbarium-record-keeping-specimen-transactions]] | Write settings on each seed packet |
 | Storage | Dry location; loosen brushes before storing |
 ## See also
 

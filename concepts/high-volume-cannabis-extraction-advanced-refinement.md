@@ -1,5 +1,5 @@
 ---
-title: High Volume Cannabis Extraction Advanced Refinement
+title: High [[high-volume-cannabis-extraction-and-refinement]] [[cannabis-advanced-refinement-fractional-distillation]]
 source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
@@ -121,11 +121,11 @@ The foundational laboratory method for cannabinoid refinement was documented by 
 3. Distilled ethanol was discarded; flask refilled to two-thirds
 4. Process repeated until 1600 cc of extract had been processed and alcohol removed
 5. Temperature raised to 200°C; when ethanol traces ceased, bath lowered to 180°C
-6. Pressure reduced to 30 mm Hg for fractional distillation
+6. Pressure reduced to 30 mm Hg for [[cannabis-fractional-distillation-cannabinoids]]
 
 ### Pure THC Production
 
 Totally pure THC — a thin transparent oil — can be produced by:
 
 1. **Chemically isolating pure cannabidiol** from the crude extract
-2. **Isomerizing the pure CBD to THC** under controlled conditions
+2. **Isomerizing the pure [[cbd-to-thc-isomerization-chemistry]]** under controlled conditions

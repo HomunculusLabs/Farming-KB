@@ -79,7 +79,7 @@ Metzner observed that participants in hybrid shamanic-therapeutic circle
 
 ## Overview
 
-Metzner William James Radical Empiricism Multiple Consciousness represents an important element within sustainable
+Metzner [[william-james]] Radical Empiricism Multiple Consciousness represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

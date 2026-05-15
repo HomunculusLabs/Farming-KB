@@ -9,7 +9,7 @@ tags: [diatom, algae, phytoplankton, sewage-treatment, water-purification, perma
 
 ## Description
 
-Cyclotella is a genus of centric diatoms (Bacillariophyceae) identified by Mollison as one of the characteristic phytoplankton bacteria in the facultative and aerobic ponds of sewage treatment lagoon systems. These microscopic algae play a dual role in wastewater purification: they produce oxygen through photosynthesis (benefiting aerobic bacteria) and consume dissolved nutrients and carbon compounds from the water column.
+Cyclotella is a genus of centric diatoms (Bacillariophyceae) identified by Mollison as one of the characteristic phytoplankton bacteria in the facultative and aerobic ponds of sewage treatment lagoon systems. These microscopic algae play a dual role in [[wastewater-purification-wetland-systems]]: they produce oxygen through photosynthesis (benefiting aerobic bacteria) and consume dissolved nutrients and carbon compounds from the water column.
 
 ## Classification
 
@@ -24,8 +24,8 @@ Cyclotella is a genus of centric diatoms (Bacillariophyceae) identified by Molli
 
 - Cyclotella is a centric (radially symmetrical) diatom genus found in freshwater environments worldwide.
 - In sewage lagoon systems, Cyclotella appears alongside Pinnularia, Rhodomonas, and Hypnodinium in the facultative and aerobic pond stages.
-- Like other phytoplankton, Cyclotella fixes carbon dioxide and releases oxygen, supporting the aerobic bacterial communities that further break down organic pollutants.
-- The term "phytoplankton" as used by Mollison encompasses both algal and bacterial microorganisms that collectively drive nutrient cycling in treatment ponds.
+- Like other phytoplankton, Cyclotella fixes carbon dioxide and releases oxygen, supporting the aerobic [[cannabis-endorhiza-bacterial-communities]] that further break down organic pollutants.
+- The term "phytoplankton" as used by Mollison encompasses both algal and bacterial microorganisms that collectively drive [[nutrient-cycling-in-soil]] treatment ponds.
 - Diatoms including Cyclotella are particularly efficient at nutrient uptake, helping reduce biological oxygen demand (BOD) and dissolved nutrient concentrations.
 - In the facultative pond stage, algae blooms dominate the ecosystem, with four almost universal sewage lagoon algae being Euglena, Chlamydomonas, Chlorella, and Scenedesmus, while Cyclotella and other diatoms contribute to the broader phytoplankton community.
 - These organisms create the food base for zooplankton (rotifers, cladocerans, copepods), which in turn support fish and waterfowl populations.
@@ -42,7 +42,7 @@ Cyclotella contributes primarily in the facultative and aerobic stages, where li
 
 ## Relevance to Cultivation and Mycology
 
-- **Water quality management**: Diatoms like Cyclotella are indicators of improving water quality in treatment systems.
+- **[[pond-water-quality-management]]**: Diatoms like Cyclotella are indicators of improving water quality in treatment systems.
 - **Aquaculture**: Diatoms are valued food sources for zooplankton and filter-feeding organisms in aquaculture systems.
 - **Nutrient cycling**: In [[tagari-publications]]. Chapter 7: Water.
 - Hussainy, Melbourne Metropolitan Water Board Publications, 1978.
@@ -50,7 +50,7 @@ Cyclotella contributes primarily in the facultative and aerobic stages, where li
 ## Practical Applications
 
 Cyclotella finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
+from agricultural systems to [[mycorrhizal-fungi-ecological-restoration]] projects.
 Practitioners integrate this knowledge into holistic design frameworks,
 optimizing outcomes through systematic observation and adaptive management.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cyclotella mollison and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

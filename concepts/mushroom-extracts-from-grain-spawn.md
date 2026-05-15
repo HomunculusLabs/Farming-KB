@@ -6,7 +6,7 @@ type: concept
 
 # Mushroom Extracts from Grain Spawn
 
-Mushroom extracts prepared from [[grain-spawn]] offer a powerful and scalable approach to producing medicinal fungal products. Unlike traditional methods that rely on fresh or dried fruiting bodies, grain spawn extraction leverages the mycelial biomass produced during the spawn colonization phase. This technique is especially valuable for mushrooms that are difficult to fruit, slow to mature, or that produce their medicinal compounds predominantly in the mycelial stage.
+Mushroom extracts prepared from [[grain-spawn]] offer a powerful and scalable approach to producing medicinal fungal products. Unlike traditional methods that rely on fresh or dried fruiting bodies, grain spawn extraction leverages the mycelial biomass produced during the spawn colonization phase. This technique is especially valuable for mushrooms that are difficult to fruit, slow to mature, or that produce their [[cotter-mushroom-nutrition-medicinal-compounds]] predominantly in the mycelial stage.
 
 ## Advantages of Grain Spawn Extraction
 
@@ -22,20 +22,20 @@ If you do not possess the necessary tools and skills, you should make your extra
 
 ## Supercolonization
 
-The critical step in preparing grain for extraction is **supercolonization** — allowing the mycelium to fully permeate the grain and maximize its biomass and metabolite production. Rather than extracting after only one to two weeks of colonization (which would yield an extract of primarily grain with little fungal material), the grain should be allowed to colonize for three to four weeks minimum.
+The critical step in preparing grain for extraction is **supercolonization** — allowing the mycelium to fully permeate the grain and maximize its biomass and [[fungal-elicitors-enhanced-secondary-metabolite-production]]. Rather than extracting after only one to two weeks of colonization (which would yield an extract of primarily grain with little fungal material), the grain should be allowed to colonize for three to four weeks minimum.
 
 During this extended colonization period, the mycelium produces a wave of metabolites that accumulate in the grain. These are visible as a clear or colored liquid within the jar or bag. These metabolite-rich fluids are highly desirable in the final extract.
 
-Supercolonization can be further enhanced by subjecting the grain spawn to fluorescent or natural light during the later stages of colonization. Light exposure stimulates the production of additional bioactive compounds, including pigments that serve specific biological functions in the mushroom and contribute to the extract's medicinal properties.
+Supercolonization can be further enhanced by subjecting the grain spawn to fluorescent or natural light during the later stages of colonization. Light exposure stimulates the production of additional [[cordyceps-cancer-bioactive-compounds]], including pigments that serve specific biological functions in the mushroom and contribute to the extract's [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]].
 
 ## Light and Constituent Production
 
 Mushroom pigments serve specific purposes, allowing fungi to respond to temperature and UV radiation through the production of different biochemical compounds — the same compounds that make mushroom extracts medicinal. Different species respond to different wavelengths of light:
 
-- **Golden [[oyster-mushroom]]** (*Pleurotus citrinopileatus*) may use light in the 570–590 nanometer range to manufacture carotenoids entirely different from those produced by other species.
+- **Golden [[oyster-mushroom]]** (*[[pleurotus-citrinopileatus]]*) may use light in the 570–590 nanometer range to manufacture carotenoids entirely different from those produced by other species.
 - **Pink oyster** (*Pleurotus djamor*) produces its own unique set of pigments under different light conditions.
 
-Cultivating mushrooms under controlled wavelengths of light to determine morphological and biochemical differences represents an area of active experimentation. This research could improve breeding and cultivation of more potent medicinal strains by understanding how genetic expression varies under different environmental conditions.
+Cultivating mushrooms under controlled wavelengths of light to determine morphological and biochemical differences represents an area of active experimentation. This research could improve breeding and cultivation of more potent medicinal strains by understanding how [[oner-cannabis-phenotypes-genetic-expression]] varies under different environmental conditions.
 
 ## Extraction Process
 

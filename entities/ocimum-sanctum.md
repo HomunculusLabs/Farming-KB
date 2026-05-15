@@ -59,7 +59,7 @@ Holy basil prefers well-drained loamy soils with moderate fertility and a pH ran
 
 ## Cultivation
 
-Ocimum sanctum is propagated primarily from seed, though stem cuttings also root readily. Seeds are sown shallowly in nursery beds or directly in the field after the last frost in tropical climates.
+Ocimum sanctum is propagated primarily from seed, though stem cuttings also root readily. Seeds are sown shallowly in nursery beds or directly in the field after the last frost in [[fukuoka-natural-farming-tropical-climates]].
 
 Germination occurs within 7–14 days at temperatures above 20 degrees Celsius. Seedlings are transplanted to field positions at 30–45 cm spacing when they reach 10–15 cm in height.
 
@@ -76,7 +76,7 @@ Dried leaf material retains [[blesching-cannabis-tinctures-infused-oils-topical-
 ## Overview
 
 Ocimum Sanctum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ocimum Sanctum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,13 +105,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for ocimum sanctum. Climate adaptation
+opportunities for ocimum sanctum. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 ocimum sanctum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,5 +1,5 @@
 ---
-title: Mazatec Shamanic Discourse and the Power of Speaking
+title: [[mazatec-shamanic-discourse-as-medicine]] and the Power of Speaking
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-In Mazatec mushroom shamanism, the act of speaking during a ceremonial session is not merely an accompaniment to healing—it *is* the healing. The shaman's discourse, produced under the influence of *Psilocybe* mushrooms, functions simultaneously as diagnosis, treatment, prayer, poetry, and communal affirmation. This concept page examines the structure, themes, and therapeutic mechanisms of Mazatec shamanic discourse as documented by Henry Munn in his ethnographic study of mushroom ceremonies in [[huautla-de-jimenez]], Oaxaca.
+In Mazatec mushroom shamanism, the act of speaking during a ceremonial session is not merely an accompaniment to healing—it *is* the healing. The shaman's discourse, produced under the influence of *Psilocybe* mushrooms, functions simultaneously as diagnosis, treatment, prayer, poetry, and communal affirmation. This concept page examines the structure, themes, and [[cannabidiol-therapeutic-mechanisms]] of Mazatec shamanic discourse as documented by Henry Munn in his ethnographic study of mushroom ceremonies in [[huautla-de-jimenez]], Oaxaca.
 
 ## The Discourse as Action: Poesis
 
 The Mazatec shaman operates with an understanding of language that echoes the ancient Greek concept of *poesis*—not "poetry" in the narrow modern sense, but making, creating, transmuting. As Munn notes, citing the alchemical tradition, "poetry is a sacred action... its intention is to associate itself with the mystery of the primordial creation."
 
-In shamanic practice, words themselves are medicine. To enunciate and give meaning to the events and situations of existence is life-giving. The shaman does not describe reality; he participates in its creation through utterance. This is why the mushrooms are called "prayer," "well-being," and "wisdom" rather than simply "mushrooms"—because the experience they produce is understood as fundamentally linguistic.
+[[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]], words themselves are medicine. To enunciate and give meaning to the events and situations of existence is life-giving. The shaman does not describe reality; he participates in its creation through utterance. This is why the mushrooms are called "prayer," "well-being," and "wisdom" rather than simply "mushrooms"—because the experience they produce is understood as fundamentally linguistic.
 
 ## Structural Features of the Discourse
 
@@ -33,7 +33,7 @@ The discourse is not spoken in ordinary conversational tones but chanted in a "s
 
 ### Non-Stop Duration
 
-Recorded sessions last four to eight hours of nearly continuous speech. There are lulls when the voice slows and fades to a whisper, followed by rushes of inspiration and moments of intense speech. The shaman yawns, laughs with jubilation, and claps hands. The discourse builds through peaks of ecstasy and subsides gradually as the mushroom intoxication ebbs.
+Recorded sessions last four to eight hours of nearly continuous speech. There are lulls when the voice slows and fades to a whisper, followed by rushes of inspiration and moments of intense speech. The shaman yawns, laughs with jubilation, and claps hands. The discourse builds through peaks of ecstasy and subsides gradually as the [[panaeolus-mushroom-intoxication-history]] ebbs.
 
 ## Thematic Content
 
@@ -81,7 +81,7 @@ The shaman provides the sick person with a language for expressing otherwise ine
 
 ## The Mushrooms and the Linguistic Centers
 
-Munn speculates that the chemical constituents of *Psilocybe* mushrooms (psilocybin and psilocin, structurally similar to serotonin) may have some connection with the linguistic centers of the brain. This would explain the consistent cross-cultural observation that these substances enhance fluency, ease, and aptness of expression. The phenomenon of feeling as though "one were being told what to say"—words leaping to mind without having to be searched for—suggests a disinhibition of verbal processing networks.
+Munn speculates that the [[guzman-magic-mushrooms-chemical-constituents]] of *Psilocybe* mushrooms ([[hplc-analysis-of-psilocybin-and-psilocin]], structurally similar to serotonin) may have some connection with the linguistic centers of the brain. This would explain the consistent cross-cultural observation that these substances enhance fluency, ease, and aptness of expression. The phenomenon of feeling as though "one were being told what to say"—words leaping to mind without having to be searched for—suggests a disinhibition of verbal processing networks.
 
 ## Philosophical Dimensions
 

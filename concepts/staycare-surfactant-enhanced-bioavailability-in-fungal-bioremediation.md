@@ -1,5 +1,5 @@
 ---
-title: "Surfactant-Enhanced staycare surfactant enhanced bioavailability in fungal bioremediation Bioremediation"
+title: "Surfactant-Enhanced staycare [[surfactant-enhanced-fungal-bioremediation]] bioavailability [[staycare-manganese-peroxidase-in-fungal-bioremediation]] Bioremediation"
 created: 2026-04-28
 tags: [bioremediation, surfactants, bioavailability, pah, soil-remediation]
 date: 2026-04-25
@@ -18,7 +18,7 @@ as [[cotter-pet-livestock-waste-fungal-remediation-systems]] outcomes.
 The bioavailability of POPs in soil is affected by the chemical nature of
 the pollutant and various soil parameters, both chemical and physical.
 POPs are removed from solution by sorption to soil constituents, resulting
-in decreased pollutant bioavailability. Sorption mechanisms include
+in decreased [[fungal-pollutant-bioavailability]]. Sorption mechanisms include
 covalent bonding and electrostatic interactions, with the extent of
 sorption largely dependent on pollutant hydrophobicity and the amount of
 organic matter or clay in soil.
@@ -29,12 +29,12 @@ syringic acid decrease levels of PCP transformation in liquid culture by
 [[phanerochaete-chrysosporium]]. In aged contaminated soils, longer contact
 periods allow slow migration and diffusion of POPs into soil micropores,
 rendering them unavailable for microbial transformation even by
-extracellular enzymes.
+[[fungal-extracellular-enzymes]].
 
 ## Surfactant Types and Mechanisms
 
 Non-ionic surfactants such as Tween 80 have been the most widely studied
-for fungal bioremediation applications. Ionic surfactants, including
+for fungal [[fungi-in-the-environment-bioremediation-applications]]. Ionic surfactants, including
 anionic linear alkylbenzene sulfonate (LAS), may be toxic to
 microorganisms and are generally less suitable. Microbially produced
 surfactants (biosurfactants) may prove more useful than synthetic
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Staycare Surfactant Enhanced Bioavailability In Fungal Bioremediation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

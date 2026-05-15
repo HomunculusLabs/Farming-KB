@@ -1,5 +1,5 @@
 ---
-title: Garden Hoe Techniques and Weeding
+title: [[solomon-garden-hoe-and-cultivation-techniques]] Techniques and Weeding
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -80,7 +80,7 @@ For tough clumps of grass and large weeds:
 - The corner penetrates hard earth, chopping off tough stems
 - This only works well when the corner is sharp and at a proper right angle
 - Even then, this task is exhausting hard work
-- Prevention is better: if the garden is hoed once a week during growing season, there will never be large, resistant weeds to chop
+- Prevention is better: if the garden is hoed once a week during [[extending-growing-season]], there will never be large, resistant weeds to chop
 
 ### Method 3: Weeding Compacted Soil (Including Paths)
 

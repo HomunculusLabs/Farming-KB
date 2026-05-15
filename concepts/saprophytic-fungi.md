@@ -24,7 +24,7 @@ are generally the easiest to cultivate.
 Secondary decomposers rely on the activity of primary fungi and
 other microorganisms that initially break down organic material.
 They work in concert with actinomycetes, bacteria, yeasts, and
-other [[agaricus-bisporus]]), the most widely cultivated mushroom in the
+other [[agaricus-bisporus]]), the most widely [[classification-of-cultivated-mushroom-species]] in the
 world, is a classic secondary decomposer. The garden giant or
 king Stropharia (Stropharia rugoso-annulata) bridges the primary
 and secondary categories, first digesting fresh debris and then
@@ -63,7 +63,7 @@ sustain soil fertility over successive growing seasons.
 ## Overview
 
 Saprophytic Fungi represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -84,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Saprophytic Fungi finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -92,7 +92,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -113,7 +113,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 saprophytic fungi and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context
@@ -142,7 +142,7 @@ Saprophytic fungi break down dead organic matter through enzymatic digestion. Th
 
 ## Ecological Roles
 
-Saprophytic fungi play critical roles in nutrient cycling within forest ecosystems. They decompose leaf litter, woody debris, and other organic materials, releasing nutrients back into the soil for uptake by plants and other organisms. This decomposition process is essential for maintaining soil fertility.
+Saprophytic fungi play critical roles [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] within forest ecosystems. They decompose leaf litter, woody debris, and other organic materials, releasing nutrients back into the soil for uptake by plants and other organisms. This decomposition process is essential for maintaining soil fertility.
 
 ## Key Genera
 

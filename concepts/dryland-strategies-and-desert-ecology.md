@@ -26,7 +26,7 @@ The great majority of arid-area species are not truly dry-adapted but drought-ev
 
 Truly drought-adapted species employ structural and physiological mechanisms:
 
-- **Wax coatings**: Reduce cuticular transpiration
+- **Wax coatings**: Reduce cuticular [[transpiration]]
 - **Insulation**: Hairy or reflective leaf surfaces
 - **Reduced transpiration**: Small leaves, sunken stomata, leaf rolling
 - **Water storage organs**: Succulent stems, leaves, or roots (cacti, baobabs, bottle trees)

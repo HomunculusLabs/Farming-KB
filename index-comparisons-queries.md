@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1408 pages**
+**1411 pages**
 
 ## A
 
@@ -264,6 +264,7 @@
 - [[comparison-elderberry-vs-chamomile]]
 - [[comparison-elderberry-vs-echinacea]]
 - [[comparison-elderberry-vs-gooseberry-vs-currant]]
+- [[comparison-elderberry-vs-lemon-balm]]
 - [[comparison-elderberry-vs-tulsi]]
 - [[comparison-elderberry-vs-valerian]]
 - [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]
@@ -331,6 +332,7 @@
 - [[comparison-hardneck-vs-softneck-garlic]]
 - [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]]
 - [[comparison-hawthorn-vs-ashwagandha]]
+- [[comparison-hawthorn-vs-chamomile]]
 - [[comparison-hawthorn-vs-echinacea]]
 - [[comparison-hawthorn-vs-valerian]]
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
@@ -626,6 +628,7 @@
 - [[comparison-square-foot-vs-raised-bed-gardening]]
 - [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
 - [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]
+- [[comparison-stinging-nettle-vs-ashwagandha]]
 - [[comparison-stinging-nettle-vs-dandelion]]
 - [[comparison-stinging-nettle-vs-horsetail]]
 - [[comparison-stinging-nettle-vs-mullein]]

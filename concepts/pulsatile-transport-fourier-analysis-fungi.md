@@ -1,5 +1,5 @@
 ---
-title: Pulsatile Nutrient Transport and Fourier Analysis in Fungal Mycelia
+title: [[fungal-pulsatile-nutrient-transport-mycelial-networks]] and Fourier Analysis in Fungal Mycelia
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -8,11 +8,11 @@ type: concept
 
 ## Overview
 
-A striking discovery in the study of fungal nutrient dynamics is the presence of **pulsatile (oscillatory) transport** of solutes through mycelial networks. Rather than moving at a constant rate, nutrients such as amino acids are transported in rhythmic pulses, particularly through corded (differentiated) hyphal systems. This pulsatile behaviour has been characterized using **Fourier analysis** techniques applied to time-series data from photon-counting scintillation imaging (PCSI), revealing complex spatiotemporal patterns of coordination across the mycelial network.
+A striking discovery in the study of fungal nutrient dynamics is the presence of **pulsatile (oscillatory) transport** of solutes through mycelial networks. Rather than moving at a constant rate, nutrients such as amino acids are transported in rhythmic pulses, particularly through corded (differentiated) hyphal systems. This pulsatile behaviour has been characterized using **Fourier analysis** techniques applied to time-series data from photon-counting [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]] (PCSI), revealing complex spatiotemporal patterns of coordination across the mycelial network.
 
 ## Discovery of Pulsatile Transport
 
-Pulsatile transport was first observed in time-series PCSI data from *Phanerochaete velutina* mycelia. When the distribution of 14C-AIB was tracked over time, researchers noticed that the signal intensity at individual locations did not increase monotonically but oscillated in a regular, wave-like manner. This pulsatile component was particularly pronounced in corded systems, where differentiated, thick-walled hyphae serve as major transport conduits.
+Pulsatile transport was first observed in time-series PCSI data from *[[phanerochaete-velutina]]* mycelia. When the distribution of 14C-AIB was tracked over time, researchers noticed that the signal intensity at individual locations did not increase monotonically but oscillated in a regular, wave-like manner. This pulsatile component was particularly pronounced in corded systems, where differentiated, thick-walled hyphae serve as major transport conduits.
 
 The oscillations are superimposed on the longer-term trend of net translocation, meaning that the overall movement of nutrients toward growing tips or newly discovered resources occurs through a series of pulses rather than as a steady flow.
 
@@ -77,7 +77,7 @@ In larger microcosms, the oscillations continue for approximately **5-7 days** a
 
 In extended microcosm experiments, an important phenomenon called **route-switching** was observed. Not all cords transported simultaneously. Some pre-existing cords showed no 14C-AIB movement initially, then began transporting at a similar rate to the primary cord, acting as a transport route only transiently before the signal declined.
 
-Similarly, some subsidiary cords showed **two phases of transport**: one initiated almost synchronously with the main cord and a second starting much later (around 120-150 hours). This reveals that the mycelial network dynamically activates and deactivates different transport pathways over time.
+Similarly, some subsidiary cords showed **two phases of transport**: one initiated almost synchronously with the main cord and a second starting much later (around 120-150 hours). This reveals that the mycelial network dynamically activates and deactivates different [[the-apoplastic-symplastic-and-transcellular-transport-pathways]] over time.
 
 ## Larger Microcosm Observations
 
@@ -93,8 +93,8 @@ When the PCSI approach was scaled up to more realistic microcosms (wood-block in
 The pulsatile nature of fungal nutrient transport has several important implications:
 
 1. **Active transport mechanism:** The regularity and coordination of the pulses suggest an active, regulated transport process rather than passive diffusion or simple bulk flow
-2. **Network-level coordination:** The phase relationships between different colony regions indicate sophisticated intercellular communication and coordination
-3. **Dynamic resource allocation:** Route-switching and amplitude shifting demonstrate that the network can rapidly reconfigure its transport priorities in response to environmental changes
+2. **Network-level coordination:** The phase relationships between different colony regions indicate sophisticated [[plasmodesmata-and-intercellular-communication-in-plants]] and coordination
+3. **Dynamic [[mycelial-foraging-resource-allocation]]:** Route-switching and amplitude shifting demonstrate that the network can rapidly reconfigure its transport priorities in response to environmental changes
 4. **Efficiency:** Pulsatile transport may be more energy-efficient than continuous flow, allowing the mycelium to concentrate resources in waves that optimize delivery to growing tips
 
 ## References

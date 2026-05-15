@@ -31,9 +31,9 @@ The qualitative reports from [[2c-family-compounds-overview]]
 
 ## Shulgin's Assessment
 
-Shulgin's description of DOEF -- "all systems intact, body, mind and emotion. Gentle. Good for writing. No dark corners apparent at all" -- places it among the more favorable compound evaluations in PiHKAL. This contrasts sharply with compounds like dobu-entity|DOBU (described as potentially dangerous due to slow onset) or don-entity|DON (noted for anxiety and physical discomfort). The favorable profile likely reflects both the specific pharmacological properties of the fluoroethyl group and the dose range at which it was tested.
+Shulgin's description of DOEF -- "all systems intact, body, mind and emotion. Gentle. Good for writing. No dark corners apparent at all" -- places it among the more favorable compound evaluations in PiHKAL. This contrasts sharply with compounds like [[dobu-entity]]|DOBU (described as potentially dangerous due to slow onset) or don-entity|DON (noted for anxiety and physical discomfort). The favorable profile likely reflects both the specific [[lsd-discovery-aftermath-pharmacological-properties]] of the fluoroethyl group and the dose range at which it was tested.
 
-DOEF's profile suggests that fluorine substitution may be an underexplored avenue for optimizing psychedelic phenethylamines, though the complex synthesis required to introduce the fluorine atom limits practical exploration.
+DOEF's profile suggests that fluorine substitution may be an underexplored avenue for optimizing [[optical-isomers-psychedelic-phenethylamines]], though the complex synthesis required to introduce the fluorine atom limits practical exploration.
 ## Practical Considerations
 
 When working with DOEF, several practical factors should be
@@ -80,7 +80,7 @@ complexity of day-to-day management and observation activities.
 ## Overview
 
 Doef Entity represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Doef Entity finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 doef entity and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

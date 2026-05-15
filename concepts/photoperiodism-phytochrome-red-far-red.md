@@ -15,7 +15,7 @@ Photoperiodism is the physiological response of plants to the duration of light 
 
 ## Discovery of Photoperiodism
 
-The story begins with a tobacco strain called Maryland Mammoth that appeared in southern Maryland farms around 1906. Unlike normal tobacco, which grew to a modest height, flowered, and set seed by late summer, this strain grew to 4.5 metres with nearly a hundred leaves and refused to flower until frost forced it to stop. While impressive in stature, its reluctance to flower made it useless for seed production.
+The story begins with a tobacco strain called [[chamovitz-maryland-mammoth-photoperiodism-discovery]] that appeared in southern Maryland farms around 1906. Unlike normal tobacco, which grew to a modest height, flowered, and set seed by late summer, this strain grew to 4.5 metres with nearly a hundred leaves and refused to flower until frost forced it to stop. While impressive in stature, its reluctance to flower made it useless for seed production.
 
 In 1918, Wightman W. Garner and Harry A. Allard at the US Department of Agriculture set out to solve the mystery. Their elegant experiment involved two groups of Maryland Mammoth plants:
 
@@ -29,13 +29,13 @@ Group 2 flowered normally, proving that the plant was measuring day length to de
 A crucial follow-up discovery came around World War II when scientists found they could manipulate flowering by briefly interrupting the dark period:
 
 - A short-day plant (like soybean or chrysanthemum) kept in short days could be **prevented from flowering** by a few minutes of light in the middle of the night
-- A long-day plant (like iris or barley) kept in short days could be **forced to flower** by the same brief night interruption
+- A long-day plant (like iris or barley) kept in short days could be **forced to flower** by the same brief [[chrysanthemum-night-interruption-flowering-commercial-horticulture]]
 
-This proved that plants do not measure the length of the day — they measure the length of the **continuous dark period**. If the dark period is interrupted, the plant's internal clock resets and it "forgets" how long it has been in darkness.
+This proved that plants do not measure the length of the day — they measure the length of the **continuous dark period**. If the dark period is interrupted, the plant's [[chamovitz-circadian-rhythm-internal-clock-plants]] resets and it "forgets" how long it has been in darkness.
 
 ## The Red-Far-Red Switch
 
-Scientists then asked: what color of light do plants use to measure the dark period? The answer was surprising — plants responded only to red light flashes. Blue or green light had no effect on flowering time, but even a few seconds of red light in the middle of the night was enough to disrupt photoperiodic measurement.
+Scientists then asked: what color of light do plants use to measure the dark period? The answer was surprising — plants responded only to red light flashes. Blue or green light had no effect on [[what-a-plant-knows-photoperiodism-flowering-time-measurement]], but even a few seconds of red light in the middle of the night was enough to disrupt photoperiodic measurement.
 
 In the early 1950s, Harry Borthwick and colleagues made an even more remarkable discovery: **far-red light could cancel the effect of red light**. Far-red light has wavelengths slightly longer than bright red and is barely visible at dusk. The experimental sequence:
 
@@ -81,7 +81,7 @@ Modern molecular biology has revealed that phytochrome is not a single protein b
 
 - **phyA**: Mediates responses to continuous far-red light; important for seedling de-etiolation under canopy shade
 - **phyB**: The primary mediator of red/far-red reversible responses including photoperiodic flowering; the "classic" phytochrome
-- **phyC-phyE**: Play modulatory roles in shade avoidance, seed germination, and other light responses
+- **phyC-phyE**: Play modulatory roles in [[phototropism-and-shade-avoidance]], seed germination, and other [[phototropism-and-plant-light-responses]]
 
 ## Cannabis Application: The 12/12 Flowering Trigger
 

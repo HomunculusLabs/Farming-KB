@@ -1,5 +1,5 @@
 ---
-title: Edaphic Factors Microbiome Structuring
+title: [[nitrogen-salinity-edaphic-factors-microbiome-structuring-cannabis]] Structuring
 created: 2026-05-11
 updated: 2026-05-11
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 
 ## Overview
 
-Edaphic factors — the physical, chemical, and biological properties of soil — are the primary determinants of microbial community composition across all root-associated compartments. The [[teaming-with-microbes-bacteria-and-archaea-in-soil]], denitrifiers, nitrogen fixers, and generalist heterotrophs each occupy distinct ecological niches defined by nitrogen availability.
+Edaphic factors — the physical, chemical, and biological properties of soil — are the primary determinants of microbial [[core-endorhiza-bacterial-community-composition-cannabis]] across all root-associated compartments. The [[teaming-with-microbes-bacteria-and-archaea-in-soil]], denitrifiers, nitrogen fixers, and generalist heterotrophs each occupy distinct ecological niches defined by [[nitrogen-availability-in-legumes]].
 
 ### 2. Salinity
 
@@ -55,14 +55,14 @@ The study analyzed five soil types across two experiments:
 | MB.2 | Sandy loam | 6.63 | 5.12 | 0.26 | 3.02 | 0.113 |
 | OC.2 | Sandy loam | 6.77 | 1.73 | 0.53 | 20.0 | 0.371 |
 
-All soils were classified as sandy loam, with sand content ranging from 62-66% and clay from 17.8-20.7%. Despite the similar texture, the dramatic differences in salinity (1.73 to 7.44), organic carbon (3.02 to 20.0%), and nitrogen (0.26 to 1.51%) produced strongly differentiated microbial communities.
+All soils were classified as sandy loam, with sand content ranging from 62-66% and clay from 17.8-20.7%. Despite the similar texture, the dramatic differences in salinity (1.73 to 7.44), organic carbon (3.02 to 20.0%), and nitrogen (0.26 to 1.51%) produced strongly differentiated [[cannabis-rhizosphere-microbial-communities]].
 
 ## Edaphic Effects Across Compartments
 
 Edaphic factors influenced community structure across all three root-associated compartments:
 
 - **Bulk soil**: strongest direct edaphic influence (expected, as communities are in direct contact with soil matrix)
-- **Rhizosphere**: significant edaphic influence (r² = 0.21 for soil type alone, weighted UniFrac)
+- **Rhizosphere**: significant edaphic influence (r² = 0.21 for soil type alone, [[cannabis-weighted-unifrac-strain-abundance-vs-presence-absence]])
 - **Endorhiza**: edaphic factors remained significant but were partially overridden by host genotype selection
 
 The progressive dilution of edaphic influence from bulk soil to endorhiza is a key prediction of the two-tier selection model. Even within the endorhiza, however, soil type still explained a significant portion of community variation, confirming that the tier 1 selection filter continues to exert influence even after tier 2 genotype-based filtering.
@@ -71,7 +71,7 @@ The progressive dilution of edaphic influence from bulk soil to endorhiza is a k
 
 A critical finding was the interaction between soil type and cultivar in the second experiment:
 
-- White Widow plants grown in two different soils showed endorhiza communities that were more similar to other plants in the same soil than to the same cultivar in a different soil
+- White Widow plants grown in two different soils showed [[cannabis-rhizosphere-endorhiza-communities]] that were more similar to other plants in the same soil than to the same cultivar in a different soil
 - This means that soil type can override cultivar effects when edaphic differences are large enough
 - The implication for growers is that even the best cultivar genetics cannot fully compensate for poor soil conditions — the microbial partners available for selection are fundamentally shaped by soil properties
 

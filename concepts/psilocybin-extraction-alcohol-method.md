@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Extraction via Alcohol Method
+title: [[psilocybin-extraction]] via Alcohol Method
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
@@ -8,11 +8,11 @@ type: concept
 
 ## Overview
 
-Alcohol extraction is a technique for isolating psilocybin from dried magic mushrooms using pure ethyl alcohol as a solvent. The process produces a concentrated [[psilocybin-mushroom-alcohol-extraction-pf-tek|tek]]-[[ethyl-alcohol-extraction]]-psilocybin-liqueur|psilocybin liqueur that can be dosed with precision. Because the extraction uses only mushrooms and drinkable alcohol, the resulting tincture is free from chemical contaminants. This method was popularized within the mycological community as a straightforward, low-tech approach to creating a potent and storable psychedelic preparation.
+[[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]] is a technique for isolating psilocybin from dried magic mushrooms using pure ethyl alcohol as a solvent. The process produces a concentrated [[psilocybin-mushroom-alcohol-extraction-pf-tek|tek]]-[[ethyl-alcohol-extraction]]-psilocybin-liqueur|psilocybin liqueur that can be dosed with precision. Because the extraction uses only mushrooms and drinkable alcohol, the resulting tincture is free from chemical contaminants. This method was popularized within the mycological community as a straightforward, low-tech approach to creating a potent and storable [[mckenna-food-gods-set-setting-psychedelic-preparation]].
 
 ## Chemistry of the Extraction
 
-Psilocybin and psilocin—the primary psychoactive alkaloids in psilocybin mushrooms—are both soluble in ethanol. When dried mushroom material is soaked in high-proof ethyl alcohol, these compounds dissolve into the liquid phase. Using 200 proof (100% anhydrous) ethyl alcohol is ideal because it contains no water, which means the final concentrated product has no residual moisture. 190 proof (95% ethanol, 5% water) is acceptable but introduces unwanted water content, especially problematic when the extract is evaporated down to high concentration.
+[[hplc-analysis-of-psilocybin-and-psilocin]]—the primary psychoactive alkaloids [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]—are both soluble in ethanol. When dried mushroom material is soaked in high-proof ethyl alcohol, these compounds dissolve into the liquid phase. Using 200 proof (100% anhydrous) ethyl alcohol is ideal because it contains no water, which means the final concentrated product has no residual moisture. 190 proof (95% ethanol, 5% water) is acceptable but introduces unwanted water content, especially problematic when the extract is evaporated down to high concentration.
 
 ## Materials Required
 
@@ -63,7 +63,7 @@ Full-service liquor stores in the United States supply hospitals and laboratorie
 - **Flammability**: Pure ethyl alcohol is extremely flammable. No open flames or sparks should be near the extraction or evaporation setup.
 - **Dosing accuracy**: The concentrated nature of the extract makes precise measurement essential. Even small miscalculations can produce dramatically different effects.
 - **Solvent residue**: Ensure all alcohol has fully evaporated if consuming the residue directly rather than the liqueur.
-- **Legal status**: Psilocybin and psilocin are controlled substances in many jurisdictions. This information is presented for educational and harm-reduction purposes.
+- **Legal status**: Psilocybin and psilocin are [[controlled-substances-act-and-psychedelic-research]] in many jurisdictions. This information is presented for educational and harm-reduction purposes.
 
 ## Advantages of Alcohol Extraction
 

@@ -18,7 +18,7 @@ illness is understood not merely as a biological malfunction but as the result
 of a spiritual intrusion—a foreign object or energy that has been introduced
 into the patient's body or energy field by a sorcerer, by malevolent spirits,
 or through exposure to polluted or dangerous places. The shaman, using
-entheogenic plants or other methods of entering nonordinary reality, perceives
+entheogenic plants or other methods of entering [[metzner-metaphysical-realms-nonordinary-reality-shamanic-cosmology]], perceives
 the location and nature of the intrusion and performs an extraction to remove
 it.
 
@@ -62,7 +62,7 @@ to the patient, reintegrating it into the patient's being.
 
 ### Modern Applications
 Soul retrieval has been adapted into various contemporary [[metzner-psychedelic-psychotherapy-clinical-history]] tradition, called "perinatal
-matrices"—experiences of ego death and rebirth that occur when the psyche
+matrices"—experiences of ego [[shamanism-death-and-rebirth]] that occur when the psyche
 opens to levels deeper than biographical material. In shamanic contexts, the
 dismemberment experience is often described in vivid physical terms: the
 shaman's body is torn apart by animals, boiled in a cauldron, ground to powder,
@@ -72,7 +72,7 @@ or otherwise destroyed before being reassembled.
 
 ## Overview
 
-Metzner Shamanic Healing Three Forms Extraction Soul Retrieval Dismemberment represents an important element within sustainable
+[[metzner-shamanic-healing-and-divination-paradigm]] Three Forms [[shamanic-healing-modalities-extraction-soul-retrieval-dismemberment]] Dismemberment represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Metzner Shamanic Healing Three Forms Extraction Soul Retrieval Dismemberment finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 metzner shamanic healing three forms extraction soul retrieval dismemberment and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

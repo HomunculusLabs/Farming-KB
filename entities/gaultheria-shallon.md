@@ -10,10 +10,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hitchcock, C. L. & Cronquist, A. (1959). "Gaultheria." In Vascular Plants of the Pacific Northwest. University of Washington Press.
+  - Hitchcock, C. L. & Cronquist, A. (1959). "Gaultheria." In Vascular Plants of the psilocybin-north-america-pacific-northwest. University of Washington Press.
   - Tiffney, W. N. (1984). "The role of Gaultheria shallon in Pacific Northwest forest succession." Madroño.
   - USDA NRCS. "Gaultheria shallon" PLANTS Database. https://plants.usda.gov/
-  - Minore, D. (1972). "The wild berries of the Pacific Northwest." USDA Forest Service General Technical Report PNW.
+  - Minore, D. (1972). "The [[huckleberries-and-wild-berries-of-north-america]] the Pacific Northwest." USDA Forest Service General Technical Report PNW.
 ---
 
 ## Overview
@@ -50,7 +50,7 @@ Gaultheria shallon is native to western North America, ranging from Baranof Isla
 
 In the Cascades and Coast Ranges, the species extends inland to approximately 200 km from the coast. Isolated populations occur in the Idaho panhandle and western Montana. Elevational range is sea level to approximately 1,200 meters.
 
-The species is characteristic of the understory of coniferous forests dominated by [[douglas-fir]] (*Pseudotsuga menziesii*), western hemlock (*Tsuga heterophylla*), western redcedar (*Thuja plicata*), and Sitka spruce (*Picea sitchensis*).
+The species is characteristic of the understory of coniferous forests dominated by [[douglas-fir]] (*[[pseudotsuga-menziesii]]*), western hemlock (*[[tsuga-heterophylla]]*), western redcedar (*[[thuja-plicata]]*), and Sitka spruce (*[[picea-sitchensis]]*).
 
 It also thrives in coastal scrub, sand dune communities, peat bogs, and forest openings. Optimal growth occurs in partial shade on well-drained to moist acidic soils (pH 4.0–6.0) with high organic matter content.
 

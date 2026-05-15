@@ -1,5 +1,5 @@
 ---
-title: Savory Community Organization And Shared Grazing
+title: Savory [[bioregionalism-and-community-organization]] And Shared Grazing
 created: 2026-04-28
 tags: [holistic-management, communal-land, community-governance, grazing-planning, social-organization]
 date: 2026-04-25
@@ -43,13 +43,13 @@ traditional ecological knowledge with holistic planning tools.
 
 Many of the world's communal grazing systems are managed by nomadic or
 transhumant peoples whose cultural identity is tied to their mobility.
-Holistic management does not require these communities to abandon their
+[[savory-holistic-management-overview]] does not require these communities to abandon their
 traditional lifestyles. Rather, it provides a planning framework that
 can improve the condition of both the land and the people while
 preserving cultural heritage. The key insight is that planned grazing
 can achieve better results than opportunistic grazing, even for
 communities that have moved with their herds for centuries. By adding
-planning to traditional knowledge, nomadic communities can maintain
+planning to [[wasted-human-resources-and-traditional-knowledge]], nomadic communities can maintain
 their way of life while reversing the land degradation that threatens
 their future. This is particularly important as governments increasingly
 press for sedentarization of nomadic peoples, a policy that often
@@ -78,7 +78,7 @@ multiple herds and herd owners. This may require larger paddocks or
 ## Overview
 
 Savory Community Organization And Shared Grazing represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -107,7 +107,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 savory community organization and shared grazing and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

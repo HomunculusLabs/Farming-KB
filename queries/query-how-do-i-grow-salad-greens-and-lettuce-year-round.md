@@ -3,7 +3,7 @@ title: "How Do I Grow Salad Greens and Lettuce Year-Round?"
 tags: [query, salad-greens, lettuce, succession-planting, season-extension]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ["raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 ---
 
 # How Do I Grow Salad Greens and Lettuce Year-Round?

@@ -42,7 +42,7 @@ Native range extends from southern Ontario and western New York west to Nebraska
 
 The species is typically found in bottomlands, floodplains, and rich mesic woods along river systems. It is shade-intolerant in youth but becomes more shade-tolerant with maturity.
 
-Kentucky coffeetree is adapted to a continental climate, tolerating extremes from -35°C to 40°C. It is exceptionally drought-tolerant once established, owing to a deep taproot that can extend 2–3 meters below the soil surface.
+Kentucky coffeetree is adapted to a [[continental-climate]], tolerating extremes from -35°C to 40°C. It is exceptionally drought-tolerant once established, owing to a deep taproot that can extend 2–3 meters below the soil surface.
 
 It prefers deep, moist, calcareous or alluvial soils but tolerates clay, loam, and sandy substrates. Soil pH range is broad (6.0–8.0).
 

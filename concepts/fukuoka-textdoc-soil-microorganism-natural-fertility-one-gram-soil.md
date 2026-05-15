@@ -1,5 +1,5 @@
 ---
-title: Soil Microorganisms and Natural Fertility — One Gram of Soil
+title: Soil Microorganisms and [[fukuoka-natural-fertility-cycle]] — One Gram of Soil
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: masanobu-fukuoka
 tags: [natural-farming, soil-microbiology, nitrogen-fixing, soil-fertility, microorganisms, no-till, green-manure, straw-mulch, desert-revegetation]
@@ -37,7 +37,7 @@ The "other soil-enriching microbes" Fukuoka references include
 phosphorus-solubilizing bacteria, mycorrhizal fungi that extend plant
 root systems and transport minerals, and cellulose-decomposing organisms
 that break down plant residues. Together, this community performs all the
-functions that chemical fertilizers are designed to replace — and does so
+functions that [[cannabis-chemical-fertilizers]] are designed to replace — and does so
 more efficiently, more sustainably, and at no cost.
 
 ## How Natural Farming Preserves Microbial Life
@@ -46,7 +46,7 @@ Fukuoka's method is designed specifically to protect soil microbial
 communities. The key practices that distinguish his approach:
 
 **No tillage.** Plowing destroys soil structure, disrupts fungal
-networks, exposes anaerobic organisms to lethal oxygen, and buries
+networks, exposes [[anaerobic-organisms-compost]] to lethal oxygen, and buries
 aerobic organisms beneath the surface. The soil in natural fields is
 worked instead by small animals and roots, maintaining layered microbial
 ecosystems. Fukuoka's basic pattern involves continuous no-tillage
@@ -58,7 +58,7 @@ health.
 of nitrogen-fixing bacteria. When plants receive free nitrogen, their
 root exudates change in ways that reduce the food supply for microbial
 partners. Over time, the soil becomes dependent on external inputs as
-native populations decline. Even organic farming, with its composting,
+native populations decline. Even [[coleman-deep-organic-farming]], with its composting,
 can deplete the land from which organic material is taken — creating a
 dependency cycle no different in principle from chemical agriculture.
 
@@ -73,7 +73,7 @@ cyclers that would be annihilated by broad-spectrum chemicals.
 
 Green manure plants play a central role as living hosts for soil
 microorganisms. Clover, alfalfa, bur clover, and other leguminous ground
-covers form symbiotic relationships with nitrogen-fixing *Rhizobium*
+covers form [[fungi-in-the-environment-symbiotic-relationships]] with nitrogen-fixing *Rhizobium*
 bacteria in their root nodules. These plants are not merely nitrogen
 factories; their root systems create habitats for entire microbial
 communities through root exudates and leaf litter.
@@ -114,7 +114,7 @@ the ground.
 
 ## The Scientific Blind Spot
 
-Fukuoka was sharply critical of scientific agriculture's failure to
+Fukuoka was sharply critical [[critique-of-scientific-agriculture]]'s failure to
 engage with soil microbiology at a systems level. Science rarely looks to
 microorganisms for understanding large causal relationships. Botanists
 are not to be bothered with microorganisms as these lie outside their

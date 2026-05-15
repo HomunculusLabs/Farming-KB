@@ -49,23 +49,15 @@ Gessner, Suberkropp, and Chauvet (1997) reviewed the role of fungi in plant litt
 
 Graça, Maltby, and Calow (1993) demonstrated the importance of fungi in the diet of freshwater detritivores (*Gammarus pulex* and *Asellus aquaticus*), showing significant effects on growth, reproduction, and physiology when fungal-colonized food was provided versus non-colonized substrates.
 
-
-
 ## Gastrointestinal Symbionts
-
-
 
 ### Trichomycetes in Aquatic Insects
 
 Trichomycetes serve as gut symbionts in various aquatic insects. Beard and Adler (2002) documented seasonal patterns of trichomycete abundance in larval black flies from South Carolina, finding significant differences among seasons, within sites, and among sites. Their observation that new recruits to black fly larval populations rapidly become colonized by *Harpella melusinae* suggests strong host dependence on these fungal symbionts.
 
-
-
 ### Marine Isopod Gut Fungi
 
 Cafaro (2000) documented gut fungi of the genus *Palavascia* in Patagonian intertidal isopods, expanding the known range of fungal-gut symbiont associations to marine environments. This finding parallels the well-known termite-*Termitomyces* mutualism in terrestrial systems.
-
-
 
 ## Knowledge Gaps and Research Needs
 
@@ -77,11 +69,11 @@ Hyde et al. (1998) concluded that the role of fungi in marine ecosystems require
 4. **Biodiversity assessment**: Comprehensive surveys of fungal diversity in understudied marine habitats
 5. **Biogeochemical cycling**: Quantifying fungal contributions to carbon and nutrient cycling in marine sediments
 
-
-
 ## References
 
 The primary literature on marine [[fungal-ecology]] spans mycological journals, ecological publications, and marine science periodicals. Key contributors include Kohlmeyer and Kohlmeyer (marine mycology foundations), Hyde et al. (marine [[fungal-biodiversity]]), Gessner and Suberkropp (aquatic decomposition), and Bärllocher (stream ecology). The field continues to expand with molecular techniques revealing previously undetected fungal diversity in marine environments.
+This entry provides reference information about marine fungal ecology research and its significance in its respective field.
+
 ## See also
 
 - [[marine-fungal-faunal-interactions]]

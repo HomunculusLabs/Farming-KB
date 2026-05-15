@@ -20,9 +20,9 @@ created: 2026-05-07
 
 ## Overview
 
-**Syntropic agriculture** is a regenerative farming methodology developed by Swiss farmer and researcher **Ernst Götsch** beginning in the 1980s. The system applies [[fukuoka-agricultural-production-net-energy-deduction]], mimicking the structural and functional dynamics of natural forest ecosystems.
+**[[comparison-hugelkultur-vs-syntropic-agriculture]]** is a regenerative farming methodology developed by Swiss farmer and researcher **Ernst Götsch** beginning in the 1980s. The system applies [[fukuoka-agricultural-production-net-energy-deduction]], mimicking the structural and functional dynamics of natural forest ecosystems.
 
-The approach is practiced primarily in Brazil, where Götsch has restored over 500 hectares of degraded farmland across diverse [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], energy flow, and community dynamics—can be optimized through intentional species placement and management.
+The approach is practiced primarily in Brazil, where Götsch has restored over 500 hectares of degraded farmland across diverse [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], energy flow, [[savory-plant-succession-and-community-dynamics]]—can be optimized through intentional species placement and management.
 
 Unlike many agroforestry systems, syntropic agriculture specifically targets the economic productivity of each successional phase. Yields are designed to increase as the system matures, reaching peak productivity in the mature forest stage rather than declining after canopy closure.
 
@@ -38,7 +38,7 @@ This process of continuous harvesting and renewal means the system never reaches
 
 ### Stratification
 
-Planting arrangements mirror the vertical structure of natural forests. Canopy trees, understory trees, shrubs, herbs, and ground covers are all present simultaneously, each occupying a specific stratum and performing distinct ecological functions.
+Planting arrangements mirror the vertical structure of natural forests. Canopy trees, understory trees, shrubs, herbs, and ground covers are all present simultaneously, each occupying a specific stratum and performing distinct [[fungal-melanin-biosynthesis-ecological-functions]].
 
 The stratified design maximizes light capture across all layers. Shade-tolerant crops grow beneath pioneer canopy species, while light-demanding species occupy open gaps created by selective harvesting.
 
@@ -78,10 +78,10 @@ Species are chosen from three successional categories. **Pioneers** (e.g., *Mimo
 
 **Secondary species** (e.g., *Citrus* spp., *Persea americana*, *Coffea arabica*) begin producing economic yields during the transition from pioneer to climax stages. These are the primary income-generating species during the intermediate phases.
 
-**Climax species** (e.g., *Bertholletia excelsa*, *Caryocar brasiliense*, *Swietenia macrophylla*) are the long-term productive elements. These high-value timber and nut trees define the mature system and provide returns over decades.
+**Climax species** (e.g., *[[bertholletia-excelsa]]*, *Caryocar brasiliense*, *[[swietenia-macrophylla]]*) are the long-term productive elements. These high-value timber and nut trees define the mature system and provide returns over decades.
 
 Ground cover species and herbaceous layers include beans, squash, cassava, and various [[green-manure-crops]] that fill the lowest strata and provide early-stage food production.
 
 ## Benefits
 
-Soil regeneration is the most consistently documented benefit. Syntropic systems in degraded areas have shown rapid recovery of soil organic matter, increased aggregate stability, and restored microbial communities within 5 to 10 years.
+Soil regeneration is the most consistently documented benefit. Syntropic systems in degraded areas have shown rapid recovery of soil organic matter, increased aggregate stability, and restored [[cannabis-rhizosphere-microbial-communities]] within 5 to 10 years.

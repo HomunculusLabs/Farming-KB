@@ -1,12 +1,12 @@
 ---
-title: Fish Pond Stocking Rates and Breeding Control
+title: Fish Pond [[aquaculture-pond-yields-and-stocking-rates]] and [[fish-breeding-control-mollison]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Fish Pond Stocking Rates and Breeding Control
 
-Successful fish pond management requires maintaining populations at optimal density. Too few fish produce low total yields; too many cause stunting, poor water quality, and disease. Additionally, uncontrolled breeding can rapidly upset carefully calculated stocking ratios. This page covers the critical factors of stocking rate optimization and the various methods for controlling fish reproduction in managed ponds.
+Successful fish pond management requires maintaining populations at optimal density. Too few fish produce low total yields; too many cause stunting, poor water quality, and disease. Additionally, uncontrolled breeding can rapidly upset carefully calculated stocking ratios. This page covers the critical factors of stocking [[growing-gourmet-spawn-rate-optimization]] and the various methods for controlling fish reproduction in managed ponds.
 
 ## Why Breeding Control Matters
 
@@ -26,7 +26,7 @@ Some species cease breeding above certain density thresholds. [[brown-bullhead]]
 
 ### Timing
 
-Fish added and harvested during spring-summer fast-growing conditions can be taken before, or at the point of, breeding. The pond is then restocked with a new cohort. This seasonal approach takes advantage of natural growth cycles.
+Fish added and harvested during spring-summer fast-growing conditions can be taken before, or at the point of, breeding. The pond is then restocked with a new cohort. This seasonal approach takes advantage of [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]] cycles.
 
 ### Predation
 
@@ -51,7 +51,7 @@ Even with breeding under control, losses can occur from:
 - **Theft**: requiring fences, locks, and proximity of the caretaker to the pond area
 - **Predation** by numerous or large predators (birds, mammals, reptiles)
 - **Diseases or parasites** carried in by stream water
-- **Extreme heat or cold**
+- **[[extreme-heat-preparedness]] or cold**
 - **Accidental draining** of the pond
 
 Precautions include fencing, automatic signaling or pumping systems, and predator control. The fish culturalist needs to live close to or overlooking the pond area for all these reasons. Losses from sudden heavy rains in estuarine ponds may be unavoidable in shrimp culture, but flood bypasses are a normal precaution in freshwater pond culture.
@@ -92,7 +92,7 @@ Management helps mitigate the stunting problem:
 1. **Progressive harvesting**: A heavy initial stocking can be sold off as fish reach market size
 2. **Predator addition**: Adding a predator can cull the smaller fish automatically
 3. **Experimentation**: Every species needs a measured optimum stocking rate, achievable only through trial
-4. **Polyculture assessment**: For polycultures, assess the proportion of too-small fish in each species at harvest time
+4. **Polyculture assessment**: For polycultures, assess the proportion of too-small fish in each species at [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]
 
 ### Stocking Rates in Fertilized Ponds
 

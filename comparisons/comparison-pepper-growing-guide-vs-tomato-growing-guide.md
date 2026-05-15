@@ -12,7 +12,7 @@ type: comparison
 Peppers and tomatoes are the two most popular solanaceous crops in home gardens,
 sharing many growing requirements but differing significantly in their heat
 preferences, growth habits, and harvest profiles. Both demand [[tomato-growing-guide]]
-Tomatoes (Solanum lycopersicum) are the highest-yielding garden crop for most
+Tomatoes ([[solanum-lycopersicum]]) are the highest-yielding garden crop for most
 home gardeners, with indeterminate varieties producing continuously from
 midsummer until frost. They require warm soil (above 60F), full sun (8+ hours),
 and consistent moisture to prevent blossom end rot and fruit cracking. Tomatoes
@@ -68,16 +68,16 @@ infrastructure for proper support. The sheer productivity of indeterminate
 tomatoes makes them unmatched for home food production volume. Tomatoes are also
 more versatile in the kitchen than peppers and form the backbone of many
 preserved products including salsa, sauce, paste, and dried tomatoes. Gardeners
-in temperate climates with moderate summers will find tomatoes easier to manage
+[[query-how-to-grow-and-use-oca-in-temperate-climates]] with moderate summers will find tomatoes easier to manage
 than in hot southern regions.
 ## Hybrid Approaches
 Growing both peppers and tomatoes together is natural since they share similar
-soil, sun, and nutrient requirements. Both benefit from [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
+soil, sun, [[cannabis-soil-and-nutrient-requirements]]. Both benefit from [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
 - [[comparison-autoflowering-vs-photoperiod]]
 
 ## Overview
 
-Comparison Pepper Growing Guide Vs Tomato Growing Guide represents an important element within sustainable
+Comparison [[pepper-growing-guide]] Vs Tomato Growing Guide represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Comparison Pepper Growing Guide Vs Tomato Growing Guide finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 comparison pepper growing guide vs tomato growing guide and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

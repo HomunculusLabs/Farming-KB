@@ -1,12 +1,12 @@
 ---
-title: Fire-Resistant Housing Design
+title: Fire-Resistant [[desert-housing-design]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Fire-Resistant Housing Design
 
-In fire-prone regions, the design and siting of buildings is the single most important factor determining survival during [[wildfire]]. Fire-resistant design integrates building architecture, landscaping, water systems, and [[emergency-preparedness]] into a comprehensive survival strategy.
+In fire-prone regions, the [[fire-resistant-house-design-and-siting]] of buildings is the single most important factor determining survival during [[wildfire]]. Fire-resistant design integrates building architecture, landscaping, water systems, and [[emergency-preparedness]] into a comprehensive survival strategy.
 
 ## House Siting Principles
 
@@ -67,11 +67,11 @@ Wooden panelling transmits relatively little heat, while stone, brick, and mud m
 
 ## Firebreak and Fuel Reduction Zones
 
-A critical requirement around all buildings is the creation of a **30-meter (100-foot) fuel-reduced zone**. This does not mean bare ground or tree removal — rather, it involves strategic planting of fire-dampening species:
+A critical requirement around all buildings is the creation of a **30-meter (100-foot) fuel-reduced zone**. This does not mean [[savory-bare-ground-and-soil-exposure]] or tree removal — rather, it involves strategic planting of fire-dampening species:
 
 ### Recommended Trees and Shrubs (within 30m zone)
 - **Coprosma** species
-- **Deciduous fruit trees** (apples, pears, peaches, etc.)
+- **Deciduous [[comparison-grafting-vs-budding-fruit-trees]]** (apples, pears, peaches, etc.)
 - **Figs**
 - **Willows**
 - **Poplars**
@@ -84,7 +84,7 @@ A critical requirement around all buildings is the creation of a **30-meter (100
 
 ### Ground Cover Plants (fire-dampening)
 - **Lilies**: [[agapanthus]], spring bulbs, arum, Canna
-- **Summer-green ground covers**: Comfrey, iceplants, Tradescantia, Impatiens
+- **Summer-green [[coastal-ground-covers-hedges-permaculture]]**: Comfrey, iceplants, Tradescantia, Impatiens
 - **Short grass sward**
 - **Succulent groundcovers and lily clumps**
 - **Succulent vines** interspersed with crops

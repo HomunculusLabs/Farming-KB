@@ -98,7 +98,6 @@ Conservation status varies by region, with some populations affected by habitat 
 Management recommendations include habitat protection, sustainable harvest practices, and ex-situ conservation where appropriate.
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
-
 ## See Also
 
 - [[soil-aggregate-fungi]]

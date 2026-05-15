@@ -9,7 +9,7 @@ tags: [mycology, cultivation, tissue-culture, laboratory]
 
 ## Description
 
-PDA (Potato Dextrose Agar) is a standard microbiological culture medium widely used in [[antimicrobial-compounds-mushroom-mycelium]] to grow under controlled, sterile conditions before transfer to grain spawn.
+PDA (Potato Dextrose Agar) is a standard microbiological culture medium widely used in [[antimicrobial-compounds-mushroom-mycelium]] to grow under controlled, sterile conditions before transfer to [[grain-spawn]].
 
 ## Classification
 
@@ -34,7 +34,7 @@ Every plate should record species or strain, transfer date, operator, and transf
 
 ## Indicators on Plates
 
-- Healthy mushroom mycelium usually advances as a clean white colony.
+- Healthy [[growing-gourmet-iconic-types-mushroom-mycelium]] usually advances as a clean white colony.
 - Sectoring may indicate genetic variation or culture aging.
 - Wet, shiny, or greasy areas suggest bacterial contamination.
 - Green, black, or brightly colored colonies usually indicate mold contamination.
@@ -79,7 +79,7 @@ Clean PDA technique therefore protects labor, materials, and the reliability of 
 ## Overview
 
 Pda Medium represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pda Medium finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -108,13 +108,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for pda medium. Climate adaptation
+opportunities for pda medium. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pda medium and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

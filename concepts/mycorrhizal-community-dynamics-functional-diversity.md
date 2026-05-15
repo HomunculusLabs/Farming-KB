@@ -26,7 +26,7 @@ ECM fungal communities undergo predictable successional changes as forest stands
 - *Pinus muricata* can be colonized from resistant ECM propagules after stand-replacing wildfire (Baar et al., 1999)
 - Needle litter and grass extracts can have both stimulatory and inhibitory effects on ECM fungal growth (Baar et al., 1994)
 - Mycorrhizal infectiveness of soils varies along successional chronosequences (Boerner et al., 1996)
-- Nitrogen and phosphorus cycling in relation to stand age of *[[eucalyptus-regnans]]* shows changing phosphatase activity and labile P pools (Polglase et al., 1992)
+- Nitrogen and phosphorus cycling in relation to stand age of *[[eucalyptus-regnans]]* shows changing [[mycorrhizal-phosphatase-activity-elf97-detection]] and labile P pools (Polglase et al., 1992)
 
 ### Disturbance and Recovery
 
@@ -45,7 +45,7 @@ The question of whether ECM fungal diversity matters for ecosystem function has 
 - ECM diversity alters growth and nutrient acquisition of gray birch seedlings in host–symbiont culture conditions (Baxter and Dighton, 2001)
 - Context-dependent effects of ECM species richness on tree seedling productivity have been demonstrated (Jonsson et al., 2001)
 - Patterns and regulation of mycorrhizal plant and fungal diversity have been reviewed (Allen et al., 1995)
-- Functional diversity in fungi encompasses variation in nutrient use, enzymatic capabilities, and ecological roles (Miller, 1995)
+- Functional diversity in fungi encompasses variation in nutrient use, [[fungal-enzymatic-capabilities]], and ecological roles (Miller, 1995)
 - The importance of ECM diversity for ecosystem function has been specifically argued (Leake, 2001)
 
 ### Host Plant Effects on Mycorrhizal Communities
@@ -61,7 +61,7 @@ The question of whether ECM fungal diversity matters for ecosystem function has 
 A significant discovery in mycorrhizal ecology is the role of specific bacteria that assist in the establishment of mycorrhizal symbioses:
 
 - Helper bacteria represent a new dimension to the mycorrhizal symbiosis (Garbaye, 1994)
-- MHB associated with the *Pseudotsuga menziesii*–*Laccaria laccata* symbiosis show specificity and function (Garbaye and Duponnois, 1992)
+- MHB associated with the *[[pseudotsuga-menziesii]]*–*[[laccaria-laccata]]* symbiosis show specificity and function (Garbaye and Duponnois, 1992)
 - Stimulation of mycorrhizal infection of *Pinus radiata* by microorganisms associated with ECM mantles has been documented (Garbaye and Bowen, 1987, 1989)
 - Mechanisms involved in growth stimulation of ECM fungi by bacteria include both nutritional and signaling effects (Duponnois and Garbaye, 1990, 1991)
 - Biological interactions in the mycorrhizosphere are complex and multifaceted (Garbaye, 1991)
@@ -95,11 +95,11 @@ The existence of linkages among plants by mycorrhizal fungal hyphae in natural e
 - Competition for nitrogen between plants and soil microorganisms is a key process in ecosystem nutrient cycling (Kaye and Hart, 1997)
 - Indigenous AM fungal populations and soil aggregate stability are major determinants of plant response to inoculation (Hamel et al., 1997)
 - Responses of plants to mycorrhizal fungi, phosphorus, and soil organic matter have implications for land reclamation (Johnson, 1998)
-- Nitrogen dynamics in the rhizosphere of pine seedlings are affected by mycorrhizal colonization (Norton and Firestone, 1996)
+- Nitrogen dynamics in the rhizosphere of pine seedlings are affected by [[mycorrhizal-colonization-thresholds]] (Norton and Firestone, 1996)
 
 ## ECM Identification and Classification
 
-- Colour atlases of ectomycorrhizae provide identification resources (Agerer, 1987–)
+- Colour atlases of ectomycorrhizae provide [[mushroom-identification-resources]] (Agerer, 1987–)
 - Manuals of concise descriptions of North American ectomycorrhizae have been published (Goodman et al., 1996–2000)
 - Discrepancies exist between macroscopic and microscopic classification of spruce ECM (Egli et al., 1993)
 - Identification of ectomycorrhizas follows standardized protocols (Ingleby et al., 1990)

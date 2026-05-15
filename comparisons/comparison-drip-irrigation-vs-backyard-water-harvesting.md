@@ -3,7 +3,7 @@ title: "Drip Irrigation vs Backyard Water Harvesting"
 tags: [comparison, water, irrigation, permaculture, conservation]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
 
 # Drip Irrigation vs Backyard Water Harvesting

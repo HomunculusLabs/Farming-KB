@@ -122,6 +122,6 @@ Key areas where further research is needed include:
 5. **Evolutionary consequences**: How mycorrhizal-mediated selection pressures shape plant trait evolution over ecological time scales
 ## See also
 
-- [[mycorrhizae-and-plant-fitness]]
+- [[mycorrhizae-plant-fitness]]
 - [[mycorrhizae-plant-fitness-community-structure]]
 - [[mycorrhizal-pathogen-interactions-defense]]

@@ -38,7 +38,7 @@ regulation in agricultural and natural soils.
 - **Cereal cyst nematode control:** Kerry (1988) identified this species as capable
   of controlling Heterodera avenae populations by parasitizing females and eggs.
 - **Broad host range:** Viaene and Abawi (1998) found it among parasitic fungi
-  attacking Meloidogyne hapla egg masses in organic soils alongside Fusarium and
+  attacking [[meloidogyne-hapla]] egg masses in organic soils alongside Fusarium and
   Alternaria species.
 - **Chlamydospore production:** Produces resistant chlamydospores surviving adverse
   soil conditions, providing persistent inoculum for multi-season nematode control.
@@ -54,7 +54,7 @@ regulation in agricultural and natural soils.
 - **Egg-stage control:** Unlike trapping fungi targeting motile juveniles, attacks
   the egg stage, preventing nematode emergence and reducing initial population
   pressure on crops.
-- **Integrated nematode management:** Can be combined with other biocontrol agents
+- **Integrated [[nematode-management]]:** Can be combined with other biocontrol agents
   targeting different nematode life stages for comprehensive population suppression.
 - **Soil health indicator:** Presence and abundance serves as an indicator of soil
   biological health and natural nematode regulatory capacity.
@@ -83,3 +83,8 @@ regulation in agricultural and natural soils.
 - Interaction with other soil microorganisms may reduce or enhance biocontrol
   efficacy in ways that are not yet predictable.
 - Practical application protocols for different crop systems remain undeveloped.
+## See also
+
+- [[arthrobotrys-fungi]]
+- [[nematophthora-gynophial]]
+- [[meloidogyne]]

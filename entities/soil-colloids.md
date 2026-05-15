@@ -7,7 +7,7 @@ tags: [soil-science, chemistry, permaculture, nutrient-retention, colloids]
 
 ## Description
 
-Soil colloids are ultra-fine particles of clay, organic matter, or long-chain polymers that remain suspended in soil water unaffected by gravity. They form stable aqueous gels or suspensions and serve as the primary active sites for ionic bonding and nutrient exchange in soil. Colloids are the mechanism by which soils hold water and nutrients against leaching, making them indispensable to soil fertility and plant health. Without colloids, soil minerals rapidly wash out and the soil becomes nutrient-poor.
+Soil colloids are ultra-fine particles of clay, organic matter, or long-chain polymers that remain suspended in soil water unaffected by gravity. They form stable aqueous gels or suspensions and serve as the primary active sites for ionic bonding [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] in soil. Colloids are the mechanism by which soils hold water and nutrients against leaching, making them indispensable to soil fertility and plant health. Without colloids, soil minerals rapidly wash out and the soil becomes nutrient-poor.
 
 ## Classification
 
@@ -75,13 +75,13 @@ Colloids are the living heart of soil fertility. In permaculture systems, the em
 
 Soil colloids include layer silicate clays (montmorillonite, kaolinite, illite),
 iron and aluminum oxides (gibbsite, goethite), and organic colloids (humic
-and fulvic acids). Each type has distinct charge properties and cation exchange
-capacity that influence nutrient availability.
+and fulvic acids). Each type has distinct charge properties [[mollison-designers-tropical-soils-and-cation-exchange-management]]
+capacity that influence [[chelation-and-nutrient-availability]].
 
 ## Overview
 
 Soil Colloids represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Soil Colloids finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 soil colloids and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

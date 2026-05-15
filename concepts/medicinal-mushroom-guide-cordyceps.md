@@ -1,5 +1,5 @@
 ---
-title: Cordyceps (C. militaris, C. sinensis) — Medicinal Mushroom Guide
+title: Cordyceps (C. militaris, C. sinensis) — [[medicinal-mushroom-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -30,7 +30,7 @@ Cordyceps has been used in Tibetan and Chinese medicine for centuries as a tonic
 
 ### Energy and ATP Production
 Cordyceps enhances cellular energy metabolism:
-- Increases ATP (adenosine triphosphate) synthesis in mitochondria.
+- Increases ATP ([[adenosine-triphosphate-atp]]) synthesis in mitochondria.
 - Improves oxygen utilization efficiency (VO2 max).
 - Activates AMPK pathway (cellular energy sensor), similar to exercise.
 - Enhances lactate clearance during exercise.
@@ -62,7 +62,7 @@ Cordyceps is one of the most studied ergogenic mushrooms:
 
 ## Respiratory Health
 
-Traditional and modern use for respiratory conditions:
+Traditional and modern use for [[cannabis-respiratory-conditions]]:
 - Bronchodilatory effects (relaxation of airway smooth muscle).
 - Increased lung capacity and oxygen uptake.
 - Used traditionally for chronic bronchitis, asthma, and COPD.
@@ -87,7 +87,7 @@ Traditional use as a kidney tonic in Chinese medicine:
 ### C. militaris (Cultivated)
 Most commercially available cordyceps products are C. militaris:
 - **Whole dried fruiting bodies:** Can be added to soups, broths, or teas.
-- **Hot water extract:** Simmer 30-45 minutes for polysaccharide extraction.
+- **Hot water extract:** Simmer 30-45 minutes for [[mushroom-polysaccharide-extraction-chemistry]].
 - **Dual extraction:** Water + alcohol to capture both polysaccharides and cordycepin.
 - **Powder/capsules:** Most common supplement form. Look for standardized cordycepin content.
 
@@ -115,7 +115,7 @@ Wild O. sinensis faces severe overharvesting:
 - Harvests have declined by 50-90% in some regions of the Tibetan Plateau over the past 20 years.
 - Climate change is reducing the range and abundance of the host ghost moth larvae.
 - Prices have skyrocketed, driving overharvesting by rural communities dependent on the income.
-- C. militaris cultivation is the sustainable alternative and provides comparable or superior cordycepin content.
+- C. [[cordyceps-militaris-cultivation]] is the sustainable alternative and provides comparable or superior cordycepin content.
 
 ## Cultivation of C. militaris
 
@@ -132,7 +132,7 @@ C. militaris can be cultivated on grain substrates (rice, wheat) or insect pupae
 - Generally well-tolerated.
 - May lower blood sugar — caution with diabetes medications.
 - Possible blood-thinning effects — caution with anticoagulants.
-- Autoimmune conditions: immune-stimulating effects may be problematic.
+- [[blesching-cannabis-health-index-autoimmune-conditions]]: immune-stimulating effects may be problematic.
 - Avoid during pregnancy and breastfeeding.
 - Rare reports of dry mouth, nausea, and diarrhea at high doses.
 

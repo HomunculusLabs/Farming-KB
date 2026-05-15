@@ -65,7 +65,7 @@ Roots can also distinguish between living and dead objects in the soil. When
 a root encounters another living root, it typically alters its growth pattern
 differently than when it encounters a stone or dead root. This suggests that
 roots can detect chemical signals associated with living tissue, integrating
-touch perception with chemical sensing.
+touch perception with [[plant-olfaction-chemical-sensing]].
 
 ## Molecular Mechanisms of Mechanosensing
 
@@ -74,7 +74,7 @@ At the molecular level, plant mechanosensing relies on several families of
 ## Overview
 
 Plant Thigmomorphogenesis What A Plant Feels represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Plant Thigmomorphogenesis What A Plant Feels finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -103,13 +103,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for plant thigmomorphogenesis what a plant feels. Climate adaptation
+opportunities for plant thigmomorphogenesis what a plant feels. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 plant thigmomorphogenesis what a plant feels and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

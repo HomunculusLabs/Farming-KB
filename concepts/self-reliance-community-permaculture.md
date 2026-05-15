@@ -16,7 +16,7 @@ Holmgren distinguishes between self-sufficiency (the capacity to meet all needs 
 
 ### Bushfire Self-Reliance
 
-In the Australian context, self-reliance has a literal survival dimension. Households in fire-prone areas that have invested in water storage, fire-resistant landscaping, shelter, and backup systems are far more resilient than those dependent on centralised emergency services. This principle extends to all forms of disaster preparedness: the more a household can provide for itself during disruption, the less burden on centralised systems and the faster community recovery.
+In the Australian context, self-reliance has a literal survival dimension. Households in fire-prone areas that have invested in water storage, fire-resistant landscaping, shelter, and backup systems are far more resilient than those dependent on centralised emergency services. This principle extends to all forms of [[williams-pdc-disaster-preparedness]]: the more a household can provide for itself during disruption, the less burden on centralised systems and the faster community recovery.
 
 ### Political Dimensions of Self-Reliance
 
@@ -28,7 +28,7 @@ Holmgren frames self-reliance as inherently political. Every act of household fo
 
 In ecological systems, diversity provides insurance against environmental change. A monoculture is highly efficient under optimal conditions but catastrophically vulnerable to any perturbation. Permaculture applies this principle to human systems:
 
-- **Economic diversity**: Multiple income streams, local trading systems (such as LETSystems), and community currencies reduce vulnerability to macroeconomic disruption.
+- **Economic diversity**: Multiple income streams, local trading systems (such as LETSystems), [[informal-economy-and-community-currencies]] reduce vulnerability to macroeconomic disruption.
 - **Skill diversity**: Individuals and communities with a broad range of practical skills (food growing, building, repair, communication) are more adaptable.
 - **Social diversity**: Mixed-age, mixed-income, and multicultural communities tend to be more resilient and innovative than homogeneous ones.
 
@@ -44,7 +44,7 @@ Insurance, whether in nature or human economics, is fundamentally a diversity st
 
 ### Characteristics of Sustainable Community
 
-Holmgren identifies several characteristics of sustainable communities:
+Holmgren identifies several characteristics of [[designing-sustainable-communities]]:
 
 - **Local food production**: Households and neighbourhoods produce a significant portion of their own food.
 - **Local economic exchange**: Money circulates within the community rather than being extracted by distant corporations.
@@ -73,18 +73,18 @@ Industrial society generates enormous quantities of waste because its systems ar
 ### Waste Minimisation Strategies
 
 - **Reduce consumption**: The most fundamental strategy — not creating waste in the first place.
-- **Reuse**: Extending the useful life of materials and products.
+- **Reuse**: Extending the useful life of [[mycelium-based-materials-and-products]].
 - **Repair**: Maintaining and fixing rather than replacing.
 - **Recycle**: Processing waste materials into new products (less efficient than reuse).
 - **Redesign**: Creating systems that eliminate waste by design (biological systems as models).
 
 ### Rubbish as Nature
 
-Holmgren provocatively frames nature's own processes as forms of waste management. Fallen leaves, dead trees, animal manure, and shed skin are all "waste" that is immediately captured and recycled by other organisms. The challenge for permaculture designers is to create human systems that are equally efficient at capturing and recycling outputs.
+Holmgren provocatively frames nature's own processes as forms of waste management. Fallen leaves, dead trees, animal manure, and shed skin are all "waste" that is immediately captured and recycled by other organisms. The challenge for [[bill-mollison-permaculture-designers-manual]] is to create human systems that are equally efficient at capturing and recycling outputs.
 
 ### Food Waste
 
-Food waste is particularly significant because it represents lost embodied energy, nutrients, and labour. Composting, poultry feeding, and worm farming are permaculture strategies for converting food waste back into productive resources. Holmgren emphasises that pig husbandry, poultry, and other small animals are efficient converters of food waste into high-quality protein.
+Food waste is particularly significant because it represents lost embodied energy, nutrients, and labour. Composting, poultry feeding, and worm farming are [[dryland-permaculture-strategies]] for converting food waste back into productive resources. Holmgren emphasises that pig husbandry, poultry, and other small animals are efficient converters of food waste into high-quality protein.
 
 ### Pollution as Misplaced Resource
 

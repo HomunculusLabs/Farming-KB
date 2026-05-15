@@ -8,10 +8,10 @@ tags: [techniques, barrier, livestock, drylands, africa, permaculture-design]
 ## Description
 
 A **boma** is a traditional African livestock enclosure constructed from thorny
-branches and cuttings woven into a dense barrier. In permaculture design, bomas
+branches and cuttings woven into a dense barrier. In [[permaculture-design]], bomas
 serve as living or semi-permanent fences that corral cattle, goats, and sheep
 while protecting garden compounds from grazing animals. The technique is
-fundamental to dryland and tropical permaculture systems where manufactured
+fundamental to dryland and [[comparison-arid-vs-tropical-permaculture]] systems where manufactured
 fencing materials are unavailable or impractical.
 
 ## Classification
@@ -33,7 +33,7 @@ fencing materials are unavailable or impractical.
 - May be reinforced with one or two strands of **barbed wire** if needed, but
   ideal species should resist animals on their own.
 - Boma manure accumulation from penned livestock creates fertile niches for
-  subsequent tree planting — a key dryland orchard establishment technique.
+  subsequent tree planting — a key dryland [[fukuoka-citrus-orchard-establishment-bare-hillside]] technique.
 
 ## Recommended Species
 
@@ -41,7 +41,7 @@ Mollison identifies four ideal boma species:
 
 1. **[[acacia-tortilis]]** — Umbrella thorn; nitrogen-fixing tree with hooked thorns.
 3. **Oncoba spinosa** — Snuff-box tree; thorny shrub with attractive flowers.
-4. **Euphorbia tirucalli** — Pencil cactus; toxic milky sap requires eye protection.
+4. **[[euphorbia-tirucalli]]** — Pencil cactus; toxic milky sap requires eye protection.
 
 ## Design Considerations
 
@@ -58,7 +58,7 @@ Mollison identifies four ideal boma species:
 ## Relevance to Cultivation / Mycology
 
 - **Manure-enriched soil**: Concentrated livestock manure from bomas creates
-  nutrient-rich growing media ideal for mushroom cultivation substrates.
+  nutrient-rich growing media ideal [[grass-seed-substrate-for-mushroom-cultivation]] substrates.
 - **Woody debris**: Thorny prunings from hedge maintenance can be chipped for
   mushroom substrate material.
 - **Compost activation**: Manure from boma-penned animals provides high-nitrogen
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Boma Fence finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 boma fence and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

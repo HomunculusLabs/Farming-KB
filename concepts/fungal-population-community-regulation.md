@@ -48,32 +48,32 @@ Cazares and Trappe (1994) demonstrated that mycophagy of both hypogeous and epig
 
 ### Dark-Septate Endophytes in Early Succession
 
-Jumpponen et al. (1998) demonstrated that the dark-septate mycorrhizal fungus *Phialocephala fortinii* significantly enhanced growth of lodgepole pine (*Pinus contorta*), an early colonizer of the glacier forefront, but only when nitrogen was added. However, total plant phosphorus was significantly enhanced by the mycorrhiza even without added nitrogen, demonstrating that different nutrients respond differently to fungal colonization depending on environmental conditions.
+Jumpponen et al. (1998) demonstrated that the dark-septate mycorrhizal fungus *[[phialocephala-fortinii]]* significantly enhanced growth of lodgepole pine (*Pinus contorta*), an early colonizer of the glacier forefront, but only when nitrogen was added. However, total plant phosphorus was significantly enhanced by the mycorrhiza even without added nitrogen, demonstrating that different nutrients respond differently to fungal colonization depending on environmental conditions.
 
 ### Ectomycorrhizal Succession
 
 The succession of ectomycorrhizal species during primary succession is supported by findings at the Lyman Glacier forefront. Across different successional stages, Jumpponen et al. (1999, 2002) identified 68 ectomycorrhizal species belonging to 25 genera, with no single species occurring on all three successional sites. Ectomycorrhizal species diversity increased to a maximum where tree canopies started to overlap, corresponding with findings from other studies (Dighton et al., 1986; Last et al., 1987; Visser, 1995).
 
-This diversity peak at canopy closure may relate to both the paucity of available phosphorus (Dighton and Harrison, 1990) and an increasing proportion of nutrients locked in organic forms. The increased diversity allows greater expression of mycorrhizal function to utilize mixed available resources. Conn and Dighton (2000) showed that ectomycorrhizal diversity on different tree litters reflects appropriate enzyme functions — where phosphorus is immobilized, the mycorrhizal community contained a greater proportion of acid phosphatase-producing types.
+This diversity peak at canopy closure may relate to both the paucity of available phosphorus (Dighton and Harrison, 1990) and an increasing proportion of nutrients locked in organic forms. The increased diversity allows greater expression of mycorrhizal function to utilize mixed available resources. Conn and Dighton (2000) showed that [[biodiversity-fungi-ectomycorrhizal-diversity]] on different tree litters reflects appropriate enzyme functions — where phosphorus is immobilized, the mycorrhizal community contained a greater proportion of acid phosphatase-producing types.
 
 ### Arbuscular Mycorrhizal Succession
 
 The succession of [[arbuscular-mycorrhizal-fungi]] on herbaceous plant roots is less obvious than ectomycorrhizal succession, but different AMF species have contrasting effects on host performance. Hart et al. (2001) proposed two hypotheses:
 
-1. **Driver hypothesis**: Mycorrhizal fungi are the driving force, determining plant community composition through interspecific differences in colonization and persistence potential
+1. **Driver hypothesis**: Mycorrhizal fungi are the driving force, determining [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]] through interspecific differences in colonization and persistence potential
 2. **Passenger hypothesis**: Changes in mycorrhizal communities are dependent on plant and environmental conditions; the mycorrhizae are essentially passengers along for the ride
 
 ### The Mycelial Network Effect
 
-The importance of maintaining a continuous mycelial mat has been demonstrated by Amaranthus and Perry (1989). When Douglas fir was planted into partially cleared sites where mycorrhizal roots were maintained on remaining trees, survival was approximately 90%. In totally cleared areas, survival after 2 years was only 50%. The existing mycelial network provided ecosystem stability through carbon and nutrient exchange between connected plants, allowing new recruits to access larger resource pools.
+The importance of maintaining a continuous mycelial mat has been demonstrated by Amaranthus and Perry (1989). When Douglas fir was planted into partially cleared sites where mycorrhizal roots were maintained on remaining trees, survival was approximately 90%. In totally cleared areas, survival after 2 years was only 50%. The existing mycelial network provided ecosystem stability through carbon [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between connected plants, allowing new recruits to access larger resource pools.
 
 ### Saprotrophic Influences on Establishment
 
-Even saprotrophic fungi can influence plant establishment. Osonubi et al. (1990) showed that inoculation of *Gmelina arborea* seeds with *Chaetomium bostrychodes* improved seed germination, likely through enzyme production that assists in seed stratification or scarification.
+Even saprotrophic fungi can influence plant establishment. Osonubi et al. (1990) showed that inoculation of *[[gmelina-arborea]]* seeds with *Chaetomium bostrychodes* improved seed germination, likely through enzyme production that assists in seed stratification or scarification.
 
 ## Mycorrhizae and Plant Fitness
 
-Beyond improving growth, mycorrhizal associations enhance overall plant fitness, providing competitive advantages when effects are asymmetric across species.
+Beyond improving growth, [[plants-without-mycorrhizal-associations]] enhance overall plant fitness, providing competitive advantages when effects are asymmetric across species.
 
 Sanders et al. (1995) showed that arbuscular mycorrhizal plants had improved phosphate nutrition, leading to significant increases in flower bud and seed production beyond what would be expected from vegetative growth enhancement alone. Koide et al. (1988), Stanley et al. (1993), Lewis and Koide (1990), Bryla and Koide (1990), and Koide and Lu (1992) all documented increased reproductive potential, including improved offspring vigor through enhanced seedling germination, leaf area, root:shoot ratio, and root enzyme production.
 

@@ -1,5 +1,5 @@
 ---
-title: Pulsatile Transport in Fungal Mycelia
+title: [[pulsatile-transport-fourier-analysis-fungi]] in Fungal Mycelia
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -8,11 +8,11 @@ type: concept
 
 ## Overview
 
-In addition to steady-state diffusive and bulk-flow transport, fungal mycelia exhibit a pronounced **pulsatile component** associated with rapid nutrient movement, particularly through corded (differentiated) transport systems. This oscillatory behaviour was discovered using photon-counting scintillation imaging (PCSI) of 14C-labelled [[alpha-amino-isobutyrate]] (14C-AIB) and represents one of the most striking features of mycelial nutrient dynamics. The pulsatile transport creates coordinated waves of nutrient flux that move through different regions of the colony with distinct phase relationships.
+In addition to steady-state diffusive and bulk-flow transport, fungal mycelia exhibit a pronounced **pulsatile component** associated with rapid [[nutrient-movement-plant-roots]], particularly through corded (differentiated) transport systems. This oscillatory behaviour was discovered using photon-counting [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]] (PCSI) of 14C-labelled [[alpha-amino-isobutyrate]] (14C-AIB) and represents one of the most striking features of mycelial nutrient dynamics. The pulsatile transport creates coordinated waves of nutrient flux that move through different regions of the colony with distinct phase relationships.
 
 ## Discovery and Initial Characterization
 
-Pulsatile transport was first observed in *Phanerochaete velutina* when time-series PCSI data revealed that 14C-AIB movement was not a smooth, continuous process but rather exhibited strong oscillations superimposed on the longer-term translocation trend. Initial Fourier analysis of discrete regions of interest showed that:
+Pulsatile transport was first observed in *[[phanerochaete-velutina]]* when time-series PCSI data revealed that 14C-AIB movement was not a smooth, continuous process but rather exhibited strong oscillations superimposed on the longer-term translocation trend. Initial Fourier analysis of discrete regions of interest showed that:
 
 - The **assimilatory mycelium** at the inoculum site pulsates
 - The **foraging mycelium** at the colony margin also pulsates
@@ -82,7 +82,7 @@ Not all cords transported simultaneously, revealing a dynamic **route-switching*
 The pulsatile transport phenomenon raises important questions about the underlying mechanism:
 
 1. **Pressure-driven flow**: The oscillatory nature is consistent with periodic pressure fluctuations, possibly driven by protoplasmic streaming or osmotic gradients
-2. **Coordination across domains**: The establishment of synchronized phase domains suggests intercellular communication coordinating the timing of pulsations
+2. **Coordination across domains**: The establishment of synchronized phase domains suggests [[plasmodesmata-and-intercellular-communication-in-plants]] coordinating the timing of pulsations
 3. **Resource-directed modulation**: The shift in amplitude centre towards new resources indicates that the pulsatile mechanism is responsive to source-sink relationships
 4. **Route switching**: The transient activation and deactivation of different cord pathways suggests a dynamic allocation system that can redirect transport capacity
 
@@ -94,7 +94,7 @@ Importantly, the oscillations observed in amino acid transport are **non-circadi
 
 - [[photon-counting-scintillation-imaging]] - The PCSI technique used to detect pulsatile transport
 - [[vacuolar-transport-fungal-hyphae]] - Intracellular diffusion-based transport
-- [[fungal-mycelial-network-analysis]] - Network architecture governing transport routes
+- [[fungal-mycelial-network-analysis]] - [[mycelial-network-architecture]] governing transport routes
 
 ## References
 

@@ -7,7 +7,7 @@ tags: [ecology, pollution, forestry, acid-rain, mycorrhizae, europe, environment
 
 ## Description
 
-**Waldsterben** (German for "forest dieback" or "forest death") is a term describing the widespread decline and dieback of forests in central Europe, particularly in the 1970s through the 1990s, attributed primarily to acidifying pollutants from industrial emissions. The phenomenon was most dramatically observed in the Bavarian forests of southern Germany, where Norway spruce (*Picea abies*) and other conifer species showed characteristic symptoms including needle yellowing, crown thinning, root damage, and eventual tree mortality. Waldsterben became a major environmental and political issue that drove significant changes in air quality regulation across Europe.
+**Waldsterben** (German for "forest dieback" or "forest death") is a term describing the widespread decline and dieback of forests in central Europe, particularly in the 1970s through the 1990s, attributed primarily to acidifying pollutants from industrial emissions. The phenomenon was most dramatically observed in the Bavarian forests of southern Germany, where Norway spruce (*[[picea-abies]]*) and other conifer species showed characteristic symptoms including needle yellowing, crown thinning, root damage, and eventual tree mortality. Waldsterben became a major environmental and political issue that drove significant changes in air quality regulation across Europe.
 
 ## Classification
 
@@ -72,7 +72,7 @@ tags: [ecology, pollution, forestry, acid-rain, mycorrhizae, europe, environment
 - The crisis drove extensive research into mycorrhizal function and diversity
 - Demonstrated that not all ectomycorrhizal species are functionally equivalent
 - Showed that pollutant stress alters mycorrhizal community composition, potentially reducing ecosystem services
-- Led to understanding that mycorrhizal diversity per se can improve plant nutrient uptake (Baxter and Dighton, 2001)
+- Led to understanding that mycorrhizal diversity per se can improve [[plant-nutrient-uptake]] (Baxter and Dighton, 2001)
 
 ### Nitrogen Saturation
 - Long-term nitrogen deposition leads to nitrogen saturation of forest soils
@@ -103,3 +103,8 @@ tags: [ecology, pollution, forestry, acid-rain, mycorrhizae, europe, environment
 - Forest decline and fungal bioindicators
 - Critical loads for pollutant deposition
 - Lichens as pollution indicators
+## See also
+
+- [[waldsterben-forest-decline]]
+- [[acidifying-pollutants-mycorrhizae]]
+- [[nitrogen-deposition-fungal-communities]]

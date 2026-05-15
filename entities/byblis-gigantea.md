@@ -18,7 +18,7 @@ sources:
 
 **Byblis gigantea** is the largest species in the genus Byblis, commonly known as rainbow plants. Native to Western Australia, it is a spectacular carnivorous plant with shimmering, mucilage-covered leaves that glisten in sunlight like rainbows.
 
-Unlike the flypaper mechanism of butterworts and sundews, Byblis employs a passive trapping system where insects become mired in sticky secretions but are not actively digested by the plant itself. Instead, secondary carnivory through symbiotic insects plays a key role in nutrient acquisition.
+Unlike the flypaper mechanism of butterworts and sundews, Byblis employs a passive trapping system where insects become mired in sticky secretions but are not actively digested by the plant itself. Instead, secondary carnivory through symbiotic insects plays a key role in [[dighton-ericoid-mycorrhizal-nutrient-acquisition]].
 
 The common name "rainbow plant" derives from the iridescent appearance of the mucilage-covered leaves when viewed in direct sunlight. The refractive properties of the sticky droplets produce a prismatic rainbow effect across the [[savory-growing-season-and-non-growing-season-management]].
 
@@ -42,7 +42,7 @@ Molecular phylogenetic studies place Byblidaceae within the order Lamiales, maki
 
 B. gigantea is endemic to Western Australia, occurring in a narrow coastal strip from the Perth region northward through the Geraldton Sandplains and into the Carnarvon Basin. The species has a naturally restricted range of approximately 500 km.
 
-It grows in seasonally wet sandy soils, typically in winter-wet depressions, drainage lines, and along the margins of seasonal swamps. The substrate is invariably deep white or yellow sand with very low nutrient content. Water tables may fluctuate dramatically between seasons.
+It grows in seasonally wet sandy soils, typically in winter-wet depressions, drainage lines, and along the margins of seasonal swamps. The substrate is invariably deep white or yellow sand with very low [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]]. Water tables may fluctuate dramatically between seasons.
 
 The species experiences a Mediterranean-type climate with hot, dry summers and cool, wet winters. Active growth occurs during the winter wet season, with flowering in spring and early summer. The plant may aestivate during the hottest summer months.
 
@@ -50,13 +50,13 @@ Annual precipitation in the species' range varies from 400 to 800 mm, almost ent
 
 Typical companion species include other Western Australian carnivorous plants such as Drosera species, Utricularia species, and [[cephalotus-follicularis]]. The carnivorous plant communities of southwestern Australia are among the most diverse in the world.
 
-The region supporting B. gigantea is part of the Southwest Australian Floristic Region, one of the world's 36 biodiversity hotspots. This area has experienced significant habitat loss, with over 70% of native vegetation cleared for agriculture and urban development.
+The region supporting B. gigantea is part of the Southwest Australian Floristic Region, one of the world's 36 [[psilocybe-global-biodiversity-hotspots]]. This area has experienced significant habitat loss, with over 70% of native vegetation cleared for agriculture and urban development.
 
-Fire plays an important ecological role in maintaining the open, sunny conditions that B. gigantea requires. The species resprouts from the rootstock after fire, and smoke-derived chemicals may stimulate seed germination in post-fire environments.
+Fire plays an important ecological role in maintaining the open, sunny conditions that B. gigantea requires. The species resprouts from the rootstock after fire, and smoke-derived chemicals may stimulate [[cannabis-seed-germination]] in post-fire environments.
 
 ## Carnivorous Adaptations
 
-The trapping mechanism of B. gigantea differs fundamentally from the flypaper traps of Drosera and Pinguicula. The sticky mucilage on the leaf surface entraps insects, but the plant does not secrete digestive enzymes onto the trapped prey.
+The trapping mechanism of B. gigantea differs fundamentally from the flypaper traps of Drosera and Pinguicula. The sticky mucilage on the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] entraps insects, but the plant does not secrete digestive enzymes onto the trapped prey.
 
 Instead, nutrient acquisition relies primarily on secondary carnivory: assassin bugs of the genus Setocoris live on B. gigantea plants and feed on trapped insects. The plant absorbs nutrients from the assassin bugs' excrement, which is deposited on the leaf surface.
 
@@ -72,7 +72,7 @@ Field observations have documented that B. gigantea traps a wide range of prey i
 
 ## Cultivation
 
-B. gigantea is among the most challenging carnivorous plants to cultivate successfully. It requires deep pots of pure sand kept moist during the growing season and nearly dry during summer dormancy.
+B. gigantea is among the most challenging carnivorous plants to cultivate successfully. It requires deep pots of pure sand kept moist during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and nearly dry during summer dormancy.
 
 The species demands strong light and will etiolate rapidly under insufficient illumination. Full sun is preferred, with temperatures between 15–30°C during the active growing season. Summer dormancy requires dry, hot conditions.
 

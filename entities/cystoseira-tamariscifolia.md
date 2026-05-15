@@ -70,7 +70,7 @@ Extracts of *C. tamariscifolia* have shown algicidal properties, potentially med
 
 ## Ecology and Environmental Role
 
-*Cystoseira tamariscifolia* is a key **ecosystem engineer** on temperate rocky reefs. Its dense canopy modifies light penetration, water flow, and substrate stability, creating microhabitats for hundreds of associated species.
+*Cystoseira tamariscifolia* is a key **[[ecosystem-engineer-fungi]]** on temperate rocky reefs. Its dense canopy modifies light penetration, water flow, and substrate stability, creating microhabitats for hundreds of associated species.
 
 The holdfast and frond surfaces support diverse epiphytic communities including diatoms, bryozoans, hydroids, and small crustaceans. Mobile fauna such as amphipods, isopods, and juvenile fish shelter within the canopy.
 

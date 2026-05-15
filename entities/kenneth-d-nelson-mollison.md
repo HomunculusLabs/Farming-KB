@@ -33,7 +33,7 @@ Nelson's manual addresses:
 - **Catchment treatments:** Methods for improving run-off yield from catchment areas
 - **Run-off calculations:** Engineering formulas for predicting water availability from rainfall and catchment characteristics
 - **Soil assessment:** Methods for evaluating soil suitability for dam construction (clay content, permeability)
-- **Construction techniques:** Step-by-step procedures for building reliable earth dams
+- **[[pdc-earthen-construction-techniques]]:** Step-by-step procedures for building reliable earth dams
 - **Outlet systems:** Design of spillways, draw-off pipes, and valve systems for controlled water release
 - **Volume estimation:** Methods for calculating storage capacity of planned impoundments
 - **Cost estimation:** Economic analysis tools for budgeting dam construction projects
@@ -60,7 +60,7 @@ Nelson's work complements P.A. Yeomans' *Water for Every Farm/The Keyline Plan* 
 - **Essential reference:** For anyone designing and building small dams, farm ponds, or earth tanks for water storage
 - **Engineering rigor:** Provides the technical foundations that permaculture design books often abbreviate
 - **Cost-effectiveness:** Small dams and earth tanks are among the highest-return investments for drought-proofing agricultural land
-- **Integration challenge:** Designers must supplement Nelson's engineering knowledge with biological understanding — adding aquaculture, edge planting, wildlife habitat, and water quality management to the basic engineering structure
+- **Integration challenge:** Designers must supplement Nelson's engineering knowledge with biological understanding — adding aquaculture, edge planting, [[hemenway-backyard-wildlife-habitat]], and [[pond-water-quality-management]] to the basic engineering structure
 
 ## Source
 
@@ -73,7 +73,7 @@ Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 7 (Water), Section 7
 ## Overview
 
 Kenneth D Nelson Mollison represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Kenneth D Nelson Mollison finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 kenneth d nelson mollison and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

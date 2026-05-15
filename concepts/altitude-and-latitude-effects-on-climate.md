@@ -38,7 +38,7 @@ The effect of slope is even more pronounced than altitude alone. Slopes of just 
 Valleys exhibit dramatic diurnal temperature swings. Hot air builds rapidly in sun-facing wider valleys sheltered from winds, generating strong winds — upslope and up-valley by day, downslope and down-valley at night. At moderate altitudes (3,000–4,000 m), these valley winds follow a daily cycle used by many bird species for daily migration.
 
 ### Cloud Formation
-In large valleys, especially in cool moist climates, upslope winds generate chains of cumulus clouds at the valley head from mid-morning to evening. In tropical humid climates, cloud may be continuously held on mountain tops, forming the standing cloud of high islands. Forest on valley sides and ridges actively humidifies air streams through transpiration, accentuating cloud and rainfall effects.
+In large valleys, especially in cool moist climates, upslope winds generate chains of cumulus clouds at the valley head from mid-morning to evening. In tropical [[berry-fruit-production-cool-humid-climates]], cloud may be continuously held on mountain tops, forming the standing cloud of high islands. Forest on valley sides and ridges actively humidifies air streams through transpiration, accentuating cloud and [[mollison-orographic-and-forest-rainfall-effects]].
 
 ### Valleys as Refugia
 Valleys in tundra and desert support tree populations absent from surrounding plains:
@@ -53,7 +53,7 @@ Without wind or air flow, **radiation frost** forms in sheltered hollows and tre
 ## Latitude Effects
 
 ### Light Availability at High Latitudes
-Despite weak light and short growing seasons at sub-polar latitudes, very long summer days provide sufficient light for vigorous plant growth. Daily radiation totals in late summer:
+Despite weak light and short [[jeavons-climate-adaptation-growing-seasons]] at sub-polar latitudes, very long summer days provide sufficient light for vigorous plant growth. Daily radiation totals in late summer:
 - **Madras, India (13°N):** 440 Langleys
 - **Fresno, California (36°N):** 680 Langleys
 - **Fairbanks, Alaska (64°N):** 450 Langleys
@@ -79,15 +79,15 @@ Photosynthetic efficiency is limited by the leaf's ability to obtain CO₂. At h
 
 ## Design Implications
 Understanding altitude and latitude effects on climate is essential for effective site
-planning in permaculture and sustainable agriculture. Climate factors determine
-plant selection, water management strategies, and the placement of structures
+planning in permaculture [[soil-health-ethics-and-sustainable-agriculture]]. Climate factors determine
+plant selection, water [[forest-management-strategies]], and the placement of structures
 and growing areas within a designed landscape.
 
 ## Practical Applications
 These climatic principles guide decisions about species selection, microclimate
 creation, wind protection, and solar access optimization. Designers use this
 knowledge to extend growing seasons, reduce energy consumption, and create
-favorable conditions for cultivated ecosystems in diverse climate zones.
+favorable conditions for cultivated ecosystems in diverse [[humid-tropics-design-and-climate-zones]].
 
 ## See Also
 - [[latitude-altitude-and-valley-climates]]

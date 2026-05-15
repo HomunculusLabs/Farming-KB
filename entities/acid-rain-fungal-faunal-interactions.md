@@ -71,7 +71,7 @@ The acidification-fungal-faunal interaction operates through several pathways:
 ### Implications for Soil Food Web Stability
 
 The research suggests that:
-- Acidifying pollutants simplify soil food web structure
+- Acidifying pollutants simplify [[soil-food-web-structure]]
 - Loss of higher trophic levels (predatory nematodes) may destabilize microarthropod regulation
 - Increased fungal biomass under acidification does not necessarily indicate improved ecosystem function
 - The palatability and nutritional quality of different fungal groups to fauna varies significantly
@@ -79,7 +79,7 @@ The research suggests that:
 
 ## Relevance to Cultivation and Mycology
 
-1. **Soil food web management** in cultivation should account for acidification effects on both fungal and faunal communities
+1. **[[soil-food-web]] management** in cultivation should account for acidification effects on both fungal and faunal communities
 2. **Nematode communities** can serve as bioindicators of soil health and pH balance
 3. **Compost ecology:** Understanding fungal-faunal trophic interactions helps predict decomposition dynamics
 4. **Integrated pest management:** Acidification effects on predatory nematodes may reduce natural pest regulation
@@ -91,3 +91,8 @@ The research suggests that:
 - Esher et al. (1992); Ruess et al. (1993, 1996)
 - Shaw (1988, 1992); Bongers (1990)
 - Dighton and Jansen (1991)
+## See also
+
+- [[acidifying-pollutants-mycorrhizae]]
+- [[waldsterben]]
+- [[fungal-faunal-interactions-in-decomposition]]

@@ -19,7 +19,7 @@ sources:
 
 **Polytrichum commune** (common haircap moss) is one of the largest and most recognizable moss species in the world. It forms dense, tall tufts reaching 10–40 cm in height, giving it a miniature forest appearance on the forest floor.
 
-The species is widespread across boreal and temperate regions of the Northern Hemisphere. It is a conspicuous component of coniferous and mixed woodlands, often dominating acidic, nutrient-poor substrates.
+The species is widespread across boreal and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It is a conspicuous component of coniferous and mixed woodlands, often dominating acidic, nutrient-poor substrates.
 
 Its common name derives from the dense, hair-like calyptra that covers the immature spore capsule. The genus name *Polytrichum* means "many hairs" in Greek, referring to this distinctive feature.
 
@@ -61,9 +61,9 @@ The species contributes substantially to organic matter accumulation. Decomposit
 
 *Polytrichum commune* supports diverse microfaunal communities. Tardigrades, nematodes, and springtails are commonly found within its dense mats. The lamellate leaf structure provides sheltered microhabitats for these organisms.
 
-It has limited direct symbiotic relationships but frequently co-occurs with mycorrhizal host trees such as [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] attributed to *P. commune* are partly due to phenolic compounds in its cell walls. These [[growing-gourmet-spore-germination-strain-isolation]] requires a moist, sterile substrate and indirect light. Protonemal development leads to gametophore formation within 8–12 weeks.
+It has limited direct [[fungi-in-the-environment-symbiotic-relationships]] but frequently co-occurs with mycorrhizal host trees such as [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] attributed to *P. commune* are partly due to [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in its cell walls. These [[growing-gourmet-spore-germination-strain-isolation]] requires a moist, sterile substrate and indirect light. Protonemal development leads to gametophore formation within 8–12 weeks.
 
-Vegetative propagation is more practical for horticultural purposes. Stem fragments anchored to acidic, peat-based substrate establish within 4–6 weeks under consistent humidity and diffuse light.
+[[hamilton-vegetative-propagation]] is more practical for horticultural purposes. Stem fragments anchored to acidic, peat-based substrate establish within 4–6 weeks under consistent humidity and diffuse light.
 
 Optimal growth occurs at temperatures of 15–20°C with high ambient humidity. The species requires acidic substrates with pH 4.5–6.0 and performs poorly in alkaline conditions.
 
@@ -72,7 +72,7 @@ Optimal growth occurs at temperatures of 15–20°C with high ambient humidity. 
 ## Overview
 
 Polytrichum Commune represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 polytrichum commune and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -28,7 +28,7 @@ If present trends — peak oil, climate change, irresponsible monetary manipulat
 
 ## Nature's Recycling System
 
-Nature recycles. Everything that grows will eventually die, fall to earth, and rot — or be eaten by animals whose manure falls to earth and rots. The only natural process that doesn't seem like recycling is when dissolved mineral nutrients end up in the ocean. Even oceanic minerals recycle over geologic time.
+Nature recycles. Everything that grows will eventually die, fall to earth, and rot — or be eaten by animals whose manure falls to earth and rots. The only natural process that doesn't seem like recycling is when dissolved [[mineral-nutrients-magnesium-aluminium-silicon-phosphorus]] end up in the ocean. Even oceanic minerals recycle over geologic time.
 
 ### What Wild Plants Need
 
@@ -38,7 +38,7 @@ Nature has designed wild plants to be satisfied with the lower-than-natural nutr
 
 The first English-speaking farmers cleared the forest, burned the duff (a thick, half-rotted layer of leaves, bark, and debris — the forest's capital accumulation of centuries), and then farmed. The duff released nutrients far more rapidly, resulting in a huge but temporary boost. Abundant harvests could be enjoyed — for a while. But without the continuous nutrient addition from the forest's falling leaves, without animal manure, and with nutrients exported as crops went to market, soil fertility decreased and the land was worn out.
 
-In this industrial era, exhausted land has been temporarily restored to heavy production by chemical fertilizers. Without them, most croplands would be considered worn out, and almost any soil a vegetable gardener uses these days may be too infertile to grow most kinds of vegetables.
+In this industrial era, exhausted land has been temporarily restored to heavy production by [[cannabis-chemical-fertilizers]]. Without them, most croplands would be considered worn out, and almost any soil a vegetable gardener uses these days may be too infertile to grow most kinds of vegetables.
 
 ## Mulch Gardening: Why It Falls Short
 
@@ -52,10 +52,10 @@ If nature maintains fertility through slow surface decomposition without digging
 
 ### What Doesn't Work
 
-- **Weed control**: Mulching tangles the hoe but fails to completely suppress weeds. If mulching cheaply with grass clippings or autumn leaves, you'll spend more time patrolling for weeds than you would learning how to properly sharpen and use a hoe.
-- **Moisture conservation**: Mulching keeps the surface moist but does not significantly reduce moisture loss. Moisture is mainly lost as plants transpire, not as the sun shines on bare earth.
+- **Weed control**: Mulching tangles the hoe but fails to completely [[query-how-do-cover-crops-suppress-weeds]]. If mulching cheaply with grass clippings or autumn leaves, you'll spend more time patrolling for weeds than you would learning how to properly sharpen and use a hoe.
+- **[[cervantes-mulch-outdoor-moisture-conservation]]**: Mulching keeps the surface moist but does not significantly reduce moisture loss. Moisture is mainly lost as plants transpire, not as the sun shines on bare earth.
 - **Spring warming**: Mulched gardens are slow to warm up in spring.
-- **Nutrient imbalance**: With permanent mulching, so much leaf and straw residue is brought into the garden that the soil's nutrient ratios are inevitably pushed out of balance, reducing the nutritional content of your veggies.
+- **Nutrient imbalance**: With [[solomon-permanent-mulching-critique-limitations]], so much leaf and straw residue is brought into the garden that the soil's nutrient ratios are inevitably pushed out of balance, reducing the nutritional content of your veggies.
 - **Bulk requirement**: If your garden is larger than a postage stamp, you'll need a pickup truck to haul enough mulch material.
 - **Pest problems**: In mild-winter climates where soil doesn't freeze solid, permanent mulch creates plague levels of small animals (slugs, snails, woodlice, etc.) that eat seedlings.
 
@@ -68,7 +68,7 @@ Mulch gardening makes sense for someone who is physically weak or whose mobility
 The most effective strategy is:
 
 1. **Heap-compost enough organic material** to maintain soil humus at healthy levels
-2. **Use complete organic fertilizer (COF)** or poultry manure compost as fertilizer on medium- and high-demand vegetables
+2. **Use [[complete-organic-fertilizer]] (COF)** or poultry manure compost as fertilizer on medium- and high-demand vegetables
 3. **Apply compost as a soil conditioner**, not as the sole source of nutrition
 
 This approach is less effort and far more effective than permanent mulching.

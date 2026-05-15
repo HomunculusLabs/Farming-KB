@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags: [cover-crops, soil-health, succession, nitrogen-fixation]
-sources: []
+sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
 # Cover Crops and Soil Health

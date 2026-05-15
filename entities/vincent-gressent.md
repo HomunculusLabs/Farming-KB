@@ -7,7 +7,7 @@ tags: [person, french, horticulture, organic-pioneer, author]
 
 ## Overview
 
-Vincent Alfred Gressent was a French horticultural author and expert on intensive market gardening who wrote *Le potager moderne* (The Modern Kitchen Garden), a widely circulated instruction book for Parisian growers first published in the mid-19th century and reaching its 12th edition by 1926. Gressent is notable for articulating an early "organic" philosophy of plant nutrition and pest management decades before the modern organic movement.
+Vincent Alfred Gressent was a French horticultural author and expert on [[coleman-french-maraicher-parisian-intensive-market-gardening]] who wrote *Le potager moderne* (The Modern Kitchen Garden), a widely circulated instruction book for Parisian growers first published in the mid-19th century and reaching its 12th edition by 1926. Gressent is notable for articulating an early "organic" philosophy of plant nutrition and pest management decades before the modern organic movement.
 
 ## Historical Context
 
@@ -36,8 +36,8 @@ Gressent's *Le potager moderne* provided detailed guidance on:
 - Hotbed construction and management using decomposing horse manure
 - Glass cloche techniques for individual plant protection
 - Intensive succession planting schedules
-- Compost preparation and application
-- Crop rotation principles
+- Compost [[casing-soil-preparation-and-application]]
+- [[crop-rotation-principles]]
 - Year-round production planning
 
 ## Published Work
@@ -62,7 +62,7 @@ Gressent's insights remain directly applicable to modern cultivation:
 - The connection between soil nutrition and pest resistance is well-established in modern organic farming
 - His advocacy for compost over chemical fertilizers aligns with contemporary soil science
 - His documentation of intensive production techniques provides a historical template for modern small-scale growers
-- His pest management observations parallel modern integrated pest management (IPM) approaches
+- His pest [[fukuoka-soil-management-observations]] parallel modern [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM) approaches
 
 ## Key Facts
 
@@ -77,7 +77,7 @@ Gressent's insights remain directly applicable to modern cultivation:
 
 ## See Also
 
-- Parisian Maraichage
+- [[parisian-maraichage]]
 - Louis Savier
 - Eliot Coleman
 - La Quintinie

@@ -134,11 +134,11 @@ The effects of acidifying pollutants and nitrogen deposition are not uniform acr
 The sensitivity of ectomycorrhizal communities to nitrogen deposition has conservation consequences:
 - **Arnolds (1989b, 1997)** developed "red data" lists for threatened fungal species
 - **Watling (1999)** advocated for inclusion of fungi and non-vascular plants in UK species conservation lists
-- Loss of mycorrhizal fungal diversity may impair forest ecosystem resilience, nutrient cycling efficiency, and tree regeneration capacity
+- Loss of [[mycorrhizal-fungal-diversity]] may impair forest ecosystem resilience, nutrient cycling efficiency, and tree regeneration capacity
 
 ## See Also
 
-- [[Acidifying-Pollutants-Mycorrhizae-Plant-Nutrition]] — mechanisms of pollutant effects on mycorrhizal function
-- [[Ectomycorrhizal-Diversity-and-Ecosystem-Function]] — diversity-function relationships
-- [[Fungal-Interactions-with-Humans]] — broader context of human impacts on fungal ecosystems
-- [[Nitrogen-Deposition-and-Forest-Soil-Processes]] — N saturation effects on soil chemistry
+- [[acidifying-pollutants-mycorrhizae-plant-nutrition]] — mechanisms of pollutant effects on mycorrhizal function
+- [[ectomycorrhizal-diversity-ecosystem-function]] — diversity-function relationships
+- [[fungal-interactions-with-humans]] — broader context of human impacts on fungal ecosystems
+- [[nitrogen-deposition-fungal-communities]] — N saturation effects on soil chemistry

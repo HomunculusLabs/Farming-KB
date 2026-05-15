@@ -13,18 +13,18 @@ related_concepts:
   - plant-perception
   - tompkins-plant-perception-experiments
   - tompkins-cleve-backster-primary-perception
-  - tompkins-bose-plant-nervous-system-hypothesis
-  - tompkins-marcel-vogel-plant-human-communication
-  - tompkins-mimosa-pudica-sensitive-plant-experiments
+  - [[tompkins-bose-plant-nervous-system-hypothesis]]
+  - [[tompkins-marcel-vogel-plant-human-communication]]
+  - [[tompkins-mimosa-pudica-sensitive-plant-experiments]]
   - tompkins-plant-electrical-signals
   - tompkins-plant-music-sound
-  - tompkins-plants-response-to-human-intent
+  - [[tompkins-plants-response-to-human-intent]]
   - tompkins-plant-roots-intelligence
-  - tompkins-soviet-plant-research-gunar-academy
+  - [[tompkins-soviet-plant-research-gunar-academy]]
   - tompkins-plant-chemical-communication
   - tompkins-luther-burbank-intuitive-breeding
   - tompkins-ancient-plant-knowledge
-  - tompkins-jagadis-bose-plant-response-crescograph
+  - [[tompkins-jagadis-bose-plant-response-crescograph]]
   - plant-communication-volatile-organic-compounds
   - plant-signaling-pathways
   - plant-sensory-biology-and-intelligence

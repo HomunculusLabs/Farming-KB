@@ -1,5 +1,5 @@
 ---
-title: DMT Extraction Guide
+title: DMT [[mescaline-extraction-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -17,7 +17,7 @@ This guide covers the extraction of DMT from plant material, primarily [[mimosa-
 
 ## The Chemistry
 
-DMT is a tryptamine base — meaning it is not soluble in water but is soluble in nonpolar solvents when in its freebase form. In its salt form (e.g., DMT citrate, DMT fumarate), it is water-soluble but not soluble in nonpolar solvents. This differential solubility is the basis of all extraction methods.
+DMT is a tryptamine base — meaning it is not soluble in water but is soluble in nonpolar solvents when in its freebase form. In its salt form (e.g., DMT citrate, DMT fumarate), it is water-soluble but not soluble in nonpolar solvents. This differential solubility is the basis of all [[arbuscular-mycorrhizal-spore-extraction-methods]].
 
 ### Key Concepts
 - **Freebase DMT**: Nonpolar, soluble in naphtha, insoluble in water, vaporizes at ~60°C
@@ -34,13 +34,13 @@ DMT is a tryptamine base — meaning it is not soluble in water but is soluble i
 
 ### Other Sources
 - **Acacia species** (A. confusa, A. obtusifolia, A. phlebophylla) — Australian and Asian acacias, variable DMT content
-- **Psychotria viridis** — DMT in leaves (0.1–0.6%), used in ayahuasca
-- **Desmanthus illinoensis** — Illinois bundleflower, root bark contains DMT
+- **[[chacruna-psychotria-viridis]]** — DMT in leaves (0.1–0.6%), used in ayahuasca
+- **[[desmanthus-illinoensis]]** — Illinois bundleflower, root bark contains DMT
 - **Phalaris species** — grasses containing DMT and 5-MeO-DMT, also contain toxic gramine
 
 ## STB (Straight-to-Base) Tek
 
-The Straight-to-Base method is the simplest and most popular extraction technique. It skips the initial acid extraction step of A/B (acid-base) extraction.
+The Straight-to-Base method is the simplest and most popular [[psilocybin-methyl-alcohol-extraction-technique]]. It skips the initial acid extraction step of A/B (acid-base) extraction.
 
 ### Materials Needed
 - Mimosa hostilis root bark: 50–200 g
@@ -129,7 +129,7 @@ Some plant sources (particularly acacia species) contain significant amounts of 
 - DMT is a powerful psychedelic — even small amounts produce overwhelming experiences
 - A sitter is essential when using DMT
 - DMT is a Schedule I controlled substance in the US and many other countries — see [[psychedelic-plants-legal-status]]
-- See [[ayahuasca-brewing-guide]] for traditional oral DMT preparation methods
+- See [[ayahuasca-brewing-guide]] for traditional oral DMT [[amanita-muscaria-preparation-methods]]
 - See [[harmala-alkaloids]] for MAOI information needed for oral DMT activity
 
 ## Related Topics

@@ -21,7 +21,7 @@ sources:
 
 **Forsythia suspensa** (Thunb.) Vahl, commonly known as weeping forsythia or golden-bell, is a deciduous flowering shrub in the family Oleaceae. It is native to China, Korea, and Japan, where it has been cultivated for centuries as both an ornamental and medicinal plant.
 
-The species is celebrated for its abundant bright yellow flowers that appear in early spring before foliage emergence. The arching, weeping habit of mature stems creates a cascading floral display that has made it one of the most widely planted spring-flowering shrubs in temperate gardens worldwide.
+The species is celebrated for its abundant bright yellow flowers that appear in [[coleman-overwintered-onions-and-early-spring-crops]] before foliage emergence. The arching, weeping habit of mature stems creates a cascading floral display that has made it one of the most widely planted spring-flowering shrubs in temperate gardens worldwide.
 
 In traditional Chinese medicine, the dried fruit (known as *Lian Qiao*) is one of the 50 fundamental herbs. It is prescribed for infections, inflammation, and fever in numerous classical and modern formulations.
 
@@ -51,17 +51,17 @@ Naturalized populations exist in Europe and [[dighton-fungal-drought-tolerance-p
 
 ## Cultivation
 
-Forsythia suspensa is one of the easiest ornamental shrubs to cultivate, tolerating a wide range of soil types, pH levels, and exposure conditions. It performs best in full sun with well-drained soil but tolerates partial shade and heavy clay.
+Forsythia suspensa is one of the easiest ornamental shrubs to cultivate, tolerating a wide range of soil types, pH levels, and exposure conditions. It performs best in full sun with well-drained soil but tolerates partial shade and [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]].
 
-Propagation is straightforward by softwood cuttings in early summer, hardwood cuttings in late autumn, or by simple layering of arching stems. Division of established clumps is also effective. Seed germination requires cold stratification of 1–3 months.
+Propagation is straightforward by softwood cuttings in early summer, hardwood cuttings in late autumn, or by simple layering of arching stems. Division of established clumps is also effective. [[cannabis-seed-germination]] requires cold stratification of 1–3 months.
 
 Pruning should be performed immediately after flowering, as flower buds form on the previous season's growth. Removal of one-quarter to one-third of the oldest stems at ground level each year maintains vigor and prevents legginess.
 
-The species is essentially free of serious [[cervantes-powdery-mildew-prevention-treatment]], crown gall, and leaf spot fungi, but these rarely require treatment in landscape settings.
+The species is essentially free of serious [[cervantes-powdery-mildew-prevention-treatment]], crown gall, and [[jadam-canker-leaf-spot-pesticide]] fungi, but these rarely require treatment in landscape settings.
 
 ## Traditional Medicine and Pharmacology
 
-The dried fruit of Forsythia suspensa, known as *Lian Qiao* in Chinese pharmacopeia, has been used medicinally for over 2,000 years. It first appeared in the *Shennong Ben Cao Jing* (Divine Farmer's Materia Medica) and remains one of the most commonly prescribed herbs in modern Chinese clinical practice.
+The dried fruit of Forsythia suspensa, known as *Lian Qiao* in Chinese pharmacopeia, has been used medicinally for over 2,000 years. It first appeared in the *Shennong Ben Cao Jing* (Divine Farmer's [[herbal-materia-medica]]) and remains one of the most commonly prescribed herbs in modern Chinese clinical practice.
 
 In the Chinese pharmacological classification, Lian Qiao is categorized as a heat-clearing and toxicity-resolving herb. It is sweet and slightly bitter in taste, cold in nature, and enters the lung, heart, and gallbladder meridians.
 

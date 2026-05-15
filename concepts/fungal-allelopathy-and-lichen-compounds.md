@@ -6,17 +6,17 @@ type: concept
 
 ## Overview
 
-Allelopathy — the interactive effect of one organism upon another by excretion of toxic metabolites — extends beyond plant-plant interactions to include fungal-mediated effects. Fungi influence allelopathic interactions both directly, through the production of inhibitory compounds (particularly by lichens), and indirectly, by modifying soil microbial communities that subsequently affect plant establishment, growth, and survival. Changes in soil fungal communities due to agricultural disturbance can themselves constitute a form of allelopathy, while fungal-induced increases in plant defense chemicals can reduce litter decomposition and mycorrhizal colonization.
+Allelopathy — the interactive effect of one organism upon another by excretion of toxic metabolites — extends beyond plant-plant interactions to include fungal-mediated effects. Fungi influence allelopathic interactions both directly, through the production of inhibitory compounds (particularly by lichens), and indirectly, by modifying [[endorhiza-rhizosphere-bulk-soil-microbial-communities]] that subsequently affect plant establishment, growth, and survival. Changes in soil fungal communities due to agricultural disturbance can themselves constitute a form of allelopathy, while fungal-induced increases in plant defense chemicals can reduce litter decomposition and mycorrhizal colonization.
 
 ## Lichen Allelopathy
 
 ### Inhibition of Seed Germination
 
-Lichens are particularly well known for containing plant-inhibitory substances. Brown and Mikola (1974) found that the foliose lichen Cladonia cristatella significantly inhibited germination of seeds from a number of plant species. Multiple Cladonia species were shown to reduce the growth of both saprotrophic and ectomycorrhizal fungi, potentially reducing mycorrhizal efficacy, although this reduction was not correlated with reduced phosphorus uptake by the plants.
+Lichens are particularly well known for containing plant-inhibitory substances. Brown and Mikola (1974) found that the foliose lichen [[cladonia-cristatella]] significantly inhibited germination of seeds from a number of plant species. Multiple Cladonia species were shown to reduce the growth of both saprotrophic and ectomycorrhizal fungi, potentially reducing mycorrhizal efficacy, although this reduction was not correlated with reduced phosphorus uptake by the plants.
 
 ### Effects on Tree Seedling Growth and Survival
 
-The addition of Cladonia alpestris to the soil surface significantly reduced growth and survival of pine and spruce seedlings in a tree nursery, but had little effect on birch growth or survival:
+The addition of [[cladonia-alpestris]] to the soil surface significantly reduced growth and survival of pine and spruce seedlings in a tree nursery, but had little effect on birch growth or survival:
 
 | Tree Species | Height with Cladonia (cm) | Survival with Cladonia (%) | Height Control (cm) | Survival Control (%) |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ Nitrogen and phosphorus content were both reduced, with phosphorus more severely
 
 Lawrey (1986, 1989) made acetone extracts from lichen species that were readily eaten by the slug Pallifera varia (Aspicilia gibbosa, Lasallia papulosa) and from lichens avoided by the slug (Flavoparmelia baltimorensis, Xanthoparmelia cumberlandia). The extracts were tested against bacterial cultures:
 
-- Lichens avoided by the herbivore had the greatest antagonistic effects against Bacillus megaterium, B. subtilis, and Staphylococcus aureus
+- Lichens avoided by the herbivore had the greatest antagonistic effects against [[bacillus-megaterium]], B. subtilis, and Staphylococcus aureus
 - Growth of Escherichia coli and Pseudomonas aeruginosa was unaffected by any lichen extract
 - Controlled experiments confirmed that vulpinic, usnic, and stictic acids reduced growth of susceptible bacterial species
 
@@ -92,7 +92,7 @@ Golovko (1999) compared virgin cereal-meadow steppes of chernozem soils in the M
 
 ### Phytotoxic Effects of Disturbance-Associated Fungi
 
-Using cress as a bioassay plant, Golovko (1999) showed that many fungi associated with highly disturbed sites inhibited plant growth. Notably, Aspergillus fumigatus completely inhibited cress growth. Along with changes in polyphenols in soil, changes in the fungal and bacterial communities were identified as causal agents of allelopathy.
+Using cress as a bioassay plant, Golovko (1999) showed that many fungi associated with highly disturbed sites inhibited plant growth. Notably, [[aspergillus-fumigatus]] completely inhibited cress growth. Along with changes in polyphenols in soil, changes in the fungal and [[cannabis-endorhiza-bacterial-communities]] were identified as causal agents of allelopathy.
 
 This finding has significant implications for agriculture: continuous cultivation may select for microfungal communities that are inherently inhibitory to plant growth, contributing to yield decline over time independent of nutrient depletion.
 
@@ -119,7 +119,7 @@ The allelopathic effects mediated by fungi operate at multiple scales:
 3. **Defense chemical cascades**: Fungal pathogens induce plant polyphenol production that inhibits decomposition and mycorrhizal function
 4. **Mycorrhizal interference**: Allelopathic lichen compounds can reduce ectomycorrhizal fungal growth, indirectly affecting plant nutrient acquisition
 
-The actual effects of allelopathic chemicals in natural ecosystems, their frequency of occurrence, and their interactions with other organisms have not been clearly resolved. Key remaining questions include how important these chemicals are in regulating ecosystem processes, altering plant community composition, and affecting fungal community composition across all functional groups.
+The actual effects of allelopathic chemicals in natural ecosystems, their frequency of occurrence, and their interactions with other organisms have not been clearly resolved. Key remaining questions include how important these chemicals are in regulating ecosystem processes, altering [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]], and affecting fungal community composition across all functional groups.
 ## See also
 
 - [[fungal-adaptations-environmental-gradients]]

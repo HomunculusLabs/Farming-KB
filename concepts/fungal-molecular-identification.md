@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 # Fungal Molecular Identification Molecular methods have revolutionized fungal identification, taxonomy, and diversity assessment. DNA-based approaches overcome many limitations of traditional morphological identification, particularly for fungi that are difficult or impossible to culture, that lack distinctive reproductive structures, or that exist only in environmental samples. These tools have become essential for fungal molecular identification, for resolving [[rapd-molecular-marker-techniques-fungi]] system for fungi. The nuclear ribosomal repeat unit contains several regions with varying evolutionary rates:
 

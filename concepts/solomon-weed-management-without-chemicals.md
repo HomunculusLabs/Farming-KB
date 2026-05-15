@@ -65,7 +65,7 @@ spring, a lot more of them sprout. But before they have a chance to get
 large, you dig again and kill them off wholesale.
 
 This is one of the great advantages of [[coleman-preemergence-flaming-weed-control]] far easier. Because the rows are so far apart in his
-recommended extensive spacing system, hoeing weeds is simple. He grew
+recommended [[solomon-intensive-vs-extensive-spacing]] system, hoeing weeds is simple. He grew
 his [[solomon-wide-spacing-versus-intensive-gardening-debate]] and during the main growing
 season, when weeds were growing their fastest, he kept a half acre
 weed-free with only one short morning's hoeing each week.
@@ -80,7 +80,7 @@ this one you can yank out by hand. This natural suppression means that
 ## Overview
 
 Solomon Weed Management Without Chemicals represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,14 +94,14 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving solomon extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
 ## Practical Applications
 
 Solomon Weed Management Without Chemicals finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,13 +109,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for solomon weed management without chemicals. Climate adaptation
+opportunities for solomon weed management without chemicals. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 solomon weed management without chemicals and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

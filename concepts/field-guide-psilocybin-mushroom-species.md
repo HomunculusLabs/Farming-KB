@@ -1,5 +1,5 @@
 ---
-title: Field Guide to Psilocybin Mushroom Species
+title: Field Guide to [[emcdda-psilocybin-mushroom-species-and-identification]]
 source: field-guide-to-the-psilocybin-mushroom.md
 type: concept
 ---
@@ -8,19 +8,19 @@ type: concept
 
 ## Overview
 
-This guide covers the identification, habitat, and characteristics of the three most common psilocybin-containing mushroom species found in the southern United States, as documented in F.C. Ghouled's 1972 *Field Guide to the Psilocybin Mushroom*. Over 16 species of psilocybin mushrooms exist, but only a few are common enough to warrant focused study by the interested mycologist.
+This guide covers the identification, habitat, and characteristics of the three most common psilocybin-containing mushroom species found in the southern United States, as documented in F.C. Ghouled's 1972 *Field Guide to the Psilocybin Mushroom*. Over 16 species of [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] exist, but only a few are common enough to warrant focused study by the interested mycologist.
 
 ## The Three Common Southern Species
 
 | Species | Primary Habitat | Geographic Range |
 |---|---|---|
 | *Psilocybe cubensis* | Cow/manure | Southern US coast to coast |
-| *Panaeolus subbalteatus* | Cow/manure | Southern US, ~12% as common as *P. cubensis* |
-| *Psilocybe caerulescens* | Stream/river banks | Throughout southern US |
+| *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* | Cow/manure | Southern US, ~12% as common as *P. cubensis* |
+| *[[psilocybe-caerulescens]]* | Stream/river banks | Throughout southern US |
 
 ## Active Compounds
 
-All psilocybin mushrooms contain the same two primary psychoactive alkaloids — **psilocybin** and **psilocin** — though in varying concentrations between species. The experience is essentially similar across species, with some variation noted in rarer varieties. Eight alkaloids total are present in the chemical structure; six are mildly toxic (causing slight queasiness), while psilocybin and psilocin are the desired compounds.
+All psilocybin mushrooms contain the same two primary psychoactive alkaloids — **psilocybin** and **psilocin** — though in varying concentrations between species. The experience is essentially similar across species, with some variation noted in rarer varieties. Eight alkaloids total are present in the chemical structure; six are mildly toxic (causing slight queasiness), while [[hplc-analysis-of-psilocybin-and-psilocin]] are the desired compounds.
 
 ## General Hunting Conditions
 
@@ -115,7 +115,7 @@ Distinctive habitat preference for riparian zones.
 - **Typical dose**: 4–6 dried mushrooms
 - **Alkaloid content**: Approximately 2mg of psilocybin/psilocin per dry gram
 - **Stem vs. cap**: Both contain similar concentrations of active compounds
-- **Traditional dose**: Indigenous Mexican practitioners consume 30–40 specimens per ceremony
+- **Traditional dose**: [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] practitioners consume 30–40 specimens per ceremony
 - **Dose effect**: Increasing dosage **intensifies** rather than prolongs the experience
 
 ## Safety Warnings

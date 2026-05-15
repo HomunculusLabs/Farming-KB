@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Fungal endophytes are not restricted to grass species and agricultural crops. Wilson (2000) reviewed endophytes of woody plants and demonstrated similarities in their effects on host plants to those documented in grasses. Beyond endophytes, nematophagous fungi represent another class of fungi that regulate animal populations through more subtle interactions than outright pathogenicity — by trapping and killing free-living nematodes in soil, including those with pathogenic stages as intestinal parasites of ruminant animals.
+[[fungal-endophytes]] are not restricted to grass species and agricultural crops. Wilson (2000) reviewed endophytes of woody plants and demonstrated similarities in their effects on host plants to those documented in grasses. Beyond endophytes, nematophagous fungi represent another class of fungi that regulate animal populations through more subtle interactions than outright pathogenicity — by trapping and killing free-living nematodes in soil, including those with pathogenic stages as intestinal parasites of ruminant animals.
 
 ## Endophytes in Woody Plants
 
@@ -92,7 +92,7 @@ Beyond trapping fungi, other fungi parasitize nematode eggs and females:
 
 - **Viaene and Abawi (1998)**: Arthrobotrys and Monacrosporium reduced populations of juvenile Meloidogyne nematodes; Fusarium, Verticillium, and Alternaria parasitized nematode egg masses
 - **Kerry (1988)**: Approximately 150 fungal species were found to parasitize female nematodes and eggs, including Nematophthora gynophila and Verticillium chlamydosporium controlling cereal cyst nematode populations
-- **Elsen et al. (2001)**: Arbuscular mycorrhizal fungi significantly reduced populations of the burrowing nematode Radopholus similis, with the major effect on females — suggesting potential long-term population regulation through reduced fecundity
+- **Elsen et al. (2001)**: [[arbuscular-mycorrhizal-fungi]] significantly reduced populations of the burrowing nematode Radopholus similis, with the major effect on females — suggesting potential long-term population regulation through reduced fecundity
 
 ## Nematicidal Basidiomycetes
 

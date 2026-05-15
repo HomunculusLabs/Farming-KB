@@ -52,7 +52,7 @@ in terms of biomass accumulation.
 As the canopy closes and light conditions change beneath, shade-tolerant species
 become established. The [[mollison-wet-tropical-forest-structure-and-polyculture]] becomes more complex with distinct layers.
 Most plants in a mature forest are still growing and competing, but the system is
-stabilizing. Nutrient cycling becomes more efficient as the soil food web matures.
+stabilizing. Nutrient cycling becomes more efficient as [[the-soil-food-web]] matures.
 
 ### Stage 5: Climax Forest
 

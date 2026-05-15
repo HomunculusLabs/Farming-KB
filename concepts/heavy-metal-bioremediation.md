@@ -133,8 +133,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[heavy-metal-biosorption]]
-- [[oner-peptide-limestone-city-seeds-heavy-duty-fruity-sweet-tooth-durban-poison]]
-- [[singh-fungal-biosorption-heavy-metals]]
-- [[singh-fungal-biosorption-reactors-heavy-metals]]
-- [[trace-elements-heavy-metals-permaculture]]
+- [[heavy-metal-tolerant-fungi-contaminated-soils]]
+- [[heavy-metals-and-fungal-saprotrophy]]
+- [[heavy-metals-aquatic-marine-fungi]]

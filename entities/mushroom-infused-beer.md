@@ -9,7 +9,7 @@ tags: [beverage, brewing, medicinal, extraction, fermentation]
 
 ## Description
 
-Mushroom-infused beer (also called mycobrew or medicinal mushroom beer) is an alcoholic beverage that incorporates mushrooms or mushroom extracts into the traditional beer brewing process. The practice combines the health benefits of [[medicinal-mushroom-compounds]]—such as [[beta-glucans]], triterpenes, and polysaccharides—with the flavor complexity and cultural appeal of craft beer. Tradd Cotter pioneered the commercial concept with an international debut at the 2012 Telluride Mushroom Festival ("Shroomfest") in Colorado, where 240 gallons sold out in under 48 hours.
+Mushroom-infused beer (also called mycobrew or medicinal mushroom beer) is an alcoholic beverage that incorporates mushrooms or mushroom extracts into the traditional beer brewing process. The practice combines the health benefits of [[medicinal-mushroom-compounds]]—such as [[beta-glucans]], triterpenes, and polysaccharides—with the flavor complexity and cultural appeal of craft beer. Tradd Cotter pioneered the commercial concept with an international debut at the 2012 [[telluride-mushroom-festival-modern-mycological-culture]] ("Shroomfest") in Colorado, where 240 gallons sold out in under 48 hours.
 
 ## Classification
 
@@ -24,7 +24,7 @@ Mushroom-infused beer (also called mycobrew or medicinal mushroom beer) is an al
 
 Mushrooms can be incorporated into beer at several stages:
 
-1. **Grain mash addition:** Adding fresh, dried, or powdered mushrooms to the grain and mash. Extracts flavors, bitterness, and water-soluble medicinal compounds during the cook at approximately 160°F (71°C).
+1. **Grain mash addition:** Adding fresh, dried, or powdered mushrooms to the grain and mash. Extracts flavors, bitterness, and water-soluble [[cotter-mushroom-nutrition-medicinal-compounds]] during the cook at approximately 160°F (71°C).
 
 2. **"Dry shrooming":** The mushroom equivalent of dry hopping—adding powder or whole dried fruitbodies to the fermentation container alongside hops. Imparts complex aromas, unique flavors, and varied bitterness depths depending on species.
 
@@ -44,7 +44,7 @@ Choosing a mushroom for brewing involves balancing five factors:
 
 **Aroma:** Many mushrooms contain aromatic essential oils that mix with hop oils. Birch polypore is noted for vibrantly aromatic oils. Consider the combined olfactory experience.
 
-**Medicinal Properties:** Reishi and shiitake are primary medicinal brewing species. Beer serves as an effective delivery system for extracts.
+**[[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]:** Reishi and shiitake are primary medicinal brewing species. Beer serves as an effective delivery system for extracts.
 
 **Bitterness:** Polypores are naturally "hoppy" and can partially or entirely substitute for hops. Tylopilus species are extremely bitter—use sparingly. Test bitterness by chewing a fresh specimen for 60 seconds.
 
@@ -54,7 +54,7 @@ Choosing a mushroom for brewing involves balancing five factors:
 
 **Turkey Tail Ale** (golden pale ale)
 - 6 lb extra-light malted grain
-- 4 oz fresh or 2 oz dried turkey tail (Trametes versicolor)
+- 4 oz fresh or 2 oz dried turkey tail ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]])
 - 1 oz hops, ale yeast
 
 **Iceman Amber** (amber ale)
@@ -91,7 +91,7 @@ Quality brewing inputs are essential:
 
 - **Yeast:** Use pure cultures from reliable suppliers; liquid yeast preferred for quick delivery, dry yeast for remote locations. Maintain yeast cultures using same principles as mushroom cultures—keep masters and backups, alternate media to prevent strain senescence.
 - **Grains:** Organic malted grains recommended despite higher cost. Can source from local brewing companies.
-- **Hops:** Organic hops are expensive due to powdery mildew vulnerability. Growing your own from rhizomes is cost-effective. Use beneficial insects (ladybugs, predatory mites) and organic fungicides (liquid copper) for disease management.
+- **Hops:** Organic hops are expensive due to powdery mildew vulnerability. Growing your own from rhizomes is cost-effective. Use [[beneficial-insects-and-biological-pest-control]] (ladybugs, predatory mites) and organic fungicides (liquid copper) for disease management.
 
 ## Relevance to Cultivation and Mycology
 
@@ -115,5 +115,5 @@ The infusion concept extends beyond beer:
 - mushroom extracts - preparation methods for brewing additives
 - reishi - primary medicinal brewing mushroom
 - trametes versicolor - turkey tail, used in pale ale
-- [[piptoporus-betulinus]] - birch polypore, aromatic brewing ingredient
+- [[piptoporus-betulinus]] - birch polypore, aromatic [[ingham-molasses-brewing-ingredient-science]]
 - [[laricifomes-officinalis]] - agarikon, rare medicinal stout ingredient

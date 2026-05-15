@@ -35,7 +35,7 @@ homes consumed surrounding wheat fields and dairy farms. An untended
 apple orchard belonging to a village milkman named Mr. Bloomfield
 bordered his home, its dying trees consumed by bitter rot, black rot,
 blossom end rot, canker, rust, [[spore-dispersal]], [[bloomfield-history-of-mycology-pioneers]]. Each chapter profiles notable figures in the field,
-including A. H. R. Buller, Curtis Gates Lloyd, Cecil Terence Ingold,
+including A. H. R. Buller, [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]], Cecil Terence Ingold,
 and John Webster.
 
 The book is notable for its accessible prose and willingness to tackle
@@ -75,8 +75,8 @@ on fungal biology for both specialist and general readers.
 
 ## Overview
 
-Nicholas Money Mycologist represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[nicholas-money]] Mycologist represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Nicholas Money Mycologist finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,13 +105,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for nicholas money mycologist. Climate adaptation
+opportunities for nicholas money mycologist. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 nicholas money mycologist and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

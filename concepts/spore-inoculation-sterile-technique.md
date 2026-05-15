@@ -45,7 +45,7 @@ transferred to fresh plates for isolation of specific strains.
 
 The most frequent [[green-grow-room-environment]], contaminated water, and poor-quality spore
 prints or syringes. Working quickly but carefully, pre-sterilizing the work
-area with 70 percent isopropyl alcohol, and minimizing the time containers
+area with 70 percent [[isopropyl-alcohol]], and minimizing the time containers
 are open all help reduce contamination rates.
 
 ## Post-Inoculation Care
@@ -77,7 +77,7 @@ disturbance and significantly reduces contamination risk during the procedure.
 ## Overview
 
 Spore Inoculation Sterile Technique represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Spore Inoculation Sterile Technique finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,13 +106,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for spore inoculation sterile technique. Climate adaptation
+opportunities for spore inoculation sterile technique. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 spore inoculation sterile technique and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

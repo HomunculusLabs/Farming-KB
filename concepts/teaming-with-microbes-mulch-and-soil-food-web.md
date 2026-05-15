@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags: [mulch, soil-food-web, decomposition, organic-matter]
-sources: []
+sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
 # Mulch and the Soil Food Web

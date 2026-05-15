@@ -1,5 +1,5 @@
 ---
-title: "One-Carbon Metabolism vs one carbon metabolism vs glutathione redox biology Biology"
+title: "One-Carbon Metabolism vs [[one-carbon-metabolism]] vs glutathione redox biology Biology"
 aliases: query-how-does-one-carbon-metabolism-affect-methylation vs glutathione, methylation vs redox metabolism, folate metabolism and glutathione]
 tags: [comparison, biochemistry, metabolism, nutrition, redox-biology]
 created: 2026-05-02
@@ -42,7 +42,7 @@ Vitamin B6 supports transsulfuration, which connects one-carbon metabolism to cy
 Riboflavin supports MTHFR because that enzyme uses a flavin cofactor.
 Glutathione biology depends on cysteine, glutamate, glycine, selenium-containing glutathione peroxidases, NADPH production, and overall [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], inflammatory stress, or high detoxification demand.
 It protects membranes, enzymes, mitochondrial components, and DNA from oxidative injury.
-It also participates in phase II metabolism by conjugating reactive compounds through glutathione S-transferases.
+It also participates in [[phase-ii-metabolism]] by conjugating reactive compounds through glutathione S-transferases.
 In short, one-carbon metabolism is strongly biosynthetic and regulatory, while glutathione metabolism is strongly protective and redox-buffering.
 
 ## Where They Intersect
@@ -51,7 +51,7 @@ The intersection begins with homocysteine.
 Homocysteine can be remethylated to methionine or diverted through transsulfuration toward cysteine.
 When methyl donor status is sufficient, SAM can activate cystathionine beta-synthase and encourage homocysteine disposal through transsulfuration.
 That transsulfuration flux can support cysteine production and therefore glutathione synthesis.
-Oxidative stress can increase demand for glutathione and draw sulfur amino acid metabolism toward defense.
+[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] can increase demand for glutathione and draw sulfur [[cho-fish-amino-acid-preparation]] metabolism toward defense.
 Folate or B12 deficiency may raise homocysteine and disturb both methylation potential and sulfur flow.
 The systems therefore compete and cooperate through shared intermediates rather than acting as separate modules.
 
@@ -68,7 +68,7 @@ No single marker captures either network completely because flux, compartmentati
 
 Antifolate drugs such as methotrexate primarily target one-carbon metabolism by limiting reduced folate pools and nucleotide synthesis.
 Fluoropyrimidine chemotherapy disrupts thymidylate synthesis, another one-carbon-dependent process.
-Nitrous oxide can impair B12-dependent methionine synthase and acutely disturb methylation and homocysteine metabolism.
+[[nitrous-oxide]] can impair B12-dependent methionine synthase and acutely disturb methylation and homocysteine metabolism.
 Glutathione is central to detoxification of electrophilic drugs and toxic metabolites.
 Acetaminophen toxicity is a classic example in which glutathione depletion allows a reactive metabolite to damage liver cells.
 Some cancer cells rely on both high one-carbon flux and high antioxidant capacity, making the two systems relevant to therapy resistance.

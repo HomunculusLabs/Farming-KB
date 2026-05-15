@@ -42,14 +42,14 @@ The underground development of cicada nymphs is governed by the avai [[dighton-f
 Not all periodical cicada broods are secure. Several historical broods
 have gone extinct or are in decline. Brood XI, last recorded in 1954
 in the Connecticut River Valley, is now considered extinct, likely due
-to habitat loss from agricultural development and urbanization. Brood
+to habitat loss from [[fukuoka-critique-agricultural-development]] and urbanization. Brood
 VII in upstate New York has contracted significantly from its historical
 range. Small, isolated broods are especially vulnerable because they
 cannot achieve effective predator satiation when population density
 drops below a critical threshold. Conservation concerns for periodical
 cicadas focus on preserving the mature forest habitats that support
 dense nymphal populations, as clearing forest canopy disrupts the soil
-temperature regimes and root systems that nymphs depend on during their
+[[desert-temperature-regimes-and-soil-chemistry]] root systems that nymphs depend on during their
 long underground development.
 
 ## Ecological Impact of Emergence Events
@@ -70,7 +70,7 @@ beneficial conditions for root growth and microbial activity.
 ## See Also
 
 - [[comparison-cicadas-vs-locusts]]
-- cicadas biology ecology and cultural significance
+- [[cicadas-biology-ecology-and-cultural-significance]] [[amanita-mushrooms-history-chemistry-and-cultural-significance]]
 
 ## Overview
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Query Why Do Periodical Cicadas Emerge In 13 And 17 Year Cycles finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 query why do periodical cicadas emerge in 13 and 17 year cycles and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,6 +1,6 @@
 ---
-title: Sunlight Geometry and Day Length for Winter Greenhouse Production
-source: The Winter Harvest Handbook, Eliot Coleman, Chapter 5
+title: Sunlight Geometry and Day Length for [[economics-of-winter-greenhouse-production]]
+source: The [[winter-harvest-handbook-guide]], Eliot Coleman, Chapter 5
 tags:
   - winter-harvest
   - greenhouse
@@ -22,7 +22,7 @@ the northeastern United States is significantly stronger and available for
 longer each day than in southern Europe, despite the dramatic temperature
 differences that separate these paired cities.
 
-The distinction matters enormously for vegetable production. Winter cold in
+The distinction matters enormously for [[coleman-french-historical-winter-vegetable-production]]. Winter cold in
 Maine is a function of continental air masses and the absence of a moderating
 ocean current, not of solar deprivation. The sun provides more than enough
 energy for cold-hardy crops to survive and grow slowly during the depths of
@@ -54,7 +54,7 @@ greens such as spinach, lettuce, mâche, and claytonia are the primary crops
 during this period because their harvestable portion is already present; the
 grower is cutting a living storage crop rather than harvesting new growth.
 
-This dynamic has profound implications for planting schedules. Winter-harvested
+This dynamic has profound implications for [[fall-winter-planting-schedules]]. Winter-harvested
 crops must be planted early enough in the fall to reach near-maturity before
 the Persephone months begin. Coleman typically seeds his winter greens in
 September and early October, giving them six to eight weeks of active growth
@@ -89,7 +89,7 @@ By contrast, most of the continental United States lies between 30°N and 48°N,
 receiving significantly more midwinter solar energy. Even Minneapolis (45°N)
 and Seattle (47.5°N) receive more usable winter sunlight than London.
 
-This geographic reality explains why British gardening literature emphasizes
+This geographic reality explains why British [[historical-intensive-gardening-literature]] emphasizes
 winter protection more heavily than American sources. The British challenge is
 fundamentally different: less total solar energy means slower recovery after
 cold snaps. American growers, particularly in the 35°N to 45°N band, have a
@@ -114,7 +114,7 @@ angle at midwinter noon in Maine is roughly 22° above the horizon, compared to
 glazing perform far better than tall structures designed for summer ventilation.
 
 Perhaps the most liberating insight is Coleman's dismissal of supplementary
-artificial lighting. During the Persephone months the limiting factor is
+[[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]. During the Persephone months the limiting factor is
 temperature, not light. Before and after the Persephone months, natural day
 length is sufficient. Supplemental lighting adds cost and energy consumption
 without meaningful benefit for cold-hardy vegetable production.

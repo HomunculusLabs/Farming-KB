@@ -13,10 +13,10 @@ created: 2026-05-10
 Africa represents one of the most significant gaps in the documented
 [[panaeolus-africanus]]*** — Described by Olah from African material
 - ***Copelandia* spp.** — Various tropical *Copelandia* species likely
-  occur in sub-Saharan Africa given their pantropical distribution
+  occur in sub-Saharan Africa given their [[copelandia-cyanescens-pantropical-distribution-and-ecology]]
 - ***Amanita muscaria*** — Introduced to Africa (Tanzania) in pine
   plantations (Härkönen, 1995; Härkönen et al., 1994), where it forms
-  mycorrhizal associations with planted *Pinus* species
+  [[plants-without-mycorrhizal-associations]] with planted *Pinus* species
 - ***Gymnopilus* spp.** — Several neurotropic species of this genus have
   tropical and subtropical distributions that likely extend into Africa
 
@@ -32,7 +32,7 @@ chemical frameworks.
 Samorini (personal communication cited by Guzmán) suggested that neurotropic
 fungi may have been used traditionally in Africa, though concrete
 documentation is extremely scarce. The Yoruba name for *C. molybdites*
-provides one tantalizing hint of indigenous psychoactive mushroom knowledge,
+provides one tantalizing hint of indigenous [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] knowledge,
 but systematic ethnobotanical studies of African fungal use remain virtually
 nonexistent.
 
@@ -73,7 +73,7 @@ Urgent needs for advancing knowledge of African neurotropic fungi:
 
 ## Overview
 
-Neurotropic Fungi Africa Underexplored Diversity Guzman 1998 represents an important element within sustainable
+[[guzman-allen-gartz-neurotropic-fungi-africa]] Underexplored Diversity Guzman 1998 represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Neurotropic Fungi Africa Underexplored Diversity Guzman 1998 finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 neurotropic fungi africa underexplored diversity guzman 1998 and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

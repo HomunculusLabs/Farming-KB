@@ -1,5 +1,5 @@
 ---
-title: "Bwiti Iboga Ceremonies: Ancestor Communication and Addiction Treatment"
+title: "Bwiti Iboga Ceremonies: Ancestor Communication [[psilocybin-and-addiction-treatment]]"
 created: 2026-04-28
 tags:
   - iboga
@@ -57,7 +57,7 @@ The ceremonies involve both chanting and dancing, placing them in a
 midpoint between the purely shamanic model of individual healing and
 the syncretic religious model of group worship. The temple setting,
 officiating priests, and organized structure align the Bwiti with
-Metzner's third paradigm of syncretic folk religious ceremonies,
+Metzner's third paradigm of [[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]] ceremonies,
 while the emphasis on individual initiation and death-rebirth
 experience connects it to the second paradigm of shamanic healing.
 
@@ -65,7 +65,7 @@ experience connects it to the second paradigm of shamanic healing.
 
 Central to the [[metzner-psychedelic-psychotherapy-clinical-history]], the near-death experiences in
 Amazonian shamanic initiation, and the symbolic [[allegro-death-and-resurrection-in-the-mushroom-cult]] in
-the Native American Church peyote ceremony all reflect this universal
+the [[native-american-church]] peyote ceremony all reflect this universal
 pattern of ego-dissolution followed by reconstruction at a higher level
 of integration.
 
@@ -79,7 +79,7 @@ as a chemical antidote to addiction. Research by Lotsof (1995) and others
 ## Overview
 
 Metzner Bwiti Iboga Ceremonies Ancestor Communication And Addiction represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Metzner Bwiti Iboga Ceremonies Ancestor Communication And Addiction finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -108,7 +108,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 metzner bwiti iboga ceremonies ancestor communication and addiction and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

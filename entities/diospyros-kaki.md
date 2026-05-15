@@ -11,9 +11,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Morton, J. (1987). "Persimmon." In: Fruits of Warm Climates. Julia F. Morton, Miami, FL.
-  - Giordani, E. et al. (2010). "Japanese Persimmon (Diospyros kaki Thunb.) Fruit: Nutritional and Medicinal Properties." Journal of Berry Research, 1(2), 97–110.
+  - Giordani, E. et al. (2010). "Japanese Persimmon (Diospyros kaki Thunb.) Fruit: Nutritional [[ginseng-cultivation-and-medicinal-properties]]." Journal of Berry Research, 1(2), 97–110.
   - Novillo, P. et al. (2017). "Persimmon: A Review on Its Composition, Properties, and Uses." Food Reviews International, 33(5), 466–489.
-  - Yamada, M. (2005). "Persimmon Genetics and Breeding in Japan." Acta Horticulturae, 685, 51–64.
+  - Yamada, M. (2005). "Persimmon [[cannabis-genetics-and-breeding]] in Japan." Acta Horticulturae, 685, 51–64.
 ---
 
 # Diospyros kaki
@@ -24,7 +24,7 @@ Diospyros kaki, the Japanese persimmon or kaki, is a deciduous tree in the famil
 
 The fruit is notable for its high tannin content when unripe, producing an intense astringent sensation. Modern cultivars have been selected for non-astringent characteristics, making the fruit palatable when firm and crisp like an apple.
 
-China dominates global persimmon production with over 3 million tonnes annually, followed by South Korea, Japan, Brazil, and Spain. The fruit has gained popularity in Western markets as a specialty item in autumn and winter produce sections.
+China dominates global persimmon production with over 3 million tonnes annually, followed by South Korea, Japan, Brazil, and Spain. The fruit has gained popularity in Western markets as a specialty item in autumn and [[marketing-economics-small-scale-winter-produce]] sections.
 
 ## Taxonomy and Morphology
 
@@ -46,9 +46,9 @@ Diospyros kaki is native to China, where wild populations persist in mountainous
 
 It was introduced to Japan around the 7th century CE and became one of the country's most important traditional fruits. From East Asia, cultivation spread to Korea, the Mediterranean, California, Brazil, and New Zealand.
 
-The tree is hardy to approximately -15°C when dormant, making it adaptable to temperate climates beyond its subtropical origin. It performs best in regions with warm summers, moderate winters, and 800–1,200 mm of annual rainfall.
+The tree is hardy to approximately -15°C when dormant, making it adaptable to [[fukuoka-natural-farming-temperate-climates]] beyond its subtropical origin. It performs best in regions with warm summers, moderate winters, and 800–1,200 mm of annual rainfall.
 
-Well-drained loam soils with pH 5.5–7.0 are optimal, though the tree tolerates a range of soil conditions. It is relatively drought-tolerant once established but produces larger fruit with consistent irrigation.
+Well-drained [[loam]] soils with pH 5.5–7.0 are optimal, though the tree tolerates a range of soil conditions. It is relatively drought-tolerant once established but produces larger fruit with consistent irrigation.
 
 Persimmon trees are relatively pest-free compared to other fruit crops, though scale insects, mealybugs, and persimmon psylla can affect production in some regions. The primary disease concern is persimmon crown gall caused by Agrobacterium tumefaciens.
 
@@ -68,11 +68,11 @@ Soluble dietary fiber content reaches 3.6 g per 100 g, with pectin as the predom
 
 Persimmon leaves are used in traditional East Asian herbal tea (kakinoha-cha in Japan), valued for their high vitamin C content and antioxidant properties. The leaves contain flavonoid glycosides including astragalin, quercitrin, and afzelin.
 
-Persimmon peel contains higher concentrations of bioactive compounds than the flesh, including condensed tannins and carotenoids. Food science research has explored persimmon peel as a source of natural food preservatives and functional food ingredients.
+Persimmon peel contains higher concentrations of [[cordyceps-cancer-bioactive-compounds]] than the flesh, including condensed tannins and carotenoids. Food science research has explored persimmon peel as a source of natural food preservatives and functional food ingredients.
 
 ## History and Cultural Significance
 
-Persimmon cultivation in China dates back to the Han Dynasty (206 BCE–220 CE), where the fruit was considered a symbol of joy and abundance. The fruit features prominently in Chinese poetry and traditional painting as an emblem of autumn.
+[[comparison-loquat-vs-persimmon-cultivation]] in China dates back to the Han Dynasty (206 BCE–220 CE), where the fruit was considered a symbol of joy and abundance. The fruit features prominently in Chinese poetry and traditional painting as an emblem of autumn.
 
 In Japan, dried persimmons (hoshigaki) are a traditional winter delicacy, produced by air-drying peeled fruit over 4–6 weeks. The natural crystallization of sugars on the surface creates a distinctive white frost prized in Japanese confectionery.
 

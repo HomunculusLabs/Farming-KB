@@ -145,6 +145,6 @@ As climate change accelerates glacial retreat worldwide, understanding the funga
 The glacial forefront model provides lessons for restoring vegetation on human-disturbed barren substrates such as mine tailings, volcanic deposits, and construction sites. Key principles include maintaining or introducing mycorrhizal inoculum, preserving habitat for dispersal vectors, and managing nutrient availability to match the successional stage of mycorrhizal fungal communities.
 ## See also
 
-- [[mycorrhizae-and-plant-succession]]
+- [[mycorrhizae-plant-succession]]
 - [[mycorrhizae-plant-succession-regulation]]
 - [[arbuscular-mycorrhizae]]

@@ -8,7 +8,7 @@ sources: []
 ---
 # MAPS (Multidisciplinary Association for Psychedelic Studies)
 
-MAPS is a nonprofit research and educational organization founded in 1986 by Rick Doblin, dedicated to developing medical, legal, and cultural contexts for people to benefit from the careful uses of psychedelics and marijuana. It is the leading organization funding and conducting [[psychedelic-therapy-set-and-setting]] for the therapeutic frameworks it employs.
+MAPS is a nonprofit research and educational organization founded in 1986 by Rick Doblin, dedicated to developing medical, legal, and cultural contexts for people to benefit from the careful uses of psychedelics and marijuana. It is the leading organization funding and conducting [[psychedelic-therapy-set-and-setting]] for the [[psychedelic-therapeutic-frameworks]] it employs.
 
 ## Mission and History
 
@@ -31,7 +31,7 @@ MAPS is a nonprofit research and educational organization founded in 1986 by Ric
 - FDA Breakthrough Therapy Designation granted in 2017
 
 ### Therapeutic Protocol
-The MAPS MDMA-assisted therapy protocol involves:
+The MAPS MDMA-assisted [[psychedelic-assisted-therapy-protocol]] involves:
 - Three preparatory sessions with a trained therapist pair (one male, one female)
 - Two to three MDMA-assisted sessions spaced one month apart
 - Doses typically 80-120 mg followed by a supplemental half-dose
@@ -75,7 +75,7 @@ communities, and systematic experimentation to build expertise.
 ## Overview
 
 Maps Multidisciplinary Association For Psychedelic Studies represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Maps Multidisciplinary Association For Psychedelic Studies finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,7 +104,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 maps multidisciplinary association for psychedelic studies and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

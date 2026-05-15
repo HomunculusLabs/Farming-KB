@@ -30,7 +30,7 @@ Arabidopsis has five phytochrome genes (PHYA-PHYE) with distinct roles:
 |---|---|---|
 | PHYA | Far-red continuous | Seedling de-etiolation, [[shade-avoidance-syndrome]], seed germination |
 | PHYC | Red | Modulates flowering time, interacts with PHYB |
-| PHYD | Red | Redundant with PHYB for shade avoidance |
+| PHYD | Red | Redundant with PHYB for [[phototropism-and-shade-avoidance]] |
 | PHYE | Red/far-red | Far-red high-irradiance responses |
 
 ### Phytochrome Responses
@@ -78,7 +78,7 @@ Phototropins are the photoreceptors specifically responsible for detecting the *
 ### Phototropin Types
 
 - **phot1**: Mediates phototropism under low to moderate blue light intensities
-- **phot2**: Activates at higher blue light intensities; mediates chloroplast avoidance response (moving chloroplasts to cell walls to reduce photodamage under intense light)
+- **phot2**: Activates at higher blue light intensities; mediates chloroplast [[ethylene-involvement-fungal-tropism-avoidance-response]] (moving chloroplasts to cell walls to reduce photodamage under intense light)
 
 ### Additional Phototropin Functions
 
@@ -92,7 +92,7 @@ A fourth class, UVR8, specifically detects UV-B radiation (280-315 nm). It is a 
 
 In nature, plants simultaneously receive signals from all photoreceptor classes. The developmental outcome depends on the integration of these signals:
 
-- **Full sunlight**: Red + blue + UV-B → compact growth, photosynthetic development, protective pigment production
+- **Full sunlight**: Red + blue + UV-B → [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], photosynthetic development, protective pigment production
 - **Canopy shade**: Far-red enriched, blue reduced → stem elongation, upward leaf movement, suppressed branching
 - **End of day**: Far-red enriched → phytochrome deactivation, preparation for dark period
 - **Dawn**: Red + blue → phytochrome activation, cryptochrome activation, phototropin activation, clock reset
@@ -101,7 +101,7 @@ In nature, plants simultaneously receive signals from all photoreceptor classes.
 
 Understanding plant photoreceptors directly informs grow light selection and lighting strategy:
 
-- **Red light (660 nm)**: Drives photosynthesis via chlorophyll absorption AND activates phytochrome — essential for vegetative growth and flowering trigger
+- **Red light (660 nm)**: Drives photosynthesis via chlorophyll absorption AND activates phytochrome — essential for [[cannabis-vegetative-growth-stage]] and flowering trigger
 - **Blue light (450 nm)**: Drives photosynthesis AND activates cryptochrome and phototropin — essential for compact growth, stomatal function, and phototropism
 - **Far-red (730 nm)**: Not useful for photosynthesis but critical for phytochrome regulation — end-of-day far-red can improve flowering and reduce inter-node stretching
 - **Full-spectrum LEDs** that include all these wavelengths more closely mimic natural light and support all photoreceptor pathways
@@ -110,8 +110,8 @@ Understanding plant photoreceptors directly informs grow light selection and lig
 ## Related Concepts
 
 - [[plant-phototropism-darwin-experiments]]
-- light spectrum grow lights photosynthesis
-- par ppfd light measurement grow lights
+- [[cannabis-light-spectrum-and-color-bands]] grow lights photosynthesis
+- par ppfd [[cervantes-light-measurement-meters]] grow lights
 
 ## See Also
 

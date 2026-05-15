@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The study of historical intensive gardening literature provides essential context for modern winter-harvest and year-round vegetable production. Many foundational techniques used today — including protected cultivation, intensive soil management, and [[succession-planting]] — were developed and refined by 19th and early 20th century European growers, particularly the French *maraîchers* (market gardeners) of Paris. [[eliot-coleman]]'s Winter Harvest Handbook draws extensively on this body of work, providing an annotated reading list that serves as both a scholarly resource and a practical guide for growers seeking to deepen their understanding of these time-tested methods.
+The study of historical intensive gardening literature provides essential context for modern winter-harvest and year-round vegetable production. Many foundational techniques used today — including [[coleman-protected-cultivation]], intensive soil management, and [[succession-planting]] — were developed and refined by 19th and early 20th century European growers, particularly the French *maraîchers* (market gardeners) of Paris. [[eliot-coleman]]'s [[eliot-coleman-and-the-winter-harvest-handbook]] draws extensively on this body of work, providing an annotated reading list that serves as both a scholarly resource and a practical guide for growers seeking to deepen their understanding of these time-tested methods.
 
 ## The French Intensive Tradition
 
@@ -25,7 +25,7 @@ The [[parisian-market-gardening]] system (*la culture maraîchère*) that develo
   A practical manual from a working French grower, providing firsthand documentation of the techniques and systems used in Parisian market gardens.
 
 - **Curé, J. — *Ma pratique de la culture maraîchère ordinaire et forcée***
-  Another practitioner's manual documenting both ordinary and forced (protected) cultivation techniques.
+  Another practitioner's manual documenting both ordinary and forced (protected) [[cannabis-sativa-indoor-cultivation-techniques]].
 
 - **Moreau, J.G., and Daverne, J.J. — *Manual pratique de la culture maraîchère de Paris***
   A comprehensive practical manual covering the full scope of Parisian market gardening practice.
@@ -37,7 +37,7 @@ The [[parisian-market-gardening]] system (*la culture maraîchère*) that develo
   A wonderfully written observational account of Parisian gardens, now available online through Google's digital library project. Robinson was instrumental in bringing French growing successes to English attention.
 
 - **Weathers, John — *French Market-Gardening* (London: John Murray, 1909)**
-  While not as complete as some other sources, this book is valuable because of Weathers' extensive experience. The introduction by William Robinson provides important historical context.
+  While not as complete as some other sources, this book is valuable because of Weathers' extensive experience. The introduction by [[william-robinson]] provides important [[ghouled-field-guide-historical-context]].
 
 ## British Market Gardening Literature
 
@@ -94,7 +94,7 @@ The annotated bibliography also includes modern technical works essential for wi
   Provides indispensable background on soil-fertility management and cultural techniques for both field and greenhouse vegetable growers. The information in The Winter Harvest Handbook complements and updates the winter-harvest chapters in this earlier work.
 
 - **Gerst, Jean-Jacques — *Légumes sous abris* (Paris: CTIFEL, 1993)**
-  Translating as "Vegetables Under Covers," this professional technical manual for French growers covers every possible vegetable and every imaginable combination of high tunnels, low tunnels, reflective covers, floating covers, and heated and unheated greenhouses. Written for more temperate climates than Maine, but no less valuable for its comprehensive coverage.
+  Translating as "Vegetables Under Covers," this professional technical manual for French growers covers every possible vegetable and every imaginable combination of high tunnels, low tunnels, reflective covers, floating covers, and heated and unheated greenhouses. Written for more [[fukuoka-natural-farming-temperate-climates]] than Maine, but no less valuable for its comprehensive coverage.
 
 - **Lawrence, William J.C. — *Science and the Glasshouse* (Edinburgh: Oliver and Boyd, 1948)**
   Lawrence is noted as a favorite old-time greenhouse writer because he was tireless in trying to pin down what worked, what didn't, and why. His experiments are engaging to read and his conclusions have great practical value. His earlier work, *Seed and Potting Composts* (1939), served as an indispensable guide for formulating potting mixes.

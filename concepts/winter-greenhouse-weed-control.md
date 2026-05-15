@@ -1,12 +1,12 @@
 ---
-title: Winter Greenhouse Weed Control
+title: [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] Weed Control
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Winter Greenhouse Weed Control
 
-Weed management in winter greenhouses demands a proactive, multi-layered approach. Eliot
+[[fukuoka-natural-weed-management]] in winter greenhouses demands a proactive, multi-layered approach. Eliot
 Coleman's system combines strict seed-bank prevention, pre-emergence flaming, and precise
 cultivating tools to keep greenhouse beds nearly weed-free through the cold months.
 
@@ -47,7 +47,7 @@ Proper timing separates a successful flaming pass from a wasted one (or worse, c
 damage):
 
 1. **Prepare the bed up to 2 weeks before sowing** the crop. Work the soil and create a
-   fine seedbed.
+   [[solomon-fine-seedbed-soil-tilth-clod-management-raking]].
 2. **Irrigate the area** to encourage weed seeds already in the soil to germinate.
 3. **Monitor weed emergence** and flame when a flush of weed seedlings appears but before
    the crop is sown or has emerged.
@@ -70,7 +70,7 @@ The goal is to **wilt** weeds, not burn them:
 
 A well-designed flamer improves effectiveness and fuel efficiency:
 
-- **Properly sized nozzles** ensure a consistent, even flame pattern across the bed width.
+- **Properly sized nozzles** ensure a consistent, even flame [[psilocin-accumulation-pattern-across-flushes]] the bed width.
 - A **hood** or shroud contains and directs the heat downward, reducing fuel waste and
   improving control.
 - A **height-adjustable roller** keeps the torch at the optimum distance from the soil
@@ -111,7 +111,7 @@ How you use the tools matters as much as which tools you use:
 ## Chickweed: The Principal Winter Greenhouse Weed
 
 Of all the weeds encountered in winter greenhouse production, **common chickweed**
-(*Stellaria media*) is the most troublesome. Chickweed is uniquely adapted to the cool,
+(*[[stellaria-media]]*) is the most troublesome. Chickweed is uniquely adapted to the cool,
 moist conditions inside a winter greenhouse:
 
 - It **germinates at very low temperatures** — well below the threshold of most other
@@ -137,7 +137,7 @@ Coleman's weed-control system works best when all elements are combined:
   winter greenhouse crops need.
 
 Consistency across all four layers produces beds that are nearly weed-free, reducing
-labor and competition for the winter harvest.
+labor and competition for [[eliot-coleman-and-the-winter-harvest-handbook]].
 ## See also
 
 - [[weed-control-in-winter-greenhouses]]

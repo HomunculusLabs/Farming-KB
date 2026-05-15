@@ -15,7 +15,7 @@ sources:
   - Ragan, M.A. & Glombitza, K.W. (1986). "Phlorotannins, brown algal polyphenols." In Round, F.E. & Chapman, D.J. (Eds.), Progress in Phycological Research, Vol. 4. Biopress.
   - Li, B. et al. (2017). "Fucoidan: structure and bioactivity." Molecules, 22(10), 1731.
   - Nielsen, M.M. et al. (2016). "Productivity of the bladder wrack Fucus vesiculosus in the western Baltic Sea." Marine Ecology Progress Series, 554, 67–78.
-  - Amsler, C.D. & Fairhead, V.A. (2006). "Defensive and sensory chemical ecology of brown algae." Advances in Botanical Research, 43, 1–91.
+  - Amsler, C.D. & Fairhead, V.A. (2006). "Defensive and sensory [[plant-volatile-communication-chemical-ecology]] of brown algae." Advances in Botanical Research, 43, 1–91.
 ---
 
 ## Overview
@@ -32,7 +32,7 @@ The species is a keystone organism of North Atlantic intertidal ecosystems, form
 
 **Fucus vesiculosus** Linnaeus was described in 1753 and is the type species of the genus *Fucus*. It belongs to the family Fucaceae within the order Fucales, class Phaeophyceae, phylum Ochrophyta.
 
-The thallus is dichotomously branched, reaching 30–100 cm in length, with a leathery, olive-green to dark brown texture. A prominent midrib runs the length of each branch, providing structural support.
+The thallus is dichotomously branched, reaching 30–100 cm in length, with a leathery, olive-green to dark brown texture. A prominent midrib runs the length of each branch, providing [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]].
 
 The species is distinguished by its paired air bladders (vesicles), typically one pair per branch dichotomy. These bladders are roughly spherical, 3–8 mm in diameter, and keep the fronds buoyant at high tide.
 
@@ -44,7 +44,7 @@ The life cycle lacks a free-living microscopic phase — fertilization occurs di
 
 ## Distribution and Habitat
 
-Bladder wrack is distributed throughout the North Atlantic, from the White Sea and Arctic Norway to Portugal in Europe, and from Labrador to North Carolina in [[hamilton-kelp-and-seaweed-in-organic-gardening]] in the world.
+Bladder wrack is distributed throughout the North Atlantic, from the White Sea and Arctic Norway to Portugal in Europe, and from Labrador to [[north-carolina-mycodiversity]] in [[hamilton-kelp-and-seaweed-in-organic-gardening]] in the world.
 
 ## Chemistry and Bioactive Compounds
 
@@ -64,15 +64,15 @@ Bladder wrack forms the dominant canopy in mid-intertidal communities throughout
 
 The species supports a diverse epifaunal community including snails, barnacles, mussels, amphipods, and isopods. Over 100 animal species have been recorded living on or within bladder wrack beds.
 
-Bladder wrack contributes significantly to coastal primary productivity, with net production rates of 1–3 g carbon per m² per day during peak [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], absorbing dissolved nitrogen and phosphorus from the water column. Its seasonal growth dynamics are strongly influenced by [[ph-and-nutrient-availability-garden-soils]] and photoperiod.
+Bladder wrack contributes significantly to coastal primary productivity, with net production rates of 1–3 g carbon per m² per day during peak [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], absorbing dissolved nitrogen and phosphorus from the water column. Its seasonal [[fungal-growth-dynamics]] are strongly influenced by [[ph-and-nutrient-availability-garden-soils]] and photoperiod.
 
 Climate-driven shifts in species distribution have been documented, with bladder wrack retreating from southern portions of its range as water temperatures increase. Competition with invasive *[[undaria-pinnatifida]]* further threatens populations in some areas.
 
 ## Uses and Applications
 
-Bladder wrack has been used in European folk medicine since antiquity as a treatment for thyroid enlargement, rheumatism, and obesity. The high iodine content was historically its primary therapeutic attribute.
+Bladder wrack has been used in European [[magical-illness-peruvian-amazon-folk-medicine]] since antiquity as a treatment for thyroid enlargement, rheumatism, and obesity. The high iodine content was historically its primary therapeutic attribute.
 
-Modern herbal medicine uses standardized extracts for thyroid support, though clinical evidence remains limited. The European Medicines Agency has recognized **F. vesiculosus** as a traditional herbal medicine for weight management.
+Modern [[childrens-herbal-medicine]] uses standardized extracts for thyroid support, though clinical evidence remains limited. The European Medicines Agency has recognized **F. vesiculosus** as a traditional herbal medicine for weight management.
 
 Fucoidan extracted from bladder wrack is marketed as a dietary supplement with claimed immune-enhancing properties. Pharmaceutical research has investigated fucoidan as an anti-inflammatory and anti-metastatic agent.
 

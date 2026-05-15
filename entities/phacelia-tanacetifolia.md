@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Boechat, G.G. et al. (2020). "Phacelia tanacetifolia: A versatile cover crop for sustainable agriculture." Agronomy for Sustainable Development, 40, 23.
+  - Boechat, G.G. et al. (2020). "Phacelia tanacetifolia: A versatile cover crop mushroom-cultivation-for-sustainable-agriculture." Agronomy for Sustainable Development, 40, 23.
   - Buck, J. (2016). "Floral resource availability for pollinators under different cover crop regimes." Journal of Pollination Ecology, 18, 1–12.
   - Lovell, S.T. (2013). "Multifunctional urban agriculture for sustainable land use planning." Sustainability, 5(4), 1400–1423.
   - Isaacs, R. et al. (2009). "Maximum pollinator visitation to Phacelia tanacetifolia occurs mid-morning." Journal of Apicultural Research, 48(3), 185–188.
@@ -24,7 +24,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Phacelia tanacetifolia** Benth. (lacy phacelia, fiddleneck, or purple tansy) is an annual herbaceous plant in the family Boraginaceae, native to the southwestern United States and northern Mexico. It is widely cultivated as a [[cover-crop]], bee forage, and ornamental plant across temperate regions worldwide.
+**Phacelia tanacetifolia** Benth. (lacy phacelia, fiddleneck, or purple tansy) is an annual herbaceous plant in the family Boraginaceae, native to the southwestern United States and northern Mexico. It is widely cultivated as a [[cover-crop]], bee forage, and ornamental plant across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species is valued in sustainable agriculture for its exceptional pollinator attractiveness, rapid biomass accumulation, soil-improving root architecture, and ability to suppress weeds through dense canopy formation. It is one of the most effective annual plants for supporting honeybee and wild bee populations.
 
@@ -59,13 +59,13 @@ The species tolerates a wide range of soil types including sandy, loamy, and cla
 
 **Establishment:** Germination occurs in 7–14 days at soil temperatures above 10°C. Rapid early growth produces a dense canopy within 4–6 weeks, effectively suppressing weed germination through light competition.
 
-**[[mycorrhizal-root-exudates-pathogen-interactions]] promote beneficial soil microbial communities, and the rapid decomposition of incorporated biomass feeds soil organic matter pools.
+**[[mycorrhizal-root-exudates-pathogen-interactions]] promote beneficial [[endorhiza-rhizosphere-bulk-soil-microbial-communities]], and the rapid decomposition of incorporated biomass feeds soil organic matter pools.
 
 As a catch crop, it scavenges residual soil nitrogen that might otherwise leach into groundwater during fallow periods. The low C:N ratio of the mature biomass allows rapid mineralization without nitrogen immobilization, a practical advantage over higher C:N cover crops like cereal rye.
 
 ## Companion Planting and Permaculture Applications
 
-*P. tanacetifolia* integrates well into diverse cropping systems. In vegetable gardens, it serves as an interplanted living mulch between rows of tomatoes, peppers, or brassicas, providing pollinator services and weed suppression simultaneously.
+*P. tanacetifolia* integrates well into diverse cropping systems. [[maintaining-organic-matter-in-vegetable-gardens]], it serves as an interplanted living mulch between rows of tomatoes, peppers, or brassicas, providing pollinator services and weed suppression simultaneously.
 
 In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], it is commonly included in insectary strips, hedgerow plantings, and orchard understory mixes. Its rapid growth and dense canopy make it effective as a nurse crop for slower-establishing perennials. When planted adjacent to fruit trees, it supports pollinator populations during the critical blossom period.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phacelia Tanacetifolia finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 phacelia tanacetifolia and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

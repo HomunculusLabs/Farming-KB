@@ -76,7 +76,7 @@ cannot be encompassed by Wasson's blanket designation of Britain as a
 
 ## Overview
 
-Wasson Mycophobia Mycophilia Theory Critique represents an important element within sustainable
+[[wasson-mycophobia-mycophilia-theory]] Critique represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

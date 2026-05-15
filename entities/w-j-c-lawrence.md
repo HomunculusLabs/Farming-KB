@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-W. J. C. Lawrence was an eminent British greenhouse researcher whose work provided scientific validation for the relationship between day length and plant growth in protected cultivation. His research, conducted at greenhouses in Merton near London, confirmed the ten-hour-day threshold that [[eliot-coleman]] independently identified as the critical benchmark for winter vegetable production planning.
+W. J. C. Lawrence was an eminent British greenhouse researcher whose work provided scientific validation for the relationship between day length and plant growth [[crop-rotation-in-protected-cultivation]]. His research, conducted at greenhouses in Merton near London, confirmed the ten-hour-day threshold that [[eliot-coleman]] independently identified as the critical benchmark for winter [[dry-gardening-unirrigated-vegetable-production-solomon]] planning.
 
 ## Classification
 
@@ -29,7 +29,7 @@ Reporting in his book *Science and the Glasshouse* (1948), Lawrence documented t
 
 ### Validation of Coleman's Observations
 
-Coleman cited Lawrence's independent confirmation as important scientific support for the practical observations made on his Maine farm. The fact that both researchers, working at different latitudes and in different eras, identified the same ten-hour threshold strengthened the case for using day length as the primary planning metric for winter harvest systems.
+Coleman cited Lawrence's independent confirmation as important scientific support for the practical observations made on his Maine farm. The fact that both researchers, working at different latitudes and in different eras, identified the same ten-hour threshold strengthened the case for using day length as the primary planning metric [[us-climate-zones-for-winter-harvest]] systems.
 
 ### Broader Significance
 
@@ -66,11 +66,11 @@ Operates through complex interactions between biological, chemical, and physical
 
 ## Practical Applications
 
-Applied in agricultural production, land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
+Applied in [[fukuoka-agricultural-production-net-energy-deduction]], land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
 
 ## Research Findings
 
-Studies demonstrate measurable effects on soil health, plant growth, and ecosystem function. Ongoing research continues to refine understanding and application methods.
+Studies demonstrate measurable effects on soil health, plant growth, [[fungal-biodiversity-and-ecosystem-function]]. Ongoing research continues to refine understanding and [[compost-tea-application-methods]].
 
 ## See Also
 - [[eliot-coleman|Eliot Coleman]]

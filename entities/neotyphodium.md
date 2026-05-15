@@ -16,7 +16,7 @@ tags:
 
 ## Description
 
-*Neotyphodium* is a genus of asexual fungal endophytes (formerly classified
+*Neotyphodium* is a genus of asexual [[fungal-endophytes]] (formerly classified
 under *Acremonium* sect. *Albo-lanosa*) that form systemic, intercellular
 infections in cool-season grasses (subfamily Pooideae). These fungi are perhaps
 the most well-studied group of foliar endophytes and serve as a foundational
@@ -51,7 +51,7 @@ Notable species include *N. lolii* (perennial ryegrass), *N. coenophialum*
   and plant-growth-promoting factors.
 - The degree of protection conferred by *Neotyphodium* does not appear to
   change under elevated CO2 conditions; Marks and Lincoln (1996) showed that
-  the proportion of plant consumed by fall armyworm (*Spodoptera frugiperda*)
+  the proportion of plant consumed by fall armyworm (*[[spodoptera-frugiperda]]*)
   remained similar at elevated and ambient CO2 levels.
 - Clay (1997) hypothesized that the evolutionary trajectory of increasing
   endophyte infection in grasses is directly associated with the intensity of
@@ -92,3 +92,8 @@ Notable species include *N. lolii* (perennial ryegrass), *N. coenophialum*
 - Clay, K. (1997). Fungal endophytes, herbivores and grassland communities.
 - Richardson, M. D. (2000). Endophyte research in grasses.
 - Dighton, J. *Fungi in Ecosystem Processes*. Chapter 5.
+## See also
+
+- [[epichloe]]
+- [[acremonium-lolii]]
+- [[clavicipitales]]

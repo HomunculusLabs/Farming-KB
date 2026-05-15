@@ -2,7 +2,7 @@
 title: The Sunken Hearth and the Extinction of Village Culture
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: masanobu-fukuoka
-tags: [natural-farming, japan, village-culture, modernization, irori, philosophy, mu, tradition, mechanization]
+tags: [[[natural-farming]], japan, village-culture, modernization, irori, philosophy, mu, tradition, mechanization]
 date: 2026-05-11
 updated: 2026-05-11
 type: concept
@@ -32,7 +32,7 @@ philosophy of the village was forged through fireside discussion.
 The hearth was the medium through which cultural values, seasonal
 awareness, and a deep sense of place were passed from elder to child.
 Without formal education or written texts, the farming village sustained
-its coherence through oral tradition maintained in the circle of
+its coherence through [[allegro-religion-prehistory-oral-tradition-etymology]] maintained in the circle of
 firelight. The hearth was where the village's understanding of nature,
 work, death, and community was kept alive.
 
@@ -40,7 +40,7 @@ work, death, and community was kept alive.
 
 Fukuoka evokes the sensory world of the traditional village with precise,
 specific detail. He describes the woodsman singing a woodcutter's song as
-he sawed down a tree. During rice transplanting, singing voices rolled
+he sawed down a tree. During [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]], singing voices rolled
 across the paddy fields in collective rhythm. After the fall harvest, the
 sound of drums surged through the village in celebration. People used
 pack animals to carry goods — a pace of life governed by the body and the
@@ -103,7 +103,7 @@ without a need for philosophy." Its guiding principle was that
 "philosophy is unnecessary." This was not ignorance but the philosophy of
 *Mu* — nothingness — which teaches that all is unnecessary.
 
-The traditional farmer lived intuitively. Life was never so empty as to
+The [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]] lived intuitively. Life was never so empty as to
 bring him to contemplate the purpose of human existence; there was no
 seed of uncertainty to lead him astray. With intuitive understanding of
 life and death, these farmers were free of anguish and grief. They had

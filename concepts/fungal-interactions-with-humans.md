@@ -6,11 +6,11 @@ type: concept
 
 # Fungal Interactions with Humans
 
-Human activities increasingly affect fungal diversity, activity, and ecosystem function. This concept explores the multifaceted interactions between anthropogenic environmental changes and fungal-mediated processes, focusing on acidifying pollutants, heavy metals, radionuclides, and elevated atmospheric CO₂.
+Human activities increasingly affect fungal diversity, activity, [[fungal-biodiversity-and-ecosystem-function]]. This concept explores the multifaceted interactions between anthropogenic environmental changes and fungal-mediated processes, focusing on acidifying pollutants, heavy metals, radionuclides, and elevated atmospheric CO₂.
 
 ## The Human Footprint on Fungal Ecosystems
 
-As global population increases, the effects of human activities on ecosystems escalate. While climate change, acid rain, nitrogen deposition, and stratospheric ozone depletion dominate public discourse, the impacts of these environmental changes on fungi rarely receive attention in popular media. Yet fungi are fundamental mediators of ecosystem processes — nutrient cycling, decomposition, plant-microbe symbioses, and soil food web dynamics — making their response to anthropogenic change critically important for ecosystem health.
+As global population increases, the effects of human activities on ecosystems escalate. While climate change, acid rain, nitrogen deposition, and stratospheric ozone depletion dominate public discourse, the impacts of these environmental changes on fungi rarely receive attention in popular media. Yet fungi are fundamental mediators [[fungi-as-regulators-of-ecosystem-processes]] — nutrient cycling, decomposition, plant-microbe symbioses, and soil food web dynamics — making their response to anthropogenic change critically important for ecosystem health.
 
 ## The Acidifying Pollutant Story
 
@@ -33,7 +33,7 @@ Dighton and Jansen (1991) proposed a two-directional impact model of acidifying 
 
 **Direction 2 — Belowground pathway:** Acidifying pollutants reduce soil pH, making toxic metals (aluminum, manganese, magnesium) more soluble and plant-available. Increased toxicity leads to reduced root growth, root dieback, and reduced mycorrhizal fungal growth and root colonization.
 
-This dual-pathway model explains why both aboveground canopy damage and belowground soil acidification contribute to the loss of mycorrhizal diversity and function.
+This dual-pathway model explains why both aboveground canopy damage and belowground soil acidification contribute to the loss of [[mycorrhizal-diversity-and-ecosystem-function]] function.
 
 ## Critical Loads and Biological Indicators
 
@@ -87,9 +87,9 @@ Ozone exposure alters the nature (not degree) of root colonization in arbuscular
 
 The question of whether mycorrhizal species diversity per se, or the composition of the species assemblage, determines ecosystem function has received considerable investigation:
 
-- **Van der Heijden et al. (1998)** suggested that plant productivity is highest when arbuscular mycorrhizal diversity is greatest
+- **Van der Heijden et al. (1998)** suggested that plant productivity is highest when [[singh-arbuscular-mycorrhizal-diversity-grassland-ecosystems]] is greatest
 - **Baxter & Dighton (2001)** showed that ectomycorrhizal diversity per se was a better determinant of improved birch seedling nutrient content than actual species composition or colonization rates, with stronger effects on phosphorus than nitrogen uptake
-- Much more work remains to fully explain the consequences of changes in both mycorrhizal and saprotrophic fungal community structure on ecosystem-level processes
+- Much more work remains to fully explain the consequences of changes in both mycorrhizal and saprotrophic [[mineralogical-controls-fungal-community-structure]] on ecosystem-level processes
 
 ## Conservation Implications
 
@@ -101,8 +101,8 @@ The sensitivity of fungal communities to anthropogenic pollution has led to sign
 
 ## See Also
 
-- [[Acidifying-Pollutants-and-Saprotrophic-Fungal-Activity]] — effects of SO₂ and acid deposition on decomposition
-- [[Acidifying-Pollutants-and-Fungal-Faunal-Interactions]] — how pollution alters fungal-grazer food webs
-- [[Acidifying-Pollutants-and-Lichens]] — lichens as bioindicators of air quality
-- [[Ectomycorrhizal-Diversity-and-Ecosystem-Function]] — diversity-function relationships in mycorrhizal communities
-- [[Nitrogen-Deposition-and-Forest-Soil-Processes]] — N saturation effects on soil chemistry and biology
+- [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]] — effects of SO₂ and acid deposition on decomposition
+- [[acid-rain-fungal-faunal-interactions]] — how pollution alters fungal-grazer food webs
+- [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]] — [[lichens-as-bioindicators]] of air quality
+- [[ectomycorrhizal-diversity-ecosystem-function]] — diversity-function relationships in mycorrhizal communities
+- [[nitrogen-deposition-fungal-communities]] — N saturation effects on soil chemistry and biology

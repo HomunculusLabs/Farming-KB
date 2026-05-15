@@ -23,7 +23,7 @@ Sod seeding (also known as direct drilling or over-sowing) is a minimum-tillage 
 Sod seeding involves mechanical insertion of seed into existing pasture using specialised equipment fitted with tines or chisel points. The technique creates minimal soil disturbance while establishing a favourable seedbed. Along with seed, the following amendments can be simultaneously placed in the shallow furrows:
 
 - **Trace elements**: Site-specific based on known deficiencies (copper, cobalt, selenium, zinc)
-- **Major nutrients**: NPK fertilisers tailored to soil test results
+- **Major nutrients**: NPK fertilisers tailored to [[interpreting-soil-test-results]]
 - **Water-retaining gels**: Hydrogel products that absorb and slowly release moisture during the critical establishment period
 
 The shallow furrows created by the tines provide good seed-to-soil contact while leaving the surrounding pasture largely intact, preventing erosion and maintaining existing ground cover during the renovation period.
@@ -66,15 +66,15 @@ This approach avoids the cascade of problems from ploughing marshy coastal land:
 
 ## Relevance to Cultivation
 
-Sod seeding exemplifies the permaculture principle of minimum intervention for maximum effect. By avoiding ploughing, it preserves soil structure, prevents erosion, maintains [[mycorrhizal-networks]], and dramatically reduces energy inputs compared to conventional pasture renovation. The technique integrates multiple functional plant groups — nitrogen fixers, deep-rooted mineral accumulators, woody browse — into a single operation, creating diverse, resilient pasture systems that far exceed the productivity and stability of monoculture approaches.
+Sod seeding exemplifies the [[permaculture-principle-1-observe-interact]] of minimum intervention for maximum effect. By avoiding ploughing, it preserves soil structure, prevents erosion, maintains [[mycorrhizal-networks]], and dramatically reduces energy inputs compared to conventional pasture renovation. The technique integrates multiple functional plant groups — nitrogen fixers, deep-rooted mineral accumulators, woody browse — into a single operation, creating diverse, resilient pasture systems that far exceed the productivity and stability of monoculture approaches.
 
 ### Comparison with Conventional Renovation
 
 Sod seeding offers significant advantages over conventional plough-and-resow pasture renovation:
 
-- **Soil preservation**: No inversion of soil profile, preserving topsoil structure and organic matter location
-- **Mycorrhizal networks**: Existing fungal networks remain intact, supporting new plant establishment
-- **Erosion prevention**: Ground cover is maintained throughout the renovation process
+- **Soil preservation**: No inversion of soil profile, preserving topsoil structure [[hamilton-composting-and-organic-matter-management]] location
+- **[[arbuscular-mycorrhizal-networks]]**: Existing fungal networks remain intact, supporting new plant establishment
+- **[[dighton-fungal-roles-soil-erosion-prevention]]**: Ground cover is maintained throughout the renovation process
 - **Energy efficiency**: Requires a fraction of the fossil fuel energy of ploughing, cultivating, and resowing
 - **Timing flexibility**: Can be performed over a wider seasonal window than conventional renovation
 - **Cost effectiveness**: Lower equipment, fuel, and labour costs per hectare renovated
@@ -88,4 +88,4 @@ Mollison identifies optimal sod seeding periods as early spring and from mid-aut
 - Reduced competition from existing pasture species (post-summer stress or pre-winter dormancy)
 - Natural frost heave on bare or disturbed areas creating additional seedbed conditions during spring thaw
 
-The technique represents one of the most practical applications of permaculture principles in broadacre agriculture, demonstrating that minimum intervention can achieve superior results to high-energy conventional approaches when the functional roles of multiple plant species are intentionally combined.
+The technique represents one of the most practical applications of [[mollisonian-permaculture-principles]] in broadacre agriculture, demonstrating that minimum intervention can achieve superior results to high-energy conventional approaches when the functional roles of multiple plant species are intentionally combined.

@@ -40,7 +40,7 @@ Use rototiller only for initial sod-killing pass, then switch to hand-digging wi
 
 ## Relevance to Cultivation
 
-Understanding rototiller capabilities and limitations is essential for initial garden establishment, avoiding long-term compaction, and cost-benefit analysis of rental vs. hand-digging. For self-sufficiency, hand tools provide better long-term results; tillers are a starting aid only.
+Understanding rototiller capabilities and limitations is essential for initial [[permaculture-forest-garden-establishment]], avoiding long-term compaction, and cost-benefit analysis of rental vs. hand-digging. For self-sufficiency, hand tools provide better long-term results; tillers are a starting aid only.
 
 ## Related Entities
 
@@ -50,8 +50,8 @@ Understanding rototiller capabilities and limitations is essential for initial g
 
 ## Soil Health Context
 Understanding soil structure and management is essential for
-sustainable agriculture. Healthy soil provides the foundation
-for plant growth, water retention, and nutrient cycling.
+[[mushroom-cultivation-for-sustainable-agriculture]]. Healthy soil provides the foundation
+for plant growth, water retention, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 Proper soil management practices improve long-term productivity
 and reduce the need for external inputs.
 
@@ -59,13 +59,13 @@ and reduce the need for external inputs.
 Successful implementation requires attention to local conditions
 including climate, soil type, and existing vegetation. Start with
 small test areas before scaling up. Monitor results over multiple
-growing seasons to assess effectiveness and adjust approaches
+[[jeavons-climate-adaptation-growing-seasons]] to assess effectiveness and adjust approaches
 based on observed outcomes.
 
 ## Environmental Benefits
 These practices contribute to improved soil ecosystem health,
 enhanced biodiversity, and reduced environmental impact.
-Soil organic matter increases over time, improving water
+[[humus-and-soil-organic-matter]] increases over time, improving water
 infiltration and reducing erosion. Biological activity thrives
 in well-managed soil systems.
 
@@ -73,7 +73,7 @@ in well-managed soil systems.
 Timing of soil management activities affects outcomes significantly.
 Spring and fall offer different conditions for soil work. Soil
 moisture levels must be appropriate for any tillage or amendment
-operations. Plan activities around weather patterns and crop
+operations. Plan activities around [[global-weather-patterns-and-atmospheric-engines]] crop
 rotations for best results.
 
 ## Additional Notes

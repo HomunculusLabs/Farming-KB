@@ -1,12 +1,12 @@
 ---
-title: Medium Quality Compost Method
+title: Medium [[high-quality-compost-and-humanure]] Method
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Medium Quality Compost Method
 
-The once-a-year heap is the most practical composting method for home vegetable gardeners. By accumulating organic materials throughout the year and building one large, well-managed compost heap in early autumn, you can produce medium-quality compost that will significantly improve soil health and grow most vegetables — especially when supplemented with [[complete-organic-fertilizer]] (COF) for high-demand crops.
+The once-a-year heap is the most practical [[comparison-bokashi-vs-hot-composting-method]] for home vegetable gardeners. By accumulating organic materials throughout the year and building one large, well-managed compost heap in early autumn, you can produce medium-quality compost that will significantly improve soil health and grow most vegetables — especially when supplemented with [[complete-organic-fertilizer]] (COF) for high-demand crops.
 
 ## The Annual Cycle
 
@@ -26,7 +26,7 @@ Starting in late autumn, steadily accumulate all new vegetative wastes and kitch
 ### What to Exclude
 
 - **Nothing woody** — no tree trimmings, no hedge trimmings, nothing with even thin bark
-- **No sawdust** — C/N is way too high, will degrade compost quality
+- **No sawdust** — C/N is way too high, will degrade [[aact-compost-quality-standards-ingham]]
 - **No thick, woody stems** — they take years to decompose
 
 Woody materials should be composted separately outside the vegetable garden. The resulting product is suitable as mulch under ornamentals or fruit trees, but never in the vegetable patch.
@@ -46,7 +46,7 @@ Woody materials should be composted separately outside the vegetable garden. The
 
 1. **Base**: Spread dry vegetation in a rectangle at least 5-7 feet (150-210 cm) across, 5+ feet long, about 8 inches (20 cm) thick
 2. **Soil layer**: Cover with a half-inch (1.25 cm) layer of garden soil
-3. **Strong stuff**: Cover with about 2 gallons (8 liters) of seedmeal, OR 2 gallons of chicken manure, OR a 2.5 cm layer of horse/cow manure
+3. **Strong stuff**: Cover with about 2 gallons (8 liters) of seedmeal, OR 2 gallons of [[chicken-manure]], OR a 2.5 cm layer of horse/cow manure
 4. **Repeat**: Another 8-inch layer of dry vegetation, water thoroughly
 5. **Continue** until all material is layered into a heap about 5 feet (150 cm) high (max 6 feet / 180 cm)
 6. **Cap**: Spread a thin layer of soil over the entire outside of the heap
@@ -140,7 +140,7 @@ A heap that DID contain woody materials might be cool after three turns but will
 
 ### The Closed-System Fallacy
 
-A home garden cannot operate as a closed system that generates enough organic matter to maintain itself — not unless you compost every opportunity and every bit of organic material generated. Even recycling everything from the garden (except humanure) back into it, plus importing lawn clippings and autumn leaves, may not be enough. For most gardeners, importing and composting organic matter at least twice the volume of the garden's own output is necessary.
+A home garden cannot operate as a closed system that generates enough [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] to maintain itself — not unless you compost every opportunity and every bit of organic material generated. Even recycling everything from the garden (except humanure) back into it, plus importing lawn clippings and autumn leaves, may not be enough. For most gardeners, importing and [[comparison-vermicomposting-vs-composting-organic-garden]] matter at least twice the volume of the garden's own output is necessary.
 
 ## See Also
 

@@ -48,7 +48,7 @@ The trophic pyramid critique directly applies to understanding soil food webs. I
 
 Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[mollison-trophic-pyramids-food-webs-and-energy-cycling]]
 - [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]
-- [[keystone-species-and-trophic-cascades]]
+- [[keystone-species-fungal]]
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies

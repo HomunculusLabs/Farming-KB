@@ -1,5 +1,5 @@
 ---
-title: Molasses And Sugars In Compost Tea Brewing
+title: Molasses And Sugars In [[compost-tea-brewing]]
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Molasses is the most widely used food resource in [[actively-aerated-compost-tea]] (AACT) brewing. It serves as a primary energy source for bacterial growth, provides essential minerals, and plays multiple roles beyond simple nutrition. Understanding the different types of molasses, their effects on the microbial community, and the critical relationship between carbon (sugars) and nitrogen is essential for producing effective compost tea.
+Molasses is the most widely used food resource in [[actively-aerated-compost-tea]] (AACT) brewing. It serves as a primary energy source for bacterial growth, provides essential minerals, and plays multiple roles beyond simple nutrition. Understanding the different types of molasses, their effects on the [[cannabis-cultivar-microbial-community-effects]], and the critical relationship between carbon (sugars) and nitrogen is essential for producing effective compost tea.
 
 ## Types of Molasses
 
@@ -32,7 +32,7 @@ Molasses is the most widely used food resource in [[actively-aerated-compost-tea
 
 **Sulfured molasses** must be avoided:
 - Contains sulfur dioxide (SO₂), which is toxic to aerobic microorganisms
-- Can shift the tea toward anaerobic conditions
+- Can shift the tea toward [[aact-ph-and-anaerobic-conditions]]
 - May inhibit fungal growth more than bacterial growth
 
 ### Dried Cane Sugar and Dried Molasses
@@ -74,7 +74,7 @@ Molasses specifically supports the growth of actinomycetes (actinobacteria):
 
 - **Actinomycetes** are filamentous bacteria that bridge the gap between bacteria and fungi in the soil foodweb
 - They produce geosmin (the "earthy" smell of healthy soil) and antibiotics (streptomycin, tetracycline)
-- They decompose resistant organic compounds including chitin, cellulose, and lignin
+- They decompose resistant [[chamovitz-plant-scent-communication-volatile-organic-compounds]] including chitin, cellulose, and lignin
 - Molasses provides the energy needed for actinomycetes to produce their characteristic filamentous growth and antibiotic compounds
 - The earthy smell of good compost tea is largely due to actinomycete activity fed by molasses
 
@@ -101,7 +101,7 @@ The practical guideline: **Never exceed 4 oz (120 ml) of molasses per 50 gallons
 
 ### Why C:N Ratios Matter
 
-The ratio of carbon to nitrogen in tea ingredients determines which organisms dominate and whether the tea becomes anaerobic:
+The ratio of [[carbon-to-nitrogen-ratios]] in tea ingredients determines which organisms dominate and whether the tea becomes anaerobic:
 
 - **Low C:N (<10:1)** — Excess nitrogen favors rapid bacterial growth; risk of ammonia volatilization
 - **Optimal C:N (15:1 to 25:1)** — Balanced growth of bacteria and fungi; stable, aerobic conditions
@@ -134,4 +134,4 @@ The ratio of carbon to nitrogen in tea ingredients determines which organisms do
 | Anaerobic risk | High if over-applied | Low |
 | Best for | Quick bacterial boosts | Fungal teas, balanced teas |
 
-**Key insight**: Plain white sugar can be used in AACT but requires extra caution — it provides zero minerals, no B-vitamins, and creates extreme oxygen demand spikes. Molasses is always preferred because its mineral and vitamin content supports healthier, more diverse microbial communities.
+**Key insight**: Plain white sugar can be used in AACT but requires extra caution — it provides zero minerals, no B-vitamins, and creates extreme oxygen demand spikes. Molasses is always preferred because its mineral and vitamin content supports healthier, more diverse [[cannabis-rhizosphere-microbial-communities]].

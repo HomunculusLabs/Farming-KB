@@ -10,11 +10,11 @@ tags: [cannabis, horticulture, cervantes, water-quality, reverse-osmosis, filtra
 ## Overview
 
 Water quality is one of the most critical and often overlooked factors in
-cannabis cultivation. The chemical composition of irrigation water directly
-affects nutrient availability, root health, and overall plant vigour.
+cannabis cultivation. The [[chemical-composition-of-hallucinogens]] irrigation water directly
+affects [[nutrient-availability]], root health, and overall plant vigour.
 Cervantes emphasises that understanding and managing water quality is
 essential for achieving optimal growth, particularly in hydroponic systems
-where the nutrient solution is the sole source of plant nutrition. Common
+where the [[cannabis-nutrient-solution-preparation]] is the sole source of plant nutrition. Common
 water quality issues include excessive mineral content, chlorine and
 chloramine from municipal treatment, incorrect pH, and the presence of
 contaminants that interfere with nutrient uptake.
@@ -30,7 +30,7 @@ generally prefers a root zone pH of 5.5-6.5 in hydroponic systems and
 6.0-7.0 in soil. When pH drifts outside this range, essential nutrients
 become unavailable to the plant even if they are present in the growing
 medium. This condition is known as [[nutrient-lockout]] and manifests as
-deficiency symptoms despite adequate fertilisation.
+[[knf-calcium-deficiency-symptoms]] despite adequate fertilisation.
 
 ### Electrical Conductivity (EC)
 
@@ -43,9 +43,9 @@ during late vegetative and flowering stages.
 ### Total Dissolved Solids (TDS)
 
 TDS is a related measure expressed in parts per million (ppm). While less
-precise than EC for nutrient management, TDS gives a useful overall picture
+precise than EC for [[cannabis-nutrient-management]], TDS gives a useful overall picture
 of water mineral content. Tap water typically ranges from 100-500 ppm TDS,
-while reverse osmosis water is near 0 ppm.
+while [[reverse-osmosis-compost-tea]] water is near 0 ppm.
 
 ## Municipal Water Problems
 
@@ -60,7 +60,7 @@ ascorbic acid (vitamin C) to neutralise chloramine.
 Municipal water may also contain elevated levels of sodium, calcium, and
 magnesium that contribute to overall mineral content and can push pH and
 EC to undesirable levels. Water softeners that use sodium ion exchange are
-particularly problematic, as they replace calcium and magnesium with sodium,
+particularly problematic, as they replace [[dynamic-accumulator-plants-calcium-and-magnesium]] with sodium,
 which is toxic to cannabis at elevated levels.
 
 ## Reverse Osmosis Filtration

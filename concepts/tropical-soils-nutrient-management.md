@@ -1,5 +1,5 @@
 ---
-title: Tropical Soils and Nutrient Management
+title: Tropical Soils [[pond-fertilisation-and-nutrient-management]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Tropical soils present unique challenges for sustainable agriculture. Unlike temperate soils that are renewed by glaciation, most tropical soils are ancient, deeply weathered, and heavily leached. Understanding their chemistry and developing appropriate management strategies is essential for any [[cation-exchange-capacity]] (CEC) — the soil's ability to hold nutrients against leaching — is directly affected by pH. As pH increases (becomes more alkaline), the negative charge on soil particles increases, improving their ability to retain calcium, sodium, and phosphates. This relationship between pH and CEC is a critical factor in tropical soil management.
+Tropical soils present unique challenges [[mushroom-cultivation-for-sustainable-agriculture]]. Unlike temperate soils that are renewed by glaciation, most tropical soils are ancient, deeply weathered, and heavily leached. Understanding their chemistry and developing appropriate [[forest-management-strategies]] is essential for any [[cation-exchange-capacity]] (CEC) — the soil's ability to hold nutrients against leaching — is directly affected by pH. As pH increases (becomes more alkaline), the negative charge on soil particles increases, improving their ability to retain calcium, sodium, and phosphates. This relationship between pH and CEC is a critical factor in [[tropical-soil-management-and-restoration]].
 
 ## Strategies for Restoring Tropical Soil Fertility
 
@@ -20,7 +20,7 @@ Humus provides a good CEC and must be a priority. Key approaches include:
 
 2. **Frequent light fertiliser applications:** Small quantities of superphosphate applied at frequent intervals allow plants to absorb nutrients before leaching occurs. Light applications at 6-week intervals are recommended until plants are well established.
 
-3. **Mineral amendments:** Fine crushed basalt, cement powder, shredded bamboo, and cane mulches supply silica and calcium. Increasing pH with lime after trees and green crops are growing well further enhances nutrient retention.
+3. **[[cervantes-organic-mineral-amendments]]:** Fine crushed basalt, cement powder, shredded bamboo, and cane mulches supply silica and calcium. Increasing pH with lime after trees and green crops are growing well further enhances nutrient retention.
 
 4. **Perennial over annual crops:** Substituting perennial for annual crops reduces soil disturbance and humus loss. Frequent cultivation should never be practised.
 
@@ -56,7 +56,7 @@ In soils over rotted granites — found on high islands of the Indian Ocean, the
 
 ## The Critical Role of Tree and Ground Legumes
 
-In the long term, sustainable tropical agriculture must rely on tree and ground legumes to maintain soil health. The destructive approaches — now well demonstrated — combine forest clearing, bare-soil cropping, and careless water runoff management to create desolate, baked clays from once-rich tropical forests. The loss of soil fertility through inappropriate management represents one of the most significant environmental crimes of the modern era.
+In the long term, sustainable [[termite-and-ant-ecology-in-tropical-agriculture]] must rely on tree and ground legumes to maintain soil health. The destructive approaches — now well demonstrated — combine forest clearing, bare-soil cropping, and careless water runoff management to create desolate, baked clays from once-rich tropical forests. The loss of soil fertility through inappropriate management represents one of the most significant environmental crimes of the modern era.
 
 ## Soil Life in the Tropics
 

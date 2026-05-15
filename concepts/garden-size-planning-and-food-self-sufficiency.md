@@ -18,7 +18,7 @@ During World War II, the United Kingdom mandated that every local council provid
 
 Key factors about the British experience:
 
-- Britain's cool, frequently cloudy summers meant vegetables grew more slowly than in much of North America
+- Britain's cool, frequently cloudy summers meant vegetables grew more slowly than in much [[huckleberries-and-wild-berries-of-north-america]]
 - Mild winters allowed year-round growing of frost-hardy crops (cabbage, leeks, root crops, salad greens)
 - Vegetables, including potatoes, constituted only about one-third of the family's total caloric intake — bread, meat, cheese, and dairy came from other sources
 - The wartime allotment was not designed for complete self-sufficiency, but for significant supplementation
@@ -43,7 +43,7 @@ Steve Solomon's personal garden in Tasmania uses approximately **2,000 square fe
 
 - Vegetables provide about half of daily calories
 - Paths, fruit trees, currant bushes, asparagus, and perennial herbs bring the total fenced area to about **6,500 square feet (600 square meters)**
-- High-quality concentrated organic fertilizer supplements home-made compost
+- High-quality [[hamilton-concentrated-organic-fertilizer-products]] supplements home-made compost
 
 ### For Near-Complete Caloric Self-Sufficiency
 
@@ -62,8 +62,8 @@ The potato is the most efficient calorie-producing garden crop. If the family ca
 If the soil does **not** freeze solid to at least 18 inches for several continuous months during winter, it is probably impossible to grow vegetables on the same land for more than 3–5 years before serious disease and soil-dwelling insect problems arise. This means:
 
 - In mild climates, the effective garden must be **doubled in size**
-- Half is in active vegetable production; the other half rests as a grass/clover ley
-- Ley periods of 3–5 years rebuild soil organic matter and restore biological balance
+- Half is in active [[coleman-french-historical-winter-vegetable-production]]; the other half rests as a grass/clover ley
+- Ley periods of 3–5 years rebuild [[humus-and-soil-organic-matter]] and restore biological balance
 - After breaking sod, vegetables grow noticeably better for the first two years
 
 Solomon's actual fenced garden area is therefore about 6,500 square feet to accommodate this rotation — 2,000 square feet of active beds plus an equal area in ley rotation, plus paths, fruit trees, and perennials.
@@ -78,8 +78,8 @@ The space needed depends on multiple interacting factors:
 4. **Gardener skill**: Experienced gardeners produce significantly more per unit area
 5. **Crop selection**: Calorie-dense crops (potatoes, sweet potatoes) require less area than salad crops
 6. **Seed quality**: Strong, well-adapted varieties outperform mass-market seeds
-7. **Fertilizer access**: Balanced nutrition dramatically increases both yield and nutritional quality
-8. **Storage capability**: Root cellars and preservation methods extend the effective harvest and reduce the need for large growing areas
+7. **Fertilizer access**: Balanced nutrition dramatically increases both yield and [[coleman-winter-greens-nutritional-quality-cold-sweetening]]
+8. **Storage capability**: Root cellars [[oss-oeric-drying-and-preservation-methods]] extend the effective harvest and reduce the need for large growing areas
 
 ## Why Postage-Stamp Gardens Won't Suffice
 

@@ -36,7 +36,7 @@ Calopo is one of the most important cover crop legumes in humid tropical agricul
 
 ### Pioneer Species in Food Forest Establishment
 
-In permaculture food forest establishment, calopo is an ideal pioneer species for the ground layer during the first 2–3 years. It rapidly covers bare soil, suppresses weed competition, fixes atmospheric nitrogen, and creates favorable microclimates for establishing tree seedlings. As the canopy closes and shade increases, calopo naturally declines, making way for more shade-tolerant understory species.
+In permaculture [[food-forest-establishment]], calopo is an ideal pioneer species for the ground layer during the first 2–3 years. It rapidly covers bare soil, suppresses weed competition, fixes atmospheric nitrogen, and creates favorable microclimates for establishing tree seedlings. As the canopy closes and shade increases, calopo naturally declines, making way for more shade-tolerant understory species.
 
 ### Mixed Cover Crop Blends
 

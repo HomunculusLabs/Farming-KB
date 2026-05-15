@@ -20,7 +20,7 @@ While [[medicinal-mushrooms]] are best known for their anticancer properties, th
 - Reducing cholesterol absorption
 - Reducing **HMG-CoA reductase** activity in the liver
 
-Clinical trials with 15–20g dried Pleurotus supplement daily over one month "reduced hypercholesterolemia in many but not all patients." Similar results achieved with **[[grifola-frondosa]]** and **Auricularia auricula**.
+Clinical trials with 15–20g dried Pleurotus supplement daily over one month "reduced hypercholesterolemia in many but not all patients." Similar results achieved with **[[grifola-frondosa]]** and **[[auricularia-auricula]]**.
 
 ### Eritadenine from Lentinus edodes
 "Eritadenine reduces blood serum cholesterol in mice not by inhibition of cholesterol biosynthesis but by the acceleration of the excretion of ingested cholesterol and its metabolic decomposition."
@@ -34,7 +34,7 @@ Eritadenine lowers cholesterol by:
 - **Lentinus edodes**: Lowers blood pressure and free cholesterol; accelerates lipid accumulation in liver (removing from circulation)
 - **Nucleic acids from L. edodes**: Significant platelet agglutinating inhibitory effects (antithrombotic activity)
 - **PSK**: Causes decreases in LDL cholesterol in hyperlipidemia patients
-- **Tremella fuciformis and T. aurantia**: Antilipemic polysaccharides lower plasma cholesterol levels
+- **[[tremella-fuciformis]] and T. aurantia**: Antilipemic polysaccharides lower plasma cholesterol levels
 
 ### Clinical Evidence
 Several small studies in Japan showed "positive decreases in serum cholesterol in young women and people older than 60 years of age" using Lentinus extracts.
@@ -42,12 +42,12 @@ Several small studies in Japan showed "positive decreases in serum cholesterol i
 ## Antidiabetic Effects
 
 ### Blood Glucose Lowering
-"Several mushroom species including Tremella aurantia, Cordyceps sinensis, Ganoderma lucidum and Auricularia auricula-judae have been shown to lower blood glucose."
+"Several mushroom species including [[tremella-aurantia]], Cordyceps sinensis, Ganoderma lucidum and Auricularia auricula-judae have been shown to lower blood glucose."
 
 ### Streptozotocin-Induced Diabetic Model
-"The blood glucose and triglyceride (TG) lowering effects of water soluble extracts from Lentinus edodes, Pleurotus ostreatus and Phellinus linteus in the streptozotocin-induced diabetic model have been clearly demonstrated."
+"The blood glucose and triglyceride (TG) lowering effects of water soluble extracts from Lentinus edodes, Pleurotus ostreatus and [[phellinus-linteus]] in the streptozotocin-induced diabetic model have been clearly demonstrated."
 
-"These results strongly suggest that these mushrooms have potential preventive and therapeutic action in diabetes mellitus (type I and II)."
+"These results strongly suggest that these mushrooms have potential preventive and therapeutic action in [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]] (type I and II)."
 
 ## Antimicrobial Effects
 
@@ -74,7 +74,7 @@ Several small studies in Japan showed "positive decreases in serum cholesterol i
 - Effective against Bacillus subtilis, Staphylococcus aureus, Micrococcus lenteus
 
 #### Antifungal
-- Effective against Candida albicans, Saccharomyces cerevisiae
+- Effective against Candida albicans, [[saccharomyces-cerevisiae]]
 
 #### Antiparasitic
 - Increased resistance to Schistosoma japonicum and S. mansoni

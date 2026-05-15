@@ -1,5 +1,5 @@
 ---
-title: Fungal Nutrient Translocation and Litter Binding
+title: [[dighton-fungal-nutrient-translocation-element-redistribution]] and Litter Binding
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -24,7 +24,7 @@ Beyond their role as decomposers, fungi perform critical ecosystem engineering f
 Wood-decomposing basidiomycetes that form [[mycelial-cords]] (rhizomorphs) are particularly effective at translocating nutrients over significant distances:
 
 - **[[phanerochaete-velutina]]** translocated 75% of phosphorus added to a decomposed wood resource to newly colonized wood through its cord system.
-- **Phallus impudicus** translocated 13% of added phosphorus.
+- **[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]** translocated 13% of added phosphorus.
 - Maximum translocation rates reached approximately 7,225 nmol P cm⁻² day⁻¹ through cords.
 - Field experiments demonstrated translocation over distances up to 75 cm between decomposing resources on the forest floor, with nutrients reaching living wild strawberry and moss plants (Wells and Boddy, 1995a).
 
@@ -46,7 +46,7 @@ Translocation allows fungi to:
 
 ### Prevention of Litter Loss on Slopes
 
-In tropical forest ecosystems, fungal hyphae and cords play a critical role in binding leaf litter together on the forest floor, preventing downslope loss during heavy rainfall. Lodge and Asbury (1988) demonstrated through field manipulation experiments that:
+In [[dighton-fungi-tropical-forest-ecosystems]], fungal hyphae and cords play a critical role in binding leaf litter together on the forest floor, preventing downslope loss during heavy rainfall. Lodge and Asbury (1988) demonstrated through field manipulation experiments that:
 
 - Litter loss was reduced by 35% on shallow slopes (< 75% angle).
 - Litter loss was reduced by 45% on steeper slopes (75–90%).
@@ -72,7 +72,7 @@ Experimental litter manipulation in the canopy revealed:
 - The balance of trapped litter depends on leaf weight, tensile strength of fungal retaining structures, and weight loss from decomposition.
 - As trapped leaves decompose, mineralized nutrients wash to the forest floor in throughfall rain.
 
-This phenomenon of "soil in the canopy" has significant implications for the fertility and nutrient cycling of tropical forest ecosystems.
+This phenomenon of "soil in the canopy" has significant implications for the fertility [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] of tropical forest ecosystems.
 
 ## Epiphytic Lichens and Nutrient Cycling
 
@@ -88,7 +88,7 @@ The long-term evolutionary stability of the interaction between forest trees and
 
 ## Fungi and Dung Decomposition
 
-Animal dung represents a specific organic resource that selects for specialized fungal communities. Richardson (2001) showed highly significant differences in fungal community structure among the dung of six animal species. These fungi are often niche-specific and provide food for a variety of fungivorous animals, forming an important link in the detrital food web. The coprophilous (dung-inhabiting) fungal community thus plays a significant role in nutrient recycling and supporting invertebrate populations in ecosystems with substantial herbivore activity.
+Animal dung represents a specific organic resource that selects for specialized fungal communities. Richardson (2001) showed highly significant differences in [[mineralogical-controls-fungal-community-structure]] among the dung of six animal species. These fungi are often niche-specific and provide food for a variety of fungivorous animals, forming an important link in the detrital food web. The coprophilous (dung-inhabiting) fungal community thus plays a significant role in nutrient recycling and supporting invertebrate populations in ecosystems with substantial herbivore activity.
 
 ## Patch-Scale Nutrient Dynamics
 
@@ -102,6 +102,6 @@ Dighton et al. (2000) showed that leaf litter accumulation on the forest floor o
 - Knops, J.M.H. et al. (1996). Epiphytic lichen effects on throughfall chemistry.
 - Lodge, D.J. and Asbury, C.E. (1988). Fungal binding of leaf litter on tropical slopes.
 - Olsson, P.A. and Jennings, D.H. (1991). Translocation through fungal hyphae.
-- Richardson, M.J. (2001). Diversity and ecology of coprophilous fungi.
+- Richardson, M.J. (2001). [[neurotropic-fungi-colombia-species-diversity-and-ecology]] of coprophilous fungi.
 - Wells, J.M. and Boddy, L. (1990, 1995a,b). Mycelial cord translocation.
 - Wells, J.M. et al. (2001). Moisture effects on cord-forming fungi.

@@ -14,7 +14,7 @@ Eliot Coleman's [[winter-harvest-system]] depends on precise succession planting
 
 1. **Outdoor Fields** — Crops are harvested until early November in USDA Zone 5 (coastal Maine, latitude 44°N). No protection beyond normal field conditions.
 
-2. **Early Greenhouses** — The first wave of protected cropping. These houses are planted earlier and harvested before the later houses reach peak production.
+2. **Early Greenhouses** — The first wave of [[mollison-designers-glasshouse-protected-cropping]]. These houses are planted earlier and harvested before the later houses reach peak production.
 
 3. **Later Greenhouses** — Planted after the early houses, these provide mid-winter harvests during the coldest months.
 
@@ -42,7 +42,7 @@ The planting schedule is intimately tied to **daylight hours** and the **Perseph
 
 ## Historical Reading List
 
-Coleman provides an annotated bibliography of foundational texts on intensive vegetable cultivation, primarily drawn from the French intensive gardening tradition (*la culture maraîchère*) and British market gardening.
+Coleman provides an annotated bibliography of foundational texts on intensive vegetable cultivation, primarily drawn from the [[coleman-british-adoption-of-french-intensive-gardening]] tradition (*la culture maraîchère*) and British market gardening.
 
 ### Foundational European Texts
 
@@ -68,7 +68,7 @@ Coleman provides an annotated bibliography of foundational texts on intensive ve
 
 - **Smith, Thomas (1909, 1919). *French Gardening* and *The Profitable Culture of Vegetables*.** Sponsored by Joseph Fels, an American soap manufacturer who bought English land to help small-scale intensive producers get established.
 
-- **Weathers, John (1909). *French Market-Gardening*.** Though not the most complete, valuable for Weathers' extensive experience. Introduction by William Robinson.
+- **Weathers, John (1909). *French Market-Gardening*.** Though not the most complete, valuable for Weathers' extensive experience. Introduction by [[william-robinson]].
 
 ## Winter-Harvest Reading List
 
@@ -80,9 +80,9 @@ Coleman provides an annotated bibliography of foundational texts on intensive ve
 
 - **Artiss, Percy (1948). *Market Gardening*.** A competent grower who was "almost organic without saying so" — insisted that "the soil must be biologically healthy." Thorough coverage of field and greenhouse cultivation.
 
-- **Coleman, Eliot (1995). *The New Organic Grower* (Revised edition).** Indispensable background on soil-fertility management and cultural techniques. The Winter Harvest Handbook complements and updates the winter-harvest chapters in this earlier work.
+- **Coleman, Eliot (1995). *The New Organic Grower* (Revised edition).** Indispensable background on soil-fertility management and cultural techniques. The [[eliot-coleman-and-the-winter-harvest-handbook]] complements and updates the winter-harvest chapters in this earlier work.
 
-- **Gerst, Jean-Jacques (1993). *Légumes sous baches* (Vegetables Under Covers).** A professional French technical manual covering every possible vegetable and every combination of high tunnels, low tunnels, reflective covers, floating covers, and heated/unheated greenhouses. Written for more temperate climates than Maine but extremely valuable.
+- **Gerst, Jean-Jacques (1993). *Légumes sous baches* (Vegetables Under Covers).** A professional French technical manual covering every possible vegetable and every combination of high tunnels, low tunnels, reflective covers, floating covers, and heated/unheated greenhouses. Written for more [[fukuoka-natural-farming-temperate-climates]] than Maine but extremely valuable.
 
 ### Crop-Specific References
 
@@ -94,7 +94,7 @@ Coleman provides an annotated bibliography of foundational texts on intensive ve
 
 - **Nisley, Charles H. (1929). *Starting Early Vegetable and Flowering Plants Under Glass*.** A professional reference with information on plants, horticultural techniques, and building glasshouses. Includes extensive black-and-white photos of the 1920s vegetable industry.
 
-- **Van den Muijzenberg, Edwin W. B. (1980). *A History of Greenhouses*.** The story of greenhouse development from earliest recorded examples through modern Dutch glasshouses — fascinating reading for anyone interested in protected cultivation history.
+- **Van den Muijzenberg, Edwin W. B. (1980). *A History of Greenhouses*.** The story of greenhouse development from earliest recorded examples through modern Dutch glasshouses — fascinating reading for anyone interested [[crop-rotation-in-protected-cultivation]] history.
 
 - **Wittwer, S. H., and S. Honma (1979). *Greenhouse Tomatoes, Lettuce, and Cucumbers*.** A solid introduction to greenhouse techniques, though some material is dated.
 

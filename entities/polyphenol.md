@@ -9,22 +9,22 @@ tags: [chemistry, plant-compound, decomposition, secondary-metabolite, inhibitor
 
 ## Description
 
-Polyphenols are a diverse class of organic compounds containing multiple phenol units, produced by plants as secondary metabolites. They include tannins, flavonoids, lignin precursors, and many other compound classes. In ecosystem science, polyphenols are significant as inhibitors of decomposition and [[nutrient-mineralization]], reducing the rate at which fungi and other microorganisms break down plant litter and release nutrients.
+Polyphenols are a diverse class of organic compounds containing multiple phenol units, produced by plants as [[antifungal-secondary-metabolites-coprophilous-fungi]]. They include tannins, flavonoids, lignin precursors, and many other compound classes. In ecosystem science, polyphenols are significant as inhibitors of decomposition and [[nutrient-mineralization]], reducing the rate at which fungi and other microorganisms break down plant litter and release nutrients.
 
 ## Classification
 
 - **Category**: Plant secondary compound / organic polymer
 - **Chemical class**: Heterogeneous group of compounds with multiple phenolic hydroxyl groups
 - **Major subclasses relevant to decomposition**: Tannins (hydrolyzable and condensed), flavonoids, phenolic acids
-- **Function in plants**: Defense against herbivory and microbial attack, UV protection, structural support
+- **Function in plants**: Defense against herbivory and microbial attack, UV protection, [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]
 
 ## Key Facts
 
 - Polyphenols inhibit the rates of decomposition of plant material by soil microorganisms (Harborne, 1997), acting as a chemical defense that persists after plant tissue senescence.
-- Vanlauwe et al. (1997) showed that the polyphenol:nitrogen ratio alone often shows little negative relationship with nitrogen mineralization from leaf litter.
+- Vanlauwe et al. (1997) showed that the polyphenol:nitrogen ratio alone often shows little negative relationship with [[fungal-nitrogen-mineralization-pathways]] from leaf litter.
 - However, the combined (lignin + polyphenol):N ratio provides the strongest regression coefficients for predicting both mass loss (0.77) and nitrogen mineralization (0.68).
 - This combined ratio outperforms C:N ratio, lignin:N ratio, or polyphenol:N ratio alone as a predictor of decomposition dynamics.
-- Polyphenols are particularly important in tropical and Mediterranean ecosystems where many plant species produce high levels of these compounds.
+- Polyphenols are particularly important in tropical and [[fungal-diversity-mediterranean-ecosystems]] where many plant species produce high levels of these compounds.
 
 ## Relationship to Tannins
 
@@ -60,8 +60,8 @@ Polyphenols are a diverse class of organic compounds containing multiple phenol 
 
 - Vanlauwe et al. (1997) — Combined lignin + polyphenol:N ratio regression analysis
 - Harborne (1997) — Plant secondary chemicals and their effects on decomposition
-- Heal and Dighton (1985) — Resource quality and decomposition rates
-- Swift et al. (1979) — Decomposition and nutrient cycling model
+- Heal and Dighton (1985) — [[fungal-resource-quality-and-enzyme-production]] decomposition rates
+- Swift et al. (1979) — Decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] model
 
 ## Agricultural and Forestry Implications
 

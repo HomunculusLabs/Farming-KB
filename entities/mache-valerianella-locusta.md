@@ -7,7 +7,7 @@ tags: [species, vegetable, cold-hardy, winter-crop, valerianaceae, salad-green]
 
 ## Overview
 
-Mache (Valerianella locusta), also known as corn salad, lamb's lettuce, or field salad, is a small, cold-hardy annual leaf vegetable in the family Caprifoliaceae (formerly Valerianaceae). It is one of the standout winter crops in Eliot Coleman's unheated greenhouse system at [[four-season-farm]], valued for its exceptional cold tolerance, nutty flavor, and ability to thrive during the shortest days of winter. Along with claytonia and minutina, mache is classified as one of the "novel" cold-hardy crops that Coleman introduced to American winter vegetable production.
+Mache (Valerianella locusta), also known as corn salad, lamb's lettuce, or field salad, is a small, cold-hardy annual leaf vegetable in the family Caprifoliaceae (formerly Valerianaceae). It is one of the standout winter crops in Eliot Coleman's [[cold-house-unheated-greenhouse]] system at [[four-season-farm]], valued for its exceptional cold tolerance, nutty flavor, and ability to thrive during the shortest days of winter. Along with claytonia and minutina, mache is classified as one of the "novel" cold-hardy crops that Coleman introduced to American [[coleman-french-historical-winter-vegetable-production]].
 
 ## Classification
 
@@ -34,10 +34,10 @@ Mache is among the most cold-tolerant of all salad greens:
 ## Role in the Winter-Harvest System
 
 Key production characteristics at Four Season Farm:
-- **Sowing**: Part of the succession planting schedule beginning August 1
+- **Sowing**: Part of the [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] beginning August 1
 - **Growth Rate**: Slower in winter due to short days, but earlier planting compensates
 - **Harvest Window**: Extended; plants hold well in the ground through winter
-- **Protection**: Grown under double coverage (hoop house + [[floating-row-cover]])
+- **Protection**: Grown under [[double-coverage]] (hoop house + [[floating-row-cover]])
 - **Regrowth**: Reasonable [[cut-and-come-again]] performance
 
 ## Harvest Season
@@ -75,11 +75,11 @@ Mache is one of the few crops showing uninterrupted harvest availability across 
 - **Lamb's lettuce**: English name (appears in pastures in spring)
 - **Field salad**: German "Feldsalat"
 - Native to Europe, North Africa, and western Asia
-- Long history of both wild foraging and cultivation in Europe
+- Long history of both [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]] cultivation in Europe
 
 ## Relevance to Cultivation and Mycology
 
-Mache is an ideal companion crop in integrated winter production systems. Its low light requirements allow growing under shelving or in partially shaded greenhouse areas. The compact growth habit suits interplanting with other crops or alongside mushroom beds. Cold tolerance extends the productive season for mixed growing operations combining vegetables and mushrooms in shared protected structures.
+Mache is an ideal companion crop in integrated winter production systems. Its low [[growing-gourmet-light-requirements-mushroom-fruiting]] allow growing under shelving or in partially shaded greenhouse areas. The compact growth habit suits interplanting with other crops or alongside mushroom beds. Cold tolerance extends the productive season for mixed growing operations combining vegetables and mushrooms in shared protected structures.
 
 ## Key Facts
 

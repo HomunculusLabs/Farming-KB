@@ -1,5 +1,5 @@
 ---
-title: Seed Germination Standards and Testing
+title: [[usda-seed-germination-standards-and-law]] and Testing
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -15,7 +15,7 @@ A seed lot that germinates at 95% in the lab will produce vastly better field re
 ### The Three Levels of Germination Quality
 
 1. **USDA Minimum Standard Germination**: The legal floor — the lowest acceptable germination percentage. Seed below this may not be sold unless plainly marked "BELOW STANDARD."
-2. **Quality company minimum**: Companies like Johnny's Selected Seeds set internal standards 5-15 percentage points above USDA minimums
+2. **Quality company minimum**: Companies like Johnny's [[johnnys-selected-seeds]] set internal standards 5-15 percentage points above USDA minimums
 3. **Commercial quality**: What farmers and market gardeners demand — the highest standard
 
 ### Germination Standards by Crop (Selected Examples)
@@ -42,7 +42,7 @@ In the US, Canada, and EU, any package of seed weighing more than one pound (454
 
 ### The Small-Packet Exemption
 
-Garden seed packets (typically 1-5 grams) are exempt from this labeling requirement. If they were required to show germination data, it would cost only a few cents more per packet. Instead, a regulation called "USDA Minimum Standard Germination" was created specifically for the small-packet trade — this allows packets to be sold without showing actual germination, as long as the seed presumably meets the minimum.
+[[garden-seed-management]] packets (typically 1-5 grams) are exempt from this labeling requirement. If they were required to show germination data, it would cost only a few cents more per packet. Instead, a regulation called "USDA Minimum Standard Germination" was created specifically for the small-packet trade — this allows packets to be sold without showing actual germination, as long as the seed presumably meets the minimum.
 
 ### Enforcement Reality
 
@@ -58,7 +58,7 @@ Germination is not static — it declines over time. A seed lot that tests at 90
 - **Moderate decline** (3-4 years): Bean, pea, most brassicas
 - **Slow decline** (5+ years): Tomato, pepper, some squash
 
-A quality seed seller must buy seed at germination levels significantly higher than their sell-at minimum to ensure seeds are still above minimum when gardeners plant them 6-9 months later. When the author ran Territorial Seed Company, he tried to buy seeds at levels at least 5 percentage points above Johnny's minimum levels.
+A quality seed seller must buy seed at germination levels significantly higher than their sell-at minimum to ensure seeds are still above minimum when gardeners plant them 6-9 months later. When the author ran [[territorial-seed-company]], he tried to buy seeds at levels at least 5 percentage points above Johnny's minimum levels.
 
 ## How to Test Your Own Seed
 

@@ -45,7 +45,7 @@ survive perennially on the telial host.
 
 An estimated 168 rust genera and approximately 7000 species, more than
 half of which are in the genus Puccinia, are currently accepted. The
-majority of species in temperate regions of the northern hemisphere,
+majority of species in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the northern hemisphere,
 Australia, and New Zealand have been well catalogued, but many new
 genera and species are still expected in tropical and subtropical
 regions such as South America, Africa, and Southeastern Asia.
@@ -60,7 +60,7 @@ in the tropics is higher than that in temperate regions. See
 - [[fungal-species-estimates-biodiversity-overview]] for diversity estimates
 ## Practical Considerations
 
-Successful implementation of Rust Fungi Taxonomy Diversity and Distribution requires attention to
+Successful implementation of Rust [[lichenized-fungi-taxonomy-diversity]] and Distribution requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -80,7 +80,7 @@ communities, and systematic experimentation to build expertise.
 ## Overview
 
 Rust Fungi represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Rust Fungi finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 rust fungi and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -6,7 +6,7 @@ type: concept
 
 # Starting a New Garden: Killing Sod and Preparing Soil
 
-Converting a grass-covered area into productive vegetable garden beds is one of the
+Converting a grass-covered area into productive [[aphid-management-vegetable-garden-solomon]] beds is one of the
 most physically demanding but foundational tasks in food gardening. [[steve-solomon]]
 covers two primary methods — **rotary cultivation** and **hand-digging** — each with
 specific techniques, timing considerations, and realistic expectations about the
@@ -31,7 +31,7 @@ wastes energy. The ready-to-till test is a simple hands-on check:
 | Soil **won't form a ball at all** | No clay content — won't form problematic clods | Can till at wider moisture range |
 
 This test matters because tilling wet clay-loam soils creates large, rock-hard
-clods that persist through the entire growing season and resist breaking down
+clods that persist through the entire [[savory-growing-season-and-non-growing-season-management]] resist breaking down
 with subsequent cultivation passes.
 
 ## Killing Sod by Rotary Cultivation
@@ -83,7 +83,7 @@ depth. Key characteristics:
   conventional agriculture.
 - They are **extremely compacted** — far denser than the soil above or below.
 - They **block root penetration**, confining vegetable roots to the top 5–7
-  inches and severely limiting drought tolerance and nutrient access.
+  inches and severely limiting [[dighton-fungal-drought-tolerance-plant-water-relations]] and [[ericoid-mycorrhizae-organic-nutrient-access]].
 - Walk-behind tillers **cannot break through** a plow pan — the 5-inch depth
   limit means they never reach it.
 
@@ -131,13 +131,13 @@ Rather than trying to dig an entire bed-width in each spade stroke:
 
 ## Timing: Autumn vs. Spring
 
-**Autumn digging is strongly preferred** over spring for starting a new garden:
+**[[solomon-autumn-digging-new-garden-bed-preparation]] is strongly preferred** over spring for starting a new garden:
 
 - Any weed seeds that germinate after the initial digging are **killed by
   winter frost** before they can establish.
 - The soil settles and mellows over winter, producing a finer seedbed by
   spring.
-- Organic matter (inverted sod) begins decomposing during the off-season.
+- [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] (inverted sod) begins decomposing during the off-season.
 - Spring work is reduced to light raking and planting rather than heavy sod
   removal.
 

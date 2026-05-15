@@ -45,7 +45,7 @@ Notably, Newsham et al. found no change in the leaf litter niches occupied by fu
 
 Paradoxically, acidifying pollutants containing nitrogen can stimulate fungal activity and decomposition under certain conditions. In a mesocosm experiment exposing plants and leaf litter to ozone and acid mist (2:1 mixture of H2SO4:HNO3), Shaw (1996) found that metabolically active (fluorescein diacetate-stained) fungal hyphae in leaf litter were significantly more abundant in acid-misted than control systems. This stimulation was attributed to the nitrogen component of the acid mist, which would help decompose high C:N litter resources (Garrett, 1963; Killham et al., 1983; Shaw and Johnston, 1993).
 
-This dual effect — sulfur components inhibiting while nitrogen components stimulating fungal activity — complicates predictions about the net impact of mixed acidifying pollutants on decomposition processes. The balance between inhibition and stimulation likely depends on the chemical composition of the pollutant mixture, the C:N ratio of the litter being decomposed, and the composition of the fungal community.
+This dual effect — sulfur components inhibiting while nitrogen components stimulating fungal activity — complicates predictions about the net impact of mixed acidifying pollutants on decomposition processes. The balance between inhibition and stimulation likely depends on the [[chemical-composition-of-hallucinogens]] the pollutant mixture, the C:N ratio of the litter being decomposed, and the composition of the fungal community.
 
 ## Liming as Remediation
 
@@ -56,11 +56,11 @@ Experimental field-scale liming has been investigated as a remediation strategy 
 - Increased abundance of *Amphinema byssoides*, *Hyphodontia breviseta*, *Hypochnicium geogenium*, and *Sistotrema octosporum*
 - Decreased abundance of *Trechispora farinacea*
 
-The rationale for this community shift is that elevated soil pH increases nitrogen availability and stimulates decomposition of the high C:N ratio woody material. This makes coniferous wood — which is normally low resource quality for decomposers — more similar to the higher resource quality wood of angiosperms. The liming effect thus appears to be mediated primarily through changes in nutrient availability and resource quality rather than through direct pH effects on fungal physiology.
+The rationale for this community shift is that elevated soil pH increases nitrogen availability and stimulates decomposition of the high C:N ratio woody material. This makes coniferous wood — which is normally low resource quality for decomposers — more similar to the higher resource quality wood of angiosperms. The liming effect thus appears to be mediated primarily through changes in nutrient availability [[fungal-enzyme-systems-and-resource-quality]] rather than through direct pH effects on fungal physiology.
 
 ## Effects on Fungal-Faunal Interactions
 
-Changes in fungal community structure and biomass caused by acidifying pollutants propagate through soil food webs to affect faunal communities. The evidence comes from multiple experimental approaches:
+Changes in [[mineralogical-controls-fungal-community-structure]] and biomass caused by acidifying pollutants propagate through soil food webs to affect faunal communities. The evidence comes from multiple experimental approaches:
 
 **Nematode trophic shifts**: Ruess et al. (1993) correlated changes in nematode trophic groups to changes in the bacteria:fungi ratio of forest soils subjected to experimental applications of sulfuric, nitric, and oxalic acids. Using the maturity index (Bongers, 1990), they showed a shift from bacterial-feeding to fungal-feeding nematodes with acid addition, indicating that bacteria are more sensitive to soil pH changes and associated metal toxicity than fungi.
 
@@ -72,9 +72,9 @@ Changes in fungal community structure and biomass caused by acidifying pollutant
 - Reduction in omnivorous and predatory nematodes (*Filenchus* spp. and *Aporcelaimellus obtusicaudatus*)
 - Increase in fungal-feeding nematodes (particularly *Aphelenchoides* spp.)
 
-**Two-year pine forest study**: Esher et al. (1992) found no effects of acid precipitation (pH 4.3 and 3.6) on saprotrophic microbial communities (using dilution plate counts), nematode numbers, or arbuscular mycorrhizal spore counts in southern US pine forests. However, they documented significant reductions in fine root length, dry mass, and ectomycorrhizal short roots of both loblolly pine (*Pinus taeda*) and longleaf pine (*Pinus palustris*). Numbers of oribatid, prostigmatid, and astigmatid mites increased with increasing soil acidity, possibly reflecting changes in fungal food resource availability.
+**Two-year pine forest study**: Esher et al. (1992) found no effects of acid precipitation (pH 4.3 and 3.6) on saprotrophic microbial communities (using dilution plate counts), nematode numbers, or [[arbuscular-mycorrhizal-spore-extraction-methods]] counts in southern US pine forests. However, they documented significant reductions in fine root length, dry mass, and ectomycorrhizal short roots of both loblolly pine (*Pinus taeda*) and longleaf pine (*Pinus palustris*). Numbers of oribatid, prostigmatid, and astigmatid mites increased with increasing soil acidity, possibly reflecting changes in fungal food resource availability.
 
-The consistent finding across these studies is that acidification shifts soil food web structure, generally favoring fungal-based energy channels over bacterial-based channels, and altering the balance between trophic groups within fungal-feeding faunal communities.
+The consistent finding across these studies is that acidification shifts [[soil-food-web-structure]], generally favoring fungal-based energy channels over bacterial-based channels, and altering the balance between trophic groups within fungal-feeding faunal communities.
 
 ## Phylloplane Fungal Communities
 
@@ -90,8 +90,13 @@ In cereal crops, Magan and McLeod (1991) demonstrated significant reduction in p
 
 ## Aquatic Fungal Communities
 
-In aquatic ecosystems, the impact of acidifying pollutants appears less severe, probably due to the large dilution factor in water bodies. Bärlocher (1992a,b) reported that aquatic fungal communities show relatively little response to acidification, though a reduction in water pH from 6 to 4 did decrease fungal growth on alder leaves. The buffering capacity of aquatic systems and the dilution of atmospheric pollutants in water appear to provide some protection for aquatic fungi.
+[[fungal-decomposition-in-aquatic-ecosystems-concluding-perspectives]], the impact of acidifying pollutants appears less severe, probably due to the large dilution factor in water bodies. Bärlocher (1992a,b) reported that aquatic fungal communities show relatively little response to acidification, though a reduction in water pH from 6 to 4 did decrease fungal growth on alder leaves. The buffering capacity of aquatic systems and the dilution of atmospheric pollutants in water appear to provide some protection for aquatic fungi.
 
 ## Conclusions
 
-Acidifying pollutants affect saprotrophic fungal communities through direct toxicity (sulfite inhibition of growth and respiration), indirect nutrient-mediated effects (nitrogen stimulation of decomposition), and community-level shifts in competitive dynamics. The responses are highly species-specific, substrate-dependent, and vary with the chemical composition of the pollutant mixture. These fungal community changes propagate through soil food webs, altering faunal community structure and trophic interactions. The net effect on ecosystem-level processes such as decomposition and nutrient cycling is difficult to predict due to these complex, often opposing mechanisms, but the evidence clearly demonstrates that acidifying pollutants fundamentally alter the structure and function of saprotrophic fungal communities.
+Acidifying pollutants affect saprotrophic fungal communities through direct toxicity (sulfite inhibition of growth and respiration), indirect nutrient-mediated effects (nitrogen stimulation of decomposition), and community-level shifts in competitive dynamics. The responses are highly species-specific, substrate-dependent, and vary with the chemical composition of the pollutant mixture. These fungal community changes propagate through soil food webs, altering faunal community structure and trophic interactions. The net effect on ecosystem-level processes such as decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] is difficult to predict due to these complex, often opposing mechanisms, but the evidence clearly demonstrates that acidifying pollutants fundamentally alter the structure and function of saprotrophic fungal communities.
+## See also
+
+- [[acidifying-pollutants-mycorrhizae-plant-nutrition]]
+- [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]]
+- [[nitrogen-deposition-ectomycorrhizal-community-structure]]

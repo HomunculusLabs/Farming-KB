@@ -1,5 +1,5 @@
 ---
-title: Ectomycorrhizal Nutrient Cycling and Forest Dynamics
+title: [[ectomycorrhizal-nutrient-cycling-mycelial-networks]] and Forest Dynamics
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -9,7 +9,7 @@ type: concept
 ## Overview
 
 Ectomycorrhizal (ECM) fungi form symbiotic associations with the roots of
-many forest trees, playing a central role in nutrient cycling, carbon
+many forest trees, playing a central role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], carbon
 allocation, and ecosystem stability. Research from Dighton's treatment of
 fungi in ecosystem processes reveals a complex web of interactions — spanning
 inter-plant resource transfer, functional diversity, microbial facilitation,
@@ -68,7 +68,7 @@ Garbaye & Duponnois (1992) demonstrated that MHB effects in the
 Pseudotsuga-Laccaria symbiosis were not generalizable across all plant-
 fungus combinations, revealing interaction specificity. Duponnois &
 Garbaye (1990, 1991) elucidated mechanisms including siderophore-mediated
-iron availability and volatile organic compounds promoting fungal hyphal
+iron availability and [[chamovitz-plant-scent-communication-volatile-organic-compounds]] promoting fungal hyphal
 extension. MHB research highlights the importance of viewing mycorrhizal
 function within a broader microbial community context, with potential
 applications in forest nursery practices and restoration ecology.
@@ -76,7 +76,7 @@ applications in forest nursery practices and restoration ecology.
 
 Certain ECM fungi, particularly hypogeous species such as Hysterangium
 crassum, form dense mycelial mats that radically alter soil chemical and
-biological properties. Cromack et al. (1979) documented calcium oxalate
+biological properties. Cromack et al. (1979) documented [[fungal-calcium-oxalate-and-carbonate-precipitation]]
 accumulation within H. crassum mats and demonstrated that oxalate
 excretion drives accelerated soil weathering, releasing calcium and other
 cations from mineral matrices. Griffiths et al. (1990) investigated
@@ -100,7 +100,7 @@ soil organic matter. MacFall et al. (1991) found that mycorrhizal
 colonization typically enhances root acid phosphatase activity, increasing
 the enzymatic capacity of the entire root system. Phosphatase-mediated
 phosphorus cycling is especially significant in late-successional and boreal
-forests where mineral phosphorus availability is low and organic matter
+forests where mineral [[phosphorus-availability]] is low and organic matter
 turnover is slow.
 ## 6. Fungal Succession and Community Dynamics
 
@@ -121,7 +121,7 @@ regimes will reshape ECM communities and their nutrient cycling functions.
 
 Mycorrhizal fungi play an especially important role under environmental
 stress. Colpaert & Van Tichelen (1996) reviewed effects of heavy metals,
-drought, and other stressors on mycorrhizal function, concluding that
+drought, and other stressors [[faunal-grazing-effects-on-mycorrhizal-function]], concluding that
 colonization generally ameliorates stress by improving nutrient uptake,
 osmotic regulation, and metal sequestration. Hildebrandt et al. (2001)
 surveyed AM colonization of halophytes in central European salt marshes

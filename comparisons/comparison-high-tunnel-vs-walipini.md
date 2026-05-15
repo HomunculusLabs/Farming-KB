@@ -8,7 +8,7 @@ sources:
   - https://www.sare.org/publications/season-extension-techniques-for-market-gardeners/
   - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=299
   - https://www.bensoninstitute.org/publications/thesis/walipini/
-  - Coleman, Eliot. The coleman-claytonia-winter-harvest-cultivation Handbook. Chelsea Green, 2009.
+  - Coleman, Eliot. The coleman-claytonia-winter-harvest-cultivation Handbook. [[chelsea-green-publishing]], 2009.
 type: comparison
 ---
 
@@ -36,8 +36,8 @@ extreme cold.
 | **Drainage needs** | Minimal; raised beds and grading usually sufficient | Critical — must prevent all water infiltration into the pit |
 | **Pest pressure** | Moderate; some exclusion from enclosure but open bottom | Low below-ground; aphids and fungus gnats thrive in humid enclosed air |
 | **Space requirements** | Flat open area; no excavation; standard 30 ft width typical | Excavated pit 6–8 ft deep; needs additional land for spoil and access |
-| **Best climate zones** | 3–9 (most versatile across climates) | 3–7 (greatest advantage in cold, dry climates with low water tables) |
-| **Best uses** | Spring/fall extension, hardy winter greens, seedling starts | Year-round growing in cold climates, [[holzer-frost-protection-techniques]]
+| **Best [[humid-tropics-design-and-climate-zones]]** | 3–9 (most versatile across climates) | 3–7 (greatest advantage in cold, dry climates with low water tables) |
+| **Best uses** | Spring/fall extension, hardy winter greens, seedling starts | Year-round growing [[query-how-do-i-grow-figs-in-cold-climates]], [[holzer-frost-protection-techniques]]
 - **Tools required:** Post driver, socket wrenches, poly clip locks or wiggle wire, tape measure,
   ladder, circular saw
 
@@ -59,7 +59,7 @@ extreme cold.
   section on the north side to reduce heat loss
 - **Ventilation:** Ridge vent at roof peak, low-level intake vents, and an exhaust fan (thermostat
   or humidistat controlled) to manage moisture
-- **Tools required:** Excavating equipment, concrete mixer (optional), carpentry tools, laser level,
+- **Tools required:** Excavating equipment, [[clay-seed-pellet-production-method-concrete-mixer]] (optional), carpentry tools, laser level,
   staple gun, caulking gun, safety equipment for deep trench work
 
 ## Suitable Crops
@@ -90,11 +90,11 @@ would fail outright in an unheated high tunnel.
 - Portable and temporary designs available; can relocate or expand incrementally
 - Proven ROI for market gardeners — SARE data shows 2–3 year payback on average
 - Minimal permitting required in most jurisdictions (check local codes)
-- Compatible with standard farm equipment and crop rotation practices
+- Compatible with standard [[coleman-small-farm-equipment-and-tools]] crop rotation practices
 
 ### High Tunnel — Cons
 
-- Limited winter production in cold zones (below zone 6) without supplemental heat
+- Limited [[coleman-beet-greens-cold-house-winter-production]] in cold zones (below zone 6) without supplemental heat
 - Poly film degrades from UV exposure; recurring $300–$800 replacement cost every 4–6 years
 - Vulnerable to extreme wind events if not properly anchored and tensioned
 ## See Also

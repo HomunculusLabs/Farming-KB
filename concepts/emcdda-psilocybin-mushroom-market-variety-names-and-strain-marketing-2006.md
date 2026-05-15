@@ -1,5 +1,5 @@
 ---
-title: "Emcdda Psilocybin Mushroom Market Variety Names And Strain Marketing 2006"
+title: "[[emcdda-psilocybin-mushroom-dose-and-effects]] Market Variety Names And Strain Marketing 2006"
 source: "carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper)"
 extracted: 2026-05-11
 type: concept
@@ -25,7 +25,7 @@ included:
 ### Mexican
 The "Mexican" variety was among the most widely available and was often
 positioned as an entry-level product for novice consumers. Its association with
-the historical and cultural origins of [[fukuoka-natural-farming-tropical-climates]] and
+the [[historical-and-cultural-uses-of-psychoactive-mushrooms]] origins of [[fukuoka-natural-farming-tropical-climates]] and
 traditional use contexts. Thai strains were available as fresh mushrooms, dried
 products, and in some cases as spore prints or growkits. The visual
 presentation of Thai varieties in marketing materials often emphasized their
@@ -33,7 +33,7 @@ exotic provenance.
 
 ### Colombian
 Colombian cubensis varieties occupied a similar marketing niche, drawing on
-the geographic prestige of South American psychedelic culture. Colombia's
+the geographic prestige of [[chiric-caspi-brunfelsia-south-american-hallucinogen]] psychedelic culture. Colombia's
 reputation for biodiversity and its historical significance in the
 ethnobotanical literature contributed to consumer perception of Colombian
 strains as potent and authentic products.
@@ -46,7 +46,7 @@ some retail channels, though the specific geographic origin and genetic
 distinctness of strains sold under this name were rarely documented or verified.
 
 ### Other Varieties
-Additional varieties included Ecuadorian, Hawaiian, and Golden Teacher. The
+Additional varieties included Ecuadorian, Hawaiian, and [[golden-teacher-cubensis]]. The
 proliferation of names reflected both genuine strain diversity and marketing
 differentiation strategies to segment product offerings.
 
@@ -71,7 +71,7 @@ consumer communication about products.
 ## Fresh vs Dried Products
 
 Mushrooms were sold in two primary product forms, each with distinct
-implications for potency, shelf life, and user experience:
+implications for potency, shelf life, and [[hallucinogenic-mushroom-user-experience-barriers-diffusion-repeat-use]]:
 
 ### Fresh Mushrooms
 Fresh mushrooms contained a higher water content and were typically sold by
@@ -85,7 +85,7 @@ Dried products represented the more concentrated form, with significantly
 higher alkaloid content per unit of weight compared to fresh specimens. Dried
 mushrooms were easier to transport, store, and sell online. However, the drying
 process itself could affect potency, and the concentration of active compounds
-varied depending on drying method and storage conditions.
+varied depending on drying method and [[spawn-storage-conditions]].
 
 ## Home Cultivation Products
 

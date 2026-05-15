@@ -76,7 +76,7 @@ solar system, working with the pattern of seasonal sun angles.
 
 ## Overview
 
-Permaculture Design From Patterns To Details represents an important element within sustainable
+Permaculture [[design-from-patterns-to-details]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

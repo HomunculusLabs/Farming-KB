@@ -1,5 +1,5 @@
 ---
-title: Tropical Soil Life and Humus Sources
+title: Tropical Soil Life and [[humus-sources-and-mulch-systems-tropics]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -10,13 +10,13 @@ type: concept
 
 ## Termites and Ants as Ecosystem Engineers
 
-Research by Harris (1971) documented that leaf-cutter ants in South America and termite mounds in Uganda actively assist forest spread and establish vegetation islands within grasslands. This phenomenon has been observed as far afield as granite country in Hyderabad, India and acid peatlands in Tasmania, demonstrating the near-universal role of these soil engineers across tropical and subtropical environments.
+Research by Harris (1971) documented that leaf-cutter ants in [[guzman-psilocybin-mushrooms-south-america]] and termite mounds in Uganda actively assist forest spread and establish vegetation islands within grasslands. This phenomenon has been observed as far afield as granite country in Hyderabad, India and acid peatlands in Tasmania, demonstrating the near-universal role of these soil engineers across tropical and subtropical environments.
 
 Ant and termite mounds serve as protected microsites that shield soils from fire, waterlogging, and poor aeration—three of the most persistent challenges in tropical landscapes. The mounds themselves are enriched in calcium and potash, exhibit better aeration than surrounding soils, and support faster water infiltration, making them exceptionally fertile planting sites.
 
 ## Succession on Mounds
 
-Termite and ant mounds initiate a predictable succession sequence that moves from open grassland toward forest canopy:
+[[mollison-designers-termite-and-ant-mound-niche-gardening]] mounds initiate a predictable succession sequence that moves from open grassland toward forest canopy:
 
 1. **Tall grasses** — *Pennisetum*, *Eragrostis* colonize first
 2. **Shrubs** — castor oil bean, *Prosopis*, thorny legumes establish
@@ -50,7 +50,7 @@ Logs and branches form one of the most substantial humus sources. They can be pl
 
 A traditional Hawaiian strategy involves placing kukui tree (*Aleurites moluccana*) logs in shallow taro terrace water. Edible fungi colonize the submerged wood, and once the log has partially decomposed, the remaining material is crushed and spread across the terrace as rich organic amendment.
 
-Marjorie Spears developed a related approach using roughwood terraces on deforested slopes, building retaining structures from rejected logs that simultaneously stabilize soil and generate humus as they decay.
+[[marjorie-spears-mollison]] developed a related approach using roughwood terraces on deforested slopes, building retaining structures from rejected logs that simultaneously stabilize soil and generate humus as they decay.
 
 ### Detritus from Woody Plants
 
@@ -77,14 +77,14 @@ Lemongrass and comfrey are recommended as a combined kikuyu barrier and mulch cr
 
 ### Green Mulch and Ground Cover
 
-Soft legumes provide fast-cycling green manure and living ground cover. Key species include *Sesbania*, vetch, cowpea, lablab, soya bean, *Desmodium*, *Siratro*, and *Centrosema*. These can be intercropped, used as relay covers, or grown in dedicated green-manure beds before incorporation.
+Soft legumes provide fast-cycling [[holzer-green-manure-and-soil-building-plants]] living ground cover. Key species include *Sesbania*, vetch, cowpea, lablab, soya bean, *Desmodium*, *Siratro*, and *Centrosema*. These can be intercropped, used as relay covers, or grown in dedicated green-manure beds before incorporation.
 
 ## Managing Difficult Mulch
 
 Some mulch materials—particularly resprouting weeds and persistent rhizomatous species—resist conventional decomposition and may re-establish if simply laid on the soil surface. Mollison outlines several strategies for handling these materials:
 
 - **Route through animal systems** — pass difficult weeds through poultry or cattle pens where trampling, digestion, and manuring break them down
-- **Shred for biogas** — mechanical shredding followed by anaerobic digestion in a biogas unit converts problem vegetation into energy and digestate
+- **Shred for biogas** — mechanical shredding followed by [[anaerobic-digestion-biogas-production]] in a biogas unit converts problem vegetation into energy and digestate
 - **Solar "cooking"** — bag material in plastic and leave in full sun; the heat kills viable plant parts
 - **Water pit immersion** — submerge in covered water pits for anaerobic breakdown over weeks to months
 

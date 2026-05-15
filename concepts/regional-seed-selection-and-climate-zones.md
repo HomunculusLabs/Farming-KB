@@ -29,7 +29,7 @@ The consequence: gardeners in all regions get mediocre results because the varie
 
 **Key challenges**: Getting crops to mature before frost. Choosing varieties with the shortest possible days-to-maturity. Protecting from late spring and early autumn frosts.
 
-**Best suppliers**: Stokes Seeds, Johnny's Selected Seeds, Veseys Seeds, William Dam Seeds.
+**Best suppliers**: Stokes Seeds, Johnny's Selected Seeds, Veseys Seeds, [[william-dam-seeds]].
 
 ### Moderate Climates
 

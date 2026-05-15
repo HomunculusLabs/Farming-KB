@@ -9,7 +9,7 @@ type: concept
 ## Overview
 
 Donald E. Teeter, through the Ambrosia Society, proposed a provocative thesis: that the
-iconic red-and-white mushroom *Amanita muscaria* is the real botanical identity behind
+iconic red-and-white mushroom *[[amanita-muscaria]]* is the real botanical identity behind
 the "Herb of Immortality" referenced in ancient religious texts across the Eurasian
 continent. His book, *Amanita Muscaria; Herb of Immortality*, presents a
 cross-cultural, comparative-linguistic argument that the sacred plants of numerous

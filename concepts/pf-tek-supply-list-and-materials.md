@@ -6,7 +6,7 @@ type: concept
 
 # PF Tek Supply List and Materials
 
-The PF Tek (Psilocybe Fanaticus Technique) is organized into three distinct stages, each requiring its own set of materials and equipment. Most items are common household or readily available retail products. This comprehensive supply list covers everything needed for the complete cultivation cycle from spore syringe to harvest.
+The PF Tek ([[pf-tek-psilocybe-fanaticus]] Technique) is organized into three distinct stages, each requiring its own set of materials and equipment. Most items are common household or readily available retail products. This comprehensive supply list covers everything needed for the complete cultivation cycle from spore syringe to harvest.
 
 ## Stage One: Jar Preparation and Culturing
 
@@ -14,7 +14,7 @@ These materials are needed to prepare the substrate jars and inoculate them with
 
 ### Substrate Ingredients
 
-- **Organic brown rice flour**: Available at health food stores and organic grocers. Organic is preferred to avoid potential contamination from agricultural chemicals.
+- **Organic brown rice flour**: Available at health food stores and organic grocers. Organic is preferred to avoid potential contamination from [[agricultural-chemicals-mycorrhizal-impact]].
 - **Horticultural vermiculite**: Medium or fine grade — avoid powdery vermiculite which compacts too tightly. Available at garden centers and hardware stores.
 - **Distilled or filtered drinking water**: Tap water can introduce contaminants. Filtered or distilled water is strongly recommended.
 
@@ -29,12 +29,12 @@ These materials are needed to prepare the substrate jars and inoculate them with
 
 ## Stage Two: Mushroom Growing (Fruiting)
 
-These materials are used to create the fruiting environment where colonized cakes produce mushrooms. Items are sourced from pet shops and hardware stores.
+These materials are used to create the [[fruiting-environment-parameters]] where colonized cakes produce mushrooms. Items are sourced from pet shops and hardware stores.
 
 ### Terrarium Construction
 
 - **10-gallon aquarium**: The standard fruiting chamber. A 10-gallon size provides adequate space for multiple cakes while maintaining manageable humidity levels.
-- **Cut piece of transparent plastic (Plexiglas)**: Used as a partition to create a dual-chambered terrarium, which improves humidity management.
+- **Cut piece of transparent plastic (Plexiglas)**: Used as a partition to create a dual-chambered terrarium, which improves [[pf-tek-dual-chambered-terrarium-design-humidity-management]].
 - **Strips of wood with connectors and screws**: For constructing the terrarium lid frame.
 - **Plastic film and thumb tacks**: For sealing the terrarium lid while allowing some gas exchange.
 
@@ -62,7 +62,7 @@ These materials are needed for harvesting spores from mature mushrooms and creat
 
 ### Sterilization Equipment
 
-- **Denatured alcohol**: For sterilizing tools and work surfaces during the spore collection and syringe preparation process. Available at hardware stores.
+- **Denatured alcohol**: For sterilizing tools and work surfaces during the spore collection [[pf-tek-spore-printing-and-syringe-preparation]] process. Available at hardware stores.
 - **Tequila shot glass**: Used as a small container for flaming and sterilizing tools.
 - **Eye dropper**: For handling small volumes of sterilizing alcohol.
 
@@ -70,7 +70,7 @@ These materials are needed for harvesting spores from mature mushrooms and creat
 
 - **Glass stirring rod**: For stirring spore collections. Available from scientific supply houses.
 - **Plastic syringes (10 cc or larger)**: For drawing up and storing spore solution. Large syringes (20 cc to 65 cc) are particularly useful because they hold more spore solution and reduce the number of syringes needed.
-- **18 gauge 1.5-inch needles**: Standard needle size for spore syringe preparation. Extra-long needles are advantageous if available, as they reach deeper into the substrate during inoculation.
+- **18 gauge 1.5-inch needles**: Standard needle size for [[mushroom-spore-syringe-preparation]]. Extra-long needles are advantageous if available, as they reach deeper into the substrate during inoculation.
 
 Syringes and needles can be sourced from retail medical supply stores, health supply shops, pharmacies, drug stores, and scientific/lab supply companies.
 

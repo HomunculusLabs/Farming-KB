@@ -34,11 +34,11 @@ soil containing 8 g/kg total PAHs from a coal production plant.
 The ability to degrade PAHs (phenanthrene, chrysene, pyrene, and
 benzo[a]pyrene) has been tested in 16 species (27 strains) of
 [[allegro-amanita-muscaria-properties-and-pharmacology]],
-Paxillus involutus, and Suillus grevillei utilized about 50% of
+[[paxillus-involutus]], and [[suillus-grevillei]] utilized about 50% of
 phenanthrene. Strains of Amanita excelsa, Leccinum versipelle, S.
 grevillei, S. luteus, and S. variegatus removed about the same amount
 of benzo[a]pyrene within 4 weeks. S. grevillei removed nearly 50%
-pyrene, while Boletus edulis and A. muscaria removed 35% of chrysene.
+pyrene, while [[boletus-edulis-and-pore-fungi-polyporaceae]] A. muscaria removed 35% of chrysene.
 
 ## Oxidative Enzyme Involvement
 
@@ -59,7 +59,7 @@ which correlates with the requirement for mycelium in symbiotic
 association with the plant. This finding has important implications for
 the practical application of ECM fungi in phytoremediation, as the
 plant-fungus partnership must be maintained for effective
-biotransformation of explosive contaminants. Phanerochaete
+biotransformation of [[mycoremediation-explosive-contaminants]]. Phanerochaete
 chrysosporium also degrades TNT, with evidence suggesting reduction as
 the initial mechanism (Stahl et al.).
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Singh Ectomycorrhizal Pah Tnt Transformation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 singh ectomycorrhizal pah tnt transformation and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

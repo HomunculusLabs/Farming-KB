@@ -1,19 +1,19 @@
 ---
-title: Desert Garden Bed Design and Planting Methods
+title: Desert Garden Bed Design and [[native-american-planting-methods-and-indigenous-agriculture]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Desert Garden Bed Design and Planting Methods
 
-Home gardens in drylands return so much in health, cash, and quality of life that they deserve intensive, bed-by-bed planning. In this approach, companion plants, seasonal succession, bed soil treatments, and a permanent watering method are all designed together as an integrated system.
+[[desert-home-gardens]] in drylands return so much in health, cash, and quality of life that they deserve intensive, bed-by-bed planning. In this approach, companion plants, [[mushroom-seasonal-succession-perennial-spawn]], bed soil treatments, and a permanent watering method are all designed together as an integrated system.
 
 ## Earth-Shaping Within Gardens
 
 A variety of garden bed forms can be used in desert gardens, each suited to different conditions and plant needs:
 
-- **Cool mulched pits** for trees — deep holes filled with organic matter to provide cool root zones
-- **Circle gardens** around a central mulch hole — efficient use of water and space
+- **Cool mulched pits** for trees — deep holes filled with [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] to provide cool root zones
+- **[[mollison-gangammas-mandala-and-banana-circle-gardens]]** around a central mulch hole — efficient use of water and space
 - **North-south ridges** to shade seedlings from intense lateral sun
 - **Mulch "baskets"** at clump plantings — contained mulch systems for individual plant groups
 - **Log boxes of mulch** over alkaline sands — raised beds using coarse woody material
@@ -57,7 +57,7 @@ Including potato, yam, sweet potato, flower bulbs, and sunroot:
 
 ### 4. Large or Fine Seeds
 
-Two main families of direct seeding:
+Two main families of [[clay-seed-pellets-direct-seeding]]:
 
 **Method 1 — Scatter over fine-tilth bed:**
 - Scatter seeds over a bed ideally of sieved compost

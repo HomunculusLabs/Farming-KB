@@ -39,7 +39,7 @@ Three synergistic mechanisms operate for mineral dissolution:
 
 ## Overview
 
-Fungi have been components of microbial communities of terrestrial environments
+Fungi have been components of [[cannabis-rhizosphere-microbial-communities]] of terrestrial environments
 including deserts, metal-rich and hypersaline habitats, since the Ordovician
 period (480-460 MYBP) (Heckman et al., 2001; Burford et al., 2003). The fungal
 explorative growth habit and high surface-area-to-mass ratio, together with
@@ -47,7 +47,7 @@ explorative growth habit and high surface-area-to-mass ratio, together with
 hydrated mucilaginous sheaths, ensure that fungal processes are an integral
 component of biogeochemical change (Gadd, 2004, 2006).
 
-Fungal bioweathering of basaltic outcrops in sub-polar areas is believed to be
+[[fungal-bioweathering-of-rocks]] basaltic outcrops in sub-polar areas is believed to be
 chronologically the first process of weathering, followed by cryogenic processes
 (Etienne and Dupont, 2002). Fungi can dissolve minerals and mobilize metals at
 higher pH values and over a wider redox range more efficiently than bacteria
@@ -71,7 +71,7 @@ rocks are more susceptible to fungal attack than acidic rocks (Eckhardt, 1985).
 ## Overview
 
 Metal Biotransformation Fungi represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Metal Biotransformation Fungi finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,7 +100,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 metal biotransformation fungi and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

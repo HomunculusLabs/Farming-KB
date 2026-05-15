@@ -14,13 +14,13 @@ Norpsilocin is a naturally occurring **tryptamine alkaloid** found in psilocybin
 
 ## Chemical Structure
 
-Norpsilocin differs from psilocin by a single methyl group. Where psilocin has a dimethylamine side chain (–CH₂–CH₂–N(CH₃)₂), norpsilocin has a monomethylamine (–CH₂–CH₂–NH–CH₃). This structural similarity places it as an intermediate in the proposed **biosynthetic pathway** between L-tryptophan and the final products psilocybin/psilocin.
+Norpsilocin differs from psilocin by a single methyl group. Where psilocin has a dimethylamine side chain (–CH₂–CH₂–N(CH₃)₂), norpsilocin has a monomethylamine (–CH₂–CH₂–NH–CH₃). This [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]] places it as an intermediate in the proposed **biosynthetic pathway** between L-tryptophan and the final products psilocybin/psilocin.
 
 The molecular formula is C₁₁H₁₄N₂O, with a molecular weight of 190.24 g/mol. Like psilocin, it contains the critical **4-hydroxy** substitution on the indole ring that enables interaction with serotonin 5-HT₂A receptors.
 
 ## Biosynthetic Role
 
-Norpsilocin occupies a key position in the metabolic pathway of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*. The enzyme **PsiM** functions as a **S-adenosyl-L-methionine (SAM)-dependent methyltransferase** capable of performing both the first and second N-methylations, with norpsilocin as the obligate intermediate.
+Norpsilocin occupies a key position in the [[gluconeogenesis-biochemistry-metabolic-pathway]] of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*. The enzyme **PsiM** functions as a **S-adenosyl-L-methionine (SAM)-dependent methyltransferase** capable of performing both the first and second N-methylations, with norpsilocin as the obligate intermediate.
 
 ## Pharmacology
 
@@ -71,7 +71,7 @@ than assuming perfect predictability or control over outcomes.
 ## Overview
 
 Norpsilocin represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Norpsilocin finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,7 +100,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 norpsilocin and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

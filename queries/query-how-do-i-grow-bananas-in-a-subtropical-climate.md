@@ -25,7 +25,7 @@ created: 2026-05-07
 
 # How Do I Grow Bananas Successfully in a Subtropical Climate?
 
-Growing bananas in a subtropical climate (USDA Zones 8b–10, roughly 30–35° latitude) is absolutely possible, but it requires variety selection, site planning, and winter protection strategies that tropical growers never need to think about. In Mediterranean, humid subtropical, and warm temperate climates — from Southern California to coastal Georgia, Southern Europe to Northern New Zealand — bananas can be highly productive with the right approach.
+Growing bananas in a subtropical climate (USDA Zones 8b–10, roughly 30–35° latitude) is absolutely possible, but it requires variety selection, site planning, and winter protection strategies that tropical growers never need to think about. In Mediterranean, humid subtropical, and warm [[fukuoka-natural-farming-temperate-climates]] — from Southern California to coastal Georgia, Southern Europe to Northern New Zealand — bananas can be highly productive with the right approach.
 
 ## Choose Cold-Tolerant Varieties
 
@@ -38,7 +38,7 @@ This is the single most important decision. Most commercial bananas (Cavendish, 
 | **Rajapuri** | AAB | Excellent (most cold-tolerant) | Small, sweet dessert | Short stature protects from wind; handles brief light frosts |
 | **'Orinoco' / 'Burro'** | AAB | Very good | Firm, cooking or dessert | Chunky fruit, dual-purpose, very reliable producer |
 | **Dwarf Brazilian / 'Apple'** | AAB | Good | Subacid, slight apple-strawberry tang | Short, wind-resistant; good flavor for fresh eating |
-| **'Mysore'** | AAB | Good | Sweet-tart, thin skin | Popular in India; bears well in marginal climates |
+| **'Mysore'** | AAB | Good | Sweet-tart, thin skin | Popular in India; bears well in [[holzer-fruit-growing-marginal-climates]] |
 | **'Cardaba'** | ABB | Very good | Cooking banana, starchy | Very hardy; if frost kills the top, the corm regrows reliably |
 | **'Pisang Ceylon'** | AAB | Good | Sweet dessert | Thin skin, excellent flavor; popular in Southern California |
 | **Misi Luki** | AA | Good | Sweet dessert | Developed in New Zealand for cooler conditions |
@@ -46,10 +46,10 @@ This is the single most important decision. Most commercial bananas (Cavendish, 
 
 ## Understand Your Climate's Limitations
 
-Subtropical climates challenge bananas in several ways:
+[[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] challenge bananas in several ways:
 
 - **Winter chill:** Temperatures below 13°C (55°F) stop growth entirely. Prolonged exposure below 10°C causes chilling injury (yellowing leaves, poor fruit quality). Frost below 0°C kills above-ground tissue
-- **Short [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] from planting to harvest
+- **Short [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]]
 - **Cool summer nights:** Even if daytime highs are warm, night temperatures below 15°C slow fruit filling and can cause poor ripening
 - **Dry summers:** Many subtropical zones have summer drought; bananas need consistent moisture
 - **Wind:** Subtropical areas (coastal, exposed) can be windy; bananas are highly susceptible
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Query How Do I Grow Bananas In A Subtropical Climate finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 query how do i grow bananas in a subtropical climate and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

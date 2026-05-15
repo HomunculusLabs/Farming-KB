@@ -66,7 +66,7 @@ among fungi sensu lato, while modern classification places it in Oomycota.
   it directly relevant to wheat and barley production systems where nematode
   damage causes significant yield losses globally.
 - **Sustainable agriculture:** Incorporating nematode-parasitic fungi like
-  N. gynophial into integrated pest management programs could reduce reliance on
+  N. gynophial into [[integrated-pest-management]] programs could reduce reliance on
   chemical controls while maintaining effective nematode suppression.
 - **Complementary to trapping fungi:** Works alongside trapping fungi like
   Arthrobotrys and Duddingtonia that target mobile juveniles, providing
@@ -79,7 +79,7 @@ among fungi sensu lato, while modern classification places it in Oomycota.
   Monacrosporium species in regulating nematode populations.
 - Effectiveness regulated by soil moisture, temperature, and organic matter
   content which affect fungal growth and nematode activity.
-- Part of the soil food web connecting fungal pathogens to nematode herbivores
+- Part of [[soil-food-web]] connecting fungal pathogens to nematode herbivores
   and plant hosts in agricultural ecosystems.
 
 ## References
@@ -88,3 +88,8 @@ among fungi sensu lato, while modern classification places it in Oomycota.
 - Kerry, B. R., Jafee, B. A. (1997). Nematophagous fungi as biocontrol agents
   for plant pathogens.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+## See also
+
+- [[arthrobotrys-fungi]]
+- [[verticillium-chlamydosporium]]
+- [[monacrosporium]]

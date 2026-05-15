@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Planning and Zoning
 
-Before breaking ground on any homestead project, understanding local zoning laws, building codes, and land-use regulations is essential. Violations can result in fines, forced removal of structures, and legal battles that drain time and money. Research before you buy, not after you build.
+Before breaking ground on any homestead project, understanding local zoning laws, building codes, and land-use regulations is essential. Violations can result in fines, forced removal of structures, and [[sacramental-ayahuasca-legal-battles-united-states]] that drain time and money. Research before you buy, not after you build.
 
 ## Understanding Zoning
 
@@ -60,12 +60,12 @@ Some jurisdictions allow agricultural structures (barns, sheds, greenhouses) wit
 - Greater freedom for home businesses
 
 ### Rural Challenges
-- Slower emergency response times
+- Slower [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]] times
 - Limited or no high-speed internet
 - Longer distances to supplies and markets
 - May need to maintain your own road/driveway
 - Well and septic are your responsibility — no municipal water or sewer
-- Limited building inspection services may mean you are more on your own for quality control
+- Limited building inspection services may mean you are more on your own for [[blesching-cannabis-contaminants-testing-quality-control]]
 
 ### Suburban Advantages
 - Proximity to markets, schools, healthcare
@@ -83,7 +83,7 @@ Some jurisdictions allow agricultural structures (barns, sheds, greenhouses) wit
 
 ## Agricultural Tax Exemptions
 
-Most states offer agricultural property tax exemptions or preferential assessment rates for land actively used for agricultural production. Requirements typically include:
+Most states offer agricultural property tax exemptions or preferential assessment rates for land actively used for [[fukuoka-agricultural-production-net-energy-deduction]]. Requirements typically include:
 
 - Minimum acreage (varies from 5 to 40 acres depending on state)
 - Minimum gross agricultural income per year (often $500-$2,500)

@@ -24,8 +24,8 @@ microwave-microbial kill kinetics:
 - **Microwave frequency:** 2.45 GHz
 - **Exposure rate:** 3.6 W/cm² of surface area
 - **Surface moisture:** Approximately 9 μL/cm²
-- **Challenge organisms:** Mixed population including *Bacillus pumilus*,
-  *Escherichia coli*, and *Pseudomonas cepacia*
+- **[[challenge-organisms-nasa-microwave-surface-sterilization-testing]]:** Mixed population including *[[bacillus-pumilus-nasa-challenge-organism-sterilization-validation]]*,
+  *Escherichia coli*, and *[[e-coli-pseudomonas-cepacia-microwave-susceptibility-surface-sterilization]]*
 - **Surface type:** Material surfaces within closed system access ports
 - **Exposure variable:** Cumulative energy dose measured in watt-hours (W-hr)
 
@@ -47,7 +47,7 @@ first-order inactivation kinetics. Key observations from the kill curves:
 2. **Multi-log reduction achievable:** Complete sterilization (reduction to
    zero detectable organisms) was achieved at a total exposure of approximately
    13.1 W-hr under the standard conditions. This corresponds to a reduction of
-   at least 6-7 orders of magnitude (10⁶ to 10⁷) from the initial population.
+   at least 6-7 [[event-classification-and-orders-of-magnitude]] (10⁶ to 10⁷) from the initial population.
 
 3. **Differential species sensitivity:** Within the mixed population,
    different organisms showed varying rates of inactivation. Vegetative
@@ -79,7 +79,7 @@ and conduct heat to the microbial cells. Too little water reduces the coupling
 
 ## Overview
 
-Microwave Microbial Kill Kinetics represents an important element within sustainable
+[[microwave-microbial-kill-mechanisms]] Kinetics represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 microwave microbial kill kinetics and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

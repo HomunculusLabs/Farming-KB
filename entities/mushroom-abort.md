@@ -97,9 +97,14 @@ Understanding aborts is important for cultivators because:
 - PF TEK booklet by Psylocybe Fanaticus (1996), Pages 13–14, 24–25
 - Jochen Gartz research on *P. cubensis* psilocybin content (referenced in PF TEK)
 
-
 ## See Also
 
-- [[mushroom-bed-historical]]
-- [[mushroom-pests-poisonous-fungi-victorian-identification-control]]
-- [[mushroom-spawn-historical]]
+- [[mushroom-absorption-toxicity]]
+- [[mushroom-classification-for-foragers]]
+- [[mushroom-edibility-classification-key]]
+- [[mushroom-poisoning-and-remedies]]
+- [[mushroom-poisoning-and-safe-foraging]]
+- [[mushroom-poisoning-incidents-and-remedies]]
+- [[mushroom-toadstool-distinction]]
+- [[mushroom-toadstool-identification-myths]]
+- [[mushroom-toxicity-safe-foraging]]

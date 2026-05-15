@@ -57,7 +57,7 @@ as well under field conditions. Laboratory strains face impoverished
 nutritional status and variable weather conditions. They must compete
 with already established indigenous communities and may succumb to
 predators. There is often a mismatch between the normal habitat of the
-introduced species and the ecological niche where it is placed.
+introduced species and the [[ecological-niche]] where it is placed.
 
 When biostimulation and bioaugmentation are used simultaneously, a
 common finding is that added nutrients favor indigenous populations so
@@ -73,7 +73,7 @@ growers who perfected producing fungal spawn on lignocellulosic waste.
 ## Overview
 
 Staycare Bioaugmentation Versus Biostimulation Fungal Bioremediation represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -87,14 +87,14 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving staycare extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
 ## Practical Applications
 
 Staycare Bioaugmentation Versus Biostimulation Fungal Bioremediation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -102,13 +102,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for staycare bioaugmentation versus biostimulation fungal bioremediation. Climate adaptation
+opportunities for staycare bioaugmentation versus biostimulation fungal bioremediation. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 staycare bioaugmentation versus biostimulation fungal bioremediation and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

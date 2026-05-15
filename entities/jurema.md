@@ -1,5 +1,5 @@
 ---
-title: "Jurema (Mimosa tenuiflora)"
+title: "Jurema ([[mimosa-tenuiflora]])"
 created: 2026-05-07
 type: species
 tags:
@@ -29,7 +29,7 @@ sources:
 - **Leaves:** Bipinnately compound, 5–10 cm long, with 2–4 pairs of pinnae, each bearing 10–20 pairs of tiny linear leaflets 3–6 mm long. The sensitive leaves fold when disturbed (seismonastic movement), a characteristic of the genus
 - **Flowers:** Spikes of fragrant white to pale yellow staminate flowers, 2–4 cm long, appearing after rainfall events
 - **Fruit:** Flat, brittle pods 3–6 cm × 6–10 mm, containing 3–5 brown oval seeds 2–3 mm long
-- **Roots:** Extensive lateral root system with nitrogen-fixing nodules; root bark is thick, reddish, and rich in tryptamine alkaloids
+- **Roots:** Extensive lateral root system with nitrogen-fixing nodules; root bark is thick, reddish, and rich in [[hplc-analysis-of-tryptamine-alkaloids]]
 
 ## Distribution and Ecology
 
@@ -76,7 +76,7 @@ In Mexico, M. tenuiflora is used primarily for dermatological purposes, with no 
 ## Overview
 
 Jurema represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -105,13 +105,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for jurema. Climate adaptation
+opportunities for jurema. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 jurema and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

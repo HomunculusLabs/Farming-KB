@@ -19,7 +19,7 @@ divination.
 - **Category:** Spiritual tradition / Ethnomycological practice
 - **Region:** Siberia, northern Russia, parts of Central Asia
 - **Primary Sacrament:** *Amanita muscaria*
-- **Cultural Context:** Indigenous animistic spirituality, later suppressed by
+- **[[ayahuasca-pharmacology-and-cultural-context]]:** Indigenous animistic spirituality, later suppressed by
   Russian Orthodox Christianity and Soviet secularism
 
 ## Historical Background
@@ -47,7 +47,7 @@ back several millennia.
   tradition of hanging stockings
 - Reindeer are known to actively seek out and consume the mushrooms, sometimes
   reaching them before human foragers
-- The dried mushrooms serve as both sacramental substance and valuable trade
+- The dried mushrooms serve as both [[biblical-manna-and-sacramental-substance]] and valuable trade
   commodity, exchanged for reindeer pelts, meat, and other goods
 
 ### Ritual Use
@@ -55,7 +55,7 @@ back several millennia.
 - The mushroom is consumed as a religious sacrament for spiritual vision
 - Practitioners experience out-of-body travel into the realms of the spirits
 - The mushroom functions as a plant-spirit guide in teaching and healing
-- Shamans facilitate the "Death and Rebirth Experience" — a near-death-like
+- Shamans facilitate the "[[shamanism-death-and-rebirth]] Experience" — a near-death-like
   state considered central to spiritual initiation
 
 ### Shamanic Regalia
@@ -71,7 +71,7 @@ back several millennia.
 ### Christmas and Santa Claus
 
 The Siberian shamanic tradition is widely recognized as a primary source for
-modern Christmas symbolism:
+modern [[christmas-symbolism-and-hidden-meanings]]:
 
 - **Red and white attire:** Santa Claus mirrors the shaman's mushroom-colored
   garments and the mushroom itself
@@ -105,7 +105,7 @@ multiple religious traditions.
 
 The mushroom's life cycle — appearing miraculously after rain (from invisible
 spores), growing without visible seed, and eventually rotting and disappearing —
-provided the foundation for myths of virgin birth, death and resurrection, and
+provided the foundation for myths of virgin birth, [[allegro-death-and-resurrection-in-the-mushroom-cult]], and
 divine providence across numerous cultures.
 
 ## Relevance to Ethnomycology and Cultivation
@@ -124,7 +124,7 @@ divine providence across numerous cultures.
 - *Amanita muscaria* cannot be easily cultivated; it requires a living tree
   host for its mycorrhizal relationship
 - The mushroom's dependence on specific tree species (primarily pine and birch)
-  constrains its geographical distribution
+  constrains its [[psilocybe-geographical-distribution-patterns]]
 - Unlike saprophytic mushrooms that decompose dead matter, *A. muscaria* is an
   obligate mycorrhizal symbiont
 - Understanding this ecological relationship is essential for any conservation

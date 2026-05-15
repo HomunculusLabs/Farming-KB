@@ -6,7 +6,7 @@ type: concept
 
 # Winter Crops Compendium
 
-[[eliot-coleman]]'s [[winter-harvest-system]] encompasses a remarkable diversity of crops — over 30 species that can be grown and harvested through the cold months using unheated or minimally heated greenhouses. The following compendium catalogs every crop referenced in *The Winter Harvest Handbook*, organized by category with notes on their roles in the winter production system.
+[[eliot-coleman]]'s [[winter-harvest-system]] encompasses a remarkable diversity of crops — over 30 species that can be grown and harvested through the cold months using unheated or minimally heated greenhouses. The following compendium catalogs every crop referenced in *The [[eliot-coleman-and-the-winter-harvest-handbook]]*, organized by category with notes on their roles in the [[coleman-beet-greens-cold-house-winter-production]] system.
 
 ## Salad Greens
 
@@ -23,8 +23,8 @@ These form the backbone of winter production, harvested as [[cut-and-come-again]
 ### Lettuce (*Lactuca sativa*)
 - Crop debris management critical to prevent disease carryover
 - Included in crop rotations for soil health
-- Flame weeding used for weed control
-- Nutritional quality peaks in cool conditions
+- [[coleman-flame-weeding-preemergence-technique]] used for weed control
+- [[coleman-winter-greens-nutritional-quality-cold-sweetening]] peaks in cool conditions
 - Grown in quick hoops and greenhouses
 - Core component of salad mix
 - Winter crop — requires slightly more protection than arugula
@@ -36,13 +36,13 @@ These form the backbone of winter production, harvested as [[cut-and-come-again]
 - Heavy feeder; requires adequate fertilization (nitrogen)
 - Included in extensive crop rotations
 - Customer demand is strong — one of the most requested winter vegetables
-- Planting schedule: outdoor sowings in September, greenhouse sowings through October
+- [[coleman-winter-harvest-planting-schedule]]: outdoor sowings in September, greenhouse sowings through October
 - Winter crop — extremely cold-hardy; can survive repeated freezing
 
 ### Mâche / Corn Salad (*Valerianella locusta*)
 - Harvest season spans winter
 - Core component of salad mix
-- Sown in fall for winter harvest
+- Sown in fall [[us-climate-zones-for-winter-harvest]]
 - Perhaps the quintessential winter green — thrives in short-day, cold conditions
 
 ### Claytonia / Miner's Lettuce (*Claytonia perfoliata*)

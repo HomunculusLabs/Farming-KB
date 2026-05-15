@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Starting a new vegetable garden almost always means converting a piece of land currently growing grass (often mixed with other low-growing plants) into productive garden beds. Grass creates an especially dense network of tough roots called **sod** that holds soil together firmly. Eliminating this sod and preparing the soil for planting is the essential first step in creating any new garden.
+Starting a new [[aphid-management-vegetable-garden-solomon]] almost always means converting a piece of land currently growing grass (often mixed with other low-growing plants) into productive garden beds. Grass creates an especially dense network of tough roots called **sod** that holds soil together firmly. Eliminating this sod and preparing the soil for planting is the essential first step in creating any new garden.
 
 ## Understanding Sod
 
@@ -19,7 +19,7 @@ Sod is resilient. Simply turning grass over once with a shovel will not kill it 
 ### Climate Considerations
 
 - **Warm climates** (Deep South US, most of California, Australia): Sod can be killed and gardens started at any time of year when soil moisture is right
-- **Cold climates**: The best season is **late summer or early autumn** — not spring when gardening enthusiasm peaks. Autumn preparation allows winter frost and decomposition to help break down the sod, so the garden is ready to plant as soon as ground can be worked in spring
+- **[[query-best-kiwifruit-varieties-for-cold-climates]]**: The best season is **late summer or early autumn** — not spring when gardening enthusiasm peaks. Autumn preparation allows winter frost and decomposition to help [[query-can-fungi-break-down-plastic-pollution]] the sod, so the garden is ready to plant as soon as ground can be worked in spring
 
 ### Advantages of Autumn Preparation
 
@@ -67,7 +67,7 @@ This is critical. Do not attempt to dig or rototill unless soil moisture is corr
 
 - **Rent a rear-tined tiller** of at least 7–8 horsepower
 - The tiller **must have a functioning drag bar** to control tine depth
-- Do not attempt to use a front-tined tiller or an underpowered machine for sod elimination
+- Do not attempt to use a front-tined tiller or an underpowered machine for [[starting-new-garden-sod-elimination]]
 
 ### Tilling Technique
 
@@ -119,7 +119,7 @@ After tilling, Solomon recommends observing the tilled surface the next morning:
 
 This moisture movement is called **capillarity** — water moves upward through the narrow spaces between soil particles, similar to how a wick draws oil in a lamp. Understanding capillarity is crucial for:
 
-- Sprouting seeds effectively (moisture must rise to seed depth)
+- [[solomon-sprouting-seeds-and-early-season-nutrition]] effectively (moisture must rise to seed depth)
 - Watering efficiently (less frequent, deeper watering encourages deep capillary rise)
 - Managing soil surface conditions (mulch interrupts capillary rise and reduces evaporation)
 
@@ -131,7 +131,7 @@ Despite requiring more time spread over more days, hand-digging offers critical 
 
 1. **No [[plow-pan]]**: Rototillers create a compacted layer at the bottom of their reach (a "tiller pan"). Hand-digging breaks through any existing plow pan
 2. **Full-depth soil loosening**: A shovel reaches 12 inches (30 cm) deep, compared to a tiller's 4–5 inches
-3. **Better seedbed preparation**: The resulting soil is finer and more crumbly
+3. **Better [[soil-tilth-and-seedbed-preparation]]**: The resulting soil is finer and more crumbly
 4. **Quieter, no fuel, no rental costs**: Just a sharp shovel and effort
 5. **Root access**: Vegetable roots can penetrate deeply into properly dug soil
 

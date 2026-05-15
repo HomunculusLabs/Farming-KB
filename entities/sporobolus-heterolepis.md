@@ -13,10 +13,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Peterson, P.M. & K.W. Allred (2004). "Sporobolus." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of North America North of Mexico, Vol. 25. Oxford University Press.
+  - Peterson, P.M. & K.W. Allred (2004). "Sporobolus." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 25. Oxford University Press.
   - Hitchcock, A.S. & A. Chase (1950). Manual of the Grasses of the United States, 2nd ed. USDA Miscellaneous Publication No. 200.
   - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
-  - Howe, H.F. (1994). "Managing Species Diversity in Tallgrass Prairie: Assumptions and Implications." Conservation Biology, 8(3), 691-704.
+  - Howe, H.F. (1994). "Managing Species Diversity in Tallgrass Prairie: Assumptions and Implications." [[fungal-conservation-biology]], 8(3), 691-704.
 ---
 
 ## Overview
@@ -67,7 +67,7 @@ It is intolerant of prolonged flooding and poorly drained soils.
 
 Sporobolus heterolepis is a dominant or codominant species in many high-quality tallgrass prairie communities.
 
-Its dense root system, which can extend over 2 meters deep, contributes significantly to soil carbon storage and prairie soil structure.
+Its dense root system, which can extend over 2 meters deep, contributes significantly to soil [[mycorrhizal-carbon-storage-and-interplant-transfer]] prairie soil structure.
 
 The species provides excellent [[comparison-prairie-restoration-vs-silvopasture]], Sporobolus heterolepis is one of the most reliable and long-lived species once established, often persisting for decades.
 
@@ -80,7 +80,7 @@ Prairie dropseed is propagated by seed and by division of established clumps.
 ## Overview
 
 Sporobolus Heterolepis represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -109,7 +109,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 sporobolus heterolepis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

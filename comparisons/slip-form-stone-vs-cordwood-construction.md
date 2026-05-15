@@ -1,5 +1,5 @@
 ---
-title: Slip Form Stone Vs Cordwood Construction
+title: Slip Form Stone [[comparison-bamboo-vs-cordwood-construction]]
 created: 2026-04-28
 subtitle: Comparing two owner-builder wall systems based on local stone, wood, mortar, and labor
 tags: [comparison, natural-building, slipform, cordwood, stone-masonry, homesteading]
@@ -81,7 +81,7 @@ expertise and contributing to the ongoing evolution of this field.
 ## Overview
 
 Slip Form Stone Vs Cordwood Construction represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Slip Form Stone Vs Cordwood Construction finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -110,13 +110,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for slip form stone vs cordwood construction. Climate adaptation
+opportunities for slip form stone vs cordwood construction. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 slip form stone vs cordwood construction and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

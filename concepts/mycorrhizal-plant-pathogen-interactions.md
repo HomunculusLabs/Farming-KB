@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal–Plant Pathogen Interactions
+title: Mycorrhizal–[[mycorrhizae-plant-pathogen-interactions]]
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -62,7 +62,7 @@ Unlike ectomycorrhizae, there is little physical protection afforded by AM fungi
 
 ### Case Study: Nematode Suppression
 
-*Glomus intraradices* significantly reduced the reproductive capacity of the burrowing nematode *Radopholus similis* on carrot root tissue (Elsen et al., 2001). The mycorrhizal fungus suppressed nematode populations by approximately 50%, with statistically significant reductions in male and female nematodes within root tissue and females in the growth medium.
+*Glomus intraradices* significantly reduced the reproductive capacity of the burrowing nematode *[[radopholus-similis]]* on carrot root tissue (Elsen et al., 2001). The mycorrhizal fungus suppressed nematode populations by approximately 50%, with statistically significant reductions in male and female nematodes within root tissue and females in the growth medium.
 
 ### Hemiparasitic Plant Interactions
 
@@ -70,7 +70,7 @@ The relationship between AM fungi and root hemiparasitic plants is complex (Salo
 
 - AM colonization of annual grass (*Poa annua*) had little effect on plant growth, while the hemiparasite (*Odontites vulgaris*) significantly reduced host biomass
 - AM status of *P. annua* did not affect the parasitic plant's biomass or flower production
-- AM colonization of clover (*Trifolium pratense*) greatly increased host biomass but hemiparasite (*Rhinanthus serotinus*) infection had no effect
+- AM colonization of clover (*[[trifolium-pratense]]*) greatly increased host biomass but hemiparasite (*Rhinanthus serotinus*) infection had no effect
 - The AM fungi actually *increased* the hemiparasite's biomass and flower production on clover hosts
 - Enhancement of parasite performance depends on the degree of growth promotion afforded to the host by the mycorrhizae
 
@@ -100,14 +100,14 @@ The biocontrol effect of ECM fungi has been demonstrated primarily in nursery co
 
 - *Laccaria laccata* suppressed *Fusarium oxysporum* on Douglas fir seedlings (Sylvia and Sinclair, 1983)
 - *L. laccata* protected *Pinus banksiana* seedlings from *Fusarium* damping-off (Chakravarty and Hwang, 1991)
-- Four ECM fungi (*Laccaria laccata*, *Hebeloma crustuliniforme*, *H. sinapizans*, and *Paxillus involutus*) protected chestnut seedlings from *Phytophthora cambivora* and *P. cinnamomi* (Branzanti et al., 1999)
+- Four ECM fungi (*Laccaria laccata*, *[[hebeloma-crustuliniforme]]*, *H. sinapizans*, and *[[paxillus-involutus]]*) protected chestnut seedlings from *Phytophthora cambivora* and *P. cinnamomi* (Branzanti et al., 1999)
 - After five months of pathogen challenge, mycorrhizal plants showed no signs of infection and had increased growth and biomass
 
 ### Knowledge Gaps in Natural Ecosystems
 
 Most evidence for mycorrhizal biocontrol comes from agricultural monocultures or forest nurseries — both artificial, low-diversity systems. The role of these interactions in maintaining plant communities in natural ecosystems remains largely speculative. Critical unanswered questions include:
 
-- How do these interactions affect plant community composition and fitness?
+- How do these interactions affect [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]] and fitness?
 - Has coevolution produced a balance between mycorrhizal and pathogenic fungi?
 - Could significant alteration of the fungal community disrupt ecosystem stability?
 

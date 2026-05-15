@@ -10,7 +10,7 @@ Fungi play central roles in the assembly, maintenance, and regulation of plant c
 
 ## Coevolution of Fungi and Land Plants
 
-The evolution of fungi is intimately linked with the emergence of plants onto dry land (Kidston and Lang, 1921; Pirozynski and Malloch, 1975). These ancient associations persist today in the forms of mycorrhizae, endophytes, and plant pathogens. The fact that these close associations still exist suggests mutual benefit to each partner, and this mutualism fundamentally shapes how plant communities assemble.
+The evolution of fungi is intimately linked with the emergence of plants onto dry land ([[kidston-and-lang]], 1921; Pirozynski and Malloch, 1975). These ancient associations persist today in the forms of mycorrhizae, endophytes, and plant pathogens. The fact that these close associations still exist suggests mutual benefit to each partner, and this mutualism fundamentally shapes how plant communities assemble.
 
 ## Primary Succession and Mycorrhizal Inoculum
 
@@ -36,7 +36,7 @@ As plant communities develop from initial colonization toward a stable climax, s
 
 ### Edaphic Feedback Mechanisms
 
-Most edaphic (soil) changes during succession relate to the resource quality of materials providing plant nutrients during decomposition. Conn and Dighton (2000) suggest a link among edaphic factors, nutrient supply, and the development of different functional groups of ectomycorrhizal fungi:
+Most edaphic (soil) changes during succession relate to the resource quality of materials providing plant nutrients during decomposition. Conn and Dighton (2000) suggest a link among edaphic factors, nutrient supply, and the development of different functional groups of [[ectomycorrhizal-fungi]]:
 
 - Where leaf litters immobilize phosphorus in early decomposition stages, ectomycorrhizal fungal communities develop higher proportions of acid phosphatase-producing types
 - These fungi effect mineralization of phosphorus tied up in organic resources
@@ -138,6 +138,6 @@ Predicted climate change — warmer and wetter conditions — will increase cond
 The net effect on community structure depends on how different fungal functional groups respond to changing conditions and whether natural regulatory mechanisms can maintain community stability under altered pathogen pressures.
 ## See also
 
-- [[mycorrhizae-and-plant-fitness]]
+- [[mycorrhizae-plant-fitness]]
 - [[fungal-faunal-interactions-in-ecosystems]]
 - [[fungal-nutrient-cycling-mineral-transformations]]

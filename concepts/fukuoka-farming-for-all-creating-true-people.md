@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Farming for All Creating True People"
+title: "[[fukuoka-farming-for-all-quarter-acre-vision]] All [[fukuoka-textdoc-creating-true-people-do-nothing-road]]"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -36,7 +36,7 @@ The "methodless road of the farmer" is extraordinary precisely because it refuse
 
 > "In a sense, farming was the simplest and also the grandest work allowed of man."
 
-The simplicity of farming — sowing seed, tending soil, gathering harvest — conceals its grandeur, which lies in the fact that it is the one human activity that places a person in direct, dependent relationship with the source of all life. Fukuoka understood this source in both ecological and spiritual terms:
+The simplicity of farming — [[fukuoka-sowing-seed-ball-desert-revegetation]], tending soil, gathering harvest — conceals its grandeur, which lies in the fact that it is the one human activity that places a person in direct, dependent relationship with the source of all life. Fukuoka understood this source in both ecological and spiritual terms:
 
 > "Man's true joy and delight was natural ecstasy. This exists only in nature and vanishes away from the earth."
 
@@ -68,7 +68,7 @@ The return to farming he envisioned was not a regression to pre-technological co
 
 ## The Road Back to Farming — Loving Nature
 
-Fukuoka understood that the primary obstacles to returning to the land were not economic or logistical but psychological and spiritual. He diagnosed the root cause of humanity's crisis with characteristic directness:
+Fukuoka understood that the primary obstacles to returning to the land were not economic or logistical but psychological and spiritual. He diagnosed the [[fukuoka-pine-rot-root-cause]] of humanity's crisis with characteristic directness:
 
 > "The foremost cause for the discord and contradictions of human society is that everyone in the towns and cities act independently and in their own interest without seeing things clearly."
 

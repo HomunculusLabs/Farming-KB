@@ -1,6 +1,6 @@
 ---
-title: Estimating Fungal Biodiversity Methods and Challenges
-aliases: fungal-species-estimation-methods-total-diversity, fungal diversity assessment, unknown fungi, mycological survey methods]
+title: Estimating Fungal [[yeast-isolation-biodiversity-methods]] and Challenges
+aliases: fungal-species-estimation-methods-total-diversity, fungal [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]], unknown fungi, mycological survey methods]
 tags: [mycology, biodiversity, fungal-ecology, survey-methods, species-estimation, ecology]
 source: biodiversity-of-fungi.md
 created: 2026-05-11
@@ -10,7 +10,7 @@ created: 2026-05-11
 
 ## Overview
 
-Fungal biodiversity remains one of the most poorly quantified domains in biology. As documented in *Biodiversity of Fungi* (Mueller, Bills, and Foster), current estimates suggest that only 5–10% of fungal species on Earth have been described, meaning that between 1.35 million and 2.7 million species remain undiscovered. This gap is far larger than for most other organismal groups and presents unique methodological challenges because fungi cannot be surveyed using standard approaches developed for plants or animals.
+Fungal biodiversity remains one of the most poorly quantified domains in biology. As documented in *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]* (Mueller, Bills, and Foster), current estimates suggest that only 5–10% of fungal species on Earth have been described, meaning that between 1.35 million and 2.7 million species remain undiscovered. This gap is far larger than for most other organismal groups and presents unique methodological challenges because fungi cannot be surveyed using standard approaches developed for plants or animals.
 
 ## The Scale of Undiscovered Fungal Diversity
 
@@ -58,17 +58,17 @@ The ATBI concept, developed for the Guanacaste Conservation Area in Costa Rica, 
 
 ### Expected Species Richness
 
-Based on existing data from well-surveyed temperate sites, the relationship between fungal and plant diversity is approximately 6:1 (six fungal species per plant species). A temperate forest with 400 native plant species might support 2,400–3,000 fungal species. Tropical forests, with higher plant diversity and more complex [[lichen-biodiversity-sampling-protocols-data-analysis]]. Different studies use different:
+Based on existing data from well-surveyed temperate sites, the relationship between fungal and plant diversity is approximately 6:1 (six fungal species per plant species). A temperate forest with 400 native plant species might support 2,400–3,000 fungal species. [[fungal-biodiversity-tropical-forests]], with higher plant diversity and more complex [[lichen-biodiversity-sampling-protocols-data-analysis]]. Different studies use different:
 
 - Sampling methods (fruiting body collection, culturing, DNA analysis)
 - Effort levels (number of visits, person-hours, number of samples)
 - Identification criteria (morphological vs. molecular, species concepts)
 - Taxonomic scope (which fungal groups are included)
-- Habitat definitions and classification schemes
+- Habitat [[compost-tea-definitions-and-classification]] schemes
 
 ### The Species Concept Problem
 
-Fungal species concepts remain contentious. Different researchers apply different criteria (morphological, biological, phylogenetic, ecological), and these can lead to dramatically different species counts for the same group of organisms. Molecular data has revealed that many morphologically defined "species" are actually species complexes containing multiple genetically distinct lineages.
+[[fungal-species-concepts-estimates]] remain contentious. Different researchers apply different criteria (morphological, biological, phylogenetic, ecological), and these can lead to dramatically different species counts for the same group of organisms. Molecular data has revealed that many morphologically defined "species" are actually species complexes containing multiple genetically distinct lineages.
 
 ## Future Directions
 

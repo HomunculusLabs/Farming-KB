@@ -24,7 +24,7 @@ Compost preparation for Agaricus (button mushroom) cultivation from Stamets' Mus
 
 ## Purpose of Composting
 
-The composting process prepares a nutritious medium that promotes mushroom mycelium growth while excluding competitors: (1) creates physically and chemically homogeneous substrate, (2) creates a selective substrate where mushroom mycelium thrives over competitors, (3) concentrates nutrients for mushrooms while exhausting nutrients favored by competitors, (4) removes heat-generating capabilities. Divided into Phase I (outdoor mixing/decomposition) and Phase II (indoor pasteurization/conditioning).
+The composting process prepares a nutritious medium that promotes [[mushroom-mycelium-growth-monitoring-colonization-cues]] while excluding competitors: (1) creates physically and chemically homogeneous substrate, (2) creates a selective substrate where mushroom mycelium thrives over competitors, (3) concentrates nutrients for mushrooms while exhausting nutrients favored by competitors, (4) removes heat-generating capabilities. Divided into Phase I (outdoor mixing/decomposition) and Phase II (indoor pasteurization/conditioning).
 
 ## Compost Formulas (Stamets)
 
@@ -50,10 +50,10 @@ Target initial nitrogen: 1.5-1.7%. Approximately 40% of dry matter is consumed d
 
 ## Supplement Groups (Stamets)
 
-- **Group I** (high N, no organic matter): Ammonium sulfate (21% N), ammonium nitrate (26% N), urea (46% N) — max 25 lbs/dry ton. Not for horse manure composts.
+- **Group I** (high N, no organic matter): Ammonium sulfate (21% N), [[plant-available-nitrogen-ammonium-nitrate]] (26% N), urea (46% N) — max 25 lbs/dry ton. Not for horse manure composts.
 - **Group III** (3-7% N, most widely used): Cottonseed meal (6.5% N), chicken manure (3-6% N), brewers' grains (3-5% N), peanut meal (6.5% N)
 - **Group IV** (low N, high carb — temperature boosters): Grape pomace, sugar beet pulp, cottonseed hulls — add at 250 lbs/dry ton
-- **Gypsum**: Essential at 50-100 lbs/dry ton. Aggregates colloidal particles (better aeration), increases water holding capacity, counteracts harmful K/Mg/P/Na concentrations, supplies calcium for mushroom metabolism.
+- **Gypsum**: Essential at 50-100 lbs/dry ton. Aggregates colloidal particles (better aeration), increases [[pf-tek-vermiculite-type-comparison-water-holding-capacity]], counteracts harmful K/Mg/P/Na concentrations, supplies calcium for mushroom metabolism.
 
 ## C:N Ratio Targets
 
@@ -73,11 +73,11 @@ Target initial nitrogen: 1.5-1.7%. Approximately 40% of dry matter is consumed d
 - [[mushroom-substrates]] — Grain spawn, wood substrates, supplements, C:N ratios
 - [[mushroom-cultivation-basics]] — Stamets' 10-step cultivation process
 - [[mushroom-species-guide]] — Species-specific substrate requirements
-- [[mushroom-contamination-identification]] — Contamination prevention and recovery
+- [[mushroom-contamination-identification]] — [[pf-tek-contamination-prevention-and-troubleshooting]] recovery
 
 ## Overview
 
-Mushroom Compost Substrates represents an important element within sustainable
+[[mushroom-compost]] Substrates represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mushroom Compost Substrates finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mushroom compost substrates and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

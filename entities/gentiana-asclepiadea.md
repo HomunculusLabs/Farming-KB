@@ -24,7 +24,7 @@ Unlike most gentians, it produces arching stems up to 90 cm long with willow-lik
 
 The species is valued in horticulture for its graceful habit and shade tolerance. It is one of the few gentians that thrives in woodland settings.
 
-Gentiana asclepiadea has a long history of use in European folk medicine. The roots contain bitter iridoid glycosides used as digestive stimulants.
+Gentiana asclepiadea has a long history of use in European [[magical-illness-peruvian-amazon-folk-medicine]]. The roots contain bitter iridoid glycosides used as digestive stimulants.
 
 The species is named for its resemblance to milkweed (Asclepias). The specific epithet "asclepiadea" refers to this superficial similarity in flower structure.
 

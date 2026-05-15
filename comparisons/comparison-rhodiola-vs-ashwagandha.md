@@ -118,7 +118,6 @@ protocols. However, individuals with autoimmune conditions, bipolar
 disorder, or who are pregnant should consult a qualified practitioner
 before combining adaptogens.
 
-
 ## See Also
 
 - [[comparison-rhodiola-vs-chamomile]]

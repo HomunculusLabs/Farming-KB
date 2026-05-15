@@ -1,5 +1,5 @@
 ---
-title: Anunnaki And Sumerian Origins Of Religion
+title: [[anunnaki]] And [[anunnaki-sumerian-origins-religious-law]] Of Religion
 source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
@@ -65,19 +65,19 @@ The laws of the Babylonian king **Hammurabi** contain an older version of the bi
 
 ## Star-Fire: The Anunnaki Sacred Substance
 
-The substance fed to the faithful of Enki and Ninhursag was called **"Star-Fire"** — supplemental nourishment produced from the lunar essence or blood of the goddess Ninhursag. It was also known as:
+The substance fed to the faithful of Enki and [[ninhursag]] was called **"Star-Fire"** — supplemental nourishment produced from the lunar essence or blood of the goddess Ninhursag. It was also known as:
 
 - **"The gold of the gods"**
 - **"The red gold"**
 - **"Shem-an-na"** (Sumerian for the substance made from "highward fire-stone")
 
-When the Anunnaki withdrew from humanity after the fall of Babylon, they took the knowledge of Star-Fire with them. The remaining priestly caste took the knowledge underground, much like later alchemists who kept the secret of "putting gold to the fire" — a process interpreted as the decarboxylation of dried [[amanita-muscaria]] mushrooms, whose cap-skin is golden-red when dried and which must be heated ("put to fire") before proper ingestion.
+When the Anunnaki withdrew from humanity after the fall of Babylon, they took the knowledge of Star-Fire with them. The remaining priestly caste took the knowledge underground, much like later alchemists who kept the secret of "putting gold to the fire" — a process interpreted as the [[decarboxylation]] of dried [[amanita-muscaria]] mushrooms, whose cap-skin is golden-red when dried and which must be heated ("put to fire") before proper ingestion.
 
 ## The Anthropomorphism of the Mushroom
 
 The mushroom's physical structure is mapped onto the Sumerian creator archetypes:
 
-- **The red cap**: Anthropomorphized as blood and fire; represents the female genital organ (also associated with the holy grail/cup); identified with Ninhursag
+- **The red cap**: Anthropomorphized as blood and fire; represents the female genital organ (also associated with the [[amanita-muscaria-holy-grail-theory-detailed]]/cup); identified with Ninhursag
 - **The stem**: Represents the phallus; identified with Enki
 - **The whole mushroom**: Androgynous — one entity possessing both male and female sexual organs; simultaneously two beings joined in the act of creation
 
@@ -95,7 +95,7 @@ The Mesopotamian civilization is argued not to have "suddenly appeared out of no
 
 The text draws a direct line from Sumerian systems of control through to modern institutions:
 
-- **Freemasonry**: Described as a secret organization using Christianity as a control tool; the King James Bible was edited by Sir Francis Bacon, a 33rd degree Freemason
+- **[[freemasonry]]**: Described as a secret organization using Christianity as a control tool; the King James Bible was edited by Sir Francis Bacon, a 33rd degree Freemason
 - **"Ordo Ab Chao"**: The Masonic motto "Order Out of Chaos" — agendas are formulated, chaos is created, laws are passed that could never have passed without the chaos
 - **The "New World Order"**: A continuation of the same Sumerian pattern of control through religious and governmental institutions
 

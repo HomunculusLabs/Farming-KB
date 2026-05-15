@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 # Fungal Secondary Metabolites in the Environment Fungal secondary metabolites are chemically diverse compounds not directly required for growth but conferring ecological advantages. They mediate interactions with other organisms, protect against environmental stress, and have profound effects on ecosystem processes and human health. These metabolites are central to [[fungal-mineral-weathering]] and soil formation
 - **UV protection**: Polyphenolic compounds absorb UV radiation, transmitting longer wavelengths that support photosynthesis while protecting both fungal and photobiont cells

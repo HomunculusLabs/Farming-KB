@@ -1,5 +1,5 @@
 ---
-title: "Coleman Deep Organic vs Shallow Organic Farming Philosophy"
+title: "[[coleman-deep-organic-farming]] vs Shallow [[coleman-lady-eve-balfour-organic-farming-philosophy]]"
 source: eliot-coleman-winter-harvest-handbook.md
 tags: [organic-farming,  philosophy,  soil-health,  deep-organic,
 shallow-organic,  coleman]
@@ -9,7 +9,7 @@ created: 2026-05-11
 # Deep Organic vs. Shallow Organic Farming Philosophy
 
 [[eliot-coleman]] distinguishes between two fundamentally different approaches to organic farming: "deep organic" and "shallow organic." This distinction is not about the depth of soil cultivation but about the depth of philosophical commitment to ecological principles.
-Understanding this distinction is essential for grasping Coleman's approach to agriculture and his critique of the mainstream organic food industry as it has evolved since the USDA National Organic Program (NOP) standards were established.
+Understanding this distinction is essential for grasping Coleman's approach to agriculture and his critique of the mainstream organic food industry as it has evolved since the USDA [[national-organic-program]] (NOP) standards were established.
 
 ## The Shallow Organic Approach
 
@@ -17,7 +17,7 @@ Shallow organic farming treats the organic certification standards as a checklis
 A shallow organic grower asks: "What can I use that is allowed under the organic rules?" The focus is on compliance rather than ecological understanding,
 on substitution rather than transformation.
 Synthetic pesticides are replaced with approved organic pesticides,
-synthetic fertilizers with approved organic fertilizers,
+[[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] with approved organic fertilizers,
 and conventional practices are maintained with minimal modification.
 
 The shallow organic approach can produce food that meets the legal definition of organic but fails to realize the ecological potential of organic agriculture.
@@ -28,7 +28,7 @@ The soil may be merely a substrate for plant growth rather than a living ecosyst
 
 Coleman is particularly critical of large-scale organic operations that meet the letter of the NOP standards while violating their spirit.
 A 5,000-acre organic monoculture of lettuce in California's Central Valley,
-dependent on imported organic fertilizers and regular applications of approved organic pesticides,
+dependent on imported [[hamilton-organic-fertilizers-and-plant-nutrition]] regular applications of approved organic pesticides,
 represents shallow organic at its most extreme.
 The food is legally organic but the system is ecologically impoverished.
 
@@ -49,7 +49,7 @@ The soil is managed as a complex biological system — a food web of bacteria,
 fungi,  protozoa,  nematodes,  earthworms,
 and other organisms — rather than as an inert medium for delivering soluble nutrients to plant roots.
 Compost,  cover crops,  green manures,
-and minimal tillage are the primary tools for soil management.
+[[coleman-bed-preparation-and-minimal-tillage]] are the primary tools for soil management.
 The goal is to create soil conditions where biological processes make nutrients available to plants in the right forms and at the right times.
 
 ### Closed-Loop Systems

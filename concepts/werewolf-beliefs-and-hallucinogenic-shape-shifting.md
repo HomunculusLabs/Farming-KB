@@ -43,15 +43,15 @@ Harner notes that the symptoms described by Aegineta "closely resemble those rep
 - **Impaired vision**: Atropine causes blurred vision, photophobia, and visual disturbances
 - **Staggering gait**: Atropine causes ataxia and loss of motor coordination
 - **Pale appearance**: Vasomotor effects of anticholinergic drugs
-- **Leg ulcerations from falls**: The ataxia and delirium caused by tropane alkaloids would lead to frequent falls and injuries
+- **Leg ulcerations from falls**: The ataxia and delirium caused by [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] would lead to frequent falls and injuries
 
 The correspondence between the clinical symptoms of lycanthropy and the known pharmacological effects of atropine is too close to be coincidental. Harner argues that lycanthropy was not merely a psychological disorder but a toxic condition caused by the ingestion of solanaceous plants.
 
 ## LSD and Shape-Shifting
 
-Beyond classical hallucinogens like harmaline and tropane alkaloids, LSD experiences in Western culture have also produced random accounts of shape-changing. This suggests that the phenomenon of hallucinogen-induced animal transformation is not specific to any one class of psychoactive compounds but may be a general feature of the psychedelic experience when it occurs in cultural contexts that include animal transformation as a recognized possibility.
+Beyond classical hallucinogens like harmaline and tropane alkaloids, LSD experiences [[mycophobia-in-western-culture]] have also produced random accounts of shape-changing. This suggests that the phenomenon of hallucinogen-induced animal transformation is not specific to any one class of psychoactive compounds but may be a general feature of the [[leary-psychedelic-experience-bardo-mapping]] when it occurs in cultural contexts that include animal transformation as a recognized possibility.
 
-The cultural expectation of shape-shifting appears to function as a "suggestive frame" that channels the hallucinogenic experience in a particular direction. In cultures where werewolf beliefs are prevalent, the experience of altered identity under the influence of psychoactive substances naturally takes the form of wolf transformation.
+The cultural expectation of shape-shifting appears to function as a "suggestive frame" that channels the [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]] in a particular direction. In cultures where werewolf beliefs are prevalent, the experience of altered identity under the influence of [[cultural-evolution-and-psychoactive-substances]] naturally takes the form of wolf transformation.
 
 ## The Jivaro Perspective
 
@@ -78,5 +78,5 @@ The shape-shifting belief—found in European werewolf traditions, Amazonian aya
 - [[hallucinogenic-plants-in-european-witchcraft]] — The broader context of psychoactive plants in European witchcraft
 - [[european-witches-flying-ointment-historical-evidence]] — Historical accounts of flying ointments
 - lycanthropy folklore and clinical accounts — Broader werewolf literature
-- [[beta-carboline]] — Pharmacology of harmaline and related compounds
+- [[beta-carboline]] — Pharmacology of harmaline and [[lsd-structure-activity-relationships-related-compounds]]
 - [[hallucinogens-and-shamanism]] — Jivaro use of Datura and other psychoactive plants

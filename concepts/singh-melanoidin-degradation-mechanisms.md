@@ -23,11 +23,11 @@ Little was historically known about fungal ligninolytic enzymes in
 decolorization of distillery effluents, but research has revealed several
 enzymatic pathways:
 
-- **Manganese peroxidase (MnP)**: Decolorization of sugar refinery
+- **[[fungal-manganese-peroxidase-remediation]] (MnP)**: Decolorization of sugar refinery
   effluent by [[cervantes-hydrogen-peroxide-sterilization]] produced by glucose oxidase
 
 ### Sugar Oxidase Pathway
-Two-thirds of melanoidin-decolorizing enzymes from Coriolus versicolor
+Two-thirds of melanoidin-decolorizing enzymes from [[coriolus-versicolor]]
 may be sugar-dependent, with the remaining one-third independent of
 sugar. The sugar-dependent enzymes appear related to sorbose oxidase
 from Coriolus sp. no. 20 or similar sugar oxidases. Decolorization may
@@ -36,12 +36,12 @@ result from active oxygen species produced by reaction with these enzymes.
 ### Glucose Oxidase System
 Flavodon flavus shows increasing glucose oxidase activity correlating
 with decolorization of molasses spent wash. Glucose oxidase produces
-hydrogen peroxide, which acts as a bleaching agent on melanoidin
+[[hydrogen-peroxide-tissue-culture-wild-polypores]], which acts as a bleaching agent on melanoidin
 compounds. This pathway offers potential for process optimization.
 
 ### Secondary Metabolite Mechanism
 Decolorization may also result from secondary metabolic reactions by
-white-rot fungi, though the specific secondary metabolites responsible
+white-rot fungi, though the specific [[antifungal-secondary-metabolites-coprophilous-fungi]] responsible
 remain unidentified. Kumar et al. (1998) attributed some decolorization
 to a secondary metabolite pathway distinct from enzymatic degradation.
 
@@ -50,7 +50,7 @@ to a secondary metabolite pathway distinct from enzymatic degradation.
 - **Coriolus (Trametes) versicolor Ps4a**: Produces intracellular
   enzymes induced by melanoidin; achieves 75 to 90% decolorization with
   10% adsorption on mycelium
-- **Phanerochaete chrysosporium JAG-40**: Extracellular enzymes provide
+- **[[phanerochaete-chrysosporium]] JAG-40**: Extracellular enzymes provide
   40 to 50% melanoidin removal in 24 hours
 - **Coriolus hirsutus**: Pellet-based enzymatic decolorization using
   MnP, MIP, and laccase with glucose oxidase participation
@@ -65,7 +65,7 @@ Color adsorption onto fungal mycelia provides a complementary
 non-enzymatic mechanism. Aspergillus niger adsorbs 10 to 25% of color,
 while [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] adsorbs 5 to 10%. In optimized nutrient
 conditions, Aspergillus niger achieves 83% decolorization with 17%
-adsorption, and Trametes versicolor reaches 90% decolorization with 10%
+adsorption, and [[staycare-trametes-versicolor-bioremediation-applications]] reaches 90% decolorization with 10%
 adsorption. High decolorization activity also occurs through adsorption
 
 ## Overview

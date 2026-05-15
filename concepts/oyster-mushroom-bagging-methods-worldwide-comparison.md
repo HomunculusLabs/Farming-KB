@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Bagging Methods Worldwide Comparison
+title: [[comparison-chaga-vs-oyster-mushroom]] Bagging Methods Worldwide Comparison
 source: "MushWorld - oyster-mushroom-cultivation (Mushrooms Handbook Vol. 1)"
 topic: mushroom-cultivation
 tags: [oyster-mushroom, bagging, cultivation, substrate, worldwide, packaging]

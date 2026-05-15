@@ -26,7 +26,7 @@ angle or lower. The branch will initially droop but will recover within 24
 to 48 hours and begin growing upward from the new bend point.
 
 Timing is critical for successful super cropping. The technique should only
-be performed during the vegetative stage when stems are green, flexible, and
+be performed during the [[cannabis-vegetative-stage]] when stems are green, flexible, and
 actively growing. Attempting to super crop woody or flowering stems will
 usually result in the branch snapping completely. The [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] of the branch, which becomes important
 during flowering when heavy buds can cause branches to sag or break. Plants
@@ -72,7 +72,7 @@ Explore related topics in the wiki index.
 ## Overview
 
 Query What Is Super Cropping And When To Do It represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -86,7 +86,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving query extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for query what is super cropping and when to do it. Climate adaptation
+opportunities for query what is super cropping and when to do it. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 query what is super cropping and when to do it and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

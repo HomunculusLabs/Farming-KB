@@ -1,7 +1,7 @@
 ---
-title: Mycelial Nutrient Dynamics and Translocation
+title: Mycelial [[mycelial-network-nutrient-dynamics-and-imaging]] Translocation
 aliases:
-  - fungal nutrient transport
+  - fungal [[fungal-decay-and-nutrient-transport]]
   - mycelial translocation
   - cord formation fungi
   - vacuolar nitrogen transport
@@ -36,7 +36,7 @@ ecosystem-level processes.
 Basidiomycetes dominate decomposition of recalcitrant organic matter, producing
 extracellular oxidative enzymes (lignin peroxidases, manganese peroxidases,
 laccases) that depolymerise complex plant polymers few other organisms can
-attack, regulating nutrient availability for the entire forest floor community.
+attack, regulating [[chelation-and-nutrient-availability]] for the entire forest floor community.
 
 ## Saprotrophic vs. Ectomycorrhizal Roles
 
@@ -45,7 +45,7 @@ attack, regulating nutrient availability for the entire forest floor community.
   degradation in temperate and boreal forests.
 - **Ectomycorrhizal (ECM) fungi** form mutualistic associations with tree
   roots, exchanging soil-derived mineral nutrients for host photosynthate using
-  enzymatic strategies distinct from free-living saprotrophs.
+  [[fungal-saprotrophic-enzymatic-strategies]] distinct from free-living saprotrophs.
 
 Both guilds rely on extensive mycelial networks for resource foraging and
 redistribution, though selective pressures differ between saprotrophic
@@ -96,7 +96,7 @@ release.
 ## FRAP: Measuring Transport Rates In Vivo
 
 **[[fluorescence-recovery-after-photobleaching]] (FRAP)** quantifies intracellular
-transport rates in living hyphae. In *Phanerochaete velutina* growing over
+transport rates in living hyphae. In *[[phanerochaete-velutina]]* growing over
 inert surfaces: hyphae are loaded with **Oregon Green 488**, a fluorophore
 accumulating in the vacuolar system; a defined region is **photobleached**;
 **fluorescence recovery** is monitored as unbleached fluorophore moves in; and
@@ -140,7 +140,7 @@ adherent vacuoles shifts the system from flexible but low-throughput to
 high-capacity transport. Mycelial-level reconfiguration (cord formation) is
 complemented by cellular-level vacuolar remodelling, ensuring intracellular
 transport infrastructure matches whole-colony foraging demands. The vacuolar
-system thus acts as an intracellular distribution network operating in concert
+system thus acts as an intracellular [[emcdda-free-spore-ring-europe-spore-distribution-network]] operating in concert
 with the macroscopic cord system to enable basidiomycete nutrient translocation
 ## See Also
 

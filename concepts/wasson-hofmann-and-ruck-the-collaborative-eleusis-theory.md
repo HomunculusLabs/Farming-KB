@@ -16,7 +16,7 @@ The hypothesis that the Eleusinian kykeon contained an ergot-derived hallucinoge
 
 ### Background
 
-Wasson was a vice-president of J.P. Morgan & Co. who became the world's foremost amateur ethnomycologist. His life's work was documenting the role of psychoactive mushrooms and other fungi in human culture and religion.
+Wasson was a vice-president of J.P. Morgan & Co. who became the world's foremost amateur ethnomycologist. His life's work was documenting the role [[historical-and-cultural-uses-of-psychoactive-mushrooms]] and other fungi in human culture and religion.
 
 ### Key Prior Work
 
@@ -27,14 +27,14 @@ Wasson was a vice-president of J.P. Morgan & Co. who became the world's foremost
 ### Role in the Eleusis Theory
 
 Wasson provided the ethnographic insight: if Mesoamerican peoples used psychoactive plants in religious rituals for millennia, why not the ancient Greeks? He identified the parallels between Mexican mushroom rites and the [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] mushrooms brought back from Mexico by Wasson
-- **[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of ololiuhqui** (1960): Discovered that the morning glory seeds used in Mesoamerican ritual contained the same alkaloids found in ergot: [[lysergic-acid-amide]], lysergic acid hydroxyethylamide, and ergonovine
+- **[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of ololiuhqui** (1960): Discovered that the morning glory seeds used in Mesoamerican ritual contained the same alkaloids found in ergot: [[lysergic-acid-amide]], [[lysergic-acid-hydroxyethylamide]], and ergonovine
 - **Development of Methergine** (ergometrine): A semisynthetic ergot derivative still used in obstetrics
 - **Development of Hydergine**: For geriatric disorders
 
 ### Role in the Eleusis Theory
 
 Hofmann provided the chemical evidence:
-1. Ololiuhqui morning glory seeds contain water-soluble hallucinogenic ergot alkaloids
+1. [[ololiuhqui-morning-glory-ergot-alkaloid-connection]] seeds contain water-soluble hallucinogenic ergot alkaloids
 2. These same alkaloids are found in ergot-infected grains
 3. The hallucinogenic alkaloids are water-soluble; the toxic ones are not
 4. Ancient Greeks could have prepared a hallucinogenic extract using only water
@@ -44,7 +44,7 @@ Hofmann provided the chemical evidence:
 
 ### Background
 
-Ruck is a classicist at Boston University specializing in Greek religion, mythology, and the history of psychoactive plants in classical antiquity.
+Ruck is a classicist at Boston University specializing [[sacred-marriage-hieros-gamos-in-greek-religion]], mythology, and the history of psychoactive plants in classical antiquity.
 
 ### Role in the Eleusis Theory
 
@@ -68,7 +68,7 @@ In July 1975, Wasson asked Hofmann whether ancient Greeks could have isolated a 
 3. **Extraction feasibility**: Water-soluble hallucinogenic alkaloids could be separated from water-insoluble toxic alkaloids using only ancient technology
 4. **Ritual context**: The Eleusinian preparation (fasting, darkness, tabu foods) matches the optimal conditions for entheogenic experience
 5. **Experimental proof**: Hofmann's ergonovine self-experiment (April 1, 1976) demonstrated psychoactivity
-6. **Historical evidence**: The 415 BC profanation proves the kykeon was sought for its effects
+6. **[[european-witches-flying-ointment-historical-evidence]]**: The 415 BC profanation proves the kykeon was sought for its effects
 
 ### Publication
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Wasson Hofmann And Ruck The Collaborative Eleusis Theory finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

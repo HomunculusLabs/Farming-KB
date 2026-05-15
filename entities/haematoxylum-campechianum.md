@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Humphreys, J. (1916). "The History of Logwood." Antiquarian, 13, 134–144.
-  - Calderón, G.S. et al. (2003). "Chemical Composition and Antibacterial Activity of Haematoxylum campechianum Heartwood Extracts." Journal of Ethnopharmacology, 88(2-3), 173–176.
+  - Calderón, G.S. et al. (2003). "[[chemical-composition-of-hallucinogens]] and Antibacterial Activity of Haematoxylum campechianum Heartwood Extracts." Journal of Ethnopharmacology, 88(2-3), 173–176.
   - Pennington, T.D. & Sarukhán, J. (2005). *Árboles Tropicales de México.* UNAM, Mexico City.
   - Francis, J.K. (2004). "Haematoxylum campechianum L." USDA Forest Service, SO-ITF-SM-57.
   - Cook, B.F. (1949). "Logwood: History, Uses, and Trade." Economic Botany, 3(4), 383–397.
@@ -54,7 +54,7 @@ Conflicts between Spanish, British, and French interests over logwood harvesting
 
 British logwood cutters established settlements in Belize (then British Honduras) that eventually became the colony of British Honduras.
 
-At its peak in the late 18th century, over 10,000 tons of logwood were exported annually from Central America.
+At its peak in the late 18th century, over 10,000 tons of logwood were exported annually from [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 The development of synthetic aniline dyes in the mid-19th century caused a sharp decline in logwood trade.
 
@@ -77,7 +77,7 @@ The combination of hematoxylin with iron mordants was the standard method for pr
 ## Overview
 
 Haematoxylum Campechianum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Haematoxylum Campechianum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,7 +106,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 haematoxylum campechianum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

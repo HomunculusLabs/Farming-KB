@@ -40,7 +40,7 @@ In traditional Mexican medicine, papalo has been used to treat digestive complai
 
 The Zuni people of the southwestern United States reportedly used poultices of the plant for wound healing. Ethnobotanical surveys in central Mexico document its use as a remedy for "empacho" (digestive blockage) and "susto" (cultural illness), often administered as a leaf tea.
 
-Nutritional analysis is limited, but the leaves contain modest levels of vitamin C, vitamin A precursors, and minerals including calcium and iron. As a raw garnish consumed in small quantities, its nutritional contribution is minor compared to its flavoring role.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] is limited, but the leaves contain modest levels of vitamin C, vitamin A precursors, and minerals including calcium and iron. As a raw garnish consumed in small quantities, its nutritional contribution is minor compared to its flavoring role.
 
 ## Bioactive Compounds
 
@@ -53,7 +53,7 @@ Thymol contributes antimicrobial and antifungal properties and is responsible fo
 ## Overview
 
 Porophyllum Ruderale represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -67,7 +67,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving porophyllum extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -82,13 +82,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for porophyllum ruderale. Climate adaptation
+opportunities for porophyllum ruderale. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -103,7 +103,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 porophyllum ruderale and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

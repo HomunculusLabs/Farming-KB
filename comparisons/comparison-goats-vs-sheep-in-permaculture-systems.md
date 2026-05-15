@@ -12,7 +12,7 @@ type: comparison
 
 ## Why This Comparison Matters
 
-Both goats and sheep are small ruminants well-suited to permaculture and homesteading, but they fill fundamentally different [[mollison-designers-wool-insulation-and-natural-textiles]] |
+Both goats and sheep are small ruminants well-suited to [[permaculture]] and homesteading, but they fill fundamentally different [[mollison-designers-wool-insulation-and-natural-textiles]] |
 | **Predator vulnerability** | High (no defensive flocking) | Moderate (strong flocking instinct) |
 | **Parasite susceptibility** | High — barber pole worm is primary threat | Moderate — similar parasites but more resistant |
 | **Reproductive rate** | 1–3 kids, 2× per year possible | 1–3 lambs, typically 1× per year |

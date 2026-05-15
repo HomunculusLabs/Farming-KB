@@ -23,7 +23,7 @@ Species in the *Quercus* section *Quercus* (white oaks) generally have lower tan
 | **Swamp White Oak (*Q. bicolor*)** | Low | Medium-large | Sweet, nutty | Large acorn, high quality |
 | **Bur Oak (*Q. macrocarpa*)** | Low | Very large (1.5 in) | Sweet, mild | Largest native acorn |
 | **Chestnut Oak (*Q. montana*)** | Low | Medium | Sweet, chestnut-like | Excellent flavor |
-| **Oregon White Oak (*Q. garryana*)** | Low–Moderate | Medium | Nutty | West Coast native |
+| **Oregon White Oak (*Q. garryana*)** | Low–Moderate | Medium | Nutty | [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] native |
 | **Emory Oak (*Q. emoryi*)** | Very Low | Small | Sweet, preferred by Southwest tribes | Best raw-eating acorn |
 | **Valley Oak (*Q. lobata*)** | Low | Large | Sweet | California native, excellent |
 
@@ -69,7 +69,7 @@ A mature oak can produce 500–2,000+ pounds of acorns per year, but yields are 
 
 **Acorn Pancakes** — Mix 1 cup acorn flour, 1 cup wheat flour, 2 tsp baking powder, 1 egg, 1–2 cups milk. Cook on a griddle like regular pancakes. The acorn adds a rich, nutty, almost maple-like flavor.
 
-**Acorn Porridge (Acorn Mush)** — Boil 1 cup acorn meal in 3–4 cups water or milk for 15–20 minutes, stirring frequently. Add honey, maple syrup, berries, or nuts. This was the most common indigenous preparation.
+**Acorn Porridge (Acorn Mush)** — Boil 1 cup acorn meal in 3–4 cups water or milk for 15–20 minutes, stirring frequently. Add honey, [[maple-syrup-production]], berries, or nuts. This was the most common indigenous preparation.
 
 **Acorn Cookies** — Substitute acorn flour for up to half the flour in chocolate chip, oatmeal, or sugar cookie recipes. The nutty flavor pairs exceptionally well with chocolate.
 **Acorn Soup Thickener** — Acorn flour thickens soups and stews while adding a rich, earthy flavor and nutritional boost.

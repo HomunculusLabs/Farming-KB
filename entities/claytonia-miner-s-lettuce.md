@@ -39,7 +39,7 @@ Claytonia holds a special place in the Four Season Farm crop lineup:
 - Demonstrates exceptional "[[cut-and-come-again]]" regrowth in midwinter
 
 ### Production Notes
-- **Sowing**: Part of the succession planting schedule from August 1 through fall
+- **Sowing**: Part of the [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] from August 1 through fall
 - **Regrowth**: Vigorous — cut plants regrow even during the shortest days of winter
 - **Protection**: Grown under double coverage (hoop house + floating row cover)
 - **Bed Occupancy**: Excellent space efficiency due to upright but compact growth
@@ -73,16 +73,16 @@ Claytonia is one of the few crops showing uninterrupted harvest through the enti
 
 ## Etymology and History
 
-The common name "miner's lettuce" derives from the California Gold Rush era, when miners ate the plant to prevent scurvy, as it is an excellent source of vitamin C. The plant is native to the western coastal regions of North America, from British Columbia to Central America, where it grows as a cool-season winter annual.
+The common name "miner's lettuce" derives from the California Gold Rush era, when miners ate the plant to prevent scurvy, as it is an excellent source of vitamin C. The plant is native to the western coastal regions [[huckleberries-and-wild-berries-of-north-america]], from British Columbia to [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], where it grows as a cool-season winter annual.
 
 ## Relevance to Cultivation and Mycology
 
 Claytonia's extremely low light requirements make it an ideal candidate for:
 
-- Understory planting in greenhouses with shelving for mushroom production
+- Understory planting in greenhouses with shelving for [[stamets-stump-cultivation-mushroom-production-forestry]]
 - Interplanting with taller winter crops or mushroom logs
 - Mixed winter production systems where light is shared between tiers
-- Edible ground cover beneath fruiting mushroom substrates in protected structures
+- Edible ground cover beneath fruiting [[kh2po4-phosphate-supplementation-mushroom-substrates]] in protected structures
 
 ## Key Facts
 
@@ -98,7 +98,7 @@ Claytonia's extremely low light requirements make it an ideal candidate for:
 
 ## See Also
 
-- Mâche (Valerianella locusta)
+- Mâche ([[mache-valerianella-locusta]])
 - Minutina
 - Cold-Hardy Vegetables
 - Four Season Farm

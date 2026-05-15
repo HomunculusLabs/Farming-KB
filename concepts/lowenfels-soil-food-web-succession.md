@@ -19,7 +19,7 @@ type: concept
 
 [[soil-food-web]] is not static; it undergoes predictable patterns of
 succession that mirror the development of aboveground plant communities. In
-"Teaming With Microbes," Lowenfels and Lewis describe how soils transition
+"[[teaming-with-microbes-actinomycetes]]," Lowenfels and Lewis describe how soils transition
 from bacterial-dominated systems to fungal-dominated systems as ecosystems
 mature from disturbance to stability. Understanding this succession is
 fundamental to managing soil biology for different types of plants and
@@ -48,7 +48,7 @@ As ecosystems mature without significant disturbance, [[ingham-bacterial-to-fung
 [[lowenfels-glomalin-soil-aggregation]] increases.
 3. **Mature stage (5 to 30 years):** Fungi equal or exceed bacteria.
    Perennial plant communities dominate. Predatory nematodes and
-   microarthropods establish complex trophic networks. Soil organic matter
+   microarthropods establish complex trophic networks. [[humus-and-soil-organic-matter]]
    accumulates and stabilizes.
 4. **Climax stage (30+ years):** Fungal-dominated food web with high
    diversity across all trophic levels. Nutrient cycling is slow, steady,
@@ -75,7 +75,7 @@ Rather than fighting indicator weeds with herbicides, understanding what they
 ## Overview
 
 Lowenfels Soil Food Web Succession represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Lowenfels Soil Food Web Succession finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,7 +104,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 lowenfels soil food web succession and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

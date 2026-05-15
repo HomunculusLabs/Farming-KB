@@ -22,7 +22,7 @@ Mizuna (*[[brassica-rapa]]* var. *japonica*), also known as Japanese mustard gre
 ## Key Facts
 
 - Listed among approximately 30 cold-hardy vegetables grown through winter in unheated greenhouses at [[four-season-farm]] in Harborside, Maine (USDA Zone 5)
-- Appears in both the cool-house and cold-house harvest season charts, with production possible from October through May under protected cultivation
+- Appears in both the cool-house and cold-house harvest season charts, with production possible from October through May under [[coleman-protected-cultivation]]
 - Tolerates temperatures well below freezing when grown under double coverage (greenhouse + [[floating-row-cover]])
 - One of the Asian greens (alongside tatsoi and pak choi) that diversify the winter-harvest selection
 - Excellent for [[cut-and-come-again]] production; regrows vigorously after cutting, even in midwinter
@@ -34,14 +34,14 @@ Mizuna (*[[brassica-rapa]]* var. *japonica*), also known as Japanese mustard gre
 
 ## Relevance to Cultivation
 
-Mizuna is a workhorse crop in low-input winter vegetable production. Its vigorous regrowth after cutting makes it one of the most productive greens per square foot in the winter-harvest system. The deeply cut leaves provide visual contrast in mixed salad bags, increasing market appeal. Mizuna's cold tolerance and low-light adaptation mean it continues producing steadily through the period when warm-season crops would be completely dormant. In Coleman's protected cultivation system (unheated greenhouse with inner row cover layer), mizuna experiences moderated temperatures even when outdoor conditions drop to -20°F (-29°C). The plant is a staple of the "baby-leaf salads and braising mixes" that Coleman identifies as the core output of the unheated cold houses. Its reliability through the coldest months makes it an essential crop for any market grower pursuing year-round production without supplemental heat.
+Mizuna is a workhorse crop in low-input [[coleman-french-historical-winter-vegetable-production]]. Its vigorous regrowth after cutting makes it one of the most productive greens per square foot in the winter-harvest system. The deeply cut leaves provide visual contrast in mixed salad bags, increasing market appeal. Mizuna's cold tolerance and low-light adaptation mean it continues producing steadily through the period when warm-season crops would be completely dormant. In Coleman's protected cultivation system (unheated greenhouse with inner row cover layer), mizuna experiences moderated temperatures even when outdoor conditions drop to -20°F (-29°C). The plant is a staple of the "baby-leaf salads and braising mixes" that Coleman identifies as the core output of the unheated cold houses. Its reliability through the coldest months makes it an essential crop for any market grower pursuing year-round production without supplemental heat.
 ## Botanical Description
 
-Herbaceous plant with distinctive leaf morphology and growth habit. Adapted to seasonal climates with specific temperature and moisture requirements for optimal development.
+Herbaceous plant with distinctive leaf morphology and growth habit. Adapted to seasonal climates with specific [[mushroom-growing-temperature-and-moisture]] requirements for optimal development.
 
 ## Cultivation
 
-Grown as a cool-season crop in temperate regions. Propagated from seed with specific spacing and soil requirements. Requires consistent moisture and well-drained soil for best results.
+Grown as a cool-season crop in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Propagated from seed with specific spacing and soil requirements. Requires consistent moisture and well-drained soil for best results.
 
 ## Culinary Uses
 
@@ -76,7 +76,7 @@ Functions as part of interconnected agricultural and ecological systems. Synergi
 
 ## Common Challenges
 
-Practitioners face various obstacles including pest pressure, climate variability, and resource limitations. Proven strategies exist for addressing each of these challenges effectively.
+Practitioners face various obstacles including pest pressure, [[macrofungal-fruiting-phenology-climate-variability]], and resource limitations. Proven strategies exist for addressing each of these challenges effectively.
 
 ## Cultivation Requirements
 
@@ -90,7 +90,7 @@ matter and consistent moisture during establishment.
 Harvest timing affects both quality and yield. Most
 varieties can be harvested at multiple stages depending
 on intended use. Proper post-harvest handling extends
-shelf life and maintains nutritional quality.
+shelf life and maintains [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 ## Culinary Value
 

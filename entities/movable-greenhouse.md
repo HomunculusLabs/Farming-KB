@@ -34,11 +34,11 @@ For serious commercial production, Coleman settled on 30-foot-wide by 96-foot-lo
 
 ### Historical Context
 
-The pioneers of movable greenhouses recognized that it was far less work to move the greenhouse to fresh soil than to replace the soil inside a stationary greenhouse. Historically, it was traditional practice to dig soil out down to 16 inches deep and replace it with new field soil when problems arose in stationary greenhouses. Movable greenhouses eliminated this laborious process.
+The pioneers of [[movable-greenhouses]] recognized that it was far less work to move the greenhouse to fresh soil than to replace the soil inside a stationary greenhouse. Historically, it was traditional practice to dig soil out down to 16 inches deep and replace it with new field soil when problems arose in stationary greenhouses. Movable greenhouses eliminated this laborious process.
 
 ### Soil Health Benefits
 
-Movable greenhouses allow the covered soil to be exposed to the elements when the structure is moved, preventing the salt buildup, pest accumulation, and soil fatigue common in permanent greenhouse structures. Coleman's original cool (non-mobile) house required meticulous attention to soil preparation, compost quality, crop rotation, and irrigation to maintain productivity for fourteen years.
+Movable greenhouses allow the covered soil to be exposed to the elements when the structure is moved, preventing the salt buildup, pest accumulation, and soil fatigue common in permanent greenhouse structures. Coleman's original cool (non-mobile) house required meticulous attention to soil preparation, [[aact-compost-quality-standards-ingham]], crop rotation, and irrigation to maintain productivity for fourteen years.
 
 ## Relevance to Cultivation
 
@@ -69,9 +69,9 @@ Movable greenhouses make year-round production economically viable for small far
 ## Relationship to Other Concepts
 
 - **Crop rotation**: Movable greenhouses enable field-scale rotation under cover
-- **Cold house / cool house**: The structures function as unheated or minimally heated growing environments
-- **Double coverage**: Inner row covers used inside the greenhouse for additional frost protection
-- **Green manure**: Summer periods when the greenhouse is moved allow cover cropping of the exposed site
+- **Cold house / cool house**: The structures function as unheated or minimally heated [[mushroom-growing-environments]]
+- **[[double-coverage]]**: Inner row covers used inside the greenhouse for additional [[cervantes-microclimate-frost-protection]]
+- **Green manure**: Summer periods when the greenhouse is moved allow [[cover-cropping-guide]] of the exposed site
 
 ## See Also
 - [[coleman-mobile-greenhouse-crop-rotation-soil-health|Coleman Mobile Greenhouse Crop Rotation Soil Health]]

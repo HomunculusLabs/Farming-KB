@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The fungal rhizosphere—the zone of soil surrounding plant roots where fungi, bacteria, nematodes, arthropods, and plant roots interact in complex networks—is one of the most critical yet underappreciated components of terrestrial ecosystems. Far from being simple dirt, soil is a living system whose health and resilience depend overwhelmingly on fungal activity. Mycorrhizal fungi form symbiotic relationships with approximately 90% of all plant species, facilitating nutrient exchange, building soil structure, enabling inter-plant communication, and providing ecosystems with the capacity to recover from catastrophic disturbances. Understanding the rhizosphere is essential for understanding how ecosystems function, persist, and regenerate.
+The fungal rhizosphere—the zone of soil surrounding plant roots where fungi, bacteria, nematodes, arthropods, and plant roots interact in complex networks—is one of the most critical yet underappreciated components of terrestrial ecosystems. Far from being simple dirt, soil is a living system whose health and resilience depend overwhelmingly on fungal activity. Mycorrhizal fungi form [[fungi-in-the-environment-symbiotic-relationships]] with approximately 90% of all plant species, facilitating nutrient exchange, building soil structure, enabling inter-plant communication, and providing ecosystems with the capacity to recover from catastrophic disturbances. Understanding the rhizosphere is essential for understanding how ecosystems function, persist, and regenerate.
 
 ## Mycorrhizal Fungi: The Foundation of Terrestrial Ecosystems
 
@@ -18,16 +18,16 @@ Mycorrhizae are symbiotic associations between fungi and plant roots. Two major 
 These fungi form visible sheaths around plant root tips and produce the familiar mushroom fruiting bodies that mycophiles recognize. They associate primarily with trees—especially pines, oaks, and other forest species—and facilitate the uptake of phosphorus, nitrogen, and other nutrients from soil in exchange for carbohydrates produced by the host plant through photosynthesis.
 
 ### Vesicular-Arbuscular Mycorrhizal Fungi (VAM)
-VAM fungi, of which *Glomus* is one of the best-known genera, are invisible to the naked eye but arguably more important as plant symbionts than their ectomycorrhizal counterparts. They penetrate root cells to form specialized structures called arbuscules (sites of nutrient exchange) and vesicles (storage organs). VAM fungi account for a considerable amount of fungal biodiversity in soils and associate with the vast majority of herbaceous plants, grasses, and many crops.
+VAM fungi, of which *Glomus* is one of the best-known genera, are invisible to the naked eye but arguably more important as plant symbionts than their ectomycorrhizal counterparts. They penetrate root cells to form specialized structures called arbuscules (sites of nutrient exchange) and vesicles (storage organs). VAM fungi account for a considerable amount of [[fungal-biodiversity-in-extreme-environments]] soils and associate with the vast majority of herbaceous plants, grasses, and many crops.
 
-The landmark study by Van der Heijden et al. (1998) in *Nature* demonstrated that **mycorrhizal fungal diversity directly determines plant biodiversity, ecosystem variability, and productivity**. This finding established that fungal diversity is not merely a component of ecosystem health—it is a driver of it.
+The landmark study by Van der Heijden et al. (1998) in *Nature* demonstrated that **[[arbuscular-mycorrhizal-fungal-diversity]] directly determines plant biodiversity, ecosystem variability, and productivity**. This finding established that fungal diversity is not merely a component of ecosystem health—it is a driver of it.
 
 ## The Rhizosphere as a Living Network
 
 The soil beneath our feet is far from inert. It comprises a vast, three-dimensional network of fungal hyphae that extends root systems far beyond their physical reach, connecting individual plants and even different species into what some scientists call a "common mycorrhizal network" or "wood wide web."
 
 ### Key Organisms in the Rhizosphere
-- **Fungi**: Form the primary network architecture, decompose organic matter, and mediate nutrient exchange
+- **Fungi**: Form the primary [[mycelial-network-architecture]], decompose organic matter, and mediate nutrient exchange
 - **Bacteria**: Cycle nutrients, fix nitrogen, and compete with or complement fungal activity
 - **Nematodes**: Feed on fungi and bacteria, regulating microbial populations and releasing nutrients
 - **Arthropods**: Fragment organic matter, aerate soil, and serve as predators in [[soil-food-web]]
@@ -79,11 +79,11 @@ The greatest extinction in Earth's history—when 90% of all species perished—
 
 The understanding of fungal rhizosphere dynamics has profound implications for how we manage land:
 
-1. **Preserve soil fungal communities**: Tilling, compaction, and chemical inputs can devastate rhizosphere networks
+1. **Preserve [[biodiversity-fungi-soil-fungal-communities]]**: Tilling, compaction, and chemical inputs can devastate rhizosphere networks
 2. **Minimize soil disturbance**: No-till and low-impact practices protect mycorrhizal connections
 3. **Inoculate degraded lands**: Introducing native fungi can accelerate restoration of contaminated or degraded sites
 4. **Match native fungi to native plants**: Co-evolved partnerships are more effective than random introductions
-5. **Design with fungal networks in mind**: Sustainable agriculture and forestry should work with, not against, underground fungal systems
+5. **Design with fungal networks in mind**: [[mushroom-cultivation-for-sustainable-agriculture]] and forestry should work with, not against, underground fungal systems
 
 ## Climate Change and the Fungal Safety Net
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Peyote is a small, spineless, tufted, blue-green, button-like cactus known botanically as *[[lophophora-williamsii]]*. It is the most famous of the psychoactive cacti, growing wild from Central Mexico to Northern Texas in the Chihuahuan Desert. Its known history dates back to pre-Columbian times, possibly as early as 300 BC. During the past two centuries, the religious use of peyote spread northward into the United States and Canada among many Plains Indian Tribes (Navajo, Comanche, Sioux, Kiowa), eventually replacing the hallucinogenic but dangerous red mescal bean (*Sophora secundiflora*) as a ceremonial sacrament.
+Peyote is a small, spineless, tufted, blue-green, button-like cactus known botanically as *[[lophophora-williamsii]]*. It is the most famous of the [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], growing wild from [[psychoactive-cacti-of-central-mexico]] to Northern Texas in the Chihuahuan Desert. Its known history dates back to pre-Columbian times, possibly as early as 300 BC. During the past two centuries, the religious use of peyote spread northward into the United States and Canada among many Plains Indian Tribes (Navajo, Comanche, Sioux, Kiowa), eventually replacing the hallucinogenic but dangerous red mescal bean (*[[sophora-secundiflora-entity]]*) as a ceremonial sacrament.
 
 ## Alkaloid Chemistry
 
@@ -94,7 +94,7 @@ Tyramine and DOPA are also precursors, but dopamine is the most direct and effic
 ### *Trichocereus pachanoi* (San Pedro)
 - Native to the Andes of Peru and Ecuador.
 - Large, multi-branched (10–15 feet in habitat).
-- Mescaline content: 0.3–1.2% (less than peyote, but larger size makes it more economical).
+- [[gottlieb-peyote-botany-and-mescaline-content]]: 0.3–1.2% (less than peyote, but larger size makes it more economical).
 - Effects described as more pleasant, less overwhelming, more tranquil than peyote.
 - Ritual use dates back to 1000 BC; still used by curanderos of northern Peru.
 - Related mescaline-bearing species: *T. bridgesii*, *T. macrogonus*, *T. terscheckii*, *T. werdermannianus*.
@@ -136,5 +136,5 @@ Tyramine and DOPA are also precursors, but dopamine is the most direct and effic
 
 ## See Also
 
-- [[alpha-1-3-glucan-fungal-cell-wall-human-pathogens]] — Fungal cell wall chemistry
-- [[fungal-bioweathering-rocks-minerals]] — Fungal interactions with minerals
+- [[alpha-1-3-glucan-fungal-cell-wall-human-pathogens]] — [[chitin-chitosan-fungal-cell-wall]] chemistry
+- [[fungal-bioweathering-rocks-minerals]] — [[fungal-interactions-with-humans]] minerals

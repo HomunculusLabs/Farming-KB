@@ -1,12 +1,12 @@
 ---
-title: Soil Temperature and Oxygen for Plant Growth
+title: Soil [[soil-temperature-and-oxygen]] for Plant Growth
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Soil Temperature and Oxygen for Plant Growth
 
-Two often-overlooked factors profoundly influence plant growth: **[[soil-temperature]]** and **soil oxygen**. [[steve-solomon]] emphasizes that these physical properties of soil can matter as much as or more than nutrient availability in determining how well vegetables grow.
+Two often-overlooked factors profoundly influence plant growth: **[[soil-temperature]]** and **soil oxygen**. [[steve-solomon]] emphasizes that these physical properties of soil can matter as much as or more than [[chelation-and-nutrient-availability]] in determining how well vegetables grow.
 
 ## The Nighttime Growth Cycle
 
@@ -31,7 +31,7 @@ Root growth speed is also determined by soil temperature. Roots may only grow ac
 
 ## The Soil Thermometer
 
-Solomon considers a **soil thermometer** one of the most educational tools a gardener can own. Watching it closely over a few weeks reveals the connection between daily weather, the rise and fall of temperature a few inches below the surface, and the resulting rate of plant growth. This knowledge helps gardeners time their plantings optimally and diagnose slow growth.
+Solomon considers a **soil thermometer** one of the most [[mushroom-charts-educational-tools]] a gardener can own. Watching it closely over a few weeks reveals the connection between daily weather, the rise and fall of temperature a few inches below the surface, and the resulting rate of plant growth. This knowledge helps gardeners time their plantings optimally and diagnose slow growth.
 
 ## Soil Oxygen
 
@@ -59,7 +59,7 @@ Tillage is especially important in the early years of a garden. Over time, as or
 
 ## Capillarity
 
-After tilling, an important phenomenon called **capillarity** becomes visible. Immediately after tilling, all the soil appears damp. But after the sun dries the surface, visit the plot the next morning and look at your footprints: they will be damp while the surrounding tilled surface is dry. This happens because your weight compressed the soil particles together firmly enough to allow moisture to rise from below through capillary action.
+After tilling, an important phenomenon called **capillarity** becomes visible. Immediately after tilling, all the soil appears damp. But after the sun dries the surface, visit the plot the next morning and look at your footprints: they will be damp while the surrounding tilled surface is dry. This happens because your weight compressed the soil particles together firmly enough to allow moisture to rise from below through [[capillary-action-in-soils]].
 
 Understanding capillarity is important for two reasons:
 1. It explains how moisture moves upward through soil to reach plant roots.
@@ -77,7 +77,7 @@ Understanding capillarity is important for two reasons:
 
 ## Soil Health Context
 Understanding soil structure and management is essential for
-sustainable agriculture. Healthy soil provides the foundation
-for plant growth, water retention, and nutrient cycling.
+[[mushroom-cultivation-for-sustainable-agriculture]]. Healthy soil provides the foundation
+for plant growth, water retention, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 Proper soil management practices improve long-term productivity
 and reduce the need for external inputs.

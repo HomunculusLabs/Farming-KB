@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-Masanobu Fukuoka's philosophy extends far beyond farming methods into a comprehensive critique of how humanity produces, selects, and consumes food. He argues that the modern diet — whether Japanese or Western — has become fundamentally disconnected from nature, and that this disconnection is both a cause and a consequence of destructive [[critique-of-scientific-agriculture]] and economic centralization that he critiques in his farming practice.
+[[masanobu-fukuoka-natural-farming-philosophy]]'s philosophy extends far beyond [[cho-poultry-natural-farming-methods]] into a comprehensive critique of how humanity produces, selects, and consumes food. He argues that the modern diet — whether Japanese or Western — has become fundamentally disconnected from nature, and that this disconnection is both a cause and a consequence of destructive [[critique-of-scientific-agriculture]] and economic centralization that he critiques in his farming practice.
 
 ## "Man Doesn't Live by Bread Alone"
 
@@ -75,7 +75,7 @@ profit and geopolitical strategy.
 
 ## The Connection Between Farming and Diet
 
-The thread connecting all of these observations is Fukuoka's conviction that how food is grown determines what food is, and what food is determines who we are. Scientific agriculture produces food that is visually appealing but nutritionally hollow, requiring further scientific intervention — processing, fortification, supplementation — to compensate for its deficiencies.
+The thread connecting all of these observations is Fukuoka's conviction that how food is grown determines what food is, and what food is determines who we are. [[fukuoka-critique-of-scientific-agriculture]] produces food that is visually appealing but nutritionally hollow, requiring further scientific intervention — processing, fortification, supplementation — to compensate for its deficiencies.
 
 Natural farming, by contrast, produces food that is complete in itself. Fukuoka's rice, grown without chemicals, was a complete food requiring no supplementation. The connection between the health of the soil, the health of the plant, and the health of the person who eats it is, for Fukuoka, not metaphorical but literal.
 
@@ -85,6 +85,6 @@ Natural farming, by contrast, produces food that is complete in itself. Fukuoka'
 ## See Also
 
 - [[masanobu-fukuoka]]
-- fukuoka natural farming do nothing agriculture
-- fukuoka desertification agricultural civilization collapse
-- fukuoka spiritual philosophy nature and god
+- fukuoka [[natural-farming-do-nothing-agriculture]]
+- [[fukuoka-desertification-agricultural-civilization-collapse]] [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
+- [[fukuoka-spiritual-philosophy-farming]] nature and god

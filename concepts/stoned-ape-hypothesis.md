@@ -1,5 +1,5 @@
 ---
-title: Stoned Ape Hypothesis
+title: [[mckenna-food-gods-stoned-ape-hypothesis]]
 aliases: [McKenna stoned ape, psychedelic primate evolution, hallucinogen hypothesis]
 tags: [anthropology, evolution, psychedelics, consciousness, mycology]
 created: 2026-05-10
@@ -23,10 +23,10 @@ and complexity over a relatively short evolutionary timeframe — approximately
 two million years. This expansion cannot be fully explained by conventional
 evolutionary pressures such as tool use, social complexity, or dietary
 changes alone. McKenna proposed that the inclusion [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] and
-related psychoactive mushroom species.
+related [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species.
 
 The follow-the-herd strategy — tracking herds of grazing animals for food
-— would have repeatedly exposed hominids to psychoactive mushrooms growing
+— would have repeatedly exposed hominids to [[ceremonial-shamanic-use-psychoactive-mushrooms]] growing
 in the dung. McKenna argued that this repeated exposure over many
 generations created a selective environment in which individuals more
 receptive to the cognitive effects of psilocybin were at an evolutionary
@@ -62,7 +62,7 @@ Beyond individual cognitive effects, McKenna argued that psychedelic
 mushrooms catalyzed the development of culture itself. The shared visionary
 experiences produced by group mushroom consumption would have created a
 basis for communal ritual, shared symbolism, and collective identity — the
-foundations of culture. He traced the origins of religion, art, music, and
+foundations of culture. He traced the [[anunnaki-and-sumerian-origins-of-religion]], art, music, and
 dance to these early psychedelic experiences.
 
 In McKenna's framework, the period of mushroom-influenced culture
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Stoned Ape Hypothesis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 stoned ape hypothesis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

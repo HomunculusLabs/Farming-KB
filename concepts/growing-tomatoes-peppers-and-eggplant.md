@@ -6,7 +6,7 @@ type: concept
 
 # Growing Tomatoes, Peppers, and Eggplant
 
-Tomatoes, peppers, and eggplant are close relatives in the nightshade family (Solanaceae). Many varieties can be perennial where there is no frost. All are aggressive growers in suitable weather, responding to fertilization by expanding to the limit of their moisture supply and rooting room. Tomatoes are the most demanding to grow well; once mastered, peppers and eggplants seem easier by comparison.
+Tomatoes, peppers, and eggplant are close relatives in the nightshade family ([[solanaceae]]). Many varieties can be perennial where there is no frost. All are aggressive growers in suitable weather, responding to fertilization by expanding to the limit of their moisture supply and rooting room. Tomatoes are the most demanding to grow well; once mastered, peppers and eggplants seem easier by comparison.
 
 ## Tomatoes
 
@@ -32,7 +32,7 @@ Tomatoes, peppers, and eggplant are close relatives in the nightshade family (So
 | Determinate | Short | Heavy yield for shorter time | Containers, small gardens |
 | Indeterminate | Long, lanky | Produces until frost | Main crop, trellising |
 
-**The root zone principle**: The more root room a tomato has, the more growing space you should give it. Tomatoes don't only match their compact above-ground growth — they need much more underground space than their visible size suggests.
+**The root zone principle**: The more root room a tomato has, the more [[cotter-growing-space-design-fruiting-rooms]] you should give it. Tomatoes don't only match their compact above-ground growth — they need much more underground space than their visible size suggests.
 
 ### Pruning Indeterminates
 
@@ -55,7 +55,7 @@ Side shoots emerge from each leaf notch in groups of three. The pattern:
 - If roots have room to expand, weather is favorable, and soil is reasonably fertile, vines usually won't become sick
 - **Fruit worms**: Same as corn earworm — control with Bt
 - **Hornworms**: Handpick — they're large and obvious
-- **Blossom-end rot**: Calcium deficiency; if your subsoil offers sufficient calcium, a few years of light lime applications will cure it
+- **Blossom-end rot**: [[knf-calcium-deficiency-symptoms]]; if your subsoil offers sufficient calcium, a few years of light lime applications will cure it
 - **Early blight**: The inevitable late-summer disease; have faith and accept that harvest will fade
 
 ### Varieties
@@ -64,7 +64,7 @@ Side shoots emerge from each leaf notch in groups of three. The pattern:
 - **Heirlooms**: Superior flavor but may not be well-adapted to cool or dry climates, rarely carry disease resistance
 - **Suggestion**: Experiment with one new heirloom yearly, but mainly grow proven local varieties
 - **Beefsteak**: Best flavor but need warm, humid nights — usually fail in maritime climates
-- **Cherry (indeterminate)**: Most aggressively growing, best suited to dry gardening
+- **Cherry (indeterminate)**: Most aggressively growing, best suited to [[dry-gardening-unirrigated-vegetable-production-solomon]]
 - **Paste/sauce**: Less moisture, cook down in half the time
 - **Longkeeper**: Extremely slow-ripening, develops tough skin that holds in moisture
 
@@ -96,7 +96,7 @@ Tomatoes are self-pollinating — you can save seed from individual fruits. The 
 
 - Need warm conditions — maritime climates are challenging
 - In chilly areas without a greenhouse, hybrid peppers may be essential
-- Black plastic mulch warms soil a few degrees and raises nighttime air temperature
+- Black [[jadam-plastic-mulch-problems]] warms soil a few degrees and raises nighttime air temperature
 
 ### Black Plastic Mulch Technique
 
@@ -121,13 +121,13 @@ Tomatoes are self-pollinating — you can save seed from individual fruits. The 
 
 ### Climate Needs
 
-- Need at least 180 frost-free days for direct seeding
+- Need at least 180 frost-free days for [[clay-seed-pellets-direct-seeding]]
 - In shorter seasons, use transplants
 - Hybrid eggplant may be advantageous in chilly climates
 
 ### Growing
 
-- Sometimes direct-seeded where the growing season is long enough
+- Sometimes direct-seeded where [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] is long enough
 - Requires warm soil and consistent moisture
 - Responds well to extra fertility
 

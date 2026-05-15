@@ -4,9 +4,9 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Acidifying Pollutants, Saprotrophic Fungi, Lichens, and Fungal-Faunal Interactions
+# Acidifying Pollutants, Saprotrophic Fungi, and Lichen Communities
 
-Beyond their effects on mycorrhizae, acidifying pollutants influence saprotrophic fungal decomposition, lichen community health, phylloplane fungal communities, and the faunal food webs that depend on fungi. This page synthesizes the diverse impacts of atmospheric pollutants on non-mycorrhizal fungal guilds and their ecological interactions.
+Beyond their effects on mycorrhizae, acidifying pollutants influence saprotrophic [[fungal-decomposition]], lichen community health, phylloplane fungal communities, and the faunal food webs that depend on fungi. This page synthesizes the diverse impacts of atmospheric pollutants on non-mycorrhizal fungal guilds and their ecological interactions.
 
 ## Effects on Saprotrophic Fungal Activity
 
@@ -67,7 +67,7 @@ The mechanism: elevated soil pH increases nitrogen availability, stimulating dec
 **Antibus & Linkins (1992)** showed that liming reduced acid phosphatase activity of the mycorrhizal community in the forest floor litter layer. This likely reflects a synergistic effect of liming on increasing both N and P availability, reducing phosphatase activity through negative feedback — when more inorganic P is available, fungi produce less phosphatase enzyme.
 
 **Kuyper (1989)** found that:
-- Nitrogen addition and liming stimulate saprotrophic fungi and litter decomposition where leaf litter N is low
+- Nitrogen addition and liming stimulate [[saprotrophic-fungi]] and litter decomposition where leaf litter N is low
 - The same treatments suppress saprotrophic activity where leaf litter N is already high
 - The effect of liming on mycoflora is very similar to that of nitrogen fertilization
 
@@ -140,18 +140,8 @@ The impact of acidifying pollutants on aquatic fungal communities appears relati
 ## Synthesis: No Universal Pattern
 
 The overarching conclusion from studies of acidifying pollutants on non-mycorrhizal fungi is that **there is no consistent trend** in fungal response. Responses depend on:
-- **Fungal species identity** and its physiological characteristics
-- **Substrate quality** (C:N ratio, lignin content, nutrient status)
-- **Pollutant type and concentration** (SO₂ vs. O₃ vs. NOₓ, alone or combined)
-- **Host plant species** and its inherent resistance or sensitivity
-- **Soil and climate context** (pH buffering capacity, moisture, temperature)
-- **Assessment method** (fruit body surveys, root tip analysis, molecular tools, culture-based approaches)
-
-This complexity underscores the need for multi-factor, multi-method approaches when assessing anthropogenic impacts on fungal communities and the ecosystem processes they mediate.
 
 ## See Also
-
-- [[Fungal-Interactions-with-Humans]] — overview of human-fungal pollutant interactions
-- [[Acidifying-Pollutants-Mycorrhizae-Plant-Nutrition]] — effects on mycorrhizal symbioses
-- [[Nitrogen-Deposition-and-Ectomycorrhizal-Community-Structure]] — N effects on mycorrhizal communities
-- [[Lichens-as-Bioindicators]] — lichen communities and air quality monitoring
+- [[acidifying-pollutants-saprotrophic-fungal-communities]]
+- [[acidifying-pollutants-mycorrhizal-community-structure]]
+- [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]

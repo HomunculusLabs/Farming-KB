@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-A spore syringe is a sterile medical-grade syringe filled with a suspension of mushroom spores in water, used to inoculate substrate jars in the PF TEK and other cultivation methods. In the context of the PF TEK, the spore syringe is the primary vector for introducing *Psilocybe cubensis* genetics to the substrate. Psylocybe Fanaticus distributed spore syringes commercially from Seattle, Washington, guaranteeing them as clean (uncontaminated) and viable (germinating), with a money-back replacement policy.
+A spore syringe is a sterile medical-grade syringe filled with a suspension of mushroom spores in water, used to inoculate substrate jars in the PF TEK and other [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]. In the context of the PF TEK, the spore syringe is the primary vector for introducing *[[anemotropism-in-psilocybe-cubensis]]* genetics to the substrate. [[psylocybe-fanaticus]] distributed spore syringes commercially from Seattle, Washington, guaranteeing them as clean (uncontaminated) and viable (germinating), with a money-back replacement policy.
 
 ## Classification
 
@@ -77,10 +77,10 @@ Spore syringes can be prepared from spore prints using the following materials a
 
 The spore syringe is central to the PF TEK for multiple reasons:
 
-- **Mass spore inoculation:** The technique deliberately uses spore inoculation rather than tissue cloning, preserving the complete genotype and preventing senescence (mutating and ceased fruiting).
-- **Genetic diversity:** Each spore syringe contains millions of spores representing the full genetic diversity of the parent organism.
+- **[[mass-spore-inoculation-senescence-avoidance-pf-tek]]:** The technique deliberately uses spore inoculation rather than tissue cloning, preserving the complete genotype and preventing senescence (mutating and ceased fruiting).
+- **[[biodiversity-fungal-genetic-diversity]]:** Each spore syringe contains millions of spores representing the full genetic diversity of the parent organism.
 - **Sustainability:** "The spores insure a never ending succession of fungus, with all the power of the spores reproductive ability intact."
-- **Legal status (US):** While *Psilocybe cubensis* mushrooms contain the contraband compounds psilocybin and psilocin, there are no US federal laws prohibiting the spores themselves.
+- **Legal status (US):** While *Psilocybe cubensis* mushrooms contain the contraband compounds [[hplc-analysis-of-psilocybin-and-psilocin]], there are no US federal laws prohibiting the spores themselves.
 - **Commercial availability:** PF sold spore syringes for $10 each (postage paid) with guaranteed viability and discretion (no customer lists, hand-addressed mailers, "PF" return address only).
 
 ## References

@@ -40,7 +40,7 @@ Cotton fiber is approximately 88–96% cellulose, with minor components includin
 
 Gossypol, a toxic polyphenolic sesquiterpene, occurs in pigment glands throughout the plant but is concentrated in cottonseed. Gossypol is hepatotoxic and cardiotoxic to non-ruminant animals, limiting raw seed use in feed.
 
-Cottonseed oil, extracted from delinted seeds, is rich in polyunsaturated fatty acids (primarily linoleic acid, ~55%). After refining to remove gossypol, it is used in cooking, salad dressings, and food processing.
+[[cottonseed-oil]], extracted from delinted seeds, is rich in polyunsaturated fatty acids (primarily linoleic acid, ~55%). After refining to remove gossypol, it is used in cooking, salad dressings, and food processing.
 
 Whole cottonseed and cottonseed meal (after oil extraction) are valuable livestock feeds. Ruminants can tolerate residual gossypol due to rumen microbial detoxification.
 

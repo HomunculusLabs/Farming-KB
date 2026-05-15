@@ -1,12 +1,12 @@
 ---
-title: Insect and Disease Management Philosophy
+title: Insect [[marijuana-horticulture-cervantes-pest-and-disease-management]] Philosophy
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Insect and Disease Management Philosophy
 
-Sir [[albert-howard]], founder of the organic farming movement, believed that before a plant is attacked by insects or disease, it has already become unhealthy. The predator's purpose in nature's scheme is to restore balance — like a wolf pack bringing down a sick animal that has lived too long. A truly healthy plant will either be nearly unassailable or will outgrow insect damage and successfully resist disease.
+Sir [[albert-howard]], founder of the [[coleman-deep-organic-farming]] movement, believed that before a plant is attacked by insects or disease, it has already become unhealthy. The predator's purpose in nature's scheme is to restore balance — like a wolf pack bringing down a sick animal that has lived too long. A truly healthy plant will either be nearly unassailable or will outgrow insect damage and successfully resist disease.
 
 This philosophy shapes a fundamentally different approach to pest management than the conventional "identify and spray" paradigm.
 
@@ -18,7 +18,7 @@ The key to pest resistance is making perfectly fertile soil — thus growing hea
 
 - In variety trials, all plants of one variety of Brussels sprouts were consistently damaged by aphids while all plants of another, grown side by side in identical conditions, remained almost entirely untouched
 - A single diseased tomato plant among healthy siblings of the same variety suggests the problem was a flawed seed or uneven soil amendment distribution
-- Cabbages in properly prepared beds grew big and healthy with no problems, while extra seedlings planted in an unmanured fringe with only cheap chemical fertilizer were attacked by flea beetles, then cabbageworms, then root maggots
+- Cabbages in properly prepared beds grew big and healthy with no problems, while extra seedlings planted in an unmanured fringe with only cheap [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]] were attacked by flea beetles, then cabbageworms, then root maggots
 
 ### The Experiment
 
@@ -58,11 +58,11 @@ Before rushing to spray poisons (even natural ones), before investing in predato
 
 ### The Best "Cure"
 
-Often the best cure is not a "killer" but liquid organic fertilizer:
+Often the best cure is not a "killer" but liquid [[complete-organic-fertilizer]]:
 - **Foliar spray**: Combined fish emulsion and liquid kelp (a triple whammy — two fertilizers, one of which temporarily disguises the plant's odor from predators)
 - **Spot fertigation**: A bucket of compost tea or diluted liquid fertilizer at the base of struggling plants
 
-Maybe in a week or two, growing conditions will improve, the soil will warm up, nutrient release will accelerate, and everything will come right.
+Maybe in a week or two, growing conditions will improve, the soil will warm up, [[solomon-cool-climate-compost-soil-temperature-nutrient-release]] will accelerate, and everything will come right.
 
 ## The Sowing Insurance Strategy
 
@@ -140,7 +140,7 @@ It's easy to be relaxed about abandoning some seedlings when seeds only cost a f
 
 ## Beneficial Insect Habitat
 
-One way backyard gardeners in thickly settled territory can fight back is by creating proper habitat for beneficial insects. Someone with a bit of acreage can do a great deal to provide permanent cover that assists beneficials. This is a complex subject requiring specific guidance for your climate zone.
+One way backyard gardeners in thickly settled territory can fight back is by creating proper [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. Someone with a bit of acreage can do a great deal to provide permanent cover that assists beneficials. This is a complex subject requiring specific guidance for your climate zone.
 
 ## See Also
 

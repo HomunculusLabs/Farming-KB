@@ -10,7 +10,7 @@ Nitrogen deposition from atmospheric sources has emerged as one of the most sign
 
 ## The Nitrogen Paradox in Mycorrhizal Ecology
 
-Mycorrhizal fungi evolved to help plants acquire nutrients—particularly nitrogen and phosphorus—from soil. The irony of nitrogen pollution is that it disrupts the very mutualism that evolved to facilitate nitrogen acquisition. When nitrogen becomes readily available from atmospheric deposition, the plant's dependency on mycorrhizae for N decreases, fundamentally altering the economics of the symbiosis.
+[[mycorrhizal-fungi]] evolved to help plants acquire nutrients—particularly nitrogen and phosphorus—from soil. The irony of nitrogen pollution is that it disrupts the very mutualism that evolved to facilitate nitrogen acquisition. When nitrogen becomes readily available from atmospheric deposition, the plant's dependency on mycorrhizae for N decreases, fundamentally altering the economics of the symbiosis.
 
 Research from multiple continents has shown that nitrogen addition has a greater effect on the ability of basidiomycete fungi to produce fruiting structures than it has on actual changes in root colonization. This suggests the fruiting response may be more sensitive than the symbiotic function itself, though the functional consequences of community composition changes remain poorly understood.
 
@@ -21,7 +21,7 @@ A striking finding across multiple studies is the disconnect between below-groun
 ### Root Colonization Studies
 - **Kårén and Nylund (1997)**: Ammonium sulfate addition to Norway spruce forests decreased fine root biomass but did not significantly alter the degree of ectomycorrhizal colonization
 - **Arnebrant and Söderström (1992)**: Total mycorrhizal colonization of Scots pine roots decreased from 70% to 55% over 13 years of fertilization (1700 and 950 kg N ha⁻¹)
-- **Johansson (2000)**: No significant effects of ammonium nitrate (0–75 kg ha⁻¹ yr⁻¹) on root production or mycorrhizal colonization of heather (*Calluna vulgaris*), suggesting heathland decline under N deposition is not caused by direct impacts on ericoid mycorrhizae
+- **Johansson (2000)**: No significant effects of ammonium nitrate (0–75 kg ha⁻¹ yr⁻¹) on root production or mycorrhizal colonization of heather (*[[calluna-vulgaris]]*), suggesting heathland decline under N deposition is not caused by direct impacts on ericoid mycorrhizae
 
 ### Fruit Body Responses
 - **Termorshuizen (1990)**: Nitrogen addition significantly reduced basidiomycete ectomycorrhizal fruit body numbers without corresponding changes in root colonization
@@ -104,3 +104,8 @@ Despite extensive research, significant gaps remain:
 - The combined effects of multiple pollutants on community function are poorly understood
 - The role of mycorrhizal diversity in maintaining ecosystem-level processes under stress requires much more experimental investigation
 - Translation from controlled laboratory diversity experiments to field conditions remains a major challenge
+## See also
+
+- [[ectomycorrhizal-diversity-ecosystem-function]]
+- [[nitrogen-deposition-ectomycorrhizal-diversity]]
+- [[nitrogen-deposition-ectomycorrhizal-community-structure]]

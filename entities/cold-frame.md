@@ -8,13 +8,13 @@ type: entity
 
 ## Description
 
-A cold frame is a bottomless box structure covered with transparent glazing material, used to protect plants from cold weather and extend the growing season. Cold frames are the simplest and least expensive climate moderator available to gardeners and small-scale growers. In Eliot Coleman's [[winter-harvest-system]], cold frames serve as the foundational technology that led to the development of the double-coverage principle and modern unheated greenhouse winter production.
+A cold frame is a bottomless box structure covered with transparent glazing material, used to protect plants from cold weather and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season. Cold frames are the simplest and least expensive climate moderator available to gardeners and small-scale growers. In Eliot Coleman's [[winter-harvest-system]], cold frames serve as the foundational technology that led to the development of the double-coverage principle and modern [[unheated-greenhouse-winter-harvest]] production.
 
 ## Classification
 
 - **Category**: Agricultural infrastructure / season-extension technology
 - **Type**: Passive solar plant protection structure
-- **Complexity**: Low (simplest form of protected cultivation)
+- **Complexity**: Low (simplest form of [[coleman-protected-cultivation]])
 - **Energy input**: None (unheated, relies on solar gain)
 
 ## Key Facts
@@ -35,7 +35,7 @@ A cold frame provides the equivalent of moving plants approximately one and one-
 
 ### Historical Significance
 
-Cold frames have been used in European market gardening for centuries. The French maraichers of 19th-century Paris used glass-covered frames extensively. In Holland, commercial cold-frame production of hardy winter vegetables persisted into the 1970s using the Dutch lights design — approximately 30-by-60-inch glass panes in wooden frames.
+Cold frames have been used in European market gardening for centuries. The French maraichers of 19th-century Paris used glass-covered frames extensively. In Holland, commercial cold-frame production of [[cold-hardy-winter-vegetables]] persisted into the 1970s using the Dutch lights design — approximately 30-by-60-inch glass panes in wooden frames.
 
 ### The Double-Layer Discovery
 
@@ -74,10 +74,10 @@ The cold frame's principles were preserved but its form evolved:
 ## Relationship to Other Concepts
 
 - **Dutch lights**: A specific cold-frame glazing design from Holland
-- **Double coverage**: The principle of layering cold frames inside greenhouses
+- **[[double-coverage]]**: The principle of layering cold frames inside greenhouses
 - **[[floating-row-cover]]**: The modern replacement for glass cold frames in commercial systems
 - **Cool house**: A minimally heated greenhouse; the next step up from cold frames
-- **Movable greenhouse**: Scales cold-frame principles to field-scale production
+- **[[movable-greenhouse]]**: Scales cold-frame principles to field-scale production
 
 ## See Also
 - [[comparison-cold-frame-gardening-vs-container-gardening-guide|Comparison Cold Frame Gardening Vs Container Gardening Guide]]

@@ -26,7 +26,7 @@ Nitrogen deposition affects fungal communities through multiple pathways:
 
 2. **Soil chemistry changes:** N saturation leads to nitrate leaching, soil acidification, and secondary nutrient deficiencies (P, K). Harrison et al. (1995) showed potassium and phosphorus became increasingly limiting for Sitka spruce with added N.
 
-3. **Mycorrhizal suppression:** Elevated soil N reduces plant dependence on mycorrhizal symbiosis for nitrogen acquisition, leading to reduced colonization and diversity shifts.
+3. **Mycorrhizal suppression:** Elevated soil N reduces plant dependence on [[mycorrhizal-symbiosis]] for nitrogen acquisition, leading to reduced colonization and diversity shifts.
 
 4. **Decomposition effects:** Added N stimulates decomposition of low-N litter (high C:N ratio) but suppresses saprotrophic activity where litter N is already high (Kuyper, 1989).
 
@@ -84,3 +84,8 @@ The UK adopted inclusion of fungi and nonvascular plants in conservation species
 - Wallander et al. (1999); Johansson (2000); Kuyper (1989)
 - Harrison et al. (1995); McNulty and Aber (1993); Aber et al. (1989)
 - Termorshuizen and Schaffers (1987, 1989, 1991); Kåren and Nylund (1997)
+## See also
+
+- [[nitrogen-deposition-ectomycorrhizal-community-structure]]
+- [[nitrogen-deposition-ectomycorrhizal-diversity]]
+- [[acidifying-pollutants-mycorrhizae-plant-nutrition]]

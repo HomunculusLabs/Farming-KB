@@ -41,7 +41,7 @@ The photobiont is a unicellular green alga, typically Trebouxia. Cetraria aculea
 
 Cetraria aculeata has a circumpolar distribution across the Arctic and subarctic regions of the Northern Hemisphere. It occurs throughout Greenland, Iceland, Svalbard, northern Scandinavia, and across Arctic Russia and Siberia.
 
-In North America, it ranges from northern Alaska across the Canadian Arctic Archipelago to Labrador and Newfoundland. Southern range extensions follow mountain chains, reaching the Rocky Mountains, the Alps, and mountain ranges of central Asia.
+In [[guzman-psilocybin-mushrooms-north-america]], it ranges from northern Alaska across the Canadian Arctic Archipelago to Labrador and Newfoundland. Southern range extensions follow mountain chains, reaching the Rocky Mountains, the Alps, and mountain ranges of central Asia.
 
 The species is primarily terricolous, growing on well-drained sandy or gravelly soils in tundra and boreal forest. It also colonizes hummocks, stone surfaces, and occasionally rotten wood in humid microsites.
 
@@ -55,7 +55,7 @@ Cetraria aculeata is a keystone component of Arctic tundra vegetation. It contri
 
 The species is an important winter food source for caribou (Rangifer tarandus) and reindeer. Although less preferred than Cladonia stellaris, C. aculeata is regularly consumed when other forage is buried under snow or ice.
 
-As a terricolous lichen, C. aculeata influences soil development in tundra ecosystems. The thallus traps wind-blown organic particles and mineral dust, contributing to soil organic matter accumulation and surface stabilization.
+As a terricolous lichen, C. aculeata influences soil development in tundra ecosystems. The thallus traps wind-blown organic particles and mineral dust, contributing to [[humus-and-soil-organic-matter]] accumulation and surface stabilization.
 
 The species is sensitive to overgrazing by reindeer and caribou herds. Intensive grazing reduces lichen biomass and can shift [[psilocybin-level-stability-across-flushes]] tundra landscapes.
 
@@ -69,11 +69,11 @@ The species has been used in traditional medicine by Arctic indigenous peoples. 
 
 In Scandinavian folk tradition, Cetraria species were boiled to make a nutritious broth or porridge during periods of food scarcity. The bitter lichen acids were leached through repeated boiling in water containing ashes (lye treatment) to improve palatability.
 
-Modern research has confirmed immunomodulatory properties of protolichesterinic acid, supporting some traditional therapeutic applications. However, no standardized pharmaceutical products have been developed from this species.
+Modern research has confirmed immunomodulatory properties of protolichesterinic acid, supporting some traditional [[psilocybin-therapeutic-applications]]. However, no standardized pharmaceutical products have been developed from this species.
 
 ## Similar Species
 
-Cetraria islandica (Iceland moss) has a flatter, more dichotomously branched thallus with lighter brown coloring. C. islandica also produces fumarprotocetraric acid, giving a P+ (yellow) reaction that C. aculeata lacks.
+[[cetraria-islandica]] (Iceland moss) has a flatter, more dichotomously branched thallus with lighter brown coloring. C. islandica also produces fumarprotocetraric acid, giving a P+ (yellow) reaction that C. aculeata lacks.
 
 Flavocetraria nivalis has a distinctly yellow-green to golden thallus and a more open branching pattern. It produces usnic acid (K-) and vulpinic acid, which give it a characteristic yellow pigmentation.
 
@@ -83,4 +83,4 @@ Alectoria ochroleuca is a lighter-colored fruticose lichen with a similar terric
 
 ## Conservation Status
 
-Cetraria aculeata is not globally threatened but faces localized pressures in parts of its range. Arctic lichen communities are increasingly impacted by climate change, which alters temperature regimes, permafrost dynamics, and growing season length.
+Cetraria aculeata is not globally threatened but faces localized pressures in parts of its range. Arctic [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]] are increasingly impacted by climate change, which alters [[desert-temperature-regimes-and-soil-chemistry]], permafrost dynamics, and growing season length.

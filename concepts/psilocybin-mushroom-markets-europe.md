@@ -39,7 +39,7 @@ Mushrooms were sold in several forms through retail channels:
 - [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
 ## Practical Considerations
 
-When working with Psilocybin Mushroom Markets and Availability in Europe, several practical factors should be
+When working with [[psilocybin-mushroom]] Markets and Availability in Europe, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this

@@ -26,7 +26,7 @@ AM fungi are most widely recognized for their role in enhancing plant phosphorus
 AM fungi can access organic P sources through phosphatase enzyme production:
 
 - **Jayachandran et al. (1992)**: Demonstrated mineralization of organic P by AM fungi, showing they are not limited to inorganic P sources.
-- **Joner and Johansen (2000)**: Measured phosphatase activity of external hyphae from two AM fungal species, confirming enzymatic P mobilization at the hyphal-soil interface.
+- **Joner and Johansen (2000)**: Measured [[mycorrhizal-phosphatase-activity-elf97-detection]] of external hyphae from two AM fungal species, confirming enzymatic P mobilization at the hyphal-soil interface.
 - **Antibus et al. (1992)**: Documented phosphatase activities and P uptake from inositol phosphate (a common organic P form in soil) by [[ectomycorrhizal-fungi]].
 
 ### Nitrogen Relations
@@ -40,8 +40,8 @@ AM fungi can access organic P sources through phosphatase enzyme production:
 
 ECM fungi possess significant saprotrophic capabilities that distinguish them from AM fungi:
 
-- **Abuzinadah and Read (1986a,b)**: Demonstrated that ECM fungi can utilize peptides and proteins as nitrogen sources, and that *Betula*, *Picea*, and *Pinus* in mycorrhizal association with *Hebeloma crustuliniforme* can access organic N through their fungal partner.
-- **Bending and Read (1995a,b)**: Studied foraging behavior and nutrient translocation from exploited litter by ECM mycelium, and measured nutrient-mobilizing enzyme activities in birch litter colonized by *Paxillus involutus*.
+- **Abuzinadah and Read (1986a,b)**: Demonstrated that ECM fungi can utilize peptides and proteins as nitrogen sources, and that *Betula*, *Picea*, and *Pinus* in mycorrhizal association with *[[hebeloma-crustuliniforme]]* can access organic N through their fungal partner.
+- **Bending and Read (1995a,b)**: Studied foraging behavior [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]] from exploited litter by ECM mycelium, and measured nutrient-mobilizing enzyme activities in birch litter colonized by *[[paxillus-involutus]]*.
 - **Bending and Read (1996)**: Showed nitrogen mobilization from protein-polyphenol complexes by both ericoid and ECM fungi — a key capability in the nitrogen-limited boreal and temperate forest ecosystems where these complexes accumulate.
 
 ### Mycelial Architecture and Foraging
@@ -74,14 +74,14 @@ Ericoid mycorrhizal (ERM) fungi excel at accessing nitrogen bound in complex org
 ### Phosphorus from Complex Organic Molecules
 
 - **Leake and Miles (1996)**: Demonstrated phosphodiesterase production and utilization of DNA as a phosphorus source by the ERM fungus *Hymenoscyphus ericae*.
-- **Myers and Leake (1996)**: Showed that ERM mycorrhizae of *Vaccinium macrocarpon* can utilize nuclei as both phosphorus and nitrogen sources.
+- **Myers and Leake (1996)**: Showed that ERM mycorrhizae of *[[vaccinium-macrocarpon]]* can utilize nuclei as both phosphorus and nitrogen sources.
 
 ## Mycorrhizal Helper Bacteria (MHB)
 
 The concept of [[mycorrhization-helper-bacteria]] was developed and documented primarily by Garbaye and colleagues:
 
 - **Garbaye and Bowen (1987, 1989)**: Showed that specific soil microorganisms associated with ECM mantles can stimulate mycorrhizal infection of *Pinus radiata*.
-- **Garbaye (1991, 1994)**: Formalized the concept of "mycorrhization helper bacteria" as a new dimension in mycorrhizal symbiosis, proposing that certain bacteria specifically promote the establishment and function of mycorrhizal associations.
+- **Garbaye (1991, 1994)**: Formalized the concept of "[[streptomycete-mycorrhization-helper-bacteria]]" as a new dimension in mycorrhizal symbiosis, proposing that certain bacteria specifically promote the establishment and function of mycorrhizal associations.
 - **Duponnois and Garbaye (1990, 1991, 1992)**: Identified mechanisms by which helper bacteria stimulate ECM formation, including effects on fungal spore germination and hyphal growth.
 
 ## Environmental Stress and Mycorrhizal Function

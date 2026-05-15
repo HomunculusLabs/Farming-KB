@@ -53,7 +53,7 @@ Cystathionine beta-synthase condenses homocysteine with serine to form cystathio
 Cystathionine gamma-lyase then converts cystathionine into cysteine, alpha-ketobutyrate, and ammonia.
 Cysteine is a limiting precursor for glutathione synthesis in many contexts.
 Glutathione is a major antioxidant, redox buffer, and conjugating molecule used in cellular defense.
-This link means one-carbon metabolism affects redox biology even when the immediate topic is methylation.
+This link means one-carbon metabolism affects [[glutathione-biochemistry-and-redox-biology]] even when the immediate topic is methylation.
 High SAM can stimulate cystathionine beta-synthase, encouraging excess homocysteine to flow toward sulfur metabolism.
 The network therefore balances remethylation, methyl-group use, sulfur amino acid metabolism, and oxidative-stress response.
 
@@ -65,7 +65,7 @@ Mitochondrial serine hydroxymethyltransferase and the glycine cleavage system ar
 Mitochondria can export formate to the cytosol, where it supports purine synthesis, thymidylate synthesis, and other folate-dependent reactions.
 This arrangement lets cells connect energy metabolism, amino acid catabolism, and biosynthesis.
 Rapidly proliferating cells often increase serine uptake and mitochondrial folate flux to support [[nitrous-oxide]] can inactivate vitamin B12-dependent methionine synthase, creating acute disruption in susceptible patients.
-Some detoxification processes consume methyl donors or glutathione, indirectly linking xenobiotic metabolism to one-carbon and sulfur pathways.
+Some detoxification processes consume methyl donors or glutathione, indirectly linking [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]] to one-carbon and sulfur pathways.
 These examples show why the network is important in both therapy and adverse-effect risk.
 
 ## Research Significance
@@ -74,7 +74,7 @@ Cancer biology studies one-carbon metabolism because proliferating cells need nu
 Developmental biology studies it because early embryos depend on folate availability and epigenetic programming.
 Neuroscience studies it because B12, folate, methylation, and neurotransmitter-related reactions intersect in the nervous system.
 Microbiology studies it because microbes have folate pathways that can be targeted by selective drugs.
-Aging research considers the pathway because methylation patterns, homocysteine, mitochondrial function, and nutrient status change with age.
+[[senescent-cell-elimination-and-aging-research]] considers the pathway because methylation patterns, homocysteine, mitochondrial function, and [[leaf-tissue-analysis-crop-nutrient-status]] change with age.
 Metabolomics now allows researchers to measure folate species, methionine-cycle intermediates, serine flux, formate production, and isotope-labeled carbon transfer.
 The result is a field that bridges classical nutrition and molecular systems biology.
 
@@ -89,7 +89,7 @@ Pathway charts can make flux look linear, while real cells use reversible reacti
 The most accurate view is of an adaptable metabolic hub that integrates nutrition, growth, defense, and gene regulation.
 ## Related Concepts
 
-- one carbon metabolism
+- [[one-carbon-metabolism-vs-glutathione-redox-biology]]
 - [[glutathione-conjugation]]
 - [[enzyme-inhibition]]
 - one carbon metabolism

@@ -26,7 +26,7 @@ dibenzyl [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (8
   to give psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine)
 
 The reaction is monitored by TLC, watching for the disappearance of
-starting material (8) and its mono-debenzyl derivative, and the
+[[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] (8) and its mono-debenzyl derivative, and the
 appearance of psilocybin (2).
 
 ### Workup Procedure
@@ -34,13 +34,13 @@ appearance of psilocybin (2).
 After completion, the reaction solution is filtered through a Celite
 pad by suction to remove the palladium catalyst. The filtrate volume
 is reduced by evaporation, causing psilocybin to crystallize from
-solution. The crystalline product is collected by filtration and
+solution. The [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]] is collected by filtration and
 washed with ethanol to afford pure psilocybin.
 
 ## Product Characterization: Psilocybin (2)
 
 ### Physical Properties
-- **Yield**: 5.6 g, 87.5% from the zwitterionic intermediate (8)
+- **Yield**: 5.6 g, 87.5% from the [[psilocybin-phosphorylation-via-zwitterionic-intermediate]] (8)
 - **Appearance**: White needle crystalline powder
 - **Melting point**: 190-198°C (decomposition)
   - Literature values: 185-195°C and 210-212°C
@@ -76,7 +76,7 @@ washed with ethanol to afford pure psilocybin.
 ## Overview
 
 Shirota Catalytic Hydrogenolysis Debenzylation To Psilocybin Crystal represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Shirota Catalytic Hydrogenolysis Debenzylation To Psilocybin Crystal finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 shirota catalytic hydrogenolysis debenzylation to psilocybin crystal and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

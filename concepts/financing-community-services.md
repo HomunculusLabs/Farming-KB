@@ -1,5 +1,5 @@
 ---
-title: "Financing Community Services"
+title: "Financing [[community-services-financing-and-governance]]"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -14,7 +14,7 @@ Sustainable financing of public services is one of the most critical challenges 
 
 ### How It Works
 
-The developer vests **30% of all subdivision titles** in the village trust (Trust A). When these titles are sold, the monies generated ensure a large annual interest yield for village development. This effectively means:
+The developer vests **30% of all subdivision titles** in the village trust (Trust A). When these titles are sold, the monies generated ensure a large annual interest yield for [[permaculture-village-development-and-trust-structures]]. This effectively means:
 
 1. **All necessary public services are funded** from the trust's capital and income
 2. **Residents have effectively paid nothing for land** over a period of 20 years, as the trust income covers community costs
@@ -48,7 +48,7 @@ A **building cooperative** is more effective than housing loans from the credit 
 
 ## Ongoing Income for the Trust
 
-The Trust always needs income for maintenance of roads, fences, water supply, fire control, and other site infrastructure. Several revenue streams are available:
+The Trust always needs income for maintenance of roads, fences, water supply, [[monsoon-sprinkler-fire-control-mollison]], and other site infrastructure. Several revenue streams are available:
 
 ### Lease and Loan Revenue
 - Small charges for leases and loans to residents

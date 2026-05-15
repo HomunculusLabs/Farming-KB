@@ -8,7 +8,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Watling R, Little DT (1980). "A new agaric from Britain." Transactions of the British Mycological Society 74(2): 367-370.
+  - Watling R, Little DT (1980). "A new agaric from Britain." Transactions of the british-mycological-society 74(2): 367-370.
   - Uljé CB (2005). "Parasola (Coprinus subgenus Parasola) in western Europe." Persoonia 18: 273-321.
   - Redhead SA, Vilgalys R, Moncalvo JM (2001). "Coprinus Pers. and the disposition of Coprinus species sensu lato." Taxon 50(1): 203-241.
   - Kibby G (2010). "Parasola plicatilis." Field Mycology 11(2): 59-60.
@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-**Parasola plicatilis** (Curtis) Redhead, Vilgalys & Moncalvo, commonly known as the **pleated inkcap** or **little Japanese umbrella**, is a small, delicate agaric fungus in the family Psathyrellaceae. It is one of the most widespread coprinoid mushrooms in temperate regions worldwide.
+**Parasola plicatilis** (Curtis) Redhead, Vilgalys & Moncalvo, commonly known as the **pleated inkcap** or **little Japanese umbrella**, is a small, delicate agaric fungus in the family Psathyrellaceae. It is one of the most widespread coprinoid mushrooms in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species is immediately recognized by its deeply plicate (radially grooved) cap that expands to a shallow parasol shape before dissolving into ink-like deliquescence at maturity. Unlike many inkcaps, it is not associated with dung but grows on bare soil, grasslands, and disturbed ground.
 
@@ -46,7 +46,7 @@ Microscopic features include cheilocystidia that are utriform (flask-shaped) to 
 
 ## Distribution and Habitat
 
-*Parasola plicatilis* has a cosmopolitan distribution across temperate and subtropical regions. It is reported from Europe, [[hamilton-composting-and-organic-matter-management]] in soil. It plays a minor role in [[aquatic-fungi-spore-dispersal-ingold]] occurs primarily through the deliquescing gill mechanism. As the cap and gills liquefy, a black, spore-laden fluid drips from the cap margins, depositing spores onto the soil surface below.
+*Parasola plicatilis* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across temperate and subtropical regions. It is reported from Europe, [[hamilton-composting-and-organic-matter-management]] in soil. It plays a minor role in [[aquatic-fungi-spore-dispersal-ingold]] occurs primarily through the deliquescing gill mechanism. As the cap and gills liquefy, a black, spore-laden fluid drips from the cap margins, depositing spores onto the soil surface below.
 
 The fungus is occasionally parasitized by *Volvariella surrecta*, a rare bolete parasite that fruits directly from the decaying inkcap. This relationship is one of the best-documented examples of [[fungal-microscopic-examination-mounting-media-techniques]] of spore size and cheilocystidia morphology is typically required for certain identification.
 
@@ -59,7 +59,7 @@ Laboratory fruiting has been achieved on sterilized soil and compost-based subst
 ## Overview
 
 Parasola Plicatilis represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -80,7 +80,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Parasola Plicatilis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -109,7 +109,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 parasola plicatilis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -16,23 +16,23 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 ### Physical Filtration
 - Dense mycelial mats have enormous surface area and fine pore structure
 - Trap sediment, silt, suspended solids, and microplastics
-- Hydraulic conductivity allows water passage while retaining particles
+- [[water-infiltration-soil-hydraulic-conductivity]] allows water passage while retaining particles
 - Mycelium can filter particles as small as 0.2 micrometers under ideal conditions
 
 ### Chemical Binding
 - Fungal cell walls contain chitin, glucans, and proteins with metal-binding functional groups
 - Biosorption of heavy metals, dyes, and organic chemicals
-- Ion exchange capacity comparable to commercial ion-exchange resins
+- Ion [[cation-exchange-capacity]] comparable to commercial ion-exchange resins
 - pH-dependent binding with optimal performance at pH 4-6
 
 ### Biological Degradation
-- Extracellular enzymes break down organic pollutants in water
+- [[fungal-extracellular-enzymes]] break down organic pollutants in water
 - Endocrine disruptors, pharmaceuticals, and pesticides degraded by laccases and peroxidases
 - Hydrocarbon-contaminated water treated by white-rot fungi
 - Pathogen reduction through competitive exclusion and antimicrobial metabolite production
 
 ### Pathogen Reduction
-- Fungi produce secondary metabolites with antibacterial and antifungal properties
+- Fungi produce [[antifungal-secondary-metabolites-coprophilous-fungi]] with antibacterial and antifungal properties
 - Mycelial biofilms create physical barriers to pathogen transport
 - Some species produce bacteriocins that suppress E. coli and coliform bacteria
 - 50-99% reduction in fecal coliforms documented in mycofiltration systems
@@ -59,7 +59,7 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Can be harvested and composted after saturation
 
 ### Mushroom Grow Bags as Filters
-- Spent oyster mushroom substrate (post-harvest) repurposed as water filters
+- Spent [[oyster-mushroom-substrate-materials-preparation]] (post-harvest) repurposed as water filters
 - Rich in active mycelium and residual enzymes
 - Cost-effective use of waste material from mushroom cultivation
 - Effective for greywater treatment and stormwater polishing
@@ -135,7 +135,7 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 
 ### Integration with Other Systems
 - Pre-treatment: sedimentation basins or rough filtration
-- Post-treatment: sand filters, UV disinfection, or constructed wetlands
+- Post-treatment: sand filters, UV disinfection, or [[comparison-constructed-wetlands-vs-bioswales]]
 - Integration with [[biochar-and-fungi]] systems for enhanced performance
 - Use in [[graywater-systems]] recycling systems as biological treatment stage
 

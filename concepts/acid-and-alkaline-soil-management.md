@@ -75,7 +75,7 @@ The only option is growing them in pots or building a raised bed (ideally of rai
 
 - [[trace-elements-in-soil]] — how excessive lime locks up trace elements
 - [[clubroot-disease-management]] — lime helps control clubroot
-- [[soil-conditioners-guide]] — organic materials that help modify soil pH
+- [[soil-conditioners-guide]] — organic materials that help modify [[soil-ph]]
 
 ## Overview
 

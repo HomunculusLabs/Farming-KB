@@ -24,7 +24,7 @@ The distinction between beneficial mycorrhizal fungi and harmful root pathogens 
 
 ### Meta-Analysis of AM Biocontrol Effectiveness
 
-A comprehensive meta-analysis by Borowicz (2001) reviewed studies published between 1970 and early 1998 on the role of [[arbuscular-mycorrhizae]] in plant disease prevention. Key findings include:
+A comprehensive meta-analysis by Borowicz (2001) reviewed studies published between 1970 and early 1998 on the role of [[arbuscular-mycorrhizae]] in [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]. Key findings include:
 
 - **50% of studies** showed that AM fungi provided some degree of protection against pathogenic fungi and/or nematodes
 - **16% of studies** reported mutual reduction in growth of both the mycorrhizal fungus and the pathogen (direct antagonism)
@@ -66,7 +66,7 @@ Key observations:
 
 ### Suppression of Burrowing Nematode on Carrot
 
-Elsen et al. (2001) showed that *Glomus intraradices* significantly reduced the reproductive capacity of the burrowing nematode *Radopholus similis* on carrot roots. Mycorrhizal colonization suppressed the nematode population by nearly 50%:
+Elsen et al. (2001) showed that *Glomus intraradices* significantly reduced the reproductive capacity of the burrowing nematode *[[radopholus-similis]]* on carrot roots. Mycorrhizal colonization suppressed the nematode population by nearly 50%:
 
 | Parameter | With Mycorrhiza | Without Mycorrhiza |
 |-----------|----------------|-------------------|
@@ -102,7 +102,7 @@ ECM fungi provide a more robust physical defense than AM fungi, owing to the fun
 - **Marx (1969, 1980)**: Demonstrated that ECM fungi increase pine resistance to root pathogens, particularly in nursery settings
 - **Sylvia and Sinclair (1983)**: Showed that *Laccaria laccata* suppressed *Fusarium oxysporum* on Douglas fir seedlings
 - **Chakravarty and Hwang (1991)**: Found that *L. laccata* protected *Pinus banksiana* from *Fusarium* damping-off
-- **Branzanti et al. (1999)**: Demonstrated that four ECM fungi (*Laccaria laccata*, *Hebeloma crustuliniforme*, *H. sinapizans*, and *Paxillus involutus*) protected chestnut seedlings from *Phytophthora cambivora* and *P. cinnamomi*. After challenge, mycorrhizal plants showed no signs of infection five months later, while ECM fungi simultaneously increased seedling growth and biomass.
+- **Branzanti et al. (1999)**: Demonstrated that four ECM fungi (*Laccaria laccata*, *[[hebeloma-crustuliniforme]]*, *H. sinapizans*, and *[[paxillus-involutus]]*) protected chestnut seedlings from *Phytophthora cambivora* and *P. cinnamomi*. After challenge, mycorrhizal plants showed no signs of infection five months later, while ECM fungi simultaneously increased seedling growth and biomass.
 
 ### Limitations: Nursery vs. Natural Ecosystems
 
@@ -127,11 +127,11 @@ The interpretation: benomyl simultaneously reduced both mycorrhizal fungi and we
 
 2. **Temporal dynamics**: How does the mycorrhizal-pathogen balance shift with plant phenology, seasonal changes, and interannual climate variation?
 
-3. **Community-level effects**: How does mycorrhizal protection influence plant community composition and competitive dynamics?
+3. **Community-level effects**: How does mycorrhizal protection influence [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]] and competitive dynamics?
 
 4. **Evolutionary context**: Has co-evolution between plants, mycorrhizal fungi, and pathogens produced stable equilibria that could be disrupted by environmental change?
 
-5. **Functional redundancy**: With high mycorrhizal diversity and extensive interplant hyphal connections, how much redundancy exists in the biocontrol function?
+5. **Functional redundancy**: With high [[mycorrhizal-diversity-and-ecosystem-function]] extensive interplant hyphal connections, how much redundancy exists in the biocontrol function?
 
 ## Practical Applications
 

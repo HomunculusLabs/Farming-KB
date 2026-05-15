@@ -49,28 +49,19 @@ The effect of faunal grazing on mycorrhizal phosphorus transport is complex. War
 
 Lussenhop (1996) found a 5% increase in leaf nitrogen with moderate collembolan grazing, suggesting that faunal activity in the mycorrhizosphere may enhance nitrogen availability. This could occur through several mechanisms: stimulation of fungal nitrogen mineralization, faunal excretion of ammonium, or enhancement of bacterial nitrogen cycling in the rhizosphere.
 
-
 ## Broader Ecosystem Implications
-
-
 
 ### Spore Dispersal Trade-offs
 
 Faunal grazing on mycorrhizal fungi creates a tension between two ecosystem functions. On one hand, grazing reduces hyphal connectivity and may impair nutrient transport to plants. On the other hand, animals that consume mycorrhizal fungi — particularly those that eat hypogeous fruiting bodies — serve as critical dispersal agents for fungal spores. Small mammals such as voles, chipmunks, and flying squirrels are essential vectors for the dispersal of truffle-like ectomycorrhizal fungi that cannot disperse spores autonomously through the air.
 
-
-
 ### Canopy Suppression of Mycorrhizae
 
 Indirect faunal effects on mycorrhizae can occur through vegetation-mediated pathways. Walker et al. (1999) showed that Rhododendron maximum thickets in the southern Appalachians suppressed ectomycorrhizae on canopy tree seedlings, potentially through allelopathic effects of rhododendron litter on fungal communities. This demonstrates that faunal-grazing effects on mycorrhizae cannot be considered in isolation from the broader plant community context.
 
-
-
 ### Agricultural Implications
 
 Roncadori (1997) reviewed interactions between arbuscular mycorrhizas and plant-parasitic nematodes in agro-ecosystems, highlighting the complexity of tripartite interactions among plants, mycorrhizal fungi, and nematode pests. Managing soil faunal communities to optimize mycorrhizal function represents an important but underexplored dimension of sustainable agriculture.
-
-
 
 ## Research Gaps
 
@@ -84,6 +75,6 @@ Several important questions remain regarding faunal effects on mycorrhizal funct
 Understanding these dynamics is essential for predicting how [[soil-food-web]] interactions will respond to land use change, invasive species, and global environmental change.
 ## See also
 
-- [[mycorrhizae-and-plant-fitness]]
+- [[mycorrhizae-plant-fitness]]
 - [[fungi-soil-food-webs]]
 - [[mycorrhizal-dispersal-soil-food-webs]]

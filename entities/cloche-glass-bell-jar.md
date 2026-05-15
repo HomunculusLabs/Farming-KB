@@ -8,7 +8,7 @@ created: 2026-05-13
 
 ## Description
 
-The cloche is an 18-inch-diameter glass bell jar used by French *maraîchers* (market gardeners) as individual plant protection covers for winter and early-season vegetable production. Cloches were a fundamental tool of the 19th-century Parisian intensive market gardening system, providing frost protection, wind shelter, and a warmed microclimate for individual plants or small groups of plants. They represent one of the earliest and most labor-intensive forms of protected cultivation in European horticulture.
+The cloche is an 18-inch-diameter glass bell jar used by French *maraîchers* (market gardeners) as individual plant protection covers for winter and early-season vegetable production. Cloches were a fundamental tool of the 19th-century [[coleman-french-maraicher-parisian-intensive-market-gardening]] gardening system, providing frost protection, wind shelter, and a warmed microclimate for individual plants or small groups of plants. They represent one of the earliest and most labor-intensive forms of protected cultivation in European horticulture.
 
 ## Classification
 
@@ -35,14 +35,14 @@ The cloche is an 18-inch-diameter glass bell jar used by French *maraîchers* (m
 
 ## Relevance to Cultivation
 
-The cloche represents an important stage in the evolution of season extension technology. It demonstrates that even simple glass covers can create sufficient microclimate modification to grow tender crops through winter in temperate climates. The principle of the cloche — enclosing individual plants or small groups under transparent cover — is the direct ancestor of modern row cover, low tunnel, and greenhouse systems. The cloche's limitations (extreme labor requirements, small individual coverage area) explain why it was eventually replaced by larger-scale protective structures. However, the underlying physics of passive solar heating and wind protection that made cloches effective are the same principles that power modern unheated greenhouse production. For contemporary growers, the cloche remains useful as a low-cost option for protecting individual prized plants or for very small-scale winter production. The transition from 3,000 individual cloches to a single 30-by-96-foot plastic greenhouse illustrates the technological progression from labor-intensive to capital-intensive season extension, while the fundamental biological requirements of the crops remain unchanged.
+The cloche represents an important stage in the evolution of season extension technology. It demonstrates that even simple glass covers can create sufficient [[tree-temperature-effects-and-microclimate-modification]] to grow tender crops through winter [[query-how-to-grow-and-use-oca-in-temperate-climates]]. The principle of the cloche — enclosing individual plants or small groups under transparent cover — is the direct ancestor of modern row cover, low tunnel, and greenhouse systems. The cloche's limitations (extreme labor requirements, small individual coverage area) explain why it was eventually replaced by larger-scale protective structures. However, the underlying physics of [[mollison-designers-passive-solar-heating-building-design]] and wind protection that made cloches effective are the same principles that power modern unheated greenhouse production. For contemporary growers, the cloche remains useful as a low-cost option for protecting individual prized plants or for very small-scale winter production. The transition from 3,000 individual cloches to a single 30-by-96-foot plastic greenhouse illustrates the technological progression from labor-intensive to capital-intensive season extension, while the fundamental biological requirements of the crops remain unchanged.
 ## Construction
 
-Design considerations include orientation, ventilation, thermal mass, and covering materials. Proper construction ensures optimal growing conditions throughout the year.
+Design considerations include orientation, ventilation, thermal mass, and [[coleman-greenhouse-covering-materials-comparison]]. Proper construction ensures optimal growing conditions throughout the year.
 
 ## Climate Management
 
-Temperature regulation through passive and active methods. Humidity control, ventilation strategies, and frost protection techniques extend the growing season.
+Temperature regulation through passive and active methods. Humidity control, ventilation strategies, and [[holzer-frost-protection-techniques]] extend the growing season.
 
 ## Seasonal Use
 

@@ -63,13 +63,14 @@ Studies of this organism employ a variety of techniques including microscopy, mo
 
 Environmental changes including habitat loss, climate shifts, and pollution affect populations and ecological functions worldwide. Monitoring programs and conservation initiatives aim to protect biodiversity and maintain ecosystem services. Sustainable management practices incorporate ecological knowledge to support long-term environmental health.
 
+This entry provides reference information about aquatic hyphomycetes and its significance in its respective field.
+
 ## See Also
 - [[aquatic-hyphomycetes-and-ingoldian-spores]]
 - [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
 - [[ingoldian-hyphomycetes-spore-dispersal-in-water]]
 - [[duckweed-and-aquatic-plants-permaculture-systems]]
 - [[edible-aquatic-plants]]
-
 
 ## Taxonomic Notes
 

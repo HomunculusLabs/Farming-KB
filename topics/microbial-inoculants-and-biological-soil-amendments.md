@@ -30,7 +30,7 @@ related_concepts:
 
 ## Introduction
 
-The practice of inoculating soils with beneficial microorganisms represents one
+The practice of inoculating soils with [[forest-and-bamboo-beneficial-microorganisms]] represents one
 of the oldest and most rapidly evolving frontiers in agriculture. Long before
 the microscope revealed the teeming communities of bacteria, fungi, protozoa,
 and nematodes that inhabit every gram of healthy soil, farmers observed that
@@ -44,7 +44,7 @@ soil, including its texture, pH, organic matter content, and mineral
 composition, establish a baseline [[cultivar-endorhiza-bacterial-communities-cannabis]] inside their roots, even
 when grown in the same soil. The correlation between bulk soil and rhizosphere
 communities was high (Pearson's rho of 0.92), but the correlation between
-rhizosphere and endorhiza communities was substantially lower (0.63), and the
+rhizosphere and [[cannabis-rhizosphere-endorhiza-communities]] was substantially lower (0.63), and the
 correlation between bulk soil and endorhiza was the weakest of all (0.42).
 
 This two-tier model has profound implications for the practice of microbial
@@ -53,7 +53,7 @@ those that are compatible with both the soil type and the specific crop being
 grown. A universal inoculant that works equally well in all soils and on all
 crops is unlikely to exist. Instead, the future of microbial inoculation lies
 in understanding the specific partnerships between particular crops and
-particular microbial communities, and in developing targeted inoculants that
+particular [[cannabis-rhizosphere-microbial-communities]], and in developing targeted inoculants that
 mimic or enhance these natural associations.
 
 ## Major Categories of Microbial Inoculants
@@ -76,7 +76,7 @@ disease suppression, purple bacteria for photosynthesis and [[soil-type-otu-abun
 ## Overview
 
 Microbial Inoculants And Biological Soil Amendments represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Microbial Inoculants And Biological Soil Amendments finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 microbial inoculants and biological soil amendments and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -11,13 +11,13 @@ type: concept
 # Syncretic Entheogenic Folk Ceremonies
 
 In his 1998 comparative framework, Ralph Metzner identifies syncretic
-folk religious ceremonies as a distinct paradigm of entheogenic use,
+[[entheogenic-folk-religious-ceremonies]] as a distinct paradigm of entheogenic use,
 sitting between traditional [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]], several hundred.
 
 In folk ceremonies, healing and visioning recede into the background.
 The primary focus is group worship and celebration. Instead of a shaman,
 there are priests and officiants. There is very little discussion or
-sharing of visions, unlike the integration practices found in shamanic
+sharing of visions, unlike the [[metzner-neoshamanic-preparation-and-integration-practices]] found in shamanic
 healing or Western psychotherapy.
 
 ## Social Functions of Entheogenic Churches
@@ -74,8 +74,8 @@ recovery confessions. Weekly ceremonies range from 20 to several hundred
 
 ## Overview
 
-Metzner Syncretic Entheogenic Folk Ceremonies represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[metzner-syncretic-entheogenic-churches]] Folk Ceremonies represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Metzner Syncretic Entheogenic Folk Ceremonies finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 metzner syncretic entheogenic folk ceremonies and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

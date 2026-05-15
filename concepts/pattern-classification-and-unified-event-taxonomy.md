@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In [[bill-mollison]] as part of his general pattern model, provides designers with a systematic way to analyze, compare, and understand the essential characteristics of any phenomenon. By classifying events across multiple dimensions, we gain insight into their nature, stage of development, dimensionality, and spatial relationship to their environment.
+In [[bill-mollison]] as part of his [[general-pattern-model-events]], provides designers with a systematic way to analyze, compare, and understand the essential characteristics of any phenomenon. By classifying events across multiple dimensions, we gain insight into their nature, stage of development, dimensionality, and spatial relationship to their environment.
 
 ## The Classification System
 
@@ -41,7 +41,7 @@ Events are classified by their dimensional complexity:
 
 - **C1: One dimension** — Linear phenomena, curves. Examples: a river section, a shoreline, a timeline
 - **C2: Two dimensions** — Surface phenomena, tessellations, dendrites. Examples: a leaf surface, a stream network from above, a mosaic pattern
-- **C3: Three dimensions** — Solid phenomena, trees. Examples: a tree in full form, a mountain, a crystal structure
+- **C3: Three dimensions** — Solid phenomena, trees. Examples: a tree in full form, a mountain, a [[crystal-structure-and-crystal-defects]]
 - **C4: Four dimensions** — Moving solid phenomena, including the time dimension. Examples: a growing tree, a flowing river, a migrating herd
 - **C5: More dimensions** — Conceptual phenomena, models of particles or forces, states of energy. Examples: quantum states, economic models, ecological relationships
 
@@ -55,7 +55,7 @@ Events are classified by their spatial relationship to their environment:
 - **D2: Within media** — Events occurring within a continuous medium. Examples: weather "frontal" systems, ocean currents, sound waves in air
 - **D3: Through surfaces at 90° or so** — Events penetrating boundaries approximately perpendicularly. Examples: trees growing upward through the ground surface, roots penetrating downward, rain falling through the atmosphere
 - **D4: Englobements** — Events that envelop or contain other events. Examples: some explosions, organisms (which contain their own internal processes), planetary atmospheres
-- **D5: An idea** — Events located outside normal dimensions of space-time. Examples: mathematical concepts, ethical principles, design intentions
+- **D5: An idea** — Events located outside normal dimensions of space-time. Examples: mathematical concepts, [[holmgren-ethical-principles-care-earth-people-fair-shares]], design intentions
 
 ## Applied Classification: Examples
 
@@ -78,7 +78,7 @@ By training ourselves to classify events along these dimensions, we develop the 
 
 ### 2. Comparative Analysis
 
-Events with similar classifications may share design principles. A dendritic stream network (C2, A2, D1) and a tree root system share the same dimensional and locational characteristics, suggesting similar design approaches for both.
+Events with similar classifications may share [[aact-brewer-design-principles-aeration-systems-ingham]]. A dendritic stream network (C2, A2, D1) and a tree root system share the same dimensional and locational characteristics, suggesting similar design approaches for both.
 
 ### 3. Intervention Timing
 
@@ -90,11 +90,11 @@ The same classification system applies across disciplines—biology, geology, hy
 
 ### 5. Design Documentation
 
-The compact notation allows designers to efficiently record and communicate the essential characteristics of elements in a design, creating a shared language for permaculture practitioners.
+The compact notation allows designers to efficiently record and communicate the essential characteristics of elements in a design, creating a shared [[pattern-language-for-permaculture-design]] practitioners.
 
 ## Philosophical Foundation
 
-This classification system rests on the permaculture principle that all phenomena are expressions of a single underlying pattern. By providing a universal taxonomy, it supports the view that:
+This classification system rests on the [[permaculture-principle-1-observe-interact]] that all phenomena are expressions of a single underlying pattern. By providing a universal taxonomy, it supports the view that:
 
 - All events are connected through shared structural principles
 - Design knowledge from one domain transfers to others

@@ -21,7 +21,7 @@ sources:
 
 The species produces small, sweet, dark blue berries that ripen earlier than most cultivated blueberry species. It has attracted interest as a potential source of cold-hardiness and disease-resistance genes for blueberry breeding programs.
 
-Its exceptionally early flowering period — beginning in February in parts of its range — makes it one of the first woody plants to bloom in southeastern forests each year.
+Its exceptionally [[equatorial-photoperiod-early-flowering]] period — beginning in February in parts of its range — makes it one of the first woody plants to bloom in southeastern forests each year.
 
 ## Taxonomy and Morphology
 
@@ -51,7 +51,7 @@ It grows preferentially in acidic soils (pH 3.5–5.5) rich in [[dighton-fungi-c
 
 ## Ecology
 
-The early-flowering habit of *V. elliottii* provides a critical nectar source for native bees and other pollinators in late winter and early spring. Bumblebees (*Bombus impatiens*, *B. bimaculatus*, *B. pennsylvanicus*) are the primary pollinators.
+The early-flowering habit of *V. elliottii* provides a critical nectar source for [[query-how-to-attract-native-bees-and-beneficial-insects]] other pollinators in late winter [[coleman-overwintered-onions-and-early-spring-crops]]. Bumblebees (*Bombus impatiens*, *B. bimaculatus*, *B. pennsylvanicus*) are the primary pollinators.
 
 Small native bees including *Andrena* spp. and *Habropoda laboriosa* also visit the flowers. Honeybees (*Apis mellifera*) readily work *V. elliottii* when colonies are active during warm late-winter days.
 
@@ -61,7 +61,7 @@ White-tailed deer browse the foliage moderately, particularly in winter when oth
 
 Several [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations that enhance [[plant-nutrient-uptake-mechanisms]], particularly nitrogen and phosphorus, from poor acidic soils.
 
-Fire ecology plays a role in its native pine flatwood habitat. The shrub resprouts vigorously from the root crown after fire, and prescribed burning can increase fruit production by reducing canopy competition.
+[[fungal-diversity-fire-ecology]] plays a role in its native pine flatwood habitat. The shrub resprouts vigorously from the root crown after fire, and prescribed burning can increase [[berry-fruit-production-cool-humid-climates]] by reducing canopy competition.
 
 ## Edibility and Uses
 
@@ -69,7 +69,7 @@ The berries are edible and sweet, with a flavor comparable to commercial blueber
 
 Indigenous peoples of the southeastern United States, including the Cherokee and Seminole, used the berries both as fresh food and dried for winter storage. The plant had limited medicinal applications, primarily as an astringent tea from dried leaves.
 
-Nutritional analysis of wild-harvested *V. elliottii* berries shows high anthocyanin content comparable to commercial blueberries, with cyanidin-3-glucoside and delphinidin-3-glucoside as the predominant pigments. Total antioxidant capacity is elevated relative to berry size.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] of wild-harvested *V. elliottii* berries shows high anthocyanin content comparable to commercial blueberries, with cyanidin-3-glucoside and delphinidin-3-glucoside as the predominant pigments. Total antioxidant capacity is elevated relative to berry size.
 
 The ornamental value of *V. elliottii* is increasingly recognized in native plant landscaping. Its early spring flowers, attractive fall foliage, and wildlife-supporting berries make it a versatile garden subject for acidic-soil gardens.
 

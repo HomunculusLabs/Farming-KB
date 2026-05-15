@@ -1,5 +1,5 @@
 ---
-title: Desert Settlement Design and Clustered Housing
+title: Desert Settlement Design [[desert-settlement-and-clustered-housing-design]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -34,7 +34,7 @@ Close-packed dwellings with common or close-spaced walls create a "colony of swa
 | Restricted sites ([[thermal-belt]]**: Usually 10–20 m above the peneplain, with frost line sharply defined; flat sites can be very cold at night
 - **Wadis**: Excellent sites in very hot deserts; narrow east-west wadis are particularly well-shaded
 - **Fold mountains and foothills**: Need a runoff area or spring
-- **Primary factors**: Potential for water harvest and storage on or near the site, equable climate, and variety of aspects and soils
+- **Primary factors**: Potential for water [[cole-crop-harvest-and-storage]] on or near the site, equable climate, and variety of aspects and soils
 
 ### Ideal Desert House Features
 
@@ -52,7 +52,7 @@ Sophisticated traditional desert housing incorporates many proven elements:
 - **Evaporation strategies** — water in tunnels, unglazed pots, tanks, fountains, bark mulch, coke or hessian wicks
 - **Small windows or stone grilles** — opening from inner courtyards only
 - **Towers, vanes, and airscoops** for ventilation
-- **Outdoor cooking** under shade trellis
+- **[[query-how-to-build-a-cob-oven-for-outdoor-cooking]]** under shade trellis
 - **Vines on walls and roof areas** — gardens and storehouses
 - **Roof use** for drying crops, washing clothes, pigeon lofts
 - **White-painted massive mud walls** as cool surfaces
@@ -75,7 +75,7 @@ The independent emergence of clustered, multi-storey housing across diverse dese
 ## Overview
 
 Desert Settlement Clustered Housing represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Desert Settlement Clustered Housing finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,7 +104,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 desert settlement clustered housing and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

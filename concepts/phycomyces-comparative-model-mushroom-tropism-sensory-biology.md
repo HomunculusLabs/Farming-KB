@@ -1,5 +1,5 @@
 ---
-title: Phycomyces Comparative Model Mushroom Tropism Sensory Biology
+title: Phycomyces Comparative [[evaporative-demand-unified-four-factor-model-mushroom-tropism-badham-1982]] Sensory Biology
 created: 2026-05-09
 tags: [mycology, phycomyces, tropism, comparative-biology, sporangiophore, anemotropism, gravitropism, phototropism]
 date: 2026-05-09
@@ -25,7 +25,7 @@ Badham noted that [[psilocybe-cubensis]] shows anemotropic behavior analogous to
 described for Phycomyces. In both organisms, the aerial reproductive structure
 grows toward the source of air flow. Cohen, Jan, Matricon, and Delbruck
 documented in 1975 that Phycomyces sporangiophores exhibit both anemotropism
-and an avoidance response, growing toward gentle air currents but bending away
+and an [[ethylene-involvement-fungal-tropism-avoidance-response]], growing toward gentle air currents but bending away
 from strong or noxious stimuli.
 
 The mechanisms underlying anemotropism in both systems appear to involve
@@ -51,12 +51,12 @@ avoidance response of Phycomyces sporangiophores. Ethylene, a gaseous plant
 hormone, is produced by many fungi and could serve as a diffusible signal
 mediating tropic responses.
 
-In Psilocybe cubensis, the wind could cause redistribution of ethylene or other
+[[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]], the wind could cause redistribution of ethylene or other
 gaseous metabolites around the stipe, contributing to the observed anemotropic
 curvature. If ethylene accumulates in the thicker boundary layer on the leeward
 side of the stipe, it could inhibit cell elongation on that side, causing the
 mushroom to bend toward the wind. This mechanism would complement the
-evaporative demand gradient and could operate even under conditions of uniform
+[[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] and could operate even under conditions of uniform
 humidity.
 
 The potential involvement of ethylene in fungal tropisms is notable because
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phycomyces Comparative Model Mushroom Tropism Sensory Biology finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 phycomyces comparative model mushroom tropism sensory biology and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

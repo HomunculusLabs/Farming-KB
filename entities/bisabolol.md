@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-α-Bisabolol (also known as levomenol or (−)-α-bisabolol) is a monocyclic sesquiterpene alcohol found naturally in several aromatic plants, most notably German chamomile (Matricaria chamomilla) and the candeia tree (Eremanthus erythrocladus) of Brazil. It is one of the primary bioactive constituents responsible for chamomile's well-documented anti-inflammatory and skin-soothing properties.
+α-Bisabolol (also known as levomenol or (−)-α-bisabolol) is a monocyclic sesquiterpene alcohol found naturally in several aromatic plants, most notably German chamomile ([[matricaria-chamomilla]]) and the candeia tree (Eremanthus erythrocladus) of Brazil. It is one of the primary bioactive constituents responsible for chamomile's well-documented anti-inflammatory and skin-soothing properties.
 
 In cannabis, α-bisabolol is a minor but pharmacologically significant terpene, present at elevated levels in certain cultivars. It contributes sweet, floral aroma notes and enhances the overall therapeutic profile through synergistic interactions with cannabinoids and other terpenes.
 
@@ -36,7 +36,7 @@ The compound has an extensive history of use in cosmetics, pharmaceuticals, and 
 - **CAS number:** 23089-26-1
 - **IUPAC name:** (1S,4R)-1-methyl-4-(6-methylhept-5-en-2-yl)cyclohex-3-en-1-ol
 - **Structure:** Monocyclic sesquiterpene with a cyclohexene ring and an isopropenyl group
-- **Optical isomers:** (−)-α-bisabolol (natural, levomenol) and (+)-α-bisabolol (epimers at C-1)
+- **[[optical-isomers-psychedelic-phenethylamines]]:** (−)-α-bisabolol (natural, levomenol) and (+)-α-bisabolol (epimers at C-1)
 - **Physical state:** Colorless to pale yellow viscous liquid at room temperature
 - **Boiling point:** 153°C at 12 mmHg
 - **Solubility:** Insoluble in water; soluble in ethanol, propylene glycol, and fixed oils
@@ -68,7 +68,7 @@ In pharmaceutical applications, α-bisabolol is an ingredient in anti-inflammato
 ## Overview
 
 Bisabolol represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -89,7 +89,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Bisabolol finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -97,7 +97,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -118,7 +118,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 bisabolol and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

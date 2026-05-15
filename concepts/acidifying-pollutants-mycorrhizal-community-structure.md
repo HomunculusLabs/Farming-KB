@@ -1,5 +1,5 @@
 ---
-title: Acidifying Pollutants and Mycorrhizal Community Structure
+title: [[acidifying-pollutants-mycorrhizae]] and Mycorrhizal Community Structure
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -10,7 +10,7 @@ The response of mycorrhizal fungal communities to acidifying pollutants represen
 
 ## Macrofungal Fruit Bodies as Bioindicators
 
-In European forest monitoring programs, the ratio of saprotrophic to ectomycorrhizal macrofungal fruit bodies has been adopted as a sensitive biological indicator of ecosystem health. Fellner (1988) and Colpaert and Van Tichelen (1996) established this approach, which relies on the consistent observation that ectomycorrhizal fungi are more sensitive to acidifying pollutants than saprotrophic species.
+In European forest monitoring programs, the ratio of saprotrophic to ectomycorrhizal macrofungal fruit bodies has been adopted as a sensitive biological indicator of ecosystem health. Fellner (1988) and Colpaert and Van Tichelen (1996) established this approach, which relies on the consistent observation that [[ectomycorrhizal-fungi]] are more sensitive to acidifying pollutants than saprotrophic species.
 
 ### The Fellner and Pesková Forest Decline Staging System
 
@@ -43,7 +43,7 @@ Dighton and Skeffington (1987) applied simulated acid rain to *Pinus sylvestris*
 Brandrud (1995) compared macrofungal flora across nitrogen treatments in Swedish Norway spruce forests:
 - **Dominant genera reduced**: *Cortinarius*, *Russula*
 - **Little change**: *Lactarius*
-- **Increased with added N**: *Paxillus involutus*, *Lactarius rufus*
+- **Increased with added N**: *[[paxillus-involutus]]*, *Lactarius rufus*
 - Overall species diversity, number of fruiting fungi, and total fruit bodies did not differ significantly
 
 Jonsson (1998) showed poor correspondence between fruit bodies and root tips in the same NITREX experiment—only 1–4% correspondence using molecular identification—yet fruit body communities showed more dramatic compositional shifts than root communities.
@@ -65,7 +65,7 @@ The solubility of aluminum in acidified soils is a primary mechanism of mycorrhi
 
 ## Phosphorus Availability and Acidification
 
-Changes in phosphorus cycling represent an important secondary effect of acidification:
+Changes [[fungal-role-in-phosphorus-cycling]] represent an important secondary effect of acidification:
 
 ### Forest Decline in the Vosges
 Estivalet et al. (1990) linked forest decline in the Vosges region of France to reduced phosphorus availability. They attributed this to changes in the rhizospheric microbial community, where *Penicillium*, *Trichoderma*, *Acremonium*, and *Cylindrocarpon* were more regularly isolated from declining soils and may have antagonistic (but not pathogenic) effects on Norway spruce ectomycorrhizae.
@@ -78,7 +78,7 @@ Antibus and Linkins (1992) showed that liming reduced acid phosphatase activity 
 Chronic nitrogen addition can induce secondary nutrient limitations following Liebig's "Law of the Minimum":
 
 - Harrison et al. (1995): K and P became increasingly limiting for Sitka spruce growth with increased N addition
-- Arnebrant (1994): Ammonium sulfate and ammonium nitrate at 1–4 mg g⁻¹ peat significantly reduced mycelial growth of *Paxillus involutus* and *Suillus bovinus*
+- Arnebrant (1994): Ammonium sulfate and [[plant-available-nitrogen-ammonium-nitrate]] at 1–4 mg g⁻¹ peat significantly reduced mycelial growth of *Paxillus involutus* and *[[suillus-bovinus]]*
 - Kieliszewska-Rokicka (1992): Small amounts of NH₄-N (0.17–19 mM) increased growth and acid phosphatase activity of *Paxillus involutus*—a possible synergistic effect of N causing temporary P deficiency
 
 Wallander et al. (1999) showed that fungal isolates with inherently high NH₄ uptake affinity were inhibited more by elevated N than low-affinity isolates, suggesting that low uptake rates may enable ectomycorrhizal fungi to avoid stress from elevated nitrogen loading.
@@ -94,7 +94,7 @@ Arnolds (1989b,c) documented dramatic changes in fungal communities in a nutrien
 - *Geoglossum glutinosum*
 
 ### Species Increased (6–400 fold)
-- *Marasmius oreades*
+- *[[marasmius-oreades]]*
 - *Panaeolina foenescii*
 - *Clitocybe amarescens*
 - *Panaeolus acuminatus*
@@ -109,3 +109,8 @@ Arnolds' observations of species loss under nitrogen pollution led to the develo
 ## Methodological Considerations
 
 A critical finding across multiple studies is that fruit body surveys may not accurately reflect below-ground mycorrhizal community composition. Jonsson's (1998) molecular analysis showing only 1–4% correspondence between fruit bodies and root tips has major implications for monitoring programs that rely solely on fruit body surveys. Effective assessment requires combining multiple methods: fruit body surveys, root tip morphology, and molecular identification techniques.
+## See also
+
+- [[acidifying-pollutants-mycorrhizae-plant-nutrition]]
+- [[nitrogen-deposition-ectomycorrhizal-community-structure]]
+- [[mycorrhizal-fungi-community-structure]]

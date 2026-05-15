@@ -16,16 +16,16 @@ tags:
 Swazi is a pure sativa landrace originating from Swaziland (now Eswatini), a
 small landlocked kingdom in southern Africa. The strain was collected from its
 native habitat and bred by Tropical Seeds Company, a Spanish seed bank
-specializing in tropical and equatorial genetics. As a pure landrace, Swazi
+specializing in tropical and [[oner-brazilian-white-sativa-early-finishing-equatorial-genetics]]. As a pure landrace, Swazi
 represents genetics that have evolved over centuries in the specific climate and
 conditions of southern Africa, shaped by natural selection rather than
 commercial breeding pressures.
 
-The Swazi landrace is part of the broader African landrace conservation
+The Swazi landrace is part of the broader [[african-landrace-sativa-modern-hybrids]] conservation
 movement, which seeks to preserve and distribute pure regional cannabis
 varieties before they are lost to hybridization, prohibition enforcement, and
 commercial replacement. African landraces are among the oldest and most
-genetically diverse cannabis populations on Earth, and their preservation is
+genetically diverse [[cervantes-landrace-cannabis-populations]] on Earth, and their preservation is
 considered essential both for botanical heritage and for the genetic reservoir
 they provide to modern breeding programs.
 
@@ -51,7 +51,7 @@ more accessible African landraces for temperate-climate outdoor growers.
 For a pure sativa landrace, Swazi flowers surprisingly early. At 40° latitude,
 harvest is expected around September 15th, which places it weeks ahead of many
 other African sativas. This relatively early finish is a significant advantage
-for outdoor growers in temperate regions, where autumn rains and frost can
+for outdoor growers in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], where autumn rains and frost can
 devastate late-finishing sativa crops. The Rev attributes this characteristic
 to Swaziland's relatively southern position within Africa, which subjects
 native populations to a shorter growing season than equatorial regions.
@@ -82,7 +82,7 @@ cerebral experience that rewards creative and intellectual activity.
 
 The smoke is described as sweet and delicious, with a clean flavor that
 reflects the strain's landrace purity. African sativas often exhibit complex
-terpene profiles shaped by their native environments, and Swazi is no
+[[cannabis-terpene-profiles]] shaped by their native environments, and Swazi is no
 exception. The sweetness is natural rather than artificial, more reminiscent
 of ripe fruit or wildflowers than the candy-like profiles common in modern
 commercial hybrids. The smoothness of the smoke makes it enjoyable throughout
@@ -114,7 +114,7 @@ it with modern varieties to introduce landrace resilience while reducing
 flowering time and improving yield stability.
 
 The Rev's appreciation for exotic African sativas reflects a broader philosophy
-within the cannabis community: that landrace preservation is not merely an
+within the cannabis community: that [[cannabis-landrace-preservation]] is not merely an
 academic exercise but a practical necessity. As commercial breeding increasingly
 converges on a narrow set of popular genetic profiles, the unique qualities of
 landraces like Swazi become both rarer and more valuable. Growing and

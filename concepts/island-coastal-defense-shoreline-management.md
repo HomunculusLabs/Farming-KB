@@ -44,7 +44,7 @@ All oceanic islands, whether low or high, share a characteristic wind pattern:
 
 ### Design Implications
 - Windbreak problems and erosion problems go hand-in-hand on islands
-- Windbreak design must account for both seasonal wind directions
+- [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]] must account for both seasonal wind directions
 - The two calm periods provide windows for construction and planting
 
 ## Coastal Defense Plant Succession
@@ -71,13 +71,13 @@ Behind the front-line species, taller plants provide the main windbreak structur
 ### Third Line: Productive Species
 Within approximately **50 feet** of the front line, normal yields begin:
 
-- Nut trees, fruit trees, and vegetable crops become viable
+- Nut trees, [[comparison-grafting-vs-budding-fruit-trees]], and vegetable crops become viable
 - The windbreak effect of the first two lines creates a protected microclimate
 
 ### Needle-Leaf Front Line
 A separate group of needle-leaf plants serves as additional front-line defense:
 
-- **[[casuarina]]** — excellent coastal windbreak
+- **[[casuarina]]** — excellent [[coastal-windbreak-systems-and-plant-wind-tolerance]]
 - **[[tamarix]]** — salt-tolerant and drought-resistant
 - **Monterey pine** — wide climatic range
 - **[[norfolk-island-pine]]** — iconic island tree
@@ -89,10 +89,10 @@ These trees are valued more for **mulch potential** than yield, as they stand fr
 A smaller group of thick-leafed plants:
 
 - **Sea grape** — tolerates salt spray
-- **Coprosma repens** (New Zealand mirrorbush) — good in cold climates
+- **[[coprosma-repens-entity]]** (New Zealand mirrorbush) — good [[query-how-do-i-grow-figs-in-cold-climates]]
 - **Bayberries** — stand well towards the forefront
 - **Beach plum (Prunus maritima)** — grows right on the beach
-- **Prunus catalonica** — coastal stone fruit
+- **Prunus catalonica** — coastal [[holzer-stone-fruit-varieties-and-growing]]
 - **Rosa rugosa** — salt-tolerant rose
 
 ### Species Sensitivity to Salt

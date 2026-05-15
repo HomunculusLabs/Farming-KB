@@ -1,5 +1,5 @@
 ---
-title: Natural Building Materials Guide
+title: Natural [[gadd-fungal-biodegradation-concrete-building-materials]] Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,16 +9,16 @@ sources: []
 
 # Natural Building Materials Guide
 
-Natural building uses locally sourced, minimally processed materials to create shelter. These methods have been used for millennia and are experiencing a revival among homesteaders and permaculture practitioners due to low cost, low embodied energy, and healthy indoor environments.
+[[natural-building]] uses locally sourced, minimally processed materials to create shelter. These methods have been used for millennia and are experiencing a revival among homesteaders and permaculture practitioners due to low cost, low embodied energy, and healthy indoor environments.
 
 ## Overview of Common Natural Building Materials
 
 ### Cob
 
-Cob is a mixture of clay-rich subsoil, sand, and straw, kneaded with water into a sculptable mud. It is built up in thick monolithic walls without forms. Cob walls are typically 18-24 inches thick and provide excellent thermal mass for passive solar heating.
+Cob is a mixture of clay-rich subsoil, sand, and straw, kneaded with water into a sculptable mud. It is built up in thick monolithic walls without forms. Cob walls are typically 18-24 inches thick and provide excellent thermal mass for [[mollison-designers-passive-solar-heating-building-design]].
 
 - **Best for:** Walls, benches, ovens, sculptural elements
-- **Climate suitability:** Dry to temperate climates; needs good roof overhang and foundation to protect from prolonged moisture
+- **Climate suitability:** Dry to [[fukuoka-natural-farming-temperate-climates]]; needs good roof overhang and foundation to protect from prolonged moisture
 - **Pros:** Extremely low cost, sculptural freedom, high thermal mass, breathable
 - **Cons:** Labor intensive, slow building process, not ideal for very wet climates without careful detailing
 
@@ -54,7 +54,7 @@ Light straw-clay is a method where loose straw is coated in a thin slip of clay 
 Hempcrete is a biocomposite material made from the woody core of hemp stalks (hurd/shiv) mixed with a lime-based binder and water. It is packed, tamped, or sprayed into forms around a timber or structural frame.
 
 - **Best for:** Infill and insulation within a structural frame
-- **Climate suitability:** Excellent in cold climates for insulation; performs well in humid climates due to moisture buffering
+- **Climate suitability:** Excellent [[query-how-do-i-grow-figs-in-cold-climates]] for insulation; performs well in [[berry-fruit-production-cool-humid-climates]] due to moisture buffering
 - **Pros:** Excellent insulation, carbon-negative (sequesters CO2), breathable, moisture regulating, fire resistant, pest resistant
 - **Cons:** Hemp hurd availability and cost, requires structural frame, long curing time, lime handling safety
 
@@ -88,7 +88,7 @@ Before committing to an earth-based material, test your local soil:
 
 ### Foundation and Roof Details
 
-All earth and natural walls need:
+All [[diatomaceous-earth-and-natural-pest-management]] walls need:
 
 - **Raised foundation:** Minimum 12 inches above grade on a moisture-resistant base (stone, concrete, rubble trench)
 - **Wide roof overhangs:** At least 18-24 inches to protect walls from rain splash

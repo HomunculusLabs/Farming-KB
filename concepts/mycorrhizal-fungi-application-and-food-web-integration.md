@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Fungi Application and Food Web Integration
+title: [[mycorrhizal-fungi-application-and-colonization]] and Food Web Integration
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Terminology
 
-Understanding the correct terminology for mycorrhizal associations is important for clear communication:
+Understanding the correct terminology for [[plants-without-mycorrhizal-associations]] is important for clear communication:
 
 - **Mycorrhizal fungus** — refers to the fungus itself, not in association with the plant
 - **A [[mycorrhiza]]** — a single association between a root and a mycorrhizal fungus
@@ -30,7 +30,7 @@ A complete [[soil-food-web]] is needed to prevent both easy-to-prevent and harde
 
 ### The "Stall" Effect
 
-When only a subset of organisms (e.g., just bacteria) is added back into degraded soil, initial improvement is typically observed. However, improvement eventually **stalls** because the full food web must be rebuilt to reach a state where pesticides and inorganic fertilizers are no longer needed. This means compost teas must deliver the whole food web, not just bacteria.
+When only a subset of organisms (e.g., just bacteria) is added back into degraded soil, initial improvement is typically observed. However, improvement eventually **stalls** because the full food web must be rebuilt to reach a state where pesticides and [[ingham-inorganic-fertilizers-soil-biology-damage]] are no longer needed. This means compost teas must deliver the whole food web, not just bacteria.
 
 A bacterial-only tea is not necessarily "bad," but it may lack the organisms needed for comprehensive disease prevention. Where failures with compost tea have occurred, they consistently trace back to not getting the full set of organisms extracted and applied.
 
@@ -81,11 +81,11 @@ DNA testing can assess the number of unique DNA strands present in a soil or com
 
 The source material for compost significantly affects the resulting microbiology:
 
-- Composting grocery store vegetables grown indoors without environmental exposure produces a **bizarre set of organisms** — lacking the natural soil microbial community
+- Composting grocery store vegetables grown indoors without environmental exposure produces a **bizarre set of organisms** — lacking the natural [[edaphic-factors-soil-microbial-community-structure]]
 - Materials that had contact with soil (leaves, tree debris, grass clippings from unsprayed sources) produce compost with more natural, balanced microbiology
 - **Clopyralid-treated materials must be avoided** — this herbicide persists through composting and is not known to be decomposed by any common compost organisms
-- Desert environments may require inoculation, but most temperate regions have sufficient indigenous biology
-- Urban/downtown areas may have depleted microbial communities
+- Desert environments may require inoculation, but most [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] have sufficient indigenous biology
+- Urban/downtown areas may have depleted [[cannabis-rhizosphere-microbial-communities]]
 
 ## Glomalin
 

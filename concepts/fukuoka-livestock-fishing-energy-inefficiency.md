@@ -1,5 +1,5 @@
 ---
-title: Fukuoka on Livestock and Fishing Energy Inefficiency
+title: Fukuoka on Livestock and Fishing [[fukuoka-livestock-energy-inefficiency-caloric-cost]]
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -8,9 +8,9 @@ type: concept
 
 [[masanobu-fukuoka]]'s *The One-Straw Revolution* extends its [[fukuoka-natural-livestock-farming]] amplifies this through intensive confinement and processed feed.
 
-Consider the yellowtail fish farm: it takes roughly ten times the weight in sardines to raise a single yellowtail to marketable size. The sardines themselves could have fed people directly. The math compounds through further steps — a silver fox raised for fur consumes ten times its weight in rabbit meat, and each rabbit in turn consumes ten times its weight in grass. Each layer of animal husbandry multiplies the energy input required per unit of final product.
+Consider the yellowtail fish farm: it takes roughly ten times the weight in sardines to raise a single yellowtail to marketable size. The sardines themselves could have fed people directly. The math compounds through further steps — a silver fox raised for fur consumes ten times its weight in rabbit meat, and each rabbit in turn consumes ten times its weight in grass. Each layer of [[holzer-natural-animal-husbandry]] multiplies the energy input required per unit of final product.
 
-Fukuoka distills this to human terms: people must work roughly ten times harder to eat beef than to eat grain, and five times harder for milk and eggs compared to direct grain consumption. Livestock farming may satisfy cravings, but it increases man's labor many times over for the same caloric return. As he puts it plainly:
+Fukuoka distills this to human terms: people must work roughly ten times harder to eat beef than to eat grain, and five times harder for milk and eggs compared to direct grain consumption. [[fukuoka-natural-livestock-farming-open-grazing]] may satisfy cravings, but it increases man's labor many times over for the same caloric return. As he puts it plainly:
 
 > "In raising cattle or elephants, the peasants of Japan and India impoverished themselves."
 
@@ -18,7 +18,7 @@ This is not merely an academic observation. It reflects a lived historical reali
 
 ## The Chicken Comparison: Efficiency vs. Self-Sufficiency
 
-Fukuoka offers a striking contrast between two approaches to egg production. The Japanese Bantam lays only one small egg every other day — seemingly unimpressive. Yet a breeding pair can produce a flock of ten to twenty birds within a year, collectively laying many times the output of a single White Leghorn. Crucially, Bantams feed themselves, foraging freely. Fukuoka describes them as "literally producing something from nothing."
+Fukuoka offers a striking contrast between two approaches to egg production. The [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]] lays only one small egg every other day — seemingly unimpressive. Yet a breeding pair can produce a flock of ten to twenty birds within a year, collectively laying many times the output of a single White Leghorn. Crucially, Bantams feed themselves, foraging freely. Fukuoka describes them as "literally producing something from nothing."
 
 By contrast, White Leghorns confined in cages lay one large egg per day — a superficially superior rate. But they require feed grain whose caloric value is roughly double that of the eggs produced. The net effect is that industrial egg production actually *cuts* available calories in half.
 
@@ -37,7 +37,7 @@ Fukuoka presents clear efficiency figures for different livestock products, meas
 | Milk | 15% |
 | Beef | 8% |
 
-Beef production, at 8% efficiency, cuts the food energy recoverable from land tenfold. For every calorie of beef consumed, twelve calories of input energy were required — energy that could have fed twelve people directly from grain.
+[[grass-fed-beef-production]], at 8% efficiency, cuts the food energy recoverable from land tenfold. For every calorie of beef consumed, twelve calories of input energy were required — energy that could have fed twelve people directly from grain.
 
 These ratios reveal an uncomfortable truth: the more "refined" or "premium" the animal product, the greater the energy dissipation. The hierarchy of prestige in food — with beef at the top — is inversely proportional to ecological efficiency. What culture celebrates as luxury, thermodynamics reveals as waste.
 
@@ -81,7 +81,7 @@ He cites the sardine shortage that emerged when demand for yellowtail feed spike
 
 The industry responds to each problem it creates with a more intensive technological fix, which in turn creates new problems — a pattern identical to the mechanization cycle on land. Each intervention deepens the dependency and widens the destruction.
 
-Fukuoka's prescription is counterintuitive in an age of technological optimization: protecting seas where fish can be caught by hand should take priority over developing superior catching methods. The goal is not to extract more, but to preserve the conditions under which marine ecosystems regenerate naturally. Once those conditions are lost, no amount of technological intervention can restore them.
+Fukuoka's prescription is counterintuitive in an age of technological optimization: protecting seas where fish can be caught by hand should take priority over developing superior catching methods. The goal is not to extract more, but to preserve the conditions under which [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] regenerate naturally. Once those conditions are lost, no amount of technological intervention can restore them.
 
 ## The Underlying Philosophy
 

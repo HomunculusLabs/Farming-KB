@@ -6,7 +6,7 @@ type: concept
 
 # Growing Your Own Seed
 
-Saving your own seed is the ultimate step toward garden self-sufficiency. It reduces costs, preserves varieties adapted to your specific conditions, and provides a deeper understanding of plant biology. However, seed saving ranges from simple (for self-pollinating species) to extremely challenging (for outcrossing species), and understanding the difference is essential before attempting it.
+Saving your own seed is the ultimate step toward garden self-sufficiency. It reduces costs, preserves varieties adapted to your specific conditions, and provides a deeper understanding of plant biology. However, [[biointensive-seed-saving]] ranges from simple (for self-pollinating species) to extremely challenging (for outcrossing species), and understanding the difference is essential before attempting it.
 
 ## Self-Pollinating vs. Outcrossing Species
 
@@ -38,7 +38,7 @@ These species must exchange pollen between different plants or they become weak 
 - Beet (beetroot) and chard (silverbeet)
 - Brassicas — unrefined (kale, kohlrabi, rutabaga)
 - Brassicas — refined (broccoli, Brussels sprouts, cabbage, cauliflower)
-- Chinese cabbage
+- [[growing-chinese-cabbage]]
 - Cucurbits (melons, pumpkins, squash, cucumbers)
 - Corn
 - Carrot
@@ -48,7 +48,7 @@ These species must exchange pollen between different plants or they become weak 
 
 ## Inbreeding Depression
 
-When outcrossing species are grown from too small a gene pool, each generation becomes weaker. After only a few generations of inbreeding, a variety can become so weak that its own seeds will barely sprout and will grow so poorly that it becomes nonproductive.
+When outcrossing species are grown from too small a [[cannabis-gene-pool-preservation-acclimatization-clarke]], each generation becomes weaker. After only a few generations of inbreeding, a variety can become so weak that its own seeds will barely sprout and will grow so poorly that it becomes nonproductive.
 
 ### Minimum Population Sizes
 
@@ -99,7 +99,7 @@ For all seed types, **drying is the most critical step**. If the seed is not dry
 
 - Dry seed down quickly at moderate temperatures (not above 90°F/32°C)
 - Do not dry in direct sunlight (UV can damage the embryo)
-- Ensure good air circulation
+- Ensure good [[stamets-growing-room-air-circulation-co2-management]]
 - Store only when fully dry (snap test: seed should break crisply, not bend)
 
 ## Practical Recommendations
@@ -114,7 +114,7 @@ Don't attempt to save seed from cabbage, broccoli, Brussels sprouts, corn, or ca
 
 ### Recommended Resources
 
-- **Seed to Seed** by Suzanne Ashworth — the standard reference for vegetable seed saving
+- **Seed to Seed** by Suzanne Ashworth — the standard reference for [[vegetable-seed-saving-and-germination]]
 - **The Seed Garden** by the Seed Savers Exchange — covers seed-raising methods for each vegetable
 - Both are essential reading before attempting serious seed saving
 

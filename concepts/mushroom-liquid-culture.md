@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, preparation, recipe, workflow, inoculation, storage]
-sources: []
+sources: ["raw/papers/unknown-mushroom-culture-patent-2761246.md"]
 ---
 
 ## Overview

@@ -18,7 +18,7 @@ type: concept
 
 ## The Rise of Recreational Use (1960s-1970s)
 
-Between 1969 and 1975, the non-traditional use of psychoactive mushrooms
+Between 1969 and 1975, the non-traditional use [[historical-and-cultural-uses-of-psychoactive-mushrooms]]
 increased rapidly in Australia. Heavy rains in the spring of 1969 produced
 bumper crops of [[psilocybin-containing-mushrooms-in-us]] on the
 floor of the men's van. The magistrate allowed two weeks to pay the fines,
@@ -78,7 +78,7 @@ Documentation and record-keeping support continuous improvement by
 ## Overview
 
 Psilocybian Fungi Law Australia Nz represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Psilocybian Fungi Law Australia Nz finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,13 +107,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for psilocybian fungi law australia nz. Climate adaptation
+opportunities for psilocybian fungi law australia nz. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 psilocybian fungi law australia nz and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

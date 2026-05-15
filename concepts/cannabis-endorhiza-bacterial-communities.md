@@ -1,5 +1,5 @@
 ---
-title: Cannabis Endorhiza Bacterial Communities
+title: Cannabis [[cultivar-endorhiza-bacterial-communities-cannabis]]
 created: 2026-05-11
 updated: 2026-05-11
 type: concept
@@ -11,20 +11,20 @@ sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 
 ## Overview
 
-The endorhiza — the community of bacteria colonizing root tissue — represents the most intimate and plant-selective compartment of the root microbiome. The 2014 Winston et al. study provided the first comprehensive description of Cannabis endorhiza bacterial communities across five distinct cultivars, revealing a core microbiome shared across all strains alongside significant cultivar-specific differences in microbial abundance.
+The endorhiza — the community of bacteria colonizing root tissue — represents the most intimate and plant-selective compartment of the root microbiome. The 2014 Winston et al. study provided the first comprehensive description of Cannabis [[endorhiza-bacterial-communities]] across five distinct cultivars, revealing a core microbiome shared across all strains alongside significant cultivar-specific differences in microbial abundance.
 
 ## Core Endorhiza Community
 
 Despite cultivar-specific variation, all five Cannabis strains maintained a conserved core bacterial community within the endorhiza:
 
-- **Pseudomonas** — ubiquitous genus within the Gammaproteobacteria, well-known for plant growth-promoting properties including siderophore production, phosphate solubilization, and pathogen suppression
+- **Pseudomonas** — ubiquitous genus within the Gammaproteobacteria, well-known for plant growth-promoting properties including [[singh-fungal-siderophore-production-iron-acquisition]], phosphate solubilization, and pathogen suppression
 - **Cellvibrio** — an aerobic cellulolytic bacterium, notable as the only non-typical endophyte in the core community; its presence reflects the decomposition of plant cell wall material in the root zone
 - **Oxalobacteraceae** — a family within the Betaproteobacteria associated with nitrogen cycling and organic acid metabolism
 - **Xanthomonadaceae** — a family of Gammaproteobacteria that includes both plant pathogenic and beneficial species; their consistent presence in healthy Cannabis roots suggests a non-pathogenic functional role
 - **Actinomycetales** — an order of Actinobacteria known for producing antibiotics and antifungal compounds; they may contribute to root disease resistance
 - **Sphingobacteriales** — an order of Bacteroidetes involved in complex carbohydrate degradation
 
-With the exception of Cellvibrio, all prevalent core members are well-established endophytic bacteria primarily within the orders Gammaproteobacteria and Alphaproteobacteria. This taxonomic profile aligns with observations from other plant systems, suggesting conserved evolutionary mechanisms of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
+With the exception of Cellvibrio, all prevalent core members are well-established [[endorhiza-endophytic-bacteria]] primarily within the orders Gammaproteobacteria and Alphaproteobacteria. This taxonomic profile aligns with observations from other plant systems, suggesting conserved evolutionary mechanisms of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
 - **Rhizobiales** — best known for nitrogen fixation in legume root nodules; also includes non-nodulating endophytes
 
 Additionally, Bacteroidetes orders Sphingobacteriales and Flavobacteriales contributed to strain-level differences.
@@ -37,13 +37,13 @@ The cultivar-specific microbial profiles suggest functional consequences for pla
 Endorhiza bacteria support plant growth through phytohormone production (auxins, cytokinins, gibberellins), low molecular weight compounds, and enzymes that regulate growth and metabolism. The varying abundance of Pseudomonadales and Rhizobiales across cultivars implies differential access to these growth-promoting functions.
 
 ### Disease Suppression
-Several core community members (Pseudomonas, Actinomycetales) are known biocontrol agents. The enrichment of *Sphingomonas wittichii* in Maui Wowie, with its ability to metabolize phenazine compounds, may indicate enhanced competitive exclusion of pathogens in that cultivar's root zone.
+Several core community members (Pseudomonas, Actinomycetales) are known biocontrol agents. The enrichment of *[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]* in Maui Wowie, with its ability to metabolize phenazine compounds, may indicate enhanced competitive exclusion of pathogens in that cultivar's root zone.
 
 ### Phytotoxicant Tolerance
 Endorhiza bacteria can assist host plants in tolerating phytotoxic effects of environmental contaminants. This function may be particularly relevant for Cannabis, which can accumulate heavy metals and other soil contaminants in its tissues.
 
 ### Terroir Effects
-Endorhiza communities may contribute to localized "terroir" — the characteristic sensory profile associated with cannabis grown in specific regions. This has been demonstrated for wine grapes, where microbial communities influence flavor and aroma compounds. The interaction between cannabinoid/terpene production and endorhiza composition in Cannabis remains an open area of investigation.
+[[cannabis-rhizosphere-endorhiza-communities]] may contribute to localized "terroir" — the characteristic sensory profile associated with cannabis grown in specific regions. This has been demonstrated for wine grapes, where [[cannabis-rhizosphere-microbial-communities]] influence flavor and aroma compounds. The interaction between cannabinoid/terpene production and endorhiza composition in Cannabis remains an open area of investigation.
 
 ## Cannabinoid-Microbiome Correlations
 

@@ -141,8 +141,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[allegro-john-baptist-red-topped-mushroom-herodias]]
-- [[john-jeavons]]
-- [[john-ramsbottom]]
-- [[john-w-allen]]
-- [[sajeev-john]]
+- [[john-galvin-forester]]
+- [[john-ralston-saul]]
+- [[john-widstoe]]

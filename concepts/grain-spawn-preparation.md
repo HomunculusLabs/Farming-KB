@@ -1,5 +1,5 @@
 ---
-title: Grain Spawn Preparation
+title: [[cultivator-grain-spawn-preparation-and-inoculation]]
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Grain spawn is colonized grain that serves as the inoculant for bulk substrates. The mycelium grows through the grain kernels, using the stored carbohydrates and proteins as food. Once fully colonized, the grain is mixed with a bulk substrate like CVG (coconut coir, vermiculite, gypsum) where the mycelium continues to expand and eventually fruits. Proper grain preparation is critical — too dry and colonization stalls, too wet and the grain ferments or breeds bacteria.
+Grain spawn is colonized grain that serves as the inoculant for bulk substrates. The mycelium grows through the grain kernels, using the stored carbohydrates and proteins as food. Once fully colonized, the grain is mixed with [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] like CVG (coconut coir, vermiculite, gypsum) where the mycelium continues to expand and eventually fruits. Proper [[mushroom-spawn-grain-preparation-inoculation]] is critical — too dry and colonization stalls, too wet and the grain ferments or breeds bacteria.
 
 ## Grain Types
 
@@ -70,7 +70,7 @@ Properly hydrated grain should pass the field capacity test: squeeze a handful f
   - Self-healing injection ports with synthetic filter discs
   - Polyfill stuffed through a hole in the metal lid
   - Micropore tape over holes
-  - Commercial mushroom jar lids (e.g., Unicorn Bags type)
+  - [[history-of-commercial-mushroom-cultivation]] jar lids (e.g., Unicorn Bags type)
 
 ### Shaking for Even Distribution
 
@@ -80,7 +80,7 @@ Shake jars vigorously after loading to distribute grain evenly. Some growers als
 
 ### Pressure Canning
 
-Grain MUST be sterilized in a pressure cooker or autoclave. Boiling water cannot reach temperatures high enough to kill bacterial endospores, which survive at 212F (100C). A pressure cooker at 15 PSI reaches 250F (121C), which is sufficient.
+Grain MUST be sterilized in a [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] or autoclave. Boiling water cannot reach temperatures high enough to kill bacterial endospores, which survive at 212F (100C). A pressure cooker at 15 PSI reaches 250F (121C), which is sufficient.
 
 Standard schedule:
 - Quart jars: 90-120 minutes at 15 PSI
@@ -133,7 +133,7 @@ Research on *Lentinus squarrosulus* demonstrated that the choice of spawn grain 
 - Grain choice matters beyond colonization speed — it affects fruitbody morphology and yield
 - Protein-rich substrates (animal bedding, rice) paired with corn or millet spawn gave the best results
 - For sawdust-based substrates, wheat spawn performed better than corn or millet
-- These findings apply primarily to non-composted substrates and tropical species; results may differ for composted Agaricus cultivation
+- These findings apply primarily to non-composted substrates and tropical species; results may differ for composted [[agaricus-cultivation]]
 
 Source: raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Arbuscular mycorrhizal (AM) fungi provide a significant but complex defense mechanism for host plants against root-infecting pathogens. This protective interaction occurs at the soil–root interface, where mycorrhizal fungal communities encounter elevated populations of fungi and bacteria encouraged by [[root-exudates]] and dead root cells. The relationship between AM fungi and plant pathogens represents a delicate ecological balance that influences plant community dynamics and ecosystem productivity.
+Arbuscular mycorrhizal (AM) fungi provide a significant but complex [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]] for host plants against root-infecting pathogens. This protective interaction occurs at the soil–root interface, where mycorrhizal fungal communities encounter elevated populations of fungi and bacteria encouraged by [[root-exudates]] and dead root cells. The relationship between AM fungi and plant pathogens represents a delicate ecological balance that influences plant community dynamics and ecosystem productivity.
 
 ## Mechanisms of Protection
 
@@ -42,11 +42,11 @@ AM fungi also impede nematode invasion of roots. The effects include:
 - Reduced penetrability of the root
 - Enhanced phosphorus content of the plant, affording improved growth (Roncadori, 1997)
 
-Elsen et al. (2001) showed that *Glomus intraradices* significantly reduced the reproductive capacity of the burrowing nematode *Radopholus similis* on carrot root tissue, suppressing the nematode population by almost 50%.
+Elsen et al. (2001) showed that *Glomus intraradices* significantly reduced the reproductive capacity of the burrowing nematode *[[radopholus-similis]]* on carrot root tissue, suppressing the nematode population by almost 50%.
 
 ## Meta-Analysis Findings
 
-Borowicz (2001) conducted a meta-analysis of studies on AM fungi and plant disease prevention published between 1970 and early 1998, revealing:
+Borowicz (2001) conducted a meta-analysis of studies on AM fungi and [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]] published between 1970 and early 1998, revealing:
 
 - Most studies were performed on economically important plant species (agricultural crops) in low phosphate soil conditions
 - Experiments were predominantly conducted in greenhouse or microplot settings
@@ -60,7 +60,7 @@ The protective role of AM fungi does not always benefit the host in straightforw
 
 - AM colonization of annual grass (*Poa annua*) had little effect on plant growth, while hemiparasite infection (*Odontites vulgaris*) caused significant biomass reduction
 - AM status of *P. annua* did not affect the biomass of the parasitic plant
-- In contrast, AM colonization of clover (*Trifolium pratense*) greatly increased host biomass, but the hemiparasite (*Rhinanthus serotinus*) infection had no negative effect
+- In contrast, AM colonization of clover (*[[trifolium-pratense]]*) greatly increased host biomass, but the hemiparasite (*Rhinanthus serotinus*) infection had no negative effect
 - AM fungi actually **increased** the parasitic plant biomass and induced more flower production when attached to mycorrhizal clover hosts
 
 This demonstrates that improved performance of parasitic plants depends on the degree of growth promotion afforded to the host by the mycorrhizae.
@@ -71,13 +71,13 @@ Newsham et al. (1994) demonstrated the fine balance between beneficial and detri
 
 - The fungicide **benomyl** significantly reduced mycorrhizal colonization but did not significantly lower plant growth or phosphorus inflow
 - However, benomyl did increase plant fecundity (seed number)
-- The explanation was that benomyl simultaneously reduced both mycorrhizal fungi and root pathogenic fungi (such as *Fusarium oxysporum* and *Embellisia chlamydospora*)
+- The explanation was that benomyl simultaneously reduced both mycorrhizal fungi and root pathogenic fungi (such as *[[fusarium-oxysporum]]* and *Embellisia chlamydospora*)
 - The loss of mycorrhizal benefit was offset by relief from pathogen stress
 
 This raises critical ecological questions:
 - How is the balance between mycorrhizae and pathogens maintained?
 - Has this been an evolutionary pathway to maintain a balance between two different functional groups of fungi?
-- How much do these interactions determine plant fitness and plant community composition?
+- How much do these interactions determine plant fitness and [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]?
 - Could the balance shift with plant phenology or changes in edaphic and environmental conditions?
 
 ## Phylloplane Interactions

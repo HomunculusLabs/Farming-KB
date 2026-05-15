@@ -1,5 +1,5 @@
 ---
-title: Diversion Drains and Spreader Banks
+title: [[mollison-designers-diversion-drains-and-interceptor-banks]] Spreader Banks
 source: bill-[[permaculture-design]] for managing overland water flow, controlling
 salinity, distributing irrigation water, and enabling wildfire suppression. When
 combined with dams, swales, and appropriate [[water-management]] across large areas
@@ -50,7 +50,7 @@ long-term landscape impact of earthworks.
 
 - **Replace salted and eroded lands** with productive perennial systems
 - Establish perennial browse, pastures, or forests on previously unproductive land
-- Interceptor drains and spreader banks for reforestation of desertified soils
+- [[interceptor-drains-and-desertification-control]] spreader banks for reforestation of desertified soils
 - Improve soil health, biodiversity, and long-term productive capacity
 
 ### Damaging Earthworks
@@ -72,7 +72,7 @@ rehabilitative or damaging — the difference lies in how the harvested water is
 ## Overview
 
 Diversion Drains And Spreader Banks represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Diversion Drains And Spreader Banks finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for diversion drains and spreader banks. Climate adaptation
+opportunities for diversion drains and spreader banks. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 diversion drains and spreader banks and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

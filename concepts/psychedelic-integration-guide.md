@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [psychology, therapy, consciousness, psychedelics, health, methods, entheogen-research, safety]
-sources: []
+sources:
+  - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
 # Psychedelic Integration Guide

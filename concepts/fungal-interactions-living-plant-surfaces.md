@@ -134,8 +134,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[fungal-salt-tolerance-and-ion-homeostasis]]
-- [[fungal-woronin-bodies-and-septal-pore-organization]]
-- [[plant-fungal-signaling-mycorrhiza]]
-- [[singh-fungal-alkane-metabolism-pathways]]
-- [[singh-scaling-fungal-remediation-lab-to-field]]
+- [[fungal-interactions-human-environmental-impacts]]
+- [[fungal-interactions-humans-environmental-change]]
+- [[fungal-interactions-organisms]]
+- [[fungal-interactions-with-humans]]

@@ -8,14 +8,14 @@ type: entity
 
 ## Description
 
-A spore print is the pattern created by allowing a mushroom cap to deposit its spores onto a flat surface (typically white paper) over a period of approximately 24 hours. The spore print reveals the arrangement of the gill or pore structures and, most importantly, the color of the spore mass, which is one of the most reliable characteristics used in [[mushroom-identification]] and taxonomy. In the cultivated mushroom (Agaricus campestris), the spore print is brownish-black, corresponding to the color of the mature gills.
+A spore print is the pattern created by allowing a mushroom cap to deposit its spores onto a flat surface (typically white paper) over a period of approximately 24 hours. The spore print reveals the arrangement of the gill or pore structures and, most importantly, the color of the spore mass, which is one of the most reliable characteristics used in [[mushroom-identification]] and taxonomy. In the cultivated mushroom ([[agaricus-campestris]]), the spore print is brownish-black, corresponding to the color of the mature gills.
 
 ## Classification
 
 - **Category**: Identification technique / Diagnostic method
 - **Type**: Mycological spore deposit analysis
 - **Target**: Mushroom spore color and pattern
-- **Field**: Mycology, mushroom cultivation, taxonomy
+- **Field**: Mycology, [[accessible-mushroom-cultivation-for-disabilities]], taxonomy
 
 ## Key Facts
 
@@ -25,12 +25,12 @@ A spore print is the pattern created by allowing a mushroom cap to deposit its s
 - In Agaricus campestris (the common cultivated mushroom), the spore print is brownish-black, corresponding to the characteristic darkening of the gills as the mushroom matures.
 - The spores themselves are microscopic, simple, ovate cells produced on specialized structures called basidia on the gill surfaces.
 - Each basidium typically bears 2-4 spores, and the entire gill surface constitutes the hymenium (spore-bearing layer).
-- Spore prints can also be made on glass slides for microscopic examination, or on dark paper for species with light-colored spores.
+- Spore prints can also be made on glass slides for [[fungal-microscopic-examination-mounting-media-techniques]], or on dark paper for species with light-colored spores.
 - While spores are the primary reproductive structures of mushrooms, they are difficult to germinate even under controlled laboratory conditions, and commercial mushroom growers do not use spores directly for production.
 
 ## Relevance to Cultivation and Mycology
 
-Spore prints are essential to mushroom identification and therefore critical for anyone foraging for wild mushrooms, including cultivators seeking to identify local species for potential domestication. The technique is also used in taxonomy to classify and describe new species. For mushroom cultivators, spore prints are the starting point for strain isolation and breeding work: spores germinated on agar media give rise to mycelial cultures that can be selected for desirable traits such as vigor, fruiting characteristics, and disease resistance. However, because spores represent a sexual recombination of genetic material, each spore gives rise to a genetically unique individual, unlike the vegetative propagation achieved through mycelial transfer.
+Spore prints are essential to [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]] and therefore critical for anyone foraging for wild mushrooms, including cultivators seeking to identify local species for potential domestication. The technique is also used in taxonomy to classify and describe new species. For mushroom cultivators, spore prints are the starting point for strain isolation and breeding work: spores germinated on agar media give rise to mycelial cultures that can be selected for desirable traits such as vigor, fruiting characteristics, and disease resistance. However, because spores represent a sexual recombination of genetic material, each spore gives rise to a genetically unique individual, unlike the [[hamilton-vegetative-propagation]] achieved through mycelial transfer.
 
 ## Method
 
@@ -67,7 +67,7 @@ The spore print technique was fundamental to the development of modern mycologic
 
 The principles discussed here have wide-ranging applications across multiple
 disciplines. Practitioners continue to explore new integrations of these
-concepts into modern practice, adapting traditional knowledge to contemporary
+concepts into modern practice, adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary
 challenges and emerging opportunities in the field.
 
 ## Key Considerations

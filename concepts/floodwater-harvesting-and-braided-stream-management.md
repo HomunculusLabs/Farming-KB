@@ -1,5 +1,5 @@
 ---
-title: Floodwater Harvesting and Braided Stream Management
+title: [[floodwater-harvesting-braided-streams]] and Braided Stream Management
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Floodwater harvesting is the deliberate capture, diversion, and infiltration of flood flows for agricultural and ecological benefit. Traditional societies across arid regions developed sophisticated floodwater farming systems that sustained communities for millennia. Modern [[braided-stream]] management and scour hole creation to maximize the productive use of ephemeral water resources.
+Floodwater harvesting is the deliberate capture, diversion, and infiltration of flood flows for agricultural and ecological benefit. Traditional societies across [[fukuoka-natural-farming-in-arid-regions]] developed sophisticated floodwater farming systems that sustained communities for millennia. Modern [[braided-stream]] management and scour hole creation to maximize the productive use of ephemeral water resources.
 
 ## Traditional Floodwater Farming
 
@@ -51,11 +51,11 @@ Where flooded land is relatively flat, a gridiron of low banks keeps floodwater 
 
 ### Nutrient Cycling
 
-Gridiron systems in Papago Indian areas maintain high levels of major plant nutrients. The floodwaters carry dissolved minerals, organic matter, and silt that deposit in the grid cells, creating naturally fertile growing beds.
+Gridiron systems in Papago Indian areas maintain high levels of major plant nutrients. The floodwaters carry dissolved minerals, [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], and silt that deposit in the grid cells, creating naturally fertile growing beds.
 
 ### Cropping Strategy
 
-When rivers flood, fields of millet, sorghum, and legumes can be broadcast-sown into the wet silt and later harvested as stored crop. Further from the main stream, broader and deeper dykes hold water in narrower and deeper channels for tree crops. The trees should overshade the deep absorption swales that develop below these dykes.
+When rivers flood, fields of millet, sorghum, and legumes can be broadcast-sown into the wet silt and later harvested as stored crop. Further from the main stream, broader and deeper dykes hold water in narrower and deeper channels for [[mollison-designers-avocado-mango-and-subtropical-tree-crops]]. The trees should overshade the deep absorption swales that develop below these dykes.
 
 ## Braided Stream Management
 
@@ -78,7 +78,7 @@ In low flow conditions, only the channel flow persists and sheet flow across the
 
 ### Experimental Approach
 
-Methods of achieving multiple stream braiding would best be modelled in experimental sand channel flows before full-scale implementation. However, the ground effects on vegetative growth are evident in many arid areas, where wetted areas support strong tree growth compared to dry interfluves.
+Methods of achieving multiple stream braiding would best be modelled in experimental sand channel flows before full-scale implementation. However, the ground effects on [[cannabis-vegetative-growth-stage]] are evident in many [[animal-systems-arid-areas-permaculture]], where wetted areas support strong tree growth compared to dry interfluves.
 
 ## Mulch Fences on Floodplains
 

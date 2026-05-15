@@ -1,5 +1,5 @@
 ---
-title: Wavelet Transform
+title: [[kalman-filter-vs-wavelet-transform]]
 subtitle: A multiscale method for analyzing signals with localized waves
 tags: [signal-processing, mathematics, data-analysis, compression, time-frequency-analysis]
 date: 2026-05-02
@@ -92,7 +92,7 @@ Computer graphics uses wavelets for level-of-detail models, texture representati
 Scientific computing uses wavelets to compress simulation outputs while retaining important localized features.
 ## Wavelets and Other Methods
 The wavelet transform is often compared with the Fourier transform.
-Fourier analysis provides precise frequency information but weak localization for sudden changes.
+[[pulsatile-transport-fourier-analysis-fungi]] provides precise frequency information but weak localization for sudden changes.
 Short-time Fourier analysis adds localization by using a fixed window.
 Wavelet analysis uses windows that change with scale, giving long windows for low frequencies and short windows for high frequencies.
 This variable resolution is one of its defining advantages.

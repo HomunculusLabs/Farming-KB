@@ -1,5 +1,5 @@
 ---
-title: Fodder Pond Sequences and Polyculture Chains
+title: [[fodder-pond-sequences-and-yields]] and Polyculture Chains
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -59,7 +59,7 @@ Three strategies increase the diversity of small still-pond, marsh, or perched p
 
 1. **Locate ponds at headwater and ridge positions** to create small ecological islands that attract colonising species.
 2. **Salt small ponds** to develop semi-estuarine species assemblages that would not otherwise be present inland.
-3. **Manure small ponds and marshes** with trace elements, animal manures, and phosphatic or nitrogenous fertilisers to produce large quantities of forage fish, algae, or crustaceans for downstream predator species.
+3. **Manure small ponds and marshes** with [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]], animal manures, and phosphatic or nitrogenous fertilisers to produce large quantities of forage fish, algae, or crustaceans for downstream predator species.
 
 Such systems can accept water polluted by phosphates and nitrates as part of their intake, provided plants and organisms can be found to tolerate that pollutant level — effectively turning nutrient pollution into productive aquaculture.
 
@@ -69,17 +69,17 @@ Such systems can accept water polluted by phosphates and nitrates as part of the
 Grass carp neatly trim fringing vegetation such as *Dolichos* species, preventing weed encroachment into taro. They mix well with *Macrobrachium* prawns and actually increase prawn yields without artificial feeding. The prawns grow as well on grass carp fecal detritus as on chicken pellets in nearby monoculture ponds, while the grass carp maintain neatly-trimmed pond edges — eliminating the need for mechanical mowing.
 
 ### Tilapia and Garden Integration
-Tilapia eat many fruits and edible leaves from garden weeds and vines, making market gardens and fish ponds natural companions. Pond water is nutrient-rich and benefits gardens as irrigation, doubling the relationship's productivity. Crop production from well-fertilised ponds may be twice that from reservoir irrigation alone.
+Tilapia eat many fruits and edible leaves from [[gaias-garden-weeds-pioneer-plants]] and vines, making market gardens and fish ponds natural companions. Pond water is nutrient-rich and benefits gardens as irrigation, doubling the relationship's productivity. [[latitude-effects-on-photosynthesis-and-crop-production]] from well-fertilised ponds may be twice that from reservoir irrigation alone.
 
 ### Edge Planting for Fish Fodder
 Semi-aquatic and bank plants including Nasturtium, Tradescantia, *Dolichos*, and comfrey supply hardy, palatable food to herbivorous fish. In channel cultures, banks planted with these species become a complete food supply. Creating the conditions for yield at the pond itself — through edge planting, marginal vegetation, and invertebrate culture — is always preferable to importing food from elsewhere at great energy cost.
 
 ## The Shallow Water Proportion
 
-Research (Swingle, 1966) proposes that up to 50% of a catfish pond can be devoted to shallows. These shallow areas provide food (primarily shrimp and invertebrates) for the main fish species, not at a cost of reducing fish numbers, but rather at a gain in the energy efficiency needed to feed them. This principle generalises across species and is a key insight for designing productive polyculture systems.
+Research (Swingle, 1966) proposes that up to 50% of a catfish pond can be devoted to shallows. These shallow areas provide food (primarily shrimp and invertebrates) for the main fish species, not at a cost of reducing fish numbers, but rather at a gain in the [[aquaculture-design-principles-and-energy-efficiency]] needed to feed them. This principle generalises across species and is a key insight for designing productive polyculture systems.
 
 ## Background and Context
 
-- Historical development and key contributors
+- [[historical-development-of-mushroom-cultivation]] and key contributors
 - Relationship to broader ecological frameworks
 - Evolution of understanding through research

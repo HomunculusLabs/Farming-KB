@@ -6,7 +6,7 @@ type: concept
 
 # Fodder Trees and Livestock Integration in Permaculture
 
-Integrating trees and livestock is a cornerstone of [[permaculture-design]], combining the productivity of animal systems with the resilience and ecological benefits of tree-based agriculture. Silvopasture—the deliberate integration of trees with livestock grazing—provides fodder, shelter, soil improvement, and diversified income streams from a single parcel of land.
+Integrating trees and livestock is a cornerstone of [[permaculture-design]], combining the productivity of animal systems with the resilience and ecological benefits of tree-based agriculture. Silvopasture—the deliberate integration of trees with [[savory-livestock-grazing-planning]]—provides fodder, shelter, soil improvement, and diversified [[homesteading-income-streams]] from a single parcel of land.
 
 ## Key Fodder Trees
 
@@ -26,13 +26,13 @@ Black locust is a fast-growing, nitrogen-fixing tree producing protein-rich foli
 Leucaena is a tropical leguminous fodder tree with exceptional protein content (up to 25% crude protein in leaves). It is highly productive and palatable to ruminants, though grazing animals require ruminal bacteria adapted to its mimosine content. Leucaena excels in subtropical and tropical silvopastoral systems.
 
 ### Mulberry (*Morus alba*)
-Mulberry leaves are exceptionally high in digestible protein (15–28%) and minerals, making them outstanding fodder for cattle, goats, sheep, rabbits, and poultry. In many Asian integrated farming systems, mulberry is the backbone of sericulture and livestock production alike. Mulberry is fast-growing, coppices well, and tolerates a range of soils.
+Mulberry leaves are exceptionally high in digestible protein (15–28%) and minerals, making them outstanding fodder for cattle, goats, sheep, rabbits, and poultry. In many Asian [[ultra-low-cost-integrated-farming]] systems, mulberry is the backbone of sericulture and livestock production alike. Mulberry is fast-growing, coppices well, and tolerates a range of soils.
 
 ### Poplars (*Populus spp*)
 Poplars provide browse fodder for cattle and sheep, especially valuable in riparian zones. Their fast growth allows regular coppicing, and they serve dual roles as shelterbelts and timber producers. Poplar leaf has reasonable protein content and is readily consumed by livestock.
 
 ### Willows (*Salix spp*)
-Willows offer palatable browse for cattle, sheep, goats, and rabbits, particularly valued in wet areas and along waterways. They provide erosion control, shade, and can be managed by pollarding or coppicing. Willow fodder is especially useful in early spring when other feed is scarce.
+Willows offer palatable browse for cattle, sheep, goats, and rabbits, particularly valued in wet areas and along waterways. They provide [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], shade, and can be managed by pollarding or coppicing. Willow fodder is especially useful in early spring when other feed is scarce.
 
 ### Oak (*Quercus spp*)
 Oak acorns have historically been a major fodder source for pigs, providing high-energy autumn feed in extensive systems. In many European permaculture contexts, dehesa-style oak-pasture systems integrate holm oaks with pig grazing for premium pork production. Oak also provides excellent shade and shelter.
@@ -75,9 +75,9 @@ Effective shelter design integrates fodder production with animal protection:
 
 1. Select fodder species matched to climate, soil, and livestock type.
 2. Plant trees at densities that allow adequate pasture growth beneath the canopy.
-3. Use rotational grazing to prevent over-browsing of young trees.
+3. Use [[comparison-rotational-grazing-vs-set-stocking]] to prevent over-browsing of young trees.
 4. Combine nitrogen-fixing fodder trees with timber or fruit trees for stacked yields.
 5. Design for seasonal fodder gaps—include evergreen species and drought-hardy browse.
 6. Integrate aquatic fodder systems to maximise productive use of water resources.
 7. Plan for multi-species livestock interactions to enhance overall system health.
-8. Maintain genetic diversity within fodder plantings to ensure resilience against pests, disease, and [[macrofungal-fruiting-phenology-climate-variability]].
+8. Maintain [[biodiversity-fungal-genetic-diversity]] within fodder plantings to ensure resilience against pests, disease, and [[macrofungal-fruiting-phenology-climate-variability]].

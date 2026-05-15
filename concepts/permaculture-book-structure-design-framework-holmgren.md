@@ -6,13 +6,13 @@ type: concept
 
 # Permaculture Book Structure and Design Framework (Holmgren)
 
-This page covers the structural and methodological framework of [[david-holmgren]]'s *Permaculture: Principles & Pathways Beyond Sustainability*, including the book's organization, the Permaculture Flower model, [[zone-and-sector-analysis]], and the conceptual tools used for [[permaculture-design]]. The book represents the most advanced systematic presentation of permaculture concepts, structured around the 12 design principles as taught in residential Permaculture Design Courses.
+This page covers the structural and methodological framework of [[david-holmgren]]'s *Permaculture: Principles & [[permaculture-principles-pathways-beyond-sustainability]]*, including the book's organization, the Permaculture Flower model, [[zone-and-sector-analysis]], and the conceptual tools used for [[permaculture-design]]. The book represents the most advanced systematic presentation of permaculture concepts, structured around the 12 design principles as taught in residential Permaculture Design Courses.
 
 ## Book Structure and Purpose
 
 ### Purpose
 
-Holmgren wrote the book to explain permaculture to a wider audience beyond the organic gardening label, targeting activists, designers, teachers, researchers, and students grappling with sustainability issues across diverse fields. The book builds on 25 years of permaculture thinking and action worldwide to provide an evolved picture of the principles that inform permaculture design.
+Holmgren wrote the book to explain permaculture to a wider audience beyond [[geoff-hamilton-the-organic-gardening-companion]] label, targeting activists, designers, teachers, researchers, and students grappling with sustainability issues across diverse fields. The book builds on 25 years of permaculture thinking and action worldwide to provide an evolved picture of the principles that inform permaculture design.
 
 ### Format
 
@@ -33,14 +33,14 @@ Each principle chapter follows a consistent structure:
 ### Table of Contents (Chapter Sequence)
 
 1. Ethical Principles of Permaculture
-2. Observe and Interact
+2. [[holmgren-observe-and-interact-detailed]]
 3. Catch and Store Energy
 4. Obtain a Yield
 5. Apply Self-regulation and Accept Feedback
 6. Use and Value Renewable Resources and Services
 7. Produce No Waste
-8. Design from Patterns to Details
-9. Integrate Rather than Segregate
+8. Design from [[permaculture-design-from-patterns-to-details]]
+9. [[permaculture-integrate-rather-than-segregate]] Segregate
 10. Use Small and Slow Solutions
 11. Use and Value Diversity
 12. Use Edges and Value the Marginal
@@ -114,7 +114,7 @@ The model of large-scale cultural dynamics based on the fossil energy pulse show
 
 ### Action Learning Loop
 
-The action learning cycle — Observe → Reflect → Design → Implement → Observe — is the fundamental process of permaculture practice. It emphasizes iterative, experiential learning rather than theoretical planning.
+The action learning cycle — Observe → Reflect → Design → Implement → Observe — is the fundamental process of permaculture practice. It emphasizes iterative, [[holmgren-principle-observe-interact-experiential-learning-postmodern]] rather than theoretical planning.
 
 ## Design Framework Applications
 

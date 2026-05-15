@@ -43,7 +43,7 @@ Abdalla and Abdel-Fattah (2000) demonstrated significant protective effects of t
 
 ### Glomus intraradices Against Burrowing Nematodes
 
-Elsen et al. (2001) showed that the AM fungus *Glomus intraradices* significantly reduced the reproductive capacity of the burrowing nematode *Radopholus similis* on carrot root tissue. The mycorrhizal fungus suppressed the nematode population by approximately 50%, with statistically significant reductions in juvenile, female, and male nematodes in root tissue and females in the growth medium.
+Elsen et al. (2001) showed that the AM fungus *Glomus intraradices* significantly reduced the reproductive capacity of the burrowing nematode *[[radopholus-similis]]* on carrot root tissue. The mycorrhizal fungus suppressed the nematode population by approximately 50%, with statistically significant reductions in juvenile, female, and male nematodes in root tissue and females in the growth medium.
 
 ### Ectomycorrhizal Protection of Tree Seedlings
 
@@ -51,7 +51,7 @@ Multiple studies have demonstrated ECM protection of tree seedlings:
 
 - *Laccaria laccata* suppressed *Fusarium oxysporum* on Douglas fir seedlings (Sylvia and Sinclair, 1983)
 - The same ECM fungus protected *Pinus banksiana* seedlings from Fusarium (Chakravarty and Hwang, 1991)
-- Four ECM fungi (*Laccaria laccata*, *Hebeloma crustuliniforme*, *H. sinapizans*, and *Paxillus involutus*) protected chestnut seedlings from *Phytophthora cambivora* and *P. cinnamomi* (Branzanti et al., 1999)
+- Four ECM fungi (*Laccaria laccata*, *[[hebeloma-crustuliniforme]]*, *H. sinapizans*, and *[[paxillus-involutus]]*) protected chestnut seedlings from *Phytophthora cambivora* and *P. cinnamomi* (Branzanti et al., 1999)
 
 ## Interactions with Hemiparasitic Plants
 
@@ -59,7 +59,7 @@ The relationship between mycorrhizae and root hemiparasitic plants is complex. S
 
 - AM colonization of annual grass (*Poa annua*) had little effect on plant growth, while hemiparasite infection (*Odontites vulgaris*) significantly reduced host biomass
 - AM status of *P. annua* did not affect the biomass or flower production of the parasitic plant
-- AM colonization of clover (*Trifolium pratense*) greatly increased host plant biomass, but hemiparasite infection (*Rhinanthus serotinus*) had no effect
+- AM colonization of clover (*[[trifolium-pratense]]*) greatly increased host plant biomass, but hemiparasite infection (*Rhinanthus serotinus*) had no effect
 - AM fungi increased parasitic plant biomass and flower production when attached to mycorrhizal clover hosts
 
 These results suggest that improved host performance due to mycorrhizae can inadvertently benefit parasitic plants, highlighting the complexity of multi-species interactions.
@@ -75,11 +75,11 @@ Newsham et al. (1994) demonstrated a fine balance between beneficial mycorrhizal
 
 ## Knowledge Gaps and Open Questions
 
-Much of the documented evidence for mycorrhizal protection against pathogens comes from agricultural ecosystems or forest nursery studies, where host plant diversity is low (usually monospecific crops). Critical unanswered questions include:
+Much of the documented evidence for [[mycorrhizal-protection-against-plant-pathogens]] pathogens comes from agricultural ecosystems or forest nursery studies, where host plant diversity is low (usually monospecific crops). Critical unanswered questions include:
 
 - How do these interactions function in natural ecosystems with diverse plant communities?
 - Has an evolutionary balance been maintained between mycorrhizal and pathogenic fungal functional groups?
-- How much do these interactions contribute to plant fitness and plant community composition?
+- How much do these interactions contribute to plant fitness and [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]?
 - Could the balance shift with plant phenology or changes in environmental conditions, potentially leading to either enhanced growth or significantly reduced growth?
 - Are these interactions a coevolutionary pathway to maintain balance between different functional groups of fungi?
 

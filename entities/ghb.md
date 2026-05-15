@@ -27,7 +27,7 @@ First synthesized in 1874 by Alexander Zaytsev, GHB remained pharmacologically u
 
 The substance has been called "liquid ecstasy" and "G" in recreational contexts. It occupies a unique pharmacological niche, combining stimulant-like effects at low doses with potent sedation at higher doses.
 
-GHB is found naturally in small quantities in wine, beef, citrus fruits, and nearly all living organisms. [[blesching-cannabis-sleep-disorders]] is well-established in clinical trials.
+GHB is found naturally in small quantities in wine, beef, citrus fruits, and nearly all [[savory-living-organisms-as-tools]]. [[blesching-cannabis-sleep-disorders]] is well-established in [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]].
 
 ## Chemical Properties
 
@@ -47,11 +47,11 @@ GHB acts on at least two distinct receptor systems in the brain. It binds to spe
 
 At low doses (10–30 mg/kg), GHB receptor agonism produces mild stimulant and euphoriant effects. At higher doses (30–60 mg/kg), GABA-B receptor activation predominates, producing sedation, muscle relaxation, and eventually unconsciousness.
 
-The biphasic dose-response curve distinguishes GHB from most other sedatives. This stimulant-to-sedative transition explains the narrow therapeutic window that contributes to overdose risk.
+The biphasic dose-response curve distinguishes GHB from most other sedatives. This stimulant-to-sedative transition explains the narrow [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] that contributes to [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]].
 
 Endogenous GHB concentrations in human blood typically range from 0.5 to 4.0 mg/L. Forensic thresholds for GHB-positive samples are generally set above 10 mg/L in blood and 20 mg/L in urine.
 
-Metabolism occurs primarily via GHB dehydrogenase, converting GHB to succinic semialdehyde, then to succinic acid, which enters the Krebs cycle. The elimination half-life is 30–60 minutes.
+Metabolism occurs primarily via GHB dehydrogenase, converting GHB to succinic semialdehyde, then to succinic acid, which enters the [[citric-acid-cycle-tca-krebs-cycle]]. The elimination half-life is 30–60 minutes.
 
 The rapid metabolism makes forensic detection challenging. Blood samples must be collected within 8–12 hours of ingestion for reliable quantification.
 
@@ -79,7 +79,7 @@ Emergency department presentations for GHB toxicity often involve coma with pres
 
 Alexander Zaytsev first synthesized GHB in 1874. Henri Laborit began studying its pharmacology in the early 1960s while researching GABA analogs for anesthetic applications.
 
-During the 1980s, GHB gained popularity among bodybuilders who believed it stimulated growth hormone release. It was also marketed as a dietary supplement for sleep enhancement and weight loss.
+During the 1980s, GHB gained popularity among bodybuilders who believed it stimulated [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] release. It was also marketed as a dietary supplement for sleep enhancement and weight loss.
 
 The U.S. DEA placed GHB in Schedule I of the [[medicinal-mushroom-dietary-supplements]]. Legislation eventually closed these precursor loopholes in most countries.
 

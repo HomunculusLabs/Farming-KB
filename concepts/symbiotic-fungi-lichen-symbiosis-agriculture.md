@@ -49,7 +49,7 @@ While lichens are not directly applied in agriculture, their nitrogen-fixing rol
 - **Soil development**: Lichens build soil fertility on marginal lands that may eventually be brought into production
 - **Pasture improvement**: Lichen-dominated crusts in semi-arid pastures contribute nitrogen
 - **Agroforestry**: Lichens on tree trunks contribute nitrogen through throughfall and litter
-- **Rangeland management**: Biological soil crusts (including lichens) are important in maintaining rangeland productivity
+- **Rangeland management**: [[biological-soil-crusts]] (including lichens) are important in maintaining rangeland productivity
 
 ## Lichens as Bioindicators
 

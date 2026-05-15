@@ -19,7 +19,7 @@ Open-pollinated varieties are genetically stable populations that reproduce true
 - Seeds saved from OP plants will produce offspring similar to the parent generation
 - OP varieties have been developed through generations of selection by farmers and gardeners
 - They exhibit natural genetic variation within defined parameters, providing resilience
-- Solomon provides growing instructions for OP varieties (page 113, 245) and specifically references OP Chinese cabbage (page 316), corn (pages 275, 276, 277), and brassicas
+- Solomon provides growing instructions for OP varieties (page 113, 245) and specifically references OP [[growing-chinese-cabbage]] (page 316), corn (pages 275, 276, 277), and brassicas
 
 ### Hybrid Varieties
 
@@ -27,7 +27,7 @@ Hybrid varieties are produced by crossing two distinct inbred parent lines:
 
 - **F1 hybrids** (first generation) exhibit hybrid vigor (heterosis): uniform growth, high yield, and often disease resistance
 - Seeds saved from F1 hybrids do **not** breed true — the F2 generation segregates into a range of types, most of which are inferior to the F1
-- **History of hybrids** (pages 141-143): Solomon provides a critical historical perspective on how hybrid varieties displaced OP varieties in commercial agriculture, emphasizing what was lost in the transition
+- **History of hybrids** (pages 141-143): Solomon provides a critical [[lemon-cannabis-alchemy-historical-perspective-and-references]] on how hybrid varieties displaced OP varieties in commercial agriculture, emphasizing what was lost in the transition
 - **Hybrid corn** (pages 275, 276): Widely adopted but requires purchasing new seed each year
 - **Hybrid cucurbits** (pages 267, 269): Common in commercial seed catalogs
 - **Hybrid tomatoes** (page 264): Popular but often bred for shipping durability at the expense of flavor and nutritional quality
@@ -62,7 +62,7 @@ Solomon identifies several compelling reasons for home seed production:
 - **Self-pollinating vs. cross-pollinating**: Some crops (tomatoes, lettuce, peas, beans) naturally self-pollinate and require minimal isolation. Others (corn, brassicas, cucurbits, carrots) cross-pollinate readily and need careful management.
 - **Self-sterile varieties** (page 140): Some varieties require cross-pollination with another plant to set viable seed, even within a self-pollinating species.
 - **Population size**: Maintaining adequate genetic diversity requires saving seed from a minimum number of plants (typically 20-50 for most vegetables, more for outbreeding species).
-- **Inbreeding depression** (page 136): Repeatedly saving seed from too few plants causes gradual decline in vigor and yield.
+- **[[cervantes-hybrid-vigor-inbreeding-depression]]** (page 136): Repeatedly saving seed from too few plants causes gradual decline in vigor and yield.
 
 ### Seed Production for Specific Crops
 
@@ -85,8 +85,8 @@ Solomon identifies several compelling reasons for home seed production:
 Solomon provides an insider's view of the commercial seed industry:
 
 - **Commercial seed production** (pages 97-104): Seeds are grown under controlled conditions, often in specific regions chosen for ideal climate, and processed using sophisticated equipment
-- **Germination standards** (pages 101-104, 107, 108): Federal regulations require minimum germination rates for commercially sold seed, but these standards don't guarantee seed quality beyond basic viability
-- **Field germination vs. laboratory germination**: Lab conditions (optimal temperature, moisture, sterility) typically produce higher germination rates than real-world garden conditions
+- **[[seed-germination-standards-and-testing]]** (pages 101-104, 107, 108): Federal regulations require minimum germination rates for commercially sold seed, but these standards don't guarantee seed quality beyond basic viability
+- **Field germination vs. [[solomon-seed-sprouting-conditions-laboratory-germination-technique]]**: Lab conditions (optimal temperature, moisture, sterility) typically produce higher germination rates than real-world garden conditions
 
 ### Ethical Guidelines for Seed Companies
 
@@ -130,7 +130,7 @@ Solomon strongly advocates for gardeners to conduct their own seed trials (pages
 
 ### Seed Trials and Pest Resistance
 
-Seed trials are particularly important for identifying pest-resistant varieties (pages 109, 217-218). A variety that performs poorly in a trial may not be a bad variety — it may simply be poorly suited to your conditions. The goal is to identify the varieties that naturally resist the pests and diseases present in your garden.
+Seed trials are particularly important for identifying pest-resistant varieties (pages 109, 217-218). A variety that performs poorly in a trial may not be a bad variety — it may simply be poorly suited to your conditions. The goal is to identify the varieties that naturally resist the [[mushroom-pests-and-diseases]] present in your garden.
 
 ## Seed Storage (Pages 132-134)
 

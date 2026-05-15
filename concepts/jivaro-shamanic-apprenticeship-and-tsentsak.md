@@ -1,5 +1,5 @@
 ---
-title: Jivaro Shamanic Apprenticeship and Tsentsak
+title: [[jivaro-shamanic-apprenticeship]] and Tsentsak
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
@@ -55,7 +55,7 @@ The fundamental criterion is that the object must be small enough to be swallowe
 
 ## Dual Nature of Tsentsak
 
-A central concept in Jivaro shamanism is that each tsentsak possesses both a **natural** and a **supernatural** aspect:
+A central concept in [[harner-jivaro-shamanism-yage]] is that each tsentsak possesses both a **natural** and a **supernatural** aspect:
 
 - **Natural aspect**: The material object as perceived in ordinary waking consciousness — an insect, a bone fragment, a thorn, a stone
 - **Supernatural aspect**: Revealed only under the influence of natem, the hallucinogenic brew. In this state, the tsentsak manifests as spirit helpers in zoomorphic forms — giant butterflies, jaguars, monkeys, and other powerful beings who actively assist the shaman in his tasks
@@ -78,7 +78,7 @@ Once he successfully acquires new tsentsak, he can reduce his consumption of the
 
 ## The Chemical Door to the Supernatural
 
-The Jivaro shamanic system is inseparable from the use of psychoactive substances, particularly natem (ayahuasca). Harner describes natem as "the chemical door to the otherwise invisible world of the Jivaro shaman." Without it, the supernatural aspects of tsentsak remain completely inaccessible. The entire practice of shamanism — diagnosis, curing, bewitching, defense, and the maintenance of power — depends on the hallucinogenic experience induced by the brew.
+The Jivaro shamanic system is inseparable from the use of [[cultural-evolution-and-psychoactive-substances]], particularly natem (ayahuasca). Harner describes natem as "the chemical door to the otherwise invisible world of the Jivaro shaman." Without it, the supernatural aspects of tsentsak remain completely inaccessible. The entire practice of shamanism — diagnosis, curing, bewitching, defense, and the maintenance of power — depends on the [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]] induced by the brew.
 
 Tobacco juice, while not truly hallucinogenic, produces a narcotized state that is believed necessary to keep one's tsentsak "fed" and alert, ready to repel hostile magical darts. Shamans consume tobacco juice at all hours of the day and night, and never leave home without carrying green tobacco leaves for its preparation.
 
@@ -89,10 +89,10 @@ The Jivaro shamanic system creates a complex web of social relationships:
 - **Shamans are both healers and potential killers**, creating an atmosphere of ambivalence and suspicion
 - **Bewitching is almost always directed at neighbors or fellow tribesmen**, typically to avenge specific offenses against family or friends
 - **The victim is given no indication** that they are being bewitched, lest they seek the services of a curing shaman immediately
-- **Shamans grow weaker over time** and must repeatedly purchase new supplies of tsentsak, creating an ongoing economic dimension to shamanic practice
+- **Shamans grow weaker over time** and must repeatedly purchase new supplies of tsentsak, creating an ongoing economic dimension to [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
 
 The most powerful shamans are those who can afford to repeatedly purchase fresh supplies of tsentsak from other practitioners, creating a hierarchy based partly on material wealth and partly on accumulated supernatural armament.
 
 ## Anthropological Significance
 
-The Jivaro tsentsak system represents one of the most thoroughly documented examples of hallucinogen-based shamanic practice in the anthropological literature. It demonstrates how psychoactive substances serve not merely as tools for inducing altered states of consciousness, but as integral components of a complete supernatural technology — one with its own internal logic, power dynamics, economic systems, and social consequences. The dual-aspect theory of tsentsak (natural/supernatural) provides a sophisticated framework for understanding how hallucinogenic experiences are integrated into a coherent cosmological system.
+The Jivaro tsentsak system represents one of the most thoroughly documented examples of hallucinogen-based shamanic practice in the anthropological literature. It demonstrates how psychoactive substances serve not merely as tools for inducing altered [[mckenna-food-gods-designer-states-of-consciousness]], but as integral components of a complete supernatural technology — one with its own internal logic, power dynamics, economic systems, and social consequences. The dual-aspect theory of tsentsak (natural/supernatural) provides a sophisticated framework for understanding how hallucinogenic experiences are integrated into a coherent cosmological system.

@@ -49,12 +49,12 @@ Beginning foragers sometimes confuse Scleroderma areolatum with edible puffballs
 
 The areolate cracking pattern on the peridium of S. areolatum is a useful diagnostic feature, though this character develops primarily at maturity. Immature specimens may require sectioning to distinguish from true puffballs.
 
-Unlike Calvatia gigantea, which can reach impressive sizes, S. areolatum rarely exceeds 4 cm in diameter. Its small stature combined with its dark gleba makes it one of the easier Scleroderma species to recognize with practice.
+Unlike [[calvatia-gigantea]], which can reach impressive sizes, S. areolatum rarely exceeds 4 cm in diameter. Its small stature combined with its dark gleba makes it one of the easier Scleroderma species to recognize with practice.
 
 ## Overview
 
 Scleroderma Areolatum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -75,7 +75,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Scleroderma Areolatum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -83,13 +83,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for scleroderma areolatum. Climate adaptation
+opportunities for scleroderma areolatum. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -104,7 +104,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 scleroderma areolatum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

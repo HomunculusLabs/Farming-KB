@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Approximately **109 species** across four genera are known to contain psilocybin and/or psilocin: 40 species of *Conocybe*, 20 of *Panaeolus*, 40 of *Psilocybe*, and 9 of *Stropharia*. These species have a cosmopolitan range from the Arctic to the tropics, found on soil, dung, rotting wood, moss, and various organic substrates. The most commonly cultivated species is *[[psilocybe-cubensis]]*, valued for its ease of cultivation, disease resistance, and potency. This guide summarizes key species data and mycelial cultivation techniques.
+Approximately **109 species** across four genera are known to contain psilocybin and/or psilocin: 40 species of *Conocybe*, 20 of *Panaeolus*, 40 of *Psilocybe*, and 9 of *Stropharia*. These species have a cosmopolitan range from the Arctic to the tropics, found on soil, dung, rotting wood, moss, and various organic substrates. The most commonly cultivated species is *[[psilocybe-cubensis]]*, valued for its ease of cultivation, disease resistance, and potency. This guide summarizes key species data and mycelial [[cannabis-sativa-indoor-cultivation-techniques]].
 
 ## Key Species
 
@@ -61,15 +61,15 @@ Approximately **109 species** across four genera are known to contain psilocybin
 | *P. caerulipes* | Decomposing hardwood logs | NY, New England, Ohio, NC | On birch and maple |
 | *P. sylvatica* | Leaf mold, beech wood debris | NY to Michigan, Quebec | Often mistaken for *P. pelliculosa* |
 | *Conocybe cyanopes* | Dense shade, mosses, bog soils | NW USA to Michigan | pH 7–8 sphagnum |
-| *Copelandia cyanescens* | Cow dung, rich soil | Florida, southern states | Spores germinate easily on all agar |
+| *[[copelandia-cyanescens]]* | Cow dung, rich soil | Florida, southern states | Spores germinate easily on all agar |
 | *Panaeolus subalteatus* | Manured lawns, compost, dung | Widespread USA | Optimum on MEA: 86°F |
-| *Panaeolus sphinctrinus* | Cow dung | Temperate worldwide | — |
+| *[[panaeolus-sphinctrinus]]* | Cow dung | Temperate worldwide | — |
 
 ## Mycelial Cultivation
 
 ### The Mycelium
 
-The mycelium is the fibrous underground network of the mushroom. It contains the same active compounds (psilocybin and psilocin) as the carpophores (stem and cap) and can be readily grown in Mason jars in a low-cost medium.
+The mycelium is the fibrous [[teaming-with-microbes-fungi-the-underground-network]] of the mushroom. It contains the same active compounds ([[hplc-analysis-of-psilocybin-and-psilocin]]) as the carpophores (stem and cap) and can be readily grown in Mason jars in a low-cost medium.
 
 ### Pure Culture Technique
 
@@ -121,7 +121,7 @@ Most psilocybin-bearing mushrooms develop a **blue colour** when flesh is expose
 
 ## Legal Status
 
-- Psilocybin and psilocin are Schedule I controlled substances in the US (Title 21, Section I, (C)).
+- Psilocybin and psilocin are Schedule I [[controlled-substances-act-and-psychedelic-research]] in the US (Title 21, Section I, (C)).
 - Only *Psilocybe mexicana* is specifically named in law — many other species were not included due to legislative ignorance.
 - Possession of any psilocybin-bearing mushroom is theoretically equivalent to possessing the alkaloid, but prosecution practices vary.
 

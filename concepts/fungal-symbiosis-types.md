@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, mycorrhizae, symbiosis, ecology, biology, soil, plant-systems, species-profiles, agriculture]
-sources: []
+sources:
+  - "raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"
 ---
 
 # Fungal Symbiosis Types

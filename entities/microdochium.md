@@ -1,0 +1,45 @@
+---
+title: Microdochium spp.
+source: lowenfels-teaming-with-microbes.md
+type: entity
+---
+
+# Microdochium spp.
+
+## Description
+
+*Microdochium* is a genus of fungi that causes pink snow mold (also known as Microdochium patch), a cool-season turfgrass disease. Unlike gray snow mold (*Typhula* spp.), pink snow mold can develop without snow cover and in a wider range of temperatures. In the soil food web framework, *Microdochium* diseases are suppressed by fungally dominated compost teas that establish competitive fungal communities.
+
+## Classification
+
+- **Kingdom:** Fungi
+- **Phylum:** Ascomycota
+- **Class:** Sordariomycetes
+- **Order:** Amphisphaeriales
+- **Family:** Amphisphaeriaceae
+- **Genus:** *Microdochium*
+- **Notable species:** *M. nivale* (pink snow mold / Fusarium patch)
+
+## Key Facts
+
+- Causes pink snow mold (Microdochium patch), a common cool-season turfgrass disease
+- Distinct from gray snow mold (*Typhula* spp.) — pink snow mold does not require snow cover
+- Active in cool, wet conditions (40–60°F / 4–16°C) typical of autumn and early spring
+- Produces pinkish to salmon-colored mycelium on infected grass blades
+- Can be suppressed by fungally dominated compost teas through competitive exclusion
+- Fungal teas establish diverse communities that occupy the ecological niches *Microdochium* would exploit
+- Disease severity increases with extended leaf wetness, poor drainage, and excessive thatch
+- Often occurs alongside other cool-season diseases in poorly managed turf
+
+## Relevance to Cultivation and Mycology
+
+*Microdochium* management through compost tea illustrates biological disease control in cool-season conditions:
+
+- **Cool-temperature fungal activity:** Both *Microdochium* and beneficial fungi remain active at low temperatures, making autumn applications of fungal teas particularly effective
+- **Competitive exclusion:** Diverse fungal communities established by compost tea outcompete *Microdochium* for resources and space
+- **Preventive strategy:** Applying fungally dominated teas in autumn, before conditions favor *Microdochium*, is more effective than reactive treatment
+- **Cultural integration:** Combining compost tea with proper drainage, thatch management, and appropriate mowing height provides comprehensive disease suppression
+
+## Sources
+
+- Lowenfels & Lewis, *Teaming with Microbes*, Chapter 17 (Compost Teas)

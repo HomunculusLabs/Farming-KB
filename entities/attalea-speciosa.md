@@ -10,8 +10,8 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Henderson, A. et al. (1995). Field Guide to the Palms of the Americas. Princeton University Press.
-  - May, P.H. et al. (1985). "Babassu Palm in the Agroforestry Systems of Brazil's Mid-North Region." Agroforestry Systems 3(3).
+  - Henderson, A. et al. (1995). field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas. Princeton University Press.
+  - May, P.H. et al. (1985). "[[babassu-palm]] in the [[agroforestry]] Systems of Brazil's Mid-North Region." Agroforestry Systems 3(3).
   - Lorenzi, H. et al. (2010). Brazilian Flora: Arecaceae (Palms). Instituto Plantarum.
   - Balick, M.J. (1986). "Taxonomy and Ecology of the Babassu Palm." Advances in Economic Botany 3.
 ---
@@ -20,7 +20,7 @@ sources:
 
 Attalea speciosa, commonly known as babassu, is a large, monoecious palm native to the Amazon Basin and transitional forests of Brazil. It is one of the most economically important palm species in [[gadd-fungal-biodegradation-concrete-building-materials]], and role in traditional agroforestry systems.
 
-The species dominates vast areas of secondary forest in the Brazilian states of Maranhão, Piauí, and Tocantins, forming near-monospecific stands called **babassuais** that cover an estimated 180,000 km². These stands arose following deforestation of original rainforest, as babassu thrives in disturbed, fire-affected landscapes.
+The species dominates vast areas of [[pioneering-secondary-forest-and-lantana]] in the Brazilian states of Maranhão, Piauí, and Tocantins, forming near-monospecific stands called **babassuais** that cover an estimated 180,000 km². These stands arose following deforestation of original rainforest, as babassu thrives in disturbed, fire-affected landscapes.
 
 Babassu oil, extracted from the kernels, is rich in lauric acid (44–46%) and closely resembles coconut oil in composition. It has been used traditionally for cooking, soap-making, and lamp fuel, and is increasingly investigated as a biodiesel feedstock.
 
@@ -54,7 +54,7 @@ Fruits are large, ovoid to ellipsoid drupes, 8–15 cm long, occurring in dense 
 
 ## Distribution and Habitat
 
-Babassu is native to the Amazon Basin, extending from eastern Amazonas through Pará, Maranhão, Tocantins, and Piauí in Brazil, with scattered populations in Bolivia and Suriname. Its core distribution centers on the ecotone between Amazon rainforest and the drier Cerrado savanna.
+Babassu is native to the Amazon Basin, extending from eastern Amazonas through Pará, Maranhão, Tocantins, and Piauí in Brazil, with scattered populations in Bolivia and Suriname. Its core distribution centers on the [[ecotone]] between Amazon rainforest and the drier Cerrado savanna.
 
 The species is a disturbance-adapted pioneer that colonizes cleared forest land rapidly, often forming monodominant stands after slash-and-burn agriculture. Its fire-resistant trunk and ability to resprout after burning give it a competitive advantage in frequently disturbed landscapes.
 
@@ -76,6 +76,6 @@ The growing interest in babassu biodiesel has sparked both economic opportunity 
 
 ## Ecology and Conservation
 
-Babassu plays a keystone ecological role in the transitional forests of Maranhão. The dense canopy of babassuais modifies understory microclimate, reducing soil temperature and increasing humidity compared to open pasture.
+Babassu plays a keystone ecological role in the transitional forests of Maranhão. The dense canopy of babassuais modifies understory microclimate, reducing [[soil-temperature]] and increasing humidity compared to open pasture.
 
 Fruits are consumed and dispersed by tapirs, peccaries, agoutis, and large rodents. The hard endocarp protects seeds from most predators, but agoutis are capable of gnawing through it. Seed predation by bruchid beetles (Pachymerus spp.) can destroy 30–60% of seeds before germination.

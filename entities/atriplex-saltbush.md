@@ -42,17 +42,17 @@ However, Mollison warns that emphasis on salt-tolerant species alone "will simpl
 
 ## Source Reference
 
-[[permaculture]]: A Designer's Manual*, Chapter 11 (Dryland Strategies), page 445.
+[[permaculture]]: A Designer's Manual*, Chapter 11 ([[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]), page 445.
 
 ## Practical Applications
 Atriplex Saltbush has several practical applications in sustainable systems.
-Integration with permaculture design principles enhances its utility.
+Integration with [[permaculture-design-principles]] enhances its utility.
 Consideration of local climate and soil conditions is essential.
 Multiple functions can be served within a single system design.
 
 ## Historical Significance
 Atriplex Saltbush has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
 ## Sustainability Considerations
@@ -66,7 +66,7 @@ Long-term ecological health depends on responsible stewardship.
 ## Overview
 
 Atriplex Saltbush represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -87,7 +87,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Atriplex Saltbush finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -95,7 +95,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -116,7 +116,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 atriplex saltbush and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

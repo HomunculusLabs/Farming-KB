@@ -74,7 +74,7 @@ quickly recovers and the cycle begins again.
 
 ## Overview
 
-Natural Farming Rice Barley Clover Method represents an important element within sustainable
+[[natural-farming]] Rice Barley Clover Method represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

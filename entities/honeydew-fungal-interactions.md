@@ -73,7 +73,7 @@ Honeydew-mediated canopy processes have implications for:
 
 ## See Also
 
-- [[endophytic-fungi-hidden-symbionts-within-plants]] — fungal communities on leaf surfaces
+- [[endophytic-fungi]] — fungal communities on leaf surfaces
 - [[beneficial-indigenous-microorganisms]] — bacteria and fungi living on plant surfaces
 - [[fungal-nutrient-cycling-mineral-transformations]] — nutrient dynamics in forest canopies
 - [[biological-pest-control-balance]] — management of aphid populations

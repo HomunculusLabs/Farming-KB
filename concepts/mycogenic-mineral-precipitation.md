@@ -1,5 +1,5 @@
 ---
-title: Mycogenic Mineral Precipitation
+title: [[gadd-mycogenic-mineral-precipitation-secondary-minerals]]
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -14,10 +14,10 @@ Fungi can precipitate a diverse array of **secondary organic and inorganic miner
 
 ### Importance in CO₂ Sequestration
 
-Microbial carbonate precipitation coupled with silicate weathering provides an important **terrestrial CO₂ sink**. Fungi and lichens contribute significantly to this process:
+Microbial [[fungal-calcium-oxalate-and-carbonate-precipitation]] coupled with silicate weathering provides an important **terrestrial CO₂ sink**. Fungi and lichens contribute significantly to this process:
 
-- Calcium carbonate (calcite, CaCO₃) is the most common mycogenic carbonate.
-- Many near-surface limestones (calcretes), calcic and petrocalcic soil horizons are secondarily cemented with calcite and calcium oxalate.
+- [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] (calcite, CaCO₃) is the most common mycogenic carbonate.
+- Many near-surface limestones (calcretes), calcic and petrocalcic [[soil-horizons]] are secondarily cemented with calcite and [[fungal-calcium-oxalate-crystals]].
 - Fungal filaments mineralized with calcite have been reported in limestones and calcareous soils from diverse localities.
 
 ### Calcite Precipitation Pathways
@@ -69,7 +69,7 @@ Fungi produce oxalates with a wide variety of metals: Ca, Cd, Co, Cu, Mn, Sr, Zn
 
 ### Reductive Precipitation
 
-Many fungi can reduce metals and metalloids, precipitating them in their elemental forms:
+Many fungi can reduce [[staycare-fungal-biomethylation-of-metals-and-metalloids]], precipitating them in their elemental forms:
 
 - **Silver (Ag)**: Precipitated as elemental silver, visible as black colouration of colonies.
 - **Tellurium (Te)**: Elemental tellurium precipitated as black deposits.
@@ -112,7 +112,7 @@ Precipitation of mycogenic minerals has important consequences for soil structur
 Mycogenic mineral precipitation has broad implications:
 
 1. **Carbon sequestration**: Carbonate formation provides a long-term CO₂ sink.
-2. **Metal immobilization**: Precipitation transforms mobile toxic metals into chemically inert forms, limiting bioavailability and detoxifying contaminated environments.
+2. **Metal immobilization**: Precipitation transforms mobile toxic metals into chemically inert forms, limiting bioavailability and detoxifying [[singh-fungal-biofilms-in-contaminated-environments]].
 3. **Soil formation**: Mineral precipitation contributes to the cementation and stabilization of developing soils.
 4. **Nutrient cycling**: Oxalate formation influences calcium and phosphate dynamics in ecosystems.
 5. **Bioremediation**: Metal precipitation can be harnessed for treatment of contaminated land and industrial wastes.

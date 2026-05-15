@@ -1,12 +1,12 @@
 ---
-title: Broadscale Soil Improvement and No-Tillage Systems
+title: [[mollison-permaculture-two-broadscale-soil-improvement]] and No-Tillage Systems
 source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
 # Broadscale Soil Improvement and No-Tillage Systems
 
-Soil is the foundation of all permanent agriculture. Mollison opens the soil improvement section with a stark observation: "Bare soil is damaged soil and occurs only where man or introduced animals have interfered with the natural ecological balance." Once bared, soil is susceptible to damage by sun, wind, water, and invasion by flatweeds.
+Soil is the foundation of all [[earthcare-ethics-and-permanent-agriculture]]. Mollison opens the soil improvement section with a stark observation: "Bare soil is damaged soil and occurs only where man or introduced animals have interfered with the natural [[fukuoka-bushman-world-ecological-balance]]." Once bared, soil is susceptible to damage by sun, wind, water, and invasion by flatweeds.
 
 ## Three Approaches to Minimal Soil Loss
 
@@ -45,16 +45,16 @@ The results are consistent:
 
 ### The Fertilizer Question
 
-"Apart from an initial top-dressing of phosphate or grossly deficient trace elements, no further top-dressing is used." When black soil has redeveloped to 9 inches deep, trees and crops can be planted with assured success. For tree crops, the treatment gives permanent rehabilitation.
+"Apart from an initial top-dressing of phosphate or grossly deficient [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]], no further top-dressing is used." When black soil has redeveloped to 9 inches deep, trees and crops can be planted with assured success. For tree crops, the treatment gives permanent rehabilitation.
 
 ## Fukuoka's Alternative: Biological Soil Conditioning
 
-Where Yeomans and Wallace achieve soil restoration with mechanical implements, [[masanobu-fukuoka]] achieves the same results biologically using deep-rooted plants such as Japanese radish and daikon. His system has not been compacted by heavy machinery or domestic stock, so biological aeration suffices.
+Where Yeomans and Wallace achieve soil restoration with mechanical implements, [[masanobu-fukuoka]] achieves the same results biologically using deep-rooted plants such as Japanese radish and daikon. His system has not been compacted by [[jadam-soil-compaction-heavy-machinery]] or domestic stock, so biological aeration suffices.
 
 ### Fukuoka's Four Principles of Growing
 
 1. **No cultivation**: Do not turn the soil over, avoiding injuries that attempt to heal themselves
-2. **No chemical fertilizer or prepared compost**: Let plants and animals that make the soil go to work on the soil
+2. **No [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]] or prepared compost**: Let plants and animals that make the soil go to work on the soil
 3. **No weeding by tillage or herbicide**: Use the weeds; control them by natural means or occasional cutting
 4. **No dependence on chemicals**: Insects, disease, needs, and pests have their own controls—let these operate and assist them
 

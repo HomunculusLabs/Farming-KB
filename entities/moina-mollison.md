@@ -9,7 +9,7 @@ tags: [zooplankton, cladoceran, sewage-treatment, water-purification, permacultu
 
 ## Description
 
-Moina is a genus of small freshwater cladoceran crustaceans (water fleas) that serves as important zooplankton in facultative and aerobic sewage treatment lagoons. Alongside other cladocerans such as Daphnia, Chydorus, and Pleuroxus, Moina feeds on phytoplankton and bacteria, contributing to the biological purification of wastewater through nutrient uptake and biomass conversion.
+Moina is a genus of small freshwater cladoceran crustaceans (water fleas) that serves as important zooplankton in facultative and aerobic sewage treatment lagoons. Alongside other cladocerans such as Daphnia, Chydorus, and Pleuroxus, Moina feeds on phytoplankton and bacteria, contributing to the biological purification of wastewater through [[nutrient-uptake-and-membrane-transport-in-plants]] biomass conversion.
 
 ## Classification
 
@@ -45,13 +45,13 @@ This food web progressively removes nutrients, metals, and organic matter from t
 
 - **Aquaculture**: Moina is a premier live food organism for fish larviculture, making sewage treatment ponds dual-purpose water purification and fish production systems.
 - **Nutrient recovery**: By concentrating dissolved nutrients and metals into harvestable biomass, Moina enables nutrient recovery from waste streams.
-- **Permaculture integration**: Sewage lagoon systems incorporating natural zooplankton populations like Moina exemplify [[tagari-publications]]. Chapter 7: Water.
+- **[[mycological-permaculture-integration]]**: Sewage lagoon systems incorporating natural zooplankton populations like Moina exemplify [[tagari-publications]]. Chapter 7: Water.
 - Hussainy, Melbourne Metropolitan Water Board Publications, 1978.
 
 ## Practical Applications
 
 Moina finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
+from agricultural systems to [[mycorrhizal-fungi-ecological-restoration]] projects.
 Practitioners integrate this knowledge into holistic design frameworks,
 optimizing outcomes through systematic observation and adaptive management.
 
@@ -77,7 +77,7 @@ all influence the optimal approach to implementation.
 ## Overview
 
 Moina Mollison represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -106,7 +106,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 moina mollison and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

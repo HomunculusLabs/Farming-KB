@@ -40,7 +40,7 @@ These mechanisms address the three rate-limiting steps of phosphate uptake by pl
 Although arbuscular mycorrhizae have **limited enzyme expression** compared to ectomycorrhizal and ericoid mycorrhizae, they are capable of producing phosphatase enzymes:
 
 - **Azcón et al. (1976)** and **Singh and Kapoor (1998)** demonstrated phosphatase production by AM fungi
-- **Jayachandran et al. (1992)** provided striking evidence with big bluestem grass (*Andropogon gerardii*):
+- **Jayachandran et al. (1992)** provided striking evidence with big bluestem grass (*[[andropogon-gerardii]]*):
   - **Non-mycorrhizal** plants could access phosphorus from glycerophosphate and adenosine monophosphate, but **not** from phytic acid, RNA, ATP, or CMP
   - With the AM fungus *Glomus etunicatum*, plants could access **all forms** of organic phosphorus
   - Uptake into mycorrhizal plants was **500- to 600-fold higher** than in non-mycorrhizal plants
@@ -51,7 +51,7 @@ The ability of arbuscular mycorrhizae to solubilize phosphate is particularly im
 
 ### Calcifuge vs. Calcicole Adaptation
 
-**Tyler (1994)** demonstrated that calcifuge plant species (e.g., *Carex pilulifera*, *Deschampsia flexuosa*, *Holcus mollis*, *Nardus stricta*, *Veronica officinalis*) cannot grow on limestone soils because of their inability to decouple iron-phosphate complexes. Calcicole species, however, have developed mechanisms for acquiring both P and Fe from these soils:
+**Tyler (1994)** demonstrated that calcifuge plant species (e.g., *Carex pilulifera*, *[[deschampsia-flexuosa]]*, *Holcus mollis*, *Nardus stricta*, *Veronica officinalis*) cannot grow on limestone soils because of their inability to decouple iron-phosphate complexes. Calcicole species, however, have developed mechanisms for acquiring both P and Fe from these soils:
 
 **Ström (1997)** showed that calcicole species produce significantly more organic acids in their rhizosphere, particularly dicarboxylic and tricarboxylic acids:
 
@@ -62,7 +62,7 @@ The ability of arbuscular mycorrhizae to solubilize phosphate is particularly im
 | Calcicole | *Gypsophila* | **40.8** |
 | Calcicole | *Sanguisorba* | **32.6** |
 
-The higher organic acid production by calcicoles helps solubilize phosphate and essential heavy metals from calcium-iron complexes. Mycorrhizal fungi may contribute to this organic acid production (Azcón et al., 1976; Bolan, 1991; Singh and Kapoor, 1998).
+The higher [[staycare-fungal-organic-acid-production-metal-leaching]] by calcicoles helps solubilize phosphate and essential heavy metals from calcium-iron complexes. Mycorrhizal fungi may contribute to this organic acid production (Azcón et al., 1976; Bolan, 1991; Singh and Kapoor, 1998).
 
 ### Enhanced Micronutrient Acquisition
 
@@ -78,7 +78,7 @@ Beyond nutrient acquisition, [[arbuscular-mycorrhizal-fungi]] contribute to **so
 
 - Production of chemicals (glomalin and other glycoproteins) that help develop soil aggregates
 - Mycelial networks that bind soil particles together, maintaining aggregate stability
-- These effects improve soil structure, water retention, and overall fertility (Wright and Upadhyaya, 1998; Jeffries and Barea, 1994)
+- These effects [[query-how-do-fungi-improve-soil-structure]], water retention, and overall fertility (Wright and Upadhyaya, 1998; Jeffries and Barea, 1994)
 
 ## The Bluebell Case Study: Seasonal Dynamics and Fitness
 
@@ -105,7 +105,7 @@ As bluebell bulbs age and descend deeper into the soil:
 **Fitter (1985)** highlighted significant discrepancies between laboratory and field observations of AM function:
 
 - **Sanders and Fitter (1992a, b)** found very little influence of AM association on P uptake or heavy metal acquisition in natural grasses
-- However, a **seasonal benefit** was suggested, occurring during periods when phosphorus availability is low and plant demand is high
+- However, a **seasonal benefit** was suggested, occurring during periods when [[phosphorus-availability]] is low and plant demand is high
 - This seasonal benefit may explain the **maintenance of the mycorrhizal association** in communities where year-round nutritional benefit is not apparent
 
 Potential reasons for field-lab discrepancies include:
@@ -135,4 +135,4 @@ Faunal grazing on AM extraradical hyphae can significantly reduce nutrient acqui
 
 ## Summary
 
-Arbuscular mycorrhizae provide critical ecosystem services in herbaceous communities primarily through enhanced phosphorus acquisition. While they possess more limited enzyme capabilities than ecto- or ericoid mycorrhizae, they compensate through extensive soil exploration, efficient phosphate transport, and contributions to soil structure. Their effects are context-dependent — varying with season, host species identity, soil type, and faunal interactions — and in some natural ecosystems, their benefit may be most pronounced during brief periods of peak nutrient demand rather than as a constant year-round advantage.
+Arbuscular mycorrhizae provide critical ecosystem services in herbaceous communities primarily through enhanced [[arbuscular-mycorrhizal-phosphorus-acquisition]]. While they possess more limited enzyme capabilities than ecto- or ericoid mycorrhizae, they compensate through extensive soil exploration, efficient phosphate transport, and contributions to soil structure. Their effects are context-dependent — varying with season, host species identity, soil type, and faunal interactions — and in some natural ecosystems, their benefit may be most pronounced during brief periods of peak nutrient demand rather than as a constant year-round advantage.

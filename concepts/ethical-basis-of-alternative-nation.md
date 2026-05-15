@@ -1,5 +1,5 @@
 ---
-title: Ethical Basis of an Alternative Nation
+title: Ethical Basis of [[strategies-for-an-alternative-nation]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The concept of an "alternative nation" in permaculture philosophy extends beyond physical geography to encompass a community of people united by shared ethics, regardless of where they live. A people without an agreed-upon common basis to their actions is neither a community nor a nation, whereas a people with a common ethic constitute a nation wherever they reside. The place of habitation is secondary to a shared belief in the establishment of a harmonious world community.
+The concept of an "alternative nation" in [[permaculture-philosophy-and-ethics]] extends beyond physical geography to encompass a community of people united by shared ethics, regardless of where they live. A people without an agreed-upon common basis to their actions is neither a community nor a nation, whereas a people with a common ethic constitute a nation wherever they reside. The place of habitation is secondary to a shared belief in the establishment of a harmonious world community.
 
 ## Core Ethical Principles
 
@@ -46,7 +46,7 @@ Security can be found in the renunciation of ownership over people, money, and r
 
 If an ethical and responsible community can establish a durable, dependable, and waste-free resource base, then leisure time --- time to express individual capacities --- becomes a plentiful resource. However, emphasis on spectator recreation is another way to waste the time gained. The professionalisation of arts, sciences, sport, and even education occurs when spectators replace actors.
 
-The resolution should be to gain time to evolve ever more effective ways to assist systems or people. The very best preparation for security is to teach others the strategies, ethics, and practices of resource management, and to extend aid and education wherever possible.
+The resolution should be to gain time to evolve ever more effective ways to assist systems or people. The very best preparation for security is to teach others the strategies, ethics, and practices of [[savory-holistic-resource-management-animal-impact]], and to extend aid and education wherever possible.
 
 ## Long-Term Perspective
 
@@ -54,7 +54,7 @@ The goal is not to foresee a world free of eroded soils, stripped forests, famin
 
 ## Relevance to Permaculture Design
 
-These ethical foundations underpin all permaculture practice. Every design decision, from zone planning to species selection, reflects these principles of care for the earth, care for people, and fair distribution of surplus. The ethical framework transforms permaculture from a set of agricultural techniques into a comprehensive philosophy for sustainable human settlement and responsible planetary stewardship.
+These [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]] underpin all permaculture practice. Every design decision, from zone planning to species selection, reflects these principles of care for the earth, care for people, and fair distribution of surplus. The ethical framework transforms permaculture from a set of agricultural techniques into a comprehensive philosophy for sustainable human settlement and responsible planetary stewardship.
 
 ## See Also
 
@@ -70,7 +70,7 @@ that work with natural processes rather than against them.
 
 ## Practical Applications
 Community-level implementation involves consensus decision-making,
-resource sharing agreements, and long-term stewardship planning.
+[[mycelial-network-resource-sharing-plants]] agreements, and long-term stewardship planning.
 These approaches emphasize local self-reliance and ecological integrity.
 
 ## Related Movements
@@ -83,4 +83,4 @@ and ongoing monitoring to ensure success and sustainability.
 
 ## Connections to Broader Systems
 This topic connects to wider networks of ecological design, sustainable
-agriculture, and community resilience building strategies.
+agriculture, and [[permaculture-community-resilience]] building strategies.

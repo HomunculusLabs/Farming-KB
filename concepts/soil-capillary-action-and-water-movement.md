@@ -1,7 +1,7 @@
 ---
-title: Soil Capillary Action and Water Movement
+title: Soil [[capillary-action-in-soils]] and Water Movement
 source: gardening-when-it-counts-steve-solomon.md
-author: Steve Solomon
+author: [[steve-solomon-evidence-based-organic-gardening]]
 tags: [soil-science, water-management, physics, capillarity, gardening, irrigation]
 created: 2026-05-11
 ---
@@ -12,7 +12,7 @@ Capillary action is one of the most important yet least understood physical
 phenomena in gardening. It governs how water moves through soil, how seeds
 germinate, and how deeply plant roots can draw moisture without irrigation.
 [[steve-solomon]] emphasizes that understanding capillarity is essential for
-successful dry gardening and efficient water use.
+successful [[dry-gardening-unirrigated-vegetable-production-solomon]] and efficient water use.
 
 ## What Is Capillary Action?
 
@@ -41,7 +41,7 @@ different capillary properties than loose soil.
 
 ## How Deep Does Capillary Water Rise?
 
-The height to which capillary water can rise depends on soil particle size:
+The height to which capillary water can rise depends on soil [[vermiculite-particle-size-water-retention-calibration-pf-tek]]:
 
 - **Coarse sand**: Water rises only 10-30 cm (4-12 inches)
 - **Fine sand**: Water rises 30-60 cm (12-24 inches)
@@ -62,7 +62,7 @@ the germinating embryo.
 
 This is why gardeners create fine seedbeds by raking soil to a crumb-like
 texture. The fine crumbs maximize surface area for capillary contact while
-preserving enough porosity for gas exchange. Solomon notes that overly fine,
+preserving enough porosity for [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]. Solomon notes that overly fine,
 powdery soil can actually hinder germination by creating a surface crust when
 it rains, which blocks both water infiltration and gas exchange.
 
@@ -111,7 +111,7 @@ properties than the soil above and below it:
 - It may block downward water penetration
 - It creates a perched water table above the pan
 - It physically barriers root growth
-- It creates anaerobic conditions just above the pan
+- It creates [[aact-ph-and-anaerobic-conditions]] just above the pan
 
 Solomon recommends using a spade or digging fork to break through this
 compacted layer, rather than relying solely on rototilling which often

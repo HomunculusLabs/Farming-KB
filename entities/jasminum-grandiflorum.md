@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Gruen, M. (2014). "Jasmine: The genus Jasminum." In Medicinal and Aromatic Plants – Industrial Profiles, CRC Press.
-  - Shukla, A. et al. (2008). "permaculture-designers-manual-essential-oil-plants composition of Jasminum grandiflorum." Journal of [[entheogenic-folk-religious-ceremonies]], wedding garlands, and traditional medicine.
+  - Shukla, A. et al. (2008). "[[permaculture-designers-manual-essential-oil-plants]] composition of Jasminum grandiflorum." Journal of [[entheogenic-folk-religious-ceremonies]], wedding garlands, and traditional medicine.
 
 ## Taxonomy and Morphology
 
@@ -41,7 +41,7 @@ The fragrance is exceptionally strong and sweet, particularly in the evening and
 
 Jasmine fragrance is extracted through [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]], because the delicate floral compounds degrade under high heat. The primary commercial products are jasmine concrete (a waxy solid) and jasmine absolute (obtained by washing the concrete with alcohol).
 
-The chemical composition of jasmine absolute is extremely complex, with over 300 identified constituents. Key odor-active compounds include benzyl acetate (15–25%), linalool (5–15%), farnesene (10–15%), indole (2–5%), benzyl benzoate (5–10%), and methyl anthranilate (1–3%).
+The [[chemical-composition-of-hallucinogens]] jasmine absolute is extremely complex, with over 300 identified constituents. Key odor-active compounds include benzyl acetate (15–25%), [[linalool]] (5–15%), farnesene (10–15%), [[indole]] (2–5%), benzyl benzoate (5–10%), and methyl anthranilate (1–3%).
 
 Indole and methyl anthranilate are particularly important for the characteristic jasmine aroma profile. Indole contributes the animalic, narcotic facet at low concentrations, while methyl anthranilate provides a sweet, grape-like nuance. Higher concentrations of indole produce an unpleasant fecal note.
 

@@ -23,7 +23,7 @@ tags: [fungi, ascomycota, pathogens, conifers, spruce, pollution, needle-cast]
 ## Key Facts
 
 ### Disease Cycle and Symptoms
-- Causes **Rhizosphaera needle cast** on spruce, particularly Colorado blue spruce (*Picea pungens*) and Norway spruce (*Picea abies*)
+- Causes **Rhizosphaera needle cast** on spruce, particularly Colorado blue spruce (*[[picea-pungens]]*) and Norway spruce (*Picea abies*)
 - Infection begins on current-year needles in late spring to early summer during wet conditions
 - Initially appears as tiny yellow spots on needles that darken to brown or purplish-brown
 - Infected needles turn brown and drop prematurely, typically beginning with older (inner) needles
@@ -80,7 +80,7 @@ tags: [fungi, ascomycota, pathogens, conifers, spruce, pollution, needle-cast]
 - Rows of black pycnidia erupting through needle stomata are the most reliable diagnostic feature
 - Use a hand lens (10x magnification) to observe the characteristic arrangement of fruiting bodies
 - Distinguished from similar needle diseases (e.g., *Lirula* needle cast, *Chrysomyxa* rust) by pycnidia arrangement and host range
-- Laboratory culture on malt extract agar or potato dextrose agar can confirm identification
+- Laboratory culture on [[malt-extract-agar]] or potato dextrose agar can confirm identification
 
 ### Research Significance
 - Model organism for studying the interaction between abiotic stress (ozone, drought) and biotic disease
@@ -111,3 +111,8 @@ tags: [fungi, ascomycota, pathogens, conifers, spruce, pollution, needle-cast]
 - Atmospheric pollution effects on fungi
 - Needle diseases of conifers
 - Forest health bioindicators
+## See also
+
+- [[fungal-plant-diseases]]
+- [[discula-quercina]]
+- [[sclerophoma-pythiophila]]

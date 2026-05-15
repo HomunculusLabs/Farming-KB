@@ -77,7 +77,6 @@ Environmental changes including habitat loss, climate shifts, and pollution affe
 - [[fungal-decomposition-resource-quality-determinants]]
 - [[fungal-decomposition-enzymes-and-resource-quality]]
 
-
 ## Taxonomic Notes
 
 Morphological and molecular characteristics distinguish this organism from related taxa. Phylogenetic analysis using DNA sequencing has refined classification and revealed evolutionary relationships. Ongoing taxonomic revisions reflect advances in molecular systematics and our growing understanding of fungal biodiversity.

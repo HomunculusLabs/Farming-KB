@@ -80,7 +80,6 @@ Rototilling creates a subtle but serious problem: the bent-over ends of tines co
 
 Vegetables need loose soil to a depth of at least 12 inches. A 4-5 inch tilled depth with a hardpan below is fundamentally inadequate.
 
-
 ## See Also
 
 - [[solomon-on-root-cellaring]]

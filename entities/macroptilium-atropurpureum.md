@@ -36,7 +36,7 @@ Siratro was one of the first tropical legumes commercially developed for pasture
 
 ### Drought-Resilient Forage
 
-The deep taproot system of siratro makes it one of the most drought-tolerant tropical forage legumes. In permaculture systems in seasonally dry tropical areas, it provides reliable forage and ground cover during dry periods when shallow-rooted species have died back. This resilience is particularly valuable in climate-adaptive design for smallholder systems.
+The deep taproot system of siratro makes it one of the most drought-tolerant [[tropical-forage-legumes]]. In permaculture systems in seasonally dry tropical areas, it provides reliable forage and ground cover during dry periods when shallow-rooted species have died back. This resilience is particularly valuable in climate-adaptive design for smallholder systems.
 
 ### Soil Building and Nitrogen Contribution
 

@@ -57,7 +57,7 @@ Cloud forest habitat in southern Mexico has declined by an estimated 50% since t
 
 Cibotium regale functions as a substrate and microhabitat for epiphytic mosses, liverworts, and small orchids that colonize its fibrous trunk. The persistent stipe bases create a humid microenvironment favorable to invertebrate communities.
 
-The golden trunk hairs may deter some herbivores and provide insulation against occasional frost at higher elevations. Spore dispersal is wind-mediated, with peak spore release during the dry season.
+The golden trunk hairs may deter some herbivores and provide insulation against occasional frost at higher elevations. [[spore-dispersal]] is wind-mediated, with peak spore release during the dry season.
 
 The species is slow-growing, adding approximately 3–5 cm of trunk height per year under optimal conditions. Individual plants may live for several decades.
 

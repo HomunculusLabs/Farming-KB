@@ -10,7 +10,7 @@ Mushrooms occupy diverse ecological niches defined by their nutritional strategi
 
 ## Three Modes of Fungal Growth
 
-From an ecological and cultivable perspective, mushrooms grow in three distinctive modes: as **saprophytes**, **parasites**, or in **mycorrhizal associations**.
+From an ecological and cultivable perspective, mushrooms grow in three distinctive modes: as **saprophytes**, **parasites**, or in **[[plants-without-mycorrhizal-associations]]**.
 
 ## Saprophytic Mushrooms: Primary Recyclers
 
@@ -22,7 +22,7 @@ From an ecological and cultivable perspective, mushrooms grow in three distincti
 #### Primary Decomposers
 Characterized by possessing enzymes able to degrade complex macromolecules such as **lignin** and **cellulose**. They colonize decaying logs and tree stumps. Many Oriental [[medicinal-mushrooms]] have their historical origin from such locations:
 - **Lentinus edodes** (Shiitake): Classic primary decomposer of hardwood logs
-- **Trametes versicolor** (Turkey Tail): Common on decaying hardwood
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** (Turkey Tail): Common on decaying hardwood
 - **[[ganoderma-lucidum]]** (Reishi): Found on old plum trees and stumps
 
 #### Secondary Decomposers
@@ -40,10 +40,10 @@ As organic material is extensively broken down, tertiary decomposers grow. These
 True parasitic mushrooms attack living trees causing immense ecological damage and huge financial losses in forestry. Mycelial growth within the tree body can lead to tree death.
 
 ### Facultative Parasitism
-Most parasitic mushrooms can also exist on dead tree material as facultative parasites. **Pleurotus ostreatus** (Oyster mushroom) is a good example—medicinally important yet capable of parasitic growth.
+Most parasitic mushrooms can also exist on dead tree material as facultative parasites. **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]** (Oyster mushroom) is a good example—medicinally important yet capable of parasitic growth.
 
 ### The Largest Living Organism
-American scientists calculated, using DNA measuring technology, that a single pure colony of the parasitic mushroom *Armillaria bulbosa* covered **37 acres, weighed 222,000 lbs**, and had an estimated age of **1,500 years**—and is still growing. "With the exception of certain Sequoia forest trees this is the largest living organism on the planet!"
+American scientists calculated, using DNA measuring technology, that a single pure colony of the parasitic mushroom *[[armillaria-bulbosa]]* covered **37 acres, weighed 222,000 lbs**, and had an estimated age of **1,500 years**—and is still growing. "With the exception of certain Sequoia forest trees this is the largest living organism on the planet!"
 
 ### Spread
 The spread of parasitic mushrooms from tree to tree and through the soil can be quite extensive, forming underground networks connecting multiple trees.
@@ -60,9 +60,9 @@ Mycorrhizal (myco = mushroom, rhizal = roots) mushrooms form symbiotic associati
 ### Important Mycorrhizal Species
 Many of the world's most prized gourmet mushrooms are mycorrhizal:
 - **Truffles** (Tuber spp.)
-- **Matsutake** (Tricholoma matsutake)
+- **Matsutake** ([[tricholoma-matsutake]])
 - **Ceps/Porcini** (Boletus edulis)
-- **Chanterelles** (Cantharellus cibarius)
+- **Chanterelles** ([[cantharellus-cibarius-entity]])
 
 ### Cultivation Challenge
 "Many mycorrhizal mushroom species have been cultured on selected media as saprophytes but others such as the Truffles and the Chanterelles have, so far, defied true axenic, artificial cultivation." A huge commercial market awaits their inevitable cultivation.

@@ -6,7 +6,7 @@ type: concept
 
 # Wildfire and Firestorm Mechanics
 
-[[wildfire]] is one of the most powerful and destructive natural forces affecting landscapes, particularly in arid and semi-arid regions. Understanding the mechanics of wildfire spread and [[firestorm]] development is essential for [[permaculture]] designers working in fire-prone areas.
+[[wildfire]] is one of the most powerful and destructive natural forces affecting landscapes, particularly in arid and semi-arid regions. Understanding the mechanics of [[wildfire-spread-factors-and-firestorm-conditions]] and [[firestorm]] development is essential for [[permaculture]] designers working in fire-prone areas.
 
 ## The Four Critical Factors for Firestorms
 
@@ -92,15 +92,15 @@ Fire causes significant soil nutrient depletion:
 | Magnesium | 25-43% | Very slow |
 | Boron | 35-54% | Very slow |
 
-Fires glow at approximately 650°C and burn fiercely at 1,100-1,400°C under strong winds. At these temperatures, sulphur and nitrogen are volatilized, along with carbon. Phosphorus volatilizes at 774°C and calcium at 1,484°C (at which temperature even cement structures powder). [[humus]] losses of 10-12 cm occur in forest soils, clays lose structure, and mud flows can result. Fires never improve soil status — recovery depends entirely on trace elements brought in by rain or birds, and minerals recycled to topsoil by deep-rooted vegetation.
+Fires glow at approximately 650°C and burn fiercely at 1,100-1,400°C under strong winds. At these temperatures, sulphur and nitrogen are volatilized, along with carbon. Phosphorus volatilizes at 774°C and calcium at 1,484°C (at which temperature even cement structures powder). [[humus]] losses of 10-12 cm occur in [[fire-effect-on-forest-soils-and-nutrient-loss]], clays lose structure, and mud flows can result. Fires never improve soil status — recovery depends entirely on [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]] brought in by rain or birds, and minerals recycled to topsoil by deep-rooted vegetation.
 
 ## Implications for Permaculture Design
 
-The inevitability of wildfire in many biomes means designers must plan for fire survival rather than fire exclusion. Key strategies include:
+The inevitability of wildfire in many biomes means designers must plan for [[personal-fire-survival-and-recovery]] rather than fire exclusion. Key strategies include:
 
 - Designing fuel-reduction mosaics across the landscape
 - Creating fire-resistant settlement zones
-- Understanding fire behavior to inform house siting and building design
+- Understanding fire behavior to inform [[fire-resistant-settlement-design-and-house-siting]] and [[mollison-designers-passive-solar-heating-building-design]]
 - Implementing the Ida and Jean Pain system of chipping dry forest fuels for compost and biogas
 - Developing fire refuges for people, livestock, and wildlife
 - Programming planting sequences that progressively reduce fire risk during the transition from grassland to forest

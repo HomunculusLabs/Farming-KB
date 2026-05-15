@@ -1,12 +1,12 @@
 ---
-title: Medicinal Mushroom Dietary Supplements and Future Development
+title: [[medicinal-mushroom-dietary-supplements]] Supplements and Future Development
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
 # Medicinal Mushroom Dietary Supplements and Future Development
 
-The medicinal mushroom industry has grown into a multibillion-dollar market, with products ranging from dried fruit-body powders to pharmaceutical-grade purified compounds. This concept examines the current state of mushroom dietary supplements, manufacturing approaches, and future directions.
+The medicinal mushroom industry has grown into a multibillion-dollar market, with products ranging from dried fruit-body powders to pharmaceutical-grade purified compounds. This concept examines the current state of mushroom dietary supplements, manufacturing approaches, [[cannabis-microbiome-agricultural-implications-and-future-directions]].
 
 ## Types of Mushroom Dietary Supplements
 
@@ -16,7 +16,7 @@ Four main categories of dietary supplements derived from [[medicinal-mushrooms]]
 1. **Dried fruit-body powders**: Naturally growing mushroom fruit-bodies, dried and pulverized into capsules or tablets
 2. **Cultivated fruit-body products**: Artificially cultivated fruit-body powders, hot water or alcohol extracts, or concentrated extract mixtures
 3. **[[mycelium]] on grain**: Dried and pulverized preparations of combined substrate, mycelium, and mushroom primordia from inoculated semi-solid medium (usually grains)
-4. **Submerged fermentation products**: Biomass or extracts of mycelium or broth harvested from bioreactor liquid culture
+4. **[[cancer-medicinal-mushrooms-submerged-fermentation-production]] products**: Biomass or extracts of mycelium or broth harvested from bioreactor liquid culture
 
 ## Market Size
 
@@ -31,7 +31,7 @@ Four main categories of dietary supplements derived from [[medicinal-mushrooms]]
 "Any compounds that will influence body functions such as blood pressure, immune response etc. are classified as pharmacological agents, and as such will invariably demonstrate toxicity at high dosage levels. Thus, a completely safe pharmacological agent would not have any biological activity."
 
 ### Traditional Use Safety
-"Medicinal mushrooms have been used for traditional medical purposes for long periods of time, in some cases for thousands of years. There are few documented examples of adverse effects to man."
+"[[anti-cancer-polysaccharides-from-medicinal-mushrooms]] have been used for traditional medical purposes for long periods of time, in some cases for thousands of years. There are few documented examples of adverse effects to man."
 
 However, "the safety of all mushroom-derived DSs cannot be guaranteed simply because they have mostly many centuries of usage."
 
@@ -54,7 +54,7 @@ However, "the safety of all mushroom-derived DSs cannot be guaranteed simply bec
 "The logical progression of medicinal mushrooms is the step across to pharmaceutical application as seen with the purified polysaccharides such as Lentinan, PSK etc."
 
 ### US FDA Challenges
-"Botanicals, which should include mushroom nutriceuticals, are complex mixtures that contain many chemical constituents and are marketed as dietary supplements with no regulatory control. The pharmaceutical development of such herbals or nutriceuticals creates major difficulties for the FDA which was originally set up to assess drugs that typically contain only one active ingredient."
+"Botanicals, which should include mushroom nutriceuticals, are complex mixtures that contain many [[guzman-magic-mushrooms-chemical-constituents]] and are marketed as dietary supplements with no regulatory control. The pharmaceutical development of such herbals or nutriceuticals creates major difficulties for the FDA which was originally set up to assess drugs that typically contain only one active ingredient."
 
 ### Anticipated Regulatory Levels
 Three levels of control are anticipated for botanical/mushroom products:
@@ -93,7 +93,7 @@ Mushrooms contain:
 ## Summary: Conclusions and Future Directions
 
 ### Key Conclusions
-1. **Mushroom polysaccharides** (Lentinan, Schizophyllan, PSP, PSK) mediate anti-tumour activity primarily through immune system activation, not direct cytotoxicity
+1. **[[clinical-trials-of-mushroom-polysaccharides-in-cancer-treatment]]** (Lentinan, Schizophyllan, PSP, PSK) mediate anti-tumour activity primarily through immune system activation, not direct cytotoxicity
 2. **T-cell competence** is essential: Both Schizophyllan and Lentinan require functional T-cells for anti-tumour activity
 3. **Some polysaccharides** (Grifron-D) also possess direct cytotoxic properties, inducing apoptosis
 4. **Immune activation** involves cytotoxic macrophages, helper T-cells, NK cells, and T-cell differentiation

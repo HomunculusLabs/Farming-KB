@@ -65,7 +65,7 @@ or use them in different product lines.
 
 Carbon dioxide is non-flammable, non-toxic, chemically inert, and generally
 recognized as safe (GRAS) by the FDA. These properties make it the safest
-industrial extraction solvent available. Unlike butane or propane, CO2 does not
+industrial [[everclear-extraction-solvent]] available. Unlike butane or propane, CO2 does not
 leave residual solvent in the final product — any dissolved CO2 simply
 evaporates at atmospheric pressure. Unlike ethanol, CO2 does not co-extract
 water-soluble compounds like chlorophyll (at appropriate pressures), producing
@@ -81,7 +81,7 @@ effectively extract chlorophyll at standard supercritical pressures, which is
 ## Overview
 
 Supercritical Co2 Cannabis Extraction represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -110,13 +110,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for supercritical co2 cannabis extraction. Climate adaptation
+opportunities for supercritical co2 cannabis extraction. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -130,8 +130,8 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-supercritical co2 cannabis extraction and its applications. Active investigation
-areas include ecological interactions and optimization.
+supercritical co2 [[high-volume-cannabis-extraction-and-fractional-distillation]] its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

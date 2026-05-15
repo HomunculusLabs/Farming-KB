@@ -1,5 +1,5 @@
 ---
-title: Mycelium Network Architecture
+title: Mycelium [[mycelial-network-architecture]]
 created: 2026-04-28
 tags: [mycology], fungal-biology, networks, ecology]
 date: 2026-04-28
@@ -42,9 +42,9 @@ resource, signals propagate through the network to stimulate growth toward
 that resource and suppress exploration in unproductive directions. Research
 using microelectrode arrays has detected electrical potential waves that
 propagate through mycelial networks at speeds of 0.5-2 mm/s, suggesting
-an electrical signaling mechanism in addition to chemical and hydraulic
-signaling. These electrical signals may enable long-distance coordination
-of growth and resource allocation across networks spanning many centimeters
+an [[chamovitz-plant-electrical-signaling-action-potentials]] mechanism in addition to chemical and hydraulic
+signaling. These [[tompkins-plant-electrical-signals]] may enable long-distance coordination
+of growth and [[mycelial-foraging-resource-allocation]] across networks spanning many centimeters
 or meters.
 
 ## Network Resilience
@@ -61,7 +61,7 @@ Studies using graph-theoretic analysis showed that mycelial networks share
 properties with engineered resilient networks, maintaining short path lengths
 and high connectivity even after random edge removal.
 
-Network optimization theory provides a framework for understanding mycelial
+[[biological-network-optimization]] theory provides a framework for understanding mycelial
 architecture. Research by Dan Bebber and colleagues at Oxford University
 applied [[phanerochaete-velutina]]* growing across soil and [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] substrates.
 They found that fungal networks minimize the total length of connections
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mycelium Network Architecture finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,12 +1,12 @@
 ---
-title: Tools and Supplies for Winter Harvest Farming
+title: Tools and Supplies [[us-climate-zones-for-winter-harvest]] Farming
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Tools and Supplies for Winter Harvest Farming
 
-Winter harvest farming on a small commercial scale requires a specific set of tools and supplies that differ significantly from conventional field agriculture. Eliot Coleman's recommended equipment list reflects decades of refinement for the unique demands of year-round vegetable production in cold climates, including specialized seeding, harvesting, cultivation, and protection materials.
+Winter harvest farming on a small commercial scale requires a specific set of tools and supplies that differ significantly from conventional field agriculture. Eliot Coleman's recommended equipment list reflects decades of refinement for the unique demands of year-round [[coleman-french-historical-winter-vegetable-production]] [[query-how-do-i-grow-figs-in-cold-climates]], including specialized seeding, harvesting, cultivation, and protection materials.
 
 ## Essential Hand Tools and Equipment
 
@@ -25,7 +25,7 @@ Winter harvest farming on a small commercial scale requires a specific set of to
 - **Collinear hoe:** An efficient weeding hoe with a blade that moves parallel to the soil surface, minimizing soil disturbance
 - **Wire weeder:** A precision weeding tool that slides just below the soil surface to sever weed roots without disturbing crop roots
 - **Three-tooth cultivator:** For cultivating between rows and around established plants
-- **Right-angle trowel:** A versatile planting and transplanting tool
+- **Right-angle trowel:** A versatile [[solomon-planting-and-transplanting-guide]] tool
 
 ### Pest Management
 - **Propane flame weeder:** For pre-emergent weed control, particularly effective along bed edges and pathways
@@ -96,10 +96,10 @@ A quick-hoops conduit bender for bending metal conduit into hoop shapes was unde
 ## Principles Behind the Tool Selection
 
 Coleman's tool recommendations reflect several core principles:
-- **Efficiency at small scale:** Tools designed for intensive planting on permanent beds, not large-field agriculture
+- **Efficiency at small scale:** Tools designed for [[intensive-planting-spacing]] on permanent beds, not large-field agriculture
 - **Soil preservation:** Tools like the broadfork and tilther that maintain soil structure rather than destroying it
 - **Durability:** Professional-grade tools that justify their cost through years of reliable service
-- **Appropriate technology:** Human-scale tools that don't require large tractors or heavy machinery
+- **[[appropriate-technology]]:** Human-scale tools that don't require large tractors or heavy machinery
 - **Versatility:** Many tools serve multiple purposes across different seasons and crop types
 
 The total investment in specialized tools for a winter harvest operation is modest compared to the revenue potential of year-round fresh vegetable production, making this system accessible to small-scale growers.

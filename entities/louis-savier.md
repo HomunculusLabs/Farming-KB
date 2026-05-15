@@ -7,7 +7,7 @@ tags: [person, market-gardener, french, intensive-cultivation, maraicher]
 
 ## Overview
 
-Louis Savier was a French market gardener (maraicher) who operated a 2.5-acre intensive market garden in Banvilliers, nine miles south of Paris. He continued the classic French tradition of year-round vegetable production well into the late twentieth century, representing one of the last living practitioners of the intensive Parisian maraicher system that peaked between 1850 and 1900. Eliot Coleman visited Savier's garden in 1974 and described it as the single most powerful influence on his development as a market grower.
+Louis Savier was a French market gardener (maraicher) who operated a 2.5-acre intensive market garden in Banvilliers, nine miles south of Paris. He continued the classic French tradition of year-round vegetable production well into the late twentieth century, representing one of the last living practitioners of the intensive [[coleman-parisian-maraicher-system]] that peaked between 1850 and 1900. Eliot Coleman visited Savier's garden in 1974 and described it as the single most powerful influence on his development as a market grower.
 
 ## The Garden at Banvilliers
 
@@ -41,7 +41,7 @@ The visit demonstrated that the theoretical principles Coleman had read about in
 - Quality of crops is achievable through attention to soil health and compost
 - Intensive production on small acreage is commercially viable
 - Year-round production without mechanization is practical
-- Protected cultivation enables harvests in any season
+- [[coleman-protected-cultivation]] enables harvests in any season
 
 This catalyzed Coleman's development of the winter-harvest system at [[four-season-farm]], adapting French intensive principles with modern materials (plastic hoop houses replacing glass frames, floating row cover replacing straw mats).
 
@@ -49,15 +49,15 @@ This catalyzed Coleman's development of the winter-harvest system at [[four-seas
 
 Savier represented one of the last practitioners of an unbroken tradition:
 
-- **1670s-80s**: La Quintinie at Versailles potager develops early season extension
-- **1850-1900**: Golden age of Parisian maraichage
+- **1670s-80s**: La Quintinie at [[coleman-la-quentinie-versailles-potager]] develops early season extension
+- **1850-1900**: Golden age of [[parisian-maraichage]]
 - **Early 1900s**: Decline as urbanization and mechanization transform agriculture
 - **Mid-late 1900s**: A handful of surviving practitioners including Savier
 - **1996**: Savier's retirement marks the effective end of this direct lineage
 
 ## Relevance to Cultivation
 
-Savier's practices are directly relevant to modern small-scale intensive cultivation. He demonstrated that very small acreage can support a viable commercial operation, that year-round production without mechanization is practical, that compost-based fertility sustains intensive production long-term, and that protected cultivation extends harvest through all seasons. These principles translate to mushroom cultivation in protected structures and integrated fungal-vegetable production systems.
+Savier's practices are directly relevant to modern small-scale intensive cultivation. He demonstrated that very small acreage can support a viable commercial operation, that year-round production without mechanization is practical, that compost-based fertility sustains intensive production long-term, and that protected cultivation extends harvest through all seasons. These principles translate to [[mushroom-cultivation-in-kenya]] protected structures and integrated fungal-vegetable production systems.
 
 ## Key Facts
 
@@ -78,7 +78,7 @@ Savier's practices are directly relevant to modern small-scale intensive cultiva
 - Four Season Farm
 - Parisian Maraichage
 - La Quintinie
-- Vincent Gressent
+- [[vincent-gressent]]
 
 ## See Also
 - [[coleman-louis-savier-french-market-garden-modernization|Coleman Louis Savier French Market Garden Modernization]]

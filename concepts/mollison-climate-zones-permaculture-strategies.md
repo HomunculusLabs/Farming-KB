@@ -1,5 +1,5 @@
 ---
-title: Mollison Climate Zones Permaculture Strategies
+title: Mollison Climate Zones [[dryland-permaculture-strategies]]
 created: 2026-04-26
 updated: 2026-04-24
 sources: bill-mollison, bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Course (1981 transcript, Yankee Permaculture, public domain)
@@ -54,7 +54,7 @@ hydrological cycles. Key strategies include:
 - **Terrace and garden systems** on lower slopes with reliable
   moisture
 
-Mollison emphasises that in humid landscapes, the main task is to
+Mollison emphasises that [[keypoint-and-keyline-in-humid-landscapes]], the main task is to
 guide the abundant water through as many productive uses as possible
 before it leaves the site. Forests store enormous quantities of water
 both in soils and in the biomass of trees themselves.
@@ -81,7 +81,7 @@ using salt-tolerant species at the perimeter.
 ## Overview
 
 Mollison Climate Zones Permaculture Strategies represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mollison Climate Zones Permaculture Strategies finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -110,7 +110,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mollison climate zones permaculture strategies and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

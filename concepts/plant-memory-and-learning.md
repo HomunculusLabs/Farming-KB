@@ -76,7 +76,7 @@ simple learning behavior requires sophisticated molecular information
 
 ## Overview
 
-Plant Memory And Learning represents an important element within sustainable
+[[plant-memory]] And Learning represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

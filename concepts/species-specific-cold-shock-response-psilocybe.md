@@ -45,7 +45,7 @@ temperature drop to reach the casing surface.
 
 ## Species That Benefit from Cold Shock
 
-Among the species cultivated on grass seed substrate described in the source, the
+Among the species cultivated on [[grass-seed-substrate]] described in the source, the
 primary beneficiaries of cold shock treatment are the harder-to-fruit strains. These
 are typically strains that show reluctance to pin under standard fruiting conditions,
 failing to form primordia even when the casing layer is fully colonised and humidity

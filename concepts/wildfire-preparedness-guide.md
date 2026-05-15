@@ -1,5 +1,5 @@
 ---
-title: Wildfire Preparedness Guide
+title: Wildfire [[earthquake-preparedness-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Wildfire Preparedness Guide
 
-Wildfires are an escalating threat across North America, driven by decades of fire suppression, climate change, and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
+Wildfires are an escalating threat across [[guzman-psilocybin-mushrooms-north-america]], driven by decades of fire suppression, [[dighton-fungal-responses-climate-change]], and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
 
 ## Understanding Wildfire Risk
 
@@ -26,8 +26,8 @@ Assess your risk using:
 - Historical fire data for your area (CAL FIRE, USFS, local fire agencies)
 - Vegetation type and density on and around your property
 - Slope — fire moves faster uphill (steeper = faster)
-- Prevailing wind patterns during fire season
-- Building materials and construction of your home and outbuildings
+- Prevailing [[wind-patterns-and-beaufort-scale]] during fire season
+- [[gadd-fungal-biodegradation-concrete-building-materials]] and construction of your home and outbuildings
 
 ## Defensible Space
 
@@ -55,7 +55,7 @@ This is the most critical zone. Embers accumulate here and directly threaten the
 - Mow grass to 4 inches maximum
 - Remove all dead plants, leaves, and pine needles
 - Space shrubs at least 2 times their mature height apart
-- Replace highly flammable plants (juniper, arborvitae, ornamental grasses) with fire-resistant species
+- Replace highly flammable plants (juniper, arborvitae, [[ornamental-grasses-guide]]) with fire-resistant species
 - Keep woodpiles and propane tanks in this zone minimum (better at 30+ feet)
 
 ### Zone 3: Extended Zone (30-100 feet)

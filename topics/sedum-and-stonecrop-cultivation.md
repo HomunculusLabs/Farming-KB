@@ -16,7 +16,7 @@ updated: 2026-04-28
 sources:
   - "Stephenson, R. (1994). Sedum: Cultivated Stonecrops. Timber Press. ISBN 978-0881923901."
   - "Ohba, H. (2001). 'A revision of the genus Sedum L. in Japan and its surrounding regions.' Journal of Japanese Botany, 76, 1–180."
-  - "Snodgrass, E.C. & Snodgrass, L.L. (2006). Green Roof Plants: A Resource and Planting Guide. Timber Press. ISBN 978-0881926100."
+  - "Snodgrass, E.C. & Snodgrass, L.L. (2006). [[comparison-green-roof-vs-earth-sheltered]] Plants: A Resource and Planting Guide. Timber Press. ISBN 978-0881926100."
   - "van Breemen, N. (1989). 'Sedum in the traditional architecture of Scandinavia.' Journal of Architectural Botany, 14(2), 87–105."
   - "Gravatt, D. & Martin, C.E. (1992). 'Ecophysiological responses of two varieties of Sedum to water deficits.' Physiologia Plantarum, 84(4), 511–518."
 ---
@@ -25,7 +25,7 @@ sources:
 
 ## Introduction
 
-The genus **Sedum** (family Crassulaceae), commonly known as **stonecrop**, comprises approximately 400–500 species of succulent flowering plants distributed across the Northern Hemisphere, with centers of diversity in Mexico, East Asia, and the Mediterranean basin. The genus name derives from the Latin *sedere* ("to sit"), referring to the way many species appear to sit upon rocks and stony ground. Stonecrops have been cultivated for centuries for their ornamental value, [[guzman-psilocybin-mushrooms-north-america]].
+The genus **Sedum** (family Crassulaceae), commonly known as **stonecrop**, comprises approximately 400–500 species of succulent flowering plants distributed across the Northern Hemisphere, with centers of diversity in Mexico, [[neurotropic-fungi-japan-east-asia-species-cultural-context]], and the Mediterranean basin. The genus name derives from the Latin *sedere* ("to sit"), referring to the way many species appear to sit upon rocks and stony ground. Stonecrops have been cultivated for centuries for their ornamental value, [[guzman-psilocybin-mushrooms-north-america]].
 
 ## Morphology and Growth Habits
 
@@ -67,9 +67,9 @@ Sedum species exhibit remarkable morphological diversity, adapted to their varie
 
 ### Species Profiles
 
-**Sedum spurium** — Native to the Caucasus and northern Iran. Vigorous creeping ground cover with rounded, toothed leaves. Widely cultivated cultivars include 'Dragon's Blood' (red-tinged foliage, deep pink flowers), 'Tricolor' (cream and pink variegated margins), and 'Fuldaglut' (cherry-red foliage). One of the most reliable [[hamilton-autumn-garden-tasks]]. Notable cultivars include 'Autumn Joy', 'Brilliant', 'Meteor', and 'Matrona'.
+**Sedum spurium** — Native to the Caucasus and northern Iran. Vigorous creeping [[fukuoka-citrus-orchard-ground-cover-cultivation]] with rounded, toothed leaves. Widely cultivated cultivars include 'Dragon's Blood' (red-tinged foliage, deep pink flowers), 'Tricolor' (cream and pink variegated margins), and 'Fuldaglut' (cherry-red foliage). One of the most reliable [[hamilton-autumn-garden-tasks]]. Notable cultivars include 'Autumn Joy', 'Brilliant', 'Meteor', and 'Matrona'.
 
-**Sedum acre** — Native to Europe and North Africa. One of the smallest stonecrops, forming tight golden-green mats. Extremely [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] by volume).
+**[[sedum-acre]]** — Native to Europe and North Africa. One of the smallest stonecrops, forming tight golden-green mats. Extremely [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] by volume).
 
 ### Water Needs
 

@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - Guzmán, G., Allen, J.W. & Gartz, J. (2000). "Worldwide global-distribution-of-neurotropic-fungi fungi." Mycotaxon.
+  - Guzmán, G., Allen, J.W. & Gartz, J. (2000). "Worldwide [[global-distribution-of-neurotropic-fungi]] fungi." Mycotaxon.
   - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Gartz, J. (1995). "[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]* by Berkeley and Broome in 1871, it was reclassified into the genus *Copelandia* by Singer in 1951 based on its distinct microscopic features — notably the presence of pleurocystidia (cheilocystidia-like cells on the gill faces), a trait absent in typical *Panaeolus* species. Found primarily in tropical and subtropical regions worldwide, *C. cyanescens* is a coprophilous (dung-inhabiting) species that fruits on the dung of large herbivores. It is among the most potent psilocybin-containing mushrooms known, with [[stamets-psi-psilocybe-azurescens-species-guide]]*. The species is culturally significant in Hawaiian, [[panaeolus-cyanescens-bali-omelette]]* Berk. & Broome (1871), *Coprinus cyanescens* (Berk.) Sacc.
 - **Etymology:** "Cyanescens" refers to the intense blue bruising; type locality: Sri Lanka

@@ -23,7 +23,7 @@ many times as a parent in AutoFem's commercial hybrid breeding programs, it is
 beautiful and valuable in its pure, unhybridized form.
 
 South India occupies a central place in cannabis history. The Indian
-subcontinent has been a center of cannabis cultivation for thousands of years,
+subcontinent has been a center of [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] for thousands of years,
 and South Indian genetics are known to have contributed to some of the most
 celebrated strains in cannabis history. Most notably, South Indian genetics are
 a confirmed component of the original Haze lineage, the sativa-dominant hybrid
@@ -51,7 +51,7 @@ grower or the preservationist, it is part of the strain's authentic character.
 The South Indian produces long, fluffy buds with a moderate trichome coating.
 This is not the dense, resin-caked flower structure prized in contemporary
 commercial cannabis. Instead, the buds are airy and loose, characteristic of
-pure sativas that evolved in humid tropical climates where dense bud
+pure sativas that evolved in humid [[fukuoka-natural-farming-tropical-climates]] where dense bud
 structures would be susceptible to mold and rot. The trichome coverage, while
 moderate by modern standards, is sufficient to produce quality resin.
 
@@ -66,7 +66,7 @@ of a plant that looks natural rather than engineered.
 At harvest, the South Indian landrace presents scents of pine, mint, and
 incense. This aromatic profile is remarkably evocative of its geographic
 origin: the pine and mint suggest the terroir of South Indian hill country,
-while the incense notes connect to the region's ancient traditions of burning
+while the incense notes connect to the region's [[sacred-meal-ancient-traditions]] of burning
 resins and herbs in religious and spiritual practice. The flavor follows the
 aroma, delivering a fresh-tasting, smooth smoke with a hashy exhale that
 lingers pleasantly.
@@ -75,7 +75,7 @@ The Rev specifically praises the smoothness of the smoke and the quality of
 the hashy exhale, noting that these characteristics make the strain enjoyable
 to consume in quantity without throat irritation or harshness. The fresh,
 natural flavor profile distinguishes the South Indian from the often
-artificial-tasting terpene profiles of commercially bred modern strains.
+artificial-tasting [[cannabis-terpene-profiles]] of commercially bred modern strains.
 
 ## Potency and the Zero-Tolerance Phenomenon
 
@@ -87,7 +87,7 @@ concentration, often produce rapid tolerance buildup as the brain's
 endocannabinoid receptors downregulate in response to consistent high-THC
 exposure.
 
-Landrace varieties, by contrast, contain a broader spectrum of cannabinoids
+[[cannabis-sativa-landrace-varieties]], by contrast, contain a broader spectrum of cannabinoids
 and terpenes that modulate the psychoactive experience. This entourage effect
 may explain why pure landraces like the South Indian can deliver consistent
 effects over extended periods of use. The practical implication is significant:
@@ -119,7 +119,7 @@ distributed but often diluted. Maintaining the pure, stabilized landrace
 ensures that the original genetic profile remains available for future
 breeding programs and for growers who value authentic landrace experiences.
 
-South India's historical role in cannabis breeding cannot be overstated. The
+South India's historical role in [[advanced-cannabis-breeding-ibl-strains-hash-making]] cannot be overstated. The
 genetics that produced the original Haze — arguably the most influential
 hybrid in cannabis history — include South Indian parentage. Every modern
 strain that traces its lineage to Haze carries a fragment of this genetic

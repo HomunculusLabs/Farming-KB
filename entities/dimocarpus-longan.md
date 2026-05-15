@@ -13,7 +13,7 @@ sources:
   - Jiang, Y.M. et al. (2002). "Postharvest biology and technology of longan fruit." Food Reviews International, 18(2-3), 151-176.
   - Wall, M.M. (2006). "Ascorbic acid, vitamin A, and mineral composition of banana (Musa sp.) and papaya (Carica papaya) cultivars grown in Hawaii." Journal of Food Composition and Analysis, 19(5), 434-445.
   - Yang, B. et al. (2006). "Anti-inflammatory and immunomodulatory activities of polysaccharides from longan." Journal of Agricultural and Food Chemistry, 54(12), 4294-4299.
-  - Chen, J. & Li, C.Y. (2004). "Chemical composition of longan (Dimocarpus longan Lour.) seed." Journal of Food Lipids, 11(2), 161-170.
+  - Chen, J. & Li, C.Y. (2004). "[[chemical-composition-of-hallucinogens]] longan (Dimocarpus longan Lour.) seed." Journal of Food Lipids, 11(2), 161-170.
   - Zheng, G. et al. (2021). "A review of the phytochemistry and pharmacology of Dimocarpus longan." Frontiers in Pharmacology, 12, 689520.
 ---
 
@@ -25,7 +25,7 @@ Dimocarpus longan, commonly known as longan or dragon's eye, is an evergreen tro
 
 ## Taxonomy and Morphology
 
-**Taxonomic classification:**
+**[[neurotropic-fungi-taxonomic-classification]]:**
 
 - **Kingdom:** Plantae
 - **Order:** Sapindales
@@ -51,7 +51,7 @@ The edible aril is white, translucent, juicy, and sweet, surrounding a single da
 
 The longan aril is primarily composed of water (80–83%), carbohydrates (15–18%), and small amounts of protein and fat. It is a good source of vitamin C (approximately 84 mg/100 g fresh weight), exceeding that of many citrus fruits.
 
-**Mineral content per 100 g fresh aril:** potassium 266 mg, phosphorus 21 mg, calcium 10 mg, magnesium 10 mg, and iron 0.1 mg. The aril contains significant amounts of phenolic compounds, including gallic acid, corilagin, and ellagic acid.
+**Mineral content per 100 g fresh aril:** potassium 266 mg, phosphorus 21 mg, calcium 10 mg, magnesium 10 mg, and iron 0.1 mg. The aril contains significant amounts of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], including gallic acid, corilagin, and ellagic acid.
 
 Longan polysaccharides, extracted from the aril, have demonstrated notable immunomodulatory and antioxidant activities in vitro and in animal models. These water-soluble polysaccharides are a major focus of modern pharmacological research.
 
@@ -68,7 +68,7 @@ Clinical validation remains limited, though a few small human trials have report
 ## Overview
 
 Dimocarpus Longan represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -118,7 +118,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 dimocarpus longan and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

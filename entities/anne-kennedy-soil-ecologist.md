@@ -1,5 +1,5 @@
 ---
-title: Anne Kennedy (Soil Ecologist)
+title: [[anne-kennedy-soil-microbiologist]] (Soil Ecologist)
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: entity
 ---
@@ -26,7 +26,7 @@ agriculture.
 - Conducted detailed studies on how soil microorganisms contribute to the
   decay of dormant weed seeds in agricultural soils
 - Her work is cited by Ingham as one of the primary and almost sole research
-  efforts on this specific mechanism of weed suppression through biology
+  efforts on this specific mechanism of [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]] through biology
 - Research addresses a neglected area: most weed management studies focus on
   herbicide efficacy rather than biological seed decay mechanisms
 - Kennedy's findings connect [[soil-food-web]] health to weed pressure management,
@@ -47,7 +47,7 @@ shift plant species composition through multiple pathways.
 
 However, Ingham notes that Kennedy's mechanism (microbial decay of dormant
 weed seeds) is not the mechanism by which most weed effects have been observed
-in practice. Instead, Ingham considers the alteration of nutrient availability
+in practice. Instead, Ingham considers the alteration of [[chelation-and-nutrient-availability]]
 to be the primary mechanism through which soil biology affects weed populations.
 When beneficial organisms make nutrients available in forms that favor desired
 crop plants over weeds, the competitive balance shifts naturally.
@@ -60,7 +60,7 @@ from replicated studies, though repeated observations tend to lead to practices
 that are effective.
 
 For mushroom cultivators and compost producers, this research underscores the
-importance of maintaining a diverse and active soil microbial community. A
+importance of maintaining a diverse and active [[edaphic-factors-soil-microbial-community-structure]]. A
 healthy food web with robust populations of bacteria, fungi, protozoa, and
 nematodes may not only suppress plant diseases but also contribute to reducing
 weed pressure through multiple biological pathways. The direct decomposition
@@ -71,10 +71,10 @@ Kennedy's work also has implications for understanding the role of the soil
 seed bank in agricultural systems. The seed bank represents a reservoir of weed
 seeds waiting for favorable conditions to germinate. If soil microorganisms can
 be encouraged to decompose these seeds before they germinate, the weed pressure
-in subsequent growing seasons could be significantly reduced without chemical
+in subsequent [[jeavons-climate-adaptation-growing-seasons]] could be significantly reduced without chemical
 intervention. This aligns with Ingham's broader thesis that managing soil
 biology can replace many conventional agricultural inputs including herbicides,
-pesticides, and synthetic fertilizers, provided the full food web is restored.
+pesticides, and [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]], provided the full food web is restored.
 ## Overview
 
 Fundamental concept in agricultural and ecological systems. Understanding this topic provides insight into sustainable management practices and biological processes.

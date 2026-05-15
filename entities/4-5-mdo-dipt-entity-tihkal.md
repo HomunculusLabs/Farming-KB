@@ -60,7 +60,6 @@ The 4,5-methylenedioxy pattern continues to be explored in modern medicinal chem
 
 Shulgin, A. & Shulgin, A. TIHKAL: The Continuation. Transform Press, 1997.
 
-
 ## See Also
 
 - [[4-aco-met]]

@@ -1,6 +1,6 @@
 ---
 title: "Collective Gnosis and Epigenetic Evolution: Symbols, Language, and the End of Biological Evolution"
-source: "Food of the Gods - Terence McKenna"
+source: "Food of the Gods - [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]]"
 topics:
   - epigenetic-evolution
   - symbolic-storage
@@ -37,7 +37,7 @@ genetic variation and natural selection.
 
 ## Libraries, Databases, and the Externalization of Mind
 
-McKenna traced the history of extrasomatic information storage from its origins in oral tradition through the 
+McKenna traced the history of extrasomatic information storage from its origins in [[allegro-religion-prehistory-oral-tradition-etymology]] through the 
 invention of writing, the development of libraries, and the creation of electronic information systems. Each 
 technology represented a quantum leap in the capacity for external memory, and each reduced dependence on individual 
 human minds as primary repositories of knowledge. With writing, information could be preserved with greater accuracy 
@@ -58,7 +58,7 @@ networks and the internet, have created a shared informational environment in wh
 are immediately known and responded to in every other part. This simultaneity has profound implications for human 
 consciousness and social organization. McKenna argued that it creates conditions for a genuine planetary culture—a 
 shared body of knowledge, values, and experiences that transcends national, ethnic, and linguistic boundaries. At the 
-same time, he warned that the homogenizing tendencies of global media could suppress cultural diversity and local 
+same time, he warned that the homogenizing tendencies of global media could suppress [[cultural-diversity-self-reliance-permaculture]] and local 
 knowledge systems representing millennia of accumulated wisdom about specific environments and ways of life.
 
 ## Collective Gnosis and Universal Truth

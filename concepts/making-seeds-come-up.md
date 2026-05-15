@@ -10,9 +10,9 @@ Reliable seed germination outdoors should not be difficult. The only conditions 
 
 ## The Laboratory Standard
 
-The best way to understand seed germination is to look at how a germ lab does it. Laboratory germination is accurate and duplicatable — two different labs testing samples from the same bag of seed should produce the same result. The protocol for each species specifies:
+The best way to understand seed germination is to look at how a germ lab does it. [[solomon-seed-sprouting-conditions-laboratory-germination-technique]] is accurate and duplicatable — two different labs testing samples from the same bag of seed should produce the same result. The protocol for each species specifies:
 
-- **Ideal temperature**: Usually constant, occasionally cycling (16 hours higher, 8 hours lower, mimicking daytime heating and nighttime cooling)
+- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: Usually constant, occasionally cycling (16 hours higher, 8 hours lower, mimicking daytime heating and nighttime cooling)
 - **Moisture level**: Pre-moistened sterile media at a precise level — all surplus water squeezed out
 - **Days allowed**: Each species has a maximum number of days; seeds emerging after this cutoff are considered too weak to survive field conditions
 - **Media type**: Usually sterile blotting paper or fine soil mix
@@ -25,9 +25,9 @@ The batch that germinates quickest also germinates at the highest percentage. Sp
 
 Every time you water, the soil temperature drops, slowing the seed's progress. Worse, wet, cool soil enhances **damping-off** — a fungus disease that invades and kills seedlings before and after emergence. When the stems of tiny seedlings pinch off at the soil line, you are seeing damping-off. This disease does not thrive in dryish soil.
 
-**Powdery mildew** is another moisture-related disease that attacks cucurbits (squash, zucchini, melons, cucumber) in particular. It thrives in damp, cool conditions and can attack cucurbit seedlings before emergence.
+**[[cervantes-powdery-mildew-prevention-treatment]]** is another moisture-related disease that attacks cucurbits (squash, zucchini, melons, cucumber) in particular. It thrives in damp, cool conditions and can attack cucurbit seedlings before emergence.
 
-**Key insight**: It is wise to avoid watering sprouting seeds unless they actually need it.
+**Key insight**: It is wise to avoid watering [[solomon-sprouting-seeds-and-early-season-nutrition]] unless they actually need it.
 
 ### 2. Temperature Too Low
 
@@ -37,7 +37,7 @@ When the soil is too cold, the seedling is slowed while soil-dwelling fungi and 
 
 ### 3. Soil Crusts and Compaction
 
-Crust formation and soil compaction create physical barriers that the fragile emerging shoot cannot push through. The solution is proper seedbed preparation — see [[soil-crust-formation-and-tilth]].
+Crust formation and soil compaction create physical barriers that the fragile emerging shoot cannot push through. The solution is proper [[soil-tilth-and-seedbed-preparation]] — see [[soil-crust-formation-and-tilth]].
 
 ## The Ready-to-Till Moisture Test
 
@@ -96,7 +96,7 @@ For seeds with hard coats or in dry conditions, pre-soaking can speed germinatio
 Rather than sowing all seeds of one crop at once, sow small amounts at regular intervals:
 
 - **Lettuce**: Every 2-3 weeks
-- **Cabbage family**: Every 2 weeks for continuous heads
+- **[[cabbage-family-pests]]**: Every 2 weeks for continuous heads
 - **Root vegetables**: Every 3-4 weeks
 - **Beans**: Every 2-3 weeks until midsummer
 

@@ -1,5 +1,5 @@
 ---
-title: Pulsatile Nutrient Transport in Fungal Mycelial Networks
+title: [[fungal-pulsatile-nutrient-transport-mycelial-networks]] in [[fungal-mycelial-networks-ecosystem-engineers]]
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungal mycelia do not transport nutrients through steady-state diffusion or mass flow alone. Superimposed on net translocation patterns is a strong **pulsatile component**—rhythmic, oscillatory surges of solute movement that are particularly pronounced in corded transport systems. This pulsatile behaviour was first observed using photon-counting scintillation imaging (PCSI) of radiolabelled amino acid analogues (¹⁴C-AIB) in saprotrophic basidiomycetes such as *Phanerochaete velutina*. The discovery of pulsatile transport revealed a layer of dynamic regulation in mycelial resource allocation that had previously been invisible to destructive harvest methods.
+Fungal mycelia do not transport nutrients through steady-state diffusion or mass flow alone. Superimposed on net translocation patterns is a strong **pulsatile component**—rhythmic, oscillatory surges of solute movement that are particularly pronounced in corded transport systems. This pulsatile behaviour was first observed using photon-counting [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]] (PCSI) of radiolabelled amino acid analogues (¹⁴C-AIB) in saprotrophic basidiomycetes such as *[[phanerochaete-velutina]]*. The discovery of pulsatile transport revealed a layer of dynamic regulation in mycelial [[mycelial-foraging-resource-allocation]] that had previously been invisible to destructive harvest methods.
 
 ## Detection and Characterisation
 
@@ -90,5 +90,5 @@ Pulsatile transport has several implications for mycelial biology:
 ## See Also
 
 - [[vacuolar-diffusion-fungal-transport]] — Intracellular vacuolar transport pathways
-- [[fungal-mycelial-network-graph-theory]] — Network topology of corded mycelia
+- [[fungal-mycelial-network-graph-theory]] — [[mycelial-cord-network-topology-graph-theory-bebber]] of corded mycelia
 - [[photon-counting-scintillation-imaging]] — PCSI methodology for mycelial transport studies

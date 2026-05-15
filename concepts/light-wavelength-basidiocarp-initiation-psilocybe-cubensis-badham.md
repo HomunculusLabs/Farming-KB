@@ -71,15 +71,15 @@ the 370-510 nm window observed in P. cubensis.
 ### Coprinus domesticus (Chapman and Fergus, 1973)
 
 Blue-end spectrum light at intensities above 1.5 x 10^4 ergs/cm^2/sec
-induced mature basidiocarp formation. Green, red, and far-red
+induced mature [[light-initiation-basidiocarp-formation]]. Green, red, and far-red
 wavelengths failed to induce initials, consistent with P. cubensis.
 
 ### [[psilocybe-cubensis]]
 
 ## Overview
 
-Light Wavelength Basidiocarp Initiation Psilocybe Cubensis Badham represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+Light Wavelength [[light-basidiocarp-initiation-psilocybe-cubensis-research]] Cubensis Badham represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -108,13 +108,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for light wavelength basidiocarp initiation psilocybe cubensis badham. Climate adaptation
+opportunities for light wavelength basidiocarp initiation psilocybe cubensis badham. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 light wavelength basidiocarp initiation psilocybe cubensis badham and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

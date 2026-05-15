@@ -28,21 +28,21 @@ In heathland soils, nitrogen is overwhelmingly stored in organic forms. Read and
 - Less than **1%** exists as extractable ammonium
 - Only **1–4%** exists as free amino acid N
 
-This distribution means that without mycorrhizal assistance, ericaceous plants would be severely nitrogen-limited. Ericoid mycorrhizal fungi produce **protease enzymes** that hydrolyze proteins and peptides, releasing amino acids and ammonium that can be directly absorbed by the host plant.
+This distribution means that without mycorrhizal assistance, ericaceous plants would be severely nitrogen-limited. [[singh-ericoid-mycorrhizal-fungi-remediation]] produce **protease enzymes** that hydrolyze proteins and peptides, releasing amino acids and ammonium that can be directly absorbed by the host plant.
 
 Key experimental evidence includes:
 
 - **Kerley and Read (1995)** demonstrated that the ericoid mycorrhizal fungus *Hymenoscyphus ericae* can decompose chitin and transfer approximately **40%** of the nitrogen in N-acetylglucosamine to host plants (*Vaccinium macrocarpon* and *Calluna vulgaris*).
-- **Xiao and Berch (1999)** showed that ericoid mycorrhizae of salal (*Gautheria shallon*) — specifically *Oidiodendron maius* and *Acremonium strictum* — can utilize glutamine, glutathione (a peptide), and bovine serum albumin (a protein) as nitrogen sources.
-- In the southern hemisphere, **Chen et al. (2000)** demonstrated that mycorrhizal endophytes of *Woollsia pungens* can degrade glutamine, arginine, and bovine serum albumin.
+- **Xiao and Berch (1999)** showed that ericoid mycorrhizae of salal (*Gautheria shallon*) — specifically *Oidiodendron maius* and *[[acremonium-strictum]]* — can utilize glutamine, glutathione (a peptide), and bovine serum albumin (a protein) as nitrogen sources.
+- In the southern hemisphere, **Chen et al. (2000)** demonstrated that mycorrhizal endophytes of *[[woollsia-pungens]]* can degrade glutamine, arginine, and bovine serum albumin.
 
 ## Phosphorus Acquisition from Organic Sources
 
 Phosphorus in these acidic, organic soils is similarly complexed within organic compounds. Ericoid mycorrhizae produce **phosphatase enzymes** to release phosphate from organic complexes:
 
 - **Pearson and Read (1975)** and **Mitchell and Read (1981)** demonstrated phosphatase production by ericoid mycorrhizal fungi.
-- **Myers and Leake (1996)** showed that *Vaccinium macrocarpon* could access phosphate from **inositol hexaphosphate** (phytic acid), a commonly occurring phosphorus compound in organic soils, as well as both P and N from phosphodiesters derived from nuclei.
-- **Straker and Mitchell (1985)** further characterized phosphatase activity in these systems.
+- **Myers and Leake (1996)** showed that *Vaccinium macrocarpon* could access phosphate from **[[inositol-hexaphosphate]]** (phytic acid), a commonly occurring phosphorus compound in organic soils, as well as both P and N from phosphodiesters derived from nuclei.
+- **Straker and Mitchell (1985)** further characterized [[mycorrhizal-phosphatase-activity-elf97-detection]] in these systems.
 
 ## Heavy Metal Tolerance and Detoxification
 
@@ -74,7 +74,7 @@ The importance of ericoid mycorrhizae in cultivated ericaceous crops (such as bl
 |---|---|---|
 | *Calluna vulgaris* (heather) | *Hymenoscyphus ericae* | Chitin decomposition, N transfer (~40%) |
 | *Vaccinium macrocarpon* (cranberry) | *Hymenoscyphus ericae* | Phytic acid P access, nuclear P and N access |
-| *Gaultheria shallon* (salal) | *Oidiodendron maius*, *Acremonium strictum* | Glutamine, glutathione, BSA utilization |
+| *[[gaultheria-shallon]]* (salal) | *Oidiodendron maius*, *Acremonium strictum* | Glutamine, glutathione, BSA utilization |
 | *Woollsia pungens* | Endophytic fungi | Glutamine, arginine, BSA degradation |
 | *Calluna vulgaris* | Various ericoid fungi | Phenolic/aliphatic acid assimilation, metal complexing |
 

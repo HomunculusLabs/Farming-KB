@@ -5,7 +5,7 @@ type: species
 tags: [beneficial-bacteria, casing-layer, primordia-formation, mushroom-cultivation, gram-negative]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
 
 # Pseudomonas putida

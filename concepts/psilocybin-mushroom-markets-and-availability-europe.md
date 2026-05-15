@@ -51,7 +51,7 @@ Home cultivation represented a major access pathway for mushroom consumers. Grow
 kits — pre-inoculated substrate blocks requiring only humidity and temperature
 control to produce mushrooms — became widely available through both retail and
 online channels. More experienced cultivators used spore syringes with techniques
-like the PF TEK (brown rice flour and vermiculite method) to produce their own
+like the PF TEK ([[brown-rice-flour]] and vermiculite method) to produce their own
 mushrooms from scratch. The relative ease of home cultivation made supply-side
 interdiction significantly more difficult than for most other [[magic-mushroom-prohibition-and-uk-drug-policy]] since they are technically not
 mushrooms, creating a persistent regulatory loophole.

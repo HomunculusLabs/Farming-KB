@@ -11,7 +11,7 @@ created: 2026-05-10
 
 In the early 1960s, a major center for [[european-psycholytic-therapy-1960s-1970s]] model and the Harvard [[metzner-ayahuasca-therapeutic-potential]] in a
 systematic clinical setting. His career trajectory mirrors the broader
-arc of psychedelic research in America, from initial optimism through
+arc of [[controlled-substances-act-and-psychedelic-research]] in America, from initial optimism through
 growing concern to eventual advocacy for strict regulation.
 
 In the early 1960s, Cohen's Southern California practice attracted
@@ -66,7 +66,7 @@ However, this massive dataset was never published in full in the
 peer-reviewed literature of the time. This represents a significant
 lost opportunity, as data from over a thousand sessions could have
 provided invaluable insights into the relationship between altered
-states of consciousness and creative cognition.
+[[mckenna-food-gods-designer-states-of-consciousness]] and creative cognition.
 
 ## The Southern California Context
 
@@ -75,8 +75,8 @@ several regional characteristics that made it fertile ground for
 
 ## Overview
 
-Sidney Cohen Oscar Janiger Hollywood Psychedelic Therapy 1960S represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+Sidney Cohen Oscar [[metzner-cohen-janiger-hollywood-psychedelic-arts-research]] Therapy 1960S represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 sidney cohen oscar janiger hollywood psychedelic therapy 1960s and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

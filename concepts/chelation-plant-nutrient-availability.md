@@ -88,7 +88,7 @@ The Brix reading of plant sap (measured with a refractometer) reflects the total
 ## Key Takeaways
 
 - Chelation is the natural process by which soil organisms make mineral nutrients available to plants
-- The soil food web provides continuous biological chelation through bacterial and fungal metabolites, humic substances, and protozoan nutrient cycling
+- [[the-soil-food-web]] provides continuous biological chelation through bacterial and fungal metabolites, humic substances, and protozoan nutrient cycling
 - Actively aerated compost tea delivers both the organisms and the organic compounds needed for effective chelation
 - Natural chelation is superior to synthetic chelation because it is self-regulating, sustainable, and supports the broader soil ecosystem
 - Chelation supports disease suppression through iron competition and improved plant vigor

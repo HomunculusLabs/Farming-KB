@@ -1,5 +1,5 @@
 ---
-title: Seed Storage and Preservation
+title: Seed [[permaculture-food-storage-and-preservation]]
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -14,7 +14,7 @@ When you account for seeds that don't sprout and for thinning, you often need fa
 
 ### Example: Kohlrabi
 
-Johnny's Selected Seeds sells a mini-packet of kohlrabi (~45 seeds) for $2.85. A thousand seeds of the same variety costs $7.60. If you purchased 1,000 seeds in mini-packets, you'd need eight or nine at $23.75 total — versus $7.60 in bulk. Even if you only use half of 1,000 seeds before they lose viability, it is still cheaper than purchasing three mini-packets containing only 360 seeds.
+Johnny's [[johnnys-selected-seeds]] sells a mini-packet of kohlrabi (~45 seeds) for $2.85. A thousand seeds of the same variety costs $7.60. If you purchased 1,000 seeds in mini-packets, you'd need eight or nine at $23.75 total — versus $7.60 in bulk. Even if you only use half of 1,000 seeds before they lose viability, it is still cheaper than purchasing three mini-packets containing only 360 seeds.
 
 ## Why Seed Dies in Storage
 
@@ -35,7 +35,7 @@ Seed storage life follows a precise mathematical relationship:
 
 ### Standard Conditions
 
-Standard conditions are assumed to be 70°F (21°C) with enough humidity that the seed stabilizes at 13% moisture by weight — which is what usually happens in a temperate climate.
+Standard conditions are assumed to be 70°F (21°C) with enough humidity that the seed stabilizes at 13% moisture by weight — which is what usually happens in a [[permaculture-designers-manual-temperate-climate-design]].
 
 ### Practical Examples
 
@@ -47,7 +47,7 @@ Standard conditions are assumed to be 70°F (21°C) with enough humidity that th
 | Climate-controlled | 10% | 50°F (10°C) | ~16× longer |
 | Worst case (greenhouse) | 15%+ | 85°F+ | < 1 year |
 
-When the author ran Territorial Seed Company, he built a climate-controlled storeroom holding seeds at 50°F (10°C) with 50% relative humidity, so seeds dried to about 10% moisture — seeds lasted roughly four times longer than under standard conditions. Johnny's and Park Seed Company also do this.
+When the author ran [[territorial-seed-company]], he built a climate-controlled storeroom holding seeds at 50°F (10°C) with 50% relative humidity, so seeds dried to about 10% moisture — seeds lasted roughly four times longer than under standard conditions. Johnny's and Park [[seed-company-supplier-reference]] also do this.
 
 ## How to Store Seeds at Home
 
@@ -75,14 +75,14 @@ The second requirement is cool and stable temperature:
 
 ### What NOT to Do
 
-- Don't store seeds in a cardboard box in a steamy greenhouse — they might last less than a year
+- Don't store seeds in a [[cardboard-box-inoculation-hood-draft-prevention-mycology]] in a steamy greenhouse — they might last less than a year
 - Don't leave seed packets in a hot car, on a windowsill, or in direct sunlight
 - Don't store seeds where humidity fluctuates wildly
 
 ## Uncertainty About Purchased Seed
 
 There is always more uncertainty about the storage life of seeds you purchased than those you grew yourself. The seed you buy is new to you, but:
-- For how many years, and under what storage conditions, has it been sitting on some seed-warehouse shelf?
+- For how many years, and under what [[spawn-storage-conditions]], has it been sitting on some seed-warehouse shelf?
 - How much of its potential storage life is left?
 - How good was that seed from the start? Weather may not have cooperated — seed may have failed to fully mature, been rained on while drying, or been grown on infertile soil
 

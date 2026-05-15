@@ -11,7 +11,7 @@ type: concept
 ### Bio-Dynamic Farming and Gardening — Ehrenfried Pfeiffer
 
 Introduced many Western readers to the biodynamic approach developed by Rudolf
-Steiner. Biodynamic agriculture treats the farm as a self-sustaining organism,
+Steiner. [[biodynamic-agriculture-and-steiner]] treats the farm as a self-sustaining organism,
 emphasizing compost preparations, crop rotations, and the relationship between
 soil, plants, and cosmic rhythms. While some principles remain controversial,
 the book's detailed treatment of compost biology and soil microbial life
@@ -49,9 +49,9 @@ yields. Available through the Soil and Health Library.
 
 ### Soil Fertility, Renewal and Preservation — J. I. Rodale
 
-J. I. Rodale was a pioneering advocate of organic farming in the United States.
+J. I. Rodale was a pioneering advocate [[fukuoka-critique-of-organic-farming]] in the United States.
 His writings emphasize organic matter, trace minerals, and biological activity
-in sustaining crop production without reliance on soluble chemical fertilizers.
+in sustaining crop production without reliance on soluble [[cannabis-chemical-fertilizers]].
 
 ---
 
@@ -70,9 +70,9 @@ gardeners to start crops earlier in spring and continue harvesting into autumn.
 
 ### Growing Vegetables West of the Cascades — Steve Solomon
 
-Addresses the unique challenges of maritime Pacific Northwest gardening: cool
+Addresses the unique challenges of maritime [[psilocybin-north-america-pacific-northwest]] gardening: cool
 summers, wet winters, acidic soils, and a relatively short frost-free growing
-season. Covers variety selection, planting calendars, soil amendment strategies,
+season. Covers variety selection, planting calendars, soil [[soil-mineral-management-and-amendment-strategies]],
 and pest management calibrated to the region.
 
 ---
@@ -126,7 +126,7 @@ funded thousands of on-farm research projects across the United States.
 Solomon draws attention to research on the decline in nutritional quality of
 commercially produced vegetables. Modern varieties bred for yield and
 transportability may contain lower concentrations of vitamins and minerals
-compared to older heirloom varieties, reinforcing the case for home food
+compared to older [[cannabis-landrace-and-heirloom-varieties]], reinforcing the case for home food
 production using organic methods that prioritize soil health.
 
 ## Summary

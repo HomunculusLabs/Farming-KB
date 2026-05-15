@@ -1,5 +1,5 @@
 ---
-title: Soil Moisture Monitoring and Field Capacity
+title: [[soil-moisture-monitoring-irrigation-management]] [[mollison-designers-soil-water-storage-and-field-capacity]]
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -38,7 +38,7 @@ Well before soil reaches the temporary wilting point, vegetables — being fragi
 
 ## Modern Vegetables and Water Stress
 
-Most vegetable varieties have been bred over the last 50 years to put less energy into root development and more into producing their edible portions more quickly. This was done to maximize profit in an industrial age of oil-driven irrigation. The result: modern vegetable varieties are even weaker at surviving moisture stresses than their predecessors.
+Most [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] have been bred over the last 50 years to put less energy into [[root-development-and-plant-competition]] more into producing their edible portions more quickly. This was done to maximize profit in an industrial age of oil-driven irrigation. The result: modern vegetable varieties are even weaker at surviving moisture stresses than their predecessors.
 
 **Implication**: Gardeners should try to maintain moisture levels above 70% of field capacity in the top foot (30 cm) of soil. When the top foot has dried to about 60%, bring it back up to capacity.
 
@@ -89,7 +89,7 @@ When estimating moisture loss from reference charts:
 ### Special Cases
 
 - **Seed beds**: Keep surface consistently moist for germination
-- **Recently transplanted seedlings**: Keep root zone moist until established
+- **Recently transplanted seedlings**: Keep [[cervantes-root-zone-heating]] moist until established
 - **High-moisture crops** (celery, lettuce): May need extra irrigation
 - **Drought conditions**: Reduce plant density to stretch available water
 

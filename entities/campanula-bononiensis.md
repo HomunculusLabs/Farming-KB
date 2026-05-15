@@ -64,7 +64,7 @@ Despite its rarity, the species is not globally threatened and is classified as 
 
 **Phenology:** Flowering occurs from June through August, with peak bloom in early July. Seeds ripen in August–September and are dispersed primarily by wind shaking the nodding capsules.
 
-**Life history:** The species behaves as a persistent perennial, with individual plants surviving 5–10 years. The deep taproot allows it to endure summer drought and regenerate after seasonal dieback of above-ground parts.
+**[[fungal-life-history-strategies]]:** The species behaves as a persistent perennial, with individual plants surviving 5–10 years. The deep taproot allows it to endure summer drought and regenerate after seasonal dieback of above-ground parts.
 
 **Cultivation:** Campanula bononiensis is rarely offered in the horticultural trade but can be grown in well-drained, calcareous soil in full sun to light shade. It is suitable for rock gardens, dry borders, and Mediterranean-style plantings.
 

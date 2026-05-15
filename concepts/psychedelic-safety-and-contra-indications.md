@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Safety and Contra-Indications
+title: [[psychedelic-safety-and-harm-reduction]] Contra-Indications
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -35,11 +35,11 @@ Serotonin syndrome is a potentially life-threatening condition caused by excessi
 
 | Condition | Risk | Details |
 |---|---|---|
-| Bipolar disorder (history of mania) | High | Can trigger manic episodes |
+| [[blesching-cannabis-bipolar-disorder]] (history of mania) | High | Can trigger manic episodes |
 | PTSD with dissociative features | High | Re-traumatization risk without proper therapeutic support |
 | Borderline personality disorder | Moderate-High | Emotional instability can be amplified |
-| Epilepsy or seizure disorders | Moderate | LSD lowers seizure threshold |
-| Pregnancy or breastfeeding | High | Unknown fetal effects; avoid all psychoactive substances |
+| Epilepsy or [[cannabis-for-epilepsy-and-seizure-disorders]] | Moderate | LSD lowers seizure threshold |
+| Pregnancy or breastfeeding | High | Unknown fetal effects; avoid all [[cultural-evolution-and-psychoactive-substances]] |
 | Liver disease | Moderate | Impaired metabolism of compounds |
 | Diabetes | Moderate | Appetite changes and altered glucose awareness |
 | Personal/family history of psychosis | High | Elevated risk of psychotic reactions |
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Psychedelic Safety And Contra Indications finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 psychedelic safety and contra indications and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

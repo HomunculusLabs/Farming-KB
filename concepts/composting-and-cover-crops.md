@@ -56,7 +56,7 @@ The highest-quality compost approaches the nutrient density needed to fully supp
 
 - Careful balancing of C/N ratio using measured inputs
 - Inclusion of mineral-rich materials (rock dusts, kelp meal, comfrey)
-- Proper moisture management throughout the process
+- Proper [[mushroom-bed-moisture-management]] throughout the process
 - Adequate aeration through turning or ventilation
 - Complete thermophilic decomposition to stabilize nutrients
 
@@ -75,12 +75,12 @@ Sheet composting is less labor-intensive than pile composting but slower, and th
 
 Compost tea is a liquid extract made by steeping finished compost in water:
 
-- **Aerated compost tea**: Brewed with forced aeration to encourage beneficial microorganism growth
+- **[[actively-aerated-compost-tea]]**: Brewed with forced aeration to encourage beneficial microorganism growth
 - **Non-aerated tea**: Simple steeping, useful primarily as a mild liquid fertilizer
-- **Kelp teas** (pages 24, 161, 220, 236): Add seaweed extract for trace minerals and natural growth stimulants
+- **Kelp teas** (pages 24, 161, 220, 236): Add [[comparison-seaweed-extract-vs-fish-hydrolysate]] for trace minerals and natural growth stimulants
 - **Applications**: Foliar feeding (spraying on leaves), fertigation (applying through irrigation), or direct soil drench
 
-Elaine Ingham's work on soil microbiology (referenced at page 236-237) has advanced understanding of how compost teas can introduce beneficial microbial communities to soil and plant surfaces.
+Elaine Ingham's work on soil microbiology (referenced at page 236-237) has advanced understanding of how compost teas can introduce beneficial [[cannabis-rhizosphere-microbial-communities]] to soil and plant surfaces.
 
 ### Wood Compost (Pages 198, 202)
 
@@ -111,7 +111,7 @@ Manure is one of the most valuable compost ingredients, but different types vary
 
 Cover crops serve multiple simultaneous functions in the garden:
 
-1. **Soil protection**: Prevent erosion from wind and rain during fallow periods
+1. **Soil protection**: [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]] from wind and rain during fallow periods
 2. **Weed suppression**: Dense growth shades out weed seeds and competing vegetation
 3. **Nutrient capture**: Deep-rooted species (like buckwheat) mine leached nutrients from subsoil
 4. **Nitrogen fixation**: Leguminous cover crops (clovers, peas, beans) convert atmospheric nitrogen to plant-available forms through symbiosis with rhizobia bacteria
@@ -121,7 +121,7 @@ Cover crops serve multiple simultaneous functions in the garden:
 
 ### Common Cover Crop Species
 
-- **Buckwheat** (pages 213-214): Fast-growing summer cover; excellent for quick soil improvement; attracts beneficial insects; dies at first frost, leaving easy-to-incorporate residue
+- **Buckwheat** (pages 213-214): Fast-growing summer cover; excellent for quick soil improvement; attracts [[beneficial-insects-and-biological-pest-control]]; dies at first frost, leaving easy-to-incorporate residue
 - **Clovers** (pages 209, 214): Perennial or annual legumes; fix atmospheric nitrogen; low-growing varieties can serve as living mulch
 - **Grass** (page 209, 214): Perennial grass sod can be used as a long-term cover; provides erosion control but may require significant effort to kill before replanting
 

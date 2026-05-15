@@ -1,5 +1,5 @@
 ---
-title: Plastic Bin Fruiting Chamber Mushroom Cultivation
+title: [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] Chamber [[accessible-mushroom-cultivation-for-disabilities]]
 concept_type: technique
 source: Cultivation of fruitbodies and sclerotia on sterilised grass seed
 domain: mycology
@@ -54,13 +54,13 @@ relies entirely on passive exchange through the side holes.
 ## Cold Shock Treatment
 
 For harder-to-fruit strains, a cold shock treatment precedes placement in
-the fruiting chamber. The cased trays are placed in a refrigerator
+the [[fruiting-chamber]]. The cased trays are placed in a refrigerator
 (approximately 4°C) for one night before being transferred to the fruiting
 bins. This temperature drop mimics the natural onset of autumn conditions
 that trigger fruiting in many mushroom species. Not all strains require this
 treatment. Easy-fruiting strains such as the Ecuador variety of Psilocybe
-cubensis will fruit readily without cold shocking. Psilocybe mexicana,
-Psilocybe tampanensis, and Panaeolus subbalteatus do not benefit from cold
+cubensis will fruit readily without cold shocking. [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]],
+[[psilocybe-tampanensis-entity]], and [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] do not benefit from cold
 shock treatment according to the original research. Overuse of cold shock
 on strains that do not require it can slow colonisation and delay fruiting
 rather than accelerate it.
@@ -97,7 +97,7 @@ patterns that differ from the target species.
 
 Elaborate fruiting setups with ultrasonic humidifiers, cool-mist
 impellers, automated foggers, and electronic humidity controllers offer
-precise environmental control but add cost, complexity, and failure
+precise [[cannabis-indoor-growing-environmental-control]] but add cost, complexity, and failure
 points. The simple bin system described here achieves comparable results
 for small-scale cultivation with minimal investment. The passive approach
 is more forgiving of power outages and equipment failures. It also

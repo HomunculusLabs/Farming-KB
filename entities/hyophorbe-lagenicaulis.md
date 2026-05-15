@@ -76,7 +76,7 @@ Warm temperatures above 5 degrees Celsius are essential for survival. The palm i
 
 It is moderately salt-tolerant and performs well in coastal landscapes. Established palms can tolerate brief exposure to salt spray and wind, making them suitable for beachfront plantings. Container-grown specimens require regular fertilization with a balanced palm-specific formula.
 
-Irrigation needs are moderate once established, though consistent moisture promotes faster growth and more pronounced trunk swelling. Drought stress causes leaf tip burn and slows growth significantly. In extreme drought, the palm may abort its newest leaf and enter a state of dormancy until conditions improve.
+Irrigation needs are moderate once established, though consistent moisture promotes faster growth and more pronounced trunk swelling. [[mycorrhizal-biodiversity-drought-stress-response]] causes leaf tip burn and slows growth significantly. In extreme drought, the palm may abort its newest leaf and enter a state of dormancy until conditions improve.
 
 Propagation is by seed, which germinates within 2 to 6 months under warm, humid conditions. Seedlings grow slowly, requiring 3 to 5 years to develop visible trunk swelling in cultivation. Plants begin flowering at approximately 10 to 15 years of age.
 

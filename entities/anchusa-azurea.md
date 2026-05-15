@@ -70,16 +70,16 @@ Plants can be propagated by seed sown in spring or by root cuttings taken in lat
 
 The main cultivar is 'Loddon Royalist', which won the RHS Award of Garden Merit. It produces deeper violet-blue flowers on compact plants reaching 90 cm. Other selections include 'Dropmore' and 'Opal', offering shades from sky-blue to violet.
 
-Plants are relatively short-lived perennials, often declining after 3–4 years. They benefit from being allowed to self-seed, as volunteer seedlings tend to be vigorous. [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions and crown rot in poorly drained soils. Good air circulation and sharp drainage are the most effective preventative measures.
+Plants are relatively short-lived perennials, often declining after 3–4 years. They benefit from being allowed to self-seed, as volunteer seedlings tend to be vigorous. [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions and crown rot in poorly drained soils. Good [[stamets-growing-room-air-circulation-co2-management]] and sharp drainage are the most effective preventative measures.
 
 Anchusa azurea is deer-resistant due to its bristly foliage, making it a useful choice for rural gardens. It is also reported to be rabbit-resistant, though very hungry animals may sample young shoots in spring.
 
 ## Traditional and Medicinal Uses
 
-Anchusa azurea has been used in Mediterranean folk medicine as a demulcent, expectorant, and anti-inflammatory agent. Preparations of the root and leaves were traditionally applied to wounds and skin inflammations.
+Anchusa azurea has been used in Mediterranean [[magical-illness-peruvian-amazon-folk-medicine]] as a demulcent, expectorant, and anti-inflammatory agent. Preparations of the root and leaves were traditionally applied to wounds and skin inflammations.
 
 The genus name Anchusa derives from the Greek "anchousa" (αγχουσα), meaning "paint" or "cosmetic," referring to the use of Anchusa root as a red dye. The roots contain anchusin, a red-brown pigment used historically in cosmetics and fabric dyeing.
 
-Anchusa root was traded as a cheaper substitute for alkanet (Alkanna tinctoria) dye. The dye is fat-soluble and was used to color oils, ointments, and pharmaceutical preparations before synthetic dyes became available.
+Anchusa root was traded as a cheaper substitute for alkanet (Alkanna tinctoria) dye. The dye is fat-soluble and was used to color oils, ointments, and pharmaceutical preparations before [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]] became available.
 
 Modern phytochemical studies have identified pyrrolizidine alkaloids in Anchusa azurea, including intermedine and lycopsamine. These compounds are hepatotoxic and limit internal use of the plant. External applications in traditional medicine are considered lower risk.

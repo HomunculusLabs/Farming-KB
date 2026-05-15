@@ -83,7 +83,7 @@ nematodes of both plants and livestock.
 - Manueli et al. (1999) found reduced fungal recovery from feces of animals in
   tropical conditions, suggesting geographic limits to biocontrol efficacy.
 - Research into *Arthrobotrys* contributes to the broader field of using fungal
-  biological control agents in integrated pest management (IPM) programs.
+  biological control agents in [[integrated-pest-management]] (IPM) programs.
 
 ## Sources
 
@@ -94,3 +94,8 @@ nematodes of both plants and livestock.
 - Viaene, N., Abawi, G. S. (1998). Fungal parasites of *Meloidogyne*.
 - Manueli, P. R. et al. (1999). Nematophagous fungi in tropical conditions.
 - Dighton, J. *Fungi in Ecosystem Processes*. Chapter 5.
+## See also
+
+- [[nematophthora-gynophial]]
+- [[monacrosporium]]
+- [[verticillium-chlamydosporium]]

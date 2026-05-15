@@ -9,7 +9,7 @@ sources: []
 
 # Extreme Heat Preparedness
 
-Extreme heat is the deadliest weather-related hazard in the United States, causing more fatalities than hurricanes, tornadoes, floods, and earthquakes combined. Homesteaders face unique heat risks due to outdoor physical labor, limited access to cooling infrastructure, and the need to care for livestock and crops.
+Extreme heat is the deadliest weather-related hazard in the [[dmt-containing-plants-united-states-halpern]], causing more fatalities than hurricanes, tornadoes, floods, and earthquakes combined. Homesteaders face unique heat risks due to outdoor physical labor, limited access to cooling infrastructure, and the need to care for livestock and crops.
 
 ## Understanding Heat Risk
 
@@ -73,7 +73,7 @@ Dehydration is the primary driver of heat illness. Thirst is not a reliable indi
 
 **Pregnant women:** Core temperature is naturally elevated. Dehydration increases risk of preterm labor.
 
-**People with chronic conditions:** Heart disease, diabetes, obesity, and respiratory conditions increase heat vulnerability.
+**People with chronic conditions:** [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]], diabetes, obesity, and [[cannabis-respiratory-conditions]] increase heat vulnerability.
 
 ## Livestock Care During Extreme Heat
 
@@ -83,7 +83,7 @@ Livestock suffer severely during heat waves because they cannot escape condition
 - Provide continuous access to shade — natural or constructed
 - Ensure unlimited access to cool, clean water — consumption doubles or triples
 - Check water sources multiple times daily
-- Add electrolytes to water if animals show heat stress
+- Add electrolytes to water if animals show [[heat-stress-cannabis]]
 - Avoid handling, transporting, or working livestock during peak heat
 - Ensure adequate ventilation in all animal shelters
 
@@ -105,7 +105,7 @@ Livestock suffer severely during heat waves because they cannot escape condition
 
 ## Crops and Gardens
 
-- Mulch heavily around all plants to retain moisture and reduce soil temperature
+- Mulch heavily around all plants to retain moisture and reduce [[soil-temperature]]
 - Water deeply in early morning — avoid midday watering
 - Use shade cloth (30-50% block) over sensitive crops
 - Harvest ripe produce promptly — heat causes rapid spoilage
@@ -119,7 +119,7 @@ Livestock suffer severely during heat waves because they cannot escape condition
 ## Related Concepts
 
 - safety — General safety and emergency preparedness
-- animal husbandry — Routine livestock care and management
+- [[holzer-natural-animal-husbandry]] — Routine livestock care and management
 - livestock health — Livestock health monitoring during stress events
 - [[water-management]] — Water supply and irrigation during drought and heat
 

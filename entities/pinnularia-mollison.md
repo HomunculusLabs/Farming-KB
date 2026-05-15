@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Pinnularia is a genus of pennate (bilaterally symmetrical) freshwater diatoms recognized by their elongated, naviculoid (boat-shaped) frustules with prominent longitudinal ribs (raphe). Mollison lists Pinnularia as one of the typical diatom organisms present in open sewage treatment ponds, contributing to biological wastewater processing.
+Pinnularia is a genus of pennate (bilaterally symmetrical) freshwater diatoms recognized by their elongated, naviculoid (boat-shaped) frustules with prominent longitudinal ribs (raphe). Mollison lists Pinnularia as one of the typical diatom organisms present in open sewage treatment ponds, contributing to [[biological-wastewater-treatment]] processing.
 
 ## Classification
 
@@ -40,14 +40,14 @@ Mollison includes Pinnularia among the typical organisms in faculative and aerob
 
 ## Relevance to Cultivation and Mycology
 
-- **Constructed wetlands and reed beds**: Diatoms like Pinnularia contribute to biofilm communities on substrate surfaces, enhancing filtration and nutrient removal.
+- **[[constructed-wetlands-and-ecological-wastewater-treatment]] reed beds**: Diatoms like Pinnularia contribute to biofilm communities on substrate surfaces, enhancing filtration and nutrient removal.
 - **Water quality assessment**: Pinnularia species are used in bioassessment protocols to evaluate freshwater ecosystem health.
 - **Integrated systems**: In permaculture designs incorporating aquaculture, diatom populations support the food chains that sustain fish and other aquatic organisms.
 - **Soil-water interfaces**: Diatoms at the soil-water interface in flooded systems contribute to nutrient cycling relevant to mycorrhizal and microbial soil communities.
 
 ## Historical Background
 
-The study of pinnularia has evolved through decades of scientific research
+The study of pinnularia has evolved through decades of [[psilocybin-isolation-and-early-scientific-research]]
 and practical experimentation. Early observations by naturalists and agricultural
 pioneers laid the groundwork for modern understanding, while contemporary
 research continues to refine techniques and applications.
@@ -71,7 +71,7 @@ Pinnularia prefers clean to moderately polluted waters and is sensitive to heavy
 ## Overview
 
 Pinnularia Mollison represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pinnularia mollison and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

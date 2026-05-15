@@ -62,7 +62,7 @@ The hardiness zone concept reinforces Mollison's broader point that **climatic a
 - Understanding enables more effective system design
 
 ## Practical Applications
-- Applied in permaculture design and sustainable agriculture
+- Applied in [[permaculture-design]] and sustainable agriculture
 - Contributes to resource management strategies
 - Used in ecological restoration and conservation
 - Supports decision-making in land-use planning

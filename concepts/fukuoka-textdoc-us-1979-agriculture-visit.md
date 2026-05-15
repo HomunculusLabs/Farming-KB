@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Textdoc Us 1979 Agriculture Visit
+title: [[fukuoka-textdoc-absence-no-fertilizer-tests]] Us 1979 Agriculture Visit
 source: administrator-[[microsoft-word]]-fukuoka-textdoc.md
 author: [[fukuoka-descartes-western-philosophy-nature]] and that scientific
 agriculture was leading humanity toward an abyss.
@@ -38,7 +38,7 @@ farmer or the consumer, but only the middlemen and energy producers.
 
 ## Fragility of Commercial Monoculture
 
-To illustrate just how fragile commercial agriculture is with its large-scale,
+To illustrate just how fragile [[night-break-photoperiodism-manipulation-commercial-agriculture]] is with its large-scale,
 subcontractor-type monoculture farming, Fukuoka pointed to the comparison between
 American and Japanese farm economics. U.S. farmers working 500 to 700 acres have
 smaller net incomes than Japanese farmers on 3 to 5 acres. Despite the enormous
@@ -99,13 +99,13 @@ period of contraction and convergence as man sought to improve his spiritual lif
 By 1979, he acknowledged that he had been wrong—the expansion had continued
 unabated.
 
-He noted that even organic farming, which had come into its own with the pollution
+He noted that even [[coleman-deep-organic-farming]], which had come into its own with the pollution
 problem, only served as a temporary stopgap, a brief respite. Being essentially a
-rehashing of the animal-based traditional farming of the past, and being part and
+rehashing of the animal-based [[jadam-nutrient-cycling-traditional-farming-mineral-science]] of the past, and being part and
 parcel [[fukuoka-critique-of-scientific-agriculture]] to begin with, organic farming would eventually
-be swallowed whole and assimilated by scientific agriculture. The only true
+be swallowed whole and assimilated by [[critique-of-scientific-agriculture]]. The only true
 alternative, in Fukuoka's view, was the complete reorientation of agriculture
-toward natural farming based on the philosophy of Mu.
+toward [[beneficial-indigenous-microorganisms-natural-farming]] based on the philosophy of Mu.
 
 ## Global Significance
 

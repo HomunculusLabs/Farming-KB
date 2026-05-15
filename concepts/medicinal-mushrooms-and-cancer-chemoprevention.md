@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushrooms and Cancer Chemoprevention
+title: [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] Cancer Chemoprevention
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
@@ -11,13 +11,13 @@ Beyond treating existing cancers, [[medicinal-mushrooms]] show significant poten
 ## Mushrooms as the First True Functional Foods
 
 ### Historical Context
-"The very considerable historical evidence with edible medicinal mushrooms would strongly suggest that they are the very first truly functional foods."
+"The very considerable [[european-witches-flying-ointment-historical-evidence]] with edible medicinal mushrooms would strongly suggest that they are the very first truly functional foods."
 
 ### Analogy with Phytochemicals
 "It is tempting to draw an analogy between the medicinal/edible mushrooms, with their proven medicinal properties when applied in purified and crude concentrate forms, and the anticancer phytochemicals of fruit and vegetables."
 
 ### The Consumption Gap
-"It is perhaps unlikely that there will be a major increase in fresh or processed medicinal mushroom consumption in the UK in line with Asian culinary practice." However, dietary supplements in the form of capsules or elixirs can bridge this gap.
+"It is perhaps unlikely that there will be a major increase in fresh or processed medicinal mushroom consumption in the UK in line with Asian culinary practice." However, [[medicinal-mushroom-dietary-supplements]] in the form of capsules or elixirs can bridge this gap.
 
 ## Epidemiological Evidence
 
@@ -86,7 +86,7 @@ Mushroom polysaccharides modulate these cytokine networks to enhance anti-tumour
 
 ### Primary Prevention (Before Tumour Formation)
 1. **Immune surveillance enhancement**: Strengthened innate immunity detects and eliminates transformed cells before tumour establishment
-2. **Antioxidant protection**: Mushroom compounds scavenge reactive oxygen species that cause DNA damage
+2. **Antioxidant protection**: Mushroom compounds scavenge [[reactive-oxygen-species-and-oxidative-stress]] that cause DNA damage
 3. **Anti-inflammatory effects**: Reduced chronic inflammation, a known cancer risk factor
 4. **Antiviral activity**: Protection against oncogenic viruses (HIV, HBV, HPV, EBV)
 
@@ -107,11 +107,11 @@ Mushroom polysaccharides modulate these cytokine networks to enhance anti-tumour
 ### Key Mushroom Species for Prevention
 | Mushroom | Prevention Evidence |
 |----------|-------------------|
-| **Flammulina velutipes** (Enoki) | Associated with lower cancer death rates in Japanese workers |
+| **[[enoki-mushroom-flammulina-velutipes]]** (Enoki) | Associated with lower cancer death rates in Japanese workers |
 | **Lentinus edodes** (Shiitake) | Antioxidant, antiviral, immune-enhancing |
 | **[[ganoderma-lucidum]]** (Reishi) | Comprehensive immunomodulation, antioxidant |
 | **[[pleurotus-ostreatus]]** (Oyster) | Cholesterol-lowering, immune-enhancing |
-| **Grifola frondosa** (Maitake) | Immune activation, anti-metastatic |
+| **[[grifola-frondosa]]** (Maitake) | Immune activation, anti-metastatic |
 
 ## Future Directions
 

@@ -1,7 +1,7 @@
 ---
-title: "European Witchcraft and Psychoactive Plants: Thornapple, Mandrake, and Nightshade"
+title: "[[european-witchcraft-hallucinogenic-plants]] and Psychoactive Plants: Thornapple, Mandrake, and Nightshade"
 source: "Food of the Gods"
-source_author: "Terence McKenna"
+source_author: "[[terence-mckenna]]"
 topics: ["psychoactive plants", "witchcraft", "European ethnobotany", "nightshades", "medieval history"]
 ---
 
@@ -35,7 +35,7 @@ and skin. Historical accounts and trial records describe witches applying
 "flying ointments" — fat-based preparations containing extracts of the
 solanaceous herbs — to the armpits, genitals, or other sensitive areas.
 
-The subjective experience produced by these ointments would have included a
+The [[dosage-unpredictability-psilocybin-subjective-experience]] produced by these ointments would have included a
 sensation of floating or flying, vivid hallucinations of distant places and
 gatherings, encounters with supernatural beings, out-of-body sensations, and
 complete amnesia for the experience upon recovery. Reports of "sabbats" —
@@ -65,7 +65,7 @@ other solanaceous herbs to produce her prophetic trances.
 ## Historical Suppression
 
 McKenna's analysis places the European witch persecutions within the broader
-pattern of Dominator culture's suppression of ecstatic experience. The
+pattern of [[dominator-culture-and-partnership-society]]'s suppression of ecstatic experience. The
 Catholic Church's campaign against witchcraft was not merely concerned with
 the theological error of devil worship; it systematically targeted women who
 possessed knowledge of herbal medicine and psychoactive plants — knowledge
@@ -96,7 +96,7 @@ hallucinogens tend to produce deliriant experiences (confusion, amnesia,
 encounters with frightening entities), while the New World hallucinogens tend
 to produce visionary experiences (clarity, insight, encounters with
 benevolent entities). This difference may have shaped the fundamentally
-different attitudes toward psychoactive plants that developed in European
+different [[weil-cultural-attitudes-toward-altered-states]] psychoactive plants that developed in European
 and indigenous American cultures.
 
 ## Modern Resonance
@@ -111,5 +111,5 @@ feared in the European pharmacopoeia.
 
 ## See Also
 
-- mckenna food gods soma indo aryan ritual beverage
+- [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] soma indo aryan ritual beverage
 - [[mckenna-food-gods-stoned-ape-hypothesis]]

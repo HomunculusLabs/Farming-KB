@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-Betula populifolia, commonly known as the gray birch, is a small deciduous tree native to northeastern North America. It is a fast-growing pioneer species that colonizes disturbed sites, abandoned fields, and recently burned areas.
+Betula populifolia, commonly known as the gray birch, is a small deciduous tree native to northeastern [[guzman-psilocybin-mushrooms-north-america]]. It is a fast-growing pioneer species that colonizes disturbed sites, abandoned fields, and recently burned areas.
 
-The species is easily recognized by its distinctive white bark with dark triangular patches at branch bases. Despite its short lifespan of 30 to 50 years, gray birch plays an important role in early-successional forest dynamics and wildlife habitat.
+The species is easily recognized by its distinctive white bark with dark triangular patches at branch bases. Despite its short lifespan of 30 to 50 years, gray birch plays an important role in early-successional [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] and [[hemenway-backyard-wildlife-habitat]].
 
 Gray birch often forms pure stands on disturbed sites, creating a distinctive open-canopy woodland with a light, airy understory. These stands are ephemeral, typically persisting only until taller competitors overtop them.
 
@@ -60,7 +60,7 @@ Soils occupied by gray birch are typically sandy, acidic, and nutrient-poor. The
 
 Elevation ranges from sea level to approximately 900 meters in the Appalachian Mountains. The species is less common at higher elevations, where paper birch and yellow birch become dominant.
 
-Gray birch often co-occurs with quaking aspen, pin cherry, and eastern red cedar in early-successional assemblages. These species share similar life-history traits, including shade intolerance, prolific seed production, and short lifespans.
+Gray birch often co-occurs with quaking aspen, pin cherry, and eastern red cedar in early-successional assemblages. These species share similar life-history traits, including shade intolerance, prolific [[cannabis-controlled-pollination-seed-production]], and short lifespans.
 
 ## Ecology
 

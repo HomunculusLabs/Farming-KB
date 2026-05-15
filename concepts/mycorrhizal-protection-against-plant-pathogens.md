@@ -8,11 +8,11 @@ type: concept
 
 ## Overview
 
-Fungal pathogens represent one of the most significant constraints on plant primary production worldwide. Climate change is predicted to increase both the frequency and severity of fungal pathogen outbreaks on crop plants through elevated temperatures and reduced rainfall (Jahn et al., 1996; Luo et al., 1995). In this context, [[mycorrhizal-fungi]]—symbiotic associates of plant roots—have emerged as important biological agents that can protect host plants from root-infecting pathogens and parasitic nematodes.
+Fungal pathogens represent one of the most significant constraints on plant primary production worldwide. Climate change is predicted to increase both the frequency and severity of fungal pathogen outbreaks on crop plants through elevated temperatures and reduced rainfall (Jahn et al., 1996; Luo et al., 1995). In this context, [[mycorrhizal-fungi]]—symbiotic associates of plant roots—have emerged as important biological agents that can protect host plants from root-infecting pathogens and [[comparison-free-living-vs-parasitic-nematodes]].
 
 ## Climate Change and Emerging Plant Pathogens
 
-Simulation models predict significantly enhanced risks of fungal pathogen outbreaks under future climate scenarios. Pathogens such as *Phytophthora* species causing oak decline in Europe are expected to increase in severity due to climate change (Brasier, 1996). A range of emerging plant pathogens are spreading globally, threatening major crops including potato ([[late-blight]]), corn (downy mildew), soybean (rust), wheat (Karnal bunt), rice (blast), and cocoa (Monilia pod rot). Viral and bacterial pathogens are also spreading, with cassava mosaic, banana bunchy top, and rice tungro among the most concerning.
+Simulation models predict significantly enhanced risks of fungal pathogen outbreaks under future climate scenarios. Pathogens such as *Phytophthora* species causing oak decline in Europe are expected to increase in severity due to climate change (Brasier, 1996). A range of emerging plant pathogens are spreading globally, threatening major crops including potato ([[late-blight]]), corn (downy mildew), soybean (rust), wheat (Karnal bunt), rice (blast), and cocoa (Monilia pod rot). [[plant-viral-and-bacterial-diseases]] pathogens are also spreading, with cassava mosaic, banana bunchy top, and rice tungro among the most concerning.
 
 The race to develop disease-resistant crop plants employs both traditional selection of naturally evolving resistance and genetic manipulation to combat these emerging threats (Moffat, 2001). However, fungal pathogens themselves can evolve rapidly through interspecific hybridization (Brasier, 2001), creating an ongoing arms race.
 
@@ -41,7 +41,7 @@ Arbuscular mycorrhizal (AM) fungi provide less physical protection since less fu
 
 ## Evidence from Meta-Analysis
 
-A comprehensive meta-analysis by Borowicz (2001) of studies published between 1970 and early 1998 on arbuscular mycorrhizae and plant disease prevention revealed:
+A comprehensive meta-analysis by Borowicz (2001) of studies published between 1970 and early 1998 on [[arbuscular-mycorrhizae]] and [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]] revealed:
 
 - Most studies were conducted on economically important crop species in low-phosphate soil under greenhouse or microplot conditions
 - Approximately **50% of studies** showed that AM fungi afforded some degree of protection against pathogenic fungi and nematodes
@@ -63,7 +63,7 @@ Abdalla and Abdel-Fattah (2000) demonstrated significant protective effects of *
 
 ### Nematode Suppression
 
-Elsen et al. (2001) showed that *Glomus intraradices* significantly reduced the reproductive capacity of the burrowing nematode *Radopholus similis* on carrot roots:
+Elsen et al. (2001) showed that *Glomus intraradices* significantly reduced the reproductive capacity of the burrowing nematode *[[radopholus-similis]]* on carrot roots:
 
 - Total nematode populations were reduced by approximately **50%** in mycorrhizal treatments
 - The reduction was statistically significant for males and females in root tissue and for females in the growth medium
@@ -71,7 +71,7 @@ Elsen et al. (2001) showed that *Glomus intraradices* significantly reduced the 
 
 ## Knowledge Gaps in Natural Ecosystems
 
-Most documented evidence of mycorrhizal protection comes from agricultural ecosystems (low-diversity, often monospecific crops) or forest nursery conditions. The role of mycorrhizal-pathogen interactions in natural ecosystems remains largely speculative:
+Most documented evidence of mycorrhizal protection comes from [[fungi-grassland-agricultural-ecosystems-dighton]] (low-diversity, often monospecific crops) or forest nursery conditions. The role of mycorrhizal-pathogen interactions in natural ecosystems remains largely speculative:
 
 - How do these interactions influence plant community dynamics?
 - Has coevolution produced a balance between mycorrhizal and pathogenic functional groups?

@@ -13,7 +13,7 @@ sources:
   - Purseglove, J.W. (1972). mollison-specialist-tropical-crops-forest-products: Monocotyledons. Longman Group.
   - Morton, J.F. (1987). "Arrowroot." In: Fruits of Warm Climates. Creative Resource Systems.
   - León, J. (1987). Botánica de los Cultivos Tropicales. IICA.
-  - Bradbury, J.H. & Holloway, W.D. (1988). Chemistry of Tropical Root Crops. ACIAR Monograph No. 6.
+  - Bradbury, J.H. & Holloway, W.D. (1988). Chemistry of [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]]. ACIAR Monograph No. 6.
   - Kay, D.E. (1987). Crop and Product Digest No. 2: Root Crops. Tropical Development and Research Institute.
 ---
 
@@ -27,7 +27,7 @@ Arrowroot starch is valued for its neutral flavor, smooth texture, and high gel 
 
 Commercial production is concentrated in the Caribbean (St. Vincent and the Grenadines is the leading exporter), Brazil, and [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green; the underside is pale green with fine pubescence.
 
-The pulvinus enables nyctinastic leaf movement — leaves fold upward at night, a feature common to the Marantaceae. This movement is driven by [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to the Caribbean islands. Naturalized populations occur throughout tropical Africa, Southeast Asia, and the Pacific islands.
+The pulvinus enables nyctinastic leaf movement — leaves fold upward at night, a feature common to the Marantaceae. This movement is driven by [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to the Caribbean islands. Naturalized populations occur throughout tropical Africa, Southeast Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 The species thrives in warm, humid tropical environments with annual rainfall of 1200–2000 mm. It grows best at elevations below 500 m in partial shade to full sun.
 
@@ -41,7 +41,7 @@ Temperature requirements include a mean annual minimum of 18°C and maximum of 3
 
 Arrowroot is propagated vegetatively from rhizome pieces (setts) weighing 30–60 g each. Setts are planted 5–10 cm deep at spacing of 60–90 cm within rows and 90–120 cm between rows.
 
-The crop cycle is typically 10–12 months from planting to harvest. Rhizomes reach maximum starch content 9–11 months after planting, when lower leaves begin to yellow.
+The crop cycle is typically 10–12 months from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]]. Rhizomes reach maximum starch content 9–11 months after planting, when lower leaves begin to yellow.
 
 Harvesting is done by hand, using digging sticks or mechanized diggers. Care is required to avoid damaging the fragile rhizomes, which are easily bruised.
 
@@ -76,7 +76,7 @@ Arrowroot starch is composed of approximately 85% carbohydrate (primarily amylos
 ## Overview
 
 Maranta Arundinacea represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 maranta arundinacea and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

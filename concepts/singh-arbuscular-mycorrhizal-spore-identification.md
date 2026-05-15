@@ -18,7 +18,7 @@ type: concept
 
 Arbuscular mycorrhizal (AM) fungi in the phylum Glomeromycota produce
 multicellular spores that serve as the primary basis for species
-identification and taxonomic classification. Since AM fungi cannot be
+identification and [[neurotropic-fungi-taxonomic-classification]]. Since AM fungi cannot be
 cultured axenically and their vegetative structures are morphologically
 conservative, spore morphology remains the cornerstone of AM fungal
 identification despite advances in [[fungal-spore-biology-dispersal]] connects to [[bloomfield-fungal-spore-discharge-and-dispersal]] walls typically consist of two to five distinct layers,
@@ -75,8 +75,8 @@ formerly G. intraradices), Funneliformis (e.g., F. mosseae formerly G. mosseae),
 
 ## Overview
 
-Singh Arbuscular Mycorrhizal Spore Identification represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[singh-arbuscular-mycorrhizal-diversity-grassland-ecosystems]] Spore Identification represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -105,13 +105,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for singh arbuscular mycorrhizal spore identification. Climate adaptation
+opportunities for singh arbuscular mycorrhizal spore identification. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 singh arbuscular mycorrhizal spore identification and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

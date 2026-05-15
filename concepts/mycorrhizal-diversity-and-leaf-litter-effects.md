@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Diversity and Leaf Litter Effects
+title: [[mycorrhizal-diversity-and-ecosystem-function]] Leaf Litter Effects
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -27,7 +27,7 @@ Patchily distributed leaf litter resources on the forest floor can alter ECM com
 
 Leaf litter chemistry, particularly polyphenol content, directly affects ECM fungal growth in culture:
 
-- **Baar et al. (1994):** Pine leaf litter extracts reduced growth of *[[laccaria-proxima]]* and *Rhizopogon luteolus*, and only affected *[[paxillus-involutus]]* and *Xerocomus badius* at high concentrations. Extracts of the grass *Deschampsia flexuosa* inhibited growth of *L. proxima*, *P. involutus*, and *R. luteolus* but *enhanced* growth of *Laccaria bicolor*.
+- **Baar et al. (1994):** Pine leaf litter extracts reduced growth of *[[laccaria-proxima]]* and *[[rhizopogon-luteolus]]*, and only affected *[[paxillus-involutus]]* and *Xerocomus badius* at high concentrations. Extracts of the grass *[[deschampsia-flexuosa]]* inhibited growth of *L. proxima*, *P. involutus*, and *R. luteolus* but *enhanced* growth of *[[laccaria-bicolor]]*.
 - **Koide et al. (1998):** The polyphenols **catechin** and **epicatechin gallate** stimulated growth of *Suillus intermedius* and reduced growth of *Amanita rubescens*, mimicking the effects of pine leaf litter water extracts. Volatile compounds α- and β-pinene had differential effects across a range of ECM fungi. These findings indicate that phenolic content and composition of leaf litter exert significant control over the ECM communities developing in its vicinity.
 
 ## Spatial Patchiness of Leaf Litter: New Jersey Pine Barrens
@@ -52,7 +52,7 @@ Conn and Dighton (2000) used both laboratory studies and field litterbag experim
 
 *Rhododendron maximum* (an ericaceous shrub) severely reduces regeneration of hardwood and coniferous seedlings in the southern Appalachians. Walker et al. (1999) found:
 
-- Litter manipulations did not affect total mycorrhizal colonization of tree roots but altered the distribution of *Cenococcum geophilum* mycorrhizae.
+- Litter manipulations did not affect total mycorrhizal colonization of tree roots but altered the distribution of *[[cenococcum-geophilum]]* mycorrhizae.
 - After one year, hemlock seedlings regenerating within rhododendron thickets had significantly less ECM colonization (**19%**) compared to seedlings outside thickets (**62%**).
 - Root colonization by *C. geophilum* was higher inside rhododendron thickets (**10.4%**) than outside (**4.6%**) in year one, though this difference was lost after two years.
 - The reduced mycorrhizal colonization resulted in a **50% reduction in seedling shoot biomass** in the second year.
@@ -96,7 +96,7 @@ Jonsson et al. (2001) caution that the effects of [[mycorrhizal-fungal-diversity
 
 ## Implications for Forest Management
 
-These findings have practical implications for forest management and restoration. The sensitivity of ECM communities to litter manipulation suggests that forest floor management practices—such as prescribed burning, leaf litter removal, or harvesting—can indirectly alter belowground fungal diversity and function. The hump-shaped relationship between litter quantity and ECM diversity (Baar and de Vries, 1995) implies that intermediate levels of litter may support the most diverse and functionally resilient mycorrhizal communities. Additionally, the suppressive effect of dense rhododendron thickets on seedling mycorrhizal colonization highlights the importance of understory management for promoting tree regeneration in mixed hardwood-conifer forests.
+These findings have practical implications for forest [[tropical-soil-management-and-restoration]]. The sensitivity of ECM communities to litter manipulation suggests that forest floor management practices—such as prescribed burning, leaf litter removal, or harvesting—can indirectly alter belowground fungal diversity and function. The hump-shaped relationship between litter quantity and ECM diversity (Baar and de Vries, 1995) implies that intermediate levels of litter may support the most diverse and functionally resilient mycorrhizal communities. Additionally, the suppressive effect of dense rhododendron thickets on seedling mycorrhizal colonization highlights the importance of understory management for promoting tree regeneration in mixed hardwood-conifer forests.
 
 ## Summary of Key Mechanisms
 

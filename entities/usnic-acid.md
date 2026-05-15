@@ -37,7 +37,7 @@ other organisms.
 ## Key Facts
 
 - Lawrey (1986) demonstrated that usnic acid significantly reduced spore
-  germination of the moss *Funaria hygrometrica* to just 62% of control values,
+  germination of the moss *[[funaria-hygrometrica]]* to just 62% of control values,
   establishing its role as a potent allelopathic agent.
 - Lawrey (1989) confirmed that usnic acid, along with vulpinic acid and stictic
   acid, reduced the growth of susceptible bacterial species including *Bacillus
@@ -97,3 +97,8 @@ other organisms.
   mycorrhizae and seedling growth. *Acta Forestalia Fennica*, 141:1-22.
 - Fisher, R. F. (1979). Allelopathic effects of *Cladonia* on pine and spruce.
 - Dighton, J. *Fungi in Ecosystem Processes*. Chapter 5.
+## See also
+
+- [[dermocybe]]
+- [[fungal-allelopathy-and-lichen-compounds]]
+- [[fungal-lichen-stress-tolerance-and-poikilohydry]]

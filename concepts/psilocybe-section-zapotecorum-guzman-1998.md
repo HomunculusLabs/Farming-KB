@@ -1,9 +1,9 @@
 ---
-title: Psilocybe Section Zapotecorum Taxonomy and Distribution
+title: [[psilocybe-section-zapotecorum-americas-pacific-disjunction]] [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]]
 created: 2026-05-11
 updated: 2026-05-11
 sources:
-  - "Guzman, Allen & Gartz - A Worldwide Geographical Distribution of the Neurotropic Fungi (1998)"
+  - "Guzman, Allen & Gartz - A Worldwide psilocybe-geographical-distribution-patterns of the Neurotropic Fungi (1998)"
 type: concept
 tags: [mycology, psilocybe, taxonomy, zapotecorum, neurotropic-fungi, distribution, sections]
 ---
@@ -35,7 +35,7 @@ strong representation in Mesoamerica and South America.
 The type species, Psilocybe zapotecorum, was described from Oaxaca, Mexico,
 in the territory of the Zapotec people. It was identified during R. Gordon
 Wasson and Roger Heim's pioneering ethnomycological investigations of the
-1950s. The epithet honors the Zapotec, whose mushroom traditions in the
+1950s. The epithet honors the Zapotec, whose [[sacred-mushroom-traditions-in-mexico]] the
 Sierra Mazateca represent one of the world's richest indigenous mycological
 knowledge systems.
 
@@ -53,7 +53,7 @@ Section Zapotecorum includes several well-known neurotropic species:
   similarity to P. zapotecorum suggests close evolutionary relationship
   despite vast geographic separation across the Pacific Ocean.
 
-- **Psilocybe subyungensis** — distributed in South America, reaching its
+- **[[psilocybe-subyungensis-south-american-mesophytic-distribution]]** — distributed in South America, reaching its
   northern limit in Mexican mesophytic forests through association with
   Alnus trees along stream courses and cloud forest margins.
 
@@ -85,7 +85,7 @@ kilometers from the nearest Section Zapotecorum population. This disjunct
 occurrence supports ancient trans-Pacific connections between the mycobiotas
 of the Americas and Australasia. Horak (1983) documented similar agaric
 disjunctions, suggesting Gondwanan vicariance or ancient long-distance
-dispersal predating southern hemisphere landmass breakup.
+dispersal predating [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] landmass breakup.
 
 The Andean corridor serves as the primary southward dispersal route. Cloud
 forests along the eastern Andes provide continuous suitable habitat from

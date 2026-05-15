@@ -17,7 +17,7 @@ plant placements that maximize yield while minimizing effort.
 
 Zone one gardens are distinguished by complete mulch coverage. Unlike outer zones where
 spot-mulching may suffice, zone one demands total soil protection to maintain the high
-biological activity and moisture retention needed for intensive production. The mulch
+biological activity and moisture retention needed for [[mollison-designers-market-garden-intensive-production-design]]. The mulch
 suppresses weeds, moderates temperature, retains moisture, and feeds the soil as it
 decomposes.
 
@@ -66,11 +66,11 @@ investment preserves the gardener's labor and crop value.
 ## Wind Barriers and Hedgerows
 
 Wind protection improves microclimate stability, reduces evapotranspiration, and extends
-the growing season. Suitable species include sunflowers (annual windbreak with edible
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Suitable species include sunflowers (annual windbreak with edible
 seed), [[jerusalem-artichoke]] (tall perennial screen with edible tubers), Siberian pea
 tree (nitrogen-fixing with edible seeds and chicken forage), and comfrey (deep-rooted
 mineral accumulator producing abundant mulch when cut). Every element performs multiple
-functions — a core permaculture principle.
+functions — a core [[permaculture-principle-1-observe-interact]].
 
 ## Ponds in Zone One
 
@@ -88,7 +88,7 @@ niche, collectively consuming enormous quantities of slugs and insects.
 
 Zone two steps down in management intensity. Gardens use spot-mulching rather than full
 coverage. This domain includes main crop gardens (potatoes, corn, beans, squash), orchard
-trees, and domestic animals — chickens, ducks, milk goats, and a milk cow. The reduced
+trees, and [[permaculture-domestic-animals]] — chickens, ducks, milk goats, and a milk cow. The reduced
 mulching reflects both larger scale and lower visit frequency.
 
 ## Animal Integration and Manure Collection
@@ -111,8 +111,8 @@ a status symbol demonstrating the owner could afford unproductive land. Exported
 worldwide through colonialism, it demands enormous inputs (water, fertilizer, mowing,
 chemicals) while producing nothing edible. He frames this as "the nuclear family trap":
 culturally enforced maintenance of sterile greenspace locking families into consumption
-patterns that could feed them instead. Replacing lawn with productive gardens represents
-both ecological restoration and economic liberation.
+patterns that could feed them instead. Replacing [[query-how-do-i-replace-my-lawn-with-productive-or-ecological-plantings]] gardens represents
+both [[mycorrhizal-fungi-ecological-restoration]] and economic liberation.
 
 ## Productive Front-Yard Design
 

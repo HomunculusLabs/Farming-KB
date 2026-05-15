@@ -1,5 +1,5 @@
 ---
-title: "Timber Frame vs Wattle and Daub"
+title: "[[comparison-timber-frame-vs-cordwood-construction]] [[comparison-wattle-and-daub-vs-cob-construction]]"
 tags: [comparison, natural-building, timber-frame, wattle-and-daub, traditional-building]
 date: 2026-05-12
 updated: 2026-05-12
@@ -11,7 +11,7 @@ sources: []
 ## Overview
 
 [[wattle-and-daub-construction]] represent two
-distinct but complementary traditions in natural building. Timber framing is
+distinct but complementary traditions in [[mollison-designers-lime-and-cement-natural-building]]. [[preserving-wood-timber-framing]] is
 a structural system using large wooden posts, beams, and braces connected
 through interlocking joinery — the skeleton of a building. Wattle and daub
 is an infill technique that weaves wooden strips into a lattice and packs
@@ -34,7 +34,7 @@ Key characteristics include exceptional durability (frames routinely last
 300+ years), the ability to create large open interior spaces without
 intermediate supports, and a distinctive aesthetic with exposed timbers.
 Wood species selection matters greatly: oak is the traditional choice for
-strength and rot resistance, while Douglas fir offers excellent
+strength and rot resistance, while [[douglas-fir]] offers excellent
 availability in western regions.
 
 Timber framing requires significant skill in joinery cutting and frame
@@ -45,7 +45,7 @@ compensate by pulling joints tight over time.
 
 ## Wattle and Daub Construction
 
-Wattle and daub is one of humanity's oldest building methods, with evidence
+Wattle and daub is one of humanity's oldest [[query-what-are-the-best-natural-building-methods]], with evidence
 dating back over 6,000 years to the Neolithic period. The wattle consists
 of upright stakes driven at 30-45 cm intervals, woven with flexible withies
 (hazel, willow, or bamboo). The daub is an earthen mixture of clay subsoil

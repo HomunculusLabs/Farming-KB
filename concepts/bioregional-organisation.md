@@ -1,5 +1,5 @@
 ---
-title: Bioregional Organisation
+title: [[bioregional-organisation-mollison]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -18,7 +18,7 @@ The region serves as the home address --- the place where culture develops and b
 
 ## Historical Precedent
 
-Tribal maps often defined bioregions very well. Totems and "skins" (clan groups) of tribes might take as their totemic mothers a particular tree or animal, which was itself limited in distribution by the sum of topographic and climatic factors. Other groups occupied ecologies of grasslands, stony deserts, swamps, or mountain ridges. Today, minority language groups such as the Saamen, Basque, and Pitjatjantjara claim territories that are ancient and specific to their life mode.
+Tribal maps often defined bioregions very well. Totems and "skins" (clan groups) of tribes might take as their totemic mothers a particular tree or animal, which was itself limited in distribution by the sum of topographic and [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]]. Other groups occupied ecologies of grasslands, stony deserts, swamps, or mountain ridges. Today, minority language groups such as the Saamen, Basque, and Pitjatjantjara claim territories that are ancient and specific to their life mode.
 
 ## Optimal Scale
 
@@ -30,7 +30,7 @@ People can be called on to write accounts of their specialties as they apply to 
 
 - **Food**: Consumer-producer associations, gardening or soil societies
 - **Shelter**: Owner-builder associations
-- **Energy**: Appropriate technology associations
+- **Energy**: [[appropriate-technology]] associations
 - **Finance**: An "earthbank" association
 
 Additional associations can form around crafts, music, markets, livestock, nature study, and any other shared interest.
@@ -59,7 +59,7 @@ A comprehensive resource index compiled for bioregional use covers nine primary 
 
 1. **A. Food and food support systems** --- Plant and animal resources, pest management, food processing, markets, support functions
 2. **B. Shelter and buildings** --- Construction materials, energy systems, waste and recycling
-3. **C. Livelihoods and support services** --- Community finance, skills banks, manufacturing services
+3. **C. Livelihoods and support services** --- [[community-finance-and-alternative-economies]], skills banks, manufacturing services
 4. **D. Information, media, communication, and research** --- Regional radio, newspapers, computer services, libraries, maps
 5. **E. Community and security** --- House and livestock security, emergency services, communications
 6. **F. Social life** --- Introductory services, think tanks, expeditions, work groups
@@ -71,7 +71,7 @@ Each section can contain case histories of successful strategies. The criteria f
 
 ## Governance Principles
 
-Ethics and principles of self-governance, interdependence, and voluntary simplicity or restriction of human numbers on earth apply at both regional and global outreach levels. The bioregional model represents a fundamentally different approach to governance --- one that is decentralised, ecologically grounded, and based on voluntary association rather than coercive political structures.
+[[permaculture-ethics-and-principles]] of self-governance, interdependence, and [[voluntary-simplicity]] or restriction of human numbers on earth apply at both regional and global outreach levels. The bioregional model represents a fundamentally different approach to governance --- one that is decentralised, ecologically grounded, and based on voluntary association rather than coercive [[holmgren-bioregional-governance-and-political-structures]].
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: New United Nations Concept
+title: [[new-united-nations-permaculture-social-strategy]] Concept
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The permaculture critique of the existing United Nations is that it is neither united nor represents nations. Bill Mollison drew parallels with the oft-quoted "moral majority," which is also neither of those things. Many true nations --- such as the Iroquois confederation or any tribal alliance with a common ethic --- are not represented by such a body. Nations including the Basques, Tartars, Kurds, Palestinians, Hawaiians, Hopi, Tibetans, Pitjatjantjara, Misquito, Aranda, Basarwa, and Herrero remain unrepresented.
+The permaculture critique of the existing United Nations is that it is neither united nor represents nations. [[bill-mollison]] drew parallels with the oft-quoted "moral majority," which is also neither of those things. Many true nations --- such as the Iroquois confederation or any tribal alliance with a common ethic --- are not represented by such a body. Nations including the Basques, Tartars, Kurds, Palestinians, Hawaiians, Hopi, Tibetans, Pitjatjantjara, Misquito, Aranda, Basarwa, and Herrero remain unrepresented.
 
 Moreover, most nations within the United Nations repress a majority of peoples on earth. In conversations with Thomas Banyaca, a Hopi messenger of his people, it became clear that a new concept of "nation" and a new representative body to speak for them is needed.
 
@@ -32,7 +32,7 @@ Such initiatives have in fact commenced, particularly among Amerindian groups su
 
 ## Decentralised Structure
 
-Unlike the present United Nations, this proposed body does not need a world centre or paid administrators. Instead, groups can meet as affinity groups --- in alternative economic summits, bioregional congresses, tribal conferences, garden and farm design groups --- to deal with specific areas of interest and make these affinities global in scope.
+Unlike the present United Nations, this proposed body does not need a world centre or paid administrators. Instead, groups can meet as affinity groups --- in alternative economic summits, [[bioregional-congresses-and-global-nation-permaculture]], tribal conferences, garden and farm design groups --- to deal with specific areas of interest and make these affinities global in scope.
 
 ### Advantages of Decentralisation
 
@@ -61,7 +61,7 @@ Each of these represents a people with a common ethic, culture, and often a long
 
 ## Relationship to Bioregional Organisation
 
-The new United Nations concept complements bioregional organisation by providing the global layer of connection. While bioregional associations handle local governance, resource assessment, and community services, the global congress of ethical nations provides the framework for international cooperation, cultural exchange, and mutual aid between bioregions and peoples who share common ethical commitments regardless of geography.
+The new United Nations concept complements bioregional organisation by providing the global layer of connection. While bioregional associations handle local governance, [[permaculture-resource-assessment-and-client-consultation]], [[village-financing-and-community-services]], the global congress of ethical nations provides the framework for international cooperation, cultural exchange, and mutual aid between bioregions and peoples who share common ethical commitments regardless of geography.
 
 ## Connection to the Seventh Generation Principle
 
@@ -76,11 +76,11 @@ The minimal ethic of caring for the earth directly embodies the seventh generati
 
 ## Practical Applications
 Understanding this concept enables better integration of sustainable
-practices into land management and ecological design systems.
+practices into land [[weed-management-and-ecological-weed-control]] design systems.
 
 ## Ecological Context
 This topic relates to broader patterns of natural resource management,
-biodiversity conservation, and sustainable food production systems.
+[[fungal-biodiversity-conservation-status]], and sustainable food production systems.
 
 ## Design Considerations
 Key factors include site-specific conditions, climate adaptation,

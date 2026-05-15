@@ -14,7 +14,7 @@ Proper watering during the germination and seedling emergence phase is one of th
 
 The natural fear is that if seeds dry out while sprouting, they will die. This fear leads many gardeners to water daily or even multiple times per day after sowing. But every time you water:
 
-1. **Soil temperature drops**: The water is almost always cooler than the soil, and evaporation further cools the surface. This slows or stops the germination process.
+1. **[[soil-temperature]] drops**: The water is almost always cooler than the soil, and evaporation further cools the surface. This slows or stops the germination process.
 2. **Soil structure is damaged**: The impact of water droplets can cause crust formation (see [[soil-crust-formation-and-tilth]]), creating an impenetrable barrier for emerging shoots.
 3. **Fungal diseases thrive**: Wet, cool conditions are ideal for damping-off and other seedling diseases.
 

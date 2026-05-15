@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Fungal diseases serve as important regulators of animal populations across multiple taxa. From the catastrophic decline of amphibian populations due to chytrid fungi to the density-dependent regulation of insect populations by entomopathogenic fungi, fungal pathogens can dramatically reshape faunal communities. The effects may be direct — causing mortality or reduced fecundity — or indirect, operating through modification of animal food sources (plant communities altered by fungal pathogens).
+Fungal diseases serve as important regulators of animal populations across multiple taxa. From the catastrophic decline of amphibian populations due to chytrid fungi to the density-dependent regulation of insect populations by [[entomopathogenic-fungi]], fungal pathogens can dramatically reshape faunal communities. The effects may be direct — causing mortality or reduced fecundity — or indirect, operating through modification of animal food sources (plant communities altered by fungal pathogens).
 
 ## Amphibian Population Declines
 
@@ -14,13 +14,13 @@ Fungal diseases serve as important regulators of animal populations across multi
 
 Anuran populations have recently been shown to decline as a result of fungal pathogens, with reports from multiple researchers (Kaiser, 1998; Morell, 1999; Lips, 1999; Reed et al., 2000; Warkentin et al., 2001; Fellers et al., 2001). These declines are of particular concern because:
 
-- Frog declines appear greatest in tropical regions (e.g., Panama), where biodiversity conservation efforts are concentrated
+- Frog declines appear greatest [[fukuoka-natural-farming-in-tropical-regions]] (e.g., Panama), where biodiversity conservation efforts are concentrated
 - Lips (1999) reported increasing numbers of dead frogs in surveys over recent years, with symptoms of fungal pathogens around the mouth and eyes
 - Reed et al. (2000) consider the chytrid fungal group an "emerging infectious disease"
 
 ### Case Study: African Clawed Frogs
 
-The outbreak of Chlamydia species causing respiratory disease in African clawed frogs (Xenopus tropicalis) imported into the United States was so extensive that one breeding colony lost 90% of its individuals within 4 months (Reed et al., 2000). This demonstrates the devastating potential of fungal pathogens in confined populations.
+The outbreak of Chlamydia species causing respiratory disease in African clawed frogs ([[xenopus-tropicalis]]) imported into the United States was so extensive that one breeding colony lost 90% of its individuals within 4 months (Reed et al., 2000). This demonstrates the devastating potential of fungal pathogens in confined populations.
 
 ### Community Structure Implications
 
@@ -37,11 +37,11 @@ Two compounding concerns exist regarding fungal pathogens and amphibian declines
 
 ### Density-Dependent Population Regulation
 
-In natural ecosystems, entomopathogenic fungi may serve as important density-dependent population regulators. Kamata (2000) concluded that periodic population fluctuations of beech caterpillar (Syntypistis punctatella) larvae were caused by delayed density-dependent effects of the fungal pathogen Cordyceps militaris.
+In natural ecosystems, entomopathogenic fungi may serve as important density-dependent population regulators. Kamata (2000) concluded that periodic population fluctuations of beech caterpillar ([[syntypistis-punctatella]]) larvae were caused by delayed density-dependent effects of the fungal pathogen Cordyceps militaris.
 
 ### Cordyceps in Tropical Forests
 
-Cordyceps is frequently reported on insects in tropical forest ecosystems (Evans, 1982) and may be one of the most common pathogens of arthropods. The genus is well known for its dramatic fruiting bodies that emerge from infected insect hosts.
+Cordyceps is frequently reported on insects in [[dighton-fungi-tropical-forest-ecosystems]] (Evans, 1982) and may be one of the most common pathogens of arthropods. The genus is well known for its dramatic fruiting bodies that emerge from infected insect hosts.
 
 ### Gypsy Moth and Entomophaga maimaiga
 
@@ -55,7 +55,7 @@ While these studies demonstrate dramatic effects of insect fungal pathogens on p
 
 ### Potato Blight and Human Communities
 
-Perhaps the most dramatic historical example of a fungal pathogen affecting animal populations through food sources is the potato blight in Ireland in the 1800s. The devastating appearance of Phytophthora infestans caused such loss in potato yield over sequential years that it caused famine in Ireland. The effects cascaded beyond plant communities:
+Perhaps the most dramatic historical example of a fungal pathogen affecting animal populations through food sources is the potato blight in Ireland in the 1800s. The devastating appearance of [[bloomfield-potato-blight-phytophthora-infestans]] caused such loss in potato yield over sequential years that it caused famine in Ireland. The effects cascaded beyond plant communities:
 
 - The population of Irish people declined
 - Mass emigration to the United States significantly changed the "community" composition of the American people
@@ -77,7 +77,7 @@ Several important questions remain unanswered:
 3. Can fungal pathogen effects on invertebrate populations be linked to measurable shifts in vegetation community composition?
 4. What is the relationship between fungal pathogen density and host population dynamics across different taxa?
 
-The evidence suggests fungal pathogens are powerful regulators of animal populations, but their role in shaping community structure — as opposed to population size — remains largely undocumented. The indirect pathways through which fungi influence animal populations (via food plants, habitat modification, and nutrient cycling) may ultimately prove more significant for community-level effects than direct pathogenicity.
+The evidence suggests fungal pathogens are powerful regulators of animal populations, but their role in shaping community structure — as opposed to population size — remains largely undocumented. The indirect pathways through which fungi influence animal populations (via food plants, habitat modification, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]) may ultimately prove more significant for community-level effects than direct pathogenicity.
 ## See also
 
 - [[fungal-pathogens-animal-populations]]

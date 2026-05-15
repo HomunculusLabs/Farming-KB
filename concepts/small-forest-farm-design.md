@@ -32,9 +32,9 @@ Small farms require a fundamentally different approach to tree selection than la
 - **Forage** for integrated livestock systems
 - **Mulch** production for garden and crop fertility
 - **Honey** from flowering trees and shrubs
-- **Nitrogen fixation** through leguminous trees and groundcovers
+- **[[biological-nitrogen-fixation-agriculture]]** through leguminous trees and groundcovers
 - **Crop and building efficiency** through windbreaks, shade, and shelter
-- **Microclimate modification** including frost protection, humidity regulation, and temperature buffering
+- **[[tree-temperature-effects-and-microclimate-modification]]** including [[cervantes-microclimate-frost-protection]], humidity regulation, and temperature buffering
 
 Every tree on a small farm should serve multiple functions. A single species might provide shade for livestock, fix nitrogen for adjacent crops, yield edible pods, and supply pole wood — all within a manageable timeframe.
 
@@ -69,7 +69,7 @@ A critical complement to forest farming is the integration of **free-range forag
 Successful forage systems require understanding the social dynamics of each species:
 
 - **Sex ratios** appropriate to the species and production goals
-- **Flock and herd size** optimal for animal wellbeing and land carrying capacity
+- **Flock and herd size** optimal for animal wellbeing and [[fukuoka-textdoc-livestock-caloric-land-carrying-capacity]]
 - **Breed adaptations** to local climate, forage availability, and management style
 
 Different breeds of the same species can have radically different foraging behaviours, climate tolerances, and social structures. Choosing breeds that match the available range is essential.
@@ -80,7 +80,7 @@ Free-range animals must meet all their nutritional needs from the landscape acro
 
 - **Energy** (carbohydrates and fats) — the bulk of caloric intake from pasture, browse, and mast
 - **Vitamins** — often the limiting factor in pasture-based systems, requiring diverse forage species
-- **Minerals** — soil mineral availability directly affects animal health; mineral licks or specific forage species may be needed
+- **Minerals** — soil [[chelation-microbial-mineral-availability-ingham]] directly affects animal health; mineral licks or specific forage species may be needed
 
 Gaps in any nutritional dimension during any season will manifest as poor health, reduced productivity, or behavioural problems.
 
@@ -89,7 +89,7 @@ Gaps in any nutritional dimension during any season will manifest as poor health
 Ranging animals interact with every other element of the farm. The designer must account for:
 
 - **Animals and crops** — grazing timing, fencing, and buffer zones to prevent damage
-- **Animals and forests** — browse pressure on young trees, soil compaction, nutrient cycling benefits
+- **Animals and forests** — browse pressure on young trees, soil compaction, [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] benefits
 - **Animals and other animals** — predator-prey dynamics, competition for forage, mixed-species grazing strategies
 - **Animals and people** — safety, pathogen management, and shared space considerations
 

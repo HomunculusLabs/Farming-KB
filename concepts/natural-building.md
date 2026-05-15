@@ -1,6 +1,6 @@
 ---
 
-title: Natural Building
+title: [[mollison-designers-lime-and-cement-natural-building]]
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -38,14 +38,14 @@ Monolithic earthen building: subsoil + sand + straw, sculpted by hand in lifts.
 - **Foundation:** Rubble trench + stone stem wall 12–18" above grade
 - **Drying:** Each lift (6–8") dries 1–2 weeks
 - **Best for:** Curved walls, ovens, small cabins, garden walls
-- **Pros:** Extremely low cost, excellent thermal mass, sculptural freedom
+- **Pros:** Extremely low cost, excellent [[comparison-windbreak-vs-thermal-mass]], sculptural freedom
 - **Cons:** Labor-intensive, slow, needs good roof overhang in wet climates
 
 ### Straw Bale
 Stacked bales as load-bearing ("Nebraska style") or infill within structural frame.
 - **Bales:** 2-string (14"×18"×36") standard; must be dry, dense, <14% moisture
 - **Compression:** Pre-compress with strapping; use threaded rod through wall
-- **Plaster:** 3-coat earthen or lime plaster, min 1" per side — this IS the weatherproofing
+- **Plaster:** 3-coat earthen or [[comparison-lime-plaster-vs-earthen-plaster]], min 1" per side — this IS the weatherproofing
 - **Foundation:** Raised stem wall, bales 6–12" above grade, moisture barrier critical
 - **Best for:** Rectangular buildings, high insulation (R-30–R-50)
 - **Pros:** Superb insulation, fast wall raising, good fire resistance when plastered
@@ -107,7 +107,7 @@ Short logs laid in mortar to form walls.
 | Recycled shingles | Low | 15–25 yrs | Quick, available everywhere |
 | Earth-sheltered/bermed | Medium | Very long | Root cellars, animal shelters |
 
-See [[greenhouse-design]] for passive solar roof integration.
+See [[greenhouse-design]] for [[comparison-passive-solar-vs-earth-sheltered]] roof integration.
 
 ## Passive Solar Design
 
@@ -132,9 +132,9 @@ Natural buildings integrate passive solar via thermal mass:
 
 **Earthen floors:** 4–6" compacted gravel base + vapor barrier + 1:3 clay:sand troweled in ½" layers. Seal with linseed oil, hemp oil, or beeswax. Warm underfoot, beautiful, repairable.
 
-**Earthen plaster:** 1 clay : 3 sand + chopped straw. Three coats (scratch → brown → finish). Breathable — critical for straw bale and cob. Patch annually.
+**Earthen plaster:** 1 clay : 3 sand + chopped straw. Three coats (scratch → brown → finish). Breathable — critical for [[how-do-i-choose-between-straw-bale-and-earthbag-construction]] cob. Patch annually.
 
-**Lime plaster:** 1 hydrated lime : 3 sand + fiber. Carbon-negative (absorbs CO₂). Better for exterior/wet areas. Caustic — wear protection.
+**Lime plaster:** 1 [[cervantes-hydrated-lime-quicklime-ph-adjustment]] : 3 sand + fiber. Carbon-negative (absorbs CO₂). Better for exterior/wet areas. Caustic — wear protection.
 
 ## Building Codes
 

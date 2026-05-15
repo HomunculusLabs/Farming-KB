@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Ohana system is a traditional Hawaiian land division and resource management framework that integrated [[watershed-management]], agriculture, aquaculture, and community governance into a single indivisible unit. Described by [[bill-mollison]] as "a nice concept" and one of the most sophisticated indigenous permaculture systems ever developed, the Ohana division treated people as integral components of the landscape rather than separate from it.
+The Ohana system is a traditional Hawaiian land division and [[savory-holistic-resource-management-animal-impact]] framework that integrated [[watershed-management]], agriculture, aquaculture, and community governance into a single indivisible unit. Described by [[bill-mollison]] as "a nice concept" and one of the most sophisticated indigenous permaculture systems ever developed, the Ohana division treated people as integral components of the landscape rather than separate from it.
 
 ## Classification
 
@@ -47,7 +47,7 @@ The Ohana represents one of the finest historical examples of integrated [[perma
 
 ### Forest-Water Relationship
 
-Mollison uses the Hawaiian example to illustrate a critical permaculture principle: the amount of water generated on high islands is directly relevant to the amount of forest present. Historical springs dried up or recommenced flowing depending on whether forest was being removed or extending. People alive in Hawaii can remember the descent of mists as forests have extended — fields that were dry grasslands are now wet and marshy forested areas.
+Mollison uses the Hawaiian example to illustrate a critical [[permaculture-principle-1-observe-interact]]: the amount of water generated on high islands is directly relevant to the amount of forest present. Historical springs dried up or recommenced flowing depending on whether forest was being removed or extending. People alive in Hawaii can remember the descent of mists as forests have extended — fields that were dry grasslands are now wet and marshy forested areas.
 
 ### Degradation After Disruption
 
@@ -55,7 +55,7 @@ The arrival of missionaries and cattle disrupted the Ohana system. Condominium d
 
 ### Modern Applicability
 
-Mollison suggests the Ohana system could be reinstituted as a model for modern permaculture design, particularly the concept that people are integral parts of their watershed division. The principle of managing complete watersheds from source to sea remains a cornerstone of permaculture design methodology.
+Mollison suggests the Ohana system could be reinstituted as a model for modern [[bee-forage-systems-permaculture-design]], particularly the concept that people are integral parts of their watershed division. The principle of managing complete watersheds from source to sea remains a cornerstone of permaculture design methodology.
 
 ### People as Integral to the System
 
@@ -63,7 +63,7 @@ The word Ohana itself carries the meaning that the people belong to the division
 
 ### Reef Management and Fish Shelters
 
-Beyond the shoreline, the Hawaiians built underwater structures extending over the reef, creating additional fish shelter and habitat. They guarded right out to the reef and beyond, treating the marine environment as an integral extension of the terrestrial system. This demonstrates a holistic land-sea management approach that modern conservation is only now rediscovering.
+Beyond the shoreline, the Hawaiians built underwater structures extending over the reef, creating additional fish shelter and habitat. They guarded right out to the reef and beyond, treating the marine environment as an integral extension of the terrestrial system. This demonstrates a holistic land-sea [[troika-management-approach-mollison]] that modern conservation is only now rediscovering.
 
 ### Technical Innovations
 
@@ -76,8 +76,8 @@ Beyond the shoreline, the Hawaiians built underwater structures extending over t
 
 ## Source Reference
 
-Mollison, Bill. *Permaculture Design Course Pamphlet V — Permaculture on High Islands*. Yankee Permaculture, 1981.
+Mollison, Bill. *[[mollison-permaculture-design-course-curriculum]] Pamphlet V — Permaculture on High Islands*. Yankee Permaculture, 1981.
 
 ### Volcanic Hazard Awareness
 
-The Hawaiians also perched their homes up off the valley floor on the sides of valleys, avoiding areas subject to volcanic mud flows that could descend at speeds of 400 miles per hour. This awareness of natural hazards informed the entire settlement pattern within the Ohana, demonstrating that sustainable design must account for periodic catastrophic events.
+The Hawaiians also perched their homes up off the valley floor on the sides of valleys, avoiding areas subject to volcanic mud flows that could descend at speeds of 400 miles per hour. This awareness of natural hazards informed the entire settlement pattern within the Ohana, demonstrating that [[ozier-pdc-maslows-hierarchy-sustainable-design]] must account for periodic catastrophic events.

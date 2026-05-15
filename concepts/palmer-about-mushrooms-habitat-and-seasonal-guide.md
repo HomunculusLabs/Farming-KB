@@ -58,9 +58,10 @@ is increasingly recognized as essential for sustainable outcomes.
 
 ## See Also
 
-- [[palmer-amanitine-poison-mechanism]]
-- [[palmer-medicinal-mushroom-uses-historical]]
-- [[palmer-popular-errors-mushroom-tests]]
+- [[palmer-classification-four-fungal-divisions]]
+- [[palmer-key-to-edibility-and-bibliography]]
+- [[palmer-mushroom-cooking-and-personal-experience]]
+- [[palmer-toadstool-eating-guide]]
 
 ## Overview
 

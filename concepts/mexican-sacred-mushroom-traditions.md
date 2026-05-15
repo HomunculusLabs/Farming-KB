@@ -1,5 +1,5 @@
 ---
-title: Mexican Sacred Mushroom Traditions
+title: Mexican [[sacred-mushroom-traditions-in-mexico]]
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-gartz
 tags: [ethnobotany, mexico, sacred-mushrooms, indigenous-culture, ceremonial-use, psilocybe]
 created: 2026-05-09
@@ -24,7 +24,7 @@ include:
   hallucinogenic fungus, though it originally referred to specific species.
 
 - **Apipiltzin** (Nahuatl): "Kid" or "little boy," referring to the
-  small stature of many psychoactive mushroom species.
+  small stature of many [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species.
 
 - **Atkad** (indigenous): "Mayor" or "leader," possibly referencing the
   mushrooms' role in guiding ceremonial participants.
@@ -74,14 +74,14 @@ traditions of sacred mushroom use:
 
 ## Ceremonial Context and Cordyceps Use
 
-In the Nevado de Toluca region of Mexico, *Cordyceps capitata* and *C.
+In the Nevado de Toluca region of Mexico, *[[cordyceps-capitata-ophioglossoides-mexican-ceremonial]]* and *C.
 ophioglossoides* are used in special nocturnal ceremonies alongside
 *Psilocybe muliercula*. The mushrooms are eaten either together with *P.
 
 ## Overview
 
 Mexican Sacred Mushroom Traditions represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mexican Sacred Mushroom Traditions finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mexican sacred mushroom traditions and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

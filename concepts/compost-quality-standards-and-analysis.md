@@ -1,12 +1,12 @@
 ---
-title: Compost Quality Standards and Analysis
+title: [[aact-compost-quality-standards-ingham]] and Analysis
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Compost Quality Standards and Analysis
 
-Not all compost is created equal. The nutritional quality of finished compost varies enormously depending on the starting materials, the C:N ratio, the composting method, and the attention given to the process. If compost is going to supply the nutritional needs of most vegetable crops, it must meet specific minimum standards for nitrogen content, C:N ratio, and overall nutrient balance.
+Not all compost is created equal. The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of finished compost varies enormously depending on the starting materials, the C:N ratio, the composting method, and the attention given to the process. If compost is going to supply the nutritional needs of most vegetable crops, it must meet specific minimum standards for nitrogen content, C:N ratio, and overall nutrient balance.
 
 ## The Minimum Standards
 
@@ -31,7 +31,7 @@ For compost to serve as the **sole source of fertility** for high-demand vegetab
 
 ### Municipal Compost
 
-Municipal refuse compost is **not potent enough for vegetable growing**. The reasons:
+Municipal refuse compost is **not potent enough for [[fukuoka-natural-vegetable-growing]]**. The reasons:
 
 - Much of the input material is paper, cardboard, chipped tree trimmings, and other woody waste
 - Average starting C:N exceeds 50:1
@@ -39,7 +39,7 @@ Municipal refuse compost is **not potent enough for vegetable growing**. The rea
 - Far more than half the carbon disappears — and most of the nitrogen with it
 - The final weight is only a tiny fraction of starting weight
 
-**Result**: Municipal composting is actually a huge contributor to greenhouse gases (methane, ammonia, nitrous oxide). The product is best used as mulch along roadsides and under ornamentals — not for growing vegetables.
+**Result**: Municipal composting is actually a huge contributor to greenhouse gases (methane, ammonia, nitrous oxide). The product is best used as mulch along roadsides and under ornamentals — not for [[container-growing-vegetables-herbs]].
 
 ### Bin Compost
 
@@ -90,7 +90,7 @@ Bacteria convert surplus nitrogen to ammonia gas, then to water-soluble nitrates
 - Immediate plant growth (nitrates are available)
 - BUT: the higher nitrate level encourages microbes to multiply and attack humus
 - Slightly lower quantity of organic matter than before
-- This is exactly what happens with chemical fertilizers — the reason organicists oppose them
+- This is exactly what happens with [[cannabis-chemical-fertilizers]] — the reason organicists oppose them
 
 ## The Complete Organic Fertilizer Complement
 
@@ -104,7 +104,7 @@ For most gardeners, the practical approach is:
 
 - **Cool summers** (maritime climates): Soils never get warm enough to fully release nutrients from compost. Use COF in addition for high-demand crops.
 - **Hot climates**: Organic matter rots quickly. In warm soil, you can get acceptable results growing high-demand vegetables with only high-quality compost.
-- **Temperate climates**: A balanced approach works best — compost for soil health and structure, COF for plant nutrition.
+- **[[fukuoka-natural-farming-temperate-climates]]**: A balanced approach works best — compost for soil health and structure, COF for plant nutrition.
 
 ## Application Rates
 

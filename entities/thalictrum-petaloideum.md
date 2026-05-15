@@ -80,7 +80,7 @@ Plants prefer partial shade to full sun in consistently moist, humus-rich soil. 
 
 Division of established clumps can be performed in early spring. The brittle rhizomes require careful handling to avoid damage during separation.
 
-The species is relatively pest-free, though Japanese beetles may occasionally feed on the foliage. Powdery mildew can affect stressed plants in late summer.
+The species is relatively pest-free, though Japanese beetles may occasionally feed on the foliage. [[powdery-mildew]] can affect stressed plants in late summer.
 
 Staking is generally unnecessary due to the sturdy stems. The airy flower panicles sway attractively in breezes without breaking.
 

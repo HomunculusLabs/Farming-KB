@@ -4,7 +4,8 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [psychopharmacology, therapy, consciousness, health, methods, culture, medicine, philosophy]
-sources: []
+sources:
+  - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
 # Psychedelic Integration

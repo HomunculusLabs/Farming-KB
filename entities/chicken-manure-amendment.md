@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-[[chicken-manure]] is a concentrated organic fertilizer widely used in vegetable gardening. In bagged form (somewhat composted but not labeled "compost"), it is significantly more nutrient-dense than steer manure and serves as the intermediate-tier amendment in Steve Solomon's soil fertility gradient. Solomon used bagged chicken manure (NPK 4-3-2) as his primary fertilizer before switching to his proprietary [[complete-organic-fertilizer]] (COF) blend.
+[[chicken-manure]] is a [[hamilton-concentrated-organic-fertilizer-products]] widely used in [[dryland-vegetable-gardening]]. In bagged form (somewhat composted but not labeled "compost"), it is significantly more nutrient-dense than steer manure and serves as the intermediate-tier amendment in Steve Solomon's [[soil-fertility-gradient-approach]]. Solomon used bagged chicken manure (NPK 4-3-2) as his primary fertilizer before switching to his proprietary [[complete-organic-fertilizer]] (COF) blend.
 
 ## Classification
 
@@ -22,7 +22,7 @@ type: entity
 - The concentrated nutrient content means careful application is required — overuse can burn plants and unbalance soil minerals.
 - In Solomon's fertility gradient: 1/8 inch (3 mm) layer for medium-demand vegetables, 1/4 inch (6 mm) for high-demand vegetables per 1,000 sq ft.
 - Fresh chicken manure is too "hot" (high in ammonia) for direct garden use and must be composted or aged first.
-- The bagged commercial product has been partially composted, reducing burn risk but also lowering some nutrient availability.
+- The bagged commercial product has been partially composted, reducing burn risk but also lowering some [[chelation-and-nutrient-availability]].
 - Chicken manure is particularly rich in nitrogen and phosphorus, making it valuable for leafy greens and fruiting vegetables.
 
 ## Relevance to Cultivation
@@ -44,7 +44,7 @@ Chicken manure serves as a bridge between low-grade steer manure and the full CO
 ## See Also
 
 - Steer manure
-- Complete Organic Fertilizer (COF)
+- [[complete-organic-fertilizer-cof-formula]] (COF)
 - Soil fertility gradient
 - Organic gardening
 
@@ -73,7 +73,7 @@ rates and timing near waterways.
 Combine amendments with cover cropping and crop rotation for
 optimal soil building. Monitor plant response to guide future
 amendment schedules. Soil testing helps determine appropriate
-application rates and identifies nutrient imbalances that need
+[[ingham-compost-tea-application-rates-and-timing]] identifies nutrient imbalances that need
 correction.
 
 ## Additional Notes

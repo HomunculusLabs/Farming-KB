@@ -1,7 +1,7 @@
 ---
 title: Mescalero mescalero-apache-peyote-use Shamanism
 created: 2026-04-26
-sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 5 (Boyer, Boyer, Basehart)
+sources: Harner (ed.), [[hallucinogens-and-shamanism]] (1973), Ch. 5 (Boyer, Boyer, Basehart)
 related:
   - peyote
   - lophophora-williamsii
@@ -17,10 +17,10 @@ A unique case where experiences with a hallucinogenic cactus in shamanistic ritu
 
 ## Historical Use
 
-The Apaches of the Mescalero Indian Reservation include Mescaleros, Chiricahuas, and Lipans:
+The Apaches of the [[mescalero-indian-reservation]] include Mescaleros, Chiricahuas, and Lipans:
 - Mescaleros used peyote in religious rites by **1867**
 - Chiricahuas by **1875**
-- Lipans by **1885** (obtained from Carrizo Indians)
+- Lipans by **1885** (obtained from [[carrizo-indians]])
 - Mescaleros learned peyote rites from the Lipans around **1870**
 
 The Apaches call peyote **hoos**. It was used only during Mescalero and Lipan shamanistic ceremonies, not for social purposes. No knowledge of Chiricahua peyote use was found.
@@ -36,7 +36,7 @@ Peyote use was acquired from personal contact with **power that approached peopl
 There was a fundamental conflict between ordinary Mescalero shamanistic practices and peyote rites:
 
 - **Ordinary practice**: A single shaman is the principal figure; religious ecstasy, visions, and communications with supernaturals are the shaman's **privatives**
-- **Peyote meetings**: Multiple shamans and participants all experienced peyote's effects simultaneously, making its psychological and physiological effects **common**
+- **Peyote meetings**: Multiple shamans and participants all experienced peyote's effects simultaneously, making its psychological [[emcdda-psilocybin-mushroom-somatic-health-risks-and-physiological-effects]] **common**
 
 The uniqueness of the shaman's experiences disappeared. The peyote meetings became places where **shamanistic rivalries and witchcraft flourished**. Disruption resulted rather than cohesiveness.
 

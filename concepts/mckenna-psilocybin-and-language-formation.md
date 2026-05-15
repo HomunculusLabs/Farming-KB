@@ -1,5 +1,5 @@
 ---
-title: Mckenna Psilocybin And Language Formation
+title: [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]] And [[mckenna-catalyzing-consciousness-language-formation]]
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -57,7 +57,7 @@ based behavioral styles spread through populations along with reinforcing genes.
 
 ## Language as the Medium of Shamanic Power
 
-McKenna links language formation directly to the development of [shamanism.
+McKenna links language formation directly to the development of [[shamanism]].
 A world made of language is the fundamental insight of the psychedelic
 shaman. From the shamanic perspective, the cosmos is a tale that becomes
 true as it is told, and as it tells itself. This perspective implies that

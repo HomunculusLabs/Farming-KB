@@ -47,7 +47,7 @@ The calyptra is large, cucullate, and covers most of the capsule. Spores are 12â
 
 *Leucobryum glaucum* is distributed across Europe, Asia, and [[fukuoka-natural-farming-in-tropical-regions]].
 
-It occurs throughout the British Isles, Scandinavia, Central Europe, the Pacific Northwest [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
+It occurs throughout the British Isles, Scandinavia, Central Europe, the [[psilocybin-north-america-pacific-northwest]] [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
 ## Ecology and Interactions
 
@@ -67,7 +67,7 @@ The species is sensitive to atmospheric nitrogen deposition and has declined in 
 
 Its presence is used as a bioindicator for clean air and low-nitrogen, acidic forest conditions.
 
-Sporophyte production is rare, suggesting that asexual reproduction through fragmentation may be the primary colonization mechanism.
+Sporophyte production is rare, suggesting that [[conidia-and-asexual-reproduction-in-filamentous-fungi]] through fragmentation may be the primary colonization mechanism.
 
 ## Traditional Uses and Applications
 
@@ -78,7 +78,7 @@ In parts of Scandinavia and Scotland, the moss was traditionally gathered as stu
 ## Overview
 
 Leucobryum Glaucum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Leucobryum Glaucum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,7 +107,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 leucobryum glaucum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

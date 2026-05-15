@@ -5,7 +5,7 @@ type: species
 tags: [fungal-pathogen, dry-bubble, mushroom-disease, casing-contaminant, soil-borne]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
 
 # Verticillium malthousei

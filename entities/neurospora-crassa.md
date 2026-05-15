@@ -30,23 +30,23 @@ Sexual reproduction involves mating between strains of opposite mating type (mat
 N. crassa has made foundational contributions to biology:
 
 - One of the first organisms used in the one-gene-one-enzyme hypothesis, established by Beadle and Tatum
-- Pioneer organism for studying circadian rhythms at the molecular level, with the frequency (frq) gene as a central clock component
+- Pioneer organism for studying [[plant-circadian-rhythms]] at the molecular level, with the frequency (frq) gene as a central clock component
 - Critical model for gene silencing mechanisms including meiotic silencing by unpaired DNA (MSUD) and repeat-induced point mutation (RIP)
-- Model for septal pore organization and organelle function in filamentous fungi
+- Model for [[woronin-bodies-and-septal-pore-organization]] and organelle function in filamentous fungi
 - Reference species for comparative fungal genomics and evolutionary studies
 
 ## Environmental Distribution
 
 N. crassa is widely distributed in tropical and subtropical regions, particularly associated with burned vegetation and recently fire-damaged areas. The species is commonly isolated from burned grasslands, sugar cane fields, and other fire-prone ecosystems where the heat of fire stimulates ascospore germination.
 
-The natural ecology of N. crassa involves colonization of recently burned plant material, where it competes with other pyrophilous fungi. This fire-associated lifestyle has shaped its biology, including its thermotolerance and rapid colonization ability. The species is less commonly found in temperate regions, though it can be isolated from soil and plant debris.
+The natural ecology of N. crassa involves colonization of recently burned plant material, where it competes with other pyrophilous fungi. This fire-associated lifestyle has shaped its biology, including its thermotolerance and rapid colonization ability. The species is less commonly found in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], though it can be isolated from soil and plant debris.
 
 ## Genetic Tools and Resources
 
 ## Overview
 
 Neurospora Crassa represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -67,7 +67,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Neurospora Crassa finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -96,7 +96,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 neurospora crassa and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

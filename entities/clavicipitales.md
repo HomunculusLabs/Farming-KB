@@ -37,7 +37,7 @@ the herbivores that feed on them.
 
 ## Key Facts
 
-- Members of the Clavicipitales are the dominant fungal endophytes of
+- Members of the Clavicipitales are the dominant [[fungal-endophytes]] of
   cool-season grasses (Poaceae, subfamily Pooideae). Clay (1990) listed
   *Acremonium* (*Neotyphodium*), *Atkinsoniella*, *Balansia*, *Epichloe*, and
   *Myriogenospora* as five genera in the Clavicipitales that act as grass
@@ -68,7 +68,7 @@ the herbivores that feed on them.
 - In the entomopathogenic branch of the order, *Cordyceps* species are
   important density-dependent regulators of insect populations in forest
   ecosystems, with *C. militaris* causing periodic population fluctuations
-  in beech caterpillar (*Syntypistis punctatella*).
+  in beech caterpillar (*[[syntypistis-punctatella]]*).
 - The evolutionary trajectory of Clavicipitales-plant associations appears to
   be driven by herbivory pressure, with increasing endophyte infection rates
   correlated with higher herbivore intensity over evolutionary time.
@@ -102,3 +102,8 @@ the herbivores that feed on them.
 - Bacon, C. W., White, J. F. (2000). *Microbial Endophytes*.
 - Jarvis, B. B. et al. (1987). Trichothecene mycotoxins from *Baccharis*.
 - Dighton, J. *Fungi in Ecosystem Processes*. Chapter 5.
+## See also
+
+- [[epichloe]]
+- [[neotyphodium]]
+- [[balansia]]

@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Satyavati, G.V. (1988). 'Gum Guggul (Commiphora mukul) — The ingham-vineyard-success-story of an Ancient Insight Leading to a Modern Discovery.' Indian Journal of Medical Research, 87, 327-335."
+  - "Satyavati, G.V. (1988). 'Gum Guggul (Commiphora mukul) — The [[ingham-vineyard-success-story]] of an Ancient Insight Leading to a Modern Discovery.' Indian Journal of Medical Research, 87, 327-335."
   - "Dev, S. (1997). 'Ancient-Modern Concordance in Ayurvedic Plants: Some Resins.' Proceedings of the Indian National Science Academy, 63B, 77-96."
   - "Urizar, N.L. et al. (2002). 'Guggulsterone Is a Farnesoid X Receptor Antagonist.' Molecular Endocrinology, 16(7), 1590-1600."
   - "Singh, V. et al. (1990). 'Guggulipid — A Hypolipidemic Agent.' Journal of the Association of Physicians of India, 38(5), 323-328."

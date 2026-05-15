@@ -30,7 +30,7 @@ The mesophytic forests represent a conjugation zone where both northern and sout
 
 Psilocybe aztecorum var. aztecorum grows exclusively in subalpine and alpine habitats of the high mountains of Mexico, reaching approximately 4,000 meters elevation.
 
-This is one of the highest-elevation psilocybin mushroom species known.
+This is one of the highest-elevation [[psilocybin-mushroom]] species known.
 
 Psilocybe aztecorum presents strong relationships with [[psilocybe-global-biogeography]], neotropical-psilocybin-mushrooms
 ## Practical Considerations

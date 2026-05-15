@@ -36,11 +36,11 @@ Wallabies are small to mid-sized macropod marsupials native to Australia and New
 
 ## Relevance to Cultivation and Mycology
 
-- Understanding grazing schedules informs [[permaculture]]: A Designers' Manual*, sections on niche in time and space, and scheduling. Mollison cites his own field studies of Tasmanian wallaby behavior as evidence for time-slot resource sharing.
+- Understanding grazing schedules informs [[permaculture]]: A Designers' Manual*, sections on niche in time and space, and scheduling. Mollison cites his own field studies of Tasmanian wallaby behavior as evidence for time-slot [[mycelial-network-resource-sharing-plants]].
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies
-- Relates to fundamental principles of natural system design
+- Relates to fundamental [[four-principles-of-natural-farming]] system design
 - Has applications across multiple disciplines and contexts
 - Understanding this topic supports better environmental stewardship
 
@@ -57,7 +57,7 @@ Wallabies are small to mid-sized macropod marsupials native to Australia and New
 - Understanding requires both theoretical and practical knowledge
 
 ## Ecological Role
-- Contributes to ecosystem function and resilience
+- Contributes to [[dighton-mycorrhizal-diversity-ecosystem-function]] and resilience
 - Supports biodiversity and habitat complexity
 - Plays role in natural nutrient cycling processes
 - Influenced by landscape-level patterns and processes
@@ -68,7 +68,7 @@ Wallabies are small to mid-sized macropod marsupials native to Australia and New
 ## Overview
 
 Wallaby represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -118,7 +118,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 wallaby and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

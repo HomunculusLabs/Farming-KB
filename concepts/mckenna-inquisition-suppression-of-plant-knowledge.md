@@ -12,7 +12,7 @@ type: concept
 
 In Food of the Gods, [[witches-fungi-and-flying-ointments]] and magical salves were
 compounded from Datura roots and seeds, parts of the plant rich in the
-delirium and delusion-producing tropane alkaloids atropine, scopolamine,
+delirium and delusion-producing [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] atropine, scopolamine,
 and hyoscyamine. When these preparations were applied to the skin, they
 produced states of extraordinary derangement and delusion, including
 sensations of flight, transformation, and contact with supernatural
@@ -78,7 +78,7 @@ independent visionary experience possible.
 ## Overview
 
 Mckenna Inquisition Suppression Of Plant Knowledge represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mckenna Inquisition Suppression Of Plant Knowledge finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,13 +107,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for mckenna inquisition suppression of plant knowledge. Climate adaptation
+opportunities for mckenna inquisition suppression of plant knowledge. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mckenna inquisition suppression of plant knowledge and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,5 +1,5 @@
 ---
-title: Vegetable Gardening Fundamentals
+title: [[dryland-vegetable-gardening]] Fundamentals
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -55,11 +55,11 @@ If too many seeds germinate (or seeds are sown too thickly), the resulting plant
 
 ### 4. Eliminate Wild Plants That Sneak In (Ongoing Weeding)
 
-Weeding is not a one-time activity. Weed seeds continuously germinate, wind-blown seeds arrive, and perennial weeds regrow from roots. Consistent attention throughout the growing season is necessary.
+Weeding is not a one-time activity. Weed seeds continuously germinate, wind-blown seeds arrive, and perennial weeds regrow from roots. Consistent attention throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] is necessary.
 
 ### 5. Improve Soil Fertility and Moisture
 
-Left to nature, most soils are not ideal for vegetable production. We improve the soil by:
+Left to nature, most soils are not ideal for [[coleman-french-historical-winter-vegetable-production]]. We improve the soil by:
 
 - Adding organic matter (compost, manure) to increase water retention and biological activity
 - Adding mineral nutrients through fertilizers
@@ -108,16 +108,16 @@ A critical insight from Solomon's research is that the nutritional quality of ve
 Compost and manure serve primarily to:
 
 - Supply organic matter that feeds soil organisms
-- Improve soil structure (water retention, drainage, aeration)
+- [[query-how-do-fungi-improve-soil-structure]] (water retention, drainage, aeration)
 - Provide a slow-release source of nutrients
 - Support the complex soil ecology that makes minerals available to plants
 
-However, compost and manure alone cannot correct mineral imbalances in the soil. A complete approach requires both organic matter for soil biology and mineral amendments for balanced nutrition.
+However, compost and manure alone cannot correct mineral imbalances in the soil. A complete approach requires both organic matter for soil biology [[mollison-designers-soil-ph-and-mineral-amendments]] for balanced nutrition.
 
 ## Key Takeaways
 
 1. Vegetables are domesticated plants that cannot survive without human care — weeding, watering, feeding, and seed saving
-2. The five core practices — weeding, sowing, thinning, soil improvement, and variety selection — encompass virtually all of vegetable gardening
+2. The five core practices — weeding, sowing, thinning, soil improvement, [[seed-saving-and-variety-selection]] — encompass virtually all of vegetable gardening
 3. Proper spacing is critical: crowded plants compete and produce less; well-spaced plants develop their full potential
 4. Soil preparation (bare, loosen, enrich, space) is the universal first step across all gardening traditions
 5. Not all vegetables have the same demands — categorize by low, medium, and high nutrient needs

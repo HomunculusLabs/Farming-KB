@@ -7,7 +7,7 @@ tags: [fungi, ascomycota, phylloplane, bioindicator, pollution, conifers]
 
 ## Description
 
-*Sclerophoma pythiophila* is a coelomycete fungus (Ascomycota) commonly found on the needles of coniferous trees, particularly spruce (*Picea* spp.) and pine (*Pinus* spp.). It is considered a **weak parasite** or **opportunistic pathogen** that primarily colonizes stressed, damaged, or senescing needles. The species has gained significance in environmental mycology as its abundance on conifer needles changes in response to atmospheric pollutants, particularly sulfur dioxide (SO2) and ozone (O3), making it a potential **bioindicator** of air quality and pollutant stress in forest ecosystems.
+*Sclerophoma pythiophila* is a coelomycete fungus (Ascomycota) commonly found on the needles of coniferous trees, particularly spruce (*Picea* spp.) and pine (*Pinus* spp.). It is considered a **weak parasite** or **opportunistic pathogen** that primarily colonizes stressed, damaged, or senescing needles. The species has gained significance in [[environmental-mycology]] as its abundance on conifer needles changes in response to atmospheric pollutants, particularly sulfur dioxide (SO2) and ozone (O3), making it a potential **bioindicator** of air quality and pollutant stress in forest ecosystems.
 
 ## Classification
 
@@ -25,7 +25,7 @@ tags: [fungi, ascomycota, phylloplane, bioindicator, pollution, conifers]
 - Produces pycnidia (asexual fruiting bodies) on needle surfaces
 - Conidia (asexual spores) are hyaline to subhyaline, ellipsoidal to cylindrical
 - Colonizes needle surfaces as part of the phylloplane fungal community
-- Often found alongside other common phylloplane fungi including *Aureobasidium pullulans*, *Cladosporium* spp., and various pink and white yeasts
+- Often found alongside other common phylloplane fungi including *[[aureobasidium-pullulans]]*, *Cladosporium* spp., and various pink and white yeasts
 - Functions as both a saprotroph on dead needle tissue and a weak pathogen on stressed needles
 
 ### Ecological Role
@@ -108,3 +108,8 @@ tags: [fungi, ascomycota, phylloplane, bioindicator, pollution, conifers]
 - Atmospheric pollution effects on fungi
 - Forest health bioindicators
 - Waldsterben
+## See also
+
+- [[fungal-plant-diseases]]
+- [[rhizosphaera-kalkhoffii]]
+- [[peniophora-gigantea]]

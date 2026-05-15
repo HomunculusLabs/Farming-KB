@@ -40,7 +40,7 @@ The third pillar develops physical capabilities and task mastery:
 - **Learning new tasks** - Trainees must learn to do things, to do things
   differently, to control their body, and to accomplish new tasks.
 - **Alternate methods** - People with disabilities can accomplish
-  everything needed for mushroom cultivation by using different methods
+  everything needed [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] by using different methods
   and developing personal ways of performing various tasks. For example,
   a person unable to use two hands can use their feet to make substrate
   bags.
@@ -75,7 +75,7 @@ compared to open-field farming. Repetitive tasks suit people with mental
 ## Overview
 
 Rehabilitation Through Mushroom Cultivation represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Rehabilitation Through Mushroom Cultivation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,7 +104,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -124,8 +124,8 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-rehabilitation through mushroom cultivation and its applications. Active investigation
-areas include ecological interactions and optimization.
+rehabilitation through [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,12 +1,12 @@
 ---
-title: Garden Tools Selection and Care
+title: [[garden-tools-selection]] and Care
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Garden Tools Selection and Care
 
-Beyond the four essential tools (combination shovel, bow rake, hoe, and file), several additional items significantly improve garden efficiency. Selecting quality tools and maintaining them properly extends their useful life for decades. In an era when most manufactured goods are designed to be disposable, proper tool care is a vanishing skill that every serious gardener should practice.
+Beyond the four essential tools ([[combination-shovel]], bow rake, hoe, and file), several additional items significantly improve garden efficiency. Selecting quality tools and maintaining them properly extends their useful life for decades. In an era when most manufactured goods are designed to be disposable, proper tool care is a vanishing skill that every serious gardener should practice.
 
 ## The Wheelbarrow
 
@@ -40,9 +40,9 @@ A properly fitted, quality wheelbarrow should last 20 years or more if handles a
 There are times when foliar spraying is necessary:
 
 - Liquid fertilizer on leaves (fertigation)
-- Compost tea for disease suppression
-- Bacillus thuringiensis (Bt) for corn earworms or cabbageworms
-- Home remedies like soapy water or rhubarb leaf juice for pest control
+- [[compost-tea-for-specific-crops]] [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]]
+- [[bacillus-thuringiensis]] (Bt) for corn earworms or cabbageworms
+- Home remedies like soapy water or rhubarb leaf juice [[insectary-plants-for-pest-control]]
 
 ### Selecting a Quality Sprayer
 

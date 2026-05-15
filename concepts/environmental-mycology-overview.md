@@ -24,14 +24,14 @@ Without fungal decomposition, nutrient cycling in terrestrial ecosystems would e
 
 Fungal pathogens cause some of the most devastating crop diseases known.
 The rice blast fungus (*Magnaporthe grisea*, now reclassified as *M. oryzae*) alone threatens the food supply of millions of people globally, destroying enough rice annually to feed millions.
-Environmental mycology studies these pathogens not merely as agricultural pests but as integral components of ecosystem dynamics, where they influence plant community composition, succession patterns, and nutrient cycling.
+Environmental mycology studies these pathogens not merely as agricultural pests but as integral components of ecosystem dynamics, where they influence [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]], succession patterns, and nutrient cycling.
 Understanding pathogenic fungi in their environmental context—including their non-pathogenic life stages, environmental reservoirs, and interactions with other microorganisms—is essential for developing sustainable disease management strategies.
 
 ### Mutualistic Symbionts
 
 Mycorrhizal fungi form symbiotic associations with the roots of the vast majority of plant species—estimated at over 80% of terrestrial plants.
 These associations are critical for [[plant-nutrient-uptake]], particularly phosphorus, and play major roles in carbon cycling and plant community dynamics.
-Arbuscular mycorrhizal fungi (AMF) associate with most crop plants and many wild species, forming intricate arbuscule structures within root cortical cells that facilitate bidirectional nutrient exchange.
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (AMF) associate with most crop plants and many wild species, forming intricate arbuscule structures within root cortical cells that facilitate bidirectional nutrient exchange.
 Ectomycorrhizal fungi, which associate primarily with forest trees, form sheathing mantles around root tips and extensive extraradical mycelial networks that scavenge nutrients from soil.
 
 Lichens, which are symbiotic associations between fungi (mycobionts) and photosynthetic partners (photobionts—either green algae or cyanobacteria), represent another globally important mutualistic lifestyle.
@@ -56,7 +56,7 @@ The contribution of fungal exopolymers to soil aggregation is therefore a critic
 Imaging and Modelling of Fungi
 
 Modern cell imaging techniques—including confocal laser scanning microscopy, fluorescent probes, and time-lapse imaging—have revealed unexpected complexity in fungal cell structure and function.
-These tools allow researchers to track nutrient movement through mycelial networks in real time, study sub-cellular organelle dynamics, and understand how environmental signals influence hyphal and colony morphogenesis.
+These tools allow researchers to track [[nutrient-movement-through-soil-to-plant-roots]] mycelial networks in real time, study sub-cellular organelle dynamics, and understand how environmental signals influence hyphal and colony morphogenesis.
 Mathematical modelling, grounded in biological data, enables prediction of mycelial form and function in complex, realistic environments.
 
 Key developments include the use of Woronin bodies in ascomycete fungi—specialized organelles that plug septal pores to maintain cellular compartmentalization, supporting a multicellular lifestyle in these filamentous organisms.
@@ -85,7 +85,7 @@ They serve as major conduits for carbon flow from plants to soil, receiving 10-2
 Jonathan Leake's chapter examines mycorrhizal roles in global carbon sequestration and plant community composition.
 
 Arbuscular mycorrhizal fungi, which associate with the majority of terrestrial plant species, are now being studied through genomic approaches that reveal the molecular dialogue between fungus and host plant during symbiosis development.
-Liu, Lopez-Meyer, Maldonado-Mendoza, and Harrison provide insights from genomics into the development of arbuscular mycorrhizal symbiosis.
+Liu, Lopez-Meyer, Maldonado-Mendoza, and Harrison provide insights from genomics into the development of [[arbuscular-mycorrhizal-symbiosis]].
 
 Lichen research focuses on water relations and desiccation tolerance—key determinants of lichen success in exposed environments.
 Rosmarie Honegger's chapter examines how lichens manage water relations, critical for their role as pioneer organisms on rock surfaces and in extreme habitats.
@@ -110,8 +110,8 @@ Environmental Population Genetics
 
 Advances in molecular biology are transforming our understanding of fungal population genetics and species concepts.
 Taylor, Turner, Pringle, Dettman, and Johannesson examine fungal species recognition, maintenance, and selection, addressing fundamental questions about what constitutes a fungal species.
-Multilocus sequence typing (MLST) and multilocus microsatellite typing (MLMT), as described by Fisher, provide powerful tools for studying fungal population structure, reproductive biology, and evolutionary dynamics.
-These approaches challenge traditional morphological species concepts and reveal the full complexity of fungal genetic diversity.
+[[fungi-multilocus-sequence-typing-molecular-epidemiology]] (MLST) and multilocus microsatellite typing (MLMT), as described by Fisher, provide powerful tools for studying fungal population structure, reproductive biology, and evolutionary dynamics.
+These approaches challenge traditional morphological species concepts and reveal the full complexity of [[biodiversity-fungal-genetic-diversity]].
 
 ### VI.
 Molecular Ecology

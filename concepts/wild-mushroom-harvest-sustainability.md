@@ -60,7 +60,7 @@ destroys mycorrhizal networks. Conversion of diverse mixed forests to
 monoculture plantations reduces fungal diversity and productivity. Soil
 compaction from heavy machinery damages the soil structure and hyphal
 networks that support mushroom fruiting.
-The age of the forest stand also matters. Many ectomycorrhizal mushroom
+The age of the forest stand also matters. Many [[ectomycorrhizal-mushroom-fruiting-ecology]]
 species fruit most abundantly in mature forests with well-developed soil
 profiles and diverse tree communities. Young plantations typically produce
 fewer and less diverse mushrooms.
@@ -68,14 +68,14 @@ fewer and less diverse mushrooms.
 ### Climate Change
 
 Climate change is emerging as the most significant long-term threat to
-wild mushroom sustainability. Changing precipitation patterns, increasing
-temperatures, and more frequent extreme weather events are affecting
+wild mushroom sustainability. Changing [[desert-precipitation-patterns-and-opportunistic-ecology]], increasing
+temperatures, and more frequent [[windbreak-effects-on-soil-moisture-and-extreme-weather]] events are affecting
 fungal fruiting patterns across the globe.
 
 ## Overview
 
 Wild Mushroom Harvest Sustainability represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Wild Mushroom Harvest Sustainability finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 wild mushroom harvest sustainability and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

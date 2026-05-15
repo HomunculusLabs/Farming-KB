@@ -1,5 +1,5 @@
 ---
-title: Desert Reafforestation and Arid Land Agriculture
+title: [[desert-reafforestation-strategies]] and Arid Land Agriculture
 source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
@@ -47,7 +47,7 @@ Around the house (wiltja), in pest-protected, fenced, guarded areas where feral 
 2. Alter house climate while doing so
 
 ### Water Conservation
-"Trickle irrigation plus mulch is the key to [[water-conservation]], the reduction of salt and carbonate accumulation, and the buffering of pH values, as humic acids tend to offset the effect of highly alkaline soil. Ploughing only increases alkalinity to intolerable levels."
+"Trickle irrigation plus mulch is the key to [[water-conservation]], the reduction of salt and carbonate accumulation, and the buffering of pH values, as [[humic-acids-soil-biology-ingham]] tend to offset the effect of highly alkaline soil. Ploughing only increases alkalinity to intolerable levels."
 
 ### Mulch Materials
 - Mulga (Acacia aneura)
@@ -63,7 +63,7 @@ Around the house (wiltja), in pest-protected, fenced, guarded areas where feral 
 - Shower, toilet, and roof water available for gardens
 - Washing-up, shower, bath water containing soap led under mulch is "a benefit, not a nuisance"
 - Pebble mounds with showers overhead provide water treatment and garden moisture
-- "Many showers, so placed, make garden watering an automatic process"
+- "Many showers, so placed, make [[vegetable-garden-watering-systems-spacing]] an automatic process"
 
 ## House Climate Modification
 
@@ -87,7 +87,7 @@ A small or strongly-constructed roof can be soil-covered, mulched, and planted t
 ### Net and Pan System
 The "net and pan" planting pattern is effective control in overgrazed, eroded, mined, or bulldozed sites:
 - If tyres are available, "pans" can be made from these, filled with mulch
-- Diversion drains led in above the tread level
+- [[diversion-drains-and-spreader-banks]] led in above the tread level
 - Logs staked cross-slope on slight downhill grade make water zig-zag across erosion face
 - Even small logs and branches pegged across erosion channels build up silt and leaves
 - Fibrous-rooted hardy species (willow, ti-tree, acacia) planted beside barriers act as permanent silt traps
@@ -107,7 +107,7 @@ Bamboo, mulga, and eucalypt should be butt-soaked in "Tanalith" (copper-chrome-a
 At Ernabella: 6,000 cattle and 20,000–30,000 brumbies on land supporting only 1,700 humans. These animals:
 - Eat out traditional Aboriginal wild-food plants (60% extinct)
 - Damage young trees and break branches on old trees
-- Cause bare sand to blow on dune country
+- Cause bare sand to blow on [[dune-country-stabilisation]]
 - Foul and break down river-beds and waterholes
 
 ### Management Options
@@ -147,4 +147,4 @@ As dams, tanks, and lagoons develop:
 
 Dr. Archie Kalikorinus (Aboriginal Medical Centre, Sydney): "Improving nutrition and hygiene at camps and in outstations would be 'better than all the medical services' for health."
 
-High vitamin C content in fruit is a prime aim, especially for women before and during pregnancy. Recommended plants above frost level: paw-paw, mango, tomato, peppers, acerola (Barbados cherry), parsley, and any green leaf crop.
+High vitamin C content in fruit is a prime aim, especially for women before and during pregnancy. Recommended plants above frost level: paw-paw, mango, tomato, peppers, acerola ([[acerola-barbados-cherry-permaculture-guide]]), parsley, and any green leaf crop.

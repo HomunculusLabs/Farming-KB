@@ -8,8 +8,8 @@ type: entity
 
 ## Description
 
-A firestorm is an intense wildfire phenomenon that creates powerful vortices and fire tornadoes through conditions similar to natural tornadoes, but driven by the extreme heat of mass ignition rather than atmospheric instability alone. Mollison includes firestorms in his treatment of extreme wind phenomena alongside hurricanes and tornadoes, noting their particular danger at hill crests where they can spread burning particles downwind for many kilometres. Understanding firestorms is essential for [[mycorrhizal-networks]] and soil food webs. Re-inoculation with mycorrhizal fungi may be necessary for successful re-establishment of perennial crops after fire.
-- **Biochar production**: Controlled fire can produce biochar that serves as both a soil amendment and a substrate component for mushroom cultivation, turning a destructive force into a productive input that improves water retention and microbial habitat.
+A firestorm is an intense wildfire phenomenon that creates powerful vortices and fire tornadoes through conditions similar to natural tornadoes, but driven by the extreme heat of mass ignition rather than atmospheric instability alone. Mollison includes firestorms in his treatment of extreme wind phenomena alongside hurricanes and tornadoes, noting their particular danger at hill crests where they can spread burning particles downwind for many kilometres. Understanding firestorms is essential for [[mycorrhizal-networks]] and soil food webs. Re-inoculation with [[mycorrhizal-fungi]] may be necessary for successful re-establishment of perennial crops after fire.
+- **Biochar production**: Controlled fire can produce biochar that serves as both a soil amendment and a substrate component [[grass-seed-substrate-for-mushroom-cultivation]], turning a destructive force into a productive input that improves water retention and microbial habitat.
 
 ## Design Defences Against Firestorm
 
@@ -22,7 +22,7 @@ A firestorm is an intense wildfire phenomenon that creates powerful vortices and
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies
-- Relates to fundamental principles of natural system design
+- Relates to fundamental [[four-principles-of-natural-farming]] system design
 - Has applications across multiple disciplines and contexts
 - Understanding this topic supports better environmental stewardship
 
@@ -45,8 +45,8 @@ A firestorm is an intense wildfire phenomenon that creates powerful vortices and
 - Influenced by landscape-level patterns and processes
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
-- Used in conservation and ecological restoration projects
+- Applied in [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] sustainable land management
+- Used in conservation and [[mycorrhizal-fungi-ecological-restoration]] projects
 - Informs decision-making in agricultural and horticultural systems
 - Supports development of regenerative practices
 
@@ -84,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Firestorm finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -113,7 +113,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 firestorm and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

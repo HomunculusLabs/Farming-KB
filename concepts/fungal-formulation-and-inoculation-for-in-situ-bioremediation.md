@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 updated: 2026-04-18 Formulation of fungi for in situ fungal-bioremediation. While laboratory results with [[singh-cytochrome-p450-fungal-bioremediation]] | Straw, hay, wood | 3,4-dichloroaniline, benzo[a]pyrene | Low breakdown levels |
 | [[non-sterilized-wheat-straw-oyster-cultivation]] | PAHs, [[cervantes-organic-amendments-chart]] alone can sometimes improve degradation more than fungal inoculation

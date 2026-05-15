@@ -14,7 +14,7 @@ Many gardeners wet down their gardens almost daily with a hose nozzle because th
 
 ## John Jeavons' "Sparkle Test"
 
-John Jeavons, the popularizer of intensive gardening in North America, recommends using a fan nozzle daily, continuing on each bed until the entire surface "sparkles" (becomes shiny wet).
+[[john-jeavons]], the popularizer of intensive gardening in North America, recommends using a fan nozzle daily, continuing on each bed until the entire surface "sparkles" (becomes shiny wet).
 
 ### How It Works
 

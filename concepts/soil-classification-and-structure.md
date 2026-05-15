@@ -6,7 +6,7 @@ type: concept
 
 # Soil Classification and Structure
 
-Soil classification and structure form the foundation of permaculture land assessment and design. Understanding soils—both through traditional knowledge systems and modern scientific methods—allows designers to match land use to soil capability, preserve soil health, and make informed decisions about earthworks, agriculture, and [[water-management]].
+Soil classification and structure form the foundation of permaculture land assessment and design. Understanding soils—both through [[wasted-human-resources-and-traditional-knowledge]] systems and modern scientific methods—allows designers to match land use to soil capability, preserve soil health, and make informed decisions about earthworks, agriculture, and [[water-management]].
 
 ## Tribal and Traditional Soil Classifications
 
@@ -31,7 +31,7 @@ Indigenous and traditional farming societies developed remarkably sophisticated 
 
 ### Depth of the Living Soil System
 
-The productive soil mantle is remarkably thin—often compared to the shine on an orange skin. Soils rarely extend below 1–2 metres, and as a living system with active biological processes, effective soil depth is frequently only 6–12 centimetres. This thin layer supports virtually all terrestrial life and demands careful stewardship. Below water bodies, this living mud extends across lake and river bottoms, forming the substrate for aquatic ecosystems.
+The productive soil mantle is remarkably thin—often compared to the shine on an orange skin. Soils rarely extend below 1–2 metres, and as a living system with active biological processes, effective soil depth is frequently only 6–12 centimetres. This thin layer supports virtually all terrestrial life and demands careful stewardship. Below water bodies, this living mud extends across lake and river bottoms, forming the substrate for [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 ## The Jar Method for Soil Composition Assessment
 
@@ -42,7 +42,7 @@ A simple, accessible field technique for determining the relative proportions of
 3. Shake vigorously to fully suspend all particles and break apart aggregates.
 4. Set the jar on a level surface and allow it to settle undisturbed for 24–48 hours.
 
-As the suspension settles, particles separate by size: sand falls first (within minutes), then silt (within hours), and clay remains in suspension longest (1–2 days). The resulting layers can be measured to determine the soil's texture class. For practical earthworks, approximately **40% clay content** is needed for stable dam wall construction—making this simple test invaluable for permaculture site assessment.
+As the suspension settles, particles separate by size: sand falls first (within minutes), then silt (within hours), and clay remains in suspension longest (1–2 days). The resulting layers can be measured to determine the soil's texture class. For practical earthworks, approximately **40% clay content** is needed for stable dam wall construction—making this simple test invaluable for [[permaculture-site-assessment-checklist]].
 
 ### Particle Size Definitions
 
@@ -56,7 +56,7 @@ The significance of particle size extends beyond mere classification. One gram o
 
 ## Soil and Water Elements
 
-Of the 103 known elements, soils are predominantly composed of **aluminium, silica, iron, and calcium**. These four elements form the mineral backbone of most terrestrial soils worldwide. Mollison encourages permaculture designers to study the periodic table as a guide to understanding the roles elements play across soil, water, plant tissue, animal tissue, and human nutrition. This systems-level perspective reveals that elemental cycles connect geological, biological, and nutritional processes into one integrated whole—an understanding essential for designing productive, regenerative landscapes.
+Of the 103 known elements, soils are predominantly composed of **aluminium, silica, iron, and calcium**. These four elements form the mineral backbone of most terrestrial soils worldwide. Mollison encourages [[bill-mollison-permaculture-designers-manual]] to study the periodic table as a guide to understanding the roles elements play across soil, water, plant tissue, animal tissue, and human nutrition. This systems-level perspective reveals that elemental cycles connect geological, biological, and nutritional processes into one integrated whole—an understanding essential for designing productive, regenerative landscapes.
 
 ## Key Principles for Permaculture Design
 
@@ -87,5 +87,5 @@ The extreme thinness of the living soil layer (often 6–12 cm) underscores the 
 - Soil nutrient cycles and mineral availability
 - Earthworks and dam construction principles
 - Water retention strategies for dryland soils
-- No-till agriculture and sheet mulching
-- Mycorrhizal networks and soil biology
+- No-till agriculture [[urban-rooftop-gardening-and-sheet-mulching]]
+- [[mycorrhizal-networks-and-forest-communication]] soil biology

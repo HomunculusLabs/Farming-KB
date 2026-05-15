@@ -23,7 +23,7 @@ Nematophagous fungi are not a single monophyletic group but rather occur across 
 
 - **Predatory fungi**: Form specialized trapping structures on their mycelium to actively capture nematodes
   - Adhesive trap formers (e.g., *Arthrobotrys*, *Dactylellina*)
-  - Constricting ring formers (e.g., *Arthrobotrys dactyloides*)
+  - Constricting ring formers (e.g., *[[arthrobotrys-dactyloides]]*)
 - **Endoparasitic fungi**: Infect nematodes from within, typically through spore attachment to the cuticle
   - Spore-attaching species (e.g., *Drechmeria coniospora*)
   - Cyst-spore formers (e.g., *Catenaria* species)
@@ -43,7 +43,7 @@ Nematophagous fungi employ three primary mechanisms to capture and consume nemat
    - Forms include adhesive nets, adhesive hyphae (knobs), and adhesive branches
    - The adhesive is typically a glycoprotein-based compound secreted from the trap surface
    - Once trapped, the nematode struggles, further entangling itself in the adhesive network
-   - *Arthrobotrys oligospora* is a well-studied example that forms three-dimensional adhesive nets
+   - *[[arthrobotrys-oligospora]]* is a well-studied example that forms three-dimensional adhesive nets
 
 2. **Constricting rings**
    - Formed as circular structures (~20–40 µm in diameter) consisting of three inflated hyphal cells
@@ -61,7 +61,7 @@ Nematophagous fungi employ three primary mechanisms to capture and consume nemat
 
 ### Digestive and Pathogenic Mechanisms
 
-- Produce a suite of **extracellular enzymes** including proteases and chitinases to digest nematode tissue
+- Produce a suite of **[[fungal-extracellular-enzymes]]** including proteases and chitinases to digest nematode tissue
 - Serine proteases are particularly important in degrading the nematode cuticle
 - Collagenases help break down the collagen-rich layers of the nematode body wall
 - Some species produce **toxins** that immobilize prey before or during the trapping process, preventing escape
@@ -91,8 +91,8 @@ Nematophagous fungi hold significant relevance for fungal cultivation and broade
 - **Substrate preparation**: Could be integrated into [[mushroom-substrate-preparation]] as a biological nematode management strategy, reducing losses from nematode contamination
 - **[[soil-food-web]] balance**: Understanding the ecology of nematophagous fungi helps cultivators maintain balanced soil food webs, promoting healthier growing conditions
 - **Competitive interactions**: Some nematophagous fungi may compete with cultivated fungi for resources in shared substrates, making it important to understand their dynamics
-- **Ecosystem health indicators**: Their presence in cultivation soils indicates a healthy ecosystem with balanced predator-prey dynamics and functional biological diversity
-- **[[integrated-pest-management]] (IPM)**: Growing research interest in integrating nematophagous fungi into IPM strategies for sustainable agriculture and mushroom cultivation
+- **[[fungi-ecosystem-health-indicators]]**: Their presence in cultivation soils indicates a healthy ecosystem with balanced predator-prey dynamics and functional biological diversity
+- **[[integrated-pest-management]] (IPM)**: Growing research interest in integrating nematophagous fungi into IPM strategies [[mushroom-cultivation-for-sustainable-agriculture]] [[amanita-identification-and-mushroom-cultivation]]
 - **Commercial potential**: Several species have been developed into commercial biocontrol products for nematode management in high-value crops
 
 ## References

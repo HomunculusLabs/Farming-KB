@@ -140,7 +140,6 @@ Stamets discusses endophytic fungi that live INSIDE plant tissues:
 | Pasture improvement | Endophytic fungi in grasses | Also deters insect pests |
 | Contaminated site restoration | Mycorrhizae + saprophytes | Combined remediation + plant support |
 
-
 ## See Also
 
 - [[mycorrhizal-plant-nutrition-and-ecosystem-sustainability]]

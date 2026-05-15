@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Candelariella vitellina** is a widespread crustose lichen in the family Candelariaceae, commonly found on exposed rock and bark surfaces across temperate regions of the Northern Hemisphere. It forms bright yellow to orange-yellow crusts that are among the most visually distinctive epiphytic and saxicolous lichens.
+**Candelariella vitellina** is a widespread crustose lichen in the family Candelariaceae, commonly found on exposed rock and bark surfaces across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It forms bright yellow to orange-yellow crusts that are among the most visually distinctive epiphytic and saxicolous lichens.
 
 The species is readily recognized by its vivid egg-yolk yellow thallus and its granular to minutely squamulose surface texture. It is one of the most common yellow crustose lichens on both natural and artificial substrates in urban and rural environments.
 
@@ -29,17 +29,17 @@ The species is notably abundant on tombstones, gravestones, and memorial stonewo
 
 ## Chemistry and Bioactive Compounds
 
-Candelariella vitellina contains calycin as the major secondary metabolite, with pulvic acid lactone as a frequent minor constituent. Both compounds are pulvinic acid derivatives responsible for the yellow pigmentation.
+Candelariella vitellina contains calycin as the major [[fungal-elicitors-enhanced-secondary-metabolite-production]], with pulvic acid lactone as a frequent minor constituent. Both compounds are pulvinic acid derivatives responsible for the yellow pigmentation.
 
 Calycin has demonstrated moderate antimicrobial and antifungal activity in laboratory studies. It shows particular activity against Gram-positive bacteria and certain plant pathogenic fungi.
 
-The antimicrobial mechanism involves disruption of bacterial [[fungal-biodiversity-built-environments-indoor-mycobiome]]. It plays a significant role in the initial stages of lithophytic succession on [[natural-building-materials-guide]] and stone monuments.
+The [[non-thermal-microwave-antimicrobial-mechanism-water-coupling-lethality]] involves disruption of bacterial [[fungal-biodiversity-built-environments-indoor-mycobiome]]. It plays a significant role in the initial stages of lithophytic succession on [[natural-building-materials-guide]] and stone monuments.
 
 The species contributes to the biodeterioration of stone cultural heritage through subtle chemical and physical weathering processes. Conservation scientists study C. vitellina as part of efforts to manage biological colonization of historic buildings and monuments.
 
 Hyphal penetration into the stone substrate can cause mechanical disruption of the surface layers. Combined with chemical dissolution from lichen acids, this process gradually alters the surface properties of stonework.
 
-As a corticolous species, C. vitellina contributes to the diversity of epiphytic lichen communities on wayside and parkland trees. It is frequently found in association with Xanthoria parietina and Lecanora species on nutrient-enriched bark.
+As a corticolous species, C. vitellina contributes to the diversity of epiphytic lichen communities on wayside and parkland trees. It is frequently found in association with [[xanthoria-parietina]] and Lecanora species on nutrient-enriched bark.
 
 The species is particularly common on the lower trunks of trees in open parkland and along roadsides. It prefers the more nutrient-rich and light-exposed portions of the trunk.
 
@@ -71,7 +71,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Candelariella Vitellina finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,7 +100,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 candelariella vitellina and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

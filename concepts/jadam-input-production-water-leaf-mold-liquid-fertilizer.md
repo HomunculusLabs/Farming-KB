@@ -32,7 +32,7 @@ Most farms will have access to water of varying quality. JADAM advises farmers t
 
 ### What Is Leaf Mold?
 
-Leaf mold is the soft, dark soil found beneath decomposing leaf litter in forests and grasslands. It is rich in indigenous microorganisms that have adapted to the local environment.
+Leaf mold is the soft, dark soil found beneath decomposing leaf litter in forests and grasslands. It is rich in [[beneficial-indigenous-microorganisms]] that have adapted to the local environment.
 
 ### Collection
 
@@ -50,7 +50,7 @@ This technique allows leaf mold creation anywhere—even on farms with no forest
 
 ### Culturing Process
 
-JMS is produced by culturing indigenous microorganisms from leaf mold in a nutrient solution. The basic process involves:
+JMS is produced by [[culturing-indigenous-microorganisms-techniques]] from leaf mold in a [[cannabis-nutrient-solution-preparation]]. The basic process involves:
 1. Collecting leaf mold
 2. Adding it to water with a food source (potato, sweet potato, etc.)
 3. Maintaining appropriate temperature for microbial growth
@@ -78,11 +78,11 @@ JLF is produced by fermenting plant material in water with leaf mold as a microb
 
 "Purslane is one of the fastest disintegrating wild grasses. Fill the container with purslane, fill up water, put in a handful of leaf mold, close lid. Decomposition is almost complete in 10 days."
 
-Purslane (*Portulaca oleracea*) is an ideal JLF ingredient because:
+Purslane (*[[portulaca-oleracea]]*) is an ideal JLF ingredient because:
 - It is widely available (grows as a weed worldwide)
 - It has relatively high nitrogen content
 - Its soft tissue decomposes quickly
-- It functions as a fruit color enhancer
+- It functions as a fruit [[jadam-color-enhancer]]
 
 ### Aging
 
@@ -100,7 +100,7 @@ This simple filtration system allows easy extraction of liquid fertilizer withou
 
 ### Sequential Use
 
-"Prepare many containers for liquid fertilizer; use them in sequence." Staggered production ensures a continuous supply of mature liquid fertilizer throughout the growing season.
+"Prepare many containers for liquid fertilizer; use them in sequence." Staggered production ensures a continuous supply of mature liquid fertilizer throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ## Cost Analysis
 

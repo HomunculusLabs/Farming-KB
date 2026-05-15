@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Mountain gardening is the practice of cultivating plants at high elevations (typically above 3,000 feet) where short growing seasons, cool temperatures, intense UV radiation, thin soils, and frost risk present unique challenges. Every 1,000 feet of elevation gain roughly corresponds to moving 200-300 miles northward in terms of growing conditions. Mountain gardeners must work creatively with microclimates, cold-hardy varieties, and season-extension techniques to achieve productive harvests.
+Mountain gardening is the practice of cultivating plants at high elevations (typically above 3,000 feet) where short [[jeavons-climate-adaptation-growing-seasons]], cool temperatures, intense UV radiation, thin soils, and frost risk present unique challenges. Every 1,000 feet of elevation gain roughly corresponds to moving 200-300 miles northward in terms of growing conditions. Mountain gardeners must work creatively with microclimates, cold-hardy varieties, and season-extension techniques to achieve productive harvests.
 
 ## Altitude Effects on Growing
 
@@ -56,7 +56,7 @@ Methods that require no external energy:
 
 - **Stone walls**: Absorb heat during the day and radiate it at night; a south-facing stone wall can create a microclimate 5-10°F warmer than surrounding areas
 - **Water bodies**: Ponds, water barrels, and even large containers of water moderate temperature; water releases heat as it cools
-- **Thermal mass**: Rocks, brick, and concrete pathways absorb daytime heat and release it slowly at night
+- **[[comparison-windbreak-vs-thermal-mass]]**: Rocks, brick, and concrete pathways absorb daytime heat and release it slowly at night
 - **Slope position**: Cold air drains downhill; avoid planting in low spots and frost pockets
 - **Windbreaks**: Dense plantings or fences on the north and west sides reduce cold wind exposure
 - **Mulch**: A thick layer of mulch insulates soil and protects shallow roots from freezing
@@ -64,7 +64,7 @@ Methods that require no external energy:
 ### Active Frost Protection
 Methods requiring energy or materials:
 
-- **Row covers**: Floating row cover provides 2-6°F of frost protection
+- **Row covers**: [[floating-row-cover]] provides 2-6°F of frost protection
 - **Low tunnels**: PVC or wire hoops covered with row cover or plastic; 4-10°F protection
 - **Wall o' water**: Water-filled plastic tubes around individual plants; 8-16°F protection
 - **Cloches**: Glass or plastic covers for individual plants
@@ -80,7 +80,7 @@ Methods requiring energy or materials:
 ### Stone Wall Construction
 Stone walls are the traditional mountain garden's most valuable tool:
 
-- **South-facing walls**: Absorb maximum solar radiation; create the warmest microclimates
+- **South-facing walls**: Absorb maximum [[albedo-and-solar-radiation]]; create the warmest microclimates
 - **Terrace walls**: Convert slopes into level planting areas; retain soil and moisture
 - **Free-standing walls**: Absorb and radiate heat to nearby plantings
 - Build walls 2-3 feet high for maximum heat absorption
@@ -89,7 +89,7 @@ Stone walls are the traditional mountain garden's most valuable tool:
 ### Other Microclimate Strategies
 - **Slope aspect**: South-facing slopes warm earliest in spring
 - **Terracing**: Level areas warm faster than slopes; reduce erosion
-- **Wind protection**: Plantings on the leeward side of buildings or windbreak hedgerows
+- **[[cervantes-wind-protection-outdoor-cannabis]]**: Plantings on the leeward side of buildings or windbreak hedgerows
 - **Heat sinks**: Dark-colored rocks or gravel beds placed near sensitive plants
 
 ## Cold-Hardy Varieties
@@ -136,7 +136,7 @@ Perennials that survive and produce at high elevations:
 ## Soil Building at Elevation
 
 ### Thin Mountain Soils
-Mountain soils are typically shallow, rocky, and low in organic matter:
+Mountain soils are typically shallow, rocky, and low in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]:
 
 - Glacial, alluvial, or residual soils with limited topsoil depth
 - High rock content provides drainage but limits root growth

@@ -18,7 +18,7 @@ As thalli lose water, two distinct cellular responses occur depending on wall pr
 
 1. **Cytorrhysis** (collapse): Cells with thin, hyaline walls shrivel and collapse. This applies to green algal and cyanobacterial photobiont cells and to thin-walled fungal cells.
 
-2. **Cavitation** (implosion): Cells with thick, rigid walls cannot deform sufficiently and instead cavitate — the living protoplast implodes, creating a gas-filled space within the cell. This is a **regularly occurring feature** in lichen-forming fungi under drought stress.
+2. **Cavitation** (implosion): Cells with thick, rigid walls cannot deform sufficiently and instead cavitate — the living protoplast implodes, creating a gas-filled space within the cell. This is a **regularly occurring feature** in lichen-forming fungi under [[mycorrhizal-biodiversity-drought-stress-response]].
 
 ### Desiccated Thallus Properties
 
@@ -75,7 +75,7 @@ At cooling rates of 1 K min⁻¹ down to −20°C:
 1. Cellular water **diffuses out** of fully hydrated green algal and fungal cells.
 2. Water crystallizes on hyphal surfaces in the normally gas-filled intercellular spaces of the medullary and algal layers.
 3. Due to substantial water loss, algal cells collapse and fungal cells cavitate.
-4. Upon warming, the **extracellular water reservoir is re-mobilized** and absorbed by cells, which regain turgescence and metabolic activity.
+4. Upon warming, the **extracellular water reservoir is re-mobilized** and absorbed by cells, which regain turgescence and [[arbuscule-isolation-metabolic-activity-assays]].
 
 ### Mycobiont-Derived Ice Nucleation Activity
 
@@ -93,17 +93,17 @@ At cooling rates of 1 K min⁻¹ down to −20°C:
 
 The molecular basis of desiccation and stress tolerance in lichens remains **poorly investigated**:
 
-- **Acyclic polyols**: From fungal and green algal partners; centrally important mobile carbohydrates in the symbiotic interaction; assumed to act as compatible solutes under drought stress.
+- **Acyclic polyols**: From fungal and green algal partners; centrally important mobile carbohydrates in the [[holzer-symbiotic-interaction-theory]]; assumed to act as compatible solutes under drought stress.
 - **Glutathione-based antioxidant system**: Found activated in thalli collected in the wild, but **not** in sterile cultured isolates on agar media.
-- **Major challenge**: Simulating rapidly changing, multifactorial environmental parameters under sterile culturing conditions.
+- **Major challenge**: Simulating rapidly changing, multifactorial [[mushroom-cultivation-environmental-parameters]] under sterile culturing conditions.
 
 ## Ecophysiology — Photosynthesis in Extreme Environments
 
 ### Desert Lichens
 
-- Photosynthesis restricted to narrow time windows: partly hydrated + available solar radiation + suitable temperatures.
+- Photosynthesis restricted to narrow time windows: partly hydrated + available [[albedo-and-solar-radiation]] + suitable temperatures.
 - In the Negev and Namib Deserts, photobionts photosynthesize during a short period at sunrise (hydrated from fog/dew).
-- *Ramalina maciformis* in the Negev: positive gas exchange balance on 218 days/year; negative on 88 days; zero (dormancy) on 49 days.
+- *Ramalina maciformis* in the Negev: positive [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] balance on 218 days/year; negative on 88 days; zero (dormancy) on 49 days.
 - Radial growth of crustose *Caloplaca aurantia* in the Negev: ~0.4 mm yr⁻¹.
 - **Fog comb lichens**: Band-shaped to finely branched species with high surface-to-volume ratios dominate in coastal fog oases.
 

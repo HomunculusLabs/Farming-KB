@@ -50,7 +50,7 @@ plants from herbivores and demonstrated more nuanced interactions.
 ## Relevance to Cultivation and Mycology
 
 - **Challenges mutualism paradigm:** Provides a counterexample to the dominant
-  narrative that fungal endophytes always protect host plants from herbivory.
+  narrative that [[fungal-endophytes]] always protect host plants from herbivory.
 - **Oak ecosystem dynamics:** Relevant for forest management and conservation of
   oak-dominated ecosystems.
 - **Nutrient cycling implications:** Early leaf abscission alters leaf litter quality
@@ -63,7 +63,7 @@ plants from herbivores and demonstrated more nuanced interactions.
 - Colonizes Emory oak leaves alongside Plectohomella and Asteromella endophytes.
 - Shows positive spatial association with Cameraria leaf miner populations.
 - Reduces oviposition by adult leaf miners, partially offsetting positive association.
-- Eventually replaced by saprotrophic fungi during leaf litter decomposition.
+- Eventually replaced by [[saprotrophic-fungi]] during leaf litter decomposition.
 
 ## References
 
@@ -83,3 +83,8 @@ plants from herbivores and demonstrated more nuanced interactions.
   species is uncertain.
 - The interaction between endophyte infection, leaf chemistry, and insect behavior
   requires further chemical ecology investigation.
+## See also
+
+- [[fungal-plant-diseases]]
+- [[discula-quercina]]
+- [[cercospora]]

@@ -21,7 +21,7 @@ worldwide, causing billions of dollars in annual crop losses. Arbuscular
 [[arbuscular-mycorrhizal-colonization-patterns]] addresses both challenges through
 multiple complementary mechanisms:
 
-- **Enhanced nutrient acquisition**: AMF improve phosphorus, potassium, calcium,
+- **Enhanced [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]**: AMF improve phosphorus, potassium, calcium,
   and micronutrient uptake under saline conditions where these nutrients become
   less available. The improved K+/Na+ ratio in mycorrhizal plants is
   particularly important, as [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]] translocation and   sequestration.
@@ -32,11 +32,11 @@ Mycorrhizal plants maintain higher tissue water content and turgor under
 saline conditions through enhanced osmotic adjustment. AMF contribute to
 accumulation of compatible solutes including:
 
-- **Proline**: Mycorrhizal colonization often increases proline accumulation in
+- **Proline**: [[mycorrhizal-colonization-thresholds]] often increases proline accumulation in
   host tissues under salt stress. Proline serves as an osmoprotectant,
   ROS scavenger, and protein stabilizer.
 - **Glycine betaine**: Some AMF associations enhance glycine betaine
-  accumulation, which protects photosynthetic apparatus and enzyme function
+  accumulation, which protects photosynthetic apparatus and [[enzyme]] function
   under osmotic stress.
 - **Sugars and sugar alcohols**: Soluble sugars (glucose, fructose, sucrose)
   and polyols (mannitol, trehalose) contribute to osmotic adjustment.
@@ -61,7 +61,7 @@ ratios under saline conditions. Mycorrhizal plants typically show:
 
 ## Antioxidant Defense Enhancement
 
-Salinity stress generates reactive oxygen species (ROS) including superoxide
+Salinity stress generates [[reactive-oxygen-species-and-oxidative-stress]] (ROS) including superoxide
 radicals, [[cervantes-hydrogen-peroxide-sterilization]], and hydroxyl radicals that damage lipids, proteins,
 and nucleic acids. Mycorrhizal plants exhibit enhanced antioxidant defense
 systems:
@@ -75,7 +75,7 @@ systems:
 ## Overview
 
 Singh Mycorrhizal Response Under Salinity Stress represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -104,7 +104,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 singh mycorrhizal response under salinity stress and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

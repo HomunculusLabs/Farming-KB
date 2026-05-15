@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Mycelial Morphology Types and Identification"
+title: "Mushroom [[growing-gourmet-mycelial-morphology-classification-agar-media]] Types and Identification"
 source: "Growing Gourmet and Medicinal Mushrooms (Stamets)"
 aliases:
   - mycelial types mushroom
@@ -63,7 +63,7 @@ Cottony mycelium often shows concentric circles of dense and light growth, or zo
 
 ### 5. Matted or Appressed Mycelium
 
-This dense mycelial type is typical of Reishi (*Ganoderma lucidum*) after two weeks of growth on 2% malt-extract agar media. So dense is this mycelial type that a factory-sharpened surgical blade cannot cut through it. The mycelium tears off in ragged sheaths as the scalpel blade is dragged across the agar surface.
+This dense mycelial type is typical of Reishi (*[[ganoderma-lucidum]]*) after two weeks of growth on 2% malt-extract agar media. So dense is this mycelial type that a factory-sharpened surgical blade cannot cut through it. The mycelium tears off in ragged sheaths as the scalpel blade is dragged across the agar surface.
 
 **Warning sign:** Many species develop matted mycelia over time, especially wood rotters. Cultures that mysteriously die often have mycelium which appears matted but whose surface is flat and highly reflective — this atypical reflectivity can signal a dead or dying culture.
 
@@ -74,7 +74,7 @@ Powdered mycelium is best exemplified by [[chicken-of-the-woods]] (*[[marasmius-
 ## Overview
 
 Mushroom Mycelial Morphology Types Identification represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mushroom Mycelial Morphology Types Identification finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -103,7 +103,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mushroom mycelial morphology types identification and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

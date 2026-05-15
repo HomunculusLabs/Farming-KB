@@ -148,7 +148,3 @@ Mogge et al. (2000) used fluorescence in situ hybridization and confocal laser s
 - Cairney, J. W. G. (1999). Intraspecific physiological variation in ECM fungi. *Mycorrhiza* 9:125–135.
 - Cromack, K. et al. (1979). Calcium oxalate accumulation and soil weathering in fungal mats. *Soil Biol. Biochem.* 11:463–487.
 - Finlay, R. D., Read, D. J. (1986). Translocation of ¹⁴C and distribution of P between ECM plants. *New Phytol.* 103:143–165.
-- Garbaye, J. (1994). Helper bacteria: A new dimension to the mycorrhizal symbiosis. *New Phytol.* 128:197–210.
-- Griffiths, R. P. et al. (1990). Microbial dynamics in ECM mat soils. *Can. J. For. Res.* 20:211–218.
-- Lindahl, B. et al. (1999). Translocation of ³²P between decomposing and ECM fungal mycelia. *New Phytol.* 144:183–193.
-- Newman, E. I., Eason, W. R. (1989). Cycling of nutrients from dying roots to living plants. *Plant Soil* 115:211–215.

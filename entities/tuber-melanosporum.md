@@ -16,7 +16,7 @@ sources:
 **Tuber melanosporum**, commonly known as the **Périgord black truffle**, is a subterranean ascomycete fungus and one of the most prized [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] dates to the early 19th century. Joseph Talon in Provence (c. 1808) first observed that oak seedlings growing near productive truffle trees could themselves produce truffles, establishing the principle of inoculated seedling planting.
 
 ### Modern Trufficulture
-1. **Seedling inoculation:** Tree seedlings (oak or hazelnut) are grown in nurseries and inoculated with *T. melanosporum* spores or mycelial slurry. [[fukuoka-citrus-orchard-establishment-bare-hillside]] (truffière):** Inoculated seedlings are planted in prepared sites with suitable soil, climate, and drainage. Typical spacing: 6–8 m apart (150–300 trees/hectare). Soil pH is corrected with lime if necessary.
+1. **Seedling inoculation:** Tree seedlings (oak or hazelnut) are grown in nurseries and inoculated with *T. melanosporum* spores or mycelial slurry. [[fukuoka-citrus-orchard-establishment-bare-hillside]] (truffière):** [[truffle-inoculated-seedlings]] are planted in prepared sites with suitable soil, climate, and drainage. Typical spacing: 6–8 m apart (150–300 trees/hectare). Soil pH is corrected with lime if necessary.
 3. **[[tuber-aestivum]]
 - [[tuber-magnatum]]
 ## Practical Applications
@@ -78,7 +78,7 @@ improvement. Maintaining records of observations, interventions, and
 ## Overview
 
 Tuber Melanosporum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tuber Melanosporum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,13 +107,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for tuber melanosporum. Climate adaptation
+opportunities for tuber melanosporum. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 tuber melanosporum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

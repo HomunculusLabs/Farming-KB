@@ -24,7 +24,7 @@ societies have only recently become aware of the significance that
 these plants have had in shaping the history of primitive and even of
 advanced cultures. Hallucinogenic plants are complex chemical
 factories. Their full potential as aids to human needs is not yet
-fully recognized. Some plants contain chemical compounds capable of
+fully recognized. Some plants contain [[neurotropic-fungi-chemical-compounds]] capable of
 inducing altered perceptions -- visual, auditory, tactile, olfactory,
 and gustatory hallucinations -- or causing artificial psychoses that
 have been known and employed in human experience since earliest
@@ -77,7 +77,7 @@ experiences with its unearthly effects. The sacred Mexican mushrooms
 ## Overview
 
 Plants Of The Gods Overview Hallucinogenic Plant Use represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Plants Of The Gods Overview Hallucinogenic Plant Use finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,13 +106,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for plants of the gods overview hallucinogenic plant use. Climate adaptation
+opportunities for plants of the gods overview hallucinogenic plant use. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 plants of the gods overview hallucinogenic plant use and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

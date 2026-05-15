@@ -29,7 +29,7 @@ sources:
 
 ## Overview
 
-*Lyophyllum decastes* (Fr.) Singer is an edible agaric mushroom in the family Lyophyllaceae, widely distributed across temperate regions of the Northern Hemisphere. It is known for growing in dense clustered troops on disturbed ground, earning the common name "Fried Chicken Mushroom" for its texture and flavor when cooked.
+*Lyophyllum decastes* (Fr.) Singer is an edible agaric mushroom in the family Lyophyllaceae, widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It is known for growing in dense clustered troops on disturbed ground, earning the common name "Fried Chicken Mushroom" for its texture and flavor when cooked.
 
 The species is a facultative saprotroph that also forms [[ectomycorrhizal-associations]], allowing it to colonize both dead organic matter and living tree roots. This dual nutritional strategy contributes to its success in a range of habitats.
 
@@ -61,19 +61,19 @@ Fruiting season is late summer through autumn (August to November in the Norther
 
 ## Culinary and Nutritional Value
 
-*Lyophyllum decastes* is considered one of the best edible wild mushrooms in its range. The flesh is firm, meaty, and holds its texture well when cooked, making it suitable for sautéing, braising, and soups.
+*Lyophyllum decastes* is considered one of the best [[edible-wild-mushrooms-by-region]] in its range. The flesh is firm, meaty, and holds its texture well when cooked, making it suitable for sautéing, braising, and soups.
 
 Flavor is mild and pleasant, described as slightly nutty with earthy undertones. The caps are the primary edible portion, though young stipes are also palatable when thoroughly cooked. Older specimens can become tough and fibrous.
 
-Nutritional analysis shows high protein content (approximately 25–30% of dry weight), low fat, and significant mineral content including potassium, phosphorus, and zinc. The species contains essential amino acids and B-complex vitamins.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows high protein content (approximately 25–30% of dry weight), low fat, and significant mineral content including potassium, phosphorus, and zinc. The species contains essential amino acids and B-complex vitamins.
 
 **Important warning:** Collection requires careful identification. The clustered growth habit and brown cap can lead to confusion with toxic *Clitocybe* species (notably *C. dealbata*) and some *Hebeloma* species that contain dangerous toxins.
 
 ## Cultivation
 
-Commercial cultivation of *L. decastes* has been developed primarily in Japan and Korea. The species can be grown on [[query-difference-between-shiitake-and-oyster-mushrooms]] mushroom production.
+Commercial cultivation of *L. decastes* has been developed primarily in Japan and Korea. The species can be grown on [[query-difference-between-shiitake-and-oyster-mushrooms]] [[stamets-stump-cultivation-mushroom-production-forestry]].
 
-Optimal substrate formulations combine hardwood sawdust (oak or beech) with wheat bran (10–20% dry weight) and calcium carbonate for pH adjustment to 6.0–6.5. Spawn run occurs at 20–22°C over 30–45 days.
+Optimal substrate formulations combine hardwood sawdust (oak or beech) with wheat bran (10–20% dry weight) and [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] for pH adjustment to 6.0–6.5. Spawn run occurs at 20–22°C over 30–45 days.
 
 Fruiting is induced by lowering temperature to 14–16°C, maintaining high humidity (90–95%), and providing diffuse light. The species responds well to cold shock and produces multiple flushes over a 2–3 month cropping cycle.
 
@@ -81,7 +81,7 @@ Yields of 100–150 g per kg of dry substrate have been reported, though commerc
 
 ## Ecological Role
 
-As a facultative saprotroph and ectomycorrhizal symbiont, *L. decastes* occupies an unusual dual niche among agarics. The mycorrhizal association benefits host trees through enhanced nutrient uptake, particularly phosphorus and nitrogen mobilization from organic matter.
+As a facultative saprotroph and ectomycorrhizal symbiont, *L. decastes* occupies an unusual dual niche among agarics. The mycorrhizal association benefits host trees through enhanced nutrient uptake, particularly phosphorus and [[gadd-ericoid-mycorrhiza-nitrogen-mobilization-heathland-ecosystems]] from organic matter.
 
 In its saprotrophic mode, the species contributes to leaf [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] on the forest floor. The dense [[fungal-mycelial-networks-nutrient-translocation]] formed by clustered growth can significantly accelerate organic matter breakdown in localized patches.
 

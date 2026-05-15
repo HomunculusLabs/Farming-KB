@@ -17,18 +17,18 @@ Seed travels from producer to consumer through these layers:
 1. **Primary growers**: Large agricultural companies that actually [[green-cannabis-grow-bible-seed-selection-and-seed-banks|grow]] the seed in fields
 2. **Seed wholesalers/jobbers**: Companies that buy in bulk from primary growers and resell
 3. **Mail-order seed companies**: Catalog and online retailers that package and sell to gardeners
-4. **Seedrack companies**: Companies that produce the small picture packets found in garden centers and discount stores
+4. **Seedrack companies**: Companies that produce the small picture packets found in [[solomon-garden-centers-seedling-traps]] and discount stores
 5. **Retailers**: Garden centers, hardware stores, discount chains, and supermarkets that sell to end consumers
 
 ### Primary Growers: The Foundation
 
-Primary growers are the actual seed producers — agricultural companies that plant seed production fields, manage pollination, harvest, clean, and package seed. These companies supply most of the seed for:
+Primary growers are the actual seed producers — agricultural companies that plant [[cannabis-controlled-pollination-seed-production]] fields, manage pollination, harvest, clean, and package seed. These companies supply most of the seed for:
 
 - Mail-order catalog companies throughout the US and Canada
 - Picture-packet seedrack companies
 - Other seed distributors
 
-One large primary grower candidly explained that they supply most of the seed sold through mail-order catalogs and seedrack companies across North America. Because of their high volume, they produce new seeds for most varieties every year — meaning they do not sell old, weak seed that has been sitting in warehouses.
+One large primary grower candidly explained that they supply most of the seed sold through mail-order catalogs and seedrack companies across [[guzman-psilocybin-mushrooms-north-america]]. Because of their high volume, they produce new seeds for most varieties every year — meaning they do not sell old, weak seed that has been sitting in warehouses.
 
 ### The Price-Pressure Cascade
 
@@ -38,7 +38,7 @@ The pressure for lower prices cascades down through the distribution chain:
 2. **Independent garden centers** unable to compete on price are vanishing
 3. **Fewer seedrack companies survive**, and they are squeezed harder by remaining retailers
 4. **Desperate rack companies** demand lower prices from primary growers
-5. **Primary growers** respond by cutting quality — using cheaper production methods, less skilled labor, and less rigorous selection
+5. **Primary growers** respond by cutting quality — using cheaper [[enriched-sawdust-cultivation-and-spawn-production-methods]], less skilled labor, and less rigorous selection
 
 ## The Primary Grower's Economics
 
@@ -111,10 +111,10 @@ The primary grower openly admits this: for the garden trade, what matters is tha
 
 ## The Johnny's Exception
 
-In the 1980s, companies like Johnny's Selected Seeds began challenging this model by offering genuinely commercial-quality seed to home gardeners. These companies:
+In the 1980s, companies like Johnny's [[johnnys-selected-seeds]] began challenging this model by offering genuinely commercial-quality seed to home gardeners. These companies:
 
 - Source from quality-focused primary growers or grow their own seed
-- Maintain rigorous variety trials
+- Maintain rigorous [[coleman-seed-selection-and-variety-trials]]
 - Publish germination rates and performance data
 - Serve both home gardeners and small market growers, creating accountability
 

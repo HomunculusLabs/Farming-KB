@@ -53,7 +53,7 @@ DPT can be synthesized by two routes: from tryptamine (via indol-3-ylglyoxylamid
 
 ### Route Comparison
 
-DPT is unusual among tryptamines for having well-documented experience reports across four different routes of administration. The smoked route produces the shortest experience (~20 minutes) but requires much higher doses (100+ mg) due to incomplete vaporization. Intravenous administration is the most efficient (12-36 mg) and produces effects comparable to DMT. Intramuscular injection (15-125 mg) was the route used in clinical psychotherapy settings.
+DPT is unusual among tryptamines for having well-documented [[travels-universe-soul-varied-lsd-experience-reports]] across four different routes of administration. The smoked route produces the shortest experience (~20 minutes) but requires much higher doses (100+ mg) due to incomplete vaporization. Intravenous administration is the most efficient (12-36 mg) and produces effects comparable to DMT. Intramuscular injection (15-125 mg) was the route used in clinical psychotherapy settings.
 
 ## Clinical Psychotherapy Applications
 
@@ -73,7 +73,7 @@ The use of DPT in psychotherapy deserves emphasis. At lower clinical doses (15-3
 ## Overview
 
 Dpt Entity Tihkal represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -87,7 +87,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving dpt extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -102,13 +102,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for dpt entity tihkal. Climate adaptation
+opportunities for dpt entity tihkal. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 dpt entity tihkal and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

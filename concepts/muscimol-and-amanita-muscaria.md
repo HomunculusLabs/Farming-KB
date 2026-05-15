@@ -17,7 +17,7 @@ Amanita muscaria (the [[amanita-muscaria-chemistry-and-pharmacology]] is essenti
 Muscimol (C4H6N2O2) is the primary psychoactive compound in prepared Amanita muscaria:
 
 - **GABA-A receptor agonist**: Muscimol binds to GABA-A receptors as a selective agonist, producing sedative, hypnotic, and dissociative effects. This is the same receptor class targeted by benzodiazepines and alcohol, though muscimol's binding profile differs
-- **Not a serotonin agonist**: Muscimol has no significant activity at 5-HT2A or other serotonin receptors, making its effects fundamentally different from classical psychedelics
+- **Not a serotonin agonist**: Muscimol has no significant activity at 5-HT2A or other [[psilocybin-pharmacology-and-serotonin-receptors]], making its effects fundamentally different from classical psychedelics
 - **Also acts on GABA-C receptors**: Contributing to visual and perceptual effects
 - **Orally active**: Effective when consumed orally after proper preparation
 
@@ -75,7 +75,7 @@ communities, and systematic experimentation to build expertise.
 ## Overview
 
 Muscimol And Amanita Muscaria represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Muscimol And Amanita Muscaria finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -104,7 +104,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -124,8 +124,8 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-muscimol and amanita muscaria and its applications. Active investigation
-areas include ecological interactions and optimization.
+muscimol and [[amanita-muscaria-and-ibotenic-acid-containing-fungi]] its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

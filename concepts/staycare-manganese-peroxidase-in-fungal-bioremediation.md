@@ -16,7 +16,7 @@ type: concept
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]
 ## Practical Applications
 
-Manganese Peroxidase in Fungal Bioremediation has a range of practical applications that make it relevant to
+[[manganese-peroxidase]] in Fungal Bioremediation has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

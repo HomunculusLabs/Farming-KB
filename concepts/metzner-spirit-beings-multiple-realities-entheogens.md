@@ -47,9 +47,9 @@ These beings are referred to across traditions by various names: **allies, power
 
 Metzner noted that the experience of spirit beings and multiple realities is not limited to a single culture or hallucinogen but appears consistently across:
 
-- **Peyote ceremonies** (Native American Church, Huichol): Visions occurring while staring into the central fire
+- **Peyote ceremonies** ([[halpern-sacramental-peyote-and-native-american-church]], Huichol): Visions occurring while staring into the central fire
 - **Mushroom veladas** (Mazatec Indians): The healer sings throughout the night, weaving names of Christian saints, spirit allies, and nature spirits into chants
-- **Ayahuasca ceremonies** (Amazonian): Healers sing icaros through which healing and diagnosis take place; "sucking" methods extract toxic psychic residues
+- **[[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]** (Amazonian): Healers sing icaros through which healing and diagnosis take place; "sucking" methods extract toxic psychic residues
 - **Iboga ceremonies** (Bwiti cult, Gabon): Initiates see their ancestral spirits in mirrors placed in the assembly room; undergo death-rebirth experiences after which they converse with ancestors
 - **San Pedro ceremonies** (Andean): Curanderos set up altars with figurines representing light and dark spirits
 
@@ -63,7 +63,7 @@ He grounded this position in William James's observation from *Varieties of Reli
 
 ## The Hybrid Therapeutic-Shamanic Model
 
-Metzner observed that the recognition of multiple dimensions and spirit beings has become common in contemporary **hybrid shamanic-therapeutic rituals** that blend indigenous shamanic practices with Western psychotherapeutic approaches. These neoshamanic medicine circles typically include:
+Metzner observed that the recognition of multiple dimensions and spirit beings has become common in contemporary **hybrid shamanic-therapeutic rituals** that blend indigenous shamanic practices with Western psychotherapeutic approaches. These [[metzner-neoshamanic-medicine-circles]] typically include:
 
 - Circle structure with participants sitting or lying
 - An altar or central fire
@@ -73,7 +73,7 @@ Metzner observed that the recognition of multiple dimensions and spirit beings h
 ## Overview
 
 Metzner Spirit Beings Multiple Realities Entheogens represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -102,7 +102,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 metzner spirit beings multiple realities entheogens and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

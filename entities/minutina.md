@@ -1,5 +1,5 @@
 ---
-title: Minutina (Plantago coronopus)
+title: Minutina ([[plantago-coronopus]])
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [species, vegetable, cold-hardy, winter-crop, plantaginaceae]
@@ -31,11 +31,11 @@ Minutina forms a low rosette of narrow, strap-shaped leaves with slightly toothe
 
 ## Role in the Winter-Harvest System
 
-Minutina is grouped with mâche and claytonia as one of the three "novel" cold-hardy crops that Coleman introduced to American winter vegetable production:
+Minutina is grouped with mâche and claytonia as one of the three "novel" cold-hardy crops that Coleman introduced to American [[coleman-french-historical-winter-vegetable-production]]:
 
 - **Sowing**: Succession planted from August 1 through fall
 - **Regrowth**: Good [[cut-and-come-again]] performance in winter
-- **Protection**: Grown under double coverage (hoop house + floating row cover)
+- **Protection**: Grown under double coverage (hoop house + [[floating-row-cover]])
 - **Market Appeal**: Unique appearance and texture attract customer interest
 
 ## Harvest Season
@@ -72,9 +72,9 @@ Based on Coleman's harvest charts for Zone 5:
 
 ## Relevance to Cultivation and Mycology
 
-Minutina's drought tolerance and adaptability make it suitable for:
+Minutina's [[dighton-fungal-drought-tolerance-plant-water-relations]] and adaptability make it suitable for:
 
-- Edge plantings in greenhouse structures shared with mushroom cultivation
+- Edge plantings in greenhouse structures shared with [[accessible-mushroom-cultivation-for-disabilities]]
 - Intercropping with mushroom beds where moisture conditions vary
 - Low-maintenance winter production in mixed-use protected structures
 - Adding crop diversity to integrated fungal-vegetable production systems
@@ -93,7 +93,7 @@ Minutina's drought tolerance and adaptability make it suitable for:
 
 ## See Also
 
-- Mâche (Valerianella locusta)
+- Mâche ([[mache-valerianella-locusta]])
 - Claytonia (Miner's Lettuce)
 - Cold-Hardy Vegetables
 - Four Season Farm

@@ -110,6 +110,6 @@ Understanding mycorrhizal roles in succession and fitness has direct application
 5. **Recognize the driver vs. passenger distinction** to predict whether introducing mycorrhizae will actively shape or merely follow plant community development
 ## See also
 
-- [[mycorrhizae-and-plant-fitness]]
+- [[mycorrhizae-plant-fitness]]
 - [[mycorrhizae-plant-fitness-competition]]
 - [[mycorrhizal-community-feedback-plant-pathogens]]

@@ -38,7 +38,7 @@ commercially important timber species (zebrano).
 - **Density-dependent survival:** Newbery et al. (2000) found that seedling
   survival of M. bisulcata after 16 months was 25% at low adult stem density
   and 33% at high adult stem density, a modest improvement.
-- **Ectomycorrhizal association:** Forms ectomycorrhizal associations that
+- **Ectomycorrhizal association:** Forms [[ectomycorrhizal-associations]] that
   connect to shared fungal networks with other tropical legume trees in
   Cameroon rainforests.
 - **Lowest seedling survival:** Among the tropical ectomycorrhizal trees
@@ -57,7 +57,7 @@ commercially important timber species (zebrano).
 
 ## Relevance to Cultivation and Mycology
 
-- **Tropical ectomycorrhizal ecology:** M. bisulcata provides data points for
+- **Tropical [[ectomycorrhizal-ecology]]:** M. bisulcata provides data points for
   understanding how ectomycorrhizal networks influence seedling survival
   differently across tropical tree species.
 - **Species-specific responses:** The modest increase in seedling survival with
@@ -90,3 +90,8 @@ commercially important timber species (zebrano).
 - Onguene, N. A., Kuyper, T. W. (2002). Tropical mycorrhizal network effects.
   Mycorrhiza.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+## See also
+
+- [[tetraberlinia-bifoliata]]
+- [[paraberlinia-bifoliolata]]
+- [[mycorrhizal-fungi]]

@@ -71,7 +71,7 @@ Trace quantities of water (~9 µL/cm² of surface) overcome spore resistance:
 
 ## Overview
 
-Rotational Transition Water Dipole Microwave Sterilization Physics represents an important element within sustainable
+Rotational Transition Water Dipole [[microwave-sterilization]] Physics represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

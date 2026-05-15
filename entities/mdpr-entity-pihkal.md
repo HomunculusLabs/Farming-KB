@@ -51,7 +51,7 @@ subsection "Qualitative Comments" again, with this primer concept in
 mind.
 
 QUALITATIVE COMMENTS: (with 160 mg followed at 2 h by 60 5gs LSD) RThe
-visual phenomena were extraordinary. We were at the beach just south
+[[lsd-dark-experiment-visual-phenomena-psychological-effects]] were extraordinary. We were at the beach just south
 of Mendocino. In anything that had ever been living, there was an
 endlessly deep microcosm of detail. Endless, and forever more
 microscopic in intricacy. A sea urchin shell, a bit of driftwood, a

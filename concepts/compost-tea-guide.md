@@ -24,7 +24,7 @@ sources:
 
 # Compost Tea Guide — Complete AACT Manual
 
-[[actively-aerated-compost-tea]] (AACT) is a water extract of compost, brewed with food resources and actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
+[[actively-aerated-compost-tea]] (AACT) is a water extract of compost, brewed with food resources and [[actively-aerated-compost-tea-aact-brewing]] to multiply [[forest-and-bamboo-beneficial-microorganisms]]. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
 
 ## Equipment
 
@@ -38,7 +38,7 @@ sources:
 - **Air pump**: Must run continuously. Diaphragm pumps for small batches; regenerative blowers for large.
 - **Air stones/diffusers**: Create fine bubbles for maximum oxygen transfer. Clean between brews.
 - **Mesh bag** (400 micron paint strainer or similar): Holds compost for easy removal. Do NOT squeeze — this damages fungi.
-- **DO meter**: Dissolved oxygen meter is critical. DO must remain above 6 ppm (target 7-8 ppm).
+- **DO meter**: [[dissolved-oxygen-meter-aact]] is critical. DO must remain above 6 ppm (target 7-8 ppm).
 
 ## Recipe
 
@@ -54,7 +54,7 @@ sources:
 
 | Food | Feeds | Rate (per 5 gal) |
 |------|-------|-------------------|
-| Unsulfured blackstrap molasses | Bacteria | 1-4 Tbsp |
+| Unsulfured [[blackstrap-molasses]] | Bacteria | 1-4 Tbsp |
 | Fish hydrolysate | Bacteria + fungi | 1-2 Tbsp |
 | Kelp meal | Fungi + micronutrients | 1-2 Tbsp |
 | Humic/fulvic acid | Fungi | 1 Tbsp |
@@ -123,13 +123,13 @@ Ingham recommends microscope assessment at 400x magnification:
 | Predatory nematodes | Large mouth, fast | 1-5/g |
 
 - High ciliates indicate anaerobic/compacted conditions
-- Root-feeding nematodes present = need more beneficial nematodes, mycorrhizae, and fungi
+- Root-feeding nematodes present = need more [[ingham-beneficial-nematodes-soil-food-web]], mycorrhizae, and fungi
 
 ## Troubleshooting
 
 | Problem | Cause | Fix |
 |---------|-------|-----|
-| Foul/putrid/sour smell | Anaerobic conditions | Discard brew. Increase aeration, reduce food, check DO meter |
+| Foul/putrid/sour smell | [[aact-ph-and-anaerobic-conditions]] | Discard brew. Increase aeration, reduce food, check DO meter |
 | Thick bad-smelling foam | Anaerobic bacteria producing proteins | Discard. Foam from healthy brew is light and smells sweet/earthy |
 | Low DO (<5.5 ppm) | Too much food, warm temp, insufficient aeration | Add more air, reduce food next batch, cool water |
 | No foam at all | Low biology in compost, insufficient food | Use better compost, add molasses |

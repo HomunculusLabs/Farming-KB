@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, enzymes, biochemistry, decomposition]
-sources: []
+sources:
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 # Fungal Enzyme Induction and Regulation
 

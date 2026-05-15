@@ -4,20 +4,20 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, species, ethnobotany, psychopharmacology, preparation, safety, mycology, folklore, old-world, beginner, biochemistry]
-sources: []
+sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md"]
 ---
 
 # Fly Agaric — Amanita muscaria
 
 ## Overview
 
-Amanita muscaria, the [[fly-agaric]], is arguably the most recognizable mushroom on Earth. Its bright red cap dotted with white warts appears in children's books, video games, and folklore worldwide. Despite its iconic appearance, it is not a psilocybin mushroom — its psychoactive compounds are ibotenic acid and muscimol, which act primarily on GABA receptors rather than serotonin receptors.
+Amanita muscaria, the [[fly-agaric]], is arguably the most recognizable mushroom on Earth. Its bright red cap dotted with white warts appears in children's books, video games, and folklore worldwide. Despite its iconic appearance, it is not a [[african-psilocybin-mushroom-guide]] — its psychoactive compounds are ibotenic acid and muscimol, which act primarily on GABA receptors rather than [[psilocybin-pharmacology-and-serotonin-receptors]].
 
-This is a distinctly different pharmacological profile from psilocybin-containing mushrooms, and the preparation methods are critical for converting the toxic ibotenic acid into the desired muscimol.
+This is a distinctly different pharmacological profile from psilocybin-containing mushrooms, and the [[amanita-muscaria-preparation-methods]] are critical for converting the toxic ibotenic acid into the desired muscimol.
 
 ## Identification
 
-Amanita muscaria has several distinctive features:
+Amanita muscaria has several [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
 
 - **Cap**: 8–20 cm diameter, bright red to orange-red, covered in white warts (remnants of the universal veil). Warts wash off easily in rain.
 - **Gills**: Free (not attached to the stem), white, crowded.
@@ -105,7 +105,7 @@ Amanita muscaria has a deep history across Eurasia. The most prominent theory, p
 
 Siberian shamans, particularly the Koryak, Chukchi, and Kamchadal peoples, used Amanita muscaria ceremonially. An interesting ethnographic detail: poorer community members would drink the urine of those who had consumed the mushroom, as the kidneys excrete primarily muscimol (already converted) while filtering out much of the ibotenic acid — essentially a natural purification method.
 
-In Scandinavian and European folklore, the fly agaric appears in Christmas traditions that may predate Christian symbolism — the red-and-white color scheme, flying reindeer (reindeer are known to seek out and eat Amanita muscaria in the wild), and the chimney-entry motif all have proposed connections to mushroom use.
+In Scandinavian and European folklore, the fly agaric appears in Christmas traditions that may predate Christian symbolism — the red-and-white color scheme, flying reindeer (reindeer are known to seek out and eat [[amanita-muscaria-in-eastern-religions]] the wild), and the chimney-entry motif all have proposed connections to mushroom use.
 
 ## Safety Considerations
 
@@ -120,4 +120,4 @@ In Scandinavian and European folklore, the fly agaric appears in Christmas tradi
 ## Related Topics
 
 - [[harmala-alkaloids]] — MAOI compounds used in other entheogenic traditions
-- [[psychedelic-mushroom-decriminalization]] — legal reform efforts (note: A. muscaria is legally distinct from psilocybin mushrooms in most jurisdictions)
+- [[psychedelic-mushroom-decriminalization]] — legal reform efforts (note: A. muscaria is legally distinct from [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] in most jurisdictions)

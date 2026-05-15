@@ -72,7 +72,7 @@ foundation for developing deep expertise and contributing to the field.
 
 ## Overview
 
-Comparison Cordyceps Vs Lions Mane Cultivation represents an important element within sustainable
+Comparison Cordyceps Vs [[lions-mane]] Cultivation represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

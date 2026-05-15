@@ -23,9 +23,9 @@ sources:
 
 **Tulbaghia violacea**, commonly known as society garlic, wild garlic, or pink agapanthus, is a clump-forming perennial herb in the family Amaryllidaceae. It is native to southern Africa, where it occurs in the Eastern Cape, KwaZulu-Natal, and the southern regions of the Western Cape.
 
-The plant is valued both as an ornamental for its showy lavender-pink flowers and as a culinary herb with a garlic-like flavor. The common name "society garlic" reportedly refers to the belief that it can be consumed in social situations without causing offensive breath odor, unlike true garlic.
+The plant is valued both as an ornamental for its showy lavender-pink flowers and as [[query-how-do-i-plan-and-plant-a-culinary-herb-garden]] with a garlic-like flavor. The common name "society garlic" reportedly refers to the belief that it can be consumed in social situations without causing offensive breath odor, unlike true garlic.
 
-In traditional Zulu and Xhosa medicine, T. violacea has been used to treat a wide range of conditions including respiratory infections, gastrointestinal disorders, and hypertension. Scientific research has validated several of these traditional uses.
+In traditional Zulu and Xhosa medicine, T. violacea has been used to treat a wide range of conditions including respiratory infections, [[blesching-cannabis-gastrointestinal-disorders]], and hypertension. [[psilocybin-isolation-and-early-scientific-research]] has validated several of these traditional uses.
 
 ## Taxonomy and Morphology
 
@@ -65,7 +65,7 @@ Traditional veterinary applications include treatment of poultry diseases and as
 
 The primary bioactive constituents include marasmin (a sulfur-containing lachrymatory factor similar to syn-propanethial-S-oxide from onions), several methylthioallyl sulfides, and flavonoids including quercetin and kaempferol derivatives.
 
-Antibacterial activity has been demonstrated against *Staphylococcus aureus*, *Bacillus subtilis*, and *Escherichia coli* in vitro. The essential oil shows antifungal activity against *[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]*.
+Antibacterial activity has been demonstrated against *[[staphylococcus-aureus]]*, *[[bacillus-subtilis]]*, and *Escherichia coli* in vitro. The [[permaculture-designers-manual-essential-oil-plants]] shows antifungal activity against *[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]*.
 
 Anti-hypertensive activity has been documented in animal models. Oral administration of aqueous leaf extracts produced significant reductions in blood pressure in spontaneously hypertensive rats, supporting the traditional use for hypertension treatment.
 

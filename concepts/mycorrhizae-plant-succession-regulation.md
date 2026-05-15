@@ -98,6 +98,6 @@ Allen and Allen (1990) hypothesized patterns of mycorrhizal dependence in develo
 However, studies on Mount Koma, Japan (Titus and Tsuyuzaki, 2002) showed that these patterns are also plant species-dependent, not solely determined by environmental factors. *Agrostis scabra* showed no microsite effect on arbuscular mycorrhizal colonization, while *Campanula lasiocarpa* had higher colonization near rock surfaces, and willow (*Salix reinii*) was heavily ectomycorrhizal across all sites.
 ## See also
 
-- [[mycorrhizae-and-plant-succession]]
-- [[mycorrhizae-and-plant-fitness]]
+- [[mycorrhizae-plant-succession]]
+- [[mycorrhizae-plant-fitness]]
 - [[mycorrhizal-community-feedback-plant-pathogens]]

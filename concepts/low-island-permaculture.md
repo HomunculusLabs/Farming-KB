@@ -1,5 +1,5 @@
 ---
-title: Low Island Permaculture
+title: [[low-island-permaculture-atoll-water-management]]
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -19,7 +19,7 @@ with its bottom another four to five feet below. Given the island's area, the
 available gallons of fresh water can be calculated. This lens is the island's
 sole freshwater resource — if drawn down and replaced by salt water, plants die
 and the island becomes uninhabitable. The water table must not be polluted;
-even a few septic tanks can contaminate the entire lens. Dry toilets are an
+even a few septic tanks can contaminate the entire lens. [[greywater-management-and-dry-toilets]] are an
 absolute necessity.
 
 ## Platen Formation and Breaking
@@ -42,7 +42,7 @@ with mulch, and vegetables planted with a single drip point. Because drip water
 extends laterally about two to two and a half feet, a four-to-five foot ring
 can contain roughly twelve running feet of row crop. The inner edge grows
 cabbages, peas, and beans; cucumbers and beans climb reinforcing wire; arid
-plants occupy the outer edge. The design principle: minimize pathway area and
+plants occupy the outer edge. The [[design-principle-integration]]: minimize pathway area and
 maximize linear crop feet around the fewest drip points.
 
 ## Wick-Watering Systems
@@ -51,7 +51,7 @@ Sprinkler systems are **disastrous** on arid coral atolls — water is lost to
 hot wind and surface evaporation, and sprinkling accelerates platen formation.
 Instead, a **wick-watering system** uses a large wick of fibrous organic
 material with a slow drip at center, keeping the area saturated as water
-reaches roots through capillary action. This also mimics natural wicking when
+reaches roots through [[capillary-action-in-soils]]. This also mimics natural wicking when
 a garden hole touches the water table.
 
 ## Gley Pond Construction
@@ -66,7 +66,7 @@ high-nutrient tropical water crops are excellent choices.
 
 ## Tree Establishment for Platen Management
 
-Trees are the primary long-term platen management tool. Each tree cracks the
+Trees are the primary long-term platen [[savory-fire-as-management-tool]]. Each tree cracks the
 platen downward from its trunk and around its circumference, creating permeable
 zones for rain infiltration. The process is iterative: establish one tree, then
 use it as anchor for more. Coconut palms are preferred pioneers. Large holes
@@ -108,7 +108,7 @@ within vegetation, angled to winds, with trees along their length and ends.
 ## Nitrogen Cycling on Islands
 
 Nitrogen turnover requires deliberate management. Many island legumes exist as
-vines, ground covers, and trees. The **Moringa** (horseradish tree) is
+vines, ground covers, and trees. The **Moringa** ([[moringa-oleifera-horseradish-tree-permaculture]]) is
 especially valuable: leaves, flowers, and pods are all edible, it serves as a
 vegetable hedge, and grows 20-30 feet. Nitrogen-fixing bacteria may be absent
 on sterile islands, so a handful of soil should be imported with nearly every

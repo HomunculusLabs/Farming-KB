@@ -19,7 +19,7 @@ Industrial application of fungal enzymes for [[staycare-fungal-degradation-of-po
 - **Key producer**: [[laccase-mediator-system-dye]] -- principal fungal oxidase for bioremediation
 ## Practical Applications
 
-Enzyme Production for Industrial Bioremediation has a range of practical applications that make it relevant to
+[[enzyme]] Production for Industrial Bioremediation has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

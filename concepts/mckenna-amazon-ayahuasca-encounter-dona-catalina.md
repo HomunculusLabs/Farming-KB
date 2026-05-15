@@ -1,6 +1,6 @@
 ---
 title: McKenna's Amazon Ayahuasca Encounter with Dona Catalina
-source: Food of the Gods - Terence McKenna
+source: Food of the Gods - [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]]
 tags: [mckenna, ayahuasca, amazon, shamanism, dona-catalina, visionary, colombia, putumayo]
 created: 2026-05-11
 ---
@@ -46,7 +46,7 @@ hideous when the fire she tended suddenly flared as she added more wood." In the
 The physical description of Dona Catalina is deliberately unsettling. She is not
 the gentle, grandmotherly figure of New Age fantasy but something rawer and more
 authentic — a figure who "must have grown into this role." Her appearance suggests
-that the shamanic calling is not chosen for comfort or glamour but forged through
+that the [[mazatec-fright-and-shamanic-calling]] is not chosen for comfort or glamour but forged through
 a lifetime of difficult practice.
 
 ## The Brew: Sensory Details
@@ -101,7 +101,7 @@ be alive! Or is it that I am alive to be lucky? I break up laughing."
 
 ## The Icaro: Visible Song
 
-The turning point of the encounter comes when Dona Catalina begins to sing.
+The [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] of the encounter comes when Dona Catalina begins to sing.
 McKenna describes it as "no ordinary song, but an icaro, a magical curing song."
 In their intoxicated and ecstatic state, the song "seems more like a tropical
 reef fish or an animated silk scarf of many colors than a vocal performance."
@@ -109,7 +109,7 @@ reef fish or an animated silk scarf of many colors than a vocal performance."
 This synesthetic description — hearing as seeing, song as visual object — is
 characteristic of the ayahuasca experience and represents McKenna's firsthand
 confirmation of the shamanic principle that "language, ideas, and meaning have
-greater power than cause and effect." The icaro is not merely music but "a visible
+greater power than [[fukuoka-nature-no-cause-and-effect]]." The icaro is not merely music but "a visible
 manifestation of power, enfolding us and making us secure." The song itself
 becomes the healing — language made visible and tangible.
 

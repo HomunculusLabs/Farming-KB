@@ -9,11 +9,11 @@ created: 2026-05-11
 # Solomon's Variety Trial Methodology
 
 [[steve-solomon]] developed his variety trial methodology during his years running
-Territorial Seed Company (1979-1986). He argues that honest seed businesses
+[[territorial-seed-company]] (1979-1986). He argues that honest seed businesses
 cannot simply sell whatever varieties "Someone Else" recommends — they must
 test numerous varieties themselves and decide what to offer based on actual
 performance. This approach produced several key insights that contradict
-conventional intensive gardening wisdom.
+conventional [[coleman-british-adoption-of-french-intensive-gardening]] wisdom.
 
 ## Why Variety Trials Matter
 
@@ -23,7 +23,7 @@ Solomon's trials revealed that widely-recommended varieties often underperformed
 lesser-known options in his Oregon growing conditions. The only reliable way to
 know which varieties work in your specific garden is to test them.
 
-Trial results also exposed problems with the intensive gardening paradigm.
+Trial results also exposed problems with the intensive [[chemical-to-biological-gardening-paradigm]].
 Solomon found that plants grown with wider spacing in his trial plots
 consistently outperformed the same varieties grown intensively — they got
 larger, tasted better when not harvested immediately, and often yielded more
@@ -42,9 +42,9 @@ side by side under identical conditions. Solomon's approach:
    to show their true characteristics.
 
 3. **Use identical soil preparation** across the entire trial area. Apply the
-   same Complete Organic Fertilizer (COF) at the same rate to every plot.
+   same [[complete-organic-fertilizer]] (COF) at the same rate to every plot.
 
-4. **Plant all varieties on the same day** using the same planting technique.
+4. **Plant all varieties on the same day** using the same [[coleman-leek-deep-planting-technique]].
    If direct-seeding, sow at the same depth with the same spacing.
 
 5. **Water identically** — either irrigate all equally or grow all without
@@ -65,7 +65,7 @@ comes at the cost of:
 - Higher water consumption
 - More fertilizer input
 - Greater disease pressure from poor air circulation
-- Smaller individual vegetables with less intense flavor
+- Smaller individual [[growing-vegetables-with-less-fertilizer]] intense flavor
 - More demanding management and attention
 
 ### Taste and Nutrition Correlate with Spacing

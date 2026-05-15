@@ -1,5 +1,5 @@
 ---
-title: Pseudomonas as Core Endorhiza Member in Cannabis Microbiome
+title: Pseudomonas as Core Endorhiza Member in [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
 created: 2026-05-09
 tags: [microbiome, pseudomonas, cannabis, endorhiza, core-community]
 date: 2026-05-09
@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 Pseudomonas was identified as a consistent member of the core endorhiza
-bacterial community across all five Cannabis cultivars examined in the
+[[rhizosphere-bacterial-community-dynamics]] across all five Cannabis cultivars examined in the
 Winston et al. (2014) study. Unlike cultivar-specific taxa such as
 Methylophilus that showed dramatic abundance variation between strains,
 Pseudomonas maintained stable presence regardless of cultivar, soil type, or
@@ -59,7 +59,7 @@ phylum's dominance in root-interior [[weed-management-strategies]]. Unlike culti
 tailored approaches, Pseudomonas-based interventions could potentially
 benefit any Cannabis cultivar. Commercial biocontrol products based on
 Pseudomonas species are already available for other crops, and their
-application to Cannabis cultivation could be explored to enhance plant
+application to [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] could be explored to enhance plant
 fitness, disease resistance, and production yield without concern for
 cultivar-specific compatibility.
 
@@ -72,7 +72,7 @@ ranged from 13% of the endorhiza community in Bookoo Kush to complete
 ## Overview
 
 Pseudomonas Core Endorhiza Cannabis represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,7 +101,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pseudomonas core endorhiza cannabis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

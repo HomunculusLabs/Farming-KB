@@ -23,11 +23,11 @@ sources:
 
 # Andy Letcher
 
-British author, musician, and academic, best known for "Shroom: A Cultural History of the Magic Mushroom" (2006), a critical examination of the myths, stories, and history surrounding psychedelic mushrooms in Western culture.
+British author, musician, and academic, best known for "Shroom: A Cultural History of the Magic Mushroom" (2006), a critical examination of the myths, stories, and history surrounding [[archaeology-of-psychedelic-mushrooms]] [[mycophobia-in-western-culture]].
 
 ## Overview
 
-Andy Letcher holds a PhD from King Alfred's College, Winchester (now University of Winchester) — his thesis was "The Role of the Bard in Contemporary Pagan Movements" (2001). He also delivered a paper "Mad Thoughts on Mushrooms: Discourse and Power in the Study of Psychedelic Consciousness" at the "Exploring Consciousness" conference in Bath (2004). He is associated with the University of Oxford. His interest in mycology was first awakened by Tony Lyons of Sheffield University. "Shroom" is his major work, notable for being the first comprehensive cultural history of magic mushrooms that challenges rather than reinforces the popular narrative of ancient, unbroken mushroom traditions. Letcher approaches the subject as both a participant and a critical scholar.
+Andy Letcher holds a PhD from King Alfred's College, Winchester (now University of Winchester) — his thesis was "The Role of the Bard in Contemporary Pagan Movements" (2001). He also delivered a paper "Mad Thoughts on Mushrooms: Discourse and Power in the Study of [[psychedelic-consciousness-expansion]]" at the "Exploring Consciousness" conference in Bath (2004). He is associated with the University of Oxford. His interest in mycology was first awakened by Tony Lyons of Sheffield University. "Shroom" is his major work, notable for being the first comprehensive cultural history of magic mushrooms that challenges rather than reinforces the popular narrative of ancient, unbroken mushroom traditions. Letcher approaches the subject as both a participant and a critical scholar.
 
 ## Key Arguments in "Shroom"
 
@@ -45,7 +45,7 @@ Letcher systematically examines each of these claims and finds them unsupported 
 ## The Book's Structure
 
 "Shroom" is divided into two parts:
-- **Part One: Agaric** — Covers the history of psilocybin mushrooms in the West, from Victorian mycology through Wasson's Mexican discovery to the modern psychedelic movement
+- **Part One: Agaric** — Covers the history of [[psilocybin-mushrooms]] in the West, from [[victorian-mycology]] through Wasson's Mexican discovery to the modern psychedelic movement
 - **Part Two: Amanita** — Examines the fly-agaric in Siberian shamanism, the Soma hypothesis, Victorian fairy lore, and the Christmas/Santa Claus theory
 
 ## Legacy
@@ -83,7 +83,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Andy Letcher finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -112,7 +112,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 andy letcher and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

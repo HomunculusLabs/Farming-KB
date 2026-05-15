@@ -1,16 +1,16 @@
 ---
-title: Garden Tool Selection and Sharpening
+title: [[garden-tool-selection-sharpening-solomon]] and Sharpening
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Garden Tool Selection and Sharpening
 
-The quality and sharpness of garden tools has an enormous impact on the physical effort required to maintain a vegetable garden. [[steve-solomon]] argues that most gardeners work far harder than necessary because they use blunt, low-quality tools. A properly sharpened, well-made tool transforms gardening from exhausting labor into manageable, even enjoyable, physical activity.
+The quality and sharpness of [[garden-tools-and-sharpening]] has an enormous impact on the physical effort required to maintain [[query-how-do-i-plan-and-start-a-vegetable-garden-from-scratch]]. [[steve-solomon]] argues that most gardeners work far harder than necessary because they use blunt, low-quality tools. A properly sharpened, well-made tool transforms gardening from exhausting labor into manageable, even enjoyable, physical activity.
 
 ## The Essential Three Tools
 
-To handle a garden up to a quarter acre (1,000 m²), only three tools are truly essential:
+To handle a garden up to a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] (1,000 m²), only three tools are truly essential:
 
 1. **A spade or [[combination-shovel]]** — for digging, turning soil, and breaking sod
 2. **A bow rake** — for leveling soil, clearing debris, and making seedbeds
@@ -61,7 +61,7 @@ Making tool steel involves a fundamental compromise:
 Indicators of good steel:
 - The file or sharpening stone **cuts slowly** — this suggests harder, better-quality steel
 - A blade that stays sharp through a season of regular use
-- Brand names used by tradespeople and landscaping professionals
+- [[emcdda-brand-names-user-terms-smartshop-marketing]] used by tradespeople and landscaping professionals
 
 Indicators of poor steel:
 - The file cuts rapidly with little pressure — the metal is too soft

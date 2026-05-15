@@ -6,7 +6,7 @@ type: concept
 
 # Underground and Earth-Sheltered Housing
 
-Underground and earth-sheltered housing represents one of the most energy-efficient and climate-resilient building strategies available, particularly suited to desert and arid environments. Drawing on centuries of traditional practice across multiple continents, these structures leverage the thermal mass of earth to maintain stable, comfortable interior temperatures with minimal energy input.
+Underground and earth-sheltered housing represents one of the most energy-efficient and climate-resilient building strategies available, particularly suited to desert and [[fungal-diversity-arid-environments]]. Drawing on centuries of traditional practice across multiple continents, these structures leverage the [[comparison-windbreak-vs-thermal-mass]] of earth to maintain stable, comfortable interior temperatures with minimal energy input.
 
 ## Principles
 
@@ -41,9 +41,9 @@ The result is a clean, stable living space carved directly into the earth with m
 
 A critical concern in underground construction is radon gas, which accumulates in volcanic sediments and rhyolite formations. Radon is a radioactive, colourless, odourless gas that poses serious long-term health risks. Mitigation strategies include:
 
-- **Solar chimneys** — provide positive ventilation by drawing air upward through thermal convection
+- **[[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]]** — provide positive ventilation by drawing air upward through thermal convection
 - **Continuous airflow systems** — ensure radon cannot accumulate to dangerous levels
-- **Site selection** — avoid known radon-bearing geological formations where possible
+- **[[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]]** — avoid known radon-bearing geological formations where possible
 
 ### Natural Ventilation Design
 
@@ -96,9 +96,9 @@ Not all earth-sheltered housing is fully underground. Surface variants include:
 
 ## Storage Applications
 
-Underground and earth-sheltered spaces are exceptionally well-suited for storage due to their stable temperature and humidity. Appropriate uses include:
+Underground and earth-sheltered spaces are exceptionally well-suited for storage due to their stable [[greg-green-temperature-and-humidity-control]]. Appropriate uses include:
 
-- Root vegetables and other foodstuffs
+- [[growing-root-vegetables-guide]] and other foodstuffs
 - Books, films, and archives
 - Machine parts and tools
 - Dried fruits

@@ -99,6 +99,6 @@ Surrounding plants include the cumaceba tree (Cesalpina equinata), motelo huasca
 
 ## The Sanguijuela Mama
 
-The sanguijuela mama is a giant leech approximately twelve meters long, with four antennae in its head and no mouth. It inhabits cochas bravas (isolated, dangerous jungle lakes) where enormous beasts live.
+The [[sanguijuela-mama]] is a giant leech approximately twelve meters long, with four antennae in its head and no mouth. It inhabits cochas bravas (isolated, dangerous jungle lakes) where enormous beasts live.
 
 ### The Attack

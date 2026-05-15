@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Woody Mulch Systems
 
-Mulch is central to permaculture soil management. In the humid tropics (Chapter 10), Mollison identifies mulch sources as one of the special topics requiring considerable emphasis, as humus is an essential soil fraction and humus creation is a prerequisite to sustainability.
+Mulch is central to permaculture soil management. In the humid tropics (Chapter 10), Mollison identifies mulch sources as one of the special topics requiring considerable emphasis, as humus is an essential soil fraction [[tropical-mulch-systems-and-humus-creation]] is a prerequisite to sustainability.
 
 ## The Role of Mulch
 
@@ -25,7 +25,7 @@ In the wet tropics, heat and high rainfall would leach most mobile nutrients fro
 
 ### Tree Leaf Fall
 
-Species chosen for windbreaks and shelterbelts provide excellent crop mulch. Mollison lists Prosopis, Acacia, Erythrina, Melia, and Canna as mulch-producing species. These are selected to fix or recycle nitrogen and phosphatic fertilisers, and to mine trace elements (Casuarina, Banksia, Eucalyptus camaldulensis).
+Species chosen for windbreaks and shelterbelts provide excellent crop mulch. Mollison lists Prosopis, Acacia, Erythrina, Melia, and Canna as mulch-producing species. These are selected to fix or recycle nitrogen and phosphatic fertilisers, and to mine trace elements (Casuarina, Banksia, [[eucalyptus-camaldulensis]]).
 
 ### Ramial Chipped Wood (RCW)
 
@@ -38,9 +38,9 @@ Tropical green manure and mulch species include:
 - **Cowpea** (Vigna sinensis) -- preferred annual cover crop and soil improver
 - **Lablab** (Lablab purpureus) -- vigorous annual/short-lived perennial for soil-building and weed control
 - **Puero** (Pueraria phaseoloides) -- pioneer green and cover crop, perennial climber
-- **Stylo** (Stylosanthes guianensis) -- perennial pasture legume, excellent mulch in tree systems on poor acid soils
+- **Stylo** ([[stylosanthes-guianensis]]) -- perennial pasture legume, excellent mulch in tree systems on poor acid soils
 - **Mung beans** (Vigna radiata) -- vigorous garden green crop and forage annual
-- **Siratro** (Macroptilium atropurpureum) -- excellent nitrogen contribution to grasses
+- **Siratro** ([[macroptilium-atropurpureum]]) -- excellent nitrogen contribution to grasses
 
 ### Bamboo Leaf Litter
 
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Permaculture Woody Mulch Systems finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 permaculture woody mulch systems and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

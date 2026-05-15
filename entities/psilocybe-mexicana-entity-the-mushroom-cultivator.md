@@ -5,7 +5,7 @@ type: species
 tags: [psilocybe, sclerotia, mexican-mushroom, psychoactive, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
 
 # Psilocybe mexicana

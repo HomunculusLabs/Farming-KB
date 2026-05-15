@@ -1,5 +1,5 @@
 ---
-title: Fungal Decomposition Enzymes and Resource Quality
+title: Fungal Decomposition Enzymes [[fungal-enzyme-systems-and-resource-quality]]
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungal decomposition is the primary biological process by which organic matter in terrestrial ecosystems is broken down and recycled. The rate and efficiency of [[fungal-decomposition|decomposition]] are governed by two interrelated factors: the **quality of the resource** (the chemical composition of the plant material being decomposed) and the **enzyme systems** that fungi deploy to degrade specific biochemical components. Understanding this relationship is central to [[fungal-ecology]], [[nutrient-mineralization-fungi|nutrient cycling]], and soil science.
+Fungal decomposition is the primary biological process by which organic matter in terrestrial ecosystems is broken down and recycled. The rate and efficiency of [[fungal-decomposition|decomposition]] are governed by two interrelated factors: the **quality of the resource** (the [[chemical-composition-of-hallucinogens]] the plant material being decomposed) and the **enzyme systems** that fungi deploy to degrade specific biochemical components. Understanding this relationship is central to [[fungal-ecology]], [[nutrient-mineralization-fungi|nutrient cycling]], and soil science.
 
 ## Resource Quality Indices
 
@@ -35,7 +35,7 @@ Lignin is the most chemically recalcitrant component of plant litter. Its degrad
 - **Lignin peroxidase (LiP):** A heme-containing peroxidase that oxidizes non-phenolic aromatic structures in lignin, the most abundant and resistant subunits.
 - **Manganese peroxidase (MnP):** Oxidizes Mn²⁺ to Mn³⁺, which in turn diffuses into the lignin matrix and oxidizes phenolic compounds.
 - **Laccases:** Multi-copper oxidases that degrade phenolic lignin subunits and also participate in humification.
-- **Accessory oxidases:** Glucose oxidase, cellobiose oxidase, arylalcohol oxidase, and glyoxal oxidase generate the hydrogen peroxide (H₂O₂) required by peroxidases, linking lignin degradation to the fungal metabolic cycle.
+- **Accessory oxidases:** Glucose oxidase, cellobiose oxidase, arylalcohol oxidase, and glyoxal oxidase generate the [[cervantes-hydrogen-peroxide-sterilization]] (H₂O₂) required by peroxidases, linking lignin degradation to the fungal metabolic cycle.
 
 These enzymes work in concert as an **enzymatic cascade**: oxidases produce H₂O₂, which peroxidases use to attack lignin bonds. This interdependence means that lignin degradation is energetically expensive and tightly regulated.
 
@@ -72,7 +72,7 @@ Decomposition is not carried out by a single fungal species but by a **successio
 This foundational model describes decomposition as a three-phase process driven by changing resource chemistry:
 
 1. **Leaching phase:** Soluble compounds (sugars, amino acids, minerals) are rapidly lost through leaching and opportunistic microbial activity.
-2. **Controlled decomposition phase:** Decomposition rate is governed by resource quality (especially lignin content). Fungal community shifts from sugar-using species to cellulolytic and ligninolytic fungi.
+2. **Controlled decomposition phase:** Decomposition rate is governed by resource quality (especially lignin content). [[dighton-selective-grazing-fungal-community-shifts]] from sugar-using species to cellulolytic and ligninolytic fungi.
 3. **Uncontrolled (limit-value) decomposition phase:** Decomposition slows dramatically as remaining material becomes increasingly recalcitrant, dominated by lignin and humus-like compounds.
 
 ### Sugar Fungi to Basidiomycetes Succession
@@ -93,7 +93,7 @@ Ponge described a four-stage colonization sequence for decomposing pine needles 
 Fungal–fungal interactions significantly affect decomposition outcomes. When multiple species colonize the same substrate, **interactions** can be:
 
 - **Antagonistic:** One species inhibits another through antibiotic production, resource competition, or direct mycelial combat (hyphal interference, lysis). This can slow overall decomposition if the dominant species is a poor degrader.
-- **Synergistic:** Species complement each other's enzymatic capabilities, collectively decomposing more material than either alone.
+- **Synergistic:** Species complement each other's [[fungal-enzymatic-capabilities]], collectively decomposing more material than either alone.
 
 ### Combative Ability Rankings
 
@@ -109,7 +109,7 @@ As ecosystems undergo succession from herbaceous communities to mature forests, 
 
 - **Herbaceous/early-successional systems:** Dominated by **sugar fungi** and fast-growing opportunists. Litter is relatively high-quality (low lignin, low C:N), so decomposition is rapid and enzyme systems are simpler.
 - **Shrub/intermediate systems:** Increasing contribution of woody litter raises lignin content. Cellulolytic fungi become more important.
-- **Forest/mature systems:** Dominated by **basidiomycetes**, reflecting the abundance of lignin-rich woody litter (needles, twigs, branches, boles). Decomposition is slow but essential for long-term carbon and nutrient cycling.
+- **Forest/mature systems:** Dominated by **basidiomycetes**, reflecting the abundance of lignin-rich woody litter (needles, twigs, branches, boles). Decomposition is slow but essential for long-term carbon [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
 This ecosystem-level shift mirrors the within-litter successional pattern (sugar fungi → cellulolytics → basidiomycetes) but operates at a landscape scale driven by changes in the chemical quality of dominant litter inputs.
 

@@ -1,5 +1,5 @@
 ---
-title: Shiitake Cultivation - Log Method
+title: [[comparison-enoki-vs-shiitake-cultivation]] - Log Method
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -45,7 +45,7 @@ After inoculation, logs enter an incubation period of 6-18 months:
 
 ## Fruiting
 
-Shiitake typically fruits naturally in spring and fall when temperature and moisture fluctuations trigger the mycelium:
+Shiitake typically fruits naturally in spring and fall when [[mushroom-growing-temperature-and-moisture]] fluctuations trigger the mycelium:
 
 1. **Soaking**: Submerge logs in cold water for 12-24 hours to simulate the soaking rains that trigger fruiting in nature
 2. **Temperature shock**: The cold water soak provides the temperature differential that signals the mycelium to form mushrooms
@@ -74,7 +74,7 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 ## Overview
 
 Shiitake Cultivation Log Method represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Shiitake Cultivation Log Method finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -103,7 +103,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 shiitake cultivation log method and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

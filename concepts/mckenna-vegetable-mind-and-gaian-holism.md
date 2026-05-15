@@ -1,5 +1,5 @@
 ---
-title: Mckenna Vegetable Mind And Gaian Holism
+title: [[mckenna-vegetable-mind-gaian-holism-plant-intelligence]] And Gaian Holism
 created: 2026-04-28
 tags: [philosophy, consciousness, gaian-theory, entheogens, mckenna]
 date: 2026-04-25
@@ -80,7 +80,7 @@ on several grounds. Some scholars note the lack of empirical evidence
 for the specific historical claims about mushroom use in human
 evolution. Others argue that the framework is overly romantic in its
 treatment of indigenous plant use and insufficiently attentive to the
-complexities of actual shamanic practices. The universalizing tendency of
+complexities of actual [[jivaro-bewitching-and-curing-shamanic-practices]]. The universalizing tendency of
 the theory, which posits a single plant-human symbiosis underlying all
 human cultures, has been challenged by anthropologists who document
 significant variation in plant use across societies. Despite these

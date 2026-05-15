@@ -19,7 +19,7 @@ type: concept
 Cryptic species are two or more species that are morphologically
 similar or identical but reproductively isolated and genetically
 distinct. In mycology, cryptic species represent one of the most
-significant challenges to accurate [[fungal-biodiversity-ecosystem-function]], the presence of multiple cryptic species may provide
+significant challenges to accurate [[fungal-biodiversity-and-ecosystem-function]], the presence of multiple cryptic species may provide
 functional redundancy or, conversely, represent irreplaceable
 functional roles.
 

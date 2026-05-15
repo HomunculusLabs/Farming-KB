@@ -8,7 +8,7 @@ created: 2026-05-13
 
 ## Description
 
-The French *maraîcher* system was an intensive market gardening tradition practiced in and around Paris from approximately 1850 to 1900, with surviving practitioners continuing into the late 20th century. The system achieved remarkable levels of year-round vegetable production on very small land areas (typically 1–2 acres per grower) using hotbeds heated by decomposing horse manure, glass cold frames, cloches (bell jars), and meticulous hand-labor techniques. It is considered one of the most productive and sustainable agricultural systems ever devised and served as a primary inspiration for Eliot Coleman's winter-harvest methods.
+The French *maraîcher* system was an [[french-intensive-market-gardening]] tradition practiced in and around Paris from approximately 1850 to 1900, with surviving practitioners continuing into the late 20th century. The system achieved remarkable levels of year-round vegetable production on very small land areas (typically 1–2 acres per grower) using hotbeds heated by decomposing horse manure, glass cold frames, cloches (bell jars), and meticulous hand-labor techniques. It is considered one of the most productive and sustainable agricultural systems ever devised and served as a primary inspiration for Eliot Coleman's winter-harvest methods.
 
 ## Classification
 
@@ -33,14 +33,14 @@ The French *maraîcher* system was an intensive market gardening tradition pract
 - Paths between beds were only 10 inches wide — too narrow for wheelbarrows; manure delivered in woven willow basket backpacks (*hottes*)
 - The system was self-sustaining: heat from decomposing urban "transportation waste" (horse manure) powered winter production
 - Began at the royal *potager* (vegetable garden) at Versailles under La Quintinie in the 1670s, reaching its peak by 1850–1900
-- Declined in the early 20th century as automobiles replaced horses (cutting manure supply), land values rose, and chemical fertilizers and tractors pushed agriculture toward large-scale production
+- Declined in the early 20th century as automobiles replaced horses (cutting manure supply), land values rose, and [[organic-vs-chemical-fertilizers-and-manure-quality]] tractors pushed agriculture toward large-scale production
 
 ## Key Historical Figures
 
 - **La Quintinie:** Head gardener at Versailles who pioneered early season-extension techniques in the 1670s–1680s
-- **Vincent Gressent:** Author of *Le potager moderne* (1870), who argued against chemical fertilizers and for compost-based fertility
+- **[[vincent-gressent]]:** Author of *Le potager moderne* (1870), who argued against chemical fertilizers and for compost-based fertility
 - **Prince Peter Kropotkin:** Russian anarchist who praised the *maraîchers* in *Fields, Factories and Workshops* (1899)
-- **William Robinson:** British writer who documented the system in *Parks and Gardens of Paris* (1869)
+- **[[william-robinson]]:** British writer who documented the system in *Parks and Gardens of Paris* (1869)
 - **J. Curé:** Author of *Ma pratique de la culture maraîchère* (1904), a technical manual for intensive production
 - **Louis Savier:** 20th-century *maraîcher* in Banvilliers visited by Coleman, who continued the tradition until retirement in 1996
 
@@ -57,11 +57,11 @@ Operates through complex interactions between biological, chemical, and physical
 
 ## Practical Applications
 
-Applied in agricultural production, land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
+Applied in [[fukuoka-agricultural-production-net-energy-deduction]], land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
 
 ## Research Findings
 
-Studies demonstrate measurable effects on soil health, plant growth, and ecosystem function. Ongoing research continues to refine understanding and application methods.
+Studies demonstrate measurable effects on soil health, plant growth, [[fungal-biodiversity-and-ecosystem-function]]. Ongoing research continues to refine understanding and application methods.
 ## Historical Context
 
 Development of understanding and practices related to this topic has evolved significantly over time. Early observations led to systematic study and practical applications that continue to influence modern approaches.
