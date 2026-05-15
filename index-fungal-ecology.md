@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2953 pages**
+**2957 pages**
 
 ## #
 
@@ -181,7 +181,6 @@
 - [[arthur-mushrooms-and-mankind-fungi-in-human-evolution]]
 - [[artillery-fungus-and-built-environment-fungi]]
 - [[ascomycete-phylum-guide]]
-- [[ascomycota]]
 - [[ascomycota-phylogeny-major-classes-lineages]]
 - [[asian-truffle-species]]
 - [[aspergillus-fumigatus-population-genetics]]
@@ -866,6 +865,7 @@
 - [[fungal-biodiversity-crisis]]
 - [[fungal-biodiversity-data-analysis]]
 - [[fungal-biodiversity-deep-subsurface-caves]]
+- [[fungal-biodiversity-discovery]]
 - [[fungal-biodiversity-education-citizen-science]]
 - [[fungal-biodiversity-estimates]]
 - [[fungal-biodiversity-estimation]]
@@ -876,6 +876,7 @@
 - [[fungal-biodiversity-grassland]]
 - [[fungal-biodiversity-herbarium-collections]]
 - [[fungal-biodiversity-in-extreme-environments]]
+- [[fungal-biodiversity-inventory]]
 - [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]]
 - [[fungal-biodiversity-measurement-methods]]
 - [[fungal-biodiversity-overview]]
@@ -1790,6 +1791,8 @@
 - [[macrofungi-seasonality-annual-variation]]
 - [[macrofungi-woody-substrata-survey-design]]
 - [[magnaporthe-grisea-functional-genomics-rice-blast]]
+- [[maitake-spawn-run-mycelial-growth]]
+- [[maitake-spawn-run-vegetative-mycelial-phases]]
 - [[malassezia-commensal-pathogenic-yeasts]]
 - [[manganese-peroxidase-mechanism]]
 - [[marine-and-mangrove-fungal-decomposition]]
@@ -2041,6 +2044,7 @@
 - [[mycological-dark-taxa]]
 - [[mycological-landscaping-and-gardening]]
 - [[mycological-permaculture-integration]]
+- [[mycological-research-institutions]]
 - [[mycological-terms-glossary]]
 - [[mycologists-through-history]]
 - [[mycology]]

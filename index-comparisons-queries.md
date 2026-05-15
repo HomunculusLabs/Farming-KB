@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1416 pages**
+**1419 pages**
 
 ## A
 
@@ -302,6 +302,7 @@
 - [[comparison-fukuoka-vs-jadam-farming]]
 - [[comparison-gabion-and-check-dams-vs-rain-garden-design]]
 - [[comparison-gabion-and-check-dams-vs-swale-design]]
+- [[comparison-gabion-dams-vs-keyline-design]]
 - [[comparison-gabions-vs-check-dams]]
 - [[comparison-garlic-vs-onion-growing]]
 - [[comparison-ginkgo-biloba-vs-panax-ginseng]]
@@ -857,6 +858,7 @@
 - [[query-how-do-i-control-tomato-blight]]
 - [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]
 - [[query-how-do-i-create-a-wildlife-friendly-garden]]
+- [[query-how-do-i-create-a-xeriscape-or-drought-tolerant-garden]]
 - [[query-how-do-i-create-microclimates-in-my-garden]]
 - [[query-how-do-i-cure-cannabis-in-jars-without-mold]]
 - [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]]
@@ -936,6 +938,7 @@
 - [[query-how-do-i-identify-and-control-aphids-on-cannabis]]
 - [[query-how-do-i-identify-and-control-thrips-on-cannabis]]
 - [[query-how-do-i-identify-and-control-whiteflies-on-cannabis]]
+- [[query-how-do-i-identify-and-manage-verticillium-wilt-in-my-garden]]
 - [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]]
 - [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
 - [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]]
