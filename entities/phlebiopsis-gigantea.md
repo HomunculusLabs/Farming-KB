@@ -9,7 +9,7 @@ tags: [basidiomycete, biocontrol, aphyllophorales, mycoparasite, forest-pathogen
 
 ## Description
 
-*Phlebiopsis gigantea* (syn. *Peniophora gigantea*) is a corticioid basidiomycete fungus widely used as a biological control agent against *Heterobasidion annosum* (syn. *Fomes annosus*), the causal agent of annosus root rot in conifers. *P. gigantea* is one of the most successful examples of fungal biocontrol in forestry, commercially formulated and applied to freshly cut conifer stumps to prevent colonization by *H. annosum*. The species is also notable for its hyphal interference mechanism — it causes cytoplasmic disruption of competing fungi at close range.
+*Phlebiopsis gigantea* (syn. *[[peniophora-gigantea]]*) is a corticioid basidiomycete fungus widely used as a biological control agent against *Heterobasidion annosum* (syn. *Fomes annosus*), the causal agent of annosus root rot in conifers. *P. gigantea* is one of the most successful examples of fungal biocontrol in forestry, commercially formulated and applied to freshly cut conifer stumps to prevent colonization by *H. annosum*. The species is also notable for its hyphal interference mechanism — it causes cytoplasmic disruption of competing fungi at close range.
 
 ## Classification
 

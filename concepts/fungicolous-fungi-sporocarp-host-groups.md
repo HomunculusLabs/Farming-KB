@@ -10,7 +10,7 @@ Fungi that live on the sporocarps (fruiting bodies) of other fungi — termed sp
 
 ## Major Host Groups
 
-The fungicolous fungi are divided into five major groups according to their substrata and biotopes:
+The [[fungicolous-fungi]] are divided into five major groups according to their substrata and biotopes:
 
 1. **Fungal sporocarps** — macromycete fruiting bodies
 2. **Lichens** — lichenized fungal-algal/cyanobacterial symbioses

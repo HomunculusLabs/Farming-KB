@@ -6,7 +6,7 @@ type: concept
 
 # Endophytic Fungi — Bark, Root, Xylotropic, and Specialized Host Endophytes
 
-Endophytic fungi colonize living plant tissues asymptomatically, representing one of the most diverse and poorly understood components of fungal biodiversity. Beyond the well-studied foliar endophytes of grasses and herbaceous plants, woody perennials harbor rich communities of endophytes in bark, xylem, roots, and specialized host tissues including lichens, mosses, liverworts, and pteridophytes. This page catalogs these communities by tissue type and host group, drawing primarily from comprehensive surveys of woody perennials and associated non-vascular plants.
+[[endophytic-fungi]] colonize living plant tissues asymptomatically, representing one of the most diverse and poorly understood components of fungal biodiversity. Beyond the well-studied foliar endophytes of grasses and herbaceous plants, woody perennials harbor rich communities of endophytes in bark, xylem, roots, and specialized host tissues including lichens, mosses, liverworts, and pteridophytes. This page catalogs these communities by tissue type and host group, drawing primarily from comprehensive surveys of woody perennials and associated non-vascular plants.
 
 The endophytic lifestyle represents a fundamentally important ecological strategy
 among fungi, encompassing species that range from latent pathogens to mutualists.
@@ -91,7 +91,7 @@ Key genera include *Geminoarcus*, *Kodonospora*, *Tetraspermum*, *Trifurcospora*
 
 ## Lichens as Substrata for Endophytes
 
-Cryptic endophytic microfungi have been isolated at high frequencies from lichen thalli (Petrini et al. 1990; Girlanda et al. 1997). In one survey, 17 fruticose lichen samples yielded 506 fungal taxa, with the majority (306 taxa) isolated only once (Petrini et al. 1990), illustrating extraordinary microfungal diversity. When two lichen species from a common site were compared, differences in assemblage composition were found despite similar overall biodiversity levels (Girlanda et al. 1997). Most isolates were not lichenicolous fungi but rather genera known from other substrata. The exceptionally high diversity is attributed to the highly porous and heterogeneous physical structure of lichen thalli, which provide numerous micro-niches for fungal colonization. This raises important questions about whether lichen-associated fungi represent a specialized community or a subset of the general environmental fungal spore rain.
+Cryptic endophytic microfungi have been isolated at high frequencies from lichen thalli (Petrini et al. 1990; Girlanda et al. 1997). In one survey, 17 fruticose lichen samples yielded 506 fungal taxa, with the majority (306 taxa) isolated only once (Petrini et al. 1990), illustrating extraordinary microfungal diversity. When two lichen species from a common site were compared, differences in assemblage composition were found despite similar overall biodiversity levels (Girlanda et al. 1997). Most isolates were not [[lichenicolous-fungi]] but rather genera known from other substrata. The exceptionally high diversity is attributed to the highly porous and heterogeneous physical structure of lichen thalli, which provide numerous micro-niches for fungal colonization. This raises important questions about whether lichen-associated fungi represent a specialized community or a subset of the general environmental fungal spore rain.
 
 ## Mosses, Hepatics, Liverworts, and Pteridophytes
 
@@ -131,7 +131,7 @@ The life history of xylotropic endophytes is analogous to that of foliar endophy
 
 ## Root Endophytes
 
-Mycorrhizal fungi are technically endophytes but are treated separately (see
+[[mycorrhizal-fungi]] are technically endophytes but are treated separately (see
 Chapter 15). Nonmycorrhizal microfungi that infect roots or associate with
 mycorrhizae represent a distinct category. Soil fungi, saprobic rhizosphere
 fungi, root pathogens, and root endophytes overlap considerably in taxonomy

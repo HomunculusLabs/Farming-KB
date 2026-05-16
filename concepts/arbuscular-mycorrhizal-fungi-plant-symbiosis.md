@@ -6,7 +6,7 @@ type: concept
 
 # Arbuscular Mycorrhizal Fungi and Plant Symbiosis
 
-Arbuscular mycorrhizal (AM) fungi form the most widespread type of mycorrhizal symbiosis on Earth, involving a mutualistic relationship between fungi in the order Glomales (phylum Zygomycota) and the roots of the vast majority of terrestrial plants. This association has existed for approximately 400 million years (Simon et al. 1993; Taylor et al. 1995) and plays fundamental roles in plant nutrition, ecosystem dynamics, and the maintenance of plant community diversity.
+Arbuscular mycorrhizal (AM) fungi form the most widespread type of [[mycorrhizal-symbiosis]] on Earth, involving a mutualistic relationship between fungi in the order Glomales (phylum Zygomycota) and the roots of the vast majority of terrestrial plants. This association has existed for approximately 400 million years (Simon et al. 1993; Taylor et al. 1995) and plays fundamental roles in plant nutrition, ecosystem dynamics, and the maintenance of plant community diversity.
 
 ## The Nature of the Symbiosis
 
@@ -40,7 +40,7 @@ Importantly, AM fungal sporulation does NOT appear to occur in response to nutri
 
 ## Host Specificity and Compatibility
 
-Perhaps the most striking feature of AM fungi is their apparent lack of host specificity. At the International Culture Collection of (Vesicular) Arbuscular Mycorrhizal Fungi (INVAM), more than 1000 isolates of 98 species across all genera were shown to grow and sporulate on a single plant host — **Sorghum sudanense** (Sudangrass) (Morton et al. 1993). Roots of Sudangrass can accommodate colonization by as many as 10 species simultaneously in pot cultures.
+Perhaps the most striking feature of AM fungi is their apparent lack of host specificity. At the International Culture Collection of (Vesicular) [[arbuscular-mycorrhizal-fungi]] (INVAM), more than 1000 isolates of 98 species across all genera were shown to grow and sporulate on a single plant host — **Sorghum sudanense** (Sudangrass) (Morton et al. 1993). Roots of Sudangrass can accommodate colonization by as many as 10 species simultaneously in pot cultures.
 
 This broad host compatibility may reflect 400 million years of mutualistic coevolution between plants and their fungal partners. However, host and environmental factors can differentially influence colonization and sporulation rates among different AM fungi in a community, manifested as changes in species richness and relative abundance.
 
@@ -81,6 +81,6 @@ The impact on agricultural and horticultural systems can be highly variable unde
 
 - Allen, M.F. 1991. The Ecology of Mycorrhizae. Cambridge University Press.
 - Brundrett, M. 1991. Mycorrhizas in natural ecosystems. Advances in Ecological Research 21: 171-313.
-- Morton, J.B., and G.L. Benny. 1990. Revised classification of arbuscular mycorrhizal fungi (Zygomycetes): a new order, Glomales, two new suborders, Glomineae and Gigasporineae, and two new families, Acaulosporaceae and Gigasporaceae. Mycotaxon 37: 471-491.
+- Morton, J.B., and G.L. Benny. 1990. Revised classification of arbuscular [[mycorrhizal-fungi]] (Zygomycetes): a new order, Glomales, two new suborders, Glomineae and Gigasporineae, and two new families, Acaulosporaceae and Gigasporaceae. Mycotaxon 37: 471-491.
 - Smith, S.E., and D.J. Read. 1997. Mycorrhizal Symbiosis. 2nd ed. Academic Press.
 - Wright, S.F., and A. Upadhyaya. 1998. A survey of soils for aggregate stability and glomalin, a glycoprotein produced by hyphae of arbuscular mycorrhizal fungi. Plant and Soil 198: 97-107.

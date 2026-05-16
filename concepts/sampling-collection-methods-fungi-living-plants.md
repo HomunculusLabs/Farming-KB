@@ -139,7 +139,7 @@ Kranz found that only **28–52% of individual host plants** within a population
 
 ### 6. Rusts with Alternate Hosts
 
-Many rust fungi (Pucciniales) have complex life cycles requiring **two unrelated host species** (heteroecism). To fully document these fungi:
+Many [[rust-fungi]] (Pucciniales) have complex life cycles requiring **two unrelated host species** (heteroecism). To fully document these fungi:
 
 - Collect **all spore stages** (spermogonia, aecia, uredinia, telia) when present
 - Collect **tissues of all ages** — young, mature, and senescent — as different stages may appear at different times

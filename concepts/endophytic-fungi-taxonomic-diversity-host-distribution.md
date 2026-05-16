@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Endophytic fungi inhabit healthy plant tissues asymptomatically, representing one of the most
+[[endophytic-fungi]] inhabit healthy plant tissues asymptomatically, representing one of the most
 diverse and ecologically significant guilds of fungi. Their taxonomic breadth, host range, and
 global distribution have been documented through extensive isolation studies spanning temperate,
 boreal, and tropical ecosystems. Species richness varies dramatically — from 4 species in
@@ -105,7 +105,7 @@ Petrini 1992; Cabral et al. 1993), while some dominant internal colonists are ab
 infrequent epiphytes. Guilds of endophytic colonists share some species with epiphytic and
 rhizosphere assemblages, though overlap is comparatively infrequent.
 
-Ascomycetous coprophilous fungi (Sordariaceae) occur at consistent but low frequencies from
+Ascomycetous [[coprophilous-fungi]] (Sordariaceae) occur at consistent but low frequencies from
 woody plant leaves/stems (Petrini 1986); their thick-walled ascospores with gelatinous sheaths
 are adapted for ballistic dispersal onto the cauloplane/phylloplane. Zygomycetes and
 Basidiomycetes are poorly represented in surveys — likely reflecting sampling bias rather than

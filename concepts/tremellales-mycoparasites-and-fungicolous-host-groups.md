@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Mycoparasitism — the parasitic relationship between fungi — represents one of the most ecologically significant yet understudied interactions in fungal biology. Among the major groups of mycoparasitic fungi, the order **Tremellales** within the subclass **Tremellomycetidae** stands out for its diversity of parasitic strategies, host ranges, and morphological adaptations. This page synthesizes the biology, taxonomy, and ecological roles of Tremellales mycoparasites and related fungicolous fungi across major host groups.
+Mycoparasitism — the parasitic relationship between fungi — represents one of the most ecologically significant yet understudied interactions in fungal biology. Among the major groups of mycoparasitic fungi, the order **Tremellales** within the subclass **Tremellomycetidae** stands out for its diversity of parasitic strategies, host ranges, and morphological adaptations. This page synthesizes the biology, taxonomy, and ecological roles of Tremellales mycoparasites and related [[fungicolous-fungi]] across major host groups.
 
 ## Tremellomycetidae: The Tremellales
 

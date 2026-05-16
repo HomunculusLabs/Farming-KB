@@ -61,7 +61,7 @@ Baiting is **not widely used in broad soil fungal surveys**. Notable exceptions 
 
 - **Cellophane** strips for cellulolytic fungi
 - **Hair** baits for keratinolytic fungi
-- **Insect** baits for entomopathogenic fungi
+- **Insect** baits for [[entomopathogenic-fungi]]
 - **Chitin, cellulose, keratin, and pollen** baits for Chytridiomycetes and other zoosporic fungi (the group for which baiting is most extensively employed)
 
 ## Sclerotia
@@ -153,4 +153,4 @@ Typical chytrid diversity ranges from **2 to 35 species per habitat** (Willoughb
 
 ## Summary
 
-Effective study of saprobic soil fungi requires disciplined colony selection, strategic community fractionation to overcome competitive exclusion, targeted baiting and sclerotial recovery, and specialized methods for basidiomycetes and chytridiomycetes that standard plating techniques underrepresent. Together these approaches yield a more complete and less biased picture of soil fungal diversity.
+Effective study of [[saprobic-soil-fungi]] requires disciplined colony selection, strategic community fractionation to overcome competitive exclusion, targeted baiting and sclerotial recovery, and specialized methods for basidiomycetes and chytridiomycetes that standard plating techniques underrepresent. Together these approaches yield a more complete and less biased picture of [[soil-fungal-diversity]].

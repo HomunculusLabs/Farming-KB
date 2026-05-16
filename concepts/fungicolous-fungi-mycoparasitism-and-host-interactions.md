@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungicolous fungi (also called mycophilic fungi) are species of fungi that are consistently associated with other fungi, including lichenicolous fungi that grow on lichens. The term encompasses a spectrum of trophic relationships—parasitic, commensal, mutualistic, and antagonistic/competitive. Fungicolous fungi have been known for centuries and are represented in many ecological categories, playing important roles in ecosystems through detoxification of substrata not otherwise accessible to decomposition. Many are also economically important as biocontrol agents of plant-pathogenic fungi or as parasites that damage crops of edible fungi.
+[[fungicolous-fungi]] (also called mycophilic fungi) are species of fungi that are consistently associated with other fungi, including [[lichenicolous-fungi]] that grow on lichens. The term encompasses a spectrum of trophic relationships—parasitic, commensal, mutualistic, and antagonistic/competitive. Fungicolous fungi have been known for centuries and are represented in many ecological categories, playing important roles in ecosystems through detoxification of substrata not otherwise accessible to decomposition. Many are also economically important as biocontrol agents of plant-pathogenic fungi or as parasites that damage crops of edible fungi.
 
 ## Historical Context and Diversity
 
@@ -86,7 +86,7 @@ Jeffries and Young (1994) and Jeffries (1995) distinguished five principal types
 **Type 1: Contact Necrotrophic**
 - Neither hyphae nor haustoria penetrate the host mycelium
 - Damage occurs via hyphal interference
-- Examples: *Arthrobotrys superba*, *A. oligospora* (predaceous nematophagous fungi functioning as contact mycoparasites); *Tilletiopsis* species killing cells of powdery mildew *Sphaerotheca fuliginea*
+- Examples: *Arthrobotrys superba*, *A. oligospora* (predaceous [[nematophagous-fungi]] functioning as contact mycoparasites); *Tilletiopsis* species killing cells of powdery mildew *Sphaerotheca fuliginea*
 
 **Type 2: Invasive Necrotrophic**
 - Hyphae penetrate the cell wall and enter the host cell with considerable growth within host hyphae

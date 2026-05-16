@@ -77,7 +77,7 @@ Alkaliphiles grow optimally at pH 8.5–11, inhabiting soda lakes, alkaline soil
 
 ## Halophilic Fungi
 
-Halophilic fungi require or tolerate elevated salt concentrations. Standard media are modified with sea salts.
+[[halophilic-fungi]] require or tolerate elevated salt concentrations. Standard media are modified with sea salts.
 
 ### Media and Environmental Profiles
 
@@ -114,7 +114,7 @@ Rock-inhabiting fungi (RIF) colonize stone surfaces and interiors, often as mela
 
 ## Phoenicoid Fungi (Post-Fire)
 
-Phoenicoid fungi are specialized post-fire colonizers. Fire effects on soil fungal communities persist **up to 4 years**.
+[[phoenicoid-fungi]] are specialized post-fire colonizers. Fire effects on soil fungal communities persist **up to 4 years**.
 
 ### Detection and Isolation
 

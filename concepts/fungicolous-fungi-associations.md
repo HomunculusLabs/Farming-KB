@@ -6,8 +6,8 @@ type: concept
 
 # Fungicolous Fungi Associations
 
-Fungicolous fungi are fungi that grow on other fungi, encompassing a diverse
-spectrum of interspecific interactions. The term includes lichenicolous fungi
+[[fungicolous-fungi]] are fungi that grow on other fungi, encompassing a diverse
+spectrum of interspecific interactions. The term includes [[lichenicolous-fungi]]
 as well as fungi inhabiting sporocarps, sclerotia, spores, mycelia, and
 oospores of non-lichenized fungi. This guild plays important roles in fungal
 community structure, nutrient cycling, and natural biocontrol.

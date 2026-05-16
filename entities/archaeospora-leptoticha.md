@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*Archaeospora leptoticha* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Archaeospora*, one of the most phylogenetically ancient genera within the order Glomales. It is globally distributed across most continents and represents an evolutionarily significant lineage of AM fungi that diverged early from other glomalean groups. The genus *Archaeospora* was delimited based on differences in selective rDNA primer sequences detected via polymerase chain reaction.
+*[[archaeospora]] leptoticha* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Archaeospora*, one of the most phylogenetically ancient genera within the order Glomales. It is globally distributed across most continents and represents an evolutionarily significant lineage of AM fungi that diverged early from other glomalean groups. The genus *Archaeospora* was delimited based on differences in selective rDNA primer sequences detected via polymerase chain reaction.
 
 ## Classification
 

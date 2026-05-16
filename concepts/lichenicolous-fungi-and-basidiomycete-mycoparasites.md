@@ -12,7 +12,7 @@ Lichenicolous (lichen-inhabiting) fungi and basidiomycete mycoparasites represen
 
 ### Nectriaceae
 
-The **Nectriaceae** harbor numerous fungicolous species, many of which remain undescribed. Within this family, **Cosmospora** is especially notable for its diversity of fungicolous species that colonize carbonized perithecia and other fungal fruiting structures. These small, brightly colored perithecial fungi are frequently encountered on dead fungal substrata in tropical and temperate regions. Additionally, lichenicolous fungi within **Sordariales** demonstrate the breadth of habitats exploited by ascomycetes growing on other fungi, blurring the line between fungicolous and lichenicolous lifestyles.
+The **Nectriaceae** harbor numerous fungicolous species, many of which remain undescribed. Within this family, **Cosmospora** is especially notable for its diversity of fungicolous species that colonize carbonized perithecia and other fungal fruiting structures. These small, brightly colored perithecial fungi are frequently encountered on dead fungal substrata in tropical and temperate regions. Additionally, [[lichenicolous-fungi]] within **Sordariales** demonstrate the breadth of habitats exploited by ascomycetes growing on other fungi, blurring the line between fungicolous and lichenicolous lifestyles.
 
 ### Clavicipitaceae
 
@@ -26,7 +26,7 @@ The **Niessliaceae** contribute several genera to the fungicolous and lichenicol
 
 ### Tubeufiaceae and Meliolaceous Associations
 
-Within **Dothideales** and **Pleosporales**, the **Tubeufiaceae** are remarkable for their fungicolous tendencies, particularly on meliolaceous and phyllachoraceous ascomycetes, as well as on rust fungi. These associations represent complex three-way interactions between host plants, their biotrophic fungal colonizers, and the fungicolous tubeufiaceous secondary parasites.
+Within **Dothideales** and **Pleosporales**, the **Tubeufiaceae** are remarkable for their fungicolous tendencies, particularly on meliolaceous and phyllachoraceous ascomycetes, as well as on [[rust-fungi]]. These associations represent complex three-way interactions between host plants, their biotrophic fungal colonizers, and the fungicolous tubeufiaceous secondary parasites.
 
 ### Dacampiaceae and Lichenicolous Dothideomycetes
 

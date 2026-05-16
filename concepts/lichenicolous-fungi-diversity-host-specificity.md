@@ -6,7 +6,7 @@ type: concept
 
 # Lichenicolous Fungi: Diversity and Host Specificity
 
-Lichenicolous fungi — fungi that grow on lichens — represent a remarkably diverse and specialized group within the fungicolous fungi. They range from biotrophic parasites to destructive necrotrophs and are found across multiple orders of Ascomycota and Basidiomycota. Their host specificity varies from extreme specialists restricted to a single host species to generalists capable of colonizing multiple lichen genera.
+[[lichenicolous-fungi]] — fungi that grow on lichens — represent a remarkably diverse and specialized group within the [[fungicolous-fungi]]. They range from biotrophic parasites to destructive necrotrophs and are found across multiple orders of Ascomycota and Basidiomycota. Their host specificity varies from extreme specialists restricted to a single host species to generalists capable of colonizing multiple lichen genera.
 
 ## Ascomycete Lichenicolous Fungi
 

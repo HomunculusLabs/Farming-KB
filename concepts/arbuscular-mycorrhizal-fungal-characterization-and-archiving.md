@@ -112,7 +112,7 @@ Spores are produced asexually, occurring singly on a sporogenous hypha, in aggre
 
 ## Microhabitat Descriptions
 
-All fungal hyphae are in direct contact with soil, making soil factors critical for:
+All [[fungal-hyphae]] are in direct contact with soil, making soil factors critical for:
 - Spore germination and growth of infective propagules
 - Growth of runner hyphae for mycorrhizal spread
 - Growth and architecture of absorptive hyphae for nutrient uptake

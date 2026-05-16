@@ -63,7 +63,7 @@ While rapid changes in endophyte communities are unlikely immediately after coll
 
 ## Surface Sterilization and Culture Protocols
 
-The size of the sampling unit and the sterilization procedures used vary considerably among investigators, host species, and tissue types. It is essential to experiment with these factors prior to detailed investigations (Petrini 1992; Schulz et al. 1993; Bissegger and Sieber 1994). For root tissues, serial washing is preferable to chemical sterilization (Summerbell 1989; Holdenrieder and Sieber 1992).
+The size of the sampling unit and the [[sterilization]] procedures used vary considerably among investigators, host species, and tissue types. It is essential to experiment with these factors prior to detailed investigations (Petrini 1992; Schulz et al. 1993; Bissegger and Sieber 1994). For root tissues, serial washing is preferable to chemical sterilization (Summerbell 1989; Holdenrieder and Sieber 1992).
 
 The most common approach is brief treatment with a strong oxidant or general disinfectant, followed by a sterile rinse.
 

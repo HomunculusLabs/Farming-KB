@@ -56,7 +56,7 @@ Several groups of fungi induce gall formation on their host plants through mecha
 
 ### Rust-Induced Galls
 
-Certain rust fungi are associated with galls on woody hosts:
+Certain [[rust-fungi]] are associated with galls on woody hosts:
 - *Endocronartium harknessii* on lodgepole pine (*Pinus contorta*) — produces woody galls on branches and stems that can be quite large and persistent
 - *Gymnosporangium* species on juniper — produces gall-like structures during part of their life cycle, completing the cycle on rosaceous hosts such as hawthorn or apple
 

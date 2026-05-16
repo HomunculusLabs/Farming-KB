@@ -6,7 +6,7 @@ type: concept
 
 # Mycoparasitism Mechanisms in Basidiomycota and Zygomycota
 
-Mycoparasitism — the parasitism of one fungus by another — is particularly widespread in various groups of Basidiomycota, including Urediniomycetes, Ustilaginomycetes, and phragmobasidial Hymenomycetes. These fungi have evolved diverse morphological and biochemical mechanisms for attacking, penetrating, and exploiting other fungi as nutrient sources. Complementing the basidiomycete mycoparasites are certain Zygomycota that also parasitize fungal hosts, often through highly specialized structures.
+Mycoparasitism — the parasitism of one fungus by another — is particularly widespread in various groups of [[basidiomycota]], including Urediniomycetes, Ustilaginomycetes, and phragmobasidial Hymenomycetes. These fungi have evolved diverse morphological and biochemical mechanisms for attacking, penetrating, and exploiting other fungi as nutrient sources. Complementing the basidiomycete mycoparasites are certain Zygomycota that also parasitize fungal hosts, often through highly specialized structures.
 
 ## Urediniomycetes — Platygloeomycetidae
 

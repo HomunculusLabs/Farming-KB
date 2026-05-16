@@ -6,7 +6,7 @@ type: concept
 
 # Sequestrate Fungi — Taxonomy, Diversity, Herbarium Collections, and Species Richness
 
-Sequestrate fungi are a polyphyletic assemblage characterized by enclosed, hypogeous or semi-hypogeous fruiting bodies that do not actively discharge spores. They rely on animal vectors for dispersal and are predominantly ectomycorrhizal.
+[[sequestrate-fungi]] are a polyphyletic assemblage characterized by enclosed, hypogeous or semi-hypogeous fruiting bodies that do not actively discharge spores. They rely on animal vectors for dispersal and are predominantly ectomycorrhizal.
 
 ## Taxonomy, Diversity, and Distribution
 

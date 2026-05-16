@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Accurate characterization of yeast isolates is fundamental to understanding fungal biodiversity. Traditional phenotypic methods are increasingly supplemented—and in many cases replaced—by molecular techniques that provide more reliable species identification and phylogenetic insight. The challenges of sampling, isolation, and identification must be carefully managed to produce meaningful estimates of yeast community structure and diversity.
+Accurate characterization of yeast isolates is fundamental to understanding [[fungal-biodiversity]]. Traditional phenotypic methods are increasingly supplemented—and in many cases replaced—by molecular techniques that provide more reliable species identification and phylogenetic insight. The challenges of sampling, isolation, and identification must be carefully managed to produce meaningful estimates of yeast community structure and diversity.
 
 ## Abundance and Sampling Considerations
 

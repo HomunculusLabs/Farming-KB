@@ -6,7 +6,7 @@ type: concept
 
 # Endophytic Fungi — Distribution Patterns, Tissue Specificity, and Screening Methods
 
-Endophytic fungi inhabit healthy plant tissues without causing apparent disease symptoms. Their
+[[endophytic-fungi]] inhabit healthy plant tissues without causing apparent disease symptoms. Their
 distribution, tissue specificity, and screening methods are fundamental topics in fungal ecology.
 
 ## Spatial and Temporal Distribution

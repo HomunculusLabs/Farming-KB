@@ -12,7 +12,7 @@ Arbuscular mycorrhizal (AM) fungi form one of the most widespread and ecological
 
 ## Taxonomic Classification and Systematics
 
-The order Glomales was formally established by Morton and Benny (1990), reorganizing taxa previously assigned to Endogonales by Gerdemann and Trappe (1974). This reclassification reflected fundamental differences in spore morphology, mycelial structure, and symbiotic behavior that distinguished arbuscular mycorrhizal fungi from other zygomycete-like organisms. The phylogenetic framework, based on morphological characters of the mycelium and reproductive spores (Morton 1990a; Morton and Benny 1990; Morton and Redecker 2001), recognizes two major suborders: **Glomineae** and **Gigasporineae**.
+The order Glomales was formally established by Morton and Benny (1990), reorganizing taxa previously assigned to Endogonales by Gerdemann and Trappe (1974). This reclassification reflected fundamental differences in spore morphology, mycelial structure, and symbiotic behavior that distinguished [[arbuscular-mycorrhizal-fungi]] from other zygomycete-like organisms. The phylogenetic framework, based on morphological characters of the mycelium and reproductive spores (Morton 1990a; Morton and Benny 1990; Morton and Redecker 2001), recognizes two major suborders: **Glomineae** and **Gigasporineae**.
 
 ## Mycelial Structure and Growth
 
@@ -62,11 +62,11 @@ This distinction has important implications for the spread and persistence of AM
 
 ### Host Specificity and Fungal Communities
 
-Host specificity in AM fungi is **minimal or absent under controlled culture conditions** (Smith and Gianinazzi-Pearson 1988; Brundrett 1991; Smith and Read 1997). The International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi (INVAM) has established more than 200 fungal accessions from single spores, many of which can colonize a broad range of host species. However, fungal communities in nature are **rarely composed of a single species** (Morton 1999); multiple AM fungal taxa typically co-occur within the same root system and rhizosphere.
+Host specificity in AM fungi is **minimal or absent under controlled culture conditions** (Smith and Gianinazzi-Pearson 1988; Brundrett 1991; Smith and Read 1997). The International Culture Collection of Vesicular Arbuscular [[mycorrhizal-fungi]] (INVAM) has established more than 200 fungal accessions from single spores, many of which can colonize a broad range of host species. However, fungal communities in nature are **rarely composed of a single species** (Morton 1999); multiple AM fungal taxa typically co-occur within the same root system and rhizosphere.
 
 ### Non-Mycorrhizal Plants
 
-Not all plant taxa form AM associations. Non-AM plant orders have been catalogued by Tester et al. (1987). Nonmycorrhizal taxa are generally assumed to have **evolved away from the symbiosis** (Trappe 1987), losing the capacity for mycorrhizal colonization. Chemically induced mycorrhiza-resistant mutants in otherwise mycorrhizal species display activated defense mechanisms (Peterson and Bradbury 1995), suggesting that the symbiosis involves active suppression of plant immune responses. Notably, some plant genera can support both AM and ectomycorrhizal fungi simultaneously, as demonstrated in *Eucalyptus* (Lapeyrie and Chilvers 1985).
+Not all plant taxa form AM associations. Non-AM plant orders have been catalogued by Tester et al. (1987). Nonmycorrhizal taxa are generally assumed to have **evolved away from the symbiosis** (Trappe 1987), losing the capacity for mycorrhizal colonization. Chemically induced mycorrhiza-resistant mutants in otherwise mycorrhizal species display activated defense mechanisms (Peterson and Bradbury 1995), suggesting that the symbiosis involves active suppression of plant immune responses. Notably, some plant genera can support both AM and [[ectomycorrhizal-fungi]] simultaneously, as demonstrated in *Eucalyptus* (Lapeyrie and Chilvers 1985).
 
 ## The Mycorrhizosphere
 

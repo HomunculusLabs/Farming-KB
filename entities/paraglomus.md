@@ -9,7 +9,7 @@ tags: [fungi, glomales, arbuscular-mycorrhizae, amf, genus, ancient-lineage]
 
 ## Description
 
-Paraglomus is a small genus of arbuscular mycorrhizal fungi (AMF) belonging to the family Paraglomaceae within the order Glomales. Like Archaeospora, Paraglomus was delimited recently based on differences in selective rDNA primer sequences. The genus contains only two described species and represents a phylogenetically ancient lineage within the Glomales. Paraglomus occultum, the type species, is found globally across diverse habitats and continents.
+Paraglomus is a small genus of arbuscular mycorrhizal fungi (AMF) belonging to the family Paraglomaceae within the order Glomales. Like Archaeospora, Paraglomus was delimited recently based on differences in selective rDNA primer sequences. The genus contains only two described species and represents a phylogenetically ancient lineage within the Glomales. [[paraglomus-occultum]], the type species, is found globally across diverse habitats and continents.
 
 ## Classification
 

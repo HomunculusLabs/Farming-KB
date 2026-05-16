@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Endophytic fungi live asymptomatically within plant tissues and represent a remarkably diverse group spanning multiple ascomycete orders. Their detection requires systematic field screening, careful isolation protocols, and detailed taxonomic knowledge. This concept page covers the practical methodologies for field screening and laboratory isolation of grass and woody perennial endophytes, followed by a comprehensive survey of their taxonomic diversity and ecological distribution.
+[[endophytic-fungi]] live asymptomatically within plant tissues and represent a remarkably diverse group spanning multiple ascomycete orders. Their detection requires systematic field screening, careful isolation protocols, and detailed taxonomic knowledge. This concept page covers the practical methodologies for field screening and laboratory isolation of grass and woody perennial endophytes, followed by a comprehensive survey of their taxonomic diversity and ecological distribution.
 
 ## Screening Field Populations
 

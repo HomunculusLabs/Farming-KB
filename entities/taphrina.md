@@ -24,7 +24,7 @@ Taphrina is a genus of biotrophic microfungi in the order Taphrinales (phylum As
 - Cause hyperplasia and formation of galls or witches' brooms; some species cause leaf spots, leaf curl, or deformed fruit.
 - Infected tissues are discolored yellow or pink, often with a whitish bloom indicating sporulation.
 - Asci are produced in a palisade on or from within the epidermis of infected host tissue; there are no specialized fruiting bodies.
-- Taphrina deformans causes the common leaf curl of peach, a significant disease in temperate fruit production.
+- [[taphrina-deformans]] causes the common leaf curl of peach, a significant disease in temperate fruit production.
 - In temperate regions, young leaves and flowers are infected each spring; asci and ascospores are produced in late spring or early summer.
 - Spores bud during warm, moist weather, giving rise to a yeast phase that can survive saprobically on plant surfaces.
 - Cultures from ascospores or conidia behave like slow-growing, pale pink yeasts but do not produce a sexual state in vitro.

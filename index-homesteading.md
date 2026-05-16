@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**262 pages**
+**282 pages**
 
 ## A
 
@@ -17,6 +17,7 @@
 ## B
 
 - [[backyard-pond-building]]
+- [[backyard-poultry-and-integrated-animal-systems]]
 - [[bamboo-as-building-material]]
 - [[bamboo-construction]]
 - [[barn-construction-reference]]
@@ -54,6 +55,7 @@
 - [[cold-area-grazing-and-wildfire]]
 - [[cool-temperate-forage-systems-and-small-livestock]]
 - [[cordwood-construction]]
+- [[currant-and-gooseberry-cultivation]]
 
 ## D
 
@@ -75,9 +77,11 @@
 
 - [[earth-cellar-construction]]
 - [[earth-dam-construction]]
+- [[earth-oven-and-cob-oven-construction]]
 - [[earth-plaster-and-natural-finishes]]
 - [[earthbag-building]]
 - [[earthbag-construction]]
+- [[earthbag-construction-and-superadobe-building]]
 - [[earthquake-preparedness-guide]]
 - [[egg-preservation-methods]]
 - [[emergency-preparedness]]
@@ -89,11 +93,14 @@
 
 ## F
 
+- [[farm-pond-design-and-construction]]
+- [[fermented-dairy-and-cultured-milk-products]]
 - [[fermented-hot-sauce-guide]]
 - [[firewood-seasoning-and-storage]]
 - [[fish-pond-stock-management-and-construction]]
 - [[flood-preparedness-guide]]
 - [[food-dehydration-guide]]
+- [[food-preservation-and-storage-methods]]
 - [[food-preservation-canning]]
 - [[free-range-pig-management]]
 - [[free-range-poultry-forage-systems-design]]
@@ -115,6 +122,8 @@
 ## H
 
 - [[home-butcher-shop-setup]]
+- [[home-cheesemaking-and-dairy-fermentation]]
+- [[home-dairy-and-cheesemaking]]
 - [[homestead-bakery-guide]]
 - [[homestead-canning-recipes]]
 - [[homestead-communication]]
@@ -144,6 +153,7 @@
 - [[homesteading-income-streams]]
 - [[homesteading-infrastructure]]
 - [[homesteading-legal-considerations]]
+- [[homesteading-self-sufficiency-skills]]
 - [[homesteading-water-systems]]
 - [[honey-extraction-and-processing]]
 - [[honey-varieties-guide]]
@@ -174,6 +184,7 @@
 - [[livestock-feed-formulation]]
 - [[livestock-fencing-guide]]
 - [[livestock-grassland-management-strategies]]
+- [[livestock-grazing-strategies-on-grasslands]]
 
 ## M
 
@@ -184,6 +195,7 @@
 - [[marketing-economics-small-scale-winter-produce]]
 - [[mason-jar-preserving-guide]]
 - [[masonry-heater-design]]
+- [[meadow-construction-and-forage-hedgerow-design]]
 - [[micro-hydro-power]]
 - [[modern-homes-mold-crisis-energy-efficient-construction]]
 - [[mud-oven]]
@@ -196,6 +208,7 @@
 - [[natural-building]]
 - [[natural-building-materials-guide]]
 - [[natural-building-overview]]
+- [[natural-building-techniques]]
 - [[natural-farm-food-preservation-methods]]
 - [[natural-free-range-poultry-farming]]
 - [[natural-livestock-farming]]
@@ -205,6 +218,7 @@
 ## O
 
 - [[off-grid-electricity-basics]]
+- [[off-grid-energy-and-homestead-infrastructure]]
 - [[off-grid-waste-management]]
 - [[oner-golden-goat-island-sweet-skunk-hawaiian-romulan]]
 - [[oner-sativa-landrace-preservation]]
@@ -222,6 +236,7 @@
 - [[phase-change-materials-thermal-energy-storage]]
 - [[pickle-making]]
 - [[pig-forage-and-integrated-management]]
+- [[pig-forage-systems-and-range-management]]
 - [[pig-husbandry]]
 - [[pig-keeping-guide]]
 - [[pig-range-systems]]
@@ -254,10 +269,12 @@
 - [[rocket-mass-heater-design]]
 - [[rocket-stove]]
 - [[rocket-stove-design]]
+- [[rocket-stoves-and-efficient-wood-burning-design]]
 - [[root-cellar-design-and-construction]]
 - [[root-cellaring]]
 - [[root-cellaring-and-no-energy-food-storage]]
 - [[root-cellaring-guide]]
+- [[root-cellars-and-cold-storage]]
 - [[roundwood-shelter-building]]
 
 ## S
@@ -276,8 +293,10 @@
 - [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]
 - [[skoolie-bus-conversion]]
 - [[slip-form-stone-construction]]
+- [[small-farm-livestock-management]]
 - [[small-scale-dairy-guide]]
 - [[smoking-meat-and-fish]]
+- [[soap-making-and-natural-household-products]]
 - [[soap-making-guide]]
 - [[solar-and-electric-food-drying-methods]]
 - [[solar-cooking-methods]]
@@ -290,6 +309,7 @@
 - [[stock-management-and-personal-survival-in-wildfire]]
 - [[stone-cellar-building]]
 - [[strawyard-throwover-pen-design]]
+- [[sustainable-forestry-coppicing-and-woodlot-management]]
 - [[sustainable-living-habits-for-homesteads]]
 
 ## T

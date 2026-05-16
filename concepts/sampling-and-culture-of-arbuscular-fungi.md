@@ -108,7 +108,7 @@ Once a culture contains only one species, volume can be multiplied by transferri
 ## References
 
 - Daniels, B.A., and H.D. Skipper. 1982. Methods for the recovery and quantitative estimation of propagules from soil. In: Methods and Principles of Mycorrhizal Research.
-- Morton, J.B., S.P. Bentivenga, and F.W. Wheeler. 1993. Germplasm in the International Collection of Arbuscular and Vesicular-Arbuscular Mycorrhizal Fungi (INVAM) and procedures for culture development, documentation, and storage. Mycotaxon 48: 491-528.
+- Morton, J.B., S.P. Bentivenga, and F.W. Wheeler. 1993. Germplasm in the International Collection of Arbuscular and Vesicular-Arbuscular [[mycorrhizal-fungi]] (INVAM) and procedures for culture development, documentation, and storage. Mycotaxon 48: 491-528.
 - Sylvia, D.M. 1994. Vesicular-arbuscular mycorrhizal (VAM) fungi. In: Methods of Soil Analysis, Part 2: Microbiological and Biochemical Properties.
 - Tews, L.L., and R.E. Koske. 1986. Towards a methodology for the study of VA mycorrhizal fungal species composition of a sand dune. Mycologia 78: 449-453.
 - Mueller-Dombois, D., and H. Ellenberg. 1974. Aims and Methods of Vegetation Ecology. John Wiley & Sons.

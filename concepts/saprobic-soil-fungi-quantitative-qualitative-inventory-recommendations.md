@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Systematic inventory of saprobic soil fungi requires standardized protocols that balance sampling intensity with practical constraints. The Wisconsin survey program (Christensen 1969; Gochenaur and Woodall 1974) established a model framework for recognizing principal species and comparing diversity patterns among soil fungal communities. This page summarizes recommended procedures for both quantitative and qualitative inventories, including the complete workflow from site selection through data analysis.
+Systematic inventory of [[saprobic-soil-fungi]] requires standardized protocols that balance sampling intensity with practical constraints. The Wisconsin survey program (Christensen 1969; Gochenaur and Woodall 1974) established a model framework for recognizing principal species and comparing diversity patterns among soil fungal communities. This page summarizes recommended procedures for both quantitative and qualitative inventories, including the complete workflow from site selection through data analysis.
 
 ## Quantitative Inventories
 
@@ -43,7 +43,7 @@ The recommended workflow (Figure 13.4 in the source) proceeds through sequential
 
 **Step 3 — Medium selection:** Use a standard, low-nutrient medium such as soil-extract agar (SEA) made with soil from the area under study, Gochenaur's glucose ammonium nitrate agar (GAN), carboxymethyl cellulose agar (CMC), or dilute malt extract agar with antibiotics. After a primary medium is selected, experimental trials determine the soil/water ratios yielding 5–30 colonies per plate and the medium/antibiotic combination that eliminates bacteria while maximizing fungal taxa.
 
-**Step 4 — Incubation:** Incubate surface-inoculated plates at 15–20°C or at in situ soil temperature; if a cooling incubator is unavailable, incubate at room temperature for 4–14 days or longer.
+**Step 4 — Incubation:** Incubate surface-inoculated plates at 15–20°C or at in situ [[soil-temperature]]; if a cooling incubator is unavailable, incubate at room temperature for 4–14 days or longer.
 
 **Step 5 — Colony isolation:** Isolate all colonies by hyphal tip dissection in sequence until the predetermined "representative sample" has been obtained. For a target of 40 isolates per site, cut 42–44 tiny blocks of hyphal tips (allowing for unsuccessful transfers) and place each on an identical slant of nutrient agar (e.g., malt-yeast extract agar or PDA).
 
@@ -95,7 +95,7 @@ Qualitative inventories draw on a broader toolkit:
 
 ### Complementary Nature
 
-Quantitative and qualitative approaches are complementary. The quantitative phase provides the statistical framework and community characterization, while the qualitative phase maximizes species discovery. Together they yield the most complete picture of soil fungal diversity at a site.
+Quantitative and qualitative approaches are complementary. The quantitative phase provides the statistical framework and community characterization, while the qualitative phase maximizes species discovery. Together they yield the most complete picture of [[soil-fungal-diversity]] at a site.
 
 ## Practical Considerations
 

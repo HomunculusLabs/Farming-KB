@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Lama Anagarika Govinda (1898–1985), born Ernst Lothar Hoffmann, was a German-born Buddhist scholar, practitioner, and painter who became one of the most influential interpreters of Tibetan Buddhism for Western audiences. He was ordained as a Lama in the Tibetan Buddhist tradition and spent decades studying and practicing in India and the Himalayas.
+[[lama-anagarika-govinda]] (1898–1985), born Ernst Lothar Hoffmann, was a German-born Buddhist scholar, practitioner, and painter who became one of the most influential interpreters of Tibetan Buddhism for Western audiences. He was ordained as a Lama in the Tibetan Buddhist tradition and spent decades studying and practicing in India and the Himalayas.
 
 ## Classification
 

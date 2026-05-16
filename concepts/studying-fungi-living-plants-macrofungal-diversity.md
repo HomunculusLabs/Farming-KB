@@ -16,7 +16,7 @@ Investigating fungi that colonize living plants and understanding the diversity 
 
 ### Leaf Colonization Investigation
 
-The colonization of living plant leaves by fungi has been investigated using a variety of techniques described by Dix and Webster (1995). With the exception of obligate biotrophs, many leaf-colonizing fungi—including downy mildews, rusts, black mildews, and powdery mildews—can be grown in culture for identification purposes. Culture methods are similar to those used for the study of endophytic fungi (see Chapter 12 methods), with one critical distinction: parasites are generally isolated from the margins of lesions rather than from asymptomatic tissue. Care must be taken to include living plant tissue in the sample for isolation, because isolation from necrotic tissue usually yields a range of secondary colonizers rather than the primary pathogen.
+The colonization of living plant leaves by fungi has been investigated using a variety of techniques described by Dix and Webster (1995). With the exception of obligate biotrophs, many leaf-colonizing fungi—including downy mildews, rusts, black mildews, and powdery mildews—can be grown in culture for identification purposes. Culture methods are similar to those used for the study of [[endophytic-fungi]] (see Chapter 12 methods), with one critical distinction: parasites are generally isolated from the margins of lesions rather than from asymptomatic tissue. Care must be taken to include living plant tissue in the sample for isolation, because isolation from necrotic tissue usually yields a range of secondary colonizers rather than the primary pathogen.
 
 ### Direct Observational Methods
 

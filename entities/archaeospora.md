@@ -21,7 +21,7 @@ Archaeospora is a small genus of arbuscular mycorrhizal fungi (AMF) belonging to
 
 ## Key Facts
 
-- Contains only **two described species**, one of which is Archaeospora leptoticha.
+- Contains only **two described species**, one of which is [[archaeospora-leptoticha]].
 - Species in this genus are genetically more closely related to Geosiphon pyriforme than to other AMF, as revealed by 18S ribosomal DNA (rDNA) sequence analysis.
 - Some Archaeospora species produce **both Acaulospora-like and Glomus-like spores from the same thallus**, challenging traditional genus-level taxonomy based on spore morphology.
 - Placed in the family Archaeosporaceae, one of two new families (along with Paraglomaceae) erected to accommodate phylogenetically ancient glomalean lineages.

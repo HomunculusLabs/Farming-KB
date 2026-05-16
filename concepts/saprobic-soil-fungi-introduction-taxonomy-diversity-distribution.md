@@ -26,7 +26,7 @@ The ecological importance of soil fungi is vast and multifaceted. They drive dec
 
 Soil fungi also participate in biosynthetic and biodegradation processes of remarkable chemical complexity, and engage in what has been termed "internecine warfare"—competitive interactions with other microorganisms mediated by antibiotics, enzymes, and other chemical weapons that shape community composition.
 
-Practical applications of soil fungi are equally diverse. They produce mycotoxins and natural products relevant to agriculture and medicine; they cause biodeterioration of materials and mycoses or allergies in humans and animals; and they are exploited in bioremediation of contaminated sites, industrial enzymology, and biological control of plant pathogens. Among the most medically significant fermentation products derived from soil fungi are penicillin, cephalosporin, cyclosporin, and lovastatin—all indispensable in modern medicine. The economic value of these fungal metabolites alone underscores the practical importance of understanding and conserving soil fungal diversity.
+Practical applications of soil fungi are equally diverse. They produce mycotoxins and natural products relevant to agriculture and medicine; they cause biodeterioration of materials and mycoses or allergies in humans and animals; and they are exploited in bioremediation of contaminated sites, industrial enzymology, and biological control of plant pathogens. Among the most medically significant fermentation products derived from soil fungi are penicillin, cephalosporin, cyclosporin, and lovastatin—all indispensable in modern medicine. The economic value of these fungal metabolites alone underscores the practical importance of understanding and conserving [[soil-fungal-diversity]].
 
 ## Soil Definition and Composition
 
@@ -36,7 +36,7 @@ The relative proportions of these components determine soil texture, structure, 
 
 The character and distribution of organic matter in soil profiles varies dramatically by ecosystem type. Grassland soils are enriched by organic accretion throughout the profile, with especially important contributions from annual, finely divided grass roots. Root biomass in grasslands typically exceeds that of above-ground tissues, and the fine, evenly distributed root material creates a homogeneous organic enrichment that supports dense fungal communities.
 
-Forest soils receive enrichment from two major sources: massive above-ground debris (leaf litter, twigs, branches, and woody material) and substantial below-ground mycorrhizal inputs (Fogel 1980; Vogt et al. 1982, 1983). Mycorrhizal fungi contribute significantly to soil carbon pools through continuous turnover of extraradical hyphae and hyphal exudates.
+Forest soils receive enrichment from two major sources: massive above-ground debris (leaf litter, twigs, branches, and woody material) and substantial below-ground mycorrhizal inputs (Fogel 1980; Vogt et al. 1982, 1983). [[mycorrhizal-fungi]] contribute significantly to soil carbon pools through continuous turnover of extraradical hyphae and hyphal exudates.
 
 Deserts and desert-grasslands typically retain only relatively intact surface litter, with minimal incorporation of organic matter into underlying mineral horizons. In mesic and wet grasslands, shrublands, heathlands, and forests, surface litter is underlain by amorphous aromatic humus resting directly on mineral soil.
 
@@ -82,7 +82,7 @@ On-site descriptions are generally limited to large, identifiable structures suc
 
 Despite its technical limitations, the indirect cultural approach remains the preferred method for generating species-composition inventories. However, single-isolation methods invariably detect only a portion of the organisms present (Punsola and Guarro 1984; Carreiro and Koske 1992; Petrini et al. 1992b; Mouchacca 1995; Okuda et al. 1995; Thorn et al. 1996). The choice of medium, incubation temperature, isolation period, and dilution factor all introduce systematic biases.
 
-Specialized groups—including thermophilic, osmophilic, and keratinophilic fungi; yeasts; dictyostelids; protostelids; and acrasids—are typically treated in separate methodological frameworks. Mycorrhizal and endophytic fungi, as well as fungal parasites of soil microfauna, likewise require specialized isolation and identification protocols that differ substantially from those used for free-living saprobes.
+Specialized groups—including thermophilic, osmophilic, and [[keratinophilic-fungi]]; yeasts; dictyostelids; protostelids; and acrasids—are typically treated in separate methodological frameworks. Mycorrhizal and endophytic fungi, as well as fungal parasites of soil microfauna, likewise require specialized isolation and identification protocols that differ substantially from those used for free-living saprobes.
 
 ## Taxonomic Literature and Geographic Coverage
 

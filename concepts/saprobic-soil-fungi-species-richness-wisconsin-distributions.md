@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Soil fungi constitute one of the most diverse and ecologically significant components of terrestrial ecosystems. Saprobic soil fungi — those that obtain nutrients by decomposing organic matter — vary enormously in species richness across habitats, climates, and vegetation types. Global surveys have produced isolate counts ranging from hundreds to tens of thousands, revealing both the scale of fungal diversity and the methodological challenges inherent in comparing studies with different sampling intensities.
+Soil fungi constitute one of the most diverse and ecologically significant components of terrestrial ecosystems. [[saprobic-soil-fungi]] — those that obtain nutrients by decomposing organic matter — vary enormously in species richness across habitats, climates, and vegetation types. Global surveys have produced isolate counts ranging from hundreds to tens of thousands, revealing both the scale of fungal diversity and the methodological challenges inherent in comparing studies with different sampling intensities.
 
 ## Global Species Richness and Sampling Efforts
 
@@ -118,7 +118,7 @@ Several overarching conclusions emerge from the synthesis of global survey data 
 
 - **Scale matters:** Species richness cannot be meaningfully compared across studies without standardization via rarefaction or similar techniques.
 - **Environment over geography:** Ecological similarity — in terms of climate, vegetation, and soil conditions — is a stronger predictor of fungal community composition than geographic proximity.
-- **Vegetation as a template:** While vegetation type provides a first-order prediction of fungal community structure, proximate factors such as litter chemistry, soil pH, and moisture can override biome-level patterns.
+- **Vegetation as a template:** While vegetation type provides a first-order prediction of fungal community structure, proximate factors such as litter chemistry, [[soil-ph]], and moisture can override biome-level patterns.
 - **Indicator value:** Soil fungal assemblages serve as sensitive and integrative indicators of environmental conditions, useful for both basic ecology and applied monitoring.
 - **Undersampled diversity:** Selective isolation techniques and molecular methods continue to reveal species missed by standard culture-based surveys, suggesting that current species inventories substantially underestimate true fungal diversity.
 

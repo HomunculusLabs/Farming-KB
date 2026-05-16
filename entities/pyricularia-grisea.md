@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Pyricularia grisea (synonym P. oryzae; teleomorph Magnaporthe grisea) is the causal agent of rice blast, one of the most devastating diseases of rice worldwide. It is a filamentous ascomycete fungus that also parasitizes more than 50 other species of grasses and sedges. Rice blast is an important pathogen in many rice-growing countries and a model organism for studying fungal pathogenesis.
+Pyricularia grisea (synonym P. oryzae; teleomorph [[magnaporthe-grisea]]) is the causal agent of rice blast, one of the most devastating diseases of rice worldwide. It is a filamentous ascomycete fungus that also parasitizes more than 50 other species of grasses and sedges. Rice blast is an important pathogen in many rice-growing countries and a model organism for studying fungal pathogenesis.
 
 ## Classification
 

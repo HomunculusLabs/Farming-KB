@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Smut fungi and their relatives constitute a major assemblage of plant-pathogenic fungi
+[[smut-fungi]] and their relatives constitute a major assemblage of plant-pathogenic fungi
 that collectively infect thousands of angiosperm species worldwide. This concept group
 encompasses the smut fungi proper (Ustilaginomycetes), the Exobasidiales, powdery
 mildews (Erysiphaceae), and sooty molds — diverse lineages united by their biotrophic

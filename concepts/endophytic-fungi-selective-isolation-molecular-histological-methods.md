@@ -8,7 +8,7 @@ type: concept
 
 ## Selective Isolation Agents
 
-Successful isolation of endophytic fungi from plant tissue requires careful use of selective agents to suppress competing microorganisms while permitting slower-growing endophytes to emerge. The following agents (Table 12.4) are organized by functional category.
+Successful isolation of [[endophytic-fungi]] from plant tissue requires careful use of selective agents to suppress competing microorganisms while permitting slower-growing endophytes to emerge. The following agents (Table 12.4) are organized by functional category.
 
 ### Antifungal Agents (Suppress Fast-Growing Fungi)
 

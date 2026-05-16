@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The systematic study of saprobic soil fungi requires rigorous protocols spanning habitat characterization, isolate documentation and preservation, taxonomic enumeration, and physiological profiling. This page synthesizes established recommendations for each stage of the inventory workflow, drawing on methods developed by Christensen (1969), Bills and Polishook (1994), Nobles (1965), Stalpers (1978), and numerous others working at the interface of soil mycology and fungal systematics.
+The systematic study of [[saprobic-soil-fungi]] requires rigorous protocols spanning habitat characterization, isolate documentation and preservation, taxonomic enumeration, and physiological profiling. This page synthesizes established recommendations for each stage of the inventory workflow, drawing on methods developed by Christensen (1969), Bills and Polishook (1994), Nobles (1965), Stalpers (1978), and numerous others working at the interface of soil mycology and fungal systematics.
 
 ---
 
@@ -131,4 +131,4 @@ Results for ligninolytic enzymes should be interpreted cautiously due to variabl
 
 ## Summary
 
-A comprehensive inventory of saprobic soil fungi integrates environmental characterization with rigorous laboratory protocols for isolate enumeration, preservation, morphological characterization, sporulation induction, microscopic evaluation, and physiological profiling. Combining classical culture-based methods with molecular sequence data—especially for sterile and cryptic taxa—yields the most complete picture of soil fungal diversity and its ecological roles.
+A comprehensive inventory of saprobic soil fungi integrates environmental characterization with rigorous laboratory protocols for isolate enumeration, preservation, morphological characterization, sporulation induction, microscopic evaluation, and physiological profiling. Combining classical culture-based methods with molecular sequence data—especially for sterile and cryptic taxa—yields the most complete picture of [[soil-fungal-diversity]] and its ecological roles.

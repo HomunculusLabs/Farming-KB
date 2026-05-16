@@ -10,7 +10,7 @@ type: concept
 
 ### Structural Identity and the Mycobiont
 
-The characteristic lichen thallus is produced by the fungal partner (mycobiont), not the photobiont. The distinctive morphological form of a lichen is the product of the interaction between the partners, not a property of either in isolation. When mycobionts are isolated and grown on agar, they form colonies that closely resemble those of nonlichenized fungi — typically slower-growing and more compact than free-living relatives.
+The characteristic [[lichen]] thallus is produced by the fungal partner (mycobiont), not the photobiont. The distinctive morphological form of a lichen is the product of the interaction between the partners, not a property of either in isolation. When mycobionts are isolated and grown on agar, they form colonies that closely resemble those of nonlichenized fungi — typically slower-growing and more compact than free-living relatives.
 
 Scientific names applied to lichens always refer to the fungal partner. The photobiont (whether a green alga or cyanobacterium) is named independently according to its own taxonomic classification.
 

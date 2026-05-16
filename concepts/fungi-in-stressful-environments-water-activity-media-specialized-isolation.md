@@ -93,7 +93,7 @@ ACMA is recommended for general alkalophilic isolation (Appendix II; Nagai et al
 
 ## Halophilic Isolation
 
-Halophilic fungi inhabit saline environments including coastal rocks, salt marshes, and rock surfaces/interiors in arid regions. Many are oligotrophic and slow-growing.
+[[halophilic-fungi]] inhabit saline environments including coastal rocks, salt marshes, and rock surfaces/interiors in arid regions. Many are oligotrophic and slow-growing.
 
 ### Recommended Approaches
 

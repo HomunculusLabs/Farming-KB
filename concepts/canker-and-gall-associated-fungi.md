@@ -70,7 +70,7 @@ Galls are abnormal proliferations of host tissue induced by parasitic organisms.
 
 ### Rust-Induced Galls
 
-Several rust fungi induce gall formation on their hosts:
+Several [[rust-fungi]] induce gall formation on their hosts:
 
 - **Endocronartium harknessii:** Causes galls on lodgepole pine (*Pinus contorta*)
 - **Gymnosporangium:** Induces galls on juniper (*Juniperus*) as part of its heteroecious life cycle

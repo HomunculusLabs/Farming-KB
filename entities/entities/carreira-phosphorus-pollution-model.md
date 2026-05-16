@@ -24,7 +24,7 @@ The Carreira phosphorus-pollution model describes the mechanism by which acidify
 
 ## Relevance to Cultivation and Mycology
 
-The Carreira model has direct implications for understanding phosphorus availability in managed fungal and plant systems:
+The Carreira model has direct implications for understanding [[phosphorus-availability]] in managed fungal and plant systems:
 
 1. **Mycorrhizal function:** The model explains why ectomycorrhizal fungi — which produce phosphatase enzymes to access organic phosphorus — are critical buffers against pollution-induced phosphorus stress. Loss of mycorrhizal diversity compounds the problem.
 2. **Substrate management:** In cultivation systems using organic substrates, maintaining appropriate pH is essential for phosphorus availability. Acidification of substrate (e.g., from metabolic acids or fertilizer reactions) can trigger the same phosphorus immobilization described by the model.

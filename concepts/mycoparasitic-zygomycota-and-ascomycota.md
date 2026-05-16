@@ -6,7 +6,7 @@ type: concept
 
 # Mycoparasitic Zygomycota and Ascomycota
 
-Mycoparasitism — the phenomenon of one fungus parasitizing another — is a widespread and ecologically significant strategy among fungi. Mycoparasitic fungi attack other fungi through a range of mechanisms including direct hyphal penetration, secretion of lytic enzymes, antibiosis via secondary metabolites, and coil formation around host hyphae. These interactions shape fungal community structure in soil, decaying wood, leaf litter, and clinical settings. Two major phyla harbor important mycoparasites: **Zygomycota** and **Ascomycota**, each with distinct lineages, host specificities, and modes of action.
+Mycoparasitism — the phenomenon of one fungus parasitizing another — is a widespread and ecologically significant strategy among fungi. Mycoparasitic fungi attack other fungi through a range of mechanisms including direct hyphal penetration, secretion of lytic enzymes, antibiosis via secondary metabolites, and coil formation around host hyphae. These interactions shape fungal community structure in soil, decaying wood, leaf litter, and clinical settings. Two major phyla harbor important mycoparasites: **Zygomycota** and **[[ascomycota]]**, each with distinct lineages, host specificities, and modes of action.
 
 ## Mycoparasitic Zygomycota
 

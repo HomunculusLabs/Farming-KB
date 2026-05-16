@@ -118,7 +118,7 @@ In sites of low species richness, a great number of samples must be collected to
 - Allen MF, Allen EB, Friese CF. 1995. Mycorrhizae. In: Biodiversity of Microscopic Life.
 - Bledsoe C, et al. 1990. Arctic mycorrhizal surveys.
 - Brundrett M. 1991. Mycorrhizas in natural ecosystems.
-- Koske RE. 1987. Distribution of VA mycorrhizal fungi along a latitudinal gradient.
+- Koske RE. 1987. Distribution of VA [[mycorrhizal-fungi]] along a latitudinal gradient.
 - Stutz JC, Morton JB. 1996. Successive pot cultures reveal high species richness.
 - Stutz JC, et al. 2000. AM fungal communities in arid soils of Namibia and Arizona.
 - Morton JB. 1993. Problems and solutions for AM fungal taxonomy.

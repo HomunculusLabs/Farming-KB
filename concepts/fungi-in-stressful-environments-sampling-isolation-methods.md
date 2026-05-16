@@ -138,7 +138,7 @@ This extended protocol recognizes that cold-adapted fungi are typically slow-gro
 
 #### Coexistence with Mesophiles
 
-Psychrophilic fungi are expected to **coexist with mesophiles** in many habitats — their spores survive warm periods and germinate when temperatures drop (Petrini et al. 1992b). Standard room-temperature incubation of plates from cold habitats therefore recovers only the mesophilic component of the community.
+[[psychrophilic-fungi]] are expected to **coexist with mesophiles** in many habitats — their spores survive warm periods and germinate when temperatures drop (Petrini et al. 1992b). Standard room-temperature incubation of plates from cold habitats therefore recovers only the mesophilic component of the community.
 
 #### Distinguishing Psychrophilic from Psychrotolerant
 
@@ -201,7 +201,7 @@ The choice of solute can itself be selective — for example, glycerol-adapted f
 - Apinis, A.E. (1963). Thermophilous microfungi isolated from bird nests. *Mycologia*, 55, 223–228.
 - Ashida, J. (1965). Adaptation of fungi to metal toxicities. In *The Fungi*, Vol. 1. Academic Press.
 - Carreiro, M.M. & Koske, R.E. (1992). Comparison of methods for isolation of soil fungi. *Mycologia*, 84, 284–290.
-- Cooney, D.G. & Emerson, R. (1964). *Thermophilic Fungi: An Account of Their Biology, Activities, and Classification*. W.H. Freeman.
+- Cooney, D.G. & Emerson, R. (1964). *[[thermophilic-fungi]]: An Account of Their Biology, Activities, and Classification*. W.H. Freeman.
 - Foster, J.W. (1949). Chemical activities of fungi. Academic Press.
 - Hulbert, S.H. (1984). Pseudoreplication and the design of ecological field experiments. *Ecological Monographs*, 54, 187–211.
 - Petrini, O. et al. (1992b). Fungal endophytes of rushes. *Mycological Research*, 96, 1118–1124.

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Sporophagomyces chrysostomus is a fungicolous ascomycete in the order Hypocreales (Hypocreaceae) characterized by its distinctive fan-like colonies that hang beneath basidiomata of Ganoderma species. The species produces an acremonium-like anamorph and features a unique subiculum structure that traps host basidiospores, which serve as a nutrient source.
+[[sporophagomyces]] chrysostomus is a fungicolous ascomycete in the order Hypocreales (Hypocreaceae) characterized by its distinctive fan-like colonies that hang beneath basidiomata of Ganoderma species. The species produces an acremonium-like anamorph and features a unique subiculum structure that traps host basidiospores, which serve as a nutrient source.
 
 ## Classification
 

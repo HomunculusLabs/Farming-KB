@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Rust fungi (class **Urediniomycetes**) represent the largest group of obligately biotrophic fungi, comprising approximately **7,000 described species** worldwide. As obligate biotrophs, rusts can grow and reproduce only on living host tissue, making them entirely dependent on their plant hosts for survival. They are among the most economically destructive plant pathogens, causing devastating diseases in major agricultural and forestry crops. The genus *Puccinia* alone dominates the group and contains more species than any other genus of rust fungi.
+[[rust-fungi]] (class **Urediniomycetes**) represent the largest group of obligately biotrophic fungi, comprising approximately **7,000 described species** worldwide. As obligate biotrophs, rusts can grow and reproduce only on living host tissue, making them entirely dependent on their plant hosts for survival. They are among the most economically destructive plant pathogens, causing devastating diseases in major agricultural and forestry crops. The genus *Puccinia* alone dominates the group and contains more species than any other genus of rust fungi.
 
 Rusts are found on a remarkable range of host plants, from ferns and gymnosperms to monocots and dicots, though they show strongest associations with flowering plants (angiosperms). Their ability to evolve host-specific lineages has allowed them to diversify extensively in parallel with their plant hosts, contributing to their remarkable species richness.
 

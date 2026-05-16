@@ -6,7 +6,7 @@ type: concept
 
 # Fungicolous Fungi on Basidiomycota Hosts
 
-Fungicolous fungi — fungi that grow on other fungi — represent a vast and poorly documented dimension of fungal biodiversity. Basidiomycota serve as hosts for an extraordinary range of fungicolous species, including ascomycetes, heterobasidiomycetes, and anamorphic fungi. These relationships span parasitism, commensalism, and antagonism, and many remain undescribed or poorly understood. This page surveys the major groups of fungicolous fungi recorded on basidiomycete hosts across several morphological guilds: aphyllophorales, clavariaceous fungi, jelly fungi, polypores, and agarics.
+[[fungicolous-fungi]] — fungi that grow on other fungi — represent a vast and poorly documented dimension of fungal biodiversity. [[basidiomycota]] serve as hosts for an extraordinary range of fungicolous species, including ascomycetes, heterobasidiomycetes, and anamorphic fungi. These relationships span parasitism, commensalism, and antagonism, and many remain undescribed or poorly understood. This page surveys the major groups of fungicolous fungi recorded on basidiomycete hosts across several morphological guilds: aphyllophorales, clavariaceous fungi, jelly fungi, polypores, and agarics.
 
 ## Fungi on Aphyllophorales (Corticioid and Shelf-like Fungi)
 
@@ -59,7 +59,7 @@ Jelly fungi serve as hosts for a diverse assemblage of fungicolous fungi spannin
 - **Rhizophlyctis**, a chytrid fungus, has been found on **Dacrymyces**, representing a rare cross-phylum fungicolous association (Chytridiomycota on Basidiomycota).
 - **Tremella**, **Sebacina**, and **Itersonilia** species colonize **Dacrymyces**.
 - **Platygloea** and **Tremella** species are recorded on the broader Dacrymycetaceae family.
-- Lichenicolous fungi have even been found parasitizing lichenicolous heterobasidiomycetes, creating a three-tier parasitic chain (fungus on fungus on lichen).
+- [[lichenicolous-fungi]] have even been found parasitizing lichenicolous heterobasidiomycetes, creating a three-tier parasitic chain (fungus on fungus on lichen).
 
 ## Polypores (Bracket Fungi) as Hosts
 

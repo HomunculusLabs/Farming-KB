@@ -14,10 +14,10 @@ monocultures — are poorly suited to natural ecosystems.
 
 ## The Estimation Framework
 
-Two fundamental inputs are required to estimate fungal biodiversity on plants:
+Two fundamental inputs are required to estimate [[fungal-biodiversity]] on plants:
 
 1. **A complete plant host inventory** — a catalog of all plant species in a given area.
-2. **Fungal species estimates per host** — an average count of fungal species associated
+2. **[[fungal-species-estimates]] per host** — an average count of fungal species associated
    with each plant species.
 
 By multiplying these figures, researchers generate rough but informative estimates of
@@ -131,7 +131,7 @@ symptom-based surveys, culturing, baiting, and molecular barcoding.
 
 - Fungal species on living plants likely far exceed current knowledge, especially in the
   tropics.
-- Woody hosts support roughly 3× more fungal parasites than herbaceous hosts.
+- Woody hosts support roughly 3× more [[fungal-parasites]] than herbaceous hosts.
 - Tropical forests may harbor more parasitic fungal species than described globally.
 - Geographic variation in host specificity often reflects sampling bias, not biology.
 - Fungal endemism tracks plant endemism, prioritizing island and intermountain regions.

@@ -64,7 +64,7 @@ Several factors complicate the use of water activity in fungal isolation:
 
 ## Importance in Community Ecology
 
-The relationship between water activity and fungal community composition is fundamental to understanding fungal ecology in extreme environments. Researchers must match isolation conditions to habitat conditions — using a medium at pH 4 to look for acidophilic fungi in a habitat at pH 2.5 is ineffective, even though preparing media at very low pH presents practical difficulties with gelling.
+The relationship between water activity and fungal community composition is fundamental to understanding [[fungal-ecology]] in extreme environments. Researchers must match isolation conditions to habitat conditions — using a medium at pH 4 to look for acidophilic fungi in a habitat at pH 2.5 is ineffective, even though preparing media at very low pH presents practical difficulties with gelling.
 
 Parallel use of multiple isolation regimens (varying a_w, pH, salinity, temperature) provides a more complete assessment of fungal community composition and biodiversity patterns, reflecting the resource heterogeneity that exists in natural habitats.
 

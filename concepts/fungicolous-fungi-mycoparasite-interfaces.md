@@ -8,7 +8,7 @@ type: concept
 
 ## Definition and Scope
 
-Fungicolous fungi are fungi that are consistently found in association with other fungi. This broad category encompasses fungi that colonize sporocarps, mycelia, sclerotia, spores, or fruiting structures of other fungal species. A notable subset is **lichenicolous fungi**, which grow on or within lichen thalli. Another recognized subgroup is **sporocarp-inhabiting fungi (SCIF)**, species that specifically colonize the fruiting bodies of macrofungi.
+[[fungicolous-fungi]] are fungi that are consistently found in association with other fungi. This broad category encompasses fungi that colonize sporocarps, mycelia, sclerotia, spores, or fruiting structures of other fungal species. A notable subset is **[[lichenicolous-fungi]]**, which grow on or within lichen thalli. Another recognized subgroup is **sporocarp-inhabiting fungi (SCIF)**, species that specifically colonize the fruiting bodies of macrofungi.
 
 The diversity of fungicolous fungi is considerable. Hawksworth (1979) estimated approximately 1,700 non-lichenicolous and over 1,500 lichenicolous species worldwide, underscoring the ecological significance of fungus-fungus interactions in virtually all terrestrial ecosystems. Chapter 17 of *The Mycota* (Gams, Diederich, Põldmaa) provides a foundational synthesis of this field.
 

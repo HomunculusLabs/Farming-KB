@@ -54,7 +54,7 @@ All coauthors contributed substantially to the text; after the first author, ord
 
 ### Definition
 
-Sequestrate fungi (Fig. 10.1) are fleshy, leathery, rubbery, or cartilaginous species that sequester, or seclude, their spore-bearing tissues, preventing the spores from discharging into their surroundings (Kendrick 1992). Usually, the spore-bearing tissues are enclosed within a persistent peridium. Sequestrate fungi, with the exception of the "secotioid" species, are hypogeous, without a stipe or with only a rudimentary one (true and false truffles, respectively). The secotioid species are partly to almost entirely exposed at maturity and may have a well-developed stipe.
+[[sequestrate-fungi]] (Fig. 10.1) are fleshy, leathery, rubbery, or cartilaginous species that sequester, or seclude, their spore-bearing tissues, preventing the spores from discharging into their surroundings (Kendrick 1992). Usually, the spore-bearing tissues are enclosed within a persistent peridium. Sequestrate fungi, with the exception of the "secotioid" species, are hypogeous, without a stipe or with only a rudimentary one (true and false truffles, respectively). The secotioid species are partly to almost entirely exposed at maturity and may have a well-developed stipe.
 
 ### Taxonomic Scope and Diversity
 

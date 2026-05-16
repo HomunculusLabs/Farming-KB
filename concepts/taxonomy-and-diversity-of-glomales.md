@@ -6,7 +6,7 @@ type: concept
 
 # Taxonomy and Diversity of Glomales
 
-The order Glomales contains all arbuscular mycorrhizal (AM) fungi, organisms that form symbiotic associations with the roots of most terrestrial plants. Despite their ecological importance and ancient evolutionary origins (~400 million years), Glomales is a relatively species-poor order with only 163 described species across seven genera — a striking contrast to the more than 3,500 species of ectomycorrhizal fungi (Law and Lewis 1983).
+The order [[glomales]] contains all arbuscular mycorrhizal (AM) fungi, organisms that form symbiotic associations with the roots of most terrestrial plants. Despite their ecological importance and ancient evolutionary origins (~400 million years), Glomales is a relatively species-poor order with only 163 described species across seven genera — a striking contrast to the more than 3,500 species of ectomycorrhizal fungi (Law and Lewis 1983).
 
 ## Classification System
 
@@ -66,7 +66,7 @@ The physiological and ecological diversities among populations of all globally d
 ### Living Collections
 
 - **INVAM** (International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi), West Virginia — the oldest and largest centralized collection, with nearly 1,100 accessions of more than 86 species (as of 2001)
-- **BEG** (Bank of European Glomales) — organized as a network with a central coordinator; accessions registered centrally but cultured at individual researcher institutions
+- **BEG** ([[bank-of-european-glomales]]) — organized as a network with a central coordinator; accessions registered centrally but cultured at individual researcher institutions
 - Regional collections exist in Australia, Cuba, Taiwan, and Colombia
 
 ### Nonliving Specimens

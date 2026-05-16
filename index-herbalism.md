@@ -2,7 +2,7 @@
 
 > Medicinal plants, herbal preparations, functional mushrooms, and traditional plant medicine
 
-**60 pages**
+**66 pages**
 
 ## A
 
@@ -11,9 +11,11 @@
 - [[adenosine-triphosphate-and-cellular-energy]]
 - [[agrocybe-aegerita-pioppino-medicinal-profile]]
 - [[ahcc-active-hexose-correlated-compound]]
+- [[ashwagandha-cultivation-uses-and-adaptogenic-properties]]
 
 ## C
 
+- [[calendula-cultivation-and-medicinal-uses]]
 - [[calendula-salve-making]]
 - [[cancer-chaga-research]]
 - [[cancer-immune-modulation-mechanisms]]
@@ -28,10 +30,12 @@
 
 ## E
 
+- [[echinacea-cultivation-and-medicinal-uses]]
 - [[emcdda-herbal-highs-market-product-substitution-bans]]
 
 ## G
 
+- [[ginseng-cultivation-and-medicinal-properties]]
 - [[greek-wine-and-herbal-inebriants]]
 
 ## H
@@ -46,6 +50,7 @@
 - [[herbal-materia-medica]]
 - [[herbal-medicine]]
 - [[herbal-medicine-history]]
+- [[herbal-medicine-making]]
 - [[herbal-medicine-making-basics]]
 - [[herbal-medicine-preparation-methods]]
 - [[herbal-medicine-safety]]
@@ -89,6 +94,10 @@
 - [[psk-gastric-cancer-clinical-trials]]
 - [[psk-psp-polysaccharide-peptides]]
 - [[psp-phase-clinical-trials]]
+
+## R
+
+- [[rhodiola-rosea-cultivation-and-adaptogenic-properties]]
 
 ## S
 

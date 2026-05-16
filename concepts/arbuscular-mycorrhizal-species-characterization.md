@@ -6,7 +6,7 @@ type: concept
 
 # Arbuscular Mycorrhizal Fungi Species Characterization
 
-Arbuscular mycorrhizal fungi (AMF) are obligate symbionts that form mutualistic associations with the roots of most terrestrial plants. Characterizing AMF species is a complex process requiring careful morphological examination of spores, mycorrhizal structures, and microhabitat documentation. This page outlines the standardized procedures and protocols used in AMF species characterization.
+[[arbuscular-mycorrhizal-fungi]] (AMF) are obligate symbionts that form mutualistic associations with the roots of most terrestrial plants. Characterizing AMF species is a complex process requiring careful morphological examination of spores, mycorrhizal structures, and microhabitat documentation. This page outlines the standardized procedures and protocols used in AMF species characterization.
 
 ## Overview
 
@@ -118,7 +118,7 @@ The field of AMF taxonomy is evolving rapidly. Key priorities include:
 
 ## See Also
 
-- Arbuscular Mycorrhizal Fungi — General overview of AMF biology and ecology
+- Arbuscular [[mycorrhizal-fungi]] — General overview of AMF biology and ecology
 - Glomeromycota — Taxonomic classification of AMF
-- Mycorrhizal Symbiosis — Mechanisms and significance of the mycorrhizal association
+- [[mycorrhizal-symbiosis]] — Mechanisms and significance of the mycorrhizal association
 - Trap Culture Methods — Detailed protocols for establishing and maintaining AMF trap cultures

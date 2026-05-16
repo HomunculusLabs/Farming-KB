@@ -81,7 +81,7 @@ Testing every specimen in a large biodiversity program is extremely time-consumi
 
 ## Obtaining Spore Deposits
 
-The primary purpose of obtaining a spore deposit is to determine **spore color**, a critical character in fungal classification.
+The primary purpose of obtaining a [[spore]] deposit is to determine **spore color**, a critical character in fungal classification.
 
 ### Materials and Setup
 

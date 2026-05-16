@@ -16,7 +16,7 @@ Plant-species diversity is the primary determinant of fungal species richness on
 
 ### Growth Form and Parasite Load
 
-Strong and Levin (1979) determined that species richness of plant-parasitic fungi in temperate zones was highly correlated with the growth form of hosts — the more complex the growth form, the greater the number of associated fungal parasites:
+Strong and Levin (1979) determined that species richness of plant-parasitic fungi in temperate zones was highly correlated with the growth form of hosts — the more complex the growth form, the greater the number of associated [[fungal-parasites]]:
 
 - **Herbs:** mean of 5.4 fungal parasite species per host species
 - **Shrubs:** mean of 7.1 fungal parasite species per host species

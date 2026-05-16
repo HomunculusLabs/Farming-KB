@@ -6,7 +6,7 @@ type: concept
 
 # Lichen Sample Site Selection and Within-Site Sampling Strategies
 
-Lichen biodiversity inventories require careful decisions about where to sample and how to sample within chosen sites. Effective survey design integrates statistical rigor with practical field constraints and conservation objectives. This page covers the principles and practical considerations for selecting sample site locations, designing within-site sampling protocols, choosing plot sizes and shapes, estimating species abundance, using permanent photoplots for monitoring, and employing lichens as biodiversity indicators.
+[[lichen]] biodiversity inventories require careful decisions about where to sample and how to sample within chosen sites. Effective survey design integrates statistical rigor with practical field constraints and conservation objectives. This page covers the principles and practical considerations for selecting sample site locations, designing within-site sampling protocols, choosing plot sizes and shapes, estimating species abundance, using permanent photoplots for monitoring, and employing lichens as biodiversity indicators.
 
 ## Sample Site Location
 

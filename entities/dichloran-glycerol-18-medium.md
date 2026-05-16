@@ -15,7 +15,7 @@ Dichloran-glycerol-18 medium (DG18) is a selective culture medium specifically f
 
 - **Type:** Selective culture medium
 - **Primary use:** Isolation and enumeration of xerophilic fungi
-- **Key selective agents:** Dichloran (2,6-dichloro-4-nitroaniline), glycerol (18% w/w)
+- **Key selective agents:** Dichloran (2,6-dichloro-4-nitroaniline), [[glycerol]] (18% w/w)
 - **Category:** Low water-activity medium
 
 ## Key Facts

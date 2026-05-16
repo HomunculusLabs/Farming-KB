@@ -6,7 +6,7 @@ type: concept
 
 # Fungicolous Fungi on Ascomycota Hosts
 
-Fungicolous fungi — fungi that grow on other fungi — represent a vast yet poorly documented component of fungal biodiversity. Their interactions range from obligate parasitism to facultative colonization, with many species exhibiting highly specific host relationships. This page covers fungicolous associations involving ascomycete sporocarps, myxomycete plasmodia, dung communities, sequestrate ascomycetes, and anamorphic ascomycete hosts.
+[[fungicolous-fungi]] — fungi that grow on other fungi — represent a vast yet poorly documented component of fungal biodiversity. Their interactions range from obligate parasitism to facultative colonization, with many species exhibiting highly specific host relationships. This page covers fungicolous associations involving ascomycete sporocarps, myxomycete plasmodia, dung communities, sequestrate ascomycetes, and anamorphic ascomycete hosts.
 
 ## Myxomyceticolous Fungi (Continued)
 
@@ -18,7 +18,7 @@ The myxomycetes (slime molds) serve as substrates for a diverse array of fungico
 - **Stilbella byssiseda** — a synnematous fungus commonly observed on various myxomycete fruiting bodies.
 - **Dipodascus macrosporus** — an unusual zygomycete acting as a facultative parasite within the plasmodium of its myxomycete host, representing one of the few documented intracellular fungal parasites of slime molds.
 
-Other zygomycetes also colonize myxomycetes, expanding the taxonomic range of organisms capable of exploiting these substrates beyond the Ascomycota and Basidiomycota. The diversity of myxomyceticolous fungi suggests that slime mold fruiting bodies and plasmodia serve as significant but underappreciated ecological niches, particularly in moist forest floor environments where both groups co-occur abundantly.
+Other zygomycetes also colonize myxomycetes, expanding the taxonomic range of organisms capable of exploiting these substrates beyond the [[ascomycota]] and Basidiomycota. The diversity of myxomyceticolous fungi suggests that slime mold fruiting bodies and plasmodia serve as significant but underappreciated ecological niches, particularly in moist forest floor environments where both groups co-occur abundantly.
 
 ## Fungi on Discomycetes (Cup Fungi)
 
@@ -101,7 +101,7 @@ Soft-textured perithecia of Nectriaceae and related fungi are readily colonized:
 
 Anamorphic (asexual) ascomycetes serve as hosts for numerous fungicolous species, many with biocontrol relevance:
 
-- **Calcarisporium** — grows on **Hirsutella**, a genus of entomopathogenic fungi, potentially disrupting biological control programs.
+- **Calcarisporium** — grows on **Hirsutella**, a genus of [[entomopathogenic-fungi]], potentially disrupting biological control programs.
 - **Debaryomyces** — a yeast genus recorded on **Penicillium** and **Rhizopus**, representing yeast–mold fungicolous interactions.
 - **Sphaeronaemella** and **Trichoderma** — parasitize **Fusarium** and **Cochliobolus**, two major genera of plant pathogenic fungi.
 - Biocontrol attempts targeting **Verticillium dahliae** — a devastating vascular wilt pathogen — have explored fungicolous fungi as biological control agents.

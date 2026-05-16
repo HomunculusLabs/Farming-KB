@@ -40,7 +40,7 @@ Stress-tolerant fungi hold considerable promise for industrial applications, bio
 
 The vast majority of known fungi are mesophilic, growing within a temperature range of approximately 5–35°C, with optima between 20–30°C. Beyond this range, two categories of heat-adapted fungi are recognized:
 
-- **Thermophilic fungi** are defined as those that grow only above 20°C and continue to grow at temperatures exceeding 50°C (Cooney and Emerson 1964; Crisan 1973). They are obligately adapted to warm environments and cannot proliferate at ambient temperatures.
+- **[[thermophilic-fungi]]** are defined as those that grow only above 20°C and continue to grow at temperatures exceeding 50°C (Cooney and Emerson 1964; Crisan 1973). They are obligately adapted to warm environments and cannot proliferate at ambient temperatures.
 - **Thermotolerant fungi** are capable of growth below 20°C but also tolerate and grow at temperatures of 40–50°C and above. This broader thermal range gives them greater ecological flexibility.
 
 ### Habitats and Distribution
@@ -119,10 +119,10 @@ Metal contamination of soils leads to measurable declines in overall fungal dive
 
 An important finding is that metal tolerance is not exclusively a product of contaminated environments. Cu-tolerant fungi have been recovered from uncontaminated sites (Arnebrant et al. 1987), and lead sensitivities of *Aureobasidium pullulans* strains were found to be similar whether isolated from contaminated or uncontaminated environments (Mowll and Gadd 1985). Similar results were reported for Cu-contaminated soils (Yamamoto et al. 1985).
 
-These observations suggest that intrinsic metal tolerance mechanisms — including extracellular sequestration, intracellular chelation, cell-wall binding, and active efflux — are widely distributed among soil fungi and may be maintained in populations even in the absence of strong selective pressure from contamination. This pre-existing tolerance has important implications for bioremediation strategies, as it expands the pool of candidate organisms beyond those isolated from contaminated sites.
+These observations suggest that intrinsic metal tolerance mechanisms — including extracellular sequestration, intracellular chelation, cell-wall binding, and active efflux — are widely distributed among soil fungi and may be maintained in populations even in the absence of strong selective pressure from contamination. This pre-existing tolerance has important implications for [[bioremediation-strategies]], as it expands the pool of candidate organisms beyond those isolated from contaminated sites.
 
 ---
 
 ## Summary
 
-Fungi have colonized virtually every stressful environment on Earth through a combination of three fundamental life strategies — competitive, stress-tolerant, and ruderal — that can be deployed flexibly depending on conditions. Thermophilic and thermotolerant species exploit heated substrates from compost to volcanic springs, psychrotolerant and psychrophilic fungi dominate the vast cold biosphere from glacial ice to polar soils, and metal-tolerant populations persist in both contaminated and pristine environments. The ecological understanding of these adaptations directly informs their application in industry, agriculture, and environmental management.
+Fungi have colonized virtually every stressful environment on Earth through a combination of three fundamental life strategies — competitive, stress-tolerant, and ruderal — that can be deployed flexibly depending on conditions. Thermophilic and thermotolerant species exploit heated substrates from compost to volcanic springs, psychrotolerant and [[psychrophilic-fungi]] dominate the vast cold biosphere from glacial ice to polar soils, and metal-tolerant populations persist in both contaminated and pristine environments. The ecological understanding of these adaptations directly informs their application in industry, agriculture, and environmental management.

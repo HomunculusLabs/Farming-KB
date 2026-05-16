@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Smut fungi are a major class of basidiomycete fungi (Ustilaginomycetes, phylum Basidiomycota)
+[[smut-fungi]] are a major class of basidiomycete fungi (Ustilaginomycetes, phylum Basidiomycota)
 characterized by their production of teliospores — thick-walled resting spores that serve as
 the primary reproductive and dispersal structure. They are obligate or facultative plant
 parasites that infect angiosperms, with a strong host preference for grasses (Poaceae) and

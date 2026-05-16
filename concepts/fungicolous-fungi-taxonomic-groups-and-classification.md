@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The fungicolous habit is widespread throughout the fungi but is particularly common in certain taxonomic groups. An estimated 2,175 species of fungicolous fungi have been documented across all major fungal lineages, distributed among five ecological categories: sporocarp-inhabiting, lichenicolous, biotrophic plant parasite mycoparasites, hyphal mycoparasites, and aquatic mycoparasites. This page provides a systematic overview of the major taxonomic groups containing fungicolous fungi, their characteristics, and notable examples.
+The fungicolous habit is widespread throughout the fungi but is particularly common in certain taxonomic groups. An estimated 2,175 species of [[fungicolous-fungi]] have been documented across all major fungal lineages, distributed among five ecological categories: sporocarp-inhabiting, lichenicolous, biotrophic plant parasite mycoparasites, hyphal mycoparasites, and aquatic mycoparasites. This page provides a systematic overview of the major taxonomic groups containing fungicolous fungi, their characteristics, and notable examples.
 
 ## Summary of Diversity by Taxonomic Group
 
@@ -188,7 +188,7 @@ Diverse mycoparasites can tolerate cyanide to levels of 0.01% in synthetic mediu
 
 Most mycoparasites are unspecialized and can infect a wide range of host fungi across diverse systematic groups. Not only can certain fungi parasitize other fungi belonging to diverse orders, but some are also entomogenous or nematophagous. More specific associations also exist:
 
-- Lichenicolous fungi are generally specialized and rarely observed on nonlichenized hosts
+- [[lichenicolous-fungi]] are generally specialized and rarely observed on nonlichenized hosts
 - Several fungicolous fungi are hyperparasites (parasites of other fungicolous fungi)
 - Host specificity can be determined by the form of cyst attachment in Oomycete mycoparasites
 - Many species exhibit host-dependent trophic strategies (biotrophic on some hosts, necrotrophic on others)

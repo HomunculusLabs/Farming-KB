@@ -115,7 +115,7 @@ of host developmental pathways:
 
 - *Endocronartium harknessii* — causes western gall rust on pine, producing
   spherical galls on branches and stems that release basidiospores
-- *Gymnosporangium* — rust fungi with obligate alternation between juniper
+- *Gymnosporangium* — [[rust-fungi]] with obligate alternation between juniper
   (telial host) and Rosaceae (aecial host), causing conspicuous galls on
   juniper twigs (cedar-apple rust complex)
 - *Apiosporina morbosa* — the causal agent of black knot of *Prunus*, producing

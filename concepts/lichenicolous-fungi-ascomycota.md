@@ -8,9 +8,9 @@ type: concept
 
 ## Definition
 
-**Lichenicolous fungi** (also called lichen-inhabiting or lichenicolous ascomycetes) are fungi that live **on or within lichens**, using the lichen thallus or its constituent mycobiont and photobiont as substrate. They form a diverse ecological guild that includes obligate parasites, facultative parasites, commensals, and saprotrophs. Unlike lichenized fungi, lichenicolous species do not form their own functional thallus with a photobiont partner, though some may retain the ancestral capacity for lichenization.
+**[[lichenicolous-fungi]]** (also called lichen-inhabiting or lichenicolous ascomycetes) are fungi that live **on or within lichens**, using the lichen thallus or its constituent mycobiont and photobiont as substrate. They form a diverse ecological guild that includes obligate parasites, facultative parasites, commensals, and saprotrophs. Unlike lichenized fungi, lichenicolous species do not form their own functional thallus with a photobiont partner, though some may retain the ancestral capacity for lichenization.
 
-The term encompasses both sexually reproducing (teleomorphic) ascomycetes and their asexual (anamorphic) counterparts. Lichenicolous fungi are found across numerous orders of the Ascomycota and represent one of the most poorly known yet ecologically significant components of fungal biodiversity.
+The term encompasses both sexually reproducing (teleomorphic) ascomycetes and their asexual (anamorphic) counterparts. Lichenicolous fungi are found across numerous orders of the [[ascomycota]] and represent one of the most poorly known yet ecologically significant components of fungal biodiversity.
 
 ## Survey by Order
 
@@ -21,7 +21,7 @@ This group contains some of the most diverse lichenicolous assemblages.
 **Tubeufiaceae** — Primarily fungicolous rather than strictly lichenicolous, with taxa recorded on:
 - Meliolaceous leaf-inhabiting ascomycetes (18 spp)
 - Phyllachoraceous leaf-inhabiting ascomycetes (9 spp)
-- Rust fungi (3 spp)
+- [[rust-fungi]] (3 spp)
 - Decaying wood (20 spp)
 
 **Dacampiaceae** — Exclusively lichenicolous genera with substantial species diversity:

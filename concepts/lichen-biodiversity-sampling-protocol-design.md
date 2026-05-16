@@ -6,7 +6,7 @@ type: concept
 
 # Designing Sampling Protocols for Lichen Biodiversity Inventory
 
-Designing effective sampling protocols for lichen biodiversity inventory requires careful
+Designing effective sampling protocols for [[lichen]] biodiversity inventory requires careful
 attention to personnel, equipment, field procedures, data archiving, and the alignment of
 survey goals with available resources. Lichens present unique challenges compared to vascular
 plants, including microscopic identification requirements and sensitivity to microhabitat

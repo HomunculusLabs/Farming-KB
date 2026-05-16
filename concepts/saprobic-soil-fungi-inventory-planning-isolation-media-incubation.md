@@ -34,7 +34,7 @@ In temperate regions, spring and autumn peaks in fungal activity are common, whi
 
 The maximum number of isolates manageable by two full-time experienced researchers is approximately 2000–3000. Beyond this number, the logistics of isolation, purification, identification, and curation become prohibitive for most research programs.
 
-Species-isolate curves reach asymptotes of 60–150 species for 600–1000 isolates, but new species continue to appear indefinitely, reflecting the open-ended nature of soil fungal diversity and the rarity of many taxa. Common taxa can be determined with 200–250 strains from 6–10 samples.
+Species-isolate curves reach asymptotes of 60–150 species for 600–1000 isolates, but new species continue to appear indefinitely, reflecting the open-ended nature of [[soil-fungal-diversity]] and the rarity of many taxa. Common taxa can be determined with 200–250 strains from 6–10 samples.
 
 A minimum of 600–1000 isolates per site is recommended for recovering the majority of species, while 180–250 isolates suffice for quantitative comparative data. These targets should be adjusted upward for tropical or otherwise hyperdiverse regions where species accumulation curves plateau more slowly.
 
@@ -81,7 +81,7 @@ Temperature profoundly affects the kinds of fungi that develop on isolation plat
 
 At the standard incubation temperature of 25°C, most colonies appear within 2–10 days, favoring fast-growing species. While efficient for high-throughput processing, this temperature biases recovery toward a subset of the community.
 
-Incubation at 15–20°C causes colonies to appear sequentially over approximately 3 weeks, allowing better separation of slow-growing from fast-growing species and improving species discrimination. Cool temperatures favor terrestrial aquatic hyphomycetes and psychrophilic fungi. High temperatures (>40°C) reveal thermotolerant and thermophilic fungi that would be missed at ambient temperatures.
+Incubation at 15–20°C causes colonies to appear sequentially over approximately 3 weeks, allowing better separation of slow-growing from fast-growing species and improving species discrimination. Cool temperatures favor terrestrial aquatic hyphomycetes and [[psychrophilic-fungi]]. High temperatures (>40°C) reveal thermotolerant and [[thermophilic-fungi]] that would be missed at ambient temperatures.
 
 The effects of light on isolation have not been systematically investigated. Some media components photodegrade—notably, rose bengal becomes more toxic under illumination, potentially biasing results. Incubation in darkness is therefore advisable unless light effects are a specific subject of study.
 

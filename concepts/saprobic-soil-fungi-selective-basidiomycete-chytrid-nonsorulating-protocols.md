@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Isolating saprobic soil fungi is challenging due to immense diversity and cryptic life forms. This page covers three major methodologies: selective isolation of basidiomycetes via the LGB method, chytrid baiting and enrichment, and characterization protocols for nonsporulating isolates.
+Isolating [[saprobic-soil-fungi]] is challenging due to immense diversity and cryptic life forms. This page covers three major methodologies: selective isolation of basidiomycetes via the LGB method, chytrid baiting and enrichment, and characterization protocols for nonsporulating isolates.
 
 ## Selective Isolation of Saprobic Basidiomycetes (LGB Method)
 
@@ -31,7 +31,7 @@ Plate 0.2–0.4 mL of wash water from the 53 μm sieve after the last soil sampl
 
 ## Selective Baiting and Enrichment for Soil Chytrids
 
-Chytrids are zoosporic fungi requiring aquatic or water-saturated environments. Selective baiting exploits their motile zoospore stage by providing specific substrata in water while excluding competitors.
+Chytrids are [[zoosporic-fungi]] requiring aquatic or water-saturated environments. Selective baiting exploits their motile zoospore stage by providing specific substrata in water while excluding competitors.
 
 ### General Method
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Rust fungi (Class **Urediniomycetes**, Phylum **Basidiomycota**) comprise the largest and most ubiquitous group of obligately biotrophic fungi on vascular plants. The name "rust" is descriptive — often one or more spore stages are rusty orange to brownish because of the color of spores emerging en masse from pustules on the host. Most rust pustules measure a few millimeters or less in diameter, although rusts associated with stem cankers on trees may sporulate in contiguous areas more than a meter long.
+[[rust-fungi]] (Class **Urediniomycetes**, Phylum **Basidiomycota**) comprise the largest and most ubiquitous group of obligately biotrophic fungi on vascular plants. The name "rust" is descriptive — often one or more spore stages are rusty orange to brownish because of the color of spores emerging en masse from pustules on the host. Most rust pustules measure a few millimeters or less in diameter, although rusts associated with stem cankers on trees may sporulate in contiguous areas more than a meter long.
 
 ## Taxonomy and Diversity
 

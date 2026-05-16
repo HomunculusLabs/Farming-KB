@@ -6,7 +6,7 @@ type: concept
 
 # Estimating Fungal Diversity on Living Plants
 
-Estimating the total number of fungi associated with living plants is one of the most challenging problems in fungal biodiversity science. Fungi colonize virtually every plant tissue and organ, acting as pathogens, endophytes, epiphytes, and commensals. Accurate estimation requires integrating knowledge of host plant diversity, fungal:host species ratios, geographic and ecological variation, and appropriate sampling methodologies.
+Estimating the total number of fungi associated with living plants is one of the most challenging problems in [[fungal-biodiversity]] science. Fungi colonize virtually every plant tissue and organ, acting as pathogens, endophytes, epiphytes, and commensals. Accurate estimation requires integrating knowledge of host plant diversity, fungal:host species ratios, geographic and ecological variation, and appropriate sampling methodologies.
 
 ## Foundational Requirements
 
@@ -83,7 +83,7 @@ Endemism in plant-associated fungi is highest in isolated biomes — islands, mo
 
 ## Case Study: Chestnut Blight in the Great Smoky Mountains
 
-The introduction of chestnut blight (*Cryphonectria parasitica*) into eastern North America dramatically altered forest composition in the Great Smoky Mountains by eliminating American chestnut as a dominant canopy tree. This catastrophic event illustrates how a single fungal species can reshape entire ecosystems, eliminating host-specific fungal communities along with their host and triggering cascading effects on fungal diversity estimates for the region.
+The introduction of chestnut blight (*Cryphonectria parasitica*) into eastern North America dramatically altered forest composition in the Great Smoky Mountains by eliminating American chestnut as a dominant canopy tree. This catastrophic event illustrates how a single fungal species can reshape entire ecosystems, eliminating host-specific fungal communities along with their host and triggering cascading effects on [[fungal-diversity-estimates]] for the region.
 
 ## Assessing Species Richness and Abundance
 

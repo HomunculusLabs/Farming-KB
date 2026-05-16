@@ -8,7 +8,7 @@ type: concept
 
 ## Adaptation to Spore Dispersal
 
-The loss of forcible spore discharge — a defining feature of sequestrate fungi — must be
+The loss of forcible spore discharge — a defining feature of [[sequestrate-fungi]] — must be
 accompanied by mutations enabling alternative dispersal tactics. Without the ability to
 launch spores into air currents, these fungi have evolved dependence on animal vectors.
 Dispersal agents include arthropods, gastropods, mammals, and birds. Each group interacts
@@ -89,13 +89,13 @@ The mycorrhizal or saprobic habits carry over directly from epigeous relatives, 
 host specificity. Mycorrhizal species absorb water and mineral nutrients, transferring them
 to host plants; in return they receive photosynthates (carbohydrates). Saprobic species
 produce extracellular enzymes for dead organic matter without symbiosis. In both cases,
-hypogeous fruiting has not altered the fundamental trophic role — only the spore dispersal
+hypogeous fruiting has not altered the fundamental trophic role — only the [[spore-dispersal]]
 mechanism has changed.
 
 ## Coevolution Example — Pacific Northwest Pinaceae Old-Growth
 
 The old-growth Pinaceae forests of the Pacific Northwest illustrate a tightly coevolved
-dispersal chain. Trees require ectomycorrhizal fungi for mineral nutrition, and many key
+dispersal chain. Trees require [[ectomycorrhizal-fungi]] for mineral nutrition, and many key
 fungal partners are sequestrate species. The fungi depend on tree-derived carbohydrates to
 produce sporocarps, which serve as the primary food of the northern flying squirrel
 (*Glaucomys sabrinus*). Flying squirrels disperse fungal spores through their feces and are
