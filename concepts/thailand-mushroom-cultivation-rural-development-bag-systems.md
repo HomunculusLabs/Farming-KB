@@ -87,6 +87,20 @@ Many rice farmers already possess straw or hay and can use those residues withou
 Straw mushroom may bring more income than rice within a few years, and other mushrooms can return money in three to four months.
 Profit rates of 10-30% are described as sufficient to keep farmers growing.
 Medicinal mushrooms such as reishi and lion’s mane command much higher prices than oyster mushrooms, making them attractive specialty crops.
+## Operational Pattern
+The two processed chunks describe a layered production system rather than a single technique.
+At the household level, growers can use rice straw, thatch houses, and simple shelf or bag methods.
+At the farm-service level, larger operations mix substrate, fill bags, sterilize them, and distribute ready-to-fruit units.
+At the public-program level, training, loans, and Royal Mushroom Projects increase adoption.
+This layered pattern lowers the skill threshold for new growers while preserving technical quality in centralized steps.
+It also explains why bag systems spread readily: the difficult steps can be separated from the fruiting and harvest steps.
+For planners, the Thailand model suggests that mushroom development projects should not focus only on species choice.
+They also need substrate logistics, heat-treatment infrastructure, spawn supply, grower training, and reliable market outlets.
+Where those supports exist, low-cost biological production becomes a repeatable rural enterprise.
+Where they are absent, even a suitable climate and abundant residues may not be enough.
+The model therefore treats mushroom cultivation as an integrated production chain.
+Its strength is the connection between household-scale labor and shared technical infrastructure.
+That connection is what converts cultivation knowledge into repeatable livelihood practice.
 ## Design Lesson
 The Thailand case shows a mature smallholder mushroom economy built from climate fit, residue recycling, training, government support, and diversified markets.
 Its practical lesson is that mushroom systems scale through services: spawn carriers, ready-to-fruit bags, training centers, growing houses, and market channels.
