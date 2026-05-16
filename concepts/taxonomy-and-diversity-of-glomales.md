@@ -111,3 +111,6 @@ Additional species presently included in other genera will likely be transferred
 - Redecker, D., J.B. Morton, and T.D. Bruns. 2000a. Molecular phylogeny of arbuscular mycorrhizal fungi: an ancient origin, monophyly, and long-term diversification. Molecular Biology and Evolution 17: 1037-1048.
 - Redecker, D., R. Kuhn, and J.B. Morton. 2000b. Phylogenetic position of Glomus-like fossils from the Ordovician. Mycological Research 104: 1153-1160.
 - Bentivenga, S.P., and J.B. Morton. 1995. Gigaspora decipiens: a newly described species, and Gigaspora margarita sensu Walker & Koske, determined by morphological and biochemical characters. Mycologia 87: 647-659.
+
+## Related
+- [[arbuscular-mycorrhizal-fungal-diversity]]

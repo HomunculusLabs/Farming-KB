@@ -123,3 +123,6 @@ Several overarching conclusions emerge from the synthesis of global survey data 
 - **Undersampled diversity:** Selective isolation techniques and molecular methods continue to reveal species missed by standard culture-based surveys, suggesting that current species inventories substantially underestimate true fungal diversity.
 
 Methodological advances in rarefaction, selective isolation, and DNA-based community profiling continue to improve the comparability and completeness of species inventories across ecosystems, ensuring that future surveys will build on the foundational work summarized here.
+
+## Related
+- [[soil-fungal-diversity-wisconsin-survey-global-patterns]]

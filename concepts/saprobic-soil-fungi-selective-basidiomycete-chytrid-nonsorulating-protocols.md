@@ -128,3 +128,6 @@ Basidiomycete mycelia stain red-purple after 1 M KOH pretreatment; ascomycetes g
 ### Septal Structure Examination
 
 Stain large-diameter thin-walled hyphae with trypan blue or ammoniacal Congo red. Ascomycetes show simple septal pores with Woronin bodies; holobasidiomycetes show dolipore septa ± parenthesomes. Microscope slide culture improves detail discernment by allowing hyphae to grow in a thin, optically favorable plane near the coverslip.
+
+## Related
+- [[saprobic-soil-fungi-inventory-planning-isolation-media-incubation]]

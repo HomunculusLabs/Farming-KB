@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1808 pages**
+**1805 pages**
 
 ## #
 
@@ -506,7 +506,6 @@
 - [[growing-gourmet-bacterial-blotch-disease-management]]
 - [[growing-gourmet-black-poplar-agrocybe-cultivation]]
 - [[growing-gourmet-buna-shimeji-hypsizygus-cultivation]]
-- [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]
 - [[growing-gourmet-casing-soils-mushroom-cultivation]]
 - [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]]
 - [[growing-gourmet-cold-shock-temperature-initiation-fruiting]]
@@ -1748,7 +1747,6 @@
 - [[stamets-psi-psilocybe-azurescens-species-guide]]
 - [[stamets-psi-psilocybe-baeocystis-knobby-tops]]
 - [[stamets-psi-psilocybe-cubensis-species-guide]]
-- [[stamets-psi-psilocybe-cyanescens-species-guide]]
 - [[stamets-psi-psilocybe-mexicana-species-guide]]
 - [[stamets-psi-psilocybe-stuntzii-blue-ringers]]
 - [[stamets-psi-psilocybin-potency-comparative-scale]]
@@ -1825,7 +1823,6 @@
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[tissue-culture-cloning]]
 - [[tissue-culture-method-for-mushroom-spawn-production]]
-- [[toadstool-eating-mushroom-identification-history]]
 - [[trace-water-dosing-protocol-microwave-surface-sterilization]]
 - [[trace-water-dosing-protocol-microwave-surface-sterilization-9ul-cm2]]
 - [[trace-water-enhanced-microwave-sterilization]]

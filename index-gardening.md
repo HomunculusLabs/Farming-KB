@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1124 pages**
+**1134 pages**
 
 ## A
 
@@ -91,6 +91,7 @@
 - [[chemical-vs-biological-gardening]]
 - [[chemical-vs-organic-gardening-transition]]
 - [[chitting-and-presprouting-seeds]]
+- [[chrysanthemum-night-interruption-flowering-commercial-horticulture]]
 - [[clay-pellet-seed-balling]]
 - [[clay-pellet-seed-balls]]
 - [[clay-pellet-seed-broadcasting]]
@@ -249,6 +250,7 @@
 
 ## D
 
+- [[dalbergia-sissoo-timber-tree]]
 - [[darwin-plant-movement-experiments]]
 - [[darwin-power-movement-in-plants]]
 - [[darwin-power-of-movement-in-plants]]
@@ -271,6 +273,7 @@
 ## E
 
 - [[earth-shaping-and-water-management-in-the-tropics]]
+- [[earthing-up-hilling-techniques-solomon]]
 - [[ebb-and-flow]]
 - [[echinacea-growing-guide]]
 - [[economics-of-winter-greenhouse-production]]
@@ -284,7 +287,6 @@
 - [[ethical-seed-companies-and-mail-order-sources]]
 - [[ethylene-plant-hormone-ripening-stress]]
 - [[evapotranspiration-crop-water-use]]
-- [[exopheromones-and-plant-intelligence]]
 - [[extending-growing-season]]
 
 ## F
@@ -299,6 +301,7 @@
 - [[faires-seed-starting-transplanting-guide]]
 - [[fall-winter-planting-schedules]]
 - [[fall-winter-planting-schedules-cold-houses]]
+- [[fall-winter-sowing-schedules]]
 - [[farmers-market-selling-guide]]
 - [[farming-invertebrates-for-fish-food]]
 - [[fermented-vegetables-guide]]
@@ -538,6 +541,7 @@
 
 ## I
 
+- [[ice-cream-bean-inga-species]]
 - [[ingham-brix-and-plant-quality]]
 - [[ingham-brix-testing-plant-quality]]
 - [[ingham-foliar-insect-pest-deterrence-mechanisms]]
@@ -603,6 +607,7 @@
 ## L
 
 - [[landscape-fabric-alternatives]]
+- [[lawn-ecology-and-reform]]
 - [[leaf-senescence-autumn-colour-change-active-plant-process]]
 - [[leatherjacket-pest-control]]
 - [[leek-deep-planting-techniques]]
@@ -652,6 +657,7 @@
 - [[natural-orchard-management]]
 - [[natural-pest-deterrents]]
 - [[nehemiah-grew-plant-anatomy]]
+- [[night-watering-evaporation-myths-solomon]]
 - [[no-pruning-fruit-trees]]
 - [[nurse-scaffold-chaperone-plants]]
 - [[nursery-management]]
@@ -677,6 +683,7 @@
 - [[organic-propagation-hamilton]]
 - [[organic-propagation-methods]]
 - [[organic-vegetable-growing-calendar]]
+- [[organic-winter-farming-systems-infrastructure]]
 - [[ornamental-grasses-guide]]
 - [[overwintered-spinach]]
 
@@ -706,7 +713,10 @@
 - [[permplant-persimmon-diospyros-kaki-fruit-tree]]
 - [[permplant-willows-salix-erosion-control-fodder]]
 - [[phloem-sap-composition-and-long-distance-signaling-in-plants]]
+- [[phloem-transport-and-partitioning]]
+- [[phloem-transport-sugars-organic-compounds]]
 - [[photoreception-plants-what-a-plant-sees]]
+- [[photosynthetic-efficiency-and-co2-enrichment]]
 - [[phototropin-blue-light-receptor-plant-directional-sensing]]
 - [[plant-antifreeze-proteins-cold-acclimation]]
 - [[plant-bioelectricity]]
@@ -869,7 +879,6 @@
 - [[savory-locoweed-and-poisonous-plant-management]]
 - [[savory-seed-establishment-and-plant-recruitment]]
 - [[savory-woody-plant-encroachment-and-succession]]
-- [[schultes-morning-glory-ipomoea-seeds]]
 - [[schultes-syrian-rue-seeds-civilization]]
 - [[season-extension-techniques]]
 - [[seasonal-garden-tasks-calendar]]
@@ -907,6 +916,7 @@
 - [[seedling-quality-hardening-off-transplant-assessment-solomon]]
 - [[selling-farm-products-and-business]]
 - [[septobasidiales-scale-insect-mutualism]]
+- [[shade-avoidance-syndrome]]
 - [[shock-method-fruit-tree]]
 - [[short-day-and-long-day-plant-classification]]
 - [[short-day-long-day-plant-flowering-classification]]
@@ -1044,6 +1054,7 @@
 - [[temperature-factors-winter-salad-production]]
 - [[termite-ant-fungus-gardens]]
 - [[the-vacuole-and-tonoplast-in-plant-cell-regulation]]
+- [[thermal-germination-and-stratification]]
 - [[thigmomorphogenesis-plant-touch-response]]
 - [[thinning-and-spacing]]
 - [[tilther-and-precision-seeding-tools]]
@@ -1157,7 +1168,6 @@
 - [[what-a-plant-knows-plant-mechanosensation-touch-response]]
 - [[what-a-plant-knows-plant-olfaction-volatile-communication]]
 - [[white-clover-ground-cover]]
-- [[wicking-bed-crop-selection-seasonal-management]]
 - [[wide-row-spacing-intensive-gardening-comparison]]
 - [[wide-spacing-dry-gardening-low-irrigation-solomon]]
 - [[wild-foraging-guide]]

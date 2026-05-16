@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**240 pages**
+**237 pages**
 
 ## A
 
@@ -71,7 +71,6 @@
 - [[earthbag-building]]
 - [[earthbag-construction]]
 - [[earthquake-preparedness-guide]]
-- [[eclss-water-system-aseptic-access-space-biology]]
 - [[egg-preservation-methods]]
 - [[emergency-preparedness]]
 - [[energy-conversion-efficiency]]
@@ -297,8 +296,6 @@
 - [[water-filtration-and-treatment-systems]]
 - [[water-filtration-treatment-methods]]
 - [[water-treatment-filtration-methods]]
-- [[wicking-bed-construction]]
-- [[wicking-bed-materials-construction-variants]]
 - [[wildfire-behavior-and-firestorm-dynamics]]
 - [[wildfire-ecology-and-management]]
 - [[wildfire-firestorm-mechanics]]

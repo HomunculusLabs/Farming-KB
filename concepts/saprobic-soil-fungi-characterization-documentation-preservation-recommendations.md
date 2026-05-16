@@ -132,3 +132,6 @@ Results for ligninolytic enzymes should be interpreted cautiously due to variabl
 ## Summary
 
 A comprehensive inventory of saprobic soil fungi integrates environmental characterization with rigorous laboratory protocols for isolate enumeration, preservation, morphological characterization, sporulation induction, microscopic evaluation, and physiological profiling. Combining classical culture-based methods with molecular sequence data—especially for sterile and cryptic taxa—yields the most complete picture of [[soil-fungal-diversity]] and its ecological roles.
+
+## Related
+- [[saprobic-soil-fungi-quantitative-qualitative-inventory-recommendations]]

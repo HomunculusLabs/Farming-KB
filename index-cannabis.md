@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**1281 pages**
+**1279 pages**
 
 ## #
 
@@ -586,7 +586,6 @@
 - [[cannabis-microbiome-research]]
 - [[cannabis-microbiome-soil-and-cannabinoid-interactions]]
 - [[cannabis-microbiome-soil-type-composition-strain-structure]]
-- [[cannabis-microbiome-two-tier-selection]]
 - [[cannabis-microbiome-unifrac-beta-diversity-analysis]]
 - [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]]
 - [[cannabis-minor-cannabinoids]]
@@ -969,7 +968,6 @@
 - [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
 - [[core-microbiome-cannabis-endorhiza]]
 - [[critical-haze-strain-profile-resin-seeds-oner]]
-- [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - [[cultivar-endorhiza-bacterial-communities-cannabis]]
 - [[cultivar-specificity-persistence-post-harvest-cannabis-endorhiza]]
 - [[curing-cannabis]]

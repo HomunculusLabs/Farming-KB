@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**754 pages**
+**750 pages**
 
 ## #
 
@@ -378,7 +378,6 @@
 - [[ingham-npk-game-organic-conversion-microbial-nutrient-cycling]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 - [[ingham-pest-management-aact]]
-- [[ingham-pleomorphism-microbial-form-shifting-soil-conditions]]
 - [[ingham-protozoa-nutrient-cycling]]
 - [[ingham-protozoa-soil-food-web-nutrient-cycling]]
 - [[ingham-root-disease-treatment]]
@@ -789,9 +788,6 @@
 - [[trophic-pyramids-and-food-webs]]
 - [[two-step-selection-model-endorhiza-microbiome]]
 - [[two-step-selection-model-root-microbiome]]
-- [[two-tier-selection-model-microbiome]]
-- [[two-tier-selection-model-plant-microbiome]]
-- [[two-tier-selection-model-plant-microbiome-assembly]]
 
 ## U
 
