@@ -120,8 +120,8 @@ Key unresolved questions include:
 ## See Also
 
 - [[arbuscular-mycorrhizal-fungi]]
-- [[glomales-taxonomy]]
+- [[taxonomy-and-diversity-of-glomales]]
 - [[mycorrhizal-symbiosis]]
-- [[trap-culture-methodology]]
-- [[fungal-spore-morphology]]
+- [[soil-fungal-isolation-techniques]]
+- [[fungal-spore-biology]]
 - [[fungal-specimen-preservation]]

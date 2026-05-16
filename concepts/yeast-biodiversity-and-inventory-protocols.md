@@ -104,9 +104,9 @@ Major yeast culture collections worldwide include CBS (Netherlands), DBVPG (Ital
 
 ## See Also
 
-- [[yeast-ecology]]
+- [[yeast-biodiversity-isolation-ecology]]
 - [[fungal-biodiversity-estimation]]
-- [[molecular-fungal-identification]]
-- [[fungal-isolation-techniques]]
+- [[fungal-molecular-identification]]
+- [[soil-fungal-isolation-techniques]]
 - [[saccharomyces-cerevisiae]]
-- [[basidiomycetous-yeasts]]
+- [[basidiomycetous-yeasts-diversity-phylogenetic-distribution]]
