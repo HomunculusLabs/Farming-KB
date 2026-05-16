@@ -101,3 +101,7 @@ approximately 15 members of the 2C-T series evaluated in PiHKAL.
    116|    60|- See also: pihkal 2c t family for the 2C-T series overview
    117|    61|- See also: [[tihkal-shulgin-rating-scale]] system
    118|    62|
+
+## Sources
+
+- `shulgin-a-pihkal.md`

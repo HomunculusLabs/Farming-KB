@@ -122,3 +122,7 @@ commercial cannabis production, maximizing yield per square foot.
    117|
    118|- Related: [[cervantes-cloning]], [[cervantes-flowering-phase]], [[cervantes-perpetual-harvest-cycle]], [[cervantes-pruning-training]], [[cervantes-nft-aeroponic-systems]], [[cervantes-drain-to-waste-vs-recirculating]]
    120|
+
+## Sources
+
+- `marijuana-horticulture-cervantes.md`

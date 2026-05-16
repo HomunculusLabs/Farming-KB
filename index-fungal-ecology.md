@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**3382 pages**
+**3381 pages**
 
 ## #
 
@@ -603,7 +603,6 @@
 - [[clostridium-anaerobic-nitrogen-fixing-bacteria]]
 - [[cluster-analysis-fungal-biodiversity-classification]]
 - [[co2-effects-mycorrhizal-ecosystems]]
-- [[coccidioides-species-complex-biogeography]]
 - [[commercial-photoperiod-manipulation-agriculture]]
 - [[common-mycorrhizal-networks]]
 - [[companion-planting-with-fungi]]

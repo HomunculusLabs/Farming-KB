@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**2010 pages**
+**2012 pages**
 
 ## #
 
@@ -1511,6 +1511,7 @@
 - [[psilocybe-cubensis-cap-stem-alkaloid-distribution-strain-comparison]]
 - [[psilocybe-cubensis-cap-versus-stem-alkaloid-distribution]]
 - [[psilocybe-cubensis-cap-vs-stem-alkaloid-distribution]]
+- [[psilocybe-cubensis-street-sample-potency-variability]]
 - [[psilocybe-semilanceata-eight-indole-compounds]]
 - [[psilocybe-semilanceata-liberty-cap]]
 - [[psilocybin-5ht2a-receptor-pharmacology]]
@@ -1921,6 +1922,7 @@
 - [[stoned-ape-theory]]
 - [[strain-dependent-alkaloid-tissue-distribution-cap-stem-psilocybe-cubensis]]
 - [[street-sample-alkaloid-variability]]
+- [[street-sample-potency-variability-in-psilocybe-cubensis]]
 - [[stuart-r-ayahuasca-tourism-cautionary-ethnography]]
 - [[sumerian-annunaki-and-ancient-lawgiving]]
 - [[sumerian-annunaki-and-fruit-of-knowledge]]

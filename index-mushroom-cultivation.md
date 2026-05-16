@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1805 pages**
+**1806 pages**
 
 ## #
 
@@ -1505,6 +1505,7 @@
 - [[psilocybe-azurescens-profile]]
 - [[psilocybe-cubensis-cultivation]]
 - [[psilocybe-cubensis-cultivation-miniculture]]
+- [[psilocybe-cubensis-flush-variation]]
 - [[psilocybe-cubensis-fruiting-timeline-flush-patterns-dung-grain-substrate]]
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
 - [[psilocybe-cubensis-miniculture-method]]
