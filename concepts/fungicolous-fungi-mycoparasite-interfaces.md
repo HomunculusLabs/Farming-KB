@@ -122,3 +122,7 @@ The discovery of horizontal gene transfer via plasmatic connections (*Absidia*�
 - Hawksworth, D.L. (1979) — Estimate of ~3,200 fungicolous species worldwide.
 - Jeffries, P. & Young, T.W.K. (1994) — Five-type classification of mycoparasite-host interfaces.
 - Rudakov — Six-group trophic classification of fungicolous fungi.
+
+## Related
+
+- [[fungicolous-fungi-mycoparasitism-and-host-interactions]]

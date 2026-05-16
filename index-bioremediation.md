@@ -31,6 +31,7 @@
 
 ## D
 
+- [[desert-varnish-and-microbial-metal-oxidation]]
 - [[desertification]]
 - [[desertification-and-vegetation-loss]]
 - [[desertification-causes-reversal]]
@@ -65,7 +66,6 @@
 
 ## M
 
-- [[mangrove-ecosystems-and-coastal-restoration]]
 - [[meiji-restoration]]
 - [[microbial-fuel-cells-remediation]]
 - [[molecular-tools-bioremediation]]

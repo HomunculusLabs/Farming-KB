@@ -147,3 +147,8 @@ Key unanswered questions include:
 - The relationship between taxonomic diversity and functional diversity in AM fungal communities
 - The role of molecular techniques in detecting individual species within roots and bulk soil
 - Identification of indicator taxa sensitive to edaphic and environmental changes for ecosystem health monitoring
+
+## Related
+
+- [[singh-arbuscular-mycorrhizal-spore-identification]]
+- [[arbuscular-mycorrhizal-species-characterization]]

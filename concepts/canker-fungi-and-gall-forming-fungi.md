@@ -106,3 +106,8 @@ The genera are distinguished by the organization of the cystosori in the host ce
 - *Membranosorus* — cysts of irregular shape and size in a single layer conforming to the host cell
 
 Identification requires microscopic examination of infected cells (Karling 1968). Voucher specimens should include permanent slides of infected host cells containing the cysts.
+
+## Related
+
+- [[canker-fungi-and-plant-galls]]
+- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]

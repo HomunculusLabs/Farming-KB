@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1908 pages**
+**1890 pages**
 
 ## #
 
@@ -30,7 +30,6 @@
 - [[2c-t-pihkal-entry-39]]
 - [[4-hydroxyindole-tryptamine-synthesis-building-block]]
 - [[5-meo-dipt-compound-profile]]
-- [[5-meo-dmt-and-bufo-alvarius]]
 - [[5-meo-dmt-compound-profile]]
 - [[5-meo-dmt-reference]]
 - [[5-methoxy-compounds]]
@@ -80,7 +79,6 @@
 - [[asb-pihkal-entry-9]]
 - [[ayahuasca-additive-plants-and-dmt-synergy]]
 - [[ayahuasca-and-banisteriopsis-caapi]]
-- [[ayahuasca-and-dmt-plant-medicine]]
 - [[ayahuasca-botany-and-preparation]]
 - [[ayahuasca-brewing-guide]]
 - [[ayahuasca-ceremonial-economics-price-disparity-peru]]
@@ -309,7 +307,6 @@
 - [[dose-effects-health-risks-psilocybin]]
 - [[dpt-compound-profile]]
 - [[duboisia-hopwoodii-pituri-ethnobotany]]
-- [[duck-keeping-and-integration-into-permaculture-systems]]
 - [[dutch-smart-shop-paddos-history]]
 
 ## E
@@ -351,7 +348,6 @@
 - [[entheogenic-folk-religions]]
 - [[entheogenic-folk-religious-ceremonies]]
 - [[entheogenic-knowledge-secret-societies]]
-- [[entheogenic-plants-and-psychoactive-flora]]
 - [[entheogenic-syncretic-churches-brazil]]
 - [[entheogens-and-cultural-evolution]]
 - [[entheogens-and-secret-societies]]
@@ -603,7 +599,6 @@
 - [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
 - [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]
 - [[goat-cattle-integration]]
-- [[goat-husbandry-and-integration-into-permaculture-systems]]
 - [[golden-guide-ayahuasca-and-caapi]]
 - [[golden-guide-coleus-and-other-mild-psychoactives]]
 - [[golden-guide-datura-and-nightshade-deliriants]]
@@ -667,6 +662,7 @@
 - [[harner-american-indian-peyote-rituals]]
 - [[harner-ayahuasca-shamanism-amazon]]
 - [[harner-campa-ayahuasca-ceremony]]
+- [[harner-cashaahua-banisteriopsis]]
 - [[harner-cashinahua-banisteriopsis-usage]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[harner-datura-solanaceous-shamanism]]
@@ -738,7 +734,6 @@
 - [[iboga-and-ibogaine-profile]]
 - [[iboga-and-the-bwiti-cult-initiation]]
 - [[iboga-bwiti-religion]]
-- [[iboga-ibogaine-and-the-bwiti-african-psychedelic-medicine]]
 - [[iboga-plant]]
 - [[iboga-root-bark-preparation]]
 - [[iboga-tabernanthe]]
@@ -776,11 +771,9 @@
 ## K
 
 - [[kanna-sceletium-south-african-narcotic]]
-- [[kava-kava-cultivation-ethnobotany-and-chemistry]]
 - [[kava-kava-ethnobotany-chemistry]]
 - [[ketamine-compound-profile]]
 - [[ketamine-dissociative-pharmacology]]
-- [[ketamine-pharmacology-and-therapy]]
 - [[ketamine-psychedelic-journey-guide]]
 - [[ketamine-reference]]
 - [[ketamine-ultimate-psychedelic-journey]]
@@ -812,7 +805,6 @@
 - [[lsd-discovery-aftermath-pharmacological-properties]]
 - [[lsd-discovery-and-history]]
 - [[lsd-history]]
-- [[lsd-history-pharmacology-and-culture]]
 - [[lsd-lysergic-acid-diethylamide-experience-guide]]
 - [[lsd-model-psychosis-research]]
 - [[lsd-molecule-of-perfection]]
@@ -1168,7 +1160,6 @@
 - [[mescalero-peyote-prohibition-aggression]]
 - [[mescalero-shamanism-peyote-ban]]
 - [[mescaline-biosynthesis-and-precursor-enhancement]]
-- [[mescaline-cacti-ethnobotany-chemistry-and-ceremony]]
 - [[mescaline-compound-profile]]
 - [[mescaline-containing-cacti]]
 - [[mescaline-derivatives-pihkal]]
@@ -1291,7 +1282,6 @@
 - [[new-world-hallucinogens-overview-and-ethnobotanical-context]]
 - [[nightshade-plants-entheogen]]
 - [[nmr-characterization-psilocin-psilocybin-intermediates]]
-- [[nopal-cactus-cultivation-and-uses]]
 - [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]]
 - [[north-american-dmt-plants-phalaris-desmanthus]]
 
@@ -1348,7 +1338,6 @@
 - [[phillip-k-dick-valis-hibernation-logos-mckenna-gnostic-parallel]]
 - [[philosophical-implications-of-psychedelics]]
 - [[phosphorylation-of-tryptamines]]
-- [[pig-husbandry-and-permaculture-integration]]
 - [[pihkal-2c-b]]
 - [[pihkal-2c-b-family]]
 - [[pihkal-2c-e]]
@@ -1583,7 +1572,6 @@
 - [[psychedelic-integration-practices]]
 - [[psychedelic-microdosing]]
 - [[psychedelic-paradigm-shifting-and-reality-reconception]]
-- [[psychedelic-phenethylamines-and-pihkal]]
 - [[psychedelic-plant-sources]]
 - [[psychedelic-plants-and-civilization]]
 - [[psychedelic-plants-chemical-guide]]
@@ -1611,7 +1599,6 @@
 - [[psychedelic-spirituality-and-religion]]
 - [[psychedelic-terminology-hallucinogenic-entheogenic]]
 - [[psychedelic-therapeutic-frameworks]]
-- [[psychedelic-therapy-and-research]]
 - [[psychedelic-therapy-current-research]]
 - [[psychedelic-therapy-foundations]]
 - [[psychedelic-therapy-mechanisms]]
@@ -1623,7 +1610,6 @@
 - [[psychoactive-cacti-of-central-mexico]]
 - [[psychoactive-cacti-species-reference]]
 - [[psychoactive-plants-united-states]]
-- [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]]
 - [[psycholytic-and-psychedelic-therapy-models]]
 - [[psycholytic-therapy-psilocybin-history-efficacy]]
 - [[psycholytic-versus-psychedelic-therapy-models]]
@@ -1664,7 +1650,6 @@
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
 - [[sacred-road-pilgrimage-to-eleusis]]
 - [[sacred-waters-manna-biblical-entheogens]]
-- [[salvia-divinorum-and-salvinorin]]
 - [[salvia-divinorum-and-salvinorin-a]]
 - [[salvia-divinorum-pharmacology]]
 - [[salvia-divinorum-profile]]
@@ -1844,13 +1829,11 @@
 - [[taique-desfontainia-hookeri-andean-shrub]]
 - [[teonanacatl-aztec-codices-archaeology]]
 - [[teonanacatl-history]]
-- [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]]
 - [[terence-mckenna-stoned-ape-hypothesis]]
 - [[terence-mckenna-tryptamine-hypothesis]]
 - [[tetrabenzylpyrophosphate-phosphorylation-psilocybin-synthesis-shirota]]
 - [[the-aware-plant-plant-consciousness-debate]]
 - [[the-aware-plant-plant-consciousness-debate-chamovitz]]
-- [[the-eleusinian-mysteries-and-ancient-entheogenic-cults]]
 - [[the-profanation-of-415-bc-and-evidence-for-eleusinian-psychoactivity]]
 - [[the-road-to-eleusis-wasson-hofmann-ruck]]
 - [[three-dimensional-visible-language-future-human-capacity-tryptamine-mckenna]]
@@ -1876,7 +1859,6 @@
 - [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
 - [[tryptamine-biotransformation-psilocybe]]
 - [[tryptamine-biotransformation-psilocybe-cubensis]]
-- [[tryptamine-chemistry-and-psychedelic-pharmacology]]
 - [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]
 - [[tryptamine-consciousness-theory]]
 - [[tryptamine-effects-on-psilocybe-cubensis]]

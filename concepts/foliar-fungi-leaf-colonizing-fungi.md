@@ -130,3 +130,8 @@ The two surfaces of a leaf provide markedly different environments for fungal co
 
 - The **abaxial (lower) leaf surface** typically supports greater fungal growth and diversity than the adaxial (upper) surface. This asymmetry is attributable to two factors: the abaxial surface is more sheltered from direct sunlight and desiccation, and it bears a higher density of stomata, which provide entry points for pathogens and create favorable microenvironments.
 - The **adaxial surface**, with its thicker cuticle, greater exposure to ultraviolet radiation, and more rapid drying, supports a comparatively depauperate fungal community.
+
+## Related
+
+- [[foliar-fungi-sooty-molds-black-mildews-downy-mildews]]
+- [[biodiversity-of-fungi-foliage-pathogens-cankers-galls-sampling]]

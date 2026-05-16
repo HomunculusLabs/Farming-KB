@@ -135,3 +135,8 @@ Three critical aspects require explicit attention:
 - Pike, L.H. et al. (1975). (Lichen canopy access methods.)
 - Rosentreter, R. et al. (1988). (Soil specimen preparation methods.)
 - ter Steege, H. & Cornelissen, J.H.C. (1988). (Canopy access equipment.)
+
+## Related
+
+- [[lichen-biodiversity-sampling-protocols-data-analysis]]
+- [[biodiversity-sampling-protocol-design]]

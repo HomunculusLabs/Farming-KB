@@ -131,3 +131,7 @@ Rock-inhabiting fungi (RIF) colonize stone surfaces and interiors, often as mela
 1. **Match isolation conditions to habitat parameters** — water activity, pH, salinity, temperature, and nutrient availability must reflect in situ conditions.
 2. **Many "tolerant" species survive in extreme microenvironments** within otherwise normal macroenvironments (e.g., high-salt microsites on nonsaline soils), so selective media are essential even in moderate habitats.
 3. **Parallel use of multiple isolation regimens** is required for complete biodiversity assessment. No single medium captures the full diversity of physicochemically extreme environments.
+
+## Related
+
+- [[fungi-in-stressful-environments-water-activity-media-specialized-isolation]]

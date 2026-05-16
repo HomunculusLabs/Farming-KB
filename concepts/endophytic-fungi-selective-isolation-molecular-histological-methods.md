@@ -124,3 +124,8 @@ Histological methods allow direct microscopic visualization of endophytic coloni
 ## References
 
 - Berbee & Taylor (1992a,b); Bills & Polishook (1994); Brundrett et al. (1984); Bruns et al. (1991); Cabral et al. (1993); Camacho et al. (1997); Carbone & Kohn (1993); Dreyfuss (1986); Gernandt et al. (1997); Guo et al. (2000); Klein & Smith (1996); Kuhls et al. (1996); Liston & Alvarez-Buylla (1995); Liston et al. (1996); Monreal et al. (1999); O'Donnell & Cigelnik (1997); Pearce (1984); Rehner & Samuels (1994); Stone (1987); Swann & Taylor (1993–1995c); Wolf & Frič (1981); Zambino & Szabo (1993)
+
+## Related
+
+- [[biodiversity-of-fungi-endophytic-fungi]]
+- [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]

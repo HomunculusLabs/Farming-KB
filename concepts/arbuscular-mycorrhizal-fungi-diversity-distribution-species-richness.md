@@ -122,3 +122,8 @@ In sites of low species richness, a great number of samples must be collected to
 - Stutz JC, Morton JB. 1996. Successive pot cultures reveal high species richness.
 - Stutz JC, et al. 2000. AM fungal communities in arid soils of Namibia and Arizona.
 - Morton JB. 1993. Problems and solutions for AM fungal taxonomy.
+
+## Related
+
+- [[arbuscular-mycorrhizal-fungi-biology-host-relationships-phylogeny]]
+- [[arbuscular-mycorrhizal-fungi-plant-symbiosis]]

@@ -192,3 +192,7 @@ Most mycoparasites are unspecialized and can infect a wide range of host fungi a
 - Several fungicolous fungi are hyperparasites (parasites of other fungicolous fungi)
 - Host specificity can be determined by the form of cyst attachment in Oomycete mycoparasites
 - Many species exhibit host-dependent trophic strategies (biotrophic on some hosts, necrotrophic on others)
+
+## Related
+
+- [[fungicolous-fungi-parasites-associates]]

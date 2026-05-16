@@ -99,3 +99,8 @@ Other symptoms of infected fruits and nuts include discolored lesions or streaks
 The Clavicipitaceae (Hypocreales, Ascomycota) contains 27 genera, most of which are systemic endophytes or insect parasites. A notable exception is *Claviceps*, with approximately 35 species worldwide. In grasses, *Claviceps* causes local ovarian infection known as ergot, in which the seed is replaced by a black sclerotium. The notorious *C. purpurea* causes ergot of rye and other grasses. Ergot is known for its toxic effect (ergotism, caused by fungus alkaloids) on humans and other mammals who ingest sclerotia mixed with grain.
 
 Field collection and identification of *Claviceps* can be difficult. In warm, humid climates the hyperparasitic fungi *Cerebella* and *Fusarium* infect the honeydew stage of *Claviceps* and inhibit sclerotium development. However, the prominent black *Cerebella* fruiting bodies can serve as indicators of cryptic early *Claviceps* infections. Germination of sclerotia can be stimulated by placing them on moist filter paper, though cold pretreatment may be required and ripening periods of up to 9 months may be necessary for some species. Several small Clavicipitaceous genera are associated with bamboo and warrant further study.
+
+## Related
+
+- [[estimating-fungal-diversity-on-living-plants]]
+- [[fungi-living-plant-substrata]]

@@ -147,3 +147,7 @@ Lichenicolous fungi influence lichen community structure and dynamics through:
 5. Potential bioindication of environmental conditions, particularly air quality (Athelia arachnoidea proliferates in polluted areas)
 
 The extreme diversity of lichenicolous fungi — spanning multiple orders across two phyla — reflects the long evolutionary history and ecological importance of fungal-fungal interactions in lichen-dominated ecosystems.
+
+## Related
+
+- [[lichenicolous-fungi-ascomycota]]

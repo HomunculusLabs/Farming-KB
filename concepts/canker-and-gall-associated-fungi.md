@@ -121,3 +121,8 @@ Many leaf-infecting fungi also attack reproductive structures. Blossom blights a
 ## Ecological and Economic Significance
 
 Canker and gall fungi play critical roles in forest ecosystem dynamics by contributing to stand thinning, creating entry points for secondary colonizers, and influencing species composition. In agricultural and horticultural settings, these fungi cause significant economic losses through reduced yields, tree mortality, and the cost of management interventions. Understanding the diversity, biology, and field identification of these organisms is essential for both forest pathologists and plant disease diagnosticians.
+
+## Related
+
+- [[biodiversity-of-fungi-foliage-pathogens-cankers-galls-sampling]]
+- [[canker-fungi-and-plant-galls]]

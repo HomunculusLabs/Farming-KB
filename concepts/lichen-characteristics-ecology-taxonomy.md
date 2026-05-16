@@ -141,3 +141,8 @@ Living lichen cultures are difficult to maintain. The American Type Culture Coll
 ## References
 
 Armstrong, R.A. (1988). *Lichen Ecology*. — Galun, M. (1988). *CRC Handbook of Lichenology*. — Gilbert, O.L. (2000). *Lichens*. — Gargas, A. et al. (1995). Multiple origins of lichen symbioses. — Grime, J.P. (1977). *Plant Strategies and Vegetation*. — Hafellner, J. (1984, 1988). *Systema Ascomycetum*. — Henssen, A. and Jahns, H.M. (1974). *Lichenes*. — Kappen, L. (1988). Lichen ecology in polar regions. — Nash, T.H. III (1996). *Lichen Biology*. — Seaward, M.R.D. (1988). Lichen ecology in urban and suburban environments. — Slack, N.G. (1988). *Niche Theory and Lichen Community Ecology*.
+
+## Related
+
+- [[fungal-taxonomy-and-classification]]
+- [[lichen-biology-and-ecological-significance]]

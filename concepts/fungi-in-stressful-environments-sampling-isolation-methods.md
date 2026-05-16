@@ -208,3 +208,7 @@ The choice of solute can itself be selective — for example, glycerol-adapted f
 - Tansey, M.R. & Brock, T.D. (1973). *Science*, 179, 363–364.
 - Tansey, M.R. & Jack, M.A. (1976). Selective isolation of thermophilic fungi. *Mycologia*, 68, 365–376.
 - Wainwright, M. (1993). Oligotrophic nutrient media. In *Methods in Mycology*. CAB International.
+
+## Related
+
+- [[fungi-in-stressful-environments-strategies-thermophilic-psychrophilic-metal-tolerant]]

@@ -118,3 +118,7 @@ The **Ustilaginomycetes** include genera with demonstrated mycoparasitic activit
 ## Ecological and Taxonomic Significance
 
 Lichenicolous fungi and basidiomycete mycoparasites are critical yet understudied components of fungal ecosystems. Their ecological roles range from benign commensalism to aggressive parasitism capable of killing host lichens or fungi. Many species are highly host-specific, making them valuable indicators of lichen community health and composition. Despite their ecological importance, the majority of lichenicolous and fungicolous species remain undescribed, representing one of the most significant gaps in our understanding of global fungal biodiversity. Molecular phylogenetic studies continue to reveal unexpected diversity and novel lineages within these groups, underscoring the need for comprehensive taxonomic surveys and revised classification frameworks. Future research integrating morphological study, culture work, molecular systematics, and metagenomic approaches will be essential to document the full extent of lichenicolous and mycoparasitic fungal diversity and to elucidate the evolutionary origins of these fascinating ecological strategies.
+
+## Related
+
+- [[lichenicolous-fungi-ascomycota]]

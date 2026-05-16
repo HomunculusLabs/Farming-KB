@@ -194,3 +194,8 @@ and host interactions remains central to plant pathology and fungal ecology.
 - Forest pathology and conifer diseases
 - Root-infecting plasmodiophorids
 - Post-harvest pathology
+
+## Related
+
+- [[biodiversity-of-fungi-foliage-pathogens-cankers-galls-sampling]]
+- [[biodiversity-fungi-plant-pathogens]]

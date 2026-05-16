@@ -148,3 +148,8 @@ time if this occurs; smaller seeds need shorter durations. An alternative uses 5
 
 Each herbarium sheet examined should be labeled with: tissue examined, infection status, notable
 mycelium characteristics, date, and investigator name.
+
+## Related
+
+- [[biodiversity-of-fungi-endophytic-fungi]]
+- [[fungal-biodiversity-patterns]]

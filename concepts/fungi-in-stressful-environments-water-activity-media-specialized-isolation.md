@@ -147,3 +147,8 @@ Identification follows Ellis (1971, 1976); molecular methods supplement morpholo
 - Nagai et al. 1995, 1998. *Mycoscience*; Parkinson et al. 1989. *Mycologia*.
 - Pitt & Hocking 1997. *Fungi and Food Spoilage*, 2nd ed.; Wainwright 1993. *Biol. Fertil. Soils*.
 - Wheeler et al. 1988. *J. Applied Bacteriology*; Zak et al. 1995. *Mycologia*.
+
+## Related
+
+- [[water-activity-osmophilic-fungal-media-preparation]]
+- [[osmophilic-osmotolerant-fungi-low-water-activity]]

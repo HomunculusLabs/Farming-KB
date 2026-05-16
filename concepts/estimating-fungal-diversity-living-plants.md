@@ -148,3 +148,7 @@ Several small genera specialize on bamboo hosts: *Aciculisporium*, *Konradia*, *
 ## Knowledge Gaps and Future Directions
 
 Current estimates of fungal diversity on living plants are based primarily on temperate-zone data, where fungal:host ratios may be lower than in tropical regions. The Costa Rica extrapolation suggests that tropical fungal diversity has been drastically underestimated. Hirata's smut data (0.3% of Latin American plants recorded as hosts vs. 4.8% in the British Isles) provides perhaps the clearest evidence that tropical mycological inventories remain fundamentally incomplete. Systematic surveys combining molecular detection methods with traditional morphology will be essential to close this gap and produce reliable global estimates of plant-associated fungal diversity.
+
+## Related
+
+- [[estimating-fungal-biodiversity-on-living-plants]]

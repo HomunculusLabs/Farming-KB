@@ -120,3 +120,8 @@ Sporocarps of slime molds are colonized by specialized myxomyceticolous fungi. M
 2. **Parasites of noncalcareous myxomycetes**: Aphanocladium album sensu stricto, Byssostilbe stilbigera
 
 Nectriopsis exigua (anamorph Verticillium rexianum) is one of the most ubiquitous species, recorded from all major groups of myxomycetes. Dipodascus macrosporus can live in the slime trail of Badhamia utricularis; if ingested by the plasmodium, the fungus resists digestion and acts as a facultative parasite (Madelin and Feest 1982).
+
+## Related
+
+- [[tremellales-mycoparasites-and-fungicolous-host-groups]]
+- [[fungicolous-fungi-on-sporocarps]]

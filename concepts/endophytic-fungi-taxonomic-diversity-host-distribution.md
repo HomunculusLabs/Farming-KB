@@ -125,3 +125,7 @@ frequencies vary with foliage age, host distribution, and temporal/spatial varia
 modern studies increasingly address complex multi-trophic symbioses among hosts, fungi, and
 insects. Colonization patterns range from systemic (clavicipitaceous grasses) to spatially
 limited nonsystemic domains (most nongrass endophytes).
+
+## Related
+
+- [[biodiversity-of-fungi-endophytic-fungi]]

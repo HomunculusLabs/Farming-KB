@@ -138,3 +138,8 @@ This approach provides a quantitative estimate of infection frequency and allows
 ## Selective Isolation
 
 Maximizing endophyte biodiversity recovery requires a multifaceted approach combining varied tissue segment sizes, different media compositions, and extended incubation periods. No single medium or protocol recovers all endophytes from a given host. The most comprehensive studies employ multiple media types (including selective and nonselective), multiple incubation conditions, and careful attention to emerging colonies over weeks to months. Each modification of protocol — segment size, sterilant strength, medium additives, incubation temperature, and humidity — selectively favors different subsets of the endophyte community.
+
+## Related
+
+- [[endophytic-fungi-sampling-methods-colonization-patterns]]
+- [[fungal-endophyte-colonization-patterns]]

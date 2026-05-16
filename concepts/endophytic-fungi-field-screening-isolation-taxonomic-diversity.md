@@ -131,3 +131,8 @@ The endophytic habit has evolved independently numerous times and is represented
 ## Summary
 
 Endophytic fungal research integrates field-based screening, rigorous laboratory isolation, and careful taxonomic placement. Acidified aniline blue staining of culm, rhizome, or leaf sheath tissues remains the standard field detection method, followed by surface-sterilization and culture on potato dextrose agar. The clavicipitaceous endophytes — *Balansia*, *Epichloë*, and *Neotyphodium* — are the best-characterized systemic grass symbionts, with well-documented ecological roles in alkaloid-mediated herbivore deterrence and stress tolerance. Nonclavicipitaceous seed-transmitted endophytes (e.g., *Pseudocercosporella* and P-endophytes) and nonsystemic colonists (dominated by *Alternaria*, *Cladosporium*, *Fusarium*, and *Phaeosphaeria*) broaden the diversity picture. In woody perennials, inoperculate Discomycetes — particularly *Lophodermium*, *Rhytisma*, and *Coccomyces* — represent a widespread endophytic-to-latent-pathogen continuum, fruiting only upon host tissue senescence. The repeated independent evolution of the endophytic habit across Ascomycete orders underscores its ecological significance and warrants continued investigation across under-sampled host lineages and geographic regions.
+
+## Related
+
+- [[endophytic-fungi-living-inside-plants]]
+- [[estimating-fungal-biodiversity-on-living-plants]]

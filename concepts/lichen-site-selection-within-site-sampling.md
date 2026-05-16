@@ -126,3 +126,8 @@ Lichenologists with limited ecological training should **consult an ecologist** 
 5. **Match abundance estimation effort** to project goals and field identification capacity.
 6. **Use species groups, not single species**, as biodiversity and environmental indicators.
 7. **Record habitat information** at a level matching the lichen microhabitat subdivisions used.
+
+## Related
+
+- [[lichen-biodiversity-sampling-protocol-design]]
+- [[lichen-biodiversity-sampling-protocols-data-analysis]]

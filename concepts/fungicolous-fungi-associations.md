@@ -148,3 +148,7 @@ specialized. The fungicolous habit is common in Chytridiomycota, Oomycota,
 Hyphochytridiomycota, and Tremellales. Obligate parasitism may be a primitive
 trait from which saprotrophic subgroups arose repeatedly; specific
 parasite-host associations are products of long coevolution.
+
+## Related
+
+- [[fungicolous-fungi-mycoparasitism-and-host-interactions]]
