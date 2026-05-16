@@ -57,3 +57,7 @@ Paraglomus represents one of the most basal lineages within the Glomales. Its se
 
 - Morton, J.B. and Redecker, D. (2001). Two new families of Glomales, Archaeosporaceae and Paraglomaceae.
 - Morton, J.B. et al. Chapter 15: Mutualistic Arbuscular Endomycorrhizal Fungi. In Biodiversity of Fungi.
+
+## Related
+- [[glomales]]
+- [[taxonomy-and-diversity-of-glomales]]

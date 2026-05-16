@@ -110,3 +110,7 @@ A few fungicolous boletes and agarics are known from diverse groups. Host-specif
 | Tilletiopsis/Pseudozyma | Surface parasitism | Powdery mildews | Blastoconidia |
 
 The diversity of mycoparasitic mechanisms across Basidiomycota and Zygomycota reflects the ancient and evolutionarily labile nature of fungal-fungal antagonism, with multiple independent origins of parasitic strategies ranging from obligate biotrophy to aggressive necrotrophy.
+
+## Related
+- [[mycoparasitic-zygomycota-and-ascomycota]]
+- [[fungal-mycoparasitism-and-biocontrol-interactions]]

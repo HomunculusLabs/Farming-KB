@@ -46,3 +46,7 @@ Taphrina species are primarily temperate in distribution and demonstrate a high 
 
 - Mix (1949, 1954); Kramer (1973)
 - Source: Biodiversity of Fungi, Chapter 7 — Fungi on Living Plant Substrata, Including Fruits
+
+## Related
+- [[taphrinales-gall-forming-biotrophic-ascomycetes]]
+- [[ingham-leaf-curl-taphrina-disease-control]]

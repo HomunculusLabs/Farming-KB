@@ -39,3 +39,6 @@ type: entity
 - As a representative of the *Acaulospora* genus, it helps illustrate the taxonomic importance of spore wall characteristics in species delimitation within Glomales
 
 The species exemplifies the concept of "pandemism" in AM fungi—globally distributed species that occur across diverse habitats without clear evidence of endemism.
+
+## Related
+- [[acaulospora-denticulata]]

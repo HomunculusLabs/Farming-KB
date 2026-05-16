@@ -48,3 +48,7 @@ While Govinda was not directly involved in mycology, his scholarly interpretatio
 
 - Leary, T. "The Psychedelic Experience" — citations of Govinda's commentary on peaceful and wrathful deities
 - Govinda, Lama Anagarika. "Foundations of Tibetan Mysticism"
+
+## Related
+- [[afrofuturism]]
+- [[lama-govinda]]

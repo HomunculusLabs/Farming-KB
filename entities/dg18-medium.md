@@ -35,3 +35,6 @@ DG18 medium is essential for cultivation and mycology because:
 - Provides standardized conditions for comparing xerophilic fungal diversity across studies and geographic regions
 - The principle of lowering water activity with glycerol (rather than NaCl, which can be toxic to some fungi) is broadly applicable to designing selective media for osmophilic organisms
 - Relevant to studies of fungal community dynamics in desert ecosystems, where species composition can change rapidly with seasonal variation in organic matter distribution
+
+## Related
+- [[dichloran-glycerol-medium-dg18]]

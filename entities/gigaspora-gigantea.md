@@ -38,3 +38,7 @@ type: entity
 - The genus *Gigaspora* serves as a model for understanding the Gigasporineae suborder, which differs fundamentally from Glomineae in its reproductive biology and infection structures
 - Relevant to studies of spore viability, as spores in high-organic-matter tropical soils are often degraded or parasitized
 - Illustrates the relationship between spore biovolume and importance values in community ecology studies
+
+## Related
+- [[gigaspora-decipiens]]
+- [[gigaspora-marginata]]

@@ -127,3 +127,7 @@ Understanding which strategy a given mycoparasite employs is critical for predic
 ## Summary
 
 Mycoparasitic fungi span a remarkable taxonomic breadth across **Zygomycota** and **Ascomycota**, employing diverse strategies from direct hyphal penetration and enzymatic degradation to antibiosis via peptaibols, gliotoxin, and volatile compounds. The **Hypocreales** — particularly **Trichoderma** and **Hypomyces** — represent the best-studied lineages, yet even within these groups, vast unexplored biodiversity remains. The cryptic nature of many mycoparasites (e.g., **Helicogonium**, **Unguiculariopsis**, dimargaritalean zygomycetes) suggests that environmental sequencing and focused microscopic surveys will continue to reveal new species and interactions, underscoring the "unknown biodiversity" of mycoparasitic fungi and their critical but underappreciated roles in ecosystem function.
+
+## Related
+- [[mycoparasitism-basidiomycota-zygomycota-mechanisms]]
+- [[mycoparasitic-dimargaritales-and-mucorales]]

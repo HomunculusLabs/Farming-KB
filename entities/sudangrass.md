@@ -38,3 +38,6 @@ Sudangrass is arguably the single most important tool for AM fungal cultivation 
 - **Experimental microcosms:** Serves as host in pot-culture experiments examining fungal community dynamics, species interactions, and sporulation patterns
 
 The choice of Sudangrass as a universal host has standardized AM fungal research methodology across laboratories globally, enabling meaningful comparisons of species composition and function across studies.
+
+## Related
+- [[sorghum-bicolor]]

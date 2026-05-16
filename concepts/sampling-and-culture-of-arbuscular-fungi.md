@@ -112,3 +112,7 @@ Once a culture contains only one species, volume can be multiplied by transferri
 - Sylvia, D.M. 1994. Vesicular-arbuscular mycorrhizal (VAM) fungi. In: Methods of Soil Analysis, Part 2: Microbiological and Biochemical Properties.
 - Tews, L.L., and R.E. Koske. 1986. Towards a methodology for the study of VA mycorrhizal fungal species composition of a sand dune. Mycologia 78: 449-453.
 - Mueller-Dombois, D., and H. Ellenberg. 1974. Aims and Methods of Vegetation Ecology. John Wiley & Sons.
+
+## Related
+- [[arbuscular-mycorrhizal-fungi-species-characterization]]
+- [[taxonomy-and-diversity-of-glomales]]

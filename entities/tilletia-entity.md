@@ -45,3 +45,7 @@ Tilletia species are distributed worldwide and occur primarily on grasses (Poace
 
 - Durn and Fischer (1961); Vnky (1987, 1998); Bauer et al. (2001); Fischer and Holton (1957)
 - Source: Biodiversity of Fungi, Chapter 7 — Fungi on Living Plant Substrata, Including Fruits
+
+## Related
+- [[smut-fungi]]
+- [[smut-fungi-plant-pathogens]]

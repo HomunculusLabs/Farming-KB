@@ -2,32 +2,31 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**265 pages**
+**240 pages**
 
 ## A
 
 - [[adobe-construction]]
-- [[albedo-and-solar-radiation]]
+- [[agricultural-waste-recycling]]
 - [[animal-butcher-and-processing]]
 - [[animal-byproducts]]
 - [[animal-tractor-systems]]
 - [[animal-tractoring]]
 - [[appropriate-technology]]
+- [[avalanche-snow-instability]]
+- [[avalanche-snow-instability-and-permafrost]]
 
 ## B
 
-- [[backyard-pond-building]]
 - [[bamboo-as-building-material]]
 - [[bamboo-construction]]
 - [[barn-construction-reference]]
-- [[barn-design]]
-- [[barn-design-guide]]
 - [[basic-electrical-for-homestead]]
 - [[basic-plumbing-for-homestead]]
 - [[beeswax-candle-making]]
-- [[benching-terracing-and-bank-construction]]
 - [[biodiesel-production]]
 - [[biogas-digester-basics]]
+- [[biological-sewage-treatment-systems]]
 - [[black-soldier-fly-larvae-as-feed]]
 - [[boil-a-bag-filter-can-construction]]
 - [[building-with-natural-materials]]
@@ -51,22 +50,12 @@
 - [[cob-building-basics-detailed]]
 - [[cob-construction]]
 - [[cob-oven-construction]]
-- [[cold-area-grazing-and-wildfire]]
-- [[cool-temperate-forage-systems-and-small-livestock]]
 - [[cordwood-construction]]
 
 ## D
 
 - [[dairy-and-cheesemaking]]
-- [[dam-construction]]
-- [[dam-wall-construction-and-earth-tanks]]
 - [[deer-fencing-and-deterrents]]
-- [[desert-house-energy-and-water-conservation]]
-- [[desert-house-water-energy-conservation]]
-- [[dieu-ponds-terraces-and-dam-construction]]
-- [[dryland-building-and-settlement]]
-- [[dryland-building-settlements]]
-- [[dryland-buildings-and-settlements]]
 - [[duck-keeping]]
 - [[duck-keeping-guide-detailed]]
 - [[duck-rice-paddy]]
@@ -74,29 +63,32 @@
 ## E
 
 - [[earth-cellar-construction]]
-- [[earth-dam-construction]]
 - [[earth-plaster-and-natural-finishes]]
+- [[earth-resources-and-materials]]
+- [[earth-resources-excavation]]
+- [[earth-resources-materials-excavation]]
+- [[earth-sheltered-housing]]
 - [[earthbag-building]]
 - [[earthbag-construction]]
 - [[earthquake-preparedness-guide]]
+- [[eclss-water-system-aseptic-access-space-biology]]
 - [[egg-preservation-methods]]
 - [[emergency-preparedness]]
 - [[energy-conversion-efficiency]]
 - [[energy-conversion-efficiency-comparison]]
 - [[energy-efficiency-farming-systems-comparison]]
-- [[energy-efficient-house-design]]
+- [[excavation-buckets-augers-hydraulic-jets]]
+- [[excavation-tools-and-drilling-methods]]
 - [[extreme-heat-preparedness]]
 
 ## F
 
 - [[fermented-hot-sauce-guide]]
 - [[firewood-seasoning-and-storage]]
-- [[fish-pond-stock-management-and-construction]]
 - [[flood-preparedness-guide]]
 - [[food-dehydration-guide]]
 - [[food-preservation-canning]]
 - [[free-range-pig-management]]
-- [[free-range-poultry-forage-systems-design]]
 - [[free-range-poultry-management]]
 
 ## G
@@ -106,11 +98,11 @@
 - [[goat-husbandry-detailed-guide]]
 - [[goat-keeping]]
 - [[goat-keeping-guide]]
-- [[golden-goat-sativa-strain-profile]]
 - [[goose-keeping]]
 - [[goose-keeping-detailed]]
 - [[goose-keeping-guide]]
 - [[granola-making]]
+- [[greg-green-odor-control-and-air-filtration]]
 
 ## H
 
@@ -118,7 +110,6 @@
 - [[homestead-bakery-guide]]
 - [[homestead-canning-recipes]]
 - [[homestead-communication]]
-- [[homestead-community-building]]
 - [[homestead-dairy-equipment]]
 - [[homestead-dairy-guide]]
 - [[homestead-education-resources]]
@@ -128,7 +119,6 @@
 - [[homestead-herb-business]]
 - [[homestead-insurance-guide]]
 - [[homestead-internet-options]]
-- [[homestead-kitchen-design]]
 - [[homestead-labor-and-volunteers]]
 - [[homestead-planning-and-zoning]]
 - [[homestead-poultry-health]]
@@ -156,10 +146,10 @@
 ## I
 
 - [[ice-house-and-spring-house]]
+- [[industrial-recycling-and-infrastructure-maintenance]]
+- [[ingham-citric-acid-chlorine-removal-water-treatment]]
 - [[integrated-homestead-annual-calendar]]
-- [[integrated-homestead-design]]
 - [[integrated-poultry-forage-systems-zone-two]]
-- [[island-diet-diversification-and-energy-resources]]
 
 ## J
 
@@ -170,11 +160,11 @@
 
 - [[lacto-fermentation-and-food-preservation-methods]]
 - [[land-selection-for-homesteading]]
-- [[law-of-return-and-energy-catchment-design]]
+- [[levelling-tools-and-techniques]]
+- [[levels-and-levelling-tools]]
 - [[livestock-feed-formulation]]
 - [[livestock-fencing-guide]]
 - [[livestock-grassland-management-strategies]]
-- [[livestock-grazing-strategies-on-grasslands]]
 
 ## M
 
@@ -182,10 +172,7 @@
 - [[mangalitza-pig-breeds]]
 - [[maple-syrup-production]]
 - [[marketing-economics-small-scale-farms]]
-- [[marketing-economics-small-scale-winter-produce]]
 - [[mason-jar-preserving-guide]]
-- [[masonry-heater-design]]
-- [[meadow-construction-and-forage-hedgerow-design]]
 - [[micro-hydro-power]]
 - [[modern-homes-mold-crisis-energy-efficient-construction]]
 - [[mud-oven]]
@@ -202,25 +189,24 @@
 - [[natural-free-range-poultry-farming]]
 - [[natural-livestock-farming]]
 - [[natural-pool-building]]
+- [[natural-sewage-treatment-systems]]
 - [[nut-butter-making]]
 
 ## O
 
 - [[off-grid-electricity-basics]]
 - [[off-grid-waste-management]]
-- [[oner-golden-goat-island-sweet-skunk-hawaiian-romulan]]
-- [[oner-sativa-landrace-preservation]]
+- [[on-farm-alcohol-fuel-production-from-cellulose]]
 - [[online-homestead-sales]]
 - [[open-systems-energy-exchange]]
-- [[oss-oeric-drying-and-preservation-methods]]
 - [[outdoor-shelter-building]]
 
 ## P
 
 - [[paddock-system-pigs]]
 - [[passive-solar-and-biomass-energy]]
-- [[passive-solar-design]]
 - [[pellet-stove-heating]]
+- [[personal-fire-survival-and-recovery]]
 - [[phase-change-materials-thermal-energy-storage]]
 - [[pickle-making]]
 - [[pig-forage-and-integrated-management]]
@@ -228,15 +214,12 @@
 - [[pig-husbandry]]
 - [[pig-keeping-guide]]
 - [[pig-range-systems]]
-- [[pond-design-and-construction]]
-- [[pond-edges-interfaces-and-energy-efficiency]]
 - [[poultry-forage-species-compendium]]
 - [[poultry-housing-guide]]
 - [[poultry-range-management]]
 - [[preserving-wood-timber-framing]]
 - [[pressure-canning-food-preservation]]
 - [[pressure-canning-safety]]
-- [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
 
 ## Q
 
@@ -253,11 +236,9 @@
 - [[rammed-earth]]
 - [[raw-milk-guide]]
 - [[reciprocal-roof-frame]]
+- [[reed-bed-water-treatment]]
 - [[reforestation-with-pigs]]
-- [[rocket-mass-heater-design]]
 - [[rocket-stove]]
-- [[rocket-stove-design]]
-- [[root-cellar-design-and-construction]]
 - [[root-cellaring]]
 - [[root-cellaring-and-no-energy-food-storage]]
 - [[root-cellaring-guide]]
@@ -265,63 +246,57 @@
 
 ## S
 
+- [[sand-filtration-and-biological-water-treatment]]
 - [[savory-energy-flow-and-solar-capture]]
 - [[savory-energy-tetrahedron]]
 - [[savory-fencing-economics-and-stock-density-curve]]
-- [[savory-holistic-resource-management-energy-flow]]
-- [[savory-livestock-behavior-and-grazing-styles]]
-- [[savory-livestock-grazing-planning]]
 - [[savory-livestock-nutrition-and-supplementation]]
-- [[savory-solar-dollars-and-wealth-classification]]
+- [[sewage-water-reduction-and-dry-toilets]]
 - [[sheep-health-and-production]]
 - [[sheep-husbandry]]
 - [[sheep-keeping-guide]]
-- [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]
 - [[skoolie-bus-conversion]]
 - [[slip-form-stone-construction]]
 - [[small-scale-dairy-guide]]
 - [[smoking-meat-and-fish]]
+- [[snow-ice-and-avalanche-management]]
 - [[soap-making-guide]]
 - [[solar-and-electric-food-drying-methods]]
 - [[solar-cooking-methods]]
 - [[solar-dehydrator-plans]]
 - [[solar-food-dehydrator-diy]]
 - [[solar-oven-cooking]]
-- [[solar-radiation-albedo-heat]]
 - [[solar-water-heating]]
-- [[stamets-slant-culture-strain-preservation]]
 - [[stock-management-and-personal-survival-in-wildfire]]
 - [[stone-cellar-building]]
-- [[strawyard-throwover-pen-design]]
 - [[sustainable-living-habits-for-homesteads]]
 
 ## T
 
 - [[tallow-candle-making]]
-- [[terrace-design-and-construction]]
 - [[timber-frame-basics]]
 - [[tiny-house-on-wheels]]
-- [[tree-biomass-and-energy-transactions]]
-- [[tree-energy-transactions]]
 - [[trees-and-energy-transactions]]
-- [[tropical-island-diet-diversification-and-energy-resources]]
 - [[turkey-husbandry]]
 
 ## U
 
 - [[ultra-low-cost-food-preservation]]
+- [[underground-earth-sheltered-housing]]
 - [[underground-house-and-earth-berm-construction]]
 
 ## V
 
 - [[van-life-off-grid]]
-- [[village-energy-systems-and-conversion-efficiency]]
 
 ## W
 
+- [[waste-minimisation-strategies]]
 - [[water-bath-canning-guide]]
-- [[water-design-checklist-and-dam-construction]]
-- [[water-retention-landscape-design-principles-construction]]
+- [[water-filtration-and-settling-techniques]]
+- [[water-filtration-and-treatment-systems]]
+- [[water-filtration-treatment-methods]]
+- [[water-treatment-filtration-methods]]
 - [[wicking-bed-construction]]
 - [[wicking-bed-materials-construction-variants]]
 - [[wildfire-behavior-and-firestorm-dynamics]]

@@ -64,3 +64,7 @@ Archaeospora occupies a basal position in the phylogeny of arbuscular mycorrhiza
 - Morton, J.B. and Redecker, D. (2001). Two new families of Glomales, Archaeosporaceae and Paraglomaceae.
 - Redecker, D. et al. (2000b). Molecular phylogeny of Archaeospora and its relationship to Geosiphon.
 - Morton, J.B. et al. Chapter 15: Mutualistic Arbuscular Endomycorrhizal Fungi. In Biodiversity of Fungi.
+
+## Related
+- [[glomales]]
+- [[taxonomy-and-diversity-of-glomales]]

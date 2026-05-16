@@ -134,3 +134,7 @@ valuable indicators of plant community composition and ecosystem health. The lar
 between described and estimated species numbers highlights the need for intensified survey
 efforts, particularly in tropical biodiversity hotspots where diversity is expected to be
 highest but remains most poorly documented.
+
+## Related
+- [[ustilaginomycetes-smut-fungi-classification-diversity]]
+- [[biodiversity-smut-fungi-diversity]]

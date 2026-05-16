@@ -161,3 +161,7 @@ Many temperate foliar fungi survive winter on **fallen, overwintered foliage** a
 - Pike, L.H. et al. (1975). — Systematic 6-zone sampling of 450-year-old Douglas fir.
 - Valentine, H.T. & Hilton, S.J. (1977). *Can. J. For. Res.* 7: 295–298. — Randomized branch sampling for *Quercus*.
 - Wolf, J.H.D. (1993). *Vegetatio* 106: 81–91. — Arrow+rope+jumar canopy access in tropical forest.
+
+## Related
+- [[studying-fungi-living-plants-macrofungal-diversity]]
+- [[fungi-living-plants-anthracnose-ergot-fruit-rots]]

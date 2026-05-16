@@ -76,3 +76,7 @@ Parallel use of multiple isolation regimens (varying a_w, pH, salinity, temperat
 - Pitt, J.I., and A.D. Hocking. 1997. Fungi and Food Spoilage. 2nd ed. Blackie Academic.
 - Dallyn, H., and A. Fox. 1980. Spoilage of material of reduced water activity by xerophilic fungi. In: Microbial Growth and Survival in Environments of Reduced Water Activity.
 - Wheeler, K.A., B.J. Hurdman, and J.I. Pitt. 1988. Influence of temperature, water activity, and age on growth of some xerophilic fungi.
+
+## Related
+- [[osmophilic-osmotolerant-fungi-low-water-activity]]
+- [[water-activity-osmophilic-fungal-media-preparation]]

@@ -129,3 +129,7 @@ The diversity of fungi associated with slime molds remains poorly documented, an
 ## Summary
 
 The Tremellales and their relatives represent a major radiation of mycoparasitic fungi characterized by dimorphic life cycles, haustorial feeding structures, and diverse host associations spanning mushrooms, polypores, corticioid fungi, lichens, and even slime molds. Beyond Tremellales, mycoparasitism has evolved independently in multiple fungal lineages including the Aphyllophorales, Boletales, Agaricales, and various Ascomycete groups. The polyphagous fungicolous species — such as *Clonostachys rosea* and *Acremonium strictum* — demonstrate that host generalism is a viable and widespread strategy, while highly specialized species like *Squamanita* spp. and *Nectriopsis violacea* illustrate the extreme end of host specificity. Together, these fungi form a complex web of inter-fungal interactions that profoundly shapes fungal community structure, succession, and biodiversity in virtually all terrestrial ecosystems.
+
+## Related
+- [[tremellales-mycoparasitic-jelly-fungi]]
+- [[tremellales-basidiomycete-mycoparasites]]

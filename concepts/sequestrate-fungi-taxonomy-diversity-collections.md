@@ -136,3 +136,7 @@ Endemism is common, driven by host specificity, animal dispersal dependence, nar
 ## Global Assessment
 
 No large geographic region has been adequately assessed. Stand-level assessments began only in the last 20 years (Oregon, Washington, northern California). An Australian effort over 13 years (20 trips, <400 person-days) yielded ~7,500 collections representing ~600 species — approximately **90% undescribed** — underscoring how profoundly sequestrate fungal diversity remains unknown.
+
+## Related
+- [[sequestrate-fungi-taxonomy-geographic-distribution]]
+- [[biodiversity-sequestrate-fungi]]

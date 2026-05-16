@@ -47,3 +47,7 @@ Pyricularia grisea is a hemibiotroph, establishing an initial biotrophic phase b
 
 - Ou (1985); Holliday (1980)
 - Source: Biodiversity of Fungi, Chapter 7 — Fungi on Living Plant Substrata, Including Fruits
+
+## Related
+- [[fungi-living-plants-anthracnose-ergot-fruit-rots]]
+- [[smut-fungi-plant-pathogens]]

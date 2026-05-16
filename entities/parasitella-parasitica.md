@@ -48,3 +48,6 @@ tags: [zygomycete, mycoparasite, gall-forming, horizontal-gene-transfer, mucoral
 - Kellner, M. et al. (1993). Horizontal gene transfer in *Parasitella*
 - Wöstemeyer, J. et al. (1995). Gene transfer in mucoralean parasites
 - Burgeff, H. (1924). Sikyotic cells in *Parasitella*
+
+## Related
+- [[mycoparasitic-zygomycota-and-ascomycota]]

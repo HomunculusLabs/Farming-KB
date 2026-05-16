@@ -38,3 +38,7 @@ type: entity
 - Demonstrates that rare species can be numerically dominant in individual samples while being absent from most of the habitat
 - Relevant to discussions of sampling adequacy—large numbers of samples may be needed to detect rare but locally abundant species
 - Highlights the limitations of standard diversity indices borrowed from plant ecology when applied to spore count data
+
+## Related
+- [[scutellospora-calospora]]
+- [[scutellospora-persica]]

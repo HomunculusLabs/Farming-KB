@@ -133,3 +133,8 @@ Lichens are **composite organisms** of a **fungal partner (mycobiont)** and a **
 | **Fruticose** | Shrubby or string-like, often erect or pendulous |
 
 The **fungal partner** produces the characteristic thallus structure; the photobiont does not determine morphology.
+
+## Related
+- [[macrofungal-sampling-methods]]
+- [[sampling-design-macrofungal-surveys]]
+- [[macrofungal-sampling-protocols]]

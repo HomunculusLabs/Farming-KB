@@ -37,3 +37,7 @@ type: entity
 - The genus *Archaeospora* exemplifies how rDNA sequencing has revolutionized AM fungal systematics
 - Its global distribution despite ancient origins supports the hypothesis of long-term evolutionary stability in AM fungal lineages
 - Relevant to studies of fungal community diversity in trap cultures, where *Archaeospora* species are frequently recovered alongside more commonly detected genera
+
+## Related
+- [[glomales]]
+- [[taxonomy-and-diversity-of-glomales]]

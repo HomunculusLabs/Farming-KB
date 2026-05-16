@@ -72,3 +72,7 @@ The question of whether AMF possess a sexual cycle is one of the most significan
 - Rosendahl, S. and Taylor, A.F.S. (1997). Genetic analysis of AMF populations — evidence for clonality.
 - Morton, J.B. et al. Chapter 15: Mutualistic Arbuscular [[endomycorrhizal-fungi]]. In Biodiversity of Fungi.
 - Bentivenga, S.P. and Morton, J.B. (1995). Developmental constraints on Gigaspora species diversity.
+
+## Related
+- [[gigaspora-gigantea]]
+- [[gigaspora-marginata]]

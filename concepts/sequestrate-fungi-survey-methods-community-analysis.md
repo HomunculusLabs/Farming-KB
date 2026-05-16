@@ -144,3 +144,7 @@ and forbs typically return to pre-disturbance levels 1–2 years after sampling.
 - States, J. S. 1985. Clustering of fungal sporocarps.
 - Vogt, K. A., et al. 1981. Hypogeous sporocarp biomass in *Abies amabilis* stands.
 - Vogt, K. A., et al. 1992. Review of sporocarp production studies.
+
+## Related
+- [[sequestrate-fungi-taxonomy-diversity-collections]]
+- [[sequestrate-fungi-taxonomy-geographic-distribution]]

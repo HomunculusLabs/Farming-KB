@@ -37,3 +37,7 @@ The Carreira model has direct implications for understanding [[phosphorus-availa
 - Carreira, J. A. et al. (2000). Effects of acidifying pollutants on soil inorganic phosphorus subcycle.
 - Dighton, J. (2003). *Fungi in Ecosystem Processes*. Chapter 6, Figure 6.5 and Section 6.2.1.
 - Harrison, A. F. et al. (1995). Nitrogen-phosphorus interactions in Sitka spruce forests.
+
+## Related
+- [[soil-pollution-and-remediation]]
+- [[phosphorus-plant-nutrition]]

@@ -118,3 +118,7 @@ The co-extinction risk facing rust fungi highlights a broader principle in funga
 - **Molecular Methods in Fungal Taxonomy**: Techniques for DNA-based identification
 - **Plant Pathogenic Fungi**: General treatment of fungi causing plant disease
 - **Tropical Mycology**: Challenges and opportunities in studying fungi in tropical ecosystems
+
+## Related
+- [[rust-fungi-life-cycle]]
+- [[rust-fungi-biodiversity-life-cycles]]

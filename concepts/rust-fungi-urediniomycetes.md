@@ -109,3 +109,7 @@ Proper collection technique is essential for accurate rust identification. The f
 - **Use paper envelopes** — not plastic bags, which promote mold growth on collected specimens
 
 When collecting in tropical regions, special care should be taken because thick spore walls and wall pigmentation — key identifying features for temperate rusts — are far less common, making identification more challenging without mature sporulating structures.
+
+## Related
+- [[rust-fungi-life-cycle]]
+- [[biodiversity-rust-fungi-urediniomycetes]]

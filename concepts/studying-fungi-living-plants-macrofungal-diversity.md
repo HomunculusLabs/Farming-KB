@@ -123,3 +123,7 @@ In temperate regions with summer drought, spring and fall are the main fruiting 
 - Schmit, J.P., Mueller, G.M., et al. 1999. Macrofungal diversity in oak forests, Chicago region.
 - Straatsma, G., Krisai-Greilhuber, I., et al. 2001. 21-year fungal fruiting phenology study in Switzerland.
 - Winterhoff, W. (ed.) 1992. Macrofungal diversity data review, Europe.
+
+## Related
+- [[sampling-collection-methods-fungi-living-plants]]
+- [[estimating-fungal-diversity-living-plants]]

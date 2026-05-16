@@ -38,3 +38,6 @@ type: entity
 - Used in rank-importance-value (IV) plots to visualize community structure, where steep slopes indicate stressful habitats and flatter slopes indicate competitive communities
 - Its spore size is representative of mid-range *Glomus* species, useful for calibrating spore extraction and identification protocols
 - Demonstrates the principle that spore volume (not just abundance) is a biologically meaningful measure of carbon transfer from host to fungus
+
+## Related
+- [[glomus-mosseae]]

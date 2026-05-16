@@ -31,3 +31,7 @@ type: entity
 ## Relevance to Cultivation and Mycology
 
 *Geosiphon pyriforme* is of major significance to mycology and evolutionary biology because it demonstrates that the Glomales lineage encompasses more than just arbuscular mycorrhizal symbioses. Its cyanobacterial partnership provides a model for understanding the evolutionary origins of fungal mutualism and the diversity of symbiotic strategies in early-diverging fungal lineages. The species challenges traditional classification boundaries and has reshaped our understanding of glomalean phylogeny, influencing how researchers categorize and study AM fungi in both natural and agricultural systems.
+
+## Related
+- [[geosiphon-pyriforme-endosymbiosis]]
+- [[glomales]]

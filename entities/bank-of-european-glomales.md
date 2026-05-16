@@ -36,3 +36,7 @@ BEG is important for mycorrhizal research in Europe and globally:
 - Facilitates standardized comparisons of AM fungal diversity across European ecosystems
 - Provides a framework for archiving gene material (DNA) alongside living cultures, supporting molecular systematic studies
 - Together with INVAM and regional collections (University of Western Australia, CIAT Colombia, Taiwan Agricultural Research Center), BEG forms part of the global infrastructure for AM fungal conservation and research
+
+## Related
+- [[taxonomy-and-diversity-of-glomales]]
+- [[arbuscular-mycorrhizal-fungal-diversity]]

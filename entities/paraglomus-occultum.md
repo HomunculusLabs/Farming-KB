@@ -37,3 +37,7 @@ type: entity
 - Demonstrates that cryptic, phylogenetically distinct lineages of AM fungi exist globally but remain undersampled and poorly characterized
 - Relevant to biodiversity surveys, as *Paraglomus* species are frequently detected in trap cultures from diverse habitats (see Table 15.1 in source)
 - The genus illustrates the ongoing taxonomic revision of Glomales driven by molecular phylogenetics
+
+## Related
+- [[glomales]]
+- [[taxonomy-and-diversity-of-glomales]]

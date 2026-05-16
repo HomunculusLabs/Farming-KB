@@ -178,3 +178,7 @@ Detailed field notes are essential. At minimum, records should include:
 - Visser, S. & Parkinson, D. (1975) — complementarity of isolation techniques.
 - Watson, A.G. et al. (1974) — moist chamber and isolation complementarity.
 - Wilson, J. & Carroll, G.C. (1994) — spatial fragmentation technique.
+
+## Related
+- [[biodiversity-microfungal-inventory]]
+- [[microfungal-field-collection-laboratory-woody-sampling]]

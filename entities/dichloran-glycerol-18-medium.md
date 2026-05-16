@@ -57,3 +57,7 @@ DG18 operates within the broader context of water activity (aw) manipulation for
 - Corry, J. E. L. (1987). Relationships of water activity to fungal growth.
 - Pitt, J. I. and Hocking, A. D. (1997). *Fungi and Food Spoilage*.
 - From: *Biodiversity of Fungi* (Chapter 14: Fungi in Stressful Environments).
+
+## Related
+- [[dg18-medium]]
+- [[dichloran-glycerol-medium-dg18]]

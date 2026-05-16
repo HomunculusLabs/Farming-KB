@@ -36,3 +36,7 @@ type: entity
 - Relevant to studies of plant–fungus coevolution in extreme environments, where both partners face severe cold, desiccation, and nutrient limitation
 - Provides a natural model for understanding whether AM fungal distribution is limited by host plant availability, edaphic factors, or environmental extremes
 - The species is a reference point in discussions of polar mycology and the global biodiversity inventory of AM fungi
+
+## Related
+- [[deschampsia-caespitosa]]
+- [[deschampsia-flexuosa]]

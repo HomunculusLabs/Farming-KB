@@ -75,3 +75,7 @@ Dichloran-glycerol medium (commonly designated DG18) is a selective culture medi
 - Alkaline cornmeal agar (ACMA) for alkalophilic and alkali-tolerant fungi
 - Czapek-Dox agar (diluted 1:50) for oligotrophic and rock-inhabiting fungi
 - DRBC (dichloran-rose bengal-chloramphenicol) medium for general fungal enumeration
+
+## Related
+- [[dg18-medium]]
+- [[dichloran-glycerol-18-medium]]

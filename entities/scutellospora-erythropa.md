@@ -38,3 +38,7 @@ type: entity
 - Used in studies of spore abundance and frequency of occurrence as measures of relative importance in fungal communities
 - Relevant to discussions of rare species in AM fungal communities, where small sample sizes can make species like *S. erythropa* difficult to identify accurately
 - Demonstrates the relationship between spore morphology and functional biology within Gigasporineae
+
+## Related
+- [[scutellospora-calospora]]
+- [[scutellospora-persica]]

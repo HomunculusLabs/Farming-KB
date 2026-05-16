@@ -37,3 +37,7 @@ Sporophagomyces chrysostomus represents a fascinating example of spore-trapping 
 ## Ecological Notes
 
 This species demonstrates a highly specialized nutritional strategy: rather than directly parasitizing host hyphae, it traps and presumably digests basidiospores released by its Ganoderma host. This represents an intermediate strategy between true biotrophic parasitism and saprotrophic decomposition, contributing to spore-mediated nutrient cycling in forest ecosystems.
+
+## Related
+- [[mycoparasitic-zygomycota-and-ascomycota]]
+- [[fungicolous-fungi-mycoparasitism-and-host-interactions]]

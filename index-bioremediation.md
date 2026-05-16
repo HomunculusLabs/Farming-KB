@@ -2,18 +2,19 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**73 pages**
+**65 pages**
 
 ## A
 
 - [[acid-mine-drainage-treatment]]
+- [[aquatic-waste-treatment-systems]]
 - [[azo-dye-degradation-biochemistry]]
 
 ## B
 
 - [[bioaugmentation-strategies]]
 - [[bioelectrochemical-remediation]]
-- [[bioremediation-ecosystem-restoration]]
+- [[biological-wastewater-treatment]]
 - [[bioremediation-monitoring-and-assessment]]
 - [[bioremediation-packed-fluidized-bed-bioreactors]]
 - [[bioremediation-scale-up]]
@@ -28,23 +29,16 @@
 - [[combined-biological-remediation-approaches]]
 - [[cometabolic-degradation]]
 - [[contaminant-identification-and-prevention]]
+- [[cungatuya-disease-transmitted-through-water]]
 
 ## D
 
 - [[desert-varnish-and-microbial-metal-oxidation]]
-- [[desertification]]
-- [[desertification-and-vegetation-loss]]
-- [[desertification-causes-reversal]]
-- [[dryland-strategies-desertification]]
 
 ## E
 
 - [[enzyme-based-bioremediation]]
 - [[explosive-bioremediation]]
-
-## F
-
-- [[flood-plain-design-and-riparian-forestry]]
 
 ## H
 
@@ -55,7 +49,6 @@
 ## I
 
 - [[idiosyncratic-drug-toxicity]]
-- [[interceptor-drains-and-desertification-control]]
 
 ## L
 
@@ -67,7 +60,6 @@
 ## M
 
 - [[meiji-restoration]]
-- [[microbial-fuel-cells-remediation]]
 - [[molecular-tools-bioremediation]]
 
 ## N
@@ -87,7 +79,6 @@
 - [[phytoremediation-mechanisms]]
 - [[phytostabilization]]
 - [[phytovolatilization]]
-- [[pioneer-species-for-land-reclamation]]
 - [[plow-pan-formation-and-remediation]]
 - [[pulp-paper-effluent-treatment]]
 
@@ -98,10 +89,8 @@
 
 ## S
 
-- [[savory-desertification-causes]]
-- [[savory-perennial-grass-and-desertification]]
 - [[savory-riparian-area-management]]
-- [[septic-effluent-disposal-designs]]
+- [[sewage-recycling-and-biological-waste-treatment]]
 - [[singh-enzyme-production-for-industrial-bioremediation]]
 - [[singh-melanoidin-degradation-mechanisms]]
 - [[singh-phytotoxicity-testing-bioremediation-assessment]]

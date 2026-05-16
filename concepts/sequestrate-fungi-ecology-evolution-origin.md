@@ -125,3 +125,7 @@ Sequestrate groups in the Zygomycetes may represent evolutionary progression in 
 ### Evolutionary Themes
 
 These "evolutionary experiments" involve simplification of structure (except, perhaps, in the Zygomycetes) and increased protection from climatic stress accompanied by increased energy efficiency and specialized adaptation to spore dispersal. Selection favoring protection of sporocarps from heat, drought, or freezing leads to partial or complete immersion of sporocarps in the protective, insulating soil. Consequently, the mushroom stem no longer is needed to raise spore-bearing tissues into the air, nor is the cap needed to spread those tissues for forcible spore discharge. If spores are not forcibly discharged, no orderly hymenial palisade is required to expose ascus or basidium tips to the air. Host-fungal mycorrhizal associations in sequestrate species no longer produce the nonfertile structures and thereby save resources. Although reduction from a form with an elaborate cap, stem, and hymenial tissue ultimately to a simple, truffle form with less differentiated tissue seems morphologically radical, molecular evidence indicates that such changes do not require massive numbers of mutations (Bruns et al. 1989).
+
+## Related
+- [[sequestrate-fungi-evolution-mushroom-to-truffle]]
+- [[sequestrate-fungi-trophic-relationships-dispersal]]

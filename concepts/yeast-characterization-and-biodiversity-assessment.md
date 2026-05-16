@@ -160,3 +160,7 @@ This data enables:
 - Understanding of ecological correlates of yeast distribution
 - Assessment of human-generated environmental degradation impacts
 - Correlation of yeast communities with ecosystem health indicators
+
+## Related
+- [[yeast-biodiversity-and-inventory-protocols]]
+- [[yeast-taxonomy-distribution-and-biodiversity]]

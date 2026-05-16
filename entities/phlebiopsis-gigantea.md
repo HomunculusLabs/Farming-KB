@@ -45,3 +45,7 @@ tags: [basidiomycete, biocontrol, aphyllophorales, mycoparasite, forest-pathogen
 - Gams, W. et al. "Fungicolous Fungi" in *Biodiversity of Fungi*
 - Ikediugwu, F.E.O. (1976b). Hyphal interference in *P. gigantea* vs. *H. annosum*
 - Pratt, J.E. et al. Various publications on *P. gigantea* biocontrol in forestry
+
+## Related
+- [[rust-fungi-mycoparasites-biocontrol]]
+- [[fungal-mycoparasitism-and-biocontrol-interactions]]

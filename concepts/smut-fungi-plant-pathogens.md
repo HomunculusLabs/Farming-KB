@@ -152,3 +152,7 @@ composition and ecosystem integrity. The substantial gap between described and
 estimated species numbers — particularly in tropical and subtropical regions —
 underscores the need for intensified biodiversity survey efforts to fully document
 this ecologically important component of the global mycota.
+
+## Related
+- [[smut-fungi-grass-cereal-parasites]]
+- [[smut-fungi-guide]]
