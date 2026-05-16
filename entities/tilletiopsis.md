@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-Tilletiopsis is an anamorphic genus of fungi in the Ustilaginomycetes (Basidiomycota) that contains mycoparasites of powdery mildews. The genus was revised by Boekhout (1991) and is characterized by dimorphic growth, blastoconidia borne on sympodially proliferating conidiophores, and the absence of ballistoconidia. Tilletiopsis species are of significant agricultural interest as potential biocontrol agents against powdery mildew diseases of crops.
+Tilletiopsis is an anamorphic genus of fungi in the Ustilaginomycetes ([[basidiomycota]]) that contains mycoparasites of powdery mildews. The genus was revised by Boekhout (1991) and is characterized by dimorphic growth, blastoconidia borne on sympodially proliferating conidiophores, and the absence of ballistoconidia. Tilletiopsis species are of significant agricultural interest as potential biocontrol agents against [[powdery-mildew]] diseases of crops.
 
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Division:** Basidiomycota
 - **Class:** Ustilaginomycetes
 - **Order:** Uncertain (Ustilaginales-related)

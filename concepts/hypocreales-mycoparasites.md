@@ -14,7 +14,7 @@ The order Hypocreales is one of the most important groups of fungicolous fungi, 
 
 The genus *Hypocrea* is reported less frequently as a mycoparasite than its anamorphs in *Trichoderma*, but includes fungicolous species that are either host-specific or occur on various aphyllophorales in addition to woody substrata. Several *Trichoderma* species are polyphagous mycoparasites that are notoriously difficult to distinguish morphologically, even using refined criteria.
 
-**Trichoderma harzianum** serves as both a beneficial biocontrol agent of plant pathogens and, in genetically distinct strains, an aggressive competitor of the cultivated mushroom. Accurate strain reference in experiments is therefore crucial. *T. harzianum* produces a volatile alkyl pyrone identified as a fungal inhibitor (Claydon et al. 1987).
+**[[trichoderma-harzianum]]** serves as both a beneficial biocontrol agent of plant pathogens and, in genetically distinct strains, an aggressive competitor of the cultivated mushroom. Accurate strain reference in experiments is therefore crucial. *T. harzianum* produces a volatile alkyl pyrone identified as a fungal inhibitor (Claydon et al. 1987).
 
 **Trichoderma virens** (formerly classified in *Gliocladium*) was redescribed and is best classified as *T. aggressivum* fide Bissett (1991b) and Rehner & Samuels (1994). It produces **gliotoxin**, which has a very specific fungitoxic effect.
 
@@ -58,9 +58,9 @@ Rogerson & Samuels (1993) combined most anamorphs of agaricicolous and aphylloph
 
 Several well-studied species deserve mention:
 
-- **Gonatobotrys simplex** (teleomorph *Melanospora damnosa*) — grows on *Alternaria* and *Cladosporium*, contacts host via fingerlike branches
+- **[[gonatobotrys-simplex]]** (teleomorph *Melanospora damnosa*) — grows on *Alternaria* and *Cladosporium*, contacts host via fingerlike branches
 - **Gonatobotryum fuscum** — grows on *Polyporus*, *Poria*, *Ganoderma*, *Tremella*, *Leptographium*, *Hypocrea*, and *Hypomyces*
-- **Hansfordia parasitica** — unusual in developing 0.2–1.0-mm-wide pores at the point of host contact; has a unique mutualistic relationship with *Graphium fuscum* (parasite produces pyridoxine, host produces biotin)
+- **[[hansfordia-parasitica]]** — unusual in developing 0.2–1.0-mm-wide pores at the point of host contact; has a unique mutualistic relationship with *Graphium fuscum* (parasite produces pyridoxine, host produces biotin)
 - **Stephanoma phaeosporum** — biotrophic contact mycoparasite of *Fusarium* and 14 other fungi
 
 ## Nectriaceae

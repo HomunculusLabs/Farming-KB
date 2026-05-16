@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-Hypocreopsis is a genus of fungicolous fungi in the order Hypocreales (Ascomycota). Species of Hypocreopsis are obligate mycoparasites that grow on other fungi, particularly aphyllophorales and lichen-associated fungi. The genus is notable because its species cannot be cultured in vitro, making their physiology poorly understood. Hypocreopsis species produce distinctive stromatic fruiting bodies on or near their host fungi and are considered rare or threatened in many parts of their range.
+Hypocreopsis is a genus of [[fungicolous-fungi]] in the order Hypocreales ([[ascomycota]]). Species of Hypocreopsis are obligate mycoparasites that grow on other fungi, particularly aphyllophorales and lichen-associated fungi. The genus is notable because its species cannot be cultured in vitro, making their physiology poorly understood. Hypocreopsis species produce distinctive stromatic fruiting bodies on or near their host fungi and are considered rare or threatened in many parts of their range.
 
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Division:** Ascomycota
 - **Class:** Sordariomycetes
 - **Order:** Hypocreales

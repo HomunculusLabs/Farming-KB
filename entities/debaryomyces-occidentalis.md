@@ -14,8 +14,8 @@ tags: [yeast, ascomycete, soil-isolate, amylolytic, industrial]
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Saccharomycetes
 - **Order:** Saccharomycetales
 - **Genus:** *Debaryomyces* (syn. *Schwanniomyces*)
@@ -25,7 +25,7 @@ tags: [yeast, ascomycete, soil-isolate, amylolytic, industrial]
 
 - *D. occidentalis* is isolated exclusively from soils, making it one of the few yeast species with a primarily edaphic (soil-associated) ecology.
 - The species produces powerful extracellular amylases capable of efficiently hydrolyzing starch to fermentable sugars.
-- Its amylolytic activity exceeds that of *Saccharomyces cerevisiae*, making it a candidate for direct starch fermentation processes.
+- Its amylolytic activity exceeds that of *[[saccharomyces-cerevisiae]]*, making it a candidate for direct starch fermentation processes.
 - Cell biomass has been evaluated as a source of single-cell protein (SCP) for animal feed applications.
 - The species is osmotolerant, able to grow in environments with elevated solute concentrations, which is advantageous for processing concentrated starch slurries.
 - *D. occidentalis* can utilize a wide range of carbon sources beyond starch, including various mono- and disaccharides.

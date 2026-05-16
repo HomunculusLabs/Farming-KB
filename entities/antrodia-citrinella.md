@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-Antrodiella citrinella is a small, polypore-like wood-decaying fungus in the family Steccherinaceae (Polyporales, Basidiomycota). The species is one of the best-known examples of a "successor" fungus—one that characteristically fruits on the decaying sporocarps of a "predecessor" species, in this case Fomitopsis pinicola. This association is so consistent that finding A. citrinella can be used to locate old F. pinicola brackets. The species is a white-rot fungus and produces bright yellowish (citrine) fruiting bodies.
+Antrodiella citrinella is a small, polypore-like wood-decaying fungus in the family Steccherinaceae (Polyporales, [[basidiomycota]]). The species is one of the best-known examples of a "successor" fungus—one that characteristically fruits on the decaying sporocarps of a "predecessor" species, in this case [[fomitopsis-pinicola]]. This association is so consistent that finding A. citrinella can be used to locate old F. pinicola brackets. The species is a white-rot fungus and produces bright yellowish (citrine) fruiting bodies.
 
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Division:** Basidiomycota
 - **Class:** Agaricomycetes
 - **Order:** Polyporales

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Dichloran-glycerol-18 medium (DG18) is a selective microbiological growth medium recommended for isolating and enumerating xerophilic (dry-loving) fungi from low-moisture foods and arid environments with low water availability. The medium combines the antifungal agent dichloran (2,6-dichloro-4-nitroaniline) with glycerol to reduce water activity (aw) to approximately 0.95, selectively favoring the growth of xerophilic species over mesophilic fungi.
+[[dichloran-glycerol-18-medium]] (DG18) is a selective microbiological growth medium recommended for isolating and enumerating xerophilic (dry-loving) fungi from low-moisture foods and arid environments with low water availability. The medium combines the antifungal agent dichloran (2,6-dichloro-4-nitroaniline) with glycerol to reduce water activity (aw) to approximately 0.95, selectively favoring the growth of xerophilic species over mesophilic fungi.
 
 ## Classification
 
@@ -24,7 +24,7 @@ Dichloran-glycerol-18 medium (DG18) is a selective microbiological growth medium
 - Dichloran restricts the rapid spreading of mucoraceous fungi (e.g., *Rhizopus*, *Mucor*) and limits colony size of dominant species, enabling better enumeration
 - Used in biodiversity studies of fungal communities in xeric environments such as deserts and arid grasslands
 - Listed in Appendix II of the source text as a standard medium for extreme-environment mycology
-- Part of a broader toolkit of modified media for studying fungi in stressful environments (alongside halophilic, acidophilic, and alkalophilic media)
+- Part of a broader toolkit of modified media for studying [[fungi-in-stressful-environments]] (alongside halophilic, acidophilic, and alkalophilic media)
 
 ## Relevance to Cultivation and Mycology
 

@@ -13,8 +13,8 @@ Sphaerostilbella is a genus of fungicolous ascomycetes in the Hypocreaceae (Hypo
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Sordariomycetes
 - **Order:** Hypocreales
 - **Family:** Hypocreaceae
@@ -28,7 +28,7 @@ Sphaerostilbella is a genus of fungicolous ascomycetes in the Hypocreaceae (Hypo
 - S. lutea (anamorph G. aurifilum) also found on Stereum basidiomata
 - S. novaezelandiae described from New Zealand
 - S. berkeleyana grows on polypores (Samuels 1976; Helfer 1991)
-- S. broomeana (formerly Hypomyces broomeana) found on Heterobasidion annosum
+- S. broomeana (formerly Hypomyces broomeana) found on [[heterobasidion-annosum]]
 - Revised by Seifert (1985) and Põldmaa (1999)
 
 ## Relevance to Cultivation and Mycology

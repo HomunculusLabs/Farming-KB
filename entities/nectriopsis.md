@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Nectriopsis is a genus of fungicolous fungi in the family Bionectriaceae (Hypocreales, Ascomycota) comprising approximately 39 described species. The genus is characterized by small, usually white to yellow perithecial ascomata that develop on or near fungal hosts. Most species are obligate or facultative mycoparasites, colonizing sporocarps of other fungi—particularly myxomycetes (slime molds), discomycetes, agarics, and aphyllophorales.
+Nectriopsis is a genus of [[fungicolous-fungi]] in the family Bionectriaceae (Hypocreales, [[ascomycota]]) comprising approximately 39 described species. The genus is characterized by small, usually white to yellow perithecial ascomata that develop on or near fungal hosts. Most species are obligate or facultative mycoparasites, colonizing sporocarps of other fungi—particularly [[myxomycetes-slime-molds]]), discomycetes, agarics, and aphyllophorales.
 
 ## Classification
 

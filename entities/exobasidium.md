@@ -8,11 +8,11 @@ type: entity
 
 ## Description
 
-Exobasidium is the largest genus in the order Exobasidiales (class Ustilaginomycetes, phylum Basidiomycota). Species of Exobasidium are parasitic on angiosperms, with preferred hosts being temperate Ericales (heath family and relatives). Infected host tissues on leaves, succulent shoots, flowers, and fruits form misshapen galls or blisters, which are often discolored white or pink.
+Exobasidium is the largest genus in the order [[exobasidiales]] (class Ustilaginomycetes, phylum [[basidiomycota]]). Species of Exobasidium are parasitic on angiosperms, with preferred hosts being temperate Ericales (heath family and relatives). Infected host tissues on leaves, succulent shoots, flowers, and fruits form misshapen galls or blisters, which are often discolored white or pink.
 
 ## Classification
 
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Basidiomycota
 - **Class:** Ustilaginomycetes
 - **Order:** Exobasidiales

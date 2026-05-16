@@ -9,12 +9,12 @@ tags: [chytrid, obligate-parasite, endoparasite, basal-fungi, mycoparasite]
 
 ## Description
 
-*Rozella* is a genus of obligate endoparasitic chytrid fungi that infect other fungi, particularly members of the Chytridiomycota and Oomycota. With approximately 25 known mycoparasitic species, *Rozella* is one of the most speciose genera of fungal parasites of fungi. Recent molecular phylogenetic studies have revealed that *Rozella* occupies a basal position in the fungal tree of life, leading some researchers to propose the new phylum Cryptomycota (or Rozellomycota) to accommodate it. The genus represents some of the most divergent and evolutionarily significant fungi known.
+*Rozella* is a genus of obligate endoparasitic chytrid fungi that infect other fungi, particularly members of the Chytridiomycota and Oomycota. With approximately 25 known mycoparasitic species, *Rozella* is one of the most speciose genera of [[fungal-parasites]] of fungi. Recent molecular phylogenetic studies have revealed that *Rozella* occupies a basal position in the fungal tree of life, leading some researchers to propose the new phylum Cryptomycota (or Rozellomycota) to accommodate it. The genus represents some of the most divergent and evolutionarily significant fungi known.
 
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Rozellomycota (Cryptomycota) — basal to all other fungi
 - **Class:** Not formally assigned
 - **Genus:** *Rozella*
@@ -23,7 +23,7 @@ tags: [chytrid, obligate-parasite, endoparasite, basal-fungi, mycoparasite]
 ## Key Facts
 
 - *Rozella* species are obligate intracellular parasites with naked (wall-less) endobiotic thalli that consume host cytoplasm by phagocytosis — a unique mode of nutrition among fungi.
-- The thallus is initially surrounded only by the host plasmalemma, which disintegrates when parasite sporogenesis begins.
+- The thallus is initially surrounded only by the host [[plasmalemma]], which disintegrates when parasite sporogenesis begins.
 - Approximately 25 mycoparasitic species have been described, assigned to five groups based on morphology and host affinities:
   1. Parasites of monocentric chytrids
   2. Parasites of *Blastocladia* and Leptomitales

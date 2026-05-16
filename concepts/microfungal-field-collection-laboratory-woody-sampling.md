@@ -14,7 +14,7 @@ Understanding the climatic regime of a study site is fundamental to planning eff
 
 Seasonal sporulation patterns differ markedly between climatic zones:
 
-- **Temperate regions:** Basidiomycetes typically fruit in autumn, coinciding with the nutrient flush from leaf fall. Pathogenic microfungi produce spores in spring, when host tissues emerge from dormancy and are most susceptible.
+- **Temperate regions:** [[basidiomycetes]] typically fruit in autumn, coinciding with the nutrient flush from leaf fall. Pathogenic microfungi produce spores in spring, when host tissues emerge from dormancy and are most susceptible.
 - **Tropical regions:** Sporulation is often tied to dry or wet seasons rather than temperature cycles (Cornejo et al. 1994; Lodge and Cantrell 1995b).
 
 **Moist chamber techniques** can substantially reduce field collection frequency. By collecting substrata at approximately 2-month intervals and maintaining them in moist chambers for continuous observation, researchers capture fungi that fruit over extended periods. This requires adequate laboratory space but reduces overall collection time and site disturbance.
@@ -23,7 +23,7 @@ Seasonal sporulation patterns differ markedly between climatic zones:
 
 ### Sampling Strategy
 
-Each sample should consist of several individual, well-defined plant parts showing visible signs of fungal growth. Asymptomatic dead tissue can be ignored during microfungal surveys, as endophyte isolation techniques address internal fungal communities. Collections should target tissues in multiple decay states to capture the full successional spectrum.
+Each sample should consist of several individual, well-defined plant parts showing visible signs of fungal growth. Asymptomatic dead tissue can be ignored during microfungal surveys, as [[endophyte-isolation-techniques]] address internal fungal communities. Collections should target tissues in multiple decay states to capture the full successional spectrum.
 
 ### Sample Handling and Separation
 
@@ -37,7 +37,7 @@ Every collection record must specify the exact plant part surveyed: leaf, petiol
 
 ### Standardization and Recognition
 
-Sample sizes should be standardized to facilitate cross-site comparisons. Tissues should be cut on-site to manageable sizes. Collectors must recognize mature fruiting material, particularly medium-size pyrenomycetous Ascomycota and coelomycetes, which are often the most taxonomically informative.
+Sample sizes should be standardized to facilitate cross-site comparisons. Tissues should be cut on-site to manageable sizes. Collectors must recognize mature fruiting material, particularly medium-size pyrenomycetous [[ascomycota]] and coelomycetes, which are often the most taxonomically informative.
 
 ### Collection Containers and Equipment
 

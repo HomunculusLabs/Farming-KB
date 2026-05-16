@@ -12,7 +12,7 @@ type: entity
 notoriously damaging plant pathogens in agricultural history. Commonly
 known as **wheat stem rust** or **black stem rust**, it is an obligate
 biotrophic basidiomycete in the class Urediniomycetes (phylum
-Basidiomycota). The name "rust" derives from the characteristic
+[[basidiomycota]]). The name "rust" derives from the characteristic
 orange-brown pustules that erupt from infected plant tissues as masses
 of urediniospores are produced.
 
@@ -23,7 +23,7 @@ most studied fungal organisms in plant pathology.
 
 ## Classification
 
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Basidiomycota
 - **Class:** Urediniomycetes (Pucciniomycetes)
 - **Order:** Pucciniales
@@ -31,7 +31,7 @@ most studied fungal organisms in plant pathology.
 - **Genus:** *Puccinia*
 - **Species:** *P. graminis*
 
-The genus *Puccinia* is the largest genus of rust fungi, with more than
+The genus *Puccinia* is the largest genus of [[rust-fungi]], with more than
 half of the estimated 7,000 rust species worldwide. *Puccinia graminis*
 is further divided into **formae speciales** (f. sp.) based on host
 specificity, the most significant being *P. graminis* f. sp. *tritici*

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*Deschampsia antarctica* (Antarctic hair grass) is one of only two flowering plant species native to Antarctica. It is a perennial grass in the family Poaceae, found along the Antarctic Peninsula and surrounding subantarctic islands. It is notable for its association with arbuscular mycorrhizal (AM) fungi in one of the most extreme terrestrial environments on Earth, providing a model for studying the limits of mycorrhizal symbiosis.
+*Deschampsia antarctica* (Antarctic hair grass) is one of only two flowering plant species native to Antarctica. It is a perennial grass in the family Poaceae, found along the Antarctic Peninsula and surrounding subantarctic islands. It is notable for its association with arbuscular mycorrhizal (AM) fungi in one of the most extreme terrestrial environments on Earth, providing a model for studying the limits of [[mycorrhizal-symbiosis]].
 
 ## Classification
 

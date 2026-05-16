@@ -78,7 +78,7 @@ The downlike appearance on leaves is frequently accompanied by chlorosis or necr
 
 ## Other Leaf Colonizers
 
-Among the earliest colonizers of angiosperm leaves are yeasts: red yeasts in the genera *Sporobolomyces* and *Rhodotorula*, and white yeasts including *Cryptococcus* species. *Aureobasidium pullulans* is a ubiquitous and cosmopolitan filamentous fungus on leaf surfaces in early summer and autumn in temperate regions. In culture it produces copious slimy conidial masses ranging from creamy white to pink to dark brown or black. *Sclerophoma pythiophila* (anamorph of *Sydowia polyspora*) resembles Aureobasidium and is common on conifers.
+Among the earliest colonizers of angiosperm leaves are yeasts: red yeasts in the genera *Sporobolomyces* and *Rhodotorula*, and white yeasts including *Cryptococcus* species. *[[aureobasidium-pullulans]]* is a ubiquitous and cosmopolitan filamentous fungus on leaf surfaces in early summer and autumn in temperate regions. In culture it produces copious slimy conidial masses ranging from creamy white to pink to dark brown or black. *[[sclerophoma-pythiophila]]* (anamorph of *Sydowia polyspora*) resembles Aureobasidium and is common on conifers.
 
 Leaf-colonizing fungi in temperate regions tend to be more numerous on lower leaves and on more peripheral leaves in the canopy. Fungal growth is often better on the abaxial (lower) than the adaxial (upper) leaf surface because the former is more sheltered and has a higher number of stomata.
 
@@ -90,7 +90,7 @@ Needle-cast fungi on conifers include genera such as *Lophodermium*, *Lophoderme
 
 Parasitic fungi occurring on grasses in temperate regions include ascomycetes such as *Gaeumannomyces*, *Gibberella*, *Monographella*, *Phyllachora*, and *Pleospora* (with *Stemphylium* anamorphs), as well as specialized pathogen groups previously noted. Common hyphomycetous fungi on grasses include *Alternaria*, *Cladosporium*, *Drechslera*, *Fusarium*, *Pseudocercosporella*, *Rhynchosporium*, and *Ulocladium*. Common coelomycetes include *Ascochyta* and *Colletotrichum*.
 
-Common foliar parasites of grasses in tropical regions include species of *Cercospora*, *Drechslera*, *Magnaporthe* (anamorph *Pyricularia*), *Rhynchosporium*, and *Sphaerulina*. *Pyricularia* species are particularly important as parasites of rice, other cereals, and grasses. *Pyricularia grisea* (synonym *P. oryzae*; teleomorph *Magnaporthe grisea*), the causal agent of rice blast, is an important pathogen in many rice-growing countries. The fungus also parasitizes more than 50 other grass species.
+Common foliar parasites of grasses in tropical regions include species of *Cercospora*, *Drechslera*, *Magnaporthe* (anamorph *Pyricularia*), *Rhynchosporium*, and *Sphaerulina*. *Pyricularia* species are particularly important as parasites of rice, other cereals, and grasses. *Pyricularia grisea* (synonym *P. oryzae*; teleomorph *[[magnaporthe-grisea]]*), the causal agent of rice blast, is an important pathogen in many rice-growing countries. The fungus also parasitizes more than 50 other grass species.
 
 Species of *Cercospora* on grasses and sedges cause lesions on leaves, nodes, panicles, and grain. The leaf spots are elliptical with more or less pointed ends and grayish centers with dark margins. They begin as small, water-soaked areas and develop into lesions up to 1.5 × 0.5 cm. Heavy spotting or infection at the tillering stage can kill the host.
 

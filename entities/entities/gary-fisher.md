@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Gary M. Fisher was a researcher who published important early work on dosage levels for psychedelic compounds in psychotherapeutic contexts. His paper "Some Comments Concerning Dosage Levels of Psychedelic Compounds for Psychotherapeutic Experiences" appeared in Psychedelic Review, Volume I, No. 2, pages 208-218, in 1963. Leary cites this paper as a reference for more detailed dosage suggestions beyond the basic guidelines provided in "The Psychedelic Experience."
+[[gary-m-fisher]] was a researcher who published important early work on dosage levels for psychedelic compounds in psychotherapeutic contexts. His paper "Some Comments Concerning Dosage Levels of Psychedelic Compounds for Psychotherapeutic Experiences" appeared in Psychedelic Review, Volume I, No. 2, pages 208-218, in 1963. Leary cites this paper as a reference for more detailed dosage suggestions beyond the basic guidelines provided in "The Psychedelic Experience."
 
 ## Classification
 
@@ -29,8 +29,8 @@ Gary M. Fisher was a researcher who published important early work on dosage lev
 Leary provides basic dosage guidelines in "The Psychedelic Experience" and directs readers to Fisher for more detail:
 
 - LSD-25: 200-500 micrograms (transcendental dose), 100-200 micrograms (experienced/group)
-- Mescaline: 600-800 mg (transcendental), 300-500 mg (experienced/group)
-- Psilocybin: 40-60 mg (transcendental), 20-30 mg (experienced/group)
+- [[mescaline]]: 600-800 mg (transcendental), 300-500 mg (experienced/group)
+- [[psilocybin]]: 40-60 mg (transcendental), 20-30 mg (experienced/group)
 - DMT: 50-60 mg intramuscular (equivalent to ~500 mcg LSD, duration ~30 minutes)
 - Fisher's paper presumably elaborates on variables affecting these ranges
 

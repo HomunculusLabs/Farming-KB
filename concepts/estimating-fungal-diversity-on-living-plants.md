@@ -53,7 +53,7 @@ With approximately 10,000 plant species (2,500 trees, 1,600 epiphytes, 1,400 shr
 
 ### Great Smoky Mountains
 
-Approximately 1,300 flowering plant species (130 trees, 325 shrubs, 845 herbs). Using Strong and Levin's ratios, an estimated **8,873** fungal species should be present—slightly more than one-tenth of the Costa Rican estimate. The hardwood stand composition has been dramatically altered by the introduction of chestnut blight fungus (Cryphonectria parasitica).
+Approximately 1,300 flowering plant species (130 trees, 325 shrubs, 845 herbs). Using Strong and Levin's ratios, an estimated **8,873** fungal species should be present—slightly more than one-tenth of the Costa Rican estimate. The hardwood stand composition has been dramatically altered by the introduction of chestnut blight fungus ([[cryphonectria-parasitica]]).
 
 ## Sampling Challenges
 

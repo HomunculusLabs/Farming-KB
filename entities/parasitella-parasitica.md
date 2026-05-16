@@ -14,7 +14,7 @@ tags: [zygomycete, mycoparasite, gall-forming, horizontal-gene-transfer, mucoral
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Zygomycota
 - **Order:** Mucorales
 - **Genus:** *Parasitella*
@@ -44,7 +44,7 @@ tags: [zygomycete, mycoparasite, gall-forming, horizontal-gene-transfer, mucoral
 
 ## References
 
-- Gams, W. et al. "Fungicolous Fungi" in *Biodiversity of Fungi*
+- Gams, W. et al. "[[fungicolous-fungi]]" in *Biodiversity of Fungi*
 - Kellner, M. et al. (1993). Horizontal gene transfer in *Parasitella*
 - Wöstemeyer, J. et al. (1995). Gene transfer in mucoralean parasites
 - Burgeff, H. (1924). Sikyotic cells in *Parasitella*

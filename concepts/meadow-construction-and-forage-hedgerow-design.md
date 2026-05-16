@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Constructing or rehabilitating mixed meadows is one of the most rewarding design enterprises in permaculture. It involves assembling diverse plant groups — grasses, legumes, bulbs, herbaceous forbs, and spike-rooted flatweeds — into self-maintaining perennial systems that produce healthy animals on range while building soil, supporting pollinators, and providing a varied product base. The process requires understanding each plant group's ecological niche, propagation method, and preferred site conditions, as well as the essential role of burrowers, pollinators, and predators in meadow maintenance.
+Constructing or rehabilitating mixed meadows is one of the most rewarding design enterprises in [[permaculture]]. It involves assembling diverse plant groups — grasses, legumes, bulbs, herbaceous forbs, and spike-rooted flatweeds — into self-maintaining perennial systems that produce healthy animals on range while [[building-soil]], supporting pollinators, and providing a varied product base. The process requires understanding each plant group's [[ecological-niche]], propagation method, and preferred site conditions, as well as the essential role of burrowers, pollinators, and predators in meadow maintenance.
 
 ## The Bimodal Growth Curve
 

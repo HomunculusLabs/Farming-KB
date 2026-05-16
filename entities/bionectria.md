@@ -13,8 +13,8 @@ Bionectria is a genus of fungicolous ascomycetes in the family Bionectriaceae (H
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Sordariomycetes
 - **Order:** Hypocreales
 - **Family:** Bionectriaceae
@@ -34,7 +34,7 @@ Bionectria is a genus of fungicolous ascomycetes in the family Bionectriaceae (H
 
 ## Relevance to Cultivation and Mycology
 
-Bionectria species are significant because their anamorphs — particularly Clonostachys rosea (formerly Gliocladium roseum) — are among the most important mycoparasitic biocontrol agents known. Clonostachys rosea is a ubiquitous mycoparasite whose hyphae penetrate and destroy those of many host fungi, including Mucorales, Ceratocystis fimbriata, and even the toxin producer Trichothecium roseum. This makes the Bionectria–Clonostachys connection critically important for understanding biological control of fungal pathogens in agriculture and mushroom cultivation. The teleomorph Bionectria provides the taxonomic and phylogenetic framework for understanding these economically important anamorphs.
+Bionectria species are significant because their anamorphs — particularly [[clonostachys-rosea]] (formerly Gliocladium roseum) — are among the most important mycoparasitic biocontrol agents known. Clonostachys rosea is a ubiquitous mycoparasite whose hyphae penetrate and destroy those of many host fungi, including Mucorales, Ceratocystis fimbriata, and even the toxin producer Trichothecium roseum. This makes the Bionectria–Clonostachys connection critically important for understanding biological control of fungal pathogens in agriculture and mushroom cultivation. The teleomorph Bionectria provides the taxonomic and phylogenetic framework for understanding these economically important anamorphs.
 
 ## Ecological Role
 

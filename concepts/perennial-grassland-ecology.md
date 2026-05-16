@@ -45,7 +45,7 @@ Grasses achieve rapid regeneration because their growth points (buds) develop cl
 
 ## Sustainability vs. Maximum Yield
 
-Yield to people or cattle is not the most important factor in system sustainability. Trees shelter, provide nutrients to, and supply off-season or complementary yields when grasses are affected by drought or cold. The permaculture principle is to **balance system components** so that both trees and grasses serve the stability of the whole. A balanced system maintains its yield over time, whereas unchecked demands run the system down to a desertified endpoint of low total yield.
+Yield to people or cattle is not the most important factor in system sustainability. Trees shelter, provide nutrients to, and supply off-season or complementary yields when grasses are affected by drought or cold. The [[permaculture]] principle is to **balance system components** so that both trees and grasses serve the stability of the whole. A balanced system maintains its yield over time, whereas unchecked demands run the system down to a desertified endpoint of low total yield.
 
 Mollison articulates this principle: "We should always think of 'yield' as complexed by the length of time that yield can be maintained." Grasses offer only a small part of what they have for human use, while forests make most of themselves visible and available — sometimes at their peril.
 
@@ -103,4 +103,4 @@ Most natural grasslands lie in the **Eurasian land mass**, with Africa and the A
 
 The 60 million bison that once occupied the American prairies, with their unnumbered associated pronghorn and mule deer, represent a protein yield that may never be equalled by domestic systems. Africa's 80 large mammals and 60 associated antelope species can never be matched in total biomass, yield, or ecological value by a propped-up, energy-consuming pastoral system of a few species of domestic cattle and goats.
 
-Russia preserved the **Saiga antelope** from near-extinction in the 1940s to over a million today, culling 40% annually for food — they are the best-adapted tundra animals. The Lapps manage reindeer by travelling with herds on their migrations, taking a sustainable yield from sub-arctic meadows and lichens that cultivation or permanent settlement would destroy.
+Russia preserved the **[[saiga-antelope]]** from near-extinction in the 1940s to over a million today, culling 40% annually for food — they are the best-adapted tundra animals. The Lapps manage reindeer by travelling with herds on their migrations, taking a sustainable yield from sub-arctic meadows and lichens that cultivation or permanent settlement would destroy.

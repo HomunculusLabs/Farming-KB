@@ -20,7 +20,7 @@ Melzer's reagent is an iodine-based histochemical stain used extensively in myco
 ## Key Facts
 
 - Melzer's reagent produces three primary reactions in fungal tissues: amyloid (blue-black to dark blue), dextrinoid (reddish-brown to mahogany), and inamyloid/no reaction (no color change).
-- In arbuscular mycorrhizal fungi, the staining response of spore wall layers to Melzer's reagent is one of the most informative characters for species diagnosis, helping distinguish morphologically similar taxa.
+- In [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]], the staining response of spore wall layers to Melzer's reagent is one of the most informative characters for species diagnosis, helping distinguish morphologically similar taxa.
 - When mixed 1:1 (v/v) with PVLG, Melzer's reagent provides both permanent mounting and histochemical staining simultaneously, producing slides that can be archived indefinitely.
 - Spores mounted in the PVLG-Melzer's mixture are slightly easier to break under coverslip pressure and are less prone to "sliding out" from under the coverslip compared to PVLG alone.
 - The reagent is used in the standard protocol for describing AM fungal species: one-third of spores are mounted in PVLG alone, one-third in PVLG + Melzer's (1:1), and one-third in water, to capture the full range of diagnostic characters.
@@ -29,7 +29,7 @@ Melzer's reagent is an iodine-based histochemical stain used extensively in myco
 
 ## Relevance to Cultivation and Mycology
 
-Melzer's reagent is a cornerstone of fungal taxonomy. For cultivators, it enables accurate identification of mycorrhizal inocula, verification of ectomycorrhizal associates, and quality control of fungal cultures. Misidentification of arbuscular mycorrhizal species due to poor staining practices can lead to inappropriate inoculum selection and failed symbiotic partnerships. Proper use of Melzer's reagent is essential for any serious taxonomic work on Glomales, Agaricales, Boletales, and many other fungal groups.
+Melzer's reagent is a cornerstone of fungal taxonomy. For cultivators, it enables accurate identification of mycorrhizal inocula, verification of ectomycorrhizal associates, and quality control of fungal cultures. Misidentification of arbuscular mycorrhizal species due to poor staining practices can lead to inappropriate inoculum selection and failed symbiotic partnerships. Proper use of Melzer's reagent is essential for any serious taxonomic work on Glomales, [[agaricales]], Boletales, and many other fungal groups.
 
 ## Preparation
 

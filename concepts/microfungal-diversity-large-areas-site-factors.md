@@ -30,7 +30,7 @@ The Slapton Ley figure corresponds well with Hawksworth's (1991) working hypothe
 
 #### Taxonomic Composition Across Sites
 
-There is large variation among the sites in proportions of species from major taxonomic assemblages, providing further evidence that historical sampling procedures have been biased and that the proportion of species remaining to be sampled is significant. The relative proportions of Mycetozoa, Oomycota, Zygomycota, Ascomycota, Basidiomycota, and mitosporic fungi differ notably between sites, underscoring the difficulty of drawing generalizations from limited datasets.
+There is large variation among the sites in proportions of species from major taxonomic assemblages, providing further evidence that historical sampling procedures have been biased and that the proportion of species remaining to be sampled is significant. The relative proportions of Mycetozoa, Oomycota, Zygomycota, [[ascomycota]], [[basidiomycota]], and mitosporic fungi differ notably between sites, underscoring the difficulty of drawing generalizations from limited datasets.
 
 ### Extrapolation to Larger Areas
 
@@ -76,7 +76,7 @@ The considerable diversity of fungi in aquatic environments (Kohlmeyer and Kohlm
 
 The diversity of microfungi closely associated with plants is small in arid areas compared with that in mesic areas, reflecting reduced host-plant diversity and restriction of fungi to very specific microniches where water is more available (Zak 1993; Fisher et al. 1994). In contrast, soil fungus diversity seems similar regardless of moisture level, if sufficient nutrients are available, although individual species may have specific water requirements.
 
-Water availability directly affects rates of decomposition (Dix and Webster 1995). Abundance of water promotes fungal growth in general. It also may affect diversity, because fungi vary in their tolerances to water stress and interspecific competition (Pasricha et al. 1994). Relatively low water availability may result in at least in sampling greater diversity in culture because slower-growing taxa are less likely to be crowded out by weedy species. For microfungi on dead plant tissue, water relations are important, although the substratum itself may act as a reservoir, allowing continued growth in dry conditions.
+Water availability directly affects rates of [[decomposition]] (Dix and Webster 1995). Abundance of water promotes fungal growth in general. It also may affect diversity, because fungi vary in their tolerances to water stress and interspecific competition (Pasricha et al. 1994). Relatively low water availability may result in at least in sampling greater diversity in culture because slower-growing taxa are less likely to be crowded out by weedy species. For microfungi on dead plant tissue, water relations are important, although the substratum itself may act as a reservoir, allowing continued growth in dry conditions.
 
 #### Seasonality
 

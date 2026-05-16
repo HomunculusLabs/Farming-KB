@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Carl Gustav Jung (1875–1961) was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. His theories of the collective unconscious, archetypes, individuation, and psychological types profoundly influenced 20th-century psychology, religion, and the arts. Jung wrote the "Psychological Commentary" for Evans-Wentz's edition of "The Tibetan Book of the Dead," which Leary directly references in "The Psychedelic Experience."
+Carl Gustav Jung (1875–1961) was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. His theories of the collective unconscious, archetypes, individuation, and psychological types profoundly influenced 20th-century psychology, religion, and the arts. Jung wrote the "Psychological Commentary" for [[evans-wentz]]'s edition of "The Tibetan Book of the Dead," which Leary directly references in "The Psychedelic Experience."
 
 ## Classification
 
@@ -19,7 +19,7 @@ Carl Gustav Jung (1875–1961) was a Swiss psychiatrist and psychoanalyst who fo
 
 ## Key Facts
 
-- Originally a close collaborator of Sigmund Freud (1907–1913), later broke with Freud over theoretical differences
+- Originally a close collaborator of [[sigmund-freud]] (1907–1913), later broke with Freud over theoretical differences
 - Developed the concepts of the collective unconscious, archetypes, persona, shadow, anima/animus, and the Self
 - Wrote extensively on Eastern philosophy, alchemy, and comparative religion
 - His "Psychological Commentary" in Evans-Wentz's Tibetan Book of the Dead provided the psychoanalytic framework for interpreting Eastern consciousness teachings
@@ -29,7 +29,7 @@ Carl Gustav Jung (1875–1961) was a Swiss psychiatrist and psychoanalyst who fo
 
 In "The Psychedelic Experience," Leary cites Jung's observation that:
 
-- Freud's theory is the first Western attempt to investigate, "as if from below, from the animal sphere of instinct, the psychic territory that corresponds in Tantric Lamaism to the Sidpa Bardo"
+- Freud's theory is the first Western attempt to investigate, "as if from below, from the animal sphere of instinct, the psychic territory that corresponds in Tantric Lamaism to the [[sidpa-bardo]]"
 - The vision of seeing parents in sexual intercourse (primal scene) described in the Sidpa Bardo corresponds exactly to the psychoanalytic concept of the primal scene
 - This convergence between Eastern and Western psychology demonstrates remarkable parallels in understanding unconscious processes
 - The Sidpa Bardo visions map directly onto the psychoanalytic theory of the Oedipus Complex

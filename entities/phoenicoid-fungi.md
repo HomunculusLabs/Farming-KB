@@ -9,12 +9,12 @@ tags: [fungi, fire-ecology, pyrophilous, ascomycetes, ecological-group]
 
 ## Description
 
-Phoenicoid fungi (from Greek "phoenix," referring to rebirth from fire) are fungi that fruit prolifically in the immediate aftermath of fires in forested ecosystems, grasslands, and prairie environments. They are also known as pyrophilous or post-fire fungi. These organisms are adapted to exploit the unique conditions created by fire, including heat-sterilized substrates, altered nutrient availability, reduced competition, and the release of stimulatory compounds from charred vegetation. The phoenicoid fungal community includes both macrofungi (producing visible sporocarps) and microfungi (primarily small ascomycetes).
+Phoenicoid fungi (from Greek "phoenix," referring to rebirth from fire) are fungi that fruit prolifically in the immediate aftermath of fires in forested ecosystems, grasslands, and prairie environments. They are also known as pyrophilous or post-fire fungi. These organisms are adapted to exploit the unique conditions created by fire, including heat-sterilized substrates, altered [[nutrient-availability]], reduced competition, and the release of stimulatory compounds from charred vegetation. The phoenicoid fungal community includes both macrofungi (producing visible sporocarps) and microfungi (primarily small ascomycetes).
 
 ## Classification
 
 - **Type:** Ecological / functional group (not a taxonomic classification)
-- **Key taxa:** Primarily Ascomycota (microscopic forms) and Basidiomycota (macrofungal forms)
+- **Key taxa:** Primarily [[ascomycota]] (microscopic forms) and [[basidiomycota]] (macrofungal forms)
 - **Habitat:** Burned forest soils, prairie soils, charred vegetation
 - **Trigger:** Fire (heat treatment of soil and vegetation)
 

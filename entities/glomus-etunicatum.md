@@ -23,7 +23,7 @@ Glomus etunicatum is a species of arbuscular mycorrhizal fungus (AMF) in the gen
 ## Key Facts
 
 - Globally distributed across temperate and arctic latitudes.
-- Found in plant communities along glacial fronts in Alaska, where it sporulates in trap cultures alongside Archaeospora trappei.
+- Found in plant communities along glacial fronts in Alaska, where it sporulates in trap cultures alongside [[archaeospora]] trappei.
 - Belongs to Glomus, the most speciose genus in the Glomales with 91 described species.
 - Forms arbuscules and vesicles within plant root cortical cells, typical of the suborder Glomineae.
 - Capable of colonizing roots in harsh, newly exposed soils with low organic matter and extreme temperature regimes.
@@ -31,7 +31,7 @@ Glomus etunicatum is a species of arbuscular mycorrhizal fungus (AMF) in the gen
 ## Ecological Role
 
 - **Primary succession:** G. etunicatum appears capable of establishing mycorrhizal associations with plants colonizing recently deglaciated terrain, playing a critical role in primary succession by enhancing phosphorus uptake for pioneer plant species.
-- **Soil development:** Through hyphal growth and glomalin production, contributes to soil aggregate formation in young, poorly developed soils.
+- **Soil development:** Through hyphal growth and glomalin production, contributes to [[soil-aggregate-formation]] in young, poorly developed soils.
 - **Spore biology:** Spores are produced in soil and can persist through periods of environmental stress, serving as long-term propagules for fungal re-establishment.
 - **Host range:** Like most Glomus species, G. etunicatum shows minimal host specificity, colonizing a wide range of plant species.
 
@@ -41,7 +41,7 @@ The occurrence of G. etunicatum at glacial front sites in Alaska is ecologically
 
 - Glacial front soils are nutrient-poor, have low organic matter, and experience extreme temperature fluctuations.
 - AMF colonization by G. etunicatum and Archaeospora trappei suggests that these fungi arrive early in primary succession, likely transported as spores by wind or animals.
-- The ability to form functional mycorrhizae in these conditions indicates tolerance of cold temperatures, low nutrient availability, and unstable soil conditions.
+- The ability to form functional [[mycorrhizae]] in these conditions indicates tolerance of cold temperatures, low nutrient availability, and unstable soil conditions.
 - Trap cultures were required to detect sporulation, as direct field sampling yielded few or no visible spores.
 
 ## Relevance to Cultivation and Mycology

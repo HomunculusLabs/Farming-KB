@@ -12,7 +12,7 @@ type: entity
 
 ## Classification
 
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Zygomycota / Glomeromycota
 - **Order:** Glomales
 - **Suborder:** Glomineae
@@ -22,7 +22,7 @@ type: entity
 
 ## Key Facts
 
-- Spores approximately 150 µm in diameter, with a calculated volume of approximately 1.8 × 10⁶ µm³ (roughly 8 times smaller than *Gigaspora gigantea*)
+- Spores approximately 150 µm in diameter, with a calculated volume of approximately 1.8 × 10⁶ µm³ (roughly 8 times smaller than *[[gigaspora-gigantea]]*)
 - Multi-layered spore wall structure, which is characteristic of *Glomus* and provides the primary taxonomic characters for species delimitation
 - *Glomus* is the most speciose genus in Glomales with 91 described species
 - The genus *Glomus* includes species with the greatest variety of spore wall configurations in the order

@@ -9,12 +9,12 @@ tags: [zygomycete, mycoparasite, necrotroph, haustorial, mucorales-parasite]
 
 ## Description
 
-*Syncephalis* is a genus of mycoparasitic zygomycete fungi in the family Piptocephalidaceae that parasitize members of the Mucorales. Unlike the closely related genus *Piptocephalis*, which is purely biotrophic, *Syncephalis* species are more necrotrophic — they form a highly branched haustorial system within host hyphae that impairs host growth and sporulation, ultimately causing significant damage. The genus represents an important component of soil fungal communities where Mucorales are active.
+*Syncephalis* is a genus of mycoparasitic zygomycete fungi in the family [[piptocephalidaceae]] that parasitize members of the Mucorales. Unlike the closely related genus *[[piptocephalis]]*, which is purely biotrophic, *Syncephalis* species are more necrotrophic — they form a highly branched haustorial system within host hyphae that impairs host growth and sporulation, ultimately causing significant damage. The genus represents an important component of soil fungal communities where Mucorales are active.
 
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Zygomycota (Zoopagales)
 - **Family:** Piptocephalidaceae
 - **Genus:** *Syncephalis*

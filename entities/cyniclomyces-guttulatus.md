@@ -14,8 +14,8 @@ tags: [yeast, ascomycete, mammal-associated, gut-flora, rabbit]
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Saccharomycetes
 - **Order:** Saccharomycetales
 - **Genus:** *Cyniclomyces*
@@ -28,7 +28,7 @@ tags: [yeast, ascomycete, mammal-associated, gut-flora, rabbit]
 - Requires elevated levels of atmospheric CO₂ for growth, making isolation and cultivation technically demanding.
 - Found almost exclusively in rabbit feces and intestinal contents; rarely isolated from other substrates.
 - The species is not commonly isolated using standard yeast isolation media due to its specialized growth requirements; dedicated enrichment protocols are necessary.
-- Because of its narrow ecological niche, *C. guttulatus* is one of the few yeasts that can be considered a true gut specialist among the Saccharomycetales.
+- Because of its narrow [[ecological-niche]], *C. guttulatus* is one of the few yeasts that can be considered a true gut specialist among the Saccharomycetales.
 - Despite its specialization, the role of *C. guttulatus* in rabbit digestion and gut ecology is not fully understood.
 
 ## Relevance to Cultivation and Mycology

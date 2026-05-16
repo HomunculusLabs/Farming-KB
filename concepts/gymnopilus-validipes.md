@@ -72,10 +72,10 @@ species reported from North America, [[comparison-soil-protozoa-vs-nematodes-in-
 down complex [[fungal-microscopic-examination-mounting-media-techniques]]
 of spore size, shape, and ornamentation, combined with careful observation of
 macroscopic features including cap surface texture, stipe characteristics, and
-the nature of the partial veil. [[Gymnopilus spectabilis]] - most widely distributed neurotropic Gymnopilus
+the nature of the partial veil. [[gymnopilus-spectabilis-profile|Gymnopilus spectabilis]] - most widely distributed neurotropic Gymnopilus
 - [[psilocybe-columbiana-south-american-neurotropic-species-guzman-1998]] Gymnopilus
 - [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species
-- [[Psilocybin biosynthesis]] - evolution of psychoactive compounds
+- [[psilocybin-biosynthesis-pathway|Psilocybin biosynthesis]] - evolution of psychoactive compounds
 
 ## Overview
 

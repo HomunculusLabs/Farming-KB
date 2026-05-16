@@ -27,7 +27,7 @@ Sooty molds predominate along continental margins of North and South America, in
 
 ### Collection Technique
 
-A drop of 2% collodion/parlodion solution (prepared in diethyl ether or absolute ethanol) or cellulose acetate is spread on the leaf colony. The solution dries in minutes to a transparent film embedding the fungus. When peeled from the leaf surface, it removes the intact colony. The "leaf peel" is placed on a microscope slide, and the collodion is removed with acetone.
+A drop of 2% collodion/parlodion solution (prepared in [[diethyl-ether]] or absolute ethanol) or cellulose acetate is spread on the leaf colony. The solution dries in minutes to a transparent film embedding the fungus. When peeled from the leaf surface, it removes the intact colony. The "leaf peel" is placed on a microscope slide, and the collodion is removed with acetone.
 
 ## Black Mildews
 
@@ -71,7 +71,7 @@ Includes Protomyces, with about 10 species, a predominately temperate-region fun
 
 ## Other Leaf-Colonizing Fungi
 
-Common early colonizers of angiosperm leaves include yeasts (Sporobolomyces, Rhodotorula, Cryptococcus), Aureobasidium pullulans, and Sclerophoma pythiophila. Other common fungi include Alternaria, Cladosporium, Botrytis, Epicoccum, and Stemphylium. Leaf-colonizing fungi in temperate regions tend to be more numerous on lower leaves and more peripheral leaves in the canopy. Fungal growth often is better on the abaxial (lower) leaf surface because it is more sheltered and has more stomata.
+Common early colonizers of angiosperm leaves include yeasts (Sporobolomyces, Rhodotorula, Cryptococcus), [[aureobasidium-pullulans]], and [[sclerophoma-pythiophila]]. Other common fungi include Alternaria, Cladosporium, Botrytis, Epicoccum, and Stemphylium. Leaf-colonizing fungi in temperate regions tend to be more numerous on lower leaves and more peripheral leaves in the canopy. Fungal growth often is better on the abaxial (lower) leaf surface because it is more sheltered and has more stomata.
 
 Common leaf-spotting microfungi include Alternaria, Ascochyta, Cercospora, Cladosporium, Corynespora, Phyllosticta, Pestalotia, and Pestalotiopsis. In temperate forests, common genera on broadleaf trees and shrubs include Coccomyces, Discula, Gnomonia, Mycosphaerella, Rhytisma, and Venturia.
 

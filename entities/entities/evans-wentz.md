@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Walter Yeeling Evans-Wentz (1878–1965) was an American anthropologist, writer, and pioneering scholar of Tibetan Buddhism. He is best known as the editor and publisher of "The Tibetan Book of the Dead" (1927), based on the translation by Lama Kazi Dawa-Samdup. This work became the foundational text through which Western readers — including Timothy Leary, R.C. Zaehner, and Aldous Huxley — first encountered Tibetan Buddhist teachings on consciousness, death, and the intermediate state.
+Walter Yeeling Evans-Wentz (1878–1965) was an American anthropologist, writer, and pioneering scholar of Tibetan Buddhism. He is best known as the editor and publisher of "The Tibetan Book of the Dead" (1927), based on the translation by [[lama-kazi-dawa-samdup]]. This work became the foundational text through which Western readers — including [[timothy-leary]], [[r-c-zaehner]], and Aldous Huxley — first encountered Tibetan Buddhist teachings on consciousness, death, and the intermediate state.
 
 ## Classification
 

@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-Sporophagomyces is a genus of mycoparasitic fungi in the family Hypocreaceae (Hypocreales, Ascomycota). The genus is characterized by an acremonium-like anamorph and a distinctive subiculum (fungal mat) that physically traps host basidiospores. These trapped spores serve as the primary nutrient source for the parasite. The most well-known species, S. chrysostomus, produces conspicuous fanlike colonies that hang beneath the basidiomata of its Ganoderma hosts.
+Sporophagomyces is a genus of mycoparasitic fungi in the family Hypocreaceae (Hypocreales, [[ascomycota]]). The genus is characterized by an acremonium-like anamorph and a distinctive subiculum (fungal mat) that physically traps host basidiospores. These trapped spores serve as the primary nutrient source for the parasite. The most well-known species, S. chrysostomus, produces conspicuous fanlike colonies that hang beneath the basidiomata of its [[ganoderma]] hosts.
 
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Division:** Ascomycota
 - **Class:** Sordariomycetes
 - **Order:** Hypocreales

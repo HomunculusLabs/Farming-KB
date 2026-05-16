@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The management of livestock on grasslands and range is one of the most consequential human activities on Earth. Despite decades of nitrogen fertiliser application at 20 times pre-war rates, cattle and sheep carrying capacity per hectare has scarcely doubled — a gain attributable more to improved grain feeds and liming than to nitrogen itself. Permaculture advocates a fundamental rethinking of grazing strategies, moving toward systems that mimic natural wildlife patterns and maintain long-term range productivity.
+The management of livestock on grasslands and range is one of the most consequential human activities on Earth. Despite decades of nitrogen fertiliser application at 20 times pre-war rates, cattle and sheep carrying capacity per hectare has scarcely doubled — a gain attributable more to improved grain feeds and liming than to nitrogen itself. [[permaculture]] advocates a fundamental rethinking of grazing strategies, moving toward systems that mimic natural wildlife patterns and maintain long-term range productivity.
 
 ## The Nitrogen Fertiliser Problem
 
@@ -128,11 +128,11 @@ Since the 1950s, leys have been used in subtropical regions with grass-legume mi
 ## Permanent Pasture and Soil Building
 
 Traditional cool temperate farm landscapes with soil health as a priority allocate:
-- **25% of land** to 1-4 year leys (red clover as the legume)
+- **25% of land** to 1-4 year leys ([[red-clover]] as the legume)
 - **15-25%** to permanent pasture (white clovers)
 - **60%** to grains, green crop, and root crop
 
-Under permanent grasses, soil crumb structure, humus, and soil nitrogen all show slow but steady improvement:
+Under permanent grasses, soil [[crumb-structure]], humus, and soil nitrogen all show slow but steady improvement:
 - **25 years** needed to notice a pronounced effect
 - Cropped soils (0.11% nitrogen) climb to **0.17%** in 25 years and often require **100 years** to reach **0.25% nitrogen** under permanent grassland
 - Arable crops following leys show **increased yields for 3-4 years**

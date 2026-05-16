@@ -13,8 +13,8 @@ Cosmospora is a genus of fungicolous ascomycetes in the family Nectriaceae (Hypo
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Sordariomycetes
 - **Order:** Hypocreales
 - **Family:** Nectriaceae
@@ -27,7 +27,7 @@ Cosmospora is a genus of fungicolous ascomycetes in the family Nectriaceae (Hypo
 - Revised by Rossman et al. (1999) during subdivision of Nectria
 - Most conspicuous species occur on carbonized perithecia of pyrenomycetes
 - Primary hosts: Xylariales, Diatrypales, and less frequently loculoascomycetes
-- C. leptosphaeriae occurs mainly on Leptosphaeria
+- C. leptosphaeriae occurs mainly on [[leptosphaeria]]
 - C. coccinea (synonym Nectria cosmariospora) found on polypores
 - C. vilior (synonym Nectria viridescens) colonizes old stromata of Hypoxylon and polypores
 - C. purtonii found on various polypores, with anamorph classified as Fusarium aquaeductuum

@@ -13,7 +13,7 @@ The Piptocephalidaceae are a family of biotrophic mycoparasitic fungi in the ord
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Division:** Zygomycota
 - **Class:** Zygomycetes
 - **Order:** Zoopagales
@@ -21,11 +21,11 @@ The Piptocephalidaceae are a family of biotrophic mycoparasitic fungi in the ord
 
 ## Key Genera and Species
 
-1. **Piptocephalis** — The type genus of the family
+1. **[[piptocephalis]]** — The type genus of the family
    - **P. lepidula** — Forms sporangiophores with merosporangia; hyphae overgrow host hyphae forming minute branched haustoria (Benjamin 1959). Illustrated in the original monograph.
    - **P. freseniana** — A commonly encountered species on diverse Mucorales hosts
 
-2. **Syncephalis** — Closely related genus sharing the family's mycoparasitic habit
+2. **[[syncephalis]]** — Closely related genus sharing the family's mycoparasitic habit
    - **S. nodosa** — Produces sporangiophores with merosporangia, zygospores, and hyphae that contact Mucor hosts through appressoria and extended haustoria (Benjamin 1959)
 
 ## Morphological Characteristics

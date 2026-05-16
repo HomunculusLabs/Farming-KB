@@ -30,7 +30,7 @@ Entrophospora is a small genus of arbuscular mycorrhizal (AM) fungi in the order
 
 ## Ecological Role
 
-As arbuscular mycorrhizal fungi, Entrophospora species form mutualistic associations with plant roots, producing arbuscules and vesicles within root cortical cells. They contribute to the broader community of AM fungi that enhance plant phosphorus uptake, particularly in nutrient-poor soils. Their presence in arid habitats suggests tolerance to low moisture conditions.
+As [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]], Entrophospora species form mutualistic associations with plant roots, producing arbuscules and vesicles within root cortical cells. They contribute to the broader community of AM fungi that enhance plant phosphorus uptake, particularly in nutrient-poor soils. Their presence in arid habitats suggests tolerance to low moisture conditions.
 
 ## Relevance to Cultivation and Mycology
 
@@ -43,4 +43,4 @@ As arbuscular mycorrhizal fungi, Entrophospora species form mutualistic associat
 
 - Morton, J. B. and Benny, G. L. (1990). Revised classification of arbuscular mycorrhizal fungi (Zygomycetes): a new order, Glomales, two new suborders, Glomineae and Gigasporineae, and two new families, Acaulosporaceae and Gigasporaceae. *Mycotaxon*.
 - Stutz, J. C. and Morton, J. B. (1996). Successive pot cultures reveal high species richness of arbuscular mycorrhizal fungi in arid ecosystems.
-- From: *Biodiversity of Fungi* (Chapter 15: Mutualistic Arbuscular Endomycorrhizal Fungi).
+- From: *Biodiversity of Fungi* (Chapter 15: Mutualistic Arbuscular [[endomycorrhizal-fungi]]).

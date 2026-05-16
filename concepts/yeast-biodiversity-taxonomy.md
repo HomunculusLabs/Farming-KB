@@ -29,7 +29,7 @@ Despite these advances, many described species remain poorly characterized, and 
 
 The term "yeast" does not denote a monophyletic taxon. Rather, it describes a **growth form**—a predominantly unicellular phase of the fungal life cycle—that has arisen independently multiple times across the fungal kingdom. Yeasts are defined as fungi that reproduce primarily by budding or fission and maintain a unicellular state, although many species can also produce hyphae or pseudohyphae under certain conditions.
 
-This polyphyletic origin means that yeasts are found within two major fungal phyla: the **Ascomycota** and the **Basidiomycota**. Understanding this evolutionary context is essential for making sense of the enormous physiological and ecological diversity encompassed by the yeast lifestyle.
+This polyphyletic origin means that yeasts are found within two major fungal phyla: the **[[ascomycota]]** and the **[[basidiomycota]]**. Understanding this evolutionary context is essential for making sense of the enormous physiological and ecological diversity encompassed by the yeast lifestyle.
 
 ### Ascomycetous Yeasts
 
@@ -37,7 +37,7 @@ Ascomycetous yeasts represent the best-studied group and include many species of
 
 - **Saccharomycetales** — the largest order, encompassing *Saccharomyces*, *Candida*, *Pichia*, *Kluyveromyces*, and related genera. This group includes model organisms, fermentation agents, and clinically significant opportunistic pathogens.
 - **Schizosaccharomycetales** — fission yeasts typified by *Schizosaccharomyces pombe*, which divides by medial septation rather than budding. This group is widely used as a model for cell-cycle research.
-- **Taphrinales** — plant-parasitic yeasts that cause diseases such as peach leaf curl and witch's broom.
+- **Taphrinales** — plant-parasitic yeasts that cause diseases such as [[peach-leaf-curl]] and witch's broom.
 - **Pneumocystidiales** — opportunistic pathogens, including *Pneumocystis* species affecting immunocompromised patients, once mistakenly classified as protozoa.
 - **Protomycetales** — a less diverse group associated with plant tissues.
 

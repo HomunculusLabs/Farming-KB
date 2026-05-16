@@ -9,7 +9,7 @@ type: entity
 ## Description
 
 *Monilinia* is a genus of filamentous ascomycete fungi in the family
-Sclerotiniaceae that causes **brown rot** of stone fruits and pome
+Sclerotiniaceae that causes **[[brown-rot]]** of stone fruits and pome
 fruits, as well as **blossom blight** and **twig canker** diseases. The
 genus is one of the most important groups of fruit pathogens worldwide,
 responsible for significant postharvest losses in peaches, cherries,
@@ -22,8 +22,8 @@ structures and sources of primary inoculum in the following season.
 
 ## Classification
 
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Leotiomycetes
 - **Order:** Helotiales
 - **Family:** Sclerotiniaceae

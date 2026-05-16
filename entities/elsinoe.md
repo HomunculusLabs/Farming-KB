@@ -22,8 +22,8 @@ crops.
 
 ## Classification
 
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Dothideomycetes
 - **Order:** Dothideales (Myriangiales)
 - **Family:** Elsinoaceae
@@ -59,7 +59,7 @@ with multiple locules containing bitunicate asci.
 
 *Elsinoë* scabs occur on a wide range of agriculturally important
 tropical and subtropical hosts including:
-- **Avocado** (*Persea americana*)
+- **Avocado** (*[[persea-americana]]*)
 - **Cashew** (*Anacardium occidentale*)
 - **Castor** (*Ricinus communis*)
 - **Groundnut/peanut** (*Arachis hypogaea*)

@@ -12,7 +12,7 @@ type: entity
 
 ## Classification
 
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Zygomycota / Glomeromycota
 - **Order:** Glomales
 - **Suborder:** Gigasporineae

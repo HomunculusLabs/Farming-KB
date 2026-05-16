@@ -8,11 +8,11 @@ type: entity
 
 ## Description
 
-*Tilletia* is a large and economically important genus of smut fungi
-(Ustilaginomycetes, Basidiomycota) that primarily infects the ovaries of grass
+*Tilletia* is a large and economically important genus of [[smut-fungi]]
+(Ustilaginomycetes, [[basidiomycota]]) that primarily infects the ovaries of grass
 hosts, replacing the grain with masses of dark, powdery teliospores. The genus
 is the type for the Tilletiales, an order of smut fungi closely related to the
-Exobasidiales based on ultrastructural, biochemical, and nucleotide-sequence
+[[exobasidiales]] based on ultrastructural, biochemical, and nucleotide-sequence
 analyses (Bauer et al. 2001). *Tilletia* species cause diseases known as bunts
 or stinking smuts of cereals, which are among the most historically significant
 plant diseases. The common bunt of wheat was one of the first plant diseases

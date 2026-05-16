@@ -9,7 +9,7 @@ tags: [ascomycete, mycoparasite, fungicolous, toxin-producer, biocontrol]
 
 ## Description
 
-*Sesquicillium microsporum* is a fungicolous hyphomycete fungus known for its production of antifungal toxins effective against a range of test fungi. The species is one of several fungicolous fungi that produce inhibitory metabolites, placing it in the category of antibiotic-producing mycoparasites. Along with species such as *Hypomyces aurantius*, *H. orthosporus*, *Eudarluca caricis*, and others, *S. microsporum* demonstrates that toxin production is a common strategy among fungi that colonize other fungi, particularly those associated with mushroom sporocarps.
+*Sesquicillium microsporum* is a fungicolous hyphomycete fungus known for its production of antifungal toxins effective against a range of test fungi. The species is one of several [[fungicolous-fungi]] that produce inhibitory metabolites, placing it in the category of antibiotic-producing mycoparasites. Along with species such as *[[hypomyces-aurantius]]*, *H. orthosporus*, *[[eudarluca-caricis]]*, and others, *S. microsporum* demonstrates that toxin production is a common strategy among fungi that colonize other fungi, particularly those associated with mushroom sporocarps.
 
 ## Classification
 

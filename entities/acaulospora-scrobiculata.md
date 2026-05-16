@@ -12,7 +12,7 @@ type: entity
 
 ## Classification
 
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Zygomycota (Glomeromycota in modern classification)
 - **Order:** Glomales
 - **Suborder:** Glomineae
@@ -31,7 +31,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-*Acaulospora scrobiculata* is a model organism for understanding AM fungal biogeography and community ecology. Its global distribution makes it valuable for:
+*Acaulospora scrobiculata* is a model organism for understanding AM [[fungal-biogeography]] and community ecology. Its global distribution makes it valuable for:
 
 - Comparative studies of AM fungal community composition across latitudes and habitat types
 - Investigating the relationship between fungal and plant species richness

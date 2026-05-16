@@ -8,9 +8,9 @@ type: entity
 
 ## Description
 
-*Peronospora* is the largest genus of **downy mildew** fungi, comprising
+*Peronospora* is the largest genus of **[[downy-mildew]]** fungi, comprising
 approximately **260 species** of obligate biotrophic plant parasites in
-the order Peronosporales (phylum Oomycota, kingdom Straminipila). These
+the order Peronosporales (phylum Oomycota, [[kingdom-straminipila]]). These
 pathogens produce characteristic **white to gray "down"** on the
 undersides of infected leaves — microscopic treelike sporangiophores
 that protrude through stomata and give infected tissues a fuzzy
@@ -54,7 +54,7 @@ fungicide selection and disease management.
 ### Disease Symptoms
 
 - The **downlike appearance** on leaf undersides is frequently
-  accompanied by **chlorosis** (yellowing) or **necrosis** (tissue
+  accompanied by **[[chlorosis]]** (yellowing) or **necrosis** (tissue
   death) on the upper leaf surface
 - All species require **free moisture** for sporulation, which is
   restricted to periods of high relative humidity and darkness

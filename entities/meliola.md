@@ -9,7 +9,7 @@ type: entity
 ## Description
 
 *Meliola* is the largest genus of black mildew fungi, belonging to the order
-Meliolales in the phylum Ascomycota. With approximately 1,400 described species
+Meliolales in the phylum [[ascomycota]]. With approximately 1,400 described species
 (out of more than 1,580 species in the entire order Meliolales), *Meliola* is
 by far the dominant genus of black mildews. These fungi are obligate plant
 parasites that produce characteristic dark, superficial, circular colonies on
@@ -19,7 +19,7 @@ foliicolous (leaf-inhabiting) fungi known.
 
 ## Classification
 
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Ascomycota
 - **Class:** Sordariomycetes
 - **Order:** Meliolales
@@ -93,7 +93,7 @@ foliicolous (leaf-inhabiting) fungi known.
 
 - **Ecological Role:** As obligate parasites, black mildews have direct effects
   on host plants. While individual infections may not be lethal, heavy
-  infections can reduce photosynthetic efficiency and plant vigor, influencing
+  infections can reduce [[photosynthetic-efficiency]] and plant vigor, influencing
   competitive interactions between plant species in forest communities.
 
 ## References

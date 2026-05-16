@@ -16,7 +16,7 @@ The order Tremellales includes species with a dimorphic life cycle, a septal por
 
 Many Tremellales species have monokaryotic "haustorial branches" subtended by a clamp consisting of a bulbous base and a tubular appendage. The tubular appendage attaches to and/or penetrates the hyphal wall of the host fungus. The haustorium has an absorptive role, eventually leading to degeneration of the host cytoplasm.
 
-**Micropore openings** have been demonstrated in haustoria of some species (e.g., *Syzygospora*, *Phragmoxenidium*), where the pore membrane appears continuous with the plasmalemma of both cells. Somewhat larger pores are present in *Tetragoniomyces uliginosus*.
+**Micropore openings** have been demonstrated in haustoria of some species (e.g., *Syzygospora*, *Phragmoxenidium*), where the pore membrane appears continuous with the [[plasmalemma]] of both cells. Somewhat larger pores are present in *[[tetragoniomyces-uliginosus]]*.
 
 ## Tremellaceae
 
@@ -42,7 +42,7 @@ Many Tremellales species have monokaryotic "haustorial branches" subtended by a 
 
 ## Syzygosporaceae
 
-The Syzygosporaceae (synonym Carcinomycetaceae) comprise parasites on *Phanerochaete* species, *Gymnopus* species, and *Marasmius* species, often causing gall-like deformations. The genus includes species with holobasidia of various shapes, and in some species, "zygoconidia" arise from the fusion of blastoconidia thrust forward by adjacent cells.
+The Syzygosporaceae (synonym Carcinomycetaceae) comprise parasites on *[[phanerochaete]]* species, *Gymnopus* species, and *Marasmius* species, often causing gall-like deformations. The genus includes species with holobasidia of various shapes, and in some species, "zygoconidia" arise from the fusion of blastoconidia thrust forward by adjacent cells.
 
 Ginns (1986) synonymized *Syzygospora*, *Christiansenia*, and *Carcinomyces* into *Syzygospora*, recognizing nine species in three subgenera. Notable species:
 

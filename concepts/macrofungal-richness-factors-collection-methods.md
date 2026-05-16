@@ -6,7 +6,7 @@ type: concept
 
 # Macrofungal Species Richness Factors and Collection Methods
 
-Understanding the factors that drive macrofungal species richness and employing rigorous collection methods are foundational to fungal biodiversity studies. This concept page synthesizes key abiotic and biotic determinants of fungal diversity patterns alongside best practices for field collection, documentation, and preservation.
+Understanding the factors that drive macrofungal species richness and employing rigorous collection methods are foundational to [[fungal-biodiversity]] studies. This concept page synthesizes key abiotic and biotic determinants of fungal diversity patterns alongside best practices for field collection, documentation, and preservation.
 
 ## Seasonality of Fruiting
 
@@ -26,7 +26,7 @@ Unusual weather events can trigger atypical fruiting patterns. For example, summ
 
 ### Temperature and Precipitation Interactions
 
-Temperature effects on fruiting are complex and operate on extended timescales. Ohenoja (1993) documented **year-round temperature effects** on fall fruiting patterns: warm summers increased mycorrhizal sporocarp production in spruce forests but not in pine forests, demonstrating that temperature interacts with both habitat type and ecological guild. At local scales, Vogt et al. (1999) found that **precipitation is a better predictor of species richness than vegetation type** for ectomycorrhizal fungi. This underscores the primacy of moisture availability in structuring fungal fruiting communities. The substantial variation observed among sites within a single forest zone means that sampling must include **multiple sites with similar host trees** to capture representative diversity.
+Temperature effects on fruiting are complex and operate on extended timescales. Ohenoja (1993) documented **year-round temperature effects** on fall fruiting patterns: warm summers increased mycorrhizal sporocarp production in spruce forests but not in pine forests, demonstrating that temperature interacts with both habitat type and ecological guild. At local scales, Vogt et al. (1999) found that **precipitation is a better predictor of species richness than vegetation type** for [[ectomycorrhizal-fungi]]. This underscores the primacy of moisture availability in structuring fungal fruiting communities. The substantial variation observed among sites within a single forest zone means that sampling must include **multiple sites with similar host trees** to capture representative diversity.
 
 ## Vegetation as a Determinant of Fungal Diversity
 
@@ -112,7 +112,7 @@ The factors discussed above converge on several key principles for sampling desi
 - Bills, G.F., et al. (1986). Ectomycorrhizal distribution and forest type.
 - Dighton, J., et al. (1986). Ectomycorrhizal succession across stand ages.
 - Heilmann-Clausen, J. (2001). Chronosequence study of wood-decomposing fungi in Danish beech forest.
-- Hedger, J.N. (1985). Successional decomposition of leaf litter by *Marasmius* and *Lepiota*.
+- Hedger, J.N. (1985). Successional [[decomposition]] of leaf litter by *Marasmius* and *Lepiota*.
 - Lange, L. (1992). Temporal partitioning among wood-inhabiting fungi.
 - Lodge, D.J. (1995). Habitat diversity as the primary driver of fungal species richness.
 - Lodge, D.J. and Cantrell, S. (1995b). Effects of Hurricane Hugo on fungal communities in Puerto Rico.

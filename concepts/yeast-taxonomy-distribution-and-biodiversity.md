@@ -27,7 +27,7 @@ Molecular genetic methods, particularly DNA nucleotide sequence comparisons, are
 
 The definition of "yeast" has changed markedly over recent decades:
 
-- *Saccharomyces cerevisiae* and related ascomycetous species were once considered the "typical" yeast
+- *[[saccharomyces-cerevisiae]]* and related ascomycetous species were once considered the "typical" yeast
 - Banno (1967) demonstrated a basidiomycetous life cycle for *Rhodotorula*
 - Subsequent discoveries of basidiomycetous life cycles in numerous other species (Fell et al. 1969, 1973; Kwon-Chung 1975)
 
@@ -63,9 +63,9 @@ Molecular evolution analyses using ribosomal RNA (rRNA) and ribosomal DNA (rDNA)
 
 ### General Patterns
 
-Yeasts are commonly distributed throughout the biosphere (Phaff et al. 1966). Their distribution follows nutrient availability:
+Yeasts are commonly distributed throughout the biosphere (Phaff et al. 1966). Their distribution follows [[nutrient-availability]]:
 
-- **Soils**: Occasional populations of 10⁵–10⁶ colony-forming units per gram suggest actively growing cells. Some species are exclusive soil inhabitants: *Debaryomyces (Schwanniomyces) occidentalis*, *Lipomyces* species, *Schizoblastosporion starkeyi-henricii*, and certain *Cryptococcus* species
+- **Soils**: Occasional populations of 10⁵–10⁶ colony-forming units per gram suggest actively growing cells. Some species are exclusive soil inhabitants: *Debaryomyces (Schwanniomyces) occidentalis*, *[[lipomyces]]* species, *Schizoblastosporion starkeyi-henricii*, and certain *Cryptococcus* species
 - **Aquatic environments**: Populations highest in fresh waters, decreasing in marine waters with increased depth and distance from land. Open ocean densities often as low as 10 cells/g, increasing to 10³ cells/g near plankton blooms, current boundaries, surface slicks, thermoclines, or pollutants (Fell 1976)
 - **Plant materials**: The majority of yeast species are collected from fallen plant materials and other organic matter. The highest densities are associated with assimilatable sugars and carbon sources
 

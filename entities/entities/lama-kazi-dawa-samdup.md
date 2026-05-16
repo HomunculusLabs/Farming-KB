@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Lama Kazi Dawa-Samdup (1868–1922) was a Tibetan Buddhist scholar and translator who produced the first English translation of the Bardo Thodol (commonly known as "The Tibetan Book of the Dead"). His translation, edited and published by W.Y. Evans-Wentz in 1927, became the foundational text through which Western audiences — including Timothy Leary — encountered Tibetan Buddhist teachings on consciousness, death, and the intermediate state (bardo).
+Lama Kazi Dawa-Samdup (1868–1922) was a Tibetan Buddhist scholar and translator who produced the first English translation of the [[bardo-thodol]] (commonly known as "The Tibetan Book of the Dead"). His translation, edited and published by W.Y. [[evans-wentz]] in 1927, became the foundational text through which Western audiences — including [[timothy-leary]] — encountered Tibetan Buddhist teachings on consciousness, death, and the intermediate state (bardo).
 
 ## Classification
 

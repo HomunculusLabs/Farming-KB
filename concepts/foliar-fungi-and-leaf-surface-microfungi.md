@@ -24,8 +24,8 @@ conspicuous black, crusty mats on the surfaces of leaves, stems, and sometimes f
 not parasitize the plant directly; instead, they grow on **honeydew**—a sugary excretion produced
 by sap-feeding insects such as aphids, scale insects (Coccoidea), and whiteflies. The dark
 pigmentation is caused by abundant melanin in the hyphae and fruiting structures. Sooty molds can
-reduce photosynthetic efficiency by blocking sunlight, though they rarely cause direct physiological
-harm, and serve as indicators of insect activity in integrated pest management.
+reduce [[photosynthetic-efficiency]] by blocking sunlight, though they rarely cause direct physiological
+harm, and serve as indicators of insect activity in [[integrated-pest-management]].
 
 Two principal growth forms are recognized:
 
@@ -139,7 +139,7 @@ or weak pathogens:
 
 - ***Sporobolomyces***: Ballistospore-producing yeasts commonly isolated from leaf surfaces
   worldwide; frequently detected in air spore traps due to active spore discharge.
-- ***Aureobasidium pullulans***: Ubiquitous polymorphic black yeast producing pullulan, an
+- ***[[aureobasidium-pullulans]]***: Ubiquitous polymorphic black yeast producing pullulan, an
   industrially important polysaccharide; also serves as a biocontrol agent.
 - ***Alternaria***: Dematiaceous hyphomycetes causing leaf spots, blights, and allergic reactions;
   extremely common across temperate and tropical regions.

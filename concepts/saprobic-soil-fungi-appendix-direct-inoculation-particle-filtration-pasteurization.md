@@ -18,9 +18,9 @@ Soil is collected either from an exposed soil profile or from the mineral soil s
 
 A well-organized work area is essential for efficient fungal isolation and minimizes contamination risk:
 
-- **Work surfaces:** A clean bench or laminar flow hood is used for routine media pouring and seeding. A class-2 biosafety hood is required when handling foreign soils to contain potential pathogens and meet regulatory biosafety requirements.
+- **Work surfaces:** A clean bench or [[laminar-flow-hood]] is used for routine media pouring and seeding. A class-2 biosafety hood is required when handling foreign soils to contain potential pathogens and meet regulatory biosafety requirements.
 - **Incubation:** A refrigerated incubator maintains the cool temperatures (15–20°C) preferred by many soil fungi. Temperature consistency is important for reproducible isolation results.
-- **Media preparation:** Measuring and weighing equipment, an autoclave for sterilization, glassware (flasks, bottles, Petri dishes), pipettes, and peristaltic pumps for dispensing media evenly across plates.
+- **Media preparation:** Measuring and weighing equipment, an autoclave for [[sterilization]], glassware (flasks, bottles, Petri dishes), pipettes, and peristaltic pumps for dispensing media evenly across plates.
 - **Microscopy:** A bright-field compound microscope combined with a high-quality dissecting microscope (50–120× magnification). Epistage and substage lighting provide optimal illumination for observing colony morphology, hyphal characteristics, and spore features.
 - **Dissection tools:** Insect pins and hypodermic needles (26–28 gauge) are essential for hyphal tip transfers. Tools are flame-sterilized between uses; pins are disinfected by dipping in 70–95% ethanol followed by stabbing into sterile agar to cool and remove residual solvent.
 - **Ergonomics:** A comfortable workspace with adjustable seating, good lighting, and identification guides within easy reach reduces fatigue during long isolation sessions and improves accuracy.
@@ -29,7 +29,7 @@ A well-organized work area is essential for efficient fungal isolation and minim
 
 ### Drechsler's Method
 
-Drechsler's method is the simplest and most widely used direct inoculation technique. A few milligrams of fresh, finely divided soil or humus are sprinkled directly onto the surface of water agar, cornmeal agar, or carboxymethyl cellulose (CMC) agar. Plates are incubated at 15–20°C; antibacterial antibiotics may be added optionally to suppress bacterial growth.
+Drechsler's method is the simplest and most widely used direct inoculation technique. A few milligrams of fresh, finely divided soil or humus are sprinkled directly onto the surface of water agar, cornmeal agar, or carboxymethyl [[cellulose]] (CMC) agar. Plates are incubated at 15–20°C; antibacterial antibiotics may be added optionally to suppress bacterial growth.
 
 Emerging hyphal tips are transferred daily to fresh media to obtain pure cultures. Mitosporic and zygomycetous species frequently sporulate under these minimal-nutrient conditions, facilitating identification. Moist-spored conidia are picked up by touching them with a fine needle; dry-spored conidia are transferred using a needle moistened with sterile glycerol or 0.2% agar solution to ensure adhesion.
 

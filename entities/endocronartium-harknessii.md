@@ -10,7 +10,7 @@ type: entity
 
 *Endocronartium harknessii* (syn. *Peridermium harknessii*) is an autoecious rust
 fungus in the class Urediniomycetes that causes western gall rust on two- and
-three-needle hard pines. Unlike most rust fungi, *E. harknessii* completes its
+three-needle hard pines. Unlike most [[rust-fungi]], *E. harknessii* completes its
 entire life cycle on a single host plant and does not require an alternate host.
 The fungus is notable for producing conspicuous, woody, perennial galls on
 branches and stems of infected pines, most commonly lodgepole pine (*Pinus
@@ -19,8 +19,8 @@ most economically important rust diseases of pine in the region.
 
 ## Classification
 
-- **Kingdom:** Fungi
-- **Phylum:** Basidiomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[basidiomycota]]
 - **Class:** Urediniomycetes
 - **Order:** Uredinales
 - **Family:** Cronartiaceae

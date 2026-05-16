@@ -9,13 +9,13 @@ tags: [yeast, basidiomycete, lignin-degrader, forest-soil, bioremediation]
 
 ## Description
 
-*Rhodosporidium lusitaniae* (teleomorph of *Rhodotorula lusitaniae*) is a basidiomycetous yeast notable for its ability to utilize lignin-related phenolic compounds as its sole carbon source. This metabolic capability makes it ecologically significant in forest soils where lignin decomposition is a major biogeochemical process, and potentially useful in bioremediation and bioconversion applications. The species can be selectively isolated from forest soils using media containing lignin derivatives as the only carbon source.
+*Rhodosporidium lusitaniae* (teleomorph of *Rhodotorula lusitaniae*) is a basidiomycetous yeast notable for its ability to utilize lignin-related phenolic compounds as its sole carbon source. This metabolic capability makes it ecologically significant in forest soils where lignin [[decomposition]] is a major biogeochemical process, and potentially useful in bioremediation and bioconversion applications. The species can be selectively isolated from forest soils using media containing lignin derivatives as the only carbon source.
 
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
-- **Phylum:** Basidiomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[basidiomycota]]
 - **Class:** Microbotryomycetes (Urediniomycetes sensu lato)
 - **Order:** Sporidiales
 - **Genus:** *Rhodosporidium*

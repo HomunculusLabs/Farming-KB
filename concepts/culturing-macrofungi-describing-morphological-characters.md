@@ -14,19 +14,19 @@ The most common approach to culturing macrofungi is germinating spores directly 
 
 ### Spore Print Method
 
-The spore print technique exploits active spore discharge to deposit spores onto agar in a controlled pattern. Suspend the ascoma or hymenial surface near the edge of the Petri plate lid, attaching with petroleum jelly, small agar chips, or sterile water drops. Tilt the plate at a steep angle with the hymenium at the upper end—this produces a **cascading spore print** with high spore density at the upper end, decreasing toward the lower end, enabling both polyspore and single-spore isolates from the same print. Remove the source specimen as soon as spores are detected.
+The [[spore-print]] technique exploits active spore discharge to deposit spores onto agar in a controlled pattern. Suspend the ascoma or hymenial surface near the edge of the Petri plate lid, attaching with petroleum jelly, small agar chips, or sterile water drops. Tilt the plate at a steep angle with the hymenium at the upper end—this produces a **cascading spore print** with high spore density at the upper end, decreasing toward the lower end, enabling both polyspore and single-spore isolates from the same print. Remove the source specimen as soon as spores are detected.
 
 **Alternative single-spore isolation:** Rotate a horizontal Petri dish lid periodically (30 sec to 10 min intervals) for distantly spaced isolates. Identify individual spores under a dissecting microscope with an adjustable mirror (spores appear bright against a dark background), then transfer well-separated germinated spores to individual plates.
 
 ### Timing and Environmental Considerations
 
 - **8–12 hours** is usually sufficient for spore print observation, though less time may be needed for dark-spored species. Prints are viewed by turning the plate upside down and focusing through the agar.
-- **Tropical fungi:** The hymenium or ascomata must be removed within **12–24 hours** to avoid contamination by fast-growing molds such as *Fusarium* and *Trichoderma*.
+- **Tropical fungi:** The hymenium or ascomata must be removed within **12–24 hours** to avoid contamination by fast-growing molds such as *Fusarium* and *[[trichoderma]]*.
 - **Temperate and boreal fungi:** Spore discharge may require **several days to a week**.
 
 ### Barometric Pressure and Temperature
 
-Barometric pressure changes from elevation shifts of several hundred meters can cause spore drop failure (Dennis 1970); a field spore-printing setup may be needed if the lab is at a very different elevation. **Tropical basidiomycetes** refrigerated >1 hour fail to drop spores and cultures die at 5–10°C, though this cold effect is **not** observed in temperate basidiomycetes or tropical ascomycetes.
+Barometric pressure changes from elevation shifts of several hundred meters can cause spore drop failure (Dennis 1970); a field spore-printing setup may be needed if the lab is at a very different elevation. **Tropical [[basidiomycetes]]** refrigerated >1 hour fail to drop spores and cultures die at 5–10°C, though this cold effect is **not** observed in temperate basidiomycetes or tropical ascomycetes.
 
 ### Spore Viability
 

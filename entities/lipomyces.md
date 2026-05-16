@@ -14,8 +14,8 @@ tags: [yeast, ascomycete, soil-isolate, oleaginous, lipid-production]
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Saccharomycetes
 - **Order:** Saccharomycetales
 - **Family:** Lipomycetaceae
@@ -35,7 +35,7 @@ tags: [yeast, ascomycete, soil-isolate, oleaginous, lipid-production]
 ## Relevance to Cultivation and Mycology
 
 *Lipomyces* is of major interest in industrial biotechnology:
-- **Biodiesel production:** High lipid content makes it a candidate for microbial biodiesel feedstock.
+- **[[biodiesel-production]]:** High lipid content makes it a candidate for microbial biodiesel feedstock.
 - **Single-cell oil (SCO):** Production of specialty lipids for food, cosmetics, and pharmaceutical applications.
 - **Waste valorization:** Can convert lignocellulosic hydrolysates, crude glycerol (biodiesel byproduct), and other waste streams into valuable lipids.
 - **Soil ecology:** Contributes to organic matter decomposition and lipid cycling in soil ecosystems.

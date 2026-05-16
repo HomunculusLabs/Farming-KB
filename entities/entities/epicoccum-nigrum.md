@@ -10,8 +10,8 @@ Epicoccum nigrum (syn. Epicoccum purpurascens) is a ubiquitous saprotrophic fung
 
 ## Classification
 
-- **Kingdom:** Fungi
-- **Division:** Ascomycota
+- **[[kingdom-fungi]]
+- **Division:** [[ascomycota]]
 - **Class:** Dothideomycetes
 - **Order:** Pleosporales
 - **Family:** Didymellaceae
@@ -33,7 +33,7 @@ Epicoccum nigrum (syn. Epicoccum purpurascens) is a ubiquitous saprotrophic fung
 
 Epicoccum nigrum is significant in both ecological research and applied mycology:
 
-1. **Biocontrol applications:** E. nigrum produces antifungal compounds effective against Sclerotinia, Botrytis, and other pathogens, making it a candidate for integrated pest management in agriculture.
+1. **Biocontrol applications:** E. nigrum produces antifungal compounds effective against Sclerotinia, Botrytis, and other pathogens, making it a candidate for [[integrated-pest-management]] in agriculture.
 2. **Pollution bioindicator:** Its increased abundance on ozone-exposed foliage makes it useful for monitoring atmospheric pollutant effects on plant surface microbial communities.
 3. **Phylloplane ecology:** As a dominant leaf surface colonizer, E. nigrum competes with pathogenic fungi for space and resources, contributing to natural disease suppression on foliage.
 4. **Substrate versatility:** The species grows on virtually any plant-derived substrate, making it easy to culture and study in laboratory settings.

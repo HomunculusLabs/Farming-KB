@@ -6,7 +6,7 @@ type: concept
 
 # Tremellales: Mycoparasitic Jelly Fungi and Host Interactions
 
-The Tremellales (Basidiomycota, Hymenomycetes, Tremellomycetidae) represent a major lineage in which mycoparasitism is particularly widespread. The order includes genera such as Tremella, Holtermannia, Sirotrema, Trimorphomyces, Xenolachne, Bulleromyces, and probably Itersonilia, many of which contain numerous mycoparasitic species. Most or all species of the Tremellales are reported to be mycoparasites, reflecting the fundamentally parasitic nature of this group.
+The Tremellales ([[basidiomycota]], Hymenomycetes, Tremellomycetidae) represent a major lineage in which mycoparasitism is particularly widespread. The order includes genera such as Tremella, Holtermannia, Sirotrema, Trimorphomyces, Xenolachne, Bulleromyces, and probably Itersonilia, many of which contain numerous mycoparasitic species. Most or all species of the Tremellales are reported to be mycoparasites, reflecting the fundamentally parasitic nature of this group.
 
 ## Morphological Adaptations for Mycoparasitism
 
@@ -14,10 +14,10 @@ The Tremellales (Basidiomycota, Hymenomycetes, Tremellomycetidae) represent a ma
 
 Tremellalean mycoparasites possess a distinctive haustorial system adapted for penetrating host fungi. The dikaryotic somatic phase shows restricted growth, which may reflect the mycoparasitic lifestyle. Many species produce monokaryotic "haustorial branches" consisting of:
 
-- A **bulbous base** subtended by a clamp connection
+- A **bulbous base** subtended by a [[clamp-connection]]
 - A **tubular appendage** that attaches to and/or penetrates the hyphal wall of a host fungus (Bauer and Oberwinkler 1990a, 1990b; Oberwinkler and Bandoni 1981, 1982; Oberwinkler et al. 1984)
 
-The haustorium serves an absorptive role, eventually leading to the degeneration of the host cytoplasm (Oberwinkler et al. 1984). Micropore openings have been demonstrated in the haustoria of some species (Syzygospora, Phragmoxenidium), where the pore membrane appears continuous with the plasmalemma of both cells (Zugmaier et al. 1994). Somewhat larger pores are present in Tetragoniomyces uliginosus.
+The haustorium serves an absorptive role, eventually leading to the degeneration of the host cytoplasm (Oberwinkler et al. 1984). Micropore openings have been demonstrated in the haustoria of some species (Syzygospora, Phragmoxenidium), where the pore membrane appears continuous with the [[plasmalemma]] of both cells (Zugmaier et al. 1994). Somewhat larger pores are present in Tetragoniomyces uliginosus.
 
 ### Septal Pore Apparatus and Life Cycle
 

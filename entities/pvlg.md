@@ -19,7 +19,7 @@ PVLG is a permanent mounting medium widely used in mycology for preparing micros
 
 ## Key Facts
 
-- PVLG produces permanent microscope slides that can be stored for 5 years or longer without desiccation or decomposition.
+- PVLG produces permanent microscope slides that can be stored for 5 years or longer without desiccation or [[decomposition]].
 - Spores mounted in PVLG undergo plasmolysis; spore size and shape may be slightly distorted, and colorless spores often become yellow or brown over time.
 - A modified version mixing PVLG 1:1 (v/v) with Melzer's reagent is commonly used for histochemical characterization of spore walls, providing both permanent mounting and staining in one preparation.
 - The medium is viscous enough to hold spores in place but allows controlled breaking of spores under coverslip pressure to reveal internal subcellular structures (inner flexible walls, wall layers).
@@ -29,7 +29,7 @@ PVLG is a permanent mounting medium widely used in mycology for preparing micros
 
 ## Relevance to Cultivation and Mycology
 
-PVLG is indispensable for taxonomic identification of arbuscular mycorrhizal fungi (Glomales). Accurate species descriptions require examination of spore wall layers, inner flexible walls, and histochemical reactions — all of which depend on high-quality PVLG mounts. The medium is used in reference collections such as INVAM and BEG for permanent voucher specimens. For cultivators working with mycorrhizal inocula, proper slide preparation with PVLG is essential for verifying the identity of fungal symbionts and diagnosing culture contaminants.
+PVLG is indispensable for taxonomic identification of [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]] (Glomales). Accurate species descriptions require examination of spore wall layers, inner flexible walls, and histochemical reactions — all of which depend on high-quality PVLG mounts. The medium is used in reference collections such as INVAM and BEG for permanent voucher specimens. For cultivators working with mycorrhizal inocula, proper slide preparation with PVLG is essential for verifying the identity of fungal symbionts and diagnosing culture contaminants.
 
 ## Preparation Notes
 

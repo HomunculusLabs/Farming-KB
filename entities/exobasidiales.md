@@ -9,8 +9,8 @@ type: entity
 ## Description
 
 The Exobasidiales is an order of plant-parasitic basidiomycete fungi in
-the class Ustilaginomycetes (phylum Basidiomycota), closely related to
-the smut fungi. Unlike typical smuts, which produce powdery teliospore
+the class Ustilaginomycetes (phylum [[basidiomycota]]), closely related to
+the [[smut-fungi]]. Unlike typical smuts, which produce powdery teliospore
 masses in sori, Exobasidiales are characterized by **basidia that
 develop directly on the surface of infected host tissues** without
 forming enclosed fruiting bodies or sori.
@@ -23,7 +23,7 @@ longstanding taxonomic question about the relationship between these
 morphologically distinct groups.
 
 The order comprises four families, with the largest being
-Exobasidiaceae, dominated by the type genus *Exobasidium*.
+Exobasidiaceae, dominated by the type genus *[[exobasidium]]*.
 
 ## Classification
 

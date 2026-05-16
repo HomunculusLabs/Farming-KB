@@ -12,8 +12,8 @@ The order Hypocreales (Ascomycota) represents one of the most important lineages
 
 Hypocrealean mycoparasites employ diverse strategies to attack and exploit fungal hosts:
 
-- **Biotrophic contact mycoparasitism**: The parasite contacts the host via specialized structures (haustoria, appressoria) without immediately killing it, withdrawing nutrients from living host tissue. Examples include Gonatobotrys simplex, which grows on Alternaria and Cladosporium species.
-- **Necrotrophic mycoparasitism**: The parasite actively kills host tissue through enzymatic degradation and toxic metabolites before colonizing it. Trichoderma harzianum uses this strategy.
+- **Biotrophic contact mycoparasitism**: The parasite contacts the host via specialized structures (haustoria, appressoria) without immediately killing it, withdrawing nutrients from living host tissue. Examples include [[gonatobotrys-simplex]], which grows on Alternaria and Cladosporium species.
+- **Necrotrophic mycoparasitism**: The parasite actively kills host tissue through enzymatic degradation and toxic metabolites before colonizing it. [[trichoderma-harzianum]] uses this strategy.
 - **Hyphal interference**: Non-contact antagonism through production of diffusible toxic volatile compounds that cause cell vacuolization, collapse, and disintegration of host cytoplasm at a distance.
 - **Direct penetration**: Physical breaching of host cell walls, as seen in Trichoderma interactions with Lentinula edodes.
 
@@ -62,7 +62,7 @@ Mostly saprotrophic, but some species are fungicolous, particularly the Monocill
 
 Many ecologically obligate mycoparasites require specific growth factors for axenic cultivation. Mycotrophein — a mixture of tetraethyleneglycol and pentaethyleneglycol mono(nonylphenyl) ethers found in extracts of various fungal cultures — acts as a carrier of biologically active factors required by biotrophic contact mycoparasites (Gain and Barnett 1970; Calderone and Barnett 1972; Hwang et al. 1985).
 
-Species such as Gonatobotrys simplex, Hansfordia parasitica, and Stephanoma phaeosporum can be grown axenically on media supplemented with thiamine, biotin, and fungal extracts containing mycotrophein. However, some parasites like Melanospora zamiae can withdraw all required nutrients from washed host mycelium without mycotrophein (Jordan and Barnett 1978).
+Species such as Gonatobotrys simplex, [[hansfordia-parasitica]], and Stephanoma phaeosporum can be grown axenically on media supplemented with thiamine, biotin, and fungal extracts containing mycotrophein. However, some parasites like Melanospora zamiae can withdraw all required nutrients from washed host mycelium without mycotrophein (Jordan and Barnett 1978).
 
 The mutualistic relationship between Hansfordia parasitica and Graphium fuscum is particularly noteworthy: each partner produces a vitamin (pyridoxine and biotin, respectively) required by the other, and the parasitic relationship can be reversed when the host overgrows old aerial mycelium of the parasite (Shigo 1960a; Barnett 1968).
 

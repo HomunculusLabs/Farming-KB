@@ -9,12 +9,12 @@ tags: [ascomycete, mycoparasite, fusion-interface, hyphomycete, fungicolous]
 
 ## Description
 
-*Hansfordia parasitica* is a hyphomycetous fungus belonging to the fungicolous fungi — species that are consistently associated with other fungi. It is notable for exhibiting a rare "fusion" type of mycoparasite-host interface, sharing this distinction with *Gonatobotrys simplex*, *Melanospora zamiae*, and related species. In the fusion interface, micropores develop in the walls of contacting host and parasite hyphae, allowing direct cytoplasmic exchange — an unusual and scientifically significant mode of fungal-fungal interaction.
+*Hansfordia parasitica* is a hyphomycetous fungus belonging to the [[fungicolous-fungi]] — species that are consistently associated with other fungi. It is notable for exhibiting a rare "fusion" type of mycoparasite-host interface, sharing this distinction with *[[gonatobotrys-simplex]]*, *Melanospora zamiae*, and related species. In the fusion interface, micropores develop in the walls of contacting host and parasite hyphae, allowing direct cytoplasmic exchange — an unusual and scientifically significant mode of fungal-fungal interaction.
 
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Ascomycota
 - **Form-genus:** *Hansfordia*
 - **Species:** *H. parasitica*

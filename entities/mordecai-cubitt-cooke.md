@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Mordecai Cubitt Cooke (1825-1914) was a prominent English mycologist and botanist, widely regarded as one of the foremost authorities on fungi in Victorian Britain. He is cited by Julius Auboineau Palmer as one of the few English authorities on the neglected science of mycology, alongside Berkeley, Smith, Badham, and Hussey.
+Mordecai Cubitt Cooke (1825-1914) was a prominent English mycologist and botanist, widely regarded as one of the foremost authorities on fungi in Victorian Britain. He is cited by [[julius-auboineau-palmer]] as one of the few English authorities on the [[neglected-science-of-mycology]], alongside Berkeley, Smith, Badham, and Hussey.
 
 Cooke's contributions to mycology were foundational, spanning taxonomy, classification, and the popularization of fungal science through both academic and public-facing publications over a career that lasted more than five decades.
 
@@ -37,7 +37,7 @@ Palmer explicitly names Cooke as one of the few English authorities on fungi in 
 
 ## Legacy in Mycology
 
-Cooke's influence extended beyond his own publications. By establishing rigorous methods for fungal description and classification, he provided the tools that field mycologists like Palmer needed to identify species and communicate their findings accurately. His work contributed to the eventual development of field guides that made mushroom identification accessible to non-specialists. The tradition of combining scientific accuracy with public education has its roots in the approach pioneered by Cooke.
+Cooke's influence extended beyond his own publications. By establishing rigorous methods for fungal description and classification, he provided the tools that field mycologists like Palmer needed to identify species and communicate their findings accurately. His work contributed to the eventual development of field guides that made [[mushroom-identification]] accessible to non-specialists. The tradition of combining scientific accuracy with public education has its roots in the approach pioneered by Cooke.
 
 ## Relevance to Cultivation and Mycology
 

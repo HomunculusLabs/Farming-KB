@@ -14,7 +14,7 @@ Sporocarps of slime molds are colonized by specialized fungi. Most obligate myxo
 
 Two groups are distinguished:
 
-- **Parasites of calcareous Physarales**: *Gliocladium album*, *Nectriopsis violacea*, *Sesquicillium microsporum*
+- **Parasites of calcareous Physarales**: *Gliocladium album*, *Nectriopsis violacea*, *[[sesquicillium-microsporum]]*
 - **Parasites of noncalcareous myxomycetes**: *Aphanocladium album* sensu stricto, *Byssostilbe stilbigera*
 
 *Nectriopsis violacea* is found only on *Fuligo* species; *Blistum tomentosum* only on Trichiales. *Nectriopsis exigua* (anamorph *Verticillium rexianum*) is ubiquitous across all major myxomycete groups, as is *Stilbella byssiseda*.
@@ -57,7 +57,7 @@ Common colonizers of old carbonized stromata include *Polydesmia pruinosa* and *
 
 - **Hansfordia pulvinata** — destructive parasite on many dematiaceous conidial fungi, particularly *Cercospora* and *Passalora fulva* on tomato, producing the fungistatic sesquiterpene deoxyphomenone
 - **Cladosporiella cercosporicola** — parasitizes *Passalora personata* on peanut leaves
-- **Verticillium luteo-album** — highly susceptible to hyphal interference, but also antagonizes *Alternaria brassicae*, *Pleospora* species, and *Trichothecium roseum*
+- **Verticillium luteo-album** — highly susceptible to hyphal interference, but also antagonizes *Alternaria brassicae*, *Pleospora* species, and *[[trichothecium-roseum]]*
 - **Penicillium funiculosum** — smothers various fungi in culture, preventing pineapple fruit diseases
 - **Fusarium udum** — parasitizes *Aspergillus luchuensis*, producing a diffusible toxin inducing vesicular deformations
 
@@ -67,7 +67,7 @@ Common colonizers of old carbonized stromata include *Polydesmia pruinosa* and *
 
 Most colonizers are Ascomycota. *Sphaerostilbella* species grow on wood-decaying aphyllophorales; *S. aureonitens* and *Gliocladium polyporicola* are particularly common on *Stereum* species. *Hypocreopsis lichenoides* grows with *Hymenochaete tabacina*.
 
-**Destructive necrotrophic mycoparasites** of ascomycetes (e.g., *Ceratocystis*) occur among *Bjerkandera*, *Lenzites*, *Trichaptum*, *Trametes*, *Schizophyllum*, and *Pleurotus*. *Schizophyllum commune* coils around and penetrates host hyphae.
+**Destructive necrotrophic mycoparasites** of ascomycetes (e.g., *Ceratocystis*) occur among *Bjerkandera*, *Lenzites*, *Trichaptum*, *Trametes*, *Schizophyllum*, and *Pleurotus*. *[[schizophyllum-commune]]* coils around and penetrates host hyphae.
 
 ### On Polypores
 

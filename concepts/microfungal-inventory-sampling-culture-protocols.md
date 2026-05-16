@@ -49,7 +49,7 @@ Moist chamber and isolation techniques sample **distinct species assemblages** w
 
 1. Cut areas (circles or squares) of designated size from broad leaves or bark; use measured lengths of petiole, needle, or stem.
 2. Make samples as uniform as possible — for leaf tissue, include a consistent proportion of the midrib.
-3. Place samples in closed containers on a damp substrate: filter paper, paper towel, moistened sterile vermiculite, or moistened sterile sand.
+3. Place samples in closed containers on a damp substrate: filter paper, paper towel, moistened sterile [[vermiculite]], or moistened sterile sand.
 4. **Heredia (1993)** attached microfungi directly to microscope slides with double-sided adhesive tape for repeated observation without disturbing the specimen.
 5. Insecticides or molluscicides may be applied to prevent sample degradation; however, some fungi are sensitive to these chemicals.
 6. Inspect containers frequently for emerging sporulating species; correct moisture levels are critical.

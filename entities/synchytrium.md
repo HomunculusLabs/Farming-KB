@@ -20,7 +20,7 @@ potato wart disease and is an internationally regulated quarantine pathogen.
 
 ## Classification
 
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Chytridiomycota
 - **Class:** Chytridiomycetes
 - **Order:** Chytridiales
@@ -89,7 +89,7 @@ potato wart disease and is an internationally regulated quarantine pathogen.
 
 - **Gall-Forming Fungi:** The genus exemplifies the convergent evolution of gall
   formation across distantly related fungal groups (Chytridiomycota,
-  Basidiomycota, Ascomycota, Oomycota). Comparative studies of *Synchytrium*
+  [[basidiomycota]], [[ascomycota]], Oomycota). Comparative studies of *Synchytrium*
   galls with those of rust fungi and *Taphrina* provide insights into the
   mechanisms of host cell manipulation and the diverse strategies fungi use to
   modify plant growth.

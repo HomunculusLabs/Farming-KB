@@ -12,7 +12,7 @@ type: entity
 
 ## Classification
 
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Zygomycota (sensu Morton and Benny 1990)
 - **Order:** Glomales (phylogenetically placed near Archaeosporaceae)
 - **Family:** Geosiphonaceae

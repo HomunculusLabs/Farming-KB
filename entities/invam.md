@@ -20,7 +20,7 @@ INVAM is the oldest and largest centralized living germ plasm collection of arbu
 ## Key Facts
 
 - Contains more than 1,000 isolates representing 98 species across all recognized genera of Glomales
-- The routine culture host at INVAM is Sudangrass (*Sorghum sudanense*), which supports colonization by as many as 10 fungal species simultaneously
+- The routine culture host at INVAM is [[sudangrass]] (*Sorghum sudanense*), which supports colonization by as many as 10 fungal species simultaneously
 - Accepts and maintains living germ plasm deposited by researchers worldwide
 - Supervised by individuals experienced in AM fungal taxonomy and culture management
 - Provides accessions for research on taxonomy, ecology, and applied mycorrhizal science
@@ -29,7 +29,7 @@ INVAM is the oldest and largest centralized living germ plasm collection of arbu
 
 ## Relevance to Cultivation and Mycology
 
-INVAM is indispensable for cultivation and mycology research because it provides authenticated, viable inoculum of arbuscular mycorrhizal fungi. Researchers use INVAM accessions to:
+INVAM is indispensable for cultivation and mycology research because it provides authenticated, viable inoculum of [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]]. Researchers use INVAM accessions to:
 
 - Establish monospecific cultures for controlled experiments on plant–fungus interactions
 - Study the taxonomic diversity and systematic relationships of Glomales

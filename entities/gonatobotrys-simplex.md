@@ -9,13 +9,13 @@ tags: [ascomycete, mycoparasite, fusion-interface, hyphomycete, fungicolous]
 
 ## Description
 
-*Gonatobotrys simplex* is a hyphomycetous (anamorphic) fungus classified among the fungicolous fungi — species consistently associated with other fungi. It is notable for exhibiting a rare "fusion" type of mycoparasite-host interface, in which micropores develop between the walls of the parasite and host hyphae that are in contact, allowing cytoplasmic continuity. This unusual interface mechanism distinguishes *G. simplex* from the more common contact necrotrophic and invasive necrotrophic mycoparasites.
+*Gonatobotrys simplex* is a hyphomycetous (anamorphic) fungus classified among the [[fungicolous-fungi]] — species consistently associated with other fungi. It is notable for exhibiting a rare "fusion" type of mycoparasite-host interface, in which micropores develop between the walls of the parasite and host hyphae that are in contact, allowing cytoplasmic continuity. This unusual interface mechanism distinguishes *G. simplex* from the more common contact necrotrophic and invasive necrotrophic mycoparasites.
 
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Not definitively assigned (anamorphic)
 - **Form-genus:** *Gonatobotrys*
 - **Species:** *G. simplex*

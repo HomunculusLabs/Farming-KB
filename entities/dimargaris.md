@@ -9,12 +9,12 @@ tags: [zygomycete, mycoparasite, biotroph, dimargaritales, haustorial]
 
 ## Description
 
-*Dimargaris* is a genus of obligate biotrophic mycoparasitic fungi in the order Dimargaritales (Zygomycota). Along with the related genera *Dispira* and *Tieghemiomyces*, *Dimargaris* forms a distinct group of haustorial parasites that grow exclusively on Mucorales. The Dimargaritales represent one of three major lineages of zygomycete mycoparasites, alongside the Zoopagales and the Piptocephalidaceae. The genus is characterized by its specialized haustorial structures and its restriction to Mucorales hosts.
+*Dimargaris* is a genus of obligate biotrophic mycoparasitic fungi in the order Dimargaritales (Zygomycota). Along with the related genera *Dispira* and *Tieghemiomyces*, *Dimargaris* forms a distinct group of haustorial parasites that grow exclusively on Mucorales. The Dimargaritales represent one of three major lineages of zygomycete mycoparasites, alongside the Zoopagales and the [[piptocephalidaceae]]. The genus is characterized by its specialized haustorial structures and its restriction to Mucorales hosts.
 
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Zygomycota
 - **Order:** Dimargaritales
 - **Genus:** *Dimargaris*
@@ -33,7 +33,7 @@ tags: [zygomycete, mycoparasite, biotroph, dimargaritales, haustorial]
 ## Relevance to Cultivation and Mycology
 
 *Dimargaris* and the Dimargaritales contribute to our understanding of fungal community dynamics:
-- **Soil ecology:** As parasites of Mucorales, Dimargaritales influence the competitive dynamics between primary sugar fungi (Mucorales) and later-successional fungi in soil and composting systems.
+- **Soil ecology:** As parasites of Mucorales, Dimargaritales influence the competitive dynamics between primary sugar fungi (Mucorales) and later-successional fungi in soil and [[composting-systems]].
 - **Evolutionary significance:** The independent origins of mycoparasitism in at least three zygomycete lineages suggest strong selective pressure for this lifestyle, likely driven by the ecological dominance of Mucorales in early succession habitats.
 - **Mushroom cultivation:** In substrate preparation, understanding the natural enemies of Mucorales contaminants could inform biological control approaches.
 - **Taxonomic significance:** The Dimargaritales are sometimes grouped with saprotrophic fungi in an unnatural "merosporangiferous Mucorales" assemblage; molecular work is needed to clarify relationships.

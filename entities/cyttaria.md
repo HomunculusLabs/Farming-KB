@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-*Cyttaria* is a genus of parasitic discomycete fungi (Ascomycota) known
+*Cyttaria* is a genus of parasitic discomycete fungi ([[ascomycota]]) known
 exclusively from galled branches and smaller twigs of 12 south-temperate
-species of *Nothofagus* (southern beech). The genus produces distinctive,
+species of *[[nothofagus]]* (southern beech). The genus produces distinctive,
 brightly colored, subglobose to conical stromata that emerge in clusters from
 woody galls on the host tree. *Cyttaria* species are among the most visually
-conspicuous fungal parasites in the temperate forests of the Southern Hemisphere
+conspicuous [[fungal-parasites]] in the temperate forests of the Southern Hemisphere
 and have a unique coevolutionary relationship with their *Nothofagus* hosts.
 The genus is also culturally significant as one of the few directly consumed
 parasitic fungi, known as "llao-llao" in southern South America.

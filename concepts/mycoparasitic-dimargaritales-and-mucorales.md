@@ -12,7 +12,7 @@ Mycoparasitism — the parasitism of one fungus by another — is a widespread e
 
 ### Dimargaritales
 
-The order Dimargaritales is a small, exclusively mycoparasitic group within the Mucoromycotina. The principal family, **Dimargaritaceae**, encompasses genera such as *Dimargaris* and *Dispira*. These are obligate or near-obligate biotrophic mycoparasites that have been recovered almost exclusively in association with other fungi. Key species include:
+The order Dimargaritales is a small, exclusively mycoparasitic group within the Mucoromycotina. The principal family, **[[dimargaritaceae]]**, encompasses genera such as *[[dimargaris]]* and *Dispira*. These are obligate or near-obligate biotrophic mycoparasites that have been recovered almost exclusively in association with other fungi. Key species include:
 
 - ***Dispira simplex*** — parasitizes species of *Chaetomium* and *Monascus*
 - ***Dispira parvispora*** — similarly associated with *Chaetomium* and *Monascus* hosts
@@ -41,7 +41,7 @@ Additionally, the genus *Mortierella* (Mortierellales, closely related) includes
 
 Haustoria are specialized intracellular feeding structures that penetrate the host hyphal wall and establish an interface for nutrient transfer without immediately killing the host cell. Several distinct haustorial morphologies are found among these mycoparasites:
 
-- **Branched haustoria** — exhibited by *Piptocephalis lepidula* (Piptocephalidaceae), where the haustorium branches repeatedly within the host hypha to maximize the surface area for nutrient exchange.
+- **Branched haustoria** — exhibited by *[[piptocephalis]] lepidula* (Piptocephalidaceae), where the haustorium branches repeatedly within the host hypha to maximize the surface area for nutrient exchange.
 - **Extended haustorium with appressorium** — seen in *Syncephalis nodosa* (Piptocephalidaceae). The parasite first forms an appressorium (a flattened, adhesive structure) on the host surface, from which a narrow penetration peg extends, subsequently swelling into an elongated haustorium within the host lumen.
 - **Complex haustorium** — *Dimargaris cristalligena* produces an elaborate, crystalline-appearing haustorial complex within the host hypha, reflecting a highly specialized biotrophic interface.
 

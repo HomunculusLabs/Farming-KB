@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Ophiostoma polyporicola is a fungicolous fungus in the family Ophiostomataceae (Ophiostomatales, Ascomycota). The species is a specialized colonizer of polypore bracket fungi, where its ascomata are often hidden inside the pores of the host. It is one of the most characteristic fungal associates of Fomitopsis pinicola and Piptoporus betulinus, and almost always occurs together with Hypocrea pulvinata—sometimes growing directly out from its stromata. The species was described relatively recently (Constantinescu and Ryman 1989) and has since been recognized as a common but easily overlooked component of the fungicolous community on polypores.
+Ophiostoma polyporicola is a fungicolous fungus in the family Ophiostomataceae (Ophiostomatales, [[ascomycota]]). The species is a specialized colonizer of polypore bracket fungi, where its ascomata are often hidden inside the pores of the host. It is one of the most characteristic fungal associates of [[fomitopsis-pinicola]] and [[piptoporus-betulinus]], and almost always occurs together with Hypocrea pulvinata—sometimes growing directly out from its stromata. The species was described relatively recently (Constantinescu and Ryman 1989) and has since been recognized as a common but easily overlooked component of the fungicolous community on polypores.
 
 ## Classification
 

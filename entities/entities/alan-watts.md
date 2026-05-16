@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Alan Wilson Watts (1915–1973) was a British-born American philosopher, writer, and speaker known for interpreting and popularizing Eastern philosophy — particularly Zen Buddhism, Taoism, and Hindu Vedanta — for Western audiences. He was one of the most influential figures in bridging Eastern spiritual traditions and Western counterculture during the 1960s. Leary specifically recommends Watts as an author whose "powerful accounts" of psychedelic and mystical experience serve as excellent preparation for sessions.
+Alan Wilson Watts (1915–1973) was a British-born American philosopher, writer, and speaker known for interpreting and popularizing Eastern philosophy — particularly Zen Buddhism, Taoism, and Hindu Vedanta — for Western audiences. He was one of the most influential figures in bridging Eastern spiritual traditions and Western counterculture during the 1960s. Leary specifically recommends Watts as an author whose "powerful accounts" of psychedelic and [[mystical-experience]] serve as excellent preparation for sessions.
 
 ## Classification
 
@@ -33,7 +33,7 @@ Watts was an early and thoughtful advocate for the philosophical significance of
 - Argued that psychedelics could provide direct experiential access to states of consciousness described in Eastern mystical traditions
 - Distinguished between recreational use and the serious contemplative use of psychedelics as tools for philosophical inquiry
 - His writing helped legitimate the intellectual and spiritual dimensions of psychedelic experience at a time when such views were controversial
-- Leary lists Watts alongside Aldous Huxley and Gordon Wasson as authors whose accounts are "powerful" preparation for psychedelic sessions
+- Leary lists Watts alongside [[aldous-huxley]] and [[gordon-wasson]] as authors whose accounts are "powerful" preparation for psychedelic sessions
 
 ## Relevance to Cultivation and Mycology
 

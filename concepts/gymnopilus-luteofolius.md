@@ -34,7 +34,7 @@ under-reported due to its resemblance to other orange *Gymnopilus* species.
 
 ## Psychoactive Properties
 
-*G. luteofolius* is confirmed to contain the [[Gymnopilus spectabilis]]**: The most widely known neurotropic member,
+*G. luteofolius* is confirmed to contain the [[gymnopilus-spectabilis-profile|Gymnopilus spectabilis]]**: The most widely known neurotropic member,
   called the "big laughing gym." Considerably larger (caps 10–20 cm), growing
   on hardwood stumps across [[gymnopilus-purpuratus]]**: A South American species notable for its
   purplish to reddish cap coloration in young specimens. Reported from Chile,
@@ -50,7 +50,7 @@ convergent evolution driven by ecological selective pressures or an ancient
 horizontal gene transfer event. *Gymnopilus* is particularly notable because
 the genus is large (over 200 described species) yet only a small fraction are
 neurotropic. This patchwork distribution provides a valuable natural experiment
-for understanding the genetic and biochemical basis of [[Neurotropic Cortinariaceae]] for further discussion.
+for understanding the genetic and biochemical basis of neurotropic Cortinariaceae for further discussion.
 
 ## Historical Documentation
 

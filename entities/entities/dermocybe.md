@@ -10,10 +10,10 @@ Dermocybe is a genus of ectomycorrhizal basidiomycete fungi, historically treate
 
 ## Classification
 
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
+- **[[kingdom-fungi]]
+- **Division:** [[basidiomycota]]
 - **Class:** Agaricomycetes
-- **Order:** Agaricales
+- **Order:** [[agaricales]]
 - **Family:** Cortinariaceae
 - **Genus:** Dermocybe (sometimes included in Cortinarius)
 - **Ecological role:** Ectomycorrhizal symbiont

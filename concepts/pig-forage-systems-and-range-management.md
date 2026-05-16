@@ -8,14 +8,14 @@ type: concept
 
 ## Overview
 
-Pigs in permaculture are managed as integrated foraging animals rather than confined factory units. They serve multiple functions: soil cultivation through rooting, pest control in orchards, waste recycling of surplus crops, and eventual meat production. A well-designed pig system combines tree forage, root crops, ground-level greens, and protective fruits into a polycultural range that reduces external inputs and builds soil fertility over time.
+Pigs in [[permaculture]] are managed as integrated foraging animals rather than confined factory units. They serve multiple functions: soil cultivation through rooting, pest control in orchards, waste recycling of surplus crops, and eventual meat production. A well-designed pig system combines tree forage, root crops, ground-level greens, and protective fruits into a polycultural range that reduces external inputs and builds soil fertility over time.
 
 ## Forage Species Selection
 
 Pig forage is divided into several functional categories, each contributing different nutrients and serving different roles in the system:
 
 ### Trees Planted in Protected Areas
-In tropical zones, useful species include **mulberry** (*Morus* spp.), **Bunya pine** (*Araucaria bidwillii*), **fig** (*Ficus* spp.), **Inga** (*Inga edulis*), and various palms such as **Jagua palms** (*Jessenia* spp.), **Buriti palms** (*Mauritia* spp.), **Babassu palms** (*Orbignya* spp.), **Assai palm** (*Euterpe oleracea*), **oil palm** (*Elaeis guineensis*), **date palms** (*Phoenix* spp.), and **coconut** (*Cocos nucifera*).
+In tropical zones, useful species include **mulberry** (*Morus* spp.), **Bunya pine** (*Araucaria bidwillii*), **fig** (*Ficus* spp.), **Inga** (*[[inga-edulis]]*), and various palms such as **Jagua palms** (*Jessenia* spp.), **Buriti palms** (*Mauritia* spp.), **Babassu palms** (*Orbignya* spp.), **Assai palm** (*[[euterpe-oleracea]]*), **oil palm** (*Elaeis guineensis*), **date palms** (*Phoenix* spp.), and **coconut** (*Cocos nucifera*).
 
 In cooler temperate areas, the palette shifts to **mulberry**, **olive**, **Chilean wine palm** (*Jubaea spectabilis*), and **canary date palm** (*Phoenix canariensis*).
 

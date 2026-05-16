@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-Robert Gordon Wasson (1898–1986) was an American banker, amateur mycologist, and author who, along with his wife Valentina Wasson, is credited with introducing the psychedelic mushroom tradition of Mexico to the Western world. Their 1957 article in LIFE magazine and subsequent book "Mushrooms, Russia and History" documented the Mazatec mushroom velada ceremony and Wasson's own experiences with psilocybin mushrooms under the guidance of María Sabina. Leary lists Wasson as one of the authors whose "powerful accounts" serve as excellent preparation for psychedelic sessions.
+Robert Gordon Wasson (1898–1986) was an American banker, amateur mycologist, and author who, along with his wife Valentina Wasson, is credited with introducing the psychedelic mushroom tradition of Mexico to the Western world. Their 1957 article in LIFE magazine and subsequent book "Mushrooms, Russia and History" documented the [[mazatec-mushroom-velada]] ceremony and Wasson's own experiences with [[psilocybin-mushrooms]] under the guidance of María Sabina. Leary lists Wasson as one of the authors whose "powerful accounts" serve as excellent preparation for psychedelic sessions.
 
 ## Classification
 
 - **Category**: Person — Ethnomycologist / Author / Researcher
-- **Tradition**: Ethnomycology
+- **Tradition**: [[ethnomycology]]
 - **Era**: Mid 20th century
 - **Nationality**: American
 

@@ -35,11 +35,11 @@ Counts range from 24 to 155 species per host species, and these figures likely r
 
 ## Host-Specific Diversity Estimation
 
-The logic of host-specific estimation rests on two premises: (1) a large proportion of fungi are host- or substratum-specific, and (2) plant species occupy well-defined ecological niches. Together, these support the use of **plant-to-fungal species ratios** as working hypotheses for estimating global fungal diversity. Estimates must be used cautiously, especially with incomplete surveys.
+The logic of host-specific estimation rests on two premises: (1) a large proportion of fungi are host- or substratum-specific, and (2) plant species occupy well-defined ecological niches. Together, these support the use of **plant-to-fungal species ratios** as working hypotheses for estimating global [[fungal-diversity-estimates]] must be used cautiously, especially with incomplete surveys.
 
 ### Key Empirical Findings
 
-- **Frankland (1966)** conducted the most influential single study, documenting 114 fungal species in a successional sequence on *Pteridium aquilinum* rachides. This work demonstrated that even a single substratum type supports a rich and temporally dynamic fungal community.
+- **Frankland (1966)** conducted the most influential single study, documenting 114 fungal species in a successional sequence on *[[pteridium-aquilinum]]* rachides. This work demonstrated that even a single substratum type supports a rich and temporally dynamic fungal community.
 
 - **Cornejo et al. (1994)** recovered approximately **500 species** from just 6 tree species in Panama, though the methodology may not have adequately discriminated litter-inhabiting fungi from soil fungi.
 
@@ -51,7 +51,7 @@ The logic of host-specific estimation rests on two premises: (1) a large proport
 
 ### Cautionary Examples
 
-- **Bettucci and Roquebert (1995)** recovered only **38 taxa** from *Shorea robusta* litter in India — far fewer than comparable studies. This low count is attributed to **deficient methodology**: incubation at 25–35°C on high-nutrient media, which favored rapid overgrowth by ruderal saprobes (*Trichoderma*, *Gliocladium*, *Penicillium*), suppressing slower-growing specialist species.
+- **Bettucci and Roquebert (1995)** recovered only **38 taxa** from *Shorea robusta* litter in India — far fewer than comparable studies. This low count is attributed to **deficient methodology**: incubation at 25–35°C on high-nutrient media, which favored rapid overgrowth by ruderal saprobes (*[[trichoderma]]*, *Gliocladium*, *Penicillium*), suppressing slower-growing specialist species.
 
 The number of fungi per individual plant species can be quite high even with incomplete sampling. No survey to date has achieved comprehensive sampling of any host species, and methodological choices profoundly influence species recovery.
 

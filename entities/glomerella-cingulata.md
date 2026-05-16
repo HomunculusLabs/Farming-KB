@@ -8,9 +8,9 @@ type: entity
 
 ## Description
 
-*Glomerella cingulata* is a species of Ascomycota in the family
+*Glomerella cingulata* is a species of [[ascomycota]] in the family
 Phyllachoraceae and the teleomorphic (sexual) stage of the anamorphic fungus
-*Colletotrichum gloeosporioides*. Together, this species pair represents one of
+*[[colletotrichum-gloeosporioides]]*. Together, this species pair represents one of
 the most important causes of preharvest and postharvest diseases in both
 temperate and tropical regions. The anamorph *C. gloeosporioides* is the most
 common anthracnose pathogen in the tropics, causing disease on an enormous range
@@ -21,7 +21,7 @@ species and numerous subspecies of *Colletotrichum* are recognized (Sutton
 
 ## Classification
 
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Ascomycota
 - **Class:** Sordariomycetes
 - **Order:** Glomerellales

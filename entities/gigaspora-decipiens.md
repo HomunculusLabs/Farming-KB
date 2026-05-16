@@ -70,5 +70,5 @@ The question of whether AMF possess a sexual cycle is one of the most significan
 
 - Tommerup, I.C. and Sivasithamparam, K. (1990). Claimed sexual reproductive phase in G. decipiens.
 - Rosendahl, S. and Taylor, A.F.S. (1997). Genetic analysis of AMF populations — evidence for clonality.
-- Morton, J.B. et al. Chapter 15: Mutualistic Arbuscular Endomycorrhizal Fungi. In Biodiversity of Fungi.
+- Morton, J.B. et al. Chapter 15: Mutualistic Arbuscular [[endomycorrhizal-fungi]]. In Biodiversity of Fungi.
 - Bentivenga, S.P. and Morton, J.B. (1995). Developmental constraints on Gigaspora species diversity.

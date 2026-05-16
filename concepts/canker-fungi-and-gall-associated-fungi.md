@@ -10,7 +10,7 @@ Fungi associated with cankers and galls represent important groups of plant path
 
 ## Cankers
 
-A canker is a sunken necrotic lesion on a stem or branch, caused by localized death of the cambium. Cankers on the main stem may result in death of the tree by expanding to the point of girdling. They are also the point at which wood-decay fungi enter the heartwood of trees. The size and shape of cankers vary with environmental conditions (temperature, aspect), species of fungus, host response, size and age of the host, and time of infection.
+A canker is a sunken necrotic lesion on a stem or branch, caused by localized death of the cambium. Cankers on the main stem may result in death of the tree by expanding to the point of girdling. They are also the point at which [[wood-decay-fungi]] enter the heartwood of trees. The size and shape of cankers vary with environmental conditions (temperature, aspect), species of fungus, host response, size and age of the host, and time of infection.
 
 Many types of cankers are caused by facultatively parasitic ascomycetes or their anamorphs, and they become established at the site of a wound or other host stress (Sinclair et al. 1987). Cankers also are caused by obligate parasites such as rusts.
 
@@ -40,7 +40,7 @@ Cankers are observed best on deciduous trees in temperate regions in late winter
 
 ### Rust Galls
 
-Certain [[rust-fungi]] are associated with conifer galls: Endocronartium harknessii on [[pinus-contorta]] and Gymnosporangium species on Juniperus. Apiosporina morbosa is associated with Prunus galls in temperate climates. Phomopsis species cause galls on woody temperate angiosperms, as do Nectriella pironii and Sphaeropsis tumefaciens on many woody and herbaceous plants in the subtropics (Sinclair et al. 1987).
+Certain [[rust-fungi]] are associated with conifer galls: [[endocronartium-harknessii]] on [[pinus-contorta]] and Gymnosporangium species on Juniperus. Apiosporina morbosa is associated with Prunus galls in temperate climates. Phomopsis species cause galls on woody temperate angiosperms, as do Nectriella pironii and Sphaeropsis tumefaciens on many woody and herbaceous plants in the subtropics (Sinclair et al. 1987).
 
 ### Cyttaria
 
@@ -56,7 +56,7 @@ Identification of Synchytrium species is based primarily on host determination (
 
 ### Plasmodiophoromycetes
 
-The Plasmodiophoromycetes (Protoctista) comprises 15 genera of obligate endoparasites of plants, algae, aquatic protoctists, and fungi that frequently evoke gall-like symptoms. These fungi are found in soil and fresh water. Species of Ligniera and Polymyxa, found in roots and root hairs, do not cause host cell enlargement and are difficult to detect on underground parts.
+The Plasmodiophoromycetes (Protoctista) comprises 15 genera of obligate endoparasites of plants, algae, aquatic protoctists, and fungi that frequently evoke gall-like symptoms. These fungi are found in soil and fresh water. Species of Ligniera and Polymyxa, found in roots and [[root-hairs]], do not cause host cell enlargement and are difficult to detect on underground parts.
 
 These fungi are characterized by multinucleate, unwalled protoplasts that develop into sporangia or cystosori within the host. Sporangia produce motile zoospores; cystosori produce aggregates of thick-walled cysts liberated into soil upon host tissue breakdown. Members cannot be grown in culture away from their hosts.
 

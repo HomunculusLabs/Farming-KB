@@ -12,8 +12,8 @@ The Erysiphaceae, commonly known as powdery mildews, are a family of obligate pa
 
 ## Classification
 
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Leotiomycetes
 - **Order:** Erysiphales
 - **Family:** Erysiphaceae
@@ -26,7 +26,7 @@ The Erysiphaceae, commonly known as powdery mildews, are a family of obligate pa
 - No powdery mildews occur on gymnosperms, pteridophytes, or lower plants (mosses, liverworts).
 - Recognized in the field by white, dusty conidial state coating leaf and small stem surfaces.
 - Nonostiolate perithecia (cleistothecia) are ornamented with hyphal appendages (simple, hooked, branched) used for generic delimitation.
-- Hirata (1986) calculated the ratio of powdery mildew species to angiosperm species at 4.5%.
+- Hirata (1986) calculated the ratio of [[powdery-mildew]] species to angiosperm species at 4.5%.
 - North-temperate regions have far larger numbers of host species than tropical, subtropical, arctic, or subarctic regions.
 - Number of herbaceous species hosting powdery mildews (8,250) far exceeds number of tree hosts (2,645).
 - Areas of greatest abundance and damage: California and Israel, characterized by warm, rain-free summers and intensive agriculture.

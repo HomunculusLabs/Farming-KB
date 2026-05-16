@@ -23,8 +23,8 @@ composition across western and eastern North America.
 
 ## Classification
 
-- **Kingdom:** Fungi
-- **Phylum:** Basidiomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[basidiomycota]]
 - **Class:** Pucciniomycetes
 - **Order:** Pucciniales
 - **Family:** Cronartiaceae
@@ -98,7 +98,7 @@ hosts essential for the disease cycle.
   fungi** associated with five-needle pines, particularly ectomycorrhizal
   species that lose host trees
 - Mortality of white pines opens forest canopies, altering microclimate
-  conditions for wood-decay fungi, litter decomposers, and ground-
+  conditions for [[wood-decay-fungi]], litter decomposers, and ground-
   dwelling fungal communities
 - Dead and dying pines provide substrate for **heart-rot fungi** and
   **saprotrophic species** that colonize weakened or dead wood

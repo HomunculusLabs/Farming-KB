@@ -9,7 +9,7 @@ tags: [culture-collection, mycorrhizae, repository, glomales]
 
 ## Description
 
-BEG is a European culture collection and repository dedicated to the conservation, maintenance, and distribution of arbuscular mycorrhizal (AM) fungi in the order Glomales. Alongside INVAM (International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi) in the United States, BEG serves as one of the two major international reference collections for these agriculturally and ecologically vital symbiotic fungi. Researchers and cultivators can deposit authenticated isolates, request reference material for comparison, and access diagnosed species for experimental work.
+BEG is a European culture collection and repository dedicated to the conservation, maintenance, and distribution of arbuscular mycorrhizal (AM) fungi in the order Glomales. Alongside INVAM (International Culture Collection of Vesicular [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]]) in the United States, BEG serves as one of the two major international reference collections for these agriculturally and ecologically vital symbiotic fungi. Researchers and cultivators can deposit authenticated isolates, request reference material for comparison, and access diagnosed species for experimental work.
 
 ## Classification
 
@@ -39,5 +39,5 @@ For cultivators working with mycorrhizal systems, BEG provides verified inoculum
 
 ## References
 
-- Morton, J.B. et al. "Mutualistic Arbuscular Endomycorrhizal Fungi" in *Biodiversity of Fungi*
+- Morton, J.B. et al. "Mutualistic Arbuscular [[endomycorrhizal-fungi]]" in *Biodiversity of Fungi*
 - INVAM Website: https://invam.wvu.edu/

@@ -12,7 +12,7 @@ type: entity
 facultatively parasitic ascomycete and the causal agent of **chestnut
 blight**, one of the most consequential plant disease epidemics in
 history. This fungus effectively eliminated the American chestnut
-(*Castanea dentata*) as a dominant canopy tree across its native range
+(*[[castanea-dentata]]*) as a dominant canopy tree across its native range
 in eastern North America within just a few decades of its introduction.
 
 The American chestnut once comprised **30–60% of canopy stems** in some
@@ -24,8 +24,8 @@ dramatic ecological transformations caused by a single pathogen.
 
 ## Classification
 
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[ascomycota]]
 - **Class:** Sordariomycetes
 - **Order:** Diaporthales
 - **Family:** Cryphonectriaceae

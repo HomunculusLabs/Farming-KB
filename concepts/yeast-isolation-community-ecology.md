@@ -6,7 +6,7 @@ type: concept
 
 # Yeast Isolation Methods and Community Ecology
 
-Yeast isolation and characterization represent a critical intersection of mycology, microbial ecology, and molecular biology. Understanding the methods used to isolate yeasts from natural environments, the ecological context of their abundance and distribution, and the techniques for their identification is essential for surveying fungal biodiversity and discovering novel species.
+Yeast isolation and characterization represent a critical intersection of mycology, microbial ecology, and molecular biology. Understanding the methods used to isolate yeasts from natural environments, the ecological context of their abundance and distribution, and the techniques for their identification is essential for surveying [[fungal-biodiversity]] and discovering novel species.
 
 ## Isolation Media Composition
 
@@ -43,7 +43,7 @@ Media are solidified with **2–3% agar** to produce isolation plates. To suppre
 | Penicillin G | 150–500 mg/L |
 | Streptomycin sulfate | 150–500 mg/L |
 
-Penicillin G and streptomycin sulfate are often used in combination as a broad-spectrum antibacterial cocktail, while chloramphenicol provides an effective single-agent alternative.
+Penicillin G and [[streptomycin-sulfate]] are often used in combination as a broad-spectrum antibacterial cocktail, while chloramphenicol provides an effective single-agent alternative.
 
 ## Abundance and Relative Importance
 
@@ -80,7 +80,7 @@ A comprehensive yeast species description traditionally encompasses:
 - **Nitrogen source utilization:** Assimilation of nitrate, nitrite, ethylamine, and the amino acid lysine as sole nitrogen sources.
 - **Temperature ranges:** Minimum, optimum, and maximum growth temperatures.
 - **Vegetative growth morphology:** Cell shape, budding pattern, colony appearance, and pseudohyphal or hyphal formation.
-- **Sexual state:** Presence or absence of ascospores (Ascomycota) or basidiospores (Basidiomycota), including teleomorph morphology when observed.
+- **Sexual state:** Presence or absence of ascospores ([[ascomycota]]) or basidiospores (Basidiomycota), including teleomorph morphology when observed.
 
 ### Diazonium Blue-B Test
 

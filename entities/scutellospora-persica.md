@@ -24,7 +24,7 @@ Scutellospora persica is a species of arbuscular mycorrhizal fungus (AMF) in the
 ## Key Facts
 
 - **Taxonomic synonymy:** Gigaspora tuberculata (described by Neer et al. 1993) was synonymized with S. persica by Bentivenga and Morton (1995) after the original description was found to be based on parasitized spores with atypical surface ornamentation.
-- Belongs to Scutellospora, a genus with 28 described species characterized by bilayered spore walls and the production of auxiliary cells (rather than vesicles) in the mycorrhiza.
+- Belongs to Scutellospora, a genus with 28 described species characterized by bilayered spore walls and the production of auxiliary cells (rather than vesicles) in the [[mycorrhiza]].
 - Members of the suborder Gigasporineae (Scutellospora and Gigaspora) do not produce vesicles; instead, they form auxiliary cells that are transitory lipid-storage structures.
 - Spores are typically large (often >200 µm) with complex wall ornamentation.
 
@@ -44,7 +44,7 @@ Scutellospora persica is a species of arbuscular mycorrhizal fungus (AMF) in the
 
 The synonymization of Gigaspora tuberculata with Scutellospora persica carries important lessons for AMF taxonomy:
 
-1. **Parasitism effects:** Fungal parasites can alter spore morphology dramatically, creating false diagnostic characters.
+1. **Parasitism effects:** [[fungal-parasites]] can alter spore morphology dramatically, creating false diagnostic characters.
 2. **Healthy material required:** Species descriptions should be based on healthy spores from trap cultures whenever possible.
 3. **Comparative analysis needed:** Detailed comparison of spore wall development, not just surface features, is necessary for reliable species discrimination.
 4. **Revision frequency:** As more material becomes available from trap cultures, previously described species may prove to be synonyms.
@@ -67,4 +67,4 @@ The synonymization of Gigaspora tuberculata with Scutellospora persica carries i
 
 - Neer, W. et al. (1993). Original description of Gigaspora tuberculata (later synonymized).
 - Bentivenga, S.P. and Morton, J.B. (1995). Synonymy of Gigaspora tuberculata with Scutellospora persica.
-- Morton, J.B. et al. Chapter 15: Mutualistic Arbuscular Endomycorrhizal Fungi. In Biodiversity of Fungi.
+- Morton, J.B. et al. Chapter 15: Mutualistic Arbuscular [[endomycorrhizal-fungi]]. In Biodiversity of Fungi.

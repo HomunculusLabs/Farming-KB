@@ -9,12 +9,12 @@ tags: [zygomycete, obligate-mycoparasite, biotroph, haustorial, mucorales-parasi
 
 ## Description
 
-*Piptocephalis* is a genus of obligate biotrophic mycoparasitic fungi in the family Piptocephalidaceae (Zygomycota) that parasitize other members of the Mucorales. The genus forms small, nucleate haustoria that penetrate host hyphae without killing them, representing one of the most specialized biotrophic mycoparasitic relationships known among fungi. *Piptocephalis* species are entirely dependent on their hosts and cannot be maintained in axenic culture, making them challenging to study but ecologically important in soil fungal communities.
+*Piptocephalis* is a genus of obligate biotrophic mycoparasitic fungi in the family [[piptocephalidaceae]] (Zygomycota) that parasitize other members of the Mucorales. The genus forms small, nucleate haustoria that penetrate host hyphae without killing them, representing one of the most specialized biotrophic mycoparasitic relationships known among fungi. *Piptocephalis* species are entirely dependent on their hosts and cannot be maintained in axenic culture, making them challenging to study but ecologically important in soil fungal communities.
 
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Zygomycota (Zoopagales)
 - **Family:** Piptocephalidaceae
 - **Genus:** *Piptocephalis*
@@ -37,7 +37,7 @@ tags: [zygomycete, obligate-mycoparasite, biotroph, haustorial, mucorales-parasi
 - **Biocontrol potential:** Could theoretically suppress undesirable Mucorales (e.g., *Rhizopus* species causing post-harvest rots), though practical applications are limited by its obligate biotrophy.
 - **Fungal ecology:** Illustrates the complexity of fungal community interactions, where even primary decomposers (Mucorales) have their own specialized parasites.
 - **Evolutionary biology:** The biotrophic haustorial interface in *Piptocephalis* represents one of the most intimate fungal-fungal interactions and is a model for understanding the evolution of parasitism.
-- **Cultivation systems:** In mushroom cultivation, Mucorales are common early colonizers of substrate; *Piptocephalis* may naturally occur in substrates and influence the succession of fungal communities.
+- **Cultivation systems:** In [[mushroom-cultivation]], Mucorales are common early colonizers of substrate; *Piptocephalis* may naturally occur in substrates and influence the succession of fungal communities.
 
 ## References
 

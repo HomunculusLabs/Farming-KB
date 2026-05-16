@@ -47,9 +47,9 @@ Additional measures calculated from these primary variables include:
 Spore volume is the most easily measured approximation of the amount of host carbon transferred to a colonizing fungus, which converts it to cytoplasm, lipids, and cell-wall components. Volume is calculated using:
 
 - **Spherical spores** (most species): V = 4/3πr³
-- **Oblong spores** (e.g., *Scutellospora erythropa*, *S. pellucida*): V = (l × w²)/6
+- **Oblong spores** (e.g., *[[scutellospora-erythropa]]*, *S. pellucida*): V = (l × w²)/6
 
-Example comparison: A *Gigaspora gigantea* spore of 300 μm diameter has a volume of 1.4 × 10⁷ μm³, whereas a *Glomus caledonium* spore of 150 μm diameter has a volume of only 1.8 × 10⁶ μm³ — nearly an 8-fold difference.
+Example comparison: A *[[gigaspora-gigantea]]* spore of 300 μm diameter has a volume of 1.4 × 10⁷ μm³, whereas a *[[glomus-caledonium]]* spore of 150 μm diameter has a volume of only 1.8 × 10⁶ μm³ — nearly an 8-fold difference.
 
 Caveats: Spore volume is not consistently correlated with root colonization (niche occupation), season, or fungal species (Gazey et al. 1992). Estimates based on mean diameters may not reflect the actual range and distribution of sizes.
 

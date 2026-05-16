@@ -18,14 +18,14 @@ cultures.
 
 The species epithet *vastatrix* ("devastating") reflects the
 catastrophic impact it has had on coffee production worldwide. Unlike
-most rust fungi, *H. vastatrix* has a simplified life cycle and does not
+most [[rust-fungi]], *H. vastatrix* has a simplified life cycle and does not
 require an alternate host to complete its development, making it
 exceptionally efficient at spreading through coffee-growing regions.
 
 ## Classification
 
-- **Kingdom:** Fungi
-- **Phylum:** Basidiomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[basidiomycota]]
 - **Class:** Pucciniomycetes (Urediniomycetes)
 - **Order:** Pucciniales
 - **Family:** Phakopsoraceae (placement debated)

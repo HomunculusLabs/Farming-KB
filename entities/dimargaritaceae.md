@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-The Dimargaritaceae are a family of specialized biotrophic mycoparasitic fungi in the Zoopagales (Zygomycota). They are obligate parasites of other fungi, primarily Mucorales, and are characterized by sporangiophores bearing distinctive sporiferous branchlets and complex haustoria that penetrate host hyphae. The family includes the genera Dimargaris, Dispira, and Tieghemiomyces. Species of Dimargaris are among the most morphologically distinctive mycoparasites due to their crystalline cell inclusions and elaborate haustorial systems.
+The Dimargaritaceae are a family of specialized biotrophic mycoparasitic fungi in the Zoopagales (Zygomycota). They are obligate parasites of other fungi, primarily Mucorales, and are characterized by sporangiophores bearing distinctive sporiferous branchlets and complex haustoria that penetrate host hyphae. The family includes the genera [[dimargaris]], Dispira, and Tieghemiomyces. Species of Dimargaris are among the most morphologically distinctive mycoparasites due to their crystalline cell inclusions and elaborate haustorial systems.
 
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Division:** Zygomycota
 - **Class:** Zygomycetes
 - **Order:** Zoopagales
@@ -79,4 +79,4 @@ The Dimargaritaceae have unusual and specific nutritional requirements:
 
 ## Notes
 
-The Dimargaritaceae share the biotrophic mycoparasitic habit with the Piptocephalidaceae but differ in their haustorial morphology, crystalline inclusions, and inability to utilize glucose. The family is taxonomically placed in the Zoopagales, an order of predominantly parasitic fungi. Their obligate dependence on living fungal hosts makes them difficult to study but scientifically fascinating as examples of extreme nutritional specialization.
+The Dimargaritaceae share the biotrophic mycoparasitic habit with the [[piptocephalidaceae]] but differ in their haustorial morphology, crystalline inclusions, and inability to utilize glucose. The family is taxonomically placed in the Zoopagales, an order of predominantly parasitic fungi. Their obligate dependence on living fungal hosts makes them difficult to study but scientifically fascinating as examples of extreme nutritional specialization.

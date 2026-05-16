@@ -57,7 +57,7 @@ The traditional approach involves walking through an area and collecting conspic
 
 ### Plot and Transect Sampling
 
-Plot/transect sampling ensures all taxa are scrutinized, reducing the likelihood of overlooking cryptic species. In the first year, specimens may be identified only to genus, but repeated sampling over years enables species-level identification.
+Plot/transect sampling ensures all taxa are scrutinized, reducing the likelihood of overlooking [[cryptic-species]]. In the first year, specimens may be identified only to genus, but repeated sampling over years enables species-level identification.
 
 The best abundance measure for macrofungi is **plot frequency** — the number of subplots in which a taxon occurs. This reflects the minimum area occupied by the species. However, plot frequency provides only a rough estimate because multiple sporocarps may arise from one or several mycelia (Jacobson et al. 1993; Dahlberg and Stenlid 1994). The size, shape, and spacing of sampling units are all important design aspects that influence results.
 
@@ -69,7 +69,7 @@ Natural sampling units are discrete, observable substrata such as individual lea
 
 ### Arbitrary Sampling Units (Plots)
 
-Plots are arbitrary sampling units used for decomposers of litter/humus and for mycorrhizal fungi, which lack discrete substrata. Plots range from 1 m² to 1000 m² and may be square, rectangular, or circular.
+Plots are arbitrary sampling units used for decomposers of litter/humus and for [[mycorrhizal-fungi]], which lack discrete substrata. Plots range from 1 m² to 1000 m² and may be square, rectangular, or circular.
 
 **Moving plots** are relocated each sampling period. They avoid disturbance effects from repeated visits but conflate annual variation with spatial variation due to the patchy distributions of many fungi.
 
@@ -145,4 +145,4 @@ Where L is the number of species found in exactly one sample and M is the number
 
 ### Reliability Concerns
 
-Schmit et al. (1999) found that none of the current extrapolation techniques were robust for their macrofungal data, underscoring the continued need for methodological development in fungal biodiversity assessment.
+Schmit et al. (1999) found that none of the current extrapolation techniques were robust for their macrofungal data, underscoring the continued need for methodological development in [[fungal-biodiversity]] assessment.

@@ -52,7 +52,7 @@ of thick-walled resting cysts) within host cells:
 - **Tetramyxa** — cysts **united in groups of two or four**
 - **Membranosorus** — cysts of **irregular shape and size** in a single
   layer conforming to the host cell dimensions
-- **Ligniera** — found in roots and root hairs; do **not cause host
+- **Ligniera** — found in roots and [[root-hairs]]; do **not cause host
   cells to enlarge**, making them difficult to detect
 - **Polymyxa** — also found in roots and root hairs without enlargement;
   important as **vectors of plant viruses**
@@ -77,7 +77,7 @@ of thick-walled resting cysts) within host cells:
 
 ### Symptoms
 
-- **Above-ground:** Stunting, wilting, chlorosis, and discoloration of
+- **Above-ground:** Stunting, wilting, [[chlorosis]], and discoloration of
   leaves
 - **Below-ground:** Striking symptoms including **galls, lesions,
   cankers, warts, and dry rot** of roots and underground stems
@@ -103,7 +103,7 @@ of thick-walled resting cysts) within host cells:
 
 - **Clubroot** can persist in soil for **15–20 years** through resting
   spores, making crop rotation alone insufficient for control
-- In mushroom composting operations, awareness of plasmodiophorid
+- In mushroom [[composting]] operations, awareness of plasmodiophorid
   contamination is relevant when sourcing substrate materials from
   cruciferous crops
 - *Polymyxa*-transmitted viruses affect cereal crops that may be used

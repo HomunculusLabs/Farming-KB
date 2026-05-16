@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-Cladobotryum is a large anamorphic genus of mycoparasitic fungi in the Hypocreales (Ascomycota), serving as the primary anamorph (asexual stage) of the teleomorphic genus Hypomyces. Rogerson and Samuels (1993) expanded the genus to incorporate anamorphs from 12 previously separate genera, making it one of the most morphologically diverse anamorph genera among fungicolous fungi. Species of Cladobotryum are obligate or facultative mycoparasites that colonize and destroy sporocarps of aphyllophorales, agarics, and other macrofungi.
+Cladobotryum is a large anamorphic genus of mycoparasitic fungi in the Hypocreales ([[ascomycota]]), serving as the primary anamorph (asexual stage) of the teleomorphic genus Hypomyces. Rogerson and Samuels (1993) expanded the genus to incorporate anamorphs from 12 previously separate genera, making it one of the most morphologically diverse anamorph genera among [[fungicolous-fungi]]. Species of Cladobotryum are obligate or facultative mycoparasites that colonize and destroy sporocarps of aphyllophorales, agarics, and other macrofungi.
 
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Division:** Ascomycota
 - **Class:** Sordariomycetes
 - **Order:** Hypocreales

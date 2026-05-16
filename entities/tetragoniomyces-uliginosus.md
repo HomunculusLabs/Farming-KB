@@ -9,13 +9,13 @@ tags: [basidiomycete, mycoparasite, tremellales, micropore, haustorial]
 
 ## Description
 
-*Tetragoniomyces uliginosus* is a tremelloid basidiomycete fungus that parasitizes *Rhizoctonia solani*, a major plant pathogen. The species is notable for producing micropores in its haustoria — a specialized structure that creates a direct cytoplasmic connection between parasite and host. This fusion-type interface is one of the rarest categories of mycoparasite-host interaction and places *T. uliginosus* among a small group of fungi that use this unusual mechanism for nutrient acquisition from living fungal hosts.
+*Tetragoniomyces uliginosus* is a tremelloid basidiomycete fungus that parasitizes *[[rhizoctonia-solani]]*, a major plant pathogen. The species is notable for producing micropores in its haustoria — a specialized structure that creates a direct cytoplasmic connection between parasite and host. This fusion-type interface is one of the rarest categories of mycoparasite-host interaction and places *T. uliginosus* among a small group of fungi that use this unusual mechanism for nutrient acquisition from living fungal hosts.
 
 ## Classification
 
 - **Domain:** Eukarya
-- **Kingdom:** Fungi
-- **Phylum:** Basidiomycota
+- **[[kingdom-fungi]]
+- **Phylum:** [[basidiomycota]]
 - **Class:** Tremellomycetes
 - **Order:** Tremellales
 - **Genus:** *Tetragoniomyces*

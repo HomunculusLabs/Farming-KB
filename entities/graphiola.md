@@ -9,7 +9,7 @@ type: entity
 ## Description
 
 *Graphiola* is a genus of smutlike fungi in the family Graphiolaceae (order
-Exobasidiales, class Ustilaginomycetes, phylum Basidiomycota) that are
+[[exobasidiales]], class Ustilaginomycetes, phylum [[basidiomycota]]) that are
 pathogenic on palms (Arecaceae). The genus includes nine species and is the type
 genus of the Graphiolaceae, a family that is exclusively tropical and
 subtropical in distribution (Oberwinkler et al. 1982; Oberwinkler 1993).
@@ -20,7 +20,7 @@ morphology across multiple basidiomycete lineages.
 
 ## Classification
 
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Phylum:** Basidiomycota
 - **Class:** Ustilaginomycetes
 - **Order:** Exobasidiales

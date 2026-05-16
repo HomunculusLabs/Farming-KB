@@ -31,7 +31,7 @@ Wood-inhabiting macrofungi occupy substrata differing enormously in size, decay 
 
 ### Ecological Roles
 
-Wood-inhabiting fungi play critical roles in forest ecosystems: recycling lignocellulosic and mineral nutrients; softening tissues for animal habitation; facilitating mycorrhizal seedling establishment in decayed wood; serving as moisture sinks for mycorrhizal fungi in dry forests; and contributing brown-rot residues as a major soil component. Standing tree decay occurs as root-rot, butt-rot, or heart-rot (mutually exclusive), predisposing trees to windthrow or breakage. Different fungal species use quite different volumes of substratum for sporocarp production, with important implications for sampling effort.
+Wood-inhabiting fungi play critical roles in forest ecosystems: recycling lignocellulosic and mineral nutrients; softening tissues for animal habitation; facilitating mycorrhizal seedling establishment in decayed wood; serving as moisture sinks for [[mycorrhizal-fungi]] in dry forests; and contributing [[brown-rot]] residues as a major soil component. Standing tree decay occurs as root-rot, butt-rot, or heart-rot (mutually exclusive), predisposing trees to windthrow or breakage. Different fungal species use quite different volumes of substratum for sporocarp production, with important implications for sampling effort.
 
 ## Ecological and Evolutionary Questions
 
@@ -60,7 +60,7 @@ Key research questions include: species-area curves for different environments a
 
 ### Inconspicuous and Indistinguishable Species
 
-Resupinate fungi, inconspicuous basidiomycetes, and small ascomycetes are often not detectable in the field. The solution is to remove all woody substrata to the laboratory for examination (precluding resampling unless subplots are divided). Different maturity stages are hard to recognize; do not make assumptions about identity of small ascomycetes—collect all separate patches.
+Resupinate fungi, inconspicuous [[basidiomycetes]], and small ascomycetes are often not detectable in the field. The solution is to remove all woody substrata to the laboratory for examination (precluding resampling unless subplots are divided). Different maturity stages are hard to recognize; do not make assumptions about identity of small ascomycetes—collect all separate patches.
 
 ## Plot Size Guidelines
 

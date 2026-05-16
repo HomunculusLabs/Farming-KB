@@ -8,7 +8,7 @@ type: concept
 
 ## Definition and Taxonomic Scope
 
-Microfungi are defined as fungi with microscopic spore-producing structures (Hawksworth et al. 1995). They comprise an unnatural group of organisms that cuts across the classification schemes for Fungi and for the fungal-like organisms in the Protista, Chromista, and Myxomycota, some members of which previously were placed in the Fungi. The single criterion for inclusion in the group is the small size of the spore-producing structures, in contrast to the large macroscopic fruiting bodies of the macrofungi.
+Microfungi are defined as fungi with microscopic spore-producing structures (Hawksworth et al. 1995). They comprise an unnatural group of organisms that cuts across the classification schemes for Fungi and for the fungal-like organisms in the Protista, Chromista, and [[myxomycota]], some members of which previously were placed in the Fungi. The single criterion for inclusion in the group is the small size of the spore-producing structures, in contrast to the large macroscopic fruiting bodies of the macrofungi.
 
 Despite their lack of a common phylogenetic history, the microfungi are grouped together because they, or their asexual states, are collected using the same techniques. This chapter focuses on procedures and protocols used to collect microfungi that live on or in wood and plant debris.
 
@@ -16,11 +16,11 @@ Despite their lack of a common phylogenetic history, the microfungi are grouped 
 
 ### Ascomycota
 
-The Ascomycota comprise the largest division of fungi, including approximately 3,250 genera containing 32,250 recognized species (Hawksworth et al. 1995). Most ascomycetes are regarded as microfungi, and so members of this phylum account for the bulk of the group. Nevertheless, the Ascomycota includes some large-size species with macroscopic fruiting bodies, especially among the Pezizales and the Xylariales, that are collected and observed with techniques used for macrofungi.
+The [[ascomycota]] comprise the largest division of fungi, including approximately 3,250 genera containing 32,250 recognized species (Hawksworth et al. 1995). Most ascomycetes are regarded as microfungi, and so members of this phylum account for the bulk of the group. Nevertheless, the Ascomycota includes some large-size species with macroscopic fruiting bodies, especially among the Pezizales and the Xylariales, that are collected and observed with techniques used for macrofungi.
 
 ### Anamorphic Fungi (Deuteromycetes, Conidial Fungi)
 
-This unnatural group comprises around 2,600 genera and 15,000 species, characterized by mitotic rather than meiotic production of spores (conidia). Clear cytological evidence of the mode of spore production is available for only a small proportion of those species. Likewise, the number of meiosporic states that have been correlated with teleomorphs is limited. Most of those meiospores have teleomorphs in the Ascomycota; a lesser number have teleomorphs in the Basidiomycota. The majority of species in the group have no known link; those forms are presumed to be ascomycete-related.
+This unnatural group comprises around 2,600 genera and 15,000 species, characterized by mitotic rather than meiotic production of spores (conidia). Clear cytological evidence of the mode of spore production is available for only a small proportion of those species. Likewise, the number of meiosporic states that have been correlated with teleomorphs is limited. Most of those meiospores have teleomorphs in the Ascomycota; a lesser number have teleomorphs in the [[basidiomycota]]. The majority of species in the group have no known link; those forms are presumed to be ascomycete-related.
 
 ### Microscopic Basidiomycota
 

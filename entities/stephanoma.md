@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-Stephanoma is a genus of biotrophic contact mycoparasitic fungi in the Ascomycota. The genus is notable for its specialized mycoparasitic lifestyle, in which it contacts host fungi through direct physical interaction rather than producing penetrating haustoria. Stephanoma species are among the best-studied biotrophic contact parasites, alongside Gonatobotrys and Nematogonum. The genus has teleomorph connections to the Hypocreales.
+Stephanoma is a genus of biotrophic contact mycoparasitic fungi in the [[ascomycota]]. The genus is notable for its specialized mycoparasitic lifestyle, in which it contacts host fungi through direct physical interaction rather than producing penetrating haustoria. Stephanoma species are among the best-studied biotrophic contact parasites, alongside Gonatobotrys and Nematogonum. The genus has teleomorph connections to the Hypocreales.
 
 ## Classification
 
 - **Domain:** Eukaryota
-- **Kingdom:** Fungi
+- **[[kingdom-fungi]]
 - **Division:** Ascomycota
 - **Class:** Sordariomycetes
 - **Order:** Hypocreales
@@ -60,7 +60,7 @@ Stephanoma employs a biotrophic contact strategy:
 - Butler and McCain (1968) — host range and parasitic behavior
 - Rakvidhyasastra and Butler (1973) — further host studies
 - Hoch (1978) — ultrastructure of contact interactions
-- Hawksworth (1981a) — survey of fungicolous fungi
+- Hawksworth (1981a) — survey of [[fungicolous-fungi]]
 - Gain and Barnett (1970); Calderone and Barnett (1972) — nutritional requirements of biotrophic mycoparasites
 
 ## Notes
