@@ -1,5 +1,5 @@
 ---
-title: [[palmer-mushroom-vs-toadstool-terminology]] Terminology and Fungal Growth Patterns
+title: Mushroom Vs Toadstool Terminology
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

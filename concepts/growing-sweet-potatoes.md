@@ -6,7 +6,7 @@ type: concept
 
 # Growing Sweet Potatoes
 
-Sweet potatoes are a warm-climate crop that demands completely different treatment than Irish potatoes. They prefer light, well-drained soils, need warm temperatures throughout their growing season, and produce their edible tubers (technically root thickenings, not true tubers) in a spreading vine habit rather than in a compact hill. Understanding their unique requirements is essential for success.
+Sweet potatoes are a warm-climate crop that demands completely different treatment than Irish potatoes. They prefer light, well-drained soils, need warm temperatures throughout their [[extending-growing-season]], and produce their edible tubers (technically root thickenings, not true tubers) in a spreading vine habit rather than in a compact hill. Understanding their unique requirements is essential for success.
 
 ## Sweet vs. Irish Potatoes: Key Differences
 
@@ -24,9 +24,9 @@ Sweet potatoes are a warm-climate crop that demands completely different treatme
 ## Climate Requirements
 
 - Sweet potatoes need the night temperature to stop falling below 60°F (15°C) before planting
-- In most of the United States, start the nursery bed 4-6 weeks before the correct planting time
+- In most of the [[dmt-containing-plants-united-states-halpern]], start the nursery bed 4-6 weeks before the correct planting time
 - Near the equator, you may have to bed the roots in shade to sprout at the right temperature
-- In cool climates, use a soil- or sand-filled box in a bright sunny location or a germination box with bottom heat
+- In [[glasshouse-heat-management-cool-climates-mollison]], use a soil- or sand-filled box in a bright sunny location or a germination box with bottom heat
 
 ## Propagation: Growing Slips
 
@@ -93,7 +93,7 @@ The light soils that sweet potatoes prefer drain rapidly. Because of this:
 ### Fertilization
 
 - Spread a quarter to half inch (6-12 mm) layer of well-rotted manure or finished compost over their entire growing area, then dig it in
-- Alternatively, dig in a stand of overwintered legume green manure before planting
+- Alternatively, dig in a stand of overwintered legume [[coleman-mobile-greenhouse-green-manure-soil-building]] before planting
 - Sweet potatoes do well with moderate fertility — excess nitrogen produces lush vines but small roots
 
 ## Cultivation
@@ -120,7 +120,7 @@ The light soils that sweet potatoes prefer drain rapidly. Because of this:
 ## Growth Cycle
 
 1. **Establishment** (weeks 1-3): Slips root and begin growing
-2. **Vine growth** (weeks 3-8): Rapid vegetative growth
+2. **Vine growth** (weeks 3-8): Rapid [[cannabis-vegetative-growth-stage]]
 3. **Root enlargement** (weeks 8-14): Underground roots begin to thicken
 4. **Maturation** (weeks 14-20): Roots reach full size, skins toughen
 5. **Pre-harvest** (week 20+): Vines may yellow; time to harvest

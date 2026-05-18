@@ -1,5 +1,5 @@
 ---
-title: "Solomon Hybrid To Open Pollinated [[hybrid-to-op-variety-conversion-breeding-solomon]]"
+title: Solomon Hybrid To Open Pollinated Variety Conversion Breeding
 source: "gardening-when-it-counts-steve-solomon.md"
 source_author: "steve-solomon"
 tags: [gardening, seed-saving, hybrid, open-pollinated, breeding, variety-conversion, vegetable-seeds, solomon]

@@ -20,19 +20,19 @@ The conventional method is to buy 2-year-old crowns from a nursery. However, the
 ## Climate Requirements
 
 - Asparagus needs sufficient winter chilling — a few cool months will do (not necessarily freezing soil)
-- In North America, generally north of southern Georgia
+- In [[guzman-psilocybin-mushrooms-north-america]], generally north of southern Georgia
 - In Australia, anywhere south of Sydney
 - It does not do well in clay — requires well-drained soil or roots become diseased in heavy rain
 
 ### Dealing with Clay Soil
 
-If clay describes your situation and asparagus is your passion, consider making a special raised bed of sandy soil at least 1 foot (30 cm) above everything else. One gardener built a marine plywood box 4 feet (120 cm) wide and 8 feet (240 cm) long, filled with creek sand, and grew his asparagus in the raised bed during winter rains.
+If clay describes your situation and asparagus is your passion, consider making a special [[comparison-chinampas-vs-raised-bed-gardening]] of sandy soil at least 1 foot (30 cm) above everything else. One gardener built a marine plywood box 4 feet (120 cm) wide and 8 feet (240 cm) long, filled with creek sand, and grew his asparagus in the raised bed during winter rains.
 
 ## Planting
 
 ### Bed Preparation
 
-1. In early spring, prepare a 4-foot-wide (120 cm) bed as though for a high-demand crop
+1. In [[coleman-overwintered-onions-and-early-spring-crops]], prepare a 4-foot-wide (120 cm) bed as though for a high-demand crop
 2. Asparagus plants can exceed 5 feet (150 cm) high and may shade emerging crops — choose the position carefully
 3. Make an extra fertile strip down the center of the bed
 4. Spread a layer of compost 2 inches (5 cm) thick and a foot (30 cm) wide down the center
@@ -79,7 +79,7 @@ Each spring before the crowns shoot, broadcast 1/2 lb of rock salt per square ya
 
 ### Asparagus Beetle
 
-The worst insect pest — it and its larvae defoliate the ferns, reducing harvest the coming year.
+The worst [[aact-insect-pest-suppression-grubs-caterpillars-mites-ingham]] — it and its larvae defoliate the ferns, reducing harvest the coming year.
 
 - Spray with pyrethrum/rotenone every few days when beetles are active
 - **Most important prevention**: During early autumn, clip all ferns at ground level (in a manner that won't damage the crowns) and remove them from the bed
@@ -87,7 +87,7 @@ The worst insect pest — it and its larvae defoliate the ferns, reducing harves
 
 ## Varieties
 
-- Gardeners using all-male hybrid varieties have reported disease problems
+- Gardeners using all-male [[cervantes-hybrid-varieties-types]] have reported disease problems
 - Hybrids that produce the usual 50/50 mix of sexes are fine
 - **UC 157** is commonly recommended and has proved adaptable to most places
 - Unless your local agricultural expert has a strong recommendation, start with UC 157

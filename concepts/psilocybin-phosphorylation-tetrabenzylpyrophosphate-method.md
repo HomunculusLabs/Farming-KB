@@ -1,5 +1,5 @@
 ---
-title: [[psilocybin-phosphorylation-via-zwitterionic-intermediate]] Tetrabenzylpyrophosphate Method
+title: Psilocybin Phosphorylation Tetrabenzylpyrophosphate Method
 created: 2026-04-28
 tags:
   - synthesis

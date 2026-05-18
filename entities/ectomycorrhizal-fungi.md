@@ -34,16 +34,16 @@ Ectomycorrhizal (ECTO) fungi form symbiotic associations with plant roots by cre
 ## Relevance to Cultivation and Mycology
 
 - **Forestry and reforestation**: Ectomycorrhizal inoculation is essential for successful establishment of many tree seedlings, particularly in disturbed or nursery-grown stock.
-- **Edible mushroom cultivation**: Unlike saprophytic mushrooms grown on logs or substrate, ectomycorrhizal edibles (truffles, chanterelles, porcini) require living tree hosts, making their cultivation fundamentally different from standard mushroom growing.
+- **Edible mushroom cultivation**: Unlike [[growing-gourmet-saprophytic-mushrooms-decomposers]] grown on logs or substrate, ectomycorrhizal edibles (truffles, chanterelles, porcini) require living tree hosts, making their cultivation fundamentally different from standard mushroom growing.
 - **Soil building**: The massive hyphal networks of ectomycorrhizal fungi create soil structure in forest ecosystems, facilitating water retention, aeration, and organic matter decomposition.
 - **Nursery practice**: Tree nurseries should assess ectomycorrhizal colonization on seedling roots before outplanting. Colonized seedlings show dramatically improved survival and growth.
-- **Compost tea application**: Forest soils and tree plantings benefit from compost tea as a source of humic acids and microbial foods that support ectomycorrhizal function.
+- **[[compost-tea-application-and-disease-suppression]]**: Forest soils and tree plantings benefit from compost tea as a source of humic acids and microbial foods that support ectomycorrhizal function.
 - **Diagnostic assessment**: SFI's trained technicians can differentiate ectomycorrhizal colonization from VAM and ericoid colonization, enabling targeted management recommendations.
 
 ## Related Entities
 
 - VAM (Vesicular-Arbuscular Mycorrhizae)
-- Ericoid Mycorrhizae
+- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]
 - Jim Trappe (Mycorrhizal Researcher)
 - Efren Cazares (Mycorrhizal Researcher)
 - Humic Acid
@@ -65,10 +65,10 @@ Used in bioremediation, agricultural inoculants, and ecosystem restoration proje
 
 ## Identification
 
-Field identification relies on morphological characteristics including fruiting body structure, spore features, and ecological associations. Microscopic examination and molecular techniques provide definitive classification.
+Field identification relies on morphological characteristics including fruiting body structure, spore features, and ecological associations. [[fungal-microscopic-examination-mounting-media-techniques]] and molecular techniques provide definitive classification.
 ## Life Cycle
 
-Reproduction occurs through both sexual and asexual mechanisms. Spore production and dispersal enable colonization of new substrates. Environmental conditions including moisture, temperature, and nutrient availability trigger different phases of the life cycle.
+Reproduction occurs through both sexual and asexual mechanisms. Spore production and dispersal enable colonization of new substrates. Environmental conditions including moisture, temperature, [[chelation-and-nutrient-availability]] trigger different phases of the life cycle.
 
 ## Soil Interactions
 
@@ -76,7 +76,7 @@ Complex interactions with soil microorganisms, plants, and other fungi shape com
 
 ## Seasonal Patterns
 
-Activity levels fluctuate with seasonal changes in temperature and moisture. Peak activity typically occurs during moderate temperature periods with adequate soil moisture. Understanding seasonal patterns helps optimize management practices.
+Activity levels fluctuate with seasonal changes in [[mushroom-growing-temperature-and-moisture]]. Peak activity typically occurs during moderate temperature periods with adequate soil moisture. Understanding seasonal patterns helps optimize management practices.
 
 ## Conservation
 

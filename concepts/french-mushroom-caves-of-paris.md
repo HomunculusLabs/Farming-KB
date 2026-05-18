@@ -1,5 +1,5 @@
 ---
-title: [[french-mushroom-caves-and-underground-cultivation]] of Paris
+title: French Mushroom Caves Of Paris
 source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---

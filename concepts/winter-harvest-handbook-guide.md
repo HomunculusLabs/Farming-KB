@@ -1,5 +1,5 @@
 ---
-title: The [[winter-harvest-handbook-index-a-l-reference-topics]]
+title: Winter Harvest Handbook Guide
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

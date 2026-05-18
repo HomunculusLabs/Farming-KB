@@ -1,5 +1,5 @@
 ---
-title: Enoki ([[enoki-mushroom-flammulina-velutipes]]) — [[medicinal-mushroom-guide]]
+title: Medicinal Mushroom Guide Enoki
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

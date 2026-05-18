@@ -1,5 +1,5 @@
 ---
-title: DIY [[complete-organic-fertilizer-recipes]] and [[compost-tea-application-methods]]
+title: Diy Organic Fertilizer Recipes And Application Methods
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 tags: [fertilizer, recipes, organic-gardening, application, banding, broadcasting, soil-amendment]

@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - Arya, P.S. et al. (2020). "Trichosanthes cucumerina: A review on phytochemistry and pharmacology." Journal of Ethnopharmacology, 260, 112872.
-  - Rachkeeree, S. et al. (2018). "Nutritional and medicinal properties of snake gourd (Trichosanthes cucumerina)." Food Science and Nutrition, 6(1), 142-149.
+  - Rachkeeree, S. et al. (2018). "Nutritional [[ginseng-cultivation-and-medicinal-properties]] of snake gourd (Trichosanthes cucumerina)." Food Science and Nutrition, 6(1), 142-149.
   - Pandey, S. et al. (2019). "Cucurbitaceae: traditional uses, phytochemistry, and pharmacology." In: Medicinal Plants of South Asia, Elsevier.
   - PROTA (Plant Resources of Tropical Africa). "Trichosanthes cucumerina L." Record 7873.
 ---
@@ -39,7 +39,7 @@ Immature fruits are highly perishable, with a shelf life of 3–5 days at ambien
 ## Overview
 
 Trichosanthes Cucumerina represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -60,7 +60,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Trichosanthes Cucumerina finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -68,13 +68,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for trichosanthes cucumerina. Climate adaptation
+opportunities for trichosanthes cucumerina. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -89,7 +89,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 trichosanthes cucumerina and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

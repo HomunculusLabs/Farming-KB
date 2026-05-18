@@ -1,5 +1,5 @@
 ---
-title: "Bwiti Iboga Ceremonies: Ancestor Communication [[psilocybin-and-addiction-treatment]]"
+title: Metzner Bwiti Iboga Ceremonies Ancestor Communication And Addiction
 created: 2026-04-28
 tags:
   - iboga

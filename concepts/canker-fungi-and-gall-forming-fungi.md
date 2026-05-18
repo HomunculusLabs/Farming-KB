@@ -24,7 +24,7 @@ Perennial or **target cankers** are generally circular to lens-shaped with sunke
 - Pyrenomycetes such as *Nectria* and related Hypocreales (Lohman and Watson 1943; Samuels et al. 1990)
 - *Ceratocystis* and related Ophiostomatales (Wingfield et al. 1993), especially on broadleaf trees
 
-The Hypocreales include some of the most commonly encountered canker fungi on hardwood trees in temperate regions. *Nectria* species are frequently associated with target cankers on a wide range of deciduous hosts, and their brightly colored perithecia (red, orange, or pink) are often visible on the canker surface. The Ophiostomatales include important wilt pathogens such as *Ophiostoma novo-ulmi*, the causal agent of Dutch elm disease, which creates a different type of vascular canker.
+The Hypocreales include some of the most commonly encountered canker fungi on hardwood trees in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. *Nectria* species are frequently associated with target cankers on a wide range of deciduous hosts, and their brightly colored perithecia (red, orange, or pink) are often visible on the canker surface. The Ophiostomatales include important wilt pathogens such as *Ophiostoma novo-ulmi*, the causal agent of Dutch elm disease, which creates a different type of vascular canker.
 
 ### Woody Stem Diffuse Cankers
 
@@ -62,7 +62,7 @@ Certain [[rust-fungi]] are associated with galls on woody hosts:
 
 ### *Apiosporina morbosa*
 
-This fungus causes galls on *Prunus* species (plums, cherries) in temperate climates, producing rough, black, cylindrical gall formations on branches known as "black knot." The galls can girdle and kill branches, reducing fruit production and overall tree health.
+This fungus causes galls on *Prunus* species (plums, cherries) [[query-how-to-grow-and-use-oca-in-temperate-climates]], producing rough, black, cylindrical gall formations on branches known as "black knot." The galls can girdle and kill branches, reducing fruit production and overall tree health.
 
 ### *Cyttaria*
 
@@ -70,7 +70,7 @@ A parasitic discomycete known only from galled branches and smaller twigs of 12 
 
 ### *Synchytrium* (Chytridiales)
 
-A large genus of obligately biotrophic microfungi associated with galls on algae, mosses, ferns, and flowering plants. The roughly 120 species occur worldwide in tropical, temperate, and arctic regions: 106 from North America, 24 from South America, 5 from Central America, 8 from Australia and New Zealand, 16 from Africa, 56 from Europe, and 88 from Asia (Karling 1964).
+A large genus of obligately biotrophic microfungi associated with galls on algae, mosses, ferns, and flowering plants. The roughly 120 species occur worldwide in tropical, temperate, and arctic regions: 106 from [[guzman-psilocybin-mushrooms-north-america]], 24 from [[guzman-psilocybin-mushrooms-south-america]], 5 from [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], 8 from Australia and New Zealand, 16 from Africa, 56 from Europe, and 88 from Asia (Karling 1964).
 
 More than 1,350 plant species in over 800 genera and 165 families have been reported as hosts. Some species occur on only one host genus, others are limited to a single family, and one species (*S. macrosporum*) has been shown to infect more than 1,300 host species under greenhouse conditions.
 
@@ -105,7 +105,7 @@ The genera are distinguished by the organization of the cystosori in the host ce
 - *Tetramyxa* — cysts united in groups of two or four
 - *Membranosorus* — cysts of irregular shape and size in a single layer conforming to the host cell
 
-Identification requires microscopic examination of infected cells (Karling 1968). Voucher specimens should include permanent slides of infected host cells containing the cysts.
+Identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of infected cells (Karling 1968). Voucher specimens should include permanent slides of infected host cells containing the cysts.
 
 ## Related
 

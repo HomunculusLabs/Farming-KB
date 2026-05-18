@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Pioneer Species For Exhausted Tropical Soils
+title: Mollison Designers Pioneer Species For Exhausted Tropical Soils
 created: 2026-04-26
 tags:
   - permaculture

@@ -7,13 +7,13 @@ tags: [composting, soil-science, nutrient-cycling, chemistry, technique]
 
 ## Description
 
-The carbon-to-nitrogen ratio (C:N ratio) is the ratio of the mass of carbon to the mass of nitrogen in organic matter. It is the single most important chemical parameter in composting, mulching, and [[soil-food-web]] management. The ideal C:N ratio for making compost is approximately 25:1 to 30:1. This ratio determines how quickly organic materials decompose, which microbial communities dominate, and whether nitrogen becomes available to plants or is temporarily immobilized by microbes. Understanding and manipulating the C:N ratio is fundamental to [[the-soil-food-web]] gardening approach.
+The carbon-to-nitrogen ratio (C:N ratio) is the ratio of the mass of carbon to the mass of nitrogen in organic matter. It is the single most important chemical parameter in composting, mulching, and [[soil-food-web]] management. The ideal C:N ratio for making compost is approximately 25:1 to 30:1. This ratio determines how quickly organic materials decompose, which [[cannabis-rhizosphere-microbial-communities]] dominate, and whether nitrogen becomes available to plants or is temporarily immobilized by microbes. Understanding and manipulating the C:N ratio is fundamental to [[the-soil-food-web]] gardening approach.
 
 ## Classification
 
 - **Type:** Chemical ratio / soil science parameter
 - **Units:** Dimensionless (mass ratio)
-- **Related concepts:** Nitrogen immobilization, nitrogen mineralization, C:N of organic materials
+- **Related concepts:** Nitrogen immobilization, [[fungal-nitrogen-mineralization-pathways]], C:N of organic materials
 - **Discipline:** Soil science, agronomy, composting science
 
 ## Key Facts
@@ -64,9 +64,9 @@ This higher-nitrogen mix favors rapid bacterial growth and produces bacterially 
 
 The C:N ratio governs the entire soil food web's nutrient cycling:
 
-1. **Microbial decomposition:** Bacteria and fungi consume organic matter primarily for carbon (energy) but also need nitrogen (for proteins and enzymes). The C:N ratio of their food source determines microbial growth rates and community composition.
+1. **Microbial decomposition:** Bacteria and fungi consume organic matter primarily for carbon (energy) but also need nitrogen (for proteins and enzymes). The C:N ratio of their food source determines microbial growth rates and [[core-endorhiza-bacterial-community-composition-cannabis]].
 
-2. **Nitrogen cycling:** When bacteria and fungi with a high C:N body ratio consume organic matter, they retain nitrogen in their biomass. When protozoa and nematodes eat these microbes, they release excess nitrogen as ammonium (NH4+), which plants can absorb.
+2. **Nitrogen cycling:** When bacteria and fungi with a high C:N body ratio consume organic matter, they retain nitrogen in their biomass. When [[teaming-with-microbes-protozoa-and-nematodes]] eat these microbes, they release excess nitrogen as ammonium (NH4+), which plants can absorb.
 
 3. **Fungal vs. bacterial dominance:** High C:N materials (brown, woody) favor fungi, which can break down complex carbon compounds. Low C:N materials (green, fresh) favor bacteria, which thrive on simple sugars and abundant nitrogen.
 
@@ -76,7 +76,7 @@ The C:N ratio governs the entire soil food web's nutrient cycling:
 
 - **[[mushroom-substrate-formulation]]:** The C:N ratio of mushroom substrates must be carefully controlled. Different species have different optimal ratios. Wood-loving species (Shiitake, Oyster) prefer high C:N substrates like sawdust supplemented with modest nitrogen sources.
 
-- **Compost for mushroom cultivation:** Agaricus and other compost-grown mushrooms require substrates with carefully managed C:N ratios throughout the composting process. The initial mix, composting phases, and final substrate all have target ratios.
+- **Compost [[grass-seed-substrate-for-mushroom-cultivation]]:** Agaricus and other compost-grown mushrooms require substrates with carefully managed C:N ratios throughout the composting process. The initial mix, composting phases, and final substrate all have target ratios.
 
 - **Nitrogen availability:** Understanding C:N ratios prevents nitrogen immobilization in garden beds and mushroom beds, which can stunt plant growth or slow mycelial colonization.
 
@@ -84,5 +84,5 @@ The C:N ratio governs the entire soil food web's nutrient cycling:
 
 ## References
 
-- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web*. Chapters 15 (Compost) and 16 (Mulch).
+- Lowenfels, J. & Lewis, W. *[[teaming-with-microbes-actinomycetes]]: The Organic Gardener's Guide to the Soil Food Web*. Chapters 15 (Compost) and 16 (Mulch).
 - The C:N ratio is discussed extensively in the context of composting recipes, mulch application, and nitrogen immobilization at the soil-mulch interface.

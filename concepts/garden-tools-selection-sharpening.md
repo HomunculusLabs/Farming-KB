@@ -1,5 +1,5 @@
 ---
-title: [[garden-tool-selection-sharpening-solomon]] and Sharpening
+title: Garden Tools Selection Sharpening
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

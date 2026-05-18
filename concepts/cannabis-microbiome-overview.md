@@ -54,7 +54,7 @@ Three sample types were collected from each plant to capture the full soil-to-ro
 
 2. **Rhizosphere:** Soil particles that remain adhered to the root surface after gentle shaking. This zone is directly influenced by root exudates and represents the interface where plants actively recruit and shape microbial communities.
 
-3. **Bulk Soil:** Soil collected 10 cm from the stem at a depth of 20 cm. This serves as a baseline reference for the native soil microbial community, minimally influenced by the plant.
+3. **Bulk Soil:** Soil collected 10 cm from the stem at a depth of 20 cm. This serves as a baseline reference for the native [[edaphic-factors-soil-microbial-community-structure]], minimally influenced by the plant.
 
 This three-compartment approach is standard in plant microbiome studies and enables researchers to track how microbial diversity and composition shift across the root-soil interface.
 
@@ -81,7 +81,7 @@ DNA was isolated using the **MoBio PowerSoil DNA Isolation Kit** with a **65°C 
 
 ### Cultivar Effects Are Endorhiza-Specific
 
-- Strain-level differences in microbial communities were **only significant within the endorhiza** (weighted UniFrac R² = 0.59, p = 0.004). This is a remarkably high R² value, indicating that nearly 60% of the variation in endorhiza community structure was explained by cultivar identity alone.
+- Strain-level differences in microbial communities were **only significant within the endorhiza** ([[cannabis-weighted-unifrac-strain-abundance-vs-presence-absence]] R² = 0.59, p = 0.004). This is a remarkably high R² value, indicating that nearly 60% of the variation in [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] was explained by cultivar identity alone.
 - No significant cultivar effects were observed in the rhizosphere or bulk soil, underscoring that the plant's genotype-dependent selection operates primarily at the root interior.
 
 ### Methylophilus as a Discriminant Taxon
@@ -92,7 +92,7 @@ The genus *Methylophilus* (a methylotrophic bacterium capable of metabolizing si
 - **Burmese:** 0.13% relative abundance (100-fold lower)
 - **Sour Diesel:** Completely absent
 
-This striking differential abundance pattern made *Methylophilus* a key contributor to the observed strain-level differences and raised interesting questions about whether root exudate chemistry varies systematically among cultivars.
+This striking [[otu-differential-abundance-cannabis-microbiome]] pattern made *Methylophilus* a key contributor to the observed strain-level differences and raised interesting questions about whether root exudate chemistry varies systematically among cultivars.
 
 ### Core Endorhiza Community
 
@@ -102,7 +102,7 @@ Despite cultivar-specific differences, a set of taxa were consistently found acr
 - **Cellvibrio** — cellulolytic bacteria that may assist in organic matter decomposition around roots.
 - **Oxalobacteraceae** — a family commonly associated with the rhizosphere of diverse plant species.
 - **Xanthomonadaceae** — a family with both plant-associated and free-living members.
-- **Actinomycetales** — an order of high-GC Gram-positive bacteria known for producing bioactive secondary metabolites.
+- **Actinomycetales** — an order of high-GC Gram-positive bacteria known for producing bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]].
 - **Sphingobacteriales** — an order of environmental bacteria found in soil and root environments.
 
 ## The Two-Tier Selection Model
@@ -146,5 +146,5 @@ This study established several foundational principles for Cannabis microbiome s
 
 - [[cannabis-microbiome-cultivar-specificity]] — Detailed results and Experiment 2 findings
 - endorhiza vs rhizosphere — Comparison of root-associated microbial compartments
-- [[two-tier-selection-model]] — Theoretical framework for plant microbiome assembly
+- [[two-tier-selection-model]] — Theoretical framework for [[two-tier-selection-model-plant-microbiome-assembly]]
 - methylophilus cannabis — Role of methylotrophic bacteria in Cannabis roots

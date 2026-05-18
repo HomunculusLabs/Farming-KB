@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-food-gods-stoned-ape-hypothesis]]
+title: Stoned Ape Hypothesis
 aliases: [McKenna stoned ape, psychedelic primate evolution, hallucinogen hypothesis]
 tags: [anthropology, evolution, psychedelics, consciousness, mycology]
 created: 2026-05-10

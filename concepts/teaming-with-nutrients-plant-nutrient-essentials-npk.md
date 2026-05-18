@@ -1,5 +1,5 @@
 ---
-title: "Plant [[teaming-with-nutrients-availability-factors]] plant nutrient essentials npk: NPK"
+title: Teaming With Nutrients Plant Nutrient Essentials Npk
 created: "2026-04-24"
 updated: "2026-04-24"
 type: concept

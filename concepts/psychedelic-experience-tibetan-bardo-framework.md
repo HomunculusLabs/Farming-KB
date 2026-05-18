@@ -1,5 +1,5 @@
 ---
-title: The [[leary-psychedelic-experience-bardo-mapping]] - Tibetan Bardo Framework
+title: Psychedelic Experience Tibetan Bardo Framework
 source: leary-t-the-psychedelic-experience.md
 type: concept
 ---

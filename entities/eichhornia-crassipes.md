@@ -25,13 +25,13 @@ Despite its reputation as an ecological menace, water hyacinth has significant p
 
 ## Ecology and Invasive Impact
 
-Dense water hyacinth mats can cover entire water surfaces, blocking sunlight and reducing [[comparison-constructed-wetlands-vs-bioswales]] and sewage treatment systems. Harvested contaminated biomass requires proper disposal to prevent toxin reintroduction.
+Dense water hyacinth mats can cover entire water surfaces, blocking sunlight and reducing [[comparison-constructed-wetlands-vs-bioswales]] and [[biological-sewage-treatment-systems]]. Harvested contaminated biomass requires proper disposal to prevent toxin reintroduction.
 
 **Bioenergy production** from water hyacinth biomass has been extensively studied. The plant can be converted to biogas through [[biogas-digester-basics]] (yielding 200–300 L biogas per kg dry matter), bioethanol through fermentation, or briquettes through densification.
 
 The plant has been investigated for **biofuel production** including biodiesel from seed oil (seeds contain 20–25% oil) and bioethanol from carbohydrate-rich vegetative tissue. These applications remain largely at pilot scale.
 
-In agricultural applications, composted water hyacinth provides nutrient-rich organic amendment. The plant has been used as mulch, [[green-manure]], and livestock fodder (after wilting to reduce oxalate content).
+In [[chamovitz-photoperiodism-agricultural-applications]], composted water hyacinth provides nutrient-rich organic amendment. The plant has been used as mulch, [[green-manure]], and livestock fodder (after wilting to reduce oxalate content).
 
 Fiber from the plant stem has been used for papermaking, rope, and basketry. Handicraft industries using dried water hyacinth stems provide income in communities affected by infestations.
 
@@ -40,7 +40,7 @@ In Thailand, Vietnam, and the Philippines, water hyacinth-based handicrafts have
 ## Overview
 
 Eichhornia Crassipes represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -61,7 +61,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Eichhornia Crassipes finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -69,7 +69,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -90,7 +90,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 eichhornia crassipes and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

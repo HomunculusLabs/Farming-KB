@@ -1,5 +1,5 @@
 ---
-title: Manure [[composting-methods-comparison]]
+title: Manure Composting Methods
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

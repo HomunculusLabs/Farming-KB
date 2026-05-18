@@ -1,5 +1,5 @@
 ---
-title: Classification of Edible and [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]] Families
+title: Classification Of Edible And Poisonous Mushroom Families
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

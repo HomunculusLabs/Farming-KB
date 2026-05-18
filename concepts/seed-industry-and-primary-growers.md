@@ -1,5 +1,5 @@
 ---
-title: The [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem|Seed]] Industry and Primary Growers
+title: Seed Industry And Primary Growers
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

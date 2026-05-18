@@ -1,5 +1,5 @@
 ---
-title: "comparison biological nitrogen fixation vs synthetic fertilizer Fixation vs Synthetic Nitrogen Fertilizer"
+title: Comparison Biological Nitrogen Fixation Vs Synthetic Fertilizer
 created: 2026-04-28
 tags: nitrogen, fertilizers, soil-health, sustainability, legumes, haber-bosch
 date: 2026-04-28
@@ -42,7 +42,7 @@ is abundant, nodulation is suppressed, preventing wasteful over-fixation.
 **Synthetic Nitrogen Fertilizers** are manufactured through the Haber-Bosch process, which
 combines atmospheric N₂ with hydrogen (from natural gas via steam methane reforming) at
 temperatures of 400–500 °C and pressures of 150–300 atm over an iron-based catalyst. The
-resulting ammonia is further processed into urea, ammonium nitrate, ammonium sulfate,
+resulting ammonia is further processed into urea, [[plant-available-nitrogen-ammonium-nitrate]], ammonium sulfate,
 calcium ammonium nitrate, or UAN (urea-ammonium nitrate) solutions for agricultural
 application. Modern facilities achieve remarkable thermodynamic efficiency, yet the
 process remains the single largest consumer of fossil energy in agriculture.
@@ -60,7 +60,7 @@ process remains the single largest consumer of fossil energy in agriculture.
 | Residual soil N contribution | High (root/nodule turnover) | Low (rapid uptake or loss) |
 
 BNF delivers nitrogen directly to the host plant, resulting in high uptake efficiency.
-Synthetic fertilizers are susceptible to volatilization (as NH₃), leaching (as NO₃⁻),
+[[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] are susceptible to volatilization (as NH₃), leaching (as NO₃⁻),
 and denitrification losses — especially in wet or warm conditions. Enhanced-efficiency
 formulations (controlled-release, nitrification inhibitors) can help but add cost.
 
@@ -72,7 +72,7 @@ the high-temperature reaction. Including downstream manufacturing and field emis
 the lifecycle footprint of synthetic N is considerably larger. BNF, powered entirely by
 photosynthate, is effectively carbon-neutral and can be carbon-negative when legumes
 build soil [[root-exudates]], nodule turnover, and biomass incorporation. They
-support diverse microbial communities, improve soil aggregation and water infiltration,
+support diverse [[cannabis-rhizosphere-microbial-communities]], improve soil aggregation and water infiltration,
 and enhance [[mushroom-compost]], hairy vetch, field peas, cowpeas) add both nitrogen and substantial
 carbon to the soil profile.
 
@@ -97,7 +97,7 @@ crops, representing an opportunity cost. In systems where legumes are already ca
 - Cover-crop programs for soil building between cash crops
 - Low-input and subsistence farming where fertilizer access is limited
 - Agroforestry systems incorporating N-fixing trees (*Gliricidia, Leucaena, Acacia*)
-- Organic certification programs restricting synthetic inputs
+- [[fukuoka-critique-organic-certification]] programs restricting synthetic inputs
 - [[cover-crops]], reserving synthetic
 applications for targeted supplementation when genuine deficits arise. As climate
 pressure intensifies and fossil energy costs rise, transitioning toward BNF-dominant

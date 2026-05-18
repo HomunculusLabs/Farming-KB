@@ -30,7 +30,7 @@ sources:
 ## Overview
 
 *Entoloma abortivum*, commonly known as the aborted entoloma or shrimp of
-the woods, is an [[armillaria-mellea-entity]]*
+the woods, is an [[armillaria-mellea]]*
 (honey fungus), which causes some [[polypore-fungi-eastern-north-america]] and parts of
 Europe, fruiting from late summer through autumn.
 

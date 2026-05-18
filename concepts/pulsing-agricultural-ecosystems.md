@@ -1,5 +1,5 @@
 ---
-title: Pulsing [[fungi-grassland-agricultural-ecosystems-dighton]]
+title: Pulsing Agricultural Ecosystems
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---

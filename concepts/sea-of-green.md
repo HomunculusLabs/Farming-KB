@@ -5,7 +5,7 @@ updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/marijuana-horticulture-cervantes.md
-  - "Cervantes - [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]"
+  - "Cervantes - marijuana-horticulture-cervantes-artificial-lighting-and-electricity"
 type: concept
 tags: [reference]
 ---
@@ -78,3 +78,43 @@ Cervantes describes a practical perpetual harvest model:
 - A vegetative/cloning room about a quarter the size of the flowering room
 - Two clones taken every four days, one ripe female harvested every other day
 - 30 flowering clones on a 91-day schedule at any given time
+## Cultivation Methods
+
+Cannabis cultivation varies by scale, environment, and end product.
+Indoor methods like Sea of Green maximize yield per square foot.
+Screen of Green trains plants horizontally using trellis nets.
+Outdoor cultivation leverages natural sunlight but requires pest
+management and weather protection. Organic living soil methods
+build microbial communities supporting terpene production.
+
+## Quality Factors
+
+Cannabinoid and terpene profiles define quality and effects.
+Light spectrum, temperature, nutrients, and harvest timing
+influence secondary metabolite production. Proper drying and
+curing preserves terpenes while converting THCA. Testing for
+potency and contaminants ensures consumer safety.
+
+## Emerging Research
+
+Cannabis research has expanded significantly with legalization
+trends worldwide. The endocannabinoid system mediates effects
+through CB1 and CB2 receptors throughout the body. Studies
+investigate therapeutic applications for chronic pain, epilepsy,
+multiple sclerosis, and inflammatory conditions. Entourage effect
+research examines synergistic interactions between cannabinoids
+and terpenes. Genetic mapping and marker-assisted breeding
+accelerate development of targeted cultivars.
+
+Ongoing regulatory evolution continues to shape cultivation practices
+and market structures across legal jurisdictions.
+
+The SOG methodology remains one of the most space-efficient indoor cultivation approaches available.
+
+## See Also
+
+- [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
+- [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
+- [[2-ag-endocannabinoid-signaling-blesching]]
+- [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
+- [[actinobacteria-enrichment-cannabis-endorhiza]]

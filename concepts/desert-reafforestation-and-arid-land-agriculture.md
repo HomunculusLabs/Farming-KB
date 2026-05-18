@@ -1,5 +1,5 @@
 ---
-title: [[desert-reafforestation-strategies]] and Arid Land Agriculture
+title: Desert Reafforestation And Arid Land Agriculture
 source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---

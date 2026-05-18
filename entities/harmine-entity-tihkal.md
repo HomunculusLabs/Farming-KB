@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # Harmine (7-Methoxy-beta-Carboline)
 
-TIHKAL entry #14. A [[beta-carboline]] alkaloid and monoamine oxidase inhibitor found in [[golden-guide-syrian-rue-and-maoi-plants]]) and Banisteriopsis caapi (ayahuasca). Once known as "banisterine" or "telepathine," harmine was briefly celebrated as a wonder drug for Parkinson's disease in the late 1920s before falling out of favor. It is a more effective facilitator of oral DMT activity than harmaline, as it is substantially without action at effective MAOI doses.
+TIHKAL entry #14. A [[beta-carboline]] alkaloid and monoamine oxidase inhibitor found in [[golden-guide-syrian-rue-and-maoi-plants]]) [[ayahuasca-and-banisteriopsis-caapi]] (ayahuasca). Once known as "banisterine" or "telepathine," harmine was briefly celebrated as a wonder drug for Parkinson's disease in the late 1920s before falling out of favor. It is a more effective facilitator of oral DMT activity than harmaline, as it is substantially without action at effective MAOI doses.
 
 ## Chemical Names
 
@@ -48,13 +48,13 @@ Unknown for own effects (reported effects brief). DMT potentiation lasts 1–3 h
 - **140–190 mg harmine + 35–40 mg DMT**: Produced unmistakable effects lasting 1–3 hours.
 - **120–140 mg harmine + 30 mg DMT**: No signs of central activity at all.
 
-The threshold for effective DMT potentiation is narrow: 140-190 mg works, but 120-140 mg does not. This suggests that MAO inhibition must reach a critical threshold before oral DMT becomes bioavailable.
+The threshold for effective DMT potentiation is narrow: 140-190 mg works, but 120-140 mg does not. This suggests that [[ayahuasca-chemistry-mao-inhibition-synergy]] must reach a critical threshold before oral DMT becomes bioavailable.
 
 ## The Banisterine Story — Wonder Drug of 1928
 
 The medical history of harmine is one of the most dramatic in psychopharmacology:
 
-**Discovery**: Louis Lewin (of Phantastica fame) first suggested banisterine for nervous system diseases.
+**Discovery**: [[louis-lewin]] (of Phantastica fame) first suggested banisterine for nervous system diseases.
 
 **Clinical success**: Kurt Beringer ran the first clinical study in 1928 on 15 postencephalitic Parkinson's patients. Initial doses of 20-40 mg i.m. produced less motor rigidity and easier movement within 15 minutes. Even oral doses of 10 mg thrice daily showed remarkable responses — tremor diminished in some, exaggerated in others, but mental status brightened without producing "psychic" effects. Banisterine became the "wonder drug of the year."
 
@@ -83,5 +83,5 @@ Harmine is prepared by oxidative dehydrogenation of harmaline: harmaline HCl is 
 
 ## See Also
 
-- [[banisteriopsis-caapi]] — the ayahuasca vine, primary natural source of harmine
+- [[banisteriopsis-caapi]] — the [[banisteriopsis-ayahuasca-vine]], primary natural source of harmine
 - [[harm-reduction-guide]] — dietary restrictions required with MAOIs

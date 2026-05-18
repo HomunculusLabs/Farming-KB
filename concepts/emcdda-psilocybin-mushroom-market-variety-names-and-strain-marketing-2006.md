@@ -1,5 +1,5 @@
 ---
-title: "[[emcdda-psilocybin-mushroom-dose-and-effects]] Market Variety Names And Strain Marketing 2006"
+title: Emcdda Psilocybin Mushroom Market Variety Names And Strain Marketing 2006
 source: "carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper)"
 extracted: 2026-05-11
 type: concept

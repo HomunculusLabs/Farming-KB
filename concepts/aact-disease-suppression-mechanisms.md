@@ -1,5 +1,5 @@
 ---
-title: AACT [[compost-tea-disease-suppression-mechanisms]]
+title: Aact Disease Suppression Mechanisms
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---

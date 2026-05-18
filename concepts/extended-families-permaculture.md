@@ -79,12 +79,12 @@ The permaculture vision for extended families creates a web of multi-racial, mul
 
 ## Practical Applications
 Understanding this concept enables better integration of sustainable
-practices into land management and ecological design systems.
+practices into land [[weed-management-and-ecological-weed-control]] design systems.
 
 ## Ecological Context
-This topic relates to broader patterns of natural resource management,
-biodiversity conservation, and sustainable food production systems.
+This topic relates to broader patterns of natural [[savory-holistic-resource-management-animal-impact]],
+[[fungal-biodiversity-conservation-status]], and sustainable food production systems.
 
 ## Design Considerations
-Key factors include site-specific conditions, climate adaptation,
+Key factors include site-specific conditions, [[jeavons-climate-adaptation-growing-seasons]],
 and integration with existing ecological and social systems.

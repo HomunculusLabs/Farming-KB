@@ -1,5 +1,5 @@
 ---
-title: Chemical Fertilizer Cycle and Lawn Soil Food Web
+title: Chemical Fertilizer Cycle And Lawn Soil Food Web
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
@@ -21,11 +21,11 @@ the soil biology that naturally processes and regulates [[nutrient-availability]
 
 **Rule #13: Chemical fertilizers kill [[soil-food-web]] microbes.**
 
-Synthetic fertilizers are salts. When applied to soil, they create zones of high salt
+[[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] are salts. When applied to soil, they create zones of high salt
 concentration. Through osmotic shock, water rushes out of microbe cells toward the
 higher salt concentration, bursting their cell walls and killing them. This destroys
 both nutrient holders (bacteria and fungi) and nutrient cyclers (nematodes and
-protozoa that convert microbial biomass into plant-available forms).
+protozoa that convert [[soil-microbial-biomass-measurement-ecological-significance]] into plant-available forms).
 
 As little as 100 lbs of nitrogen fertilizer per acre wipes out a healthy soil food
 web entirely. Even lesser amounts cause significant damage. Surviving organisms either
@@ -37,7 +37,7 @@ Bacteria and fungi normally buffer [[soil-ph]]. When eliminated by chemical fert
 nitrate salts accumulate unchecked, causing pH to drop and creating perceived need for
 lime applications — another intervention that further disrupts the soil system.
 Removing grass clippings compounds this by stripping organic matter that would feed
-soil organisms and contribute to nutrient cycling.
+soil organisms and contribute to [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]].
 
 ## The Vicious Cycle
 
@@ -82,7 +82,7 @@ bacteria, protozoa, and nematodes.
 
 ### Organic Microbe Foods
 
-Replace synthetic fertilizers with organic amendments that feed soil biology, not
+Replace synthetic fertilizers with [[cervantes-organic-amendments-chart]] that feed soil biology, not
 plant roots directly:
 
 | Amendment | NPK | Rate |
@@ -94,7 +94,7 @@ plant roots directly:
 | Blood meal | 12-0-0 | 2–3 lbs / 100 sq ft |
 | Cottonseed meal | 6-2-1 | 3–4 lbs / 100 sq ft |
 
-These nourish bacteria and fungi, which feed protozoa and nematodes, which then
+These nourish bacteria and fungi, which feed [[teaming-with-microbes-protozoa-and-nematodes]], which then
 release plant-available nutrients through natural cycling.
 
 ### Cultural Practices

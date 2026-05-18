@@ -1,5 +1,5 @@
 ---
-title: challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of Japan and East Asia Species [[ayahuasca-pharmacology-and-cultural-context]]
+title: Neurotropic Fungi Japan East Asia Species Cultural Context
 created: 2026-04-28
 tags:
   - mycology

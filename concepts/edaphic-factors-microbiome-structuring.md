@@ -1,5 +1,5 @@
 ---
-title: [[nitrogen-salinity-edaphic-factors-microbiome-structuring-cannabis]] Structuring
+title: Edaphic Factors Microbiome Structuring
 created: 2026-05-11
 updated: 2026-05-11
 type: concept

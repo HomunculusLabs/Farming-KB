@@ -1,12 +1,12 @@
 ---
-title: Fukuoka's Natural Food Philosophy and Diet
+title: Fukuoka Natural Food Philosophy Diet
 source: masanobu-fukuoka-fukuoka.md
 type: concept
 ---
 
 # Fukuoka's Natural Food Philosophy and Diet
 
-[[masanobu-fukuoka]] extends his [[natural-farming-philosophy]] into a comprehensive food philosophy, arguing that food and farming are "the front and back of one body." His dietary teachings emphasize local, seasonal eating, the unity of food and spirit, and the limitations of both Western nutritional science and Eastern yin-yang philosophy.
+[[masanobu-fukuoka]] extends his [[natural-farming-philosophy]] into a comprehensive food philosophy, arguing that food and farming are "the front and back of one body." His dietary teachings emphasize local, [[fukuoka-natural-diet-tasty-rice-seasonal-eating]], the unity of food and spirit, and the limitations of both Western [[fukuoka-critique-western-dietetics-nutritional-science]] and Eastern yin-yang philosophy.
 
 ## Four Classifications of Diet
 
@@ -22,7 +22,7 @@ People progress from (1) through (4) as awareness deepens. Most "natural" diets 
 ## Two Paths of Knowledge
 
 Fukuoka distinguishes between:
-- **Discriminating knowledge** — Analytic, wilful intellect organizing experience into logical frameworks. This sets the individual apart from nature. Both Western science and Eastern yin-yang philosophy arise from this source
+- **[[fukuoka-microbes-soil-health-discriminating-knowledge]]** — Analytic, wilful intellect organizing experience into logical frameworks. This sets the individual apart from nature. Both [[discovery-of-psilocybin-mushrooms-by-western-science]] and Eastern yin-yang philosophy arise from this source
 - **Non-discriminating knowledge** — Arises without conscious effort when experience is accepted as it is. Known only through direct intuition, from an "unnameable source"
 
 His critique: "Nature as grasped by scientific knowledge is a nature that has been destroyed — a ghost possessing a skeleton but no soul. Nature as grasped by philosophical knowledge is a theory created out of human speculation — a ghost with a soul but no structure."
@@ -43,7 +43,7 @@ Fukuoka created circular diagrams (mandalas) showing foods arranged by availabil
 
 **Late fall:** Yellowtail, tuna, Japanese radish, leafy vegetables. "It is interesting that the Japanese radish and the leafy vegetables abundant during this season go well with these fish"
 
-**Winter:** Salted salmon, herring eggs, red sea bream, lobster, kelp, black beans, miso, soy sauce, stored cabbages/radishes/squash/sweet potatoes, leeks, wild scallions, oysters, sea cucumbers
+**Winter:** Salted salmon, herring eggs, red sea bream, lobster, kelp, black beans, miso, soy sauce, stored cabbages/radishes/squash/[[growing-sweet-potatoes]], leeks, wild scallions, oysters, sea cucumbers
 
 **Key principle:** "If people will acquire food through 'no-mind,' even though they know nothing at all about yin and yang, they can attain a perfect natural diet."
 

@@ -24,7 +24,7 @@ Most lichens share a suite of functional traits that distinguish them from other
 - **Long life span**, with some individuals persisting for centuries or more
 - **Long-lasting vegetative morphology** — the thallus maintains its structure for extended periods
 - **Mineral nutrition from airborne sources**, including dust, precipitation, and atmospheric deposition
-- **Greater desiccation tolerance** than most photosynthetic organisms, enabling survival in extremely dry environments
+- **Greater [[lichen-desiccation-tolerance-cavitation-ice-nucleation]]** than most photosynthetic organisms, enabling survival in extremely dry environments
 
 ### Phylogenetic Complexity
 
@@ -44,7 +44,7 @@ Three major factors determine lichen presence and abundance:
 
 1. **Substratum chemistry, stability, and longevity** — the physical and chemical properties of the surface on which lichens grow
 2. **Light availability**, which is often mediated through competition with vascular plants and bryophytes
-3. **Moisture availability**, a critical constraint on metabolic activity
+3. **Moisture availability**, a critical constraint on [[arbuscule-isolation-metabolic-activity-assays]]
 
 ### Common Substrata
 
@@ -69,7 +69,7 @@ Lichens play several ecologically significant roles:
 - **Small mammal food and nesting material**: Food for small mammals (Maser et al. 1986); nest material for birds and mammals (Seaward 1988; Hayward and Rosentreter 1994).
 - **Indirect ecological effects**: The classic case of industrial melanism in peppered moths (Kettlewell 1973) illustrates the indirect impact of lichen community changes on other organisms.
 - **Biomass contribution**: In deserts and tundra, lichens constitute a significant proportion of autotrophic biomass (Kappen 1988).
-- **Nitrogen fixation**: In Pacific Northwest conifer forests, lichens contribute significantly to nitrogen fixation (Nash 1996).
+- **Nitrogen fixation**: In [[psilocybin-north-america-pacific-northwest]] conifer forests, lichens contribute significantly to nitrogen fixation (Nash 1996).
 - **Nutrient cycling**: In temperate and boreal forests, lichens alter [[nutrient-availability]] and buffer heavy metals from atmospheric deposition (Seaward 1988).
 
 ## Taxonomy, Diversity, and Distribution
@@ -110,7 +110,7 @@ Orders, families, and genera of lichen-forming fungi have traditionally been del
 
 Molecular phylogenetic revisions have led to major changes in generic delimitations, as exemplified by the dismantling of *Lecidea* sensu lato (Purvis et al. 1992). Some genera include both lichenized and nonlichenized species, with nonlichenized members typically being lichenicolous (parasitic on other lichens) or saprobic. Certain species, such as *Diploschistes* and *Rhizocarpon*, are initially lichenicolous and subsequently take over the photobiont of their host.
 
-Molecular approaches continue to modify classical morphological and chemical species concepts (Grube and Kroken 2000). Chemically identical but reproductively different taxa — termed "species pairs" (Mattsson and Lumbsch 1989) — have in some cases been shown by molecular data to represent a single species (Articus et al. 2002). Interspecific and intergeneric "mechanical" hybrids are also possible (Hawksworth 1994).
+[[genetic-improvement-agaricus-bisporus-molecular-approaches]] continue to modify classical morphological and chemical species concepts (Grube and Kroken 2000). Chemically identical but reproductively different taxa — termed "species pairs" (Mattsson and Lumbsch 1989) — have in some cases been shown by molecular data to represent a single species (Articus et al. 2002). Interspecific and intergeneric "mechanical" hybrids are also possible (Hawksworth 1994).
 
 Classification changes are summarized twice yearly in *Systema Ascomycetum*, and a revised "Outline of the Ascomycetes" is maintained on Myconet (Eriksson et al. 2002). Conidial forms (anamorphs) are not given independent names but may function as spermatia or dispersal propagules. Some genera are entirely sterile or mitosporic, including *Blarneya*, *Cheiromycina*, *Flakea*, *Lepraria*, *Siphula*, and *Thamnolia*.
 
@@ -126,11 +126,11 @@ Keys to families are provided in the *Dictionary of Fungi* (Kirk et al. 2001). N
 
 Major catalogues include Zahlbruckner (1921–1940), Lamb (1963), Hawksworth (1972), the *Index of Fungi* (published since 1940), and the Index Fungorum web database (~340,000 species names). The *Bibliography of Systematic Mycology* has been published since 1946, and "Recent Literature on Lichens" (initiated by Culberson 1951) is now compiled by Esslinger in *The Bryologist*.
 
-Internet resources include the LIAS web site, Sipman's Lichen Determination Keys, the American Bryological and Lichenological Society, and the British Lichen Society.
+[[emcdda-internet-resources-magic-mushroom-websites]] include the LIAS web site, Sipman's Lichen Determination Keys, the American Bryological and Lichenological Society, and the British Lichen Society.
 
 ### Chemical Identification
 
-Lichen chemistry is a critical tool for identification. Standard spot tests (K, C, P/PD, I, N, LCB) are applied to the thallus surface or internal tissues. Guides for spot test interpretation include Hale (1979), Purvis et al. (1992), Brodo et al. (2001), and Wright (1996). Thin-layer chromatography (TLC) is used for more precise secondary metabolite identification (Arup et al. 1993; Orange et al. 2001). Major chemistry compilations include Culberson (1969, 1970), Culberson et al. (1977), and Huneck and Yoshimura (1996). Computer programs for chemical identification have also been developed (Mietzsch et al. 1993).
+Lichen chemistry is a critical tool for identification. Standard spot tests (K, C, P/PD, I, N, LCB) are applied to the thallus surface or internal tissues. Guides for spot test interpretation include Hale (1979), Purvis et al. (1992), Brodo et al. (2001), and Wright (1996). Thin-layer chromatography (TLC) is used for more precise [[fungal-elicitors-enhanced-secondary-metabolite-production]] identification (Arup et al. 1993; Orange et al. 2001). Major chemistry compilations include Culberson (1969, 1970), Culberson et al. (1977), and Huneck and Yoshimura (1996). Computer programs for chemical identification have also been developed (Mietzsch et al. 1993).
 
 ## Major Reference Collections
 

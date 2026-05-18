@@ -1,5 +1,5 @@
 ---
-title: Psychoactive Mushrooms of Australia and New Zealand
+title: Psychoactive Mushrooms Australia New Zealand
 source: magic-mushrooms-of-australia-newzealand-by-john-w-allen.md
 type: concept
 ---
@@ -16,9 +16,9 @@ The **South African dung beetle** likely served as the primary [[spore-dispersal
 
 - *[[psilocybe-cubensis]]* / *P. subcubensis*
 - *[[copelandia-cyanescens]]*
-- *Panaeolus subbalteatus*
+- *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*
 - *Psilocybe semilanceata* (grows in manured soil, not directly on dung)
-- *Panaeolina foenisecii* (non-psychoactive "haymaker's mushroom")
+- *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* (non-psychoactive "haymaker's mushroom")
 
 English mycologist Roy Watling noted: "it must be remembered that fungi can change substrate preferences and there are coprophilous fungi on kangaroo droppings etc."
 
@@ -61,8 +61,8 @@ English mycologist Roy Watling noted: "it must be remembered that fungi can chan
 - *Psilocybe eucalypta* — NSW and NZ, among mosses in Eucalyptus forests
 - *Psilocybe tasmaniana* — NSW and Tasmania, on dung/debris (sometimes kangaroo)
 - *Psilocybe makarorae* — NZ only, on rotten *Nothofagus* wood
-- *Gymnopilus purpuratus* — SA, Victoria, WA; first identified by Cleland as *Flammula purpurata*
-- *Gymnopilus junonius* (= *G. spectabilis*) — widespread but very bitter; Australian form probably *Subs. pampeanus*
+- *[[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]* — SA, Victoria, WA; first identified by Cleland as *Flammula purpurata*
+- *[[gymnopilus-junonius]]* (= *G. spectabilis*) — widespread but very bitter; Australian form probably *Subs. pampeanus*
 - *Panaeolus subbalteatus* — throughout Australia, cosmopolitan; in compost, haystacks, stables
 - *Amanita muscaria* — common in Australia; in NZ largely confined to pine stands
 
@@ -100,7 +100,7 @@ Jonathan Ott has documented ingestion of 0.5–5.9g dried (10–40g fresh) acros
 ## Non-Psychoactive Species Often Confused
 
 1. **Panaeolina foenisecii** — common lawn mushroom, cosmopolitan; confirmed non-psychoactive by Guzmán, Stijve, Watling, and Young
-2. **Panaeolus antillarum** — dung-inhabiting, resembles *Copelandia*; the infamous "hysteria fungus" — toxic but not hallucinogenic
+2. **[[panaeolus-antillarum-misidentification-copelandia-confusion]]** — dung-inhabiting, resembles *Copelandia*; the infamous "hysteria fungus" — toxic but not hallucinogenic
 3. **Psilocybe collybioides** — identification in Australia may be erroneous; possibly confused with *P. australiana*, *P. eucalypta*, or *P. tasmaniana*
 4. **Psilocybe coprophila** — cosmopolitan in pastures; does not contain psilocybin but may contain unknown toxins
 

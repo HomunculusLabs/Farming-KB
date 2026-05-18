@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Bank of European [[glomales]] ([[beg]]) is a decentralized culture collection of arbuscular mycorrhizal (AM) fungi, started in 1994. Unlike centralized repositories such as INVAM, BEG operates as a network with a central coordinator but distributed custody—accessions are registered at one location while individual researchers culture and maintain living specimens at their home institutions across Europe.
+The Bank of European [[glomales]] ([[beg]]) is a decentralized culture collection of [[arbuscular-mycorrhizal-colonization-patterns]] (AM) fungi, started in 1994. Unlike centralized repositories such as INVAM, BEG operates as a network with a central coordinator but distributed custody—accessions are registered at one location while individual researchers culture and maintain living specimens at their home institutions across Europe.
 
 ## Classification
 
@@ -22,20 +22,20 @@ The Bank of European [[glomales]] ([[beg]]) is a decentralized culture collectio
 
 - Organized as a distributed network rather than a single centralized facility (Dodd et al. 1994)
 - Accessions are registered centrally but cultured and maintained by individual researchers at their home institutions
-- Smaller in scale than INVAM but complementary in scope, focusing on European AM fungal diversity
+- Smaller in scale than INVAM but complementary in scope, focusing on European AM [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - Maintains a coordinating committee, culture database, gene archives, and website with resources
 - Provides a model for distributed germ plasm conservation that could be adopted in other regions
 - Enables European researchers to share and compare authenticated AM fungal isolates across laboratories
 
 ## Relevance to Cultivation and Mycology
 
-BEG is important for mycorrhizal research in Europe and globally:
+BEG is important for [[isotopic-tracers-mycorrhizal-research]] in Europe and globally:
 
 - Complements INVAM by focusing on European AM fungal diversity, which includes many species from temperate, Mediterranean, and boreal habitats
 - The decentralized model allows specimens to be maintained by researchers with direct expertise in the taxonomy and ecology of particular species
 - Facilitates standardized comparisons of AM fungal diversity across European ecosystems
 - Provides a framework for archiving gene material (DNA) alongside living cultures, supporting molecular systematic studies
-- Together with INVAM and regional collections (University of Western Australia, CIAT Colombia, Taiwan Agricultural Research Center), BEG forms part of the global infrastructure for AM fungal conservation and research
+- Together with INVAM and regional collections (University of Western Australia, CIAT Colombia, Taiwan [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] Center), BEG forms part of the global infrastructure for AM [[fungal-conservation-biology]] and research
 
 ## Related
 - [[taxonomy-and-diversity-of-glomales]]
@@ -90,7 +90,7 @@ BEG is important for mycorrhizal research in Europe and globally:
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

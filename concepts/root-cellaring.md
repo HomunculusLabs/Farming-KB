@@ -6,7 +6,7 @@ type: concept
 
 # Root Cellaring
 
-Root cellaring is the practice of storing fresh vegetables and fruit in living condition for many months without any processing or energy input beyond what the earth provides. In cold-winter climates, it's possible to have the makings for a fresh salad in the cellar throughout the winter — eating bins of root vegetables, your own cabbage, Brussels sprouts still on the stalk in midwinter, or sprouting your own Belgian endive (an expensive delicacy).
+Root cellaring is the practice of storing fresh vegetables and fruit in living condition for many months without any processing or energy input beyond what the earth provides. In cold-winter climates, it's possible to have the makings for a fresh salad in the cellar throughout the winter — eating bins of [[growing-root-vegetables-guide]], your own cabbage, Brussels sprouts still on the stalk in midwinter, or sprouting your own Belgian endive (an expensive delicacy).
 
 ## The Fundamental Principle
 
@@ -67,7 +67,7 @@ Leafy crops like cabbages and heads of endive can be stored in earth beds:
 
 ### Ventilation
 
-- Some air exchange is necessary to prevent mold and gas buildup
+- Some [[growing-gourmet-growing-room-ventilation-air-exchange]] is necessary to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] gas buildup
 - But too much ventilation dries out the stored crops
 - Balance is key — most cellars need occasional monitoring
 
@@ -96,7 +96,7 @@ When storing plants for seed saving:
 ## Climate Limitations
 
 Root cellaring is not applicable everywhere:
-- In tropical and subtropical climates, the ground doesn't get cold enough
+- In tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], the ground doesn't get cold enough
 - In extremely cold climates, maintaining above-freezing temperatures requires insulation
 - In arid climates, maintaining humidity is the challenge
 
@@ -106,7 +106,7 @@ In climates where vegetables grow lushly 12 months a year (tropical and subtropi
 
 ### The Middle Ground
 
-In temperate climates with mild winters:
+[[query-how-to-grow-and-use-oca-in-temperate-climates]] with mild winters:
 - Greens may overwinter in their growing beds with only a bit of soil mounded over the roots against shallow freeze
 - Root vegetables can be stored in uninsulated sheds with straw covering
 - Simpler methods work for shorter storage periods

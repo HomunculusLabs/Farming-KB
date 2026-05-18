@@ -1,5 +1,5 @@
 ---
-title: Sunlight Geometry and Day Length for [[economics-of-winter-greenhouse-production]]
+title: Coleman Sunlight Geometry Winter Greenhouse Daylength
 source: The [[winter-harvest-handbook-guide]], Eliot Coleman, Chapter 5
 tags:
   - winter-harvest

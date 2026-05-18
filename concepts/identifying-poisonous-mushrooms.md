@@ -1,5 +1,5 @@
 ---
-title: Identifying [[palmer-poisonous-mushrooms-deadly-species]]
+title: Identifying Poisonous Mushrooms
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

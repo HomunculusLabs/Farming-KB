@@ -1,5 +1,5 @@
 ---
-title: Plant [[garden-disease-identification]]
+title: Plant Disease Identification
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

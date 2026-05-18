@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-ferrocement-vs-earthbag]] cob construction Construction"
+title: Comparison Ferrocement Vs Cob Construction
 created: 2026-04-28
 tags: [natural-building, sustainable-architecture, ferrocement, cob, earth-building]
 date: 2026-04-28

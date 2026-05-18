@@ -11,7 +11,7 @@ type: entity
 Peach leaf curl is a fungal disease caused by [[taphrina-deformans]] that primarily affects peach and nectarine trees (Prunus persica and its varieties).
 The disease causes characteristic distortion, thickening, and discoloration of new leaves in spring, giving them a puckered, curled, and blistered appearance that is visually distinctive and easily recognized.
 Infected leaves may turn shades of red, yellow, or purple before becoming covered with a whitish bloom of spores and eventually dropping prematurely.
-Elaine Ingham's field guide lists peach leaf curl and general leaf curl among the diseases that can be addressed through [[actively-aerated-compost-tea]] (AACT) applications as part of biological orchard management.
+Elaine Ingham's field guide lists peach leaf curl and general leaf curl among the diseases that can be addressed through [[actively-aerated-compost-tea]] (AACT) applications as part of biological [[fruit-tree-care-and-orchard-management]].
 
 ## Classification
 
@@ -41,17 +41,17 @@ Elaine Ingham's field guide lists peach leaf curl and general leaf curl among th
 1. **Stone fruit production**: Peach leaf curl is the most important foliar disease of peaches and nectarines in many temperate growing regions, causing significant economic losses annually
 2. **Timing of application**: The disease illustrates a critical principle in compost tea use — the timing of application is paramount and must precede the infection window
 3. **Dormant season treatment**: AACT applied during the dormant season may reduce spore populations on bark surfaces, lowering inoculum pressure at bud swell
-4. **Biological alternative**: For organic peach growers, compost tea represents one of the few available preventive tools compatible with organic certification standards
+4. **Biological alternative**: For organic peach growers, compost tea represents one of the few available preventive tools compatible with [[fukuoka-critique-organic-certification]] standards
 5. **Taphrina biology**: The genus Taphrina represents an early-diverging lineage of Ascomycete fungi with unique biological characteristics — including yeast-like growth in culture and dimorphic life cycle — relevant to mycological study and understanding fungal evolution
 6. **Integrated orchard management**: Managing peach leaf curl biologically is part of a comprehensive orchard health program using [[soil-food-web]] principles
 
 ## Related Entities
 
-- [[actively-aerated-compost-tea|Actively Aerated Compost Tea]] — biological control approach for peach leaf curl
-- [[elaine-ingham|Elaine Ingham]] — documented AACT use against peach leaf curl
-- [[cedar-apple-rust|Cedar Apple Rust]] — another fruit tree disease in Ingham's field guide
+- [[actively-aerated-compost-tea]] — [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] approach for peach leaf curl
+- [[elaine-ingham]] — documented AACT use against peach leaf curl
+- [[cedar-apple-rust]] — another [[fukuoka-fruit-tree-disease-pest-control-natural-predators]] in Ingham's field guide
 - [[anthracnose-compost-tea]] — another fungal disease managed by compost tea applications
-- [[brown-rot|Brown Rot]] — another stone fruit disease mentioned alongside peach leaf curl
+- [[brown-rot]] — another stone fruit disease mentioned alongside peach leaf curl
 
 ## Identification Symptoms
 
@@ -74,7 +74,7 @@ Elaine Ingham's field guide lists peach leaf curl and general leaf curl among th
 
 ## Causal Organism Biology
 
-- Taxonomic classification and related pathogenic species
+- [[neurotropic-fungi-taxonomic-classification]] and related pathogenic species
 - Spore production, dispersal, and survival mechanisms
 - Host range and cultivar susceptibility differences
 - Overwintering strategies and primary inoculum sources
@@ -82,6 +82,6 @@ Elaine Ingham's field guide lists peach leaf curl and general leaf curl among th
 ## Integrated Management Strategy
 
 - Resistant cultivar selection and breeding approaches
-- Sanitation practices during dormant and growing seasons
+- Sanitation practices during dormant [[solomon-climate-zones-and-growing-seasons]]
 - Biological control products with field-trial evidence
 - Chemical intervention thresholds and spray timing

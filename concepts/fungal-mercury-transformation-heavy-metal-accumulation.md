@@ -1,5 +1,5 @@
 ---
-title: Fungal Mercury Transformation and [[mushroom-food-safety-heavy-metal-accumulation]]
+title: Fungal Mercury Transformation Heavy Metal Accumulation
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

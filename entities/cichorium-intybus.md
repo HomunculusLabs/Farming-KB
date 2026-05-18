@@ -98,6 +98,7 @@ with this element in complex and beneficial ways.
 
 ## Practical Applications
 
+- Related: [[perennial-vegetables-and-edible-perennial-crops]] [[comparison-perennial-vegetables-vs-cover-crops]]
 Cichorium Intybus finds practical application in multiple design contexts.
 [[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
@@ -144,7 +145,3 @@ Successful integration of cichorium intybus into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

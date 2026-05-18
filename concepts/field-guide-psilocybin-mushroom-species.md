@@ -1,5 +1,5 @@
 ---
-title: Field Guide to [[emcdda-psilocybin-mushroom-species-and-identification]]
+title: Field Guide Psilocybin Mushroom Species
 source: field-guide-to-the-psilocybin-mushroom.md
 type: concept
 ---

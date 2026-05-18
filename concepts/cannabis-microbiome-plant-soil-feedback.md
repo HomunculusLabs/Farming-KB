@@ -25,9 +25,9 @@ Plant-soil feedback refers to the reciprocal interaction between a plant and the
 
 ### Key Mechanisms
 
-- **Root exudate modulation** — plants release sugars, amino acids, organic acids, and secondary metabolites that selectively feed or repel specific microorganisms
+- **Root exudate modulation** — plants release sugars, amino acids, organic acids, [[plant-defense-chemistry-and-secondary-metabolites]] that selectively feed or repel specific microorganisms
 - **Litter quality effects** — decomposition of plant residues alters soil chemistry and microbial substrate availability
-- **Mycorrhizal networking** — common mycorrhizal networks can mediate interplant signaling and resource sharing
+- **Mycorrhizal networking** — [[common-mycorrhizal-networks]] can mediate interplant signaling and resource sharing
 - **Pathogen accumulation** — species-specific soil-borne pathogens build up under repeated cultivation of the same genotype
 
 ---
@@ -52,7 +52,7 @@ Recent work on [[cannabis-microbiome-cultivar-specificity]] reveals that the roo
 The genus *Pseudomonas* is one of the most well-studied plant growth-promoting rhizobacteria (PGPR) across agricultural systems. In potato, specific *Pseudomonas* strains suppress soil-borne pathogens and enhance yield through competitive root colonization. In Cannabis, *Pseudomonas* species have been identified as core members of the root endosphere and are hypothesized to contribute to:
 
 - **Biocontrol activity** — production of siderophores, hydrogen cyanide, and antibiotics that suppress pathogenic fungi and oomycetes
-- **Induced systemic resistance (ISR)** — priming of plant immune responses via jasmonic acid and ethylene signaling pathways
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]] (ISR)** — priming of plant immune responses via jasmonic acid and ethylene signaling pathways
 - **Nutrient solubilization** — phosphate solubilization and nitrogen cycling in the rhizosphere
 
 ### Cellvibrio
@@ -82,7 +82,7 @@ This concept translates compellingly to Cannabis:
 
 ### Engineered Endophytes and Phytoremediation
 
-Barac et al. (2004) demonstrated that endophytic bacteria can be engineered to enhance phytoremediation — the use of plants to clean contaminated soils. While this work focused on heavy metal tolerance, it raises the possibility that tailored endophyte inoculants could be developed for Cannabis to either remediate contaminated growing sites or optimize secondary metabolite production in controlled environments.
+Barac et al. (2004) demonstrated that endophytic bacteria can be engineered to enhance phytoremediation — the use of plants to clean contaminated soils. While this work focused on heavy metal tolerance, it raises the possibility that tailored endophyte inoculants could be developed for Cannabis to either remediate contaminated growing sites or optimize [[fungal-elicitors-enhanced-secondary-metabolite-production]] in controlled environments.
 
 ---
 
@@ -110,11 +110,11 @@ Understanding plant-soil feedback in Cannabis opens the door to several evidence
 
 Despite growing interest, significant gaps remain in understanding Cannabis plant-soil feedback:
 
-- **Long-term feedback studies** — most Cannabis microbiome research is cross-sectional; longitudinal studies tracking soil community succession across multiple growing cycles are needed
+- **Long-term feedback studies** — most [[cannabis-microbiome-research]] is cross-sectional; longitudinal studies tracking soil community succession across multiple growing cycles are needed
 - **Causal vs. correlational relationships** — many studies identify microbial associations but do not demonstrate causality through gnotobiotic or inoculation experiments
 - **Pathogen feedback specificity** — the extent to which Cannabis-specific soil-borne pathogens accumulate and drive negative feedback is poorly characterized
 - **Chemotype-microbiome interactions** — whether cannabinoid/terpene profiles actively shape the root microbiome (rather than merely correlating with it) remains unproven
-- **Mycorrhizal contributions** — arbuscular mycorrhizal fungi are known to associate with Cannabis roots, but their role in PSF and nutrient-mediated secondary metabolism is underexplored
+- **Mycorrhizal contributions** — [[arbuscular-mycorrhizal-fungi-biology-host-relationships-phylogeny]] are known to associate with Cannabis roots, but their role in PSF and nutrient-mediated secondary metabolism is underexplored
 - **Cross-system comparisons** — benchmarking Cannabis PSF against well-studied systems (grasslands, cereals, wine grapes) would accelerate hypothesis generation
 
 ---

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-*Grifola frondosa* (maitake / hen of the woods) is a highly aerobic medicinal mushroom that demands large amounts of oxygen throughout its life cycle. This fundamental physiological requirement drives every aspect of substrate formulation: the medium must provide excellent air exchange while retaining sufficient moisture and nutrients to support robust mycelial colonization and fruiting body production. The following guidelines are drawn primarily from Wu et al. (1997) as summarized in Chen (1999), _A Practical Guide for Synthetic-Log Cultivation of Medicinal Mushroom Grifola frondosa (Maitake)_.
+*[[grifola-frondosa]]* (maitake / hen of the woods) is a highly aerobic medicinal mushroom that demands large amounts of oxygen throughout its life cycle. This fundamental physiological requirement drives every aspect of substrate formulation: the medium must provide excellent air exchange while retaining sufficient moisture and nutrients to support robust [[mycelial-colonization]] and fruiting body production. The following guidelines are drawn primarily from Wu et al. (1997) as summarized in Chen (1999), _A Practical Guide for Synthetic-Log Cultivation of Medicinal Mushroom Grifola frondosa (Maitake)_.
 
 ## Basal Ingredient
 
@@ -16,7 +16,7 @@ The basal ingredient constitutes **75–80%** of the total substrate by weight a
 
 ### Sawdust Composition
 
-- A mixture of **hardwood sawdust** is preferred, combining **fine and coarse fractions at a 3:1 ratio**.
+- A mixture of **[[hardwood-sawdust-substrate]]** is preferred, combining **fine and coarse fractions at a 3:1 ratio**.
 - Alternatively, hardwood sawdust may be blended with **wood chips** to achieve a similar particle-size distribution.
 - The coarser fraction (larger sawdust particles or wood chips) is critical for maintaining air channels within the substrate, facilitating the gas exchange that *G. frondosa* requires.
 - **Important practical note:** Coarser particles must be selected so they do **not puncture the polypropylene cultivation bag** during handling or sterilization. Bag integrity is essential for maintaining sterility through the colonization phase.
@@ -45,7 +45,7 @@ The basal ingredient constitutes **75–80%** of the total substrate by weight a
 ### Wheat Bran
 
 - **Coarse wheat bran** is the primary nutritional supplement.
-- Wheat bran supplies **thiamine (vitamin B₁)**, which is essential for fruiting body formation in *G. frondosa*.
+- Wheat bran supplies **thiamine (vitamin B₁)**, which is essential for [[fungal-fruiting-body-formation-environmental-triggers]] in *G. frondosa*.
 - Without adequate thiamine, the fungus may colonize the substrate but fail to produce normal basidiocarps.
 - Typical inclusion rates range from **10–23%** depending on the specific formulation.
 
@@ -136,7 +136,7 @@ This formulation demonstrates the practical integration of waste reduction with 
 - Chen, A. W. (1999). *A Practical Guide for Synthetic-Log Cultivation of Medicinal Mushroom Grifola frondosa (Maitake).*
 - Chiu, S. W. et al. (1998). Nutritional studies on Grifola frondosa.
 - Huang, N. L. (1987, 1993, 1997). Studies on maitake cultivation [multiple reports].
-- Kirchhoff, B. (1996). Grifola frondosa cultivation trials.
+- Kirchhoff, B. (1996). [[stamets-maitake-grifola-frondosa-cultivation]] trials.
 - Lee, C. H. (1994, 1996). Substrate formulations for Grifola frondosa.
 - Royse, D. J. & Gardino, J. (1997). Cultivation of specialty mushrooms on synthetic substrates.
 - Stamets, P. (1993). *Growing Gourmet and Medicinal Mushrooms.*

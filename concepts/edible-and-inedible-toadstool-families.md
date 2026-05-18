@@ -67,7 +67,7 @@ poisonous. McIlvaine addresses this directly:
   unwarranted fear and blacklisting of perfectly safe species.
 
 The practical rule: taste a small piece (spit it out). If bitter, discard.
-If the color changes but the flesh is mild, it is likely safe. No recorded
+If the [[boletus-species-alarming-color-changes]] but the flesh is mild, it is likely safe. No recorded
 death from boletus poisoning exists in the historical record.
 
 ---
@@ -87,7 +87,7 @@ responsible for most fatal mushroom poisonings worldwide.
 
 - Bright scarlet — *A. muscarius* ([[fly-agaric]])
 - Lemon-yellow — *A. mappa*
-- Satiny white — *A. vernus*, *A. phalloides* (death cap)
+- Satiny white — *A. vernus*, *A. phalloides* ([[amanita-phalloides-death-cap]])
 
 **Stem:** Tall, free from gills, with a ring near the top and a swollen bulbous base.
 
@@ -124,9 +124,9 @@ noxious species (non-Amanita only), Julius A. Palmer recommends:
 
 > **Sweet-oil and whiskey in equal proportions.**
 
-This applies *only* to non-Amanita poisoning. Amanita alkaloid poisoning
+This applies *only* to non-Amanita poisoning. [[amanita-alkaloid-medicinal-uses-pilocarpine-treatment]] poisoning
 requires immediate emergency medical attention — no home remedy is adequate
-for amatoxin poisoning.
+for [[bloomfield-amatoxin-poisoning-mechanism]].
 
 ---
 

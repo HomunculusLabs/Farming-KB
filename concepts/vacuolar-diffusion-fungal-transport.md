@@ -1,5 +1,5 @@
 ---
-title: Vacuolar Diffusion and [[vacuolar-system-intracellular-transport-fungi]] in Fungal Hyphae
+title: Vacuolar Diffusion Fungal Transport
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---

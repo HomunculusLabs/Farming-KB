@@ -1,5 +1,5 @@
 ---
-title: Tropical Soils [[pond-fertilisation-and-nutrient-management]]
+title: Tropical Soils Nutrient Management
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

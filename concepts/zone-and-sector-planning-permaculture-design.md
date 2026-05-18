@@ -1,5 +1,5 @@
 ---
-title: Zone and Sector Planning in Permaculture Design
+title: Zone And Sector Planning Permaculture Design
 source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
@@ -30,7 +30,7 @@ Zones are defined by the frequency of visits required between the inhabitant and
 - Selected dwarf or multi-graft trees
 - Rainwater tanks, well, bore, reticulation
 - House/glasshouse/storage integration
-- Intensive vegetable gardens, herbs, salad greens
+- [[intensive-vegetable-spacing-systems]] gardens, herbs, salad greens
 
 **Zone II — Small Domestic Self-Sufficiency**
 - Spot mulch and tree guards
@@ -44,7 +44,7 @@ Zones are defined by the frequency of visits required between the inhabitant and
 - Soil conditioning and green mulch
 - Unpruned and natural trellis
 - Selected seedlings for later grafts
-- Water storage in soils and dams
+- Water [[fungal-carbon-storage-in-soils]] and dams
 - Feed store, field shelter
 - Main staple crops, orchard trees, grazing
 
@@ -58,7 +58,7 @@ Zones are defined by the frequency of visits required between the inhabitant and
 **Zone V — Unmanaged / Wilderness**
 - No deliberate management
 - Visited rarely for observation and harvesting
-- Preserves wildlife habitat and genetic diversity
+- Preserves [[hemenway-backyard-wildlife-habitat]] and [[biodiversity-fungal-genetic-diversity]]
 
 ### The Golden Rule
 

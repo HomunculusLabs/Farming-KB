@@ -59,7 +59,7 @@ agaric), signaling an active ectomycorrhizal relationship.
 ### Physical Destruction of Soil Structure
 
 Healthy soil is a living architecture—aggregates bound by fungal hyphae, bacterial glues
-(glomalin), and organic matter create pore spaces for air and water. Compaction crushes
+(glomalin), [[hamilton-composting-and-organic-matter-management]] create pore spaces for air and water. Compaction crushes
 this structure: large pores collapse, water infiltration drops, root channels compress,
 and the physical habitat for soil organisms is destroyed.
 
@@ -69,11 +69,11 @@ Compaction disproportionately harms larger organisms:
 
 1. **Mycorrhizal fungi:** Hyphal networks are physically crushed and severed, destroying
    mycelial mats that may extend far beyond the drip line and connect multiple trees.
-2. **Protozoa and nematodes:** Need pore spaces large enough to move through soil in
+2. **[[teaming-with-microbes-protozoa-and-nematodes]]:** Need pore spaces large enough to move through soil in
    pursuit of bacterial prey. Compaction traps them in confined spaces.
 3. **Earthworms and arthropods:** Cannot move through compacted soil; they migrate away
    or die in place.
-4. **Beneficial bacteria:** Even bacteria suffer as air-filled pores shrink.
+4. **[[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]:** Even bacteria suffer as air-filled pores shrink.
 
 ### Anaerobic Conditions and Root Death
 
@@ -81,10 +81,10 @@ When compaction eliminates air spaces, soil shifts from **aerobic to anaerobic**
 the most insidious consequence. Aerobic bacteria decline; anaerobic bacteria proliferate.
 Anaerobic metabolism produces toxic byproducts: **alcohols, aldehydes, organic acids,
 hydrogen sulfide, and methane**. These are directly **phytotoxic**—they kill fine root
-tips and root hairs, the structures responsible for water and nutrient uptake. The root
+tips and root hairs, the structures responsible for water [[root-anatomy-structure-and-nutrient-uptake]]. The root
 system retreats, reducing capacity to support the canopy.
 
-Visible symptoms appear months or years later: chlorosis, canopy dieback, pest and disease
+Visible symptoms appear months or years later: chlorosis, canopy dieback, [[hamilton-pest-and-disease-control-organic]]
 susceptibility, and eventual decline.
 
 ## Remediation Strategies
@@ -122,7 +122,7 @@ stress (drought, construction damage) aid recovery.
 
 ## Integrating All Three Tools
 
-The three soil food web tools—**brown mulches, fungal compost, and compost tea**—work
+The three soil food web tools—**brown mulches, fungal compost, [[ingham-actinomycetes-soil-biology-and-compost-tea]]**—work
 synergistically:
 
 | Tool | Primary Function | Application |

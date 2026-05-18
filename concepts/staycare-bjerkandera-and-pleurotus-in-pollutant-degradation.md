@@ -1,5 +1,5 @@
 ---
-title: Staycare Bjerkandera And Pleurotus [[staycare-soft-rot-fungi-in-pollutant-degradation]]
+title: Staycare Bjerkandera And Pleurotus In Pollutant Degradation
 created: 2026-04-28
 tags: [bioremediation, white-rot-fungi, pah, dye-decolorization, pollutant-degradation]
 date: 2026-04-25

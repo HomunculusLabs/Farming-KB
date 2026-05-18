@@ -1,5 +1,5 @@
 ---
-title: Spore Formation and Negative Geotropism in Mushrooms
+title: Spore Formation Negative Geotropism
 source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
@@ -77,7 +77,7 @@ functions before the final cap readjustment:
   **blue-light photomorphogenesis** influences fruiting-body development; the veil acts
   as a temporal buffer ensuring light-mediated responses occur only after sufficient
   stipe elongation.
-- **Structural support:** The veil reinforces the cap-stipe junction, maintaining
+- **[[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]:** The veil reinforces the cap-stipe junction, maintaining
   hymenophore integrity until gill tissue is fully formed.
 
 As the cap expands and spore production begins, the partial veil ruptures (forming an
@@ -119,7 +119,7 @@ Badham's 1982 synthesis builds on decades of prior work:
   supporting the cell-autonomous tropic responses proposed in Phase 1.
 - **Carlile (1970):** Reviewed photobiology in fungi, establishing the framework for
   understanding how light influences morphogenesis.
-- **Badham (1980):** Examined light's role in basidiocarp initiation in *P. cubensis*,
+- **Badham (1980):** Examined light's role in [[light-basidiocarp-initiation-psilocybe-cubensis-research]] in *P. cubensis*,
   providing context for the light-protection function attributed to the partial veil.
 - **Heim & Wasson (1958):** Their landmark work on hallucinogenic mushrooms of Mexico
   brought *Psilocybe* into mainstream mycological research, setting the stage for
@@ -145,6 +145,6 @@ and underscores the sophistication of fungal developmental physiology.
 - Badham, E.R. (1980). Light and basidiocarp initiation in *Psilocybe cubensis*.
 - Badham, E.R. (1982). Tropisms in the mushroom *Psilocybe cubensis*.
 - Carlile, M.J. (1970). Photobiology in fungi. *Ann. Rev. Plant Physiol.*; Cohen, R.J. et al. (1975). Sporangiophore responses in *Phycomyces*.
-- Craig, G.D. & Gull, K. (1977). Stipe elongation in *Agaricus bisporus*; Dennison, D.S. (1961). Tropic responses to gravity and centrifugal force.
+- Craig, G.D. & Gull, K. (1977). Stipe elongation in *[[agaricus-bisporus-cultivation-biology]]*; Dennison, D.S. (1961). Tropic responses to gravity and centrifugal force.
 - Eger-Hummel, G. (1980). Blue light photomorphogenesis in basidiomycetes; Gruen, H.E. (1963). Endogenous growth regulation in basidiomycetes.
-- Hagimoto, H. (1963). Mushroom growth hormone and geotropic response; Hagimoto, H. & Konishi, M. (1960). Growth hormone activity in fungi.
+- Hagimoto, H. (1963). [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] and [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]]; Hagimoto, H. & Konishi, M. (1960). Growth hormone activity in fungi.

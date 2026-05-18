@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Biodiversity, [[mycorrhizal-biodiversity-drought-tolerance-edaphic-relations]], and Environmental Adaptation
+title: Mycorrhizal Biodiversity Edaphic Relations
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

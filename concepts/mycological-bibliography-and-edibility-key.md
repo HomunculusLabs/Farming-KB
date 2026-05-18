@@ -1,5 +1,5 @@
 ---
-title: Mycological Bibliography and [[fungal-edibility-classification-key]]
+title: Mycological Bibliography And Edibility Key
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

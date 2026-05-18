@@ -1,5 +1,5 @@
 ---
-title: [[comparison-chicken-keeping-vs-duck-keeping]]
+title: Duck Keeping
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

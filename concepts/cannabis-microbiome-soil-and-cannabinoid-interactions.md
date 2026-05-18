@@ -1,5 +1,5 @@
 ---
-title: Cannabis Microbiome Soil and Cannabinoid Interactions
+title: Cannabis Microbiome Soil And Cannabinoid Interactions
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
@@ -7,7 +7,7 @@ type: concept
 # Cannabis Microbiome: Soil and Cannabinoid Interactions
 
 > Based on findings from Winston et al. (2014), this page details how soil type,
-> edaphic factors, and cannabinoid chemistry shape the cannabis-associated
+> [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]], and cannabinoid chemistry shape the cannabis-associated
 > microbiome across rhizosphere, bulk soil, and endorhiza compartments.
 
 ## Overview
@@ -15,7 +15,7 @@ type: concept
 Winston et al. (2014) conducted pooled experiments to disentangle the relative
 influences of **soil type**, **sample type** (compartment), and **cannabis
 strain** on microbiome composition. All three factors were highly significant
-in structuring microbial communities, but they operated through distinct
+in structuring [[cannabis-rhizosphere-microbial-communities]], but they operated through distinct
 mechanisms and at different magnitudes.
 
 ## Soil Type as the Dominant Driver of OTU Composition
@@ -41,14 +41,14 @@ communities even before accounting for plant effects.
 
 Strain effects were **abundance-driven** — a given strain did not recruit or
 exclude entirely different taxa, but shifted relative abundances of the shared
-community. Cultivar specificity operates through modulation rather than
+community. [[cannabis-cultivar-specificity-endorhiza-microbiome]] operates through modulation rather than
 deterministic selection at the OTU membership level.
 
 ## The Two-Tier Selection Model: Cross-Soil OTU Sharing
 
 A critical experiment supporting the **two-tier model** of root microbiome
 assembly involved growing the same strain (White Widow) in two different soils
-and comparing endorhiza communities:
+and comparing [[cannabis-rhizosphere-endorhiza-communities]]:
 
 - Endorhiza communities shared **more OTUs with their own soil** than with the
   other soil where the same strain was grown.
@@ -100,7 +100,7 @@ prevalent in the **Maui Wowie** cultivar:
 
 This provides a specific mechanistic link between a cannabis cultivar and a
 functionally relevant microorganism, moving beyond compositional descriptions
-to ecological function.
+to [[bloomfield-fungal-fruiting-body-morphology-ecological-function]].
 
 ## Edaphic Factor Rankings
 

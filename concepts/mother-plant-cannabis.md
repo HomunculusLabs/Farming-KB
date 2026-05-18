@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "Cervantes - [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]"
+  - "Cervantes - marijuana-horticulture-cervantes-artificial-lighting-and-electricity"
 type: concept
 tags: [cannabis, plants]
 ---

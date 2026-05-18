@@ -1,5 +1,5 @@
 ---
-title: [[rainwater-tanks-and-storage-costs]] Water Quality
+title: Rainwater Tanks And Water Quality
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

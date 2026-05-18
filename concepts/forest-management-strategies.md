@@ -1,5 +1,5 @@
 ---
-title: Forest [[livestock-grassland-management-strategies]]
+title: Forest Management Strategies
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---

@@ -66,7 +66,7 @@ and sesame oil.
 
 ## References
 
-- Smith, A.H. (1949). *Mushrooms in Their Natural Habitats*.
+- Smith, A.H. (1949). *Mushrooms in Their [[mushroom-natural-habitats]]*.
 - Ying, J. (1987). *Icons of Medicinal Fungi*.
 - Stamets, P. *Growing Gourmet and growing-gourmet-hypholoma-sublateritium-kuritake-cultivation
 - [[mushroom-cultivation-basics]]
@@ -74,7 +74,7 @@ and sesame oil.
 ## Overview
 
 Hypholoma Sublateritium represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Hypholoma Sublateritium finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -103,13 +103,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for hypholoma sublateritium. Climate adaptation
+opportunities for hypholoma sublateritium. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 hypholoma sublateritium and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

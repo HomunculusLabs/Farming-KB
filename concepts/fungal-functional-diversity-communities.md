@@ -1,5 +1,5 @@
 ---
-title: [[fungal-functional-diversity-decomposition]] [[savory-plant-succession-and-community-dynamics]]
+title: Fungal Functional Diversity Communities
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

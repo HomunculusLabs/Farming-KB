@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal [[plant-nutrient-uptake-mechanisms]]
+title: Mycorrhizal Nutrient Uptake Mechanisms
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

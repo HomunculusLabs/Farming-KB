@@ -1,5 +1,5 @@
 ---
-title: [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] Cancer Chemoprevention
+title: Medicinal Mushrooms And Cancer Chemoprevention
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---

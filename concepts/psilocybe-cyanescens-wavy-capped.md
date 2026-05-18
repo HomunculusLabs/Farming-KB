@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cyanescens — Wavy-Capped Psilocybin Mushroom
+title: Psilocybe Cyanescens Wavy Capped
 source: magic-mushrooms-around-the-world-by-jochen-gartz.md
 type: concept
 ---
@@ -10,7 +10,7 @@ type: concept
 
 ## Taxonomic Complex
 
-*P. cyanescens* sits at the center of what Krieglsteiner called the **"Psilocybe cyanescens complex"** — a group of strongly bluing mushrooms that grow on raw compost and plant debris. Many names in the mycological literature are now considered synonyms:
+*P. cyanescens* sits at the center of what Krieglsteiner called the **"Psilocybe [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]"** — a group of strongly bluing mushrooms that grow on raw compost and plant debris. Many names in the mycological literature are now considered synonyms:
 
 - *Hypholoma cyanescens* R. Maire
 - *Hypholoma coprinifacies* (Rolland ss. Herink) Pouzar
@@ -21,7 +21,7 @@ type: concept
 
 Guzmán's geographic division of this complex was found to be inaccurate — specimens from North Africa (treated as *P. mairei*), England and Holland (*P. cyanescens*), and Serbia/Bohemia (*P. serbica*) likely all belong to a single widely distributed species. The species appears to cover a vast area with morphological variation along climate and terrain gradients, as expected for a "young" species that is still expanding into new locations.
 
-The taxonomic confusion persists because original descriptions were based on isolated collections compared only with dried herbarium specimens, without DNA analysis or cross-breeding experiments with single-spore mycelia.
+The [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] persists because original descriptions were based on isolated collections compared only with dried [[herbarium-specimens-fungal-collections]], without DNA analysis or cross-breeding experiments with single-spore mycelia.
 
 ## Morphology
 
@@ -70,7 +70,7 @@ Following the initial Kew discovery:
 *P. cyanescens* has been confirmed from:
 
 - **Europe:** England, Holland, Switzerland, Austria, Germany, Corsica, and through the "cyanescens complex" likely Serbia, Bohemia, and North Africa
-- **North America:** British Columbia, Northern California, Oregon, Washington — Guzmán considers Pacific Northwest specimens identical to those from Kew Gardens
+- **North America:** British Columbia, Northern California, Oregon, Washington — Guzmán considers [[psilocybin-north-america-pacific-northwest]] specimens identical to those from Kew Gardens
 - **North Africa:** Previously treated as *P. mairei*
 
 The species appears to be actively expanding its range, consistent with its status as a "young" species that has not yet fully established itself across all suitable habitats.

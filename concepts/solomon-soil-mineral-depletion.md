@@ -1,5 +1,5 @@
 ---
-title: [[solomon-vegetable-nutrition-decline-and-soil-mineral-depletion]] and Plant Nutrition
+title: Solomon Soil Mineral Depletion
 updated: 2026-04-24
 sources:
   - raw/papers/gardening-when-it-counts-steve-solomon.md

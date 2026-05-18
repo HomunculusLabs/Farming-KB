@@ -13,7 +13,7 @@ Cold process soap making is the core homestead soap craft, transforming fats and
 
 ## Lye Safety
 
-Sodium hydroxide (NaOH), commonly called lye, is a caustic alkali that requires strict safety protocols:
+Sodium hydroxide (NaOH), commonly called lye, is a caustic alkali that requires strict [[mushroom-edibility-testing-safety-protocols]]:
 
 - Always wear safety goggles, chemical-resistant gloves, and long sleeves
 - Work in a well-ventilated area -- lye fumes are irritating
@@ -36,11 +36,11 @@ The reaction is exothermic. Raw soap reaches temperatures of 160-200 F during sa
 Different oils contribute different qualities to the finished soap:
 
 - Coconut oil (72% lauric acid): Hardness, bubbly lather, cleansing. Use at 15-30% of total oils. Too much is drying.
-- Olive oil: Gentle, moisturizing, mild lather. Can be used at 100% (Castile soap) but requires 6-12 month cure.
+- [[olive-cultivation-and-olive-oil-production]]: Gentle, moisturizing, mild lather. Can be used at 100% (Castile soap) but requires 6-12 month cure.
 - Palm oil: Hardness, stable lather, economical. Often replaced with lard or tallow on homesteads.
 - Lard/tallow: Hardness, creamy lather, economical. Traditional homestead soap base.
 - Shea butter: Conditioning, creamy lather. Use at 5-15%.
-- Castor oil: Rich, bubbly lather. Use at 3-8%. Too much makes soap sticky.
+- [[permaculture-castor-oil-plant]]: Rich, bubbly lather. Use at 3-8%. Too much makes soap sticky.
 - Sunflower/safflower oil: Conditioning. Use at 10-20%.
 - Hemp seed oil: Conditioning, silky feel. Use at 5-10% (expensive).
 
@@ -82,7 +82,7 @@ This produces a balanced bar with good lather and conditioning. Always verify ly
 6. When both lye solution and oils reach 100-110 F, slowly pour lye into oils
 7. Blend with stick blender, alternating short bursts and hand stirring
 8. Bring to "trace" -- the point where drizzled soap leaves a visible trail on the surface (like thin pudding)
-9. Add essential oils, herbs, or other additives at light trace
+9. Add [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], herbs, or other additives at light trace
 10. Pour soap into prepared mold
 11. Insulate the mold with towels for 24 hours (gel phase)
 12. Unmold after 24-48 hours
@@ -107,6 +107,6 @@ This produces a balanced bar with good lather and conditioning. Always verify ly
 
 ## Related Topics
 
-- [[herbal-salves-and-balms]] for infused oils used in specialty soaps
+- [[herbal-salves-and-balms]] for [[blesching-cannabis-tinctures-infused-oils-topical-preparations]] used in specialty soaps
 - [[candle-making]] for another beeswax-based homestead craft
 - [[cheese-making-basics]] for utilizing goat or cow milk

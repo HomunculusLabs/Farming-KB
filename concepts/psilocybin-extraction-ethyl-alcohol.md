@@ -1,12 +1,12 @@
 ---
-title: Psilocybin Extraction with Ethyl Alcohol
+title: Psilocybin Extraction Ethyl Alcohol
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
 # Psilocybin Extraction with Ethyl Alcohol
 
-Psilocybin can be extracted from dried mushroom material using pure ethyl alcohol (ethanol) as a solvent. This technique produces a concentrated psilocybin liqueur that can be stored long-term and dosed with precision. The process is relatively simple, requiring only mushroom material and alcohol, and avoids the use of toxic industrial solvents.
+Psilocybin can be extracted from dried mushroom material using pure ethyl alcohol (ethanol) as a solvent. This technique produces a concentrated [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]] that can be stored long-term and dosed with precision. The process is relatively simple, requiring only mushroom material and alcohol, and avoids the use of toxic industrial solvents.
 
 ## Why Ethyl Alcohol?
 
@@ -14,7 +14,7 @@ Pure ethyl alcohol (200 proof, anhydrous) is the preferred solvent for [[psilocy
 
 - **Safety**: Unlike methanol or other industrial solvents, ethanol is a drinkable spirit that is non-toxic to humans. Any residual solvent remaining in the final extract poses no health risk.
 - **Availability**: In the United States, 200 proof ethanol can be purchased at well-stocked liquor stores, either over the counter (in some states) or with a simple permit from the state liquor board.
-- **Effectiveness**: Ethanol efficiently dissolves psilocybin and psilocin from mushroom tissue. While 190 proof (95% ethanol, 5% water) is acceptable, 200 proof is preferred because the absence of water means less volume to evaporate during concentration.
+- **Effectiveness**: Ethanol efficiently dissolves [[hplc-analysis-of-psilocybin-and-psilocin]] from [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]]. While 190 proof (95% ethanol, 5% water) is acceptable, 200 proof is preferred because the absence of water means less volume to evaporate during concentration.
 
 ## The Extraction Process
 
@@ -60,7 +60,7 @@ In states requiring a permit, contact the state liquor board (typically located 
 
 ## Complete Supply List
 
-- Dried psilocybin mushroom material
+- Dried [[african-psilocybin-mushroom-guide]] material
 - 200 proof ethyl alcohol
 - Drinking glass, spoon, knife
 - Funnel

@@ -1,5 +1,5 @@
 ---
-title: The Bardo Thodol as a Living Guide for [[mckenna-consciousness-expansion-and-drug-war]]
+title: The Bardo Thodol As Living Guide
 source: leary-t-the-psychedelic-experience.md
 type: concept
 ---

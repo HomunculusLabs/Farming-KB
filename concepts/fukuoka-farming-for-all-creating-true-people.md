@@ -1,5 +1,5 @@
 ---
-title: "[[fukuoka-farming-for-all-quarter-acre-vision]] All [[fukuoka-textdoc-creating-true-people-do-nothing-road]]"
+title: Fukuoka Farming For All Creating True People
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

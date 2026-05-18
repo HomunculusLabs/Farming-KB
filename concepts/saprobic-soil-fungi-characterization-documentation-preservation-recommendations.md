@@ -19,9 +19,9 @@ Research questions about vegetation, climate, soil types, disturbance history, a
 - **Overlying vegetation** and its developmental history (successional stage, dominant species, age structure).
 - **Climate data** (mean annual temperature and precipitation, seasonality, recent weather anomalies).
 - **Physical and chemical characteristics** of both litter and mineral soil (texture, pH, organic matter content, moisture, nutrient levels).
-- **Soil fauna** components and their activities, since invertebrate grazing and bioturbation directly shape fungal community structure.
+- **Soil fauna** components and their activities, since [[gadd-soil-invertebrate-grazing-mycelial-responses]] and bioturbation directly shape [[mineralogical-controls-fungal-community-structure]].
 
-Soil organic matter, temperature, and water potential are the principal abiotic factors that strongly affect fungal activity and community composition. Site perturbations (e.g., cultivation, fire, flooding) may need explicit measurement; Carter (1993) provides recommended methods for characterizing soil microhabitats. Collect multiple soil samples (≥14) across a representative range of sites, repeating at least once per major season to capture temporal variation in fungal communities.
+[[humus-and-soil-organic-matter]], temperature, and water potential are the principal abiotic factors that strongly affect fungal activity and [[core-endorhiza-bacterial-community-composition-cannabis]]. Site perturbations (e.g., cultivation, fire, flooding) may need explicit measurement; Carter (1993) provides recommended methods for characterizing soil microhabitats. Collect multiple soil samples (≥14) across a representative range of sites, repeating at least once per major season to capture temporal variation in fungal communities.
 
 ---
 
@@ -94,7 +94,7 @@ Physiological tests complement morphological data and are especially valuable fo
 - Sensitivity or tolerance to fungicides and salts: benomyl, cycloheximide, NaCl
 - Diazonium blue B (DBB) staining response (Summerbell 1985; Hutchison and Summerbell 1990)
 
-A simplified suite of media and conditions can be used simultaneously for sporulation stimulation and physiological grouping. For nonsporulating isolates that cannot be assigned to named taxa, investigators may apply an arbitrary designation (e.g., "nonsporulating white #1") or pursue rDNA sequence analysis for molecular identification.
+A simplified suite of media and conditions can be used simultaneously for sporulation stimulation and physiological grouping. For nonsporulating isolates that cannot be assigned to named taxa, investigators may apply an arbitrary designation (e.g., "nonsporulating white #1") or pursue rDNA sequence analysis for [[biodiversity-fungal-molecular-identification-dna-barcoding]].
 
 ---
 
@@ -131,7 +131,7 @@ Results for [[ligninolytic-enzymes]] should be interpreted cautiously due to var
 
 ## Summary
 
-A comprehensive inventory of saprobic soil fungi integrates environmental characterization with rigorous laboratory protocols for isolate enumeration, preservation, morphological characterization, sporulation induction, microscopic evaluation, and physiological profiling. Combining classical culture-based methods with molecular sequence data—especially for sterile and cryptic taxa—yields the most complete picture of [[soil-fungal-diversity]] and its ecological roles.
+A comprehensive inventory of [[biodiversity-of-fungi-saprobic-soil-fungi]] integrates environmental characterization with rigorous laboratory protocols for isolate enumeration, preservation, morphological characterization, sporulation induction, microscopic evaluation, and physiological profiling. Combining classical culture-based methods with molecular sequence data—especially for sterile and cryptic taxa—yields the most complete picture of [[soil-fungal-diversity]] and its ecological roles.
 
 ## Related
 - [[saprobic-soil-fungi-quantitative-qualitative-inventory-recommendations]]

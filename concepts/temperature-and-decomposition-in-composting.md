@@ -41,7 +41,7 @@ Most organic enzymes are destroyed at around 120°F (50°C). A few thermophilic 
 
 Above this temperature, enzymatic reactions slow dramatically and then stop. The heap may continue to be hot from residual biological activity, but the quality of decomposition degrades:
 
-- Nutrients are lost as gases (ammonia, methane, nitrous oxide)
+- Nutrients are lost as gases (ammonia, methane, [[nitrous-oxide]])
 - The remaining material is essentially humus — depleted of the nutrients that would have fertilized plants
 - Research shows conclusively that heaps heated above 150°F (65°C) lose the bulk of their nutrients
 
@@ -67,7 +67,7 @@ Significant nutrient loss. Compost will be mostly humus with low fertilizing val
 
 ### Mulch Decomposition
 
-Mulched soil might be no more than 75°F (24°C) on average. Decomposition is slow at that temperature. A six-inch (15 cm) layer of hay or grain straw might take a year to decompose in temperate climates because:
+Mulched soil might be no more than 75°F (24°C) on average. Decomposition is slow at that temperature. A six-inch (15 cm) layer of hay or grain straw might take a year to decompose [[query-how-to-grow-and-use-oca-in-temperate-climates]] because:
 
 - Low average temperature
 - Only the material in direct contact with soil decomposes at significant speed
@@ -97,7 +97,7 @@ Soils never get very warm. The release of nutrients from compost depends on soil
 
 ### Hot Climates
 
-Organic matter rots quickly. In really warm soil:
+[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] rots quickly. In really warm soil:
 
 - Compost nutrients are released rapidly
 - You can get acceptable results growing high-demand vegetables with only medium-quality compost
@@ -105,7 +105,7 @@ Organic matter rots quickly. In really warm soil:
 
 ### Temperate Climates
 
-The balanced approach: compost is reliable and predictable. Standard methods and application rates work well.
+The balanced approach: compost is reliable and predictable. Standard methods and [[compost-tea-application-rates]] work well.
 
 ### Cold-Winter Climates
 
@@ -120,7 +120,7 @@ The balanced approach: compost is reliable and predictable. Standard methods and
 
 - Check moisture — dry heaps don't heat
 - Check C:N — too high means insufficient nitrogen
-- Check size — heaps under 3 feet wide may not reach critical mass
+- Check size — heaps under 3 feet wide may not reach [[critical-mass]]
 - When you turn the heap, blend in more strong stuff (manure, seedmeal)
 
 ### If Too Hot
@@ -128,7 +128,7 @@ The balanced approach: compost is reliable and predictable. Standard methods and
 - This is uncommon in home composting
 - Usually caused by too much low C:N material (fresh manure, seedmeal)
 - The heap will cool naturally as the nitrogen source is consumed
-- Don't add water to cool it — this just creates anaerobic conditions
+- Don't add water to cool it — this just creates [[aact-ph-and-anaerobic-conditions]]
 
 ### The Hand Test
 

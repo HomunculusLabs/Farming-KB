@@ -18,7 +18,7 @@ The glyoxyl chloride is treated with the desired secondary amine (dimethylamine,
 **Step 3: LAH reduction to the [[tryptamine]]**
 The glyoxylamide is reduced with lithium aluminum hydride (LAH) in anhydrous tetrahydrofuran (THF). The reaction mixture is held at reflux, then carefully quenched with water, dilute acid, and finally made basic to liberate the free base. The product is extracted into an organic solvent, dried, and the solvent removed.
 
-This three-step method is remarkably versatile. By varying the indole starting material (4-hydroxyindole, 5-methoxyindole, 5-methylthioindole, etc.) and the amine (dimethylamine, diethylamine, methylisopropylamine, etc.), the entire landscape of simple N,N-disubstituted tryptamines becomes accessible through a single synthetic logic.
+This three-step method is remarkably versatile. By varying the indole [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] (4-hydroxyindole, 5-methoxyindole, 5-methylthioindole, etc.) and the amine (dimethylamine, diethylamine, methylisopropylamine, etc.), the entire landscape of simple N,N-disubstituted tryptamines becomes accessible through a single synthetic logic.
 
 ## Key Examples from TIHKAL
 
@@ -57,7 +57,7 @@ Primary tryptamines can be N-methylated through formylation followed by LAH redu
 
 - LAH is pyrophoric and must be handled under inert atmosphere with rigorous exclusion of moisture
 - Many free-base tryptamines are sensitive to air oxidation; stpsilocin hydrochloride or other stable salt form is preferred
-- Oxalyl chloride is a corrosive lachrymator requiring fume hood work
+- [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]] is a corrosive lachrymator requiring fume hood work
 - The 4-hydroxy tryptamines ([[5-methoxy-compounds]]
 - synthetic tryptamine methods
 
@@ -65,11 +65,11 @@ Primary tryptamines can be N-methylated through formylation followed by LAH redu
 
 # Shulgin's Tryptamine Research Philosophy
 
-Alexander "Sasha" Shulgin's approach to the scientific investigation of psychoactive compounds, as expressed throughout TIHKAL, constitutes a distinctive research philosophy that blends rigorous chemical methodology with first-person phenomenological investigation. TIHKAL and its companion volume PIHKAL together document the most systematic exploration of the relationship between molecular structure and subjective experience ever undertaken.
+Alexander "Sasha" Shulgin's approach to the scientific investigation of psychoactive compounds, as expressed throughout TIHKAL, constitutes a distinctive research philosophy that blends rigorous chemical methodology with first-person phenomenological investigation. TIHKAL and its companion volume PIHKAL together document the most systematic exploration of the relationship between molecular structure and [[dosage-unpredictability-psilocybin-subjective-experience]] ever undertaken.
 
 ## First-Person Science
 
-Shulgin's most controversial methodological commitment was his insistence on first-person experimentation. Every compound in TIHKAL was tested by Shulgin himself, his wife Ann, or trusted collaborators. The qualitative comments section of each entry records these first-person experiences in the experiential language of the subjects rather than reducing them to clinical rating scales. Shulgin argued that the primary data of psychopharmacology is subjective experience and that this data cannot be properly gathered at second hand.
+Shulgin's most controversial methodological commitment was his insistence on first-person experimentation. Every compound in TIHKAL was tested by Shulgin himself, his wife Ann, or trusted collaborators. The [[qualitative-comments-methodology-pihkal]] section of each entry records these first-person experiences in the experiential language of the subjects rather than reducing them to clinical rating scales. Shulgin argued that the primary data of psychopharmacology is subjective experience and that this data cannot be properly gathered at second hand.
 
 This approach was explicitly at odds with the prevailing biomedical paradigm, which Shulgin characterized as so fearful of psychoactive compounds that it refused to gather the very data (subjective reports) that would make the field scientifically meaningful.
 
@@ -79,3 +79,14 @@ TIHKAL is organized as a systematic tour through the tryptamine structure-activi
 
 - **Potency** (minimum active dose)
 - **Duration** (onset, peak, offset timing)
+## Historical Development
+
+This approach has evolved significantly over time, drawing from both traditional practices and modern scientific understanding. Early practitioners developed intuitive methods through careful observation of natural systems. Contemporary research has validated many traditional insights while adding quantitative frameworks for optimization and scaling. The synthesis of historical knowledge with current science continues to advance the field.
+
+## Environmental Impact
+
+The ecological implications of these practices extend beyond their immediate application. Properly implemented techniques can enhance biodiversity, improve soil health, and contribute to broader ecosystem resilience. Conversely, poorly planned approaches may have unintended consequences. A systems-thinking perspective helps anticipate and mitigate potential negative impacts while maximizing ecological benefits.
+
+## Economic Considerations
+
+Financial viability influences adoption and long-term sustainability of any practice. Initial investment costs, ongoing maintenance requirements, and potential returns all factor into decision-making. Many practitioners find that reduced input costs over time offset initial setup expenses. Scale-appropriate strategies ensure that techniques remain economically feasible from backyard gardens to commercial operations.

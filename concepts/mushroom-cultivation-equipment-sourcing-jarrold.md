@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Essential Equipment Overview
 
-The Jarrold boil-a-bag mushroom cultivation method requires a specific set of
+The Jarrold boil-a-bag [[boil-a-bag-mushroom-cultivation-method]] requires a specific set of
 [[antimicrobial-compounds-mushroom-mycelium]] growth
 and fruiting. This page catalogs the complete equipment list with sourcing
 information and practical notes from D.H. Jarrold's guide.
@@ -91,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mushroom Cultivation Equipment Sourcing Jarrold finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,7 +105,7 @@ Integration with complementary elements enhances system function.
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for mushroom cultivation equipment sourcing jarrold. Climate adaptation
+opportunities [[grass-seed-substrate-for-mushroom-cultivation]] equipment sourcing jarrold. Climate adaptation
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -120,7 +120,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mushroom cultivation equipment sourcing jarrold and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context
@@ -132,7 +132,7 @@ current understanding and implementation strategies.
 
 ## Integration Strategies
 
-Successful integration of mushroom cultivation equipment sourcing jarrold into broader
+Successful integration [[historical-development-of-mushroom-cultivation]] equipment sourcing jarrold into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.

@@ -9,7 +9,7 @@ sources:
   - "California Rare Fruit Growers (CRFG). Pomegranate Fruit Facts. crfg.org."
   - "Mars, M. (2000). Pomegranate (punica-granatum L.) Plant Resources of Tropical Africa."
   - "Holland, D., Hatib, K., & Bar-Ya'akov, I. (2009). Pomegranate: Botany, Horticulture, Breeding. Horticultural Reviews, 35, 127-191."
-  - "Melgarejo, P. et al. (2018). Pomegranate ([[punica-granatum]] L.): Ancient Fruit with Modern Relevance. In: Handbook of Plant Food Phytochemicals."
+  - "Melgarejo, P. et al. (2018). Pomegranate (punica-granatum L.): Ancient Fruit with Modern Relevance. In: Handbook of Plant Food Phytochemicals."
   - "LaRue, J.H. (1980). Growing Pomegranates in California. UC Cooperative Extension Leaflet 2469."
   - "USDA ARS. GRIN Taxonomy: Punica granatum. https://npgsweb.ars-grin.gov."
 ---

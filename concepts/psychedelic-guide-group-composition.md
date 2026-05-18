@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Guide, Group Composition, [[lsd-set-and-setting-framework]]
+title: Psychedelic Guide Group Composition
 source: leary-t-the-psychedelic-experience.md
 type: concept
 ---

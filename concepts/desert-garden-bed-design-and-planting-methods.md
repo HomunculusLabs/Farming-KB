@@ -1,5 +1,5 @@
 ---
-title: Desert Garden Bed Design and [[native-american-planting-methods-and-indigenous-agriculture]]
+title: Desert Garden Bed Design And Planting Methods
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

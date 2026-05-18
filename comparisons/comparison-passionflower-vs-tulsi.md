@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Passionflower (*Passiflora incarnata*) and tulsi (*Ocimum tenuiflorum*, holy
+Passionflower (*[[passiflora-incarnata]]*) and tulsi (*[[ocimum-tenuiflorum-entity]]*, holy
 basil) are two of the most widely used calming herbs in global herbal
 medicine, yet they come from completely different botanical families,
 traditions, and pharmacological frameworks. Passionflower is a GABAergic
@@ -32,7 +32,7 @@ for over 3,000 years as a rasayana (rejuvenative). Three primary
 chemotypes exist: Krishna tulsi (dark purple leaves, highest eugenol
 content), Rama tulsi (bright green, most commonly available), and Vana
 tulsi (grey-green, wild-type with camphor scent). Each has a distinct
-essential oil profile and therapeutic emphasis.
+[[permaculture-designers-manual-essential-oil-plants]] profile and therapeutic emphasis.
 
 Tulsi is classified as an adaptogen, meaning it helps the body maintain
 homeostasis under physical and emotional stress. Its primary bioactive
@@ -60,10 +60,10 @@ use by all ages.
 | Primary action | GABAergic sedative | Adaptogenic stress modulator |
 | Growth habit | Climbing vine, perennial | Upright bushy herb, annual |
 | Hardiness | USDA zones 5-9 | USDA zones 10-11 (annual elsewhere) |
-| Key compounds | Chrysin, apigenin, vitexin | Eugenol, ursolic acid, linalool |
+| Key compounds | Chrysin, apigenin, vitexin | Eugenol, [[ursolic-acid]], linalool |
 | Tradition | Western herbalism, Indigenous | Ayurvedic medicine, Hinduism |
 | Best known for | Insomnia, anxiety, muscle spasms | Daily wellness, immunity, stress |
-| Safety profile | Avoid in pregnancy | Safe in pregnancy, daily use |
+| [[blesching-cannabis-safety-profile]] | Avoid in pregnancy | Safe in pregnancy, daily use |
 | Primary preparation | Tea, tincture, capsules | Tea, fresh leaves, tincture |
 | Onset of effect | Acute (30-60 minutes) | Cumulative (weeks of daily use) |
 
@@ -77,7 +77,7 @@ for insomnia, where clinical studies consistently show improved sleep
 quality and reduced sleep onset latency. Passionflower is also the
 preferred herb for opiate withdrawal support, as it directly calms the
 nervous system without the addiction risk of benzodiazepines. Growers in
-temperate climates will appreciate that passionflower is cold-hardy and
+[[fukuoka-natural-farming-temperate-climates]] will appreciate that passionflower is cold-hardy and
 perennial, returning from its rootstock each spring.
 
 ## When to Choose Tulsi

@@ -1,5 +1,5 @@
 ---
-title: Compost Tea Ingredients and Fungal Activation
+title: Compost Tea Ingredients And Fungal Activation
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
@@ -15,8 +15,8 @@ The ingredients chosen for [[actively-aerated-compost-tea]] (AACT) determine the
 Compost teas are extremely sensitive to chlorine and preservatives. All brewing water and ingredients must be free of these chemicals, which are designed to kill or discourage microbial life.
 
 - **Municipal chlorinated water**: Fill the brewing container and run air bubbles for 1–2 hours to evaporate chlorine
-- **Carbon filters**: Effective for chlorine removal; a 1 cubic foot carbon filter handles approximately 4 gallons per minute
-- **Reverse osmosis systems**: Remove both chlorine and chloramines, ideal for large-volume operations
+- **Carbon filters**: Effective for [[aact-water-quality-chlorine-removal-brewing-standards-ingham]]; a 1 cubic foot carbon filter handles approximately 4 gallons per minute
+- **[[reverse-osmosis-compost-tea]] systems**: Remove both chlorine and chloramines, ideal for large-volume operations
 
 ### Compost
 
@@ -59,7 +59,7 @@ Simple sugars feed bacteria and rapidly increase their populations:
 
 Encouraging fungal growth requires more complex nutrient sources:
 
-- **Kelp**: *Ascophyllum nodosum* (cold-water kelp), available as powdered algae from garden centers and feed stores
+- **Kelp**: *[[ascophyllum-nodosum]]* (cold-water kelp), available as powdered algae from garden centers and feed stores
 - **Humic and fulvic acids**: Provide nutrient value and attachment surfaces for fungal growth
 - **Phosphate rock dusts**: Surface area for fungal colonization
 - **Fruit pulps**: Orange, blueberry, and apple pulps support fungal proliferation
@@ -69,7 +69,7 @@ Encouraging fungal growth requires more complex nutrient sources:
 
 ## The Fungal Growth Challenge
 
-Growing sufficient fungi in compost tea is the primary difficulty for most brewers. The reason is fundamental:
+Growing sufficient fungi [[molasses-and-sugars-in-compost-tea-brewing]] is the primary difficulty for most brewers. The reason is fundamental:
 
 - **Bacteria** both grow and multiply rapidly in tea given adequate nutrition
 - **Fungi** only grow (extend hyphae) during the brew period — the brew time is almost never long enough for fungal reproduction
@@ -97,7 +97,7 @@ After approximately 3 days at 80°F, visible white mycelial threads should cover
 - **Small brewers**: 24–36 hours to develop a good tea
 - **Commercial brewers**: As little as 12 hours with high-energy agitation
 - **Visual indicator**: Tea turns coffee-brown as microbes are extracted
-- **Temperature**: May increase 3–5°F from increased metabolic activity
+- **Temperature**: May increase 3–5°F from increased [[arbuscule-isolation-metabolic-activity-assays]]
 - **Aroma**: Properly made tea (especially with molasses) produces a healthy, sweet, earthy smell
 
 ## Mycorrhizal Addition

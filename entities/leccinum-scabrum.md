@@ -37,7 +37,7 @@ heathland, and parks. Prefers acidic to neutral soils.
 
 ## Ecological Role
 
-L. scabrum forms obligate [[boletus-edulis-entity]]
+L. scabrum forms obligate [[boletus-edulis]]
 - [[russula-cyanoxantha]]
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Botany History Chemistry"
+title: Cannabis Botany History Chemistry
 source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
@@ -53,7 +53,7 @@ A fresh plant yields mainly **cannabidiolic acids**, which are precursors to the
 
 ### The Primary Active Compound
 
-Δ¹-tetrahydrocannabinol (THC) has been demonstrated to be the main psychoactive compound. The tetrahydrocannabinols form an oily mixture of several isomers. They are **non-nitrogenous** organic compounds derived from terpenes — they are not alkaloids, although traces of alkaloids have been reported in the plant.
+Δ¹-tetrahydrocannabinol (THC) has been demonstrated to be the main psychoactive compound. The tetrahydrocannabinols form an oily mixture of several isomers. They are **non-nitrogenous** [[fungal-volatile-organic-compounds]] derived from terpenes — they are not alkaloids, although traces of alkaloids have been reported in the plant.
 
 ### Chemical Instability
 

@@ -21,7 +21,7 @@ All are structurally related to **serotonin** (5-hydroxytryptamine), the major n
 
 McKenna's phenomenological description of the DMT experience:
 
-1. **Onset (0–30 seconds):** Sound like "ripping cellophane" — "our radio entelechy ripping out of the organic matrix." An ascending tone. Shifting geometric surfaces of colored forms. All available receptor sites occupied.
+1. **Onset (0–30 seconds):** Sound like "[[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" — "our radio entelechy ripping out of the organic matrix." An ascending tone. Shifting geometric surfaces of colored forms. All available receptor sites occupied.
 
 2. **Breakthrough (~30 seconds):** Arrival in a space "underground or somehow insulated and domed" — McKenna quotes Joyce's *Finnegans Wake*: the "merry go raum" (raum = space). "One feels like a child, though one has come out somewhere in eternity."
 
@@ -29,12 +29,12 @@ McKenna's phenomenological description of the DMT experience:
 
 4. **Language:** The entities emit sounds "like music, like language" — a "language of alien meaning conveying alien information that cannot be Englished." McKenna connects this to Philo Judaeus's description of the Logos passing "from things heard to things beheld."
 
-5. **Translinguistic Objects:** Under DMT, one discovers the ability to make "extra-dimensional objects — feeling-toned, meaning-toned, three-dimensional rotating complexes of transforming light and color." The experience of glossolalia becomes a "brain state that allows the expression of the assembly language behind language."
+5. **[[glossolalia-translinguistic-objects]]:** Under DMT, one discovers the ability to make "extra-dimensional objects — feeling-toned, meaning-toned, three-dimensional rotating complexes of transforming light and color." The experience of glossolalia becomes a "brain state that allows the expression of the assembly language behind language."
 
 ## Quantum Mechanical Correlates
 
 McKenna argues that hallucinogenesis operates at the quantum mechanical level:
-- John Smythies, Alexander Shulgin, and others showed that moving **one atom** on a molecular ring of an inactive compound can make it highly hallucinogenic
+- John Smythies, [[alexander-shulgin]], and others showed that moving **one atom** on a molecular ring of an inactive compound can make it highly hallucinogenic
 - This is "perfect proof of the dynamic linkage at the formative level between quantum mechanically described matter and mind"
 - Dreams and hallucinations are, in McKenna's framework, "the major quantum mechanical phenomena that we all experience"
 
@@ -58,8 +58,8 @@ McKenna identifies a peculiar property of DMT experience — the **black hole ef
 
 McKenna presents the mushroom's own account of its origins:
 - *Stropharia cubensis* spores are "deep, deep purple — the color they would have to be to absorb the deep ultraviolet end of the spectrum"
-- Spore casing is "one of the hardest organic substances known" with electron density approaching metal
-- Spores could percolate to the edge of Earth's atmosphere through Brownian motion and escape into space
+- Spore casing is "one of the hardest organic substances known" with [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaching metal
+- Spores could percolate to the edge of Earth's atmosphere through [[mckenna-spore-brownian-motion-and-galactic-percolation]] escape into space
 - At 1% the speed of light, a spore could cross the galaxy in 100 million years — 18 times within the span of life on Earth
 - There are no fungi in the fossil record older than 40 million years, despite fossilized soft-bodied organisms from over a billion years ago
 
@@ -80,7 +80,7 @@ McKenna's description of shamans based on his Amazon fieldwork:
 
 McKenna's vision of where this leads:
 - "The future belongs to the mind"
-- "History is the shockwave of eschatology — something is at the end of time casting an enormous shadow over human history"
+- "History is the [[mckenna-history-shockwave-of-eschatology]] — something is at the end of time casting an enormous shadow over human history"
 - The acceleration of cultural change (fire → language → measurement → science → DNA) is "drawing everything together"
 - "The most richly organized material in the universe is the human cerebral cortex"
 - "The densest and richest experience in the universe is the experience you are having right now"

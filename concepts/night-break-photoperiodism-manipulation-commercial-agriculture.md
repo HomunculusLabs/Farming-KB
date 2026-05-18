@@ -10,7 +10,7 @@ source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ## Overview
 
 The discovery that plants measure the length of continuous darkness
-(rather than day length) and that this measurement can be disrupted
+(rather than [[coleman-persephone-months-winter-day-length]]) and that this measurement can be disrupted
 by brief light flashes has been transformative for commercial
 agriculture. [[daniel-chamovitz]] describes in "What a Plant Knows" how
 the **night-break technique** — turning lights on for just a few
@@ -23,7 +23,7 @@ seasonal crops.
 The foundation for night-break technology was laid by Wightman W.
 Garner and Harry A. Allard at the US Department of Agriculture,
 who in 1918 discovered photoperiodism through their study of the
-Maryland Mammoth tobacco strain. This tobacco grew continuously
+[[garner-allard-maryland-mammoth-tobacco-experiment]] strain. This tobacco grew continuously
 without flowering until exposed to artificially shortened days.
 
 Subsequent researchers discovered the critical insight: it is not
@@ -90,7 +90,7 @@ rather than day length.
 
 ## Wavelength Specificity
 
-The night-break technique is maximally effective with **red light**
+The night-break technique is maximally effective with **[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]**
 (~660nm). Blue and green light flashes during the night do not
 influence flowering. This specificity reflects the phytochrome
 system's sensitivity: red light converts phytochrome to its active
@@ -132,7 +132,7 @@ lettuce, and radishes.
 **Day-neutral plants**: Flower regardless of photoperiod.
 Examples include tomatoes, cucumbers, and rice.
 
-The critical night length varies by species and sometimes by
+The critical [[photoperiodism-plants-measure-night-length]] varies by species and sometimes by
 cultivar, allowing breeders to select for specific flowering
 times through photoperiodic response manipulation.
 

@@ -41,14 +41,14 @@ tags: [entomology, ecology, industrial-pollution, evolution, bioindicators]
 - The same industrial pollution (primarily sulfur dioxide) that drove industrial melanism in *B. betularia* also caused dramatic declines in lichen diversity and abundance
 - Lichens are fungal-algal symbioses highly sensitive to SO2; their loss altered bark appearance
 - The decline of lichens affected not only moth camouflage but also entire epiphytic fungal communities
-- Recovery of lichen communities (Gilbert, 1992; Bates et al., 2001) parallels the recovery of moth populations toward the light morph
-- *B. betularia* thus serves as an indirect bioindicator of pollution effects on fungal communities
+- Recovery of [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]] (Gilbert, 1992; Bates et al., 2001) parallels the recovery of moth populations toward the light morph
+- *B. betularia* thus serves as an indirect bioindicator of pollution [[brassinosteroid-effects-on-fungal-fruiting-morphology]] communities
 
 ### Ecological Role
 - Larvae (caterpillars) feed on a wide range of deciduous trees and shrubs including oak, birch, willow, and hawthorn
 - Adults are nocturnal and rely on crypsis for predator avoidance during daytime resting
 - Important prey species for birds, particularly insectivorous passerines
-- Flight season typically from May to August in temperate regions
+- Flight season typically from May to August in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 - Overwinters as a pupa in the soil
 
 ## Relevance to Cultivation and Mycology
@@ -57,7 +57,7 @@ tags: [entomology, ecology, industrial-pollution, evolution, bioindicators]
 - The morph ratio of peppered moth populations serves as a visible bioindicator of industrial pollution levels
 - Parallel to the use of lichen communities as fungal bioindicators of air quality
 - Both organisms demonstrate how atmospheric pollutants cascade through ecosystem interactions
-- Changes in moth morphology reflect the same environmental pressures that alter fungal community structure
+- Changes in moth morphology reflect the same environmental pressures that alter [[mineralogical-controls-fungal-community-structure]]
 
 ### Evolutionary Biology
 - *B. betularia* is extensively referenced in discussions of environmental change and ecosystem response
@@ -75,13 +75,13 @@ tags: [entomology, ecology, industrial-pollution, evolution, bioindicators]
 
 - Industrial melanism in *B. betularia* is specifically linked to sulfur dioxide (SO2) pollution from coal combustion
 - The same SO2 emissions that affected moth evolution also impacted mycorrhizal fungi, saprotrophic fungi, and lichens
-- The "Waldsterben" (forest dieback) phenomenon in central Europe was partly attributed to the same class of acidifying pollutants
+- The "Waldsterben" (forest dieback) phenomenon in central Europe was partly attributed to the same class of [[acidifying-pollutants-mycorrhizae]]
 - Recovery of moth populations, lichens, and forest health all track improvements in air quality following pollution regulation
 
 ## Distribution
 
 - Widespread across the Palearctic region: Europe, northern Asia
-- Also introduced to North America
+- Also introduced to [[guzman-psilocybin-mushrooms-north-america]]
 - Found in deciduous woodland, hedgerows, parks, and gardens
 - Highly adaptable to varied habitats including urban areas
 

@@ -16,7 +16,7 @@ The study comprised two complementary experiments designed to disentangle the ef
 
 **Experiment 1:** Three cannabis strains—Burmese, Bookoo Kush, and Sour Diesel—were grown in a single, homogenized soil. This controlled-soil design isolated the effect of host genotype by holding the edaphic environment constant. Any microbiome differences observed among the three cultivars could therefore be attributed to plant-driven selection rather than soil heterogeneity.
 
-**Experiment 2:** Two additional strains—White Widow and Maui Wowie—were each grown in two different soil types. This two-soil design introduced an environmental variable, enabling the researchers to evaluate how soil type and cultivar identity interact in shaping microbial community structure. By crossing cultivar with soil type, the experiment provided the statistical power to partition variance attributable to each factor.
+**Experiment 2:** Two additional strains—White Widow and Maui Wowie—were each grown in two different soil types. This two-soil design introduced an environmental variable, enabling the researchers to evaluate how soil type and cultivar identity interact in shaping [[edaphic-factors-microbial-community-structure]]. By crossing cultivar with soil type, the experiment provided the statistical power to partition variance attributable to each factor.
 
 Across both experiments, samples were collected from three compartments: bulk soil (distant from root influence), rhizosphere soil (soil tightly adhering to roots), and endorhiza (surface-sterilized root tissue containing internally colonized microbes). This spatial gradient from exterior to interior was critical for characterizing how plant host filtering intensifies along the soil-to-root continuum.
 
@@ -34,11 +34,11 @@ This hierarchical model explains why both soil type and cultivar identity were s
 
 ## Cultivar Specificity
 
-Cultivar-specific differences in bacterial community composition were a hallmark finding. However, this specificity was **restricted to the endorhiza compartment** and was not observed in the rhizosphere or bulk soil. In other words, while all three compartments differed from one another in overall community structure, only the internal root microbiome carried a signature of host genotype.
+Cultivar-specific differences in [[core-endorhiza-bacterial-community-composition-cannabis]] were a hallmark finding. However, this specificity was **restricted to the endorhiza compartment** and was not observed in the rhizosphere or bulk soil. In other words, while all three compartments differed from one another in overall community structure, only the internal root microbiome carried a signature of host genotype.
 
 This pattern is consistent with the hypothesis that cultivar-specific root exudate profiles, immune responses, or tissue-level biochemical environments selectively recruit or permit colonization by specific bacterial taxa. The rhizosphere, by contrast, reflects a broader and more generalized response to root presence that is less genotype-dependent.
 
-A striking example of cultivar specificity was the differential abundance of *Methylophilus*:
+A striking example of cultivar specificity was the [[otu-differential-abundance-cannabis-microbiome]] of *Methylophilus*:
 
 | Cultivar | *Methylophilus* (relative abundance) |
 |----------|--------------------------------------|
@@ -77,7 +77,7 @@ At the OTU level, the bacterial taxa driving community differences between canna
 
 - **Pseudomonadales** — Including *Pseudomonas* and related genera; these organisms are among the most studied plant growth-promoting rhizobacteria.
 - **Burkholderiales** — A metabolically versatile order that includes both beneficial and pathogenic plant-associated species.
-- **Sphingomonadales** — Known for their ability to degrade complex organic compounds and their prevalence in rhizosphere environments.
+- **Sphingomonadales** — Known for their ability to degrade complex [[plant-volatile-organic-compounds-and-chemical-ecology]] their prevalence in rhizosphere environments.
 - **Rhizobiales** — An order that includes nitrogen-fixing symbionts and diverse root-associated bacteria, though classical legume nodulation is not expected in cannabis.
 
 The concentration of cultivar-differentiating taxa within Proteobacteria underscores the ecological importance of this phylum in the [[cannabis-root-microbiome]] and suggests that functional traits encoded by Proteobacterial genomes (e.g., root colonization factors, hormone production, stress tolerance) may be key determinants of host-specificity.
@@ -107,7 +107,7 @@ The interaction between soil type and sample type was also significant, indicati
 ## Methodological Notes
 
 - Sequencing platform: Illumina (16S rRNA gene V4 region)
-- Bioinformatics pipeline: QIIME (quality filtering, OTU clustering, taxonomic assignment)
+- [[qiime-bioinformatics-pipeline-16s-rrna-microbiome]]: QIIME (quality filtering, OTU clustering, taxonomic assignment)
 - Experimental system: Controlled growth conditions with replicated samples across cultivars and soil types
 - Statistical approaches: Multivariate community analyses (e.g., PERMANOVA) to partition variance among soil type, cultivar, and compartment factors
 

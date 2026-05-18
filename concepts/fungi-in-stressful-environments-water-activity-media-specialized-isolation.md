@@ -1,12 +1,12 @@
 ---
-title: Fungi in Stressful Environments — Water Activity, Media, and Specialized Isolation Methods
+title: Fungi In Stressful Environments Water Activity Media Specialized Isolation
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
 # Fungi in Stressful Environments — Water Activity, Media, and Specialized Isolation Methods
 
-Fungi colonize extreme environments including hyperosmotic substrates, arid deserts, acidic mine drainage, alkaline soda lakes, saline rocks, and nutrient-poor mineral surfaces. Isolating these stress-tolerant fungi requires specialized media formulations, careful adjustment of water activity (a_w), and isolation protocols tailored to each physiological tolerance. This page covers osmophilic, xerophilic, acidophilic, alkalophilic, halophilic, oligotrophic, and rock-inhabiting fungi and the methods used for their isolation.
+Fungi colonize [[fungal-biodiversity-in-extreme-environments]] including hyperosmotic substrates, arid deserts, acidic mine drainage, alkaline soda lakes, saline rocks, and nutrient-poor mineral surfaces. Isolating these stress-tolerant fungi requires specialized media formulations, careful adjustment of water activity (a_w), and isolation protocols tailored to each physiological tolerance. This page covers osmophilic, xerophilic, acidophilic, alkalophilic, halophilic, oligotrophic, and rock-inhabiting fungi and the methods used for their isolation.
 
 ## Osmophilic Isolation
 
@@ -14,7 +14,7 @@ Osmophilic (sugar-tolerant) fungi thrive in high-solute environments such as dri
 
 ### Adjusting Water Activity
 
-Water activity is reduced by adding solutes: NaCl, sugars (sucrose, glucose, fructose), glycerol, or polyethylene glycols. Table 14.3 provides molalities of glycerol, NaCl, and sucrose required to achieve target a_w values.
+Water activity is reduced by adding solutes: NaCl, sugars (sucrose, glucose, fructose), [[glycerol]], or polyethylene glycols. Table 14.3 provides molalities of glycerol, NaCl, and sucrose required to achieve target a_w values.
 
 ### Glycerol as the Preferred Solute
 
@@ -34,7 +34,7 @@ Xerophilic fungi grow at a_w values as low as 0.60–0.70 and are important in s
 
 ### Community Dynamics in Xeric Environments
 
-Fungal community structure depends on organic matter distribution and seasonal variation. Zak et al. (1995) showed that wood-under-shrubs communities in the Chihuahuan Desert were stable over 9 years, while woodrat midden communities changed considerably within months, highlighting the importance of substrate type and disturbance regime.
+[[mineralogical-controls-fungal-community-structure]] depends on organic matter distribution and seasonal variation. Zak et al. (1995) showed that wood-under-shrubs communities in the Chihuahuan Desert were stable over 9 years, while woodrat midden communities changed considerably within months, highlighting the importance of substrate type and disturbance regime.
 
 ### Dichloran-Glycerol-18 (DG18) Medium
 
@@ -89,7 +89,7 @@ Fungi growing at pH extremes require media outside the standard pH 4.5–7.5 ran
 
 ### Alkaline Cornmeal Agar (ACMA)
 
-ACMA is recommended for general alkalophilic isolation (Appendix II; Nagai et al. 1995, 1998), suitable for broad-range alkali-tolerant species in soda soils and alkaline aquatic habitats.
+ACMA is recommended for general alkalophilic isolation (Appendix II; Nagai et al. 1995, 1998), suitable for broad-range alkali-tolerant species in soda soils and alkaline [[biodiversity-fungi-freshwater-aquatic-habitats]].
 
 ## Halophilic Isolation
 
@@ -99,7 +99,7 @@ ACMA is recommended for general alkalophilic isolation (Appendix II; Nagai et al
 
 - **DRBC medium** (dichloran rose bengal chloramphenicol; Appendix II) — inhibitors suppress bacteria and fast-growing fungi, favoring slow-growing halophiles.
 - **Diluted Czapek-Dox agar (1:50)** — oligotrophic conditions favor nutrient-poor-adapted taxa.
-- **Particle filtration washing** (Chapters 12–13) removes surface spores, ensuring colonies originate from within the substrate.
+- **[[particle-filtration-dilution-plating-microfungal-isolation]] washing** (Chapters 12–13) removes surface spores, ensuring colonies originate from within the substrate.
 
 Identification of dematiaceous halophiles follows Ellis (1971, 1976): *Dematiaceous Hyphomycetes* and *More Dematiaceous Hyphomycetes*.
 
@@ -122,7 +122,7 @@ Rock-inhabiting microfungi (RIMFs) colonize rock surfaces and interiors across d
 1. Collect surface scrapings or interior fragments from rock substrates.
 2. Wash samples via **particle filtration** to remove incidental surface spores.
 3. Plate onto **DRBC** or **diluted (1:50) Czapek-Dox agar**.
-4. Incubate 4–12 weeks at ambient temperature.
+4. Incubate 4–12 weeks at [[jadam-ambient-temperature-principle]].
 
 Identification follows Ellis (1971, 1976); molecular methods supplement morphology for sterile or slow-sporulating isolates.
 
@@ -143,7 +143,7 @@ Identification follows Ellis (1971, 1976); molecular methods supplement morpholo
 - Cooke & Whipps 1993. *Ecophysiology of Fungi*; Corry 1987. In: *Environmental Microbiology of Foods*.
 - Dallyn & Fox 1980. *J. Applied Bacteriology*; Ellis 1971, 1976. *Dematiaceous Hyphomycetes* (CMI).
 - Hocking 1993. *Int. J. Food Microbiology*; Hocking & Pitt 1980. *Appl. Environ. Microbiol.* 40: 483–487.
-- Horikoshi 1991. *Microorganisms in Alkaline Environments*; Jarvis & Williams 1987. In: *Food and Beverage [[mycology|Mycology]]*.
+- Horikoshi 1991. *Microorganisms in Alkaline Environments*; Jarvis & Williams 1987. In: *Food and Beverage [[mycology]]*.
 - Nagai et al. 1995, 1998. *Mycoscience*; Parkinson et al. 1989. *Mycologia*.
 - Pitt & Hocking 1997. *Fungi and Food Spoilage*, 2nd ed.; Wainwright 1993. *Biol. Fertil. Soils*.
 - Wheeler et al. 1988. *J. Applied Bacteriology*; Zak et al. 1995. *Mycologia*.

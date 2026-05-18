@@ -22,7 +22,7 @@ Dichloran-glycerol-18 medium (DG18) is a selective culture medium specifically f
 
 - Recommended by Hocking and Pitt (1980) as the preferred medium for isolating and enumerating xerophilic fungi from low-moisture foods and arid environments.
 - Contains glycerol at 18% concentration to lower water activity (aw), creating conditions favorable for xerophilic species while inhibiting mesophilic competitors.
-- Dichloran acts as a fungistatic agent that restricts colony spreading of rapidly-growing genera (particularly Mucor, Rhizopus, and Trichoderma), allowing slow-growing xerophiles to be counted.
+- Dichloran acts as a fungistatic agent that restricts colony spreading of rapidly-growing genera (particularly Mucor, [[rhizopus]], and Trichoderma), allowing slow-growing xerophiles to be counted.
 - Used alongside dichloran-rose bengal-chloramphenicol (DRBC) medium as standard mycological isolation media.
 - Part of a family of selective media designed for fungi from extreme environments, alongside Horikoshi I and II media (for alkalophilic fungi) and Czapek-Dox agar variants.
 

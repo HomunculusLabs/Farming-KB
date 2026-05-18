@@ -1,5 +1,5 @@
 ---
-title: Natural [[gadd-fungal-biodegradation-concrete-building-materials]] Guide
+title: Natural Building Materials Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

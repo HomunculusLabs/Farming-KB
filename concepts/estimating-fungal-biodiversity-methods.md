@@ -1,5 +1,5 @@
 ---
-title: Estimating Fungal [[yeast-isolation-biodiversity-methods]] and Challenges
+title: Estimating Fungal Biodiversity Methods
 aliases: fungal-species-estimation-methods-total-diversity, fungal [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]], unknown fungi, mycological survey methods]
 tags: [mycology, biodiversity, fungal-ecology, survey-methods, species-estimation, ecology]
 source: biodiversity-of-fungi.md

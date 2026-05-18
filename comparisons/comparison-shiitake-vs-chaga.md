@@ -10,12 +10,12 @@ sources: []
 
 ## Overview
 
-Shiitake (*Lentinula edodes*) and chaga (*Inonotus obliquus*) are two of the
-most widely used medicinal mushrooms in the world, yet they differ dramatically
+Shiitake (*Lentinula edodes*) and chaga (*[[chaga-inonotus-obliquus]]*) are two of the
+most widely used [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] in the world, yet they differ dramatically
 in biology, chemistry, and practical application. Shiitake is the second most
 cultivated mushroom globally, prized as both food and medicine. Chaga is a wild
 sclerotium harvested from birch trees in boreal forests, valued almost
-exclusively for its medicinal properties. Understanding their differences helps
+exclusively for its [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]. Understanding their differences helps
 practitioners choose the right mushroom for immune support, cancer adjunct
 therapy, or general wellness.
 
@@ -50,7 +50,7 @@ along with blood sugar regulation via alpha-glucosidase inhibition.
 | **Form** | Fruiting body | Sterile conk (sclerotium) |
 | **Cultivation** | Commercially grown on sawdust | Wild-harvested from birch trees |
 | **Primary Compounds** | Lentinan (beta-glucan), LEM/LAP | Betulinic acid, melanin, inotodiol |
-| **Immune Mechanism** | Broad immune cell activation | Antioxidant + targeted apoptosis |
+| **Immune Mechanism** | Broad [[mushroom-immune-cell-activation-mechanisms]] | Antioxidant + targeted apoptosis |
 | **Anti-Tumor Strategy** | Host defense potentiation (T-cell) | Direct cytotoxicity + immune support |
 | **Culinary Use** | Excellent culinary mushroom | Inedible raw; consumed as tea/tincture |
 | **Antioxidant Level** | Moderate | Exceptionally high (top ORAC) |
@@ -71,7 +71,7 @@ since established cultivation protocols exist for both log and sawdust methods.
 For general immune support, cardiovascular health (cholesterol reduction), and
 nutritional supplementation, shiitake offers a well-rounded profile that can be
 consumed daily as food rather than requiring extraction. The synergy between
-shiitake compounds and conventional chemotherapy is well-documented, making it
+[[lentinan-lem-lap-shiitake-compounds]] and conventional chemotherapy is well-documented, making it
 a strong candidate for integrative oncology protocols.
 
 ## When to Choose Chaga
@@ -87,7 +87,7 @@ applications.
 Chaga is also preferred when antiviral support or blood sugar regulation is the
 primary concern. Its alpha-glucosidase inhibition mechanism mirrors some
 pharmaceutical diabetes drugs. However, the wild-harvested nature of chaga means
-quality varies significantly, and sustainable foraging practices are essential
+quality varies significantly, and sustainable [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]] are essential
 to protect limited boreal forest resources.
 
 ## Combined Use

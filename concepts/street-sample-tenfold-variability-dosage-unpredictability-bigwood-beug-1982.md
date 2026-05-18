@@ -1,5 +1,5 @@
 ---
-title: Street Sample Tenfold Variability and Dosage Unpredictability in Psilocybin Mushrooms
+title: Street Sample Tenfold Variability Dosage Unpredictability Bigwood Beug 1982
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md (Bigwood & Beug 1982)
 created: 2026-05-11
 tags: [mycology, psilocybin, psilocin, street-samples, variability, dosage, unpredictability, hplc, quality-control, entheogenic]
@@ -55,7 +55,7 @@ variation not present in controlled cultures:
 - **Unknown flush numbers**: Early flushes tend to have higher psilocybin
   relative to psilocin; later flushes show the opposite pattern.
 - **Drying and storage**: Improper drying (heat degradation) and storage
-  conditions can degrade both psilocybin and psilocin.
+  conditions can degrade both [[hplc-analysis-of-psilocybin-and-psilocin]].
 - **Substrate differences**: Different substrates (compost vs. rye grain)
   produce different potency profiles.
 - **Harvest timing**: Mushrooms harvested at different maturity stages
@@ -63,13 +63,13 @@ variation not present in controlled cultures:
 
 ## Dosage Implications
 
-The practical implications of tenfold potency variability are significant:
+The practical implications of tenfold [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]] are significant:
 
 - A user consuming 1 gram of Sample 1 (5.6 mg/g) ingests approximately 5.6 mg
   of psilocybin, while the same weight of Sample 3 (0.7 mg/g) delivers only
   0.7 mg—an eightfold difference in active compound consumed.
 - A 10-gram fresh dose (approximately 1 gram dry) could range from a sub-threshold
-  experience to a strong psychedelic experience depending on the sample.
+  experience to a strong [[leary-psychedelic-experience-bardo-mapping]] depending on the sample.
 - This variability compounds the effects of [[set-and-setting]], making subjective
   experiences unpredictable even for experienced users.
 - Users attempting to calibrate their dosage across different sources face
@@ -107,11 +107,11 @@ on Drug Abuse (NIDA). The method provided:
 The finding of tenfold variability has been confirmed by subsequent studies using
 more sophisticated analytical methods (LC-MS/MS). Modern analyses of street
 samples continue to show wide variation, compounded by the presence of additional
-tryptamine alkaloids (baeocystin, norbaeocystin) and the increasing prevalence
+[[hplc-analysis-of-tryptamine-alkaloids]] (baeocystin, norbaeocystin) and the increasing prevalence
  of cultivated species other than *P. cubensis*.
 
 The unpredictability of dosage from natural mushroom material contrasts sharply
-with synthetic psychedelic compounds, where dosage precision is limited only by
+with synthetic [[psychedelic-compounds-reference]], where dosage precision is limited only by
 the accuracy of weighing and the purity of the material.
 
 ## See Also

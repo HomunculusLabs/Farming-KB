@@ -6,7 +6,7 @@ type: concept
 
 # Pond Edge Effect Design
 
-Pond shape has a profound influence on productivity in aquaculture systems. The principle of [[edge-effect]]—the increased biological activity and habitat diversity that occurs at boundaries between ecosystems—is central to [[permaculture]] pond design. By maximizing the ratio of shoreline to surface area, designers can dramatically increase the natural food available to fish and other aquatic organisms.
+Pond shape has a profound influence on productivity in aquaculture systems. The principle of [[edge-effect]]—the increased biological activity and [[fungal-habitat-diversity]] that occurs at boundaries between ecosystems—is central to [[permaculture]] pond design. By maximizing the ratio of shoreline to surface area, designers can dramatically increase the natural food available to fish and other aquatic organisms.
 
 ## Shape and Productivity
 
@@ -43,7 +43,7 @@ This multi-strata design around the pond margin creates multiple food chains con
 
 Circular ponds are most appropriate for **intensive fish rearing** with pumped water flow. Jets set at an angle both aerate and induce current. These tanks typically have central drainage systems to facilitate harvest. Heat-welded or rivet-silicone tanks of clear plastic or fibreglass offer multiple advantages: dense algal food production, heat storage, fish rearing, and eventual hydroponic or terrestrial nutrient sourcing for plants.
 
-However, in earth-constructed ponds, the circular configuration offers the **least edge for area**—the opposite of what is desirable for extensive, low-input systems. Most existing earth ponds are rectangular (to aid netting for harvest) and are typically built without shallows or bays for forage, often lacking drainage. In these simplified or factory systems, pumping, food supply, and water quality maintenance become the major production costs.
+However, in earth-constructed ponds, the circular configuration offers the **least edge for area**—the opposite of what is desirable for extensive, low-input systems. Most existing earth ponds are rectangular (to aid netting for harvest) and are typically built without shallows or bays for forage, often lacking drainage. In these simplified or factory systems, pumping, food supply, and water [[seed-variety-degeneration-and-quality-maintenance]] become the major [[fukuoka-textdoc-production-costs-not-coming-down]].
 
 Linear ponds fit easily on slopes, can be stepped and stacked as troughs, and are simpler to build on steepening terrain. While they may lose more water on leaky sites than circular ponds, this is not a factor on well-sealed clay sites, and sealing with plastic liners is straightforward. Shaded narrow ponds actually lose less water to evaporation.
 
@@ -52,7 +52,7 @@ Linear ponds fit easily on slopes, can be stepped and stacked as troughs, and ar
 Rather than building separate ponds, a single pond can be subdivided using screens, gravel beds, or boulder mounds to create multiple micro-environments. This approach offers:
 
 - **16+ possible environments** in a single water body
-- Acid and alkaline zones for different species
+- [[acid-and-alkaline-soil-management]] zones for different species
 - Graded gravel or boulder screens that serve as complex edges and refuges
 - One-way screens enabling trophic cascade systems (minnows → sunfish → bass)
 
@@ -80,4 +80,4 @@ and integration with broader [[water-management]] strategies.
 
 ## Ecological Benefits
 Well-designed ponds support diverse aquatic and terrestrial ecosystems,
-provide habitat for beneficial organisms, and enhance site productivity.
+provide [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms, and enhance site productivity.

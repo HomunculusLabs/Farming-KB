@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The Psilocybe Fanaticus (PF) TEK is a simplified mushroom cultivation method designed for amateur cultivators using readily available materials. All equipment and supplies can be sourced from common retail outlets — supermarkets, drugstores, hardware stores, pet shops, and scientific supply houses. The method is organized into three stages, each requiring its own set of materials.
+The [[pf-tek-psilocybe-fanaticus]] (PF) TEK is a simplified [[boil-a-bag-mushroom-cultivation-method]] designed for amateur cultivators using readily available materials. All equipment and supplies can be sourced from common [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]] — supermarkets, drugstores, hardware stores, pet shops, and scientific supply houses. The method is organized into three stages, each requiring its own set of materials.
 
 ## Stage One: Jar Preparation and Culturing
 
@@ -37,9 +37,9 @@ These supplies are needed for preparing substrate jars, sterilizing them, and in
 
 | Item | Source | Notes |
 |---|---|---|
-| Spore syringe | Specialized supplier | Contains mushroom spores in sterile water |
+| Spore syringe | Specialized supplier | Contains [[query-how-to-store-mushroom-spores-long-term]] in sterile water |
 | Butane lighter or alcohol lamp | Hardware store | For flame-sterilizing the needle |
-| Rubbing alcohol | Drugstore | For surface sterilization |
+| Rubbing alcohol | Drugstore | For [[challenge-microorganisms-microwave-surface-sterilization]] |
 
 ## Stage Two: Mushroom Growing (Fruiting)
 
@@ -49,7 +49,7 @@ These supplies create the controlled environment needed for mushrooms to fruit f
 
 | Item | Source | Notes |
 |---|---|---|
-| 10-gallon aquarium | Pet shop | Primary fruiting chamber |
+| 10-gallon aquarium | Pet shop | Primary [[comparison-laminar-flow-hood-vs-fruiting-chamber]] |
 | Transparent plastic (Plexiglas) cut piece | Hardware store | Terrarium chamber partition |
 | Strips of wood with connectors and screws | Hardware store | Terrarium lid frame |
 | Plastic film and thumb tacks | Hardware store | Terrarium lid covering |

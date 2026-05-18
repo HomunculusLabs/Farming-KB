@@ -1,5 +1,5 @@
 ---
-title: [[ashwagandha-withania-somnifera]]
+title: Withania Somnifera
 type: species
 tags:
   - herbal-plant

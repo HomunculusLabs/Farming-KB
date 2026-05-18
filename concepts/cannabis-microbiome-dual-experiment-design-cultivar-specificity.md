@@ -1,5 +1,5 @@
 ---
-title: Cannabis Microbiome Dual-Experiment Design for Cultivar Specificity
+title: Cannabis Microbiome Dual Experiment Design Cultivar Specificity
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Winston et al. (2014) employed a two-experiment research design to investigate the relative contributions of plant cultivar (genotype) and soil type (edaphic factors) to the structure of Cannabis-associated microbial communities. This dual-experiment approach allowed the researchers to disentangle cultivar-specific effects from soil-driven effects across three sample compartments: endorhiza (root interior), rhizosphere, and bulk soil.
+Winston et al. (2014) employed a two-experiment research design to investigate the relative contributions of plant cultivar (genotype) and soil type ([[cannabinoid-microbiome-correlation-confounded-edaphic-factors]]) to the structure of Cannabis-associated microbial communities. This dual-experiment approach allowed the researchers to disentangle cultivar-specific effects from soil-driven effects across three sample compartments: endorhiza (root interior), rhizosphere, and bulk soil.
 
 ## Experimental Rationale
 
@@ -24,7 +24,7 @@ The first experiment focused on identifying variation in microbial communities b
 - **Location:** Vista, California (November 2011)
 - **Soil:** Locally composted soil with minimal edaphic variation between plant sites
 - **Samples:** 9 plants (3 per cultivar), triplicate endorhiza, rhizosphere, and bulk soil samples = 27 total
-- **Soil characteristics:** Sandy loam texture, pH 6.63-6.94, salinity 5.12-7.44, total N 0.26-1.51%, total organic C 3.02-5.00%
+- **Soil characteristics:** [[sandy-loam-texture-cannabis-microbiome-assembly]], pH 6.63-6.94, salinity 5.12-7.44, total N 0.26-1.51%, total organic C 3.02-5.00%
 
 The minimal edaphic variation in this experiment was intentional — by keeping soil conditions nearly constant, any observed microbial community differences could be more confidently attributed to cultivar effects. However, this design also meant that soil-type effects could not be robustly tested within this experiment alone.
 
@@ -44,13 +44,13 @@ The key innovation was growing White Widow in two different soil types, which al
 
 ## Molecular Methods
 
-Both experiments used identical molecular approaches:
+Both experiments used identical [[genetic-improvement-agaricus-bisporus-molecular-approaches]]:
 
 - **Sequencing:** Illumina MiSeq of the V4 region of the 16S rRNA gene (291 bp amplicon)
 - **Primers:** 515F forward and 806R Golay-barcoded reverse (Earth Microbiome Project standard)
 - **PCR:** 35 cycles, triplicate reactions pooled per sample
 - **Bioinformatics:** QIIME 1.7.0, Greengenes database at 97% identity (open reference OTU picking)
-- **Analysis:** Alpha and beta diversity (weighted and unweighted UniFrac), ADONIS, ANOSIM, ANOVA, RDA, BEST analysis
+- **Analysis:** Alpha and beta diversity (weighted and [[weighted-unweighted-unifrac-discrepancy-cannabis-cultivar]]), ADONIS, ANOSIM, ANOVA, RDA, BEST analysis
 - **Rarefaction:** 3,000 sequences (Experiment 1), 45,000 sequences (Experiment 2)
 - **DNA extraction:** PowerSoil DNA Isolation Kit with 65°C 10-minute pre-heating modification
 
@@ -66,7 +66,7 @@ The five cultivars used across both experiments represent a range of [[cannabis-
 
 ## Sample Collection Protocol
 
-The sampling protocol was designed to capture three distinct microbial compartments:
+The [[biodiversity-sampling-protocol-design]] was designed to capture three distinct microbial compartments:
 
 1. **Bulk soil:** 50 g sample taken 10 cm from the stem at 20 cm depth, representing the background soil community
 2. **Rhizosphere soil:** Soil remaining adhered to roots after removal from ground, shaken into whirlpak bags

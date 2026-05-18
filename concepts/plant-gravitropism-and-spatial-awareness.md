@@ -1,5 +1,5 @@
 ---
-title: Plant Gravitropism [[plant-memory-and-spatial-awareness]]
+title: Plant Gravitropism And Spatial Awareness
 created: 2026-04-28
 tags: [plant-biology, gravitropism, spatial-awareness, auxin]
 date: 2026-04-28

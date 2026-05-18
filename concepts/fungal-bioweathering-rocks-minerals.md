@@ -1,5 +1,5 @@
 ---
-title: Fungal Bioweathering of Rocks and Minerals
+title: Fungal Bioweathering Rocks Minerals
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -18,7 +18,7 @@ Fungi possess several attributes that make them exceptionally well suited as geo
 - **Metabolic versatility**: Capable of adopting diverse growth strategies and exuding protons, organic acids, and metal-complexing metabolites.
 - **Symbiotic capacity**: Form mutualistic associations with plants (mycorrhizas), algae, and cyanobacteria (lichens).
 - **Filamentous growth**: Can increase or decrease surface area, adopt exploration or exploitation strategies, and form linear organs (cords, rhizomorphs) for protected translocation.
-- **Nutrient translocation**: Internal redistribution of resources enables exploitation of heterogeneous environments.
+- **Nutrient translocation**: Internal redistribution of resources enables exploitation of [[fungal-foraging-strategies-heterogeneous-environments]].
 - **Polymorphism**: Some fungi occur as both filamentous mycelium and unicellular yeasts, adapting to different conditions.
 
 ## Rock-Dwelling Fungal Communities
@@ -47,7 +47,7 @@ Epiliths are often represented by **microcolonial black-coloured fungi** (MCF):
 
 ### Rock Types Colonized
 
-Fungi have been found in virtually all rock types: limestone, soapstone, marble, granite, sandstone, andesite, basalt, gneiss, dolerite, amphibolite, and quartz. They are believed to be **ubiquitous** components of the microflora of all rocks and building stone across all geographical and climatic zones.
+Fungi have been found in virtually all rock types: limestone, soapstone, marble, granite, sandstone, andesite, basalt, gneiss, dolerite, amphibolite, and quartz. They are believed to be **ubiquitous** components of the microflora of all rocks and building stone across all geographical [[humid-tropics-introduction-and-climatic-zones]].
 
 ### Survival Strategies
 
@@ -82,13 +82,13 @@ The ability of fungi to weather rocks has profound implications for:
 
 - **Soil formation**: Initiation of pedogenesis from bare rock.
 - **Nutrient cycling**: Release of elements locked in mineral matrices.
-- **Carbon cycling**: Microbial carbonate precipitation coupled with silicate weathering as a CO₂ sink.
-- **Bioremediation**: Mobilization of metals from contaminated substrates.
+- **Carbon cycling**: Microbial [[fungal-calcium-oxalate-and-carbonate-precipitation]] coupled with silicate weathering as a CO₂ sink.
+- **Bioremediation**: Mobilization of metals from [[mycoremediation-mushroom-cultivation-contaminated-substrates]].
 - **Biodeterioration**: Degradation of building materials, concrete, and cultural heritage stone.
 
 ## See Also
 
-- [[fungal-weathering-mechanisms]] — Detailed mechanisms of biomechanical and biochemical weathering
+- [[fungal-weathering-mechanisms]] — Detailed mechanisms of biomechanical and [[fungal-biomechanical-biochemical-weathering-mechanisms-gadd]]
 - [[mycogenic-mineral-precipitation]] — Secondary mineral formation by fungi
 - [[mycorrhizal-mineral-weathering]] — Symbiotic fungal weathering in plant roots
 - [[fungal-metal-transformations]] — Metal solubilization, immobilization, and environmental implications

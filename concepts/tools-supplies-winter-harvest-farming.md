@@ -1,5 +1,5 @@
 ---
-title: Tools and Supplies [[us-climate-zones-for-winter-harvest]] Farming
+title: Tools Supplies Winter Harvest Farming
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

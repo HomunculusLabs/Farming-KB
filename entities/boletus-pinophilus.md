@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Boletus pinophilus
 
-*Boletus pinophilus* (syn. *Boletus pinicola*), commonly known as the pine bolete or pinewood bolete, is a species of edible mushroom in the family Boletaceae. It is one of the most highly prized wild mushrooms in Europe, valued both for its exceptional culinary qualities and for its emerging profile of [[boletus-edulis-entity]]* species complex, a group of closely related boletes that are among the most commercially important wild-harvested mushrooms in the world. It was long considered a variety or form of *B. edulis* but has been recognized as a distinct species based on morphological, ecological, and molecular evidence.
+*Boletus pinophilus* (syn. *Boletus pinicola*), commonly known as the pine bolete or pinewood bolete, is a species of edible mushroom in the family Boletaceae. It is one of the most highly prized wild mushrooms in Europe, valued both for its exceptional culinary qualities and for its emerging profile of [[boletus-edulis]]* species complex, a group of closely related boletes that are among the most commercially important wild-harvested mushrooms in the world. It was long considered a variety or form of *B. edulis* but has been recognized as a distinct species based on morphological, ecological, and molecular evidence.
 
 The cap is typically 8–25 cm in diameter, convex to plano-convex in maturity, with a smooth, slightly sticky surface when moist. The cap color is distinctive: a rich chestnut-brown to reddish-brown, often with a warm, mahogany tone that differentiates it from the paler *B. edulis*. The cap margin is typically inrolled when young and may retain a whitish rim.
 

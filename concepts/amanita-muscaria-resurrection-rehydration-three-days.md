@@ -1,5 +1,5 @@
 ---
-title: "[[amanita-muscaria-resurrection-experiments]] Rehydration and Three-Day Cycle"
+title: Amanita Muscaria Resurrection Rehydration Three Days
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---

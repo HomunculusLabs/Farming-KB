@@ -1,5 +1,5 @@
 ---
-title: [[membrane-transport-proteins-in-plants]] and Membrane Channels in Plant Cells
+title: Transport Proteins And Membrane Channels
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---

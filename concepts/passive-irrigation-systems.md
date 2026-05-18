@@ -1,5 +1,5 @@
 ---
-title: [[comparison-drip-irrigation-vs-passive-irrigation]] Systems
+title: Passive Irrigation Systems
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

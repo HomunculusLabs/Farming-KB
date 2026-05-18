@@ -22,13 +22,13 @@ Pyricularia grisea (synonym P. oryzae; teleomorph [[magnaporthe-grisea]]) is the
 
 ## Key Facts
 
-- Causal agent of rice blast disease, one of the most important diseases of rice worldwide.
+- Causal agent of [[fukuoka-textdoc-non-causality-rice-blast-disease]], one of the most important diseases of rice worldwide.
 - Also parasitizes more than 50 other species of grasses and sedges.
 - Symptoms consist of lesions on leaves, nodes, panicles, and grain. Leaf spots are elliptical with pointed ends and grayish centers with dark margins.
 - Lesions begin as small, water-soaked areas and develop into spots of up to 1.5 x 0.5 cm.
 - Heavy spotting or infection at the tillering stage can kill the host.
-- The fungus produces specialized infection structures called appressoria that generate enormous turgor pressure to physically breach the host cuticle.
-- Common foliar parasite of grasses in tropical regions, along with Cercospora, Drechslera, Rhynchosporium, and Sphaerulina.
+- The fungus produces specialized [[fungal-appressorium-and-infection-structures]] called appressoria that generate enormous turgor pressure to physically breach the host cuticle.
+- Common foliar parasite of grasses [[fukuoka-natural-farming-in-tropical-regions]], along with Cercospora, Drechslera, Rhynchosporium, and Sphaerulina.
 - The teleomorph (Magnaporthe grisea) is used in the scientific literature, though the anamorph name Pyricularia is preferred under the current fungal nomenclature code.
 
 ## Relevance to Cultivation and Mycology
@@ -92,7 +92,7 @@ Pyricularia grisea is a hemibiotroph, establishing an initial biotrophic phase b
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
@@ -100,7 +100,7 @@ Pyricularia grisea is a hemibiotroph, establishing an initial biotrophic phase b
 ## References
 
 - Ou (1985); Holliday (1980)
-- Source: Biodiversity of Fungi, Chapter 7 — Fungi on Living Plant Substrata, Including Fruits
+- Source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]], Chapter 7 — Fungi on [[fungi-living-plant-substrata]], Including Fruits
 
 ## Related
 - [[fungi-living-plants-anthracnose-ergot-fruit-rots]]

@@ -1,5 +1,5 @@
 ---
-title: Canker Fungi and Plant Galls
+title: Canker Fungi And Plant Galls
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -27,14 +27,14 @@ microscopy of reproductive fruiting structures. Key diagnostic structures includ
 - **Apothecia** — open, cup- or disc-shaped ascocarps
 
 Accurate identification demands sectioning of infected tissue and careful examination
-of [[spore|spore]] morphology, septation, and the architecture of these reproductive structures.
+of [[spore]] morphology, septation, and the architecture of these reproductive structures.
 
 ## Parasitic Fungi on Grasses
 
 ### Temperate Grass Parasites
 
 Temperate grasses harbor a diverse assemblage of parasitic fungi spanning multiple
-taxonomic groups. Ascomycete genera include *Gaeumannomyces* (notably *G. graminis*,
+[[coprophilous-fungi-taxonomic-groups-distribution]]. Ascomycete genera include *Gaeumannomyces* (notably *G. graminis*,
 cause of take-all disease), *Gibberella* (sexual stage of *Fusarium*), *Monographella*,
 *Phyllachora* (producing tar-spot stromata on leaf surfaces), and *Pleospora*.
 
@@ -99,7 +99,7 @@ without host containment, often girdling and killing the stem. Key genera:
   rot across diverse woody hosts
 - *Cryptosporella* — associated with cankers on hardwood trees
 - *Cryphonectria* — notably *C. parasitica* (chestnut blight), which devastated
-  American chestnut; hypovirulence strains provide a biological control model
+  American chestnut; hypovirulence strains provide a [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] model
 
 ### 3. Twig and Shoot Blights
 
@@ -113,7 +113,7 @@ of pines worldwide).
 Several fungi induce gall formation on their hosts through complex manipulation
 of host developmental pathways:
 
-- *Endocronartium harknessii* — causes western gall rust on pine, producing
+- *[[endocronartium-harknessii]]* — causes western gall rust on pine, producing
   spherical galls on branches and stems that release basidiospores
 - *Gymnosporangium* — [[rust-fungi]] with obligate alternation between juniper
   (telial host) and Rosaceae (aecial host), causing conspicuous galls on
@@ -122,7 +122,7 @@ of host developmental pathways:
   characteristic black, cylindrical gall formations on branches
 - *Phomopsis* — induces gall-like swellings on various woody hosts
 - *Cyttaria* — produces large, striking orange fruiting bodies in galls on
-  *Nothofagus* (southern beech) in South America and Australasia
+  *Nothofagus* (southern beech) in [[guzman-psilocybin-mushrooms-south-america]] and Australasia
 
 ## Synchytrium (Chytridiales)
 
@@ -142,8 +142,8 @@ The Plasmodiophoromycetes are a group of approximately 15 genera of obligate
 endoparasites traditionally studied by mycologists but now classified within
 the protist supergroup Rhizaria. These organisms exist as multinucleate
 protoplasts (plasmodia) within host cells, lacking cell walls during their
-vegetative phase. Reproduction involves biflagellate zoospores and the
-formation of resting structures called cystosori (aggregate resting spores).
+[[cervantes-vegetative-phase]]. Reproduction involves biflagellate zoospores and the
+formation of [[fungal-sclerotia-and-resting-structures]] called cystosori (aggregate resting spores).
 
 ## See Also
 

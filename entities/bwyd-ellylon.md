@@ -7,7 +7,7 @@ tags: [mythology, folklore, wales, psilocybe-semilanceata, fairies]
 
 ## Description
 
-Bwyd Ellylon is a Welsh mythological term translating to "Food of the Fairies" or "Feast of the Fairies." It refers to a peculiar poisonous mushroom found in Wales (British Isles) that was considered a delicacy by fairies feasting in celebration of the spirit world. The legend is one of the earliest European folkloric references linking mushrooms to supernatural experiences and altered states of consciousness.
+Bwyd Ellylon is a Welsh mythological term translating to "Food of the Fairies" or "Feast of the Fairies." It refers to a peculiar poisonous mushroom found in Wales (British Isles) that was considered a delicacy by fairies feasting in celebration of the spirit world. The legend is one of the earliest European folkloric references linking mushrooms to supernatural experiences [[glossolalia-and-altered-states]] of consciousness.
 
 ## Historical Significance
 
@@ -19,7 +19,7 @@ Several factors support the identification with *P. semilanceata*:
 
 1. **Geographic distribution**: *P. semilanceata* grows abundantly across Wales during autumn
 2. **Psychoactive effects**: The legend's description of fairy celebrations and spirit world contact parallels the hallucinogenic effects of psilocybin
-3. **Cultural context**: The fairy mythology may encode genuine historical knowledge of psychoactive mushroom use in a pre-Christian cultural framework
+3. **Cultural context**: The fairy mythology may encode genuine historical knowledge of [[global-ethnography-psychoactive-mushroom-use]] in a pre-Christian cultural framework
 
 ## Classification
 
@@ -30,7 +30,7 @@ Several factors support the identification with *P. semilanceata*:
 
 ## Relevance to Cultivation and Mycology
 
-The Bwyd Ellylon legend demonstrates that knowledge of psychoactive mushrooms in Europe predates modern scientific discovery by centuries. The mythological framework served as a cultural container for transmitting practical knowledge about psychoactive species across generations, even as explicit understanding was suppressed during the Christianization of Europe. This parallels the Mexican concept of *teonanacatl* ("flesh of the gods"), where indigenous cultures maintained reverent relationships with psychoactive mushrooms.
+The Bwyd Ellylon legend demonstrates that knowledge [[historical-and-cultural-uses-of-psychoactive-mushrooms]] in Europe predates modern scientific discovery by centuries. The [[christus-eros-osiris-mckenna-mythological-framework-suppression-psychedelic-knowledge]] served as a cultural container for transmitting practical knowledge about psychoactive species across generations, even as explicit understanding was suppressed during the Christianization of Europe. This parallels the Mexican concept of *teonanacatl* ("flesh of the gods"), where indigenous cultures maintained reverent relationships with psychoactive mushrooms.
 
 ## Key Facts
 
@@ -46,7 +46,7 @@ The Bwyd Ellylon legend exemplifies the concept of **mycophilia** (a term coined
 
 ## Ecological Significance
 The ecological importance of Bwyd Ellylon extends across multiple levels of biological
-organization. Research has documented its role in nutrient cycling, species interactions,
+organization. Research has documented its role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], species interactions,
 and ecosystem stability. These relationships highlight the interconnected nature of
 biological communities and the importance of understanding individual components
 within their broader environmental context.
@@ -56,7 +56,7 @@ Understanding Bwyd Ellylon has practical implications for agriculture, horticult
 and environmental management. Applied research has explored how this knowledge
 can be used to improve soil health, optimize growing conditions, and develop
 more sustainable management practices. These applications demonstrate the bridge
-between fundamental research and real-world problem solving.
+between fundamental research and real-world [[cannabis-grow-nutrient-deficiency-problem-solving]].
 
 ## Research Context
 Current research on Bwyd Ellylon draws from multiple scientific disciplines, integrating

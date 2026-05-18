@@ -71,7 +71,7 @@ The Zoroastrian equivalent of Soma, called **Haoma**, provides additional clues:
 
 ## The Eleusinian Mystery
 
-McKenna draws a parallel to the **Eleusinian Mysteries** of ancient Greece — the most important religious initiation of the classical world, practiced for nearly 2,000 years. Key parallels with the Soma question:
+McKenna draws a parallel to the **[[catholic-church-suppression-eleusinian-mysteries]]** of ancient Greece — the most important religious initiation of the classical world, practiced for nearly 2,000 years. Key parallels with the Soma question:
 
 1. **Secrecy** — the central sacrament (the *kykeon*) was never publicly revealed
 2. **Life-changing impact** — initiates consistently described the experience as the most profound of their lives
@@ -80,7 +80,7 @@ McKenna draws a parallel to the **Eleusinian Mysteries** of ancient Greece — t
 
 ### The Ergotized Kykeon Theory
 
-Several scholars have proposed that the Eleusinian kykeon was contaminated with **ergot** (*Claviceps purpurea*), the fungus that grows on barley and contains ergotamine (precursor to LSD):
+Several scholars have proposed that the Eleusinian kykeon was contaminated with **ergot** (*[[bloomfield-ergot-claviceps-purpurea-ergotism]]*), the fungus that grows on barley and contains ergotamine (precursor to LSD):
 - Barley was a key ingredient in the kykeon
 - Ergot naturally contaminates barley crops
 - Low doses of ergot alkaloids could produce visionary experiences
@@ -88,7 +88,7 @@ Several scholars have proposed that the Eleusinian kykeon was contaminated with 
 
 ### Graves's Psilocybin Theory
 
-Robert Graves proposed that the kykeon contained **psilocybin mushrooms** growing on the barley. This is consistent with:
+Robert Graves proposed that the kykeon contained **[[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]]** growing on the barley. This is consistent with:
 - The visionary quality of the experience
 - The "barley" connection in the recipe
 - The mushroom's ability to grow on grain substrates
@@ -98,8 +98,8 @@ Robert Graves proposed that the kykeon contained **psilocybin mushrooms** growin
 McKenna argues that the loss of Soma/Eleusinian knowledge represents a critical turning point in human history:
 - When the Indo-European peoples forgot the identity of their sacred plant, they lost direct access to the visionary experience
 - This loss was filled by **mediated religion** — priesthoods, scriptures, and dogma replacing direct revelation
-- The transition from plant-based direct mystical experience to authority-based religion is, in McKenna's framework, the moment humanity fell from "Paradise"
-- The suppression of visionary plants became a hallmark of dominator culture
+- The transition from plant-based direct [[mystical-experience]] to authority-based religion is, in McKenna's framework, the moment humanity fell from "Paradise"
+- The suppression of visionary plants became a hallmark of [[dominator-culture-and-partnership-society]]
 
 ## Why It Matters
 
@@ -108,4 +108,4 @@ The Soma question matters beyond academic curiosity because:
 - Its loss illustrates how cultural knowledge can be deliberately or accidentally erased
 - The search for Soma mirrors the modern search for meaning through psychoactive experience
 - The parallels between Soma, Haoma, the Eleusinian kykeon, and ayahuasca suggest a universal human pattern of visionary plant use in religious contexts
-- Recovering this knowledge is central to McKenna's proposed "Archaic Revival"
+- Recovering this knowledge is central to McKenna's proposed "[[archaic-revival-partnership-vs-dominator-cultures]]"

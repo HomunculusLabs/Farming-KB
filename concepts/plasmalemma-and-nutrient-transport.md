@@ -1,5 +1,5 @@
 ---
-title: Plasmalemma [[fungal-decay-and-nutrient-transport]] Proteins
+title: Plasmalemma And Nutrient Transport
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---

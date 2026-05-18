@@ -6,7 +6,7 @@ type: concept
 
 # Hashish Preparation and Cannabis Consumption Methods
 
-In *Cannabis Alchemy*, [[ben-lemon]] details practical techniques for converting cannabis extracts into traditional hashish forms, potentiating raw plant material, and delivering concentrated cannabinoids through various consumption methods. These methods draw on historical practices from Morocco, Lebanon, Nepal, and India while incorporating modern [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] matters less than with traditional methods since potency is primarily determined by the added oil.
+In *[[cannabis-alchemy-book]]*, [[ben-lemon]] details practical techniques for converting cannabis extracts into traditional hashish forms, potentiating raw plant material, and delivering concentrated cannabinoids through various consumption methods. These methods draw on historical practices from Morocco, Lebanon, Nepal, and India while incorporating modern [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] matters less than with traditional methods since potency is primarily determined by the added oil.
 
 ### Leaching Undesirable Compounds
 
@@ -68,15 +68,15 @@ The text concludes with an introduction to scaling these techniques for larger p
 
 - Maintaining proper solvent-to-plant ratios during extraction
 - Ensuring thorough solvent recovery through careful evaporation
-- Quality control through consistent [[cervantes-reservoir-temperature-management]]
+- [[blesching-cannabis-contaminants-testing-quality-control]] through consistent [[cervantes-reservoir-temperature-management]]
 - Proper storage to prevent degradation of the final product
 
 These scaled methods laid the groundwork for the commercial extraction industry that would develop decades later, though modern producers have access to equipment (closed-loop extractors, rotary evaporators, short-path distillation) that would have been unavailable to Lemon's original audience.
 
 ## Historical and Cultural Context
 
-The techniques described in *Cannabis Alchemy* represent a bridge between traditional hashish-making cultures and modern chemistry. Methods like temple ball formation and finger rolling directly emulate centuries-old practices from Nepal, India, Morocco, and Lebanon. The addition of solvent extraction and activated charcoal purification introduces laboratory precision to what were historically artisanal processes.
+The techniques described in *Cannabis Alchemy* represent a bridge between traditional hashish-making cultures and modern chemistry. Methods like temple ball formation and finger rolling directly emulate centuries-old practices from Nepal, India, Morocco, and Lebanon. The addition of [[cannabis-solvent-extraction]] and activated charcoal purification introduces laboratory precision to what were historically artisanal processes.
 
-Lemon's work was part of a broader underground movement in the 1970s that sought to understand and replicate the finest cannabis preparations from around the world. The combination of ethnobotanical knowledge with organic chemistry reflected the interdisciplinary spirit of the era's psychedelic research community.
+Lemon's work was part of a broader underground movement in the 1970s that sought to understand and replicate the finest cannabis preparations from around the world. The combination of ethnobotanical knowledge with [[pericyclic-reactions-organic-chemistry]] reflected the interdisciplinary spirit of the era's [[controlled-substances-act-and-psychedelic-research]] community.
 
 ## Safety Considerations

@@ -1,5 +1,5 @@
 ---
-title: Mobile [[coleman-greenhouse-ventilation-design]] Systems
+title: Mobile Greenhouse Ventilation Systems
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

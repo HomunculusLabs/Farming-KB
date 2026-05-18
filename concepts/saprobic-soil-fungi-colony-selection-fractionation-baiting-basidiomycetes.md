@@ -1,5 +1,5 @@
 ---
-title: Saprobic Soil Fungi — Colony Selection, Community Fractionation, Baiting, and Basidiomycete Isolation
+title: Saprobic Soil Fungi Colony Selection Fractionation Baiting Basidiomycetes
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -26,13 +26,13 @@ A dissecting microscope with **epistage and substage lighting** and variable mag
 
 ## Fractionating the Soil Fungal Community
 
-Standard isolation methods rapidly yield many isolates of readily cultured, fast-growing species. However, the high propagule densities of common species can mask or physically interfere with the isolation of rare and slow-growing fungi. Several **fractionation techniques** have been developed to address this bias.
+Standard [[biodiversity-of-fungi-soil-isolation-methods]] rapidly yield many isolates of readily cultured, fast-growing species. However, the high propagule densities of common species can mask or physically interfere with the isolation of rare and slow-growing fungi. Several **fractionation techniques** have been developed to address this bias.
 
 ### Density-Gradient Centrifugation
 
 - **Paden (1967)** demonstrated that large ascospores could be preferentially isolated using sucrose density gradients, selectively enriching for fungi producing larger propagules.
 - **Okuda et al. (1995)** employed Percoll density-gradient centrifugation, recovering more taxa than standard suspension plating, though no entirely novel groups were detected.
-- **Miller et al. (1994)** used sucrose density gradients to separate basidiospores and sclerotia from *Pinus contorta* soils, providing targeted access to these otherwise underrepresented propagule types.
+- **Miller et al. (1994)** used sucrose density gradients to separate basidiospores and sclerotia from *[[pinus-contorta]]* soils, providing targeted access to these otherwise underrepresented propagule types.
 
 ### Differential Centrifugation
 
@@ -66,7 +66,7 @@ Baiting is **not widely used in broad soil fungal surveys**. Notable exceptions 
 
 ## Sclerotia
 
-Sclerotial populations are assessed primarily during **autoecological studies** of root-associated or pathogenic fungi (Coley-Smith and Cooke 1971; Singleton et al. 1992). Their location in soil is guided by knowledge of associated plant hosts, ectomycorrhizae, or the positions of fruiting bodies.
+Sclerotial populations are assessed primarily during **autoecological studies** of root-associated or pathogenic fungi (Coley-Smith and Cooke 1971; Singleton et al. 1992). Their location in soil is guided by knowledge of associated plant hosts, ectomycorrhizae, or the positions [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 ### Separation Techniques
 
@@ -75,11 +75,11 @@ Sclerotial populations are assessed primarily during **autoecological studies** 
 - **Density-gradient centrifugation** (Miller et al. 1994)
 - **Direct observation** on the soil surface (Cotter and Bills 1985)
 
-**Miller et al. (1994)** surveyed both burned and unburned *Pinus contorta* stands in Wyoming for sclerotia of *Cenococcum geophilum* and *Morchella* species, demonstrating the utility of targeted sclerotial surveys in fire ecology contexts.
+**Miller et al. (1994)** surveyed both burned and unburned *Pinus contorta* stands in Wyoming for sclerotia of *[[cenococcum-geophilum]]* and *Morchella* species, demonstrating the utility of targeted sclerotial surveys in fire ecology contexts.
 
 ## Selective Isolation of Saprobic Basidiomycetes
 
-Surveys relying on standard culture-based isolation markedly **underestimate saprobic basidiomycete diversity** (Warcup 1959; Warcup and Talbot 1962; Thorn et al. 1996). Two principal factors explain their rarity in isolation studies:
+Surveys relying on standard culture-based isolation markedly **underestimate saprobic [[biodiversity-basidiomycete-diversity-taxonomy]]** (Warcup 1959; Warcup and Talbot 1962; Thorn et al. 1996). Two principal factors explain their rarity in isolation studies:
 
 1. Basidiomycete propagules are vastly outnumbered by Zygomycete and mitosporic fungal spores in most soils.
 2. Even when basidiomycetes germinate on isolation media, they are rapidly overgrown by faster-growing competitors.
@@ -116,7 +116,7 @@ Both **fresh and air-dried soils** should be studied, because chytrid taxa diffe
 - **Ephemeral taxa** lacking resting spores may not be recoverable from dried soils and require fresh material.
 - **Drying reduces competitors**, meaning some resting-spore chytrids are best isolated from air-dried samples (Whisler 1987).
 
-A robust sampling protocol calls for **multiple soil samples (at least 14)** collected across a range of sites, with sampling repeated at least once during each major season to capture temporal variation.
+A robust [[biodiversity-sampling-protocol-design]] calls for **multiple soil samples (at least 14)** collected across a range of sites, with sampling repeated at least once during each major season to capture temporal variation.
 
 ### Identification
 

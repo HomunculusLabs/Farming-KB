@@ -98,6 +98,8 @@ with this element in complex and beneficial ways.
 Miprocin finds practical application in multiple design contexts.
 [[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
+
+- Related: [[psilocybin-mushroom-field-identification]]
 Site-specific adaptation ensures relevance to local conditions.
 
 ## Management and Implementation
@@ -145,6 +147,3 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

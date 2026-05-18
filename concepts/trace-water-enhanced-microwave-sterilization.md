@@ -1,5 +1,5 @@
 ---
-title: [[trace-water-enhanced-microwave-surface-sterilization]] [[coaxial-power-splitter-waveguide-microwave-sterilization]]
+title: Trace Water Enhanced Microwave Sterilization
 tags:
   - sterilization
   - microwave

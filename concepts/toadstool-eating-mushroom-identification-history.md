@@ -1,5 +1,5 @@
 ---
-title: [[palmer-toadstool-eating-and-mycology-advocacy]] [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]] History
+title: Toadstool Eating Mushroom Identification History
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: [[cool-climate-home-garden-and-seed-saving]] Garden Design
+title: Cool Climate Home Garden Design
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

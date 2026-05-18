@@ -1,5 +1,5 @@
 ---
-title: [[floodwater-harvesting-braided-streams]] and Braided Stream Management
+title: Floodwater Harvesting And Braided Stream Management
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

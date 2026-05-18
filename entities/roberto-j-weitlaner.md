@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-Ing. Roberto J. Weitlaner was an Austrian-born engineer and anthropologist who played a pivotal role in the rediscovery of the Mexican [[psilocybin-mushroom]] cult. In 1936, he became the first white person in modern times to obtain teonanacatl (psychoactive mushrooms) from indigenous communities in Oaxaca, Mexico. His work bridged the gap between the Spanish colonial descriptions of the mushrooms and their modern rediscovery by R. [[gordon-wasson]] in the 1950s.
+Ing. Roberto J. Weitlaner was an Austrian-born engineer and anthropologist who played a pivotal role in the rediscovery of the Mexican [[psilocybin-mushroom]] cult. In 1936, he became the first white person in modern times to obtain teonanacatl ([[ceremonial-shamanic-use-psychoactive-mushrooms]]) from indigenous communities in Oaxaca, Mexico. His work bridged the gap between the Spanish colonial descriptions of the mushrooms and their modern rediscovery by R. [[gordon-wasson]] in the 1950s.
 
 ## Classification
 
@@ -39,7 +39,7 @@ Weitlaner's contributions span several key moments in the history of psilocybian
 
 3. **1938**: His daughter and Jean Basset Johnson attended a mushroom ceremony — first white attendance
 
-4. **1938**: He facilitated R.E. Schultes' trip to Oaxaca, where Schultes obtained specimens of *[[panaeolus-campanulatus]]* var. *sphinctrinus*, *Stropharia cubensis*, and described *Psilocybe caerulescens* var. *mazatecorum*
+4. **1938**: He facilitated R.E. Schultes' trip to Oaxaca, where Schultes obtained specimens of *[[panaeolus-campanulatus]]* var. *sphinctrinus*, *Stropharia cubensis*, and described *[[psilocybe-caerulescens]]* var. *mazatecorum*
 
 5. **1953**: He guided the Wassons to Huautla de Jiménez, leading to the watershed rediscovery
 
@@ -51,11 +51,11 @@ Weitlaner occupies a unique position in the history of ethnomycology. He was not
 - His knowledge of Oaxacan geography and indigenous communities was irreplaceable
 - He enabled both the earliest modern contact with the mushroom cult and, decades later, the systematic scientific investigation that followed
 
-Without Weitlaner's 1936 acquisition and his 1953 guidance of the Wassons, the rediscovery of psilocybin mushrooms might have been delayed by years or even decades. The entire chain of events — Wasson's expedition, Heim's mycological work, Hofmann's isolation of psilocybin, and the subsequent psychedelic revolution — traces back through Weitlaner's facilitation.
+Without Weitlaner's 1936 acquisition and his 1953 guidance of the Wassons, the [[wasson-rediscovery-of-psilocybin]] mushrooms might have been delayed by years or even decades. The entire chain of events — Wasson's expedition, Heim's mycological work, Hofmann's isolation of psilocybin, and the subsequent [[powell-paradigm-shifting-and-the-psychedelic-revolution]] — traces back through Weitlaner's facilitation.
 
 ## Relevance to Cultivation
 
-Weitlaner's role is relevant to the [[history-of-mushroom-cultivation]] in that he enabled the chain of discoveries that ultimately led to the identification of *Stropharia cubensis* as a cultivatable species. Without his guidance of the Wassons to Huautla, the species might never have been systematically studied, and the cultivation techniques developed in the 1970s might never have been created.
+Weitlaner's role is relevant to the [[history-of-mushroom-cultivation]] in that he enabled the chain of discoveries that ultimately led to the identification of *Stropharia cubensis* as a cultivatable species. Without his guidance of the Wassons to Huautla, the species might never have been systematically studied, and the [[cannabis-sativa-indoor-cultivation-techniques]] developed in the 1970s might never have been created.
 
 ## Sources
 
@@ -71,7 +71,7 @@ on aligning practices with underlying biological and ecological principles.
 Documentation and observation support continuous improvement over time.
 
 ## Broader Context
-This subject connects to wider systems of ecological management,
+This subject connects to wider systems of [[solomon-gardening-aikido-pest-philosophy-ecological-management]],
 sustainable production, and environmental stewardship. Integration with
 related practices amplifies individual technique effectiveness and creates
 synergistic benefits. Ongoing research continues to refine understanding

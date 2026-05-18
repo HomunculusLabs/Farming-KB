@@ -17,7 +17,7 @@ aliases: []
 2C-T-9 is a member of the 2C-T family of [[alexander-shulgin]] as part of his exploration of bulky sulfur-containing
 substituents. The compound requires relatively high doses (60–100 mg) for
 activity and produces an experience dominated by strong physical/body effects
-with minimal visual phenomena, lasting 12–18 hours. Shulgin considered the
+with minimal [[lsd-dark-experiment-visual-phenomena-psychological-effects]], lasting 12–18 hours. Shulgin considered the
 compound to have an unfavorable cost-to-benefit ratio due to the significant
 body burden it imposes relative to its psychoactive rewards.
 
@@ -103,7 +103,7 @@ particularly for inexperienced users.
 
 ## Cross-References
 
-- Related compounds in PiHKAL: 2C-T-2, 2C-T-7, 2C-T-8, 2C-T-10 (unpursued),
+- [[lsd-structure-activity-relationships-related-compounds]] in PiHKAL: 2C-T-2, 2C-T-7, 2C-T-8, 2C-T-10 (unpursued),
   2C-T-11 (unpursued), 2C-T-12 (unpursued)
 - See also: pihkal 2c t family for the 2C-T series overview
 - See also: [[tihkal-shulgin-rating-scale]] system

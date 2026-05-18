@@ -1,5 +1,5 @@
 ---
-title: Visions of External Unity, the [[retinal-circus-and-magic-theatre]], and the Magic Theatre
+title: Visions External Unity Retinal Circus Magic Theatre
 source: leary-t-the-psychedelic-experience.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: [[garden-tools-selection]] and Care
+title: Garden Tools Selection And Care
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

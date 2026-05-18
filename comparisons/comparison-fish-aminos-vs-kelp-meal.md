@@ -12,7 +12,7 @@ type: comparison
 Fish aminos and kelp meal are two of the most powerful organic inputs available
 to growers, but they serve fundamentally different nutritional roles. Fish aminos
 deliver rapid nitrogen in amino acid form, while kelp meal provides a broad
-spectrum of trace minerals and [[cannabis-vegetative-growth-stage]] when plants
+spectrum of [[dynamic-accumulator-plants-trace-minerals]] and [[cannabis-vegetative-growth-stage]] when plants
 have the highest demand for nitrogen. A key advantage over commercial fish
 emulsion is that the low-pH fermentation preserves heat-sensitive enzymes that
 commercial processing destroys. The production cost is essentially zero if fish
@@ -21,8 +21,8 @@ nitrogen focus with relatively low levels of phosphorus, potassium, and trace
 elements. Odor during fermentation can be significant.
 
 **Kelp Meal** is a slow-release organic amendment made from dried and ground
-seaweed, typically Ascophyllum nodosum. Its NPK is approximately 2.8-0.2-2.3,
-but its real value lies in the 60-70 trace elements it provides, including
+seaweed, typically [[ascophyllum-nodosum]]. Its NPK is approximately 2.8-0.2-2.3,
+but its real value lies in the 60-70 [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]] it provides, including
 iron, zinc, manganese, boron, and cobalt. Kelp meal also contains natural plant
 growth hormones including cytokinins, auxins, and gibberellins that stimulate
 root development, improve stress resistance, and enhance overall plant vigor.
@@ -31,7 +31,7 @@ It can be used as a soil amendment mixed into beds, as a compost activator,
 steeped as a foliar spray, or applied as a seed treatment. The alginate in kelp
 improves soil structure by enhancing water retention and aggregation. Kelp meal
 feeds beneficial soil microbes, supporting the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] | Trace minerals, hormones, stress resistance |
-| Growth Stage | Vegetative stage primarily | All stages, especially transplanting |
+| Growth Stage | [[cannabis-vegetative-stage]] primarily | All stages, especially transplanting |
 | Production Cost | Nearly free if fish scraps available | More expensive than most amendments |
 | Speed of Availability | Rapid; amino acids absorbed directly | Slow-release; minerals break down over weeks |
 | Soil Building | Minimal direct soil improvement | Improves structure via alginates, feeds microbes |
@@ -64,7 +64,7 @@ highest levels of active compounds.
 
 As a soil amendment, mix 1-2 cups of kelp meal per 100 square feet into
 planting beds before seeding or transplanting. For compost activation, sprinkle
-a handful between each layer of compost material. For foliar application, steep
+a handful between each layer of compost material. For [[aact-foliar-application-and-sticker-spreaders]], steep
 1-2 tablespoons of kelp meal per gallon of water for 24-48 hours, strain, and
 spray. As a seed treatment, dust seeds lightly with kelp powder before planting
 to improve germination rates and seedling vigor.
@@ -89,7 +89,7 @@ heat waves, drought, or pest pressure.
 ## Hybrid Approach: Combined Use
 
 Combining fish aminos and kelp meal is standard practice in KNF and holistic
-organic growing systems. The typical protocol applies fish aminos for nitrogen
+[[query-what-is-the-role-of-trichoderma-in-organic-growing]] systems. The typical protocol applies fish aminos for nitrogen
 during vegetative growth and kelp for trace minerals and hormones throughout
 the entire growth cycle. Many growers combine both in a single foliar spray,
 using fish aminos at 1:20 dilution plus kelp tea, to deliver both rapid

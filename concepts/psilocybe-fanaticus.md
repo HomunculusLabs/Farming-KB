@@ -1,5 +1,5 @@
 ---
-title: [[pf-tek-psilocybe-fanaticus]]
+title: Psilocybe Fanaticus
 created: 2026-04-28
 tags: [[mycology]], history, [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation|cultivation], legal, pioneer]
 date: 2026-04-28

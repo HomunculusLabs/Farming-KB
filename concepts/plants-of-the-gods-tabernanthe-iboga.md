@@ -78,3 +78,43 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
+## Historical Context
+
+Psychedelic substances have been used in spiritual and healing
+contexts for millennia across diverse cultures. Indigenous traditions
+employed psilocybin mushrooms, peyote, and ayahuasca ceremonially.
+Modern research began with Hofmann's discovery of LSD in 1943 and
+his isolation of psilocybin in 1958. The 1960s counterculture brought
+wider attention, leading to prohibition halting research for decades.
+Since the 1990s, a renaissance of clinical research has renewed
+scientific investigation into therapeutic applications.
+
+## Safety and Integration
+
+Responsible use requires attention to set (mindset) and setting
+(environment). Clinical protocols emphasize screening, preparation,
+and integration support. Integration involves processing insights
+and incorporating them into daily life through journaling or therapy.
+Harm reduction approaches prioritize informed consent, dosage
+awareness, and access to support resources.
+
+## Current Research
+
+Contemporary psychedelic research spans multiple therapeutic domains.
+Clinical trials investigate psilocybin for treatment-resistant
+depression, end-of-life anxiety, and substance use disorders. MDMA-
+assisted therapy shows promise for PTSD treatment. Neuroimaging
+studies reveal how these compounds affect brain network connectivity,
+potentially explaining their therapeutic mechanisms. Research into
+microdosing explores sub-perceptual doses for cognitive enhancement.
+
+The therapeutic potential of these compounds continues to generate
+significant interest in both clinical and research communities.
+
+## See Also
+
+- [[2c-b-psychedelic-empathogen-guide]]
+- [[acetyl-protection-route-psilocin-psilocybin-synthesis]]
+- [[adverse-effects-and-harm-reduction-psilocybin]]
+- [[african-psilocybin-mushroom-guide]]
+- [[allen-psilocybin-potency-australian-species]]

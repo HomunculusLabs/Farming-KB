@@ -1,5 +1,5 @@
 ---
-title: [[manure-quality-and-soil-amendment-variability]] Fertilizer Values
+title: Manure Quality And Fertilizer Values
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

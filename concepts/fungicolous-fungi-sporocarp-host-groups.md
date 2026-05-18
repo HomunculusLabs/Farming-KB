@@ -34,8 +34,8 @@ Trichoderma species are polyphagous mycoparasites that produce diverse secondary
 
 ### Other Polyphagous Species
 
-- **Calcarisporium arbuscula**: Grows on many Ascomycota and Basidiomycota; hosts usually do not survive the infection (Barnett and Lilly 1958; Nicot 1968)
-- **Acremonium strictum**: Found on many saprotrophic and plant-pathogenic fungi (Gams 1971), and even on the mycoparasite Mycogone perniciosa (Gandy 1979)
+- **[[calcarisporium-arbuscula]]**: Grows on many Ascomycota and Basidiomycota; hosts usually do not survive the infection (Barnett and Lilly 1958; Nicot 1968)
+- **Acremonium strictum**: Found on many saprotrophic and plant-pathogenic fungi (Gams 1971), and even on the mycoparasite [[mycogone-perniciosa-entity-the-mushroom-cultivator]] (Gandy 1979)
 - **Lecanicillium lecanii** and **Verticillium luteo-album**: Wide host ranges, though susceptibility varies with host type, age, and culture medium
 - **Sistotrema brinkmannii**: Common air-borne contaminant that can overgrow and destroy any in vitro fungal culture; found mainly on decaying sporocarps of aphyllophorales
 - **Athelia arachnoidea**: Common corticiaceous species that overgrows and kills epiphytic lichens (and algae), capable of destroying whole lichen communities, especially in areas with significant air pollution (Arvidsson 1976, 1978; Parmasto 1998). Its anamorph, Fibulorhizoctonia carotae, is a cold-storage pathogen of carrot in Europe, North America, and India. It is the only known lichenicolous fungus whose anamorph is nonlichenicolous (Adams and Kropp 1996).
@@ -90,9 +90,9 @@ A considerable range of fungicolous species colonize polypore sporocarps (Table 
 - **Hypomyces aurantius** (anamorph Cladobotryum varium), **H. rosellus** (C. dendroides), **H. semitranslucens**, **H. orthosporus**, **H. odoratus** — on various aphyllophorales
 - **Hypomyces polyporinus** — mostly on Trametes versicolor
 - **Cosmospora vilior** — on various polypores
-- **Hypocrea pulvinata** — on Fomitopsis pinicola and Piptoporus betulinus
+- **[[hypocrea-pulvinata]]** — on Fomitopsis pinicola and [[piptoporus-betulinus]]
 - **Ophiostoma polyporicola** — on Fomitopsis pinicola, Piptoporus betulinus, Tyromyces species
-- **Sporophagomyces chrysostomus** — on Ganodermataceae
+- **[[sporophagomyces-chrysostomus]]** — on Ganodermataceae
 
 Hypomyces aurantius disrupts the cytoplasm and causes irreversible changes in host cells (Kellock and Dix 1984). Several anamorph–teleomorph connections have been established in the Cladobotryum–Hypomyces complex on aphyllophorales.
 
@@ -105,7 +105,7 @@ Sporocarps of successors often develop on those of predecessors (e.g., Antrodiel
 ### Antagonism Among Wood-Decay Fungi
 
 Fungi occupying decaying wood, particularly polypores, are frequently strong antagonists. Displacement reactions include:
-- Trametes versicolor displaced by Lenzites betulina
+- Trametes versicolor displaced by [[lenzites-betulina]]
 - Bjerkandera adusta displaced by Pseudotrametes gibbosa
 - Various fungi displaced by Schizophyllum commune
 - Datronia mollis displaced by Phanerochaete magnoliae

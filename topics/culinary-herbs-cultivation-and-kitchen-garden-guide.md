@@ -1,5 +1,5 @@
 ---
-title: "Culinary Herbs Cultivation and Kitchen Garden Guide"
+title: Culinary Herbs Cultivation And Kitchen Garden Guide
 subtitle: "allen-australian-psilocybe-species-comprehensive-guide to growing, harvesting, and using culinary herbs in home gardens, containers, and permaculture systems"
 tags: [herbs, culinary, kitchen-garden, cultivation, permaculture, propagation, organic]
 date: 2026-05-09
@@ -53,12 +53,12 @@ from a surprisingly small footprint.
 
 ## Classification by Growth Habit
 
-Understanding how herbs grow is more useful for garden planning than botanical
+Understanding how herbs grow is more useful for [[hamilton-garden-planning-and-site-assessment]] than botanical
 taxonomy. The three primary growth habit categories are annual, perennial, and
 biennial, each demanding different cultivation strategies and expectations
 about longevity and harvest windows.
 
-Annual herbs complete their entire life cycle within one growing season. They
+Annual herbs complete their entire life cycle within one [[extending-growing-season]]. They
 germinate, flower, set seed, and die, typically within sixty to ninety days.
 This group includes basil, cilantro, dill, summer savory, borage, and
 chervil. Annuals tend to produce abundant foliage quickly but require repeated
@@ -85,7 +85,7 @@ production.
 A practical fourth category is the tender perennial, which lives indefinitely
 in frost-free climates but cannot survive freezing temperatures. Rosemary,
 lemongrass, pineapple sage, Mexican oregano, and bay laurel belong here. In
-cold climates these plants must be overwintered indoors, grown in containers
+[[query-best-kiwifruit-varieties-for-cold-climates]] these plants must be overwintered indoors, grown in containers
 that can be moved, or treated as annuals and replaced each spring.
 
 ## Site Selection and Garden Design
@@ -93,7 +93,7 @@ that can be moved, or treated as annuals and replaced each spring.
 Herb gardens can take many forms, from dedicated formal beds to scattered
 plantings integrated throughout the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] element that consolidates diverse
 herb growing conditions into a compact vertical structure. Built as a
-ascending spiral mound of stone or brick, a herb spiral creates multiple
+ascending spiral mound of stone or brick, [[query-what-is-a-herb-spiral-in-permaculture]] creates multiple
 microclimates: the top is hot and dry, suited to rosemary and thyme; the
 base is cool and moist, suited to mint and cilantro; the north face receives
 less sun, suited to shade-tolerant herbs like chervil; the south face bakes

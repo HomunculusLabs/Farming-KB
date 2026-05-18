@@ -1,5 +1,5 @@
 ---
-title: Seed [[permaculture-food-storage-and-preservation]]
+title: Seed Storage And Preservation
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

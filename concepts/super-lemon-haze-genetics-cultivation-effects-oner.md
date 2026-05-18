@@ -81,3 +81,11 @@ This balanced effect profile makes Super Lemon Haze versatile for various occasi
 ## Medical Applications
 
 While not specifically bred as a medical strain, Super Lemon Haze has found applications in medical cannabis contexts. The uplifting, mood-enhancing effects can be beneficial for patients dealing with depression, anxiety, and stress. The balanced nature of the high provides pain relief without complete sedation, allowing patients to remain functional during daytime hours.
+
+## See Also
+
+- [[oner-super-lemon-haze-greenhouse-strain-profile]]
+- [[amnesia-haze-genetics-cultivation-potency-oner]]
+- [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
+- [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
+- [[oner-bruce-banner-genetics-cultivation-strain-profile]]

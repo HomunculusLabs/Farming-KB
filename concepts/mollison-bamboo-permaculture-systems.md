@@ -1,5 +1,5 @@
 ---
-title: [[query-how-to-use-bamboo-in-permaculture]] Systems
+title: Mollison Bamboo Permaculture Systems
 created: 2026-04-26
 tags: [bamboo, forestry, structural, tropical, permaculture]
 date: 2026-04-25

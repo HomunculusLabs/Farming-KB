@@ -1,5 +1,5 @@
 ---
-title: [[growing-sweet-corn-organically]]
+title: Growing Sweet Corn
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

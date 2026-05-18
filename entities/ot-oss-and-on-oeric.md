@@ -37,28 +37,28 @@ The 42-page guide provides detailed, practical instructions for cultivating *Psi
 
 ### Step IV: Casing
 - Application of casing soil to induce fruiting
-- Environmental control for mushroom production
+- [[cannabis-indoor-growing-environmental-control]] for mushroom production
 
 ### Step V: Harvesting, Preserving, and Dosage
-- Proper harvesting techniques
-- Drying and preservation methods
+- Proper [[cannabis-harvesting-techniques]]
+- [[oss-oeric-drying-and-preservation-methods]] methods
 - Dosage guidelines
 
 ## Key Contributions
 
 ### Accessibility of Cultivation
-The guide made mushroom cultivation accessible to non-specialists by presenting procedures "only slightly more complicated than canning or making jelly." The authors emphasized that "no special training in mycology or microbiology is necessary" — only the ability to "read and carefully follow the instructions."
+The guide made [[accessible-mushroom-cultivation-for-disabilities]] accessible to non-specialists by presenting procedures "only slightly more complicated than canning or making jelly." The authors emphasized that "no special training in mycology or microbiology is necessary" — only the ability to "read and carefully follow the instructions."
 
 ### Scientific Rigor
 Despite its counter-cultural context, the guide was grounded in legitimate mycological science. It referenced work by:
-- **R. Gordon Wasson** — discoverer of the Mexican mushroom cult
+- **R. Gordon Wasson** — discoverer of the [[gartz-wasson-mexican-mushroom-cult-rediscovery]]
 - **Albert Hofmann** — isolator of psilocybin
 - **Rolf Singer** — mycologist who reclassified *Stropharia cubensis* into *Psilocybe*
 - **Orson K. Miller Jr.** — author of the species description used for identification
 - **Pollock (1975)** — referenced for distribution data
 
 ### Cultural Impact
-The guide appeared at a pivotal moment in psychedelic culture, several years after the Controlled Substances Act of 1970. It became one of the most widely circulated cultivation texts and influenced subsequent generations of cultivators and mycologists. The foreword's poetic and philosophical tone — including a passage written from the perspective of the mushroom itself — became iconic in psychedelic literature.
+The guide appeared at a pivotal moment in psychedelic culture, several years after the [[controlled-substances-act-and-psychedelic-research]] of 1970. It became one of the most widely circulated cultivation texts and influenced subsequent generations of cultivators and mycologists. The foreword's poetic and philosophical tone — including a passage written from the perspective of the mushroom itself — became iconic in psychedelic literature.
 
 ## Philosophical Orientation
 

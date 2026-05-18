@@ -1,5 +1,5 @@
 ---
-title: Singh Immobilized Fungal Bioreactors [[biological-wastewater-treatment]]
+title: Singh Immobilized Fungal Bioreactors Wastewater Treatment
 created: 2026-04-26
 tags:
   - immobilization

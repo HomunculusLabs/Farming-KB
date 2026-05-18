@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Rice Paddy Integrated Duck Fish
+title: Mollison Designers Rice Paddy Integrated Duck Fish
 created: 2026-04-28
 tags:
   - aquaculture

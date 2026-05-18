@@ -1,5 +1,5 @@
 ---
-title: London Underground And British [[mckenna-food-gods-wasson-revelation-magic-mushroom-discovery-mazatec]]
+title: London Underground And British Magic Mushroom Discovery
 created: 2026-04-26
 tags:
   - british-counterculture

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
- is a large and economically important genus of smut fungi in the class Ustilaginomycetes, phylum [[basidiomycota]]. Species of Tilletia are plant parasites primarily infecting grasses, with many species causing bunt diseases (also called stinking smut) of cereal crops. Molecular analyses have shown Tilletia and allies are more closely related to Exobasidiales than to other Ustilaginomycetes (Bauer et al. 2001).
+ is a large and economically important genus of smut fungi in the class Ustilaginomycetes, phylum [[basidiomycota]]. Species of Tilletia are plant parasites primarily infecting grasses, with many species causing bunt diseases (also called stinking smut) of cereal crops. Molecular analyses have shown Tilletia and allies are more closely related to [[exobasidiales]] than to other Ustilaginomycetes (Bauer et al. 2001).
 
 ## Classification
 
@@ -27,7 +27,7 @@ type: entity
 - T. indica (Karnal bunt) is a quarantine-significant pathogen of wheat with major implications for international grain trade.
 - T. controversa causes dwarf bunt of wheat, favored by cool moist soil conditions and difficult to control with conventional seed treatments.
 - The site of sorus formation (in ovaries) is generally constant for Tilletia species, a useful diagnostic character.
-- Host specificity combined with morphological characters has traditionally been used to delimit species.
+- [[fungal-endemism-host-specificity]] combined with [[culturing-macrofungi-describing-morphological-characters]] has traditionally been used to delimit species.
 
 ## Relevance to Cultivation and Mycology
 
@@ -51,7 +51,7 @@ Tilletia species are distributed worldwide and occur primarily on grasses (Poace
 - The key facts section should remain the main checklist for future review.
 - The relevance section connects the note to the uses already described.
 - Preserve names, hosts, media, families, genera, species, institutions, and protocols already listed above.
-- Do not widen host range, habitat range, practical uses, or taxonomic placement without a local source.
+- Do not widen [[powdery-mildews-erysiphaceae-diversity-host-range]], habitat range, practical uses, or taxonomic placement without a local source.
 - Prefer concise additions that clarify existing claims instead of adding new claims.
 - If a stronger source is found later, add it to the references section before expanding the claim.
 - Keep scientific names and institutional names consistent with the forms already used above.
@@ -90,7 +90,7 @@ Tilletia species are distributed worldwide and occur primarily on grasses (Poace
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
@@ -98,7 +98,7 @@ Tilletia species are distributed worldwide and occur primarily on grasses (Poace
 ## References
 
 - Durn and Fischer (1961); Vnky (1987, 1998); Bauer et al. (2001); Fischer and Holton (1957)
-- Source: Biodiversity of Fungi, Chapter 7 — Fungi on Living Plant Substrata, Including Fruits
+- Source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]], Chapter 7 — Fungi on [[fungi-living-plant-substrata]], Including Fruits
 
 ## Related
 - [[smut-fungi]]

@@ -45,18 +45,18 @@ Amanitine is the poisonous alkaloid found in mushrooms of the *Amanita* genus, f
 
 ## Relevance to Cultivation and Mycology
 
-Amanitine represents the primary safety concern in wild mushroom foraging. Understanding its properties is essential for:
+Amanitine represents the primary safety concern in [[emcdda-wild-mushroom-foraging-misidentification-hazards]]. Understanding its properties is essential for:
 - **Forager education:** Recognizing *Amanita* species and avoiding the entire genus
-- **Medical preparedness:** Rapid identification of amanitine poisoning based on delayed onset (8+ hours)
+- **Medical preparedness:** Rapid identification of [[amanitine-poisoning-and-absorption-mechanisms]] based on delayed onset (8+ hours)
 - **Taxonomic knowledge:** The *Amanita* genus has universal distinguishing marks (volva, white gills, warts on pileus) that even children can learn to recognize
 - **Toxicological research:** The atropine–muscarine antagonism discovered through amanitine research became foundational in pharmacology
 
 ## Source
 
-[[julius-auboineau-palmer]], *About Mushrooms* (1885) — "Toadstool Poisoning" articles from *Monitor Scientifique* (Paris, January 1870) and *Boston Medical and Surgical Journal* (August 1879).
+[[julius-auboineau-palmer]], *About Mushrooms* (1885) — "[[amanitine-toadstool-poisoning]]" articles from *Monitor Scientifique* (Paris, January 1870) and *Boston Medical and Surgical Journal* (August 1879).
 ## Historical Context
 
-This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the historical development provides important context for current perspectives and applications.
+This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the [[historical-development-of-mushroom-cultivation]] provides important context for current perspectives and applications.
 ## Key Characteristics
 
 Several defining features distinguish this subject from related topics. These characteristics inform both practical applications and theoretical understanding.
@@ -68,7 +68,7 @@ The principles discussed here have been applied in various contexts, from tradit
 This topic intersects with several broader themes and specialized areas of study. Understanding these connections provides a more complete picture of the subject matter.
 ## Contemporary Relevance
 
-Current research and practice continue to draw on these foundational concepts. Modern approaches often integrate traditional knowledge with contemporary understanding.
+[[psychedelic-therapy-current-research]] and practice continue to draw on these foundational concepts. Modern approaches often integrate [[wasted-human-resources-and-traditional-knowledge]] with contemporary understanding.
 ## Cultural Significance
 
 The cultural impact of this subject extends across communities and traditions. Its influence can be observed in various forms of expression and practice.

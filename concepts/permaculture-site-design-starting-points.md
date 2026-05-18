@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-site-design-and-zones]] Starting Points
+title: Permaculture Site Design Starting Points
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---

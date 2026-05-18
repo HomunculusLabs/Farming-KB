@@ -1,5 +1,5 @@
 ---
-title: PCR Protocols and mRNA Transcript Analysis in Fungi
+title: Pcr Protocols Mrna Transcript Analysis Fungi
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-PCR-based methods and mRNA transcript analysis are cornerstone techniques for studying [[fungal-biodiversity]], species detection, and gene expression in environmental and laboratory settings. This concept covers the progression from arbitrary priming through dual-primer and nested-primer PCR strategies for sensitive species detection, detailed fungal tissue collection and DNA extraction protocols, and the specialized challenges of mRNA transcript analysis in complex fungal substrata.
+PCR-based methods and mRNA transcript analysis are cornerstone techniques for studying [[fungal-biodiversity]], species detection, and gene expression in environmental and laboratory settings. This concept covers the progression from arbitrary priming through dual-primer and nested-primer PCR strategies for sensitive species detection, detailed fungal tissue collection and [[fungal-destructive-sampling-herbarium-dna-extraction]] protocols, and the specialized challenges of mRNA transcript analysis in complex fungal substrata.
 
 ## Arbitrary-Primed PCR (apPCR) as a Foundation
 
@@ -29,7 +29,7 @@ The deliberate 1-minute ramp times provide the low stringency necessary for arbi
 
 ## Dual-Primer PCR (dpPCR)
 
-Dual-primer PCR employs two defined primers flanking a target region identified through apPCR, providing robust species-specific detection suitable for environmental monitoring.
+Dual-primer PCR employs two defined primers flanking a target region identified through apPCR, providing robust species-specific detection suitable for [[singh-fungal-biosensors-environmental-monitoring]].
 
 ### Sensitivity
 
@@ -69,7 +69,7 @@ Nested-primer PCR introduces a two-step amplification strategy that dramatically
 
 ### Tissue Preservation
 
-Fungal tissue is placed in a preservation buffer containing **EDTA, Tris, and N-lauroylsarcosine**, which stabilizes nucleic acids for **1+ year at ambient temperature**, eliminating the need for immediate freezing during field collection.
+Fungal tissue is placed in a preservation buffer containing **EDTA, Tris, and N-lauroylsarcosine**, which stabilizes nucleic acids for **1+ year at [[jadam-ambient-temperature-principle]]**, eliminating the need for immediate freezing during [[microfungal-field-collection-laboratory-woody-sampling]].
 
 ### Extraction Protocol
 
@@ -126,7 +126,7 @@ mRNA is **rarely analyzed directly** from complex environmental samples due to:
 The [[lignin-peroxidase]] (LiP) gene family in the white-rot fungus *P. chrysosporium* serves as a model system:
 
 - **Defined media:** Multiple LiP transcripts are readily detected at high abundance.
-- **Soil pollutant degradation:** Some LiP transcripts abundant in defined media are **absent** during actual soil-based pollutant degradation, highlighting limitations of inferring *in situ* activity from laboratory culture data.
+- **Soil [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]:** Some LiP transcripts abundant in defined media are **absent** during actual soil-based pollutant degradation, highlighting limitations of inferring *in situ* activity from laboratory culture data.
 
 ### Genomic Context
 

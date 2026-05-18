@@ -1,5 +1,5 @@
 ---
-title: [[solomon-garden-hoe-and-cultivation-techniques]] Techniques and Weeding
+title: Garden Hoe Techniques And Weeding
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

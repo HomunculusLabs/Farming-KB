@@ -1,5 +1,5 @@
 ---
-title: [[dighton-fungal-sulfite-effects-saprotrophic-decomposition]]
+title: Saprotrophic Decomposition
 created: 2026-04-28
 tags: [mycology, ecology, decomposition, carbon-cycle]
 date: 2026-04-28

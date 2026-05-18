@@ -57,17 +57,17 @@ The 4-ethyl substituent increases both potency and duration relative to smaller 
 
 2C-E acts as a full agonist at 5-HT₂A receptors. Functional assays show robust activation of phospholipase C through Gq/11 protein coupling, leading to downstream intracellular signaling cascades that include increased neuronal excitability and altered gene expression.
 
-Metabolism occurs primarily via hepatic N-dealkylation, O-demethylation, and monoamine oxidase (MAO) oxidation. The major metabolites include desmethyl-2C-E and the corresponding carboxylic acid derivative.
+Metabolism occurs primarily via hepatic N-dealkylation, O-demethylation, and monoamine oxidase (MAO) oxidation. The major metabolites include desmethyl-2C-E and the corresponding carboxylic [[lsd-25-synthesis-twenty-fifth-lysergic-acid-derivative]].
 
 ## Effects
 
 2C-E produces effects consistent with the classical psychedelic phenotype, with particular emphasis on intense visual hallucinations.
 
-Visual effects are among the most prominent and include geometric patterning, color enhancement and shifting, patterning on surfaces, trailing and afterimages, and in higher doses, immersive hallucinatory states. Many users describe the visuals as "sharper" and more "crystalline" than those of LSD or psilocybin.
+Visual effects are among the most prominent and include geometric patterning, color enhancement and shifting, patterning on surfaces, trailing and afterimages, and in higher doses, immersive hallucinatory states. Many users describe the visuals as "sharper" and more "crystalline" than those of LSD or [[psilocybin]].
 
 Somatic effects include nausea and body load, which can be significant particularly during the onset phase. Vasoconstriction, muscle tension, and temperature dysregulation are commonly reported. These physical side effects are often cited as the least desirable aspect of the 2C-E experience.
 
-Cognitive effects include altered thought patterns, enhanced pattern recognition, synesthesia, and periods of deep introspection. The headspace is often described as less "confusing" than that of 2C-B, with greater clarity of thought.
+Cognitive effects include altered thought patterns, enhanced [[pattern-recognition-and-geometric-garden-design-permaculture]], synesthesia, and periods of deep introspection. The headspace is often described as less "confusing" than that of 2C-B, with greater clarity of thought.
 
 Emotional effects range from euphoria and empathic connection to anxiety and dysphoria, heavily dependent on set, setting, and dose. The compound has been described as producing a relatively "neutral" emotional baseline that amplifies the user's existing psychological state.
 

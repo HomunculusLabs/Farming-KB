@@ -1,5 +1,5 @@
 ---
-title: Phototropism and [[solar-radiation-and-plant-light-responses]]
+title: Phototropism And Plant Light Responses
 source: grahambolmes-what-a-plant-knowsindd.md
 tags: [botany, phototropism, auxin, plant-growth, light-responses, tropisms]
 created: 2026-05-09

@@ -1,5 +1,5 @@
 ---
-title: Tryptamine Biotransformation in Psilocybe
+title: Tryptamine Biotransformation Psilocybe
 source: tryptamine-cubensis-gartz.md
 type: concept
 ---
@@ -19,7 +19,7 @@ mushroom species.
 *Psilocybe cubensis* is a subtropical indole-alkaloid-producing mushroom that
 naturally contains psilocybin as its primary active compound, with only trace amounts
 of psilocin. The discovery that supplementation with tryptamine hydrochloride
-redirects the biosynthetic pathway toward massive psilocin accumulation has profound
+redirects the biosynthetic pathway toward massive [[psilocin-accumulation-flushes]] has profound
 implications for understanding fungal secondary metabolism, enzymatic promiscuity,
 and the biosynthetic route from simple indoles to psychoactive alkaloids.
 
@@ -27,7 +27,7 @@ and the biosynthetic route from simple indoles to psychoactive alkaloids.
 
 ### Natural Pathway: Tryptophan → Tryptamine → Psilocin → Psilocybin
 
-In *P. cubensis*, psilocybin biosynthesis proceeds from L-tryptophan through
+In *P. cubensis*, [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] proceeds from L-tryptophan through
 decarboxylation to tryptamine, followed by hydroxylation at the 4-position of the
 indole ring, and finally N-methylation and O-phosphorylation to produce psilocybin
 (4-PO-HO-DMT). Earlier submerged-culture experiments using radioactive tracers
@@ -56,7 +56,7 @@ accumulate as the terminal product rather than being converted to its phosphate 
 
 The enzyme systems of *P. cubensis* demonstrate remarkably **high hydroxylation and
 methylation capacity**. The complete absence of detectable tryptamine in both fruit
-bodies and vegetative mycelial extracts confirms that conversion is essentially
+bodies and [[maitake-spawn-run-vegetative-mycelial-phases]] extracts confirms that conversion is essentially
 quantitative—the fungus does not store tryptamine but processes it immediately.
 
 This enzymatic promiscuity aligns with broader mycological observations: many fungal
@@ -141,7 +141,7 @@ The Gartz (1989) study is foundational for several reasons:
 - **Enzyme promiscuity:** Quantitative conversion of exogenous substrate reveals flexibility of fungal alkaloid-modifying enzymes at non-native concentrations.
 - **Phosphorylation as rate-limiting step:** Dramatic psilocin accumulation at psilocybin's expense identifies phosphorylation as the key regulatory bottleneck.
 - **Analytical benchmark:** Psilocin up to 3.3% remains the highest documented in any mushroom species and serves as an upper reference for method validation.
-- **Practical potency enhancement:** The 3-fold potency increase in PF TEK adaptations demonstrates substrate supplementation can modulate alkaloid profiles, though with morphological trade-offs.
+- **Practical [[cannabis-potency-enhancement-intact-flowers]]:** The 3-fold potency increase in PF TEK adaptations demonstrates [[growing-gourmet-substrate-supplementation]] can modulate alkaloid profiles, though with morphological trade-offs.
 
 ## References
 - Gartz, J. (1989). Biotransformation of tryptamine in fruiting mycelia of *Psilocybe cubensis*. *Planta Medica*, 55(3), 249–250.

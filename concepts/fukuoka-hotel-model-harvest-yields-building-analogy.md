@@ -42,7 +42,7 @@ the natural yield because many rooms remain vacant—representing flaws and
 insufficiencies. Disease, imbalance, poor timing, and other factors leave
 rooms empty.
 
-**4. Scientific farming only fills rooms.** The enterprise amounts to going
+**4. [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] only fills rooms.** The enterprise amounts to going
 room to room, trying to fill vacancies. Fertilizer fills a nutrient room,
 pesticide fills a pest-control room, irrigation fills a water room. But this
 is merely minimizing losses, not creating new capacity. "The only true way

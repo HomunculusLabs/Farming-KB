@@ -1,5 +1,5 @@
 ---
-title: Field Observation [[ecological-succession-in-permaculture-design]]
+title: Field Observation Permaculture Design
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

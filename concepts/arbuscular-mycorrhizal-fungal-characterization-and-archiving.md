@@ -17,7 +17,7 @@ The sporulation capacity of AM fungi in natural settings is presumed to be low, 
 Two approaches for obtaining spores in sufficient quantity for accurate description:
 
 1. **Temporal sampling**: Collecting from the same site at different times or seasons, especially after sustained root growth in the plant community.
-2. **Trap cultures**: Establishing cultures using field-collected soil, roots, or both, which provides experimental verification that sporulating fungi form mycorrhizae.
+2. **Trap cultures**: Establishing cultures using field-collected soil, roots, or both, which provides experimental verification that sporulating fungi form [[mycorrhizae]].
 
 ## Species Description Procedures
 
@@ -29,7 +29,7 @@ The first task in species description is obtaining healthy, fresh spores with al
 
 A minimum of 75 spores should be mounted, divided as follows:
 - One-third mounted whole
-- One-third mounted and broken in PVLG (polyvinyl-alcohol–lactic acid–glycerol) and water
+- One-third mounted and broken in [[pvlg]] (polyvinyl-alcohol–lactic acid–glycerol) and water
 - One-third mounted and broken in PVLG + Melzer's reagent (1:1 v/v)
 
 Slide preparation guidelines:

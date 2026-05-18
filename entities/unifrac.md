@@ -6,13 +6,13 @@ type: entity
 
 ## Description
 
-**UniFrac** is a phylogenetic distance metric used to compare microbial communities based on the evolutionary divergence of their constituent organisms. Developed by Catherine Lozupone and Rob Knight, it measures the fraction of branch length in a phylogenetic tree that is unique to one community or shared between two communities. UniFrac was used extensively in the Cannabis microbiome study to assess beta diversity between sample types. It is one of the core beta-diversity metrics calculated by the [[qiime]] pipeline alongside alpha-diversity measures like the [[chao1-index]].
+**UniFrac** is a phylogenetic distance metric used to compare microbial communities based on the evolutionary divergence of their constituent organisms. Developed by Catherine Lozupone and Rob Knight, it measures the fraction of branch length in a phylogenetic tree that is unique to one community or shared between two communities. UniFrac was used extensively in the [[winston-cannabis-microbiome-study-design]] to assess beta diversity between sample types. It is one of the core beta-diversity metrics calculated by the [[qiime]] pipeline alongside alpha-diversity measures like the [[chao1-index]].
 
 ## Classification
 
 - **Category:** Phylogenetic beta-diversity metric
 - **Type:** Distance measure for microbial community comparison
-- **Variants:** Unweighted UniFrac (presence/absence), Weighted UniFrac (abundance-aware)
+- **Variants:** [[weighted-unweighted-unifrac-discrepancy-cannabis-cultivar]] (presence/absence), Weighted UniFrac (abundance-aware)
 - **Named after:** Unique Fraction metric
 - **Published:** 2005, Applied and Environmental Microbiology
 
@@ -65,12 +65,12 @@ When unweighted and weighted UniFrac tell different stories, the discrepancy its
 - **Non-significant unweighted, significant weighted:** Communities share the same taxa but differ in their relative proportions. Abundance shifts are the key signal.
 - **Both significant:** Communities differ in both membership and structure — the strongest differentiation.
 
-In the Cannabis study, the discrepancy was key to understanding that cultivar genotype shapes community **abundance** more than **membership**. See weighted vs unweighted unifrac cannabis strain microbiome for detailed interpretation of this finding.
+In the Cannabis study, the discrepancy was key to understanding that cultivar genotype shapes community **abundance** more than **membership**. See weighted vs unweighted unifrac [[otu-abundance-vs-presence-absence-cannabis-strain-microbiome]] for detailed interpretation of this finding.
 
 ## Application in Cannabis Microbiome Research
 
 ### Experimental Design
-The Cannabis microbiome study analyzed bacterial communities using [[16s-rrna-sequencing-microbiome-analysis|16S rRNA sequencing]] processed through [[qiime]]. UniFrac distances were calculated for all pairwise sample comparisons and visualized through Principal Coordinate Analysis (PCoA).
+The Cannabis microbiome study analyzed bacterial communities using [[16s-rrna-sequencing-microbiome-analysis]] processed through [[qiime]]. UniFrac distances were calculated for all pairwise sample comparisons and visualized through Principal Coordinate Analysis (PCoA).
 
 ### Key UniFrac Findings
 
@@ -78,7 +78,7 @@ The Cannabis microbiome study analyzed bacterial communities using [[16s-rrna-se
 Both weighted and unweighted UniFrac confirmed that soil type is the dominant factor structuring Cannabis microbial communities. The 657 OTUs significantly different between soil types dwarf the 71 OTUs differing between cultivars, demonstrating that the soil environment overwhelms host genotype effects on community composition.
 
 #### Cultivar Genotype Effects
-The weighted UniFrac analysis revealed that Cannabis strain was the main determinant of PC1 (34.51% of variation), indicating that host genotype-dependent selection primarily operates through controlling community **structure** (abundance) rather than **composition** (presence/absence). See weighted unifrac strain clustering cannabis endorhiza community structure for the strain-level analysis.
+The weighted UniFrac analysis revealed that Cannabis strain was the main determinant of PC1 (34.51% of variation), indicating that host genotype-dependent selection primarily operates through controlling community **structure** (abundance) rather than **composition** (presence/absence). See weighted [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] [[proteobacteria-dominance-cannabis-endorhiza-community]] structure for the strain-level analysis.
 
 #### Niche Filtering
 UniFrac analysis revealed progressive niche-filtering of microbes:
@@ -106,7 +106,7 @@ All of these analyses are supported within the [[qiime]] pipeline.
 
 ## See Also
 
-- [[qiime]] — The bioinformatics pipeline that calculates UniFrac
+- [[qiime]] — The [[qiime-bioinformatics-pipeline-16s-rrna-microbiome]] that calculates UniFrac
 - [[chao1-index]] — Alpha diversity metric used alongside UniFrac
 - [[16s-rrna-sequencing-microbiome-analysis]] — The sequencing technology underlying UniFrac analysis
 - unifrac weighted unweighted analysis cannabis microbiome — Detailed UniFrac analysis in Cannabis research

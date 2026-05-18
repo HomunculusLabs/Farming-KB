@@ -15,15 +15,15 @@ Pigs in [[permaculture]] are managed as integrated foraging animals rather than 
 Pig forage is divided into several functional categories, each contributing different nutrients and serving different roles in the system:
 
 ### Trees Planted in Protected Areas
-In tropical zones, useful species include **mulberry** (*Morus* spp.), **Bunya pine** (*Araucaria bidwillii*), **fig** (*Ficus* spp.), **Inga** (*[[inga-edulis]]*), and various palms such as **Jagua palms** (*Jessenia* spp.), **Buriti palms** (*Mauritia* spp.), **Babassu palms** (*Orbignya* spp.), **Assai palm** (*[[euterpe-oleracea]]*), **oil palm** (*Elaeis guineensis*), **date palms** (*Phoenix* spp.), and **coconut** (*Cocos nucifera*).
+In tropical zones, useful species include **mulberry** (*Morus* spp.), **Bunya pine** (*Araucaria bidwillii*), **fig** (*Ficus* spp.), **Inga** (*[[inga-edulis]]*), and various palms such as **Jagua palms** (*Jessenia* spp.), **Buriti palms** (*Mauritia* spp.), **Babassu palms** (*Orbignya* spp.), **Assai palm** (*[[euterpe-oleracea]]*), **oil palm** (*[[elaeis-guineensis]]*), **date palms** (*Phoenix* spp.), and **coconut** (*Cocos nucifera*).
 
-In cooler temperate areas, the palette shifts to **mulberry**, **olive**, **Chilean wine palm** (*Jubaea spectabilis*), and **canary date palm** (*Phoenix canariensis*).
+In cooler temperate areas, the palette shifts to **mulberry**, **olive**, **Chilean wine palm** (*Jubaea spectabilis*), and **canary date palm** (*[[phoenix-canariensis]]*).
 
 ### Trees Planted Outside Protected Fences
 These are larger, more resilient species that can withstand some browsing. In the tropics: **oaks**, **chestnuts**, **chinquapins**, **breadfruit**, **jackfruit**, **Prosopis** spp., **[[chinese-tallow-tree]]**, and **Argania sideroxylon**. In cooler areas: the **white oak group**, **cork oak**, **turkey oak** pods, **honey locust**, **carob** (in dry zones), **chestnut**, **chinquapin**, **rain tree** (*Samanea saman*), and **Albizia dulcis*.
 
 ### Root Crops Planted in Rooted-up Pens
-**Cattails** (*Typha* spp.), **arrowroot** (*Canna edulis*), **Jerusalem artichoke**, **comfrey**, **yams**, **taro**, **sweet potato**, **potato**, **cassava**, **elephant-foot yam**, and **Maranta**.
+**Cattails** (*Typha* spp.), **arrowroot** (*Canna edulis*), **[[comparison-jerusalem-artichoke-vs-potato]]**, **comfrey**, **yams**, **taro**, **sweet potato**, **potato**, **cassava**, **elephant-foot yam**, and **Maranta**.
 
 ### Greens and Seeds as Understory
 **Chicory**, **lucerne** (alfalfa), **comfrey**, **white clover**, **pigeon pea** (*Cajanus cajan*), **Desmodium ovalifolium*, **pumpkin**, **chayote** (choko), **sunflower** (seed heads), and **cowpea**. In cooler climates, add **broad beans** (favas) and various **grasses**.
@@ -62,10 +62,10 @@ A simple rubbing post can be constructed by tying **hessian (burlap)** to a post
 ## Integrated Benefits
 
 A well-designed pig forage system:
-- **Eliminates mechanical plowing** through natural rooting behavior
+- **Eliminates mechanical plowing** through [[mollison-designers-willow-water-and-natural-rooting-propagation]] behavior
 - **Recycles surplus crops** that would otherwise become waste
 - **Controls pest species** in orchards (fallen fruit, larvae in soil)
-- **Builds soil organic matter** through manure deposition and root incorporation
+- **Builds [[humus-and-soil-organic-matter]]** through manure deposition and root incorporation
 - **Produces diverse forage** from multiple strata: canopy, understory, ground cover, and root zone
 - **Reduces external feed costs** as the multi-strata forage system matures over 3-5 years
 
@@ -118,7 +118,7 @@ A well-designed pig forage system:
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

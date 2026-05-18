@@ -1,5 +1,5 @@
 ---
-title: [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]] [[bacteria-and-microorganisms-in-mushroom-fruiting]]
+title: Negative Geotropism In Mushroom Fruiting
 category: mycology
 tags: [geotropism, gravity-response, mushroom-fruiting, tropism, psilocybe-cubensis]
 created: 2026-05-09

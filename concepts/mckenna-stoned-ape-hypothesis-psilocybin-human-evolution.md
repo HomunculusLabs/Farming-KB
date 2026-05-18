@@ -1,5 +1,5 @@
 ---
-title: McKenna's Stoned Ape Hypothesis — Psilocybin and Human Evolution
+title: Mckenna Stoned Ape Hypothesis Psilocybin Human Evolution
 source: mckenna_t-food_of_the_gods.md
 type: concept
 ---
@@ -16,7 +16,7 @@ The human brain tripled in size over approximately 3 million years — from ~500
 
 As forests contracted and grasslands expanded in East Africa during the late Miocene and Pliocene (5–2 million years ago), early hominids were forced into new ecological niches. *[[psilocybe-cubensis]]* and related species grow exclusively in the dung of herbivores — particularly cattle. As hominids followed grazing herds across the savannah, they encountered these mushrooms repeatedly.
 
-The hypothesis proposes that the domestication of cattle (a major step in human cultural evolution) brought humans into even closer proximity to these mushrooms, deepening what McKenna called an "interspecies codependency."
+The hypothesis proposes that the domestication of cattle (a major step in human [[cultural-evolution-and-psychoactive-substances]]) brought humans into even closer proximity to these mushrooms, deepening what McKenna called an "interspecies codependency."
 
 ## Three Levels of Psilocybin's Influence
 
@@ -59,8 +59,8 @@ The presence of psilocybin in the hominid diet **changed the parameters of natur
 
 McKenna identified four structural families of indole hallucinogens relevant to human history:
 
-1. **LSD-type compounds** — morning glories and ergot; rare in nature, best known through synthetic manufacture
-2. **Tryptamine hallucinogens** — DMT, psilocin, psilocybin; found throughout higher plants and mushrooms; DMT occurs endogenously in the human brain
+1. **LSD-type compounds** — [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and ergot; rare in nature, best known through synthetic manufacture
+2. **[[dmt-tryptamine-hallucinogens]]** — DMT, psilocin, psilocybin; found throughout higher plants and mushrooms; DMT occurs endogenously in the human brain
 3. **Beta-carbolines** — harmine, harmaline; inhibit MAO enzymes, potentiating DMT-type hallucinogens; basis of ayahuasca
 4. **Ibogaine family** — *Tabernanthe iboga* and related species; African and South American trees; powerful visionary and aphrodisiac effects
 
@@ -86,4 +86,4 @@ The stoned ape hypothesis remains controversial and is not widely accepted in ma
 - The difficulty of testing the hypothesis empirically
 - Alternative explanations for brain expansion (social brain hypothesis, dietary changes, fire/cooking)
 
-However, the hypothesis raises important questions about the role of psychoactive substances in human evolution, the origins of religion and language, and the deep ecological relationships between humans and psychoactive plants that persist to this day in shamanic cultures worldwide.
+However, the hypothesis raises important questions about the role of [[mckenna-specter-drugs-manifesto-new-thought-psychoactive-substances]] in human evolution, the [[anunnaki-and-sumerian-origins-of-religion]] and language, and the deep ecological relationships between humans and psychoactive plants that persist to this day in shamanic cultures worldwide.

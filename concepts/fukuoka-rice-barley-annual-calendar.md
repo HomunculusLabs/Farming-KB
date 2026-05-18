@@ -1,6 +1,6 @@
 ---
 
-title: Fukuoka Rice-Barley [[integrated-homestead-annual-calendar]]
+title: Fukuoka Rice Barley Annual Calendar
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: [[coleman-winter-harvesting-techniques]] Logistics and Workflow
+title: Coleman Winter Harvesting Logistics Workflow
 source: The [[winter-harvest-handbook-guide]], [[eliot-coleman-deep-organic-farming-and-winter-harvest]], Chapter 15
 tags:
   - winter-harvest

@@ -1,5 +1,5 @@
 ---
-title: Tropical Soil Life and [[humus-sources-and-mulch-systems-tropics]]
+title: Tropical Soil Life And Humus Sources
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

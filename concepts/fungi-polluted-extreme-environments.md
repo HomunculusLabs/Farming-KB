@@ -1,5 +1,5 @@
 ---
-title: Fungi in Polluted [[fungal-rock-colonization-and-extreme-environments]]
+title: Fungi Polluted Extreme Environments
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: [[entheogenic-knowledge-secret-societies]] [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]
+title: Secret Societies Entheogenic Knowledge
 source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---

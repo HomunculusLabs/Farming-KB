@@ -1,5 +1,5 @@
 ---
-title: [[williams-pdc-additional-permaculture-principles]] Water Courses
+title: Williams Pdc Water Courses
 created: 2026-04-28
 tags: [permaculture, water-courses, streams, ponds, erosion, meandering, gabions, micro-hydro, edge-effect]
 date: 2026-04-25

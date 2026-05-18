@@ -1,5 +1,5 @@
 ---
-title: [[usda-seed-germination-standards-and-law]] and Testing
+title: Seed Germination Standards And Testing
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

@@ -61,7 +61,7 @@ Dichloran-glycerol medium (commonly designated DG18) is a selective culture medi
 - Critical for understanding fungal community dynamics in desert, semi-arid, and stored-product ecosystems
 
 ### Methodological Considerations
-- Growth rates of isolated fungi may change at selected aw values depending on incubation temperature, pH, and nutrient availability (Wheeler et al. 1988; Hocking 1993)
+- Growth rates of isolated fungi may change at selected aw values depending on incubation temperature, pH, and [[nutrient-availability]] (Wheeler et al. 1988; Hocking 1993)
 - If a selective medium is not used, osmophiles may not be isolated from mixed fungal communities
 - Diluents for plating should contain 20–30% glucose or fructose in peptone water to prevent osmotic shock (Corry 1987)
 

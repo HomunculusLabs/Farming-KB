@@ -52,7 +52,7 @@ The **Canadian Forest Service** developed and deployed platforms on Vancouver Is
 
 #### Pike et al. (1975) — Douglas Fir
 
-Pike et al. conducted systematic sampling on a **450-year-old [[douglas-fir]]** (*Pseudotsuga menziesii*), dividing the tree into **6 vertical zones**:
+Pike et al. conducted systematic sampling on a **450-year-old [[douglas-fir]]** (*[[pseudotsuga-menziesii]]*), dividing the tree into **6 vertical zones**:
 
 1. Base
 2. Moist side of trunk
@@ -65,7 +65,7 @@ Their survey yielded **74 lichen species** and **32 bryophyte species**. Quadrat
 
 #### Lesica et al. (1991) — Grand Fir Forests
 
-Lesica et al. sampled epiphytic communities in grand-fir (*Abies grandis*) forests using a structured plot design:
+Lesica et al. sampled epiphytic communities in grand-fir (*[[abies-grandis]]*) forests using a structured plot design:
 
 - **0.081-ha circular plots** centered on a **32-m reference line**
 - **Three 30-m perpendicular lines** radiating from the reference line

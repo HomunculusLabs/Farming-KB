@@ -1,5 +1,5 @@
 ---
-title: [[coprinus-atrementarius-entity-the-mushroom-cultivator]] Bulk Substrate
+title: Mushroom Cultivator Bulk Substrate
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

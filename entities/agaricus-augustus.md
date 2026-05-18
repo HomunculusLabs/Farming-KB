@@ -43,7 +43,7 @@ Pacific Northwest and other temperate regions. The Prince fruits during
 the summer months, specifically from late July through September in the
 Pacific Northwest. This fruiting window overlaps with [[stropharia-rugoso-annulata]]
 - agaricus augustus
-- [[boletus-edulis-entity]]
+- [[boletus-edulis]]
 ## Practical Considerations
 
 Successful implementation of agaricus augustus requires attention to

@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Woodsia." Flora of North America North of Mexico, Vol. 2. Oxford University Press.
+  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Woodsia." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 2. Oxford University Press.
   - Dorn, R.D. (2000). Vascular Plants of Wyoming, 3rd ed. Mountain West Publishing.
   - Windham, M.D. (1993). "A revision of the genus Woodsia in North America." Contributions from the University of Michigan Herbarium, 19, 81–115.
   - US Forest Service (2022). "USDA Plants Profile: Woodsia oregana D.C. Eaton." plants.usda.gov.
@@ -77,9 +77,9 @@ Epiphytic lichens and mosses frequently colonize the rocky substrates surroundin
 
 ## Cultivation
 
-Woodsia oregana is cultivated by specialized fern enthusiasts and alpine plant growers. It requires excellent drainage, cool temperatures, and protection from summer heat.
+Woodsia oregana is cultivated by specialized fern enthusiasts and alpine plant growers. It requires excellent drainage, cool temperatures, and protection from [[summer-heat-management-greenhouse-ventilation]].
 
-A standard mix of 50% limestone chips, 30% coarse sand, and 20% organic matter replicates its natural substrate. The fern performs best in rock gardens, trough planters, or alpine house conditions.
+A standard mix of 50% limestone chips, 30% coarse sand, and 20% [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] replicates its natural substrate. The fern performs best in rock gardens, trough planters, or alpine house conditions.
 
 Watering should be moderate during the [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] reduced moisture in winter to prevent crown rot. The species is hardy to at least USDA Zone 4.
 

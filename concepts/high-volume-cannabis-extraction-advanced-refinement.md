@@ -1,5 +1,5 @@
 ---
-title: High [[high-volume-cannabis-extraction-and-refinement]] [[cannabis-advanced-refinement-fractional-distillation]]
+title: High Volume Cannabis Extraction Advanced Refinement
 source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Macrofungal Documentation, Spore Deposits, and Taxonomic Resources
+title: Macrofungal Documentation Spore Deposits Taxonomic Resources
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Describing Macromorphological Features (continued)
 
-Accurate documentation of macromorphological features is fundamental to [[fungal-taxonomy]] and biodiversity assessment. Proper equipment ensures consistent, reproducible descriptions.
+Accurate documentation of macromorphological features is fundamental to [[fungal-taxonomy]] [[fungal-identification-and-biodiversity-assessment]]. Proper equipment ensures consistent, reproducible descriptions.
 
 ### Essential Equipment
 
@@ -53,7 +53,7 @@ Photographs — whether slides, prints, or digital images — are extremely valu
 
 Daylight-type film with sunlight or electronic flash produces the most accurate color. Ring flash, multiple flash units, or bounce flash eliminates the harsh "shot-at-night" appearance of single on-camera flash. Photograph specimens against a **black or neutral gray background** to highlight diagnostic features. Each specimen should be photographed to include:
 
-- **All developmental stages** (buttons, immature, mature, senescent)
+- **All [[psilocybe-cubensis-developmental-stages]]** (buttons, immature, mature, senescent)
 - **Sporocarp cut lengthwise** to reveal internal anatomy (context, lamellae attachment, stipe interior)
 - **Top view of the pileus** showing surface features
 - **Underside view** showing lamellae or pore edges
@@ -73,7 +73,7 @@ Key references: Romagnesi (1967), Marr et al. (1986), Singer (1986b).
 ### Methodology and Practical Considerations
 
 1. Place reagents on **detached pieces** of the sporocarp (never on the intact specimen)
-2. Note **color changes** immediately and over time
+2. Note **[[boletus-species-alarming-color-changes]]** immediately and over time
 3. Use **no more than one reagent per sporocarp piece** to avoid confounding results
 4. Record **both positive and negative results** — a negative reaction is itself informative
 
@@ -121,7 +121,7 @@ The first step in identifying an unknown fungus is **assignment to family**, whi
 
 ### Basidiomycetes: Identification Resources
 
-**Nonagaric fungi on wood:** Eriksson and Ryvarden (1973–1976), Eriksson et al. (1978, 1984), Gilbertson (1974), Jülich and Stalpers (1980), Gilbertson and Ryvarden (1986). Burt (1914–1926, reprinted 1966) covers resupinate/erect forms of North America and the Caribbean but uses outdated concepts. **Temperate keys do not always work for tropical species.**
+**Nonagaric fungi on wood:** Eriksson and Ryvarden (1973–1976), Eriksson et al. (1978, 1984), Gilbertson (1974), Jülich and Stalpers (1980), Gilbertson and Ryvarden (1986). Burt (1914–1926, reprinted 1966) covers resupinate/erect forms [[huckleberries-and-wild-berries-of-north-america]] and the Caribbean but uses outdated concepts. **Temperate keys do not always work for tropical species.**
 
 **Tremellales:** McNabb (1964–1973) for North America; Breitenbach and Kränzlin (1984) for Europe; Dennis (1970), Lowy, and Ryvarden for the Neotropics.
 
@@ -131,7 +131,7 @@ The first step in identifying an unknown fungus is **assignment to family**, whi
 
 **Gasteromycetes:** Breitenbach and Kränzlin (1986), Coker and Couch (1928), Miller and Miller (1988), Pegler et al. (1995), Smith and Smith (1973); Clathraceae: Dring (1980); Nidulariaceae: Brodie and Dennis (1954).
 
-**Agaricales:** The most extensive identification literature of any fungal order. Annotated catalog: Watling and Watling (1980). North American field guides: Arora (1987), Bessette et al. (1997, 2000), Lincoff (1981), McKnight and McKnight (1987), Miller (1972), Phillips (1991). European: Bas et al. (1988–1995), Breitenbach and Kränzlin (1991–2000), Courtecuisse and Duhem (1995), Moser (1978). Regional: Horak (1979) for Tierra del Fuego; Teng (1996) for China; Nishida (1989) for Neotropics.
+**[[agaricales]]:** The most extensive identification literature of any fungal order. Annotated catalog: Watling and Watling (1980). [[growing-gourmet-north-american-reishi-species]] field guides: Arora (1987), Bessette et al. (1997, 2000), Lincoff (1981), McKnight and McKnight (1987), Miller (1972), Phillips (1991). European: Bas et al. (1988–1995), Breitenbach and Kränzlin (1991–2000), Courtecuisse and Duhem (1995), Moser (1978). Regional: Horak (1979) for Tierra del Fuego; Teng (1996) for China; Nishida (1989) for Neotropics.
 
 **Key strategy:** Begin with artificial keys (Dennis 1970; Largent and Baroni 1988), then natural keys in Singer (1986b) if unsatisfactory.
 

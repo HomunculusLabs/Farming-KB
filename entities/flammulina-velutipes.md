@@ -1,5 +1,5 @@
 ---
-title: [[enoki-mushroom-flammulina-velutipes]]
+title: Flammulina Velutipes
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 tags: [fungi, basidiomycete, edible, saprotrophic, radionuclide, enoki]

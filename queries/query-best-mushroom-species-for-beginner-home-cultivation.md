@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources:
   - Stamets, Paul. *Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive*, 3rd ed., Ten Speed Press, 2000.
   - Royse, Daniel J., et al. *accessible-mushroom-cultivation-for-disabilities and Marketing*, ATTRA, USDA, 2010.
-  - "falconer-growing-mushrooms-in-sheds at Home," North [[palmer-mushroom-charts-american-mycological-education]] Association, https://namyco.org/resources
+  - "falconer-growing-mushrooms-in-sheds at Home," North palmer-mushroom-charts-american-mycological-education Association, https://namyco.org/resources
   - Kozak, Magdalena, and Kawiak, Anna. "[[cultivation-of-oyster-mushrooms]] Mushrooms (Pleurotus spp.) on Various Substrates," *BioMed Research International*, 2018.
   - Stamets, Paul. *[[coprinus-atrementarius-entity-the-mushroom-cultivator]]*, Agarikon Press, 1983.
   - "duggar-mushroom-growing-history-and-methods 101: A Beginner's Guide," FreshCap Mushrooms, https://freshcap.com/guides

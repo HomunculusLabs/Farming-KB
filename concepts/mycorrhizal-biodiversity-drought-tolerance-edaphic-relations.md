@@ -1,5 +1,5 @@
 ---
-title: [[mycorrhizal-biodiversity-drought-stress-response]] Tolerance and Edaphic Relations
+title: Mycorrhizal Biodiversity Drought Tolerance Edaphic Relations
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

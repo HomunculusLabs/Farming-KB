@@ -1,5 +1,5 @@
 ---
-title: Savory [[bioregionalism-and-community-organization]] And Shared Grazing
+title: Savory Community Organization And Shared Grazing
 created: 2026-04-28
 tags: [holistic-management, communal-land, community-governance, grazing-planning, social-organization]
 date: 2026-04-25

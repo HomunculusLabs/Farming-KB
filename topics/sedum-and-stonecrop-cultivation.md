@@ -16,7 +16,7 @@ updated: 2026-04-28
 sources:
   - "Stephenson, R. (1994). Sedum: Cultivated Stonecrops. Timber Press. ISBN 978-0881923901."
   - "Ohba, H. (2001). 'A revision of the genus Sedum L. in Japan and its surrounding regions.' Journal of Japanese Botany, 76, 1–180."
-  - "Snodgrass, E.C. & Snodgrass, L.L. (2006). [[comparison-green-roof-vs-earth-sheltered]] Plants: A Resource and Planting Guide. Timber Press. ISBN 978-0881926100."
+  - "Snodgrass, E.C. & Snodgrass, L.L. (2006). comparison-green-roof-vs-earth-sheltered Plants: A Resource and Planting Guide. Timber Press. ISBN 978-0881926100."
   - "van Breemen, N. (1989). 'Sedum in the traditional architecture of Scandinavia.' Journal of Architectural Botany, 14(2), 87–105."
   - "Gravatt, D. & Martin, C.E. (1992). 'Ecophysiological responses of two varieties of Sedum to water deficits.' Physiologia Plantarum, 84(4), 511–518."
 ---

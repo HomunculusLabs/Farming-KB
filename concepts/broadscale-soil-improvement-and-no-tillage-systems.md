@@ -1,5 +1,5 @@
 ---
-title: [[mollison-permaculture-two-broadscale-soil-improvement]] and No-Tillage Systems
+title: Broadscale Soil Improvement And No Tillage Systems
 source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---

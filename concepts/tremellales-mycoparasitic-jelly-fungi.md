@@ -56,7 +56,7 @@ Notable species include:
 - **Holtermannia**: Found on polypores (Bandoni 1995)
 - **Xenolachne**: Grows on inoperculate discomycetes
 - **Bulleromyces albus**: Possesses Tremella-type haustoria suggesting mycoparasitic capacity (Boekhout et al. 1991)
-- **Itersonilia**: Found as mycoparasites on powdery mildews
+- **Itersonilia**: Found as mycoparasites on [[biodiversity-powdery-mildews]]
 
 ## Syzygosporaceae (Synonym Carcinomycetaceae)
 
@@ -65,13 +65,13 @@ The Syzygosporaceae are a specialized group of Tremellales comprising parasites 
 Key species include:
 - **Syzygospora alba**: Produces tremelloid sporocarps on an unknown host (Oberwinkler and Lowy 1981)
 - **Syzygospora bachmannii** and **S. physciacearum**: Common and widespread lichenicolous species growing on Cladonia species and Physciaceae (Diederich 1996)
-- **Christiansenia mycetophila**, **C. effibulata**, and **C. tumefaciens**: Grow on Gymnopus dryophilus, inducing gall-like fructifications (Ginns and Sunhede 1978; Oberwinkler and Bandoni 1982)
+- **Christiansenia mycetophila**, **C. effibulata**, and **C. tumefaciens**: Grow on [[gymnopus-dryophilus]], inducing gall-like fructifications (Ginns and Sunhede 1978; Oberwinkler and Bandoni 1982)
 
 "Zygoconidia" arise from the fusion of blastoconidia thrust forward by adjacent cells, and their septa lack parenthesomes (Oberwinkler and Bandoni 1982).
 
 ## Filobasidiaceae
 
-Filobasidium, Filobasidiella, and Cystofilobasidium are more or less mycoparasitic. The otherwise yeastlike genera Filobasidium and Cystofilobasidium develop hyphal structures with haustoria only in the dikaryotic phase. Species of Filobasidium and the vertebrate parasites in Filobasidiella (best known as the Cryptococcus neoformans anamorph) also possess haustoria, suggesting mycoparasitic capacities (Bandoni 1995). Cystofilobasidium capitatum was found in the gleba of Phallaceae (Oberwinkler et al. 1983).
+Filobasidium, Filobasidiella, and Cystofilobasidium are more or less mycoparasitic. The otherwise yeastlike genera Filobasidium and Cystofilobasidium develop hyphal structures with haustoria only in the dikaryotic phase. Species of Filobasidium and the vertebrate parasites in Filobasidiella (best known as the [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] anamorph) also possess haustoria, suggesting mycoparasitic capacities (Bandoni 1995). Cystofilobasidium capitatum was found in the gleba of Phallaceae (Oberwinkler et al. 1983).
 
 ## Rhynchogastremaceae and Other Families
 
@@ -89,8 +89,8 @@ These organelles, first described as "lenticular bodies" from Sporidiobolus spec
 
 While jelly fungi (mainly Tremellales) are often mycoparasitic themselves, they also serve as hosts for other parasites:
 
-- **Acremonium psammosporum**, **Verticillium**, and **Chalara** species; **Hypomyces aurantius**; and **Ophiostoma epigloeum** have been found as parasites on Tremella species
-- **Dactylaria lanosa** isolated from Pseudohydnum gelatinosum
+- **Acremonium psammosporum**, **Verticillium**, and **Chalara** species; **[[hypomyces-aurantius]]**; and **Ophiostoma epigloeum** have been found as parasites on Tremella species
+- **Dactylaria lanosa** isolated from [[pseudohydnum-gelatinosum]]
 - Fungi parasitizing **Auricularia** species include Acremonium and Verticillium species, Hypomyces semitranslucens, and three species of Cladobotryum
 - An epibiotic chytrid, **Rhizophlyctis** species, was found on Dacrymyces stillatus (Canter and Ingold 1984)
 - **Sebacina penetrans** and **Itersonilia perplexans** can attack Dacrymyces species
@@ -104,7 +104,7 @@ Tremellalean mycoparasites play important roles in forest ecosystems by:
 
 1. Regulating populations of wood-decay fungi, potentially influencing rates of wood decomposition
 2. Creating specialized niches through gall formation on host fungi
-3. Serving as bioindicators of fungal community composition — their presence often indicates the occurrence of specific host species
+3. Serving as bioindicators of fungal [[core-endorhiza-bacterial-community-composition-cannabis]] — their presence often indicates the occurrence of specific host species
 4. Contributing to the complex succession patterns observed on decaying wood and sporocarps
 
 The restricted growth of the dikaryotic somatic phase in many Tremellales species likely reflects their adaptation to the mycoparasitic lifestyle, where extensive vegetative growth is unnecessary when the parasite can directly tap host resources through haustoria.

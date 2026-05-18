@@ -1,5 +1,5 @@
 ---
-title: Identification of Major [[edible-mushroom-families]]
+title: Edible Mushroom Family Identification
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

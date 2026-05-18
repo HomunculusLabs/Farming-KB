@@ -1,5 +1,5 @@
 ---
-title: Leek Cultivation and Deep [[hamilton-companion-planting-techniques]]
+title: Leek Deep Planting Techniques
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

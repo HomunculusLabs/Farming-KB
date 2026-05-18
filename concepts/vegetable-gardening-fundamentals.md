@@ -1,5 +1,5 @@
 ---
-title: [[dryland-vegetable-gardening]] Fundamentals
+title: Vegetable Gardening Fundamentals
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fish Pond [[aquaculture-pond-yields-and-stocking-rates]] and [[fish-breeding-control-mollison]]
+title: Fish Pond Stocking Rates And Breeding Control
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

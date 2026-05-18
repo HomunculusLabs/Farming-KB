@@ -78,3 +78,42 @@ Reversing desertification requires restoring effective function of all four ecos
 Documented results from ranches applying holistic management show rapid improvements in water infiltration, plant density, soil organic matter, and forage production—often within three to five years of implementation. These improvements occur not by adding inputs but by restoring the natural processes that maintained ecosystem health for millions of years.
 
 ## Sources
+## Ecological Principles
+
+Holistic management recognizes ecosystems as interconnected wholes.
+The water cycle, mineral cycle, energy flow, and community dynamics
+operate as linked processes. Biological monitoring tracks indicators
+such as soil organic matter, plant diversity, and ground cover.
+Decision-making frameworks test actions against holistic goals
+encompassing ecological, social, and financial dimensions.
+
+## Financial Planning
+
+Holistic financial planning aligns enterprise decisions with
+ecological goals. Gross profit analysis evaluates the ratio of
+additional income to additional costs. Wealth-generating enterprises
+receive priority investment. Planning accounts for ecological
+overhead including the true cost of soil degradation and water
+depletion in enterprise assessments.
+
+## Environmental Outcomes
+
+Holistic management practices demonstrate measurable improvements
+in ecosystem health when properly implemented. Restored grassland
+soils show increased organic matter, improved water infiltration,
+and greater biodiversity. Properly managed grazing can sequester
+carbon in soils while maintaining livestock productivity. Wildlife
+habitat improves as plant community diversity increases. These
+environmental benefits compound over time as ecological processes
+strengthen and self-reinforce.
+
+The holistic framework continues to gain adoption as evidence
+of its effectiveness accumulates across diverse ranching operations.
+
+## See Also
+
+- [[allan-savory]]
+- [[cell-grazing]]
+- [[cold-area-grazing-and-wildfire]]
+- [[comparison-rotational-grazing-vs-continuous-grazing]]
+- [[comparison-rotational-grazing-vs-set-stocking]]

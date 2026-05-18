@@ -1,5 +1,5 @@
 ---
-title: Pf Tek [[mushroom-spore-printing-and-storage]] [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
+title: Pf Tek Spore Printing And Syringe Preparation
 created: 2026-04-28
 tags:
   - cultivation

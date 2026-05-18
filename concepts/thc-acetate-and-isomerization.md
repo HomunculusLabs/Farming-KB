@@ -1,6 +1,6 @@
 ---
 
-title: [[cannabinoid-isomerization-and-thc-acetate]] and Isomerization
+title: Thc Acetate And Isomerization
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Phycomyces Comparative [[evaporative-demand-unified-four-factor-model-mushroom-tropism-badham-1982]] Sensory Biology
+title: Phycomyces Comparative Model Mushroom Tropism Sensory Biology
 created: 2026-05-09
 tags: [mycology, phycomyces, tropism, comparative-biology, sporangiophore, anemotropism, gravitropism, phototropism]
 date: 2026-05-09

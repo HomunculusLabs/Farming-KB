@@ -1,5 +1,5 @@
 ---
-title: [[coleman-vertical-trellis-growing-greenhouse-tomatoes|Growing]] Tomatoes Peppers and Eggplant
+title: Growing Tomatoes Peppers And Eggplant
 source: gardening-when-it-counts-steve-[[solomon-growing-peppers-eggplant|solomon]].md
 type: concept
 ---

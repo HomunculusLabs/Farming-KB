@@ -6,14 +6,14 @@ type: concept
 
 # Mushroom Casing and Fruiting
 
-Casing is the process of covering fully colonized substrate with a layer of non-nutritive soil or soil-like material to induce mushroom formation (fruiting). In commercial [[mushroom-cultivation]], casing is a standard practice that triggers the transition from vegetative mycelial growth to the production of fruiting bodies. The technique was adapted by Oss & Oeric (1976) for indoor cultivation of *[[stropharia-cubensis]]* on rye [[grain-spawn]].
+Casing is the process of covering fully colonized substrate with a layer of non-nutritive soil or soil-like material to induce [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] (fruiting). In commercial [[mushroom-cultivation]], casing is a standard practice that triggers the transition from [[maitake-spawn-run-vegetative-mycelial-phases]] growth to the production [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. The technique was adapted by Oss & Oeric (1976) for indoor cultivation of *[[stropharia-cubensis]]* on rye [[grain-spawn]].
 
 ## The Biological Purpose of Casing
 
 Mycelium growing on nutrient-rich grain remains in a vegetative state, continuously expanding and consuming nutrients without producing mushrooms. Casing provides several environmental cues that shift the fungus into reproductive mode:
 
 1. **Reduced nutrients:** The casing layer contains minimal nutrition, signaling the mycelium that food resources are becoming limited — a natural trigger for reproduction
-2. **Microclimate creation:** A thin, moist soil layer creates a high-humidity zone at the substrate surface with favorable gas exchange, mimicking the natural soil surface where mushrooms would fruit in the wild
+2. **[[holzer-climate-zone-microclimate-creation]]:** A thin, moist soil layer creates a high-humidity zone at the substrate surface with favorable gas exchange, mimicking the natural soil surface where mushrooms would fruit in the wild
 3. **Physical barrier:** The casing provides a protective layer that buffers against drying, temperature fluctuations, and contamination while still allowing mycelial penetration
 4. **CO₂ gradient:** The casing layer helps establish a carbon dioxide gradient — high CO₂ at the substrate surface, lower CO₂ above — which is one of the primary triggers for fruiting body initiation
 
@@ -34,7 +34,7 @@ Field capacity is the moisture content at which the soil is thoroughly moistened
 - Stop immediately before any water drips through the soil into the mycelium
 - The surface should feel moist and spongy to the touch
 
-**Critical:** Do not use a coarse spray, as this will seal the surface of the casing soil, creating an impermeable crust that blocks gas exchange and mycelial penetration.
+**Critical:** Do not use a coarse spray, as this will seal the surface of the casing soil, creating an impermeable crust that blocks [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]] mycelial penetration.
 
 ### Step 3: Maintenance
 
@@ -55,7 +55,7 @@ Field capacity is the moisture content at which the soil is thoroughly moistened
 | Peat moss | 2.5 liters |
 | Fine vermiculite | 3.5 liters |
 | Washed fine sand | 4 liters |
-| Calcium carbonate (finely crushed oyster shell) | 2 liters |
+| [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] (finely crushed oyster shell) | 2 liters |
 
 This mixture provides:
 - **Peat moss:** Water retention and organic structure

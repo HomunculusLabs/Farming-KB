@@ -1,5 +1,5 @@
 ---
-title: [[soil-moisture-monitoring-irrigation-management]] [[mollison-designers-soil-water-storage-and-field-capacity]]
+title: Soil Moisture Monitoring And Field Capacity
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

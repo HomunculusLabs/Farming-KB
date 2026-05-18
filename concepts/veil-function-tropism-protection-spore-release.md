@@ -12,7 +12,7 @@ The partial veil (also called the annular veil or velum partiale) in *[[psilocyb
 
 ## The Two-Phase Growth Model
 
-Badham's research demonstrated that *Psilocybe cubensis* exhibits two distinct phases of directed growth during basidiocarp development:
+Badham's research demonstrated that *Psilocybe cubensis* exhibits two distinct phases of directed growth during [[four-stage-basidiocarp-development-psilocybe-cubensis]]:
 
 **Phase 1: Anemotropic stipe elongation.** During Stages 1-2 of development, the stipe grows toward the direction of greatest evaporative demand, typically into the wind. Individual cells of the stipe may respond independently to this stimulus through differential growth rates caused by asymmetric boundary layer distribution.
 
@@ -30,11 +30,11 @@ During Phase 1, when the stipe is elongating into the wind, the upper portion of
 
 - Shields the immature pileus from desiccating wind effects that could differentially dry one side of the cap before it is ready to open
 - Maintains a more uniform microclimate around the developing gill surfaces, which are not yet functional for spore production
-- Prevents premature activation of the negative geotropic response by limiting exposure to light and wind on the pileus surface
+- Prevents premature activation of the negative [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] by limiting exposure to light and wind on the pileus surface
 
 ### Light Regulation of Developmental Transitions
 
-Light plays multiple roles in *P. cubensis* development. It is necessary for basidiocarp initiation, spore formation, and geotropic sensitivity. The veil may modulate light exposure to the developing gill surfaces, preventing premature triggering of the Phase 2 geotropic response before the mushroom has completed sufficient vertical extension.
+Light plays multiple roles in *P. cubensis* development. It is necessary for [[light-basidiocarp-initiation-psilocybe-cubensis-research]], spore formation, and [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]]. The veil may modulate light exposure to the developing gill surfaces, preventing premature triggering of the Phase 2 geotropic response before the mushroom has completed sufficient vertical extension.
 
 Badham noted that small quantities of light can trigger hormonic responses in the mushroom, meaning that even modest light filtering by the veil could influence the timing of the developmental transition from anemotropism to geotropism.
 
@@ -57,7 +57,7 @@ For lignicolous and coprophilous species, which inhabit unstable substrates such
 
 The Phase 2 negative geotropic response is linked to spore production through a substance produced in the gills (lamellae). This is supported by several lines of evidence:
 
-- Sporeless mutants do not exhibit negative geotropism at Stage 3
+- Sporeless mutants do not exhibit [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]] at Stage 3
 - Decapitation experiments have linked tropic hormones to the lamellae
 - Agar diffusates from the gills can partially replace the influence of the pileus on stipe growth direction
 - The negative geotropic response requires some light, possibly only because light is necessary for spore production
@@ -74,7 +74,7 @@ Understanding the veil's role in tropism has practical implications for cultivat
 
 ## Broader Significance
 
-The veil's potential function as a tropism-regulating structure adds a new dimension to understanding mushroom morphology. Rather than serving solely as a remnant of the universal veil that protects the entire primordium, the partial veil may have an active role in coordinating the sequential tropic responses that optimize fruiting body positioning for spore dispersal.
+The veil's potential function as a tropism-regulating structure adds a new dimension to understanding [[pf-tek-mushroom-morphology-aborts-sporocarps]]. Rather than serving solely as a remnant of the universal veil that protects the entire primordium, the partial veil may have an active role in coordinating the sequential tropic responses that optimize fruiting body positioning for spore dispersal.
 
 ## References
 

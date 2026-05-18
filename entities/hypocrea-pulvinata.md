@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Hypocrea pulvinata (synonym H. fungicola) is a fungicolous ascomycete in the Hypocreaceae that parasitizes sporocarps of bracket fungi, most notably [[fomitopsis-pinicola]] and [[piptoporus-betulinus]]. It produces cushion-shaped (pulvinate) stromata on the surface of decaying polypore basidiomata and is frequently found in association with [[ophiostoma-polyporicola]] and [[melanospora-lagenaria]] on the same host fruiting bodies.
+Hypocrea pulvinata (synonym H. fungicola) is a fungicolous ascomycete in the Hypocreaceae that parasitizes sporocarps of bracket fungi, most notably [[fomitopsis-pinicola]] and [[piptoporus-betulinus]]. It produces cushion-shaped (pulvinate) stromata on the surface of decaying polypore basidiomata and is frequently found in association with [[ophiostoma-polyporicola]] and [[melanospora-lagenaria]] on the same host [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 ## Classification
 
@@ -32,7 +32,7 @@ Hypocrea pulvinata (synonym H. fungicola) is a fungicolous ascomycete in the Hyp
 
 ## Relevance to Cultivation and Mycology
 
-Hypocrea pulvinata is an important component of the fungicolous community on polypore bracket fungi. Its consistent association with Fomitopsis pinicola — a brown-rot fungus that decomposes conifer wood — makes it relevant to understanding decay succession in forest ecosystems. The species illustrates the complex multi-species interactions that occur on decaying fungal sporocarps, where H. pulvinata, Ophiostoma polyporicola, and Melanospora lagenaria form a recurring fungal consortium. For mushroom cultivators working with polypores or managing forest resources, understanding such competitive interactions helps predict natural decay patterns and potential contamination vectors.
+Hypocrea pulvinata is an important component of the fungicolous community on polypore bracket fungi. Its consistent association with Fomitopsis pinicola — a brown-rot fungus that decomposes conifer wood — makes it relevant to understanding decay succession in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]. The species illustrates the complex multi-species interactions that occur on decaying fungal sporocarps, where H. pulvinata, Ophiostoma polyporicola, and Melanospora lagenaria form a recurring fungal consortium. For mushroom cultivators working with polypores or managing forest resources, understanding such competitive interactions helps predict natural decay patterns and potential [[mushroom-contamination-vectors]].
 
 ## Ecological Interactions
 
@@ -48,7 +48,7 @@ The close physical association with Ophiostoma polyporicola — often emerging f
 - The key facts section should remain the main checklist for future review.
 - The relevance section connects the note to the uses already described.
 - Preserve names, hosts, media, families, genera, species, institutions, and protocols already listed above.
-- Do not widen host range, habitat range, practical uses, or taxonomic placement without a local source.
+- Do not widen [[powdery-mildews-erysiphaceae-diversity-host-range]], habitat range, practical uses, or taxonomic placement without a local source.
 - Prefer concise additions that clarify existing claims instead of adding new claims.
 - If a stronger source is found later, add it to the references section before expanding the claim.
 - Keep scientific names and institutional names consistent with the forms already used above.
@@ -87,7 +87,7 @@ The close physical association with Ophiostoma polyporicola — often emerging f
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

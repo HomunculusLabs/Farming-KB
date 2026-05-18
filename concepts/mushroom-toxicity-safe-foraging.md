@@ -1,5 +1,5 @@
 ---
-title: Mushroom Toxicity and Safe [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]]
+title: Mushroom Toxicity Safe Foraging
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Mycelium [[mycelial-network-architecture]]
+title: Mycelium Network Architecture
 created: 2026-04-28
 tags: [mycology], fungal-biology, networks, ecology]
 date: 2026-04-28

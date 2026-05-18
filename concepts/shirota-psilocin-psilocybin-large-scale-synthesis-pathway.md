@@ -1,5 +1,5 @@
 ---
-title: "Shirota Large-Scale tryptamine-chemistry-psilocin-and-psilocybin-synthesis [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]"
+title: Shirota Psilocin Psilocybin Large Scale Synthesis Pathway
 created: 2026-04-28
 tags:
   - chemistry

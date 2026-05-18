@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Natural Seeding Direct Seeding Development"
+title: Fukuoka Natural Seeding Direct Seeding Development
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -38,7 +38,7 @@ per square yard, with 60 to 120 grains per head. Yields were about the same
 across the entire range. This demonstrated that rice plants naturally
 self-regulate through tillering, making precise seeding rates far less critical
 than conventional wisdom suggested.
-Problems did arise, however. Fields with very rich organic matter combined with
+Problems did arise, however. Fields with very rich [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] combined with
 poor water management caused seeds to sink into the mud, resulting in poor
 germination. Deep flooding led to lodging, where plants fell over under their
 own weight. Despite these difficulties, Fukuoka concluded:
@@ -48,7 +48,7 @@ own weight. Despite these difficulties, Fukuoka concluded:
 ## Early Attempts at Rice/Barley Direct Seeding
 
 Building on the success of direct-seeded rice, Fukuoka next attempted to grow
-rice and barley in succession on the same field — a common rotation in Japan
+[[fukuoka-rice-and-barley-natural-farming]] in succession on the same field — a common rotation in Japan
 typically managed through extensive tillage and transplanting.
 His early attempts to direct-seed rice between standing barley rows met with
 repeated failure. Germination was poor because of predation by mole crickets,
@@ -93,8 +93,8 @@ seem reckless. But decades of results vindicated his approach:
 > soil fertility."
 
 In 1962, Fukuoka published his findings in "The Truth about Direct-Seeding
-Rice and Barley Cultivation." The publication was described by commentators as:
-> "A guiding light for Japanese rice cultivation ten years hence."
+Rice and [[fukuoka-natural-rice-barley-cultivation]]." The publication was described by commentators as:
+> "A guiding light for Japanese [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]] ten years hence."
 
 The methods Fukuoka developed through patient observation and relentless
 simplification have since influenced farmers, permaculturalists, and

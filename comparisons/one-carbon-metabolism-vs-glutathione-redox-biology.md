@@ -1,5 +1,5 @@
 ---
-title: "One-Carbon Metabolism vs [[one-carbon-metabolism]] vs glutathione redox biology Biology"
+title: One Carbon Metabolism Vs Glutathione Redox Biology
 aliases: query-how-does-one-carbon-metabolism-affect-methylation vs glutathione, methylation vs redox metabolism, folate metabolism and glutathione]
 tags: [comparison, biochemistry, metabolism, nutrition, redox-biology]
 created: 2026-05-02

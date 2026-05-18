@@ -1,5 +1,5 @@
 ---
-title: Vermicompost Production Systems [[aact-compost-quality-standards-ingham]]
+title: Vermicompost Production Systems Quality Standards
 category: composting
 source: general-knowledge
 mined: 2026-05-10

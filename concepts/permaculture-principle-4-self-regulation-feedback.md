@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-principle-1-observe-interact]] 4 Apply Self-Regulation and Accept Feedback
+title: Permaculture Principle 4 Self Regulation Feedback
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---

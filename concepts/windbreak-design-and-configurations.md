@@ -1,5 +1,5 @@
 ---
-title: Windbreak Design and Configurations
+title: Windbreak Design And Configurations
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -28,7 +28,7 @@ Windbreak length must exceed the length of the field being protected, as wind fu
 
 ### C. Compound High-Density Windbreak
 - **Ground cover:** Convulvulus, Phyla (Lippia), Mesembryanthemum
-- **Low shrubs:** Echium fastuosum, wormwood
+- **Low shrubs:** [[echium-fastuosum]], wormwood
 - **Shrubs:** Coprosma repens
 - **Trees:** Lycium, Cedrus, Cupressus
 - **Effects:** Best protection for eroding beaches — lifts wind smoothly over the beach berm and traps sand. Also effective as a dust trap in dust-storm areas.
@@ -40,11 +40,11 @@ Windbreak length must exceed the length of the field being protected, as wind fu
 ### E. In-Crop Windbreak Systems
 1. **Savannah-style:** Open-spaced light-crowned trees in crop or pasture. Excellent forage in arid areas, especially when trees provide fodder. Species: fodder palms, Inga, Acacia, tagasaste, baobab, Prosopis.
 
-2. **Complete crown cover:** Interplanting fruit trees with leguminous trees as shelter and mulch, with Casuarinas as borders. Suited to humid climates and irrigated areas. Species: fruits (palms, avocado, Inga, banana, citrus); legumes (tagasaste, Acacia, Albizia, Glyricidia, Leucaena); borders (Casuarina, Phoenix canariensis, Prosopis).
+2. **Complete crown cover:** Interplanting fruit trees with leguminous trees as shelter and mulch, with Casuarinas as borders. Suited to humid climates and irrigated areas. Species: fruits (palms, avocado, Inga, banana, citrus); legumes (tagasaste, Acacia, Albizia, Glyricidia, Leucaena); borders (Casuarina, [[phoenix-canariensis]], Prosopis).
 
 ## Integral Windbreak Strategy
 
-For tree crops and orchards, windbreaks can be composed of trees compatible with the protected system, making the windbreak integral with the crop itself. This strategy has proven successful for wind and frost moderation in susceptible crops such as citrus, avocado, macadamia nuts, and chestnuts. Hardy species like Acacia, Casuarina, Glyricidia, tagasaste, and Prosopis — all of which fix nitrogen or phosphates, provide firewood, radiate heat, and shelter crops — serve as interplant barriers within the crop.
+For tree [[mollison-designers-windbreak-configurations-for-crops-and-orchards]], windbreaks can be composed of trees compatible with the protected system, making the windbreak integral with the crop itself. This strategy has proven successful for wind and frost moderation in susceptible crops such as citrus, avocado, macadamia nuts, and chestnuts. Hardy species like Acacia, Casuarina, Glyricidia, tagasaste, and Prosopis — all of which fix nitrogen or phosphates, provide firewood, radiate heat, and shelter crops — serve as interplant barriers within the crop.
 
 ## Effects on Soil and Water
 
@@ -59,7 +59,7 @@ Windbreaks of types A or B trap snow on fields. Snow depth in winter closely cor
 
 ## Crop Yield Increases
 
-Windbreak establishment on exposed sites produces remarkable yield increases:
+[[windbreak-establishment-and-benefits]] on exposed sites produces remarkable yield increases:
 - **Avocado:** up to 100% increase
 - **Alfalfa:** 60–70% increase
 - **Corn:** 45% increase
@@ -77,7 +77,7 @@ regulation, and atmospheric processes that sustain regional climate patterns.
 
 ## Practical Applications
 These concepts apply directly to permaculture design, agroforestry systems,
-and watershed management. Understanding the interactions between vegetation,
+[[ozier-pdc-hydro-cycle-and-watershed-management]]. Understanding the interactions between vegetation,
 water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 

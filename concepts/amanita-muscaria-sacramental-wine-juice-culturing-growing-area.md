@@ -1,5 +1,5 @@
 ---
-title: [[amanita-muscaria-sacramental-wine-preparation]] Wine Juice Culturing Growing Area
+title: Amanita Muscaria Sacramental Wine Juice Culturing Growing Area
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---

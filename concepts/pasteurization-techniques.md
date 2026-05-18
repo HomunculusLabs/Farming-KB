@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-pasteurization-techniques]]
+title: Pasteurization Techniques
 created: 2026-04-28
 tags: [mycology, mushroom-cultivation, pasteurization, substrate]
 date: 2026-04-28

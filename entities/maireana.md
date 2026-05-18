@@ -40,13 +40,13 @@ Mollison includes bluebush (*Maireana* spp.) alongside other salt-tolerant gener
 - **Samphire (*Crithmum*, *Salicornia*)**
 - **Tall wheat grass (*Agropyron*)**
 - **Wimmera rye grass (*[[interceptor-banks]] are remediating upslope causes
-- **Wildlife habitat:** Provides cover and food for native fauna in restoration plantings
+- **[[hemenway-backyard-wildlife-habitat]]:** Provides cover and food for native fauna in restoration plantings
 - **Wind erosion control:** Low, dense growth reduces wind speed at ground level
 - **Soil building:** Accumulates organic matter that eventually supports less salt-tolerant species
 
 ## Relevance to Cultivation and Permaculture
 
-*Maireana* provides permaculture designers with an Australian-native alternative to *Atriplex* (saltbush) for salt-tolerant shrub layers on degraded dryland sites. Its local adaptation to Australian conditions and co-evolution with native fauna make it particularly valuable for ecological restoration designs. As with all salt-tolerant species, Mollison cautions that bluebush should complement rather than replace structural solutions to salinity — interceptor banks and reforestation must address the underlying causes.
+*Maireana* provides [[bill-mollison-permaculture-designers-manual]] with an Australian-native alternative to *Atriplex* (saltbush) for salt-tolerant shrub layers on degraded dryland sites. Its local adaptation to Australian conditions and co-evolution with native fauna make it particularly valuable for [[mycorrhizal-fungi-ecological-restoration]] designs. As with all salt-tolerant species, Mollison cautions that bluebush should complement rather than replace structural solutions to salinity — interceptor banks and reforestation must address the underlying causes.
 
 ## Source Reference
 
@@ -60,7 +60,7 @@ Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 11 (Dryland Strategi
 ## Overview
 
 Maireana represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -81,7 +81,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Maireana finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -110,7 +110,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 maireana and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

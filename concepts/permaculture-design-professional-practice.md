@@ -1,5 +1,5 @@
 ---
-title: Professional [[bee-forage-systems-permaculture-design]] Practice
+title: Permaculture Design Professional Practice
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---

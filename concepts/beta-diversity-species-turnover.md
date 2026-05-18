@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-**Beta diversity** (β-diversity) is a measure of **differentiation diversity** — the degree to which species composition differs between two or more sites, communities, or habitats. Unlike alpha diversity, which quantifies species richness within a single site, beta diversity captures the variation in species identity across space (or time). It is a central concept in community ecology, biogeography, and conservation biology, providing insight into how ecological processes such as dispersal, environmental filtering, and competition shape the distribution of biodiversity.
+**Beta diversity** (β-diversity) is a measure of **differentiation diversity** — the degree to which species composition differs between two or more sites, communities, or habitats. Unlike alpha diversity, which quantifies species richness within a single site, beta diversity captures the variation in species identity across space (or time). It is a central concept in community ecology, biogeography, and [[fungal-conservation-biology]], providing insight into how ecological processes such as dispersal, environmental filtering, and competition shape the distribution of biodiversity.
 
 In mycology, beta diversity is especially valuable for understanding how fungal communities change across soil types, host plants, elevation gradients, and disturbance regimes. Because many fungi are habitat specialists with narrow ecological niches, turnover in fungal assemblages can be pronounced even across relatively short distances.
 
@@ -22,7 +22,7 @@ The species richness of a local community or homogeneous habitat patch — the n
 
 ### 2. Beta (β) Diversity
 
-The change (or turnover) in species composition between different sites or along environmental gradients. Beta diversity measures the extent to which species replace one another across space. It reflects both the **pattern diversity** within a landscape (heterogeneity at the within-habitat scale) and the broader **differentiation** between distinct habitat types.
+The change (or turnover) in species composition between different sites or along [[fungal-adaptations-environmental-gradients]]. Beta diversity measures the extent to which species replace one another across space. It reflects both the **pattern diversity** within a landscape (heterogeneity at the within-habitat scale) and the broader **differentiation** between distinct habitat types.
 
 ### 3. Gamma (γ) Diversity
 
@@ -45,13 +45,13 @@ Within his broader scheme, Whittaker further subdivided differentiation diversit
 Species turnover — the replacement of some species by others as one moves across space or environmental conditions — is the fundamental process underlying beta diversity. Key mechanisms driving turnover include:
 
 - **Environmental gradients**: Changes in temperature, moisture, pH, or [[nutrient-availability]] select for different species. Fungal fruiting patterns, for instance, often shift predictably along elevation and precipitation gradients.
-- **Spatial distance and dispersal limitation**: Even in environmentally homogeneous areas, communities may differ due to limited [[spore-dispersal]] and historical contingency.
-- **Biotic interactions**: Competition, host specificity, and mutualisms (e.g., mycorrhizal associations) can cause sharp species turnover across host plant boundaries.
+- **Spatial distance and [[fungal-dispersal-limitation-biogeographic-barriers]]**: Even in environmentally homogeneous areas, communities may differ due to limited [[spore-dispersal]] and historical contingency.
+- **Biotic interactions**: Competition, host specificity, and mutualisms (e.g., [[plants-without-mycorrhizal-associations]]) can cause sharp species turnover across host plant boundaries.
 - **Disturbance and succession**: Post-fire, post-harvest, or post-flood successional gradients often show strong fungal species turnover as pioneer species are replaced by late-successional taxa.
 
 ## Beta Diversity Metrics Using Presence-Absence Data
 
-A wide range of quantitative indices have been developed to measure beta diversity from **presence-absence** (incidence) data. Six of the most commonly used metrics are summarized below. Each takes as input a species-by-site matrix recording which species are present in each sample, and each provides a different perspective on how communities differ.
+A wide range of [[fungal-biodiversity-quantitative-indices]] have been developed to measure beta diversity from **presence-absence** (incidence) data. Six of the most commonly used metrics are summarized below. Each takes as input a species-by-site matrix recording which species are present in each sample, and each provides a different perspective on how communities differ.
 
 ### 1. Whittaker's Beta (β_w)
 
@@ -144,4 +144,4 @@ Beta diversity metrics are widely applied in fungal community studies to address
 - **Alpha diversity** — species richness within a single community
 - **Gamma diversity** — total species richness across a landscape
 - **Incidence-based compositional dissimilarity** — related pairwise measures (Jaccard, Sørensen)
-- **Functional diversity** — turnover in functional traits rather than species identities
+- **[[fungal-functional-diversity-communities]]** — turnover in functional traits rather than species identities

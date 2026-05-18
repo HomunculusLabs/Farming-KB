@@ -6,7 +6,7 @@ type: concept
 
 # Masanobu Fukuoka's Natural Farming — The One-Straw Revolution
 
-[[masanobu-fukuoka]] (1913–2008) developed a method of [[natural-farming]] that requires **no ploughing, no chemical fertilizer, no prepared compost, no weeding by tillage or herbicides, and no dependence on chemicals**. His rice and winter grain yields of ~22 bushels (1,300 lbs) per quarter acre match or exceed the top yields in Ehime Prefecture, Japan — one of the prime agricultural areas — yet his fields have not been ploughed for over 25 years.
+[[masanobu-fukuoka]] (1913–2008) developed a method of [[natural-farming]] that requires **no ploughing, no [[chemical-fertilizer-cycle-and-lawn-soil-food-web]], no prepared compost, no weeding by tillage or herbicides, and no dependence on chemicals**. His rice and winter grain yields of ~22 bushels (1,300 lbs) per quarter acre match or exceed the top yields in Ehime Prefecture, Japan — one of the prime agricultural areas — yet his fields have not been ploughed for over 25 years.
 
 ## Origins
 
@@ -30,7 +30,7 @@ When left to itself, soil maintains fertility naturally through the orderly cycl
 When he rented a field that had been used as a chicken manure dump over winter, the rice came up too thickly and was attacked by blast disease — demonstrating that **too much fertilizer causes problems**.
 
 ### 3. No Weeding by Tillage or Herbicides
-Weeds play their part in building soil fertility and balancing the biological community. They should be **controlled, not eliminated**. Key strategies:
+Weeds play their part in [[building-soil-fertility-long-term]] and balancing the biological community. They should be **controlled, not eliminated**. Key strategies:
 - **Straw mulch** — completely covering the field with uncut straw stops weed germination
 - **[[white-clover-ground-cover]]** — interplanted with crops
 - **Timing** — sowing seeds while the preceding crop is still standing gives grain a head start on weeds. No interval between crops means weeds never get established
@@ -91,7 +91,7 @@ Fukuoka's fields support a balanced ecosystem: dragonflies, moths, honeybees, in
 
 **Spider phenomenon:** Occasionally, after rice harvest, fields become completely covered with spider webs "as though with silk." Several spiders per square inch, millions in a quarter acre. After 1–2 days, strands break off and young spiders sail away on the wind "like dandelion fluff." This natural drama is destroyed instantly by any chemical application — even harmless wood ash caused all spider webs to disintegrate and spiders to disappear.
 
-**Pest control insight:** The Kochi Prefecture insect specialist found that while harmful insects were few in Fukuoka's fields, their natural predators were far more numerous than in sprayed fields. The fields were maintained by natural balance among insect communities. Different predators dominate in different years (spiders one year, toads another, frogs another). Specialized research cannot grasp these complex interrelationships.
+**Pest control insight:** The Kochi Prefecture insect specialist found that while harmful insects were few in Fukuoka's fields, their [[fukuoka-fruit-tree-disease-pest-control-natural-predators]] were far more numerous than in sprayed fields. The fields were maintained by natural balance among insect communities. Different predators dominate in different years (spiders one year, toads another, frogs another). [[fukuoka-specialized-research-inductive-deductive-methods]] cannot grasp these complex interrelationships.
 
 ## Rice Paddy Water Management
 
@@ -101,7 +101,7 @@ Fukuoka's fields support a balanced ecosystem: dragonflies, moths, honeybees, in
 - **August:** Run fresh water through weekly without standing
 - **Autumn harvest:** Drain before harvesting rice
 
-This differs from conventional paddy rice, which maintains standing water throughout the growing season.
+This differs from conventional paddy rice, which maintains standing water throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ## Why Natural Farming Hasn't Spread
 
@@ -110,7 +110,7 @@ Fukuoka identifies several barriers:
 1. **Overspecialization** — researchers see only their specialty (insect specialist sees only insects; nutrition specialist sees only plant vigor)
 2. **Compromise** — "experts" always suggest mixing natural and scientific methods ("Wouldn't it be more convenient to harvest by machine?"), missing the fundamental point
 3. **Institutional inertia** — testing stations say "it's too early" and want years of research before approval
-4. **Misunderstanding** — some see it as primitive, others as the pinnacle of achievement; few grasp that it "arises from the unmoving and unchanging centre of agricultural development"
+4. **Misunderstanding** — some see it as primitive, others as the pinnacle of achievement; few grasp that it "arises from the unmoving and unchanging centre of [[fukuoka-critique-agricultural-development]]"
 
 ## Applicability to Other Regions
 

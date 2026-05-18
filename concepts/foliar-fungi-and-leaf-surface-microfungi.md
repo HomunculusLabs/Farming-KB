@@ -11,11 +11,11 @@ type: concept
 Foliar fungi and leaf surface microfungi represent a diverse assemblage of fungal and fungal-like
 organisms that colonize living and dead leaf surfaces, inhabit the leaf phyllosphere, or cause
 disease in leaf tissue. These organisms range from obligate biotrophic parasites and saprobic
-decomposers to cosmopolitan opportunistic colonizers. They play critical roles in nutrient cycling,
+decomposers to cosmopolitan opportunistic colonizers. They play critical roles [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]],
 plant pathology, and ecosystem dynamics across tropical, temperate, and boreal regions. The
 phyllosphere—the aerial surfaces of leaves—is one of the most expansive microbial habitats on
 Earth, with an estimated global surface area of over 10⁸ km². Fungi dominate this habitat both in
-biomass and functional diversity.
+biomass and [[fungal-functional-diversity-communities]].
 
 ## Sooty Molds
 
@@ -37,7 +37,7 @@ Two principal growth forms are recognized:
 
 The **colloidal leaf peel technique** is the standard collection method for sooty molds. A thin
 layer of cellulose acetate or similar colloidal solution is applied to the leaf surface, allowed to
-dry, and then peeled away—lifting the fungal colonies intact for microscopic examination while
+dry, and then peeled away—lifting the fungal colonies intact for [[fungal-microscopic-examination-mounting-media-techniques]] while
 preserving the spatial relationships between hyphae, spores, and fruiting structures.
 
 ## Black Mildews (Meliolales)
@@ -57,7 +57,7 @@ fungal diversity in humid forests.
   coating on the upper leaf surface, often readily visible to the naked eye.
 
 - **Setae**: Many species produce stiff, dark setae arising from hyphal cells, aiding in spore
-  dispersal and providing structural support to the colony.
+  dispersal and providing [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] to the colony.
 
 - **Host specificity**: Black mildews tend to be moderately to highly host-specific, often
   restricted to particular plant families or genera, making them valuable for co-evolutionary
@@ -96,7 +96,7 @@ important plant pathogens with over **300 described species** causing significan
 and horticultural damage worldwide.
 
 - **Tree-like sporangiophores**: Branched, tree-like sporangiophores emerge through **stomata** on
-  the lower leaf surface, bearing sporangia at branch tips. Branching patterns are diagnostic at
+  the lower leaf surface, bearing sporangia at branch tips. [[branching-patterns-and-fractal-geometry-in-nature]] are diagnostic at
   the generic level.
 - **Biotrophic nutrition**: Obligate biotrophes forming haustoria within host cells, requiring
   living tissue to complete their life cycle.
@@ -114,7 +114,7 @@ The order **Taphrinales** contains approximately **95 species** of dimorphic asc
 alternate between a parasitic (filamentous) phase and a saprobic yeast phase, causing dramatic
 plant deformities including:
 
-- **Leaf curl**: Distortion and thickening of leaves (e.g., *Taphrina deformans* on peach).
+- **Leaf curl**: Distortion and thickening of leaves (e.g., *[[taphrina-deformans]]* on peach).
 - **Galls**: Localized swelling and hyperplasia of host tissue on leaves, petioles, or fruits.
 - **Witches' brooms**: Proliferation of shortened, dense shoots from a single point.
 - **Hypertrophied fruits**: Enlarged, distorted fruit structures (e.g., peach pocket disease).

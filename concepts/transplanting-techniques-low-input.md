@@ -78,3 +78,43 @@ Rather than raising all transplants at once, stagger your sowings:
 2. Tomatoes in short-season climates
 3. Peppers and eggplants in maritime climates
 4. Brassicas for [[coleman-overwintered-onions-and-early-spring-crops]] planting
+## Key Principles
+
+Sustainable practices integrate ecological understanding with food
+production. Core principles include building soil health, maximizing
+biodiversity, and closing nutrient cycles. Long-term productivity
+depends on maintaining ecological functions supporting growth.
+Biological processes replace synthetic inputs, reducing costs and
+environmental impact while improving food quality.
+
+## Implementation
+
+Successful implementation requires observation, adaptive management,
+and continuous learning. Site assessment identifies resources and
+constraints. Phased development builds ecological capital.
+Record-keeping and monitoring provide feedback for adjustments.
+Knowledge sharing through networks accelerates adoption.
+
+## Challenges and Adaptation
+
+Agricultural systems face mounting pressures from climate change,
+resource depletion, and population growth. Adapting practices to
+changing conditions requires flexible management strategies and
+diversified production systems. Water scarcity demands efficient
+irrigation and drought-tolerant cultivars. Soil degradation requires
+regenerative approaches that rebuild organic matter and biological
+activity. Knowledge sharing through farmer networks and research
+partnerships accelerates innovation and adaptation.
+
+Ongoing research continues to validate and refine these approaches
+across diverse agricultural and ecological contexts.
+
+Low-input transplanting methods continue to prove their value in sustainable and small-scale agricultural systems worldwide.
+
+## See Also
+
+- [[aact-npk-game-critique-nutrient-cycling-organic-conversion-ingham]]
+- [[basalt-rock-dust-agriculture]]
+- [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
+- [[bill-mollison-permaculture-a-designers-manual-succession-and-ecological-evolution]]
+- [[biochar-in-agriculture]]

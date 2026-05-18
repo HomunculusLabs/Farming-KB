@@ -1,5 +1,5 @@
 ---
-title: [[acidifying-pollutants-mycorrhizae]] and Mycorrhizal Fungi
+title: Acidifying Pollutants Mycorrhizal Impacts
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

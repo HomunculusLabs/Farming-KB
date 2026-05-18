@@ -98,6 +98,8 @@ Site-specific adaptation ensures relevance to local conditions.
 ## Management and Implementation
 
 Effective management requires attention to seasonal patterns
+
+- Related: [[arbuscular-mycorrhizal-colonization-patterns]] [[holzer-mushroom-cultivation-experiments]] [[symbiotic-fungi-mycorrhiza-history-frank-discovery]]
 and environmental feedback loops. Monitoring outcomes supports
 adaptive management strategies that improve results over time.
 Integration with complementary elements enhances system function.
@@ -145,6 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
-- [[straw-based-oyster-mushroom-cultivation]]

@@ -1,5 +1,5 @@
 ---
-title: [[comparison-spore-print-collection-vs-spore-syringe-production]] [[growing-gourmet-spore-mass-inoculation-techniques]]
+title: Spore Print Collection Spore Mass Inoculation
 tags: [spore-print, spore-collection, spore-mass-inoculation, mushroom-cultivation, species-library, cloning]
 date: 2026-04-28
 updated: 2026-04-28

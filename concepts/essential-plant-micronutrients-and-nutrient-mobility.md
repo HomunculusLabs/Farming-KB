@@ -1,5 +1,5 @@
 ---
-title: [[essential-plant-micronutrients]] [[cation-exchange-and-nutrient-mobility-in-soil]]
+title: Essential Plant Micronutrients And Nutrient Mobility
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---

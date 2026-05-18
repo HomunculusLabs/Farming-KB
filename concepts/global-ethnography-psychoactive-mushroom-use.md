@@ -12,7 +12,7 @@ Psychoactive mushroom use extends far beyond the well-known Mexican mushroom cul
 
 ### Saharan Rock Art (7,000–5,000 B.C.)
 
-Between 9,000 and 7,000 years ago, the Sahara was a blooming garden. Rock drawings from the Tassili plateau (Southern Algeria), Acacus (Libya), and Ennedi (Chad) at altitudes of ~6,500 ft depict:
+Between 9,000 and 7,000 years ago, the Sahara was a blooming garden. Rock drawings from the [[mckenna-tassili-plateau-round-head-civilization]] (Southern Algeria), Acacus (Libya), and Ennedi (Chad) at altitudes of ~6,500 ft depict:
 
 - Anthropomorphic beings with **mushroom-shaped heads** — some clearly holding mushrooms
 - Tiny horned dancers alongside mushrooms, reminiscent of early Mexican images
@@ -40,14 +40,14 @@ An account from the 11th century describes lumberjacks from Kyoto who encountere
 - **Maitake** (Dancing Mushrooms)
 - **Waraitake** (Laughing Mushrooms)
 
-For centuries, the species thought responsible were misidentified as *Panaeolus papilionaceus* and *Gymnopilus spectabilis* ("giant laughing mushroom"). Neither actually contains psilocybin.
+For centuries, the species thought responsible were misidentified as *Panaeolus papilionaceus* and *[[gymnopilus-spectabilis-entity]]* ("giant laughing mushroom"). Neither actually contains psilocybin.
 
 ### Modern Japanese Species
 
 - *Stropharia caerulescens* (Imai, 1932) — later *S. venenata*, now classified as a close relative of *Psilocybe cubensis*; grows on wood and dung. Caused family intoxication in 1929 when a woman mistook it for honey mushrooms (*Armillaria mellea*)
 - *Psilocybe subcaerulipes* Hongo — bluing species
 - *Psilocybe argentipes* Yokoyama — bluing species; crystalline psilocybin isolated from dried fruiting bodies
-- Japan has a 2,000-year tradition of mushroom cultivation (*Lentinus edodes* / shiitake)
+- Japan has a 2,000-year tradition [[historical-development-of-mushroom-cultivation]] (*Lentinus edodes* / shiitake)
 
 The "urge to dance" effect is unusual from a modern pharmacological perspective — psilocybin typically causes initial laughter followed by relaxation and decreased physical activity. Cultural expectations likely modified the expression of altered consciousness.
 
@@ -57,7 +57,7 @@ The "urge to dance" effect is unusual from a modern pharmacological perspective 
 
 - *Psilocybe subaeruginosa* — colloquial name **"Gold Top"**; grows in NSW, Victoria, and South Australia; bluish-green with age or pressure; contains ~0.45% psilocybin
 - *Psilocybe cubensis* — common in subtropical/tropical Queensland pastures on cattle dung; likely introduced by early settlers
-- *Panaeolus cyanescens* — colloquial name **"Blue Meanies"** (after the Beatles' *Yellow Submarine*); discovered in the early 1970s
+- *[[panaeolus-cyanescens-bali-omelette]]* — colloquial name **"Blue Meanies"** (after the Beatles' *Yellow Submarine*); discovered in the early 1970s
 - The historical "Panaeolus ovatus" intoxication accounts were likely *P. cyanescens*
 
 ### The Queensland Mushroom Boom (1969)
@@ -102,7 +102,7 @@ France has an "absurd prohibition" against exhibiting *Psilocybe* and *Strophari
 
 ### Thailand
 
-- Currently the country with the **largest consumption** of psychoactive mushrooms (J.W. Allen & M.D. Merlin)
+- Currently the country with the **largest consumption** [[historical-and-cultural-uses-of-psychoactive-mushrooms]] (J.W. Allen & M.D. Merlin)
 - Primary islands: **Koh Samui** and **Koh Pha-ngan** — primarily German tourists
 - Mushrooms served as omelettes, soups, teas, pizzas, and juices in restaurants
 - Species: *Psilocybe cubensis*, *P. subcubensis*, *Panaeolus cyanescens*
@@ -131,7 +131,7 @@ France has an "absurd prohibition" against exhibiting *Psilocybe* and *Strophari
 - **Samoa:** Teenagers discovered psychoactive effects of *P. cyanescens* in the late 1960s; parents considered it "a foolish, but totally harmless episode"
 - **New Zealand:** Usage evolved around Australian species with penalties modeled after Australian law; *P. cubensis* not native
 - **Vietnam:** *Naematoloma caerulescens* (= *P. cubensis*) collected by Patouillard in 1907
-- **Cambodia:** *Panaeolus cambodginiensis* — bluing species with psilocybin (Ola'h & Heim)
+- **Cambodia:** *[[panaeolus-cambodginiensis]]* — bluing species with psilocybin (Ola'h & Heim)
 
 ## The Soma Hypothesis
 

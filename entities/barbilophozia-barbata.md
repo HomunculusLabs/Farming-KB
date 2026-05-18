@@ -55,19 +55,19 @@ Perianths are elongate, cylindrical, and strongly contracted at the mouth, which
 
 ## Distribution and Habitat
 
-Barbilophozia barbata has a circumboreal distribution across northern Europe, Asia, and North America. In Europe, it occurs from Scandinavia and the British Isles south to the Alps and Carpathians.
+Barbilophozia barbata has a circumboreal distribution across northern Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]]. In Europe, it occurs from Scandinavia and the British Isles south to the Alps and Carpathians.
 
 In North America, the species ranges from Alaska across Canada to Newfoundland, extending south in the mountains to New England, the Great Lakes region, and the Rocky Mountains.
 
 It is a characteristic component of boreal coniferous and mixed forests. Preferred substrates include well-decayed conifer logs, stumps, humus-rich soil banks, and acid rocks in sheltered locations.
 
-The species shows a strong preference for moist, shaded microsites with high humidity. It is most abundant in old-growth and late-successional forests where large-diameter woody debris is abundant.
+The species shows a strong preference for moist, shaded microsites with high humidity. It is most abundant in old-growth and late-successional forests where large-diameter [[fungal-diversity-leaf-litter-coarse-woody-debris]] is abundant.
 
 Elevational range extends from near sea level in northern latitudes to approximately 2,500 meters in southern mountain ranges. At lower elevations, it is typically restricted to north-facing slopes and deep ravines.
 
 ## Ecology and Reproduction
 
-Barbilophozia barbata is a significant contributor to bryophyte biomass on decaying wood in boreal forests. It plays a role in moisture retention and facilitates the colonization of logs by other bryophyte species.
+Barbilophozia barbata is a significant contributor to bryophyte biomass on decaying wood in [[biodiversity-fungi-temperate-boreal-forests]]. It plays a role in moisture retention and facilitates the colonization of logs by other bryophyte species.
 
 The species frequently grows in mixed bryophyte communities alongside *[[pleurozium-schreberi]]* and *Hylocomium splendens*.
 
@@ -79,6 +79,6 @@ Vegetative reproduction occurs through stem fragmentation and gemma production. 
 
 Barbilophozia barbata is not considered threatened globally. It is widespread and common throughout its boreal range and is classified as Least Concern by most conservation authorities.
 
-However, the species is sensitive to intensive forest management practices. Clear-cut harvesting that removes large woody debris reduces available substrate, and populations typically decline in recently harvested stands.
+However, the species is sensitive to intensive [[forest-management-strategies]] practices. Clear-cut harvesting that removes large woody debris reduces available substrate, and populations typically decline in recently harvested stands.
 
-The species is moderately sensitive to air pollution, particularly [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Elevated nitrogen levels favor nitrophilous competitors and can reduce *B. barbata* abundance in affected areas.
+The species is moderately sensitive to [[air-pollution-fungal-community-responses]], particularly [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Elevated nitrogen levels favor nitrophilous competitors and can reduce *B. barbata* abundance in affected areas.

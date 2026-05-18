@@ -1,5 +1,5 @@
 ---
-title: Mycelial [[mycelial-network-nutrient-dynamics-and-imaging]] Translocation
+title: Mycelial Nutrient Translocation
 aliases:
   - fungal [[fungal-decay-and-nutrient-transport]]
   - mycelial translocation

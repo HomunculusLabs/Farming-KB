@@ -1,7 +1,7 @@
 ---
-title: "How to Build a comparison-cob-oven-construction-vs-rocket-stove for Outdoor Cooking"
+title: Query How To Build A Cob Oven For Outdoor Cooking
 created: 2026-04-28
-tags: [query, permaculture
+tags: [query, [[permaculture]]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
@@ -82,7 +82,7 @@ This is the layer that absorbs and radiates heat.
 
 ## Adding Insulation and the Outer Shell
 
-Once the thermal layer dries for a day or two, add an insulation layer of sawdust, perlite, or lightweight clay-straw mix.
+Once the thermal layer dries for a day or two, add an insulation layer of sawdust, [[perlite]], or lightweight clay-straw mix.
 
 This layer traps heat inside the oven and reduces fuel consumption.
 

@@ -20,7 +20,7 @@ Dolichos is a genus of leguminous vines and trailing plants in the family Fabace
 - **Nitrogen fixation**: As a legume, fixes atmospheric nitrogen through rhizobial root nodules, enriching soil fertility
 - **Mulch production**: Vigorous vine growth produces substantial biomass for garden mulch when pruned
 - **Forage crop**: Provides nutritious forage for small domestic livestock (poultry, rabbits, guinea pigs)
-- **Desert adaptation**: Several species tolerate heat and drought conditions, making them suitable for dryland permaculture systems
+- **Desert adaptation**: Several species tolerate heat and drought conditions, making them suitable for [[dryland-permaculture-strategies]] systems
 
 ## Relevance to Cultivation
 
@@ -31,7 +31,7 @@ Dolichos serves multiple integrated functions in designed permaculture systems:
 1. **House cooling vine**: Grown as a standing dense evergreen vine on trellis structures out from western building walls, blocking intense afternoon sun in desert environments
 2. **Garden shade**: Trained on trellis above vegetable beds to reduce light saturation and lower ambient temperatures
 3. **Living fence**: Rapid vine growth creates effective visual barriers and windbreaks
-4. **Soil building**: Nitrogen fixation and leaf drop improve soil fertility around plantings
+4. **Soil building**: [[legume-nitrogen-fixation-and-green-manure]] leaf drop [[query-how-does-rock-dust-improve-soil-fertility]] around plantings
 5. **Food production**: Edible pods and seeds provide dietary protein
 
 ### Desert Garden Applications
@@ -55,7 +55,7 @@ Dolichos integrates well with:
 ## Overview
 
 Dolichos represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -84,7 +84,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -105,7 +105,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 dolichos and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

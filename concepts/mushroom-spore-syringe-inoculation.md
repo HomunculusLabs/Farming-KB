@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-spore-syringe-making]] Inoculation
+title: Mushroom Spore Syringe Inoculation
 created: 2026-05-09
 tags: [mycology, cultivation, inoculation, spores, sterilization]
 date: 2026-05-09

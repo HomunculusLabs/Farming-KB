@@ -19,7 +19,7 @@ sources:
   - Ryvarden, L. & Gilbertoni-Lyman, T. (2004). "Pycnoporus P. Karst. (Polyporaceae)." Synopsis Fungorum, 19, 1–85.
   - Martins, L.O. et al. (2002). "Production and biotechnological applications of laccases from Pycnoporus cinnabarinus." Enzyme and Microbial Technology, 30(6), 745-751.
   - Eggert, C. et al. (1996). "fungal-manganese-peroxidase-remediation from the white-rot fungus Pycnoporus cinnabarinus." Applied Microbiology and Biotechnology, 45(5), 628-632.
-  - https://www.mycobank.org/ (taxonomic classification)
+  - https://www.mycobank.org/ ([[neurotropic-fungi-taxonomic-classification]])
   - Dai, Y.C. (2012). "Polyporaceae s.l. (Basidiomycota) in China." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 52, 49-93.
 ---
 
@@ -27,9 +27,9 @@ sources:
 
 ## Overview
 
-**Pycnoporus cinnabarinus** is a striking bracket fungus in the family Polyporaceae, instantly recognizable by its brilliant **orange-red to cinnabar-colored pore surface**. It is a white-rot saprotroph found on dead and dying hardwoods across temperate and tropical regions worldwide. The species has attracted considerable biotechnological interest for its ability to produce high levels of **[[trametes-cinnabarina|Trametes cinnabarina]]* (Jacq.) Fr.
+**Pycnoporus cinnabarinus** is a striking bracket fungus in the family Polyporaceae, instantly recognizable by its brilliant **orange-red to cinnabar-colored pore surface**. It is a white-rot saprotroph found on dead and dying hardwoods across temperate and tropical regions worldwide. The species has attracted considerable biotechnological interest for its ability to produce high levels of **[[trametes-cinnabarina]]* (Jacq.) Fr.
 - *Fomes cinnabarinus* (Jacq.) Cooke
-- *Coriolopsis cinnabarinus* (Jacq.) Murrill — used in some American mycological literature
+- *Coriolopsis cinnabarinus* (Jacq.) Murrill — used in some [[palmer-mushroom-charts-american-mycological-education]] literature
 - The genus *Pycnoporus* currently contains 4 recognized species: *P. cinnabarinus*, *P. sanguineus* (tropical), *P. coccineus* (Australasia), and *P. puniceus* ([[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] with a more deeply zonate upper surface; found on dipterocarp wood in lowland tropical forests.
 - *P. cinnabarinus* is distinguished from all relatives by its more northern [[candida-albicans]]
 ## Practical Considerations
@@ -56,7 +56,7 @@ communities, and systematic experimentation to build expertise.
 ## Overview
 
 Pycnoporus Cinnabarinus represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -77,7 +77,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pycnoporus Cinnabarinus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -85,7 +85,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -106,7 +106,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pycnoporus cinnabarinus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

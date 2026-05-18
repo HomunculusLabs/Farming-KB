@@ -21,7 +21,7 @@ five identified endocannabinoids produced naturally by the human body.
 First isolated and characterized in 2001 by researchers Hanus et al.,
 noladin ether was the third endogenous cannabinoid discovered after
 anandamide (1992) and 2-AG (1995). It acts primarily as a CB1 receptor
-agonist and contributes to the body's endocannabinoid signaling
+agonist and contributes to the body's [[2-ag-endocannabinoid-signaling-blesching]]
 network, though it is found at much lower concentrations than either
 anandamide or 2-AG.
 
@@ -34,11 +34,11 @@ anandamide or 2-AG.
 - **Structure:** Similar to 2-AG but with an ether linkage instead of
   an ester bond at the sn-1 position of the glycerol backbone
 - **Stability:** The ether linkage makes noladin ether more resistant
-  to enzymatic degradation compared to ester-linked endocannabinoids
+  to [[enzymatic-degradation-in-mycoremediation]] compared to ester-linked endocannabinoids
 
 ### Pharmacology
 - **CB1 receptor activity:** Noladin ether acts as an agonist at CB1
-  cannabinoid receptors, though its potency and efficacy differ from
+  [[cannabinoid-receptors-cb1-cb2]], though its potency and efficacy differ from
   both anandamide and 2-AG
 - **CB2 receptor activity:** Limited binding to CB2 receptors, making
   it primarily a CB1-mediated signaling molecule
@@ -79,7 +79,7 @@ medicine, as plant cannabinoids may modulate not just anandamide and
 ## Overview
 
 Noladin Ether represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Noladin Ether finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 noladin ether and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

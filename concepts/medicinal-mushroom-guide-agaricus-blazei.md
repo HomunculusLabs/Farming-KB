@@ -1,5 +1,5 @@
 ---
-title: Agaricus blazei (Brazilian Mushroom) — [[medicinal-mushroom-guide]]
+title: Medicinal Mushroom Guide Agaricus Blazei
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

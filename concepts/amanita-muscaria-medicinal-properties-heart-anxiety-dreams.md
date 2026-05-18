@@ -1,5 +1,5 @@
 ---
-title: [[allegro-amanita-muscaria-properties-and-pharmacology]] [[ginseng-cultivation-and-medicinal-properties]] Heart Anxiety Pain and Dreams
+title: Amanita Muscaria Medicinal Properties Heart Anxiety Dreams
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---

@@ -10,11 +10,11 @@ created: 2026-05-09
 
 ## Overview
 
-One of the most significant findings from Edmond R. Badham's 1982 wind tunnel study of *Psilocybe cubensis* was the discovery that **sporeless (sterile) mutants fail to exhibit the negative [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]] in mushrooms is mechanistically linked to spore production, likely through a gill-derived hormonal signal.
+One of the most significant findings from Edmond R. Badham's 1982 wind tunnel study of *Psilocybe cubensis* was the discovery that **sporeless (sterile) mutants fail to exhibit the negative [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]] in mushrooms is mechanistically linked to [[geotropism-and-spore-production-in-mushrooms]], likely through a gill-derived hormonal signal.
 
 ## The Geotropic Response in Fertile Basidiocarps
 
-In normal (fertile) *P. cubensis* development, the basidiocarp undergoes a dramatic reorientation at approximately **Stage 2** of development. The stipe, which has been growing anemotropically (toward evaporative demand), abruptly changes direction. The pileus turns **upward** and the lamellae face downward — a classic negative geotropic response. This reorientation coincides with the onset of spore formation and serves to position the gills optimally for basidiospore release.
+In normal (fertile) *P. cubensis* development, the basidiocarp undergoes a dramatic reorientation at approximately **Stage 2** of development. The stipe, which has been growing anemotropically (toward [[anemotropism-evaporative-demand-fungi]]), abruptly changes direction. The pileus turns **upward** and the lamellae face downward — a classic negative geotropic response. This reorientation coincides with the onset of spore formation and serves to position the gills optimally for basidiospore release.
 
 ### Key Features of the Normal Geotropic Response
 
@@ -72,7 +72,7 @@ Badham suggested that a substance produced in the **lamellae** during spore form
 3. Causes the stipe to respond primarily to gravity during sporulation.
 4. May be the same as or related to the "[[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]]" described by earlier researchers.
 
-This is consistent with the decapitation experiments of Hagimoto and Konishi, who showed that agar diffusates from gills could partially replace pileus influence on stipe growth direction.
+This is consistent with the decapitation experiments of Hagimoto and Konishi, who showed that agar diffusates from gills could partially replace pileus influence on stipe [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]].
 
 ## Role of Light in the Spore-Geotropism Axis
 
@@ -82,6 +82,6 @@ The relationship between light, spore production, and geotropism creates a three
 - **Spore production is required for geotropism** — sterile mutants do not reorient.
 - **Some light is required for the geotropic response** — but this requirement may be entirely indirect, mediated through spore formation rather than a direct phototropic signal.
 
-This was confirmed by the observation that when fertile mushrooms were rotated horizontally to equalize gravity under constant illumination, both stipe elongation and pileus expansion proceeded horizontally — the mushroom grew perpendicular to gravity even when evaporative demand was equalized on all sides.
+This was confirmed by the observation that when fertile mushrooms were rotated horizontally to equalize gravity under constant illumination, both [[acropetal-cell-expansion-stipe-elongation-mushroom-development]] and pileus expansion proceeded horizontally — the mushroom grew perpendicular to gravity even when evaporative demand was equalized on all sides.
 
 ## Functional Significance

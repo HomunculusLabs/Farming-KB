@@ -1,5 +1,5 @@
 ---
-title: [[oyster-mushroom-species]] Guide
+title: Oyster Mushroom Species Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Estimating Fungal Biodiversity on Living Plants
+title: Estimating Fungal Biodiversity On Living Plants
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -12,7 +12,7 @@ Estimating the number of fungi on living plants in a specified area requires two
 
 ## The Role of Host Plant Diversity
 
-Plant-species diversity is the primary determinant of fungal species richness on living plants, due to the preponderance of host-specific taxa. Good estimates of plant species numbers in tropical and temperate regions are available, as are estimates of the proportions of trees, shrubs, and herbs. However, study sites generally cannot be compared directly because of differences in plot size and sampling techniques.
+Plant-species diversity is the primary determinant of fungal species richness on living plants, due to the preponderance of host-specific taxa. Good estimates of plant species numbers in tropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] are available, as are estimates of the proportions of trees, shrubs, and herbs. However, study sites generally cannot be compared directly because of differences in plot size and sampling techniques.
 
 ### Growth Form and Parasite Load
 
@@ -38,19 +38,19 @@ In paleotropical forests, plants other than trees predominate. At a forest site 
 
 ### Temperate Estimates
 
-Plant-species diversity in temperate forests is generally measured as species richness (number of species per 0.1 ha). Whittaker (1965) used this metric to compare diversity among temperate communities. He noted that low tree-species diversity can be associated with highly productive climax forest, such as the redwood forests of coastal California and Oregon.
+Plant-species diversity in temperate forests is generally measured as species richness (number of species per 0.1 ha). Whittaker (1965) used this metric to compare diversity among temperate communities. He noted that low tree-species diversity can be associated with highly productive climax forest, such as the [[california-redwood-forests-mollison]] of coastal California and Oregon.
 
 In the Great Smoky Mountains (eastern US), approximately 1,300 species of flowering plants including 130 native trees have been found. Assuming 10% trees, 25% shrubs, and 65% herbs, the estimated number of fungal species is **8,873** — slightly more than one-tenth of the Costa Rican prediction.
 
-The hardwood stand composition of this region has been dramatically altered by the introduction of chestnut blight (*[[cryphonectria-parasitica]]*). Prior to introduction, American chestnut (*Castanea dentata*) formed 30–60% of canopy stems; now 70% of tree stems are composed of other, smaller species.
+The hardwood stand composition of this region has been dramatically altered by the introduction of chestnut blight (*[[cryphonectria-parasitica]]*). Prior to introduction, American chestnut (*[[castanea-dentata]]*) formed 30–60% of canopy stems; now 70% of tree stems are composed of other, smaller species.
 
 ## Pathogen-Specific Host Ratios
 
-Hirata (1986) estimated that **4.5% of vascular plant species** host powdery mildews. This is in line with the percentage of plant species hosting smut fungi in the British Isles (4.8%) and the United States (3.2%). In Latin America, however, only **0.3%** of the estimated 88,000+ vascular plant species are known hosts for smut fungi — likely reflecting severe under-sampling rather than true low incidence.
+Hirata (1986) estimated that **4.5% of vascular plant species** host [[biodiversity-powdery-mildews]]. This is in line with the percentage of plant species hosting smut fungi in the British Isles (4.8%) and the United States (3.2%). In Latin America, however, only **0.3%** of the estimated 88,000+ vascular plant species are known hosts for smut fungi — likely reflecting severe under-sampling rather than true low incidence.
 
 Of collections made by Durán (1987) in Mexico over 22 years, 17% were species new to science. Vánky estimated that only half of extant smut species have been described.
 
-Powdery mildews and smuts may not be representative of plant-parasitic fungal diversity in tropical regions, given that neither group is abundant on trees and shrubs. Rusts may be more representative — Nishida (1989) noted that one in three plant species in a neotropical study area was parasitized by a unique rust species.
+Powdery mildews and smuts may not be representative of plant-parasitic fungal diversity [[fukuoka-natural-farming-in-tropical-regions]], given that neither group is abundant on trees and shrubs. Rusts may be more representative — Nishida (1989) noted that one in three plant species in a neotropical study area was parasitized by a unique rust species.
 
 ## Sampling Considerations
 

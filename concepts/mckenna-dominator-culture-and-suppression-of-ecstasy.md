@@ -1,5 +1,5 @@
 ---
-title: Mckenna [[dominator-culture-and-partnership-society]] [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
+title: Mckenna Dominator Culture And Suppression Of Ecstasy
 created: 2026-04-28
 tags: [mckenna, dominator-culture, ecstasy, shamanism, prohibition, 
 partnership, patriarchy, consciousness]

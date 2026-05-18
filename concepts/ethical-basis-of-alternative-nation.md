@@ -1,5 +1,5 @@
 ---
-title: Ethical Basis of [[strategies-for-an-alternative-nation]]
+title: Ethical Basis Of Alternative Nation
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -25,7 +25,7 @@ Tall wheat grass is among the most salt-tolerant forage grasses:
 
 - Thrives in soils with **>0.4% sodium chloride**
 - Tolerates moderate to high soil salinity (EC 10–20 dS/m)
-- Establishes on saline discharge areas where conventional pasture grasses fail
+- Establishes on saline discharge areas where conventional [[tropical-pasture-grasses]] fail
 - Persists where annual rainfall is as low as 300 mm
 
 ## Agricultural Value
@@ -36,7 +36,7 @@ Tall wheat grass is among the most salt-tolerant forage grasses:
 - **Palatability:** Moderate — best grazed when young before stems become coarse
 - **Persistence:** Long-lived perennial once established
 - **Seasonal growth:** Productive through spring and summer
-- **Grazing tolerance:** Withstands rotational grazing
+- **Grazing tolerance:** Withstands [[comparison-rotational-grazing-vs-continuous-grazing]]
 
 ### Soil Stabilization
 
@@ -66,12 +66,12 @@ All are noted for thriving at >0.4% NaCl, but Mollison cautions that relying on 
 
 In permaculture dryland design, tall wheat grass fills the herbaceous layer role on saline discharge sites:
 
-- **Below [[bill-mollison]], *Permaculture: A Designer's Manual*, Chapter 11 (Dryland Strategies), page 445.
+- **Below [[bill-mollison]], *Permaculture: A Designer's Manual*, Chapter 11 ([[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]), page 445.
 
 ## Overview
 
 Agropyron represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 agropyron and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

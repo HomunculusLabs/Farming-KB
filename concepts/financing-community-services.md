@@ -1,5 +1,5 @@
 ---
-title: "Financing [[community-services-financing-and-governance]]"
+title: Financing Community Services
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

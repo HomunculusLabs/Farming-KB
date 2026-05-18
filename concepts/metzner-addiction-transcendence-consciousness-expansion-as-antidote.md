@@ -72,9 +72,50 @@ The most compelling empirical evidence for this
 framework comes from the Bwiti tradition of Gabon,
 where [[hofmann-lsd-clinical-research-early-studies]] on LSD-assisted
 
+## Current Research
+
+Contemporary psychedelic research spans multiple therapeutic domains.
+Clinical trials investigate psilocybin for treatment-resistant
+depression, end-of-life anxiety, and substance use disorders. MDMA-
+assisted therapy shows promise for PTSD treatment. Neuroimaging
+studies reveal how these compounds affect brain network connectivity,
+potentially explaining their therapeutic mechanisms. Research into
+microdosing explores sub-perceptual doses for cognitive enhancement.
+
+## Pharmacological Mechanisms
+
+Classical psychedelics primarily act as agonists at serotonin 5-HT2A
+receptors, though their effects involve complex interactions across
+multiple receptor subtypes. Psilocybin converts to psilocin in vivo,
+which crosses the blood-brain barrier and binds cortical receptors.
+Neuroimaging reveals decreased default mode network activity during
+acute effects, correlating with ego dissolution experiences. Enhanced
+connectivity between normally segregated brain regions may facilitate
+novel cognitive processing. These neurobiological changes persist
+beyond acute effects, potentially explaining lasting therapeutic benefits.
+
 ## See Also
 
 - [[metzner-entheogenic-churches-cultural-transformation-movements]]
 - [[metzner-four-paradigms-psychedelic-healing]]
 - [[metzner-lsd-military-weapon-to-mystic-catalyst]]
 - [[metzner-neoshamanic-preparation-and-integration-practices]]
+## Historical Context
+
+Psychedelic substances have been used in spiritual and healing
+contexts for millennia across diverse cultures. Indigenous traditions
+employed psilocybin mushrooms, peyote, and ayahuasca ceremonially.
+Modern research began with Hofmann's discovery of LSD in 1943 and
+his isolation of psilocybin in 1958. The 1960s counterculture brought
+wider attention, leading to prohibition halting research for decades.
+Since the 1990s, a renaissance of clinical research has renewed
+scientific investigation into therapeutic applications.
+
+## Safety and Integration
+
+Responsible use requires attention to set (mindset) and setting
+(environment). Clinical protocols emphasize screening, preparation,
+and integration support. Integration involves processing insights
+and incorporating them into daily life through journaling or therapy.
+Harm reduction approaches prioritize informed consent, dosage
+awareness, and access to support resources.

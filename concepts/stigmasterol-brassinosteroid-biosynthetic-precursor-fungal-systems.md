@@ -1,5 +1,5 @@
 ---
-title: Stigmasterol [[stigmasterol-as-brassinosteroid-biosynthetic-precursor]] Fungal Systems
+title: Stigmasterol Brassinosteroid Biosynthetic Precursor Fungal Systems
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 topics: [stigmasterol, biosynthesis, brassinosteroid, sterol pathway, fungal chemistry]
 ---

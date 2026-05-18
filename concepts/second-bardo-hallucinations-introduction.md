@@ -1,5 +1,5 @@
 ---
-title: [[the-second-bardo-and-hallucinatory-visions]] - Introduction to the Hallucinatory Period
+title: Second Bardo Hallucinations Introduction
 source: leary-t-the-psychedelic-experience.md
 type: concept
 ---

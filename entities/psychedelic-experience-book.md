@@ -1,5 +1,5 @@
 ---
-title: The [[leary-psychedelic-experience-bardo-mapping]] (Book)
+title: Psychedelic Experience Book
 source: leary-t-the-psychedelic-experience.md
 type: entity
 tags: [text, psychedelic, manual, lsd, tibetan-book-of-the-dead]

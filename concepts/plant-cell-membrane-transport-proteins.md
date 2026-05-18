@@ -1,5 +1,5 @@
 ---
-title: Plant plant-cell-membrane-transport-proteins-channels-carriers-and-pumps [[membrane-transport-proteins-in-plants]]
+title: Plant Cell Membrane Transport Proteins
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

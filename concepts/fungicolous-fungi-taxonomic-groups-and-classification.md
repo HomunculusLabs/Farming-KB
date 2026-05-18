@@ -1,5 +1,5 @@
 ---
-title: Fungicolous Fungi — Taxonomic Groups and Classification
+title: Fungicolous Fungi Taxonomic Groups And Classification
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -21,7 +21,7 @@ The fungicolous habit is widespread throughout the fungi but is particularly com
 | Zygomycota (Mucorales) | 10 | — | — | — | — | 10 |
 | Zygomycota (Zoopagales) | — | — | 50 | — | — | 50 |
 | Zygomycota (Dimargaritales) | — | — | 13 | — | — | 13 |
-| [[ascomycota|Ascomycota]] (total) | 541 | 963 | 65 | 3 | 1 | 1,069 |
+| [[ascomycota]] (total) | 541 | 963 | 65 | 3 | 1 | 1,069 |
 | Basidiomycota (total) | 265 | 110 | 12 | 9 | 1 | 398 |
 | **TOTAL** | **~643** | **~1,295** | **~72** | **~91** | **~95** | **~2,175** |
 
@@ -109,7 +109,7 @@ This order includes numerous obligate, biotrophic, contact parasites—both endo
 - Impair host growth and sporulation
 - *S. californica* was successfully cultivated axenically on liver medium after transfer from monoxenic culture (Emerson 1958; Ellis 1966)
 
-**Mating type compatibility**: Burgeff (1924) noted that mating type factors often determine compatibility between host and parasite. Plasmatic continuity between sikyotic (contact) cells of parasites (*Parasitella parasitica*, *Chaetocladium brefeldianum*) and their hosts has been observed.
+**Mating type compatibility**: Burgeff (1924) noted that mating type factors often determine compatibility between host and parasite. Plasmatic continuity between sikyotic (contact) cells of parasites (*[[parasitella-parasitica]]*, *Chaetocladium brefeldianum*) and their hosts has been observed.
 
 ### Dimargaritales
 
@@ -119,7 +119,7 @@ Comprises mycoparasitic genera *Dimargaris*, *Dispira*, and *Tieghemiomyces*:
 
 ## Ascomycota
 
-The Ascomycota contain the greatest diversity of fungicolous fungi, with over 1,000 documented species spanning multiple orders.
+The [[ascomycota]] contain the greatest diversity of fungicolous fungi, with over 1,000 documented species spanning multiple orders.
 
 ### Major Orders
 

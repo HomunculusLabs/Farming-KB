@@ -1,5 +1,5 @@
 ---
-title: [[comparison-enoki-vs-king-stropharia-cultivation]] (Stropharia)
+title: King Stropharia Cultivation Stropharia
 source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---

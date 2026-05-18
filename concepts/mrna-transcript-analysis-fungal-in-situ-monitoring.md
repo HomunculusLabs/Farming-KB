@@ -1,5 +1,5 @@
 ---
-title: "mRNA Transcript Analysis for Fungal In Situ Monitoring"
+title: Mrna Transcript Analysis Fungal In Situ Monitoring
 source: "unknown-biodiversity-of-fungi.md, Chunk 23"
 type: concept
 ---
@@ -50,7 +50,7 @@ This flexibility makes magnetic capture a cornerstone technology for environment
 
 Once purified mRNA is obtained, reverse transcription (RT) is employed to generate complementary DNA (cDNA) using reverse transcriptase and an appropriate primer — typically oligo(dT) for mRNA with intact poly(A) tails, random hexamers for fragmented or partially degraded RNA, or a gene-specific primer for targeted analysis. The resulting cDNA then serves as template for polymerase chain reaction (PCR) amplification of target transcripts.
 
-This two-step RT-PCR approach achieves sensitivity comparable to conventional DNA PCR, capable of detecting single-copy transcripts even when starting material is extremely limited. RT-PCR enables researchers to determine whether a specific gene is being expressed under given environmental conditions, providing direct evidence of metabolic activity that cannot be inferred from DNA-based detection of organismal presence alone.
+This two-step RT-PCR approach achieves sensitivity comparable to conventional DNA PCR, capable of detecting single-copy transcripts even when [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] is extremely limited. RT-PCR enables researchers to determine whether a specific gene is being expressed under given environmental conditions, providing direct evidence of [[arbuscule-isolation-metabolic-activity-assays]] that cannot be inferred from DNA-based detection of organismal presence alone.
 
 ## Competitive RT-PCR for Quantitative Transcript Assessment
 
@@ -60,7 +60,7 @@ As amplification proceeds, the target and competitor compete for primer and poly
 
 ## Gene Families in White-Rot Fungi
 
-White-rot basidiomycetes, particularly *[[phanerochaete-chrysosporium]]*, have served as model organisms for studying fungal lignocellulose degradation and *in situ* gene expression. These fungi possess large, multi-gene families encoding the extracellular enzymes responsible for wood decay.
+White-rot basidiomycetes, particularly *[[phanerochaete-chrysosporium]]*, have served as model organisms for studying fungal lignocellulose degradation and *in situ* gene expression. These fungi possess large, multi-gene families encoding the [[fungal-extracellular-enzymes]] responsible for wood decay.
 
 ### Lignin Peroxidase Gene Family
 
@@ -82,7 +82,7 @@ This finding was significant for several reasons. First, it underscored the crit
 
 Transcript levels provide a direct measure of physiological activity and can serve as a proxy for estimating active fungal biomass within a substrate. Unlike DNA-based quantification, which detects both viable and dead cells, mRNA is rapidly degraded upon cell death, making it a more accurate indicator of living, metabolically active fungal tissue.
 
-By quantifying transcripts of housekeeping genes or, more informatively, functional genes linked to specific metabolic activities, researchers can assess not only *how much* fungus is present but *what it is doing* — whether it is actively degrading lignin, producing secondary metabolites, responding to environmental stress, or entering reproductive development. This dual capability — biomass estimation coupled with functional characterization — makes transcript analysis uniquely valuable among molecular tools in [[fungal-ecology]].
+By quantifying transcripts of housekeeping genes or, more informatively, functional genes linked to specific metabolic activities, researchers can assess not only *how much* fungus is present but *what it is doing* — whether it is actively degrading lignin, producing [[antifungal-secondary-metabolites-coprophilous-fungi]], responding to environmental stress, or entering reproductive development. This dual capability — biomass estimation coupled with functional characterization — makes transcript analysis uniquely valuable among molecular tools in [[fungal-ecology]].
 
 ## Precautions for cDNA Quantification
 
@@ -124,4 +124,4 @@ As additional fungal genomes are sequenced — including those of ecologically i
 
 - Gilliland, G., Perrin, S., & Bunn, H.F. (1990). Competitive PCR for quantitation of mRNA. *BioTechniques*, 9, 308–313.
 - Lamar, R.T., Evans, J.W., & Glaser, J.A. (1995). Solid-phase treatment of a pentachlorophenol-contaminated soil using lignin-degrading fungi. *Environmental Science & Technology*, 27, 2562–2567.
-- Martinez, D. et al. (2004). Genome sequence of the lignocellulose degrading fungus *Phanerochaete chrysosporium* strain RP78. *Nature Biotechnology*, 22, 695–700.
+- Martinez, D. et al. (2004). Genome sequence of the lignocellulose degrading fungus *[[staycare-phanerochaete-chrysosporium-in-bioremediation]]* strain RP78. *Nature Biotechnology*, 22, 695–700.

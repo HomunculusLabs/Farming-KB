@@ -1,5 +1,5 @@
 ---
-title: Mushroom Nutrition [[ginseng-cultivation-and-medicinal-properties]]
+title: Mushroom Nutrition And Medicinal Properties
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---

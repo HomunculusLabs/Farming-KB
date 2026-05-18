@@ -1,5 +1,5 @@
 ---
-title: Fungi in Stressful Environments
+title: Fungi Stressful Environments
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -108,13 +108,13 @@ Rock-inhabiting fungi (RIF) colonize stone surfaces and interiors, often as mela
 
 - Surface samples plated on **DRBC medium** or **diluted Czapek-Dox agar** (1:10).
 - Endolithic fungi require crushing rock fragments under sterile conditions.
-- **Soil washing and particle filtration** separate propagules from mineral matrices.
+- **Soil washing and [[particle-filtration-dilution-plating-microfungal-isolation]]** separate propagules from mineral matrices.
 - **Ellis (1971, 1976)** provides foundational taxonomic references for dematiaceous hyphomycetes from rock.
 - **De Hoog (1999)** recommends combining physiological profiling with **rDNA phylogenetic analysis** (ITS and 18S) for robust species delimitation.
 
 ## Phoenicoid Fungi (Post-Fire)
 
-[[phoenicoid-fungi]] are specialized post-fire colonizers. Fire effects on soil fungal communities persist **up to 4 years**.
+[[phoenicoid-fungi]] are specialized post-fire colonizers. Fire effects on [[biodiversity-fungi-soil-fungal-communities]] persist **up to 4 years**.
 
 ### Detection and Isolation
 
@@ -128,9 +128,9 @@ Rock-inhabiting fungi (RIF) colonize stone surfaces and interiors, often as mela
 
 ## Conclusions
 
-1. **Match isolation conditions to habitat parameters** — water activity, pH, salinity, temperature, and nutrient availability must reflect in situ conditions.
+1. **Match isolation conditions to habitat parameters** — water activity, pH, salinity, temperature, [[ph-and-nutrient-availability-garden-soils]] must reflect in situ conditions.
 2. **Many "tolerant" species survive in extreme microenvironments** within otherwise normal macroenvironments (e.g., high-salt microsites on nonsaline soils), so selective media are essential even in moderate habitats.
-3. **Parallel use of multiple isolation regimens** is required for complete biodiversity assessment. No single medium captures the full diversity of physicochemically extreme environments.
+3. **Parallel use of multiple isolation regimens** is required for complete [[dighton-soil-fungal-biodiversity-assessment]]. No single medium captures the full diversity of physicochemically [[fungal-biodiversity-in-extreme-environments]].
 
 ## Related
 

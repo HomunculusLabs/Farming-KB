@@ -1,5 +1,5 @@
 ---
-title: Hallucinogens in Psychotherapy and Shamanism — A Comparative Framework
+title: Hallucinogens Psychotherapy Shamanism Metzner Comparative Framework
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 type: concept
 ---
@@ -32,7 +32,7 @@ Two sub-models emerged in the 1950s–1960s:
 2. **[[set-and-setting]]** are the primary determinants; the drug is a catalyst (Leary, Litwin & Metzner 1963)
 3. Two metaphors: **amplifier** (nonspecific psychic amplifier) and **microscope** (opens hidden realms of mind to direct observation)
 4. Therapist's personal experience with psychedelics is essential — without it, communication with the patient in an altered state is severely limited
-5. Access to transcendent, transpersonal dimensions of consciousness (Grof's "holotropic" states)
+5. Access to transcendent, [[metzner-transpersonal-dimensions-psychedelic-therapy]] of consciousness (Grof's "holotropic" states)
 
 ### 2. Shamanic Rituals of Healing and Divination
 
@@ -60,7 +60,7 @@ Large-group ceremonial forms bridging shamanism and organized religion:
 
 ### 4. Hybrid Shamanic-Therapeutic Rituals
 
-Metzner's "neoshamanic medicine circles" blend Western and indigenous approaches:
+Metzner's "[[metzner-neoshamanic-medicine-circles]]" blend Western and indigenous approaches:
 
 - Circle structure with altar or fire
 - Experienced elder/guide with assistants
@@ -81,11 +81,11 @@ Metzner identifies two points where shamanic worldviews diverge fundamentally fr
 
 - **Stanislav Grof** — psycholytic therapy, perinatal matrices, holotropic states, transpersonal psychology
 - **Timothy Leary** — consciousness expansion, set and setting, evolutionary remembering, Bardo Thödol adaptation
-- **Albert Hofmann** — LSD discovery, psilocybin isolation, recognized psycholytic properties from childhood mystical experiences
+- **Albert Hofmann** — LSD discovery, psilocybin isolation, recognized psycholytic properties from childhood [[psilocybin-mystical-experiences-personality-change]]
 - **Aldous Huxley** — "mind-manifesting," *Doors of Perception*, mescaline
-- **R. Gordon Wasson** — rediscovery of Mexican mushroom cult, coined "entheogen"
+- **R. Gordon Wasson** — rediscovery of [[gartz-wasson-mexican-mushroom-cult-rediscovery]], coined "entheogen"
 - **Alexander Shulgin** — phenethylamines (MDA, MDMA, 2-CB), PIHKAL
 - **Michael Harner** — core shamanism, "nonordinary reality"
-- **Richard Evans Schultes** — ethnobotany of Amazonian psychoactive plants
+- **[[richard-evans-schultes]]** — ethnobotany of Amazonian psychoactive plants
 - **María Sabina** — Mazatec curandera, velada ceremonies
 - **William James** — "varieties of consciousness" — 1901 quote on multiple forms of consciousness surrounding waking rationality

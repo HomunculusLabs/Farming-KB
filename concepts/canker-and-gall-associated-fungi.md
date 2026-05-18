@@ -40,7 +40,7 @@ Key fungal groups associated with perennial cankers include:
 
 ### Woody Stem Diffuse Cankers
 
-Diffuse cankers are more aggressive, expanding faster than the tree can produce callus tissue. They are characterized by discolored tissues, a raised margin at the leading edge of infection, and little to no callus formation. Diffuse cankers can kill a tree within a few growing seasons and are particularly common in shade-stressed understory trees.
+Diffuse cankers are more aggressive, expanding faster than the tree can produce callus tissue. They are characterized by discolored tissues, a raised margin at the leading edge of infection, and little to no callus formation. Diffuse cankers can kill a tree within a few [[jeavons-climate-adaptation-growing-seasons]] and are particularly common in shade-stressed understory trees.
 
 Major fungal groups causing diffuse cankers include:
 
@@ -72,7 +72,7 @@ Galls are abnormal proliferations of host tissue induced by parasitic organisms.
 
 Several [[rust-fungi]] induce gall formation on their hosts:
 
-- **Endocronartium harknessii:** Causes galls on lodgepole pine (*Pinus contorta*)
+- **[[endocronartium-harknessii]]:** Causes galls on lodgepole pine (*Pinus contorta*)
 - **Gymnosporangium:** Induces galls on juniper (*Juniperus*) as part of its heteroecious life cycle
 
 ### Gall-Inducing Ascomycetes and Deuteromycetes
@@ -89,7 +89,7 @@ Multiple fungal taxa cause galls across diverse plant groups:
 
 ### Synchytrium (Chytridiales)
 
-*Synchytrium* is a genus of obligately biotrophic chytrid fungi comprising approximately 120 species. These fungi induce galls on an extraordinarily wide range of hosts including algae, mosses, ferns, and flowering plants. The genus has a worldwide distribution with documented species counts of 106 in North America, 24 in South America, 5 in Central America, 8 in Australia and New Zealand, 16 in Africa, 56 in Europe, and 88 in Asia.
+*Synchytrium* is a genus of obligately biotrophic chytrid fungi comprising approximately 120 species. These fungi induce galls on an extraordinarily wide range of hosts including algae, mosses, ferns, and flowering plants. The genus has a [[worldwide-distribution-psilocybin-mushrooms]] with documented species counts of 106 in North America, 24 in South America, 5 [[neurotropic-fungi-in-central-america]], 8 in Australia and New Zealand, 16 in Africa, 56 in Europe, and 88 in Asia.
 
 Host specificity data for *Synchytrium* are remarkable:
 
@@ -112,11 +112,11 @@ Genera are distinguished by the arrangement of their resting spore cysts within 
 - **Tetramyxa:** Cysts in groups of two to four
 - **Membranosorus:** Irregular cysts in a single layer
 
-Plasmodiophoromycetes cannot be cultured on artificial media, so identification requires microscopic examination of infected host cells to observe the characteristic cyst arrangements.
+Plasmodiophoromycetes cannot be cultured on artificial media, so identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of infected host cells to observe the characteristic cyst arrangements.
 
 ## Fungi on Fruits, Nuts, and Flowers
 
-Many leaf-infecting fungi also attack reproductive structures. Blossom blights are commonly caused by members of the Sclerotiniaceae, particularly *Botrytis* and *Monilinia*. *Monilinia* species produce characteristic fruit mummies through brown rot infections. Scab diseases are caused by *Elsinoë*/*Sphaceloma* in tropical regions and *Venturia* in temperate zones. Additional fruit rot pathogens include *Aspergillus*, *Colletotrichum*, *Dothiorella*, *Guignardia*, *Phytophthora*, and *Rhizopus*.
+Many leaf-infecting fungi also attack reproductive structures. Blossom blights are commonly caused by members of the Sclerotiniaceae, particularly *Botrytis* and *Monilinia*. *Monilinia* species produce characteristic fruit mummies through brown rot infections. Scab diseases are caused by *Elsinoë*/*Sphaceloma* [[fukuoka-natural-farming-in-tropical-regions]] and *Venturia* in temperate zones. Additional fruit rot pathogens include *Aspergillus*, *Colletotrichum*, *Dothiorella*, *Guignardia*, *Phytophthora*, and *Rhizopus*.
 
 ## Ecological and Economic Significance
 

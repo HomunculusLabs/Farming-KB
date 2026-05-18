@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Straw Bale [[natural-building-techniques]]
+title: Mollison Designers Straw Bale Building Techniques
 created: 2026-04-28
 tags:
   - natural-building

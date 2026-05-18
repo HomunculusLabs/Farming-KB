@@ -1,5 +1,5 @@
 ---
-title: [[membrane-transport-proteins-in-plants]] of Nutrients into Plant Cells
+title: Membrane Transport Of Nutrients Into Plant Cells
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---

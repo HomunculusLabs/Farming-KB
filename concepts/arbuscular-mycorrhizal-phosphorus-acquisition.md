@@ -1,5 +1,5 @@
 ---
-title: Arbuscular [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] and Ecosystem Services
+title: Arbuscular Mycorrhizal Phosphorus Acquisition
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

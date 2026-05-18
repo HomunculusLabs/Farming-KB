@@ -29,7 +29,7 @@ The very existence of the word "toadstool" in English is evidence of mycophobia:
 ### Culinary Evidence
 
 The contrast in mushroom cuisine between mycophilic and mycophobic cultures is stark:
-- Poland alone has traditional preparations for dozens of [[fairy-rings-folklore-and-science]])
+- Poland alone has [[classic-mushroom-recipes-traditional-preparations]] for dozens of [[fairy-rings-folklore-and-science]])
 - The toad as a symbol of poison
 
 ***
@@ -42,7 +42,7 @@ Wasson's dichotomy has been criticized as overly simplistic:
 - Many cultures do not fit neatly into either category
 - Attitudes can vary within cultures (e.g., Italian-Americans in the US may be more mycophilic than Anglo-Americans)
 - The theory may reflect a continuum rather than a binary
-- Economic factors (availability of mushrooms, agricultural development) may explain differences as well as cultural attitudes
+- Economic factors (availability of mushrooms, [[fukuoka-critique-agricultural-development]]) may explain differences as well as [[weil-cultural-attitudes-toward-altered-states]]
 
 ### Environmental Factors
 
@@ -63,7 +63,7 @@ Cultural attitudes toward mushrooms are not fixed:
 
 Despite its limitations, Wasson's theory remains one of the most influential frameworks in ethnobiology and mycological anthropology. It continues to inform:
 - Cross-cultural studies of food attitudes
-- Research into the history of psychoactive mushroom use
+- Research into the history of [[global-ethnography-psychoactive-mushroom-use]]
 - Understanding of how cultural attitudes shape scientific inquiry
 - Modern foraging revival movements in mycophobic cultures
 
@@ -74,7 +74,7 @@ Despite its limitations, Wasson's theory remains one of the most influential fra
 
 ## Overview
 
-Wasson Mycophobia Mycophilia Theory represents an important element within sustainable
+[[wasson-mycophobia-mycophilia-theory-critique]] Theory represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Wasson Mycophobia Mycophilia Theory finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

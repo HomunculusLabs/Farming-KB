@@ -12,11 +12,11 @@ extracted: 2026-05-11
 Some [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. The phenomenon is found among a limited
 number of basidiomycete species, most of which are [[guzman-psilocybin-mushrooms-north-america]]. It appears in the
 late summer and early fall, surfacing above buried wood and forming
-extravagant clusters of yellowish mushrooms. When the fruiting bodies
+extravagant clusters of yellowish mushrooms. When the [[gasteromycete-fruiting-bodies]]
 are fresh they emit a green glow that is especially evident from the
 gills.
 
-Omphalotus olearius is frequently confused with the chanterelle by
+[[omphalotus-olearius]] is frequently confused with the chanterelle by
 inexperienced mushroom foragers, a potentially dangerous mistake as the
 Jack-o'-lantern is poisonous. Its bioluminescence provides one way to
 distinguish it from the non-luminous chanterelle, though this requires
@@ -50,7 +50,7 @@ establishing that the biochemical light-producing reaction requires
 oxygen and proceeds more rapidly at moderate temperatures.
 
 Buller also discovered a genetic component to luminescence. Collections
-of Panellus from North America were luminous, but a strain sent from
+of Panellus from [[huckleberries-and-wild-berries-of-north-america]] were luminous, but a strain sent from
 England did not glow. When the transatlantic strains were paired on
 agar, their hyphae fused, producing a hybrid mycelium with luminous and
 non-luminous sectors. This heterokaryon experiment demonstrated that the
@@ -81,13 +81,13 @@ fish.
 Fungal luminescence consumes very little energy and may have no
 ecological value at all. However, some authors have speculated that
 glowing fruiting bodies might attract insects that would serve as
-vectors for spore dispersal. Their greenish light is certainly visible
+vectors for [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]. Their greenish light is certainly visible
 to insects, and the possibility that insects could augment the chief
 mechanism of spore dispersal by wind is intriguing.
 
 ## Insect Attraction Hypothesis
 
-Any mycologist who has spent time studying fungi outside the laboratory
+Any mycologist who has spent time [[studying-fungi-living-plants-macrofungal-diversity]] outside the laboratory
 has noticed the activity of insects around fruiting bodies. Nicholas
 Money describes a white bracket fungus dissolving a fallen beech tree
 near his home, with midges flitting around the stacks of spore-producing

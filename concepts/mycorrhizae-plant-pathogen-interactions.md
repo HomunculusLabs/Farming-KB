@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizae and [[mycorrhizal-plant-pathogen-interactions]]
+title: Mycorrhizae Plant Pathogen Interactions
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

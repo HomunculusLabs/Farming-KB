@@ -1,5 +1,5 @@
 ---
-title: [[biodynamic-preparations-comparison]]
+title: Biodynamic Preparations
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

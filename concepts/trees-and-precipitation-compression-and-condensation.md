@@ -1,5 +1,5 @@
 ---
-title: [[trees-and-precipitation]] — Compression and Condensation
+title: Trees And Precipitation Compression And Condensation
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

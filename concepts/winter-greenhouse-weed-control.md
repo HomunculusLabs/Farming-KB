@@ -1,5 +1,5 @@
 ---
-title: [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] Weed Control
+title: Winter Greenhouse Weed Control
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

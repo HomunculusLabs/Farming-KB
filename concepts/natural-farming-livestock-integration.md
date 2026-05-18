@@ -1,5 +1,5 @@
 ---
-title: [[chos-global-natural-farming-livestock-applications]] Integration
+title: Natural Farming Livestock Integration
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

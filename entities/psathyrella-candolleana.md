@@ -111,4 +111,4 @@ The genus Psathyrella has undergone significant taxonomic revision in recent dec
 - [[mycorrhizae]]
 - [[pleurotus-ostreatus]]
 - [[stropharia-rugosoannulata]]
-- [[boletus-edulis-entity]]
+- [[boletus-edulis]]

@@ -1,5 +1,5 @@
 ---
-title: Mexican [[sacred-mushroom-traditions-in-mexico]]
+title: Mexican Sacred Mushroom Traditions
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-gartz
 tags: [ethnobotany, mexico, sacred-mushrooms, indigenous-culture, ceremonial-use, psilocybe]
 created: 2026-05-09

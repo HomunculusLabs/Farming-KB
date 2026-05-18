@@ -7,7 +7,7 @@ tags: [arthropod, isopod, compost, macrofauna, decomposer, soil-food-web]
 
 ## Description
 
-Sow bugs (also known as woodlice, pill bugs, or roly-polies) are terrestrial crustaceans of the order Isopoda that are commonly found in compost piles during the maturation stage. They are among the macroarthropods that contribute to the physical decomposition of organic matter in compost by shredding and foraging through the material, making it easier for microbial communities to attack and decompose. Sow bugs are detritivores that feed primarily on decaying plant material, playing an important role in [[the-soil-food-web]] as primary decomposers of leaf litter, wood fragments, and other organic debris. Their presence in compost is a sign of healthy biological activity and a maturing pile.
+Sow bugs (also known as woodlice, pill bugs, or roly-polies) are terrestrial crustaceans of the order Isopoda that are commonly found in compost piles during the [[compost-maturation-stage]]. They are among the macroarthropods that contribute to the physical decomposition of [[maintaining-organic-matter-in-vegetable-gardens]] compost by shredding and foraging through the material, making it easier for [[cannabis-rhizosphere-microbial-communities]] to attack and decompose. Sow bugs are detritivores that feed primarily on decaying plant material, playing an important role in [[the-soil-food-web]] as primary decomposers of leaf litter, wood fragments, and other organic debris. Their presence in compost is a sign of healthy biological activity and a maturing pile.
 
 ## Classification
 
@@ -40,11 +40,11 @@ In the compost food web described by Lowenfels and Lewis:
 
 2. **Microbial inoculation:** As they feed, sow bugs ingest bacteria and fungi and transport them through the compost pile, effectively inoculating new areas with decomposer organisms.
 
-3. **Nutrient cycling:** Their digestive process breaks down complex organic molecules and their frass (excrement) returns partially processed nutrients to the compost, making them more accessible to microorganisms.
+3. **[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]:** Their digestive process breaks down complex organic molecules and their frass (excrement) returns partially processed nutrients to the compost, making them more accessible to microorganisms.
 
 4. **[[soil-aeration]]:** Their movement through the compost creates small channels that improve aeration and water infiltration.
 
-5. **Prey base:** Sow bugs serve as food for predatory organisms in the compost food web, including spiders, centipedes, and certain beetles, supporting higher trophic levels.
+5. **Prey base:** Sow bugs serve as food for predatory organisms in the compost food web, including spiders, centipedes, and certain beetles, supporting higher [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]].
 
 ## Common Compost Species
 
@@ -93,5 +93,5 @@ In the compost food web described by Lowenfels and Lewis:
 
 ## References
 
-- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web*. Chapter 15: Compost.
+- Lowenfels, J. & Lewis, W. *[[teaming-with-microbes-actinomycetes]]: The Organic Gardener's Guide to the Soil Food Web*. Chapter 15: Compost.
 - Sow bugs are listed among the arthropods (ants, snails, slugs, mites, spiders, rove beetles, and sow bugs) that open up organic matter in the compost pile during the maturation stage.

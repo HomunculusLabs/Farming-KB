@@ -1,7 +1,7 @@
 ---
 title: Five Endogenous Cannabinoids — The Complete Lipid Signaling Family
 source: raw/papers/uwe-blesching-the-cannabis-health-index.md
-author: Uwe Blesching (2015)
+author: [[uwe-blesching]] (2015)
 topic: endocannabinoid system, lipid signaling, neurochemistry
 mined: 2026-05-11
 ---
@@ -18,12 +18,12 @@ profiles, biosynthetic pathways, and [[anandamide-bliss-molecule]]" (from the Sa
 relatively equal affinity to both CB1 and CB2 receptors. Anandamide enhances
 pleasure, has been implicated in mitigating acute schizophrenia episodes,
 demonstrates anti-cancer properties, and suppresses cough reflex. It is rapidly
-degraded by the enzyme fatty acid amide hydrolase (FAAH), giving it a short
+degraded by the enzyme fatty [[lysergic-acid-amide]] hydrolase (FAAH), giving it a short
 half-life that limits its duration of action.
 
 ### 2. 2-Arachidonoyl Glycerol (2-AG)
 2-AG is the most abundant endocannabinoid in the body, present at
-concentrations orders of magnitude higher than anandamide in many tissues. It
+concentrations [[event-classification-and-orders-of-magnitude]] higher than anandamide in many tissues. It
 is a full agonist at both CB1 and CB2 receptors. 2-AG is produced on-demand
 from membrane phospholipids by the enzyme diacylglycerol lipase (DAGL) and is
 degraded primarily by monoacylglycerol lipase (MAGL). 2-AG plays critical
@@ -31,10 +31,10 @@ roles in retrograde synaptic signaling, immune function, and inflammatory
 regulation.
 
 ### 3. Noladin Ether (2-Arachidonoyl-glyceryl-ether)
-Noladin ether was isolated in 2001 and shown to bind to CB1 receptors. It is
+[[noladin-ether]] was isolated in 2001 and shown to bind to CB1 receptors. It is
 structurally similar to 2-AG but contains an ether linkage rather than an ester
 bond, which confers greater metabolic stability. Noladin ether has been
-implicated in pain modulation and may play a role in ocular function,
+implicated in [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]] and may play a role in ocular function,
 particularly intraocular pressure regulation. Its pharmacological profile
 remains less characterized than anandamide or 2-AG.
 
@@ -59,7 +59,7 @@ and neuroinflammation through a single endogenous compound.
 
 The five endocannabinoids share a common biosynthetic origin: they are all
 derivatives of arachidonic acid, a polyunsaturated omega-6 fatty acid
-incorporated into cell membrane phospholipids. Their production is "on-demand"
+incorporated into [[plant-cell-membrane-transport-proteins]] phospholipids. Their production is "on-demand"
 rather than storage-based — they are synthesized and released in response to
 specific physiological signals and rapidly degraded by dedicated enzymes:
 

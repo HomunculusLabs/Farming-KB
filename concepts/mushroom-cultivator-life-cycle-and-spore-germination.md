@@ -1,5 +1,5 @@
 ---
-title: [[coprinus-atrementarius-entity-the-mushroom-cultivator]] [[duggar-mushroom-life-cycle-spore-germination-fruiting]] and Spore Germination
+title: Mushroom Cultivator Life Cycle And Spore Germination
 source: the-mushroom-cultivator-stamets.md
 source_author: Paul Stamets, J.S. Chilton
 extracted: 2026-05-10

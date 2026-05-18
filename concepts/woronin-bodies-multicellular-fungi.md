@@ -1,5 +1,5 @@
 ---
-title: [[fungal-woronin-bodies-and-septal-pore-organization]] Multicellular Organization in Fungi
+title: Woronin Bodies Multicellular Fungi
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---

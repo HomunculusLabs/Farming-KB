@@ -1,5 +1,5 @@
 ---
-title: "Medicinal Mushrooms in Cancer Treatment"
+title: Cancer Medicinal Mushrooms
 subtitle: "Clinical evidence, immune mechanisms, and cordyceps-cancer-bioactive-compounds from
   fungi used in oncology immunotherapy"
 tags: [medicinal-mushrooms, cancer, immunotherapy, beta-glucans, clinical-trials,
@@ -71,7 +71,7 @@ induces T-cells that recognize it as an antigen and kill tumor cells
 in an antigen-specific manner.
 
 By 1987, PSK accounted for more than 25% of total national expenditure
-on anti-cancer agents in Japan. Phase I, II, and III clinical trials
+on anti-cancer agents in Japan. Phase I, II, and III [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]
 have demonstrated efficacy in cancers of the stomach, esophagus,
 nasopharynx, colon, rectum, lung, and subsets of breast cancer. PSK
 continues to be used extensively as an adjunct to standard radiotherapy
@@ -79,16 +79,16 @@ and chemotherapy throughout Asia.
 
 ## Shiitake (Lentinus edodes) and Lentinan
 
-Shiitake is the second most cultivated mushroom worldwide, accounting
+Shiitake is the second most [[classification-of-cultivated-mushroom-species]] worldwide, accounting
 for 16.8% of total production. Beyond its culinary importance, it is
 the source of two well-studied pharmacological preparations: Lentinan
-(from fruiting bodies) and LEM (Lentinus edodes mycelium extract).
+(from [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]) and LEM (Lentinus edodes mycelium extract).
 
 Lentinan is a highly purified, high molecular weight polysaccharide
 (~500,000 daltons) in a triple helix structure containing only glucose
 molecules. It has mostly beta-(1->3)-Glc linkages with beta-(1->6)-Glc
 side chains. It is protein-free, water-soluble, heat-stable,
-acid-stable, and alkali-labile. A new biochemical extraction method
+acid-stable, and alkali-labile. A new biochemical [[lemon-cannabis-alchemy-high-volume-extraction-method]]
 achieves 325 mg yield from 100g fresh mushrooms in 5 days — a dramatic
 improvement over Chihara's traditional method yielding 4 mg in 14 days.
 

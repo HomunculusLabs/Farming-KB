@@ -1,5 +1,5 @@
 ---
-title: Mollison Course [[pdc-swales-and-earthworks-water-management]] Design
+title: Mollison Course Swales And Earthworks Design
 created: 2026-04-28
 tags: [permaculture, swales, earthworks, water-harvesting, contour, mulch, gley, fire-protection, forest-management, net-and-pan, slope-design]
 date: 2026-04-25

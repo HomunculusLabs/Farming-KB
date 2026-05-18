@@ -58,7 +58,7 @@ Knowledge of [[fungal-biogeography]] remains very limited, primarily due to a la
 
 #### Links Between Distribution and Nutrition
 
-Distribution patterns in microfungi are closely linked to their modes of nutrition. Fungi that are confined to particular host groups have distributions that are at most coextensive with the distributions of their host plants, and other ecological factors may further limit their geographic range.
+[[fungal-biogeography-distribution-patterns]] in microfungi are closely linked to their modes of nutrition. Fungi that are confined to particular host groups have distributions that are at most coextensive with the distributions of their host plants, and other ecological factors may further limit their geographic range.
 
 Ruderal species — those adapted to rapidly colonize disturbed habitats — tend to be distributed widely and are abundant in ecosystem analyses. This prominence has contributed to the traditional but misleading view of fungi as universally distributed organisms. The Caliciales, for example, have long been presumed cosmopolitan, possibly reflecting their ancient evolutionary history and broad ecological tolerances.
 
@@ -80,11 +80,11 @@ Research on genuinely undisturbed habitats is badly needed to establish baseline
 
 Approximately 72,000 fungal species have been formally described (Hawksworth et al. 1995), representing less than 5% of even the most conservative estimates of total fungal diversity. There is a high probability that large numbers of unknown species remain to be discovered in unexplored ecological niches, habitats, and geographic areas.
 
-Rossman (1994) suggested that the total number of described species may exceed 100,000, with the discrepancy from lower estimates arising from the inclusion of poorly known and insufficiently documented taxa that have been described but not widely accepted or integrated into modern classifications. Her higher figure reflects the reality that many early descriptions, particularly from tropical regions, have never been critically re-examined using modern taxonomic methods, and their status remains uncertain.
+Rossman (1994) suggested that the total number of described species may exceed 100,000, with the discrepancy from lower estimates arising from the inclusion of poorly known and insufficiently documented taxa that have been described but not widely accepted or integrated into modern classifications. Her higher figure reflects the reality that many early descriptions, particularly from [[fukuoka-natural-farming-in-tropical-regions]], have never been critically re-examined using modern taxonomic methods, and their status remains uncertain.
 
 #### The Scale of Undescribed Diversity
 
-The overwhelming majority of fungal species — more than 95% by most estimates — have not yet been formally described. This represents a fundamental challenge for biodiversity science, conservation planning, and ecological research. The sheer scale of undescribed diversity creates special problems for inventory design, as sampling protocols must accommodate the likelihood that most isolates or specimens encountered will represent taxa that cannot be reliably identified using existing keys or databases.
+The overwhelming majority of fungal species — more than 95% by most estimates — have not yet been formally described. This represents a fundamental challenge for biodiversity science, conservation planning, and ecological research. The sheer scale of undescribed diversity creates special problems for inventory design, as [[lichen-biodiversity-sampling-protocols-data-analysis]] must accommodate the likelihood that most isolates or specimens encountered will represent taxa that cannot be reliably identified using existing keys or databases.
 
 ---
 
@@ -92,9 +92,9 @@ The overwhelming majority of fungal species — more than 95% by most estimates 
 
 #### Information Access as a Critical Bottleneck
 
-Progress in understanding microfungal diversity is seriously hindered by the lack of accessible and usable taxonomic information. Comprehensive databases exist for only limited geographic areas and for limited taxonomic and ecological groups. For the majority of microfungi, even basic information on accepted names and synonyms is not easily available in electronic or published form.
+Progress in understanding [[leaf-litter-microfungal-diversity-tropical-temperate]] is seriously hindered by the lack of accessible and usable taxonomic information. Comprehensive databases exist for only limited geographic areas and for limited taxonomic and ecological groups. For the majority of microfungi, even basic information on accepted names and synonyms is not easily available in electronic or published form.
 
-Modern monographs — essential references for reliable identification — are lacking for most groups. The work of Ellis and Ellis (1997) on northern European microfungi stands as a shining example of what is needed but remains exceptional rather than typical. The Natural Environment Research Council (NERC) has provided funding for British ascomycete manuals, representing a step forward for one geographic region. However, such targeted funding efforts remain the exception rather than the norm, and progress is slow even in comparatively well-studied temperate regions.
+Modern monographs — essential references for reliable identification — are lacking for most groups. The work of Ellis and Ellis (1997) on northern European microfungi stands as a shining example of what is needed but remains exceptional rather than typical. The Natural Environment Research Council (NERC) has provided funding for British ascomycete manuals, representing a step forward for one geographic region. However, such targeted funding efforts remain the exception rather than the norm, and progress is slow even in comparatively well-studied [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 For tropical regions, which likely harbor the greatest proportion of undocumented fungal diversity, very little identification literature is available, and what does exist typically requires extensive specialist training to use effectively. The high proportion of undescribed taxa in tropical collections represents an acute and ongoing problem.
 
@@ -104,7 +104,7 @@ For tropical regions, which likely harbor the greatest proportion of undocumente
 
 #### Quantifying Known Diversity on Dead Plant Tissue
 
-Dead plant tissue represents one of the most productive substrata for microfungal isolation and provides a basis for estimating the diversity that standard sampling protocols can capture:
+Dead plant tissue represents one of the most productive substrata for [[particle-filtration-dilution-plating-microfungal-isolation]] and provides a basis for estimating the diversity that standard sampling protocols can capture:
 
 - Of the approximately 32,250 described species of [[ascomycota]], about 13,000 (40%) are likely microfungi occurring on dead plant parts.
 - Since approximately 45% of Ascomycota species are lichenized, dead plant tissue techniques effectively sample about 73% of non-lichenized Ascomycota diversity.

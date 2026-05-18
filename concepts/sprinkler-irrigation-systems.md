@@ -1,5 +1,5 @@
 ---
-title: Sprinkler and [[passive-irrigation-systems|Irrigation]] Systems for Gardens
+title: Sprinkler Irrigation Systems
 source: gardening-when-it-counts-steve-[[solomon-irrigation-systems-sprinkler-design|solomon]].md
 type: concept
 ---

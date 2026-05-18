@@ -145,6 +145,6 @@ Drying is the traditional and preferred preservation method for porcini:
 
 - [[porcini-commercial-market]]
 - [[boletus-pinophilus]]
-- [[boletus-edulis-entity]]
+- [[boletus-edulis]]
 - [[boletus-reticulatus]]
 - [[boletus-regius]]

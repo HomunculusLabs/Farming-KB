@@ -6,7 +6,7 @@ type: concept
 
 # Carbon-to-Nitrogen Ratio and Compost Microbial Dominance
 
-The carbon-to-nitrogen (C:N) ratio is the single most important factor determining whether a [[compost]] pile will support fungal or bacterial dominance in its finished product. By manipulating the types and proportions of materials fed to a compost pile, a gardener can produce compost specifically tailored to the needs of different plant types — fungal compost for trees and perennials, or bacterial compost for vegetables and annual flowers.
+The carbon-to-nitrogen (C:N) ratio is the single most important factor determining whether a [[compost]] pile will support fungal or bacterial dominance in its finished product. By manipulating the types and proportions of materials fed to a compost pile, a gardener can produce compost specifically tailored to the needs of different plant types — fungal compost for trees and perennials, or [[bacterial-compost]] for vegetables and annual flowers.
 
 ## The Ideal C:N Ratio
 
@@ -17,7 +17,7 @@ The optimal C:N ratio for efficient composting is approximately 25:1 to 30:1. At
 
 ## Brown vs. Green Materials (Rule #6)
 
-Composting materials are conventionally divided into two categories that directly determine the microbial character of the finished compost:
+[[composting-materials-alternative]] are conventionally divided into two categories that directly determine the microbial character of the finished compost:
 
 ### Brown Materials (Support Fungi)
 
@@ -66,7 +66,7 @@ For trees, shrubs, and most perennials (which prefer ammonium nitrogen from fung
 
 ### Bacterial Compost Recipe
 
-For vegetable gardens, flower beds, and lawns (which prefer nitrate nitrogen from bacterial-dominated soils):
+[[soil-ph-management-for-vegetable-gardens]], flower beds, and lawns (which prefer nitrate nitrogen from bacterial-dominated soils):
 
 - **25% alfalfa meal**
 - **50% green grass clippings**
@@ -85,13 +85,13 @@ Including some fungal material in all composts prevents them from becoming too a
 
 ### Chemical Contamination
 
-Inorganic fertilizers, pesticides, herbicides, miticides, and fungicides kill [[soil-food-web]] organisms and must never be included in compost. Many of these chemicals are non-selective, eliminating the very microbes responsible for generating heat and driving decomposition. Even if they eventually break down, they may persist long enough to contaminate the finished product.
+[[ingham-inorganic-fertilizers-soil-biology-damage]], pesticides, herbicides, miticides, and fungicides kill [[soil-food-web]] organisms and must never be included in compost. Many of these chemicals are non-selective, eliminating the very microbes responsible for generating heat and driving decomposition. Even if they eventually break down, they may persist long enough to contaminate the finished product.
 
 ### Particle Size
 
 Material size significantly affects composting dynamics:
 
-- **Too fine** — material compresses, restricting airflow and promoting anaerobic conditions
+- **Too fine** — material compresses, restricting airflow and promoting [[aact-ph-and-anaerobic-conditions]]
 - **Too small** — excessive air diffusion causes overheating
 - **Too large** — bacteria cannot colonize quickly enough; decomposition is slow and incomplete
 
@@ -110,7 +110,7 @@ Proper moisture content is critical throughout composting:
 ### Compost Quality Testing
 
 - **Smell test** — finished compost should smell clean and earthy; bad odors (vomit, vinegar) indicate anaerobic conditions; ammonia means incomplete composting
-- **Plant growth test** — seeds planted in good compost should grow vigorously; nutrient deficiency symptoms indicate insufficient predator populations and locked-up nutrients
+- **Plant growth test** — seeds planted in good compost should grow vigorously; nutrient [[knf-calcium-deficiency-symptoms]] indicate insufficient predator populations and locked-up nutrients
 
 ## Cool Composting as an Alternative
 

@@ -6,7 +6,7 @@ type: concept
 
 Mycorrhizal fungi are most commonly associated with soil-grown plants,
 but research has demonstrated that these symbiotic organisms can also
-thrive in hydroponic growing systems, providing many of the same
+thrive in [[cannabis-grow-hydroponic-growing-systems]], providing many of the same
 benefits they offer in traditional soil environments. The application
 of mycorrhizal fungi to hydroponics represents a growing area of
 interest for commercial growers and home hobbyists alike, as it offers
@@ -30,7 +30,7 @@ hydroponic substrates as they do in soil:
 - Colonized plant roots branch more extensively and develop more
   feeder roots, increasing the surface area available for nutrient
   retrieval from the growing substrate.
-- The mycorrhizosphere supports beneficial microorganisms that
+- The mycorrhizosphere supports [[forest-and-bamboo-beneficial-microorganisms]] that
   produce protective metabolites, creating a more resilient root
   environment.
 
@@ -47,13 +47,13 @@ suitable.
 ## Critical Environmental Requirements
 
 For mycorrhizal fungi to establish and function in hydroponics,
-several environmental parameters must be carefully managed. These
+several [[maitake-environmental-parameters]] must be carefully managed. These
 requirements differ from those of traditional soil-based systems and
 demand additional attention from the grower.
 
 ### Oxygenation
 
-A hydroponic system supporting mycorrhizal colonization must be fully
+A hydroponic system supporting [[arbuscular-mycorrhizal-colonization-patterns]] must be fully
 aerobic. Dissolved oxygen levels should be maintained at 6 to 8 parts
 per million. For context, most tap water provides approximately 5 ppm
 of oxygen, which is below the ideal range. Air stones or bubblers can
@@ -93,7 +93,7 @@ pH must still be monitored and adjusted as needed.
 
 [[arbuscular-mycorrhizal-fungi]] thrive at temperatures of 65 to 75
 degrees Fahrenheit (24 to 30 degrees Celsius), which aligns with the
-ideal temperature range for most cultivated plants. However, vesicles,
+[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] for most cultivated plants. However, vesicles,
 spores, and hyphal tissue will not survive temperatures above 120
 degrees Fahrenheit (49 degrees Celsius). This temperature sensitivity
 also applies to the storage of inoculant products.
@@ -127,7 +127,7 @@ Many mycorrhizal formulations can be added directly to the nutrient
 delivery system. The particles in these mixes are small enough to pass
 through irrigation lines and emitters without causing clogs. However,
 it is important to follow the manufacturer's recommendations regarding
-application rates and timing.
+[[ingham-compost-tea-application-rates-and-timing]] timing.
 
 ## Reproduction Considerations
 

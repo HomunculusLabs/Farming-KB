@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Synthetic-log cultivation is the primary commercial method for growing Grifola frondosa (maitake), a prized edible and medicinal mushroom. Developed as a controlled-environment alternative to natural log cultivation, synthetic-log methods use supplemented sawdust substrates contained in filter bags to produce reliable, consistent yields. Maitake is considered one of the more challenging mushrooms to cultivate, requiring meticulous attention to environmental parameters, particularly oxygen supply.
+Synthetic-log cultivation is the primary commercial method for growing [[grifola-frondosa]] (maitake), a prized edible and medicinal mushroom. Developed as a controlled-environment alternative to [[pleurotus-natural-log-cultivation-methods]], synthetic-log methods use [[oyster-mushroom-supplemented-sawdust-blocks]] substrates contained in filter bags to produce reliable, consistent yields. Maitake is considered one of the more challenging [[choosing-mushrooms-to-cultivate-and-infrastructure-planning]], requiring meticulous attention to environmental parameters, particularly oxygen supply.
 
 ## Species Characteristics
 
@@ -85,7 +85,7 @@ Synthetic-log cultivation uses specially designed **polypropylene bags with micr
 2. **Dedicated facility**: Do not share growing space with other mushroom species
 3. **Patience**: Maitake has long incubation times (30–40 days for spawn run alone)
 4. **Environmental control**: Temperature, humidity, light, and fresh air exchange must be precisely managed for each growth stage
-5. **Substrate quality**: Use fresh hardwood sawdust with proper supplementation
+5. **Substrate quality**: Use fresh [[hardwood-sawdust-substrate]] with proper supplementation
 
 ## Production Timeline
 
@@ -95,7 +95,7 @@ Total mushroom production takes approximately **3 to 3.5 months** from inoculati
 |-------|-------------------|-------------------|
 | Spawn run | 30–40 days | 30–35 days |
 | Primordia initiation | 15–20 days | ~40 days (two-stage) |
-| Fruiting body development | 14–21 days | 20–25 days |
+| [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] | 14–21 days | 20–25 days |
 
 ## Expected Yields
 

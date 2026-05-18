@@ -1,17 +1,17 @@
 ---
-title: Korean Natural Farming — Master Cho's KNF Input System
+title: Korean Natural Farming Master Cho Knf Input System
 source: master-cho-knf-recipe-book.md
 type: concept
 ---
 
 # Korean Natural Farming — Master Cho's KNF Input System
 
-Korean Natural Farming (KNF), developed by Master Han-Kyu Cho, is a system of sustainable agriculture that uses locally-sourced, naturally-fermented inputs to build soil health, enhance plant vitality, and reduce or eliminate dependence on external chemical inputs. The core principle: strengthen plants through their own natural vitality rather than attacking pests and diseases with toxins.
+Korean Natural Farming (KNF), developed by Master Han-Kyu Cho, is a system of sustainable agriculture that uses locally-sourced, naturally-fermented inputs to build soil health, enhance plant vitality, and reduce or eliminate dependence on external chemical inputs. The core principle: strengthen plants through their own natural vitality rather than attacking [[mushroom-pests-and-diseases]] with toxins.
 
 ## The KNF Philosophy
 
 KNF operates on the principle that **healthy plants grown in living soil do not get sick**. Rather than treating symptoms (diseases, pests, nutrient deficiencies), KNF focuses on building robust ecosystems where:
-- Indigenous microorganisms (IMO) create living, fertile soil
+- [[beneficial-indigenous-microorganisms]] (IMO) create living, fertile soil
 - Plants are fed fermented plant and mineral extracts that enhance their own immune systems
 - The farm ecosystem is self-sustaining with minimal external inputs
 
@@ -43,7 +43,7 @@ IMO are collected from the local environment — they are organisms that have ev
 - Apply 7 days before seeding (normal soil) or 14 days before (successive cropping disorder)
 - Apply 2–3 hours before sunset
 - Can be liquidized (1:500–1,000 dilution) for seedling treatment and foliar application
-- Hay bacillus (Bacillus subtilis) from rice stumps prevents damping-off and Fusarium wilt
+- Hay bacillus ([[bacillus-subtilis]]) from rice stumps prevents damping-off and Fusarium wilt
 
 ### 2. Oriental Herbal Nutrient (OHN)
 
@@ -69,14 +69,14 @@ Made from five herbs, OHN increases plant robustness, sterilizes, and keeps plan
 
 ### 3. Fermented Plant Juice (FPJ)
 
-Extracts the essence, chlorophyll, lactic acid bacteria, and yeast from plants through osmotic pressure using brown sugar.
+Extracts the essence, chlorophyll, lactic acid bacteria, and yeast from plants through [[fungal-fruiting-body-mechanics-osmotic-pressure]] using brown sugar.
 
 **Best Plant Materials:**
 - **Japanese mugwort** (*Artemisia princeps*) — vitality, cold/heat resistance, iron; apply in spring to revitalize plants after dormancy
 - **Dropwort** (*Oenanthe javanica*) — iron, manganese, blood circulation, nervous system stimulation
 - **Bamboo shoots** — rapid growth hormones; fast fermentation (~5 days)
 - **Kudzu vine** (*Pueraria lobata*) — fast fermentation
-- **False acacia flowers** (*Robinia pseudoacacia*) — promotes flower bud formation, increases fruit sugar
+- **False acacia flowers** (*[[robinia-pseudoacacia]]*) — promotes flower bud formation, increases fruit sugar
 - **Seaweeds** — growth reinforcement, fruit color enhancement
 - **Thinned-out fruits** — rich in gibberellins, thicker foliage
 - **Same-crop materials** — tomato lateral buds, squash/sweet potato vines, outer cabbage leaves

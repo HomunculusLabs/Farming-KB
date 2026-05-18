@@ -1,5 +1,5 @@
 ---
-title: Water water [[cannabis-harvesting-techniques]] comparison Comparison
+title: Water Harvesting Techniques Comparison
 created: 2026-04-13
 updated: 2026-04-13
 type: comparison

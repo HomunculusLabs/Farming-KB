@@ -77,7 +77,7 @@ The nutritional data for *T. malnosporum* contributes to understanding:
 ## See Also
 
 - [[elaphomyces-granulatus]] — another hypogeous fungus important as mammal food
-- [[boletus-edulis-entity]] — epigeous fungus with high nutritional value
+- [[boletus-edulis]] — epigeous fungus with high nutritional value
 - [[truffle-evolution-and-hypogeous-fungi]] — subterranean fruiting strategy
 - [[mycophagy-in-vertebrates]] — fungal consumption by animals
 

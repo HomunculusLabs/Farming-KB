@@ -1,5 +1,5 @@
 ---
-title: "Timber Frame [[comparison-bamboo-vs-cordwood-construction]]"
+title: Comparison Timber Frame Vs Cordwood Construction
 tags: [comparison, construction, natural-building, homesteading, permaculture]
 date: 2026-05-12
 updated: 2026-05-12

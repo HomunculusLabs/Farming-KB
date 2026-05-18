@@ -1,5 +1,5 @@
 ---
-title: stamets-panaeolus-cyanescens-copelandia-identification-ecology [[agaricus-and-agrocybe-cultivation-guide]]
+title: Panaeolus Cyanescens Cultivation Guide
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

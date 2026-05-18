@@ -40,7 +40,7 @@ tags: [zygomycete, mycoparasite, gall-forming, horizontal-gene-transfer, mucoral
 - **Evolutionary biology:** Provides one of the clearest examples of natural horizontal gene transfer between fungi, suggesting that mycoparasitism may be an important driver of fungal genome evolution.
 - **Mucorales ecology:** As a parasite of *Absidia* and other Mucorales, *P. parasitica* regulates populations of these fast-growing primary colonizers.
 - **Morphological convergence:** The HGT mechanism may explain cases where mycoparasites (e.g., tremelloid fungi) show morphological similarities to their hosts, previously attributed to convergent evolution.
-- **Genetic research:** The sikyotic cell interface provides a model for studying intercellular communication and genetic exchange in fungi.
+- **Genetic research:** The sikyotic cell interface provides a model for studying [[plasmodesmata-and-intercellular-communication-in-plants]] and genetic exchange in fungi.
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -52,7 +52,7 @@ tags: [zygomycete, mycoparasite, gall-forming, horizontal-gene-transfer, mucoral
 - The key facts section should remain the main checklist for future review.
 - The relevance section connects the note to the uses already described.
 - Preserve names, hosts, media, families, genera, species, institutions, and protocols already listed above.
-- Do not widen host range, habitat range, practical uses, or taxonomic placement without a local source.
+- Do not widen [[powdery-mildews-erysiphaceae-diversity-host-range]], habitat range, practical uses, or taxonomic placement without a local source.
 - Prefer concise additions that clarify existing claims instead of adding new claims.
 - If a stronger source is found later, add it to the references section before expanding the claim.
 - Keep scientific names and institutional names consistent with the forms already used above.
@@ -91,14 +91,14 @@ tags: [zygomycete, mycoparasite, gall-forming, horizontal-gene-transfer, mucoral
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to [[mycology]] rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
 
 ## References
 
-- Gams, W. et al. "[[fungicolous-fungi]]" in *Biodiversity of Fungi*
+- Gams, W. et al. "[[fungicolous-fungi]]" in *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]*
 - Kellner, M. et al. (1993). Horizontal gene transfer in *Parasitella*
 - Wöstemeyer, J. et al. (1995). Gene transfer in mucoralean parasites
 - Burgeff, H. (1924). Sikyotic cells in *Parasitella*

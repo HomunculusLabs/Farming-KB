@@ -1,5 +1,5 @@
 ---
-title: [[fungal-to-bacterial-biomass-ratio]] Biomass Ratios in Soil
+title: Fungal Bacterial Biomass Ratio
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---

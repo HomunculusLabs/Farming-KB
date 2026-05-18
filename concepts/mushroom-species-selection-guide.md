@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-species-selection]] Guide
+title: Mushroom Species Selection Guide
 created: 2026-04-28
 tags: [mycology, species, cultivation, beginner]
 date: 2026-04-28

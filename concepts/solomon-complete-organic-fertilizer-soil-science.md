@@ -1,5 +1,5 @@
 ---
-title: Solomon's Complete Organic Fertilizer — Soil Science
+title: Solomon Complete Organic Fertilizer Soil Science
 source: gardening-when-it-counts-steve-solomon.md
 author: Steve Solomon
 tags: [fertilizer, organic, soil-science, NPK, trace-minerals, solomon, COF]
@@ -10,20 +10,20 @@ created: 2026-05-11
 
 The Complete Organic Fertilizer (COF) is [[steve-solomon]]'s signature contribution
 to home gardening. Rather than a simple recipe, COF embodies a philosophy of
-soil nutrition based on providing all essential plant nutrients in balanced,
+soil nutrition based on providing all [[teaming-with-nutrients-essential-plant-nutrients]] in balanced,
 slow-release organic forms. Understanding the soil science behind COF helps
 gardeners adapt the formula to their specific conditions.
 
 ## The Problem with Incomplete Fertilization
 
-Solomon identifies a critical flaw in both conventional and organic gardening:
+Solomon identifies a critical flaw in both [[jadam-conventional-and-organic-pesticide-integration]] gardening:
 most fertilizers address only NPK (nitrogen, phosphorus, potassium) while
 ignoring the full spectrum of plant nutrition. This creates vegetables that
 look good but are nutritionally deficient. His research suggests that modern
 vegetables contain significantly lower concentrations of vitamins, minerals,
 and enzymes compared to those grown decades ago on more mineral-rich soils.
 
-Chemical fertilizers are designed for maximum bulk yield per acre, triggering
+[[cannabis-chemical-fertilizers]] are designed for maximum bulk yield per acre, triggering
 plants to produce more calories (starch and fiber) but not more protein,
 vitamins, enzymes, or trace minerals. The consumer gets larger vegetables
 with less nutritional value per unit of weight.
@@ -82,9 +82,9 @@ regulators.
 
 Three lime types are available, each with different mineral profiles:
 
-1. **Agricultural lime**: Calcium carbonate. Raises pH, provides calcium.
+1. **Agricultural lime**: [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]]. Raises pH, provides calcium.
 2. **Dolomitic lime**: Calcium + magnesium carbonate. Use when soil needs
-   both calcium and magnesium.
+   both [[dynamic-accumulator-plants-calcium-and-magnesium]].
 3. **Gypsum**: Calcium sulfate. Provides calcium and sulfur without
    affecting pH. Essential for sodic soils.
 

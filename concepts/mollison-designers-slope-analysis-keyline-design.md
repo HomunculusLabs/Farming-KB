@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Slope Analysis Keyline Design
+title: Mollison Designers Slope Analysis Keyline Design
 created: 2026-04-28
 tags:
   - permaculture

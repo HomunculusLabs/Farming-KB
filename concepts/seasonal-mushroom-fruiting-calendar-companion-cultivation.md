@@ -1,5 +1,5 @@
 ---
-title: Seasonal Mushroom Fruiting Calendar [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
+title: Seasonal Mushroom Fruiting Calendar Companion Cultivation
 created: 2026-05-10
 tags: [mushrooms, fruiting-seasons, cultivation, companion-planting, mycelium-running, stamets, mycogardening]
 sources:

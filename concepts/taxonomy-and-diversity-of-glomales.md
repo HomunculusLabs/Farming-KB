@@ -1,5 +1,5 @@
 ---
-title: Taxonomy and Diversity of Glomales
+title: Taxonomy And Diversity Of Glomales
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -83,7 +83,7 @@ Major repositories for type specimens include:
 Endemism has not been conclusively established for any AM fungal species. Some species appear to have limited distributions, with temperature being an important limiting factor (Koske 1987). However, several species — both ancient and highly derived — are distributed globally:
 
 - *Glomus intraradices*: Found on all continents except Antarctica, in tropical and temperate latitudes, arid and mesic climates, and a wide range of habitats
-- *Paraglomus occultum*, *Acaulospora scrobiculata*, *Archaeospora leptoticha*, *Gigaspora gigantea*, and *Scutellospora calospora*: Distributed widely on most continents
+- *[[paraglomus-occultum]]*, *[[acaulospora-scrobiculata]]*, *[[archaeospora-leptoticha]]*, *Gigaspora gigantea*, and *Scutellospora calospora*: Distributed widely on most continents
 
 ### Habitat Patterns
 
@@ -106,11 +106,11 @@ Additional species presently included in other genera will likely be transferred
 
 ## References
 
-- Morton, J.B., and G.L. Benny. 1990. Revised classification of arbuscular mycorrhizal fungi (Zygomycetes). Mycotaxon 37: 471-491.
+- Morton, J.B., and G.L. Benny. 1990. Revised classification of [[arbuscular-mycorrhizal-fungi-biology-host-relationships-phylogeny]] (Zygomycetes). Mycotaxon 37: 471-491.
 - Morton, J.B., and D. Redecker. 2001. Two new families of Glomales, Archaeosporaceae and Paraglomaceae, with two new genera Archaeospora and Paraglomus, based on concordant molecular and morphological characters. Mycologia 93: 181-195.
 - Redecker, D., J.B. Morton, and T.D. Bruns. 2000a. Molecular phylogeny of arbuscular mycorrhizal fungi: an ancient origin, monophyly, and long-term diversification. Molecular Biology and Evolution 17: 1037-1048.
 - Redecker, D., R. Kuhn, and J.B. Morton. 2000b. Phylogenetic position of Glomus-like fossils from the Ordovician. Mycological Research 104: 1153-1160.
-- Bentivenga, S.P., and J.B. Morton. 1995. Gigaspora decipiens: a newly described species, and Gigaspora margarita sensu Walker & Koske, determined by morphological and biochemical characters. Mycologia 87: 647-659.
+- Bentivenga, S.P., and J.B. Morton. 1995. [[gigaspora-decipiens]]: a newly described species, and Gigaspora margarita sensu Walker & Koske, determined by morphological and biochemical characters. Mycologia 87: 647-659.
 
 ## Related
 - [[arbuscular-mycorrhizal-fungal-diversity]]

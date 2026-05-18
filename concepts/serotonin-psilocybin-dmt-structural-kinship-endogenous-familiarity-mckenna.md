@@ -1,5 +1,5 @@
 ---
-title: [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] and DMT Structural Kinship as Argument for Endogenous Brain Familiarity
+title: Serotonin Psilocybin Dmt Structural Kinship Endogenous Familiarity Mckenna
 created: 2026-05-11
 source: mckenna_t-tryptamines_consciousness.md
 tags: [serotonin, psilocybin, dmt, tryptamine, structural-kinship, endogenous, neurotransmitter, pharmacology, mckenna]

@@ -7,7 +7,7 @@ tags: [person, physician, mycology, amanita-poisoning, antidote]
 
 ## Overview
 
-Dr. S. E. Shadle was a physician practicing in Shenandoah, Pennsylvania, notable for his 1885 treatment of the Farris family poisoning case — one of the earliest documented uses of atropine as an antidote for Amanita mushroom poisoning in human patients. His detailed clinical report to [[charles-mcilvaine]] of Philadelphia provided critical evidence for the efficacy of atropine against amanitine poisoning.
+Dr. S. E. Shadle was a physician practicing in Shenandoah, Pennsylvania, notable for his 1885 treatment of the [[farris-family-poisoning-shenandoah-1885]] case — one of the earliest documented uses of atropine as an antidote for Amanita [[amanita-toxins-and-mushroom-poisoning]] in human patients. His detailed clinical report to [[charles-mcilvaine]] of Philadelphia provided critical evidence for the efficacy of atropine against [[amanitine-poisoning-and-absorption-mechanisms]].
 
 ## Historical Context
 
@@ -41,7 +41,7 @@ Dr. Shadle's treatment was primarily symptomatic and included:
 
 Dr. Shadle's report demonstrated three critical principles:
 
-1. Amanita poisoning manifests slowly (6-18 hour latent period), allowing time for intervention
+1. [[amanita-poisoning-identification]] manifests slowly (6-18 hour latent period), allowing time for intervention
 2. The toxic principle destroys life by asthenia — progressive failure of nerve centers governing respiration and cardiac function
 3. **Atropine is an effective antidote** and should be administered heroically from the earliest onset of symptoms
 
@@ -76,5 +76,5 @@ The Shenandoah case also demonstrated the public health importance of [[mushroom
 
 - **Domain**: Historical figure in mycological toxicology
 - **Era**: Late 19th century (1880s)
-- **Geography**: Shenandoah, Pennsylvania, United States
+- **Geography**: Shenandoah, Pennsylvania, [[dmt-containing-plants-united-states-halpern]]
 - **Profession**: Physician (M.D.)

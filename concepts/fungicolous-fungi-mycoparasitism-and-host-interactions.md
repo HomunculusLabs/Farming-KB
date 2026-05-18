@@ -74,7 +74,7 @@ Electron microscopy studies have revealed:
 
 Examples include:
 - *Coprinus heptemerus* touching *Ascobolus crenulatus* (Ikediugwu 1976a)
-- *Phlebiopsis (Peniophora) gigantea* encountering *Heterobasidion annosum* (Ikediugwu 1976b)
+- *Phlebiopsis (Peniophora) gigantea* encountering *[[heterobasidion-annosum]]* (Ikediugwu 1976b)
 - *Fusarium oxysporum*, *Trichoderma viride*, and *Penicillium expansum* causing vacuolation in *Aspergillus niger* hyphae (Park and Robinson 1964; Robinson and Park 1965)
 
 ## Mycoparasite–Host Interface Types
@@ -86,7 +86,7 @@ Jeffries and Young (1994) and Jeffries (1995) distinguished five principal types
 **Type 1: Contact Necrotrophic**
 - Neither hyphae nor haustoria penetrate the host mycelium
 - Damage occurs via hyphal interference
-- Examples: *Arthrobotrys superba*, *A. oligospora* (predaceous [[nematophagous-fungi]] functioning as contact mycoparasites); *Tilletiopsis* species killing cells of powdery mildew *Sphaerotheca fuliginea*
+- Examples: *Arthrobotrys superba*, *A. oligospora* (predaceous [[nematophagous-fungi]] functioning as contact mycoparasites); *Tilletiopsis* species killing cells of powdery mildew *[[sphaerotheca-fuliginea]]*
 
 **Type 2: Invasive Necrotrophic**
 - Hyphae penetrate the cell wall and enter the host cell with considerable growth within host hyphae
@@ -96,12 +96,12 @@ Jeffries and Young (1994) and Jeffries (1995) distinguished five principal types
 
 **Type 3: Haustorial**
 - A short haustorial branch from the parasite hypha penetrates the host hypha
-- Examples: Mycoparasites among the Zygomycota and Tremellales; *Sporidesmium sclerotivorum* parasitizing *Sclerotinia sclerotiorum*
+- Examples: Mycoparasites among the Zygomycota and Tremellales; *[[sporidesmium-sclerotivorum]]* parasitizing *[[sclerotinia-sclerotiorum]]*
 
 **Type 4: Fusion (Micropore)**
 - Micropores develop in walls of host and parasite hyphae that are in contact, allowing cytoplasmic contact
 - An unusual type of interface
-- Examples: *Gonatobotrys simplex*, *Hansfordia parasitica*, *Melanospora zamiae*; *Tetragoniomyces uliginosus* on *Rhizoctonia solani*; *Syzygospora pallida* on *Phanerochaete*
+- Examples: *[[gonatobotrys-simplex]]*, *Hansfordia parasitica*, *Melanospora zamiae*; *[[tetragoniomyces-uliginosus]]* on *Rhizoctonia solani*; *Syzygospora pallida* on *Phanerochaete*
 
 **Type 5: Intracellular**
 - The complete thallus of the mycoparasite enters a hypha of the host

@@ -1,5 +1,5 @@
 ---
-title: [[psychedelic-safety-and-harm-reduction]] Contra-Indications
+title: Psychedelic Safety And Contra Indications
 created: 2026-04-17
 updated: 2026-04-18
 type: concept

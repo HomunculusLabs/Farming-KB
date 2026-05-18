@@ -16,16 +16,16 @@ sources:
   - Kourik, Robert. Designing and Maintaining Your Edible Landscape Naturally. Metamorphic Press, 1986.
   - Whitefield, Patrick. The Earth Care Manual. Permanent Publications, 2004.
   - Jacke, Dave, and Eric Toensmeier. Edible Forest Gardens. Chelsea Green, 2005.
-  - PFAF. "Symphytum officinale — Comfrey." Plants For A Future Database, pfaf.org.
-  - Couplan, François. The Encyclopedia of Edible Plants of North America. Keats Publishing, 1998.
+  - PFAF. "[[comfrey-symphytum-officinale]] — Comfrey." Plants For A Future Database, pfaf.org.
+  - Couplan, François. The Encyclopedia of Edible Plants [[huckleberries-and-wild-berries-of-north-america]]. Keats Publishing, 1998.
   - Hill, Andrew. "Comfrey: A Review of Its Biological and Chemical Properties." Journal of Botany, 2015.
 ---
 
 ## Overview
 
-Comfrey (genus *Symphytum*, family Boraginaceae) is a vigorous perennial herbaceous plant widely regarded as one of the most useful plants in [[permaculture]] and organic gardening. Its deep taproot system mines minerals from subsoil layers, making it a premier **dynamic accumulator**. Comfrey produces large quantities of biomass rapidly, which can be harvested multiple times per season for use as mulch, compost activator, or liquid fertilizer. The genus includes approximately 35 species native to Europe and western Asia, with several naturalized worldwide.
+Comfrey (genus *Symphytum*, family Boraginaceae) is a vigorous perennial herbaceous plant widely regarded as one of the most useful plants in [[permaculture]] and organic gardening. Its deep taproot system mines minerals from subsoil layers, making it a premier **[[comparison-hyperaccumulator-vs-dynamic-accumulator]]**. Comfrey produces large quantities of biomass rapidly, which can be harvested multiple times per season for use as mulch, compost activator, or liquid fertilizer. The genus includes approximately 35 species native to Europe and western Asia, with several naturalized worldwide.
 
-The plant's dual identity — as both a powerful biological tool and a medicinal herb with safety concerns — makes it one of the most discussed and widely planted perennials in sustainable agriculture.
+The plant's dual identity — as both a powerful biological tool and a medicinal herb with safety concerns — makes it one of the most discussed and widely planted perennials in [[mushroom-cultivation-for-sustainable-agriculture]].
 
 ## Taxonomy and Key Species
 
@@ -39,7 +39,7 @@ Native to the Caucasus. More upright growth habit than *S. officinale*, reaching
 
 ### *Symphytum × uplandicum* — Russian Comfrey
 
-The fertile hybrid of *S. officinale* × *S. asperum*. This hybrid is the basis for all commercially significant comfrey cultivars, including the Bocking series. Sterile hybrids do not produce viable seed, which is a significant advantage for gardeners who wish to prevent unwanted spread. *S. × uplandicum* inherits vigor from both parents and typically outyields either species in biomass production. Hardy to Zone 4.
+The fertile hybrid of *S. officinale* × *S. asperum*. This hybrid is the basis for all commercially significant comfrey cultivars, including the Bocking series. Sterile hybrids do not produce viable seed, which is a significant advantage for gardeners who wish to prevent unwanted spread. *S. × uplandicum* inherits vigor from both parents and typically outyields either species in [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Hardy to Zone 4.
 
 ## Botanical Description
 
@@ -64,7 +64,7 @@ The Bocking cultivars were developed in the 1950s by Lawrence D. Hills at the He
 | **Bocking 10** | *S. officinale* type | Cream/white | Moderate | Moderate | PA concerns; less commonly recommended |
 | **Bocking 17** | *S. asperum* type | Blue | Moderate protein | Moderate | Tall; good for bee forage |
 
-**Bocking 14** is the standard recommendation for most permaculture applications. It is sterile (produces no viable seed), forms a dense clump without aggressive spreading, and delivers exceptional biomass yields of 3–5 kg per plant per year in temperate climates. **Bocking 4** produces slightly higher yields but can spread slowly via root fragments, which some gardeners consider undesirable.
+**Bocking 14** is the standard recommendation for most permaculture applications. It is sterile (produces no viable seed), forms a dense clump without aggressive spreading, and delivers exceptional biomass yields of 3–5 kg per plant per year [[query-how-to-grow-and-use-oca-in-temperate-climates]]. **Bocking 4** produces slightly higher yields but can spread slowly via root fragments, which some gardeners consider undesirable.
 
 ## Cultivation
 

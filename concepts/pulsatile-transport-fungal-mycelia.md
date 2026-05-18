@@ -1,5 +1,5 @@
 ---
-title: [[pulsatile-transport-fourier-analysis-fungi]] in Fungal Mycelia
+title: Pulsatile Transport Fungal Mycelia
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---

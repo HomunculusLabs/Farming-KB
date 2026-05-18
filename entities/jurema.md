@@ -1,5 +1,5 @@
 ---
-title: "Jurema ([[mimosa-tenuiflora]])"
+title: Jurema
 created: 2026-05-07
 type: species
 tags:

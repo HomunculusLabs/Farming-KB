@@ -1,5 +1,5 @@
 ---
-title: [[ectomycorrhizal-nutrient-cycling-mycelial-networks]] and Forest Dynamics
+title: Ectomycorrhizal Nutrient Cycling And Forest Dynamics
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

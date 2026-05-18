@@ -1,5 +1,5 @@
 ---
-title: Edaphic Factors and Cannabis Microbiome Assembly
+title: Edaphic Factors Cannabis Microbiome
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
@@ -11,7 +11,7 @@ type: concept
 ## Overview
 
 Soil edaphic (physicochemical) properties are the dominant environmental drivers shaping
-microbial community structure associated with [[cannabis-sativa]] roots. Across controlled
+[[edaphic-factors-microbial-community-structure]] associated with [[cannabis-sativa]] roots. Across controlled
 experiments with multiple cultivars and soil types, edaphic factors consistently
 outperformed plant genotype as determinants of both [[rhizosphere]] and endorhiza (root
 interior) microbiome composition. This has profound implications for how cultivators
@@ -23,7 +23,7 @@ specific microbial partnerships.
 Soil type exerted the single largest effect on microbial community structure in Cannabis.
 Analysis of OTU abundances revealed **690 weighted** and **657 unweighted** significant
 OTUs differing between soil types, dwarfing cultivar or compartment effects. Both
-weighted and unweighted UniFrac metrics showed every edaphic factor tested was
+weighted and [[weighted-unweighted-unifrac-discrepancy-cannabis-cultivar]] metrics showed every edaphic factor tested was
 significantly correlated with community beta-diversity (p = 0.001). All experimental
 soils were sandy [[loam]], yet subtle differences in clay content and physicochemical
 variables drove major microbiome shifts — even within a broad textural class, sub-edaphic
@@ -103,8 +103,8 @@ differentially fuel these specialized organisms.
 
 ## Cannabinoid–Microbiome Correlations
 
-Cannabinoid concentration and composition (including THC) were significantly correlated
-with endorhiza community structure (unweighted r-stat: 0.863, p = 0.001) — one of the
+[[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]] and composition (including THC) were significantly correlated
+with [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] (unweighted r-stat: 0.863, p = 0.001) — one of the
 strongest correlations in the study. However, THC was itself correlated with soil edaphic
 variables, creating a **partial mediation problem**: it remains unclear whether
 cannabinoids directly shape the microbiome, whether soil independently influences both

@@ -1,5 +1,5 @@
 ---
-title: [[allen-psilocybin-potency-australian-species]], Harvesting, and [[ethyl-alcohol-extraction]]
+title: Psilocybin Potency Harvesting And Extraction
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---

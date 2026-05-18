@@ -1,5 +1,5 @@
 ---
-title: "[[amanita-muscaria-grail-legends-healing-immortality-magic-pots]] Terra Cotta Vessel Preparation"
+title: Amanita Muscaria Grail Terra Cotta Vessel Preparation
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---

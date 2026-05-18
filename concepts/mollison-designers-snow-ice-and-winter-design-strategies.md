@@ -1,5 +1,5 @@
 ---
-title: "Snow, Ice, and [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] snow ice and winter design strategies Strategies in greenhouse-cool-climates-mollison"
+title: Mollison Designers Snow Ice And Winter Design Strategies
 created: 2026-04-26
 tags:
   - permaculture

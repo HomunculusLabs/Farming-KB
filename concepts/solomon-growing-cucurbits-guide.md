@@ -1,5 +1,5 @@
 ---
-title: Solomon solomon [[growing-cucurbits-squash-and-melons]] guide Guide
+title: Solomon Growing Cucurbits Guide
 created: 2026-04-26
 tags:
   - gardening

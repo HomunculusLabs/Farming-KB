@@ -1,5 +1,5 @@
 ---
-title: [[psilocybe-section-zapotecorum-americas-pacific-disjunction]] [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]]
+title: Psilocybe Section Zapotecorum Guzman 1998
 created: 2026-05-11
 updated: 2026-05-11
 sources:

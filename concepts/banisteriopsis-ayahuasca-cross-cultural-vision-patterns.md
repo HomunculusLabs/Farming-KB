@@ -1,5 +1,5 @@
 ---
-title: [[banisteriopsis-ayahuasca-vine]] — Cross-Cultural Visionary Experience Patterns
+title: Banisteriopsis Ayahuasca Cross Cultural Vision Patterns
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: [[precision-seeders-for-greenhouse-sowing]] [[coleman-french-historical-winter-vegetable-production]]
+title: Precision Seeders
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

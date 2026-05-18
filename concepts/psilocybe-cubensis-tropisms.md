@@ -1,5 +1,5 @@
 ---
-title: Tropisms in Psilocybe cubensis
+title: Psilocybe Cubensis Tropisms
 source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
@@ -16,7 +16,7 @@ Badham's experiments placed *P. cubensis* fruitbodies in a wind tunnel where win
 
 ### Wind Tunnel Conditions
 
-The closed-circuit wind tunnel had a working area of 43 × 30 × 20 cm and was illuminated with "cool white" fluorescent light (12 h photoperiod). Key environmental parameters were maintained at:
+The closed-circuit wind tunnel had a working area of 43 × 30 × 20 cm and was illuminated with "cool white" fluorescent light (12 h photoperiod). Key [[maitake-environmental-parameters]] were maintained at:
 
 - **Wind velocity:** 9 ± 3 cm/sec (measured with a TSI hot wire anemometer)
 - **Relative humidity:** 94 ± 3% (monitored via wet and dry copper constantan thermocouples)
@@ -27,7 +27,7 @@ Cultures were placed in the chamber when primordia reached approximately 2 cm in
 
 ### Cultivation Methods
 
-An isolate from a previous study (Badham, 1980) was inoculated onto autoclaved brown rice (6 g per 20 mL deionized water) in 50 mm Petri plates. A sterile mutant of the same strain was also maintained for comparison. After the hyphae covered the substrate, the hyphal mass was transferred to 13 cm diameter pie tins with [[vermiculite]] and 25 mL of water, covered with glass, and placed under fluorescent light for approximately 10 days until primordia formed. Distilled water was added when cultures lost more than 10 mL of water (determined by weight). Approximately 100 developing basidiocarps were studied across all experimental conditions.
+An isolate from a previous study (Badham, 1980) was inoculated onto autoclaved brown rice (6 g per 20 mL deionized water) in 50 mm Petri plates. A sterile mutant of the same strain was also maintained for comparison. After the hyphae covered the substrate, the hyphal mass was transferred to 13 cm diameter pie tins with [[vermiculite]] and 25 mL of water, covered with glass, and placed under fluorescent light for approximately 10 days until primordia formed. Distilled water was added when cultures lost more than 10 mL of water (determined by weight). Approximately 100 developing basidiocarps were studied across all [[darwin-five-seedling-phototropism-experimental-conditions]].
 
 ## Developmental Stages of the Basidiocarp
 
@@ -69,7 +69,7 @@ This mechanism places anemotropism in *P. cubensis* in the same category as hydr
 
 Light plays multiple and sometimes opposing roles in *P. cubensis* development:
 
-- **Basidiocarp initiation** requires light — fruitbodies will not form in complete darkness.
+- **[[light-basidiocarp-initiation-psilocybe-cubensis-research]]** requires light — fruitbodies will not form in complete darkness.
 - **Spore formation** is light-dependent; dark-grown fruitbodies fail to produce viable spores.
 - **Geotropic sensitivity** depends on light exposure — without light, the mushroom does not exhibit negative geotropism.
 - **Stipe elongation is inhibited by light** — in darkness, stipes elongate significantly more, which is a common response among agaric mushrooms (sometimes called etiolation).
@@ -82,7 +82,7 @@ The **partial veil** (the tissue connecting the cap margin to the stipe in young
 
 ## Hormonal Influences and the Lamellae
 
-Badham postulated the existence of one or more **mushroom hormones** produced in or associated with the lamellae (gills). Evidence for this includes:
+Badham postulated the existence of one or more **[[mushroom-hormones-gill-directed-tropism]]** produced in or associated with the lamellae (gills). Evidence for this includes:
 
 - Sporeless mutants lack both spores and geotropic response, suggesting the lamellae produce a substance that triggers the Phase 2 curvature.
 - **Agar diffusates** collected from excised gills can partially substitute for the influence of the intact pileus, implying that a diffusible chemical factor is involved.
@@ -105,7 +105,7 @@ These parallels suggest that the fundamental mechanisms of fungal tropisms — p
 
 The tropic behaviors of *P. cubensis* have clear adaptive value for a coprophagous (dung-inhabiting) and lignicolous (wood-inhabiting) fungus:
 
-- **Anemotropism** (Phase 1) positions the developing cap into the airflow, maximizing evaporative cooling and preparing the fruitbody for efficient [[spore-dispersal]]. Growing into wind also helps the stipe reach above the boundary layer of the dung or wood substrate, where air currents are stronger.
+- **Anemotropism** (Phase 1) positions the developing cap into the airflow, maximizing [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]] preparing the fruitbody for efficient [[spore-dispersal]]. Growing into wind also helps the stipe reach above the boundary layer of the dung or wood substrate, where air currents are stronger.
 - **Negative geotropism** (Phase 2) ensures the cap is horizontal at the time of sporulation, which is the optimal orientation for basidiospore release and catch by air currents. This is especially important for species growing on **unstable substrates** — dung pats and decaying wood that may be irregularly shaped or tilted. A strong geotropic response guarantees horizontal cap orientation regardless of substrate angle.
 - The **sequential deployment** of these two tropisms — first anemotropic, then geotropic — ensures that the mushroom first reaches a favorable position for height and exposure, then locks in the correct cap orientation for spore release.
 

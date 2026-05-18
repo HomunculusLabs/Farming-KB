@@ -1,5 +1,5 @@
 ---
-title: Medium [[high-quality-compost-and-humanure]] Method
+title: Medium Quality Compost Method
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

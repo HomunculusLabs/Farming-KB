@@ -1,5 +1,5 @@
 ---
-title: Soil [[capillary-action-in-soils]] and Water Movement
+title: Soil Capillary Action And Water Movement
 source: gardening-when-it-counts-steve-solomon.md
 author: [[steve-solomon-evidence-based-organic-gardening]]
 tags: [soil-science, water-management, physics, capillarity, gardening, irrigation]

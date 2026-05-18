@@ -12,7 +12,7 @@ Plant spacing is the single most important decision a gardener makes — it dete
 
 ### Column 1: Intensive (Jeavons Method)
 
-Ultra-close spacing on raised beds. Plants are typically spaced 2-18 inches apart in all directions. The resulting crop canopy covers the bed completely, creating high moisture demand and requiring near-daily irrigation.
+Ultra-close spacing on [[cervantes-raised-beds-mound-planting]]. Plants are typically spaced 2-18 inches apart in all directions. The resulting crop canopy covers the bed completely, creating high moisture demand and requiring near-daily irrigation.
 
 **Not recommended** for most home gardeners growing food for sustenance.
 
@@ -24,13 +24,13 @@ Moderate spacing on raised beds, typically 4-24 inches between plants with 18-48
 
 ### Column 3: Extensive (Good Rainfall)
 
-Wide spacing on flat ground or raised rows, typically 18-48 inches between plants with 36-72 inches between rows. Plants access deep subsoil moisture through capillarity. May go weeks without rain or irrigation.
+[[solomon-wide-spacing-versus-intensive-gardening-debate]] on flat ground or raised rows, typically 18-48 inches between plants with 36-72 inches between rows. Plants access deep subsoil moisture through capillarity. May go weeks without rain or irrigation.
 
-**Recommended for most climates with reasonable rainfall. The traditional North American method.**
+**Recommended for most climates with reasonable rainfall. The traditional [[growing-gourmet-north-american-reishi-species]] method.**
 
 ### Column 4: Extensive (Limited Water)
 
-Very wide spacing, typically 36-96 inches between plants. Combined with fertigation for water-limited situations. Works only with deep, open soil and careful surface management (dust mulch).
+Very wide spacing, typically 36-96 inches between plants. Combined with fertigation for water-limited situations. Works only with deep, open soil and careful [[jadam-soil-surface-management-no-till]] (dust mulch).
 
 **For drought-prone regions or gardeners with very limited irrigation water.**
 
@@ -102,12 +102,12 @@ Potatoes are always hilled — soil is mounded up around the plants as they grow
 ## The Trade-Off: Yield Per Square Foot vs. Yield Per Plant
 
 - **Intensive spacing**: Higher yield per square foot initially, but each plant produces less. More labor per unit of food. Daily watering required. Plants are smaller, less succulent.
-- **Extensive spacing**: Slightly lower yield per square foot, but each plant produces much more. Less labor per unit of food. Less frequent watering. Plants are larger, more succulent, more tender.
+- **[[solomon-intensive-vs-extensive-spacing]]**: Slightly lower yield per square foot, but each plant produces much more. Less labor per unit of food. Less frequent watering. Plants are larger, more succulent, more tender.
 - **The surprise**: Extensively spaced plants often produce more total harvest weight from the same garden area because they continue growing and producing longer, while intensively spaced plants stop yielding sooner due to overcompetition.
 
 ## Key Principle
 
-The bigger the plant at maturity, the more space it needs. A single winter squash plant can cover 50-100 square feet when given the room. Crowding it into 2 square feet will produce a fraction of the potential yield.
+The bigger the plant at maturity, the more space it needs. A single [[winter-squash-guide]] plant can cover 50-100 square feet when given the room. Crowding it into 2 square feet will produce a fraction of the potential yield.
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: [[comparison-stinging-nettle-vs-dandelion]]
+title: Stinging Nettle
 type: species
 tags:
   - herbal-plant

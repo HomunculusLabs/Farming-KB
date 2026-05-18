@@ -33,9 +33,9 @@ Sisal (*Agave sisalana*) is a perennial succulent plant in the family Asparagace
 Mollison references sisal in the context of tropical niche gardening with ant and termite mounds:
 
 - **Ant/termite mound cultivation**: Mollison cites Harris (1971) noting that crops such as sisal, cotton, and tobacco have been deliberately cultivated on large termite mounds in grasslands. Termite mounds provide elevated, well-drained, nutrient-rich microsites with improved soil aeration and calcium and potash deposits from termite activity.
-- **Arid-tropical fiber production**: Sisal's extreme drought tolerance makes it an ideal crop for marginal semi-arid tropical lands where few other cash crops succeed, providing economic returns without requiring irrigation.
+- **Arid-tropical fiber production**: Sisal's extreme [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it an ideal crop for marginal semi-arid tropical lands where few other cash crops succeed, providing economic returns without requiring irrigation.
 - **Erosion control**: Dense sisal plantings on contour lines stabilize slopes and reduce runoff in erosion-prone tropical landscapes.
-- **Multi-purpose biomass**: Beyond fiber, sisal waste (bagasse) from decortication can be returned to the soil as mulch and organic matter, contributing to humus in tropical soils.
+- **Multi-purpose biomass**: Beyond fiber, sisal waste (bagasse) from decortication can be returned to the soil as mulch [[hamilton-composting-and-organic-matter-management]], contributing to humus in tropical soils.
 
 ## Ecological Considerations
 
@@ -58,7 +58,7 @@ Mollison references sisal in the context of tropical niche gardening with ant an
 
 ## Overview
 Sisal represents an important component within sustainable
-design and ecological management systems. Understanding its role
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Understanding its role
 helps inform better integration strategies for diverse environments.
 The interactions between sisal and surrounding ecological
 systems create complex feedback loops that enhance overall resilience.
@@ -66,7 +66,7 @@ systems create complex feedback loops that enhance overall resilience.
 ## Characteristics
 Key characteristics include adaptability to varying environmental
 conditions, integration potential with existing systems, and
-contribution to biodiversity and ecological function.
+contribution to biodiversity and [[bloomfield-fungal-fruiting-body-morphology-ecological-function]].
 Seasonal variations affect performance and management requirements.
 Regional differences necessitate site-specific approaches.
 
@@ -86,7 +86,7 @@ Documentation of observations supports knowledge building.
 The ecological relationships involving sisal
 extend across multiple trophic levels and functional groups.
 Soil biology, water cycles, and energy flows are all relevant factors.
-Understanding these connections enables more holistic management.
+Understanding these connections enables more [[savory-holistic-management-overview]].
 
 ## Sustainability Considerations
 Sustainable management practices are important for sisal.
@@ -95,7 +95,7 @@ Long-term ecological health depends on responsible stewardship.
 
 ## Historical Significance
 Sisal has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
 ## See Also

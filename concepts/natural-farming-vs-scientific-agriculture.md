@@ -1,5 +1,5 @@
 ---
-title: Natural Farming [[natural-farming-energy-efficiency-vs-scientific-agriculture]]
+title: Natural Farming Vs Scientific Agriculture
 created: 2026-04-28
 tags: [natural-farming, scientific-agriculture, philosophy, masanobu-fukuoka, ecology, green-philosophy]
 date: 2026-04-28

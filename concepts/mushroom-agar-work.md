@@ -13,17 +13,17 @@ sources:
 
 ## Overview
 
-Agar work is the practice of growing mushroom mycelium on nutrient agar in petri dishes. It is the foundation of advanced mushroom cultivation, enabling spore germination, contamination identification, strain isolation, and long-term culture storage. Working with agar transforms cultivation from a gamble with multi-spore genetics into a precise, repeatable process. Every serious cultivator eventually adopts agar work as a core skill.
+Agar work is the practice of growing mushroom mycelium on nutrient agar in petri dishes. It is the foundation of advanced [[accessible-mushroom-cultivation-for-disabilities]], enabling spore germination, [[contamination-identification]], strain isolation, and long-term culture storage. Working with agar transforms cultivation from a gamble with multi-spore genetics into a precise, repeatable process. Every serious cultivator eventually adopts agar work as a core skill.
 
 ## What is Agar?
 
 Agar is a gelatinous substance derived from red algae. It serves as a solid growth medium that holds nutrients and water while allowing mycelium to grow visibly on its surface. Agar melts at 185F (85C) and solidifies at approximately 100-106F (38-41C). This property allows it to be poured as a liquid and then set into a firm gel.
 
-## Agar [[mushroom-agar-media-recipes|Recipes]]
+## Agar [[mushroom-agar-media-recipes]]
 
 ### Malt Extract Agar (MEA) — The Standard
 
-The most widely used agar recipe for mushroom cultivation. Simple, reliable, and promotes good mycelial growth.
+The most widely used agar recipe [[grass-seed-substrate-for-mushroom-cultivation]]. Simple, reliable, and promotes good mycelial growth.
 
 - 10g light malt extract (not hopped malt extract used for brewing)
 - 10g agar powder
@@ -75,7 +75,7 @@ Good for recovering stressed or slow-growing cultures.
 - Prepared agar solution (still hot/liquid)
 - Sterile petri dishes (pre-sterilized plastic or glass)
 - Still air box (SAB) or [[laminar-flow-hood]]
-- Isopropyl alcohol (70%)
+- [[isopropyl-alcohol]] (70%)
 
 ### Process
 
@@ -113,7 +113,7 @@ The primary technique for moving mycelium between plates or from plates to grain
 
 ### Tissue Culture (Cloning)
 
-Taking a piece of tissue directly from a mushroom fruiting body to create a genetically identical culture:
+Taking a piece of tissue directly from a [[mushroom-fruiting-body-morphogenesis]] to create a genetically identical culture:
 
 1. Select a healthy, vigorous mushroom with desirable characteristics.
 2. Tear (do not cut) the stem to expose clean inner tissue. The outside of the mushroom is heavily contaminated with spores and environmental organisms; the inside is relatively sterile.
@@ -142,7 +142,7 @@ Strain isolation is the process of selecting and separating individual genetic s
 
 ## Long-Term Storage: Agar Slants
 
-Agar slants are test tubes partially filled with solidified agar, stored at cool temperatures. They allow long-term culture preservation (6-12 months) without the need for frequent transfers.
+Agar slants are test tubes partially filled with solidified agar, stored at cool temperatures. They allow long-term [[biodiversity-fungal-culture-preservation]] (6-12 months) without the need for frequent transfers.
 
 ## See Also
 - [[agar-culture-technique]]

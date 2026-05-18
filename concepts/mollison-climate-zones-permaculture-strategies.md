@@ -1,5 +1,5 @@
 ---
-title: Mollison Climate Zones [[dryland-permaculture-strategies]]
+title: Mollison Climate Zones Permaculture Strategies
 created: 2026-04-26
 updated: 2026-04-24
 sources: bill-mollison, bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Course (1981 transcript, Yankee Permaculture, public domain)

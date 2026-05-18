@@ -1,5 +1,5 @@
 ---
-title: [[windbreak-shelterbelt-species-selection]] and Design
+title: Shelterbelt Species And Design
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-elderberry-vs-ashwagandha]] gooseberry vs currant vs Currant (Ribes) — Cultivation Comparison"
+title: Comparison Elderberry Vs Gooseberry Vs Currant
 tags:
   - elderberry
   - gooseberry

@@ -23,7 +23,7 @@ the microbial ecosystem matures and self-regulates.
 ## Spring
 
 Spring is the season of activation. [[the-soil-food-web]] awakens, and your job
-is to feed and support the microbial communities that will sustain plant
+is to feed and support the [[cannabis-rhizosphere-microbial-communities]] that will sustain plant
 growth through the year.
 
 ### Composting
@@ -33,7 +33,7 @@ growth through the year.
   oxygen and restart decomposition.
 - **Start a new [[fungal-compost]] pile** using winter debris and fall leaves.
   Fungal-dominated compost is ideal for perennials, trees, and shrubs.
-- Collect **first grass clippings** for bacterial compost. Grass clippings
+- Collect **first grass clippings** for [[bacterial-compost]]. Grass clippings
   are high in nitrogen and favor bacterial growth — perfect for annual
   vegetables and lawns.
 
@@ -82,13 +82,13 @@ growth through the year.
 - **Drill holes for seeds** or disturb only the planting row — minimize
   soil disruption.
 - Once the soil warms, use **green mulch** (e.g., grass clippings,
-  clover) to feed bacterial communities around annual vegetables.
+  clover) to feed [[cannabis-endorhiza-bacterial-communities]] around annual vegetables.
 
 ### Seed & Transplant Inoculation
 
 - **Inoculate all seeds** with appropriate **mycorrhizal fungi** before
   planting.
-- **Soak transplants** in aerated compost tea before placing in the ground.
+- **Soak transplants** in [[actively-aerated-compost-tea-introduction]] before placing in the ground.
 - This ensures that young plants establish symbiotic fungal partnerships
   from day one.
 
@@ -121,7 +121,7 @@ the first transition year.
 - Use **bacterial compost and green mulch** to suppress weeds and
   feed the bacterial communities that annual vegetables depend on.
 - Apply **microbe food** (e.g., soybean meal, fish hydrolysate) every
-  **two weeks** if plants show signs of nutrient deficiency or slow
+  **two weeks** if plants show signs of [[cannabis-grow-nutrient-deficiency-problem-solving]] or slow
   growth.
 
 ### Trees, Shrubs & Perennials
@@ -137,7 +137,7 @@ the first transition year.
   - Apply a **soil drench** of compost tea to the root zone.
   - The beneficial microbes in compost tea compete with pathogens and
     can suppress disease through competitive exclusion and induced
-    systemic resistance.
+    [[endophytic-mycorrhizal-induced-systemic-resistance]].
 
 ### Monitoring & Record-Keeping
 

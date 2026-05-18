@@ -1,5 +1,5 @@
 ---
-title: [[new-united-nations-permaculture-social-strategy]] Concept
+title: New United Nations Concept
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

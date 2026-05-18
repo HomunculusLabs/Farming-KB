@@ -1,5 +1,5 @@
 ---
-title: Chelsea [[amanita-poisoning-identification]] Case of 1878
+title: Chelsea Amanita Poisoning Case 1878
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

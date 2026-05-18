@@ -13,7 +13,7 @@ facultatively parasitic ascomycete and the causal agent of **chestnut
 blight**, one of the most consequential plant disease epidemics in
 history. This fungus effectively eliminated the American chestnut
 (*[[castanea-dentata]]*) as a dominant canopy tree across its native range
-in eastern North America within just a few decades of its introduction.
+in [[polypore-fungi-eastern-north-america]] within just a few decades of its introduction.
 
 The American chestnut once comprised **30–60% of canopy stems** in some
 Appalachian forests, forming large, dominant trees that were
@@ -111,13 +111,13 @@ biological control** of a fungal pathogen.
 ### Forest Mycology
 
 - The death of mature chestnut trees created enormous quantities of
-  **coarse woody debris**, altering decomposition dynamics and fungal
-  community composition in Appalachian forests
+  **coarse woody debris**, altering [[fungi-elevated-co2-and-decomposition-dynamics]] and fungal
+  [[core-endorhiza-bacterial-community-composition-cannabis]] in Appalachian forests
 - Chestnut wood is **extremely resistant to decay** (due to high tannin
   content); chestnut logs and stumps from blight-killed trees can
   persist for decades, providing long-term substrate for wood-decay
   fungi
-- Shifts in tree species composition altered **mycorrhizal community**
+- Shifts in tree species composition altered **[[acidifying-pollutants-mycorrhizal-community-structure]]**
   structure, as fungi specialized on *Castanea* hosts declined
 
 ### Chestnut Restoration
@@ -142,8 +142,8 @@ biological control** of a fungal pathogen.
 
 ## References
 
-- Callan, B.E. and Carris, L.M. Fungi on Living Plant Substrata,
-  Including Fruits. In: *Biodiversity of Fungi*.
+- Callan, B.E. and Carris, L.M. Fungi on [[fungi-living-plant-substrata]],
+  Including Fruits. In: *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]*.
 - Anagnostakis, S.L. 1987. Chestnut blight: the classical problem of an
   introduced pathogen. *Mycologia* 79: 23–37.
 - Milgroom, M.G. and Cortesi, P. 2004. Biological control of chestnut

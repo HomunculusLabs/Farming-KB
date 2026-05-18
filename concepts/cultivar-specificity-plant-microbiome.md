@@ -1,5 +1,5 @@
 ---
-title: Cultivar-Specificity in Plant Microbiome Assembly
+title: Cultivar Specificity Plant Microbiome
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
@@ -14,7 +14,7 @@ Cultivar-specificity refers to the phenomenon where different genetic varieties 
 
 The plant's genetic identity influences its microbiome through several mechanisms:
 
-- **Root exudate profiles**: Different cultivars produce distinct blends of sugars, amino acids, organic acids, phenolics, and secondary metabolites that selectively feed or inhibit different microbial taxa
+- **Root exudate profiles**: Different cultivars produce distinct blends of sugars, amino acids, organic acids, phenolics, [[plant-defense-chemistry-and-secondary-metabolites]] that selectively feed or inhibit different microbial taxa
 - **Root architecture**: Differences in root branching patterns, root hair density, and tissue chemistry create distinct microhabitats
 - **Immune responses**: Cultivar-specific patterns of innate immune signaling determine which microbes are permitted to colonize root tissues
 - **Morphological traits**: Physical characteristics of the root surface affect microbial attachment and entry points
@@ -29,7 +29,7 @@ Research on Cannabis sativa has provided some of the clearest evidence for culti
 
 ### Persistence Post-Harvest
 
-A remarkable finding from Cannabis microbiome research is that cultivar-specific community signatures persisted in endorhiza samples taken 8 weeks after harvest. This suggests that the host genotype imprints a relatively stable community structure that outlasts active plant metabolism, though this persistence may be partially attributable to differential rates of root tissue decomposition between cultivars.
+A remarkable finding from [[cannabis-microbiome-research]] is that cultivar-specific community signatures persisted in endorhiza samples taken 8 weeks after harvest. This suggests that the host genotype imprints a relatively stable community structure that outlasts active plant metabolism, though this persistence may be partially attributable to differential rates of root tissue decomposition between cultivars.
 
 ## Comparison with Other Plant Systems
 
@@ -40,7 +40,7 @@ Bulgarelli et al. (2012) established foundational evidence for host genotype-dep
 Gottel et al. (2011) demonstrated distinct microbial communities within the endosphere and rhizosphere of poplar roots across contrasting soil types, finding that soil was the dominant factor but that host selection still produced significant differentiation between root compartments.
 
 ### Solanum tuberosum (Potato)
-Multiple studies have shown that potato cultivars differ in their associated bacterial communities, with effects observed in both the rhizosphere and endorhiza. Plant growth stage interacts with cultivar effects, making temporal dynamics an important consideration.
+Multiple studies have shown that potato cultivars differ in their associated [[cannabis-endorhiza-bacterial-communities]], with effects observed in both the rhizosphere and endorhiza. Plant growth stage interacts with cultivar effects, making temporal dynamics an important consideration.
 
 ### Vitis vinifera (Grape)
 Bokulich et al. (2013) found that microbial biogeography of wine grapes is conditioned by cultivar, vintage, and climate — establishing a "microbial terroir" concept analogous to the cultivar-specificity observed in other crops. Gilbert et al. (2014) further demonstrated microbial terroir effects in wine grapes.
@@ -88,11 +88,11 @@ For medicinal crops like Cannabis, cultivar-specific microbiomes may influence:
 - **Active growth sampling**: Samples should be taken from living, actively growing plants to avoid decay artifacts
 - **Time series**: Sampling across developmental stages reveals dynamic genotype effects
 - **Compartment separation**: Bulk soil, rhizosphere, and endorhiza should be processed separately with rigorous surface sterilization for endorhiza samples
-- **Replication**: Adequate biological replication is essential given the high variance in soil microbial communities
+- **Replication**: Adequate biological replication is essential given the high variance in [[endorhiza-rhizosphere-bulk-soil-microbial-communities]]
 
 ### Analytical Approaches
 
-- **Weighted vs. unweighted analyses**: Weighted analyses (e.g., weighted UniFrac) are more sensitive to cultivar effects that manifest through abundance changes
+- **Weighted vs. unweighted analyses**: Weighted analyses (e.g., [[cannabis-weighted-unifrac-strain-abundance-vs-presence-absence]]) are more sensitive to cultivar effects that manifest through abundance changes
 - **Multivariate statistics**: PCoA, PERMANOVA, and indicator species analysis help identify cultivar-specific taxa
 - **Shared OTU analysis**: Comparing OTU overlap between compartments across cultivars tests soil inheritance hypotheses
 

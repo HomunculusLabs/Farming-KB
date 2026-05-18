@@ -1,5 +1,5 @@
 ---
-title: [[amanita-alkaloid-therapeutic-uses]] Medicinal Uses and Pilocarpine Treatment
+title: Amanita Alkaloid Medicinal Uses Pilocarpine Treatment
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

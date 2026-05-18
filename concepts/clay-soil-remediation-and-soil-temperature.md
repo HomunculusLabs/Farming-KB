@@ -1,5 +1,5 @@
 ---
-title: [[clay-soil-remediation]] and Soil Temperature
+title: Clay Soil Remediation And Soil Temperature
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

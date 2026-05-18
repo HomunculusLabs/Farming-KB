@@ -1,5 +1,5 @@
 ---
-title: "[[coleman-deep-organic-farming]] vs Shallow [[coleman-lady-eve-balfour-organic-farming-philosophy]]"
+title: Coleman Deep Organic Shallow Organic Farming Comparison
 source: eliot-coleman-winter-harvest-handbook.md
 tags: [organic-farming,  philosophy,  soil-health,  deep-organic,
 shallow-organic,  coleman]

@@ -1,5 +1,5 @@
 ---
-title: [[accessible-mushroom-cultivation-for-disabilities]] Sustainable Agriculture
+title: Mushroom Cultivation For Sustainable Agriculture
 source: fungi-magazine-fungi-and-sustainability.md
 type: concept
 ---

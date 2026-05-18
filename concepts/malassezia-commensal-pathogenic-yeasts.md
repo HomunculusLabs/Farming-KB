@@ -2,7 +2,7 @@
 title: "Malassezia - Commensal and Pathogenic Lipophilic Yeasts"
 created: 2026-04-26
 tags:
-  - basidiomycota
+  - [[basidiomycota]]
   - malassezia
   - commensal-yeasts
   - skin-mycology

@@ -28,7 +28,7 @@ predominantly associated with angiosperms, especially grasses (Poaceae) and sedg
 Known diversity stands at approximately **1,300 species** distributed among roughly
 **80 genera**. These fungi have been recorded from more than **4,000 host plant
 species** spanning over **75 families of angiosperms**. The true global diversity is
-almost certainly higher, as tropical regions remain substantially undersampled.
+almost certainly higher, as [[fukuoka-natural-farming-in-tropical-regions]] remain substantially undersampled.
 
 ### Morphology: Sori and Teliospores
 
@@ -56,9 +56,9 @@ Smut fungi are classified in part by the location and morphology of sori on the 
 ### Notable Species
 
 **[[ustilago-maydis]]** (corn smut / huitlacoche) induces large tumor-like galls on the
-ears, tassels, stalks, and leaves of maize (*Zea mays*). Young galls are harvested
+ears, tassels, stalks, and leaves of maize (*[[zea-mays]]*). Young galls are harvested
 as a culinary delicacy in Mexican cuisine, and *U. maydis* serves as a model
-organism for studying plant–pathogen interactions at the molecular level.
+organism for studying plant–[[mycorrhizae-plant-pathogen-interactions]] at the molecular level.
 
 **Tilletia** species infect host ovaries, producing sori within developing grains.
 *Tilletia tritici* and *T. laevis* cause covered and loose smut of wheat, ranking
@@ -127,24 +127,24 @@ exhibit yellowing, chlorosis, curling, stunting, or premature senescence.
 ### Geographic Distribution
 
 Contrary to the pattern seen in many fungal groups, powdery mildew diversity is
-**higher in temperate regions** than in the tropics. More host species are recorded
+**higher in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]** than in the tropics. More host species are recorded
 from temperate latitudes, likely reflecting both the predominantly dicot flora of
 temperate zones and the longer history of mycological documentation in Europe and
-North America.
+[[guzman-psilocybin-mushrooms-north-america]].
 
 ## Sooty Molds
 
 Sooty molds are saprotrophic or facultatively parasitic fungi that grow on leaf
 surfaces, often in association with honeydew-producing insects (aphids, scale
 insects, whiteflies). They form dark, superficial crusts or mats that can reduce
-photosynthetic efficiency by intercepting light. While not true biotrophic pathogens,
+[[photosynthetic-efficiency]] by intercepting light. While not true biotrophic pathogens,
 sooty molds are frequently discussed alongside smut fungi and powdery mildews due to
 their conspicuous above-ground occurrence and impact on plant health.
 
 ## Ecological and Economic Significance
 
 Smut fungi and related plant pathogens occupy a critical position at the intersection
-of plant pathology, fungal systematics, and biodiversity science. Smut fungi cause
+of plant pathology, [[relational-databases-fungal-systematics]], and biodiversity science. Smut fungi cause
 ## See Also
 
 - [[basidiomycota]]

@@ -1,5 +1,5 @@
 ---
-title: [[soil-nutrient-cycling]] Under Elevated CO₂
+title: Soil Nutrient Cycling Under Elevated Co2
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

@@ -12,7 +12,7 @@ The debate between intensive (raised bed) gardening and traditional row gardenin
 
 ## The Rise of Intensive Gardening
 
-Intensive gardening — characterized by closely packed plants in deeply dug, heavily fertilized raised beds — became the dominant recommended method for backyard food production starting in the 1970s. John Jeavons was among the most prominent advocates, and the method was widely adopted by back-to-the-land movement participants.
+Intensive gardening — characterized by closely packed plants in deeply dug, heavily fertilized raised beds — became the dominant recommended method for [[fukuoka-natural-garden-backyard-food-production]] starting in the 1970s. John Jeavons was among the most prominent advocates, and the method was widely adopted by back-to-the-land movement participants.
 
 The core promises of intensive gardening included:
 
@@ -21,11 +21,11 @@ The core promises of intensive gardening included:
 - **Soil improvement**: Deep digging and heavy composting built exceptionally fertile soil
 - **Weed suppression**: Dense plant canopies were said to shade out weeds
 
-By the 1980s, intensive methods had become standard practice in gardening literature, magazines, and seed catalogs.
+By the 1980s, intensive methods had become standard practice in [[historical-intensive-gardening-literature]], magazines, and seed catalogs.
 
 ## What Variety Trials Revealed
 
-Steve Solomon, founder of Territorial Seed Company, discovered through variety trials that intensive gardening's advantages were overstated. Trial plots — where plants were spaced far enough apart for each to develop its full potential — consistently demonstrated:
+Steve Solomon, founder of [[territorial-seed-company]], discovered through variety trials that intensive gardening's advantages were overstated. Trial plots — where plants were spaced far enough apart for each to develop its full potential — consistently demonstrated:
 
 1. **Lower water requirements**: Widely spaced plants needed significantly less irrigation than intensively planted beds
 2. **Larger individual vegetables**: Each plant reached its full genetic potential when not competing with neighbors
@@ -51,7 +51,7 @@ The effort required to maintain intensive beds — frequent watering, heavy fert
 
 ### Soil Health and Disease Pressure
 
-Continuous intensive cultivation of the same beds without adequate rotation increases disease and pest pressure. The lack of space between plants reduces air circulation, promoting fungal diseases. In mild climates where soil doesn't freeze deeply, growing vegetables in the same location for more than 3-5 years leads to serious soil-borne disease problems.
+Continuous intensive cultivation of the same beds without adequate rotation increases disease and pest pressure. The lack of space between plants reduces air circulation, promoting fungal diseases. In mild climates where soil doesn't freeze deeply, [[container-growing-vegetables-herbs]] in the same location for more than 3-5 years leads to serious soil-borne disease problems.
 
 ## When Row Gardening Makes Sense
 
@@ -68,8 +68,8 @@ Row gardening — spacing plants far enough apart to walk between them — offer
 After decades of experience, Solomon recommends a hybrid approach:
 
 1. Use wider spacing than intensive methods prescribe — enough for each plant to reach full size without excessive competition
-2. Apply moderate amounts of complete organic fertilizer (COF) rather than massive quantities of compost
-3. Maintain soil organic matter with cover crops and ley rotations (grass/clover fallows)
+2. Apply moderate amounts of [[complete-organic-fertilizer]] (COF) rather than massive quantities of compost
+3. Maintain [[humus-and-soil-organic-matter]] with cover crops and ley rotations (grass/clover fallows)
 4. Minimize irrigation, aiming for dry-gardening techniques where climate permits
 5. Rotate garden beds into grass/clover leys every 4-5 years to rebuild soil biology
 

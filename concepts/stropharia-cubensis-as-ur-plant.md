@@ -78,3 +78,43 @@ The relationship between Stropharia cubensis and zebu cattle (Bos
 indicus) is central to McKenna's argument. When hominids moved out of
 the trees and onto the grasslands, they increasingly encountered hooved
 beasts and their manure. The mushrooms growing in this manure became
+## Key Principles
+
+Sustainable practices integrate ecological understanding with food
+production. Core principles include building soil health, maximizing
+biodiversity, and closing nutrient cycles. Long-term productivity
+depends on maintaining ecological functions supporting growth.
+Biological processes replace synthetic inputs, reducing costs and
+environmental impact while improving food quality.
+
+## Implementation
+
+Successful implementation requires observation, adaptive management,
+and continuous learning. Site assessment identifies resources and
+constraints. Phased development builds ecological capital.
+Record-keeping and monitoring provide feedback for adjustments.
+Knowledge sharing through networks accelerates adoption.
+
+## Challenges and Adaptation
+
+Agricultural systems face mounting pressures from climate change,
+resource depletion, and population growth. Adapting practices to
+changing conditions requires flexible management strategies and
+diversified production systems. Water scarcity demands efficient
+irrigation and drought-tolerant cultivars. Soil degradation requires
+regenerative approaches that rebuild organic matter and biological
+activity. Knowledge sharing through farmer networks and research
+partnerships accelerates innovation and adaptation.
+
+Ongoing research continues to validate and refine these approaches
+across diverse agricultural and ecological contexts.
+
+This hypothesis continues to generate debate regarding the co-evolutionary relationship between humans and psychoactive fungi.
+
+## See Also
+
+- [[aact-npk-game-critique-nutrient-cycling-organic-conversion-ingham]]
+- [[basalt-rock-dust-agriculture]]
+- [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
+- [[bill-mollison-permaculture-a-designers-manual-succession-and-ecological-evolution]]
+- [[biochar-in-agriculture]]

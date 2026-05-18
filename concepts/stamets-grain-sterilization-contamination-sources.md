@@ -1,5 +1,5 @@
 ---
-title: Stamets Grain Sterilization [[stamets-contamination-sources-laboratory-hygiene]]
+title: Stamets Grain Sterilization Contamination Sources
 created: 2026-04-28
 tags: [sterilization, grain-spawn, contamination, mushroom-cultivation]
 date: 2026-04-25

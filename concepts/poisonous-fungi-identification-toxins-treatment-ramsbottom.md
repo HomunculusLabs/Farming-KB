@@ -6,15 +6,15 @@ type: concept
 
 # Poisonous Fungi — Identification, Toxins, and Treatment
 
-[[john-ramsbottom]]'s 1945 monograph *Poisonous Fungi* (King Penguin Books) remains one of the most thorough accounts of poisonous mushrooms in the British Isles. Ramsbottom, Keeper of Botany at the British Museum (Natural History), compiled detailed clinical data, toxicological research, and identification guidance that corrected many persistent myths about mushroom poisoning.
+[[john-ramsbottom]]'s 1945 monograph *Poisonous Fungi* (King Penguin Books) remains one of the most thorough accounts of [[identifying-poisonous-mushrooms]] in the British Isles. Ramsbottom, Keeper of Botany at the British Museum ([[stropharia-cubensis-identification-and-natural-history]]), compiled detailed clinical data, toxicological research, and identification guidance that corrected many persistent myths about [[amanita-toxins-and-mushroom-poisoning]].
 
 ## Classification of Poisonous Fungi
 
 Ramsbottom classifies poisonous species into three groups based on their mechanism of action:
 
 ### Group 1: Cell-Destroying Toxins (Long Incubation)
-- **[[amanita-phalloides]]** (Death Cap), **A. verna** (Fools' Mushroom), **A. virosa** (Destroying Angel)
-- **Lepiota helveola** (Poisonous Lepiota)
+- **[[amanita-phalloides]]** (Death Cap), **A. verna** (Fools' Mushroom), **A. virosa** ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]])
+- **[[lepiota-helveola]]** (Poisonous Lepiota)
 - Responsible for over 90% of recorded deaths by fungus poisoning
 - More than 80% of cases are fatal; some estimates as high as 90%
 - Symptoms delayed 10–12 hours (almost diagnostic)
@@ -27,7 +27,7 @@ Ramsbottom classifies poisonous species into three groups based on their mechani
 - A. muscaria never causes death in healthy people; ends in deep stupor and complete amnesia
 
 ### Group 3: Hemolytic Toxins (Red Blood Cell Destruction)
-- **Gyromitra esculenta** (False Morel)
+- **[[gyromitra-esculenta]]** (False Morel)
 - Contains gyromitrin (monomethylhydrazine derivative)
 - Can be rendered safe by blanching and thorough cooking (boiling discards the volatile toxin)
 

@@ -1,5 +1,5 @@
 ---
-title: [[grass-seed-cultivation-of-psilocybe-mushrooms]] azurescens — The World's Most Potent [[african-psilocybin-mushroom-guide]]
+title: Cultivation Psilocybe Azurescens
 source: growing-psilocybe-azurescens.md
 type: concept
 ---

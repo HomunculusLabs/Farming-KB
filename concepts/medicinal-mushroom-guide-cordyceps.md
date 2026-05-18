@@ -1,5 +1,5 @@
 ---
-title: Cordyceps (C. militaris, C. sinensis) — [[medicinal-mushroom-guide]]
+title: Medicinal Mushroom Guide Cordyceps
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

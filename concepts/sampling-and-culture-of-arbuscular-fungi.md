@@ -6,7 +6,7 @@ type: concept
 
 # Sampling and Culture of Arbuscular Fungi
 
-Studying arbuscular mycorrhizal (AM) fungi requires specialized techniques for sampling, isolating, and culturing these obligate symbionts. Because AM fungi cannot be grown apart from their plant hosts, all culture methods rely on maintaining living plant roots. This chapter covers the practical methodologies for extracting spores from soil, establishing trap-pot cultures, and culturing individual species from mixed communities.
+Studying [[arbuscular-mycorrhizal-colonization-patterns]] (AM) fungi requires specialized techniques for sampling, isolating, and culturing these obligate symbionts. Because AM fungi cannot be grown apart from their plant hosts, all [[mushroom-spawn-making-and-pure-culture-methods]] rely on maintaining living plant roots. This chapter covers the practical methodologies for extracting spores from soil, establishing trap-pot cultures, and culturing individual species from mixed communities.
 
 ## Spore Extraction from Soil
 
@@ -54,12 +54,12 @@ The species-increment plot method estimates appropriate sample numbers for measu
 
 ## Seasonal and Successional Considerations
 
-Seasonal fluctuations in live spore abundance have been documented for many species, with sporulation frequently linked to host phenology. Different fungal species can have unique seasonal patterns, meaning samples from a single date may not accurately assess community composition.
+Seasonal fluctuations in live spore abundance have been documented for many species, with sporulation frequently linked to host phenology. Different fungal species can have unique seasonal patterns, meaning samples from a single date may not accurately assess [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 - **Monthly sampling** over 1–2 years is most desirable
 - **Quarterly sampling** may be more practical
 - Even a single sampling coupled with trap cultures provides valuable information
-- In arid or wet habitats where mycorrhizal development is low, sporulation may not be detected for much of the year
+- In arid or wet habitats where [[genomics-arbuscular-mycorrhizal-development]] is low, sporulation may not be detected for much of the year
 
 The relationship between aboveground succession and AM fungal community composition has been studied in many habitats, but interpretation of field-collected data at minimum requires multiple seasonal sampling along with measurements of soil characteristics (pH, organic matter, [[cation-exchange-capacity]], nutrient concentrations).
 
@@ -71,7 +71,7 @@ Trap-pot cultures are the primary method for recovering nonsporulating species a
 2. Mix soil-root material thoroughly with coarse sterilized sand (1:1 v/v) to fill a pot of at least 600 cm³ volume
 3. Sow seeds of host plant; grow for minimum 4 months with low-phosphorus fertilizer applied only as needed
 4. At harvest (ideally 30–40 days after shoot growth ceases), assess colonization and extract spores
-5. If colonization and spore abundance are high, terminate watering and dry pots slowly; store at 4°C (temperate) or room temperature (tropical) for minimum 30 days
+5. If colonization and spore abundance are high, terminate [[solomon-watering-and-dry-farming]] pots slowly; store at 4°C (temperate) or room temperature (tropical) for minimum 30 days
 6. If spore numbers are low, a second propagation cycle (reseeding without disturbing pot contents) often increases abundance and richness
 7. In rare cases, a third cycle may be needed, with vigorous mixing of pot contents before reseeding
 
@@ -107,7 +107,7 @@ Once a culture contains only one species, volume can be multiplied by transferri
 
 ## References
 
-- Daniels, B.A., and H.D. Skipper. 1982. Methods for the recovery and quantitative estimation of propagules from soil. In: Methods and Principles of Mycorrhizal Research.
+- Daniels, B.A., and H.D. Skipper. 1982. Methods for the recovery and quantitative estimation of propagules from soil. In: Methods and Principles of [[isotopic-tracers-mycorrhizal-research]].
 - Morton, J.B., S.P. Bentivenga, and F.W. Wheeler. 1993. Germplasm in the International Collection of Arbuscular and Vesicular-Arbuscular [[mycorrhizal-fungi]] (INVAM) and procedures for culture development, documentation, and storage. Mycotaxon 48: 491-528.
 - Sylvia, D.M. 1994. Vesicular-arbuscular mycorrhizal (VAM) fungi. In: Methods of Soil Analysis, Part 2: Microbiological and Biochemical Properties.
 - Tews, L.L., and R.E. Koske. 1986. Towards a methodology for the study of VA mycorrhizal fungal species composition of a sand dune. Mycologia 78: 449-453.

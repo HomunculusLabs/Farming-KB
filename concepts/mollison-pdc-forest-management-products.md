@@ -24,7 +24,7 @@ climate and water cycles. Mollison calls the forest "the great
 conditioner" -- the essential climate-ameliorating system of the planet.
 
 Forests create rain through transpiration, moderate temperature extremes,
-build soil, and prevent erosion. When forests are removed, the
+build soil, [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]]. When forests are removed, the
 hydrological cycle breaks down. [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - Wood tar for preservation and waterproofing
 - Wood gas for heating and potentially engine fuel
@@ -38,7 +38,7 @@ Permaculture integrates tree crops into every zone:
 
 - **Zone 2:** Standard fruit trees, nut trees, berry bushes
 - **Zone 3:** Larger orchards, woodlots, fodder trees, coppice systems
-- **Zone 4:** Managed forest for timber, wildlife habitat, watershed
+- **Zone 4:** Managed forest for timber, [[hemenway-backyard-wildlife-habitat]], watershed
 - **Zone 5:** Minimal intervention, reference natural forest systems
 
 The transition from zone to zone should be gradual, with forest edge
@@ -78,7 +78,7 @@ Continued development in this area promises new insights and
 ## Overview
 
 Mollison Pdc Forest Management Products represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mollison Pdc Forest Management Products finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,7 +107,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mollison pdc forest management products and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

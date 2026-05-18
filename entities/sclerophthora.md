@@ -29,7 +29,7 @@ type: entity
 - Can be suppressed by fungally dominated compost teas that:
   - Compete with *Sclerophthora* for space and nutrients on leaf and root surfaces
   - Establish protective fungal biofilms that prevent zoospore attachment
-  - Improve soil drainage and structure through fungal aggregate formation
+  - [[query-how-do-i-improve-soil-drainage-in-my-garden]] and structure through fungal aggregate formation
 - Disease symptoms include yellowing, stunting, and downy growth on leaf surfaces
 - Management requires both biological (compost tea) and cultural (improved drainage) approaches
 
@@ -40,15 +40,15 @@ type: entity
 - **Oomycete vs. true fungus:** Despite being biologically distinct from fungi, *Sclerophthora* occupies similar ecological niches and can be managed with similar biological approaches
 - **Water-dependent dispersal:** Unlike many true fungi, oomycetes produce motile zoospores — improving drainage and reducing standing water is essential for control
 - **Fungal tea suppression:** Fungally dominated compost teas are effective against both true fungi and oomycetes, demonstrating that competitive exclusion works across pathogen types
-- **Integrated management:** Combining compost tea with cultural drainage improvements addresses both the pathogen and the environmental conditions that favor it
+- **[[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]]:** Combining compost tea with cultural drainage improvements addresses both the pathogen and the environmental conditions that favor it
 
 ## Sources
 
-- Lowenfels & Lewis, *Teaming with Microbes*, Chapter 17 (Compost Teas)
+- Lowenfels & Lewis, *[[teaming-with-microbes-actinomycetes]]*, Chapter 17 (Compost Teas)
 
 ## Ecological Significance
 The ecological importance of Sclerophthora extends across multiple levels of biological
-organization. Research has documented its role in nutrient cycling, species interactions,
+organization. Research has documented its role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], species interactions,
 and ecosystem stability. These relationships highlight the interconnected nature of
 biological communities and the importance of understanding individual components
 within their broader environmental context.
@@ -58,14 +58,14 @@ Understanding Sclerophthora has practical implications for agriculture, horticul
 and environmental management. Applied research has explored how this knowledge
 can be used to improve soil health, optimize growing conditions, and develop
 more sustainable management practices. These applications demonstrate the bridge
-between fundamental research and real-world problem solving.
+between fundamental research and real-world [[cannabis-grow-nutrient-deficiency-problem-solving]].
 
 ## Research Context
 Current research on Sclerophthora draws from multiple scientific disciplines, integrating
 findings from microbiology, ecology, chemistry, and applied sciences. Ongoing studies
 continue to refine our understanding of mechanisms and interactions, with implications
 for both theoretical knowledge and practical applications. Key research questions
-remain about the full range of effects and optimal management strategies.
+remain about the full range of effects and optimal [[forest-management-strategies]].
 
 ## Historical Background
 The study of Sclerophthora has evolved significantly over time, with early observations

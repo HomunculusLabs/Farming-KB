@@ -1,5 +1,5 @@
 ---
-title: Fungicolous Fungi on Ascomycota Hosts
+title: Fungicolous Fungi On Ascomycota Hosts
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -16,7 +16,7 @@ The myxomycetes (slime molds) serve as substrates for a diverse array of fungico
 - **Blistum tomentosum** — colonizes members of the Trichiales (an order of myxomycetes), demonstrating specificity at the order level.
 - **Nectriopsis exigua** and **Verticillium rexianum** — these two species are among the most ubiquitous myxomyceticolous fungi, encountered across a wide range of myxomycete hosts and substrates, suggesting generalist ecological strategies.
 - **Stilbella byssiseda** — a synnematous fungus commonly observed on various myxomycete fruiting bodies.
-- **Dipodascus macrosporus** — an unusual zygomycete acting as a facultative parasite within the plasmodium of its myxomycete host, representing one of the few documented intracellular fungal parasites of slime molds.
+- **Dipodascus macrosporus** — an unusual zygomycete acting as a facultative parasite within the plasmodium of its myxomycete host, representing one of the few documented intracellular [[bloomfield-fungal-parasites-of-insects]] slime molds.
 
 Other zygomycetes also colonize myxomycetes, expanding the taxonomic range of organisms capable of exploiting these substrates beyond the [[ascomycota]] and Basidiomycota. The diversity of myxomyceticolous fungi suggests that slime mold fruiting bodies and plasmodia serve as significant but underappreciated ecological niches, particularly in moist forest floor environments where both groups co-occur abundantly.
 
@@ -53,7 +53,7 @@ Dung ecosystems support intense fungal competition where fungicolous interaction
 - **Coprinus heptemerus** — exerts lethal hyphal interference against *Ascobolus* and *Pilobolus*, two common dung-inhabiting ascomycetes, effectively eliminating competitors through chemical warfare mediated by hyphal contact.
 - **Penicillium glabrum** — has been investigated as a biocontrol agent in dung communities, capable of suppressing target fungi through antibiosis.
 
-These interactions underscore the importance of interference competition in structuring dung fungal communities, where space and resources are severely limited. The dung habitat represents a natural laboratory for studying fungal antagonism, with succession proceeding rapidly and fungicolous interactions playing a key role in community assembly and turnover.
+These interactions underscore the importance of interference competition in structuring dung fungal communities, where space and resources are severely limited. The dung habitat represents a natural laboratory for studying fungal antagonism, with succession proceeding rapidly and fungicolous interactions playing a key role in [[biodiversity-fungal-community-assembly]] and turnover.
 
 ## Sequestrate Ascomycetes
 
@@ -101,10 +101,10 @@ Soft-textured perithecia of Nectriaceae and related fungi are readily colonized:
 
 Anamorphic (asexual) ascomycetes serve as hosts for numerous fungicolous species, many with biocontrol relevance:
 
-- **Calcarisporium** — grows on **Hirsutella**, a genus of [[entomopathogenic-fungi]], potentially disrupting biological control programs.
+- **Calcarisporium** — grows on **Hirsutella**, a genus of [[entomopathogenic-fungi]], potentially disrupting [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] programs.
 - **Debaryomyces** — a yeast genus recorded on **Penicillium** and **Rhizopus**, representing yeast–mold fungicolous interactions.
 - **Sphaeronaemella** and **Trichoderma** — parasitize **Fusarium** and **Cochliobolus**, two major genera of plant pathogenic fungi.
-- Biocontrol attempts targeting **Verticillium dahliae** — a devastating vascular wilt pathogen — have explored fungicolous fungi as biological control agents.
+- Biocontrol attempts targeting **[[verticillium-dahliae]]** — a devastating vascular wilt pathogen — have explored fungicolous fungi as biological control agents.
 - **Hansfordia** (syn. **Dicyma pulvinata**) — hyperparasitizes **Cercospora** and **Passalora**, two important genera of leaf-spot pathogens; this interaction has been studied for biological control of Cercospora leaf diseases.
 - **Penicillium funiculosum** — recorded as a fungicolous species with potential biocontrol applications.
 - **Fusarium udum** — employs a diffusible toxin to suppress competing fungi, illustrating chemical interference competition.
@@ -116,6 +116,6 @@ The study of fungicolous fungi on anamorphic hosts is particularly relevant to a
 
 ## Summary
 
-Fungicolous fungi on ascomycete hosts represent an extraordinarily diverse ecological guild spanning all major fungal phyla. These interactions range from highly specific obligate parasitism to generalist saprotrophy on dead fungal tissue. Many of these associations have practical significance for plant pathology, biological control, and understanding fungal community dynamics. The vast majority of fungicolous species remain poorly studied, suggesting that the unknown biodiversity of fungicolous fungi is substantial.
+Fungicolous fungi on ascomycete hosts represent an extraordinarily diverse ecological guild spanning all major fungal phyla. These interactions range from highly specific obligate parasitism to generalist saprotrophy on dead fungal tissue. Many of these associations have practical significance for plant pathology, biological control, and understanding [[fungal-community-dynamics-ecosystem-stability]]. The vast majority of fungicolous species remain poorly studied, suggesting that the unknown biodiversity of fungicolous fungi is substantial.
 
 The study of fungicolous fungi on ascomycete hosts is still in its infancy. Many of the associations documented here are known from only a handful of collections, and molecular systematic studies are urgently needed to confirm host specificity, resolve phylogenetic relationships, and uncover cryptic diversity. As sequencing technologies become more accessible, it is likely that the described fungicolous biodiversity will expand dramatically.

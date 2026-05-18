@@ -1,5 +1,5 @@
 ---
-title: Convection, Thermosiphons, [[albedo-absorption-and-heat-transfer]] in Design
+title: Convection Thermosiphons Heat Transfer
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

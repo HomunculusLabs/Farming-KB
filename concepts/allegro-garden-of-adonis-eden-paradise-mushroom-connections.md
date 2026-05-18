@@ -1,5 +1,5 @@
 ---
-title: [[allegro-garden-of-eden-and-delight]] Adonis, Eden, and Paradise Mushroom Connections
+title: Allegro Garden Of Adonis Eden Paradise Mushroom Connections
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---

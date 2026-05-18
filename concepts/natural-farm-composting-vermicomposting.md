@@ -1,5 +1,5 @@
 ---
-title: [[kitchen-composting-and-vermicomposting]]
+title: Natural Farm Composting Vermicomposting
 created: 2026-04-28
 tags: [composting, vermicomposting, soil-amendment, organic-waste, natural-farming]
 date: 2026-04-28

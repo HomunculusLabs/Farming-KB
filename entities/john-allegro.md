@@ -141,6 +141,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[john-galvin-forester]]
+- [[john-galvin]]
 - [[john-ralston-saul]]
 - [[john-widstoe]]

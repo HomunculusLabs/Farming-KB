@@ -1,5 +1,5 @@
 ---
-title: "[[hallucinogens-and-shamanism-harner-anthology]] — Introduction and Overview"
+title: Hallucinogens And Shamanism
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---

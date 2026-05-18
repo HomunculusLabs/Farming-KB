@@ -40,7 +40,7 @@ Its short [[auxin-production-by-symbiotic-fungi]] page uses Arabidopsis root bra
 ## Plant-microbe interactions
 
 Arabidopsis is not a classic mycorrhizal host, which makes it unusual compared with many land plants.
-Nevertheless, it is widely used to study innate immunity, bacterial pathogenesis, endophytes, [[singh-fungal-interactions-with-heavy-metals-in-soil]], [[query-how-does-foliar-feeding-work-for-cannabis]] trichome pages, Arabidopsis supplies a regulatory comparison rather than a resin-gland equivalent.
+Nevertheless, it is widely used to study [[plant-innate-immunity-pti-eti-defense]], bacterial pathogenesis, endophytes, [[singh-fungal-interactions-with-heavy-metals-in-soil]], [[query-how-does-foliar-feeding-work-for-cannabis]] trichome pages, Arabidopsis supplies a regulatory comparison rather than a resin-gland equivalent.
 For soil symbiosis pages, Arabidopsis seedling assays are experimentally convenient but ecologically narrower than mycorrhizal host systems.
 ## Key takeaways
 *Arabidopsis thaliana* is the reference plant for modern genetics and molecular plant biology.
@@ -67,7 +67,7 @@ inherent in working with natural systems and plans accordingly rather
 ## Overview
 
 Arabidopsis Thaliana represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -88,7 +88,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Arabidopsis Thaliana finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -96,13 +96,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for arabidopsis thaliana. Climate adaptation
+opportunities for arabidopsis thaliana. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -117,7 +117,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 arabidopsis thaliana and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

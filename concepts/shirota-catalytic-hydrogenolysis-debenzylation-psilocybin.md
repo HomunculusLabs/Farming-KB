@@ -1,5 +1,5 @@
 ---
-title: [[shirota-catalytic-hydrogenolysis-debenzylation-to-psilocybin-crystal]] Debenzylation Psilocybin
+title: Shirota Catalytic Hydrogenolysis Debenzylation Psilocybin
 aliases: ["hydrogenolysis acetyl-protection-route-psilocin-psilocybin-synthesis", "palladium catalyzed debenzylation", "Shirota catalytic hydrogen psilocybin"]
 tags: [synthesis, psilocybin, catalysis, hydrogenolysis, palladium, shirota]
 ---

@@ -6,7 +6,7 @@ type: concept
 
 # Lichen Sample Site Selection and Within-Site Sampling Strategies
 
-[[lichen]] biodiversity inventories require careful decisions about where to sample and how to sample within chosen sites. Effective survey design integrates statistical rigor with practical field constraints and conservation objectives. This page covers the principles and practical considerations for selecting sample site locations, designing within-site sampling protocols, choosing plot sizes and shapes, estimating species abundance, using permanent photoplots for monitoring, and employing lichens as biodiversity indicators.
+[[lichen]] biodiversity inventories require careful decisions about where to sample and how to sample within chosen sites. Effective survey design integrates statistical rigor with practical field constraints and conservation objectives. This page covers the principles and practical considerations for selecting sample site locations, designing within-site [[macrofungal-sampling-protocols]], choosing plot sizes and shapes, estimating species abundance, using permanent photoplots for monitoring, and employing lichens as [[coprophilous-fungi-biodiversity-indicators]].
 
 ## Sample Site Location
 
@@ -18,7 +18,7 @@ A key practical advantage is that accessible sites can be chosen to represent mo
 
 ### Lichen Communities vs. Macrovegetation Classifications
 
-Survey designers should **not assume** that lichen community variation is adequately represented by macrovegetation classifications. Lichen diversity patterns at the 0.1–1.0 ha scale frequently diverge from those of vascular plants (McCune and Antos 1981a, 1981b), and there is no reason to expect lichen patterns to always match vascular plant patterns across scales ranging from centimeters to hundreds of kilometers.
+Survey designers should **not assume** that lichen community variation is adequately represented by macrovegetation classifications. Lichen [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] at the 0.1–1.0 ha scale frequently diverge from those of vascular plants (McCune and Antos 1981a, 1981b), and there is no reason to expect lichen patterns to always match vascular plant patterns across scales ranging from centimeters to hundreds of kilometers.
 
 Lichen community variation operates at multiple scales:
 - **Microhabitat/habitat** scale (centimeters)
@@ -80,7 +80,7 @@ Abundance estimation is constrained by the ability to identify and distinguish s
 
 ### Functional Groups and Biomass
 
-Morphological groups may serve as surrogates for functional groups (Pike 1978; Rosentreter 1995). **Gelatinous ground lichens** (*Collema*, *Leptogium*, *Polychidium*) fix nitrogen and protect the soil surface. **Biomass measurement** is labor-intensive, requiring subsampling and weighing (Lang et al. 1980; McCune 1993; Hayward and Rosentreter 1994; Rosso and Rosentreter 1999), but canopy macrolichen biomass can be efficiently estimated from litterfall analysis (McCune 1994) and lower canopy branches (Esseen et al. 1996).
+Morphological groups may serve as surrogates for functional groups (Pike 1978; Rosentreter 1995). **Gelatinous ground lichens** (*Collema*, *Leptogium*, *Polychidium*) fix nitrogen and protect the soil surface. **[[soil-microbial-biomass-measurement-ecological-significance]]** is labor-intensive, requiring subsampling and weighing (Lang et al. 1980; McCune 1993; Hayward and Rosentreter 1994; Rosso and Rosentreter 1999), but canopy macrolichen biomass can be efficiently estimated from litterfall analysis (McCune 1994) and lower canopy branches (Esseen et al. 1996).
 
 ## Permanent Photoplots
 
@@ -101,7 +101,7 @@ The **indicator-species approach is not recommended** for baseline biodiversity 
 | **Macrolichen communities on bark** | Response to sulfurous air pollutants; forest ecosystem biodiversity and function | Ferry et al. 1973; Nash and Wirth 1988; Bates and Farmer 1992; Smith et al. 1993; McCune et al. 1997b; Will-Wolf et al. 2002 |
 | **Nitrogen-fixing lichens** (cyanobacterial photobionts) | More common and diverse in older, less disturbed forests with cleaner air | Eldridge and Rosentreter 1999; Gauslaa 1995; Kondratyuk and Coppins 1998; Sillett et al. 2000 |
 | **"Pin-lichens"** (former Caliciales) | Indicate long continuous occupation by old-growth forest in northern temperate/boreal regions | Tibell 1992; Selva 1994 |
-| **Ground lichens** | Indicators of ecosystem function in grassland/steppe | Anderson et al. 1982; Brotherson et al. 1983; Rosentreter 1986; Eldridge and Tozer 1996 |
+| **Ground lichens** | Indicators of [[dighton-mycorrhizal-diversity-ecosystem-function]] in grassland/steppe | Anderson et al. 1982; Brotherson et al. 1983; Rosentreter 1986; Eldridge and Tozer 1996 |
 
 Selva (1994) defined a forest continuity indicator species group for northeastern North America. *[[lobaria-pulmonaria]]* is a particularly notable species with both green algal and cyanobacterial photobionts, nitrogen-fixing capability, old-growth association, and air pollution sensitivity.
 
@@ -124,7 +124,7 @@ Lichenologists with limited ecological training should **consult an ecologist** 
 3. **Use fixed-area plots** for comparability; 0.05–1 ha is the standard range for lichen surveys.
 4. **Tailor subsample units** to the specific substratum (bark, rock, ground) being surveyed.
 5. **Match abundance estimation effort** to project goals and field identification capacity.
-6. **Use species groups, not single species**, as biodiversity and environmental indicators.
+6. **Use species groups, not single species**, as biodiversity and [[fungi-as-environmental-indicators-and-biosensors]].
 7. **Record habitat information** at a level matching the lichen microhabitat subdivisions used.
 
 ## Related

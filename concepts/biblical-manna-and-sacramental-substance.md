@@ -1,5 +1,5 @@
 ---
-title: "Biblical Manna And Sacramental Substance"
+title: Biblical Manna And Sacramental Substance
 source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
@@ -59,14 +59,14 @@ The Last Supper is reinterpreted as the literal sacramental ingestion of the ent
 
 > *"Take and eat, This is my Body"* 
 
-When "body" is understood as *Soma* (the Greek word, also meaning mushroom), and the physical substance described is fleshy and round, the event becomes a straightforward ritual of entheogenic communion rather than a metaphor requiring theological elaboration.
+When "body" is understood as *[[soma]]* (the Greek word, also meaning mushroom), and the physical substance described is fleshy and round, the event becomes a straightforward ritual of entheogenic communion rather than a metaphor requiring theological elaboration.
 
 ## The Doctrine of Transubstantiation
 
-The [[allegro-garden-of-eden-and-delight]] come from **Cuneiform clay tablets of Mesopotamia** (at least 4000 BCE). According to Zecharia Sitchin's analysis of these tablets, the original stories portray the eating of the fruit in a completely different light from the biblical version:
+The [[allegro-garden-of-eden-and-delight]] come from **Cuneiform clay tablets of Mesopotamia** (at least 4000 BCE). According to [[zecharia-sitchin]]'s analysis of these tablets, the original stories portray the eating of the fruit in a completely different light from the biblical version:
 
 - The Father God "Anu" remained on the star Sirius
-- Two brothers, **Ea** and **Enlil**, stewarded the colonization of Earth
+- Two brothers, **Ea** and **[[enlil]]**, stewarded the colonization of Earth
 - **Enlil** wished to control the population and restrict knowledge
 - **Ea** wished to expand humanity's consciousness ("multi-dimensionalize" their minds)
 - Ea was determined to awaken his creations despite the High Council's preference for the Enlilian position

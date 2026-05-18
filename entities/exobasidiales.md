@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Exobasidiales is an order of plant-parasitic basidiomycete fungi in
+The Exobasidiales is an order of plant-parasitic [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
 the class Ustilaginomycetes (phylum [[basidiomycota]]), closely related to
 the [[smut-fungi]]. Unlike typical smuts, which produce powdery teliospore
 masses in sori, Exobasidiales are characterized by **basidia that
@@ -61,11 +61,11 @@ Exobasidiaceae, dominated by the type genus *[[exobasidium]]*.
   Sundström 1964)
 - Overmature *Exobasidium* colonies are often overgrown by hyphomycetes,
   which may make identification difficult
-- In temperate regions, symptoms are most visible at **midsummer**
+- In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], symptoms are most visible at **midsummer**
 
 ### Other Notable Genera
 
-- **Kordyana:** Pantropical distribution on Commelinaceae (spiderworts
+- **Kordyana:** [[copelandia-cyanescens-pantropical-distribution-and-ecology]] on Commelinaceae (spiderworts
   and relatives)
 - **Muribasidiospora:** Causes foliage spots on *Rhus* (sumac) and
   *Celtis* (hackberry)
@@ -128,12 +128,12 @@ Exobasidiaceae, dominated by the type genus *[[exobasidium]]*.
 - [Smut Fungi](smut-fungi.md)
 - [Rust Fungi](rust-fungi.md)
 - [Graphiola](graphiola.md)
-- [Ustilago maydis](ustilago-maydis.md) (corn smut)
+- [[ustilago-maydis]](ustilago-maydis.md) (corn smut)
 
 ## References
 
 - Bauer, R. et al. 2001. Ustilaginomycetes. In: *The Mycota* VII.
-- Callan, B.E. and Carris, L.M. Fungi on Living Plant Substrata,
-  Including Fruits. In: *Biodiversity of Fungi*.
+- Callan, B.E. and Carris, L.M. Fungi on [[fungi-living-plant-substrata]],
+  Including Fruits. In: *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]*.
 - Savile, D.B.O. 1959. Notes on Exobasidium. *Canadian Journal of
   Botany* 37: 641–648.

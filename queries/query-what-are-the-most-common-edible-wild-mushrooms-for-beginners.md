@@ -15,7 +15,7 @@ The safest and most rewarding wild mushrooms for beginners to learn include
 chanterelles, chicken of the woods, morels, puffballs, and king boletes.
 These species have [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] is a rewarding pursuit that connects people with
 seasonal cycles and local ecosystems, but it demands a cautious, methodical
-approach to identification. The [[boletus-edulis-entity]] has a brown cap, thick
+approach to identification. The [[boletus-edulis]] has a brown cap, thick
 white stem with a fine net pattern (reticulation) near the top, and spongy
 pore surface under the cap instead of gills. Boletes as a group are
 identified by their pore surface rather than gills, which immediately

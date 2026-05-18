@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Nutrient Cycling [[desert-soils-nutrition-and-phosphorus-dynamics]]
+title: Mycorrhizal Nutrient Cycling Phosphorus Dynamics
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

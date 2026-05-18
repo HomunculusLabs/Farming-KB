@@ -43,7 +43,7 @@ Nectriopsis species are found exclusively in association with other fungi, parti
 
 2. **Discomycetes:** Species like N. discophila parasitize cup fungi.
 
-3. **Agarics:** N. tubariicola and related species colonize mushroom fruiting bodies.
+3. **Agarics:** N. tubariicola and related species colonize [[advanced-mushroom-fruiting-techniques]] bodies.
 
 ## Mycoparasitic Behavior
 
@@ -56,8 +56,8 @@ Nectriopsis species function primarily as biotrophic or necrotrophic mycoparasit
 
 ## Relevance to Cultivation and Mycology
 
-- **Ecological significance:** Nectriopsis species play roles in regulating slime mold populations in natural ecosystems
-- **Biocontrol potential:** Species parasitizing pathogenic fungi could have applications in biological control
+- **[[lichen-biology-and-ecological-significance]]:** Nectriopsis species play roles in regulating slime mold populations in natural ecosystems
+- **Biocontrol potential:** Species parasitizing [[cordyceps-insect-pathogenic-fungi]] could have applications in [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
 - **Taxonomic importance:** The genus illustrates the high degree of host specialization among fungicolous Hypocreales
 - **Research interest:** Host specificity patterns (e.g., N. violacea on Fuligo, N. exigua on diverse hosts) provide insights into mycoparasite evolution
 
@@ -65,7 +65,7 @@ Nectriopsis species function primarily as biotrophic or necrotrophic mycoparasit
 
 - Rogerson and Stephenson (1993) — monograph on myxomyceticolous fungi
 - Samuels (1988) — revision of Hypocreales with fungicolous species
-- Hawksworth (1981b) — survey of fungicolous fungi
+- Hawksworth (1981b) — survey of [[fungicolous-fungi-associations]]
 - Diederich and Etayo (2000) — lichenicolous species
 
 ## Notes
@@ -121,7 +121,7 @@ The genus Nectriopsis overlaps morphologically with Nectria and related genera. 
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

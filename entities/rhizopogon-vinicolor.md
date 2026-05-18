@@ -34,7 +34,7 @@ Rhizopogon vinicolor is an ectomycorrhizal fungus that forms
 symbiotic associations with the roots of forest trees, facilitating
 [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 processes and the potential for [[psilocybin-north-america-pacific-northwest]], where it
-contributes to belowground nutrient dynamics and carbon cycling
+contributes to belowground [[mycelial-network-nutrient-dynamics-and-imaging]] carbon cycling
 through its extensive [[cenococcum-geophilum]], [[ph-and-nutrient-availability-garden-soils]] in forest soils.
 
 The ability to solubilize calcium-bearing minerals suggests that R.
@@ -63,12 +63,12 @@ the bioavailability of harmful chemicals to non-target organisms and
 contribute to the natural attenuation of contaminated sites. The
 ability of ectomycorrhizal fungi like R. vinicolor to metabolize
 organic pollutants adds an important dimension to their ecological
-role beyond nutrient cycling and plant growth promotion.
+role beyond [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] [[pseudomonas-endophyte-cannabis-endorhiza-plant-growth-promotion]].
 
 ## Overview
 
 Rhizopogon Vinicolor represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -89,7 +89,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Rhizopogon Vinicolor finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -118,7 +118,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 rhizopogon vinicolor and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

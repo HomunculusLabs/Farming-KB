@@ -1,5 +1,5 @@
 ---
-title: [[palmer-mushroom-charts-american-mycological-education]] and Mycological Education
+title: Palmer Mushroom Charts Mycological Education
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

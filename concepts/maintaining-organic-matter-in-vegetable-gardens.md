@@ -1,5 +1,5 @@
 ---
-title: Maintaining hamilton-composting-and-organic-matter-management in [[soil-ph-management-for-vegetable-gardens]]
+title: Maintaining Organic Matter In Vegetable Gardens
 created: 2026-04-28
 tags: [organic-matter, compost, green-manure, soil-health, vegetable-gardening]
 date: 2026-04-28

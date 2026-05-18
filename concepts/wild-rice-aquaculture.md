@@ -72,9 +72,48 @@ biodiversity conservation, and sustainable food production systems.
 Key factors include site-specific conditions, climate adaptation,
 and integration with existing ecological and social systems.
 
+## Environmental Considerations
+
+Water management decisions affect downstream ecosystems and
+communities. Sustainable approaches balance human needs with
+ecosystem requirements for maintaining aquatic habitats and water
+quality. Wetland restoration provides natural filtration and flood
+control services. Riparian buffer zones protect waterways from
+agricultural runoff. Integrated water resource management considers
+the entire watershed as an interconnected system.
+
+## Ecological Integration
+
+Water features in sustainable systems serve multiple functions beyond
+irrigation. Ponds and wetlands support beneficial insect populations
+that provide pest control. Aquaculture integration produces protein
+while nutrient-rich water fertilizes crops. Edge plantings around
+water features create wildlife corridors and windbreaks. Water storage
+moderates microclimate temperatures, reducing frost risk in adjacent
+growing areas. These multi-functional designs exemplify permaculture
+principles of stacking functions and beneficial connections.
+
+These integrated systems demonstrate the potential of aquaculture to produce nutritious food while maintaining ecological integrity.
+
 ## See Also
 - [[fukuoka-ideal-rice-plant-form-high-yield-cultivation]]
 - [[zizania-wild-rice-mollison]]
 - [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]
 - [[wild-rice-and-taro-polycultures]]
 - [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
+## System Design
+
+Water management integrates multiple strategies for capture, storage,
+and efficient distribution. Swales slow surface runoff promoting
+infiltration. Ponds store water for dry-season irrigation while
+providing habitat. Keyline design optimizes distribution across
+landscapes by identifying natural drainage patterns. Drip irrigation
+delivers water directly to root zones, minimizing evaporation losses.
+
+## Water Quality
+
+Maintaining quality requires attention to biological, chemical, and
+physical parameters. Biological filtration through wetlands removes
+pathogens and excess nutrients. pH management ensures nutrient
+availability. Dissolved oxygen supports aerobic decomposition.
+Regular testing for contaminants protects system integrity.

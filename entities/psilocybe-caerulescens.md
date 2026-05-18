@@ -20,7 +20,7 @@ sources:
   - "Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species Including the History, Distribution and Chemistry of the Hallucinogenic Species. J. Cramer."
   - "Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World: An Identification Guide. Ten Speed Press."
   - "Schultes, R.E. & Hofmann, A. (1979). Plants of the Gods: Origins of Hallucinogenic Use. McGraw-Hill."
-  - "Guzmán, G., Allen, J.W., & Gartz, J. (2000). A worldwide [[psilocybe-geographical-distribution-patterns]] of the neurotropic fungi. An analysis and discussion. Annales des Sciences Naturelles, Botanique, 1(1), 71-86."
+  - "Guzmán, G., Allen, J.W., & Gartz, J. (2000). A worldwide psilocybe-geographical-distribution-patterns of the neurotropic fungi. An analysis and discussion. Annales des Sciences Naturelles, Botanique, 1(1), 71-86."
 ---
 
 # Psilocybe caerulescens

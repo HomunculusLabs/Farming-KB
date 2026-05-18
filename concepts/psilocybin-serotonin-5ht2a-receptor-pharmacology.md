@@ -1,5 +1,5 @@
 ---
-title: Psilocybin and Serotonin 5-HT2A [[cannabinoid-receptor-pharmacology]]
+title: Psilocybin Serotonin 5Ht2A Receptor Pharmacology
 created: 2026-04-26
 updated: 2026-04-24
 sources:

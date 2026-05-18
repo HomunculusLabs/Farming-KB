@@ -1,5 +1,5 @@
 ---
-title: Cannabis [[cultivar-endorhiza-bacterial-communities-cannabis]]
+title: Cannabis Endorhiza Bacterial Communities
 created: 2026-05-11
 updated: 2026-05-11
 type: concept

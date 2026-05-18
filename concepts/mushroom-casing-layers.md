@@ -58,24 +58,24 @@ complexity of day-to-day management and observation activities.
 ### Casing Moisture Management
 
 Proper moisture content is critical for casing performance. The casing
-should be moistened to field capacity — damp enough to hold together when
-squeezed but not dripping water. Overly wet casing restricts gas exchange
-and can promote anaerobic conditions favorable to contaminants. Overly dry
+should be moistened to [[bulk-substrate-field-capacity]] — damp enough to hold together when
+squeezed but not dripping water. Overly wet casing restricts [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]
+and can promote [[aact-ph-and-anaerobic-conditions]] favorable to contaminants. Overly dry
 casing fails to provide the humid microclimate needed for pin initiation.
 
 ## Future Directions
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
+ecology, data science, [[wasted-human-resources-and-traditional-knowledge]] systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

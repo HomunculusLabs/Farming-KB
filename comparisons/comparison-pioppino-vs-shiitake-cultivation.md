@@ -1,5 +1,5 @@
 ---
-title: "Pioppino vs Shiitake Cultivation"
+title: Comparison Pioppino Vs Shiitake Cultivation
 tags: [comparison, mushroom-cultivation, pioppino, shiitake, agrocybe, lentinula]
 date: 2026-05-10
 updated: 2026-05-10
@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Pioppino (Agrocybe aegerita) and shiitake (Lentinula edodes) are two
+Pioppino ([[agrocybe-aegerita-detailed]]) and shiitake (Lentinula edodes) are two
 popular cultivated mushrooms with distinct growing requirements, flavor
 profiles, and market positions. Shiitake is the second most cultivated
 mushroom worldwide, prized for its rich umami flavor and medicinal
@@ -50,7 +50,7 @@ categorized by fruiting temperature range.
 |--------|----------|----------|
 | Scientific Name | Agrocybe aegerita | Lentinula edodes |
 | Flavor | Mild, nutty, mellow | Rich umami, meaty |
-| Primary Substrate | Supplemented hardwood sawdust | Logs or supplemented sawdust |
+| Primary Substrate | Supplemented [[hardwood-sawdust-substrate]] | Logs or [[oyster-mushroom-supplemented-sawdust-blocks]] |
 | Colonization Speed | Fast (2-3 weeks) | Moderate (6-18 months logs; 4-8 weeks blocks) |
 | Fruiting Temp | 16-24°C | 10-25°C (strain dependent) |
 | Market Scale | Niche gourmet | Global commodity |
@@ -70,7 +70,7 @@ The species excels in outdoor permaculture settings where stump recycling
 is a goal. Landowners with recently felled cottonwoods, willows, or maples
 can inoculate stumps directly with pioppino spawn, converting waste wood
 into productive mushroom habitat. This aligns well with permaculture
-principles of stacking functions and closing nutrient loops.
+principles of [[williams-pdc-stacking-functions-and-system-integration]] closing nutrient loops.
 
 Pioppino also suits growers targeting niche restaurant markets or farmers'
 markets where distinctive gourmet varieties command premium prices. Its
@@ -85,7 +85,7 @@ world's second most cultivated mushroom means extensive resources, tested
 strains, and predictable economics. Both log and sawdust block methods
 are well-documented with decades of commercial refinement.
 
-For medicinal mushroom production, shiitake's beta-glucan content,
+[[regulatory-frameworks-for-medicinal-mushroom-products-worldwide]] production, shiitake's beta-glucan content,
 particularly lentinan, has extensive clinical research supporting
 immune-modulating and potential anti-tumor properties. Growers producing
 mushrooms for tinctures, extracts, or supplement markets benefit from

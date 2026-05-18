@@ -37,7 +37,7 @@ the length of hyphae:
    reticulate network of longitudinal tubes and small vesicles
 
 ### Diffusion as Transport Mechanism
-Fluorescence recovery after photobleaching (FRAP) experiments showed that
+[[fluorescence-recovery-after-photobleaching]] photobleaching (FRAP) experiments showed that
 diffusion is sufficient to explain observed transport within the vacuolar
 system. Fick's first law was used to calculate effective diffusion
 coefficients for each compartment type. Monte Carlo simulations of 1,000
@@ -57,7 +57,7 @@ A novel non-invasive technique was developed to track radiolabeled
 2. **Asymmetric growth phase** — sparser, directional growth focused toward
    resources, with canalized flow patterns emerging in cords
 
-The transition between phases depends on nutrient availability and colony
+The transition between phases depends on [[chelation-and-nutrient-availability]] and colony
 age. This biphasic pattern can be described by two superimposed logistic
 equations, allowing normalization across experiments.
 
@@ -74,7 +74,7 @@ suggesting that fungi can distinguish between resource quality.
 ## Pulsatile Transport Component
 
 In addition to steady-state translocation, a strong pulsatile component was
-discovered associated with rapid nutrient movement through corded mycelial
+discovered associated with rapid [[nutrient-movement-through-soil-to-plant-roots]] corded mycelial
 systems. Fourier analysis of time-series data from discrete regions revealed:
 
 - Both assimilatory (central) and foraging (peripheral) mycelium pulse
@@ -107,7 +107,7 @@ visible colony boundaries when validated against bright-field images.
 
 ## Ecological Implications
 
-The ability to image nutrient transport in real-time across intact mycelial
+The ability to image [[pulsatile-nutrient-transport-in-fungal-mycelia]] real-time across intact mycelial
 networks has profound implications for understanding fungal ecology:
 
 1. **Resource foraging strategy**: Fungi do not grow randomly — they
@@ -118,12 +118,12 @@ networks has profound implications for understanding fungal ecology:
 3. **Competitive ability**: Species with more efficient internal transport
    can dominate resource-poor environments by importing nutrients from
    distant resource-rich zones
-4. **Decomposition ecology**: Understanding transport helps predict how
+4. **[[fungal-decomposition-ecology]]**: Understanding transport helps predict how
    fungi partition carbon and nitrogen during decomposition, affecting
    nutrient cycling rates
 
 ## See Also
 
 - [[fungi-in-the-environment-fungal-ecosystems]]
-- mycelial networks fungal resource sharing
+- mycelial networks fungal [[mycelial-network-resource-sharing-plants]]
 - fungal ecosystem carbon cycling

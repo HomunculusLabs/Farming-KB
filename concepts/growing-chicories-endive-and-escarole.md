@@ -1,5 +1,5 @@
 ---
-title: [[growing-chicories-endive-radicchio]] and Escarole
+title: Growing Chicories Endive And Escarole
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

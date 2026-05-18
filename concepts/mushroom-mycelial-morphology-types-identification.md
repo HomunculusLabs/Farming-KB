@@ -1,5 +1,5 @@
 ---
-title: "Mushroom [[growing-gourmet-mycelial-morphology-classification-agar-media]] Types and Identification"
+title: Mushroom Mycelial Morphology Types Identification
 source: "Growing Gourmet and Medicinal Mushrooms (Stamets)"
 aliases:
   - mycelial types mushroom

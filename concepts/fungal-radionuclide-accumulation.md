@@ -1,5 +1,5 @@
 ---
-title: '[[dighton-fungal-radionuclide-accumulation-ecosystem-retention]]'
+title: Fungal Radionuclide Accumulation
 source: 'john-dighton-fungi-in-ecosystem-processes.md'
 type: concept
 ---

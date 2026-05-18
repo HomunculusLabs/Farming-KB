@@ -35,7 +35,7 @@ Slurricane is a potent i [[allegro-amanita-muscaria-properties-and-pharmacology]
   × Gelato crosses, Slurricane × Runtz derivatives appearing in
   the modern market
 - **Related strains:** Purple Punch, Do-Si-Dos, Granddaddy Purple,
-  Girl Scout Cookies, OG Kush (distant ancestor)
+  [[oner-cookie-wreck-trainwreck-girl-scout-cookies-hybrid]], OG Kush (distant ancestor)
 
 ## Cultural Significance
 
@@ -74,7 +74,7 @@ inherent in working with natural systems and plans accordingly rather
 ## Overview
 
 Slurricane represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Slurricane finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -103,13 +103,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for slurricane. Climate adaptation
+opportunities for slurricane. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 slurricane and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,5 +1,5 @@
 ---
-title: "[[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] Foundations"
+title: Psychedelic Therapy Foundations
 created: 2026-04-28
 tags: [psychedelic-therapy, psilocybin, Harvard, Leary, clinical-research, mystical-experience
 date: 2026-04-25

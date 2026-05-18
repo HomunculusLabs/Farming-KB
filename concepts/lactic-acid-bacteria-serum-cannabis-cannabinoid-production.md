@@ -20,10 +20,10 @@ the observed effects.
 The concept of using beneficial microbial consortia in agriculture was
 popularized by Teruo Higa through his work on Effective Microorganisms
 (EM). Higa's original EM formulation described an inoculant of multiple
-species of beneficial microorganisms providing suppression of plant
+species of [[forest-and-bamboo-beneficial-microorganisms]] providing suppression of plant
 pathogens and diseases, conservation of energy in plants, solubilization
 of soil minerals, and soil microbial-ecological balance,
-photosynthetic efficiency, and biological nitrogen fixation. The
+[[photosynthetic-efficiency]], and [[biological-nitrogen-fixation-agriculture]]. The
 original blend included lactic acid bacteria, purple bacteria, yeast,
 actinomycetes, and fermenting fungi. Higa later revised the mixture to
 include only lactic acid bacteria, purple bacteria, and yeast.
@@ -32,7 +32,7 @@ LABS represents a simplified, DIY-accessible version of this concept,
 focusing specifically on the lactic acid bacteria component. These
 bacteria have demonstrated value as bio-fertilizers: in greenhouse
 tomato trials, a bio-fertilizer containing Lactobacillus casei,
-Lactobacillus lactis, Rhodopseudomonas palustris, and Saccharomyces
+Lactobacillus lactis, [[rhodopseudomonas-palustris]], and Saccharomyces
 cerevisiae increased total tomato yield by 19 to 21 percent after soil
 application and by 13 to 14 percent after foliar application when
 combined with humic fertilizer from vermicompost. Beyond their
@@ -88,7 +88,7 @@ six-carbon short-chain fatty acid with the molecular formula C6H12O2.
 
 ### Biochemical Pathway
 
-Cannabinoid biosynthesis in [[cannabis-sativa|Cannabis sativa]] begins with two precursor
+Cannabinoid biosynthesis in [[cannabis-sativa]] begins with two precursor
 molecules: geranyl pyrophosphate (GPP) and olivetolic acid (OA). GPP
 provides the terpene moiety and OA provides the phenolic moiety. The
 enzyme cannabigerolic acid synthase (CBGAS) joins these to form
@@ -122,7 +122,7 @@ plants, the hexanoic acid in the serum is taken up by plant tissues
 and converted to hexanoyl-CoA by the plant's acyl-activating enzymes.
 This increased supply of hexanoyl-CoA stimulates olivetolic acid
 production, which in turn increases the flux through the cannabinoid
-biosynthesis pathway, resulting in higher concentrations of THCA, CBDA,
+[[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]], resulting in higher concentrations of THCA, CBDA,
 and other cannabinoids in the glandular trichomes.
 
 ## Hexanoic Acid as a Plant Defense Priming Agent
@@ -132,7 +132,7 @@ been identified as a potent natural priming agent for plant defense
 responses. Research has demonstrated that hexanoic acid can activate
 broad-spectrum defenses in plants by inducing callose deposition and
 activating both the salicylic acid (SA) and jasmonic acid (JA)
-signaling pathways. These pathways are central to the plant's ability
+[[plant-signaling-pathways]]. These pathways are central to the plant's ability
 to resist pathogen attack.
 
 Of particular relevance to cannabis cultivation, hexanoic acid primes

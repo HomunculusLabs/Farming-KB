@@ -1,5 +1,5 @@
 ---
-title: [[mycorrhizal-diversity-and-ecosystem-function]] Leaf Litter Effects
+title: Mycorrhizal Diversity And Leaf Litter Effects
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

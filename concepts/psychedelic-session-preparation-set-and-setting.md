@@ -1,5 +1,5 @@
 ---
-title: [[psychedelic-session-instructions]] Preparation — [[lsd-set-and-setting-framework]]
+title: Psychedelic Session Preparation Set And Setting
 source: leary-t-the-psychedelic-experience.md
 type: concept
 ---

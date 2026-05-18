@@ -1,5 +1,5 @@
 ---
-title: [[comparison-laminar-flow-hood-vs-fruiting-chamber]] Construction for Tissue Culture
+title: Laminar Flow Hood Construction Tissue Culture
 source: laminar-flow-hood-construction-1.md
 type: concept
 ---

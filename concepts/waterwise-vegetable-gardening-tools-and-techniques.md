@@ -1,5 +1,5 @@
 ---
-title: Waterwise [[dryland-vegetable-gardening]] — [[levelling-tools-and-techniques]]
+title: Waterwise Vegetable Gardening Tools And Techniques
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

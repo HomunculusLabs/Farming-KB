@@ -9,7 +9,7 @@ tags: [fertilizer, mineral-extract, trace-elements, evaporite, foliar-spray]
 
 ## Description
 
-Bitterns are the concentrated, bitter oily liquid residue that remains after common salt (sodium chloride) has been crystallized out of evaporating seawater. This byproduct of salt production is exceptionally rich in potassium, magnesium, bromine, and a wide spectrum of trace minerals and rare elements. In permaculture and sustainable agriculture, bitterns serve as a potent, low-cost source of micronutrients and trace elements for soil amendment and [[foliar-feeding]].
+Bitterns are the concentrated, bitter oily liquid residue that remains after common salt (sodium chloride) has been crystallized out of evaporating seawater. This byproduct of salt production is exceptionally rich in potassium, magnesium, bromine, and a wide spectrum of trace minerals and rare elements. In permaculture [[soil-health-ethics-and-sustainable-agriculture]], bitterns serve as a potent, low-cost source of [[teaming-with-nutrients-micronutrients-and-trace-elements]] elements for soil amendment and [[foliar-feeding]].
 
 ## Classification
 
@@ -44,7 +44,7 @@ Bitterns contain a concentrated suite of elements from the periodic table, inclu
 2. As water evaporates, calcite and dolomite precipitate first
 3. Gypsum and anhydrite crystallize next
 4. Rock salt (halite) deposits form
-5. The remaining concentrated liquid is bitterns — rich in the most soluble minerals
+5. The remaining concentrated liquid is bitterns — rich in the most [[natural-farming-water-soluble-minerals-seawater-and-brv]]
 
 This sequential precipitation means bitterns contain exactly those minerals most likely to be leached from soils.
 
@@ -68,7 +68,7 @@ This sequential precipitation means bitterns contain exactly those minerals most
 ## Overview
 
 Bitterns represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -89,7 +89,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Bitterns finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -118,7 +118,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 bitterns and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

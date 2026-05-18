@@ -1,5 +1,5 @@
 ---
-title: [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] Chamber [[accessible-mushroom-cultivation-for-disabilities]]
+title: Plastic Bin Fruiting Chamber Mushroom Cultivation
 concept_type: technique
 source: Cultivation of fruitbodies and sclerotia on sterilised grass seed
 domain: mycology

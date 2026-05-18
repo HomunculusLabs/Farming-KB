@@ -1,5 +1,5 @@
 ---
-title: Humid Cool [[cool-humid-climate-characteristics]] (Mollison)
+title: Humid Cool Climate Characteristics Mollison
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

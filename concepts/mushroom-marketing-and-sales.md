@@ -1,5 +1,5 @@
 ---
-title: [[duggar-mushroom-marketing-economics-1915]] and Sales
+title: Mushroom Marketing And Sales
 source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---

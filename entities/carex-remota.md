@@ -13,7 +13,7 @@ sources:
   - Jermy, A.C. et al. (2007). *The Illustrated Field Flora of Britain and Northern Europe*. Blume.
   - Stace, C.A. (2019). *New Flora of the British Isles*, 4th ed. C&M Floristics.
   - Luceño, M. & Jiménez-Mejías, P. (2008). "Systematics and evolution of Carex section Sylvaticae." *Botanical Review* 74: 1-30.
-  - Global Biodiversity Information Facility (GBIF). *Carex remota L.* https://www.gbif.org/species/2723185
+  - [[psilocybe-genus-global-biodiversity]] Information Facility (GBIF). *Carex remota L.* https://www.gbif.org/species/2723185
   - Ellenberg, H. (1988). *Vegetation Ecology of Central Europe*. Cambridge University Press.
 ---
 
@@ -21,7 +21,7 @@ sources:
 
 **Carex remota** is a perennial sedge of the family Cyperaceae, commonly known as remote sedge or distant sedge. It is native to Europe and western Asia, where it grows in damp woodland, stream banks, and shady wet habitats.
 
-The species epithet "remota" refers to the widely spaced, distant female spikes along the culm. This arrangement is distinctive and aids field identification.
+The species epithet "remota" refers to the widely spaced, distant female spikes along the culm. This arrangement is distinctive and aids [[amanita-muscaria-physical-description-field-identification]].
 
 Carex remota belongs to Carex section Sylvaticae, a group of shade-tolerant woodland sedges. The species typically flowers from May through June.
 
@@ -43,7 +43,7 @@ Glumes are ovate, pale green to brownish with a green midrib. Utricles are 3 to 
 
 The utricle beak is short and bidentate. Stigmas are two per flower.
 
-Nutlets are biconvex, approximately 1.8 mm long, and brown at maturity. Seed production is moderate, and the species also spreads through creeping rhizomes.
+Nutlets are biconvex, approximately 1.8 mm long, and brown at maturity. [[cannabis-controlled-pollination-seed-production]] is moderate, and the species also spreads through creeping rhizomes.
 
 The rhizome system is shallow and creeping, allowing the species to colonize bare soil along stream banks and in disturbed woodland clearings. Individual clones can spread over several meters.
 

@@ -1,5 +1,5 @@
 ---
-title: Seed Saving and Heirloom Varieties from comparison-natural-farming-vs-permaculture
+title: Natural Farming Guide Seed Saving And Heirloom Varieties
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -11,7 +11,7 @@ tags: [natural-farming, plant-growth]
 
 # Seed Saving and Heirloom Varieties
 
-Seed saving is a critical skill for self-reliant farming and a core practice in permaculture. It preserves genetic diversity, reduces dependence on commercial seed suppliers, and allows farmers to select for traits adapted to their specific conditions. Seed sharing is identified as one of the foundational activities of permaculture culture, alongside organic agriculture, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are more likely to be disease-resistant. Seed saving from hybrids is explicitly cautioned against: "You can save seed from your second crop of grain (unless you're using a hybrid)." [[cannabis-seed-selection-and-strain-types]] and storage:
+Seed saving is a critical skill for self-reliant farming and a core practice in permaculture. It preserves [[biodiversity-fungal-genetic-diversity]], reduces dependence on commercial seed suppliers, and allows farmers to select for traits adapted to their specific conditions. Seed sharing is identified as one of the foundational activities of permaculture culture, alongside organic agriculture, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are more likely to be disease-resistant. Seed saving from hybrids is explicitly cautioned against: "You can save seed from your second crop of grain (unless you're using a hybrid)." [[cannabis-seed-selection-and-strain-types]] and storage:
 
 1. Save seed from your second crop of grain (not the first, and not from hybrids)
 2. Select the best seed heads: unbroken and healthy specimens only
@@ -77,10 +77,10 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 ## Research Context
 
-Research on natural farming guide seed saving and heirloom varieties continues to evolve with new findings emerging from
+Research on [[natural-farming-guide-biological-pest-control-predators]] seed saving and heirloom varieties continues to evolve with new findings emerging from
 both laboratory studies and field observations. Current investigations focus on
 optimizing parameters, understanding underlying mechanisms, and documenting
 outcomes across diverse conditions and geographic regions. Published literature
@@ -88,8 +88,8 @@ suggests multiple pathways for further exploration and refinement.
 
 ## Integration and Implementation
 
-Successful implementation of natural farming guide seed saving and heirloom varieties requires attention to site-specific
-conditions and adaptive management strategies. Integration with complementary
+Successful implementation [[four-principles-of-natural-farming]] guide seed saving and heirloom varieties requires attention to site-specific
+conditions and adaptive [[forest-management-strategies]]. Integration with complementary
 practices often enhances overall outcomes. Practitioners recommend starting with
 small-scale trials before scaling up, documenting results systematically to
 inform future decisions and share knowledge with the broader community.

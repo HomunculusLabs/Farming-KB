@@ -1,5 +1,5 @@
 ---
-title: "Pig Husbandry vs Goat Husbandry"
+title: Comparison Pig Husbandry Vs Goat Husbandry
 tags: [comparison, livestock, animal-husbandry, homesteading]
 date: 2026-05-09
 updated: 2026-05-09
@@ -29,7 +29,7 @@ textile production. This multi-product output makes goats uniquely flexible for
 smallholders who want daily returns rather than a single annual harvest.
 
 As browsers rather than grazers, goats prefer woody plants, brush, and weeds
-over pasture grass. This makes them ideal for clearing overgrown land,
+over [[mollison-designers-tropical-pasture-grass-species-and-establishment]]. This makes them ideal for clearing overgrown land,
 maintaining hedgerows, and controlling invasive species like multiflora rose,
 blackberry, and thistle. Their diet of rough browse means they require less
 supplemental grain than pigs — lactating does may receive one pound of grain per
@@ -41,7 +41,7 @@ challenge in [[goat-keeping]].
 Fencing must account for their reputation as escape artists. Woven wire at four
 to five feet with electric strands at top and bottom is standard, and even then
 goats will rub, lean, and climb to exploit any gap. Housing must be dry and
-well-ventilated — goats detest rain and are prone to respiratory illness from
+well-ventilated — goats detest rain and are prone to [[bloomfield-lycoperdonosis-puffball-spore-inhalation-respiratory-illness]] from
 ammonia buildup. Unlike pigs, goats produce relatively modest manure that is
 lower in nutrient density but easier to manage in small quantities.
 
@@ -55,7 +55,7 @@ lower in nutrient density but easier to manage in small quantities.
 | **Feed Conversion** | 2.5-4.5:1 | 4-6:1 (meat), daily milk output |
 | **Fencing Challenge** | Rooting under, pushing through | Climbing, squeezing through gaps |
 | **Climate Sensitivity** | Heat-sensitive, need wallows | Rain/wind-sensitive, need dry shelter |
-| **Manure Quality** | Very high nutrient density | Moderate nutrient density |
+| **[[manure-quality-and-fertilizer-values]]** | Very high nutrient density | Moderate nutrient density |
 | **Parasite Risk** | Moderate | High (barber pole worm) |
 | **Breeding Cycle** | 2 litters/year, 8-12 piglets | 1-2 litters/year, 1-4 kids |
 | **Handling Difficulty** | Strong, can be dangerous | Agile, can be stubborn |
@@ -64,7 +64,7 @@ lower in nutrient density but easier to manage in small quantities.
 
 Pigs are the best choice when your primary goal is efficient meat production on
 a moderate scale. A pair of pigs can yield 400-500 lbs of finished meat per
-year from a relatively small paddock, and their feed conversion efficiency
+year from a relatively small paddock, and their feed [[energy-conversion-efficiency]]
 means lower input costs per pound of protein compared to goats raised for meat
 alone. Their manure production is a significant asset in garden-intensive
 systems, providing large volumes of hot compost material. Pigs also excel at

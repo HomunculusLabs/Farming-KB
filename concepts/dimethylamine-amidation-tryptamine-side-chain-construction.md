@@ -1,5 +1,5 @@
 ---
-title: Dimethylamine Amidation Tryptamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]
+title: Dimethylamine Amidation Tryptamine Side Chain Construction
 tags: [dimethylamine, amidation, organic-synthesis, indole, glyoxalylamide, psilocin, shirota, laboratory-technique]
 date: 2026-04-28
 updated: 2026-04-28

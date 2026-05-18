@@ -1,5 +1,5 @@
 ---
-title: [[fungal-pulsatile-nutrient-transport-mycelial-networks]] in [[fungal-mycelial-networks-ecosystem-engineers]]
+title: Pulsatile Nutrient Transport Fungal Mycelia
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---

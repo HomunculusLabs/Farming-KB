@@ -15,9 +15,9 @@ tags: [soil-testing, laboratory-analysis, soil-fertility, pH, COF, complete-orga
 
 Solomon's most striking position on soil testing is his dismissal of pH correction as a primary concern: "You have read that the acidity or pH of soil should be corrected by liming. I suggest that you forget about pH."
 
-His reasoning draws on the work of soil scientist William Albrecht (cited in the book's bibliography). Solomon argues that:
+His reasoning draws on the work of soil scientist [[william-albrecht]] (cited in the book's bibliography). Solomon argues that:
 
-1. Liming to adjust [[soil-ph]] is relevant to conventional chemical farming but not to organic gardening
+1. Liming to adjust [[soil-ph]] is relevant to conventional chemical farming but not [[chemical-to-organic-gardening-paradigm]]
 2. The concept of soil pH as a primary driver of fertility is controversial among soil scientists
 3. Adding organic matter and balanced mineral amendments naturally corrects pH over time
 
@@ -25,7 +25,7 @@ His reasoning draws on the work of soil scientist William Albrecht (cited in the
 
 Solomon makes one important exception: "If a soil test shows your garden's pH is low and you are advised to lime to correct it — don't. Each year just add what I recommend in the sidebar 'Soil improving in a nutshell'; compost/manure and the recommended amounts of lime(s) per 1,000 square feet. Over time the pH will correct itself, more because of the organic matter than from adding calcium and/or magnesium."
 
-He continues: "If your soil test results show calcium as acceptable, use my full recommendation anyway because vegetables still need calcium and magnesium and in the right balance."
+He continues: "If your soil test results show calcium as acceptable, use my full recommendation anyway because vegetables still need [[dynamic-accumulator-plants-calcium-and-magnesium]] and in the right balance."
 
 ### The COF Solution to pH
 
@@ -51,11 +51,11 @@ In dry climates with clay soils, laboratory testing helps determine whether to u
 
 ### Agricultural Lime
 
-"Agricultural lime is relatively pure calcium carbonate." It raises pH (makes soil less acidic) and supplies calcium. Solomon notes that it is inexpensive when bought in large sacks from agricultural suppliers.
+"Agricultural lime is relatively pure [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]]." It raises pH (makes soil less acidic) and supplies calcium. Solomon notes that it is inexpensive when bought in large sacks from agricultural suppliers.
 
 ### Dolomite Lime
 
-Dolomite lime contains both calcium carbonate and magnesium carbonate. Solomon advises alternating between agricultural lime and dolomite lime from year to year to maintain the proper calcium-to-magnesium ratio. Excessive magnesium relative to calcium can tighten soil structure and reduce nutrient availability.
+Dolomite lime contains both calcium carbonate and magnesium carbonate. Solomon advises alternating between agricultural lime and dolomite lime from year to year to maintain the proper calcium-to-magnesium ratio. Excessive magnesium relative to calcium can tighten soil structure and reduce [[chelation-and-nutrient-availability]].
 
 ### Gypsum
 
@@ -82,7 +82,7 @@ Solomon argues that COF eliminates the need for regular soil analysis because:
 1. It provides all major plant nutrients (NPK) in balanced, plant-available forms
 2. The lime components automatically maintain calcium-magnesium balance
 3. Seed meals supply trace minerals along with nitrogen
-4. Annual application at recommended rates prevents both deficiency and excess
+4. Annual application at recommended rates prevents both [[knf-potassium-deficiency-and-excess]]
 
 The COF approach labeled with an NPK of approximately 4-3-2 — "potent stuff" by Solomon's assessment, sufficient for high-demand vegetables when combined with compost.
 

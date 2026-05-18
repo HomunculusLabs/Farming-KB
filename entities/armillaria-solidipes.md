@@ -133,5 +133,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[armillaria-bulbosa]]
 - [[armillaria-cepistipes]]
 - [[armillaria-largest-organism]]
-- [[armillaria-mellea-entity]]
+- [[armillaria-mellea]]
 - [[armillaria-ostoyae]]

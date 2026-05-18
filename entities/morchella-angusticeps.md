@@ -24,7 +24,7 @@ late as August in the mountains around Telluride under spruce.
 
 [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] with cottonwoods, elms, oaks, firs, and
 apples, especially hybrid cottonwoods, is recommended for outdoor
-cultivation efforts. The [[boletus-edulis-entity]]
+cultivation efforts. The [[boletus-edulis]]
 - [[morchella-deliciosa]]
 - morchella-sextelata
 ## Practical Considerations

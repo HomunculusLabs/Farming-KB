@@ -47,11 +47,11 @@ Gentry (1992) documented important structural differences across neotropical sit
 - Epiphytes constitute 12–16% of species at moist sites, rising to 25% at wet sites
 - Tree diversity is highest in the Neotropics, while Paleotropics support more non-tree plant species
 
-Whitaker (1965) noted an important counterpoint: highly productive climax forests can exhibit low tree diversity. For example, redwood forests contain as few as four tree species. This means that productivity alone does not predict fungal diversity — structural heterogeneity and host richness matter more.
+Whitaker (1965) noted an important counterpoint: highly productive climax forests can exhibit low tree diversity. For example, [[california-redwood-forests-mollison]] contain as few as four tree species. This means that productivity alone does not predict fungal diversity — structural heterogeneity and host richness matter more.
 
 ## Environmental Drivers of Fungal Diversity
 
-Several environmental factors influence the diversity of plant-parasitic fungi:
+Several [[duggar-mushroom-environmental-factors-temperature-moisture-light]] influence the diversity of plant-parasitic fungi:
 
 - **Moisture**: Increasing moisture levels correlate with higher fungal diversity, as sporulation, germination, and infection processes are water-dependent.
 - **Elevation**: Fungal diversity generally decreases with increasing elevation, likely reflecting reduced temperature and plant diversity at higher altitudes.
@@ -71,7 +71,7 @@ These ratios reflect differences in host longevity, tissue complexity, geographi
 
 Hirata (1986) provided quantitative data on the proportion of vascular plants hosting specific fungal groups:
 
-- **Powdery mildews**: 4.5% of vascular plants are hosts
+- **[[biodiversity-powdery-mildews]]**: 4.5% of vascular plants are hosts
 - **[[smut-fungi]]**: 4.8% in the British Isles; 3.2% in the United States
 - **Smut fungi in Latin America**: only 0.3% of plants are recorded as hosts
 
@@ -83,7 +83,7 @@ Endemism in plant-associated fungi is highest in isolated biomes — islands, mo
 
 ## Case Study: Chestnut Blight in the Great Smoky Mountains
 
-The introduction of chestnut blight (*[[cryphonectria-parasitica]]*) into eastern North America dramatically altered forest composition in the Great Smoky Mountains by eliminating American chestnut as a dominant canopy tree. This catastrophic event illustrates how a single fungal species can reshape entire ecosystems, eliminating host-specific fungal communities along with their host and triggering cascading effects on [[fungal-diversity-estimates]] for the region.
+The introduction of chestnut blight (*[[cryphonectria-parasitica]]*) into [[polypore-fungi-eastern-north-america]] dramatically altered forest composition in the Great Smoky Mountains by eliminating American chestnut as a dominant canopy tree. This catastrophic event illustrates how a single fungal species can reshape entire ecosystems, eliminating host-specific fungal communities along with their host and triggering cascading effects on [[fungal-diversity-estimates]] for the region.
 
 ## Assessing Species Richness and Abundance
 
@@ -111,7 +111,7 @@ Standard plant pathology methods — designed for monoculture pathogen monitorin
 Effective sampling design must account for:
 
 - **Vegetation type**: Liana forests, grass savannas, montane cloud forests, and other formations each present distinct sampling challenges.
-- **Objective**: Whether the goal is inventory completeness, comparative diversity assessment, or ecological interaction study.
+- **Objective**: Whether the goal is inventory completeness, comparative [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]], or ecological interaction study.
 - **Fungus type**: Epiphylls, endophytes, and pathogens each require different collection and isolation methods.
 - **Host interaction type**: The nature of the fungus–host relationship determines appropriate quantification methods.
 
@@ -135,7 +135,7 @@ The biological mode of infection dictates how individual infections are counted:
 
 Anthracnose diseases are caused by the teleomorph *Glomerella* (Phyllachoraceae) and its *Colletotrichum* anamorph. Approximately nine species of *Colletotrichum* are recognized, with numerous subspecies. *G. cingulata* (*C. gloeosporioides*) is the most common tropical pathogen, infecting avocado, citrus, mango, papaya, passion fruit, guava, cocoa, and rubber.
 
-Morphological features include sunken irregular necrotic lesions that may appear cankerous, scablike, or wartlike on fruits. Conidia are produced in acervuli as mucilaginous pink or salmon masses, accompanied by dark brown setae. Conidia are hyaline and aseptate, and germination produces appressoria — specialized infection structures. *Glomerella* teleomorph production is inconsistent in culture; appressoria can be reliably induced by placing conidia in a water drop on a slide within a moist chamber overnight.
+Morphological features include sunken irregular necrotic lesions that may appear cankerous, scablike, or wartlike on fruits. Conidia are produced in acervuli as mucilaginous pink or salmon masses, accompanied by dark brown setae. Conidia are hyaline and aseptate, and germination produces appressoria — specialized [[fungal-appressorium-and-infection-structures]]. *Glomerella* teleomorph production is inconsistent in culture; appressoria can be reliably induced by placing conidia in a water drop on a slide within a moist chamber overnight.
 
 ### Clavicipitaceae (Hypocreales, Ascomycota)
 

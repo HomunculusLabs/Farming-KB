@@ -81,3 +81,8 @@ Psilocybin's anti-addictive potential may involve 5-HT2A-mediated neuroplasticit
 
 ## See Also
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
+- [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]
+- [[emcdda-psilocybin-psilocin-serotonin-5ht2a-receptor-pharmacology]]
+- [[emcdda-hallucinogenic-mushroom-chemistry-psilocybin-5ht2a-pharmacology]]
+- [[psychedelic-tolerance-5ht2a-receptor-tachyphylaxis]]
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]

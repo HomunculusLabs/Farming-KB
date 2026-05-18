@@ -6,7 +6,7 @@ type: concept
 
 # Frost Protection Strategies
 
-Frost is one of the most significant limiting factors for agriculture and settlement in temperate and cold climates. Understanding the mechanisms that cause frost and the design strategies that mitigate it is essential for productive [[succession-planting]]** approach:
+Frost is one of the most significant limiting factors for agriculture and settlement in temperate and cold climates. Understanding the mechanisms that cause frost and the [[cold-climate-design-strategies]] that mitigate it is essential for productive [[succession-planting]]** approach:
 
 1. **Initial planting:** Plant the entire area with frost-tolerant pioneer species, such as silver wattle (*[[edge-effect]] is compounded because the "wet" edges are typically on the polar side of sites (most rain comes from the polar side), while the dry edges face the sun. This creates distinct microhabitats within relatively small areas.
 
@@ -18,14 +18,14 @@ The sunny edges of forests help protect seedlings from frost, making them ideal 
 
 ### Biomass as Thermal Mass
 
-All plants with high biomass (particularly trees) store heat in their mass, which is primarily water. Because water has a high specific heat, substantial plant mass buffers temperature fluctuations. Fairly small clearings within forest or dense planting can be frost-free even in cold climates, owing to the radiant heat contributed by surrounding vegetation.
+All plants with high biomass (particularly trees) store heat in their mass, which is primarily water. Because water has a high specific heat, substantial plant mass buffers temperature fluctuations. Fairly small clearings within forest or dense planting can be frost-free even [[query-how-do-i-grow-figs-in-cold-climates]], owing to the radiant heat contributed by surrounding vegetation.
 
 ### Color and Heat Absorption
 
 Tree bark and canopy color affect thermal performance:
 
 - **Dark evergreen trees** absorb and effectively re-radiate heat, making them valuable in cold-climate plantings.
-- **White-barked, shiny, or light-colored trees** reflect heat — beneficial in cool districts where reflected light onto adjacent surfaces is desired, on forest edges where light distribution matters, and where light itself is a limiting factor for understory growth.
+- **White-barked, shiny, or light-colored trees** reflect heat — beneficial in cool districts where reflected light onto adjacent surfaces is desired, on forest edges where [[cervantes-reflective-hoods-light-distribution]] matters, and where light itself is a limiting factor for understory growth.
 
 ### Water and Stone as Thermal Buffers
 
@@ -64,7 +64,7 @@ Reflective insulation loses effectiveness when it becomes dusty, dirty, or is pr
 Automatic heat transfer using [[thermosiphon]] effects is achieved by:
 
 1. Placing heat sources (solar collectors, fires) below storage and use points
-2. Inducing cross-ventilation through solar chimneys that draw in cool air
+2. Inducing cross-ventilation through [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]] that draw in cool air
 3. Actively fanning heated air to underfloor gravel storage systems
 4. Using heat exchangers to eliminate heat-induced condensation
 
@@ -75,7 +75,7 @@ Automatic heat transfer using [[thermosiphon]] effects is achieved by:
 - Choose house and garden sites on sun-facing slopes in the [[thermal-belt]]
 - Position below exposed hilltops (which are cold and windswept)
 - Position above cold valley floors (where dense cold air pools)
-- Maximize solar radiation exposure in subtropical to cool climates
+- Maximize [[albedo-and-solar-radiation]] exposure in subtropical to cool climates
 - Seek shelter from excessive radiation in hot climates
 
 ### Wind Shelter

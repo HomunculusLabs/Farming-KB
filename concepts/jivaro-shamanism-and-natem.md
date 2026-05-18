@@ -1,5 +1,5 @@
 ---
-title: [[harner-jivaro-shamanism-yage]] and Natem
+title: Jivaro Shamanism And Natem
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---

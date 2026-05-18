@@ -1,5 +1,5 @@
 ---
-title: Livestock Grazing Strategies on Grasslands
+title: Livestock Grazing Strategies On Grasslands
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The management of livestock on grasslands and range is one of the most consequential human activities on Earth. Despite decades of nitrogen fertiliser application at 20 times pre-war rates, cattle and sheep carrying capacity per hectare has scarcely doubled — a gain attributable more to improved grain feeds and liming than to nitrogen itself. [[permaculture]] advocates a fundamental rethinking of grazing strategies, moving toward systems that mimic natural wildlife patterns and maintain long-term range productivity.
+The management of livestock on grasslands and range is one of the most consequential human activities on Earth. Despite decades of nitrogen fertiliser application at 20 times pre-war rates, cattle and sheep [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] per hectare has scarcely doubled — a gain attributable more to improved grain feeds and liming than to nitrogen itself. [[permaculture]] advocates a fundamental rethinking of grazing strategies, moving toward systems that mimic natural wildlife patterns and maintain long-term range productivity.
 
 ## The Nitrogen Fertiliser Problem
 
@@ -16,7 +16,7 @@ The great drive toward nitrogen fertiliser was driven originally by **war surplu
 
 - **Clover once supplied nitrogen free** but has been discouraged by repeated ploughing so that grass would grow
 - Scattered **leguminous trees on range** are now known to supply sufficient nitrogen
-- **Free-living soil bacteria and algae** can be cultured and inoculated into soils to assist nitrogen fixation
+- **Free-living soil bacteria and algae** can be cultured and inoculated into soils to assist [[biological-nitrogen-fixation-agriculture]]
 
 Cattle on high-nitrogen sward develop an observable hunger for tree leaves and bark, so that trees which have stood for years in unfertilised pastures are "suddenly" attacked and killed by cattle where nitrogen is used. Clover can supply growth equivalent to **200 kg of nitrogen per hectare** and is far better utilised by cattle than the grass sward recommended by agricultural advisors.
 
@@ -87,7 +87,7 @@ This is the benchmark system against which all domestic systems should be measur
 - Pigs are used in advance to plough the ground for new sowings and root sets of comfrey
 - Documented success by Mr. J. Savage in Victoria, Australia
 - Comfrey is a key element, along with lucerne and grasses
-- The **"pig tractor" system** obviates mechanised tractors and improves soils
+- The **"[[pig-tractor-system]]" system** obviates mechanised tractors and improves soils
 - Attempts to reproduce the high yields of natural wildlife systems
 
 ### Fixed Stocking
@@ -127,7 +127,7 @@ Since the 1950s, leys have been used in subtropical regions with grass-legume mi
 
 ## Permanent Pasture and Soil Building
 
-Traditional cool temperate farm landscapes with soil health as a priority allocate:
+Traditional [[cool-temperate-establishment-and-pioneer-systems]] farm landscapes with soil health as a priority allocate:
 - **25% of land** to 1-4 year leys ([[red-clover]] as the legume)
 - **15-25%** to permanent pasture (white clovers)
 - **60%** to grains, green crop, and root crop
@@ -135,7 +135,7 @@ Traditional cool temperate farm landscapes with soil health as a priority alloca
 Under permanent grasses, soil [[crumb-structure]], humus, and soil nitrogen all show slow but steady improvement:
 - **25 years** needed to notice a pronounced effect
 - Cropped soils (0.11% nitrogen) climb to **0.17%** in 25 years and often require **100 years** to reach **0.25% nitrogen** under permanent grassland
-- Arable crops following leys show **increased yields for 3-4 years**
+- Arable crops following leys show **[[fukuoka-textdoc-increased-production-not-increased-yields]] for 3-4 years**
 - In every case, **legumes sown with grasses are essential** to soil improvement
 
 Modern farming rarely follows these conservative methods, prioritising short-term yields over long-term soil health.

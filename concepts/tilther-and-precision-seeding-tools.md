@@ -1,5 +1,5 @@
 ---
-title: The Tilther and [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] Tools
+title: Tilther And Precision Seeding Tools
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

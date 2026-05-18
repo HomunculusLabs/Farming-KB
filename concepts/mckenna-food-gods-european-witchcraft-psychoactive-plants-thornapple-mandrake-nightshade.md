@@ -1,5 +1,5 @@
 ---
-title: "[[european-witchcraft-hallucinogenic-plants]] and Psychoactive Plants: Thornapple, Mandrake, and Nightshade"
+title: Mckenna Food Gods European Witchcraft Psychoactive Plants Thornapple Mandrake Nightshade
 source: "Food of the Gods"
 source_author: "[[terence-mckenna]]"
 topics: ["psychoactive plants", "witchcraft", "European ethnobotany", "nightshades", "medieval history"]

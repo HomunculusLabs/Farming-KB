@@ -29,9 +29,9 @@ Psilocybin mushrooms are saprophytic fungi -- they obtain nutrients by decomposi
 The most characteristic habitat for many psilocybin species, particularly in tropical and subtropical regions:
 
 - **Primary species**: *Psilocybe cubensis* is the quintessential dung-inhabiting species, found on the dung of cattle, horses, and other herbivores across tropical and subtropical regions worldwide.
-- Other dung-associated species include *Panaeolus cyanescens*, *P. subbalteatus*, and *P. coprophila*.
+- Other dung-associated species include *[[panaeolus-cyanescens-bali-omelette]]*, *P. subbalteatus*, and *P. coprophila*.
 - Mushrooms typically fruit directly from dung pats or from soil heavily enriched with manure.
-- Seasonal availability depends on rainfall patterns; in tropical regions, fruiting can occur year-round during wet periods.
+- Seasonal availability depends on rainfall patterns; [[fukuoka-natural-farming-in-tropical-regions]], fruiting can occur year-round during wet periods.
 - McKenna noted that psilocybin mushrooms of the genus *Psilocybe* grow predominantly on the dung of ungulate herbivores, placing them in the ecological path of early hominids who hunted these animals.
 
 ### 2. Grasslands and Pastures
@@ -47,7 +47,7 @@ Temperate grassland habitats support some of the most widely distributed psilocy
 
 Urban and suburban environments support psilocybin mushrooms in landscaped areas:
 
-- **Primary species**: *Psilocybe cyanescens* ("wavy caps") has become naturalized worldwide in wood chip mulch used in landscaping, particularly in the Pacific Northwest of North America and Western Europe.
+- **Primary species**: *Psilocybe cyanescens* ("wavy caps") has become naturalized worldwide in wood chip mulch used in landscaping, particularly in the [[psilocybin-north-america-pacific-northwest]] [[huckleberries-and-wild-berries-of-north-america]] and Western Europe.
 - *Psilocybe allenii* and *P. ovoideocystidiata* also occur in mulched garden beds.
 - These species benefit from the nutrient-rich, moisture-retentive environment of hardwood bark mulch.
 - Fruiting typically occurs in autumn when temperatures drop and moisture increases.
@@ -75,7 +75,7 @@ Some psilocybin species are lignicolous (wood-decomposing):
 
 - **Primary species**: *Psilocybe subaeruginosa* (Australia) fruits on decaying hardwood logs and wood chips.
 - *Gymnopilus* species grow on decaying wood and tree stumps.
-- *Pluteus salicinus* occurs on decaying hardwood.
+- *[[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]* occurs on decaying hardwood.
 - Wood-inhabiting species typically require higher humidity and fruit in autumn.
 
 ### 7. Highland and Alpine Meadows

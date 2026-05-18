@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-This concept page summarizes the second experiment from Winston et al. (2014), which investigated how **cannabis cultivar (strain)**, **soil type**, and **sample compartment** interact to shape the root-associated microbiome. The experiment grew two cannabis strains — **White Widow** and **[[maui-wowie]]** — in two distinct soil types (MB and OC), providing a factorial design to disentangle these overlapping influences on microbial community composition.
+This concept page summarizes the second experiment from Winston et al. (2014), which investigated how **cannabis cultivar (strain)**, **soil type**, and **sample compartment** interact to shape the root-associated microbiome. The experiment grew two cannabis strains — **White Widow** and **[[maui-wowie]]** — in two distinct soil types (MB and OC), providing a factorial design to disentangle these overlapping influences on microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## Experimental Design
 
@@ -17,7 +17,7 @@ This concept page summarizes the second experiment from Winston et al. (2014), w
 - **Sample compartments:** Bulk soil, [[rhizosphere]] soil, and endorhiza (root interior)
 - **Analysis:** 16S rRNA amplicon sequencing with OTU-based community profiling
 
-Variance in microbial community structure was partitioned using PERMANOVA (ADONIS) on both **unweighted** (presence/absence) and **weighted** (abundance-aware) UniFrac distances.
+Variance in [[edaphic-factors-microbial-community-structure]] was partitioned using PERMANOVA (ADONIS) on both **unweighted** (presence/absence) and **weighted** (abundance-aware) UniFrac distances.
 
 ## Beta Diversity: Partitioning the Drivers of Community Variation
 
@@ -47,7 +47,7 @@ Under weighted analysis, sample compartment and strain each explained more varia
 
 ### Strain-Specific Signatures
 
-Strain-level differences were driven by the prevalence of ***Sphingomonas wittichii*** in Maui Wowie. This species can **metabolize phenazine-1-carboxylic acid** — an antibiotic compound produced by certain soil bacteria — potentially conferring a competitive advantage in the rhizosphere. Its differential enrichment suggests cultivar-specific root exudate profiles select for functionally distinct microbial partners.
+Strain-level differences were driven by the prevalence of ***[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]*** in Maui Wowie. This species can **metabolize phenazine-1-carboxylic acid** — an antibiotic compound produced by certain soil bacteria — potentially conferring a competitive advantage in the rhizosphere. Its differential enrichment suggests cultivar-specific root exudate profiles select for functionally distinct microbial partners.
 
 ## Compartmental Differentiation: Bulk Soil → Rhizosphere → Endorhiza
 
@@ -68,7 +68,7 @@ Soil source identity persists as a legacy in the root microbiome and is not eras
 
 ## Cannabinoid Concentration and the Endorhiza Microbiome
 
-Cannabinoid concentration correlated with endorhiza community structure (unweighted r = 0.863, p = 0.001 between strains). However, this relationship is **confounded by soil type effects on THC production** — different soils produced different THC concentrations in the same strain, and soil type independently shapes microbial community structure. Disentangling whether cannabinoids directly influence the microbiome requires further experimentation.
+Cannabinoid concentration correlated with [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] (unweighted r = 0.863, p = 0.001 between strains). However, this relationship is **confounded by soil type effects on THC production** — different soils produced different THC concentrations in the same strain, and soil type independently shapes microbial community structure. Disentangling whether cannabinoids directly influence the microbiome requires further experimentation.
 
 ## Edaphic Factors as Master Regulators
 
@@ -82,7 +82,7 @@ All measured edaphic factors were significantly correlated with beta-diversity (
 | 4 | Water content | 0.281 |
 | 5 | pH | 0.221 |
 
-The same ranking held for unweighted UniFrac but with stronger correlations, consistent with soil factors primarily influencing taxon presence/absence. **Nitrogen and salinity** emerged as the strongest drivers, with practical implications for cannabis cultivation management.
+The same ranking held for unweighted UniFrac but with stronger correlations, consistent with soil factors primarily influencing taxon presence/absence. **Nitrogen and salinity** emerged as the strongest drivers, with practical implications for [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] management.
 
 ## Alpha Diversity Across Compartments
 
@@ -117,7 +117,7 @@ That strain influenced zero OTUs unweighted but 71 weighted provides definitive 
 
 1. **Soil provides the species pool** — Edaphic factors (especially nitrogen, salinity, carbon) determine which taxa are available; soil type exerts the strongest presence/absence effect
 2. **Compartment filters the community** — Progressive selection from bulk soil through rhizosphere to endorhiza reduces diversity, enriching Proteobacteria and depleting Acidobacteria
-3. **Cultivar fine-tunes abundances** — Strain does not determine *which* taxa colonize, but strongly modulates *how abundant* they become via exudate profiles and secondary metabolites
+3. **Cultivar fine-tunes abundances** — Strain does not determine *which* taxa colonize, but strongly modulates *how abundant* they become via exudate profiles [[plant-defense-chemistry-and-secondary-metabolites]]
 4. **Cannabinoid-microbiome correlations** are promising but confounded by soil effects, requiring controlled experiments for causal claims
 
 ## Key Takeaways

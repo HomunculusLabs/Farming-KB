@@ -1,5 +1,5 @@
 ---
-title: Slip Form Stone [[comparison-bamboo-vs-cordwood-construction]]
+title: Slip Form Stone Vs Cordwood Construction
 created: 2026-04-28
 subtitle: Comparing two owner-builder wall systems based on local stone, wood, mortar, and labor
 tags: [comparison, natural-building, slipform, cordwood, stone-masonry, homesteading]

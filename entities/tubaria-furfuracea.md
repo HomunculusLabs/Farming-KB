@@ -64,13 +64,13 @@ contains approximately 20 described species worldwide.
 Australia and New Zealand. The species fruits from late summer through
 autumn, with occasional fruitings in mild winters in maritime climates.
 It grows in dense clusters or tufts on dead twigs, small branches, bark,
-and [[galerina-marginata|Galerina marginata]], contain deadly
-amatoxins identical to those found in [[amanita-phalloides|Amanita phalloides]].
+and [[galerina-marginata]], contain deadly
+amatoxins identical to those found in [[amanita-phalloides]].
 
 ## Overview
 
 Tubaria Furfuracea represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -84,14 +84,14 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving tubaria extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
 ## Practical Applications
 
 Tubaria Furfuracea finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -99,13 +99,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for tubaria furfuracea. Climate adaptation
+opportunities for tubaria furfuracea. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -120,7 +120,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 tubaria furfuracea and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

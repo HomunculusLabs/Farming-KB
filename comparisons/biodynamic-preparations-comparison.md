@@ -32,11 +32,11 @@ Biodynamic agriculture, founded by Rudolf Steiner in his 1924 Agricultural Cours
 |---|---|---|---|---|---|
 | **BD 500** | Horn Manure | Cow manure buried in cow horn over winter | Field spray | Soil vitality, root growth, humus formation | Late afternoon in spring/autumn |
 | **BD 501** | Horn Silica | Finely ground quartz buried in cow horn over summer | Field spray | Photosynthesis, fruit quality, plant form | Early morning in spring/summer |
-| **BD 502** | Yarrow | *Achillea millefolium* flower heads in stag bladder | Compost | Sulfur/potassium processes, compost sensitivity | Inserted into compost pile |
-| **BD 503** | Chamomile | *Matricaria chamomilla* flowers in cattle intestine | Compost | Calcium stabilization, nitrogen retention | Inserted into compost pile |
+| **BD 502** | Yarrow | *[[achillea-millefolium]]* flower heads in stag bladder | Compost | Sulfur/potassium processes, compost sensitivity | Inserted into compost pile |
+| **BD 503** | Chamomile | *[[matricaria-chamomilla]]* flowers in cattle intestine | Compost | Calcium stabilization, nitrogen retention | Inserted into compost pile |
 | **BD 504** | Stinging Nettle | *Urtica dioica* whole plant, buried in soil | Compost | Iron regulation, soil intelligence, humus | Inserted into compost pile |
 | **BD 505** | Oak Bark | *Quercus robur* bark in sheep skull | Compost | Calcium strengthening, disease resistance | Inserted into compost pile |
-| **BD 506** | Dandelion | *Taraxacum officinale* flowers in cow mesentery | Compost | Silica activation, potassium-silicon relationship | Inserted into compost pile |
+| **BD 506** | Dandelion | *[[taraxacum-officinale]]* flowers in cow mesentery | Compost | Silica activation, potassium-silicon relationship | Inserted into compost pile |
 | **BD 507** | Valerian | *Valeriana officinale* flower juice expressed | Compost | Phosphorus mobilization, warmth, compost maturation | Sprayed over compost pile |
 | **BD 508** | Horsetail | *Equisetum arvenum* aerial parts decoction | Foliar spray | Fungal [[arbuscular-mycorrhizal-colonization-patterns]]
 - Support the "earthly" forces (gravity, crystallization, form-building from below)
@@ -48,7 +48,7 @@ Biodynamic agriculture, founded by Rudolf Steiner in his 1924 Agricultural Cours
 **Preparation:** Finely ground quartz (silica) crystals are packed into a cow horn and buried in the soil over summer, from spring equinox to autumn equinox (March–September). The horn is unearthed and the transformed silica is stirred (same vortex method as BD 500) and sprayed as a fine mist onto plant foliage.
 
 **Function:** BD 500's complement, working from "above":
-- Enhance photosynthetic efficiency and light absorption
+- Enhance [[photosynthetic-efficiency-and-climate-design]] light absorption
 - Improve fruit quality, flavor, color, and keeping quality
 - Strengthen plant form and structural integrity
 - [[fungal-environmental-sensing-signal-transduction-read]] |
@@ -56,7 +56,7 @@ Biodynamic agriculture, founded by Rudolf Steiner in his 1924 Agricultural Cours
 
 ## Supplementary: BD 508 — Horsetail
 
-Dried *Equisetum arvenum* herb is decocted (simmered 20–30 min), diluted 1:20–1:50, and sprayed as a foliar for silica-mediated **fungal disease suppression** (powdery mildew, botrytis) and cell wall strengthening. Often combined with BD 501.
+Dried *Equisetum arvenum* herb is decocted (simmered 20–30 min), diluted 1:20–1:50, and sprayed as a foliar for silica-mediated **[[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose]]** (powdery mildew, botrytis) and cell wall strengthening. Often combined with BD 501.
 
 ## Evidence Base
 
@@ -75,7 +75,7 @@ Dried *Equisetum arvenum* herb is decocted (simmered 20–30 min), diluted 1:20�
 
 **Biodynamic preparations suit you if:** seeking Demeter certification, committed to holistic/rhythmic farm management, or building compost as a central farm organism.
 
-**Organic alternatives if:** you need specific functions — compost tea or vermicompost for soil biology, potassium silicate for silica, gypsum/lime for calcium, *Trichoderma* or *Bacillus subtilis* for disease suppression.
+**Organic alternatives if:** you need specific functions — compost tea or vermicompost for soil biology, potassium silicate for silica, gypsum/lime for calcium, *Trichoderma* or *[[bacillus-subtilis]]* for disease suppression.
 
 ## See Also
 

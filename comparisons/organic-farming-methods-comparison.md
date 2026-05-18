@@ -1,5 +1,5 @@
 ---
-title: coleman-deep-organic-farming-philosophy [[cannabis-administration-methods-comparison]]
+title: Organic Farming Methods Comparison
 created: 2026-04-13
 updated: 2026-04-13
 type: comparison

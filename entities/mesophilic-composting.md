@@ -25,7 +25,7 @@ The mesophilic composting phase is the first and third stage of the composting c
 
 - **Endospore survival:** Many mesophilic organisms produce endospores -- spores resistant to chemicals and heat -- that enable them to survive the thermophilic phase. When temperatures drop back into the mesophilic range, these spores germinate and the organisms return to activity.
 
-- **Heat generation:** The metabolic activity of mesophilic organisms in the first phase generates heat that gradually raises the pile temperature from ambient to 104F (40C), at which point thermophilic organisms take over. This heat production is entirely biological, not solar.
+- **Heat generation:** The [[arbuscule-isolation-metabolic-activity-assays]] of mesophilic organisms in the first phase generates heat that gradually raises the pile temperature from ambient to 104F (40C), at which point [[thermophilic-organisms]] take over. This heat production is entirely biological, not solar.
 
 - **Maturation role:** During the final mesophilic phase (maturation), the most resistant plant component -- lignin -- is decomposed. Actinomycetes and basidiomycetes continue attacking difficult-to-digest plant remnants, and the earthy smell of good compost is produced.
 
@@ -46,7 +46,7 @@ The three-phase composting cycle as described by Lowenfels and Lewis:
 - Complex carbohydrates fully broken down
 - Hemicelluloses decayed
 - Pathogens and weed seeds destroyed
-- (See: Thermophilic Composting Phase entity page)
+- (See: [[thermophilic-composting]] Phase entity page)
 
 **Phase 3: Maturation Mesophilic (cooling back to 68-104F / 20-40C)**
 - Mesophilic organisms return from heat-protected endospores
@@ -92,11 +92,11 @@ The three-phase composting cycle as described by Lowenfels and Lewis:
 
 - **Earthy smell indicator:** The actinomycetes active during mesophilic maturation produce geosmin and other compounds that give good compost and soil their characteristic earthy smell. This is a practical quality indicator for cultivators.
 
-- **[[soil-aggregate-formation]]:** The mesophilic maturation phase produces soil aggregates through worm mucus binding and microbial activity. These aggregates improve water retention, aeration, and structure in garden beds and mushroom substrates.
+- **[[soil-aggregate-formation]]:** The mesophilic maturation phase produces soil aggregates through worm mucus binding and microbial activity. These aggregates improve water retention, aeration, and structure in garden beds and [[kh2po4-phosphate-supplementation-mushroom-substrates]].
 
-- **Biological diversity:** The return of mesophilic organisms after thermophilic pasteurization creates a diverse microbial community in finished compost. This diversity is what makes compost an effective soil inoculant.
+- **[[fungi-convention-on-biological-diversity]]:** The return of mesophilic organisms after thermophilic pasteurization creates a diverse microbial community in finished compost. This diversity is what makes compost an effective soil inoculant.
 
 ## References
 
-- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to [[the-soil-food-web]]*. Chapter 15: Compost.
+- Lowenfels, J. & Lewis, W. *[[teaming-with-microbes-actinomycetes]]: The Organic Gardener's Guide to [[the-soil-food-web]]*. Chapter 15: Compost.
 - Mesophilic and thermophilic stages are described in detail, including the role of endospores in organism survival and the return of mesophiles during maturation.

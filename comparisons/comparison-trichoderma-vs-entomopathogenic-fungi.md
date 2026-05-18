@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-trichoderma-vs-bacillus-vs-pseudomonas-biocontrol]] [[cordyceps-and-entomopathogenic-fungi]] Fungi"
+title: Comparison Trichoderma Vs Entomopathogenic Fungi
 created: 2026-04-28
 tags: [biocontrol, fungi, integrated-pest-management, mycopesticides, trichoderma]
 date: 2026-04-28

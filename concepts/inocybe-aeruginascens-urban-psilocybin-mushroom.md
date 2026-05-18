@@ -1,12 +1,12 @@
 ---
-title: Inocybe aeruginascens — Urban Psilocybin Mushroom
+title: Inocybe Aeruginascens Urban Psilocybin Mushroom
 source: magic-mushrooms-around-the-world-by-jochen-gartz.md
 type: concept
 ---
 
 # Inocybe aeruginascens — Urban Psilocybin Mushroom
 
-*[[inocybe-aeruginascens]]* is a psilocybin-containing mushroom belonging to the genus *Inocybe* (family Cortinariaceae), a group better known for producing the toxic compound **muscarine** in many of its approximately 160 European species. The discovery of psilocybin in *I. aeruginascens* was significant because it represented the first confirmation of the alkaloid in the *Inocybe* genus and, at the time, the family Cortinariaceae — challenging the hypothesis that psilocybin was a useful chemotaxonomic marker limited to specific fungal families.
+*[[inocybe-aeruginascens]]* is a psilocybin-containing mushroom belonging to the genus *Inocybe* (family Cortinariaceae), a group better known for producing the toxic compound **muscarine** in many of its approximately 160 European species. The [[discovery-of-psilocybin-mushrooms-by-western-science]] in *I. aeruginascens* was significant because it represented the first confirmation of the alkaloid in the *Inocybe* genus and, at the time, the family Cortinariaceae — challenging the hypothesis that psilocybin was a useful chemotaxonomic marker limited to specific fungal families.
 
 ## Discovery and Taxonomy
 
@@ -31,7 +31,7 @@ The Czech mycologist Herink claimed to have discovered the species during the 19
 - **1986, Potsdam:** 7 people (an extended family)
 - **1970, Budapest:** 1 person
 
-In all cases, symptoms subsided after several hours with no lasting side effects. Notably, despite the unfavorable psychological "set" of believing oneself to be poisoned by unknown mushrooms, all cases reportedly induced **euphoria** — a remarkable feature that distinguishes *I. aeruginascens* from most other psychoactive mushrooms in involuntary intoxication contexts.
+In all cases, symptoms subsided after several hours with no lasting side effects. Notably, despite the unfavorable psychological "set" of believing oneself to be poisoned by unknown mushrooms, all cases reportedly induced **euphoria** — a remarkable feature that distinguishes *I. aeruginascens* from most other [[ceremonial-shamanic-use-psychoactive-mushrooms]] in involuntary intoxication contexts.
 
 ## Habitat — Distinctly Urban
 
@@ -53,7 +53,7 @@ This urban habitat preference may explain its rapid expansion during the 1980s �
 Unlike the saprotrophic *Psilocybe* and *Panaeolus* species, *Inocybe aeruginascens* is a **mycorrhizal** mushroom — it requires a symbiotic relationship with certain tree species to fruit. Fruiting occurs at the time of greatest biochemical activity of the partner trees, in their root areas.
 
 - **Season:** Late May through October, with peak fruiting in May and June
-- **Fruiting trigger:** Extended rainfall
+- **[[cold-shock-fruiting-trigger-species-specificity-psilocybe-panaeolus]]:** Extended rainfall
 - **Ecology:** Grows in the root zones of various deciduous trees
 
 ## Morphology
@@ -73,7 +73,7 @@ Unlike thin-fleshed *Psilocybe* species, *I. aeruginascens* frequently suffers f
 
 ## Alkaloid Content
 
-*Inocybe aeruginascens* contains psilocybin at levels comparable to *Psilocybe mexicana*:
+*Inocybe aeruginascens* contains psilocybin at levels comparable to *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]*:
 
 | Location | Year Found | Year Analyzed | Psilocybin (% dry) |
 |---|---|---|---|

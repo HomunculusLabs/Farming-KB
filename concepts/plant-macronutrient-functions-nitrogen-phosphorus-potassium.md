@@ -1,5 +1,5 @@
 ---
-title: Plant [[plant-macronutrient-functions]] nitrogen [[soil-phosphorus-potassium-calcium-and-micronutrient-management]] Nitrogen solomon-phosphorus-potassium-and-secondary-nutrients
+title: Plant Macronutrient Functions Nitrogen Phosphorus Potassium
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

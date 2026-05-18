@@ -1,5 +1,5 @@
 ---
-title: "Surfactant-Enhanced staycare [[surfactant-enhanced-fungal-bioremediation]] bioavailability [[staycare-manganese-peroxidase-in-fungal-bioremediation]] Bioremediation"
+title: Staycare Surfactant Enhanced Bioavailability In Fungal Bioremediation
 created: 2026-04-28
 tags: [bioremediation, surfactants, bioavailability, pah, soil-remediation]
 date: 2026-04-25

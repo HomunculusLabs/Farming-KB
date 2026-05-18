@@ -24,7 +24,7 @@ The compound emerged in the early 2010s as part of the "bath salts" wave of nove
 
 Buphedone has never been investigated in formal [[blesching-cannabis-safety-profile]].
 
-The compound's legal status varies by jurisdiction, with most countries having enacted specific or generic controls. Online vendors continue to market analogs designed to circumvent existing legislation.
+The compound's [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction, with most countries having enacted specific or generic controls. Online vendors continue to market analogs designed to circumvent existing legislation.
 
 ## Chemical Properties
 
@@ -36,7 +36,7 @@ Buphedone exists as a racemic mixture in most commercial preparations. The hydro
 
 The compound is soluble in water and organic solvents. Its melting point is approximately 180–185°C for the hydrochloride salt.
 
-Spectral data for identification include characteristic IR absorption at the carbonyl stretch and specific mass fragmentation patterns detectable by GC-MS.
+[[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] for identification include characteristic IR absorption at the carbonyl stretch and specific mass fragmentation patterns detectable by GC-MS.
 
 Buphedone can be distinguished from mephedrone by mass spectrometry due to the absence of the 4-methyl group on the phenyl ring. This structural difference reduces molecular weight by 14 mass units.
 
@@ -74,7 +74,7 @@ Chronic use is associated with cardiovascular strain, sleep disruption, and cogn
 
 Overdose symptoms include severe hypertension, hyperthermia, seizures, and in extreme cases, stroke or cardiac arrest. No specific antidote exists, and treatment is supportive.
 
-Harm reduction approaches for buphedone emphasize avoiding redosing, staying hydrated, and never mixing with other stimulants or alcohol. Users should be aware of the high addiction potential before experimenting.
+[[adverse-effects-and-harm-reduction-psilocybin]] approaches for buphedone emphasize avoiding redosing, staying hydrated, and never mixing with other stimulants or alcohol. Users should be aware of the high addiction potential before experimenting.
 
 ## Legal Status
 
@@ -82,4 +82,4 @@ Buphedone is controlled as a scheduled substance in most jurisdictions. Many cou
 
 The United Kingdom controls buphedone as a Class B drug under the Misuse of Drugs Act. It was among the cathinones specifically scheduled in the 2010 generic cathinone ban.
 
-The United States prosecutes buphedone under the Federal Analogue Act as a Schedule I substance. Specific state-level scheduling varies, with most states enacting controls.
+The [[dmt-containing-plants-united-states-halpern]] prosecutes buphedone under the Federal Analogue Act as a Schedule I substance. Specific state-level scheduling varies, with most states enacting controls.

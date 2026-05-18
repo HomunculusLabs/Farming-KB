@@ -1,5 +1,5 @@
 ---
-title: Toadstool Eating and Amateur Mycology
+title: Toadstool Eating And Amateur Mycology
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
@@ -46,7 +46,7 @@ advice that passed for mushroom identification guidance. He systematically
 contradicted each commonly held belief:
 
 **"Mushrooms should peel like a potato."** Palmer agreed that many fungi peel
-readily, but noted that this was true of both edible and poisonous species.
+readily, but noted that this was true of both [[classification-of-edible-and-poisonous-mushroom-families]] species.
 
 **"The stem should come out like an umbrella handle."** Whole classes of
 fungi, many of them noxious, have free gills that cause the stem to separate
@@ -56,19 +56,19 @@ easily from the cap.
 the very best edible mushrooms grow in damp, dark places.
 
 **"Thin-capped mushrooms should be avoided."** The edible fairy ring
-mushroom (*Marasmius oreades*) has a notably thin cap.
+mushroom (*[[marasmius-oreades]]*) has a notably thin cap.
 
 **"Mushrooms with stems growing from the side are dangerous."** The elm-tree
 mushroom (*Agaricus ulmarius*) has an eccentric stem and is edible.
 
 **"All milky mushrooms are dangerous except the orange one."** The brown
-milk-mushroom (*Lactarius volemus*) and several others are edible.
+milk-mushroom (*[[lactarius-volemus]]*) and several others are edible.
 
 **"Equal-length gills indicate poison."** The entire Russula family has
 equal gills, and many are edible.
 
 **"Mushrooms that turn to dark liquid are poisonous."** The delicious
-shaggy mane (*Coprinus comatus*) literally dissolves into ink.
+shaggy mane (*[[coprinus-comatus]]*) literally dissolves into ink.
 
 **"Acrid-tasting mushrooms are poisonous."** The honey mushroom (*Agaricus
 melleus*) is very acrid raw but harmless when cooked.
@@ -114,7 +114,7 @@ beginners:
 - **Spreading hydnum (*Hydnum repandum*)**: Yellow, firm-fleshed, with
   distinctive teeth or spines under the cap. Safe for beginners.
 
-- **Giant puffball (*Lycoperdon giganteum*)**: Smooth skin, pure white inside.
+- **Giant puffball (*[[lycoperdon-giganteum]]*)**: Smooth skin, pure white inside.
   If the knife leaves a yellow stain, it is too old. No poisonous look-alike.
 
 ## See Also

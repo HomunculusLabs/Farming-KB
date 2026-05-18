@@ -1,5 +1,5 @@
 ---
-title: Minutina ([[plantago-coronopus]])
+title: Minutina
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [species, vegetable, cold-hardy, winter-crop, plantaginaceae]

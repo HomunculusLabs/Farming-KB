@@ -14,7 +14,7 @@ The core tool of bioregional monitoring is the **life census** — a comprehensi
 
 - **Tree cover** — total area and density of forested land
 - **Wildlife populations** — species counts and population trends
-- **Seaweed beds and marine resources** — health of coastal and aquatic ecosystems
+- **Seaweed beds and marine resources** — health of coastal and [[dighton-fungal-biomass-production-aquatic-ecosystems]]
 - **Bird colonies** — breeding success and colony size
 - **Species diversity counts** — total number of species present across taxa
 - **Productive cultivated land** — yield per hectare of agricultural land
@@ -23,7 +23,7 @@ When these metrics have increased in yield and maintained species diversity, the
 
 ## Biological-Environmental Accounting
 
-Some land trusts use biological-environmental accounting as the basis for "economic rent" — the value derived from stewardship of land and resources. In the event of a degenerative trend in biological indicators, this accounting can even serve as the basis for continuing occupation and use of the land. This creates a direct feedback loop between ecological health and land tenure.
+Some land trusts use biological-environmental accounting as the basis for "economic rent" — the value derived from stewardship of land and resources. In the event of a degenerative trend in [[biological-indicators-of-soil]], this accounting can even serve as the basis for continuing occupation and use of the land. This creates a direct feedback loop between ecological health and land tenure.
 
 ## Bioregional Refuges
 
@@ -40,7 +40,7 @@ When essential services within a bioregion are listed, deficiencies noted, and l
 | Indicator | Frequency | Method |
 |-----------|-----------|--------|
 | Tree cover area | Every 2-5 years | Aerial survey, satellite imagery |
-| Wildlife species counts | Every 2-5 years | Field surveys, camera traps |
+| Wildlife species counts | Every 2-5 years | [[fungal-inventory-protocols-field-surveys]], camera traps |
 | Seaweed bed extent | Annual | Coastal survey, aerial photography |
 | Bird colony health | Annual | Nest counts, breeding surveys |
 | Farmland yields | Annual | Harvest records per hectare |
@@ -75,7 +75,7 @@ Bioregional assessments can be organized into comprehensive categories covering 
 - [[bioregional-resource-index-permaculture]]
 
 ## Implementation Strategies
-Bioregional organization requires mapping local resources, identifying
+[[bioregional-organization]] requires mapping local resources, identifying
 ecological boundaries, and establishing governance structures that align
 with natural systems rather than political boundaries.
 
@@ -85,5 +85,5 @@ around watershed boundaries, local food systems, and shared resources.
 These examples provide templates for replication in diverse contexts.
 
 ## Challenges and Solutions
-Common challenges include jurisdictional conflicts, resource allocation,
+Common challenges include jurisdictional conflicts, [[mycelial-foraging-resource-allocation]],
 and balancing local autonomy with regional coordination needs.

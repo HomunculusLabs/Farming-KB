@@ -1,5 +1,5 @@
 ---
-title: Terence [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]] Hypothesis
+title: Terence Mckenna Tryptamine Hypothesis
 created: 2026-04-28
 tags:
   - terence-mckenna

@@ -19,7 +19,7 @@ host and **currants and gooseberries** (*Ribes* spp.) as the alternate
 First introduced to North America from Europe on infected white pine
 nursery stock around 1900, *C. ribicola* has caused mortality of
 millions of mature white pines and fundamentally altered forest
-composition across western and eastern North America.
+composition across western and [[polypore-fungi-eastern-north-america]].
 
 ## Classification
 
@@ -109,7 +109,7 @@ hosts essential for the disease cycle.
   on stumps), the presence of WPBR cankers may affect log quality
   and stand health
 - Affected white pine forests may have altered fungal species
-  composition, influencing wild mushroom foraging and cultivation site
+  composition, influencing [[emcdda-wild-mushroom-foraging-misidentification-hazards]] and cultivation site
   selection
 - *Ribes* plants, the alternate host, are themselves cultivated
   (gooseberries, currants) and may serve as a consideration in
@@ -137,14 +137,14 @@ hosts essential for the disease cycle.
 ## See Also
 
 - [Rust Fungi](rust-fungi.md)
-- [Puccinia graminis](puccinia-graminis.md) (wheat stem rust)
-- [Hemileia vastatrix](hemileia-vastatrix.md) (coffee rust)
-- [Endocronartium harknessii](endocronartium-harknessii.md) (pine gall rust)
+- [[puccinia-graminis]](puccinia-graminis.md) (wheat stem rust)
+- [[hemileia-vastatrix]](hemileia-vastatrix.md) (coffee rust)
+- [[endocronartium-harknessii]](endocronartium-harknessii.md) (pine gall rust)
 
 ## References
 
 - Agrios, G.N. 1988. *Plant Pathology*. Academic Press.
-- Callan, B.E. and Carris, L.M. Fungi on Living Plant Substrata,
+- Callan, B.E. and Carris, L.M. Fungi on [[fungi-living-plant-substrata]],
   Including Fruits. In: *Biodiversity of Fungi*.
 - Ziller, W.G. 1974. *The Tree Rusts of Western Canada*. Canadian
   Forestry Service Publication 1329.

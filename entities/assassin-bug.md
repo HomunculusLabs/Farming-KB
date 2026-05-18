@@ -24,21 +24,21 @@ Assassin bugs (family Reduviidae) are predatory true bugs recognized by their el
 - Both nymphs and adults are predatory
 - Many species practice "sticky trap" predation — coating their front legs with plant resins or glandular secretions to ensnare prey
 - Overwinter as adults or nymphs in protected locations (leaf litter, under bark, in mulch)
-- One generation per year for most species in temperate regions
+- One generation per year for most species in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 - Can deliver a painful bite if handled carelessly but are not aggressive toward humans
 
 ## Role in the Soil Food Web
 
 Assassin bugs function as mid-to-upper level predators in the garden food web. Their broad diet allows them to respond flexibly to pest outbreaks of many different species. By controlling flying insect pests (flies, mosquitoes) and foliage-feeding caterpillars, they complement the ground-level predation of ground beetles and the aphid-focused predation of lacewings and ladybird beetles.
 
-In the Lowenfels [[soil-food-web]] framework, assassin bugs represent the kind of beneficial predator that naturally colonizes gardens where chemical pesticide use has been eliminated. Their sensitivity to insecticides makes them excellent bioindicators — their presence suggests a relatively undisturbed insect community.
+In the Lowenfels [[soil-food-web]] framework, assassin bugs represent the kind of beneficial predator that naturally colonizes gardens where [[jadam-natural-vs-chemical-pesticide]] use has been eliminated. Their sensitivity to insecticides makes them excellent bioindicators — their presence suggests a relatively undisturbed insect community.
 
 ## Relevance to Cultivation and Mycology
 
 - **Broad-spectrum pest control**: Effective against flies, mosquitoes, caterpillars, and various foliage-feeding pests
 - **Vegetable garden ally**: Particularly valuable in annual and vegetable gardens where caterpillar pests are common
 - **No-till compatible**: Benefits from permanent mulch and minimal soil disturbance that provides overwintering habitat
-- **[[compost]] tea compatibility**: Gardens sprayed with compost tea instead of chemical pesticides support assassin bug populations
+- **[[compost]] tea compatibility**: Gardens sprayed with compost tea instead of [[comparison-parasitoid-wasps-vs-chemical-pesticides]] support assassin bug populations
 - **Indicator of ecosystem health**: Their presence indicates a diverse, functioning insect community without recent pesticide disruption
 - **Works with mycorrhizae**: By controlling above-ground pests, they reduce plant stress, supporting the below-ground [[mycorrhizal-networks]]
 
@@ -60,7 +60,7 @@ In the Lowenfels [[soil-food-web]] framework, assassin bugs represent the kind o
 
 ## Sources
 
-- Lowenfels & Lewis, *Teaming with Microbes* (Chapter 20: Growing Annuals and Vegetables)
+- Lowenfels & Lewis, *[[teaming-with-microbes-actinomycetes]]* (Chapter 20: [[growing-annuals-and-vegetables-with-soil-food-web]] Vegetables)
 ## Practical Applications
 Understanding this topic enables more effective decision-making in
 practical contexts. Key implementation considerations include assessing
@@ -70,7 +70,7 @@ on aligning practices with underlying biological and ecological principles.
 Documentation and observation support continuous improvement over time.
 
 ## Broader Context
-This subject connects to wider systems of ecological management,
+This subject connects to wider systems of [[solomon-gardening-aikido-pest-philosophy-ecological-management]],
 sustainable production, and environmental stewardship. Integration with
 related practices amplifies individual technique effectiveness and creates
 synergistic benefits. Ongoing research continues to refine understanding

@@ -1,5 +1,5 @@
 ---
-title: Fennel (Permaculture Resource)
+title: Fennel Permaculture
 source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
@@ -23,7 +23,7 @@ Fennel is a perennial herb in the carrot family (Apiaceae) that Mollison identif
 
 ### Licorice Production
 
-Through a simple steam distillation process, fennel yields a fraction that forms the basis for licorice flavoring. This easily separated component has significant commercial value in the food and confectionery industry. The distillation process is straightforward enough that a small-scale operator can process fennel on-site with minimal equipment.
+Through a simple [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] process, fennel yields a fraction that forms the basis for licorice flavoring. This easily separated component has significant commercial value in the food and confectionery industry. The distillation process is straightforward enough that a small-scale operator can process fennel on-site with minimal equipment.
 
 ### Essential Oil Value
 
@@ -35,7 +35,7 @@ Mollison describes a city farm of 18 acres completely covered with fennel, which
 
 ### Processing Scalability
 
-Once a client begins processing fennel, they can purchase additional fennel from surrounding areas and become a regional fennel processing center. The initial on-site fennel crop thus becomes the seed for a larger processing enterprise that creates income beyond the property boundaries.
+Once a client begins processing fennel, they can purchase additional fennel from surrounding areas and become a regional fennel processing center. The initial on-site fennel crop thus becomes the seed for a larger processing enterprise that creates income beyond the [[holzer-high-beds-property-boundaries]].
 
 ### Low-Technology Extraction
 
@@ -57,7 +57,7 @@ Mollison emphasizes that raw fennel has limited value, but simple processing (st
 
 ### Designer's Knowledge Requirement
 
-The fennel case study illustrates why permaculture designers need broad knowledge across disciplines — botany, chemistry, economics, and markets. Without knowledge of fennel's commercial fractions and extraction methods, a designer would see only a weed. With that knowledge, they see a business opportunity.
+The fennel case study illustrates why [[bill-mollison-permaculture-designers-manual]] need broad knowledge across disciplines — botany, chemistry, economics, and markets. Without knowledge of fennel's commercial fractions and [[arbuscular-mycorrhizal-spore-extraction-methods]], a designer would see only a weed. With that knowledge, they see a business opportunity.
 
 ### Regional Economic Development
 
@@ -77,4 +77,4 @@ The fennel processing model works because the technology (steam distillation) is
 
 ## Source Reference
 
-Mollison, Bill. *Permaculture Design Course Pamphlet VIII — Designing for Permaculture*. Yankee Permaculture, 1981.
+Mollison, Bill. *[[mollison-permaculture-design-course-curriculum]] Pamphlet VIII — Designing for Permaculture*. Yankee Permaculture, 1981.

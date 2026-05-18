@@ -1,5 +1,5 @@
 ---
-title: [[anunnaki]] And [[anunnaki-sumerian-origins-religious-law]] Of Religion
+title: Anunnaki And Sumerian Origins Of Religion
 source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---

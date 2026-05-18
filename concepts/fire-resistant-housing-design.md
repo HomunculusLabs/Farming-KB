@@ -1,5 +1,5 @@
 ---
-title: Fire-Resistant [[desert-housing-design]]
+title: Fire Resistant Housing Design
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

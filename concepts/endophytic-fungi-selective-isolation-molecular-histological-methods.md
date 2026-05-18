@@ -66,11 +66,11 @@ Many endophytic isolates fail to sporulate in culture, making morphological iden
 - **[[nucleic-acid]] sequencing** determines the approximate phylogenetic position of sterile isolates.
 - **Partial phylogenies** are constructed via PCR amplification of rRNA gene regions, particularly the ITS region and portions of the small and large subunits (Bruns et al. 1991; Berbee and Taylor 1992a,b; Carbone and Kohn 1993; Zambino and Szabo 1993; Swann and Taylor 1993–1995c; Monreal et al. 1999).
 - **Alignment and cladistic analysis** reveal phylogenetic relationships, allowing assignment to a taxonomic category (order, family, sometimes genus) even without a formal name.
-- Knowledge of phylogenetic placement enables researchers to **select appropriate growth conditions** to induce sporulation or seek the corresponding teleomorph fruit body.
+- Knowledge of phylogenetic placement enables researchers to **select appropriate [[psilocybin-potency-variation-species-strain-growth-conditions]]** to induce sporulation or seek the corresponding teleomorph fruit body.
 
 ### Anamorph–Teleomorph Connections
 
-- **RAPD fingerprinting + ITS sequencing**: *Trichoderma reesei* ↔ *Hypocrea jecorina* (Kuhls et al. 1996).
+- **RAPD fingerprinting + ITS sequencing**: *[[trichoderma-reesei]]* ↔ *Hypocrea jecorina* (Kuhls et al. 1996).
 - **ITS sequencing**: *Meria laricis* ↔ *Rhabdocline* genus, including *R. parkeri* (Gernandt et al. 1997).
 - Rehner and Samuels (1994) resolved multiple anamorph–teleomorph connections in the Hypocreales.
 
@@ -81,7 +81,7 @@ PCR-based methods detect and identify endophytes directly from colonized plant t
 - **Fungus-specific primers** exploit ITS sequence differences between host conifers and fungi (Liston et al. 1996; Camacho et al. 1997; Gernandt et al. 1997).
 - **Caution with ITS-2**: Nonorthologous ITS-2 types occur in *Fusarium* (O'Donnell and Cigelnik 1997).
 - **Conserved motifs** in ITS-1 and small subunit rDNA enable provisional characterization (Camacho et al. 1997; Liston and Alvarez-Buylla 1995).
-- Fungal endophytes have been suspected as **contaminating DNA sources** in spruce foliage studies (Klein and Smith 1996).
+- [[fungal-endophytes]] have been suspected as **contaminating DNA sources** in spruce foliage studies (Klein and Smith 1996).
 - **Analysis workflow**: align ITS sequences, PAUP phylogenetic analysis, compare with GenBank → disposition at family/genus level. Major groups detected include inoperculate Discomycetes, Hypocreales, and Dothidiales.
 - **Complementary ITS-1 probe**: >60 isolates tested by Southern blotting; *Hormonema dematioides* showed >98% homology (Camacho et al. 1997).
 - Valuable for assigning taxonomic rank to sterile isolates; potential for preliminary screening (Monreal et al. 1999; Guo et al. 2000).
@@ -99,7 +99,7 @@ Histological methods allow direct microscopic visualization of endophytic coloni
 3. **Stain**: 0.05% trypan blue, 0.05% acid fuchsin in lactic acid, or 0.05–0.1% Calcofluor white M2R in 0.2M tris buffer (pH 8.0).
 4. **Mount**: Dehydrate through ethanol series, xylol, mount in Permount.
 
-**Practical notes**: Clear unfixed material preferred (fixing makes cell removal difficult). Protease pretreatment with papain (1–2 g/100 mL 0.1M phosphate buffer pH 7.2, 24–72 h) improves removal of resistant residue. Chloral hydrate soaking (12–24 h, 250 g/100 mL) improves transparency but is a regulated substance. Stone (1987) used this method to quantify *Rhabdocline parkeri* infection density in Douglas fir.
+**Practical notes**: Clear unfixed material preferred (fixing makes cell removal difficult). Protease pretreatment with papain (1–2 g/100 mL 0.1M phosphate buffer pH 7.2, 24–72 h) improves removal of resistant residue. Chloral hydrate soaking (12–24 h, 250 g/100 mL) improves transparency but is a regulated substance. Stone (1987) used this method to quantify *Rhabdocline parkeri* infection density in [[douglas-fir]].
 
 ### Recommended Stains
 
@@ -115,9 +115,9 @@ Histological methods allow direct microscopic visualization of endophytic coloni
 
 **Wolf and Frič (1981)**: Clear in ethanol-chloroform (3:1 v/v) with 0.15% trichloroacetic acid (10–60 min, several changes); stain with Coomassie brilliant blue R-250 (protein-specific, good for cytoplasm-rich structures).
 
-**PAS (Periodic Acid–Schiff)**: Fix in FAA → 1% periodic acid 5 min → rinse 10 min → Schiff's reagent 5 min → wash 10 min → K₂O₅S₂ solution 5 min (change) → 5 min → wash 10 min → dehydrate → mount. Detects polysaccharides in fungal cell walls.
+**PAS (Periodic Acid–Schiff)**: Fix in FAA → 1% periodic acid 5 min → rinse 10 min → Schiff's reagent 5 min → wash 10 min → K₂O₅S₂ solution 5 min (change) → 5 min → wash 10 min → dehydrate → mount. Detects polysaccharides in fungal [[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
 
-**Pearce (1984) rhodamine B/methyl green**: Differential stain for foliage — 1% rhodamine B 20 min (lignified cells) → rinse → 15% methyl green in 0.2M phosphate buffer pH 8.0, 5 min (fungal hyphae) → dehydrate through 1,4-dioxan → xylene → mount. Neither stain taken up by cytoplasm, providing clear host–fungus differentiation.
+**Pearce (1984) rhodamine B/methyl green**: Differential stain for foliage — 1% rhodamine B 20 min (lignified cells) → rinse → 15% methyl green in 0.2M phosphate buffer pH 8.0, 5 min ([[fungal-hyphae]]) → dehydrate through 1,4-dioxan → xylene → mount. Neither stain taken up by cytoplasm, providing clear host–fungus differentiation.
 
 ---
 

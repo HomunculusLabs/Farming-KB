@@ -1,5 +1,5 @@
 ---
-title: Rhodotorula Yeast [[microfungal-biodiversity-ecology-wood-debris-sampling]]
+title: Rhodotorula Yeast Biodiversity Ecology
 created: 2026-04-26
 tags:
   - basidiomycota

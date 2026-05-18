@@ -1,5 +1,5 @@
 ---
-title: [[john-galvin-forester]]
+title: John Galvin
 source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 tags: [person, botanist, boston, city-forester, 19th-century]
@@ -73,7 +73,7 @@ The practical implications for communities and practitioners are substantial. Kn
 
 ## Cultural and Historical Significance
 
-The study and understanding of [[john-galvin-forester]] connects to broader themes in
+The study and understanding of john galvin connects to broader themes in
 mycology, ethnobotany, and the history of natural science. Documentation of
 this subject appears in both historical texts and contemporary research,
 reflecting ongoing interest in its properties and applications.

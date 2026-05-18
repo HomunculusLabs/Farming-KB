@@ -44,7 +44,7 @@ Developed originally for direct-seeding rice and vegetables in no-till fields, l
 - **Moisture response:** Shrink and solidify in dry conditions; soften when rain arrives
 - **Pest protection:** Bitter herbs and bittern repel mice, goats, red ants, and birds
 - **Microbial inoculation:** Inner fungi colonize soil around germinating seed
-- **Non-toxic:** No chemical pesticides needed; all deterrents are natural
+- **Non-toxic:** No [[comparison-parasitoid-wasps-vs-chemical-pesticides]] needed; all deterrents are natural
 
 ## Production Method
 
@@ -62,7 +62,7 @@ For large quantities, a concrete mixer (with inner blades removed) is used:
 
 ### Protective Forests
 1. **Soil building:** Plant deep-rooted plants (daikon, burdock, dandelion, comfrey) and fibrous-rooted plants (mustard, radish, buckwheat, alfalfa, yarrow)
-2. **Nitrogen fixation:** White clover for surface; vetch for winter; acacia trees for deep soil
+2. **[[biological-nitrogen-fixation-agriculture]]:** White clover for surface; vetch for winter; acacia trees for deep soil
 3. **Erosion control on ridgelines:** Trailing plants (Ixeris, kudzu), then pines and cypress
 4. **Hillside trees:** Hinoki cypress, camphor, zelkova, paulownia, cherry, maple, eucalyptus
 5. **Valley floor:** Walnuts, ginkgo among cedar and oak; bamboo groves for organic matter
@@ -77,11 +77,11 @@ For large quantities, a concrete mixer (with inner blades removed) is used:
 ### Natural Rice Culture
 - Grow rice in dry fields watered only by rain (possible where reliable rainfall exists)
 - Control weeds by: no plowing + straw mulch + continuous [[white-clover-ground-cover]]
-- Lundberg Family Farms in California: 7,500 acres of natural rice producing 16–18 bushels/quarter acre despite barnyard grass — comparable to conventional Japanese paddy yields
+- [[fukuoka-lundberg-family-farms-natural-rice]] in California: 7,500 acres of natural rice producing 16–18 bushels/quarter acre despite barnyard grass — comparable to conventional Japanese paddy yields
 
 ## Matsutake Culture Medium (Appendix C)
 
-Fukuoka developed a natural culture medium for mycorrhizal fungi (especially matsutake) that produces hyphal growth ~10× faster than the standard Hamada medium:
+Fukuoka developed a [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]] for mycorrhizal fungi (especially matsutake) that produces hyphal growth ~10× faster than the standard Hamada medium:
 
 **Composition:**
 - Pine forest leaf mold (20–50%)
@@ -91,7 +91,7 @@ Fukuoka developed a natural culture medium for mycorrhizal fungi (especially mat
 
 **Process:** Mix, sterilize with steam, inoculate with spores, maintain at 16–23°C (61–73°F) for ~1 month until hyphae spread, then move to ≤19°C (66°F) for ~4 months until fruiting bodies develop.
 
-The medium works for cultivating microorganisms in general, not just matsutake. The synergistic effect of diverse plant-derived vitamins and growth hormones appears key to fruiting body formation.
+The medium works for cultivating microorganisms in general, not just matsutake. The synergistic effect of diverse plant-derived vitamins and growth hormones appears key to [[fungal-fruiting-body-formation-environmental-triggers]].
 
 ## Global Observations
 
@@ -131,7 +131,7 @@ Fukuoka's economic critique centers on centralized power:
 1. Transportation network (road, rail, air)
 2. Transportation agencies
 3. Communications supervision
-4. Economic information network
+4. Economic [[mycelium-digestive-membrane-information-network]]
 5. Education and administrative advising
 6. Financial institutions
 7. Information control

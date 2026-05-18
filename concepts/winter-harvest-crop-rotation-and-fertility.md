@@ -1,5 +1,5 @@
 ---
-title: Winter Harvest Crop Rotation [[tropical-soils-and-fertility-management]]
+title: Winter Harvest Crop Rotation And Fertility
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

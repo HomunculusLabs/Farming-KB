@@ -1,5 +1,5 @@
 ---
-title: [[fodder-pond-sequences-and-yields]] and Polyculture Chains
+title: Fodder Pond Sequences And Polyculture
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

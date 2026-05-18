@@ -19,7 +19,7 @@ updated: 2026-05-03
 sources:
   - "Corbet, P.S. (1999). Dragonflies: Behavior and Ecology of Odonata. Cornell University Press."
   - "Silsby, J. (2001). Dragonflies of the World. Smithsonian Institution Press."
-  - "Brooks, S.J. (2016). [[field-guide-psilocybin-bluing-reaction-identification]] to the Dragonflies and Damselflies of Great Britain and Ireland, 5th ed. British Wildlife Publishing."
+  - "Brooks, S.J. (2016). field-guide-psilocybin-bluing-reaction-identification to the Dragonflies and Damselflies of Great Britain and Ireland, 5th ed. British Wildlife Publishing."
   - "Needham, J.G., Westfall, M.J. Jr., & May, M.L. (2014). Dragonflies of guzman-psilocybin-mushrooms-north-america, 3rd ed. Scientific Publishers."
   - "Dijkstra, K.-D.B. & Lewington, R. (2006). Field Guide to the Dragonflies of Britain and Europe. British Wildlife Publishing."
   - "Paulson, D.R. (2011). Dragonflies and Damselflies of the West. Princeton University Press."

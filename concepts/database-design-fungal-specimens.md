@@ -1,5 +1,5 @@
 ---
-title: Database Design for Fungal Specimen Collections
+title: Database Design Fungal Specimens
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -24,7 +24,7 @@ These answers shape every subsequent design decision.
 
 ### Identify the Subjects
 
-Next, identify the major **subjects** the database tracks. For fungal collections, these typically include:
+Next, identify the major **subjects** the database tracks. For [[herbarium-specimens-fungal-collections]], these typically include:
 
 - **Specimens** — the physical fungal material
 - **Taxa** — names and classifications
@@ -76,13 +76,13 @@ Common relationship types include:
 
 ## Relational Design in Systematics
 
-Fungal systematics imposes specific demands on database structure. Several specialized tables are typically needed.
+[[relational-databases-fungal-systematics]] imposes specific demands on database structure. Several specialized tables are typically needed.
 
 ### Specimen and Morphological Tables
 
 The specimen table is the core of the collection database, as detailed in [[core-specimen-data-structure-mycology]]. Key fields include **accession number**, **collector name**, **collection number**, **date of collection**, **geographic location**, **substrate/host**, **habitat**, and **preservation status**.
 
-Morphological characters are best stored in a separate linked table covering spore measurements, microscopic features (hyphal structure, cystidia), macroscopic features (cap size, color, odor), and chemical reactions (KOH, Melzer's, etc.). Separating morphological data allows for flexible querying and easier updates.
+[[culturing-macrofungi-describing-morphological-characters]] are best stored in a separate linked table covering spore measurements, microscopic features ([[fungal-hyphal-structure-resource-exploitation]], cystidia), macroscopic features (cap size, color, odor), and chemical reactions (KOH, Melzer's, etc.). Separating morphological data allows for flexible querying and easier updates.
 
 ### Nomenclature and Bibliographic Tables
 
@@ -92,7 +92,7 @@ A bibliography table stores all cited literature: full author list, publication 
 
 ## Recursive Relationships: Synonymy
 
-Synonymy in fungal taxonomy creates **recursive relationships** — a taxon table that references itself.
+Synonymy in [[fungal-taxonomy]] creates **recursive relationships** — a taxon table that references itself.
 
 ### Synonym Tables and Types
 
@@ -122,13 +122,13 @@ Standardization is essential for data quality and interoperability.
 
 ### Authority Tables and Lookup Tables
 
-**Authority tables** (lookup tables) store the valid values for a field. A `countries` table provides official names and ISO codes; a `herbaria` table stores recognized acronyms (per Index Herbariorum); a `specimen_preservation` table lists valid preservation methods. Lookup tables ensure consistency — updating a country name requires changing only one row.
+**Authority tables** (lookup tables) store the valid values for a field. A `countries` table provides official names and ISO codes; a `herbaria` table stores recognized acronyms (per Index Herbariorum); a `specimen_preservation` table lists valid [[egg-preservation-methods]]. Lookup tables ensure consistency — updating a country name requires changing only one row.
 
 ## Application Software Considerations
 
 A **single integrated product** offers simplicity but may lack flexibility. **Multiple specialized products** offer power but require integration effort. Most collections benefit from starting with one system and adding tools as needs grow.
 
-Common integration methods include shared database back-ends, import/export routines (CSV, Darwin Core), and API connections. Modern databases should be **web-compatible** and follow [[mycology|mycological]] data standards — exporting in standard formats and serving records to aggregators like GBIF or MycoBank.
+Common integration methods include shared database back-ends, import/export routines (CSV, Darwin Core), and API connections. Modern databases should be **web-compatible** and follow [[mycology]] data standards — exporting in standard formats and serving records to aggregators like GBIF or MycoBank.
 
 ## Practical Implementation
 

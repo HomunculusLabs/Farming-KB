@@ -9,7 +9,7 @@ tags: [basidiomycete, biocontrol, aphyllophorales, mycoparasite, forest-pathogen
 
 ## Description
 
-*Phlebiopsis gigantea* (syn. *[[peniophora-gigantea]]*) is a corticioid basidiomycete fungus widely used as a biological control agent against *[[heterobasidion-annosum]]* (syn. *Fomes annosus*), the causal agent of annosus root rot in conifers. *P. gigantea* is one of the most successful examples of fungal biocontrol in forestry, commercially formulated and applied to freshly cut conifer stumps to prevent colonization by *H. annosum*. The species is also notable for its hyphal interference mechanism — it causes cytoplasmic disruption of competing fungi at close range.
+*Phlebiopsis gigantea* (syn. *[[peniophora-gigantea]]*) is a corticioid basidiomycete fungus widely used as a [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agent against *[[heterobasidion-annosum]]* (syn. *Fomes annosus*), the causal agent of annosus root rot in conifers. *P. gigantea* is one of the most successful examples of fungal biocontrol in forestry, commercially formulated and applied to freshly cut conifer stumps to prevent colonization by *H. annosum*. The species is also notable for its hyphal interference mechanism — it causes cytoplasmic disruption of competing fungi at close range.
 
 ## Classification
 
@@ -36,9 +36,9 @@ tags: [basidiomycete, biocontrol, aphyllophorales, mycoparasite, forest-pathogen
 
 *Phlebiopsis gigantea* is a flagship species for fungal biocontrol:
 - **Forestry:** The most widely used fungal biocontrol agent in temperate forestry, applied to millions of conifer stumps annually across Scandinavia and the UK.
-- **Mushroom cultivation:** Demonstrates the principle of competitive biological control — using a benign fungus to preempt a pathogenic one. This principle can be applied in mushroom cultivation to prevent contamination.
+- **[[accessible-mushroom-cultivation-for-disabilities]]:** Demonstrates the principle of competitive biological control — using a benign fungus to preempt a pathogenic one. This principle can be applied [[contamination-prevention-in-mushroom-cultivation]] to prevent contamination.
 - **Hyphal interference research:** *P. gigantea* is a model organism for studying non-contact antagonistic interactions between fungi, relevant to understanding substrate competition in all fungal cultivation systems.
-- **Wood substrate management:** For cultivators working with wood-based substrates (shiitake, oyster mushrooms), understanding the natural community of wood-decomposing fungi including *P. gigantea* informs substrate treatment and competitor management.
+- **Wood substrate management:** For cultivators working with wood-based substrates (shiitake, oyster mushrooms), understanding the natural community of wood-decomposing fungi including *P. gigantea* informs [[hot-water-and-hydrated-lime-substrate-treatment]] and competitor management.
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -89,14 +89,14 @@ tags: [basidiomycete, biocontrol, aphyllophorales, mycoparasite, forest-pathogen
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
 
 ## References
 
-- Gams, W. et al. "Fungicolous Fungi" in *Biodiversity of Fungi*
+- Gams, W. et al. "Fungicolous Fungi" in *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]*
 - Ikediugwu, F.E.O. (1976b). Hyphal interference in *P. gigantea* vs. *H. annosum*
 - Pratt, J.E. et al. Various publications on *P. gigantea* biocontrol in forestry
 

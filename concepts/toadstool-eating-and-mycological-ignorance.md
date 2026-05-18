@@ -1,5 +1,5 @@
 ---
-title: [[palmer-toadstool-eating-and-mycology-advocacy]] Mycological Ignorance
+title: Toadstool Eating And Mycological Ignorance
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Starting a New Garden — Sod Elimination [[solomon-raised-beds-and-bed-preparation]]
+title: Starting New Garden Sod Elimination
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

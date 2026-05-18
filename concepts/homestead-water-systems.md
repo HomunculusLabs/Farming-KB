@@ -33,12 +33,12 @@ Creeks, rivers, and ponds can supply irrigation water but require treatment for 
 
 ### Rain Catchment
 
-Rainwater harvesting collects and stores roof runoff for non-potable uses (irrigation, livestock, washing) and, with treatment, for drinking.
+[[comparison-drip-irrigation-vs-rainwater-harvesting]] collects and stores roof runoff for non-potable uses (irrigation, livestock, washing) and, with treatment, for drinking.
 
 - 1 inch of rain on 1000 sq ft of roof yields approximately 623 gallons
 - Use metal roofing or food-grade surfaces (avoid asphalt shingles)
 - First flush diverters discard the first 10-20 gallons of each rain event to remove debris
-- Storage tanks: Food-grade polyethylene, concrete, or ferrocement cisterns
+- [[water-storage-tanks]]: Food-grade polyethylene, concrete, or ferrocement cisterns
 - Screen inlets to prevent debris and mosquitoes
 - For potable use: filter and treat (boiling, UV, or chemical treatment)
 
@@ -61,7 +61,7 @@ Gravity-fed systems use elevation difference to move water without pumping. For 
 - A 50-foot drop provides approximately 22 PSI (low but functional)
 - Minimum 10 PSI recommended for household use (23 feet of elevation)
 
-Design considerations:
+[[mycoremediation-bioreactor-design-considerations]]:
 - Place storage tank above the point of use
 - Use 1-1.5 inch pipe for main lines to minimize friction loss
 - Size pipes based on flow rate and distance
@@ -86,7 +86,7 @@ Storage capacity recommendation: Minimum 3-5 days of household use plus livestoc
 Remove particles using staged filtration:
 - 50-100 micron screen filter: Removes sand and large debris
 - 20-50 micron spun sediment filter: Removes fine sediment
-- 5 micron carbon block filter: Removes chlorine, organic compounds, and improves taste
+- 5 micron carbon block filter: Removes chlorine, [[chamovitz-plant-scent-communication-volatile-organic-compounds]], and improves taste
 
 ### Pathogen Treatment
 
@@ -97,7 +97,7 @@ Remove particles using staged filtration:
 
 ### Mineral Treatment
 
-- Water softeners: Remove calcium and magnesium (hardness) using ion exchange
+- Water softeners: Remove [[dynamic-accumulator-plants-calcium-and-magnesium]] (hardness) using ion exchange
 - Acid neutralizers: Raise pH of acidic water using [[calcite]] media
 - Iron/manganese filters: Remove staining metals using oxidation and filtration
 

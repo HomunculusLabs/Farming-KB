@@ -21,7 +21,7 @@ Aphyllophorales — including corticioid (crust-like) fungi, stereoid fungi, and
 - **Arthrobotrys** species, better known as nematode-trapping fungi, have also been recorded on corticiaceous fungal hosts, suggesting a broader ecological repertoire than traditionally recognized.
 - **Stilbella** species occur on various aphyllophorales, forming synnemata (erect conidiophore bundles) on host surfaces.
 - **Zakatoshia hirschiopori** parasitizes **Trichaptum**, while **Zakatoshia erikssonii** is associated with **Sistotrema** species.
-- **Nodulisporium cecidiogenes** induces gall-like structures on **Coniophora puteana**, a common wet-rot fungus.
+- **Nodulisporium cecidiogenes** induces gall-like structures on **[[coniophora-puteana]]**, a common wet-rot fungus.
 
 ## Intrahymenial Heterobasidiomycetes
 
@@ -29,7 +29,7 @@ A remarkable group of fungicolous fungi consists of heterobasidiomycetes (jelly 
 
 - **Colacogloea** species parasitize **Peniophora**, developing their own basidia within the host hymenial layer.
 - **Tremella encephala** is a conspicuous brain-like parasite of **Stereum sanguinolentum**, one of the best-known fungicolous heterobasidiomycetes.
-- **Tulasnella** and **Exidiopsis** species have been found living inside corticioid fungi, often detectable only through microscopic examination.
+- **Tulasnella** and **Exidiopsis** species have been found living inside corticioid fungi, often detectable only through [[fungal-microscopic-examination-mounting-media-techniques]].
 - **Platygloea** and members of **Syzygospora**/**Tremella** colonize hymenia of various aphyllophorales, producing distinctive basidial structures intermixed with host basidia.
 - **Tremella mycophaga** and **Tremella simplex** are specialist parasites of **Aleurodiscus** species.
 
@@ -80,17 +80,17 @@ The genus **Hypomyces** dominates polypore mycoparasitism, with multiple species
 - **Hydropisphaera peziza** — distinctive cup-shaped perithecia on polypore substrates.
 - **Pseudonectria tilachlidii** — a specialized nectriaceous species.
 - **Sphaerostilbella broomeana** — forms striking synnematous sporulating structures on polypores.
-- **Hypocrea pulvinata** and **H. pallida** — cushion-like stromatic fungi on bracket fungi.
+- **[[hypocrea-pulvinata]]** and **H. pallida** — cushion-like stromatic fungi on bracket fungi.
 - **Trichoderma polysporum** — a common Trichoderma species on polypore surfaces.
-- **Sporophagomyces chrysostomus** — a specialized fungicolous ascomycete.
+- **[[sporophagomyces-chrysostomus]]** — a specialized fungicolous ascomycete.
 - **Ophiostoma polyporicola** — an ophiostomatoid fungus specifically named for its polypore association.
 
 ### Other Ascomycetes on Polypores
 
-- **Melanospora lagenaria** — a dark-spored pyrenomycete.
+- **[[melanospora-lagenaria]]** — a dark-spored pyrenomycete.
 - **Albertiniella polyporicola** — specifically associated with **Ganoderma** species.
 - **Orbilia inflatula**, **Cistella hymeniophila**, and **Bisporella citrina** — discomycetes (cup fungi) fruiting on polypore surfaces or in hymenial tissue.
-- **Eleutheromyces subulatus** — a distinctive cyphelloid fungus on polypores.
+- **[[eleutheromyces-subulatus]]** — a distinctive cyphelloid fungus on polypores.
 - **Endomyces polyporicola** — an ascomycete yeast-like fungus.
 - **Rhinotrichella globulifera** — a hyphomycete with globose conidia on polypore surfaces.
 

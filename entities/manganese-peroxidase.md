@@ -1,5 +1,5 @@
 ---
-title: [[fungal-manganese-peroxidase-remediation]]
+title: Manganese Peroxidase
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---

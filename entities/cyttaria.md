@@ -13,10 +13,10 @@ exclusively from galled branches and smaller twigs of 12 south-temperate
 species of *[[nothofagus]]* (southern beech). The genus produces distinctive,
 brightly colored, subglobose to conical stromata that emerge in clusters from
 woody galls on the host tree. *Cyttaria* species are among the most visually
-conspicuous [[fungal-parasites]] in the temperate forests of the Southern Hemisphere
+conspicuous [[fungal-parasites]] in the temperate forests of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]
 and have a unique coevolutionary relationship with their *Nothofagus* hosts.
 The genus is also culturally significant as one of the few directly consumed
-parasitic fungi, known as "llao-llao" in southern South America.
+parasitic fungi, known as "llao-llao" in southern [[guzman-psilocybin-mushrooms-south-america]].
 
 ## Classification
 
@@ -34,7 +34,7 @@ parasitic fungi, known as "llao-llao" in southern South America.
   the Southern Hemisphere. Twelve species of *Nothofagus* serve as hosts, and
   the association appears to be highly specific and coevolutionary.
 
-- **Geographic Distribution:** The genus is exclusively south-temperate in
+- **[[geographic-distribution-of-psilocybe-species]]:** The genus is exclusively south-temperate in
   distribution, found in the *Nothofagus* forests of South America (Chile,
   Argentina, Tierra del Fuego), southeastern Australia (Tasmania, Victoria),
   and New Zealand. This distribution mirrors the Gondwanan distribution of
@@ -51,12 +51,12 @@ parasitic fungi, known as "llao-llao" in southern South America.
   in which asci and ascospores are produced. The stromata are fleshy and may be
   edible when young.
 
-- **Taxonomic Groups:** Korf (1983) recognized three groups within *Cyttaria*
+- **[[coprophilous-fungi-taxonomic-groups-distribution]]:** Korf (1983) recognized three groups within *Cyttaria*
   based on geographic position, host range, and other morphological features.
   This tripartite division corresponds roughly to the three major areas of
   *Nothofagus* distribution: South America, Australia, and New Zealand.
 
-- **Cultural Significance:** In southern South America, *Cyttaria* species
+- **[[amanita-mushrooms-history-chemistry-and-cultural-significance]]:** In southern South America, *Cyttaria* species
   (locally known as "llao-llao" or "pan del indio" — bread of the Indian) are
   collected and eaten by local people. The fruiting bodies are consumed fresh or
   used in local dishes. This represents one of the few examples of a directly
@@ -70,7 +70,7 @@ parasitic fungi, known as "llao-llao" in southern South America.
 
 - **Southern Hemisphere Mycology:** *Cyttaria* is one of the iconic genera of
   Southern Hemisphere mycota, and its study has contributed significantly to
-  understanding fungal biogeography and the Gondwanan distribution pattern of
+  understanding [[fungal-biogeography]] and the Gondwanan distribution pattern of
   organisms. The genus provides a compelling example of co-radiation between
   fungi and their host plants.
 

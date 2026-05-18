@@ -1,5 +1,5 @@
 ---
-title: [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]] and Soil pH
+title: Cation Exchange Capacity
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---

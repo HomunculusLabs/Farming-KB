@@ -1,5 +1,5 @@
 ---
-title: Edible [[field-guide-psilocybin-mushroom-species-identification]] Guide
+title: Edible Mushroom Species Identification Guide
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

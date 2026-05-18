@@ -1,5 +1,5 @@
 ---
-title: [[amanita-toxins-and-mushroom-poisoning]] Incidents and Remedies
+title: Mushroom Poisoning Incidents And Remedies
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

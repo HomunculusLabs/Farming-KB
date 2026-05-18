@@ -36,7 +36,7 @@ gusts.
 
 ## Cultivation: Feast and Famine
 
-The principles governing commercial [[growing-gourmet-button-mushroom-agaricus-cultivation]], [[boletus-edulis-entity]]).
+The principles governing commercial [[growing-gourmet-button-mushroom-agaricus-cultivation]], [[boletus-edulis]]).
 However, identification can be treacherous: Money recounts an incident in which
 his mentor John Webster left the [[bloomfield-boletus-satanus-edible-mushroom-hazards]] (Satan's
 bolete) on his bench for identification. Money instead sliced it into chili,

@@ -26,13 +26,13 @@ Environmental requirements limit it to regions of mild temperatures and high hum
 
 ## Morphological Identification
 
-The following botanical description is drawn from Orson K. Miller, Jr.'s *Mushrooms of North America*:
+The following botanical description is drawn from Orson K. Miller, Jr.'s *Mushrooms [[huckleberries-and-wild-berries-of-north-america]]*:
 
 **Cap:** 1.5–8 cm broad, conic to bell-shaped when young, becoming convex with age. Surface viscid (slimy when wet), without hairs, whitish to pale yellow, becoming light brownish in age. The cap stains bluish when bruised or damaged.
 
 **Gills:** Adnate to adnexed (attached to slightly notched), close, grey when young becoming violet-grey with white edges in age.
 
-**Stipe (stalk):** 4–15 cm long, 4–14 mm thick, enlarging somewhat toward the base. Surface dry, without hairs. Stains blue prominently when bruised. A white membranous annulus (ring) is present on the upper stalk, left by the partial veil.
+**Stipe (stalk):** 4–15 cm long, 4–14 mm thick, enlarging somewhat toward the base. Surface dry, without hairs. Stains blue prominently when bruised. A white [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] (ring) is present on the upper stalk, left by the partial veil.
 
 **Spores:** 10–17 × 7–10 μm, elliptical to oval in side view, thick-walled with a large germ pore at the apex. Spore print is purple-brown.
 
@@ -71,7 +71,7 @@ A single spore print contains tens of millions of spores, sufficient for hundred
 2. Spores germinate to form **monokaryotic mycelium** — hyphae with a single nucleus per cell
 3. Two compatible monokaryotic mycelia encounter each other and undergo **somatogamy** — fusion of somatic cells without nuclear fusion
 4. This produces **dikaryotic mycelium** (n+n), which is the dominant, long-lived vegetative phase
-5. Under appropriate conditions, the dikaryotic mycelium forms a **basidiocarp** (mushroom fruiting body)
+5. Under appropriate conditions, the dikaryotic mycelium forms a **basidiocarp** ([[mushroom-fruiting-body-morphogenesis]])
 6. On the gills, **basidia** form and undergo **karyogamy** (nuclear fusion, producing a 2n diploid cell)
 7. **Meiosis** immediately follows, producing four haploid nuclei
 8. These nuclei are extruded as four **basidiospores** on sterigmata, completing the cycle
@@ -95,4 +95,4 @@ In nature, *S. cubensis* functions as a primary decomposer of herbivore dung. It
 
 ## Historical Context
 
-The ritual use of psilocybin mushrooms in the highlands of central Mexico was first brought to widespread scientific and public attention by R. Gordon Wasson and his wife Valentina Wasson in the 1950s. Albert Hofmann subsequently isolated and named psilocybin from specimens collected during these expeditions. The Wassons' work revealed a religious cult centered on the ritual ingestion of hallucinogenic mushrooms — the *teonanácatl* ("flesh of the gods") — that likely predated the Spanish Conquest by centuries or millennia. *S. cubensis*, while not the only species used in these rites, became the most significant species in cultivation due to its amenability to artificial growing conditions.
+The ritual use [[discovery-of-psilocybin-mushrooms-by-western-science]] in the highlands [[psychoactive-cacti-of-central-mexico]] was first brought to widespread scientific and public attention by R. Gordon Wasson and his wife Valentina Wasson in the 1950s. Albert Hofmann subsequently isolated and named psilocybin from specimens collected during these expeditions. The Wassons' work revealed a religious cult centered on the ritual ingestion [[health-risks-of-hallucinogenic-mushrooms]] — the *teonanácatl* ("flesh of the gods") — that likely predated the Spanish Conquest by centuries or millennia. *S. cubensis*, while not the only species used in these rites, became the most significant species in cultivation due to its amenability to artificial growing conditions.

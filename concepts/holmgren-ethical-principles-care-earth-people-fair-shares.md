@@ -1,5 +1,5 @@
 ---
-title: Holmgren [[permaculture-ethical-principles-care-earth-people-limits]] - Care for Earth, People and Fair Shares
+title: Holmgren Ethical Principles Care Earth People Fair Shares
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 source_author: David Holmgren
 extracted: 2026-05-10

@@ -10,7 +10,7 @@ type: concept
 
 **[[lichenicolous-fungi]]** (also called lichen-inhabiting or lichenicolous ascomycetes) are fungi that live **on or within lichens**, using the lichen thallus or its constituent mycobiont and photobiont as substrate. They form a diverse ecological guild that includes obligate parasites, facultative parasites, commensals, and saprotrophs. Unlike lichenized fungi, lichenicolous species do not form their own functional thallus with a photobiont partner, though some may retain the ancestral capacity for lichenization.
 
-The term encompasses both sexually reproducing (teleomorphic) ascomycetes and their asexual (anamorphic) counterparts. Lichenicolous fungi are found across numerous orders of the [[ascomycota]] and represent one of the most poorly known yet ecologically significant components of fungal biodiversity.
+The term encompasses both sexually reproducing (teleomorphic) ascomycetes and their asexual (anamorphic) counterparts. Lichenicolous fungi are found across numerous orders of the [[ascomycota]] and represent one of the most poorly known yet ecologically significant components of [[fungal-biodiversity]].
 
 ## Survey by Order
 
@@ -131,7 +131,7 @@ Known lichenicolous fungal diversity totals **several hundred described species*
 
 - Lichenicolous fungi are routinely undercollected and underreported
 - Many tropical and Southern Hemisphere lichen floras remain essentially unsurveyed for lichenicolous associates
-- Molecular phylogenetic studies consistently reveal cryptic species complexes
+- Molecular phylogenetic studies consistently reveal [[cryptic-species]] complexes
 - Anamorphic diversity is particularly undersampled, with the 100+ known conidial species likely representing a small proportion of the actual diversity
 
 Conservative estimates suggest that true global diversity of lichenicolous fungi could exceed **1,000–2,000 species**, with many awaiting discovery and description.

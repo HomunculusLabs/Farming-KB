@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-The history of psychedelic research spans nearly a century, from early serendipitous discoveries through periods of intense scientific inquiry, political suppression, and modern renaissance. This timeline traces the key milestones that have shaped our understanding of psychedelic substances and their therapeutic potential.
+The history of psychedelic research spans nearly a century, from early serendipitous discoveries through periods of intense scientific inquiry, political suppression, and modern renaissance. This timeline traces the key milestones that have shaped our understanding of [[psychedelic-substances-comparison]] and their [[metzner-ayahuasca-therapeutic-potential]].
 
 ## 1930s-1940s: Discovery and Early Exploration
 
@@ -46,7 +46,7 @@ British psychiatrist Humphry Osmond suggests the term "psychedelic" (Greek: psyc
 
 ### 1956 — Psilocybin Isolated
 
-Albert Hofmann isolates psilocybin and psilocin from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
+Albert Hofmann isolates [[hplc-analysis-of-psilocybin-and-psilocin]] from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
 
 ### 1950s-1960s — Clinical Psychedelic Therapy Peaks
 
@@ -59,7 +59,7 @@ Over 1,000 clinical papers are published, and approximately 40,000 patients rece
 
 ### 1960 — Timothy Leary Begins Harvard Psilocybin Research
 
-Timothy Leary and Richard Alpert establish the Harvard Psilocybin Project. Their research with graduate students eventually leads to their dismissal from Harvard in 1963.
+Timothy Leary and Richard Alpert establish the [[leary-harvard-psilocybin-project]]. Their research with graduate students eventually leads to their dismissal from Harvard in 1963.
 
 ### 1962 — FDA Approves Sandoz's New Drug Application for LSD
 
@@ -77,7 +77,7 @@ President Nixon signs the Controlled Substances Act. LSD, psilocybin, mescaline,
 
 ### 1970-1985 — Research Continues Underground
 
-A small number of committed researchers continue working outside legal frameworks. Stanislav Grof develops holotropic breathwork as a non-drug method for accessing non-ordinary states based on his psychedelic therapy experience.
+A small number of committed researchers continue working outside legal frameworks. Stanislav Grof develops [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] as a non-drug method for accessing non-ordinary states based on his psychedelic therapy experience.
 
 ### 1971 — UN Convention on Psychotropic Substances
 
@@ -85,7 +85,7 @@ International scheduling restricts psychedelic research globally. Most countries
 
 ### 1985 — MDMA Scheduled
 
-Despite showing promise as an adjunct to psychotherapy, MDMA is placed in Schedule I in the US. Rick Doblin founds MAPS (Multidisciplinary Association for Psychedelic Studies) the same year, beginning the decades-long effort to reschedule MDMA for medical use.
+Despite showing promise as an adjunct to psychotherapy, MDMA is placed in Schedule I in the US. Rick Doblin founds MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies) the same year, beginning the decades-long effort to reschedule MDMA for medical use.
 
 ## 1990s-2000s: The Psychedelic Renaissance Begins
 

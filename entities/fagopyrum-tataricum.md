@@ -12,7 +12,7 @@ sources:
   - Bonafaccia, G. et al. (2003). "Characterisation of buckwheat flours and their use in breadmaking." Lebensmittel-Wissenschaft und -Technologie, 36(1), 27-34.
   - Kreft, I. et al. (2013). "Nutritional properties of buckwheat." In "Buckwheat: Chemistry and Technology," 83-110. AACC International.
   - Fabjan, N. et al. (2003). "Tartary buckwheat (Fagopyrum tataricum Gaertn.) as a source of dietary rutin." Journal of Agricultural and Food Chemistry, 51(22), 6452-6455.
-  - Zhu, F. (2016). "Chemical composition and health effects of Tartary buckwheat." Food Chemistry, 203, 231-245.
+  - Zhu, F. (2016). "[[chemical-composition-of-hallucinogens]] and health effects of Tartary buckwheat." Food Chemistry, 203, 231-245.
   - Gao, J. et al. (2020). "A review of Tartary buckwheat: Composition, bioactivities, and applications." Trends in Food Science & Technology, 103, 61-73.
 ---
 
@@ -61,7 +61,7 @@ hectare. However, its nutritional value per unit weight significantly
 ## Overview
 
 Fagopyrum Tataricum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -82,7 +82,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fagopyrum Tataricum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -90,13 +90,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for fagopyrum tataricum. Climate adaptation
+opportunities for fagopyrum tataricum. [[permaculture-climate-adaptation]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -111,7 +111,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 fagopyrum tataricum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

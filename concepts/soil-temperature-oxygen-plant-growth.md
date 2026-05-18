@@ -1,5 +1,5 @@
 ---
-title: Soil [[soil-temperature-and-oxygen]] for Plant Growth
+title: Soil Temperature Oxygen Plant Growth
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

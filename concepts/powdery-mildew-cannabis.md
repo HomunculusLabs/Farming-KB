@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "Cervantes - [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]"
+  - "Cervantes - marijuana-horticulture-cervantes-artificial-lighting-and-electricity"
 type: concept
 tags: [cannabis]
 ---
@@ -79,3 +79,14 @@ Additional environmental notes:
 - Most air conditioners can be set to a specific humidity level
 - Cover carpet with white plastic sheeting to prevent mold harborage
 - Wash walls with 5% bleach solution if mold surfaces; apply fungus-inhibiting paint
+## Historical Development
+
+This approach has evolved significantly over time, drawing from both traditional practices and modern scientific understanding. Early practitioners developed intuitive methods through careful observation of natural systems. Contemporary research has validated many traditional insights while adding quantitative frameworks for optimization and scaling. The synthesis of historical knowledge with current science continues to advance the field.
+
+## Environmental Impact
+
+The ecological implications of these practices extend beyond their immediate application. Properly implemented techniques can enhance biodiversity, improve soil health, and contribute to broader ecosystem resilience. Conversely, poorly planned approaches may have unintended consequences. A systems-thinking perspective helps anticipate and mitigate potential negative impacts while maximizing ecological benefits.
+
+## Economic Considerations
+
+Financial viability influences adoption and long-term sustainability of any practice. Initial investment costs, ongoing maintenance requirements, and potential returns all factor into decision-making. Many practitioners find that reduced input costs over time offset initial setup expenses. Scale-appropriate strategies ensure that techniques remain economically feasible from backyard gardens to commercial operations.

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin [[ethyl-alcohol-extraction]]
+title: Psilocybin Alcohol Extraction
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---

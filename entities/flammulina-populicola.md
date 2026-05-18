@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Flammulina populicola is a species within the genus Flammulina, closely related to the widely cultivated enoki mushroom ([[flammulina-velutipes]]). It is a cold-tolerant, wood-decomposing fungus that fruits during winter months, typically on hardwood substrates in temperate regions. Alongside F. velutipes, it is listed as a common cultivated species of the Flammulina genus in [[tradd-cotter]]'s reference on organic mushroom farming. The species is of particular interest to cultivators seeking genetic diversity within the commercially important enoki group.
+Flammulina populicola is a species within the genus Flammulina, closely related to the widely cultivated enoki mushroom ([[flammulina-velutipes]]). It is a cold-tolerant, wood-decomposing fungus that fruits during winter months, typically on hardwood substrates in temperate regions. Alongside F. velutipes, it is listed as a common cultivated species of the Flammulina genus in [[tradd-cotter]]'s reference on [[organic-mushroom-farming-and-mycoremediation-overview]]. The species is of particular interest to cultivators seeking genetic diversity within the commercially important enoki group.
 
 ## Classification
 
@@ -25,7 +25,7 @@ Flammulina populicola is a species within the genus Flammulina, closely related 
 - Cold-weather fruiting species, similar in habit to F. velutipes
 - Shares the genus with the commercially important enoki mushroom
 - Outdoor cultivation difficulty rated at 1 (easy); indoor cultivation difficulty rated at 2 (moderate)
-- Prefers hardwood logs and stumps outdoors; supplemented sawdust indoors
+- Prefers hardwood logs and stumps outdoors; [[oyster-mushroom-supplemented-sawdust-blocks]] indoors
 - Like other Flammulina species, it produces a white [[spore-print]]
 - Wild specimens exhibit a dark, fuzzy stem base, an important identification feature
 - Can survive freezing temperatures and resume growth after thawing
@@ -48,7 +48,7 @@ Wild Flammulina populicola specimens likely display characteristics typical of t
 - **Spawn types:** Sawdust, plug, or cardboard spawn
 
 ### Indoor Cultivation
-- **Substrates:** Supplemented hardwood sawdust, sterilized in autoclave for two hours
+- **Substrates:** Supplemented [[hardwood-sawdust-substrate]], sterilized in autoclave for two hours
 - **Fruiting temperature:** Generally 45-55F (7-13C), though some strains may fruit at warmer temperatures
 - **Inoculation to fruiting:** Three to four weeks after colonization
 - **Indoor technique:** High-walled containers allow CO2 pooling, promoting stem elongation; low light reduces pigment
@@ -70,11 +70,11 @@ As a Flammulina species, F. populicola likely shares the nutritional profile of 
 
 ## Mycoremediation Potential
 
-Flammulina species are known as efficient stump recyclers, giving them potential advantages in mycoremediation of logging sites. They can be paired with compatible species such as beefsteak polypore (Fistulina hepatica) and wood ear mushrooms, which also tolerate the otherwise fungus-inhospitable conditions of logged areas. The aggressive wood-decomposing ability of Flammulina makes it valuable for accelerating the breakdown of woody debris in forest restoration projects.
+Flammulina species are known as efficient stump recyclers, giving them potential advantages in mycoremediation of logging sites. They can be paired with compatible species such as beefsteak polypore ([[fistulina-hepatica]]) and wood ear mushrooms, which also tolerate the otherwise fungus-inhospitable conditions of logged areas. The aggressive wood-decomposing ability of Flammulina makes it valuable for accelerating the breakdown of woody debris in forest restoration projects.
 
 ## Identification and Safety
 
-Critical identification feature: Flammulina species have a distinctive darker, fuzzier stem base at the point of attachment. This must be carefully compared with the poisonous deadly galerina (Galerina autumnalis), which lacks this feature and has a rusty brown spore print (versus white for Flammulina). Always verify both macroscopic features and spore print color when identifying wild Flammulina specimens.
+Critical identification feature: Flammulina species have a distinctive darker, fuzzier stem base at the point of attachment. This must be carefully compared with the poisonous deadly galerina ([[galerina-autumnalis]]), which lacks this feature and has a rusty brown spore print (versus white for Flammulina). Always verify both macroscopic features and spore print color when identifying wild Flammulina specimens.
 
 ## Storage and Culinary Use
 
@@ -86,7 +86,7 @@ Critical identification feature: Flammulina species have a distinctive darker, f
 
 ## See Also
 
-- Flammulina velutipes (enoki, velvet foot)
+- [[enoki-mushroom-flammulina-velutipes]] (enoki, velvet foot)
 - Galerina autumnalis (deadly galerina, toxic lookalike)
 - Clitocybe nuda (blewit, winter-fruiting associate)
 - Physalacriaceae

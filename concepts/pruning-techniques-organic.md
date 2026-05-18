@@ -50,14 +50,14 @@ Cordons are single-stemmed fruit trees grown at an angle of 45 degrees, planted 
 
 ## Fan-Training Peaches and Nectarines
 
-Fan-training produces trees growing flat against a wall. The reflected and stored heat allows tender fruits to be grown in temperate climates.
+Fan-training produces trees growing flat against a wall. The reflected and stored heat allows tender fruits to be grown [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 1. After planting, cut back to a strong bud, ensuring two buds beneath. Leave tree about 18in (45cm) high. Three shoots will grow the following season.
 2. In second winter, remove central shoot. Prune two remaining shoots to 18in (45cm) and tie to poles fixed to wires about 20 degrees above horizontal.
 3. In following summer, select four shoots from side-branches (two from top, one underneath, and its extension). Tie in and rub off unwanted buds.
 4. In third winter, cut back selected shoots to 18in (45cm). Leave them long.
 5. In following summer, tie in branches as they grow. Select sideshoots from the main framework 4in (10cm) apart to form fruit-bearing shoots.
-6. In fourth winter, reduce growth of branches by about half. From then on, pruning aims at producing fruit.
+6. In fourth winter, reduce growth of branches by about half. From then on, pruning aims at [[query-why-are-my-plants-not-producing-fruit-and-how-do-i-hand-pollinate]].
 7. In following summer, allow sideshoots to grow four to six leaves and form a new shoot at their base. Pinch out other new growth.
 8. Once fruit has been picked, prune the fruited shoot. Tie replacement shoot into place. Repeat every year.
 

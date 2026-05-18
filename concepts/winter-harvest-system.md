@@ -1,5 +1,5 @@
 ---
-title: [[cold-house-winter-harvest-system]]
+title: Winter Harvest System
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

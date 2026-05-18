@@ -1,5 +1,5 @@
 ---
-title: 'comparison [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] vs mycelium extracts [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] vs Mycelium Extracts for comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive'
+title: Comparison Fruiting Body Vs Mycelium Extracts Medicinal Mushrooms
 tags: [medicinal-mushrooms, supplements, extraction, mycology, health]
 date: 2026-04-28
 updated: 2026-04-28

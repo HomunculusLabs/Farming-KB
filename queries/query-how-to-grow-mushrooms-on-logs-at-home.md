@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Stamets, Paul. Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed., Ten Speed
     Press, 2000.
-  - "Shiitake Mushroom Production on Logs." Field & Forest Products, 2022.
+  - "Shiitake stamets-stump-cultivation-mushroom-production-forestry on Logs." Field & Forest Products, 2022.
   - "Growing query-how-to-grow-shiitake-mushrooms-on-logs in a Forest Farming System." USDA National
     Agroforestry Center, 2018.
   - "Log-Grown Specialty Mushrooms." ATTRA — National Center for Appropriate
@@ -73,7 +73,7 @@ again. Logs can typically produce 2–4 flushes per year.
 ## Overview
 
 Query How To Grow Mushrooms On Logs At Home represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Query How To Grow Mushrooms On Logs At Home finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -102,13 +102,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for query how to grow mushrooms on logs at home. Climate adaptation
+opportunities for query how to grow mushrooms on logs at home. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 query how to grow mushrooms on logs at home and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

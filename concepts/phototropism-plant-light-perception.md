@@ -1,5 +1,5 @@
 ---
-title: Phototropism [[chamovitz-ultraviolet-and-infrared-plant-light-perception]]
+title: Phototropism Plant Light Perception
 created: 2026-05-11
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [phototropism, plant-vision, photoreceptor, darwin, blue-light, auxin]

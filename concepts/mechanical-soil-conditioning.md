@@ -21,12 +21,12 @@ Mechanical soil conditioning uses specialised implements to aerate compacted soi
 
 At the end of winter or in autumn after rain, when soil will carry a tractor:
 
-1. Pull chisel plough **5-10 cm (2-4 inches) deep** over the area
+1. Pull [[chisel-plough-soil-conditioning]] **5-10 cm (2-4 inches) deep** over the area
 2. Work on **contour parallels** or on low slopes
 3. Start in **high valley bottoms**, driving slightly downhill toward ridges
 4. Unless absolutely no legumes or grasses are growing, **no extra seed is applied**
 
-The immediate response is increased root penetration, seed germination, and top-growth of pasture.
+The immediate response is increased root penetration, [[cannabis-seed-germination]], and top-growth of pasture.
 
 ### Progressive Deepening Cycle
 
@@ -61,12 +61,12 @@ If tree seed, soybeans, millet, or other crops are to be planted:
 
 ### Temperature Modification
 
-Geoff Wallace recorded up to **13°C (25°F) increase** on treated versus untreated soils in autumn. This warmth comes from both biological activity and air pockets at various depths, enabling earlier and more frost-sensitive crops.
+[[geoff-wallace-soil-conditioner-mollison]] recorded up to **13°C (25°F) increase** on treated versus untreated soils in autumn. This warmth comes from both biological activity and air pockets at various depths, enabling earlier and more frost-sensitive crops.
 
 ### Biological Enhancement
 
 - **Nodulation** of nitrogen-fixing bacteria is greatly increased
-- **Subsoil and rock particles** are broken down by carbonic and humic acids from root decay
+- **Subsoil and rock particles** are broken down by carbonic and [[humic-acids-soil-biology-ingham]] from root decay
 - **Methane** generated from decay aids seed germination
 - Water freely passes into (not off) the soil, even in downpours
 
@@ -108,7 +108,7 @@ Early spring or the end of a gentle rainy period is ideal because:
 - **Steep slopes** require organic approaches, not machinery
 - **Volcanic soils** with permanent pastures may never need conditioning
 - **Over-stocking, heavy traffic, or heavy-hooved animals in wet weather** can re-compact conditioned soil
-- Mechanical conditioning is a **one-time beneficial process** — repeated annual use wastes energy
+- [[soil-rehabilitation-by-mechanical-conditioning]] is a **one-time beneficial process** — repeated annual use wastes energy
 - **Final solutions** lie only in permanent, deep-rooted plants (forests or prairies) and minimum tillage management
 
 ## Garden-Scale Aeration

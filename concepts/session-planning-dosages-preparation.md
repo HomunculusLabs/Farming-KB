@@ -1,5 +1,5 @@
 ---
-title: "[[psychedelic-session-planning]], Dosages, Preparation, and the Guide Role"
+title: Session Planning Dosages Preparation
 source: leary-t-the-psychedelic-experience.md
 type: concept
 ---

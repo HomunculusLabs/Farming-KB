@@ -1,5 +1,5 @@
 ---
-title: Soil Food [[ingham-soil-food-web-assessment-methods]]
+title: Soil Food Web Assessment Methods
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---

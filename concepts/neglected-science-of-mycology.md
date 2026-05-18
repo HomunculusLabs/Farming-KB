@@ -1,5 +1,5 @@
 ---
-title: The [[palmer-neglected-science-mycology]] of Mycology
+title: Neglected Science Of Mycology
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

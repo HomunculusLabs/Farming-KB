@@ -1,5 +1,5 @@
 ---
-title: mckenna [[tryptamine-glossolalia-and-language]] primal language and mckenna-glossolalia-and-primal-language-tryptamine-states
+title: Mckenna Tryptamine Glossolalia And Primal Language
 created: 2026-04-28
 tags: [tryptamines, dmt, glossolalia, shamanism, consciousness, language, 
 psilocybin]

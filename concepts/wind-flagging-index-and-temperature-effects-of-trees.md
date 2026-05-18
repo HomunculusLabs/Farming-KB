@@ -1,5 +1,5 @@
 ---
-title: Wind Flagging Index and Temperature Effects of Trees
+title: Wind Flagging Index And Temperature Effects Of Trees
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -62,7 +62,7 @@ Small open water storages or tree clumps placed upwind of a house have a pleasan
 
 - **In summer**: Air passing over open water is cooled
 - **In winter**: Air is warmed and has moisture added
-- **In hot humid tropics**: Trees have a dehumidifying effect through direct absorption of moisture, even in extreme conditions
+- **In hot [[humid-tropics-design-and-climate-zones]]**: Trees have a dehumidifying effect through direct absorption of moisture, even in extreme conditions
 
 ### Leaf Colour and Light Reflection
 
@@ -74,18 +74,18 @@ The colour of foliage significantly affects its thermal properties:
 
 ### Practical Design Applications
 
-These thermal properties have direct applications for building design:
+These thermal properties have direct applications for [[mollison-designers-passive-solar-heating-building-design]]:
 
 1. **Roof vines**: White or red-coloured roof vines over tiles can effectively lower summer temperatures within buildings
 2. **Trellis systems**: Combined with fine water sprays and damp mulch systems under trellises, additional cooling is achieved by creating a cool area of dense air through evaporation
-3. **Cross-ventilation**: These effects are useful for moderating summer heat in buildings and for providing cool air sources to draw from by induced cross-ventilation
-4. **Microclimate creation**: Strategic planting of specific leaf-colour varieties can create cool zones around buildings and outdoor living areas
+3. **Cross-ventilation**: These effects are useful for moderating [[summer-heat-management-greenhouse-ventilation]] in buildings and for providing cool air sources to draw from by induced cross-ventilation
+4. **[[holzer-climate-zone-microclimate-creation]]**: Strategic planting of specific leaf-colour varieties can create cool zones around buildings and outdoor living areas
 
 ## The Tree in the Whole System
 
 A tree functions as a cooperative entity within a guild — a community of plants and animals. It acts as a translator of gases, liquids, and solids; a manufacturer of complex molecules from inorganic and organic elements; and a transformer of energy. The tree depends on its guild, is a member of a family of like species, and participates in the creation of the complex web of life.
 
-Animals serve as interactors, messengers, and distributors of nutrients within this system. Insects give chemical messages, breed browsers, and facilitate energy exchange. Materials enter the system and are changed; energy and gases leave in changed forms. Each branch can be genetically individual, each root system can function semi-independently, yet the whole operates as an integrated living system.
+Animals serve as interactors, messengers, and distributors of nutrients within this system. Insects give chemical messages, breed browsers, and facilitate [[open-systems-energy-exchange]]. Materials enter the system and are changed; energy and gases leave in changed forms. Each branch can be genetically individual, each root system can function semi-independently, yet the whole operates as an integrated living system.
 
 ## See Also
 - [[temperature-effects-of-trees]]

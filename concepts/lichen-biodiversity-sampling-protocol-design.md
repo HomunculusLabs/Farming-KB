@@ -1,5 +1,5 @@
 ---
-title: Designing Sampling Protocols for Lichen Biodiversity Inventory
+title: Lichen Biodiversity Sampling Protocol Design
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -9,7 +9,7 @@ type: concept
 Designing effective sampling protocols for [[lichen]] biodiversity inventory requires careful
 attention to personnel, equipment, field procedures, data archiving, and the alignment of
 survey goals with available resources. [[lichens]] present unique challenges compared to vascular
-plants, including microscopic identification requirements and sensitivity to microhabitat
+plants, including [[psilocybin-mushroom-microscopic-identification]] requirements and sensitivity to microhabitat
 variation.
 
 ## Resources Required
@@ -18,7 +18,7 @@ variation.
 
 - **Trained lichenologists** should participate in protocol design and identify/confirm all
   voucher specimens. Specialist teams conducting field work maximize species capture,
-  particularly for crustose lichens requiring microscopic examination.
+  particularly for crustose lichens requiring [[fungal-microscopic-examination-mounting-media-techniques]].
 - **Non-specialist field personnel** allow larger areas to be inventoried for the same cost,
   but species capture is less complete. Nonspecialists become proficient with macrolichens
   (fruticose, foliose, squamulose) through experience (McCune et al. 1997b).
@@ -26,7 +26,7 @@ variation.
   in the field. **Moderate-intensity inventories** (regional status/trend surveys):
   non-specialist personnel are appropriate with adequate training.
 - Training should be conducted by a lichenologist familiar with the region. Habitat
-  selection criteria and morphological variation in lichens differ substantially from
+  [[cannabis-breeding-traits-selection-criteria-clarke]] and morphological variation in lichens differ substantially from
   vascular plants.
 
 ### Collecting Equipment
@@ -133,7 +133,7 @@ Three critical aspects require explicit attention:
 - McCune, B. et al. (1997b). Regional gradients in lichen communities of the Pacific
   Northwest. *Ecological Applications*, 7, 938–948.
 - Pike, L.H. et al. (1975). (Lichen canopy access methods.)
-- Rosentreter, R. et al. (1988). (Soil specimen preparation methods.)
+- Rosentreter, R. et al. (1988). (Soil [[fungal-specimen-preparation-preservation-herbarium-storage]] methods.)
 - ter Steege, H. & Cornelissen, J.H.C. (1988). (Canopy access equipment.)
 
 ## Related

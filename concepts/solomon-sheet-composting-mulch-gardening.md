@@ -28,7 +28,7 @@ time patrolling for weeds than you would spend learning how to properly
 sharpen and use a hoe. See
 [[solomon-complete-organic-fertilizer-guide]].
 3. **Reserve mulching** for specific situations: suppressing weeds around
-   established perennials, moisture conservation during brief dry spells,
+   established perennials, [[cervantes-mulch-outdoor-moisture-conservation]] during brief dry spells,
    or for gardeners whose physical mobility is restricted.
 
 ## Ruth Stout and the Mulching Movement
@@ -77,7 +77,7 @@ communities, and systematic experimentation to build expertise.
 ## Overview
 
 Solomon Sheet Composting Mulch Gardening represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Solomon Sheet Composting Mulch Gardening finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,13 +106,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for solomon sheet composting mulch gardening. Climate adaptation
+opportunities for solomon sheet composting mulch gardening. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 solomon sheet composting mulch gardening and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

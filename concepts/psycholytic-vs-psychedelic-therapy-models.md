@@ -1,5 +1,5 @@
 ---
-title: "Psycholytic vs. Psychedelic Therapy Models"
+title: Psycholytic Vs Psychedelic Therapy Models
 source: "metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"
 tags: [metzner, psychedelic-therapy, psycholytic, psychotherapy, lsd, clinical]
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-[[hallucinogenic-drugs]] in psychotherapy and shamanism distinguishes between two primary therapeutic models: the psycholytic and the psychedelic.
+[[hallucinogenic-drugs]] in [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] distinguishes between two primary therapeutic models: the psycholytic and the psychedelic.
 
 These models represent fundamentally different approaches to the use of hallucinogenic compounds in clinical settings, differing in dosage, frequency, therapeutic goals, and theoretical framework.
 
@@ -39,7 +39,7 @@ The psycholytic approach is grounded in the psychoanalytic tradition and views t
 
 The psychedelic model was developed in the late 1950s and early 1960s by North American researchers, most notably [[stanislav-grof]] and [[mystical-experience]] itself, which is believed to produce lasting personality change.
 
-The psychedelic approach draws on the tradition of mystical experience and William James's concept of the "twice-born" self, viewing the therapeutic value of hallucinogens in terms of their capacity to produce spiritual transformation.
+The psychedelic approach draws on the tradition of [[powell-psilocybin-mystical-experience]] and [[metzner-william-james-radical-empiricism-multiple-consciousness]]'s concept of the "twice-born" self, viewing the therapeutic value of hallucinogens in terms of their capacity to produce spiritual transformation.
 
 ## Dosage and Frequency Differences
 
@@ -61,7 +61,7 @@ The psycholytic and psychedelic models have different but overlapping therapeuti
 
 The psycholytic model aims primarily at the resolution of neurotic symptoms, the working through of repressed material, and the integration of split-off aspects of the personality.
 
-It is particularly suited to the treatment of anxiety disorders, personality disorders, and psychosomatic conditions, where the loosening of defenses and access to unconscious material are therapeutically valuable.
+It is particularly suited to the treatment of [[cannabis-for-anxiety-disorders]], personality disorders, and psychosomatic conditions, where the loosening of defenses and access to unconscious material are therapeutically valuable.
 
 The psychedelic model aims at a more radical transformation: the dissolution of the ego, the transcendence of ordinary self-concern, and the establishment of a new, more expansive identity.
 
@@ -71,7 +71,7 @@ Both models have been applied to a wide range of conditions, and the choice betw
 
 ## Set and Setting in Each Model
 
-The concept of "[[set-and-setting]]"—the psychological state of the individual and the physical and social context of the experience—is central to both models but is operationalized differently.
+The concept of "[[set-and-setting]]"—the psychological state of the individual and the physical and [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] of the experience—is central to both models but is operationalized differently.
 
 In the psycholytic model, set and setting are managed to create a safe, controlled environment in which the patient can explore difficult material without becoming overwhelmed.
 

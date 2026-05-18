@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhizosphere Bacteria and [[mycorrhiza-helper-bacteria-fungal-interactions]]"
+title: Symbiotic Fungi Mycorrhizosphere Helper Bacteria
 created: 2026-04-28
 tags: [mycorrhiza, soil-ecology, bacteria-fungi-interactions, symbiosis]
 date: 2026-04-25

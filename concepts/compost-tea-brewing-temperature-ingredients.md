@@ -1,5 +1,5 @@
 ---
-title: Compost Tea Brewing Temperature and Ingredients
+title: Compost Tea Brewing Temperature Ingredients
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
@@ -18,7 +18,7 @@ Temperature is one of the most important variables in compost tea production. Mi
 
 - **Too cold:** Microbial activity slows significantly. Bacteria and fungi become sluggish, populations fail to multiply, and the tea will not reach the concentrations of beneficial organisms needed to be effective. In cold conditions, the brewing process essentially stalls.
 - **Too hot:** Microbes are literally cooked or forced into dormancy. Heat stress kills sensitive organisms and can shift the microbial balance, reducing diversity. Temperatures above approximately 95°F (35°C) begin to cause serious damage.
-- **Ideal range:** Room temperature — roughly 65–75°F (18–24°C) — provides the best conditions for both bacterial and fungal growth. At this range, metabolic activity proceeds at a healthy pace without stressing the organisms.
+- **Ideal range:** Room temperature — roughly 65–75°F (18–24°C) — provides the best conditions for both bacterial and fungal growth. At this range, [[arbuscule-isolation-metabolic-activity-assays]] proceeds at a healthy pace without stressing the organisms.
 
 ### Monitoring and Controlling Temperature
 
@@ -49,7 +49,7 @@ Additionally, the proteins in compost — primarily from worm bodies — have a 
 
 If your water supply uses chlorine:
 1. **Aeration method:** Fill the brewing container with water and run air bubbles through it for 1–2 hours. The chlorine will evaporate, making the water safe for microbes. This is the simplest and most common approach.
-2. **Carbon filtration:** Carbon filters and reverse osmosis systems effectively remove both chlorine and chloramines. As a general rule, a carbon filter containing one cubic foot of carbon will filter approximately four gallons of water per minute. These are particularly useful when large quantities of water are needed.
+2. **Carbon filtration:** Carbon filters and [[reverse-osmosis-compost-tea]] systems effectively remove both chlorine and chloramines. As a general rule, a carbon filter containing one cubic foot of carbon will filter approximately four gallons of water per minute. These are particularly useful when large quantities of water are needed.
 
 ### Ingredient Purity
 
@@ -110,10 +110,10 @@ Bacterial foods are simple sugars and compounds that bacteria can rapidly metabo
 
 Fungal foods are more complex compounds that provide nutrition and surface area for fungal hyphae to attach to and grow upon. These are essential when brewing fungally dominated teas.
 
-- **Kelp meal:** *Ascophyllum nodosum*, a cold-water kelp available at garden centers, feed stores (as powdered algae), and online
+- **Kelp meal:** *[[ascophyllum-nodosum]]*, a cold-water kelp available at garden centers, feed stores (as powdered algae), and online
 - **Humic acids:** Provide nutrient value and attachment surfaces for fungi
 - **Fulvic acids:** Similar benefits to humic acids
-- **Phosphate rock dusts:** Supply phosphorus and mineral surfaces for fungal colonization
+- **Phosphate rock dusts:** Supply [[soil-phosphorus-and-mineral-nutrients]] surfaces for fungal colonization
 - **Fish hydrolysate:** Enzymatically digested fish (bones and all). Unlike fish emulsion, hydrolysate retains more complex proteins. Can be purchased at nurseries or made at home by adding papain (papaya peptidase) or kiwi to fish scraps.
 - **Yucca extract:** Supports fungal growth without feeding bacteria
 - **Zeolites:** Provide mineral surfaces for fungal attachment
@@ -131,7 +131,7 @@ Bacterial slime (bioslime) is a natural byproduct of [[compost-tea-brewing]] and
 ### Cleaning Methods
 
 1. **While still wet:** Wipe off or blow off with forceful water from a hose; at minimum, flush with water
-2. **Dried slime:** Use 3% hydrogen peroxide solution or 5% baking soda solution
+2. **Dried slime:** Use 3% [[cervantes-hydrogen-peroxide-sterilization]] solution or 5% baking soda solution
 3. **Deep cleaning:** Disassemble hoses and fittings periodically for thorough cleaning
 
 Always clean your system **before** brewing, not just after. This prevents cross-contamination between batches.

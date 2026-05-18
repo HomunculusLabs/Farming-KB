@@ -1,5 +1,5 @@
 ---
-title: [[acidifying-pollutants-mycorrhizae]] and Mycorrhizal Community Structure
+title: Acidifying Pollutants Mycorrhizal Community Structure
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

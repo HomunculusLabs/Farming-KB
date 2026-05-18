@@ -6,16 +6,16 @@ type: concept
 
 # Psilocybin Dosage and Pharmacology
 
-Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) and its active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine) are the principal psychoactive compounds found in *[[stropharia-cubensis]]* and other psilocybin-containing mushrooms. Understanding their dosage, effects, toxicity profile, and pharmacological properties is essential for anyone working with these fungi — whether in research, clinical, or historical contexts.
+Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) and its active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine) are the principal psychoactive compounds found in *[[stropharia-cubensis]]* and other psilocybin-containing mushrooms. Understanding their dosage, effects, toxicity profile, and [[lsd-discovery-aftermath-pharmacological-properties]] is essential for anyone working with these fungi — whether in research, clinical, or historical contexts.
 
 ## Chemical Structure
 
-Both psilocybin and psilocin belong to the **tryptamine** class of compounds and contain the characteristic **indole ring** structure found in most naturally occurring hallucinogens. The indole ring is a fused bicyclic system consisting of a benzene ring joined to a pyrrole ring. This structural motif is shared with:
+Both [[hplc-analysis-of-psilocybin-and-psilocin]] belong to the **tryptamine** class of compounds and contain the characteristic **indole ring** structure found in most naturally occurring hallucinogens. The indole ring is a fused bicyclic system consisting of a benzene ring joined to a pyrrole ring. This structural motif is shared with:
 
 - **[[lysergic-acid-diethylamide]] (LSD):** A semisynthetic lysergamide
 - **N,N-Dimethyltryptamine (DMT):** An endogenous tryptamine found in many plants and animals
 - **Ibogaine:** An alkaloid from *[[tabernanthe-iboga]]*
-- **Harmine and related β-carbolines:** Found in *Banisteriopsis caapi* (ayahuasca)
+- **Harmine and related β-carbolines:** Found in *[[banisteriopsis-caapi]]* (ayahuasca)
 
 The notable exception among major natural hallucinogens is **mescaline** (3,4,5-trimethoxyphenylethylamine), which is a phenethylamine rather than an indole, placing it in the same chemical class as amphetamine.
 
@@ -103,7 +103,7 @@ Psilocybin is one of the **least toxic** of all known hallucinogens:
 | **Psilocybin** | ~10 mg | Baseline |
 | **Mescaline** | ~200 mg | 2.5× more toxic than psilocybin |
 
-The LD₅₀ (lethal dose for 50% of test subjects) of psilocybin in mice is **280 mg/kg** of body weight. For a 70 kg human, this would correspond to approximately 19,600 mg — nearly **2,000 times** the effective dose. This extraordinary safety margin means that fatal overdose from psilocybin mushrooms alone is virtually impossible; a person would need to consume their own body weight in dried mushrooms many times over.
+The LD₅₀ (lethal dose for 50% of test subjects) of psilocybin in mice is **280 mg/kg** of body weight. For a 70 kg human, this would correspond to approximately 19,600 mg — nearly **2,000 times** the effective dose. This extraordinary safety margin means that fatal overdose from [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] alone is virtually impossible; a person would need to consume their own body weight in dried mushrooms many times over.
 
 ## Pharmacokinetics
 
@@ -111,7 +111,7 @@ The LD₅₀ (lethal dose for 50% of test subjects) of psilocybin in mice is **2
 
 - Psilocybin is a **prodrug** — it is pharmacologically inactive itself
 - After ingestion, psilocybin is rapidly **dephosphorylated** by alkaline phosphatase enzymes in the liver and bloodstream, converting it to the active compound **psilocin**
-- Psilocin is the molecule that actually binds to serotonin receptors in the brain
+- Psilocin is the molecule that actually binds to [[psilocybin-pharmacology-and-serotonin-receptors]] in the brain
 - Psilocin is further metabolized by **monoamine oxidase (MAO)** and glucuronidation
 - The onset of effects occurs within 20–60 minutes after ingestion
 - Peak effects are reached at approximately 90–120 minutes
@@ -119,7 +119,7 @@ The LD₅₀ (lethal dose for 50% of test subjects) of psilocybin in mice is **2
 
 ### Mechanism of Action
 
-Psilocin acts primarily as a **serotonin 5-HT₂A receptor agonist**. This receptor is densely concentrated in the cerebral cortex, particularly in layer V pyramidal neurons. Activation of 5-HT₂A receptors increases cortical excitability and disrupts the normal functioning of the **default mode network (DMN)** — a set of interconnected brain regions associated with self-referential thinking, introspection, and the sense of ego. The temporary dissolution of DMN coherence is believed to underlie the characteristic ego-dissolution, mystical-type experiences, and altered sense of self produced by psilocybin.
+Psilocin acts primarily as a **serotonin 5-HT₂A receptor agonist**. This receptor is densely concentrated in the cerebral cortex, particularly in layer V pyramidal neurons. Activation of 5-HT₂A receptors increases cortical excitability and disrupts the normal functioning of the **[[default-mode-network-and-ego-dissolution]] (DMN)** — a set of interconnected brain regions associated with self-referential thinking, introspection, and the sense of ego. The temporary dissolution of DMN coherence is believed to underlie the characteristic ego-dissolution, mystical-type experiences, and altered sense of self produced by psilocybin.
 
 Although the 5-HT₂A receptor is the primary site of action, psilocin also binds (with lower affinity) to other serotonin receptor subtypes (5-HT₁A, 5-HT₂C, 5-HT₂B) and to dopamine receptors, which may contribute to its complex effects profile.
 
@@ -147,4 +147,4 @@ Although the 5-HT₂A receptor is the primary site of action, psilocin also bind
 | 1906 | *Stropharia cubensis* described by Earle in a Cuban agronomy journal |
 | 1914 | A.F. Merrill (Yale) published a paper in *Science* describing hallucinogenic effects from *Panaeolus papillonaceus* in Maine — likely due to psilocybin/psilocin |
 | 1915 | William E. Safford claimed teonanácatl never existed and was actually dried peyotl — this theory was accepted for three decades |
-| 1919 | Dr. Blas P. Reko published that nanacatl was a hallucinogenic mushroom, but earlier errors caused the report to be discounted |
+| 1919 | Dr. Blas P. Reko published that nanacatl was a [[emcdda-barriers-to-hallucinogenic-mushroom-trend-diffusion]], but earlier errors caused the report to be discounted |

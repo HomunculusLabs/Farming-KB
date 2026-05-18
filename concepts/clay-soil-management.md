@@ -1,5 +1,5 @@
 ---
-title: [[clay-soil-management-solomon]]
+title: Clay Soil Management
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

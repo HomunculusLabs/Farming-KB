@@ -1,5 +1,5 @@
 ---
-title: Fukuoka [[fukuoka-textdoc-semi-wild-vegetable-cultivation]] [[cannabis-sativa-indoor-cultivation-techniques]]
+title: Fukuoka Semi Wild Vegetable Cultivation Techniques
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

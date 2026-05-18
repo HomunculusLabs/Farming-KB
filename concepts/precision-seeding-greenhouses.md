@@ -1,5 +1,5 @@
 ---
-title: [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] in Greenhouses
+title: Precision Seeding Greenhouses
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

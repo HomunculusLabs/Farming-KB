@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*[[archaeospora]] leptoticha* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Archaeospora*, one of the most phylogenetically ancient genera within the order Glomales. It is globally distributed across most continents and represents an evolutionarily significant lineage of AM fungi that diverged early from other glomalean groups. The genus *Archaeospora* was delimited based on differences in selective rDNA primer sequences detected via polymerase chain reaction.
+*[[archaeospora]] leptoticha* is a species of [[arbuscular-mycorrhizal-colonization-patterns]] (AM) fungus in the genus *Archaeospora*, one of the most phylogenetically ancient genera within the order Glomales. It is globally distributed across most continents and represents an evolutionarily significant lineage of AM fungi that diverged early from other glomalean groups. The genus *Archaeospora* was delimited based on differences in selective rDNA primer sequences detected via polymerase chain reaction.
 
 ## Classification
 
@@ -33,10 +33,10 @@ type: entity
 *Archaeospora leptoticha* is critically important for understanding the evolutionary history of AM symbiosis:
 
 - Represents one of the earliest diverging lineages within Glomales, providing insight into the ancestral condition of AM fungi
-- Challenges traditional morphology-based taxonomy because its phylogenetic position was only revealed through molecular analysis
-- The genus *Archaeospora* exemplifies how rDNA sequencing has revolutionized AM fungal systematics
-- Its global distribution despite ancient origins supports the hypothesis of long-term evolutionary stability in AM fungal lineages
-- Relevant to studies of fungal community diversity in trap cultures, where *Archaeospora* species are frequently recovered alongside more commonly detected genera
+- Challenges traditional morphology-based taxonomy because its phylogenetic position was only revealed through [[molecular-analysis-nematode-trapping-fungi-cytoskeleton]]
+- The genus *Archaeospora* exemplifies how rDNA sequencing has revolutionized AM [[relational-databases-fungal-systematics]]
+- Its [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] despite ancient origins supports the hypothesis of long-term evolutionary stability in AM fungal lineages
+- Relevant to studies of [[air-pollution-fungal-community-responses]] diversity in trap cultures, where *Archaeospora* species are frequently recovered alongside more commonly detected genera
 
 ## Related
 - [[glomales]]
@@ -91,7 +91,7 @@ type: entity
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

@@ -1,5 +1,5 @@
 ---
-title: Identification and Safety of [[edible-mushroom-families]]
+title: Edible Mushroom Families Identification Safety
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

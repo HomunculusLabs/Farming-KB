@@ -1,5 +1,5 @@
 ---
-title: Mushroom [[fungal-edibility-classification-key]]
+title: Mushroom Edibility Classification Key
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

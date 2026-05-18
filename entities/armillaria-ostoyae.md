@@ -136,7 +136,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[armillaria-bulbosa]]
-- [[armillaria-mellea-entity]]
+- [[armillaria-mellea]]
 - [[armillaria-solidipes]]
 - [[armillaria-tabescens]]
 - [[bloomfield-armillaria-gallica-humongous-fungus-clone-organism]]

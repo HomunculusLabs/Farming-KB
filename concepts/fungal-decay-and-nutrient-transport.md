@@ -1,5 +1,5 @@
 ---
-title: Fungal Decay [[plasmalemma-and-nutrient-transport]]
+title: Fungal Decay And Nutrient Transport
 source: lowenfels-teaming-with-microbes.md
 type: concept
 tags: [fungi, decomposition, nutrient-transport, lignin, phenol-oxidase, phosphorus]

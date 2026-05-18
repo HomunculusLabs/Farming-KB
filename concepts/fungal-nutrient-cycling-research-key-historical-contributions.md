@@ -1,5 +1,5 @@
 ---
-title: Fungal Nutrient Cycling Research — Key Historical Contributions
+title: Fungal Nutrient Cycling Research Key Historical Contributions
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-The body of literature on fungal roles in ecosystem processes draws from decades of research across terrestrial, aquatic, and marine environments. This page synthesizes the major research themes and landmark studies that have shaped our understanding of fungal nutrient cycling, decomposition, and mineral weathering.
+The body of literature on fungal roles [[fungi-in-ecosystem-processes-dighton]] draws from decades of research across terrestrial, aquatic, and marine environments. This page synthesizes the major research themes and landmark studies that have shaped our understanding of fungal nutrient cycling, decomposition, and mineral weathering.
 
 ## Fungal Succession on Organic Substrates
 
 A central theme in [[fungal-ecology]] is the predictable pattern of **fungal succession** during decomposition. Frankland (1992, 1998) explored the mechanisms driving fungal succession, noting both the regularity of patterns and their inherent unpredictability. Key principles include:
 
-- **Resource quality gradients**: As decomposition proceeds, the chemical composition of the substrate changes, favoring different fungal species at different stages
+- **Resource quality gradients**: As decomposition proceeds, the [[chemical-composition-of-hallucinogens]] the substrate changes, favoring different fungal species at different stages
 - **Competitive interactions**: Both interference competition (Wicklow, 1992) and exploitation competition (Lockwood, 1992) shape community composition
 - **Enzyme capability**: Different fungal species possess different suites of extracellular enzymes (cellulases, ligninases, phosphatases), determining which substrate components they can decompose
 
@@ -54,7 +54,7 @@ Mycorrhizal fungi extend the effective nutrient-absorbing surface area of root s
 
 - **Phosphorus translocation**: Wells and Boddy (1990, 1995a, 1995b) studied phosphorus translocation through saprotrophic basidiomycete cord systems
 - **Soil aggregation**: Miller and Jastrow (1990) documented the hierarchy of root and mycorrhizal fungal interactions with soil aggregates
-- **Glomalin production**: Wright and Upadhyaya (1996, 1998) identified glomalin, a glycoprotein produced by arbuscular mycorrhizal fungal hyphae that contributes to soil aggregate stability
+- **Glomalin production**: Wright and Upadhyaya (1996, 1998) identified glomalin, a glycoprotein produced by [[arbuscular-mycorrhizal-fungal-diversity]] hyphae that contributes to soil aggregate stability
 - **Rock phosphate utilization**: Singh and Kapoor (1998) showed synergistic effects of phosphate-solubilizing microorganisms and arbuscular mycorrhizae on mungbean growth
 
 ## Soil Fauna Interactions
@@ -62,7 +62,7 @@ Mycorrhizal fungi extend the effective nutrient-absorbing surface area of root s
 The interaction between fungi and soil fauna influences decomposition dynamics:
 
 - **Newell (1984a, 1984b)** studied interactions between decomposer basidiomycetes and collembola, showing selective grazing that affects fungal distribution and decomposition rates
-- **Møller et al. (1999)** documented fungal-bacterial interactions on beech leaves and their influence on dissolved organic carbon quality
+- **Møller et al. (1999)** documented fungal-bacterial interactions on beech leaves and their influence on [[dighton-fungal-dissolved-organic-carbon-production]] quality
 - **Brown (1995)** reviewed how earthworms affect microfloral and faunal community diversity
 
 ## Marine and Mangrove Fungal Ecology
@@ -71,7 +71,7 @@ Marine fungi occupy unique ecological niches:
 
 - **Hyde et al. (1998)** reviewed the role of fungi in marine ecosystems
 - **Jennings (1983)** examined the physiology and biochemistry of marine fungi
-- **Clipson and Jennings (1992)** used *Dendryphiella salina* and *Debaryomyces hansenii* as models for understanding fungal adaptation to salinity
+- **Clipson and Jennings (1992)** used *Dendryphiella salina* and *[[debaryomyces-hansenii]]* as models for understanding fungal adaptation to salinity
 - **Meyers (1974)** documented fungal contributions to biodegradation of *Spartina* and other salt marsh vegetation
 
 ## Key Synthesis Works

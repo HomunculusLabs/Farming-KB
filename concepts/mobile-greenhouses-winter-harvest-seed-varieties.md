@@ -1,5 +1,5 @@
 ---
-title: Mobile Greenhouses [[eliot-coleman-deep-organic-farming-and-winter-harvest]] Seed Varieties
+title: Mobile Greenhouses Winter Harvest Seed Varieties
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

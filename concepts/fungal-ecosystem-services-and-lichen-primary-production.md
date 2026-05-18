@@ -1,5 +1,5 @@
 ---
-title: [[dighton-fungal-ecosystem-services-framework]] and Lichen Primary Production
+title: Fungal Ecosystem Services And Lichen Primary Production
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

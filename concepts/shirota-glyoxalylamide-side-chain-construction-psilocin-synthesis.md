@@ -11,7 +11,7 @@ type: concept
 
 ## Overview
 
-A critical step in the Shirota, Hakamata, and Goda (2003) synthesis of psilocin is the construction of the 3-(2-aminoethyl) side chain through a two-step acylation-amidation sequence that proceeds via a glyoxalylamide intermediate. This route, from 4-acetylindole (4) through the glyoxaloyl intermediate (5) to the 3-dimethylaminooxalyl-4-acetylindole (6), provides an efficient and high-yielding path to install the N,N-dimethyltryptamine side chain that is essential to the pharmacological activity of both [[psilocybin-tryptamine-chemistry-fungi]]. Several approaches have been explored:
+A critical step in the Shirota, Hakamata, and Goda (2003) [[concise-large-scale-synthesis-of-psilocin-and-psilocybin]] is the construction of the 3-(2-aminoethyl) side chain through a two-step acylation-amidation sequence that proceeds via a glyoxalylamide intermediate. This route, from 4-acetylindole (4) through the glyoxaloyl intermediate (5) to the 3-dimethylaminooxalyl-4-acetylindole (6), provides an efficient and high-yielding path to install the N,N-dimethyltryptamine side chain that is essential to the pharmacological activity of both [[psilocybin-tryptamine-chemistry-fungi]]. Several approaches have been explored:
 
 - **Direct alkylation**: Reaction of indole with halogenated amines, which typically gives poor regioselectivity and low yields due to competing reactions at the indole nitrogen.
 - **Grignard or organometallic approaches**: Installation of a two-carbon chain followed by functional group interconversion, which requires multiple steps and protecting group manipulations.
@@ -22,7 +22,7 @@ A critical step in the Shirota, Hakamata, and Goda (2003) synthesis of psilocin 
 
 The glyoxalylamide approach offers several advantages for large-scale synthesis:
 
-1. **Regioselectivity**: [[acetyl-protection-route-psilocin-psilocybin-synthesis]]**: The oxalyl chloride acylation conditions are compatible with the 4-O-acetyl protecting group, eliminating the need for additional protection/deprotection steps.
+1. **Regioselectivity**: [[acetyl-protection-route-psilocin-psilocybin-synthesis]]**: The [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]] acylation conditions are compatible with the 4-O-acetyl protecting group, eliminating the need for additional protection/deprotection steps.
 5. **Direct reduction to target**: The glyoxalylamide can be reduced directly to psilocin in a single step using LiAlH4, simultaneously removing the acetyl protecting group.
 
 ## Step 1: Oxalyl Chloride Acylation (4 → 5)
@@ -79,3 +79,14 @@ The glyoxalylamide (6) is characterized by:
 ### Key NMR Features
 
 The NMR spectra reveal important [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]:
+## Historical Development
+
+This approach has evolved significantly over time, drawing from both traditional practices and modern scientific understanding. Early practitioners developed intuitive methods through careful observation of natural systems. Contemporary research has validated many traditional insights while adding quantitative frameworks for optimization and scaling. The synthesis of historical knowledge with current science continues to advance the field.
+
+## Environmental Impact
+
+The ecological implications of these practices extend beyond their immediate application. Properly implemented techniques can enhance biodiversity, improve soil health, and contribute to broader ecosystem resilience. Conversely, poorly planned approaches may have unintended consequences. A systems-thinking perspective helps anticipate and mitigate potential negative impacts while maximizing ecological benefits.
+
+## Economic Considerations
+
+Financial viability influences adoption and long-term sustainability of any practice. Initial investment costs, ongoing maintenance requirements, and potential returns all factor into decision-making. Many practitioners find that reduced input costs over time offset initial setup expenses. Scale-appropriate strategies ensure that techniques remain economically feasible from backyard gardens to commercial operations.

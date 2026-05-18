@@ -1,5 +1,5 @@
 ---
-title: [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles|Organic]] Gardening Bibliography and Resources
+title: Organic Gardening Bibliography
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: [[psilocybe-makarorae-new-zealand-profile]]
+title: Psilocybe Makarorae
 created: 2026-04-28
 type: species
 tags:

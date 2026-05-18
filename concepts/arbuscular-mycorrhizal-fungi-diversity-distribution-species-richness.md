@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Fungi — Diversity, Distribution, and Species Richness
+title: Arbuscular Mycorrhizal Fungi Diversity Distribution Species Richness
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -39,8 +39,8 @@ Even in sites where sporulation is not detected, most plants remain mycorrhizal 
 
 Several AM fungal species have been documented across most continents:
 
-- *Acaulospora scrobiculata*
-- *Archaeospora leptoticha*
+- *[[acaulospora-scrobiculata]]*
+- *[[archaeospora-leptoticha]]*
 - *Gigaspora gigantea*
 - *Scutellospora calospora*
 
@@ -58,7 +58,7 @@ However, some patterns emerge:
 
 ### Continental Comparisons
 
-Comparative studies across continents with similar habitat characteristics reveal some selectivity in fungal community structure. Arid sites from the Namib Desert (Africa) and the Sonoran Desert (North America) contain four to eight species in the suborder Glomineae (*Glomus*, *Acaulospora*, *Entrophospora*). Among 21 species recovered from both continents, 61% occurred on both (Stutz et al. 2000), suggesting considerable overlap in arid-adapted AM fungal communities.
+Comparative studies across continents with similar habitat characteristics reveal some selectivity in [[mineralogical-controls-fungal-community-structure]]. Arid sites from the Namib Desert (Africa) and the Sonoran Desert (North America) contain four to eight species in the suborder Glomineae (*Glomus*, *Acaulospora*, *Entrophospora*). Among 21 species recovered from both continents, 61% occurred on both (Stutz et al. 2000), suggesting considerable overlap in arid-adapted AM fungal communities.
 
 ## Patterns of Species Richness
 
@@ -107,7 +107,7 @@ These nearly equivalent richness values at very different latitudes suggest that
 
 ## Sporulation Dynamics and Sampling Considerations
 
-Sporulation frequently correlates with host phenology — maximum spore production often occurs near the middle to end of a growing season. However, abiotic factors (especially temperature and moisture) strongly influence sporulation patterns.
+Sporulation frequently correlates with host phenology — maximum spore production often occurs near the middle to end of a growing season. However, abiotic factors (especially [[mushroom-growing-temperature-and-moisture]]) strongly influence sporulation patterns.
 
 Different fungal species can have unique seasonal patterns, meaning samples from a single date may not accurately assess fungal community composition. Monthly sampling over 1–2 years is most desirable, though quarterly sampling may be more practical.
 
@@ -121,7 +121,7 @@ In sites of low species richness, a great number of samples must be collected to
 - Koske RE. 1987. Distribution of VA [[mycorrhizal-fungi]] along a latitudinal gradient.
 - Stutz JC, Morton JB. 1996. Successive pot cultures reveal high species richness.
 - Stutz JC, et al. 2000. AM fungal communities in arid soils of Namibia and Arizona.
-- Morton JB. 1993. Problems and solutions for AM fungal taxonomy.
+- Morton JB. 1993. [[beekeeping-problems-and-solutions]] for AM fungal taxonomy.
 
 ## Related
 

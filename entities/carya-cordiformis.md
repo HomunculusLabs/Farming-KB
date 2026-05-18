@@ -11,18 +11,18 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Grauke, L.J. & Goor, A.S. (2011). "The Genus Carya." Nut Grower, 43(2), 14-21.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[huckleberries-and-wild-berries-of-north-america]]: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
   - Kral, R. (1993). "Carya." In: Flora of North America North of Mexico, Vol. 3, pp. 267-273.
 ---
 
 ## Overview
 
-**Carya cordiformis**, commonly known as bitternut hickory, is a large deciduous tree native to eastern North America. It is the most widely distributed and abundant hickory species, ranging from southeastern Canada to the eastern United States.
+**Carya cordiformis**, commonly known as bitternut hickory, is a large deciduous tree native to [[polypore-fungi-eastern-north-america]]. It is the most widely distributed and abundant hickory species, ranging from southeastern Canada to the eastern United States.
 
 The species epithet *cordiformis* refers to the heart-shaped appearance of the naked nut.
 
-Bitternut hickory is valued for its dense wood and serves as an important mast-producing tree for wildlife. It is easily recognized in the field by its sulfur-yellow buds, which are unique among North American hickories.
+Bitternut hickory is valued for its dense wood and serves as an important mast-producing tree for wildlife. It is easily recognized in the field by its sulfur-yellow buds, which are unique among [[growing-gourmet-north-american-reishi-species]] hickories.
 
 ## Taxonomy and Morphology
 
@@ -70,9 +70,9 @@ The foliage serves as a host plant for several Lepidoptera species, including th
 
 Cavity-nesting birds such as woodpeckers frequently use mature bitternut hickories for nesting sites. The relatively thin bark of older trees is susceptible to woodpecker excavation.
 
-The species is susceptible to hickory bark beetles (*Scolytus quadrispinosus*) and anthracnose caused by *Gnomonia caryae*.
+The species is susceptible to hickory [[dighton-fungus-cultivation-ants-termites-bark-beetles]] (*Scolytus quadrispinosus*) and anthracnose caused by *Gnomonia caryae*.
 
-It is also a known host for pecan scab fungus (*Fusicladium effusum*), which can cause defoliation during wet growing seasons. Bitternut hickory is generally considered more disease-resistant than pecan under orchard conditions.
+It is also a known host for pecan scab fungus (*Fusicladium effusum*), which can cause defoliation during wet [[jeavons-climate-adaptation-growing-seasons]]. Bitternut hickory is generally considered more disease-resistant than pecan under orchard conditions.
 
 ## Wood and Timber
 

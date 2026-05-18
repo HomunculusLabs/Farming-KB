@@ -1,5 +1,5 @@
 ---
-title: Organic Pest [[insect-and-disease-management-organic-garden]]
+title: Organic Pest And Disease Management
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

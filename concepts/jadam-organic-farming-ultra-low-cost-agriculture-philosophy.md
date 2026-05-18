@@ -14,11 +14,11 @@ JADAM (Jayondul Agri-Method) is a Korean organic farming system developed by You
 
 ### Background
 
-Youngsang Cho (born 1965) graduated from Aju University in chemistry and completed a master's degree in horticulture at Chungnam University. After military service with the 706 Special Forces, he began organic farming and raising animals in 1991 in Asan, Chungnam province.
+Youngsang Cho (born 1965) graduated from Aju University in chemistry and completed a master's degree in horticulture at Chungnam University. After military service with the 706 Special Forces, he began [[eliot-coleman-deep-organic-farming-and-winter-harvest]] raising animals in 1991 in Asan, Chungnam province.
 
 ### System Development
 
-He established "[[jadam-organic-farming]]" and the "JADAM Natural Pesticide Institute" in 2002, integrating knowledge from experienced farmers to develop the complete system of ultra-low-cost organic farming. The system has been refined over nearly three decades through practical application on thousands of farms.
+He established "[[jadam-organic-farming]]" and the "[[jadam-natural-pesticide-institute-and-research]] Institute" in 2002, integrating knowledge from experienced farmers to develop the complete system of ultra-low-cost organic farming. The system has been refined over nearly three decades through practical application on thousands of farms.
 
 ## The Core Philosophy
 
@@ -50,16 +50,16 @@ JADAM promises three simultaneous improvements:
 ### The Input Catalog
 
 The JADAM system includes recipes for:
-- **Natural fertilizers**: Calcium, potassium, chitosan, mineral, and nutritional balance formulations
+- **Natural fertilizers**: Calcium, potassium, chitosan, mineral, and [[jadam-nutritional-balance-fertilizer]] formulations
 - **Natural pesticides**: JADAM water softener, wetting agent, sulfur, herb solutions
-- **Microorganism solutions**: Cultured beneficial microorganisms for soil and plant health
+- **[[comparison-jadam-vs-imo-microorganism-solutions]]**: Cultured [[forest-and-bamboo-beneficial-microorganisms]] for soil and plant health
 - **Color enhancers**: Natural compounds for improving produce appearance
 
 ### The JADAM Naming Convention
 
 JADAM inputs follow a consistent naming system:
 - **JWS**: JADAM Water Softener
-- **JWA**: JADAM Wetting Agent
+- **JWA**: [[jadam-wetting-agent]]
 - **JS**: JADAM Sulfur
 - **JHS**: JADAM Herb Solution
 - **JNP**: JADAM Natural Pesticide

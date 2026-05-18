@@ -63,12 +63,12 @@ Companion species include [[platanus-occidentalis]], and [[bloomfield-birds-nest
 
 The root systems stabilize streambanks and reduce erosion in mountainous watersheds.
 
-In Mesoamerican civilization the tree was sacred to the Aztec god Quetzalcoatl.
+In [[shroom-mesoamerican-civilization]] the tree was sacred to the Aztec god Quetzalcoatl.
 
 ## Overview
 
 Taxodium Mucronatum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -89,7 +89,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Taxodium Mucronatum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -97,13 +97,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for taxodium mucronatum. Climate adaptation
+opportunities for taxodium mucronatum. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -118,7 +118,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 taxodium mucronatum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

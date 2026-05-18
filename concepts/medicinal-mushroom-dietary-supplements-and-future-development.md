@@ -1,5 +1,5 @@
 ---
-title: [[medicinal-mushroom-dietary-supplements]] Supplements and Future Development
+title: Medicinal Mushroom Dietary Supplements And Future Development
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---

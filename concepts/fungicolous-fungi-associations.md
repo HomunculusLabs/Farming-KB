@@ -40,7 +40,7 @@ on direct cytoplasmic connections.
 **Necrotrophic mycoparasitism:** The parasite kills host cells before or during
 colonization, absorbing nutrients from dead tissue. Necrotrophs release toxins
 and lytic enzymes — particularly chitinases — into the environment. Examples:
-*Trichoderma* spp., *[[talaromyces-flavus]]*, *Schizophyllum commune*.
+*Trichoderma* spp., *[[talaromyces-flavus]]*, *[[schizophyllum-commune]]*.
 
 **Intermediate forms:** The binary distinction is an oversimplification. A
 semi-biotrophic mode (biotrophic organisms later becoming necrotrophic or
@@ -89,11 +89,11 @@ fungi — creating multilayered interaction networks.
 
 ### Biotrophic Interfaces (host cytoplasm remains healthy)
 3. **Haustorial:** A short haustorial branch penetrates the host hypha. Common
-   among Zygomycota and Tremellales; *Sporidesmium sclerotivorum* on
-   *Sclerotinia sclerotiorum*.
+   among Zygomycota and Tremellales; *[[sporidesmium-sclerotivorum]]* on
+   *[[sclerotinia-sclerotiorum]]*.
 4. **Fusion:** Micropores develop in walls of host and parasite hyphae at
    contact points, allowing cytoplasmic exchange. Examples: *Gonatobotrys
-   simplex*, *Hansfordia parasitica*, *Melanospora zamiae*.
+   simplex*, *[[hansfordia-parasitica]]*, *Melanospora zamiae*.
 5. **Intracellular:** The complete mycoparasite thallus enters a host hypha.
    Common among chytrids and some oomycetes.
 
@@ -104,7 +104,7 @@ at penetration points), general **wall thickenings**, and **colacosomes/
 lenticular bodies** (specialized surface structures, Swart 1975). Lipid
 droplets and plasmalemma invaginations are also stress responses documented in
 *Coprinus heptemerus*/*Ascobolus crenulatus* and *Phlebiopsis gigantea*/*
-Heterobasidion annosum* interactions (Ikediugwu 1976a, b).
+[[heterobasidion-annosum]]* interactions (Ikediugwu 1976a, b).
 
 ## Determining the Mode of Interaction
 
@@ -126,7 +126,7 @@ requires multiple microscopy approaches:
 - **Lytic enzymes:** Chitinases, glucanases, and proteases degrade host cell
   walls; chitinase is particularly critical.
 - **Antibiotic metabolites:** Production is medium-dependent. Efficient
-  mycoparasites (*Acremonium strictum*, *Clonostachys rosea*, *Trichothecium
+  mycoparasites (*[[acremonium-strictum]]*, *Clonostachys rosea*, *Trichothecium
   roseum*, *Sistotrema brinkmannii*) overgrow other fungi without inhibition.
 - **Volatile metabolites:** *Trichoderma* spp. mediate interactions via both
   volatile and nonvolatile secondary metabolites.
@@ -134,7 +134,7 @@ requires multiple microscopy approaches:
 ## Gene Transfer Between Parasite and Host
 
 Horizontal gene transfer from host to parasite has been demonstrated in the
-mucoralean association between *Absidia glauca* and *Parasitella parasitica*
+mucoralean association between *Absidia glauca* and *[[parasitella-parasitica]]*
 (Kellner et al. 1993; Wöstemeyer et al. 1995). The prototrophic parasite
 compensates for artificially induced nutritional deficiencies in the host,
 suggesting mycoparasitic interactions can involve genetic exchange with

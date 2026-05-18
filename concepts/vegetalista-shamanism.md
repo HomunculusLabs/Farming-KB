@@ -1,5 +1,5 @@
 ---
-title: [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]]
+title: Vegetalista Shamanism
 source: amaringo-p-ayahuasca-visions.md
 tags: [vegetalista, shamanism, amazon, peru, plant-medicine, ayahuasca, shipibo]
 ---

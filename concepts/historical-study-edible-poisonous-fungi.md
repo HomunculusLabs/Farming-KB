@@ -1,5 +1,5 @@
 ---
-title: Historical Study of [[classification-of-edible-and-poisonous-mushroom-families]] Fungi
+title: Historical Study Edible Poisonous Fungi
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Tissue Culture Method for [[mushroom-spawn-production-and-laboratory-techniques]]
+title: Tissue Culture Method For Mushroom Spawn Production
 source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---

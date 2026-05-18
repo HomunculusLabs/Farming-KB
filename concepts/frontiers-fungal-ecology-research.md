@@ -1,5 +1,5 @@
 ---
-title: Frontiers in [[marine-fungal-ecology-research]]
+title: Frontiers Fungal Ecology Research
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-geotropism]] [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]]
+title: Mushroom Geotropism Spore Formation
 aliases: coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation fungi, windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982 gravity, gravitropic response basidiocarp]
 tags: [mycology, tropism, geotropism, mushroom-development, spore-dispersal]
 created: 2026-05-09

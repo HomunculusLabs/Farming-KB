@@ -1,5 +1,5 @@
 ---
-title: [[pf-substrate-formula]] and Jar Preparation
+title: Pf Substrate Formula And Jar Preparation
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---

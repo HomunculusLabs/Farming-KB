@@ -1,5 +1,5 @@
 ---
-title: Mckenna Distillation And The Birth Of [[mckenna-heroin-cocaine-and-synthetic-drugs]]
+title: Mckenna Distillation And The Birth Of Synthetic Drugs
 created: 2026-04-28
 tags: [food-of-the-gods, distillation, alcohol, alchemy, synthetic-drugs, raymond-lully, ko-hung, dominator-culture, mckenna]
 date: 2026-04-28

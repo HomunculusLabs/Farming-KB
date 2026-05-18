@@ -1,5 +1,5 @@
 ---
-title: [[mr-bloomfields-orchard-stinkhorn-fungi-and-spore-dispersal]] Insect Spore Dispersal
+title: Stinkhorn Fungi And Insect Spore Dispersal
 created: 2026-05-09
 updated: 2026-05-09
 sources:

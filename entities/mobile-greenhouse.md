@@ -1,5 +1,5 @@
 ---
-title: [[coleman-mobile-greenhouse-crop-rotation-soil-health]]
+title: Mobile Greenhouse
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [technique, infrastructure, greenhouse, season-extension, crop-rotation]

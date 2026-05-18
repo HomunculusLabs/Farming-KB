@@ -1,5 +1,5 @@
 ---
-title: [[emcdda-hallucinogenic-mushroom-markets]] Legislation and Health Effects
+title: Hallucinogenic Mushroom Markets Legislation And Health Effects
 source: carolina-mushrooms_08qxp.md
 type: concept
 ---

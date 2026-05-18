@@ -35,7 +35,7 @@ medicinal strain favored by patients managing [[growing-gourmet-north-american-r
 White Rhino was created by **Green House Seeds**, one of the most prominent seed banks
 in Amsterdam and a foundational force in modern [[cannabis-sativa-flowering-cycle-management]].
 
-The introduction of the North American indica to the White Widow lineage resulted in a
+The introduction of the [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] indica to the White Widow lineage resulted in a
 strain that retained its parent's generous trichome production while dramatically
 shifting the effect profile toward deep physical relaxation. Green House Seeds has
 offered White Rhino in both regular and feminized seed forms since the late 1990s.
@@ -77,7 +77,7 @@ genetics:
 ## Overview
 
 White Rhino represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -91,7 +91,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving white extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -106,13 +106,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for white rhino. Climate adaptation
+opportunities for white rhino. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 white rhino and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

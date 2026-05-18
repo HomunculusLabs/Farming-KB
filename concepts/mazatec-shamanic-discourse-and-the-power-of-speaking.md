@@ -1,5 +1,5 @@
 ---
-title: [[mazatec-shamanic-discourse-as-medicine]] and the Power of Speaking
+title: Mazatec Shamanic Discourse And The Power Of Speaking
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---

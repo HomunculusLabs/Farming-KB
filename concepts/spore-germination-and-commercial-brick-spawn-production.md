@@ -1,5 +1,5 @@
 ---
-title: [[spore-germination-and-tissue-cloning]] Commercial Brick Spawn Production
+title: Spore Germination And Commercial Brick Spawn Production
 source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---

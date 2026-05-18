@@ -1,5 +1,5 @@
 ---
-title: [[mycorrhizal-fungi-application-and-colonization]] and Food Web Integration
+title: Mycorrhizal Fungi Application And Food Web Integration
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---

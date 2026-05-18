@@ -1,5 +1,5 @@
 ---
-title: Cold House ([[coleman-unheated-greenhouse-design]])
+title: Cold House Unheated Greenhouse
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [technique, infrastructure, greenhouse, season-extension, winter-production]

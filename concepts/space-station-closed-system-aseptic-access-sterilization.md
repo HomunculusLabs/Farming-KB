@@ -1,5 +1,5 @@
 ---
-title: Space Station [[space-biology-closed-system-aseptic-access-contamination-control]] Access Sterilization
+title: Space Station Closed System Aseptic Access Sterilization
 created: 2026-04-28
 tags:
   - aerospace

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The **two-step selection model** describes how plant root microbiomes are assembled from the vast pool of soil microorganisms through two sequential filtering processes. This model was notably supported by Winston et al. (2014) in a study of the [[cannabis-sativa]] microbiome (PLOS ONE), which demonstrated that root-associated microbial communities are shaped first by the soil environment and then by host genotype.
+The **two-step selection model** describes how plant root microbiomes are assembled from the vast pool of soil microorganisms through two sequential filtering processes. This model was notably supported by Winston et al. (2014) in a study of the [[cannabis-sativa]] microbiome (PLOS ONE), which demonstrated that root-associated [[cannabis-rhizosphere-microbial-communities]] are shaped first by the soil environment and then by host genotype.
 
 Understanding this model is critical for plant-microbe interaction research, as it explains why endophytic communities differ so dramatically from bulk soil despite being derived from it, and why different plant cultivars harbor distinct microbial assemblages.
 
@@ -38,13 +38,13 @@ In weighted (abundance-aware) PCoA analysis, **Cannabis strain explained 34.51% 
 
 ### Unweighted (Presence/Absence) Analysis
 
-- **PC1 (32.06%)**: Driven by soil type — the primary determinant of community composition
+- **PC1 (32.06%)**: Driven by soil type — the primary determinant of [[core-endorhiza-bacterial-community-composition-cannabis]]
 - **PC2 (11.34%)**: Captures the gradient from bulk soil (negative PC2) through rhizosphere (intermediate) to endorhiza (positive PC2)
 - Only rhizosphere and endorhiza formed significantly differentiated clusters; bulk soil communities overlapped, suggesting that niche filtering primarily differentiates root-adjacent compartments
 
 ### Weighted (Abundance-Incorporated) Analysis
 
-- **PC1 (34.51%)**: Driven by Cannabis strain/cultivar — host genotype controls community structure
+- **PC1 (34.51%)**: Driven by Cannabis strain/cultivar — host genotype controls [[acidifying-pollutants-mycorrhizal-community-structure]]
 - **All three sample types** (bulk soil, rhizosphere, endorhiza) formed significantly differentiated clusters
 - The contrast between weighted and unweighted results is key: composition (who is present) is set by soil, but abundance (who dominates) is controlled by the plant
 
@@ -84,9 +84,9 @@ The growth stage of the plant profoundly influences its microbiome:
 ## Future Research Directions
 
 - **Elucidating cultivar effects on the rhizosphere**: The intermediate zone between soil and root interior remains understudied
-- **Cannabinoid effects on endorhiza communities**: Cannabis produces unique secondary metabolites that may directly shape its endophytic microbiome
+- **Cannabinoid effects on [[cannabis-rhizosphere-endorhiza-communities]]**: Cannabis produces unique [[antifungal-secondary-metabolites-coprophilous-fungi]] that may directly shape its endophytic microbiome
 - **Time-series sampling**: Longitudinal studies tracking microbiome development across the full plant life cycle
-- **Applied microbiome engineering**: Leveraging cultivar-specific microbial associations for plant fitness, disease suppression, and metabolite production
+- **Applied microbiome engineering**: Leveraging cultivar-specific microbial associations for plant fitness, disease suppression, and [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 - **Cross-species comparison**: Testing the universality of the two-step model across diverse plant families
 
 ## References

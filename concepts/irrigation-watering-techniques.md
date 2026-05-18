@@ -1,5 +1,5 @@
 ---
-title: Irrigation and [[cannabis-watering-techniques-and-frequency]]
+title: Irrigation Watering Techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

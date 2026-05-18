@@ -1,5 +1,5 @@
 ---
-title: Molasses And Sugars In [[compost-tea-brewing]]
+title: Molasses And Sugars In Compost Tea Brewing
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---

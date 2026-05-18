@@ -1,5 +1,5 @@
 ---
-title: Sand Dams and Water Spreading Techniques
+title: Sand Dams And Water Spreading Techniques
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-Sand dams and water spreading systems are among the most effective strategies for harvesting and storing water in arid landscapes. These techniques slow flood flows, capture silt and sand, create subsurface water reserves, and establish conditions for tree and crop growth in environments that would otherwise remain barren. They represent a low-cost, high-impact approach to desert reclamation.
+Sand dams and water spreading systems are among the most effective strategies for harvesting and storing water in arid landscapes. These techniques slow flood flows, capture silt and sand, create subsurface water reserves, and establish conditions for tree and [[coleman-sunlight-and-winter-crop-growth-rates]] in environments that would otherwise remain barren. They represent a low-cost, high-impact approach to [[fukuoka-desert-reclamation]].
 
 ## Sandy River Beds
 
 ### Tree Distribution Patterns
 
-Wherever deep sands fill rivers, palms and large trees grow in small embayments off the river where flow damage to trunks is less likely. A good design principle is to observe how native trees survive and where the largest trees grow (provided cattle have not killed out the natural range).
+Wherever deep sands fill rivers, palms and large [[fukuoka-shrine-grove-trees-grow-without-human-aid]] in small embayments off the river where flow damage to trunks is less likely. A good [[design-principle-integration]] is to observe how native trees survive and where the largest trees grow (provided cattle have not killed out the natural range).
 
 It is very noticeable that desert river banks in hills often have quite separate species of trees on either bank. One species needs the slip-off or silty slope (the depositional bank), while the other thrives on the harder country rock of the erosion bank. Almost all burrowing animals use the silted or slip-off slope of the river.
 
@@ -52,7 +52,7 @@ The soil chosen for these systems must have the capacity to absorb moisture (pri
 
 ## Spreading Water Downslope in Fragile Soils
 
-Steep-sided gullies often result from road culverts, animal tracks out of wadis, or water discharged from diversion drains after fields are flooded. There are only a few safe ways to spill water downslope in deserts:
+Steep-sided gullies often result from road culverts, animal tracks out of wadis, or water discharged from [[diversion-drains-and-spreader-banks]] after fields are flooded. There are only a few safe ways to spill water downslope in deserts:
 
 ### Very Long Spreader Banks
 

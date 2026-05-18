@@ -1,5 +1,5 @@
 ---
-title: [[planning-earthworks-and-post-earthworks-planting]] Revegetation
+title: Planning Earthworks And Revegetation
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: "What is the query-what-is-the-difference-between-organic-regenerative-and-biodynamic-agriculture and query organic [[organic-nutrients-vs-synthetic-nutrients]] cannabis for Cannabis?"
+title: Query Organic Vs Synthetic Nutrients Cannabis
 created: 2026-04-28
 tags: [query, cannabis, nutrients, organic, growing]
 date: 2026-04-25

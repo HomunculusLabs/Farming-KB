@@ -1,5 +1,5 @@
 ---
-title: Stem Butt and [[cardboard-cultivation-low-tech-spawn]] — Low-Tech Mycelium Expansion
+title: Stem Butt Cardboard Cultivation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

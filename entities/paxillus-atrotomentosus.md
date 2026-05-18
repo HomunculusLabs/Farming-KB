@@ -28,7 +28,7 @@ It is widely distributed across temperate regions of Europe and [[ectomycorrhiza
 
 ## Chemistry and Bioactivity
 
-Chemical investigations of *P. atrotomentosus* have identified several bioactive metabolites, though the species has received far less research attention than its relative [[boletus-edulis-entity]] specimens could cause initial confusion, but true boletes always have a poroid hymenophore rather than gills.
+Chemical investigations of *P. atrotomentosus* have identified several bioactive metabolites, though the species has received far less research attention than its relative [[boletus-edulis]] specimens could cause initial confusion, but true boletes always have a poroid hymenophore rather than gills.
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: [[functional-redundancy-fungal-communities]] (Fungi)
+title: Functional Redundancy Fungi
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---

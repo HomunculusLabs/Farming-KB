@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka [[fukuoka-breakdown-japanese-agriculture]] Breakdown Policy Critique"
+title: Fukuoka Japanese Agriculture Breakdown Policy Critique
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

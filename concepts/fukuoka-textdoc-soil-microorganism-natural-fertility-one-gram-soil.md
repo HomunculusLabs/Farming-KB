@@ -1,5 +1,5 @@
 ---
-title: Soil Microorganisms and [[fukuoka-natural-fertility-cycle]] — One Gram of Soil
+title: Fukuoka Textdoc Soil Microorganism Natural Fertility One Gram Soil
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: masanobu-fukuoka
 tags: [natural-farming, soil-microbiology, nitrogen-fixing, soil-fertility, microorganisms, no-till, green-manure, straw-mulch, desert-revegetation]

@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Mullein (*Verbascum thapsus*) and yarrow (*Achillea millefolium*) are two of the
+Mullein (*[[verbascum-thapsus]]*) and yarrow (*[[achillea-millefolium]]*) are two of the
 most versatile and widely used medicinal herbs in temperate permaculture
 gardens. Both serve dual roles as healing plants and dynamic soil accumulators,
 yet they occupy distinctly different ecological and therapeutic niches. Mullein
@@ -24,7 +24,7 @@ cultivate each for maximum benefit.
 [[yarrow-plant-guide]]
 
 Yarrow is a hardy perennial in the aster family (Asteraceae), native across
-temperate regions of the Northern Hemisphere. Its species epithet
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. Its species epithet
 "millefolium" means "thousand-leaved," referring to the finely divided
 feathery foliage. Flat-topped clusters of tiny daisy-like flowers bloom from
 June through September on plants reaching 30 to 90 centimeters tall.
@@ -61,7 +61,7 @@ butterflies and native bees, offering consistent forage throughout summer.
 | Lifecycle | Biennial | Perennial |
 | Family | Scrophulariaceae | Asteraceae |
 | Height | 1 to 2.5 meters | 30 to 90 centimeters |
-| Primary medicinal use | Respiratory conditions | Wound care and fever |
+| Primary medicinal use | [[cannabis-respiratory-conditions]] | Wound care and fever |
 | Key active compounds | Mucilage, saponins, iridoids | Achilleine, flavonoids, essential oils |
 | Soil function | Deep taproot breaks hardpan | Accumulates copper and potassium |
 | Pollinator value | Bees, butterflies, finches | Ladybugs, lacewings, native bees |
@@ -77,7 +77,7 @@ asthma, or persistent coughs, and its flower oil provides a gentle remedy for
 ear infections that is safe for children. Mullein also excels as a pioneer
 species for restoring degraded or compacted land. Its massive taproot penetrates
 soil layers that other plants cannot reach, making it invaluable for the first
-phase of food forest establishment or reclaiming disturbed ground. If you have
+phase of [[food-forest-establishment]] or reclaiming disturbed ground. If you have
 heavy, compacted soil or are building soil on a new site, mullein's soil-
 breaking and nutrient-mining abilities make it an excellent early-succession
 addition.
@@ -89,7 +89,7 @@ garden companion. Its hemostatic action makes it indispensable for treating
 cuts, scrapes, and nosebleeds in the field, and its fever-breaking properties
 are useful during cold and flu season. As a perennial, yarrow provides value
 year after year without replanting, making it a lower-maintenance choice than
-biennial mullein. Yarrow is the superior companion plant for vegetable gardens
+biennial mullein. Yarrow is the superior companion plant [[soil-ph-management-for-vegetable-gardens]]
 and orchards, where its ability to attract predatory insects provides natural
 pest management. Plant it near fruit trees, in pollinator borders, and
 throughout vegetable beds for maximum ecological benefit.

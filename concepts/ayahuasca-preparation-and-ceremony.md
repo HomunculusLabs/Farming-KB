@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca [[virola-snuff-amazon-preparation-and-ceremony]]
+title: Ayahuasca Preparation And Ceremony
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

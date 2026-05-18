@@ -16,14 +16,14 @@ sources:
   - Bisset NG. (1994). "Herbal Drugs and Phytopharmaceuticals." Medpharm Scientific Publishers.
   - Barnes J, Anderson LA, Phillipson JD. (2007). "Herbal Medicines." 3rd ed. Pharmaceutical Press.
   - Wichtl M. (2004). "Herbal Drugs and Phytopharmaceuticals." 4th ed. Medpharm.
-  - Kuchta M, Pokluda R, Kubinova R, et al. (2016). "Phenolic compounds from Leonurus cardiaca." Natural Product Communications, 11(2), 187-190.
+  - Kuchta M, Pokluda R, Kubinova R, et al. (2016). "[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] from Leonurus cardiaca." Natural Product Communications, 11(2), 187-190.
 ---
 
 # Leonurus cardiaca
 
 **Leonurus cardiaca** L., commonly known as motherwort, is a perennial herbaceous
 plant in the family Lamiaceae. Native to Eurasia, it has become naturalized
-across temperate regions worldwide and is valued both as a traditional medicinal
+across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide and is valued both as a traditional medicinal
 herb and as a functional plant in permaculture systems. The genus name
 *Leonurus* derives from the Greek for "lion's tail," referring to the shape of
 the calyx lobes, while *cardiaca* reflects its historical use as a
@@ -69,12 +69,12 @@ germinating in 2-3 weeks at 20°C. Transplanting is straightforward due
 to a robust root system.
 
 Plants establish quickly and require minimal maintenance. Harvesting of
-aerial parts occurs during flowering (June-August) when bioactive compound
+aerial parts occurs during flowering (June-August) when [[ganoderma-lucidum-triterpenoids-and-bioactive-compound-pharmacology]]
 
 ## Overview
 
 Leonurus Cardiaca Entity represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -103,7 +103,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 leonurus cardiaca entity and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

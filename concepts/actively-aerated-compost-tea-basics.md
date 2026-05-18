@@ -9,7 +9,7 @@ type: concept
 ## Overview
 
 [[actively-aerated-compost-tea]] (AACT) is the third essential tool in the soil food
-web gardener's toolkit, alongside compost and mulch. Its primary purpose is to
+web gardener's toolkit, alongside [[using-accumulators-in-compost-and-mulch]]. Its primary purpose is to
 put microbiology back into soils and onto plant surfaces, restoring the living
 ecosystems that healthy plants depend on. While compost and mulch are invaluable,
 AACT offers unique advantages in speed, coverage, and application flexibility.
@@ -26,7 +26,7 @@ that AACT was developed to overcome:
   root zone immediately.
 
 - **No foliar adhesion:** Neither compost nor mulch will stick to plant leaves.
-  The phyllosphere (leaf surface) is an important habitat for beneficial
+  The phyllosphere (leaf surface) is an important [[query-how-do-i-design-habitat-for-beneficial-insects]]
   microorganisms that can protect against pathogens, improve nutrient absorption,
   and support overall plant health. AACT can be sprayed directly onto foliage,
   establishing a protective microbial coating that compost and mulch simply
@@ -45,7 +45,7 @@ the differences is critical for [[soil-food-web]] gardening.
 
 [[compost-leachate]] is the liquid that naturally oozes or drains out of compost
 piles, often collected from the bottom of bins or windrows. While it contains
-some dissolved nutrients and organic compounds, it does **not** impart meaningful
+some dissolved nutrients and [[chamovitz-plant-scent-communication-volatile-organic-compounds]], it does **not** impart meaningful
 microbial life. Leachate is not aerated and should not be confused with compost
 tea. It is essentially compost-flavored water — beneficial in a limited way but
 fundamentally different from AACT.
@@ -56,7 +56,7 @@ Compost extracts are made by steeping compost in water without aeration. Because
 there is no active oxygenation, the process is essentially anaerobic. The
 consensus among soil food web experts is that compost extracts are not worth the
 effort compared to AACT — they do not support the explosive microbial growth
-that active aeration provides and may harbor undesirable anaerobic organisms.
+that active aeration provides and may harbor undesirable [[anaerobic-organisms-compost]].
 
 ### Manure Teas
 
@@ -88,7 +88,7 @@ increase in living organisms.
 
 3. The mixture is **actively aerated** for 1 to 2 days. Continuous aeration
    maintains dissolved oxygen levels, keeping the brew aerobic and safe.
-   Aerobic conditions favor beneficial bacteria and fungi while suppressing
+   Aerobic conditions favor [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] and fungi while suppressing
    pathogens.
 
 4. The finished tea is applied immediately — as a soil drench, root dip, or

@@ -17,13 +17,13 @@ type: query
 Start with easy crops like kale before progressing to demanding ones
 like cauliflower.
 Plant in spring before last frost or in late summer for a fall
-harvest, use [[comparison-crop-rotation-vs-cover-cropping]] to prevent clubroot disease.
+harvest, use [[comparison-crop-rotation-vs-cover-cropping]] to prevent [[clubroot-disease-management]].
 
 ## Choose the Right Brassicas for Your Skill Level
 
 Steve Solomon's refinement scale is the best framework for choosing
 which brassicas to grow.
-At the bottom of the scale, [[cole-crop-harvest-and-storage|Cauliflower]] and Brussels sprouts
+At the bottom of the scale, [[cole-crop-harvest-and-storage]] and Brussels sprouts
 are especially reliable as fall crops.
 Kale can be transplanted 4-6 weeks before last frost.
 
@@ -49,7 +49,7 @@ converts starches to sugars.
 
 ## Key Points
 
-- Start with [[cole-crop-harvest-and-storage|sprouts after frost]]
+- Start with [[cole-crop-harvest-and-storage]]
 - Try Asian greens like mizuna and tatsoi for fast, less demanding
   alternatives to heading brassicas
 
@@ -78,7 +78,7 @@ communities, and systematic experimentation to build expertise.
 ## Overview
 
 Query How Do I Grow Brassicas Successfully represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Query How Do I Grow Brassicas Successfully finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -107,13 +107,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for query how do i grow brassicas successfully. Climate adaptation
+opportunities for query how do i grow brassicas successfully. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 query how do i grow brassicas successfully and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

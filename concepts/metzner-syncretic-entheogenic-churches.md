@@ -1,5 +1,5 @@
 ---
-title: [[metzner-syncretic-entheogenic-churches-brazil-bwiti]] Churches
+title: Metzner Syncretic Entheogenic Churches
 aliases: [Santo Daime, UDV, ayahuasca-churches-syncretic-ceremonies, hoasca]
 tags: [psychedelics, religion, shamanism, community, indigenous, legal, entheogens]
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md

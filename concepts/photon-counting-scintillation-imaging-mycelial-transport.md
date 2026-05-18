@@ -1,5 +1,5 @@
 ---
-title: Photon-Counting [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]] of Mycelial Transport
+title: Photon Counting Scintillation Imaging Mycelial Transport
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Solanaceae Antidotes for [[amanita-toxins-and-mushroom-poisoning]]
+title: Solanaceae Antidotes
 source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 tags: [concept, antidote, solanaceae, atropine, daturine, hyoscyamine, stramonium, amanita]

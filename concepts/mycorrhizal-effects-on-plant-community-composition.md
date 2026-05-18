@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Effects On [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]
+title: Mycorrhizal Effects On Plant Community Composition
 created: 2026-04-16
 updated: 2026-05-09
 type: concept

@@ -48,13 +48,13 @@ In contrast, congeneric isolates (individuals belonging to different species wit
 
 The genus *Colletotrichum* serves as a well-documented example of apPCR's utility in species discrimination. Using apPCR fingerprinting, researchers have successfully distinguished five species within this economically important genus (Fig. 6.1). Each species produced a unique banding pattern that allowed unambiguous identification, demonstrating the technique's capacity to resolve species-level differences even within morphologically challenging groups.
 
-The *Colletotrichum* study is particularly significant because many species in this genus are plant pathogens that are difficult to differentiate based on morphology alone, making molecular approaches essential for accurate identification in agricultural and phytopathological contexts.
+The *Colletotrichum* study is particularly significant because many species in this genus are plant pathogens that are difficult to differentiate based on morphology alone, making [[genetic-improvement-agaricus-bisporus-molecular-approaches]] essential for accurate identification in agricultural and phytopathological contexts.
 
 ### Basidiomycete Discrimination
 
 Beyond ascomycetes, apPCR has proven equally effective for discrimination among basidiomycete fungi (Fig. 6.2). The technique's ability to generate diagnostic fingerprints across diverse fungal lineages underscores its broad applicability and robustness as a taxonomic tool.
 
-Basidiomycete discrimination by apPCR has practical implications for [[mushroom-cultivation]], mycological surveys, and ecological studies where accurate species identification is prerequisite to understanding community composition and ecosystem function.
+Basidiomycete discrimination by apPCR has practical implications for [[mushroom-cultivation]], mycological surveys, and ecological studies where accurate species identification is prerequisite to understanding community composition [[fungal-biodiversity-and-ecosystem-function]].
 
 ### Taxonomic Discrimination Criteria
 
@@ -72,7 +72,7 @@ The application of apPCR to taxonomic discrimination relies on several key crite
 
 Beyond species identification, apPCR is widely used to assess genetic diversity within fungal populations. Three notable examples illustrate this application:
 
-- **_Cantharellus formosus_**: apPCR analysis revealed significant genetic variation among populations of this ectomycorrhizal chanterelle, informing conservation strategies and revealing patterns of gene flow across fragmented habitats.
+- **_[[cantharellus-formosus]]_**: apPCR analysis revealed significant genetic variation among populations of this ectomycorrhizal chanterelle, informing conservation strategies and revealing patterns of gene flow across fragmented habitats.
 - **_Cystoderma cinnabarium_**: Population-level apPCR studies of this agaric mushroom documented the distribution of genetic diversity across geographic ranges, providing insights into dispersal mechanisms and population structure.
 - **_Laetiporus sulfureus_**: The sulfur shelf [[polypore]] was the subject of apPCR diversity studies (Fig. 6.3), which characterized the genetic structure of populations and identified distinct genotypes across different host trees and geographic regions.
 
@@ -108,7 +108,7 @@ Small deviations in annealing temperature can dramatically alter primer binding 
 
 ### Sample Requirements
 
-One of the practical advantages of apPCR is its minimal tissue requirement. A single fungal tissue sample of approximately 0.5 cm³ is sufficient to perform hundreds of analyses. This makes the technique especially valuable for studying rare or protected fungal species where destructive sampling must be minimized, as well as for herbarium specimens where material is limited.
+One of the practical advantages of apPCR is its minimal tissue requirement. A single fungal tissue sample of approximately 0.5 cm³ is sufficient to perform hundreds of analyses. This makes the technique especially valuable for studying rare or protected fungal species where [[fungal-destructive-sampling-herbarium-dna-extraction]] must be minimized, as well as for [[herbarium-specimens-fungal-collections]] where material is limited.
 
 The small sample size also facilitates field-based collection, as specimens can be preserved in silica gel or CTAB buffer with minimal processing and subsequently analyzed in the laboratory.
 
@@ -117,7 +117,7 @@ The small sample size also facilitates field-based collection, as specimens can 
 For any molecular system—including apPCR—to serve as a valid tool for genetic diversity assessment, it should satisfy the following five criteria:
 
 1. **Polymorphism**: The markers must exhibit sufficient variation to detect differences among individuals within populations.
-2. **Mendelian Inheritance**: Markers should be inherited in a predictable, Mendelian fashion to allow meaningful interpretation of population genetic parameters.
+2. **[[cannabis-chromosomes-and-mendelian-inheritance]]**: Markers should be inherited in a predictable, Mendelian fashion to allow meaningful interpretation of population genetic parameters.
 3. **Neutrality**: Markers should ideally be selectively neutral to reflect demographic and evolutionary processes rather than adaptive selection.
 4. **Reproducibility**: Results must be reproducible across laboratories, thermocyclers, and experimental runs to enable comparison between studies.
 5. **Scalability**: The system should be applicable across a range of taxonomic levels and geographic scales without loss of resolution or reliability.

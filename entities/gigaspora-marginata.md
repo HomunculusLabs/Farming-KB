@@ -29,7 +29,7 @@ Unlike some other AMF genera (such as Glomus), Gigaspora species do not form ves
 
 ## Ecology and Habitat
 
-G. marginata is found in soils worldwide, particularly in tropical and temperate regions. It associates with a broad host range including grasses, forbs, legumes, and woody plants. The fungus is commonly found in natural grasslands, agricultural soils, and disturbed habitats undergoing succession.
+G. marginata is found in soils worldwide, particularly in tropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It associates with a broad host range including grasses, forbs, legumes, and woody plants. The fungus is commonly found in natural grasslands, agricultural soils, and disturbed habitats undergoing succession.
 
 As an arbuscular mycorrhizal fungus, G. marginata cannot be grown in pure culture without a plant host, which has limited the amount of physiological data available compared to ectomycorrhizal species that can be cultured on artificial media.
 
@@ -51,9 +51,9 @@ G. marginata benefits host plants through several mechanisms:
 
 1. **Enhanced phosphorus uptake:** The extensive extraradical hyphal network accesses phosphorus beyond the depletion zone around roots, transporting it back to the plant via arbuscules.
 2. **Improved nitrogen acquisition:** Inoculated plants showed higher nitrogen content, suggesting enhanced N uptake or improved N cycling.
-3. **Drought tolerance:** Mycorrhizal association improves plant water relations through hyphal water transport and improved soil structure.
+3. **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Mycorrhizal association improves plant water relations through hyphal water transport and improved soil structure.
 4. **Soil stabilization:** Hyphal networks and glomalin production improve soil aggregation and reduce erosion.
-5. **Disease protection:** Mycorrhizal colonization can reduce root pathogen infection through physical and biochemical mechanisms.
+5. **Disease protection:** [[mycorrhizal-colonization-thresholds]] can reduce root pathogen infection through physical and biochemical mechanisms.
 
 ## Key Facts
 
@@ -72,13 +72,13 @@ G. marginata is relevant to several applied mycology areas:
 
 1. **Mine reclamation:** Proven effectiveness in improving grass establishment on lignite mine overburden makes it a candidate for large-scale restoration inoculation programs.
 
-2. **Sustainable agriculture:** As an AMF with broad host range, understanding its role in nutrient cycling could improve fertilizer use efficiency in agricultural systems.
+2. **[[mushroom-cultivation-for-sustainable-agriculture]]:** As an AMF with broad host range, understanding its role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] could improve fertilizer use efficiency in agricultural systems.
 
 3. **Soil health assessment:** The presence and diversity of Gigaspora species serve as indicators of soil health and ecosystem maturity.
 
 4. **Inoculum production:** Developing efficient inoculum production methods for G. marginata would support restoration applications, though the obligate symbiotic nature of AMF presents challenges.
 
-5. **Comparative mycorrhizal ecology:** Studies comparing G. marginata with Glomus fasciculatum inform our understanding of functional diversity within arbuscular mycorrhizal communities and how different AMF species contribute to plant performance.
+5. **Comparative mycorrhizal ecology:** Studies comparing G. marginata with Glomus fasciculatum inform our understanding of functional diversity within arbuscular [[mycorrhizal-communities-ecosystem-function]] and how different AMF species contribute to plant performance.
 
 ## References
 

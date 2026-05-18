@@ -1,5 +1,5 @@
 ---
-title: Ganoderma Lucidum Pharmacology and Bioactive Compounds
+title: Ganoderma Lucidum Pharmacology And Bioactive Compounds
 source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
@@ -17,7 +17,7 @@ type: concept
 
 ## Cultural Significance
 
-The most depicted mushroom in ancient Japanese, Korean, and Chinese art. Extensively featured in Chinese royal tapestries and the Forbidden City pavilion door motifs. Widely used in the Orient as a talisman against evil. Both the Phoenix bird and the Reishi mushroom are ancient Chinese symbols of longevity—often depicted together in art.
+The most depicted [[shroom-cultural-history-mushroom-in-ancient-civilizations]] Japanese, Korean, and Chinese art. Extensively featured in Chinese royal tapestries and the Forbidden City pavilion door motifs. Widely used in the Orient as a talisman against evil. Both the Phoenix bird and the Reishi mushroom are ancient Chinese symbols of longevity—often depicted together in art.
 
 ## Bioactive Compound Classes
 
@@ -72,7 +72,7 @@ Additional bioactive compound classes present in the mushroom and [[mycelium]].
 - **Enhances bone marrow nucleated cell proliferation**: Counteracts bone marrow suppression
 
 ### Nervous System
-- **Central depressant action**: On the autonomic nervous system
+- **Central depressant action**: On the [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]]
 - **Peripheral anticholinergic action**: Reduces effects of [[caffeine]] and relaxes muscles
 - **Improved adrenocortical function**
 
@@ -122,11 +122,11 @@ Originally rare and expensive. Now artificially cultivated on:
 
 ## Market Significance
 
-"Estimates place the annual value of G. lucidum products worldwide at more than US $1.6 billion." This makes it by far the most commercially significant medicinal mushroom.
+"Estimates place the annual value of G. lucidum [[regulatory-frameworks-for-medicinal-mushroom-products-worldwide]] at more than US $1.6 billion." This makes it by far the most commercially significant medicinal mushroom.
 
 ## Quality Considerations
 
-The medicinal properties vary depending on:
+The [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]] vary depending on:
 - Stage of growth
 - Environment of cultivation
 - Substrate used

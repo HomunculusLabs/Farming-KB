@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Fungi — Biology, Host Relationships, and Phylogeny
+title: Arbuscular Mycorrhizal Fungi Biology Host Relationships Phylogeny
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -12,7 +12,7 @@ Arbuscular mycorrhizal (AM) fungi form one of the most widespread and ecological
 
 ## Taxonomic Classification and Systematics
 
-The order Glomales was formally established by Morton and Benny (1990), reorganizing taxa previously assigned to Endogonales by Gerdemann and Trappe (1974). This reclassification reflected fundamental differences in spore morphology, mycelial structure, and symbiotic behavior that distinguished [[arbuscular-mycorrhizal-fungi]] from other zygomycete-like organisms. The phylogenetic framework, based on morphological characters of the mycelium and reproductive spores (Morton 1990a; Morton and Benny 1990; Morton and Redecker 2001), recognizes two major suborders: **Glomineae** and **Gigasporineae**.
+The order Glomales was formally established by Morton and Benny (1990), reorganizing taxa previously assigned to Endogonales by Gerdemann and Trappe (1974). This reclassification reflected fundamental differences in spore morphology, mycelial structure, and symbiotic behavior that distinguished [[arbuscular-mycorrhizal-fungi]] from other zygomycete-like organisms. The phylogenetic framework, based on [[culturing-macrofungi-describing-morphological-characters]] of the mycelium and reproductive spores (Morton 1990a; Morton and Benny 1990; Morton and Redecker 2001), recognizes two major suborders: **Glomineae** and **Gigasporineae**.
 
 ## Mycelial Structure and Growth
 
@@ -62,7 +62,7 @@ This distinction has important implications for the spread and persistence of AM
 
 ### Host Specificity and Fungal Communities
 
-Host specificity in AM fungi is **minimal or absent under controlled culture conditions** (Smith and Gianinazzi-Pearson 1988; Brundrett 1991; Smith and Read 1997). The International Culture Collection of Vesicular Arbuscular [[mycorrhizal-fungi]] (INVAM) has established more than 200 fungal accessions from single spores, many of which can colonize a broad range of host species. However, fungal communities in nature are **rarely composed of a single species** (Morton 1999); multiple AM fungal taxa typically co-occur within the same root system and rhizosphere.
+Host specificity in AM fungi is **minimal or absent under controlled culture conditions** (Smith and Gianinazzi-Pearson 1988; Brundrett 1991; Smith and Read 1997). The International Culture Collection of [[vam-vesicular-arbuscular-mycorrhizae]] [[mycorrhizal-fungi]] (INVAM) has established more than 200 fungal accessions from single spores, many of which can colonize a broad range of host species. However, fungal communities in nature are **rarely composed of a single species** (Morton 1999); multiple AM fungal taxa typically co-occur within the same root system and rhizosphere.
 
 ### Non-Mycorrhizal Plants
 
@@ -95,7 +95,7 @@ Several fundamental questions remain unresolved in AM fungal biology. The obliga
 ## See Also
 
 - Mycorrhizal Fungi (general overview)
-- Ectomycorrhizal Associations
+- [[ectomycorrhizal-associations]]
 - Glomeromycota
 - Rhizosphere Ecology
 - Plant-Fungal Symbioses
@@ -105,7 +105,7 @@ Several fundamental questions remain unresolved in AM fungal biology. The obliga
 
 - Abbott and Gazey (1994) — Agricultural/horticultural significance
 - An et al. (1993) — Field sporulation variability
-- Bagyaraj (1984) — Mycorrhizosphere interactions
+- Bagyaraj (1984) — [[mycorrhizal-helper-bacteria-mycorrhizosphere-interactions]]
 - Biermann and Linderman (1983) — Infectivity differences between suborders
 - Brundrett (1991) — Host specificity
 - Franke and Morton (1994) — Sporulation threshold biomass
@@ -124,7 +124,7 @@ Several fundamental questions remain unresolved in AM fungal biology. The obliga
 - Peterson and Bradbury (1995) — Mycorrhiza-resistant mutants
 - Rambelli (1973) — Mycorrhizosphere concept
 - Rosendahl and Taylor (1997) — Genetic evidence for clonal reproduction
-- Safir (1987) — Phosphorus acquisition
+- Safir (1987) — [[arbuscular-mycorrhizal-phosphorus-acquisition]]
 - Smith and Gianinazzi-Pearson (1988) — Host specificity and P acquisition
 - Smith and Read (1997) — Comprehensive mycorrhizal biology
 - Tester et al. (1987) — Non-AM plant orders

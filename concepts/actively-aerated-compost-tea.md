@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Actively aerated compost tea (AACT) is the third tool in [[the-soil-food-web]] gardener's toolkit, alongside compost and mulch. It puts concentrated microbiology directly into soils and onto leaf surfaces, overcoming the key limitations of compost and mulch: slow delivery to the rhizosphere and inability to adhere to leaf surfaces. AACT is a fast, inexpensive, and effective way to manage [[soil-food-web]] microbiology in gardens and landscapes.
+Actively aerated compost tea (AACT) is the third tool in [[the-soil-food-web]] gardener's toolkit, alongside [[using-accumulators-in-compost-and-mulch]]. It puts concentrated microbiology directly into soils and onto leaf surfaces, overcoming the key limitations of compost and mulch: slow delivery to the rhizosphere and inability to adhere to leaf surfaces. AACT is a fast, inexpensive, and effective way to manage [[soil-food-web]] microbiology in gardens and landscapes.
 
 ## How AACT Differs from Other Preparations
 
@@ -31,7 +31,7 @@ Per milliliter of properly made compost tea:
 - Active bacteria: 10–150 µg
 - Total bacteria: 150–300 µg
 - Active fungi: 5–20 µg
-- Flagellates and beneficial nematodes should also be present
+- Flagellates and [[ingham-beneficial-nematodes-soil-food-web]] should also be present
 
 ## Compost Tea Brewers
 
@@ -65,7 +65,7 @@ Placing compost in a porous bag eliminates the need to strain tea before sprayin
 Bacterial bioslime accumulates in unexpected locations — bucket walls, bottom crevices, inside tubing and fittings. It must be cleaned immediately after use:
 
 - While still wet, wipe or flush with hose water
-- Dried slime can be removed with 3% hydrogen peroxide or 5% baking soda solution
+- Dried slime can be removed with 3% [[cervantes-hydrogen-peroxide-sterilization]] or 5% baking soda solution
 - Disassemble hoses and fittings for thorough cleaning
 - Keep air stones and tubing clean to prevent clogging
 
@@ -85,8 +85,8 @@ AACT addresses practical limitations of the other two soil food web tools:
 
 ## Nutrient Cycling in Mulch Systems
 
-Even with optimal bacteria and fungi in mulch, nutrient cycling requires protozoa and nematodes. Protozoa can be cultivated by soaking fresh grass clippings, alfalfa, hay, or straw in dechlorinated water for 3–4 days with aquarium aeration. The resulting protozoa soup, visible with a hand lens, can be poured onto mulches to dramatically increase nutrient cycling capacity.
+Even with optimal bacteria and fungi in mulch, nutrient cycling requires [[teaming-with-microbes-protozoa-and-nematodes]]. Protozoa can be cultivated by soaking fresh grass clippings, alfalfa, hay, or straw in dechlorinated water for 3–4 days with aquarium aeration. The resulting protozoa soup, visible with a hand lens, can be poured onto mulches to dramatically increase nutrient cycling capacity.
 
 ## Summary
 
-Actively aerated compost tea is the most versatile and efficient tool for soil food web management. It overcomes the physical and biological limitations of compost and mulch by delivering concentrated, living microbiology directly to both soil and leaf surfaces. The key requirements are: quality compost as the microbial source, dechlorinated water, continuous aeration to maintain aerobic conditions, appropriate supplemental nutrients, and careful handling during application to protect living organisms.
+Actively aerated compost tea is the most versatile and efficient tool for soil food web management. It overcomes the physical and biological limitations of compost and mulch by delivering concentrated, living microbiology directly to both soil and leaf surfaces. The key requirements are: [[high-quality-compost-and-humanure]] as the microbial source, dechlorinated water, continuous aeration to maintain aerobic conditions, appropriate supplemental nutrients, and careful handling during application to protect living organisms.

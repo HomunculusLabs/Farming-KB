@@ -1,5 +1,5 @@
 ---
-title: Infiltration, Slope Stabilisation, and [[floodwater-harvesting-and-braided-stream-management]]
+title: Infiltration Slope Stabilisation And Floodwater Harvesting
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

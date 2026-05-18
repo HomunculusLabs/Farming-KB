@@ -30,7 +30,7 @@ Large-scale isolation studies across diverse ecosystems demonstrate the vast spe
 
 Several patterns emerge from these data. Temperate forests with large isolate numbers (e.g., New York Quercus-Pinus at 15,770 isolates, 267 species) tend to show high absolute richness but relatively modest species-per-isolate ratios. In contrast, smaller but more intensively curated tropical surveys (e.g., Ivory Coast with 164–194 species per site) reveal exceptional richness per unit sampling effort. Desert surveys demonstrate that harsh environments can support high fungal diversity despite low propagule densities, while specialized single-genus studies (e.g., Fusarium in Australia, Aspergillus in India and Taiwan) reveal that even well-known genera harbor substantial undocumented diversity.
 
-These data collectively underscore the difficulty of direct cross-study comparison: isolate numbers vary by two orders of magnitude, and species-isolate relationships are decidedly nonlinear.
+These data collectively underscore the difficulty of direct cross-study comparison: isolate numbers vary by two [[event-classification-and-orders-of-magnitude]], and species-isolate relationships are decidedly nonlinear.
 
 ## Species-Abundance Relationships
 
@@ -84,13 +84,13 @@ Disturbance and treatment effects — including burning, fumigation, and logging
 Two promising avenues for extending the Wisconsin surveys were identified:
 
 1. **Expanded quantitative survey with multivariate analysis** — applying modern statistical techniques to the extensive existing dataset to resolve finer-scale environmental gradients.
-2. **Expanded species lists using selective isolation techniques** — employing ethanol pasteurization, soil steaming, Botran/dichloran amendments, and high-temperature incubation to recover species missed by standard plating methods.
+2. **Expanded species lists using [[endophytic-fungi-selective-isolation-molecular-histological-methods]] techniques** — employing [[ethanol-pasteurization-selective-fungal-isolation]], soil steaming, Botran/dichloran amendments, and high-temperature incubation to recover species missed by standard plating methods.
 
 ## Species Distributions and Assemblages
 
 ### Environmental Correlates
 
-Fungal community composition correlates strongly with environmental parameters and land use. In temperate regions, a strong positive correlation exists between vascular plant diversity and soil-fungal diversity. Compositions are regulated by climatic and edaphic factors, with ecological similarity superseding geographic proximity as a predictor of community resemblance. An experienced taxonomist can often guess the vegetation type and climate from the 10–20 most abundant fungal species in a soil sample, making soil fungal similarity an outstanding indicator of overall environmental similarity.
+Fungal community composition correlates strongly with environmental parameters and land use. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], a strong positive correlation exists between vascular plant diversity and soil-fungal diversity. Compositions are regulated by climatic and [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]], with ecological similarity superseding geographic proximity as a predictor of community resemblance. An experienced taxonomist can often guess the vegetation type and climate from the 10–20 most abundant fungal species in a soil sample, making soil fungal similarity an outstanding indicator of overall environmental similarity.
 
 ### Habitat-Specific Assemblages
 
@@ -118,7 +118,7 @@ Several overarching conclusions emerge from the synthesis of global survey data 
 
 - **Scale matters:** Species richness cannot be meaningfully compared across studies without standardization via rarefaction or similar techniques.
 - **Environment over geography:** Ecological similarity — in terms of climate, vegetation, and soil conditions — is a stronger predictor of fungal community composition than geographic proximity.
-- **Vegetation as a template:** While vegetation type provides a first-order prediction of fungal community structure, proximate factors such as litter chemistry, [[soil-ph]], and moisture can override biome-level patterns.
+- **Vegetation as a template:** While vegetation type provides a first-order prediction of [[mineralogical-controls-fungal-community-structure]], proximate factors such as litter chemistry, [[soil-ph]], and moisture can override biome-level patterns.
 - **Indicator value:** Soil fungal assemblages serve as sensitive and integrative indicators of environmental conditions, useful for both basic ecology and applied monitoring.
 - **Undersampled diversity:** Selective isolation techniques and molecular methods continue to reveal species missed by standard culture-based surveys, suggesting that current species inventories substantially underestimate true fungal diversity.
 

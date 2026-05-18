@@ -1,5 +1,5 @@
 ---
-title: [[anne-kennedy-soil-microbiologist]] (Soil Ecologist)
+title: Anne Kennedy Soil Ecologist
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: entity
 ---

@@ -1,5 +1,5 @@
 ---
-title: "mckenna fungal fossil gap [[stropharia-cubensis-spore-electron-density-interstellar-survival]] and metal hardness Gap, Spore Electron Density, and the Metal-Hardness Anomaly"
+title: Mckenna Fungal Fossil Gap Spore Electron Density And Metal Hardness
 source: "mckenna-tryptamine-hallucinogens-and-consciousness and Consciousness (Esalen, 1983)"
 topic: "panspermia-fungi"
 tags:

@@ -1,5 +1,5 @@
 ---
-title: DMT [[mescaline-extraction-guide]]
+title: Dmt Extraction Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

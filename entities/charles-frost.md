@@ -1,5 +1,5 @@
 ---
-title: [[charles-frost-mycologist]]
+title: Charles Frost
 source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 tags: [person, mycologist, american, vermont, 19th-century]
@@ -76,7 +76,7 @@ The practical implications for communities and practitioners are substantial. Kn
 
 ## Cultural and Historical Significance
 
-The study and understanding of [[charles-frost-mycologist]] connects to broader themes in
+The study and understanding of charles frost connects to broader themes in
 mycology, ethnobotany, and the history of natural science. Documentation of
 this subject appears in both historical texts and contemporary research,
 reflecting ongoing interest in its properties and applications.

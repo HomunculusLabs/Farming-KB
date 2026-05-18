@@ -29,7 +29,7 @@ Each gemma develops a new thallus within 2–3 weeks under favorable conditions 
 
 The spores are relatively large for a liverwort, measuring 18–25 μm in diameter. They are released when the capsule dehisces and are dispersed by wind or water.
 
-Gemmae production continues year-round in favorable conditions, ensuring population persistence even without sexual reproduction. This is a key factor in the species' weedy character.
+Gemmae production continues year-round in favorable conditions, ensuring population persistence even without [[basidiomycete-mating-systems-sexual-reproduction]]. This is a key factor in the species' weedy character.
 
 ## Ecological Role
 
@@ -44,7 +44,7 @@ The species is moderately sensitive to air pollution, particularly sulfur dioxid
 ## Overview
 
 Lunularia Cruciata represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -65,7 +65,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Lunularia Cruciata finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -73,13 +73,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for lunularia cruciata. Climate adaptation
+opportunities for lunularia cruciata. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -94,7 +94,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 lunularia cruciata and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

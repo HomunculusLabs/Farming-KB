@@ -16,11 +16,11 @@ When some plants are getting diseased or when conditions are unfavorable for cer
 
 ### Compost Tea Spray
 
-Spray your garden with liquid kelp or compost tea, which provides trace elements and other fortifying elements that improve plants' resistance to disease.
+Spray your garden with liquid kelp or compost tea, which provides [[soil-trace-elements-and-micronutrients]] other fortifying elements that improve plants' resistance to disease.
 
 ### The Elaine Ingham Method
 
-Dr. Blaine (Elaine) Ingham, an Australian at Oregon State University, discovered that compost teas brewed from high-quality composts contain beneficial microorganisms that, applied to foliage, can prevent disease-causing organisms from establishing on leaf surfaces. A week or so after spraying, they prevent disease from gaining a foothold.
+Dr. Blaine (Elaine) Ingham, an Australian at Oregon State University, discovered that compost teas brewed from high-quality composts contain [[forest-and-bamboo-beneficial-microorganisms]] that, applied to foliage, can prevent disease-causing organisms from establishing on leaf surfaces. A week or so after spraying, they prevent disease from gaining a foothold.
 
 **Important**: This is not simply a matter of dumping compost into a barrel and brewing "tea." The compost has to be quality stuff — the ratio of manure to vegetation, and the quality of that vegetation (how much woody matter vs. green stuff) determines which diseases the tea will control.
 
@@ -30,7 +30,7 @@ Regular (weekly) foliar feeding of vegetables is a good idea in any case. It doe
 - Homebrewed compost/manure teas
 - Liquid kelp sprays
 - Fish emulsion sprays
-- Hydroponic nutrient solutions as foliars (for non-organic gardeners)
+- [[hydroponic-nutrient-management]] solutions as foliars (for non-organic gardeners)
 
 ## Specific Diseases
 
@@ -73,7 +73,7 @@ Commonly seen on cucurbits, bacterial wilt causes sudden wilting of individual r
 
 ### Blossom End Rot
 
-A physiological disorder (not a pathogen) of tomatoes and peppers caused by calcium deficiency or irregular watering.
+A physiological disorder (not a pathogen) of tomatoes and peppers caused by [[knf-calcium-deficiency-symptoms]] or irregular watering.
 
 **Management**:
 - Maintain consistent soil moisture
@@ -107,11 +107,11 @@ The organic doctrine holds that a truly healthy plant will either be unassailabl
 
 ## End-of-Season Sanitation
 
-Thorough cleanup at season's end is one of the most important disease prevention practices:
+Thorough cleanup at season's end is one of the most important [[cervantes-damping-off-seedling-disease-prevention]] practices:
 
 - Remove all diseased plant material from the garden
 - Burn or hot-compost infected material (regular composting may not kill all pathogens)
-- Clean up all plant residue, boards, and debris where pests and diseases can overwinter
+- Clean up all plant residue, boards, and debris where [[mushroom-pests-and-diseases]] can overwinter
 - Don't leave root masses in the ground — dig them up and compost them
 
 ## See Also

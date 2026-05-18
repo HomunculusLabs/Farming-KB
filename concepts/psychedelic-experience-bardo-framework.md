@@ -1,5 +1,5 @@
 ---
-title: [[leary-psychedelic-experience-bardo-mapping]] Framework
+title: Psychedelic Experience Bardo Framework
 source: leary-t-the-psychedelic-experience.md
 type: concept
 created: 2026-05-14

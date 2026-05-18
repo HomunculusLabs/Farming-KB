@@ -19,7 +19,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 - Source: [[harmine-entity-tihkal]] and [[golden-guide-syrian-rue-and-maoi-plants]]) and [[harmine-entity-tihkal]]
 and [[harmaline-entity-tihkal]] are better-studied MAOIs, tetrahydroharmine
 may be an extremely important — and underappreciated — factor in the overall
-pharmacology of ayahuasca preparations.
+pharmacology of [[schultes-ayahuasca-preparations]].
 
 The natural isolate is the dextrorotatory isomer ([a]D +32°), whereas the
 existing human trial used the synthetic racemate.
@@ -43,7 +43,7 @@ spectrum and melting point, and no depression in mixed melting point.
 
 ## Expanded Pharmacological Context
 
-Tetrahydroharmine's role in ayahuasca pharmacology is increasingly recognized
+Tetrahydroharmine's role in [[ayahuasca-pharmacology]] is increasingly recognized
 as more complex and potentially more important than previously appreciated.
 While harmine and harmaline are potent reversible inhibitors of MAO-A
 (the enzyme primarily responsible for serotonin and DMT metabolism),
@@ -76,7 +76,7 @@ traditional ayahuasca component
 ## Overview
 
 Tetrahydroharmine Entity Tihkal represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tetrahydroharmine Entity Tihkal finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 tetrahydroharmine entity tihkal and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,5 +1,5 @@
 ---
-title: [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
+title: Edible Mushroom Families
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

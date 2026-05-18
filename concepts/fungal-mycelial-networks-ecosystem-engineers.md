@@ -1,5 +1,5 @@
 ---
-title: [[fungal-mycelial-networks-nutrient-translocation]] as Ecosystem Engineers
+title: Fungal Mycelial Networks Ecosystem Engineers
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

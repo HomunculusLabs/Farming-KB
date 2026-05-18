@@ -1,5 +1,5 @@
 ---
-title: "Shiitake vs Reishi"
+title: Comparison Shiitake Vs Reishi
 tags: [comparison, shiitake, reishi, medicinal-mushrooms, mycology]
 date: 2026-05-11
 updated: 2026-05-11
@@ -10,8 +10,8 @@ sources: []
 
 ## Overview
 
-Shiitake (Lentinula edodes) and reishi (Ganoderma lucidum) are two of the
-most important medicinal mushrooms in the world, yet they serve completely
+Shiitake (Lentinula edodes) and reishi ([[ganoderma-lucidum]]) are two of the
+most [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] in the world, yet they serve completely
 different primary purposes. Shiitake is prized as a culinary delicacy with
 significant medicinal benefits, while reishi is the premier medicinal
 polypore — too woody and bitter to eat, but revered for 2,000 years in
@@ -36,7 +36,7 @@ adaptogen: stimulating underactive immune systems while calming overactive
 ones. Key mechanisms include NK cell activation, macrophage enhancement,
 T-cell regulation, and suppression of the NF-kB inflammatory pathway.
 
-Reishi is cultivated on supplemented hardwood sawdust in bags or jars,
+Reishi is cultivated on supplemented [[hardwood-sawdust-substrate]] in bags or jars,
 requiring sterilization (15 psi, 60-90 min), warm fruiting temperatures
 (70-85°F / 21-29°C), very high humidity (85-95%), and moderate light.
 Two cultivation forms exist: standard conks (flat, shelf-like) and antler
@@ -58,7 +58,7 @@ works cumulatively over weeks and months.
 | **Key Compounds** | Lentinan, eritadenine, LEM | Ganoderic acids, beta-glucans |
 | **Top Health Benefit** | Cholesterol reduction, immunity | Immune modulation, adaptogen |
 | **Cultivation Difficulty** | Easy (logs) to moderate | Moderate to advanced |
-| **Substrate** | Hardwood logs or sawdust | Supplemented sawdust (sterilized) |
+| **Substrate** | Hardwood logs or sawdust | [[oyster-mushroom-supplemented-sawdust-blocks]] (sterilized) |
 | **Time to First Harvest** | 6-18 mo (logs), 4-8 wk (sawdust) | 2-4 months (sawdust conks) |
 | **Fruiting Temp** | 55-65°F (13-18°C) | 70-85°F (21-29°C) |
 | **Preparation** | Cook fresh or dried | Long decoction or dual extract |
@@ -96,7 +96,7 @@ still air box, and a controlled fruiting environment. The payoff is a
 high-value medicinal product that stores well dried and can be processed
 into tinctures, teas, or capsules for year-round use.
 
-For cancer adjunct therapy, chronic fatigue, autoimmune modulation, and
+For cancer adjunct therapy, [[cannabis-chronic-fatigue-research]], autoimmune modulation, and
 deep immune system rebalancing, reishi has the stronger evidence base and
 more extensive pharmacological research.
 

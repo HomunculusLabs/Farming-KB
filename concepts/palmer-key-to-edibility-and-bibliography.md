@@ -1,5 +1,5 @@
 ---
-title: Key to Fungi Edibility and 19th Century [[mycological-bibliography-and-edibility-key]]
+title: Palmer Key To Edibility And Bibliography
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

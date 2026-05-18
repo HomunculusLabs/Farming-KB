@@ -1,5 +1,5 @@
 ---
-title: Staycare [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]] [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
+title: Staycare Fungal Formulation In Situ Bioremediation
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

@@ -61,7 +61,7 @@ The root and rhizome contain over 140 identified compounds. The pharmacologicall
 
 **Phenolic acids:** Gallic, chlorogenic, caffeic, p-hydroxybenzoic, p-coumaric, and ferulic acid.
 
-**Essential oil** (0.05-0.1% of dry root weight): Geraniol, n-decanol, cinnamyl alcohol (responsible for the rose scent), phenylethyl alcohol, benzyl alcohol, and myrtenol.
+**[[permaculture-designers-manual-essential-oil-plants]]** (0.05-0.1% of dry root weight): Geraniol, n-decanol, cinnamyl alcohol (responsible for the rose scent), phenylethyl alcohol, benzyl alcohol, and myrtenol.
 
 **Other constituents:** Organic acids (oxalic, malic, succinic, citric, fumaric), terpenes (beta-sitosterol, daucosterol), and monosaccharides. Early reports of alkaloids were overstated; only trace amounts have been confirmed.
 
@@ -71,7 +71,7 @@ Standardized pharmaceutical preparations are calibrated to 3% total rosavins (ro
 
 **Scandinavian/Viking tradition:** Vikings reportedly consumed *R. rosea* to enhance physical endurance during long voyages and raids. In Norway and Iceland it was used as a general tonic and strength enhancer (called "roserot"). Sami people employed it as a tonic herb.
 
-**Siberian/Russian tradition:** Extensively used in Siberian folk medicine for fatigue, depression, anemia, impotence, gastrointestinal ailments, infections, and nervous system disorders. Given to couples to improve fertility. Siberians traditionally transported the root over long distances as a valued commodity believed to confer longevity.
+**Siberian/Russian tradition:** Extensively used in Siberian [[magical-illness-peruvian-amazon-folk-medicine]] for fatigue, depression, anemia, impotence, gastrointestinal ailments, infections, and nervous system disorders. Given to couples to improve fertility. Siberians traditionally transported the root over long distances as a valued commodity believed to confer longevity.
 
 **Traditional Chinese Medicine:** Known as hong jing tian, it appears in the *Bencao Gangmu* (1596) by Li Shizhen. Classified as a Qi tonic, it is used to invigorate Qi, nourish blood, clear lung heat, and calm the mind. Traditional indications include altitude sickness, fatigue, post-illness weakness, cough, and hemoptysis. Tibetan peoples of the Himalayas have used it for altitude sickness for centuries.
 

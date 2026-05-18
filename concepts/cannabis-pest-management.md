@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-pest-management-guide]]
+title: Cannabis Pest Management
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

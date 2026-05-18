@@ -21,7 +21,7 @@ The Labrador Current is part of a global family of cold eastern-boundary current
 
 ## Historical Background
 
-The study of labrador current has evolved through decades of scientific research
+The study of labrador current has evolved through decades of [[psilocybin-isolation-and-early-scientific-research]]
 and practical experimentation. Early observations by naturalists and agricultural
 pioneers laid the groundwork for modern understanding, while contemporary
 research continues to refine techniques and applications.
@@ -36,7 +36,7 @@ strategies and long-term management practices.
 ## Practical Applications
 
 Labrador Current finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
+from agricultural systems to [[mycorrhizal-fungi-ecological-restoration]] projects.
 Practitioners integrate this knowledge into holistic design frameworks,
 optimizing outcomes through systematic observation and adaptive management.
 
@@ -62,7 +62,7 @@ all influence the optimal approach to implementation.
 ## Overview
 
 Labrador Current represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -83,7 +83,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Labrador Current finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -91,7 +91,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -112,7 +112,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 labrador current and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

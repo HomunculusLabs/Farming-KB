@@ -56,7 +56,7 @@ Road, rail, water, air access; clean transport development.
 Maps, species lists, resource inventories.
 
 ## Ethical Investment Movement (Section 14.13)
-The Permaculture Institute started teaching "banking on the earth" in
+The [[permaculture-institute]] started teaching "banking on the earth" in
 1983, following seminars with the E.F. Schumacher group. TOES (The
 Other Economic Summit) convenes annually in the UK, USA, Australia,
 and Canada.
@@ -66,7 +66,7 @@ and Canada.
   glasshouse, water tanks, irrigation, dams
 - **Medium-term:** Bee/chicken/pig forage systems, aquaculture,
   nurseries, subdivisions, tours
-- **Long-term:** Reafforestation, village development, land
+- **Long-term:** Reafforestation, [[permaculture-village-development]], land
   rehabilitation, property trusts
 
 ### Disinvestment Criteria
@@ -74,7 +74,7 @@ Disinvest from companies that:
 
 ## Overview
 
-Permaculture Designers Manual Strategic Planning represents an important element within sustainable
+[[bill-mollison-permaculture-designers-manual]] Strategic Planning represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Permaculture Designers Manual Strategic Planning finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 permaculture designers manual strategic planning and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context
@@ -137,7 +137,7 @@ current understanding and implementation strategies.
 
 ## Integration Strategies
 
-Successful integration of permaculture designers manual strategic planning into broader
+Successful integration [[preface-and-author-context-of-permaculture-designers-manual]] manual strategic planning into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.

@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-timber-frame-vs-cordwood-construction]] [[comparison-wattle-and-daub-vs-cob-construction]]"
+title: Comparison Timber Frame Vs Wattle And Daub
 tags: [comparison, natural-building, timber-frame, wattle-and-daub, traditional-building]
 date: 2026-05-12
 updated: 2026-05-12

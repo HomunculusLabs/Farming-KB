@@ -29,7 +29,7 @@ Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in canna
 - Useful for cachexia in cancer, eating disorders
 
 ### Muscle Relaxant
-- Reduces spasticity in multiple sclerosis
+- Reduces spasticity in [[blesching-cannabis-multiple-sclerosis]]
 - Useful for muscle spasms, cramps, tremor
 - THC:CBD 1:1 ratio (Sativex) is most studied formulation
 
@@ -46,7 +46,7 @@ Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in canna
 
 ### Desired Effects (at therapeutic doses)
 - Euphoria, relaxation, altered time perception
-- Enhanced sensory perception (music, food, art)
+- Enhanced [[plant-sensory-perception]] (music, food, art)
 - Reduced anxiety (low doses only)
 - Creative thinking, introspection
 
@@ -77,7 +77,7 @@ Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in canna
 ## Overview
 
 Cannabis Thc Therapeutic Profile represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cannabis Thc Therapeutic Profile finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -106,7 +106,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cannabis thc therapeutic profile and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

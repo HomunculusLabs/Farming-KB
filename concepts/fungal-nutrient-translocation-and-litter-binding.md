@@ -1,5 +1,5 @@
 ---
-title: [[dighton-fungal-nutrient-translocation-element-redistribution]] and Litter Binding
+title: Fungal Nutrient Translocation And Litter Binding
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

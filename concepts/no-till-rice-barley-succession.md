@@ -1,5 +1,5 @@
 ---
-title: No-Till Rice Barley Succession
+title: No Till Rice Barley Succession
 created: 2026-04-28
 tags:
   - farming
@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "The Natural Way of Farming - Masanobu Fukuoka"
+  - "The Natural Way of Farming - masanobu-fukuoka"
 type: concept
 ---
 
@@ -51,7 +51,7 @@ The clover is weakened by the brief flooding in early summer, allowing rice to e
 
 All rice and barley straw is returned to the field uncut after threshing. The straw promotes seed germination by maintaining soil moisture, suppresses winter weeds, and enriches the soil as it decomposes.
 
-Fukuoka deliberately proposed scattering all fresh straw over the field, contradicting conventional wisdom that rice straw must be burned to prevent rice blast disease. He argued this practice was only necessary because conventional farming produced weak, diseased plants.
+Fukuoka deliberately proposed scattering all fresh straw over the field, contradicting conventional wisdom that rice straw must be burned to prevent [[fukuoka-textdoc-non-causality-rice-blast-disease]]. He argued this practice was only necessary because conventional farming produced weak, diseased plants.
 
 Strong, healthy grain tolerates fresh straw without disease problems. Although it may appear crude and backward, spreading fresh straw on a rice field is really quite a bold and revolutionary step in rice farming.
 
@@ -59,7 +59,7 @@ Strong, healthy grain tolerates fresh straw without disease problems. Although i
 
 Fukuoka noted that releasing ten ducklings per quarter-acre onto the field when the rice seedlings become established could replace fertilization entirely. The ducks weed, pick off insects, and turn the soil.
 
-This represents an alternative to chicken manure application, integrating animal husbandry with [[fungal-ecosystem-processes-overview]].
+This represents an alternative to chicken manure application, integrating [[holzer-natural-animal-husbandry]] with [[fungal-ecosystem-processes-overview]].
 
 ## Alternative Configurations
 
@@ -67,7 +67,7 @@ Several variations exist for different conditions. In single-cropped rice, clove
 
 In shallow-tillage direct-seeding for water-leak fields, barley and rice seed may be sown together in autumn with light tilling to about two inches, then covered with straw. Bur clover or Chinese milk vetch may substitute for white clover in some systems.
 
-A third variation is the single-crop rice field with green manure cover. In this case, the farmer does not grow a winter grain at all but instead maintains the clover cover through winter, scattering rice seed directly over the clover in spring. This simplifies operations further but sacrifices the winter grain harvest.
+A third variation is the single-crop rice field with [[green-manure-cover-crops]]. In this case, the farmer does not grow a winter grain at all but instead maintains the clover cover through winter, scattering rice seed directly over the clover in spring. This simplifies operations further but sacrifices the winter grain harvest.
 
 ## Yields
 
@@ -89,7 +89,7 @@ suggests multiple pathways for further exploration and refinement.
 ## Integration and Implementation
 
 Successful implementation of no till rice barley succession requires attention to site-specific
-conditions and adaptive management strategies. Integration with complementary
+conditions and adaptive [[forest-management-strategies]]. Integration with complementary
 practices often enhances overall outcomes. Practitioners recommend starting with
 small-scale trials before scaling up, documenting results systematically to
 inform future decisions and share knowledge with the broader community.

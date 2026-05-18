@@ -1,5 +1,5 @@
 ---
-title: [[dryland-salting-causes-and-cautious-approaches]]
+title: Dryland Salting Mollison
 source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---

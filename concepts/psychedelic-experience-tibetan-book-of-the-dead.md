@@ -1,5 +1,5 @@
 ---
-title: [[leary-psychedelic-experience-bardo-mapping]] Based on the Tibetan Book of the Dead
+title: Psychedelic Experience Tibetan Book Of The Dead
 source: leary-t-the-psychedelic-experience.md
 type: concept
 ---

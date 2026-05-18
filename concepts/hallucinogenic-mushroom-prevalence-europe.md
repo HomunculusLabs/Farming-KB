@@ -1,9 +1,9 @@
 ---
 title: Hallucinogenic Mushroom Prevalence Europe
 created: 2026-05-11
-source: EMCDDA (2006) - Hallucinogenic Mushrooms: An Emerging Trend Case Study
+source: EMCDDA (2006) - [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]]: An Emerging Trend Case Study
 tags: [epidemiology, prevalence, europe, hallucinogenic-mushrooms, drug-survey, youth, EMCDDA]
-aliases: [magic mushroom use europe, psilocybin prevalence EU, hallucinogenic mushroom statistics]
+aliases: [[european-prevalence-and-patterns-of-magic-mushroom-use]] europe, psilocybin prevalence EU, hallucinogenic mushroom statistics]
 ---
 
 # Hallucinogenic Mushroom Prevalence in Europe
@@ -18,7 +18,7 @@ Surveys conducted across 12 EU Member States revealed that **ever-in-lifetime us
 
 ### Comparison with Other Substances
 
-Overall prevalence estimates for hallucinogenic mushroom use in the EU are:
+Overall prevalence estimates [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] use in the EU are:
 
 - **Considerably lower** than cannabis (the most widely used illegal drug in Europe)
 - **Roughly equal to ecstasy** among school students aged 15-16 in some countries
@@ -87,5 +87,5 @@ The EMCDDA noted that the mushroom trend followed a classic pattern of drug mark
 
 [[magic-mushroom-market-trends]]
 - [[mushroom-legislation-europe]]
-- hallucinogenic mushroom health risks
-- smartshop regulation
+- [[emcdda-hallucinogenic-mushroom-health-risks]] risks
+- [[european-legal-responses-smartshop-regulation-hallucinogenic-mushrooms-emcdda]]

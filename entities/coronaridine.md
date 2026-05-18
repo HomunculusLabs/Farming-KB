@@ -32,7 +32,7 @@ The compound's serotonergic activity is believed to underlie its putative anti-a
 
 Unlike ibogaine, which has well-documented affinity for mu and [[iboga-root-bark-preparation]], making it a minor constituent compared to ibogaine (typically 1–6%).
 
-*Voacanga africana* bark and seeds contain coronaridine alongside voacangine, iboga alkaloids that serve as biosynthetic intermediates in the ibogaine pathway.
+*[[voacanga-africana]]* bark and seeds contain coronaridine alongside voacangine, iboga alkaloids that serve as biosynthetic intermediates in the ibogaine pathway.
 
 *Tabernaemontana divaricata* (crown flower) has been identified as a relatively rich source of coronaridine, with the alkaloid occurring in leaves, stems, and root bark.
 
@@ -49,7 +49,7 @@ The shared biosynthetic origin explains the structural similarities among iboga 
 ## Overview
 
 Coronaridine represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -70,7 +70,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Coronaridine finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -78,13 +78,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for coronaridine. Climate adaptation
+opportunities for coronaridine. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -99,7 +99,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 coronaridine and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

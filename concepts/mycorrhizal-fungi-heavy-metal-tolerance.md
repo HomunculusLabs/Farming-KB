@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Fungi and [[mycorrhizal-heavy-metal-tolerance]]
+title: Mycorrhizal Fungi Heavy Metal Tolerance
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

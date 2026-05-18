@@ -98,6 +98,8 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Copelandia Cyanescens finds practical application in multiple design contexts.
+
+- Related: [[psilocybe-fimetaria]] [[cold-shock-fruiting-trigger-species-specificity-psilocybe-panaeolus]]
 Permaculture principles guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
@@ -145,6 +147,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

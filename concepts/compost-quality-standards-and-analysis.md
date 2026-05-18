@@ -1,5 +1,5 @@
 ---
-title: [[aact-compost-quality-standards-ingham]] and Analysis
+title: Compost Quality Standards And Analysis
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

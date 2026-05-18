@@ -1,5 +1,5 @@
 ---
-title: [[psilocybin-mushroom-cultivation]] Basics
+title: Psilocybin Mushroom Cultivation Basics
 source: field-guide-to-the-psilocybin-mushroom.md
 type: concept
 ---

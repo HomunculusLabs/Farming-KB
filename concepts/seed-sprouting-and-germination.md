@@ -1,5 +1,5 @@
 ---
-title: [[solomon-seed-sprouting-conditions-laboratory-germination-technique]] and Germination
+title: Seed Sprouting And Germination
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

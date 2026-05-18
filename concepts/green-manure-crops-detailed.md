@@ -1,5 +1,5 @@
 ---
-title: Green Manure Crops — Detailed Guide
+title: Green Manure Crops Detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,13 +11,13 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-A [[green-manure]] is a crop grown specifically to add organic matter to beds that are empty for a period of time. It is sown with the intention of digging it into the soil to provide organic matter and plant food. While more valuable to large-scale farmers, green manure is also useful in small gardens — particularly on light soils where winter nutrient leaching is a major concern.
+A [[green-manure]] is a crop grown specifically to add organic matter to beds that are empty for a period of time. It is sown with the intention of digging it into the soil to provide [[savory-soil-organic-matter-and-decomposition-dynamics]] plant food. While more valuable to large-scale farmers, green manure is also useful in small gardens — particularly on light soils where winter [[green-cannabis-soil-flushing-nutrient-leaching]] is a major concern.
 
 ## Benefits
 
 - **Organic matter:** Soft green material rots down quickly, adding organic matter and increasing biological activity
-- **Nutrient cycling:** Deep-rooting crops bring minerals from lower soil levels to the surface (e.g., red clover and lupins root down over 7ft/2m)
-- **Nitrogen fixation:** Leguminous plants fix nitrogen through bacteria in root nodules; nitrogen becomes available to the next crop when dug in
+- **[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]:** Deep-rooting crops bring minerals from lower soil levels to the surface (e.g., red clover and lupins root down over 7ft/2m)
+- **[[biological-nitrogen-fixation-agriculture]]:** Leguminous plants fix nitrogen through bacteria in root nodules; nitrogen becomes available to the next crop when dug in
 - **Weed suppression:** Dense ground cover provides shade and competition for water and nutrients
 - **Soil protection:** Prevents winter leaching of nutrients on light soils; roots break up soil and improve drainage
 
@@ -96,7 +96,7 @@ Choose a plant that:
 - Quick-growing, short, shallow-rooting; makes plenty of organic matter; good weed suppressor
 - Sow: spring and summer, dig in before flowering
 - Scatter at 1oz (30g) per 4 sq yard/meter or rows 6in (15cm) apart
-- **Warning:** Member of cabbage family — could harbor clubroot
+- **Warning:** Member of [[cabbage-family-pests]] — could harbor clubroot
 
 ### Italian Ryegrass — *Lolium multiflorum*
 - Fast-growing and bulky; good for early spring sowing

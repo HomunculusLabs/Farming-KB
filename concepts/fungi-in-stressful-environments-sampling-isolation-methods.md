@@ -18,20 +18,20 @@ Fungi colonize an extraordinary range of stressful habitats, from geothermal soi
 
 Fungal community composition from stressful habitats is evaluated using modifications of the **particle-washing technique** (see Chapter 13). This approach is critical because it preferentially isolates **actively growing fungi at the time of sampling**, rather than merely capturing dormant spores or chlamydospores that may not represent the in-situ community.
 
-**Suspension plating** should be used only in conjunction with particle-washing, as it preferentially recovers [[spore|spore]]-forming taxa and may misrepresent the true community structure.
+**Suspension plating** should be used only in conjunction with particle-washing, as it preferentially recovers [[spore]]-forming taxa and may misrepresent the true [[acidifying-pollutants-mycorrhizal-community-structure]].
 
 ### Media Limitations and the Need for "Natural" Media
 
 Most conventional isolation media favor nutrient-rich substrata. This bias means that standard plating may not accurately assess species composition in oligotrophic or otherwise stressful field conditions. A key paradox exists:
 
 - **Low-nutrient conditions are stressful in the laboratory**, potentially suppressing fastidious taxa.
-- **High-nutrient media can induce production of secondary metabolites** that are themselves indicative of stress responses (Foster 1949), further complicating interpretation.
+- **High-nutrient media can induce production of [[antifungal-secondary-metabolites-coprophilous-fungi]]** that are themselves indicative of stress responses (Foster 1949), further complicating interpretation.
 
 Additional work is needed to evaluate the adequacy of traditional media for extreme-environment fungi. The development of **nutrient-poor media** (Wainwright 1993) and so-called **"natural" media** that more closely mimic field conditions should substantially improve isolation success and ecological relevance.
 
 ### Practical Approach
 
-Most current methods for extreme environments are essentially **modifications of existing practices** — for example, incubating plates at unusually high or low temperatures, or adjusting the pH of standard media. While pragmatic, these approaches underscore the need for purpose-built protocols tailored to specific stress gradients.
+Most current methods for [[fungal-biodiversity-in-extreme-environments]] are essentially **modifications of existing practices** — for example, incubating plates at unusually high or low temperatures, or adjusting the pH of standard media. While pragmatic, these approaches underscore the need for purpose-built protocols tailored to specific stress gradients.
 
 ---
 
@@ -39,7 +39,7 @@ Most current methods for extreme environments are essentially **modifications of
 
 ### Definition and Ecological Context
 
-Thermotolerant fungi grow at mesophilic temperatures but can tolerate or even thrive above 40°C. True thermophiles have optimal growth at or above 45°C. These fungi are common in composting systems, geothermal soils, stored grain, and other self-heating substrates.
+Thermotolerant fungi grow at mesophilic temperatures but can tolerate or even thrive above 40°C. True thermophiles have optimal growth at or above 45°C. These fungi are common in [[composting-systems]], geothermal soils, stored grain, and other self-heating substrates.
 
 ### Safety Considerations
 
@@ -68,7 +68,7 @@ Moisture loss is a significant practical problem at 50°C. Strategies include:
 
 #### Media Selection
 
-**PDA ([[potato-dextrose-agar]]) is unsatisfactory** — it shrivels and degrades at 50°C. Suitable media formulations are listed in Appendix II of the source text.
+**PDA ([[potato-dextrose-agar]]) is unsatisfactory** — it shrivels and degrades at 50°C. Suitable [[mushroom-nutrified-agar-media-formulations]] are listed in Appendix II of the source text.
 
 #### Enrichment Methods (Tansey and Jack 1976)
 
@@ -96,9 +96,9 @@ The choice of carbon source on agar enables targeted isolation of specific funct
 
 - ***Rhizomucor pusillus*** — primary sugar fungus (starch/lactose).
 - ***Humicola insolens*** — cellulose hydrolysis.
-- ***Phanerochaete chrysosporium*** — lignin degradation.
+- ***[[phanerochaete-chrysosporium]]*** — lignin degradation.
 
-Recalcitrant materials on agar are particularly effective for the selective isolation of taxa degrading cellulose, lignin, keratin, and other complex polymers.
+Recalcitrant materials on agar are particularly effective for the [[endophytic-fungi-selective-isolation-molecular-histological-methods]] of taxa degrading cellulose, lignin, keratin, and other complex polymers.
 
 #### Soil Washing for Rare Species
 

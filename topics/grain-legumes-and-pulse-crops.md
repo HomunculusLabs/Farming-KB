@@ -139,12 +139,8 @@ Indigenous and traditional practices have informed modern approaches.
 The synthesis of historical and contemporary knowledge enriches
 current understanding and implementation strategies.
 
-## Integration Strategies
+## See Also
 
-Successful integration of grain legumes and pulse crops into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
+- [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]
+- [[biological-nitrogen-fixation-agriculture]]
+- [[azotobacter-free-living-nitrogen-fixing-bacteria]]

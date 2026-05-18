@@ -1,5 +1,5 @@
 ---
-title: Pseudomonas as Core Endorhiza Member in [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
+title: Pseudomonas Core Endorhiza Cannabis
 created: 2026-05-09
 tags: [microbiome, pseudomonas, cannabis, endorhiza, core-community]
 date: 2026-05-09

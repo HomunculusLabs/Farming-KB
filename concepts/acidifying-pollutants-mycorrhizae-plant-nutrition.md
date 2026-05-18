@@ -1,5 +1,5 @@
 ---
-title: [[acidifying-pollutants-mycorrhizae]], Mycorrhizae, and Plant Nutrient Uptake
+title: Acidifying Pollutants Mycorrhizae Plant Nutrition
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

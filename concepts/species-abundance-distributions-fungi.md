@@ -1,12 +1,12 @@
 ---
-title: Species Abundance Distributions in Fungal Communities
+title: Species Abundance Distributions Fungi
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
 # Species Abundance Distributions in Fungal Communities
 
-Species abundance distributions (SADs) describe how individuals are partitioned among species within a fungal community. They are fundamental to understanding [[fungal-biodiversity]], community structure, and the ecological processes shaping assemblages across habitats ranging from forest soils to leaf surfaces.
+Species abundance distributions (SADs) describe how individuals are partitioned among species within a fungal community. They are fundamental to understanding [[fungal-biodiversity]], [[acidifying-pollutants-mycorrhizal-community-structure]], and the ecological processes shaping assemblages across habitats ranging from forest soils to leaf surfaces.
 
 ## Diversity Indices
 
@@ -78,7 +78,7 @@ Rank-abundance (Whittaker) plots display species ranked from most to least abund
 |-------|-------------------|------------------------|
 | Geometric series | Species-poor, stressed, or disturbed environments | Rhizoplane fungi on single plant roots |
 | Log-series | Very diverse, many rare species | Phylloplane fungi on leaf surfaces; diverse tropical soil fungi |
-| Lognormal | Species-rich, stable, mature communities | Forest soil fungal communities; leaf litter microfungi in late decomposition |
+| Lognormal | Species-rich, stable, mature communities | Forest soil fungal communities; [[biodiversity-of-fungi-leaf-litter-microfungi-survey-methods]] in late decomposition |
 | Broken-stick | Competitive equilibrium, high evenness | Rarely observed in full in natural fungal communities |
 
 ## Fungal Ecology Examples
@@ -113,19 +113,19 @@ Differentiation diversity describes the extent to which species composition diff
 
 - **Pattern diversity** — Turnover of species between samples within the same habitat; measured at a fine spatial grain. It captures microhabitat heterogeneity, such as differences between adjacent soil cores or individual leaves on the same tree.
 
-- **Beta diversity** — Species turnover between distinct habitats or along environmental gradients. In fungal ecology, beta diversity between root-associated and soil communities is typically high due to host selection and niche specialization.
+- **Beta diversity** — Species turnover between distinct habitats or along [[fungal-adaptations-environmental-gradients]]. In fungal ecology, beta diversity between root-associated and soil communities is typically high due to host selection and niche specialization.
 
-- **Delta (δ) diversity** — Turnover between major geographic regions or landscape units. It captures biogeographic and climatic controls on fungal community composition at broad scales.
+- **Delta (δ) diversity** — Turnover between major geographic regions or landscape units. It captures biogeographic and climatic controls on fungal [[core-endorhiza-bacterial-community-composition-cannabis]] at broad scales.
 
 ## Beta Diversity Metrics
 
-Multiple [[quantitative-indices-fungal-diversity|quantitative measures]] exist for assessing beta diversity, each emphasizing different aspects of compositional change:
+Multiple [[quantitative-indices-fungal-diversity]] exist for assessing beta diversity, each emphasizing different aspects of compositional change:
 
 - **Whittaker's β** = (S / ᾱ) − 1, where S is total species in the combined sites and ᾱ is mean [[species-richness-diversity-indices-fungi]] per site. This simple ratio captures additive species turnover and is a cornerstone of [[quantitative-indices-fungal-diversity]] in ecology.
 
-- **Jaccard and Sørensen dissimilarity** — Coefficient-based measures of pairwise compositional similarity, widely used in fungal community ecology studies employing sequencing data.
+- **Jaccard and Sørensen dissimilarity** — Coefficient-based measures of pairwise compositional similarity, widely used in fungal [[yeast-isolation-community-ecology]] studies employing sequencing data.
 
-- **Bray-Curtis dissimilarity** — Accounts for relative abundances (not just presence/absence), making it sensitive to changes in dominant fungal taxa across samples. A widely used [[similarity-distance-measures-fungal-ecology|similarity measure]] in community ecology.
+- **Bray-Curtis dissimilarity** — Accounts for relative abundances (not just presence/absence), making it sensitive to changes in dominant fungal taxa across samples. A widely used [[similarity-distance-measures-fungal-ecology]] in community ecology.
 
 - **Additive and multiplicative partitioning** — Frameworks that decompose gamma diversity into within- and between-habitat components, allowing ecologists to quantify the relative contributions of alpha and beta diversity to regional fungal richness.
 

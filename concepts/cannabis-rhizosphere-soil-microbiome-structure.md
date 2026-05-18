@@ -10,7 +10,7 @@ type: concept
 
 ## Overview
 
-The Cannabis root–soil microbiome exhibits a structured gradient from bulk soil through the [[rhizosphere]] to the endorhiza (root interior). Community composition is shaped by a hierarchy of factors: **soil type** is the dominant determinant, followed by **cultivar (strain)** and **sample compartment** (bulk soil vs. rhizosphere vs. endorhiza). These patterns emerge consistently across both weighted and unweighted UniFrac distance metrics, though the relative contributions shift depending on whether abundance-weighted or presence/absence-based distances are considered.
+The Cannabis root–soil microbiome exhibits a structured gradient from bulk soil through the [[rhizosphere]] to the endorhiza (root interior). [[core-endorhiza-bacterial-community-composition-cannabis]] is shaped by a hierarchy of factors: **soil type** is the dominant determinant, followed by **cultivar (strain)** and **sample compartment** (bulk soil vs. rhizosphere vs. endorhiza). These patterns emerge consistently across both weighted and [[weighted-unweighted-unifrac-discrepancy-cannabis-cultivar]] distance metrics, though the relative contributions shift depending on whether abundance-weighted or presence/absence-based distances are considered.
 
 ## Beta-Diversity Patterns
 
@@ -48,7 +48,7 @@ When Experiments 1 and 2 were combined, all three factors — soil type, sample 
 
 ### Relative Influence of Factors on Individual OTUs
 
-Differential abundance testing at the OTU level reinforced the dominance of soil type:
+[[otu-differential-abundance-cannabis-microbiome]] testing at the OTU level reinforced the dominance of soil type:
 
 - **Soil type**: 690 weighted-significant OTUs, 657 unweighted-significant OTUs — by far the strongest effect.
 - **Strain**: 71 weighted-significant OTUs, but **zero** unweighted-significant OTUs. This is a critical distinction: cultivar identity reshapes *relative abundances* of taxa without fundamentally altering *which taxa are present*.
@@ -63,7 +63,7 @@ OTUs that shifted significantly between Cannabis strains were overwhelmingly dra
 - **Proteobacteria**: Pseudomonadales, Burkholderiales, Sphingomonadales, Rhizobiales.
 - **Bacteroidetes**: Sphingobacteriales, Flavobacteriales.
 
-A notable strain-specific association was *Sphingomonas wittichii*, which was prevalent in the [[maui-wowie]] cultivar. This species can metabolize phenazine-1-carboxylic acid, a compound with antimicrobial properties. Its enrichment may reflect a cultivar-specific root exudate profile or a role in pathogen suppression, potentially contributing to increased survival in certain soils.
+A notable strain-specific association was *[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]*, which was prevalent in the [[maui-wowie]] cultivar. This species can metabolize phenazine-1-carboxylic acid, a compound with [[medicinal-mushroom-antimicrobial-properties]]. Its enrichment may reflect a cultivar-specific root exudate profile or a role in pathogen suppression, potentially contributing to increased survival in certain soils.
 
 ## Soil-to-Root Microbiome Gradients
 
@@ -122,7 +122,7 @@ This confound is a recurring challenge in [[cannabis-microbiome-research]]: chem
 
 ## Edaphic Determinant Rankings
 
-All measured edaphic factors (nitrogen, salinity, carbon, water content, pH) were significantly correlated with community beta-diversity across all experiments (all p=0.001). Their relative effect sizes, ranked by Mantel correlation coefficient:
+All measured [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] (nitrogen, salinity, carbon, water content, pH) were significantly correlated with community beta-diversity across all experiments (all p=0.001). Their relative effect sizes, ranked by Mantel correlation coefficient:
 
 | Rank | Factor | Weighted r | Unweighted r |
 |------|--------|-----------|-------------|

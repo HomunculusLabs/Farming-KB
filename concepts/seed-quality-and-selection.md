@@ -1,5 +1,5 @@
 ---
-title: [[seed-quality-and-selection-solomon|Seed]] Quality and Selection
+title: Seed Quality And Selection
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

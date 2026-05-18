@@ -1,5 +1,5 @@
 ---
-title: [[palmer-amanitine-poison-classification-treatment]] Mechanism
+title: Palmer Amanitine Poison Mechanism
 created: 2026-04-28
 tags: [amanita-poisoning, amanitine, toxicology, nineteenth-century, palmer]
 date: 2026-04-28

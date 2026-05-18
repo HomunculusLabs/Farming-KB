@@ -1,5 +1,5 @@
 ---
-title: [[early-american-mycology-and-palmer]] and Julius A. Palmer
+title: Early American Mycology Palmer
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

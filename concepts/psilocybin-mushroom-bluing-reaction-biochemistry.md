@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Bluing Reaction — Biochemistry and Detection
+title: Psilocybin Mushroom Bluing Reaction Biochemistry
 source: magic-mushrooms-around-the-world-by-jochen-gartz.md
 type: concept
 ---
@@ -28,15 +28,15 @@ The bluing reaction is driven by the oxidation of **psilocin** (the dephosphoryl
 4. **Accelerating enzymes** such as cytochrome oxidases and laccases further catalyze psilocin breakdown
 5. **Iron ions** (Fe²⁺/Fe³⁺) also accelerate the bluing reaction even in trace amounts
 
-Laccase enzymes have been found in the mycelia of *[[psilocybe-cubensis]]*. The blue-colored compounds formed are likely **quinone** structures — a basic chemical motif found in many natural pigments — though their exact structures have not been determined. They are quite unstable.
+[[singh-fungal-laccase-enzymes-bioremediation]] have been found in the mycelia of *[[psilocybe-cubensis]]*. The blue-colored compounds formed are likely **quinone** structures — a basic chemical motif found in many natural pigments — though their exact structures have not been determined. They are quite unstable.
 
 ### Why Some High-Psilocybin Mushrooms Don't Turn Blue
 
 The intensity and speed of bluing depends on:
 
 - **Enzymatic activity:** Different species have different phosphatase levels. *Psilocybe bohemica* displays a very strong bluing reaction despite having low or non-existent psilocin, because its phosphatases rapidly convert psilocybin to psilocin upon injury
-- **Psilocin vs. psilocybin ratio:** Species with more pre-existing psilocin (like Pacific Northwest *P. cyanescens*) turn blue more readily
-- **Timing:** *P. semilanceata* and *Inocybe aeruginascens* stems develop only slight stains after a long delay (30–60 minutes)
+- **Psilocin vs. psilocybin ratio:** Species with more pre-existing psilocin (like [[psilocybin-north-america-pacific-northwest]] *P. cyanescens*) turn blue more readily
+- **Timing:** *P. semilanceata* and *[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]* stems develop only slight stains after a long delay (30–60 minutes)
 
 ## Species Variation in Bluing
 
@@ -47,7 +47,7 @@ The intensity and speed of bluing depends on:
 | *Psilocybe cyanescens* | Strong | Intense blue staining, even in cold conditions |
 | *Gymnopilus purpuratus* | Moderate | Falls between the extremes |
 | *Psilocybe semilanceata* | Slight–moderate | Stems develop slight stains only after 30–60 min delay |
-| *Conocybe cyanopus* | Slight | Bluish-green at base, mainly with age |
+| *[[conocybe-cyanopus]]* | Slight | Bluish-green at base, mainly with age |
 | *Inocybe aeruginascens* | Slight | Greenish-blue discoloration; also from fly larva damage |
 | *Panaeolus subbalteatus* | Rare | Only ~1 in 100 mushrooms actually turns blue |
 
@@ -77,7 +77,7 @@ G. Drewitz discovered that iron chloride (FeCl₃) applied to *Inocybe aeruginas
 
 ## Alkaloid Degradation in Blue-Stained Specimens
 
-Old, strongly blue-discolored fruiting bodies and mycelia of *Psilocybe cubensis* have **considerably lower** levels of psilocin and psilocybin compared to younger specimens. The blue pigments are the oxidation products — the alkaloids are being destroyed as they form the blue color. This has practical implications:
+Old, strongly blue-discolored fruiting bodies and mycelia of *Psilocybe cubensis* have **considerably lower** levels of [[concise-large-scale-synthesis-of-psilocin-and-psilocybin]] compared to younger specimens. The blue pigments are the oxidation products — the alkaloids are being destroyed as they form the blue color. This has practical implications:
 
 - Heavily blue-stained mushrooms have lost potency
 - The bluing reaction is a degradation process, not merely a color change

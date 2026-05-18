@@ -32,7 +32,7 @@ sources:
 
 **Armillaria tabescens** (ringless honey mushroom, table-top mushroom) is a
 basidiomycete fungus in the family Physalacriaceae, notable as a root pathogen
-and wood-decay fungus of hardwood trees across temperate [[armillaria-mellea-entity]]* but is
+and wood-decay fungus of hardwood trees across temperate [[armillaria-mellea]]* but is
 distinguished by the complete absence of an annulus (ring) on the stipe.
 
 The species is one of the most common causes of **Armillaria root rot**, a

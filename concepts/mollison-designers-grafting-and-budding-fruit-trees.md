@@ -28,7 +28,7 @@ a known variety to a rooted plant (rootstock). The rootstock provides:
 
 The scion determines [[old-fruit-variety-selection]], quality, flavor, ripening time,
 and storage characteristics. The combination of rootstock and scion
-allows permaculture designers to match trees precisely to their
+allows [[bill-mollison-permaculture-designers-manual]] to match trees precisely to their
  design,
 allowing rapid conversion of seedling trees to named varieties without
 waiting years for new plantings to bear.
@@ -78,8 +78,8 @@ Mollison emphasizes selecting rootstock adapted to local conditions:
 
 ## Overview
 
-Mollison Designers Grafting And Budding Fruit Trees represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Grafting And Budding Fruit Trees represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mollison Designers Grafting And Budding Fruit Trees finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -108,7 +108,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mollison designers grafting and budding fruit trees and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

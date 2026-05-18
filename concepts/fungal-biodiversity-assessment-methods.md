@@ -74,7 +74,7 @@ Fungal diversity measures are strongly **scale-dependent**. Species richness typ
 
 - Alpha diversity (local) may differ dramatically from gamma diversity (regional)
 - Rare species are more likely detected at larger spatial scales
-- Community composition shifts with scale due to habitat heterogeneity
+- [[core-endorhiza-bacterial-community-composition-cannabis]] shifts with scale due to habitat heterogeneity
 
 ## Collection Effort Curves
 
@@ -115,19 +115,19 @@ A common rule of thumb: sampling is sufficient when **90–95% of estimated tota
 
 ### Functional Correlates
 
-Fungi play diverse **functional roles**: decomposers, mycorrhizal partners, pathogens, and endophytes. Key parameters include guild structure, enzyme repertoire, and [[functional-redundancy]].
+Fungi play diverse **[[hemenway-mulch-makers-and-plant-functional-roles]]**: decomposers, mycorrhizal partners, pathogens, and endophytes. Key parameters include guild structure, enzyme repertoire, and [[functional-redundancy]].
 
 ### Genetic Correlates
 
-**Genetic diversity** provides insight into evolutionary potential and population history. High diversity suggests stable populations; low diversity may indicate bottlenecks or clonal reproduction.
+**[[biodiversity-fungal-genetic-diversity]]** provides insight into evolutionary potential and population history. High diversity suggests stable populations; low diversity may indicate bottlenecks or clonal reproduction.
 
 ### Interspecific Interactions
 
-Fungi interact through **competition**, **antagonism**, and **facilitation**. Commonly assessed interactions include competitive exclusion among wood-decay fungi, antibiotic production, and mycorrhizal network sharing.
+Fungi interact through **competition**, **antagonism**, and **facilitation**. Commonly assessed interactions include competitive exclusion among wood-decay fungi, antibiotic production, and [[arbuscular-mycorrhizal-network-visualization-anastomosis]] sharing.
 
 ### Dynamics
 
-Fungal communities are **temporally dynamic**. Fruiting phenology varies widely, weather events trigger mass fruiting, and long-term monitoring is needed to capture temporal turnover.
+Fungal communities are **temporally dynamic**. [[macrofungal-fruiting-phenology-climate-variability]] varies widely, weather events trigger mass fruiting, and long-term monitoring is needed to capture temporal turnover.
 
 ## Operational Definitions and Their Importance
 

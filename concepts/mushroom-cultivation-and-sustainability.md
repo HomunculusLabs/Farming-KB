@@ -1,5 +1,5 @@
 ---
-title: [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] Sustainability
+title: Mushroom Cultivation And Sustainability
 source: fungi-and-sustainability-fungi-magazine.md
 type: concept
 ---

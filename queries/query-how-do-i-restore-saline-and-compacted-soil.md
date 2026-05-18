@@ -5,13 +5,13 @@ tags: [soil-restoration, saline-soil, soil-compaction, phytoremediation, gypsum,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - FAO. "Soil Salinity Management." Irrigation and Drainage Paper 71. Food and Agriculture Organization of the United Nations, Rome, 2020.
+  - FAO. "Soil salinity-management-in-aquaculture-ponds." Irrigation and Drainage Paper 71. Food and Agriculture Organization of the new-united-nations-concept, Rome, 2020.
   - USDA NRCS. "Soil Quality Indicators: Salinity and Sodicity." dmt-containing-plants-united-states-halpern Department of Agriculture, Natural Resources Conservation Service, 2021.
   - Qadir, M., et al. "Economics of salt-induced land degradation and restoration." Natural Resources Forum, vol. 38, no. 4, 2014, pp. 282-295.
   - Brady, N.C., and R.R. Weil. The Nature and Properties of Soils. 15th ed., Pearson, 2016.
   - Shainberg, I., and M.E. Sumner. "Effects of gypsum on soil physical and chemical properties." Advances in Soil Science, vol. 12, 1989, pp. 1-41.
   - Ghassemi, F., A.J. Jakeman, and H.A. Nix. Salinisation of Land and Water Resources. CABI, 1995.
-  - Masters, D., and R. Benes. "Role of halophytes in the rehabilitation of degraded saline soils." Journal of Arid Environments, vol. 175, 2020, 104079.
+  - Masters, D., and R. Benes. "Role of halophytes in the rehabilitation of degraded saline soils." Journal of [[fungal-diversity-arid-environments]], vol. 175, 2020, 104079.
   - Bronick, C.J., and R. Lal. "Soil structure and management: a review." Geoderma, vol. 124, no. 1-2, 2005, pp. 3-22.
 type: query
 ---
@@ -31,7 +31,7 @@ Accurate diagnosis is critical — the wrong amendment can worsen the problem.
 | pH | < 8.5 | > 8.5 (often 9–10) | < 8.5 |
 | Soil dispersion | Minimal | Severe — poor structure | Moderate to severe |
 
-**Key diagnostics:** Electrical conductivity (EC) of a saturated paste extract; Sodium Adsorption Ratio (SAR); Exchangeable Sodium Percentage (ESP). Visual cues: saline soils show white salt crusts; sodic soils are structureless, hard when dry, sticky when wet.
+**Key diagnostics:** Electrical conductivity (EC) of a saturated paste extract; Sodium Adsorption Ratio (SAR); Exchangeable Sodium Percentage (ESP). [[cannabis-harvest-timing-visual-cues]]: saline soils show white salt crusts; sodic soils are structureless, hard when dry, sticky when wet.
 
 > **Bottom line:** Saline soils need leaching to remove salts. Sodic soils need calcium amendments to displace sodium *before* leaching. Applying water to sodic soil without amendments worsens dispersion and compaction.
 
@@ -45,11 +45,11 @@ Accurate diagnosis is critical — the wrong amendment can worsen the problem.
 ### Drainage
 - Install tile drains or open ditches to carry leached salts away from the root zone.
 - Essential where the water table is within 1.5 m of the surface.
-- Clay soils need closer drain spacing due to low hydraulic conductivity.
+- Clay soils need closer drain spacing due to low [[water-infiltration-soil-hydraulic-conductivity]].
 
 ### Sand Incorporation
 - Coarse sand at 50–100 t/ha improves infiltration in heavy saline-sodic clays.
-- Expensive at field scale; practical for garden beds when mixed thoroughly to avoid layering.
+- Expensive at field scale; practical for [[keyhole-garden-beds]] when mixed thoroughly to avoid layering.
 
 ## 3. Chemical Amendments
 

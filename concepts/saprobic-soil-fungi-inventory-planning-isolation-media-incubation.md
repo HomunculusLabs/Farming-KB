@@ -28,7 +28,7 @@ Stable organic compounds—waxes, lignins, and phenolics—can persist for hundr
 
 Seasonal variation in relative abundances is well documented (Christensen 1969; Gochenaur 1978; Clarke and Christensen 1981; Widden 1986b), though it is less pronounced in agricultural soils and boreal conifer forests. Seasonal sampling should therefore be considered in ecologically variable habitats to capture the full complement of species active across the annual cycle.
 
-In temperate regions, spring and autumn peaks in fungal activity are common, while summer drought and winter cold may suppress detectable populations.
+In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], spring and autumn peaks in fungal activity are common, while summer drought and winter cold may suppress detectable populations.
 
 ### Sample Size Targets
 
@@ -48,7 +48,7 @@ In warm weather, transport samples in a cooler at 0–10°C to slow microbial ac
 
 For reconnaissance work, soil can be sprinkled, swabbed, or stamped directly onto media in the field, providing a rapid qualitative assessment of the mycota without the need for transport.
 
-For long-distance transport, air-dry samples in breathable cotton or perforated Tyvek bags, or in paper envelopes. Plastic bags are acceptable if samples will be processed or frozen within 1–2 days, but condensation and anaerobic conditions may promote undesirable microbial growth. Air-drying should be performed in a clean room or [[laminar-flow-hood]] at 2–5°C.
+For long-distance transport, air-dry samples in breathable cotton or perforated Tyvek bags, or in paper envelopes. Plastic bags are acceptable if samples will be processed or frozen within 1–2 days, but condensation [[aact-ph-and-anaerobic-conditions]] may promote undesirable microbial growth. Air-drying should be performed in a clean room or [[laminar-flow-hood]] at 2–5°C.
 
 Frozen storage at −10 to −20°C stops temporal changes in fungal communities for at least 9 months (Christensen et al. 1962; Christensen 1969). However, the effects of physical manipulation during transport and storage have not been adequately studied, and caution is warranted in drawing conclusions from stored samples.
 
@@ -56,7 +56,7 @@ Frozen storage at −10 to −20°C stops temporal changes in fungal communities
 
 ### Selectivity of "Nonselective" Media
 
-Commonly used "nonselective" media—including Czapek, malt extract agar, and potato dextrose agar (PDA)—are in fact highly selective. High sugar concentrations favor rapid germinators and fast-growing species, biasing community composition toward opportunistic taxa. As a result, the fungal assemblages recovered on these media represent only a fraction of the true soil mycota.
+Commonly used "nonselective" media—including Czapek, malt extract agar, and [[potato-dextrose-agar]] (PDA)—are in fact highly selective. High sugar concentrations favor rapid germinators and fast-growing species, biasing [[core-endorhiza-bacterial-community-composition-cannabis]] toward opportunistic taxa. As a result, the fungal assemblages recovered on these media represent only a fraction of the true soil mycota.
 
 The ideal medium for comprehensive inventories would be either truly nonselective or a standard array of selective media applied in combination; neither has been fully developed.
 
@@ -81,7 +81,7 @@ Temperature profoundly affects the kinds of fungi that develop on isolation plat
 
 At the standard incubation temperature of 25°C, most colonies appear within 2–10 days, favoring fast-growing species. While efficient for high-throughput processing, this temperature biases recovery toward a subset of the community.
 
-Incubation at 15–20°C causes colonies to appear sequentially over approximately 3 weeks, allowing better separation of slow-growing from fast-growing species and improving species discrimination. Cool temperatures favor terrestrial aquatic hyphomycetes and [[psychrophilic-fungi]]. High temperatures (>40°C) reveal thermotolerant and [[thermophilic-fungi]] that would be missed at ambient temperatures.
+Incubation at 15–20°C causes colonies to appear sequentially over approximately 3 weeks, allowing better separation of slow-growing from fast-growing species and improving species discrimination. Cool temperatures favor terrestrial [[aquatic-hyphomycetes-and-ingoldian-spores]] [[psychrophilic-fungi]]. High temperatures (>40°C) reveal thermotolerant and [[thermophilic-fungi]] that would be missed at ambient temperatures.
 
 The effects of light on isolation have not been systematically investigated. Some media components photodegrade—notably, rose bengal becomes more toxic under illumination, potentially biasing results. Incubation in darkness is therefore advisable unless light effects are a specific subject of study.
 
@@ -107,7 +107,7 @@ Intermittently lowering incubation temperature can further favor slow-growing an
 
 ### Suspension Plating
 
-Soil is suspended in water, agar, dextrin, or CMC and pipetted onto the surface of an agar plate. Despite often being incorrectly called "dilution plating," this method does not necessarily achieve a true dilution.
+Soil is suspended in water, agar, dextrin, or CMC and pipetted onto the surface of an agar plate. Despite often being incorrectly called "[[particle-filtration-dilution-plating-microfungal-isolation]]," this method does not necessarily achieve a true dilution.
 
 Trial analyses should target 5–30 colonies per 100 mm plate for optimal resolution. Too many colonies per plate cause overgrowth and make species identification difficult; too few waste plates and effort.
 

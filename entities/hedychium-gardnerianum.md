@@ -27,7 +27,7 @@ The species produces spectacular inflorescences of bright yellow flowers with pr
 
 Kahili ginger is considered one of the most invasive plants in Hawaiian montane rainforests, where it forms dense monocultures that displace native understory species. It is listed among the "100 of the World's Worst Invasive Alien Species" by the IUCN.
 
-Despite its ecological impact, the species has traditional uses in its native range. Rhizomes and flowers are used in Nepalese and Indian folk medicine, and the flowers are used in religious offerings.
+Despite its ecological impact, the species has traditional uses in its native range. Rhizomes and flowers are used in Nepalese and Indian [[magical-illness-peruvian-amazon-folk-medicine]], and the flowers are used in religious offerings.
 
 ## Taxonomy and Morphology
 

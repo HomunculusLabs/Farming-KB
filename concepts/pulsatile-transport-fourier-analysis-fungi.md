@@ -1,5 +1,5 @@
 ---
-title: [[fungal-pulsatile-nutrient-transport-mycelial-networks]] and Fourier Analysis in Fungal Mycelia
+title: Pulsatile Transport Fourier Analysis Fungi
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---

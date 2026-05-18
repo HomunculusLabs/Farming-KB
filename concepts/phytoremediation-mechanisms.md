@@ -74,7 +74,49 @@ Contaminant concentration must be within the phytotoxicity threshold of the sele
 
 Despite these limitations, phytoremediation offers significant advantages including low cost, minimal site disturbance, aesthetic benefits, carbon sequestration, and habitat creation. It is particularly well-suited for large areas with low to moderate contamination levels where conventional methods are prohibitively expensive.
 
+## Environmental Impact
+
+Soil management practices have far-reaching effects on ecosystem
+health beyond agricultural productivity. Healthy soils sequester
+significant amounts of atmospheric carbon, mitigating climate change.
+Soil biodiversity supports above-ground ecosystem services including
+water purification, flood mitigation, and habitat provision.
+Degraded soils release stored carbon and lose water-holding capacity,
+contributing to desertification and reduced agricultural resilience.
+Regenerative approaches restore these functions while maintaining
+productive agricultural output.
+
+These soil processes operate synergistically, and interventions
+that benefit one component typically improve overall soil health.
+
+## Future Directions
+
+Emerging research combines genetic engineering with natural
+phytoremediation capabilities to enhance contaminant removal rates.
+Transgenic plants expressing bacterial degradation genes show
+improved performance on specific pollutants. Nanoparticle-assisted
+phytoremediation increases bioavailability of bound contaminants.
+Field trials validate laboratory findings across diverse soil types.
+
 ## See Also
 
 - [[constructed-wetlands-wastewater-treatment]] — engineered phytoremediation systems
 - [[white-rot-fungi-bioremediation]] — ligninolytic fungi for organic pollutant degradation
+## Biological Interactions
+
+Soil communities form complex food webs involving bacteria, fungi,
+protozoa, nematodes, and microarthropods. Mycorrhizal fungi extend
+root systems by up to 700x, accessing phosphorus beyond the depletion
+zone. Bacterial communities drive rapid nutrient cycling in the
+rhizosphere. Predatory protozoa release immobilized nutrients through
+the microbial loop. These interactions maintain soil structure,
+water-holding capacity, and natural disease suppression.
+
+## Management Approaches
+
+Effective soil management builds organic matter through cover
+cropping, composting, and reduced tillage. Cover crops protect
+from erosion, fix nitrogen, and feed biology through root exudates.
+Compost provides stable humus improving aggregation and cation
+exchange capacity. Biological inoculants can accelerate restoration.
+Monitoring soil biology through microscopy guides management.

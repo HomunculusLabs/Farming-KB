@@ -19,7 +19,7 @@ American anthropologist (1929-2018), founder of the Foundation for Shamanic Stud
 ## See Also
 
 - [[hallucinogens-and-shamanism]]
-- [[hallucinogens-and-shamanism-introduction]]
+- [[hallucinogens-and-shamanism]]
 - [[hallucinogens-dissociative-agents-growing-united-states]]
 
 ## Practical Applications

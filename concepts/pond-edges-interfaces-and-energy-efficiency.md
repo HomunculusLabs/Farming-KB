@@ -1,5 +1,5 @@
 ---
-title: Pond Edges, Interfaces, [[aquaculture-design-principles-and-energy-efficiency]]
+title: Pond Edges Interfaces And Energy Efficiency
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

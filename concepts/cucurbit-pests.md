@@ -6,13 +6,13 @@ type: concept
 
 # Cucurbit Pests
 
-The cucurbit family — cucumbers, melons, squash, pumpkins, and related species — faces a distinctive set of insect pests across North America. From cucumber beetles to squash borers, these insects can devastate crops, but smart strategies exist to minimize losses without resorting to heavy chemical use.
+The [[solomon-cucurbit-family-growing-squash-melons-cucumbers]] — cucumbers, melons, squash, pumpkins, and related species — faces a distinctive set of insect pests across [[guzman-psilocybin-mushrooms-north-america]]. From cucumber beetles to squash borers, these insects can devastate crops, but smart strategies exist to minimize losses without resorting to heavy chemical use.
 
 ## Cucumber Beetles (Striped and Spotted)
 
 ### Identification
 
-Two types of this North American pest, about 1/4 inch (6 mm) long:
+Two types of this [[growing-gourmet-north-american-reishi-species]] pest, about 1/4 inch (6 mm) long:
 - **Striped** (Acalymma vittatum/trivittatum): Three parallel lines running head to tail
 - **Spotted** (Diabrotica spp.): Various patterns on their backs
 
@@ -29,14 +29,14 @@ Both species overwinter in spring. In the north, striped beetles overwinter whil
 
 ### Food Preferences
 
-Their favorite food is cantaloupe and similar melons. They also feed on cucumbers, then squash, and watermelon last. This knowledge of feeding preferences can inform crop placement.
+Their favorite food is cantaloupe and similar melons. They also feed on cucumbers, then squash, and watermelon last. This knowledge of [[invertebrate-fungivory-and-feeding-preferences]] can inform crop placement.
 
 ### Control Strategies
 
 - **Sow later**: Be a few weeks later than most in your area to sow all cucurbits — lets seedlings get growing more vigorously before beetles arrive
 - **Plant 4 seeds per hill**: Thin to 2 plants per spot only after seedlings have made a true leaf and are growing fast (where beetles aren't a problem, 1 plant per hill is better)
 - **Row covers**: Protect each hill of emerging seedlings under a carefully anchored [[floating-row-cover]] until plants begin blooming, then remove to allow bee pollination
-- **Parasitic nematodes**: Control larvae if applied by mixing into soil when seedlings are small
+- **[[comparison-free-living-vs-parasitic-nematodes]]**: Control larvae if applied by mixing into soil when seedlings are small
 - **Avoid excessive nutrients**: Make seedlings less succulent and thus less attractive
 - **Direct seed**: Greenhouse-grown seedlings are always lush and succulent, making them more vulnerable
 
@@ -120,7 +120,7 @@ Overwinter under whatever cover is available. Emerge in spring to feed and lay e
 - Egg-laying goes on for several months
 - Most organic pesticides last only a short time
 - Vines grow rapidly, requiring repeated spraying on leaf undersides
-- Chemical pesticides kill pollinating bees
+- [[comparison-parasitoid-wasps-vs-chemical-pesticides]] kill pollinating bees
 - Numerous beneficials eat squash bugs — spraying kills them too
 
 ## See Also

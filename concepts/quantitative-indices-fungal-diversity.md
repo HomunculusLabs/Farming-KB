@@ -1,5 +1,5 @@
 ---
-title: Quantitative Indices of Fungal Diversity
+title: Quantitative Indices Fungal Diversity
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -8,8 +8,8 @@ type: concept
 
 Quantifying fungal diversity requires selecting appropriate indices that capture different aspects of community complexity. Diversity is a multidimensional concept comprising two distinct attributes:
 
-- **[[species-richness-diversity-indices-fungi|Species richness]]**: the number of species present in a community
-- **Species evenness**: the equitability of [[species-abundance-distribution|species abundances]] within that community
+- **[[species-richness-diversity-indices-fungi]]**: the number of species present in a community
+- **Species evenness**: the equitability of [[species-abundance-distribution]] within that community
 
 This page covers the major diversity and evenness indices used in [[fungal-ecology]], their mathematical properties, and guidelines for their application.
 
@@ -25,7 +25,7 @@ Three kinds of species richness can be distinguished, each serving different ana
 
 **Species density** is the number of species in a sample where the area, volume, or weight of the sampling unit has been standardized.
 
-- Most ecological studies of fungi actually measure species density
+- Most [[mycorrhiza-bioassays-ecological-studies]] of fungi actually measure species density
 - This is rarely stated explicitly in published studies
 - Effects of environmental variation on species density are scale-dependent
 
@@ -68,7 +68,7 @@ The combinatorial term is calculated as:
 Rarefaction allows comparison of species richness among areas or habitats as if they were based on equal sample sizes.
 
 - It facilitates fair comparison across different sampling efforts
-- It has been used for fungal diversity studies (e.g., Polishook et al. 1996)
+- It has been used for fungal [[microfungal-litter-diversity-studies]] (e.g., Polishook et al. 1996)
 - It assumes collector's curves are coincident or nonintersecting
 
 ## Simpson's Diversity Index
@@ -102,7 +102,7 @@ Key characteristics of Simpson's index:
 
 ## Shannon Diversity Index
 
-The Shannon Index (H′) is currently the most popular diversity index in community ecology.
+The Shannon Index (H′) is currently the most popular diversity index in [[yeast-isolation-community-ecology]].
 
 Based on information theory, it measures the average degree of uncertainty in predicting the identity of an individual chosen at random:
 

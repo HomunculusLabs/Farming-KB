@@ -9,7 +9,7 @@ tags: [chemistry, plant-compound, decomposition, secondary-metabolite]
 
 ## Description
 
-Lignin is a complex organic polymer and a major structural component of plant cell walls, particularly in wood, bark, and vascular tissues. It is one of the most abundant biopolymers on Earth and a critical factor in determining the decomposition rate of plant litter. Lignin fills the spaces in the cell wall between cellulose, hemicellulose, and pectin components, providing rigidity and resistance to microbial attack.
+Lignin is a complex organic polymer and a major structural component of plant cell walls, particularly in wood, bark, and [[water-transport-vascular-tissues-plants]]. It is one of the most abundant biopolymers on Earth and a critical factor in determining the decomposition rate of plant litter. Lignin fills the spaces in the cell wall between cellulose, hemicellulose, and pectin components, providing rigidity and resistance to microbial attack.
 
 ## Classification
 
@@ -19,7 +19,7 @@ Lignin is a complex organic polymer and a major structural component of plant ce
 
 ## Key Facts
 
-- Lignin content is a primary determinant of leaf litter decomposition resistance. The lignin:nitrogen (lignin:N) ratio is widely used to predict decomposition rates.
+- Lignin content is a primary determinant of [[freshwater-aquatic-fungi-and-leaf-litter-decomposition]] resistance. The lignin:nitrogen (lignin:N) ratio is widely used to predict decomposition rates.
 - High lignin:N ratios correlate strongly with slower decomposition and reduced nitrogen mineralization. Resources with high ratios decompose significantly more slowly.
 - The combined (lignin + polyphenol):N ratio provides the best regression fit for predicting both mass loss and nitrogen mineralization rates, outperforming C:N or lignin:N alone.
 - Wood typically contains 17–35% lignin, while coniferous needles contain 20–58% and herbaceous plants contain 3–30%.
@@ -34,18 +34,18 @@ Only certain fungi—primarily white-rot basidiomycetes—produce the enzyme sys
 - **Laccase**: Broad-spectrum phenol oxidase involved in lignin depolymerization
 - **Glucose oxidase, cellobiose oxidase, arylalcohol oxidase, glyoxal oxidase**: Supporting enzymes in the [[lignin-degradation]] cascade
 
-In terrestrial ecosystems, the absence of white-rot and brown-rot fungi in aquatic systems means lignin decomposition is slower and handled by specialized aquatic hyphomycetes (e.g., Tricladium, Anguillospora, Dendrospora).
+In terrestrial ecosystems, the absence of white-rot and brown-rot fungi in aquatic systems means lignin decomposition is slower and handled by specialized [[aquatic-hyphomycetes]] (e.g., Tricladium, Anguillospora, Dendrospora).
 
 ## Ecological Significance
 
 - Lignin drives fungal succession: initial colonizers use simple carbohydrates while later-succession species with lignin-degrading enzymes dominate recalcitrant residues
 - During ecosystem succession (herbaceous to forest), lignin content of plant residues increases, shifting decomposer communities from ascomycetes to basidiomycetes
-- In mangrove ecosystems, fungal decomposition of lignin-rich material produces dissolved organic matter (DOC), with 60–260 tons of carbon exported annually to near-shore waters
+- In [[mangrove-ecosystems-and-coastal-restoration]], fungal decomposition of lignin-rich material produces dissolved organic matter (DOC), with 60–260 tons of carbon exported annually to near-shore waters
 - Lignin content interacts with nitrogen availability: exogenous nitrate can partially ameliorate the inhibitory effect of high lignin on decomposition rates
 
 ## Relevance to Cultivation and Mycology
 
-- Understanding lignin content is essential for selecting appropriate substrate compositions in mushroom cultivation
+- Understanding lignin content is essential for selecting appropriate substrate compositions [[contamination-prevention-in-mushroom-cultivation]]
 - Species selection for wood-based cultivation should match the fungus's lignin-degrading enzyme capacity to the substrate's lignin content
 - White-rot fungi (e.g., Pleurotus, Ganoderma) are preferred for high-lignin substrates like wood chips
 - Brown-rot fungi selectively remove cellulose, leaving modified lignin behind
@@ -73,7 +73,7 @@ The progressive increase in lignin content during ecosystem succession from herb
 
 ## Decomposition Thresholds
 
-The Swift et al. (1979) model identifies critical thresholds:
+The Swift et al. (1979) model identifies [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]:
 - Net mineralization begins when the C:nutrient ratio of the decomposing resource approaches that of the decomposer organism
 - For fungi: approximately 15:1 for phosphorus and 6:1 for nitrogen
 - Above these thresholds, nutrients are immobilized into microbial biomass (net immobilization)

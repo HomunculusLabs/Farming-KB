@@ -1,5 +1,5 @@
 ---
-title: [[psychedelic-session-instructions-bardo-guide]]
+title: Psychedelic Session Instructions
 source: leary-t-the-psychedelic-experience.md
 type: concept
 ---

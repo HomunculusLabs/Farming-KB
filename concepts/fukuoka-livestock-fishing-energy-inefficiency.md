@@ -1,5 +1,5 @@
 ---
-title: Fukuoka on Livestock and Fishing [[fukuoka-livestock-energy-inefficiency-caloric-cost]]
+title: Fukuoka Livestock Fishing Energy Inefficiency
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

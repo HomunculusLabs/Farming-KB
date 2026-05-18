@@ -24,8 +24,8 @@ Taphrina is a genus of biotrophic microfungi in the order Taphrinales (phylum As
 - Cause hyperplasia and formation of galls or witches' brooms; some species cause leaf spots, leaf curl, or deformed fruit.
 - Infected tissues are discolored yellow or pink, often with a whitish bloom indicating sporulation.
 - Asci are produced in a palisade on or from within the epidermis of infected host tissue; there are no specialized fruiting bodies.
-- [[taphrina-deformans]] causes the common leaf curl of peach, a significant disease in temperate fruit production.
-- In temperate regions, young leaves and flowers are infected each spring; asci and ascospores are produced in late spring or early summer.
+- [[taphrina-deformans]] causes the common leaf curl of peach, a significant disease in temperate [[berry-fruit-production-cool-humid-climates]].
+- In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], young leaves and flowers are infected each spring; asci and ascospores are produced in late spring or early summer.
 - Spores bud during warm, moist weather, giving rise to a yeast phase that can survive saprobically on plant surfaces.
 - Cultures from ascospores or conidia behave like slow-growing, pale pink yeasts but do not produce a sexual state in vitro.
 - Species appear fairly host-specific; no species occurs on more than one family of hosts.
@@ -40,7 +40,7 @@ Taphrina is a genus of biotrophic microfungi in the order Taphrinales (phylum As
 
 ## Ecological Context
 
-Taphrina species are primarily temperate in distribution and demonstrate a high degree of host specificity. Their effects on host plants range from conspicuous hypertrophic symptoms (galls, witches' brooms) to more subtle leaf spots that may be overlooked. The yeast phase allows saprobic survival on plant surfaces between growing seasons, bridging the gap between obligate biotrophy and saprobic existence.
+Taphrina species are primarily temperate in distribution and demonstrate a high degree of host specificity. Their effects on host plants range from conspicuous hypertrophic symptoms (galls, witches' brooms) to more subtle leaf spots that may be overlooked. The yeast phase allows saprobic survival on plant surfaces between [[jeavons-climate-adaptation-growing-seasons]], bridging the gap between obligate biotrophy and saprobic existence.
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -91,7 +91,7 @@ Taphrina species are primarily temperate in distribution and demonstrate a high 
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
@@ -99,7 +99,7 @@ Taphrina species are primarily temperate in distribution and demonstrate a high 
 ## References
 
 - Mix (1949, 1954); Kramer (1973)
-- Source: Biodiversity of Fungi, Chapter 7 — Fungi on Living Plant Substrata, Including Fruits
+- Source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]], Chapter 7 — Fungi on [[fungi-living-plant-substrata]], Including Fruits
 
 ## Related
 - [[taphrinales-gall-forming-biotrophic-ascomycetes]]

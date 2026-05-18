@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Mitochondria are membrane-bound organelles found in plant cells that function as the cell's powerhouses, producing energy in the form of adenosine triphosphate (ATP) through cellular respiration. They break down sugars produced during photosynthesis, converting the stored chemical energy into ATP molecules that power virtually every cellular process. Plant cells typically contain hundreds to tens of thousands of mitochondria, with the number varying based on the cell's energy demands and function within the plant.
+Mitochondria are membrane-bound organelles found in plant cells that function as the cell's powerhouses, producing energy in the form of [[adenosine-triphosphate-and-cellular-energy]] (ATP) through cellular respiration. They break down sugars produced during photosynthesis, converting the stored chemical energy into ATP molecules that power virtually every cellular process. Plant cells typically contain hundreds to tens of thousands of mitochondria, with the number varying based on the cell's energy demands and function within the plant.
 
 ## Classification
 
@@ -36,7 +36,7 @@ Mitochondria perform cellular respiration—the controlled breakdown of sugar (g
 
 1. **Glycolysis** (in cytoplasm): Glucose is broken into pyruvate
 2. **Citric acid cycle** (in matrix): Pyruvate is further broken down, releasing CO₂ and capturing electrons
-3. **Electron transport chain** (on cristae): Electrons drive ATP synthesis through oxidative phosphorylation
+3. **[[electron-transport-chain-mitochondrial-respiration]]** (on cristae): Electrons drive ATP synthesis through [[oxidative-phosphorylation-mitochondrial-respiration]]
 
 The energy produced is stored in the phosphate bonds of ATP molecules—the universal energy currency of all cells. ATP powers nutrient transport across membranes, protein synthesis, cell division, and every other energy-requiring process.
 
@@ -60,12 +60,12 @@ Mitochondria possess their own DNA and divide independently through a process si
 
 ## Relevance to Cultivation and Mycology
 
-- **Energy for nutrient uptake:** Active transport of nutrients across root cell membranes requires ATP produced by mitochondria. Healthy mitochondrial function is essential for efficient nutrient absorption.
+- **Energy for nutrient uptake:** Active [[membrane-transport-of-nutrients-into-plant-cells]] across root cell membranes requires ATP produced by mitochondria. Healthy mitochondrial function is essential for efficient nutrient absorption.
 - **Oxygen requirement:** Since mitochondrial respiration requires oxygen, waterlogged or compacted soils that deprive roots of oxygen impair mitochondrial function, reducing energy production and nutrient uptake capacity.
-- **Temperature sensitivity:** Mitochondrial activity is temperature-dependent. Cold conditions slow respiration, reducing energy available for growth and nutrient transport.
+- **Temperature sensitivity:** Mitochondrial activity is temperature-dependent. Cold conditions slow respiration, reducing energy available for growth [[plasmalemma-and-nutrient-transport]].
 - **Fungal metabolism:** Fungi also rely on mitochondria for energy. In mycorrhizal associations, both the plant and fungal partners depend on mitochondrial ATP production to sustain the exchange of nutrients and carbohydrates.
 - **Mycelium growth:** Rapidly growing mycelium requires enormous energy, all produced by mitochondria. Substrate composition and environmental conditions that support healthy mitochondrial function promote vigorous colonization.
-- **Stress response:** Mitochondria play a central role in plant stress responses, producing signaling molecules (reactive oxygen species) that trigger defense mechanisms. Managing environmental stress supports mitochondrial health and overall plant resilience.
+- **Stress response:** Mitochondria play a central role in plant stress responses, producing signaling molecules ([[reactive-oxygen-species-and-oxidative-stress]]) that trigger defense mechanisms. Managing environmental stress supports mitochondrial health and overall plant resilience.
 
 ## Historical Context
 

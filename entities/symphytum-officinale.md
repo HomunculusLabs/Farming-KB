@@ -1,5 +1,5 @@
 ---
-title: "[[comfrey-symphytum-officinale]]"
+title: Symphytum Officinale
 type: species
 tags:
   - herbal-plant

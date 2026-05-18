@@ -1,5 +1,5 @@
 ---
-title: Endorhiza-Soil OTU Sharing Patterns in Cannabis Cultivar Specificity
+title: Endorhiza Soil Otu Sharing Cannabis Cultivar Specificity
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-A critical test of the two-tier selection model for plant-microbiome assembly is whether endorhiza communities share more operational taxonomic units (OTUs) with the soil in which they are grown than with a different soil in which the same cultivar is grown. Winston et al. (2014) tested this prediction using Cannabis, providing direct evidence that soil serves as the primary source pool for root-colonizing microbes, even when host genotype exerts selective pressure on community structure.
+A critical test of the two-tier selection model for plant-microbiome assembly is whether [[cannabis-rhizosphere-endorhiza-communities]] share more operational taxonomic units (OTUs) with the soil in which they are grown than with a different soil in which the same cultivar is grown. Winston et al. (2014) tested this prediction using Cannabis, providing direct evidence that soil serves as the primary source pool for root-colonizing microbes, even when host genotype exerts selective pressure on community structure.
 
 ## The Two-Step Colonization Hypothesis
 
 The two-tier selection model posits a sequential process for root microbiome assembly:
 
-**Step 1: Soil-driven rhizosphere selection.** Edaphic factors (pH, nitrogen, salinity, carbon, water content) determine the composition of the local soil microbiota. When plant roots exude compounds into the rhizosphere, the available microbial pool from which recruitment occurs is defined by the soil type. This first step is primarily abiotic.
+**Step 1: Soil-driven rhizosphere selection.** [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] (pH, nitrogen, salinity, carbon, water content) determine the composition of the local soil microbiota. When plant roots exude compounds into the rhizosphere, the available microbial pool from which recruitment occurs is defined by the soil type. This first step is primarily abiotic.
 
 **Step 2: Genotype-driven endorhiza selection.** Following rhizosphere enrichment, migration of bacteria from the rhizosphere into root tissue (endorhiza) is governed by host genotype-dependent factors. Plant-derived compounds, root architecture, and immune responses selectively filter which rhizosphere organisms can colonize the internal root environment.
 
@@ -53,7 +53,7 @@ The OTU sharing results are consistent with the broader beta diversity patterns 
 
 - Rhizosphere and bulk soil communities are more similar to each other than to endorhiza communities
 - Beta distances between rhizosphere and bulk soil are significantly lower than between rhizosphere and endorhiza
-- Community composition across all samples is determined predominantly by soil properties
+- [[core-endorhiza-bacterial-community-composition-cannabis]] across all samples is determined predominantly by soil properties
 - Within-endorhiza community structure is significantly shaped by cultivar identity
 
 The OTU sharing analysis provides complementary evidence to the beta diversity metrics by showing not just that communities differ, but that they share more taxonomic units when they derive from the same soil source.
@@ -64,7 +64,7 @@ While soil determines the available pool, specific OTUs showed significant abund
 
 - **Pseudomonadales:** Differentially abundant between strains
 - **Burkholderiales:** Strain-specific abundance patterns
-- **Sphingomonadales:** Including the notable *Sphingomonas wittichii* prevalent in [[maui-wowie]]
+- **Sphingomonadales:** Including the notable *[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]* prevalent in [[maui-wowie]]
 - **Rhizobiales:** Strain-specific root-colonizing bacteria
 - **Sphingobacteriales and Flavobacteriales:** Bacteroidetes orders also contributing to strain differences
 
@@ -92,4 +92,4 @@ The OTU sharing patterns have practical implications for Cannabis agriculture:
 
 - Winston, M.E., et al. (2014). Understanding cultivar-specificity and soil determinants of the Cannabis microbiome. PLoS ONE, 9(6), e99641.
 - Bulgarelli, D., et al. (2013). Revealing structure and assembly cues for Arabidopsis root-inhabiting bacterial microbiota. Nature, 488, 91-95.
-- Lundberg, D.S., et al. (2012). Defining the core Arabidopsis thaliana root microbiome. Nature, 488, 86-90.
+- Lundberg, D.S., et al. (2012). Defining the core [[arabidopsis-thaliana]] root microbiome. Nature, 488, 86-90.

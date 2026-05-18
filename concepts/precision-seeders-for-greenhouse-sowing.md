@@ -1,12 +1,12 @@
 ---
-title: Precision Seeders for Greenhouse Sowing
+title: Precision Seeders For Greenhouse Sowing
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Precision Seeders for Greenhouse Sowing
 
-Precision seeders are essential tools for intensive greenhouse vegetable production, enabling growers to maximize yield per square foot by placing seeds at optimal spacing. Eliot Coleman's experience at [[four-season-farm]] demonstrates that switching from single-row and homemade multi-row seeders to precision models practically doubled yields per square foot.
+Precision seeders are essential tools for intensive greenhouse [[coleman-french-historical-winter-vegetable-production]], enabling growers to maximize yield per [[comparison-biointensive-vs-square-foot-gardening]] by placing seeds at optimal spacing. [[eliot-coleman]]'s experience at [[four-season-farm]] demonstrates that switching from single-row and homemade multi-row seeders to precision models practically doubled yields per square foot.
 
 ## The Pinpoint Seeder
 
@@ -74,11 +74,11 @@ The six-row seeder is a pushed (rather than pulled) upgrade incorporating severa
 
 ### Efficiency Gains
 
-The six-row seeder reduces the workflow from three passes (roll, seed, roll) with the four-row model to two passes (seed with integrated rolling), significantly speeding up greenhouse bed preparation and sowing.
+The six-row seeder reduces the workflow from three passes (roll, seed, roll) with the four-row model to two passes (seed with integrated rolling), significantly speeding up greenhouse [[coleman-bed-preparation-and-minimal-tillage]] sowing.
 
 ## Yield Impact
 
-Coleman credits precision seeders with practically doubling yields per square foot compared to previous methods. The 2¼-inch row spacing for most greenhouse salad and root crops (with wider 4½-inch spacing for spinach, claytonia, and turnips using every other hopper) maximizes use of valuable greenhouse space. These relatively inexpensive seeders compare favorably with European multi-row greenhouse seeders costing ten to fifteen times more.
+Coleman credits precision seeders with practically doubling yields per square foot compared to previous methods. The 2¼-inch [[wide-row-spacing-intensive-gardening-comparison]] for most greenhouse salad and root crops (with wider 4½-inch spacing for spinach, claytonia, and turnips using every other hopper) maximizes use of valuable greenhouse space. These relatively inexpensive seeders compare favorably with European multi-row greenhouse seeders costing ten to fifteen times more.
 ## See also
 
 - [[earthway-seeder]]

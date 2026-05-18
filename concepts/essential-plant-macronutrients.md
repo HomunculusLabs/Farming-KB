@@ -1,5 +1,5 @@
 ---
-title: [[essential-plant-macronutrients-npk]]
+title: Essential Plant Macronutrients
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: [[proteobacteria-dominance-cannabis-endorhiza-community]] Endorhiza
+title: Proteobacteria Dominance Cannabis Endorhiza
 created: 2026-04-28
 tags: [microbiome, cannabis, proteobacteria, endorhiza]
 date: 2026-04-28

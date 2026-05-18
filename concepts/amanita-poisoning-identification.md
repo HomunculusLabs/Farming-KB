@@ -1,5 +1,5 @@
 ---
-title: [[amanita-poisoning-identification-antidotes-palmer]]
+title: Amanita Poisoning Identification
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fungal to [[fungal-bacterial-biomass-ratio]]
+title: Fungal To Bacterial Biomass Ratio
 source: lowenfels-teaming-with-microbes.md
 type: entity
 ---

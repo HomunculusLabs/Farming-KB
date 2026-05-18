@@ -4,7 +4,7 @@ source: raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 author: Bigwood & Beug (1982), citing San Antonio (1971)
 topic: mycology, [[hplc-analysis-of-psilocybin-and-psilocin]] [[agaricus-bisporus]]*. This technique was subsequently refined by Oss and Oeric
 (1976) and adapted into the "miniculture" format by Bigwood and Beug themselves,
-establishing a foundational cultivation protocol that would influence decades of
+establishing a foundational [[indoor-morel-cultivation-protocol]] that would influence decades of
 small-scale mushroom research.
 
 ## San Antonio's Original Protocol (1971)
@@ -13,7 +13,7 @@ San Antonio published a laboratory method in *Mycologia* (Vol. 63, pp. 16-21)
 designed to reliably produce fruiting bodies from grain spawn without requiring
 bulk substrate. The key innovation was the use of a **casing layer** applied
 directly over colonized grain, which triggered the environmental cues necessary
-for fruiting body initiation in *Agaricus bisporus*.
+for fruiting body initiation in *[[agaricus-bisporus-cultivation-biology]]*.
 
 The significance of this method was that it dramatically reduced the scale of
 cultivation from traditional compost-based systems to something manageable in a
@@ -55,7 +55,7 @@ following specifications:
 - Total colonization time: approximately 28 days
 
 ### Casing and Fruiting
-- **Casing composition**: 2 parts peat : 1 part peat calcium carbonate perlite casing psilocybe cubensis miniculture : 2 parts
+- **Casing composition**: 2 parts peat : 1 part [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] perlite casing [[psilocybe-cubensis-miniculture-method]] : 2 parts
   perlite and/or vermiculite
 - **Casing depth**: approximately 2 cm
 - **Watering**: 1 ml sterile water via syringe every two days
@@ -100,7 +100,7 @@ rather than an artifact of cultivation variability.
 The San Antonio → Oss/Oeric → Bigwood/Beug lineage of grain spawn cultivation
 directly influenced modern techniques including:
 
-- **PF Tek** (Psilocybe Fanaticus Technique): [[brown-rice-flour-substrate]] in
+- **PF Tek** ([[pf-tek-psilocybe-fanaticus]] Technique): [[brown-rice-flour-substrate]] in
   half-pint jars, essentially a simplified variant of the same approach
 - **Spawn bag culture**: Grain-based colonization in filter-patch bags
 - **Monotub cultivation**: Bulk casing over grain spawn at larger scale
@@ -113,5 +113,5 @@ directly influenced modern techniques including:
   spawn of the cultivated mushroom: *Agaricus bisporus*. Mycologia, 63, 16-21.
 - Oss, O.T. and Oeric, O.N. (1976). *Psilocybin Magic Mushroom Grower's Guide*.
   And/Or Press, Berkeley, California.
-- Bigwood, J. and Beug, M.W. (1982). Variation of psilocybin and psilocin levels
+- Bigwood, J. and Beug, M.W. (1982). Variation of [[psilocybin-and-psilocin-biosynthesis-variation]] levels
   with repeated flushes of *Psilocybe cubensis*. J. Ethnopharmacol. 5, 287-291.

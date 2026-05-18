@@ -60,19 +60,19 @@ Suspended over berry crops or flown as light model planes over extensive grain c
 The apple-centered guild (Figure 3.12 in the source) illustrates an idealized orchard guild where most accessory species enhance the health and productivity of the apples, and floristic elements are maximized. This includes:
 
 - Umbelliferae (dill, fennel) for predatory wasp habitat
-- Nitrogen-fixing legume trees beneath and around the apples
-- Comfrey or other deep-rooted accumulators for nutrient cycling
+- Nitrogen-fixing [[legume-trees-and-nitrogen-fixing-permaculture-species]] beneath and around the apples
+- Comfrey or other deep-rooted accumulators for [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
 - Bulbs for seasonal root zone management
 - Pest-deterring companion plants (nasturtium, garlic chives)
 - Windbreak and shelter species at the orchard margin
-- Poultry foragers for fallen fruit pest management
-- Flowering plants for insectivorous bird habitat
+- Poultry foragers for fallen fruit [[biofumigation-and-brassica-cover-crops-for-pest-management]]
+- Flowering plants for insectivorous [[bird-habitat-creation]]
 
 ## Analytic Approach: The Interaction Matrix
 
 ### Species Interaction Categories
 
-Analysis of plant and animal interactions reveals three broad categories:
+Analysis of plant and [[marine-fungal-animal-interactions]] reveals three broad categories:
 
 - **~80% of all plant species** can co-mingle without ill effect (neutral interaction)
 - **~10–15%** greatly assist others in one or more ways (positive interaction)
@@ -106,4 +106,4 @@ Other interaction states include unilateral co-action (+0, 0+, −0, 0−) and o
 
 Despite analytical tools, Mollison cautions that weather vagaries mean a peasant farmer may accept a (~ +) effect — getting some crop of the "losing" species — rather than risk total failure of a single monoculture. **It is always safer to mix or complicate crops than to pin hopes on a single main crop.** The directive: be guided by analyses but study reality.
 
-Every designer and every gardener can plan guilds for specific target species, specific pests and weed control needs, and specific garden beds or orchards. The guild concept transforms pest management, nutrient cycling, and microclimate regulation from external inputs into self-managing system functions.
+Every designer and every gardener can plan guilds for specific target species, specific pests [[jadam-soil-management-no-till-and-weed-control]] needs, and specific garden beds or orchards. The guild concept transforms pest management, nutrient cycling, and microclimate regulation from external inputs into self-managing system functions.

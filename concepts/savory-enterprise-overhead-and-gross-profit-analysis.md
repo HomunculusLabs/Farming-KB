@@ -51,6 +51,29 @@ yield a higher marginal reaction. Supplements seldom pass the marginal
 reaction test compared to fencing until paddock levels reach thirty or
 more per herd with good biological planning.
 
+## Environmental Outcomes
+
+Holistic management practices demonstrate measurable improvements
+in ecosystem health when properly implemented. Restored grassland
+soils show increased organic matter, improved water infiltration,
+and greater biodiversity. Properly managed grazing can sequester
+carbon in soils while maintaining livestock productivity. Wildlife
+habitat improves as plant community diversity increases. These
+environmental benefits compound over time as ecological processes
+strengthen and self-reinforce.
+
+## Implementation Framework
+
+Implementing holistic management begins with defining a holistic
+context that articulates the quality of life, future resource base,
+and forms of production desired. All decisions are tested against
+this context using specific filtering questions that consider ecological,
+social, and financial implications. Grazing planning tools enable
+precise recovery periods for pasture plants while maximizing animal
+impact. Financial planning separates fixed costs from variable costs
+to identify the most wealth-generating enterprises. Monitoring
+protocols provide early warning of ecosystem trajectory changes.
+
 ## See Also
 
 - [[savory-partial-rest-and-algal-crusts]]
@@ -78,3 +101,20 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+## Ecological Principles
+
+Holistic management recognizes ecosystems as interconnected wholes.
+The water cycle, mineral cycle, energy flow, and community dynamics
+operate as linked processes. Biological monitoring tracks indicators
+such as soil organic matter, plant diversity, and ground cover.
+Decision-making frameworks test actions against holistic goals
+encompassing ecological, social, and financial dimensions.
+
+## Financial Planning
+
+Holistic financial planning aligns enterprise decisions with
+ecological goals. Gross profit analysis evaluates the ratio of
+additional income to additional costs. Wealth-generating enterprises
+receive priority investment. Planning accounts for ecological
+overhead including the true cost of soil degradation and water
+depletion in enterprise assessments.

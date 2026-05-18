@@ -1,5 +1,5 @@
 ---
-title: [[pond-fertilisation-and-nutrient-management]] Shelter
+title: Pond Fertilisation And Shelter
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

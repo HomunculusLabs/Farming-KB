@@ -75,7 +75,7 @@ This entry provides reference information about boletus subtomentosus and its si
 
 ## See Also
 
-- [[boletus-edulis-entity]] — the prized king bolete
+- [[boletus-edulis]] — the prized king bolete
 - [[boletus-felleus]] — the bitter bolete
 - [[boletus-pachypus]] — another bolete discussed by Palmer
 - [[hydnum-repandum]] — hedgehog mushroom, another safe species for beginners

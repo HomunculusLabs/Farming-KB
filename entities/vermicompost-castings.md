@@ -68,15 +68,15 @@ Vermicompost (also called worm castings or vermicast) is the product of processi
 
 ## Relevance to Cultivation and Mycology
 
-- **Bacterial inoculant for annuals:** Vermicompost is the ideal soil amendment for vegetable gardens, annual flower beds, and lawns because its bacterial dominance provides the nitrogen form (ammonium) preferred by these plants.
+- **Bacterial inoculant for annuals:** Vermicompost is the ideal soil amendment [[soil-ph-management-for-vegetable-gardens]], annual flower beds, and lawns because its bacterial dominance provides the nitrogen form (ammonium) preferred by these plants.
 
-- **Not ideal for fungal crops:** Because vermicompost lacks significant fungal populations, it is less suitable as the primary amendment for trees, shrubs, perennials, and mushroom cultivation, which benefit from fungal dominance.
+- **Not ideal for fungal crops:** Because vermicompost lacks significant fungal populations, it is less suitable as the primary amendment for trees, shrubs, perennials, [[amanita-identification-and-mushroom-cultivation]], which benefit from fungal dominance.
 
-- **Nutrient supplement in mushroom cultivation:** While not a primary substrate, vermicompost can be used as a nutrient supplement in some mushroom growing systems where bacterial activity is desired (e.g., as a component of casing layers for Agaricus).
+- **Nutrient supplement [[contamination-prevention-in-mushroom-cultivation]]:** While not a primary substrate, vermicompost can be used as a nutrient supplement in some mushroom growing systems where bacterial activity is desired (e.g., as a component of casing layers for Agaricus).
 
 - **Compost tea base:** Vermicompost can be used as the compost source for making [[actively-aerated-compost-tea]] (AACT), producing a bacterially dominated tea for foliar spraying or soil drenching.
 
-- **Seed starting mix component:** The fine texture, high nutrient content, and bacterial dominance of vermicompost make it an excellent component of seed starting mixes, providing gentle nutrition and disease suppression for seedlings.
+- **Seed starting mix component:** The fine texture, high nutrient content, and bacterial dominance of vermicompost make it an excellent component of seed starting mixes, providing gentle nutrition [[compost-tea-application-and-disease-suppression]] for seedlings.
 
 - **Worm-casting tea:** Castings steeped in aerated water produce a nutrient-rich, microbially active liquid fertilizer that can be applied as a soil drench or foliar spray.
 
@@ -86,7 +86,7 @@ In [[the-soil-food-web]] gardening framework:
 
 - Vermicompost excels at **inoculating soils with bacteria** and providing bacterial foods
 - It complements **fungal compost** (made with brown materials) for a complete [[soil-food-web]] approach
-- Worm castings attract **protozoa and nematodes** (which eat bacteria), completing the nutrient cycling chain
+- Worm castings attract **[[teaming-with-microbes-protozoa-and-nematodes]]** (which eat bacteria), completing the nutrient cycling chain
 - The polysaccharide coating on castings contributes to **[[soil-aggregate-formation]]**, improving soil structure
 
 ## Practical Considerations
@@ -99,5 +99,5 @@ In [[the-soil-food-web]] gardening framework:
 
 ## References
 
-- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web*. Chapter 15: Compost (Vermicompost section).
+- Lowenfels, J. & Lewis, W. *[[teaming-with-microbes-actinomycetes]]: The Organic Gardener's Guide to the Soil Food Web*. Chapter 15: Compost (Vermicompost section).
 - Vermicompost is described as a bacterially dominated product produced by earthworms, with castings coated in polysaccharides ideal for bacterial populations.

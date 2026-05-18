@@ -1,5 +1,5 @@
 ---
-title: "McKenna DMT as Endogenous Hallucinogen and Brain Affinity"
+title: Mckenna Dmt Endogenous Hallucinogen Brain Affinity
 created: 2026-05-11
 tags: [mckenna, dmt, endogenous, serotonin, tryptamine, brain, neurotransmitter, pharmacokinetics, n-dimethyltryptamine]
 source: raw/papers/mckenna_t-tryptamines_consciousness.md
@@ -35,7 +35,7 @@ neurochemical building blocks in biology.
 
 McKenna states explicitly: "DMT is an endogenous hallucinogen.
 It is present in small amounts in the human brain." This
-endogenous presence has since been confirmed by research showing
+[[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]] has since been confirmed by research showing
 DMT in human cerebrospinal fluid, brain tissue, and the pineal
 gland, though the physiological role of endogenous DMT remains
 debated.
@@ -51,7 +51,7 @@ is absolutely at home with this compound."
 
 He contrasts this with LSD: "a hallucinogen like LSD is retained
 in the body for some time." The implication is that DMT's rapid
-onset and clearance reflect a pre-existing metabolic pathway —
+onset and clearance reflect a pre-existing [[gluconeogenesis-biochemistry-metabolic-pathway]] —
 the brain has the enzymatic machinery to process DMT efficiently
 because it has been doing so throughout human (and pre-human)
 evolution.
@@ -77,7 +77,7 @@ supports his interpretation of brain affinity:
 1. "One falls immediately into a trance"
 2. Auditory phenomena: "a sound like ripping cellophane, like
    someone crumpling up plastic film"
-3. An ascending tone is heard
+3. An [[mckenna-dmt-onset-acoustic-phenomena-cellophane-ascending-tone]] is heard
 4. Standard hallucinogenic modality: "shifting geometric surface
    of migrating and changing colored forms"
 5. "At the synaptic site of activity, all available bond sites
@@ -92,7 +92,7 @@ immediately because no metabolic processing is needed.
 
 ## Quantum Mechanical Correlates
 
-McKenna references work by John Smythies, Alexander Shulgin, and
+McKenna references work by John Smythies, [[alexander-shulgin]], and
 others on quantum mechanical correlates to hallucinogenesis:
 
 "If one atom on the molecular ring of an inactive compound is
@@ -112,7 +112,7 @@ McKenna argues that the endogenous status of DMT has profound
 implications for understanding consciousness:
 
 1. If the brain naturally produces a potent hallucinogen, then
-   the altered states produced by supplemental DMT are not
+   the [[glossolalia-and-altered-states]] produced by supplemental DMT are not
    "artificial" or "toxic" disruptions but amplifications of
    a natural neurochemical pathway
 

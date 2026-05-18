@@ -71,16 +71,16 @@ Most colonizers are Ascomycota. *Sphaerostilbella* species grow on wood-decaying
 
 ### On Polypores
 
-A considerable range of fungicolous species grow on polypores, with *Hypomyces aurantius* being one of the most common. Key species include:
+A considerable range of fungicolous species grow on polypores, with *[[hypomyces-aurantius]]* being one of the most common. Key species include:
 
 | Species | Primary Hosts |
 |---------|--------------|
 | *Hypomyces aurantius* (anamorph *Cladobotryum varium*) | Various aphyllophorales |
 | *Hypomyces polyporinus* (*C. clavisporum*) | *Trametes versicolor* |
 | *Cosmospora vilior* (*A. berkeleyanum*) | Various polypores |
-| *Ophiostoma polyporicola* | *Fomitopsis pinicola*, *Piptoporus betulinus* |
-| *Sporophagomyces chrysostomus* | Ganodermataceae |
-| *Hypocrea pulvinata* | *Fomitopsis pinicola*, *Piptoporus betulinus* |
+| *[[ophiostoma-polyporicola]]* | *[[fomitopsis-pinicola]]*, *[[piptoporus-betulinus]]* |
+| *[[sporophagomyces-chrysostomus]]* | Ganodermataceae |
+| *[[hypocrea-pulvinata]]* | *Fomitopsis pinicola*, *Piptoporus betulinus* |
 
 ### Succession on Sporocarps
 

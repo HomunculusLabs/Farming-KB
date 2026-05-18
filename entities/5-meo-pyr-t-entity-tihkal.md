@@ -29,7 +29,7 @@ sources:
 
 5-MeO-pyr-T is 5-methoxy-N,N-tetramethylenetryptamine, a compound in which the two nitrogen substituents of the tryptamine molecule are linked together as part of a pyrrolidine ring. The full chemical name is 5-methoxy-3-[2-(1-pyrrolidyl)ethyl]indole, and it is also known as pyrrolidyl-5-methoxytryptamine.
 
-The molecular formula is C15H20N2O. The free base is an off-white oil that does not crystallize. The hydrochloride salt has a melting point of 164-167 degrees Celsius when recrystallized from methanol and benzene.
+The molecular formula is C15H20N2O. The free base is an off-white oil that does not crystallize. The hydrochloride salt has a melting point of 164-167 degrees Celsius when recrystallized from [[methanol]] and benzene.
 
 Mass [[5-meo-dmt-entity-tihkal]], including a total loss of self-identity in a nearly instantaneous rush. One subject was unconscious for approximately four hours. Upon regaining consciousness, the subject felt very nauseous and vomited repeatedly. The experience was described as having a "total loss of self-identity" with the feeling of having the "top of my head blown off." Memory of the experience was completely absent.
 
@@ -39,7 +39,7 @@ At 4 mg smoked, the effects were so profound that the subject lost consciousness
 
 ## Pharmacology and Character
 
-The qualitative aspects of 5-MeO-pyr-T reports place it far from the typical vocabulary used for psychedelics. Shulgin draws a deliberate comparison to fentanyl analogues, noting that the compound produces parenteral administration effects consistent with the rapid development of anesthesia. The nausea during what would be the recovery period distinguishes it from fentanyl, but the overall profile raises the question of whether this or related compounds might have utility as clinical anesthetic or analgesic tools.
+The qualitative aspects of 5-MeO-pyr-T reports place it far from the typical vocabulary used for psychedelics. Shulgin draws a deliberate comparison to [[fentanyl]] analogues, noting that the compound produces parenteral administration effects consistent with the rapid development of anesthesia. The nausea during what would be the recovery period distinguishes it from fentanyl, but the overall profile raises the question of whether this or [[lsd-structure-activity-relationships-related-compounds]] might have utility as clinical anesthetic or analgesic tools.
 
 The extreme inter-individual variability is a serious concern. Effects range from mild calmness to complete unconsciousness with amnesia, and recovery timelines vary from hours to potentially a week or more. This variability makes the compound particularly dangerous for unsupervised use.
 
@@ -47,7 +47,7 @@ Shulgin emphasizes the critical importance of having observers present who are b
 
 ## Synthesis
 
-The synthesis of 5-MeO-pyr-T begins with 5-methoxyindole in tert-butyl methyl ether. Oxalyl chloride in TBME is added dropwise, forming 5-methoxyindol-3-ylglyoxyl chloride as tomato-red crystals. This intermediate is isolated by filtration, washed with TBME, and then added to pyrrolidine with stirring until the red color dissipates.
+The synthesis of 5-MeO-pyr-T begins with 5-methoxyindole in tert-butyl methyl ether. [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]] in TBME is added dropwise, forming 5-methoxyindol-3-ylglyoxyl chloride as tomato-red crystals. This intermediate is isolated by filtration, washed with TBME, and then added to pyrrolidine with stirring until the red color dissipates.
 
 The resulting cream-colored paste is treated with 1N hydrochloric acid, yielding the glyoxylamide as a cream-colored material. Recrystallization from methanol gives 5-methoxyindol-3-yl-N,N-tetramethyleneglyoxylamide as white crystals with a melting point of 211-212 degrees Celsius in 28% yield.
 

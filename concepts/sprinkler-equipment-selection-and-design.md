@@ -1,5 +1,5 @@
 ---
-title: Sprinkler Equipment Selection and [[food-forest-design-and-nursery-techniques]]
+title: Sprinkler Equipment Selection And Design
 source: gardening-when-it-counts-steve-[[solomon-irrigation-systems-sprinkler-design|solomon]].md
 type: concept
 ---

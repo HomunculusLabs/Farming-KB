@@ -1,5 +1,5 @@
 ---
-title: [[evaporative-demand-and-fungal-growth]] as a Unified Four-Factor Model for [[closed-circuit-wind-tunnel-design-mushroom-tropism-badham-1982]]
+title: Evaporative Demand Unified Four Factor Model Mushroom Tropism Badham 1982
 source: raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md
 author: Edmond R. Badham (1982)
 topic: mycology, tropism, mushroom physiology

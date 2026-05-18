@@ -1,5 +1,5 @@
 ---
-title: [[arbuscular-mycorrhizal-phosphorus-acquisition]] Uptake and Biogeochemical Cycling
+title: Arbuscular Mycorrhizal Phosphorus Biogeochemical Cycling
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

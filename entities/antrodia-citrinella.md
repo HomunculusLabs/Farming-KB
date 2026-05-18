@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Antrodiella citrinella is a small, polypore-like wood-decaying fungus in the family Steccherinaceae (Polyporales, [[basidiomycota]]). The species is one of the best-known examples of a "successor" fungus—one that characteristically fruits on the decaying sporocarps of a "predecessor" species, in this case [[fomitopsis-pinicola]]. This association is so consistent that finding A. citrinella can be used to locate old F. pinicola brackets. The species is a white-rot fungus and produces bright yellowish (citrine) fruiting bodies.
+Antrodiella citrinella is a small, polypore-like wood-decaying fungus in the family Steccherinaceae (Polyporales, [[basidiomycota]]). The species is one of the best-known examples of a "successor" fungus—one that characteristically fruits on the decaying sporocarps of a "predecessor" species, in this case [[fomitopsis-pinicola]]. This association is so consistent that finding A. citrinella can be used to locate old F. pinicola brackets. The species is a white-rot fungus and produces bright yellowish (citrine) [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 ## Classification
 
@@ -31,7 +31,7 @@ Antrodiella citrinella is a small, polypore-like wood-decaying fungus in the fam
 
 ## Ecology and Succession
 
-Antrodiella citrinella is a textbook example of fungal succession on wood:
+Antrodiella citrinella is a textbook example of [[dighton-fungal-succession-disturbance]] on wood:
 
 1. **Predecessor stage:** Fomitopsis pinicola colonizes and decays conifer wood, producing large perennial brackets
 2. **Decay phase:** As F. pinicola sporocarps age and begin to decay, the underlying wood is modified by [[brown-rot]] decomposition
@@ -59,9 +59,9 @@ Observed succession in fruiting does not indicate whether a successor is a selec
 
 ## Relevance to Cultivation and Mycology
 
-- **Succession model:** One of the clearest examples of fungal succession in wood decay, widely cited in mycological literature
-- **Forest ecology:** Plays a role in the transition from brown-rot to white-rot decay phases in coniferous forests
-- **Indicator species:** Its presence indicates the stage of wood decomposition and previous F. pinicola activity
+- **Succession model:** One of the clearest examples of [[fungal-succession-in-decomposition]] wood decay, widely cited in mycological literature
+- **[[forest-ecology-basics]]:** Plays a role in the transition from brown-rot to white-rot decay phases in coniferous forests
+- **Indicator species:** Its presence indicates the stage of [[fungal-wood-decomposition-spatial-variation]] and previous F. pinicola activity
 - **Taxonomic significance:** Represents the genus Antrodiella, which contains many successor species associated with specific predecessor fungi
 
 ## Key References
@@ -124,7 +124,7 @@ Antrodiella citrinella illustrates the complexity of interpreting fungal associa
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

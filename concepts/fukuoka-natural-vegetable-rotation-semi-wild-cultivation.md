@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-natural-vegetable-growing]] Rotation and Semi-Wild Cultivation
+title: Fukuoka Natural Vegetable Rotation Semi Wild Cultivation
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

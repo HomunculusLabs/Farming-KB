@@ -22,7 +22,7 @@ tags: [ascomycete, mycoparasite, fungicolous, toxin-producer, biocontrol]
 ## Key Facts
 
 - *S. microsporum* produces toxins that are effective against various test fungi, demonstrating significant antibiotic activity.
-- The species is classified among the fungicolous fungi — species consistently associated with other fungi — and likely functions as a necrotrophic mycoparasite that kills host cells with toxins before colonizing them.
+- The species is classified among the [[fungicolous-fungi-associations]] — species consistently associated with other fungi — and likely functions as a necrotrophic mycoparasite that kills host cells with toxins before colonizing them.
 - Toxin production is most pronounced among necrotrophic mycoparasites but is also common in many fungicolous fungi that grow on macromycete sporocarps.
 - Related toxin-producing fungicolous species include *Hypomyces aurantius* (producer of hypodoratoxide), *H. orthosporus*, *H. semitranslucens*, and *Eudarluca caricis*.
 - The antifungal metabolites produced by *S. microsporum* have not been fully characterized chemically, representing an area for future research.
@@ -33,9 +33,9 @@ tags: [ascomycete, mycoparasite, fungicolous, toxin-producer, biocontrol]
 
 *Sesquicillium microsporum* is relevant in several contexts:
 - **Biocontrol potential:** The antifungal toxins produced by *S. microsporum* could be developed as natural fungicides for controlling plant-pathogenic fungi in agricultural systems.
-- **[[mushroom-cultivation]]:** As a fungicolous species, *S. microsporum* may naturally colonize mushroom sporocarps, potentially causing quality losses in cultivated crops. Understanding its ecology can help in designing management strategies.
+- **[[mushroom-cultivation]]:** As a fungicolous species, *S. microsporum* may naturally colonize mushroom sporocarps, potentially causing quality losses in cultivated crops. Understanding its ecology can help in designing [[forest-management-strategies]].
 - **Drug discovery:** Fungal-derived antifungal compounds are an underexplored source of pharmaceutical leads; *S. microsporum* toxins merit further investigation.
-- **Fungal ecology:** Illustrates the importance of chemical warfare in fungal community dynamics, where toxin production determines competitive hierarchies.
+- **Fungal ecology:** Illustrates the importance of [[allelopathy-and-chemical-warfare-in-plants]] [[fungal-community-dynamics-ecosystem-stability]], where toxin production determines competitive hierarchies.
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -86,13 +86,13 @@ tags: [ascomycete, mycoparasite, fungicolous, toxin-producer, biocontrol]
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
 
 ## References
 
-- Gams, W. et al. "Fungicolous Fungi" in *Biodiversity of Fungi*
+- Gams, W. et al. "Fungicolous Fungi" in *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]*
 - Hoßfeld, M. (1990). Toxins in fungicolous fungi
 - Jeffries, P. and Young, T.W.K. (1994). Interfungal Parasitic Relationships

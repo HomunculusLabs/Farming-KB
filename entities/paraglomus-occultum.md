@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*[[paraglomus]] occultum* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Paraglomus*, family Paraglomaceae. It is one of only two species in this small but phylogenetically significant genus within the order Glomales. Along with *[[archaeospora]]*, *Paraglomus* represents a deeply divergent lineage of AM fungi that was only recognized as distinct through molecular phylogenetic analysis of ribosomal DNA sequences.
+*[[paraglomus]] occultum* is a species of [[arbuscular-mycorrhizal-colonization-patterns]] (AM) fungus in the genus *Paraglomus*, family Paraglomaceae. It is one of only two species in this small but phylogenetically significant genus within the order Glomales. Along with *[[archaeospora]]*, *Paraglomus* represents a deeply divergent lineage of AM fungi that was only recognized as distinct through molecular phylogenetic analysis of ribosomal DNA sequences.
 
 ## Classification
 
@@ -30,7 +30,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-*Paraglomus occultum* is significant for mycological research because:
+*Paraglomus occultum* is significant for [[mycological-research-institutions]] because:
 
 - It represents one of the most basal lineages within Glomales, providing critical data for reconstructing the evolutionary history of AM symbiosis
 - Its discovery through molecular rather than morphological methods highlights the limitations of traditional taxonomy for AM fungi
@@ -52,7 +52,7 @@ type: entity
 - The key facts section should remain the main checklist for future review.
 - The relevance section connects the note to the uses already described.
 - Preserve names, hosts, media, families, genera, species, institutions, and protocols already listed above.
-- Do not widen host range, habitat range, practical uses, or taxonomic placement without a local source.
+- Do not widen [[powdery-mildews-erysiphaceae-diversity-host-range]], habitat range, practical uses, or taxonomic placement without a local source.
 - Prefer concise additions that clarify existing claims instead of adding new claims.
 - If a stronger source is found later, add it to the references section before expanding the claim.
 - Keep scientific names and institutional names consistent with the forms already used above.
@@ -91,7 +91,7 @@ type: entity
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

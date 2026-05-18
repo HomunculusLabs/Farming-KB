@@ -1,5 +1,5 @@
 ---
-title: [[low-island-permaculture-atoll-water-management]]
+title: Low Island Permaculture
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fungal Biodiversity Patterns and Quantitative Assessment
+title: Fungal Biodiversity Patterns Sampling Indices
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -44,23 +44,23 @@ Dividing each species' frequency by the sum of all frequencies yields a **standa
 
 ## Sampling Design: Plot Size and Shape
 
-The choice of sampling plot size and shape significantly influences estimates of fungal diversity and density. Plot dimensions should balance practicality, a priori knowledge of the system, and the need to capture relevant spatial heterogeneity.
+The choice of sampling plot size and shape significantly influences estimates of [[fungal-diversity-and-ecosystem-function]] density. Plot dimensions should balance practicality, a priori knowledge of the system, and the need to capture relevant spatial heterogeneity.
 
 ### Circular vs. Rectangular Quadrats
 
 - **Circular plots** are delineated easily with a center pole and radius line, and they minimize edge effects that can bias density estimates.
-- **Rectangular quadrats** provide more accurate estimates of species composition than circular or square plots of equal area (Krebs 1989). They are especially suited for assessing environmental gradients when the long axis is oriented parallel to the underlying gradient (Cox 1996). Rectangular quadrats are more effective at detecting **habitat heterogeneity** and accurately estimating the patchy distribution of organisms, since a long quadrat potentially crosses more habitat patches than a circular plot of the same area.
+- **Rectangular quadrats** provide more accurate estimates of species composition than circular or square plots of equal area (Krebs 1989). They are especially suited for assessing [[fungal-adaptations-environmental-gradients]] when the long axis is oriented parallel to the underlying gradient (Cox 1996). Rectangular quadrats are more effective at detecting **habitat heterogeneity** and accurately estimating the patchy distribution of organisms, since a long quadrat potentially crosses more habitat patches than a circular plot of the same area.
 
 ## Collector's Curves and Species-Effort Relationships
 
-A **collector's curve** (species accumulation curve) plots cumulative species richness against sampling effort (number of samples, area, or volume). The total number of species increases with effort but eventually reaches a **plateau (asymptote)** if the domain is geographically circumscribed and sampling is random. The effort required to reach the plateau depends on environmental heterogeneity and the dispersion patterns and fruiting phenology of the focal taxa.
+A **collector's curve** (species accumulation curve) plots cumulative species richness against sampling effort (number of samples, area, or volume). The total number of species increases with effort but eventually reaches a **plateau (asymptote)** if the domain is geographically circumscribed and sampling is random. The effort required to reach the plateau depends on environmental heterogeneity and the dispersion patterns and [[macrofungal-fruiting-phenology-climate-variability]] of the focal taxa.
 
 ### Three Species-Effort Models
 
 All three models below are members of the same family of curves (He and Legendre 1996):
 
 1. **Power model** (Arrhenius 1921): `S = CA^z` — Species richness increases monotonically with effort; no asymptote predicted. Most appropriate for heterogeneous landscapes where increased effort captures new habitat types.
-2. **Exponential model** (Gleason 1922, 1925): `S = C + z ln A` — Also monotonically increasing without asymptote. Figures prominently in island biogeography and conservation biology.
+2. **Exponential model** (Gleason 1922, 1925): `S = C + z ln A` — Also monotonically increasing without asymptote. Figures prominently in island biogeography and [[fungal-conservation-biology]].
 3. **Logistic model** (Archibold 1949): `S = B/(C + A)^-z` — Predicts that S eventually reaches an **asymptote**, the value of which is an accurate estimate of the **true species richness** of the domain of interest. Most appropriate for geographically circumscribed domains with random sampling.
 
 Comparing species richness at effort levels below the asymptote can lead to spurious conclusions.
@@ -93,7 +93,7 @@ Rarefaction has been used to determine the expected number of fungal species fro
 
 ## Diversity Indices
 
-Diversity comprises two attributes: **species richness** and **species evenness**. Multiple indices capture different aspects of community structure:
+Diversity comprises two attributes: **species richness** and **species evenness**. Multiple indices capture different aspects of [[acidifying-pollutants-mycorrhizal-community-structure]]:
 
 ### Simpson's Index (D)
 

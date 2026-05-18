@@ -1,5 +1,5 @@
 ---
-title: [[jivaro-shamanic-apprenticeship]] and Tsentsak
+title: Jivaro Shamanic Apprenticeship And Tsentsak
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---

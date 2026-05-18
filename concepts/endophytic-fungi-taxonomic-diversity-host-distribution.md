@@ -24,7 +24,7 @@ tissue types, and geographic regions.
 1989), and 44 in branch bases (Germany/Poland, Kowalski and Kehr 1992). *Juniperus communis*
 leaves yielded 114 species (Switzerland, Petrini and Müller 1979); *Picea abies* twigs 85
 species (Sweden, Barklund and Kowalski 1996); *Picea mariana* roots 97 species (Ontario,
-Summerbell 1989); *Chamaecyparis thyoides* leaves/twigs 88 species with 8–12 species per tree
+Summerbell 1989); *[[chamaecyparis-thyoides]]* leaves/twigs 88 species with 8–12 species per tree
 (NJ, Bills and Polishook 1992); and *Sequoia sempervirens* leaves 26 species (California).
 
 ### Broadleaf Trees and Shrubs
@@ -52,7 +52,7 @@ underscoring a strong latitudinal gradient in endophyte diversity.
 
 ### Herbaceous and Fern Hosts
 
-*Cuscuta reflexa* stems — 45 species (India); *Pteridium aquilinum* roots/stems/leaves — 61
+*Cuscuta reflexa* stems — 45 species (India); *[[pteridium-aquilinum]]* roots/stems/leaves — 61
 species (UK, Petrini et al. 1992a). *Dryas octopetala* leaves demonstrate the dramatic effect
 of geography: only 4 species from Spitsbergen (Arctic) versus 23 from Switzerland (temperate).
 
@@ -84,10 +84,10 @@ A significant proportion of endophytic isolates represent latent pathogens that 
 quiescent in healthy tissue and cause disease under favorable conditions, revealing an
 evolutionary continuum between endophytism and pathogenesis. Documented examples include:
 *Apiognomonia veneta* on *Platanus* and *A. errabunda* on *Fagus*; *Colletotrichum* species
-on numerous hosts; *Cryphonectria parasitica* from *Castanea sativa* coppice shoots (Bissegger
+on numerous hosts; *[[cryphonectria-parasitica]]* from *Castanea sativa* coppice shoots (Bissegger
 and Sieber 1994); *Melanconis alni* and *Diplodina acerina* as minor twig mycobiota components
 (Sieber et al. 1991); conifer needle pathogens *Cyclaneusma minus*, *Lophodermium seditiosum*,
-and *Rhizosphaera kalkhoffii*; and *Fusarium* species, frequently isolated but seldom dominant.
+and *[[rhizosphaera-kalkhoffii]]*; and *Fusarium* species, frequently isolated but seldom dominant.
 This heterogeneous ecology challenges rigid classification of plant–fungal associations.
 
 ## Relationships with Epiphytic, Cauloplane, and Rhizosphere Fungi
@@ -99,7 +99,7 @@ These endophytes have been largely unaffected by anthropogenic selection pressur
 
 Host surface barriers do not completely exclude fungal ingress. *Hormonema dematioides* is a
 dominant epiphytic colonist regularly isolated internally (Legault et al. 1989). *Alternaria
-alternata* and *Cladosporium cladosporioides* are ubiquitous epiphytes capable of internal
+alternata* and *[[cladosporium-cladosporioides]]* are ubiquitous epiphytes capable of internal
 colonization. Many common endophytes are considered typical epiphytic saprobes (Fisher and
 Petrini 1992; Cabral et al. 1993), while some dominant internal colonists are absent or
 infrequent epiphytes. Guilds of endophytic colonists share some species with epiphytic and
@@ -119,7 +119,7 @@ Braun 1992; Carroll 1995). The most common detection method — isolation from s
 host tissue — has important limitations. Obligate biotrophs may be entirely undetected, and
 non-sporulating isolates require molecular characterization. rDNA gene sequence comparisons
 have become essential for elucidating phylogenetic positions of sterile morphospecies (Guo et
-al. 2000). Inferences about fungal community structure based solely on isolation data must be
+al. 2000). Inferences about [[mineralogical-controls-fungal-community-structure]] based solely on isolation data must be
 interpreted cautiously given the microscopic scale of endophyte distributions. Infection
 frequencies vary with foliage age, host distribution, and temporal/spatial variation, and
 modern studies increasingly address complex multi-trophic symbioses among hosts, fungi, and

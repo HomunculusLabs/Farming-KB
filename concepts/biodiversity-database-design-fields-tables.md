@@ -12,7 +12,7 @@ Effective biodiversity databases are essential infrastructure for mycological an
 
 Centralized databases simplify querying and consistency enforcement but require significant governance overhead, including agreed-upon data models, access policies, and long-term maintenance commitments. They work well for large institutional collections or national inventories where a single authority can enforce standards.
 
-Distributed approaches—increasingly common in fungal biodiversity work—allow individual researchers or collections to maintain local control while enabling data exchange through common formats and identifiers (e.g., UUID, Life Science Identifiers, or DOIs for datasets). This model reflects the reality that fungal specimens, cultures, and sequence data are often scattered across herbaria, culture collections, and sequence repositories worldwide.
+Distributed approaches—increasingly common in [[fungal-biodiversity]] work—allow individual researchers or collections to maintain local control while enabling data exchange through common formats and identifiers (e.g., UUID, Life Science Identifiers, or DOIs for datasets). This model reflects the reality that fungal specimens, cultures, and sequence data are often scattered across herbaria, culture collections, and sequence repositories worldwide.
 
 Regardless of architecture, sound database design principles apply to both. The decisions made at the schema level ripple through every downstream activity—data entry, querying, reporting, analysis, and data sharing.
 

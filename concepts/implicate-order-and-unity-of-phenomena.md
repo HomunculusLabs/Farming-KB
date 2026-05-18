@@ -1,5 +1,5 @@
 ---
-title: [[implicate-order-and-unity-of-nature]] the Unity of Phenomena
+title: Implicate Order And Unity Of Phenomena
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

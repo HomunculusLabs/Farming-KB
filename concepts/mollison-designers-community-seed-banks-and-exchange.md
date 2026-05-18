@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-community-garden-design-urban-permaculture]] seed banks and exchange Banks and Exchange in Permaculture
+title: Mollison Designers Community Seed Banks And Exchange
 created: 2026-04-28
 tags:
   - permaculture

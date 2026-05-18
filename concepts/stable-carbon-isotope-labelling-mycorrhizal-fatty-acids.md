@@ -1,5 +1,5 @@
 ---
-title: "[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] Labelling Mycorrhizal Fatty Acids"
+title: Stable Carbon Isotope Labelling Mycorrhizal Fatty Acids
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

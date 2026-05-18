@@ -1,12 +1,12 @@
 ---
-title: Maitake Strain Selection and Spawn Types
+title: Maitake Strain Selection And Spawn Types
 source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
 # Maitake Strain Selection and Spawn Types
 
-*Grifola frondosa* (maitake / hen of the woods) is a premier medicinal and culinary mushroom prized for its immune-modulating polysaccharides and rich umami flavor. However, successful commercial cultivation demands careful strain selection and an understanding of spawn biology—more so than with many other cultivated species.
+*[[grifola-frondosa]]* (maitake / hen of the woods) is a premier [[holzer-medicinal-and-culinary-herbs-compendium]] mushroom prized for its immune-modulating polysaccharides and rich umami flavor. However, successful commercial cultivation demands careful strain selection and an understanding of spawn biology—more so than with many other cultivated species.
 
 ## Overview of Maitake Biology
 
@@ -39,7 +39,7 @@ It is important to understand the biological distinction. A mushroom **species**
 
 ### What Is Spawn?
 
-**Spawn** is the "seed" of mushroom cultivation—an asexual inoculum consisting of **vigorous mycelial growth on a chosen substrate**. The mycelium colonizes the spawn medium and is then used to inoculate the final production substrate (the synthetic log). The quality, type, and handling of spawn directly influence colonization speed, contamination resistance, and ultimate yield.
+**Spawn** is the "seed" [[historical-development-of-mushroom-cultivation]]—an asexual inoculum consisting of **vigorous mycelial growth on a chosen substrate**. The mycelium colonizes the spawn medium and is then used to inoculate the final production substrate (the synthetic log). The quality, type, and handling of spawn directly influence colonization speed, contamination resistance, and ultimate yield.
 
 ### Synthetic Logs
 
@@ -103,11 +103,11 @@ Regardless of spawn type, quality control is paramount. Spawn should be inspecte
 - Bright white mycelium with no discoloration (yellowing or darkening suggests stress or contamination)
 - A clean, earthy mushroom aroma (sour or rotten smells indicate bacterial contamination)
 
-Fresh spawn performs best. Most spawn types should be used within 2–4 weeks of full colonization. If storage is necessary, refrigeration at 2–4°C slows metabolic activity and extends viability, but spawn should still be used as promptly as possible. Liquid spawn in particular has a limited shelf life and should be used within days of production for optimal results.
+Fresh spawn performs best. Most spawn types should be used within 2–4 weeks of full colonization. If storage is necessary, refrigeration at 2–4°C slows [[arbuscule-isolation-metabolic-activity-assays]] and extends viability, but spawn should still be used as promptly as possible. Liquid spawn in particular has a limited shelf life and should be used within days of production for optimal results.
 
 ## Special Considerations for Maitake Cultivation
 
-Maitake cultivation demands **undivided attention** and requires **more operational detail than most other cultivated mushroom species**. The crop is less forgiving of environmental fluctuations, timing errors, and shortcuts in substrate preparation. Growers accustomed to oyster or shiitake production will find that maitake introduces additional complexity at virtually every stage—from spawn preparation through fruiting and harvest.
+Maitake cultivation demands **undivided attention** and requires **more operational detail than most other [[classification-of-cultivated-mushroom-species]]**. The crop is less forgiving of environmental fluctuations, timing errors, and shortcuts in substrate preparation. Growers accustomed to oyster or shiitake production will find that maitake introduces additional complexity at virtually every stage—from spawn preparation through fruiting and harvest.
 
 **Growing rooms should not be shared with other mushroom species.** Maitake requires specific temperature, humidity, and fresh air exchange regimes that may conflict with the needs of other crops. Additionally, cross-contamination risk (both biological and spore-based) is elevated when multiple species occupy the same fruiting space. Dedicated growing rooms allow for precise environmental control and reduce the likelihood of crop failure.
 

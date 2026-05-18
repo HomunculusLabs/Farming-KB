@@ -1,5 +1,5 @@
 ---
-title: Safe [[classification-of-edible-and-poisonous-mushroom-families]] for Beginners
+title: Safe Mushroom Families For Beginners
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

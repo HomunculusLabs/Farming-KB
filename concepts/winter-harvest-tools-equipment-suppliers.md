@@ -1,5 +1,5 @@
 ---
-title: [[winter-harvest-tools-and-equipment]] and Equipment Suppliers
+title: Winter Harvest Tools Equipment Suppliers
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Flat Land [[bee-forage-systems-permaculture-design]]
+title: Flat Land Permaculture Design
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---

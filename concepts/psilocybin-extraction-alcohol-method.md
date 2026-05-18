@@ -1,5 +1,5 @@
 ---
-title: [[psilocybin-extraction]] via Alcohol Method
+title: Psilocybin Extraction Alcohol Method
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---

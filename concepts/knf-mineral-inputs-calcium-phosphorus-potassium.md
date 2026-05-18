@@ -17,7 +17,7 @@ Master Cho's [[korean-natural-farming]] system uses water-soluble mineral soluti
 2. Broil/roast shells to sanitize (not burn to charcoal)
 3. Crush shells and place in clay jar
 4. Add BRV at 1:10 ratio (shells:BRV)
-5. Small bubbles appear as calcium carbonate converts to water-soluble calcium (~7 days)
+5. Small bubbles appear as [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] converts to water-soluble calcium (~7 days)
 6. When bubbles stop, the process is complete
 
 **Calcium's Role in Plants:**
@@ -29,7 +29,7 @@ Master Cho's [[korean-natural-farming]] system uses water-soluble mineral soluti
 - Carries carbohydrates from branches/leaves to storage organs (ovaries)
 - Critical for overall plant health
 
-**Calcium Deficiency Symptoms:**
+**[[knf-calcium-deficiency-symptoms]]:**
 - Underdeveloped roots and feeble root hairs
 - Leaves discolor to brown, then dry out
 - Empty bean pods
@@ -66,7 +66,7 @@ Master Cho's [[korean-natural-farming]] system uses water-soluble mineral soluti
 - Present in every plant cell; composes the cell nucleus
 - Moves to vigorous buds, root tips, and seed fruit to increase cell production
 - Essential for energy transfer (ATP) and root development
-- Critical during flowering and fruiting stages
+- Critical during flowering [[mushroom-spawn-and-fruiting-stages]]
 
 ## Water Soluble Potassium (WSK)
 
@@ -77,19 +77,19 @@ Master Cho's [[korean-natural-farming]] system uses water-soluble mineral soluti
 2. Put 1–2kg in hemp cloth bag, soak in 100L water for ~7 days
 3. Dilute 0.7L crude liquid in 20L water for application
 
-**Potassium Functions:**
+**[[knf-water-soluble-potassium-functions]]:**
 - Essential for sugar/starch synthesis and translocation
 - Enhances fruit quality and disease resistance
 - Regulates water balance and stomatal function
 
-**Potassium Deficiency Symptoms:**
+**[[knf-potassium-deficiency-and-excess]] Symptoms:**
 - Marginal chlorosis and necrosis of older leaves
 - Weak stems, lodging tendency
 - Small fruit seeds, late maturity
 - Chlorosis from old leaves; tip discoloration even at peak growth
 
 **Potassium Excess Symptoms:**
-- Magnesium deficiency
+- [[query-how-to-fix-magnesium-deficiency-in-cannabis]]
 - Gas disorder symptoms in middle leaves
 
 **Cautions:**

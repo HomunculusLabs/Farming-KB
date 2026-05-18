@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-Teonanacatl (Nahuatl: "flesh of the gods") is the Aztec name for the sacred hallucinogenic mushrooms used in religious and healing ceremonies in Mesoamerica. The term specifically refers to psilocybin-containing mushrooms of the genera *Psilocybe*, *Stropharia*, *Conocybe*, *Panaeolus*, and *Copelandia* that were venerated by indigenous peoples of Mexico for centuries before European contact. Teonanacatl represents one of the oldest documented relationships between humans and psychoactive fungi.
+Teonanacatl (Nahuatl: "flesh of the gods") is the Aztec name for the sacred [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] used in religious and healing ceremonies in Mesoamerica. The term specifically refers to psilocybin-containing mushrooms of the genera *Psilocybe*, *Stropharia*, *Conocybe*, *Panaeolus*, and *Copelandia* that were venerated by indigenous peoples of Mexico for centuries before European contact. Teonanacatl represents one of the oldest documented relationships between humans and psychoactive fungi.
 
 ## Classification
 
@@ -19,7 +19,7 @@ Teonanacatl (Nahuatl: "flesh of the gods") is the Aztec name for the sacred hall
 ## Historical Documentation
 
 ### Pre-Columbian Era
-- **300–500 B.C.**: Mushroom stones discovered in highland Guatemala, suggesting ritual use of psychoactive mushrooms dating back at least 2,500 years
+- **300–500 B.C.**: Mushroom stones discovered in highland Guatemala, suggesting ritual use [[historical-and-cultural-uses-of-psychoactive-mushrooms]] dating back at least 2,500 years
 - **c. 300 A.D.**: Frescoes found in central Mexico depicting mushroom designs, indicating an established mushroom cult by this period
 
 ### Spanish Colonial Period
@@ -34,14 +34,14 @@ Teonanacatl (Nahuatl: "flesh of the gods") is the Aztec name for the sacred hall
 - **1936**: Victor A. Reko published *Magische Gifte*, wrongly suggesting teonanacatl might be a species of *Amanita*
 - **1936**: Ing. Roberto J. Weitlaner obtained teonanacatl in Oaxaca — the first white man in modern times to do so
 - **1938**: Weitlaner's daughter, anthropologist Jean Basset Johnson, and two others attended a mushroom rite in Huautla, Oaxaca — the first whites to attend a mushroom ceremony
-- **1938**: Harvard botanist R.E. Schultes traveled to Oaxaca and obtained specimens of *[[panaeolus-campanulatus]]* var. *sphinctrinus* and *[[stropharia-cubensis]]*, and described *Psilocybe caerulescens* var. *mazatecorum*
+- **1938**: Harvard botanist R.E. Schultes traveled to Oaxaca and obtained specimens of *[[panaeolus-campanulatus]]* var. *sphinctrinus* and *[[stropharia-cubensis]]*, and described *[[psilocybe-caerulescens]]* var. *mazatecorum*
 
 ### Modern Era
 - **1953**: R. Gordon and Valentina Wasson learned of the mushroom cult and traveled to the village of Huautla de Jiménez in Oaxaca
 - **1955**: R.G. Wasson and Alan Richardson became the first Americans to attend a mushroom ritual and ingest the mushrooms, under the supervision of María Sabina, a local curandera
 - **1956**: Roger Heim identified fourteen species and several subspecies in three genera (*Psilocybe*, *Stropharia*, *Conocybe*), several new to science
 - **1957**: Rolf Singer arrived with Mexican botanists M.A. Palacios and Gastón Guzmán for taxonomic work
-- **1958**: Albert Hofmann isolated and named psilocybin and psilocin
+- **1958**: Albert Hofmann isolated and named [[hplc-analysis-of-psilocybin-and-psilocin]]
 
 ## Botanical Identity
 
@@ -59,7 +59,7 @@ These genera all contain the compounds psilocybin (4-phosphoryloxy-N,N-dimethylt
 
 Teonanacatl was central to Mesoamerican religious practice:
 
-- Used in divination, healing, and religious ceremonies
+- Used in divination, healing, and [[entheogenic-folk-religious-ceremonies]]
 - Considered a means of direct communication with the divine
 - Administered by trained practitioners (curanderos/curanderas) such as María Sabina
 - Consumed in controlled ritual settings, typically at night in complete darkness
@@ -73,7 +73,7 @@ By the mid-1960s, laws against psilocybin were enacted in the United States and 
 
 ## Relevance to Cultivation
 
-The history of teonanacatl is directly relevant to modern mushroom cultivation:
+The history of teonanacatl is directly relevant to modern [[accessible-mushroom-cultivation-for-disabilities]]:
 
 - The ritual use of these mushrooms preserved knowledge of their effects and identification for centuries
 - The Wassons' work led to the scientific identification and isolation of the active species

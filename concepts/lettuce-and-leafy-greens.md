@@ -1,5 +1,5 @@
 ---
-title: Lettuce and [[solomon-leafy-greens-growing]] Guide
+title: Lettuce And Leafy Greens
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

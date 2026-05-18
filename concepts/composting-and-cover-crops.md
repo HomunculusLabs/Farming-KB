@@ -1,5 +1,5 @@
 ---
-title: Composting and [[comparison-biochar-vs-cover-crops|Cover]] Crops
+title: Composting And Cover Crops
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

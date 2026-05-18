@@ -7,7 +7,7 @@ type: concept
 # Poisonous Gilled Fungi (Lactarius, Russula, Entoloma, Hebeloma, Volvaria, Inocybe)
 
 > Based on *Poisonous Fungi* by [[john-ramsbottom]] (1945), Keeper of Botany at the British Museum
-> (Natural History). Dimensions are given as cap diameter, stem height, stem width.
+> ([[stropharia-cubensis-identification-and-natural-history]]). Dimensions are given as cap diameter, stem height, stem width.
 
 This page covers the non-Amanita poisonous or suspect gilled fungi described in Ramsbottom's
 survey. While the deadly *Amanita* species account for the vast majority of fatal poisonings,
@@ -31,7 +31,7 @@ a paler margin. The gills are thin, decurrent, and yellowish-pink. The pale pink
 brittle, sometimes with small superficial pits, finally hollow; the flesh is pinkish.
 
 It fruits in summer and autumn in woods and on heaths, frequently under birches — an association
-that is so reliable it serves as a field identification aid. Despite its fearsome reputation among
+that is so reliable it serves as a [[amanita-muscaria-physical-description-field-identification]] aid. Despite its fearsome reputation among
 British foragers, it is **not truly poisonous**. The acrid principle irritates the digestive tract
 when eaten raw — the epithet *torminosus* means "griping" — but cooking destroys it entirely.
 In Finland it is a favourite toadstool, boiled and eaten at once or salted down for winter storage.
@@ -62,11 +62,11 @@ indicate the most lethal forms of poisoning.
 
 **Dimensions:** Cap up to 4", stem 3", width 1"
 
-*Russula emetica* is one of the best-known poisonous mushrooms, its epithet meaning "emetic" — a
+*[[russula-emetica]]* is one of the best-known [[identifying-poisonous-mushrooms]], its epithet meaning "emetic" — a
 direct warning. The cap is convex at first, then flattened or depressed, brilliant bright red —
 at first matt then shiny, fading with age to pink, yellow, or white. The cap edge is smooth when
 young, later furrowed; the skin peels easily and is one of the species that "peels," demonstrating
-that this character has no bearing on toxicity (since *[[amanita-phalloides|Amanita phalloides]]* also peels). The gills
+that this character has no bearing on toxicity (since *[[amanita-phalloides]]* also peels). The gills
 are shining white, more or less free and somewhat crowded; the stem is rigid, white, sometimes
 pink-tinged. The flesh is firm and white, pink under the cap skin. The taste is very acrid after
 a few seconds and persistent — this delayed onset of acridity is characteristic and distinguishes
@@ -138,10 +138,10 @@ It grows on grass covering rubbish heaps, straw, and manure in summer and autumn
 
 The genus *Inocybe* contains species with brown spores and fibrillose or scaly caps that are
 easily overlooked on the forest floor. They are generally small, drab-coloured, and difficult to
-identify without microscopic examination — traits that make accidental ingestion a significant
+identify without [[fungal-microscopic-examination-mounting-media-techniques]] — traits that make [[psilocybin-accidental-ingestion-australia]] a significant
 risk. *I. patouillardi* is among the more dangerous members, noted by Ramsbottom as containing
 substances that **paralyse the nervous system**, a pharmacological action it shares with *Amanita
-muscaria* and *A. pantherina* in his three-category classification of poisonous fungi. The species
+muscaria* and *A. pantherina* in his three-category classification [[history-of-poisonous-fungi-knowledge]]. The species
 bruises or stains reddish when handled, hence the common name "Red Staining Inocybe."
 
 All *Inocybe* species should be treated with extreme caution by foragers. Their inconspicuous

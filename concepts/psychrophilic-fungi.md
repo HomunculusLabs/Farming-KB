@@ -45,7 +45,7 @@ structural flexibility than their mesophilic counterparts, with
 reduced numbers of stabilizing interactions such as hydrogen bonds,
 salt bridges, and hydrophobic interactions.
 This structural flexibility allows enzyme active sites to remain
-accessible at low thermal energy levels, though it comes at the
+accessible at low [[phase-change-materials-thermal-energy-storage]] levels, though it comes at the
 cost of reduced thermal stability.
 Psychrophilic fungi also produce compatible solutes and
 cryoprotective compounds including trehalose, glycerol, and
@@ -57,23 +57,23 @@ protecting cells during freeze-thaw cycles.
 ## Decomposition and Nutrient Cycling in Cold Soils
 
 Psychrophilic and psychrotolerant fungi are the primary agents
-of organic matter decomposition in polar, alpine, and boreal
+of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] decomposition in polar, alpine, and boreal
 ecosystems during periods when temperatures are too low for
 bacterial activity to dominate.
 In Arctic tundra soils, fungal biomass can account for over 90%
-of total soil microbial biomass during winter months, with
+of total [[soil-microbial-biomass-measurement-ecological-significance]] during winter months, with
 species of Mortierella, Penicillium, and Cladosporium among the
 most frequently isolated genera.
 Cold-adapted basidiomycetes play particularly important roles
 in decomposing recalcitrant plant litter such as conifer needles
-and woody debris that accumulate in boreal forests.
-Despite slower absolute decomposition rates compared to warm
+and woody debris that accumulate in [[biodiversity-fungi-temperate-boreal-forests]].
+Despite slower absolute [[dighton-litter-quality-fungal-decomposition-rates]] compared to warm
 environments, cold-adapted fungi sustain continuous nutrient
 mineralization throughout the year, preventing the complete
 shutdown of nutrient cycling that would otherwise occur during
 winter in high-latitude and high-altitude ecosystems.
 Their activity is critical for maintaining the productivity of
-northern ecosystems where growing seasons are short and nutrient
+northern ecosystems where [[jeavons-climate-adaptation-growing-seasons]] are short and nutrient
 availability limits plant growth.
 
 ## Biodiversity in Polar and Alpine Regions

@@ -8,12 +8,12 @@ type: entity
 
 ## Description
 
-Nitrogen deposition from anthropogenic sources (fossil fuel combustion, agricultural fertilization) is a major driver of change in fungal community structure in forest and grassland ecosystems. Elevated nitrogen inputs shift the balance between ectomycorrhizal and saprotrophic fungal communities, alter fruiting patterns, and change the functional capacity of fungal-mediated ecosystem processes including decomposition, nutrient cycling, and plant-microbe signaling.
+Nitrogen deposition from anthropogenic sources (fossil fuel combustion, agricultural fertilization) is a major driver of change in [[mineralogical-controls-fungal-community-structure]] in forest and grassland ecosystems. Elevated nitrogen inputs shift the balance between ectomycorrhizal and saprotrophic fungal communities, alter fruiting patterns, and change the functional capacity of fungal-mediated ecosystem processes including decomposition, nutrient cycling, and plant-microbe signaling.
 
 ## Classification
 
 - **Category:** Environmental stress factor / nutrient perturbation
-- **Pollutant forms:** Ammonium sulfate [(NH4)2SO4], ammonium nitrate (NH4NO3), nitric acid (HNO3), nitrogen oxides (NOx)
+- **Pollutant forms:** Ammonium sulfate [(NH4)2SO4], [[plant-available-nitrogen-ammonium-nitrate]] (NH4NO3), nitric acid (HNO3), nitrogen oxides (NOx)
 - **Affected systems:** Forest floor, leaf litter, soil profiles, heathland ecosystems
 
 ## Key Facts
@@ -36,7 +36,7 @@ Specific ectomycorrhizal genera show differential responses to nitrogen loading:
 
 - **Declined by N addition:** Cortinarius, Russula, Piloderma, Dermocybe, Hebeloma
 - **Unchanged by N addition:** Lactarius (most species)
-- **Increased by N addition:** Paxillus involutus, Lactarius rufus
+- **Increased by N addition:** [[paxillus-involutus]], Lactarius rufus
 
 Arnebrant and Söderström (1992) documented total mycorrhizal colonization reduction from 70% to 55% in Scots pine forests fertilized with 1700 and 950 kg N ha⁻¹ over 13 years.
 
@@ -45,7 +45,7 @@ Arnebrant and Söderström (1992) documented total mycorrhizal colonization redu
 Saprotrophic fungi show contrasting responses depending on context:
 - In beech woodlands with high N addition, saprotrophic genera Mycena, Clitocybe, Lepista, Agaricus, and Lycoperdon increased fruiting while mycorrhizal species ceased fruiting (Rühling and Tyler, 1991)
 - Liming (to offset acidification) had similar effects to N fertilization on fungal communities (Kuyper, 1989)
-- Antibus and Linkins (1992) showed liming reduced acid phosphatase activity of the mycorrhizal community
+- Antibus and Linkins (1992) showed liming reduced acid [[mycorrhizal-phosphatase-activity-elf97-detection]] of the mycorrhizal community
 
 ### Heathland Ecosystems
 
@@ -64,7 +64,7 @@ Kieliszewska-Rokicka (1992) found that small amounts of NH4-N (0.17–19 mM) act
 
 Arnolds' observations of fungal species loss in The Netherlands led to the adoption of "red data" lists for fungal conservation (Arnolds, 1989b, 1997). Specific species losses included:
 - Hygrocybe ceracea, Entoloma conferendum, Mycena cinerella, Geoglossum glutinosum (declined)
-- Marasmius oreades, Panaeolina foenisecii, Clitocybe amarescens, Panaeolus acuminatus (increased 6–400 fold)
+- [[marasmius-oreades]], [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], Clitocybe amarescens, Panaeolus acuminatus (increased 6–400 fold)
 - Coprophytic fungal species increased overall
 
 The UK adopted inclusion of fungi and nonvascular plants in conservation species lists (Watling, 1999).

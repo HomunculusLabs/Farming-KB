@@ -1,5 +1,5 @@
 ---
-title: Insect [[marijuana-horticulture-cervantes-pest-and-disease-management]] Philosophy
+title: Insect And Disease Management Philosophy
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

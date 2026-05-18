@@ -1,5 +1,5 @@
 ---
-title: Pig Forage and [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]]
+title: Pig Forage And Integrated Management
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

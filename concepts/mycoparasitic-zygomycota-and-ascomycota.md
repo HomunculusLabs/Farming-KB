@@ -6,7 +6,7 @@ type: concept
 
 # Mycoparasitic Zygomycota and Ascomycota
 
-Mycoparasitism — the phenomenon of one fungus parasitizing another — is a widespread and ecologically significant strategy among fungi. Mycoparasitic fungi attack other fungi through a range of mechanisms including direct hyphal penetration, secretion of lytic enzymes, antibiosis via secondary metabolites, and coil formation around host hyphae. These interactions shape fungal community structure in soil, decaying wood, leaf litter, and clinical settings. Two major phyla harbor important mycoparasites: **Zygomycota** and **[[ascomycota]]**, each with distinct lineages, host specificities, and modes of action.
+Mycoparasitism — the phenomenon of one fungus parasitizing another — is a widespread and ecologically significant strategy among fungi. Mycoparasitic fungi attack other fungi through a range of mechanisms including direct hyphal penetration, secretion of lytic enzymes, antibiosis via secondary metabolites, and coil formation around host hyphae. These interactions shape [[mineralogical-controls-fungal-community-structure]] in soil, decaying wood, leaf litter, and clinical settings. Two major phyla harbor important mycoparasites: **Zygomycota** and **[[ascomycota]]**, each with distinct lineages, host specificities, and modes of action.
 
 ## Mycoparasitic Zygomycota
 
@@ -31,7 +31,7 @@ Several genera act as opportunistic, nonspecific mycoparasites targeting members
 
 - **Spinellus** — recognized by its tall, slender sporangiophores bearing small spinulose sporangia, commonly found parasitizing mushrooms of the genera **Mycena** and **Collybia**. The parasite emerges dramatically from the host pileus, creating a striking visual effect in the field.
 - **Syzygites** — especially **Syzygites megalocarpus**, a conspicuous parasite of agaric fruit bodies (particularly in the family **Coprinaceae**), producing a web-like mycelial covering over the host and erect sporangiophores. It is one of the most frequently encountered zygomycetous mycoparasites in temperate forests.
-- **Dicranophora** — a rare genus with species that parasitize fungal fruit bodies, noted for its distinctive branching patterns and sporangial morphology. Specimens are infrequently collected, suggesting either genuine rarity or simply a lack of targeted observation.
+- **Dicranophora** — a rare genus with species that parasitize fungal fruit bodies, noted for its distinctive [[branching-patterns-and-fractal-geometry-in-nature]] sporangial morphology. Specimens are infrequently collected, suggesting either genuine rarity or simply a lack of targeted observation.
 - **Parasitella** — **Parasitella simplex** is a well-studied mycoparasite of Mucorales that forms specialized haustoria and can undergo a sexual (zygospore-forming) interaction with its host, a remarkable example of parasexual compatibility between parasite and host genomes.
 - **Mortierella** — while primarily saprotrophic, some **Mortierella** species exhibit mycoparasitic tendencies toward other zygomycetes, particularly under nutrient-limited conditions where direct exploitation of a living fungal substrate provides a competitive advantage.
 
@@ -49,7 +49,7 @@ The order **Leotiales** includes several genera with mycoparasitic members, many
 
 - **Orbilia** — the teleomorph genus of the well-known nematode-trapping anamorphs **Arthrobotrys** and **Dactylella**. While famed for their predatory devices (adhesive networks, constricting rings, and adhesive knobs) that capture nematodes, **Orbilia** species also exhibit facultative mycoparasitic behavior, colonizing and degrading other fungal hyphae in soil.
 - **Arthrobotrys** and **Dactylella** — anamorphic genera producing trapping structures for nematodes but also capable of mycoparasitism, particularly against soil-borne fungal pathogens. Their dual predatory and mycoparasitic capabilities make them key regulators of soil micro-food webs.
-- **Helicogonium** — a genus of minute, inconspicuous ascomycetes that grow as obligate mycoparasites on other discomycete fruit bodies in the field. Species are often overlooked due to their cryptic nature and require careful microscopic examination for detection.
+- **Helicogonium** — a genus of minute, inconspicuous ascomycetes that grow as obligate mycoparasites on other discomycete fruit bodies in the field. Species are often overlooked due to their cryptic nature and require careful [[fungal-microscopic-examination-mounting-media-techniques]] for detection.
 - **Unguiculariopsis** — another genus of tiny, host-specific mycoparasites found on fungal fruit bodies, particularly on **Helotiales** and related taxa. Their small apothecia may be mistaken for host reproductive structures.
 - **Llimoniella** and **Rhymbocarpus** — genera of mycoparasitic discomycetes that colonize the apothecia of other ascomycetes, forming their own fruiting structures directly on host tissue. They effectively hijack the host's reproductive effort.
 - **Skyttea** — a genus of inoperculate discomycetes that parasitize lichens and non-lichenized fungi, adding to the diversity of mycoparasites in the **Leotiales** and blurring the line between lichenicolous and mycoparasitic lifestyles.
@@ -83,10 +83,10 @@ The **Hypocreales** represents the most diverse and economically significant ord
 
 - **Mycoparasitic coiling and penetration** — **Trichoderma** hyphae sense chemical signals from host fungi, grow toward them, coil around host hyphae, and penetrate the cell wall using appressorium-like structures combined with lytic enzymes (chitinases, β-1,3-glucanases, proteases).
 - **Peptaibols** — non-ribosomally synthesized, linear peptide antibiotics rich in α-aminoisobutyric acid (Aib). They form voltage-dependent ion channels in fungal membranes, disrupting membrane integrity and leading to cell death of competing fungi. **Trichoderma** species produce a remarkable diversity of peptaibols (over 300 described).
-- **Volatile inhibitors** — **Trichoderma** emits a suite of volatile organic compounds (VOCs) with antifungal activity, including 6-pentyl-α-pyrone (6-PAP) and various sesquiterpenes, which can inhibit spore germination and hyphal growth of competing fungi at a distance.
+- **Volatile inhibitors** — **Trichoderma** emits a suite of [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs) with antifungal activity, including 6-pentyl-α-pyrone (6-PAP) and various sesquiterpenes, which can inhibit spore germination and hyphal growth of competing fungi at a distance.
 - **Gliotoxin** — an epipolythiodioxopiperazine (ETP) toxin produced by some **Trichoderma** strains (notably **T. virens**), which interferes with host cellular processes through redox cycling and thiol reactivity, inhibiting host enzyme function.
 - **Nutrient competition** — efficient substrate colonization and rapid nutrient uptake allow **Trichoderma** to outcompete other fungi for resources, a mechanism sometimes termed "nutrient exhaustion."
-- **Induced systemic resistance** — beyond direct mycoparasitism, **Trichoderma** can prime plant defense responses through root colonization, providing indirect protection against a broad spectrum of fungal pathogens.
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]]** — beyond direct mycoparasitism, **Trichoderma** can prime plant defense responses through root colonization, providing indirect protection against a broad spectrum of fungal pathogens.
 
 **Trichoderma harzianum** vs **Lentinula** — a particularly notable interaction involves **T. harzianum** as a pathogen of cultivated shiitake mushrooms (**Lentinula edodes**), where aggressive **Trichoderma** strains cause "green mold" disease on mushroom compost, resulting in significant economic losses in commercial mushroom production. This interaction underscores the dual nature of **Trichoderma** as both a beneficial biocontrol agent and a problematic pathogen depending on context.
 
@@ -104,7 +104,7 @@ The genus **Hypomyces** is one of the most recognizable groups of mycoparasitic 
 
 - **Host specificity** — different **Hypomyces** species target different host groups. **Hypomyces lactifluorum** parasitizes lactarii and russuloids, turning them orange and rendering them commercially valuable as "lobster mushrooms." **Hypomyces chrysospermus** attacks boletes, progressing through white, golden, and brown stages. **Hypomyces completus** targets species of **Lactarius** and **Russula**, while **Hypomyces hyalinus** attacks **Amanita** species.
 - **Anamorph connections** — the anamorphs of many **Hypomyces** species belong to the genus **Cladobotryum**, which produce conidia on branched conidiophores. **Cladobotryum** species are also significant as pathogens of cultivated mushrooms, causing cobweb disease on **Agaricus bisporus** and other commercial species, leading to substantial crop losses in mushroom farms worldwide.
-- **Ecological impact** — by destroying fruit bodies of ectomycorrhizal and wood-decay fungi, **Hypomyces** species can influence forest ecosystem dynamics and fungal community composition, potentially affecting nutrient cycling and plant-fungal symbioses.
+- **Ecological impact** — by destroying fruit bodies of ectomycorrhizal and wood-decay fungi, **Hypomyces** species can influence forest ecosystem dynamics and fungal community composition, potentially affecting [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] plant-fungal symbioses.
 
 ### Bionectriaceae: Bionectria and Clonostachys
 

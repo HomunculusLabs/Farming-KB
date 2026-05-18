@@ -30,13 +30,13 @@ created: 2026-05-07
 
 **Xerocomus subtomentosus**, commonly known as the suede bolete or yellow-cracking bolete, is a basidiomycete fungus in the family Boletaceae.
 
-It is one of the most widespread and frequently encountered boletes across [[guzman-psilocybin-mushrooms-north-america]], forming [[boletus-edulis-entity]]*.
+It is one of the most widespread and frequently encountered boletes across [[guzman-psilocybin-mushrooms-north-america]], forming [[boletus-edulis]]*.
 
 ## Taxonomy
 
 Kingdom: Fungi → Basidiomycota → Agaricomycetes → Boletales → Boletaceae → **Xerocomus** → **X. subtomentosus**.
 
-The species was originally described by Carl Linnaeus in 1753 as *Boletus subtomentosus*.
+The species was originally described by Carl Linnaeus in 1753 as *[[boletus-subtomentosus]]*.
 
 It was transferred to the genus *Xerocomus* by Petter Karsten in 1879 and has remained the type species of that genus.
 
@@ -69,7 +69,7 @@ In North America, it occurs primarily in eastern deciduous forests and is less c
 ## Overview
 
 Xerocomus Subtomentosus represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -90,7 +90,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Xerocomus Subtomentosus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -98,13 +98,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for xerocomus subtomentosus. Climate adaptation
+opportunities for xerocomus subtomentosus. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -119,7 +119,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 xerocomus subtomentosus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

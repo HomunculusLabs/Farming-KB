@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Stone Artifacts: Archaeological Evidence of Sacred Mushrooms"
+title: Plants Of The Gods Mushroom Stone Artifacts
 created: 2026-04-28
 tags:
   - archaeology
@@ -55,7 +55,7 @@ hearing voices. His body is engraved with stylized flowers that
 have been identified as sacred, most of them inebriating, plants.
 
 The pedestal on which he sits is decorated with designs
-representing cross-sections of the caps of Psilocybe aztecorum,
+representing cross-sections of the caps of [[psilocybe-aztecorum-entity-the-mushroom-cultivator]],
 a [[golden-guide-morning-glory-and-ololiuqui]]; the flower
 of Tobacco; the flower of the sacred Morning Glory; the bud of
 Sinicuichi; and stylized caps of Psilocybe aztecorum.
@@ -75,7 +75,7 @@ Mictlantecuhtli. The three jade green mushrooms in front of the
 ## Overview
 
 Plants Of The Gods Mushroom Stone Artifacts represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -104,13 +104,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for plants of the gods mushroom stone artifacts. Climate adaptation
+opportunities for plants of the gods mushroom stone artifacts. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 plants of the gods mushroom stone artifacts and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

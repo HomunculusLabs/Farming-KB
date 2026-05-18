@@ -26,7 +26,7 @@ Swazi Gold has been cultivated by local farmers for generations and represents a
 
 Swazi Gold is a pure landrace with no documented hybridization in its native range.
 
-It belongs to the narrow-leaflet drug-type (NLDT) chemotype associated with tropical and subtropical African cannabis populations.
+It belongs to the narrow-leaflet drug-type (NLDT) chemotype associated with tropical and subtropical African [[cervantes-landrace-cannabis-populations]].
 
 Genetic analysis places it within the southern African cannabis [[cannabis-strain-king-congo-african-sativa]] hybrids developed by Dutch [[fukuoka-oil-companies-international-seed-war]] exchange.
 
@@ -79,7 +79,7 @@ Swazi Gold需要漫长的开花时间，室内需要12–14周，室外则需要
 ## Overview
 
 Swazi Gold represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Swazi Gold finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -108,13 +108,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for swazi gold. Climate adaptation
+opportunities for swazi gold. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 swazi gold and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

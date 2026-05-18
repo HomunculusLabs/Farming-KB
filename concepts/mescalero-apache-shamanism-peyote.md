@@ -1,5 +1,5 @@
 ---
-title: [[mescalero-apache-shamanism-and-peyote-rejection]] and Peyote Use
+title: Mescalero Apache Shamanism Peyote
 source: harner-j-hallucinogens-and-shamanism.md (chunk 9, lines 1801–2000)
 type: concept
 ---

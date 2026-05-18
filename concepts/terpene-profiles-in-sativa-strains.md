@@ -1,5 +1,5 @@
 ---
-title: "[[cannabis-terpene-profiles]] In Sativa Strains"
+title: Terpene Profiles In Sativa Strains
 aliases: cannabis-terpenes-and-the-entourage-effect, sativa terpene profile, cannabis aroma, terpene effects, [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 tags: [cannabis, terpenes, chemistry, aroma, sativa, cannabinoids, entourage-effect]
 source: cannabis-sativa-volume-3-essential-guide.md

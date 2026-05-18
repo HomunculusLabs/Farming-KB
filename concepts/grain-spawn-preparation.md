@@ -1,5 +1,5 @@
 ---
-title: [[cultivator-grain-spawn-preparation-and-inoculation]]
+title: Grain Spawn Preparation
 created: 2026-04-12
 updated: 2026-04-13
 type: concept

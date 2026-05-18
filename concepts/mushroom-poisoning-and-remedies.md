@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-poisoning-and-safe-foraging]] Remedies
+title: Mushroom Poisoning And Remedies
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

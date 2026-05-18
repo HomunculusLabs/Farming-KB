@@ -77,5 +77,5 @@ This topic intersects with several broader themes and specialized areas of study
 ## See Also
 
 - [[boletus-subtomentosus]] — another blueing bolete discussed by Palmer
-- [[boletus-edulis-entity]] — the king bolete
+- [[boletus-edulis]] — the king bolete
 - [[boletus-felleus]] — the bitter bolete to avoid

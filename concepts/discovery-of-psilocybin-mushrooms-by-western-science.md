@@ -6,11 +6,11 @@ type: concept
 
 # Discovery of Psilocybin Mushrooms by Western Science
 
-The scientific discovery of psilocybin-containing mushrooms is a story spanning nearly 500 years, from the first Spanish chronicles of Aztec "flesh of the gods" ceremonies to [[albert-hofmann]]'s isolation of psilocybin and psilocin in a Swiss laboratory in 1958. It involves some of the most important figures in ethnobotany, chemistry, and psychiatry.
+The scientific discovery of psilocybin-containing mushrooms is a story spanning nearly 500 years, from the first Spanish chronicles of Aztec "flesh of the gods" ceremonies to [[albert-hofmann]]'s isolation of [[hplc-analysis-of-psilocybin-and-psilocin]] in a Swiss laboratory in 1958. It involves some of the most important figures in ethnobotany, chemistry, and psychiatry.
 
 ## The Spanish Chronicles (16th Century)
 
-The first European accounts of psilocybin mushroom use come from Spanish missionaries and conquistadors who witnessed Aztec ceremonies:
+The first European accounts of [[powell-mayan-civilisation-and-psilocybin-mushroom-use]] come from Spanish missionaries and conquistadors who witnessed Aztec ceremonies:
 
 - **Bernardino de Sahagún** (c. 1547–1569) described *teonanácatl* ("flesh of the gods" or "divine flesh") in his *Historia General de las Cosas de Nueva España*, recording that indigenous people consumed mushrooms in night-long ceremonies to commune with the gods and divine the future
 
@@ -45,9 +45,9 @@ In 1938, **Jean Basset Johnson** (an anthropology student) and others became the
 
 ## Wasson and the Life Magazine Article (1957)
 
-**R. Gordon Wasson**, the banker-turned-ethnomycologist who had previously studied *Amanita muscaria* in Siberia, learned of the Mazatec mushroom ceremonies and traveled to Mexico:
+**R. Gordon Wasson**, the banker-turned-ethnomycologist who had previously studied *Amanita muscaria* in Siberia, learned of the [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] and traveled to Mexico:
 
-- In 1955, Wasson and his wife Valentina Pavlovna became the **first outsiders to participate in a velada** led by the Mazatec curandera **María Sabina**
+- In 1955, Wasson and his wife [[valentina-pavlovna-wasson]] became the **first outsiders to participate in a velada** led by the Mazatec curandera **María Sabina**
 - Wasson's account was published in **Life magazine on May 13, 1957** — "Seeking the Magic Mushroom" — bringing psilocybin mushrooms to worldwide attention for the first time
 - The Life article, read by millions, triggered a wave of psychedelic tourism to Mexico
 - Wasson's visit to María Sabina ultimately had devastating consequences for the Mazatec community, as it attracted unwanted attention from authorities and tourists
@@ -67,7 +67,7 @@ In 1938, **Jean Basset Johnson** (an anthropology student) and others became the
 
 **María Sabina** (c. 1894–1985), the Mazatec curandera (healer/shaman), became the most famous figure associated with psilocybin mushrooms:
 
-- She was a *sabia* (wise woman) who conducted veladas for healing and divination
+- She was a *sabia* (wise woman) who conducted veladas for [[metzner-shamanic-healing-and-divination-paradigm]]
 - Her chants (*cantos*) during ceremonies were considered the mechanism through which the mushroom's wisdom was expressed
 - After Wasson's Life article, her village was flooded with counterculture seekers (including Bob Dylan, John Lennon, and Timothy Leary)
 - The Mexican authorities eventually arrested and harassed her
@@ -78,7 +78,7 @@ In 1938, **Jean Basset Johnson** (an anthropology student) and others became the
 **Timothy Leary**, a Harvard psychology professor, read Wasson's Life article and traveled to Mexico in 1960:
 
 - Had a transformative experience with psilocybin mushrooms in Cuernavaca
-- Returned to Harvard and founded the **Harvard Psilocybin Project** with Richard Alpert (Ram Dass)
+- Returned to Harvard and founded the **[[leary-harvard-psilocybin-project]]** with Richard Alpert (Ram Dass)
 - Conducted experiments including the **Concord Prison Experiment** (psilocybin given to inmates to reduce recidivism) and the **Good Friday Experiment** (psilocybin given to theology students in a chapel)
 - Was fired from Harvard in 1963 for distributing psilocybin to students
 - Became the most prominent public advocate for psychedelic drugs

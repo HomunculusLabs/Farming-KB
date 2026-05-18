@@ -1,5 +1,5 @@
 ---
-title: Arts in the Service of Life
+title: Arts In The Service Of Life
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Art — in the forms of song, dance, sculptural or painted objects, and designs — is an ancient preoccupation of all peoples. In tribal societies, art served specific functional ends: most tribal art was a **public and ever-renewed mnemonic**, or memory-aid. Apparently simple spiral or linear designs could combine thousands of bits of information in a single, deceptively simple pattern. The decorative function was incidental to the educational and sacred information function. In modern contexts, Mollison argues, art has largely been reduced to decoration and entertainment — a minor function compared to its original role as a carrier of practical and ecological knowledge.
+Art — in the forms of song, dance, sculptural or painted objects, and designs — is an ancient preoccupation of all peoples. In tribal societies, art served specific functional ends: most [[social-hierarchy-and-tribal-art]] was a **public and ever-renewed mnemonic**, or memory-aid. Apparently simple spiral or linear designs could combine thousands of bits of information in a single, deceptively simple pattern. The decorative function was incidental to the educational and sacred information function. In modern contexts, Mollison argues, art has largely been reduced to decoration and entertainment — a minor function compared to its original role as a carrier of practical and ecological knowledge.
 
 ## The Primacy of Information in Tribal Art
 
@@ -17,7 +17,7 @@ In traditional societies, art was not created for aesthetic pleasure alone. Its 
 - **Recording ecological knowledge** — seasonal cycles, species behavior, resource locations
 - **Encoding navigational data** — star positions, ocean currents, wave patterns
 - **Preserving genealogical and historical information** — ancestry, sagas, tribal law
-- **Teaching practical skills** — planting knowledge, hunting strategies, construction techniques
+- **Teaching practical skills** — planting knowledge, hunting strategies, [[pdc-earthen-construction-techniques]]
 - **Facilitating interspecies understanding** — animal behavior, postural communication
 - **Maintaining cosmological and philosophical understanding** — the nature of reality, time, and interconnectedness
 
@@ -56,13 +56,13 @@ Within these major turbulence patterns (portrayed by Leonardo da Vinci and analy
 
 ### Practical Benefits
 
-- **Sewage treatment**: Primary treatment of sewage and organically polluted waters through aeration and oxidation
+- **[[biological-sewage-treatment-plants]]**: Primary treatment of sewage and organically polluted waters through aeration and oxidation
 - **Aquaculture support**: Oxygenation of ponds for aquatic species production
 - **Water purification**: Oxidation of pollutants through enhanced air-water contact
 - **Aesthetic value**: The basins are themselves aesthetically pleasing
 - **Educational function**: They serve as instructive hydrological pattern-models of naturally occurring constructs
 
-Flowforms represent the ideal union of art and function — beautiful sculptural forms that simultaneously purify water, support aquatic life, and teach observers about natural flow patterns.
+Flowforms represent the ideal union of art and function — beautiful sculptural forms that simultaneously purify water, support aquatic life, and teach observers about natural [[von-karman-trails-and-flow-patterns]].
 
 ## Pattern Education: A Challenge to Artists and Educators
 

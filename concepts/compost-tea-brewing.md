@@ -1,5 +1,5 @@
 ---
-title: Compost Tea Brewing Guide
+title: Compost Tea Brewing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Compost Tea Brewing Guide
 
-Aerated compost tea (ACT) is a liquid extract of finished compost, brewed with oxygen to multiply beneficial microorganisms. Applied as a soil drench or foliar spray, ACT introduces diverse bacteria, fungi, protozoa, and nematodes to the soil and plant surfaces, boosting nutrient cycling and disease suppression.
+[[actively-aerated-compost-tea-aact-brewing]] (ACT) is a liquid extract of finished compost, brewed with oxygen to multiply [[forest-and-bamboo-beneficial-microorganisms]]. Applied as a soil drench or foliar spray, ACT introduces diverse bacteria, fungi, protozoa, and nematodes to the soil and plant surfaces, boosting nutrient cycling [[compost-tea-application-and-disease-suppression]].
 
 ## ACT vs. Non-Aerated Compost Tea
 
@@ -37,7 +37,7 @@ This guide focuses on aerated compost tea (ACT).
 ### Ingredients
 - 4-5 gallons dechlorinated water (room temperature, 65-75°F)
 - 1-2 cups high-quality, finished compost (vermicompost preferred)
-- 1 tablespoon unsulfured blackstrap molasses (microbe food)
+- 1 tablespoon unsulfured [[blackstrap-molasses]] (microbe food)
 - Optional: 1/4 tsp kelp meal or 1 tsp fish hydrolysate (additional nutrients)
 
 ### Step-by-Step Process
@@ -116,5 +116,5 @@ The quality of your starting compost directly determines tea quality:
 
 - [[composting-methods-comparison]] for producing quality compost for tea
 - [[soil-amendment-reference]] for mineral amendments to complement biological inputs
-- [[fermented-plant-extract-fpe]] for fermented plant extracts as another biological spray
+- [[fermented-plant-extract-fpe]] for [[bionutrients-fermented-plant-extracts]] as another biological spray
 - [[soil-food-web-nutrient-cycling]] for understanding the soil microbiology behind ACT

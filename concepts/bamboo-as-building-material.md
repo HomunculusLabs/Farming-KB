@@ -1,5 +1,5 @@
 ---
-title: Bamboo as [[fungal-building-material-deterioration]]
+title: Bamboo As Building Material
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

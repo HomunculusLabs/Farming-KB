@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shellard EJ, Houghton PJ, Resha D (1978). "The Mitragyna species of Asia. Part XXXIV: The alkaloids of kratom-mitragyna-speciosa-pharmacology from Thailand." Planta Medica 34(1): 79-81.
-  - Takayama H, Ishikawa H, Kurihara M, et al. (2002). "Studies on the synthesis of Monoterpene Indole Alkaloids and related compounds. Part 236." Tetrahedron 58(51): 10315-10321.
+  - Takayama H, Ishikawa H, Kurihara M, et al. (2002). "Studies on the synthesis of Monoterpene Indole Alkaloids and [[lsd-structure-activity-relationships-related-compounds]]. Part 236." Tetrahedron 58(51): 10315-10321.
   - Kruegel AC, Grundmann O (2018). "The medicinal chemistry and neuropharmacology of kratom." Planta Medica 84(12-13): 890-899.
   - Varadi A, Marrone GF, Palmer TC, et al. (2016). "Mitragynine/corynantheidine pseudoindoxyls as opioid analgesics with mu agonism and delta antagonism." Journal of Medicinal Chemistry 59(18): 8381-8397.
 created: 2026-04-28
@@ -59,7 +59,7 @@ which have documented activity at adrenergic and serotonergic receptors.
 ## Overview
 
 Speciogynine represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -73,7 +73,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving speciogynine extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -88,13 +88,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for speciogynine. Climate adaptation
+opportunities for speciogynine. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -109,7 +109,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 speciogynine and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

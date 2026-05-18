@@ -106,7 +106,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[armillaria-cepistipes]]
-- [[armillaria-mellea-entity]]
+- [[armillaria-mellea]]
 - [[armillaria-solidipes]]
 - [[bloomfield-armillaria-gallica-humongous-fungus-clone-organism]]
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]

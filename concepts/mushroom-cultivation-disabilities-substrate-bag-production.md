@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-cultivation-disabilities-marketing-and-enterprise]] [[mushroom-substrate-bag-production]]
+title: Mushroom Cultivation Disabilities Substrate Bag Production
 created: 2026-05-10
 updated: 2026-05-10
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Japan's Postwar [[fukuoka-mechanization-trap-and-farmer-alienation]] Through Mechanization and Food Policy
+title: Fukuoka Textdoc Japan Postwar Farmer Alienation Mechanization Food Policy
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: masanobu-fukuoka
 tags: [natural-farming, japan, postwar, mechanization, agriculture-policy, alienation, food-control, economic-miracle, basic-agriculture-law]

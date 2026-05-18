@@ -8,7 +8,7 @@ type: concept
 
 The presence of specific weeds in a lawn is not random — it is a direct indicator of soil
 conditions. Rather than fighting weeds with chemicals, [[the-soil-food-web]] approach addresses
-the underlying imbalances that allow weeds to thrive. By managing the microbial community
+the underlying imbalances that allow weeds to thrive. By managing the [[cannabis-cultivar-microbial-community-effects]]
 in the soil, lawns can become self-regulating systems that naturally resist weed invasion.
 
 ## Core Principle: Weeds as Soil Indicators
@@ -35,20 +35,20 @@ the upper soil layer, and dandelions effectively mine themselves out of existenc
 ## Clover and Quack Grass — Insufficient Nitrogen Cycling
 
 Clover and quack grass signal that the soil is not cycling enough nitrogen. These plants
-thrive when grasses are starved for available nitrogen, often because the microbial
+thrive when grasses are starved for [[plant-available-nitrogen-ammonium-nitrate]], often because the microbial
 predators that mineralize nutrients are absent or depleted.
 
 **Solution:** Introduce nematodes and protozoa through compost, compost tea, or protozoa
 soup. These micro- and mesofauna consume bacteria and release plant-available nitrogen
-through their waste, jumpstarting the nitrogen cycle that grasses depend on.
+through their waste, jumpstarting [[query-how-does-the-nitrogen-cycle-work-in-a-garden]] that grasses depend on.
 
 ## Chickweed — Nitrate Excess
 
 Chickweed flourishes when soil contains excess nitrate, typically the result of repeated
-commercial synthetic fertilizer applications. High nitrate favors broadleaf weeds over
+commercial [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] applications. High nitrate favors broadleaf weeds over
 grasses, which prefer ammonium as their nitrogen source.
 
-**Solution:** Cease chemical fertilizer use and increase fungal biomass using soil food
+**Solution:** Cease [[chemical-fertilizer-cycle-and-lawn-soil-food-web]] use and increase fungal biomass using soil food
 web tools. Fungi convert nitrate into ammonium, shifting the nitrogen balance in favor
 of grasses and away from nitrate-loving weeds like chickweed.
 
@@ -138,7 +138,7 @@ For immediate weed removal without chemicals:
 
 - Use slightly bacterial [[actively-aerated-compost-tea]] (AACT).
 - Application rate: 5 gallons per acre.
-- Delivery methods include a traveling sprinkler with an inline fertilizer dispenser
+- Delivery methods include a [[traveling-sprinkler]] with an inline fertilizer dispenser
   filled with tea, a gas blower on a gentle setting (can mist an acre in 5-10 minutes),
   or commercial sprayer services.
 - Once the soil food web is established, lawns require less thatching, less raking,

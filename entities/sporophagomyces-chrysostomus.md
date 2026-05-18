@@ -32,11 +32,11 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-Sporophagomyces chrysostomus represents a fascinating example of spore-trapping mycoparasitism in the Hypocreales. Its specialized association with Ganoderma species — important medicinal and bracket fungi — makes it relevant to understanding the ecology of Ganoderma cultivation. The subiculum-based spore trapping mechanism is unique among hypocrealean fungi and may have implications for biological control strategies against unwanted bracket fungi in managed forests. Understanding such mycoparasitic relationships is essential for predicting competitor dynamics in mushroom cultivation and forest management contexts.
+Sporophagomyces chrysostomus represents a fascinating example of spore-trapping mycoparasitism in the Hypocreales. Its specialized association with Ganoderma species — important medicinal and bracket fungi — makes it relevant to understanding the ecology of [[cotter-reishi-ganoderma-cultivation]]. The subiculum-based spore trapping mechanism is unique among hypocrealean fungi and may have implications for [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] strategies against unwanted bracket fungi in managed forests. Understanding such mycoparasitic relationships is essential for predicting competitor dynamics in [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] forest management contexts.
 
 ## Ecological Notes
 
-This species demonstrates a highly specialized nutritional strategy: rather than directly parasitizing host hyphae, it traps and presumably digests basidiospores released by its Ganoderma host. This represents an intermediate strategy between true biotrophic parasitism and saprotrophic decomposition, contributing to spore-mediated nutrient cycling in forest ecosystems.
+This species demonstrates a highly specialized nutritional strategy: rather than directly parasitizing host hyphae, it traps and presumably digests basidiospores released by its Ganoderma host. This represents an intermediate strategy between true biotrophic parasitism and [[dighton-fungal-sulfite-effects-saprotrophic-decomposition]], contributing to spore-mediated [[nutrient-cycling-in-soil]] forest ecosystems.
 
 ## Related
 - [[mycoparasitic-zygomycota-and-ascomycota]]
@@ -91,7 +91,7 @@ This species demonstrates a highly specialized nutritional strategy: rather than
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

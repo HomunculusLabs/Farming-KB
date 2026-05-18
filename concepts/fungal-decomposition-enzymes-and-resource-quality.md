@@ -1,5 +1,5 @@
 ---
-title: Fungal Decomposition Enzymes [[fungal-enzyme-systems-and-resource-quality]]
+title: Fungal Decomposition Enzymes And Resource Quality
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

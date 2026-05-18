@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-LSD-25, or [[lysergic-acid-diethylamide]], is a powerful semi-synthetic psychedelic substance of the ergoline family. It is one of the most potent psychoactive compounds known, active at microgram-level doses. In [[timothy-leary]]'s *The Psychedelic Experience*, LSD-25 is treated as the primary chemical vehicle for inducing the Tibetan Book of the Dead-style transcendental states that form the core of the text's framework.
+LSD-25, or [[lysergic-acid-diethylamide]], is a powerful semi-synthetic psychedelic substance of the ergoline family. It is one of the most potent psychoactive compounds known, active at microgram-level doses. In [[timothy-leary]]'s *The [[leary-psychedelic-experience-bardo-mapping]]*, LSD-25 is treated as the primary chemical vehicle for inducing the Tibetan Book of the Dead-style transcendental states that form the core of the text's framework.
 
 Originally synthesized by Swiss chemist [[albert-hofmann]] at the Sandoz Laboratories in Basel, Switzerland in 1938, its psychoactive properties were not discovered until April 19, 1943, when Hofmann accidentally absorbed a small quantity through his skin. This landmark discovery inaugurated the modern era of psychedelic research and exploration.
 
@@ -16,7 +16,7 @@ Originally synthesized by Swiss chemist [[albert-hofmann]] at the Sandoz Laborat
 
 - **Chemical class:** Ergoline (lysergamide) derivative
 - **Pharmacological class:** Serotonin 5-HT2A receptor agonist (classical psychedelic / hallucinogen)
-- **Legal status (historical context):** Initially unregulated; later classified as Schedule I in the United States and similarly controlled worldwide
+- **Legal status ([[ghouled-field-guide-historical-context]]):** Initially unregulated; later classified as Schedule I in the United States and similarly controlled worldwide
 - **Type:** Semi-synthetic indole alkaloid
 
 ## Dosage Information (per Leary)
@@ -25,7 +25,7 @@ The Psychedelic Experience outlines specific dosage ranges calibrated to the int
 
 | Level | Dosage | Purpose |
 |-------|--------|---------|
-| Transcendental / solo high-dose | 200–500 mcg | Full ego-loss experience; deep consciousness expansion |
+| Transcendental / solo high-dose | 200–500 mcg | Full ego-loss experience; deep [[mckenna-consciousness-expansion-and-drug-war]] |
 | Experienced / group session | 100–200 mcg | Group work with experienced voyagers |
 | Initial / exploratory | Lower ranges | First-time or cautious exploration |
 
@@ -33,7 +33,7 @@ These dosages assume pure, pharmaceutical-grade LSD-25 as was available from San
 
 ## Pharmacokinetics
 
-- **Route of administration:** Oral (sublingual absorption also effective)
+- **[[mushroom-taste-route-of-administration-and-consumption-barriers]]:** Oral (sublingual absorption also effective)
 - **Onset:** 20–30 minutes after ingestion
 - **Peak effects:** 2–6 hours post-ingestion
 - **Total duration:** 8–10 hours
@@ -73,11 +73,11 @@ LSD-25's discovery and subsequent popularization by figures including Leary, Alp
 
 ## Cultural Impact
 
-The influence of LSD-25 on Western culture cannot be overstated. From the psychiatric research of the 1950s to the counterculture explosion of the 1960s, the compound served as both a scientific tool and a cultural catalyst. Its role in shaping music, art, literature, and spiritual practice continues to reverberate through contemporary society. Modern clinical trials at institutions including Johns Hopkins, Imperial College London, and the University of Zurich have renewed scientific interest in LSD's therapeutic potential.
+The influence of LSD-25 on Western culture cannot be overstated. From the psychiatric research of the 1950s to the counterculture explosion of the 1960s, the compound served as both a scientific tool and a cultural catalyst. Its role in shaping music, art, literature, and spiritual practice continues to reverberate through contemporary society. Modern clinical trials at institutions including Johns Hopkins, Imperial College London, and the University of Zurich have renewed scientific interest in LSD's [[metzner-ayahuasca-therapeutic-potential]].
 
 ## Contraindications
 
 - Individuals with personal or family history of schizophrenia or psychotic disorders should avoid LSD-25.
 - Concurrent use with lithium may produce seizures.
-- SSRI antidepressants may diminish LSD's effects due to serotonin receptor downregulation.
+- SSRI antidepressants may diminish LSD's effects due to [[serotonin-receptor-interference-psychedelic-mechanism]] downregulation.
 - MAO inhibitors may potentiate effects unpredictably.

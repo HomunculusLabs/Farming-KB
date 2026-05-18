@@ -27,13 +27,13 @@ tags: [yeast, ascomycete, mammal-associated, gut-flora, rabbit]
 - Optimal incubation temperature is 35–40°C, reflecting its adaptation to mammalian body temperature.
 - Requires elevated levels of atmospheric CO₂ for growth, making isolation and cultivation technically demanding.
 - Found almost exclusively in rabbit feces and intestinal contents; rarely isolated from other substrates.
-- The species is not commonly isolated using standard yeast isolation media due to its specialized growth requirements; dedicated enrichment protocols are necessary.
+- The species is not commonly isolated using standard [[yeast-isolation-biodiversity-methods]] media due to its specialized growth requirements; dedicated enrichment protocols are necessary.
 - Because of its narrow [[ecological-niche]], *C. guttulatus* is one of the few yeasts that can be considered a true gut specialist among the Saccharomycetales.
 - Despite its specialization, the role of *C. guttulatus* in rabbit digestion and gut ecology is not fully understood.
 
 ## Relevance to Cultivation and Mycology
 
-*Cyniclomyces guttulatus* is primarily of academic interest in yeast systematics and mammalian gut ecology. For cultivators working with rabbits or lagomorphs, understanding the yeast gut flora may have implications for animal health and nutrition. The species also serves as an example of how specialized yeast isolation techniques (custom media, elevated CO₂, specific temperatures) are necessary to capture the full diversity of fungal communities. In industrial [[mycology]], the species has no significant applications but illustrates the metabolic diversity within the Saccharomycetales.
+*Cyniclomyces guttulatus* is primarily of academic interest in yeast systematics and mammalian gut ecology. For cultivators working with rabbits or lagomorphs, understanding the yeast gut flora may have implications for animal health and nutrition. The species also serves as an example of how specialized yeast [[biodiversity-of-fungi-microfungi-isolation-techniques]] (custom media, elevated CO₂, specific temperatures) are necessary to capture the full diversity of [[acidifying-pollutants-saprotrophic-fungal-communities]]. In industrial [[mycology]], the species has no significant applications but illustrates the metabolic diversity within the Saccharomycetales.
 
 ## Isolation Protocol Summary
 
@@ -41,7 +41,7 @@ tags: [yeast, ascomycete, mammal-associated, gut-flora, rabbit]
 2. Prepare enrichment medium containing required amino acids.
 3. Incubate at 35–40°C in a CO₂-enriched atmosphere (5–10% CO₂).
 4. Subculture onto isolation plates and incubate under the same conditions.
-5. Confirm identity by microscopic examination and molecular sequencing (26S rDNA D1/D2 domain).
+5. Confirm identity by [[fungal-microscopic-examination-mounting-media-techniques]] and molecular sequencing (26S rDNA D1/D2 domain).
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -92,12 +92,12 @@ tags: [yeast, ascomycete, mammal-associated, gut-flora, rabbit]
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
 
 ## References
 
-- Kurtzman, C.P. and Fell, J.W. "Yeasts" in *Biodiversity of Fungi*
+- Kurtzman, C.P. and Fell, J.W. "Yeasts" in *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]*
 - Kurtzman, C.P. and Fell, J.W. (1998). *The Yeasts: A Taxonomic Study*

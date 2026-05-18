@@ -1,5 +1,5 @@
 ---
-title: [[emcdda-psilocybin-mushroom-potency-species-comparison-dosage-guidelines]] and Harvesting
+title: Psilocybin Mushroom Potency And Harvesting
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---

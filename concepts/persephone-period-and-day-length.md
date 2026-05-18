@@ -1,5 +1,5 @@
 ---
-title: [[persephone-period]] and Day Length
+title: Persephone Period And Day Length
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

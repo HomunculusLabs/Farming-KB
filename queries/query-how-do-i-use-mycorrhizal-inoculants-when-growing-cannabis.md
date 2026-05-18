@@ -1,5 +1,5 @@
 ---
-title: "How Do I Use pgpr-mycorrhizal-inoculants-microplant-establishment When Growing Cannabis?"
+title: Query How Do I Use Mycorrhizal Inoculants When Growing Cannabis
 created: 2026-04-28
 tags:
   - cannabis
@@ -17,7 +17,7 @@ type: query
 
 ## Overview
 
-Mycorrhizal inoculants are products containing beneficial fungi that form a symbiotic relationship with cannabis roots. The fungi extend hyphal networks into the soil, dramatically increasing the root system's effective surface area for nutrient and water uptake. In return, the plant feeds the fungus carmycorrhizal-fungied through photosynthesis. This mutualism can improve vigor, [[arbuscular-mycorrhizal-fungi]] (AMF)** are the primary group used with cannabis. Endomycorrhizal species such as *Rhizophagus irregularis* (formerly *Glomus intraradices*), *Funneliformis mosseae*, and *Glomus aggregatum* colonize root cells internaectomycorrhizal-fungies — tree-like structures inside root cortical cells where [[soil-food-web]] that cycles nutrients to the [[coleman-compost-and-organic-fertility-management]], minimal soil disturbance, and compatible biological inputs. In a well-managed living soil or no-till cannabis system, they become a self-sustaining part of the root ecosystem that improves nutrient efficiency, water access, and overall plant resilience.
+Mycorrhizal inoculants are products containing [[beneficial-fungi-trichoderma-and-mycorrhizae]] that form a symbiotic relationship with cannabis roots. The fungi extend hyphal networks into the soil, dramatically increasing the root system's effective surface area for nutrient and water uptake. In return, the plant feeds the fungus carmycorrhizal-fungied through photosynthesis. This mutualism can improve vigor, [[arbuscular-mycorrhizal-fungi]] (AMF)** are the primary group used with cannabis. Endomycorrhizal species such as *[[rhizophagus-irregularis]]* (formerly *[[glomus-intraradices]]*), *[[funneliformis-mosseae]]*, and *Glomus aggregatum* colonize root cells internaectomycorrhizal-fungies — tree-like structures inside root cortical cells where [[soil-food-web]] that cycles nutrients to the [[coleman-compost-and-organic-fertility-management]], minimal soil disturbance, and compatible biological inputs. In a well-managed living soil or no-till cannabis system, they become a self-sustaining part of the root ecosystem that improves nutrient efficiency, water access, and overall plant resilience.
 
 See also: [[arbuscular-mycorrhizal-fungal-diversity]]
 ## Practical Applications
@@ -87,7 +87,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.

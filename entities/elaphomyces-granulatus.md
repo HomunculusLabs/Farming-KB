@@ -37,7 +37,7 @@ E. granulatus sporocarps as part of a study of fungal food consumed by
 red squirrels (Sciurus vulgaris). The species had relatively low
 nutritional value compared to other fungal foods:
 
-- **Protein**: 17% (vs. [[boletus-edulis-entity]] at 30%)
+- **Protein**: 17% (vs. [[boletus-edulis]] at 30%)
 - **Phosphorus**: 0.21% (the lowest of all species tested; L. deliciosus
   0.60%)
 - **Potassium**: 0.6% (extremely low vs. [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] cycle rather than

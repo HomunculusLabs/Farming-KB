@@ -6,7 +6,7 @@ type: concept
 
 # Psilocybin Mushroom Cultivation Fundamentals
 
-The cultivation of *Stropharia cubensis* follows a four-stage process that transforms spores into mature mushrooms within approximately six weeks. The method described in the *Magic Mushroom Growers Guide* (Oss & Oeric, 1976) was designed for home cultivation with minimal equipment and no special mycological training. It remains the foundational reference for indoor [[psilocybin-mushroom-cultivation]].
+The cultivation of *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* follows a four-stage process that transforms spores into mature mushrooms within approximately six weeks. The method described in the *Magic Mushroom Growers Guide* (Oss & Oeric, 1976) was designed for home cultivation with minimal equipment and no special mycological training. It remains the foundational reference for indoor [[psilocybin-mushroom-cultivation]].
 
 ## Overview of the Cultivation Process
 
@@ -15,7 +15,7 @@ The complete cultivation cycle consists of four sequential steps:
 1. **Spore collection and germination** — obtaining and germinating spores on nutrient agar to isolate mycelium
 2. **Stock inocula production** — cultivating mycelium on solid agar media to build up inoculum
 3. **Grain colonization** — transferring agar-grown mycelium to sterilized whole rye grain for bulk growth
-4. **Casing and fruiting** — covering colonized grain with a soil-like layer (casing) to induce mushroom formation
+4. **[[mushroom-casing-and-fruiting]]** — covering colonized grain with a soil-like layer (casing) to induce mushroom formation
 
 Each step builds on the previous one. The process can be scaled from a few jars to thousands, making it adaptable to both personal and larger-scale production.
 
@@ -106,7 +106,7 @@ Several principles underpin successful cultivation:
 
 **Genetic diversity.** Because *S. cubensis* is tetrapolar heterothallic, a single spore print contains many different mating types. This means that different spore germinations will produce genetically distinct dikaryons, some of which may fruit more prolifically or produce mushrooms with different potency characteristics.
 
-**Environmental control.** While the agar and grain stages are conducted at room temperature, the fruiting stage requires careful control of humidity, temperature, light, and fresh air exchange. The casing step (applying a non-nutritive soil layer over colonized grain) is what triggers the shift from vegetative mycelial growth to reproductive mushroom formation.
+**[[cannabis-indoor-growing-environmental-control]].** While the agar and grain stages are conducted at room temperature, the fruiting stage requires careful control of humidity, temperature, light, and fresh air exchange. The casing step (applying a non-nutritive soil layer over colonized grain) is what triggers the shift from [[maitake-spawn-run-vegetative-mycelial-phases]] growth to reproductive mushroom formation.
 
 ## Relationship to Composting Methods
 
@@ -118,4 +118,4 @@ The *Magic Mushroom Growers Guide* was first published in 1976 by And/Or Press. 
 
 ## Historical Significance
 
-This cultivation method was among the first widely disseminated, practical guides for indoor cultivation of psilocybin mushrooms. Its step-by-step approach — designed to be "only slightly more complicated than canning or making jelly" — democratized access to cultivation knowledge and established protocols (agar work, grain spawn, casing) that remain standard in both recreational and research mycology. The techniques described have been adapted and refined by subsequent generations of cultivators but the core four-step framework remains essentially unchanged.
+This cultivation method was among the first widely disseminated, practical guides for indoor cultivation [[discovery-of-psilocybin-mushrooms-by-western-science]]. Its step-by-step approach — designed to be "only slightly more complicated than canning or making jelly" — democratized access to cultivation knowledge and established protocols (agar work, grain spawn, casing) that remain standard in both recreational and research mycology. The techniques described have been adapted and refined by subsequent generations of cultivators but the core four-step framework remains essentially unchanged.

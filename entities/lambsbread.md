@@ -17,7 +17,7 @@ sources:
   - https://www.wikileaf.com/strain/lambsbread/
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany."
     University of California Press.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last
+  - ElSohly, M.A. et al. (2016). "Changes in [[cannabis-potency-enhanced-flowers]] Over the Last
     Two Decades." Biological Psychiatry.
   - Ruben, B. (2020). "Cannabis and Jamaican Rastafari: A Historical Review."
     Journal of Ethnopharmacology.
@@ -29,7 +29,7 @@ sativa southeast-asian-mushroom-tourism-bali and South
   Indian sativa genetics brought to the Caribbean during the colonial era
 - **Breeder:** Landrace — developed through natural selection by Jamaican
   growers over generations
-- **Genetic stability:** Moderate — phenotypic variation equery-how-do-i-create-a-seed-bank-and-start-seed-savingo
+- **[[cannabis-genetic-stability]]:** Moderate — phenotypic variation equery-how-do-i-create-a-seed-bank-and-start-seed-savingo
   landrace genetics and informal gartz-magic-mushrooms-species-south-america
 contributed additional [[limonene]] and
   caryophyllene
@@ -49,7 +49,7 @@ tropical fruit character.
 | **THCV** | 0.1–0.3% | Occasionally [[myrcene]]** | 0.4–0.8% | Relaxation, earthy base |
 | **Caryophyllene** | 0.3–0.7% | Anti-inflammatory, peppery |
 | **Limonene** | 0.2–0.5% | Mood elevation, citrus |
-| **[[humulene|Humulene]]** | 0.1–0.2% | Anti-inflammatory, woody |
+| **[[humulene]]** | 0.1–0.2% | Anti-inflammatory, woody |
 | **[[terpinolene]]** | 0.1–0.2% | Antioxidant, floral |
 
 The terpinolene content is notable and relatively high compared to most
@@ -75,7 +75,7 @@ sativa, persisting 3–5 hours.
 ## Overview
 
 Lambsbread represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -104,13 +104,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for lambsbread. Climate adaptation
+opportunities for lambsbread. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 lambsbread and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

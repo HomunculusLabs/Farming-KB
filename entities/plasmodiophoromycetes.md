@@ -68,7 +68,7 @@ of thick-walled resting cysts) within host cells:
   **protoplast** within the host cell
 5. **Sporangia** — some plasmodia develop into sporangia that produce
    secondary zoospores (reinfection within the same host)
-6. **Cystosori** — other plasmodia develop into resting structures
+6. **Cystosori** — other plasmodia develop into [[fungal-sclerotia-and-resting-structures]]
   composed of aggregates of thick-walled cysts
 7. **Cyst release** — cysts are liberated into soil with death and
   breakdown of host tissue
@@ -114,7 +114,7 @@ of thick-walled resting cysts) within host cells:
 
 - Members of the Plasmodiophoromycetes **cannot be grown in culture**
   away from their hosts, making them exceptionally difficult to study
-- Identification requires **microscopic examination of infected cells**
+- Identification requires **[[fungal-microscopic-examination-mounting-media-techniques]] of infected cells**
   (Karling 1968), observing the organization of cystosori and sporangia
 - Molecular detection methods (PCR, qPCR) are increasingly used for
   soil testing and early diagnosis
@@ -132,13 +132,13 @@ of thick-walled resting cysts) within host cells:
 
 ### Ecological Significance
 
-- In aquatic ecosystems, plasmodiophoromycetes parasitize **algae and
+- [[fungal-decomposition-in-aquatic-ecosystems-concluding-perspectives]], plasmodiophoromycetes parasitize **algae and
   water molds**, potentially regulating populations of these organisms
 ## See Also
 
 - [Synchytrium](synchytrium.md) (gall-forming chytrid)
 - [Smut Fungi](smut-fungi.md)
-- [Taphrina deformans](taphrina-deformans.md) (leaf curl)
+- [[taphrina-deformans]](taphrina-deformans.md) (leaf curl)
 
 ## References
 
@@ -146,5 +146,5 @@ of thick-walled resting cysts) within host cells:
   New York.
 - Dylewski, D.P. 1990. Phylum Plasmodiophoromycota. In: *Handbook of
   Protoctista*.
-- Callan, B.E. and Carris, L.M. Fungi on Living Plant Substrata,
-  Including Fruits. In: *Biodiversity of Fungi*.
+- Callan, B.E. and Carris, L.M. Fungi on [[fungi-living-plant-substrata]],
+  Including Fruits. In: *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]*.

@@ -27,9 +27,9 @@ These functions occur predominantly in the rhizosphere and rhizoplane, where mic
 
 The study proposed a **two-tier selection model** to explain how root-associated bacterial communities are assembled in Cannabis:
 
-1. **First shift (soil-driven):** Soil physicochemical properties — including pH, salinity, organic carbon, and nitrogen content — define the composition of the rhizosphere and root-inhabiting bacterial pool. This is the broader, edaphic filter that determines which taxa are available to colonize the root environment.
+1. **First shift (soil-driven):** [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] — including pH, salinity, organic carbon, and nitrogen content — define the composition of the rhizosphere and root-inhabiting bacterial pool. This is the broader, edaphic filter that determines which taxa are available to colonize the root environment.
 
-2. **Second shift (genotype-driven):** Migration of bacteria from the rhizosphere into plant root tissues is governed by plant genotype-dependent selection. The host plant actively shapes its endorhiza community through the production of [[root-exudates]], secondary metabolites, and immune signaling molecules. This tier predicts a dramatic reduction in certain taxa — most notably Acidobacteria — within the endosphere.
+2. **Second shift (genotype-driven):** Migration of bacteria from the rhizosphere into plant root tissues is governed by plant genotype-dependent selection. The host plant actively shapes its endorhiza community through the production of [[root-exudates]], [[antifungal-secondary-metabolites-coprophilous-fungi]], and immune signaling molecules. This tier predicts a dramatic reduction in certain taxa — most notably Acidobacteria — within the endosphere.
 
 This model reconciles the competing influences of edaphic factors and host genetics, positioning them as sequential rather than mutually exclusive filters.
 
@@ -56,8 +56,8 @@ This model reconciles the competing influences of edaphic factors and host genet
 
 In Experiment 1, cultivar-dependent differences were **observed exclusively in the endorhiza**, with no significant strain-level differences detected in the rhizosphere or bulk soil:
 
-- Weighted UniFrac PERMANOVA (ADONIS): R² = 0.59, p = 0.004
-- Unweighted UniFrac PERMANOVA (ADONIS): R² = 0.39, p = 0.003
+- [[cannabis-weighted-unifrac-strain-abundance-vs-presence-absence]] PERMANOVA (ADONIS): R² = 0.59, p = 0.004
+- [[weighted-unweighted-unifrac-discrepancy-cannabis-cultivar]] PERMANOVA (ADONIS): R² = 0.39, p = 0.003
 
 The genus *Methylophilus* was a key taxon driving cultivar differentiation — comprising 13% of the endorhiza community in Bookoo Kush but only 0.13% in Burmese and was entirely absent from Sour Diesel. This stark disparity highlights how closely bacterial enrichment within root tissue tracks with host genotype.
 
@@ -74,7 +74,7 @@ Despite inter-cultivar variation, a consistent core bacterial community was iden
 - Actinomycetales
 - Sphingobacteriales
 
-These taxa represent recurring root colonizers that may play shared functional roles in plant growth promotion and disease suppression across Cannabis genotypes.
+These taxa represent recurring root colonizers that may play shared functional roles in plant growth promotion [[compost-tea-application-and-disease-suppression]] across Cannabis genotypes.
 
 ## Phylum-Level Shifts from Soil to Root
 
@@ -86,7 +86,7 @@ Transitioning from bulk soil and rhizosphere into the endorhiza was accompanied 
 | Proteobacteria | Increased |
 | Actinobacteria | Increased |
 
-The most significant single OTU shift was the depletion of Acidobacteria order iii1-15 in the endorhiza (Bonferroni-corrected p = 1.12 × 10⁻⁷). Of the 51 sample-type-differentiating OTUs identified, 17 that increased in the endorhiza were predominantly Proteobacteria — including members of the Rhizobiales, an order associated with nitrogen fixation and plant-beneficial functions.
+The most significant single OTU shift was the depletion of Acidobacteria order iii1-15 in the endorhiza (Bonferroni-corrected p = 1.12 × 10⁻⁷). Of the 51 sample-type-differentiating OTUs identified, 17 that increased in the endorhiza were predominantly Proteobacteria — including members of the Rhizobiales, an order associated with [[legume-nitrogen-fixation-and-green-manure]] plant-beneficial functions.
 
 ### Correlation of OTU Abundance Across Compartments
 

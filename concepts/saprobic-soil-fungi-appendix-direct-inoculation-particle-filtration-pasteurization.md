@@ -1,5 +1,5 @@
 ---
-title: Saprobic Soil Fungi — Appendix: Direct Inoculation, Particle Filtration, and Pasteurization Protocols
+title: Saprobic Soil Fungi Appendix Direct Inoculation Particle Filtration Pasteurization
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -29,7 +29,7 @@ A well-organized work area is essential for efficient fungal isolation and minim
 
 ### Drechsler's Method
 
-Drechsler's method is the simplest and most widely used direct inoculation technique. A few milligrams of fresh, finely divided soil or humus are sprinkled directly onto the surface of water agar, cornmeal agar, or carboxymethyl [[cellulose]] (CMC) agar. Plates are incubated at 15–20°C; antibacterial antibiotics may be added optionally to suppress bacterial growth.
+Drechsler's method is the simplest and most widely used direct [[inoculation-technique-and-alcohol-flaming]]. A few milligrams of fresh, finely divided soil or humus are sprinkled directly onto the surface of water agar, cornmeal agar, or carboxymethyl [[cellulose]] (CMC) agar. Plates are incubated at 15–20°C; antibacterial antibiotics may be added optionally to suppress bacterial growth.
 
 Emerging hyphal tips are transferred daily to fresh media to obtain pure cultures. Mitosporic and zygomycetous species frequently sporulate under these minimal-nutrient conditions, facilitating identification. Moist-spored conidia are picked up by touching them with a fine needle; dry-spored conidia are transferred using a needle moistened with sterile glycerol or 0.2% agar solution to ensure adhesion.
 
@@ -82,21 +82,21 @@ The 10-step particle filtration protocol proceeds as follows:
 6. Separate the cylinder sections and recover each mesh fraction individually
 7. Transfer the 105 μm filter with retained particles into a 50 ml polystyrene centrifuge tube
 8. Wash particles with 50 ml sterile water to remove residual fine sediment
-9. Dilute to a 20:1 ratio of water to particles (with 0.2% agar or CMC added as a wetting agent)
+9. Dilute to a 20:1 ratio of water to particles (with 0.2% agar or CMC added as a [[jadam-nutrient-management-wetting-agent-and-calcium]])
 10. Pipette 0.1 ml aliquots onto 5–10 plates; incubate and isolate emerging colonies
 
 ### Troubleshooting
 
 - **Mesh clogging:** Overloaded meshes may clog during washing; occasional gentle stirring of the soil on the prescreen helps maintain flow and ensures complete separation.
 - **Vacuum assistance:** A vacuum pump with a side-armed flask (2–4 L) can be used to trap wash water and speed processing.
-- **Effluent disposal:** All effluent must be autoclaved before discarding to comply with biosafety regulations.
+- **[[septic-effluent-disposal-designs]]:** All effluent must be autoclaved before discarding to comply with biosafety regulations.
 - **Incomplete washing:** Insufficient washing produces stray colonies not associated with particles, complicating interpretation. Fine-textured soils (e.g., clays) may wash through the finest mesh entirely, reducing recovery from that fraction.
 
 ## Ethanol and Phenol Pasteurization
 
 ### Overview
 
-Partial sterilization methods — including steam, dry heat, and chemical treatments — selectively favor the recovery of ascomycete fungi from soil. These methods suppress rapidly growing zygomycetes and common mitosporic fungi while permitting hardier ascomycete propagules (ascospores, sclerotia, cleistothecia) to survive, germinate, and grow on isolation media.
+Partial [[comparison-of-surface-sterilization-methods]] — including steam, dry heat, and chemical treatments — selectively favor the recovery of ascomycete fungi from soil. These methods suppress rapidly growing zygomycetes and common mitosporic fungi while permitting hardier ascomycete propagules (ascospores, sclerotia, cleistothecia) to survive, germinate, and grow on isolation media.
 
 ### Treatment Variants
 

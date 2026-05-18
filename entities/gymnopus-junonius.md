@@ -51,7 +51,7 @@ The specific toxic compounds responsible have not been definitively identified. 
 Despite its common name suggesting psychoactivity, G. junonius does not contain psilocybin, psilocin, baeocystin, or other classical [[omphalotus-olearius]]
 - [[coprinus-comatus]]
 - [[laccaria-laccata]]
-- [[boletus-edulis-entity]]
+- [[boletus-edulis]]
 ## Practical Considerations
 
 Successful implementation of Gymnopus junonius requires attention to

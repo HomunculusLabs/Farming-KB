@@ -16,7 +16,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.m
 
 *Catharanthus roseus* is an evergreen subshrub or herbaceous perennial growing 30–100 cm tall. The leaves are glossy, elliptic to oblong, 2–9 cm long, arranged oppositely along the stem. The flowers are salverform (tubular with a flat corolla limb), approximately 3–4 cm in diameter, with five petals. Flower color in wild populations is typically pink to rose with a darker central eye, though white-flowered cultivars are common.
 
-The plant is adapted to tropical and subtropical climates and has naturalized widely in tropical regions worldwide. It is drought-tolerant once established and grows readily in poor sandy soils. In [[dmt-containing-plants-united-states-halpern]]. The commercial
+The plant is adapted to tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] and has naturalized widely [[fukuoka-natural-farming-in-tropical-regions]] worldwide. It is drought-tolerant once established and grows readily in poor sandy soils. In [[dmt-containing-plants-united-states-halpern]]. The commercial
 cultivation of *C. roseus* for pharmaceutical extraction occurs primarily in
 India, Madagascar, China, and several European countries. India is the largest
 producer, supplying significant quantities of dried leaf material to
@@ -33,7 +33,7 @@ achieved, keeping *C. roseus* agriculture critically important to oncology.
 wide naturalization range and abundance in cultivation. However, wild
 populations in its native Madagascar face pressure from habitat destruction.
 The species has become invasive in several tropical regions including parts of
-Australia, Pacific islands, and East Africa, where it displaces native
+Australia, [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and East Africa, where it displaces native
 vegetation in disturbed areas. Paradoxically, the plant's weedy invasiveness
 in non-native ranges has helped ensure a reliable pharmaceutical supply,
 while its native habitat in Madagascar's spiny thickets continues to
@@ -42,7 +42,7 @@ diminish due to agricultural expansion and [[blesching-cannabis-therapeutic-wind
 ## See Also
 
 - [[adenium-obesum]]
-Related: [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] — another medicinal plant preparations with a long history of both therapeutic use and toxicity
+Related: [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] — another [[medicinal-plant-preparations-tinctures-salves-teas]] with a long history of both therapeutic use and toxicity
 - catharanthus roseus — the genus containing this species
 
 ## Overview
@@ -69,7 +69,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Catharanthus Roseus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -98,7 +98,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 catharanthus roseus and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

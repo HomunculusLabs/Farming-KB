@@ -45,7 +45,7 @@ of both hosts and fungi in the tropics complicates efforts to resolve host–end
 ### Seasonal Variation
 
 Seasonal differences in endophyte communities have been documented in several temperate systems.
-Halmschlager et al. (1993), working on *Quercus petraea*, observed that *Discula quercina*
+Halmschlager et al. (1993), working on *[[quercus-petraea]]*, observed that *[[discula-quercina]]*
 decreased in frequency from May through September while other endophyte taxa increased over the
 same period. Wilson and Carroll (1994) found that *Q. garryana* leaf midveins were colonized more
 heavily by *D. quercina* than were leaf blades, and that infection frequency peaked in May–June

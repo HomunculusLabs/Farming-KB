@@ -1,5 +1,5 @@
 ---
-title: [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]
+title: Pleurotus Ostreatus
 created: 2026-04-28
 tags: [mycology, oyster-mushrooms, species, cultivation]
 date: 2026-04-28

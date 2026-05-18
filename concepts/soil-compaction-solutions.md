@@ -78,3 +78,44 @@ Soil compaction is the compression of soil particles, reducing pore space and re
 - [[bacterial-vs-fungal-soil]] — for how soil biology type affects structure
 - [[no-till-gardening-method]] — for preventing compaction through reduced tillage
 - soil compaction solutions — for tool-specific guidance
+## Biological Interactions
+
+Soil communities form complex food webs involving bacteria, fungi,
+protozoa, nematodes, and microarthropods. Mycorrhizal fungi extend
+root systems by up to 700x, accessing phosphorus beyond the depletion
+zone. Bacterial communities drive rapid nutrient cycling in the
+rhizosphere. Predatory protozoa release immobilized nutrients through
+the microbial loop. These interactions maintain soil structure,
+water-holding capacity, and natural disease suppression.
+
+## Management Approaches
+
+Effective soil management builds organic matter through cover
+cropping, composting, and reduced tillage. Cover crops protect
+from erosion, fix nitrogen, and feed biology through root exudates.
+Compost provides stable humus improving aggregation and cation
+exchange capacity. Biological inoculants can accelerate restoration.
+Monitoring soil biology through microscopy guides management.
+
+## Environmental Impact
+
+Soil management practices have far-reaching effects on ecosystem
+health beyond agricultural productivity. Healthy soils sequester
+significant amounts of atmospheric carbon, mitigating climate change.
+Soil biodiversity supports above-ground ecosystem services including
+water purification, flood mitigation, and habitat provision.
+Degraded soils release stored carbon and lose water-holding capacity,
+contributing to desertification and reduced agricultural resilience.
+Regenerative approaches restore these functions while maintaining
+productive agricultural output.
+
+These soil processes operate synergistically, and interventions
+that benefit one component typically improve overall soil health.
+
+## See Also
+
+- [[aact-brix-soil-foodweb-health-indicator-ingham]]
+- [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]]
+- [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
+- [[aact-compost-extract-leachate-tea-distinctions-ingham]]
+- [[aact-compost-feedstock-paper-wood-chips-worm-thermal-ingham]]

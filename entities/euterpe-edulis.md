@@ -58,7 +58,7 @@ palm heart in Brazil since the mid-20th century. The palm heart is considered
 among the finest of all palm heart species. Wild harvesting peaked in the 1970s
 
 ## See Also
-- [[boletus-edulis-entity]]
+- [[boletus-edulis]]
 - [[cordeauxia-edulis]]
 
 ## Overview

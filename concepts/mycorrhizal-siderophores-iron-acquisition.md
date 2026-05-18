@@ -1,5 +1,5 @@
 ---
-title: "[[mycorrhizal-siderophores]] and fungal-siderophores-iron-acquisition-mycorrhiza"
+title: Mycorrhizal Siderophores Iron Acquisition
 created: 2026-04-26
 tags: [mycorrhiza, siderophore, iron, fungal-physiology, nutrient-cycling]
 date: 2026-04-25

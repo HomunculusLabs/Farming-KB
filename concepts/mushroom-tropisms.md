@@ -15,7 +15,7 @@ The initiation and development of many mushrooms are controlled by environmental
 stimuli (Reijnders 1963; Taber 1973; Manachere 1980). While studies of tropisms
 have generally been confined to photo- and geotropism, Badham (1982) demonstrated
 that *Psilocybe cubensis* exhibits a two-phase system of directed growth
-involving both anemotropism (wind response) and negative geotropism (gravity
+involving both anemotropism (wind response) and [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]] (gravity
 response), with the transition linked to [[spore]] production.
 
 Different physiological stages have been described, and several workers have
@@ -61,10 +61,10 @@ During Stages 1–2, stipe growth is directed **into the airflow**. Key observat
 
 Two mechanisms have been proposed for Phase 1 anemotropism:
 
-1. **Boundary layer redistribution.** The boundary layer is thicker on the
+1. **[[boundary-layer-redistribution-fungal-tropism]].** The boundary layer is thicker on the
    leeward side, causing differential evaporative demand that affects cell
    growth rates. Wind, humidity, light, and temperature are all contributing
-   factors. Analogous to the anemotropism and avoidance response in *Phycomyces*.
+   factors. Analogous to the anemotropism and [[ethylene-involvement-fungal-tropism-avoidance-response]] in *Phycomyces*.
 2. **Direct mechanical response** to the force of the wind itself.
 
 ## Phase 2 — Negative Geotropism (Stage 2 onward)
@@ -80,7 +80,7 @@ fertile basidiocarps under a 12-hour photoperiod:
 ### Conditions Required
 
 - **Fertility is essential.** The response does **not** occur in sterile
-  (sporeless) strains — a critical finding linking geotropic sensitivity to
+  (sporeless) strains — a critical finding linking [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]] to
   spore production.
 - **Light is required.** The response does **not** occur in the absence of
   light. Light may be necessary only insofar as it is required for spore
@@ -89,7 +89,7 @@ fertile basidiocarps under a 12-hour photoperiod:
 ## Role of Light
 
 Light influences tropism in *P. cubensis* through at least two roles:
-- **Basidiocarp initiation** — light is required for the initial formation of
+- **[[light-basidiocarp-initiation-psilocybe-cubensis-research]]** — light is required for the initial formation of
   fruitbodies.
 - **Spore formation and geotropic sensitivity** — light appears necessary for
   triggering spore production, which in turn activates the negative geotropic
@@ -145,6 +145,6 @@ The two phases operate through fundamentally different mechanisms:
 - Badham, E.R. (1982). *Mycologia* 74(2): 275–279.
 - Gruen, H.E. (1963). Endogenous growth regulation in carpophores.
 - Hagimoto, H. (1963). Studies on the growth of fruit-bodies of fungi.
-- Manachere, G. (1980). Conditions essential for fruit body formation.
+- Manachere, G. (1980). Conditions essential for [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]].
 - Reijnders, A.F.M. (1963). Développement des carpophores des [[agaricales]].
 - Taber, W.A. (1973). Microbial products as plant growth substances.

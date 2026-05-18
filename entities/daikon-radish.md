@@ -1,5 +1,5 @@
 ---
-title: Daikon Radish (Raphanus sativus var. longipinnatus)
+title: Daikon Radish
 source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 tags: [species, vegetable, soil-rehabilitation, deep-rooting, green-manure, cover-crop]
@@ -26,7 +26,7 @@ The daikon radish is a large, deep-rooted radish variety of Asian origin widely 
 - **Soil aeration:** As the root grows, it pushes aside soil particles, creating macropores that improve aeration and water infiltration. When the root decomposes, it leaves behind a channel that persists for months or years.
 - **Nutrient cycling:** Deep roots scavenge nutrients from subsoil layers that are unavailable to shallow-rooted crops, bringing them to the surface through the plant's biomass.
 - **Biofumigation:** As a brassica, daikon contains glucosinolates that break down into isothiocyanates when plant tissue is damaged, suppressing soil-borne pathogens and nematodes.
-- **Winter kill:** In temperate climates, daikon radishes are often planted in late summer and killed by winter freezes, adding organic matter directly within the soil profile.
+- **Winter kill:** [[query-how-to-grow-and-use-oca-in-temperate-climates]], daikon radishes are often planted in late summer and killed by winter freezes, adding organic matter directly within the soil profile.
 - **Fukuoka method:** Masanobu Fukuoka used daikon varieties extensively in his natural farming system, casting seed onto untilled ground and allowing the radish to perform the work of tillage through root growth.
 
 ## Use in Permaculture Systems
@@ -34,7 +34,7 @@ The daikon radish is a large, deep-rooted radish variety of Asian origin widely 
 Daikon is deployed as part of a biological toolkit for soil rehabilitation that includes:
 
 - **Tree legumes** (*Acacia*, *Albizia*) for deep subsoil penetration and nitrogen fixation.
-- **Comfrey** (*Symphytum*) for nutrient mining and biomass production.
+- **Comfrey** (*Symphytum*) for nutrient mining and [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 - **Lucerne/alfalfa** (*Medicago sativa*) for deep rooting and high-protein mulch.
 - **Earthworms** for ongoing soil mixing and aeration.
 
@@ -56,14 +56,14 @@ The daikon performs soil conditioning through several simultaneous mechanisms:
 2. **Decomposition channel:** When the root dies and decomposes, it leaves an open channel for air and water.
 3. **Nutrient mining:** Deep roots access subsoil nutrients and bring them into the biological cycle.
 4. **Biofumigation:** Glucosinolate breakdown suppresses pathogens in the root zone.
-5. **Organic matter input:** The entire root biomass becomes soil organic matter at depth.
+5. **Organic matter input:** The entire root biomass becomes [[humus-and-soil-organic-matter]] at depth.
 
 ## Relevance to Cultivation
 
 - Daikon radish is one of the most accessible biological soil conditioning tools available to cultivators at any scale.
 - It requires no machinery, fossil fuel, or specialised knowledge — simply broadcast seed onto degraded land.
 - The root channels it creates are particularly valuable for preparing compacted sites for subsequent planting of perennials, trees, or deep-rooted crops.
-- In mycology-adjacent systems, the improved soil aeration and organic matter input from daikon decomposition supports beneficial fungal networks.
+- In mycology-adjacent systems, the improved soil aeration [[mollison-humus-and-organic-matter-in-soils]] input from daikon decomposition supports beneficial fungal networks.
 - Mollison contrasts this patient, biological approach with mechanical methods, noting that "much the same subsurface shattering occurs, but slowly and noiselessly."
 - The biofumigation properties provide an additional benefit for soil pathogen management in cultivation systems.
 
@@ -73,7 +73,7 @@ Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 8 (Soils), Sections 
 
 ## Practical Applications
 
-Daikon Radish is relevant to sustainable design and ecological management practices.
+Daikon Radish is relevant to sustainable design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] practices.
 Understanding these concepts helps practitioners make informed decisions that balance
 productivity with environmental stewardship.
 

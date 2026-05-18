@@ -14,7 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Maas Geesteranus, R.A. (1975). The terrestrial hydnaceous fungi of the eastern Old World. Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen, 65, 1-127."
+  - "Maas Geesteranus, R.A. (1975). The terrestrial hydnaceous fungi of the eastern datura-metel-old-world-ethnobotany. Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen, 65, 1-127."
   - "Stalpers, J.A. (1993). The aphyllophoraceous fungi II: Meripilus - Tyromyces. Netherlands Journal of Botany, 43(3), 245-253."
   - "Breitenbach, J. & Kränzlin, F. (1986). Fungi of Switzerland Volume 2: Heterobasidiomycetes, Aphyllophorales, Gasteromycetes. Verlag Mykologia."
   - "Phillips, R. (2013). Mushrooms and other Fungi of Great Britain and Europe. Pan Macmillan."
@@ -56,18 +56,18 @@ The species was originally described as *Hydnum scabrosum* by Elias Fries in 182
 - **Basidia**: Clavate, 4-spored, 25–35 × 6–8 µm; sterigmata up to 4 µm
 - **Cystidia**: Absent on the hymenium (cheilocystidia and pleurocystidia not differentiated)
 - **Pileipellis**: A trichoderm of cylindrical to slightly inflated hyphae 5–12 µm wide, with brown encrusting pigment; terminal cells clavate to fusiform
-- **Hyphal system**: Monomitic; clamp connections present
+- **Hyphal system**: Monomitic; [[basidiomycete-sexual-reproduction-and-clamp-connections]] present
 
 ## Habitat and Distribution
 
-*Sarcodon scabrosus* is an obligate **ectomycorrhizal fungus** forming mutualistic associations primarily with **Norway spruce** (*Picea abies*) and other *Picea* species, with occasional associations with fir (*Abies* spp.) and pine (*Pinus* spp.). It is found in:
+*Sarcodon scabrosus* is an obligate **ectomycorrhizal fungus** forming mutualistic associations primarily with **Norway spruce** (*[[picea-abies]]*) and other *Picea* species, with occasional associations with fir (*Abies* spp.) and pine (*Pinus* spp.). It is found in:
 
 - **Northern Europe**: Scandinavia, British Isles, Germany, Poland, Russia
 - **Central and Southern Europe**: Alps, Carpathians, Balkans
 - **Asia**: Siberia, Japan, Korea, northern China
 - **[[plant-nutrient-uptake-mechanisms]] (particularly phosphorus and nitrogen) and water access through an extensive extramatrical [[hamilton-composting-and-organic-matter-management]] via its saprotrophic capabilities at the hyphal front
 - Formation of nutrient-rich aggregation sites in the mycorrhizosphere
-- Supporting soil microbial communities through exudate production
+- Supporting [[endorhiza-rhizosphere-bulk-soil-microbial-communities]] through exudate production
 - Serving as a food substrate for soil microarthropods and nematodes
 
 ## Chemical Constituents
@@ -75,7 +75,7 @@ The species was originally described as *Hydnum scabrosum* by Elias Fries in 182
 Despite being inedible, *Sarcodon scabrosus* has been investigated for [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 - **Sarcodonin**: A bitter-tasting cyathane-type diterpenoid with reported antibacterial and anti-inflammatory properties
-- **Scabronines**: Additional cyathane diterpenoids isolated from fruiting bodies; some show NGF (nerve growth factor) synthesis-enhancing activity in vitro
+- **Scabronines**: Additional cyathane diterpenoids isolated from [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]; some show NGF (nerve growth factor) synthesis-enhancing activity in vitro
 - **Sarcoviolins**: Violet pigmented compounds found in the pigmented tissues
 - **Polyphenols and tannins**: Contributing to the extreme bitterness and astringency
 

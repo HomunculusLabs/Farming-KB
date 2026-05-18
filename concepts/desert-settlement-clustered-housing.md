@@ -1,5 +1,5 @@
 ---
-title: Desert Settlement Design [[desert-settlement-and-clustered-housing-design]]
+title: Desert Settlement Clustered Housing
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
