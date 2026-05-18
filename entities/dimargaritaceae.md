@@ -34,10 +34,10 @@ The Dimargaritaceae are a family of specialized biotrophic mycoparasitic fungi i
 ## Morphological Characteristics
 
 - **Sporangiophores:** Erect, bearing heads with sporiferous branchlets at the apex. Dimargaris cristalligena has a characteristic sporangiophore head with complex branching patterns
-- **Sporiferous branchlets:** Specialized spore-bearing structures at the tips of sporangiophore branches
+- **Sporiferous branchlets:** Specialized [[spore]]-bearing structures at the tips of sporangiophore branches
 - **Haustoria:** Complex, branching haustorial systems that penetrate host hyphal walls and expand inside host cells. Illustrated for D. cristalligena by Benjamin (1959)
 - **Crystalline inclusions:** D. cristalligena produces distinctive crystalline bodies within its cells, giving the species its name
-- **Mycelium:** Delicate hyphae that grow over host colony surfaces
+- **[[mycelium]]:** Delicate hyphae that grow over host colony surfaces
 
 ## Ecology and Host Range
 

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*[[paraglomus]] occultum* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Paraglomus*, family Paraglomaceae. It is one of only two species in this small but phylogenetically significant genus within the order Glomales. Along with *Archaeospora*, *Paraglomus* represents a deeply divergent lineage of AM fungi that was only recognized as distinct through molecular phylogenetic analysis of ribosomal DNA sequences.
+*[[paraglomus]] occultum* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Paraglomus*, family Paraglomaceae. It is one of only two species in this small but phylogenetically significant genus within the order Glomales. Along with *[[archaeospora]]*, *Paraglomus* represents a deeply divergent lineage of AM fungi that was only recognized as distinct through molecular phylogenetic analysis of ribosomal DNA sequences.
 
 ## Classification
 

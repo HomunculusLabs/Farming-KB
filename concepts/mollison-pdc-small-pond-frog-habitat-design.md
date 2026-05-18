@@ -78,3 +78,25 @@ For a basic frog habitat, Mollison suggests a pond as small as four feet
 in diameter and eighteen inches deep. This is sufficient to support a
 breeding population of frogs. The pond should be filled with rainwater
 rather than tap water, which may contain chlorine harmful to amphibians.
+## Benefits and Limitations
+
+Mollison Pdc Small Pond Frog Habitat Design offers several advantages in practice, including adaptability to
+different conditions and compatibility with related approaches. However,
+limitations exist depending on context, scale, and available resources.
+Understanding both helps practitioners set realistic expectations and plan
+appropriate strategies for implementation.
+
+## Related Methods and Approaches
+
+Several complementary approaches exist alongside mollison pdc small pond frog habitat design, each
+offering unique advantages for specific situations. Comparative evaluation
+of these methods helps identify the most suitable option given available
+resources, environmental constraints, and desired outcomes. Combining
+multiple approaches often yields synergistic benefits.
+
+## See Also
+
+- [[permaculture]]
+- [[companion-planting]]
+- [[food-forest]]
+- [[swale]]

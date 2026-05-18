@@ -6,7 +6,7 @@ type: concept
 
 # Lichenicolous Fungi and Basidiomycete Mycoparasites
 
-Lichenicolous (lichen-inhabiting) fungi and basidiomycete mycoparasites represent a vast yet poorly understood component of fungal biodiversity. These organisms grow on or within lichens and other fungi, establishing parasitic, commensalistic, or sometimes saprotrophic relationships with their hosts. Their study reveals extraordinary ecological specialization and evolutionary adaptation, with many genera and species still awaiting formal description. They are found across nearly all major fungal lineages, but are especially diverse within the Ascomycota and, to a lesser extent, the Basidiomycota.
+Lichenicolous (lichen-inhabiting) fungi and basidiomycete mycoparasites represent a vast yet poorly understood component of [[fungal-biodiversity]]. These organisms grow on or within lichens and other fungi, establishing parasitic, commensalistic, or sometimes saprotrophic relationships with their hosts. Their study reveals extraordinary ecological specialization and evolutionary adaptation, with many genera and species still awaiting formal description. They are found across nearly all major fungal lineages, but are especially diverse within the Ascomycota and, to a lesser extent, the Basidiomycota.
 
 ## Ascomycete Families Hosting Fungicolous and Lichenicolous Species
 
@@ -20,7 +20,7 @@ Members of the **Clavicipitaceae** are well known for their entomopathogenic and
 
 ### Niessliaceae
 
-The **Niessliaceae** contribute several genera to the fungicolous and lichenicolous fungal inventory. **Monocillium** species are frequently isolated as fungicolous associates, often growing on decaying fungal hyphae or fruiting bodies. Lichenicolous species of **Niesslia** add to the family's ecological breadth, colonizing lichen thalli and apothecia with subtle, often overlooked infections. The fungicolous and lichenicolous members of Niessliaceae illustrate how easily these ecological niches are overlooked without targeted microscopic examination.
+The **Niessliaceae** contribute several genera to the fungicolous and lichenicolous fungal inventory. **Monocillium** species are frequently isolated as fungicolous associates, often growing on decaying [[fungal-hyphae]] or fruiting bodies. Lichenicolous species of **Niesslia** add to the family's ecological breadth, colonizing lichen thalli and apothecia with subtle, often overlooked infections. The fungicolous and lichenicolous members of Niessliaceae illustrate how easily these ecological niches are overlooked without targeted microscopic examination.
 
 ## Dothideomycetes: Dothideales and Pleosporales
 

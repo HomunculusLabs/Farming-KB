@@ -148,7 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]
 - [[ingham-fungal-inoculum-sourcing]]
 - [[ingham-thermal-compost-versus-worm-compost]]
-
-## Sources
-
-- `elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md`

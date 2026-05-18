@@ -23,7 +23,7 @@ type: entity
 
 ## Key Facts
 
-- Forms fan-like hanging colonies under Ganoderma applanatum basidiomata
+- Forms fan-like hanging colonies under [[ganoderma-applanatum]] basidiomata
 - The brownish subiculum color results from trapped host basidiospores
 - Produces an acremonium-like (Acremonium-type) anamorph
 - Hosts are primarily members of the Ganodermataceae family

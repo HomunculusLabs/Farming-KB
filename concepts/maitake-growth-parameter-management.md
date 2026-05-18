@@ -141,19 +141,10 @@ influence actual optimal conditions:
 - **Spawn quality and distribution** — Even colonization and vigorous spawn reduce
   vulnerability to parameter deviations
 - **Log arrangement and spacing** — Bag spacing affects air circulation, temperature
-  uniformity, and localized CO₂ levels
-- **Soil casing use** — Casing modifies surface humidity and microclimate, potentially
-  relaxing some ambient humidity requirements
-
-## References
-
-- Chen, A.W. (1999). *A Practical Guide for Synthetic-Log Cultivation of Medicinal
-  Mushroom Grifola frondosa (Maitake).*
-
 ## See Also
 
 - [[grifola-frondosa]]
-- [[maitake-cultivation]]
-- [[synthetic-log-cultivation]]
-- [[maitake-environmental-parameters]]
-- [[maitake-soil-casing-technique]]
+- [[mushroom-cultivation]]
+- [[mycelium]]
+- [[spore]]
+- [[maitake-fruiting-body-development]]

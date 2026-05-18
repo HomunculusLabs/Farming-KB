@@ -33,7 +33,7 @@ tags: [yeast, ascomycete, mammal-associated, gut-flora, rabbit]
 
 ## Relevance to Cultivation and Mycology
 
-*Cyniclomyces guttulatus* is primarily of academic interest in yeast systematics and mammalian gut ecology. For cultivators working with rabbits or lagomorphs, understanding the yeast gut flora may have implications for animal health and nutrition. The species also serves as an example of how specialized yeast isolation techniques (custom media, elevated CO₂, specific temperatures) are necessary to capture the full diversity of fungal communities. In industrial mycology, the species has no significant applications but illustrates the metabolic diversity within the Saccharomycetales.
+*Cyniclomyces guttulatus* is primarily of academic interest in yeast systematics and mammalian gut ecology. For cultivators working with rabbits or lagomorphs, understanding the yeast gut flora may have implications for animal health and nutrition. The species also serves as an example of how specialized yeast isolation techniques (custom media, elevated CO₂, specific temperatures) are necessary to capture the full diversity of fungal communities. In industrial [[mycology]], the species has no significant applications but illustrates the metabolic diversity within the Saccharomycetales.
 
 ## Isolation Protocol Summary
 
@@ -42,7 +42,6 @@ tags: [yeast, ascomycete, mammal-associated, gut-flora, rabbit]
 3. Incubate at 35–40°C in a CO₂-enriched atmosphere (5–10% CO₂).
 4. Subculture onto isolation plates and incubate under the same conditions.
 5. Confirm identity by microscopic examination and molecular sequencing (26S rDNA D1/D2 domain).
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

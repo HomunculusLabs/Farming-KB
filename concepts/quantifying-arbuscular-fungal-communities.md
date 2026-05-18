@@ -92,7 +92,7 @@ Rare species constitute large proportions of AM fungal communities in both tempe
 
 ### Abundance vs. Frequency: A Case Study
 
-In sand dune sampling, *Scutellospora pellucida* was found in only 1 of 11 samples but was abundant in that sample, while *S. calospora* occurred at lower numbers in 5 samples. Based on average abundance alone, *S. pellucida* would appear overwhelmingly dominant. Yet statistical tests revealed no significant difference. **Frequency of occurrence was the more informative parameter** for rare species.
+In sand dune sampling, *[[scutellospora-pellucida]]* was found in only 1 of 11 samples but was abundant in that sample, while *S. calospora* occurred at lower numbers in 5 samples. Based on average abundance alone, *S. pellucida* would appear overwhelmingly dominant. Yet statistical tests revealed no significant difference. **Frequency of occurrence was the more informative parameter** for rare species.
 
 This illustrates the critical importance of combining abundance and frequency when calculating indices of importance.
 
@@ -110,7 +110,7 @@ Some progress is being made using selective enrichment of PCR-amplified DNA to p
 
 ## References
 
-- Koske, R.E. 1987. Distribution of VA mycorrhizal fungi along a latitudinal environmental gradient. Canadian Journal of Botany 65: 182-189.
+- Koske, R.E. 1987. Distribution of VA [[mycorrhizal-fungi]] along a latitudinal environmental gradient. Canadian Journal of Botany 65: 182-189.
 - Gazey, C., L.K. Abbott, and A.D. Robson. 1992. The rate of development of mycorrhizas affects the competitiveness of mycorrhizal fungi at low and high soil phosphorus levels. New Phytologist 123: 281-291.
 - Lee, J., and R.E. Koske. 1994. Gigaspora gigantea: seasonal abundance and aging of spores in a sand dune. Mycologia 86: 869-875.
 - Whittaker, R.H. 1975. Communities and Ecosystems. 2nd ed. Macmillan.

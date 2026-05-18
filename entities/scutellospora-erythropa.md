@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*Scutellospora erythropa* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Scutellospora*, suborder Gigasporineae, order Glomales. It is notable for producing oblong (rather than spherical) spores, which distinguishes it from most other AM fungal species and requires a different formula for calculating spore biovolume.
+*Scutellospora erythropa* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Scutellospora*, suborder Gigasporineae, order [[glomales]]. It is notable for producing oblong (rather than spherical) spores, which distinguishes it from most other AM fungal species and requires a different formula for calculating [[spore]] biovolume.
 
 ## Classification
 

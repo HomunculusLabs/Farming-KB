@@ -47,7 +47,7 @@ Basidiomycetous yeasts are distributed across three major classes:
 
 - **Hymenomycetes** — including the orders Tremellales, Trichosporonales, Filobasidiales, and Cystofilobasidiales. Many species in this class produce teliospores and have known sexual states (e.g., *Cryptococcus*, *Rhodotorula*, *Trichosporon*).
 - **Urediniomycetes** — a group containing yeasts often associated with plant rusts or leaf surfaces, including the genus *Sporobolomyces*.
-- **Ustilaginomycetes** — smut fungi and their yeast-like anamorphic relatives, some of which are plant pathogens.
+- **Ustilaginomycetes** — [[smut-fungi]] and their yeast-like anamorphic relatives, some of which are plant pathogens.
 
 ### Known Diversity
 
@@ -55,7 +55,7 @@ Approximately 100 genera and over 700 described species of yeasts are currently 
 
 ## Global Distribution Patterns
 
-Yeasts are **ubiquitous** in nature, colonizing virtually every ecological niche where organic substrates are available. Population densities vary dramatically by habitat:
+Yeasts are **ubiquitous** in nature, colonizing virtually every [[ecological-niche]] where organic substrates are available. Population densities vary dramatically by habitat:
 
 - **Soil:** Yeast populations in soil typically range from 10⁵ to 10⁶ colony-forming units (CFU) per gram. Soils rich in organic matter and vegetation generally harbor the highest counts, with community composition reflecting local plant cover and soil chemistry.
 - **Aquatic environments:** Yeast populations in freshwater and marine habitats decrease with depth and distance from shore. Surface waters near terrestrial input tend to be enriched compared to open-ocean or deep-water samples. Estuarine mixing zones often support transitional communities.

@@ -88,7 +88,7 @@ Alkaliphiles grow optimally at pH 8.5–11, inhabiting soda lakes, alkaline soil
 
 ## Oligotrophic Fungi
 
-Oligotrophic fungi grow under extremely low nutrient availability, colonizing distilled water, bare rock, and airborne particles.
+Oligotrophic fungi grow under extremely low [[nutrient-availability]], colonizing distilled water, bare rock, and airborne particles.
 
 ### Media and Protocols
 

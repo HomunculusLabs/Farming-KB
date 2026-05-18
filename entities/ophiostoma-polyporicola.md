@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Ophiostoma polyporicola is a fungicolous fungus in the family Ophiostomataceae (Ophiostomatales, [[ascomycota]]). The species is a specialized colonizer of polypore bracket fungi, where its ascomata are often hidden inside the pores of the host. It is one of the most characteristic fungal associates of [[fomitopsis-pinicola]] and [[piptoporus-betulinus]], and almost always occurs together with Hypocrea pulvinata—sometimes growing directly out from its stromata. The species was described relatively recently (Constantinescu and Ryman 1989) and has since been recognized as a common but easily overlooked component of the fungicolous community on polypores.
+Ophiostoma polyporicola is a fungicolous fungus in the family Ophiostomataceae (Ophiostomatales, [[ascomycota]]). The species is a specialized colonizer of polypore bracket fungi, where its ascomata are often hidden inside the pores of the host. It is one of the most characteristic fungal associates of [[fomitopsis-pinicola]] and [[piptoporus-betulinus]], and almost always occurs together with [[hypocrea-pulvinata]]—sometimes growing directly out from its stromata. The species was described relatively recently (Constantinescu and Ryman 1989) and has since been recognized as a common but easily overlooked component of the fungicolous community on polypores.
 
 ## Classification
 
@@ -51,7 +51,7 @@ The consistent co-occurrence with H. pulvinata suggests either a synergistic rel
 ## Relevance to Cultivation and Mycology
 
 - **Hidden biodiversity:** The species illustrates how many fungicolous fungi remain undetected due to their hidden habit inside host pore tubes
-- **Community ecology:** The consistent three-species community (O. polyporicola + H. polvinata + M. lagenaria) on F. pinicola provides a model for studying fungal community assembly
+- **Community ecology:** The consistent three-species community (O. polyporicola + H. polvinata + M. lagenaria) on F. pinicola provides a model for studying [[fungal-community-assembly]]
 - **Forest pathology:** As a member of the Ophiostomatales (the order containing many tree pathogens and blue-stain fungi), its ecology on polypores is of interest
 - **Insect associations:** Ophiostoma species are typically insect-dispersed; the polypore-inhabiting habit may involve mite or beetle vectors
 

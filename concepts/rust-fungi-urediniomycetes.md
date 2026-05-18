@@ -52,8 +52,8 @@ Rust fungi are unable to grow saprobically in nature and thus are found only in 
 
 Although rust infections are not generally fatal to plants, they may severely limit growth and fruiting ability. Notoriously damaging rusts include:
 
-- **Wheat stem rust** (*Puccinia graminis*) — historically one of the most devastating diseases of cereal crops worldwide
-- **Coffee rust** (*Hemileia vastatrix*) — a major threat to coffee production in tropical regions
+- **Wheat stem rust** (*[[puccinia-graminis]]*) — historically one of the most devastating diseases of cereal crops worldwide
+- **Coffee rust** (*[[hemileia-vastatrix]]*) — a major threat to coffee production in tropical regions
 - **White pine blister rust** (*Cronartium ribicola*) — a destructive disease of five-needled pines requiring an alternate host in the genus *Ribes*
 
 ## Identification

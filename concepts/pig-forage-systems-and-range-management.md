@@ -20,7 +20,7 @@ In tropical zones, useful species include **mulberry** (*Morus* spp.), **Bunya p
 In cooler temperate areas, the palette shifts to **mulberry**, **olive**, **Chilean wine palm** (*Jubaea spectabilis*), and **canary date palm** (*Phoenix canariensis*).
 
 ### Trees Planted Outside Protected Fences
-These are larger, more resilient species that can withstand some browsing. In the tropics: **oaks**, **chestnuts**, **chinquapins**, **breadfruit**, **jackfruit**, **Prosopis** spp., **Chinese tallow tree**, and **Argania sideroxylon**. In cooler areas: the **white oak group**, **cork oak**, **turkey oak** pods, **honey locust**, **carob** (in dry zones), **chestnut**, **chinquapin**, **rain tree** (*Samanea saman*), and **Albizia dulcis*.
+These are larger, more resilient species that can withstand some browsing. In the tropics: **oaks**, **chestnuts**, **chinquapins**, **breadfruit**, **jackfruit**, **Prosopis** spp., **[[chinese-tallow-tree]]**, and **Argania sideroxylon**. In cooler areas: the **white oak group**, **cork oak**, **turkey oak** pods, **honey locust**, **carob** (in dry zones), **chestnut**, **chinquapin**, **rain tree** (*Samanea saman*), and **Albizia dulcis*.
 
 ### Root Crops Planted in Rooted-up Pens
 **Cattails** (*Typha* spp.), **arrowroot** (*Canna edulis*), **Jerusalem artichoke**, **comfrey**, **yams**, **taro**, **sweet potato**, **potato**, **cassava**, **elephant-foot yam**, and **Maranta**.

@@ -66,7 +66,7 @@ indicate the most lethal forms of poisoning.
 direct warning. The cap is convex at first, then flattened or depressed, brilliant bright red —
 at first matt then shiny, fading with age to pink, yellow, or white. The cap edge is smooth when
 young, later furrowed; the skin peels easily and is one of the species that "peels," demonstrating
-that this character has no bearing on toxicity (since *Amanita phalloides* also peels). The gills
+that this character has no bearing on toxicity (since *[[amanita-phalloides|Amanita phalloides]]* also peels). The gills
 are shining white, more or less free and somewhat crowded; the stem is rigid, white, sometimes
 pink-tinged. The flesh is firm and white, pink under the cap skin. The taste is very acrid after
 a few seconds and persistent — this delayed onset of acridity is characteristic and distinguishes
@@ -148,8 +148,3 @@ All *Inocybe* species should be treated with extreme caution by foragers. Their 
 appearance and tendency to grow in the same habitats as sought-after edible species make them a
 particular hazard. The nervous-system poisoning they produce differs markedly from the
 gastrointestinal irritation of the russulas or the delayed cell-degeneration poisoning of the
-
-## See Also
-- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]
-- [[ramsbottom-poisonous-fungi-species]]
-- [[ramsbottom-poisonous-fungi-identification-guide]]

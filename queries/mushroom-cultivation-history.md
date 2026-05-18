@@ -83,7 +83,7 @@ Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
   Horse manure composting becomes standardized as the primary substrate.
 
 - **1860s — Cooke's popularization:**
-  [[mordecai-cooke]] publishes widely on mushrooms,
+  [[mordecai-cubitt-cooke]] publishes widely on mushrooms,
   popularizing mycology among Victorian naturalists.
   See [[victorian-mycology]].
 

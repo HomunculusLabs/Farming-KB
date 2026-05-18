@@ -105,7 +105,7 @@ hosts essential for the disease cycle.
 
 ### Cultivation Considerations
 
-- In forest-based mushroom cultivation (e.g., shiitake on logs, maitake
+- In forest-based [[mushroom-cultivation]] (e.g., shiitake on logs, maitake
   on stumps), the presence of WPBR cankers may affect log quality
   and stand health
 - Affected white pine forests may have altered fungal species
@@ -134,10 +134,6 @@ hosts essential for the disease cycle.
 - **Genetic resistance:** Breeding programs at USDA Forest Service
   produce rust-resistant seedlings for reforestation
 - **Pruning:** Removing lower branches of pines reduces infection risk
-  (most infections occur within 2.5 m of ground level)
-- **Fungicides:** Not practical in forest settings but used in high-
-  value ornamental and seed orchard trees
-
 ## See Also
 
 - [Rust Fungi](rust-fungi.md)

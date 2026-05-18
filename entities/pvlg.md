@@ -9,7 +9,7 @@ tags: [reagent, microscopy, mycology, mountant]
 
 ## Description
 
-PVLG is a permanent mounting medium widely used in mycology for preparing microscope slides of fungal spores, hyphae, and other microscopic structures. It is a viscous liquid composed of polyvinyl alcohol (PVA), lactic acid, glycerol, and water. The medium is particularly important in the study of arbuscular mycorrhizal (AM) fungi, where it serves as the standard mountant for preserving and examining spore morphology.
+PVLG is a permanent mounting medium widely used in mycology for preparing microscope slides of fungal spores, hyphae, and other microscopic structures. It is a viscous liquid composed of polyvinyl alcohol (PVA), lactic acid, [[glycerol]], and water. The medium is particularly important in the study of arbuscular mycorrhizal (AM) fungi, where it serves as the standard mountant for preserving and examining spore morphology.
 
 ## Classification
 
@@ -38,7 +38,6 @@ Standard PVLG recipe (see also Appendix II of source text):
 - Add lactic acid and glycerol
 - Store in dropper bottles for convenient application
 - For PVLG + Melzer's: mix equal volumes immediately before use
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -96,5 +95,5 @@ Standard PVLG recipe (see also Appendix II of source text):
 
 ## References
 
-- Morton, J.B. et al. "Mutualistic Arbuscular Endomycorrhizal Fungi" in *Biodiversity of Fungi*
+- Morton, J.B. et al. "Mutualistic Arbuscular [[endomycorrhizal-fungi]]" in *Biodiversity of Fungi*
 - INVAM (International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi) protocols

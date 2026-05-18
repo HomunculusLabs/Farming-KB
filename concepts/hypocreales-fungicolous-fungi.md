@@ -6,7 +6,7 @@ type: concept
 
 # Hypocreales: Fungicolous Diversity and Mycoparasitism
 
-The order Hypocreales (Ascomycota) represents one of the most important lineages of fungicolous and mycoparasitic fungi. Comprising the families Hypocreaceae, Nectriaceae, Bionectriaceae, Clavicipitaceae, and Niessliaceae, this order contains an extraordinarily high proportion of species that parasitize, colonize, or exploit other fungi as substrata. Many hypocrealean fungi are mycoparasitic or mycosaprotrophic — a fact that is often unrecognized even by specialists (Rossman et al. 1999).
+The order Hypocreales ([[ascomycota]]) represents one of the most important lineages of fungicolous and mycoparasitic fungi. Comprising the families Hypocreaceae, Nectriaceae, Bionectriaceae, Clavicipitaceae, and Niessliaceae, this order contains an extraordinarily high proportion of species that parasitize, colonize, or exploit other fungi as substrata. Many hypocrealean fungi are mycoparasitic or mycosaprotrophic — a fact that is often unrecognized even by specialists (Rossman et al. 1999).
 
 ## Overview of Mycoparasitic Mechanisms
 
@@ -15,7 +15,7 @@ Hypocrealean mycoparasites employ diverse strategies to attack and exploit funga
 - **Biotrophic contact mycoparasitism**: The parasite contacts the host via specialized structures (haustoria, appressoria) without immediately killing it, withdrawing nutrients from living host tissue. Examples include [[gonatobotrys-simplex]], which grows on Alternaria and Cladosporium species.
 - **Necrotrophic mycoparasitism**: The parasite actively kills host tissue through enzymatic degradation and toxic metabolites before colonizing it. [[trichoderma-harzianum]] uses this strategy.
 - **Hyphal interference**: Non-contact antagonism through production of diffusible toxic volatile compounds that cause cell vacuolization, collapse, and disintegration of host cytoplasm at a distance.
-- **Direct penetration**: Physical breaching of host cell walls, as seen in Trichoderma interactions with Lentinula edodes.
+- **Direct penetration**: Physical breaching of host cell walls, as seen in Trichoderma interactions with [[lentinula-edodes]].
 
 ## Key Families and Genera
 

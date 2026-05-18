@@ -33,7 +33,7 @@ Sphaerostilbella is a genus of fungicolous ascomycetes in the Hypocreaceae (Hypo
 
 ## Relevance to Cultivation and Mycology
 
-Sphaerostilbella species are ecologically important mycoparasites of Stereum and other corticioid fungi, which are among the most common wood-decay organisms in temperate forests. Because Stereum species can be competitors of cultivated mushrooms on wood substrates (particularly shiitake and oyster mushrooms on logs), understanding natural parasites of Stereum may inform biological control strategies. The genus also illustrates the taxonomic complexity within the Hypocreales, where anamorph-teleomorph connections and generic boundaries continue to be revised.
+Sphaerostilbella species are ecologically important mycoparasites of Stereum and other corticioid fungi, which are among the most common wood-decay organisms in temperate forests. Because Stereum species can be competitors of cultivated mushrooms on wood substrates (particularly shiitake and [[oyster-mushrooms]] on logs), understanding natural parasites of Stereum may inform biological control strategies. The genus also illustrates the taxonomic complexity within the Hypocreales, where anamorph-teleomorph connections and generic boundaries continue to be revised.
 
 ## Notable Interactions
 
@@ -89,6 +89,6 @@ The species S. broomeana is particularly notable for its association with Hetero
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
 - If taxonomy has changed, record the older name as historical context only when the source supports it.
-- If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
+- If cultivation relevance is uncertain, keep the statement framed as relevance to [[mycology]] rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

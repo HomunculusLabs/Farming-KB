@@ -88,7 +88,7 @@ We have eliminated almost all the ancestors of our herbs, vegetables, flowers, a
 A single **Russian ground squirrel (suslik)** digs approximately **200 holes per acre** and turns over **95 cubic feet of soil per year**. This is eclipsed by woodchucks, moles, wombats, mice, and voles. Prairie dogs and rabbits may fully tunnel out and manure many acres.
 
 These burrowers perform critical ecosystem functions:
-- Plant bulbs and root crops (comfrey, etc.) by harvesting, storing, and forgetting them in shallow tunnels
+- Plant bulbs and root crops ([[comfrey]], etc.) by harvesting, storing, and forgetting them in shallow tunnels
 - Leave forgotten storages of tree and meadow seed, root cuttings, and bulbs
 - Create loose-soil seedbeds where blown seed can germinate
 - Fox and dog dung on burrow mounds contains seeds of mulberry, plum, loquat, and vine fruits that rely on the combination of loose soil and manure
@@ -103,7 +103,7 @@ Most natural grasslands lie in the **Eurasian land mass**, with Africa and the A
 
 The 60 million bison that once occupied the American prairies, with their unnumbered associated pronghorn and mule deer, represent a protein yield that may never be equalled by domestic systems. Africa's 80 large mammals and 60 associated antelope species can never be matched in total biomass, yield, or ecological value by a propped-up, energy-consuming pastoral system of a few species of domestic cattle and goats.
 
-Russia preserved the **[[saiga-antelope]]** from near-extinction in the 1940s to over a million today, culling 40% annually for food — they are the best-adapted tundra animals. The Lapps manage reindeer by travelling with herds on their migrations, taking a sustainable yield from sub-arctic meadows and lichens that cultivation or permanent settlement would destroy.
+Russia preserved the **[[saiga-antelope]]** from near-extinction in the 1940s to over a million today, culling 40% annually for food — they are the best-adapted tundra animals. The Lapps manage reindeer by travelling with herds on their migrations, taking a sustainable yield from sub-arctic meadows and [[lichens]] that cultivation or permanent settlement would destroy.
 
 ## Related
 - [[grassland-ecology-and-soil-biology]]

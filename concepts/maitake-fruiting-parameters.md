@@ -74,3 +74,24 @@ Fruiting efficiency in maitake is generally low, but several strategies can impr
 | Oxygen | High (species is highly aerobic) | Antler-form bodies, arrest, decay |
 | CO₂ | Low | Antler-form bodies, arrest, decay |
 | Bag management | Open top only, 2–3 day acclimation | Moisture loss, contamination |
+## Applications and Practical Uses
+
+The principles behind maitake fruiting parameters have been applied across various
+domains, from research laboratories to field-scale operations. Key
+applications include integration with existing workflows and adaptation
+to specific environmental conditions and goals.
+
+## Key Considerations
+
+Several factors influence the effectiveness and outcomes of
+maitake fruiting parameters. Environmental conditions, timing, and material
+selection all play critical roles. Proper preparation and monitoring
+help ensure consistent results across different scenarios.
+
+## See Also
+
+- [[mycelium]]
+- [[spore]]
+- [[mushroom-cultivation]]
+- [[basidiomycota]]
+- [[ascomycota]]

@@ -64,7 +64,7 @@ species and numerous subspecies of *Colletotrichum* are recognized (Sutton
   observed in nature or culture.
 
 - **Species Complex:** *C. gloeosporioides* is now recognized as a species
-  complex containing multiple cryptic species that differ in host range and
+  complex containing multiple [[cryptic-species]] that differ in host range and
   geographic distribution. Modern taxonomy uses multilocus sequence analysis to
   resolve species boundaries.
 

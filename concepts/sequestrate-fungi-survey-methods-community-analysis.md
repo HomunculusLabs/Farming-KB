@@ -123,7 +123,7 @@ and forbs typically return to pre-disturbance levels 1–2 years after sampling.
 
 - Cain, S. A., and de Castro Oliveira, G. O. 1959. *Manual of vegetation analysis.*
 - Claridge, A. W., et al. 2000. Time-constrained search methodology for sequestrate fungi.
-- Dahlberg, A., and Stenlid, J. 1994. Spatiotemporal dynamics of *Suillus bovinus*.
+- Dahlberg, A., and Stenlid, J. 1994. Spatiotemporal dynamics of *[[suillus-bovinus]]*.
 - Eberhart, J. L., et al. 1996. Ectomycorrhizal morphological types from soil cores.
 - Egli, S., et al. 1997. Species diversity and long-term sampling intensity.
 - Fogel, R. 1976. Ecological studies of hypogeous fungi. First quantitative assessment.
@@ -139,7 +139,7 @@ and forbs typically return to pre-disturbance levels 1–2 years after sampling.
 - Molina, R., et al. 1994. Host specificity and stand age effects on sequestrate species.
 - Mueller-Dombois, D., and Ellenberg, H. 1974. *Aims and methods of vegetation ecology.*
 - O'Dell, T. E., et al. 1999. Stratified random placement of permanent strip plots.
-- Richardson, M. J. 1970. Studies on *Russula emetica* and other agarics.
+- Richardson, M. J. 1970. Studies on *[[russula-emetica]]* and other agarics.
 - Stafford, R. 1985. Statistical considerations in sporocarp production studies.
 - States, J. S. 1985. Clustering of fungal sporocarps.
 - Vogt, K. A., et al. 1981. Hypogeous sporocarp biomass in *Abies amabilis* stands.

@@ -74,7 +74,7 @@ Effective inventories require **well-planned research with clearly stated goals*
 ### Project Execution
 
 - Careful specimen collection following established protocols.
-- Comprehensive documentation: written descriptions, photographs, spore prints, cultures, macrochemical tests.
+- Comprehensive documentation: written descriptions, photographs, [[spore]] prints, cultures, macrochemical tests.
 - Specimen preservation through proper drying and storage.
 - Archiving voucher specimens and data in **recognized herbaria**.
 - Prioritization of specimen processing (not all equally ephemeral or useful).
@@ -103,7 +103,7 @@ Macrofungal monitoring is a more recent undertaking, valuable for detecting **an
 
 ### What Are Lichens?
 
-Lichens are **composite organisms** of a **fungal partner (mycobiont)** and a **photosynthetic partner (photobiont)** forming a **coherent thallus**. Through symbiosis, lichenized fungi pursue an **autotrophic, photosynthetic lifestyle** like plants. They are more physically compact, spatially circumscribed, and distinguishable from their substratum than other fungi, making them the subject of **far more quantitative sampling studies** than any other fungal group.
+[[lichens]] are **composite organisms** of a **fungal partner (mycobiont)** and a **photosynthetic partner (photobiont)** forming a **coherent thallus**. Through symbiosis, lichenized fungi pursue an **autotrophic, photosynthetic lifestyle** like plants. They are more physically compact, spatially circumscribed, and distinguishable from their substratum than other fungi, making them the subject of **far more quantitative sampling studies** than any other fungal group.
 
 ### Diversity
 

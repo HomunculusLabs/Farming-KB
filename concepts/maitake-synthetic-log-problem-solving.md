@@ -141,13 +141,6 @@ invest in cooling systems, while those in colder regions need reliable heating
 to maintain this narrow band throughout the fruiting cycle.
 
 ## References
-
-- Chalmers, R. 1994. *Growing Maitake commercially.*
-- Stamets, P. 1993. *Growing Gourmet and Medicinal Mushrooms.* 3rd ed.
-- Huang, N.-L. 1997. Maitake cultivation research.
-- Wu, J.-Z. et al. 1997. Maitake fruiting temperature studies.
-- Royse, D.J. & Guardino, F. 1997. Cultivation of Grifola frondosa.
-
 ## See Also
 
 - [[grifola-frondosa]]

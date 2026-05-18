@@ -104,7 +104,7 @@ and horticultural damage worldwide.
   mildews particularly destructive during cool, wet growing seasons.
 
 The genus **Peronospora** is the largest, with approximately **260 species** parasitizing a wide
-range of dicotyledonous plants. Other important genera include *Plasmopara* (grape downy mildew),
+range of dicotyledonous plants. Other important genera include *Plasmopara* (grape [[downy-mildew]]),
 *Bremia* (lettuce), and *Pseudoperonospora* (cucurbits). *Plasmopara viticola* caused the
 devastating French wine crisis of the 1870s and spurred the development of modern plant pathology.
 
@@ -148,30 +148,3 @@ or weak pathogens:
 - ***Botrytis***: Necrotrophic gray mold pathogens; *B. cinerea* affects hundreds of crop species
   in both field and post-harvest settings, making it one of the most economically important plant
   pathogens globally.
-
-## Leaf-Spotting Fungi
-
-Leaf-spotting fungi are a polyphyletic assemblage causing discrete necrotic lesions on leaves,
-especially diverse in **tropical regions**. In **temperate regions**, they are major contributors
-to autumnal foliage diseases and forest decline. Notable groups include *Cercospora* and allies
-(Mycosphaerellaceae), *Phyllosticta* (Phyllostictaceae), *Septoria* (Mycosphaerellaceae), and
-*Pestalotiopsis* (Pestalotiopsidaceae). Many are host-specific; identification often requires
-examination of conidiomata, conidial morphology, and sometimes molecular sequence data.
-
-## Needle-Cast Fungi
-
-On **conifers**, specialized ascomycetes known as needle-cast fungi cause premature needle
-shedding. They colonize pines, spruces, firs, and other coniferous hosts, producing fruiting
-bodies (ascostromata or apothecia) that release spores to infect new foliage. Important genera
-include *Lophodermium*, *Rhabdocline*, and *Hypodermella*. Needle-cast diseases can significantly
-reduce growth and timber yield in managed and natural forests, particularly in plantation settings
-where monoculture conditions amplify disease impact.
-
-## Ecological Significance
-
-Foliar and leaf surface fungi are integral components of the **phyllosphere ecosystem**. They
-influence decomposition rates, mediate plant-insect interactions (as in sooty mold–honeydew
-relationships), contribute to plant disease dynamics, and serve as food sources for fungivorous
-arthropods. Their diversity and community composition are sensitive indicators of environmental
-change, air quality, and habitat integrity. Understanding these fungi is essential for agriculture,
-forestry, conservation biology, and climate science.

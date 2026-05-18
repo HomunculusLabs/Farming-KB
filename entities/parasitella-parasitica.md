@@ -42,7 +42,6 @@ tags: [zygomycete, mycoparasite, gall-forming, horizontal-gene-transfer, mucoral
 - **Morphological convergence:** The HGT mechanism may explain cases where mycoparasites (e.g., tremelloid fungi) show morphological similarities to their hosts, previously attributed to convergent evolution.
 - **Genetic research:** The sikyotic cell interface provides a model for studying intercellular communication and genetic exchange in fungi.
 
-
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
 - The page title is Parasitella parasitica.
@@ -93,7 +92,7 @@ tags: [zygomycete, mycoparasite, gall-forming, horizontal-gene-transfer, mucoral
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
 - If taxonomy has changed, record the older name as historical context only when the source supports it.
-- If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
+- If cultivation relevance is uncertain, keep the statement framed as relevance to [[mycology]] rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
 

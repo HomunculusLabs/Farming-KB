@@ -14,7 +14,7 @@ the primary reproductive and dispersal structure. They are obligate or facultati
 parasites that infect angiosperms, with a strong host preference for grasses (Poaceae) and
 sedges (Cyperaceae). Smut fungi are among the most economically and ecologically important
 groups of plant pathogenic fungi, responsible for significant crop losses worldwide while
-also representing a vast and incompletely catalogued component of global fungal biodiversity.
+also representing a vast and incompletely catalogued component of global [[fungal-biodiversity]].
 
 ## Morphology and Life History
 
@@ -57,7 +57,7 @@ enlarged or discolored seeds rather than the typical powdery mass. *Tilletia tri
 and *T. laevis* (covered and loose smut of wheat) are among the most agriculturally
 damaging smut fungi.
 
-**Ustilago maydis** (corn smut / huitlacoche) induces large tumor-like growths on the
+**[[ustilago-maydis]]** (corn smut / huitlacoche) induces large tumor-like growths on the
 ears, tassels, stalks, and leaves of maize. These galls consist of distorted host tissue
 filled with dark teliospores. *U. maydis* is also valued as a culinary delicacy in
 Mexican cuisine, where young galls are harvested before spore maturation.

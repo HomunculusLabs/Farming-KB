@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Arbuscular mycorrhizal (AM) fungi are mutualistic endomycorrhizal fungi that form symbiotic associations with the roots of most terrestrial plants. Their characterization involves detailed morphological analysis of spores, mycorrhizal structures, and ecological context. Because these fungi cannot be cultured independently of a host plant, accurate identification relies heavily on spore morphology and established reference collections. The archiving of specimens and cultures is critical for reproducible taxonomy and long-term research.
+Arbuscular mycorrhizal (AM) fungi are mutualistic [[endomycorrhizal-fungi]] that form symbiotic associations with the roots of most terrestrial plants. Their characterization involves detailed morphological analysis of spores, mycorrhizal structures, and ecological context. Because these fungi cannot be cultured independently of a host plant, accurate identification relies heavily on [[spore]] morphology and established reference collections. The archiving of specimens and cultures is critical for reproducible taxonomy and long-term research.
 
 ## Spore Collection and Trap Cultures
 
@@ -147,8 +147,3 @@ Key unanswered questions include:
 - The relationship between taxonomic diversity and functional diversity in AM fungal communities
 - The role of molecular techniques in detecting individual species within roots and bulk soil
 - Identification of indicator taxa sensitive to edaphic and environmental changes for ecosystem health monitoring
-
-## Related
-
-- [[singh-arbuscular-mycorrhizal-spore-identification]]
-- [[arbuscular-mycorrhizal-species-characterization]]

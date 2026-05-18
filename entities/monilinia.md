@@ -103,7 +103,7 @@ bodies) from sclerotia or mummified fruit. Related genera include
 
 - Fruit orchards affected by *Monilinia* brown rot may provide **compost
   substrate material** (prunings, fallen fruit) that should be thoroughly
-  composted before use in mushroom cultivation
+  composted before use in [[mushroom-cultivation]]
 - Mummified fruit on the ground can harbor viable *Monilinia* inoculum;
   proper composting temperatures (60°C+) will destroy the pathogen
 - The Sclerotiniaceae family, which includes *Monilinia*, represents an
@@ -134,11 +134,9 @@ bodies) from sclerotia or mummified fruit. Related genera include
   interactions**, **postharvest pathology**, and **sclerotium biology**
 - The mummy berry system (*M. vaccinii-corymbosi*) is studied for
   insights into **floral mimicry** by pathogens and the chemical
-  ecology of pollinator attraction to diseased tissues
-
 ## See Also
 
-- [Botrytis cinerea](botrytis-cinerea.md) (gray mold)
+- [[botrytis-cinerea]](botrytis-cinerea.md) (gray mold)
 - [Colletotrichum gloeosporioides](colletotrichum-gloeosporioides.md) (anthracnose)
 - [Claviceps purpurea](claviceps-purpurea.md) (ergot — also produces sclerotia)
 

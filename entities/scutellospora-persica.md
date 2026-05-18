@@ -9,7 +9,7 @@ tags: [fungi, glomales, arbuscular-mycorrhizae, amf, species, scutellospora]
 
 ## Description
 
-Scutellospora persica is a species of arbuscular mycorrhizal fungus (AMF) in the genus Scutellospora, family Gigasporaceae, order Glomales. The species is notable in the history of AMF taxonomy because the originally described species Gigaspora tuberculata was found to be synonymous with S. persica after detailed morphological comparison revealed that the type specimens of G. tuberculata were parasitized spores with abnormal ornamentation.
+Scutellospora persica is a species of arbuscular mycorrhizal fungus (AMF) in the genus Scutellospora, family Gigasporaceae, order [[glomales]]. The species is notable in the history of AMF taxonomy because the originally described species Gigaspora tuberculata was found to be synonymous with S. persica after detailed morphological comparison revealed that the type specimens of G. tuberculata were parasitized spores with abnormal ornamentation.
 
 ## Classification
 
@@ -63,12 +63,11 @@ The synonymization of Gigaspora tuberculata with Scutellospora persica carries i
 - Auxiliary cells produced on external hyphae, not within roots.
 - Best identified from healthy spores produced in pot cultures.
 
-
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
 - The page title is Scutellospora persica.
 - Its recorded source is unknown-biodiversity-of-fungi.md.
-- Existing tags on the page are [fungi, glomales, arbuscular-mycorrhizae, amf, species, scutellospora].
+- Existing tags on the page are [fungi, glomales, [[arbuscular-mycorrhizae]], amf, species, scutellospora].
 - The description section defines the scope of the note.
 - The classification section records the placement already present on the page.
 - The key facts section should remain the main checklist for future review.

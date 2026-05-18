@@ -35,10 +35,9 @@ tags: [zygomycete, obligate-mycoparasite, biotroph, haustorial, mucorales-parasi
 
 *Piptocephalis* is ecologically significant as a regulator of Mucorales populations in soil:
 - **Biocontrol potential:** Could theoretically suppress undesirable Mucorales (e.g., *Rhizopus* species causing post-harvest rots), though practical applications are limited by its obligate biotrophy.
-- **Fungal ecology:** Illustrates the complexity of fungal community interactions, where even primary decomposers (Mucorales) have their own specialized parasites.
+- **[[fungal-ecology]]:** Illustrates the complexity of fungal community interactions, where even primary decomposers (Mucorales) have their own specialized parasites.
 - **Evolutionary biology:** The biotrophic haustorial interface in *Piptocephalis* represents one of the most intimate fungal-fungal interactions and is a model for understanding the evolution of parasitism.
 - **Cultivation systems:** In [[mushroom-cultivation]], Mucorales are common early colonizers of substrate; *Piptocephalis* may naturally occur in substrates and influence the succession of fungal communities.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -96,7 +95,7 @@ tags: [zygomycete, obligate-mycoparasite, biotroph, haustorial, mucorales-parasi
 
 ## References
 
-- Gams, W. et al. "Fungicolous Fungi" in *Biodiversity of Fungi*
+- Gams, W. et al. "[[fungicolous-fungi]]" in *Biodiversity of Fungi*
 - Jeffries, P. and Young, T.W.K. (1994). Interfungal Parasitic Relationships
 - Benjamin, R.K. (1979). Merosporangiferous Mucorales
 - Evans, E.H. et al. (1981). Trehalase activity in *Piptocephalis*

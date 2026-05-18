@@ -93,7 +93,6 @@ connects rust mycoparasitism with [[entomopathogenic-fungi-biocontrol-mycopestic
 though practical use still depends on host specificity, crop safety, and field
 persistence.
 
-
 ## Mechanisms of Attack
 
 Rust mycoparasites use overlapping mechanisms:

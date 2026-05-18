@@ -40,7 +40,7 @@ on direct cytoplasmic connections.
 **Necrotrophic mycoparasitism:** The parasite kills host cells before or during
 colonization, absorbing nutrients from dead tissue. Necrotrophs release toxins
 and lytic enzymes — particularly chitinases — into the environment. Examples:
-*Trichoderma* spp., *Talaromyces flavus*, *Schizophyllum commune*.
+*Trichoderma* spp., *[[talaromyces-flavus]]*, *Schizophyllum commune*.
 
 **Intermediate forms:** The binary distinction is an oversimplification. A
 semi-biotrophic mode (biotrophic organisms later becoming necrotrophic or
@@ -148,7 +148,3 @@ specialized. The fungicolous habit is common in Chytridiomycota, Oomycota,
 Hyphochytridiomycota, and Tremellales. Obligate parasitism may be a primitive
 trait from which saprotrophic subgroups arose repeatedly; specific
 parasite-host associations are products of long coevolution.
-
-## Related
-
-- [[fungicolous-fungi-mycoparasitism-and-host-interactions]]

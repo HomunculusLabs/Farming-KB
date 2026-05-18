@@ -23,7 +23,7 @@ Nectriopsis is a genus of [[fungicolous-fungi]] in the family Bionectriaceae (Hy
 ## Key Species
 
 - **N. violacea** — Found exclusively on Fuligo species (myxomycetes). One of the more host-specific members of the genus. Belongs to the group that parasitizes calcium-rich fructifications of the Physarales.
-- **N. exigua** (anamorph Verticillium rexianum) — One of the most ubiquitous myxomyceticolous species, recorded from all major groups of slime molds. Found exclusively on sporocarps of myxomycetes.
+- **N. exigua** (anamorph Verticillium rexianum) — One of the most ubiquitous myxomyceticolous species, recorded from all major groups of [[slime-molds]]. Found exclusively on sporocarps of myxomycetes.
 - **N. tubariicola** — Found on agarics, probably also a member of the Bionectriaceae.
 - **N. discophila** — Found on Lachnum species (discomycetes).
 - **N. albidopilosa** — Found on inoperculate discomycetes.

@@ -9,7 +9,7 @@ tags: [basidiomycete, biocontrol, aphyllophorales, mycoparasite, forest-pathogen
 
 ## Description
 
-*Phlebiopsis gigantea* (syn. *[[peniophora-gigantea]]*) is a corticioid basidiomycete fungus widely used as a biological control agent against *Heterobasidion annosum* (syn. *Fomes annosus*), the causal agent of annosus root rot in conifers. *P. gigantea* is one of the most successful examples of fungal biocontrol in forestry, commercially formulated and applied to freshly cut conifer stumps to prevent colonization by *H. annosum*. The species is also notable for its hyphal interference mechanism — it causes cytoplasmic disruption of competing fungi at close range.
+*Phlebiopsis gigantea* (syn. *[[peniophora-gigantea]]*) is a corticioid basidiomycete fungus widely used as a biological control agent against *[[heterobasidion-annosum]]* (syn. *Fomes annosus*), the causal agent of annosus root rot in conifers. *P. gigantea* is one of the most successful examples of fungal biocontrol in forestry, commercially formulated and applied to freshly cut conifer stumps to prevent colonization by *H. annosum*. The species is also notable for its hyphal interference mechanism — it causes cytoplasmic disruption of competing fungi at close range.
 
 ## Classification
 
@@ -39,7 +39,6 @@ tags: [basidiomycete, biocontrol, aphyllophorales, mycoparasite, forest-pathogen
 - **Mushroom cultivation:** Demonstrates the principle of competitive biological control — using a benign fungus to preempt a pathogenic one. This principle can be applied in mushroom cultivation to prevent contamination.
 - **Hyphal interference research:** *P. gigantea* is a model organism for studying non-contact antagonistic interactions between fungi, relevant to understanding substrate competition in all fungal cultivation systems.
 - **Wood substrate management:** For cultivators working with wood-based substrates (shiitake, oyster mushrooms), understanding the natural community of wood-decomposing fungi including *P. gigantea* informs substrate treatment and competitor management.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

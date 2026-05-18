@@ -78,3 +78,24 @@ Across the 2C-T series, Shulgin observed clear structure-activity relationships:
 The 2C-T series compounds are synthesized from 2,5-dimethoxybenzaldehyde via electrophilic substitution with the appropriate thiol reagent, followed by the standard nitrostyrene formation and reduction pathway common to all 2C compounds.
 
 See also: [[2c-family-compounds-overview]], [[2c-b-compound-profile]], [[2c-e-compound-profile]], [[phenethylamine-chemistry-basics]], [[phenethylamine-synthesis-safety]]
+## Benefits and Limitations
+
+2C T 2 Compound Profile offers several advantages in practice, including adaptability to
+different conditions and compatibility with related approaches. However,
+limitations exist depending on context, scale, and available resources.
+Understanding both helps practitioners set realistic expectations and plan
+appropriate strategies for implementation.
+
+## Related Methods and Approaches
+
+Several complementary approaches exist alongside 2c t 2 compound profile, each
+offering unique advantages for specific situations. Comparative evaluation
+of these methods helps identify the most suitable option given available
+resources, environmental constraints, and desired outcomes. Combining
+multiple approaches often yields synergistic benefits.
+
+## See Also
+
+- [[mycelium]]
+- [[spore]]
+- [[companion-planting]]

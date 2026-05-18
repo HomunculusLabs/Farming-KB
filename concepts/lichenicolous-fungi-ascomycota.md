@@ -145,9 +145,3 @@ Lichenicolous fungi are ecologically important for several reasons:
 - **Drivers of lichen evolution** — Host-parasite coevolutionary dynamics may promote diversification in both lichenized and lichenicolous lineages.
 - **Nutrient cycling** — Saprotrophic lichenicolous fungi contribute to decomposition of lichen biomass in forest and tundra ecosystems.
 - **Conservation relevance** — Specialized lichenicolous fungi face elevated extinction risk when their host lichens decline, necessitating their inclusion in conservation assessments.
-
-## See Also
-
-- Lichenicolous fungi of the Basidiomycota
-- Lichen symbiosis and nutritional modes
-- Fungal biodiversity estimation methods

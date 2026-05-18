@@ -141,11 +141,6 @@ the culture collection accession number |
   Fungal Names. CABI.
 - **Index Herbariorum** — Thiers, B. (continuously updated). New York Botanical
   Garden. http://sweetgum.nybg.org/ih/
-- **International Code of Nomenclature for algae, fungi, and plants (ICN)** —
-  Turland, N.J. et al. (2018). Regnum Vegetabile 159.
-- **Darwin Core** — Wieczorek, J. et al. (2012). Darwin Core: an evolving
-  community-developed biodiversity data standard. *PLoS ONE* 7(1): e29715.
-
 ## See Also
 
 - [[mycorrhiza]]

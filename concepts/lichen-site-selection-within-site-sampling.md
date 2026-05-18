@@ -103,7 +103,7 @@ The **indicator-species approach is not recommended** for baseline biodiversity 
 | **"Pin-lichens"** (former Caliciales) | Indicate long continuous occupation by old-growth forest in northern temperate/boreal regions | Tibell 1992; Selva 1994 |
 | **Ground lichens** | Indicators of ecosystem function in grassland/steppe | Anderson et al. 1982; Brotherson et al. 1983; Rosentreter 1986; Eldridge and Tozer 1996 |
 
-Selva (1994) defined a forest continuity indicator species group for northeastern North America. *Lobaria pulmonaria* is a particularly notable species with both green algal and cyanobacterial photobionts, nitrogen-fixing capability, old-growth association, and air pollution sensitivity.
+Selva (1994) defined a forest continuity indicator species group for northeastern North America. *[[lobaria-pulmonaria]]* is a particularly notable species with both green algal and cyanobacterial photobionts, nitrogen-fixing capability, old-growth association, and air pollution sensitivity.
 
 ## Habitat Information
 

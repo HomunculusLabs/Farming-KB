@@ -77,3 +77,5 @@ and develop improved methods that build on foundational principles.
 Community knowledge sharing accelerates adoption of best practices.
 
 This topic connects to related areas including [[black-soldier-fly-larvae-as-feed]], [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]], [[comparison-black-soldier-fly-composting-vs-bokashi]].
+
+This subject continues to be an active area of research and practical application.

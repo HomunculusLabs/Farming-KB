@@ -48,13 +48,13 @@ Tilletiopsis is an anamorphic genus of fungi in the Ustilaginomycetes ([[basidio
 2. **Contact and attachment:** Hyphae grow toward and contact powdery mildew hyphae
 3. **Penetration:** The parasite penetrates host cells, causing rapid vacuolization and collapse
 4. **Nutrient extraction:** Degraded host contents are absorbed by the parasite
-5. **Sporulation:** Tilletiopsis produces new blastoconidia on the collapsed host mycelium
+5. **Sporulation:** Tilletiopsis produces new blastoconidia on the collapsed host [[mycelium]]
 
 ## Relevance to Cultivation and Agriculture
 
 - **Biocontrol agent:** Tilletiopsis species are among the most promising fungal biocontrol agents against powdery mildews, which cause enormous agricultural losses worldwide
 - **Reduced pesticide use:** Effective Tilletiopsis-based biocontrol could reduce reliance on chemical fungicides
-- **Integrated pest management:** Compatible with other biocontrol strategies in agricultural systems
+- **[[integrated-pest-management]]:** Compatible with other biocontrol strategies in agricultural systems
 - **Research model:** Studied extensively as a model for basidiomycete mycoparasitism of plant pathogens
 
 ## Key References

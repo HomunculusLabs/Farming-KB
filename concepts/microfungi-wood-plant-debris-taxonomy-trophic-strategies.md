@@ -33,7 +33,7 @@ The zygomycetes that coexist with other plant-inhabiting microfungi are species 
 ## Groups Excluded (Treated in Other Chapters)
 
 1. **Lichenized ascomycetes** encountered on plant surfaces (Chapter 9)
-2. **Lichenicolous and fungicolous fungi** treated together as fungicolous fungi (Chapter 17). Many fungi gaining nutrition from other microfungi will be sampled using the protocols described in this chapter.
+2. **Lichenicolous and [[fungicolous-fungi]]** treated together as fungicolous fungi (Chapter 17). Many fungi gaining nutrition from other microfungi will be sampled using the protocols described in this chapter.
 3. **Chytridiomycota**: some encountered on aquatic plants and plant detritus (Chapter 23); others found in soil (Chapter 13) or associated with living terrestrial plants (Chapter 7)
 4. **Oomycota**: almost all found either associated with living plant tissue (Chapter 7) or in soil or sediment samples (Chapters 13 and 23)
 5. **Myxomycota** (Chapter 25)
@@ -84,7 +84,7 @@ It may be years before plant debris decays fully and its residues are incorporat
 
 ## Life Strategies
 
-Concepts of life strategies in fungi have been derived largely from the work of Grime (1977, 1979) on higher plants. First brought to the attention of mycologists by Pugh (1980), they subsequently were accepted, modified, and extended by Cooke and Rayner (1984) and Andrews (1992) and summarized by Dix and Webster (1995). Pugh and Boddy (1988) emphasized that trophic nutritional types, which may change at different phases of growth, should not be used to classify fungi. Rather, they should be used to define behaviors shown at particular stages of fungal life cycles because their behaviors may change according to different phases of growth.
+Concepts of life strategies in fungi have been derived largely from the work of Grime (1977, 1979) on higher plants. First brought to the attention of mycologists by Pugh (1980), they subsequently were accepted, modified, and extended by Cooke and Rayner (1984) and Andrews (1992) and summarized by Dix and Webster (1995). Pugh and Boddy (1988) emphasized that trophic nutritional types, which may change at different phases of growth, should not be used to classify fungi. Rather, they should be used to define behaviors shown at particular stages of [[fungal-life-cycles]] because their behaviors may change according to different phases of growth.
 
 ### Ruderal
 

@@ -55,7 +55,7 @@ Smut fungi are classified in part by the location and morphology of sori on the 
 
 ### Notable Species
 
-**Ustilago maydis** (corn smut / huitlacoche) induces large tumor-like galls on the
+**[[ustilago-maydis]]** (corn smut / huitlacoche) induces large tumor-like galls on the
 ears, tassels, stalks, and leaves of maize (*Zea mays*). Young galls are harvested
 as a culinary delicacy in Mexican cuisine, and *U. maydis* serves as a model
 organism for studying plant–pathogen interactions at the molecular level.
@@ -145,14 +145,6 @@ their conspicuous above-ground occurrence and impact on plant health.
 
 Smut fungi and related plant pathogens occupy a critical position at the intersection
 of plant pathology, fungal systematics, and biodiversity science. Smut fungi cause
-substantial yield losses in cereal crops worldwide. Powdery mildews are among the
-most common diseases of ornamental plants, cereals, and fruit crops. The host
-specificity of these fungi makes them valuable indicators of plant community
-composition and ecosystem integrity. The substantial gap between described and
-estimated species numbers — particularly in tropical and subtropical regions —
-underscores the need for intensified biodiversity survey efforts to fully document
-this ecologically important component of the global mycota.
+## See Also
 
-## Related
-- [[smut-fungi-grass-cereal-parasites]]
-- [[smut-fungi-guide]]
+- [[basidiomycota]]

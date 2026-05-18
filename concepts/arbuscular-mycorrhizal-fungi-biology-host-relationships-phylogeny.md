@@ -22,7 +22,7 @@ AM fungi possess a **coenocytic mycelium**—multinucleate hyphae lacking regula
 
 ### Clonal Reproduction via Mitospores
 
-Most evidence, including genetic analyses by Rosendahl and Taylor (1997), indicates that AM fungi reproduce primarily through **clonal reproduction via mitospores**. Sexual reproduction has been reported in only one instance: Tommerup and Sivasithamparam (1990) claimed sexual reproduction in *Gigaspora decipiens*, but this finding has not been broadly corroborated and remains controversial within the field. Despite the absence of confirmed sexual recombination, genetic variation is expected in these asexual organisms as a result of local and regional selection pressures (Morton 1990b, 1999).
+Most evidence, including genetic analyses by Rosendahl and Taylor (1997), indicates that AM fungi reproduce primarily through **clonal reproduction via mitospores**. Sexual reproduction has been reported in only one instance: Tommerup and Sivasithamparam (1990) claimed sexual reproduction in *[[gigaspora-decipiens]]*, but this finding has not been broadly corroborated and remains controversial within the field. Despite the absence of confirmed sexual recombination, genetic variation is expected in these asexual organisms as a result of local and regional selection pressures (Morton 1990b, 1999).
 
 ### Sporulation Dynamics
 

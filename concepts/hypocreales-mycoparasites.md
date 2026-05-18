@@ -6,7 +6,7 @@ type: concept
 
 # Hypocreales Mycoparasites
 
-The order Hypocreales is one of the most important groups of fungicolous fungi, encompassing the families Hypocreaceae, Nectriaceae, Bionectriaceae, Clavicipitaceae, and Niessliaceae. A large proportion of hypocrealean fungi are mycoparasitic or mycosaprotrophic, a fact often underrecognized. They are extremely versatile in their abilities to exploit fungal substrata.
+The order Hypocreales is one of the most important groups of [[fungicolous-fungi]], encompassing the families Hypocreaceae, Nectriaceae, Bionectriaceae, Clavicipitaceae, and Niessliaceae. A large proportion of hypocrealean fungi are mycoparasitic or mycosaprotrophic, a fact often underrecognized. They are extremely versatile in their abilities to exploit fungal substrata.
 
 ## Hypocreaceae
 
@@ -16,7 +16,7 @@ The genus *Hypocrea* is reported less frequently as a mycoparasite than its anam
 
 **[[trichoderma-harzianum]]** serves as both a beneficial biocontrol agent of plant pathogens and, in genetically distinct strains, an aggressive competitor of the cultivated mushroom. Accurate strain reference in experiments is therefore crucial. *T. harzianum* produces a volatile alkyl pyrone identified as a fungal inhibitor (Claydon et al. 1987).
 
-**Trichoderma virens** (formerly classified in *Gliocladium*) was redescribed and is best classified as *T. aggressivum* fide Bissett (1991b) and Rehner & Samuels (1994). It produces **gliotoxin**, which has a very specific fungitoxic effect.
+**[[trichoderma-virens]]** (formerly classified in *Gliocladium*) was redescribed and is best classified as *T. aggressivum* fide Bissett (1991b) and Rehner & Samuels (1994). It produces **gliotoxin**, which has a very specific fungitoxic effect.
 
 ### Peptaibols and Secondary Metabolites
 

@@ -33,7 +33,7 @@ Taphrina is a genus of biotrophic microfungi in the order Taphrinales (phylum As
 
 ## Relevance to Cultivation and Mycology
 
-- Taphrina deformans (peach leaf curl) is an economically important disease in stone fruit orchards worldwide.
+- Taphrina deformans ([[peach-leaf-curl]]) is an economically important disease in stone fruit orchards worldwide.
 - The genus provides a unique model for studying dimorphism in fungi, switching between yeast and filamentous growth phases.
 - Taphrina species represent one of the earliest-diverging lineages of the Ascomycota, offering insights into the evolution of ascomycete fruiting bodies and parasitic strategies.
 - The lack of specialized fruiting bodies (ascomata) in Taphrina is an important taxonomic and evolutionary character.
@@ -41,7 +41,6 @@ Taphrina is a genus of biotrophic microfungi in the order Taphrinales (phylum As
 ## Ecological Context
 
 Taphrina species are primarily temperate in distribution and demonstrate a high degree of host specificity. Their effects on host plants range from conspicuous hypertrophic symptoms (galls, witches' brooms) to more subtle leaf spots that may be overlooked. The yeast phase allows saprobic survival on plant surfaces between growing seasons, bridging the gap between obligate biotrophy and saprobic existence.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

@@ -44,7 +44,7 @@ Key research questions include: species-area curves for different environments a
 | Mathiassen (1993) | Scandinavia | Pyrenomycetes on woody substrata |
 | Renvall (1995) | Scandinavia | Wood-rotting basidiomycetes |
 | Heilmann-Clausen (2001) | Denmark | Beech logs (Fagus) |
-| Ryvarden and Nuñez (1992) | Tropical | Polypore diversity |
+| Ryvarden and Nuñez (1992) | Tropical | [[polypore]] diversity |
 | Lindblad (2000–2001) | Tropical | Polypore ecology |
 | Heinrich and Wojewoda (1976) | Europe | Air pollution effects on wood fungi |
 
@@ -114,7 +114,7 @@ A standardized protocol ensures comparability across studies. Five categories sh
 | 1 | Hard / not decayed |
 | 2 | Hard but decayed (discolored or not) |
 | 3 | Softened / punky (typically white rot) |
-| 4 | Well decayed / humus-like (typically brown rot) |
+| 4 | Well decayed / [[humus]]-like (typically brown rot) |
 
 ### 5. Bark Condition
 

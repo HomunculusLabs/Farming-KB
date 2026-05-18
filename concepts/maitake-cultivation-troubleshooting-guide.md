@@ -141,24 +141,6 @@ G. frondosa is a highly aerobic mushroom of considerable size. Inadequate aerati
 
 ## Quick Reference: Problem-Solving Checklist
 
-| Symptom | Most Likely Cause | First Action |
-|---------|-------------------|--------------|
-| No fruiting | Poor strain genetics | Replace with proven fruiting strain |
-| Slow colonization | Low spawn rate or poor aeration | Increase spawn, check sawdust ratio |
-| No primordia | Wrong light or overly thick coat | Adjust light to ~50 lux, check spawn run duration |
-| Primordia die | Bag opened too early or overcrowding | Wait for 2.5–5 cm primordia before opening |
-| Arrested primordia | Bag opened too late | Open bags when primordia reach proper size |
-| Abnormal morphology | Temperature out of range | Verify strain-specific temperature requirements |
-| Low yield | Multiple factors | Audit all parameters: strain, substrate, aeration, temperature |
-
-## References
-
-- Stamets, P. 1993. Growing Gourmet and Medicinal Mushrooms. Ten Speed Press.
-- Chalmers, W. 1994. Cultivation of the Maitake Mushroom. Mushroom World.
-- Huang, N.L. 1997. Japanese Grifola frondosa. Chinese Agricultural Press.
-- Royse, D.J. and Guardino, J. 1997. Specialty Mushrooms: Enokitake and Maitake.
-- Wu, J.L. et al. 1997. Grifola frondosa cultivation techniques. Chinese Agricultural Press.
-
 ## See Also
 
 - [[grifola-frondosa]]

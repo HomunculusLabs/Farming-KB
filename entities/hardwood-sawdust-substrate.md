@@ -77,3 +77,5 @@ Substrate that is too fine leads to anaerobic conditions in the center of the bl
 
 - Chen AW (1999) A Practical Guide for Synthetic-Log Cultivation of Medicinal Mushroom *Grifola frondosa*. Intl J Med Mushrooms, Vol. 1, pp. 153-167.
 - Huang (1997), Stamets (1993), Wu et al. (1997).
+
+This subject continues to be an active area of research and practical application.

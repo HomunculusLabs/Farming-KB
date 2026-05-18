@@ -8,7 +8,7 @@ type: concept
 
 ## Describing Macromorphological Features (continued)
 
-Accurate documentation of macromorphological features is fundamental to fungal taxonomy and biodiversity assessment. Proper equipment ensures consistent, reproducible descriptions.
+Accurate documentation of macromorphological features is fundamental to [[fungal-taxonomy]] and biodiversity assessment. Proper equipment ensures consistent, reproducible descriptions.
 
 ### Essential Equipment
 
@@ -31,7 +31,7 @@ The minimum field and laboratory kit for describing macrofungal features include
 Consistent use of standardized color names is essential for meaningful communication of macromorphological descriptions. Common color guides include:
 
 - **Ridgway (1912)** — *Color Standards and Color Nomenclature*; historically important
-- **Kornerup and Wanscher (1978)** — *Methuen Handbook of Colour*; widely used in mycology
+- **Kornerup and Wanscher (1978)** — *Methuen Handbook of Colour*; widely used in [[mycology]]
 - **Munsell (1966)** — *Munsell Book of Color*; the most comprehensive system, but expensive
 - **Rayner (1970)** — *A Mycological Colour Chart*; designed specifically for fungal specimens
 - **Maerz and Paul (1950)** — *A Dictionary of Color*; general reference
@@ -148,7 +148,3 @@ The first step in identifying an unknown fungus is **assignment to family**, whi
 **Xylariaceous fungi:** Dennis (1956–1970), Ju and Rogers (1996), Laessøe et al., Petrini (1992), Rappaz (1995), Rogers et al. (1987–1988), San Martín-González and Rogers (1989–1993).
 
 **Discomycetes:** Breitenbach and Kränzlin (1984), Dennis (1970, 1978), Gamundi (1979), Le Gal (1953, 1959), Korf (1973), Rifai (1968), Seaver (1942, 1951).
-
-## Related
-- [[macrofungal-documentation-photography-spore-prints]]
-- [[macrofungal-sampling-methods]]

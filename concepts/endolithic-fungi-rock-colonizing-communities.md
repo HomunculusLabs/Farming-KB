@@ -78,3 +78,10 @@ to inform current best practices and research directions.
 - [[det]]
 - [[mycorrhiza]]
 - [[gadd-rock-dwelling-fungi-epilithic-endolithic-classification]]
+## Research Context
+
+Research on endolithic fungi rock colonizing communities continues to evolve with new findings emerging from
+both laboratory studies and field observations. Current investigations focus on
+optimizing parameters, understanding underlying mechanisms, and documenting
+outcomes across diverse conditions and geographic regions. Published literature
+suggests multiple pathways for further exploration and refinement.

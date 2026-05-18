@@ -7,7 +7,7 @@ type: concept
 # Endophytic Fungi — Distribution Patterns, Tissue Specificity, and Screening Methods
 
 [[endophytic-fungi]] inhabit healthy plant tissues without causing apparent disease symptoms. Their
-distribution, tissue specificity, and screening methods are fundamental topics in fungal ecology.
+distribution, tissue specificity, and screening methods are fundamental topics in [[fungal-ecology]].
 
 ## Spatial and Temporal Distribution
 
@@ -22,7 +22,7 @@ distribution in woody hosts, adding vertical and developmental dimensions to spa
 ### Community Structure and Consistency
 
 Foliar endophyte assemblages typically form a relatively consistent cohesive group dominated by a
-few common species (Carroll 1995). In *Sequoia sempervirens*, endophyte composition remained
+few common species (Carroll 1995). In *[[sequoia-sempervirens]]*, endophyte composition remained
 remarkably constant over a broad north-to-south distributional range (Rollinger and Langenheim
 1993), suggesting strong host-driven selection that overrides regional environmental differences.
 
@@ -148,8 +148,3 @@ time if this occurs; smaller seeds need shorter durations. An alternative uses 5
 
 Each herbarium sheet examined should be labeled with: tissue examined, infection status, notable
 mycelium characteristics, date, and investigator name.
-
-## Related
-
-- [[biodiversity-of-fungi-endophytic-fungi]]
-- [[fungal-biodiversity-patterns]]

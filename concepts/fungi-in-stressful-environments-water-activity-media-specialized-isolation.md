@@ -22,7 +22,7 @@ Glycerol is preferred for lowering a_w because it is less inhibitory than ionic 
 
 ### Growth Rate Considerations
 
-Growth rates at selected a_w values vary with incubation temperature, pH, and nutrient availability (Wheeler et al. 1988; Hocking 1993). These interactions require empirical optimization for each target group rather than single-factor experiments.
+Growth rates at selected a_w values vary with incubation temperature, pH, and [[nutrient-availability]] (Wheeler et al. 1988; Hocking 1993). These interactions require empirical optimization for each target group rather than single-factor experiments.
 
 ### Preventing Osmotic Shock
 
@@ -143,12 +143,7 @@ Identification follows Ellis (1971, 1976); molecular methods supplement morpholo
 - Cooke & Whipps 1993. *Ecophysiology of Fungi*; Corry 1987. In: *Environmental Microbiology of Foods*.
 - Dallyn & Fox 1980. *J. Applied Bacteriology*; Ellis 1971, 1976. *Dematiaceous Hyphomycetes* (CMI).
 - Hocking 1993. *Int. J. Food Microbiology*; Hocking & Pitt 1980. *Appl. Environ. Microbiol.* 40: 483–487.
-- Horikoshi 1991. *Microorganisms in Alkaline Environments*; Jarvis & Williams 1987. In: *Food and Beverage Mycology*.
+- Horikoshi 1991. *Microorganisms in Alkaline Environments*; Jarvis & Williams 1987. In: *Food and Beverage [[mycology|Mycology]]*.
 - Nagai et al. 1995, 1998. *Mycoscience*; Parkinson et al. 1989. *Mycologia*.
 - Pitt & Hocking 1997. *Fungi and Food Spoilage*, 2nd ed.; Wainwright 1993. *Biol. Fertil. Soils*.
 - Wheeler et al. 1988. *J. Applied Bacteriology*; Zak et al. 1995. *Mycologia*.
-
-## Related
-
-- [[water-activity-osmophilic-fungal-media-preparation]]
-- [[osmophilic-osmotolerant-fungi-low-water-activity]]

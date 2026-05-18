@@ -39,8 +39,7 @@ tags: [yeast, ascomycete, soil-isolate, amylolytic, industrial]
 - **Enzyme production:** Source of thermostable amylases for food and beverage processing.
 - **Soil ecology:** As an exclusive soil isolate, it contributes to starch and organic matter cycling in terrestrial ecosystems.
 
-For cultivators using grain-based substrates, understanding the native yeast communities that colonize grain — including starch-degrading species like *D. occidentalis* — can inform substrate preparation and sterilization protocols.
-
+For cultivators using grain-based substrates, understanding the native yeast communities that colonize grain — including starch-degrading species like *D. occidentalis* — can inform [[substrate-preparation]] and sterilization protocols.
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -92,7 +91,7 @@ For cultivators using grain-based substrates, understanding the native yeast com
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
 - If taxonomy has changed, record the older name as historical context only when the source supports it.
-- If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
+- If cultivation relevance is uncertain, keep the statement framed as relevance to [[mycology]] rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
 

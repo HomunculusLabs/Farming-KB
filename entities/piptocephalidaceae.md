@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Piptocephalidaceae are a family of biotrophic mycoparasitic fungi in the order Zoopagales (Zygomycota). They are among the most specialized and well-studied mycoparasites, exclusively parasitizing other fungi—particularly members of the Mucorales. The family is characterized by sporangiophores bearing distinctive merosporangia (spore-bearing structures) and the production of specialized haustoria that penetrate host hyphae to extract nutrients. Their biotrophic lifestyle means they require living host tissue for growth and reproduction.
+The Piptocephalidaceae are a family of biotrophic mycoparasitic fungi in the order Zoopagales (Zygomycota). They are among the most specialized and well-studied mycoparasites, exclusively parasitizing other fungi—particularly members of the Mucorales. The family is characterized by sporangiophores bearing distinctive merosporangia ([[spore]]-bearing structures) and the production of specialized haustoria that penetrate host hyphae to extract nutrients. Their biotrophic lifestyle means they require living host tissue for growth and reproduction.
 
 ## Classification
 
@@ -68,7 +68,7 @@ The Piptocephalidaceae employ a sophisticated biotrophic strategy:
 
 ## Notes
 
-The Piptocephalidaceae are obligate biotrophs that cannot be grown axenically without host fungi. This distinguishes them from many other mycoparasites in the Hypocreales that can be cultured on artificial media. Their restriction to Mucorales hosts makes them highly specialized within the broader community of fungicolous fungi. The haustoria of Piptocephalidaceae are morphologically distinct from those produced by ascomycete mycoparasites, reflecting independent evolutionary origins.
+The Piptocephalidaceae are obligate biotrophs that cannot be grown axenically without host fungi. This distinguishes them from many other mycoparasites in the Hypocreales that can be cultured on artificial media. Their restriction to Mucorales hosts makes them highly specialized within the broader community of [[fungicolous-fungi]]. The haustoria of Piptocephalidaceae are morphologically distinct from those produced by ascomycete mycoparasites, reflecting independent evolutionary origins.
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

@@ -125,7 +125,7 @@ A range of substrate-utilization assays is available for characterizing the nutr
 | NaCl tolerance | 10 g/L | Sensitive | Tolerant |
 | DBB staining | After 1 M KOH | Positive | Negative |
 
-Results for ligninolytic enzymes should be interpreted cautiously due to variable expression and similarities across different baits.
+Results for [[ligninolytic-enzymes]] should be interpreted cautiously due to variable expression and similarities across different baits.
 
 ---
 

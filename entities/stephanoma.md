@@ -31,7 +31,7 @@ Stephanoma is a genus of biotrophic contact mycoparasitic fungi in the [[ascomyc
 - **Conidiophores:** Produce distinctive darkly pigmented, echinulate (spiny) conidia characteristic of the genus
 - **Conidia:** Large, dark, muriform (multicelled) conidia with ornate wall ornamentation
 - **Contact cells:** Specialized hyphal cells that make direct contact with host hyphae without penetration
-- **Growth habit:** Colonies grow over the surface of host mycelium, forming a dense network of contact cells
+- **Growth habit:** Colonies grow over the surface of host [[mycelium]], forming a dense network of contact cells
 
 ## Mycoparasitic Behavior
 
@@ -117,6 +117,6 @@ Stephanoma is one of several genera of biotrophic contact mycoparasites that sha
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
 - If taxonomy has changed, record the older name as historical context only when the source supports it.
-- If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
+- If cultivation relevance is uncertain, keep the statement framed as relevance to [[mycology]] rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

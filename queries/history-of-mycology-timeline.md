@@ -100,7 +100,7 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
 - **1860 — Mordecai Cooke:**
   Published The Seven Sisters of Sleep, treating psychoactive fungi
   (Amanita muscaria) alongside opium, hashish, and other narcotics.
-  See [[mordecai-cooke]] and [[victorian-mycology]].
+  See [[mordecai-cubitt-cooke]] and [[victorian-mycology]].
 
 - **1868 — Woolhope Club forays:**
   First systematic fungus forays in Britain, organized by the

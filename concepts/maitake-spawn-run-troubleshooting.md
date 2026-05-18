@@ -141,37 +141,10 @@ When primordia reach 2.54–5.08 cm (1–2 inches) in diameter with visible matu
 
 | Source | Fruiting Temperature |
 |---|---|
-| Chalmers (1994) | 8–15°C |
-| Stamets (1993) | 10–15.6°C (up to 18°C) |
-| Huang (1997) | 16–18°C |
-| Wu et al. (1997) | 15–20°C |
-| Fahrenheit equivalent | 55–60°F (up to 65°F) |
-
-The variation between sources reflects differences in strain genetics, cultivation methods, and regional practices. North American growers generally use lower temperatures than Chinese growers.
-
-## Problem-Solving Quick Reference
-
-| Problem | Likely Cause | Solution |
-|---|---|---|
-| Slow colonization | Weak spawn, low temperature, poor aeration | Better spawn, raise temp to 25°C, improve sawdust mix |
-| Grayish-brown surface coat | Too much light during spawn run | Reduce light to ≤50 lux |
-| Overly thick surface coat | Prolonged dark spawn run | Use low light (50 lux) throughout |
-| No primordia form | Wrong strain genotype, poor coat | Use proven fruiting strain, fix light management |
-| Primordia all die | Bag opened too early | Wait until primordia reach 1–2 inches |
-| Primordia arrest | Bag opened too late | Open at the right time; monitor daily |
-| Few or no primordia sites | Overcrowding from poor coat | Optimize light for focused initiation |
-
-## References
-
-- Stamets, P. (1993). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press.
-- Wu, J.-L. et al. (1997). Grifola frondosa cultivation. In: Cultivation of eighteen precious and delicious Chinese edible fungi.
-- Chalmers, W. (1994). Cultivation of the maitake mushroom. Mushroom World.
-- Huang, N.-L. (1997). Japanese Grifola frondosa. Chinese Agricultural Press.
-
 ## See Also
 
 - [[grifola-frondosa]]
-- [[maitake-cultivation]]
-- [[maitake-strain-selection-and-substrate]]
-- [[maitake-spawn-run-vegetative-mycelial-phases]]
-- [[mushroom-troubleshooting]]
+- [[mushroom-cultivation]]
+- [[mycelium]]
+- [[spore]]
+- [[maitake-fruiting-body-development]]

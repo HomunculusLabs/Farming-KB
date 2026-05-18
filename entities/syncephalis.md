@@ -32,12 +32,11 @@ tags: [zygomycete, mycoparasite, necrotroph, haustorial, mucorales-parasite]
 
 ## Relevance to Cultivation and Mycology
 
-*Syncephalis* has relevance to fungal ecology and potential biocontrol:
-- **Regulation of Mucorales:** In natural soils and composting systems, *Syncephalis* helps control populations of fast-growing Mucorales that compete with other fungi for resources.
+*Syncephalis* has relevance to [[fungal-ecology]] and potential biocontrol:
+- **Regulation of Mucorales:** In natural soils and [[composting-systems]], *Syncephalis* helps control populations of fast-growing Mucorales that compete with other fungi for resources.
 - **Mushroom cultivation:** Mucorales (e.g., *Mucor*, *Rhizopus*) are common contaminants in mushroom substrate. *Syncephalis* may naturally occur in substrates and help suppress these competitors.
 - **Composting:** Understanding the mycoparasitic interactions in compost can inform substrate preparation strategies for mushroom cultivation.
 - **Research model:** The transition from biotrophy (*Piptocephalis*) to necrotrophy (*Syncephalis*) within the same family provides a model for studying the evolution of parasitic strategies.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

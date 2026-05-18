@@ -42,7 +42,7 @@ Plant-species diversity in temperate forests is generally measured as species ri
 
 In the Great Smoky Mountains (eastern US), approximately 1,300 species of flowering plants including 130 native trees have been found. Assuming 10% trees, 25% shrubs, and 65% herbs, the estimated number of fungal species is **8,873** — slightly more than one-tenth of the Costa Rican prediction.
 
-The hardwood stand composition of this region has been dramatically altered by the introduction of chestnut blight (*Cryphonectria parasitica*). Prior to introduction, American chestnut (*Castanea dentata*) formed 30–60% of canopy stems; now 70% of tree stems are composed of other, smaller species.
+The hardwood stand composition of this region has been dramatically altered by the introduction of chestnut blight (*[[cryphonectria-parasitica]]*). Prior to introduction, American chestnut (*Castanea dentata*) formed 30–60% of canopy stems; now 70% of tree stems are composed of other, smaller species.
 
 ## Pathogen-Specific Host Ratios
 
@@ -102,5 +102,5 @@ Field collection and identification of *Claviceps* can be difficult. In warm, hu
 
 ## Related
 
-- [[estimating-fungal-diversity-on-living-plants]]
+- [[estimating-fungal-diversity-living-plants]]
 - [[fungi-living-plant-substrata]]

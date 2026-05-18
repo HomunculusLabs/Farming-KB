@@ -52,7 +52,7 @@ The **Canadian Forest Service** developed and deployed platforms on Vancouver Is
 
 #### Pike et al. (1975) — Douglas Fir
 
-Pike et al. conducted systematic sampling on a **450-year-old Douglas fir** (*Pseudotsuga menziesii*), dividing the tree into **6 vertical zones**:
+Pike et al. conducted systematic sampling on a **450-year-old [[douglas-fir]]** (*Pseudotsuga menziesii*), dividing the tree into **6 vertical zones**:
 
 1. Base
 2. Moist side of trunk
@@ -112,7 +112,7 @@ Primary pathogen colonies are frequently overgrown by fast-growing secondary sap
 - Excise tissue from the **zone between healthy and diseased tissue** (the advancing margin), where the primary pathogen is most active and saprobes are least established
 - **Flame-sterilize cutting tools between each cut** to prevent cross-contamination
 - **Surface-sterilize** tissue pieces with **10% bleach** (typically 30–60 seconds)
-- Plate onto **acidified malt extract agar** to suppress bacterial growth while permitting fungal isolation
+- Plate onto **acidified [[malt-extract-agar]]** to suppress bacterial growth while permitting fungal isolation
 
 ### 3. Unculturable Obligate Parasites
 
@@ -148,20 +148,3 @@ Many [[rust-fungi]] (Pucciniales) have complex life cycles requiring **two unrel
 ### 7. Temperate Foliar Fungi and Overwintering
 
 Many temperate foliar fungi survive winter on **fallen, overwintered foliage** and do not produce visible fruiting structures until the following growing season. To capture these species:
-
-- **Collect fallen, overwintered leaves in early spring** before new growth obscures the leaf litter
-- Incubate collected leaves in moist chambers to induce sporulation
-- This approach recovers species that would be entirely missed during summer surveys of living foliage
-
-## Key References
-
-- Denison, W.C. et al. (1972). *Trop. Ecol.* 13: 74–79. — Canopy access and branch sampling.
-- Kranz, J. — Host infection rates: only 28–52% of plants harbor a given fungus.
-- Lesica, P. et al. (1991). *Can. J. Bot.* 69: 1745–1755. — Grand-fir forest epiphyte sampling.
-- Pike, L.H. et al. (1975). — Systematic 6-zone sampling of 450-year-old Douglas fir.
-- Valentine, H.T. & Hilton, S.J. (1977). *Can. J. For. Res.* 7: 295–298. — Randomized branch sampling for *Quercus*.
-- Wolf, J.H.D. (1993). *Vegetatio* 106: 81–91. — Arrow+rope+jumar canopy access in tropical forest.
-
-## Related
-- [[studying-fungi-living-plants-macrofungal-diversity]]
-- [[fungi-living-plants-anthracnose-ergot-fruit-rots]]

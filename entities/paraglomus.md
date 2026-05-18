@@ -9,7 +9,7 @@ tags: [fungi, glomales, arbuscular-mycorrhizae, amf, genus, ancient-lineage]
 
 ## Description
 
-Paraglomus is a small genus of arbuscular mycorrhizal fungi (AMF) belonging to the family Paraglomaceae within the order Glomales. Like Archaeospora, Paraglomus was delimited recently based on differences in selective rDNA primer sequences. The genus contains only two described species and represents a phylogenetically ancient lineage within the Glomales. [[paraglomus-occultum]], the type species, is found globally across diverse habitats and continents.
+Paraglomus is a small genus of [[arbuscular-mycorrhizal-fungi]] (AMF) belonging to the family Paraglomaceae within the order Glomales. Like Archaeospora, Paraglomus was delimited recently based on differences in selective rDNA primer sequences. The genus contains only two described species and represents a phylogenetically ancient lineage within the Glomales. [[paraglomus-occultum]], the type species, is found globally across diverse habitats and continents.
 
 ## Classification
 
@@ -29,7 +29,7 @@ Paraglomus is a small genus of arbuscular mycorrhizal fungi (AMF) belonging to t
 
 ## Phylogenetic Significance
 
-Paraglomus represents one of the most basal lineages within the Glomales. Its separation from other genera is supported by distinct 18S rDNA sequences detectable only through selective primer PCR. The global distribution of P. occultum, combined with its phylogenetically ancient status, suggests that this lineage has persisted since the early evolution of the arbuscular mycorrhizal symbiosis over 400 million years ago.
+Paraglomus represents one of the most basal lineages within the Glomales. Its separation from other genera is supported by distinct 18S rDNA sequences detectable only through selective primer PCR. The global distribution of P. occultum, combined with its phylogenetically ancient status, suggests that this lineage has persisted since the early evolution of the [[arbuscular-mycorrhizal-symbiosis]] over 400 million years ago.
 
 ## Ecological Distribution
 
@@ -52,7 +52,6 @@ Paraglomus represents one of the most basal lineages within the Glomales. Its se
 - Detected in trap-pot cultures from diverse global habitats.
 - Standard wet-sieving and sucrose-density gradient centrifugation for spore extraction.
 - Molecular identification using selective rDNA primer sequences recommended for reliable species-level identification.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

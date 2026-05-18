@@ -8,7 +8,7 @@ type: concept
 
 Designing effective sampling protocols for [[lichen]] biodiversity inventory requires careful
 attention to personnel, equipment, field procedures, data archiving, and the alignment of
-survey goals with available resources. Lichens present unique challenges compared to vascular
+survey goals with available resources. [[lichens]] present unique challenges compared to vascular
 plants, including microscopic identification requirements and sensitivity to microhabitat
 variation.
 

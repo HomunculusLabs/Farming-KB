@@ -144,11 +144,6 @@ mycorrhizae to become fully established, inoculant application should
 be discontinued a few weeks before flowering begins for flowering
 crops, or a few weeks before the anticipated harvest date for
 vegetative crops such as lettuce. Continuing to apply inoculant after
-the colonization window closes wastes propagules without providing
-additional benefit.
-
-## Crop-Specific Research Results
-
 ## See Also
 - [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]]
 - [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]

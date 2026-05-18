@@ -48,7 +48,7 @@ Many circumstantial data, but no direct evidence, support the commonly held view
 
 - **Tubaki and Yokoyama (1973)** observed that the diversity of fungi associated with litter of *Castanopsis cuspidata* and *Quercus phillyraeoides* was greater in southern Japan than in central Japan.
 
-- **Batista and co-workers** frequently observed 10 or more microfungus species during direct examinations of single leaves in Brazil (Cannon and Hawksworth 1995; da Silva and Minter 1995), emphasizing the enormous diversity associated with neotropical plants. The same workers recorded as many as 26 fungal species from a foliicolous lichen community (da Silva and Minter 1995).
+- **Batista and co-workers** frequently observed 10 or more microfungus species during direct examinations of single leaves in Brazil (Cannon and Hawksworth 1995; da Silva and Minter 1995), emphasizing the enormous diversity associated with neotropical plants. The same workers recorded as many as 26 fungal species from a foliicolous [[lichen]] community (da Silva and Minter 1995).
 
 - **Direct evidence** from individual fungal groups: Cannon (1997a) found that the number of species of the Phyllachoraceae (Ascomycota) known between latitudes 40–60°N and 40–60°S is only 38% of that between latitudes 20°N and 20°S, and the corresponding figure for latitudes above 60°N (there is no vegetation below 60°S) is only 6% of the figure for the tropics. The true proportions are likely to be even more extreme given the under-recording of tropical species compared with temperate zones.
 
@@ -70,7 +70,7 @@ There is little reliable information charting the effects of temperature on fung
 
 #### Humidity and Water Relations
 
-Humidity plays a much more prominent role in influencing fungal diversity than does temperature alone. Elevation effects also may be relevant. Data on the requirements of individual species for particular levels of moisture in the environment are abundant, but statistical analyses of overall species diversity under different water regimens are rare. Field mycologists know that spore production in a wide range of fungi depends on adequate rainfall.
+Humidity plays a much more prominent role in influencing fungal diversity than does temperature alone. Elevation effects also may be relevant. Data on the requirements of individual species for particular levels of moisture in the environment are abundant, but statistical analyses of overall species diversity under different water regimens are rare. Field mycologists know that [[spore]] production in a wide range of fungi depends on adequate rainfall.
 
 The considerable diversity of fungi in aquatic environments (Kohlmeyer and Kohlmeyer 1991; Bärlocher 1992; Shearer 1993) is indicative of the importance of water as a factor limiting fungal existence. Conversely, some species are adapted to xeric environments, both natural and manmade (Hocking 1991; Zak 1993; Cannon and Hawksworth 1995).
 

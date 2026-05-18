@@ -37,12 +37,11 @@ Pyricularia grisea (synonym P. oryzae; teleomorph [[magnaporthe-grisea]]) is the
 - Magnaporthe/Pyricularia is a premier model organism for studying fungal pathogenesis, appressorium formation, and plant-fungal interactions.
 - The appressorium of M. grisea generates turgor pressures exceeding 8 MPa, making it one of the most powerful cellular engines known.
 - The pathogen drives rice breeding programs for blast resistance, with major gene and quantitative resistance loci identified.
-- Management includes resistant cultivars, fungicide application, cultural practices (water management, nitrogen fertilization), and seed treatment.
+- Management includes resistant cultivars, fungicide application, cultural practices ([[water-management]], nitrogen fertilization), and seed treatment.
 
 ## Ecological Context
 
 Pyricularia grisea is a hemibiotroph, establishing an initial biotrophic phase before switching to necrotrophic destruction of host tissue. The pathogen is particularly important in tropical rice-growing regions where warm, humid conditions favor infection and disease development. The broad host range on grasses and sedges suggests a long coevolutionary history with Poaceae, one of the most ecologically dominant plant families.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

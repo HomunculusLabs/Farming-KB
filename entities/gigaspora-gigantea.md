@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*Gigaspora gigantea* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Gigaspora*, suborder Gigasporineae, order Glomales. It produces some of the largest spores among AM fungi, reaching up to 300 µm or more in diameter. The species is globally distributed and serves as an important reference organism for understanding spore biology and functional morphology within the Gigasporaceae.
+*Gigaspora gigantea* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Gigaspora*, suborder Gigasporineae, order [[glomales]]. It produces some of the largest spores among AM fungi, reaching up to 300 µm or more in diameter. The species is globally distributed and serves as an important reference organism for understanding [[spore]] biology and functional morphology within the Gigasporaceae.
 
 ## Classification
 

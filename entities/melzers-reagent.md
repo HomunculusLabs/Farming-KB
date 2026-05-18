@@ -29,7 +29,7 @@ Melzer's reagent is an iodine-based histochemical stain used extensively in myco
 
 ## Relevance to Cultivation and Mycology
 
-Melzer's reagent is a cornerstone of fungal taxonomy. For cultivators, it enables accurate identification of mycorrhizal inocula, verification of ectomycorrhizal associates, and quality control of fungal cultures. Misidentification of arbuscular mycorrhizal species due to poor staining practices can lead to inappropriate inoculum selection and failed symbiotic partnerships. Proper use of Melzer's reagent is essential for any serious taxonomic work on Glomales, [[agaricales]], Boletales, and many other fungal groups.
+Melzer's reagent is a cornerstone of [[fungal-taxonomy]]. For cultivators, it enables accurate identification of mycorrhizal inocula, verification of ectomycorrhizal associates, and quality control of fungal cultures. Misidentification of arbuscular mycorrhizal species due to poor staining practices can lead to inappropriate inoculum selection and failed symbiotic partnerships. Proper use of Melzer's reagent is essential for any serious taxonomic work on Glomales, [[agaricales]], Boletales, and many other fungal groups.
 
 ## Preparation
 
@@ -42,7 +42,6 @@ Standard formulation:
 
 - Contains chloral hydrate (a controlled substance in some jurisdictions) and iodine (irritant)
 - Handle in a well-ventilated area with gloves
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -100,5 +99,5 @@ Standard formulation:
 
 ## References
 
-- Morton, J.B. et al. "Mutualistic Arbuscular Endomycorrhizal Fungi" in *Biodiversity of Fungi*
+- Morton, J.B. et al. "Mutualistic Arbuscular [[endomycorrhizal-fungi]]" in *Biodiversity of Fungi*
 - Schenck, N.C. and Pérez, Y. (1990). *Manual for the Identification of VA Mycorrhizal Fungi*

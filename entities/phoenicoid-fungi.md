@@ -60,7 +60,7 @@ Phoenicoid fungi (from Greek "phoenix," referring to rebirth from fire) are fung
 - Understanding their dynamics is essential for managing post-fire ecosystem restoration
 
 ### Biodiversity Assessment
-- Fire-adapted fungi represent a specialized component of fungal biodiversity that is missed without targeted post-fire sampling
+- Fire-adapted fungi represent a specialized component of [[fungal-biodiversity]] that is missed without targeted post-fire sampling
 - Standard soil isolation methods may not capture phoenicoid species unless heat treatment is included
 - Laboratory soil steaming and heat treatment protocols can simulate fire effects to reveal hidden diversity
 - Extended sampling periods (up to 4 years post-fire) are necessary to capture the full phoenicoid fungal community
@@ -73,7 +73,7 @@ Phoenicoid fungi (from Greek "phoenix," referring to rebirth from fire) are fung
 
 ### Prairie and Grassland Management
 - Prairie fires, both natural and prescribed, trigger phoenicoid fungal succession
-- These fungi may play roles in seedbed preparation and nutrient mineralization in managed grasslands
+- These fungi may play roles in seedbed preparation and [[nutrient-mineralization]] in managed grasslands
 - Understanding phoenicoid dynamics informs prescribed burn scheduling for grassland conservation
 
 ## Reading notes

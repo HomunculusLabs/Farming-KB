@@ -27,7 +27,7 @@ Cladobotryum is a large anamorphic genus of mycoparasitic fungi in the Hypocreal
 - **C. varium** (teleomorph H. aurantius) — Disrupts host cytoplasm and causes irreversible changes in host cells (Kellock and Dix 1984)
 - **C. fungicola** (teleomorph H. semitranslucens) — Found on Aphyllophorales; also reported on Auricularia species
 - **C. clavisporum** (teleomorph H. polyporinus) — Mostly on Trametes versicolor
-- **C. polypori** (teleomorph H. mycophilus) — On various aphyllophorales, often Polyporus species; reported from Auricularia polytricha
+- **C. polypori** (teleomorph H. mycophilus) — On various aphyllophorales, often Polyporus species; reported from [[auricularia-polytricha]]
 - **C. stereicola** — Preferentially grows on Chondrostereum purpureum
 - **C. orthosporum** (teleomorph H. orthosporus) — On various aphyllophorales
 - **C. mycophilum** (teleomorph H. odoratus) — On various aphyllophorales
@@ -67,7 +67,7 @@ Cladobotryum species parasitize two major host groups:
 - **Cobweb disease:** Cladobotryum species (particularly C. dendroides and related taxa) are causal agents of cobweb disease in commercial mushroom cultivation, where they colonize and destroy mushroom fruiting bodies
 - **Biocontrol potential:** Some species show antagonism toward pathogenic fungi and could have applications in biological control
 - **Economic impact:** Infections can cause significant losses in button mushroom (Agaricus bisporus) and specialty mushroom operations
-- **Taxonomic importance:** The connection between Cladobotryum anamorphs and Hypomyces teleomorphs is a model system for understanding fungal life cycles
+- **Taxonomic importance:** The connection between Cladobotryum anamorphs and Hypomyces teleomorphs is a model system for understanding [[fungal-life-cycles]]
 
 ## Key References
 

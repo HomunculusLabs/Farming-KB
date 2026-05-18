@@ -34,7 +34,7 @@ Antrodiella citrinella is a small, polypore-like wood-decaying fungus in the fam
 Antrodiella citrinella is a textbook example of fungal succession on wood:
 
 1. **Predecessor stage:** Fomitopsis pinicola colonizes and decays conifer wood, producing large perennial brackets
-2. **Decay phase:** As F. pinicola sporocarps age and begin to decay, the underlying wood is modified by brown-rot decomposition
+2. **Decay phase:** As F. pinicola sporocarps age and begin to decay, the underlying wood is modified by [[brown-rot]] decomposition
 3. **Successor colonization:** A. citrinella colonizes the decayed wood and old sporocarps of F. pinicola
 4. **Fruiting:** A. citrinella produces its own sporocarps directly on the dead F. pinicola brackets or on the adjacent decayed wood
 

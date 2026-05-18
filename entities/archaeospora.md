@@ -9,7 +9,7 @@ tags: [fungi, glomales, arbuscular-mycorrhizae, amf, genus, ancient-lineage]
 
 ## Description
 
-Archaeospora is a small genus of arbuscular mycorrhizal fungi (AMF) belonging to the family Archaeosporaceae within the order Glomales. The genus was delimited relatively recently based on differences in selective rDNA primer sequences in polymerase chain reaction (PCR) analyses. Archaeospora contains only two described species but represents one of the most phylogenetically ancient lineages within the Glomales. The genus is notable because some species produce both Acaulospora-like and Glomus-like spores from the same thallus, a rare phenomenon among AMF.
+Archaeospora is a small genus of [[arbuscular-mycorrhizal-fungi]] (AMF) belonging to the family Archaeosporaceae within the order Glomales. The genus was delimited relatively recently based on differences in selective rDNA primer sequences in polymerase chain reaction (PCR) analyses. Archaeospora contains only two described species but represents one of the most phylogenetically ancient lineages within the Glomales. The genus is notable because some species produce both Acaulospora-like and Glomus-like spores from the same thallus, a rare phenomenon among AMF.
 
 ## Classification
 
@@ -29,7 +29,7 @@ Archaeospora is a small genus of arbuscular mycorrhizal fungi (AMF) belonging to
 
 ## Phylogenetic Significance
 
-Archaeospora occupies a basal position in the phylogeny of arbuscular mycorrhizal fungi. 18S rDNA sequences place Archaeospora species closer to Geosiphon pyriforme — a non-mycorrhizal fungus that hosts photosynthetic Nostoc cyanobacteria — than to the core Glomales. This relationship suggests that the common ancestor of Archaeospora and Geosiphon may represent one of the earliest divergences within the glomalean lineage, potentially dating back over 400 million years.
+Archaeospora occupies a basal position in the phylogeny of arbuscular [[mycorrhizal-fungi]]. 18S rDNA sequences place Archaeospora species closer to Geosiphon pyriforme — a non-mycorrhizal fungus that hosts photosynthetic Nostoc cyanobacteria — than to the core Glomales. This relationship suggests that the common ancestor of Archaeospora and Geosiphon may represent one of the earliest divergences within the glomalean lineage, potentially dating back over 400 million years.
 
 ## Ecological Distribution
 
@@ -58,7 +58,6 @@ Archaeospora occupies a basal position in the phylogeny of arbuscular mycorrhiza
 - Detected through trap-pot cultures, where it often appears in first or second culture cycles.
 - Spores extracted via standard wet-sieving and sucrose-density gradient centrifugation.
 - Molecular identification using selective rDNA primer sequences (Morton and Redecker 2001).
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

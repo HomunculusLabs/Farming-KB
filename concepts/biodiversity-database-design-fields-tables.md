@@ -144,8 +144,7 @@ Incremental growth allows the team to learn from real usage patterns and adapt t
 
 ## See Also
 
-- [[mycorrhiza]]
-- [[basidiomycota]]
-- [[ascomycota]]
-- [[kingdom-fungi]]
-- [[mushroom-identification]]
+- [[mycology]]
+- [[database-design-fungal-specimens]]
+- [[mycological-specimen-data-standards]]
+- [[fungal-taxonomy]]

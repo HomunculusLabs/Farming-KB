@@ -137,15 +137,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[mentha-aquatica-mollison]]
-- [[mollison-designers-conifer-forestry-and-timber]]
-- [[mollison-designers-wickiup-and-quick-shelter-construction]]
-- [[mollison-orographic-and-forest-rainfall-effects]]
-- [[mollison-permaculture-design-course-curriculum]]
-
-## Sources
-
-- `bill-mollison-permaculture-a-designers-manual.md`

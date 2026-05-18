@@ -21,7 +21,7 @@ The fungicolous habit is widespread throughout the fungi but is particularly com
 | Zygomycota (Mucorales) | 10 | — | — | — | — | 10 |
 | Zygomycota (Zoopagales) | — | — | 50 | — | — | 50 |
 | Zygomycota (Dimargaritales) | — | — | 13 | — | — | 13 |
-| Ascomycota (total) | 541 | 963 | 65 | 3 | 1 | 1,069 |
+| [[ascomycota|Ascomycota]] (total) | 541 | 963 | 65 | 3 | 1 | 1,069 |
 | Basidiomycota (total) | 265 | 110 | 12 | 9 | 1 | 398 |
 | **TOTAL** | **~643** | **~1,295** | **~72** | **~91** | **~95** | **~2,175** |
 
@@ -63,7 +63,7 @@ One-celled members of the Chytridiomycota live in intracellular or epibiotic par
 ### Endobiotic Taxa
 
 Endobiotic taxa form an intracellular thallus either:
-- **Surrounded by a wall** ensheathed in the host's endoplasmic reticulum (e.g., *Catenaria allomycis* in *Allomyces*; Sykes and Porter 1980; Powell 1982)
+- **Surrounded by a wall** ensheathed in the host's [[endoplasmic-reticulum]] (e.g., *Catenaria allomycis* in *Allomyces*; Sykes and Porter 1980; Powell 1982)
 - **Naked** (e.g., *Rozella allomycis* in *Allomyces*; Karling 1942; Held 1981; *Rozella polyphagi* in *Polyphagus euglenae*; Powell 1984)
 
 The naked endobionts consume part of the host cytoplasm by phagocytosis. Their thallus is surrounded only by the host plasmalemma, which disintegrates during sporogenesis.
@@ -148,51 +148,3 @@ The Tremellales are the most diverse basidiomycetous group of fungicolous fungi 
 ### Urediniomycetes
 
 ~93 species, predominantly (92) sporocarp-inhabiting. These include diverse mycoparasites, some of which are also entomogenous or nematophagous.
-
-### Other Basidiomycete Groups
-
-- **Aphyllophorales**: ~19 species (15 sporocarp-inhabiting, 2 lichenicolous, 3 hyphal parasites)
-- **Agaricales**: ~18 species (15 sporocarp-inhabiting, 3 lichenicolous)
-- **Ustilaginomycetes**: ~12 species (4 lichenicolous, 8 biotrophic plant parasite mycoparasites)
-
-### The *Aporpium caryae* Case
-
-*Aporpium caryae* has features of both Tremellales (cruciate basidia) and polypores (sporocarp consistency). Setliff (1984) speculated that this unusual morphology may have resulted from horizontal gene transfer from a host fungus to its mycoparasite. A similar hypothesis could apply to many other tremelloid fungi. Bandoni (1984) argued that Auriculariales–Aporpiaceae are closer to the Aphyllophorales than to the Tremellales, which may account for morphological similarities.
-
-## Fungicolous Fungi as Biocontrol Agents
-
-### Soil-Borne Plant Pathogens
-
-Many fungicolous fungi show promise as biocontrol agents. Key genera include:
-- *Trichoderma* species: Exhibit various modes of interspecific interaction mediated by volatile and nonvolatile metabolites
-- *Pythium oligandrum*: Aggressive mycoparasite demonstrated through video-micrography (Laing and Deacon 1991; Berry and Deacon 1992; Berry et al. 1993)
-- *Acremonium strictum*, *Clonostachys rosea*, *Trichothecium roseum*, *Sistotrema brinkmannii*: Efficient mycoparasites able to overgrow other fungi without being inhibited
-
-### Control of Sclerotial Pathogens
-
-*Sporidesmium sclerotivorum* parasitizes *Sclerotinia sclerotiorum* via a haustorial interface, representing a type 3 (haustorial) biotrophic interaction. This specificity makes it a candidate for targeted biocontrol of sclerotial diseases.
-
-### Control of Basidiomycete Pathogens
-
-Jackson and colleagues (1991) screened soil isolates for biocontrol capacity against *Sclerotium cepivorum* using paired plate methodology. *Phlebiopsis (Peniophora) gigantea* has been studied extensively for control of *Heterobasidion annosum*, a major root rot pathogen of conifers.
-
-### Above-Ground Pathogens
-
-*Tilletiopsis* species function as contact necrotrophic mycoparasites of powdery mildews, representing potential biocontrol agents for above-ground foliar diseases. *P. oligandrum* and *P. nunn* have demonstrated aggressive mycoparasitic action against a range of hosts.
-
-## Cyanide Tolerance
-
-Diverse mycoparasites can tolerate cyanide to levels of 0.01% in synthetic medium, although this compound is not generally present in their natural substrata (Singh and Plunkett 1967). This tolerance may reflect adaptations to chemical defenses employed by host fungi.
-
-## Host Specificity Considerations
-
-Most mycoparasites are unspecialized and can infect a wide range of host fungi across diverse systematic groups. Not only can certain fungi parasitize other fungi belonging to diverse orders, but some are also entomogenous or nematophagous. More specific associations also exist:
-
-- [[lichenicolous-fungi]] are generally specialized and rarely observed on nonlichenized hosts
-- Several fungicolous fungi are hyperparasites (parasites of other fungicolous fungi)
-- Host specificity can be determined by the form of cyst attachment in Oomycete mycoparasites
-- Many species exhibit host-dependent trophic strategies (biotrophic on some hosts, necrotrophic on others)
-
-## Related
-
-- [[fungicolous-fungi-parasites-associates]]

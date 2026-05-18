@@ -10,7 +10,7 @@ Fungi living on fresh or decaying sporocarps of other nonlichenized fungi (SCIF 
 
 ## Fungi on Slime Molds (Myxogastrea)
 
-Sporocarps of slime molds are colonized by specialized fungi. Most obligate myxomyceticolous conidial fungi smother the sporangia, usually turning them white. Hyphae penetrate the spore mass, killing spores and preventing their release. Typically, only a single colonizing species is present per collection, and most fructifications of the host are colonized.
+Sporocarps of [[slime-molds]] are colonized by specialized fungi. Most obligate myxomyceticolous conidial fungi smother the sporangia, usually turning them white. Hyphae penetrate the spore mass, killing spores and preventing their release. Typically, only a single colonizing species is present per collection, and most fructifications of the host are colonized.
 
 Two groups are distinguished:
 

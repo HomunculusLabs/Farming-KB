@@ -46,13 +46,13 @@ The Syzygosporaceae (synonym Carcinomycetaceae) comprise parasites on *[[phanero
 
 Ginns (1986) synonymized *Syzygospora*, *Christiansenia*, and *Carcinomyces* into *Syzygospora*, recognizing nine species in three subgenera. Notable species:
 
-- **Christiansenia mycetophila**, **C. effibulata**, **C. tumefaciens** — grow on *Gymnopus dryophilus*, inducing gall-like fructifications
+- **Christiansenia mycetophila**, **C. effibulata**, **C. tumefaciens** — grow on *[[gymnopus-dryophilus]]*, inducing gall-like fructifications
 - **Syzygospora alba** — produces tremelloid sporocarps on unknown host
 - **S. bachmannii** and **S. physciacearum** — common lichenicolous species on *Cladonia* and Physciaceae
 
 ## Filobasidiaceae
 
-*Filobasidium*, *Filobasidiella*, and *Cystofilobasidium* are more or less mycoparasitic. The yeastlike genera *Filobasidium* and *Cystofilobasidium* have hyphal structures with haustoria only in the dikaryotic phase. *Filobasidiella* (best known as the *Cryptococcus neoformans* anamorph) also has haustoria. *Cystofilobasidium capitatum* was found in the gleba of Phallaceae.
+*Filobasidium*, *Filobasidiella*, and *Cystofilobasidium* are more or less mycoparasitic. The yeastlike genera *Filobasidium* and *Cystofilobasidium* have hyphal structures with haustoria only in the dikaryotic phase. *Filobasidiella* (best known as the *[[cryptococcus-neoformans]]* anamorph) also has haustoria. *Cystofilobasidium capitatum* was found in the gleba of Phallaceae.
 
 ## Rhynchogastremaceae
 

@@ -97,7 +97,7 @@ number) and knowledge of the host plant.
 ### Agricultural Significance
 
 - Wheat stem rust is among the **top three most destructive crop
-  diseases** worldwide, alongside rice blast and potato late blight
+  diseases** worldwide, alongside rice blast and potato [[late-blight]]
 - The **International Wheat Improvement Program** at CIMMYT continuously
   breeds for stem rust resistance as a core mission
 - Eradication of barberry was practiced in the United States and Europe
@@ -106,7 +106,7 @@ number) and knowledge of the host plant.
 ### Cultivation Considerations
 
 - In mushroom and fungal cultivation contexts, rust fungi like
-  *P. graminis* are relevant as **contaminants of grain spawn substrates**
+  *P. graminis* are relevant as **contaminants of [[grain-spawn]] substrates**
   if cereal grains are sourced from infected fields
 - Understanding obligate biotrophy in *Puccinia* informs knowledge of
   fungal nutrition strategies, contrasting with the saprotrophic

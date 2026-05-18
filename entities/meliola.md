@@ -76,7 +76,7 @@ foliicolous (leaf-inhabiting) fungi known.
 
 ## Relevance to Cultivation and Mycology
 
-- **Tropical Mycology:** Black mildews are among the most diverse and abundant
+- **Tropical [[mycology]]:** Black mildews are among the most diverse and abundant
   groups of foliicolous fungi in the tropics. Hansford (1961, 1963) provided
   monographic treatments that remain foundational. Their diversity makes them
   important indicators of tropical forest health and plant diversity.

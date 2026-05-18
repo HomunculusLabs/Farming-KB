@@ -6,7 +6,7 @@ type: concept
 
 # Yeast Isolation Methods and Community Ecology
 
-Yeast isolation and characterization represent a critical intersection of mycology, microbial ecology, and molecular biology. Understanding the methods used to isolate yeasts from natural environments, the ecological context of their abundance and distribution, and the techniques for their identification is essential for surveying [[fungal-biodiversity]] and discovering novel species.
+Yeast isolation and characterization represent a critical intersection of [[mycology]], microbial ecology, and molecular biology. Understanding the methods used to isolate yeasts from natural environments, the ecological context of their abundance and distribution, and the techniques for their identification is essential for surveying [[fungal-biodiversity]] and discovering novel species.
 
 ## Isolation Media Composition
 
@@ -21,7 +21,7 @@ Two principal media formulations are employed for yeast isolation:
 
 ### Carbon Source Substitution
 
-Standard media can be modified by substituting the primary carbon source to selectively enrich for yeasts with specific metabolic capabilities. For example, replacing glucose with methanol or alkanes targets methylotrophic or hydrocarbon-utilizing species, respectively. This approach is valuable when targeting yeasts from specialized niches.
+Standard media can be modified by substituting the primary carbon source to selectively enrich for yeasts with specific metabolic capabilities. For example, replacing glucose with [[methanol]] or alkanes targets methylotrophic or hydrocarbon-utilizing species, respectively. This approach is valuable when targeting yeasts from specialized niches.
 
 ### Salinity Adjustments
 

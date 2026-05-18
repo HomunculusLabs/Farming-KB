@@ -29,7 +29,7 @@ most economically important rust diseases of pine in the region.
 
 ## Key Facts
 
-- **Host Plants:** Primarily infects lodgepole pine (*Pinus contorta*) and other
+- **Host Plants:** Primarily infects lodgepole pine (*[[pinus-contorta]]*) and other
   two- and three-needle pines including ponderosa pine (*P. ponderosa*), jack
   pine (*P. banksiana*), and Scots pine (*P. sylvestris*). Lodgepole pine is the
   most severely affected species across its range.
@@ -56,7 +56,7 @@ most economically important rust diseases of pine in the region.
   pine forests of western North America. While it rarely kills mature trees
   directly, heavy infection can cause significant growth loss, stem deformity,
   and mortality in young trees and seedlings. Galled trees are also more
-  susceptible to secondary insect attack and wood decay fungi.
+  susceptible to secondary insect attack and [[wood-decay-fungi]].
 
 - **Related Gall-Forming Rusts:** Other gall-forming rusts on conifers include
   *Gymnosporangium* species on junipers (*Juniperus* spp.). *Gymnosporangium*

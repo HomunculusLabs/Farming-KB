@@ -24,13 +24,13 @@ type: entity
 - Does not form arbuscular mycorrhizal associations with plant roots
 - Hosts photosynthetic *Nostoc* cyanobacteria within its cells (Schüssler et al. 1996)
 - Phylogenetically positioned as sister to certain *Acaulospora* and *Glomus* species based on 18S rDNA
-- Some *Acaulospora*-like and *Glomus*-like spore-producing species are genetically closer to *Geosiphon* than to other AM fungi (Redecker et al. 2000b)
+- Some *Acaulospora*-like and *Glomus*-like [[spore]]-producing species are genetically closer to *Geosiphon* than to other AM fungi (Redecker et al. 2000b)
 - Its discovery prompted the creation of new families Archaeosporaceae and Paraglomaceae within Glomales
 - Considered phylogenetically ancient, representing an early divergence in glomalean evolution
 
 ## Relevance to Cultivation and Mycology
 
-*Geosiphon pyriforme* is of major significance to mycology and evolutionary biology because it demonstrates that the Glomales lineage encompasses more than just arbuscular mycorrhizal symbioses. Its cyanobacterial partnership provides a model for understanding the evolutionary origins of fungal mutualism and the diversity of symbiotic strategies in early-diverging fungal lineages. The species challenges traditional classification boundaries and has reshaped our understanding of glomalean phylogeny, influencing how researchers categorize and study AM fungi in both natural and agricultural systems.
+*Geosiphon pyriforme* is of major significance to [[mycology]] and evolutionary biology because it demonstrates that the Glomales lineage encompasses more than just arbuscular mycorrhizal symbioses. Its cyanobacterial partnership provides a model for understanding the evolutionary origins of fungal mutualism and the diversity of symbiotic strategies in early-diverging fungal lineages. The species challenges traditional classification boundaries and has reshaped our understanding of glomalean phylogeny, influencing how researchers categorize and study AM fungi in both natural and agricultural systems.
 
 ## Related
 - [[geosiphon-pyriforme-endosymbiosis]]

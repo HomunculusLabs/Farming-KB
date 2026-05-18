@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*Glomus caledonium* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Glomus*, the most species-rich genus within the order Glomales. It produces spores approximately 150 µm in diameter with multi-layered spore walls characteristic of the genus. The species is used as a reference organism in studies of spore volume and carbon allocation in AM fungal communities.
+*Glomus caledonium* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Glomus*, the most species-rich genus within the order [[glomales]]. It produces spores approximately 150 µm in diameter with multi-layered [[spore]] walls characteristic of the genus. The species is used as a reference organism in studies of spore volume and carbon allocation in AM fungal communities.
 
 ## Classification
 

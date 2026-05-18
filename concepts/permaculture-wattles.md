@@ -78,3 +78,22 @@ is increasingly recognized as essential for sustainable outcomes.
 Future development in this area is likely to be driven by advances
 in scientific understanding, new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
+## Applications and Practical Uses
+
+The principles behind permaculture wattles have been applied across various
+domains, from research laboratories to field-scale operations. Key
+applications include integration with existing workflows and adaptation
+to specific environmental conditions and goals.
+
+## Key Considerations
+
+Several factors influence the effectiveness and outcomes of
+permaculture wattles. Environmental conditions, timing, and material
+selection all play critical roles. Proper preparation and monitoring
+help ensure consistent results across different scenarios.
+
+## See Also
+
+- [[permaculture]]
+- [[companion-planting]]
+- [[composting]]

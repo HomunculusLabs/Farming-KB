@@ -19,7 +19,7 @@ Temperate grasses are parasitized by a diverse assemblage of fungi:
 - **Ascomycetes:** Gaeumannomyces, Gibberella, Monographella, Phyllachora, and Pleospora
 - **Hyphomycetes:** Alternaria, Cladosporium, Drechslera, Fusarium, and related genera
 
-Tropical grass parasites include Cercospora, Drechslera, Magnaporthe (anamorph: Pyricularia), Rhynchosporium, and Sphaerulina. Among these, *Pyricularia grisea* (rice blast) is one of the most important pathogens worldwide, affecting rice production in many countries and capable of parasitizing over 50 additional grass species.
+Tropical grass parasites include Cercospora, Drechslera, Magnaporthe (anamorph: Pyricularia), Rhynchosporium, and Sphaerulina. Among these, *[[pyricularia-grisea]]* (rice blast) is one of the most important pathogens worldwide, affecting rice production in many countries and capable of parasitizing over 50 additional grass species.
 
 ### Needle-Cast Fungi
 

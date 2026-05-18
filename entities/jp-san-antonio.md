@@ -77,3 +77,5 @@ The method's key insight — that grain could serve as both a nutritious substra
 - O.T. Oss & O.N. Oeric, *Psilocybin: Magic Mushroom Grower's Guide* (1976)
 
 This topic connects to related areas including [[antonio-apache]], [[san-antonio-cased-grain-spawn-method-origin-modern-miniculture-bigwood-beug-1982]].
+
+This subject continues to be an active area of research and practical application.

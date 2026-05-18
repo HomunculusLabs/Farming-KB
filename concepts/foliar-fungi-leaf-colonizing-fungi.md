@@ -36,7 +36,7 @@ The standard collection technique for sooty molds is the **colloidal leaf peel m
 
 ### Notable Occurrences
 
-In the Nothofagus (southern beech) forests of New Zealand, sooty mold growth can be extraordinarily profuse, with tree trunks covered in dark fungal mats extending up to 9 meters in height. These dramatic accumulations illustrate the sheer biomass that sooty molds can achieve under favorable conditions.
+In the Nothofagus (southern beech) forests of New Zealand, [[sooty-mold]] growth can be extraordinarily profuse, with tree trunks covered in dark fungal mats extending up to 9 meters in height. These dramatic accumulations illustrate the sheer biomass that sooty molds can achieve under favorable conditions.
 
 ## Black Mildews (Meliolales)
 
@@ -83,7 +83,7 @@ Downy mildews are not true fungi but rather plant-parasitic Straminipiles (Oomyc
 
 The order Taphrinales contains a single genus, *Taphrina*, comprising approximately 95 species of biotrophic microfungi. These organisms cause dramatic symptoms including galls, witches' brooms, leaf curl, and fruit distortion.
 
-- *Taphrina deformans* causes [[peach-leaf-curl]] — severe puckering, reddening, and thickening of peach leaves in spring.
+- *[[taphrina-deformans]]* causes [[peach-leaf-curl]] — severe puckering, reddening, and thickening of peach leaves in spring.
 - Asci are produced in a palisade layer arising directly from the host epidermis — *Taphrina* forms no specialized fruiting bodies (ascomata), making it unique among ascomycetes.
 - A yeast-like (saprobic) phase allows the fungus to survive on plant surfaces or in soil between infection periods.
 - Species are highly host-specific, restricted to a single plant family at most, and almost exclusively temperate in distribution.

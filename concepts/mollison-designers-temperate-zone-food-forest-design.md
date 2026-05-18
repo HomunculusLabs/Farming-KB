@@ -78,3 +78,25 @@ fruit tree might include:
 - A nitrogen-fixing shrub (seaberry or elaeagnus) supplying fertility.
 - A nutrient accumulator (comfrey) drawing minerals from deep soil layers.
 - An insectary plant (dill, yarrow, or fennel) attracting pollinators and
+## Benefits and Limitations
+
+Mollison Designers Temperate Zone Food Forest Design offers several advantages in practice, including adaptability to
+different conditions and compatibility with related approaches. However,
+limitations exist depending on context, scale, and available resources.
+Understanding both helps practitioners set realistic expectations and plan
+appropriate strategies for implementation.
+
+## Related Methods and Approaches
+
+Several complementary approaches exist alongside mollison designers temperate zone food forest design, each
+offering unique advantages for specific situations. Comparative evaluation
+of these methods helps identify the most suitable option given available
+resources, environmental constraints, and desired outcomes. Combining
+multiple approaches often yields synergistic benefits.
+
+## See Also
+
+- [[permaculture]]
+- [[companion-planting]]
+- [[food-forest]]
+- [[swale]]

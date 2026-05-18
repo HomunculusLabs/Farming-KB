@@ -12,7 +12,7 @@ Arbuscular mycorrhizal (AM) fungi form the most widespread type of [[mycorrhizal
 
 A mycorrhiza is a two-way mutualistic symbiosis between a fungus and a plant host. All AM fungi colonize plant roots and form distinctive **arbuscule** structures that interface with the plasmalemma of root cells. The plant provides carbon to the fungus largely via this arbuscule-plant cell plasmalemma interface, while the fungus provides enhanced nutrient uptake — particularly phosphorus — from soil.
 
-The external fungal hyphae extend into the soil far beyond the root zone, dramatically increasing the effective absorptive surface area of the root system. This is especially important for phosphorus acquisition in soils with low phosphorus levels (Safir 1987; Smith and Gianinazzi-Pearson 1988; Smith and Read 1997).
+The external [[fungal-hyphae]] extend into the soil far beyond the root zone, dramatically increasing the effective absorptive surface area of the root system. This is especially important for phosphorus acquisition in soils with low phosphorus levels (Safir 1987; Smith and Gianinazzi-Pearson 1988; Smith and Read 1997).
 
 ### When Symbiosis Becomes Pathogenic
 
@@ -23,7 +23,7 @@ In soils where phosphorus levels exceed plant requirements, the AM symbiosis is 
 Mycorrhizal colonization is initiated by hyphae emanating from either another mycorrhizal root or germinating spores. As colonization spreads within the root cortex through hyphal extension and branching, additional structures develop:
 
 - **Vesicles**: Contain lipids, thought to function in carbon storage; more persistent structures
-- **Auxiliary cells**: Also contain lipids but are much more transitory than vesicles; storage function may be tied closely to developmental events in fungal life cycles
+- **Auxiliary cells**: Also contain lipids but are much more transitory than vesicles; storage function may be tied closely to developmental events in [[fungal-life-cycles]]
 
 ### Suborder Differences in Infectivity
 

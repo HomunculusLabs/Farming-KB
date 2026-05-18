@@ -69,7 +69,7 @@ Natural sampling units are discrete, observable substrata such as individual lea
 
 ### Arbitrary Sampling Units (Plots)
 
-Plots are arbitrary sampling units used for decomposers of litter/humus and for [[mycorrhizal-fungi]], which lack discrete substrata. Plots range from 1 m² to 1000 m² and may be square, rectangular, or circular.
+Plots are arbitrary sampling units used for decomposers of litter/[[humus]] and for [[mycorrhizal-fungi]], which lack discrete substrata. Plots range from 1 m² to 1000 m² and may be square, rectangular, or circular.
 
 **Moving plots** are relocated each sampling period. They avoid disturbance effects from repeated visits but conflate annual variation with spatial variation due to the patchy distributions of many fungi.
 
@@ -77,7 +77,7 @@ Plots are arbitrary sampling units used for decomposers of litter/humus and for 
 
 ## Sampling Vegetative Mycelia
 
-Beyond sporocarps, researchers can sample sclerotia, mycorrhizae, mycelia, mycelial strands, cords, and rhizomorphs. Molecular analyses of ectomycorrhizae have revealed that many species rarely or never produce above-ground sporocarps (Gardes and Bruns 1996). Standard methods for sampling ectomycorrhizae are described in Johnson et al. (2000). Additionally, humid chambers can encourage fruiting of some ascomycetes and small agarics, providing a bridge between vegetative and sporocarp-based detection.
+Beyond sporocarps, researchers can sample sclerotia, [[mycorrhizae]], mycelia, mycelial strands, cords, and rhizomorphs. Molecular analyses of ectomycorrhizae have revealed that many species rarely or never produce above-ground sporocarps (Gardes and Bruns 1996). Standard methods for sampling ectomycorrhizae are described in Johnson et al. (2000). Additionally, humid chambers can encourage fruiting of some ascomycetes and small agarics, providing a bridge between vegetative and sporocarp-based detection.
 
 ## Convenience Versus Plot Sampling
 

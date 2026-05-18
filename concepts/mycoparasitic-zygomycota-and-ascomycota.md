@@ -23,7 +23,7 @@ Both families are largely understudied in environmental surveys, suggesting thei
 
 Mycoparasitic Zygomycota play important but frequently overlooked roles in regulating fungal populations within their microhabitats. By parasitizing fast-growing mucoralean decomposers, dimargaritalean mycoparasites can slow decomposition rates and alter succession patterns on dung and decaying plant matter. Their obligate nature means they are highly sensitive to environmental disturbances, making them potential bioindicators of habitat quality and microhabitat stability.
 
-The genus **Spinellus** and **Syzygites**, while not obligate, similarly influence the reproductive success of their agaric hosts by destroying or deforming fruit bodies before spore release can occur. This can have cascading effects on fungal population dynamics, particularly for host species that rely on a narrow fruiting window for effective spore dispersal.
+The genus **Spinellus** and **Syzygites**, while not obligate, similarly influence the reproductive success of their agaric hosts by destroying or deforming fruit bodies before spore release can occur. This can have cascading effects on fungal population dynamics, particularly for host species that rely on a narrow fruiting window for effective [[spore-dispersal]].
 
 ### Nonspecific Mycoparasites on Mucorales
 

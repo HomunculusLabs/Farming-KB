@@ -78,3 +78,24 @@ Palmer observed that mycologists of his era had "a strange jealousy of tearing a
 Palmer's work represents a pivotal moment in [[early-american-mycology-and-palmer]]. He conducted all his research "in the moments of forest recreation at intervals in a busy life," yet his contributions laid groundwork for the popularization of mycophagy in the United States. His greatest satisfaction was in the growing number of people interested in fungi compared with those who cared about the subject fifteen years earlier.
 
 His collaboration with Paul Casamajor — head chemist of the Havemeyer sugar refineries, described by associates as "one of the most distinguished chemists in the world" and a correspondent of Pasteur — lent scientific credibility to his practical approach. Casamajor's testing methodology, following Palmer's guidance, confirmed the safety of multiple edible species that textbooks had labeled as dangerous.
+## Applications and Practical Uses
+
+The principles behind toadstool eating and mycological ignorance have been applied across various
+domains, from research laboratories to field-scale operations. Key
+applications include integration with existing workflows and adaptation
+to specific environmental conditions and goals.
+
+## Key Considerations
+
+Several factors influence the effectiveness and outcomes of
+toadstool eating and mycological ignorance. Environmental conditions, timing, and material
+selection all play critical roles. Proper preparation and monitoring
+help ensure consistent results across different scenarios.
+
+## See Also
+
+- [[mycelium]]
+- [[spore]]
+- [[mushroom-cultivation]]
+- [[basidiomycota]]
+- [[ascomycota]]

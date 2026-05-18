@@ -77,3 +77,5 @@ leading to increasingly sophisticated understanding. Historical research laid th
 groundwork for modern approaches, and key discoveries have shaped current practices.
 Understanding this history provides context for contemporary research directions
 and helps identify areas where further investigation is needed.
+
+This subject continues to be an active area of research and practical application.

@@ -63,7 +63,7 @@ Several groups of Zygomycota are specialized mycoparasites:
 
 ### Nonspecific Mycoparasites Among Mucorales
 
-- **Parasitella parasitica** (Mucoraceae): A weak parasite of various Mucoraceae, Thamnidiaceae, and Choanephoraceae, contacting hosts by means of a kind of capturing hypha (Burgeff 1924; Zycha et al. 1969)
+- **[[parasitella-parasitica]]** (Mucoraceae): A weak parasite of various Mucoraceae, Thamnidiaceae, and Choanephoraceae, contacting hosts by means of a kind of capturing hypha (Burgeff 1924; Zycha et al. 1969)
 - **Absidia parricida** (Mucoraceae): Another mycoparasitic species
 - **Chaetocladium** (Thamnidiaceae): A weakly parasitic genus that grows easily on any culture medium (Benny and Benjamin 1976)
 - **Spinellus, Syzygites, and Dicranophora** (all Mucoraceae): Parasitize agarics
@@ -87,7 +87,7 @@ The placement of Rozella in the Blastocladiales is debated, with three additiona
 Destructive necrotrophic mycoparasites of some ascomycetes (e.g., Ceratocystis) have been found among diverse aphyllophorale genera:
 
 - **Bjerkandera, Lenzites, Trichaptum, Trametes, Schizophyllum, and Pleurotus** (Griffith and Barnett 1967; Traquair and McKeen 1978)
-- **Schizophyllum commune**: A potent mycoparasite of many plant-pathogenic fungi, coiling around and penetrating host hyphae, which it then destroys (Tzean and Estey 1978b). A suitable host is the nematophagous and fungicolous Arthrobotrys oligospora.
+- **[[schizophyllum-commune]]**: A potent mycoparasite of many plant-pathogenic fungi, coiling around and penetrating host hyphae, which it then destroys (Tzean and Estey 1978b). A suitable host is the nematophagous and fungicolous Arthrobotrys oligospora.
 - **Geotrichopsis mycoparasitica**: An arthroconidial basidiomycete with characteristic spindle-shaped chlamydospores, attacking nematophagous fungi, Mucoraceae, Mortierella, Pythium, Chalara elegans, and Rhizoctonia solani — but not Aspergillus, Penicillium, Geotrichum, Drechslera, or Nematoctonus species (Tzean and Estey 1991, 1992)
 
 Athelia rolfsii and Heterobasidion annosum are resistant to G. mycoparasitica. Athelia arachnoidea, however, is mainly lichenicolous.

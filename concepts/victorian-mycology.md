@@ -61,7 +61,7 @@ The case of "Mr W." (possibly a Mr. White or Mr. Wright) is one of the earliest 
 - [[mushroom-identification]] — Modern identification methods descended from Victorian taxonomy
 - [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom discovery
 - [[mushroom-folklore-and-culture]] — Mushrooms in fairy lore and popular culture
-- [[mordecai-cooke]] — The Victorian mycologist who almost discovered magic mushrooms
+- [[mordecai-cubitt-cooke]] — The Victorian mycologist who almost discovered magic mushrooms
 - [[r-gordon-wasson]] — Who ultimately brought Mexican mushroom practices to Western attention
 
 ## Related

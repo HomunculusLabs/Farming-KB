@@ -34,7 +34,7 @@ Leaf surface impressions or peels are useful for examining fungal structures on 
 
 ### Sooty Mold Examination
 
-Sooty molds on leaves can be collected and examined using a specialized peel technique. A drop of 2% collodion/parlodion solution—prepared in a volume/volume mixture of diethyl ether or absolute ethanol—or cellulose acetate is spread gently on the leaf colony using a glass rod. The solution dries to form a thin film in which the fungus is embedded (Stevens 1981). When the film is peeled from the leaf surface, it removes the intact colony. The "leaf peel" is placed on a microscope slide, and the collodion is removed with acetone. The intact sooty mold colony can then be examined under a compound light microscope.
+Sooty molds on leaves can be collected and examined using a specialized peel technique. A drop of 2% collodion/parlodion solution—prepared in a volume/volume mixture of [[diethyl-ether]] or absolute ethanol—or cellulose acetate is spread gently on the leaf colony using a glass rod. The solution dries to form a thin film in which the fungus is embedded (Stevens 1981). When the film is peeled from the leaf surface, it removes the intact colony. The "leaf peel" is placed on a microscope slide, and the collodion is removed with acetone. The intact [[sooty-mold]] colony can then be examined under a compound light microscope.
 
 ### Twig Microepiphyte Sampling
 

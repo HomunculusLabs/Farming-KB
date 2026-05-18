@@ -78,3 +78,24 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+## Benefits and Limitations
+
+Nematode Roles In Soil offers several advantages in practice, including adaptability to
+different conditions and compatibility with related approaches. However,
+limitations exist depending on context, scale, and available resources.
+Understanding both helps practitioners set realistic expectations and plan
+appropriate strategies for implementation.
+
+## Related Methods and Approaches
+
+Several complementary approaches exist alongside nematode roles in soil, each
+offering unique advantages for specific situations. Comparative evaluation
+of these methods helps identify the most suitable option given available
+resources, environmental constraints, and desired outcomes. Combining
+multiple approaches often yields synergistic benefits.
+
+## See Also
+
+- [[mycelium]]
+- [[spore]]
+- [[companion-planting]]

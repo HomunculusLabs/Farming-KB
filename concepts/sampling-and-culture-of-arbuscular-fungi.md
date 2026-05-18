@@ -61,7 +61,7 @@ Seasonal fluctuations in live spore abundance have been documented for many spec
 - Even a single sampling coupled with trap cultures provides valuable information
 - In arid or wet habitats where mycorrhizal development is low, sporulation may not be detected for much of the year
 
-The relationship between aboveground succession and AM fungal community composition has been studied in many habitats, but interpretation of field-collected data at minimum requires multiple seasonal sampling along with measurements of soil characteristics (pH, organic matter, cation exchange capacity, nutrient concentrations).
+The relationship between aboveground succession and AM fungal community composition has been studied in many habitats, but interpretation of field-collected data at minimum requires multiple seasonal sampling along with measurements of soil characteristics (pH, organic matter, [[cation-exchange-capacity]], nutrient concentrations).
 
 ## Trap-Pot Cultures
 

@@ -18,7 +18,7 @@ Cooke's contributions to mycology were foundational, spanning taxonomy, classifi
 - **Born:** 1825
 - **Died:** 1914
 - **Field:** Mycology, botany
-- **Specialty:** Fungal taxonomy and classification
+- **Specialty:** [[fungal-taxonomy-and-classification]]
 - **Institution:** Royal Botanic Gardens, Kew
 
 ## Key Facts
@@ -41,7 +41,7 @@ Cooke's influence extended beyond his own publications. By establishing rigorous
 
 ## Relevance to Cultivation and Mycology
 
-Cooke's taxonomic work provided the classification system that underpins all modern mushroom identification. For cultivators, the species names used in cultivation guides owe their standardization to the work of Cooke and his peers. Understanding the historical development of fungal taxonomy helps modern mycologists appreciate why certain species have been reclassified over time and why common names can be unreliable.
+Cooke's taxonomic work provided the classification system that underpins all modern mushroom identification. For cultivators, the species names used in cultivation guides owe their standardization to the work of Cooke and his peers. Understanding the historical development of [[fungal-taxonomy]] helps modern mycologists appreciate why certain species have been reclassified over time and why common names can be unreliable.
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

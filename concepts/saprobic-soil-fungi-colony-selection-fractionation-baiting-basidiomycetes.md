@@ -12,7 +12,7 @@ The practice of arbitrarily selecting only "different-looking" colonies from iso
 
 1. **Forces comprehensive evaluation.** All fungi are assessed, not merely the conspicuous or immediately interesting ones. Species that appear uncommon at first glance often prove to be common, compelling investigators to grapple with taxonomically difficult groups that might otherwise be ignored.
 
-2. **Reduces investigator bias.** Less experienced researchers tend to overselect pigmented and heavily sporulating colonies — such as *Epicoccum nigrum*, *Stachybotrys chartarum*, and *Aspergillus terreus* — while overlooking dingy, less distinctive colonies of *Acremonium*, *Fusarium*, and featureless basidiomycetes that may be ecologically significant.
+2. **Reduces investigator bias.** Less experienced researchers tend to overselect pigmented and heavily sporulating colonies — such as *[[epicoccum-nigrum]]*, *[[stachybotrys-chartarum]]*, and *Aspergillus terreus* — while overlooking dingy, less distinctive colonies of *Acremonium*, *Fusarium*, and featureless basidiomycetes that may be ecologically significant.
 
 3. **Enables pattern detection.** Recurring ecological and distributional patterns are detectable and quantifiable only when systematic, abundance-ranked data are collected.
 
@@ -148,9 +148,3 @@ Other enumeration approaches:
 
 - **Most probable number (MPN) method** (Ulken and Sparrow 1968) — shown to be unreliable for soil chytrids (Booth and Barrett 1976).
 - **Distribution intensity index (DII)** = percent occurrence × √(percent frequency) (Booth and Barrett 1976) — a composite metric integrating both spatial occurrence and frequency.
-
-Typical chytrid diversity ranges from **2 to 35 species per habitat** (Willoughby 1961; Booth and Barrett 1976). **Biodiversity** is quantified as total species per site, while **ecological prominence** is assessed using the DII.
-
-## Summary
-
-Effective study of [[saprobic-soil-fungi]] requires disciplined colony selection, strategic community fractionation to overcome competitive exclusion, targeted baiting and sclerotial recovery, and specialized methods for basidiomycetes and chytridiomycetes that standard plating techniques underrepresent. Together these approaches yield a more complete and less biased picture of [[soil-fungal-diversity]].

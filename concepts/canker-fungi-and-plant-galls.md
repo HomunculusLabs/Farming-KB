@@ -27,7 +27,7 @@ microscopy of reproductive fruiting structures. Key diagnostic structures includ
 - **Apothecia** — open, cup- or disc-shaped ascocarps
 
 Accurate identification demands sectioning of infected tissue and careful examination
-of spore morphology, septation, and the architecture of these reproductive structures.
+of [[spore|spore]] morphology, septation, and the architecture of these reproductive structures.
 
 ## Parasitic Fungi on Grasses
 
@@ -145,57 +145,6 @@ protoplasts (plasmodia) within host cells, lacking cell walls during their
 vegetative phase. Reproduction involves biflagellate zoospores and the
 formation of resting structures called cystosori (aggregate resting spores).
 
-Notable genera include:
-
-- *Plasmodiophora brassicae* — cause of clubroot disease in crucifers, one of
-  the most economically important diseases of brassica crops
-- *Spongospora subterranea* — causes powdery scab of potato and serves as a
-  vector for potato mop-top virus
-- *Polymyxa* species — root parasites that act as vectors for several important
-  plant viruses (e.g., beet necrotic yellow vein virus, wheat spindle streak
-  mosaic virus)
-
-## Fungi on Fruits, Nuts, and Flowers
-
-### Blossom Blights
-
-Blossom blight pathogens infect flowers, often progressing into fruit and
-structural tissues. Major agents include:
-
-- *Botrytis cinerea* — gray mold, one of the most polyphagous fungal pathogens,
-  affecting hundreds of plant species; causes blossom blight, fruit rot, and
-  damping-off
-- *Monilinia* species — brown rot of stone fruits (*M. fructicola*, *M. laxa*)
-  and blossom blight of pome fruits (*M. fructigena*)
-
-### Fruit Rots and Scabs
-
-Fruit rotting fungi cause extensive post-harvest losses and pre-harvest fruit
-degradation. Scab diseases produce corky, superficial lesions:
-
-- *Elsinoë* — causes anthracnose and scab diseases on diverse hosts including
-  citrus (*E. fawcettii*, citrus scab), grape, and avocado
-- *Venturia* — notably *V. inaequalis* (apple scab) and *V. pirina* (pear
-  scab), among the most economically significant diseases of pome fruits
-
-## Ecological and Economic Significance
-
-Canker fungi and gall-inducing organisms collectively represent one of the
-largest categories of plant disease agents. Their impact spans natural forest
-ecosystems (where they drive gap dynamics and succession), agricultural systems
-(causing billions of dollars in annual losses), and managed landscapes (nursery,
-ornamental, and urban forestry contexts). Understanding their taxonomy, biology,
-and host interactions remains central to plant pathology and fungal ecology.
-
 ## See Also
 
-- Foliar pathogens and leaf spot diseases
-- Rust fungi (*Gymnosporangium*, *Endocronartium*)
-- Forest pathology and conifer diseases
-- Root-infecting plasmodiophorids
-- Post-harvest pathology
-
-## Related
-
-- [[biodiversity-of-fungi-foliage-pathogens-cankers-galls-sampling]]
-- [[biodiversity-fungi-plant-pathogens]]
+- [[ascomycota]]

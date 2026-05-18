@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*Scutellospora pellucida* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Scutellospora*, suborder Gigasporineae, order Glomales. It is known from sand dune habitats where it can exhibit highly aggregated spatial distributions—occurring abundantly in single samples while being absent from others at the same site. This patchy distribution has made it a reference species in discussions of statistical methods for comparing AM fungal species abundances.
+*Scutellospora pellucida* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Scutellospora*, suborder Gigasporineae, order [[glomales]]. It is known from sand dune habitats where it can exhibit highly aggregated spatial distributions—occurring abundantly in single samples while being absent from others at the same site. This patchy distribution has made it a reference species in discussions of statistical methods for comparing AM fungal species abundances.
 
 ## Classification
 
@@ -31,7 +31,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-*Scutellospora pellucida* is significant for methodological and statistical aspects of AM fungal ecology:
+*Scutellospora pellucida* is significant for methodological and statistical aspects of AM [[fungal-ecology]]:
 
 - Serves as a textbook example of why both abundance and frequency of occurrence must be combined when calculating importance values (IV) for AM fungal species
 - Illustrates the highly aggregated distribution of AM fungal spores in soil, a fundamental challenge in sampling design

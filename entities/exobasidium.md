@@ -28,7 +28,7 @@ Exobasidium is the largest genus in the order [[exobasidiales]] (class Ustilagin
 - Overmature Exobasidium colonies often are overgrown by hyphomycetes, making identification difficult.
 - In temperate regions, symptoms are most visible at midsummer.
 - Other genera of Exobasidiaceae include Kordyana (pantropical on Commelinaceae) and Muribasidiospora (on Rhus and Celtis).
-- Molecular studies have shown the Exobasidiales is closely related to Tilletia and allied taxa rather than to true smuts.
+- Molecular studies have shown the Exobasidiales is closely related to [[tilletia-entity]] and allied taxa rather than to true smuts.
 
 ## Relevance to Cultivation and Mycology
 
@@ -40,7 +40,6 @@ Exobasidium is the largest genus in the order [[exobasidiales]] (class Ustilagin
 ## Ecological Context
 
 Exobasidium species are primarily associated with Ericales in temperate regions but extend into the tropics through related host families. The genus exemplifies the evolutionary diversity within the Ustilaginomycetes, showing that morphologically similar gall-forming parasites may belong to distinct phylogenetic lineages. The tropical representatives of the Exobasidiales (Brachybasidiaceae, Cryptobasidiaceae, Graphiolaceae) are poorly studied.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -92,7 +91,7 @@ Exobasidium species are primarily associated with Ericales in temperate regions 
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
 - If taxonomy has changed, record the older name as historical context only when the source supports it.
-- If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
+- If cultivation relevance is uncertain, keep the statement framed as relevance to [[mycology]] rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
 

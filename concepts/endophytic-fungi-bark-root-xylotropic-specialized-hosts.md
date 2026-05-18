@@ -6,7 +6,7 @@ type: concept
 
 # Endophytic Fungi — Bark, Root, Xylotropic, and Specialized Host Endophytes
 
-[[endophytic-fungi]] colonize living plant tissues asymptomatically, representing one of the most diverse and poorly understood components of fungal biodiversity. Beyond the well-studied foliar endophytes of grasses and herbaceous plants, woody perennials harbor rich communities of endophytes in bark, xylem, roots, and specialized host tissues including lichens, mosses, liverworts, and pteridophytes. This page catalogs these communities by tissue type and host group, drawing primarily from comprehensive surveys of woody perennials and associated non-vascular plants.
+[[endophytic-fungi]] colonize living plant tissues asymptomatically, representing one of the most diverse and poorly understood components of [[fungal-biodiversity]]. Beyond the well-studied foliar endophytes of grasses and herbaceous plants, woody perennials harbor rich communities of endophytes in bark, xylem, roots, and specialized host tissues including lichens, mosses, liverworts, and pteridophytes. This page catalogs these communities by tissue type and host group, drawing primarily from comprehensive surveys of woody perennials and associated non-vascular plants.
 
 The endophytic lifestyle represents a fundamentally important ecological strategy
 among fungi, encompassing species that range from latent pathogens to mutualists.
@@ -73,7 +73,7 @@ from rain-washed tree trunks (Bandoni 1981). These unexpected terrestrial
 recoveries challenge the traditional view of Ingoldian fungi as strictly
 aquatic organisms.
 
-Bandoni (1981) proposed that some aquatic hyphomycetes may function as
+Bandoni (1981) proposed that some [[aquatic-hyphomycetes]] may function as
 endophyte-like early leaf colonists or even parasites on land plants. Ando
 (1992) documented "terrestrial aquatic fungi" from living leaves, finding
 staurosporous conidia produced from minute endophytic conidiophores that

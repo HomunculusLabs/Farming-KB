@@ -124,6 +124,6 @@ The cluster flower stage is the hallmark of maitake development and the key refe
 
 - [[grifola-frondosa]]
 - [[maitake-cultivation]]
-- [[maitake-harvest-timing-post-harvest-handling]]
+- [[maitake-harvest-timing]]
 - [[maitake-soil-casing-technique]]
 - [[mushroom-harvesting]]

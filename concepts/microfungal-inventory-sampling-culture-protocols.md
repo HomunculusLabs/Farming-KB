@@ -85,7 +85,7 @@ Nutrient-poor media are generally most effective:
 ### Growth Inhibitors
 
 - **Low temperature incubation** or **chemical inhibitors** (e.g., cyclosporin; Dreyfuss 1986) slow fast-growing species.
-- **Cyclosporin-containing media** permit spore germination but restrict hyphal extension, making colony separation easier.
+- **Cyclosporin-containing media** permit [[spore]] germination but restrict hyphal extension, making colony separation easier.
 - These media are not strictly selective but are highly effective for materials with high fungal density.
 
 ### Nonsporulating Cultures
@@ -143,42 +143,8 @@ Comprehensive within-site environmental variation mapping should include:
 - **Topographic features**: elevation, aspect, slope.
 - **Climatic data**: temperature, precipitation, and insolation records over multiple years.
 - **Geologic features**: rock type, soil acidity, composition, and water content.
-- **Special features**: rivers, caves, outcrops, and other habitat modifiers.
+## See Also
 
-### Sampling Frequency
-
-For single-species surveys, sealed cut branches slow desiccation and extend the observation window. Moist chamber observations should span a considerable period to capture successional patterns in fungal fruiting and sporulation.
-
-### Field Observations
-
-Detailed field notes are essential. At minimum, records should include:
-
-- Plant species identity (verified by a specialist when possible).
-- Precise plant part sampled (leaf, twig, bark, petiole, etc.).
-- Date, precise location (GPS coordinates), and microclimate conditions.
-- Prevailing weather at time of collection.
-- Samples separated for homogeneity; host population structure and ecosystem position documented.
-
----
-
-## Key References
-
-- Bååth, E. (1988) — colony-to-particle ratio recommendations.
-- Bills, G.F. & Polishook, J.D. (1994) — particle filtration culture method.
-- Cannon, P.F. (1997b) — reproducibility over completeness in fungal inventories.
-- Dreyfuss, M.M. (1986) — use of cyclosporin as a growth inhibitor.
-- Harley, J.L. & Waid, J.S. (1955) — litter washing technique.
-- Heredia, G. (1993) — adhesive tape mounting for moist chamber observation.
-- Janzen, D.H. et al. (1993) — parataxonomist concept.
-- Lodge, D.J. et al. (1996a) — tissue fragmentation for spatial reference.
-- Oliver, I. & Beattie, A.J. (1993) — use of non-specialist collectors.
-- Parkinson, D. & Williams, S.T. (1961) — litter washing refinement.
-- Polishook, J.D. et al. (1996) — complementarity of direct observation and culture.
-- Tokumasu, S. et al. (1997) — detergent wash method for pine needles.
-- Visser, S. & Parkinson, D. (1975) — complementarity of isolation techniques.
-- Watson, A.G. et al. (1974) — moist chamber and isolation complementarity.
-- Wilson, J. & Carroll, G.C. (1994) — spatial fragmentation technique.
-
-## Related
-- [[biodiversity-microfungal-inventory]]
-- [[microfungal-field-collection-laboratory-woody-sampling]]
+- [[mycology]]
+- [[fungal-taxonomy]]
+- [[fungal-culture-media]]

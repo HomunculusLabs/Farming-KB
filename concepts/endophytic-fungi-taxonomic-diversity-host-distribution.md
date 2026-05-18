@@ -19,7 +19,7 @@ tissue types, and geographic regions.
 
 ### Conifers
 
-*Abies alba* is among the most thoroughly studied conifers, with tissue-specific diversity:
+*[[abies-alba]]* is among the most thoroughly studied conifers, with tissue-specific diversity:
 120 species in needles (Switzerland, Sieber-Canavesi and Sieber 1993), 50 in twigs (Sieber
 1989), and 44 in branch bases (Germany/Poland, Kowalski and Kehr 1992). *Juniperus communis*
 leaves yielded 114 species (Switzerland, Petrini and Müller 1979); *Picea abies* twigs 85

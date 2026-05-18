@@ -78,3 +78,23 @@ The organic solution is concentrated, filtered through [[aminopropyl-silica-gel-
 gel, and concentrated again. The resulting crystals are washed with methanol
 to afford psilocin as white crystals in over 85% yield. The melting point
 was 169-174 degrees Celsius with decomposition (literature: 173-176
+## Benefits and Limitations
+
+Shirota Psilocin Psilocybin Synthesis From 4 Hydroxyindole offers several advantages in practice, including adaptability to
+different conditions and compatibility with related approaches. However,
+limitations exist depending on context, scale, and available resources.
+Understanding both helps practitioners set realistic expectations and plan
+appropriate strategies for implementation.
+
+## Related Methods and Approaches
+
+Several complementary approaches exist alongside shirota psilocin psilocybin synthesis from 4 hydroxyindole, each
+offering unique advantages for specific situations. Comparative evaluation
+of these methods helps identify the most suitable option given available
+resources, environmental constraints, and desired outcomes. Combining
+multiple approaches often yields synergistic benefits.
+
+## See Also
+
+- [[psilocybin]]
+- [[set-and-setting]]

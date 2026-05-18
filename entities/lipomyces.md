@@ -26,7 +26,7 @@ tags: [yeast, ascomycete, soil-isolate, oleaginous, lipid-production]
 - *Lipomyces* species are isolated exclusively from soils, reflecting a specialized edaphic ecology.
 - The genus is oleaginous — capable of accumulating lipids to more than 20% (sometimes exceeding 60%) of their dry cell weight under appropriate culture conditions.
 - Major lipid storage compounds include triacylglycerols and free fatty acids, primarily oleic acid and palmitic acid.
-- *Lipomyces* species can utilize a wide range of carbon sources for lipid accumulation, including glucose, xylose, glycerol, and various agricultural waste streams.
+- *Lipomyces* species can utilize a wide range of carbon sources for lipid accumulation, including glucose, xylose, [[glycerol]], and various agricultural waste streams.
 - Soil populations can reach 10⁵–10⁶ colony-forming units per gram, suggesting active growth rather than passive deposition.
 - The genus includes species such as *L. starkeyi*, *L. tetrasporus*, and *L. kononenkoae*, each with distinct physiological profiles.
 - *Lipomyces* produces encapsulated cells surrounded by a thick polysaccharide capsule, a distinctive morphological feature visible under the microscope.
@@ -41,8 +41,7 @@ tags: [yeast, ascomycete, soil-isolate, oleaginous, lipid-production]
 - **Soil ecology:** Contributes to organic matter decomposition and lipid cycling in soil ecosystems.
 - **Carbon capture:** Fast growth and high carbon conversion efficiency make it interesting for carbon sequestration research.
 
-For cultivators, *Lipomyces* species in soil may compete with cultivated fungi for nutrients in outdoor or semi-sterile growing systems. Understanding soil yeast communities can inform substrate preparation and contamination management.
-
+For cultivators, *Lipomyces* species in soil may compete with cultivated fungi for nutrients in outdoor or semi-sterile growing systems. Understanding soil yeast communities can inform [[substrate-preparation]] and contamination management.
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

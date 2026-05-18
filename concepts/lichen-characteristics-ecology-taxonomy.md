@@ -70,7 +70,7 @@ Lichens play several ecologically significant roles:
 - **Indirect ecological effects**: The classic case of industrial melanism in peppered moths (Kettlewell 1973) illustrates the indirect impact of lichen community changes on other organisms.
 - **Biomass contribution**: In deserts and tundra, lichens constitute a significant proportion of autotrophic biomass (Kappen 1988).
 - **Nitrogen fixation**: In Pacific Northwest conifer forests, lichens contribute significantly to nitrogen fixation (Nash 1996).
-- **Nutrient cycling**: In temperate and boreal forests, lichens alter nutrient availability and buffer heavy metals from atmospheric deposition (Seaward 1988).
+- **Nutrient cycling**: In temperate and boreal forests, lichens alter [[nutrient-availability]] and buffer heavy metals from atmospheric deposition (Seaward 1988).
 
 ## Taxonomy, Diversity, and Distribution
 

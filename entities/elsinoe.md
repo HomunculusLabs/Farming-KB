@@ -60,8 +60,8 @@ with multiple locules containing bitunicate asci.
 *Elsinoë* scabs occur on a wide range of agriculturally important
 tropical and subtropical hosts including:
 - **Avocado** (*[[persea-americana]]*)
-- **Cashew** (*Anacardium occidentale*)
-- **Castor** (*Ricinus communis*)
+- **Cashew** (*[[anacardium-occidentale]]*)
+- **Castor** (*[[ricinus-communis]]*)
 - **Groundnut/peanut** (*Arachis hypogaea*)
 - **Papaw/papaya** (*Carica papaya*)
 - **Poinsettia** (*Euphorbia pulcherrima*)

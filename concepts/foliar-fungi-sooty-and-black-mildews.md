@@ -36,7 +36,7 @@ The *Metacapnodiaceae* produce distinctive tapering moniliform hyphae with rigid
 
 ### Collection Techniques
 
-Sooty molds on leaves are easier to collect and identify than those on tree trunks. A drop of 2% collodion/parlodion solution (in diethyl ether or absolute ethanol) or cellulose acetate is spread gently on the leaf colony using a glass rod or similar tool. The solution dries in minutes to a transparent film in which the fungus is embedded. When the film is peeled from the leaf surface (the "leaf peel" technique), it removes the intact colony. The peel is placed on a microscope slide and the collodion removed with acetone for examination under a compound light microscope. Water-soluble mucilage glue can also be used in the same way.
+Sooty molds on leaves are easier to collect and identify than those on tree trunks. A drop of 2% collodion/parlodion solution (in [[diethyl-ether]] or absolute ethanol) or cellulose acetate is spread gently on the leaf colony using a glass rod or similar tool. The solution dries in minutes to a transparent film in which the fungus is embedded. When the film is peeled from the leaf surface (the "leaf peel" technique), it removes the intact colony. The peel is placed on a microscope slide and the collodion removed with acetone for examination under a compound light microscope. Water-soluble mucilage glue can also be used in the same way.
 
 Keys for genera can be found in Luttrell (1973), and species descriptions in Hughes (1976) and Batista and Ciferri (1963). Reynolds (1971, 1978a, 1978b, 1979, 1982, 1983, 1985) reported on collections from the Neotropics.
 
@@ -72,7 +72,7 @@ The downlike appearance on leaves is frequently accompanied by chlorosis or necr
 
 ## Taphrinales and Protomycetales
 
-**Taphrina** (Taphrinales, Ascomycota) includes about 95 species of biotrophic microfungi causing hyperplasia, galls, or witches' brooms on ferns and higher plants. Some species are associated with deformed fruit, leaf spot, or leaf curl, and discolor infected tissues yellow or pink, often with a whitish bloom indicating sporulation. Asci are produced in a palisade on or from within the epidermis; there are no specialized fruiting bodies. The common leaf curl of peach is caused by *Taphrina deformans*. Species are fairly host-specific and occur almost exclusively in temperate regions. Foliar damage is most visible in spring. They can be cultured but behave like slow-growing pale pink yeasts.
+**Taphrina** (Taphrinales, Ascomycota) includes about 95 species of biotrophic microfungi causing hyperplasia, galls, or witches' brooms on ferns and higher plants. Some species are associated with deformed fruit, leaf spot, or leaf curl, and discolor infected tissues yellow or pink, often with a whitish bloom indicating sporulation. Asci are produced in a palisade on or from within the epidermis; there are no specialized fruiting bodies. The common leaf curl of peach is caused by *[[taphrina-deformans]]*. Species are fairly host-specific and occur almost exclusively in temperate regions. Foliar damage is most visible in spring. They can be cultured but behave like slow-growing pale pink yeasts.
 
 **Protomyces** (Protomycetales) includes about 10 species causing galls in leaf and stem tissues of Apiaceae and Asteraceae, containing large thick-walled overwintering chlamydospores. Many species are readily cultured. Little has been published on tropical species, although *P. andinus* has been reported from Asteraceae in Ecuador and Brazil.
 

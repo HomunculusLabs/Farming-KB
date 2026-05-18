@@ -148,15 +148,3 @@ Build in phases, each delivering a **working system**:
 A complex schema does not require a complex user interface. Data entry screens should be clean, guided by dropdown lists, and organized logically.
 
 Every standard should be documented in a **data dictionary** specifying the definition and purpose of every field, accepted values and formats, mandatory versus optional status, and relationships between tables and fields. The data dictionary is the single most important reference for maintaining data quality over time.
-
-## Conclusion
-
-Database design for fungal specimen collections requires both mycological expertise and sound relational design principles. By following a top-down approach, enforcing field and table design rules, managing synonymy through recursive relationships, and standardizing data through authority tables, curators can build databases that serve their collections for decades.
-
-Start small, document everything, and let the database grow with the collection.
-
-## See Also
-
-- [[specimen-database-design]]
-- [[biodiversity-database-design-fields-tables]]
-- [[fungal-phylogeny-classification]]

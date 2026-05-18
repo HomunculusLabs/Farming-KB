@@ -6,7 +6,7 @@ type: concept
 
 # Water Activity in Fungal Isolation
 
-Water activity (a_w) is a critical parameter in mycology, particularly when isolating and studying fungi from extreme or stressful environments. It represents the ratio of the vapor pressure of water in a substrate to the vapor pressure of pure water and ranges from 0 (completely dry) to 1.0 (pure water). Understanding and manipulating water activity is essential for selectively isolating xerophilic (drought-loving), halophilic (salt-loving), and other extremophilic fungi.
+Water activity (a_w) is a critical parameter in mycology, particularly when isolating and studying fungi from extreme or stressful environments. It represents the ratio of the vapor pressure of water in a substrate to the vapor pressure of pure water and ranges from 0 (completely dry) to 1.0 (pure water). Understanding and manipulating water activity is essential for selectively isolating xerophilic (drought-loving), halophilic (salt-loving), and other [[extremophilic-fungi]].
 
 ## Measuring Water Activity
 
@@ -41,7 +41,7 @@ Xerophilic fungi thrive in low-moisture environments. Their study requires caref
 
 - Use dichloran-glycerol-18 (DG18) medium, recommended by Hocking and Pitt (1980) over standard media
 - DG18 is effective for isolating from low-moisture foods and arid environments
-- Incubation temperature, pH, and nutrient availability all affect growth rates at selected a_w values
+- Incubation temperature, pH, and [[nutrient-availability]] all affect growth rates at selected a_w values
 - If using dilutions as inoculum source, the diluent should contain 20-30% glucose or fructose in peptone water to prevent osmotic shock (Cory 1987)
 
 ## Isolating Halophilic Fungi

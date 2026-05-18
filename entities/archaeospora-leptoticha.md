@@ -23,7 +23,7 @@ type: entity
 
 - One of only two species in the genus *Archaeospora* (the other being *A. trappei*)
 - Distributed widely on most continents, similar to other globally distributed AM species (Redecker et al. 2000a; Morton and Redecker 2001)
-- Phylogenetically ancient lineage, more closely related to *Geosiphon pyriforme* than to other AM fungi based on 18S rDNA analysis
+- Phylogenetically ancient lineage, more closely related to *[[geosiphon-pyriforme]]* than to other AM fungi based on 18S rDNA analysis
 - The family Archaeosporaceae was newly erected to accommodate species with this unique phylogenetic position (Morton and Redecker 2001)
 - Some *Archaeospora* species produce both *Acaulospora*-like and *Glomus*-like spores from the same thallus
 - Likely that additional species currently classified in other genera will be transferred to *Archaeospora* as molecular analyses progress

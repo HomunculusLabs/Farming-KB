@@ -65,7 +65,7 @@ The physiological and ecological diversities among populations of all globally d
 
 ### Living Collections
 
-- **INVAM** (International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi), West Virginia — the oldest and largest centralized collection, with nearly 1,100 accessions of more than 86 species (as of 2001)
+- **INVAM** (International Culture Collection of Vesicular [[arbuscular-mycorrhizal-fungi]]), West Virginia — the oldest and largest centralized collection, with nearly 1,100 accessions of more than 86 species (as of 2001)
 - **BEG** ([[bank-of-european-glomales]]) — organized as a network with a central coordinator; accessions registered centrally but cultured at individual researcher institutions
 - Regional collections exist in Australia, Cuba, Taiwan, and Colombia
 

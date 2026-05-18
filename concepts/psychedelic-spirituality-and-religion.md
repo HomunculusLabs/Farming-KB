@@ -78,3 +78,22 @@ setting as the primary determinants of [[hofmann-lsd-clinical-research-early-stu
 mystical-type experiences. The [[early-paris-psilocybin-research-1960s]] program at Johns Hopkins
 developed validated scales (the Mystical Experience Questionnaire) to quantify
 psychedelic experiences that participants rate as among the most meaningful of
+## Applications and Practical Uses
+
+The principles behind psychedelic spirituality and religion have been applied across various
+domains, from research laboratories to field-scale operations. Key
+applications include integration with existing workflows and adaptation
+to specific environmental conditions and goals.
+
+## Key Considerations
+
+Several factors influence the effectiveness and outcomes of
+psychedelic spirituality and religion. Environmental conditions, timing, and material
+selection all play critical roles. Proper preparation and monitoring
+help ensure consistent results across different scenarios.
+
+## See Also
+
+- [[psilocybin]]
+- [[set-and-setting]]
+- [[psychedelic-integration]]

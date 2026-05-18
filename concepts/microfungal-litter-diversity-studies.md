@@ -20,8 +20,8 @@ Table 11.1 compiles data from surveys of fungal species richness on dead tissues
 | *Agropyron pungens* | Debris | 98 | Apinis and Chesters 1964 |
 | *Alchornea triplinervia* | Submerged leaves | 81 | Schoenlein-Crusius and Milanez 1995 |
 | *Atlantia monophylla* | Leaf | 73 | Subramanian and Vittal 1979a,b |
-| *Carpinus caroliniana* | Living and dead bark | 155 | Bills and Polishook 1991 |
-| *Carex paniculata* | Leaf litter | 60 | Pugh 1958 |
+| *[[carpinus-caroliniana]]* | Living and dead bark | 155 | Bills and Polishook 1991 |
+| *[[carex-paniculata]]* | Leaf litter | 60 | Pugh 1958 |
 | *Castanea sativa* | Cupule | >27 | Sutton 1975 |
 | *Eucalyptus regnans* | Leaf litter | >24 | Macauley and Thrower 1966 |
 | *Fagus sylvatica* | Leaf | 29 | Hogg and Hudson 1966 |

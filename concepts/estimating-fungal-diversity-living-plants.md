@@ -72,7 +72,7 @@ These ratios reflect differences in host longevity, tissue complexity, geographi
 Hirata (1986) provided quantitative data on the proportion of vascular plants hosting specific fungal groups:
 
 - **Powdery mildews**: 4.5% of vascular plants are hosts
-- **Smut fungi**: 4.8% in the British Isles; 3.2% in the United States
+- **[[smut-fungi]]**: 4.8% in the British Isles; 3.2% in the United States
 - **Smut fungi in Latin America**: only 0.3% of plants are recorded as hosts
 
 The dramatic difference in smut host records between temperate and tropical regions almost certainly reflects severe under-sampling in Latin America rather than a genuine biological pattern. Kranz (1990) estimated that 28–52% of all plants serve as hosts for at least one pathogenic fungus, while leaf-surface mycota alone can include 12 or more species of sooty molds.
@@ -83,7 +83,7 @@ Endemism in plant-associated fungi is highest in isolated biomes — islands, mo
 
 ## Case Study: Chestnut Blight in the Great Smoky Mountains
 
-The introduction of chestnut blight (*Cryphonectria parasitica*) into eastern North America dramatically altered forest composition in the Great Smoky Mountains by eliminating American chestnut as a dominant canopy tree. This catastrophic event illustrates how a single fungal species can reshape entire ecosystems, eliminating host-specific fungal communities along with their host and triggering cascading effects on [[fungal-diversity-estimates]] for the region.
+The introduction of chestnut blight (*[[cryphonectria-parasitica]]*) into eastern North America dramatically altered forest composition in the Great Smoky Mountains by eliminating American chestnut as a dominant canopy tree. This catastrophic event illustrates how a single fungal species can reshape entire ecosystems, eliminating host-specific fungal communities along with their host and triggering cascading effects on [[fungal-diversity-estimates]] for the region.
 
 ## Assessing Species Richness and Abundance
 
@@ -148,7 +148,3 @@ Several small genera specialize on bamboo hosts: *Aciculisporium*, *Konradia*, *
 ## Knowledge Gaps and Future Directions
 
 Current estimates of fungal diversity on living plants are based primarily on temperate-zone data, where fungal:host ratios may be lower than in tropical regions. The Costa Rica extrapolation suggests that tropical fungal diversity has been drastically underestimated. Hirata's smut data (0.3% of Latin American plants recorded as hosts vs. 4.8% in the British Isles) provides perhaps the clearest evidence that tropical mycological inventories remain fundamentally incomplete. Systematic surveys combining molecular detection methods with traditional morphology will be essential to close this gap and produce reliable global estimates of plant-associated fungal diversity.
-
-## Related
-
-- [[estimating-fungal-biodiversity-on-living-plants]]

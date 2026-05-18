@@ -148,6 +148,3 @@ Although the 5-HT₂A receptor is the primary site of action, psilocin also bind
 | 1914 | A.F. Merrill (Yale) published a paper in *Science* describing hallucinogenic effects from *Panaeolus papillonaceus* in Maine — likely due to psilocybin/psilocin |
 | 1915 | William E. Safford claimed teonanácatl never existed and was actually dried peyotl — this theory was accepted for three decades |
 | 1919 | Dr. Blas P. Reko published that nanacatl was a hallucinogenic mushroom, but earlier errors caused the report to be discounted |
-
-## See Also
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]

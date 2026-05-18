@@ -119,7 +119,7 @@ fungicide selection and disease management.
 ### Research Value
 
 - Downy mildews are important models for studying **obligate biotrophy**
-  — a nutritional strategy that parallels rust fungi in true fungi
+  — a nutritional strategy that parallels [[rust-fungi]] in true fungi
 - The independent evolution of biotrophy in both Oomycota and true
   fungi provides insights into **convergent evolution** of pathogenic
   strategies
@@ -135,12 +135,10 @@ fungicide selection and disease management.
   **microclimate conditions**, making them indicators of humid habitats
 - Downy mildew epidemics are predicted to increase in frequency with
   **climate change**, as warmer temperatures and altered precipitation
-  patterns favor pathogen development
-
 ## See Also
 
 - [Erysiphe](erysiphe.md) (powdery mildews)
-- [Taphrina deformans](taphrina-deformans.md) (leaf curl)
+- [[taphrina-deformans]](taphrina-deformans.md) (leaf curl)
 - [Plasmopara](plasmopara.md) (grape downy mildew)
 
 ## References

@@ -147,15 +147,3 @@ Stability of these reference genes should be empirically validated for each expe
 1. **Transcript levels ≠ protein levels:** mRNA abundance does not necessarily correlate with functional protein levels due to post-transcriptional regulation and protein turnover.
 2. **Avoid over-cycling:** Excessive PCR cycles distort the linear template-to-product relationship, compromising quantitative accuracy.
 3. **Environmental relevance:** Laboratory expression data must be validated against environmental samples to confirm ecological relevance.
-
-## Summary
-
-The progression from apPCR through dpPCR to npPCR provides a scalable hierarchy of detection sensitivity for fungal species identification. Combined with robust tissue preservation and DNA extraction protocols, these methods enable reliable species detection in complex environmental matrices. mRNA transcript analysis using magnetic capture, competitive RT-PCR, and housekeeping gene normalization offers quantitative insight into fungal metabolic activity, though practitioners must remain mindful of the gap between transcript abundance and functional protein levels.
-
-## See Also
-
-- Arbitrary-primed PCR for fungal species discrimination
-- Nested PCR strategies for environmental detection
-- *[[phanerochaete-chrysosporium]]* genomics and lignin degradation
-- Competitive RT-PCR methodology
-- Housekeeping gene selection for fungal expression studies

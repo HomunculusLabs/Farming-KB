@@ -73,9 +73,9 @@ Most rust species exhibit a high degree of host specificity, often being restric
 
 Rust fungi include some of the most destructive plant pathogens in agricultural and forestry history. Three examples are particularly noteworthy:
 
-- **Wheat stem rust** (*Puccinia graminis* f. sp. *tritici*): One of the most devastating diseases of wheat worldwide. Historical epidemics have caused massive crop failures and famine. The emergence of new virulent races (e.g., Ug99) remains a critical global food security concern, driving ongoing breeding and surveillance programs. This heteroecious rust alternates between wheat and barberry (*Berberis* spp.).
+- **Wheat stem rust** (*[[puccinia-graminis]]* f. sp. *tritici*): One of the most devastating diseases of wheat worldwide. Historical epidemics have caused massive crop failures and famine. The emergence of new virulent races (e.g., Ug99) remains a critical global food security concern, driving ongoing breeding and surveillance programs. This heteroecious rust alternates between wheat and barberry (*Berberis* spp.).
 
-- **Coffee rust** (*Hemileia vastatrix*): A devastating disease of coffee (*Coffea arabica*) that has caused enormous economic losses, particularly in Central and South America. Coffee rust epidemics have reshaped coffee production systems and remain a major threat to the global coffee industry. The disease was a major factor in the shift from arabica to robusta coffee cultivation in some regions.
+- **Coffee rust** (*[[hemileia-vastatrix]]*): A devastating disease of coffee (*Coffea arabica*) that has caused enormous economic losses, particularly in Central and South America. Coffee rust epidemics have reshaped coffee production systems and remain a major threat to the global coffee industry. The disease was a major factor in the shift from arabica to robusta coffee cultivation in some regions.
 
 - **White pine blister rust** (*Cronartium ribicola*): An introduced pathogen in North America that has caused widespread mortality of ecologically and commercially important white pine species (*Pinus monticola*, *P. strobus*, and others). This heteroecious rust alternates between five-needle pines and plants in the genus *Ribes* (currants and gooseberries). Its introduction from Eurasia has permanently altered North American forest composition.
 

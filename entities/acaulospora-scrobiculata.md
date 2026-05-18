@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*Acaulospora scrobiculata* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Acaulospora*, order Glomales. It is one of the most widely distributed AM fungal species, found on most continents across tropical and temperate latitudes. The species produces characteristic bilayered spore walls with ornamentation patterns that co-vary between the two layers.
+*Acaulospora scrobiculata* is a species of arbuscular mycorrhizal (AM) fungus in the genus *Acaulospora*, order [[glomales]]. It is one of the most widely distributed AM fungal species, found on most continents across tropical and temperate latitudes. The species produces characteristic bilayered spore walls with ornamentation patterns that co-vary between the two layers.
 
 ## Classification
 
@@ -35,7 +35,7 @@ type: entity
 
 - Comparative studies of AM fungal community composition across latitudes and habitat types
 - Investigating the relationship between fungal and plant species richness
-- Understanding how edaphic factors (soil pH, moisture, organic matter) influence AM fungal community structure
+- Understanding how edaphic factors ([[soil-ph]], moisture, organic matter) influence AM fungal community structure
 - As a representative of the *Acaulospora* genus, it helps illustrate the taxonomic importance of spore wall characteristics in species delimitation within Glomales
 
 The species exemplifies the concept of "pandemism" in AM fungi—globally distributed species that occur across diverse habitats without clear evidence of endemism.

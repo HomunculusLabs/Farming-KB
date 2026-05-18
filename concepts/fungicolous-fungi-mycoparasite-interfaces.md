@@ -59,7 +59,7 @@ Jeffries and Young (1994) described five distinct types of structural interfaces
 
 The mycoparasite grows alongside the host without penetrating its cells. Damage is mediated through extracellular enzymes and toxic metabolites that act at the contact surface or via hyphal interference. No specialized penetration structures are formed.
 
-**Examples:** *Arthrobotrys* spp. and *Tilletiopsis* spp. on powdery mildew (*Sphaerotheca*). The interaction relies heavily on antibiosis and cell wall degradation from the exterior.
+**Examples:** *Arthrobotrys* spp. and *Tilletiopsis* spp. on [[powdery-mildew]] (*Sphaerotheca*). The interaction relies heavily on antibiosis and cell wall degradation from the exterior.
 
 ### 2. Invasive Necrotrophic
 
@@ -77,7 +77,7 @@ The mycoparasite forms a short, specialized branch—a **haustorium**—that pen
 
 Micropores develop in the cell walls of both partners at points of contact, enabling direct cytoplasmic exchange. This is the most intimate non-intracellular interface and may allow bidirectional flow of organelles and genetic material.
 
-**Examples:** *Gonatobotrys*, *Hansfordia*, and *Tetragoniomyces*. In the *Absidia glauca* / *Parasitella parasitica* system, plasmatic connections have been shown to enable **gene transfer**, producing pararecombinants with genetic contributions from both partners—a remarkable example of horizontal gene transfer among fungi.
+**Examples:** *Gonatobotrys*, *Hansfordia*, and *Tetragoniomyces*. In the *Absidia glauca* / *[[parasitella-parasitica]]* system, plasmatic connections have been shown to enable **gene transfer**, producing pararecombinants with genetic contributions from both partners—a remarkable example of horizontal gene transfer among fungi.
 
 ### 5. Intracellular
 

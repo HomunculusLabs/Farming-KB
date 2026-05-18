@@ -15,7 +15,7 @@ tags: [ascomycete, mycoparasite, fusion-interface, hyphomycete, fungicolous]
 
 - **Domain:** Eukarya
 - **[[kingdom-fungi]]
-- **Phylum:** Ascomycota
+- **Phylum:** [[ascomycota]]
 - **Form-genus:** *Hansfordia*
 - **Species:** *H. parasitica*
 
@@ -36,7 +36,6 @@ tags: [ascomycete, mycoparasite, fusion-interface, hyphomycete, fungicolous]
 - **Fungal community ecology:** As a fungicolous species, it contributes to the complex network of fungal-fungal interactions in natural ecosystems, influencing community structure and succession.
 - **Evolution of parasitism:** The fusion interface may represent an evolutionary intermediate, providing insights into how different mycoparasitic strategies evolved.
 - **Biocontrol considerations:** Biotrophic mycoparasites that maintain host viability may be useful for sustained suppression of fungal pathogens rather than outright elimination.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -88,7 +87,7 @@ tags: [ascomycete, mycoparasite, fusion-interface, hyphomycete, fungicolous]
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
 - If taxonomy has changed, record the older name as historical context only when the source supports it.
-- If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
+- If cultivation relevance is uncertain, keep the statement framed as relevance to [[mycology]] rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
 

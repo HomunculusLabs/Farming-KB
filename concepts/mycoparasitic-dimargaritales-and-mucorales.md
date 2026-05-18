@@ -26,7 +26,7 @@ Mycoparasitism is scattered across several families within the order Mucorales, 
 
 | Species | Family | Parasitism Type | Primary Hosts |
 |---------|--------|----------------|---------------|
-| *Parasitella parasitica* | Mucoraceae | Facultative | Various Mucorales |
+| *[[parasitella-parasitica]]* | Mucoraceae | Facultative | Various Mucorales |
 | *Absidia parricida* | Mucoraceae | Facultative | Various Mucorales |
 | *Chaetocladium* spp. | Thamnidiaceae | Weakly parasitic | Various fungi |
 | *Spinellus* spp. | — | Facultative biotroph | Agarics (mushrooms) |
@@ -88,7 +88,7 @@ The Dimargaritales display relatively narrow host ranges. *Dispira simplex* and 
 
 ### Agaricicolous Mycoparasites
 
-*Spinellus*, *Syzygites*, and *Dicranophora* are conspicuous parasites of **agarics** (gilled mushrooms). They typically appear on the caps and gills of fresh or senescing basidiocarps, producing distinctive aerial sporangia or conidiophores that emerge from the host fruiting body. These fungi occupy a specialized niche at the intersection of saprotrophic decomposition and biotrophic parasitism of basidiomycete reproductive structures.
+*Spinellus*, *Syzygites*, and *Dicranophora* are conspicuous parasites of **agarics** (gilled mushrooms). They typically appear on the caps and gills of fresh or senescing basidiocarps, producing distinctive aerial sporangia or conidiophores that emerge from the host fruiting body. These fungi occupy a specialized niche at the intersection of [[saprotrophic-decomposition]] and biotrophic parasitism of basidiomycete reproductive structures.
 
 ### *Mortierella*: Late-Stage Colonizers
 

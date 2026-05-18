@@ -22,7 +22,7 @@ Sporophagomyces is a genus of mycoparasitic fungi in the family Hypocreaceae (Hy
 
 ## Key Species
 
-- **S. chrysostomus** — The type and best-documented species. Produces fanlike colonies hanging under basidiomata of Ganoderma applanatum. The brownish color of the subiculum is caused by trapped basidiospores of the host embedded in the fungal mat. Hosts are mostly members of the Ganodermataceae (Põldmaa et al. 1999).
+- **S. chrysostomus** — The type and best-documented species. Produces fanlike colonies hanging under basidiomata of [[ganoderma-applanatum]]. The brownish color of the subiculum is caused by trapped basidiospores of the host embedded in the fungal mat. Hosts are mostly members of the Ganodermataceae (Põldmaa et al. 1999).
 
 ## Morphological Characteristics
 
@@ -55,7 +55,7 @@ This mechanism is distinct from most other mycoparasites, which typically parasi
 - **Ganoderma pathology:** Could potentially affect cultivated Ganoderma species used in medicinal mushroom production
 - **Unique biology:** The spore-trapping mechanism represents a specialized evolutionary adaptation among mycoparasites
 - **Taxonomic significance:** Shares characters with Hypocrea and Hypomyces but is distinguished by its subiculum-based spore-trapping strategy
-- **Ecological role:** May influence Ganoderma population dynamics and spore dispersal in forest ecosystems
+- **Ecological role:** May influence Ganoderma population dynamics and [[spore-dispersal]] in forest ecosystems
 
 ## Key References
 

@@ -122,7 +122,7 @@ specific biogeochemical properties to their environment, influencing soil struct
 retention, and nutrient cycling at the ecosystem scale. *Rhizopogon* species stimulate
 prolific branching of host rootlets through auxin production and release — a capability
 inherited from their ancestral *Suillus* lineage. This root stimulation significantly
-enhances the survival and growth of *Pseudotsuga menziesii* (Douglas-fir) seedlings in
+enhances the survival and growth of *[[pseudotsuga-menziesii]]* ([[douglas-fir]]) seedlings in
 forest plantations, making *Rhizopogon* of considerable silvicultural importance.
 *Tuber melanosporum* (Périgord black truffle) produces herbicidal compounds that reduce
 weed competition around host trees, manipulating the plant community to favor its

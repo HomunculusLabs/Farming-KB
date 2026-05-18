@@ -88,7 +88,7 @@ six-carbon short-chain fatty acid with the molecular formula C6H12O2.
 
 ### Biochemical Pathway
 
-Cannabinoid biosynthesis in Cannabis sativa begins with two precursor
+Cannabinoid biosynthesis in [[cannabis-sativa|Cannabis sativa]] begins with two precursor
 molecules: geranyl pyrophosphate (GPP) and olivetolic acid (OA). GPP
 provides the terpene moiety and OA provides the phenolic moiety. The
 enzyme cannabigerolic acid synthase (CBGAS) joins these to form
@@ -144,12 +144,7 @@ hexanoic acid application primes the JA pathway in cannabis, this could
 represent a secondary mechanism for the increased trichome-to-calyx
 ratio observed by cultivators using LABS.
 
-## Cultivation Observations
-
-Growers who have applied LABS to cannabis plants report an increased
-trichome-to-calyx ratio, enhanced terpene production, and overall more
-
 ## See Also
-- [[lactic-acid-bacteria-serum-labs]]
-- [[knf-lactic-acid-bacteria-serum]]
-- [[bionutrients-lab-lactic-acid-bacteria-serum]]
+
+- [[terpenes]]
+- [[cannabis-indica]]

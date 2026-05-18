@@ -43,7 +43,7 @@ Dichloran-glycerol medium (commonly designated DG18) is a selective culture medi
 
 ### Applications
 - **Food mycology:** Isolation of xerophilic spoilage fungi from dried foods, grains, and stored products
-- **Environmental mycology:** Isolation of fungi from arid and semi-arid soils with low water availability
+- **[[environmental-mycology]]:** Isolation of fungi from arid and semi-arid soils with low water availability
 - **Biodiversity surveys:** Detection of xerophilic fungal species in desert ecosystems and other water-limited environments
 - **Ecological studies:** Assessment of fungal community composition in xeric environments
 
@@ -77,5 +77,5 @@ Dichloran-glycerol medium (commonly designated DG18) is a selective culture medi
 - DRBC (dichloran-rose bengal-chloramphenicol) medium for general fungal enumeration
 
 ## Related
-- [[dg18-medium]]
+- [[dichloran-glycerol-18-medium]]
 - [[dichloran-glycerol-18-medium]]

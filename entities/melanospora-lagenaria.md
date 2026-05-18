@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Melanospora lagenaria is a mycoparasitic fungus in the family Ceratostomataceae (Sordariales, [[ascomycota]]). It is one of the most commonly encountered species of Melanospora found on polypore bracket fungi, where it produces distinctive perithecia on the hymenophore and surface of host sporocarps. The species is frequently found in association with other [[fungicolous-fungi]], particularly [[ophiostoma-polyporicola]] and Hypocrea pulvinata, forming a characteristic fungal community on Fomitopsis pinicola.
+Melanospora lagenaria is a mycoparasitic fungus in the family Ceratostomataceae (Sordariales, [[ascomycota]]). It is one of the most commonly encountered species of Melanospora found on polypore bracket fungi, where it produces distinctive perithecia on the hymenophore and surface of host sporocarps. The species is frequently found in association with other [[fungicolous-fungi]], particularly [[ophiostoma-polyporicola]] and [[hypocrea-pulvinata]], forming a characteristic fungal community on Fomitopsis pinicola.
 
 ## Classification
 
@@ -59,7 +59,7 @@ This three-species community represents one of the best-documented examples of m
 ## Relevance to Cultivation and Mycology
 
 - **Forest pathology:** May influence the decomposition dynamics of bracket fungi in forest ecosystems
-- **Community ecology:** The co-occurrence with other mycoparasites on F. pinicola provides a model system for studying fungal community assembly
+- **Community ecology:** The co-occurrence with other mycoparasites on F. pinicola provides a model system for studying [[fungal-community-assembly]]
 - **Taxonomic significance:** Illustrates the mycoparasitic lifestyle within the Sordariales, a primarily saprotrophic order
 - **Biocontrol potential:** Melanospora species have been investigated as potential biocontrol agents against pathogenic fungi
 

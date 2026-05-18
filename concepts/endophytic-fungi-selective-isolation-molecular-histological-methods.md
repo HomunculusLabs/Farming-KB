@@ -63,7 +63,7 @@ Many endophytic isolates fail to sporulate in culture, making morphological iden
 
 ### Phylogenetic Placement of Sterile Isolates
 
-- **Nucleic acid sequencing** determines the approximate phylogenetic position of sterile isolates.
+- **[[nucleic-acid]] sequencing** determines the approximate phylogenetic position of sterile isolates.
 - **Partial phylogenies** are constructed via PCR amplification of rRNA gene regions, particularly the ITS region and portions of the small and large subunits (Bruns et al. 1991; Berbee and Taylor 1992a,b; Carbone and Kohn 1993; Zambino and Szabo 1993; Swann and Taylor 1993–1995c; Monreal et al. 1999).
 - **Alignment and cladistic analysis** reveal phylogenetic relationships, allowing assignment to a taxonomic category (order, family, sometimes genus) even without a formal name.
 - Knowledge of phylogenetic placement enables researchers to **select appropriate growth conditions** to induce sporulation or seek the corresponding teleomorph fruit body.

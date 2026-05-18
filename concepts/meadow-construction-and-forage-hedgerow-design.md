@@ -12,7 +12,7 @@ Constructing or rehabilitating mixed meadows is one of the most rewarding design
 
 ## The Bimodal Growth Curve
 
-Grasslands in cool humid climates exhibit a **bimodal growth curve** with two distinct periods of surplus (spring and early summer) and two periods of deficit:
+Grasslands in cool humid climates exhibit a **[[bimodal-growth-curve]]** with two distinct periods of surplus (spring and early summer) and two periods of deficit:
 
 - **Late summer deficit**: Arises from grass seed shedding, droughting, and drying-off of grasslands
 - **Winter deficit**: Slow or no growth, with snow cover or blizzards restricting grazing time
@@ -43,7 +43,7 @@ The contoured hedgerow system is designed with three vertical layers:
 
 **Mid-level planting:**
 - Tagasaste (*Chamaecytisus proliferus*)
-- Caragana (*Caragana arborescens*)
+- Caragana (*[[caragana-arborescens]]*)
 - Coprosma repens
 - Pampas grass (*Cortaderia selloana*)
 
@@ -148,10 +148,3 @@ Any compacted soil or worn-out pasture can be revitalised by **periodic sod-seed
 - Cuts the roots of existing grasses
 - Provides a seed furrow for more vigorous, deep-rooted species
 - Can be done without destroying the existing sward
-- Allows gradual introduction of new species into degraded pasture
-
-## The Philosophical Imperative
-
-When we eliminate the bulbs, herbs, mushrooms, copses, hedges, and small animals of the agricultural landscape, we also lose part of the body of the earth and of ourselves. The contemporary agricultural scene, with its policy of "CLEAN, DEAD," is identified as nothing less than dull, anti-intellectual, and sterilising. Thoughtful farmers are increasingly including herbs in their leys — mints, chicory, dandelion, cleavers, daisies, plantain, and vetches — to the great health benefit of their herds.
-
-Today, many meadow seed mixes are commercially available. If the job is done properly, however, the practitioner must also **tolerate the burrowers and their predators** that are integral to meadow ecology. The end result is a very useful and pleasing assembly of plants with a varied product base, producing healthy animals on range.

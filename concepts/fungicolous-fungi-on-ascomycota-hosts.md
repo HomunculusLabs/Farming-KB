@@ -6,7 +6,7 @@ type: concept
 
 # Fungicolous Fungi on Ascomycota Hosts
 
-[[fungicolous-fungi]] — fungi that grow on other fungi — represent a vast yet poorly documented component of fungal biodiversity. Their interactions range from obligate parasitism to facultative colonization, with many species exhibiting highly specific host relationships. This page covers fungicolous associations involving ascomycete sporocarps, myxomycete plasmodia, dung communities, sequestrate ascomycetes, and anamorphic ascomycete hosts.
+[[fungicolous-fungi]] — fungi that grow on other fungi — represent a vast yet poorly documented component of [[fungal-biodiversity]]. Their interactions range from obligate parasitism to facultative colonization, with many species exhibiting highly specific host relationships. This page covers fungicolous associations involving ascomycete sporocarps, myxomycete plasmodia, dung communities, sequestrate ascomycetes, and anamorphic ascomycete hosts.
 
 ## Myxomyceticolous Fungi (Continued)
 

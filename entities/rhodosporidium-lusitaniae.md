@@ -37,14 +37,13 @@ tags: [yeast, basidiomycete, lignin-degrader, forest-soil, bioremediation]
 - Bioconversion of lignocellulosic waste materials
 - Bioremediation of phenolic pollutants in contaminated soils
 - Enhancement of composting processes
-- Study of basidiomycete yeast biology and evolution
+- Study of basidiomycete [[yeast-biology]] and evolution
 
-For mushroom cultivators working with lignicolous species, understanding the yeast communities in wood substrates may provide insights into substrate preparation and competitive dynamics.
+For mushroom cultivators working with lignicolous species, understanding the yeast communities in wood substrates may provide insights into [[substrate-preparation]] and competitive dynamics.
 
 ## Isolation Strategy
 
 Use enrichment culture with lignin-related phenolic compounds as sole carbon source in a liquid medium. Shake-culture for 12–24 hours, then streak onto solid isolation medium. Incubate at ambient temperature (12°C recommended to suppress filamentous fungi). Confirm identity by DBB test (positive for basidiomycetes) and 26S rDNA sequencing.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

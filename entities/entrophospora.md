@@ -9,7 +9,7 @@ tags: [fungi, glomales, arbuscular-mycorrhizae, genus]
 
 ## Description
 
-Entrophospora is a small genus of arbuscular mycorrhizal (AM) fungi in the order Glomales, suborder Glomineae. It contains only four described species, making it one of the least speciose genera in the Glomales. The genus is notable for the unique positioning of its spores relative to the sporiferous saccule—a character that distinguishes it from its likely sister genus, Acaulospora.
+Entrophospora is a small genus of arbuscular mycorrhizal (AM) fungi in the order [[glomales]], suborder Glomineae. It contains only four described species, making it one of the least speciose genera in the Glomales. The genus is notable for the unique positioning of its spores relative to the sporiferous saccule—a character that distinguishes it from its likely sister genus, Acaulospora.
 
 ## Classification
 
@@ -39,12 +39,11 @@ As [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]], Entrophospora species 
 - **Phylogenetic significance:** The probable polyphyletic nature of the genus makes it an interesting case study for understanding evolutionary convergence in AM fungi.
 - **Trap cultures:** Entrophospora species are recovered in multi-cycle trap cultures, often appearing in second or third propagation cycles alongside Glomus and Acaulospora species.
 
-
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
 - The page title is Entrophospora.
 - Its recorded source is unknown-biodiversity-of-fungi.md.
-- Existing tags on the page are [fungi, glomales, arbuscular-mycorrhizae, genus].
+- Existing tags on the page are [fungi, glomales, [[arbuscular-mycorrhizae]], genus].
 - The description section defines the scope of the note.
 - The classification section records the placement already present on the page.
 - The key facts section should remain the main checklist for future review.

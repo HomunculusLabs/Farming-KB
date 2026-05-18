@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Sudangrass (*Sorghum sudanense*) is a C4 grass species widely used as the standard host plant for culturing arbuscular mycorrhizal (AM) fungi in greenhouse pot cultures. It is the routine culture host at INVAM (International Culture Collection of Vesicular [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]]) due to its exceptional compatibility with the broadest range of AM fungal species of any tested host.
+Sudangrass (*Sorghum sudanense*) is a C4 grass species widely used as the standard host plant for culturing arbuscular mycorrhizal (AM) fungi in greenhouse pot cultures. It is the routine culture host at [[invam]] (International Culture Collection of Vesicular [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]]) due to its exceptional compatibility with the broadest range of AM fungal species of any tested host.
 
 ## Classification
 
@@ -21,7 +21,7 @@ Sudangrass (*Sorghum sudanense*) is a C4 grass species widely used as the standa
 
 ## Key Facts
 
-- More than 1,000 isolates representing 98 species across all genera of Glomales can grow and sporulate on Sudangrass (Morton et al. 1993)
+- More than 1,000 isolates representing 98 species across all genera of [[glomales]] can grow and sporulate on Sudangrass (Morton et al. 1993)
 - Roots of Sudangrass accommodate colonization by as many as 10 AM fungal species simultaneously in trap pot cultures using field soil as inoculum
 - Identified as the most compatible and productive host for AM fungal culture, likely because C4 grasses produce abundant root systems and partition photosynthetic carbon efficiently
 - At INVAM, Sudangrass is overseeded to produce shorter, more uniform plants and ensure widespread root infiltration throughout the pot

@@ -25,7 +25,7 @@ tags: [ascomycete, mycoparasite, fusion-interface, hyphomycete, fungicolous]
 - *G. simplex* exhibits a fusion-type mycoparasite-host interface, one of the rarest of the five recognized interface types.
 - In the fusion interface, micropores develop in the walls of both host and parasite hyphae at contact points, or in the walls of short penetrating hyphal branches, allowing direct cytoplasmic contact.
 - The fusion interface is biotrophic — the host cytoplasm remains healthy, at least initially, suggesting a balanced parasitic relationship.
-- Other fungi sharing the fusion interface type include *Hansfordia parasitica*, *Melanospora zamiae*, and related species.
+- Other fungi sharing the fusion interface type include *[[hansfordia-parasitica]]*, *Melanospora zamiae*, and related species.
 - The genus *Gonatobotrys* produces distinctive conidiophores with swollen nodes from which conidia are produced in chains.
 - The species is considered a contact biotroph that may require host extracts for growth in culture.
 - Fusion-interface mycoparasites are relatively few in number compared to necrotrophic and haustorial types, making them scientifically interesting for understanding the diversity of fungal-fungal interactions.
@@ -34,10 +34,9 @@ tags: [ascomycete, mycoparasite, fusion-interface, hyphomycete, fungicolous]
 
 *Gonatobotrys simplex* is primarily of scientific interest:
 - **Mycoparasitism diversity:** Represents one of the five recognized types of mycoparasite-host interface, contributing to our understanding of how fungi have evolved to exploit other fungi.
-- **Fungal ecology:** As a fungicolous species, it participates in the complex web of fungal-fungal interactions that shape community structure in natural ecosystems.
+- **[[fungal-ecology]]:** As a fungicolous species, it participates in the complex web of fungal-fungal interactions that shape community structure in natural ecosystems.
 - **Biocontrol potential:** Fusion-interface parasites maintain host viability while extracting nutrients — a trait that could be relevant for designing sustainable biocontrol strategies that suppress rather than eliminate target pathogens.
 - **Taxonomic significance:** The anamorphic genus *Gonatobotrys* has uncertain teleomorphic affinities; molecular studies are needed to determine its phylogenetic placement.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

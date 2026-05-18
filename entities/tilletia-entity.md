@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-[[tilletia]] is a large and economically important genus of smut fungi in the class Ustilaginomycetes, phylum Basidiomycota. Species of Tilletia are plant parasites primarily infecting grasses, with many species causing bunt diseases (also called stinking smut) of cereal crops. Molecular analyses have shown Tilletia and allies are more closely related to Exobasidiales than to other Ustilaginomycetes (Bauer et al. 2001).
+ is a large and economically important genus of smut fungi in the class Ustilaginomycetes, phylum [[basidiomycota]]. Species of Tilletia are plant parasites primarily infecting grasses, with many species causing bunt diseases (also called stinking smut) of cereal crops. Molecular analyses have shown Tilletia and allies are more closely related to Exobasidiales than to other Ustilaginomycetes (Bauer et al. 2001).
 
 ## Classification
 
@@ -41,7 +41,6 @@ type: entity
 
 Tilletia species are distributed worldwide and occur primarily on grasses (Poaceae). The genus exemplifies the inflorescence smut strategy in which the fungus replaces host reproductive structures with spore masses. About half of known smut species are estimated to have been described, suggesting many additional Tilletia species await discovery, particularly in tropical and subtropical regions.
 
-
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
 - The page title is Tilletia.
@@ -59,7 +58,7 @@ Tilletia species are distributed worldwide and occur primarily on grasses (Poace
 - Leave uncertain details out rather than guessing.
 
 ## Local cross-checks
-- Existing wikilink already present on this page: [[tilletia]].
+- Existing wikilink already present on this page: .
 - Existing wikilink already present on this page: [[smut-fungi]].
 - Existing wikilink already present on this page: [[smut-fungi-plant-pathogens]].
 - Cross-check future additions against names already appearing in the description and key facts.

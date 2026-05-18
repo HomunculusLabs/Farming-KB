@@ -12,7 +12,7 @@ The infection domain of an endophyte profoundly affects sampling efficiency and 
 
 ### Systemic Endophytes
 
-Clavicipitaceous grass endophytes (e.g., *Epichloë* and *Neotyphodium*) are truly systemic — their hyphae colonize virtually all aerial tissues of the host plant and can be found in the seed coat and near the embryo, ensuring vertical transmission. This systemic distribution means that sampling efficiency is high; virtually any tissue segment will harbor the endophyte.
+[[clavicipitaceous-grass-endophytes]] (e.g., *Epichloë* and *Neotyphodium*) are truly systemic — their hyphae colonize virtually all aerial tissues of the host plant and can be found in the seed coat and near the embryo, ensuring vertical transmission. This systemic distribution means that sampling efficiency is high; virtually any tissue segment will harbor the endophyte.
 
 Nonsystemic "P-endophytes" of grasses, mainly *Phialophora* and *Gliocladium* species, have a more limited tissue distribution but can still be seed-borne (An et al. 1993), complicating their detection relative to the clavicipitaceous endophytes.
 
@@ -98,7 +98,7 @@ For delicate tissues (especially roots), serial washing removes surface contamin
 
 ### Media Selection
 
-Routine mycological media are suitable for endophyte isolation. Malt extract agar (MEA) at 1–2% is the most widely used base medium, sometimes supplemented with yeast extract (0.1–0.2%). Colony-limiting agents and antibiotics are often added to suppress fast-growing contaminants and bacteria:
+Routine mycological media are suitable for endophyte isolation. [[malt-extract-agar]] (MEA) at 1–2% is the most widely used base medium, sometimes supplemented with yeast extract (0.1–0.2%). Colony-limiting agents and antibiotics are often added to suppress fast-growing contaminants and bacteria:
 
 - **Bills and Polishook (1992):** 1% malt + 0.2% yeast + 50 ppm streptomycin + chlortetracycline yielded the highest species richness from *Chamaecyparis thyoides*.
 - **Bills and Polishook (1991):** Fungal growth inhibitors added to media produced greater species richness from *Carpinus caroliniana* bark.

@@ -40,7 +40,7 @@ After positive field screening, laboratory isolation is performed to confirm cla
 1. Cut young culm or leaf sheath tissues into 3–5 mm segments.
 2. Agitate segments in 50% bleach solution for 15 minutes.
 3. At 2–3 minute intervals, remove 2–3 pieces and rinse them vigorously in sterile distilled water.
-4. Press surface-sterilized tissue pieces into potato dextrose agar (PDA).
+4. Press surface-sterilized tissue pieces into [[potato-dextrose-agar]] (PDA).
 5. Seal plates with Parafilm and incubate at room temperature for 3–4 weeks.
 
 Rapidly growing fungi appearing during the first 2 weeks should be discarded as contaminants or saprobes. Endophyte colonies — typically white to off-white — become visible after 2–4 weeks.
@@ -93,7 +93,7 @@ Beyond the Clavicipitaceae, several nonclavicipitaceous fungi are transmitted th
 
 ### Nonsystemic Grass Endophytes
 
-Relatively few graminaceous hosts have been systematically surveyed for nonsystemic endophytes. The dominant nonsystemic colonists tend to be familiar epiphytes (*Alternaria alternata*, *Cladosporium* species, *Epicoccum purpurascens*) or typical grass pathogens:
+Relatively few graminaceous hosts have been systematically surveyed for nonsystemic endophytes. The dominant nonsystemic colonists tend to be familiar epiphytes (*[[alternaria-alternata]]*, *Cladosporium* species, *Epicoccum purpurascens*) or typical grass pathogens:
 
 - **Barley (New Zealand):** *Didymella phleina*, *Alternaria* species, *Stemphyllium botryosum* (Riesen and Close 1987).
 - **Winter wheat (Switzerland):** *Phaeosphaeria* (*Stagonospora*) *nodorum* was the most common of 196 endophytic colonists recovered (Riesen and Sieber 1985).

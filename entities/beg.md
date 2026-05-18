@@ -9,7 +9,7 @@ tags: [culture-collection, mycorrhizae, repository, glomales]
 
 ## Description
 
-BEG is a European culture collection and repository dedicated to the conservation, maintenance, and distribution of arbuscular mycorrhizal (AM) fungi in the order Glomales. Alongside INVAM (International Culture Collection of Vesicular [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]]) in the United States, BEG serves as one of the two major international reference collections for these agriculturally and ecologically vital symbiotic fungi. Researchers and cultivators can deposit authenticated isolates, request reference material for comparison, and access diagnosed species for experimental work.
+BEG is a European culture collection and repository dedicated to the conservation, maintenance, and distribution of arbuscular mycorrhizal (AM) fungi in the order [[glomales]]. Alongside INVAM (International Culture Collection of Vesicular [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]]) in the United States, BEG serves as one of the two major international reference collections for these agriculturally and ecologically vital symbiotic fungi. Researchers and cultivators can deposit authenticated isolates, request reference material for comparison, and access diagnosed species for experimental work.
 
 ## Classification
 
@@ -37,10 +37,9 @@ For cultivators working with mycorrhizal systems, BEG provides verified inoculum
 - Deposit voucher specimens (spores mounted in PVLG and PVLG + Melzer's) alongside live cultures for complete documentation.
 - When species identification is uncertain, BEG staff may assist with verification by comparison to reference accessions.
 
-
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
-- The page title is BEG (Bank of European Glomales).
+- The page title is BEG ([[bank-of-european-glomales]]).
 - Its recorded source is unknown-biodiversity-of-fungi.md.
 - Existing tags on the page are [culture-collection, mycorrhizae, repository, glomales].
 - The description section defines the scope of the note.

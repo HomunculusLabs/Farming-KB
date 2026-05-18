@@ -38,8 +38,7 @@ tags: [chytrid, obligate-parasite, endoparasite, basal-fungi, mycoparasite]
 
 ## Relevance to Cultivation and Mycology
 
-*Rozella* is primarily of scientific interest for understanding early fungal evolution and the origins of parasitism. Its basal phylogenetic position challenges traditional definitions of Fungi (some *Rozella* species lack chitin cell walls at certain life stages). For cultivators, *Rozella* species have no known direct impact on cultivated mushrooms or mycorrhizae, but they illustrate the vast diversity of fungal-fungal parasitic interactions that occur in soil and aquatic ecosystems. Understanding such interactions may inform biological control strategies.
-
+*Rozella* is primarily of scientific interest for understanding early [[fungal-evolution]] and the origins of parasitism. Its basal phylogenetic position challenges traditional definitions of Fungi (some *Rozella* species lack chitin cell walls at certain life stages). For cultivators, *Rozella* species have no known direct impact on cultivated mushrooms or mycorrhizae, but they illustrate the vast diversity of fungal-fungal parasitic interactions that occur in soil and aquatic ecosystems. Understanding such interactions may inform biological control strategies.
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -97,7 +96,7 @@ tags: [chytrid, obligate-parasite, endoparasite, basal-fungi, mycoparasite]
 
 ## References
 
-- Gams, W. et al. "Fungicolous Fungi" in *Biodiversity of Fungi*
+- Gams, W. et al. "[[fungicolous-fungi]]" in *Biodiversity of Fungi*
 - Held, A.A. (1981). Rozellopsidales and their parasites
 - Karling, J.S. (1942, 1960, 1977). Chytrid taxonomy
 - Jones, M.D.M. et al. (2011). Discovery of Cryptomycota/Rozellomycota

@@ -41,7 +41,7 @@ The occurrence of G. etunicatum at glacial front sites in Alaska is ecologically
 
 - Glacial front soils are nutrient-poor, have low organic matter, and experience extreme temperature fluctuations.
 - AMF colonization by G. etunicatum and Archaeospora trappei suggests that these fungi arrive early in primary succession, likely transported as spores by wind or animals.
-- The ability to form functional [[mycorrhizae]] in these conditions indicates tolerance of cold temperatures, low nutrient availability, and unstable soil conditions.
+- The ability to form functional [[mycorrhizae]] in these conditions indicates tolerance of cold temperatures, low [[nutrient-availability]], and unstable soil conditions.
 - Trap cultures were required to detect sporulation, as direct field sampling yielded few or no visible spores.
 
 ## Relevance to Cultivation and Mycology
@@ -58,12 +58,11 @@ The occurrence of G. etunicatum at glacial front sites in Alaska is ecologically
 - Found singly in soil or in loose aggregates; non-sporocarpic.
 - Best identified from healthy spores produced in trap cultures, as field-collected spores may be degraded.
 
-
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
 - The page title is Glomus etunicatum.
 - Its recorded source is unknown-biodiversity-of-fungi.md.
-- Existing tags on the page are [fungi, glomales, arbuscular-mycorrhizae, amf, species, glomus].
+- Existing tags on the page are [fungi, glomales, [[arbuscular-mycorrhizae]], amf, species, glomus].
 - The description section defines the scope of the note.
 - The classification section records the placement already present on the page.
 - The key facts section should remain the main checklist for future review.

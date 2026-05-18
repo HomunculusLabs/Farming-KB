@@ -69,7 +69,7 @@ Culturing is essential to characterize morphological variation, elucidate life h
 
 ### Isolation Techniques
 
-- Spores are transferred using a sterile needle or micromanipulator for single-spore isolation.
+- Spores are transferred using a sterile needle or micromanipulator for single-[[spore]] isolation.
 - Some pyrenomycetes with forcible discharge can be attached to Petri dish lids, ejecting ascospores onto agar below.
 - **Tap water agar (TWA)** is effective for initial isolation and stimulating sporulation.
 - **Low-strength cornmeal-dextrose agar** and **potato-carrot agar** are widely used for maintenance and study.
@@ -100,7 +100,7 @@ Woody plants offer a substantially wider range of microhabitats than herbaceous 
 - **Leaves:** Fallen, buried, dead attached, suspended in canopy, or partially decayed.
 - **Twigs, stems, branches, and trunks:** In living, recently dead, or variously decayed conditions.
 - **Roots:** Surface roots, deep roots, and root collars.
-- **Reproductive structures:** Flowers, fruits, and seeds at various stages of maturity and decomposition.
+- **Reproductive structures:** Flowers, fruits, and seeds at various stages of maturity and [[decomposition]].
 
 Each substratum category supports a distinct microfungal assemblage; comprehensive surveys must sample across this full range.
 

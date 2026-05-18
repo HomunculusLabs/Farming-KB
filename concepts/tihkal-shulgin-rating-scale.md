@@ -78,3 +78,24 @@ This multi-dimensional approach provides a richer characterization than the scal
 DMT demonstrates how the scale differentiates routes of administration and dosage:
 - **100 mg oral**: No effect -- DMT is inactive orally at any dose
 - **20 mg i.m.**: + to ++ -- Patterns on the wall, animal imagery, inner-eye visuals
+## Benefits and Limitations
+
+Tihkal Shulgin Rating Scale offers several advantages in practice, including adaptability to
+different conditions and compatibility with related approaches. However,
+limitations exist depending on context, scale, and available resources.
+Understanding both helps practitioners set realistic expectations and plan
+appropriate strategies for implementation.
+
+## Related Methods and Approaches
+
+Several complementary approaches exist alongside tihkal shulgin rating scale, each
+offering unique advantages for specific situations. Comparative evaluation
+of these methods helps identify the most suitable option given available
+resources, environmental constraints, and desired outcomes. Combining
+multiple approaches often yields synergistic benefits.
+
+## See Also
+
+- [[mycelium]]
+- [[spore]]
+- [[companion-planting]]

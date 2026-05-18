@@ -33,10 +33,9 @@ tags: [ascomycete, mycoparasite, fungicolous, toxin-producer, biocontrol]
 
 *Sesquicillium microsporum* is relevant in several contexts:
 - **Biocontrol potential:** The antifungal toxins produced by *S. microsporum* could be developed as natural fungicides for controlling plant-pathogenic fungi in agricultural systems.
-- **Mushroom cultivation:** As a fungicolous species, *S. microsporum* may naturally colonize mushroom sporocarps, potentially causing quality losses in cultivated crops. Understanding its ecology can help in designing management strategies.
+- **[[mushroom-cultivation]]:** As a fungicolous species, *S. microsporum* may naturally colonize mushroom sporocarps, potentially causing quality losses in cultivated crops. Understanding its ecology can help in designing management strategies.
 - **Drug discovery:** Fungal-derived antifungal compounds are an underexplored source of pharmaceutical leads; *S. microsporum* toxins merit further investigation.
 - **Fungal ecology:** Illustrates the importance of chemical warfare in fungal community dynamics, where toxin production determines competitive hierarchies.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.

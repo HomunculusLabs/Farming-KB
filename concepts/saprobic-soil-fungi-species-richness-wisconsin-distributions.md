@@ -21,7 +21,7 @@ Large-scale isolation studies across diverse ecosystems demonstrate the vast spe
 - **New York — Quercus-Betula forest (Gochenaur 1978):** 10,684 isolates yielded 89 species.
 - **South Dakota (Clarke and Christensen 1981):** Grassland sampling produced 250 isolates and 62 species — a notably high species-to-isolate ratio.
 - **Arizona/Utah (States 1978):** Desert soils generated 19,000 isolates, 228 species, and 87 genera.
-- **Veracruz (Persiani and Maggi 1988):** Coffea arabica rhizospheres yielded 3,584 + 2,349 isolates and 114 + 116 species across two sampling efforts.
+- **Veracruz (Persiani and Maggi 1988):** [[coffea-arabica]] rhizospheres yielded 3,584 + 2,349 isolates and 114 + 116 species across two sampling efforts.
 - **Ivory Coast (Rambelli et al. 1983; Maggi and Persiani 1992):** Native, burned, and cultivated forests produced 6,246 isolates, 215 identified species spanning 120 genera, with 164–194 species per study site.
 - **Galapagos (Mahoney 1972):** Xerophilic soils and litter contained an estimated 250 species, approximately 50% of which were identifiable.
 - **Taiwan (Tzean 1994):** Surveys documented 47 Penicillium species, 42 Aspergillus species, and associated teleomorphs.

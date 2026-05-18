@@ -18,7 +18,7 @@ Fungi colonize an extraordinary range of stressful habitats, from geothermal soi
 
 Fungal community composition from stressful habitats is evaluated using modifications of the **particle-washing technique** (see Chapter 13). This approach is critical because it preferentially isolates **actively growing fungi at the time of sampling**, rather than merely capturing dormant spores or chlamydospores that may not represent the in-situ community.
 
-**Suspension plating** should be used only in conjunction with particle-washing, as it preferentially recovers spore-forming taxa and may misrepresent the true community structure.
+**Suspension plating** should be used only in conjunction with particle-washing, as it preferentially recovers [[spore|spore]]-forming taxa and may misrepresent the true community structure.
 
 ### Media Limitations and the Need for "Natural" Media
 
@@ -68,7 +68,7 @@ Moisture loss is a significant practical problem at 50°C. Strategies include:
 
 #### Media Selection
 
-**PDA (Potato Dextrose Agar) is unsatisfactory** — it shrivels and degrades at 50°C. Suitable media formulations are listed in Appendix II of the source text.
+**PDA ([[potato-dextrose-agar]]) is unsatisfactory** — it shrivels and degrades at 50°C. Suitable media formulations are listed in Appendix II of the source text.
 
 #### Enrichment Methods (Tansey and Jack 1976)
 
@@ -148,67 +148,3 @@ After initial isolation at low temperature, **subsequent incubation above 20°C*
 - **Psychrophilic** taxa — fail to grow or die.
 
 #### Future Directions
-
-Additional systematic studies at low temperatures will expand species inventories and provide important insights into decomposition processes in cold ecosystems, which are particularly relevant given the sensitivity of these systems to climate change.
-
----
-
-## Heavy-Metal Tolerant Fungi
-
-### Transect-Based Sampling
-
-Changes in fungal community composition along heavy-metal gradients are assessed using **transects that follow decreasing concentration gradients** from the pollution source. This design captures both the community at the contaminated site and the progressive recovery of fungal diversity as metal concentrations decline.
-
-### Plot Design
-
-- **Plots are established at specified distances** from the source, based on measured metal concentrations in the soil profile, litter layer, and phylloplane.
-- **Plot size is determined by the number of samples** required over a specified sampling period.
-- **More than one plot per position** is essential to avoid pseudoreplication (Hulbert 1984) and to account for spatial heterogeneity.
-
-### Metal Concentration for Isolation
-
-The appropriate metal concentrations for isolation media are determined from a **preliminary assessment of community response** across a range that mirrors conditions at the study sites. This ensures that selective pressures in vitro approximate those in the field.
-
-### Maintaining Tolerance in Culture
-
-The **storage medium must contain the metal of interest** to maintain tolerance in culture (Ashida 1965). Metal-tolerant phenotypes can be lost upon repeated subculturing on metal-free media, as tolerance mechanisms (e.g., sequestration, efflux) may not be constitutively expressed without selective pressure.
-
----
-
-## Osmophilic Fungi
-
-### Definition
-
-Osmophilic (xerotolerant) fungi grow at reduced water activity (a_w), typically below 0.85. They are important in dried foods, concentrated syrups, salted products, and other low-moisture environments.
-
-### Adjusting Water Activity
-
-Water activity in isolation media is adjusted by adding solutes that reduce the availability of free water:
-
-| Solvent                  | Notes                                        |
-|-------------------------|----------------------------------------------|
-| **NaCl**                | Common for halotolerant/xerophilic taxa      |
-| **Sugars** (glucose, sucrose) | Mimics sugar-rich substrates (dried fruit, honey) |
-| **Glycerol**            | Effective across a wide a_w range            |
-| **Polyethylene glycols** | Used for specific a_w targeting              |
-
-The choice of solute can itself be selective — for example, glycerol-adapted fungi may differ from those adapted to high-salt environments. As with other stress-tolerant groups, a combination of solutes at varying concentrations provides the most comprehensive picture of the osmophilic community.
-
----
-
-## References
-
-- Apinis, A.E. (1963). Thermophilous microfungi isolated from bird nests. *Mycologia*, 55, 223–228.
-- Ashida, J. (1965). Adaptation of fungi to metal toxicities. In *The Fungi*, Vol. 1. Academic Press.
-- Carreiro, M.M. & Koske, R.E. (1992). Comparison of methods for isolation of soil fungi. *Mycologia*, 84, 284–290.
-- Cooney, D.G. & Emerson, R. (1964). *[[thermophilic-fungi]]: An Account of Their Biology, Activities, and Classification*. W.H. Freeman.
-- Foster, J.W. (1949). Chemical activities of fungi. Academic Press.
-- Hulbert, S.H. (1984). Pseudoreplication and the design of ecological field experiments. *Ecological Monographs*, 54, 187–211.
-- Petrini, O. et al. (1992b). Fungal endophytes of rushes. *Mycological Research*, 96, 1118–1124.
-- Tansey, M.R. & Brock, T.D. (1973). *Science*, 179, 363–364.
-- Tansey, M.R. & Jack, M.A. (1976). Selective isolation of thermophilic fungi. *Mycologia*, 68, 365–376.
-- Wainwright, M. (1993). Oligotrophic nutrient media. In *Methods in Mycology*. CAB International.
-
-## Related
-
-- [[fungi-in-stressful-environments-strategies-thermophilic-psychrophilic-metal-tolerant]]

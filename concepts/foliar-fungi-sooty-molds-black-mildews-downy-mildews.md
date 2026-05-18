@@ -21,7 +21,7 @@ Reynolds (1975) recognized two growth forms for sooty molds:
 
 ### Morphology
 
-The mycelium of a [[sooty-mold]] is composed of a weft of dark hyphae, which may be several millimeters thick. Conidiogenous cells and various types of conidia are formed within the mycelium. Some species produce as many as three different asexual forms (Hughes 1976). Species of the Metacapnodiaceae produce distinctive, tapering, moniliform hyphae with rigid smooth-walled cells. Another sooty mold in the Seuratiaceae produces dark, gelatinous, lobed thalli with reproductive structures quite different from those of other sooty molds (Parbery and Brown 1986).
+The [[mycelium]] of a [[sooty-mold]] is composed of a weft of dark hyphae, which may be several millimeters thick. Conidiogenous cells and various types of conidia are formed within the mycelium. Some species produce as many as three different asexual forms (Hughes 1976). Species of the Metacapnodiaceae produce distinctive, tapering, moniliform hyphae with rigid smooth-walled cells. Another sooty mold in the Seuratiaceae produces dark, gelatinous, lobed thalli with reproductive structures quite different from those of other sooty molds (Parbery and Brown 1986).
 
 Sooty molds predominate along continental margins of North and South America, in Central America, and on islands in the Western Hemisphere. In New Zealand's Nothofagus forests, trunks and branches can be covered up to 9 m or more with sooty molds.
 

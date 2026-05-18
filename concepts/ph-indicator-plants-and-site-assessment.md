@@ -78,3 +78,18 @@ Leaves or humus from birch, cherry, honeysuckle, St. John's Wort, wormwood, juni
 
 ### Macrofauna Effects
 Animal activity sites — sea-bird rookeries, rabbit warrens, goose nests, owl pellet piles, large carcass decay sites, termite mounds, harvester-ant colonies — cause sudden, often long-term vegetation change. These sites indicate soil drainage quality (rabbits choose good drainage), nutrient hotspots (guano on seabird rookeries), and natural tree establishment patterns.
+## Research Context
+
+Research on ph indicator plants and site assessment continues to evolve with new findings emerging from
+both laboratory studies and field observations. Current investigations focus on
+optimizing parameters, understanding underlying mechanisms, and documenting
+outcomes across diverse conditions and geographic regions. Published literature
+suggests multiple pathways for further exploration and refinement.
+
+## Integration and Implementation
+
+Successful implementation of ph indicator plants and site assessment requires attention to site-specific
+conditions and adaptive management strategies. Integration with complementary
+practices often enhances overall outcomes. Practitioners recommend starting with
+small-scale trials before scaling up, documenting results systematically to
+inform future decisions and share knowledge with the broader community.

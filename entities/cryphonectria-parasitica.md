@@ -83,7 +83,7 @@ disc-shaped, long-beaked perithecia.
 ### Geographic Origin
 
 *C. parasitica* is native to East Asia, where it coexists with Chinese
-chestnut (*Castanea mollissima*) and other Asian *Castanea* species
+chestnut (*[[castanea-mollissima]]*) and other Asian *Castanea* species
 without causing severe disease. The pathogen was introduced to North
 America and Europe on imported Asian chestnut material.
 
@@ -134,12 +134,6 @@ biological control** of a fungal pathogen.
 ### Cultivation Considerations
 
 - Sweet chestnut (*Castanea sativa*) cultivation in Europe and Asia must
-  contend with chestnut blight; hypovirulence treatments are used in
-  some European orchards
-- Chestnut wood is valued for mushroom cultivation substrates in some
-  traditions, though its availability in North America is limited by
-  blight
-
 ## See Also
 
 - [Nectria](nectria.md) (associated with cankers)

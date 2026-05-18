@@ -41,7 +41,7 @@ DG18 operates within the broader context of water activity (aw) manipulation for
 - Most fungi grow at aw 0.99–0.80
 - Xerophilic fungi can grow at aw as low as 0.60
 - Glycerol is often preferred over NaCl for lowering aw because NaCl at high concentrations may be toxic to some fungi (Cooke and Whipps 1993; Pitt and Hocking 1997)
-- Growth rates of xerophiles may change at selected aw values depending on incubation temperature, pH, and nutrient availability
+- Growth rates of xerophiles may change at selected aw values depending on incubation temperature, pH, and [[nutrient-availability]]
 
 ## Relevance to Cultivation and Mycology
 
@@ -49,8 +49,7 @@ DG18 operates within the broader context of water activity (aw) manipulation for
 - **Food mycology:** The medium is widely used in food microbiology to detect spoilage fungi in dried foods, grains, and spices.
 - **Biodiversity surveys:** Using DG18 alongside standard media in fungal diversity studies ensures that xerophilic species are not missed in habitat inventories.
 - **Selective isolation:** If DG18 is not used, osmophilic/xerophilic fungi may not be isolated, leading to underestimation of fungal diversity in dry habitats.
-- **Standardization:** The medium is listed in Appendix II of *Biodiversity of Fungi* as a recommended protocol for studying fungi in stressful environments.
-
+- **Standardization:** The medium is listed in Appendix II of *Biodiversity of Fungi* as a recommended protocol for studying [[fungi-in-stressful-environments]].
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -70,7 +69,7 @@ DG18 operates within the broader context of water activity (aw) manipulation for
 
 ## Local cross-checks
 - Existing wikilink already present on this page: [[glycerol]].
-- Existing wikilink already present on this page: [[dg18-medium]].
+- Existing wikilink already present on this page: .
 - Existing wikilink already present on this page: [[dichloran-glycerol-medium-dg18]].
 - Cross-check future additions against names already appearing in the description and key facts.
 - Keep any additional wikilinks limited to existing page names in this vault.
@@ -114,5 +113,5 @@ DG18 operates within the broader context of water activity (aw) manipulation for
 - From: *Biodiversity of Fungi* (Chapter 14: Fungi in Stressful Environments).
 
 ## Related
-- [[dg18-medium]]
+- 
 - [[dichloran-glycerol-medium-dg18]]

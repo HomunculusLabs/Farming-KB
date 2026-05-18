@@ -26,7 +26,7 @@ Several factors complicate accurate biodiversity assessment:
 
 3. **Plate capacity limits**: A maximum of approximately 300 colonies can be accommodated on a single plate. Rare species representing 1% or less of a community may not be sampled or will be overgrown.
 
-4. **Static snapshot**: Cell numbers represent the standing crop of a population and do not reflect turnover rates, hyphal fragmentation, spore release, or consumption by invertebrates.
+4. **Static snapshot**: Cell numbers represent the standing crop of a population and do not reflect turnover rates, hyphal fragmentation, [[spore]] release, or consumption by invertebrates.
 
 5. **Introduced vs. native species**: Introduced species may or may not survive in soils, complicating community structure analysis.
 
@@ -143,24 +143,8 @@ Suspected undescribed species may be deposited in culture collections such as:
 - JCM (Japan)
 - NCYC (UK)
 
-Accurate identifications during initial studies reduce the workload imposed on culture collections by biodiversity surveys.
+## See Also
 
-## Environmental Data Collection
-
-Comprehensive environmental data is essential for ecological interpretation:
-
-- **Location**: GPS coordinates for precise site location
-- **Climate**: Temperature, precipitation, seasonal patterns
-- **Soil**: pH, texture, organic matter, nutrient content
-- **Vegetation**: Plant community composition and structure
-- **Habitat description**: Detailed notes on microhabitat characteristics
-
-This data enables:
-- Future comparisons in light of environmental change
-- Understanding of ecological correlates of yeast distribution
-- Assessment of human-generated environmental degradation impacts
-- Correlation of yeast communities with ecosystem health indicators
-
-## Related
-- [[yeast-biodiversity-and-inventory-protocols]]
-- [[yeast-taxonomy-distribution-and-biodiversity]]
+- [[mycology]]
+- [[ascomycota]]
+- [[fungal-taxonomy]]

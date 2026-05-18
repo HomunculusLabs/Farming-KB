@@ -142,33 +142,9 @@ VPi = (n × V) - [(n - 1) × VJi]
 ```
 
 Where *n* is the number of samples and *V* is the diversity index based on all samples. The mean of pseudovalues is the best diversity estimate. Confidence limits are:
-
-```
-CI = mean ± tα × (SD of VPi / √n)
-```
-
-Where *tα* is from the *t*-distribution with *n - 1* degrees of freedom (or *S - 1* for large, species-rich datasets). Key properties: makes no assumptions about underlying distributions, pseudovalues are normally distributed, and random sampling is not required. Confidence intervals should not be calculated for *n* < 15 (Adams and McCune 1979). Magurran (1988) cautioned that jackknifed estimates for Shannon and Simpson indices can occasionally produce ecologically absurd results.
-
-## References
-
-- Andrews, J.H. 1991. Comparative ecology of microorganisms and macroorganisms. *Springer-Verlag*.
-- Arrhenius, O. 1921. Species and area. *J. Ecol.* 9:95–99.
-- Gleason, H.A. 1922. On the relation between species and area. *Ecology* 3:158–162.
-- Gross, K.L., et al. 2000. Patterns and processes of diversity at multiple scales. *Ecology* 81.
-- Harper, J.L. 1977. *Population Biology of Plants*. Academic Press.
-- He, F. & Legendre, P. 1996. On species-area relations. *Am. Nat.* 148:719–737.
-- Hill, M.O. 1973. Diversity and evenness: a unifying notation and its consequences. *Ecology* 54:427–432.
-- Ludwig, J.A. & Reynolds, J.F. 1988. *Statistical Ecology*. Wiley.
-- Magurran, A.E. 1988. *Ecological Diversity and its Measurement*. Princeton University Press.
-- Shannon, C.E. & Weaver, W. 1949. *The Mathematical Theory of Communication*. University of Illinois Press.
-- Simpson, E.H. 1949. Measurement of diversity. *Nature* 163:688.
-- Waide, R.B., et al. 1999. The relationship between productivity and species richness. *Annu. Rev. Ecol. Syst.* 30:257–300.
-- Zahl, S. 1977. Jackknifing an index of diversity. *Ecology* 58:907–913.
-
 ## See Also
 
 - [[mycology]]
-- [[mycorrhiza]]
-- [[basidiomycota]]
-- [[ascomycota]]
-- [[kingdom-fungi]]
+- [[spore]]
+- [[estimating-fungal-diversity-living-plants]]
+- [[microfungal-inventory-sampling-culture-protocols]]

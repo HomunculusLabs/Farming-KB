@@ -107,7 +107,7 @@ of thick-walled resting cysts) within host cells:
   contamination is relevant when sourcing substrate materials from
   cruciferous crops
 - *Polymyxa*-transmitted viruses affect cereal crops that may be used
-  in grain spawn preparation; sourcing from virus-free fields is
+  in [[grain-spawn-preparation]]; sourcing from virus-free fields is
   important
 
 ### Cannot Be Cultured
@@ -134,10 +134,6 @@ of thick-walled resting cysts) within host cells:
 
 - In aquatic ecosystems, plasmodiophoromycetes parasitize **algae and
   water molds**, potentially regulating populations of these organisms
-- Their role as **rhizosphere organisms** in natural ecosystems is poorly
-  understood but likely significant, given their worldwide distribution
-  in soils
-
 ## See Also
 
 - [Synchytrium](synchytrium.md) (gall-forming chytrid)

@@ -9,7 +9,7 @@ tags: [fungi, glomales, arbuscular-mycorrhizae, amf, species, gigaspora]
 
 ## Description
 
-Gigaspora decipiens is a species of arbuscular mycorrhizal fungus (AMF) in the genus Gigaspora, suborder Gigasporineae, order Glomales. The species is notable because it was claimed to possess a sexual reproductive phase (Tommerup and Sivasithamparam 1990), an assertion that is remarkable because the vast majority of evidence, including genetic analysis, indicates that AMF reproduce exclusively through clonal (mitospore) reproduction. This claim makes G. decipiens a species of particular interest in studies of AMF reproductive biology and population genetics.
+Gigaspora decipiens is a species of arbuscular mycorrhizal fungus (AMF) in the genus Gigaspora, suborder Gigasporineae, order [[glomales]]. The species is notable because it was claimed to possess a sexual reproductive phase (Tommerup and Sivasithamparam 1990), an assertion that is remarkable because the vast majority of evidence, including genetic analysis, indicates that AMF reproduce exclusively through clonal (mitospore) reproduction. This claim makes G. decipiens a species of particular interest in studies of AMF reproductive biology and population genetics.
 
 ## Classification
 
@@ -66,12 +66,11 @@ The question of whether AMF possess a sexual cycle is one of the most significan
 - Auxiliary cells formed on external hyphae, knobby or lobed in appearance.
 - Best identified from healthy spores in trap cultures using DIC microscopy.
 
-
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
 - The page title is Gigaspora decipiens.
 - Its recorded source is unknown-biodiversity-of-fungi.md.
-- Existing tags on the page are [fungi, glomales, arbuscular-mycorrhizae, amf, species, gigaspora].
+- Existing tags on the page are [fungi, glomales, [[arbuscular-mycorrhizae]], amf, species, gigaspora].
 - The description section defines the scope of the note.
 - The classification section records the placement already present on the page.
 - The key facts section should remain the main checklist for future review.

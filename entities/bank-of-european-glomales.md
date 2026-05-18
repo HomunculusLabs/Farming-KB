@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Bank of European [[glomales]] (BEG) is a decentralized culture collection of arbuscular mycorrhizal (AM) fungi, started in 1994. Unlike centralized repositories such as INVAM, BEG operates as a network with a central coordinator but distributed custody—accessions are registered at one location while individual researchers culture and maintain living specimens at their home institutions across Europe.
+The Bank of European [[glomales]] ([[beg]]) is a decentralized culture collection of arbuscular mycorrhizal (AM) fungi, started in 1994. Unlike centralized repositories such as INVAM, BEG operates as a network with a central coordinator but distributed custody—accessions are registered at one location while individual researchers culture and maintain living specimens at their home institutions across Europe.
 
 ## Classification
 

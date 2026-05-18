@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Hypocrea pulvinata (synonym H. fungicola) is a fungicolous ascomycete in the Hypocreaceae that parasitizes sporocarps of bracket fungi, most notably [[fomitopsis-pinicola]] and [[piptoporus-betulinus]]. It produces cushion-shaped (pulvinate) stromata on the surface of decaying polypore basidiomata and is frequently found in association with [[ophiostoma-polyporicola]] and Melanospora lagenaria on the same host fruiting bodies.
+Hypocrea pulvinata (synonym H. fungicola) is a fungicolous ascomycete in the Hypocreaceae that parasitizes sporocarps of bracket fungi, most notably [[fomitopsis-pinicola]] and [[piptoporus-betulinus]]. It produces cushion-shaped (pulvinate) stromata on the surface of decaying polypore basidiomata and is frequently found in association with [[ophiostoma-polyporicola]] and [[melanospora-lagenaria]] on the same host fruiting bodies.
 
 ## Classification
 

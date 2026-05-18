@@ -61,7 +61,7 @@ Place ~1 teaspoon (3–5 g) of soil in a Petri dish, cover with double-distilled
 
 ### Pollen Baits
 
-Pollen baits are particularly successful due to wide availability, refractory nature, and decay resistance. *Pinus* and *Liquidambar styraciflua* (sweet gum) pollen are commonly used; sweet gum lacks Pinus wings, offering better microscopic visibility. Collect from male cones/flowers on graduated-mesh sieves; air-dry or heat-dry at ~60°C. Sweet gum pollen sterilized with propylene oxide (carcinogenic — use under fume hood) or briefly autoclaved (121°C, 5 min). Sprinkle on water surface with a sterile cotton plug; remove by dragging a coverslip edge.
+Pollen baits are particularly successful due to wide availability, refractory nature, and decay resistance. *Pinus* and *[[liquidambar-styraciflua]]* (sweet gum) pollen are commonly used; sweet gum lacks Pinus wings, offering better microscopic visibility. Collect from male cones/flowers on graduated-mesh sieves; air-dry or heat-dry at ~60°C. Sweet gum pollen sterilized with propylene oxide (carcinogenic — use under fume hood) or briefly autoclaved (121°C, 5 min). Sprinkle on water surface with a sterile cotton plug; remove by dragging a coverslip edge.
 
 ### Enrichment
 
@@ -101,7 +101,7 @@ Transfer isolates to specialized media: cornmeal agar ± autoclaved banana leaf,
 |--------|-----------|-----------|
 | Laccase | ABTS | Niku-Paavola et al. 1990 |
 | Tyrosinase | D-L-DOPA | Horowitz et al. 1960 |
-| Lignin peroxidase | Veratryl alcohol + H₂O₂ | Tien and Kirk 1984 |
+| [[lignin-peroxidase]] | Veratryl alcohol + H₂O₂ | Tien and Kirk 1984 |
 | Mn peroxidase | Phenol red or vanillylacetone + H₂O₂ + Mn(II) | — |
 
 **Caution:** Enzyme substrates overlap and expression varies across media; interpret results carefully.

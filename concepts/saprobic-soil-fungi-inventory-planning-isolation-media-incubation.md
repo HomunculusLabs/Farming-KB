@@ -48,7 +48,7 @@ In warm weather, transport samples in a cooler at 0–10°C to slow microbial ac
 
 For reconnaissance work, soil can be sprinkled, swabbed, or stamped directly onto media in the field, providing a rapid qualitative assessment of the mycota without the need for transport.
 
-For long-distance transport, air-dry samples in breathable cotton or perforated Tyvek bags, or in paper envelopes. Plastic bags are acceptable if samples will be processed or frozen within 1–2 days, but condensation and anaerobic conditions may promote undesirable microbial growth. Air-drying should be performed in a clean room or laminar flow hood at 2–5°C.
+For long-distance transport, air-dry samples in breathable cotton or perforated Tyvek bags, or in paper envelopes. Plastic bags are acceptable if samples will be processed or frozen within 1–2 days, but condensation and anaerobic conditions may promote undesirable microbial growth. Air-drying should be performed in a clean room or [[laminar-flow-hood]] at 2–5°C.
 
 Frozen storage at −10 to −20°C stops temporal changes in fungal communities for at least 9 months (Christensen et al. 1962; Christensen 1969). However, the effects of physical manipulation during transport and storage have not been adequately studied, and caution is warranted in drawing conclusions from stored samples.
 

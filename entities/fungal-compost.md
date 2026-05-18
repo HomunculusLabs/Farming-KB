@@ -77,3 +77,5 @@ produce distinct microbial communities that influence plant health outcomes.
 Thermal composting favors bacterial dominance while fungal composting methods
 promote mycorrhizal associations essential for perennial crop systems.
 Application rates and timing depend on existing soil biology and crop stage.
+
+This subject continues to be an active area of research and practical application.

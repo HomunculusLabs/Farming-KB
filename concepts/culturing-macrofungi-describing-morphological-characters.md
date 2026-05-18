@@ -6,7 +6,7 @@ type: concept
 
 # Culturing Macrofungi and Describing Morphological Characters
 
-Successful isolation and culture of macrofungi, combined with careful morphological documentation, are fundamental practices in fungal taxonomy, biodiversity studies, and phytopathology. This page covers standard techniques for obtaining pure cultures from spores, tissue, and substratum, as well as protocols for describing macromorphological and micromorphological characters.
+Successful isolation and culture of macrofungi, combined with careful morphological documentation, are fundamental practices in [[fungal-taxonomy]], biodiversity studies, and phytopathology. This page covers standard techniques for obtaining pure cultures from spores, tissue, and substratum, as well as protocols for describing macromorphological and micromorphological characters.
 
 ## Culturing from Basidiospores and Ascospores
 
@@ -14,7 +14,7 @@ The most common approach to culturing macrofungi is germinating spores directly 
 
 ### Spore Print Method
 
-The [[spore-print]] technique exploits active spore discharge to deposit spores onto agar in a controlled pattern. Suspend the ascoma or hymenial surface near the edge of the Petri plate lid, attaching with petroleum jelly, small agar chips, or sterile water drops. Tilt the plate at a steep angle with the hymenium at the upper end—this produces a **cascading spore print** with high spore density at the upper end, decreasing toward the lower end, enabling both polyspore and single-spore isolates from the same print. Remove the source specimen as soon as spores are detected.
+The [[spore-print]] technique exploits active [[spore]] discharge to deposit spores onto agar in a controlled pattern. Suspend the ascoma or hymenial surface near the edge of the Petri plate lid, attaching with petroleum jelly, small agar chips, or sterile water drops. Tilt the plate at a steep angle with the hymenium at the upper end—this produces a **cascading spore print** with high spore density at the upper end, decreasing toward the lower end, enabling both polyspore and single-spore isolates from the same print. Remove the source specimen as soon as spores are detected.
 
 **Alternative single-spore isolation:** Rotate a horizontal Petri dish lid periodically (30 sec to 10 min intervals) for distantly spaced isolates. Identify individual spores under a dissecting microscope with an adjustable mirror (spores appear bright against a dark background), then transfer well-separated germinated spores to individual plates.
 
@@ -148,4 +148,3 @@ Good lighting is essential for accurate color perception:
 - Dennis, R.W.G. 1970. *Fungus flora of Venezuela and adjacent countries*.
 - Nobles, M.K. 1965. Identification of cultures of wood-inhabiting Hymenomycetes. *Can. J. Bot.* 43: 1097–1139.
 - Stalpers, J.A. 1978. Identification of wood-inhabiting Aphyllophorales in pure culture. *Stud. Mycol.* 16: 1–248.
-- Desjardin, D.E. & Volk, T. (pers. comm.) — spore viability data.

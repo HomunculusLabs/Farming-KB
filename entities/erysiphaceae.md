@@ -34,7 +34,7 @@ The Erysiphaceae, commonly known as powdery mildews, are a family of obligate pa
 ## Relevance to Cultivation and Mycology
 
 - Powdery mildews are among the most commonly encountered and economically important plant diseases worldwide.
-- Major pathogens of cereals (Blumeria graminis on wheat/barley), grapes (Erysiphe necator), cucurbits (Podosphaera xanthii), and ornamentals.
+- Major pathogens of cereals ([[blumeria-graminis]] on wheat/barley), grapes (Erysiphe necator), cucurbits (Podosphaera xanthii), and ornamentals.
 - The family is a model system for studying obligate biotrophy, haustorium function, and host-parasite coevolution.
 - Many species are host-specific, making host identification essential for species determination.
 - Conidial states alone can separate four form genera, but perithecia generally are needed for species-level identification using current taxonomic treatments.
@@ -42,7 +42,6 @@ The Erysiphaceae, commonly known as powdery mildews, are a family of obligate pa
 ## Ecological Context
 
 Powdery mildews reach their greatest diversity in temperate regions rather than the tropics, an unusual pattern for plant pathogenic fungi. Hirata (1986) listed close to 4,000 publications on powdery mildews including regional monographs. The growth habit of the fungus is generally limited to leaves and succulent shoots, explaining the higher number of herbaceous hosts compared to woody species. Future studies in the tropics may reveal whether powdery mildews truly are more species-rich in temperate areas.
-
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -94,7 +93,7 @@ Powdery mildews reach their greatest diversity in temperate regions rather than 
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
 - If taxonomy has changed, record the older name as historical context only when the source supports it.
-- If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
+- If cultivation relevance is uncertain, keep the statement framed as relevance to [[mycology]] rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
 

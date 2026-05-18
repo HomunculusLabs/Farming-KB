@@ -82,8 +82,8 @@ Phakopsoraceae, while others assign it to its own monogeneric family.
 ### Host Range
 
 Primarily infects species of *Coffea* (Rubiaceae):
-- *Coffea arabica* (Arabica coffee) — most susceptible
-- *Coffea canephora* (Robusta coffee) — more resistant but not immune
+- *[[coffea-arabica]]* (Arabica coffee) — most susceptible
+- *[[coffea-canephora]]* (Robusta coffee) — more resistant but not immune
 - Wild *Coffea* species show varying levels of resistance; some are
   used in breeding programs
 
@@ -134,7 +134,6 @@ in coffee.
 - The pathogen's dispersal from its center of origin to other coffee-
   growing regions represents one of the most consequential examples of
   pathogen introduction in agricultural history
-
 ## See Also
 
 - [Rust Fungi](rust-fungi.md)

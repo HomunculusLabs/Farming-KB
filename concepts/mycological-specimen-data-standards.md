@@ -141,24 +141,10 @@ Mycological specimen data standards draw from and align with several major inter
 
 Darwin Core terms map directly to many of the fields described above, facilitating data exchange through platforms like GBIF, iDigBio, and MycoPortal.
 
-## Required vs. Optional Fields
-
-Not all fields are mandatory in every context. A simplified classification:
-
-- **Required**: Genus, Species, Collector, Collector Date1, Country, Herbarium Number
-- **Strongly Recommended**: Latitude, Longitude, Locality, Collector Number, Substratum
-- **Optional**: Rank, Subspecific Epithet, Author, Host fields, Culture, Type Status
-
-Required fields represent the minimum data needed for a scientifically useful and uniquely identifiable record.
-
-## Summary
-
-Mycological specimen data standards provide a shared language for recording and exchanging fungal biodiversity information. By adhering to these standards, mycologists ensure that their collections remain accessible, interpretable, and valuable to the global scientific community for generations to come.
-
 ## See Also
 
 - [[mycology]]
-- [[specimen-database-design]]
-- [[core-specimen-data-structure]]
-- [[fungal-phylogeny-classification]]
+- [[fungal-taxonomy]]
 - [[biodiversity-database-design-fields-tables]]
+- [[database-design-fungal-specimens]]
+- [[spore]]

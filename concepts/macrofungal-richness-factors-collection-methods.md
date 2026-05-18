@@ -52,7 +52,7 @@ Europe, despite having the most intensive and long-standing fungal collection hi
 
 Different fungal lineages show contrasting latitudinal diversity patterns:
 - **Cortinariaceae and discomycetes** reach peak diversity at middle to high latitudes
-- **Saprobic Tricholomataceae (Agaricales)** are most diverse at low latitudes
+- **Saprobic Tricholomataceae ([[agaricales]])** are most diverse at low latitudes
 
 These opposing trends caution against generalizing about fungal latitudinal gradients without considering taxonomic identity and ecological strategy.
 
@@ -62,7 +62,7 @@ These opposing trends caution against generalizing about fungal latitudinal grad
 
 Sporocarp succession occurs on particular substrata in predictable sequences. A classic example is the sequential fruiting of **herbivore dung fungi**, where different species appear consecutively as the dung ages and its chemical composition changes. Community composition shifts in response to substrate quality changes over time.
 
-Hedger (1985) documented a striking example of **obligate succession**: *Lepiota* species grow only on leaf litter that has already been partially decomposed by *Marasmius*, making the initial decomposer a prerequisite for the later one.
+Hedger (1985) documented a striking example of **obligate succession**: *[[lepiota]]* species grow only on leaf litter that has already been partially decomposed by *Marasmius*, making the initial decomposer a prerequisite for the later one.
 
 ### Wood Decomposition Chronosequences
 

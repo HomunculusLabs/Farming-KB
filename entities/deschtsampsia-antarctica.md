@@ -31,11 +31,11 @@ type: entity
 
 *Deschampsia antarctica* is important for understanding the ecological limits of mycorrhizal symbiosis:
 
-- Represents the extreme southern limit of AM fungal associations, testing hypotheses about global distribution patterns of Glomales
+- Represents the extreme southern limit of AM fungal associations, testing hypotheses about global distribution patterns of [[glomales]]
 - The inconsistent detection of AM fungi at different Antarctic sites raises questions about the environmental thresholds for mycorrhizal establishment
 - Relevant to studies of plant–fungus coevolution in extreme environments, where both partners face severe cold, desiccation, and nutrient limitation
 - Provides a natural model for understanding whether AM fungal distribution is limited by host plant availability, edaphic factors, or environmental extremes
-- The species is a reference point in discussions of polar mycology and the global biodiversity inventory of AM fungi
+- The species is a reference point in discussions of polar [[mycology]] and the global biodiversity inventory of AM fungi
 
 ## Related
 - [[deschampsia-caespitosa]]

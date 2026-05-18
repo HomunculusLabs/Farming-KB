@@ -78,3 +78,10 @@ to extreme salinity.
 - [[halophilic-fungi]]
 - [[trichoderma]]
 - [[mycorrhiza]]
+## Integration and Implementation
+
+Successful implementation of halotolerant halophilic fungi requires attention to site-specific
+conditions and adaptive management strategies. Integration with complementary
+practices often enhances overall outcomes. Practitioners recommend starting with
+small-scale trials before scaling up, documenting results systematically to
+inform future decisions and share knowledge with the broader community.

@@ -55,7 +55,7 @@ This family has undergone significant taxonomic revision:
 A family containing genera of medical and ecological importance:
 
 - **Filobasidium**: Characterized by long-chain basidia, found as epiphytic or weakly parasitic associates of other fungi.
-- **Filobasidiella / Cryptococcus neoformans**: The teleomorph (*Filobasidiella*) and anamorph (*Cryptococcus neoformans*) complex is one of the most medically significant fungi globally, causing cryptococcosis in immunocompromised patients. Its ability to produce **haustoria** during the yeast phase on fungal hosts links it to the mycoparasitic heritage of the Tremellales.
+- **Filobasidiella / [[cryptococcus-neoformans]]**: The teleomorph (*Filobasidiella*) and anamorph (*Cryptococcus neoformans*) complex is one of the most medically significant fungi globally, causing cryptococcosis in immunocompromised patients. Its ability to produce **haustoria** during the yeast phase on fungal hosts links it to the mycoparasitic heritage of the Tremellales.
 - **Cystofilobasidium**: A genus of cold-adapted yeasts, some of which show weak mycoparasitic activity.
 
 ### Other Families
@@ -72,7 +72,7 @@ Members of the Aphyllophorales (polypores and corticioid fungi) include several 
 
 - **Bjerkandera**, **Lenzites**, **Trametes**, **Schizophyllum**, and **Pleurotus**: These well-known wood-decay genera also exhibit mycoparasitic activity, aggressively colonizing and destroying other fungi competing for the same substrate.
 - **Hyphal interference**: The primary mechanism involves direct hyphal contact, where aggressive species secrete enzymes or toxic metabolites that lyse the hyphae of competitors, leading to rapid necrosis of the rival mycelium.
-- ***Geotrichopsis mycoparasitica***: A specialized mycoparasite with a name reflecting its ecological niche, attacking other fungi in soil and wood substrates.
+- ***Geotrichopsis mycoparasitica***: A specialized mycoparasite with a name reflecting its [[ecological-niche]], attacking other fungi in soil and wood substrates.
 - ***Athelia arachnoidea***: A **lichenicolous** species that overgrows and kills lichen thalli, forming white, web-like patches on the surface.
 - ***Marchandiomyces corallinus***: Another notable lichenicolous fungus producing coral-like fruiting structures on its hosts.
 

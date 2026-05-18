@@ -35,7 +35,7 @@ morphology across multiple basidiomycete lineages.
   Cryptobasidiaceae (Bauer et al. 2001).
 
 - **Host Plants:** All *Graphiola* species occur on palm hosts (Arecaceae).
-  Species on date palms (*Phoenix dactylifera*) are restricted mainly to
+  Species on date palms (*[[phoenix-dactylifera]]*) are restricted mainly to
   coastal areas. Species found on cultivated host species occur wherever the
   palms are grown under humid conditions, extending beyond the native range of
   their palm hosts.
@@ -74,7 +74,7 @@ morphology across multiple basidiomycete lineages.
   applications. The disease constrains date production in coastal and irrigated
   areas with high humidity.
 
-- **Smut Fungi Phylogeny:** The placement of *Graphiola* within the
+- **[[smut-fungi]] Phylogeny:** The placement of *Graphiola* within the
   Exobasidiales rather than with the true smuts (Ustilaginales) illustrates the
   convergent evolution of smutlike morphology across multiple basidiomycete
   lineages. Molecular phylogenetics has been essential for resolving these

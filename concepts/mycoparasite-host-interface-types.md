@@ -6,7 +6,7 @@ type: concept
 
 # Mycoparasite-Host Interface Types
 
-Mycoparasite-host interfaces describe the physical and physiological boundaries at which parasitic fungi interact with their fungal hosts. Jeffries and Young (1994) distinguished five principal interface types, which can be grouped into two broad categories based on the fate of the host cytoplasm: **necrotrophic** (host cytoplasm degenerates) and **biotrophic** (host cytoplasm remains healthy). Understanding these interface types is essential for mycology, fungal ecology, and biological control of plant pathogens.
+Mycoparasite-host interfaces describe the physical and physiological boundaries at which parasitic fungi interact with their fungal hosts. Jeffries and Young (1994) distinguished five principal interface types, which can be grouped into two broad categories based on the fate of the host cytoplasm: **necrotrophic** (host cytoplasm degenerates) and **biotrophic** (host cytoplasm remains healthy). Understanding these interface types is essential for mycology, [[fungal-ecology]], and biological control of plant pathogens.
 
 ## The Five Principal Interface Types
 
@@ -14,7 +14,7 @@ Mycoparasite-host interfaces describe the physical and physiological boundaries 
 
 In contact necrotrophic interactions, neither hyphae nor haustoria penetrate the host. Damage is inflicted through hyphal interference — proximity alone is sufficient to harm the host through diffusible toxins, enzymes, or volatile compounds. This represents the most externally oriented mycoparasitic strategy.
 
-**Examples:** *Arthrobotrys superba* and *A. oligospora* — nematophagous fungi that also function as contact mycoparasites — damage host fungi without physical penetration. *Tilletiopsis* species attack powdery mildew (*Sphaerotheca fuliginea*) through contact-mediated killing. The production of antibiotic metabolites and lytic enzymes (particularly chitinases) released into the surrounding medium mediates the destructive effect.
+**Examples:** *Arthrobotrys superba* and *A. oligospora* — [[nematophagous-fungi]] that also function as contact mycoparasites — damage host fungi without physical penetration. *Tilletiopsis* species attack powdery mildew (*Sphaerotheca fuliginea*) through contact-mediated killing. The production of antibiotic metabolites and lytic enzymes (particularly chitinases) released into the surrounding medium mediates the destructive effect.
 Antibiotic metabolite production is often correlated with pigmentation in the producing fungus, and some contact necrotrophs overgrow host colonies without being inhibited by host metabolites. Contact necrotrophic species like *Acremonium strictum*, *Clonostachys rosea*, *Trichothecium roseum*, and *Sistotrema brinkmannii* are notably efficient at overgrowing other fungi, suggesting potent chemical suppression of competitors.
 
 ### 2. Invasive Necrotrophic

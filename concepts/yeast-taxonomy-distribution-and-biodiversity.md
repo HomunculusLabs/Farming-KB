@@ -93,7 +93,7 @@ Yeasts are primarily saprotrophs that assimilate plant- or animal-derived organi
 
 ### Pathogenic Species
 
-Although usually decomposers, some yeast species are pathogens of plants and animals. Notable pathogens include *Candida albicans* (human opportunistic pathogen), *Cryptococcus neoformans* (human pathogen), and various *Malassezia* species (skin-associated commensals and pathogens).
+Although usually decomposers, some yeast species are pathogens of plants and animals. Notable pathogens include *[[candida-albicans]]* (human opportunistic pathogen), *[[cryptococcus-neoformans]]* (human pathogen), and various *Malassezia* species (skin-associated commensals and pathogens).
 
 ## Reference Collections
 
@@ -147,14 +147,3 @@ Water samples plated directly or passed through 0.45-μm nitrocellulose filters.
 Known quantity of soil mixed with sterile water (sea water for marine samples) in a test tube, followed by a dilution series. Suspensions spread onto isolation media; colonies recorded and enumerated.
 
 ### Enrichment
-
-Samples placed in flasks with nutrient medium tailored to the target yeast's preferences. Medium composition customized by adding specific carbon/nitrogen compounds, vitamins, growth factors, or manipulating substratum levels and salinity. Incubated 12–24 hours with continuous shaking; filamentous fungi grow in pellets while yeasts remain free cells. Liquid then streaked onto isolation plates.
-
-### Dealing with Contamination
-
-- **Filamentous fungi**: Shake culture provides partial solution; incubation at lower temperatures (12°C for temperate/tropical samples) slows filamentous growth; daily plate examination for early isolation
-- **Bacteria**: pH lowering to 3.5–3.8; broad-spectrum antibiotics (chloramphenicol at 200 mg/L, or penicillin G + streptomycin sulfate at 150–500 mg/L each)
-
-### Isolation Media
-
-Yeast Isolation Medium (PYG) is commonly used. Wickerham's YM medium is an alternative. Various carbon sources can substitute for glucose. For oceanic sampling, sea water at 37‰ salinity; brackish water at 15‰ for inshore/estuarine samples. Media solidified with 2–3% agar.

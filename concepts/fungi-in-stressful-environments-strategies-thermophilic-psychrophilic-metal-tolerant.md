@@ -59,7 +59,7 @@ Twenty-two widespread thermophilic taxa have been documented across multiple hab
 
 | Taxon | Notes |
 |-------|-------|
-| *Acremonium strictum* | Common in heated soils and compost |
+| *[[acremonium-strictum]]* | Common in heated soils and compost |
 | *Chaetomium thermophilum* (vars.) | Frequently isolated from compost |
 | *Corynascus thermophilus* | Compost and self-heating hay |
 | *Malbranchea cinnamomea* | Soil and compost |
@@ -67,7 +67,7 @@ Twenty-two widespread thermophilic taxa have been documented across multiple hab
 | *Myriococcum thermophilum* | Compost and mushroom beds |
 | *Ochroconis gallopava* | Thermal soils; opportunistic pathogen |
 | *Rhizomucor miehei*, *R. pusillus*, *R. microsporus* | Compost and soil |
-| *Scytalidium thermophilum* | Critical in mushroom compost |
+| *Scytalidium thermophilum* | Critical in [[mushroom-compost]] |
 | *Talaromyces byssochlamydoides*, *T. emersonii*, *T. thermophilus* | Heated organic matter |
 | *Thermoascus aegyptiacus*, *T. aurantiacus*, *T. crustaceus* | Compost piles |
 | *Thermomyces lanuginosus*, *T. stellatus* | Ubiquitous in warm soils |

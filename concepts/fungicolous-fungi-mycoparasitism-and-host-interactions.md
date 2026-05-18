@@ -18,7 +18,7 @@ The study of fungicolous fungi has a long history:
 - **Hawksworth (1979a, 1981a)**: Reported 1,100 conidial fungicolous species on approximately 2,500 host species (including lichens)
 - **Lichenicolous fungi**: About 550 species recognized in 1979; now probably exceeding 1,500
 
-A subgroup, sporocarp-inhabiting fungi (SCIF), refers specifically to fungi growing on sporocarps (fruiting bodies) of other fungi or slime molds.
+A subgroup, sporocarp-inhabiting fungi (SCIF), refers specifically to fungi growing on sporocarps (fruiting bodies) of other fungi or [[slime-molds]].
 
 ## Types of Fungicolous Associations
 
@@ -148,23 +148,3 @@ Mycoparasitism is difficult to observe in nature but can be inferred when growth
 ### Antibiotic and Enzyme Production
 
 - **Necrotrophs**: Release toxins and lytic enzymes (particularly chitinase) into the environment
-- **Biotrophs**: No production of toxins or lytic enzymes has been demonstrated
-- Rudakov (1978) tested nearly 200 species of fungicolous fungi in paired culture; inhibitory metabolite production was most pronounced in necrotrophs but also common in fungi growing on macromycetes
-
-### Volatile Metabolites
-
-*Trichoderma* species exhibit various modes of interspecific interaction mediated by volatile and nonvolatile metabolites (Dennis and Webster 1971a, 1971b; Whipps 1987). *Hypomyces odoratus* produces hypodoratoxide, a sesquiterpene eremophilane ether with phytotoxic properties, as a major volatile component (Kühne et al. 1991).
-
-### Pigmentation and Inhibition
-
-Inhibitor production is positively correlated with intensity of pigmentation in *Hypomyces aurantius*, *H. odoratus*, and *H. rosellus*. Strains with weak or no pigmentation had no inhibitory effect. When a typically pigmented strain was transferred to medium causing color loss, inhibitor production also decreased (Lerner and Sidorova 1978).
-
-## Gene Transfer Between Parasite and Host
-
-Horizontal gene transfer between fungicolous fungi and their hosts has been demonstrated experimentally:
-
-- **Absidia glauca and Parasitella parasitica**: Plasmatic connection established between sikyotic ("sucker" or "anchor") cell of the parasite and the host (Burgeff 1924). The prothrophic parasite compensated for artificially induced deficiencies in the host, established in 0.4% of offspring. Transfer of a neomycin-resistance–conferring plasmid was also observed (Kellner et al. 1993; Wöstemeyer et al. 1995).
-
-- Although "pararecombinants" were unstable, such a natural gene transfer mechanism could have important evolutionary implications (Jeffries 1995).
-
-- Setliff (1984) speculated that the unusual morphology of *Aporpium caryae* (features of both Tremellales and polypores) may have resulted from horizontal gene transfer from a host fungus to its mycoparasite. A similar hypothesis could apply to many other tremelloid fungi.

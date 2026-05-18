@@ -6,7 +6,7 @@ type: concept
 
 # Lichenicolous Fungi: Diversity and Host Specificity
 
-[[lichenicolous-fungi]] — fungi that grow on lichens — represent a remarkably diverse and specialized group within the [[fungicolous-fungi]]. They range from biotrophic parasites to destructive necrotrophs and are found across multiple orders of Ascomycota and Basidiomycota. Their host specificity varies from extreme specialists restricted to a single host species to generalists capable of colonizing multiple lichen genera.
+[[lichenicolous-fungi]] — fungi that grow on [[lichens]] — represent a remarkably diverse and specialized group within the [[fungicolous-fungi]]. They range from biotrophic parasites to destructive necrotrophs and are found across multiple orders of Ascomycota and Basidiomycota. Their host specificity varies from extreme specialists restricted to a single host species to generalists capable of colonizing multiple lichen genera.
 
 ## Ascomycete Lichenicolous Fungi
 
@@ -14,7 +14,7 @@ type: concept
 
 Most species of Arthonia, Lecanographa, and Opegrapha are lichenized, but a significant proportion are lichenicolous:
 
-- **Arthonia**: Approximately 45 species are lichenicolous (Clauzade et al. 1989; Grube et al. 1995), growing on diverse lichen hosts including Xanthoria elegans (A. molendoi)
+- **Arthonia**: Approximately 45 species are lichenicolous (Clauzade et al. 1989; Grube et al. 1995), growing on diverse lichen hosts including [[xanthoria-elegans]] (A. molendoi)
 - **Lecanographa**: Three species are lichenicolous (Egea and Torrente 1994)
 - **Opegrapha**: 35 species are lichenicolous (Clauzade et al. 1989; Hafellner 1994), including O. cladoniae, which is confined to Cladonia species
 - **Plectocarpon**: At least 23 species are lichenicolous (Diederich and Etayo 1994)
@@ -147,7 +147,3 @@ Lichenicolous fungi influence lichen community structure and dynamics through:
 5. Potential bioindication of environmental conditions, particularly air quality (Athelia arachnoidea proliferates in polluted areas)
 
 The extreme diversity of lichenicolous fungi — spanning multiple orders across two phyla — reflects the long evolutionary history and ecological importance of fungal-fungal interactions in lichen-dominated ecosystems.
-
-## Related
-
-- [[lichenicolous-fungi-ascomycota]]

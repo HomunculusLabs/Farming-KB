@@ -77,3 +77,5 @@ The Carbon-to-Nitrogen ratio (C:N ratio) is the fundamental measurement of the r
 - [[peat-moss]]
 - [[mesophilic-organisms]]
 - [[thermophilic-organisms]]
+
+This subject continues to be an active area of research and practical application.

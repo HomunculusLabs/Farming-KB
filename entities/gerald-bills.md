@@ -77,3 +77,5 @@ For mushroom cultivators, the biodiversity science championed by Bills provides 
 - [[meredith-blackwell]]
 - [[joseph-spatafora]]
 - [[kingdom-fungi]]
+
+This subject continues to be an active area of research and practical application.

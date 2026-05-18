@@ -109,7 +109,7 @@ Dead plant tissue represents one of the most productive substrata for microfunga
 - Of the approximately 32,250 described species of [[ascomycota]], about 13,000 (40%) are likely microfungi occurring on dead plant parts.
 - Since approximately 45% of Ascomycota species are lichenized, dead plant tissue techniques effectively sample about 73% of non-lichenized Ascomycota diversity.
 - Approximately 15,000 described mitosporic (asexual) fungi exist; roughly 65% of these are likely sampled by dead plant techniques, yielding an estimate of about 10,000 species.
-- A token estimate of 500 species is assigned to Basidiomycota and Zygomycota occurring on dead plant tissue.
+- A token estimate of 500 species is assigned to [[basidiomycota]] and Zygomycota occurring on dead plant tissue.
 
 Summing these figures gives a total known diversity of approximately **23,500 species** (about 32% of the 72,000 described fungal species) that could potentially be collected using dead plant tissue protocols.
 

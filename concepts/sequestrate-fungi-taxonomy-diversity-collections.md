@@ -85,7 +85,7 @@ Sequestrate fungi span two phyla: **Zygomycota** (class Zygomycetes) and **Dikar
 
 ## Herbarium Collections
 
-Study began in Italy, where pre-Linnaean botanists were interested in truffles. **Carlo Vittadini** (1831, 1842) laid the foundations of modern generic concepts; his collections and those of **Oreste Mattirolo** are at the Botanical Institute, University of Torino.
+Study began in Italy, where pre-Linnaean botanists were interested in truffles. **[[carlo-vittadini]]** (1831, 1842) laid the foundations of modern generic concepts; his collections and those of **Oreste Mattirolo** are at the Botanical Institute, University of Torino.
 
 ### Pioneer Collections (19th–Early 20th Century)
 
@@ -131,7 +131,7 @@ Well-explored regions: temperate Europe, western North America, New Zealand, tem
 
 ### Endemism
 
-Endemism is common, driven by host specificity, animal dispersal dependence, narrow habitat requirements, and geographic barriers (oceans, deserts, mountains). Pines, Douglas fir, spruce, true firs, oaks, and *Eucalyptus* each harbor numerous host-specific species. However, **local endemism may be overestimated** — *Cazia flexiascus* was initially known from SW Oregon, then found 80 km north and later 1500 km south in S California.
+Endemism is common, driven by host specificity, animal dispersal dependence, narrow habitat requirements, and geographic barriers (oceans, deserts, mountains). Pines, [[douglas-fir]], spruce, true firs, oaks, and *Eucalyptus* each harbor numerous host-specific species. However, **local endemism may be overestimated** — *Cazia flexiascus* was initially known from SW Oregon, then found 80 km north and later 1500 km south in S California.
 
 ## Global Assessment
 
